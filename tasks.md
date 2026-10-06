@@ -119,9 +119,9 @@ See [plan.md](plan.md) for the context and reasoning.
 - [x] Interactive self assessment on every role level page, saved locally and exported as TSV
 - [x] Sveltia CMS at `/admin/`, editing `data/` in the monorepo (`scripts/cms_config.py`)
 - [x] Publishing by git subtree: `Makefile`, `bin/make-github-pages`, `bin/check`, `spec/monorepo-github-pages/`
-- [ ] Create the GitHub repositories `roles-skills/roles-skills` and `roles-skills/roles-skills.github.io`, and enable GitHub Pages (GitHub Actions)
+- [x] Create the GitHub repositories `roles-skills/roles-skills` and `roles-skills/roles-skills.github.io`, and enable GitHub Pages (GitHub Actions)
 - [ ] Set up Sveltia CMS authentication for the GitHub backend
-- [ ] First publish: `make github-pages`
+- [x] First publish: `make github-pages` (live at https://roles-skills.github.io)
 
 ## 11. Validation and release
 
