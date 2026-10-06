@@ -1,0 +1,76 @@
+# Welsh translations of data/skills/product-design.yaml. Keys are the English skill ids.
+pd-health-research-ethics:
+  name: Ymchwil foesegol gyda chleifion a staff gofal
+  slug: ymchwil-foesegol-gyda-chleifion-a-staff-gofal
+  description: Cynllunio a chynnal ymchwil gyda chleifion, gofalwyr, clinigwyr, a staff gofal yn ddiogel ac yn foesegol, gan gynnwys cydsyniad gwybodus, diogelu, ymchwil gyda phobl mewn amgylchiadau bregus, a gwybod pryd mae angen cymeradwyaeth foesegol ffurfiol.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae ymchwil gyda chleifion a staff gofal yn gofyn am gydsyniad gwybodus, diogelu, a gofal gyda data personol
+      - dilyn gweithdrefnau'r tîm ar gyfer cydsyniad, diogelu, a thrin data mewn sesiynau ymchwil
+    working: |
+      Gallwch:
+      - cynllunio sesiynau ymchwil sy'n cael cydsyniad gwybodus ac yn diogelu llesiant a phreifatrwydd cyfranogwyr
+      - addasu sesiynau ar gyfer pobl sy'n sâl, yn ofidus, neu mewn amgylchiadau bregus, a gwybod pryd i stopio
+      - adnabod pryderon diogelu sy'n codi mewn ymchwil a rhoi gwybod amdanynt
+    practitioner: |
+      Gallwch:
+      - barnu pryd mae angen cymeradwyaeth foesegol ffurfiol neu gymeradwyaeth llywodraethiant ymchwil ar ymchwil, a pharatoi'r hyn sydd ei angen
+      - cynllunio ymchwil ddiogel gyda phobl mewn amgylchiadau bregus, fel plant, pobl â dementia, a phobl mewn argyfwng
+      - cynllunio ymchwil mewn lleoliadau clinigol heb amharu ar ofal, gan weithio gydag arweinwyr clinigol a staff gofal
+      - cefnogi ymchwilwyr i ofalu am eu llesiant eu hunain ar ôl sesiynau trallodus
+    expert: |
+      Gallwch:
+      - gosod safonau'r sefydliad ar gyfer ymchwil foesegol gyda chleifion, gofalwyr, a staff gofal
+      - sicrhau arferion ymchwil ar draws timau a chynghori ar ymchwil risg uchel
+      - cynrychioli arferion ymchwil i gyrff moeseg, diogelu, a llywodraethiant
+
+pd-safety-critical-design:
+  name: Dylunio ar gyfer diogelwch clinigol a ffactorau dynol
+  slug: dylunio-ar-gyfer-diogelwch-clinigol-a-ffactorau-dynol
+  description: Dylunio gwasanaethau, rhyngwynebau, a llifoedd gwaith sy'n helpu clinigwyr, staff gofal, a chleifion i weithredu'n ddiogel, drwy gymhwyso egwyddorion ffactorau dynol a gweithio gyda'r broses rheoli risg glinigol.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro sut y gall dewisiadau dylunio achosi neu atal gwallau mewn gofal, fel camgymeriadau claf anghywir neu ddos anghywir
+      - defnyddio patrymau'r sefydliad ar gyfer gwybodaeth sy'n hanfodol i ddiogelwch, fel baneri hunaniaeth cleifion a rhybuddion alergedd
+    working: |
+      Gallwch:
+      - dylunio rhyngwynebau sy'n gwneud y weithred ddiogel yn hawdd, er enghraifft drwy leihau labeli amwys a rhybuddion diangen
+      - profi dyluniadau mewn senarios clinigol realistig, gan gynnwys ymyriadau a phwysau amser
+      - codi peryglon sy'n gysylltiedig â dylunio gyda'r swyddog diogelwch clinigol a chofnodi sut mae dyluniadau'n eu rheoli
+    practitioner: |
+      Gallwch:
+      - cymhwyso dulliau ffactorau dynol, fel dadansoddi tasgau a dadansoddi gwallau defnydd, i lifoedd gwaith clinigol cymhleth
+      - dylunio i leihau blinder rhybuddion a llwyth gwybyddol ar draws gwasanaeth cyfan
+      - darparu tystiolaeth ddylunio ar gyfer achosion diogelwch clinigol a thystiolaeth defnyddioldeb ar gyfer meddalwedd a reoleiddir
+    expert: |
+      Gallwch:
+      - gosod safonau a phatrymau'r sefydliad ar gyfer dylunio sy'n hanfodol i ddiogelwch
+      - arwain gwaith ffactorau dynol ar y gwasanaethau clinigol â'r risg uchaf
+      - cynghori arweinwyr diogelwch clinigol a chynnyrch ar risgiau sy'n gysylltiedig â dylunio ar draws y portffolio
+
+pd-health-content:
+  name: Cynnwys gwybodaeth iechyd
+  slug: cynnwys-gwybodaeth-iechyd
+  description: Creu cynnwys iechyd a gofal sy'n gywir, wedi'i sicrhau'n glinigol, ac yn hawdd i bobl â lefelau gwahanol o lythrennedd iechyd ei ddeall a gweithredu arno.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae'n rhaid i wybodaeth iechyd fod yn gywir, yn gyfredol, ac yn hawdd ei deall
+      - dilyn canllaw arddull a phroses adolygu clinigol y tîm ar gyfer cynnwys iechyd
+    working: |
+      Gallwch:
+      - ysgrifennu cynnwys iechyd y gall pobl â llythrennedd iechyd isel ei ddeall a gweithredu arno, fel symptomau a phryd i gael help
+      - gweithio gydag adolygwyr clinigol i wirio bod cynnwys yn gywir heb golli eglurder
+      - egluro termau meddygol mewn iaith glir a defnyddio enwau cyson ar gyflyrau, profion, a thriniaethau
+    practitioner: |
+      Gallwch:
+      - dylunio cynnwys ar gyfer pynciau sensitif a risg uchel, fel symptomau brys, meddyginiaethau, a gofal diwedd oes
+      - sefydlu sicrwydd clinigol, dyddiadau adolygu, a ffynonellau tystiolaeth ar gyfer corff o gynnwys iechyd
+      - cydbwyso cywirdeb clinigol, gofynion cyfreithiol, a dealltwriaeth defnyddwyr mewn cynnwys dadleuol
+    expert: |
+      Gallwch:
+      - gosod safonau'r sefydliad ar gyfer cynnwys gwybodaeth iechyd a'i sicrwydd clinigol
+      - arwain strategaeth gynnwys ar gyfer gwybodaeth iechyd ar draws gwasanaethau a sianeli
+      - cynghori uwch arweinwyr clinigol a chyfathrebu ar risgiau gwybodaeth iechyd

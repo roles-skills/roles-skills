@@ -1,0 +1,69 @@
+summary: >
+  Mae penseiri datrysiadau yn dylunio sut bydd gwasanaeth newydd neu wedi'i newid yn gweithio o'r dechrau i'r
+  diwedd, o anghenion defnyddwyr a llifoedd gwaith clinigol i gymwysiadau, data, integreiddiadau, lletya, a
+  diogelwch. Maen nhw'n sicrhau bod pob datrysiad yn ffitio pensaernïaeth y sefydliad, yn bodloni ei anghenion
+  diogelwch, preifatrwydd, a rhyngweithredu, ac y gellir ei adeiladu, ei redeg, a'i gefnogi'n fforddiadwy.
+health_context:
+  - Mae datrysiadau'n aml yn cyfuno systemau clinigol a brynwyd, gwasanaethau mewnol, a llwyfannau a rennir, felly mae'n rhaid i benseiri ddylunio ar draws ffiniau cyflenwyr.
+  - Gall dewisiadau dylunio gyflwyno peryglon clinigol, fel canlyniadau coll neu baru cleifion anghywir, felly mae dyluniadau datrysiadau'n bwydo i'r achos diogelwch clinigol.
+  - Mae angen sail gyfreithlon ac asesiad o'r effaith ar ddiogelu data ar bob llif data newydd o wybodaeth cleifion, felly mae penseiri'n gweithio'n agos gyda llywodraethiant gwybodaeth.
+  - Mae rhyngweithredu â sefydliadau iechyd a gofal eraill, gan ddefnyddio safonau fel HL7 FHIR, fel arfer yn ofyniad craidd.
+  - Mae rhai datrysiadau'n cynnwys meddalwedd sy'n ddyfais feddygol, sy'n newid y gofynion dylunio, sicrwydd, a chyflenwyr.
+levels:
+  - title: Pensaer datrysiadau cyswllt
+    slug: pensaer-datrysiadau-cyswllt
+    responsibilities:
+      - Casglu gofynion gan dimau cynnyrch, clinigwyr, a chyflenwyr i lywio dyluniadau datrysiadau.
+      - Llunio diagramau o'r sefyllfa bresennol a tharged, fel golygfeydd cyd-destun, llif data, ac integreiddio.
+      - Drafftio adrannau o ddyluniadau datrysiadau a chofnodion penderfyniadau dan oruchwyliaeth.
+      - Gwirio dyluniadau yn erbyn safonau pensaernïaeth, gofynion diogelwch, a gofynion llywodraethiant gwybodaeth.
+      - Helpu i baratoi dyluniadau i'w hadolygu mewn awdurdodau dylunio.
+    qualifications:
+      - Gwybodaeth arbenigol am ddylunio datrysiadau, ar lefel gradd meistr neu brofiad cyfatebol.
+      - Profiad o ddadansoddi, datblygu, neu ddylunio technegol.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 6): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 7. Caiff gwybodaeth ei sgorio ar lefel gradd meistr neu gyfatebol, gan fod y swydd yn dylunio ar draws cymwysiadau, data, integreiddio, a diogelwch."
+  - title: Pensaer datrysiadau
+    slug: pensaer-datrysiadau
+    responsibilities:
+      - Dylunio datrysiadau o'r dechrau i'r diwedd ar gyfer gwasanaethau risg is, fel offer staff neu wasanaethau syml i gleifion.
+      - Cymharu opsiynau, gan gynnwys prynu, adeiladu, ac ailddefnyddio llwyfannau a rennir, ac argymell un gyda rhesymau clir.
+      - Dylunio integreiddiadau, llifoedd data, a hunaniaeth a mynediad ar gyfer y datrysiad, gan ddefnyddio safonau agored lle maent yn bodoli.
+      - Cyfrannu at adnabod peryglon ac asesiadau o'r effaith ar ddiogelu data ar gyfer y datrysiad.
+      - Cyflwyno dyluniadau i awdurdodau dylunio a chefnogi timau cyflawni drwy'r gwaith adeiladu a mynd yn fyw.
+      - Hyfforddi ac adolygu gwaith penseiri datrysiadau cyswllt.
+    qualifications:
+      - Profiad sylweddol o ddylunio datrysiadau neu beirianneg meddalwedd, ar lefel sy'n cyfateb i radd meistr.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 7): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8a. Caiff cynllunio, polisi, a rhyddid i weithredu eu sgorio uwchlaw proffil Band 7 gan fod y swydd yn berchen ar ddyluniadau o'r dechrau i'r diwedd ac yn argymell opsiynau i awdurdodau dylunio."
+  - title: Uwch bensaer datrysiadau
+    slug: uwch-bensaer-datrysiadau
+    responsibilities:
+      - Dylunio datrysiadau cymhleth o risg gymedrol, fel systemau clinigol neu wasanaethau a ddefnyddir ar draws sawl sefydliad.
+      - Arwain gwerthusiad technegol cynhyrchion cyflenwyr mewn caffaeliadau, gan gynnwys rhyngweithredu, diogelwch, a diogelwch clinigol.
+      - Dylunio ar gyfer gwydnwch a pharhad busnes lle mae'r datrysiad yn cefnogi gofal drwy'r dydd a'r nos.
+      - Gweithio gyda swyddogion diogelwch clinigol fel bod penderfyniadau dylunio a mesurau rheoli risg yn cael eu cofnodi yn yr achos diogelwch.
+      - Hyfforddi ac adolygu gwaith penseiri datrysiadau eraill.
+    qualifications:
+      - Profiad helaeth o ddylunio datrysiadau cymhleth ar draws sawl disgyblaeth, ar lefel y tu hwnt i radd meistr.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 8a): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8b. Caiff gwybodaeth ei sgorio ar lefel 8 ar gyfer gwybodaeth arbenigol ar draws sawl disgyblaeth, fel cymwysiadau, data, integreiddio, diogelwch, a diogelwch clinigol."
+  - title: Pensaer datrysiadau arweiniol
+    slug: pensaer-datrysiadau-arweiniol
+    responsibilities:
+      - Arwain pensaernïaeth datrysiadau ar gyfer rhaglen neu faes cymhleth, fel disodli cofnod electronig am gleifion.
+      - Sicrhau bod datrysiadau ar draws y rhaglen yn gyson, yn rhyngweithredol, ac wedi'u halinio â'r bensaernïaeth darged.
+      - Cynghori byrddau rhaglen ar risgiau dylunio, dibyniaethau, dewisiadau cyflenwyr, a chostau.
+      - Sicrhau dyluniadau penseiri datrysiadau eraill mewn awdurdodau dylunio.
+      - Arwain a datblygu tîm o benseiri datrysiadau.
+    qualifications:
+      - Profiad helaeth o arwain pensaernïaeth datrysiadau ar gyfer rhaglenni cymhleth.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 8b): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8c. Caiff cynllunio, polisi, a phobl eu sgorio uwchlaw proffil Band 8b gan fod y swydd yn cynllunio pensaernïaeth rhaglen gyfan ac yn arwain tîm o benseiri datrysiadau."
+  - title: Prif bensaer datrysiadau
+    slug: prif-bensaer-datrysiadau
+    responsibilities:
+      - Arwain pensaernïaeth datrysiadau ar gyfer rhaglenni mwyaf neu fwyaf hanfodol y sefydliad.
+      - Gosod safonau, patrymau, a dulliau pensaernïaeth datrysiadau ar gyfer y sefydliad.
+      - Cynghori cyfarwyddwyr a sefydliadau partner ar ddyluniad gwasanaethau iechyd a gofal hanfodol a rennir.
+      - Datrys y gwrthdaro dylunio anoddaf rhwng rhaglenni, cyflenwyr, a sefydliadau partner.
+      - Arwain ymarfer pensaernïaeth datrysiadau a datblygu ei bobl.
+    qualifications:
+      - Profiad helaeth o arwain pensaernïaeth datrysiadau ar draws sawl rhaglen neu sefydliad.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 8c): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8d. Mae rhyddid i weithredu ar lefel 6 gan fod y swydd yn gosod safonau pensaernïaeth datrysiadau'r sefydliad; mae adnoddau ariannol a phobl ar lefel 4 gan ei bod yn arwain yr ymarfer a'i gyllideb."

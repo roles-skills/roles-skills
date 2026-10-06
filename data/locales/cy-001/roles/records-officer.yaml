@@ -1,0 +1,63 @@
+summary: >
+  Mae staff cofnodion iechyd yn sicrhau bod cofnodion cleifion a chofnodion corfforaethol yn cael eu creu, eu
+  storio, eu holrhain, eu hadfer, a'u gwaredu'n gywir, boed ar bapur neu mewn systemau digidol. Maen nhw'n cadw
+  cofnodion ar gael ar gyfer gofal, yn eu diogelu rhag colled a mynediad heb awdurdod, ac yn cefnogi'r symud o
+  gofnodion papur i gofnodion digidol.
+health_context:
+  - Mae'n rhaid i gofnodion cleifion fod ar gael pan fo clinigwyr eu hangen, felly gall oedi neu gofnodion coll effeithio'n uniongyrchol ar ofal.
+  - Mae cofnodion yn cynnwys gwybodaeth gyfrinachol iawn, felly mae staff yn dilyn rheolau cyfrinachedd a mynediad llym a gallant ddarllen cynnwys trallodus yn rheolaidd.
+  - Mae'r rhan fwyaf o sefydliadau'n dal cofnodion papur a digidol, felly mae'r rôl yn cynnwys sganio, mynegeio, a rheoli cofnodion hybrid.
+  - Mae'n rhaid cadw cofnodion am gyfnodau penodol o dan gofrestrau cadw cofnodion ac yna eu harchifo neu eu dinistrio'n ddiogel, gyda llwybr archwilio.
+  - Mae timau cofnodion yn aml yn prosesu ceisiadau am fynediad at gofnodion iechyd, sydd â therfynau amser cyfreithiol.
+levels:
+  - title: Cynorthwyydd cofnodion
+    slug: cynorthwyydd-cofnodion
+    summary: Yn ffeilio, yn adfer, yn olrhain, yn sganio, ac yn paratoi cofnodion, gan ddilyn gweithdrefnau penodol gyda goruchwyliaeth gerllaw.
+    responsibilities:
+      - Ffeilio, adfer, ac olrhain cofnodion papur, a'u paratoi ar gyfer clinigau a cheisiadau.
+      - Sganio a mynegeio cofnodion i'r system cofnodion electronig, gan wirio ansawdd.
+      - Mewnbynnu a diweddaru manylion cofnodion yn gywir mewn systemau olrhain.
+      - Cadw cofnodion yn ddiogel a rhoi gwybod am unrhyw gofnodion coll neu achosion o dor diogelwch ar unwaith.
+      - Symud a storio cofnodion yn ddiogel, gan gynnwys blychau a throlïau o nodiadau achos.
+    qualifications:
+      - Sgiliau llythrennedd, rhifedd, a bysellfwrdd da.
+    job_evaluation_notes: Caiff sgiliau corfforol eu sgorio ar lefel 3 am sganio a mewnbynnu data'n gyflym ac yn gywir. Mae ymdrech gorfforol yn adlewyrchu symud cofnodion yn aml.
+  - title: Swyddog cofnodion
+    slug: swyddog-cofnodion
+    summary: Yn ymdrin ag ystod o brosesau cofnodion, rhai ohonynt yn anarferol, fel olrhain cofnodion coll, paratoi cofnodion ar gyfer ceisiadau am fynediad, a chymhwyso cofrestrau cadw cofnodion.
+    responsibilities:
+      - Olrhain cofnodion coll a datrys problemau olrhain.
+      - Paratoi cofnodion ar gyfer ceisiadau am fynediad, gan wirio eu bod yn gyflawn cyn eu hadolygu.
+      - Cymhwyso cofrestrau cadw cofnodion a pharatoi cofnodion i'w harchifo neu eu dinistrio'n ddiogel.
+      - Gwirio cofnodion wedi'u sganio am ansawdd a thrwsio gwallau mynegeio.
+      - Ateb ymholiadau gan glinigwyr, staff gofal, a chleifion am gofnodion.
+      - Dangos i gynorthwywyr cofnodion newydd sut i ddilyn gweithdrefnau.
+    qualifications:
+      - Profiad o waith cofnodion neu weinyddol, neu gymhwyster lefel 3 mewn gweinyddu busnes neu brofiad cyfatebol.
+    job_evaluation_notes: Mae ymdrech emosiynol yn adlewyrchu cysylltiad anuniongyrchol aml â chynnwys trallodus mewn cofnodion iechyd.
+  - title: Uwch swyddog cofnodion
+    slug: uwch-swyddog-cofnodion
+    summary: Yn goruchwylio tîm cofnodion o ddydd i ddydd ac yn rhedeg prosesau cofnodion fel ceisiadau am fynediad, archwiliadau, ac adolygiadau cadw.
+    responsibilities:
+      - Goruchwylio staff cofnodion o ddydd i ddydd, gan ddyrannu gwaith a gwirio ansawdd.
+      - Prosesu ceisiadau am fynediad at gofnodion iechyd o fewn terfynau amser cyfreithiol, dan arweiniad cydweithwyr llywodraethiant gwybodaeth.
+      - Cynnal archwiliadau cadw cofnodion ac olrhain ac adrodd ar y canlyniadau.
+      - Cadw systemau olrhain cofnodion a chofnodion electronig yn gywir ac yn gyfredol.
+      - Hyfforddi staff mewn gweithdrefnau cofnodion a chyfrinachedd.
+      - Ymchwilio i gofnodion coll a digwyddiadau eraill, ac argymell gwelliannau.
+    qualifications:
+      - Profiad sylweddol o waith cofnodion iechyd, neu gymhwyster perthnasol ar lefel gradd sylfaen neu brofiad cyfatebol.
+  - title: Rheolwr cofnodion iechyd
+    slug: rheolwr-cofnodion-iechyd
+    summary: Yn rheoli'r gwasanaeth cofnodion iechyd, ei staff, ei systemau, a'i weithdrefnau, ac yn arwain gwelliant, gan gynnwys y symud o gofnodion papur i gofnodion digidol.
+    responsibilities:
+      - Rheoli'r gwasanaeth cofnodion iechyd, ei staff, a'i berfformiad.
+      - Ysgrifennu a chynnal gweithdrefnau cofnodion, yn unol â pholisi a safonau rheoli cofnodion.
+      - Rheoli systemau olrhain cofnodion a chofnodion electronig ar gyfer sawl gwasanaeth.
+      - Arwain prosiectau sganio a digideiddio a'r symud i gofnodion digidol.
+      - Rhedeg y rhaglen cadw a gwaredu ac archwiliadau cofnodion.
+      - Cynghori clinigwyr, rheolwyr, a chydweithwyr llywodraethiant gwybodaeth ar reoli cofnodion.
+    qualifications:
+      - Gradd neu gymhwyster proffesiynol mewn rheoli cofnodion neu wybodaeth, neu brofiad cyfatebol.
+      - Profiad o oruchwylio tîm cofnodion.
+    job_evaluation_notes: Caiff adnoddau gwybodaeth eu sgorio ar lefel 5 gan mai rhedeg systemau cofnodion ar gyfer sawl gwasanaeth yw'r brif ddyletswydd.

@@ -1,0 +1,53 @@
+summary: >
+  Mae cynghorwyr cyfreithiol yn gyfreithwyr cymwysedig sy'n rhoi cyngor cyfreithiol ymarferol a chywir i'r
+  sefydliad ac yn ei helpu i reoli risg gyfreithiol. Maen nhw'n drafftio ac yn negodi contractau, yn cynghori ar
+  gyfraith data, caffael, cyflogaeth, ac iechyd a gofal, ac yn rheoli anghydfodau a hawliadau. Mewn sefydliad gofal
+  iechyd digidol mae llawer o'u gwaith yn ymwneud â thechnoleg: trwyddedau meddalwedd, cytundebau cwmwl a phrosesu
+  data, rhannu data, eiddo deallusol mewn meddalwedd a data, a rheoleiddio cynhyrchion iechyd digidol.
+health_context:
+  - Mae'n rhaid i gontractau technoleg ddiogelu data cleifion, cadw gwasanaethau clinigol i redeg, a sicrhau y gall y sefydliad adael cyflenwr yn ddiogel.
+  - Mae defnyddio data iechyd ar gyfer gofal uniongyrchol, cynllunio, ymchwil, a deallusrwydd artiffisial yn codi cwestiynau o dan gyfraith diogelu data a'r ddyletswydd cyfrinachedd sydd angen cyngor gofalus.
+  - Mae'n rhaid i brynu technoleg ag arian cyhoeddus ddilyn rheolau caffael cyhoeddus, a gall cyflenwyr herio penderfyniadau dyfarnu.
+  - Gall y sefydliad adeiladu cynhyrchion meddalwedd neu ddata, sy'n codi cwestiynau am eiddo deallusol, cod agored, a defnydd masnachol.
+  - Gall hawliadau gynnwys niwed i gleifion, gan gynnwys lle chwaraeodd gwasanaethau digidol ran, felly mae cynghorwyr yn gweithio gyda chydweithwyr diogelwch clinigol, risg, ac indemniad.
+levels:
+  - title: Cynghorwr cyfreithiol
+    slug: cynghorwr-cyfreithiol
+    summary: Mae cynghorwyr cyfreithiol yn gyfreithwyr cymwysedig sy'n rhoi cyngor annibynnol ac yn ymdrin â'u llwyth achosion eu hunain mewn un maes neu fwy, fel contractau technoleg, cyfraith gwybodaeth, caffael, neu gyflogaeth.
+    responsibilities:
+      - Drafftio, adolygu, a negodi cytundebau, fel trwyddedau meddalwedd, gwasanaethau cwmwl, a chytundebau prosesu data.
+      - Rhoi cyngor cyfreithiol clir ac ymarferol i reolwyr a thimau yn eich meysydd ymarfer.
+      - Cynghori ar gytundebau rhannu data, asesiadau o'r effaith ar ddiogelu data, a cheisiadau am wybodaeth.
+      - Cynghori ar brosesau caffael a newidiadau i gontractau ar gyfer technoleg a gwasanaethau.
+      - Rheoli llwyth achosion o anghydfodau neu hawliadau, gan gyfarwyddo cyfreithwyr allanol lle bo angen.
+      - Goruchwylio a datblygu paragyfreithwyr a chynorthwywyr cyfreithiol.
+    qualifications:
+      - Cyfreithiwr cymwysedig sydd wedi'i dderbyn i ymarfer, neu gymhwyster a phrofiad cyfatebol.
+      - Profiad o gyfraith masnach, technoleg, gwybodaeth, neu gyfraith gyhoeddus.
+    job_evaluation_notes: Mae gwybodaeth ar lefel 7 gan fod y swydd angen cymhwyster cyfreithiol proffesiynol a phrofiad ymarfer. Mae adnoddau ariannol ar lefel 2 gan mai anaml y mae cynghorwyr cyfreithiol yn dal cyllidebau. Mae ymdrech emosiynol ar lefel 2 gan fod hawliadau ac achosion cyflogaeth yn aml yn cynnwys deunydd trallodus.
+  - title: Uwch gynghorwr cyfreithiol
+    slug: uwch-gynghorwr-cyfreithiol
+    summary: Mae uwch gynghorwyr cyfreithiol yn gyfreithwyr profiadol sy'n arwain ar faterion cymhleth, gwerth uchel, neu risg uchel mewn maes arbenigol, fel technoleg a data, cyfraith gwybodaeth, caffael, cyflogaeth, neu hawliadau.
+    responsibilities:
+      - Arwain ar gytundebau cymhleth, fel gweithredu systemau mawr, llwyfannau data, a phartneriaethau.
+      - Cynghori uwch reolwyr ar gwestiynau newydd, fel deallusrwydd artiffisial, defnyddio data ar gyfer ymchwil, a meddalwedd fel dyfais feddygol.
+      - Cynghori ar gyfraith cyflogaeth ar gyfer newid yn y gweithlu, contractwyr, ac anghydfodau cyflogaeth.
+      - Arwain ar anghydfodau sylweddol, heriau caffael, a chysylltu â chynlluniau esgeuluster clinigol.
+      - Ysgrifennu templedi, llyfrau chwarae, a chanllawiau ar gyfer y sefydliad.
+      - Rheoli a datblygu cynghorwyr cyfreithiol a pharagyfreithwyr.
+    qualifications:
+      - Cyfreithiwr cymwysedig sydd wedi'i dderbyn i ymarfer, gyda phrofiad sylweddol ar ôl cymhwyso mewn arbenigedd perthnasol.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 2 gan nad yw'r swydd yn dal cyllideb, er ei bod yn rheoli gwariant ar gyfreithwyr allanol ar gyfer ei materion.
+  - title: Prif gynghorwr cyfreithiol
+    slug: prif-gynghorwr-cyfreithiol
+    summary: Prif gynghorwyr cyfreithiol yw arbenigwyr blaenllaw'r sefydliad mewn un maes neu fwy o'r gyfraith, fel technoleg a data neu gyfraith gwybodaeth, ac maen nhw'n arwain ei waith cyfreithiol ar y materion mwyaf arwyddocaol.
+    responsibilities:
+      - Arwain y gwaith cyfreithiol ar raglenni, contractau, ac anghydfodau mwyaf arwyddocaol y sefydliad.
+      - Rhoi cyngor terfynol ar faterion newydd a risg uchel, fel rhannu data ar raddfa fawr, deallusrwydd artiffisial, a defnydd masnachol o feddalwedd a data'r sefydliad.
+      - Gosod safbwyntiau a safonau cyfreithiol y sefydliad yn eich meysydd arbenigol.
+      - Cynghori cyfarwyddwyr a phwyllgorau'r bwrdd ar risg gyfreithiol.
+      - Cynrychioli'r sefydliad gyda rheoleiddwyr, partneriaid, a chyflenwyr ar faterion cyfreithiol.
+      - Arwain tîm cyfreithiol arbenigol a datblygu ei allu.
+    qualifications:
+      - Cyfreithiwr cymwysedig sydd wedi'i dderbyn i ymarfer, gyda phrofiad helaeth ar ôl cymhwyso ac arbenigedd cydnabyddedig mewn arbenigedd.
+    job_evaluation_notes: Mae gwybodaeth ar lefel 8 gan fod y swydd angen gwybodaeth gyfreithiol arbenigol ar draws y gyfraith a thechnoleg, a adeiladwyd dros gyfnod hir.

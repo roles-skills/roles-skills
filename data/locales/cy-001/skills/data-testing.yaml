@@ -1,0 +1,49 @@
+# Welsh translations of data/skills/data-testing.yaml. Keys are the English skill ids.
+data-ai-assurance:
+  name: Deallusrwydd artiffisial diogel a theg mewn gofal iechyd
+  slug: deallusrwydd-artiffisial-diogel-a-theg-mewn-gofal-iechyd
+  description: Sicrhau bod modelau ystadegol, dysgu peirianyddol, a deallusrwydd artiffisial a ddefnyddir mewn iechyd a gofal yn ddiogel, yn deg, yn esboniadwy, ac yn cael eu monitro, gan gynnwys gwirio am duedd ar draws grwpiau o gleifion a bodloni rheoliadau dyfeisiau meddygol a deallusrwydd artiffisial.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro sut y gall model niweidio cleifion, er enghraifft drwy duedd, drifft, neu ddibynnu gormod ar ei allbwn
+      - egluro pam mae angen dilysu modelau ar y boblogaeth y byddant yn cael eu defnyddio gyda hi
+    working: |
+      Gallwch:
+      - mesur perfformiad model ar gyfer gwahanol grwpiau o gleifion ac adrodd ar unrhyw wahaniaethau
+      - dogfennu defnydd bwriadedig model, ei ddata hyfforddi, a'i gyfyngiadau hysbys, er enghraifft mewn cerdyn model
+      - cyfrannu tystiolaeth am fodel at achos diogelwch clinigol
+    practitioner: |
+      Gallwch:
+      - cynllunio dilysu model, asesu tuedd, a monitro byw gyda chydweithwyr clinigol
+      - penderfynu pryd mae angen ailhyfforddi, cyfyngu, neu dynnu model yn ôl
+      - cynghori timau ar pryd y gallai model gael ei reoleiddio fel dyfais feddygol a pha dystiolaeth sydd ei hangen arno
+    expert: |
+      Gallwch:
+      - gosod safonau'r sefydliad ar gyfer sicrhau a monitro deallusrwydd artiffisial mewn gofal
+      - arwain y gwaith o sicrhau modelau risg uchel cyn ac ar ôl eu defnyddio
+      - cynrychioli'r sefydliad gyda rheoleiddwyr a phartneriaid ar ddeallusrwydd artiffisial diogel a theg
+
+data-deidentification:
+  name: Ffugenwi a rheoli datgelu
+  slug: ffugenwi-a-rheoli-datgelu
+  description: Diogelu cyfrinachedd cleifion pan fo data'n cael ei gysylltu, ei ddadansoddi, ei rannu, neu ei gyhoeddi, gan ddefnyddio ffugenwi, anhysbysu, atal niferoedd bach, a dulliau rheoli datgelu ystadegol eraill.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro'r gwahaniaeth rhwng data adnabyddadwy, data wedi'i ffugenwi, a data dienw
+      - dilyn rheolau'r sefydliad ar gyfer atal niferoedd bach mewn allbynnau
+    working: |
+      Gallwch:
+      - gweithio gyda data wedi'i ffugenwi a chymhwyso gwiriadau datgelu cyn rhyddhau allbynnau
+      - adnabod pan allai data cysylltiedig neu fanwl adnabod claf
+    practitioner: |
+      Gallwch:
+      - dylunio dulliau ffugenwi a chysylltu sy'n cadw dynodwyr ar wahân i ddata dadansoddi
+      - asesu risg ailadnabod set ddata neu gyhoeddiad a dewis mesurau rheoli addas
+      - cynghori timau ar leoliadau diogel, fel amgylcheddau ymchwil dibynadwy
+    expert: |
+      Gallwch:
+      - gosod safonau'r sefydliad ar gyfer dad-adnabod a rheoli datgelu
+      - sicrhau rhyddhau data a phrosiectau cysylltu risg uchel
+      - arwain gwaith gyda phartneriaid ar fynediad diogel at ddata ar gyfer ymchwil a chynllunio

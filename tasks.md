@@ -128,6 +128,7 @@ See [plan.md](plan.md) for the context and reasoning.
 - [x] Locale routing in the website: the URL carries the locale, the picker follows the URL, hreflang alternates, per-locale slugs
 - [x] Translation overlays in `data/locales/<code>/`, built into `exports/locales/` and `locales/`
 - [x] cy-gb (Cymraeg): all 73 roles, 93 skills, bands, job evaluation, and interface strings, with TermCymru terminology
+- [x] cy-001 (Cymraeg, y byd): a copy of cy-gb
 - [ ] Native speaker review of cy-gb
 - [ ] Next locales, in the order in `spec/locales/locales-by-priority.md`
 

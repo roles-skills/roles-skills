@@ -1,0 +1,76 @@
+summary: >
+  Mae cyfrifwyr ariannol yn sicrhau bod cyfrifon y sefydliad yn gyflawn, yn gywir, ac yn dilyn safonau cyfrifyddu a
+  rheolau adrodd y sector cyhoeddus. Maen nhw'n rheoli'r fantolen, yn paratoi'r cyfrifon blynyddol a ffurflenni
+  statudol, yn rheoli arian parod a'r trysorlys, yn cyfrifyddu ar gyfer asedau, ac yn gweithio gydag archwilwyr.
+  Mewn sefydliad gofal iechyd digidol, daw llawer o'r cymhlethdod o gyfrifyddu ar gyfer meddalwedd, asedau data,
+  trefniadau cwmwl, a chontractau technoleg aml-flwyddyn.
+health_context:
+  - Mae cyfrifyddu ar gyfer gwariant digidol yn gofyn am farn, er enghraifft a ellir trin datblygu meddalwedd, ffurfweddu gwasanaethau cwmwl, neu drwyddedau fel asedau cyfalaf.
+  - Mae'n rhaid i'r sefydliad roi cyfrif am arian cyhoeddus i gyllidwyr a chyrff goruchwylio, yn aml yn erbyn terfynau cyfalaf ac arian parod llym.
+  - Mae contractau trwyddedau a chymorth aml-flwyddyn yn creu rhagdaliadau, ymrwymiadau, ac weithiau lesoedd y mae'n rhaid cyfrifyddu ar eu cyfer yn gywir.
+  - Mae angen prisio, dibrisio, ac adolygu asedau anniriaethol, fel meddalwedd y mae'r sefydliad yn ei hadeiladu, am amhariad wrth i gynhyrchion newid.
+  - Mae archwilio allanol cyrff cyhoeddus yn drylwyr ac yn gyhoeddus, felly mae'n rhaid i dystiolaeth a phapurau gwaith fod o safon uchel.
+levels:
+  - title: Cyfrifydd ariannol dan hyfforddiant
+    slug: cyfrifydd-ariannol-dan-hyfforddiant
+    summary: Mae cyfrifwyr ariannol dan hyfforddiant yn paratoi cysoniadau'r fantolen, cyfnodolion, a phapurau gwaith ar gyfer y cyfrifon wrth weithio tuag at gymhwyster cyfrifyddiaeth cydnabyddedig.
+    responsibilities:
+      - Paratoi cysoniadau'r fantolen a chlirio eitemau cysoni.
+      - Postio cyfnodolion diwedd mis a diwedd blwyddyn, fel croniadau, rhagdaliadau, a dibrisiant.
+      - Cynnal y gofrestr asedau sefydlog, gan gynnwys asedau meddalwedd a chaledwedd.
+      - Paratoi papurau gwaith a thystiolaeth ar gyfer y cyfrifon blynyddol a'r archwiliad.
+      - Paratoi gwybodaeth llif arian parod a chysoniadau banc.
+      - Gweithio tuag at gymhwyster cyfrifyddiaeth cydnabyddedig.
+    qualifications:
+      - Gradd neu gymhwyster cyfrifyddu canolradd, ac yn gweithio tuag at gymhwyster cyfrifyddiaeth cydnabyddedig, neu brofiad cyfatebol.
+    job_evaluation_notes: Caiff gwybodaeth ei sgorio ar y lefel sydd ei hangen ar y swydd unwaith y bydd yr hyfforddiant yn ddigon pell ymlaen i wneud y gwaith.
+  - title: Cyfrifydd ariannol
+    slug: cyfrifydd-ariannol
+    summary: Mae cyfrifwyr ariannol yn gyfrifwyr cymwysedig sy'n rheoli'r fantolen ac yn paratoi adrannau o'r cyfrifon blynyddol, ffurflenni statudol, a ffurflenni treth.
+    responsibilities:
+      - Rheoli'r cau diwedd mis a diwedd blwyddyn ar gyfer y fantolen.
+      - Paratoi adrannau o'r cyfrifon blynyddol a nodiadau ategol.
+      - Cyfrifyddu ar gyfer gwariant cyfalaf, gan gynnwys penderfynu pa gostau digidol y gellir eu cyfalafu.
+      - Paratoi ffurflenni treth gwerthiant a chynghori ar driniaeth dreth contractau.
+      - Ateb cwestiynau archwilwyr a chytuno ar gamau gweithredu ar eu canfyddiadau.
+      - Goruchwylio a datblygu cyfrifwyr dan hyfforddiant.
+    qualifications:
+      - Cymhwyster cyfrifyddiaeth cydnabyddedig, neu brofiad cyfatebol.
+  - title: Uwch gyfrifydd ariannol
+    slug: uwch-gyfrifydd-ariannol
+    summary: Mae uwch gyfrifwyr ariannol yn arwain proses y cyfrifon blynyddol a'r cyfrifyddu ar gyfer meysydd cymhleth, fel asedau anniriaethol, lesoedd, a threfniadau cwmwl.
+    responsibilities:
+      - Cynllunio ac arwain amserlen y cyfrifon blynyddol a'r archwiliad allanol.
+      - Ysgrifennu papurau cyfrifyddu ar farnau cymhleth, fel cyfalafu costau datblygu meddalwedd neu ffurfweddu cwmwl.
+      - Rheoli cyfrifyddu cyfalaf, gan gynnwys oes asedau, dibrisiant, ac amhariad asedau meddalwedd.
+      - Rheoli rhagweld arian parod a thynnu cyllid i lawr o fewn terfynau arian parod.
+      - Paratoi ffurflenni statudol a ffurflenni i gyllidwyr, fel ffurflenni cydgrynhoi a chyfalaf.
+      - Rheoli a datblygu tîm bach o gyfrifwyr ariannol.
+    qualifications:
+      - Cymhwyster cyfrifyddiaeth cydnabyddedig, gyda phrofiad sylweddol ar ôl cymhwyso, neu gyfatebol.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 4 gan fod y swydd yn rheoli sefyllfa arian parod a chyfrifyddu cyfalaf y sefydliad.
+  - title: Rheolwr cyfrifyddu ariannol
+    slug: rheolwr-cyfrifyddu-ariannol
+    summary: Mae rheolwyr cyfrifyddu ariannol yn rhedeg cyfrifyddu ariannol, y trysorlys, a threth ar gyfer y sefydliad, ac yn sicrhau bod mesurau rheoli a chamau gweithredu archwilio ar waith.
+    responsibilities:
+      - Rheoli'r swyddogaethau cyfrifyddu ariannol, trysorlys, a threth.
+      - Bod yn berchen ar bolisïau cyfrifyddu'r sefydliad a'u cymhwysiad i fathau newydd o wariant, fel gwasanaethau cwmwl a data.
+      - Rheoli cyfrifon banc, trefniadau bancio, a'r rhagolwg llif arian parod.
+      - Rheoli cydymffurfio â threth a risg treth, gan gynnwys ar gontractau technoleg a gwasanaethau a rennir.
+      - Arwain yr ymateb i ganfyddiadau archwilio mewnol ac allanol ar gyfrifyddu ariannol a mesurau rheoli.
+      - Rheoli cyfrifwyr ariannol a staff y trysorlys yn llinell.
+    qualifications:
+      - Cymhwyster cyfrifyddiaeth cydnabyddedig, gyda phrofiad helaeth ar ôl cymhwyso.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 5 gan fod y swydd yn rheoli bancio, arian parod, ac asedau'r sefydliad ar draws pob gwasanaeth.
+  - title: Pennaeth cyfrifon ariannol
+    slug: pennaeth-cyfrifon-ariannol
+    summary: Mae penaethiaid cyfrifon ariannol yn arwain adrodd statudol, rheolaeth ariannol, trysorlys, a threth y sefydliad, a nhw yw'r prif gyswllt i archwilwyr allanol.
+    responsibilities:
+      - Arwain y gwaith o baratoi'r adroddiad blynyddol a'r cyfrifon, a'u cyflwyno i'r pwyllgor archwilio.
+      - Cynghori cyfarwyddwyr a'r pwyllgor archwilio ar farnau cyfrifyddu sylweddol a safonau newydd.
+      - Bod yn berchen ar y rheolau ariannol, y gweithdrefnau ariannol, a'r cynllun dirprwyo.
+      - Arwain y berthynas ag archwilwyr allanol a chyrff goruchwylio ar adrodd ariannol.
+      - Gosod polisi trysorlys a threth, a rheoli risgiau ariannol.
+      - Arwain a datblygu'r timau cyfrifyddu ariannol, trysorlys, a thrafodiadol.
+    qualifications:
+      - Cymhwyster cyfrifyddiaeth cydnabyddedig, gyda phrofiad helaeth ar ôl cymhwyso, gan gynnwys arwain adrodd statudol.

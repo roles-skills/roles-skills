@@ -1,0 +1,53 @@
+summary: >
+  Mae swyddogion diogelwch clinigol yn glinigwyr cofrestredig sy'n sicrhau bod y systemau TG iechyd y mae'r
+  sefydliad yn eu hadeiladu, yn eu prynu, ac yn eu defnyddio'n ddiogel i gleifion. Maen nhw'n rhedeg y broses
+  rheoli risg glinigol, yn arwain nodi peryglon, yn berchen ar logiau peryglon, ac yn ysgrifennu ac yn llofnodi
+  adroddiadau achos diogelwch clinigol, gan ddefnyddio safonau rheoli risg glinigol fel ISO 14971 ac IEC 80001-1.
+health_context:
+  - Rhaid i'r rôl gael ei dal gan glinigydd cofrestredig, fel bod barn ar ddiogelwch yn seiliedig ar wybodaeth glinigol gyfredol ac atebolrwydd proffesiynol.
+  - Gall TG iechyd niweidio cleifion drwy wybodaeth anghywir, ar goll, wedi'i hoedi, neu gamarweiniol, felly mae'r rôl yn asesu risgiau sydd yn aml wedi'u cuddio mewn data a llifoedd gwaith.
+  - Mae gwaith diogelwch clinigol yn rhedeg drwy oes gyfan system, o ddylunio a chaffael i ddefnyddio, newid, a datgomisiynu.
+  - Caiff rhai cynhyrchion eu rheoleiddio fel dyfeisiau meddygol hefyd, felly mae'r rôl yn gweithio gyda chydweithwyr rheoleiddio ac ansawdd lle mae achosion diogelwch a ffeiliau dyfeisiau'n gorgyffwrdd.
+  - Gall digwyddiadau diogelwch sy'n ymwneud â TG iechyd achosi niwed difrifol, felly mae'r rôl yn ymchwilio i ddigwyddiadau ac yn sicrhau bod gwersi'n cael eu dysgu.
+levels:
+  - title: Swyddog diogelwch clinigol
+    slug: swyddog-diogelwch-clinigol
+    summary: Yn rhedeg y broses rheoli risg glinigol ar gyfer set o gynhyrchion neu newidiadau, gan arwain gweithdai peryglon, cynnal logiau peryglon, ac ysgrifennu adroddiadau achos diogelwch clinigol i'w cymeradwyo.
+    responsibilities:
+      - Arwain gweithdai nodi peryglon gyda thimau cynnyrch, clinigwyr, a chyflenwyr.
+      - Asesu risgiau clinigol a chytuno ar fesurau rheoli, yna gwirio bod y mesurau rheoli'n gweithio drwy brofi a thystiolaeth.
+      - Ysgrifennu a chynnal logiau peryglon ac adroddiadau achos diogelwch clinigol ar gyfer cynhyrchion a newidiadau.
+      - Adolygu dogfennaeth ddiogelwch cyflenwyr ar gyfer systemau y mae'r sefydliad yn eu prynu.
+      - Ymchwilio i ddigwyddiadau diogelwch sy'n ymwneud â TG iechyd ac argymell gwelliannau.
+      - Cynghori timau digidol ar y broses rheoli risg glinigol a diogelwch drwy ddylunio.
+    qualifications:
+      - Cofrestriad cyfredol â chorff proffesiynol clinigol, gyda phrofiad clinigol sylweddol.
+      - Hyfforddiant mewn rheoli risg glinigol ar gyfer TG iechyd, neu brofiad cyfatebol.
+    job_evaluation_notes: Caiff gofal cleifion ei sgorio ar lefel 5 gan fod y swydd yn rhoi cyngor arbenigol ar ddiogelwch systemau a ddefnyddir mewn gofal cleifion. Mae ymdrech feddyliol yn adlewyrchu canolbwyntio hir ar ddogfennaeth a thystiolaeth ddiogelwch.
+  - title: Uwch swyddog diogelwch clinigol
+    slug: uwch-swyddog-diogelwch-clinigol
+    summary: Yn arwain diogelwch clinigol ar gyfer rhaglen fawr neu bortffolio o systemau risg uchel, gan lofnodi achosion diogelwch ac arwain swyddogion diogelwch clinigol eraill.
+    responsibilities:
+      - Arwain rheoli risg glinigol ar gyfer systemau risg uchel fel cofnodion iechyd electronig, presgripsiynu, a chymorth penderfyniadau.
+      - Cymeradwyo logiau peryglon ac adroddiadau achos diogelwch clinigol o fewn awdurdod dirprwyedig.
+      - Cynghori byrddau rhaglen ar risg glinigol ac a yw system yn ddiogel i fynd yn fyw.
+      - Arwain ymchwiliadau i ddigwyddiadau diogelwch difrifol sy'n ymwneud â TG iechyd.
+      - Hyfforddi a gwirio ansawdd gwaith swyddogion diogelwch clinigol a chlinigwyr sydd wedi'u hyfforddi mewn diogelwch.
+      - Helpu i wella system a thempledi rheoli risg glinigol y sefydliad.
+    qualifications:
+      - Cofrestriad cyfredol â chorff proffesiynol clinigol, gyda phrofiad clinigol helaeth.
+      - Profiad sylweddol o reoli risg glinigol ar gyfer TG iechyd.
+  - title: Pennaeth diogelwch clinigol
+    slug: pennaeth-diogelwch-clinigol
+    summary: Yn berchen ar system rheoli risg glinigol y sefydliad ar gyfer TG iechyd, yn arwain y tîm diogelwch clinigol, ac yn rhoi sicrwydd i'r bwrdd bod ei wasanaethau digidol yn glinigol ddiogel.
+    responsibilities:
+      - Bod yn berchen ar y system, y polisi, a'r prosesau rheoli risg glinigol ar gyfer yr holl TG iechyd.
+      - Arwain a datblygu'r tîm diogelwch clinigol a'r rhwydwaith ehangach o glinigwyr sydd wedi'u hyfforddi mewn diogelwch.
+      - Sicrhau achosion diogelwch ar gyfer systemau mawr a gwneud yr argymhelliad diogelwch clinigol terfynol ar ddefnyddio.
+      - Arwain yr ymateb i ddigwyddiadau diogelwch difrifol sy'n ymwneud â TG iechyd, gan gynnwys gyda phartneriaid a chyflenwyr.
+      - Adrodd ar risgiau a sicrwydd diogelwch clinigol i'r bwrdd a'i bwyllgorau.
+      - Meithrin diwylliant o ddiogelwch clinigol ar draws timau digidol, clinigol, a chyflenwyr.
+    qualifications:
+      - Cofrestriad cyfredol â chorff proffesiynol clinigol, gyda phrofiad clinigol ac arweinyddiaeth helaeth.
+      - Profiad helaeth o arwain rheoli risg glinigol ar gyfer TG iechyd ar draws sefydliad.
+    job_evaluation_notes: Caiff gofal cleifion ei sgorio ar lefel 6 gan fod y swydd yn atebol am ddiogelwch clinigol TG iechyd y sefydliad. Mae ymdrech emosiynol yn adlewyrchu adolygu digwyddiadau sy'n ymwneud â niwed i gleifion yn rheolaidd.

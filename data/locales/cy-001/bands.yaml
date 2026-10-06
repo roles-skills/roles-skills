@@ -1,0 +1,97 @@
+# Band outlines in Welsh. Keys are the English band ids.
+"1":
+  title: Band 1
+  stage: Mynediad
+  knowledge: Llythrennedd a rhifedd sylfaenol; yn dysgu tasgau arferol syml yn y gwaith.
+  autonomy: Yn dilyn cyfarwyddiadau clir; caiff y gwaith ei wirio'n aml.
+  scope: Ei dasgau arferol ei hun.
+  leadership: Dim.
+  accountability: Cwblhau tasgau arferol yn gywir.
+"2":
+  title: Band 2
+  stage: Cymorth
+  knowledge: Yn gwybod trefn a gweithdrefnau'r maes gwaith; efallai fod ganddo gymhwyster mynediad.
+  autonomy: Yn gweithio i weithdrefnau penodol, gyda goruchwyliaeth ar gael.
+  scope: Ei dasgau ei hun o fewn tîm.
+  leadership: Efallai y bydd yn dangos tasgau arferol i ddechreuwyr newydd.
+  accountability: Ansawdd a phrydlondeb ei waith arferol ei hun.
+"3":
+  title: Band 3
+  stage: Cymorth
+  knowledge: Gwybodaeth am ystod o weithdrefnau, rhai ohonynt yn anarferol; fel arfer cymhwyster lefel 3 neu brofiad cyfatebol.
+  autonomy: Yn gweithio o fewn gweithdrefnau; yn penderfynu sut i drefnu ei waith ei hun; yn cyfeirio problemau i fyny.
+  scope: Ei waith ei hun a rhai tasgau ar gyfer y tîm ehangach.
+  leadership: Efallai y bydd yn dyrannu gwaith arferol neu'n hyfforddi eraill mewn gweithdrefnau.
+  accountability: Cywirdeb ei waith ei hun a'r cofnodion a gedwir.
+"4":
+  title: Band 4
+  stage: Cymorth ac ymarferydd mynediad
+  knowledge: Gwybodaeth fanwl am y maes gwaith, fel arfer o radd sylfaen, prentisiaeth, neu brofiad cyfatebol.
+  autonomy: Yn gweithio o fewn canllawiau; yn datrys y rhan fwyaf o broblemau o ddydd i ddydd; mae rheolwr ar gael i roi cyngor.
+  scope: Ei waith ei hun a gwasanaeth neu broses ddiffiniedig.
+  leadership: Efallai y bydd yn goruchwylio tîm bach neu'n cydlynu gwaith pobl eraill.
+  accountability: Darparu gwasanaeth neu broses ddiffiniedig.
+"5":
+  title: Band 5
+  stage: Ymarferydd
+  knowledge: Gwybodaeth broffesiynol neu dechnegol, fel arfer o radd neu brofiad cyfatebol.
+  autonomy: Yn gweithio i amcanion eang o fewn safonau proffesiynol; yn cynllunio ei waith ei hun.
+  scope: Ei waith proffesiynol ei hun o fewn tîm neu gynnyrch.
+  leadership: Efallai y bydd yn arwain ac yn gwirio gwaith staff cymorth a phrentisiaid.
+  accountability: Ansawdd ei waith proffesiynol ei hun.
+"6":
+  title: Band 6
+  stage: Ymarferydd profiadol
+  knowledge: Gwybodaeth arbenigol ar draws ystod o weithdrefnau, wedi'i meithrin drwy hyfforddiant neu brofiad pellach.
+  autonomy: Yn gweithio'n annibynnol; yn dehongli polisi ar gyfer ei faes ei hun; yn gofyn am gyngor ar faterion cymhleth.
+  scope: Cynnyrch, gwasanaeth, neu ffrwd waith.
+  leadership: Efallai y bydd yn arwain tîm bach neu'n mentora cydweithwyr.
+  accountability: Canlyniadau ei ffrwd waith ei hun ac ansawdd y cyngor a roddir.
+"7":
+  title: Band 7
+  stage: Uwch neu arbenigol
+  knowledge: Gwybodaeth arbenigol ddatblygedig iawn, fel arfer i lefel gradd meistr neu brofiad cyfatebol.
+  autonomy: Yn gweithio i bolisi'r sefydliad; yn penderfynu sut i gyflawni canlyniadau; yw'r arbenigwr y mae eraill yn ymgynghori ag ef.
+  scope: Sawl cynnyrch neu wasanaeth, neu swyddogaeth arbenigol.
+  leadership: Yn arwain tîm neu faes ymarfer proffesiynol.
+  accountability: Darparu gwasanaeth neu swyddogaeth arbenigol, a'i chyllideb os oes ganddo un.
+8a:
+  title: Band 8a
+  stage: Arweinydd
+  knowledge: Gwybodaeth arbenigol am ddisgyblaeth a'i rheolaeth.
+  autonomy: Yn dehongli polisi'r sefydliad ar gyfer gwasanaeth; yn gosod cyfeiriad y tîm.
+  scope: Maes gwasanaeth neu ddisgyblaeth ar draws y sefydliad.
+  leadership: Yn rheoli tîm, neu'n arwain disgyblaeth heb reolaeth linell.
+  accountability: Maes gwasanaeth, ei staff, a'i gyllideb.
+8b:
+  title: Band 8b
+  stage: Arweinydd
+  knowledge: Gwybodaeth arbenigol ar draws sawl disgyblaeth neu wasanaeth mawr.
+  autonomy: Yn llunio polisi a strategaeth ar gyfer maes mawr.
+  scope: Sawl gwasanaeth neu dîm, neu ddisgyblaeth ar lefel pennaeth.
+  leadership: Yn rheoli rheolwyr, neu ef yw'r prif awdurdod mewn disgyblaeth.
+  accountability: Sawl gwasanaeth, eu staff, a'u cyllidebau.
+8c:
+  title: Band 8c
+  stage: Uwch arweinydd
+  knowledge: Gwybodaeth arbenigol, a dealltwriaeth eang o'r sefydliad a'r sector.
+  autonomy: Yn gosod strategaeth ar gyfer swyddogaeth; yn atebol i gyfarwyddwr.
+  scope: Swyddogaeth neu adran.
+  leadership: Yn arwain swyddogaeth drwy sawl haen reoli.
+  accountability: Perfformiad, gweithlu, a chyllideb swyddogaeth.
+8d:
+  title: Band 8d
+  stage: Uwch arweinydd
+  knowledge: Gwybodaeth strategol ar draws swyddogaethau a'r system iechyd a gofal ehangach.
+  autonomy: Yn llunio strategaeth y sefydliad cyfan; yn dirprwyo ar ran cyfarwyddwr.
+  scope: Swyddogaeth fawr neu sawl swyddogaeth.
+  leadership: Yn arwain sawl swyddogaeth neu adran fawr.
+  accountability: Swyddogaethau mawr, cyllidebau mawr, a risgiau ar draws y sefydliad.
+"9":
+  title: Band 9
+  stage: Pennaeth proffesiwn neu gyfarwyddwr
+  knowledge: Arbenigedd strategol ac arweinyddiaeth ar draws y system.
+  autonomy: Yn gosod strategaeth y sefydliad gyda'r tîm gweithredol.
+  scope: Y sefydliad, a'i bartneriaid ar draws y system.
+  leadership: Yn arwain proffesiwn neu gyfarwyddiaeth.
+  accountability: Canlyniadau, cyllidebau, a risgiau ar draws y sefydliad.

@@ -1,0 +1,47 @@
+summary: >
+  Mae rheolwyr newid a rhyddhau'n sicrhau bod newidiadau i wasanaethau TG yn cael eu hasesu, eu cymeradwyo, eu
+  hamserlennu, a'u cyflawni'n ddiogel, a bod rhyddhadau'n cael eu cynllunio a'u cydlynu. Maen nhw'n rhedeg y
+  bwrdd cynghori ar newid, yn berchen ar y gronfa ddata ffurfweddiadau, ac yn cydlynu rhyddhadau ar draws
+  timau a chyflenwyr. Mewn gofal iechyd, maen nhw'n sicrhau bod newidiadau i systemau clinigol yn cael eu hamseru
+  a'u profi i ddiogelu gofal cleifion.
+health_context:
+  - Gall newidiadau i systemau clinigol niweidio cleifion, felly mae asesu newid yn cynnwys adolygiad diogelwch clinigol a thystiolaeth o'r broses rheoli risg glinigol.
+  - Mae gwasanaethau clinigol yn rhedeg bob dydd, felly cytunir ar ffenestri newid gyda gwasanaethau clinigol ac maen nhw'n osgoi eu cyfnodau prysuraf.
+  - Daw llawer o newidiadau gan gyflenwyr systemau clinigol, ac mae'n rhaid eu hasesu o hyd pan fo'r cyflenwr yn rheoli'r rhyddhau.
+  - Mae'n rhaid i newidiadau brys, fel patsys diogelwch brys, gydbwyso risg seiber yn erbyn y risg o amharu ar ofal.
+  - Mae cronfa ddata ffurfweddiadau gywir yn dangos pa wasanaethau clinigol y gallai newid effeithio arnynt.
+levels:
+  - title: Dadansoddwr ffurfweddiad
+    slug: dadansoddwr-ffurfweddiad
+    responsibilities:
+      - Cynnal cofnodion yn y gronfa ddata ffurfweddiadau, gan gynnwys y gwasanaethau clinigol y mae pob cydran yn eu cefnogi.
+      - Gwirio cofnodion ffurfweddiad yn erbyn offer darganfod, a thrwsio bylchau a gwallau.
+      - Paratoi cofnodion newid ac agendâu ar gyfer y bwrdd cynghori ar newid.
+      - Ateb ymholiadau arferol am eitemau ffurfweddiad a sut maen nhw'n perthyn i'w gilydd.
+    qualifications:
+      - Cymhwyster sylfaen rheoli gwasanaethau TG, cymhwyster lefel 3 mewn TG, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae UK GDaD PCF yn awgrymu Band 6 ar gyfer y lefel hon (HEO/SEO). Mae'r cyfeirlyfr hwn yn ei rhoi ar Fand 4 gan fod y lefel yn darparu cymorth gweinyddol i'r rheolwr newid a rhyddhau, gyda sgiliau ar lefel ymwybyddiaeth yn bennaf, ac mae islaw'r dadansoddwr newid a rhyddhau. Mae adnoddau gwybodaeth uwchlaw proffil y band gan mai cynnal y gronfa ddata ffurfweddiadau yw'r brif ddyletswydd.
+  - title: Dadansoddwr newid a rhyddhau
+    slug: dadansoddwr-newid-a-rhyddhau
+    responsibilities:
+      - Asesu ceisiadau am newid am risg ac effaith, gan gynnwys yr effaith ar wasanaethau clinigol a diogelwch cleifion.
+      - Cynllunio ac amserlennu rhyddhadau, gan gytuno ar ffenestri newid gyda gwasanaethau clinigol a gweithredol.
+      - Gwirio bod gan bob newid brofion, cynllun dychwelyd, a llofnod diogelwch clinigol lle bo angen.
+      - Cydlynu rhyddhadau gyda thimau DevOps, cyflenwyr, a'r ddesg gwasanaeth.
+      - Adolygu rhyddhadau wedyn a chynllunio newidiadau sydd ar ddod.
+    qualifications:
+      - Profiad o waith gweithrediadau TG, rhyddhau, neu newid.
+      - Cymhwyster sylfaen rheoli gwasanaethau TG, neu brofiad cyfatebol.
+  - title: Rheolwr newid a rhyddhau
+    slug: rheolwr-newid-a-rhyddhau
+    responsibilities:
+      - Cadeirio'r bwrdd cynghori ar newid, gan gynnwys cynrychiolwyr clinigol a gweithredol pan fo newidiadau'n effeithio ar ofal cleifion.
+      - Penderfynu ar newidiadau technegol, ac awdurdodi newidiadau brys fel patsys diogelwch brys.
+      - Cydlynu rhyddhadau a'u dibyniaethau ar draws timau mewnol a chyflenwyr.
+      - Bod yn berchen ar y prosesau rheoli newid, rhyddhau, a ffurfweddiad a'r gronfa ddata ffurfweddiadau.
+      - Gweithredu fel y pwynt uwchgyfeirio ar gyfer gwrthdaro newid a newidiadau sydd wedi methu.
+      - Adrodd ar lwyddiant newidiadau, newidiadau sydd wedi methu, a digwyddiadau a achoswyd gan newid, a sbarduno gwelliannau.
+    qualifications:
+      - Profiad sylweddol o reoli newid a rhyddhau, ar lefel sy'n cyfateb i radd.
+      - Cymhwyster rheoli gwasanaethau TG canolradd, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae cynllunio uwchlaw proffil y band gan fod y rôl yn amserlennu rhyddhadau a'u dibyniaethau ar draws llawer o dimau a chyflenwyr.

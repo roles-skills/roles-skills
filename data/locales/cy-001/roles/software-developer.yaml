@@ -1,0 +1,76 @@
+summary: >
+  Mae datblygwyr meddalwedd yn adeiladu, yn profi, ac yn cynnal y feddalwedd y tu ôl i wasanaethau iechyd
+  digidol y sefydliad, fel apiau ar gyfer cleifion, systemau clinigol, gwasanaethau integreiddio, a llwyfannau
+  data. Maen nhw'n gweithio mewn timau cynnyrch amlddisgyblaethol, yn ysgrifennu cod sy'n ddiogel, yn saff, yn
+  hygyrch, ac yn hawdd ei gynnal, ac yn cefnogi eu gwasanaethau pan fyddant yn fyw.
+health_context:
+  - Gall meddalwedd effeithio ar ofal cleifion, felly mae datblygwyr yn dilyn y broses rheoli risg glinigol ac yn cyfrannu tystiolaeth at achosion diogelwch.
+  - Mae cod yn aml yn trin gwybodaeth iechyd gyfrinachol, felly mae datblygwyr yn cymhwyso arferion llywodraethiant gwybodaeth a chodio diogel fel arfer.
+  - Mae llawer o wasanaethau'n cyfnewid data â systemau iechyd a gofal eraill, gan ddefnyddio safonau rhyngweithredu agored fel HL7 FHIR.
+  - Gall rhywfaint o feddalwedd gael ei rheoleiddio fel dyfais feddygol, felly mae angen i ddatblygwyr wybod pryd i ofyn am gyngor rheoleiddio.
+levels:
+  - title: Datblygwr meddalwedd prentis
+    slug: datblygwr-meddalwedd-prentis
+    responsibilities:
+      - Dysgu ieithoedd, offer, a ffyrdd o weithio'r tîm drwy hyfforddiant strwythuredig a gweithio mewn parau.
+      - Ysgrifennu a phrofi darnau bach o god sydd wedi'u diffinio'n dda, dan oruchwyliaeth agos.
+      - Dilyn gweithdrefnau codio diogel, llywodraethiant gwybodaeth, a diogelwch clinigol.
+      - Cymryd rhan yn seremonïau'r tîm fel cyfarfodydd sefyll, cynllunio, ac adolygiadau.
+      - Gweithio tuag at brentisiaeth neu gymhwyster cyfatebol.
+    qualifications:
+      - Wedi cofrestru ar brentisiaeth datblygu meddalwedd neu gyfatebol, neu'n gweithio tuag ati.
+    job_evaluation_notes: Caiff gwybodaeth ei sgorio ar y lefel sydd ei hangen ar y swydd unwaith y bydd yr hyfforddiant yn ddigon cyflawn i wneud y gwaith; mae adnoddau gwybodaeth yn adlewyrchu gwaith ar systemau a ddyluniwyd gan eraill.
+  - title: Datblygwr meddalwedd iau
+    slug: datblygwr-meddalwedd-iau
+    responsibilities:
+      - Adeiladu a phrofi nodweddion ar gyfer cynhyrchion y tîm, gan weithio o straeon defnyddwyr gydag arweiniad.
+      - Ysgrifennu profion awtomataidd a thrwsio diffygion, gan gynnwys mewn gwasanaethau sy'n cefnogi gofal cleifion.
+      - Cyfrannu tystiolaeth at achosion diogelwch clinigol, fel canlyniadau profion a chofnodion newid.
+      - Trin data iechyd yn ddiogel, gan ddilyn rheolau llywodraethiant gwybodaeth.
+      - Cefnogi gwasanaethau byw, dan arweiniad, fel rhan o drefniadau cymorth y tîm.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu bwnc cysylltiedig, prentisiaeth wedi'i chwblhau, neu brofiad cyfatebol.
+  - title: Datblygwr meddalwedd
+    slug: datblygwr-meddalwedd
+    responsibilities:
+      - Dylunio, adeiladu, a phrofi nodweddion a gwasanaethau'n annibynnol, gan ddewis dulliau addas.
+      - Adolygu cod a helpu i gynnal safonau peirianneg y tîm.
+      - Adeiladu integreiddiadau â systemau iechyd a gofal eraill gan ddefnyddio safonau agored fel HL7 FHIR.
+      - Cymryd rhan yn y gwaith o adnabod peryglon a helpu i roi mesurau rheoli diogelwch clinigol mewn cod a phrofion.
+      - Ymchwilio i broblemau mewn gwasanaethau byw a'u trwsio, gan gynnwys cymorth y tu allan i oriau lle mae'r gwasanaeth ei angen.
+      - Mentora datblygwyr iau a phrentis.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu bwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad o adeiladu a chefnogi meddalwedd gynhyrchu.
+  - title: Uwch ddatblygwr meddalwedd
+    slug: uwch-ddatblygwr-meddalwedd
+    responsibilities:
+      - Arwain dyluniad technegol a chyflawniad nodweddion a gwasanaethau sylweddol.
+      - Gosod a chynnal safonau peirianneg ar gyfer y tîm, gan gynnwys profi, diogelwch, a hygyrchedd.
+      - Gwneud penderfyniadau technegol sy'n cydbwyso anghenion defnyddwyr, diogelwch clinigol, diogelwch, a chost.
+      - Arwain ymchwiliadau i ddigwyddiadau ar gyfer gwasanaethau'r tîm a sbarduno'r atgyweiriadau.
+      - Gweithio gyda swyddogion diogelwch clinigol i sicrhau bod mesurau rheoli diogelwch wedi'u dylunio i mewn a'u profi.
+      - Hyfforddi a datblygu datblygwyr yn y tîm.
+    qualifications:
+      - Profiad sylweddol o ddylunio, adeiladu, a chefnogi meddalwedd gynhyrchu, ar lefel sy'n cyfateb i radd meistr.
+  - title: Datblygwr meddalwedd arweiniol
+    slug: datblygwr-meddalwedd-arweiniol
+    responsibilities:
+      - Arwain y beirianneg ar gyfer cynnyrch neu grŵp o dimau, gan osod y cyfeiriad technegol.
+      - Sicrhau bod y feddalwedd wedi'i dylunio ar gyfer diogelwch, saffrwydd, gwydnwch, a rhyngweithredu.
+      - Gweithio gyda phenseiri, rheolwyr cynnyrch, ac arweinwyr clinigol i lunio map ffordd y cynnyrch.
+      - Arwain cymuned ymarfer datblygu a gosod safonau ar draws timau.
+      - Rheoli neu arwain datblygwyr yn llinell, gan gefnogi eu datblygiad a'u perfformiad.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg meddalwedd ar gyfer gwasanaethau cymhleth.
+    job_evaluation_notes: Mae UK GDaD PCF yn rhestru datblygwr arweiniol a datblygwr pennaf fel rhai sydd fel arfer ar G7 neu G6; mae'r cyfeirlyfr hwn yn rhoi'r datblygwr arweiniol ar Fand 8a a'r datblygwr pennaf ar Fand 8b.
+  - title: Prif ddatblygwr meddalwedd
+    slug: prif-ddatblygwr-meddalwedd
+    responsibilities:
+      - Gosod strategaeth, safonau, ac arferion peirianneg ar gyfer datblygu meddalwedd y sefydliad.
+      - Cynghori uwch arweinwyr ar ddewisiadau technoleg, risgiau, a buddsoddiad.
+      - Arwain y gwaith o ddatrys y problemau technegol mwyaf cymhleth ar draws gwasanaethau.
+      - Cynrychioli'r sefydliad mewn cymunedau peirianneg ar draws sefydliadau a chymunedau cod agored.
+      - Arwain a datblygu datblygwyr arweiniol a chynyddu gallu peirianneg y sefydliad.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg ar draws sawl tîm neu sefydliad.

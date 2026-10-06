@@ -1,0 +1,81 @@
+summary: >
+  Mae arbenigwyr dysgu a datblygu'n helpu staff i ennill y sgiliau sydd eu hangen arnynt i ddarparu gofal diogel,
+  modern, wedi'i alluogi'n ddigidol. Maen nhw'n dadansoddi anghenion dysgu, yn dylunio ac yn cyflwyno dysgu wyneb
+  yn wyneb ac ar-lein, yn rhedeg y system rheoli dysgu, ac yn adeiladu llwybrau gyrfa. Mewn sefydliad gofal iechyd
+  digidol mae rhan fawr o'u gwaith yn ymwneud â datblygu sgiliau digidol, data, a thechnoleg, ar gyfer arbenigwyr
+  ac ar gyfer y gweithlu cyfan.
+health_context:
+  - Mae angen hyfforddiant ar staff clinigol a gofal ar systemau clinigol newydd cyn mynd yn fyw, yn aml ar draws sifftiau a safleoedd, felly caiff dysgu ei gynllunio o amgylch gwasanaethau sy'n rhedeg 24/7.
+  - Mae rhywfaint o hyfforddiant yn orfodol, fel llywodraethiant gwybodaeth, ymwybyddiaeth o seiberddiogelwch, a diogelu, ac adroddir ar gydymffurfio i'r bwrdd.
+  - Mae datblygu sgiliau digidol prin o'r tu mewn, drwy brentisiaethau, ailsgilio, a llwybrau gyrfa, yn aml yn gyflymach ac yn rhatach na'u recriwtio.
+  - Mae fframweithiau sgiliau fel y cyfeirlyfr hwn, UK GDaD PCF, ac ESCO yn rhoi iaith gyffredin ar gyfer dadansoddi bylchau sgiliau a chynlluniau datblygu.
+  - Mae'n rhaid i ddysgu fod yn hygyrch i staff ag anghenion, patrymau gwaith, a lefelau hyder digidol gwahanol.
+levels:
+  - title: Cydlynydd dysgu a datblygu
+    slug: cydlynydd-dysgu-a-datblygu
+    summary: Yn cydlynu cynnig dysgu'r sefydliad, gan redeg archebion, y system rheoli dysgu, a chofnodion hyfforddi, ac yn cefnogi cyflwyno cyrsiau.
+    responsibilities:
+      - Amserlennu cyrsiau, archebu ystafelloedd a hyfforddwyr, a rheoli archebion a rhestrau aros.
+      - Cynnal cyrsiau, cofrestriadau, a chofnodion cwblhau yn y system rheoli dysgu.
+      - Cynhyrchu adroddiadau ar gydymffurfio â hyfforddiant gorfodol ar gyfer rheolwyr.
+      - Ateb cwestiynau gan staff a rheolwyr am y cynnig dysgu.
+      - Cefnogi hyfforddwyr mewn sesiynau, gan gynnwys sefydlu ystafelloedd dosbarth ar-lein a chasglu adborth.
+      - Gweinyddu cofrestriadau ac adolygiadau prentisiaethau gyda darparwyr hyfforddiant.
+    qualifications:
+      - Cymhwyster lefel 3, prentisiaeth dysgu a datblygu, neu brofiad cyfatebol.
+      - Profiad o weinyddu ac o ddefnyddio system rheoli dysgu neu debyg.
+  - title: Swyddog dysgu a datblygu
+    slug: swyddog-dysgu-a-datblygu
+    summary: Yn dylunio ac yn cyflwyno dysgu ar gyfer ystod o grwpiau staff, gan gynnwys sgiliau digidol a hyfforddiant systemau, ac yn gwerthuso ei effaith.
+    responsibilities:
+      - Cyflwyno hyfforddiant wyneb yn wyneb ac ar-lein, fel sefydlu, sgiliau digidol, a hanfodion rheoli.
+      - Adeiladu e-ddysgu a chanllawiau byr yn y system rheoli dysgu, gan eu gwneud yn hygyrch.
+      - Gweithio gyda thimau digidol i gynllunio a chyflwyno hyfforddiant ar gyfer systemau clinigol a busnes newydd cyn mynd yn fyw.
+      - Cefnogi rheolwyr i nodi anghenion dysgu timau a chynllunio datblygiad.
+      - Gwerthuso cyrsiau a'u gwella gan ddefnyddio adborth a chanlyniadau.
+      - Cydlynu prentisiaethau, gan weithio gyda darparwyr, dysgwyr, a rheolwyr.
+    qualifications:
+      - Cymhwyster dysgu a datblygu neu hyfforddi cydnabyddedig, neu brofiad cyfatebol.
+      - Profiad o ddylunio a chyflwyno hyfforddiant i oedolion, wyneb yn wyneb ac ar-lein.
+    job_evaluation_notes: Mae pobl ar lefel 3 gan fod y swydd yn addysgu hyfforddiant craidd fel prif ddyletswydd; mae ymchwil ar lefel 2 gan ei bod yn gwerthuso dysgu'n rheolaidd.
+  - title: Arbenigwr dysgu a datblygu
+    slug: arbenigwr-dysgu-a-datblygu
+    summary: Yn arwain dadansoddi, dylunio, a gwerthuso rhaglenni dysgu ar gyfer maes mawr, fel arweinyddiaeth, sgiliau digidol, neu hyfforddiant systemau, gan weithio gyda rhyddid eang o fewn y strategaeth ddysgu.
+    responsibilities:
+      - Dadansoddi anghenion dysgu ar gyfer grŵp staff neu broffesiwn, gan ddefnyddio dadansoddiad o fylchau sgiliau yn erbyn y cyfeirlyfr hwn.
+      - Dylunio rhaglenni dysgu cyfunol â chanlyniadau clir, o e-ddysgu i hyfforddi ac ymarfer yn y gweithle.
+      - Dylunio strategaethau hyfforddi ar gyfer newidiadau mawr i systemau clinigol, gan gynnwys rhwydweithiau uwch-ddefnyddwyr.
+      - Gwerthuso effaith dysgu ar sgiliau, perfformiad, a gwasanaethau, ac adrodd arni.
+      - Comisiynu a sicrhau ansawdd darparwyr hyfforddiant allanol.
+      - Hyfforddi a datblygu swyddogion dysgu a datblygu.
+    qualifications:
+      - Cymhwyster dysgu a datblygu cydnabyddedig ar lefel ganolradd neu uwch, neu brofiad cyfatebol.
+      - Profiad sylweddol o ddylunio a gwerthuso rhaglenni dysgu.
+    job_evaluation_notes: Mae pobl ar lefel 4 gan mai dylunio rhaglenni hyfforddi yw'r brif ddyletswydd.
+  - title: Arweinydd sgiliau digidol
+    slug: arweinydd-sgiliau-digidol
+    summary: Yn arwain rhaglen y sefydliad i ddatblygu sgiliau digidol, data, a thechnoleg, ar gyfer proffesiynau arbenigol ac ar gyfer y gweithlu cyfan, gan ddefnyddio fframweithiau sgiliau i gynllunio gyrfaoedd a chau bylchau.
+    responsibilities:
+      - Arwain y rhaglen sgiliau digidol, gan gynnwys llythrennedd digidol i'r holl staff a datblygiad ar gyfer proffesiynau digidol, data, a thechnoleg.
+      - Rhedeg dadansoddiad o fylchau sgiliau ar draws timau digidol gan ddefnyddio proffiliau rolau a sgiliau'r cyfeirlyfr hwn, ac adrodd ar y canlyniadau.
+      - Dylunio llwybrau gyrfa o brentisiaethau i uwch rolau, wedi'u cysylltu â bandiau a gwerthuso swyddi.
+      - Meithrin partneriaethau â phrifysgolion, colegau, a darparwyr hyfforddiant, a gwneud defnydd llawn o gyllid prentisiaethau.
+      - Rheoli'r gyllideb sgiliau digidol a gwerthuso'r enillion ar fuddsoddiad.
+      - Arwain tîm bach o staff dysgu a datblygu.
+    qualifications:
+      - Cymhwyster dysgu a datblygu cydnabyddedig ar lefel uwch, neu brofiad cyfatebol.
+      - Profiad sylweddol o adeiladu rhaglenni sgiliau, yn ddelfrydol ym maes digidol, data, neu dechnoleg.
+  - title: Pennaeth dysgu
+    slug: pennaeth-dysgu
+    summary: Yn arwain dysgu a datblygu ar draws y sefydliad, gan osod y strategaeth ddysgu a rheoli'r tîm, y gyllideb, a'r systemau dysgu.
+    responsibilities:
+      - Gosod strategaeth ddysgu'r sefydliad, wedi'i chysylltu â'r strategaeth pobl a chynllun y gweithlu.
+      - Arwain a rheoli'r tîm dysgu a datblygu a'i wasanaethau, gan gynnwys hyfforddiant gorfodol a'r system rheoli dysgu.
+      - Dal y gyllideb ddysgu, gan gynnwys cronfeydd prentisiaethau a gwariant ar hyfforddiant allanol.
+      - Adrodd ar weithgarwch dysgu, cydymffurfio, ac effaith i bwyllgorau gweithredol.
+      - Arwain rhaglenni datblygu arweinyddiaeth a rheoli gyda chydweithwyr datblygu sefydliadol.
+      - Sicrhau bod dysgu'n hygyrch, yn gynhwysol, ac ar gael i staff ar bob sifft.
+    qualifications:
+      - Cymhwyster proffesiynol dysgu a datblygu neu adnoddau dynol cydnabyddedig ar lefel uwch, neu radd meistr mewn pwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad helaeth o arwain gwasanaethau dysgu.
+    job_evaluation_notes: Mae pobl ar lefel 5 gan fod y swydd yn rheoli hyfforddiant ar draws y sefydliad.

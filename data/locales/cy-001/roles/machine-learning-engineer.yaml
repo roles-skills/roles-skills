@@ -1,0 +1,34 @@
+summary: >
+  Mae peirianwyr dysgu peirianyddol yn cymryd modelau a adeiladwyd gan wyddonwyr data, neu a brynwyd gan
+  gyflenwyr, ac yn gwneud iddynt weithio'n ddibynadwy mewn gwasanaethau iechyd a gofal byw. Maen nhw'n adeiladu'r
+  piblinellau sy'n hyfforddi, yn profi, yn defnyddio, ac yn monitro modelau, ac yn eu hintegreiddio â systemau
+  clinigol a gweithredol. Maen nhw'n sicrhau bod modelau'n aros yn ddiogel, yn saff, yn deg, ac yn effeithiol
+  unwaith y bydd cleifion a staff go iawn yn dibynnu arnynt.
+health_context:
+  - Gall modelau sy'n cael eu defnyddio'n fyw ddrifftio wrth i boblogaethau cleifion, ymarfer clinigol, neu arferion cofnodi newid, felly caiff perfformiad ei fonitro ar gyfer pob grŵp o gleifion a chaiff modelau eu hailhyfforddi neu eu tynnu'n ôl pan fo angen.
+  - Gall model sy'n llywio diagnosis, brysbennu, neu driniaeth gael ei reoleiddio fel dyfais feddygol, sy'n dod â gofynion ffurfiol ar gyfer cylch bywyd ei feddalwedd, rheoli newid, a gwyliadwriaeth ar ôl ei roi ar y farchnad.
+  - Mae angen tystiolaeth ar achosion diogelwch clinigol am sut mae model yn methu, sut mae ei allbynnau'n cael eu dangos i glinigwyr, a beth sy'n digwydd pan nad yw ar gael.
+  - Gall modelau a hyfforddwyd ar ddata cleifion ollwng gwybodaeth am unigolion, felly caiff data hyfforddi, arteffactau model, a logiau eu diogelu fel y data ei hun.
+  - Mae deallusrwydd artiffisial cynhyrchiol a modelau iaith mawr yn dod â risgiau pellach, fel cynnwys wedi'i ddyfeisio mewn nodiadau clinigol, sydd angen profion penodol a goruchwyliaeth ddynol.
+levels:
+  - title: Uwch beiriannydd dysgu peirianyddol
+    slug: uwch-beiriannydd-dysgu-peirianyddol
+    responsibilities:
+      - Defnyddio modelau mewn gwasanaethau clinigol a gweithredol byw, gyda phrofi awtomataidd, fersiynu, a dychwelyd.
+      - Adeiladu monitro ar gyfer perfformiad modelau, drifft, a thegwch ar draws grwpiau o gleifion, gyda rhybuddion a pherchnogion clir.
+      - Integreiddio modelau â systemau clinigol, gan ddefnyddio safonau agored fel HL7 FHIR lle bo modd.
+      - Cynhyrchu'r dystiolaeth profi, newid, a monitro sydd ei hangen ar gyfer achosion diogelwch clinigol a ffeiliau technegol dyfeisiau meddygol.
+      - Asesu ac addasu modelau cyflenwyr a modelau cod agored i'w defnyddio'n lleol, gan gynnwys modelau deallusrwydd artiffisial cynhyrchiol.
+      - Hyfforddi gwyddonwyr data a pheirianwyr mewn arferion peirianneg dysgu peirianyddol.
+    qualifications:
+      - Profiad sylweddol o adeiladu a rhedeg systemau dysgu peirianyddol mewn cynhyrchu, ar lefel sy'n cyfateb i radd meistr.
+  - title: Peiriannydd dysgu peirianyddol arweiniol
+    slug: peiriannydd-dysgu-peirianyddol-arweiniol
+    responsibilities:
+      - Arwain y gwaith mwyaf cymhleth i ddod â modelau o ymchwil i ddefnydd byw diogel ar draws y sefydliad.
+      - Diffinio cylch bywyd dysgu peirianyddol, gan gynnwys y mesurau rheoli sydd eu hangen ar gyfer modelau a reoleiddir ac sy'n hanfodol i ddiogelwch.
+      - Gosod safonau ar gyfer profi, monitro, diogelwch, a moeseg modelau, a sicrhau modelau sy'n cael eu defnyddio'n fyw.
+      - Gweithio gyda swyddogion diogelwch clinigol, llywodraethiant gwybodaeth, ac arbenigwyr rheoleiddio i gytuno sut caiff modelau eu hasesu a'u cymeradwyo.
+      - Nodi anghenion hyfforddi a datblygu peirianwyr dysgu peirianyddol a rolau cysylltiedig.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg dysgu peirianyddol ar gyfer gwasanaethau cymhleth neu a reoleiddir.

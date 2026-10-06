@@ -1,0 +1,462 @@
+# Welsh translations of data/skills/shared.yaml. Keys are the English skill ids.
+health-care-context:
+  name: Deall gwasanaethau iechyd a gofal
+  slug: deall-gwasanaethau-iechyd-a-gofal
+  description: Deall sut mae gwasanaethau iechyd a gofal yn cael eu trefnu a'u darparu, sut mae clinigwyr a staff gofal yn gweithio, a sut mae gwasanaethau digidol yn cefnogi gofal cleifion.
+  levels:
+    awareness: |
+      Gallwch:
+      - ddisgrifio prif rannau'r system iechyd a gofal a'r gwasanaethau y mae'r sefydliad yn eu cefnogi
+      - egluro pam mae diogelwch cleifion a chyfrinachedd yn bwysig yn eich gwaith
+    working: |
+      Gallwch:
+      - egluro'r llifoedd gwaith clinigol a gofal y mae eich gwaith yn eu cefnogi
+      - defnyddio termau gofal iechyd cyffredin yn gywir gyda chydweithwyr clinigol a gofal
+      - adnabod pan allai newid effeithio ar ofal cleifion, a'i godi
+    practitioner: |
+      Gallwch:
+      - dadansoddi sut mae gwasanaeth yn ffitio i lwybrau gofal ar draws sefydliadau
+      - gweithio gyda chlinigwyr, staff gofal, a chleifion i lunio gwasanaethau digidol
+      - egluro effaith penderfyniadau digidol ar ofal, diogelwch, a llwyth gwaith staff
+    expert: |
+      Gallwch:
+      - llunio strategaeth y sefydliad gan ddefnyddio dealltwriaeth ddofn o'r system iechyd a gofal
+      - cynrychioli'r sefydliad gyda phartneriaid ac arweinwyr iechyd a gofal
+      - rhagweld sut bydd newidiadau polisi a gwasanaeth yn effeithio ar wasanaethau digidol a gofal
+
+clinical-safety:
+  name: Rheoli risg glinigol
+  slug: rheoli-risg-glinigol
+  description: Adnabod, asesu, a rheoli'r risgiau y gall systemau TG iechyd eu peri i gleifion, drwy broses rheoli risg glinigol, logiau peryglon, ac achosion diogelwch (er enghraifft yn dilyn ISO 14971 ac IEC 80001-1).
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro sut y gall systemau TG iechyd niweidio cleifion, er enghraifft drwy wybodaeth anghywir, coll, neu hwyr
+      - rhoi gwybod am broblem diogelwch clinigol bosibl drwy'r llwybr cywir
+    working: |
+      Gallwch:
+      - cymryd rhan mewn gweithdai peryglon a chyfrannu at log peryglon
+      - dilyn y broses rheoli risg glinigol ar gyfer eich gwaith
+      - darparu tystiolaeth ar gyfer achos diogelwch clinigol, fel canlyniadau profion
+    practitioner: |
+      Gallwch:
+      - arwain y gwaith o adnabod peryglon ac asesu risg ar gyfer cynnyrch neu newid
+      - ysgrifennu a chynnal logiau peryglon ac adroddiadau achos diogelwch clinigol
+      - cytuno ar fesurau rheoli risg gyda thimau cynnyrch a gwirio eu bod yn gweithio
+      - cynghori timau ar gymhwyso safonau rheoli risg glinigol
+    expert: |
+      Gallwch:
+      - bod yn berchen ar system rheoli risg glinigol y sefydliad
+      - gosod polisi diogelwch clinigol a sicrhau achosion diogelwch ar gyfer systemau mawr
+      - arwain yr ymateb i ddigwyddiadau diogelwch difrifol sy'n ymwneud â TG iechyd
+      - meithrin diwylliant o ddiogelwch clinigol ar draws timau digidol
+
+health-data-interoperability:
+  name: Rhyngweithredu data iechyd
+  slug: rhyngweithredu-data-iechyd
+  description: Cyfnewid data iechyd a gofal yn ddiogel ac yn gyson rhwng systemau gan ddefnyddio safonau agored fel HL7 FHIR, HL7 fersiwn 2, proffiliau IHE, ac APIs safonol.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae rhyngweithredu'n bwysig ar gyfer gofal cydgysylltiedig
+      - enwi'r prif safonau cyfnewid data iechyd, fel HL7 FHIR
+    working: |
+      Gallwch:
+      - darllen a defnyddio adnoddau, proffiliau, ac APIs FHIR
+      - adeiladu neu brofi integreiddiadau syml dan arweiniad
+      - gwirio negeseuon yn erbyn manyleb
+    practitioner: |
+      Gallwch:
+      - dylunio ac adeiladu integreiddiadau gan ddefnyddio FHIR, HL7 fersiwn 2, a phatrymau negeseua
+      - ysgrifennu a phroffilio adnoddau FHIR a chanllawiau gweithredu
+      - datrys problemau mapio ac ansawdd data cymhleth rhwng systemau
+    expert: |
+      Gallwch:
+      - gosod safonau a strategaeth rhyngweithredu ar gyfer y sefydliad
+      - arwain gwaith safonau cenedlaethol neu ar draws sefydliadau
+      - sicrhau dyluniad integreiddiadau hanfodol ar draws llawer o systemau
+
+clinical-terminology:
+  name: Terminoleg a dosbarthu clinigol
+  slug: terminoleg-a-dosbarthu-clinigol
+  description: Defnyddio terminolegau a dosbarthiadau clinigol, fel SNOMED CT, ICD, a LOINC, i gofnodi a chyfnewid ystyr clinigol yn gyson.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro'r gwahaniaeth rhwng terminoleg glinigol a dosbarthiad
+      - adnabod terminolegau cyffredin fel SNOMED CT ac ICD
+    working: |
+      Gallwch:
+      - dod o hyd i'r codau cywir ar gyfer eitem ddata neu ffurflen a'u defnyddio
+      - defnyddio porwyr terminoleg a setiau cyfeirio
+    practitioner: |
+      Gallwch:
+      - dylunio modelau data a setiau cyfeirio gan ddefnyddio terminolegau clinigol
+      - mapio rhwng terminolegau a dosbarthiadau, ac egluro cyfyngiadau mapio
+      - cynghori timau ar ddefnyddio terminoleg mewn cynhyrchion a dadansoddeg
+    expert: |
+      Gallwch:
+      - gosod polisi terminoleg ar gyfer y sefydliad
+      - arwain rhyddhau terminoleg, ei llywodraethiant, a sicrhau ei hansawdd
+      - cynrychioli'r sefydliad mewn cyrff safonau terminoleg
+
+information-governance:
+  name: Llywodraethiant gwybodaeth a diogelu data
+  slug: llywodraethiant-gwybodaeth-a-diogelu-data
+  description: Trin gwybodaeth bersonol ac iechyd yn gyfreithlon, yn ddiogel, ac yn foesegol, gan gynnwys cyfraith diogelu data, cyfrinachedd, cydsyniad, asesiadau o'r effaith ar ddiogelu data, a rhannu gwybodaeth.
+  levels:
+    awareness: |
+      Gallwch:
+      - dilyn rheolau'r sefydliad ar gyfer trin gwybodaeth bersonol ac iechyd
+      - adnabod tor diogelwch data neu ddigwyddiad a fu bron â digwydd, a rhoi gwybod amdano
+    working: |
+      Gallwch:
+      - cymhwyso egwyddorion diogelu data i'ch gwaith
+      - cyfrannu at asesiadau o'r effaith ar ddiogelu data
+      - ymdrin â cheisiadau am wybodaeth a chofnodion yn gywir
+    practitioner: |
+      Gallwch:
+      - arwain asesiadau o'r effaith ar ddiogelu data a chytundebau rhannu gwybodaeth
+      - cynghori timau ar sail gyfreithlon, cydsyniad, cyfrinachedd, a chadw
+      - ymchwilio i ddigwyddiadau ac argymell gwelliannau
+    expert: |
+      Gallwch:
+      - gosod polisi a strategaeth llywodraethiant gwybodaeth
+      - cynghori'r bwrdd ar risg gwybodaeth a chydymffurfiaeth
+      - cynrychioli'r sefydliad gyda rheoleiddwyr a phartneriaid
+
+medical-device-regulation:
+  name: Rheoleiddio meddalwedd dyfeisiau meddygol
+  slug: rheoleiddio-meddalwedd-dyfeisiau-meddygol
+  description: Deall pryd mae meddalwedd yn ddyfais feddygol, a'r safonau a'r prosesau sy'n berthnasol iddi, fel IEC 62304 ac ISO 13485.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro bod rhywfaint o feddalwedd iechyd yn cael ei rheoleiddio fel dyfais feddygol
+      - gwybod pwy i'w holi pan allai cynnyrch fod yn ddyfais feddygol
+    working: |
+      Gallwch:
+      - dilyn proses cylch bywyd meddalwedd sy'n bodloni safonau dyfeisiau meddygol
+      - cynhyrchu'r cofnodion y mae proses o'r fath yn eu gofyn
+    practitioner: |
+      Gallwch:
+      - asesu a yw cynnyrch yn ddyfais feddygol, a'i ddosbarth tebygol
+      - cynllunio'r gwaith rheoleiddio ar gyfer cynnyrch gyda chydweithwyr ansawdd a chlinigol
+    expert: |
+      Gallwch:
+      - gosod dull y sefydliad o ymdrin â meddalwedd a reoleiddir
+      - arwain ymgysylltu â rheoleiddwyr a chyrff hysbysedig
+
+people-management:
+  name: Rheoli pobl
+  slug: rheoli-pobl
+  description: Arwain, datblygu, a chefnogi staff, gan gynnwys recriwtio, amcanion, arfarnu, llesiant, presenoldeb, a rheoli perfformiad ac ymddygiad yn deg.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro polisïau pobl y sefydliad sy'n effeithio arnoch
+      - cefnogi cydweithwyr newydd a rhannu gwybodaeth
+    working: |
+      Gallwch:
+      - goruchwylio gwaith o ddydd i ddydd a rhoi adborth
+      - cymryd rhan mewn recriwtio a chyfnodau sefydlu
+      - cynnal sgyrsiau un i un rheolaidd
+    practitioner: |
+      Gallwch:
+      - rheoli tîm yn llinell, gan osod amcanion a chynnal arfarniadau
+      - cefnogi llesiant a rheoli presenoldeb, perfformiad, ac ymddygiad
+      - cynllunio datblygiad y tîm a chynllunio olyniaeth
+    expert: |
+      Gallwch:
+      - arwain rheolwyr a llunio diwylliant maes mawr
+      - dylunio cynlluniau'r gweithlu a newid sefydliadol
+      - hyfforddi arweinwyr a datrys materion pobl cymhleth
+
+equality-diversity-inclusion:
+  name: Cydraddoldeb, amrywiaeth, a chynhwysiant
+  slug: cydraddoldeb-amrywiaeth-a-chynhwysiant
+  description: Trin pobl yn deg, gwerthfawrogi gwahaniaeth, a dylunio gwasanaethau a gweithleoedd sy'n cynnwys pawb.
+  levels:
+    awareness: |
+      Gallwch:
+      - trin cydweithwyr, cleifion, a'r cyhoedd gydag urddas a pharch
+      - dilyn polisïau cydraddoldeb a chynhwysiant
+    working: |
+      Gallwch:
+      - adnabod a herio ymddygiad sy'n eithrio eraill
+      - ystyried anghenion gwahanol wrth gynllunio eich gwaith
+    practitioner: |
+      Gallwch:
+      - cynnal asesiadau effaith cydraddoldeb
+      - meithrin timau ac arferion cynhwysol
+    expert: |
+      Gallwch:
+      - gosod strategaeth cynhwysiant a dwyn y sefydliad i gyfrif amdani
+      - arwain newid diwylliant ar gydraddoldeb, amrywiaeth, a chynhwysiant
+
+health-safety-wellbeing:
+  name: Iechyd, diogelwch, a llesiant
+  slug: iechyd-diogelwch-a-llesiant
+  description: Cadw eich hun ac eraill yn ddiogel ac yn iach yn y gwaith, gan gynnwys asesu risg, arferion gwaith diogel, a rhoi gwybod am ddigwyddiadau.
+  levels:
+    awareness: |
+      Gallwch:
+      - dilyn rheolau iechyd a diogelwch a rhoi gwybod am beryglon a digwyddiadau
+    working: |
+      Gallwch:
+      - cynnal asesiadau risg syml, fel asesiadau gweithfannau
+      - helpu cydweithwyr i weithio'n ddiogel
+    practitioner: |
+      Gallwch:
+      - rheoli iechyd a diogelwch ar gyfer tîm neu safle
+      - ymchwilio i ddigwyddiadau a rhoi mesurau rheoli ar waith
+    expert: |
+      Gallwch:
+      - gosod polisi iechyd, diogelwch, a llesiant ar gyfer y sefydliad
+      - adrodd i'r bwrdd ar berfformiad diogelwch
+
+budget-management:
+  name: Rheoli cyllideb
+  slug: rheoli-cyllideb
+  description: Cynllunio, monitro, a rheoli cyllideb, gan gynnwys rhagweld, rheoli amrywiannau, a dilyn rheolau ariannol.
+  levels:
+    awareness: |
+      Gallwch:
+      - dilyn y rheolau ar gyfer gwario ac archebu
+      - egluro sut mae eich gwaith yn cael ei ariannu
+    working: |
+      Gallwch:
+      - olrhain gwariant yn erbyn cyllideb fach a thynnu sylw at amrywiannau
+      - awdurdodi gwariant o fewn eich terfyn
+    practitioner: |
+      Gallwch:
+      - dal a rheoli cyllideb, gan ragweld ac egluro amrywiannau
+      - llunio achos busnes gyda chostau a buddion
+    expert: |
+      Gallwch:
+      - rheoli cyllidebau mawr neu luosog a gosod cynlluniau ariannol
+      - gwneud penderfyniadau cyllido cytbwys ar draws gwasanaethau
+
+project-management:
+  name: Rheoli prosiectau
+  slug: rheoli-prosiectau
+  description: Cynllunio, cyflawni, a chau prosiectau i gwmpas, amser, cost, ac ansawdd y cytunwyd arnynt, gan ddefnyddio dull cydnabyddedig fel PRINCE2, PM², neu ddulliau ystwyth.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro camau prosiect a'r prif rolau ynddo
+      - cadw cofnodion prosiect fel logiau camau gweithredu
+    working: |
+      Gallwch:
+      - cynnal cynlluniau, logiau risg a phroblemau, ac adroddiadau
+      - rhedeg cyfarfodydd prosiect ac olrhain camau gweithredu
+      - rheoli prosiect bach, wedi'i ddiffinio'n dda, gyda chymorth
+    practitioner: |
+      Gallwch:
+      - rheoli prosiectau o'r dechrau i'r diwedd, gan reoli cwmpas, amser, cost, ac ansawdd
+      - rheoli risgiau, problemau, dibyniaethau, a rheoli newid
+      - adrodd i fyrddau prosiect a rheoli cyflenwyr
+    expert: |
+      Gallwch:
+      - rheoli prosiectau mawr, cymhleth, neu risg uchel
+      - gosod safonau rheoli prosiectau a hyfforddi rheolwyr prosiect
+      - adfer prosiectau sy'n methu
+
+risk-management:
+  name: Rheoli risg sefydliadol
+  slug: rheoli-risg-sefydliadol
+  description: Adnabod, asesu, cofnodi, a rheoli risgiau i amcanion y sefydliad, gan ddefnyddio cofrestr risgiau a pharodrwydd diffiniedig i dderbyn risg.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro beth yw risg a sut i godi un
+    working: |
+      Gallwch:
+      - cofnodi a diweddaru risgiau ar gyfer eich maes
+      - awgrymu mesurau rheoli ac olrhain camau gweithredu
+    practitioner: |
+      Gallwch:
+      - rhedeg y broses risg ar gyfer cyfarwyddiaeth neu raglen
+      - asesu risgiau yn erbyn y parodrwydd i dderbyn risg a'u huwchgyfeirio
+      - adrodd ar risgiau i bwyllgorau
+    expert: |
+      Gallwch:
+      - dylunio fframwaith rheoli risg a pharodrwydd y sefydliad i dderbyn risg
+      - cynghori'r bwrdd ar risgiau strategol
+
+security-operations:
+  name: Gweithrediadau diogelwch
+  slug: gweithrediadau-diogelwch
+  description: Monitro systemau am fygythiadau diogelwch, brysbennu rhybuddion, ymchwilio i ddigwyddiadau, ac ymateb i ddigwyddiadau seiber, gan ddefnyddio offer fel SIEM a chanfod ar ddyfeisiau.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro bygythiadau seiber cyffredin fel gwe-rwydo a meddalwedd wystlo
+      - rhoi gwybod am ddigwyddiad diogelwch a amheuir
+    working: |
+      Gallwch:
+      - monitro rhybuddion a'u brysbennu gan ddefnyddio llyfrau rhedeg
+      - casglu tystiolaeth ac uwchgyfeirio digwyddiadau
+      - mireinio rheolau canfod syml dan arweiniad
+    practitioner: |
+      Gallwch:
+      - ymchwilio i ddigwyddiadau diogelwch a'u cyfyngu
+      - ysgrifennu rheolau canfod a chwilio am fygythiadau
+      - gwella llyfrau rhedeg ac offer ar ôl digwyddiadau
+    expert: |
+      Gallwch:
+      - arwain y gwasanaeth gweithrediadau diogelwch a'i strategaeth
+      - arwain yr ymateb i ddigwyddiadau seiber mawr
+      - gweithio gydag asiantaethau diogelwch cenedlaethol a phartneriaid
+
+vulnerability-management:
+  name: Rheoli gwendidau
+  slug: rheoli-gwendidau
+  description: Dod o hyd i wendidau technegol, eu hasesu, eu blaenoriaethu, a'u trwsio, gan gynnwys sganio, profion hacio, a phatsio.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae patsio prydlon a ffurfweddiad diogel yn bwysig
+    working: |
+      Gallwch:
+      - rhedeg sganiau gwendidau ac adrodd ar y canlyniadau
+      - olrhain atgyweiriadau gyda pherchnogion systemau
+    practitioner: |
+      Gallwch:
+      - blaenoriaethu gwendidau yn ôl risg, gan gynnwys i wasanaethau cleifion
+      - cwmpasu a rheoli profion hacio ac adfer
+    expert: |
+      Gallwch:
+      - gosod y polisi rheoli gwendidau a'i dargedau
+      - adrodd ar risg diogelwch technegol i uwch arweinwyr
+
+identity-and-access-management:
+  name: Rheoli hunaniaeth a mynediad
+  slug: rheoli-hunaniaeth-a-mynediad
+  description: Rheoli hunaniaethau digidol, dilysu, a hawliau mynediad ar gyfer staff, cleifion, a systemau, gan gynnwys mynediad yn seiliedig ar rôl a dilysu cerdyn clyfar neu aml-ffactor.
+  levels:
+    awareness: |
+      Gallwch:
+      - dilyn rheolau mynediad a diogelu eich manylion mewngofnodi
+    working: |
+      Gallwch:
+      - creu, newid, a dileu cyfrifon defnyddwyr a hawliau mynediad
+      - gwirio mynediad yn erbyn rheolau mynediad yn seiliedig ar rôl
+    practitioner: |
+      Gallwch:
+      - dylunio a rhedeg gwasanaethau hunaniaeth a mynediad
+      - adolygu mynediad yn rheolaidd a thrwsio problemau
+    expert: |
+      Gallwch:
+      - gosod y strategaeth hunaniaeth a mynediad ar gyfer staff, cleifion, a systemau
+      - arwain y gwaith o fabwysiadu safonau hunaniaeth newydd
+
+data-quality:
+  name: Rheoli ansawdd data
+  slug: rheoli-ansawdd-data
+  description: Diffinio, mesur, a gwella ansawdd data, gan gynnwys cyflawnder, cywirdeb, amseroldeb, a dilysrwydd.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae data iechyd cywir yn bwysig ar gyfer gofal a chynllunio
+      - cofnodi data'n gywir a rhoi gwybod am wallau
+    working: |
+      Gallwch:
+      - rhedeg gwiriadau ansawdd data a chywiro gwallau
+      - egluro adroddiadau ansawdd data i gydweithwyr
+    practitioner: |
+      Gallwch:
+      - diffinio rheolau a mesurau ansawdd data
+      - gweithio gyda darparwyr data i fynd i'r afael ag achosion sylfaenol ansawdd gwael
+    expert: |
+      Gallwch:
+      - gosod safonau ansawdd data ar gyfer y sefydliad a'i bartneriaid
+      - arwain rhaglenni gwella ansawdd data
+
+health-records-management:
+  name: Rheoli cofnodion iechyd
+  slug: rheoli-cofnodion-iechyd
+  description: Rheoli cofnodion iechyd a gofal drwy eu cylch bywyd, gan gynnwys eu creu, eu ffeilio, eu holrhain, mynediad atynt, eu cadw, a'u gwaredu.
+  levels:
+    awareness: |
+      Gallwch:
+      - ffeilio, dod o hyd i, ac olrhain cofnodion yn gywir
+      - diogelu cofnodion rhag eu colli neu fynediad heb awdurdod
+    working: |
+      Gallwch:
+      - prosesu ceisiadau am fynediad at gofnodion
+      - cymhwyso cofrestrau cadw cofnodion a safonau cadw cofnodion
+    practitioner: |
+      Gallwch:
+      - rheoli gwasanaeth cofnodion a'i weithdrefnau
+      - archwilio'r gwaith o gadw cofnodion a hyfforddi staff
+    expert: |
+      Gallwch:
+      - gosod polisi a strategaeth rheoli cofnodion
+      - arwain y symud o gofnodion papur i gofnodion digidol
+
+clinical-coding:
+  name: Codio clinigol
+  slug: codio-clinigol
+  description: Trosi gwybodaeth glinigol o gofnodion iechyd yn godau dosbarthu safonol, gan ddilyn rheolau codio cenedlaethol a rhyngwladol, ar gyfer gofal, taliadau, ac ystadegau.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro beth yw codio clinigol a pham ei fod yn bwysig
+      - defnyddio termau meddygol sylfaenol ac anatomeg
+    working: |
+      Gallwch:
+      - codio episodau syml yn gywir, gan ddefnyddio rheolau dosbarthu
+      - holi clinigwyr am gofnodion aneglur
+    practitioner: |
+      Gallwch:
+      - codio episodau cymhleth ar draws arbenigeddau
+      - archwilio ansawdd codio a hyfforddi codwyr
+    expert: |
+      Gallwch:
+      - arwain gwasanaeth codio a'i raglen ansawdd
+      - cynghori ar safonau codio a'u heffaith ar ddata a chyllid
+
+clinical-leadership-in-digital:
+  name: Arweinyddiaeth glinigol mewn digidol
+  slug: arweinyddiaeth-glinigol-mewn-digidol
+  description: Dod â gwybodaeth a hygrededd clinigol i'r gwaith o ddylunio, mabwysiadu, a defnyddio gwasanaethau digidol yn ddiogel, ac arwain clinigwyr drwy newid digidol.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro sut mae gwasanaethau digidol yn newid ymarfer clinigol
+    working: |
+      Gallwch:
+      - rhoi mewnbwn clinigol i dimau cynnyrch ar lifoedd gwaith a diogelwch
+      - helpu cydweithwyr clinigol i fabwysiadu systemau newydd
+    practitioner: |
+      Gallwch:
+      - arwain ymgysylltu clinigol ar gyfer cynnyrch neu raglen
+      - troi anghenion a thystiolaeth glinigol yn ofynion
+      - hyrwyddo mabwysiadu diogel ymysg cymheiriaid clinigol
+    expert: |
+      Gallwch:
+      - gosod y cyfeiriad clinigol ar gyfer gwasanaethau digidol y sefydliad
+      - arwain arweinwyr clinigol ar draws sefydliadau drwy newid digidol
+      - cynghori'r bwrdd ar risg a budd clinigol buddsoddiad digidol
+
+governance-and-compliance:
+  name: Llywodraethiant corfforaethol a chydymffurfio
+  slug: llywodraethiant-corfforaethol-a-chydymffurfio
+  description: Cefnogi llywodraethiant y sefydliad — byrddau, pwyllgorau, rheolau sefydlog, polisïau, datganiadau o fuddiant, a chydymffurfio â dyletswyddau cyfreithiol a rheoleiddiol.
+  levels:
+    awareness: |
+      Gallwch:
+      - dilyn polisïau'r sefydliad a'i reolau gwneud penderfyniadau
+    working: |
+      Gallwch:
+      - cefnogi cyfarfodydd pwyllgor, papurau, a chofnodion
+      - cadw cofrestrau llywodraethiant yn gyfredol
+    practitioner: |
+      Gallwch:
+      - rhedeg y cylch llywodraethiant ar gyfer byrddau a phwyllgorau
+      - adolygu polisïau a chynghori ar gydymffurfiaeth
+    expert: |
+      Gallwch:
+      - dylunio'r fframwaith llywodraethiant a chynghori'r bwrdd
+      - arwain adroddiadau a sicrwydd llywodraethiant blynyddol

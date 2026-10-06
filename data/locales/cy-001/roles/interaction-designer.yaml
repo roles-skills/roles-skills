@@ -1,0 +1,73 @@
+summary: >
+  Mae dylunwyr rhyngweithio'n dylunio sut mae cleifion, gofalwyr, clinigwyr, a staff gofal yn defnyddio
+  gwasanaethau iechyd digidol y sefydliad, o apiau a ffurflenni i gleifion i'r sgriniau y mae clinigwyr yn eu
+  defnyddio wrth erchwyn y gwely. Maen nhw'n dylunio rhyngweithiadau syml, hygyrch, a diogel, yn eu profi gyda
+  defnyddwyr go iawn, ac yn defnyddio systemau dylunio a rennir fel bod gwasanaethau'n teimlo'n gyson ac yn
+  gyfarwydd.
+health_context:
+  - Mae clinigwyr yn aml yn defnyddio systemau dan bwysau amser, gydag ymyriadau ac ar ddyfeisiau a rennir, felly mae'n rhaid i ddyluniadau gefnogi gwaith cyflym a chywir a gwneud y weithred ddiogel yn hawdd.
+  - Gall dyluniad gwael achosi niwed clinigol, fel dewis y claf anghywir neu gamddarllen dos, felly mae dylunwyr yn cymhwyso egwyddorion ffactorau dynol ac yn gweithio gyda swyddogion diogelwch clinigol.
+  - Mae llawer o ddefnyddwyr yn sâl, yn bryderus, yn hŷn, neu'n anabl, felly mae'n rhaid i ddyluniadau fodloni safonau hygyrchedd a gweithio i bobl â sgiliau digidol neu lythrennedd iechyd isel.
+  - Dim ond os yw pobl yn sylwi arnynt ac yn ymddiried ynddynt y mae rhybuddion yn ddefnyddiol, felly mae dylunwyr yn helpu i leihau blinder rhybuddion a chadw gwybodaeth sy'n hanfodol i ddiogelwch yn weladwy.
+levels:
+  - title: Dylunydd rhyngweithio cyswllt
+    slug: dylunydd-rhyngweithio-cyswllt
+    responsibilities:
+      - Dysgu dulliau dylunio rhyngweithio a system ddylunio'r tîm drwy hyfforddiant a gweithio mewn parau.
+      - Creu brasluniau, fframiau gwifren, a phrototeipiau syml dan oruchwyliaeth.
+      - Helpu i brofi dyluniadau gyda defnyddwyr a chofnodi beth sy'n gweithio a beth sydd ddim.
+      - Dilyn safonau hygyrchedd a phatrymau'r system ddylunio, gan gynnwys y rhai ar gyfer hunaniaeth cleifion a rhybuddion diogelwch.
+    qualifications:
+      - Yn gweithio tuag at gymhwyster neu brentisiaeth mewn dylunio neu faes cysylltiedig, neu brofiad cyfatebol.
+  - title: Dylunydd rhyngweithio iau
+    slug: dylunydd-rhyngweithio-iau
+    responsibilities:
+      - Dylunio a chreu prototeipiau o rannau o wasanaeth, fel ffurflenni, llifoedd, a sgriniau, dan gyfarwyddyd dylunydd mwy profiadol.
+      - Profi dyluniadau gyda chleifion, gofalwyr, a staff, a'u newid yn seiliedig ar yr hyn rydych chi'n ei ddysgu.
+      - Dylunio rhyngweithiadau hygyrch sy'n gweithio gyda thechnolegau cynorthwyol.
+      - Egluro penderfyniadau dylunio i'r tîm, gan gynnwys sut maen nhw'n lleihau'r siawns o wall.
+    qualifications:
+      - Gradd mewn dylunio neu bwnc cysylltiedig, neu brofiad cyfatebol.
+  - title: Dylunydd rhyngweithio
+    slug: dylunydd-rhyngweithio
+    responsibilities:
+      - Dylunio rhyngweithiadau ar gyfer cynnyrch iechyd digidol, o gysyniadau cynnar i ddyluniadau manwl wedi'u profi.
+      - Dylunio ar gyfer llifoedd gwaith clinigol, gan brofi gyda chlinigwyr a staff gofal mewn senarios realistig, gan gynnwys ymyriadau.
+      - Codi peryglon sy'n gysylltiedig â dylunio gyda'r swyddog diogelwch clinigol a chofnodi sut mae dyluniadau'n eu rheoli.
+      - Defnyddio a chyfrannu at y system ddylunio, gan gynnwys patrymau ar gyfer gwybodaeth sy'n hanfodol i ddiogelwch.
+      - Gweithio'n agos gyda datblygwyr i sicrhau bod dyluniadau'n cael eu hadeiladu fel y bwriadwyd ac yn aros yn hygyrch.
+    qualifications:
+      - Gradd mewn dylunio neu bwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad o ddylunio gwasanaethau digidol gyda defnyddwyr.
+    job_evaluation_notes: Mae UK GDaD PCF yn rhoi'r dylunydd rhyngweithio ar SEO neu G7, gyda Band 7 wedi'i awgrymu, yr un fath â'r uwch ddylunydd rhyngweithio. Mae'r cyfeirlyfr hwn yn ei roi ar Fand 6, yr un fath â lefel y dylunydd gwasanaethau sydd â lefelau sgiliau PCF union yr un fath, fel nad yw'r ddwy lefel dylunydd rhyngweithio yn yr un band.
+  - title: Uwch ddylunydd rhyngweithio
+    slug: uwch-ddylunydd-rhyngweithio
+    responsibilities:
+      - Arwain dylunio rhyngweithio ar gyfer gwasanaethau cymhleth, fel systemau clinigol a ddefnyddir ar draws llawer o leoliadau gofal.
+      - Cymhwyso dulliau ffactorau dynol, fel dadansoddi tasgau, i lifoedd gwaith clinigol sy'n hanfodol i ddiogelwch.
+      - Darparu tystiolaeth ddylunio ar gyfer achosion diogelwch clinigol a, lle mae meddalwedd yn cael ei rheoleiddio, ar gyfer ffeiliau defnyddioldeb.
+      - Helpu i osod cyfeiriad ac arfer da ar gyfer dylunio mewn timau, a mentora dylunwyr eraill.
+      - Gwneud penderfyniadau dylunio o ymchwil a data, a'u hegluro i arweinwyr clinigol a chynnyrch.
+    qualifications:
+      - Profiad sylweddol o ddylunio rhyngweithio, ar lefel sy'n cyfateb i radd meistr.
+  - title: Dylunydd rhyngweithio arweiniol
+    slug: dylunydd-rhyngweithio-arweiniol
+    responsibilities:
+      - Gosod cyfeiriad dylunio a sicrhau ansawdd dylunio rhyngweithio ar draws sawl tîm neu wasanaeth.
+      - Arwain y system ddylunio, gan gynnwys patrymau hygyrch a hanfodol i ddiogelwch y mae timau ar draws y sefydliad yn eu hailddefnyddio.
+      - Arwain gwaith ffactorau dynol ar y gwasanaethau clinigol â'r risg uchaf, gyda swyddogion diogelwch clinigol.
+      - Gweithio gydag uwch arweinwyr cynnyrch a chlinigol i ddatblygu cysyniadau dylunio ar gyfer gwasanaethau mawr.
+      - Rheoli a datblygu dylunwyr rhyngweithio yn llinell.
+    qualifications:
+      - Profiad helaeth o arwain dylunio rhyngweithio ar draws timau.
+    job_evaluation_notes: Does dim lefel Band 8a, gan fod UK GDaD PCF yn rhoi'r dylunydd rhyngweithio arweiniol ar G7 neu G6 ac mae'r cyfeirlyfr hwn yn dilyn y Band 8b a awgrymir. Mae polisi ar lefel 5 gan fod y dylunydd arweiniol yn gosod safonau dylunio ar gyfer ystod o wasanaethau.
+  - title: Pennaeth dylunio rhyngweithio
+    slug: pennaeth-dylunio-rhyngweithio
+    responsibilities:
+      - Arwain y proffesiwn dylunio rhyngweithio a gosod ei strategaeth, ei safonau, a'i ffyrdd o weithio.
+      - Dylanwadu ar strategaeth ddylunio a sefydliadol fel bod gwasanaethau'n ddefnyddiadwy, yn hygyrch, ac yn ddiogel.
+      - Bod yn berchen ar system ddylunio'r sefydliad a sicrhau ei bod yn bodloni anghenion hygyrchedd a diogelwch clinigol.
+      - Meithrin gallu dylunio, gan gynnwys recriwtio, llwybrau gyrfa, a hyfforddiant.
+      - Gweithio gyda chymheiriaid ar draws y system iechyd a gofal ar batrymau dylunio a rennir.
+    qualifications:
+      - Profiad helaeth o arwain dylunio ac ymarfer dylunio.

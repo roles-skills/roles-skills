@@ -1,0 +1,68 @@
+summary: >
+  Mae swyddogion caffael yn helpu'r sefydliad i brynu'r nwyddau a'r gwasanaethau sydd eu hangen arno, yn
+  gyfreithlon ac am werth da, o bryniannau arferol i dendrau ffurfiol. Mewn sefydliad gofal iechyd digidol mae
+  llawer o'r gwariant hwn ar feddalwedd, gwasanaethau cwmwl, trwyddedau, dyfeisiau, a gwasanaethau technoleg, felly
+  maen nhw'n gweithio'n agos gyda chydweithwyr digidol, llywodraethiant gwybodaeth, a diogelwch clinigol yn ogystal
+  â deiliaid cyllidebau.
+health_context:
+  - Mae rheolau caffael cyhoeddus yn berthnasol i wariant y sefydliad, felly mae'n rhaid i bob pryniant ddilyn y llwybr cywir, cadw llwybr archwilio clir, a thrin cyflenwyr yn deg.
+  - Mae llawer o bryniannau'n ddigidol, fel trwyddedau meddalwedd, tanysgrifiadau cwmwl, a dyfeisiau, ac mae angen gwiriadau diogelwch, diogelu data, a diogelwch clinigol arnynt cyn contract.
+  - Gall cyflenwyr systemau clinigol ddal data cleifion, felly mae angen telerau clir ar gontractau ar ddiogelu data, perchnogaeth data, a dychwelyd data.
+  - Gall prynu drwy fframweithiau a systemau prynu deinamig a adeiladwyd ar gyfer y sector cyhoeddus arbed amser, ond mae'n rhaid i gontractau yn ôl y gofyn ddilyn rheolau pob fframwaith o hyd.
+  - Mae'n rhaid i wariant cyhoeddus ddangos gwerth am arian a gwerth cymdeithasol, fel swyddi lleol, sgiliau, a llai o garbon.
+levels:
+  - title: Cynorthwyydd caffael
+    slug: cynorthwyydd-caffael
+    summary: Yn darparu cymorth prynu a gweinyddol, gan ddilyn gweithdrefnau penodol, gyda swyddog caffael gerllaw.
+    responsibilities:
+      - Codi a diwygio archebion prynu yn y system brynu, gan eu gwirio yn erbyn contractau a chymeradwyaethau.
+      - Datrys ymholiadau arferol am anfonebau a derbyn nwyddau gyda chyflenwyr, deiliaid cyllidebau, a chyllid.
+      - Cael dyfynbrisiau ar gyfer pryniannau gwerth isel gan ddilyn rheolau'r sefydliad.
+      - Cadw cofnodion cyflenwyr, catalogau, a'r gofrestr contractau'n gyfredol.
+      - Ateb cwestiynau arferol gan staff am sut i brynu.
+    qualifications:
+      - Cymhwyster lefel 2 neu 3, prentisiaeth caffael, neu brofiad cyfatebol.
+      - Profiad o waith gweinyddol neu gyllid cywir.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 2 gan fod y swydd yn codi ac yn diwygio archebion sy'n ymrwymo gwariant a gymeradwywyd gan eraill.
+  - title: Prynwr
+    slug: prynwr
+    summary: Yn prynu nwyddau a gwasanaethau drwy ddyfynbrisiau a chontractau yn ôl y gofyn o dan fframweithiau, gan gynnwys meddalwedd, dyfeisiau, a thrwyddedau safonol, o fewn gweithdrefnau penodol.
+    responsibilities:
+      - Rhedeg dyfynbrisiau a chystadlaethau pellach o dan fframweithiau, gan ddefnyddio templedi safonol a'r system e-dendro.
+      - Prynu meddalwedd, dyfeisiau, a thrwyddedau safonol, gan olrhain adnewyddiadau a niferoedd trwyddedau.
+      - Gwirio bod gofynion safonol diogelwch, diogelu data, a hygyrchedd wedi'u cynnwys cyn prynu.
+      - Negodi prisiau a thelerau ar gyfer pryniannau arferol.
+      - Cadw llwybr archwilio clir a chyhoeddi hysbysiadau dyfarnu contract lle mae'r rheolau'n gofyn amdanynt.
+      - Dadansoddi data gwariant i ddod o hyd i wariant y tu allan i gontract ac awgrymu llwybrau gwell.
+    qualifications:
+      - Cymhwyster caffael ar lefel tystysgrif, prentisiaeth caffael, neu brofiad cyfatebol.
+      - Profiad o brynu drwy ddyfynbrisiau neu fframweithiau.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 3 gan fod y swydd yn prynu cyflenwadau a gwasanaethau ar ran deiliaid cyllidebau.
+  - title: Swyddog caffael
+    slug: swyddog-caffael
+    summary: Yn rhedeg caffaeliadau o werth a chymhlethdod cymedrol, gan gynnwys tendrau ffurfiol, o'r cynllunio i ddyfarnu'r contract, gydag uwch swyddog caffael ar gael i gynghori.
+    responsibilities:
+      - Rhedeg tendrau ffurfiol a chystadlaethau fframwaith o'r cynllunio i'r dyfarnu, gan reoli amserlenni a chwestiynau egluro.
+      - Helpu deiliaid cyllidebau i ysgrifennu manylebau clir yn seiliedig ar ganlyniadau, gan gynnwys gofynion technegol a diogelu data.
+      - Sefydlu gwerthuso, gwirio cynigion am gydymffurfio, cefnogi gwerthuswyr, a chofnodi cymedroli.
+      - Ysgrifennu adroddiadau dyfarnu ac adborth i gynigwyr, a rheoli'r cyfnod segur.
+      - Cynnwys cwestiynau gwerth cymdeithasol a chynaliadwyedd sy'n addas i'r contract.
+      - Trosglwyddo contractau i reolwyr contractau gyda chynlluniau cychwyn ac ymadael clir.
+      - Hyfforddi deiliaid cyllidebau ar sut i brynu a goruchwylio cynorthwywyr caffael.
+    qualifications:
+      - Cymhwyster proffesiynol caffael cydnabyddedig ar lefel ganolradd, neu brofiad cyfatebol.
+      - Profiad o redeg tendrau ffurfiol o dan reolau caffael cyhoeddus.
+  - title: Uwch swyddog caffael
+    slug: uwch-swyddog-caffael
+    summary: Yn arwain caffaeliadau cymhleth, fel systemau clinigol, gwasanaethau cwmwl, a gwasanaethau technoleg, ac yn cynghori ar y llwybr cywir i'r farchnad, gan weithio gyda rhyddid eang o fewn polisi caffael.
+    responsibilities:
+      - Arwain caffaeliadau cymhleth a gwerth uchel, gan ddewis y llwybr cywir i'r farchnad a'r weithdrefn gywir.
+      - Arwain ymgysylltu cynnar â'r farchnad a cheisiadau am wybodaeth, gan gadw'r gystadleuaeth yn deg.
+      - Dylunio meini prawf gwerthuso a phwysoliadau gydag arweinwyr technegol, clinigol, a llywodraethiant gwybodaeth, ac arwain cymedroli.
+      - Sicrhau bod contractau ar gyfer technoleg yn cynnwys telerau gallu i ryngweithredu, diogelwch, perchnogaeth data, ymadael, a dychwelyd data.
+      - Negodi gyda chynigwyr lle mae'r weithdrefn yn caniatáu, a chytuno ar delerau terfynol.
+      - Cynghori ar newidiadau i gontractau, estyniadau, a dyfarniadau uniongyrchol, a'r risg o her.
+      - Hyfforddi a gwirio gwaith swyddogion caffael a phrynwyr.
+    qualifications:
+      - Cymhwyster proffesiynol caffael cydnabyddedig ar lefel uwch, neu brofiad cyfatebol.
+      - Profiad sylweddol o arwain tendrau cymhleth, yn ddelfrydol ar gyfer technoleg neu systemau clinigol.

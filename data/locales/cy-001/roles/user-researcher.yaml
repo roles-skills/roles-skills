@@ -1,0 +1,76 @@
+summary: >
+  Mae ymchwilwyr defnyddwyr yn helpu timau i ddeall y bobl sy'n defnyddio ac yn darparu gwasanaethau iechyd a
+  gofal, gan gynnwys cleifion, gofalwyr, clinigwyr, a staff gofal. Maen nhw'n cynllunio ac yn cynnal ymchwil yn
+  ddiogel ac yn foesegol, yn troi'r hyn maen nhw'n ei ddysgu'n ddealltwriaeth glir, ac yn sicrhau bod
+  penderfyniadau am wasanaethau iechyd digidol yn seiliedig ar dystiolaeth o anghenion go iawn, gan gynnwys
+  anghenion pobl sy'n ei chael hi anoddaf defnyddio gwasanaethau.
+health_context:
+  - Mae cyfranogwyr ymchwil yn aml yn sâl, yn bryderus, neu mewn amgylchiadau bregus, felly mae ymchwilwyr yn cynllunio'n ofalus ar gyfer cydsyniad gwybodus, diogelu, a llesiant cyfranogwyr.
+  - Gall ymchwil glywed am brofiadau trallodus o salwch, colled, neu ofal gwael, felly mae angen cymorth ar ymchwilwyr i reoli'r effaith emosiynol arnynt hwy eu hunain a'u tîm.
+  - Ychydig o amser sydd gan glinigwyr a staff gofal i ffwrdd o gleifion, felly mae ymchwilwyr yn cynllunio ymchwil mewn lleoliadau clinigol heb amharu ar ofal, yn aml drwy arsylwi a sesiynau byr.
+  - Mae rhywfaint o ymchwil yn cyfrif fel ymchwil iechyd ffurfiol neu'n defnyddio data cleifion, felly mae angen i ymchwilwyr wybod pryd mae cymeradwyaeth foesegol neu lywodraethu ymchwil a gwiriadau diogelu data'n berthnasol.
+  - Mae anghydraddoldebau iechyd yn real, felly mae ymchwilwyr yn gwneud ymdrech fwriadol i gynnwys pobl â sgiliau digidol isel, anableddau, neu Saesneg cyfyngedig, a phobl sy'n defnyddio gwasanaethau leiaf.
+levels:
+  - title: Ymchwilydd defnyddwyr cyswllt
+    slug: ymchwilydd-defnyddwyr-cyswllt
+    responsibilities:
+      - Dysgu dulliau ymchwil defnyddwyr drwy hyfforddiant a thrwy weithio ochr yn ochr ag ymchwilwyr profiadol.
+      - Cymryd nodiadau, helpu i redeg sesiynau, a helpu i recriwtio cyfranogwyr, gan ddilyn gweithdrefnau cydsyniad a diogelu.
+      - Storio data ymchwil yn ddiogel ac yn unol â rheolau llywodraethiant gwybodaeth.
+      - Helpu i ddadansoddi data ymchwil a rhannu canfyddiadau gyda'r tîm.
+    qualifications:
+      - Yn gweithio tuag at gymhwyster neu brentisiaeth mewn maes perthnasol, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae ymdrech emosiynol ar lefel 2 ar bob lefel ymchwilydd defnyddwyr, gan fod ymchwil gyda chleifion a gofalwyr yn aml yn golygu clywed am salwch, colled, neu ofal gwael. Caiff ymchwil ei sgorio o lefel 2 yma, gan godi i lefel 3 unwaith mai ymchwil yw'r brif ddyletswydd.
+  - title: Ymchwilydd defnyddwyr iau
+    slug: ymchwilydd-defnyddwyr-iau
+    responsibilities:
+      - Cynllunio a rhedeg sesiynau ymchwil gyda chleifion, gofalwyr, a staff, gydag arweiniad gan ymchwilydd mwy profiadol.
+      - Defnyddio dulliau fel cyfweliadau, profi defnyddioldeb, ac arsylwi cyd-destunol mewn lleoliadau gofal.
+      - Cael cydsyniad gwybodus, addasu sesiynau ar gyfer anghenion cyfranogwyr, a chodi unrhyw bryderon diogelu.
+      - Dadansoddi canfyddiadau a'u cyflwyno i'r tîm fel dealltwriaeth glir y gellir gweithredu arni.
+      - Recriwtio cyfranogwyr amrywiol, gan gynnwys pobl sy'n ei chael hi'n anodd defnyddio gwasanaethau.
+    qualifications:
+      - Gradd mewn pwnc perthnasol, fel gwyddor gymdeithasol neu seicoleg, neu brofiad cyfatebol.
+  - title: Ymchwilydd defnyddwyr
+    slug: ymchwilydd-defnyddwyr
+    responsibilities:
+      - Cynllunio a chynnal ymchwil defnyddwyr ar gyfer tîm amlddisgyblaethol, gan ddewis dulliau sy'n addas i'r cwestiynau a'r cyfranogwyr.
+      - Ymchwilio gyda chlinigwyr a staff gofal yn eu lleoliadau gwaith i ddeall llifoedd gwaith clinigol a thasgau sy'n hanfodol i ddiogelwch.
+      - Cynllunio ymchwil gyda phobl mewn amgylchiadau bregus yn ddiogel, a barnu pryd mae angen cymeradwyaeth foesegol neu lywodraethu ymchwil.
+      - Rhannu dealltwriaeth sy'n helpu'r tîm i flaenoriaethu, gan gynnwys tystiolaeth am ddiogelwch a hygyrchedd.
+      - Dod â'r tîm i mewn i'r ymchwil fel eu bod yn deall defnyddwyr yn uniongyrchol.
+    qualifications:
+      - Gradd mewn pwnc perthnasol, neu brofiad cyfatebol.
+      - Profiad o gynllunio a chynnal ymchwil defnyddwyr.
+  - title: Uwch ymchwilydd defnyddwyr
+    slug: uwch-ymchwilydd-defnyddwyr
+    responsibilities:
+      - Cynllunio ac arwain ymchwil ar gyfer gwasanaethau cymhleth, fel y rhai sy'n rhychwantu sawl lleoliad gofal neu'n gwasanaethu pobl mewn argyfwng.
+      - Alinio ymchwil â chynlluniau ehangach y gwasanaeth ac ag ymchwil timau eraill.
+      - Cynllunio ymchwil ddiogel gyda phobl mewn amgylchiadau bregus, a pharatoi cyflwyniadau moeseg a llywodraethiant ymchwil.
+      - Goruchwylio a datblygu ymchwilwyr defnyddwyr, a sicrhau ansawdd a moeseg eu gwaith.
+      - Meithrin ymarfer sy'n canolbwyntio ar y defnyddiwr mewn timau newydd a gyda rhanddeiliaid clinigol.
+    qualifications:
+      - Profiad sylweddol o ymchwil defnyddwyr, ar lefel sy'n cyfateb i radd meistr.
+  - title: Ymchwilydd defnyddwyr arweiniol
+    slug: ymchwilydd-defnyddwyr-arweiniol
+    responsibilities:
+      - Arwain ac alinio ymchwil defnyddwyr ar draws sawl tîm neu raglen gyfan.
+      - Sicrhau bod timau'n dilyn dull sy'n canolbwyntio ar y defnyddiwr ac yn seiliedig ar dystiolaeth, a bod ymchwil yn cyrraedd y bobl yr effeithir arnynt fwyaf gan anghydraddoldebau iechyd.
+      - Gosod a sicrhau arferion ymchwil, gan gynnwys cydsyniad, diogelu, trin data, a llesiant cyfranogwyr.
+      - Adeiladu asedau ymchwil a rennir, fel storfeydd ymchwil a phaneli cyfranogwyr, y gall timau eu hailddefnyddio'n ddiogel.
+      - Rheoli a datblygu ymchwilwyr defnyddwyr yn llinell.
+    qualifications:
+      - Profiad helaeth o arwain ymchwil defnyddwyr ar draws timau.
+    job_evaluation_notes: Does dim lefel Band 8a, gan fod UK GDaD PCF yn rhoi'r ymchwilydd defnyddwyr arweiniol ar G7 neu G6 ac mae'r cyfeirlyfr hwn yn dilyn y Band 8b a awgrymir. Mae adnoddau ariannol ar lefel 3 ar gyfer y gyllideb ymchwil, fel recriwtio cyfranogwyr a chymhellion.
+  - title: Pennaeth ymchwil defnyddwyr
+    slug: pennaeth-ymchwil-defnyddwyr
+    responsibilities:
+      - Arwain y proffesiwn ymchwil defnyddwyr a gosod ei strategaeth, ei safonau, a'i foeseg.
+      - Dylanwadu ar strategaeth a blaenoriaethau'r sefydliad gyda thystiolaeth am gleifion, gofalwyr, a staff gofal.
+      - Denu, meithrin, a datblygu talent ymchwil, gan gynnwys llwybrau gyrfa a recriwtio.
+      - Sicrhau arferion ymchwil ar draws y sefydliad a gweithredu fel y pwynt uwchgyfeirio ar gyfer ymchwil risg uchel.
+      - Cynrychioli arferion ymchwil gyda chyrff moeseg, diogelu, a llywodraethiant ymchwil.
+    qualifications:
+      - Profiad helaeth o arwain ymchwil defnyddwyr ac ymarfer ymchwil.
+    job_evaluation_notes: Mae UK GDaD PCF yn rhoi'r ymchwilydd defnyddwyr arweiniol a phennaeth ymchwil defnyddwyr ar G7 neu G6, gyda Band 8b wedi'i awgrymu. Mae'r cyfeirlyfr hwn yn rhoi'r pennaeth ar Fand 8c, yn unol â phenaethiaid proffesiynau dylunio eraill sy'n canolbwyntio ar y defnyddiwr, gan fod y pennaeth yn arwain y proffesiwn ar draws y sefydliad ac yn cychwyn ei raglenni ymchwil.

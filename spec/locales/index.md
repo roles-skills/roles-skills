@@ -7,6 +7,7 @@ How this reference is translated, and which locales are done. See [`locales-by-p
 | Locale | Name | Status | Notes |
 | --- | --- | --- | --- |
 | en-001 | English | Done | Source language, at the unprefixed paths |
+| cy-001 | Cymraeg (y byd) | Done | A copy of cy-gb, for Welsh readers anywhere; keep the two in step |
 | cy-gb | Cymraeg | Done | AI-translated, not yet reviewed by a native speaker; terminology follows TermCymru |
 
 ## Process

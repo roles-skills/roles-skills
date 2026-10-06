@@ -1,0 +1,53 @@
+summary: >
+  Mae dadansoddwyr gweithrediadau diogelwch yn gwylio am fygythiadau seiberddiogelwch i systemau a data'r
+  sefydliad, yn ymchwilio iddynt, ac yn ymateb iddynt. Maen nhw'n brysbennu rhybuddion o offer monitro
+  diogelwch, yn ymchwilio i weithgarwch amheus, yn cyfyngu digwyddiadau, ac yn helpu i drwsio gwendidau. Mewn
+  gofal iechyd, mae canfod ac ymateb yn gyflym yn diogelu gwasanaethau clinigol a gwybodaeth gyfrinachol am
+  gleifion rhag ymosodiadau fel meddalwedd wystlo.
+health_context:
+  - Mae gofal iechyd yn darged aml ar gyfer meddalwedd wystlo a dwyn data, a gall un ymosodiad atal systemau clinigol ar draws y sefydliad.
+  - Mae'n rhaid i benderfyniadau cyfyngu, fel ynysu gweinydd neu ran o'r rhwydwaith, bwyso a mesur risg diogelwch yn erbyn yr effaith ar ofal cleifion, felly mae dadansoddwyr yn gweithio gydag arweinwyr clinigol a gweithredol.
+  - Mae rhwydweithiau'n cynnwys dyfeisiau meddygol a systemau etifeddol na allant redeg asiantau diogelwch na chael eu patsio'n gyflym, felly mae dadansoddwyr yn dibynnu ar fonitro rhwydweithiau a mesurau rheoli cydadferol.
+  - Mae monitro'n cwmpasu mynediad at gofnodion cleifion, felly mae dadansoddwyr yn helpu i ganfod mynediad amhriodol gan bobl fewnol yn ogystal ag ymosodiadau allanol, gan weithio gyda llywodraethiant gwybodaeth.
+  - Mae monitro diogelwch yn rhedeg drwy'r dydd a'r nos, felly gall dadansoddwyr weithio sifftiau neu rotâu ar alwad.
+levels:
+  - title: Dadansoddwr gweithrediadau diogelwch iau
+    slug: dadansoddwr-gweithrediadau-diogelwch-iau
+    summary: Mae dadansoddwr gweithrediadau diogelwch iau yn monitro rhybuddion diogelwch, yn eu brysbennu gan ddefnyddio llyfrau rhedeg, ac yn uwchgyfeirio digwyddiadau, gydag arweiniad gan ddadansoddwyr profiadol.
+    responsibilities:
+      - Monitro rhybuddion o offer monitro diogelwch ac offer ar ddyfeisiau, a'u brysbennu gan ddefnyddio llyfrau rhedeg.
+      - Casglu tystiolaeth am weithgarwch amheus, fel e-byst gwe-rwydo neu fewngofnodi anarferol, a'i uwchgyfeirio.
+      - Gwirio e-byst gwe-rwydo y mae staff yn rhoi gwybod amdanynt, a helpu i gael gwared ar e-byst maleisus o flychau post.
+      - Cofnodi digwyddiadau a chamau gweithredu'n gywir yn yr offeryn rheoli achosion.
+      - Rhedeg sganiau gwendidau ac atgoffa perchnogion systemau am atgyweiriadau sy'n ddyledus.
+    qualifications:
+      - Cymhwyster mewn cyfrifiadura neu seiberddiogelwch, prentisiaeth seiberddiogelwch, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae ymdrech feddyliol yn adlewyrchu canolbwyntio hir aml ar fonitro a brysbennu rhybuddion anrhagweladwy.
+  - title: Dadansoddwr gweithrediadau diogelwch
+    slug: dadansoddwr-gweithrediadau-diogelwch
+    summary: Mae dadansoddwr gweithrediadau diogelwch yn ymchwilio i ddigwyddiadau diogelwch ac yn eu cyfyngu, yn ysgrifennu rheolau canfod, ac yn gwella monitro diogelwch y sefydliad.
+    responsibilities:
+      - Ymchwilio i ddigwyddiadau diogelwch, pennu eu cwmpas, a'u cyfyngu, gan weithio gyda pherchnogion systemau a gwasanaethau clinigol.
+      - Ysgrifennu a mireinio rheolau canfod, a chwilio am fygythiadau yn seiliedig ar fygythiadau cyfredol i ofal iechyd.
+      - Monitro am fynediad amhriodol at gofnodion cleifion, a throsglwyddo achosion i lywodraethiant gwybodaeth.
+      - Asesu gwendidau yn ôl risg, gan gynnwys eu heffaith ar wasanaethau clinigol a dyfeisiau meddygol.
+      - Gwella llyfrau rhedeg ac offer ar ôl digwyddiadau.
+      - Cymryd rhan yn y rota ar alwad ar gyfer digwyddiadau diogelwch y tu allan i oriau.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu seiberddiogelwch, ardystiadau diogelwch perthnasol, neu brofiad cyfatebol.
+      - Profiad o fonitro diogelwch neu ymateb i ddigwyddiadau.
+    job_evaluation_notes: Mae ymdrech feddyliol yn adlewyrchu canolbwyntio hir aml yn ystod ymchwiliadau, gan gynnwys ar alwad. Mae ymdrech emosiynol yn adlewyrchu cysylltiad anuniongyrchol aml â deunydd trallodus mewn cofnodion cleifion ac â phwysau digwyddiadau byw.
+  - title: Uwch ddadansoddwr gweithrediadau diogelwch
+    slug: uwch-ddadansoddwr-gweithrediadau-diogelwch
+    summary: Mae uwch ddadansoddwr gweithrediadau diogelwch yn arwain yr ymateb i ddigwyddiadau diogelwch arwyddocaol, yn arwain chwilio am fygythiadau, ac yn arwain gwaith y tîm gweithrediadau diogelwch.
+    responsibilities:
+      - Arwain yr ymateb technegol i ddigwyddiadau diogelwch arwyddocaol, gan gynnwys meddalwedd wystlo a dwyn data, a chydlynu gyda rheoli digwyddiadau.
+      - Cynghori arweinwyr clinigol a gweithredol ar benderfyniadau cyfyngu sy'n effeithio ar ofal cleifion.
+      - Arwain gwaith chwilio am fygythiadau a chudd-wybodaeth bygythiadau, a rhannu gwybodaeth gyda phartneriaid diogelwch gofal iechyd.
+      - Gosod blaenoriaethau ar gyfer peirianneg canfod a chwmpas monitro, gan gynnwys ar gyfer rhwydweithiau dyfeisiau meddygol.
+      - Arwain ymarferion sy'n profi ymateb i ddigwyddiadau gyda thimau technegol a chlinigol.
+      - Hyfforddi ac arwain dadansoddwyr gweithrediadau diogelwch.
+    qualifications:
+      - Profiad sylweddol o weithrediadau diogelwch ac ymateb i ddigwyddiadau, ar lefel sy'n cyfateb i ddiploma ôl-raddedig.
+      - Ardystiadau diogelwch uwch perthnasol, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae ymdrech feddyliol ac emosiynol yn adlewyrchu arwain yr ymateb i ddigwyddiadau difrifol dan bwysau, yn aml y tu allan i oriau, lle mae gwasanaethau clinigol mewn perygl.

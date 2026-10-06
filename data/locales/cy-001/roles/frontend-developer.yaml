@@ -1,0 +1,77 @@
+summary: >
+  Mae datblygwyr pen blaen yn adeiladu rhyngwynebau defnyddwyr gwasanaethau iechyd digidol y sefydliad, fel
+  gwefannau ac apiau ar gyfer cleifion, ffurflenni ar-lein, a sgriniau y mae clinigwyr a staff gofal yn eu
+  defnyddio yn ystod gofal. Maen nhw'n ysgrifennu cod hygyrch, cyflym, a diogel sy'n gweithio i bawb, gan gynnwys
+  pobl sy'n sâl, yn bryderus, neu'n defnyddio dyfeisiau hŷn, ac maen nhw'n gweithio mewn timau cynnyrch
+  amlddisgyblaethol gyda dylunwyr, ymchwilwyr, a chlinigwyr.
+health_context:
+  - Mae llawer o ddefnyddwyr yn sâl, mewn poen, yn hŷn, neu'n anabl, felly mae hygyrchedd a rhyngwynebau clir a thawel yn hanfodol yn hytrach na dewisol.
+  - Gall arddangos gwybodaeth glinigol mewn ffordd ddryslyd neu anghywir, fel dos meddyginiaeth, canlyniad, neu amser apwyntiad, niweidio cleifion, felly mae gwaith pen blaen yn dilyn y broses rheoli risg glinigol.
+  - Mae rhyngwynebau'n aml yn dangos gwybodaeth iechyd gyfrinachol, felly mae datblygwyr yn dylunio ar gyfer preifatrwydd, er enghraifft ar ddyfeisiau a rennir ac mewn mannau clinigol prysur.
+  - Mae clinigwyr yn defnyddio rhyngwynebau dan bwysau amser a gydag ymyriadau aml, felly mae'n rhaid i sgriniau fod yn gyflym, yn rhagweladwy, ac yn anodd eu camddarllen.
+  - Mae cleifion yn cyrraedd gwasanaethau ar ystod eang o ddyfeisiau a chysylltiadau, felly mae gwasanaethau'n defnyddio gwelliant cynyddol ac yn gweithio ar rwydweithiau araf.
+levels:
+  - title: Datblygwr pen blaen prentis
+    slug: datblygwr-pen-blaen-prentis
+    responsibilities:
+      - Dysgu system ddylunio, ieithoedd, ac offer y tîm drwy hyfforddiant strwythuredig a gweithio mewn parau.
+      - Adeiladu cydrannau rhyngwyneb bach dan oruchwyliaeth agos, gan ddilyn system ddylunio'r sefydliad.
+      - Profi cydrannau gyda thechnolegau cynorthwyol, fel darllenwyr sgrin, gyda chymorth gan gydweithwyr.
+      - Dilyn gweithdrefnau llywodraethiant gwybodaeth a diogelwch clinigol wrth weithio gyda data prawf a data byw.
+      - Gweithio tuag at brentisiaeth neu gymhwyster cyfatebol.
+    qualifications:
+      - Wedi cofrestru ar brentisiaeth datblygu meddalwedd neu gyfatebol, neu'n gweithio tuag ati.
+    job_evaluation_notes: Caiff gwybodaeth ei sgorio ar y lefel sydd ei hangen ar y swydd unwaith y bydd yr hyfforddiant yn ddigon cyflawn i wneud y gwaith.
+  - title: Datblygwr pen blaen iau
+    slug: datblygwr-pen-blaen-iau
+    responsibilities:
+      - Adeiladu a phrofi nodweddion rhyngwyneb ar gyfer gwasanaethau i gleifion ac i staff, gan weithio o straeon defnyddwyr gydag arweiniad.
+      - Defnyddio system ddylunio a phatrymau'r sefydliad fel bod gwasanaethau'n edrych ac yn ymddwyn yn gyson.
+      - Trwsio diffygion hygyrchedd a gwirio tudalennau yn erbyn safonau hygyrchedd fel WCAG.
+      - Sicrhau bod gwybodaeth glinigol, fel dyddiadau, dosau, a chanlyniadau, yn cael ei harddangos yn union fel y'i nodwyd.
+      - Cyfrannu tystiolaeth at achosion diogelwch clinigol, fel canlyniadau profion a sgrinluniau o newidiadau.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu bwnc cysylltiedig, prentisiaeth wedi'i chwblhau, neu brofiad cyfatebol.
+  - title: Datblygwr pen blaen
+    slug: datblygwr-pen-blaen
+    responsibilities:
+      - Dylunio ac adeiladu rhyngwynebau hygyrch ac ymatebol ar gyfer gwasanaethau iechyd yn annibynnol, gan ddewis dulliau addas.
+      - Gweithio gyda dylunwyr ac ymchwilwyr defnyddwyr i brofi prototeipiau gyda chleifion, clinigwyr, a staff gofal.
+      - Adeiladu rhyngwynebau sy'n galw APIs data iechyd, fel gwasanaethau HL7 FHIR, ac sy'n ymdrin â gwallau a data coll yn ddiogel.
+      - Cymryd rhan mewn gweithdai peryglon a chynnwys mesurau rheoli diogelwch yn y rhyngwyneb, fel camau cadarnhau a rhybuddion clir.
+      - Diogelu gwybodaeth gyfrinachol yn y porwr, er enghraifft drwy reoli sesiynau a storfa dros dro yn ofalus ar ddyfeisiau a rennir.
+      - Adolygu cod a mentora datblygwyr pen blaen iau a phrentis.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu bwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad o adeiladu a chefnogi gwasanaethau gwe cynhyrchu hygyrch.
+  - title: Uwch ddatblygwr pen blaen
+    slug: uwch-ddatblygwr-pen-blaen
+    responsibilities:
+      - Arwain dyluniad a chyflawniad pen blaen nodweddion sylweddol, fel sgriniau trefnu apwyntiadau, canlyniadau, neu lifoedd gwaith clinigol.
+      - Gosod a chynnal safonau pen blaen ar gyfer y tîm, gan gynnwys hygyrchedd, perfformiad, diogelwch, a phrofi.
+      - Cyfrannu cydrannau a phatrymau at system ddylunio'r sefydliad a sicrhau eu bod yn ddiogel ac yn hygyrch.
+      - Gweithio gyda swyddogion diogelwch clinigol i sicrhau bod peryglon rhyngwyneb yn cael eu hadnabod, eu rheoli, a'u profi.
+      - Sicrhau bod gwasanaethau'n gweithio'n dda ar gysylltiadau araf, dyfeisiau hŷn, a thechnolegau cynorthwyol.
+      - Hyfforddi a datblygu datblygwyr pen blaen yn y tîm.
+    qualifications:
+      - Profiad sylweddol o ddylunio, adeiladu, a chefnogi gwasanaethau gwe cynhyrchu hygyrch, ar lefel sy'n cyfateb i radd meistr.
+  - title: Datblygwr pen blaen arweiniol
+    slug: datblygwr-pen-blaen-arweiniol
+    responsibilities:
+      - Arwain peirianneg pen blaen ar draws grŵp o dimau neu wasanaeth mawr i gleifion.
+      - Bod yn berchen ar gyfeiriad technegol system ddylunio a llyfrgelloedd pen blaen y sefydliad.
+      - Sicrhau bod rhyngwynebau ar draws gwasanaethau'n bodloni safonau hygyrchedd ac wedi'u sicrhau ar gyfer diogelwch clinigol.
+      - Gweithio gyda phenseiri, dylunwyr, ac arweinwyr clinigol i lunio mapiau ffordd cynnyrch a dewisiadau technoleg pen blaen.
+      - Arwain cymuned ymarfer pen blaen a rheoli neu arwain datblygwyr pen blaen yn llinell.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg pen blaen ar gyfer gwasanaethau cymhleth a hygyrch.
+  - title: Pennaeth datblygu pen blaen
+    slug: pennaeth-datblygu-pen-blaen
+    responsibilities:
+      - Gosod strategaeth, safonau, ac arferion pen blaen ar gyfer holl wasanaethau digidol y sefydliad.
+      - Bod yn atebol am hygyrchedd a defnyddioldeb rhyngwynebau'r sefydliad i gleifion a staff.
+      - Cynghori uwch arweinwyr ar dechnoleg pen blaen, buddsoddiad mewn system ddylunio, a risgiau rhyngwynebau gwael i ofal.
+      - Cynrychioli'r sefydliad mewn cymunedau system ddylunio a hygyrchedd ar draws sefydliadau.
+      - Arwain a datblygu datblygwyr pen blaen ar draws y sefydliad, gan gynnwys recriwtio a llwybrau gyrfa.
+    qualifications:
+      - Profiad helaeth o arwain datblygu pen blaen ar draws sawl tîm neu sefydliad.
