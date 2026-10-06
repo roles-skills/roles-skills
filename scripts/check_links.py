@@ -12,6 +12,7 @@ import os
 import re
 import subprocess
 import sys
+import unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 LINK = re.compile(r"\]\(([^)\s]+)\)")
@@ -23,7 +24,9 @@ def anchors(path, cache={}):
         found = set(re.findall(r'<a id="([^"]+)"', text))
         for heading in re.findall(r"^#+\s+(.*)$", text, re.M):
             # GitHub keeps Unicode letters, such as Welsh accented vowels, in heading anchors.
-            found.add(re.sub(r"[^\w\- ]", "", heading.lower()).strip().replace(" ", "-"))
+            # Combining marks, such as Devanagari vowel signs, are part of the word.
+            text = "".join(c for c in heading.lower() if c.isalnum() or c in "_- " or unicodedata.category(c).startswith("M"))
+            found.add(text.strip().replace(" ", "-"))
         cache[path] = found
     return cache[path]
 

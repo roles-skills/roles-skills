@@ -14,7 +14,7 @@ How this reference is translated, and which locales are done. See [`locales-by-p
 ## Process
 
 1. Translate serially, one locale at a time, without subagents.
-2. Add `data/locales/<code>/` (see [CONTRIBUTING.md](../../CONTRIBUTING.md#translations)) and `roles-skills.github.io/content/locales/<code>/ui.json`, and add the code to `roles-skills.github.io/src/lib/locale-codes.js` and its label to `src/lib/locales.ts`.
+2. Add `data/locales/<code>/`, including translated section names under `paths:` in `locale.yaml`, (see [CONTRIBUTING.md](../../CONTRIBUTING.md#translations)) and `roles-skills.github.io/content/locales/<code>/ui.json`, and add the code to `roles-skills.github.io/src/lib/locale-codes.js` and its label to `src/lib/locales.ts`.
 3. Run `make build` until the build reports no missing translations, then set `complete: true`.
 4. Run `make check`, build the website, and check pages in a browser.
 5. Commit, push, publish with `make github-pages`, and verify the live site.

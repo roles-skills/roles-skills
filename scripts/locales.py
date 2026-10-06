@@ -2,7 +2,8 @@
 
 English (en-001) is the source. Each other locale lives in data/locales/<code>/:
 
-    locale.yaml          code, name, English name, direction, complete flag, document strings
+    locale.yaml          code, name, English name, direction, complete flag, document strings,
+                         and paths: the URL and folder name of each section, such as roles: rolau
     catalogue.yaml       families and roles: {id: {title, slug}}
     roles/<role-id>.yaml summary, health_context, and levels in English order:
                          [{title, slug, summary, responsibilities, qualifications, job_evaluation_notes}]
@@ -19,8 +20,12 @@ across locales, and has a per-locale slug: slugs are not shared between
 locales. A missing translation falls back to English and is counted; a
 locale marked `complete: true` must have none.
 
-build.py calls localize() to write exports/locales/<code>/reference.json for
-the website, and write_docs() to write the locale's documents to
+Section paths (roles, families, bands, skills, job-evaluation, about, pcf,
+esco) are translated too: /cy-gb/rolau/, and locales/cy-gb/rolau/ for the
+documents. A missing path keeps its English name.
+
+build.py calls localize() to write exports/locales/<code>/reference.json and
+paths.json for the website, and write_docs() to write the locale's documents to
 locales/<code>/, each with the same .locale-peer-id as its English peer in docs/.
 """
 import copy
@@ -28,6 +33,7 @@ import json
 import os
 import re
 import shutil
+import unicodedata
 
 import yaml
 
@@ -71,14 +77,25 @@ STRINGS = {
 }
 
 
+# The site's sections, by their English path. Each locale may translate them.
+SECTIONS = ("roles", "families", "bands", "skills", "job-evaluation", "about", "pcf", "esco")
+
+
+def _wordlike(c):
+    # Python's \w leaves out combining marks, such as Devanagari vowel signs
+    # (भूमिका), which are part of the word: keep them.
+    return c.isalnum() or c == "_" or unicodedata.category(c).startswith("M")
+
+
 def slugify(text):
     """A URL slug that keeps accented and non-Latin letters, for per-locale slugs."""
-    return re.sub(r"[^\w]+", "-", text.lower(), flags=re.UNICODE).strip("-_")
+    out = "".join(c if _wordlike(c) else " " for c in text.lower())
+    return "-".join(out.split()).strip("-_")
 
 
 def anchor(text):
     """The anchor GitHub gives a Markdown heading: lowercase, punctuation removed, spaces to hyphens."""
-    text = re.sub(r"[^\w\- ]", "", text.lower(), flags=re.UNICODE)
+    text = "".join(c for c in text.lower() if _wordlike(c) or c in "- ")
     return text.replace(" ", "-")
 
 
@@ -105,6 +122,8 @@ class Locale:
         self.dir = meta.get("dir", "ltr")
         self.complete = bool(meta.get("complete", False))
         self.strings = dict(STRINGS, **(meta.get("strings") or {}))
+        self.paths = {k: k for k in SECTIONS}
+        self.paths.update({k: v for k, v in (meta.get("paths") or {}).items() if v})
         self.catalogue = _load(code, "catalogue.yaml", default={}) or {}
         # Skills may be one skills.yaml or, mirroring data/skills/, one file per domain in skills/.
         self.skills = dict(_load(code, "skills.yaml", default={}) or {})
@@ -141,6 +160,10 @@ def localize(reference, loc):
         return value
 
     ref["meta"]["locale"] = loc.code
+    unknown = set(loc.paths) - set(SECTIONS)
+    if unknown:
+        errors.append(f"{loc.code}: unknown paths in locale.yaml: {', '.join(sorted(unknown))}")
+    ref["meta"]["paths"] = {k: loc.paths[k] for k in SECTIONS}
     ref["meta"]["localeName"] = loc.name
     ref["meta"]["disclaimer"] = loc.s("disclaimer")
     ref["meta"]["translationNote"] = loc.s("translation_note")
@@ -226,6 +249,7 @@ def localize(reference, loc):
             if sl in seen:
                 errors.append(f"{loc.code}: {kind} slug '{sl}' is used by both '{seen[sl]}' and '{item['id']}'")
             seen[sl] = item["id"]
+    check("section path", [{"id": k, "slug": v} for k, v in ref["meta"]["paths"].items()])
     check("family", ref["families"])
     check("role", ref["roles"])
     check("skill", ref["skills"])
@@ -243,6 +267,10 @@ def write_reference(ref, loc):
     os.makedirs(out, exist_ok=True)
     with open(os.path.join(out, "reference.json"), "w", encoding="utf-8", newline="\n") as f:
         json.dump(ref, f, ensure_ascii=False, indent=1)
+        f.write("\n")
+    # The section paths alone, small enough for the website's URL routing.
+    with open(os.path.join(out, "paths.json"), "w", encoding="utf-8", newline="\n") as f:
+        json.dump(ref["meta"]["paths"], f, ensure_ascii=False, indent=1)
         f.write("\n")
 
 
@@ -262,6 +290,7 @@ def write_docs(ref, loc, write_doc):
     root = os.path.join(DOC_LOCALES, loc.code)
     shutil.rmtree(root, ignore_errors=True)
     S = loc.s
+    P = ref["meta"]["paths"]
     skills = {s["id"]: s for s in ref["skills"]}
     bands = {b["id"]: b for b in ref["bands"]}
     families = {f["id"]: f for f in ref["families"]}
@@ -309,7 +338,7 @@ def write_docs(ref, loc, write_doc):
             for use in l["skills"]:
                 sk = skills[use["id"]]
                 src = S("source_pcf") if sk["source"] == "pcf" else S("source_reference")
-                out.append(f"| [{sk['name']}](../../skills/#{anchor(sk['name'])}) | {src} | {S(use['level'])} | {_cell(sk['levels'][use['level']])} |")
+                out.append(f"| [{sk['name']}](../../{P['skills']}/#{anchor(sk['name'])}) | {src} | {S(use['level'])} | {_cell(sk['levels'][use['level']])} |")
             out.append("")
             if l["qualifications"]:
                 out += [f"### {S('qualifications')}", ""] + [f"- {x}" for x in l["qualifications"]] + [""]
@@ -321,7 +350,7 @@ def write_docs(ref, loc, write_doc):
             out += [f"| | **{S('total')}** | | **{l['jobEvaluationPoints']}** ({S('band')} {l['band']}: {b['points']['min']}–{b['points']['max']}) |", ""]
             if l["jobEvaluationNotes"]:
                 out += [l["jobEvaluationNotes"], ""]
-        write_doc(os.path.join(root, "roles", r["slug"]), "\n".join(out + footer), peer=f"role:{r['id']}")
+        write_doc(os.path.join(root, P["roles"], r["slug"]), "\n".join(out + footer), peer=f"role:{r['id']}")
 
     roles_by_family = {}
     for r in ref["roles"]:
@@ -331,7 +360,7 @@ def write_docs(ref, loc, write_doc):
     for f in ref["families"]:
         out += [f"## {f['title']}", "", f"| {S('role')} | {S('bands')} | {S('pcf_role')} |", "| --- | --- | --- |"]
         for r in roles_by_family.get(f["id"], []):
-            out.append(f"| [{r['title']}](roles/{r['slug']}/) | {', '.join(l['band'] for l in r['levels'])} | "
+            out.append(f"| [{r['title']}]({P['roles']}/{r['slug']}/) | {', '.join(l['band'] for l in r['levels'])} | "
                        f"{r['pcfRole']['name'] if r['pcfRole'] else '—'} |")
         out.append("")
     write_doc(root, "\n".join(out + footer), peer="home")
@@ -340,7 +369,7 @@ def write_docs(ref, loc, write_doc):
     for r in sorted(ref["roles"], key=lambda r: r["title"].lower()):
         fam = families[r["family"]]
         out.append(f"| [{r['title']}]({r['slug']}/) | [{fam['title']}](../#{anchor(fam['title'])}) | {', '.join(l['band'] for l in r['levels'])} |")
-    write_doc(os.path.join(root, "roles"), "\n".join(out + footer), peer="roles")
+    write_doc(os.path.join(root, P["roles"]), "\n".join(out + footer), peer="roles")
 
     out = [f"# {S('bands_title')}", ""] + head
     for b in ref["bands"]:
@@ -351,9 +380,9 @@ def write_docs(ref, loc, write_doc):
         if rows:
             out += [f"| {S('role_level')} | {S('family')} |", "| --- | --- |"]
             for r, l in sorted(rows, key=lambda x: (families[x[0]["family"]]["title"], x[1]["title"])):
-                out.append(f"| [{l['title']}](../roles/{r['slug']}/#{anchor(level_heading(l))}) | {families[r['family']]['title']} |")
+                out.append(f"| [{l['title']}](../{P['roles']}/{r['slug']}/#{anchor(level_heading(l))}) | {families[r['family']]['title']} |")
             out.append("")
-    write_doc(os.path.join(root, "bands"), "\n".join(out + footer), peer="bands")
+    write_doc(os.path.join(root, P["bands"]), "\n".join(out + footer), peer="bands")
 
     used = {}
     for r in ref["roles"]:
@@ -366,7 +395,7 @@ def write_docs(ref, loc, write_doc):
         out += [f"## {sk['name']}", "", f"*{src}. {S('used_in', n=used.get(sk['id'], 0))}*", "", sk["description"], ""]
         for lv in LEVELS:
             out += [f"**{S(lv)}:**", "", sk["levels"][lv], ""]
-    write_doc(os.path.join(root, "skills"), "\n".join(out + footer), peer="skills")
+    write_doc(os.path.join(root, P["skills"]), "\n".join(out + footer), peer="skills")
 
     out = [f"# {S('pcf_title')}", ""] + head + [
         f"| {S('pcf_family')} | {S('pcf_role')} | {S('pcf_level')} | {S('civil_service_grades')} | {S('role_level')} | {S('band')} |",
@@ -375,11 +404,11 @@ def write_docs(ref, loc, write_doc):
         for l in r["levels"]:
             if l["pcfLevel"]:
                 out.append(f"| {r['pcfRole']['family']} | {r['pcfRole']['name']} | {l['pcfLevel']} | {l['civilServiceGrades'] or '—'} | "
-                           f"[{l['title']}](../roles/{r['slug']}/#{anchor(level_heading(l))}) | {l['band']} |")
-    write_doc(os.path.join(root, "pcf"), "\n".join(out + footer), peer="pcf")
+                           f"[{l['title']}](../{P['roles']}/{r['slug']}/#{anchor(level_heading(l))}) | {l['band']} |")
+    write_doc(os.path.join(root, P["pcf"]), "\n".join(out + footer), peer="pcf")
 
     out = [f"# {S('esco_title')}", ""] + head + [f"| {S('esco_occupation')} | ISCO-08 | {S('roles_in_reference')} |", "| --- | --- | --- |"]
     for o in sorted(ref["occupations"], key=lambda o: o["label"]):
         rs = [r for r in ref["roles"] if o["id"] in r["esco"]]
-        out.append(f"| [{o['label']}]({o['uri']}) | {o['isco08']} | " + ", ".join(f"[{r['title']}](../roles/{r['slug']}/)" for r in rs) + " |")
-    write_doc(os.path.join(root, "esco"), "\n".join(out + footer), peer="esco")
+        out.append(f"| [{o['label']}]({o['uri']}) | {o['isco08']} | " + ", ".join(f"[{r['title']}](../{P['roles']}/{r['slug']}/)" for r in rs) + " |")
+    write_doc(os.path.join(root, P["esco"]), "\n".join(out + footer), peer="esco")

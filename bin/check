@@ -43,6 +43,7 @@ say "checking locales"
 for dir in exports/locales/*/; do
     [ -d "$dir" ] || continue
     code="$(basename "$dir")"
+    cmp -s "$dir/paths.json" "$site/content/locales/$code/paths.json" || fail "roles-skills.github.io/content/locales/$code/paths.json is stale; run roles-skills.github.io/bin/sync"
     cmp -s "$dir/reference.json" "$site/content/locales/$code/reference.json" || fail "roles-skills.github.io/content/locales/$code/ is stale; run roles-skills.github.io/bin/sync"
 done
 python3 - "$site" <<'PY' || fail "locale interface strings or documents are incomplete"

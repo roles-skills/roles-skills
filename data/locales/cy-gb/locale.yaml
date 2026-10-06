@@ -7,6 +7,13 @@ name: Cymraeg
 english_name: Welsh
 dir: ltr
 complete: true
+paths:
+  roles: rolau
+  families: teuluoedd
+  bands: bandiau
+  skills: sgiliau
+  job-evaluation: gwerthuso-swyddi
+  about: amdanom
 strings:
   disclaimer: "Proffil cyfeirio enghreifftiol yw hwn ar gyfer sefydliad gofal iechyd digidol cyffredinol. Nid yw'n swydd-ddisgrifiad swyddogol ar gyfer unrhyw gyflogwr, ac nid yw ei sgoriau gwerthuso swyddi yn werthusiad ffurfiol."
   translation_note: "Cyfieithwyd y testun hwn o'r Saesneg gan gynorthwyydd deallusrwydd artiffisial, ac nid yw siaradwr Cymraeg brodorol wedi'i adolygu eto. Mae'r derminoleg yn dilyn TermCymru, cronfa dermau Llywodraeth Cymru. Mae dyfyniadau o Fframwaith Gallu Proffesiwn Digidol a Data Llywodraeth y DU ac o ESCO yn aros yn Saesneg."
