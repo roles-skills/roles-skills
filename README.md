@@ -38,7 +38,7 @@ It is for:
 
 ## Website
 
-The reference is published as a static website at <https://roles-skills.github.io>, built from [`roles-skills.github.io/`](roles-skills.github.io/) with SvelteKit 3, the Lily Design System™ and its PickerBar. Each role level page has an interactive self assessment, saved in the reader's browser and exportable as TSV. The site is available in English and in Welsh (Cymraeg, at [`/cy-gb/`](https://roles-skills.github.io/cy-gb/) and, for Welsh readers anywhere, [`/cy-001/`](https://roles-skills.github.io/cy-001/)), and in Simplified Chinese (中文, at [`/zh-001/`](https://roles-skills.github.io/zh-001/)); the URL carries the locale, and the locale picker follows it. Editors can change `data/` in a browser through Sveltia CMS at `/admin/`.
+The reference is published as a static website at <https://roles-skills.github.io>, built from [`roles-skills.github.io/`](roles-skills.github.io/) with SvelteKit 3, the Lily Design System™ and its PickerBar. Each role level page has an interactive self assessment, saved in the reader's browser and exportable as TSV. The site is available in English, in Welsh (Cymraeg, at [`/cy-gb/`](https://roles-skills.github.io/cy-gb/) and, for Welsh readers anywhere, [`/cy-001/`](https://roles-skills.github.io/cy-001/)), in Simplified Chinese (中文, at [`/zh-001/`](https://roles-skills.github.io/zh-001/)), and in Hindi (हिन्दी, at [`/hi-001/`](https://roles-skills.github.io/hi-001/)); the URL carries the locale, and the locale picker follows it. Editors can change `data/` in a browser through Sveltia CMS at `/admin/`.
 
 ```sh
 make build           # python3 scripts/build.py, then roles-skills.github.io/bin/sync
@@ -68,7 +68,7 @@ data/
   skills/*.yaml           skills original to this reference, with ESCO links
   bands.yaml              bands, competency outlines, grade-to-band rule
   job-evaluation.yaml     16 factors, levels, points, band ranges
-  locales/<code>/         translations of the above, such as cy-gb and cy-001 (Welsh) and zh-001 (Chinese)
+  locales/<code>/         translations of the above, such as cy-gb and cy-001 (Welsh), zh-001 (Chinese), and hi-001 (Hindi)
   crosswalks/pcf-esco.tsv UK GDaD PCF skills matched to ESCO skills
   sources/pcf/            UK GDaD PCF downloads
   sources/esco/           ESCO occupations and occupation skills

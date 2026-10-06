@@ -1,0 +1,92 @@
+# Family and role titles in Hindi. Keys are the English ids. Slugs are made
+# from the titles.
+families:
+  software-development: {title: सॉफ़्टवेयर विकास}
+  architecture: {title: आर्किटेक्चर}
+  data: {title: डेटा}
+  product-and-delivery: {title: उत्पाद और डिलीवरी}
+  user-centred-design: {title: उपयोगकर्ता-केंद्रित डिज़ाइन}
+  it-operations: {title: आईटी संचालन}
+  cyber-security: {title: साइबर सुरक्षा}
+  quality-assurance-testing: {title: गुणवत्ता आश्वासन परीक्षण}
+  clinical-informatics: {title: क्लिनिकल इन्फ़ॉर्मेटिक्स और क्लिनिकल सुरक्षा}
+  information-governance: {title: सूचना शासन}
+  finance: {title: वित्त}
+  legal: {title: विधि}
+  human-resources: {title: मानव संसाधन}
+  procurement: {title: क्रय और वाणिज्य}
+  corporate-services: {title: कॉर्पोरेट सेवाएँ}
+roles:
+  software-developer: {title: सॉफ़्टवेयर डेवलपर}
+  frontend-developer: {title: फ़्रंटएंड डेवलपर}
+  devops-engineer: {title: DevOps इंजीनियर}
+  integration-engineer: {title: इंटीग्रेशन इंजीनियर (स्वास्थ्य अंतर-संचालनीयता)}
+  enterprise-architect: {title: एंटरप्राइज़ आर्किटेक्ट}
+  solution-architect: {title: सॉल्यूशन आर्किटेक्ट}
+  technical-architect: {title: तकनीकी आर्किटेक्ट}
+  data-architect: {title: डेटा आर्किटेक्ट}
+  security-architect: {title: सुरक्षा आर्किटेक्ट}
+  network-architect: {title: नेटवर्क आर्किटेक्ट}
+  business-architect: {title: बिज़नेस आर्किटेक्ट}
+  data-analyst: {title: डेटा विश्लेषक}
+  performance-analyst: {title: प्रदर्शन विश्लेषक}
+  data-engineer: {title: डेटा इंजीनियर}
+  analytics-engineer: {title: एनालिटिक्स इंजीनियर}
+  data-scientist: {title: डेटा वैज्ञानिक}
+  machine-learning-engineer: {title: मशीन लर्निंग इंजीनियर}
+  data-governance-manager: {title: डेटा शासन प्रबंधक}
+  clinical-coder: {title: क्लिनिकल कोडर}
+  business-analyst: {title: बिज़नेस विश्लेषक}
+  delivery-manager: {title: डिलीवरी प्रबंधक}
+  product-manager: {title: उत्पाद प्रबंधक}
+  project-manager: {title: परियोजना प्रबंधक}
+  programme-delivery-manager: {title: कार्यक्रम डिलीवरी प्रबंधक}
+  digital-portfolio-manager: {title: डिजिटल पोर्टफ़ोलियो प्रबंधक}
+  service-owner: {title: सेवा स्वामी}
+  user-researcher: {title: उपयोगकर्ता शोधकर्ता}
+  service-designer: {title: सेवा डिज़ाइनर}
+  interaction-designer: {title: इंटरैक्शन डिज़ाइनर}
+  content-designer: {title: सामग्री डिज़ाइनर}
+  accessibility-specialist: {title: सुगम्यता विशेषज्ञ}
+  service-desk-analyst: {title: सर्विस डेस्क विश्लेषक}
+  end-user-computing-engineer: {title: एंड यूज़र कंप्यूटिंग इंजीनियर}
+  infrastructure-engineer: {title: इन्फ़्रास्ट्रक्चर इंजीनियर}
+  application-operations-engineer: {title: एप्लिकेशन संचालन इंजीनियर}
+  it-service-manager: {title: आईटी सेवा प्रबंधक}
+  incident-manager: {title: घटना प्रबंधक}
+  problem-manager: {title: समस्या प्रबंधक}
+  change-and-release-manager: {title: परिवर्तन और रिलीज़ प्रबंधक}
+  security-analyst: {title: सुरक्षा संचालन विश्लेषक}
+  security-engineer: {title: सुरक्षा इंजीनियर}
+  cyber-security-manager: {title: साइबर सुरक्षा प्रबंधक}
+  quality-assurance-test-analyst: {title: गुणवत्ता आश्वासन परीक्षण विश्लेषक}
+  test-engineer: {title: परीक्षण इंजीनियर}
+  test-manager: {title: परीक्षण प्रबंधक}
+  clinical-informatician: {title: क्लिनिकल इन्फ़ॉर्मेटिशियन}
+  clinical-safety-officer: {title: क्लिनिकल सुरक्षा अधिकारी}
+  chief-clinical-information-officer: {title: मुख्य क्लिनिकल सूचना अधिकारी}
+  records-officer: {title: स्वास्थ्य अभिलेख अधिकारी}
+  information-governance-officer: {title: सूचना शासन अधिकारी}
+  data-protection-officer: {title: डेटा संरक्षण अधिकारी}
+  finance-officer: {title: वित्त अधिकारी}
+  payroll-officer: {title: पेरोल अधिकारी}
+  management-accountant: {title: प्रबंधन लेखाकार}
+  financial-accountant: {title: वित्तीय लेखाकार}
+  head-of-finance: {title: वित्त प्रमुख}
+  legal-assistant: {title: विधिक सहायक}
+  legal-adviser: {title: विधिक सलाहकार}
+  head-of-legal: {title: विधिक सेवा प्रमुख}
+  hr-officer: {title: मानव संसाधन अधिकारी}
+  recruitment-officer: {title: भर्ती अधिकारी}
+  hr-business-partner: {title: मानव संसाधन व्यावसायिक साझेदार}
+  learning-and-development-specialist: {title: अधिगम और विकास विशेषज्ञ}
+  head-of-people: {title: कार्मिक प्रमुख}
+  procurement-officer: {title: क्रय अधिकारी}
+  category-manager: {title: श्रेणी प्रबंधक}
+  contract-manager: {title: अनुबंध प्रबंधक}
+  head-of-procurement: {title: क्रय प्रमुख}
+  administrator: {title: प्रशासक}
+  executive-assistant: {title: कार्यकारी सहायक}
+  project-support-officer: {title: परियोजना सहायता अधिकारी}
+  governance-and-risk-manager: {title: शासन और जोखिम प्रबंधक}
+  communications-officer: {title: संचार अधिकारी}
