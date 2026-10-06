@@ -1,0 +1,97 @@
+# Band outlines in Simplified Chinese. Keys are the English band ids.
+"1":
+  title: 第 1 职级
+  stage: 入门
+  knowledge: 具备基本读写和计算能力；在工作中学习简单的常规任务。
+  autonomy: 遵循明确指示；工作经常受到检查。
+  scope: 自己的常规任务。
+  leadership: 无。
+  accountability: 准确完成常规任务。
+"2":
+  title: 第 2 职级
+  stage: 支持
+  knowledge: 了解工作领域的常规和流程；可能持有入门资格。
+  autonomy: 按既定流程工作，可随时获得督导。
+  scope: 团队内自己的任务。
+  leadership: 可能向新员工演示常规任务。
+  accountability: 自己常规工作的质量和及时性。
+"3":
+  title: 第 3 职级
+  stage: 支持
+  knowledge: 了解一系列流程，其中一些非常规；通常具备三级资格或同等经验。
+  autonomy: 在流程范围内工作；自行决定如何安排工作；将问题向上反映。
+  scope: 自己的工作以及更大团队的部分任务。
+  leadership: 可能分配常规工作或培训他人掌握流程。
+  accountability: 自己工作及所保存记录的准确性。
+"4":
+  title: 第 4 职级
+  stage: 支持与初级从业者
+  knowledge: 对工作领域有详细了解，通常来自基础学位、学徒制或同等经验。
+  autonomy: 在指导原则范围内工作；解决大多数日常问题；可向经理寻求建议。
+  scope: 自己的工作以及一项明确的服务或流程。
+  leadership: 可能督导一个小团队或协调他人的工作。
+  accountability: 交付一项明确的服务或流程。
+"5":
+  title: 第 5 职级
+  stage: 从业者
+  knowledge: 具备专业或技术知识，通常来自学位或同等经验。
+  autonomy: 在专业标准范围内按总体目标工作；自行规划工作。
+  scope: 团队或产品内自己的专业工作。
+  leadership: 可能指导并检查支持人员和学徒的工作。
+  accountability: 自己专业工作的质量。
+"6":
+  title: 第 6 职级
+  stage: 资深从业者
+  knowledge: 通过进一步培训或经验积累，具备覆盖一系列流程的专门知识。
+  autonomy: 独立工作；为本领域解读政策；在复杂问题上寻求建议。
+  scope: 一个产品、服务或工作流。
+  leadership: 可能领导一个小团队或指导同事。
+  accountability: 自己工作流的成果以及所提供建议的质量。
+"7":
+  title: 第 7 职级
+  stage: 高级或专家
+  knowledge: 高度发达的专门知识，通常达到硕士水平或同等经验。
+  autonomy: 按组织政策工作；决定如何取得成果；是他人咨询的专家。
+  scope: 多个产品或服务，或一项专门职能。
+  leadership: 领导一个团队或一个专业实践领域。
+  accountability: 交付一项服务或专门职能，以及其预算（如有）。
+"8a":
+  title: 第 8a 职级
+  stage: 负责人
+  knowledge: 对一门学科及其管理有专家级知识。
+  autonomy: 为一项服务解读组织政策；确定团队方向。
+  scope: 一个服务领域，或整个组织中的一门学科。
+  leadership: 管理一个团队，或在没有直线管理职责的情况下领导一门学科。
+  accountability: 一个服务领域及其员工和预算。
+"8b":
+  title: 第 8b 职级
+  stage: 负责人
+  knowledge: 跨多个学科或一项大型服务的专家级知识。
+  autonomy: 为一个大领域制定政策和战略。
+  scope: 多项服务或多个团队，或首席级别的一门学科。
+  leadership: 管理经理，或是一门学科的首席权威。
+  accountability: 多项服务及其员工和预算。
+"8c":
+  title: 第 8c 职级
+  stage: 高级负责人
+  knowledge: 专家级知识，以及对组织和行业的广泛理解。
+  autonomy: 为一项职能制定战略；向一名总监负责。
+  scope: 一项职能或一个部门。
+  leadership: 通过多个管理层级领导一项职能。
+  accountability: 一项职能的绩效、人员和预算。
+"8d":
+  title: 第 8d 职级
+  stage: 高级负责人
+  knowledge: 跨职能以及整个医疗卫生和照护体系的战略性知识。
+  autonomy: 制定全组织战略；代理总监职责。
+  scope: 一项主要职能或多项职能。
+  leadership: 领导多项职能或一个大型部门。
+  accountability: 主要职能、大额预算和全组织风险。
+"9":
+  title: 第 9 职级
+  stage: 专业负责人或总监
+  knowledge: 战略专长和全体系领导力。
+  autonomy: 与执行团队一起制定组织战略。
+  scope: 整个组织及其在体系内的合作伙伴。
+  leadership: 领导一个专业或一个总监部。
+  accountability: 全组织的成果、预算和风险。

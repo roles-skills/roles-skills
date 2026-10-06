@@ -30,7 +30,8 @@ def anchors(path, cache={}):
 
 def main():
     os.chdir(ROOT)
-    files = subprocess.check_output(["git", "ls-files", "--cached", "--others", "--exclude-standard", "*.md"], text=True).split()
+    # -z: NUL-separated and unquoted, so paths with non-ASCII slugs (Welsh, Chinese) are kept.
+    files = subprocess.check_output(["git", "ls-files", "-z", "--cached", "--others", "--exclude-standard", "*.md"], text=True).split("\0")
     files = [f for f in files if os.path.isfile(f) and not os.path.islink(f) and not f.startswith("data/sources/") and "node_modules" not in f]
     broken = 0
     for f in files:

@@ -129,6 +129,8 @@ See [plan.md](plan.md) for the context and reasoning.
 - [x] Translation overlays in `data/locales/<code>/`, built into `exports/locales/` and `locales/`
 - [x] cy-gb (Cymraeg): all 73 roles, 93 skills, bands, job evaluation, and interface strings, with TermCymru terminology
 - [x] cy-001 (Cymraeg, y byd): a copy of cy-gb
+- [x] zh-001 (中文, Simplified Chinese): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of zh-001
 - [ ] Native speaker review of cy-gb
 - [ ] Next locales, in the order in `spec/locales/locales-by-priority.md`
 

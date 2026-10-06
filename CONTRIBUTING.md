@@ -104,7 +104,7 @@ Each level has 1 to 4 bullets, each starting with a verb, and each level builds 
 
 ## Translations
 
-Each translation lives in `data/locales/<code>/`, such as `data/locales/cy-gb/` for Welsh. It mirrors the English data, holding only the translated text: `locale.yaml` (name, direction, page strings, and `complete`), `catalogue.yaml` (family and role titles and slugs), `bands.yaml`, `job-evaluation.yaml`, `skills/*.yaml`, and one `roles/<role-id>.yaml` per role, with levels in the same order as English. Each locale has its own slugs; ids stay in English.
+Each translation lives in `data/locales/<code>/`, such as `data/locales/cy-gb/` for Welsh. It mirrors the English data, holding only the translated text: `locale.yaml` (name, direction, page strings, and `complete`), `catalogue.yaml` (family and role titles and slugs), `bands.yaml`, `job-evaluation.yaml`, `skills/*.yaml`, and one `roles/<role-id>.yaml` per role, with levels in the same order as English. Each locale has its own slugs; ids stay in English. A slug may be left out, and the build then makes it from the title, keeping non-Latin letters (zh-001 does this, so its slugs are Chinese).
 
 `python3 scripts/build.py` overlays each translation on the English reference, falls back to English for anything missing, and reports the count. A locale marked `complete: true` fails the build if anything is missing. It writes `exports/locales/<code>/reference.json` and the pages in `locales/<code>/`. The website's interface strings are in `roles-skills.github.io/content/locales/<code>/ui.json`.
 
