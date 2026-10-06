@@ -18,6 +18,7 @@ Inputs (all under data/):
 import collections
 import csv
 import datetime
+import hashlib
 import json
 import os
 import re
@@ -25,6 +26,9 @@ import shutil
 import sys
 
 import yaml
+
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import locales  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data")
@@ -285,9 +289,18 @@ def write(path, text):
         f.write(text.rstrip() + "\n")
 
 
-def write_doc(directory, text):
-    """Write a Markdown document as <directory>/index.md, with README.md as a symlink to it."""
+def peer_id(key):
+    """The .locale-peer-id for a document: the same 32 hex digits in every locale's copy."""
+    return hashlib.md5(key.encode("utf-8")).hexdigest()
+
+
+def write_doc(directory, text, peer=None):
+    """Write a Markdown document as <directory>/index.md, with README.md as a symlink to it,
+    and, given a peer key, a .locale-peer-id file that is identical across locales."""
     write(os.path.join(directory, "index.md"), text)
+    if peer:
+        with open(os.path.join(directory, ".locale-peer-id"), "w", encoding="utf-8") as f:
+            f.write(peer_id(peer) + "\n")
     readme = os.path.join(directory, "README.md")
     if os.path.islink(readme) or os.path.exists(readme):
         os.remove(readme)
@@ -397,7 +410,7 @@ def generate(d):
     footer = ["", "---", "", f"*{DISCLAIMER}*  ", f"*{PCF_CREDIT}*  ", f"*{ESCO_CREDIT}*"]
     all_levels = []  # (role, meta, level)
     for rid, role in d.roles.items():
-        write_doc(os.path.join(DOCS, "roles", rid), role_page(d, role))
+        write_doc(os.path.join(DOCS, "roles", rid), role_page(d, role), peer=f"role:{rid}")
         for level in role["levels"]:
             all_levels.append((role, d.role_meta[rid], level))
 
@@ -412,14 +425,14 @@ def generate(d):
             occ = d.esco.get(r["esco"][0])
             out.append(f"| {name} | {bands} | {r.get('pcf_role') or '—'} | {esco_link(occ) if occ else '—'} |")
         out.append("")
-    write_doc(DOCS, "\n".join(out + footer))
+    write_doc(DOCS, "\n".join(out + footer), peer="home")
 
     # Roles A to Z
     out = ["# Roles A to Z", "", f"> {DISCLAIMER}", "", "| Role | Family | Bands |", "| --- | --- | --- |"]
     for rid, role in sorted(d.roles.items(), key=lambda x: d.role_meta[x[0]]["title"].lower()):
         m = d.role_meta[rid]
         out.append(f"| [{m['title']}]({rid}/) | [{m['family_title']}](../#{m['family']}) | {', '.join(str(l['band']) for l in role['levels'])} |")
-    write_doc(os.path.join(DOCS, "roles"), "\n".join(out + footer))
+    write_doc(os.path.join(DOCS, "roles"), "\n".join(out + footer), peer="roles")
 
     # Index by band
     out = ["# Roles by band", "", f"> {DISCLAIMER}", ""]
@@ -434,7 +447,7 @@ def generate(d):
             for m, l in sorted(rows, key=lambda x: (x[0]["family_title"], x[1]["title"])):
                 out.append(f"| [{l['title']}](../roles/{m['id']}/#{level_anchor(l)}) | {m['family_title']} |")
             out.append("")
-    write_doc(os.path.join(DOCS, "bands"), "\n".join(out + footer))
+    write_doc(os.path.join(DOCS, "bands"), "\n".join(out + footer), peer="bands")
 
     # Index by PCF role
     out = ["# Roles by UK GDaD PCF role", "", f"> {DISCLAIMER}", "",
@@ -444,7 +457,7 @@ def generate(d):
             out.append(f"| {d.pcf_roles[m['pcf_role']]['family']} | {m['pcf_role']} | {l['pcf_level']} | {d.pcf_grades.get((m['pcf_role'], l['pcf_level']), '') or '—'} | [{l['title']}](../roles/{m['id']}/#{level_anchor(l)}) | {l['band']} |")
     unused = sorted(set(d.pcf_roles) - {m.get("pcf_role") for m in d.role_meta.values()})
     out += ["", "PCF roles not used in this reference: " + (", ".join(unused) if unused else "none") + "."]
-    write_doc(os.path.join(DOCS, "pcf"), "\n".join(out + footer))
+    write_doc(os.path.join(DOCS, "pcf"), "\n".join(out + footer), peer="pcf")
 
     # Index by ESCO occupation
     out = ["# Roles by ESCO occupation", "", f"> {DISCLAIMER}", "",
@@ -457,7 +470,7 @@ def generate(d):
         o = d.esco.get(u)
         if o:
             out.append(f"| {esco_link(o)} | {o['isco_08']} | " + ", ".join(f"[{m['title']}](../roles/{m['id']}/)" if m["id"] in d.roles else m["title"] for m in ms) + " |")
-    write_doc(os.path.join(DOCS, "esco"), "\n".join(out + footer))
+    write_doc(os.path.join(DOCS, "esco"), "\n".join(out + footer), peer="esco")
 
     # Skills catalogue
     used = collections.Counter()
@@ -477,7 +490,7 @@ def generate(d):
             out += [f"**{lv.capitalize()}:**", "", bullets(s["levels"][lv]), ""]
         if s.get("esco"):
             out += ["**Closest ESCO skills:** " + ", ".join(f"[{e['label']}]({e['uri']}) ({e['match']})" for e in s["esco"]), ""]
-    write_doc(os.path.join(DOCS, "skills"), "\n".join(out + footer))
+    write_doc(os.path.join(DOCS, "skills"), "\n".join(out + footer), peer="skills")
 
     # Exports
     sa_header = ["role", "role_level", "band", "skill", "skill_source", "pcf_reference", "esco_reference",
@@ -503,8 +516,8 @@ def generate(d):
               ["family", "role_id", "role", "role_level", "band", "pcf_role", "pcf_level", "civil_service_grades", "esco_occupations", "esco_uris", "job_evaluation_points", "page"], roles_rows)
     write_tsv(os.path.join(EXPORTS, "job-evaluation.tsv"), ["role_id", "role_level", "band"] + [f["id"] for f in d.factors] + ["total_points"], jes_rows)
     write_tsv(os.path.join(EXPORTS, "role-skills.tsv"), ["role_id", "role", "role_level", "band", "skill_id", "skill", "expected_level", "expected_level_number"], skill_rows)
-    write_reference_json(d, used)
-    return len(d.roles), len(all_levels)
+    reference = write_reference_json(d, used)
+    return len(d.roles), len(all_levels), reference
 
 
 def write_reference_json(d, used):
@@ -544,6 +557,7 @@ def write_reference_json(d, used):
             for level in role["levels"]:
                 pcf_level = level.get("pcf_level")
                 levels.append({
+                    "id": slug(level["title"]),
                     "slug": slug(level["title"]),
                     "title": level["title"],
                     "band": str(level["band"]),
@@ -577,6 +591,7 @@ def write_reference_json(d, used):
 
     reference = {
         "meta": {
+            "locale": "en-001",
             "title": "Digital health care job roles reference",
             "disclaimer": DISCLAIMER,
             "pcf": {"name": "UK Government Digital and Data Profession Capability Framework", "url": PCF_URL,
@@ -584,7 +599,7 @@ def write_reference_json(d, used):
             "esco": {"name": "ESCO", "version": "v1.2.1", "url": ESCO_URL, "accessed": read_accessed("esco"), "credit": ESCO_CREDIT},
             "levels": [{"id": lv, "number": LEVEL_NUMBER[lv], "name": lv.capitalize()} for lv in LEVELS],
         },
-        "families": [{"id": f["id"], "title": f["title"], "pcfFamily": f.get("pcf_family"),
+        "families": [{"id": f["id"], "slug": f["id"], "title": f["title"], "pcfFamily": f.get("pcf_family"),
                       "roles": [r["id"] for r in f["roles"] if r["id"] in d.roles]} for f in d.catalogue["families"]],
         "bands": bands,
         "factors": [{"id": f["id"], "name": f["name"], "description": f["description"], "levels": f["levels"], "points": f["points"]} for f in d.factors],
@@ -595,6 +610,7 @@ def write_reference_json(d, used):
     with open(os.path.join(EXPORTS, "reference.json"), "w", encoding="utf-8", newline="\n") as f:
         json.dump(reference, f, ensure_ascii=False, indent=1)
         f.write("\n")
+    return reference
 
 
 def main():
@@ -607,11 +623,33 @@ def main():
     if errors:
         print(f"{len(errors)} errors")
         return 1
+    # --check validates translations against the last generated exports/reference.json.
+    roles, levels, reference = generate(d) if "--check" not in sys.argv else (None, None, None)
+    locale_errors = 0
+    if reference is None:
+        reference = json.load(open(os.path.join(EXPORTS, "reference.json"), encoding="utf-8")) if os.path.exists(os.path.join(EXPORTS, "reference.json")) else None
+    if "--check" not in sys.argv:
+        shutil.rmtree(locales.EXPORT_LOCALES, ignore_errors=True)
+    for code in locales.codes():
+        loc = locales.Locale(code)
+        if reference is None:
+            break
+        ref, errs = locales.localize(reference, loc)
+        for e in errs:
+            print("error:", e)
+        locale_errors += len(errs)
+        if loc.missing:
+            print(f"warning: {code}: {len(loc.missing)} translations missing (English used), for example {loc.missing[0]}")
+        if "--check" not in sys.argv and not errs:
+            locales.write_reference(ref, loc)
+            locales.write_docs(ref, loc, write_doc)
+    if locale_errors:
+        print(f"{locale_errors} errors")
+        return 1
     if "--check" in sys.argv:
         print("ok")
         return 0
-    roles, levels = generate(d)
-    print(f"ok: {roles} roles, {levels} role levels generated")
+    print(f"ok: {roles} roles, {levels} role levels generated; locales: {', '.join(['en-001'] + locales.codes())}")
     return 0
 
 

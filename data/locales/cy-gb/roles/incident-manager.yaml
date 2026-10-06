@@ -1,0 +1,39 @@
+summary: >
+  Mae rheolwyr digwyddiadau'n adfer gwasanaeth arferol cyn gynted â phosibl pan fydd rhywbeth yn mynd o'i le, ac
+  yn cadw'r effaith ar ddefnyddwyr mor fach â phosibl. Maen nhw'n cydlynu timau technegol a chyflenwyr, yn rhoi'r
+  wybodaeth ddiweddaraf i ddefnyddwyr ac arweinwyr, ac yn sicrhau bod digwyddiadau'n cael eu cofnodi a'u
+  trosglwyddo i reoli problemau. Mewn gofal iechyd, gall digwyddiadau effeithio'n uniongyrchol ar ofal cleifion,
+  felly mae rheolwyr digwyddiadau'n gweithio'n agos gydag arweinwyr clinigol a gweithredol.
+health_context:
+  - Gall toriad mewn system glinigol oedi triniaeth, felly caiff digwyddiadau eu blaenoriaethu yn ôl effaith glinigol, ac efallai y bydd angen i arweinwyr clinigol ddechrau gweithdrefnau amser segur.
+  - Gall digwyddiadau mawr ddigwydd ar unrhyw adeg, felly mae rheolwyr digwyddiadau'n cymryd rhan mewn rotâu ar alwad a gellir eu galw allan yn y nos neu ar benwythnosau.
+  - Gall ymosodiad seiber, fel meddalwedd wystlo, droi'n ddigwyddiad mawr sy'n effeithio ar y sefydliad cyfan ac sy'n para am ddyddiau neu wythnosau.
+  - Efallai y bydd angen i ddigwyddiadau TG mawr gysylltu â threfniadau parodrwydd am argyfwng a pharhad busnes y sefydliad.
+  - Caiff digwyddiadau a allai fod wedi niweidio cleifion eu hadrodd drwy'r broses digwyddiadau clinigol hefyd a'u hadolygu gyda diogelwch clinigol.
+levels:
+  - title: Rheolwr digwyddiadau
+    slug: rheolwr-digwyddiadau
+    responsibilities:
+      - Cydlynu'r ymateb i ddigwyddiadau sy'n effeithio ar wasanaethau clinigol a chorfforaethol, o'r adroddiad cyntaf i adfer gwasanaeth.
+      - Asesu effaith glinigol a gweithredol pob digwyddiad a gosod ei flaenoriaeth.
+      - Rhoi'r wybodaeth ddiweddaraf i ddefnyddwyr yr effeithir arnynt, y ddesg gwasanaeth, ac arweinwyr clinigol mewn diweddariadau clir ac amserol.
+      - Uwchgyfeirio digwyddiadau i'r rheolwr digwyddiadau mawr pan fyddant yn bodloni'r meini prawf y cytunwyd arnynt.
+      - Sicrhau bod digwyddiadau'n cael eu cofnodi'n gywir a'u trosglwyddo i reoli problemau.
+      - Cymryd rhan yn y rota ar alwad ar gyfer digwyddiadau y tu allan i oriau.
+    qualifications:
+      - Profiad o gymorth neu weithrediadau TG, gan gynnwys ymdrin â digwyddiadau.
+      - Cymhwyster sylfaen rheoli gwasanaethau TG, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae ymdrech feddyliol yn adlewyrchu canolbwyntio hir aml dan bwysau amser, gan gynnwys ar alwad. Mae ymdrech emosiynol yn adlewyrchu cysylltiad anuniongyrchol aml ag effaith toriadau ar gleifion a staff.
+  - title: Rheolwr digwyddiadau mawr
+    slug: rheolwr-digwyddiadau-mawr
+    responsibilities:
+      - Arwain yr ymateb i ddigwyddiadau mawr, fel toriadau yn y cofnod electronig am gleifion, methiannau rhwydwaith, ac ymosodiadau seiber.
+      - Rhedeg galwadau digwyddiad sy'n dwyn ynghyd dimau technegol, cyflenwyr, arweinwyr clinigol, a staff cyfathrebu.
+      - Cynghori arweinwyr clinigol a gweithredol ar pryd i ddechrau ac atal gweithdrefnau amser segur a pharhad busnes.
+      - Briffio uwch arweinwyr a, lle bo angen, cysylltu â threfniadau ymateb brys y sefydliad.
+      - Arwain adolygiadau ar ôl digwyddiadau a sicrhau bod gwersi'n cael eu dysgu a gweithredu arnynt.
+      - Datblygu a phrofi cynlluniau digwyddiadau mawr gydag arweinwyr parhad busnes a chynllunio brys.
+    qualifications:
+      - Profiad sylweddol o reoli digwyddiadau mewn gwasanaethau cymhleth ag argaeledd uchel.
+      - Cymhwyster rheoli gwasanaethau TG uwch, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae ymdrech feddyliol yn adlewyrchu canolbwyntio hir aml yn ystod digwyddiadau mawr, yn aml y tu allan i oriau. Mae ymdrech emosiynol yn adlewyrchu cysylltiad anuniongyrchol aml ag effaith toriadau mawr ar ofal cleifion.

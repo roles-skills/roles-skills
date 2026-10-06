@@ -1,0 +1,58 @@
+summary: >
+  Mae swyddogion cymorth prosiect yn helpu prosiectau a rhaglenni i redeg yn esmwyth drwy gynnal cynlluniau,
+  cofrestrau, a dogfennau, trefnu cyfarfodydd, a chynhyrchu adroddiadau. Ar lefelau uwch maen nhw'n rhedeg y
+  swyddfa rheoli prosiectau (PMO), gan roi darlun clir i arweinwyr o gynnydd, risgiau, a buddion ar draws portffolio
+  newid digidol y sefydliad.
+health_context:
+  - Mae angen cymeradwyaethau diogelwch clinigol, llywodraethiant gwybodaeth, a diogelwch ar brosiectau iechyd digidol ar adegau penodol, felly mae cymorth prosiect yn eu holrhain fel cerrig milltir allweddol.
+  - Mae prosiectau'n aml yn dibynnu ar glinigwyr a staff gofal sydd ag amser cyfyngedig, felly mae cynllunio o amgylch rotâu clinigol a phwysau ar wasanaethau'n bwysig.
+  - Mae adrodd ar y portffolio'n helpu arweinwyr i benderfynu pa newidiadau sy'n mynd rhagddynt pan fo gwasanaethau clinigol dan bwysau.
+levels:
+  - title: Swyddog cymorth prosiect
+    slug: swyddog-cymorth-prosiect
+    summary: Yn rhoi cymorth gweinyddol i un prosiect neu fwy, gan gynnal cofnodion a threfnu cyfarfodydd dan arweiniad rheolwr prosiect.
+    responsibilities:
+      - Cynnal dogfennau prosiect, gyda rheoli fersiynau, yn ystorfa'r prosiect.
+      - Diweddaru logiau camau gweithredu, risgiau, problemau, a phenderfyniadau.
+      - Trefnu cyfarfodydd prosiect, anfon papurau, a chymryd nodiadau gweithredu.
+      - Casglu diweddariadau gan y tîm ar gyfer adroddiadau statws.
+      - Ymdrin â gohebiaeth ac ymholiadau prosiect arferol.
+    qualifications:
+      - Cymhwyster lefel 3 mewn gweinyddu busnes neu gymorth prosiect, neu brofiad cyfatebol.
+  - title: Cydlynydd prosiect
+    slug: cydlynydd-prosiect
+    summary: Yn cydlynu mesurau rheoli prosiect ar gyfer sawl prosiect neu raglen, gan gynnal cynlluniau a chofrestrau a chynhyrchu adroddiadau rheolaidd.
+    responsibilities:
+      - Cynnal cynlluniau, cofrestrau, a thracwyr prosiect ar gyfer sawl prosiect.
+      - Cynhyrchu adroddiadau statws ac adroddiadau ar y prif bwyntiau'n rheolaidd.
+      - Olrhain cyllidebau a gwariant prosiectau, a chodi amrywiannau.
+      - Gwirio bod prosiectau'n dilyn y dull y cytunwyd arno, gan gynnwys camau diogelwch clinigol a llywodraethiant gwybodaeth.
+      - Cydlynu byrddau prosiect, papurau, a chamau gweithredu.
+      - Cefnogi rheolwyr prosiect gyda chyfathrebu â rhanddeiliaid.
+    qualifications:
+      - Cymhwyster rheoli prosiect sylfaen, neu brofiad cyfatebol.
+  - title: Dadansoddwr PMO
+    slug: dadansoddwr-pmo
+    summary: Yn dadansoddi cynnydd, risg, a buddion ar draws rhaglen neu bortffolio, ac yn rhedeg prosesau'r swyddfa rheoli prosiectau.
+    responsibilities:
+      - Dadansoddi cynnydd, risgiau, problemau, dibyniaethau, a buddion ar draws prosiectau.
+      - Cynhyrchu dangosfyrddau ac adroddiadau portffolio ar gyfer byrddau rhaglen a phortffolio.
+      - Rhedeg prosesau cynllunio, rheoli newid, a sicrwydd.
+      - Helpu rheolwyr prosiect i sefydlu prosiectau gyda'r mesurau rheoli a'r dogfennau cywir.
+      - Cynnal offer, templedi, a chanllawiau'r PMO.
+      - Hyfforddi swyddogion cymorth prosiect.
+    qualifications:
+      - Cymhwyster rheoli prosiect, rhaglen, neu bortffolio, neu brofiad cyfatebol.
+  - title: Rheolwr PMO
+    slug: rheolwr-pmo
+    summary: Yn rheoli'r swyddfa rheoli prosiectau ar gyfer rhaglen neu bortffolio, gan osod safonau a rhoi dealltwriaeth ddibynadwy i arweinwyr o'r cyflawni.
+    responsibilities:
+      - Arwain y swyddfa rheoli prosiectau a'i staff.
+      - Gosod safonau, dulliau, ac offer prosiect a phortffolio.
+      - Rhoi dealltwriaeth glir i uwch arweinwyr o gynnydd, risgiau, a buddion y portffolio.
+      - Rhedeg llywodraethiant y portffolio, gan gynnwys blaenoriaethu, adolygiadau porth, a rheoli newid.
+      - Monitro cyllidebau ac adnoddau rhaglenni, ac adrodd arnynt.
+      - Hyfforddi rheolwyr prosiect ar ddull a mesurau rheoli.
+    qualifications:
+      - Cymhwyster rheoli prosiect, rhaglen, neu bortffolio cydnabyddedig, neu brofiad cyfatebol.
+      - Profiad o redeg swyddfa rheoli prosiectau.

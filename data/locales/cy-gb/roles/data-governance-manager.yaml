@@ -1,0 +1,48 @@
+summary: >
+  Mae rheolwyr llywodraethiant data'n sicrhau bod data iechyd a gofal y sefydliad yn cael ei reoli'n dda, ei fod yn
+  ddibynadwy, ac yn cael ei ddefnyddio'n ddiogel ac yn gyfreithlon. Maen nhw'n sefydlu ac yn rhedeg y
+  fframweithiau, y polisïau, a'r safonau ar gyfer perchnogaeth data, ansawdd, metadata, a rhannu data, ac yn
+  gweithio gyda pherchnogion data, cydweithwyr llywodraethiant gwybodaeth, ac arweinwyr clinigol fel y gellir
+  defnyddio data'n hyderus ar gyfer gofal, cynllunio, ac ymchwil.
+health_context:
+  - Mae data iechyd yn ddata personol sensitif iawn, felly mae llywodraethiant data'n gweithio'n agos gyda llywodraethiant gwybodaeth, diogelu data, a'r ddyletswydd cyfrinachedd.
+  - Caiff data ei rannu â llawer o bartneriaid iechyd a gofal ar gyfer gofal uniongyrchol, cynllunio, ac ymchwil, ac mae angen sail gyfreithlon glir, cytundebau, a mesurau rheoli ar gyfer pob defnydd.
+  - Mae safonau data clinigol, fel SNOMED CT, ICD, a HL7 FHIR, a diffiniadau data y cytunwyd arnynt, yn ganolog i wneud data'n gyson ar draws systemau a sefydliadau.
+  - Gall ansawdd data gwael arwain yn uniongyrchol at niwed i gleifion, fel alergeddau a gollwyd neu baru cleifion anghywir, yn ogystal ag at benderfyniadau anghywir am wasanaethau.
+  - Mae cleifion a'r cyhoedd yn disgwyl bod yn agored am sut mae eu data'n cael ei ddefnyddio, felly mae llywodraethiant yn cynnwys tryloywder a pharch at ddewisiadau cleifion am ddefnydd eilaidd.
+levels:
+  - title: Rheolwr llywodraethiant data
+    slug: rheolwr-llywodraethiant-data
+    responsibilities:
+      - Rhedeg fframwaith llywodraethiant data'r sefydliad, gan gynnwys perchnogaeth data, stiwardiaeth, a grwpiau gwneud penderfyniadau.
+      - Cynnal y catalog data, yr eirfa fusnes, a safonau data, gan gynnwys diffiniadau clinigol a gweithredol y cytunwyd arnynt.
+      - Monitro ansawdd data ar gyfer setiau data allweddol a gweithio gyda pherchnogion data i fynd i'r afael ag achosion sylfaenol.
+      - Gweithio gyda chydweithwyr llywodraethiant gwybodaeth ar gytundebau rhannu data ac asesiadau o'r effaith ar ddiogelu data ar gyfer defnyddiau data newydd.
+      - Cofnodi a rheoli risgiau a phroblemau data, a'u huwchgyfeirio i'r perchennog cywir.
+      - Gwella llythrennedd data ymysg staff sy'n creu ac yn defnyddio data iechyd.
+    qualifications:
+      - Gradd neu gymhwyster proffesiynol mewn data, rheoli gwybodaeth, neu bwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad o lywodraethu data neu reoli data mewn sefydliad cymhleth.
+    job_evaluation_notes: Mae UK GDaD PCF yn awgrymu HEO i G7 ar gyfer y lefel hon, sy'n cyfateb i Fand 6. Mae'r cyfeirlyfr hwn yn ei rhoi ar Fand 7 gan fod y rôl, mewn sefydliad gofal iechyd, fel arfer yn llywodraethu data cyfrinachol cleifion ar draws y sefydliad cyfan ac yn datblygu polisi data sy'n effeithio ar sawl gwasanaeth.
+  - title: Rheolwr llywodraethiant data arweiniol
+    slug: rheolwr-llywodraethiant-data-arweiniol
+    responsibilities:
+      - Arwain dyluniad a rhedeg fframweithiau, polisïau, a safonau llywodraethiant data ar draws y sefydliad.
+      - Cydlynu perchnogion a stiwardiaid data i reoli risgiau data, eu derbyn neu eu datrys, ac adrodd arnynt i uwch bwyllgorau.
+      - Arwain gwaith rheoli data ehangach, fel prif ddata ar gyfer cleifion, staff, a safleoedd, a data cyfeirio.
+      - Cytuno ar drefniadau llywodraethiant data ar gyfer data a rennir â phartneriaid iechyd a gofal ac ymchwilwyr.
+      - Cynghori rhaglenni ar sut mae systemau a defnyddiau data newydd yn bodloni safonau data a rheolau llywodraethiant.
+      - Rheoli staff llywodraethiant data yn llinell.
+    qualifications:
+      - Profiad helaeth o arwain llywodraethiant data neu reoli data.
+  - title: Pennaeth llywodraethiant data
+    slug: pennaeth-llywodraethiant-data
+    responsibilities:
+      - Gweithio gyda'r prif swyddog data a pherchennog gweithredol risg gwybodaeth i osod y strategaeth ar gyfer llywodraethu a defnyddio data.
+      - Gosod polisïau a safonau llywodraethiant data a monitro pa mor dda mae'r sefydliad yn eu dilyn.
+      - Bod yn atebol am reoli risgiau data'r sefydliad, ac adrodd arnynt i'r bwrdd.
+      - Cynrychioli'r sefydliad ar lywodraethu data gyda phartneriaid iechyd a gofal, rheoleiddwyr, a grwpiau cleifion.
+      - Hyrwyddo bod yn agored gyda chleifion a'r cyhoedd am sut mae eu data'n cael ei ddefnyddio.
+      - Arwain a datblygu'r swyddogaeth llywodraethiant data.
+    qualifications:
+      - Profiad helaeth o arwain llywodraethiant data ar draws sefydliad.

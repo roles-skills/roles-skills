@@ -1,0 +1,52 @@
+summary: >
+  Mae'r swyddog diogelu data (DPO) yn monitro'n annibynnol a yw'r sefydliad yn cydymffurfio â chyfraith diogelu
+  data, yn cynghori ar ei ddyletswyddau, a dyma'r pwynt cyswllt i'r rheoleiddiwr ac i bobl y mae'r sefydliad yn
+  dal eu data. Mewn sefydliad gofal iechyd digidol, mae'r DPO yn rhoi cyngor arbenigol ar ddefnyddio data iechyd
+  yn gyfreithlon, yn deg, ac yn dryloyw mewn cynhyrchion, dadansoddeg, ymchwil, a rhannu data.
+health_context:
+  - Mae cyfraith diogelu data'n rhoi safle annibynnol, gwarchodedig i'r DPO, gan adrodd i'r lefel uchaf o reolwyr, felly mae'n rhaid i'r rôl fod yn rhydd rhag gwrthdaro buddiannau.
+  - Mae cyfraith diogelu data'n rhoi diogelwch ychwanegol i ddata iechyd, ac mae llawer ohono hefyd yn ddarostyngedig i ddyletswydd cyfrinachedd, felly mae'r DPO yn cynghori ar y ddau.
+  - Mae prosesu data iechyd ar raddfa fawr, cysylltu data, a deallusrwydd artiffisial yn aml angen asesiadau o'r effaith ar ddiogelu data ac, weithiau, ymgynghoriad ymlaen llaw â'r rheoleiddiwr.
+  - Mae cleifion a'r cyhoedd yn disgwyl tryloywder, felly mae'r DPO yn helpu'r sefydliad i egluro'n glir sut mae'n defnyddio eu data.
+levels:
+  - title: Dirprwy swyddog diogelu data
+    slug: dirprwy-swyddog-diogelu-data
+    summary: Yn cefnogi'r DPO i fonitro cydymffurfio a rhoi cyngor, yn arwain gwaith achos cymhleth, ac yn dirprwyo ar ran y DPO.
+    responsibilities:
+      - Cynghori timau ar gyfraith diogelu data, gan gynnwys sail gyfreithlon, tryloywder, a hawliau unigolion.
+      - Adolygu asesiadau risg uchel o'r effaith ar ddiogelu data a drafftio cyngor y DPO.
+      - Monitro cydymffurfio drwy archwiliadau, gwiriadau ar hap, ac adolygiadau o gofnodion prosesu.
+      - Arwain yr ymchwiliad i achosion difrifol o dor diogelwch data a pharatoi hysbysiadau i'r rheoleiddiwr.
+      - Ymdrin â chwynion a cheisiadau cymhleth gan unigolion am eu data.
+      - Dirprwyo ar ran y DPO gydag uwch arweinwyr a'r rheoleiddiwr.
+    qualifications:
+      - Cymhwyster proffesiynol cydnabyddedig mewn diogelu data, neu brofiad cyfatebol.
+      - Profiad sylweddol o ddiogelu data ym maes iechyd neu ofal.
+  - title: Swyddog diogelu data
+    slug: swyddog-diogelu-data
+    summary: Swyddog diogelu data statudol y sefydliad, yn monitro cydymffurfio'n annibynnol, yn cynghori uwch arweinwyr a'r bwrdd, ac yn gweithredu fel y pwynt cyswllt i'r rheoleiddiwr a'r cyhoedd.
+    responsibilities:
+      - Monitro'n annibynnol a yw'r sefydliad yn cydymffurfio â chyfraith diogelu data a'i bolisïau ei hun.
+      - Cynghori'r bwrdd, uwch arweinwyr, a thimau ar eu dyletswyddau diogelu data.
+      - Rhoi cyngor ffurfiol ar asesiadau risg uchel o'r effaith ar ddiogelu data, a phenderfynu pryd i ymgynghori â'r rheoleiddiwr.
+      - Gweithredu fel y pwynt cyswllt i'r rheoleiddiwr ac i bobl y mae'r sefydliad yn dal eu data.
+      - Goruchwylio penderfyniadau ar hysbysu am achosion o dor diogelwch ac ymateb y sefydliad i ymholiadau'r rheoleiddiwr.
+      - Adrodd ar gydymffurfio a risg diogelu data i'r bwrdd a'i bwyllgorau.
+    qualifications:
+      - Cymhwyster proffesiynol cydnabyddedig mewn diogelu data, neu brofiad cyfatebol.
+      - Profiad helaeth o gyfraith ac ymarfer diogelu data, gan gynnwys ym maes iechyd neu ofal.
+    job_evaluation_notes: Caiff rhyddid i weithredu ei sgorio ar lefel 6 gan fod cyfraith diogelu data'n mynnu bod y DPO yn gweithredu'n annibynnol ac yn dehongli'r gyfraith a pholisi heb gyfarwyddyd.
+  - title: Uwch swyddog diogelu data
+    slug: uwch-swyddog-diogelu-data
+    summary: Y swyddog diogelu data ar gyfer sefydliad mawr neu grŵp o sefydliadau sy'n rhannu DPO, yn arwain y swyddogaeth diogelu data ac yn gosod ei safonau.
+    responsibilities:
+      - Gweithredu fel y DPO statudol ar gyfer sefydliad mawr neu grŵp o sefydliadau gofal.
+      - Arwain y swyddogaeth diogelu data, ei staff, a'i rhaglen waith.
+      - Gosod y fframwaith a'r safonau diogelu data ar draws y sefydliad neu'r grŵp.
+      - Rhoi'r cyngor terfynol ar y prosesu risg uchaf, fel cysylltu data ar raddfa fawr a deallusrwydd artiffisial.
+      - Arwain ymgysylltu â'r rheoleiddiwr, partneriaid, a grwpiau cleifion a'r cyhoedd ar ddefnyddio data.
+      - Adrodd i'r bwrdd ar risg diogelu data, cydymffurfio, ac ymddiriedaeth y cyhoedd.
+    qualifications:
+      - Cymhwyster proffesiynol cydnabyddedig mewn diogelu data, neu brofiad cyfatebol.
+      - Profiad helaeth fel swyddog diogelu data mewn sefydliad mawr neu gymhleth.
+    job_evaluation_notes: Caiff adnoddau gwybodaeth eu sgorio ar lefel 6 gan fod y swydd yn goruchwylio sut mae data personol yn cael ei brosesu ar draws y sefydliad neu'r grŵp cyfan.

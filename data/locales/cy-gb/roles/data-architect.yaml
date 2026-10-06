@@ -1,0 +1,44 @@
+summary: >
+  Mae penseiri data yn dylunio sut mae'r sefydliad yn strwythuro, yn storio, yn symud, ac yn llywodraethu ei
+  ddata iechyd a gofal, fel y gellir ei ddefnyddio'n ddiogel ar gyfer gofal uniongyrchol, cynllunio
+  gwasanaethau, ac ymchwil. Maen nhw'n dylunio modelau data, llwyfannau data, a llifoedd data, yn gosod safonau
+  data, ac yn sicrhau bod ystyr clinigol, ansawdd, a chyfrinachedd yn cael eu cadw o'r dechrau i'r diwedd.
+health_context:
+  - Mae'n rhaid i ddata iechyd gadw ei ystyr clinigol, felly mae modelau data'n defnyddio terminolegau clinigol fel SNOMED CT a dosbarthiadau fel ICD.
+  - Mae gan ddata a ddefnyddir ar gyfer gofal uniongyrchol a data a ddefnyddir ar gyfer cynllunio neu ymchwil seiliau cyfreithiol gwahanol, felly mae penseiri'n dylunio ar gyfer gwahanu, dad-adnabod, a mynediad rheoledig.
+  - Daw data o lawer o systemau clinigol a gofal o ansawdd amrywiol, felly mae penseiri'n dylunio ar gyfer gwiriadau ansawdd data, paru cleifion, a llinach.
+  - Mae cofnodion gofal a rennir a chyfnewid data'n dibynnu ar fodelau cyffredin fel adnoddau HL7 FHIR a setiau data cenedlaethol neu ryngwladol y cytunwyd arnynt.
+  - Mae'n rhaid cadw cofnodion am gyfnodau cadw hir, felly mae'n rhaid i ddyluniadau gynllunio ar gyfer archifo a mynediad at ddata hanesyddol.
+levels:
+  - title: Pensaer data
+    slug: pensaer-data
+    responsibilities:
+      - Dylunio modelau data rhesymegol a ffisegol ar gyfer data clinigol a gweithredol, gan ddefnyddio terminolegau clinigol lle bo angen.
+      - Dylunio llifoedd data a chydrannau llwyfan data, fel haenau warws, llyn-dŷ, ac integreiddio.
+      - Diffinio metadata, cofnodion geiriadur data, a llinach ar gyfer y setiau data yn eich maes.
+      - Dylunio mesurau dad-adnabod a rheoli mynediad fel bod data'n cael ei ddefnyddio at ei ddiben cyfreithlon yn unig.
+      - Gweithio gyda chydweithwyr ansawdd data a chodio clinigol i fynd i'r afael ag achosion strwythurol data gwael.
+      - Arwain peirianwyr data a dadansoddwyr ar fodelau data a safonau.
+    qualifications:
+      - Profiad sylweddol o fodelu data a dylunio llwyfannau data, ar lefel sy'n cyfateb i radd meistr.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 7): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8a. Caiff cynllunio, polisi, a rhyddid i weithredu eu sgorio uwchlaw proffil Band 7 gan fod y swydd yn dylunio llwyfannau data a mesurau rheoli a ddefnyddir ar draws llawer o wasanaethau."
+  - title: Uwch bensaer data
+    slug: uwch-bensaer-data
+    responsibilities:
+      - Dylunio'r bensaernïaeth ddata ar gyfer parth mawr, fel y cofnod gofal a rennir neu'r llwyfan dadansoddeg.
+      - Sicrhau bod dyluniadau data ar draws timau'n dilyn safonau a modelau data'r sefydliad.
+      - Dylunio sut caiff data ei rannu â sefydliadau partner, gan gynnwys safonau, mesurau rheoli, a chytundebau rhannu data.
+      - Cynghori cydweithwyr llywodraethiant gwybodaeth a diogelwch clinigol ar risgiau data dyluniadau newydd.
+      - Adolygu ac arwain gwaith penseiri data.
+    qualifications:
+      - Profiad helaeth o bensaernïaeth data ar gyfer sefydliadau cymhleth.
+  - title: Prif bensaer data
+    slug: prif-bensaer-data
+    responsibilities:
+      - Gosod gweledigaeth a map ffordd pensaernïaeth data'r sefydliad, yn unol â'i strategaeth ddata.
+      - Bod yn berchen ar fodel data menter, safonau data, a geiriadur data'r sefydliad.
+      - Cynghori'r tîm gweithredol a chyrff llywodraethiant data ar bensaernïaeth data, risgiau, a buddsoddiad.
+      - Cynrychioli'r sefydliad mewn gwaith safonau data a rhyngweithredu ar draws sefydliadau.
+      - Arwain ymarfer pensaernïaeth data a datblygu ei bobl.
+    qualifications:
+      - Profiad helaeth o arwain pensaernïaeth data ar draws sefydliadau.

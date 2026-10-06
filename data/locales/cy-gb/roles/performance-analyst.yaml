@@ -1,0 +1,61 @@
+summary: >
+  Mae dadansoddwyr perfformiad yn mesur pa mor dda mae gwasanaethau iechyd digidol y sefydliad yn gweithio i
+  gleifion, defnyddwyr gwasanaethau, clinigwyr, a staff gofal. Maen nhw'n sefydlu fframweithiau mesur, yn casglu
+  ac yn dadansoddi data defnydd a chanlyniadau, ac yn helpu timau cynnyrch ac arweinwyr gwasanaethau i ddeall a
+  yw newidiadau'n gwella mynediad, profiad, diogelwch, ac effeithlonrwydd.
+health_context:
+  - Mae mesurau llwyddiant yn mynd y tu hwnt i'r defnydd digidol, i gynnwys effeithiau ar ofal, fel apwyntiadau a gollwyd, amseroedd aros, brysbennu diogel, ac amser staff a ryddhawyd.
+  - Gall dadansoddeg ac olrhain ar wasanaethau iechyd ddatgelu gwybodaeth sensitif, fel pa gyflwr y chwiliodd person amdano, felly mae'n rhaid i fesur barchu cydsyniad, rheolau cwcis, a chyfrinachedd.
+  - Rhaid i wasanaethau digidol beidio ag ehangu anghydraddoldebau iechyd, felly mae dadansoddwyr yn edrych ar ddefnydd a chanlyniadau ar gyfer grwpiau sy'n llai tebygol o ddefnyddio gwasanaethau digidol.
+  - Gall data perfformiad gael ei adrodd i fyrddau, comisiynwyr, a rheoleiddwyr, felly mae'n rhaid i ddiffiniadau fod yn gyson ac wedi'u dogfennu'n dda.
+levels:
+  - title: Dadansoddwr perfformiad cyswllt
+    slug: dadansoddwr-perfformiad-cyswllt
+    responsibilities:
+      - Cynhyrchu adroddiadau rheolaidd ar sut mae cleifion a staff yn defnyddio gwasanaethau digidol, fel cofrestriadau, cwblhau, a phwyntiau gadael.
+      - Gwirio data dadansoddeg ac olrhain am fylchau a gwallau, a rhoi gwybod amdanynt i'r tîm.
+      - Dilyn rheolau'r sefydliad ar gydsyniad a chyfrinachedd wrth gasglu a rhannu data defnydd.
+      - Helpu timau cynnyrch i ateb cwestiynau syml am ddefnydd gwasanaethau.
+    qualifications:
+      - Rhifedd da a rhywfaint o brofiad o drin neu ddadansoddi data, neu gyfatebol.
+  - title: Dadansoddwr perfformiad
+    slug: dadansoddwr-perfformiad
+    responsibilities:
+      - Cytuno gyda thimau cynnyrch ac arweinwyr clinigol sut olwg sydd ar lwyddiant ar gyfer gwasanaeth, gan gynnwys effeithiau ar ofal ac ar staff.
+      - Sefydlu a dilysu dadansoddeg, fel bod olrhain yn gywir, yn gymesur, ac yn parchu cydsyniad.
+      - Cyfuno dadansoddeg ddigidol â data gweithredol, fel apwyntiadau ac atgyfeiriadau, i ddangos effaith newidiadau.
+      - Dadansoddi defnydd a chanlyniadau ar gyfer gwahanol grwpiau o gleifion a thynnu sylw at risgiau allgáu digidol.
+      - Cyflwyno canfyddiadau i dimau cynnyrch ac arweinwyr gwasanaethau ac argymell gwelliannau.
+    qualifications:
+      - Gradd mewn pwnc rhifiadol, neu brofiad cyfatebol.
+      - Profiad o fesur perfformiad gwasanaethau digidol.
+  - title: Uwch ddadansoddwr perfformiad
+    slug: uwch-ddadansoddwr-perfformiad
+    responsibilities:
+      - Arwain mesur perfformiad ar gyfer grŵp o wasanaethau neu raglen fawr, fel cleifion allanol digidol neu frysbennu ar-lein.
+      - Dylunio mesurau buddion gydag arweinwyr clinigol, cyllid, a gweithredol, a'u holrhain drwy'r cyflawni.
+      - Dewis a ffurfweddu offer dadansoddeg sy'n bodloni gofynion llywodraethiant gwybodaeth a diogelwch.
+      - Cyflwyno tystiolaeth perfformiad i fyrddau rhaglen ac uwch arweinwyr.
+      - Hyfforddi dadansoddwyr a gall reoli un neu fwy o ddadansoddwyr perfformiad yn llinell.
+    qualifications:
+      - Profiad sylweddol o ddadansoddi perfformiad gwasanaethau digidol, ar lefel sy'n cyfateb i radd meistr.
+  - title: Dadansoddwr perfformiad arweiniol
+    slug: dadansoddwr-perfformiad-arweiniol
+    responsibilities:
+      - Arwain tîm o ddadansoddwyr perfformiad ar draws portffolio o wasanaethau iechyd digidol.
+      - Cytuno ar ddiffiniadau cyson ar gyfer mesurau perfformiad allweddol, fel y gellir cymharu adroddiadau i fyrddau a phartneriaid dros amser.
+      - Sicrhau bod data dadansoddeg yn gywir, yn cael ei ddefnyddio'n briodol, ac yn cael ei drin yn unol â rheolau llywodraethiant gwybodaeth.
+      - Defnyddio tystiolaeth perfformiad i ddylanwadu ar flaenoriaethau a buddsoddiad y portffolio.
+      - Hyfforddi a mentora dadansoddwyr ar bob lefel.
+    qualifications:
+      - Profiad helaeth o ddadansoddi perfformiad ac o arwain dadansoddwyr.
+  - title: Pennaeth dadansoddi perfformiad
+    slug: pennaeth-dadansoddi-perfformiad
+    responsibilities:
+      - Gosod y strategaeth ar gyfer mesur perfformiad a buddion gwasanaethau digidol y sefydliad.
+      - Diffinio'r fframwaith sicrwydd ansawdd ar gyfer dadansoddi perfformiad ac adrodd ar berfformiad.
+      - Cynghori arweinwyr gweithredol ar yr hyn y mae tystiolaeth perfformiad yn ei ddangos am wasanaethau digidol a chanlyniadau cleifion.
+      - Gweithio gyda phroffesiynau dadansoddol eraill, fel dadansoddi data a gwyddor data, i rannu dulliau a data.
+      - Cynllunio gallu'r gymuned dadansoddi perfformiad, gan gynnwys recriwtio a datblygu.
+    qualifications:
+      - Profiad helaeth o arwain dadansoddi perfformiad ar draws sefydliad.

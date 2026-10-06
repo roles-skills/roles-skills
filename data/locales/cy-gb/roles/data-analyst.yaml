@@ -1,0 +1,55 @@
+summary: >
+  Mae dadansoddwyr data yn troi data iechyd a gofal yn wybodaeth sy'n helpu clinigwyr, rheolwyr, a chynllunwyr i
+  wneud penderfyniadau. Maen nhw'n paratoi, yn cysylltu, ac yn dadansoddi data o ffynonellau clinigol,
+  gweithredol, ac a adroddwyd gan gleifion, ac yn ei gyflwyno mewn adroddiadau, dangosfyrddau, a sesiynau
+  briffio. Maen nhw'n sicrhau bod eu dadansoddiad yn gywir, yn atgynhyrchadwy, ac yn trin data cyfrinachol
+  cleifion yn ddiogel.
+health_context:
+  - Mae llawer o'r data'n disgrifio cleifion unigol, felly mae dadansoddwyr yn gweithio gyda data wedi'i ffugenwi lle gallant ac yn gwirio allbynnau am risg datgelu cyn eu rhyddhau.
+  - Caiff data iechyd ei gofnodi gyda therminolegau a dosbarthiadau clinigol fel SNOMED CT ac ICD, felly mae angen i ddadansoddwyr wybod sut mae codau'n cael eu defnyddio a ble y gallant gamarwain.
+  - Mae ansawdd data'n amrywio rhwng lleoliadau gofal a systemau, ac mae bylchau'n aml yn effeithio ar rai grwpiau o gleifion yn fwy nag eraill, felly mae dadansoddwyr yn gwirio am duedd cyn dod i gasgliadau.
+  - Gall dadansoddi newid sut mae gwasanaethau'n cael eu cynllunio, eu hariannu, a'u darparu, felly mae angen cafeatau clir ar ganfyddiadau ac ni ddylent orbwysleisio sicrwydd.
+levels:
+  - title: Dadansoddwr data cyswllt
+    slug: dadansoddwr-data-cyswllt
+    responsibilities:
+      - Cynhyrchu adroddiadau a dangosfyrddau arferol ar weithgarwch, amseroedd aros, a defnydd o wasanaethau, gan ddilyn dulliau y cytunwyd arnynt.
+      - Glanhau a pharatoi echdyniadau o systemau gweinyddu cleifion, clinigol, a gweithredol dan oruchwyliaeth.
+      - Gwirio allbynnau yn erbyn rheolau ansawdd data a rhoi gwybod am broblemau i'r perchennog data cywir.
+      - Cymhwyso atal niferoedd bach a rheolau datgelu eraill cyn rhannu canlyniadau.
+      - Ateb ceisiadau data syml gan dimau clinigol a gweithredol.
+    qualifications:
+      - Gradd mewn pwnc rhifiadol, prentisiaeth dadansoddeg, neu brofiad cyfatebol.
+  - title: Dadansoddwr data
+    slug: dadansoddwr-data
+    responsibilities:
+      - Dylunio a chynnal dadansoddiadau sy'n ateb cwestiynau gan dimau clinigol, gweithredol, a chynllunio.
+      - Cysylltu data ar lefel cleifion o wahanol ffynonellau'n ddiogel, gan ddefnyddio dynodwyr wedi'u ffugenwi a dulliau cysylltu y cytunwyd arnynt.
+      - Ysgrifennu cod dadansoddi atgynhyrchadwy a dogfennu dulliau, rhagdybiaethau, a ffynonellau data.
+      - Egluro canfyddiadau a'u cyfyngiadau i glinigwyr a rheolwyr mewn iaith glir.
+      - Gwirio dadansoddiadau am duedd ar draws grwpiau o gleifion, fel yn ôl oedran, rhyw, ethnigrwydd, ac amddifadedd.
+      - Cefnogi dadansoddwyr cyswllt ac adolygu eu gwaith.
+    qualifications:
+      - Gradd mewn pwnc rhifiadol, neu brofiad cyfatebol.
+      - Profiad o ddadansoddi a chyflwyno data cymhleth.
+  - title: Uwch ddadansoddwr data
+    slug: uwch-ddadansoddwr-data
+    responsibilities:
+      - Arwain dadansoddi ar gyfer maes gwasanaeth, fel gofal brys, canser, neu iechyd meddwl, gan gytuno ar flaenoriaethau gyda'i arweinwyr.
+      - Gosod dulliau a sicrwydd ansawdd ar gyfer dadansoddi'r tîm, gan gynnwys adolygu cod ac allbynnau gan gymheiriaid.
+      - Arwain prosiectau cysylltu cymhleth ar draws lleoliadau gofal a chytuno ar eu sail llywodraethiant gwybodaeth.
+      - Cyflwyno canfyddiadau i uwch grwpiau clinigol a rheoli a chynghori ar beth maen nhw'n ei olygu i wasanaethau.
+      - Gweithio gyda pheirianwyr data a pherchnogion data i fynd i'r afael ag achosion sylfaenol ansawdd data gwael.
+      - Hyfforddi a datblygu dadansoddwyr yn y tîm.
+    qualifications:
+      - Profiad sylweddol o arwain dadansoddi data, ar lefel sy'n cyfateb i radd meistr.
+  - title: Prif ddadansoddwr data
+    slug: prif-ddadansoddwr-data
+    responsibilities:
+      - Gosod safonau'r sefydliad ar gyfer dadansoddi data, sicrwydd ansawdd, ac arfer dadansoddol atgynhyrchadwy.
+      - Cynghori arweinwyr gweithredol a chlinigol ar y dystiolaeth y tu ôl i benderfyniadau mawr am wasanaethau a buddsoddiad.
+      - Arwain y gymuned ddadansoddol, gan gynnwys ei hyfforddiant, ei hoffer, a'i datblygiad gyrfa.
+      - Llunio trefniadau rhannu a chysylltu data gyda phartneriaid iechyd a gofal.
+      - Rheoli uwch ddadansoddwyr yn llinell a sicrhau bod gan y tîm y capasiti a'r sgiliau sydd eu hangen arno.
+    qualifications:
+      - Profiad helaeth o arwain dadansoddi data ar draws sefydliad.

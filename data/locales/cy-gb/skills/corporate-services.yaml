@@ -1,0 +1,283 @@
+# Welsh translations of data/skills/corporate-services.yaml. Keys are the English skill ids.
+corp-administration:
+  name: Gweinyddu swyddfa
+  slug: gweinyddu-swyddfa
+  description: Rhedeg y prosesau gweinyddol sy'n cadw tîm neu wasanaeth i weithio, fel ffeilio, archebu, mewnbynnu data, cofnodion, a dilyn gweithdrefnau swyddfa.
+  levels:
+    awareness: |
+      Gallwch:
+      - dilyn gweithdrefnau swyddfa ar gyfer ffeilio, archebu, a mewnbynnu data
+      - cadw cofnodion cywir o'ch gwaith eich hun
+    working: |
+      Gallwch:
+      - rhedeg ystod o brosesau gweinyddol ar gyfer tîm heb fawr o oruchwyliaeth
+      - sylwi ar wallau mewn cofnodion a data a'u trwsio
+      - awgrymu ffyrdd symlach o weithio
+    practitioner: |
+      Gallwch:
+      - trefnu'r cymorth gweinyddol ar gyfer gwasanaeth neu gyfarwyddiaeth
+      - ysgrifennu a gwella gweithdrefnau gweinyddol
+      - hyfforddi gweinyddwyr eraill a gwirio eu gwaith
+    expert: |
+      Gallwch:
+      - dylunio gwasanaethau gweinyddol ar draws y sefydliad
+      - arwain y symud i brosesau gweinyddol symlach a digidol
+
+corp-office-software:
+  name: Offer swyddfa digidol
+  slug: offer-swyddfa-digidol
+  description: Defnyddio prosesu geiriau, taenlenni, cyflwyniadau, e-bost, dogfennau a rennir, ac offer cydweithio yn gyflym ac yn gywir.
+  levels:
+    awareness: |
+      Gallwch:
+      - creu a golygu dogfennau, e-byst, a thaenlenni syml
+      - storio a rhannu ffeiliau yn y lle iawn
+    working: |
+      Gallwch:
+      - cynhyrchu dogfennau a chyflwyniadau wedi'u fformatio'n dda yn gyflym ac yn gywir
+      - defnyddio taenlenni i drefnu, hidlo, a chrynhoi data
+      - defnyddio offer cydweithio i reoli dogfennau a rennir a'u fersiynau
+    practitioner: |
+      Gallwch:
+      - adeiladu templedi, tracwyr, a llifoedd gwaith awtomatig syml
+      - gwneud dogfennau'n hygyrch i bawb
+      - helpu cydweithwyr i gael y gorau o offer swyddfa
+    expert: |
+      Gallwch:
+      - gosod safonau ar gyfer templedi, rheoli dogfennau, ac offer cydweithio
+      - arwain y gwaith o fabwysiadu offer swyddfa newydd ar draws y sefydliad
+
+corp-diary-and-meeting-management:
+  name: Rheoli dyddiaduron a chyfarfodydd
+  slug: rheoli-dyddiaduron-a-chyfarfodydd
+  description: Rheoli dyddiaduron, cyfarfodydd, a theithio fel bod amser pobl yn cael ei ddefnyddio'n dda a bod gan gyfarfodydd y bobl, y papurau, a'r ystafelloedd iawn.
+  levels:
+    awareness: |
+      Gallwch:
+      - trefnu cyfarfodydd ac ystafelloedd gan ddefnyddio offer y sefydliad
+      - anfon gwahoddiadau a phapurau mewn pryd
+    working: |
+      Gallwch:
+      - rheoli dyddiaduron ar gyfer tîm, gan ddatrys gwrthdaro
+      - trefnu teithio, digwyddiadau, a chyfarfodydd gyda phartneriaid allanol
+      - sicrhau bod papurau a chamau gweithredu'n barod cyn cyfarfodydd
+    practitioner: |
+      Gallwch:
+      - rheoli dyddiadur uwch arweinydd, gan osod blaenoriaethau gydag ef neu hi
+      - penderfynu beth sydd angen ei amser a beth y gall eraill ymdrin ag ef
+      - cynllunio cylch blynyddol cyfarfodydd ar gyfer bwrdd neu dîm arwain
+    expert: |
+      Gallwch:
+      - rhedeg cylch busnes tîm gweithredol
+      - sicrhau bod amser uwch arweinwyr yn canolbwyntio ar flaenoriaethau'r sefydliad
+
+corp-minute-taking:
+  name: Cymryd cofnodion a chofnodion cyfarfodydd
+  slug: cymryd-cofnodion-a-chofnodion-cyfarfodydd
+  description: Cofnodi trafodaethau, penderfyniadau, a chamau gweithredu'n gywir ac yn gryno, a chadw cofnodion ffurfiol o gyfarfodydd.
+  levels:
+    awareness: |
+      Gallwch:
+      - nodi camau gweithredu a phenderfyniadau mewn cyfarfodydd tîm
+    working: |
+      Gallwch:
+      - ysgrifennu cofnodion a logiau camau gweithredu cywir a chryno ar gyfer cyfarfodydd arferol
+      - dilyn camau gweithredu gyda'u perchnogion
+    practitioner: |
+      Gallwch:
+      - cymryd cofnodion ffurfiol o gyfarfodydd bwrdd a phwyllgor, gan gynnwys trafodaethau cymhleth neu ddadleuol
+      - cadw cofnodion ffurfiol o gyfarfodydd sy'n sefyll i fyny i archwiliad ac ymchwiliad
+      - cynghori cadeiryddion ar yr hyn y dylai'r cofnod ei ddangos
+    expert: |
+      Gallwch:
+      - gosod safonau ar gyfer cofnodion ffurfiol o gyfarfodydd ar draws y sefydliad
+      - hyfforddi pobl sy'n cymryd cofnodion a gwirio ansawdd eu gwaith
+
+corp-correspondence-management:
+  name: Ymdrin â gohebiaeth ac ymholiadau
+  slug: ymdrin-a-gohebiaeth-ac-ymholiadau
+  description: Ymdrin â llythyrau, e-byst, galwadau, ac ymholiadau'n brydlon ac yn gwrtais, a'u cyfeirio at y person iawn.
+  levels:
+    awareness: |
+      Gallwch:
+      - ateb galwadau ac e-byst yn gwrtais a chymryd negeseuon cywir
+      - trosglwyddo ymholiadau i'r person iawn
+    working: |
+      Gallwch:
+      - ymdrin â gohebiaeth ac ymholiadau arferol eich hun
+      - drafftio llythyrau ac atebion i eraill eu llofnodi
+      - cadw logiau gohebiaeth a mynd ar drywydd atebion
+    practitioner: |
+      Gallwch:
+      - rheoli gohebiaeth ar gyfer uwch arweinydd, gan gynnwys llythyrau sensitif a chwynion
+      - drafftio atebion sy'n gofyn am dact, cywirdeb, a chrebwyll
+      - sicrhau bod atebion yn cyrraedd terfynau amser
+    expert: |
+      Gallwch:
+      - gosod y broses a'r safonau ar gyfer gohebiaeth weithredol
+      - ymdrin â'r ohebiaeth fwyaf sensitif, gan gynnwys gyda rheoleiddwyr, partneriaid, a'r cyfryngau
+
+corp-pmo-reporting:
+  name: Cymorth swyddfa prosiectau a phortffolio
+  slug: cymorth-swyddfa-prosiectau-a-phortffolio
+  description: Rhedeg prosesau swyddfa prosiectau a phortffolio, fel cynlluniau, cofrestrau, adrodd, rheoli dogfennau, a gwiriadau sicrwydd.
+  levels:
+    awareness: |
+      Gallwch:
+      - cadw dogfennau prosiect yn y lle iawn, gyda rheolaeth fersiynau
+      - diweddaru logiau camau gweithredu, risgiau, a phroblemau pan ofynnir i chi
+    working: |
+      Gallwch:
+      - cynnal cynlluniau, cofrestrau, a thracwyr ar gyfer sawl prosiect
+      - casglu diweddariadau a chynhyrchu adroddiadau statws rheolaidd
+      - gwirio bod prosiectau'n dilyn y dull y cytunwyd arno
+    practitioner: |
+      Gallwch:
+      - dylunio adroddiadau portffolio a dadansoddi cynnydd, risgiau, a buddion ar draws prosiectau
+      - cynnal gwiriadau sicrwydd ac adolygiadau porth
+      - cynghori rheolwyr prosiect ar ddulliau a mesurau rheoli
+    expert: |
+      Gallwch:
+      - sefydlu ac arwain swyddfa bortffolio ar gyfer y sefydliad
+      - rhoi dealltwriaeth glir a dibynadwy o'r portffolio i uwch arweinwyr
+      - gosod safonau ac offer rheoli prosiectau a phortffolio
+
+corp-assurance-and-audit:
+  name: Sicrwydd a chysylltu ag archwilwyr
+  slug: sicrwydd-a-chysylltu-ag-archwilwyr
+  description: Casglu sicrwydd bod mesurau rheoli'n gweithio, cefnogi archwiliadau mewnol ac allanol, ac olrhain argymhellion archwilio hyd nes eu cwblhau.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro sut mae archwiliadau a sicrwydd yn gweithio yn y sefydliad
+      - darparu tystiolaeth pan ofynnir i chi
+    working: |
+      Gallwch:
+      - cydlynu tystiolaeth ar gyfer archwiliadau ac arolygiadau
+      - olrhain argymhellion archwilio a mynd ar drywydd camau gweithredu sy'n hwyr
+    practitioner: |
+      Gallwch:
+      - cynllunio mapio sicrwydd ar draws prif risgiau'r sefydliad
+      - gweithio gydag archwilwyr mewnol ac allanol i gytuno ar gwmpas a chanfyddiadau
+      - adrodd ar fylchau sicrwydd i bwyllgorau
+    expert: |
+      Gallwch:
+      - dylunio fframwaith sicrwydd y sefydliad
+      - cynghori'r pwyllgor archwilio a'r bwrdd ar gryfder y sicrwydd
+
+corp-policy-management:
+  name: Rheoli polisïau
+  slug: rheoli-polisiau
+  description: Ysgrifennu, adolygu, cymeradwyo, a chyhoeddi polisïau a gweithdrefnau'r sefydliad, a gwirio bod pobl yn eu dilyn.
+  levels:
+    awareness: |
+      Gallwch:
+      - dod o hyd i'r polisïau sy'n berthnasol i'ch gwaith a'u dilyn
+    working: |
+      Gallwch:
+      - cadw'r gofrestr bolisïau'n gyfredol ac atgoffa perchnogion am adolygiadau
+      - gwirio bod polisïau'n defnyddio'r templed a'r llwybr cymeradwyo cywir
+    practitioner: |
+      Gallwch:
+      - drafftio ac adolygu polisïau gydag arbenigwyr pwnc
+      - gwirio polisïau yn erbyn y gyfraith, safonau, a dyletswyddau cydraddoldeb
+      - monitro cydymffurfio ac adrodd ar fylchau
+    expert: |
+      Gallwch:
+      - gosod y fframwaith polisïau ar gyfer y sefydliad
+      - cynghori'r bwrdd ar flaenoriaethau a risgiau polisi
+
+corp-internal-communications:
+  name: Cyfathrebu mewnol
+  slug: cyfathrebu-mewnol
+  description: Cadw staff yn wybodus ac wedi ymgysylltu drwy sianeli fel y fewnrwyd, newyddlenni, sesiynau briffio, a digwyddiadau, yn enwedig yn ystod newid.
+  levels:
+    awareness: |
+      Gallwch:
+      - cyhoeddi cynnwys ar sianeli mewnol fel y fewnrwyd
+      - dilyn arddull a thôn llais y sefydliad
+    working: |
+      Gallwch:
+      - ysgrifennu a golygu newyddion, sesiynau briffio, a chylchlythyrau ar gyfer staff
+      - cynllunio cynnwys ar gyfer sianeli mewnol a mesur ymgysylltiad
+    practitioner: |
+      Gallwch:
+      - cynllunio cyfathrebu mewnol ar gyfer newid mawr, fel system glinigol newydd
+      - cynghori arweinwyr ar sut i ymgysylltu â staff ac ymdrin â negeseuon anodd
+      - defnyddio adborth a data i wella sianeli
+    expert: |
+      Gallwch:
+      - gosod y strategaeth cyfathrebu mewnol ac ymgysylltu â staff
+      - cynghori'r tîm gweithredol ar ddiwylliant ac ymgysylltiad
+
+corp-media-relations:
+  name: Cysylltiadau â'r cyfryngau
+  slug: cysylltiadau-ar-cyfryngau
+  description: Meithrin perthynas â newyddiadurwyr, ymdrin ag ymholiadau'r cyfryngau, ysgrifennu datganiadau i'r wasg, a pharatoi llefarwyr, gan gynnwys yn ystod digwyddiadau.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro sut mae'r sefydliad yn ymdrin ag ymholiadau'r cyfryngau
+      - trosglwyddo ymholiadau'r cyfryngau i'r tîm cyfathrebu ar unwaith
+    working: |
+      Gallwch:
+      - cofnodi ac ymateb i ymholiadau arferol gan y cyfryngau
+      - drafftio datganiadau i'r wasg a datganiadau i'w cymeradwyo
+      - monitro sylw yn y cyfryngau
+    practitioner: |
+      Gallwch:
+      - ymdrin ag ymholiadau sensitif ac adweithiol gan y cyfryngau, gan gynnwys am ddigwyddiadau neu dor-data
+      - briffio a pharatoi llefarwyr
+      - meithrin perthynas â newyddiadurwyr iechyd a thechnoleg
+    expert: |
+      Gallwch:
+      - arwain y gwaith o ymdrin â'r cyfryngau yn ystod digwyddiadau mawr ac argyfyngau
+      - diogelu a meithrin enw da'r sefydliad gydag uwch randdeiliaid
+      - cynghori'r bwrdd ar risg i enw da
+
+corp-communications-strategy:
+  name: Strategaeth a chynllunio cyfathrebu
+  slug: strategaeth-a-chynllunio-cyfathrebu
+  description: Cynllunio cyfathrebu ac ymgyrchoedd sy'n cyflawni nodau'r sefydliad, gan ddefnyddio dealltwriaeth o gynulleidfaoedd, a gwerthuso eu heffaith.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro nodau cynllun cyfathrebu rydych yn gweithio arno
+    working: |
+      Gallwch:
+      - ysgrifennu cynlluniau cyfathrebu ar gyfer prosiectau, gyda chynulleidfaoedd, negeseuon, a sianeli
+      - mesur canlyniadau gweithgarwch cyfathrebu
+    practitioner: |
+      Gallwch:
+      - cynllunio ymgyrchoedd sy'n newid ymddygiad, fel annog cleifion i ddefnyddio gwasanaeth digidol
+      - defnyddio dealltwriaeth o gynulleidfaoedd a gwerthuso i wella ymgyrchoedd
+      - cynllunio cyfathrebu ar gyfer digwyddiadau a thoriadau gwasanaeth
+    expert: |
+      Gallwch:
+      - gosod y strategaeth gyfathrebu ar gyfer y sefydliad
+      - arwain cyfathrebu mewn argyfwng
+      - cynghori'r bwrdd ar enw da ac ymgysylltu â rhanddeiliaid
+
+corp-digital-and-social-media:
+  name: Cyfryngau digidol a chymdeithasol
+  slug: cyfryngau-digidol-a-chymdeithasol
+  description: Cynllunio, cyhoeddi, a rheoli cynnwys ar wefannau a'r cyfryngau cymdeithasol, ymgysylltu â chynulleidfaoedd, a mesur y canlyniadau.
+  levels:
+    awareness: |
+      Gallwch:
+      - cyhoeddi cynnwys a gymeradwywyd ar sianeli'r sefydliad
+      - dilyn y polisi cyfryngau cymdeithasol
+    working: |
+      Gallwch:
+      - cynllunio a chyhoeddi cynnwys ar gyfer gwefannau a'r cyfryngau cymdeithasol
+      - ymateb i sylwadau a sylwi ar faterion y mae angen eu huwchgyfeirio
+      - adrodd ar berfformiad sianeli
+    practitioner: |
+      Gallwch:
+      - rheoli sianeli digidol y sefydliad a'u cynlluniau cynnwys
+      - ymdrin â negeseuon negyddol neu gamarweiniol, gan gynnwys yn ystod digwyddiadau
+      - defnyddio dadansoddeg i wella cyrhaeddiad ac ymgysylltiad
+    expert: |
+      Gallwch:
+      - gosod y strategaeth a'r llywodraethiant ar gyfer sianeli digidol y sefydliad
+      - arwain yr ymateb i risgiau ar-lein i enw da

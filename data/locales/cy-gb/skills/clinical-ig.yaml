@@ -1,0 +1,247 @@
+# Welsh translations of data/skills/clinical-ig.yaml. Keys are the English skill ids.
+clin-clinical-systems-optimisation:
+  name: Dylunio ac optimeiddio systemau clinigol
+  slug: dylunio-ac-optimeiddio-systemau-clinigol
+  description: Dylunio, ffurfweddu, a gwella systemau clinigol, fel cofnodion iechyd electronig, cyfathrebu archebion, a phresgripsiynu electronig, fel eu bod yn gweddu i lifoedd gwaith clinigol ac yn cefnogi gofal diogel ac effeithlon.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro sut mae systemau clinigol fel cofnodion iechyd electronig yn cefnogi gofal
+      - disgrifio'r llifoedd gwaith clinigol y mae system yn eu cefnogi
+    working: |
+      Gallwch:
+      - mapio llifoedd gwaith clinigol presennol a dyfodol gyda chlinigwyr a staff gofal
+      - profi ffurfweddiad system yn erbyn senarios clinigol
+      - ysgrifennu gofynion clinigol clir ar gyfer timau cynnyrch
+    practitioner: |
+      Gallwch:
+      - arwain dyluniad clinigol ffurfweddiad system, ffurflenni, setiau archebion, a chymorth penderfyniadau
+      - defnyddio data ac adborth defnyddwyr i ddod o hyd i broblemau llif gwaith a'u trwsio
+      - cydbwyso angen clinigol, diogelwch, defnyddioldeb, a chyfyngiadau'r system
+    expert: |
+      Gallwch:
+      - gosod egwyddorion a safonau dylunio ar gyfer systemau clinigol ar draws y sefydliad
+      - arwain rhaglenni optimeiddio sy'n gwella gofal a phrofiad staff mewn ffordd fesuradwy
+      - cynghori uwch arweinwyr ar ddewisiadau systemau clinigol a'u heffaith ar ofal
+
+clin-human-factors:
+  name: Ffactorau dynol a defnyddioldeb mewn systemau clinigol
+  slug: ffactorau-dynol-a-defnyddioldeb-mewn-systemau-clinigol
+  description: Cymhwyso dulliau ffactorau dynol a defnyddioldeb i systemau clinigol, fel y gall clinigwyr, staff gofal, a chleifion eu defnyddio'n ddiogel a chyda chyn lleied o wallau â phosibl.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro sut y gall dyluniad gwael arwain at wallau mewn gofal
+      - rhoi gwybod am broblemau defnyddioldeb a allai effeithio ar ddiogelwch cleifion
+    working: |
+      Gallwch:
+      - cymryd rhan mewn profion defnyddioldeb ac efelychiadau o dasgau clinigol
+      - sylwi ar beryglon dylunio cyffredin, fel opsiynau sy'n edrych yn debyg neu rybuddion cudd
+    practitioner: |
+      Gallwch:
+      - cynllunio a chynnal asesiadau ffactorau dynol o systemau clinigol
+      - troi canfyddiadau'n newidiadau dylunio ac yn fesurau rheoli diogelwch clinigol
+      - asesu baich rhybuddion a'r risg o ffyrdd o osgoi'r system
+    expert: |
+      Gallwch:
+      - gosod dull y sefydliad o ymdrin â ffactorau dynol mewn gwasanaethau digidol
+      - adolygu'r dystiolaeth ffactorau dynol ar gyfer systemau a newidiadau risg uchel
+      - meithrin sgiliau ffactorau dynol ar draws timau clinigol a digidol
+
+clin-digital-health-evaluation:
+  name: Gwerthuso iechyd digidol a'i fuddion
+  slug: gwerthuso-iechyd-digidol-ai-fuddion
+  description: Cynllunio a chynnal gwerthusiadau o dechnolegau iechyd digidol, a mesur eu buddion clinigol, diogelwch, a gwasanaeth gan ddefnyddio dulliau a thystiolaeth gadarn.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae angen tystiolaeth o fudd a diogelwch ar dechnolegau iechyd digidol
+      - dod o hyd i dystiolaeth gyhoeddedig am dechnoleg
+    working: |
+      Gallwch:
+      - casglu data sylfaenol a data dilynol ar gyfer gwerthusiad
+      - cynnal archwiliadau clinigol o'r defnydd o systemau
+      - crynhoi canfyddiadau gwerthuso ar gyfer cydweithwyr
+    practitioner: |
+      Gallwch:
+      - dylunio gwerthusiadau a chynlluniau buddion ar gyfer cynhyrchion iechyd digidol
+      - dewis mesurau addas ar gyfer canlyniadau clinigol, diogelwch, a phrofiad
+      - barnu cryfder tystiolaeth ac egluro ei chyfyngiadau
+    expert: |
+      Gallwch:
+      - gosod dull y sefydliad o werthuso iechyd digidol
+      - arwain rhaglenni ymchwil a gwerthuso gyda phartneriaid academaidd a gofal
+      - defnyddio tystiolaeth i gynghori'r bwrdd ar fuddsoddiad digidol
+
+clin-professional-practice:
+  name: Ymarfer clinigol cofrestredig mewn digidol
+  slug: ymarfer-clinigol-cofrestredig-mewn-digidol
+  description: Dod â gwybodaeth a chrebwyll clinigol cyfredol a chofrestredig i waith digidol, gan fodloni safonau, moeseg, a dyletswyddau ailddilysu proffesiwn clinigol.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro'r safonau proffesiynol sy'n berthnasol i glinigydd cofrestredig
+      - adnabod pan fo angen barn glinigol ar gwestiwn
+    working: |
+      Gallwch:
+      - cymhwyso eich gwybodaeth glinigol i waith digidol o fewn cwmpas eich ymarfer
+      - cadw eich cofrestriad a'ch datblygiad proffesiynol parhaus yn gyfredol
+      - rhoi barn glinigol ar lifoedd gwaith, cynnwys, a diogelwch
+    practitioner: |
+      Gallwch:
+      - gwneud penderfyniadau clinigol cadarn am effaith gwasanaethau digidol ar ofal
+      - herio ymarfer anniogel, mewn lleoliadau digidol neu glinigol, yn hyderus
+      - cefnogi clinigwyr eraill i gymhwyso eu safonau proffesiynol i waith digidol
+    expert: |
+      Gallwch:
+      - arwain safonau proffesiynol clinigol ar gyfer gwaith digidol y sefydliad
+      - gweithredu fel uwch lais clinigol mewn penderfyniadau am ddiogelwch cleifion a gofal
+      - cefnogi ailddilysu a datblygiad proffesiynol clinigwyr mewn rolau digidol
+
+ig-information-rights-requests:
+  name: Ceisiadau hawliau gwybodaeth
+  slug: ceisiadau-hawliau-gwybodaeth
+  description: Ymdrin â cheisiadau gan unigolion a'r cyhoedd am fynediad at wybodaeth, fel ceisiadau i weld cofnodion iechyd personol a cheisiadau am wybodaeth a ddelir gan y sefydliad, o fewn terfynau amser cyfreithiol.
+  levels:
+    awareness: |
+      Gallwch:
+      - adnabod cais hawliau gwybodaeth a'i drosglwyddo'n brydlon
+      - egluro bod terfynau amser cyfreithiol ar geisiadau
+    working: |
+      Gallwch:
+      - cofnodi, cydnabod, ac olrhain ceisiadau i fodloni terfynau amser
+      - casglu a golygu gwybodaeth, a drafftio ymatebion i'w hadolygu
+      - gwirio hunaniaeth ac awdurdod y person sy'n gofyn
+    practitioner: |
+      Gallwch:
+      - ymdrin â cheisiadau cymhleth neu sensitif, gan gynnwys rhai sy'n ymwneud â thrydydd partïon
+      - cymhwyso esemptiadau a phenderfynu beth i'w atal, gyda rhesymau clir
+      - rheoli adolygiadau mewnol a chwynion am ymatebion
+    expert: |
+      Gallwch:
+      - gosod y polisi a'r broses ar gyfer hawliau gwybodaeth ar draws y sefydliad
+      - arwain yr ymateb i ymholiadau ac apeliadau gan reoleiddwyr
+      - adrodd ar berfformiad a thueddiadau i uwch arweinwyr
+
+ig-records-retention:
+  name: Cadw a gwaredu cofnodion
+  slug: cadw-a-gwaredu-cofnodion
+  description: Cymhwyso cofrestrau cadw cofnodion i gofnodion papur a digidol, a'u harchifo neu eu dinistrio'n ddiogel ar yr adeg iawn, gyda llwybr archwilio.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae cofnodion yn cael eu cadw am gyfnodau penodol ac yna'n cael eu dinistrio neu eu harchifo
+      - dilyn gweithdrefnau ar gyfer storio a symud cofnodion
+    working: |
+      Gallwch:
+      - cymhwyso'r gofrestr cadw cofnodion a nodi'r rhai sy'n ddyledus i'w hadolygu
+      - paratoi cofnodion i'w harchifo neu eu dinistrio'n ddiogel, a chadw'r llwybr archwilio
+    practitioner: |
+      Gallwch:
+      - rhedeg y rhaglen gadw a gwaredu ar gyfer gwasanaeth cofnodion
+      - cynghori timau ar gadw mathau newydd o gofnodion, gan gynnwys rhai digidol
+      - archwilio cydymffurfio â cofrestrau cadw cofnodion
+    expert: |
+      Gallwch:
+      - gosod y polisi a'r gofrestr cadw cofnodion ar gyfer y sefydliad
+      - cynllunio cadwraeth hirdymor cofnodion digidol
+      - datrys cwestiynau cadw cymhleth, fel daliadau cyfreithiol ac ymchwiliadau
+
+ig-data-protection-impact-assessment:
+  name: Asesiad o'r effaith ar ddiogelu data
+  slug: asesiad-effaith-diogelu-data
+  description: Asesu risgiau preifatrwydd prosesu data personol ac iechyd sy'n newydd neu wedi newid, a chytuno ar fesurau rheoli cyn i'r prosesu ddechrau.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pryd mae angen asesiad o'r effaith ar ddiogelu data
+      - cwblhau holiadur sgrinio ar gyfer eich gwaith
+    working: |
+      Gallwch:
+      - helpu timau prosiect i gwblhau asesiadau o'r effaith ar ddiogelu data
+      - disgrifio llifoedd data a nodi'r sail gyfreithlon dros brosesu
+      - cofnodi risgiau preifatrwydd a'r mesurau rheoli arfaethedig
+    practitioner: |
+      Gallwch:
+      - adolygu a chynghori ar asesiadau o'r effaith ar ddiogelu data ar gyfer systemau cymhleth
+      - barnu a yw risgiau'n dderbyniol ac argymell mesurau rheoli
+      - penderfynu pryd i uwchgyfeirio risgiau uchel i'w hadolygu gan uwch swyddogion neu reoleiddwyr
+    expert: |
+      Gallwch:
+      - gosod proses a safonau asesu effaith diogelu data y sefydliad
+      - rhoi'r cyngor terfynol ar y prosesu â'r risg uchaf, fel rhannu data ar raddfa fawr neu ddeallusrwydd artiffisial
+      - ymgynghori â rheoleiddwyr lle mae'r gyfraith yn gofyn am hynny
+
+ig-incident-management:
+  name: Rheoli digwyddiadau llywodraethiant gwybodaeth
+  slug: rheoli-digwyddiadau-llywodraethiant-gwybodaeth
+  description: Cofnodi achosion o dor diogelwch data a digwyddiadau a fu bron â digwydd, ymchwilio iddynt, a dysgu ohonynt, a phenderfynu pryd i ddweud wrth reoleiddwyr a'r bobl yr effeithir arnynt.
+  levels:
+    awareness: |
+      Gallwch:
+      - adnabod tor diogelwch data neu ddigwyddiad a fu bron â digwydd a rhoi gwybod amdano ar unwaith
+    working: |
+      Gallwch:
+      - cofnodi digwyddiadau a chasglu'r ffeithiau
+      - asesu digwyddiadau yn erbyn meini prawf difrifoldeb y sefydliad
+      - olrhain camau gweithredu hyd nes eu cau
+    practitioner: |
+      Gallwch:
+      - ymchwilio i ddigwyddiadau difrifol a dod o hyd i'w hachosion sylfaenol
+      - penderfynu, gydag uwch gydweithwyr, a ddylid hysbysu rheoleiddwyr a'r bobl yr effeithir arnynt
+      - rhannu gwersi ac olrhain gwelliannau
+    expert: |
+      Gallwch:
+      - gosod y broses rheoli digwyddiadau ar gyfer llywodraethiant gwybodaeth
+      - arwain yr ymateb i doriadau mawr, gan gynnwys gyda rheoleiddwyr a'r cyfryngau
+      - adrodd i'r bwrdd ar dueddiadau a risgiau digwyddiadau
+
+ig-confidentiality-and-sharing:
+  name: Cyfrinachedd a rhannu gwybodaeth
+  slug: cyfrinachedd-a-rhannu-gwybodaeth
+  description: Diogelu gwybodaeth gyfrinachol am gleifion, gan sicrhau ei bod yn cael ei rhannu'n gyfreithlon pan fo gofal, diogelwch, neu'r gyfraith yn gofyn am hynny, gan gynnwys drwy gytundebau rhannu gwybodaeth.
+  levels:
+    awareness: |
+      Gallwch:
+      - cadw gwybodaeth gyfrinachol yn ddiogel a'i rhannu dim ond pan gewch chi wneud hynny
+      - gofyn am gyngor pan nad ydych yn siŵr
+    working: |
+      Gallwch:
+      - gwirio bod cais i rannu gwybodaeth yn bodloni'r polisi
+      - cadw cofnodion o'r hyn a rannwyd, gyda phwy, a pham
+      - drafftio cytundebau rhannu gwybodaeth syml
+    practitioner: |
+      Gallwch:
+      - cynghori ar gwestiynau cyfrinachedd cymhleth, fel rhannu heb gydsyniad er budd y cyhoedd
+      - adolygu cytundebau rhannu gwybodaeth gyda sefydliadau partner
+      - cymhwyso rheolau cydsyniad a gwrthwynebiad cleifion i lifoedd data
+    expert: |
+      Gallwch:
+      - gweithredu fel uwch gynghorydd y sefydliad ar gyfrinachedd
+      - datrys y penderfyniadau datgelu anoddaf
+      - gosod y fframwaith ar gyfer rhannu gwybodaeth gyda phartneriaid
+
+ig-compliance-assurance:
+  name: Sicrwydd ac archwilio llywodraethiant gwybodaeth
+  slug: sicrwydd-ac-archwilio-llywodraethiant-gwybodaeth
+  description: Gwirio a dangos bod y sefydliad yn bodloni safonau llywodraethiant gwybodaeth, drwy hunanasesiadau blynyddol, archwiliadau, tystiolaeth, a chynlluniau gwella.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae'n rhaid i'r sefydliad ddangos ei fod yn trin gwybodaeth yn dda
+      - darparu tystiolaeth ar gyfer archwiliad pan ofynnir i chi
+    working: |
+      Gallwch:
+      - casglu a threfnu tystiolaeth ar gyfer yr hunanasesiad blynyddol
+      - cynnal archwiliadau syml, fel archwiliadau mynediad neu gadw cofnodion
+      - olrhain camau gwella
+    practitioner: |
+      Gallwch:
+      - cynllunio a rhedeg y rhaglen sicrwydd llywodraethiant gwybodaeth
+      - barnu a yw tystiolaeth yn bodloni'r safon a nodi bylchau
+      - gweithio gydag archwilwyr mewnol ac allanol
+    expert: |
+      Gallwch:
+      - bod yn berchen ar fframwaith sicrwydd llywodraethiant gwybodaeth y sefydliad
+      - adrodd ar sicrwydd a chydymffurfiaeth i'r bwrdd a'i bwyllgorau
+      - gosod blaenoriaethau gwella yn seiliedig ar risg

@@ -1,0 +1,52 @@
+summary: >
+  Mae peirianwyr data yn adeiladu ac yn rhedeg y piblinellau a'r llwyfannau sy'n symud data iechyd a gofal o
+  systemau clinigol a gweithredol i fannau lle gellir ei ddadansoddi a'i ddefnyddio'n ddiogel. Maen nhw'n dylunio
+  llifoedd data, yn integreiddio ffynonellau sy'n defnyddio safonau gwahanol, ac yn sicrhau bod data'n gywir, yn
+  amserol, yn ddiogel, ac ar gael i'r bobl a ddylai ei weld yn unig.
+health_context:
+  - Mae systemau ffynhonnell yn cynnwys cofnodion electronig am gleifion, a systemau labordy, delweddu, a fferyllfa, sy'n defnyddio safonau fel HL7 fersiwn 2, HL7 FHIR, SNOMED CT, ac ICD.
+  - Mae piblinellau'n aml yn cludo data adnabyddadwy am gleifion, felly mae peirianwyr yn cynnwys ffugenwi, rheoli mynediad, ac archwilio o'r dechrau.
+  - Mae rhai ffrydiau data'n cefnogi gofal uniongyrchol, fel rhybuddion neu restrau cleifion, felly gall piblinell sy'n methu neu'n hwyr effeithio ar gleifion ac mae angen asesiad diogelwch clinigol arni.
+  - Mae angen cysylltu data ar draws lleoliadau gofal yn aml, sy'n dibynnu ar baru cleifion dibynadwy a dynodwyr cyson.
+levels:
+  - title: Peiriannydd data
+    slug: peiriannydd-data
+    responsibilities:
+      - Adeiladu a chynnal piblinellau data o systemau clinigol a gweithredol i'r llwyfan data, gan ddilyn dyluniadau y cytunwyd arnynt.
+      - Mapio data ffynhonnell, gan gynnwys data clinigol wedi'i godio, i fodelau targed a dogfennu'r mapiadau.
+      - Cynnwys ffugenwi, dilysu, a gwiriadau ansawdd data mewn piblinellau.
+      - Monitro piblinellau a thrwsio methiannau, gan flaenoriaethu ffrydiau sy'n cefnogi gofal uniongyrchol.
+      - Cymhwyso rheoli mynediad a logio archwilio sy'n bodloni rheolau llywodraethiant gwybodaeth.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu bwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad o adeiladu piblinellau data.
+  - title: Uwch beiriannydd data
+    slug: uwch-beiriannydd-data
+    responsibilities:
+      - Dylunio llifoedd data a gwasanaethau ffrydio sy'n dwyn ynghyd ddata o lawer o systemau iechyd a gofal.
+      - Dylunio prosesau paru a chysylltu cleifion, a mesur pa mor dda maen nhw'n gweithio.
+      - Arwain gwaith perfformiad cronfeydd data a llwyfannau fel bod data ar gael pan fo gwasanaethau ei angen.
+      - Asesu risgiau diogelwch clinigol a llywodraethiant gwybodaeth llifoedd data gyda'r arbenigwyr perthnasol.
+      - Adolygu gwaith peirianwyr eraill a'u hyfforddi.
+    qualifications:
+      - Profiad sylweddol o ddylunio ac adeiladu systemau data, ar lefel sy'n cyfateb i radd meistr.
+  - title: Peiriannydd data arweiniol
+    slug: peiriannydd-data-arweiniol
+    responsibilities:
+      - Arwain dyluniad a rhedeg llwyfan data'r sefydliad a'i lifoedd data niferus.
+      - Gosod safonau peirianneg ar gyfer piblinellau, profi, diogelwch, a dogfennu.
+      - Cynllunio integreiddio data gyda phartneriaid iechyd a gofal, gan gynnwys cofnodion gofal a rennir a gwasanaethau data rhanbarthol.
+      - Sicrhau bod llifoedd data sy'n cefnogi gofal uniongyrchol yn wydn a bod ganddynt achosion diogelwch clinigol.
+      - Cydlynu timau peirianneg data a rheoli peirianwyr yn llinell.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg data ar gyfer systemau cymhleth.
+  - title: Pennaeth peirianneg data
+    slug: pennaeth-peirianneg-data
+    responsibilities:
+      - Gosod y strategaeth ar gyfer llwyfannau data a gwasanaethau peirianneg data'r sefydliad.
+      - Arwain timau amlddisgyblaethol sy'n darparu gwasanaethau data ar gyfer timau mewnol a phartneriaid iechyd a gofal.
+      - Cynghori uwch arweinwyr ar risgiau, costau, a buddsoddiad mewn llwyfannau data.
+      - Sicrhau bod gwasanaethau data'n bodloni gofynion llywodraethiant gwybodaeth, diogelwch, a diogelwch clinigol.
+      - Meithrin gallu peirianneg data drwy recriwtio, datblygu, a llwybrau gyrfa.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg data ar draws sawl tîm.

@@ -1,0 +1,74 @@
+summary: >
+  Mae staff cyfathrebu'n helpu'r sefydliad i egluro'r hyn y mae'n ei wneud i staff, cleifion, y cyhoedd,
+  partneriaid, a'r cyfryngau. Maen nhw'n ysgrifennu ac yn cyhoeddi cynnwys, yn rhedeg cyfathrebu mewnol ac
+  ymgyrchoedd, yn rheoli sianeli digidol a chyfryngau cymdeithasol, yn ymdrin ag ymholiadau'r cyfryngau, ac yn
+  diogelu enw da'r sefydliad, yn enwedig yn ystod digwyddiadau a thoriadau.
+health_context:
+  - Mae'n rhaid i gyfathrebu am wasanaethau iechyd fod yn gywir, yn glir, ac yn hygyrch, gan y gall cleifion weithredu arno.
+  - Mae ymgyrchoedd yn aml yn anelu at newid ymddygiad, fel annog cleifion a staff gofal i ddefnyddio gwasanaeth digidol newydd.
+  - Mae angen cyfathrebu cyflym a gofalus â chleifion, staff, partneriaid, a'r cyfryngau ar doriadau gwasanaeth, digwyddiadau seiber, ac achosion o dor diogelwch data.
+  - Mae angen cydsyniad ar straeon am gleifion, ac mae'n rhaid iddynt ddiogelu cyfrinachedd.
+levels:
+  - title: Swyddog cyfathrebu
+    slug: swyddog-cyfathrebu
+    summary: Yn ysgrifennu ac yn cyhoeddi cynnwys ar gyfer sianeli mewnol ac allanol ac yn cefnogi'r tîm cyfathrebu gyda gwaith cyfryngau ac ymgyrchoedd arferol.
+    responsibilities:
+      - Ysgrifennu a golygu newyddion, cynnwys y fewnrwyd, newyddlenni, a negeseuon cyfryngau cymdeithasol.
+      - Cyhoeddi cynnwys cymeradwy ar y wefan, y fewnrwyd, a'r cyfryngau cymdeithasol.
+      - Cofnodi ymholiadau'r cyfryngau a monitro'r sylw yn y cyfryngau.
+      - Cefnogi ymgyrchoedd a digwyddiadau gyda chynnwys a logisteg.
+      - Gwirio cynnwys am gywirdeb, hygyrchedd, ac iaith glir.
+    qualifications:
+      - Profiad o ysgrifennu ar gyfer cynulleidfaoedd gwahanol, neu gymhwyster mewn cyfathrebu neu bwnc cysylltiedig, neu brofiad cyfatebol.
+  - title: Uwch swyddog cyfathrebu
+    slug: uwch-swyddog-cyfathrebu
+    summary: Yn cynllunio ac yn cyflwyno cyfathrebu ar gyfer prosiectau a gwasanaethau, yn ymdrin ag ymholiadau arferol gan y cyfryngau, ac yn rheoli sianeli.
+    responsibilities:
+      - Cynllunio a chyflwyno cyfathrebu ar gyfer prosiectau a newidiadau i wasanaethau.
+      - Ymateb i ymholiadau arferol gan y cyfryngau a drafftio datganiadau i'r wasg a datganiadau.
+      - Rheoli cynlluniau cynnwys ar gyfer sianeli digidol a chyfryngau cymdeithasol, ac adrodd ar berfformiad.
+      - Ysgrifennu astudiaethau achos, gan gynnwys straeon cleifion, gyda chydsyniad.
+      - Cynghori cydweithwyr ar ysgrifennu'n glir ar gyfer cleifion a'r cyhoedd.
+      - Hyfforddi swyddogion cyfathrebu.
+    qualifications:
+      - Gradd neu gymhwyster mewn cyfathrebu neu bwnc cysylltiedig, neu brofiad cyfatebol.
+  - title: Arweinydd cyfathrebu
+    slug: arweinydd-cyfathrebu
+    summary: Yn arwain cyfathrebu ar gyfer rhaglen neu faes mawr, fel cyfathrebu mewnol neu sianeli digidol, ac yn ymdrin â gwaith cyfryngau sensitif.
+    responsibilities:
+      - Arwain cyfathrebu ac ymgysylltu ar gyfer rhaglen fawr, fel system glinigol newydd.
+      - Cynllunio a gwerthuso ymgyrchoedd sy'n annog cleifion a staff i fabwysiadu gwasanaethau digidol.
+      - Ymdrin ag ymholiadau sensitif gan y cyfryngau a pharatoi llefarwyr.
+      - Cynllunio cyfathrebu ar gyfer digwyddiadau a thoriadau gwasanaeth gyda thimau gweithredol.
+      - Cynghori arweinwyr ar sut i gyfathrebu newid a negeseuon anodd.
+      - Goruchwylio swyddogion cyfathrebu.
+    qualifications:
+      - Gradd neu gymhwyster proffesiynol mewn cyfathrebu, neu brofiad cyfatebol.
+      - Profiad o gynllunio a gwerthuso ymgyrchoedd.
+  - title: Rheolwr cyfathrebu
+    slug: rheolwr-cyfathrebu
+    summary: Yn rheoli gwaith a sianeli'r tîm cyfathrebu, ac yn arwain ymdrin â'r cyfryngau a chyfathrebu ar gyfer digwyddiadau.
+    responsibilities:
+      - Rheoli'r tîm cyfathrebu, ei gynllun gwaith, a'i gyllideb.
+      - Arwain gwaith cyfryngau ymatebol a rhagweithiol, gan gynnwys yn ystod digwyddiadau ac achosion o dor diogelwch data.
+      - Rheoli sianeli, brand, a safonau cynnwys y sefydliad.
+      - Cynghori cyfarwyddwyr ar risgiau cyfathrebu ac i enw da.
+      - Gwerthuso cyfathrebu ac adrodd ar ei effaith.
+      - Gweithio gyda sefydliadau partner ar gyfathrebu ar y cyd.
+    qualifications:
+      - Cymhwyster proffesiynol mewn cyfathrebu, neu brofiad cyfatebol.
+      - Profiad sylweddol o gysylltiadau â'r cyfryngau a rheoli cyfathrebu.
+    job_evaluation_notes: Mae ymdrech emosiynol yn adlewyrchu ymdrin yn achlysurol â deunydd trallodus yn ystod digwyddiadau ac mewn straeon cleifion.
+  - title: Pennaeth cyfathrebu
+    slug: pennaeth-cyfathrebu
+    summary: Yn arwain cyfathrebu ac ymgysylltu ar gyfer y sefydliad, yn gosod ei strategaeth, ac yn cynghori'r bwrdd ar enw da.
+    responsibilities:
+      - Gosod y strategaeth cyfathrebu ac ymgysylltu ar gyfer y sefydliad.
+      - Arwain a datblygu'r swyddogaeth gyfathrebu a rheoli ei chyllideb.
+      - Cynghori'r prif weithredwr a'r bwrdd ar enw da, ymgysylltu â rhanddeiliaid, a risg cyfathrebu.
+      - Arwain cyfathrebu mewn argyfwng yn ystod digwyddiadau mawr.
+      - Meithrin perthnasoedd ag uwch bartneriaid, newyddiadurwyr, a grwpiau cleifion.
+      - Llunio sut mae'r sefydliad yn egluro ei wasanaethau digidol a'i ddefnydd o ddata i'r cyhoedd.
+    qualifications:
+      - Cymhwyster proffesiynol mewn cyfathrebu, neu brofiad cyfatebol.
+      - Profiad helaeth o arwain cyfathrebu ar gyfer sefydliad cymhleth.

@@ -38,7 +38,7 @@ It is for:
 
 ## Website
 
-The reference is published as a static website at <https://roles-skills.github.io>, built from [`roles-skills.github.io/`](roles-skills.github.io/) with SvelteKit 3, the Lily Design System™ and its PickerBar. Each role level page has an interactive self assessment, saved in the reader's browser and exportable as TSV. Editors can change `data/` in a browser through Sveltia CMS at `/admin/`.
+The reference is published as a static website at <https://roles-skills.github.io>, built from [`roles-skills.github.io/`](roles-skills.github.io/) with SvelteKit 3, the Lily Design System™ and its PickerBar. Each role level page has an interactive self assessment, saved in the reader's browser and exportable as TSV. The site is available in English and in Welsh (Cymraeg, at [`/cy-gb/`](https://roles-skills.github.io/cy-gb/)); the URL carries the locale, and the locale picker follows it. Editors can change `data/` in a browser through Sveltia CMS at `/admin/`.
 
 ```sh
 make build           # python3 scripts/build.py, then roles-skills.github.io/bin/sync
@@ -68,10 +68,12 @@ data/
   skills/*.yaml           skills original to this reference, with ESCO links
   bands.yaml              bands, competency outlines, grade-to-band rule
   job-evaluation.yaml     16 factors, levels, points, band ranges
+  locales/<code>/         translations of the above, such as cy-gb (Welsh)
   crosswalks/pcf-esco.tsv UK GDaD PCF skills matched to ESCO skills
   sources/pcf/            UK GDaD PCF downloads
   sources/esco/           ESCO occupations and occupation skills
 docs/                     generated role pages and indexes, one <slug>/index.md each
+locales/<code>/           generated pages for each translation, with translated slugs
 exports/                  generated TSV files
 guides/                   how-to guides
 research/                 research notes on the frameworks, band mapping, and job evaluation

@@ -1,0 +1,158 @@
+# Job evaluation factors in Welsh. Keys are the English factor ids.
+communication:
+  name: Sgiliau cyfathrebu a pherthynas
+  description: Y sgiliau sydd eu hangen i gyfathrebu â chydweithwyr, cleifion, y cyhoedd, a phartneriaid, ac i feithrin perthynas â nhw. Yn ystyried pa mor gymhleth, sensitif, neu ddadleuol yw'r wybodaeth, ac unrhyw rwystrau i'w deall neu ei derbyn.
+  levels:
+    "1": Yn rhoi ac yn derbyn gwybodaeth arferol ar lafar, gyda chydweithwyr yn bennaf.
+    "2": Yn rhoi ac yn derbyn gwybodaeth arferol ar lafar, yn ysgrifenedig, neu'n electronig, gyda chydweithwyr ac eraill.
+    "3": Yn rhoi gwybodaeth arferol sy'n gofyn am dact neu berswâd, neu wybodaeth gymhleth neu sensitif, neu hyfforddiant syml i grwpiau.
+    "4": Yn rhoi gwybodaeth gymhleth, sensitif, neu ddadleuol sy'n gofyn am sgiliau perswadio, negodi, neu hyfforddi, neu wybodaeth gymhleth iawn.
+    "5": Yn rhoi gwybodaeth gymhleth iawn neu ddadleuol sy'n gofyn am sgiliau perswadio a negodi datblygedig, yn cyflwyno i grwpiau mawr, neu'n cyfathrebu lle mae rhwystrau sylweddol i'w derbyn.
+    "6": Yn rhoi gwybodaeth gymhleth iawn a dadleuol iawn lle mae rhwystrau sylweddol i'w derbyn, gan ddefnyddio'r lefel uchaf o sgiliau cyfathrebu.
+knowledge:
+  name: Gwybodaeth, hyfforddiant, a phrofiad
+  description: Y wybodaeth a'r profiad sydd eu hangen i wneud y swydd, o unrhyw ffynhonnell, gan gynnwys hyfforddiant ffurfiol, cymwysterau, a phrofiad.
+  levels:
+    "1": Ychydig o weithdrefnau arferol, a ddysgwyd yn y gwaith mewn cyfnod sefydlu byr.
+    "2": Ystod o weithdrefnau arferol, a ddysgwyd drwy hyfforddiant yn y gwaith a chyfnod sefydlu.
+    "3": Ystod o weithdrefnau, rhai ohonynt yn anarferol, sy'n gofyn am theori lefel sylfaenol (er enghraifft cymhwyster lefel 3 neu brofiad cyfatebol).
+    "4": Ystod o weithdrefnau, y rhan fwyaf yn anarferol, sy'n gofyn am theori lefel ganolradd (er enghraifft gradd sylfaen neu brofiad cyfatebol).
+    "5": Arbenigedd mewn maes arbenigol, wedi'i seilio ar theori neu brofiad ymarferol (lefel gradd neu gyfatebol).
+    "6": Gwybodaeth arbenigol ar draws ystod y maes arbenigol (lefel diploma ôl-raddedig neu gyfatebol).
+    "7": Gwybodaeth arbenigol ddatblygedig iawn ar draws ystod y maes arbenigol (lefel gradd meistr neu gyfatebol).
+    "8": Gwybodaeth uwch (doethuriaeth ynghyd â hyfforddiant pellach neu gyfatebol), neu wybodaeth arbenigol ar draws mwy nag un ddisgyblaeth a feithrinwyd dros gyfnod hir.
+analytical:
+  name: Sgiliau dadansoddi a barnu
+  description: Y dadansoddi a'r crebwyll sydd eu hangen i brosesu gwybodaeth, datrys problemau, a gwneud penderfyniadau.
+  levels:
+    "1": Barnu ffeithiau neu sefyllfaoedd syml.
+    "2": Barnu ffeithiau neu sefyllfaoedd, rhai ohonynt yn gofyn am ddadansoddi.
+    "3": Barnu ystod o ffeithiau neu sefyllfaoedd sy'n gofyn am ddadansoddi neu gymharu opsiynau.
+    "4": Barnu ffeithiau neu sefyllfaoedd cymhleth sy'n gofyn am ddadansoddi, dehongli, a chymharu opsiynau.
+    "5": Barnu ffeithiau neu sefyllfaoedd cymhleth iawn sy'n gofyn am ddadansoddi, dehongli, a chymharu opsiynau.
+planning:
+  name: Sgiliau cynllunio a threfnu
+  description: Y cynllunio a'r trefnu sydd eu hangen i redeg gweithgareddau, rhaglenni, gwasanaethau, neu strategaethau.
+  levels:
+    "1": Yn trefnu ei waith o ddydd i ddydd ei hun.
+    "2": Yn cynllunio tasgau neu weithgareddau syml, rhai ohonynt yn barhaus.
+    "3": Yn cynllunio sawl gweithgaredd cymhleth, gan addasu cynlluniau yn ôl yr angen.
+    "4": Yn cynllunio ystod eang o weithgareddau neu strategaethau cymhleth, gan eu haddasu yn ôl yr angen.
+    "5": Yn llunio cynlluniau strategol hirdymor, gydag ansicrwydd ac effeithiau ar draws y sefydliad.
+physical-skills:
+  name: Sgiliau corfforol
+  description: Y sgiliau corfforol sydd eu hangen, fel deheurwydd, cydsymud, sgiliau bysellfwrdd, a gyrru.
+  levels:
+    "1": Ychydig o angen am sgiliau corfforol.
+    "2": Sgiliau a enillwyd drwy ymarfer, fel defnyddio bysellfwrdd safonol neu yrru.
+    "3": Sgiliau datblygedig sy'n gofyn am gyflymder neu gywirdeb, fel defnydd uwch o fysellfwrdd.
+    "4": Sgiliau datblygedig iawn sy'n gofyn am gywirdeb neu gyflymder a chydsymud llaw a llygad uchel.
+    "5": Y lefel uchaf o gywirdeb, cyflymder, a chydsymud.
+patient-care:
+  name: Cyfrifoldeb am ofal cleifion a chleientiaid
+  description: Cyfrifoldeb am asesu, trin, gofalu am, neu gynghori cleifion a chleientiaid. Ar gyfer y rhan fwyaf o rolau digidol a chorfforaethol, cyswllt achlysurol yn unig yw hwn.
+  levels:
+    "1": Yn helpu cleifion, cleientiaid, neu berthnasau yn ystod cyswllt achlysurol.
+    "2": Yn rhoi cyngor, gwybodaeth, neu wasanaethau anghlinigol cyffredinol yn uniongyrchol i gleifion neu'r cyhoedd.
+    "3": Yn rhoi gofal personol, gwasanaethau technegol clinigol sylfaenol, neu gyngor clinigol sylfaenol.
+    "4": Yn darparu gofal clinigol, yn darparu gwasanaethau technegol clinigol, neu'n cynghori ar ofal cleifion.
+    "5": Yn datblygu rhaglenni gofal, yn darparu gwasanaethau technegol clinigol arbenigol, neu'n rhoi cyngor arbenigol ar ofal cleifion.
+    "6": Yn datblygu gofal arbenigol, yn rhoi cyngor arbenigol iawn, neu'n atebol am ran o wasanaeth clinigol.
+    "7": Yn atebol am ddarparu gwasanaeth clinigol neu ofal.
+    "8": Cyfrifoldeb corfforaethol am wasanaethau clinigol neu ofal.
+policy:
+  name: Cyfrifoldeb am ddatblygu polisïau a gwasanaethau
+  description: Cyfrifoldeb am ddatblygu a gweithredu polisïau a gwasanaethau, a pha mor bell y mae'r effeithiau'n cyrraedd.
+  levels:
+    "1": Yn dilyn polisïau a osodwyd gan eraill; efallai y bydd yn rhoi sylwadau ar newidiadau.
+    "2": Yn gweithredu polisïau ar gyfer ei faes ei hun ac yn cynnig newidiadau i'w arferion.
+    "3": Yn gweithredu polisïau ar gyfer ei faes ei hun ac yn cynnig newidiadau sy'n effeithio ar feysydd eraill.
+    "4": Yn gweithredu polisi ac yn datblygu polisi neu wasanaethau ar gyfer gwasanaeth neu sawl maes.
+    "5": Yn gweithredu ac yn datblygu ystod o bolisïau neu wasanaethau ar gyfer cyfarwyddiaeth.
+    "6": Cyfrifoldeb corfforaethol am ddatblygu polisi neu wasanaethau mawr ar draws y sefydliad neu y tu hwnt iddo.
+financial-resources:
+  name: Cyfrifoldeb am adnoddau ariannol a ffisegol
+  description: Cyfrifoldeb am arian, cyllidebau, offer, stoc, adeiladau, ac asedau eraill.
+  levels:
+    "1": Yn gofalu'n bersonol am offer ac adnoddau a ddefnyddir yn ei waith ei hun.
+    "2": Yn trin arian parod neu bethau gwerthfawr, yn gofalu am offer a ddefnyddir gan eraill, yn rheoli stoc, neu'n awdurdodi taliadau bach.
+    "3": Yn awdurdodi taliadau, yn prynu rhai asedau neu gyflenwadau, yn monitro neu'n dal cyllideb ddirprwyedig, neu'n cynnal asedau.
+    "4": Yn dal neu'n gosod y gyllideb ar gyfer adran neu wasanaeth, neu'n prynu neu'n cynnal ei asedau.
+    "5": Yn dal neu'n gosod cyllidebau, neu'n rheoli asedau, ar gyfer sawl gwasanaeth.
+    "6": Cyfrifoldeb corfforaethol am gyllid neu asedau'r sefydliad.
+people:
+  name: Cyfrifoldeb am bobl
+  description: Cyfrifoldeb am reoli, goruchwylio, hyfforddi, neu ddatblygu staff, neu am ddarparu gwasanaethau pobl (adnoddau dynol).
+  levels:
+    "1": Yn dangos ei drefn waith ei hun i gydweithwyr newydd neu lai profiadol.
+    "2": Yn goruchwylio neu'n cydlynu staff o ddydd i ddydd, yn hyfforddi eraill yn rheolaidd, neu'n rhoi cyngor adnoddau dynol sylfaenol.
+    "3": Yn rheoli grŵp o staff o ddydd i ddydd, yn addysgu hyfforddiant craidd neu arbenigol, neu'n rhoi cyngor adnoddau dynol craidd.
+    "4": Yn rheoli swyddogaeth neu adran yn llinell, yn cynllunio rhaglenni hyfforddi fel prif ddyletswydd, neu'n darparu ystod lawn o wasanaethau adnoddau dynol.
+    "5": Yn rheoli sawl adran yn llinell, neu'n rheoli hyfforddiant neu ran fawr o adnoddau dynol ar draws y sefydliad.
+    "6": Cyfrifoldeb corfforaethol am swyddogaeth pobl neu adnoddau dynol y sefydliad.
+information-resources:
+  name: Cyfrifoldeb am adnoddau gwybodaeth
+  description: Cyfrifoldeb am wybodaeth a systemau gwybodaeth, ar bapur neu'n ddigidol, gan gynnwys cofnodion, data, a'r systemau sy'n eu dal.
+  levels:
+    "1": Yn cofnodi gwybodaeth y mae deiliad y swydd yn ei chynhyrchu.
+    "2": Yn mewnbynnu neu'n storio data a gasglwyd gan eraill, neu'n ysgrifennu adroddiadau neu ymholiadau yn achlysurol.
+    "3": Yn cymryd cofnodion ffurfiol, yn ysgrifennu adroddiadau neu ymholiadau yn rheolaidd, neu'n cynnal systemau gwybodaeth fel dyletswydd sylweddol.
+    "4": Yn addasu neu'n dylunio systemau gwybodaeth i fanylebau pobl eraill, neu'n rhedeg systemau gwybodaeth ar gyfer adran fel y brif ddyletswydd.
+    "5": Yn dylunio ac yn datblygu systemau gwybodaeth mawr, neu'n rhedeg systemau gwybodaeth ar gyfer sawl gwasanaeth fel y brif ddyletswydd.
+    "6": Yn rheoli ac yn datblygu systemau gwybodaeth ar draws y sefydliad fel y brif ddyletswydd.
+    "7": Cyfrifoldeb corfforaethol am systemau gwybodaeth y sefydliad.
+research:
+  name: Cyfrifoldeb am ymchwil a datblygu
+  description: Cyfrifoldeb am ymchwil ffurfiol, datblygu, gwerthuso, archwiliadau, profi, a threialon.
+  levels:
+    "1": Yn cynnal arolygon neu archwiliadau ar gyfer ei waith ei hun; yn cymryd rhan mewn ymchwil neu brofi yn achlysurol.
+    "2": Yn gwneud ymchwil, datblygu, treialon, neu brofi offer a systemau yn rheolaidd fel rhan o'r swydd.
+    "3": Yn cynnal ymchwil neu ddatblygu o fewn rhaglenni ffurfiol fel prif ddyletswydd.
+    "4": Yn cydlynu ac yn cynnal rhaglenni ymchwil a datblygu.
+    "5": Yn cychwyn ac yn datblygu rhaglenni ymchwil a datblygu sy'n cefnogi amcanion y sefydliad.
+    "6": Yn cychwyn ac yn datblygu rhaglenni ymchwil a datblygu ag effeithiau y tu hwnt i'r sefydliad.
+freedom-to-act:
+  name: Rhyddid i weithredu
+  description: I ba raddau y mae deiliad y swydd yn penderfynu beth i'w wneud a sut, a pha mor agos y caiff ei waith ei oruchwylio.
+  levels:
+    "1": Yn gweithio o fewn gweithdrefnau penodol, gyda goruchwyliaeth gerllaw.
+    "2": Yn dilyn gweithdrefnau safonol a chynseiliau; mae rhywun ar gael i'w holi fel arfer; efallai y caiff y gwaith ei wirio.
+    "3": Yn dilyn polisïau a gweithdrefnau diffiniedig; caiff y gwaith ei reoli yn hytrach na'i oruchwylio.
+    "4": Mae'r canlyniadau wedi'u diffinio, ond deiliad y swydd sy'n penderfynu sut i'w cyflawni, o fewn polisi eang.
+    "5": Yn gweithio o fewn polisïau cyffredinol, ac yn y rhan fwyaf o achosion yn penderfynu sut i'w dehongli.
+    "6": Yn dehongli polisi a strategaeth gyffredinol i osod nodau a safonau.
+physical-effort:
+  name: Ymdrech gorfforol
+  description: Yr ymdrech gorfforol sydd ei hangen, gan ystyried pa mor aml, am ba hyd, a pha mor ddwys.
+  levels:
+    "1": Eistedd, sefyll, a cherdded, gydag ychydig o ymdrech gorfforol.
+    "2": Eistedd neu sefyll yn aml mewn safle cyfyngedig, neu ymdrech ysgafn i gymedrol yn achlysurol.
+    "3": Ymdrech ysgafn yn aml am gyfnodau hir, neu ymdrech gymedrol yn aml am gyfnodau byr.
+    "4": Ymdrech ysgafn barhaus, ymdrech gymedrol yn aml am gyfnodau hir, neu ymdrech ddwys yn achlysurol.
+    "5": Ymdrech gymedrol barhaus, neu ymdrech ddwys yn aml.
+mental-effort:
+  name: Ymdrech feddyliol
+  description: Y canolbwyntio sydd ei angen, gan ystyried pa mor aml, am ba hyd, a pha mor rhagweladwy yw'r gwaith.
+  levels:
+    "1": Sylw cyffredinol; canolbwyntio achlysurol ar waith rhagweladwy.
+    "2": Canolbwyntio'n aml ar waith rhagweladwy, neu ganolbwyntio achlysurol ar waith anrhagweladwy.
+    "3": Canolbwyntio'n aml ar waith anrhagweladwy, neu ganolbwyntio hir yn achlysurol.
+    "4": Canolbwyntio hir yn aml, neu ganolbwyntio dwys yn achlysurol.
+    "5": Canolbwyntio dwys yn aml.
+emotional-effort:
+  name: Ymdrech emosiynol
+  description: Gofynion emosiynol y swydd, o ddod i gysylltiad uniongyrchol neu anuniongyrchol ag amgylchiadau trallodus, fel darllen cofnodion achos trallodus neu ymdrin â digwyddiadau difrifol.
+  levels:
+    "1": Dod i gysylltiad prin, neu gysylltiad anuniongyrchol achlysurol, ag amgylchiadau trallodus.
+    "2": Dod i gysylltiad achlysurol, neu gysylltiad anuniongyrchol aml, ag amgylchiadau trallodus.
+    "3": Dod i gysylltiad aml ag amgylchiadau trallodus, neu gysylltiad achlysurol ag amgylchiadau trallodus iawn.
+    "4": Dod i gysylltiad achlysurol ag amgylchiadau trawmatig, neu gysylltiad aml ag amgylchiadau trallodus iawn.
+working-conditions:
+  name: Amodau gwaith
+  description: Dod i gysylltiad ag amodau annymunol neu beryglon. Mae defnyddio sgrin bron yn barhaus ar y rhan fwyaf o ddyddiau yn cyfrif ar lefel 2.
+  levels:
+    "1": Anaml y daw i gysylltiad ag amodau annymunol.
+    "2": Amodau annymunol yn achlysurol, teithio neu waith awyr agored yn aml, neu ddefnyddio sgrin bron yn barhaus ar y rhan fwyaf o ddyddiau.
+    "3": Amodau annymunol yn aml, neu amodau annymunol iawn yn achlysurol.
+    "4": Rhywfaint o gysylltiad â pheryglon, neu amodau annymunol iawn yn aml.
+    "5": Cysylltiad sylweddol â pheryglon.

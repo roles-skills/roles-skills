@@ -1,0 +1,51 @@
+summary: >
+  Mae uwch arweinwyr cyfreithiol yn sicrhau bod y sefydliad yn gweithredu'n gyfreithlon ac yn rheoli ei risg
+  gyfreithiol yn dda. Maen nhw'n arwain y tîm cyfreithiol mewnol, yn rheoli cynghorwyr cyfreithiol allanol, ac yn
+  cynghori'r bwrdd a'r tîm gweithredol ar faterion cyfreithiol mwyaf arwyddocaol y sefydliad. Mewn sefydliad gofal
+  iechyd digidol mae hyn yn cynnwys y sail gyfreithiol dros ddefnyddio data iechyd, contractau technoleg a data
+  mawr, eiddo deallusol mewn meddalwedd, a dyletswyddau statudol y sefydliad.
+health_context:
+  - Mae'r sefydliad yn gorff cyhoeddus neu'n gweithio gyda chyrff cyhoeddus, felly gellir herio ei benderfyniadau, ac mae'n rhaid iddo weithredu o fewn ei bwerau.
+  - Mae defnyddio data iechyd a gofal ar raddfa fawr, gan gynnwys ar gyfer deallusrwydd artiffisial ac ymchwil, yn cario risg gyfreithiol ac i enw da uchel.
+  - Mae contractau technoleg mawr yn hir, yn werthfawr, ac yn anodd eu gadael, felly mae eu telerau cyfreithiol yn llunio'r sefydliad am flynyddoedd.
+  - Mae arweinwyr cyfreithiol yn gweithio'n agos gyda'r bwrdd, y swyddog diogelu data, a chydweithwyr diogelwch clinigol a llywodraethiant gwybodaeth.
+levels:
+  - title: Dirprwy bennaeth gwasanaethau cyfreithiol
+    slug: dirprwy-bennaeth-gwasanaethau-cyfreithiol
+    summary: Mae dirprwy benaethiaid gwasanaethau cyfreithiol yn arwain maes mawr o'r swyddogaeth gyfreithiol, fel cyfraith masnach, technoleg, a data, ac yn dirprwyo ar ran pennaeth y gwasanaethau cyfreithiol.
+    responsibilities:
+      - Arwain maes mawr o waith cyfreithiol, fel cyfraith masnach, technoleg, a data, neu anghydfodau a chyflogaeth.
+      - Cynghori cyfarwyddwyr ar faterion risg uchel, gan gynnwys caffaeliadau mawr a rhaglenni data.
+      - Rheoli'r panel o gyfreithwyr allanol a'r gyllideb ar gyfer cyngor cyfreithiol allanol.
+      - Gosod safonau, templedi, a hyfforddiant cyfreithiol ar gyfer y sefydliad.
+      - Arwain a datblygu sawl tîm cyfreithiol neu arbenigwr.
+      - Dirprwyo ar ran pennaeth y gwasanaethau cyfreithiol.
+    qualifications:
+      - Cyfreithiwr cymwysedig sydd wedi'i dderbyn i ymarfer, gyda phrofiad helaeth ar ôl cymhwyso, gan gynnwys arwain tîm cyfreithiol.
+    job_evaluation_notes: Mae gwybodaeth ar lefel 8 am wybodaeth arbenigol ar draws sawl maes o'r gyfraith. Mae adnoddau gwybodaeth ar lefel 5 yn hytrach na 6, gan nad yw'r swydd yn rheoli systemau gwybodaeth ar draws y sefydliad.
+  - title: Pennaeth gwasanaethau cyfreithiol
+    slug: pennaeth-gwasanaethau-cyfreithiol
+    summary: Mae penaethiaid gwasanaethau cyfreithiol yn arwain swyddogaeth gyfreithiol y sefydliad, yn gosod ei ddull o ymdrin â risg gyfreithiol, ac yn cynghori'r tîm gweithredol a'r bwrdd.
+    responsibilities:
+      - Arwain y swyddogaeth gyfreithiol fewnol a'r defnydd o gyfreithwyr allanol.
+      - Cynghori'r tîm gweithredol a'r bwrdd ar risg gyfreithiol, dyletswyddau statudol, a phenderfyniadau mawr.
+      - Gosod parodrwydd y sefydliad i dderbyn risg gyfreithiol a'i safbwyntiau ar faterion allweddol, fel defnyddio data a chontractio.
+      - Arwain gwaith cyfreithiol ar y materion mwyaf arwyddocaol, fel anghydfodau mawr, ymchwiliadau cyhoeddus, a phartneriaethau.
+      - Dal y gyllideb ar gyfer gwasanaethau cyfreithiol a dangos gwerth am arian.
+      - Arwain a datblygu'r tîm cyfreithiol a gweithrediadau cyfreithiol.
+    qualifications:
+      - Cyfreithiwr cymwysedig sydd wedi'i dderbyn i ymarfer, gyda phrofiad uwch helaeth o arwain gwasanaethau cyfreithiol.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 4 gan fod y swydd yn dal y gyllideb gwasanaethau cyfreithiol, nid cyllidebau ar gyfer sawl gwasanaeth.
+  - title: Cwnsler cyffredinol
+    slug: cwnsler-cyffredinol
+    summary: Cwnsler cyffredinol yw uwch gyfreithiwr y sefydliad, gyda chyfrifoldeb corfforaethol am wasanaethau cyfreithiol a risg gyfreithiol, ac yn aml mae hefyd yn arwain llywodraethiant corfforaethol fel ysgrifennydd y bwrdd.
+    responsibilities:
+      - Dal cyfrifoldeb corfforaethol am faterion cyfreithiol a risg gyfreithiol y sefydliad.
+      - Cynghori'r bwrdd a'r cadeirydd ar bwerau, dyletswyddau, a llywodraethiant y sefydliad.
+      - Sicrhau bod strategaethau, partneriaethau, a rhaglenni data mawr yn gyfreithlon.
+      - Arwain yr ymateb i'r bygythiadau cyfreithiol mwyaf difrifol, fel adolygiadau barnwrol a chamau rheoleiddiol.
+      - Arwain gwasanaethau cyfreithiol, ac yn aml lywodraethiant corfforaethol ac ysgrifenyddiaeth y bwrdd.
+      - Cynrychioli'r sefydliad gyda rheoleiddwyr, partneriaid, a chyrff llywodraeth.
+    qualifications:
+      - Cyfreithiwr cymwysedig sydd wedi'i dderbyn i ymarfer, gyda phrofiad helaeth ar lefel weithredol neu fwrdd.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 4 gan fod y swydd yn dal y gyllideb ar gyfer gwasanaethau cyfreithiol a llywodraethiant, nid cyllid y sefydliad.

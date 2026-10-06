@@ -1,0 +1,67 @@
+summary: >
+  Mae gwybodegwyr clinigol yn glinigwyr cofrestredig, fel meddygon, nyrsys, fferyllwyr, a gweithwyr proffesiynol
+  perthynol i iechyd, sy'n defnyddio eu gwybodaeth glinigol i lunio gwasanaethau iechyd digidol y sefydliad. Maen
+  nhw'n sicrhau bod systemau clinigol, data, a chymorth penderfyniadau'n gweddu i'r ffordd y caiff gofal ei
+  ddarparu, yn ddiogel i'w defnyddio, ac yn gwella canlyniadau i gleifion a phrofiad clinigwyr a staff gofal.
+health_context:
+  - Mae angen gwybodaeth glinigol gyfredol ar y rôl, felly mae'r rhan fwyaf o swyddi'n gofyn am gofrestriad â chorff proffesiynol clinigol a rhywfaint o ymarfer clinigol parhaus.
+  - Mae gwybodegwyr clinigol yn rhoi cyngor arbenigol ar sut mae systemau'n effeithio ar ofal cleifion, felly mae eu barn yn effeithio'n uniongyrchol ar ddiogelwch cleifion.
+  - Maen nhw'n gweithio'n agos gyda swyddogion diogelwch clinigol, gan gyfrannu arbenigedd clinigol at nodi peryglon ac achosion diogelwch.
+  - Mae data clinigol da'n dibynnu ar ddefnydd cyson o derminolegau clinigol fel SNOMED CT, felly maen nhw'n helpu i ddylunio cofnodion strwythuredig a chymorth penderfyniadau.
+  - Maen nhw'n gweithredu fel pont rhwng clinigwyr, staff gofal, a thimau digidol, ac yn aml yn arwain ymgysylltu clinigol ar gyfer newidiadau i systemau.
+levels:
+  - title: Arbenigwr gwybodeg glinigol
+    slug: arbenigwr-gwybodeg-glinigol
+    summary: Yn dod ag arbenigedd clinigol i ddylunio, ffurfweddu, profi, a mabwysiadu systemau clinigol, gan weithio o fewn tîm cynnyrch neu raglen dan arweiniad uwch wybodegydd clinigol.
+    responsibilities:
+      - Mapio llifoedd gwaith clinigol gyda chlinigwyr a staff gofal a'u troi'n ofynion clir.
+      - Dylunio a phrofi cynnwys systemau fel ffurflenni, setiau archebion, a chynlluniau gofal yn erbyn senarios clinigol.
+      - Cymryd rhan mewn gweithdai peryglon a rhoi barn glinigol ar risgiau a mesurau rheoli.
+      - Cefnogi clinigwyr a staff gofal i fabwysiadu systemau newydd yn ddiogel, gan gynnwys hyfforddiant a chymorth mynd yn fyw.
+      - Gwirio bod data clinigol yn cael ei gofnodi'n gyson gan ddefnyddio terminolegau clinigol y cytunwyd arnynt.
+      - Casglu adborth a data ar ddefnydd systemau a chynnig gwelliannau.
+    qualifications:
+      - Cofrestriad cyfredol â chorff proffesiynol clinigol, gyda phrofiad o ymarfer clinigol.
+      - Profiad o ddefnyddio systemau clinigol mewn ymarfer, neu brofiad cyfatebol o newid digidol.
+    job_evaluation_notes: Caiff gofal cleifion ei sgorio ar lefel 4 gan fod y swydd yn cynghori ar ofal cleifion drwy ddylunio systemau clinigol. Mae ymdrech emosiynol yn adlewyrchu adolygu cofnodion clinigol a digwyddiadau'n rheolaidd.
+  - title: Uwch wybodegydd clinigol
+    slug: uwch-wybodegydd-clinigol
+    summary: Yn arwain y mewnbwn clinigol i system glinigol, cynnyrch, neu raglen fawr, gan roi cyngor arbenigol ar sut mae gwasanaethau digidol yn effeithio ar ofal a diogelwch cleifion.
+    responsibilities:
+      - Arwain dylunio clinigol ar gyfer system glinigol neu gynnyrch mawr, gan osod safonau cynnwys a ffurfweddu.
+      - Rhoi cyngor arbenigol i dimau cynnyrch ar lifoedd gwaith clinigol, cymorth penderfyniadau, a diogelwch.
+      - Gweithio gyda'r swyddog diogelwch clinigol i nodi peryglon, cytuno ar fesurau rheoli, a darparu tystiolaeth glinigol ar gyfer achosion diogelwch.
+      - Arwain ymgysylltu clinigol a mabwysiadu ar draws gwasanaethau, gan hyrwyddo defnydd diogel ymhlith cymheiriaid clinigol.
+      - Cynllunio a chynnal gwerthusiadau ac archwiliadau clinigol o ddefnydd a buddion systemau.
+      - Mentora arbenigwyr gwybodeg glinigol a chlinigwyr sy'n newydd i waith digidol.
+    qualifications:
+      - Cofrestriad cyfredol â chorff proffesiynol clinigol, gyda phrofiad clinigol sylweddol.
+      - Cymhwyster ôl-raddedig mewn gwybodeg glinigol neu iechyd, neu brofiad cyfatebol.
+    job_evaluation_notes: Caiff gofal cleifion ei sgorio ar lefel 5 am gyngor arbenigol ar ofal cleifion. Mae ymchwil ar lefel 3 gan fod gwerthuso ac archwilio clinigol o systemau'n rhan fawr o'r swydd.
+  - title: Gwybodegydd clinigol arweiniol
+    slug: gwybodegydd-clinigol-arweiniol
+    summary: Yn arwain gwybodeg glinigol ar gyfer portffolio o systemau clinigol neu leoliad gofal, gan osod safonau dylunio clinigol ac arwain tîm o wybodegwyr clinigol.
+    responsibilities:
+      - Gosod safonau ac egwyddorion dylunio clinigol ar gyfer systemau clinigol ar draws portffolio.
+      - Arwain tîm o wybodegwyr clinigol, gan osod blaenoriaethau a chefnogi eu datblygiad proffesiynol.
+      - Cynghori byrddau rhaglen ac uwch arweinwyr ar risg glinigol, buddion, a blaenoriaethau ar gyfer systemau clinigol.
+      - Arwain penderfyniadau clinigol ar gymorth penderfyniadau, rhybuddion, a data strwythuredig ar draws gwasanaethau.
+      - Meithrin rhwydweithiau o hyrwyddwyr clinigol ac arwain ymgysylltu clinigol ar gyfer newid ar raddfa fawr.
+      - Comisiynu ac arwain gwerthusiadau a defnyddio'r dystiolaeth i lunio'r map ffordd.
+    qualifications:
+      - Cofrestriad cyfredol â chorff proffesiynol clinigol, gyda phrofiad clinigol helaeth.
+      - Cymhwyster ôl-raddedig mewn gwybodeg glinigol neu iechyd, neu brofiad cyfatebol o arwain gwaith gwybodeg glinigol.
+  - title: Pennaeth gwybodeg glinigol
+    slug: pennaeth-gwybodeg-glinigol
+    summary: Yn arwain swyddogaeth gwybodeg glinigol y sefydliad a'i awdurdod dylunio clinigol, gan sicrhau bod pob system glinigol yn cael ei dylunio, ei mabwysiadu, a'i gwella gydag arweinyddiaeth glinigol gref.
+    responsibilities:
+      - Gosod y strategaeth gwybodeg glinigol ac arwain yr awdurdod dylunio clinigol ar gyfer y sefydliad.
+      - Arwain a datblygu'r swyddogaeth gwybodeg glinigol, gan gynnwys ei chynllun gweithlu a'i chyllideb.
+      - Rhoi cyngor arbenigol iawn i'r tîm gweithredol ar effaith buddsoddiad digidol ar ofal cleifion.
+      - Sicrhau bod systemau clinigol yn bodloni safonau diogelwch clinigol, terminoleg, a data.
+      - Cynrychioli'r sefydliad gyda phartneriaid iechyd a gofal, cyrff proffesiynol, a rhwydweithiau academaidd.
+      - Arwain partneriaethau ymchwil a gwerthuso i adeiladu'r dystiolaeth ar gyfer iechyd digidol.
+    qualifications:
+      - Cofrestriad cyfredol â chorff proffesiynol clinigol, gyda phrofiad clinigol ac arweinyddiaeth helaeth.
+      - Gradd meistr mewn gwybodeg glinigol neu iechyd, neu brofiad cyfatebol o arwain gwybodeg glinigol ar lefel sefydliad.
+    job_evaluation_notes: Caiff gofal cleifion ei sgorio ar lefel 6 am gyngor arbenigol iawn ar ofal cleifion ar draws systemau clinigol y sefydliad.

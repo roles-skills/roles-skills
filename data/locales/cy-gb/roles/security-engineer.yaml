@@ -1,0 +1,52 @@
+summary: >
+  Mae peirianwyr diogelwch yn dylunio, yn adeiladu, ac yn rhedeg y mesurau rheoli diogelwch technegol sy'n
+  diogelu systemau, data, a defnyddwyr y sefydliad. Maen nhw'n gweithio ar hunaniaeth a mynediad, diogelu
+  dyfeisiau a rhwydweithiau, amgryptio, logio, a diogelwch cwmwl, ac yn helpu timau cynnyrch a seilwaith i
+  gynnwys diogelwch. Mewn gofal iechyd, maen nhw'n diogelu systemau clinigol a data cleifion gan gadw mynediad yn
+  gyflym i glinigwyr yn y man gofal.
+health_context:
+  - Rhaid i fesurau rheoli diogelwch beidio ag amharu ar ofal brys, felly mae peirianwyr yn dylunio dilysu cryf sy'n dal i weithio'n gyflym ar weithfannau clinigol a rennir.
+  - Yn aml ni ellir patsio dyfeisiau meddygol a systemau clinigol etifeddol na rhedeg meddalwedd ddiogelwch arnynt, felly mae peirianwyr yn dylunio segmentu rhwydwaith a mesurau rheoli cydadferol.
+  - Mae meddalwedd wystlo'n fygythiad mawr i ofal iechyd, felly mae peirianwyr yn caledu systemau, yn diogelu copïau wrth gefn, ac yn cyfyngu ar ba mor bell y gall ymosodiad ledaenu.
+  - Caiff systemau clinigol yn aml eu cyflenwi a'u cefnogi gan drydydd partïon, felly mae peirianwyr yn asesu diogelwch cyflenwyr ac yn rheoli eu mynediad o bell.
+  - Mae newidiadau i fesurau rheoli diogelwch ar systemau clinigol yn mynd drwy reoli newid a, lle bo angen, adolygiad diogelwch clinigol.
+levels:
+  - title: Peiriannydd diogelwch
+    slug: peiriannydd-diogelwch
+    summary: Mae peiriannydd diogelwch yn adeiladu, yn ffurfweddu, ac yn cynnal mesurau rheoli ac offer diogelwch, ac yn helpu timau i drwsio gwendidau diogelwch.
+    responsibilities:
+      - Adeiladu a chynnal mesurau rheoli diogelwch, fel diogelu dyfeisiau, waliau tân, diogelwch e-bost, a logio diogelwch.
+      - Ffurfweddu mesurau rheoli hunaniaeth a mynediad, gan gynnwys dilysu aml-ffactor a mynediad breintiedig.
+      - Helpu timau seilwaith a chynnyrch i drwsio gwendidau a chaledu systemau i safonau y cytunwyd arnynt.
+      - Segmentu rhwydweithiau i ddiogelu dyfeisiau meddygol a systemau etifeddol, gan weithio gyda thimau seilwaith a pheirianneg glinigol.
+      - Adolygu diogelwch systemau newydd a mynediad o bell cyflenwyr cyn iddynt fynd yn fyw.
+      - Cymryd rhan yn y rota ar alwad i gefnogi ymateb i ddigwyddiadau diogelwch.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu seiberddiogelwch, ardystiadau diogelwch perthnasol, neu brofiad cyfatebol.
+      - Profiad o adeiladu neu redeg seilwaith neu offer diogelwch.
+    job_evaluation_notes: Mae ymdrech feddyliol yn adlewyrchu canolbwyntio hir aml ar waith technegol cymhleth a chymorth digwyddiadau, gan gynnwys ar alwad.
+  - title: Uwch beiriannydd diogelwch
+    slug: uwch-beiriannydd-diogelwch
+    summary: Mae uwch beiriannydd diogelwch yn dylunio ac yn arwain y gwaith o ddarparu mesurau rheoli diogelwch arwyddocaol, ac yn cynghori timau ar ddylunio diogel.
+    responsibilities:
+      - Dylunio ac arwain y gwaith o ddarparu mesurau rheoli diogelwch, fel rheoli mynediad breintiedig, monitro diogelwch, a diogelu copïau wrth gefn.
+      - Cynghori timau cynnyrch a seilwaith ar ddylunio diogel ar gyfer gwasanaethau clinigol a gwasanaethau i gleifion.
+      - Dylunio mesurau rheoli cydadferol ar gyfer dyfeisiau meddygol a systemau eraill na ellir eu patsio.
+      - Asesu diogelwch cyflenwyr a'u cynhyrchion, gan gynnwys gwasanaethau cwmwl.
+      - Cefnogi'r ymateb i ddigwyddiadau diogelwch difrifol gydag arbenigedd technegol a chynlluniau adfer.
+      - Hyfforddi peirianwyr diogelwch a rhannu arfer da ar draws timau.
+    qualifications:
+      - Profiad sylweddol o beirianneg diogelwch, ar lefel sy'n cyfateb i ddiploma ôl-raddedig.
+      - Ardystiadau diogelwch uwch perthnasol, neu brofiad cyfatebol.
+  - title: Peiriannydd diogelwch arweiniol
+    slug: peiriannydd-diogelwch-arweiniol
+    summary: Mae peiriannydd diogelwch arweiniol yn gosod y cyfeiriad technegol ar gyfer peirianneg diogelwch, ac yn sicrhau bod mesurau rheoli'n gweithio gyda'i gilydd ar draws y sefydliad.
+    responsibilities:
+      - Gosod y cyfeiriad technegol a'r safonau ar gyfer mesurau rheoli diogelwch ar draws y sefydliad.
+      - Arwain y dyluniad diogelwch ar gyfer rhaglenni mawr, fel symud i letya cwmwl neu gofnod cleifion electronig newydd.
+      - Sicrhau bod mesurau rheoli'n diogelu rhag meddalwedd wystlo ac yn cefnogi adfer systemau clinigol yn gyflym ac yn ddiogel.
+      - Cydbwyso diogelwch â defnyddioldeb clinigol, gan weithio gydag arweinwyr clinigol ar fynediad a dilysu.
+      - Cynghori'r rheolwr seiberddiogelwch ar risg dechnegol a buddsoddiad.
+      - Arwain a datblygu peirianwyr diogelwch.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg diogelwch ar gyfer gwasanaethau cymhleth.

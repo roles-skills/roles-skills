@@ -1,0 +1,54 @@
+summary: >
+  Mae peirianwyr profi'n adeiladu'r profion awtomataidd, yr offer, a'r fframweithiau sy'n galluogi timau i brofi
+  gwasanaethau iechyd digidol y sefydliad yn gyflym ac yn aml. Maen nhw'n ysgrifennu cod i brofi swyddogaethau,
+  integreiddiadau, perfformiad, diogelwch, a gwydnwch, ac yn adeiladu profi i mewn i bibellau cyflawni, fel y gellir
+  rhyddhau newidiadau i systemau clinigol a systemau i gleifion yn ddiogel.
+health_context:
+  - Mae systemau clinigol yn hanfodol i ddiogelwch, felly mae profion atchwel awtomataidd yn diogelu'r mesurau rheoli diogelwch a gofnodir mewn logiau peryglon ac yn cael eu cadw fel tystiolaeth ar gyfer achosion diogelwch.
+  - Mae angen profion awtomataidd ar integreiddiadau â systemau iechyd a gofal eraill yn erbyn safonau fel HL7 FHIR a HL7 fersiwn 2, yn aml gan ddefnyddio systemau partner efelychiedig.
+  - Mae gwasanaethau clinigol yn rhedeg drwy'r dydd a'r nos ac yn cyrraedd eu hanterth ar adegau rhagweladwy, felly mae profi perfformiad a gwydnwch yn modelu galw clinigol go iawn.
+  - Rhaid i amgylcheddau profi beidio â dal data cleifion go iawn, felly mae peirianwyr yn cynhyrchu data synthetig realistig, gan gynnwys achosion clinigol prin ac ymylol.
+  - Mae angen profi y gellir ei olrhain a'i ailadrodd ar feddalwedd a reoleiddir fel dyfais feddygol fel rhan o'i chylch bywyd dan safonau fel IEC 62304.
+levels:
+  - title: Peiriannydd profi cyswllt
+    slug: peiriannydd-profi-cyswllt
+    responsibilities:
+      - Ysgrifennu a chynnal profion awtomataidd syml dan oruchwyliaeth, gan ddilyn safonau peirianneg y tîm.
+      - Rhedeg profion awtomataidd a llaw a chofnodi canlyniadau'n gywir.
+      - Helpu i ymchwilio i ddiffygion ac adrodd arnynt, gan gynnwys mewn integreiddiadau â systemau clinigol.
+      - Defnyddio data profi synthetig a dilyn rheolau llywodraethiant gwybodaeth mewn amgylcheddau profi.
+      - Dysgu offer profi, arferion cod, a phroses diogelwch clinigol y tîm.
+    qualifications:
+      - Rhywfaint o brofiad o godio neu brofi, neu gofrestriad ar brentisiaeth berthnasol, neu gyfatebol.
+  - title: Peiriannydd profi
+    slug: peiriannydd-profi
+    responsibilities:
+      - Dylunio ac adeiladu profion swyddogaethol, integreiddio, ac API awtomataidd ar gyfer gwasanaethau clinigol a gwasanaethau i gleifion.
+      - Adeiladu profion sy'n gwirio negeseuon yn erbyn proffiliau HL7 FHIR a manylebau rhyngweithredu eraill.
+      - Cynhyrchu data cleifion synthetig sy'n cwmpasu achosion clinigol realistig ac ymylol.
+      - Ychwanegu profion at bibellau cyflawni fel bod gwiriadau sy'n ymwneud â diogelwch yn rhedeg ar bob newid.
+      - Amcangyfrif ymdrech brofi, adrodd ar ganlyniadau, a chefnogi datrys diffygion.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu bwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad o adeiladu profion awtomataidd.
+  - title: Uwch beiriannydd profi
+    slug: uwch-beiriannydd-profi
+    responsibilities:
+      - Arwain peirianneg profi ar gyfer maes, gan ddewis offer, fframweithiau, a mathau o brofion sy'n mynd i'r afael â'i risgiau'n gynnar.
+      - Adeiladu fframweithiau profi ac efelychwyr y gellir eu hailddefnyddio ar gyfer systemau clinigol ac integreiddiadau partner.
+      - Cynllunio a rhedeg profion perfformiad, llwyth, a gwydnwch yn seiliedig ar alw clinigol go iawn.
+      - Sicrhau bod profion awtomataidd yn olrhain i beryglon a mesurau rheoli diogelwch ac yn cynhyrchu tystiolaeth ar gyfer achosion diogelwch.
+      - Hyfforddi ac arwain peirianwyr profi eraill, a chytuno ar safonau peirianneg gyda datblygwyr.
+    qualifications:
+      - Profiad sylweddol o beirianneg profi, ar lefel sy'n cyfateb i radd meistr.
+  - title: Peiriannydd profi arweiniol
+    slug: peiriannydd-profi-arweiniol
+    responsibilities:
+      - Gosod y strategaeth a'r safonau peirianneg profi ar draws maes eang, gan gynnwys profi parhaus mewn pibellau cyflawni.
+      - Arwain a chyfarwyddo peirianwyr profi a thimau mewn arferion peirianneg ansawdd.
+      - Sicrhau bod profi meddalwedd reoleiddiedig a meddalwedd sy'n hanfodol i ddiogelwch yn bodloni'r safonau gofynnol ac y gellir ei olrhain.
+      - Uwchgyfeirio risgiau ansawdd a diogelwch i uwch arweinwyr cynnyrch, clinigol, a chyflenwyr.
+      - Dod o hyd i gyfleoedd i brofi'n gynharach ac yn amlach, a mesur yr effaith ar ansawdd.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg profi ar gyfer gwasanaethau cymhleth.
+    job_evaluation_notes: Mae UK GDaD PCF yn awgrymu SEO i G6 ar gyfer y lefel hon, sy'n mapio i Fand 7, yr un band â'r uwch beiriannydd profi. Mae'r cyfeirlyfr hwn yn ei rhoi ar Fand 8a, gan ei bod yn gosod strategaeth a safonau peirianneg profi ar draws maes eang.

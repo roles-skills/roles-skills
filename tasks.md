@@ -123,6 +123,14 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Set up Sveltia CMS authentication for the GitHub backend
 - [x] First publish: `make github-pages` (live at https://roles-skills.github.io)
 
+## 10a. Locales
+
+- [x] Locale routing in the website: the URL carries the locale, the picker follows the URL, hreflang alternates, per-locale slugs
+- [x] Translation overlays in `data/locales/<code>/`, built into `exports/locales/` and `locales/`
+- [x] cy-gb (Cymraeg): all 73 roles, 93 skills, bands, job evaluation, and interface strings, with TermCymru terminology
+- [ ] Native speaker review of cy-gb
+- [ ] Next locales, in the order in `spec/locales/locales-by-priority.md`
+
 ## 11. Validation and release
 
 - [x] Run the validator, and fix any failures

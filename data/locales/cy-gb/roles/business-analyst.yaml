@@ -1,0 +1,74 @@
+summary: >
+  Mae dadansoddwyr busnes yn helpu'r sefydliad i ddeall problemau mewn gwasanaethau iechyd a gofal a dod o hyd
+  i'r newidiadau cywir i'w datrys. Maen nhw'n dadansoddi sut mae prosesau clinigol, gweinyddol, ac i gleifion yn
+  gweithio heddiw, yn diffinio anghenion a gofynion defnyddwyr a busnes, ac yn helpu timau i sicrhau bod
+  gwasanaethau digidol newydd yn ffitio llwybrau gofal go iawn ac yn sicrhau buddion mesuradwy.
+health_context:
+  - Mae prosesau'n croesi ffiniau sefydliadol a phroffesiynol, felly mae dadansoddwyr yn mapio llwybrau gofal cyfan, gan gynnwys trosglwyddiadau rhwng clinigwyr, staff gofal, cleifion, a sefydliadau eraill.
+  - Mae gofynion yn aml yn cario risg glinigol, felly mae dadansoddwyr yn gweithio gyda swyddogion diogelwch clinigol i sicrhau bod gofynion sy'n ymwneud â diogelwch yn cael eu cofnodi, eu holrhain, a'u profi.
+  - Mae llawer o ofynion yn ymwneud â rhannu data iechyd rhwng systemau, felly mae angen i ddadansoddwyr ddeall safonau rhyngweithredu fel HL7 FHIR a therminolegau clinigol fel SNOMED CT yn ymarferol.
+  - Mae buddion mewn gofal yn aml yn ymwneud â diogelwch, ansawdd, amser staff, a phrofiad cleifion, nid cost yn unig, felly mae dadansoddwyr yn helpu i ddiffinio mesurau y mae clinigwyr yn eu hadnabod.
+levels:
+  - title: Dadansoddwr busnes dan hyfforddiant
+    slug: dadansoddwr-busnes-dan-hyfforddiant
+    responsibilities:
+      - Dysgu technegau dadansoddi busnes drwy hyfforddiant strwythuredig, cysgodi, a gwaith dan oruchwyliaeth.
+      - Cofnodi nodiadau a drafftio mapiau prosesau o weithdai gyda staff clinigol a gweinyddol.
+      - Cynnal logiau gofynion, straeon defnyddwyr, a chofnodion olrhain dan gyfarwyddyd.
+      - Helpu i baratoi senarios prawf ar gyfer profi derbynioldeb i'r cwsmer (UAT).
+      - Dilyn rheolau llywodraethiant gwybodaeth wrth drin dogfennau sy'n cynnwys gwybodaeth am gleifion.
+    qualifications:
+      - Yn gweithio tuag at brentisiaeth neu gymhwyster dadansoddi busnes, neu brofiad cyfatebol.
+  - title: Dadansoddwr busnes iau
+    slug: dadansoddwr-busnes-iau
+    responsibilities:
+      - Mapio prosesau presennol a dyfodol ar gyfer llifoedd gwaith clinigol a gweinyddol, fel atgyfeiriadau, apwyntiadau, neu drin canlyniadau.
+      - Casglu ac ysgrifennu gofynion a straeon defnyddwyr ar gyfer darnau o waith sydd wedi'u diffinio'n dda.
+      - Casglu data ar berfformiad prosesau, fel amseroedd aros neu ffyrdd o weithio o amgylch problemau, i gefnogi dadansoddi.
+      - Paratoi a rhedeg senarios profi derbynioldeb i'r cwsmer (UAT) gyda defnyddwyr clinigol a gweithredol.
+      - Tynnu sylw'r tîm a'r swyddog diogelwch clinigol at ofynion a allai effeithio ar ddiogelwch cleifion.
+    qualifications:
+      - Gradd, cymhwyster neu brentisiaeth dadansoddi busnes, neu brofiad cyfatebol.
+  - title: Dadansoddwr busnes
+    slug: dadansoddwr-busnes
+    responsibilities:
+      - Arwain y dadansoddi ar gyfer prosiectau bach a chanolig, o ddiffinio'r broblem i fesur buddion.
+      - Rhedeg gweithdai gyda chlinigwyr, staff gofal, a rheolwyr i ddeall pwyntiau poen a chytuno ar opsiynau.
+      - Modelu llwybrau gofal a llifoedd gwybodaeth, gan gynnwys data a gyfnewidir â systemau iechyd a gofal eraill.
+      - Diffinio gofynion sy'n ymwneud â diogelwch a data, a'u holrhain drwy ddylunio, adeiladu, a phrofi.
+      - Llunio achosion buddion gyda mesurau fel amser staff a ryddhawyd, gwallau a osgowyd, neu brofiad cleifion.
+      - Mentora dadansoddwyr busnes iau a dan hyfforddiant.
+    qualifications:
+      - Gradd neu gymhwyster dadansoddi busnes cydnabyddedig, neu brofiad cyfatebol.
+      - Profiad o ddadansoddi busnes ar brosiectau newid digidol.
+  - title: Uwch ddadansoddwr busnes
+    slug: uwch-ddadansoddwr-busnes
+    responsibilities:
+      - Arwain dadansoddi busnes ar raglenni mawr neu gymhleth, fel disodli system glinigol neu ailddylunio llwybr gofal.
+      - Dadansoddi opsiynau a'u heffaith ar ofal, diogelwch, llwyth gwaith staff, a chost, a chyflwyno argymhellion i fyrddau.
+      - Sicrhau bod risg glinigol, llywodraethiant gwybodaeth, ac effeithiau cydraddoldeb yn cael eu dadansoddi a mynd i'r afael â nhw mewn gofynion.
+      - Diffinio ac olrhain buddion newid, a sefydlu sut y byddant yn cael eu mesur ar ôl mynd yn fyw.
+      - Rheoli neu arwain dadansoddwyr busnes yn llinell a rhedeg gweithgareddau cymuned ymarfer.
+    qualifications:
+      - Profiad sylweddol o ddadansoddi busnes ar newid cymhleth, ar lefel sy'n cyfateb i radd meistr.
+  - title: Dadansoddwr busnes arweiniol
+    slug: dadansoddwr-busnes-arweiniol
+    responsibilities:
+      - Arwain dadansoddi ar gyfer problemau cymhleth iawn sy'n rhychwantu sawl cynnyrch, gwasanaeth, neu sefydliad mewn system ofal.
+      - Llunio'r achos busnes a'r cynllun gwireddu buddion ar gyfer buddsoddiadau mawr.
+      - Gosod safonau dadansoddi busnes, fel olrhain gofynion ar gyfer meddalwedd sy'n ymwneud â diogelwch ac a reoleiddir.
+      - Gweithio gydag arweinwyr clinigol, penseiri, a rheolwyr cynnyrch i alinio dadansoddi â strategaeth y sefydliad.
+      - Rheoli dadansoddwyr busnes yn llinell ac arwain eu datblygiad proffesiynol.
+    qualifications:
+      - Profiad helaeth o arwain dadansoddi busnes ar draws newid cymhleth aml-dîm.
+  - title: Pennaeth dadansoddi busnes
+    slug: pennaeth-dadansoddi-busnes
+    responsibilities:
+      - Arwain y swyddogaeth dadansoddi busnes a gosod ei strategaeth, ei safonau, a'i ffyrdd o weithio.
+      - Meithrin gallu dadansoddi busnes, gan gynnwys recriwtio, llwybrau gyrfa, a hyfforddiant.
+      - Cynghori arweinwyr gweithredol a chlinigol ar y dadansoddi sydd ei angen ar gyfer trawsnewid iechyd a gofal mawr.
+      - Sicrhau bod gwireddu buddion yn cael ei gynllunio, ei fesur, a'i adrodd ar draws y portffolio.
+      - Rheoli cyllideb a chynllun gweithlu'r swyddogaeth.
+    qualifications:
+      - Profiad helaeth o arwain swyddogaeth neu ymarfer dadansoddi busnes.
+    job_evaluation_notes: Caiff adnoddau gwybodaeth eu sgorio ar lefel 6 gan fod pennaeth dadansoddi busnes yn berchen ar y safonau ar draws y sefydliad ar gyfer sut mae gofynion, modelau prosesau, a chofnodion buddion yn cael eu cadw ar draws pob gwaith newid.

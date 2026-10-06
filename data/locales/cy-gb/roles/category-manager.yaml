@@ -1,0 +1,58 @@
+summary: >
+  Mae rheolwyr categori'n cynllunio ac yn rheoli categori o wariant y sefydliad, fel meddalwedd a chwmwl,
+  gwasanaethau technoleg, dyfeisiau, neu systemau clinigol, dros sawl blwyddyn. Maen nhw'n cyfuno galw, yn deall y
+  farchnad gyflenwi, yn llunio gofynion gydag arweinwyr digidol a chlinigol, ac yn cynllunio caffaeliadau ac
+  adnewyddiadau fel bod y sefydliad yn cael gwerth am arian, yn osgoi cael ei gloi i mewn, ac yn cadw ei
+  wasanaethau'n ddiogel ac yn rhedeg.
+health_context:
+  - Mae technoleg yn un o feysydd gwariant mwyaf y sefydliad sy'n tyfu gyflymaf, ac mae llawer ohono'n danysgrifiadau sy'n adnewyddu bob blwyddyn.
+  - Mae systemau clinigol yn anodd eu disodli, felly mae cynlluniau categori'n dechrau'n gynnar, yn profi'r farchnad, ac yn cynllunio ar gyfer y gallu i ryngweithredu a hygludedd data i gadw cystadleuaeth yn y dyfodol yn bosibl.
+  - Mae'n rhaid i gontractau cwmwl a meddalwedd fodloni gofynion diogelwch, diogelu data, a lleoliad data ar gyfer data iechyd.
+  - Mae rheolau caffael cyhoeddus yn berthnasol, a chaiff llawer o gategorïau eu prynu drwy fframweithiau'r sector cyhoeddus, felly mae rheolwyr categori'n dewis y llwybr cywir ar gyfer pob angen.
+  - Mae strategaethau categori'n cynnwys gwerth cymdeithasol a lleihau carbon, fel ailddefnyddio dyfeisiau a chanolfannau data gwyrddach.
+levels:
+  - title: Rheolwr categori (digidol a thechnoleg)
+    slug: rheolwr-categori-digidol-a-thechnoleg
+    summary: Yn rheoli categori o wariant digidol a thechnoleg, fel meddalwedd, cwmwl, dyfeisiau, neu wasanaethau technoleg, gyda strategaeth categori y cytunwyd arni gydag arweinwyr digidol.
+    responsibilities:
+      - Ysgrifennu a chyflawni'r strategaeth categori ar gyfer gwariant digidol a thechnoleg, gyda deiliaid cyllidebau ac arweinwyr technegol.
+      - Dadansoddi gwariant, contractau, trwyddedau, ac adnewyddiadau ar draws y categori, a chynllunio'r gyfres o gaffaeliadau sydd ar y gweill.
+      - Arwain y caffaeliadau mwyaf cymhleth yn y categori, fel llwyfannau cwmwl a systemau clinigol.
+      - Dadansoddi marchnadoedd cyflenwi ac arwain ymgysylltu cynnar â'r farchnad.
+      - Negodi modelau masnachol, fel trwyddedau menter a phrisio yn seiliedig ar ddefnydd, ac olrhain arbedion a gwerth.
+      - Sicrhau bod contractau'n cynnwys telerau gallu i ryngweithredu, perchnogaeth data, ymadael, a dychwelyd data sy'n osgoi cael eich cloi i mewn.
+      - Adrodd ar berfformiad, risgiau, ac arbedion y categori i bennaeth caffael ac arweinwyr digidol.
+      - Hyfforddi a goruchwylio swyddogion caffael a phrynwyr sy'n gweithio yn y categori.
+    qualifications:
+      - Cymhwyster proffesiynol caffael cydnabyddedig ar lefel uwch, neu radd meistr mewn pwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad sylweddol o brynu gwasanaethau digidol a thechnoleg.
+    job_evaluation_notes: Mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8a. Caiff gwybodaeth, dadansoddi, a rhyddid i weithredu eu sgorio ar broffil Band 8a gan fod y swydd yn arwain y caffaeliadau technoleg mwyaf cymhleth yn y categori. Mae adnoddau ariannol ar lefel 4 gan fod y swydd yn gosod sut y caiff categori mawr o wariant y sefydliad ei brynu; mae ymchwil ar lefel 2 am ddadansoddi'r farchnad yn rheolaidd.
+  - title: Uwch reolwr categori
+    slug: uwch-reolwr-categori
+    summary: Yn rheoli sawl categori, neu gategori mwyaf a mwyaf peryglus y sefydliad, ac yn arwain prynu cydweithredol gyda sefydliadau eraill.
+    responsibilities:
+      - Arwain strategaethau categori ar gyfer sawl categori, neu ar gyfer systemau technoleg a chlinigol strategol.
+      - Arwain caffaeliadau a negodiadau gwerth uchel a risg uchel, gan gynnwys llwyfannau strategol a chytundebau menter.
+      - Arwain caffaeliadau cydweithredol gyda sefydliadau iechyd a gofal eraill.
+      - Cynghori arweinwyr digidol a chlinigol ar risgiau a chostau masnachol dewisiadau technoleg.
+      - Gosod nodau gwerth cymdeithasol a chynaliadwyedd ar gyfer y categorïau rydych yn eu harwain.
+      - Rheoli a datblygu rheolwyr categori a swyddogion caffael yn llinell.
+    qualifications:
+      - Cymhwyster proffesiynol caffael cydnabyddedig ar lefel uwch, neu radd meistr mewn pwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad helaeth o reoli categorïau a chaffael technoleg cymhleth.
+    job_evaluation_notes: Mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8b. Mae cynllunio ar lefel 5 am strategaethau categori aml-flwyddyn, mae adnoddau ariannol ar lefel 5 gan fod y swydd yn gosod sut y caiff gwariant ei brynu ar draws sawl categori a gwasanaeth, ac mae pobl ar lefel 4 gan ei bod yn rheoli rheolwyr categori'n llinell.
+  - title: Pennaeth categori
+    slug: pennaeth-categori
+    summary: Yn arwain rheoli categorïau ar draws gwariant y sefydliad, gan osod y dull categori a rheoli'r tîm categori.
+    responsibilities:
+      - Gosod y dull rheoli categorïau a'r gyfres o gaffaeliadau ar draws y sefydliad.
+      - Arwain a rheoli rheolwyr categori a'u timau.
+      - Sicrhau bod strategaethau categori'n cefnogi cynlluniau digidol, clinigol, ac ariannol y sefydliad.
+      - Adrodd ar arbedion, gwerth am arian, gwerth cymdeithasol, a risgiau masnachol i bwyllgorau gweithredol.
+      - Arwain perthnasoedd â sefydliadau prynu'r sector cyhoeddus a darparwyr fframweithiau.
+      - Dal y gyllideb ar gyfer y tîm categori.
+      - Cynghori cyfarwyddwyr gweithredol ar flaenoriaethau categori a risgiau masnachol buddsoddiadau mawr.
+    qualifications:
+      - Cymhwyster proffesiynol caffael cydnabyddedig ar lefel uwch, neu radd meistr mewn pwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad helaeth o arwain timau categori.
+    job_evaluation_notes: Mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8c. Mae cyfathrebu ar lefel 6 am negodiadau dadleuol iawn ac adrodd i'r tîm gweithredol; mae polisi ar lefel 5 a rhyddid i weithredu ar lefel 6 gan fod y swydd yn gosod y dull rheoli categorïau ar gyfer y sefydliad cyfan. Mae adnoddau ariannol ar lefel 5 gan fod y swydd yn gosod sut y caiff gwariant ei brynu ar draws sawl gwasanaeth.

@@ -1,0 +1,70 @@
+summary: >
+  Mae peirianwyr gweithrediadau cymwysiadau'n cadw cymwysiadau'r sefydliad i redeg mewn defnydd byw, gan gynnwys
+  systemau clinigol fel y cofnod electronig am gleifion a systemau presgripsiynu, labordy, a delweddu. Maen nhw'n
+  monitro cymwysiadau, yn rhedeg swyddi wedi'u hamserlennu, yn rheoli defnyddwyr a mynediad, yn defnyddio
+  rhyddhadau ac atgyweiriadau, ac yn gweithio gyda chyflenwyr i ddatrys diffygion. Mae eu gwaith yn galluogi staff
+  clinigol a chorfforaethol i ddibynnu ar y systemau hyn ar bob awr o'r dydd.
+health_context:
+  - Mae cymwysiadau clinigol yn rhedeg 24 awr y dydd, felly mae peirianwyr yn cymryd rhan mewn rotâu ar alwad ac yn cynllunio cynnal a chadw ar gyfer y cyfnodau clinigol tawelaf.
+  - Gall swyddi wedi'u hamserlennu a rhyngwynebau sy'n methu oedi canlyniadau profion, atgyfeiriadau, neu lythyrau rhyddhau, felly mae peirianwyr yn eu gwylio'n ofalus ac yn uwchgyfeirio'n gyflym.
+  - Mae angen trefniadau parhad busnes ar amser segur wedi'i gynllunio a heb ei gynllunio, fel copïau darllen yn unig ac adroddiadau amser segur, fel y gall clinigwyr barhau i drin cleifion.
+  - Caiff llawer o gymwysiadau clinigol eu cyflenwi a'u lletya gan drydydd partïon, felly mae peirianwyr yn rheoli cyflenwyr a'u newidiadau'n ofalus.
+  - Mae newidiadau i gymwysiadau clinigol yn dilyn y broses rheoli risg glinigol, a gall rhai cymwysiadau gael eu rheoleiddio fel dyfeisiau meddygol.
+levels:
+  - title: Peiriannydd gweithrediadau cymwysiadau cyswllt
+    slug: peiriannydd-gweithrediadau-cymwysiadau-cyswllt
+    responsibilities:
+      - Monitro cymwysiadau, rhyngwynebau, a swyddi wedi'u hamserlennu, a rhoi gwybod am fethiannau i beirianwyr profiadol.
+      - Creu a newid cyfrifon defnyddwyr a mynediad mewn cymwysiadau, gan ddilyn rheolau mynediad yn seiliedig ar rôl.
+      - Cynnal gwiriadau arferol a thasgau cynnal a chadw gan ddefnyddio llyfrau rhedeg.
+      - Cofnodi digwyddiadau a newidiadau'n gywir yn yr offeryn rheoli gwasanaethau.
+      - Gweithio tuag at brentisiaeth TG neu gymhwyster cyfatebol.
+    qualifications:
+      - Wedi cofrestru ar brentisiaeth TG neu gyfatebol, neu'n gweithio tuag ati.
+    job_evaluation_notes: Caiff gwybodaeth ei sgorio ar y lefel sydd ei hangen ar y swydd unwaith y bydd yr hyfforddiant yn ddigon cyflawn i wneud y gwaith.
+  - title: Peiriannydd gweithrediadau cymwysiadau
+    slug: peiriannydd-gweithrediadau-cymwysiadau
+    responsibilities:
+      - Monitro cymwysiadau clinigol a chorfforaethol a'u rhyngwynebau, a gweithredu ar rybuddion a swyddi sydd wedi methu cyn iddynt effeithio ar ofal cleifion.
+      - Rhedeg a gwirio swyddi wedi'u hamserlennu, fel llwythi data dros nos a chiwiau rhyngwynebau, a datrys neu uwchgyfeirio methiannau.
+      - Rheoli defnyddwyr, rolau, a mynediad cymwysiadau, gan gynnwys dileu mynediad ymadawyr a chefnogi adolygiadau mynediad.
+      - Cynhyrchu a phrofi adroddiadau amser segur ac allbynnau parhad busnes eraill ar gyfer cymwysiadau clinigol.
+      - Cofnodi diffygion gyda chyflenwyr a'u holrhain hyd nes eu datrys.
+      - Cymryd rhan yn y rota ar alwad, gydag arweiniad, ar gyfer diffygion cymwysiadau y tu allan i oriau.
+    qualifications:
+      - Cymhwyster mewn TG, prentisiaeth wedi'i chwblhau, neu brofiad cyfatebol.
+      - Profiad o gefnogi cymwysiadau busnes neu glinigol.
+  - title: Uwch beiriannydd gweithrediadau cymwysiadau
+    slug: uwch-beiriannydd-gweithrediadau-cymwysiadau
+    responsibilities:
+      - Defnyddio rhyddhadau, patsys, a newidiadau ffurfweddiad i gymwysiadau byw, gan ddilyn gweithdrefnau newid a diogelwch clinigol.
+      - Cydlynu'r gwaith technegol i fynd â chymwysiadau newydd ac uwchraddiadau mawr yn fyw, gan gynnwys cynlluniau newid drosodd a dychwelyd.
+      - Ymchwilio i ddiffygion cymwysiadau cymhleth gyda chyflenwyr, timau seilwaith, ac arbenigwyr systemau clinigol.
+      - Cynllunio ffenestri cynnal a chadw gyda gwasanaethau clinigol, a sicrhau bod gweithdrefnau amser segur yn barod.
+      - Darparu tystiolaeth ar gyfer achosion diogelwch clinigol, fel cofnodion profi a defnyddio.
+      - Gweithredu fel pwynt uwchgyfeirio ar y rota ar alwad ar gyfer diffygion y tu allan i oriau.
+    qualifications:
+      - Profiad sylweddol o gefnogi cymwysiadau byw, ar lefel sy'n cyfateb i radd.
+    job_evaluation_notes: Mae ymdrech feddyliol yn adlewyrchu canolbwyntio hir aml wrth fynd yn fyw, defnyddio, a digwyddiadau y tu allan i oriau.
+  - title: Peiriannydd gweithrediadau cymwysiadau arweiniol
+    slug: peiriannydd-gweithrediadau-cymwysiadau-arweiniol
+    responsibilities:
+      - Gosod y dull gweithredol ar gyfer grŵp o gymwysiadau, gan gynnwys monitro, gwydnwch, a threfniadau cymorth.
+      - Gosod safonau ar gyfer gweinyddu defnyddwyr a diogelwch ar draws cymwysiadau clinigol, gan weithio gyda'r tîm diogelwch.
+      - Adrodd ar berfformiad ac argaeledd cymwysiadau i arweinwyr gweithrediadau TG, a chytuno ar y newidiadau sydd eu hangen.
+      - Arwain yr ymateb technegol i ddigwyddiadau mawr sy'n effeithio ar gymwysiadau clinigol.
+      - Sicrhau bod trefniadau parhad busnes ac adfer ar ôl trychineb ar gyfer cymwysiadau clinigol yn cael eu profi.
+      - Arwain a datblygu peirianwyr gweithrediadau cymwysiadau.
+    qualifications:
+      - Profiad helaeth o redeg cymwysiadau byw, gan gynnwys systemau clinigol neu systemau hanfodol eraill.
+  - title: Prif beiriannydd gweithrediadau cymwysiadau
+    slug: prif-beiriannydd-gweithrediadau-cymwysiadau
+    responsibilities:
+      - Bod yn berchen ar y strategaeth gweithrediadau cymwysiadau ar draws cymwysiadau clinigol a chorfforaethol y sefydliad.
+      - Rheoli cyflenwyr strategol cymwysiadau clinigol, gan gynnwys lefelau gwasanaeth, perfformiad contractau, a newidiadau cyflenwyr.
+      - Cynghori uwch arweinwyr ar risgiau cymwysiadau, fel meddalwedd heb gymorth, pwyntiau methiant unigol, a gwydnwch yn erbyn meddalwedd wystlo.
+      - Sicrhau y gall y sefydliad barhau i ofalu am gleifion yn ddiogel yn ystod amser segur estynedig cymwysiadau.
+      - Arwain adnoddau, dysgu, a datblygiad ar gyfer timau gweithrediadau cymwysiadau.
+    qualifications:
+      - Profiad helaeth o arwain gweithrediadau cymwysiadau ar gyfer sefydliad mawr.
+    job_evaluation_notes: Mae UK GDaD PCF yn awgrymu Band 8c ar gyfer y lefel hon (G6). Mae'r cyfeirlyfr hwn yn ei rhoi ar Fand 8b, yn unol â rolau pennaf mewn teuluoedd technegol eraill, gan mai un maes technegol yw ei chwmpas yn hytrach na chyfarwyddiaeth.

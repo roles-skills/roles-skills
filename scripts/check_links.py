@@ -2,7 +2,7 @@
 """Check that every relative link in the repository's Markdown files resolves.
 
 Checks the file or directory a link points to (a document directory
-holds index.md, which GitHub shows through its README.md symlink), and for links into generated docs with a
+holds index.md, which GitHub shows through its README.md symlink), and for links into generated docs (docs/ and locales/) with a
 #fragment, that the fragment exists as a heading or an <a id> anchor.
 Skips URLs, site-absolute paths, the website's node_modules, and data/sources/.
 
@@ -22,7 +22,8 @@ def anchors(path, cache={}):
         text = open(path, encoding="utf-8").read()
         found = set(re.findall(r'<a id="([^"]+)"', text))
         for heading in re.findall(r"^#+\s+(.*)$", text, re.M):
-            found.add(re.sub(r"[^a-z0-9 -]", "", heading.lower()).strip().replace(" ", "-"))
+            # GitHub keeps Unicode letters, such as Welsh accented vowels, in heading anchors.
+            found.add(re.sub(r"[^\w\- ]", "", heading.lower()).strip().replace(" ", "-"))
         cache[path] = found
     return cache[path]
 
@@ -52,7 +53,7 @@ def main():
             if not os.path.exists(resolved):
                 print(f"{f}: missing {target}")
                 broken += 1
-            elif frag and resolved.endswith(".md") and resolved.startswith("docs/") and frag not in anchors(resolved):
+            elif frag and resolved.endswith(".md") and resolved.startswith(("docs/", "locales/")) and frag not in anchors(resolved):
                 print(f"{f}: missing anchor {target}")
                 broken += 1
     print(f"{len(files)} files checked, {broken} broken links")

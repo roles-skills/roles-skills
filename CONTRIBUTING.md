@@ -102,6 +102,14 @@ skills:
 
 Each level has 1 to 4 bullets, each starting with a verb, and each level builds on the one below.
 
+## Translations
+
+Each translation lives in `data/locales/<code>/`, such as `data/locales/cy-gb/` for Welsh. It mirrors the English data, holding only the translated text: `locale.yaml` (name, direction, page strings, and `complete`), `catalogue.yaml` (family and role titles and slugs), `bands.yaml`, `job-evaluation.yaml`, `skills/*.yaml`, and one `roles/<role-id>.yaml` per role, with levels in the same order as English. Each locale has its own slugs; ids stay in English.
+
+`python3 scripts/build.py` overlays each translation on the English reference, falls back to English for anything missing, and reports the count. A locale marked `complete: true` fails the build if anything is missing. It writes `exports/locales/<code>/reference.json` and the pages in `locales/<code>/`. The website's interface strings are in `roles-skills.github.io/content/locales/<code>/ui.json`.
+
+Quotations from the UK GDaD PCF and labels from ESCO stay in English. For Welsh, use the standard terms in TermCymru (see [CREDITS.md](CREDITS.md)), such as *llywodraethiant gwybodaeth* for information governance.
+
 ## Style
 
 - Write in plain English: short sentences, active voice, and sentence case for titles.

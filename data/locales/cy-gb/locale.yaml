@@ -1,0 +1,66 @@
+# Welsh (Great Britain). Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Terminology follows TermCymru, the Welsh
+# Government's terminology database (Open Government Licence v3.0). Quotations
+# from the UK GDaD PCF and ESCO stay in English.
+code: cy-gb
+name: Cymraeg
+english_name: Welsh
+dir: ltr
+complete: true
+strings:
+  disclaimer: "Proffil cyfeirio enghreifftiol yw hwn ar gyfer sefydliad gofal iechyd digidol cyffredinol. Nid yw'n swydd-ddisgrifiad swyddogol ar gyfer unrhyw gyflogwr, ac nid yw ei sgoriau gwerthuso swyddi yn werthusiad ffurfiol."
+  translation_note: "Cyfieithwyd y testun hwn o'r Saesneg gan gynorthwyydd deallusrwydd artiffisial, ac nid yw siaradwr Cymraeg brodorol wedi'i adolygu eto. Mae'r derminoleg yn dilyn TermCymru, cronfa dermau Llywodraeth Cymru. Mae dyfyniadau o Fframwaith Gallu Proffesiwn Digidol a Data Llywodraeth y DU ac o ESCO yn aros yn Saesneg."
+  home_title: Mynegai rolau
+  home_lede: "Dewch o hyd i'r teulu sydd agosaf at eich gwaith, yna'r rôl, yna'r band."
+  roles_title: Rolau o A i Y
+  bands_title: Rolau fesul band
+  skills_title: Sgiliau
+  skills_lede: "Mae gan bob sgil bedair lefel hyfedredd: Ymwybyddiaeth (1), Gweithio (2), Ymarferydd (3), ac Arbenigwr (4). Mae sgiliau o Fframwaith Gallu Proffesiwn Digidol a Data Llywodraeth y DU wedi'u dyfynnu ohono yn Saesneg. Mae sgiliau eraill yn wreiddiol i'r cyfeirlyfr hwn."
+  pcf_title: Rolau fesul rôl UK GDaD PCF
+  esco_title: Rolau fesul galwedigaeth ESCO
+  role: Rôl
+  roles: Rolau
+  family: Teulu
+  band: Band
+  bands: Bandiau
+  title: Teitl
+  role_level: Lefel rôl
+  skill: Sgil
+  source: Ffynhonnell
+  expected_level: Lefel ddisgwyliedig
+  level_meaning: Ystyr y lefel hon
+  factor: Ffactor
+  level: Lefel
+  points: Pwyntiau
+  total: Cyfanswm
+  summary: Crynodeb
+  health_context: Mewn sefydliad gofal iechyd digidol
+  pcf_role: Rôl UK GDaD PCF
+  pcf_role_none: "dim (mae'r cyfeirlyfr hwn yn diffinio'r rôl)"
+  pcf_role_description: Disgrifiad rôl UK GDaD PCF (y gwreiddiol Saesneg)
+  pcf_level: Lefel UK GDaD PCF
+  civil_service_grades: Graddau'r Gwasanaeth Sifil
+  esco_occupations: Galwedigaethau ESCO
+  role_levels: Lefelau rôl
+  job_evaluation_points: Pwyntiau gwerthuso swyddi
+  responsibilities: Cyfrifoldebau
+  skills: Sgiliau
+  qualifications: Cymwysterau a phrofiad nodweddiadol
+  band_outline: Amlinelliad o'r band
+  knowledge: Gwybodaeth
+  autonomy: Annibyniaeth
+  scope: Cwmpas
+  leadership: Arweinyddiaeth
+  accountability: Atebolrwydd
+  job_evaluation: Gwerthuso swyddi (enghreifftiol)
+  source_pcf: UK GDaD PCF
+  source_reference: Y cyfeirlyfr hwn
+  used_in: "Fe'i defnyddir mewn {n} o lefelau rôl."
+  awareness: Ymwybyddiaeth
+  working: Gweithio
+  practitioner: Ymarferydd
+  expert: Arbenigwr
+  sfia_level: Lefel SFIA
+  esco_occupation: Galwedigaeth ESCO
+  pcf_family: Teulu PCF
+  roles_in_reference: Rolau yn y cyfeirlyfr hwn

@@ -1,6 +1,6 @@
 # Credits
 
-This reference quotes, compares, and builds on two public frameworks. Any reuse of their content must carry the credits below.
+This reference quotes, compares, and builds on two public frameworks, and its Welsh translation uses a public terminology database. Any reuse of their content must carry the credits below.
 
 ## UK Government Digital and Data Profession Capability Framework (UK GDaD PCF)
 
@@ -28,6 +28,15 @@ Credit line:
 Credit line:
 
 > Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.
+
+## TermCymru
+
+- **Publisher**: Welsh Government
+- **Website**: <https://www.gov.wales/bilingual-terminology-and-glossaries>
+- **Edition**: the TermCymru CSV export dated 2 July 2026
+- **Licence**: gov.wales content is available under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) except where otherwise stated, © Crown copyright
+- **Used for**: choosing standard Welsh terms in the `cy-gb` translation, such as *llywodraethiant gwybodaeth* (information governance), *Asesiad o'r Effaith ar Ddiogelu Data* (data protection impact assessment), and *tor diogelwch data* (data breach). No glossary entries are reproduced as a list.
+- **Where it appears**: `data/locales/cy-gb/`
 
 ## Other frameworks and standards named
 

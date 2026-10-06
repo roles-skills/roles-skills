@@ -1,0 +1,60 @@
+summary: >
+  Mae penseiri menter yn rhoi golwg gydgysylltiedig i'r sefydliad o'i wasanaethau, ei wybodaeth, ei gymwysiadau,
+  a'i dechnoleg, ac yn ei defnyddio i droi strategaeth iechyd a gofal yn gynllun newid cydlynus. Maen nhw'n gosod
+  egwyddorion, safonau, a mapiau ffordd pensaernïaeth, yn arwain penderfyniadau buddsoddi, ac yn sicrhau bod newid
+  digidol yn cefnogi gofal diogel a chydgysylltiedig i gleifion ar draws sefydliadau.
+health_context:
+  - Mae llwybrau gofal yn croesi llawer o sefydliadau a systemau, felly mae'n rhaid i'r bensaernïaeth gefnogi rhannu cofnodion, canlyniadau, ac atgyfeiriadau ar draws ffiniau.
+  - Mae'r ystad yn aml yn cynnwys systemau clinigol hirhoedlog, dyfeisiau meddygol, a chontractau cyflenwyr sy'n anodd eu newid, felly mae'n rhaid i fapiau ffordd gynllunio trawsnewidiadau'n ofalus.
+  - Mae penderfyniadau pensaernïaeth yn effeithio ar ddiogelwch cleifion, preifatrwydd, a gwydnwch gwasanaethau sy'n rhedeg drwy'r dydd a'r nos.
+  - Mae safonau agored fel HL7 FHIR, SNOMED CT, a phroffiliau IHE yn allweddol i osgoi cloi i mewn a galluogi rhyngweithredu.
+  - Mae cyllid yn gyfyngedig ac yn cael ei graffu'n fanwl, felly mae'n rhaid i benseiri ddangos gwerth am arian ac ailddefnyddio llwyfannau a rennir lle maent yn bodoli.
+levels:
+  - title: Pensaer menter
+    slug: pensaer-menter
+    responsibilities:
+      - Modelu gwasanaethau, gwybodaeth, cymwysiadau, a thechnoleg bresennol a tharged y sefydliad ar gyfer parth, fel diagnosteg neu ofal cymunedol.
+      - Cadw'r storfa bensaernïaeth yn gyfredol, gan gynnwys catalogau cymwysiadau a llifoedd data.
+      - Adolygu cynigion yn erbyn egwyddorion a safonau pensaernïaeth, a gwneud argymhellion i awdurdodau dylunio.
+      - Nodi lle mae systemau'n dyblygu gallu neu'n dibynnu ar dechnoleg heb gymorth, a chodi'r risgiau.
+      - Gweithio gyda phenseiri datrysiadau ac arweinwyr clinigol i ddeall sut mae llwybrau gofal yn defnyddio systemau.
+      - Arwain penseiri datrysiadau ar sut mae dyluniadau'n ffitio pensaernïaeth y parth.
+    qualifications:
+      - Profiad sylweddol o bensaernïaeth, dadansoddi, neu ddylunio technegol mewn sefydliad cymhleth, ar lefel sy'n cyfateb i radd meistr.
+      - Gwybodaeth am fframwaith pensaernïaeth menter, fel TOGAF, neu brofiad cyfatebol.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 6): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8a. Caiff gwybodaeth, dadansoddi, cynllunio, polisi, a rhyddid i weithredu eu sgorio ar broffil Band 8a gan fod y swydd yn llunio pensaernïaeth darged ac yn cynghori awdurdodau dylunio ar gyfer parth cyfan."
+  - title: Uwch bensaer menter
+    slug: uwch-bensaer-menter
+    responsibilities:
+      - Datblygu pensaernïaeth darged a mapiau ffordd pontio ar gyfer un neu fwy o barthau'r sefydliad.
+      - Llunio achosion busnes fel bod buddsoddiadau'n ffitio'r bensaernïaeth darged ac yn ailddefnyddio llwyfannau a rennir.
+      - Arwain adolygiadau pensaernïaeth mewn awdurdodau dylunio a gwneud argymhellion ar gynigion sylweddol.
+      - Cynllunio'r gwaith o ddisodli neu ymddeol systemau clinigol a chorfforaethol etifeddol, gan gynnwys mudo data a risgiau diogelwch.
+      - Sicrhau bod anghenion rhyngweithredu, diogelwch, a llywodraethiant gwybodaeth wedi'u cynnwys mewn mapiau ffordd.
+      - Hyfforddi ac arwain penseiri menter a datrysiadau.
+    qualifications:
+      - Profiad helaeth o bensaernïaeth menter neu ddatrysiadau ar draws sawl parth.
+      - Gwybodaeth am fframwaith pensaernïaeth menter, fel TOGAF, neu brofiad cyfatebol.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 7): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8b. Mae cynllunio ar lefel 5 ar gyfer mapiau ffordd hirdymor ag effeithiau ar draws y sefydliad; mae gwybodaeth ar lefel 8 ar gyfer gwybodaeth ar draws pensaernïaeth busnes, gwybodaeth, cymwysiadau, a thechnoleg."
+  - title: Pensaer menter arweiniol
+    slug: pensaer-menter-arweiniol
+    responsibilities:
+      - Bod yn berchen ar y bensaernïaeth menter ar gyfer rhan fawr o'r sefydliad, fel systemau clinigol neu seilwaith a rennir.
+      - Cadeirio neu arwain awdurdod dylunio pensaernïaeth a gosod y safonau y mae'n rhaid i brosiectau eu bodloni.
+      - Cynghori cyfarwyddwyr ar flaenoriaethau buddsoddi, strategaeth cyflenwyr, a risgiau technoleg.
+      - Gweithio gyda sefydliadau partner i alinio pensaernïaeth ar draws llwybrau gofal a chofnodion a rennir.
+      - Arwain a datblygu penseiri menter a datblygu'r gymuned ymarfer pensaernïaeth.
+    qualifications:
+      - Profiad helaeth o bensaernïaeth menter mewn sefydliad cymhleth.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 8b): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8c. Mae adnoddau gwybodaeth ar lefel 6 gan fod y swydd yn rheoli pensaernïaeth systemau gwybodaeth ar draws rhan fawr o'r sefydliad; mae polisi a phobl uwchlaw proffil Band 8b gan ei bod yn gosod safonau ar gyfer pob prosiect ac yn arwain penseiri menter."
+  - title: Prif bensaer menter
+    slug: prif-bensaer-menter
+    responsibilities:
+      - Gosod gweledigaeth, egwyddorion, a strategaeth pensaernïaeth menter y sefydliad, yn unol â'i strategaeth iechyd a gofal.
+      - Cynghori'r tîm gweithredol a'r bwrdd ar bensaernïaeth, risgiau, a gwerth buddsoddiadau digidol mawr.
+      - Arwain ymarfer, llywodraethiant, a safonau pensaernïaeth y sefydliad.
+      - Cynrychioli'r sefydliad mewn fforymau pensaernïaeth a rhyngweithredu ar draws sefydliadau.
+      - Meithrin gallu pensaernïaeth ar draws y sefydliad, gan gynnwys recriwtio a llwybrau gyrfa.
+    qualifications:
+      - Profiad helaeth o arwain pensaernïaeth menter ar draws sefydliadau.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 8c): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8d. Mae polisi a rhyddid i weithredu ar lefel 6 gan fod gan y swydd gyfrifoldeb corfforaethol am weledigaeth, egwyddorion, a strategaeth pensaernïaeth y sefydliad."

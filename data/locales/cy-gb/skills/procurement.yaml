@@ -1,0 +1,288 @@
+# Welsh translations of data/skills/procurement.yaml. Keys are the English skill ids.
+proc-purchase-to-pay:
+  name: Prynu i dalu
+  slug: prynu-i-dalu
+  description: Codi, cymeradwyo, a derbyn archebion, a datrys ymholiadau anfonebau a thaliadau, drwy system brynu a mesurau rheoli ariannol y sefydliad.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro'r rheol "dim archeb brynu, dim taliad" a pham ei bod yn bwysig
+      - codi cais yn y system brynu
+    working: |
+      Gallwch:
+      - creu a diwygio archebion prynu a'u gwirio yn erbyn contractau
+      - datrys ymholiadau anfonebau, derbyn, a thaliadau gyda chyflenwyr a chyllid
+      - cynnal catalogau a chofnodion cyflenwyr yn y system brynu
+    practitioner: |
+      Gallwch:
+      - rhedeg y broses prynu i dalu ar gyfer gwasanaeth, gan fonitro cydymffurfiaeth ac ôl-groniadau
+      - dadansoddi data gwariant i ddod o hyd i wariant y tu allan i gontract ac arbedion
+      - gwella'r broses a'r mesurau rheoli gyda chydweithwyr cyllid
+    expert: |
+      Gallwch:
+      - gosod polisi, mesurau rheoli, a systemau prynu i dalu'r sefydliad
+      - arwain y symud i brynu ac anfonebu cwbl electronig
+
+proc-procurement-process:
+  name: Proses gaffael
+  slug: proses-gaffael
+  description: Rhedeg caffaeliadau sy'n cydymffurfio, o gynllunio a manyleb drwy lwybrau i'r farchnad, tendr, dyfarnu, a llofnodi contract, gan gynnwys prynu drwy fframweithiau a systemau prynu deinamig.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro camau caffaeliad a'r trothwyon sy'n berthnasol
+      - cael dyfynbrisiau ar gyfer pryniannau gwerth isel gan ddilyn rheolau'r sefydliad
+    working: |
+      Gallwch:
+      - rhedeg dyfynbrisiau a chontractau yn ôl y gofyn o dan fframweithiau gan ddefnyddio templedi safonol
+      - paratoi dogfennau tendr a rheoli cwestiynau egluro ar y system e-dendro
+      - cadw llwybr archwilio clir ar gyfer pob caffaeliad
+    practitioner: |
+      Gallwch:
+      - cynllunio ac arwain tendrau cymhleth, gan ddewis y llwybr i'r farchnad a'r weithdrefn gywir
+      - helpu defnyddwyr i ysgrifennu manylebau yn seiliedig ar ganlyniadau ar gyfer systemau digidol a chlinigol
+      - rheoli amserlenni, risgiau, a rhanddeiliaid hyd at ddyfarnu contract
+    expert: |
+      Gallwch:
+      - gosod gweithdrefnau a thempledi caffael y sefydliad
+      - arwain y caffaeliadau mwyaf cymhleth, gwerth uchel, neu newydd
+      - sicrhau penderfyniadau caffael ar gyfer y bwrdd
+
+proc-tender-evaluation:
+  name: Gwerthuso tendrau
+  slug: gwerthuso-tendrau
+  description: Dylunio meini prawf a phwysoliadau gwerthuso, a chynnal gwerthusiad teg a wedi'i gofnodi'n dda o ansawdd, pris, a gwerth cymdeithasol.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae'n rhaid i werthuso ddilyn y meini prawf a gyhoeddwyd
+      - datgan gwrthdaro buddiannau cyn cymryd rhan mewn gwerthusiad
+    working: |
+      Gallwch:
+      - gwirio cynigion am gydymffurfiaeth a chyflawnder
+      - cefnogi gwerthuswyr a chofnodi sgoriau a nodiadau cymedroli
+      - paratoi modelau gwerthuso prisiau dan arweiniad
+    practitioner: |
+      Gallwch:
+      - dylunio meini prawf gwerthuso, pwysoliadau, a chanllawiau sgorio
+      - arwain cymedroli ac ysgrifennu adroddiadau dyfarnu ac adborth i gynigwyr
+      - cynllunio arddangosiadau a phrofi senarios clinigol neu ddefnyddwyr ar gyfer tendrau systemau
+    expert: |
+      Gallwch:
+      - gosod safonau gwerthuso'r sefydliad a'i ddull o ymdrin â phris ac ansawdd
+      - amddiffyn penderfyniadau gwerthuso pan gânt eu herio
+      - adolygu gwerthusiadau ar gaffaeliadau risg uchel
+
+proc-procurement-law-and-policy:
+  name: Rheolau a pholisi caffael cyhoeddus
+  slug: rheolau-a-pholisi-caffael-cyhoeddus
+  description: Cymhwyso rheolau caffael cyhoeddus, rheolau ariannol y sefydliad, a pholisi caffael fel bod prynu'n gyfreithlon, yn dryloyw, ac yn deg.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro bod yn rhaid gwario arian cyhoeddus yn deg, yn agored, ac yn gyfreithlon
+      - dilyn trothwyon a rheolau cymeradwyo'r sefydliad
+    working: |
+      Gallwch:
+      - cymhwyso'r rheolau caffael sy'n addas ar gyfer pryniant syml
+      - cyhoeddi hysbysiadau a chadw cofnodion sy'n bodloni rheolau tryloywder
+      - sylwi pan fo cais mewn perygl o dorri'r rheolau a'i godi
+    practitioner: |
+      Gallwch:
+      - cynghori ar y llwybr cyfreithlon ar gyfer caffaeliadau cymhleth a newidiadau i gontractau
+      - rheoli'r risg o her ac ymdrin â chyfnodau segur a dad-friffio'n gywir
+      - ysgrifennu polisi a chanllawiau caffael ar gyfer y sefydliad
+    expert: |
+      Gallwch:
+      - dehongli rheolau caffael newydd ac arwain ymateb y sefydliad
+      - cynghori'r bwrdd ar gydymffurfiaeth a risg caffael
+      - rheoli heriau ffurfiol gyda chynghorwyr cyfreithiol
+
+proc-market-analysis:
+  name: Dadansoddi'r farchnad ac ymgysylltu
+  slug: dadansoddir-farchnad-ac-ymgysylltu
+  description: Deall marchnadoedd cyflenwi, ymgysylltu â chyflenwyr cyn caffael, a defnyddio tystiolaeth o'r farchnad i lunio gofynion, llwybrau i'r farchnad, a modelau masnachol.
+  levels:
+    awareness: |
+      Gallwch:
+      - dod o hyd i gyflenwyr ar fframweithiau a chronfeydd data cyflenwyr
+      - egluro pam mae'n rhaid i ymgysylltu cynnar â'r farchnad fod yn deg i bob cyflenwr
+    working: |
+      Gallwch:
+      - casglu gwybodaeth am y farchnad, prisiau, a manylion cyflenwyr ar gyfer gofyniad
+      - rhedeg cais am wybodaeth a chrynhoi'r ymatebion
+    practitioner: |
+      Gallwch:
+      - dadansoddi marchnad gyflenwi, ei chystadleuaeth, ei risgiau, a'i thueddiadau
+      - arwain ymgysylltu cynnar â'r farchnad, fel diwrnodau cyflenwyr, heb ystumio cystadleuaeth
+      - defnyddio tystiolaeth o'r farchnad i lunio gofynion a modelau masnachol
+    expert: |
+      Gallwch:
+      - llunio marchnadoedd, er enghraifft drwy annog cyflenwyr newydd neu lai
+      - arwain strategaeth y farchnad gyda sefydliadau prynu eraill
+
+proc-negotiation:
+  name: Negodi masnachol
+  slug: negodi-masnachol
+  description: Cynllunio a chynnal negodiadau gyda chyflenwyr i gytuno ar bris, telerau, a pherfformiad sy'n rhoi gwerth am arian ac yn rheoli risg.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro beth y gellir ac na ellir ei negodi mewn caffaeliad cyhoeddus
+    working: |
+      Gallwch:
+      - negodi prisiau a thelerau ar gyfer pryniannau gwerth isel neu arferol
+      - paratoi data ac opsiynau ar gyfer negodiad a arweinir gan eraill
+    practitioner: |
+      Gallwch:
+      - cynllunio ac arwain negodiadau, gan osod amcanion, terfynau, a safbwyntiau wrth gefn
+      - negodi amrywiadau contract, adnewyddiadau, a setlo anghydfodau
+      - cadw negodiadau'n gyfreithlon ac wedi'u cofnodi'n dda
+    expert: |
+      Gallwch:
+      - arwain negodiadau gwerth uchel a risg uchel gyda chyflenwyr strategol
+      - hyfforddi eraill mewn negodi a gosod dull negodi'r sefydliad
+
+proc-category-management:
+  name: Rheoli categorïau
+  slug: rheoli-categoriau
+  description: Rheoli categori o wariant, fel meddalwedd, cwmwl, a gwasanaethau technoleg, drwy strategaeth gategori sy'n cyfuno galw, yn llunio gofynion, ac yn cynllunio caffaeliadau dros sawl blwyddyn.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro beth yw categori a pham mae cynlluniau categori'n bwysig
+    working: |
+      Gallwch:
+      - dadansoddi gwariant a chontractau ar gyfer categori a chadw'r gofrestr contractau'n gyfredol
+      - cefnogi'r cynllun categori, fel olrhain adnewyddiadau ac arbedion
+    practitioner: |
+      Gallwch:
+      - ysgrifennu a chyflawni strategaeth gategori gyda deiliaid cyllidebau ac arweinwyr technegol
+      - cynllunio piblinell caffaeliadau ac adnewyddu contractau ar gyfer y categori
+      - olrhain arbedion, gwerth, a risgiau ar gyfer y categori
+    expert: |
+      Gallwch:
+      - gosod dull rheoli categorïau'r sefydliad
+      - arwain categorïau sydd â'r gwariant a'r risg uchaf, a'u halinio â strategaeth y sefydliad
+      - gweithio gyda sefydliadau eraill ar brynu cydweithredol
+
+proc-technology-procurement:
+  name: Caffael technoleg a chwmwl
+  slug: caffael-technoleg-a-chwmwl
+  description: Prynu meddalwedd, gwasanaethau cwmwl, trwyddedau, caledwedd, a gwasanaethau digidol, gan gynnwys meddalwedd fel gwasanaeth, modelau masnachol, trwyddedu, a'r telerau diogelwch, diogelu data, a rhyngweithredu sydd eu hangen ar dechnoleg iechyd.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro'r prif ffyrdd y caiff technoleg ei phrynu, fel trwyddedau, tanysgrifiadau, a gwasanaethau
+      - adnabod bod angen gwiriadau diogelwch, diogelwch clinigol, a diogelu data ar systemau clinigol
+    working: |
+      Gallwch:
+      - prynu meddalwedd, caledwedd, a thrwyddedau safonol drwy fframweithiau
+      - olrhain niferoedd trwyddedau, adnewyddiadau, a dyddiadau cysoni
+      - cynnwys gofynion diogelwch a diogelu data safonol mewn dogfennau
+    practitioner: |
+      Gallwch:
+      - prynu cwmwl, meddalwedd fel gwasanaeth, a systemau clinigol, gan ddewis y model masnachol cywir
+      - llunio gofynion gydag arweinwyr technegol, diogelwch clinigol, a llywodraethiant gwybodaeth
+      - cynnwys telerau rhyngweithredu, safonau agored, perchnogaeth data, ac ymadael mewn contractau
+      - osgoi cloi i mewn drwy gynllunio ar gyfer cludadwyedd a chystadleuaeth wrth adnewyddu
+    expert: |
+      Gallwch:
+      - gosod strategaeth fasnachol y sefydliad ar gyfer technoleg a chwmwl
+      - arwain negodiadau ar gytundebau menter a llwyfannau strategol
+      - cynghori arweinwyr digidol ar risgiau masnachol dewisiadau technoleg
+
+proc-contract-management:
+  name: Rheoli contractau
+  slug: rheoli-contractau
+  description: Rheoli contractau ar ôl eu dyfarnu, gan gynnwys symbylu, perfformiad, taliadau, newidiadau, anghydfodau, adnewyddu, ac ymadael, fel bod y sefydliad yn cael yr hyn y talodd amdano.
+  levels:
+    awareness: |
+      Gallwch:
+      - dod o hyd i gontract ac egluro ei ddyddiadau allweddol, ei werth, a'i berchennog
+      - cofnodi newidiadau a dogfennau contract yn y gofrestr contractau
+    working: |
+      Gallwch:
+      - monitro perfformiad cyflenwyr yn erbyn lefelau gwasanaeth a dangosyddion perfformiad allweddol
+      - paratoi cyfarfodydd adolygu contractau ac olrhain camau gweithredu
+      - prosesu amrywiadau contract a gwirio anfonebau yn erbyn y contract
+    practitioner: |
+      Gallwch:
+      - rheoli portffolio o gontractau, gan gynnwys contractau clinigol a thechnoleg
+      - defnyddio rhwymedïau contract, fel credydau gwasanaeth, pan fo perfformiad yn brin
+      - rheoli newidiadau, anghydfodau, ac adnewyddiadau o fewn y rheolau caffael
+      - cynllunio ymadael yn gynnar a phrofi cynlluniau ymadael cyn i gontractau ddod i ben
+    expert: |
+      Gallwch:
+      - gosod fframwaith a safonau rheoli contractau'r sefydliad
+      - arwain y gwaith o reoli contractau strategol a risg uchel
+      - datrys anghydfodau mawr a phenderfynu ar derfynu neu ail-gaffael
+
+proc-supplier-relationship-management:
+  name: Rheoli perthynas â chyflenwyr
+  slug: rheoli-perthynas-a-chyflenwyr
+  description: Meithrin perthynas strategol â chyflenwyr allweddol i reoli risg, gwella perfformiad, a datblygu cynhyrchion a gwasanaethau dros amser.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae perthynas dda â chyflenwyr yn bwysig ar gyfer gwasanaethau y mae cleifion yn dibynnu arnynt
+      - ymdrin â chyflenwyr yn broffesiynol a chofnodi cysylltiadau
+    working: |
+      Gallwch:
+      - cadw cysylltiadau cyflenwyr, llwybrau uwchgyfeirio, a chofnodion yn gyfredol
+      - gwirio iechyd ariannol ac yswiriant cyflenwyr yn erbyn gofynion
+    practitioner: |
+      Gallwch:
+      - segmentu cyflenwyr yn ôl risg a gwerth a chynllunio sut i reoli pob grŵp
+      - cynnal adolygiadau strategol gyda chyflenwyr allweddol, gan gynnwys mapiau ffordd a chynlluniau gwella
+      - rheoli risgiau cyflenwyr, fel methiant ariannol, digwyddiadau seiber, a phroblemau cadwyn gyflenwi
+    expert: |
+      Gallwch:
+      - gosod strategaeth perthynas â chyflenwyr y sefydliad
+      - arwain perthynas weithredol â chyflenwyr strategol
+      - arwain yr ymateb pan fo cyflenwr hanfodol yn methu
+
+proc-exit-planning:
+  name: Cynllunio ymadael a dychwelyd data
+  slug: cynllunio-ymadael-a-dychwelyd-data
+  description: Cynllunio a rheoli diwedd contract, gan gynnwys trosglwyddo i gyflenwr newydd, dychwelyd a dileu data, a pharhad gwasanaethau i gleifion a staff.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae angen cynllun ymadael ar bob contract
+      - dod o hyd i delerau ymadael a dychwelyd data contract
+    working: |
+      Gallwch:
+      - cadw cynlluniau ymadael a chofrestrau asedau a data'n gyfredol
+      - olrhain cyfnodau rhybudd a cherrig milltir ymadael
+    practitioner: |
+      Gallwch:
+      - ysgrifennu cynlluniau ymadael a phontio gydag arweinwyr technegol, data, a chlinigol
+      - sicrhau bod data'n cael ei ddychwelyd mewn fformatau safonol defnyddiadwy ac yna'n cael ei ddileu'n ddiogel
+      - rheoli risgiau pontio fel nad yw gofal yn cael ei amharu
+    expert: |
+      Gallwch:
+      - gosod safonau'r sefydliad ar gyfer ymadael, pontio, a dychwelyd data
+      - arwain ymadawiadau o gontractau clinigol a thechnoleg strategol
+
+proc-social-value:
+  name: Gwerth cymdeithasol a chaffael cynaliadwy
+  slug: gwerth-cymdeithasol-a-chaffael-cynaliadwy
+  description: Defnyddio caffael a chontractau i sicrhau gwerth cymdeithasol, cynaliadwyedd amgylcheddol, a chadwyni cyflenwi teg, a mesur yr hyn y mae cyflenwyr yn ei gyflawni.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro beth mae gwerth cymdeithasol a chaffael cynaliadwy'n ei olygu i'r sefydliad
+    working: |
+      Gallwch:
+      - cynnwys cwestiynau gwerth cymdeithasol a chynaliadwyedd safonol mewn tendrau
+      - casglu adroddiadau gwerth cymdeithasol gan gyflenwyr
+    practitioner: |
+      Gallwch:
+      - gosod meini prawf gwerth cymdeithasol a chynaliadwyedd sy'n addas i'r contract
+      - rheoli ymrwymiadau cyflenwyr, fel swyddi lleol, sgiliau, a lleihau carbon
+      - gwirio cadwyni cyflenwi am risgiau fel llafur gorfodol a cham-drin hawliau dynol eraill
+    expert: |
+      Gallwch:
+      - gosod polisi gwerth cymdeithasol a chaffael cynaliadwy'r sefydliad
+      - adrodd ar ganlyniadau gwerth cymdeithasol a charbon i'r bwrdd

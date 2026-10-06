@@ -7,8 +7,9 @@
 # 1. Validate data/ (scripts/build.py --check).
 # 2. Check that docs/ and exports/ are up to date with data/.
 # 3. Check that the website's vendored inputs match the monorepo.
-# 4. Check every relative Markdown link.
-# 5. Type-check the website, if its dependencies are installed.
+# 4. Check locales: interface strings have the same keys, locale documents are complete.
+# 5. Check every relative Markdown link.
+# 6. Type-check the website, if its dependencies are installed.
 set -eu
 
 root="$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)"
@@ -37,6 +38,37 @@ cmp -s exports/reference.json "$site/content/reference.json" || fail "roles-skil
 diff -r -q exports/self-assessment "$site/static/downloads/self-assessment" >/dev/null || fail "roles-skills.github.io/static/downloads/ is stale; run roles-skills.github.io/bin/sync"
 python3 scripts/cms_config.py "$tmp/config.yml"
 cmp -s "$tmp/config.yml" "$site/static/admin/config.yml" || fail "roles-skills.github.io/static/admin/config.yml is stale; run roles-skills.github.io/bin/sync"
+
+say "checking locales"
+for dir in exports/locales/*/; do
+    [ -d "$dir" ] || continue
+    code="$(basename "$dir")"
+    cmp -s "$dir/reference.json" "$site/content/locales/$code/reference.json" || fail "roles-skills.github.io/content/locales/$code/ is stale; run roles-skills.github.io/bin/sync"
+done
+python3 - "$site" <<'PY' || fail "locale interface strings or documents are incomplete"
+import json, os, sys
+site = sys.argv[1]
+base = os.path.join(site, "content", "locales")
+source = json.load(open(os.path.join(base, "en-001", "ui.json"), encoding="utf-8"))
+ok = True
+for code in sorted(os.listdir(base)):
+    path = os.path.join(base, code, "ui.json")
+    if code == "en-001" or not os.path.exists(path):
+        continue
+    strings = json.load(open(path, encoding="utf-8"))
+    missing, extra = sorted(set(source) - set(strings)), sorted(set(strings) - set(source))
+    if missing or extra:
+        ok = False
+        print(f"check: {code}/ui.json: missing {missing[:5]}, extra {extra[:5]}", file=sys.stderr)
+# Every locale document directory holds index.md, a README.md symlink, and .locale-peer-id.
+for root in ["docs"] + [os.path.join("locales", c) for c in (os.listdir("locales") if os.path.isdir("locales") else [])]:
+    for d, dirs, files in os.walk(root):
+        if "index.md" in files:
+            if not os.path.islink(os.path.join(d, "README.md")) or ".locale-peer-id" not in files:
+                ok = False
+                print(f"check: {d}: needs README.md symlink and .locale-peer-id", file=sys.stderr)
+sys.exit(0 if ok else 1)
+PY
 
 say "checking Markdown links"
 python3 scripts/check_links.py >/dev/null || { python3 scripts/check_links.py >&2; fail "broken Markdown links"; }
