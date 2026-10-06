@@ -1,0 +1,67 @@
+summary: >
+  Los contables financieros se aseguran de que las cuentas de la organización sean completas y exactas y cumplan las normas contables y las normas de información del sector público. Gestionan el balance, preparan las cuentas anuales y las declaraciones obligatorias, gestionan la tesorería, contabilizan los activos y trabajan con los auditores. En una organización de atención sanitaria digital, gran parte de la complejidad procede de la contabilización del software, los activos de datos, los acuerdos en la nube y los contratos tecnológicos plurianuales.
+health_context:
+  - La contabilización del gasto digital requiere juicio, por ejemplo para decidir si el desarrollo de software, la configuración de servicios en la nube o las licencias pueden tratarse como activos de capital.
+  - La organización debe rendir cuentas del dinero público ante los financiadores y los organismos de supervisión, a menudo con límites estrictos de capital y de tesorería.
+  - Los contratos plurianuales de licencias y soporte generan gastos anticipados, compromisos y, a veces, arrendamientos que deben contabilizarse correctamente.
+  - Los activos intangibles, como el software que desarrolla la organización, deben valorarse, amortizarse y revisarse por deterioro a medida que cambian los productos.
+  - La auditoría externa de los organismos públicos es exhaustiva y pública, por lo que las evidencias y los papeles de trabajo deben ser de gran calidad.
+levels:
+  - title: Contable financiero en formación
+    summary: Los contables financieros en formación preparan las conciliaciones del balance, los asientos y los papeles de trabajo de las cuentas mientras trabajan para obtener una cualificación contable reconocida.
+    responsibilities:
+      - Preparar las conciliaciones del balance y depurar las partidas de conciliación.
+      - Registrar los asientos de cierre mensual y anual, como las periodificaciones, los gastos anticipados y las amortizaciones.
+      - Mantener el registro de activos fijos, incluidos los activos de software y de hardware.
+      - Preparar los papeles de trabajo y las evidencias de las cuentas anuales y de la auditoría.
+      - Preparar la información de flujos de caja y las conciliaciones bancarias.
+      - Trabajar para obtener una cualificación contable reconocida.
+    qualifications:
+      - Un grado o una cualificación contable intermedia, y estar trabajando para obtener una cualificación contable reconocida, o experiencia equivalente.
+    job_evaluation_notes: Los conocimientos se puntúan en el nivel que exige el puesto una vez que la formación está lo bastante avanzada para hacer el trabajo.
+  - title: Contable financiero
+    summary: Los contables financieros son contables cualificados que gestionan el balance y preparan apartados de las cuentas anuales, de las declaraciones obligatorias y de las declaraciones fiscales.
+    responsibilities:
+      - Gestionar los cierres mensuales y anuales del balance.
+      - Preparar apartados de las cuentas anuales y de sus notas.
+      - Contabilizar el gasto de capital, incluida la decisión sobre qué costes digitales pueden activarse.
+      - Preparar las declaraciones del impuesto sobre las ventas y asesorar sobre el tratamiento fiscal de los contratos.
+      - Responder a las preguntas de los auditores y acordar acciones sobre sus conclusiones.
+      - Supervisar y desarrollar a los contables en formación.
+    qualifications:
+      - Una cualificación contable reconocida, o experiencia equivalente.
+  - title: Contable financiero sénior
+    summary: Los contables financieros sénior dirigen el proceso de las cuentas anuales y la contabilización de las áreas complejas, como los activos intangibles, los arrendamientos y los acuerdos en la nube.
+    responsibilities:
+      - Planificar y dirigir el calendario de las cuentas anuales y la auditoría externa.
+      - Redactar notas contables sobre juicios complejos, como la activación del desarrollo de software o de los costes de configuración en la nube.
+      - Gestionar la contabilidad del capital, incluidas las vidas útiles de los activos, la amortización y el deterioro de los activos de software.
+      - Gestionar la previsión de tesorería y la disposición de la financiación dentro de los límites de tesorería.
+      - Preparar las declaraciones obligatorias y para los financiadores, como las de consolidación y de capital.
+      - Gestionar y desarrollar un pequeño equipo de contables financieros.
+    qualifications:
+      - Una cualificación contable reconocida, con una experiencia sustancial tras obtenerla, o equivalente.
+    job_evaluation_notes: Los recursos financieros están en el nivel 4 porque el puesto gestiona la posición de tesorería y la contabilidad del capital de la organización.
+  - title: Gestor de contabilidad financiera
+    summary: Los gestores de contabilidad financiera dirigen la contabilidad financiera, la tesorería y la fiscalidad de la organización, y se aseguran de que los controles y las acciones de auditoría estén implantados.
+    responsibilities:
+      - Gestionar las funciones de contabilidad financiera, tesorería y fiscalidad.
+      - Ser responsable de las políticas contables de la organización y de su aplicación a los nuevos tipos de gasto, como los servicios en la nube y de datos.
+      - Gestionar las cuentas bancarias, las relaciones bancarias y la previsión de flujos de caja.
+      - Gestionar el cumplimiento fiscal y el riesgo fiscal, también en los contratos tecnológicos y los servicios compartidos.
+      - Dirigir la respuesta a las conclusiones de las auditorías internas y externas sobre la contabilidad financiera y los controles.
+      - Gestionar directamente a los contables financieros y al personal de tesorería.
+    qualifications:
+      - Una cualificación contable reconocida, con una amplia experiencia tras obtenerla.
+    job_evaluation_notes: Los recursos financieros están en el nivel 5 porque el puesto gestiona las relaciones bancarias, la tesorería y los activos de la organización en todos los servicios.
+  - title: Responsable de contabilidad financiera
+    summary: Los responsables de contabilidad financiera dirigen la información obligatoria, el control financiero, la tesorería y la fiscalidad de la organización, y son el principal contacto de los auditores externos.
+    responsibilities:
+      - Dirigir la preparación del informe anual y las cuentas, y presentarlos al comité de auditoría.
+      - Asesorar a los directores y al comité de auditoría sobre los juicios contables significativos y las nuevas normas.
+      - Ser responsable de las normas financieras, los procedimientos financieros y el régimen de delegación.
+      - Dirigir la relación con los auditores externos y los organismos de supervisión en materia de información financiera.
+      - Fijar la política de tesorería y fiscal, y gestionar los riesgos financieros.
+      - Dirigir y desarrollar los equipos de contabilidad financiera, tesorería y transacciones.
+    qualifications:
+      - Una cualificación contable reconocida, con una amplia experiencia tras obtenerla, incluida la dirección de la información obligatoria.

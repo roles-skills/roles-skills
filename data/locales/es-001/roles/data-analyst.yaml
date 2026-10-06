@@ -1,0 +1,47 @@
+summary: >
+  Los analistas de datos convierten los datos de salud y asistencia en información que ayuda a los profesionales clínicos, a los gestores y a los planificadores a tomar decisiones. Preparan, enlazan y analizan datos de fuentes clínicas, operativas y declaradas por los pacientes, y los presentan en informes, cuadros de mando y notas informativas. Se aseguran de que su análisis sea exacto y reproducible y trate con seguridad los datos confidenciales de los pacientes.
+health_context:
+  - Gran parte de los datos describe a pacientes concretos, por lo que los analistas trabajan con datos seudonimizados siempre que pueden y revisan el riesgo de divulgación de los resultados antes de publicarlos.
+  - Los datos sanitarios se registran con terminologías y clasificaciones clínicas como SNOMED CT y la CIE, por lo que los analistas necesitan saber cómo se usan los códigos y dónde pueden inducir a error.
+  - La calidad de los datos varía entre entornos asistenciales y sistemas, y las carencias suelen afectar más a unos grupos de pacientes que a otros, por lo que los analistas comprueban los sesgos antes de sacar conclusiones.
+  - El análisis puede cambiar cómo se planifican, financian y prestan los servicios, por lo que los resultados necesitan advertencias claras y no deben exagerar la certeza.
+levels:
+  - title: Analista de datos asociado
+    responsibilities:
+      - Elaborar informes y cuadros de mando habituales sobre actividad, tiempos de espera y uso de los servicios, siguiendo métodos acordados.
+      - Depurar y preparar extracciones de los sistemas de admisión de pacientes, clínicos y operativos bajo supervisión.
+      - Comprobar los resultados frente a las reglas de calidad de los datos y comunicar los problemas al propietario de los datos que corresponda.
+      - Aplicar la supresión de números pequeños y otras reglas de divulgación antes de compartir los resultados.
+      - Responder a las solicitudes de datos sencillas de los equipos clínicos y operativos.
+    qualifications:
+      - Un grado en una materia cuantitativa, un programa de aprendizaje en analítica o experiencia equivalente.
+  - title: Analista de datos
+    responsibilities:
+      - Diseñar y realizar análisis que respondan a las preguntas de los equipos clínicos, operativos y de planificación.
+      - Enlazar con seguridad datos a nivel de paciente de distintas fuentes, con identificadores seudonimizados y métodos de enlace acordados.
+      - Escribir código de análisis reproducible y documentar los métodos, las hipótesis y las fuentes de datos.
+      - Explicar los resultados y sus límites a los profesionales clínicos y a los gestores en lenguaje claro.
+      - Comprobar los sesgos del análisis entre grupos de pacientes, por ejemplo por edad, sexo, origen étnico y privación.
+      - Apoyar a los analistas asociados y revisar su trabajo.
+    qualifications:
+      - Un grado en una materia cuantitativa, o experiencia equivalente.
+      - Experiencia en el análisis y la presentación de datos complejos.
+  - title: Analista de datos sénior
+    responsibilities:
+      - Dirigir el análisis de un área de servicio, como la atención urgente, el cáncer o la salud mental, acordando las prioridades con sus responsables.
+      - Fijar los métodos y el aseguramiento de la calidad del análisis del equipo, incluida la revisión entre pares del código y los resultados.
+      - Dirigir proyectos complejos de enlace de datos entre entornos asistenciales y acordar su base de gobernanza de la información.
+      - Presentar los resultados a grupos clínicos y de gestión de alto nivel y asesorar sobre lo que significan para los servicios.
+      - Trabajar con los ingenieros y los propietarios de los datos para corregir las causas de fondo de la mala calidad de los datos.
+      - Orientar y desarrollar a los analistas del equipo.
+    qualifications:
+      - Experiencia sustancial en la dirección del análisis de datos, a un nivel equivalente a un máster.
+  - title: Analista de datos principal
+    responsibilities:
+      - Fijar las normas de la organización para el análisis de datos, el aseguramiento de la calidad y la práctica analítica reproducible.
+      - Asesorar a los responsables directivos y clínicos sobre la evidencia en que se basan las grandes decisiones sobre servicios e inversión.
+      - Dirigir la comunidad analítica, incluidos su formación, sus herramientas y su desarrollo profesional.
+      - Dar forma a los acuerdos de intercambio y enlace de datos con los socios de salud y asistencia.
+      - Gestionar directamente a los analistas sénior y asegurarse de que el equipo tiene la capacidad y las habilidades que necesita.
+    qualifications:
+      - Amplia experiencia en la dirección del análisis de datos en toda una organización.

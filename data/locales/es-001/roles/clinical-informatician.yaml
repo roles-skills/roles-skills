@@ -1,0 +1,60 @@
+summary: >
+  Los informáticos clínicos son profesionales clínicos colegiados, como médicos, enfermeras, farmacéuticos y profesionales sanitarios afines, que usan su conocimiento clínico para dar forma a los servicios de salud digital de la organización. Se aseguran de que los sistemas clínicos, los datos y el apoyo a la decisión se ajusten a la forma en que se presta la atención, sean seguros de usar y mejoren los resultados de los pacientes y la experiencia de los profesionales clínicos y del personal asistencial.
+health_context:
+  - El rol necesita un conocimiento clínico actual, por lo que la mayoría de los puestos exigen la colegiación en un organismo profesional clínico y cierta práctica clínica continuada.
+  - Los informáticos clínicos dan asesoramiento especializado sobre cómo afectan los sistemas a la atención a los pacientes, por lo que su criterio afecta directamente a la seguridad de los pacientes.
+  - Trabajan estrechamente con los responsables de seguridad clínica, aportando conocimiento clínico a la identificación de peligros y a los casos de seguridad.
+  - Unos buenos datos clínicos dependen del uso coherente de terminologías clínicas como SNOMED CT, por lo que ayudan a diseñar registros estructurados y apoyo a la decisión.
+  - Actúan como puente entre los profesionales clínicos, el personal asistencial y los equipos digitales, y a menudo dirigen la participación clínica en los cambios de los sistemas.
+levels:
+  - title: Especialista en informática clínica
+    summary: Aporta conocimiento clínico al diseño, la configuración, las pruebas y la adopción de los sistemas clínicos, trabajando en un equipo de producto o de programa con la orientación de un informático clínico sénior.
+    responsibilities:
+      - Mapear los flujos de trabajo clínicos con profesionales clínicos y personal asistencial y convertirlos en requisitos claros.
+      - Diseñar y probar los contenidos del sistema, como los formularios, los conjuntos de órdenes y los planes de cuidados, frente a escenarios clínicos.
+      - Participar en talleres de peligros y dar opiniones clínicas sobre los riesgos y los controles.
+      - Ayudar a los profesionales clínicos y al personal asistencial a adoptar con seguridad los nuevos sistemas, incluidos la formación y el apoyo en la puesta en marcha.
+      - Comprobar que los datos clínicos se registran de forma coherente con las terminologías clínicas acordadas.
+      - Reunir opiniones y datos sobre el uso de los sistemas y proponer mejoras.
+    qualifications:
+      - Colegiación vigente en un organismo profesional clínico, con experiencia en la práctica clínica.
+      - Experiencia en el uso de sistemas clínicos en la práctica, o experiencia equivalente en cambio digital.
+    job_evaluation_notes: La atención a pacientes se puntúa en el nivel 4 porque el puesto asesora sobre la atención a los pacientes mediante el diseño de los sistemas clínicos. El esfuerzo emocional refleja la revisión habitual de historias clínicas e incidentes.
+  - title: Informático clínico sénior
+    summary: Dirige la aportación clínica a un sistema clínico, producto o programa importante, dando asesoramiento especializado sobre cómo afectan los servicios digitales a la atención y a la seguridad de los pacientes.
+    responsibilities:
+      - Dirigir el diseño clínico de un sistema clínico o producto importante, fijando las normas de contenidos y de configuración.
+      - Dar asesoramiento especializado a los equipos de producto sobre los flujos de trabajo clínicos, el apoyo a la decisión y la seguridad.
+      - Trabajar con el responsable de seguridad clínica para identificar peligros, acordar controles y aportar evidencias clínicas a los casos de seguridad.
+      - Dirigir la participación y la adopción clínicas en todos los servicios, promoviendo un uso seguro entre los pares clínicos.
+      - Planificar y realizar evaluaciones y auditorías clínicas del uso y de los beneficios de los sistemas.
+      - Ser mentor de los especialistas en informática clínica y de los profesionales clínicos que se inician en el trabajo digital.
+    qualifications:
+      - Colegiación vigente en un organismo profesional clínico, con una experiencia clínica sustancial.
+      - Una cualificación de posgrado en informática clínica o sanitaria, o experiencia equivalente.
+    job_evaluation_notes: La atención a pacientes se puntúa en el nivel 5 por el asesoramiento especializado sobre la atención a los pacientes. La investigación está en el nivel 3 porque la evaluación y la auditoría clínica de los sistemas son una parte principal del puesto.
+  - title: Informático clínico líder
+    summary: Dirige la informática clínica de una cartera de sistemas clínicos o de un entorno asistencial, fijando normas de diseño clínico y dirigiendo un equipo de informáticos clínicos.
+    responsibilities:
+      - Fijar las normas y los principios de diseño clínico de los sistemas clínicos de una cartera.
+      - Dirigir un equipo de informáticos clínicos, fijando prioridades y apoyando su desarrollo profesional.
+      - Asesorar a los comités de programa y a la alta dirección sobre el riesgo clínico, los beneficios y las prioridades de los sistemas clínicos.
+      - Dirigir las decisiones clínicas sobre el apoyo a la decisión, las alertas y los datos estructurados en todos los servicios.
+      - Crear redes de referentes clínicos y dirigir la participación clínica en los cambios a gran escala.
+      - Encargar y dirigir evaluaciones y usar la evidencia para dar forma a la hoja de ruta.
+    qualifications:
+      - Colegiación vigente en un organismo profesional clínico, con una amplia experiencia clínica.
+      - Una cualificación de posgrado en informática clínica o sanitaria, o experiencia equivalente en la dirección de trabajo de informática clínica.
+  - title: Responsable de informática clínica
+    summary: Dirige la función de informática clínica de la organización y su autoridad de diseño clínico, asegurándose de que todos los sistemas clínicos se diseñan, adoptan y mejoran con un sólido liderazgo clínico.
+    responsibilities:
+      - Fijar la estrategia de informática clínica y dirigir la autoridad de diseño clínico de la organización.
+      - Dirigir y desarrollar la función de informática clínica, incluidos su plan de plantilla y su presupuesto.
+      - Dar asesoramiento muy especializado al equipo directivo sobre el efecto de la inversión digital en la atención a los pacientes.
+      - Asegurarse de que los sistemas clínicos cumplen las normas de seguridad clínica, de terminología y de datos.
+      - Representar a la organización ante socios de salud y asistencia, organismos profesionales y redes académicas.
+      - Dirigir alianzas de investigación y evaluación para generar evidencia sobre la salud digital.
+    qualifications:
+      - Colegiación vigente en un organismo profesional clínico, con una amplia experiencia clínica y de liderazgo.
+      - Un máster en informática clínica o sanitaria, o experiencia equivalente en la dirección de la informática clínica a nivel de organización.
+    job_evaluation_notes: La atención a pacientes se puntúa en el nivel 6 por el asesoramiento muy especializado sobre la atención a los pacientes en todos los sistemas clínicos de la organización.

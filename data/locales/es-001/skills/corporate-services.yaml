@@ -1,0 +1,260 @@
+# Spanish translations of data/skills/corporate-services.yaml. Keys are the English skill ids.
+corp-administration:
+  name: Administración de oficina
+  description: Llevar a cabo los procesos administrativos que mantienen en marcha un equipo o servicio, como el archivo, los pedidos, la introducción de datos, los registros y el cumplimiento de los procedimientos de oficina.
+  levels:
+    awareness: |
+      Puede:
+      - seguir los procedimientos de oficina de archivo, pedidos e introducción de datos
+      - llevar registros exactos de su propio trabajo
+    working: |
+      Puede:
+      - llevar a cabo diversos procesos administrativos para un equipo con poca supervisión
+      - detectar y corregir errores en los registros y los datos
+      - proponer formas de trabajar más sencillas
+    practitioner: |
+      Puede:
+      - organizar el apoyo administrativo de un servicio o dirección
+      - redactar y mejorar procedimientos administrativos
+      - formar a otros administrativos y revisar su trabajo
+    expert: |
+      Puede:
+      - diseñar servicios administrativos para toda la organización
+      - dirigir el paso a procesos administrativos más sencillos y digitales
+corp-office-software:
+  name: Herramientas digitales de oficina
+  description: Usar con rapidez y exactitud el procesador de textos, las hojas de cálculo, las presentaciones, el correo electrónico, los documentos compartidos y las herramientas de colaboración.
+  levels:
+    awareness: |
+      Puede:
+      - crear y editar documentos, correos electrónicos y hojas de cálculo sencillas
+      - guardar y compartir archivos en el lugar adecuado
+    working: |
+      Puede:
+      - producir con rapidez y exactitud documentos y presentaciones bien formateados
+      - usar hojas de cálculo para ordenar, filtrar y resumir datos
+      - usar herramientas de colaboración para gestionar documentos compartidos y sus versiones
+    practitioner: |
+      Puede:
+      - crear plantillas, hojas de seguimiento y flujos de trabajo automatizados sencillos
+      - hacer que los documentos sean accesibles para todo el mundo
+      - ayudar a sus colegas a sacar el máximo partido de las herramientas de oficina
+    expert: |
+      Puede:
+      - fijar normas para las plantillas, la gestión documental y las herramientas de colaboración
+      - dirigir la adopción de nuevas herramientas de oficina en toda la organización
+corp-diary-and-meeting-management:
+  name: Gestión de agendas y reuniones
+  description: Gestionar agendas, reuniones y viajes para que el tiempo de las personas se aproveche bien y las reuniones cuenten con las personas, los documentos y las salas adecuados.
+  levels:
+    awareness: |
+      Puede:
+      - reservar reuniones y salas con las herramientas de la organización
+      - enviar a tiempo las convocatorias y los documentos
+    working: |
+      Puede:
+      - gestionar las agendas de un equipo, resolviendo coincidencias
+      - organizar viajes, eventos y reuniones con socios externos
+      - asegurarse de que los documentos y las acciones estén listos antes de las reuniones
+    practitioner: |
+      Puede:
+      - gestionar la agenda de un alto directivo, fijando las prioridades con él
+      - decidir qué requiere su tiempo y qué pueden atender otras personas
+      - planificar el ciclo anual de reuniones de un consejo o de un equipo directivo
+    expert: |
+      Puede:
+      - gestionar el ciclo de trabajo de un equipo directivo
+      - asegurarse de que el tiempo de la alta dirección se centre en las prioridades de la organización
+corp-minute-taking:
+  name: Redacción de actas y registros de reuniones
+  description: Registrar con exactitud y concisión los debates, las decisiones y las acciones, y llevar los registros formales de las reuniones.
+  levels:
+    awareness: |
+      Puede:
+      - tomar notas de las acciones y decisiones en las reuniones del equipo
+    working: |
+      Puede:
+      - redactar actas y registros de acciones exactos y concisos de las reuniones habituales
+      - hacer seguimiento de las acciones con sus responsables
+    practitioner: |
+      Puede:
+      - levantar actas formales de las reuniones del consejo y de los comités, incluidos los debates complejos o polémicos
+      - llevar registros formales de reuniones que resistan una auditoría o una investigación
+      - asesorar a las presidencias sobre lo que debe reflejar el acta
+    expert: |
+      Puede:
+      - fijar normas para los registros formales de reuniones en toda la organización
+      - formar a las personas que redactan actas y revisar la calidad de su trabajo
+corp-correspondence-management:
+  name: Gestión de la correspondencia y las consultas
+  description: Atender cartas, correos electrónicos, llamadas y consultas con rapidez y cortesía, y dirigirlos a la persona adecuada.
+  levels:
+    awareness: |
+      Puede:
+      - responder a llamadas y correos con cortesía y tomar mensajes exactos
+      - dirigir las consultas a la persona adecuada
+    working: |
+      Puede:
+      - atender usted mismo la correspondencia y las consultas habituales
+      - redactar cartas y respuestas para que otras personas las firmen
+      - llevar registros de correspondencia y reclamar las respuestas pendientes
+    practitioner: |
+      Puede:
+      - gestionar la correspondencia de un alto directivo, incluidas las cartas delicadas y las reclamaciones
+      - redactar respuestas que requieren tacto, exactitud y criterio
+      - asegurarse de que las respuestas cumplen los plazos
+    expert: |
+      Puede:
+      - fijar el proceso y las normas de la correspondencia de la dirección
+      - atender la correspondencia más delicada, incluida la dirigida a reguladores, socios y medios de comunicación
+corp-pmo-reporting:
+  name: Apoyo a la oficina de proyectos y cartera
+  description: Llevar a cabo los procesos de la oficina de proyectos y cartera, como los planes, los registros, los informes, el control documental y las comprobaciones de aseguramiento.
+  levels:
+    awareness: |
+      Puede:
+      - guardar los documentos del proyecto en el lugar adecuado, con control de versiones
+      - actualizar los registros de acciones, riesgos y problemas cuando se le pida
+    working: |
+      Puede:
+      - mantener planes, registros y hojas de seguimiento de varios proyectos
+      - reunir actualizaciones y elaborar informes de situación periódicos
+      - comprobar que los proyectos siguen el método acordado
+    practitioner: |
+      Puede:
+      - diseñar los informes de la cartera y analizar el avance, los riesgos y los beneficios de los proyectos
+      - realizar comprobaciones de aseguramiento y revisiones de hitos (gateway)
+      - asesorar a los gestores de proyectos sobre el método y los controles
+    expert: |
+      Puede:
+      - crear y dirigir una oficina de cartera para la organización
+      - dar a la alta dirección una visión clara y fiable de la cartera
+      - fijar normas y herramientas de gestión de proyectos y de cartera
+corp-assurance-and-audit:
+  name: Aseguramiento y relación con la auditoría
+  description: Obtener garantías de que los controles funcionan, apoyar las auditorías internas y externas y hacer seguimiento de las recomendaciones de auditoría hasta su cumplimiento.
+  levels:
+    awareness: |
+      Puede:
+      - explicar cómo funcionan las auditorías y el aseguramiento en la organización
+      - aportar evidencias cuando se le pidan
+    working: |
+      Puede:
+      - coordinar las evidencias para auditorías e inspecciones
+      - hacer seguimiento de las recomendaciones de auditoría y reclamar las acciones vencidas
+    practitioner: |
+      Puede:
+      - planificar el mapa de aseguramiento de los principales riesgos de la organización
+      - trabajar con los auditores internos y externos para acordar el alcance y las conclusiones
+      - informar a los comités sobre las carencias de aseguramiento
+    expert: |
+      Puede:
+      - diseñar el marco de aseguramiento de la organización
+      - asesorar al comité de auditoría y al consejo sobre la solidez del aseguramiento
+corp-policy-management:
+  name: Gestión de políticas
+  description: Redactar, revisar, aprobar y publicar las políticas y procedimientos de la organización, y comprobar que las personas los cumplen.
+  levels:
+    awareness: |
+      Puede:
+      - encontrar y seguir las políticas que se aplican a su trabajo
+    working: |
+      Puede:
+      - mantener al día el registro de políticas y recordar las revisiones a sus responsables
+      - comprobar que las políticas usan la plantilla y la vía de aprobación correctas
+    practitioner: |
+      Puede:
+      - redactar y revisar políticas con personas expertas en la materia
+      - contrastar las políticas con la ley, las normas y las obligaciones de igualdad
+      - vigilar el cumplimiento e informar de las carencias
+    expert: |
+      Puede:
+      - fijar el marco de políticas de la organización
+      - asesorar al consejo sobre las prioridades y los riesgos de las políticas
+corp-internal-communications:
+  name: Comunicación interna
+  description: Mantener al personal informado e implicado mediante canales como la intranet, los boletines, las sesiones informativas y los eventos, sobre todo durante los cambios.
+  levels:
+    awareness: |
+      Puede:
+      - publicar contenidos en los canales internos, como la intranet
+      - seguir el estilo y el tono de la organización
+    working: |
+      Puede:
+      - redactar y editar noticias, notas informativas y boletines para el personal
+      - planificar los contenidos de los canales internos y medir la participación
+    practitioner: |
+      Puede:
+      - planificar la comunicación interna de cambios importantes, como un nuevo sistema clínico
+      - asesorar a los líderes sobre cómo implicar al personal y gestionar mensajes difíciles
+      - usar la opinión del personal y los datos para mejorar los canales
+    expert: |
+      Puede:
+      - fijar la estrategia de comunicación interna y de implicación del personal
+      - asesorar al equipo directivo sobre la cultura y la implicación
+corp-media-relations:
+  name: Relaciones con los medios
+  description: Establecer relaciones con periodistas, atender las consultas de los medios, redactar notas de prensa y preparar a los portavoces, incluso durante los incidentes.
+  levels:
+    awareness: |
+      Puede:
+      - explicar cómo atiende la organización las consultas de los medios
+      - remitir de inmediato las consultas de los medios al equipo de comunicación
+    working: |
+      Puede:
+      - registrar y responder a las consultas habituales de los medios
+      - redactar notas de prensa y declaraciones para su aprobación
+      - seguir la cobertura de los medios
+    practitioner: |
+      Puede:
+      - atender consultas de los medios delicadas y reactivas, incluidas las relativas a incidentes o brechas de datos
+      - informar y preparar a los portavoces
+      - establecer relaciones con periodistas de salud y tecnología
+    expert: |
+      Puede:
+      - dirigir la relación con los medios durante incidentes graves y crisis
+      - proteger y reforzar la reputación de la organización ante las partes interesadas de alto nivel
+      - asesorar al consejo sobre el riesgo reputacional
+corp-communications-strategy:
+  name: Estrategia y planificación de la comunicación
+  description: Planificar comunicaciones y campañas que cumplan los objetivos de la organización, a partir del conocimiento de los públicos, y evaluar su efecto.
+  levels:
+    awareness: |
+      Puede:
+      - explicar los objetivos de un plan de comunicación en el que esté trabajando
+    working: |
+      Puede:
+      - redactar planes de comunicación para proyectos, con públicos, mensajes y canales
+      - medir los resultados de la actividad de comunicación
+    practitioner: |
+      Puede:
+      - planificar campañas que cambien comportamientos, como animar a los pacientes a usar un servicio digital
+      - usar el conocimiento de los públicos y la evaluación para mejorar las campañas
+      - planificar la comunicación de incidentes y de interrupciones del servicio
+    expert: |
+      Puede:
+      - fijar la estrategia de comunicación de la organización
+      - dirigir la comunicación de crisis
+      - asesorar al consejo sobre la reputación y la relación con las partes interesadas
+corp-digital-and-social-media:
+  name: Medios digitales y redes sociales
+  description: Planificar, publicar y gestionar contenidos en sitios web y redes sociales, interactuar con los públicos y medir los resultados.
+  levels:
+    awareness: |
+      Puede:
+      - publicar contenidos aprobados en los canales de la organización
+      - seguir la política de redes sociales
+    working: |
+      Puede:
+      - planificar y publicar contenidos para sitios web y redes sociales
+      - responder a los comentarios y detectar los asuntos que deben escalarse
+      - informar sobre el rendimiento de los canales
+    practitioner: |
+      Puede:
+      - gestionar los canales digitales de la organización y sus planes de contenidos
+      - gestionar publicaciones negativas o engañosas, incluso durante los incidentes
+      - usar la analítica para mejorar el alcance y la participación
+    expert: |
+      Puede:
+      - fijar la estrategia y la gobernanza de los canales digitales de la organización
+      - dirigir la respuesta a los riesgos reputacionales en línea

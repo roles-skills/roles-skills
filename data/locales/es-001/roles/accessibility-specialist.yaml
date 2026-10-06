@@ -1,0 +1,44 @@
+summary: >
+  Los especialistas en accesibilidad ayudan a la organización a que sus servicios de salud digital puedan usarlos el mayor número posible de personas, incluidas las personas con discapacidad y con enfermedades de larga duración. Prueban los servicios frente a las normas de accesibilidad y con tecnologías de apoyo, asesoran y forman a los equipos, y ayudan a incorporar la accesibilidad a cómo se diseñan, compran y construyen los servicios, los sistemas clínicos y la información sanitaria.
+health_context:
+  - Muchas de las personas que más necesitan los servicios de salud y asistencia tienen discapacidad, son mayores o viven con enfermedades de larga duración, por lo que los servicios inaccesibles pueden impedir que reciban atención.
+  - Los profesionales clínicos y el personal asistencial también tienen necesidades de accesibilidad, por lo que los sistemas clínicos internos, incluidos los comprados a proveedores, también deben ser accesibles.
+  - La información sanitaria suele ser compleja y se publica en muchos formatos, como documentos, cartas y vídeos, por lo que los especialistas ayudan a los equipos a hacerla toda accesible, incluidos la lectura fácil y los formatos alternativos.
+  - Los problemas de accesibilidad en los flujos de trabajo clínicos pueden convertirse en problemas de seguridad, por ejemplo cuando un lector de pantalla no anuncia un aviso, por lo que los especialistas trabajan con los responsables de seguridad clínica sobre estos riesgos.
+levels:
+  - title: Especialista en accesibilidad júnior
+    responsibilities:
+      - Probar páginas web, aplicaciones y documentos frente a las normas de accesibilidad, bajo supervisión.
+      - Registrar y explicar con claridad los problemas de accesibilidad para que los equipos puedan corregirlos.
+      - Ayudar en las pruebas con tecnologías de apoyo, como los lectores y las lupas de pantalla.
+      - Ayudar a mantener al día las declaraciones de accesibilidad y los registros de problemas.
+    qualifications:
+      - Algo de experiencia en pruebas, diseño o desarrollo digital, o experiencia equivalente.
+  - title: Especialista en accesibilidad
+    responsibilities:
+      - Realizar auditorías de accesibilidad de los servicios para pacientes, los sistemas clínicos y la información sanitaria.
+      - Probar con diversas tecnologías de apoyo y apoyar la investigación con usuarios con discapacidad.
+      - Asesorar a los equipos sobre las correcciones y sobre patrones accesibles para formularios, alertas e información crítica para la seguridad.
+      - Revisar la accesibilidad de los productos de los proveedores durante la contratación y la aceptación.
+      - Crear formación y guías, y orientar a los colegas con menos experiencia.
+    qualifications:
+      - Experiencia en pruebas de accesibilidad y en las normas de accesibilidad vigentes, o experiencia equivalente.
+  - title: Especialista en accesibilidad sénior
+    responsibilities:
+      - Incorporar la accesibilidad a las formas de trabajar de los equipos, desde el descubrimiento hasta el servicio en producción.
+      - Contribuir a la estrategia de accesibilidad, incluido cómo se garantiza la accesibilidad en la contratación y en las evaluaciones de servicio.
+      - Trabajar con los responsables de seguridad clínica cuando los problemas de accesibilidad puedan afectar a la seguridad de los pacientes.
+      - Crear e impartir formación en accesibilidad para diseñadores, desarrolladores, diseñadores de contenidos y proveedores.
+      - Dirigir o gestionar a otros especialistas en accesibilidad.
+    qualifications:
+      - Experiencia sustancial en accesibilidad, a un nivel equivalente a un máster.
+  - title: Responsable de accesibilidad
+    responsibilities:
+      - Fijar la visión, la estrategia y las normas de accesibilidad de la organización, para los servicios dirigidos a pacientes y los internos.
+      - Garantizar el cumplimiento de la legislación y las normas de accesibilidad en todos los servicios, e informar de ello a la alta dirección.
+      - Asegurarse de que los requisitos de accesibilidad forman parte de la contratación y de los contratos con los proveedores de sistemas clínicos.
+      - Influir en las prioridades de la organización para que no se excluya a los pacientes ni al personal con discapacidad.
+      - Dirigir y desarrollar el equipo de accesibilidad y la comunidad de práctica.
+    qualifications:
+      - Amplia experiencia en la dirección de la accesibilidad en una organización compleja.
+    job_evaluation_notes: No hay nivel en la banda 8a porque el UK GDaD PCF sitúa al responsable de accesibilidad en G7 o G6 y esta referencia sigue la banda 8b propuesta.

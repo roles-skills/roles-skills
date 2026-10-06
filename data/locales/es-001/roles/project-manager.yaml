@@ -1,0 +1,63 @@
+summary: >
+  Los gestores de proyectos planifican y ejecutan proyectos que cambian la forma en que la organización apoya la salud y la asistencia, como desplegar un sistema clínico en nuevos centros, trasladar servicios a una nueva infraestructura o introducir nuevas herramientas digitales para el personal asistencial. Controlan el alcance, el plazo, el coste, la calidad y el riesgo con métodos de proyecto reconocidos, y se aseguran de que los proyectos aporten los beneficios prometidos a pacientes y personal.
+health_context:
+  - Los proyectos que cambian sistemas o flujos de trabajo clínicos necesitan el aseguramiento de la seguridad clínica antes de la puesta en marcha, por lo que los gestores de proyectos incluyen en el calendario los talleres de peligros, la aprobación del caso de seguridad y la participación del responsable de seguridad clínica.
+  - Las puestas en marcha no deben interrumpir la atención a los pacientes, por lo que los gestores de proyectos planifican con los equipos clínicos y operativos los cambios de sistema, las medidas de continuidad de negocio y el apoyo presencial a los usuarios.
+  - Los proyectos suelen necesitar evaluaciones de impacto relativas a la protección de datos y acuerdos de intercambio de información, por lo que los gestores de proyectos los planifican pronto con los colegas de gobernanza de la información.
+  - Los beneficios en la atención, como el tiempo del personal liberado o la reducción de errores, tardan en aparecer, por lo que los gestores de proyectos fijan valores de referencia y traspasan al servicio el seguimiento de los beneficios.
+levels:
+  - title: Gestor de proyectos adjunto
+    summary: El gestor de proyectos adjunto apoya la ejecución de proyectos, o gestiona proyectos pequeños y bien definidos con la orientación de un gestor de proyectos con más experiencia.
+    responsibilities:
+      - Mantener los planes del proyecto, los registros de riesgos y problemas, los registros de acciones y los registros de dependencias.
+      - Organizar las reuniones y los comités del proyecto, levantar sus actas y hacer seguimiento de las acciones.
+      - Gestionar trabajos pequeños y bien definidos, como el despliegue en un centro o un calendario de formación, con orientación.
+      - Hacer seguimiento de las tareas de preparación para la puesta en marcha, como la aprobación de la seguridad clínica, las comprobaciones de protección de datos y la formación del personal.
+      - Preparar informes de situación y hacer seguimiento del gasto del proyecto frente al presupuesto.
+    qualifications:
+      - Una cualificación básica en gestión de proyectos, o experiencia equivalente.
+  - title: Gestor de proyectos
+    summary: El gestor de proyectos dirige de principio a fin proyectos de tamaño y complejidad moderados, como el despliegue de un servicio digital en varios entornos asistenciales.
+    responsibilities:
+      - Planificar y gestionar los proyectos desde su inicio hasta su cierre, controlando el alcance, el plazo, el coste, la calidad y el riesgo.
+      - Planificar las puestas en marcha con los equipos clínicos y operativos, incluidos el cambio de sistema, la continuidad de negocio y las medidas de apoyo.
+      - Asegurarse de que el aseguramiento de la seguridad clínica, la gobernanza de la información y la accesibilidad se planifica y se completa antes de la puesta en marcha.
+      - Gestionar el presupuesto del proyecto y los entregables de los proveedores.
+      - Informar al comité del proyecto y escalar los riesgos y problemas que superen las tolerancias.
+      - Fijar los valores de referencia de los beneficios y traspasar su seguimiento al servicio.
+    qualifications:
+      - Una cualificación reconocida de gestión de proyectos, como un certificado de nivel profesional, o experiencia equivalente.
+      - Experiencia en la gestión de proyectos que cambian servicios o sistemas.
+  - title: Gestor de proyectos sénior
+    summary: El gestor de proyectos sénior dirige proyectos grandes, complejos o de alto riesgo, como la sustitución de un sistema clínico en toda una organización, y puede gestionar a otro personal de proyectos.
+    responsibilities:
+      - Dirigir proyectos grandes o de alto riesgo, como la sustitución de sistemas clínicos o los despliegues en varios centros.
+      - Gestionar dependencias complejas con proveedores, otros proyectos y organizaciones socias de salud y asistencia.
+      - Dirigir las decisiones de puesta en marcha con el responsable de seguridad clínica, los responsables operativos y el responsable sénior del proyecto.
+      - Gestionar el presupuesto y los acuerdos comerciales del proyecto, incluido el control de cambios con los proveedores.
+      - Asegurarse de que los beneficios para pacientes y personal se definen, tienen responsable y se miden.
+      - Gestionar y desarrollar a los gestores de proyectos y al personal de apoyo a proyectos.
+    qualifications:
+      - Una cualificación reconocida de gestión de proyectos, o experiencia equivalente.
+      - Experiencia sustancial en la gestión de proyectos complejos en un entorno regulado o crítico para la seguridad.
+  - title: Gestor de proyectos líder
+    summary: El gestor de proyectos líder dirige los proyectos más complejos o un grupo de proyectos relacionados, y fija la práctica de gestión de proyectos de su área.
+    responsibilities:
+      - Dirigir los proyectos más complejos, o un grupo de proyectos relacionados, en varios servicios u organizaciones.
+      - Fijar las normas, las plantillas y el aseguramiento de la gestión de proyectos del área, y orientar a los gestores de proyectos.
+      - Asesorar a los responsables sénior de proyectos y a los comités sobre las opciones de ejecución, los riesgos y la reconducción de los proyectos con dificultades.
+      - Gestionar presupuestos y contratos importantes, y asegurarse de que los proyectos ofrecen una buena relación calidad-precio.
+      - Asegurarse de que se cumplen los requisitos de seguridad clínica y de gobernanza de la información en todo el grupo de proyectos.
+      - Gestionar directamente a los gestores de proyectos.
+    qualifications:
+      - Amplia experiencia en la dirección de proyectos complejos, con una cualificación reconocida de gestión de proyectos o experiencia equivalente.
+  - title: Responsable de gestión de proyectos
+    summary: El responsable de gestión de proyectos dirige la práctica de gestión de proyectos de la organización y a los gestores de proyectos que ejecutan su cambio digital.
+    responsibilities:
+      - Dirigir la práctica de gestión de proyectos, incluidos sus métodos, normas, herramientas y aseguramiento.
+      - Asignar gestores de proyectos a los proyectos de la organización y gestionar la capacidad de la práctica.
+      - Desarrollar la capacidad de gestión de proyectos, incluidos la selección, la formación y los itinerarios profesionales.
+      - Asesorar a la alta dirección sobre la salud de los proyectos, los riesgos de ejecución y las lecciones aprendidas.
+      - Gestionar el presupuesto de la práctica.
+    qualifications:
+      - Amplia experiencia en la dirección de proyectos y de gestores de proyectos, con una cualificación reconocida de gestión de proyectos o experiencia equivalente.

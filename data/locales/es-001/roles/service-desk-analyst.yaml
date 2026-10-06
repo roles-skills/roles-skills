@@ -1,0 +1,71 @@
+summary: >
+  Los analistas del centro de servicio son el primer punto de contacto del personal que necesita ayuda con los servicios digitales de la organización, desde problemas de acceso y de tarjeta inteligente hasta fallos en los sistemas clínicos y en los dispositivos. Registran, clasifican, resuelven o escalan los incidentes y las solicitudes, mantienen informados a los usuarios y detectan patrones que apuntan a problemas más amplios. En muchas organizaciones sanitarias el centro de servicio funciona a todas horas, porque los servicios clínicos también lo hacen.
+health_context:
+  - Quienes llaman suelen ser profesionales clínicos y personal asistencial en plena atención a pacientes, por lo que el centro prioriza según el efecto en los pacientes, no solo por orden de llegada.
+  - Muchos servicios clínicos funcionan las 24 horas todos los días, por lo que el centro de servicio suele trabajar por turnos y con guardias fuera de horario.
+  - El acceso a los sistemas clínicos usa el acceso basado en roles y una autenticación robusta, por lo que el centro resuelve problemas de cuentas, tarjetas inteligentes y autenticación multifactor comprobando con cuidado la identidad.
+  - Quienes llaman pueden compartir información confidencial de pacientes al describir un fallo, por lo que los analistas siguen las normas de gobernanza de la información sobre lo que registran en las incidencias.
+  - El centro suele ser el primero en ver indicios de un incidente grave o de un ciberataque, como muchas llamadas sobre el mismo sistema o una oleada de correos sospechosos, y debe escalarlos con rapidez.
+levels:
+  - title: Analista del centro de servicio
+    summary: El analista del centro de servicio atiende las llamadas y las incidencias del personal, resuelve los problemas habituales en el primer contacto con guiones y artículos de conocimiento, y traslada los demás al equipo adecuado.
+    responsibilities:
+      - Atender las llamadas, los chats y las incidencias de autoservicio del personal, y registrar cada una con exactitud en la herramienta de gestión de servicios.
+      - Resolver los problemas habituales en el primer contacto con guiones y artículos de conocimiento, como restablecer contraseñas, desbloquear cuentas y fallos de impresoras.
+      - Comprobar la identidad de quien llama antes de cambiar cuentas o accesos, siguiendo los procedimientos de la organización.
+      - Preguntar cómo afecta el problema a la atención a los pacientes, fijar la prioridad y trasladar el incidente al equipo resolutor adecuado.
+      - Mantener informados a los usuarios sobre sus incidencias y confirmar que la solución funciona antes de cerrarlas.
+      - Registrar en las incidencias solo la información necesaria, sin datos innecesarios de pacientes.
+    qualifications:
+      - Una cualificación de nivel 3 en informática, un programa de aprendizaje de soporte informático o experiencia equivalente.
+      - Buenas habilidades de atención al cliente y de teclado, adquiridas en el trabajo o en los estudios.
+    job_evaluation_notes: El UK GDaD PCF propone la banda 4 para este nivel. Esta referencia empieza el trabajo de primera línea con guiones del centro de servicio en la banda 3, y sitúa en la banda 4 a los analistas que resuelven fallos más complejos. El esfuerzo mental refleja la concentración frecuente en llamadas imprevisibles; el esfuerzo emocional refleja las llamadas frecuentes de personal sometido a presión en las zonas clínicas.
+  - title: Analista técnico del centro de servicio
+    summary: El analista técnico del centro de servicio resuelve en el primer contacto fallos más complejos, incluidas las correcciones remotas de dispositivos y de acceso a los sistemas clínicos, y atiende las llamadas urgentes de las zonas clínicas.
+    responsibilities:
+      - Resolver de forma remota incidentes y solicitudes más complejos, incluidos los fallos de dispositivos, de software y de acceso a los sistemas clínicos.
+      - Atender las llamadas urgentes de las zonas clínicas, como urgencias, plantas y quirófanos, e iniciar el proceso de incidente grave cuando sea necesario.
+      - Tramitar las solicitudes de acceso a los sistemas clínicos, comprobándolas frente a las normas de acceso basado en roles.
+      - Redactar y mejorar artículos de conocimiento para que más problemas puedan resolverse en el primer contacto.
+      - Detectar las llamadas repetidas sobre el mismo fallo y comunicarlas a la gestión de incidentes y de problemas.
+      - Notificar al equipo de seguridad los posibles correos de phishing y otros eventos de seguridad.
+      - Enseñar a los nuevos analistas a usar las herramientas y los procedimientos del centro.
+    qualifications:
+      - Experiencia en soporte informático en un centro de servicio o en un entorno similar.
+      - Una cualificación básica en gestión de servicios de TI, o experiencia equivalente.
+    job_evaluation_notes: Usa el mismo nivel del UK GDaD PCF que el analista de la banda 3, para los analistas que resuelven problemas más complejos y atienden llamadas clínicas urgentes. La comunicación está por encima del perfil de la banda porque los analistas tienen que explicar a menudo problemas técnicos a personal clínico muy ocupado.
+  - title: Analista sénior del centro de servicio
+    responsibilities:
+      - Dirigir un turno del centro de servicio, equilibrando las colas de llamadas con la urgencia clínica de los incidentes abiertos.
+      - Hacerse cargo de las llamadas difíciles o escaladas, incluidas las de profesionales clínicos sénior durante la atención urgente.
+      - Mantener exactos los guiones y los artículos de conocimiento a medida que cambian los sistemas clínicos y los dispositivos.
+      - Actuar como punto de escalado del centro fuera de horario, e iniciar el proceso de incidente grave cuando haya muchos usuarios afectados.
+      - Comprobar la calidad de las incidencias, incluidas las comprobaciones de identidad y lo que se registra sobre los pacientes.
+      - Planificar la cobertura de turnos para que el centro tenga personal en todo momento.
+    qualifications:
+      - Experiencia sustancial en un centro de servicio, incluida la gestión de escalados.
+      - Una cualificación en gestión de servicios de TI, o experiencia equivalente.
+    job_evaluation_notes: La planificación refleja la planificación de turnos y guardias de un centro que funciona las 24 horas. El esfuerzo emocional refleja las llamadas difíciles frecuentes de personal que atiende a pacientes urgentes.
+  - title: Gestor del centro de servicio
+    responsibilities:
+      - Gestionar el centro de servicio en el día a día, asegurándose de que tenga personal y responda las 24 horas todos los días.
+      - Fijar prioridades y objetivos de respuesta que reflejen el riesgo clínico, acordados con los responsables clínicos y operativos.
+      - Preparar el centro para los sistemas clínicos nuevos y modificados, incluidos la formación, los guiones y la cobertura adicional en la puesta en marcha.
+      - Analizar las tendencias de las incidencias para detectar problemas emergentes, y trabajar con la gestión de problemas para eliminar sus causas.
+      - Asegurarse de que el centro sigue los procedimientos de comprobación de identidad, gobernanza de la información y seguridad, y actúa según las conclusiones de las auditorías.
+      - Gestionar directamente a los analistas sénior y a los analistas, incluidos la selección, el rendimiento y el bienestar del personal a turnos.
+    qualifications:
+      - Experiencia en la dirección de un equipo de centro de servicio, incluida la cobertura por turnos o fuera de horario.
+      - Una cualificación intermedia en gestión de servicios de TI, o experiencia equivalente.
+    job_evaluation_notes: Los conocimientos están un nivel por debajo del perfil de la banda, como es habitual en los puestos de centro de servicio; la responsabilidad sobre las personas es mayor porque el gestor dirige un equipo a turnos.
+  - title: Responsable del centro de servicio
+    responsibilities:
+      - Marcar la dirección del centro de servicio, incluidos los canales de contacto, el autoservicio y el apoyo al personal que trabaja en varios centros y en la comunidad.
+      - Acordar los niveles de servicio con los servicios clínicos y corporativos, e informar del rendimiento a la alta dirección.
+      - Asegurarse de que el centro puede seguir trabajando durante los incidentes graves, los ciberataques y las caídas de los sistemas, con procedimientos claros de continuidad de negocio.
+      - Asesorar a los equipos de proyecto sobre cómo se dará soporte a los nuevos sistemas clínicos y corporativos antes de su puesta en marcha.
+      - Gestionar el presupuesto, las herramientas y los contratos de soporte externalizado o fuera de horario del centro de servicio.
+      - Dirigir y desarrollar a los gestores del centro de servicio, y crear una cultura de apoyo al personal a turnos.
+    qualifications:
+      - Amplia experiencia en la gestión de servicios de soporte informático, incluidos los servicios de 24 horas.
+      - Una cualificación avanzada en gestión de servicios de TI, o experiencia equivalente.

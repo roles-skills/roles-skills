@@ -11,6 +11,7 @@ How this reference is translated, and which locales are done. See [`locales-by-p
 | cy-gb | Cymraeg | Done | AI-translated, not yet reviewed by a native speaker; terminology follows TermCymru |
 | zh-001 | 中文 | Done | Simplified Chinese; AI-translated, not yet reviewed by a native speaker; slugs are made from the Chinese titles |
 | hi-001 | हिन्दी | Done | Hindi; AI-translated, not yet reviewed by a native speaker; slugs are made from the Devanagari titles, keeping vowel signs |
+| es-001 | Español | Done | Spanish; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, and "Head of" is the gender-neutral "Responsable de" |
 
 ## Process
 

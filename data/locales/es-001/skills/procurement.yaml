@@ -1,0 +1,265 @@
+# Spanish translations of data/skills/procurement.yaml. Keys are the English skill ids.
+proc-purchase-to-pay:
+  name: De la compra al pago
+  description: Emitir, aprobar y recepcionar pedidos, y resolver las consultas sobre facturas y pagos, mediante el sistema de compras y los controles financieros de la organización.
+  levels:
+    awareness: |
+      Puede:
+      - explicar la regla «sin pedido de compra no hay pago» y por qué importa
+      - emitir una solicitud de compra en el sistema de compras
+    working: |
+      Puede:
+      - crear y modificar pedidos de compra y contrastarlos con los contratos
+      - resolver con los proveedores y con finanzas las consultas sobre facturas, recepciones y pagos
+      - mantener los catálogos y los registros de proveedores en el sistema de compras
+    practitioner: |
+      Puede:
+      - gestionar el proceso de la compra al pago de un servicio, vigilando el cumplimiento y los atrasos
+      - analizar los datos de gasto para encontrar gasto fuera de contrato y ahorros
+      - mejorar el proceso y los controles con los colegas de finanzas
+    expert: |
+      Puede:
+      - fijar la política, los controles y los sistemas de la compra al pago de la organización
+      - dirigir el paso a las compras y la facturación totalmente electrónicas
+proc-procurement-process:
+  name: Proceso de contratación
+  description: Llevar a cabo contrataciones conformes a las normas, desde la planificación y las especificaciones, pasando por el procedimiento, la licitación y la adjudicación, hasta la firma del contrato, incluidas las compras mediante acuerdos marco y sistemas dinámicos de adquisición.
+  levels:
+    awareness: |
+      Puede:
+      - explicar las fases de una contratación y los umbrales aplicables
+      - pedir presupuestos para compras de bajo valor siguiendo las normas de la organización
+    working: |
+      Puede:
+      - gestionar solicitudes de presupuestos y contratos basados en acuerdos marco con plantillas estándar
+      - preparar los pliegos de licitación y gestionar las preguntas aclaratorias en la plataforma de licitación electrónica
+      - mantener una pista de auditoría clara de cada contratación
+    practitioner: |
+      Puede:
+      - planificar y dirigir licitaciones complejas, eligiendo la vía y el procedimiento adecuados
+      - ayudar a los usuarios a redactar especificaciones basadas en resultados para sistemas digitales y clínicos
+      - gestionar los calendarios, los riesgos y las partes interesadas hasta la adjudicación del contrato
+    expert: |
+      Puede:
+      - fijar los procedimientos y las plantillas de contratación de la organización
+      - dirigir las contrataciones más complejas, de mayor valor o novedosas
+      - garantizar ante el consejo las decisiones de contratación
+proc-tender-evaluation:
+  name: Evaluación de ofertas
+  description: Diseñar los criterios de evaluación y sus ponderaciones, y llevar a cabo una evaluación justa y bien documentada de la calidad, el precio y el valor social.
+  levels:
+    awareness: |
+      Puede:
+      - explicar por qué la evaluación debe seguir los criterios publicados
+      - declarar los conflictos de intereses antes de participar en una evaluación
+    working: |
+      Puede:
+      - comprobar la conformidad y la integridad de las ofertas
+      - apoyar a los evaluadores y registrar las puntuaciones y las notas de moderación
+      - preparar modelos de evaluación del precio con orientación
+    practitioner: |
+      Puede:
+      - diseñar criterios de evaluación, ponderaciones y guías de puntuación
+      - dirigir la moderación y redactar los informes de adjudicación y las respuestas a los licitadores
+      - planificar demostraciones y pruebas con escenarios clínicos o de usuario en las licitaciones de sistemas
+    expert: |
+      Puede:
+      - fijar las normas de evaluación de la organización y su enfoque sobre el precio y la calidad
+      - defender las decisiones de evaluación cuando se impugnan
+      - revisar las evaluaciones de las contrataciones de alto riesgo
+proc-procurement-law-and-policy:
+  name: Normas y política de contratación pública
+  description: Aplicar las normas de contratación pública, las normas financieras de la organización y la política de compras para que las compras sean lícitas, transparentes y justas.
+  levels:
+    awareness: |
+      Puede:
+      - explicar que el dinero público debe gastarse de forma justa, abierta y lícita
+      - seguir los umbrales y las normas de aprobación de la organización
+    working: |
+      Puede:
+      - aplicar las normas de contratación que corresponden a una compra sencilla
+      - publicar anuncios y llevar registros que cumplan las normas de transparencia
+      - detectar cuándo una solicitud puede incumplir las normas y comunicarlo
+    practitioner: |
+      Puede:
+      - asesorar sobre la vía lícita para contrataciones complejas y modificaciones de contratos
+      - gestionar el riesgo de impugnación y tramitar correctamente el periodo de espera y la información a los licitadores
+      - redactar la política y las guías de contratación de la organización
+    expert: |
+      Puede:
+      - interpretar las nuevas normas de contratación y dirigir la respuesta de la organización
+      - asesorar al consejo sobre el cumplimiento y el riesgo en la contratación
+      - gestionar las impugnaciones formales con los asesores jurídicos
+proc-market-analysis:
+  name: Análisis del mercado y relación con él
+  description: Comprender los mercados de suministro, relacionarse con los proveedores antes de la contratación y usar la evidencia del mercado para dar forma a los requisitos, los procedimientos y los modelos comerciales.
+  levels:
+    awareness: |
+      Puede:
+      - encontrar proveedores en acuerdos marco y bases de datos de proveedores
+      - explicar por qué las consultas preliminares al mercado deben ser justas con todos los proveedores
+    working: |
+      Puede:
+      - reunir información del mercado, precios y datos de proveedores para una necesidad
+      - realizar una solicitud de información y resumir las respuestas
+    practitioner: |
+      Puede:
+      - analizar un mercado de suministro, su competencia, sus riesgos y sus tendencias
+      - dirigir las consultas preliminares al mercado, como las jornadas con proveedores, sin falsear la competencia
+      - usar la evidencia del mercado para dar forma a los requisitos y a los modelos comerciales
+    expert: |
+      Puede:
+      - dar forma a los mercados, por ejemplo animando a proveedores nuevos o más pequeños
+      - dirigir la estrategia de mercado con otras organizaciones compradoras
+proc-negotiation:
+  name: Negociación comercial
+  description: Planificar y llevar a cabo negociaciones con los proveedores para acordar precios, condiciones y niveles de rendimiento que ofrezcan una buena relación calidad-precio y gestionen el riesgo.
+  levels:
+    awareness: |
+      Puede:
+      - explicar qué se puede negociar y qué no en una contratación pública
+    working: |
+      Puede:
+      - negociar precios y condiciones de compras de bajo valor o habituales
+      - preparar datos y opciones para una negociación dirigida por otras personas
+    practitioner: |
+      Puede:
+      - planificar y dirigir negociaciones, fijando objetivos, límites y posiciones alternativas
+      - negociar modificaciones y renovaciones de contratos y la resolución de conflictos
+      - mantener las negociaciones dentro de la legalidad y bien documentadas
+    expert: |
+      Puede:
+      - dirigir negociaciones de gran valor y alto riesgo con proveedores estratégicos
+      - orientar a otras personas en la negociación y fijar el enfoque de negociación de la organización
+proc-category-management:
+  name: Gestión por categorías
+  description: Gestionar una categoría de gasto, como el software, la nube y los servicios tecnológicos, mediante una estrategia de categoría que agrupe la demanda, dé forma a los requisitos y planifique las contrataciones durante varios años.
+  levels:
+    awareness: |
+      Puede:
+      - explicar qué es una categoría y por qué importan los planes de categoría
+    working: |
+      Puede:
+      - analizar el gasto y los contratos de una categoría y mantener al día el registro de contratos
+      - apoyar el plan de categoría, por ejemplo haciendo seguimiento de las renovaciones y los ahorros
+    practitioner: |
+      Puede:
+      - redactar y ejecutar una estrategia de categoría con los responsables de presupuesto y los responsables técnicos
+      - planificar la cartera de contrataciones y renovaciones de contratos de la categoría
+      - hacer seguimiento de los ahorros, el valor y los riesgos de la categoría
+    expert: |
+      Puede:
+      - fijar el enfoque de gestión por categorías de la organización
+      - dirigir las categorías de mayor gasto y riesgo, y alinearlas con la estrategia de la organización
+      - trabajar con otras organizaciones en compras conjuntas
+proc-technology-procurement:
+  name: Contratación de tecnología y servicios en la nube
+  description: Comprar software, servicios en la nube, licencias, hardware y servicios digitales, incluidos el software como servicio, los modelos comerciales, el licenciamiento y las condiciones de seguridad, protección de datos e interoperabilidad que necesita la tecnología sanitaria.
+  levels:
+    awareness: |
+      Puede:
+      - explicar las principales formas de comprar tecnología, como las licencias, las suscripciones y los servicios
+      - reconocer que los sistemas clínicos necesitan comprobaciones de seguridad, seguridad clínica y protección de datos
+    working: |
+      Puede:
+      - comprar software, hardware y licencias estándar mediante acuerdos marco
+      - hacer seguimiento del número de licencias, las renovaciones y las fechas de regularización
+      - incluir en los documentos los requisitos estándar de seguridad y protección de datos
+    practitioner: |
+      Puede:
+      - comprar servicios en la nube, software como servicio y sistemas clínicos, eligiendo el modelo comercial adecuado
+      - elaborar los requisitos con los responsables técnicos, de seguridad clínica y de gobernanza de la información
+      - incluir en los contratos condiciones de interoperabilidad, estándares abiertos, titularidad de los datos y salida
+      - evitar la dependencia de un proveedor planificando la portabilidad y la competencia en la renovación
+    expert: |
+      Puede:
+      - fijar la estrategia comercial de la organización para la tecnología y la nube
+      - dirigir las negociaciones de acuerdos corporativos y plataformas estratégicas
+      - asesorar a los responsables digitales sobre los riesgos comerciales de las decisiones tecnológicas
+proc-contract-management:
+  name: Gestión de contratos
+  description: Gestionar los contratos tras la adjudicación, incluidos la puesta en marcha, el rendimiento, los pagos, las modificaciones, los conflictos, la renovación y la salida, para que la organización obtenga aquello por lo que paga.
+  levels:
+    awareness: |
+      Puede:
+      - encontrar un contrato y explicar sus fechas clave, su valor y su responsable
+      - registrar las modificaciones y los documentos del contrato en el registro de contratos
+    working: |
+      Puede:
+      - vigilar el rendimiento del proveedor frente a los niveles de servicio y los indicadores clave de rendimiento
+      - preparar las reuniones de revisión del contrato y hacer seguimiento de las acciones
+      - tramitar las modificaciones del contrato y contrastar las facturas con el contrato
+    practitioner: |
+      Puede:
+      - gestionar una cartera de contratos, incluidos los clínicos y los tecnológicos
+      - aplicar las medidas contractuales, como las penalizaciones por nivel de servicio, cuando el rendimiento no sea suficiente
+      - gestionar las modificaciones, los conflictos y las renovaciones dentro de las normas de contratación
+      - planificar pronto la salida y probar los planes de salida antes de que terminen los contratos
+    expert: |
+      Puede:
+      - fijar el marco y las normas de gestión de contratos de la organización
+      - dirigir la gestión de los contratos estratégicos y de alto riesgo
+      - resolver conflictos importantes y decidir la resolución del contrato o una nueva licitación
+proc-supplier-relationship-management:
+  name: Gestión de la relación con los proveedores
+  description: Establecer relaciones estratégicas con los proveedores clave para gestionar el riesgo, mejorar el rendimiento y desarrollar productos y servicios a lo largo del tiempo.
+  levels:
+    awareness: |
+      Puede:
+      - explicar por qué importan las buenas relaciones con los proveedores en servicios de los que dependen los pacientes
+      - tratar con los proveedores de forma profesional y registrar los contactos
+    working: |
+      Puede:
+      - mantener al día los contactos de los proveedores, las vías de escalado y los registros
+      - comprobar la salud financiera y los seguros de los proveedores frente a los requisitos
+    practitioner: |
+      Puede:
+      - segmentar a los proveedores por riesgo y valor y planificar cómo gestionar cada grupo
+      - realizar revisiones estratégicas con los proveedores clave, incluidos la hoja de ruta y los planes de mejora
+      - gestionar los riesgos de los proveedores, como la quiebra, los ciberincidentes y los problemas de la cadena de suministro
+    expert: |
+      Puede:
+      - fijar la estrategia de relación con los proveedores de la organización
+      - dirigir las relaciones al más alto nivel con los proveedores estratégicos
+      - dirigir la respuesta cuando falla un proveedor crítico
+proc-exit-planning:
+  name: Planificación de la salida y devolución de los datos
+  description: Planificar y gestionar el final de un contrato, incluidos la transición a un nuevo proveedor, la devolución y supresión de los datos y la continuidad de los servicios para pacientes y personal.
+  levels:
+    awareness: |
+      Puede:
+      - explicar por qué todo contrato necesita un plan de salida
+      - encontrar las condiciones de salida y de devolución de datos de un contrato
+    working: |
+      Puede:
+      - mantener al día los planes de salida y los registros de activos y datos
+      - hacer seguimiento de los plazos de preaviso y los hitos de salida
+    practitioner: |
+      Puede:
+      - redactar planes de salida y transición con los responsables técnicos, de datos y clínicos
+      - asegurarse de que los datos se devuelven en formatos estándar y utilizables y después se suprimen de forma segura
+      - gestionar los riesgos de la transición para que no se interrumpa la atención
+    expert: |
+      Puede:
+      - fijar las normas de la organización sobre la salida, la transición y la devolución de los datos
+      - dirigir la salida de los contratos clínicos y tecnológicos estratégicos
+proc-social-value:
+  name: Valor social y contratación sostenible
+  description: Usar la contratación y los contratos para generar valor social, sostenibilidad ambiental y cadenas de suministro justas, y medir lo que aportan los proveedores.
+  levels:
+    awareness: |
+      Puede:
+      - explicar qué significan el valor social y la contratación sostenible para la organización
+    working: |
+      Puede:
+      - incluir en las licitaciones preguntas estándar de valor social y sostenibilidad
+      - reunir los informes de valor social de los proveedores
+    practitioner: |
+      Puede:
+      - fijar criterios de valor social y sostenibilidad adecuados al contrato
+      - gestionar los compromisos de los proveedores, como el empleo local, las competencias y la reducción de carbono
+      - revisar las cadenas de suministro en busca de riesgos como el trabajo forzoso y otras violaciones de los derechos humanos
+    expert: |
+      Puede:
+      - fijar la política de valor social y contratación sostenible de la organización
+      - informar al consejo de los resultados de valor social y de carbono

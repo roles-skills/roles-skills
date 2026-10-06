@@ -1,0 +1,53 @@
+summary: >
+  Los analistas de rendimiento miden lo bien que funcionan los servicios de salud digital de la organización para los pacientes, los usuarios de los servicios, los profesionales clínicos y el personal asistencial. Crean marcos de medición, recogen y analizan datos de uso y de resultados, y ayudan a los equipos de producto y a los responsables de servicio a entender si los cambios mejoran el acceso, la experiencia, la seguridad y la eficiencia.
+health_context:
+  - Las medidas de éxito van más allá de la adopción digital e incluyen los efectos en la atención, como las citas perdidas, los tiempos de espera, el triaje seguro y el tiempo liberado del personal.
+  - La analítica y el seguimiento en los servicios sanitarios pueden revelar información sensible, como la enfermedad que buscó una persona, por lo que la medición debe respetar el consentimiento, las normas sobre cookies y la confidencialidad.
+  - Los servicios digitales no deben aumentar las desigualdades en salud, por lo que los analistas estudian la adopción y los resultados de los grupos con menos probabilidades de usar servicios digitales.
+  - Los datos de rendimiento pueden comunicarse a consejos, financiadores y reguladores, por lo que las definiciones deben ser coherentes y estar bien documentadas.
+levels:
+  - title: Analista de rendimiento asociado
+    responsibilities:
+      - Elaborar informes periódicos sobre cómo usan los pacientes y el personal los servicios digitales, como los registros, los trámites completados y los puntos de abandono.
+      - Comprobar si los datos de analítica y seguimiento tienen carencias o errores, y comunicarlos al equipo.
+      - Seguir las normas de la organización sobre consentimiento y confidencialidad al recoger y compartir datos de uso.
+      - Ayudar a los equipos de producto a responder preguntas sencillas sobre el uso de los servicios.
+    qualifications:
+      - Buen manejo de los números y algo de experiencia en el tratamiento o el análisis de datos, o equivalente.
+  - title: Analista de rendimiento
+    responsibilities:
+      - Acordar con los equipos de producto y los responsables clínicos cómo es el éxito de un servicio, incluidos sus efectos en la atención y en el personal.
+      - Configurar y validar la analítica, para que el seguimiento sea exacto, proporcionado y respete el consentimiento.
+      - Combinar la analítica digital con datos operativos, como las citas y las derivaciones, para mostrar el efecto de los cambios.
+      - Analizar la adopción y los resultados de distintos grupos de pacientes y señalar los riesgos de exclusión digital.
+      - Presentar los resultados a los equipos de producto y a los responsables de servicio y recomendar mejoras.
+    qualifications:
+      - Un grado en una materia cuantitativa, o experiencia equivalente.
+      - Experiencia en la medición del rendimiento de servicios digitales.
+  - title: Analista de rendimiento sénior
+    responsibilities:
+      - Dirigir la medición del rendimiento de un grupo de servicios o de un programa importante, como las consultas externas digitales o el triaje en línea.
+      - Diseñar medidas de beneficios con los responsables clínicos, financieros y operativos, y hacer su seguimiento durante la entrega.
+      - Elegir y configurar herramientas de analítica que cumplan los requisitos de gobernanza de la información y de seguridad.
+      - Presentar las evidencias de rendimiento a los comités de programa y a la alta dirección.
+      - Orientar a los analistas y, en su caso, gestionar directamente a uno o varios analistas de rendimiento.
+    qualifications:
+      - Experiencia sustancial en el análisis del rendimiento de servicios digitales, a un nivel equivalente a un máster.
+  - title: Analista de rendimiento líder
+    responsibilities:
+      - Dirigir un equipo de analistas de rendimiento para una cartera de servicios de salud digital.
+      - Acordar definiciones coherentes de las medidas clave de rendimiento, para que los informes a consejos y socios puedan compararse a lo largo del tiempo.
+      - Asegurarse de que los datos de analítica son exactos, se usan adecuadamente y se tratan de acuerdo con las normas de gobernanza de la información.
+      - Usar las evidencias de rendimiento para influir en las prioridades de la cartera y en la inversión.
+      - Orientar y ser mentor de analistas de todos los niveles.
+    qualifications:
+      - Amplia experiencia en análisis de rendimiento y en la dirección de analistas.
+  - title: Responsable de análisis de rendimiento
+    responsibilities:
+      - Fijar la estrategia de medición del rendimiento y de los beneficios de los servicios digitales de la organización.
+      - Definir el marco de aseguramiento de la calidad del análisis y de los informes de rendimiento.
+      - Asesorar a la alta dirección sobre lo que muestran las evidencias de rendimiento acerca de los servicios digitales y los resultados de los pacientes.
+      - Trabajar con otras profesiones analíticas, como el análisis de datos y la ciencia de datos, para compartir métodos y datos.
+      - Planificar la capacidad de la comunidad de análisis de rendimiento, incluidos la selección y el desarrollo.
+    qualifications:
+      - Amplia experiencia en la dirección del análisis de rendimiento en toda una organización.

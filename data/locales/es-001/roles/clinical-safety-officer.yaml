@@ -1,0 +1,47 @@
+summary: >
+  Los responsables de seguridad clínica son profesionales clínicos colegiados que se aseguran de que los sistemas de TI sanitarios que la organización desarrolla, compra y despliega sean seguros para los pacientes. Dirigen el proceso de gestión del riesgo clínico, dirigen la identificación de peligros, son responsables de los registros de peligros, y redactan y aprueban los informes de casos de seguridad clínica, con normas de gestión del riesgo clínico como ISO 14971 e IEC 80001-1.
+health_context:
+  - El rol debe ocuparlo un profesional clínico colegiado, para que los juicios de seguridad se basen en un conocimiento clínico actual y en la responsabilidad profesional.
+  - La TI sanitaria puede causar daño a los pacientes mediante información errónea, ausente, tardía o engañosa, por lo que el rol evalúa riesgos que a menudo están ocultos en los datos y en los flujos de trabajo.
+  - El trabajo de seguridad clínica abarca toda la vida de un sistema, desde el diseño y la contratación hasta el despliegue, los cambios y la retirada.
+  - Algunos productos también están regulados como productos sanitarios, por lo que el rol trabaja con los colegas de regulación y calidad cuando los casos de seguridad y los expedientes del producto se solapan.
+  - Los incidentes de seguridad relacionados con la TI sanitaria pueden causar daños graves, por lo que el rol investiga los incidentes y se asegura de que se aprendan las lecciones.
+levels:
+  - title: Responsable de seguridad clínica
+    summary: Dirige el proceso de gestión del riesgo clínico de un conjunto de productos o cambios, dirigiendo talleres de peligros, manteniendo registros de peligros y redactando informes de casos de seguridad clínica para su aprobación.
+    responsibilities:
+      - Dirigir talleres de identificación de peligros con los equipos de producto, los profesionales clínicos y los proveedores.
+      - Evaluar los riesgos clínicos y acordar controles, y después comprobar que los controles funcionan mediante pruebas y evidencias.
+      - Redactar y mantener registros de peligros e informes de casos de seguridad clínica de productos y cambios.
+      - Revisar la documentación de seguridad de los proveedores de los sistemas que compra la organización.
+      - Investigar los incidentes de seguridad relacionados con la TI sanitaria y recomendar mejoras.
+      - Asesorar a los equipos digitales sobre el proceso de gestión del riesgo clínico y la seguridad desde el diseño.
+    qualifications:
+      - Colegiación vigente en un organismo profesional clínico, con una experiencia clínica sustancial.
+      - Formación en gestión del riesgo clínico de la TI sanitaria, o experiencia equivalente.
+    job_evaluation_notes: La atención a pacientes se puntúa en el nivel 5 porque el puesto da asesoramiento especializado sobre la seguridad de los sistemas que se usan en la atención a los pacientes. El esfuerzo mental refleja la concentración prolongada en la documentación y las evidencias de seguridad.
+  - title: Responsable de seguridad clínica sénior
+    summary: Dirige la seguridad clínica de un programa importante o de una cartera de sistemas de alto riesgo, aprobando los casos de seguridad y orientando a otros responsables de seguridad clínica.
+    responsibilities:
+      - Dirigir la gestión del riesgo clínico de sistemas de alto riesgo, como la historia clínica electrónica, la prescripción y el apoyo a la decisión.
+      - Aprobar registros de peligros e informes de casos de seguridad clínica dentro de la autoridad delegada.
+      - Asesorar a los comités de programa sobre el riesgo clínico y sobre si un sistema es seguro para ponerse en marcha.
+      - Dirigir las investigaciones de incidentes de seguridad graves relacionados con la TI sanitaria.
+      - Orientar a los responsables de seguridad clínica y a los profesionales clínicos formados en seguridad, y revisar la calidad de su trabajo.
+      - Ayudar a mejorar el sistema de gestión del riesgo clínico y las plantillas de la organización.
+    qualifications:
+      - Colegiación vigente en un organismo profesional clínico, con una amplia experiencia clínica.
+      - Experiencia sustancial en la gestión del riesgo clínico de la TI sanitaria.
+  - title: Jefe de seguridad clínica
+    summary: Es responsable del sistema de gestión del riesgo clínico de la TI sanitaria de la organización, dirige el equipo de seguridad clínica y da al consejo garantías de que sus servicios digitales son clínicamente seguros.
+    responsibilities:
+      - Ser responsable del sistema, la política y los procesos de gestión del riesgo clínico de toda la TI sanitaria.
+      - Dirigir y desarrollar el equipo de seguridad clínica y la red más amplia de profesionales clínicos formados en seguridad.
+      - Garantizar los casos de seguridad de los sistemas principales y emitir la recomendación final de seguridad clínica sobre su despliegue.
+      - Dirigir la respuesta a los incidentes de seguridad graves relacionados con la TI sanitaria, también con socios y proveedores.
+      - Informar al consejo y a sus comités sobre los riesgos y el aseguramiento de la seguridad clínica.
+      - Crear una cultura de seguridad clínica en los equipos digitales, clínicos y de los proveedores.
+    qualifications:
+      - Colegiación vigente en un organismo profesional clínico, con una amplia experiencia clínica y de liderazgo.
+      - Amplia experiencia en la dirección de la gestión del riesgo clínico de la TI sanitaria en toda una organización.
+    job_evaluation_notes: La atención a pacientes se puntúa en el nivel 6 porque el puesto rinde cuentas de la seguridad clínica de la TI sanitaria de la organización. El esfuerzo emocional refleja la revisión habitual de incidentes con daño a pacientes.

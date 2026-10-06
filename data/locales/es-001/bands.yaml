@@ -1,0 +1,97 @@
+# Band outlines in Spanish. Keys are the English band ids.
+"1":
+  title: Banda 1
+  stage: Inicial
+  knowledge: Lectura, escritura y cálculo básicos; aprende tareas rutinarias sencillas en el puesto.
+  autonomy: Sigue instrucciones claras; su trabajo se revisa a menudo.
+  scope: Sus propias tareas rutinarias.
+  leadership: Ninguno.
+  accountability: Realizar con exactitud las tareas rutinarias.
+"2":
+  title: Banda 2
+  stage: Apoyo
+  knowledge: Conoce las rutinas y los procedimientos de su área de trabajo; puede tener una cualificación de nivel inicial.
+  autonomy: Trabaja según procedimientos establecidos, con supervisión disponible.
+  scope: Sus propias tareas dentro de un equipo.
+  leadership: Puede enseñar tareas rutinarias a las personas recién incorporadas.
+  accountability: La calidad y la puntualidad de su propio trabajo rutinario.
+"3":
+  title: Banda 3
+  stage: Apoyo
+  knowledge: Conocimiento de diversos procedimientos, algunos no rutinarios; normalmente una cualificación de nivel 3 o experiencia equivalente.
+  autonomy: Trabaja dentro de los procedimientos; decide cómo organizar su trabajo; deriva los problemas hacia arriba.
+  scope: Su propio trabajo y algunas tareas para el equipo en general.
+  leadership: Puede asignar trabajo rutinario o formar a otras personas en los procedimientos.
+  accountability: La exactitud de su propio trabajo y de los registros que mantiene.
+"4":
+  title: Banda 4
+  stage: Apoyo y profesional inicial
+  knowledge: Conocimiento detallado del área de trabajo, normalmente mediante un título de grado básico, un programa de aprendizaje o experiencia equivalente.
+  autonomy: Trabaja dentro de unas pautas; resuelve la mayoría de los problemas cotidianos; cuenta con su responsable para pedir consejo.
+  scope: Su propio trabajo y un servicio o proceso definido.
+  leadership: Puede supervisar un equipo pequeño o coordinar el trabajo de otras personas.
+  accountability: La prestación de un servicio o proceso definido.
+"5":
+  title: Banda 5
+  stage: Profesional
+  knowledge: Conocimiento profesional o técnico, normalmente mediante un grado universitario o experiencia equivalente.
+  autonomy: Trabaja hacia objetivos amplios dentro de las normas profesionales; planifica su propio trabajo.
+  scope: Su propio trabajo profesional dentro de un equipo o producto.
+  leadership: Puede orientar y revisar el trabajo del personal de apoyo y de los aprendices.
+  accountability: La calidad de su propio trabajo profesional.
+"6":
+  title: Banda 6
+  stage: Profesional con experiencia
+  knowledge: Conocimiento especializado de diversos procedimientos, adquirido mediante formación adicional o experiencia.
+  autonomy: Trabaja con independencia; interpreta la política para su área; pide consejo en cuestiones complejas.
+  scope: Un producto, servicio o línea de trabajo.
+  leadership: Puede dirigir un equipo pequeño o ser mentor de sus colegas.
+  accountability: Los resultados de su línea de trabajo y la calidad del asesoramiento que da.
+"7":
+  title: Banda 7
+  stage: Sénior o especialista
+  knowledge: Conocimiento especializado muy desarrollado, normalmente de nivel de máster o experiencia equivalente.
+  autonomy: Trabaja según la política de la organización; decide cómo se logran los resultados; es la persona experta a la que otros consultan.
+  scope: Varios productos o servicios, o una función especializada.
+  leadership: Dirige un equipo o un área de práctica profesional.
+  accountability: La prestación de un servicio o función especializada, y su presupuesto si lo tiene.
+8a:
+  title: Banda 8a
+  stage: Líder
+  knowledge: Conocimiento experto de una disciplina y de su gestión.
+  autonomy: Interpreta la política de la organización para un servicio; marca la dirección del equipo.
+  scope: Un área de servicio o una disciplina en toda la organización.
+  leadership: Gestiona un equipo, o dirige una disciplina sin gestión directa de personas.
+  accountability: Un área de servicio, su personal y su presupuesto.
+8b:
+  title: Banda 8b
+  stage: Líder
+  knowledge: Conocimiento experto de varias disciplinas o de un servicio grande.
+  autonomy: Da forma a la política y la estrategia de un área grande.
+  scope: Varios servicios o equipos, o una disciplina de nivel principal.
+  leadership: Gestiona a gestores, o es la máxima autoridad en una disciplina.
+  accountability: Varios servicios, su personal y sus presupuestos.
+8c:
+  title: Banda 8c
+  stage: Líder sénior
+  knowledge: Conocimiento experto y una amplia comprensión de la organización y del sector.
+  autonomy: Fija la estrategia de una función; rinde cuentas ante un director.
+  scope: Una función o departamento.
+  leadership: Dirige una función a través de varios niveles de gestión.
+  accountability: El rendimiento, la plantilla y el presupuesto de una función.
+8d:
+  title: Banda 8d
+  stage: Líder sénior
+  knowledge: Conocimiento estratégico de varias funciones y del sistema de salud y asistencia en general.
+  autonomy: Da forma a la estrategia de toda la organización; sustituye a un director.
+  scope: Una función principal o varias funciones.
+  leadership: Dirige varias funciones o un departamento grande.
+  accountability: Funciones principales, presupuestos grandes y riesgos de toda la organización.
+"9":
+  title: Banda 9
+  stage: Jefatura de profesión o dirección
+  knowledge: Pericia estratégica y liderazgo en todo el sistema.
+  autonomy: Fija la estrategia de la organización con el equipo directivo.
+  scope: La organización y sus socios en todo el sistema.
+  leadership: Dirige una profesión o una dirección.
+  accountability: Resultados, presupuestos y riesgos de toda la organización.

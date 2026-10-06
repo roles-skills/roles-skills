@@ -1,0 +1,158 @@
+# Job evaluation factors in Spanish. Keys are the English factor ids.
+communication:
+  name: Habilidades de comunicación y relación
+  description: Las habilidades necesarias para comunicarse y establecer relaciones con colegas, pacientes, el público y los socios. Tiene en cuenta lo compleja, delicada o polémica que es la información, y cualquier barrera para su comprensión o aceptación.
+  levels:
+    "1": Da y recibe información rutinaria de forma oral, principalmente con colegas.
+    "2": Da y recibe información rutinaria de forma oral, escrita o electrónica, con colegas y otras personas.
+    "3": Da información rutinaria que requiere tacto o persuasión, o información compleja o delicada, o formación sencilla a grupos.
+    "4": Da información compleja, delicada o polémica que requiere habilidades de persuasión, negociación o formación, o información muy compleja.
+    "5": Da información muy compleja o polémica que requiere habilidades desarrolladas de persuasión y negociación, presenta ante grupos grandes, o se comunica cuando hay barreras importantes para la aceptación.
+    "6": Da información muy compleja y muy polémica cuando hay barreras importantes para la aceptación, con el máximo nivel de habilidades de comunicación.
+knowledge:
+  name: Conocimientos, formación y experiencia
+  description: Los conocimientos y la experiencia necesarios para desempeñar el puesto, de cualquier origen, incluidos la formación reglada, las cualificaciones y la experiencia.
+  levels:
+    "1": Unos pocos procedimientos rutinarios, aprendidos en el puesto durante una breve acogida.
+    "2": Diversos procedimientos rutinarios, aprendidos mediante formación en el puesto y acogida.
+    "3": Diversos procedimientos, algunos no rutinarios, que requieren teoría de nivel básico (por ejemplo, una cualificación de nivel 3 o experiencia equivalente).
+    "4": Diversos procedimientos, en su mayoría no rutinarios, que requieren teoría de nivel intermedio (por ejemplo, un título de grado básico o experiencia equivalente).
+    "5": Pericia en una especialidad, basada en la teoría o en la experiencia práctica (nivel de grado universitario o equivalente).
+    "6": Conocimiento especializado de toda la especialidad (nivel de diploma de posgrado o equivalente).
+    "7": Conocimiento especializado muy desarrollado de toda la especialidad (nivel de máster o equivalente).
+    "8": Conocimiento avanzado (doctorado más formación adicional o equivalente), o conocimiento especializado de más de una disciplina adquirido durante un largo periodo.
+analytical:
+  name: Habilidades analíticas y de juicio
+  description: El análisis y el juicio necesarios para procesar información, resolver problemas y tomar decisiones.
+  levels:
+    "1": Juicios sobre hechos o situaciones sencillos.
+    "2": Juicios sobre hechos o situaciones, algunos de los cuales requieren análisis.
+    "3": Juicios sobre diversos hechos o situaciones que requieren análisis o comparación de opciones.
+    "4": Juicios sobre hechos o situaciones complejos que requieren análisis, interpretación y comparación de opciones.
+    "5": Juicios sobre hechos o situaciones muy complejos que requieren análisis, interpretación y comparación de opciones.
+planning:
+  name: Habilidades de planificación y organización
+  description: La planificación y la organización necesarias para llevar a cabo actividades, programas, servicios o estrategias.
+  levels:
+    "1": Organiza su propio trabajo diario.
+    "2": Planifica tareas o actividades sencillas, algunas continuas.
+    "3": Planifica varias actividades complejas y ajusta los planes según sea necesario.
+    "4": Planifica una amplia gama de actividades o estrategias complejas y las ajusta según sea necesario.
+    "5": Elabora planes estratégicos a largo plazo, con incertidumbre y efectos en toda la organización.
+physical-skills:
+  name: Habilidades físicas
+  description: Las habilidades físicas necesarias, como la destreza, la coordinación, el manejo del teclado y la conducción.
+  levels:
+    "1": Poca necesidad de habilidades físicas.
+    "2": Habilidades adquiridas con la práctica, como el uso normal del teclado o la conducción.
+    "3": Habilidades desarrolladas que requieren rapidez o precisión, como el uso avanzado del teclado.
+    "4": Habilidades muy desarrolladas que requieren precisión o rapidez y una alta coordinación entre la mano y el ojo.
+    "5": El máximo nivel de precisión, rapidez y coordinación.
+patient-care:
+  name: Responsabilidad en la atención a pacientes y usuarios
+  description: Responsabilidad de valorar, tratar, cuidar o asesorar a pacientes y usuarios. En la mayoría de los puestos digitales y corporativos se trata solo de contacto ocasional.
+  levels:
+    "1": Ayuda a pacientes, usuarios o familiares durante un contacto ocasional.
+    "2": Da asesoramiento, información o servicios generales no clínicos directamente a pacientes o al público.
+    "3": Presta cuidados personales, servicios técnicos clínicos básicos o asesoramiento clínico básico.
+    "4": Presta atención clínica, servicios técnicos clínicos o asesoramiento sobre la atención a pacientes.
+    "5": Elabora programas de atención, presta servicios técnicos clínicos especializados o da asesoramiento especializado sobre la atención a pacientes.
+    "6": Desarrolla atención especializada, da asesoramiento muy especializado o es responsable de una parte de un servicio clínico.
+    "7": Responsable de prestar un servicio clínico o asistencial.
+    "8": Responsabilidad institucional sobre servicios clínicos o asistenciales.
+policy:
+  name: Responsabilidad en el desarrollo de políticas y servicios
+  description: Responsabilidad de elaborar y aplicar políticas y servicios, y el alcance de sus efectos.
+  levels:
+    "1": Sigue políticas fijadas por otras personas; puede opinar sobre los cambios.
+    "2": Aplica políticas en su propia área y propone cambios en sus prácticas.
+    "3": Aplica políticas en su propia área y propone cambios que afectan a otras áreas.
+    "4": Aplica políticas y desarrolla políticas o servicios para un servicio o varias áreas.
+    "5": Aplica y desarrolla diversas políticas o servicios para una dirección.
+    "6": Responsabilidad institucional sobre el desarrollo de políticas o servicios importantes en toda la organización o fuera de ella.
+financial-resources:
+  name: Responsabilidad sobre recursos financieros y materiales
+  description: Responsabilidad sobre dinero, presupuestos, equipos, existencias, edificios y otros activos.
+  levels:
+    "1": Cuida personalmente los equipos y recursos que utiliza en su trabajo.
+    "2": Maneja efectivo u objetos de valor, cuida equipos que usan otras personas, controla existencias o autoriza pagos pequeños.
+    "3": Autoriza pagos, compra algunos activos o suministros, supervisa o gestiona un presupuesto delegado, o mantiene activos.
+    "4": Gestiona o fija el presupuesto de un departamento o servicio, o compra o mantiene sus activos.
+    "5": Gestiona o fija presupuestos, o gestiona activos, de varios servicios.
+    "6": Responsabilidad institucional sobre las finanzas o los activos de la organización.
+people:
+  name: Responsabilidad sobre personas
+  description: Responsabilidad de gestionar, supervisar, formar o desarrollar al personal, o de prestar servicios de personas (recursos humanos).
+  levels:
+    "1": Enseña sus rutinas de trabajo a colegas nuevos o con menos experiencia.
+    "2": Supervisa o coordina al personal en el día a día, forma a otras personas con regularidad o da asesoramiento básico de recursos humanos.
+    "3": Gestiona un grupo de personas en el día a día, imparte formación básica o especializada, o da asesoramiento esencial de recursos humanos.
+    "4": Gestiona directamente una función o departamento, diseña programas de formación como tarea principal, o presta toda la gama de servicios de recursos humanos.
+    "5": Gestiona directamente varios departamentos, o gestiona la formación o una gran parte de los recursos humanos de toda la organización.
+    "6": Responsabilidad institucional sobre las personas o la función de recursos humanos de la organización.
+information-resources:
+  name: Responsabilidad sobre recursos de información
+  description: Responsabilidad sobre la información y los sistemas de información, en papel o digitales, incluidos los registros, los datos y los sistemas que los contienen.
+  levels:
+    "1": Registra la información que produce la persona titular del puesto.
+    "2": Introduce o almacena datos recopilados por otras personas, o redacta informes o consultas de forma ocasional.
+    "3": Levanta actas formales, redacta informes o consultas con regularidad, o mantiene sistemas de información como tarea importante.
+    "4": Adapta o diseña sistemas de información según especificaciones de otras personas, o gestiona los sistemas de información de un departamento como tarea principal.
+    "5": Diseña y desarrolla sistemas de información importantes, o gestiona los sistemas de información de varios servicios como tarea principal.
+    "6": Gestiona y desarrolla sistemas de información en toda la organización como tarea principal.
+    "7": Responsabilidad institucional sobre los sistemas de información de la organización.
+research:
+  name: Responsabilidad en investigación y desarrollo
+  description: Responsabilidad sobre la investigación formal, el desarrollo, la evaluación, las auditorías, las pruebas y los ensayos.
+  levels:
+    "1": Realiza encuestas o auditorías para su propio trabajo; participa ocasionalmente en investigaciones o pruebas.
+    "2": Realiza con regularidad investigación, desarrollo, ensayos o pruebas de equipos y sistemas como parte del puesto.
+    "3": Realiza investigación o desarrollo dentro de programas formales como tarea principal.
+    "4": Coordina y realiza programas de investigación y desarrollo.
+    "5": Inicia y desarrolla programas de investigación y desarrollo que apoyan los objetivos de la organización.
+    "6": Inicia y desarrolla programas de investigación y desarrollo con efectos fuera de la organización.
+freedom-to-act:
+  name: Libertad de actuación
+  description: Hasta qué punto la persona titular del puesto decide qué hacer y cómo, y con qué detalle se supervisa su trabajo.
+  levels:
+    "1": Trabaja dentro de procedimientos establecidos, con supervisión cercana.
+    "2": Sigue procedimientos estándar y precedentes; normalmente hay alguien a quien consultar; su trabajo puede revisarse.
+    "3": Sigue políticas y procedimientos definidos; su trabajo se gestiona más que se supervisa.
+    "4": Los resultados están definidos, pero la persona titular decide cómo lograrlos, dentro de una política amplia.
+    "5": Trabaja dentro de políticas generales y, en la mayoría de los casos, decide cómo interpretarlas.
+    "6": Interpreta la política y la estrategia generales para fijar objetivos y normas.
+physical-effort:
+  name: Esfuerzo físico
+  description: El esfuerzo físico necesario, teniendo en cuenta su frecuencia, duración e intensidad.
+  levels:
+    "1": Estar sentado, de pie y caminar, con poco esfuerzo físico.
+    "2": Estar sentado o de pie con frecuencia en una postura restringida, o esfuerzo ligero a moderado ocasional.
+    "3": Esfuerzo ligero frecuente durante periodos largos, o esfuerzo moderado frecuente durante periodos cortos.
+    "4": Esfuerzo ligero continuo, esfuerzo moderado frecuente durante periodos largos, o esfuerzo intenso ocasional.
+    "5": Esfuerzo moderado continuo, o esfuerzo intenso frecuente.
+mental-effort:
+  name: Esfuerzo mental
+  description: La concentración necesaria, teniendo en cuenta su frecuencia, duración y lo previsible que es el trabajo.
+  levels:
+    "1": Atención general; concentración ocasional en trabajo previsible.
+    "2": Concentración frecuente en trabajo previsible, o concentración ocasional en trabajo imprevisible.
+    "3": Concentración frecuente en trabajo imprevisible, o concentración prolongada ocasional.
+    "4": Concentración prolongada frecuente, o concentración intensa ocasional.
+    "5": Concentración intensa frecuente.
+emotional-effort:
+  name: Esfuerzo emocional
+  description: Las exigencias emocionales del puesto, por exposición directa o indirecta a circunstancias angustiosas, como leer historias de casos angustiosos o gestionar incidentes graves.
+  levels:
+    "1": Exposición rara, o exposición indirecta ocasional, a circunstancias angustiosas.
+    "2": Exposición ocasional, o exposición indirecta frecuente, a circunstancias angustiosas.
+    "3": Exposición frecuente a circunstancias angustiosas, o exposición ocasional a circunstancias muy angustiosas.
+    "4": Exposición ocasional a circunstancias traumáticas, o exposición frecuente a circunstancias muy angustiosas.
+working-conditions:
+  name: Condiciones de trabajo
+  description: Exposición a condiciones desagradables o a riesgos. El uso casi continuo de pantallas la mayoría de los días cuenta como nivel 2.
+  levels:
+    "1": Exposición rara a condiciones desagradables.
+    "2": Condiciones desagradables ocasionales, viajes o trabajo al aire libre frecuentes, o uso casi continuo de pantallas la mayoría de los días.
+    "3": Condiciones desagradables frecuentes, o muy desagradables de forma ocasional.
+    "4": Cierta exposición a riesgos, o condiciones muy desagradables frecuentes.
+    "5": Exposición considerable a riesgos.

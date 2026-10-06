@@ -1,0 +1,40 @@
+summary: >
+  Los arquitectos de redes diseñan las redes de área local, de área extensa, inalámbricas y en la nube que conectan los centros, el personal, los sistemas clínicos y los productos sanitarios de la organización. Se aseguran de que las redes sean lo bastante rápidas, resilientes y seguras para una atención que nunca se detiene, y planifican cómo cambian las redes a medida que los servicios pasan a la nube y se conectan con organizaciones socias.
+health_context:
+  - Los sistemas clínicos, la telefonía y los productos sanitarios dependen de la red, por lo que una caída puede detener la atención; los diseños necesitan resiliencia y una conmutación por error probada.
+  - Las redes suelen transportar productos sanitarios conectados difíciles de parchear, por lo que los arquitectos diseñan la segmentación y la monitorización para protegerlos.
+  - El personal trabaja en hospitales, consultas, entornos comunitarios y domicilios de los pacientes, por lo que los diseños deben permitir un acceso móvil y remoto seguro.
+  - Las redes se conectan a redes compartidas de salud y asistencia y a organizaciones socias, que fijan sus propios requisitos de conexión y seguridad.
+  - Los cambios en las zonas clínicas requieren una planificación cuidadosa en función de la atención a los pacientes, por ejemplo programando el trabajo fuera de los periodos de mayor actividad.
+levels:
+  - title: Arquitecto de redes asociado
+    responsibilities:
+      - Redactar diseños, diagramas y especificaciones de red con la orientación de los arquitectos de redes.
+      - Inspeccionar los centros y reunir los requisitos de las zonas clínicas, incluidas la cobertura inalámbrica y las conexiones de dispositivos.
+      - Mantener al día los registros de la topología, el direccionamiento y los dispositivos conectados de la red.
+      - Comprobar que los diseños cumplen los niveles de servicio y las normas de seguridad antes de su revisión.
+    qualifications:
+      - Un grado en informática o redes, una cualificación de redes reconocida o experiencia equivalente.
+      - Conocimiento especializado del diseño de redes, de nivel de diploma de posgrado o experiencia equivalente.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 5), porque los anuncios del sector sanitario sitúan este rol en la banda 6. Los conocimientos se puntúan en el nivel de diploma de posgrado, y los recursos de información en el nivel 5 porque el puesto diseña partes de la red de las que dependen sistemas de información importantes.
+  - title: Arquitecto de redes
+    responsibilities:
+      - Diseñar soluciones de red de área local, de área extensa, inalámbricas y en la nube para centros y servicios.
+      - Diseñar la segmentación de la red para los productos sanitarios, los sistemas clínicos y el acceso de invitados.
+      - Planificar con los responsables de servicio los cambios de red en las zonas clínicas para que no se interrumpa la atención.
+      - Acordar los niveles de servicio con los proveedores y los requisitos de conexión con las redes socias.
+      - Evaluar las nuevas tecnologías de red y su encaje con las normas de seguridad de la organización.
+    qualifications:
+      - Conocimiento especializado de la arquitectura de redes, de nivel de máster o experiencia equivalente.
+      - Experiencia en el diseño y el soporte de redes corporativas.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 6), porque los anuncios del sector sanitario sitúan este rol en la banda 7. Los conocimientos se puntúan en el nivel de máster o equivalente por el conocimiento especializado de las redes de área local, de área extensa, inalámbricas y en la nube.
+  - title: Arquitecto de redes líder
+    responsibilities:
+      - Ser responsable de la arquitectura de red de la organización, incluidos sus centros, sus centros de datos y sus conexiones a la nube.
+      - Fijar las normas de diseño de red y garantizar los diseños en la autoridad de diseño.
+      - Diseñar la resiliencia y la recuperación de la red de los servicios clínicos críticos, y asegurarse de que se prueban.
+      - Asesorar sobre la inversión en red, los contratos con proveedores y los riesgos de red de los nuevos servicios.
+      - Actuar como punto experto de escalado y orientar a otros arquitectos e ingenieros de redes.
+    qualifications:
+      - Experiencia sustancial en arquitectura de redes para organizaciones complejas, a un nivel equivalente a un máster.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 7), porque los anuncios del sector sanitario sitúan este rol en la banda 8a. Los recursos de información están en el nivel 6 porque el puesto es responsable de la arquitectura de red de la que dependen todos los sistemas de información de la organización.

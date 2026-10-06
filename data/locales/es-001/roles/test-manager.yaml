@@ -1,0 +1,27 @@
+summary: >
+  Los gestores de pruebas planifican, dirigen y garantizan las pruebas de los servicios y programas de salud digital de la organización. Deciden cuántas pruebas hacen falta y de qué tipo, gestionan los equipos, los entornos y los proveedores de pruebas, y explican con claridad a quienes deciden qué riesgos quedan antes de que un servicio se ponga en marcha. En la atención sanitaria esto incluye asegurarse de que las pruebas apoyan el caso de seguridad clínica y cualquier requisito regulatorio.
+health_context:
+  - Las decisiones de puesta en marcha de los sistemas clínicos dependen de las evidencias de las pruebas y de los riesgos residuales, que los gestores de pruebas comunican a los propietarios de producto, a los responsables de seguridad clínica y a los comités de programa.
+  - Los grandes cambios, como las actualizaciones de la historia clínica electrónica, necesitan pruebas en muchos departamentos, sistemas y proveedores, y a menudo tiempo del personal clínico para las pruebas de aceptación.
+  - Las pruebas deben adaptarse a los servicios clínicos, por ejemplo planificando las pruebas de cambio de sistema y los ensayos generales para reducir al mínimo la interrupción de la atención.
+  - El software regulado y los cambios críticos para la seguridad necesitan pruebas que cumplan normas como la IEC 62304 y el proceso de gestión del riesgo clínico de la organización.
+levels:
+  - title: Gestor de pruebas
+    responsibilities:
+      - Dirigir la planificación de las pruebas de un producto o programa, incluidos los entornos, los datos, las herramientas, los recursos, los plazos y el riesgo clínico.
+      - Planificar las pruebas de aceptación de usuario con los responsables clínicos y operativos, y asegurar el tiempo de los profesionales clínicos para participar.
+      - Gestionar un equipo de analistas e ingenieros de pruebas, incluidos los probadores de los proveedores.
+      - Asegurarse de que las pruebas cumplen los requisitos de seguridad clínica, gobernanza de la información y regulatorios.
+      - Informar del avance de las pruebas, los defectos y los riesgos residuales a los propietarios de producto, a los responsables de seguridad clínica y a los comités de programa.
+      - Mejorar los procesos de prueba y acordar las normas de pruebas con los equipos de entrega.
+    qualifications:
+      - Experiencia sustancial en la gestión de pruebas de servicios digitales complejos, a un nivel equivalente a un máster.
+  - title: Responsable de pruebas
+    responsibilities:
+      - Fijar la estrategia, las normas y los marcos de pruebas de la organización para los servicios de salud digital.
+      - Asegurarse de que las pruebas de la organización cumplen los requisitos de seguridad clínica, de productos sanitarios y otros requisitos regulatorios.
+      - Elegir las herramientas y tecnologías de prueba, y gestionar el presupuesto de pruebas y los contratos con los proveedores.
+      - Asesorar a la alta dirección sobre los riesgos de calidad y de seguridad antes de las grandes publicaciones y de las decisiones de puesta en marcha.
+      - Dirigir y desarrollar a los gestores, analistas e ingenieros de pruebas, y desarrollar la capacidad de pruebas de la organización.
+    qualifications:
+      - Amplia experiencia en la dirección de las pruebas en toda una organización.

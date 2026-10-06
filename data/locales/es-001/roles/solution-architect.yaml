@@ -1,0 +1,61 @@
+summary: >
+  Los arquitectos de soluciones diseñan cómo funcionará de principio a fin un servicio nuevo o modificado, desde las necesidades de los usuarios y los flujos de trabajo clínicos hasta las aplicaciones, los datos, las integraciones, el alojamiento y la seguridad. Se aseguran de que cada solución encaje en la arquitectura de la organización, cumpla sus necesidades de seguridad, privacidad e interoperabilidad, y pueda crearse, gestionarse y mantenerse a un coste asumible.
+health_context:
+  - Las soluciones suelen combinar sistemas clínicos comprados, servicios propios y plataformas compartidas, por lo que los arquitectos deben diseñar más allá de los límites de cada proveedor.
+  - Las decisiones de diseño pueden introducir peligros clínicos, como resultados perdidos o asociaciones erróneas de pacientes, por lo que los diseños de soluciones alimentan el caso de seguridad clínica.
+  - Cada nuevo flujo de información de pacientes necesita una base jurídica y una evaluación de impacto relativa a la protección de datos, por lo que los arquitectos trabajan estrechamente con gobernanza de la información.
+  - La interoperabilidad con otras organizaciones de salud y asistencia, mediante estándares como HL7 FHIR, suele ser un requisito central.
+  - Algunas soluciones incluyen software que es un producto sanitario, lo que cambia los requisitos de diseño, de aseguramiento y de los proveedores.
+levels:
+  - title: Arquitecto de soluciones asociado
+    responsibilities:
+      - Reunir los requisitos de los equipos de producto, los profesionales clínicos y los proveedores para fundamentar los diseños de soluciones.
+      - Dibujar diagramas del estado actual y objetivo, como las vistas de contexto, de flujos de datos y de integración.
+      - Redactar apartados de los diseños de soluciones y de los registros de decisiones bajo supervisión.
+      - Comprobar los diseños frente a las normas de arquitectura y los requisitos de seguridad y de gobernanza de la información.
+      - Ayudar a preparar los diseños para su revisión en las autoridades de diseño.
+    qualifications:
+      - Conocimiento especializado del diseño de soluciones, de nivel de máster o experiencia equivalente.
+      - Experiencia en análisis, desarrollo o diseño técnico.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 6), porque los anuncios del sector sanitario sitúan este rol en la banda 7. Los conocimientos se puntúan en el nivel de máster o equivalente, porque el puesto diseña abarcando aplicaciones, datos, integración y seguridad.
+  - title: Arquitecto de soluciones
+    responsibilities:
+      - Diseñar soluciones de principio a fin para servicios de menor riesgo, como herramientas para el personal o servicios sencillos para pacientes.
+      - Comparar opciones, como comprar, desarrollar o reutilizar plataformas compartidas, y recomendar una con motivos claros.
+      - Diseñar las integraciones, los flujos de datos y la gestión de identidades y accesos de la solución, con estándares abiertos cuando existan.
+      - Contribuir a la identificación de peligros y a las evaluaciones de impacto relativas a la protección de datos de la solución.
+      - Presentar los diseños a las autoridades de diseño y apoyar a los equipos de entrega durante el desarrollo y la puesta en marcha.
+      - Orientar a los arquitectos de soluciones asociados y revisar su trabajo.
+    qualifications:
+      - Experiencia sustancial en diseño de soluciones o ingeniería de software, a un nivel equivalente a un máster.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 7), porque los anuncios del sector sanitario sitúan este rol en la banda 8a. La planificación, las políticas y la libertad de actuación se puntúan por encima del perfil de la banda 7 porque el puesto es responsable de diseños de principio a fin y recomienda opciones a las autoridades de diseño.
+  - title: Arquitecto de soluciones sénior
+    responsibilities:
+      - Diseñar soluciones complejas de riesgo moderado, como sistemas clínicos o servicios que usan varias organizaciones.
+      - Dirigir la evaluación técnica de los productos de los proveedores en las contrataciones, incluidas la interoperabilidad, la seguridad de la información y la seguridad clínica.
+      - Diseñar para la resiliencia y la continuidad de negocio cuando la solución apoya la atención a todas horas.
+      - Trabajar con los responsables de seguridad clínica para que las decisiones de diseño y los controles de riesgos queden registrados en el caso de seguridad.
+      - Orientar a otros arquitectos de soluciones y revisar su trabajo.
+    qualifications:
+      - Amplia experiencia en el diseño de soluciones complejas de varias disciplinas, a un nivel superior a un máster.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 8a), porque los anuncios del sector sanitario sitúan este rol en la banda 8b. Los conocimientos se puntúan en el nivel 8 por el conocimiento especializado de varias disciplinas, como las aplicaciones, los datos, la integración, la seguridad y la seguridad clínica.
+  - title: Arquitecto de soluciones líder
+    responsibilities:
+      - Dirigir la arquitectura de soluciones de un programa o de un área compleja, como la sustitución de la historia clínica electrónica.
+      - Asegurarse de que las soluciones de todo el programa son coherentes, interoperables y están alineadas con la arquitectura objetivo.
+      - Asesorar a los comités de programa sobre los riesgos de diseño, las dependencias, la elección de proveedores y los costes.
+      - Garantizar en las autoridades de diseño los diseños de otros arquitectos de soluciones.
+      - Dirigir y desarrollar un equipo de arquitectos de soluciones.
+    qualifications:
+      - Amplia experiencia en la dirección de la arquitectura de soluciones de programas complejos.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 8b), porque los anuncios del sector sanitario sitúan este rol en la banda 8c. La planificación, las políticas y las personas se puntúan por encima del perfil de la banda 8b porque el puesto planifica la arquitectura de todo un programa y dirige un equipo de arquitectos de soluciones.
+  - title: Arquitecto de soluciones principal
+    responsibilities:
+      - Dirigir la arquitectura de soluciones de los programas más grandes o más críticos de la organización.
+      - Fijar las normas, los patrones y los métodos de arquitectura de soluciones de la organización.
+      - Asesorar a los directores y a las organizaciones socias sobre el diseño de servicios de salud y asistencia críticos y compartidos.
+      - Resolver los conflictos de diseño más difíciles entre programas, proveedores y organizaciones socias.
+      - Dirigir la práctica de arquitectura de soluciones y desarrollar a sus personas.
+    qualifications:
+      - Amplia experiencia en la dirección de la arquitectura de soluciones en varios programas u organizaciones.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 8c), porque los anuncios del sector sanitario sitúan este rol en la banda 8d. La libertad de actuación está en el nivel 6 porque el puesto fija las normas de arquitectura de soluciones de la organización; los recursos financieros y las personas están en el nivel 4 porque dirige la práctica y su presupuesto.

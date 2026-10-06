@@ -1,0 +1,63 @@
+summary: >
+  Los diseñadores de interacción diseñan cómo usan los pacientes, los cuidadores, los profesionales clínicos y el personal asistencial los servicios de salud digital de la organización, desde las aplicaciones y los formularios para pacientes hasta las pantallas que usan los profesionales clínicos a pie de cama. Diseñan interacciones sencillas, accesibles y seguras, las prueban con usuarios reales y usan sistemas de diseño compartidos para que los servicios resulten coherentes y familiares.
+health_context:
+  - Los profesionales clínicos suelen usar los sistemas con presión de tiempo, con interrupciones y en dispositivos compartidos, por lo que los diseños deben favorecer un trabajo rápido y exacto y hacer que la acción segura sea la fácil.
+  - Un mal diseño puede causar daño clínico, como seleccionar al paciente equivocado o leer mal una dosis, por lo que los diseñadores aplican los principios de factores humanos y trabajan con los responsables de seguridad clínica.
+  - Muchos usuarios están enfermos, angustiados, son mayores o tienen discapacidad, por lo que los diseños deben cumplir las normas de accesibilidad y funcionar para personas con pocas competencias digitales o baja alfabetización en salud.
+  - Las alertas y los avisos solo son útiles si las personas los ven y confían en ellos, por lo que los diseñadores ayudan a reducir la fatiga de alertas y a mantener visible la información crítica para la seguridad.
+levels:
+  - title: Diseñador de interacción asociado
+    responsibilities:
+      - Aprender los métodos de diseño de interacción y el sistema de diseño del equipo mediante formación y trabajo en pareja.
+      - Crear bocetos, wireframes y prototipos sencillos bajo supervisión.
+      - Ayudar a probar los diseños con usuarios y registrar lo que funciona y lo que no.
+      - Seguir las normas de accesibilidad y los patrones del sistema de diseño, incluidos los de identificación del paciente y los avisos de seguridad.
+    qualifications:
+      - Estar trabajando para obtener una cualificación o un programa de aprendizaje en diseño o un campo afín, o experiencia equivalente.
+  - title: Diseñador de interacción júnior
+    responsibilities:
+      - Diseñar y prototipar partes de un servicio, como formularios, flujos y pantallas, con las indicaciones de un diseñador con más experiencia.
+      - Probar los diseños con pacientes, cuidadores y personal, y cambiarlos según lo que aprenda.
+      - Diseñar interacciones accesibles que funcionen con las tecnologías de apoyo.
+      - Explicar al equipo las decisiones de diseño, incluido cómo reducen la probabilidad de error.
+    qualifications:
+      - Un grado en diseño o una materia afín, o experiencia equivalente.
+  - title: Diseñador de interacción
+    responsibilities:
+      - Diseñar las interacciones de un producto de salud digital, desde los primeros conceptos hasta los diseños detallados y probados.
+      - Diseñar para los flujos de trabajo clínicos, probando con profesionales clínicos y personal asistencial en escenarios realistas, con interrupciones incluidas.
+      - Comunicar al responsable de seguridad clínica los peligros relacionados con el diseño y registrar cómo los controlan los diseños.
+      - Usar el sistema de diseño y contribuir a él, incluidos los patrones de la información crítica para la seguridad.
+      - Trabajar estrechamente con los desarrolladores para asegurarse de que los diseños se construyen como se pensaron y siguen siendo accesibles.
+    qualifications:
+      - Un grado en diseño o una materia afín, o experiencia equivalente.
+      - Experiencia en el diseño de servicios digitales con usuarios.
+    job_evaluation_notes: El UK GDaD PCF sitúa al diseñador de interacción en SEO o G7, con una banda 7 propuesta, igual que el diseñador de interacción sénior. Esta referencia lo sitúa en la banda 6, igual que el nivel de diseñador de servicios con idénticos niveles de habilidades del PCF, para que los dos niveles de diseñador de interacción no estén en la misma banda.
+  - title: Diseñador de interacción sénior
+    responsibilities:
+      - Dirigir el diseño de interacción de servicios complejos, como los sistemas clínicos que se usan en muchos entornos asistenciales.
+      - Aplicar métodos de factores humanos, como el análisis de tareas, a los flujos de trabajo clínicos críticos para la seguridad.
+      - Aportar evidencias de diseño a los casos de seguridad clínica y, cuando el software está regulado, a los expedientes de usabilidad.
+      - Ayudar a marcar la dirección y las buenas prácticas de diseño en los equipos, y ser mentor de otros diseñadores.
+      - Tomar decisiones de diseño a partir de la investigación y los datos, y explicarlas a los responsables clínicos y de producto.
+    qualifications:
+      - Experiencia sustancial en diseño de interacción, a un nivel equivalente a un máster.
+  - title: Diseñador de interacción líder
+    responsibilities:
+      - Marcar la dirección de diseño y garantizar la calidad del diseño de interacción en varios equipos o servicios.
+      - Dirigir el sistema de diseño, incluidos los patrones accesibles y críticos para la seguridad que reutilizan los equipos de toda la organización.
+      - Dirigir el trabajo de factores humanos en los servicios clínicos de mayor riesgo, con los responsables de seguridad clínica.
+      - Trabajar con los responsables de producto y clínicos de alto nivel para desarrollar conceptos de diseño para los grandes servicios.
+      - Gestionar directamente y desarrollar a los diseñadores de interacción.
+    qualifications:
+      - Amplia experiencia en la dirección del diseño de interacción en varios equipos.
+    job_evaluation_notes: No hay nivel en la banda 8a porque el UK GDaD PCF sitúa al diseñador de interacción líder en G7 o G6 y esta referencia sigue la banda 8b propuesta. Las políticas están en el nivel 5 porque el diseñador líder fija normas de diseño para diversos servicios.
+  - title: Responsable de diseño de interacción
+    responsibilities:
+      - Dirigir la profesión de diseño de interacción y fijar su estrategia, sus normas y sus formas de trabajar.
+      - Influir en la estrategia de diseño y de la organización para que los servicios sean usables, accesibles y seguros.
+      - Ser responsable del sistema de diseño de la organización y asegurarse de que cumple las necesidades de accesibilidad y de seguridad clínica.
+      - Desarrollar la capacidad de diseño, incluidos la selección, los itinerarios profesionales y la formación.
+      - Trabajar con sus homólogos de todo el sistema de salud y asistencia en patrones de diseño compartidos.
+    qualifications:
+      - Amplia experiencia en la dirección del diseño y de una práctica de diseño.

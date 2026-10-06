@@ -1,0 +1,46 @@
+summary: >
+  El delegado de protección de datos (DPD) supervisa de forma independiente el cumplimiento por parte de la organización de la legislación de protección de datos, la asesora sobre sus obligaciones y es el punto de contacto del regulador y de las personas cuyos datos trata. En una organización de atención sanitaria digital, el DPD da asesoramiento experto sobre el uso lícito, leal y transparente de los datos de salud en los productos, la analítica, la investigación y el intercambio de datos.
+health_context:
+  - La legislación de protección de datos otorga al DPD una posición protegida e independiente, que rinde cuentas al más alto nivel de la dirección, por lo que el rol debe estar libre de conflictos de intereses.
+  - La legislación de protección de datos otorga una protección adicional a los datos de salud, y gran parte de ellos también está sujeta a un deber de confidencialidad, por lo que el DPD asesora sobre ambos.
+  - El tratamiento a gran escala de datos de salud, el enlace de datos y la IA suelen necesitar evaluaciones de impacto relativas a la protección de datos y, a veces, una consulta previa al regulador.
+  - Los pacientes y el público esperan transparencia, por lo que el DPD ayuda a la organización a explicar con claridad cómo usa sus datos.
+levels:
+  - title: Delegado de protección de datos adjunto
+    summary: Apoya al DPD en la supervisión del cumplimiento y en el asesoramiento, dirige los casos complejos y sustituye al DPD.
+    responsibilities:
+      - Asesorar a los equipos sobre la legislación de protección de datos, incluidas la base jurídica, la transparencia y los derechos de las personas.
+      - Revisar las evaluaciones de impacto relativas a la protección de datos de alto riesgo y redactar el asesoramiento del DPD.
+      - Supervisar el cumplimiento mediante auditorías, comprobaciones puntuales y revisiones de los registros de actividades de tratamiento.
+      - Dirigir la investigación de las brechas de datos graves y preparar las notificaciones al regulador.
+      - Tramitar las reclamaciones y solicitudes complejas de las personas sobre sus datos.
+      - Sustituir al DPD ante la alta dirección y el regulador.
+    qualifications:
+      - Una cualificación profesional reconocida en protección de datos, o experiencia equivalente.
+      - Experiencia sustancial en protección de datos en salud o asistencia.
+  - title: Delegado de protección de datos
+    summary: El delegado de protección de datos legal de la organización, que supervisa de forma independiente el cumplimiento, asesora a la alta dirección y al consejo y actúa como punto de contacto del regulador y del público.
+    responsibilities:
+      - Supervisar de forma independiente el cumplimiento por parte de la organización de la legislación de protección de datos y de sus propias políticas.
+      - Asesorar al consejo, a la alta dirección y a los equipos sobre sus obligaciones de protección de datos.
+      - Dar asesoramiento formal sobre las evaluaciones de impacto relativas a la protección de datos de alto riesgo, y decidir cuándo consultar al regulador.
+      - Actuar como punto de contacto del regulador y de las personas cuyos datos trata la organización.
+      - Supervisar las decisiones de notificación de brechas y la respuesta de la organización a las consultas del regulador.
+      - Informar al consejo y a sus comités sobre el cumplimiento y el riesgo en protección de datos.
+    qualifications:
+      - Una cualificación profesional reconocida en protección de datos, o experiencia equivalente.
+      - Amplia experiencia en la legislación y la práctica de la protección de datos, también en salud o asistencia.
+    job_evaluation_notes: La libertad de actuación se puntúa en el nivel 6 porque la legislación de protección de datos exige que el DPD actúe con independencia y que interprete la ley y la política sin recibir instrucciones.
+  - title: Delegado de protección de datos sénior
+    summary: El delegado de protección de datos de una organización grande o de un grupo de organizaciones que comparten un DPD, que dirige la función de protección de datos y fija sus normas.
+    responsibilities:
+      - Actuar como DPD legal de una organización grande o de un grupo de organizaciones asistenciales.
+      - Dirigir la función de protección de datos, su personal y su programa de trabajo.
+      - Fijar el marco y las normas de protección de datos de toda la organización o el grupo.
+      - Dar el asesoramiento final sobre los tratamientos de mayor riesgo, como el enlace de datos a gran escala y la IA.
+      - Dirigir la relación con el regulador, los socios y las asociaciones de pacientes y ciudadanos sobre el uso de los datos.
+      - Informar al consejo sobre el riesgo en protección de datos, el cumplimiento y la confianza pública.
+    qualifications:
+      - Una cualificación profesional reconocida en protección de datos, o experiencia equivalente.
+      - Amplia experiencia como delegado de protección de datos en una organización grande o compleja.
+    job_evaluation_notes: Los recursos de información se puntúan en el nivel 6 porque el puesto supervisa cómo se tratan los datos personales en toda la organización o el grupo.

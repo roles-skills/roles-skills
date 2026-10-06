@@ -1,0 +1,68 @@
+summary: >
+  Los ingenieros DevOps crean y gestionan las herramientas, los flujos de despliegue, los entornos y las plataformas que permiten a los equipos de la organización entregar servicios de salud digital con seguridad y con frecuencia. Automatizan la compilación, las pruebas, las publicaciones y la infraestructura, hacen que los servicios sean observables y resilientes, y ayudan a los equipos a mantener disponibles los sistemas clínicos cuando los pacientes y los profesionales clínicos los necesitan.
+health_context:
+  - Muchos servicios apoyan la atención a todas horas, por lo que los despliegues, la monitorización y la recuperación deben reducir al mínimo las interrupciones, también fuera de horario.
+  - Los flujos de publicación generan evidencias para los casos de seguridad clínica, como los resultados de las pruebas, los registros de cambios y la versión exacta desplegada.
+  - Los entornos pueden contener información sanitaria confidencial, por lo que los ingenieros controlan los accesos, protegen los secretos y mantienen los datos reales fuera de los entornos de prueba.
+  - Los servicios sanitarios son objetivos habituales de ciberataques, por lo que los flujos y las plataformas incorporan el análisis de seguridad, la aplicación de parches y copias de seguridad probadas.
+  - Algunos servicios deben cumplir normas estrictas de disponibilidad y recuperación ante desastres, acordadas con los responsables clínicos y operativos.
+levels:
+  - title: Aprendiz de ingeniero DevOps
+    responsibilities:
+      - Aprender los flujos de despliegue, las plataformas en la nube y las herramientas del equipo mediante formación estructurada y acompañamiento.
+      - Hacer cambios pequeños y bien definidos en scripts, flujos y configuración con supervisión cercana.
+      - Seguir los procedimientos de cambios, seguridad y gobernanza de la información en todos los entornos.
+      - Ayudar a monitorizar los servicios y comunicar las alertas a colegas con experiencia.
+      - Trabajar para obtener una cualificación de aprendizaje o equivalente.
+    qualifications:
+      - Matriculado en un programa de aprendizaje de DevOps, software o infraestructura o equivalente, o trabajando para obtenerlo.
+    job_evaluation_notes: Los conocimientos se puntúan en el nivel que exige el puesto una vez que la formación está lo bastante avanzada para hacer el trabajo.
+  - title: Ingeniero DevOps júnior
+    responsibilities:
+      - Crear y mantener partes de los flujos de compilación, pruebas y despliegue con orientación.
+      - Escribir infraestructura como código y scripts de automatización, y probarlos antes de usarlos.
+      - Mantener los entornos de prueba libres de datos reales de pacientes y gestionar los secretos con seguridad.
+      - Responder a las alertas de monitorización y apoyar la respuesta a incidentes con orientación.
+      - Registrar los despliegues y los cambios para que sirvan como evidencia de seguridad clínica y de auditoría.
+    qualifications:
+      - Un grado en informática o una materia afín, un programa de aprendizaje completado o experiencia equivalente.
+    job_evaluation_notes: El UK GDaD PCF propone la banda 4 tanto para el nivel de aprendiz como para el júnior; esta referencia sitúa el nivel júnior en la banda 5 para evitar dos niveles en una misma banda, porque el puesto crea componentes de los flujos con menos supervisión.
+  - title: Ingeniero DevOps
+    responsibilities:
+      - Diseñar y crear de forma independiente flujos de despliegue, entornos y componentes de plataforma.
+      - Automatizar las comprobaciones de seguridad, como el análisis de dependencias y de contenedores, y actuar según sus resultados.
+      - Crear monitorización, registros y alertas para que los equipos vean los problemas antes de que afecten a pacientes y personal.
+      - Planificar y probar las copias de seguridad, la conmutación por error y la recuperación de los servicios que apoyan la atención.
+      - Investigar y corregir problemas en los servicios en producción, incluido el soporte fuera de horario cuando el servicio lo necesite.
+      - Ser mentor de los ingenieros DevOps júnior y aprendices.
+    qualifications:
+      - Un grado en informática o una materia afín, o experiencia equivalente.
+      - Experiencia en la creación y gestión de flujos de entrega automatizados y de infraestructura en la nube.
+  - title: Ingeniero DevOps sénior
+    responsibilities:
+      - Dirigir el diseño de la cadena de herramientas de entrega y de la plataforma de un producto o de un grupo de servicios.
+      - Fijar normas para las publicaciones, de modo que los despliegues en los servicios clínicos sean repetibles, reversibles y estén bien documentados.
+      - Acordar con los propietarios de los servicios y los responsables clínicos los objetivos de disponibilidad, tiempo de recuperación y punto de recuperación, y diseñar para cumplirlos.
+      - Dirigir la respuesta técnica a incidentes y las revisiones posteriores de las plataformas que gestiona el equipo.
+      - Asegurarse de que las plataformas cumplen los requisitos de seguridad y gobernanza de la información, incluidos el control de accesos y los registros de auditoría.
+      - Orientar y desarrollar a los ingenieros DevOps del equipo.
+    qualifications:
+      - Experiencia sustancial en el diseño y la gestión de cadenas de herramientas de entrega y plataformas, a un nivel equivalente a un máster.
+  - title: Ingeniero DevOps líder
+    responsibilities:
+      - Dirigir la ingeniería DevOps y de plataformas de un grupo de equipos, actuando como propietario técnico de la plataforma compartida.
+      - Fijar la hoja de ruta a medio plazo de las herramientas de entrega, el alojamiento y la observabilidad de la organización.
+      - Asegurarse de que las plataformas compartidas son resilientes, seguras y capaces de cubrir las necesidades de disponibilidad de los servicios clínicos.
+      - Gestionar los costes y la capacidad de la plataforma con finanzas y con los propietarios de los servicios.
+      - Dirigir la comunidad de práctica DevOps y gestionar o dirigir a los ingenieros DevOps.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería DevOps o de plataformas de servicios complejos.
+  - title: Ingeniero DevOps principal
+    responsibilities:
+      - Fijar la estrategia de cómo la organización crea, publica, aloja y gestiona sus servicios de salud digital.
+      - Asesorar a la alta dirección sobre el alojamiento, la resiliencia, la ciberseguridad y la inversión en plataformas.
+      - Asegurarse de que los planes de continuidad de negocio y de recuperación ante desastres de los servicios clínicos críticos son realistas y están probados.
+      - Evaluar y promover nuevas tecnologías y prácticas, equilibrando la innovación con la seguridad y la estabilidad.
+      - Ampliar la capacidad DevOps de la organización, incluidos la selección, los itinerarios profesionales y los planes de competencias.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería DevOps y de plataformas en varios equipos u organizaciones.

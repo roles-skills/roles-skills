@@ -1,0 +1,66 @@
+summary: >
+  Los codificadores clínicos leen las historias clínicas de los pacientes y traducen los diagnósticos, los procedimientos y otra información clínica a códigos de clasificación estándar, como la CIE para los diagnósticos y una clasificación de procedimientos para las intervenciones. Los datos codificados se usan para la financiación, la planificación de servicios, la auditoría clínica, la investigación y las estadísticas de salud pública, por lo que su exactitud importa mucho más allá del equipo de codificación. Los codificadores trabajan estrechamente con los profesionales clínicos para aclarar los registros, y usan cada vez más terminologías clínicas como SNOMED CT y herramientas de codificación asistida por ordenador.
+health_context:
+  - Los codificadores leen historias completas, que a menudo describen enfermedades graves, lesiones, maltrato, autolesiones y muertes, por lo que el trabajo es emocionalmente exigente y los equipos necesitan un buen apoyo y supervisión.
+  - Los datos codificados determinan la financiación por actividad, los indicadores de mortalidad y de resultados y la planificación de servicios, por lo que los errores pueden afectar a la financiación, al rendimiento publicado y a las decisiones sobre la atención.
+  - La codificación depende de la calidad de la documentación clínica, por lo que los codificadores consultan a los profesionales clínicos los registros poco claros y ayudan a mejorar cómo se registra la atención.
+  - Los codificadores tratan a diario historias clínicas completas e identificables, por lo que la confidencialidad y un acceso correcto son imprescindibles.
+  - La codificación automatizada y asistida por ordenador, y el mapeo de SNOMED CT a las clasificaciones, están cambiando el trabajo, y los codificadores comprueban que los códigos automáticos son correctos.
+levels:
+  - title: Codificador clínico en formación
+    summary: El codificador clínico en formación aprende a codificar episodios hospitalarios sencillos con supervisión cercana, mientras trabaja para obtener una cualificación de codificación clínica.
+    responsibilities:
+      - Codificar episodios sencillos, como los de cirugía sin ingreso, a partir de las historias clínicas y con las reglas de clasificación, con todo su trabajo revisado por un codificador sénior.
+      - Aprender términos médicos, anatomía y las normas de codificación nacionales e internacionales mediante formación estructurada.
+      - Localizar, seguir y devolver correctamente las historias clínicas, y mantenerlas seguras.
+      - Registrar los datos codificados en el sistema de admisión o de codificación con exactitud y a tiempo.
+      - Consultar a un codificador sénior la información poco clara o ausente.
+    qualifications:
+      - Buenas habilidades de lectura, escritura y teclado, y matrícula en un programa de formación en codificación clínica, o equivalente.
+    job_evaluation_notes: El esfuerzo mental está en el nivel 4 porque los codificadores se concentran durante largos periodos en leer e interpretar historias detalladas. El esfuerzo emocional está en el nivel 2 porque los codificadores leen con frecuencia registros que describen sucesos angustiosos.
+  - title: Codificador clínico
+    summary: El codificador clínico codifica con independencia y exactitud toda la gama de episodios habituales, cumpliendo los plazos y las normas de calidad acordados.
+    responsibilities:
+      - Codificar con exactitud episodios de hospitalización, cirugía sin ingreso y consultas externas de las especialidades habituales, con las reglas de clasificación y las políticas locales.
+      - Consultar a los profesionales clínicos la información clínica poco clara, ausente o contradictoria y registrar el resultado.
+      - Revisar los códigos propuestos por la codificación asistida por ordenador o por los mapeos de terminología, y corregirlos cuando sea necesario.
+      - Cumplir los plazos de exhaustividad de la codificación, para que los datos estén listos para la financiación y los informes.
+      - Participar en las auditorías de codificación y actuar según sus conclusiones.
+    qualifications:
+      - Una cualificación reconocida de codificación clínica, o estar trabajando para obtenerla con experiencia equivalente.
+    job_evaluation_notes: El esfuerzo mental y el emocional reflejan largos periodos de concentración en historias que a menudo describen enfermedades graves, lesiones y muertes.
+  - title: Codificador clínico sénior
+    summary: El codificador clínico sénior codifica episodios complejos de distintas especialidades, actúa como fuente de asesoramiento experto para otros codificadores, y revisa y forma a los codificadores con menos experiencia.
+    responsibilities:
+      - Codificar episodios complejos, como los de cuidados intensivos, cáncer, procedimientos múltiples y fallecimientos, de distintas especialidades.
+      - Resolver cuestiones de codificación difíciles con facultativos especialistas y otros profesionales clínicos sénior, explicando con claridad las reglas de codificación.
+      - Revisar el trabajo de los codificadores en formación y darles retroalimentación y formación en el puesto.
+      - Validar los datos codificados antes de su envío y corregir los errores con el equipo adecuado.
+      - Trabajar con los equipos clínicos para mejorar la calidad de la documentación clínica.
+    qualifications:
+      - Una cualificación reconocida de codificación clínica, o experiencia equivalente.
+      - Experiencia en la codificación de episodios complejos de diversas especialidades.
+    job_evaluation_notes: El esfuerzo emocional se mantiene en el nivel 2, ya que los episodios complejos, como los fallecimientos y la atención oncológica, forman parte habitual del trabajo.
+  - title: Auditor y formador de codificación clínica
+    summary: El auditor y formador de codificación clínica audita la exactitud de los datos codificados, diseña e imparte la formación en codificación y asesora a la organización sobre las normas de codificación. En algunas organizaciones este nivel también dirige un equipo de codificación en el día a día.
+    responsibilities:
+      - Planificar y realizar auditorías de codificación de distintas especialidades, midiendo la exactitud frente a las normas nacionales e internacionales.
+      - Comunicar las conclusiones de las auditorías a los equipos de codificación, clínicos, financieros y de información, y acordar acciones de mejora.
+      - Diseñar e impartir formación en codificación, desde cursos básicos para nuevos codificadores hasta formación de actualización sobre cambios en las normas.
+      - Asesorar a los profesionales clínicos y a los gestores sobre cómo afecta la codificación a la financiación, a los indicadores de mortalidad y a los datos de rendimiento.
+      - Dirigir la introducción de cambios en las versiones de la clasificación, en las normas de codificación y en las herramientas de codificación.
+      - Dirigir un equipo de codificación en el día a día cuando la organización combina esta función con la auditoría y la formación.
+    qualifications:
+      - Una cualificación reconocida de codificación clínica y una cualificación reconocida de auditoría o formación en codificación clínica, o experiencia equivalente.
+    job_evaluation_notes: Las personas están en el nivel 3 porque diseñar e impartir formación especializada en codificación es una tarea principal. La investigación está en el nivel 2 porque la auditoría de codificación forma parte habitual del puesto.
+  - title: Gestor de codificación clínica
+    summary: El gestor de codificación clínica dirige el servicio de codificación clínica de la organización, incluidos sus equipos de codificación, su programa de calidad y su relación con los equipos clínicos, financieros y de información.
+    responsibilities:
+      - Dirigir el servicio de codificación clínica y a sus jefes de equipo, asegurándose de que la codificación es completa, exacta y puntual.
+      - Fijar las políticas de codificación y el programa de calidad de la codificación, de acuerdo con las normas nacionales e internacionales.
+      - Gestionar el presupuesto de codificación y planificar la plantilla, incluidos la selección, la formación y la acreditación.
+      - Asesorar a la alta dirección sobre cómo afecta la codificación a la financiación, a los indicadores de mortalidad y de resultados y a los datos publicados.
+      - Dirigir la adopción de nueva tecnología de codificación, como la codificación asistida por ordenador y el mapeo de terminologías, con los colegas de seguridad clínica y de gobernanza de la información.
+      - Apoyar el bienestar de los codificadores que leen con regularidad registros angustiosos.
+    qualifications:
+      - Una cualificación reconocida de codificación clínica y amplia experiencia en codificación, auditoría y dirección de codificadores, o experiencia equivalente.

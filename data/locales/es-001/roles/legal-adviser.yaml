@@ -1,0 +1,46 @@
+summary: >
+  Los asesores jurídicos son abogados cualificados que dan a la organización un asesoramiento jurídico práctico y exacto y la ayudan a gestionar el riesgo legal. Redactan y negocian contratos, asesoran sobre derecho de datos, contratación, laboral y sanitario y asistencial, y gestionan conflictos y reclamaciones. En una organización de atención sanitaria digital, gran parte de su trabajo trata de tecnología, como las licencias de software, los acuerdos en la nube y de encargo del tratamiento de datos, el intercambio de datos, la propiedad intelectual del software y los datos, y la regulación de los productos de salud digital.
+health_context:
+  - Los contratos tecnológicos deben proteger los datos de los pacientes, mantener en funcionamiento los servicios clínicos y asegurar que la organización pueda dejar a un proveedor con seguridad.
+  - El uso de los datos de salud para la atención directa, la planificación, la investigación y la IA plantea cuestiones de protección de datos y del deber de confidencialidad que requieren un asesoramiento cuidadoso.
+  - La compra de tecnología con dinero público debe seguir las normas de contratación pública, y los proveedores pueden impugnar las adjudicaciones.
+  - La organización puede desarrollar productos de software o de datos, lo que plantea cuestiones de propiedad intelectual, código abierto y uso comercial.
+  - Las reclamaciones pueden referirse a daños a pacientes, incluidos los casos en que intervinieron servicios digitales, por lo que los asesores trabajan con los colegas de seguridad clínica, riesgos e indemnizaciones.
+levels:
+  - title: Asesor jurídico
+    summary: Los asesores jurídicos son abogados cualificados que dan asesoramiento independiente y gestionan su propia cartera de asuntos en una o varias áreas, como los contratos tecnológicos, el derecho de la información, la contratación o el derecho laboral.
+    responsibilities:
+      - Redactar, revisar y negociar acuerdos, como licencias de software, servicios en la nube y encargos del tratamiento de datos.
+      - Dar un asesoramiento jurídico claro y práctico a los gestores y a los equipos en sus áreas de práctica.
+      - Asesorar sobre los acuerdos de intercambio de datos, las evaluaciones de impacto relativas a la protección de datos y las solicitudes de información.
+      - Asesorar sobre los procedimientos de contratación y las modificaciones de los contratos de tecnología y servicios.
+      - Gestionar una cartera de conflictos o reclamaciones, encargando el asunto a abogados externos cuando sea necesario.
+      - Supervisar y desarrollar a los paralegales y a los asistentes jurídicos.
+    qualifications:
+      - Abogado cualificado habilitado para ejercer, o cualificación y experiencia equivalentes.
+      - Experiencia en derecho mercantil, tecnológico, de la información o público.
+    job_evaluation_notes: Los conocimientos están en el nivel 7 porque el puesto necesita una cualificación jurídica profesional y experiencia en la práctica. Los recursos financieros están en el nivel 2 porque los asesores jurídicos rara vez gestionan presupuestos. El esfuerzo emocional está en el nivel 2 porque las reclamaciones y los casos laborales suelen incluir material angustioso.
+  - title: Asesor jurídico sénior
+    summary: Los asesores jurídicos sénior son abogados con experiencia que dirigen asuntos complejos, de gran valor o de alto riesgo en un área especializada, como la tecnología y los datos, el derecho de la información, la contratación, el derecho laboral o las reclamaciones.
+    responsibilities:
+      - Dirigir los acuerdos complejos, como las grandes implantaciones de sistemas, las plataformas de datos y las alianzas.
+      - Asesorar a la alta dirección sobre cuestiones novedosas, como la IA, el uso de datos para la investigación y el software como producto sanitario.
+      - Asesorar sobre el derecho laboral en los cambios de plantilla, los contratistas y los conflictos laborales.
+      - Dirigir los conflictos importantes, las impugnaciones de la contratación y la relación con los sistemas de indemnización por negligencia clínica.
+      - Redactar plantillas, guías de negociación y orientaciones para la organización.
+      - Gestionar y desarrollar a los asesores jurídicos y a los paralegales.
+    qualifications:
+      - Abogado cualificado habilitado para ejercer, con una experiencia sustancial tras obtener la cualificación en una especialidad pertinente.
+    job_evaluation_notes: Los recursos financieros están en el nivel 2 porque el puesto no gestiona un presupuesto, aunque controla el gasto en abogados externos de sus asuntos.
+  - title: Asesor jurídico principal
+    summary: Los asesores jurídicos principales son los máximos expertos de la organización en una o varias áreas del derecho, como la tecnología y los datos o el derecho de la información, y dirigen su trabajo jurídico en los asuntos más importantes.
+    responsibilities:
+      - Dirigir el trabajo jurídico de los programas, los contratos y los conflictos más importantes de la organización.
+      - Dar un asesoramiento definitivo sobre asuntos novedosos y de alto riesgo, como el intercambio de datos a gran escala, la IA y el uso comercial del software y los datos de la organización.
+      - Fijar las posiciones jurídicas y las normas de la organización en sus áreas de especialidad.
+      - Asesorar a los directores y a los comités del consejo sobre el riesgo legal.
+      - Representar a la organización ante los reguladores, los socios y los proveedores en asuntos jurídicos.
+      - Dirigir un equipo jurídico especializado y desarrollar su capacidad.
+    qualifications:
+      - Abogado cualificado habilitado para ejercer, con una amplia experiencia tras obtener la cualificación y una pericia reconocida en una especialidad.
+    job_evaluation_notes: Los conocimientos están en el nivel 8 porque el puesto necesita un conocimiento jurídico experto del derecho y la tecnología, adquirido durante un largo periodo.

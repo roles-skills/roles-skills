@@ -1,0 +1,44 @@
+summary: >
+  Los responsables de finanzas de alto nivel rinden cuentas de la salud financiera de la organización, de su control financiero y del uso del dinero público. Dirigen la estrategia y la planificación financieras, asesoran al consejo sobre la asequibilidad y la relación calidad-precio, y dirigen las funciones de finanzas, nóminas y, a menudo, compras. En una organización de atención sanitaria digital, determinan cómo se financia y aprueba la inversión en tecnología y datos, y cómo se demuestra que aporta beneficios a los pacientes y al sistema de salud y asistencia.
+health_context:
+  - La organización se financia con dinero público, por lo que los responsables financieros rinden cuentas ante los financiadores y los organismos de supervisión de la regularidad, la corrección y la relación calidad-precio.
+  - La inversión tecnológica es una gran parte del gasto, y el equilibrio entre los costes de capital, de gasto corriente y de suscripción en la nube determina lo que la organización puede permitirse.
+  - Los responsables financieros deben equilibrar los objetivos financieros con la seguridad de los pacientes y con la calidad de los servicios de los que dependen los profesionales clínicos y el personal asistencial.
+  - Los grandes contratos de tecnología y datos conllevan compromisos a largo plazo y riesgos de proveedores que el consejo debe entender.
+  - La organización puede trabajar en alianzas de salud y asistencia, con presupuestos conjuntos, servicios compartidos o programas alojados.
+levels:
+  - title: Controlador financiero
+    summary: Los controladores financieros, a veces llamados directores adjuntos de finanzas, dirigen una parte importante de la función financiera, como la contabilidad y el control financieros o la planificación financiera, y sustituyen a los responsables financieros de mayor nivel.
+    responsibilities:
+      - Dirigir la contabilidad financiera, el control financiero, la tesorería y los servicios transaccionales, o la planificación financiera y la colaboración como socio de negocio.
+      - Asegurarse de que las cuentas anuales se presentan a tiempo y con una opinión de auditoría favorable.
+      - Mantener un sistema eficaz de control financiero, e informar sobre él al comité de auditoría.
+      - Dirigir el ciclo de planificación financiera y la información financiera del ejercicio a la dirección.
+      - Asesorar a los directores sobre las grandes decisiones financieras, incluidos los grandes contratos tecnológicos.
+      - Dirigir y desarrollar varios equipos de finanzas.
+    qualifications:
+      - Una cualificación contable reconocida, con una amplia experiencia de alto nivel en el sector público o en organizaciones complejas.
+    job_evaluation_notes: Los recursos financieros están en el nivel 5 porque el puesto gestiona los presupuestos y los procesos financieros de varios servicios. Los recursos de información están en el nivel 6 porque el puesto es responsable de los sistemas y los datos financieros que se usan en toda la organización.
+  - title: Director adjunto de finanzas
+    summary: Los directores adjuntos de finanzas dirigen la función financiera en el día a día, sustituyen al director de finanzas y dirigen la estrategia financiera y el plan financiero a medio plazo de la organización.
+    responsibilities:
+      - Dirigir el plan financiero a medio plazo y el plan financiero anual, vinculándolos con la estrategia y los planes de plantilla.
+      - Dirigir el proceso de casos de negocio y de aprobación de inversiones, incluidos los grandes programas digitales.
+      - Asesorar al equipo directivo y a los comités del consejo sobre el desempeño financiero, los riesgos y los planes de ahorro.
+      - Representar a la organización ante los financiadores y los socios en asuntos financieros.
+      - Sustituir al director de finanzas, también en el consejo y en el comité de auditoría.
+      - Dirigir y desarrollar los equipos de finanzas, nóminas y sistemas financieros.
+    qualifications:
+      - Una cualificación contable reconocida, con una amplia experiencia de alto nivel en la dirección de funciones financieras.
+  - title: Director de finanzas
+    summary: Los directores de finanzas son miembros ejecutivos del consejo con responsabilidad institucional sobre las finanzas de la organización, su control financiero y el uso del dinero público.
+    responsibilities:
+      - Asumir la responsabilidad institucional sobre las finanzas, el control financiero y la sostenibilidad financiera de la organización.
+      - Fijar la estrategia financiera y dirigir las decisiones del consejo sobre la asequibilidad, la inversión y la relación calidad-precio.
+      - Asegurarse de que la organización gasta el dinero público de forma lícita, dentro de su financiación y de acuerdo con los controles del gasto.
+      - Asesorar al consejo sobre el efecto financiero de la estrategia, incluido el paso a servicios digitales y en la nube.
+      - Dirigir las relaciones con los financiadores, los organismos de supervisión y los auditores externos.
+      - Dirigir las funciones de finanzas, nóminas y compras, y a menudo otros servicios corporativos.
+    qualifications:
+      - Una cualificación contable reconocida, con una amplia experiencia a nivel directivo o de consejo.
+    job_evaluation_notes: Los recursos financieros están en el nivel 6 porque el puesto tiene la responsabilidad institucional sobre las finanzas de la organización.

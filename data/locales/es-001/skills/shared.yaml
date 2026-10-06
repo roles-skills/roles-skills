@@ -1,0 +1,423 @@
+# Spanish translations of data/skills/shared.yaml. Keys are the English skill ids.
+health-care-context:
+  name: Comprensión de los servicios de salud y asistencia
+  description: Comprender cómo se organizan y prestan los servicios de salud y asistencia, cómo trabajan los profesionales clínicos y el personal asistencial, y cómo los servicios digitales apoyan la atención a los pacientes.
+  levels:
+    awareness: |
+      Puede:
+      - describir las partes principales del sistema de salud y asistencia y los servicios que apoya la organización
+      - explicar por qué la seguridad de los pacientes y la confidencialidad importan en su trabajo
+    working: |
+      Puede:
+      - explicar los flujos de trabajo clínicos y asistenciales que apoya su trabajo
+      - usar correctamente los términos sanitarios habituales con colegas clínicos y asistenciales
+      - reconocer cuándo un cambio podría afectar a la atención a los pacientes y comunicarlo
+    practitioner: |
+      Puede:
+      - analizar cómo encaja un servicio en las vías asistenciales de distintas organizaciones
+      - trabajar con profesionales clínicos, personal asistencial y pacientes para dar forma a los servicios digitales
+      - explicar el efecto de las decisiones digitales en la atención, la seguridad y la carga de trabajo del personal
+    expert: |
+      Puede:
+      - dar forma a la estrategia de la organización a partir de un conocimiento profundo del sistema de salud y asistencia
+      - representar a la organización ante socios y líderes de salud y asistencia
+      - anticipar cómo afectarán los cambios de políticas y servicios a los servicios digitales y a la atención
+clinical-safety:
+  name: Gestión del riesgo clínico
+  description: Identificar, evaluar y controlar los riesgos que los sistemas de TI sanitarios pueden suponer para los pacientes, mediante un proceso de gestión del riesgo clínico, registros de peligros y casos de seguridad (por ejemplo, según ISO 14971 e IEC 80001-1).
+  levels:
+    awareness: |
+      Puede:
+      - explicar cómo los sistemas de TI sanitarios pueden causar daño a los pacientes, por ejemplo con información errónea, ausente o tardía
+      - notificar un posible problema de seguridad clínica por la vía adecuada
+    working: |
+      Puede:
+      - participar en talleres de peligros y contribuir a un registro de peligros
+      - seguir el proceso de gestión del riesgo clínico en su trabajo
+      - aportar pruebas para un caso de seguridad clínica, como resultados de pruebas
+    practitioner: |
+      Puede:
+      - dirigir la identificación de peligros y la evaluación de riesgos de un producto o cambio
+      - redactar y mantener registros de peligros e informes de casos de seguridad clínica
+      - acordar controles de riesgos con los equipos de producto y comprobar que funcionan
+      - asesorar a los equipos sobre la aplicación de las normas de gestión del riesgo clínico
+    expert: |
+      Puede:
+      - ser responsable del sistema de gestión del riesgo clínico de la organización
+      - fijar la política de seguridad clínica y garantizar los casos de seguridad de los sistemas principales
+      - dirigir la respuesta a incidentes de seguridad graves relacionados con la TI sanitaria
+      - crear una cultura de seguridad clínica en los equipos digitales
+health-data-interoperability:
+  name: Interoperabilidad de datos sanitarios
+  description: Intercambiar datos de salud y asistencia de forma segura y coherente entre sistemas mediante estándares abiertos como HL7 FHIR, HL7 versión 2, perfiles IHE y API estándar.
+  levels:
+    awareness: |
+      Puede:
+      - explicar por qué la interoperabilidad importa para una atención coordinada
+      - nombrar los principales estándares de intercambio de datos sanitarios, como HL7 FHIR
+    working: |
+      Puede:
+      - leer y usar recursos, perfiles y API de FHIR
+      - crear o probar integraciones sencillas con orientación
+      - comprobar los mensajes frente a una especificación
+    practitioner: |
+      Puede:
+      - diseñar y crear integraciones con FHIR, HL7 versión 2 y patrones de mensajería
+      - redactar y perfilar recursos FHIR y guías de implementación
+      - resolver problemas complejos de mapeo y de calidad de datos entre sistemas
+    expert: |
+      Puede:
+      - fijar los estándares y la estrategia de interoperabilidad de la organización
+      - dirigir el trabajo de estándares nacional o entre organizaciones
+      - garantizar el diseño de integraciones críticas entre muchos sistemas
+clinical-terminology:
+  name: Terminología y clasificación clínicas
+  description: Usar terminologías y clasificaciones clínicas, como SNOMED CT, CIE (ICD) y LOINC, para registrar e intercambiar el significado clínico de forma coherente.
+  levels:
+    awareness: |
+      Puede:
+      - explicar la diferencia entre una terminología clínica y una clasificación
+      - reconocer terminologías habituales como SNOMED CT y la CIE
+    working: |
+      Puede:
+      - encontrar y usar los códigos adecuados para un dato o un formulario
+      - usar navegadores de terminología y conjuntos de referencia
+    practitioner: |
+      Puede:
+      - diseñar modelos de datos y conjuntos de referencia con terminologías clínicas
+      - mapear entre terminologías y clasificaciones, y explicar los límites de un mapeo
+      - asesorar a los equipos sobre el uso de la terminología en productos y analítica
+    expert: |
+      Puede:
+      - fijar la política de terminología de la organización
+      - dirigir las publicaciones, la gobernanza y el aseguramiento de la calidad de la terminología
+      - representar a la organización en los organismos de estándares de terminología
+information-governance:
+  name: Gobernanza de la información y protección de datos
+  description: Tratar la información personal y sanitaria de forma lícita, segura y ética, incluidas la legislación de protección de datos, la confidencialidad, el consentimiento, las evaluaciones de impacto relativas a la protección de datos y el intercambio de información.
+  levels:
+    awareness: |
+      Puede:
+      - seguir las normas de la organización para el tratamiento de la información personal y sanitaria
+      - reconocer y notificar una brecha de datos o un cuasi incidente
+    working: |
+      Puede:
+      - aplicar los principios de protección de datos a su trabajo
+      - contribuir a las evaluaciones de impacto relativas a la protección de datos
+      - tramitar correctamente las solicitudes de información y los registros
+    practitioner: |
+      Puede:
+      - dirigir evaluaciones de impacto relativas a la protección de datos y acuerdos de intercambio de información
+      - asesorar a los equipos sobre la base jurídica, el consentimiento, la confidencialidad y la conservación
+      - investigar incidentes y recomendar mejoras
+    expert: |
+      Puede:
+      - fijar la política y la estrategia de gobernanza de la información
+      - asesorar al consejo sobre el riesgo de la información y el cumplimiento
+      - representar a la organización ante reguladores y socios
+medical-device-regulation:
+  name: Regulación del software como producto sanitario
+  description: Comprender cuándo un software es un producto sanitario, y las normas y procesos que se le aplican, como IEC 62304 e ISO 13485.
+  levels:
+    awareness: |
+      Puede:
+      - explicar que parte del software sanitario está regulado como producto sanitario
+      - saber a quién preguntar cuando un producto pueda ser un producto sanitario
+    working: |
+      Puede:
+      - seguir un proceso de ciclo de vida del software que cumpla las normas de productos sanitarios
+      - producir los registros que exige dicho proceso
+    practitioner: |
+      Puede:
+      - evaluar si un producto es un producto sanitario, y su clase probable
+      - planificar el trabajo regulatorio de un producto con colegas de calidad y clínicos
+    expert: |
+      Puede:
+      - fijar el enfoque de la organización respecto al software regulado
+      - dirigir la relación con los reguladores y los organismos notificados
+people-management:
+  name: Gestión de personas
+  description: Dirigir, desarrollar y apoyar al personal, incluidos la selección, los objetivos, la evaluación del desempeño, el bienestar, la asistencia y la gestión justa del rendimiento y la conducta.
+  levels:
+    awareness: |
+      Puede:
+      - explicar las políticas de personas de la organización que le afectan
+      - apoyar a los colegas nuevos y compartir conocimientos
+    working: |
+      Puede:
+      - supervisar el trabajo diario y dar retroalimentación
+      - participar en la selección y la acogida
+      - mantener conversaciones individuales periódicas
+    practitioner: |
+      Puede:
+      - gestionar directamente un equipo, fijando objetivos y realizando evaluaciones del desempeño
+      - apoyar el bienestar y gestionar la asistencia, el rendimiento y la conducta
+      - planificar el desarrollo y la sucesión del equipo
+    expert: |
+      Puede:
+      - dirigir a gestores y dar forma a la cultura de un área grande
+      - diseñar planes de plantilla y cambios organizativos
+      - orientar a líderes y resolver cuestiones complejas de personas
+equality-diversity-inclusion:
+  name: Igualdad, diversidad e inclusión
+  description: Tratar a las personas con justicia, valorar las diferencias y diseñar servicios y lugares de trabajo que incluyan a todo el mundo.
+  levels:
+    awareness: |
+      Puede:
+      - tratar a colegas, pacientes y público con dignidad y respeto
+      - seguir las políticas de igualdad e inclusión
+    working: |
+      Puede:
+      - reconocer y cuestionar los comportamientos que excluyen a otras personas
+      - tener en cuenta las distintas necesidades al planificar su trabajo
+    practitioner: |
+      Puede:
+      - realizar evaluaciones de impacto en la igualdad
+      - crear equipos y prácticas inclusivos
+    expert: |
+      Puede:
+      - fijar la estrategia de inclusión y exigir cuentas a la organización sobre ella
+      - dirigir el cambio cultural en igualdad, diversidad e inclusión
+health-safety-wellbeing:
+  name: Salud, seguridad y bienestar
+  description: Mantenerse a sí mismo y a los demás seguros y sanos en el trabajo, incluidas la evaluación de riesgos, las prácticas de trabajo seguras y la notificación de incidentes.
+  levels:
+    awareness: |
+      Puede:
+      - seguir las normas de salud y seguridad y notificar peligros e incidentes
+    working: |
+      Puede:
+      - realizar evaluaciones de riesgos sencillas, como las del puesto de trabajo
+      - ayudar a sus colegas a trabajar de forma segura
+    practitioner: |
+      Puede:
+      - gestionar la salud y la seguridad de un equipo o centro
+      - investigar incidentes y aplicar controles
+    expert: |
+      Puede:
+      - fijar la política de salud, seguridad y bienestar de la organización
+      - informar al consejo sobre el desempeño en seguridad
+budget-management:
+  name: Gestión presupuestaria
+  description: Planificar, supervisar y controlar un presupuesto, incluidas las previsiones, la gestión de desviaciones y el cumplimiento de las normas financieras.
+  levels:
+    awareness: |
+      Puede:
+      - seguir las normas de gasto y de pedidos
+      - explicar cómo se financia su trabajo
+    working: |
+      Puede:
+      - seguir el gasto frente a un presupuesto pequeño y comunicar las desviaciones
+      - autorizar gastos dentro de su límite
+    practitioner: |
+      Puede:
+      - gestionar un presupuesto, haciendo previsiones y explicando las desviaciones
+      - elaborar un caso de negocio con costes y beneficios
+    expert: |
+      Puede:
+      - gestionar presupuestos grandes o múltiples y fijar planes financieros
+      - decidir compensaciones de financiación entre servicios
+project-management:
+  name: Gestión de proyectos
+  description: Planificar, ejecutar y cerrar proyectos según el alcance, el plazo, el coste y la calidad acordados, con un método reconocido como PRINCE2, PM² o enfoques ágiles.
+  levels:
+    awareness: |
+      Puede:
+      - explicar las fases de un proyecto y sus funciones principales
+      - mantener registros del proyecto, como los registros de acciones
+    working: |
+      Puede:
+      - mantener planes, registros de riesgos y de problemas, e informes
+      - dirigir reuniones del proyecto y hacer seguimiento de las acciones
+      - gestionar un proyecto pequeño y bien definido con apoyo
+    practitioner: |
+      Puede:
+      - gestionar proyectos de principio a fin, controlando alcance, plazo, coste y calidad
+      - gestionar riesgos, problemas, dependencias y control de cambios
+      - informar a los comités de proyecto y gestionar a los proveedores
+    expert: |
+      Puede:
+      - gestionar proyectos grandes, complejos o de alto riesgo
+      - fijar normas de gestión de proyectos y orientar a los gestores de proyectos
+      - reconducir proyectos que fracasan
+risk-management:
+  name: Gestión del riesgo organizativo
+  description: Identificar, evaluar, registrar y gestionar los riesgos para los objetivos de la organización, mediante un registro de riesgos y un apetito de riesgo definido.
+  levels:
+    awareness: |
+      Puede:
+      - explicar qué es un riesgo y cómo comunicarlo
+    working: |
+      Puede:
+      - registrar y actualizar los riesgos de su área
+      - proponer controles y hacer seguimiento de las acciones
+    practitioner: |
+      Puede:
+      - dirigir el proceso de riesgos de una dirección o programa
+      - evaluar los riesgos frente al apetito de riesgo y escalarlos
+      - informar sobre los riesgos a los comités
+    expert: |
+      Puede:
+      - diseñar el marco de gestión de riesgos y el apetito de riesgo de la organización
+      - asesorar al consejo sobre los riesgos estratégicos
+security-operations:
+  name: Operaciones de seguridad
+  description: Vigilar los sistemas en busca de amenazas de seguridad, clasificar alertas, investigar eventos y responder a ciberincidentes, con herramientas como SIEM y la detección en los puestos (EDR).
+  levels:
+    awareness: |
+      Puede:
+      - explicar las ciberamenazas habituales, como el phishing y el ransomware
+      - notificar un posible evento de seguridad
+    working: |
+      Puede:
+      - vigilar las alertas y clasificarlas con procedimientos operativos (runbooks)
+      - reunir pruebas y escalar eventos
+      - ajustar reglas de detección sencillas con orientación
+    practitioner: |
+      Puede:
+      - investigar y contener incidentes de seguridad
+      - redactar reglas de detección y búsquedas proactivas de amenazas
+      - mejorar los procedimientos y las herramientas tras los incidentes
+    expert: |
+      Puede:
+      - dirigir el servicio de operaciones de seguridad y su estrategia
+      - dirigir la respuesta a ciberincidentes graves
+      - trabajar con agencias nacionales de seguridad y con socios
+vulnerability-management:
+  name: Gestión de vulnerabilidades
+  description: Encontrar, evaluar, priorizar y corregir vulnerabilidades técnicas, incluidos los escaneos, las pruebas de penetración y la aplicación de parches.
+  levels:
+    awareness: |
+      Puede:
+      - explicar por qué importan la aplicación rápida de parches y la configuración segura
+    working: |
+      Puede:
+      - realizar escaneos de vulnerabilidades e informar de los resultados
+      - hacer seguimiento de las correcciones con los propietarios de los sistemas
+    practitioner: |
+      Puede:
+      - priorizar las vulnerabilidades según el riesgo, incluido el riesgo para los servicios a pacientes
+      - definir el alcance de las pruebas de penetración y gestionarlas junto con la corrección
+    expert: |
+      Puede:
+      - fijar la política de gestión de vulnerabilidades y sus objetivos
+      - informar a la alta dirección sobre el riesgo técnico de seguridad
+identity-and-access-management:
+  name: Gestión de identidades y accesos
+  description: Gestionar las identidades digitales, la autenticación y los derechos de acceso del personal, los pacientes y los sistemas, incluidos el acceso basado en roles y la autenticación con tarjeta inteligente o multifactor.
+  levels:
+    awareness: |
+      Puede:
+      - seguir las normas de acceso y proteger sus credenciales
+    working: |
+      Puede:
+      - crear, modificar y eliminar cuentas de usuario y derechos de acceso
+      - comprobar los accesos frente a las normas de acceso basado en roles
+    practitioner: |
+      Puede:
+      - diseñar y gestionar servicios de identidad y acceso
+      - revisar los accesos con regularidad y corregir los problemas
+    expert: |
+      Puede:
+      - fijar la estrategia de identidad y acceso para el personal, los pacientes y los sistemas
+      - dirigir la adopción de nuevos estándares de identidad
+data-quality:
+  name: Gestión de la calidad de los datos
+  description: Definir, medir y mejorar la calidad de los datos, incluidas su integridad, exactitud, puntualidad y validez.
+  levels:
+    awareness: |
+      Puede:
+      - explicar por qué unos datos sanitarios exactos importan para la atención y la planificación
+      - registrar datos con exactitud y notificar errores
+    working: |
+      Puede:
+      - realizar comprobaciones de calidad de los datos y corregir errores
+      - explicar a sus colegas los informes de calidad de los datos
+    practitioner: |
+      Puede:
+      - definir reglas y medidas de calidad de los datos
+      - trabajar con los proveedores de datos para corregir las causas de fondo de la mala calidad
+    expert: |
+      Puede:
+      - fijar normas de calidad de los datos para la organización y sus socios
+      - dirigir programas de mejora de la calidad de los datos
+health-records-management:
+  name: Gestión de historias clínicas
+  description: Gestionar los registros de salud y asistencia a lo largo de su ciclo de vida, incluidos su creación, archivo, seguimiento, acceso, conservación y eliminación.
+  levels:
+    awareness: |
+      Puede:
+      - archivar, localizar y seguir correctamente los registros
+      - proteger los registros frente a la pérdida o el acceso no autorizado
+    working: |
+      Puede:
+      - tramitar las solicitudes de acceso a los registros
+      - aplicar los calendarios de conservación y las normas de registro
+    practitioner: |
+      Puede:
+      - gestionar un servicio de registros y sus procedimientos
+      - auditar el mantenimiento de registros y formar al personal
+    expert: |
+      Puede:
+      - fijar la política y la estrategia de gestión de registros
+      - dirigir el paso de los registros en papel a los digitales
+clinical-coding:
+  name: Codificación clínica
+  description: Traducir la información clínica de las historias clínicas a códigos de clasificación estándar, siguiendo las normas de codificación nacionales e internacionales, para la atención, la financiación y la estadística.
+  levels:
+    awareness: |
+      Puede:
+      - explicar qué es la codificación clínica y por qué importa
+      - usar términos médicos básicos y nociones de anatomía
+    working: |
+      Puede:
+      - codificar episodios sencillos con exactitud, aplicando las reglas de clasificación
+      - consultar a los profesionales clínicos sobre registros poco claros
+    practitioner: |
+      Puede:
+      - codificar episodios complejos de distintas especialidades
+      - auditar la calidad de la codificación y formar a codificadores
+    expert: |
+      Puede:
+      - dirigir un servicio de codificación y su programa de calidad
+      - asesorar sobre las normas de codificación y su efecto en los datos y la financiación
+clinical-leadership-in-digital:
+  name: Liderazgo clínico en lo digital
+  description: Aportar conocimiento y credibilidad clínicos al diseño, la adopción y el uso seguro de los servicios digitales, y dirigir a los profesionales clínicos en el cambio digital.
+  levels:
+    awareness: |
+      Puede:
+      - explicar cómo los servicios digitales cambian la práctica clínica
+    working: |
+      Puede:
+      - aportar la visión clínica a los equipos de producto sobre flujos de trabajo y seguridad
+      - ayudar a sus colegas clínicos a adoptar nuevos sistemas
+    practitioner: |
+      Puede:
+      - dirigir la participación clínica en un producto o programa
+      - convertir las necesidades y la evidencia clínicas en requisitos
+      - promover una adopción segura entre sus pares clínicos
+    expert: |
+      Puede:
+      - fijar la dirección clínica de los servicios digitales de la organización
+      - dirigir a líderes clínicos de distintas organizaciones en el cambio digital
+      - asesorar al consejo sobre el riesgo y el beneficio clínicos de la inversión digital
+governance-and-compliance:
+  name: Gobierno corporativo y cumplimiento
+  description: Apoyar el gobierno de la organización —consejos, comités, reglamentos internos, políticas, declaraciones de intereses y cumplimiento de las obligaciones legales y regulatorias.
+  levels:
+    awareness: |
+      Puede:
+      - seguir las políticas y las normas de toma de decisiones de la organización
+    working: |
+      Puede:
+      - apoyar las reuniones, los documentos y las actas de los comités
+      - mantener actualizados los registros de gobierno
+    practitioner: |
+      Puede:
+      - gestionar el ciclo de gobierno de los consejos y comités
+      - revisar políticas y asesorar sobre el cumplimiento
+    expert: |
+      Puede:
+      - diseñar el marco de gobierno y asesorar al consejo
+      - dirigir los informes anuales de gobierno y el aseguramiento

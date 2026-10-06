@@ -1,0 +1,55 @@
+summary: >
+  Los gestores de producto se aseguran de que los productos de salud digital de la organización satisfagan las necesidades de los pacientes, los profesionales clínicos y el personal asistencial y aporten valor al sistema de salud y asistencia. Fijan la visión y la hoja de ruta del producto, priorizan el trabajo de los equipos multidisciplinares a partir de la evidencia y rinden cuentas de los resultados de sus productos, incluido su efecto en la atención.
+health_context:
+  - Las decisiones de producto pueden afectar a la seguridad de los pacientes, por lo que los gestores de producto son responsables, junto con el responsable de seguridad clínica, del riesgo clínico de su producto y se aseguran de que los peligros se gestionan antes de cada publicación.
+  - Los productos atienden a muchos grupos de usuarios con necesidades distintas, como pacientes, cuidadores, profesionales clínicos y personal administrativo, y los gestores de producto deben equilibrarlas con justicia.
+  - Algunos productos pueden estar regulados como productos sanitarios, por lo que los gestores de producto necesitan saber cuándo se aplica la regulación y planificarla.
+  - Los resultados en la atención incluyen la seguridad, la calidad, el acceso, la equidad y el tiempo del personal, por lo que los gestores de producto definen medidas de éxito que reconozcan los responsables clínicos y operativos.
+  - Los productos suelen depender de estándares de datos sanitarios nacionales y regionales y de plataformas compartidas, por lo que los gestores de producto trabajan más allá de los límites de cada organización.
+levels:
+  - title: Gestor de producto asociado
+    responsibilities:
+      - Ser responsable de la cartera de trabajo de una funcionalidad o una parte de un producto, trabajando con un gestor de producto.
+      - Convertir la evidencia de la investigación de usuarios con pacientes, profesionales clínicos y personal asistencial en historias de usuario priorizadas.
+      - Trabajar con los responsables de seguridad clínica para registrar y revisar los peligros de las funcionalidades de las que es responsable.
+      - Hacer seguimiento de las medidas del producto, como la adopción, las tasas de finalización y las llamadas de soporte, e informar de lo que muestran.
+      - Representar al producto en las demostraciones y ante las partes interesadas operativas.
+    qualifications:
+      - Experiencia en un puesto digital, clínico u operativo, o experiencia equivalente.
+  - title: Gestor de producto
+    responsibilities:
+      - Fijar la visión, la hoja de ruta y las medidas de éxito de un producto de salud digital.
+      - Priorizar el trabajo del equipo, equilibrando las necesidades de los usuarios, la seguridad clínica, las políticas, las limitaciones técnicas y el coste.
+      - Aceptar, junto con el responsable de seguridad clínica, el riesgo clínico de los cambios del producto, y detener las publicaciones que no sean seguras.
+      - Trabajar con los responsables clínicos y operativos para asegurarse de que el producto encaja en las vías asistenciales y se adopta.
+      - Asegurarse de que el producto cumple las normas de accesibilidad, de gobernanza de la información y de servicio.
+      - Medir los resultados del producto, incluidos sus beneficios para pacientes y personal.
+    qualifications:
+      - Experiencia sustancial en gestión de producto o en un puesto digital relacionado.
+  - title: Gestor de producto sénior
+    responsibilities:
+      - Dirigir un grupo de productos relacionados, o un único producto complejo, de alto riesgo o delicado, como uno que se usa en la atención de urgencias.
+      - Elaborar la estrategia del producto a partir de la evidencia sobre las necesidades de los pacientes, la práctica clínica y las políticas de salud y asistencia.
+      - Asegurarse de que el producto cumple la regulación de productos sanitarios cuando se aplica.
+      - Gestionar el presupuesto del producto y defender la inversión con sus beneficios para la atención.
+      - Orientar y gestionar directamente a los gestores de producto.
+    qualifications:
+      - Amplia experiencia en la gestión de productos digitales a lo largo de todo su ciclo de vida.
+  - title: Gestor de producto líder
+    responsibilities:
+      - Dirigir una cartera de productos o un servicio de principio a fin, como todos los productos que apoyan una vía asistencial.
+      - Marcar la dirección de producto de varios equipos y asegurarse de que los productos funcionan juntos para pacientes y personal.
+      - Trabajar con los responsables clínicos y el responsable de seguridad clínica para gestionar el riesgo clínico de toda la cartera.
+      - Gestionar el presupuesto de la cartera e informar de los beneficios a los comités de gobierno de alto nivel.
+      - Dirigir y desarrollar a los gestores de producto del área.
+    qualifications:
+      - Amplia experiencia en la dirección de productos en varios equipos.
+  - title: Responsable de producto
+    responsibilities:
+      - Fijar la estrategia de producto de la organización, trabajando con los responsables directivos, clínicos y operativos.
+      - Fijar y elevar las normas de gestión de producto, incluido cómo gestionan los productos el riesgo clínico y miden los resultados.
+      - Dirigir la profesión de producto, incluidos la selección, los itinerarios profesionales y el desarrollo de capacidades.
+      - Decidir las prioridades de inversión entre productos, a partir de la evidencia de necesidad, valor y equidad.
+      - Representar los productos de la organización ante los socios de todo el sistema de salud y asistencia.
+    qualifications:
+      - Amplia experiencia en la dirección de la gestión de producto en toda una organización.

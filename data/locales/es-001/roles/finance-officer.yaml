@@ -1,0 +1,60 @@
+summary: >
+  Los técnicos de finanzas mantienen exactas y bajo control las finanzas diarias de la organización. Tramitan y registran facturas, pagos, cobros y asientos, concilian los libros contables y las cuentas bancarias, y ayudan a los responsables de presupuesto y a los proveedores con sus consultas. En una organización de atención sanitaria digital, gran parte de este trabajo tiene que ver con proveedores de tecnología, licencias de software y servicios en la nube, que a menudo se pagan con fondos públicos sujetos a normas estrictas sobre su gasto.
+health_context:
+  - La organización gasta dinero público, por lo que cada pago debe estar debidamente aprobado, registrado y poder superar una auditoría.
+  - Muchas facturas corresponden a licencias de software, alojamiento en la nube y contratos de soporte, que deben contrastarse con las condiciones del contrato, el uso y el código correcto de capital o de gasto corriente.
+  - El pago puntual y exacto importa, porque los pequeños proveedores y los prestadores de asistencia pueden depender de él.
+  - El personal de finanzas ve información personal, como los gastos del personal y los pagos a pacientes o prestadores de asistencia, y debe tratarla según las normas de gobernanza de la información.
+  - Los riesgos de fraude, como las solicitudes falsas de cambio de los datos bancarios de un proveedor, se dirigen contra los organismos públicos, por lo que los técnicos siguen comprobaciones estrictas.
+levels:
+  - title: Auxiliar de finanzas
+    summary: Los auxiliares de finanzas tramitan transacciones financieras habituales, como las facturas de proveedores, los cobros y las solicitudes de gastos, siguiendo procedimientos establecidos con supervisión cercana.
+    responsibilities:
+      - Registrar con exactitud en el sistema financiero las facturas de proveedores, las notas de abono y los cobros.
+      - Casar las facturas con los pedidos de compra y las recepciones de mercancía, y reclamar las aprobaciones pendientes.
+      - Comprobar las solicitudes de gastos del personal frente a la política y los justificantes.
+      - Responder por teléfono y por correo electrónico a las consultas habituales de proveedores y personal.
+      - Archivar y digitalizar los documentos financieros para que puedan encontrarse en una auditoría.
+      - Seguir los procedimientos financieros y las normas de gobernanza de la información, y comunicar cualquier cosa inusual.
+    qualifications:
+      - Buen manejo de los números y del teclado, adquirido en los estudios o en el trabajo.
+      - Disposición a obtener una cualificación contable de nivel inicial, o experiencia equivalente.
+    job_evaluation_notes: Las habilidades físicas están en el nivel 3 por la rapidez y la exactitud de la introducción de grandes volúmenes de datos. Los recursos financieros están en el nivel 2 porque el puesto trata información de pagos y comprueba solicitudes pequeñas.
+  - title: Técnico de finanzas
+    summary: Los técnicos de finanzas gestionan una parte del ciclo de transacciones, como las cuentas a pagar, las cuentas a cobrar o la tesorería, resolviendo cuestiones no rutinarias y conciliando su libro contable.
+    responsibilities:
+      - Tramitar diversas transacciones, incluidas las remesas de pagos, las devoluciones, las facturas de venta y los asientos.
+      - Conciliar los extractos de proveedores, las cuentas bancarias y las cuentas de control, y depurar las diferencias.
+      - Comprobar que las facturas de tecnología coinciden con las condiciones del contrato, como el número de licencias y los periodos de facturación.
+      - Realizar las comprobaciones de cambio de los datos bancarios de los proveedores y otros controles antifraude.
+      - Reclamar las deudas vencidas y resolver las facturas en disputa con los proveedores y los responsables de presupuesto.
+      - Enseñar a los nuevos auxiliares de finanzas a hacer las tareas habituales.
+    qualifications:
+      - Una cualificación contable de nivel inicial, o experiencia equivalente en tramitación financiera.
+    job_evaluation_notes: Los recursos financieros están en el nivel 3 porque el puesto prepara y emite las remesas de pagos y autoriza pagos dentro de los límites fijados.
+  - title: Técnico de finanzas sénior
+    summary: Los técnicos de finanzas sénior gestionan la tramitación y las conciliaciones financieras más complejas, apoyan los cierres mensuales y anuales, y ayudan a los responsables de presupuesto a entender su gasto.
+    responsibilities:
+      - Preparar los asientos de cierre mensual, como las periodificaciones y los gastos anticipados de los contratos anuales de software y de soporte.
+      - Investigar y depurar las partidas de conciliación complejas y los saldos antiguos.
+      - Preparar bajo supervisión las declaraciones y conciliaciones del impuesto sobre las ventas.
+      - Elaborar informes presupuestarios estándar y explicárselos a los responsables de presupuesto.
+      - Comprobar que el gasto está correctamente imputado entre capital y gasto corriente, y plantear las dudas a los contables.
+      - Supervisar y revisar en el día a día el trabajo de los técnicos y auxiliares de finanzas.
+      - Proponer mejoras en los procedimientos financieros y en los flujos de trabajo del sistema.
+    qualifications:
+      - Una cualificación contable intermedia, o experiencia equivalente.
+      - Experiencia en tramitación y conciliaciones financieras.
+  - title: Jefe de equipo de finanzas
+    summary: Los jefes de equipo de finanzas gestionan un equipo de finanzas transaccionales o trabajan como analistas financieros, asegurándose de que los procesos sean exactos, controlados y eficientes, y de que la información esté lista a tiempo.
+    responsibilities:
+      - Dirigir un equipo de finanzas transaccionales, planificando su trabajo para cumplir los plazos de pagos, deudas y cierre mensual.
+      - Gestionar un libro contable o un proceso financiero, e informar de su rendimiento, como los plazos de pago y las deudas antiguas.
+      - Probar y mejorar los controles financieros, y aportar evidencias a los auditores internos y externos.
+      - Preparar las conciliaciones del balance y los papeles de trabajo de las cuentas anuales.
+      - Mejorar los procesos, por ejemplo automatizando el casado de facturas o introduciendo el autoservicio para los responsables de presupuesto.
+      - Formar, apoyar y revisar el trabajo del personal del equipo.
+    qualifications:
+      - Una cualificación contable intermedia o avanzada, o experiencia equivalente.
+      - Experiencia en la dirección o la coordinación de procesos financieros.
+    job_evaluation_notes: Las personas están en el nivel 3 porque el puesto gestiona en el día a día un pequeño equipo de finanzas. Un analista financiero en esta banda puntuaría las personas en el nivel 2 y el análisis en el nivel 4.

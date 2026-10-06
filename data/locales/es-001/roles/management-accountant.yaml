@@ -1,0 +1,67 @@
+summary: >
+  Los contables de gestión proporcionan a los gestores la información y el asesoramiento financieros que necesitan para planificar, controlar el gasto y tomar buenas decisiones. Fijan y vigilan los presupuestos, prevén el gasto, calculan el coste de los servicios y elaboran la justificación financiera de las inversiones. En una organización de atención sanitaria digital trabajan estrechamente con los programas digitales y los equipos de producto, donde acertar con el capital y el gasto corriente, los costes de todo el ciclo de vida y la relación calidad-precio es central para tomar buenas decisiones.
+health_context:
+  - Los programas digitales suelen financiarse con una combinación de capital y gasto corriente, fondos finalistas o temporales, cada uno con sus propias normas sobre en qué puede gastarse.
+  - El paso de los sistemas en propiedad a los servicios en la nube y las suscripciones traslada costes del capital al gasto corriente, lo que afecta a los presupuestos, los casos de negocio y las solicitudes de financiación.
+  - Las decisiones de inversión deben demostrar una buena relación calidad-precio para los fondos públicos y beneficios para los pacientes, los profesionales clínicos y el personal asistencial, no solo ahorros financieros.
+  - Los contratos de software, alojamiento y soporte suelen durar varios años, por lo que las previsiones deben incluir los costes de funcionamiento mucho después de la puesta en marcha.
+  - Los responsables de presupuesto de los equipos digitales y clínicos pueden no ser especialistas en finanzas, por lo que el asesoramiento claro y práctico es una gran parte del puesto.
+levels:
+  - title: Contable de gestión en formación
+    summary: Los contables de gestión en formación, a veces llamados analistas financieros, elaboran informes presupuestarios y análisis para un grupo de responsables de presupuesto mientras trabajan para obtener una cualificación contable reconocida.
+    responsibilities:
+      - Preparar los informes presupuestarios mensuales de un grupo de responsables de presupuesto y explicar las principales desviaciones.
+      - Registrar los asientos de cierre mensual, las periodificaciones y las correcciones para que los informes sean exactos.
+      - Comprobar que el gasto está correctamente imputado entre centros de coste, proyectos, y capital y gasto corriente.
+      - Reunir la información de previsión y actualizar las previsiones con los responsables de presupuesto.
+      - Elaborar información de costes para los casos de negocio con orientación.
+      - Trabajar para obtener una cualificación contable reconocida.
+    qualifications:
+      - Un grado o una cualificación contable intermedia, y estar trabajando para obtener una cualificación contable reconocida, o experiencia equivalente.
+    job_evaluation_notes: Los conocimientos se puntúan en el nivel que exige el puesto una vez que la formación está lo bastante avanzada para hacer el trabajo. Los recursos financieros están en el nivel 3 por la vigilancia de presupuestos delegados.
+  - title: Contable de gestión
+    summary: Los contables de gestión son contables cualificados que dirigen la elaboración, el seguimiento y la previsión del presupuesto de una dirección o de un grupo de servicios, y asesoran a los responsables de presupuesto sobre sus finanzas.
+    responsibilities:
+      - Dirigir el ciclo mensual de información y previsión de una dirección o de un grupo de servicios.
+      - Asesorar a los responsables de presupuesto sobre el gasto, los riesgos y las acciones para no salirse del presupuesto.
+      - Preparar los presupuestos anuales, incluidos los costes de personal, los contratos y las licencias.
+      - Aplicar las normas de capital y gasto corriente al gasto digital, como el desarrollo de software, las licencias y el hardware.
+      - Crear modelos financieros para los casos de negocio y las evaluaciones de opciones.
+      - Supervisar y desarrollar a los contables en formación.
+    qualifications:
+      - Una cualificación contable reconocida, o experiencia equivalente.
+  - title: Contable de gestión sénior
+    summary: Los contables de gestión sénior dirigen la gestión financiera de una dirección grande o de un gran programa digital, incluidas las previsiones complejas, el cálculo de costes y los casos de negocio.
+    responsibilities:
+      - Dirigir la elaboración del presupuesto y las previsiones de una dirección grande o de un gran programa digital.
+      - Modelizar escenarios, como los cambios de financiación, los retrasos en la entrega y el paso del capital a los costes de suscripción en la nube.
+      - Dirigir la justificación financiera de las inversiones importantes, incluidos los costes de todo el ciclo de vida, los beneficios y la relación calidad-precio.
+      - Elaborar el cálculo de costes de servicios y productos, como el coste total de funcionamiento de un servicio digital.
+      - Presentar el desempeño y los riesgos financieros a la alta dirección y a los comités de programa.
+      - Gestionar un pequeño equipo de contables y personas en formación.
+    qualifications:
+      - Una cualificación contable reconocida, con una experiencia sustancial tras obtenerla, o equivalente.
+    job_evaluation_notes: Los recursos financieros están en el nivel 4 porque el puesto fija el presupuesto de una dirección o de un programa con sus responsables de presupuesto.
+  - title: Socio de negocio financiero
+    summary: Los socios de negocio financieros trabajan como parte de la dirección de una dirección, a menudo la de digital, datos y tecnología, convirtiendo la información financiera en decisiones y asegurándose de que la inversión ofrezca una buena relación calidad-precio.
+    responsibilities:
+      - Actuar como asesor financiero de alto nivel del equipo directivo de una dirección, como la de digital, datos y tecnología.
+      - Dirigir el plan financiero de la dirección, vinculando el gasto con las prioridades, la plantilla y la inversión.
+      - Cuestionar y apoyar a los directivos en la relación calidad-precio, incluidos el gasto en proveedores, el uso de licencias y los costes en la nube.
+      - Dirigir los casos de negocio de las grandes inversiones digitales y representar a finanzas en los comités de inversión.
+      - Asegurarse de que el gasto digital cumple las normas de financiación, los controles del gasto y los límites de capital y gasto corriente.
+      - Gestionar directamente a los contables de gestión que apoyan a la dirección.
+    qualifications:
+      - Una cualificación contable reconocida, con una amplia experiencia tras obtenerla, incluida la colaboración como socio de negocio.
+    job_evaluation_notes: Los recursos financieros están en el nivel 5 porque el puesto fija los presupuestos de varios servicios de una dirección.
+  - title: Responsable de contabilidad de gestión
+    summary: Los responsables de contabilidad de gestión dirigen la presupuestación, las previsiones y la información de gestión de la organización, y el equipo de socios de negocio y contables que las elabora.
+    responsibilities:
+      - Dirigir la elaboración del presupuesto anual y las previsiones del ejercicio de la organización.
+      - Diseñar la información de gestión, el cálculo de costes y la información de rendimiento para el consejo y la dirección.
+      - Fijar las normas de casos de negocio y de evaluación de inversiones, incluida la inversión digital.
+      - Asesorar a los directores sobre los riesgos financieros, los planes de ahorro y las decisiones necesarias para no salirse de la financiación.
+      - Dirigir y desarrollar los equipos de socios de negocio y de contabilidad de gestión.
+      - Mejorar las herramientas de presupuestación e información, incluida la información de autoservicio para los responsables de presupuesto.
+    qualifications:
+      - Una cualificación contable reconocida, con una amplia experiencia tras obtenerla, incluida la dirección de un equipo de finanzas.

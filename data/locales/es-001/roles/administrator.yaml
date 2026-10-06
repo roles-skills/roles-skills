@@ -1,0 +1,41 @@
+summary: >
+  El personal administrativo mantiene en marcha los equipos y los servicios encargándose de la administración diaria de la organización, como la correspondencia, las agendas, las reuniones, los registros, la introducción de datos, los pedidos y las consultas. En una organización de atención sanitaria digital apoya a los equipos digitales, clínicos y corporativos, y a menudo trata información confidencial sobre pacientes y personal.
+health_context:
+  - El personal administrativo suele ver información confidencial de pacientes y personal, por lo que sigue de cerca las normas de gobernanza de la información.
+  - Las consultas pueden proceder de pacientes, personal asistencial y público, y algunas personas que llaman pueden estar preocupadas o angustiadas.
+  - Los registros y la introducción de datos exactos importan, porque los errores pueden llegar a los sistemas clínicos, a los informes y a los pagos.
+  - Muchos procesos administrativos están pasando a herramientas digitales, por lo que el personal administrativo ayuda a probar y adoptar nuevas formas de trabajar.
+levels:
+  - title: Auxiliar administrativo
+    summary: Realiza tareas administrativas habituales para un equipo, siguiendo procedimientos establecidos con supervisión cercana.
+    responsibilities:
+      - Atender llamadas y correos electrónicos, tomar mensajes exactos y dirigir las consultas a la persona adecuada.
+      - Introducir y actualizar datos con exactitud en los sistemas del equipo.
+      - Archivar y digitalizar documentos y mantener ordenadas las carpetas compartidas.
+      - Reservar reuniones y salas, y enviar la documentación.
+      - Pedir material de oficina y suministros dentro de los procedimientos establecidos.
+    qualifications:
+      - Buenas habilidades de lectura, escritura, cálculo y teclado.
+    job_evaluation_notes: Las habilidades físicas se puntúan en el nivel 3 por el manejo avanzado del teclado, con rapidez y exactitud en la mecanografía y la introducción de datos.
+  - title: Administrativo
+    summary: Presta un servicio administrativo completo a un equipo o servicio, encargándose de diversas tareas, algunas no rutinarias, y organizando su propia carga de trabajo.
+    responsibilities:
+      - Gestionar las agendas y organizar reuniones, eventos y viajes de un equipo.
+      - Levantar actas y notas de acciones de las reuniones del equipo y hacer seguimiento de las acciones.
+      - Atender la correspondencia y las consultas habituales, redactando respuestas cuando sea necesario.
+      - Mantener registros, hojas de seguimiento y bases de datos, y elaborar informes sencillos.
+      - Tramitar pedidos, facturas y gastos dentro de los límites establecidos.
+      - Enseñar al personal nuevo los procedimientos administrativos del equipo.
+    qualifications:
+      - Una cualificación de nivel 3 en administración de empresas, o experiencia equivalente.
+  - title: Administrativo sénior
+    summary: Dirige la administración de un servicio o una dirección, supervisando a otros administrativos y mejorando los procesos administrativos.
+    responsibilities:
+      - Coordinar el servicio administrativo de una dirección, asignando el trabajo a los administrativos.
+      - Levantar las actas formales de las reuniones de dirección y de programa.
+      - Redactar y mejorar procedimientos y plantillas administrativos.
+      - Elaborar para los gestores informes a partir de las hojas de seguimiento y los sistemas.
+      - Vigilar el gasto de los presupuestos administrativos y comunicar las desviaciones.
+      - Formar y supervisar a los administrativos y a los aprendices.
+    qualifications:
+      - Experiencia administrativa sustancial, a un nivel equivalente a un título de grado básico.

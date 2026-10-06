@@ -1,0 +1,58 @@
+summary: >
+  Los gestores de ciberseguridad dirigen el enfoque de la organización para proteger sus sistemas, datos y servicios frente a las ciberamenazas. Fijan la política de seguridad, gestionan el riesgo cibernético, supervisan las operaciones y la ingeniería de seguridad, dirigen la respuesta a los ciberincidentes graves y crean una cultura consciente de la seguridad. En la atención sanitaria, se aseguran de que los servicios clínicos puedan seguir funcionando con seguridad, y recuperarse con rapidez, cuando se produce un ataque.
+health_context:
+  - Un ciberataque contra una organización sanitaria puede detener los sistemas clínicos y poner en riesgo a los pacientes, por lo que la ciberseguridad forma parte de la seguridad de los pacientes y de la continuidad de negocio.
+  - Las organizaciones sanitarias suelen tener que cumplir normas sectoriales de ciberseguridad y notificar los incidentes graves a las autoridades competentes.
+  - El personal clínico necesita un acceso rápido a los sistemas, por lo que las políticas de seguridad se diseñan con los profesionales clínicos y se prueba su usabilidad.
+  - La seguridad depende de muchos proveedores, incluidos los de sistemas clínicos y los servicios compartidos, por lo que el aseguramiento de los proveedores es una parte central del rol.
+  - Los productos sanitarios y los sistemas heredados crean riesgos duraderos que se gestionan con los equipos de electromedicina y de seguridad clínica.
+levels:
+  - title: Gestor de ciberseguridad
+    summary: El gestor de ciberseguridad dirige la función de ciberseguridad, o una parte importante de ella, gestionando el riesgo cibernético, las operaciones de seguridad y el aseguramiento.
+    responsibilities:
+      - Dirigir las operaciones de seguridad, la gestión de vulnerabilidades y el trabajo de aseguramiento, e informar de su rendimiento.
+      - Mantener el registro de riesgos cibernéticos, y asegurarse de que los riesgos para los servicios clínicos se evalúan y tienen responsable.
+      - Redactar y mantener las políticas y normas de seguridad, y comprobar que se cumplen.
+      - Dirigir la respuesta a los ciberincidentes, trabajando con la gestión de incidentes y con los responsables clínicos y operativos.
+      - Llevar a cabo la formación de concienciación en seguridad y los ejercicios de phishing para todo el personal, incluido el clínico.
+      - Gestionar directamente a los analistas y a los ingenieros de seguridad.
+    qualifications:
+      - Amplia experiencia en ciberseguridad, incluidas la respuesta a incidentes y la gestión de riesgos, a un nivel equivalente a un máster.
+      - Una certificación profesional de seguridad reconocida, o experiencia equivalente.
+    job_evaluation_notes: El esfuerzo mental y el emocional reflejan la dirección de la respuesta a ciberincidentes bajo presión, a menudo fuera de horario, cuando la atención a los pacientes puede estar en riesgo.
+  - title: Gestor de ciberseguridad sénior
+    summary: El gestor de ciberseguridad sénior dirige la ciberseguridad en varios equipos, gestiona el aseguramiento frente a las normas sectoriales y dirige el programa de mejora de la seguridad de la organización.
+    responsibilities:
+      - Dirigir los equipos de ciberseguridad de operaciones, ingeniería y aseguramiento.
+      - Dirigir el programa de mejora de la ciberseguridad de la organización y gestionar su presupuesto.
+      - Gestionar el aseguramiento frente a las normas sectoriales de ciberseguridad y los controles de ISO/IEC 27001, y preparar las evidencias para las auditorías.
+      - Dirigir la respuesta a los ciberincidentes graves, y planificar y probar la recuperación con los responsables de continuidad de negocio y clínicos.
+      - Evaluar la seguridad de los proveedores y de los servicios compartidos, y acordar los requisitos de seguridad en los contratos.
+      - Asesorar a los comités de programa sobre los riesgos de seguridad de los nuevos servicios clínicos y digitales.
+    qualifications:
+      - Amplia experiencia en la dirección de equipos de ciberseguridad en una organización compleja.
+      - Una certificación profesional de seguridad reconocida, o experiencia equivalente.
+    job_evaluation_notes: El esfuerzo mental y el emocional reflejan la dirección de la respuesta a ciberincidentes graves, que pueden durar días o semanas y amenazar la atención a los pacientes.
+  - title: Responsable de ciberseguridad
+    summary: El responsable de ciberseguridad fija la estrategia de ciberseguridad de la organización y rinde cuentas de su gestión del riesgo cibernético, de sus operaciones de seguridad y de la respuesta a los incidentes graves.
+    responsibilities:
+      - Fijar la estrategia de ciberseguridad, de acuerdo con las estrategias digital y clínica de la organización.
+      - Asesorar al consejo y al equipo directivo sobre el riesgo cibernético, el apetito de riesgo y la inversión.
+      - Dirigir la respuesta de la organización a los ciberincidentes graves, incluida la comunicación con los reguladores, los socios y el público.
+      - Crear una cultura de seguridad en la que todo el personal, incluidos los profesionales clínicos, entienda las amenazas y las notifique.
+      - Representar a la organización en las redes de ciberseguridad del sector sanitario y ante las organizaciones socias.
+      - Dirigir y desarrollar la función de ciberseguridad, y gestionar su presupuesto.
+    qualifications:
+      - Amplia experiencia en la dirección de la ciberseguridad de una organización grande, incluida la respuesta a incidentes graves.
+  - title: Director de seguridad de la información
+    summary: El director de seguridad de la información tiene la responsabilidad institucional sobre la ciberseguridad de toda la organización y, a menudo, de las organizaciones socias que comparten sus servicios.
+    responsibilities:
+      - Asumir la responsabilidad institucional sobre la ciberseguridad, e informar de ella al consejo.
+      - Fijar con el consejo el apetito de riesgo de seguridad, y asegurarse de que determina las decisiones en toda la organización.
+      - Dirigir la ciberseguridad de los servicios compartidos y de las organizaciones socias, cuando la organización los presta.
+      - Dirigir la respuesta de la organización a los ciberincidentes más graves, trabajando con el equipo directivo y con las autoridades competentes.
+      - Dar forma a la práctica de ciberseguridad de todo el sector de salud y asistencia trabajando con socios y organismos sectoriales.
+      - Dirigir la función de seguridad y gestionar los presupuestos de varios servicios.
+    qualifications:
+      - Amplia experiencia en la dirección de la ciberseguridad a nivel de consejo, o para varias organizaciones.
+    job_evaluation_notes: Este nivel corresponde a organizaciones más grandes, o a las que prestan servicios digitales compartidos a sus socios. Las organizaciones más pequeñas suelen tener como puesto de seguridad más alto un responsable de ciberseguridad en la banda 8c.

@@ -1,0 +1,61 @@
+summary: >
+  Los ingenieros de infraestructura diseñan, construyen, gestionan y dan soporte a las redes, los servidores, el almacenamiento, las plataformas en la nube y el alojamiento de los que dependen los servicios digitales de la organización. Mantienen esta infraestructura disponible, segura y recuperable, y trabajan con proveedores y arquitectos para cambiarla con seguridad. En la atención sanitaria, un solo fallo de infraestructura puede detener a la vez los sistemas clínicos de hospitales y servicios comunitarios.
+health_context:
+  - Los sistemas clínicos necesitan una disponibilidad muy alta, por lo que la infraestructura se diseña para la resiliencia y los cambios se planifican en función de la actividad clínica.
+  - Los ingenieros participan en guardias, porque los fallos de infraestructura de noche o en fin de semana pueden detener la atención a los pacientes.
+  - Las redes conectan productos sanitarios, como bombas de infusión, monitores de pacientes y equipos de imagen, que necesitan segmentación de la red y cambios cuidadosos según la IEC 80001-1.
+  - La atención sanitaria es un objetivo frecuente del ransomware, por lo que las copias de seguridad deben estar protegidas, probadas y poder restaurarse dentro de los tiempos de recuperación acordados.
+  - La infraestructura suele mezclar tecnología antigua y nueva, incluidos sistemas clínicos heredados que no pueden parchearse fácilmente, por lo que los ingenieros implantan controles compensatorios.
+levels:
+  - title: Ingeniero de infraestructura asociado
+    responsibilities:
+      - Apoyar a los ingenieros de infraestructura en tareas habituales, como la instalación de servidores, la comprobación de copias de seguridad y los cambios de red.
+      - Monitorizar la infraestructura y comunicar las alertas y los fallos al equipo adecuado.
+      - Seguir en todo el trabajo los procedimientos de cambios, seguridad y gobernanza de la información.
+      - Registrar con exactitud los datos de configuración y de activos.
+      - Trabajar para obtener un programa de aprendizaje de infraestructura o una cualificación equivalente.
+    qualifications:
+      - Matriculado en un programa de aprendizaje de infraestructura o redes o equivalente, o trabajando para obtenerlo.
+    job_evaluation_notes: Los conocimientos se puntúan en el nivel que exige el puesto una vez que la formación está lo bastante avanzada para hacer el trabajo.
+  - title: Ingeniero de infraestructura
+    responsibilities:
+      - Construir, configurar y mantener los servidores, el almacenamiento, las redes y los servicios en la nube que alojan los sistemas clínicos y corporativos.
+      - Parchear la infraestructura sin demora, equilibrando el riesgo de seguridad con la necesidad de mantener disponibles los sistemas clínicos.
+      - Realizar y probar las copias de seguridad y las restauraciones, incluidas las de los sistemas clínicos críticos.
+      - Dar soporte a las redes segmentadas de los productos sanitarios y otros equipos clínicos, trabajando con los equipos de electromedicina.
+      - Investigar y corregir los fallos de infraestructura, también como parte de las guardias.
+      - Automatizar las tareas habituales con scripts e infraestructura como código.
+    qualifications:
+      - Un grado en informática o una materia afín, certificaciones técnicas pertinentes o experiencia equivalente.
+      - Experiencia en el soporte de infraestructura en producción.
+    job_evaluation_notes: El esfuerzo mental refleja la concentración prolongada frecuente en fallos imprevisibles, incluido el trabajo de guardia fuera de horario.
+  - title: Ingeniero de infraestructura sénior
+    responsibilities:
+      - Diseñar y construir soluciones de infraestructura a partir de los diseños de los arquitectos, con la resiliencia que necesitan los servicios clínicos.
+      - Planificar y dirigir grandes cambios de infraestructura, como traslados de centros de datos, renovaciones de red y migraciones a la nube, en función de la actividad clínica.
+      - Diseñar y probar la recuperación ante desastres y la recuperación tras ransomware de los sistemas clínicos críticos.
+      - Dirigir la respuesta técnica a los incidentes de infraestructura e impulsar la corrección de sus causas.
+      - Gestionar los controles compensatorios de los sistemas heredados y los productos sanitarios que no pueden parchearse.
+      - Dirigir y orientar a los ingenieros de infraestructura.
+    qualifications:
+      - Experiencia sustancial en el diseño y la gestión de infraestructura en producción, a un nivel equivalente a un diploma de posgrado.
+    job_evaluation_notes: El esfuerzo mental refleja la concentración prolongada frecuente durante los incidentes y los cambios complejos, también fuera de horario.
+  - title: Ingeniero de infraestructura líder
+    responsibilities:
+      - Dirigir la infraestructura de una plataforma importante o de un grupo de servicios, y marcar su dirección técnica.
+      - Gestionar a los proveedores externos de infraestructura, y exigirles los niveles de servicio de disponibilidad y recuperación.
+      - Supervisar los programas de infraestructura, como la renovación de la red o el paso al alojamiento en la nube.
+      - Asegurarse de que la infraestructura cumple las normas de seguridad, de gobernanza de la información y de redes de productos sanitarios.
+      - Dirigir los equipos de infraestructura y desarrollar sus habilidades.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería de infraestructura de servicios complejos y de alta disponibilidad.
+    job_evaluation_notes: El UK GDaD PCF propone la banda 8b tanto para el ingeniero de infraestructura líder como para el principal. Esta referencia sitúa al líder en la banda 8a, para que los dos niveles estén en bandas distintas, de acuerdo con los puestos líder y principal de otras familias técnicas.
+  - title: Ingeniero de infraestructura principal
+    responsibilities:
+      - Desarrollar la estrategia y las hojas de ruta de infraestructura, para que la inversión ofrezca un alojamiento resiliente, seguro y sostenible a los servicios clínicos.
+      - Ser responsable de las relaciones operativas con los proveedores estratégicos de infraestructura y de red.
+      - Asesorar a la alta dirección sobre el riesgo de infraestructura, incluidos la tecnología al final de su vida útil, los puntos únicos de fallo y la ciberresiliencia.
+      - Fijar con los propietarios de los servicios los objetivos de tiempo y punto de recuperación de los sistemas clínicos, y asegurarse de que la infraestructura puede cumplirlos.
+      - Dirigir la profesión de ingeniería de infraestructura en toda la organización y desarrollar su capacidad.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería de infraestructura en varios equipos u organizaciones.

@@ -1,0 +1,46 @@
+summary: >
+  Los gestores de entrega ayudan a los equipos multidisciplinares a entregar servicios de salud digital que funcionen para los pacientes, los profesionales clínicos y el personal asistencial. Crean las condiciones para que los equipos trabajen bien, eliminan obstáculos, gestionan riesgos y dependencias y mantienen la entrega a un ritmo sostenible, con formas de trabajo ágiles y lean.
+health_context:
+  - Las publicaciones en servicios que apoyan la atención a los pacientes deben superar las comprobaciones de seguridad clínica y de gobernanza de la información, por lo que los gestores de entrega las incorporan a los planes del equipo y a su definición de terminado.
+  - La entrega suele depender de profesionales clínicos y personal asistencial que tienen poco tiempo fuera de la atención a los pacientes, por lo que los gestores de entrega planifican la investigación, las pruebas y la formación en función de los turnos clínicos.
+  - Los cambios en los servicios clínicos en producción requieren elegir bien el momento, por lo que los gestores de entrega planifican las puestas en marcha con los equipos operativos para evitar los periodos de mayor actividad clínica y tener el apoyo preparado.
+  - Los equipos suelen depender de proveedores de sistemas clínicos y de otras organizaciones de salud y asistencia, por lo que los gestores de entrega gestionan las dependencias externas y los contratos.
+levels:
+  - title: Gestor de entrega asociado
+    responsibilities:
+      - Facilitar las ceremonias del equipo, como las reuniones diarias, la planificación, las demostraciones y las retrospectivas.
+      - Mantener al día el tablero del equipo, el registro de riesgos y problemas y los registros de dependencias.
+      - Hacer seguimiento de las tareas de seguridad clínica, gobernanza de la información y accesibilidad necesarias antes de cada publicación.
+      - Organizar sesiones con profesionales clínicos, personal asistencial y pacientes para la investigación y las pruebas, en función de los turnos clínicos.
+      - Acompañar y apoyar a un gestor de entrega en un equipo más grande, entregando partes del trabajo con orientación.
+    qualifications:
+      - Algo de experiencia trabajando en un equipo de entrega o con él, o experiencia equivalente.
+  - title: Gestor de entrega
+    responsibilities:
+      - Dirigir la entrega de un producto o servicio de salud digital a lo largo del descubrimiento, la fase alfa, la fase beta y la producción.
+      - Planificar las publicaciones con los equipos operativos y clínicos, incluidos el apoyo a la puesta en marcha, la formación y los planes de reversión.
+      - Asegurarse de que el aseguramiento de la seguridad clínica, la gobernanza de la información y la accesibilidad avanza al ritmo de la entrega, no al final.
+      - Gestionar el presupuesto, los contratos con proveedores y los recursos del equipo.
+      - Informar en términos claros a los comités de gobierno sobre el avance, los riesgos y los beneficios.
+      - Crear una cultura de equipo sana y orientar a sus miembros en las formas de trabajo ágiles.
+    qualifications:
+      - Experiencia sustancial en la entrega de productos o servicios digitales con métodos ágiles.
+    job_evaluation_notes: No hay nivel en la banda 6 porque el UK GDaD PCF no tiene ningún nivel de gestor de entrega entre el asociado (EO/HEO) y el gestor de entrega (SEO/G7).
+  - title: Gestor de entrega sénior
+    responsibilities:
+      - Dirigir la entrega de servicios complejos o de alto riesgo, como los que se usan en la atención urgente o los que sustituyen un sistema clínico central.
+      - Actuar como principal punto de escalado de los riesgos, problemas y dependencias de entrega de varios equipos.
+      - Planificar despliegues a gran escala en varios centros y organizaciones, con los responsables de seguridad clínica y los responsables operativos.
+      - Gestionar los presupuestos, los acuerdos comerciales y el rendimiento de los proveedores del servicio.
+      - Gestionar directamente y desarrollar a los gestores de entrega.
+    qualifications:
+      - Amplia experiencia en la entrega de servicios digitales complejos a lo largo de todo su ciclo de vida.
+  - title: Responsable de gestión de la entrega
+    responsibilities:
+      - Dirigir la profesión de gestión de la entrega y fijar las normas de entrega ágil de la organización.
+      - Seleccionar, desarrollar y asignar a los gestores de entrega en toda la cartera.
+      - Asegurarse de que los enfoques de entrega cumplen los requisitos de seguridad clínica, gobernanza de la información y aseguramiento sin frenar innecesariamente a los equipos.
+      - Asesorar a los responsables directivos y clínicos sobre los riesgos de entrega, la capacidad y las prioridades.
+      - Gestionar el presupuesto y el plan de plantilla de la profesión.
+    qualifications:
+      - Amplia experiencia en la dirección de la entrega en varios equipos y en la dirección de una práctica de entrega.

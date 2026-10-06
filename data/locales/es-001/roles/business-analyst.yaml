@@ -1,0 +1,65 @@
+summary: >
+  Los analistas de negocio ayudan a la organización a entender los problemas de los servicios de salud y asistencia y a encontrar los cambios adecuados para resolverlos. Analizan cómo funcionan hoy los procesos clínicos, administrativos y de cara a los pacientes, definen las necesidades y los requisitos de los usuarios y del negocio, y ayudan a los equipos a asegurarse de que los nuevos servicios digitales encajan en las vías asistenciales reales y aportan beneficios medibles.
+health_context:
+  - Los procesos atraviesan los límites organizativos y profesionales, por lo que los analistas mapean vías asistenciales completas, incluidos los traspasos entre profesionales clínicos, personal asistencial, pacientes y otras organizaciones.
+  - Los requisitos suelen conllevar riesgo clínico, por lo que los analistas trabajan con los responsables de seguridad clínica para asegurarse de que los requisitos relacionados con la seguridad se recogen, se trazan y se prueban.
+  - Muchos requisitos tratan del intercambio de datos sanitarios entre sistemas, por lo que los analistas necesitan un conocimiento práctico de estándares de interoperabilidad como HL7 FHIR y de terminologías clínicas como SNOMED CT.
+  - Los beneficios en la atención suelen referirse a la seguridad, la calidad, el tiempo del personal y la experiencia de los pacientes, no solo al coste, por lo que los analistas ayudan a definir medidas que los profesionales clínicos reconozcan.
+levels:
+  - title: Analista de negocio en formación
+    responsibilities:
+      - Aprender técnicas de análisis de negocio mediante formación estructurada, acompañamiento y trabajo supervisado.
+      - Tomar notas y redactar mapas de procesos a partir de talleres con personal clínico y administrativo.
+      - Mantener los registros de requisitos, las historias de usuario y los registros de trazabilidad según las indicaciones recibidas.
+      - Ayudar a preparar escenarios de prueba para las pruebas de aceptación de usuario.
+      - Seguir las normas de gobernanza de la información al tratar documentos que contienen información de pacientes.
+    qualifications:
+      - Estar trabajando para obtener un programa de aprendizaje o una cualificación de análisis de negocio, o experiencia equivalente.
+  - title: Analista de negocio júnior
+    responsibilities:
+      - Mapear los procesos actuales y futuros de flujos de trabajo clínicos y administrativos, como las derivaciones, las citas o la gestión de resultados.
+      - Obtener y redactar requisitos e historias de usuario para trabajos bien definidos.
+      - Reunir datos sobre el rendimiento de los procesos, como los tiempos de espera o las soluciones manuales improvisadas, para apoyar el análisis.
+      - Preparar y realizar escenarios de pruebas de aceptación de usuario con usuarios clínicos y operativos.
+      - Señalar al equipo y al responsable de seguridad clínica los requisitos que podrían afectar a la seguridad de los pacientes.
+    qualifications:
+      - Un grado, una cualificación o un programa de aprendizaje de análisis de negocio, o experiencia equivalente.
+  - title: Analista de negocio
+    responsibilities:
+      - Dirigir el análisis de proyectos pequeños y medianos, desde la definición del problema hasta la medición de los beneficios.
+      - Dirigir talleres con profesionales clínicos, personal asistencial y gestores para entender los puntos de fricción y acordar opciones.
+      - Modelizar las vías asistenciales y los flujos de información, incluidos los datos que se intercambian con otros sistemas de salud y asistencia.
+      - Definir los requisitos relacionados con la seguridad y con los datos, y trazarlos a lo largo del diseño, el desarrollo y las pruebas.
+      - Elaborar casos de beneficios con medidas como el tiempo del personal liberado, los errores evitados o la experiencia de los pacientes.
+      - Ser mentor de los analistas de negocio júnior y en formación.
+    qualifications:
+      - Un grado o una cualificación reconocida de análisis de negocio, o experiencia equivalente.
+      - Experiencia en análisis de negocio en proyectos de cambio digital.
+  - title: Analista de negocio sénior
+    responsibilities:
+      - Dirigir el análisis de negocio de programas grandes o complejos, como la sustitución de un sistema clínico o el rediseño de una vía asistencial.
+      - Analizar las opciones y su efecto en la atención, la seguridad, la carga de trabajo del personal y el coste, y presentar recomendaciones a los comités.
+      - Asegurarse de que los impactos en el riesgo clínico, la gobernanza de la información y la igualdad se analizan y se abordan en los requisitos.
+      - Definir y hacer seguimiento de los beneficios del cambio, y establecer cómo se medirán tras la puesta en marcha.
+      - Gestionar o dirigir a analistas de negocio y llevar a cabo actividades de la comunidad de práctica.
+    qualifications:
+      - Experiencia sustancial en análisis de negocio en cambios complejos, a un nivel equivalente a un máster.
+  - title: Analista de negocio líder
+    responsibilities:
+      - Dirigir el análisis de problemas muy complejos que abarcan varios productos, servicios u organizaciones de un sistema asistencial.
+      - Dar forma al caso de negocio y al plan de realización de beneficios de las grandes inversiones.
+      - Fijar normas de análisis de negocio, como la trazabilidad de los requisitos del software relacionado con la seguridad y regulado.
+      - Trabajar con responsables clínicos, arquitectos y gestores de producto para alinear el análisis con la estrategia de la organización.
+      - Gestionar directamente a los analistas de negocio y dirigir su desarrollo profesional.
+    qualifications:
+      - Amplia experiencia en la dirección del análisis de negocio en cambios complejos con varios equipos.
+  - title: Responsable de análisis de negocio
+    responsibilities:
+      - Dirigir la función de análisis de negocio y fijar su estrategia, sus normas y sus formas de trabajar.
+      - Desarrollar la capacidad de análisis de negocio, incluidos la selección, los itinerarios profesionales y la formación.
+      - Asesorar a los responsables directivos y clínicos sobre el análisis necesario para las grandes transformaciones de salud y asistencia.
+      - Asegurarse de que la realización de beneficios se planifica, se mide y se comunica en toda la cartera.
+      - Gestionar el presupuesto y el plan de plantilla de la función.
+    qualifications:
+      - Amplia experiencia en la dirección de una función o práctica de análisis de negocio.
+    job_evaluation_notes: Los recursos de información se puntúan en el nivel 6 porque el responsable de análisis de negocio es responsable de las normas de toda la organización sobre cómo se mantienen los requisitos, los modelos de procesos y los registros de beneficios en todo el trabajo de cambio.

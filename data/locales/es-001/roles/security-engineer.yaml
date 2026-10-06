@@ -1,0 +1,45 @@
+summary: >
+  Los ingenieros de seguridad diseñan, construyen y gestionan los controles técnicos de seguridad que protegen los sistemas, los datos y los usuarios de la organización. Trabajan en la identidad y el acceso, la protección de los puestos y de la red, el cifrado, los registros y la seguridad en la nube, y ayudan a los equipos de producto y de infraestructura a incorporar la seguridad. En la atención sanitaria, protegen los sistemas clínicos y los datos de los pacientes manteniendo un acceso rápido para los profesionales clínicos en el punto de atención.
+health_context:
+  - Los controles de seguridad no deben obstaculizar la atención urgente, por lo que los ingenieros diseñan una autenticación robusta que siga funcionando con rapidez en los puestos clínicos compartidos.
+  - Los productos sanitarios y los sistemas clínicos heredados a menudo no pueden parchearse ni ejecutar software de seguridad, por lo que los ingenieros diseñan la segmentación de la red y controles compensatorios.
+  - El ransomware es una gran amenaza para la atención sanitaria, por lo que los ingenieros refuerzan los sistemas, protegen las copias de seguridad y limitan hasta dónde puede propagarse un ataque.
+  - Los sistemas clínicos suelen suministrarlos y mantenerlos terceros, por lo que los ingenieros evalúan la seguridad de los proveedores y controlan su acceso remoto.
+  - Los cambios en los controles de seguridad de los sistemas clínicos pasan por la gestión de cambios y, cuando es necesario, por la revisión de seguridad clínica.
+levels:
+  - title: Ingeniero de seguridad
+    summary: El ingeniero de seguridad construye, configura y mantiene los controles y las herramientas de seguridad, y ayuda a los equipos a corregir las debilidades de seguridad.
+    responsibilities:
+      - Construir y mantener controles de seguridad, como la protección de los puestos, los cortafuegos, la seguridad del correo electrónico y los registros de seguridad.
+      - Configurar los controles de identidad y acceso, incluidos la autenticación multifactor y el acceso privilegiado.
+      - Ayudar a los equipos de infraestructura y de producto a corregir vulnerabilidades y a reforzar los sistemas según las normas acordadas.
+      - Segmentar las redes para proteger los productos sanitarios y los sistemas heredados, trabajando con los equipos de infraestructura y de electromedicina.
+      - Revisar la seguridad de los nuevos sistemas y del acceso remoto de los proveedores antes de su puesta en marcha.
+      - Participar en las guardias para apoyar la respuesta a incidentes de seguridad.
+    qualifications:
+      - Un grado en informática o ciberseguridad, certificaciones de seguridad pertinentes o experiencia equivalente.
+      - Experiencia en la construcción o gestión de infraestructura o de herramientas de seguridad.
+    job_evaluation_notes: El esfuerzo mental refleja la concentración prolongada frecuente en trabajo técnico complejo y en el apoyo a incidentes, también durante las guardias.
+  - title: Ingeniero de seguridad sénior
+    summary: El ingeniero de seguridad sénior diseña y dirige la implantación de controles de seguridad importantes, y asesora a los equipos sobre el diseño seguro.
+    responsibilities:
+      - Diseñar y dirigir la implantación de controles de seguridad, como la gestión del acceso privilegiado, la monitorización de seguridad y la protección de las copias de seguridad.
+      - Asesorar a los equipos de producto y de infraestructura sobre el diseño seguro de los servicios clínicos y dirigidos a pacientes.
+      - Diseñar controles compensatorios para los productos sanitarios y otros sistemas que no pueden parchearse.
+      - Evaluar la seguridad de los proveedores y de sus productos, incluidos los servicios en la nube.
+      - Apoyar la respuesta a los incidentes de seguridad graves con conocimientos técnicos y planes de recuperación.
+      - Orientar a los ingenieros de seguridad y compartir buenas prácticas entre equipos.
+    qualifications:
+      - Experiencia sustancial en ingeniería de seguridad, a un nivel equivalente a un diploma de posgrado.
+      - Certificaciones de seguridad avanzadas pertinentes, o experiencia equivalente.
+  - title: Ingeniero de seguridad líder
+    summary: El ingeniero de seguridad líder marca la dirección técnica de la ingeniería de seguridad y se asegura de que los controles funcionen juntos en toda la organización.
+    responsibilities:
+      - Marcar la dirección técnica y las normas de los controles de seguridad en toda la organización.
+      - Dirigir el diseño de seguridad de los grandes programas, como el paso al alojamiento en la nube o una nueva historia clínica electrónica.
+      - Asegurarse de que los controles protegen frente al ransomware y permiten una recuperación rápida y segura de los sistemas clínicos.
+      - Equilibrar la seguridad con la usabilidad clínica, trabajando con los responsables clínicos sobre el acceso y la autenticación.
+      - Asesorar al gestor de ciberseguridad sobre el riesgo técnico y la inversión.
+      - Dirigir y desarrollar a los ingenieros de seguridad.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería de seguridad de servicios complejos.

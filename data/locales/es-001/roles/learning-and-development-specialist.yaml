@@ -1,0 +1,72 @@
+summary: >
+  Los especialistas en aprendizaje y desarrollo ayudan al personal a adquirir las habilidades que necesita para prestar una atención segura, moderna y apoyada en lo digital. Analizan las necesidades de aprendizaje, diseñan e imparten aprendizaje presencial y en línea, gestionan el sistema de gestión del aprendizaje y crean itinerarios profesionales. En una organización de atención sanitaria digital, una gran parte de su trabajo consiste en desarrollar las habilidades digitales, de datos y de tecnología, tanto de los especialistas como de toda la plantilla.
+health_context:
+  - El personal clínico y asistencial necesita formación en los nuevos sistemas clínicos antes de su puesta en marcha, a menudo en varios turnos y centros, por lo que el aprendizaje se planifica en función de servicios que funcionan a todas horas.
+  - Parte de la formación es obligatoria, como la de gobernanza de la información, concienciación en ciberseguridad y protección de personas vulnerables, y su cumplimiento se comunica al consejo.
+  - Desarrollar internamente las habilidades digitales escasas, mediante programas de aprendizaje, recualificación e itinerarios profesionales, suele ser más rápido y barato que contratarlas.
+  - Los marcos de habilidades como esta referencia, el UK GDaD PCF y ESCO ofrecen un lenguaje común para el análisis de carencias de habilidades y los planes de desarrollo.
+  - El aprendizaje debe ser accesible para el personal con distintas necesidades, patrones de trabajo y niveles de confianza digital.
+levels:
+  - title: Coordinador de aprendizaje y desarrollo
+    summary: Coordina la oferta de aprendizaje de la organización, gestionando las reservas, el sistema de gestión del aprendizaje y los registros de formación, y apoya la impartición de los cursos.
+    responsibilities:
+      - Programar los cursos, reservar las salas y los formadores, y gestionar las reservas y las listas de espera.
+      - Mantener los cursos, las matrículas y los registros de finalización en el sistema de gestión del aprendizaje.
+      - Elaborar para los gestores informes del cumplimiento de la formación obligatoria.
+      - Responder a las preguntas del personal y de los gestores sobre la oferta de aprendizaje.
+      - Apoyar a los formadores en las sesiones, incluida la preparación de aulas en línea y la recogida de opiniones.
+      - Administrar las matrículas y las revisiones de los programas de aprendizaje con los centros de formación.
+    qualifications:
+      - Una cualificación de nivel 3, un programa de aprendizaje en aprendizaje y desarrollo o experiencia equivalente.
+      - Experiencia en administración y en el uso de un sistema de gestión del aprendizaje o similar.
+  - title: Técnico de aprendizaje y desarrollo
+    summary: Diseña e imparte aprendizaje para diversos grupos de personal, incluidas las habilidades digitales y la formación en sistemas, y evalúa su efecto.
+    responsibilities:
+      - Impartir formación presencial y en línea, como la acogida, las habilidades digitales y los fundamentos de la gestión.
+      - Crear cursos en línea y guías breves en el sistema de gestión del aprendizaje, haciéndolos accesibles.
+      - Trabajar con los equipos digitales para planificar e impartir la formación en los nuevos sistemas clínicos y de gestión antes de su puesta en marcha.
+      - Ayudar a los gestores a identificar las necesidades de aprendizaje de su equipo y a planificar su desarrollo.
+      - Evaluar los cursos y mejorarlos a partir de las opiniones y los resultados.
+      - Coordinar los programas de aprendizaje, trabajando con los centros de formación, el alumnado y los gestores.
+    qualifications:
+      - Una cualificación reconocida de aprendizaje y desarrollo o de formación, o experiencia equivalente.
+      - Experiencia en el diseño y la impartición de formación para personas adultas, presencial y en línea.
+    job_evaluation_notes: Las personas están en el nivel 3 porque el puesto imparte formación esencial como tarea principal; la investigación está en el nivel 2 porque evalúa el aprendizaje con regularidad.
+  - title: Especialista en aprendizaje y desarrollo
+    summary: Dirige el análisis, el diseño y la evaluación de los programas de aprendizaje de un área importante, como el liderazgo, las habilidades digitales o la formación en sistemas, con amplia libertad dentro de la estrategia de aprendizaje.
+    responsibilities:
+      - Analizar las necesidades de aprendizaje de un grupo de personal o de una profesión, con el análisis de carencias de habilidades frente a esta referencia.
+      - Diseñar programas de aprendizaje combinado con resultados claros, desde los cursos en línea hasta la orientación y la práctica en el lugar de trabajo.
+      - Diseñar estrategias de formación para los grandes cambios de sistemas clínicos, incluidas las redes de superusuarios.
+      - Evaluar el efecto del aprendizaje en las habilidades, el rendimiento y los servicios, e informar de él.
+      - Encargar y garantizar la calidad de los centros de formación externos.
+      - Orientar y desarrollar a los técnicos de aprendizaje y desarrollo.
+    qualifications:
+      - Una cualificación reconocida de aprendizaje y desarrollo de nivel intermedio o avanzado, o experiencia equivalente.
+      - Experiencia sustancial en el diseño y la evaluación de programas de aprendizaje.
+    job_evaluation_notes: Las personas están en el nivel 4 porque diseñar programas de formación es la tarea principal.
+  - title: Líder de competencias digitales
+    summary: Dirige el programa de la organización para desarrollar las habilidades digitales, de datos y de tecnología, de las profesiones especializadas y de toda la plantilla, usando los marcos de habilidades para planificar las carreras y cubrir las carencias.
+    responsibilities:
+      - Dirigir el programa de competencias digitales, incluidas la alfabetización digital de todo el personal y el desarrollo de las profesiones digitales, de datos y de tecnología.
+      - Realizar el análisis de carencias de habilidades de los equipos digitales con los perfiles de rol y las habilidades de esta referencia, e informar de los resultados.
+      - Diseñar itinerarios profesionales desde los programas de aprendizaje hasta los puestos de alto nivel, vinculados a las bandas y a la valoración de puestos.
+      - Crear alianzas con universidades, centros de formación profesional y otros centros de formación, y aprovechar al máximo la financiación de los programas de aprendizaje.
+      - Gestionar el presupuesto de competencias digitales y evaluar el retorno de la inversión.
+      - Dirigir un pequeño equipo de personal de aprendizaje y desarrollo.
+    qualifications:
+      - Una cualificación reconocida de aprendizaje y desarrollo de nivel avanzado, o experiencia equivalente.
+      - Experiencia sustancial en la creación de programas de habilidades, a ser posible digitales, de datos o de tecnología.
+  - title: Responsable de aprendizaje
+    summary: Dirige el aprendizaje y el desarrollo en toda la organización, fijando la estrategia de aprendizaje y gestionando el equipo, el presupuesto y los sistemas de aprendizaje.
+    responsibilities:
+      - Fijar la estrategia de aprendizaje de la organización, vinculada a la estrategia de personas y al plan de plantilla.
+      - Dirigir y gestionar el equipo de aprendizaje y desarrollo y sus servicios, incluidos la formación obligatoria y el sistema de gestión del aprendizaje.
+      - Gestionar el presupuesto de aprendizaje, incluidos los fondos de los programas de aprendizaje y el gasto en formación externa.
+      - Informar a los comités de dirección sobre la actividad, el cumplimiento y el impacto del aprendizaje.
+      - Dirigir los programas de desarrollo del liderazgo y de la gestión con los colegas de desarrollo organizativo.
+      - Asegurarse de que el aprendizaje es accesible, inclusivo y está disponible para el personal de todos los turnos.
+    qualifications:
+      - Una cualificación profesional reconocida de aprendizaje y desarrollo o de recursos humanos de nivel avanzado, o un máster en una materia afín, o experiencia equivalente.
+      - Amplia experiencia en la dirección de servicios de aprendizaje.
+    job_evaluation_notes: Las personas están en el nivel 5 porque el puesto gestiona la formación de toda la organización.

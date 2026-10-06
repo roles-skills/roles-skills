@@ -1,0 +1,67 @@
+summary: >
+  Los científicos de datos usan la estadística, el aprendizaje automático y otros métodos avanzados para encontrar patrones en los datos de salud y asistencia y crear modelos que ayuden a los servicios a planificar, predecir y mejorar la atención. Su trabajo habitual incluye prever la demanda, identificar a los pacientes que pueden beneficiarse de un apoyo temprano y evaluar el efecto de los cambios en los servicios. Trabajan estrechamente con profesionales clínicos y analistas, y se aseguran de que los modelos sean válidos y justos y se usen con seguridad.
+health_context:
+  - Un modelo que apoya decisiones sobre pacientes puede causar daño si es erróneo o tiene sesgos, por lo que los modelos se validan en la población en la que se van a usar y se evalúa su seguridad clínica.
+  - Los datos sanitarios reflejan un acceso desigual a la atención, por lo que los modelos pueden repetir o empeorar las desigualdades en salud si no se miden y abordan los sesgos en cada grupo de pacientes.
+  - Algunos modelos, como los que fundamentan el diagnóstico o el tratamiento, pueden estar regulados como productos sanitarios, y también puede aplicarse la regulación de la IA.
+  - La ciencia de datos suele necesitar datos de pacientes detallados y enlazados, por lo que el trabajo se hace en entornos seguros, con datos seudonimizados y sobre una base de gobernanza de la información acordada.
+  - Los profesionales clínicos y los pacientes necesitan entender los resultados de un modelo y confiar en ellos, por lo que importan la explicación y la comunicación en lenguaje claro de la incertidumbre.
+levels:
+  - title: Científico de datos en formación
+    responsibilities:
+      - Aprender los métodos estadísticos y de aprendizaje automático, las herramientas y las formas de trabajo seguras del equipo mediante formación estructurada.
+      - Preparar y explorar conjuntos de datos sanitarios seudonimizados bajo supervisión.
+      - Realizar e interpretar análisis estadísticos sencillos, comprobando los resultados con un científico de datos con más experiencia.
+      - Seguir los procedimientos de gobernanza de la información, control de la divulgación y ética.
+      - Trabajar para obtener una cualificación de aprendizaje en ciencia de datos o equivalente.
+    qualifications:
+      - Matriculado en un programa de aprendizaje en ciencia de datos o equivalente, o trabajando para obtenerlo.
+    job_evaluation_notes: Los conocimientos se puntúan en el nivel que exige el puesto una vez que la formación está lo bastante avanzada para hacer el trabajo.
+  - title: Científico de datos asociado
+    responsibilities:
+      - Crear y probar modelos estadísticos y de aprendizaje automático básicos, como las previsiones de demanda, con orientación.
+      - Preparar y enlazar conjuntos de datos sanitarios para el modelado en entornos seguros.
+      - Medir el rendimiento de los modelos en distintos grupos de pacientes e informar de las diferencias.
+      - Presentar los resultados y su incertidumbre a los analistas y a los equipos de servicio.
+      - Documentar las fuentes de datos, los métodos y las hipótesis para que el trabajo pueda reproducirse.
+    qualifications:
+      - Un grado en una materia cuantitativa, un programa de aprendizaje en ciencia de datos o experiencia equivalente.
+  - title: Científico de datos
+    responsibilities:
+      - Desarrollar de forma independiente modelos complejos, como la estratificación del riesgo o la predicción de la duración de la estancia, eligiendo los métodos adecuados.
+      - Validar los modelos con profesionales clínicos, comprobando que son exactos, justos y útiles con los datos de los pacientes locales.
+      - Documentar el uso previsto, los datos, el rendimiento y los límites de cada modelo, y aportar evidencias a los casos de seguridad clínica.
+      - Evaluar el efecto de los cambios en los servicios con métodos estadísticos adecuados.
+      - Explicar los modelos y su incertidumbre a públicos clínicos y no técnicos.
+      - Apoyar a los científicos de datos asociados y en formación.
+    qualifications:
+      - Un grado en una materia cuantitativa, o experiencia equivalente.
+      - Experiencia en la creación y validación de modelos estadísticos o de aprendizaje automático.
+  - title: Científico de datos principal
+    responsibilities:
+      - Definir el alcance, diseñar y dirigir proyectos de ciencia de datos que apoyen la planificación de los servicios y la atención a los pacientes.
+      - Decidir qué métodos, herramientas y datos son adecuados, y cuestionar los planes que no sean viables o seguros.
+      - Planificar con los colegas de seguridad clínica y de gobernanza de la información la validación, la evaluación de sesgos y la vigilancia de los modelos.
+      - Acordar con los equipos de producto cómo se desplegarán y mantendrán los modelos a escala.
+      - Gestionar y desarrollar un equipo pequeño de científicos de datos.
+    qualifications:
+      - Experiencia sustancial en la entrega de ciencia de datos, a un nivel equivalente a un máster o a un doctorado en una materia cuantitativa.
+  - title: Científico de datos líder
+    responsibilities:
+      - Dirigir los equipos de ciencia de datos y fijar su dirección, sus prioridades y sus normas.
+      - Encontrar oportunidades en las que la ciencia de datos pueda mejorar la atención, y defenderlas ante los responsables clínicos y de servicio.
+      - Asegurarse de que los modelos se diseñan, validan y vigilan para que sigan siendo seguros y justos en su uso.
+      - Resolver retos éticos y de datos complejos, como el consentimiento, los sesgos y el uso de datos sensibles.
+      - Desarrollar la capacidad de ciencia de datos mediante la orientación, la selección y la formación.
+    qualifications:
+      - Amplia experiencia en la dirección de equipos de ciencia de datos.
+    job_evaluation_notes: El UK GDaD PCF propone G7 o G6 tanto para el científico de datos líder como para el responsable de ciencia de datos. Esta referencia sitúa al líder en la banda 8a y al responsable en la banda 8b, para que los dos niveles estén en bandas distintas.
+  - title: Responsable de ciencia de datos
+    responsibilities:
+      - Marcar la dirección de la ciencia de datos y la IA en toda la organización, de acuerdo con su estrategia y sus prioridades.
+      - Dirigir la ética, la seguridad y el aseguramiento de los modelos y la IA de la organización, y asesorar al consejo sobre ellos.
+      - Supervisar los recursos, el presupuesto y la calidad de los productos de ciencia de datos.
+      - Representar a la organización en ciencia de datos e IA ante socios de salud y asistencia, investigadores y reguladores.
+      - Desarrollar la capacidad y las carreras de ciencia de datos en todas las profesiones.
+    qualifications:
+      - Amplia experiencia en la dirección de la ciencia de datos en toda una organización.

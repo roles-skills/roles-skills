@@ -1,0 +1,40 @@
+summary: >
+  Los gestores de cambios y versiones se aseguran de que los cambios en los servicios de TI se evalúen, aprueben, programen y lleven a cabo con seguridad, y de que las publicaciones se planifiquen y coordinen. Dirigen el comité consultivo de cambios, son responsables de la base de datos de gestión de la configuración y coordinan las publicaciones entre equipos y proveedores. En la atención sanitaria, se aseguran de que los cambios en los sistemas clínicos se hagan en el momento oportuno y se prueben para proteger la atención a los pacientes.
+health_context:
+  - Los cambios en los sistemas clínicos pueden causar daño a los pacientes, por lo que la evaluación de los cambios incluye la revisión de seguridad clínica y las evidencias del proceso de gestión del riesgo clínico.
+  - Los servicios clínicos funcionan todos los días, por lo que las ventanas de cambio se acuerdan con ellos y evitan sus periodos de mayor actividad.
+  - Muchos cambios proceden de los proveedores de sistemas clínicos, y deben evaluarse igualmente cuando es el proveedor quien controla la publicación.
+  - Los cambios de emergencia, como los parches de seguridad urgentes, deben equilibrar el riesgo cibernético con el riesgo de interrumpir la atención.
+  - Una base de datos de gestión de la configuración exacta muestra a qué servicios clínicos podría afectar un cambio.
+levels:
+  - title: Analista de configuración
+    responsibilities:
+      - Mantener los registros de la base de datos de gestión de la configuración, incluidos los servicios clínicos que apoya cada componente.
+      - Contrastar los registros de configuración con las herramientas de descubrimiento, y corregir las carencias y los errores.
+      - Preparar los registros de cambios y los órdenes del día del comité consultivo de cambios.
+      - Responder a las consultas habituales sobre los elementos de configuración y sus relaciones.
+    qualifications:
+      - Una cualificación básica en gestión de servicios de TI, una cualificación de nivel 3 en informática o experiencia equivalente.
+    job_evaluation_notes: El UK GDaD PCF propone la banda 6 para este nivel (HEO/SEO). Esta referencia lo sitúa en la banda 4 porque este nivel presta apoyo administrativo al gestor de cambios y versiones, con habilidades mayoritariamente de nivel de conocimiento básico, y está por debajo del analista de cambios y versiones. Los recursos de información están por encima del perfil de la banda porque mantener la base de datos de gestión de la configuración es la tarea principal.
+  - title: Analista de cambios y versiones
+    responsibilities:
+      - Evaluar el riesgo y el impacto de las solicitudes de cambio, incluido su efecto en los servicios clínicos y en la seguridad de los pacientes.
+      - Planificar y programar las publicaciones, acordando las ventanas de cambio con los servicios clínicos y operativos.
+      - Comprobar que cada cambio tiene pruebas, un plan de reversión y, cuando sea necesaria, la aprobación de seguridad clínica.
+      - Coordinar las publicaciones con los equipos DevOps, los proveedores y el centro de servicio.
+      - Revisar las publicaciones a posteriori y planificar los próximos cambios.
+    qualifications:
+      - Experiencia en operaciones de TI, publicaciones o gestión de cambios.
+      - Una cualificación básica en gestión de servicios de TI, o experiencia equivalente.
+  - title: Gestor de cambios y versiones
+    responsibilities:
+      - Presidir el comité consultivo de cambios, con representantes clínicos y operativos cuando los cambios afectan a la atención a los pacientes.
+      - Decidir sobre los cambios técnicos, y autorizar los cambios de emergencia, como los parches de seguridad urgentes.
+      - Coordinar las publicaciones y sus dependencias entre los equipos propios y los proveedores.
+      - Ser responsable de los procesos de gestión de cambios, versiones y configuración y de la base de datos de gestión de la configuración.
+      - Actuar como punto de escalado de los conflictos entre cambios y de los cambios fallidos.
+      - Informar sobre el éxito de los cambios, los cambios fallidos y los incidentes causados por cambios, e impulsar mejoras.
+    qualifications:
+      - Experiencia sustancial en gestión de cambios y versiones, a un nivel equivalente a un grado.
+      - Una cualificación intermedia en gestión de servicios de TI, o experiencia equivalente.
+    job_evaluation_notes: La planificación está por encima del perfil de la banda porque el puesto programa las publicaciones y sus dependencias entre muchos equipos y proveedores.
