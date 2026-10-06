@@ -4,31 +4,31 @@
 
 | PCF family | PCF role | PCF level | Civil Service grades | Role level in this reference | Band |
 | --- | --- | --- | --- | --- | --- |
-| Architecture | Business architect | Trainee business architect | EO/HEO | [Trainee business architect](../roles/business-architect/#band-5-trainee-business-architect) | 5 |
-| Architecture | Business architect | Associate business architect | SEO | [Associate business architect](../roles/business-architect/#band-6-associate-business-architect) | 6 |
-| Architecture | Business architect | Business architect | SEO/G7 | [Business architect](../roles/business-architect/#band-7-business-architect) | 7 |
+| Architecture | Business architect | Trainee business architect | EO/HEO | [Trainee business architect](../roles/business-architect/#band-6-trainee-business-architect) | 6 |
+| Architecture | Business architect | Associate business architect | SEO | [Associate business architect](../roles/business-architect/#band-7-associate-business-architect) | 7 |
+| Architecture | Business architect | Business architect | SEO/G7 | [Business architect](../roles/business-architect/#band-8a-business-architect) | 8a |
 | Architecture | Business architect | Lead business architect | G7/G6 | [Lead business architect](../roles/business-architect/#band-8b-lead-business-architect) | 8b |
-| Architecture | Data architect | Data architect | SEO/G7 | [Data architect](../roles/data-architect/#band-7-data-architect) | 7 |
+| Architecture | Data architect | Data architect | SEO/G7 | [Data architect](../roles/data-architect/#band-8a-data-architect) | 8a |
 | Architecture | Data architect | Senior data architect | G7/G6 | [Senior data architect](../roles/data-architect/#band-8b-senior-data-architect) | 8b |
 | Architecture | Data architect | Chief data architect | G6 | [Chief data architect](../roles/data-architect/#band-8c-chief-data-architect) | 8c |
-| Architecture | Enterprise architect | Enterprise architect | HEO/SEO | [Enterprise architect](../roles/enterprise-architect/#band-6-enterprise-architect) | 6 |
-| Architecture | Enterprise architect | Senior enterprise architect | SEO/G7 | [Senior enterprise architect](../roles/enterprise-architect/#band-7-senior-enterprise-architect) | 7 |
-| Architecture | Enterprise architect | Lead enterprise architect | G7/G6 | [Lead enterprise architect](../roles/enterprise-architect/#band-8b-lead-enterprise-architect) | 8b |
-| Architecture | Enterprise architect | Principal enterprise architect | G6 | [Principal enterprise architect](../roles/enterprise-architect/#band-8c-principal-enterprise-architect) | 8c |
-| Architecture | Network architect | Associate network architect | EO/HEO | [Associate network architect](../roles/network-architect/#band-5-associate-network-architect) | 5 |
-| Architecture | Network architect | Network architect | HEO/SEO | [Network architect](../roles/network-architect/#band-6-network-architect) | 6 |
-| Architecture | Network architect | Lead network architect | SEO/G7 | [Lead network architect](../roles/network-architect/#band-7-lead-network-architect) | 7 |
-| Architecture | Security architect | Security architect | HEO/SEO/G7 | [Security architect](../roles/security-architect/#band-7-security-architect) | 7 |
+| Architecture | Enterprise architect | Enterprise architect | HEO/SEO | [Enterprise architect](../roles/enterprise-architect/#band-8a-enterprise-architect) | 8a |
+| Architecture | Enterprise architect | Senior enterprise architect | SEO/G7 | [Senior enterprise architect](../roles/enterprise-architect/#band-8b-senior-enterprise-architect) | 8b |
+| Architecture | Enterprise architect | Lead enterprise architect | G7/G6 | [Lead enterprise architect](../roles/enterprise-architect/#band-8c-lead-enterprise-architect) | 8c |
+| Architecture | Enterprise architect | Principal enterprise architect | G6 | [Principal enterprise architect](../roles/enterprise-architect/#band-8d-principal-enterprise-architect) | 8d |
+| Architecture | Network architect | Associate network architect | EO/HEO | [Associate network architect](../roles/network-architect/#band-6-associate-network-architect) | 6 |
+| Architecture | Network architect | Network architect | HEO/SEO | [Network architect](../roles/network-architect/#band-7-network-architect) | 7 |
+| Architecture | Network architect | Lead network architect | SEO/G7 | [Lead network architect](../roles/network-architect/#band-8a-lead-network-architect) | 8a |
+| Architecture | Security architect | Security architect | HEO/SEO/G7 | [Security architect](../roles/security-architect/#band-8a-security-architect) | 8a |
 | Architecture | Security architect | Lead security architect | G7/G6 | [Lead security architect](../roles/security-architect/#band-8b-lead-security-architect) | 8b |
 | Architecture | Security architect | Principal security architect | G6 | [Principal security architect](../roles/security-architect/#band-8c-principal-security-architect) | 8c |
-| Architecture | Solution architect | Associate solution architect | HEO/SEO | [Associate solution architect](../roles/solution-architect/#band-6-associate-solution-architect) | 6 |
-| Architecture | Solution architect | Solution architect | SEO/G7 | [Solution architect](../roles/solution-architect/#band-7-solution-architect) | 7 |
-| Architecture | Solution architect | Senior solution architect | G7 | [Senior solution architect](../roles/solution-architect/#band-8a-senior-solution-architect) | 8a |
-| Architecture | Solution architect | Lead solution architect | G7/G6 | [Lead solution architect](../roles/solution-architect/#band-8b-lead-solution-architect) | 8b |
-| Architecture | Solution architect | Principal solution architect | G6 | [Principal solution architect](../roles/solution-architect/#band-8c-principal-solution-architect) | 8c |
-| Architecture | Technical architect | Associate technical architect | EO/HEO | [Associate technical architect](../roles/technical-architect/#band-5-associate-technical-architect) | 5 |
-| Architecture | Technical architect | Technical architect | SEO/G7 | [Technical architect](../roles/technical-architect/#band-6-technical-architect) | 6 |
-| Architecture | Technical architect | Senior technical architect | SEO/G7 | [Senior technical architect](../roles/technical-architect/#band-7-senior-technical-architect) | 7 |
+| Architecture | Solution architect | Associate solution architect | HEO/SEO | [Associate solution architect](../roles/solution-architect/#band-7-associate-solution-architect) | 7 |
+| Architecture | Solution architect | Solution architect | SEO/G7 | [Solution architect](../roles/solution-architect/#band-8a-solution-architect) | 8a |
+| Architecture | Solution architect | Senior solution architect | G7 | [Senior solution architect](../roles/solution-architect/#band-8b-senior-solution-architect) | 8b |
+| Architecture | Solution architect | Lead solution architect | G7/G6 | [Lead solution architect](../roles/solution-architect/#band-8c-lead-solution-architect) | 8c |
+| Architecture | Solution architect | Principal solution architect | G6 | [Principal solution architect](../roles/solution-architect/#band-8d-principal-solution-architect) | 8d |
+| Architecture | Technical architect | Associate technical architect | EO/HEO | [Associate technical architect](../roles/technical-architect/#band-6-associate-technical-architect) | 6 |
+| Architecture | Technical architect | Technical architect | SEO/G7 | [Technical architect](../roles/technical-architect/#band-7-technical-architect) | 7 |
+| Architecture | Technical architect | Senior technical architect | SEO/G7 | [Senior technical architect](../roles/technical-architect/#band-8a-senior-technical-architect) | 8a |
 | Architecture | Technical architect | Lead technical architect | G7/G6 | [Lead technical architect](../roles/technical-architect/#band-8b-lead-technical-architect) | 8b |
 | Architecture | Technical architect | Principal technical architect | G6 | [Principal technical architect](../roles/technical-architect/#band-8c-principal-technical-architect) | 8c |
 | Data | Analytics engineer | Trainee analytics engineer | AO/EO | [Trainee analytics engineer](../roles/analytics-engineer/#band-4-trainee-analytics-engineer) | 4 |

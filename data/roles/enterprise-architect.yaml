@@ -15,32 +15,14 @@ health_context:
 levels:
   - pcf_level: Enterprise architect
     title: Enterprise architect
-    band: "6"
+    band: 8a
     responsibilities:
-      - Model the organisation's current services, information, applications, and technology for a domain, such as diagnostics or community care.
+      - Model the organisation's current and target services, information, applications, and technology for a domain, such as diagnostics or community care.
       - Keep the architecture repository up to date, including application and data flow catalogues.
-      - Review proposals against architecture principles and standards, and record the findings for design authorities.
+      - Review proposals against architecture principles and standards, and make recommendations to design authorities.
       - Identify where systems duplicate capability or depend on unsupported technology, and raise the risks.
       - Work with solution architects and clinical leads to understand how care pathways use systems.
-    skills:
-      - {skill: health-care-context, level: working}
-      - {skill: health-data-interoperability, level: working}
-      - {skill: information-governance, level: working}
-      - {skill: clinical-safety, level: awareness}
-    qualifications:
-      - A degree in computing, business, or a related subject, or equivalent experience.
-      - Experience of architecture, analysis, or technical design in a complex organisation.
-    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
-
-  - pcf_level: Senior enterprise architect
-    title: Senior enterprise architect
-    band: "7"
-    responsibilities:
-      - Develop target architectures and transition roadmaps for one or more domains of the organisation.
-      - Shape business cases so that investments fit the target architecture and reuse shared platforms.
-      - Lead architecture reviews at design authorities and make recommendations on significant proposals.
-      - Plan the replacement or retirement of legacy clinical and corporate systems, including data migration and safety risks.
-      - Make sure interoperability, security, and information governance needs are built into roadmaps.
+      - Guide solution architects on how designs fit the domain architecture.
     skills:
       - {skill: health-care-context, level: practitioner}
       - {skill: health-data-interoperability, level: practitioner}
@@ -48,13 +30,36 @@ levels:
       - {skill: clinical-safety, level: working}
       - {skill: risk-management, level: working}
     qualifications:
-      - Substantial experience of enterprise or solution architecture, at a level equivalent to a master's degree.
+      - Substantial experience of architecture, analysis, or technical design in a complex organisation, at a level equivalent to a master's degree.
       - Knowledge of an enterprise architecture framework, such as TOGAF, or equivalent experience.
-    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts place this role at Band 8a. Knowledge, analysis, planning, policy, and freedom to act are scored at the Band 8a profile because the job shapes target architectures and advises design authorities for a whole domain."
+
+  - pcf_level: Senior enterprise architect
+    title: Senior enterprise architect
+    band: 8b
+    responsibilities:
+      - Develop target architectures and transition roadmaps for one or more domains of the organisation.
+      - Shape business cases so that investments fit the target architecture and reuse shared platforms.
+      - Lead architecture reviews at design authorities and make recommendations on significant proposals.
+      - Plan the replacement or retirement of legacy clinical and corporate systems, including data migration and safety risks.
+      - Make sure interoperability, security, and information governance needs are built into roadmaps.
+      - Coach and guide enterprise and solution architects.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: risk-management, level: working}
+    qualifications:
+      - Extensive experience of enterprise or solution architecture across several domains.
+      - Knowledge of an enterprise architecture framework, such as TOGAF, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts place this role at Band 8b. Planning is level 5 for long-term roadmaps with effects across the organisation; knowledge is level 8 for knowledge across business, information, application, and technology architecture."
 
   - pcf_level: Lead enterprise architect
     title: Lead enterprise architect
-    band: 8b
+    band: 8c
     responsibilities:
       - Own the enterprise architecture for a major part of the organisation, such as clinical systems or shared infrastructure.
       - Chair or lead the architecture design authority and set the standards that projects must meet.
@@ -65,16 +70,18 @@ levels:
       - {skill: health-care-context, level: practitioner}
       - {skill: health-data-interoperability, level: practitioner}
       - {skill: information-governance, level: practitioner}
-      - {skill: clinical-safety, level: working}
+      - {skill: clinical-safety, level: practitioner}
       - {skill: risk-management, level: practitioner}
       - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
     qualifications:
       - Extensive experience of enterprise architecture in a complex organisation.
-    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 4, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 8b): health-sector adverts place this role at Band 8c. Information resources is level 6 because the job manages the architecture of information systems across a major part of the organisation; policy and people are above the Band 8b profile because it sets standards for all projects and leads enterprise architects."
 
   - pcf_level: Principal enterprise architect
     title: Principal enterprise architect
-    band: 8c
+    band: 8d
     responsibilities:
       - Set the organisation's enterprise architecture vision, principles, and strategy, aligned with its health and care strategy.
       - Advise the executive team and board on the architecture, risks, and value of major digital investments.
@@ -84,11 +91,12 @@ levels:
     skills:
       - {skill: health-care-context, level: expert}
       - {skill: health-data-interoperability, level: expert}
-      - {skill: information-governance, level: practitioner}
+      - {skill: information-governance, level: expert}
       - {skill: clinical-safety, level: practitioner}
       - {skill: risk-management, level: practitioner}
-      - {skill: people-management, level: practitioner}
-      - {skill: budget-management, level: working}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: practitioner}
     qualifications:
       - Extensive experience of leading enterprise architecture across organisations.
-    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 3, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 6, financial-resources: 3, people: 4, information-resources: 6, research: 2, freedom-to-act: 6, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 8c): health-sector adverts place this role at Band 8d. Policy and freedom to act are level 6 because the job holds corporate responsibility for the organisation's architecture vision, principles, and strategy."

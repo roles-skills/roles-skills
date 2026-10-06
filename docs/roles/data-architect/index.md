@@ -3,7 +3,7 @@
 > This is an illustrative reference profile for a generic digital health care organisation. It is not an official job description for any employer, and its job evaluation scores are not a formal evaluation.
 
 **Family:** [Architecture](../../#architecture)  
-**Bands:** 7, 8b, 8c  
+**Bands:** 8a, 8b, 8c  
 **UK GDaD PCF role:** [Data architect](https://understand-digital-data-roles-skills.service.gov.uk/role/data-architect/)  
 **ESCO occupations:** [database designer](http://data.europa.eu/esco/occupation/8d9ec84d-cf2d-4179-87bc-335cda54a427) (ISCO-08 2521); [data warehouse designer](http://data.europa.eu/esco/occupation/1562c7a3-c7d9-419d-b9b6-db26610bcf84) (ISCO-08 2521)
 
@@ -29,11 +29,11 @@ Data architects design how the organisation structures, stores, moves, and gover
 
 | Band | Title | UK GDaD PCF level | Civil Service grades (PCF) | Job evaluation points |
 | --- | --- | --- | --- | --- |
-| 7 | [Data architect](#band-7-data-architect) | Data architect | SEO/G7 | 496 |
+| 8a | [Data architect](#band-8a-data-architect) | Data architect | SEO/G7 | 560 |
 | 8b | [Senior data architect](#band-8b-senior-data-architect) | Senior data architect | G7/G6 | 613 |
 | 8c | [Chief data architect](#band-8c-chief-data-architect) | Chief data architect | G6 | 662 |
 
-## Band 7: Data architect
+## Band 8a: Data architect
 
 **UK GDaD PCF level: Data architect**
 
@@ -51,6 +51,7 @@ Data architects design how the organisation structures, stores, moves, and gover
 - Define metadata, data dictionary entries, and lineage for the datasets in your area.
 - Design de-identification and access controls so that data is used only for its lawful purpose.
 - Work with data quality and clinical coding colleagues to fix structural causes of poor data.
+- Guide data engineers and analysts on data models and standards.
 
 ### Skills
 
@@ -69,7 +70,7 @@ Data architects design how the organisation structures, stores, moves, and gover
 | [Turning business problems into data design](../../skills/#pcf-turning-business-problems-into-data-design) | UK GDaD PCF | Working | You can:<br>• design data architecture by dealing with specific business problems and aligning it to enterprise-wide standards and principles<br>• work within the context of well understood architecture, and identify appropriate patterns |
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognise when a change could affect patient care and raise it |
 | [Clinical terminology and classification](../../skills/#clinical-terminology) | This reference | Working | You can:<br>• find and use the right codes for a data item or form<br>• use terminology browsers and reference sets |
-| [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Working | You can:<br>• read and use FHIR resources, profiles, and APIs<br>• build or test simple integrations under guidance<br>• check messages against a specification |
+| [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Practitioner | You can:<br>• design and build integrations using FHIR, HL7 version 2, and messaging patterns<br>• write and profile FHIR resources and implementation guides<br>• resolve complex mapping and data quality issues between systems |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
 | [Data quality management](../../skills/#data-quality) | This reference | Working | You can:<br>• run data quality checks and correct errors<br>• explain data quality reports to colleagues |
 
@@ -79,11 +80,11 @@ Data architects design how the organisation structures, stores, moves, and gover
 
 ### Band outline
 
-- **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
-- **Scope:** Several products or services, or a specialist function.
-- **Leadership:** Leads a team or a professional practice area.
-- **Accountability:** Delivery of a service or specialist function, and its budget if held.
+- **Knowledge:** Expert knowledge of a discipline and its management.
+- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Scope:** A service area or a discipline across the organisation.
+- **Leadership:** Manages a team, or leads a discipline without line management.
+- **Accountability:** A service area, its staff, and its budget.
 
 ### Job evaluation (illustrative)
 
@@ -92,20 +93,22 @@ Data architects design how the organisation structures, stores, moves, and gover
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
 | 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 4 | Planning and organisational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 3 | 21 |
-| 8 | Responsibility for financial and physical resources | 1 | 5 |
-| 9 | Responsibility for people | 2 | 12 |
+| 7 | Responsibility for policy and service development | 4 | 32 |
+| 8 | Responsibility for financial and physical resources | 2 | 12 |
+| 9 | Responsibility for people | 3 | 21 |
 | 10 | Responsibility for information resources | 5 | 34 |
-| 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 4 | 32 |
+| 11 | Responsibility for research and development | 3 | 21 |
+| 12 | Freedom to act | 5 | 45 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **496** (Band 7: 466–539) |
+| | **Total** | | **560** (Band 8a: 540–584) |
+
+Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts place this role at Band 8a. Planning, policy, and freedom to act are scored above the Band 7 profile because the job designs data platforms and controls used across many services.
 
 ## Band 8b: Senior data architect
 

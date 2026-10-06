@@ -14,7 +14,7 @@ health_context:
   - Supplier releases can change how a clinical system behaves, so contract managers make sure suppliers meet clinical safety obligations.
 levels:
   - title: Contract manager
-    band: "6"
+    band: "7"
     summary: >
       Manages a portfolio of contracts, including technology and clinical
       system contracts, from mobilisation to renewal, working within the
@@ -23,13 +23,13 @@ levels:
       - Manage a portfolio of contracts, keeping the contract register, documents, and key dates current.
       - Run regular performance reviews with suppliers, using service levels and key performance indicators.
       - Check invoices against contract terms and resolve billing disputes.
-      - Process contract changes and variations within the procurement rules.
-      - Track licence use, renewals, and notice periods, and start renewal planning early.
+      - Negotiate and process contract changes and variations within the procurement rules.
+      - Track licence use, renewals, and notice periods, and plan renewals and re-procurements across the portfolio.
       - Keep exit plans and data registers up to date for each contract.
       - Work with information governance and security colleagues on supplier data protection and security checks.
     skills:
       - {skill: proc-contract-management, level: practitioner}
-      - {skill: proc-supplier-relationship-management, level: working}
+      - {skill: proc-supplier-relationship-management, level: practitioner}
       - {skill: proc-exit-planning, level: working}
       - {skill: proc-technology-procurement, level: working}
       - {skill: proc-procurement-law-and-policy, level: working}
@@ -39,12 +39,13 @@ levels:
       - {skill: information-governance, level: working}
       - {skill: risk-management, level: working}
     qualifications:
-      - A recognised procurement or contract management qualification, or equivalent experience.
+      - A recognised procurement or contract management qualification at advanced level, or equivalent experience.
       - Experience of managing service contracts, ideally for technology.
-    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 2, information-resources: 3, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 5, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 4, people: 2, information-resources: 3, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Health-sector adverts place this role at Band 7. Analysis is level 5 for judgements on complex contract terms and disputes, planning is level 4 for renewals across the portfolio, and financial resources is level 4 because the job manages the spend of a portfolio of service contracts.
 
   - title: Senior contract manager
-    band: "7"
+    band: 8a
     summary: >
       Manages the organisation's strategic and high-risk contracts, such as
       the electronic patient record and cloud hosting, and leads relationships
@@ -58,7 +59,7 @@ levels:
       - Assess supplier risks, such as financial health, cyber security, and supply chain, and plan for supplier failure.
       - Coach and supervise contract managers.
     skills:
-      - {skill: proc-contract-management, level: practitioner}
+      - {skill: proc-contract-management, level: expert}
       - {skill: proc-supplier-relationship-management, level: practitioner}
       - {skill: proc-exit-planning, level: practitioner}
       - {skill: proc-negotiation, level: practitioner}
@@ -69,13 +70,13 @@ levels:
       - {skill: risk-management, level: practitioner}
       - {skill: health-care-context, level: working}
     qualifications:
-      - A recognised procurement or contract management qualification at advanced level, or equivalent experience.
+      - A recognised procurement or contract management qualification at advanced level, or a master's degree in a related subject, or equivalent experience.
       - Substantial experience of managing strategic technology or outsourced service contracts.
-    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 3, information-resources: 3, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
-    job_evaluation_notes: Financial resources is level 4 because the job manages the spend and assets of high-value service contracts.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 3, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Health-sector adverts place this role at Band 8a. Knowledge, analysis, and freedom to act are scored at the Band 8a profile because the job manages the organisation's strategic contracts with little supervision. Financial resources is level 4 because the job manages the spend and assets of high-value service contracts.
 
   - title: Lead contract manager
-    band: 8a
+    band: 8b
     summary: >
       Leads contract and supplier management across the organisation, setting
       the contract management framework and managing the contract team.
@@ -90,14 +91,15 @@ levels:
       - {skill: proc-contract-management, level: expert}
       - {skill: proc-supplier-relationship-management, level: expert}
       - {skill: proc-exit-planning, level: expert}
-      - {skill: proc-negotiation, level: practitioner}
+      - {skill: proc-negotiation, level: expert}
       - {skill: proc-procurement-law-and-policy, level: practitioner}
-      - {skill: pcf:commercial-management, level: practitioner}
+      - {skill: pcf:commercial-management, level: expert}
       - {skill: pcf:creating-value-for-money, level: practitioner}
       - {skill: people-management, level: practitioner}
       - {skill: risk-management, level: practitioner}
       - {skill: health-care-context, level: working}
     qualifications:
-      - A recognised procurement or contract management qualification at advanced level, or equivalent experience.
+      - A recognised procurement or contract management qualification at advanced level, or a master's degree in a related subject, or equivalent experience.
       - Extensive experience of leading contract management for complex services.
-    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 3, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 5, people: 4, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Health-sector adverts place this role at Band 8b. Planning is level 5 for the organisation-wide contract management framework, financial resources is level 5 because the job oversees contracts across many services, and people is level 4 because it line manages the contract team.

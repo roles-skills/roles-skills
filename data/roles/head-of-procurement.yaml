@@ -14,7 +14,7 @@ health_context:
   - Commercial leaders often work with other health and care organisations on collaborative buying and shared contracts.
 levels:
   - title: Head of procurement
-    band: 8b
+    band: 8c
     summary: >
       Leads the procurement function, setting procurement procedures and
       standards and managing the procurement and purchasing teams.
@@ -31,19 +31,19 @@ levels:
       - {skill: proc-tender-evaluation, level: expert}
       - {skill: proc-category-management, level: practitioner}
       - {skill: proc-social-value, level: practitioner}
-      - {skill: pcf:commercial-management, level: practitioner}
+      - {skill: pcf:commercial-management, level: expert}
       - {skill: pcf:creating-value-for-money, level: expert}
-      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: expert}
       - {skill: people-management, level: practitioner}
       - {skill: budget-management, level: practitioner}
     qualifications:
-      - A recognised procurement professional qualification at the highest level, or equivalent experience.
+      - A recognised procurement professional qualification at the highest level, or a master's degree in a related subject, or equivalent experience.
       - Extensive experience of leading procurement under public procurement rules.
-    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 4, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
-    job_evaluation_notes: Policy is level 5 because the job sets procurement procedures for the whole organisation; financial resources is level 5 because it controls how spending is bought across many services.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 4, information-resources: 4, research: 2, freedom-to-act: 6, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Health-sector adverts place this role at Band 8c. Policy is level 5 because the job sets procurement procedures for the whole organisation, and freedom to act is level 6 because it interprets procurement rules and strategy to set the organisation's standards. Financial resources is level 5 because it controls how spending is bought across many services; communication is level 6 for contentious award decisions and challenges.
 
   - title: Head of commercial
-    band: 8c
+    band: 8d
     summary: >
       Leads procurement, category management, and contract management
       together as one commercial function, and sets the commercial strategy.
@@ -64,15 +64,15 @@ levels:
       - {skill: proc-negotiation, level: expert}
       - {skill: pcf:leadership-and-guidance, level: expert}
       - {skill: people-management, level: expert}
-      - {skill: risk-management, level: practitioner}
+      - {skill: risk-management, level: expert}
     qualifications:
       - A recognised procurement professional qualification at the highest level, or a master's degree in a related subject, or equivalent experience.
       - Extensive experience of leading commercial functions.
-    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 5, information-resources: 4, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
-    job_evaluation_notes: Communication is level 6 for negotiating highly contentious commercial matters with strategic suppliers.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 5, information-resources: 4, research: 2, freedom-to-act: 6, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Health-sector adverts place this role at Band 8d. Knowledge is level 8 for knowledge across procurement, category management, contract management, and commercial law, and freedom to act is level 6 because the job sets the commercial strategy. Communication is level 6 for negotiating highly contentious commercial matters with strategic suppliers.
 
   - title: Director of procurement and commercial
-    band: 8d
+    band: "9"
     summary: >
       Is the organisation's senior commercial leader, accountable for
       procurement and commercial policy, and advises the board on commercial
@@ -84,6 +84,7 @@ levels:
       - Lead executive relationships with strategic suppliers and public sector buying organisations.
       - Set social value and sustainable procurement goals and report outcomes to the board.
       - Lead and develop the commercial leadership team and the organisation's commercial skills.
+      - Be accountable for the organisation's commercial commitments and contract portfolio across all services.
     skills:
       - {skill: pcf:commercial-management, level: expert}
       - {skill: pcf:creating-value-for-money, level: expert}
@@ -91,12 +92,12 @@ levels:
       - {skill: proc-supplier-relationship-management, level: expert}
       - {skill: proc-social-value, level: expert}
       - {skill: pcf:leadership-and-guidance, level: expert}
-      - {skill: pcf:financial-management, level: practitioner}
+      - {skill: pcf:financial-management, level: expert}
       - {skill: people-management, level: expert}
-      - {skill: governance-and-compliance, level: practitioner}
+      - {skill: governance-and-compliance, level: expert}
       - {skill: risk-management, level: expert}
     qualifications:
       - A recognised procurement professional qualification at the highest level, or a master's degree in a related subject, or equivalent experience.
       - Extensive experience of leading commercial functions at executive level.
-    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 6, financial-resources: 5, people: 5, information-resources: 4, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
-    job_evaluation_notes: Policy is level 6 for corporate responsibility for procurement and commercial policy; emotional effort is level 2 for occasional exposure to stressful disputes, supplier failures, and challenges.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 6, financial-resources: 6, people: 5, information-resources: 4, research: 2, freedom-to-act: 6, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Health-sector adverts place this role at Band 9. Policy is level 6 for corporate responsibility for procurement and commercial policy, financial resources is level 6 for corporate responsibility for the organisation's commercial commitments, and freedom to act is level 6 because the job sets commercial goals and standards. Emotional effort is level 2 for occasional exposure to stressful disputes, supplier failures, and challenges.

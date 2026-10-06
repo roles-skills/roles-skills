@@ -14,23 +14,25 @@ health_context:
 levels:
   - pcf_level: Associate network architect
     title: Associate network architect
-    band: "5"
+    band: "6"
     responsibilities:
       - Draft network designs, diagrams, and specifications with guidance from network architects.
       - Survey sites and gather requirements for clinical areas, including wireless coverage and device connections.
       - Keep records of network topology, addressing, and connected devices up to date.
       - Check that designs meet service levels and security standards before review.
     skills:
-      - {skill: health-care-context, level: awareness}
+      - {skill: health-care-context, level: working}
       - {skill: information-governance, level: awareness}
       - {skill: clinical-safety, level: awareness}
     qualifications:
       - A degree in computing or networking, a recognised networking qualification, or equivalent experience.
-    job_evaluation: {communication: 4, knowledge: 5, analytical: 4, planning: 2, physical-skills: 2, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+      - Specialist knowledge of network design, at postgraduate diploma level or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 1, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts place this role at Band 6. Knowledge is scored at postgraduate diploma level, and information resources at level 5 because the job designs parts of the network that major information systems depend on."
 
   - pcf_level: Network architect
     title: Network architect
-    band: "6"
+    band: "7"
     responsibilities:
       - Design local, wide area, wireless, and cloud network solutions for sites and services.
       - Design network segmentation for medical devices, clinical systems, and guest access.
@@ -42,15 +44,16 @@ levels:
       - {skill: information-governance, level: working}
       - {skill: clinical-safety, level: working}
       - {skill: identity-and-access-management, level: working}
-      - {skill: vulnerability-management, level: awareness}
+      - {skill: vulnerability-management, level: working}
     qualifications:
-      - A degree in computing or networking, or equivalent experience.
+      - Specialist knowledge of network architecture, at master's level or equivalent experience.
       - Experience of designing and supporting enterprise networks.
-    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts place this role at Band 7. Knowledge is scored at master's level or equivalent for specialist knowledge across local, wide area, wireless, and cloud networks."
 
   - pcf_level: Lead network architect
     title: Lead network architect
-    band: "7"
+    band: 8a
     responsibilities:
       - Own the network architecture for the organisation, including its sites, data centres, and cloud connections.
       - Set network design standards and assure designs at the design authority.
@@ -58,12 +61,14 @@ levels:
       - Advise on network investment, supplier contracts, and the network risks of new services.
       - Act as the expert point of escalation and guide other network architects and engineers.
     skills:
-      - {skill: health-care-context, level: working}
+      - {skill: health-care-context, level: practitioner}
       - {skill: information-governance, level: working}
       - {skill: clinical-safety, level: working}
       - {skill: identity-and-access-management, level: working}
-      - {skill: vulnerability-management, level: working}
+      - {skill: vulnerability-management, level: practitioner}
       - {skill: medical-device-regulation, level: awareness}
+      - {skill: risk-management, level: working}
     qualifications:
       - Substantial experience of network architecture for complex organisations, at a level equivalent to a master's degree.
-    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 6, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts place this role at Band 8a. Information resources is level 6 because the job owns the network architecture that all of the organisation's information systems depend on."

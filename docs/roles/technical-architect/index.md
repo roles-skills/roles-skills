@@ -3,7 +3,7 @@
 > This is an illustrative reference profile for a generic digital health care organisation. It is not an official job description for any employer, and its job evaluation scores are not a formal evaluation.
 
 **Family:** [Architecture](../../#architecture)  
-**Bands:** 5, 6, 7, 8b, 8c  
+**Bands:** 6, 7, 8a, 8b, 8c  
 **UK GDaD PCF role:** [Technical architect](https://understand-digital-data-roles-skills.service.gov.uk/role/technical-architect/)  
 **ESCO occupations:** [software architect](http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e) (ISCO-08 2512); [cloud architect](http://data.europa.eu/esco/occupation/2fb96c6c-8d0b-4ef0-b1ee-3e493305e4eb) (ISCO-08 2512)
 
@@ -29,13 +29,13 @@ Technical architects design the technical structure of the organisation's digita
 
 | Band | Title | UK GDaD PCF level | Civil Service grades (PCF) | Job evaluation points |
 | --- | --- | --- | --- | --- |
-| 5 | [Associate technical architect](#band-5-associate-technical-architect) | Associate technical architect | EO/HEO | 334 |
-| 6 | [Technical architect](#band-6-technical-architect) | Technical architect | SEO/G7 | 419 |
-| 7 | [Senior technical architect](#band-7-senior-technical-architect) | Senior technical architect | SEO/G7 | 496 |
+| 6 | [Associate technical architect](#band-6-associate-technical-architect) | Associate technical architect | EO/HEO | 412 |
+| 7 | [Technical architect](#band-7-technical-architect) | Technical architect | SEO/G7 | 496 |
+| 8a | [Senior technical architect](#band-8a-senior-technical-architect) | Senior technical architect | SEO/G7 | 560 |
 | 8b | [Lead technical architect](#band-8b-lead-technical-architect) | Lead technical architect | G7/G6 | 613 |
 | 8c | [Principal technical architect](#band-8c-principal-technical-architect) | Principal technical architect | G6 | 662 |
 
-## Band 5: Associate technical architect
+## Band 6: Associate technical architect
 
 **UK GDaD PCF level: Associate technical architect**
 
@@ -63,45 +63,48 @@ Technical architects design the technical structure of the organisation's digita
 | [Strategy design](../../skills/#pcf-strategy-design) | UK GDaD PCF | Awareness | You can:<br>• explain how organisational objectives link to designing strategy<br>• describe the purpose and application of strategy, standards, patterns, policies, roadmaps, vision, and mission statements |
 | [Technical design throughout the life cycle](../../skills/#pcf-technical-design-throughout-the-life-cycle) | UK GDaD PCF | Working | You can:<br>• create technical designs characterised by managed levels of risk, impact, and complexity<br>• provide guidance and support to teams using technical designs throughout the life cycle<br>• adapt a technical design if needed during delivery<br>• work with well-understood technology and identify appropriate patterns |
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Awareness | You can:<br>• describe the main parts of the health and care system and the services the organisation supports<br>• explain why patient safety and confidentiality matter in your work |
-| [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Awareness | You can:<br>• explain why interoperability matters for joined-up care<br>• name the main health data exchange standards, such as HL7 FHIR |
+| [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Working | You can:<br>• read and use FHIR resources, profiles, and APIs<br>• build or test simple integrations under guidance<br>• check messages against a specification |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Awareness | You can:<br>• follow the organisation's rules for handling personal and health information<br>• recognise and report a data breach or near miss |
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Awareness | You can:<br>• explain how health IT systems can harm patients, for example through wrong, missing, or delayed information<br>• report a possible clinical safety issue through the right route |
 
 ### Typical qualifications and experience
 
 - A degree in computing or a related subject, or equivalent experience in software or infrastructure engineering.
+- Specialist knowledge of technical design, at postgraduate diploma level or equivalent experience.
 
 ### Band outline
 
-- **Knowledge:** Professional or technical knowledge, typically from a degree or equivalent experience.
-- **Autonomy:** Works to broad objectives within professional standards; plans own work.
-- **Scope:** Own professional work within a team or product.
-- **Leadership:** May guide and check the work of support staff and apprentices.
-- **Accountability:** Quality of own professional work.
+- **Knowledge:** Specialist knowledge across a range of procedures, built through further training or experience.
+- **Autonomy:** Works independently; interprets policy for own area; seeks advice on complex issues.
+- **Scope:** A product, service, or workstream.
+- **Leadership:** May lead a small team or mentor colleagues.
+- **Accountability:** Outcomes of own workstream and quality of advice given.
 
 ### Job evaluation (illustrative)
 
 | # | Factor | Level | Points |
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
-| 2 | Knowledge, training, and experience | 5 | 120 |
+| 2 | Knowledge, training, and experience | 6 | 156 |
 | 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 4 | Planning and organisational skills | 3 | 27 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 2 | 12 |
+| 7 | Responsibility for policy and service development | 3 | 21 |
 | 8 | Responsibility for financial and physical resources | 1 | 5 |
 | 9 | Responsibility for people | 1 | 5 |
-| 10 | Responsibility for information resources | 4 | 24 |
+| 10 | Responsibility for information resources | 5 | 34 |
 | 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 3 | 21 |
+| 12 | Freedom to act | 4 | 32 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 3 | 12 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **334** (Band 5: 326–395) |
+| | **Total** | | **412** (Band 6: 396–465) |
 
-## Band 6: Technical architect
+Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts place this role at Band 6. Knowledge is scored at postgraduate diploma level, and information resources at level 5 because the job designs parts of major information systems.
+
+## Band 7: Technical architect
 
 **UK GDaD PCF level: Technical architect**
 
@@ -132,88 +135,15 @@ Technical architects design the technical structure of the organisation's digita
 | [Strategy design](../../skills/#pcf-strategy-design) | UK GDaD PCF | Working | You can:<br>• support the development of a strategy or vision that aligns with organisational objectives<br>• challenge requirements and assumptions, and identify opportunities to develop strategy<br>• support the implementation of a strategy or vision, for example, by using a roadmap or plan<br>• use architectural principles, patterns, and constraints when appropriate |
 | [Technical design throughout the life cycle](../../skills/#pcf-technical-design-throughout-the-life-cycle) | UK GDaD PCF | Working | You can:<br>• create technical designs characterised by managed levels of risk, impact, and complexity<br>• provide guidance and support to teams using technical designs throughout the life cycle<br>• adapt a technical design if needed during delivery<br>• work with well-understood technology and identify appropriate patterns |
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognise when a change could affect patient care and raise it |
-| [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Working | You can:<br>• read and use FHIR resources, profiles, and APIs<br>• build or test simple integrations under guidance<br>• check messages against a specification |
+| [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Practitioner | You can:<br>• design and build integrations using FHIR, HL7 version 2, and messaging patterns<br>• write and profile FHIR resources and implementation guides<br>• resolve complex mapping and data quality issues between systems |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Awareness | You can:<br>• follow access rules and protect your credentials |
 
 ### Typical qualifications and experience
 
-- A degree in computing or a related subject, or equivalent experience.
+- Specialist knowledge of technical architecture, at master's level or equivalent experience.
 - Experience of designing or building production software or infrastructure.
-
-### Band outline
-
-- **Knowledge:** Specialist knowledge across a range of procedures, built through further training or experience.
-- **Autonomy:** Works independently; interprets policy for own area; seeks advice on complex issues.
-- **Scope:** A product, service, or workstream.
-- **Leadership:** May lead a small team or mentor colleagues.
-- **Accountability:** Outcomes of own workstream and quality of advice given.
-
-### Job evaluation (illustrative)
-
-| # | Factor | Level | Points |
-| --- | --- | --- | --- |
-| 1 | Communication and relationship skills | 4 | 32 |
-| 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
-| 5 | Physical skills | 2 | 15 |
-| 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 3 | 21 |
-| 8 | Responsibility for financial and physical resources | 1 | 5 |
-| 9 | Responsibility for people | 2 | 12 |
-| 10 | Responsibility for information resources | 5 | 34 |
-| 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 4 | 32 |
-| 13 | Physical effort | 1 | 3 |
-| 14 | Mental effort | 3 | 12 |
-| 15 | Emotional effort | 1 | 5 |
-| 16 | Working conditions | 2 | 7 |
-| | **Total** | | **419** (Band 6: 396–465) |
-
-The UK GDaD PCF suggests Band 7 for both technical architect and senior technical architect; this reference places the technical architect level at Band 6, at the lower end of its grade range, to avoid two levels in one band.
-
-## Band 7: Senior technical architect
-
-**UK GDaD PCF level: Senior technical architect**
-
-> A senior technical architect works on large or multiple pieces of work that are complex or risky.
-> 
-> At this role level, you will:
-> - define strategy and be central to assuring services
-> - regularly collaborate and find agreement with senior stakeholders, providing direction and challenge
-> - be proactive in identifying problems and translating these into non-technical descriptions that can be widely understood
-> - mentor and coach junior colleagues
-
-### Responsibilities
-
-- Lead the technical design of large, complex, or high-risk services, such as clinical systems and shared integration platforms.
-- Set technical direction for one or more delivery teams and challenge designs that add risk.
-- Design for resilience, disaster recovery, and secure running, and check that teams test it.
-- Explain technical risks and trade-offs to service owners, clinical leads, and senior stakeholders in plain language.
-- Mentor and coach technical architects and senior developers.
-
-### Skills
-
-| Skill | Source | Expected level | What this level means |
-| --- | --- | --- | --- |
-| [Architect for the whole context](../../skills/#pcf-architect-for-the-whole-context) | UK GDaD PCF | Working | You can:<br>• align your work with the work being done by other architects and technical professionals<br>• track emerging issues, strategies, roadmaps, patterns and technologies over time to assess opportunities and risks to your work<br>• identify how other teams contribute to delivering outcomes through change |
-| [Architecture communication](../../skills/#pcf-architecture-communication) | UK GDaD PCF | Practitioner | You can:<br>• lead the communication of complicated, complex or risky architecture topics with technical and non-technical stakeholders<br>• communicate with senior stakeholders across your organisation<br>• adapt your message and communication techniques to your audience<br>• advocate on behalf of a team to other stakeholders<br>• manage stakeholder expectations effectively |
-| [Community collaboration](../../skills/#pcf-community-collaboration) | UK GDaD PCF | Practitioner | You can:<br>• work collaboratively in a group, actively networking with others<br>• adapt feedback to ensure it’s effective and lasting<br>• use your initiative to identify problems or issues in the team dynamic and rectify them<br>• identify issues through Agile ‘health checks’ with the team, and help to stimulate the right responses |
-| [Making architectural decisions](../../skills/#pcf-making-architectural-decisions) | UK GDaD PCF | Working | You can:<br>• work with others to make architectural design decisions characterised by managed levels of risk and complexity<br>• identify and address architectural risks relevant to your team or domain, for example, business, data, or security<br>• engage with architectural governance and assurance to effectively manage decisions and risks, with support |
-| [Strategy design](../../skills/#pcf-strategy-design) | UK GDaD PCF | Working | You can:<br>• support the development of a strategy or vision that aligns with organisational objectives<br>• challenge requirements and assumptions, and identify opportunities to develop strategy<br>• support the implementation of a strategy or vision, for example, by using a roadmap or plan<br>• use architectural principles, patterns, and constraints when appropriate |
-| [Technical design throughout the life cycle](../../skills/#pcf-technical-design-throughout-the-life-cycle) | UK GDaD PCF | Practitioner | You can:<br>• create technical designs characterised by medium risk, impact, and complexity<br>• maintain appropriate quality and architectural coherence of a technical design in response to change<br>• use feedback to optimise and refine technical designs throughout the life cycle |
-| [Understanding health and care services](../../skills/#health-care-context) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognise when a change could affect patient care and raise it |
-| [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Practitioner | You can:<br>• design and build integrations using FHIR, HL7 version 2, and messaging patterns<br>• write and profile FHIR resources and implementation guides<br>• resolve complex mapping and data quality issues between systems |
-| [Information governance and data protection](../../skills/#information-governance) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
-| [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
-| [Identity and access management](../../skills/#identity-and-access-management) | This reference | Working | You can:<br>• create, change, and remove user accounts and access rights<br>• check access against role-based access rules |
-| [Medical device software regulation](../../skills/#medical-device-regulation) | This reference | Awareness | You can:<br>• explain that some health software is regulated as a medical device<br>• know who to ask when a product might be a medical device |
-
-### Typical qualifications and experience
-
-- Substantial experience of technical design for complex services, at a level equivalent to a master's degree.
 
 ### Band outline
 
@@ -244,6 +174,81 @@ The UK GDaD PCF suggests Band 7 for both technical architect and senior technica
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
 | | **Total** | | **496** (Band 7: 466–539) |
+
+Banded at the UK GDaD PCF grade suggestion of Band 7, in line with health-sector adverts for this role. Knowledge is scored at master's level or equivalent for specialist knowledge across the range of technical architecture.
+
+## Band 8a: Senior technical architect
+
+**UK GDaD PCF level: Senior technical architect**
+
+> A senior technical architect works on large or multiple pieces of work that are complex or risky.
+> 
+> At this role level, you will:
+> - define strategy and be central to assuring services
+> - regularly collaborate and find agreement with senior stakeholders, providing direction and challenge
+> - be proactive in identifying problems and translating these into non-technical descriptions that can be widely understood
+> - mentor and coach junior colleagues
+
+### Responsibilities
+
+- Lead the technical design of large, complex, or high-risk services, such as clinical systems and shared integration platforms.
+- Set technical direction for one or more delivery teams and challenge designs that add risk.
+- Design for resilience, disaster recovery, and secure running, and check that teams test it.
+- Explain technical risks and trade-offs to service owners, clinical leads, and senior stakeholders in plain language.
+- Mentor and coach technical architects and senior developers.
+
+### Skills
+
+| Skill | Source | Expected level | What this level means |
+| --- | --- | --- | --- |
+| [Architect for the whole context](../../skills/#pcf-architect-for-the-whole-context) | UK GDaD PCF | Working | You can:<br>• align your work with the work being done by other architects and technical professionals<br>• track emerging issues, strategies, roadmaps, patterns and technologies over time to assess opportunities and risks to your work<br>• identify how other teams contribute to delivering outcomes through change |
+| [Architecture communication](../../skills/#pcf-architecture-communication) | UK GDaD PCF | Practitioner | You can:<br>• lead the communication of complicated, complex or risky architecture topics with technical and non-technical stakeholders<br>• communicate with senior stakeholders across your organisation<br>• adapt your message and communication techniques to your audience<br>• advocate on behalf of a team to other stakeholders<br>• manage stakeholder expectations effectively |
+| [Community collaboration](../../skills/#pcf-community-collaboration) | UK GDaD PCF | Practitioner | You can:<br>• work collaboratively in a group, actively networking with others<br>• adapt feedback to ensure it’s effective and lasting<br>• use your initiative to identify problems or issues in the team dynamic and rectify them<br>• identify issues through Agile ‘health checks’ with the team, and help to stimulate the right responses |
+| [Making architectural decisions](../../skills/#pcf-making-architectural-decisions) | UK GDaD PCF | Working | You can:<br>• work with others to make architectural design decisions characterised by managed levels of risk and complexity<br>• identify and address architectural risks relevant to your team or domain, for example, business, data, or security<br>• engage with architectural governance and assurance to effectively manage decisions and risks, with support |
+| [Strategy design](../../skills/#pcf-strategy-design) | UK GDaD PCF | Working | You can:<br>• support the development of a strategy or vision that aligns with organisational objectives<br>• challenge requirements and assumptions, and identify opportunities to develop strategy<br>• support the implementation of a strategy or vision, for example, by using a roadmap or plan<br>• use architectural principles, patterns, and constraints when appropriate |
+| [Technical design throughout the life cycle](../../skills/#pcf-technical-design-throughout-the-life-cycle) | UK GDaD PCF | Practitioner | You can:<br>• create technical designs characterised by medium risk, impact, and complexity<br>• maintain appropriate quality and architectural coherence of a technical design in response to change<br>• use feedback to optimise and refine technical designs throughout the life cycle |
+| [Understanding health and care services](../../skills/#health-care-context) | This reference | Practitioner | You can:<br>• analyse how a service fits into care pathways across organisations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
+| [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Practitioner | You can:<br>• design and build integrations using FHIR, HL7 version 2, and messaging patterns<br>• write and profile FHIR resources and implementation guides<br>• resolve complex mapping and data quality issues between systems |
+| [Information governance and data protection](../../skills/#information-governance) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
+| [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
+| [Identity and access management](../../skills/#identity-and-access-management) | This reference | Working | You can:<br>• create, change, and remove user accounts and access rights<br>• check access against role-based access rules |
+| [Medical device software regulation](../../skills/#medical-device-regulation) | This reference | Awareness | You can:<br>• explain that some health software is regulated as a medical device<br>• know who to ask when a product might be a medical device |
+
+### Typical qualifications and experience
+
+- Substantial experience of technical design for complex services, at a level equivalent to a master's degree.
+
+### Band outline
+
+- **Knowledge:** Expert knowledge of a discipline and its management.
+- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Scope:** A service area or a discipline across the organisation.
+- **Leadership:** Manages a team, or leads a discipline without line management.
+- **Accountability:** A service area, its staff, and its budget.
+
+### Job evaluation (illustrative)
+
+| # | Factor | Level | Points |
+| --- | --- | --- | --- |
+| 1 | Communication and relationship skills | 5 | 45 |
+| 2 | Knowledge, training, and experience | 7 | 196 |
+| 3 | Analytical and judgemental skills | 5 | 60 |
+| 4 | Planning and organisational skills | 4 | 42 |
+| 5 | Physical skills | 2 | 15 |
+| 6 | Responsibility for patient and client care | 1 | 4 |
+| 7 | Responsibility for policy and service development | 4 | 32 |
+| 8 | Responsibility for financial and physical resources | 2 | 12 |
+| 9 | Responsibility for people | 3 | 21 |
+| 10 | Responsibility for information resources | 5 | 34 |
+| 11 | Responsibility for research and development | 3 | 21 |
+| 12 | Freedom to act | 5 | 45 |
+| 13 | Physical effort | 1 | 3 |
+| 14 | Mental effort | 4 | 18 |
+| 15 | Emotional effort | 1 | 5 |
+| 16 | Working conditions | 2 | 7 |
+| | **Total** | | **560** (Band 8a: 540–584) |
+
+Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts place this role at Band 8a. Planning, policy, and freedom to act are scored above the Band 7 profile because the job sets technical direction for several teams with little supervision.
 
 ## Band 8b: Lead technical architect
 

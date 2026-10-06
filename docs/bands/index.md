@@ -110,9 +110,6 @@
 
 | Role level | Family |
 | --- | --- |
-| [Associate network architect](../roles/network-architect/#band-5-associate-network-architect) | Architecture |
-| [Associate technical architect](../roles/technical-architect/#band-5-associate-technical-architect) | Architecture |
-| [Trainee business architect](../roles/business-architect/#band-5-trainee-business-architect) | Architecture |
 | [Governance officer](../roles/governance-and-risk-manager/#band-5-governance-officer) | Corporate services |
 | [PMO analyst](../roles/project-support-officer/#band-5-pmo-analyst) | Corporate services |
 | [Senior communications officer](../roles/communications-officer/#band-5-senior-communications-officer) | Corporate services |
@@ -165,11 +162,9 @@
 
 | Role level | Family |
 | --- | --- |
-| [Associate business architect](../roles/business-architect/#band-6-associate-business-architect) | Architecture |
-| [Associate solution architect](../roles/solution-architect/#band-6-associate-solution-architect) | Architecture |
-| [Enterprise architect](../roles/enterprise-architect/#band-6-enterprise-architect) | Architecture |
-| [Network architect](../roles/network-architect/#band-6-network-architect) | Architecture |
-| [Technical architect](../roles/technical-architect/#band-6-technical-architect) | Architecture |
+| [Associate network architect](../roles/network-architect/#band-6-associate-network-architect) | Architecture |
+| [Associate technical architect](../roles/technical-architect/#band-6-associate-technical-architect) | Architecture |
+| [Trainee business architect](../roles/business-architect/#band-6-trainee-business-architect) | Architecture |
 | [Clinical informatics specialist](../roles/clinical-informatician/#band-6-clinical-informatics-specialist) | Clinical informatics and clinical safety |
 | [Communications lead](../roles/communications-officer/#band-6-communications-lead) | Corporate services |
 | [Executive office manager](../roles/executive-assistant/#band-6-executive-office-manager) | Corporate services |
@@ -197,7 +192,6 @@
 | [Senior end user computing engineer](../roles/end-user-computing-engineer/#band-6-senior-end-user-computing-engineer) | IT operations |
 | [Service desk manager](../roles/service-desk-analyst/#band-6-service-desk-manager) | IT operations |
 | [Information governance lead](../roles/information-governance-officer/#band-6-information-governance-lead) | Information governance |
-| [Contract manager](../roles/contract-manager/#band-6-contract-manager) | Procurement and commercial |
 | [Senior procurement officer](../roles/procurement-officer/#band-6-senior-procurement-officer) | Procurement and commercial |
 | [Associate product manager](../roles/product-manager/#band-6-associate-product-manager) | Product and delivery |
 | [Business analyst](../roles/business-analyst/#band-6-business-analyst) | Product and delivery |
@@ -227,13 +221,10 @@
 
 | Role level | Family |
 | --- | --- |
-| [Business architect](../roles/business-architect/#band-7-business-architect) | Architecture |
-| [Data architect](../roles/data-architect/#band-7-data-architect) | Architecture |
-| [Lead network architect](../roles/network-architect/#band-7-lead-network-architect) | Architecture |
-| [Security architect](../roles/security-architect/#band-7-security-architect) | Architecture |
-| [Senior enterprise architect](../roles/enterprise-architect/#band-7-senior-enterprise-architect) | Architecture |
-| [Senior technical architect](../roles/technical-architect/#band-7-senior-technical-architect) | Architecture |
-| [Solution architect](../roles/solution-architect/#band-7-solution-architect) | Architecture |
+| [Associate business architect](../roles/business-architect/#band-7-associate-business-architect) | Architecture |
+| [Associate solution architect](../roles/solution-architect/#band-7-associate-solution-architect) | Architecture |
+| [Network architect](../roles/network-architect/#band-7-network-architect) | Architecture |
+| [Technical architect](../roles/technical-architect/#band-7-technical-architect) | Architecture |
 | [Clinical safety officer](../roles/clinical-safety-officer/#band-7-clinical-safety-officer) | Clinical informatics and clinical safety |
 | [Senior clinical informatician](../roles/clinical-informatician/#band-7-senior-clinical-informatician) | Clinical informatics and clinical safety |
 | [Communications manager](../roles/communications-officer/#band-7-communications-manager) | Corporate services |
@@ -260,8 +251,7 @@
 | [Senior infrastructure engineer](../roles/infrastructure-engineer/#band-7-senior-infrastructure-engineer) | IT operations |
 | [Information governance manager](../roles/information-governance-officer/#band-7-information-governance-manager) | Information governance |
 | [Legal adviser](../roles/legal-adviser/#band-7-legal-adviser) | Legal |
-| [Category manager (digital and technology)](../roles/category-manager/#band-7-category-manager-digital-and-technology) | Procurement and commercial |
-| [Senior contract manager](../roles/contract-manager/#band-7-senior-contract-manager) | Procurement and commercial |
+| [Contract manager](../roles/contract-manager/#band-7-contract-manager) | Procurement and commercial |
 | [Delivery manager](../roles/delivery-manager/#band-7-delivery-manager) | Product and delivery |
 | [Product manager](../roles/product-manager/#band-7-product-manager) | Product and delivery |
 | [Senior business analyst](../roles/business-analyst/#band-7-senior-business-analyst) | Product and delivery |
@@ -290,7 +280,13 @@
 
 | Role level | Family |
 | --- | --- |
-| [Senior solution architect](../roles/solution-architect/#band-8a-senior-solution-architect) | Architecture |
+| [Business architect](../roles/business-architect/#band-8a-business-architect) | Architecture |
+| [Data architect](../roles/data-architect/#band-8a-data-architect) | Architecture |
+| [Enterprise architect](../roles/enterprise-architect/#band-8a-enterprise-architect) | Architecture |
+| [Lead network architect](../roles/network-architect/#band-8a-lead-network-architect) | Architecture |
+| [Security architect](../roles/security-architect/#band-8a-security-architect) | Architecture |
+| [Senior technical architect](../roles/technical-architect/#band-8a-senior-technical-architect) | Architecture |
+| [Solution architect](../roles/solution-architect/#band-8a-solution-architect) | Architecture |
 | [Lead clinical informatician](../roles/clinical-informatician/#band-8a-lead-clinical-informatician) | Clinical informatics and clinical safety |
 | [Senior clinical safety officer](../roles/clinical-safety-officer/#band-8a-senior-clinical-safety-officer) | Clinical informatics and clinical safety |
 | [Cyber security manager](../roles/cyber-security-manager/#band-8a-cyber-security-manager) | Cyber security |
@@ -307,8 +303,8 @@
 | [Deputy data protection officer](../roles/data-protection-officer/#band-8a-deputy-data-protection-officer) | Information governance |
 | [Head of information governance](../roles/information-governance-officer/#band-8a-head-of-information-governance) | Information governance |
 | [Senior legal adviser](../roles/legal-adviser/#band-8a-senior-legal-adviser) | Legal |
-| [Lead contract manager](../roles/contract-manager/#band-8a-lead-contract-manager) | Procurement and commercial |
-| [Senior category manager](../roles/category-manager/#band-8a-senior-category-manager) | Procurement and commercial |
+| [Category manager (digital and technology)](../roles/category-manager/#band-8a-category-manager-digital-and-technology) | Procurement and commercial |
+| [Senior contract manager](../roles/contract-manager/#band-8a-senior-contract-manager) | Procurement and commercial |
 | [Lead business analyst](../roles/business-analyst/#band-8a-lead-business-analyst) | Product and delivery |
 | [Lead project manager](../roles/project-manager/#band-8a-lead-project-manager) | Product and delivery |
 | [Senior delivery manager](../roles/delivery-manager/#band-8a-senior-delivery-manager) | Product and delivery |
@@ -332,11 +328,11 @@
 | Role level | Family |
 | --- | --- |
 | [Lead business architect](../roles/business-architect/#band-8b-lead-business-architect) | Architecture |
-| [Lead enterprise architect](../roles/enterprise-architect/#band-8b-lead-enterprise-architect) | Architecture |
 | [Lead security architect](../roles/security-architect/#band-8b-lead-security-architect) | Architecture |
-| [Lead solution architect](../roles/solution-architect/#band-8b-lead-solution-architect) | Architecture |
 | [Lead technical architect](../roles/technical-architect/#band-8b-lead-technical-architect) | Architecture |
 | [Senior data architect](../roles/data-architect/#band-8b-senior-data-architect) | Architecture |
+| [Senior enterprise architect](../roles/enterprise-architect/#band-8b-senior-enterprise-architect) | Architecture |
+| [Senior solution architect](../roles/solution-architect/#band-8b-senior-solution-architect) | Architecture |
 | [Head of clinical safety](../roles/clinical-safety-officer/#band-8b-head-of-clinical-safety) | Clinical informatics and clinical safety |
 | [Head of communications](../roles/communications-officer/#band-8b-head-of-communications) | Corporate services |
 | [Head of corporate governance](../roles/governance-and-risk-manager/#band-8b-head-of-corporate-governance) | Corporate services |
@@ -356,8 +352,8 @@
 | [Principal infrastructure engineer](../roles/infrastructure-engineer/#band-8b-principal-infrastructure-engineer) | IT operations |
 | [Data protection officer](../roles/data-protection-officer/#band-8b-data-protection-officer) | Information governance |
 | [Principal legal adviser](../roles/legal-adviser/#band-8b-principal-legal-adviser) | Legal |
-| [Head of category](../roles/category-manager/#band-8b-head-of-category) | Procurement and commercial |
-| [Head of procurement](../roles/head-of-procurement/#band-8b-head-of-procurement) | Procurement and commercial |
+| [Lead contract manager](../roles/contract-manager/#band-8b-lead-contract-manager) | Procurement and commercial |
+| [Senior category manager](../roles/category-manager/#band-8b-senior-category-manager) | Procurement and commercial |
 | [Head of project management](../roles/project-manager/#band-8b-head-of-project-management) | Product and delivery |
 | [Lead product manager](../roles/product-manager/#band-8b-lead-product-manager) | Product and delivery |
 | [Programme delivery manager](../roles/programme-delivery-manager/#band-8b-programme-delivery-manager) | Product and delivery |
@@ -384,9 +380,9 @@
 | Role level | Family |
 | --- | --- |
 | [Chief data architect](../roles/data-architect/#band-8c-chief-data-architect) | Architecture |
-| [Principal enterprise architect](../roles/enterprise-architect/#band-8c-principal-enterprise-architect) | Architecture |
+| [Lead enterprise architect](../roles/enterprise-architect/#band-8c-lead-enterprise-architect) | Architecture |
+| [Lead solution architect](../roles/solution-architect/#band-8c-lead-solution-architect) | Architecture |
 | [Principal security architect](../roles/security-architect/#band-8c-principal-security-architect) | Architecture |
-| [Principal solution architect](../roles/solution-architect/#band-8c-principal-solution-architect) | Architecture |
 | [Principal technical architect](../roles/technical-architect/#band-8c-principal-technical-architect) | Architecture |
 | [Head of clinical informatics](../roles/clinical-informatician/#band-8c-head-of-clinical-informatics) | Clinical informatics and clinical safety |
 | [Head of cyber security](../roles/cyber-security-manager/#band-8c-head-of-cyber-security) | Cyber security |
@@ -396,7 +392,8 @@
 | [Head of HR](../roles/head-of-people/#band-8c-head-of-hr) | Human resources |
 | [Senior data protection officer](../roles/data-protection-officer/#band-8c-senior-data-protection-officer) | Information governance |
 | [Deputy head of legal services](../roles/head-of-legal/#band-8c-deputy-head-of-legal-services) | Legal |
-| [Head of commercial](../roles/head-of-procurement/#band-8c-head-of-commercial) | Procurement and commercial |
+| [Head of category](../roles/category-manager/#band-8c-head-of-category) | Procurement and commercial |
+| [Head of procurement](../roles/head-of-procurement/#band-8c-head-of-procurement) | Procurement and commercial |
 | [Head of business analysis](../roles/business-analyst/#band-8c-head-of-business-analysis) | Product and delivery |
 | [Head of delivery management](../roles/delivery-manager/#band-8c-head-of-delivery-management) | Product and delivery |
 | [Head of digital portfolio](../roles/digital-portfolio-manager/#band-8c-head-of-digital-portfolio) | Product and delivery |
@@ -423,12 +420,14 @@
 
 | Role level | Family |
 | --- | --- |
+| [Principal enterprise architect](../roles/enterprise-architect/#band-8d-principal-enterprise-architect) | Architecture |
+| [Principal solution architect](../roles/solution-architect/#band-8d-principal-solution-architect) | Architecture |
 | [Deputy chief clinical information officer](../roles/chief-clinical-information-officer/#band-8d-deputy-chief-clinical-information-officer) | Clinical informatics and clinical safety |
 | [Chief information security officer](../roles/cyber-security-manager/#band-8d-chief-information-security-officer) | Cyber security |
 | [Deputy director of finance](../roles/head-of-finance/#band-8d-deputy-director-of-finance) | Finance |
 | [Deputy director of people](../roles/head-of-people/#band-8d-deputy-director-of-people) | Human resources |
 | [Head of legal services](../roles/head-of-legal/#band-8d-head-of-legal-services) | Legal |
-| [Director of procurement and commercial](../roles/head-of-procurement/#band-8d-director-of-procurement-and-commercial) | Procurement and commercial |
+| [Head of commercial](../roles/head-of-procurement/#band-8d-head-of-commercial) | Procurement and commercial |
 
 ## Band 9
 
@@ -446,6 +445,7 @@
 | [Director of finance](../roles/head-of-finance/#band-9-director-of-finance) | Finance |
 | [Director of people](../roles/head-of-people/#band-9-director-of-people) | Human resources |
 | [General counsel](../roles/head-of-legal/#band-9-general-counsel) | Legal |
+| [Director of procurement and commercial](../roles/head-of-procurement/#band-9-director-of-procurement-and-commercial) | Procurement and commercial |
 
 
 ---

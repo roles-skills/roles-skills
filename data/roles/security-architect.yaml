@@ -15,25 +15,26 @@ health_context:
 levels:
   - pcf_level: Security architect
     title: Security architect
-    band: "7"
+    band: 8a
     responsibilities:
       - Design security controls for services and systems, including identity, encryption, logging, and network protection.
       - Assess the security of new designs and supplier products, and record risks and recommended controls.
       - Develop security patterns that delivery teams can reuse, such as for patient login and staff single sign-on.
       - Advise on compensating controls for medical devices and legacy clinical systems that cannot be updated easily.
       - Work with information governance and clinical safety colleagues so that security, privacy, and safety risks are assessed together.
+      - Coach security engineers and other architects in secure design.
     skills:
       - {skill: health-care-context, level: working}
       - {skill: information-governance, level: practitioner}
       - {skill: identity-and-access-management, level: practitioner}
-      - {skill: vulnerability-management, level: working}
+      - {skill: vulnerability-management, level: practitioner}
       - {skill: clinical-safety, level: working}
       - {skill: medical-device-regulation, level: awareness}
     qualifications:
       - Substantial experience of security architecture or security engineering, at a level equivalent to a master's degree.
       - A recognised security qualification or equivalent experience.
-    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
-    job_evaluation_notes: The UK GDaD PCF suggests Band 6 for this level, which spans HEO to G7; this reference places it at Band 7, at the upper end of its grade range, because the job designs security for critical clinical systems with limited supervision, and to narrow the gap to the lead level at Band 8b.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts place this role at Band 8a. Analysis and freedom to act are scored above the Band 7 profile because the job designs security for critical clinical systems with little supervision."
 
   - pcf_level: Lead security architect
     title: Lead security architect

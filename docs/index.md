@@ -19,13 +19,13 @@ Find the family closest to your work, then the role, then the band.
 
 | Role | Bands | UK GDaD PCF role | ESCO occupation |
 | --- | --- | --- | --- |
-| [Enterprise architect](roles/enterprise-architect/) | 6, 7, 8b, 8c | Enterprise architect | [enterprise architect](http://data.europa.eu/esco/occupation/2bef94db-0088-4507-982a-2ca717529adb) |
-| [Solution architect](roles/solution-architect/) | 6, 7, 8a, 8b, 8c | Solution architect | [ICT system architect](http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae) |
-| [Technical architect](roles/technical-architect/) | 5, 6, 7, 8b, 8c | Technical architect | [software architect](http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e) |
-| [Data architect](roles/data-architect/) | 7, 8b, 8c | Data architect | [database designer](http://data.europa.eu/esco/occupation/8d9ec84d-cf2d-4179-87bc-335cda54a427) |
-| [Security architect](roles/security-architect/) | 7, 8b, 8c | Security architect | [ICT system architect](http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae) |
-| [Network architect](roles/network-architect/) | 5, 6, 7 | Network architect | [ICT network architect](http://data.europa.eu/esco/occupation/e0b544dd-b621-4126-a55e-054af25c6ea0) |
-| [Business architect](roles/business-architect/) | 5, 6, 7, 8b | Business architect | [enterprise architect](http://data.europa.eu/esco/occupation/2bef94db-0088-4507-982a-2ca717529adb) |
+| [Enterprise architect](roles/enterprise-architect/) | 8a, 8b, 8c, 8d | Enterprise architect | [enterprise architect](http://data.europa.eu/esco/occupation/2bef94db-0088-4507-982a-2ca717529adb) |
+| [Solution architect](roles/solution-architect/) | 7, 8a, 8b, 8c, 8d | Solution architect | [ICT system architect](http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae) |
+| [Technical architect](roles/technical-architect/) | 6, 7, 8a, 8b, 8c | Technical architect | [software architect](http://data.europa.eu/esco/occupation/d0aa0792-4345-474b-9365-686cf4869d2e) |
+| [Data architect](roles/data-architect/) | 8a, 8b, 8c | Data architect | [database designer](http://data.europa.eu/esco/occupation/8d9ec84d-cf2d-4179-87bc-335cda54a427) |
+| [Security architect](roles/security-architect/) | 8a, 8b, 8c | Security architect | [ICT system architect](http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae) |
+| [Network architect](roles/network-architect/) | 6, 7, 8a | Network architect | [ICT network architect](http://data.europa.eu/esco/occupation/e0b544dd-b621-4126-a55e-054af25c6ea0) |
+| [Business architect](roles/business-architect/) | 6, 7, 8a, 8b | Business architect | [enterprise architect](http://data.europa.eu/esco/occupation/2bef94db-0088-4507-982a-2ca717529adb) |
 
 ## Data
 <a id="data"></a>
@@ -152,9 +152,9 @@ Find the family closest to your work, then the role, then the band.
 | Role | Bands | UK GDaD PCF role | ESCO occupation |
 | --- | --- | --- | --- |
 | [Procurement officer](roles/procurement-officer/) | 3, 4, 5, 6 | — | [procurement support officer](http://data.europa.eu/esco/occupation/c9b2b0a7-0adc-4ca7-bf7c-dc95e18aeac7) |
-| [Category manager](roles/category-manager/) | 7, 8a, 8b | — | [procurement category specialist](http://data.europa.eu/esco/occupation/0561328b-875b-4ae2-9ba1-9af9049aef01) |
-| [Contract manager](roles/contract-manager/) | 6, 7, 8a | — | [contract manager](http://data.europa.eu/esco/occupation/2c9939ef-ebab-4111-8f27-605ae8782791) |
-| [Head of procurement](roles/head-of-procurement/) | 8b, 8c, 8d | — | [procurement department manager](http://data.europa.eu/esco/occupation/91f93dc4-1b71-4053-b6fb-c579ec19303a) |
+| [Category manager](roles/category-manager/) | 8a, 8b, 8c | — | [procurement category specialist](http://data.europa.eu/esco/occupation/0561328b-875b-4ae2-9ba1-9af9049aef01) |
+| [Contract manager](roles/contract-manager/) | 7, 8a, 8b | — | [contract manager](http://data.europa.eu/esco/occupation/2c9939ef-ebab-4111-8f27-605ae8782791) |
+| [Head of procurement](roles/head-of-procurement/) | 8c, 8d, 9 | — | [procurement department manager](http://data.europa.eu/esco/occupation/91f93dc4-1b71-4053-b6fb-c579ec19303a) |
 
 ## Corporate services
 <a id="corporate-services"></a>

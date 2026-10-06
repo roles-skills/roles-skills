@@ -173,7 +173,7 @@ UK GDaD PCF skills are read directly from the PCF download and referred to as `p
 - A band to PCF/SFIA level mapping is published, with its reasoning.
 - The 16-factor job evaluation scheme is defined, with levels, points, and band ranges.
 - The skills catalogue is complete, with a PCF-to-ESCO crosswalk.
-- At least 25 role profiles across at least 8 families, covering Bands 3 to 9, each linked to a PCF role and an ESCO occupation, with job evaluation scores that fall within each band.
+- At least 25 role profiles across at least 8 families, covering Bands 3 to 9, each linked to an ESCO occupation and to a PCF role where one exists, with job evaluation scores that fall within each band.
 - Corporate roles (finance, legal, human resources, procurement) covered as deeply as the digital roles.
 - Generated docs and self-assessment exports exist for every role.
 - The README, disclaimer, licences, credits, and three how-to guides are written.

@@ -14,7 +14,7 @@ health_context:
 levels:
   - pcf_level: Associate solution architect
     title: Associate solution architect
-    band: "6"
+    band: "7"
     responsibilities:
       - Gather requirements from product teams, clinicians, and suppliers to inform solution designs.
       - Draw current and target state diagrams, such as context, data flow, and integration views.
@@ -25,34 +25,37 @@ levels:
       - {skill: health-care-context, level: working}
       - {skill: health-data-interoperability, level: working}
       - {skill: information-governance, level: working}
-      - {skill: clinical-safety, level: awareness}
+      - {skill: clinical-safety, level: working}
     qualifications:
-      - A degree in computing or a related subject, or equivalent experience.
+      - Specialist knowledge of solution design, at master's level or equivalent experience.
       - Experience of analysis, development, or technical design.
-    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 4, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts place this role at Band 7. Knowledge is scored at master's level or equivalent, because the job designs across applications, data, integration, and security."
 
   - pcf_level: Solution architect
     title: Solution architect
-    band: "7"
+    band: 8a
     responsibilities:
       - Design end-to-end solutions for lower-risk services, such as staff tools or simple patient-facing services.
       - Compare options, including buying, building, and reusing shared platforms, and recommend one with clear reasons.
       - Design integrations, data flows, and identity and access for the solution, using open standards where they exist.
       - Contribute to hazard identification and data protection impact assessments for the solution.
       - Present designs to design authorities and support delivery teams through build and go-live.
+      - Coach and review the work of associate solution architects.
     skills:
       - {skill: health-care-context, level: working}
       - {skill: health-data-interoperability, level: practitioner}
-      - {skill: information-governance, level: working}
+      - {skill: information-governance, level: practitioner}
       - {skill: clinical-safety, level: working}
       - {skill: identity-and-access-management, level: working}
     qualifications:
       - Substantial experience of solution design or software engineering, at a level equivalent to a master's degree.
-    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts place this role at Band 8a. Planning, policy, and freedom to act are scored above the Band 7 profile because the job owns end-to-end designs and recommends options to design authorities."
 
   - pcf_level: Senior solution architect
     title: Senior solution architect
-    band: 8a
+    band: 8b
     responsibilities:
       - Design complex solutions of moderate risk, such as clinical systems or services used across several organisations.
       - Lead technical evaluation of supplier products in procurements, including interoperability, security, and safety.
@@ -63,16 +66,18 @@ levels:
       - {skill: health-care-context, level: practitioner}
       - {skill: health-data-interoperability, level: practitioner}
       - {skill: information-governance, level: practitioner}
-      - {skill: clinical-safety, level: working}
+      - {skill: clinical-safety, level: practitioner}
       - {skill: identity-and-access-management, level: working}
       - {skill: medical-device-regulation, level: awareness}
+      - {skill: risk-management, level: working}
     qualifications:
-      - Extensive experience of designing complex solutions, at a level equivalent to a master's degree.
-    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+      - Extensive experience of designing complex solutions across several disciplines, at a level beyond a master's degree.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 8a): health-sector adverts place this role at Band 8b. Knowledge is scored at level 8 for specialist knowledge across several disciplines, such as applications, data, integration, security, and clinical safety."
 
   - pcf_level: Lead solution architect
     title: Lead solution architect
-    band: 8b
+    band: 8c
     responsibilities:
       - Lead the solution architecture for a programme or a complex area, such as an electronic patient record replacement.
       - Make sure solutions across the programme are consistent, interoperable, and aligned with the target architecture.
@@ -85,15 +90,16 @@ levels:
       - {skill: information-governance, level: practitioner}
       - {skill: clinical-safety, level: practitioner}
       - {skill: medical-device-regulation, level: working}
-      - {skill: risk-management, level: working}
+      - {skill: risk-management, level: practitioner}
       - {skill: people-management, level: practitioner}
     qualifications:
       - Extensive experience of leading solution architecture for complex programmes.
-    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 4, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 8b): health-sector adverts place this role at Band 8c. Planning, policy, and people are scored above the Band 8b profile because the job plans the architecture of a whole programme and leads a team of solution architects."
 
   - pcf_level: Principal solution architect
     title: Principal solution architect
-    band: 8c
+    band: 8d
     responsibilities:
       - Lead solution architecture for the organisation's largest or most critical programmes.
       - Set solution architecture standards, patterns, and methods for the organisation.
@@ -103,11 +109,13 @@ levels:
     skills:
       - {skill: health-care-context, level: expert}
       - {skill: health-data-interoperability, level: expert}
-      - {skill: information-governance, level: practitioner}
+      - {skill: information-governance, level: expert}
       - {skill: clinical-safety, level: practitioner}
       - {skill: medical-device-regulation, level: working}
       - {skill: risk-management, level: practitioner}
       - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
     qualifications:
       - Extensive experience of leading solution architecture across multiple programmes or organisations.
-    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 3, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 6, research: 2, freedom-to-act: 6, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 8c): health-sector adverts place this role at Band 8d. Freedom to act is level 6 because the job sets the organisation's solution architecture standards; financial resources and people are level 4 because it leads the practice and its budget."

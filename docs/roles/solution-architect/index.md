@@ -3,7 +3,7 @@
 > This is an illustrative reference profile for a generic digital health care organisation. It is not an official job description for any employer, and its job evaluation scores are not a formal evaluation.
 
 **Family:** [Architecture](../../#architecture)  
-**Bands:** 6, 7, 8a, 8b, 8c  
+**Bands:** 7, 8a, 8b, 8c, 8d  
 **UK GDaD PCF role:** [Solution architect](https://understand-digital-data-roles-skills.service.gov.uk/role/solution-architect/)  
 **ESCO occupations:** [ICT system architect](http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae) (ISCO-08 2511)
 
@@ -41,13 +41,13 @@ Solution architects design how a new or changed service will work end to end, fr
 
 | Band | Title | UK GDaD PCF level | Civil Service grades (PCF) | Job evaluation points |
 | --- | --- | --- | --- | --- |
-| 6 | [Associate solution architect](#band-6-associate-solution-architect) | Associate solution architect | HEO/SEO | 419 |
-| 7 | [Solution architect](#band-7-solution-architect) | Solution architect | SEO/G7 | 496 |
-| 8a | [Senior solution architect](#band-8a-senior-solution-architect) | Senior solution architect | G7 | 551 |
-| 8b | [Lead solution architect](#band-8b-lead-solution-architect) | Lead solution architect | G7/G6 | 613 |
-| 8c | [Principal solution architect](#band-8c-principal-solution-architect) | Principal solution architect | G6 | 662 |
+| 7 | [Associate solution architect](#band-7-associate-solution-architect) | Associate solution architect | HEO/SEO | 483 |
+| 8a | [Solution architect](#band-8a-solution-architect) | Solution architect | SEO/G7 | 560 |
+| 8b | [Senior solution architect](#band-8b-senior-solution-architect) | Senior solution architect | G7 | 604 |
+| 8c | [Lead solution architect](#band-8c-lead-solution-architect) | Lead solution architect | G7/G6 | 655 |
+| 8d | [Principal solution architect](#band-8d-principal-solution-architect) | Principal solution architect | G6 | 699 |
 
-## Band 6: Associate solution architect
+## Band 7: Associate solution architect
 
 **UK GDaD PCF level: Associate solution architect**
 
@@ -80,28 +80,28 @@ Solution architects design how a new or changed service will work end to end, fr
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognise when a change could affect patient care and raise it |
 | [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Working | You can:<br>• read and use FHIR resources, profiles, and APIs<br>• build or test simple integrations under guidance<br>• check messages against a specification |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
-| [Clinical risk management](../../skills/#clinical-safety) | This reference | Awareness | You can:<br>• explain how health IT systems can harm patients, for example through wrong, missing, or delayed information<br>• report a possible clinical safety issue through the right route |
+| [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 
 ### Typical qualifications and experience
 
-- A degree in computing or a related subject, or equivalent experience.
+- Specialist knowledge of solution design, at master's level or equivalent experience.
 - Experience of analysis, development, or technical design.
 
 ### Band outline
 
-- **Knowledge:** Specialist knowledge across a range of procedures, built through further training or experience.
-- **Autonomy:** Works independently; interprets policy for own area; seeks advice on complex issues.
-- **Scope:** A product, service, or workstream.
-- **Leadership:** May lead a small team or mentor colleagues.
-- **Accountability:** Outcomes of own workstream and quality of advice given.
+- **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
+- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Scope:** Several products or services, or a specialist function.
+- **Leadership:** Leads a team or a professional practice area.
+- **Accountability:** Delivery of a service or specialist function, and its budget if held.
 
 ### Job evaluation (illustrative)
 
 | # | Factor | Level | Points |
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
-| 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
+| 2 | Knowledge, training, and experience | 7 | 196 |
+| 3 | Analytical and judgemental skills | 5 | 60 |
 | 4 | Planning and organisational skills | 3 | 27 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
@@ -112,12 +112,14 @@ Solution architects design how a new or changed service will work end to end, fr
 | 11 | Responsibility for research and development | 2 | 12 |
 | 12 | Freedom to act | 4 | 32 |
 | 13 | Physical effort | 1 | 3 |
-| 14 | Mental effort | 3 | 12 |
+| 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **419** (Band 6: 396–465) |
+| | **Total** | | **483** (Band 7: 466–539) |
 
-## Band 7: Solution architect
+Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts place this role at Band 7. Knowledge is scored at master's level or equivalent, because the job designs across applications, data, integration, and security.
+
+## Band 8a: Solution architect
 
 **UK GDaD PCF level: Solution architect**
 
@@ -137,6 +139,7 @@ Solution architects design how a new or changed service will work end to end, fr
 - Design integrations, data flows, and identity and access for the solution, using open standards where they exist.
 - Contribute to hazard identification and data protection impact assessments for the solution.
 - Present designs to design authorities and support delivery teams through build and go-live.
+- Coach and review the work of associate solution architects.
 
 ### Skills
 
@@ -152,7 +155,7 @@ Solution architects design how a new or changed service will work end to end, fr
 | [Technical design throughout the life cycle](../../skills/#pcf-technical-design-throughout-the-life-cycle) | UK GDaD PCF | Working | You can:<br>• create technical designs characterised by managed levels of risk, impact, and complexity<br>• provide guidance and support to teams using technical designs throughout the life cycle<br>• adapt a technical design if needed during delivery<br>• work with well-understood technology and identify appropriate patterns |
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognise when a change could affect patient care and raise it |
 | [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Practitioner | You can:<br>• design and build integrations using FHIR, HL7 version 2, and messaging patterns<br>• write and profile FHIR resources and implementation guides<br>• resolve complex mapping and data quality issues between systems |
-| [Information governance and data protection](../../skills/#information-governance) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
+| [Information governance and data protection](../../skills/#information-governance) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Working | You can:<br>• create, change, and remove user accounts and access rights<br>• check access against role-based access rules |
 
@@ -162,11 +165,11 @@ Solution architects design how a new or changed service will work end to end, fr
 
 ### Band outline
 
-- **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
-- **Scope:** Several products or services, or a specialist function.
-- **Leadership:** Leads a team or a professional practice area.
-- **Accountability:** Delivery of a service or specialist function, and its budget if held.
+- **Knowledge:** Expert knowledge of a discipline and its management.
+- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Scope:** A service area or a discipline across the organisation.
+- **Leadership:** Manages a team, or leads a discipline without line management.
+- **Accountability:** A service area, its staff, and its budget.
 
 ### Job evaluation (illustrative)
 
@@ -175,22 +178,24 @@ Solution architects design how a new or changed service will work end to end, fr
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
 | 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 4 | Planning and organisational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 3 | 21 |
-| 8 | Responsibility for financial and physical resources | 1 | 5 |
-| 9 | Responsibility for people | 2 | 12 |
+| 7 | Responsibility for policy and service development | 4 | 32 |
+| 8 | Responsibility for financial and physical resources | 2 | 12 |
+| 9 | Responsibility for people | 3 | 21 |
 | 10 | Responsibility for information resources | 5 | 34 |
-| 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 4 | 32 |
+| 11 | Responsibility for research and development | 3 | 21 |
+| 12 | Freedom to act | 5 | 45 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **496** (Band 7: 466–539) |
+| | **Total** | | **560** (Band 8a: 540–584) |
 
-## Band 8a: Senior solution architect
+Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts place this role at Band 8a. Planning, policy, and freedom to act are scored above the Band 7 profile because the job owns end-to-end designs and recommends options to design authorities.
+
+## Band 8b: Senior solution architect
 
 **UK GDaD PCF level: Senior solution architect**
 
@@ -226,28 +231,29 @@ Solution architects design how a new or changed service will work end to end, fr
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Practitioner | You can:<br>• analyse how a service fits into care pathways across organisations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Practitioner | You can:<br>• design and build integrations using FHIR, HL7 version 2, and messaging patterns<br>• write and profile FHIR resources and implementation guides<br>• resolve complex mapping and data quality issues between systems |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
-| [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
+| [Clinical risk management](../../skills/#clinical-safety) | This reference | Practitioner | You can:<br>• lead hazard identification and risk assessment for a product or change<br>• write and maintain hazard logs and clinical safety case reports<br>• agree risk controls with product teams and check that they work<br>• advise teams on applying clinical risk management standards |
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Working | You can:<br>• create, change, and remove user accounts and access rights<br>• check access against role-based access rules |
 | [Medical device software regulation](../../skills/#medical-device-regulation) | This reference | Awareness | You can:<br>• explain that some health software is regulated as a medical device<br>• know who to ask when a product might be a medical device |
+| [Organisational risk management](../../skills/#risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 
 ### Typical qualifications and experience
 
-- Extensive experience of designing complex solutions, at a level equivalent to a master's degree.
+- Extensive experience of designing complex solutions across several disciplines, at a level beyond a master's degree.
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
-- **Scope:** A service area or a discipline across the organisation.
-- **Leadership:** Manages a team, or leads a discipline without line management.
-- **Accountability:** A service area, its staff, and its budget.
+- **Knowledge:** Expert knowledge across several disciplines or a large service.
+- **Autonomy:** Shapes policy and strategy for a large area.
+- **Scope:** Several services or teams, or a principal-level discipline.
+- **Leadership:** Manages managers, or is the principal authority in a discipline.
+- **Accountability:** Several services, their staff, and their budgets.
 
 ### Job evaluation (illustrative)
 
 | # | Factor | Level | Points |
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
-| 2 | Knowledge, training, and experience | 7 | 196 |
+| 2 | Knowledge, training, and experience | 8 | 240 |
 | 3 | Analytical and judgemental skills | 5 | 60 |
 | 4 | Planning and organisational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
@@ -256,15 +262,17 @@ Solution architects design how a new or changed service will work end to end, fr
 | 8 | Responsibility for financial and physical resources | 2 | 12 |
 | 9 | Responsibility for people | 3 | 21 |
 | 10 | Responsibility for information resources | 5 | 34 |
-| 11 | Responsibility for research and development | 2 | 12 |
+| 11 | Responsibility for research and development | 3 | 21 |
 | 12 | Freedom to act | 5 | 45 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **551** (Band 8a: 540–584) |
+| | **Total** | | **604** (Band 8b: 585–629) |
 
-## Band 8b: Lead solution architect
+Banded above the UK GDaD PCF grade suggestion (Band 8a): health-sector adverts place this role at Band 8b. Knowledge is scored at level 8 for specialist knowledge across several disciplines, such as applications, data, integration, security, and clinical safety.
+
+## Band 8c: Lead solution architect
 
 **UK GDaD PCF level: Lead solution architect**
 
@@ -302,7 +310,7 @@ Solution architects design how a new or changed service will work end to end, fr
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Practitioner | You can:<br>• lead hazard identification and risk assessment for a product or change<br>• write and maintain hazard logs and clinical safety case reports<br>• agree risk controls with product teams and check that they work<br>• advise teams on applying clinical risk management standards |
 | [Medical device software regulation](../../skills/#medical-device-regulation) | This reference | Working | You can:<br>• follow a software life cycle process that meets medical device standards<br>• produce the records that such a process requires |
-| [Organisational risk management](../../skills/#risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
+| [Organisational risk management](../../skills/#risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 
 ### Typical qualifications and experience
@@ -311,11 +319,11 @@ Solution architects design how a new or changed service will work end to end, fr
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge across several disciplines or a large service.
-- **Autonomy:** Shapes policy and strategy for a large area.
-- **Scope:** Several services or teams, or a principal-level discipline.
-- **Leadership:** Manages managers, or is the principal authority in a discipline.
-- **Accountability:** Several services, their staff, and their budgets.
+- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Autonomy:** Sets strategy for a function; accountable to a director.
+- **Scope:** A function or department.
+- **Leadership:** Leads a function through several management layers.
+- **Accountability:** A function's performance, workforce, and budget.
 
 ### Job evaluation (illustrative)
 
@@ -324,12 +332,12 @@ Solution architects design how a new or changed service will work end to end, fr
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
 | 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 4 | Planning and organisational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 4 | 32 |
+| 7 | Responsibility for policy and service development | 5 | 45 |
 | 8 | Responsibility for financial and physical resources | 3 | 21 |
-| 9 | Responsibility for people | 3 | 21 |
+| 9 | Responsibility for people | 4 | 32 |
 | 10 | Responsibility for information resources | 5 | 34 |
 | 11 | Responsibility for research and development | 3 | 21 |
 | 12 | Freedom to act | 5 | 45 |
@@ -337,9 +345,11 @@ Solution architects design how a new or changed service will work end to end, fr
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **613** (Band 8b: 585–629) |
+| | **Total** | | **655** (Band 8c: 630–674) |
 
-## Band 8c: Principal solution architect
+Banded above the UK GDaD PCF grade suggestion (Band 8b): health-sector adverts place this role at Band 8c. Planning, policy, and people are scored above the Band 8b profile because the job plans the architecture of a whole programme and leads a team of solution architects.
+
+## Band 8d: Principal solution architect
 
 **UK GDaD PCF level: Principal solution architect**
 
@@ -376,11 +386,12 @@ Solution architects design how a new or changed service will work end to end, fr
 | [Technical design throughout the life cycle](../../skills/#pcf-technical-design-throughout-the-life-cycle) | UK GDaD PCF | Expert | You can:<br>• create technical designs characterised by high risk, impact, and complexity<br>• lead and guide others in creating technical designs that achieve organisational objectives<br>• use feedback to optimise and refine standards for technical designs throughout the life cycle |
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Expert | You can:<br>• shape organisational strategy using a deep understanding of the health and care system<br>• represent the organisation with health and care partners and leaders<br>• anticipate how policy and service changes will affect digital services and care |
 | [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Expert | You can:<br>• set interoperability standards and strategy for the organisation<br>• lead national or cross-organisation standards work<br>• assure the design of critical integrations across many systems |
-| [Information governance and data protection](../../skills/#information-governance) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
+| [Information governance and data protection](../../skills/#information-governance) | This reference | Expert | You can:<br>• set information governance policy and strategy<br>• advise the board on information risk and compliance<br>• represent the organisation with regulators and partners |
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Practitioner | You can:<br>• lead hazard identification and risk assessment for a product or change<br>• write and maintain hazard logs and clinical safety case reports<br>• agree risk controls with product teams and check that they work<br>• advise teams on applying clinical risk management standards |
 | [Medical device software regulation](../../skills/#medical-device-regulation) | This reference | Working | You can:<br>• follow a software life cycle process that meets medical device standards<br>• produce the records that such a process requires |
 | [Organisational risk management](../../skills/#risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
+| [Budget management](../../skills/#budget-management) | This reference | Working | You can:<br>• track spending against a small budget and raise variances<br>• authorise spending within your limit |
 
 ### Typical qualifications and experience
 
@@ -388,11 +399,11 @@ Solution architects design how a new or changed service will work end to end, fr
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
-- **Autonomy:** Sets strategy for a function; accountable to a director.
-- **Scope:** A function or department.
-- **Leadership:** Leads a function through several management layers.
-- **Accountability:** A function's performance, workforce, and budget.
+- **Knowledge:** Strategic knowledge across functions and the wider health and care system.
+- **Autonomy:** Shapes organisation-wide strategy; deputises for a director.
+- **Scope:** A major function or several functions.
+- **Leadership:** Leads several functions or a large department.
+- **Accountability:** Major functions, large budgets, and organisation-wide risks.
 
 ### Job evaluation (illustrative)
 
@@ -405,16 +416,18 @@ Solution architects design how a new or changed service will work end to end, fr
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
-| 8 | Responsibility for financial and physical resources | 3 | 21 |
-| 9 | Responsibility for people | 3 | 21 |
+| 8 | Responsibility for financial and physical resources | 4 | 32 |
+| 9 | Responsibility for people | 4 | 32 |
 | 10 | Responsibility for information resources | 6 | 46 |
 | 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 5 | 45 |
+| 12 | Freedom to act | 6 | 60 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **662** (Band 8c: 630–674) |
+| | **Total** | | **699** (Band 8d: 675–720) |
+
+Banded above the UK GDaD PCF grade suggestion (Band 8c): health-sector adverts place this role at Band 8d. Freedom to act is level 6 because the job sets the organisation's solution architecture standards; financial resources and people are level 4 because it leads the practice and its budget.
 
 ## ESCO occupations and skills
 

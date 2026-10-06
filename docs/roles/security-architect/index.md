@@ -3,7 +3,7 @@
 > This is an illustrative reference profile for a generic digital health care organisation. It is not an official job description for any employer, and its job evaluation scores are not a formal evaluation.
 
 **Family:** [Architecture](../../#architecture)  
-**Bands:** 7, 8b, 8c  
+**Bands:** 8a, 8b, 8c  
 **UK GDaD PCF role:** [Security architect](https://understand-digital-data-roles-skills.service.gov.uk/role/security-architect/)  
 **ESCO occupations:** [ICT system architect](http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae) (ISCO-08 2511); [cybersecurity risk manager](http://data.europa.eu/esco/occupation/7754d570-9519-48c2-b1c9-8e165f8bca0f) (ISCO-08 2529)
 
@@ -29,11 +29,11 @@ Security architects design the security of the organisation's digital health ser
 
 | Band | Title | UK GDaD PCF level | Civil Service grades (PCF) | Job evaluation points |
 | --- | --- | --- | --- | --- |
-| 7 | [Security architect](#band-7-security-architect) | Security architect | HEO/SEO/G7 | 496 |
+| 8a | [Security architect](#band-8a-security-architect) | Security architect | HEO/SEO/G7 | 560 |
 | 8b | [Lead security architect](#band-8b-lead-security-architect) | Lead security architect | G7/G6 | 613 |
 | 8c | [Principal security architect](#band-8c-principal-security-architect) | Principal security architect | G6 | 662 |
 
-## Band 7: Security architect
+## Band 8a: Security architect
 
 **UK GDaD PCF level: Security architect**
 
@@ -54,6 +54,7 @@ Security architects design the security of the organisation's digital health ser
 - Develop security patterns that delivery teams can reuse, such as for patient login and staff single sign-on.
 - Advise on compensating controls for medical devices and legacy clinical systems that cannot be updated easily.
 - Work with information governance and clinical safety colleagues so that security, privacy, and safety risks are assessed together.
+- Coach security engineers and other architects in secure design.
 
 ### Skills
 
@@ -69,7 +70,7 @@ Security architects design the security of the organisation's digital health ser
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognise when a change could affect patient care and raise it |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Practitioner | You can:<br>• design and run identity and access services<br>• review access regularly and fix problems |
-| [Vulnerability management](../../skills/#vulnerability-management) | This reference | Working | You can:<br>• run vulnerability scans and report the results<br>• track fixes with system owners |
+| [Vulnerability management](../../skills/#vulnerability-management) | This reference | Practitioner | You can:<br>• prioritise vulnerabilities by risk, including to patient services<br>• scope and manage penetration tests and remediation |
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Medical device software regulation](../../skills/#medical-device-regulation) | This reference | Awareness | You can:<br>• explain that some health software is regulated as a medical device<br>• know who to ask when a product might be a medical device |
 
@@ -80,11 +81,11 @@ Security architects design the security of the organisation's digital health ser
 
 ### Band outline
 
-- **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
-- **Scope:** Several products or services, or a specialist function.
-- **Leadership:** Leads a team or a professional practice area.
-- **Accountability:** Delivery of a service or specialist function, and its budget if held.
+- **Knowledge:** Expert knowledge of a discipline and its management.
+- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Scope:** A service area or a discipline across the organisation.
+- **Leadership:** Manages a team, or leads a discipline without line management.
+- **Accountability:** A service area, its staff, and its budget.
 
 ### Job evaluation (illustrative)
 
@@ -93,22 +94,22 @@ Security architects design the security of the organisation's digital health ser
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
 | 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 4 | Planning and organisational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 3 | 21 |
-| 8 | Responsibility for financial and physical resources | 1 | 5 |
-| 9 | Responsibility for people | 2 | 12 |
+| 7 | Responsibility for policy and service development | 4 | 32 |
+| 8 | Responsibility for financial and physical resources | 2 | 12 |
+| 9 | Responsibility for people | 3 | 21 |
 | 10 | Responsibility for information resources | 5 | 34 |
-| 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 4 | 32 |
+| 11 | Responsibility for research and development | 3 | 21 |
+| 12 | Freedom to act | 5 | 45 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **496** (Band 7: 466–539) |
+| | **Total** | | **560** (Band 8a: 540–584) |
 
-The UK GDaD PCF suggests Band 6 for this level, which spans HEO to G7; this reference places it at Band 7, at the upper end of its grade range, because the job designs security for critical clinical systems with limited supervision, and to narrow the gap to the lead level at Band 8b.
+Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts place this role at Band 8a. Analysis and freedom to act are scored above the Band 7 profile because the job designs security for critical clinical systems with little supervision.
 
 ## Band 8b: Lead security architect
 

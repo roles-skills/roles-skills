@@ -3,7 +3,7 @@
 > This is an illustrative reference profile for a generic digital health care organisation. It is not an official job description for any employer, and its job evaluation scores are not a formal evaluation.
 
 **Family:** [Procurement and commercial](../../#procurement)  
-**Bands:** 6, 7, 8a  
+**Bands:** 7, 8a, 8b  
 **UK GDaD PCF role:** none (this reference defines the role)  
 **ESCO occupations:** [contract manager](http://data.europa.eu/esco/occupation/2c9939ef-ebab-4111-8f27-605ae8782791) (ISCO-08 2619)
 
@@ -23,11 +23,11 @@ Contract managers make sure the organisation gets what it pays for after a contr
 
 | Band | Title | UK GDaD PCF level | Civil Service grades (PCF) | Job evaluation points |
 | --- | --- | --- | --- | --- |
-| 6 | [Contract manager](#band-6-contract-manager) | — | — | 422 |
-| 7 | [Senior contract manager](#band-7-senior-contract-manager) | — | — | 475 |
-| 8a | [Lead contract manager](#band-8a-lead-contract-manager) | — | — | 553 |
+| 7 | [Contract manager](#band-7-contract-manager) | — | — | 485 |
+| 8a | [Senior contract manager](#band-8a-senior-contract-manager) | — | — | 553 |
+| 8b | [Lead contract manager](#band-8b-lead-contract-manager) | — | — | 595 |
 
-## Band 6: Contract manager
+## Band 7: Contract manager
 
 Manages a portfolio of contracts, including technology and clinical system contracts, from mobilisation to renewal, working within the contract management framework. Also known as contract officer.
 
@@ -36,8 +36,8 @@ Manages a portfolio of contracts, including technology and clinical system contr
 - Manage a portfolio of contracts, keeping the contract register, documents, and key dates current.
 - Run regular performance reviews with suppliers, using service levels and key performance indicators.
 - Check invoices against contract terms and resolve billing disputes.
-- Process contract changes and variations within the procurement rules.
-- Track licence use, renewals, and notice periods, and start renewal planning early.
+- Negotiate and process contract changes and variations within the procurement rules.
+- Track licence use, renewals, and notice periods, and plan renewals and re-procurements across the portfolio.
 - Keep exit plans and data registers up to date for each contract.
 - Work with information governance and security colleagues on supplier data protection and security checks.
 
@@ -46,7 +46,7 @@ Manages a portfolio of contracts, including technology and clinical system contr
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Contract management](../../skills/#proc-contract-management) | This reference | Practitioner | You can:<br>• manage a portfolio of contracts, including clinical and technology contracts<br>• use contract remedies, such as service credits, when performance falls short<br>• manage changes, disputes, and renewals within the procurement rules<br>• plan exit early and test exit plans before contracts end |
-| [Supplier relationship management](../../skills/#proc-supplier-relationship-management) | This reference | Working | You can:<br>• keep supplier contacts, escalation routes, and records current<br>• check supplier financial health and insurance against requirements |
+| [Supplier relationship management](../../skills/#proc-supplier-relationship-management) | This reference | Practitioner | You can:<br>• segment suppliers by risk and value and plan how to manage each group<br>• run strategic reviews with key suppliers, including roadmap and improvement plans<br>• manage supplier risks, such as financial failure, cyber incidents, and supply chain issues |
 | [Exit planning and data return](../../skills/#proc-exit-planning) | This reference | Working | You can:<br>• keep exit plans and asset and data registers up to date<br>• track notice periods and exit milestones |
 | [Technology and cloud procurement](../../skills/#proc-technology-procurement) | This reference | Working | You can:<br>• buy standard software, hardware, and licences through frameworks<br>• track licence numbers, renewals, and true-up dates<br>• include standard security and data protection requirements in documents |
 | [Public procurement rules and policy](../../skills/#proc-procurement-law-and-policy) | This reference | Working | You can:<br>• apply the procurement rules that fit a straightforward purchase<br>• publish notices and keep records that meet transparency rules<br>• spot when a request risks breaking the rules and raise it |
@@ -58,40 +58,42 @@ Manages a portfolio of contracts, including technology and clinical system contr
 
 ### Typical qualifications and experience
 
-- A recognised procurement or contract management qualification, or equivalent experience.
+- A recognised procurement or contract management qualification at advanced level, or equivalent experience.
 - Experience of managing service contracts, ideally for technology.
 
 ### Band outline
 
-- **Knowledge:** Specialist knowledge across a range of procedures, built through further training or experience.
-- **Autonomy:** Works independently; interprets policy for own area; seeks advice on complex issues.
-- **Scope:** A product, service, or workstream.
-- **Leadership:** May lead a small team or mentor colleagues.
-- **Accountability:** Outcomes of own workstream and quality of advice given.
+- **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
+- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Scope:** Several products or services, or a specialist function.
+- **Leadership:** Leads a team or a professional practice area.
+- **Accountability:** Delivery of a service or specialist function, and its budget if held.
 
 ### Job evaluation (illustrative)
 
 | # | Factor | Level | Points |
 | --- | --- | --- | --- |
-| 1 | Communication and relationship skills | 4 | 32 |
+| 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgemental skills | 5 | 60 |
+| 4 | Planning and organisational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
-| 8 | Responsibility for financial and physical resources | 3 | 21 |
+| 8 | Responsibility for financial and physical resources | 4 | 32 |
 | 9 | Responsibility for people | 2 | 12 |
 | 10 | Responsibility for information resources | 3 | 16 |
 | 11 | Responsibility for research and development | 1 | 5 |
 | 12 | Freedom to act | 4 | 32 |
 | 13 | Physical effort | 1 | 3 |
-| 14 | Mental effort | 3 | 12 |
+| 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **422** (Band 6: 396–465) |
+| | **Total** | | **485** (Band 7: 466–539) |
 
-## Band 7: Senior contract manager
+Health-sector adverts place this role at Band 7. Analysis is level 5 for judgements on complex contract terms and disputes, planning is level 4 for renewals across the portfolio, and financial resources is level 4 because the job manages the spend of a portfolio of service contracts.
+
+## Band 8a: Senior contract manager
 
 Manages the organisation's strategic and high-risk contracts, such as the electronic patient record and cloud hosting, and leads relationships with key suppliers.
 
@@ -109,7 +111,7 @@ Manages the organisation's strategic and high-risk contracts, such as the electr
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Contract management](../../skills/#proc-contract-management) | This reference | Practitioner | You can:<br>• manage a portfolio of contracts, including clinical and technology contracts<br>• use contract remedies, such as service credits, when performance falls short<br>• manage changes, disputes, and renewals within the procurement rules<br>• plan exit early and test exit plans before contracts end |
+| [Contract management](../../skills/#proc-contract-management) | This reference | Expert | You can:<br>• set the organisation's contract management framework and standards<br>• lead the management of strategic, high-risk contracts<br>• resolve major disputes and decide on termination or re-procurement |
 | [Supplier relationship management](../../skills/#proc-supplier-relationship-management) | This reference | Practitioner | You can:<br>• segment suppliers by risk and value and plan how to manage each group<br>• run strategic reviews with key suppliers, including roadmap and improvement plans<br>• manage supplier risks, such as financial failure, cyber incidents, and supply chain issues |
 | [Exit planning and data return](../../skills/#proc-exit-planning) | This reference | Practitioner | You can:<br>• write exit and transition plans with technical, data, and clinical leads<br>• make sure data is returned in usable, standard formats and then deleted securely<br>• manage transition risks so that care is not disrupted |
 | [Commercial negotiation](../../skills/#proc-negotiation) | This reference | Practitioner | You can:<br>• plan and lead negotiations, setting objectives, limits, and fallback positions<br>• negotiate contract variations, renewals, and settlement of disputes<br>• keep negotiations lawful and well recorded |
@@ -122,73 +124,8 @@ Manages the organisation's strategic and high-risk contracts, such as the electr
 
 ### Typical qualifications and experience
 
-- A recognised procurement or contract management qualification at advanced level, or equivalent experience.
+- A recognised procurement or contract management qualification at advanced level, or a master's degree in a related subject, or equivalent experience.
 - Substantial experience of managing strategic technology or outsourced service contracts.
-
-### Band outline
-
-- **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
-- **Scope:** Several products or services, or a specialist function.
-- **Leadership:** Leads a team or a professional practice area.
-- **Accountability:** Delivery of a service or specialist function, and its budget if held.
-
-### Job evaluation (illustrative)
-
-| # | Factor | Level | Points |
-| --- | --- | --- | --- |
-| 1 | Communication and relationship skills | 5 | 45 |
-| 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
-| 5 | Physical skills | 2 | 15 |
-| 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 4 | 32 |
-| 8 | Responsibility for financial and physical resources | 4 | 32 |
-| 9 | Responsibility for people | 3 | 21 |
-| 10 | Responsibility for information resources | 3 | 16 |
-| 11 | Responsibility for research and development | 1 | 5 |
-| 12 | Freedom to act | 4 | 32 |
-| 13 | Physical effort | 1 | 3 |
-| 14 | Mental effort | 4 | 18 |
-| 15 | Emotional effort | 1 | 5 |
-| 16 | Working conditions | 2 | 7 |
-| | **Total** | | **475** (Band 7: 466–539) |
-
-Financial resources is level 4 because the job manages the spend and assets of high-value service contracts.
-
-## Band 8a: Lead contract manager
-
-Leads contract and supplier management across the organisation, setting the contract management framework and managing the contract team.
-
-### Responsibilities
-
-- Set the organisation's contract management framework, standards, and tools.
-- Lead the contract management team and its portfolio of contracts.
-- Lead the management of the most critical supplier relationships and resolve major disputes.
-- Set standards for exit planning and data return, and lead exits from strategic contracts.
-- Report contract performance, supplier risk, and savings to executive committees.
-- Advise on termination, re-procurement, and supplier failure.
-
-### Skills
-
-| Skill | Source | Expected level | What this level means |
-| --- | --- | --- | --- |
-| [Contract management](../../skills/#proc-contract-management) | This reference | Expert | You can:<br>• set the organisation's contract management framework and standards<br>• lead the management of strategic, high-risk contracts<br>• resolve major disputes and decide on termination or re-procurement |
-| [Supplier relationship management](../../skills/#proc-supplier-relationship-management) | This reference | Expert | You can:<br>• set the organisation's supplier relationship strategy<br>• lead executive relationships with strategic suppliers<br>• lead the response when a critical supplier fails |
-| [Exit planning and data return](../../skills/#proc-exit-planning) | This reference | Expert | You can:<br>• set the organisation's standards for exit, transition, and data return<br>• lead exits from strategic clinical and technology contracts |
-| [Commercial negotiation](../../skills/#proc-negotiation) | This reference | Practitioner | You can:<br>• plan and lead negotiations, setting objectives, limits, and fallback positions<br>• negotiate contract variations, renewals, and settlement of disputes<br>• keep negotiations lawful and well recorded |
-| [Public procurement rules and policy](../../skills/#proc-procurement-law-and-policy) | This reference | Practitioner | You can:<br>• advise on the lawful route for complex procurements and contract changes<br>• manage the risk of challenge and handle standstill and debrief correctly<br>• write procurement policy and guidance for the organisation |
-| [Commercial management](../../skills/#pcf-commercial-management) | UK GDaD PCF | Practitioner | You can:<br>• take responsibility for complex relationships with contracted suppliers<br>• identify appropriate contractual frameworks and identify appropriate suppliers<br>• negotiate with contracted suppliers<br>• get good value out of contracts and suppliers |
-| [Creating value for money](../../skills/#pcf-creating-value-for-money) | UK GDaD PCF | Practitioner | You can:<br>• advocate for user needs, ensuring user value is balanced against cost and value for the organisation<br>• determine the benefit of a product and persuade others it's the right product to use<br>• write or contribute to business cases<br>• communicate business-value propositions<br>• help others make value-based decisions, influencing the direction of development |
-| [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
-| [Organisational risk management](../../skills/#risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
-| [Understanding health and care services](../../skills/#health-care-context) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognise when a change could affect patient care and raise it |
-
-### Typical qualifications and experience
-
-- A recognised procurement or contract management qualification at advanced level, or equivalent experience.
-- Extensive experience of leading contract management for complex services.
 
 ### Band outline
 
@@ -219,6 +156,73 @@ Leads contract and supplier management across the organisation, setting the cont
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
 | | **Total** | | **553** (Band 8a: 540–584) |
+
+Health-sector adverts place this role at Band 8a. Knowledge, analysis, and freedom to act are scored at the Band 8a profile because the job manages the organisation's strategic contracts with little supervision. Financial resources is level 4 because the job manages the spend and assets of high-value service contracts.
+
+## Band 8b: Lead contract manager
+
+Leads contract and supplier management across the organisation, setting the contract management framework and managing the contract team.
+
+### Responsibilities
+
+- Set the organisation's contract management framework, standards, and tools.
+- Lead the contract management team and its portfolio of contracts.
+- Lead the management of the most critical supplier relationships and resolve major disputes.
+- Set standards for exit planning and data return, and lead exits from strategic contracts.
+- Report contract performance, supplier risk, and savings to executive committees.
+- Advise on termination, re-procurement, and supplier failure.
+
+### Skills
+
+| Skill | Source | Expected level | What this level means |
+| --- | --- | --- | --- |
+| [Contract management](../../skills/#proc-contract-management) | This reference | Expert | You can:<br>• set the organisation's contract management framework and standards<br>• lead the management of strategic, high-risk contracts<br>• resolve major disputes and decide on termination or re-procurement |
+| [Supplier relationship management](../../skills/#proc-supplier-relationship-management) | This reference | Expert | You can:<br>• set the organisation's supplier relationship strategy<br>• lead executive relationships with strategic suppliers<br>• lead the response when a critical supplier fails |
+| [Exit planning and data return](../../skills/#proc-exit-planning) | This reference | Expert | You can:<br>• set the organisation's standards for exit, transition, and data return<br>• lead exits from strategic clinical and technology contracts |
+| [Commercial negotiation](../../skills/#proc-negotiation) | This reference | Expert | You can:<br>• lead high-value, high-risk negotiations with strategic suppliers<br>• coach others in negotiation and set the organisation's negotiation approach |
+| [Public procurement rules and policy](../../skills/#proc-procurement-law-and-policy) | This reference | Practitioner | You can:<br>• advise on the lawful route for complex procurements and contract changes<br>• manage the risk of challenge and handle standstill and debrief correctly<br>• write procurement policy and guidance for the organisation |
+| [Commercial management](../../skills/#pcf-commercial-management) | UK GDaD PCF | Expert | You can:<br>• act as the escalation point and resolve large or high risk commercial management issues<br>• coach others in appropriate commercial management |
+| [Creating value for money](../../skills/#pcf-creating-value-for-money) | UK GDaD PCF | Practitioner | You can:<br>• advocate for user needs, ensuring user value is balanced against cost and value for the organisation<br>• determine the benefit of a product and persuade others it's the right product to use<br>• write or contribute to business cases<br>• communicate business-value propositions<br>• help others make value-based decisions, influencing the direction of development |
+| [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
+| [Organisational risk management](../../skills/#risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Understanding health and care services](../../skills/#health-care-context) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognise when a change could affect patient care and raise it |
+
+### Typical qualifications and experience
+
+- A recognised procurement or contract management qualification at advanced level, or a master's degree in a related subject, or equivalent experience.
+- Extensive experience of leading contract management for complex services.
+
+### Band outline
+
+- **Knowledge:** Expert knowledge across several disciplines or a large service.
+- **Autonomy:** Shapes policy and strategy for a large area.
+- **Scope:** Several services or teams, or a principal-level discipline.
+- **Leadership:** Manages managers, or is the principal authority in a discipline.
+- **Accountability:** Several services, their staff, and their budgets.
+
+### Job evaluation (illustrative)
+
+| # | Factor | Level | Points |
+| --- | --- | --- | --- |
+| 1 | Communication and relationship skills | 5 | 45 |
+| 2 | Knowledge, training, and experience | 7 | 196 |
+| 3 | Analytical and judgemental skills | 5 | 60 |
+| 4 | Planning and organisational skills | 5 | 60 |
+| 5 | Physical skills | 2 | 15 |
+| 6 | Responsibility for patient and client care | 1 | 4 |
+| 7 | Responsibility for policy and service development | 4 | 32 |
+| 8 | Responsibility for financial and physical resources | 5 | 45 |
+| 9 | Responsibility for people | 4 | 32 |
+| 10 | Responsibility for information resources | 3 | 16 |
+| 11 | Responsibility for research and development | 2 | 12 |
+| 12 | Freedom to act | 5 | 45 |
+| 13 | Physical effort | 1 | 3 |
+| 14 | Mental effort | 4 | 18 |
+| 15 | Emotional effort | 1 | 5 |
+| 16 | Working conditions | 2 | 7 |
+| | **Total** | | **595** (Band 8b: 585–629) |
+
+Health-sector adverts place this role at Band 8b. Planning is level 5 for the organisation-wide contract management framework, financial resources is level 5 because the job oversees contracts across many services, and people is level 4 because it line manages the contract team.
 
 ## ESCO occupations and skills
 

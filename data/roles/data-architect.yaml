@@ -14,22 +14,24 @@ health_context:
 levels:
   - pcf_level: Data architect
     title: Data architect
-    band: "7"
+    band: 8a
     responsibilities:
       - Design logical and physical data models for clinical and operational data, using clinical terminologies where needed.
       - Design data flows and data platform components, such as warehouse, lakehouse, and integration layers.
       - Define metadata, data dictionary entries, and lineage for the datasets in your area.
       - Design de-identification and access controls so that data is used only for its lawful purpose.
       - Work with data quality and clinical coding colleagues to fix structural causes of poor data.
+      - Guide data engineers and analysts on data models and standards.
     skills:
       - {skill: health-care-context, level: working}
       - {skill: clinical-terminology, level: working}
-      - {skill: health-data-interoperability, level: working}
+      - {skill: health-data-interoperability, level: practitioner}
       - {skill: information-governance, level: practitioner}
       - {skill: data-quality, level: working}
     qualifications:
       - Substantial experience of data modelling and data platform design, at a level equivalent to a master's degree.
-    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts place this role at Band 8a. Planning, policy, and freedom to act are scored above the Band 7 profile because the job designs data platforms and controls used across many services."
 
   - pcf_level: Senior data architect
     title: Senior data architect

@@ -35,6 +35,10 @@ The rule is stored in `grade_to_band` in [`data/bands.yaml`](../../data/bands.ya
 
 Role files can change a suggested band. They do so mainly when two PCF levels would otherwise fall in the same band. For example, the PCF shows G7/G6 for both lead developer and principal developer, so this reference puts lead developer at Band 8a and principal developer at Band 8b. Every change is explained in the role level's `job_evaluation_notes`.
 
+### Changes after checking real adverts
+
+A sample of 75 real health-sector job adverts showed that the grade rule under-bands architects in health care, by two to three bands. Architecture role levels are therefore placed above their suggested bands, from Band 6 or 7 for associates up to 8c or 8d for principals. Senior procurement and commercial roles were also raised by one band. See [digital health roles](../digital-health-roles/).
+
 ## Roles without a PCF role
 
 Corporate, clinical informatics, information governance, and cyber security operations roles have no PCF role, so they have no Civil Service grade evidence. Their bands rest on:

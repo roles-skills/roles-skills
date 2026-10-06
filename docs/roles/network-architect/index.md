@@ -3,7 +3,7 @@
 > This is an illustrative reference profile for a generic digital health care organisation. It is not an official job description for any employer, and its job evaluation scores are not a formal evaluation.
 
 **Family:** [Architecture](../../#architecture)  
-**Bands:** 5, 6, 7  
+**Bands:** 6, 7, 8a  
 **UK GDaD PCF role:** [Network architect](https://understand-digital-data-roles-skills.service.gov.uk/role/network-architect/)  
 **ESCO occupations:** [ICT network architect](http://data.europa.eu/esco/occupation/e0b544dd-b621-4126-a55e-054af25c6ea0) (ISCO-08 2523)
 
@@ -29,11 +29,11 @@ Network architects design the local, wide area, wireless, and cloud networks tha
 
 | Band | Title | UK GDaD PCF level | Civil Service grades (PCF) | Job evaluation points |
 | --- | --- | --- | --- | --- |
-| 5 | [Associate network architect](#band-5-associate-network-architect) | Associate network architect | EO/HEO | 334 |
-| 6 | [Network architect](#band-6-network-architect) | Network architect | HEO/SEO | 419 |
-| 7 | [Lead network architect](#band-7-lead-network-architect) | Lead network architect | SEO/G7 | 496 |
+| 6 | [Associate network architect](#band-6-associate-network-architect) | Associate network architect | EO/HEO | 412 |
+| 7 | [Network architect](#band-7-network-architect) | Network architect | HEO/SEO | 496 |
+| 8a | [Lead network architect](#band-8a-lead-network-architect) | Lead network architect | SEO/G7 | 572 |
 
-## Band 5: Associate network architect
+## Band 6: Associate network architect
 
 **UK GDaD PCF level: Associate network architect**
 
@@ -63,45 +63,48 @@ Network architects design the local, wide area, wireless, and cloud networks tha
 | [Systems integration](../../skills/#pcf-systems-integration) | UK GDaD PCF | Awareness | You can:<br>• explain the process and principles of integrating systems.<br>• describe challenges of designing, building and testing interfaces between systems |
 | [Technical understanding](../../skills/#pcf-technical-understanding) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of the relevant subject matter and a high level understanding of what it involves |
 | [Troubleshooting and problem resolution](../../skills/#pcf-troubleshooting-and-problem-resolution) | UK GDaD PCF | Working | You can:<br>• troubleshoot and identify problems across different technology capabilities |
-| [Understanding health and care services](../../skills/#health-care-context) | This reference | Awareness | You can:<br>• describe the main parts of the health and care system and the services the organisation supports<br>• explain why patient safety and confidentiality matter in your work |
+| [Understanding health and care services](../../skills/#health-care-context) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognise when a change could affect patient care and raise it |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Awareness | You can:<br>• follow the organisation's rules for handling personal and health information<br>• recognise and report a data breach or near miss |
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Awareness | You can:<br>• explain how health IT systems can harm patients, for example through wrong, missing, or delayed information<br>• report a possible clinical safety issue through the right route |
 
 ### Typical qualifications and experience
 
 - A degree in computing or networking, a recognised networking qualification, or equivalent experience.
+- Specialist knowledge of network design, at postgraduate diploma level or equivalent experience.
 
 ### Band outline
 
-- **Knowledge:** Professional or technical knowledge, typically from a degree or equivalent experience.
-- **Autonomy:** Works to broad objectives within professional standards; plans own work.
-- **Scope:** Own professional work within a team or product.
-- **Leadership:** May guide and check the work of support staff and apprentices.
-- **Accountability:** Quality of own professional work.
+- **Knowledge:** Specialist knowledge across a range of procedures, built through further training or experience.
+- **Autonomy:** Works independently; interprets policy for own area; seeks advice on complex issues.
+- **Scope:** A product, service, or workstream.
+- **Leadership:** May lead a small team or mentor colleagues.
+- **Accountability:** Outcomes of own workstream and quality of advice given.
 
 ### Job evaluation (illustrative)
 
 | # | Factor | Level | Points |
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
-| 2 | Knowledge, training, and experience | 5 | 120 |
+| 2 | Knowledge, training, and experience | 6 | 156 |
 | 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 4 | Planning and organisational skills | 3 | 27 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 2 | 12 |
+| 7 | Responsibility for policy and service development | 3 | 21 |
 | 8 | Responsibility for financial and physical resources | 1 | 5 |
 | 9 | Responsibility for people | 1 | 5 |
-| 10 | Responsibility for information resources | 4 | 24 |
+| 10 | Responsibility for information resources | 5 | 34 |
 | 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 3 | 21 |
+| 12 | Freedom to act | 4 | 32 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 3 | 12 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **334** (Band 5: 326–395) |
+| | **Total** | | **412** (Band 6: 396–465) |
 
-## Band 6: Network architect
+Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts place this role at Band 6. Knowledge is scored at postgraduate diploma level, and information resources at level 5 because the job designs parts of the network that major information systems depend on.
+
+## Band 7: Network architect
 
 **UK GDaD PCF level: Network architect**
 
@@ -137,28 +140,28 @@ Network architects design the local, wide area, wireless, and cloud networks tha
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Working | You can:<br>• create, change, and remove user accounts and access rights<br>• check access against role-based access rules |
-| [Vulnerability management](../../skills/#vulnerability-management) | This reference | Awareness | You can:<br>• explain why prompt patching and secure configuration matter |
+| [Vulnerability management](../../skills/#vulnerability-management) | This reference | Working | You can:<br>• run vulnerability scans and report the results<br>• track fixes with system owners |
 
 ### Typical qualifications and experience
 
-- A degree in computing or networking, or equivalent experience.
+- Specialist knowledge of network architecture, at master's level or equivalent experience.
 - Experience of designing and supporting enterprise networks.
 
 ### Band outline
 
-- **Knowledge:** Specialist knowledge across a range of procedures, built through further training or experience.
-- **Autonomy:** Works independently; interprets policy for own area; seeks advice on complex issues.
-- **Scope:** A product, service, or workstream.
-- **Leadership:** May lead a small team or mentor colleagues.
-- **Accountability:** Outcomes of own workstream and quality of advice given.
+- **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
+- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Scope:** Several products or services, or a specialist function.
+- **Leadership:** Leads a team or a professional practice area.
+- **Accountability:** Delivery of a service or specialist function, and its budget if held.
 
 ### Job evaluation (illustrative)
 
 | # | Factor | Level | Points |
 | --- | --- | --- | --- |
-| 1 | Communication and relationship skills | 4 | 32 |
-| 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
+| 1 | Communication and relationship skills | 5 | 45 |
+| 2 | Knowledge, training, and experience | 7 | 196 |
+| 3 | Analytical and judgemental skills | 5 | 60 |
 | 4 | Planning and organisational skills | 3 | 27 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
@@ -169,12 +172,14 @@ Network architects design the local, wide area, wireless, and cloud networks tha
 | 11 | Responsibility for research and development | 2 | 12 |
 | 12 | Freedom to act | 4 | 32 |
 | 13 | Physical effort | 1 | 3 |
-| 14 | Mental effort | 3 | 12 |
+| 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **419** (Band 6: 396–465) |
+| | **Total** | | **496** (Band 7: 466–539) |
 
-## Band 7: Lead network architect
+Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts place this role at Band 7. Knowledge is scored at master's level or equivalent for specialist knowledge across local, wide area, wireless, and cloud networks.
+
+## Band 8a: Lead network architect
 
 **UK GDaD PCF level: Lead network architect**
 
@@ -209,12 +214,13 @@ Network architects design the local, wide area, wireless, and cloud networks tha
 | [Systems integration](../../skills/#pcf-systems-integration) | UK GDaD PCF | Practitioner | You can:<br>• define the integration build<br>• co-ordinate build activities across systems<br>• understand how to undertake and support integration testing activities |
 | [Technical understanding](../../skills/#pcf-technical-understanding) | UK GDaD PCF | Expert | You can:<br>• anticipate and advise on future technology changes that present opportunities for the product or programme |
 | [Troubleshooting and problem resolution](../../skills/#pcf-troubleshooting-and-problem-resolution) | UK GDaD PCF | Practitioner | You can:<br>• break a problem down into its component parts to identify and diagnose root causes<br>• troubleshoot and identify problems across different technology capabilities |
-| [Understanding health and care services](../../skills/#health-care-context) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognise when a change could affect patient care and raise it |
+| [Understanding health and care services](../../skills/#health-care-context) | This reference | Practitioner | You can:<br>• analyse how a service fits into care pathways across organisations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Working | You can:<br>• create, change, and remove user accounts and access rights<br>• check access against role-based access rules |
-| [Vulnerability management](../../skills/#vulnerability-management) | This reference | Working | You can:<br>• run vulnerability scans and report the results<br>• track fixes with system owners |
+| [Vulnerability management](../../skills/#vulnerability-management) | This reference | Practitioner | You can:<br>• prioritise vulnerabilities by risk, including to patient services<br>• scope and manage penetration tests and remediation |
 | [Medical device software regulation](../../skills/#medical-device-regulation) | This reference | Awareness | You can:<br>• explain that some health software is regulated as a medical device<br>• know who to ask when a product might be a medical device |
+| [Organisational risk management](../../skills/#risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 
 ### Typical qualifications and experience
 
@@ -222,11 +228,11 @@ Network architects design the local, wide area, wireless, and cloud networks tha
 
 ### Band outline
 
-- **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
-- **Scope:** Several products or services, or a specialist function.
-- **Leadership:** Leads a team or a professional practice area.
-- **Accountability:** Delivery of a service or specialist function, and its budget if held.
+- **Knowledge:** Expert knowledge of a discipline and its management.
+- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Scope:** A service area or a discipline across the organisation.
+- **Leadership:** Manages a team, or leads a discipline without line management.
+- **Accountability:** A service area, its staff, and its budget.
 
 ### Job evaluation (illustrative)
 
@@ -235,20 +241,22 @@ Network architects design the local, wide area, wireless, and cloud networks tha
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
 | 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 4 | Planning and organisational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 3 | 21 |
-| 8 | Responsibility for financial and physical resources | 1 | 5 |
-| 9 | Responsibility for people | 2 | 12 |
-| 10 | Responsibility for information resources | 5 | 34 |
-| 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 4 | 32 |
+| 7 | Responsibility for policy and service development | 4 | 32 |
+| 8 | Responsibility for financial and physical resources | 2 | 12 |
+| 9 | Responsibility for people | 3 | 21 |
+| 10 | Responsibility for information resources | 6 | 46 |
+| 11 | Responsibility for research and development | 3 | 21 |
+| 12 | Freedom to act | 5 | 45 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **496** (Band 7: 466–539) |
+| | **Total** | | **572** (Band 8a: 540–584) |
+
+Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts place this role at Band 8a. Information resources is level 6 because the job owns the network architecture that all of the organisation's information systems depend on.
 
 ## ESCO occupations and skills
 

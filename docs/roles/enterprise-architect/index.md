@@ -3,7 +3,7 @@
 > This is an illustrative reference profile for a generic digital health care organisation. It is not an official job description for any employer, and its job evaluation scores are not a formal evaluation.
 
 **Family:** [Architecture](../../#architecture)  
-**Bands:** 6, 7, 8b, 8c  
+**Bands:** 8a, 8b, 8c, 8d  
 **UK GDaD PCF role:** [Enterprise architect](https://understand-digital-data-roles-skills.service.gov.uk/role/enterprise-architect/)  
 **ESCO occupations:** [enterprise architect](http://data.europa.eu/esco/occupation/2bef94db-0088-4507-982a-2ca717529adb) (ISCO-08 2511)
 
@@ -42,12 +42,12 @@ Enterprise architects give the organisation a joined-up view of its services, in
 
 | Band | Title | UK GDaD PCF level | Civil Service grades (PCF) | Job evaluation points |
 | --- | --- | --- | --- | --- |
-| 6 | [Enterprise architect](#band-6-enterprise-architect) | Enterprise architect | HEO/SEO | 419 |
-| 7 | [Senior enterprise architect](#band-7-senior-enterprise-architect) | Senior enterprise architect | SEO/G7 | 496 |
-| 8b | [Lead enterprise architect](#band-8b-lead-enterprise-architect) | Lead enterprise architect | G7/G6 | 613 |
-| 8c | [Principal enterprise architect](#band-8c-principal-enterprise-architect) | Principal enterprise architect | G6 | 662 |
+| 8a | [Enterprise architect](#band-8a-enterprise-architect) | Enterprise architect | HEO/SEO | 560 |
+| 8b | [Senior enterprise architect](#band-8b-senior-enterprise-architect) | Senior enterprise architect | SEO/G7 | 622 |
+| 8c | [Lead enterprise architect](#band-8c-lead-enterprise-architect) | Lead enterprise architect | G7/G6 | 658 |
+| 8d | [Principal enterprise architect](#band-8d-principal-enterprise-architect) | Principal enterprise architect | G6 | 703 |
 
-## Band 6: Enterprise architect
+## Band 8a: Enterprise architect
 
 **UK GDaD PCF level: Enterprise architect**
 
@@ -62,11 +62,12 @@ Enterprise architects give the organisation a joined-up view of its services, in
 
 ### Responsibilities
 
-- Model the organisation's current services, information, applications, and technology for a domain, such as diagnostics or community care.
+- Model the organisation's current and target services, information, applications, and technology for a domain, such as diagnostics or community care.
 - Keep the architecture repository up to date, including application and data flow catalogues.
-- Review proposals against architecture principles and standards, and record the findings for design authorities.
+- Review proposals against architecture principles and standards, and make recommendations to design authorities.
 - Identify where systems duplicate capability or depend on unsupported technology, and raise the risks.
 - Work with solution architects and clinical leads to understand how care pathways use systems.
+- Guide solution architects on how designs fit the domain architecture.
 
 ### Skills
 
@@ -80,47 +81,50 @@ Enterprise architects give the organisation a joined-up view of its services, in
 | [Making architectural decisions](../../skills/#pcf-making-architectural-decisions) | UK GDaD PCF | Working | You can:<br>• work with others to make architectural design decisions characterised by managed levels of risk and complexity<br>• identify and address architectural risks relevant to your team or domain, for example, business, data, or security<br>• engage with architectural governance and assurance to effectively manage decisions and risks, with support |
 | [Problem definition and shaping](../../skills/#pcf-problem-definition-and-shaping) | UK GDaD PCF | Working | You can:<br>• help to frame a problem characterised by managed levels of complexity, complication, or risk so that a solution can be created<br>• help to create options for solving problems at an appropriate level of detail |
 | [Strategy design](../../skills/#pcf-strategy-design) | UK GDaD PCF | Working | You can:<br>• support the development of a strategy or vision that aligns with organisational objectives<br>• challenge requirements and assumptions, and identify opportunities to develop strategy<br>• support the implementation of a strategy or vision, for example, by using a roadmap or plan<br>• use architectural principles, patterns, and constraints when appropriate |
-| [Understanding health and care services](../../skills/#health-care-context) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognise when a change could affect patient care and raise it |
-| [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Working | You can:<br>• read and use FHIR resources, profiles, and APIs<br>• build or test simple integrations under guidance<br>• check messages against a specification |
+| [Understanding health and care services](../../skills/#health-care-context) | This reference | Practitioner | You can:<br>• analyse how a service fits into care pathways across organisations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
+| [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Practitioner | You can:<br>• design and build integrations using FHIR, HL7 version 2, and messaging patterns<br>• write and profile FHIR resources and implementation guides<br>• resolve complex mapping and data quality issues between systems |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
-| [Clinical risk management](../../skills/#clinical-safety) | This reference | Awareness | You can:<br>• explain how health IT systems can harm patients, for example through wrong, missing, or delayed information<br>• report a possible clinical safety issue through the right route |
+| [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
+| [Organisational risk management](../../skills/#risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 
 ### Typical qualifications and experience
 
-- A degree in computing, business, or a related subject, or equivalent experience.
-- Experience of architecture, analysis, or technical design in a complex organisation.
+- Substantial experience of architecture, analysis, or technical design in a complex organisation, at a level equivalent to a master's degree.
+- Knowledge of an enterprise architecture framework, such as TOGAF, or equivalent experience.
 
 ### Band outline
 
-- **Knowledge:** Specialist knowledge across a range of procedures, built through further training or experience.
-- **Autonomy:** Works independently; interprets policy for own area; seeks advice on complex issues.
-- **Scope:** A product, service, or workstream.
-- **Leadership:** May lead a small team or mentor colleagues.
-- **Accountability:** Outcomes of own workstream and quality of advice given.
+- **Knowledge:** Expert knowledge of a discipline and its management.
+- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Scope:** A service area or a discipline across the organisation.
+- **Leadership:** Manages a team, or leads a discipline without line management.
+- **Accountability:** A service area, its staff, and its budget.
 
 ### Job evaluation (illustrative)
 
 | # | Factor | Level | Points |
 | --- | --- | --- | --- |
-| 1 | Communication and relationship skills | 4 | 32 |
-| 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 1 | Communication and relationship skills | 5 | 45 |
+| 2 | Knowledge, training, and experience | 7 | 196 |
+| 3 | Analytical and judgemental skills | 5 | 60 |
+| 4 | Planning and organisational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 3 | 21 |
-| 8 | Responsibility for financial and physical resources | 1 | 5 |
-| 9 | Responsibility for people | 2 | 12 |
+| 7 | Responsibility for policy and service development | 4 | 32 |
+| 8 | Responsibility for financial and physical resources | 2 | 12 |
+| 9 | Responsibility for people | 3 | 21 |
 | 10 | Responsibility for information resources | 5 | 34 |
-| 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 4 | 32 |
+| 11 | Responsibility for research and development | 3 | 21 |
+| 12 | Freedom to act | 5 | 45 |
 | 13 | Physical effort | 1 | 3 |
-| 14 | Mental effort | 3 | 12 |
+| 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **419** (Band 6: 396–465) |
+| | **Total** | | **560** (Band 8a: 540–584) |
 
-## Band 7: Senior enterprise architect
+Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts place this role at Band 8a. Knowledge, analysis, planning, policy, and freedom to act are scored at the Band 8a profile because the job shapes target architectures and advises design authorities for a whole domain.
+
+## Band 8b: Senior enterprise architect
 
 **UK GDaD PCF level: Senior enterprise architect**
 
@@ -143,6 +147,7 @@ Enterprise architects give the organisation a joined-up view of its services, in
 - Lead architecture reviews at design authorities and make recommendations on significant proposals.
 - Plan the replacement or retirement of legacy clinical and corporate systems, including data migration and safety risks.
 - Make sure interoperability, security, and information governance needs are built into roadmaps.
+- Coach and guide enterprise and solution architects.
 
 ### Skills
 
@@ -158,46 +163,48 @@ Enterprise architects give the organisation a joined-up view of its services, in
 | [Strategy design](../../skills/#pcf-strategy-design) | UK GDaD PCF | Practitioner | You can:<br>• define strategies or visions across teams that align with organisational objectives<br>• direct the implementation of a strategy or vision, for example, by creating roadmaps or plans<br>• define architectural principles and patterns<br>• develop or maintain strategy in response to feedback and findings |
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Practitioner | You can:<br>• analyse how a service fits into care pathways across organisations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Practitioner | You can:<br>• design and build integrations using FHIR, HL7 version 2, and messaging patterns<br>• write and profile FHIR resources and implementation guides<br>• resolve complex mapping and data quality issues between systems |
-| [Information governance and data protection](../../skills/#information-governance) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
+| [Information governance and data protection](../../skills/#information-governance) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Organisational risk management](../../skills/#risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 
 ### Typical qualifications and experience
 
-- Substantial experience of enterprise or solution architecture, at a level equivalent to a master's degree.
+- Extensive experience of enterprise or solution architecture across several domains.
 - Knowledge of an enterprise architecture framework, such as TOGAF, or equivalent experience.
 
 ### Band outline
 
-- **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
-- **Scope:** Several products or services, or a specialist function.
-- **Leadership:** Leads a team or a professional practice area.
-- **Accountability:** Delivery of a service or specialist function, and its budget if held.
+- **Knowledge:** Expert knowledge across several disciplines or a large service.
+- **Autonomy:** Shapes policy and strategy for a large area.
+- **Scope:** Several services or teams, or a principal-level discipline.
+- **Leadership:** Manages managers, or is the principal authority in a discipline.
+- **Accountability:** Several services, their staff, and their budgets.
 
 ### Job evaluation (illustrative)
 
 | # | Factor | Level | Points |
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
-| 2 | Knowledge, training, and experience | 7 | 196 |
+| 2 | Knowledge, training, and experience | 8 | 240 |
 | 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 4 | Planning and organisational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 3 | 21 |
-| 8 | Responsibility for financial and physical resources | 1 | 5 |
-| 9 | Responsibility for people | 2 | 12 |
+| 7 | Responsibility for policy and service development | 4 | 32 |
+| 8 | Responsibility for financial and physical resources | 2 | 12 |
+| 9 | Responsibility for people | 3 | 21 |
 | 10 | Responsibility for information resources | 5 | 34 |
-| 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 4 | 32 |
+| 11 | Responsibility for research and development | 3 | 21 |
+| 12 | Freedom to act | 5 | 45 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **496** (Band 7: 466–539) |
+| | **Total** | | **622** (Band 8b: 585–629) |
 
-## Band 8b: Lead enterprise architect
+Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts place this role at Band 8b. Planning is level 5 for long-term roadmaps with effects across the organisation; knowledge is level 8 for knowledge across business, information, application, and technology architecture.
+
+## Band 8c: Lead enterprise architect
 
 **UK GDaD PCF level: Lead enterprise architect**
 
@@ -235,9 +242,10 @@ Enterprise architects give the organisation a joined-up view of its services, in
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Practitioner | You can:<br>• analyse how a service fits into care pathways across organisations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Practitioner | You can:<br>• design and build integrations using FHIR, HL7 version 2, and messaging patterns<br>• write and profile FHIR resources and implementation guides<br>• resolve complex mapping and data quality issues between systems |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
-| [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
+| [Clinical risk management](../../skills/#clinical-safety) | This reference | Practitioner | You can:<br>• lead hazard identification and risk assessment for a product or change<br>• write and maintain hazard logs and clinical safety case reports<br>• agree risk controls with product teams and check that they work<br>• advise teams on applying clinical risk management standards |
 | [Organisational risk management](../../skills/#risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
+| [Budget management](../../skills/#budget-management) | This reference | Working | You can:<br>• track spending against a small budget and raise variances<br>• authorise spending within your limit |
 
 ### Typical qualifications and experience
 
@@ -245,11 +253,11 @@ Enterprise architects give the organisation a joined-up view of its services, in
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge across several disciplines or a large service.
-- **Autonomy:** Shapes policy and strategy for a large area.
-- **Scope:** Several services or teams, or a principal-level discipline.
-- **Leadership:** Manages managers, or is the principal authority in a discipline.
-- **Accountability:** Several services, their staff, and their budgets.
+- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Autonomy:** Sets strategy for a function; accountable to a director.
+- **Scope:** A function or department.
+- **Leadership:** Leads a function through several management layers.
+- **Accountability:** A function's performance, workforce, and budget.
 
 ### Job evaluation (illustrative)
 
@@ -258,22 +266,24 @@ Enterprise architects give the organisation a joined-up view of its services, in
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
 | 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 4 | Planning and organisational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 4 | 32 |
+| 7 | Responsibility for policy and service development | 5 | 45 |
 | 8 | Responsibility for financial and physical resources | 3 | 21 |
-| 9 | Responsibility for people | 3 | 21 |
-| 10 | Responsibility for information resources | 5 | 34 |
-| 11 | Responsibility for research and development | 3 | 21 |
+| 9 | Responsibility for people | 4 | 32 |
+| 10 | Responsibility for information resources | 6 | 46 |
+| 11 | Responsibility for research and development | 2 | 12 |
 | 12 | Freedom to act | 5 | 45 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **613** (Band 8b: 585–629) |
+| | **Total** | | **658** (Band 8c: 630–674) |
 
-## Band 8c: Principal enterprise architect
+Banded above the UK GDaD PCF grade suggestion (Band 8b): health-sector adverts place this role at Band 8c. Information resources is level 6 because the job manages the architecture of information systems across a major part of the organisation; policy and people are above the Band 8b profile because it sets standards for all projects and leads enterprise architects.
+
+## Band 8d: Principal enterprise architect
 
 **UK GDaD PCF level: Principal enterprise architect**
 
@@ -312,11 +322,11 @@ Enterprise architects give the organisation a joined-up view of its services, in
 | [Strategy design](../../skills/#pcf-strategy-design) | UK GDaD PCF | Expert | You can:<br>• define and connect strategies or visions across the organisation or wider government<br>• enable the implementation of strategies or visions across the organisation or wider government, for example, by advocating for resources and removing blockers |
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Expert | You can:<br>• shape organisational strategy using a deep understanding of the health and care system<br>• represent the organisation with health and care partners and leaders<br>• anticipate how policy and service changes will affect digital services and care |
 | [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Expert | You can:<br>• set interoperability standards and strategy for the organisation<br>• lead national or cross-organisation standards work<br>• assure the design of critical integrations across many systems |
-| [Information governance and data protection](../../skills/#information-governance) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
+| [Information governance and data protection](../../skills/#information-governance) | This reference | Expert | You can:<br>• set information governance policy and strategy<br>• advise the board on information risk and compliance<br>• represent the organisation with regulators and partners |
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Practitioner | You can:<br>• lead hazard identification and risk assessment for a product or change<br>• write and maintain hazard logs and clinical safety case reports<br>• agree risk controls with product teams and check that they work<br>• advise teams on applying clinical risk management standards |
 | [Organisational risk management](../../skills/#risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
-| [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
-| [Budget management](../../skills/#budget-management) | This reference | Working | You can:<br>• track spending against a small budget and raise variances<br>• authorise spending within your limit |
+| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organisational change<br>• coach leaders and resolve complex people issues |
+| [Budget management](../../skills/#budget-management) | This reference | Practitioner | You can:<br>• hold and manage a budget, forecasting and explaining variances<br>• build a business case with costs and benefits |
 
 ### Typical qualifications and experience
 
@@ -324,11 +334,11 @@ Enterprise architects give the organisation a joined-up view of its services, in
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
-- **Autonomy:** Sets strategy for a function; accountable to a director.
-- **Scope:** A function or department.
-- **Leadership:** Leads a function through several management layers.
-- **Accountability:** A function's performance, workforce, and budget.
+- **Knowledge:** Strategic knowledge across functions and the wider health and care system.
+- **Autonomy:** Shapes organisation-wide strategy; deputises for a director.
+- **Scope:** A major function or several functions.
+- **Leadership:** Leads several functions or a large department.
+- **Accountability:** Major functions, large budgets, and organisation-wide risks.
 
 ### Job evaluation (illustrative)
 
@@ -340,17 +350,19 @@ Enterprise architects give the organisation a joined-up view of its services, in
 | 4 | Planning and organisational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 5 | 45 |
+| 7 | Responsibility for policy and service development | 6 | 60 |
 | 8 | Responsibility for financial and physical resources | 3 | 21 |
-| 9 | Responsibility for people | 3 | 21 |
+| 9 | Responsibility for people | 4 | 32 |
 | 10 | Responsibility for information resources | 6 | 46 |
 | 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 5 | 45 |
+| 12 | Freedom to act | 6 | 60 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **662** (Band 8c: 630–674) |
+| | **Total** | | **703** (Band 8d: 675–720) |
+
+Banded above the UK GDaD PCF grade suggestion (Band 8c): health-sector adverts place this role at Band 8d. Policy and freedom to act are level 6 because the job holds corporate responsibility for the organisation's architecture vision, principles, and strategy.
 
 ## ESCO occupations and skills
 

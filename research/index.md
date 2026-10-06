@@ -8,6 +8,7 @@ Notes on the frameworks and methods behind this reference.
 - [Band mapping](band-mapping/): how bands relate to PCF levels, Civil Service grades, SFIA, and job evaluation
 - [Job evaluation](job-evaluation/): the 16 factors, scoring principles, and calibration
 - [SFIA](sfia/): levels of responsibility
+- [Digital health roles](digital-health-roles/): a sample of 75 real job adverts, compared with this reference
 
 Data tables:
 

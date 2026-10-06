@@ -111,6 +111,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to add or change roles and skills.
 - [Band mapping](research/band-mapping/): how bands relate to PCF levels, Civil Service grades, SFIA, and job evaluation
 - [Job evaluation](research/job-evaluation/): the 16 factors, scoring principles, and calibration
 - [SFIA](research/sfia/): levels of responsibility
+- [Digital health roles](research/digital-health-roles/): 75 real job adverts compared with this reference
 
 ## Licence and credits
 

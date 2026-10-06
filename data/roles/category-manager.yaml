@@ -14,7 +14,7 @@ health_context:
   - Category strategies include social value and carbon reduction, such as device reuse and greener data centres.
 levels:
   - title: Category manager (digital and technology)
-    band: "7"
+    band: 8a
     summary: >
       Manages a category of digital and technology spend, such as software,
       cloud, devices, or technology services, with a category strategy agreed
@@ -27,6 +27,7 @@ levels:
       - Negotiate commercial models, such as enterprise licences and consumption-based pricing, and track savings and value.
       - Make sure contracts include interoperability, data ownership, exit, and data return terms that avoid lock-in.
       - Report category performance, risks, and savings to the head of procurement and digital leaders.
+      - Coach and supervise procurement officers and buyers working in the category.
     skills:
       - {skill: proc-category-management, level: practitioner}
       - {skill: proc-technology-procurement, level: practitioner}
@@ -38,14 +39,15 @@ levels:
       - {skill: pcf:creating-value-for-money, level: practitioner}
       - {skill: pcf:stakeholder-relationship-management, level: practitioner}
       - {skill: information-governance, level: working}
+      - {skill: people-management, level: working}
     qualifications:
-      - A recognised procurement professional qualification at advanced level, or equivalent experience.
+      - A recognised procurement professional qualification at advanced level, or a master's degree in a related subject, or equivalent experience.
       - Substantial experience of buying digital and technology services.
-    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 2, information-resources: 3, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
-    job_evaluation_notes: Financial resources is level 4 because the job sets how a major category of the organisation's spending is bought; research is level 2 for regular market analysis.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 3, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Health-sector adverts place this role at Band 8a. Knowledge, analysis, and freedom to act are scored at the Band 8a profile because the job leads the most complex technology procurements in the category. Financial resources is level 4 because the job sets how a major category of the organisation's spending is bought; research is level 2 for regular market analysis.
 
   - title: Senior category manager
-    band: 8a
+    band: 8b
     summary: >
       Manages several categories, or the organisation's largest and riskiest
       category, and leads collaborative buying with other organisations.
@@ -63,17 +65,18 @@ levels:
       - {skill: proc-negotiation, level: expert}
       - {skill: proc-social-value, level: practitioner}
       - {skill: proc-procurement-law-and-policy, level: practitioner}
-      - {skill: pcf:commercial-management, level: practitioner}
+      - {skill: pcf:commercial-management, level: expert}
       - {skill: pcf:creating-value-for-money, level: expert}
-      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: expert}
       - {skill: people-management, level: practitioner}
     qualifications:
-      - A recognised procurement professional qualification at advanced level, or equivalent experience.
+      - A recognised procurement professional qualification at advanced level, or a master's degree in a related subject, or equivalent experience.
       - Extensive experience of category management and complex technology procurement.
-    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 3, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 5, people: 4, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Health-sector adverts place this role at Band 8b. Planning is level 5 for multi-year category strategies, financial resources is level 5 because the job sets how spending is bought across several categories and services, and people is level 4 because it line manages category managers.
 
   - title: Head of category
-    band: 8b
+    band: 8c
     summary: >
       Leads category management across the organisation's spending, setting
       the category approach and managing the category team.
@@ -84,6 +87,7 @@ levels:
       - Report savings, value for money, social value, and commercial risks to executive committees.
       - Lead relationships with public sector buying organisations and framework providers.
       - Hold the budget for the category team.
+      - Advise executive directors on category priorities and the commercial risks of major investments.
     skills:
       - {skill: proc-category-management, level: expert}
       - {skill: proc-technology-procurement, level: expert}
@@ -92,11 +96,11 @@ levels:
       - {skill: proc-social-value, level: practitioner}
       - {skill: pcf:commercial-management, level: expert}
       - {skill: pcf:creating-value-for-money, level: expert}
-      - {skill: pcf:leadership-and-guidance, level: practitioner}
-      - {skill: people-management, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: expert}
+      - {skill: people-management, level: expert}
       - {skill: budget-management, level: practitioner}
     qualifications:
       - A recognised procurement professional qualification at advanced level, or a master's degree in a related subject, or equivalent experience.
       - Extensive experience of leading category teams.
-    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 5, people: 4, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
-    job_evaluation_notes: Financial resources is level 5 because the job sets how spending is bought across several services.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 4, information-resources: 4, research: 2, freedom-to-act: 6, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Health-sector adverts place this role at Band 8c. Communication is level 6 for highly contentious negotiations and executive reporting; policy is level 5 and freedom to act level 6 because the job sets the category management approach for the whole organisation. Financial resources is level 5 because the job sets how spending is bought across several services.

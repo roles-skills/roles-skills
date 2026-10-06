@@ -3,7 +3,7 @@
 > This is an illustrative reference profile for a generic digital health care organisation. It is not an official job description for any employer, and its job evaluation scores are not a formal evaluation.
 
 **Family:** [Procurement and commercial](../../#procurement)  
-**Bands:** 8b, 8c, 8d  
+**Bands:** 8c, 8d, 9  
 **UK GDaD PCF role:** none (this reference defines the role)  
 **ESCO occupations:** [procurement department manager](http://data.europa.eu/esco/occupation/91f93dc4-1b71-4053-b6fb-c579ec19303a) (ISCO-08 1213); [purchasing manager](http://data.europa.eu/esco/occupation/377865f0-c327-4599-8c7e-d428c6588edf) (ISCO-08 1324)
 
@@ -23,11 +23,11 @@ The head of procurement and the commercial leadership team lead how the organisa
 
 | Band | Title | UK GDaD PCF level | Civil Service grades (PCF) | Job evaluation points |
 | --- | --- | --- | --- | --- |
-| 8b | [Head of procurement](#band-8b-head-of-procurement) | — | — | 608 |
-| 8c | [Head of commercial](#band-8c-head-of-commercial) | — | — | 644 |
-| 8d | [Director of procurement and commercial](#band-8d-director-of-procurement-and-commercial) | — | — | 709 |
+| 8c | [Head of procurement](#band-8c-head-of-procurement) | — | — | 646 |
+| 8d | [Head of commercial](#band-8d-head-of-commercial) | — | — | 703 |
+| 9 | [Director of procurement and commercial](#band-9-director-of-procurement-and-commercial) | — | — | 739 |
 
-## Band 8b: Head of procurement
+## Band 8c: Head of procurement
 
 Leads the procurement function, setting procurement procedures and standards and managing the procurement and purchasing teams.
 
@@ -49,30 +49,30 @@ Leads the procurement function, setting procurement procedures and standards and
 | [Tender evaluation](../../skills/#proc-tender-evaluation) | This reference | Expert | You can:<br>• set the organisation's evaluation standards and approach to price and quality<br>• defend evaluation decisions when they are challenged<br>• review evaluations on high-risk procurements |
 | [Category management](../../skills/#proc-category-management) | This reference | Practitioner | You can:<br>• write and deliver a category strategy with budget holders and technical leads<br>• plan the pipeline of procurements and contract renewals for the category<br>• track savings, value, and risks for the category |
 | [Social value and sustainable procurement](../../skills/#proc-social-value) | This reference | Practitioner | You can:<br>• set social value and sustainability criteria that fit the contract<br>• manage supplier commitments, such as local jobs, skills, and carbon reduction<br>• check supply chains for risks such as forced labour and other human rights abuses |
-| [Commercial management](../../skills/#pcf-commercial-management) | UK GDaD PCF | Practitioner | You can:<br>• take responsibility for complex relationships with contracted suppliers<br>• identify appropriate contractual frameworks and identify appropriate suppliers<br>• negotiate with contracted suppliers<br>• get good value out of contracts and suppliers |
+| [Commercial management](../../skills/#pcf-commercial-management) | UK GDaD PCF | Expert | You can:<br>• act as the escalation point and resolve large or high risk commercial management issues<br>• coach others in appropriate commercial management |
 | [Creating value for money](../../skills/#pcf-creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits whilst balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
-| [Leadership and guidance](../../skills/#pcf-leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
+| [Leadership and guidance](../../skills/#pcf-leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organisation, marrying business needs with innovative analysis<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organisation on team dynamics and conflict resolution |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 | [Budget management](../../skills/#budget-management) | This reference | Practitioner | You can:<br>• hold and manage a budget, forecasting and explaining variances<br>• build a business case with costs and benefits |
 
 ### Typical qualifications and experience
 
-- A recognised procurement professional qualification at the highest level, or equivalent experience.
+- A recognised procurement professional qualification at the highest level, or a master's degree in a related subject, or equivalent experience.
 - Extensive experience of leading procurement under public procurement rules.
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge across several disciplines or a large service.
-- **Autonomy:** Shapes policy and strategy for a large area.
-- **Scope:** Several services or teams, or a principal-level discipline.
-- **Leadership:** Manages managers, or is the principal authority in a discipline.
-- **Accountability:** Several services, their staff, and their budgets.
+- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Autonomy:** Sets strategy for a function; accountable to a director.
+- **Scope:** A function or department.
+- **Leadership:** Leads a function through several management layers.
+- **Accountability:** A function's performance, workforce, and budget.
 
 ### Job evaluation (illustrative)
 
 | # | Factor | Level | Points |
 | --- | --- | --- | --- |
-| 1 | Communication and relationship skills | 5 | 45 |
+| 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
 | 3 | Analytical and judgemental skills | 5 | 60 |
 | 4 | Planning and organisational skills | 5 | 60 |
@@ -81,18 +81,18 @@ Leads the procurement function, setting procurement procedures and standards and
 | 7 | Responsibility for policy and service development | 5 | 45 |
 | 8 | Responsibility for financial and physical resources | 5 | 45 |
 | 9 | Responsibility for people | 4 | 32 |
-| 10 | Responsibility for information resources | 3 | 16 |
+| 10 | Responsibility for information resources | 4 | 24 |
 | 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 5 | 45 |
+| 12 | Freedom to act | 6 | 60 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **608** (Band 8b: 585–629) |
+| | **Total** | | **646** (Band 8c: 630–674) |
 
-Policy is level 5 because the job sets procurement procedures for the whole organisation; financial resources is level 5 because it controls how spending is bought across many services.
+Health-sector adverts place this role at Band 8c. Policy is level 5 because the job sets procurement procedures for the whole organisation, and freedom to act is level 6 because it interprets procurement rules and strategy to set the organisation's standards. Financial resources is level 5 because it controls how spending is bought across many services; communication is level 6 for contentious award decisions and challenges.
 
-## Band 8c: Head of commercial
+## Band 8d: Head of commercial
 
 Leads procurement, category management, and contract management together as one commercial function, and sets the commercial strategy.
 
@@ -118,77 +118,12 @@ Leads procurement, category management, and contract management together as one 
 | [Commercial negotiation](../../skills/#proc-negotiation) | This reference | Expert | You can:<br>• lead high-value, high-risk negotiations with strategic suppliers<br>• coach others in negotiation and set the organisation's negotiation approach |
 | [Leadership and guidance](../../skills/#pcf-leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organisation, marrying business needs with innovative analysis<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organisation on team dynamics and conflict resolution |
 | [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organisational change<br>• coach leaders and resolve complex people issues |
-| [Organisational risk management](../../skills/#risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
-
-### Typical qualifications and experience
-
-- A recognised procurement professional qualification at the highest level, or a master's degree in a related subject, or equivalent experience.
-- Extensive experience of leading commercial functions.
-
-### Band outline
-
-- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
-- **Autonomy:** Sets strategy for a function; accountable to a director.
-- **Scope:** A function or department.
-- **Leadership:** Leads a function through several management layers.
-- **Accountability:** A function's performance, workforce, and budget.
-
-### Job evaluation (illustrative)
-
-| # | Factor | Level | Points |
-| --- | --- | --- | --- |
-| 1 | Communication and relationship skills | 6 | 60 |
-| 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
-| 5 | Physical skills | 2 | 15 |
-| 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 5 | 45 |
-| 8 | Responsibility for financial and physical resources | 5 | 45 |
-| 9 | Responsibility for people | 5 | 45 |
-| 10 | Responsibility for information resources | 4 | 24 |
-| 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 5 | 45 |
-| 13 | Physical effort | 1 | 3 |
-| 14 | Mental effort | 4 | 18 |
-| 15 | Emotional effort | 1 | 5 |
-| 16 | Working conditions | 2 | 7 |
-| | **Total** | | **644** (Band 8c: 630–674) |
-
-Communication is level 6 for negotiating highly contentious commercial matters with strategic suppliers.
-
-## Band 8d: Director of procurement and commercial
-
-Is the organisation's senior commercial leader, accountable for procurement and commercial policy, and advises the board on commercial strategy and risk.
-
-### Responsibilities
-
-- Set the organisation's procurement and commercial policy and strategy, approved by the board.
-- Advise the board and executive team on commercial strategy, risk, and the largest contracts and investments.
-- Assure the organisation's compliance with public procurement rules and its readiness to defend challenges.
-- Lead executive relationships with strategic suppliers and public sector buying organisations.
-- Set social value and sustainable procurement goals and report outcomes to the board.
-- Lead and develop the commercial leadership team and the organisation's commercial skills.
-
-### Skills
-
-| Skill | Source | Expected level | What this level means |
-| --- | --- | --- | --- |
-| [Commercial management](../../skills/#pcf-commercial-management) | UK GDaD PCF | Expert | You can:<br>• act as the escalation point and resolve large or high risk commercial management issues<br>• coach others in appropriate commercial management |
-| [Creating value for money](../../skills/#pcf-creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits whilst balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
-| [Public procurement rules and policy](../../skills/#proc-procurement-law-and-policy) | This reference | Expert | You can:<br>• interpret new procurement rules and lead the organisation's response<br>• advise the board on procurement compliance and risk<br>• manage formal challenges with legal advisers |
-| [Supplier relationship management](../../skills/#proc-supplier-relationship-management) | This reference | Expert | You can:<br>• set the organisation's supplier relationship strategy<br>• lead executive relationships with strategic suppliers<br>• lead the response when a critical supplier fails |
-| [Social value and sustainable procurement](../../skills/#proc-social-value) | This reference | Expert | You can:<br>• set the organisation's social value and sustainable procurement policy<br>• report social value and carbon outcomes to the board |
-| [Leadership and guidance](../../skills/#pcf-leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organisation, marrying business needs with innovative analysis<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organisation on team dynamics and conflict resolution |
-| [Financial management](../../skills/#pcf-financial-management) | UK GDaD PCF | Practitioner | You can:<br>• negotiate, influence or set budgets in complex environments<br>• write or input into business cases and can communicate business-value propositions |
-| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organisational change<br>• coach leaders and resolve complex people issues |
-| [Corporate governance and compliance](../../skills/#governance-and-compliance) | This reference | Practitioner | You can:<br>• run the governance cycle for boards and committees<br>• review policies and advise on compliance |
 | [Organisational risk management](../../skills/#risk-management) | This reference | Expert | You can:<br>• design the organisation's risk management framework and appetite<br>• advise the board on strategic risks |
 
 ### Typical qualifications and experience
 
 - A recognised procurement professional qualification at the highest level, or a master's degree in a related subject, or equivalent experience.
-- Extensive experience of leading commercial functions at executive level.
+- Extensive experience of leading commercial functions.
 
 ### Band outline
 
@@ -208,19 +143,85 @@ Is the organisation's senior commercial leader, accountable for procurement and 
 | 4 | Planning and organisational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 6 | 60 |
+| 7 | Responsibility for policy and service development | 5 | 45 |
 | 8 | Responsibility for financial and physical resources | 5 | 45 |
 | 9 | Responsibility for people | 5 | 45 |
 | 10 | Responsibility for information resources | 4 | 24 |
 | 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 5 | 45 |
+| 12 | Freedom to act | 6 | 60 |
+| 13 | Physical effort | 1 | 3 |
+| 14 | Mental effort | 4 | 18 |
+| 15 | Emotional effort | 1 | 5 |
+| 16 | Working conditions | 2 | 7 |
+| | **Total** | | **703** (Band 8d: 675–720) |
+
+Health-sector adverts place this role at Band 8d. Knowledge is level 8 for knowledge across procurement, category management, contract management, and commercial law, and freedom to act is level 6 because the job sets the commercial strategy. Communication is level 6 for negotiating highly contentious commercial matters with strategic suppliers.
+
+## Band 9: Director of procurement and commercial
+
+Is the organisation's senior commercial leader, accountable for procurement and commercial policy, and advises the board on commercial strategy and risk.
+
+### Responsibilities
+
+- Set the organisation's procurement and commercial policy and strategy, approved by the board.
+- Advise the board and executive team on commercial strategy, risk, and the largest contracts and investments.
+- Assure the organisation's compliance with public procurement rules and its readiness to defend challenges.
+- Lead executive relationships with strategic suppliers and public sector buying organisations.
+- Set social value and sustainable procurement goals and report outcomes to the board.
+- Lead and develop the commercial leadership team and the organisation's commercial skills.
+- Be accountable for the organisation's commercial commitments and contract portfolio across all services.
+
+### Skills
+
+| Skill | Source | Expected level | What this level means |
+| --- | --- | --- | --- |
+| [Commercial management](../../skills/#pcf-commercial-management) | UK GDaD PCF | Expert | You can:<br>• act as the escalation point and resolve large or high risk commercial management issues<br>• coach others in appropriate commercial management |
+| [Creating value for money](../../skills/#pcf-creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits whilst balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
+| [Public procurement rules and policy](../../skills/#proc-procurement-law-and-policy) | This reference | Expert | You can:<br>• interpret new procurement rules and lead the organisation's response<br>• advise the board on procurement compliance and risk<br>• manage formal challenges with legal advisers |
+| [Supplier relationship management](../../skills/#proc-supplier-relationship-management) | This reference | Expert | You can:<br>• set the organisation's supplier relationship strategy<br>• lead executive relationships with strategic suppliers<br>• lead the response when a critical supplier fails |
+| [Social value and sustainable procurement](../../skills/#proc-social-value) | This reference | Expert | You can:<br>• set the organisation's social value and sustainable procurement policy<br>• report social value and carbon outcomes to the board |
+| [Leadership and guidance](../../skills/#pcf-leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organisation, marrying business needs with innovative analysis<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organisation on team dynamics and conflict resolution |
+| [Financial management](../../skills/#pcf-financial-management) | UK GDaD PCF | Expert | You can:<br>• influence or create complex budgets across an organisation, programme or product view<br>• manage the budget you are given and make it work |
+| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organisational change<br>• coach leaders and resolve complex people issues |
+| [Corporate governance and compliance](../../skills/#governance-and-compliance) | This reference | Expert | You can:<br>• design the governance framework and advise the board<br>• lead annual governance reporting and assurance |
+| [Organisational risk management](../../skills/#risk-management) | This reference | Expert | You can:<br>• design the organisation's risk management framework and appetite<br>• advise the board on strategic risks |
+
+### Typical qualifications and experience
+
+- A recognised procurement professional qualification at the highest level, or a master's degree in a related subject, or equivalent experience.
+- Extensive experience of leading commercial functions at executive level.
+
+### Band outline
+
+- **Knowledge:** Strategic expertise and system-wide leadership.
+- **Autonomy:** Sets organisation strategy with the executive team.
+- **Scope:** The organisation, and its partners across the system.
+- **Leadership:** Leads a profession or directorate.
+- **Accountability:** Organisation-wide outcomes, budgets, and risks.
+
+### Job evaluation (illustrative)
+
+| # | Factor | Level | Points |
+| --- | --- | --- | --- |
+| 1 | Communication and relationship skills | 6 | 60 |
+| 2 | Knowledge, training, and experience | 8 | 240 |
+| 3 | Analytical and judgemental skills | 5 | 60 |
+| 4 | Planning and organisational skills | 5 | 60 |
+| 5 | Physical skills | 2 | 15 |
+| 6 | Responsibility for patient and client care | 1 | 4 |
+| 7 | Responsibility for policy and service development | 6 | 60 |
+| 8 | Responsibility for financial and physical resources | 6 | 60 |
+| 9 | Responsibility for people | 5 | 45 |
+| 10 | Responsibility for information resources | 4 | 24 |
+| 11 | Responsibility for research and development | 2 | 12 |
+| 12 | Freedom to act | 6 | 60 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 2 | 11 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **709** (Band 8d: 675–720) |
+| | **Total** | | **739** (Band 9: 721–765) |
 
-Policy is level 6 for corporate responsibility for procurement and commercial policy; emotional effort is level 2 for occasional exposure to stressful disputes, supplier failures, and challenges.
+Health-sector adverts place this role at Band 9. Policy is level 6 for corporate responsibility for procurement and commercial policy, financial resources is level 6 for corporate responsibility for the organisation's commercial commitments, and freedom to act is level 6 because the job sets commercial goals and standards. Emotional effort is level 2 for occasional exposure to stressful disputes, supplier failures, and challenges.
 
 ## ESCO occupations and skills
 

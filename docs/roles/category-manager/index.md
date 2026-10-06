@@ -3,7 +3,7 @@
 > This is an illustrative reference profile for a generic digital health care organisation. It is not an official job description for any employer, and its job evaluation scores are not a formal evaluation.
 
 **Family:** [Procurement and commercial](../../#procurement)  
-**Bands:** 7, 8a, 8b  
+**Bands:** 8a, 8b, 8c  
 **UK GDaD PCF role:** none (this reference defines the role)  
 **ESCO occupations:** [procurement category specialist](http://data.europa.eu/esco/occupation/0561328b-875b-4ae2-9ba1-9af9049aef01) (ISCO-08 2422); [public procurement specialist](http://data.europa.eu/esco/occupation/cb4f98c8-6b8d-41d8-87eb-a2a2033a3a25) (ISCO-08 2422)
 
@@ -23,11 +23,11 @@ Category managers plan and manage a category of the organisation's spending, suc
 
 | Band | Title | UK GDaD PCF level | Civil Service grades (PCF) | Job evaluation points |
 | --- | --- | --- | --- | --- |
-| 7 | [Category manager (digital and technology)](#band-7-category-manager-digital-and-technology) | — | — | 473 |
-| 8a | [Senior category manager](#band-8a-senior-category-manager) | — | — | 553 |
-| 8b | [Head of category](#band-8b-head-of-category) | — | — | 595 |
+| 8a | [Category manager (digital and technology)](#band-8a-category-manager-digital-and-technology) | — | — | 553 |
+| 8b | [Senior category manager](#band-8b-senior-category-manager) | — | — | 595 |
+| 8c | [Head of category](#band-8c-head-of-category) | — | — | 646 |
 
-## Band 7: Category manager (digital and technology)
+## Band 8a: Category manager (digital and technology)
 
 Manages a category of digital and technology spend, such as software, cloud, devices, or technology services, with a category strategy agreed with digital leaders.
 
@@ -40,6 +40,7 @@ Manages a category of digital and technology spend, such as software, cloud, dev
 - Negotiate commercial models, such as enterprise licences and consumption-based pricing, and track savings and value.
 - Make sure contracts include interoperability, data ownership, exit, and data return terms that avoid lock-in.
 - Report category performance, risks, and savings to the head of procurement and digital leaders.
+- Coach and supervise procurement officers and buyers working in the category.
 
 ### Skills
 
@@ -55,76 +56,12 @@ Manages a category of digital and technology spend, such as software, cloud, dev
 | [Creating value for money](../../skills/#pcf-creating-value-for-money) | UK GDaD PCF | Practitioner | You can:<br>• advocate for user needs, ensuring user value is balanced against cost and value for the organisation<br>• determine the benefit of a product and persuade others it's the right product to use<br>• write or contribute to business cases<br>• communicate business-value propositions<br>• help others make value-based decisions, influencing the direction of development |
 | [Stakeholder relationship management](../../skills/#pcf-stakeholder-relationship-management) | UK GDaD PCF | Practitioner | You can:<br>• work with the team to develop and maintain an understanding of stakeholders<br>• work with the team to develop and implement stakeholder communications strategies<br>• identify and resolve issues, influence stakeholders and manage relationships effectively<br>• build long-term strategic relationships and communicate clearly and regularly with stakeholders |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
+| [People management](../../skills/#people-management) | This reference | Working | You can:<br>• supervise day-to-day work and give feedback<br>• take part in recruitment and induction<br>• hold regular one-to-one conversations |
 
 ### Typical qualifications and experience
 
-- A recognised procurement professional qualification at advanced level, or equivalent experience.
+- A recognised procurement professional qualification at advanced level, or a master's degree in a related subject, or equivalent experience.
 - Substantial experience of buying digital and technology services.
-
-### Band outline
-
-- **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
-- **Scope:** Several products or services, or a specialist function.
-- **Leadership:** Leads a team or a professional practice area.
-- **Accountability:** Delivery of a service or specialist function, and its budget if held.
-
-### Job evaluation (illustrative)
-
-| # | Factor | Level | Points |
-| --- | --- | --- | --- |
-| 1 | Communication and relationship skills | 5 | 45 |
-| 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
-| 5 | Physical skills | 2 | 15 |
-| 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 4 | 32 |
-| 8 | Responsibility for financial and physical resources | 4 | 32 |
-| 9 | Responsibility for people | 2 | 12 |
-| 10 | Responsibility for information resources | 3 | 16 |
-| 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 4 | 32 |
-| 13 | Physical effort | 1 | 3 |
-| 14 | Mental effort | 4 | 18 |
-| 15 | Emotional effort | 1 | 5 |
-| 16 | Working conditions | 2 | 7 |
-| | **Total** | | **473** (Band 7: 466–539) |
-
-Financial resources is level 4 because the job sets how a major category of the organisation's spending is bought; research is level 2 for regular market analysis.
-
-## Band 8a: Senior category manager
-
-Manages several categories, or the organisation's largest and riskiest category, and leads collaborative buying with other organisations.
-
-### Responsibilities
-
-- Lead category strategies for several categories, or for strategic technology and clinical systems.
-- Lead high-value, high-risk procurements and negotiations, including strategic platforms and enterprise agreements.
-- Lead collaborative procurements with other health and care organisations.
-- Advise digital and clinical leaders on the commercial risks and costs of technology choices.
-- Set social value and sustainability goals for the categories you lead.
-- Line manage and develop category managers and procurement officers.
-
-### Skills
-
-| Skill | Source | Expected level | What this level means |
-| --- | --- | --- | --- |
-| [Category management](../../skills/#proc-category-management) | This reference | Expert | You can:<br>• set the category management approach for the organisation<br>• lead categories with the highest spend and risk, and align them with organisational strategy<br>• work with other organisations on collaborative buying |
-| [Technology and cloud procurement](../../skills/#proc-technology-procurement) | This reference | Expert | You can:<br>• set the organisation's commercial strategy for technology and cloud<br>• lead negotiations on enterprise agreements and strategic platforms<br>• advise digital leaders on the commercial risks of technology choices |
-| [Market analysis and engagement](../../skills/#proc-market-analysis) | This reference | Practitioner | You can:<br>• analyse a supply market, its competition, risks, and trends<br>• lead early market engagement, such as supplier days, without distorting competition<br>• use market evidence to shape requirements and commercial models |
-| [Commercial negotiation](../../skills/#proc-negotiation) | This reference | Expert | You can:<br>• lead high-value, high-risk negotiations with strategic suppliers<br>• coach others in negotiation and set the organisation's negotiation approach |
-| [Social value and sustainable procurement](../../skills/#proc-social-value) | This reference | Practitioner | You can:<br>• set social value and sustainability criteria that fit the contract<br>• manage supplier commitments, such as local jobs, skills, and carbon reduction<br>• check supply chains for risks such as forced labour and other human rights abuses |
-| [Public procurement rules and policy](../../skills/#proc-procurement-law-and-policy) | This reference | Practitioner | You can:<br>• advise on the lawful route for complex procurements and contract changes<br>• manage the risk of challenge and handle standstill and debrief correctly<br>• write procurement policy and guidance for the organisation |
-| [Commercial management](../../skills/#pcf-commercial-management) | UK GDaD PCF | Practitioner | You can:<br>• take responsibility for complex relationships with contracted suppliers<br>• identify appropriate contractual frameworks and identify appropriate suppliers<br>• negotiate with contracted suppliers<br>• get good value out of contracts and suppliers |
-| [Creating value for money](../../skills/#pcf-creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits whilst balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
-| [Stakeholder relationship management](../../skills/#pcf-stakeholder-relationship-management) | UK GDaD PCF | Practitioner | You can:<br>• work with the team to develop and maintain an understanding of stakeholders<br>• work with the team to develop and implement stakeholder communications strategies<br>• identify and resolve issues, influence stakeholders and manage relationships effectively<br>• build long-term strategic relationships and communicate clearly and regularly with stakeholders |
-| [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
-
-### Typical qualifications and experience
-
-- A recognised procurement professional qualification at advanced level, or equivalent experience.
-- Extensive experience of category management and complex technology procurement.
 
 ### Band outline
 
@@ -156,18 +93,20 @@ Manages several categories, or the organisation's largest and riskiest category,
 | 16 | Working conditions | 2 | 7 |
 | | **Total** | | **553** (Band 8a: 540–584) |
 
-## Band 8b: Head of category
+Health-sector adverts place this role at Band 8a. Knowledge, analysis, and freedom to act are scored at the Band 8a profile because the job leads the most complex technology procurements in the category. Financial resources is level 4 because the job sets how a major category of the organisation's spending is bought; research is level 2 for regular market analysis.
 
-Leads category management across the organisation's spending, setting the category approach and managing the category team.
+## Band 8b: Senior category manager
+
+Manages several categories, or the organisation's largest and riskiest category, and leads collaborative buying with other organisations.
 
 ### Responsibilities
 
-- Set the category management approach and the pipeline of procurements across the organisation.
-- Lead and manage category managers and their teams.
-- Make sure category strategies support the organisation's digital, clinical, and financial plans.
-- Report savings, value for money, social value, and commercial risks to executive committees.
-- Lead relationships with public sector buying organisations and framework providers.
-- Hold the budget for the category team.
+- Lead category strategies for several categories, or for strategic technology and clinical systems.
+- Lead high-value, high-risk procurements and negotiations, including strategic platforms and enterprise agreements.
+- Lead collaborative procurements with other health and care organisations.
+- Advise digital and clinical leaders on the commercial risks and costs of technology choices.
+- Set social value and sustainability goals for the categories you lead.
+- Line manage and develop category managers and procurement officers.
 
 ### Skills
 
@@ -175,19 +114,19 @@ Leads category management across the organisation's spending, setting the catego
 | --- | --- | --- | --- |
 | [Category management](../../skills/#proc-category-management) | This reference | Expert | You can:<br>• set the category management approach for the organisation<br>• lead categories with the highest spend and risk, and align them with organisational strategy<br>• work with other organisations on collaborative buying |
 | [Technology and cloud procurement](../../skills/#proc-technology-procurement) | This reference | Expert | You can:<br>• set the organisation's commercial strategy for technology and cloud<br>• lead negotiations on enterprise agreements and strategic platforms<br>• advise digital leaders on the commercial risks of technology choices |
+| [Market analysis and engagement](../../skills/#proc-market-analysis) | This reference | Practitioner | You can:<br>• analyse a supply market, its competition, risks, and trends<br>• lead early market engagement, such as supplier days, without distorting competition<br>• use market evidence to shape requirements and commercial models |
 | [Commercial negotiation](../../skills/#proc-negotiation) | This reference | Expert | You can:<br>• lead high-value, high-risk negotiations with strategic suppliers<br>• coach others in negotiation and set the organisation's negotiation approach |
-| [Public procurement rules and policy](../../skills/#proc-procurement-law-and-policy) | This reference | Expert | You can:<br>• interpret new procurement rules and lead the organisation's response<br>• advise the board on procurement compliance and risk<br>• manage formal challenges with legal advisers |
 | [Social value and sustainable procurement](../../skills/#proc-social-value) | This reference | Practitioner | You can:<br>• set social value and sustainability criteria that fit the contract<br>• manage supplier commitments, such as local jobs, skills, and carbon reduction<br>• check supply chains for risks such as forced labour and other human rights abuses |
+| [Public procurement rules and policy](../../skills/#proc-procurement-law-and-policy) | This reference | Practitioner | You can:<br>• advise on the lawful route for complex procurements and contract changes<br>• manage the risk of challenge and handle standstill and debrief correctly<br>• write procurement policy and guidance for the organisation |
 | [Commercial management](../../skills/#pcf-commercial-management) | UK GDaD PCF | Expert | You can:<br>• act as the escalation point and resolve large or high risk commercial management issues<br>• coach others in appropriate commercial management |
 | [Creating value for money](../../skills/#pcf-creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits whilst balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
-| [Leadership and guidance](../../skills/#pcf-leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
+| [Stakeholder relationship management](../../skills/#pcf-stakeholder-relationship-management) | UK GDaD PCF | Expert | You can:<br>• direct the stakeholder relationship strategy for your teams<br>• ensure stakeholder's objectives are set and support teams to meet them<br>• influence and negotiate with senior stakeholders to resolve issues and enable progress |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
-| [Budget management](../../skills/#budget-management) | This reference | Practitioner | You can:<br>• hold and manage a budget, forecasting and explaining variances<br>• build a business case with costs and benefits |
 
 ### Typical qualifications and experience
 
 - A recognised procurement professional qualification at advanced level, or a master's degree in a related subject, or equivalent experience.
-- Extensive experience of leading category teams.
+- Extensive experience of category management and complex technology procurement.
 
 ### Band outline
 
@@ -219,7 +158,73 @@ Leads category management across the organisation's spending, setting the catego
 | 16 | Working conditions | 2 | 7 |
 | | **Total** | | **595** (Band 8b: 585–629) |
 
-Financial resources is level 5 because the job sets how spending is bought across several services.
+Health-sector adverts place this role at Band 8b. Planning is level 5 for multi-year category strategies, financial resources is level 5 because the job sets how spending is bought across several categories and services, and people is level 4 because it line manages category managers.
+
+## Band 8c: Head of category
+
+Leads category management across the organisation's spending, setting the category approach and managing the category team.
+
+### Responsibilities
+
+- Set the category management approach and the pipeline of procurements across the organisation.
+- Lead and manage category managers and their teams.
+- Make sure category strategies support the organisation's digital, clinical, and financial plans.
+- Report savings, value for money, social value, and commercial risks to executive committees.
+- Lead relationships with public sector buying organisations and framework providers.
+- Hold the budget for the category team.
+- Advise executive directors on category priorities and the commercial risks of major investments.
+
+### Skills
+
+| Skill | Source | Expected level | What this level means |
+| --- | --- | --- | --- |
+| [Category management](../../skills/#proc-category-management) | This reference | Expert | You can:<br>• set the category management approach for the organisation<br>• lead categories with the highest spend and risk, and align them with organisational strategy<br>• work with other organisations on collaborative buying |
+| [Technology and cloud procurement](../../skills/#proc-technology-procurement) | This reference | Expert | You can:<br>• set the organisation's commercial strategy for technology and cloud<br>• lead negotiations on enterprise agreements and strategic platforms<br>• advise digital leaders on the commercial risks of technology choices |
+| [Commercial negotiation](../../skills/#proc-negotiation) | This reference | Expert | You can:<br>• lead high-value, high-risk negotiations with strategic suppliers<br>• coach others in negotiation and set the organisation's negotiation approach |
+| [Public procurement rules and policy](../../skills/#proc-procurement-law-and-policy) | This reference | Expert | You can:<br>• interpret new procurement rules and lead the organisation's response<br>• advise the board on procurement compliance and risk<br>• manage formal challenges with legal advisers |
+| [Social value and sustainable procurement](../../skills/#proc-social-value) | This reference | Practitioner | You can:<br>• set social value and sustainability criteria that fit the contract<br>• manage supplier commitments, such as local jobs, skills, and carbon reduction<br>• check supply chains for risks such as forced labour and other human rights abuses |
+| [Commercial management](../../skills/#pcf-commercial-management) | UK GDaD PCF | Expert | You can:<br>• act as the escalation point and resolve large or high risk commercial management issues<br>• coach others in appropriate commercial management |
+| [Creating value for money](../../skills/#pcf-creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits whilst balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
+| [Leadership and guidance](../../skills/#pcf-leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organisation, marrying business needs with innovative analysis<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organisation on team dynamics and conflict resolution |
+| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organisational change<br>• coach leaders and resolve complex people issues |
+| [Budget management](../../skills/#budget-management) | This reference | Practitioner | You can:<br>• hold and manage a budget, forecasting and explaining variances<br>• build a business case with costs and benefits |
+
+### Typical qualifications and experience
+
+- A recognised procurement professional qualification at advanced level, or a master's degree in a related subject, or equivalent experience.
+- Extensive experience of leading category teams.
+
+### Band outline
+
+- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Autonomy:** Sets strategy for a function; accountable to a director.
+- **Scope:** A function or department.
+- **Leadership:** Leads a function through several management layers.
+- **Accountability:** A function's performance, workforce, and budget.
+
+### Job evaluation (illustrative)
+
+| # | Factor | Level | Points |
+| --- | --- | --- | --- |
+| 1 | Communication and relationship skills | 6 | 60 |
+| 2 | Knowledge, training, and experience | 7 | 196 |
+| 3 | Analytical and judgemental skills | 5 | 60 |
+| 4 | Planning and organisational skills | 5 | 60 |
+| 5 | Physical skills | 2 | 15 |
+| 6 | Responsibility for patient and client care | 1 | 4 |
+| 7 | Responsibility for policy and service development | 5 | 45 |
+| 8 | Responsibility for financial and physical resources | 5 | 45 |
+| 9 | Responsibility for people | 4 | 32 |
+| 10 | Responsibility for information resources | 4 | 24 |
+| 11 | Responsibility for research and development | 2 | 12 |
+| 12 | Freedom to act | 6 | 60 |
+| 13 | Physical effort | 1 | 3 |
+| 14 | Mental effort | 4 | 18 |
+| 15 | Emotional effort | 1 | 5 |
+| 16 | Working conditions | 2 | 7 |
+| | **Total** | | **646** (Band 8c: 630–674) |
+
+Health-sector adverts place this role at Band 8c. Communication is level 6 for highly contentious negotiations and executive reporting; policy is level 5 and freedom to act level 6 because the job sets the category management approach for the whole organisation. Financial resources is level 5 because the job sets how spending is bought across several services.
 
 ## ESCO occupations and skills
 

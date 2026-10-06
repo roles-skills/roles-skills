@@ -619,7 +619,7 @@ You can:
 
 ## Budget management
 
-*This reference. Used in 60 role levels.*
+*This reference. Used in 62 role levels.*
 
 Planning, monitoring, and controlling a budget, including forecasting, managing variances, and following financial rules.
 
@@ -3380,7 +3380,7 @@ You can:
 - improve the practice of inclusive, accessible and environmentally sustainable design in multiple teams or across your organisation against measurable criteria
 - help others understand and mitigate potential barriers, biases and assumptions that may exclude or harm users
 
-**Closest ESCO skills:** [develop strategies for accessibility](http://data.europa.eu/esco/skill/e8ef317f-c880-4c7a-929f-e08053f976bb) (narrow), [develop inclusive communication material](http://data.europa.eu/esco/skill/5bac4bcc-1846-4688-ba02-ad2b51544282) (narrow)
+**Closest ESCO skills:** [develop strategies for accessibility](http://data.europa.eu/esco/skill/e8ef317f-c880-4c7a-929f-e08053f976bb) (narrow), [develop inclusive communication material](http://data.europa.eu/esco/skill/5bac4bcc-1846-4688-ba02-ad2b51544282) (narrow), [ICT accessibility standards](http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033) (narrow)
 
 <a id="pcf-designing-secure-systems"></a>
 
@@ -4914,7 +4914,7 @@ You can:
 
 ## Information governance and data protection
 
-*This reference. Used in 217 role levels.*
+*This reference. Used in 218 role levels.*
 
 Handling personal and health information lawfully, securely, and ethically, including data protection law, confidentiality, consent, data protection impact assessments, and information sharing.
 
@@ -6398,7 +6398,7 @@ You can:
 
 ## Organisational risk management
 
-*This reference. Used in 66 role levels.*
+*This reference. Used in 69 role levels.*
 
 Identifying, assessing, recording, and managing risks to the organisation's objectives, using a risk register and a defined risk appetite.
 
@@ -6506,7 +6506,7 @@ You can:
 
 ## People management
 
-*This reference. Used in 131 role levels.*
+*This reference. Used in 132 role levels.*
 
 Leading, developing, and supporting staff, including recruitment, objectives, appraisal, wellbeing, attendance, and managing performance and conduct fairly.
 

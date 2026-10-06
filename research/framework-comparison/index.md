@@ -57,7 +57,7 @@ Mappings were judged from the PCF skill description, not only its name. Where a 
 | Measure | Count |
 | --- | --- |
 | PCF skills | 186 |
-| Crosswalk rows | 470 |
+| Crosswalk rows | 471 |
 | Distinct ESCO skills used | 301 |
 | ESCO skills used that also appear on the occupations in this reference | 257 |
 | PCF skills with no reasonable ESCO match | 0 |
@@ -69,8 +69,8 @@ Rows by match strength:
 | exact | 17 | 17 |
 | close | 193 | 134 |
 | broad | 33 | 13 |
-| narrow | 227 | 22 |
-| **Total** | **470** | **186** |
+| narrow | 228 | 22 |
+| **Total** | **471** | **186** |
 
 So 151 of 186 PCF skills (81%) have at least one exact or close ESCO match. The other 35 only have broad or narrow matches. Most narrow rows are there because a PCF skill bundles several activities and ESCO splits them into smaller skills, such as data preparation and linkage, which maps to data processing, data cleansing, and data integration.
 
@@ -90,6 +90,10 @@ The ESCO skills used most often are *Agile project management*, *identify ICT us
 | Service management framework knowledge | apply operations for an ITIL-based environment | close |
 | Incident management | manage major incidents | narrow |
 | Data maturity | ICT process quality models | narrow |
+
+### Review of the weakest matches
+
+35 PCF skills have no exact or close ESCO match: their best match is broad or narrow. Each was reviewed on 6 October 2026 with targeted ESCO searches. They are mostly composite skills that combine several ESCO concepts, for example *Commercial management*, which spans contract, supplier, and commercial risk management. Others, such as *Planning*, *Technical understanding*, and *Data maturity*, have no single ESCO counterpart. For these, a set of narrow matches is the honest answer. The review added one match: *ICT accessibility standards* (narrow) for *Designing for everyone*.
 
 ## Gaps in each framework
 

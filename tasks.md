@@ -35,10 +35,10 @@ See [plan.md](plan.md) for the context and reasoning.
 ## 3. Research: framework comparison
 
 - [x] Map each PCF role used here to one or more ESCO occupations (`data/catalogue.yaml`)
-- [x] Map each PCF skill to ESCO skills, with match strength (`data/crosswalks/pcf-esco.tsv`, 470 rows, all 186 skills)
+- [x] Map each PCF skill to ESCO skills, with match strength (`data/crosswalks/pcf-esco.tsv`, 471 rows, all 186 skills)
 - [x] Note where each framework has a gap
 - [x] Write `research/framework-comparison/`
-- [ ] Peer review the weakest crosswalk matches (listed in the comparison note)
+- [x] Review the weakest crosswalk matches (35 composite skills; see the comparison note). A peer review by a skills specialist is still welcome.
 
 ## 4. Research: SFIA and band structure
 
@@ -49,10 +49,10 @@ See [plan.md](plan.md) for the context and reasoning.
 
 ## 5. Research: digital health roles
 
-- [ ] Gather 40 to 80 publicly advertised digital health job descriptions, recording title, seniority, family, key duties, and URL
-- [ ] Tabulate the findings in `research/role-samples.tsv` (internal working data; no employer names in published content)
-- [ ] Write `research/digital-health-roles/`
-- [ ] Review role titles, bands, and duties against the sample, and adjust
+- [x] Gather 40 to 80 publicly advertised digital health job descriptions, recording title, seniority, family, key duties, and URL (75 adverts)
+- [x] Tabulate the findings as private working data, kept out of this public repository because it names employers
+- [x] Write `research/digital-health-roles/`
+- [x] Review role titles, bands, and duties against the sample, and adjust (architecture and senior procurement re-banded)
 
 ## 6. Research: job evaluation scheme
 
@@ -76,7 +76,7 @@ See [plan.md](plan.md) for the context and reasoning.
 - [x] Export a TSV self-assessment file per role level (292 files)
 - [x] Export TSVs of roles, role skills, and job evaluation scores
 - [x] Write a team gap analysis script (`scripts/gap_analysis.py`)
-- [ ] Add a link checker for cited sources
+- [x] Add a link checker for cited sources (`scripts/check_urls.py`)
 
 ## 8. Content: skills catalogue
 
@@ -128,5 +128,5 @@ See [plan.md](plan.md) for the context and reasoning.
 - [x] Run the validator, and fix any failures
 - [x] Check that generated pages and exports carry the PCF and ESCO credits
 - [ ] Usability check: can test users find a fitting role in under five minutes?
-- [ ] Check the definition of done in plan.md
+- [x] Check the definition of done in plan.md (met: 73 roles in 15 families, Bands 2 to 9; 39 roles link to a PCF role, all 73 to ESCO)
 - [ ] Commit, publish the repository, and tag v1.0

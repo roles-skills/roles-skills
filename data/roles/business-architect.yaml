@@ -14,7 +14,7 @@ health_context:
 levels:
   - pcf_level: Trainee business architect
     title: Trainee business architect
-    band: "5"
+    band: "6"
     responsibilities:
       - Learn business architecture methods, such as capability, value stream, and process modelling, through training and practice.
       - Gather information about services and care pathways through interviews, documents, and observation.
@@ -24,13 +24,16 @@ levels:
       - {skill: health-care-context, level: working}
       - {skill: clinical-safety, level: awareness}
       - {skill: equality-diversity-inclusion, level: awareness}
+      - {skill: information-governance, level: awareness}
     qualifications:
       - A degree or equivalent experience in business, analysis, or a related subject.
-    job_evaluation: {communication: 4, knowledge: 5, analytical: 4, planning: 2, physical-skills: 2, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+      - Specialist training in business architecture methods, at postgraduate diploma level or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 1, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts place this role at Band 6. Knowledge is scored at the level the job needs once training is complete enough to do the work."
 
   - pcf_level: Associate business architect
     title: Associate business architect
-    band: "6"
+    band: "7"
     responsibilities:
       - Model capabilities, services, and care pathways for a part of the organisation.
       - Analyse models to find gaps, duplication, and pain points for patients and staff.
@@ -39,17 +42,18 @@ levels:
       - Keep the business architecture repository accurate and linked to application and data models.
     skills:
       - {skill: health-care-context, level: practitioner}
-      - {skill: clinical-safety, level: awareness}
+      - {skill: clinical-safety, level: working}
       - {skill: information-governance, level: awareness}
       - {skill: equality-diversity-inclusion, level: working}
     qualifications:
-      - A degree or equivalent experience in business, analysis, or a related subject.
+      - Specialist knowledge of business architecture or business analysis, at master's level or equivalent experience.
       - Experience of business analysis or service design.
-    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 4, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts place this role at Band 7. Knowledge is scored at master's level or equivalent, because the job models and analyses services and care pathways across teams and organisations."
 
   - pcf_level: Business architect
     title: Business architect
-    band: "7"
+    band: 8a
     responsibilities:
       - Develop current and target business architectures for a major service area, such as urgent care or community services.
       - Translate strategy and policy into capability changes and a roadmap of change.
@@ -61,10 +65,11 @@ levels:
       - {skill: clinical-safety, level: working}
       - {skill: information-governance, level: working}
       - {skill: equality-diversity-inclusion, level: working}
-      - {skill: risk-management, level: working}
+      - {skill: risk-management, level: practitioner}
     qualifications:
       - Substantial experience of business architecture, business analysis, or service design, at a level equivalent to a master's degree.
-    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: "Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts place this role at Band 8a. Planning, policy, and freedom to act are scored above the Band 7 profile because the job turns strategy into a roadmap of change for a major service area."
 
   - pcf_level: Lead business architect
     title: Lead business architect

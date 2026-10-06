@@ -3,7 +3,7 @@
 > This is an illustrative reference profile for a generic digital health care organisation. It is not an official job description for any employer, and its job evaluation scores are not a formal evaluation.
 
 **Family:** [Architecture](../../#architecture)  
-**Bands:** 5, 6, 7, 8b  
+**Bands:** 6, 7, 8a, 8b  
 **UK GDaD PCF role:** [Business architect](https://understand-digital-data-roles-skills.service.gov.uk/role/business-architect/)  
 **ESCO occupations:** [enterprise architect](http://data.europa.eu/esco/occupation/2bef94db-0088-4507-982a-2ca717529adb) (ISCO-08 2511); [ICT business analysis manager](http://data.europa.eu/esco/occupation/4b3201cb-ffc5-4f61-9fc3-5c0f0038fa5f) (ISCO-08 2511)
 
@@ -35,12 +35,12 @@ Business architects build a clear, joined-up view of how the organisation delive
 
 | Band | Title | UK GDaD PCF level | Civil Service grades (PCF) | Job evaluation points |
 | --- | --- | --- | --- | --- |
-| 5 | [Trainee business architect](#band-5-trainee-business-architect) | Trainee business architect | EO/HEO | 334 |
-| 6 | [Associate business architect](#band-6-associate-business-architect) | Associate business architect | SEO | 419 |
-| 7 | [Business architect](#band-7-business-architect) | Business architect | SEO/G7 | 496 |
+| 6 | [Trainee business architect](#band-6-trainee-business-architect) | Trainee business architect | EO/HEO | 412 |
+| 7 | [Associate business architect](#band-7-associate-business-architect) | Associate business architect | SEO | 483 |
+| 8a | [Business architect](#band-8a-business-architect) | Business architect | SEO/G7 | 560 |
 | 8b | [Lead business architect](#band-8b-lead-business-architect) | Lead business architect | G7/G6 | 613 |
 
-## Band 5: Trainee business architect
+## Band 6: Trainee business architect
 
 **UK GDaD PCF level: Trainee business architect**
 
@@ -71,42 +71,46 @@ Business architects build a clear, joined-up view of how the organisation delive
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognise when a change could affect patient care and raise it |
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Awareness | You can:<br>• explain how health IT systems can harm patients, for example through wrong, missing, or delayed information<br>• report a possible clinical safety issue through the right route |
 | [Equality, diversity, and inclusion](../../skills/#equality-diversity-inclusion) | This reference | Awareness | You can:<br>• treat colleagues, patients, and the public with dignity and respect<br>• follow equality and inclusion policies |
+| [Information governance and data protection](../../skills/#information-governance) | This reference | Awareness | You can:<br>• follow the organisation's rules for handling personal and health information<br>• recognise and report a data breach or near miss |
 
 ### Typical qualifications and experience
 
 - A degree or equivalent experience in business, analysis, or a related subject.
+- Specialist training in business architecture methods, at postgraduate diploma level or equivalent experience.
 
 ### Band outline
 
-- **Knowledge:** Professional or technical knowledge, typically from a degree or equivalent experience.
-- **Autonomy:** Works to broad objectives within professional standards; plans own work.
-- **Scope:** Own professional work within a team or product.
-- **Leadership:** May guide and check the work of support staff and apprentices.
-- **Accountability:** Quality of own professional work.
+- **Knowledge:** Specialist knowledge across a range of procedures, built through further training or experience.
+- **Autonomy:** Works independently; interprets policy for own area; seeks advice on complex issues.
+- **Scope:** A product, service, or workstream.
+- **Leadership:** May lead a small team or mentor colleagues.
+- **Accountability:** Outcomes of own workstream and quality of advice given.
 
 ### Job evaluation (illustrative)
 
 | # | Factor | Level | Points |
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
-| 2 | Knowledge, training, and experience | 5 | 120 |
+| 2 | Knowledge, training, and experience | 6 | 156 |
 | 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 4 | Planning and organisational skills | 3 | 27 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 2 | 12 |
+| 7 | Responsibility for policy and service development | 3 | 21 |
 | 8 | Responsibility for financial and physical resources | 1 | 5 |
 | 9 | Responsibility for people | 1 | 5 |
-| 10 | Responsibility for information resources | 4 | 24 |
+| 10 | Responsibility for information resources | 5 | 34 |
 | 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 3 | 21 |
+| 12 | Freedom to act | 4 | 32 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 3 | 12 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **334** (Band 5: 326–395) |
+| | **Total** | | **412** (Band 6: 396–465) |
 
-## Band 6: Associate business architect
+Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts place this role at Band 6. Knowledge is scored at the level the job needs once training is complete enough to do the work.
+
+## Band 7: Associate business architect
 
 **UK GDaD PCF level: Associate business architect**
 
@@ -139,30 +143,30 @@ Business architects build a clear, joined-up view of how the organisation delive
 | [Stakeholder relationship management](../../skills/#pcf-stakeholder-relationship-management) | UK GDaD PCF | Working | You can:<br>• identify important stakeholders and communicate with them clearly and regularly<br>• tailor communication to stakeholders' needs and work with them to build relationships while meeting user needs<br>• build and reach consensus with stakeholders<br>• work to improve stakeholder relationships using evidence to explain decisions |
 | [Strategic thinking](../../skills/#pcf-strategic-thinking) | UK GDaD PCF | Working | You can:<br>• work within a strategic context and communicate how activities meet strategic goals<br>• contribute to the development of strategy and policies |
 | [Understanding health and care services](../../skills/#health-care-context) | This reference | Practitioner | You can:<br>• analyse how a service fits into care pathways across organisations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
-| [Clinical risk management](../../skills/#clinical-safety) | This reference | Awareness | You can:<br>• explain how health IT systems can harm patients, for example through wrong, missing, or delayed information<br>• report a possible clinical safety issue through the right route |
+| [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Awareness | You can:<br>• follow the organisation's rules for handling personal and health information<br>• recognise and report a data breach or near miss |
 | [Equality, diversity, and inclusion](../../skills/#equality-diversity-inclusion) | This reference | Working | You can:<br>• recognise and challenge behaviour that excludes others<br>• consider different needs when you plan your work |
 
 ### Typical qualifications and experience
 
-- A degree or equivalent experience in business, analysis, or a related subject.
+- Specialist knowledge of business architecture or business analysis, at master's level or equivalent experience.
 - Experience of business analysis or service design.
 
 ### Band outline
 
-- **Knowledge:** Specialist knowledge across a range of procedures, built through further training or experience.
-- **Autonomy:** Works independently; interprets policy for own area; seeks advice on complex issues.
-- **Scope:** A product, service, or workstream.
-- **Leadership:** May lead a small team or mentor colleagues.
-- **Accountability:** Outcomes of own workstream and quality of advice given.
+- **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
+- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Scope:** Several products or services, or a specialist function.
+- **Leadership:** Leads a team or a professional practice area.
+- **Accountability:** Delivery of a service or specialist function, and its budget if held.
 
 ### Job evaluation (illustrative)
 
 | # | Factor | Level | Points |
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
-| 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
+| 2 | Knowledge, training, and experience | 7 | 196 |
+| 3 | Analytical and judgemental skills | 5 | 60 |
 | 4 | Planning and organisational skills | 3 | 27 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
@@ -173,12 +177,14 @@ Business architects build a clear, joined-up view of how the organisation delive
 | 11 | Responsibility for research and development | 2 | 12 |
 | 12 | Freedom to act | 4 | 32 |
 | 13 | Physical effort | 1 | 3 |
-| 14 | Mental effort | 3 | 12 |
+| 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **419** (Band 6: 396–465) |
+| | **Total** | | **483** (Band 7: 466–539) |
 
-## Band 7: Business architect
+Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts place this role at Band 7. Knowledge is scored at master's level or equivalent, because the job models and analyses services and care pathways across teams and organisations.
+
+## Band 8a: Business architect
 
 **UK GDaD PCF level: Business architect**
 
@@ -215,7 +221,7 @@ Business architects build a clear, joined-up view of how the organisation delive
 | [Clinical risk management](../../skills/#clinical-safety) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Information governance and data protection](../../skills/#information-governance) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
 | [Equality, diversity, and inclusion](../../skills/#equality-diversity-inclusion) | This reference | Working | You can:<br>• recognise and challenge behaviour that excludes others<br>• consider different needs when you plan your work |
-| [Organisational risk management](../../skills/#risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
+| [Organisational risk management](../../skills/#risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 
 ### Typical qualifications and experience
 
@@ -223,11 +229,11 @@ Business architects build a clear, joined-up view of how the organisation delive
 
 ### Band outline
 
-- **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
-- **Scope:** Several products or services, or a specialist function.
-- **Leadership:** Leads a team or a professional practice area.
-- **Accountability:** Delivery of a service or specialist function, and its budget if held.
+- **Knowledge:** Expert knowledge of a discipline and its management.
+- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Scope:** A service area or a discipline across the organisation.
+- **Leadership:** Manages a team, or leads a discipline without line management.
+- **Accountability:** A service area, its staff, and its budget.
 
 ### Job evaluation (illustrative)
 
@@ -236,20 +242,22 @@ Business architects build a clear, joined-up view of how the organisation delive
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
 | 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 4 | Planning and organisational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
-| 7 | Responsibility for policy and service development | 3 | 21 |
-| 8 | Responsibility for financial and physical resources | 1 | 5 |
-| 9 | Responsibility for people | 2 | 12 |
+| 7 | Responsibility for policy and service development | 4 | 32 |
+| 8 | Responsibility for financial and physical resources | 2 | 12 |
+| 9 | Responsibility for people | 3 | 21 |
 | 10 | Responsibility for information resources | 5 | 34 |
-| 11 | Responsibility for research and development | 2 | 12 |
-| 12 | Freedom to act | 4 | 32 |
+| 11 | Responsibility for research and development | 3 | 21 |
+| 12 | Freedom to act | 5 | 45 |
 | 13 | Physical effort | 1 | 3 |
 | 14 | Mental effort | 4 | 18 |
 | 15 | Emotional effort | 1 | 5 |
 | 16 | Working conditions | 2 | 7 |
-| | **Total** | | **496** (Band 7: 466–539) |
+| | **Total** | | **560** (Band 8a: 540–584) |
+
+Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts place this role at Band 8a. Planning, policy, and freedom to act are scored above the Band 7 profile because the job turns strategy into a roadmap of change for a major service area.
 
 ## Band 8b: Lead business architect
 
