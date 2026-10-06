@@ -1,0 +1,51 @@
+#!/bin/sh
+# Check the repository before a commit or a publish.
+#
+#   bin/check            # report each step
+#   bin/check --quiet    # report only problems
+#
+# 1. Validate data/ (scripts/build.py --check).
+# 2. Check that docs/ and exports/ are up to date with data/.
+# 3. Check that the website's vendored inputs match the monorepo.
+# 4. Check every relative Markdown link.
+# 5. Type-check the website, if its dependencies are installed.
+set -eu
+
+root="$(CDPATH= cd -- "$(dirname -- "$0")/.." && pwd)"
+site="$root/roles-skills.github.io"
+cd "$root"
+
+quiet=""
+[ "${1:-}" = "--quiet" ] && quiet=1
+say() { [ -n "$quiet" ] || echo "check: $*"; }
+fail() { echo "check: $*" >&2; exit 1; }
+
+say "validating data/"
+python3 scripts/build.py --check >/dev/null || { python3 scripts/build.py --check >&2; fail "data/ is not valid"; }
+
+say "checking docs/ and exports/ are up to date"
+tmp="$(mktemp -d)"
+trap 'rm -rf "$tmp"' EXIT
+cp -R docs exports "$tmp/"
+python3 scripts/build.py >/dev/null
+if ! diff -r -q "$tmp/docs" docs >/dev/null || ! diff -r -q "$tmp/exports" exports >/dev/null; then
+    fail "docs/ or exports/ were stale and have been regenerated; review and commit them"
+fi
+
+say "checking the website's vendored inputs"
+cmp -s exports/reference.json "$site/content/reference.json" || fail "roles-skills.github.io/content/ is stale; run roles-skills.github.io/bin/sync"
+diff -r -q exports/self-assessment "$site/static/downloads/self-assessment" >/dev/null || fail "roles-skills.github.io/static/downloads/ is stale; run roles-skills.github.io/bin/sync"
+python3 scripts/cms_config.py "$tmp/config.yml"
+cmp -s "$tmp/config.yml" "$site/static/admin/config.yml" || fail "roles-skills.github.io/static/admin/config.yml is stale; run roles-skills.github.io/bin/sync"
+
+say "checking Markdown links"
+python3 scripts/check_links.py >/dev/null || { python3 scripts/check_links.py >&2; fail "broken Markdown links"; }
+
+if [ -d "$site/node_modules" ]; then
+    say "type-checking the website"
+    (cd "$site" && pnpm --silent check >/dev/null 2>&1) || fail "the website has type errors; run pnpm check in roles-skills.github.io"
+else
+    say "skipping the website type check; run pnpm install in roles-skills.github.io"
+fi
+
+say "ok"

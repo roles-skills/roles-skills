@@ -17,6 +17,8 @@ Inputs (all under data/):
 """
 import collections
 import csv
+import datetime
+import json
 import os
 import re
 import shutil
@@ -283,6 +285,15 @@ def write(path, text):
         f.write(text.rstrip() + "\n")
 
 
+def write_doc(directory, text):
+    """Write a Markdown document as <directory>/index.md, with README.md as a symlink to it."""
+    write(os.path.join(directory, "index.md"), text)
+    readme = os.path.join(directory, "README.md")
+    if os.path.islink(readme) or os.path.exists(readme):
+        os.remove(readme)
+    os.symlink("index.md", readme)
+
+
 def write_tsv(path, header, rows):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", encoding="utf-8", newline="") as f:
@@ -300,7 +311,7 @@ def role_page(d, role):
     meta = d.role_meta[role["id"]]
     pcf = meta.get("pcf_role")
     out = [f"# {meta['title']}", "", f"> {DISCLAIMER}", ""]
-    out += [f"**Family:** [{meta['family_title']}](../index.md#{meta['family']})  ",
+    out += [f"**Family:** [{meta['family_title']}](../../#{meta['family']})  ",
             f"**Bands:** {', '.join(str(l['band']) for l in role['levels'])}  "]
     if pcf:
         pslug = d.pcf_roles[pcf].get("slug", slug(pcf))
@@ -337,7 +348,7 @@ def role_page(d, role):
             sk = d.skills[s["skill"]]
             src = "UK GDaD PCF" if sk["source"] == "pcf" else "This reference"
             meaning = md_escape(sk["levels"][s["level"]])
-            out.append(f"| [{sk['name']}](../skills.md#{slug(sk['id'])}) | {src} | {s['level'].capitalize()} | {meaning} |")
+            out.append(f"| [{sk['name']}](../../skills/#{slug(sk['id'])}) | {src} | {s['level'].capitalize()} | {meaning} |")
         out.append("")
         if level.get("qualifications"):
             out += ["### Typical qualifications and experience", ""] + [f"- {q}" for q in level["qualifications"]] + [""]
@@ -380,13 +391,13 @@ def role_page(d, role):
 
 
 def generate(d):
-    for path in (os.path.join(DOCS, "roles"), os.path.join(EXPORTS, "self-assessment")):
+    for path in [os.path.join(EXPORTS, "self-assessment")] + [os.path.join(DOCS, name) for name in ("roles", "bands", "pcf", "esco", "skills")]:
         shutil.rmtree(path, ignore_errors=True)
 
     footer = ["", "---", "", f"*{DISCLAIMER}*  ", f"*{PCF_CREDIT}*  ", f"*{ESCO_CREDIT}*"]
     all_levels = []  # (role, meta, level)
     for rid, role in d.roles.items():
-        write(os.path.join(DOCS, "roles", f"{rid}.md"), role_page(d, role))
+        write_doc(os.path.join(DOCS, "roles", rid), role_page(d, role))
         for level in role["levels"]:
             all_levels.append((role, d.role_meta[rid], level))
 
@@ -397,11 +408,18 @@ def generate(d):
         for r in family["roles"]:
             role = d.roles.get(r["id"])
             bands = ", ".join(str(l["band"]) for l in role["levels"]) if role else "(not written yet)"
-            name = f"[{r['title']}](roles/{r['id']}.md)" if role else r["title"]
+            name = f"[{r['title']}](roles/{r['id']}/)" if role else r["title"]
             occ = d.esco.get(r["esco"][0])
             out.append(f"| {name} | {bands} | {r.get('pcf_role') or '—'} | {esco_link(occ) if occ else '—'} |")
         out.append("")
-    write(os.path.join(DOCS, "index.md"), "\n".join(out + footer))
+    write_doc(DOCS, "\n".join(out + footer))
+
+    # Roles A to Z
+    out = ["# Roles A to Z", "", f"> {DISCLAIMER}", "", "| Role | Family | Bands |", "| --- | --- | --- |"]
+    for rid, role in sorted(d.roles.items(), key=lambda x: d.role_meta[x[0]]["title"].lower()):
+        m = d.role_meta[rid]
+        out.append(f"| [{m['title']}]({rid}/) | [{m['family_title']}](../#{m['family']}) | {', '.join(str(l['band']) for l in role['levels'])} |")
+    write_doc(os.path.join(DOCS, "roles"), "\n".join(out + footer))
 
     # Index by band
     out = ["# Roles by band", "", f"> {DISCLAIMER}", ""]
@@ -414,19 +432,19 @@ def generate(d):
         if rows:
             out += ["| Role level | Family |", "| --- | --- |"]
             for m, l in sorted(rows, key=lambda x: (x[0]["family_title"], x[1]["title"])):
-                out.append(f"| [{l['title']}](roles/{m['id']}.md#{level_anchor(l)}) | {m['family_title']} |")
+                out.append(f"| [{l['title']}](../roles/{m['id']}/#{level_anchor(l)}) | {m['family_title']} |")
             out.append("")
-    write(os.path.join(DOCS, "bands.md"), "\n".join(out + footer))
+    write_doc(os.path.join(DOCS, "bands"), "\n".join(out + footer))
 
     # Index by PCF role
     out = ["# Roles by UK GDaD PCF role", "", f"> {DISCLAIMER}", "",
            "| PCF family | PCF role | PCF level | Civil Service grades | Role level in this reference | Band |", "| --- | --- | --- | --- | --- | --- |"]
     for r, m, l in sorted(all_levels, key=lambda x: (d.pcf_roles.get(x[1].get("pcf_role") or "", {}).get("family", "~"), x[1].get("pcf_role") or "~", d.band_ids.index(str(x[2]["band"])))):
         if m.get("pcf_role") and l.get("pcf_level"):
-            out.append(f"| {d.pcf_roles[m['pcf_role']]['family']} | {m['pcf_role']} | {l['pcf_level']} | {d.pcf_grades.get((m['pcf_role'], l['pcf_level']), '') or '—'} | [{l['title']}](roles/{m['id']}.md#{level_anchor(l)}) | {l['band']} |")
+            out.append(f"| {d.pcf_roles[m['pcf_role']]['family']} | {m['pcf_role']} | {l['pcf_level']} | {d.pcf_grades.get((m['pcf_role'], l['pcf_level']), '') or '—'} | [{l['title']}](../roles/{m['id']}/#{level_anchor(l)}) | {l['band']} |")
     unused = sorted(set(d.pcf_roles) - {m.get("pcf_role") for m in d.role_meta.values()})
     out += ["", "PCF roles not used in this reference: " + (", ".join(unused) if unused else "none") + "."]
-    write(os.path.join(DOCS, "pcf.md"), "\n".join(out + footer))
+    write_doc(os.path.join(DOCS, "pcf"), "\n".join(out + footer))
 
     # Index by ESCO occupation
     out = ["# Roles by ESCO occupation", "", f"> {DISCLAIMER}", "",
@@ -438,8 +456,8 @@ def generate(d):
     for u, ms in sorted(by_occ.items(), key=lambda x: d.esco.get(x[0], {}).get("label", "")):
         o = d.esco.get(u)
         if o:
-            out.append(f"| {esco_link(o)} | {o['isco_08']} | " + ", ".join(f"[{m['title']}](roles/{m['id']}.md)" if m["id"] in d.roles else m["title"] for m in ms) + " |")
-    write(os.path.join(DOCS, "esco.md"), "\n".join(out + footer))
+            out.append(f"| {esco_link(o)} | {o['isco_08']} | " + ", ".join(f"[{m['title']}](../roles/{m['id']}/)" if m["id"] in d.roles else m["title"] for m in ms) + " |")
+    write_doc(os.path.join(DOCS, "esco"), "\n".join(out + footer))
 
     # Skills catalogue
     used = collections.Counter()
@@ -459,7 +477,7 @@ def generate(d):
             out += [f"**{lv.capitalize()}:**", "", bullets(s["levels"][lv]), ""]
         if s.get("esco"):
             out += ["**Closest ESCO skills:** " + ", ".join(f"[{e['label']}]({e['uri']}) ({e['match']})" for e in s["esco"]), ""]
-    write(os.path.join(DOCS, "skills.md"), "\n".join(out + footer))
+    write_doc(os.path.join(DOCS, "skills"), "\n".join(out + footer))
 
     # Exports
     sa_header = ["role", "role_level", "band", "skill", "skill_source", "pcf_reference", "esco_reference",
@@ -479,13 +497,104 @@ def generate(d):
         write_tsv(os.path.join(EXPORTS, "self-assessment", name), sa_header, rows)
         roles_rows.append([m["family_title"], m["id"], m["title"], l["title"], l["band"], m.get("pcf_role") or "", l.get("pcf_level") or "",
                            d.pcf_grades.get((m.get("pcf_role"), l.get("pcf_level")), ""), "; ".join(d.esco[u]["label"] for u in m["esco"] if u in d.esco),
-                           "; ".join(d.esco[u]["uri"] for u in m["esco"] if u in d.esco), d.jes_total(l), f"docs/roles/{m['id']}.md"])
+                           "; ".join(d.esco[u]["uri"] for u in m["esco"] if u in d.esco), d.jes_total(l), f"docs/roles/{m['id']}/"])
         jes_rows.append([m["id"], l["title"], l["band"]] + [l["job_evaluation"].get(f["id"], "") for f in d.factors] + [d.jes_total(l)])
     write_tsv(os.path.join(EXPORTS, "roles.tsv"),
               ["family", "role_id", "role", "role_level", "band", "pcf_role", "pcf_level", "civil_service_grades", "esco_occupations", "esco_uris", "job_evaluation_points", "page"], roles_rows)
     write_tsv(os.path.join(EXPORTS, "job-evaluation.tsv"), ["role_id", "role_level", "band"] + [f["id"] for f in d.factors] + ["total_points"], jes_rows)
     write_tsv(os.path.join(EXPORTS, "role-skills.tsv"), ["role_id", "role", "role_level", "band", "skill_id", "skill", "expected_level", "expected_level_number"], skill_rows)
+    write_reference_json(d, used)
     return len(d.roles), len(all_levels)
+
+
+def write_reference_json(d, used):
+    """Write exports/reference.json: the whole reference, fully resolved, for the website."""
+    def read_accessed(name):
+        path = os.path.join(DATA, "sources", name, "ACCESSED.txt")
+        return open(path, encoding="utf-8").read().strip().splitlines()[-1].replace("accessed ", "") if os.path.exists(path) else ""
+
+    skills = []
+    for sid, s in sorted(d.skills.items(), key=lambda x: x[1]["name"].lower()):
+        if not used[sid] and s["source"] == "pcf":
+            continue
+        skills.append({"id": sid, "slug": slug(sid), "name": s["name"], "description": s["description"].strip(),
+                       "source": s["source"], "file": d.skill_files.get(sid, ""),
+                       "levels": {lv: s["levels"][lv].strip() for lv in LEVELS}, "esco": s.get("esco", [])})
+
+    occupation_ids = sorted({u for m in d.role_meta.values() for u in m["esco"] if u in d.esco})
+    occupations = []
+    for u in occupation_ids:
+        o = d.esco[u]
+        rel = {"essential": [], "optional": []}
+        for r in sorted(d.esco_skills[u], key=lambda r: r["skill_label"]):
+            rel[r["relation"]].append({"uri": r["skill_uri"], "label": r["skill_label"], "type": r["skill_type"]})
+        occupations.append({"id": u, "uri": o["uri"], "label": o["label"], "code": o["code"], "isco08": o["isco_08"],
+                            "isco08Label": o["isco_08_label"], "description": o["description"],
+                            "alternativeLabels": [x for x in o["alternative_labels"].split("; ") if x], **rel})
+
+    roles = []
+    for family in d.catalogue["families"]:
+        for r in family["roles"]:
+            role = d.roles.get(r["id"])
+            if not role:
+                continue
+            meta = d.role_meta[r["id"]]
+            pcf = meta.get("pcf_role")
+            levels = []
+            for level in role["levels"]:
+                pcf_level = level.get("pcf_level")
+                levels.append({
+                    "slug": slug(level["title"]),
+                    "title": level["title"],
+                    "band": str(level["band"]),
+                    "summary": (level.get("summary") or "").strip(),
+                    "pcfLevel": pcf_level,
+                    "pcfLevelDescription": d.pcf_levels[(pcf, pcf_level)]["description"].strip() if pcf and pcf_level else None,
+                    "civilServiceGrades": d.pcf_grades.get((pcf, pcf_level), "") if pcf else "",
+                    "responsibilities": level["responsibilities"],
+                    "qualifications": level.get("qualifications", []),
+                    "skills": [{"id": s["skill"], "slug": slug(s["skill"]), "level": s["level"], "levelNumber": LEVEL_NUMBER[s["level"]]}
+                               for s in d.level_skills(role, level)],
+                    "jobEvaluation": {f["id"]: str(level["job_evaluation"][f["id"]]) for f in d.factors},
+                    "jobEvaluationPoints": d.jes_total(level),
+                    "jobEvaluationNotes": (level.get("job_evaluation_notes") or "").strip(),
+                    "selfAssessmentFile": f"{meta['id']}--band-{level['band']}--{slug(level['title'])}.tsv",
+                })
+            roles.append({
+                "id": meta["id"], "slug": meta["id"], "title": meta["title"], "family": family["id"],
+                "summary": role["summary"].strip(), "healthContext": role.get("health_context", []),
+                "pcfRole": {"name": pcf, "url": f"{PCF_URL}role/{d.pcf_roles[pcf].get('slug', slug(pcf))}/",
+                            "description": d.pcf_roles[pcf]["description"].strip(), "family": d.pcf_roles[pcf]["family"]} if pcf else None,
+                "esco": [u for u in meta["esco"] if u in d.esco],
+                "levels": levels,
+                "sources": role.get("sources", []),
+            })
+
+    bands = []
+    for b in d.bands["bands"]:
+        lo, hi = d.band_points[b["id"]]
+        bands.append({**b, "civil_service_grades": b.get("civil_service_grades", []), "points": {"min": lo, "max": hi}})
+
+    reference = {
+        "meta": {
+            "title": "Digital health care job roles reference",
+            "disclaimer": DISCLAIMER,
+            "pcf": {"name": "UK Government Digital and Data Profession Capability Framework", "url": PCF_URL,
+                    "accessed": read_accessed("pcf"), "credit": PCF_CREDIT},
+            "esco": {"name": "ESCO", "version": "v1.2.1", "url": ESCO_URL, "accessed": read_accessed("esco"), "credit": ESCO_CREDIT},
+            "levels": [{"id": lv, "number": LEVEL_NUMBER[lv], "name": lv.capitalize()} for lv in LEVELS],
+        },
+        "families": [{"id": f["id"], "title": f["title"], "pcfFamily": f.get("pcf_family"),
+                      "roles": [r["id"] for r in f["roles"] if r["id"] in d.roles]} for f in d.catalogue["families"]],
+        "bands": bands,
+        "factors": [{"id": f["id"], "name": f["name"], "description": f["description"], "levels": f["levels"], "points": f["points"]} for f in d.factors],
+        "skills": skills,
+        "occupations": occupations,
+        "roles": roles,
+    }
+    with open(os.path.join(EXPORTS, "reference.json"), "w", encoding="utf-8", newline="\n") as f:
+        json.dump(reference, f, ensure_ascii=False, indent=1)
+        f.write("\n")
 
 
 def main():

@@ -10,6 +10,17 @@ This guide explains how to add or change roles and skills. All content lives in 
 
 To refresh the source frameworks, run `python3 scripts/fetch_pcf.py` and `python3 scripts/fetch_esco.py`. Then run `python3 scripts/pcf_levels.py` and `python3 scripts/pcf_skills.py` to refresh the research tables.
 
+## Documents: the directory is the slug
+
+Every Markdown document lives in a directory named for its slug, as `<slug>/index.md`, with `README.md` beside it as a symlink to `index.md`. GitHub shows the `README.md` when you open the directory. For example, the product manager role is `docs/roles/product-manager/index.md`, and GitHub shows it at `docs/roles/product-manager/`.
+
+- **Link to the directory, not the file**: `[Product manager](docs/roles/product-manager/)`, and `[Band 7](docs/bands/#band-7)` for a heading.
+- **To add a document**, create `<slug>/index.md`, then `ln -s index.md <slug>/README.md`.
+- **Generated documents** in `docs/` follow the same layout. `scripts/build.py` writes the symlinks.
+- **Exceptions**: the repository's own top-level files (`README.md`, `CONTRIBUTING.md`, `CREDITS.md`, `plan.md`, `tasks.md`) stay at the root, as GitHub expects.
+
+Run `python3 scripts/check_links.py` to check that every relative link resolves.
+
 ## Where things are
 
 | File | What it holds |
@@ -21,7 +32,7 @@ To refresh the source frameworks, run `python3 scripts/fetch_pcf.py` and `python
 | `data/job-evaluation.yaml` | The 16 job evaluation factors, their levels and points, and band points ranges |
 | `research/pcf-role-levels.tsv` | Every UK GDaD PCF role level with its Civil Service grades and suggested band |
 | `research/pcf-skills.tsv` | Every UK GDaD PCF skill with the id to use in role files (`pcf:<slug>`) |
-| `research/job-evaluation.md` | Scoring principles and a typical factor profile for each band |
+| `research/job-evaluation/` | Scoring principles and a typical factor profile for each band |
 | `data/sources/esco/occupation-skills.tsv` | Essential and optional ESCO skills for every occupation in the catalogue, with URIs |
 
 ## Role file format
@@ -61,7 +72,7 @@ sources: []                       # optional; public URLs used
 
 ### Job evaluation
 
-- Score all 16 factors for every level. Start from the typical profile for the band in `research/job-evaluation.md`, then adjust factors to fit the role.
+- Score all 16 factors for every level. Start from the typical profile for the band in `research/job-evaluation/`, then adjust factors to fit the role.
 - The total must fall within the band's points range. The build fails if it doesn't.
 - Score the job, not a person. Most office and digital roles score level 2 for working conditions (near-continuous screen use) and level 1 or 2 for physical effort.
 

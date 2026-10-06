@@ -20,13 +20,13 @@ It is for:
 
 | I want to… | Go to |
 | --- | --- |
-| Find a role like mine | [Role index](docs/index.md), or [roles by band](docs/bands.md) |
-| Find a role by its UK GDaD PCF or ESCO name | [By UK GDaD PCF role](docs/pcf.md), or [by ESCO occupation](docs/esco.md) |
-| Assess myself | [Self-assessment guide](guides/self-assessment.md), then [`exports/self-assessment/`](exports/self-assessment/) |
-| Run a performance review | [Performance review guide](guides/performance-review.md) |
-| Analyse a team's skills gaps | [Gap analysis guide](guides/gap-analysis.md) and [`scripts/gap_analysis.py`](scripts/gap_analysis.py) |
-| Understand the frameworks | [How the frameworks fit together](guides/frameworks.md) |
-| See every skill and its levels | [Skills catalogue](docs/skills.md) |
+| Find a role like mine | [Role index](docs/), or [roles by band](docs/bands/) |
+| Find a role by its UK GDaD PCF or ESCO name | [By UK GDaD PCF role](docs/pcf/), or [by ESCO occupation](docs/esco/) |
+| Assess myself | [Self-assessment guide](guides/self-assessment/), then [`exports/self-assessment/`](exports/self-assessment/) |
+| Run a performance review | [Performance review guide](guides/performance-review/) |
+| Analyse a team's skills gaps | [Gap analysis guide](guides/gap-analysis/) and [`scripts/gap_analysis.py`](scripts/gap_analysis.py) |
+| Understand the frameworks | [How the frameworks fit together](guides/frameworks/) |
+| See every skill and its levels | [Skills catalogue](docs/skills/) |
 
 ## What's included
 
@@ -35,6 +35,18 @@ It is for:
 - **253 skills**: 160 UK GDaD PCF skills used by the roles, plus 93 skills original to this reference for health care and corporate work
 - a **16-factor job evaluation scheme** with band points ranges
 - **ESCO links** for 92 occupations, with their essential and optional skills, and a crosswalk from all 186 UK GDaD PCF skills to ESCO skills
+
+## Website
+
+The reference is published as a static website at <https://roles-skills.github.io>, built from [`roles-skills.github.io/`](roles-skills.github.io/) with SvelteKit 3, the Lily Design System™ and its PickerBar. Each role level page has an interactive self assessment, saved in the reader's browser and exportable as TSV. Editors can change `data/` in a browser through Sveltia CMS at `/admin/`.
+
+```sh
+make build           # python3 scripts/build.py, then roles-skills.github.io/bin/sync
+make check           # bin/check: data, generated files, vendored copies, links, types
+make github-pages    # bin/make-github-pages: check, then git subtree push
+```
+
+See [`spec/monorepo-github-pages/`](spec/monorepo-github-pages/) and [`roles-skills.github.io/spec/`](roles-skills.github.io/spec/).
 
 ## Exports
 
@@ -59,11 +71,14 @@ data/
   crosswalks/pcf-esco.tsv UK GDaD PCF skills matched to ESCO skills
   sources/pcf/            UK GDaD PCF downloads
   sources/esco/           ESCO occupations and occupation skills
-docs/                     generated role pages and indexes
+docs/                     generated role pages and indexes, one <slug>/index.md each
 exports/                  generated TSV files
 guides/                   how-to guides
 research/                 research notes on the frameworks, band mapping, and job evaluation
-scripts/                  fetch, build, and analysis scripts
+scripts/                  fetch, build, CMS config, link check, and analysis scripts
+bin/                      check and publish scripts (see Makefile)
+spec/                     specifications, such as monorepo GitHub Pages publishing
+roles-skills.github.io/   the website (SvelteKit), published by git subtree
 ```
 
 ## Build
@@ -90,12 +105,12 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to add or change roles and skills.
 
 ## Research
 
-- [UK GDaD PCF](research/uk-gdad-pcf.md): structure, roles, levels, skills, grades, and licence
-- [ESCO](research/esco.md): structure, version, data used, and licence
-- [Framework comparison](research/framework-comparison.md): the UK GDaD PCF and ESCO compared, and the skills crosswalk
-- [Band mapping](research/band-mapping.md): how bands relate to PCF levels, Civil Service grades, SFIA, and job evaluation
-- [Job evaluation](research/job-evaluation.md): the 16 factors, scoring principles, and calibration
-- [SFIA](research/sfia.md): levels of responsibility
+- [UK GDaD PCF](research/uk-gdad-pcf/): structure, roles, levels, skills, grades, and licence
+- [ESCO](research/esco/): structure, version, data used, and licence
+- [Framework comparison](research/framework-comparison/): the UK GDaD PCF and ESCO compared, and the skills crosswalk
+- [Band mapping](research/band-mapping/): how bands relate to PCF levels, Civil Service grades, SFIA, and job evaluation
+- [Job evaluation](research/job-evaluation/): the 16 factors, scoring principles, and calibration
+- [SFIA](research/sfia/): levels of responsibility
 
 ## Licence and credits
 

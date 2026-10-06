@@ -19,7 +19,7 @@ See [plan.md](plan.md) for the context and reasoning.
 - [x] List all skills, with descriptions and level definitions (`data/sources/pcf/skills.csv`, `research/pcf-skills.tsv`)
 - [x] Confirm the licence (OGL v3.0) and the attribution wording
 - [x] Record any published SFIA mapping (none published)
-- [x] Write `research/uk-gdad-pcf.md`, with quotations and citations
+- [x] Write `research/uk-gdad-pcf/`, with quotations and citations
 
 ## 2. Research: ESCO
 
@@ -29,7 +29,7 @@ See [plan.md](plan.md) for the context and reasoning.
 - [x] Confirm the licence (Commission Decision 2011/833/EU) and the attribution wording
 - [x] Extract the relevant ESCO occupations, with URIs and ISCO-08 codes (92 occupations)
 - [x] Extract the essential and optional skills for each of those occupations (5,378 links)
-- [x] Write `research/esco.md`
+- [x] Write `research/esco/`
 - [x] Write `scripts/fetch_esco.py`
 
 ## 3. Research: framework comparison
@@ -37,7 +37,7 @@ See [plan.md](plan.md) for the context and reasoning.
 - [x] Map each PCF role used here to one or more ESCO occupations (`data/catalogue.yaml`)
 - [x] Map each PCF skill to ESCO skills, with match strength (`data/crosswalks/pcf-esco.tsv`, 470 rows, all 186 skills)
 - [x] Note where each framework has a gap
-- [x] Write `research/framework-comparison.md`
+- [x] Write `research/framework-comparison/`
 - [ ] Peer review the weakest crosswalk matches (listed in the comparison note)
 
 ## 4. Research: SFIA and band structure
@@ -45,13 +45,13 @@ See [plan.md](plan.md) for the context and reasoning.
 - [x] Summarise the SFIA levels of responsibility (names only; SFIA text is licensed separately)
 - [x] Define the generic Bands 1 to 9, with Band 8 sub-bands 8a to 8d
 - [x] Write a competency outline for each band
-- [x] Write `research/sfia.md` and `data/bands.yaml`
+- [x] Write `research/sfia/` and `data/bands.yaml`
 
 ## 5. Research: digital health roles
 
 - [ ] Gather 40 to 80 publicly advertised digital health job descriptions, recording title, seniority, family, key duties, and URL
 - [ ] Tabulate the findings in `research/role-samples.tsv` (internal working data; no employer names in published content)
-- [ ] Write `research/digital-health-roles.md`
+- [ ] Write `research/digital-health-roles/`
 - [ ] Review role titles, bands, and duties against the sample, and adjust
 
 ## 6. Research: job evaluation scheme
@@ -60,12 +60,12 @@ See [plan.md](plan.md) for the context and reasoning.
 - [x] Define the levels within each factor and the points for each level
 - [x] Define the points range for each band
 - [x] Write scoring guidance
-- [x] Write `research/job-evaluation.md` (with a calibration profile for each band) and `data/job-evaluation.yaml`
+- [x] Write `research/job-evaluation/` (with a calibration profile for each band) and `data/job-evaluation.yaml`
 
 ## 6b. Research: band-to-level mapping
 
 - [x] Draft a mapping from Civil Service grades (as published by the PCF) to bands, and bands to SFIA levels
-- [x] Write down the reasoning in `research/band-mapping.md`
+- [x] Write down the reasoning in `research/band-mapping/`
 - [x] Add the mapping to `data/bands.yaml`
 
 ## 7. Data model and tooling
@@ -107,10 +107,21 @@ See [plan.md](plan.md) for the context and reasoning.
 ## 10. Guides and README
 
 - [x] `README.md`
-- [x] `guides/self-assessment.md`
-- [x] `guides/performance-review.md`
-- [x] `guides/gap-analysis.md`
-- [x] `guides/frameworks.md`
+- [x] `guides/self-assessment/`
+- [x] `guides/performance-review/`
+- [x] `guides/gap-analysis/`
+- [x] `guides/frameworks/`
+
+## 10b. Website
+
+- [x] Create `roles-skills.github.io/`: SvelteKit 3, adapter-static, Lily Design System™ and PickerBar
+- [x] Pages for roles, role levels, families, bands, skills, job evaluation, and about, plus a sitemap
+- [x] Interactive self assessment on every role level page, saved locally and exported as TSV
+- [x] Sveltia CMS at `/admin/`, editing `data/` in the monorepo (`scripts/cms_config.py`)
+- [x] Publishing by git subtree: `Makefile`, `bin/make-github-pages`, `bin/check`, `spec/monorepo-github-pages/`
+- [ ] Create the GitHub repositories `roles-skills/roles-skills` and `roles-skills/roles-skills.github.io`, and enable GitHub Pages (GitHub Actions)
+- [ ] Set up Sveltia CMS authentication for the GitHub backend
+- [ ] First publish: `make github-pages`
 
 ## 11. Validation and release
 
