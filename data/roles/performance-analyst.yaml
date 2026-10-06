@@ -1,0 +1,106 @@
+id: performance-analyst
+summary: >
+  Performance analysts measure how well the organisation's digital health
+  services work for patients, service users, clinicians, and care staff. They
+  set up measurement frameworks, collect and analyse usage and outcome data,
+  and help product teams and service leaders understand whether changes improve
+  access, experience, safety, and efficiency.
+health_context:
+  - Success measures go beyond digital take-up, to include effects on care, such as missed appointments, waiting times, safe triage, and staff time released.
+  - Analytics and tracking on health services can reveal sensitive information, such as which condition a person searched for, so measurement must respect consent, cookie rules, and confidentiality.
+  - Digital services must not widen health inequalities, so analysts look at take-up and outcomes for groups who are less likely to use digital services.
+  - Performance data may be reported to boards, commissioners, and regulators, so definitions must be consistent and well documented.
+levels:
+  - pcf_level: Associate performance analyst
+    title: Associate performance analyst
+    band: "4"
+    responsibilities:
+      - Produce regular reports on how patients and staff use digital services, such as sign-ups, completions, and drop-out points.
+      - Check analytics and tracking data for gaps and errors, and report them to the team.
+      - Follow the organisation's rules on consent and confidentiality when collecting and sharing usage data.
+      - Help product teams answer simple questions about service use.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: data-quality, level: awareness}
+    qualifications:
+      - Good numeracy and some experience of handling or analysing data, or equivalent.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Performance analyst
+    title: Performance analyst
+    band: "6"
+    responsibilities:
+      - Agree with product teams and clinical leads what success looks like for a service, including effects on care and on staff.
+      - Set up and validate analytics, so that tracking is accurate, proportionate, and respects consent.
+      - Combine digital analytics with operational data, such as appointments and referrals, to show the effect of changes.
+      - Analyse take-up and outcomes for different patient groups and highlight risks of digital exclusion.
+      - Present findings to product teams and service leaders and recommend improvements.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: data-quality, level: working}
+      - {skill: data-deidentification, level: awareness}
+      - {skill: equality-diversity-inclusion, level: working}
+    qualifications:
+      - A degree in a numerate subject, or equivalent experience.
+      - Experience of measuring the performance of digital services.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior performance analyst
+    title: Senior performance analyst
+    band: "7"
+    responsibilities:
+      - Lead performance measurement for a group of services or a major programme, such as digital outpatients or online triage.
+      - Design benefits measures with clinical, finance, and operational leads, and track them through delivery.
+      - Choose and configure analytics tools that meet information governance and security requirements.
+      - Present performance evidence to programme boards and senior leaders.
+      - Coach analysts and may line manage one or more performance analysts.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: data-quality, level: practitioner}
+      - {skill: data-deidentification, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+    qualifications:
+      - Substantial experience of performance analysis for digital services, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead performance analyst
+    title: Lead performance analyst
+    band: 8a
+    responsibilities:
+      - Lead a team of performance analysts across a portfolio of digital health services.
+      - Agree consistent definitions for key performance measures, so reports to boards and partners can be compared over time.
+      - Make sure analytics data is accurate, used appropriately, and handled in line with information governance rules.
+      - Use performance evidence to influence portfolio priorities and investment.
+      - Coach and mentor analysts at all levels.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-quality, level: practitioner}
+      - {skill: data-deidentification, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of performance analysis and of leading analysts.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Head of performance analysis
+    title: Head of performance analysis
+    band: 8b
+    responsibilities:
+      - Set the strategy for measuring the performance and benefits of the organisation's digital services.
+      - Define the quality assurance framework for performance analysis and performance reporting.
+      - Advise executive leaders on what performance evidence shows about digital services and patient outcomes.
+      - Work with other analytical professions, such as data analysis and data science, to share methods and data.
+      - Plan the capability of the performance analysis community, including recruitment and development.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-quality, level: expert}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading performance analysis across an organisation.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

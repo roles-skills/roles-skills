@@ -1,0 +1,89 @@
+id: accessibility-specialist
+summary: >
+  Accessibility specialists help the organisation make its digital health
+  services usable by as many people as possible, including disabled people and
+  people with long-term conditions. They test services against accessibility
+  standards and with assistive technologies, advise and train teams, and help
+  embed accessibility into how services, clinical systems, and health
+  information are designed, bought, and built.
+health_context:
+  - Many people who need health and care services most are disabled, older, or living with long-term conditions, so inaccessible services can stop people getting care.
+  - Clinicians and care staff also have access needs, so internal clinical systems, including those bought from suppliers, must be accessible too.
+  - Health information is often complex and published in many formats, such as documents, letters, and video, so specialists help teams make all of it accessible, including easy read and alternative formats.
+  - Accessibility problems in clinical workflows can become safety problems, for example when a warning is not announced by a screen reader, so specialists work with clinical safety officers on these risks.
+levels:
+  - pcf_level: Junior accessibility specialist
+    title: Junior accessibility specialist
+    band: "5"
+    responsibilities:
+      - Test web pages, apps, and documents against accessibility standards, under supervision.
+      - Record and explain accessibility issues clearly so teams can fix them.
+      - Help with testing using assistive technologies, such as screen readers and magnifiers.
+      - Help keep accessibility statements and issue logs up to date.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - Some experience of digital testing, design, or development, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Accessibility specialist
+    title: Accessibility specialist
+    band: "6"
+    responsibilities:
+      - Carry out accessibility audits of patient-facing services, clinical systems, and health information.
+      - Test with a range of assistive technologies and support research with disabled users.
+      - Advise teams on fixes and on accessible patterns for forms, alerts, and safety-critical information.
+      - Review supplier products for accessibility during procurement and acceptance.
+      - Create training and guidance, and coach more junior colleagues.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: pd-safety-critical-design, level: awareness}
+      - {skill: pd-health-content, level: awareness}
+    qualifications:
+      - Experience of accessibility testing and of current accessibility standards, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior accessibility specialist
+    title: Senior accessibility specialist
+    band: "7"
+    responsibilities:
+      - Embed accessibility into teams' ways of working, from discovery to live service.
+      - Contribute to accessibility strategy, including how accessibility is assured in procurement and service assessments.
+      - Work with clinical safety officers where accessibility issues could affect patient safety.
+      - Create and deliver accessibility training for designers, developers, content designers, and suppliers.
+      - Lead or manage other accessibility specialists.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: pd-safety-critical-design, level: working}
+      - {skill: pd-health-content, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Substantial experience of accessibility, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Head of accessibility
+    title: Head of accessibility
+    band: 8b
+    responsibilities:
+      - Set the organisation's accessibility vision, strategy, and standards, for patient-facing and internal services.
+      - Assure compliance with accessibility law and standards across services, and report on it to senior leaders.
+      - Make sure accessibility requirements are part of procurement and supplier contracts for clinical systems.
+      - Influence organisational priorities so that disabled patients and staff are not excluded.
+      - Lead and develop the accessibility team and community of practice.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: equality-diversity-inclusion, level: expert}
+      - {skill: clinical-safety, level: working}
+      - {skill: pd-safety-critical-design, level: working}
+      - {skill: governance-and-compliance, level: practitioner}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading accessibility in a complex organisation.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: There is no Band 8a level, because the UK GDaD PCF places head of accessibility at G7 or G6 and this reference follows the suggested Band 8b.

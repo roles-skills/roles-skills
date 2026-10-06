@@ -1,0 +1,135 @@
+id: devops-engineer
+summary: >
+  DevOps engineers build and run the tools, pipelines, environments, and
+  platforms that let the organisation's teams deliver digital health services
+  safely and often. They automate build, test, release, and infrastructure,
+  make services observable and resilient, and help teams keep clinical systems
+  available when patients and clinicians need them.
+health_context:
+  - Many services support care around the clock, so deployments, monitoring, and recovery must keep downtime to a minimum, including out of hours.
+  - Release pipelines produce evidence for clinical safety cases, such as test results, change records, and the exact version deployed.
+  - Environments may hold confidential health information, so engineers control access, protect secrets, and keep live data out of test environments.
+  - Health services are common targets for cyber attacks, so pipelines and platforms build in security scanning, patching, and tested backups.
+  - Some services must meet strict standards for availability and disaster recovery, agreed with clinical and operational leads.
+levels:
+  - pcf_level: Apprentice DevOps engineer
+    title: Apprentice DevOps engineer
+    band: "4"
+    responsibilities:
+      - Learn the team's pipelines, cloud platforms, and tools through structured training and shadowing.
+      - Make small, well-defined changes to scripts, pipelines, and configuration under close supervision.
+      - Follow change, security, and information governance procedures for every environment.
+      - Help monitor services and report alerts to experienced colleagues.
+      - Work towards an apprenticeship or equivalent qualification.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: awareness}
+    qualifications:
+      - Enrolled on, or working towards, a DevOps, software, or infrastructure apprenticeship or equivalent.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Knowledge is scored at the level the job needs once training is complete enough to do the work.
+
+  - pcf_level: Junior DevOps engineer
+    title: Junior DevOps engineer
+    band: "5"
+    responsibilities:
+      - Build and maintain parts of build, test, and deployment pipelines with guidance.
+      - Write infrastructure as code and automation scripts, and test them before use.
+      - Keep test environments free of live patient data and manage secrets safely.
+      - Respond to monitoring alerts and support incident response under guidance.
+      - Record deployments and changes so they can support clinical safety and audit evidence.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: vulnerability-management, level: awareness}
+    qualifications:
+      - A degree in computing or a related subject, a completed apprenticeship, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests Band 4 for both apprentice and junior levels; this reference places the junior level at Band 5 to avoid two levels in one band, because the job builds pipeline components with less supervision.
+
+  - pcf_level: DevOps engineer
+    title: DevOps engineer
+    band: "6"
+    responsibilities:
+      - Design and build pipelines, environments, and platform components independently.
+      - Automate security checks, such as dependency and container scanning, and act on the results.
+      - Build monitoring, logging, and alerting so teams can see problems before they affect patients and staff.
+      - Plan and test backups, failover, and recovery for services that support care.
+      - Investigate and fix problems in live services, including out-of-hours support where the service needs it.
+      - Mentor junior and apprentice DevOps engineers.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: vulnerability-management, level: working}
+      - {skill: identity-and-access-management, level: working}
+    qualifications:
+      - A degree in computing or a related subject, or equivalent experience.
+      - Experience of building and running automated delivery pipelines and cloud infrastructure.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior DevOps engineer
+    title: Senior DevOps engineer
+    band: "7"
+    responsibilities:
+      - Lead the design of the delivery toolchain and platform for a product or group of services.
+      - Set standards for releases, so that deployments to clinical services are repeatable, reversible, and well evidenced.
+      - Agree availability, recovery time, and recovery point targets with service owners and clinical leads, and design to meet them.
+      - Lead technical incident response and post-incident reviews for the platforms the team runs.
+      - Make sure platforms meet security and information governance requirements, including access control and audit logging.
+      - Coach and develop DevOps engineers in the team.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: practitioner}
+      - {skill: vulnerability-management, level: practitioner}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: security-operations, level: working}
+    qualifications:
+      - Substantial experience of designing and running delivery toolchains and platforms, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 4, knowledge: 7, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead DevOps engineer
+    title: Lead DevOps engineer
+    band: 8b
+    responsibilities:
+      - Lead DevOps and platform engineering for a group of teams, acting as technical owner of the shared platform.
+      - Set the medium-term roadmap for the organisation's delivery tooling, hosting, and observability.
+      - Make sure shared platforms are resilient, secure, and able to meet the availability needs of clinical services.
+      - Manage platform costs and capacity with finance and service owners.
+      - Lead the DevOps community of practice and line manage or lead DevOps engineers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: practitioner}
+      - {skill: vulnerability-management, level: practitioner}
+      - {skill: security-operations, level: working}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading DevOps or platform engineering for complex services.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Principal DevOps engineer
+    title: Principal DevOps engineer
+    band: 8c
+    responsibilities:
+      - Set the strategy for how the organisation builds, releases, hosts, and runs its digital health services.
+      - Advise senior leaders on hosting, resilience, cyber security, and platform investment.
+      - Make sure business continuity and disaster recovery plans for critical clinical services are realistic and tested.
+      - Evaluate and champion new technologies and practices, balancing innovation against safety and stability.
+      - Grow the organisation's DevOps capability, including recruitment, career paths, and skills plans.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: vulnerability-management, level: expert}
+      - {skill: security-operations, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading DevOps and platform engineering across multiple teams or organisations.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

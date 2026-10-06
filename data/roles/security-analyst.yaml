@@ -1,0 +1,90 @@
+id: security-analyst
+summary: >
+  Security operations analysts watch for, investigate, and respond to cyber
+  security threats to the organisation's systems and data. They triage alerts
+  from security monitoring tools, investigate suspicious activity, contain
+  incidents, and help fix weaknesses. In health care, fast detection and
+  response protects clinical services and confidential patient information from
+  attacks such as ransomware.
+health_context:
+  - Health care is a frequent target for ransomware and data theft, and one attack can stop clinical systems across the organisation.
+  - Containment decisions, such as isolating a server or part of the network, must weigh security risk against the effect on patient care, so analysts work with clinical and operational leads.
+  - Networks include medical devices and legacy systems that cannot run security agents or be patched quickly, so analysts rely on network monitoring and compensating controls.
+  - Monitoring covers access to patient records, so analysts help detect inappropriate access by insiders as well as external attacks, working with information governance.
+  - Security monitoring runs around the clock, so analysts may work shifts or on-call rotas.
+levels:
+  - title: Junior security operations analyst
+    band: "5"
+    summary: A junior security operations analyst monitors security alerts, triages them using runbooks, and escalates events, with guidance from experienced analysts.
+    responsibilities:
+      - Monitor alerts from security monitoring and endpoint tools, and triage them using runbooks.
+      - Gather evidence about suspicious activity, such as phishing emails or unusual logins, and escalate it.
+      - Check phishing emails reported by staff, and help remove malicious emails from mailboxes.
+      - Record events and actions accurately in the case management tool.
+      - Run vulnerability scans and remind system owners about fixes that are due.
+    skills:
+      - {skill: security-operations, level: working}
+      - {skill: vulnerability-management, level: working}
+      - {skill: identity-and-access-management, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: awareness}
+      - {skill: "pcf:cyber-incident-management", level: awareness}
+      - {skill: "pcf:information-security", level: awareness}
+      - {skill: "pcf:security-technology", level: awareness}
+    qualifications:
+      - A qualification in computing or cyber security, a cyber security apprenticeship, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Mental effort reflects frequent prolonged concentration on monitoring and triaging unpredictable alerts.
+
+  - title: Security operations analyst
+    band: "6"
+    summary: A security operations analyst investigates and contains security incidents, writes detection rules, and improves the organisation's security monitoring.
+    responsibilities:
+      - Investigate security incidents, work out their scope, and contain them, working with system owners and clinical services.
+      - Write and tune detection rules, and run threat hunts based on current threats to health care.
+      - Monitor for inappropriate access to patient records, and pass cases to information governance.
+      - Assess vulnerabilities by risk, including their effect on clinical services and medical devices.
+      - Improve runbooks and tools after incidents.
+      - Take part in the on-call rota for out-of-hours security incidents.
+    skills:
+      - {skill: security-operations, level: practitioner}
+      - {skill: vulnerability-management, level: working}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: working}
+      - {skill: risk-management, level: awareness}
+      - {skill: "pcf:cyber-incident-management", level: working}
+      - {skill: "pcf:information-security", level: working}
+      - {skill: "pcf:security-technology", level: working}
+    qualifications:
+      - A degree in computing or cyber security, relevant security certifications, or equivalent experience.
+      - Experience of security monitoring or incident response.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Mental effort reflects frequent prolonged concentration during investigations, including on call. Emotional effort reflects frequent indirect exposure to distressing material in patient records and to the pressure of live incidents.
+
+  - title: Senior security operations analyst
+    band: "7"
+    summary: A senior security operations analyst leads the response to significant security incidents, leads threat hunting, and guides the work of the security operations team.
+    responsibilities:
+      - Lead the technical response to significant security incidents, including ransomware and data theft, and coordinate with incident management.
+      - Advise clinical and operational leaders on containment decisions that affect patient care.
+      - Lead threat hunting and threat intelligence work, and share information with health care security partners.
+      - Set priorities for detection engineering and monitoring coverage, including for medical device networks.
+      - Lead exercises that test incident response with technical and clinical teams.
+      - Coach and guide security operations analysts.
+    skills:
+      - {skill: security-operations, level: practitioner}
+      - {skill: vulnerability-management, level: practitioner}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: working}
+      - {skill: risk-management, level: working}
+      - {skill: "pcf:cyber-incident-management", level: practitioner}
+      - {skill: "pcf:cyber-risk-management", level: working}
+      - {skill: "pcf:information-security", level: practitioner}
+      - {skill: "pcf:security-technology", level: practitioner}
+    qualifications:
+      - Substantial experience of security operations and incident response, at a level equivalent to a postgraduate diploma.
+      - Relevant advanced security certifications, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Mental and emotional effort reflect leading the response to serious incidents under pressure, often out of hours, where clinical services are at risk.

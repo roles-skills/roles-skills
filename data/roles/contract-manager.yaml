@@ -1,0 +1,103 @@
+id: contract-manager
+summary: >
+  Contract managers make sure the organisation gets what it pays for after a
+  contract is signed. They manage supplier performance, payments, changes,
+  disputes, renewals, and exit, and build relationships with key suppliers.
+  In a digital health care organisation many of the most important contracts
+  are for clinical systems, cloud hosting, and technology services that
+  patients and staff rely on every day.
+health_context:
+  - Clinical system outages or failures can affect patient care, so contract managers monitor availability, incident response, and support levels closely and use contract remedies when needed.
+  - Suppliers often process patient data, so contracts are managed with information governance and security colleagues, including data protection terms, audits, and breach handling.
+  - Exit and data return must be planned from the start, so that patient records can move to a new system in a usable format and old copies are securely deleted.
+  - Contract changes must follow public procurement rules, so contract managers check whether a change needs a new procurement.
+  - Supplier releases can change how a clinical system behaves, so contract managers make sure suppliers meet clinical safety obligations.
+levels:
+  - title: Contract manager
+    band: "6"
+    summary: >
+      Manages a portfolio of contracts, including technology and clinical
+      system contracts, from mobilisation to renewal, working within the
+      contract management framework. Also known as contract officer.
+    responsibilities:
+      - Manage a portfolio of contracts, keeping the contract register, documents, and key dates current.
+      - Run regular performance reviews with suppliers, using service levels and key performance indicators.
+      - Check invoices against contract terms and resolve billing disputes.
+      - Process contract changes and variations within the procurement rules.
+      - Track licence use, renewals, and notice periods, and start renewal planning early.
+      - Keep exit plans and data registers up to date for each contract.
+      - Work with information governance and security colleagues on supplier data protection and security checks.
+    skills:
+      - {skill: proc-contract-management, level: practitioner}
+      - {skill: proc-supplier-relationship-management, level: working}
+      - {skill: proc-exit-planning, level: working}
+      - {skill: proc-technology-procurement, level: working}
+      - {skill: proc-procurement-law-and-policy, level: working}
+      - {skill: proc-negotiation, level: working}
+      - {skill: pcf:commercial-management, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: risk-management, level: working}
+    qualifications:
+      - A recognised procurement or contract management qualification, or equivalent experience.
+      - Experience of managing service contracts, ideally for technology.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 2, information-resources: 3, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Senior contract manager
+    band: "7"
+    summary: >
+      Manages the organisation's strategic and high-risk contracts, such as
+      the electronic patient record and cloud hosting, and leads relationships
+      with key suppliers.
+    responsibilities:
+      - Manage strategic contracts for clinical systems and technology services, including mobilisation of new contracts.
+      - Lead strategic reviews with key suppliers, covering performance, roadmap, risks, and improvement plans.
+      - Use contract remedies, such as service credits and remediation plans, when performance falls short.
+      - Negotiate contract variations, renewals, and settlement of disputes.
+      - Write and test exit and transition plans, including data return in standard formats and secure deletion.
+      - Assess supplier risks, such as financial health, cyber security, and supply chain, and plan for supplier failure.
+      - Coach and supervise contract managers.
+    skills:
+      - {skill: proc-contract-management, level: practitioner}
+      - {skill: proc-supplier-relationship-management, level: practitioner}
+      - {skill: proc-exit-planning, level: practitioner}
+      - {skill: proc-negotiation, level: practitioner}
+      - {skill: proc-technology-procurement, level: practitioner}
+      - {skill: proc-procurement-law-and-policy, level: practitioner}
+      - {skill: pcf:commercial-management, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A recognised procurement or contract management qualification at advanced level, or equivalent experience.
+      - Substantial experience of managing strategic technology or outsourced service contracts.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 3, information-resources: 3, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 4 because the job manages the spend and assets of high-value service contracts.
+
+  - title: Lead contract manager
+    band: 8a
+    summary: >
+      Leads contract and supplier management across the organisation, setting
+      the contract management framework and managing the contract team.
+    responsibilities:
+      - Set the organisation's contract management framework, standards, and tools.
+      - Lead the contract management team and its portfolio of contracts.
+      - Lead the management of the most critical supplier relationships and resolve major disputes.
+      - Set standards for exit planning and data return, and lead exits from strategic contracts.
+      - Report contract performance, supplier risk, and savings to executive committees.
+      - Advise on termination, re-procurement, and supplier failure.
+    skills:
+      - {skill: proc-contract-management, level: expert}
+      - {skill: proc-supplier-relationship-management, level: expert}
+      - {skill: proc-exit-planning, level: expert}
+      - {skill: proc-negotiation, level: practitioner}
+      - {skill: proc-procurement-law-and-policy, level: practitioner}
+      - {skill: pcf:commercial-management, level: practitioner}
+      - {skill: pcf:creating-value-for-money, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A recognised procurement or contract management qualification at advanced level, or equivalent experience.
+      - Extensive experience of leading contract management for complex services.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 3, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

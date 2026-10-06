@@ -1,0 +1,69 @@
+id: network-architect
+summary: >
+  Network architects design the local, wide area, wireless, and cloud networks
+  that connect the organisation's sites, staff, clinical systems, and medical
+  devices. They make sure networks are fast, resilient, and secure enough for
+  care that never stops, and they plan how networks change as services move
+  to the cloud and connect with partner organisations.
+health_context:
+  - Clinical systems, telephony, and medical devices depend on the network, so an outage can stop care; designs need resilience and tested failover.
+  - Networks often carry connected medical devices that are hard to patch, so architects design segmentation and monitoring to protect them.
+  - Staff work across hospitals, clinics, community settings, and patients' homes, so designs must support secure mobile and remote access.
+  - Networks connect to shared health and care networks and partner organisations, which set their own connection and security requirements.
+  - Changes to clinical areas need careful planning around patient care, for example scheduling work outside busy periods.
+levels:
+  - pcf_level: Associate network architect
+    title: Associate network architect
+    band: "5"
+    responsibilities:
+      - Draft network designs, diagrams, and specifications with guidance from network architects.
+      - Survey sites and gather requirements for clinical areas, including wireless coverage and device connections.
+      - Keep records of network topology, addressing, and connected devices up to date.
+      - Check that designs meet service levels and security standards before review.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - A degree in computing or networking, a recognised networking qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 4, planning: 2, physical-skills: 2, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Network architect
+    title: Network architect
+    band: "6"
+    responsibilities:
+      - Design local, wide area, wireless, and cloud network solutions for sites and services.
+      - Design network segmentation for medical devices, clinical systems, and guest access.
+      - Plan network changes in clinical areas with service leads so that care is not disrupted.
+      - Agree service levels with suppliers and connection requirements with partner networks.
+      - Assess new network technologies and their fit with the organisation's security standards.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: vulnerability-management, level: awareness}
+    qualifications:
+      - A degree in computing or networking, or equivalent experience.
+      - Experience of designing and supporting enterprise networks.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead network architect
+    title: Lead network architect
+    band: "7"
+    responsibilities:
+      - Own the network architecture for the organisation, including its sites, data centres, and cloud connections.
+      - Set network design standards and assure designs at the design authority.
+      - Design network resilience and recovery for critical clinical services, and make sure it is tested.
+      - Advise on network investment, supplier contracts, and the network risks of new services.
+      - Act as the expert point of escalation and guide other network architects and engineers.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: vulnerability-management, level: working}
+      - {skill: medical-device-regulation, level: awareness}
+    qualifications:
+      - Substantial experience of network architecture for complex organisations, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

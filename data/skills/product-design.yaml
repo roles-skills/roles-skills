@@ -1,0 +1,90 @@
+# Product, delivery, and user-centred design skills original to this reference:
+# health care skills for researchers, designers, and product people that the
+# UK GDaD PCF and the shared skills do not cover.
+#
+# Each skill has four proficiency levels, matching the UK GDaD PCF scale:
+# awareness (1), working (2), practitioner (3), expert (4).
+# esco lists the closest ESCO v1.2.1 skills, with the strength of the match:
+# exact, close, broad (ESCO skill is wider), or narrow (ESCO skill is narrower).
+
+skills:
+  - id: pd-health-research-ethics
+    name: Ethical research with patients and care staff
+    description: Planning and running research with patients, carers, clinicians, and care staff safely and ethically, including informed consent, safeguarding, research with people in vulnerable circumstances, and knowing when formal ethics approval is needed.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/833289fa-3646-4010-9d9e-93ba8c9ef2d8, label: apply research ethics and scientific integrity principles in research activities, match: close}
+      - {uri: http://data.europa.eu/esco/skill/33c01497-8264-4773-81dd-6096ad512f02, label: health care occupation-specific ethics, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain why research with patients and care staff needs informed consent, safeguarding, and care with personal data
+        - follow the team's consent, safeguarding, and data handling procedures in research sessions
+      working: |
+        You can:
+        - plan research sessions that get informed consent and protect participants' wellbeing and privacy
+        - adapt sessions for people who are unwell, distressed, or in vulnerable circumstances, and know when to stop
+        - recognise and report safeguarding concerns that come up in research
+      practitioner: |
+        You can:
+        - judge when research needs formal ethics or research governance approval and prepare what it needs
+        - plan safe research with people in vulnerable circumstances, such as children, people with dementia, and people in crisis
+        - plan research in clinical settings without disrupting care, working with clinical leads and care staff
+        - support researchers to look after their own wellbeing after distressing sessions
+      expert: |
+        You can:
+        - set the organisation's standards for ethical research with patients, carers, and care staff
+        - assure research practice across teams and advise on high-risk research
+        - represent research practice to ethics, safeguarding, and governance bodies
+  - id: pd-safety-critical-design
+    name: Designing for clinical safety and human factors
+    description: Designing services, interfaces, and workflows that help clinicians, care staff, and patients act safely, by applying human factors principles and working with the clinical risk management process.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9, label: usability engineering, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/2618f336-8e71-4666-83b5-f368edb0906d, label: cognitive psychology, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/465e7c78-cd26-4503-a5ca-40009e807705, label: assess users' interaction with ICT applications, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain how design choices can cause or prevent errors in care, such as wrong-patient or wrong-dose mistakes
+        - use the organisation's patterns for safety-critical information, such as patient identity banners and allergy warnings
+      working: |
+        You can:
+        - design interfaces that make the safe action the easy action, for example by reducing ambiguous labels and needless alerts
+        - test designs in realistic clinical scenarios, including interruptions and time pressure
+        - raise design-related hazards with the clinical safety officer and record how designs control them
+      practitioner: |
+        You can:
+        - apply human factors methods, such as task analysis and use-error analysis, to complex clinical workflows
+        - design to reduce alert fatigue and cognitive load across a whole service
+        - provide design evidence for clinical safety cases and usability evidence for regulated software
+      expert: |
+        You can:
+        - set the organisation's standards and patterns for safety-critical design
+        - lead human factors work on the highest-risk clinical services
+        - advise clinical safety and product leaders on design-related risks across the portfolio
+  - id: pd-health-content
+    name: Health information content
+    description: Creating health and care content that is accurate, clinically assured, and easy for people with different levels of health literacy to understand and act on.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/7110bf9f-b245-4adc-9159-5081013fd64d, label: communicate in healthcare, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/2806260f-6399-4add-8f11-070141423f9d, label: medical terminology, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain why health information must be accurate, current, and easy to understand
+        - follow the team's style guide and clinical review process for health content
+      working: |
+        You can:
+        - write health content that people with low health literacy can understand and act on, such as symptoms and when to get help
+        - work with clinical reviewers to check content is accurate without losing clarity
+        - explain medical terms in plain English and use consistent names for conditions, tests, and treatments
+      practitioner: |
+        You can:
+        - design content for sensitive and high-risk topics, such as urgent symptoms, medicines, and end of life care
+        - set up clinical assurance, review dates, and evidence sources for a body of health content
+        - balance clinical precision, legal requirements, and user understanding in contested content
+      expert: |
+        You can:
+        - set the organisation's standards for health information content and its clinical assurance
+        - lead content strategy for health information across services and channels
+        - advise senior clinical and communications leaders on health information risks

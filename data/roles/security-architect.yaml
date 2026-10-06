@@ -1,0 +1,81 @@
+id: security-architect
+summary: >
+  Security architects design the security of the organisation's digital health
+  services, so that patient information stays confidential, accurate, and
+  available when care needs it. They set security patterns and controls,
+  assess the security risk of new designs and suppliers, and help teams make
+  risk-based decisions that keep services both safe and usable for clinicians
+  and patients.
+health_context:
+  - Health organisations are frequent targets of ransomware and data theft, and an attack can stop clinical services, so availability is as important as confidentiality.
+  - Security controls must not get in the way of urgent care, so designs balance strong authentication with fast access in clinical settings.
+  - Connected medical devices and legacy clinical systems often cannot be patched quickly, so architects design compensating controls such as segmentation.
+  - Many staff, partner organisations, and suppliers need access to patient records, so identity, role-based access, and audit are central.
+  - Security designs must support information governance duties and published security standards, such as ISO/IEC 27001.
+levels:
+  - pcf_level: Security architect
+    title: Security architect
+    band: "7"
+    responsibilities:
+      - Design security controls for services and systems, including identity, encryption, logging, and network protection.
+      - Assess the security of new designs and supplier products, and record risks and recommended controls.
+      - Develop security patterns that delivery teams can reuse, such as for patient login and staff single sign-on.
+      - Advise on compensating controls for medical devices and legacy clinical systems that cannot be updated easily.
+      - Work with information governance and clinical safety colleagues so that security, privacy, and safety risks are assessed together.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: practitioner}
+      - {skill: identity-and-access-management, level: practitioner}
+      - {skill: vulnerability-management, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: medical-device-regulation, level: awareness}
+    qualifications:
+      - Substantial experience of security architecture or security engineering, at a level equivalent to a master's degree.
+      - A recognised security qualification or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests Band 6 for this level, which spans HEO to G7; this reference places it at Band 7, at the upper end of its grade range, because the job designs security for critical clinical systems with limited supervision, and to narrow the gap to the lead level at Band 8b.
+
+  - pcf_level: Lead security architect
+    title: Lead security architect
+    band: 8b
+    responsibilities:
+      - Lead security architecture for several high-risk projects or a major area, such as clinical systems or cloud hosting.
+      - Set security principles and standards for designs in your area and assure them at design authorities.
+      - Advise senior risk owners on security risks and the options to manage them.
+      - Design security for data shared with partner organisations and suppliers.
+      - Lead and develop security architects.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: identity-and-access-management, level: expert}
+      - {skill: vulnerability-management, level: practitioner}
+      - {skill: security-operations, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of security architecture for complex services.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Principal security architect
+    title: Principal security architect
+    band: 8c
+    responsibilities:
+      - Set the organisation's security architecture vision, principles, and strategy.
+      - Advise the executive team and board on cyber security risk to patient care and services.
+      - Make sure cyber resilience, including recovery from a major attack, is designed into critical clinical services.
+      - Represent the organisation in cross-organisation cyber security and standards communities.
+      - Lead the security architecture practice and develop its people.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: expert}
+      - {skill: identity-and-access-management, level: expert}
+      - {skill: vulnerability-management, level: practitioner}
+      - {skill: security-operations, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: risk-management, level: expert}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading security architecture across organisations.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 3, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

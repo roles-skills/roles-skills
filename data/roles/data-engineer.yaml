@@ -1,0 +1,95 @@
+id: data-engineer
+summary: >
+  Data engineers build and run the pipelines and platforms that move health and
+  care data from clinical and operational systems into places where it can be
+  analysed and used safely. They design data flows, integrate sources that use
+  different standards, and make sure data is accurate, timely, secure, and only
+  available to the people who should see it.
+health_context:
+  - Source systems include electronic patient records, laboratory, imaging, and pharmacy systems, which use standards such as HL7 version 2, HL7 FHIR, SNOMED CT, and ICD.
+  - Pipelines often carry identifiable patient data, so engineers build in pseudonymisation, access control, and audit from the start.
+  - Some data feeds support direct care, such as alerts or patient lists, so a failed or late pipeline can affect patients and needs clinical safety assessment.
+  - Data often needs linking across care settings, which depends on reliable patient matching and consistent identifiers.
+levels:
+  - pcf_level: Data engineer
+    title: Data engineer
+    band: "6"
+    responsibilities:
+      - Build and maintain data pipelines from clinical and operational systems to the data platform, following agreed designs.
+      - Map source data, including coded clinical data, to target models and document the mappings.
+      - Build pseudonymisation, validation, and data quality checks into pipelines.
+      - Monitor pipelines and fix failures, prioritising feeds that support direct care.
+      - Apply access controls and audit logging that meet information governance rules.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: clinical-terminology, level: awareness}
+      - {skill: data-deidentification, level: working}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - A degree in computing or a related subject, or equivalent experience.
+      - Experience of building data pipelines.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior data engineer
+    title: Senior data engineer
+    band: "7"
+    responsibilities:
+      - Design data flows and streaming services that bring together data from many health and care systems.
+      - Design patient matching and linkage processes, and measure how well they work.
+      - Lead database and platform performance work so data is available when services need it.
+      - Assess the clinical safety and information governance risks of data flows with the relevant specialists.
+      - Review the work of other engineers and coach them.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: practitioner}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: clinical-terminology, level: working}
+      - {skill: data-deidentification, level: practitioner}
+      - {skill: clinical-safety, level: working}
+    qualifications:
+      - Substantial experience of designing and building data systems, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 4, knowledge: 7, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead data engineer
+    title: Lead data engineer
+    band: 8a
+    responsibilities:
+      - Lead the design and running of the organisation's data platform and its many data flows.
+      - Set engineering standards for pipelines, testing, security, and documentation.
+      - Plan data integration with health and care partners, including shared care records and regional data services.
+      - Make sure data flows that support direct care are resilient and have clinical safety cases.
+      - Coordinate data engineering teams and line manage engineers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: clinical-terminology, level: working}
+      - {skill: data-deidentification, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading data engineering for complex systems.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Head of data engineering
+    title: Head of data engineering
+    band: 8b
+    responsibilities:
+      - Set the strategy for the organisation's data platforms and data engineering services.
+      - Lead multidisciplinary teams that deliver data services for internal teams and health and care partners.
+      - Advise senior leaders on data platform risks, costs, and investment.
+      - Make sure data services meet information governance, security, and clinical safety requirements.
+      - Build data engineering capability through recruitment, development, and career paths.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: health-data-interoperability, level: expert}
+      - {skill: data-deidentification, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading data engineering across multiple teams.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

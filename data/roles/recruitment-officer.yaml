@@ -1,0 +1,125 @@
+id: recruitment-officer
+summary: >
+  Recruitment officers run the organisation's recruitment service, helping
+  managers attract, assess, and appoint the right people quickly, fairly, and
+  safely. In a digital health care organisation they compete with other
+  sectors for scarce digital, data, and technology skills, so they combine
+  efficient processes with active sourcing, a strong employer brand, and good
+  use of skills frameworks.
+health_context:
+  - Digital, data, and technology specialists are in short supply and often paid more elsewhere, so recruiters sell the purpose of the work, flexible working, and career pathways, not only pay.
+  - Roles that access patient records or work with patients need pre-employment checks, such as identity, right to work, references, criminal records checks where the role needs them, occupational health clearance, and professional registration.
+  - Vacancies in services that run 24/7 can affect patient care, so recruiters prioritise critical roles and track time to hire.
+  - Fair, inclusive recruitment helps the workforce reflect the patients and communities it serves.
+  - Recruiters use the role profiles and skills in this reference to write consistent adverts and job descriptions and to design fair assessments.
+levels:
+  - title: Recruitment assistant
+    band: "3"
+    summary: >
+      Provides accurate administrative support for recruitment campaigns and
+      pre-employment checks, following set procedures with a recruitment
+      officer close by.
+    responsibilities:
+      - Publish adverts and manage vacancies in the applicant tracking system.
+      - Arrange interviews and assessments and send correspondence to candidates.
+      - Carry out pre-employment checks, such as identity, right to work, and references, and chase outstanding items.
+      - Answer routine questions from candidates and managers by phone and email.
+      - Keep recruitment records accurate, confidential, and in line with retention rules.
+    skills:
+      - {skill: hr-recruitment-and-selection, level: working}
+      - {skill: hr-hr-administration, level: working}
+      - {skill: hr-talent-attraction, level: awareness}
+      - {skill: hr-workforce-information, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: pcf:communicating-information, level: awareness}
+      - {skill: equality-diversity-inclusion, level: awareness}
+    qualifications:
+      - A level 2 or 3 qualification, a business administration apprenticeship, or equivalent experience.
+      - Experience of accurate administrative work and dealing with the public.
+    job_evaluation: {communication: 3, knowledge: 3, analytical: 2, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 1, people: 2, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: People is level 2 because the job gives basic HR information and services to managers and candidates.
+
+  - title: Recruitment officer
+    band: "4"
+    summary: >
+      Runs recruitment campaigns from start to finish for a group of services,
+      advising managers on the process and checking the work of recruitment
+      assistants.
+    responsibilities:
+      - Run recruitment campaigns from vacancy approval to start date, keeping managers and candidates informed.
+      - Advise managers on adverts, shortlisting, interviews, and fair selection.
+      - Make conditional offers, agree start dates, and resolve problems with pre-employment checks.
+      - Plan recruitment events and bulk campaigns, such as for apprentices or new services.
+      - Report on time to hire and campaign progress, and suggest improvements.
+      - Check the work of recruitment assistants and train them on the system.
+    skills:
+      - {skill: hr-recruitment-and-selection, level: practitioner}
+      - {skill: hr-talent-attraction, level: working}
+      - {skill: hr-hr-administration, level: working}
+      - {skill: hr-employment-policy, level: working}
+      - {skill: hr-workforce-information, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+    qualifications:
+      - A level 3 HR or business qualification, or equivalent experience.
+      - Experience of running recruitment campaigns and applicant tracking systems.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Planning is level 3 because the job plans several campaigns and events at once and adjusts them as vacancies and candidate availability change.
+
+  - title: Digital talent partner
+    band: "5"
+    summary: >
+      Works with digital, data, and technology leaders to attract and appoint
+      scarce specialists, using active sourcing, talent pools, and fair,
+      skills-based assessment. Also known as senior recruitment officer.
+    responsibilities:
+      - Partner with hiring managers in digital, data, and technology teams to plan hiring and agree what good looks like for each role.
+      - Source candidates directly through professional networks, communities, and talent pools.
+      - Write adverts and job descriptions using the role profiles and skills in this reference and the UK GDaD PCF.
+      - Design skills-based assessments, such as technical exercises and portfolio reviews, with hiring managers.
+      - Use pay and market data to advise on hard-to-fill roles and starting salaries within the pay rules.
+      - Grow early careers routes, such as digital apprenticeships and graduate schemes.
+      - Manage the agency and recruitment advertising budget for the campaigns you run.
+    skills:
+      - {skill: hr-talent-attraction, level: practitioner}
+      - {skill: hr-recruitment-and-selection, level: practitioner}
+      - {skill: hr-skills-frameworks-and-career-pathways, level: working}
+      - {skill: hr-reward-and-job-evaluation, level: working}
+      - {skill: hr-workforce-information, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - A recognised HR or recruitment qualification, or equivalent experience.
+      - Experience of recruiting specialist roles, ideally digital, data, or technology roles.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 2, information-resources: 4, research: 1, freedom-to-act: 3, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Information resources is level 4 because the job adapts reports and talent pool records in the applicant tracking system as a significant duty.
+
+  - title: Recruitment manager
+    band: "6"
+    summary: >
+      Manages the recruitment service and team, sets its standards, and leads
+      improvements to speed, quality, candidate experience, and inclusion.
+    responsibilities:
+      - Manage the recruitment team and service, setting priorities and service standards.
+      - Lead improvements to the recruitment process and applicant tracking system, including automation and self-service.
+      - Analyse recruitment data, such as time to hire, offer acceptance, and diversity at each stage, and act on it.
+      - Shape the employer brand and recruitment marketing with the communications team.
+      - Manage recruitment agency use and the recruitment budget.
+      - Make sure recruitment follows employment law, safe recruitment rules, and the organisation's policies.
+    skills:
+      - {skill: hr-recruitment-and-selection, level: expert}
+      - {skill: hr-talent-attraction, level: practitioner}
+      - {skill: hr-workforce-information, level: practitioner}
+      - {skill: hr-employment-policy, level: working}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: information-governance, level: working}
+    qualifications:
+      - A recognised HR or recruitment professional qualification, or equivalent experience.
+      - Experience of managing a recruitment team or service.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 3, information-resources: 4, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

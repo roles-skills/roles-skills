@@ -1,0 +1,104 @@
+id: hr-business-partner
+summary: >
+  HR business partners work alongside directorate leaders to make sure the
+  organisation has the people, skills, structures, and culture it needs to
+  deliver its services. They turn the people strategy into plans for each
+  directorate, lead organisational change, and give senior advice on the most
+  complex people issues. In a digital health care organisation much of this is
+  about building and keeping digital, data, and technology capability.
+health_context:
+  - Digital, data, and technology skills are scarce, so business partners lead workforce plans that combine recruitment, apprenticeships, reskilling, and retention, and use skills frameworks such as this reference for gap analysis.
+  - Many services run 24/7, so changes to rotas, on-call, and service models need careful consultation and attention to staff wellbeing and safe staffing.
+  - Digital roles are often new or fast-changing, so business partners make sure job descriptions are evaluated consistently and banded fairly against similar roles.
+  - Organisational change often involves clinical and care staff as well as digital teams, so business partners work with clinical leaders and staff representatives.
+  - People risks, such as reliance on contractors or a small number of experts, can become risks to patient-facing services.
+levels:
+  - title: HR business partner
+    band: "7"
+    summary: >
+      Is the senior HR adviser to the leadership team of a directorate,
+      leading its people plan, organisational change, and complex employee
+      relations, within the organisation's people strategy.
+    responsibilities:
+      - Advise the directorate leadership team on people risks, priorities, and plans.
+      - Lead the directorate's workforce plan, using skills gap analysis against this reference to plan recruitment, development, and new roles.
+      - Lead organisational change, such as restructures and new service models, from business case through formal consultation to implementation.
+      - Oversee complex and high-risk employee relations cases and advise senior managers and panels.
+      - Use workforce data, such as turnover, vacancies, agency spend, and staff survey results, to challenge and support leaders.
+      - Advise on banding and reward for new and changing roles, including recruitment and retention premiums.
+      - Lead and develop HR advisers who support the directorate.
+    skills:
+      - {skill: hr-organisational-change, level: practitioner}
+      - {skill: hr-workforce-planning, level: practitioner}
+      - {skill: hr-employee-relations, level: practitioner}
+      - {skill: hr-employment-policy, level: practitioner}
+      - {skill: hr-skills-frameworks-and-career-pathways, level: practitioner}
+      - {skill: hr-reward-and-job-evaluation, level: practitioner}
+      - {skill: hr-people-strategy, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A recognised HR professional qualification at advanced level, or equivalent experience.
+      - Substantial experience of advising senior leaders and leading organisational change.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 4, information-resources: 3, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 3, working-conditions: 2}
+    job_evaluation_notes: People is level 4 because the job delivers the full range of HR services to a directorate; policy is level 4 because it develops people practices for several services; emotional effort is level 3 for frequent exposure to distressing casework and change.
+
+  - title: Senior HR business partner
+    band: 8a
+    summary: >
+      Business partners several directorates, or the largest and most complex
+      ones, such as digital and technology, and leads people programmes that
+      reach across the organisation.
+    responsibilities:
+      - Advise executive and senior leaders of several directorates on people strategy, risk, and organisational design.
+      - Lead large or sensitive organisational changes, including service transfers and changes to 24/7 working patterns.
+      - Lead an organisation-wide people programme, such as a digital careers framework or a retention plan for scarce skills.
+      - Handle the most sensitive cases, such as those involving senior staff or a risk of legal claims, with legal advisers.
+      - Shape people policies and consult on them with staff representatives.
+      - Lead, coach, and develop HR business partners and advisers.
+    skills:
+      - {skill: hr-organisational-change, level: expert}
+      - {skill: hr-workforce-planning, level: practitioner}
+      - {skill: hr-employee-relations, level: expert}
+      - {skill: hr-employment-policy, level: practitioner}
+      - {skill: hr-organisational-development, level: practitioner}
+      - {skill: hr-skills-frameworks-and-career-pathways, level: practitioner}
+      - {skill: hr-people-strategy, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: health-care-context, level: practitioner}
+    qualifications:
+      - A recognised HR professional qualification at advanced level, or a master's degree in HR or a related subject, or equivalent experience.
+      - Extensive experience of HR business partnering at senior level.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 4, information-resources: 3, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 3, working-conditions: 2}
+
+  - title: Head of HR business partnering
+    band: 8b
+    summary: >
+      Leads the HR business partnering service across the organisation and
+      makes sure every directorate has a people plan that delivers the people
+      strategy.
+    responsibilities:
+      - Lead and manage the HR business partner and HR adviser teams.
+      - Make sure every directorate has a workforce and people plan linked to its service and financial plans.
+      - Lead the organisation's approach to organisational change, consultation, and partnership working with staff representatives.
+      - Report people risks and workforce performance to executive committees.
+      - Hold the budget for the business partnering service.
+      - Work with leaders of recruitment, learning, and organisational development to deliver joined-up people services.
+    skills:
+      - {skill: hr-people-strategy, level: practitioner}
+      - {skill: hr-organisational-change, level: expert}
+      - {skill: hr-workforce-planning, level: expert}
+      - {skill: hr-employee-relations, level: expert}
+      - {skill: hr-employment-policy, level: expert}
+      - {skill: hr-organisational-development, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+    qualifications:
+      - A recognised HR professional qualification at advanced level, or a master's degree in HR or a related subject, or equivalent experience.
+      - Extensive experience of leading HR teams and organisational change.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 5, information-resources: 4, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 3, working-conditions: 2}
+    job_evaluation_notes: People is level 5 because the job manages a large part of HR across the organisation.

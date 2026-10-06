@@ -1,0 +1,126 @@
+id: interaction-designer
+summary: >
+  Interaction designers design how patients, carers, clinicians, and care staff
+  use the organisation's digital health services, from patient-facing apps and
+  forms to the screens clinicians use at the bedside. They design simple,
+  accessible, and safe interactions, test them with real users, and use shared
+  design systems so that services feel consistent and familiar.
+health_context:
+  - Clinicians often use systems under time pressure, with interruptions and on shared devices, so designs must support fast, accurate work and make the safe action the easy one.
+  - Poor design can cause clinical harm, such as selecting the wrong patient or misreading a dose, so designers apply human factors principles and work with clinical safety officers.
+  - Many users are unwell, anxious, older, or disabled, so designs must meet accessibility standards and work for people with low digital skills or health literacy.
+  - Alerts and warnings are only useful if people notice and trust them, so designers help reduce alert fatigue and keep safety-critical information visible.
+levels:
+  - pcf_level: Associate interaction designer
+    title: Associate interaction designer
+    band: "4"
+    responsibilities:
+      - Learn interaction design methods and the team's design system through training and pairing.
+      - Create sketches, wireframes, and simple prototypes under supervision.
+      - Help test designs with users and record what works and what does not.
+      - Follow accessibility standards and the design system's patterns, including those for patient identity and safety warnings.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: pd-safety-critical-design, level: awareness}
+      - {skill: equality-diversity-inclusion, level: awareness}
+    qualifications:
+      - Working towards a qualification or apprenticeship in design or a related field, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 3, research: 2, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Junior interaction designer
+    title: Junior interaction designer
+    band: "5"
+    responsibilities:
+      - Design and prototype parts of a service, such as forms, flows, and screens, with direction from a more senior designer.
+      - Test designs with patients, carers, and staff, and change them based on what you learn.
+      - Design accessible interactions that work with assistive technologies.
+      - Explain design decisions to the team, including how they reduce the chance of error.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: pd-safety-critical-design, level: awareness}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - A degree in design or a related subject, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Interaction designer
+    title: Interaction designer
+    band: "6"
+    responsibilities:
+      - Design interactions for a digital health product, from early concepts to detailed, tested designs.
+      - Design for clinical workflows, testing with clinicians and care staff in realistic scenarios, including interruptions.
+      - Raise design-related hazards with the clinical safety officer and record how designs control them.
+      - Use and contribute to the design system, including patterns for safety-critical information.
+      - Work closely with developers to make sure designs are built as intended and remain accessible.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: pd-safety-critical-design, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: clinical-safety, level: working}
+    qualifications:
+      - A degree in design or a related subject, or equivalent experience.
+      - Experience of designing digital services with users.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF places interaction designer at SEO or G7, with a suggested Band 7, the same as senior interaction designer. This reference places it at Band 6, the same as the service designer level with identical PCF skill levels, so the two interaction designer levels are not in the same band.
+
+  - pcf_level: Senior interaction designer
+    title: Senior interaction designer
+    band: "7"
+    responsibilities:
+      - Lead interaction design for complex services, such as clinical systems used across many care settings.
+      - Apply human factors methods, such as task analysis, to safety-critical clinical workflows.
+      - Provide design evidence for clinical safety cases and, where software is regulated, for usability files.
+      - Help set direction and good practice for design in teams, and mentor other designers.
+      - Make design decisions from research and data, and explain them to clinical and product leaders.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: pd-safety-critical-design, level: practitioner}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: medical-device-regulation, level: awareness}
+    qualifications:
+      - Substantial experience of interaction design, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead interaction designer
+    title: Lead interaction designer
+    band: 8b
+    responsibilities:
+      - Set design direction and assure the quality of interaction design across several teams or services.
+      - Lead the design system, including accessible and safety-critical patterns that teams across the organisation reuse.
+      - Lead human factors work on the highest-risk clinical services, with clinical safety officers.
+      - Work with senior product and clinical leaders to develop design concepts for major services.
+      - Line manage and develop interaction designers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: pd-safety-critical-design, level: expert}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading interaction design across teams.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: There is no Band 8a level, because the UK GDaD PCF places lead interaction designer at G7 or G6 and this reference follows the suggested Band 8b. Policy is level 5 because the lead designer sets design standards for a range of services.
+
+  - pcf_level: Head of interaction design
+    title: Head of interaction design
+    band: 8c
+    responsibilities:
+      - Lead the interaction design profession and set its strategy, standards, and ways of working.
+      - Influence design and organisational strategy so that services are usable, accessible, and safe.
+      - Own the organisation's design system and make sure it meets accessibility and clinical safety needs.
+      - Build design capability, including recruitment, career paths, and training.
+      - Work with peers across the health and care system on shared design patterns.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: pd-safety-critical-design, level: expert}
+      - {skill: equality-diversity-inclusion, level: expert}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading design and a design practice.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

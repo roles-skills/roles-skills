@@ -1,0 +1,115 @@
+id: records-officer
+summary: >
+  Health records staff make sure that patient and corporate records are
+  created, stored, tracked, retrieved, and disposed of correctly, whether they
+  are on paper or in digital systems. They keep records available for care,
+  protect them from loss and unauthorised access, and support the move from
+  paper to digital records.
+health_context:
+  - Patient records must be available when clinicians need them, so delays or lost records can directly affect care.
+  - Records contain highly confidential information, so staff follow strict confidentiality and access rules and may regularly read distressing content.
+  - Most organisations hold both paper and digital records, so the role includes scanning, indexing, and managing hybrid records.
+  - Records must be kept for set periods under retention schedules and then archived or destroyed securely, with an audit trail.
+  - Records teams often process requests for access to health records, which have legal time limits.
+levels:
+  - title: Records assistant
+    band: "2"
+    summary: >
+      Files, retrieves, tracks, scans, and prepares records, following set
+      procedures with supervision close by.
+    responsibilities:
+      - File, retrieve, and track paper records, and prepare them for clinics and requests.
+      - Scan and index records into the electronic records system, checking quality.
+      - Enter and update record details accurately in tracking systems.
+      - Keep records secure and report any lost records or breaches straight away.
+      - Move and store records safely, including boxes and trolleys of case notes.
+    skills:
+      - {skill: health-records-management, level: awareness}
+      - {skill: ig-records-retention, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: ig-confidentiality-and-sharing, level: awareness}
+      - {skill: corp-administration, level: awareness}
+      - {skill: corp-office-software, level: awareness}
+      - {skill: data-quality, level: awareness}
+    qualifications:
+      - Good literacy, numeracy, and keyboard skills.
+    job_evaluation: {communication: 3, knowledge: 2, analytical: 2, planning: 1, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 1, people: 1, information-resources: 2, research: 1, freedom-to-act: 2, physical-effort: 3, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Physical skills are scored at level 3 for fast, accurate scanning and data entry. Physical effort reflects frequent moving of records.
+
+  - title: Records officer
+    band: "3"
+    summary: >
+      Handles a range of records processes, some non-routine, such as
+      tracing missing records, preparing records for access requests, and
+      applying retention schedules.
+    responsibilities:
+      - Trace missing records and resolve tracking problems.
+      - Prepare records for access requests, checking that they are complete before review.
+      - Apply retention schedules and prepare records for archiving or secure destruction.
+      - Check scanned records for quality and fix indexing errors.
+      - Answer enquiries from clinicians, care staff, and patients about records.
+      - Show new records assistants how to follow procedures.
+    skills:
+      - {skill: health-records-management, level: working}
+      - {skill: ig-records-retention, level: working}
+      - {skill: ig-information-rights-requests, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: ig-confidentiality-and-sharing, level: working}
+      - {skill: corp-correspondence-management, level: working}
+      - {skill: data-quality, level: working}
+    qualifications:
+      - Experience of records or administrative work, or a level 3 qualification in business administration or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 3, analytical: 2, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 2, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 3, mental-effort: 2, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Emotional effort reflects frequent indirect exposure to distressing content in health records.
+
+  - title: Senior records officer
+    band: "4"
+    summary: >
+      Supervises a records team day to day and runs records processes such
+      as access requests, audits, and retention reviews.
+    responsibilities:
+      - Supervise records staff day to day, allocating work and checking quality.
+      - Process requests for access to health records within legal time limits, under the guidance of information governance colleagues.
+      - Run record-keeping and tracking audits and report the results.
+      - Keep records tracking and electronic records systems accurate and up to date.
+      - Train staff in records procedures and confidentiality.
+      - Investigate lost records and other incidents, and recommend improvements.
+    skills:
+      - {skill: health-records-management, level: working}
+      - {skill: ig-records-retention, level: working}
+      - {skill: ig-information-rights-requests, level: working}
+      - {skill: ig-confidentiality-and-sharing, level: working}
+      - {skill: ig-incident-management, level: working}
+      - {skill: data-quality, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Substantial experience of health records work, or a relevant qualification at foundation degree level or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 2, information-resources: 4, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 2, working-conditions: 2}
+
+  - title: Health records manager
+    band: "5"
+    summary: >
+      Manages the health records service, its staff, systems, and procedures,
+      and leads improvement, including the move from paper to digital
+      records.
+    responsibilities:
+      - Manage the health records service, its staff, and its performance.
+      - Write and maintain records procedures, in line with records management policy and standards.
+      - Manage records tracking and electronic records systems for several services.
+      - Lead scanning and digitisation projects and the move to digital records.
+      - Run the retention and disposal programme and records audits.
+      - Advise clinicians, managers, and information governance colleagues on records management.
+    skills:
+      - {skill: health-records-management, level: practitioner}
+      - {skill: ig-records-retention, level: practitioner}
+      - {skill: ig-information-rights-requests, level: working}
+      - {skill: ig-compliance-assurance, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: data-quality, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: project-management, level: working}
+    qualifications:
+      - A degree or professional qualification in records or information management, or equivalent experience.
+      - Experience of supervising a records team.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 2, people: 3, information-resources: 5, research: 1, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Information resources is scored at level 5 because running records systems for several services is the main duty.

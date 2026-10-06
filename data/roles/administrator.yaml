@@ -1,0 +1,85 @@
+id: administrator
+summary: >
+  Administrators keep teams and services running by handling the
+  organisation's day-to-day administration: correspondence, diaries, meetings,
+  records, data entry, ordering, and enquiries. In a digital health care
+  organisation they support digital, clinical, and corporate teams, and often
+  handle confidential information about patients and staff.
+health_context:
+  - Administrators often see confidential patient and staff information, so they follow information governance rules closely.
+  - Enquiries may come from patients, care staff, and the public, and some callers may be anxious or distressed.
+  - Accurate records and data entry matter, because errors can flow into clinical systems, reports, and payments.
+  - Many administrative processes are moving to digital tools, so administrators help test and adopt new ways of working.
+levels:
+  - title: Administrative assistant
+    band: "2"
+    summary: >
+      Carries out routine administrative tasks for a team, following set
+      procedures with supervision close by.
+    responsibilities:
+      - Answer calls and emails, take accurate messages, and pass enquiries to the right person.
+      - Enter and update data accurately in the team's systems.
+      - File and scan documents and keep shared folders in order.
+      - Book meetings and rooms, and send out papers.
+      - Order stationery and supplies within set procedures.
+    skills:
+      - {skill: corp-administration, level: awareness}
+      - {skill: corp-office-software, level: working}
+      - {skill: corp-correspondence-management, level: awareness}
+      - {skill: corp-diary-and-meeting-management, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: health-care-context, level: awareness}
+      - {skill: equality-diversity-inclusion, level: awareness}
+    qualifications:
+      - Good literacy, numeracy, and keyboard skills.
+    job_evaluation: {communication: 3, knowledge: 2, analytical: 2, planning: 1, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 1, people: 1, information-resources: 2, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Physical skills are scored at level 3 for advanced keyboard skills, with speed and accuracy in typing and data entry.
+
+  - title: Administrator
+    band: "3"
+    summary: >
+      Provides a full administrative service to a team or service, handling a
+      range of tasks, some non-routine, and organising own workload.
+    responsibilities:
+      - Manage diaries and arrange meetings, events, and travel for a team.
+      - Take minutes and action notes for team meetings and follow up actions.
+      - Handle routine correspondence and enquiries, drafting replies where needed.
+      - Maintain records, trackers, and databases, and produce simple reports.
+      - Process orders, invoices, and expenses within set limits.
+      - Show new staff the team's administrative procedures.
+    skills:
+      - {skill: corp-administration, level: working}
+      - {skill: corp-office-software, level: working}
+      - {skill: corp-correspondence-management, level: working}
+      - {skill: corp-diary-and-meeting-management, level: working}
+      - {skill: corp-minute-taking, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: awareness}
+    qualifications:
+      - A level 3 qualification in business administration, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 3, analytical: 2, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 2, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+
+  - title: Senior administrator
+    band: "4"
+    summary: >
+      Leads the administration for a service or directorate, supervising
+      other administrators and improving administrative processes.
+    responsibilities:
+      - Coordinate the administrative service for a directorate, allocating work to administrators.
+      - Take formal minutes for management and programme meetings.
+      - Write and improve administrative procedures and templates.
+      - Produce reports from trackers and systems for managers.
+      - Monitor spending on administrative budgets and raise variances.
+      - Train and supervise administrators and apprentices.
+    skills:
+      - {skill: corp-administration, level: practitioner}
+      - {skill: corp-office-software, level: practitioner}
+      - {skill: corp-correspondence-management, level: working}
+      - {skill: corp-diary-and-meeting-management, level: working}
+      - {skill: corp-minute-taking, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: people-management, level: working}
+      - {skill: budget-management, level: awareness}
+    qualifications:
+      - Substantial administrative experience, at a level equivalent to a foundation degree.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 2, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}

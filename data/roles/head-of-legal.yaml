@@ -1,0 +1,91 @@
+id: head-of-legal
+summary: >
+  Senior legal leaders make sure the organisation acts lawfully and manages its
+  legal risk well. They lead the in-house legal team, manage external legal
+  advisers, and advise the board and executive on the organisation's most
+  significant legal matters. In a digital health care organisation this
+  includes the legal basis for using health data, major technology and data
+  contracts, intellectual property in software, and the organisation's
+  statutory duties.
+health_context:
+  - The organisation is a public body or works with them, so its decisions can be challenged, and it must act within its powers.
+  - The use of health and care data at scale, including for AI and research, carries high legal and reputational risk.
+  - Major technology contracts are long, valuable, and hard to exit, so their legal terms shape the organisation for years.
+  - Legal leaders work closely with the board, the data protection officer, clinical safety, and information governance colleagues.
+levels:
+  - title: Deputy head of legal services
+    band: 8c
+    summary: Deputy heads of legal services lead a major area of the legal function, such as commercial, technology, and data law, and deputise for the head of legal services.
+    responsibilities:
+      - Lead a major area of legal work, such as commercial, technology, and data law, or disputes and employment.
+      - Advise directors on high-risk matters, including major procurements and data programmes.
+      - Manage the panel of external lawyers and the budget for external legal advice.
+      - Set legal standards, templates, and training for the organisation.
+      - Lead and develop several legal teams or specialists.
+      - Deputise for the head of legal services.
+    skills:
+      - {skill: legal-legal-advice, level: expert}
+      - {skill: legal-contract-drafting-and-review, level: expert}
+      - {skill: legal-information-and-data-law, level: expert}
+      - {skill: legal-procurement-law, level: practitioner}
+      - {skill: legal-health-and-care-law, level: practitioner}
+      - {skill: legal-legal-administration, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - A qualified lawyer admitted to practise, with extensive post-qualification experience, including leading a legal team.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Knowledge is level 8 for expert knowledge across several areas of law. Information resources is level 5 rather than 6, because the job does not manage organisation-wide information systems.
+
+  - title: Head of legal services
+    band: 8d
+    summary: Heads of legal services lead the organisation's legal function, set its approach to legal risk, and advise the executive and board.
+    responsibilities:
+      - Lead the in-house legal function and the use of external lawyers.
+      - Advise the executive and board on legal risk, statutory duties, and major decisions.
+      - Set the organisation's legal risk appetite and positions on key issues, such as data use and contracting.
+      - Lead legal work on the most significant matters, such as major disputes, public inquiries, and partnerships.
+      - Hold the budget for legal services and show value for money.
+      - Lead and develop the legal team and legal operations.
+    skills:
+      - {skill: legal-legal-advice, level: expert}
+      - {skill: legal-information-and-data-law, level: expert}
+      - {skill: legal-health-and-care-law, level: expert}
+      - {skill: legal-litigation-and-disputes, level: expert}
+      - {skill: legal-legal-administration, level: expert}
+      - {skill: pcf:stakeholder-relationship-management, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: expert}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: practitioner}
+      - {skill: governance-and-compliance, level: practitioner}
+    qualifications:
+      - A qualified lawyer admitted to practise, with extensive senior experience of leading legal services.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 5, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 4 because the job holds the legal services budget, not budgets for several services.
+
+  - title: General counsel
+    band: "9"
+    summary: General counsel are the organisation's most senior lawyer, with corporate responsibility for legal services and legal risk, and often also lead corporate governance as board secretary.
+    responsibilities:
+      - Hold corporate responsibility for the organisation's legal affairs and legal risk.
+      - Advise the board and chair on the organisation's powers, duties, and governance.
+      - Make sure major strategies, partnerships, and data programmes are lawful.
+      - Lead the response to the most serious legal threats, such as judicial reviews and regulatory action.
+      - Lead legal services, and often corporate governance and the board secretariat.
+      - Represent the organisation with regulators, partners, and government bodies.
+    skills:
+      - {skill: legal-legal-advice, level: expert}
+      - {skill: legal-health-and-care-law, level: expert}
+      - {skill: legal-information-and-data-law, level: expert}
+      - {skill: pcf:stakeholder-relationship-management, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: expert}
+      - {skill: people-management, level: expert}
+      - {skill: governance-and-compliance, level: expert}
+      - {skill: risk-management, level: expert}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - A qualified lawyer admitted to practise, with extensive experience at executive or board level.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 6, financial-resources: 4, people: 5, information-resources: 6, research: 2, freedom-to-act: 6, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 4 because the job holds the budget for legal and governance services, not the organisation's finances.

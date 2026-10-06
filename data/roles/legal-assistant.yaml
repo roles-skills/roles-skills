@@ -1,0 +1,84 @@
+id: legal-assistant
+summary: >
+  Legal assistants and paralegals support the organisation's lawyers so that
+  legal work is organised, accurate, and on time. They manage matters and
+  documents, prepare contracts and bundles, research legal questions, and
+  handle routine legal tasks. In a digital health care organisation much of
+  the work involves technology contracts, data sharing and data processing
+  agreements, information requests, and claims that may involve sensitive
+  patient information.
+health_context:
+  - Legal files often contain confidential health information, such as clinical records in claims, so strict information governance applies.
+  - Many agreements are for software, cloud services, and data sharing, so staff need to recognise the clauses that matter for patient data and service continuity.
+  - Deadlines in claims, inquests, and procurement challenges are short and fixed, and missing them can be costly.
+  - The organisation spends public money on external lawyers, so legal spending must be tracked and controlled.
+levels:
+  - title: Legal administrator
+    band: "3"
+    summary: Legal administrators run the legal team's administrative processes, such as matter opening, document management, registers, and invoices, following set procedures.
+    responsibilities:
+      - Open, update, and close matters in the matter management system.
+      - File, format, and retrieve legal documents, keeping them secure and confidential.
+      - Maintain contract, deed, and signing registers.
+      - Manage diaries and key dates, and remind lawyers of deadlines.
+      - Check and process invoices from external lawyers.
+      - Answer routine enquiries and route requests for legal advice.
+    skills:
+      - {skill: legal-legal-administration, level: working}
+      - {skill: legal-contract-drafting-and-review, level: awareness}
+      - {skill: legal-information-and-data-law, level: awareness}
+      - {skill: pcf:communicating-information, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: awareness}
+    qualifications:
+      - Good administrative and keyboard skills, gained through education or work experience.
+      - A legal administration qualification is useful but not essential.
+    job_evaluation: {communication: 3, knowledge: 3, analytical: 2, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 2, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+
+  - title: Legal assistant
+    band: "4"
+    summary: Legal assistants support lawyers on a range of matters, preparing documents from templates, carrying out defined research, and managing the practical steps of contracts and cases.
+    responsibilities:
+      - Prepare standard agreements, such as non-disclosure and data sharing agreements, from approved templates.
+      - Prepare bundles, chronologies, and signing packs for contracts and cases.
+      - Carry out defined legal research and summarise the results for lawyers.
+      - Collect documents and evidence for claims and information requests.
+      - Track external legal spending against budgets and report on it.
+      - Train legal administrators in routine tasks.
+    skills:
+      - {skill: legal-legal-administration, level: practitioner}
+      - {skill: legal-legal-research, level: working}
+      - {skill: legal-contract-drafting-and-review, level: working}
+      - {skill: legal-litigation-and-disputes, level: awareness}
+      - {skill: legal-information-and-data-law, level: awareness}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: awareness}
+    qualifications:
+      - A legal assistant or paralegal qualification at intermediate level, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 2, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+
+  - title: Paralegal
+    band: "5"
+    summary: Paralegals handle their own caseload of routine legal matters under a lawyer's supervision, such as standard contract reviews, information requests, and claims support.
+    responsibilities:
+      - Review routine agreements, such as software licences, services, and data processing agreements, against the organisation's standards.
+      - Manage a caseload of routine claims or disputes, preparing documents and liaising with external lawyers and indemnity schemes.
+      - Research legal questions and draft advice for a lawyer to review.
+      - Support responses to complex information requests and data subject rights requests.
+      - Keep templates, precedents, and legal guidance up to date.
+      - Coordinate the work of legal assistants and administrators.
+    skills:
+      - {skill: legal-legal-research, level: practitioner}
+      - {skill: legal-contract-drafting-and-review, level: working}
+      - {skill: legal-litigation-and-disputes, level: working}
+      - {skill: legal-information-and-data-law, level: working}
+      - {skill: legal-legal-advice, level: working}
+      - {skill: legal-legal-administration, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A law degree or an advanced paralegal qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Emotional effort is level 2 because the job regularly reads clinical records and accounts of harm in claims.

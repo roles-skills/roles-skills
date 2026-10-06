@@ -1,0 +1,152 @@
+id: learning-and-development-specialist
+summary: >
+  Learning and development specialists help staff gain the skills they need
+  to deliver safe, modern, digitally enabled care. They analyse learning
+  needs, design and deliver learning in person and online, run the learning
+  management system, and build career pathways. In a digital health care
+  organisation a large part of their work is growing digital, data, and
+  technology skills, both for specialists and for the whole workforce.
+health_context:
+  - Clinical and care staff need training on new clinical systems before go-live, often across shifts and sites, so learning is planned around services that run 24/7.
+  - Some training is mandatory, such as information governance, cyber security awareness, and safeguarding, and compliance is reported to the board.
+  - Growing scarce digital skills from within, through apprenticeships, reskilling, and career pathways, is often faster and cheaper than recruiting them.
+  - Skills frameworks such as this reference, the UK GDaD PCF, and ESCO give a shared language for skills gap analysis and development plans.
+  - Learning must be accessible to staff with different needs, working patterns, and levels of digital confidence.
+levels:
+  - title: Learning and development coordinator
+    band: "4"
+    summary: >
+      Coordinates the organisation's learning offer, running bookings, the
+      learning management system, and training records, and supports the
+      delivery of courses.
+    responsibilities:
+      - Schedule courses, book rooms and trainers, and manage bookings and waiting lists.
+      - Maintain courses, enrolments, and completion records in the learning management system.
+      - Produce reports on mandatory training compliance for managers.
+      - Answer questions from staff and managers about the learning offer.
+      - Support trainers in sessions, including setting up online classrooms and collecting feedback.
+      - Administer apprenticeship enrolments and reviews with training providers.
+    skills:
+      - {skill: hr-learning-design-and-delivery, level: working}
+      - {skill: hr-hr-administration, level: working}
+      - {skill: hr-workforce-information, level: working}
+      - {skill: hr-skills-frameworks-and-career-pathways, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+    qualifications:
+      - A level 3 qualification, a learning and development apprenticeship, or equivalent experience.
+      - Experience of administration and of using a learning management system or similar.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 2, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+
+  - title: Learning and development officer
+    band: "5"
+    summary: >
+      Designs and delivers learning for a range of staff groups, including
+      digital skills and system training, and evaluates its effect.
+    responsibilities:
+      - Deliver training in person and online, such as induction, digital skills, and management essentials.
+      - Build e-learning and short guides in the learning management system, making them accessible.
+      - Work with digital teams to plan and deliver training for new clinical and business systems before go-live.
+      - Support managers to identify team learning needs and plan development.
+      - Evaluate courses and improve them using feedback and results.
+      - Coordinate apprenticeships, working with providers, learners, and managers.
+    skills:
+      - {skill: hr-learning-design-and-delivery, level: practitioner}
+      - {skill: hr-skills-frameworks-and-career-pathways, level: working}
+      - {skill: hr-workforce-information, level: working}
+      - {skill: pcf:capability-building-for-digital-data-and-technology, level: working}
+      - {skill: pcf:communicating-information, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: health-care-context, level: awareness}
+    qualifications:
+      - A recognised learning and development or training qualification, or equivalent experience.
+      - Experience of designing and delivering training to adults, in person and online.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 3, information-resources: 3, research: 2, freedom-to-act: 3, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: People is level 3 because the job teaches core training as a main duty; research is level 2 because it regularly evaluates learning.
+
+  - title: Learning and development specialist
+    band: "6"
+    summary: >
+      Leads the analysis, design, and evaluation of learning programmes for a
+      major area, such as leadership, digital skills, or system training,
+      working with broad freedom within the learning strategy.
+    responsibilities:
+      - Analyse learning needs for a staff group or profession, using skills gap analysis against this reference.
+      - Design blended learning programmes with clear outcomes, from e-learning to coaching and practice in the workplace.
+      - Design training strategies for large clinical system changes, including super-user networks.
+      - Evaluate the effect of learning on skills, performance, and services, and report it.
+      - Commission and quality-assure external training providers.
+      - Coach and develop learning and development officers.
+    skills:
+      - {skill: hr-learning-design-and-delivery, level: practitioner}
+      - {skill: hr-skills-frameworks-and-career-pathways, level: practitioner}
+      - {skill: hr-organisational-development, level: working}
+      - {skill: pcf:capability-building-for-digital-data-and-technology, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:communicating-information, level: practitioner}
+      - {skill: hr-workforce-information, level: working}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A recognised learning and development qualification at intermediate or advanced level, or equivalent experience.
+      - Substantial experience of designing and evaluating learning programmes.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 4, information-resources: 3, research: 2, freedom-to-act: 3, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: People is level 4 because designing training programmes is the main duty.
+
+  - title: Digital skills lead
+    band: "7"
+    summary: >
+      Leads the organisation's programme to grow digital, data, and technology
+      skills, for specialist professions and for the whole workforce, using
+      skills frameworks to plan careers and close gaps.
+    responsibilities:
+      - Lead the digital skills programme, including digital literacy for all staff and development for digital, data, and technology professions.
+      - Run skills gap analysis across digital teams using the role profiles and skills in this reference, and report the results.
+      - Design career pathways from apprenticeships to senior roles, linked to bands and job evaluation.
+      - Build partnerships with universities, colleges, and training providers, and make full use of apprenticeship funding.
+      - Manage the digital skills budget and evaluate return on investment.
+      - Lead a small team of learning and development staff.
+    skills:
+      - {skill: hr-skills-frameworks-and-career-pathways, level: expert}
+      - {skill: pcf:capability-building-for-digital-data-and-technology, level: practitioner}
+      - {skill: hr-learning-design-and-delivery, level: practitioner}
+      - {skill: hr-workforce-planning, level: working}
+      - {skill: hr-talent-attraction, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A recognised learning and development qualification at advanced level, or equivalent experience.
+      - Substantial experience of building skills programmes, ideally in digital, data, or technology.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 4, information-resources: 3, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Head of learning
+    band: 8a
+    summary: >
+      Leads learning and development across the organisation, setting the
+      learning strategy and managing the learning team, budget, and systems.
+    responsibilities:
+      - Set the organisation's learning strategy, linked to the people strategy and workforce plan.
+      - Lead and manage the learning and development team and its services, including mandatory training and the learning management system.
+      - Hold the learning budget, including apprenticeship funds and external training spend.
+      - Report learning activity, compliance, and impact to executive committees.
+      - Lead leadership and management development programmes with organisational development colleagues.
+      - Make sure learning is accessible, inclusive, and available to staff on every shift.
+    skills:
+      - {skill: hr-learning-design-and-delivery, level: expert}
+      - {skill: hr-skills-frameworks-and-career-pathways, level: practitioner}
+      - {skill: hr-organisational-development, level: practitioner}
+      - {skill: hr-people-strategy, level: practitioner}
+      - {skill: pcf:capability-building-for-digital-data-and-technology, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+    qualifications:
+      - A recognised learning and development or HR professional qualification at advanced level, or a master's degree in a related subject, or equivalent experience.
+      - Extensive experience of leading learning services.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 5, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: People is level 5 because the job manages training across the organisation.

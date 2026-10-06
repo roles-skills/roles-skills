@@ -1,0 +1,112 @@
+id: governance-and-risk-manager
+summary: >
+  Governance and risk staff make sure the organisation is well run and in
+  control of its risks. They support the board and its committees, run the
+  risk management framework and registers, keep policies and governance
+  registers in order, and coordinate assurance and audit, so that leaders can
+  make sound decisions and show they meet their legal and regulatory duties.
+health_context:
+  - Health care organisations carry clinical, information, cyber, financial, and reputational risks, so the risk framework must bring these together for the board.
+  - Boards must show they are assured about patient safety and quality, so governance staff link clinical safety and quality reporting into committees.
+  - Regulators and auditors expect clear records of decisions, risks, declarations of interest, and policies.
+  - Serious incidents and service failures need fast, well-documented escalation through the governance structure.
+levels:
+  - title: Governance officer
+    band: "5"
+    summary: >
+      Supports the governance cycle for committees and keeps risk,
+      policy, and governance registers up to date.
+    responsibilities:
+      - Coordinate committee meetings, forward plans, papers, and minutes.
+      - Maintain the risk register, prompting risk owners to review their risks.
+      - Keep governance registers up to date, such as declarations of interest, gifts, and hospitality.
+      - Maintain the policy register and track policy reviews.
+      - Coordinate evidence for audits and track audit recommendations.
+      - Answer routine governance questions from staff.
+    skills:
+      - {skill: governance-and-compliance, level: working}
+      - {skill: risk-management, level: working}
+      - {skill: corp-minute-taking, level: practitioner}
+      - {skill: corp-policy-management, level: working}
+      - {skill: corp-assurance-and-audit, level: working}
+      - {skill: corp-office-software, level: practitioner}
+      - {skill: information-governance, level: working}
+    qualifications:
+      - A degree or a governance qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Senior governance and risk officer
+    band: "6"
+    summary: >
+      Runs parts of the governance and risk framework, advising directorates
+      on risk and supporting senior committees.
+    responsibilities:
+      - Run the risk management process for directorates, challenging risk scores and controls.
+      - Prepare risk and assurance reports for senior committees.
+      - Support senior committees, including the audit and risk committee, with papers and formal minutes.
+      - Review policies for compliance with the policy framework, law, and equality duties.
+      - Train managers in risk management and governance processes.
+      - Coordinate the organisation's response to regulator and audit requests.
+    skills:
+      - {skill: governance-and-compliance, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: corp-minute-taking, level: practitioner}
+      - {skill: corp-policy-management, level: practitioner}
+      - {skill: corp-assurance-and-audit, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: pcf:communicating-information, level: practitioner}
+    qualifications:
+      - A degree or professional qualification in governance or risk management, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Governance and risk manager
+    band: "7"
+    summary: >
+      Manages the governance and risk service, including the board and
+      committee cycle, the risk framework, and assurance mapping.
+    responsibilities:
+      - Manage the board and committee cycle and the governance team.
+      - Run the organisation's risk management framework and the board assurance framework.
+      - Advise directors on risks, risk appetite, and escalation.
+      - Map assurance across the organisation's main risks and work with internal and external auditors.
+      - Keep standing orders, schemes of delegation, and the policy framework up to date.
+      - Coordinate the governance response to serious incidents and regulator enquiries.
+    skills:
+      - {skill: governance-and-compliance, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: corp-assurance-and-audit, level: practitioner}
+      - {skill: corp-policy-management, level: practitioner}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: people-management, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:enabling-and-informing-risk-based-decisions, level: practitioner}
+    qualifications:
+      - A professional qualification in governance or risk management, or equivalent experience.
+      - Substantial experience of corporate governance or risk management.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+
+  - title: Head of corporate governance
+    band: 8b
+    summary: >
+      Leads corporate governance and risk for the organisation, often acting
+      as board secretary, and advises the chair and board on governance.
+    responsibilities:
+      - Design and lead the organisation's governance framework, including the board and its committees.
+      - Act as board secretary, advising the chair and board on governance, conduct, and compliance.
+      - Own the risk management framework and risk appetite, and advise the board on strategic risks.
+      - Lead the annual governance statement and governance reporting.
+      - Lead the governance, risk, and assurance team.
+      - Represent the organisation with regulators and auditors on governance matters.
+    skills:
+      - {skill: governance-and-compliance, level: expert}
+      - {skill: risk-management, level: expert}
+      - {skill: corp-assurance-and-audit, level: expert}
+      - {skill: corp-policy-management, level: expert}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+      - {skill: pcf:enabling-and-informing-risk-based-decisions, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+    qualifications:
+      - A professional qualification in corporate governance, or equivalent experience.
+      - Extensive experience of leading governance and risk at board level.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}

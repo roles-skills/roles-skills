@@ -1,0 +1,121 @@
+id: infrastructure-engineer
+summary: >
+  Infrastructure engineers design, build, run, and support the networks,
+  servers, storage, cloud platforms, and hosting that the organisation's digital
+  services depend on. They keep this infrastructure available, secure, and
+  recoverable, and work with suppliers and architects to change it safely. In
+  health care, one infrastructure failure can stop clinical systems across
+  hospitals and community services at once.
+health_context:
+  - Clinical systems need very high availability, so infrastructure is designed for resilience and changes are planned around clinical activity.
+  - Engineers take part in on-call rotas, because infrastructure faults at night or at weekends can stop patient care.
+  - Networks connect medical devices, such as infusion pumps, patient monitors, and imaging equipment, which need network segmentation and careful change following IEC 80001-1.
+  - Health care is a frequent target for ransomware, so backups must be protected, tested, and restorable within agreed recovery times.
+  - Infrastructure often mixes old and new technology, including legacy clinical systems that cannot easily be patched, so engineers put compensating controls in place.
+levels:
+  - pcf_level: Associate infrastructure engineer
+    title: Associate infrastructure engineer
+    band: "4"
+    responsibilities:
+      - Support infrastructure engineers with routine tasks, such as server builds, backup checks, and network changes.
+      - Monitor infrastructure and report alerts and faults to the right team.
+      - Follow change, security, and information governance procedures in all work.
+      - Record configuration and asset details accurately.
+      - Work towards an infrastructure apprenticeship or equivalent qualification.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: security-operations, level: awareness}
+      - {skill: vulnerability-management, level: awareness}
+    qualifications:
+      - Enrolled on, or working towards, an infrastructure or networking apprenticeship or equivalent.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Knowledge is scored at the level the job needs once training is complete enough to do the work.
+
+  - pcf_level: Infrastructure engineer
+    title: Infrastructure engineer
+    band: "6"
+    responsibilities:
+      - Build, configure, and maintain the servers, storage, networks, and cloud services that host clinical and corporate systems.
+      - Patch infrastructure promptly, balancing security risk against the need to keep clinical systems available.
+      - Run and test backups and restores, including for critical clinical systems.
+      - Support segmented networks for medical devices and other clinical equipment, working with clinical engineering teams.
+      - Investigate and fix infrastructure faults, including as part of the on-call rota.
+      - Automate routine tasks using scripts and infrastructure as code.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: security-operations, level: awareness}
+      - {skill: vulnerability-management, level: working}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - A degree in computing or a related subject, relevant technical certifications, or equivalent experience.
+      - Experience of supporting production infrastructure.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Mental effort reflects frequent prolonged concentration on unpredictable faults, including on-call work out of hours.
+
+  - pcf_level: Senior infrastructure engineer
+    title: Senior infrastructure engineer
+    band: "7"
+    responsibilities:
+      - Design and build infrastructure solutions from architects' designs, with the resilience that clinical services need.
+      - Plan and lead major infrastructure changes, such as data centre moves, network refreshes, and cloud migrations, around clinical activity.
+      - Design and test disaster recovery and ransomware recovery for critical clinical systems.
+      - Lead the technical response to infrastructure incidents and drive fixes for their causes.
+      - Manage compensating controls for legacy systems and medical devices that cannot be patched.
+      - Lead and coach infrastructure engineers.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: security-operations, level: working}
+      - {skill: vulnerability-management, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: risk-management, level: working}
+    qualifications:
+      - Substantial experience of designing and running production infrastructure, at a level equivalent to a postgraduate diploma.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Mental effort reflects frequent prolonged concentration during incidents and complex changes, including out of hours.
+
+  - pcf_level: Lead infrastructure engineer
+    title: Lead infrastructure engineer
+    band: 8a
+    responsibilities:
+      - Lead the infrastructure for a major platform or group of services, and set its technical direction.
+      - Manage third-party infrastructure suppliers, and hold them to service levels for availability and recovery.
+      - Oversee infrastructure programmes, such as network renewal or moves to cloud hosting.
+      - Make sure infrastructure meets security, information governance, and medical device network standards.
+      - Lead infrastructure teams and develop their skills.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: security-operations, level: working}
+      - {skill: vulnerability-management, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading infrastructure engineering for complex, high-availability services.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests Band 8b for both lead and principal infrastructure engineers. This reference places lead at Band 8a, so that the two levels sit in different bands, in line with lead and principal roles in other technical families.
+
+  - pcf_level: Principal infrastructure engineer
+    title: Principal infrastructure engineer
+    band: 8b
+    responsibilities:
+      - Develop the infrastructure strategy and roadmaps, so that investment delivers resilient, secure, and sustainable hosting for clinical services.
+      - Own operational relationships with strategic infrastructure and network suppliers.
+      - Advise senior leaders on infrastructure risk, including end-of-life technology, single points of failure, and cyber resilience.
+      - Set recovery time and recovery point objectives for clinical systems with service owners, and make sure infrastructure can meet them.
+      - Lead the infrastructure engineering profession across the organisation and develop its capability.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: security-operations, level: working}
+      - {skill: vulnerability-management, level: expert}
+      - {skill: clinical-safety, level: working}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading infrastructure engineering across multiple teams or organisations.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

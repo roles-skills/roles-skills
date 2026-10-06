@@ -1,0 +1,73 @@
+id: chief-clinical-information-officer
+summary: >
+  The chief clinical information officer (CCIO) is the senior clinical leader
+  for digital. They set the clinical direction for the organisation's digital
+  services, lead clinical informatics and clinical safety, and make sure that
+  digital investment improves patient care, safety, and the working lives of
+  clinicians and care staff. They are usually practising clinicians who sit on,
+  or advise, the executive team.
+health_context:
+  - The CCIO brings clinical credibility to digital decisions, so most posts require a registered clinician who still does some clinical work.
+  - They are the senior voice for patient safety in digital services, working with the head of clinical safety and the medical and nursing leaders.
+  - They lead clinicians through large-scale change, such as replacing an electronic health record, where adoption and safety depend on clinical leadership.
+  - They help balance digital ambition with the realities of clinical workload, workforce, and risk.
+levels:
+  - title: Deputy chief clinical information officer
+    band: 8d
+    summary: >
+      Leads major parts of the clinical digital agenda on behalf of the CCIO,
+      such as a care setting, a professional group, or a large clinical system
+      programme, and deputises for the CCIO.
+    responsibilities:
+      - Lead the clinical direction for a major programme, care setting, or professional group.
+      - Lead a team of clinical informaticians and clinical leads, setting priorities and standards.
+      - Advise programme boards and executives on the clinical risk and benefit of digital investment.
+      - Chair clinical design and safety groups and make clinical decisions within delegated authority.
+      - Build networks of clinical champions and lead clinical engagement for large-scale change.
+      - Deputise for the CCIO at executive meetings and with partner organisations.
+    skills:
+      - {skill: clin-professional-practice, level: expert}
+      - {skill: clinical-leadership-in-digital, level: expert}
+      - {skill: clin-clinical-systems-optimisation, level: expert}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: clin-digital-health-evaluation, level: practitioner}
+      - {skill: health-care-context, level: expert}
+      - {skill: people-management, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: expert}
+      - {skill: pcf:strategic-thinking, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: expert}
+    qualifications:
+      - Current registration with a clinical professional body, with extensive clinical and clinical leadership experience.
+      - A master's degree in clinical or health informatics or leadership, or equivalent experience of leading clinical digital change.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 6, policy: 5, financial-resources: 4, people: 4, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Patient care is scored at level 6 for highly specialised advice on patient care across the organisation's digital services.
+
+  - title: Chief clinical information officer
+    band: "9"
+    summary: >
+      The organisation's senior clinical leader for digital, accountable for
+      the clinical direction of its digital services and for leading
+      clinical informatics, with corporate influence over clinical safety.
+    responsibilities:
+      - Set the clinical digital strategy and make sure it supports the organisation's clinical and care strategy.
+      - Advise the board and executive team on the clinical risk, benefit, and priority of digital investment.
+      - Lead the clinical informatics function and the clinical design authority, and oversee clinical safety for health IT.
+      - Lead clinical leaders across the organisation and its partners through large-scale digital change.
+      - Make sure patient safety, clinical evidence, and staff experience shape every major digital decision.
+      - Represent the organisation in professional, academic, and cross-organisation clinical digital networks.
+    skills:
+      - {skill: clin-professional-practice, level: expert}
+      - {skill: clinical-leadership-in-digital, level: expert}
+      - {skill: clinical-safety, level: expert}
+      - {skill: clin-digital-health-evaluation, level: expert}
+      - {skill: health-care-context, level: expert}
+      - {skill: information-governance, level: practitioner}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: practitioner}
+      - {skill: pcf:strategic-thinking, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: expert}
+    qualifications:
+      - Current registration with a clinical professional body, with extensive clinical and senior leadership experience.
+      - Extensive experience of leading clinical digital strategy and change at organisation level.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 6, policy: 6, financial-resources: 4, people: 4, information-resources: 6, research: 2, freedom-to-act: 6, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Patient care is scored at level 6 rather than 7 because the CCIO advises on, but is not usually accountable for delivering, clinical services. Financial and people responsibility are lower than other executive roles because large digital budgets and teams usually sit with the chief digital or information officer.

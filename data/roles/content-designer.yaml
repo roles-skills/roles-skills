@@ -1,0 +1,129 @@
+id: content-designer
+summary: >
+  Content designers make health and care information and services clear, so
+  that patients, carers, clinicians, and care staff can understand what they
+  need to know and do. They design content from evidence of user needs, write
+  in plain English, work with clinical experts to keep it accurate, and look
+  after content across its whole life, from creation to review and retirement.
+health_context:
+  - People often read health content when they are worried, unwell, or in a hurry, so content must be easy to understand and act on for people with low health literacy.
+  - Wrong or out-of-date health information can cause harm, so content designers follow a clinical assurance process with review dates and named clinical reviewers.
+  - Some topics are sensitive or high risk, such as urgent symptoms, mental health, medicines, and end of life care, so content designers work closely with clinicians and user researchers on tone and accuracy.
+  - Clinical systems also need clear content, such as labels, instructions, and alerts, so content designers help reduce errors in clinical workflows.
+  - Health content must be accessible and inclusive, including for people who use assistive technology, read in another language, or need easy read formats.
+levels:
+  - pcf_level: Associate content designer
+    title: Associate content designer
+    band: "4"
+    responsibilities:
+      - Learn content design methods, the style guide, and the clinical review process through training and supervised work.
+      - Carry out standard checks, copy edits, and updates to existing content.
+      - Publish content using the content management system, following assurance steps.
+      - Check content for accessibility, such as headings, link text, and alternative text.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: pd-health-content, level: awareness}
+      - {skill: equality-diversity-inclusion, level: awareness}
+    qualifications:
+      - Working towards a qualification or apprenticeship in a relevant field, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 3, research: 2, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Junior content designer
+    title: Junior content designer
+    band: "5"
+    responsibilities:
+      - Write and update health content and service content, with direction from more senior content designers.
+      - Use research and data to identify what users need to know and the words they use.
+      - Work with clinical reviewers to check accuracy, and explain medical terms in plain English.
+      - Support content publishing, review dates, and content team administration.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: pd-health-content, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: clinical-terminology, level: awareness}
+    qualifications:
+      - A degree or relevant qualification, or equivalent experience of writing for the web.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Content designer
+    title: Content designer
+    band: "6"
+    responsibilities:
+      - Design content across whole user journeys, such as finding a service, preparing for an appointment, and aftercare.
+      - Design content for clinical systems, such as labels, instructions, and alerts, to reduce the chance of error.
+      - Agree accuracy with clinical experts while keeping content clear and usable.
+      - Test content with users, including people with low health literacy and people who use assistive technology.
+      - Contribute to the style guide and content patterns.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: pd-health-content, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: clinical-terminology, level: awareness}
+      - {skill: pd-safety-critical-design, level: awareness}
+    qualifications:
+      - A degree or relevant qualification, or equivalent experience.
+      - Experience of designing content for digital services.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior content designer
+    title: Senior content designer
+    band: "7"
+    responsibilities:
+      - Develop content strategy for large or high-profile areas, such as a major condition area or a public health campaign.
+      - Design content for sensitive and high-risk topics, such as urgent symptoms, mental health, and end of life care.
+      - Set up clinical assurance, evidence sources, and review cycles for a body of health content.
+      - Review others' work to assure quality, and manage or mentor content designers.
+      - Write and map user stories with the team.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: pd-health-content, level: practitioner}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: clinical-terminology, level: working}
+      - {skill: pd-safety-critical-design, level: working}
+    qualifications:
+      - Substantial experience of content design, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Emotional effort is level 2 because senior content designers regularly work on distressing topics, such as serious illness, self-harm, and bereavement.
+
+  - pcf_level: Lead content designer
+    title: Lead content designer
+    band: 8b
+    responsibilities:
+      - Direct a team of content designers and assure content quality across several teams.
+      - Make sure health content meets clinical assurance, accessibility, and style standards.
+      - Work with senior clinical, communications, and product leaders to resource teams and resolve content problems.
+      - Lead content for the organisation's most sensitive or high-risk information.
+      - Line manage and develop content designers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: pd-health-content, level: expert}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: clinical-terminology, level: working}
+      - {skill: pd-safety-critical-design, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading content design across teams.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: There is no Band 8a level, because the UK GDaD PCF places lead content designer at G7 or G6 and this reference follows the suggested Band 8b. Policy is level 5 because the lead sets content standards for a range of services; emotional effort is level 2, as for senior content designers.
+
+  - pcf_level: Head of content design
+    title: Head of content design
+    band: 8c
+    responsibilities:
+      - Develop a content strategy that meets the organisation's objectives and the needs of patients and staff.
+      - Set the organisation's standards for health information content and its clinical assurance.
+      - Lead a content design team able to carry out the strategy, including recruitment and development.
+      - Work with senior clinical and communications leaders to manage health information risks.
+      - Prioritise content work across the organisation.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: pd-health-content, level: expert}
+      - {skill: equality-diversity-inclusion, level: expert}
+      - {skill: clinical-terminology, level: working}
+      - {skill: pd-safety-critical-design, level: working}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading content design and a content practice.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF places both lead content designer and head of content design at G7 or G6, with a suggested Band 8b. This reference places the head at Band 8c, in line with the heads of other user-centred design professions, because the head sets content strategy and standards for the whole organisation.

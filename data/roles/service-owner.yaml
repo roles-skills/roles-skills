@@ -1,0 +1,60 @@
+id: service-owner
+summary: >
+  Service owners are accountable leaders for a digital health service from end
+  to end, across its digital, operational, and clinical parts. They bring
+  together multidisciplinary teams and service partners, set the service's
+  strategy and priorities, own its budget and performance, and make sure it
+  delivers safe, high-quality outcomes and benefits for patients, clinicians,
+  and care staff.
+health_context:
+  - A digital health service is part of a wider care service, so service owners work as equals with clinical and operational leaders and share accountability for the patient's whole experience.
+  - The service owner is accountable for the service's clinical risk being managed, working with the clinical safety officer and accepting residual risk at the right level.
+  - Services handle confidential health information, so service owners make sure information governance, data protection, and cyber security are in place and reviewed.
+  - Live services that support care must be resilient, so service owners make sure business continuity, incident response, and supplier support meet clinical needs.
+  - Benefits in care must be measured and reported, so service owners keep performance indicators that cover safety, quality, access, equity, and cost.
+levels:
+  - pcf_level: Service owner
+    title: Service owner
+    band: 8b
+    responsibilities:
+      - Be accountable for an end-to-end digital health service, such as online access to records or digital referrals, across its whole life cycle.
+      - Set the service strategy and priorities with clinical and operational leaders, balancing user needs, safety, policy, and cost.
+      - Own the service budget and make the case for investment based on benefits for patients and staff.
+      - Make sure clinical risk, information governance, accessibility, and cyber security are managed and assured.
+      - Monitor service performance and benefits, and lead improvement when the service falls short.
+      - Represent the service at governance boards and with partners across the health and care system.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: risk-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading digital, operational, or clinical services.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 5, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Service owner
+    title: Senior service owner
+    band: 8c
+    responsibilities:
+      - Be accountable for a group of related digital health services, or for a critical service used across the care system, such as the electronic patient record.
+      - Set a multi-year strategy for the services with executive, clinical, and operational leaders.
+      - Own budgets and major supplier relationships across the services.
+      - Accept and escalate clinical, information, and operational risk at a senior level, working with the clinical safety officer and the executive owner of information risk.
+      - Lead service owners and multidisciplinary teams, and build a culture of openness and continuous improvement.
+      - Lead the response to major service incidents that affect patient care, and the learning that follows.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: risk-management, level: expert}
+      - {skill: budget-management, level: expert}
+      - {skill: people-management, level: expert}
+      - {skill: governance-and-compliance, level: practitioner}
+    qualifications:
+      - Extensive experience of leading large or critical services, including their budgets and suppliers.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 4, information-resources: 5, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF has one service owner level, at G7 or G6. This reference adds a senior level at Band 8c for services that are critical to care across the organisation, with budgets across several services (financial resources level 5) and regular involvement in serious incidents that affect patients (emotional effort level 2).

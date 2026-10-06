@@ -1,0 +1,86 @@
+id: executive-assistant
+summary: >
+  Executive assistants give senior leaders high-level administrative and
+  business support. They manage diaries, correspondence, meetings, and
+  papers, act as a point of contact for the leader's office, and use judgement
+  to deal with matters on the leader's behalf. They often handle highly
+  confidential and sensitive information.
+health_context:
+  - Senior leaders in health care deal with patient safety incidents, complaints, and staff cases, so executive assistants regularly handle sensitive and confidential material.
+  - Executive offices work closely with boards and committees, so accurate papers, minutes, and governance records matter.
+  - Diaries must make room for urgent matters, such as serious incidents and service outages, at short notice.
+levels:
+  - title: Executive assistant
+    band: "4"
+    summary: >
+      Provides executive support to a director or senior leader, managing
+      their diary, correspondence, and meetings.
+    responsibilities:
+      - Manage a senior leader's diary, setting priorities and resolving clashes.
+      - Handle correspondence, drafting replies and dealing with routine matters on the leader's behalf.
+      - Prepare papers, presentations, and briefings for meetings.
+      - Take minutes and track actions for the leader's meetings.
+      - Act as the first point of contact for the leader's office, using tact and discretion.
+      - Arrange travel, events, and visits.
+    skills:
+      - {skill: corp-diary-and-meeting-management, level: practitioner}
+      - {skill: corp-correspondence-management, level: practitioner}
+      - {skill: corp-minute-taking, level: working}
+      - {skill: corp-administration, level: working}
+      - {skill: corp-office-software, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: pcf:communicating-information, level: working}
+    qualifications:
+      - Substantial experience of administrative support to senior staff, at a level equivalent to a foundation degree.
+    job_evaluation: {communication: 4, knowledge: 4, analytical: 3, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 1, information-resources: 3, research: 1, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Communication is scored at level 4 because the job regularly handles sensitive matters that need tact and persuasion with senior internal and external contacts.
+
+  - title: Senior executive assistant
+    band: "5"
+    summary: >
+      Provides executive support to the chief executive, chair, or an
+      executive director, and coordinates the business of their office.
+    responsibilities:
+      - Manage the diary and priorities of the chief executive or an executive director.
+      - Handle sensitive correspondence, including complaints and enquiries from partners and regulators.
+      - Coordinate executive team meetings, papers, and action logs.
+      - Take formal minutes for executive and committee meetings.
+      - Track commitments and deadlines across the executive office and chase progress.
+      - Supervise other assistants and cover across the executive office.
+    skills:
+      - {skill: corp-diary-and-meeting-management, level: practitioner}
+      - {skill: corp-correspondence-management, level: practitioner}
+      - {skill: corp-minute-taking, level: practitioner}
+      - {skill: corp-office-software, level: practitioner}
+      - {skill: governance-and-compliance, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: pcf:communicating-information, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+    qualifications:
+      - Extensive experience of executive support, at a level equivalent to a degree.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 2, information-resources: 3, research: 1, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Executive office manager
+    band: "6"
+    summary: >
+      Manages the executive office, its staff, and its business cycle, and
+      makes sure the executive team and board are well supported.
+    responsibilities:
+      - Manage the executive office team, setting priorities and supporting their development.
+      - Plan the business cycle for the executive team, including forward plans and papers.
+      - Make sure briefings, papers, and correspondence are accurate, timely, and well judged.
+      - Coordinate the executive response to urgent matters, such as serious incidents and enquiries.
+      - Manage the executive office budget and its systems.
+      - Improve executive office processes and tools.
+    skills:
+      - {skill: corp-diary-and-meeting-management, level: expert}
+      - {skill: corp-correspondence-management, level: expert}
+      - {skill: corp-minute-taking, level: practitioner}
+      - {skill: governance-and-compliance, level: working}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:planning, level: practitioner}
+    qualifications:
+      - Extensive experience of executive support and office management, at a level equivalent to a degree.
+    job_evaluation: {communication: 5, knowledge: 5, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 3, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

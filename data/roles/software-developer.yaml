@@ -1,0 +1,129 @@
+id: software-developer
+summary: >
+  Software developers build, test, and maintain the software behind the
+  organisation's digital health services, such as patient-facing apps, clinical
+  systems, integration services, and data platforms. They work in
+  multidisciplinary product teams, write code that is safe, secure, accessible,
+  and maintainable, and support their services in live operation.
+health_context:
+  - Software can affect patient care, so developers follow the clinical risk management process and contribute evidence to safety cases.
+  - Code often handles confidential health information, so developers apply information governance and secure coding practices by default.
+  - Many services exchange data with other health and care systems, using open interoperability standards such as HL7 FHIR.
+  - Some software may be regulated as a medical device, so developers need to know when to ask for regulatory advice.
+levels:
+  - pcf_level: Apprentice developer
+    title: Apprentice software developer
+    band: "4"
+    responsibilities:
+      - Learn the team's languages, tools, and ways of working through structured training and pairing.
+      - Write and test small, well-defined pieces of code under close supervision.
+      - Follow secure coding, information governance, and clinical safety procedures.
+      - Take part in team ceremonies such as stand-ups, planning, and retrospectives.
+      - Work towards an apprenticeship or equivalent qualification.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: awareness}
+    qualifications:
+      - Enrolled on, or working towards, a software development apprenticeship or equivalent.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Knowledge is scored at the level the job needs once training is complete enough to do the work; information resources reflects work on systems designed by others.
+
+  - pcf_level: Junior developer
+    title: Junior software developer
+    band: "5"
+    responsibilities:
+      - Build and test features for the team's products, working from user stories with guidance.
+      - Write automated tests and fix defects, including in services that support patient care.
+      - Contribute evidence to clinical safety cases, such as test results and change records.
+      - Handle health data securely, following information governance rules.
+      - Support live services, under guidance, as part of the team's support arrangements.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: awareness}
+    qualifications:
+      - A degree in computing or a related subject, a completed apprenticeship, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Developer
+    title: Software developer
+    band: "6"
+    responsibilities:
+      - Design, build, and test features and services independently, choosing suitable approaches.
+      - Review code and help maintain the team's engineering standards.
+      - Build integrations with other health and care systems using open standards such as HL7 FHIR.
+      - Take part in hazard identification and help put clinical safety controls into code and tests.
+      - Investigate and fix problems in live services, including out-of-hours support where the service needs it.
+      - Mentor junior and apprentice developers.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: working}
+    qualifications:
+      - A degree in computing or a related subject, or equivalent experience.
+      - Experience of building and supporting production software.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior developer
+    title: Senior software developer
+    band: "7"
+    responsibilities:
+      - Lead the technical design and delivery of significant features and services.
+      - Set and maintain engineering standards for the team, including testing, security, and accessibility.
+      - Make technical decisions that balance user needs, clinical safety, security, and cost.
+      - Lead incident investigation for the team's services and drive the fixes.
+      - Work with clinical safety officers to make sure safety controls are designed in and tested.
+      - Coach and develop developers in the team.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: medical-device-regulation, level: awareness}
+    qualifications:
+      - Substantial experience of designing, building, and supporting production software, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 4, knowledge: 7, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead developer
+    title: Lead software developer
+    band: 8a
+    responsibilities:
+      - Lead the engineering for a product or group of teams, setting technical direction.
+      - Make sure the software is designed for safety, security, resilience, and interoperability.
+      - Work with architects, product managers, and clinical leads to shape the product roadmap.
+      - Lead the development community of practice and set standards across teams.
+      - Line manage or lead developers, supporting their development and performance.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: practitioner}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading software engineering for complex services.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF lists both lead and principal developer as most often at G7 or G6; this reference places lead at Band 8a and principal at Band 8b.
+
+  - pcf_level: Principal developer
+    title: Principal software developer
+    band: 8b
+    responsibilities:
+      - Set the engineering strategy, standards, and practices for the organisation's software development.
+      - Advise senior leaders on technology choices, risks, and investment.
+      - Lead the resolution of the most complex technical problems across services.
+      - Represent the organisation in cross-organisation and open source engineering communities.
+      - Lead and develop lead developers and grow the organisation's engineering capability.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: health-data-interoperability, level: expert}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading engineering across multiple teams or organisations.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

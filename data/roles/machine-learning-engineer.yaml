@@ -1,0 +1,56 @@
+id: machine-learning-engineer
+summary: >
+  Machine learning engineers take models built by data scientists, or bought
+  from suppliers, and make them work reliably in live health and care services.
+  They build the pipelines that train, test, deploy, and monitor models, and
+  integrate them with clinical and operational systems. They make sure models
+  stay safe, secure, fair, and effective once real patients and staff rely on
+  them.
+health_context:
+  - Models in live use can drift as patient populations, clinical practice, or recording habits change, so performance is monitored for each patient group and models are retrained or withdrawn when needed.
+  - A model that informs diagnosis, triage, or treatment may be regulated as a medical device, which brings formal requirements for its software life cycle, change control, and post-market surveillance.
+  - Clinical safety cases need evidence about how a model fails, how its outputs are shown to clinicians, and what happens when it is unavailable.
+  - Models trained on patient data can leak information about individuals, so training data, model artefacts, and logs are protected like the data itself.
+  - Generative AI and large language models bring further risks, such as made-up content in clinical notes, which need specific testing and human oversight.
+levels:
+  - pcf_level: Senior machine learning engineer
+    title: Senior machine learning engineer
+    band: "7"
+    responsibilities:
+      - Deploy models into production clinical and operational services, with automated testing, versioning, and rollback.
+      - Build monitoring for model performance, drift, and fairness across patient groups, with alerts and clear owners.
+      - Integrate models with clinical systems, using open standards such as HL7 FHIR where possible.
+      - Produce the testing, change, and monitoring evidence needed for clinical safety cases and medical device technical files.
+      - Assess and adapt supplier and open source models for local use, including generative AI models.
+      - Coach data scientists and engineers on machine learning engineering practice.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: data-ai-assurance, level: practitioner}
+    qualifications:
+      - Substantial experience of building and running machine learning systems in production, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 4, knowledge: 7, analytical: 5, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead machine learning engineer
+    title: Lead machine learning engineer
+    band: 8b
+    responsibilities:
+      - Lead the most complex work to bring models from research into safe live use across the organisation.
+      - Define the machine learning life cycle, including the controls needed for regulated and safety-critical models.
+      - Set standards for model testing, monitoring, security, and ethics, and assure models in live use.
+      - Work with clinical safety officers, information governance, and regulatory specialists to agree how models are assessed and approved.
+      - Identify training needs and develop machine learning engineers and related roles.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: medical-device-regulation, level: practitioner}
+      - {skill: data-ai-assurance, level: expert}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Extensive experience of leading machine learning engineering for complex or regulated services.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

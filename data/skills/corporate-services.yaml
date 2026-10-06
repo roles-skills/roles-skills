@@ -1,0 +1,329 @@
+# Corporate services skills original to this reference: administration,
+# executive support, project support, governance, and communications.
+#
+# Ids start with "corp-".
+#
+# Each skill has four proficiency levels, matching the UK GDaD PCF scale:
+# awareness (1), working (2), practitioner (3), expert (4).
+# esco lists the closest ESCO v1.2.1 skills, with the strength of the match:
+# exact, close, broad (ESCO skill is wider), or narrow (ESCO skill is narrower).
+
+skills:
+  - id: corp-administration
+    name: Office administration
+    description: Running the administrative processes that keep a team or service working, such as filing, ordering, data entry, records, and following office procedures.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/ab986bc4-df92-4351-9ac1-aa75af943cf7, label: perform clerical duties, match: close}
+      - {uri: http://data.europa.eu/esco/skill/6a609f8f-1451-4102-ad2d-62c5270e1237, label: office administration, match: close}
+      - {uri: http://data.europa.eu/esco/skill/7c3865d1-e5a9-4043-a7a4-2e9e30468c0b, label: perform office routine activities, match: close}
+    levels:
+      awareness: |
+        You can:
+        - follow office procedures for filing, ordering, and data entry
+        - keep accurate records of your own work
+      working: |
+        You can:
+        - run a range of administrative processes for a team with little supervision
+        - spot and fix errors in records and data
+        - suggest simpler ways of working
+      practitioner: |
+        You can:
+        - organise the administrative support for a service or directorate
+        - write and improve administrative procedures
+        - train and check the work of other administrators
+      expert: |
+        You can:
+        - design administrative services across the organisation
+        - lead the move to simpler, digital administrative processes
+
+  - id: corp-office-software
+    name: Digital office tools
+    description: Using word processing, spreadsheets, presentations, email, shared documents, and collaboration tools quickly and accurately.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/71dde84c-0058-4c52-a556-523369333db8, label: use office systems, match: close}
+      - {uri: http://data.europa.eu/esco/skill/81633a44-f1db-4a01-a940-804c6905e330, label: use word processing software, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be, label: use spreadsheets software, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - create and edit documents, emails, and simple spreadsheets
+        - store and share files in the right place
+      working: |
+        You can:
+        - produce well-formatted documents and presentations quickly and accurately
+        - use spreadsheets to sort, filter, and summarise data
+        - use collaboration tools to manage shared documents and versions
+      practitioner: |
+        You can:
+        - build templates, trackers, and simple automated workflows
+        - make documents accessible to everyone
+        - help colleagues get the most from office tools
+      expert: |
+        You can:
+        - set standards for templates, document management, and collaboration tools
+        - lead the adoption of new office tools across the organisation
+
+  - id: corp-diary-and-meeting-management
+    name: Diary and meeting management
+    description: Managing diaries, meetings, and travel so that people's time is used well and meetings have the right people, papers, and rooms.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/906c9e66-bdee-4f8e-93d7-88d9fcf39a0a, label: fix meetings, match: close}
+      - {uri: http://data.europa.eu/esco/skill/933e7ccf-5d56-46ba-aca4-857f826a6b3a, label: administer appointments, match: close}
+      - {uri: http://data.europa.eu/esco/skill/382ed835-8958-4d86-8471-cff55c6df3e7, label: organise travel arrangements for staff, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - book meetings and rooms using the organisation's tools
+        - send invitations and papers on time
+      working: |
+        You can:
+        - manage diaries for a team, resolving clashes
+        - arrange travel, events, and meetings with outside partners
+        - make sure papers and actions are ready before meetings
+      practitioner: |
+        You can:
+        - manage a senior leader's diary, setting priorities with them
+        - decide what needs their time and what others can handle
+        - plan the annual cycle of meetings for a board or leadership team
+      expert: |
+        You can:
+        - run the business cycle for an executive team
+        - make sure senior leaders' time is focused on the organisation's priorities
+
+  - id: corp-minute-taking
+    name: Minute-taking and meeting records
+    description: Recording discussions, decisions, and actions accurately and concisely, and keeping formal meeting records.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55, label: write work-related reports, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/43b13058-68d0-40c6-8031-caf5a7b7d20c, label: keep task records, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - take notes of actions and decisions in team meetings
+      working: |
+        You can:
+        - write accurate, concise minutes and action logs for routine meetings
+        - follow up actions with their owners
+      practitioner: |
+        You can:
+        - take formal minutes of board and committee meetings, including complex or contentious discussion
+        - keep formal meeting records that stand up to audit and inquiry
+        - advise chairs on what the record should show
+      expert: |
+        You can:
+        - set standards for formal meeting records across the organisation
+        - train and quality-check minute-takers
+
+  - id: corp-correspondence-management
+    name: Correspondence and enquiry handling
+    description: Handling letters, emails, calls, and enquiries promptly and politely, and routing them to the right person.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/dcbeb0b1-631e-4ab5-897a-94e15735ef52, label: route correspondence to business departments, match: close}
+      - {uri: http://data.europa.eu/esco/skill/ab821cc3-a0cb-4fcc-b4c0-bf7c96352cbf, label: maintain correspondence records, match: close}
+      - {uri: http://data.europa.eu/esco/skill/de2f0ce8-f8d6-48c5-a213-4d065251cecf, label: communicate by telephone, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - answer calls and emails politely and take accurate messages
+        - pass enquiries to the right person
+      working: |
+        You can:
+        - handle routine correspondence and enquiries yourself
+        - draft letters and replies for others to sign
+        - keep correspondence logs and chase replies
+      practitioner: |
+        You can:
+        - manage correspondence for a senior leader, including sensitive and complaint letters
+        - draft replies that need tact, accuracy, and judgement
+        - make sure replies meet deadlines
+      expert: |
+        You can:
+        - set the process and standards for executive correspondence
+        - handle the most sensitive correspondence, including with regulators, partners, and the media
+
+  - id: corp-pmo-reporting
+    name: Project and portfolio office support
+    description: Running project and portfolio office processes, such as plans, registers, reporting, document control, and assurance checks.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6, label: manage project information, match: close}
+      - {uri: http://data.europa.eu/esco/skill/4d38b095-6730-4157-9807-8049dd7b43b8, label: document project progress, match: close}
+      - {uri: http://data.europa.eu/esco/skill/c5a135be-218d-48e6-a422-5225a576dcd8, label: manage project metrics, match: close}
+      - {uri: http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d, label: maintain a central project repository, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - keep project documents in the right place, with version control
+        - update action, risk, and issue logs when asked
+      working: |
+        You can:
+        - maintain plans, registers, and trackers for several projects
+        - collect updates and produce regular status reports
+        - check that projects follow the agreed method
+      practitioner: |
+        You can:
+        - design portfolio reporting and analyse progress, risks, and benefits across projects
+        - run assurance checks and gateway reviews
+        - advise project managers on method and controls
+      expert: |
+        You can:
+        - set up and lead a portfolio office for the organisation
+        - give senior leaders clear, reliable insight into the portfolio
+        - set project and portfolio management standards and tools
+
+  - id: corp-assurance-and-audit
+    name: Assurance and audit liaison
+    description: Gathering assurance that controls work, supporting internal and external audits, and tracking audit recommendations to completion.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/24e67151-ff7e-43e2-99c0-424a758278a4, label: liaise with auditors, match: close}
+      - {uri: http://data.europa.eu/esco/skill/8804d963-5a31-4609-b5df-f741b7199fb7, label: internal auditing, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/26baf34d-6721-4bac-b7eb-add0bc566a82, label: attend to detail in preparation for audits, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain how audits and assurance work in the organisation
+        - provide evidence when asked
+      working: |
+        You can:
+        - coordinate evidence for audits and inspections
+        - track audit recommendations and chase overdue actions
+      practitioner: |
+        You can:
+        - plan assurance mapping across the organisation's main risks
+        - work with internal and external auditors to agree scope and findings
+        - report on assurance gaps to committees
+      expert: |
+        You can:
+        - design the organisation's assurance framework
+        - advise the audit committee and board on the strength of assurance
+
+  - id: corp-policy-management
+    name: Policy management
+    description: Writing, reviewing, approving, and publishing the organisation's policies and procedures, and checking that people follow them.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/6fce8d3f-a15f-4f26-943a-d200b32f6949, label: monitor company policy, match: close}
+      - {uri: http://data.europa.eu/esco/skill/bda0d115-f315-453e-99dc-f8b0e5862db3, label: ensure compliance with policies, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - find and follow the policies that apply to your work
+      working: |
+        You can:
+        - keep the policy register up to date and remind owners about reviews
+        - check that policies use the right template and approval route
+      practitioner: |
+        You can:
+        - draft and review policies with subject experts
+        - check policies against law, standards, and equality duties
+        - monitor compliance and report gaps
+      expert: |
+        You can:
+        - set the policy framework for the organisation
+        - advise the board on policy priorities and risks
+
+  - id: corp-internal-communications
+    name: Internal communications
+    description: Keeping staff informed and engaged through channels such as the intranet, newsletters, briefings, and events, especially during change.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/1f6eac42-e5aa-4fa7-a75d-a4eea12c618e, label: disseminate internal communications, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/3838a64c-78dc-4f3f-a0c0-9f604e33eefd, label: maintain internal communication systems, match: close}
+      - {uri: http://data.europa.eu/esco/skill/c779cf40-506b-44b6-a366-b3bff0a5e11a, label: use intranet, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - publish content on internal channels such as the intranet
+        - follow the organisation's style and tone of voice
+      working: |
+        You can:
+        - write and edit news, briefings, and newsletters for staff
+        - plan content for internal channels and measure engagement
+      practitioner: |
+        You can:
+        - plan internal communications for major change, such as a new clinical system
+        - advise leaders on how to engage staff and handle difficult messages
+        - use feedback and data to improve channels
+      expert: |
+        You can:
+        - set the internal communications and staff engagement strategy
+        - advise the executive team on culture and engagement
+
+  - id: corp-media-relations
+    name: Media relations
+    description: Building relationships with journalists, handling media enquiries, writing press releases, and preparing spokespeople, including during incidents.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/7053c54a-994e-4b87-865d-a520b5c401c7, label: establish relationship with the media, match: close}
+      - {uri: http://data.europa.eu/esco/skill/7800332c-a8eb-4792-8d72-50d509616154, label: draft press releases, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/4d313147-b39d-413f-a5e2-b12d5f0dc9e6, label: give interviews to media, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/5330b70e-16f5-43a7-a6de-18fd6a4bd063, label: public relations, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain how the organisation handles media enquiries
+        - pass media enquiries to the communications team straight away
+      working: |
+        You can:
+        - log and respond to routine media enquiries
+        - draft press releases and statements for approval
+        - monitor media coverage
+      practitioner: |
+        You can:
+        - handle sensitive and reactive media enquiries, including about incidents or data breaches
+        - brief and prepare spokespeople
+        - build relationships with health and technology journalists
+      expert: |
+        You can:
+        - lead media handling during major incidents and crises
+        - protect and build the organisation's reputation with senior stakeholders
+        - advise the board on reputational risk
+
+  - id: corp-communications-strategy
+    name: Communications strategy and planning
+    description: Planning communications and campaigns that meet organisational goals, using insight about audiences, and evaluating their effect.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/3c834f6e-523a-49ee-8ed1-e073e28ae6fe, label: develop communications strategies, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/69f36674-440a-4fa0-89f9-1b70172ebb9d, label: advise on communication strategies, match: close}
+      - {uri: http://data.europa.eu/esco/skill/f780a6ad-b01e-4c35-9746-af8fc0c5ad06, label: apply crisis management, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain the aims of a communications plan you are working on
+      working: |
+        You can:
+        - write communications plans for projects, with audiences, messages, and channels
+        - measure the results of communications activity
+      practitioner: |
+        You can:
+        - plan campaigns that change behaviour, such as encouraging patients to use a digital service
+        - use audience insight and evaluation to improve campaigns
+        - plan communications for incidents and service outages
+      expert: |
+        You can:
+        - set the communications strategy for the organisation
+        - lead crisis communications
+        - advise the board on reputation and stakeholder engagement
+
+  - id: corp-digital-and-social-media
+    name: Digital and social media
+    description: Planning, publishing, and managing content on websites and social media, engaging with audiences, and measuring the results.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/5303169c-75d6-4751-9136-a4b88343388c, label: social media management, match: close}
+      - {uri: http://data.europa.eu/esco/skill/52e3507b-1cad-409f-9146-3c5e2afe7df9, label: manage online communications, match: close}
+      - {uri: http://data.europa.eu/esco/skill/e08821b5-d6dd-4db9-a0f1-43185653c244, label: monitor communication channels' performance, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - publish approved content on the organisation's channels
+        - follow the social media policy
+      working: |
+        You can:
+        - plan and publish content for websites and social media
+        - respond to comments and spot issues that need escalating
+        - report on channel performance
+      practitioner: |
+        You can:
+        - manage the organisation's digital channels and their content plans
+        - handle negative or misleading posts, including during incidents
+        - use analytics to improve reach and engagement
+      expert: |
+        You can:
+        - set the strategy and governance for the organisation's digital channels
+        - lead the response to online reputational risks

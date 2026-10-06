@@ -1,0 +1,128 @@
+id: service-designer
+summary: >
+  Service designers design health and care services end to end, from the
+  moment someone first needs help to the end of their care, across digital,
+  phone, paper, and face-to-face channels. They work with patients, carers,
+  clinicians, and care staff to map how services really work, find where they
+  fail people, and design services that are safe, simple, and fair, and that
+  work across organisational boundaries.
+health_context:
+  - Care pathways cross many organisations and professions, so service designers map whole journeys, including handoffs, waits, and the work patients and carers do to hold care together.
+  - Changes to how a service works can create new clinical risks, so service designers work with clinical safety officers to identify hazards in new service models before they go live.
+  - Digital services must not shut out people who cannot or will not use them, so service designers design assisted and non-digital routes alongside digital ones.
+  - Clinical and operational staff are part of the service, so designs must fit their workflows, workload, and professional responsibilities, not only the patient's journey.
+levels:
+  - pcf_level: Associate service designer
+    title: Associate service designer
+    band: "4"
+    responsibilities:
+      - Learn service design methods through training and by working alongside experienced designers.
+      - Help map user journeys and service blueprints from research with patients and staff.
+      - Help prepare and run co-design workshops, following consent and information governance procedures.
+      - Document design decisions and keep design artefacts up to date.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: equality-diversity-inclusion, level: awareness}
+      - {skill: information-governance, level: awareness}
+    qualifications:
+      - Working towards a qualification or apprenticeship in design or a related field, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 3, research: 2, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Junior service designer
+    title: Junior service designer
+    band: "5"
+    responsibilities:
+      - Map current journeys and service blueprints for parts of a care pathway, such as booking or follow-up.
+      - Design and test improvements to parts of a service, with direction from a more senior designer.
+      - Run co-design sessions with patients, carers, and staff, adapting them so everyone can take part.
+      - Identify where a service creates extra work or risk for patients or staff, and raise it with the team.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: pd-safety-critical-design, level: awareness}
+    qualifications:
+      - A degree in design or a related subject, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Service designer
+    title: Service designer
+    band: "6"
+    responsibilities:
+      - Design end-to-end services across channels, including assisted and non-digital routes for people who need them.
+      - Map care pathways across organisations and design better handoffs between teams and services.
+      - Design how the service works for staff, including roles, workload, and workflows, with operational leads.
+      - Work with clinical safety officers to identify hazards in new service models and design controls.
+      - Prototype and test service changes with patients, carers, and staff.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: pd-safety-critical-design, level: working}
+    qualifications:
+      - A degree in design or a related subject, or equivalent experience.
+      - Experience of designing services with users.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior service designer
+    title: Senior service designer
+    band: "7"
+    responsibilities:
+      - Lead the design of complex services that span several care settings or organisations.
+      - Shape the service vision with clinical, operational, and digital leaders.
+      - Design new service models that improve safety, access, and equity, and test them with real users.
+      - Make sure service changes are assessed for clinical risk, equality, and information governance effects.
+      - Mentor designers and embed service design practice in teams.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: pd-safety-critical-design, level: working}
+    qualifications:
+      - Substantial experience of service design, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead service designer
+    title: Lead service designer
+    band: 8b
+    responsibilities:
+      - Set the design direction for multiple services or a whole care pathway, and assure the quality of design across teams.
+      - Work with senior clinical and operational leaders to redesign how care is organised and delivered.
+      - Make sure designs work for people most affected by health inequalities and for staff under pressure.
+      - Set standards for how teams design for clinical safety and for assisted routes.
+      - Line manage and develop service designers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: pd-safety-critical-design, level: practitioner}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading service design across teams.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: There is no Band 8a level, because the UK GDaD PCF places lead service designer at G7 or G6 and this reference follows the suggested Band 8b. Policy is level 5 because the lead designer shapes how a range of services across a directorate work.
+
+  - pcf_level: Head of service design
+    title: Head of service design
+    band: 8c
+    responsibilities:
+      - Lead the service design profession and set its strategy, standards, and ways of working.
+      - Influence organisational strategy so that services are designed around the needs of patients, carers, and staff.
+      - Build service design capability, including recruitment, career paths, and training.
+      - Make the conditions for good design, such as access to users, time to research, and design in governance.
+      - Work with peers across the health and care system to design joined-up services.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: equality-diversity-inclusion, level: expert}
+      - {skill: information-governance, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: pd-safety-critical-design, level: practitioner}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading design and a design practice.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

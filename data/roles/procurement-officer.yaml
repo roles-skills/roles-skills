@@ -1,0 +1,128 @@
+id: procurement-officer
+summary: >
+  Procurement officers help the organisation buy the goods and services it
+  needs, lawfully and at good value, from routine purchases to formal
+  tenders. In a digital health care organisation much of this spending is on
+  software, cloud services, licences, devices, and technology services, so
+  they work closely with digital, information governance, and clinical safety
+  colleagues as well as with budget holders.
+health_context:
+  - Public procurement rules apply to the organisation's spending, so every purchase must follow the right route, keep a clear audit trail, and treat suppliers fairly.
+  - Many purchases are digital, such as software licences, cloud subscriptions, and devices, and need security, data protection, and clinical safety checks before contract.
+  - Suppliers of clinical systems can hold patient data, so contracts need clear terms on data protection, data ownership, and data return.
+  - Buying through frameworks and dynamic purchasing systems built for the public sector can save time, but call-offs must still follow each framework's rules.
+  - Public spending must show value for money and social value, such as local jobs, skills, and lower carbon.
+levels:
+  - title: Procurement assistant
+    band: "3"
+    summary: >
+      Provides purchasing and administrative support, following set
+      procedures, with a procurement officer close by.
+    responsibilities:
+      - Raise and amend purchase orders in the purchasing system, checking them against contracts and approvals.
+      - Resolve routine invoice and receipting queries with suppliers, budget holders, and finance.
+      - Get quotes for low-value purchases following the organisation's rules.
+      - Keep supplier records, catalogues, and the contract register up to date.
+      - Answer routine questions from staff about how to buy.
+    skills:
+      - {skill: proc-purchase-to-pay, level: working}
+      - {skill: proc-procurement-process, level: awareness}
+      - {skill: proc-procurement-law-and-policy, level: awareness}
+      - {skill: proc-contract-management, level: awareness}
+      - {skill: pcf:communicating-information, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: budget-management, level: awareness}
+    qualifications:
+      - A level 2 or 3 qualification, a procurement apprenticeship, or equivalent experience.
+      - Experience of accurate administrative or finance work.
+    job_evaluation: {communication: 3, knowledge: 3, analytical: 2, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 2, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 2 because the job raises and amends orders that commit spending approved by others.
+
+  - title: Buyer
+    band: "4"
+    summary: >
+      Buys goods and services through quotations and framework call-offs,
+      including standard software, devices, and licences, within set
+      procedures.
+    responsibilities:
+      - Run quotations and further competitions under frameworks, using standard templates and the e-tendering system.
+      - Buy standard software, devices, and licences, tracking renewals and licence numbers.
+      - Check that standard security, data protection, and accessibility requirements are included before purchase.
+      - Negotiate prices and terms for routine purchases.
+      - Keep a clear audit trail and publish contract award notices where the rules need them.
+      - Analyse spend data to find off-contract spending and suggest better routes.
+    skills:
+      - {skill: proc-procurement-process, level: working}
+      - {skill: proc-purchase-to-pay, level: practitioner}
+      - {skill: proc-procurement-law-and-policy, level: working}
+      - {skill: proc-technology-procurement, level: working}
+      - {skill: proc-negotiation, level: working}
+      - {skill: proc-market-analysis, level: awareness}
+      - {skill: pcf:creating-value-for-money, level: awareness}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: information-governance, level: working}
+    qualifications:
+      - A procurement qualification at certificate level, a procurement apprenticeship, or equivalent experience.
+      - Experience of buying through quotations or frameworks.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 3, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 3 because the job buys supplies and services on behalf of budget holders.
+
+  - title: Procurement officer
+    band: "5"
+    summary: >
+      Runs procurements of moderate value and complexity, including formal
+      tenders, from planning to contract award, with a senior procurement
+      officer available for advice.
+    responsibilities:
+      - Run formal tenders and framework competitions from planning to award, managing timetables and clarification questions.
+      - Help budget holders write clear, outcome-based specifications, including technical and data protection requirements.
+      - Set up evaluation, check bids for compliance, support evaluators, and record moderation.
+      - Write award reports and feedback to bidders, and manage the standstill period.
+      - Include social value and sustainability questions that fit the contract.
+      - Hand over contracts to contract managers with clear mobilisation and exit plans.
+      - Train budget holders in how to buy and supervise procurement assistants.
+    skills:
+      - {skill: proc-procurement-process, level: practitioner}
+      - {skill: proc-tender-evaluation, level: working}
+      - {skill: proc-procurement-law-and-policy, level: working}
+      - {skill: proc-technology-procurement, level: working}
+      - {skill: proc-market-analysis, level: working}
+      - {skill: proc-negotiation, level: working}
+      - {skill: proc-social-value, level: working}
+      - {skill: pcf:creating-value-for-money, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: information-governance, level: working}
+    qualifications:
+      - A recognised procurement professional qualification at intermediate level, or equivalent experience.
+      - Experience of running formal tenders under public procurement rules.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 3, people: 2, information-resources: 3, research: 1, freedom-to-act: 3, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Senior procurement officer
+    band: "6"
+    summary: >
+      Leads complex procurements, such as clinical systems, cloud services,
+      and technology services, and advises on the right route to market,
+      working with broad freedom within procurement policy.
+    responsibilities:
+      - Lead complex and high-value procurements, choosing the right route to market and procedure.
+      - Lead early market engagement and requests for information, keeping competition fair.
+      - Design evaluation criteria and weightings with technical, clinical, and information governance leads, and lead moderation.
+      - Make sure contracts for technology include interoperability, security, data ownership, exit, and data return terms.
+      - Negotiate with bidders where the procedure allows it, and agree final terms.
+      - Advise on contract changes, extensions, and direct awards, and the risk of challenge.
+      - Coach and check the work of procurement officers and buyers.
+    skills:
+      - {skill: proc-procurement-process, level: practitioner}
+      - {skill: proc-tender-evaluation, level: practitioner}
+      - {skill: proc-procurement-law-and-policy, level: practitioner}
+      - {skill: proc-technology-procurement, level: practitioner}
+      - {skill: proc-market-analysis, level: practitioner}
+      - {skill: proc-negotiation, level: practitioner}
+      - {skill: proc-social-value, level: practitioner}
+      - {skill: pcf:creating-value-for-money, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: people-management, level: working}
+    qualifications:
+      - A recognised procurement professional qualification at advanced level, or equivalent experience.
+      - Substantial experience of leading complex tenders, ideally for technology or clinical systems.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 2, information-resources: 3, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

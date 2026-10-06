@@ -1,0 +1,152 @@
+# Generic pay bands for a digital health care organisation.
+#
+# Each band has a short competency outline. The outlines are original to this
+# reference. sfia_level gives the typical SFIA level of responsibility
+# (SFIA levels are named only; SFIA content is (c) SFIA Foundation).
+# civil_service_grades gives the UK Civil Service grades whose UK GDaD PCF role
+# levels most often map to this band, using the rule in grade_to_band below.
+# job_evaluation_points is the points range for this band in the 16-factor
+# job evaluation scheme (see job-evaluation.yaml).
+
+bands:
+  - id: "1"
+    title: Band 1
+    stage: Entry
+    sfia_level: "1"
+    civil_service_grades: [AA]
+    knowledge: Basic literacy and numeracy; learns simple routine tasks on the job.
+    autonomy: Follows clear instructions; work is checked often.
+    scope: Own routine tasks.
+    leadership: None.
+    accountability: Accurate completion of routine tasks.
+  - id: "2"
+    title: Band 2
+    stage: Support
+    sfia_level: "1"
+    civil_service_grades: [AA, AO]
+    knowledge: Knows the routines and procedures of the work area; may hold an entry qualification.
+    autonomy: Works to set procedures, with supervision available.
+    scope: Own tasks within a team.
+    leadership: May show new starters routine tasks.
+    accountability: Quality and timeliness of own routine work.
+  - id: "3"
+    title: Band 3
+    stage: Support
+    sfia_level: "2"
+    civil_service_grades: [AO]
+    knowledge: Knowledge of a range of procedures, some non-routine; typically a level 3 qualification or equivalent experience.
+    autonomy: Works within procedures; decides how to organise own work; refers problems upward.
+    scope: Own work and some tasks for the wider team.
+    leadership: May allocate routine work or train others in procedures.
+    accountability: Accuracy of own work and of records kept.
+  - id: "4"
+    title: Band 4
+    stage: Support and entry practitioner
+    sfia_level: "2-3"
+    civil_service_grades: [AO, EO]
+    knowledge: Detailed knowledge of the work area, typically from a foundation degree, apprenticeship, or equivalent experience.
+    autonomy: Works within guidelines; resolves most day-to-day problems; manager available for advice.
+    scope: Own work and a defined service or process.
+    leadership: May supervise a small team or coordinate others' work.
+    accountability: Delivery of a defined service or process.
+  - id: "5"
+    title: Band 5
+    stage: Practitioner
+    sfia_level: "3"
+    civil_service_grades: [EO, HEO]
+    knowledge: Professional or technical knowledge, typically from a degree or equivalent experience.
+    autonomy: Works to broad objectives within professional standards; plans own work.
+    scope: Own professional work within a team or product.
+    leadership: May guide and check the work of support staff and apprentices.
+    accountability: Quality of own professional work.
+  - id: "6"
+    title: Band 6
+    stage: Experienced practitioner
+    sfia_level: "4"
+    civil_service_grades: [HEO, SEO]
+    knowledge: Specialist knowledge across a range of procedures, built through further training or experience.
+    autonomy: Works independently; interprets policy for own area; seeks advice on complex issues.
+    scope: A product, service, or workstream.
+    leadership: May lead a small team or mentor colleagues.
+    accountability: Outcomes of own workstream and quality of advice given.
+  - id: "7"
+    title: Band 7
+    stage: Senior or specialist
+    sfia_level: "5"
+    civil_service_grades: [SEO, G7]
+    knowledge: Highly developed specialist knowledge, typically to master's level or equivalent experience.
+    autonomy: Works to organisational policy; decides how results are achieved; is the expert others consult.
+    scope: Several products or services, or a specialist function.
+    leadership: Leads a team or a professional practice area.
+    accountability: Delivery of a service or specialist function, and its budget if held.
+  - id: 8a
+    title: Band 8a
+    stage: Lead
+    sfia_level: "5-6"
+    civil_service_grades: [G7]
+    knowledge: Expert knowledge of a discipline and its management.
+    autonomy: Interprets organisational policy for a service; sets the team's direction.
+    scope: A service area or a discipline across the organisation.
+    leadership: Manages a team, or leads a discipline without line management.
+    accountability: A service area, its staff, and its budget.
+  - id: 8b
+    title: Band 8b
+    stage: Lead
+    sfia_level: "6"
+    civil_service_grades: [G7, G6]
+    knowledge: Expert knowledge across several disciplines or a large service.
+    autonomy: Shapes policy and strategy for a large area.
+    scope: Several services or teams, or a principal-level discipline.
+    leadership: Manages managers, or is the principal authority in a discipline.
+    accountability: Several services, their staff, and their budgets.
+  - id: 8c
+    title: Band 8c
+    stage: Senior lead
+    sfia_level: "6"
+    civil_service_grades: [G6]
+    knowledge: Expert knowledge, and wide organisational and sector understanding.
+    autonomy: Sets strategy for a function; accountable to a director.
+    scope: A function or department.
+    leadership: Leads a function through several management layers.
+    accountability: A function's performance, workforce, and budget.
+  - id: 8d
+    title: Band 8d
+    stage: Senior lead
+    sfia_level: "6-7"
+    civil_service_grades: [G6, SCS1]
+    knowledge: Strategic knowledge across functions and the wider health and care system.
+    autonomy: Shapes organisation-wide strategy; deputises for a director.
+    scope: A major function or several functions.
+    leadership: Leads several functions or a large department.
+    accountability: Major functions, large budgets, and organisation-wide risks.
+  - id: "9"
+    title: Band 9
+    stage: Head of profession or director
+    sfia_level: "7"
+    civil_service_grades: [SCS1]
+    knowledge: Strategic expertise and system-wide leadership.
+    autonomy: Sets organisation strategy with the executive team.
+    scope: The organisation, and its partners across the system.
+    leadership: Leads a profession or directorate.
+    accountability: Organisation-wide outcomes, budgets, and risks.
+
+# Rule used to suggest a band for each UK GDaD PCF role level, from the most
+# common Civil Service grades the framework publishes for that level.
+# The suggestion is a starting point; role files may override it with a reason.
+grade_to_band:
+  AA: "2"
+  AA/AO: "2"
+  AO: "3"
+  AO/EO: "4"
+  EO: "4"
+  EO/HEO: "5"
+  HEO: "5"
+  HEO/SEO: "6"
+  SEO: "6"
+  HEO/SEO/G7: "6"
+  SEO/G7: "7"
+  SEO/G7/G6: "7"
+  G7: 8a
+  G7/G6: 8b
+  G6: 8c
+  SCS1: 8d

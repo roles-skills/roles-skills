@@ -1,0 +1,110 @@
+id: analytics-engineer
+summary: >
+  Analytics engineers turn raw health and care data into clean, tested, and
+  documented data models that analysts, data scientists, and reporting tools can
+  rely on. They sit between data engineering and analysis, applying software
+  engineering practices such as version control, testing, and code review to
+  the transformations behind the organisation's reports and dashboards.
+health_context:
+  - Data models encode clinical and operational definitions, such as what counts as an admission, a readmission, or a breach of a waiting time standard, so definitions are agreed with clinical and operational leads.
+  - Clinical codes from terminologies and classifications such as SNOMED CT and ICD are grouped into reference sets for analysis, which need careful version control.
+  - Models used for performance and funding reports must be consistent and auditable, because errors can affect decisions about patient services.
+  - Models often hold pseudonymised patient-level data, so access, documentation, and data minimisation are built in.
+levels:
+  - pcf_level: Trainee analytics engineer
+    title: Trainee analytics engineer
+    band: "4"
+    responsibilities:
+      - Learn the team's data modelling tools and practices through training and pairing.
+      - Make small, well-defined changes to data models under supervision.
+      - Document data items and their definitions in the data catalogue.
+      - Answer simple questions from data users and record their requirements.
+      - Follow information governance rules when working with patient data.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: data-quality, level: awareness}
+      - {skill: clinical-terminology, level: awareness}
+    qualifications:
+      - Enrolled on, or working towards, a data apprenticeship or equivalent.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Knowledge is scored at the level the job needs once training is complete enough to do the work.
+
+  - pcf_level: Analytics engineer
+    title: Analytics engineer
+    band: "6"
+    responsibilities:
+      - Build and test data models for a service area, such as inpatient activity or community care, from agreed designs.
+      - Write automated tests that check data models against agreed clinical and operational definitions.
+      - Maintain reference sets of clinical codes used in analysis, with clear versions.
+      - Document models so analysts understand their meaning, sources, and limits.
+      - Train and support users of the team's data sets.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: data-quality, level: working}
+      - {skill: clinical-terminology, level: working}
+      - {skill: data-deidentification, level: awareness}
+    qualifications:
+      - A degree in a numerate or computing subject, or equivalent experience.
+      - Experience of building data models or analytical code.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior analytics engineer
+    title: Senior analytics engineer
+    band: "7"
+    responsibilities:
+      - Oversee the design and testing of data models across several service areas.
+      - Agree definitions of key measures with clinical, operational, and finance leads, and make sure models apply them consistently.
+      - Make sure models that feed performance and funding reports are auditable and well tested.
+      - Resolve data issues and risks with data engineers and data owners.
+      - Coach and direct the work of other analytics engineers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: data-quality, level: practitioner}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: data-deidentification, level: working}
+    qualifications:
+      - Substantial experience of data modelling and analytics engineering, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 4, knowledge: 7, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead analytics engineer
+    title: Lead analytics engineer
+    band: 8a
+    responsibilities:
+      - Lead a team that designs, builds, and maintains the organisation's analytical data models.
+      - Set standards for data models, tests, documentation, and definitions of measures.
+      - Work with teams across the organisation to understand how clinical and operational processes create data.
+      - Review the work of other analytics engineers and improve the team's ways of working.
+      - Line manage analytics engineers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-quality, level: practitioner}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: data-deidentification, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading analytics engineering or data modelling.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Head of analytics engineering
+    title: Head of analytics engineering
+    band: 8c
+    responsibilities:
+      - Set the direction for the organisation's analytical data models, so that analysis across the organisation uses one trusted set of definitions.
+      - Make sure analytics engineering priorities support the organisation's strategy and reporting duties.
+      - Advise senior leaders on the trustworthiness of the data behind major reports and decisions.
+      - Make sure the community has the tools and platforms it needs, and manage the related budget.
+      - Build analytics engineering capability through technical leadership and career development.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-quality, level: expert}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading analytics engineering across an organisation.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

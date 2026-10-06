@@ -1,0 +1,57 @@
+id: incident-manager
+summary: >
+  Incident managers restore normal service as quickly as possible when
+  something goes wrong, and keep the effect on users as small as possible. They
+  coordinate technical teams and suppliers, keep users and leaders informed,
+  and make sure incidents are recorded and passed to problem management. In
+  health care, incidents can directly affect patient care, so incident managers
+  work closely with clinical and operational leaders.
+health_context:
+  - An outage of a clinical system can delay treatment, so incidents are prioritised by clinical impact, and clinical leads may need to start downtime procedures.
+  - Major incidents can happen at any time, so incident managers take part in on-call rotas and may be called out at night or at weekends.
+  - A cyber attack, such as ransomware, can become a major incident that affects the whole organisation and lasts for days or weeks.
+  - Major IT incidents may need to link with the organisation's emergency preparedness and business continuity arrangements.
+  - Incidents that may have harmed patients are also reported through the clinical incident process and reviewed with clinical safety.
+levels:
+  - pcf_level: Incident manager
+    title: Incident manager
+    band: "5"
+    responsibilities:
+      - Coordinate the response to incidents affecting clinical and corporate services, from first report to restored service.
+      - Assess the clinical and operational impact of each incident and set its priority.
+      - Keep affected users, the service desk, and clinical leads informed with clear, timely updates.
+      - Escalate incidents to the major incident manager when they meet the agreed criteria.
+      - Make sure incidents are recorded accurately and passed to problem management.
+      - Take part in the on-call rota for out-of-hours incidents.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: security-operations, level: awareness}
+    qualifications:
+      - Experience of IT support or operations, including handling incidents.
+      - An IT service management foundation qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Mental effort reflects frequent prolonged concentration under time pressure, including on call. Emotional effort reflects frequent indirect exposure to the effect of outages on patients and staff.
+
+  - pcf_level: Major incident manager
+    title: Major incident manager
+    band: "7"
+    responsibilities:
+      - Lead the response to major incidents, such as outages of the electronic patient record, network failures, and cyber attacks.
+      - Run incident calls that bring together technical teams, suppliers, clinical leads, and communications staff.
+      - Advise clinical and operational leaders on when to start and stop downtime and business continuity procedures.
+      - Brief senior leaders and, where needed, link with the organisation's emergency response arrangements.
+      - Lead post-incident reviews and make sure lessons are learned and acted on.
+      - Develop and test major incident plans with business continuity and emergency planning leads.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: security-operations, level: working}
+      - {skill: risk-management, level: working}
+    qualifications:
+      - Substantial experience of managing incidents in complex, high-availability services.
+      - An advanced IT service management qualification, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Mental effort reflects frequent prolonged concentration during major incidents, often out of hours. Emotional effort reflects frequent indirect exposure to the effect of major outages on patient care.

@@ -1,0 +1,119 @@
+id: cyber-security-manager
+summary: >
+  Cyber security managers lead the organisation's approach to protecting its
+  systems, data, and services from cyber threats. They set security policy,
+  manage cyber risk, oversee security operations and engineering, lead the
+  response to major cyber incidents, and build a security-aware culture. In
+  health care, they make sure clinical services can keep running safely, and
+  recover quickly, when an attack happens.
+health_context:
+  - A cyber attack on a health care organisation can stop clinical systems and put patients at risk, so cyber security is part of patient safety and business continuity.
+  - Health care organisations often have to meet sector cyber security standards and report serious incidents to the relevant authorities.
+  - Clinical staff need fast access to systems, so security policies are designed with clinicians and tested for usability.
+  - Security depends on many suppliers, including clinical system suppliers and shared services, so supplier assurance is a core part of the role.
+  - Medical devices and legacy systems create long-lasting risks that are managed with clinical engineering and clinical safety teams.
+levels:
+  - title: Cyber security manager
+    band: 8a
+    summary: A cyber security manager runs the cyber security function, or a major part of it, managing cyber risk, security operations, and assurance.
+    responsibilities:
+      - Run security operations, vulnerability management, and assurance work, and report on their performance.
+      - Maintain the cyber risk register, and make sure risks to clinical services are assessed and owned.
+      - Write and maintain security policies and standards, and check that they are followed.
+      - Lead the response to cyber incidents, working with incident management and with clinical and operational leaders.
+      - Run security awareness training and phishing exercises for all staff, including clinical staff.
+      - Line manage security analysts and engineers.
+    skills:
+      - {skill: "pcf:cyber-security-governance", level: practitioner}
+      - {skill: "pcf:cyber-risk-management", level: practitioner}
+      - {skill: "pcf:cyber-incident-management", level: practitioner}
+      - {skill: "pcf:changing-security-culture", level: working}
+      - {skill: security-operations, level: practitioner}
+      - {skill: vulnerability-management, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: health-care-context, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of cyber security, including incident response and risk management, at a level equivalent to a master's degree.
+      - A recognised professional security certification, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Mental and emotional effort reflect leading the response to cyber incidents under pressure, often out of hours, where patient care may be at risk.
+
+  - title: Senior cyber security manager
+    band: 8b
+    summary: A senior cyber security manager leads cyber security across several teams, manages assurance against sector standards, and runs the organisation's security improvement programme.
+    responsibilities:
+      - Lead cyber security teams across operations, engineering, and assurance.
+      - Run the organisation's cyber security improvement programme and manage its budget.
+      - Manage assurance against sector cyber security standards and ISO/IEC 27001 controls, and prepare evidence for audits.
+      - Lead the response to major cyber incidents, and plan and test recovery with business continuity and clinical leads.
+      - Assess the security of suppliers and shared services, and agree security requirements in contracts.
+      - Advise programme boards on the security risks of new clinical and digital services.
+    skills:
+      - {skill: "pcf:cyber-security-governance", level: practitioner}
+      - {skill: "pcf:cyber-risk-management", level: practitioner}
+      - {skill: "pcf:cyber-incident-management", level: practitioner}
+      - {skill: "pcf:changing-security-culture", level: practitioner}
+      - {skill: "pcf:strategic-cyber-security-planning", level: working}
+      - {skill: information-governance, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: health-care-context, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading cyber security teams in a complex organisation.
+      - A recognised professional security certification, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Mental and emotional effort reflect leading the response to major cyber incidents, which can last days or weeks and threaten patient care.
+
+  - title: Head of cyber security
+    band: 8c
+    summary: A head of cyber security sets the organisation's cyber security strategy and is accountable for its cyber risk management, security operations, and response to major incidents.
+    responsibilities:
+      - Set the cyber security strategy, in line with the organisation's digital and clinical strategies.
+      - Advise the board and executive team on cyber risk, risk appetite, and investment.
+      - Lead the organisation's response to major cyber incidents, including communication with regulators, partners, and the public.
+      - Build a security culture in which all staff, including clinicians, understand threats and report them.
+      - Represent the organisation in health care cyber security networks and with partner organisations.
+      - Lead and develop the cyber security function, and manage its budget.
+    skills:
+      - {skill: "pcf:strategic-cyber-security-planning", level: practitioner}
+      - {skill: "pcf:cyber-security-governance", level: expert}
+      - {skill: "pcf:cyber-risk-management", level: expert}
+      - {skill: "pcf:cyber-incident-management", level: practitioner}
+      - {skill: "pcf:changing-security-culture", level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: health-care-context, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading cyber security for a large organisation, including major incident response.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+
+  - title: Chief information security officer
+    band: 8d
+    summary: A chief information security officer has corporate responsibility for cyber security across the organisation, and often across partner organisations that share its services.
+    responsibilities:
+      - Hold corporate responsibility for cyber security, and report on it to the board.
+      - Set the security risk appetite with the board, and make sure it shapes decisions across the organisation.
+      - Lead cyber security across shared services and partner organisations, where the organisation provides them.
+      - Direct the organisation's response to the most serious cyber incidents, working with the executive team and the relevant authorities.
+      - Shape cyber security practice across the health and care sector by working with partners and sector bodies.
+      - Lead the security function and hold budgets across several services.
+    skills:
+      - {skill: "pcf:strategic-cyber-security-planning", level: expert}
+      - {skill: "pcf:cyber-security-governance", level: expert}
+      - {skill: "pcf:cyber-risk-management", level: expert}
+      - {skill: "pcf:cyber-incident-management", level: expert}
+      - {skill: "pcf:changing-security-culture", level: expert}
+      - {skill: information-governance, level: practitioner}
+      - {skill: risk-management, level: expert}
+      - {skill: health-care-context, level: practitioner}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading cyber security at board level, or for several organisations.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 5, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: This level fits larger organisations, or those that provide shared digital services to partners. Smaller organisations usually have a head of cyber security at Band 8c as their most senior security role.

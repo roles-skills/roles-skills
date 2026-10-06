@@ -1,0 +1,330 @@
+# Procurement and commercial skills original to this reference: the skills
+# used to buy goods and services, run tenders, and manage contracts and
+# suppliers under public procurement rules.
+#
+# Each skill has four proficiency levels, matching the UK GDaD PCF scale:
+# awareness (1), working (2), practitioner (3), expert (4).
+# esco lists the closest ESCO v1.2.1 skills, with the strength of the match:
+# exact, close, broad (ESCO skill is wider), or narrow (ESCO skill is narrower).
+
+skills:
+  - id: proc-purchase-to-pay
+    name: Purchase to pay
+    description: Raising, approving, and receipting orders, and resolving invoice and payment queries, through the organisation's purchasing system and financial controls.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/c7d64df4-7af3-4269-add6-97833bd5448e, label: manage purchasing cycle, match: close}
+      - {uri: http://data.europa.eu/esco/skill/73225018-7139-433b-bdba-2b90774761d9, label: issue purchase orders, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/bc067d2e-e151-408f-8e34-24effd2b7fd6, label: use e-procurement, match: close}
+    levels:
+      awareness: |
+        You can:
+        - explain the "no purchase order, no payment" rule and why it matters
+        - raise a requisition in the purchasing system
+      working: |
+        You can:
+        - create and amend purchase orders and check them against contracts
+        - resolve invoice, receipting, and payment queries with suppliers and finance
+        - maintain catalogues and supplier records in the purchasing system
+      practitioner: |
+        You can:
+        - run the purchase to pay process for a service, monitoring compliance and backlogs
+        - analyse spend data to find off-contract spend and savings
+        - improve the process and controls with finance colleagues
+      expert: |
+        You can:
+        - set the organisation's purchase to pay policy, controls, and systems
+        - lead the move to fully electronic purchasing and invoicing
+
+  - id: proc-procurement-process
+    name: Procurement process
+    description: Running compliant procurements, from planning and specification through routes to market, tender, award, and contract signature, including buying through frameworks and dynamic purchasing systems.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/9e9a4209-c7cf-4f6e-973e-dc2ffadccc74, label: perform procurement processes, match: close}
+      - {uri: http://data.europa.eu/esco/skill/4b2c4de9-43d7-4905-9d58-bc2e7d84b2e1, label: manage tender processes, match: close}
+      - {uri: http://data.europa.eu/esco/skill/3bc08c26-2f98-4730-bbb6-ec4a8566e3cf, label: procurement lifecycle, match: close}
+      - {uri: http://data.europa.eu/esco/skill/6789d5a3-34ca-4417-bb93-331319b01da3, label: draft tender documentation, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain the stages of a procurement and the thresholds that apply
+        - get quotes for low-value purchases following the organisation's rules
+      working: |
+        You can:
+        - run quotations and call-offs from frameworks using standard templates
+        - prepare tender documents and manage clarification questions on the e-tendering system
+        - keep a clear audit trail of each procurement
+      practitioner: |
+        You can:
+        - plan and lead complex tenders, choosing the right route to market and procedure
+        - help users write outcome-based specifications for digital and clinical systems
+        - manage timetables, risks, and stakeholders through to contract award
+      expert: |
+        You can:
+        - set the organisation's procurement procedures and templates
+        - lead the most complex, high-value, or novel procurements
+        - assure procurement decisions for the board
+
+  - id: proc-tender-evaluation
+    name: Tender evaluation
+    description: Designing evaluation criteria and weightings, and running fair and well-recorded evaluation of quality, price, and social value.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/8faefbc1-4745-4b3f-9889-81cd1d40b67c, label: evaluate tender, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/ae25d3a9-a85f-415c-a601-806013ea8229, label: compare contractors' bids, match: close}
+    levels:
+      awareness: |
+        You can:
+        - explain why evaluation must follow the published criteria
+        - declare conflicts of interest before taking part in an evaluation
+      working: |
+        You can:
+        - check bids for compliance and completeness
+        - support evaluators and record scores and moderation notes
+        - prepare price evaluation models under guidance
+      practitioner: |
+        You can:
+        - design evaluation criteria, weightings, and scoring guidance
+        - lead moderation and write award reports and feedback to bidders
+        - plan demonstrations and clinical or user scenario testing for system tenders
+      expert: |
+        You can:
+        - set the organisation's evaluation standards and approach to price and quality
+        - defend evaluation decisions when they are challenged
+        - review evaluations on high-risk procurements
+
+  - id: proc-procurement-law-and-policy
+    name: Public procurement rules and policy
+    description: Applying public procurement rules, the organisation's financial rules, and procurement policy so that buying is lawful, transparent, and fair.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/9b862976-aa05-4bde-8ed6-8f39790edd0f, label: procurement legislation, match: close}
+      - {uri: http://data.europa.eu/esco/skill/a6ae7a34-5a5c-48dd-9b82-8beccca63e3c, label: ensure compliance with purchasing and contracting regulations, match: close}
+    levels:
+      awareness: |
+        You can:
+        - explain that public money must be spent fairly, openly, and lawfully
+        - follow the organisation's thresholds and approval rules
+      working: |
+        You can:
+        - apply the procurement rules that fit a straightforward purchase
+        - publish notices and keep records that meet transparency rules
+        - spot when a request risks breaking the rules and raise it
+      practitioner: |
+        You can:
+        - advise on the lawful route for complex procurements and contract changes
+        - manage the risk of challenge and handle standstill and debrief correctly
+        - write procurement policy and guidance for the organisation
+      expert: |
+        You can:
+        - interpret new procurement rules and lead the organisation's response
+        - advise the board on procurement compliance and risk
+        - manage formal challenges with legal advisers
+
+  - id: proc-market-analysis
+    name: Market analysis and engagement
+    description: Understanding supply markets, engaging suppliers before procurement, and using market evidence to shape requirements, routes to market, and commercial models.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/6c97d04d-7239-4dc7-90ef-3e812ba2b124, label: perform procurement market analysis, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/11747665-0e98-4f27-bd0d-536862cd5746, label: identify suppliers, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/6dd4ce8c-1813-429d-9f06-3382c4833ca3, label: assess procurement needs, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - find suppliers on frameworks and supplier databases
+        - explain why early market engagement must be fair to all suppliers
+      working: |
+        You can:
+        - gather market information, prices, and supplier details for a requirement
+        - run a request for information and summarise the responses
+      practitioner: |
+        You can:
+        - analyse a supply market, its competition, risks, and trends
+        - lead early market engagement, such as supplier days, without distorting competition
+        - use market evidence to shape requirements and commercial models
+      expert: |
+        You can:
+        - shape markets, for example by encouraging new or smaller suppliers
+        - lead market strategy with other buying organisations
+
+  - id: proc-negotiation
+    name: Commercial negotiation
+    description: Planning and conducting negotiations with suppliers to agree price, terms, and performance that give value for money and manage risk.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/5f2efbdf-08a2-49cd-9c06-bd284e4f0fbf, label: negotiate terms with suppliers, match: close}
+      - {uri: http://data.europa.eu/esco/skill/c842be42-81b3-40f2-904c-ea8790ac88bd, label: negotiate supplier arrangements, match: close}
+      - {uri: http://data.europa.eu/esco/skill/fde186df-c9c4-49f5-b2a5-d66adc7c43a5, label: negotiate buying conditions, match: close}
+    levels:
+      awareness: |
+        You can:
+        - explain what can and cannot be negotiated in a public procurement
+      working: |
+        You can:
+        - negotiate prices and terms for low-value or routine purchases
+        - prepare data and options for a negotiation led by others
+      practitioner: |
+        You can:
+        - plan and lead negotiations, setting objectives, limits, and fallback positions
+        - negotiate contract variations, renewals, and settlement of disputes
+        - keep negotiations lawful and well recorded
+      expert: |
+        You can:
+        - lead high-value, high-risk negotiations with strategic suppliers
+        - coach others in negotiation and set the organisation's negotiation approach
+
+  - id: proc-category-management
+    name: Category management
+    description: Managing a category of spend, such as software, cloud, and technology services, through a category strategy that pools demand, shapes requirements, and plans procurements over several years.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/29cd7e7b-215c-483a-b67a-6bdad0647de9, label: develop procurement strategy, match: close}
+      - {uri: http://data.europa.eu/esco/skill/a9dc9e40-14a6-4899-93ec-29d5c79c2ebd, label: manage procurement planning, match: close}
+    levels:
+      awareness: |
+        You can:
+        - explain what a category is and why category plans matter
+      working: |
+        You can:
+        - analyse spend and contracts for a category and keep the contract register up to date
+        - support the category plan, such as tracking renewals and savings
+      practitioner: |
+        You can:
+        - write and deliver a category strategy with budget holders and technical leads
+        - plan the pipeline of procurements and contract renewals for the category
+        - track savings, value, and risks for the category
+      expert: |
+        You can:
+        - set the category management approach for the organisation
+        - lead categories with the highest spend and risk, and align them with organisational strategy
+        - work with other organisations on collaborative buying
+
+  - id: proc-technology-procurement
+    name: Technology and cloud procurement
+    description: Buying software, cloud services, licences, hardware, and digital services, including software as a service, commercial models, licensing, and the security, data protection, and interoperability terms that health technology needs.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/32428b21-514b-42c2-81b5-244a7804ea74, label: procurement of ICT network equipment, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/31599ac3-e03c-42f8-8f08-b549af8234f2, label: draft procurement technical specifications, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/63f0aa84-5e4c-4eb6-8e8c-876d9feedf1f, label: Outsourcing model, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain the main ways technology is bought, such as licences, subscriptions, and services
+        - recognise that clinical systems need security, clinical safety, and data protection checks
+      working: |
+        You can:
+        - buy standard software, hardware, and licences through frameworks
+        - track licence numbers, renewals, and true-up dates
+        - include standard security and data protection requirements in documents
+      practitioner: |
+        You can:
+        - buy cloud, software as a service, and clinical systems, choosing the right commercial model
+        - build requirements with technical, clinical safety, and information governance leads
+        - include interoperability, open standards, data ownership, and exit terms in contracts
+        - avoid lock-in by planning for portability and competition at renewal
+      expert: |
+        You can:
+        - set the organisation's commercial strategy for technology and cloud
+        - lead negotiations on enterprise agreements and strategic platforms
+        - advise digital leaders on the commercial risks of technology choices
+
+  - id: proc-contract-management
+    name: Contract management
+    description: Managing contracts after award, including mobilisation, performance, payments, changes, disputes, renewal, and exit, so that the organisation gets what it paid for.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/92721092-fe7c-4689-96bd-4f02385bc0e7, label: manage contracts, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/a703b581-ad64-4791-8bb3-624aea569fa5, label: maintain contract administration, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/1368c06f-202d-4776-8153-93aed512cc64, label: perform contract reporting and evaluation, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/f79e4715-5776-485c-ab7d-631c9b8d70ad, label: manage contract disputes, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - find a contract and explain its key dates, value, and owner
+        - record contract changes and documents in the contract register
+      working: |
+        You can:
+        - monitor supplier performance against service levels and key performance indicators
+        - prepare contract review meetings and track actions
+        - process contract variations and check invoices against the contract
+      practitioner: |
+        You can:
+        - manage a portfolio of contracts, including clinical and technology contracts
+        - use contract remedies, such as service credits, when performance falls short
+        - manage changes, disputes, and renewals within the procurement rules
+        - plan exit early and test exit plans before contracts end
+      expert: |
+        You can:
+        - set the organisation's contract management framework and standards
+        - lead the management of strategic, high-risk contracts
+        - resolve major disputes and decide on termination or re-procurement
+
+  - id: proc-supplier-relationship-management
+    name: Supplier relationship management
+    description: Building strategic relationships with key suppliers to manage risk, improve performance, and develop products and services over time.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/3cd35f5d-ce6d-4f14-9a09-53d7a28d834c, label: maintain relationship with suppliers, match: close}
+      - {uri: http://data.europa.eu/esco/skill/fe1ec582-d63b-466c-9149-e7fc4fe93e22, label: supplier management, match: close}
+      - {uri: http://data.europa.eu/esco/skill/96ec2d53-4f41-4172-8ef2-70742c4bb540, label: assess supplier risks, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain why good supplier relationships matter for services that patients rely on
+        - deal with suppliers professionally and record contacts
+      working: |
+        You can:
+        - keep supplier contacts, escalation routes, and records current
+        - check supplier financial health and insurance against requirements
+      practitioner: |
+        You can:
+        - segment suppliers by risk and value and plan how to manage each group
+        - run strategic reviews with key suppliers, including roadmap and improvement plans
+        - manage supplier risks, such as financial failure, cyber incidents, and supply chain issues
+      expert: |
+        You can:
+        - set the organisation's supplier relationship strategy
+        - lead executive relationships with strategic suppliers
+        - lead the response when a critical supplier fails
+
+  - id: proc-exit-planning
+    name: Exit planning and data return
+    description: Planning and managing the end of a contract, including transition to a new supplier, return and deletion of data, and continuity of services for patients and staff.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/909a28ce-d4b6-4567-9b74-d111f1ed9633, label: maintain plan for continuity of operations, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/92721092-fe7c-4689-96bd-4f02385bc0e7, label: manage contracts, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain why every contract needs an exit plan
+        - find a contract's exit and data return terms
+      working: |
+        You can:
+        - keep exit plans and asset and data registers up to date
+        - track notice periods and exit milestones
+      practitioner: |
+        You can:
+        - write exit and transition plans with technical, data, and clinical leads
+        - make sure data is returned in usable, standard formats and then deleted securely
+        - manage transition risks so that care is not disrupted
+      expert: |
+        You can:
+        - set the organisation's standards for exit, transition, and data return
+        - lead exits from strategic clinical and technology contracts
+
+  - id: proc-social-value
+    name: Social value and sustainable procurement
+    description: Using procurement and contracts to deliver social value, environmental sustainability, and fair supply chains, and measuring what suppliers deliver.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/6962058d-9808-4820-a6bc-d7cabce60cde, label: implement sustainable procurement, match: close}
+      - {uri: http://data.europa.eu/esco/skill/66db424f-2abe-420d-8e5b-186607266b61, label: corporate social responsibility, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain what social value and sustainable procurement mean for the organisation
+      working: |
+        You can:
+        - include standard social value and sustainability questions in tenders
+        - collect social value reports from suppliers
+      practitioner: |
+        You can:
+        - set social value and sustainability criteria that fit the contract
+        - manage supplier commitments, such as local jobs, skills, and carbon reduction
+        - check supply chains for risks such as forced labour and other human rights abuses
+      expert: |
+        You can:
+        - set the organisation's social value and sustainable procurement policy
+        - report social value and carbon outcomes to the board

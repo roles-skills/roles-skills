@@ -1,0 +1,207 @@
+pcf_family	pcf_role	level_number	pcf_level	civil_service_grades	suggested_band
+User-centred design	Accessibility specialist	1	Junior accessibility specialist	EO/HEO	5
+User-centred design	Accessibility specialist	2	Accessibility specialist	HEO/SEO	6
+User-centred design	Accessibility specialist	3	Senior accessibility specialist	SEO/G7	7
+User-centred design	Accessibility specialist	4	Head of accessibility	G7/G6	8b
+Product and delivery	Agile coach	1	Senior agile coach		
+Product and delivery	Agile coach	2	Lead agile coach		
+Data	Analytics engineer	1	Trainee analytics engineer	AO/EO	4
+Data	Analytics engineer	2	Analytics engineer	HEO/SEO	6
+Data	Analytics engineer	3	Senior analytics engineer	SEO/G7	7
+Data	Analytics engineer	4	Lead analytics engineer	G7	8a
+Data	Analytics engineer	5	Head of analytics engineering	G6	8c
+IT operations	Application operations engineer	1	Associate application operations engineer	EO	4
+IT operations	Application operations engineer	2	Application operations engineer	HEO	5
+IT operations	Application operations engineer	3	Senior application operations engineer	HEO/SEO	6
+IT operations	Application operations engineer	4	Lead application operations engineer	SEO/G7	7
+IT operations	Application operations engineer	5	Principal application operations engineer	G6	8c
+Product and delivery	Business analyst	1	Trainee business analyst	EO	4
+Product and delivery	Business analyst	2	Junior business analyst	EO/HEO	5
+Product and delivery	Business analyst	3	Business analyst	HEO/SEO	6
+Product and delivery	Business analyst	4	Senior business analyst	SEO/G7	7
+Product and delivery	Business analyst	5	Lead business analyst	G7	8a
+Product and delivery	Business analyst	6	Head of business analysis	G6	8c
+Architecture	Business architect	1	Trainee business architect	EO/HEO	5
+Architecture	Business architect	2	Associate business architect	SEO	6
+Architecture	Business architect	3	Business architect	SEO/G7	7
+Architecture	Business architect	4	Lead business architect	G7/G6	8b
+IT operations	Business relationship manager	1	Business relationship manager	EO/HEO	5
+IT operations	Business relationship manager	2	Senior business relationship manager	SEO/G7	7
+IT operations	Business relationship manager	3	Lead business relationship manager	G7/G6	8b
+IT operations	Business relationship manager	4	Head of business relationship management	SEO/G7	7
+IT operations	Change and release manager	1	Configuration analyst	HEO/SEO	6
+IT operations	Change and release manager	2	Change and release analyst	EO/HEO	5
+IT operations	Change and release manager	3	Change and release manager	HEO/SEO/G7	6
+IT operations	Command and control centre manager	1	Operations analyst	EO/HEO	5
+IT operations	Command and control centre manager	2	Senior operations analyst	SEO	6
+IT operations	Command and control centre manager	3	Operational control manager	SEO/G7	7
+IT operations	Command and control centre manager	4	Head of command and control	G6	8c
+User-centred design	Content designer	1	Associate content designer	EO	4
+User-centred design	Content designer	2	Junior content designer	EO/HEO	5
+User-centred design	Content designer	3	Content designer	HEO/SEO	6
+User-centred design	Content designer	4	Senior content designer	SEO/G7	7
+User-centred design	Content designer	5	Lead content designer	G7/G6	8b
+User-centred design	Content designer	6	Head of content design	G7/G6	8b
+User-centred design	Content strategist	1	Content strategist	SEO/G7	7
+Data	Data analyst	1	Associate data analyst	EO/HEO	5
+Data	Data analyst	2	Data analyst	HEO/SEO	6
+Data	Data analyst	3	Senior data analyst	SEO/G7	7
+Data	Data analyst	4	Principal data analyst	G7/G6	8b
+Data	Data and artificial intelligence (AI) ethicist	1	Data and AI ethicist		
+Data	Data and artificial intelligence (AI) ethicist	2	Senior data and AI ethicist		
+Data	Data and artificial intelligence (AI) ethicist	3	Lead data and AI ethicist	SEO/G7	7
+Data	Data and artificial intelligence (AI) ethicist	4	Head of data and AI ethics	G6	8c
+Architecture	Data architect	1	Data architect	SEO/G7	7
+Architecture	Data architect	2	Senior data architect	G7/G6	8b
+Architecture	Data architect	3	Chief data architect	G6	8c
+Data	Data engineer	1	Data engineer	HEO/SEO	6
+Data	Data engineer	2	Senior data engineer	SEO/G7	7
+Data	Data engineer	3	Lead data engineer	G7	8a
+Data	Data engineer	4	Head of data engineering	G7/G6	8b
+Data	Data governance manager	1	Data governance manager	HEO/SEO/G7	6
+Data	Data governance manager	2	Lead data governance manager	G7/G6	8b
+Data	Data governance manager	3	Head of data governance	G6	8c
+Data	Data scientist	1	Trainee data scientist	AO/EO	4
+Data	Data scientist	2	Associate data scientist	EO/HEO	5
+Data	Data scientist	3	Data scientist	HEO/SEO	6
+Data	Data scientist	4	Principal data scientist	SEO/G7	7
+Data	Data scientist	5	Lead data scientist	G7/G6	8b
+Data	Data scientist	6	Head of data science	G7/G6	8b
+Product and delivery	Delivery manager	1	Associate delivery manager	EO/HEO	5
+Product and delivery	Delivery manager	2	Delivery manager	SEO/G7	7
+Product and delivery	Delivery manager	3	Senior delivery manager	G7	8a
+Product and delivery	Delivery manager	4	Head of (Agile) delivery management	G6	8c
+Software development	Development operations (DevOps) engineer	1	Apprentice DevOps engineer	AO/EO	4
+Software development	Development operations (DevOps) engineer	2	Junior DevOps engineer	EO	4
+Software development	Development operations (DevOps) engineer	3	DevOps engineer	HEO/SEO	6
+Software development	Development operations (DevOps) engineer	4	Senior DevOps engineer	SEO/G7	7
+Software development	Development operations (DevOps) engineer	5	Senior DevOps engineer - management		
+Software development	Development operations (DevOps) engineer	6	Lead DevOps engineer	G7/G6	8b
+Software development	Development operations (DevOps) engineer	7	Lead DevOps engineer - management		
+Software development	Development operations (DevOps) engineer	8	Principal DevOps engineer	G6	8c
+Software development	Development operations (DevOps) engineer	9	Principal DevOps engineer - management		
+Data	Digital evaluator	1	Junior digital evaluator	HEO/SEO	6
+Data	Digital evaluator	2	Digital evaluator	SEO	6
+Data	Digital evaluator	3	Senior digital evaluator	G7	8a
+Data	Digital evaluator	4	Lead digital evaluator		
+Data	Digital evaluator	5	Head of digital evaluation	G6	8c
+Product and delivery	Digital portfolio manager	1	Digital portfolio analyst	HEO/SEO	6
+Product and delivery	Digital portfolio manager	2	Digital portfolio manager	HEO/SEO	6
+Product and delivery	Digital portfolio manager	3	Senior digital portfolio manager	G7	8a
+Product and delivery	Digital portfolio manager	4	Head of portfolio	G6	8c
+IT operations	End user computing engineer	1	Associate end user computing engineer	EO	4
+IT operations	End user computing engineer	2	End user computing engineer	EO/HEO	5
+IT operations	End user computing engineer	3	Senior end user computing engineer	HEO/SEO	6
+IT operations	End user computing engineer	4	Lead end user computing engineer	SEO/G7	7
+IT operations	End user computing engineer	5	Principal end user computing engineer	G6	8c
+Architecture	Enterprise architect	1	Enterprise architect	HEO/SEO	6
+Architecture	Enterprise architect	2	Senior enterprise architect	SEO/G7	7
+Architecture	Enterprise architect	3	Lead enterprise architect	G7/G6	8b
+Architecture	Enterprise architect	4	Principal enterprise architect	G6	8c
+Software development	Frontend developer	1	Apprentice frontend developer	AO/EO	4
+Software development	Frontend developer	2	Junior frontend developer	EO/HEO	5
+Software development	Frontend developer	3	Frontend developer	HEO/SEO/G7	6
+Software development	Frontend developer	4	Senior frontend developer	SEO/G7	7
+Software development	Frontend developer	5	Lead frontend developer	G7/G6	8b
+Software development	Frontend developer	6	Head of frontend development	G6	8c
+User-centred design	Graphic designer	1	Associate graphic designer	AO/EO	4
+User-centred design	Graphic designer	2	Junior graphic designer	EO/HEO	5
+User-centred design	Graphic designer	3	Graphic designer	HEO/SEO	6
+User-centred design	Graphic designer	4	Senior graphic designer	SEO/G7	7
+User-centred design	Graphic designer	5	Lead graphic designer	G7/G6	8b
+User-centred design	Graphic designer	6	Head of graphic design	G6	8c
+IT operations	Incident manager	1	Incident manager	EO/HEO	5
+IT operations	Incident manager	2	Major incident manager	SEO/G7	7
+IT operations	Infrastructure engineer	1	Associate infrastructure engineer	EO	4
+IT operations	Infrastructure engineer	2	Infrastructure engineer	HEO/SEO	6
+IT operations	Infrastructure engineer	3	Senior infrastructure engineer	SEO/G7	7
+IT operations	Infrastructure engineer	4	Lead infrastructure engineer	G7/G6	8b
+IT operations	Infrastructure engineer	5	Principal infrastructure engineer	G7/G6	8b
+IT operations	Infrastructure operations engineer	1	Associate infrastructure operations engineer	AO/EO	4
+IT operations	Infrastructure operations engineer	2	Infrastructure operations engineer	EO/HEO	5
+IT operations	Infrastructure operations engineer	3	Senior infrastructure operations engineer	HEO/SEO	6
+IT operations	Infrastructure operations engineer	4	Lead infrastructure operations engineer	SEO/G7	7
+IT operations	Infrastructure operations engineer	5	Principal infrastructure operations engineer	G7/G6	8b
+User-centred design	Interaction designer	1	Associate interaction designer	EO	4
+User-centred design	Interaction designer	2	Junior interaction designer	EO/HEO	5
+User-centred design	Interaction designer	3	Interaction designer	SEO/G7	7
+User-centred design	Interaction designer	4	Senior interaction designer	SEO/G7	7
+User-centred design	Interaction designer	5	Lead interaction designer	G7/G6	8b
+User-centred design	Interaction designer	6	Head of interaction design	G6	8c
+IT operations	IT service manager	1	IT service analyst	AO/EO	4
+IT operations	IT service manager	2	IT service manager	HEO/SEO	6
+IT operations	IT service manager	3	Senior IT service manager	SEO/G7	7
+IT operations	IT service manager	4	Head of IT service management	G7/G6	8b
+Data	Machine learning engineer	1	Senior machine learning engineer	SEO/G7/G6	7
+Data	Machine learning engineer	2	Lead machine learning engineer	G7/G6	8b
+Architecture	Network architect	1	Associate network architect	EO/HEO	5
+Architecture	Network architect	2	Network architect	HEO/SEO	6
+Architecture	Network architect	3	Lead network architect	SEO/G7	7
+Data	Performance analyst	1	Associate performance analyst	AO/EO	4
+Data	Performance analyst	2	Performance analyst	HEO/SEO	6
+Data	Performance analyst	3	Senior performance analyst	SEO/G7	7
+Data	Performance analyst	4	Lead performance analyst	G7	8a
+Data	Performance analyst	5	Head of performance analysis	G7/G6	8b
+IT operations	Problem manager	1	Problem analyst	EO/HEO	5
+IT operations	Problem manager	2	Problem manager	HEO/SEO	6
+Product and delivery	Product manager	1	Associate product manager	HEO/SEO	6
+Product and delivery	Product manager	2	Product manager	SEO/G7	7
+Product and delivery	Product manager	3	Senior product manager	G7	8a
+Product and delivery	Product manager	4	Lead product manager	G7/G6	8b
+Product and delivery	Product manager	5	Head of product	G6	8c
+Product and delivery	Programme delivery manager	1	Programme delivery manager	G7/G6	8b
+Quality assurance testing (QAT)	Quality assurance test analyst	1	Associate quality assurance test analyst	EO	4
+Quality assurance testing (QAT)	Quality assurance test analyst	2	Quality assurance test analyst	HEO/SEO	6
+Quality assurance testing (QAT)	Quality assurance test analyst	3	Senior quality assurance test analyst	HEO/SEO	6
+Quality assurance testing (QAT)	Quality assurance test analyst	4	Lead quality assurance test analyst	G7/G6	8b
+Architecture	Security architect	1	Security architect	HEO/SEO/G7	6
+Architecture	Security architect	2	Lead security architect	G7/G6	8b
+Architecture	Security architect	3	Principal security architect	G6	8c
+User-centred design	Service designer	1	Associate service designer	AO/EO	4
+User-centred design	Service designer	2	Junior service designer	EO/HEO	5
+User-centred design	Service designer	3	Service designer	HEO/SEO	6
+User-centred design	Service designer	4	Senior service designer	SEO/G7	7
+User-centred design	Service designer	5	Lead service designer	G7/G6	8b
+User-centred design	Service designer	6	Head of service design	G6	8c
+IT operations	Service desk manager	1	Service desk analyst	AO/EO	4
+IT operations	Service desk manager	2	Senior service desk analyst	EO/HEO	5
+IT operations	Service desk manager	3	Service desk manager	HEO/SEO	6
+IT operations	Service desk manager	4	Head of service desk	SEO/G7	7
+Product and delivery	Service owner	1	Service owner	G7/G6	8b
+IT operations	Service transition manager	1	Service acceptance analyst	EO/HEO	5
+IT operations	Service transition manager	2	Service readiness analyst	HEO/SEO	6
+IT operations	Service transition manager	3	Service transition manager	SEO/G7	7
+IT operations	Service transition manager	4	Lead service transition manager	G7/G6	8b
+Software development	Software developer	1	Apprentice developer	AO/EO	4
+Software development	Software developer	2	Junior developer	EO/HEO	5
+Software development	Software developer	3	Developer	HEO/SEO	6
+Software development	Software developer	4	Senior developer	SEO/G7	7
+Software development	Software developer	5	Senior developer - management		
+Software development	Software developer	6	Lead developer	G7/G6	8b
+Software development	Software developer	7	Lead developer - management		
+Software development	Software developer	8	Principal developer	G7/G6	8b
+Software development	Software developer	9	Principal developer - management		
+Architecture	Solution architect	1	Associate solution architect	HEO/SEO	6
+Architecture	Solution architect	2	Solution architect	SEO/G7	7
+Architecture	Solution architect	3	Senior solution architect	G7	8a
+Architecture	Solution architect	4	Lead solution architect	G7/G6	8b
+Architecture	Solution architect	5	Principal solution architect	G6	8c
+Architecture	Technical architect	1	Associate technical architect	EO/HEO	5
+Architecture	Technical architect	2	Technical architect	SEO/G7	7
+Architecture	Technical architect	3	Senior technical architect	SEO/G7	7
+Architecture	Technical architect	4	Lead technical architect	G7/G6	8b
+Architecture	Technical architect	5	Principal technical architect	G6	8c
+User-centred design	Technical writer	1	Technical writer	SEO/G7	7
+User-centred design	Technical writer	2	Lead technical writer	G7/G6	8b
+Quality assurance testing (QAT)	Test engineer	1	Associate test engineer	EO	4
+Quality assurance testing (QAT)	Test engineer	2	Test engineer	HEO/SEO	6
+Quality assurance testing (QAT)	Test engineer	3	Senior test engineer	SEO/G7	7
+Quality assurance testing (QAT)	Test engineer	4	Lead test engineer	SEO/G7/G6	7
+Quality assurance testing (QAT)	Test manager	1	Test manager	SEO/G7	7
+Quality assurance testing (QAT)	Test manager	2	Head of test	G6	8c
+User-centred design	User researcher	1	Associate user researcher	AO/EO	4
+User-centred design	User researcher	2	Junior user researcher	EO/HEO	5
+User-centred design	User researcher	3	User researcher	HEO/SEO	6
+User-centred design	User researcher	4	Senior user researcher	SEO/G7	7
+User-centred design	User researcher	5	Lead user researcher	G7/G6	8b
+User-centred design	User researcher	6	Head of user research	G7/G6	8b

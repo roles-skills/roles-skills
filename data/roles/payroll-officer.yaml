@@ -1,0 +1,110 @@
+id: payroll-officer
+summary: >
+  Payroll officers make sure every member of staff is paid accurately and on
+  time. They process starters, leavers, and changes, calculate pay and
+  deductions, run payroll checks, and answer pay queries. In a digital health
+  care organisation the payroll may include clinical, digital, and corporate
+  staff on different contracts and pay rules, and it is often run on a shared
+  or outsourced payroll system that the team must check and assure.
+health_context:
+  - Clinical staff may have complex pay, such as unsocial hours, on-call, and multiple contracts, which payroll must calculate correctly.
+  - Pay rules and annual pay awards are often set nationally or by funders, and must be applied promptly and accurately.
+  - Payroll is usually the organisation's largest single cost, so errors and fraud have a big effect on public money and on staff trust.
+  - Payroll data is highly sensitive personal information, including health, family, and bank details, so information governance is central to the job.
+  - Payroll depends on accurate data from workforce and rostering systems, so officers work closely with HR and system teams.
+levels:
+  - title: Payroll officer
+    band: "3"
+    summary: Payroll officers process pay changes and calculate pay for a group of staff, following procedures and checking their work before each payroll closes.
+    responsibilities:
+      - Enter starters, leavers, and contract changes into the payroll system from authorised forms.
+      - Calculate pay, including overtime, enhancements, sickness, and family leave payments.
+      - Apply tax, pension, and other deductions correctly.
+      - Answer pay queries from staff and managers tactfully and confidentially.
+      - Check payroll outputs for errors and correct them before the payroll closes.
+      - Follow payroll controls and information governance rules.
+    skills:
+      - {skill: fin-payroll, level: working}
+      - {skill: fin-financial-systems, level: working}
+      - {skill: fin-audit-and-controls, level: awareness}
+      - {skill: fin-tax, level: awareness}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: awareness}
+    qualifications:
+      - An entry-level payroll qualification, or equivalent experience of payroll processing.
+    job_evaluation: {communication: 3, knowledge: 3, analytical: 2, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 3, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 3 because the job processes the pay that the organisation releases to staff. Physical skills is level 3 for fast and accurate data entry.
+
+  - title: Senior payroll officer
+    band: "4"
+    summary: Senior payroll officers handle complex payroll cases, check the work of payroll officers, and help run payroll reconciliations and returns.
+    responsibilities:
+      - Resolve complex pay cases, such as back pay, multiple contracts, and salary sacrifice.
+      - Recover overpayments sensitively and in line with policy.
+      - Reconcile payroll to the ledger, and prepare tax and pension reconciliations.
+      - Check the work of payroll officers and sign off sections of the payroll.
+      - Test pay award and rule changes in the payroll system before they go live.
+      - Train payroll officers and give basic pay advice to managers.
+    skills:
+      - {skill: fin-payroll, level: practitioner}
+      - {skill: fin-financial-systems, level: working}
+      - {skill: fin-audit-and-controls, level: working}
+      - {skill: fin-tax, level: working}
+      - {skill: fin-financial-transactions, level: awareness}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: information-governance, level: working}
+    qualifications:
+      - An intermediate payroll qualification, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 3, people: 2, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+
+  - title: Payroll team leader
+    band: "5"
+    summary: Payroll team leaders manage the payroll team day to day, run the full payroll cycle, and make sure statutory reporting and pension returns are accurate and on time.
+    responsibilities:
+      - Plan and run the payroll cycle, making sure cut-offs, checks, and payment deadlines are met.
+      - Sign off payroll checks and investigate significant variances.
+      - Manage statutory payroll reporting and pension returns.
+      - Manage the payroll team day to day, including workload, training, and quality checks.
+      - Work with HR and rostering teams to improve the quality and timeliness of pay data.
+      - Answer escalated pay queries and complaints.
+    skills:
+      - {skill: fin-payroll, level: practitioner}
+      - {skill: fin-financial-systems, level: practitioner}
+      - {skill: fin-audit-and-controls, level: practitioner}
+      - {skill: fin-tax, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: people-management, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: data-quality, level: working}
+    qualifications:
+      - An advanced payroll qualification, or equivalent experience.
+      - Experience of running a full payroll.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Payroll manager
+    band: "6"
+    summary: Payroll managers are responsible for the organisation's payroll service, whether run in house or by a provider, and assure leaders that pay is accurate, lawful, and well controlled.
+    responsibilities:
+      - Manage the payroll service and its team, and report on performance and accuracy.
+      - Manage the contract and relationship with any payroll provider or shared service.
+      - Set payroll controls, such as approval limits, exception reports, and separation of duties.
+      - Plan for changes in pay rules, pay awards, pensions, and tax, and make sure they are applied correctly.
+      - Lead payroll system changes and upgrades, working with system and HR teams.
+      - Provide payroll information for budgets, forecasts, and the annual accounts.
+      - Lead the response to payroll failures and serious errors.
+    skills:
+      - {skill: fin-payroll, level: expert}
+      - {skill: fin-financial-systems, level: practitioner}
+      - {skill: fin-audit-and-controls, level: practitioner}
+      - {skill: fin-tax, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:commercial-management, level: working}
+      - {skill: people-management, level: practitioner}
+      - {skill: risk-management, level: working}
+      - {skill: information-governance, level: practitioner}
+    qualifications:
+      - An advanced payroll qualification or a recognised accountancy qualification, or equivalent experience.
+      - Experience of managing a payroll service.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 4, people: 3, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 4 because the job is responsible for the organisation's whole payroll, its largest cost. People is level 3 because the payroll team is small.

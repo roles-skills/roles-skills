@@ -1,0 +1,114 @@
+id: technical-architect
+summary: >
+  Technical architects design the technical structure of the organisation's
+  digital health services: the components, platforms, hosting, integration
+  patterns, and non-functional qualities such as security, performance, and
+  resilience. They work closely with developers and DevOps engineers, give
+  technical leadership to delivery teams, and make sure services are built to
+  last and safe to run.
+health_context:
+  - Clinical services often need high availability and fast recovery, so technical designs must plan for failure and degraded running.
+  - Designs must protect confidential health information through encryption, access control, and audit by default.
+  - Services connect to many clinical systems and shared platforms, often through HL7 FHIR APIs and messaging, so integration patterns are central to the design.
+  - Technical design choices, such as caching, retries, and time handling, can cause clinical hazards, so architects contribute to safety cases.
+  - Legacy clinical systems and medical devices may constrain choices of technology, networking, and hosting.
+levels:
+  - pcf_level: Associate technical architect
+    title: Associate technical architect
+    band: "5"
+    responsibilities:
+      - Draw technical diagrams and document the components, hosting, and integrations of existing services.
+      - Research technology options and summarise their pros and cons, with guidance.
+      - Work with developers to check that builds follow agreed designs and patterns.
+      - Record technical decisions and keep design documents up to date.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: health-data-interoperability, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - A degree in computing or a related subject, or equivalent experience in software or infrastructure engineering.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 4, planning: 2, physical-skills: 2, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Technical architect
+    title: Technical architect
+    band: "6"
+    responsibilities:
+      - Design the technical architecture for a service, including components, hosting, integration, and security.
+      - Provide design patterns to delivery teams and review their technical designs and code structure.
+      - Define non-functional requirements, such as availability, performance, and recovery targets, with service owners.
+      - Identify technical debt and unsupported technology, and plan how to fix it.
+      - Identify technical hazards and controls for the clinical safety case.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: identity-and-access-management, level: awareness}
+    qualifications:
+      - A degree in computing or a related subject, or equivalent experience.
+      - Experience of designing or building production software or infrastructure.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests Band 7 for both technical architect and senior technical architect; this reference places the technical architect level at Band 6, at the lower end of its grade range, to avoid two levels in one band.
+
+  - pcf_level: Senior technical architect
+    title: Senior technical architect
+    band: "7"
+    responsibilities:
+      - Lead the technical design of large, complex, or high-risk services, such as clinical systems and shared integration platforms.
+      - Set technical direction for one or more delivery teams and challenge designs that add risk.
+      - Design for resilience, disaster recovery, and secure running, and check that teams test it.
+      - Explain technical risks and trade-offs to service owners, clinical leads, and senior stakeholders in plain language.
+      - Mentor and coach technical architects and senior developers.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: medical-device-regulation, level: awareness}
+    qualifications:
+      - Substantial experience of technical design for complex services, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead technical architect
+    title: Lead technical architect
+    band: 8b
+    responsibilities:
+      - Lead the technical architecture across several services or teams, setting shared patterns and standards.
+      - Assure the technical quality of designs at design authorities, including security, resilience, and interoperability.
+      - Shape the organisation's technology roadmap with enterprise architects and engineering leads.
+      - Advise senior leaders on technology choices, platform investment, and technical risk.
+      - Lead and develop technical architects.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: identity-and-access-management, level: practitioner}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading technical architecture for complex services.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Principal technical architect
+    title: Principal technical architect
+    band: 8c
+    responsibilities:
+      - Set the organisation's technical architecture strategy, principles, and standards.
+      - Govern technical design across the organisation, including the technical design authority.
+      - Advise the executive team on major technology decisions, such as hosting strategy and platform consolidation.
+      - Represent the organisation in cross-organisation technical and standards communities.
+      - Inspire and develop architects across the organisation.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: health-data-interoperability, level: expert}
+      - {skill: information-governance, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: identity-and-access-management, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading technical architecture across multiple teams or organisations.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 3, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

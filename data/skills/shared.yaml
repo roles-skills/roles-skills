@@ -1,0 +1,516 @@
+# Shared skills original to this reference: health care skills that apply
+# across many roles, people and organisational skills, and digital skills that
+# the UK GDaD PCF does not cover (security operations, project management).
+#
+# Each skill has four proficiency levels, matching the UK GDaD PCF scale:
+# awareness (1), working (2), practitioner (3), expert (4).
+# esco lists the closest ESCO v1.2.1 skills, with the strength of the match:
+# exact, close, broad (ESCO skill is wider), or narrow (ESCO skill is narrower).
+
+skills:
+  - id: health-care-context
+    name: Understanding health and care services
+    description: Understanding how health and care services are organised and delivered, how clinicians and care staff work, and how digital services support patient care.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/9b63d92b-5a3a-46b0-b2ba-c98b39ea5aaf, label: health care system, match: close}
+      - {uri: http://data.europa.eu/esco/skill/6c252ea9-e7df-4f82-8035-7d7ee742ff0e, label: multi-professional cooperation in health care, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - describe the main parts of the health and care system and the services the organisation supports
+        - explain why patient safety and confidentiality matter in your work
+      working: |
+        You can:
+        - explain the clinical and care workflows your work supports
+        - use common health care terms correctly with clinical and care colleagues
+        - recognise when a change could affect patient care and raise it
+      practitioner: |
+        You can:
+        - analyse how a service fits into care pathways across organisations
+        - work with clinicians, care staff, and patients to shape digital services
+        - explain the effect of digital decisions on care, safety, and staff workload
+      expert: |
+        You can:
+        - shape organisational strategy using a deep understanding of the health and care system
+        - represent the organisation with health and care partners and leaders
+        - anticipate how policy and service changes will affect digital services and care
+
+  - id: clinical-safety
+    name: Clinical risk management
+    description: Identifying, assessing, and controlling the risks that health IT systems can pose to patients, through a clinical risk management process, hazard logs, and safety cases (for example following ISO 14971 and IEC 80001-1).
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/47d491a9-f7c0-4b13-a10f-983d3aa0113e, label: safety engineering, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/4913d0c0-133a-4c46-aac3-f5d4989a982e, label: product usage risks analysis, match: close}
+    levels:
+      awareness: |
+        You can:
+        - explain how health IT systems can harm patients, for example through wrong, missing, or delayed information
+        - report a possible clinical safety issue through the right route
+      working: |
+        You can:
+        - take part in hazard workshops and contribute to a hazard log
+        - follow the clinical risk management process for your work
+        - provide evidence for a clinical safety case, such as test results
+      practitioner: |
+        You can:
+        - lead hazard identification and risk assessment for a product or change
+        - write and maintain hazard logs and clinical safety case reports
+        - agree risk controls with product teams and check that they work
+        - advise teams on applying clinical risk management standards
+      expert: |
+        You can:
+        - own the clinical risk management system for the organisation
+        - set clinical safety policy and assure safety cases for major systems
+        - lead the response to serious safety incidents involving health IT
+        - build a culture of clinical safety across digital teams
+
+  - id: health-data-interoperability
+    name: Health data interoperability
+    description: Exchanging health and care data safely and consistently between systems using open standards such as HL7 FHIR, HL7 version 2, IHE profiles, and standard APIs.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11, label: manage findable accessible interoperable and reusable data, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/d70701ca-d3be-44cb-963e-8e7142555144, label: transfer medical information, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain why interoperability matters for joined-up care
+        - name the main health data exchange standards, such as HL7 FHIR
+      working: |
+        You can:
+        - read and use FHIR resources, profiles, and APIs
+        - build or test simple integrations under guidance
+        - check messages against a specification
+      practitioner: |
+        You can:
+        - design and build integrations using FHIR, HL7 version 2, and messaging patterns
+        - write and profile FHIR resources and implementation guides
+        - resolve complex mapping and data quality issues between systems
+      expert: |
+        You can:
+        - set interoperability standards and strategy for the organisation
+        - lead national or cross-organisation standards work
+        - assure the design of critical integrations across many systems
+
+  - id: clinical-terminology
+    name: Clinical terminology and classification
+    description: Using clinical terminologies and classifications, such as SNOMED CT, ICD, and LOINC, to record and exchange clinical meaning consistently.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/2806260f-6399-4add-8f11-070141423f9d, label: medical terminology, match: close}
+      - {uri: http://data.europa.eu/esco/skill/49812c2d-3a36-4be8-bd41-8c0be3db7c6d, label: develop classification systems, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain the difference between a clinical terminology and a classification
+        - recognise common terminologies such as SNOMED CT and ICD
+      working: |
+        You can:
+        - find and use the right codes for a data item or form
+        - use terminology browsers and reference sets
+      practitioner: |
+        You can:
+        - design data models and reference sets using clinical terminologies
+        - map between terminologies and classifications, and explain the limits of a mapping
+        - advise teams on terminology use in products and analytics
+      expert: |
+        You can:
+        - set terminology policy for the organisation
+        - lead terminology releases, governance, and quality assurance
+        - represent the organisation in terminology standards bodies
+
+  - id: information-governance
+    name: Information governance and data protection
+    description: Handling personal and health information lawfully, securely, and ethically, including data protection law, confidentiality, consent, data protection impact assessments, and information sharing.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5, label: data protection, match: close}
+      - {uri: http://data.europa.eu/esco/skill/51ece34f-c24e-4183-9bf4-9b6f28748aec, label: maintain healthcare user data confidentiality, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/097c6a36-f031-4d3e-b5c1-62d6ffcb430b, label: respect data protection principles, match: close}
+    levels:
+      awareness: |
+        You can:
+        - follow the organisation's rules for handling personal and health information
+        - recognise and report a data breach or near miss
+      working: |
+        You can:
+        - apply data protection principles to your work
+        - contribute to data protection impact assessments
+        - handle information requests and records correctly
+      practitioner: |
+        You can:
+        - lead data protection impact assessments and information sharing agreements
+        - advise teams on lawful basis, consent, confidentiality, and retention
+        - investigate incidents and recommend improvements
+      expert: |
+        You can:
+        - set information governance policy and strategy
+        - advise the board on information risk and compliance
+        - represent the organisation with regulators and partners
+
+  - id: medical-device-regulation
+    name: Medical device software regulation
+    description: Understanding when software is a medical device, and the standards and processes that apply to it, such as IEC 62304 and ISO 13485.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/f453b1a6-c7db-4d9d-9ba3-47c45159bfe3, label: ensure products meet regulatory requirements, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain that some health software is regulated as a medical device
+        - know who to ask when a product might be a medical device
+      working: |
+        You can:
+        - follow a software life cycle process that meets medical device standards
+        - produce the records that such a process requires
+      practitioner: |
+        You can:
+        - assess whether a product is a medical device, and its likely class
+        - plan the regulatory work for a product with quality and clinical colleagues
+      expert: |
+        You can:
+        - set the organisation's approach to regulated software
+        - lead engagement with regulators and notified bodies
+
+  - id: people-management
+    name: People management
+    description: Leading, developing, and supporting staff, including recruitment, objectives, appraisal, wellbeing, attendance, and managing performance and conduct fairly.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb, label: manage staff, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/add39442-b8ca-4412-8156-391db53b0c5d, label: manage healthcare staff, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain the organisation's people policies that affect you
+        - support new colleagues and share knowledge
+      working: |
+        You can:
+        - supervise day-to-day work and give feedback
+        - take part in recruitment and induction
+        - hold regular one-to-one conversations
+      practitioner: |
+        You can:
+        - line manage a team, setting objectives and running appraisals
+        - support wellbeing and manage attendance, performance, and conduct
+        - plan the team's development and succession
+      expert: |
+        You can:
+        - lead managers and shape the culture of a large area
+        - design workforce plans and organisational change
+        - coach leaders and resolve complex people issues
+
+  - id: equality-diversity-inclusion
+    name: Equality, diversity, and inclusion
+    description: Treating people fairly, valuing difference, and designing services and workplaces that include everyone.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/f0b45409-42ca-42bc-a701-041e594d0657, label: ensure gender equality in the workplace, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/b55f61a4-5f9e-4741-ba95-9ac04b64119b, label: work in a multicultural environment in health care, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - treat colleagues, patients, and the public with dignity and respect
+        - follow equality and inclusion policies
+      working: |
+        You can:
+        - recognise and challenge behaviour that excludes others
+        - consider different needs when you plan your work
+      practitioner: |
+        You can:
+        - carry out equality impact assessments
+        - build inclusive teams and practices
+      expert: |
+        You can:
+        - set inclusion strategy and hold the organisation to account for it
+        - lead culture change on equality, diversity, and inclusion
+
+  - id: health-safety-wellbeing
+    name: Health, safety, and wellbeing
+    description: Keeping yourself and others safe and well at work, including risk assessment, safe working practices, and incident reporting.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/198b614d-a9af-46f5-b3fd-2672b401dd8e, label: health and safety in the workplace, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/bb663409-5c88-4e3a-bc16-01aa1c8ce171, label: plan health and safety procedures, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - follow health and safety rules and report hazards and incidents
+      working: |
+        You can:
+        - carry out simple risk assessments, such as workstation assessments
+        - help colleagues work safely
+      practitioner: |
+        You can:
+        - manage health and safety for a team or site
+        - investigate incidents and put controls in place
+      expert: |
+        You can:
+        - set health, safety, and wellbeing policy for the organisation
+        - report on safety performance to the board
+
+  - id: budget-management
+    name: Budget management
+    description: Planning, monitoring, and controlling a budget, including forecasting, managing variances, and following financial rules.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea, label: manage budgets, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/74688c5d-2af1-4f7a-9d1c-00e808eaa1e6, label: budgetary principles, match: close}
+    levels:
+      awareness: |
+        You can:
+        - follow the rules for spending and ordering
+        - explain how your work is funded
+      working: |
+        You can:
+        - track spending against a small budget and raise variances
+        - authorise spending within your limit
+      practitioner: |
+        You can:
+        - hold and manage a budget, forecasting and explaining variances
+        - build a business case with costs and benefits
+      expert: |
+        You can:
+        - manage large or multiple budgets and set financial plans
+        - make funding trade-offs across services
+
+  - id: project-management
+    name: Project management
+    description: Planning, delivering, and closing projects to agreed scope, time, cost, and quality, using a recognised method such as PRINCE2, PM², or agile approaches.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/7111b95d-0ce3-441a-9d92-4c75d05c4388, label: project management, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68, label: perform project management, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/94dd823c-148e-4614-a6e8-99249b16357d, label: ICT project management, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain the stages of a project and the main roles in it
+        - keep project records such as action logs
+      working: |
+        You can:
+        - maintain plans, risk and issue logs, and reports
+        - run project meetings and track actions
+        - manage a small, well-defined project with support
+      practitioner: |
+        You can:
+        - manage projects from start to close, controlling scope, time, cost, and quality
+        - manage risks, issues, dependencies, and change control
+        - report to project boards and manage suppliers
+      expert: |
+        You can:
+        - manage large, complex, or high-risk projects
+        - set project management standards and coach project managers
+        - recover failing projects
+
+  - id: risk-management
+    name: Organisational risk management
+    description: Identifying, assessing, recording, and managing risks to the organisation's objectives, using a risk register and a defined risk appetite.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0, label: risk management, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/00920055-eb50-4cb8-a23d-3deedbf3753e, label: enterprise risk management, match: close}
+      - {uri: http://data.europa.eu/esco/skill/96550830-539b-4746-96aa-92aa4959945d, label: apply risk management processes, match: close}
+    levels:
+      awareness: |
+        You can:
+        - explain what a risk is and how to raise one
+      working: |
+        You can:
+        - record and update risks for your area
+        - suggest controls and track actions
+      practitioner: |
+        You can:
+        - run the risk process for a directorate or programme
+        - assess risks against the risk appetite and escalate them
+        - report on risks to committees
+      expert: |
+        You can:
+        - design the organisation's risk management framework and appetite
+        - advise the board on strategic risks
+
+  - id: security-operations
+    name: Security operations
+    description: Monitoring systems for security threats, triaging alerts, investigating events, and responding to cyber incidents, using tools such as SIEM and endpoint detection.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239, label: handle cybersecurity incidents, match: close}
+      - {uri: http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248, label: cyber attack counter-measures, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/501537a7-9d63-491d-ae02-09f04767ff1e, label: attack vectors, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain common cyber threats such as phishing and ransomware
+        - report a suspected security event
+      working: |
+        You can:
+        - monitor alerts and triage them using runbooks
+        - gather evidence and escalate events
+        - tune simple detection rules under guidance
+      practitioner: |
+        You can:
+        - investigate and contain security incidents
+        - write detection rules and threat hunts
+        - improve runbooks and tooling after incidents
+      expert: |
+        You can:
+        - lead the security operations service and its strategy
+        - lead the response to major cyber incidents
+        - work with national security agencies and partners
+
+  - id: vulnerability-management
+    name: Vulnerability management
+    description: Finding, assessing, prioritising, and fixing technical vulnerabilities, including scanning, penetration testing, and patching.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf, label: identify ICT security risks, match: close}
+      - {uri: http://data.europa.eu/esco/skill/902fb91c-3113-4004-9b4f-79aa86b638b7, label: web application security threats, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain why prompt patching and secure configuration matter
+      working: |
+        You can:
+        - run vulnerability scans and report the results
+        - track fixes with system owners
+      practitioner: |
+        You can:
+        - prioritise vulnerabilities by risk, including to patient services
+        - scope and manage penetration tests and remediation
+      expert: |
+        You can:
+        - set the vulnerability management policy and its targets
+        - report technical security risk to senior leaders
+
+  - id: identity-and-access-management
+    name: Identity and access management
+    description: Managing digital identities, authentication, and access rights for staff, patients, and systems, including role-based access and smartcard or multi-factor authentication.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/ab49f767-296b-47d5-af56-0b4a69515b03, label: maintain ICT identity management, match: close}
+      - {uri: http://data.europa.eu/esco/skill/bc0b0b5d-f6be-405a-b224-b6902a4dbe97, label: manage digital identity, match: close}
+    levels:
+      awareness: |
+        You can:
+        - follow access rules and protect your credentials
+      working: |
+        You can:
+        - create, change, and remove user accounts and access rights
+        - check access against role-based access rules
+      practitioner: |
+        You can:
+        - design and run identity and access services
+        - review access regularly and fix problems
+      expert: |
+        You can:
+        - set the identity and access strategy for staff, patients, and systems
+        - lead the adoption of new identity standards
+
+  - id: data-quality
+    name: Data quality management
+    description: Defining, measuring, and improving the quality of data, including completeness, accuracy, timeliness, and validity.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5, label: implement data quality processes, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4, label: define data quality criteria, match: close}
+      - {uri: http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700, label: data quality assessment, match: close}
+    levels:
+      awareness: |
+        You can:
+        - explain why accurate health data matters for care and planning
+        - record data accurately and report errors
+      working: |
+        You can:
+        - run data quality checks and correct errors
+        - explain data quality reports to colleagues
+      practitioner: |
+        You can:
+        - define data quality rules and measures
+        - work with data providers to fix the root causes of poor quality
+      expert: |
+        You can:
+        - set data quality standards for the organisation and its partners
+        - lead data quality improvement programmes
+
+  - id: health-records-management
+    name: Health records management
+    description: Managing health and care records through their life cycle, including creation, filing, tracking, access, retention, and disposal.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/5d7890d5-d229-4b79-a5da-6819e38a52b6, label: health records management, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/12428071-1ec8-4d52-a0ce-3eee78e1e1be, label: perform records management, match: close}
+      - {uri: http://data.europa.eu/esco/skill/53141450-2fa9-4890-a64e-7ffd4e1144be, label: use electronic health records management system, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - file, find, and track records correctly
+        - protect records from loss or unauthorised access
+      working: |
+        You can:
+        - process requests for access to records
+        - apply retention schedules and record-keeping standards
+      practitioner: |
+        You can:
+        - manage a records service and its procedures
+        - audit record-keeping and train staff
+      expert: |
+        You can:
+        - set records management policy and strategy
+        - lead the move from paper to digital records
+
+  - id: clinical-coding
+    name: Clinical coding
+    description: Translating clinical information from health records into standard classification codes, following national and international coding rules, for care, payment, and statistics.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/cf0b92de-4bd0-46ee-b383-7765b4cbcac9, label: clinical coding, match: exact}
+      - {uri: http://data.europa.eu/esco/skill/f022b5ff-8496-4722-a7a3-ef3c072f01f6, label: perform clinical coding procedures, match: exact}
+    levels:
+      awareness: |
+        You can:
+        - explain what clinical coding is and why it matters
+        - use basic medical terms and anatomy
+      working: |
+        You can:
+        - code straightforward episodes accurately, using classification rules
+        - query unclear records with clinicians
+      practitioner: |
+        You can:
+        - code complex episodes across specialties
+        - audit coding quality and train coders
+      expert: |
+        You can:
+        - lead a coding service and its quality programme
+        - advise on coding standards and their effect on data and funding
+
+  - id: clinical-leadership-in-digital
+    name: Clinical leadership in digital
+    description: Bringing clinical knowledge and credibility to the design, adoption, and safe use of digital services, and leading clinicians through digital change.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/b21e2984-c6b2-4352-bbe8-8f3b03bd50f6, label: medical informatics, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/ad008df3-dcaf-45ee-8892-2319a3b66c98, label: oversee clinical information system activities, match: close}
+    levels:
+      awareness: |
+        You can:
+        - explain how digital services change clinical practice
+      working: |
+        You can:
+        - give clinical input to product teams on workflows and safety
+        - help clinical colleagues adopt new systems
+      practitioner: |
+        You can:
+        - lead clinical engagement for a product or programme
+        - turn clinical needs and evidence into requirements
+        - champion safe adoption among clinical peers
+      expert: |
+        You can:
+        - set the clinical direction for the organisation's digital services
+        - lead clinical leaders across organisations through digital change
+        - advise the board on clinical risk and benefit of digital investment
+
+  - id: governance-and-compliance
+    name: Corporate governance and compliance
+    description: Supporting the organisation's governance — boards, committees, standing orders, policies, declarations of interest, and compliance with legal and regulatory duties.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/3d3ee5c3-4286-457f-9f76-1704011f7e11, label: comply with legal regulations, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/4cb51222-3e2e-417c-9a5c-e9ccf262721d, label: ensure compliance with company regulations, match: close}
+    levels:
+      awareness: |
+        You can:
+        - follow the organisation's policies and decision-making rules
+      working: |
+        You can:
+        - support committee meetings, papers, and minutes
+        - keep governance registers up to date
+      practitioner: |
+        You can:
+        - run the governance cycle for boards and committees
+        - review policies and advise on compliance
+      expert: |
+        You can:
+        - design the governance framework and advise the board
+        - lead annual governance reporting and assurance

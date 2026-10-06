@@ -1,0 +1,339 @@
+# Finance skills original to this reference, for finance, payroll, and
+# accounting roles in a digital health care organisation.
+#
+# Each skill has four proficiency levels, matching the UK GDaD PCF scale:
+# awareness (1), working (2), practitioner (3), expert (4).
+# esco lists the closest ESCO v1.2.1 skills, with the strength of the match:
+# exact, close, broad (ESCO skill is wider), or narrow (ESCO skill is narrower).
+
+skills:
+  - id: fin-financial-transactions
+    name: Financial transactions and ledgers
+    description: Processing and recording invoices, payments, receipts, journals, and reconciliations accurately in the ledgers, following financial controls.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/4e756773-ae14-4981-838b-9fe27e81c0af, label: carry out financial transactions, match: close}
+      - {uri: http://data.europa.eu/esco/skill/648782e0-b5e5-4e59-bed0-627aa8ac29f0, label: maintain records of financial transactions, match: close}
+      - {uri: http://data.europa.eu/esco/skill/dc417e19-edb4-4401-883a-2375f67a162f, label: manage the general ledger, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/99b163e8-7815-43e2-83f3-a47f3076354c, label: accounting entries, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain the purchase-to-pay and order-to-cash processes and your part in them
+        - enter invoices, receipts, and payments accurately, following set procedures
+        - check that a transaction has the right approval and supporting documents
+      working: |
+        You can:
+        - process a range of transactions, including credit notes, refunds, and journals
+        - reconcile supplier statements, bank accounts, and control accounts
+        - resolve routine queries from suppliers, customers, and budget holders
+        - spot duplicate, unusual, or unauthorised transactions and raise them
+      practitioner: |
+        You can:
+        - manage a ledger or transaction process and keep it accurate and up to date
+        - investigate and clear complex reconciling items and aged balances
+        - improve transaction processes, for example by automating matching or approvals
+        - train and check the work of other staff
+      expert: |
+        You can:
+        - design the organisation's transaction processes and the controls within them
+        - set performance standards, such as payment times and debt recovery targets
+        - lead the move to new ways of processing, such as automation and self-service
+        - assure senior leaders and auditors that ledgers are complete and accurate
+
+  - id: fin-financial-reporting
+    name: Financial reporting and statutory accounts
+    description: Preparing accurate financial statements and statutory returns that follow the applicable accounting standards and public sector reporting rules.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/60f51172-37c0-4933-a27a-cbf55dcd7580, label: prepare financial statements, match: close}
+      - {uri: http://data.europa.eu/esco/skill/4a460161-eaea-4fe2-bd0e-164ccc635be1, label: financial statements, match: close}
+      - {uri: http://data.europa.eu/esco/skill/4a855abe-ac5b-4e95-ac10-3c1adceeee28, label: international financial reporting standards, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/d6e78d9a-deca-4bcb-b08d-011b2616758d, label: ensure compliance with accounting conventions, match: close}
+    levels:
+      awareness: |
+        You can:
+        - explain the purpose of the main financial statements
+        - prepare working papers and reconciliations that support month-end and year-end
+      working: |
+        You can:
+        - prepare month-end and year-end entries, such as accruals, prepayments, and provisions
+        - prepare sections of the annual accounts and supporting notes
+        - apply accounting standards to routine transactions, such as capitalising software and hardware
+      practitioner: |
+        You can:
+        - prepare the annual accounts and statutory returns to a timetable
+        - apply accounting standards to complex areas, such as leases, cloud computing arrangements, and intangible assets
+        - write accounting papers that explain judgements and estimates
+        - manage the external audit of the accounts and respond to findings
+      expert: |
+        You can:
+        - own the organisation's annual report and accounts and the accounting policies behind them
+        - advise the board and audit committee on significant judgements and new standards
+        - lead the response to qualified audit opinions or material misstatements
+        - assure that reporting meets public accountability rules
+
+  - id: fin-management-accounting
+    name: Management accounting
+    description: Producing budget and cost information that helps managers plan, control, and make decisions, including variance analysis, costing, and performance reporting.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/c5b90c0c-3af0-4c8c-a06c-cc3ced02242c, label: perform cost accounting activities, match: close}
+      - {uri: http://data.europa.eu/esco/skill/7d35602d-bc94-4975-aa7c-f4e8e05ce8e0, label: cost management, match: close}
+      - {uri: http://data.europa.eu/esco/skill/99571e68-801f-49af-a897-5f75996642e1, label: financial analysis, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/16f61a5b-23ba-4268-8517-82c77c4041a1, label: examine budgets, match: close}
+    levels:
+      awareness: |
+        You can:
+        - explain budgets, actuals, commitments, and variances
+        - produce standard budget reports from the finance system
+      working: |
+        You can:
+        - prepare monthly budget reports and explain the main variances
+        - code costs correctly between cost centres, projects, and capital and revenue
+        - support budget holders to understand and manage their budgets
+      practitioner: |
+        You can:
+        - manage the monthly reporting cycle for a directorate or programme
+        - build cost models, such as the full cost of a digital service or the unit cost of a transaction
+        - analyse spending trends and advise managers on actions to stay within budget
+        - challenge budget holders constructively on their forecasts
+      expert: |
+        You can:
+        - design the organisation's management reporting and costing approach
+        - present financial performance to the board and senior leaders
+        - lead the use of cost and performance information to improve value for money
+        - set standards for management accounting across the organisation
+
+  - id: fin-financial-planning-and-forecasting
+    name: Financial planning and forecasting
+    description: Building budgets, forecasts, and medium-term financial plans that link money to the organisation's priorities and programmes.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/4b2db903-cd8e-48ce-97fb-a92db4def54e, label: financial forecasting, match: close}
+      - {uri: http://data.europa.eu/esco/skill/56ff27ef-2565-45bf-a70c-f06d78d2a480, label: create a financial plan, match: close}
+      - {uri: http://data.europa.eu/esco/skill/147170ba-0141-4337-89af-b4513d745afe, label: support development of annual budget, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain the annual budget-setting cycle and the difference between budget and forecast
+        - collect forecast information from budget holders
+      working: |
+        You can:
+        - build budgets and forecasts for a cost centre or project, including staff costs
+        - update forecasts each month with known changes and risks
+        - phase budgets so that spending profiles match delivery plans
+      practitioner: |
+        You can:
+        - lead budget setting and forecasting for a directorate or large programme
+        - model scenarios and sensitivities, such as inflation, delays, or changes in funding
+        - build multi-year forecasts for digital programmes, including the running costs that follow investment
+        - present forecasts and risks to senior managers
+      expert: |
+        You can:
+        - lead the organisation's medium-term financial plan
+        - align financial plans with strategy, workforce, and investment plans
+        - advise the board on financial sustainability and the choices needed to stay within funding
+        - set the planning assumptions and methods used across the organisation
+
+  - id: fin-payroll
+    name: Payroll
+    description: Paying staff accurately and on time, including starters, leavers, changes, deductions, pensions, statutory payments, and payroll reporting.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/9d916d7c-89b3-4084-a6d9-e2b0b3091404, label: manage payroll, match: close}
+      - {uri: http://data.europa.eu/esco/skill/207f87c4-ac68-4987-990c-636ca19c2626, label: calculate wages, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/734187e4-650e-4a0a-a7f8-826cd4757229, label: check payrolls, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/3ee090a1-9d1c-44ed-bd93-f6b7c9b68a97, label: manage payroll reports, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain the payroll cycle, from changes and cut-off to payment and reporting
+        - enter starters, leavers, and changes accurately from authorised forms
+        - answer routine pay queries, keeping pay information confidential
+      working: |
+        You can:
+        - calculate pay, enhancements, overtime, sickness, and family leave payments
+        - apply tax, pension, and other deductions correctly
+        - check payroll outputs and correct errors before payment
+        - recover overpayments sensitively and in line with policy
+      practitioner: |
+        You can:
+        - run the full payroll for a group of staff and sign off the payroll checks
+        - manage statutory payroll reporting and pension returns
+        - resolve complex cases, such as multiple contracts, back pay, or salary sacrifice
+        - test changes to the payroll system, such as annual pay awards and rule changes
+      expert: |
+        You can:
+        - manage the organisation's payroll service, whether run in house or by a provider
+        - set payroll controls and assure senior leaders that payments are accurate and lawful
+        - plan for changes in pay rules, pay awards, and payroll systems
+        - lead the response to major payroll failures
+
+  - id: fin-treasury-and-cash
+    name: Treasury and cash management
+    description: Managing bank accounts, cash flow, and liquidity so the organisation can meet its commitments, within public sector cash rules.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/781797f4-c2c3-49a4-a80d-eb81eb4f818c, label: liquidity management, match: close}
+      - {uri: http://data.europa.eu/esco/skill/658a38bd-6954-4a2a-945c-42330c5d13b9, label: manage corporate bank accounts, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/2d008d5a-b7bd-46f7-bbb1-5d70a0af9c84, label: control financial resources, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain why cash matters as well as budgets
+        - record and reconcile bank transactions
+      working: |
+        You can:
+        - prepare daily cash positions and short-term cash forecasts
+        - prepare payment runs and check they are properly authorised
+        - reconcile bank accounts and clear unmatched items
+      practitioner: |
+        You can:
+        - manage the organisation's cash flow forecast and drawdown of funding
+        - manage bank accounts, payment methods, and banking controls
+        - plan cash for large or irregular payments, such as multi-year software licences
+      expert: |
+        You can:
+        - set the organisation's treasury policy and banking arrangements
+        - advise the board on liquidity and cash risks
+        - manage cash within the limits set by funders and public sector rules
+
+  - id: fin-audit-and-controls
+    name: Financial controls and audit
+    description: Designing, operating, and testing financial controls, preventing and detecting fraud, and working with internal and external auditors.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/89ff28d6-342c-435d-83aa-83e71dbbbc96, label: conduct financial audits, match: close}
+      - {uri: http://data.europa.eu/esco/skill/24e67151-ff7e-43e2-99c0-424a758278a4, label: liaise with auditors, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/541cdc23-1eec-4520-81fc-3392eaf538ed, label: fraud detection, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/2313b15d-a9a7-4830-9bcc-fd7df79d842b, label: enforce financial policies, match: close}
+    levels:
+      awareness: |
+        You can:
+        - follow the organisation's financial procedures and schemes of delegation
+        - recognise signs of possible fraud or error and report them
+      working: |
+        You can:
+        - operate key controls, such as separation of duties and supplier bank detail checks
+        - provide evidence to auditors and answer their questions
+        - check that spending is approved at the right level
+      practitioner: |
+        You can:
+        - test and improve the controls for a financial process
+        - manage audit requests for an area and agree actions on findings
+        - write and update financial procedures
+        - work with counter-fraud specialists to reduce fraud risk
+      expert: |
+        You can:
+        - own the organisation's financial rules and scheme of delegation
+        - report to the audit committee on financial control and audit actions
+        - lead the response to significant control failures or fraud
+        - build a culture where staff understand their duty to use public money properly
+
+  - id: fin-business-cases
+    name: Business cases and investment appraisal
+    description: Building the financial case for investment, including options appraisal, whole-life costs, capital and revenue treatment, benefits, and value for money.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/e95058a6-e139-42e7-a470-72038a606649, label: assess financial viability, match: close}
+      - {uri: http://data.europa.eu/esco/skill/bf12b461-1c53-4d81-a395-8ba77f7483c4, label: investment analysis, match: close}
+      - {uri: http://data.europa.eu/esco/skill/5da3c765-10a3-49eb-934c-ec401ceb1a34, label: analyse business plans, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain the purpose of a business case and its financial section
+        - collect cost information for a business case
+      working: |
+        You can:
+        - build the financial model for a straightforward business case
+        - separate capital and revenue costs, and one-off and recurring costs
+        - include whole-life costs, such as licences, support, and hosting after go-live
+      practitioner: |
+        You can:
+        - lead the financial case for complex digital investments, such as a new clinical system or a move to cloud
+        - appraise options using net present value, sensitivity analysis, and risk adjustment
+        - check that benefits are realistic, measurable, and owned
+        - track spending and benefits after approval
+      expert: |
+        You can:
+        - set the organisation's business case and investment appraisal standards
+        - advise investment boards on affordability, value for money, and risk
+        - make the case to funders for major investment programmes
+        - review the portfolio of investments and recommend where to stop, change, or continue
+
+  - id: fin-tax
+    name: Tax
+    description: Applying sales tax, employment tax, and other tax rules correctly to the organisation's transactions, and recovering tax where allowed.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/d669af41-756c-48d9-a286-1443253f54b1, label: tax legislation, match: close}
+      - {uri: http://data.europa.eu/esco/skill/2ecf90f1-c511-464b-b26f-598d69182c70, label: calculate tax, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/22a173f5-868c-4d82-87e6-beed500ce070, label: prepare tax returns forms, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - recognise sales tax on invoices and code it correctly
+        - explain when to ask a tax specialist for advice
+      working: |
+        You can:
+        - prepare tax returns and reconciliations under supervision
+        - apply the right tax treatment to common purchases and income
+        - check employment status for contractors under guidance
+      practitioner: |
+        You can:
+        - manage the organisation's tax returns and tax reconciliations
+        - advise on the tax treatment of contracts, such as software licences, cloud services, and shared services
+        - maximise tax recovery within the rules
+      expert: |
+        You can:
+        - own the organisation's tax strategy and tax risk
+        - lead discussions with the tax authority on complex issues
+        - assess the tax effect of major changes, such as new partnerships or trading activities
+
+  - id: fin-financial-systems
+    name: Finance systems
+    description: Using, administering, and improving finance, procurement, payroll, and reporting systems so that financial data is accurate and processes are efficient.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/a0d79341-8398-4019-ad1b-27888ec35aaa, label: use accounting systems, match: close}
+      - {uri: http://data.europa.eu/esco/skill/88564d2d-2dc9-4789-864a-f9cb73f389ec, label: maintain data entry requirements, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - use the finance system for your own tasks, following procedures
+        - run standard reports and export data to a spreadsheet
+      working: |
+        You can:
+        - use spreadsheets well, including formulas, lookups, and pivot tables
+        - maintain finance system data, such as cost centres, suppliers, and approvers
+        - report and help fix system problems
+      practitioner: |
+        You can:
+        - administer the finance or payroll system, including access, workflows, and reporting
+        - design reports and dashboards for budget holders
+        - test system changes and upgrades
+        - automate repetitive finance tasks
+      expert: |
+        You can:
+        - own the finance systems strategy and roadmap
+        - lead the procurement and implementation of finance or payroll systems
+        - make sure financial data is integrated with workforce, procurement, and performance data
+
+  - id: fin-public-sector-finance
+    name: Public sector finance
+    description: Understanding how public funding works, including funding allocations, capital and revenue limits, spending controls, accountability for public money, and value for money.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/387ee646-0aaa-4161-ab3b-cde87ec09fdf, label: public finance, match: close}
+      - {uri: http://data.europa.eu/esco/skill/a9640376-8d72-4a70-a4a3-7a18e2e8f3c0, label: advise on public finance, match: close}
+      - {uri: http://data.europa.eu/esco/skill/3556c075-eee0-4549-b730-48ae70cb5af9, label: funding methods, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain that the organisation spends public money and must account for it
+        - explain the difference between capital and revenue spending
+      working: |
+        You can:
+        - apply the organisation's capital and revenue rules to everyday spending
+        - explain how funding allocations and spending limits affect your area
+        - recognise spending that needs approval from a funder or spending control
+      practitioner: |
+        You can:
+        - advise managers on funding rules, including ring-fenced and time-limited funding
+        - manage capital and revenue limits for a programme or directorate
+        - prepare returns and evidence for funders and spending controls
+      expert: |
+        You can:
+        - represent the organisation with funders and oversight bodies
+        - advise the board on regularity, propriety, and value for money
+        - shape funding agreements and financial regimes for the organisation's services

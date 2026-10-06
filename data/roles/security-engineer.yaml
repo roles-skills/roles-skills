@@ -1,0 +1,89 @@
+id: security-engineer
+summary: >
+  Security engineers design, build, and run the technical security controls
+  that protect the organisation's systems, data, and users. They work on
+  identity and access, endpoint and network protection, encryption, logging,
+  and cloud security, and help product and infrastructure teams build security
+  in. In health care, they protect clinical systems and patient data while
+  keeping access fast for clinicians at the point of care.
+health_context:
+  - Security controls must not get in the way of urgent care, so engineers design strong authentication that still works quickly on shared clinical workstations.
+  - Medical devices and legacy clinical systems often cannot be patched or run security software, so engineers design network segmentation and compensating controls.
+  - Ransomware is a major threat to health care, so engineers harden systems, protect backups, and limit how far an attack can spread.
+  - Clinical systems are often supplied and supported by third parties, so engineers assess supplier security and control their remote access.
+  - Changes to security controls on clinical systems go through change management and, where needed, clinical safety review.
+levels:
+  - title: Security engineer
+    band: "6"
+    summary: A security engineer builds, configures, and maintains security controls and tools, and helps teams fix security weaknesses.
+    responsibilities:
+      - Build and maintain security controls, such as endpoint protection, firewalls, email security, and security logging.
+      - Configure identity and access controls, including multi-factor authentication and privileged access.
+      - Help infrastructure and product teams fix vulnerabilities and harden systems to agreed standards.
+      - Segment networks to protect medical devices and legacy systems, working with infrastructure and clinical engineering teams.
+      - Review the security of new systems and supplier remote access before they go live.
+      - Take part in the on-call rota to support security incident response.
+    skills:
+      - {skill: "pcf:security-technology", level: working}
+      - {skill: "pcf:information-security", level: working}
+      - {skill: "pcf:cyber-incident-management", level: awareness}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: vulnerability-management, level: working}
+      - {skill: security-operations, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A degree in computing or cyber security, relevant security certifications, or equivalent experience.
+      - Experience of building or running infrastructure or security tools.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Mental effort reflects frequent prolonged concentration on complex technical work and incident support, including on call.
+
+  - title: Senior security engineer
+    band: "7"
+    summary: A senior security engineer designs and leads the delivery of significant security controls, and advises teams on secure design.
+    responsibilities:
+      - Design and lead the delivery of security controls, such as privileged access management, security monitoring, and backup protection.
+      - Advise product and infrastructure teams on secure design for clinical and patient-facing services.
+      - Design compensating controls for medical devices and other systems that cannot be patched.
+      - Assess the security of suppliers and their products, including cloud services.
+      - Support the response to serious security incidents with technical expertise and recovery plans.
+      - Coach security engineers and share good practice across teams.
+    skills:
+      - {skill: "pcf:security-technology", level: practitioner}
+      - {skill: "pcf:information-security", level: practitioner}
+      - {skill: "pcf:designing-secure-systems", level: working}
+      - {skill: "pcf:cyber-risk-management", level: working}
+      - {skill: identity-and-access-management, level: practitioner}
+      - {skill: vulnerability-management, level: practitioner}
+      - {skill: security-operations, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - Substantial experience of security engineering, at a level equivalent to a postgraduate diploma.
+      - Relevant advanced security certifications, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - title: Lead security engineer
+    band: 8a
+    summary: A lead security engineer sets the technical direction for security engineering, and makes sure controls work together across the organisation.
+    responsibilities:
+      - Set the technical direction and standards for security controls across the organisation.
+      - Lead the security design for major programmes, such as moves to cloud hosting or a new electronic patient record.
+      - Make sure controls protect against ransomware and support fast, safe recovery of clinical systems.
+      - Balance security with clinical usability, working with clinical leads on access and authentication.
+      - Advise the cyber security manager on technical risk and investment.
+      - Lead and develop security engineers.
+    skills:
+      - {skill: "pcf:security-technology", level: expert}
+      - {skill: "pcf:information-security", level: practitioner}
+      - {skill: "pcf:designing-secure-systems", level: practitioner}
+      - {skill: "pcf:cyber-risk-management", level: practitioner}
+      - {skill: identity-and-access-management, level: practitioner}
+      - {skill: vulnerability-management, level: practitioner}
+      - {skill: security-operations, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: health-care-context, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Extensive experience of leading security engineering for complex services.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

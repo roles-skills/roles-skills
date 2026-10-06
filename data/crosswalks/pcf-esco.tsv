@@ -1,0 +1,471 @@
+pcf_skill_id	pcf_skill	esco_skill_uri	esco_skill_label	match	note
+pcf:accessibility	Accessibility	http://data.europa.eu/esco/skill/e8ef317f-c880-4c7a-929f-e08053f976bb	develop strategies for accessibility	close	
+pcf:accessibility	Accessibility	http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033	ICT accessibility standards	narrow	knowledge of standards
+pcf:accessibility	Accessibility	http://data.europa.eu/esco/skill/be64bb4c-84ac-4c83-8cc7-fc8593e15136	test system accessibility for users with special needs	narrow	accessibility testing
+pcf:adapting-to-delivery-methodologies	Adapting to delivery methodologies	http://data.europa.eu/esco/skill/32db65d3-5ef3-43eb-9bf8-752c9cf0b22e	customise project methodologies	close	
+pcf:adapting-to-delivery-methodologies	Adapting to delivery methodologies	http://data.europa.eu/esco/skill/bec4359e-cb92-468f-a997-8fb28e32fba9	ICT project management methodologies	narrow	knowledge
+pcf:agile-and-lean-practices	Agile and Lean practices	http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4	Agile project management	close	
+pcf:agile-and-lean-practices	Agile and Lean practices	http://data.europa.eu/esco/skill/da6393d5-a53c-4863-abc7-51f36281d74e	lean project management	close	
+pcf:agile-and-lean-practices	Agile and Lean practices	http://data.europa.eu/esco/skill/00c04e40-35ea-4ed1-824c-82f936c8f876	incremental development	narrow	
+pcf:agile-research-practices	Agile research practices	http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4	Agile project management	broad	agile applied to research
+pcf:agile-research-practices	Agile research practices	http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb	iterative development	broad	
+pcf:agile-working	Agile working	http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4	Agile project management	close	
+pcf:agile-working	Agile working	http://data.europa.eu/esco/skill/dba46f87-0831-49cd-a1c7-340a653c0221	Agile development	close	
+pcf:agile-working	Agile working	http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb	iterative development	narrow	
+pcf:analysis	Analysis	http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f	perform data analysis	close	
+pcf:analysis	Analysis	http://data.europa.eu/esco/skill/4707da90-9cfc-46ca-8de0-38a0b7bfb137	think analytically	broad	
+pcf:analysis-and-insight	Analysis and insight	http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f	perform data analysis	close	
+pcf:analysis-and-insight	Analysis and insight	http://data.europa.eu/esco/skill/f263da7f-0708-42c2-b1a9-39083416f632	communicate analytical insights	narrow	
+pcf:analysis-and-insight	Analysis and insight	http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562	make data-driven decisions	narrow	
+pcf:analysis-and-synthesis	Analysis and synthesis	http://data.europa.eu/esco/skill/f715be1d-5fc4-49d3-82a5-0b8090d12849	synthesise information	close	user research synthesis
+pcf:analysis-and-synthesis	Analysis and synthesis	http://data.europa.eu/esco/skill/fa465db3-56e8-4b5d-a781-e2a313a4ed2d	conduct qualitative research	narrow	
+pcf:analysis-and-synthesis-for-data-and-ai-ethics	Analysis and synthesis for data and AI ethics	http://data.europa.eu/esco/skill/f715be1d-5fc4-49d3-82a5-0b8090d12849	synthesise information	broad	
+pcf:analysis-and-synthesis-for-data-and-ai-ethics	Analysis and synthesis for data and AI ethics	http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92	data ethics	narrow	knowledge
+pcf:applied-empathy-and-inclusivity	Applied empathy and inclusivity	http://data.europa.eu/esco/skill/bcd2ce08-ba12-4d66-865f-f4ba36419707	promote inclusion	close	
+pcf:applied-empathy-and-inclusivity	Applied empathy and inclusivity	http://data.europa.eu/esco/skill/77b636e8-fab3-41a8-8022-1e0a354059dc	show empathy	narrow	
+pcf:applied-empathy-and-inclusivity	Applied empathy and inclusivity	http://data.europa.eu/esco/skill/7ab41e7d-6f5c-49f7-858d-e6cb3070e9eb	set inclusion policies	narrow	policy aspect
+pcf:applied-maths-statistics-and-scientific-practices	Applied maths, statistics and scientific practices	http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c	apply statistical analysis techniques	close	
+pcf:applied-maths-statistics-and-scientific-practices	Applied maths, statistics and scientific practices	http://data.europa.eu/esco/skill/7ee4c2ea-b349-4bd2-81a3-ec31475d4833	statistics	close	knowledge
+pcf:applied-maths-statistics-and-scientific-practices	Applied maths, statistics and scientific practices	http://data.europa.eu/esco/skill/7a34b3d9-bd3b-4f4e-a0f6-f97439901cb7	apply scientific methods	narrow	
+pcf:applied-social-sciences	Applied social sciences	http://data.europa.eu/esco/skill/deb3c1bc-d48a-42e6-b0cc-cb238534ec28	apply knowledge of social sciences and humanities	close	
+pcf:applied-social-sciences	Applied social sciences	http://data.europa.eu/esco/skill/4e097377-7950-4993-9e22-a61b067b5c00	social sciences	close	knowledge
+pcf:applying-statistical-and-analytical-tools-and-techniques	Applying statistical and analytical tools and techniques	http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c	apply statistical analysis techniques	exact	
+pcf:applying-statistical-and-analytical-tools-and-techniques	Applying statistical and analytical tools and techniques	http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3	use specific data analysis software	narrow	tools
+pcf:applying-user-centred-insights	Applying user-centred insights	http://data.europa.eu/esco/skill/ddfe79e2-c2e3-4ba7-9bdf-3820b4f75b54	identify ICT user needs	close	
+pcf:applying-user-centred-insights	Applying user-centred insights	http://data.europa.eu/esco/skill/7364cc39-b9c0-449f-9416-57723e2fd9c4	use methodologies for user-centered design	close	
+pcf:architect-for-the-whole-context	Architect for the whole context	http://data.europa.eu/esco/skill/d56e2c2f-3e01-4b76-a7bb-ecb6d430172f	think holistically	close	
+pcf:architect-for-the-whole-context	Architect for the whole context	http://data.europa.eu/esco/skill/0f9958d2-f700-4f62-b90b-a5873cb5ae4c	systems thinking	close	knowledge
+pcf:architect-for-the-whole-context	Architect for the whole context	http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0	design enterprise architecture	broad	
+pcf:architecture-communication	Architecture communication	http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13	apply technical communication skills	close	
+pcf:architecture-communication	Architecture communication	http://data.europa.eu/esco/skill/7ff2c668-0e86-418a-a962-4958262ee337	use communication techniques	broad	
+pcf:asset-and-configuration-management	Asset and configuration management	http://data.europa.eu/esco/skill/9d2e926f-53d9-41f5-98f3-19dfaa687f3f	tools for software configuration management	narrow	software configuration only
+pcf:asset-and-configuration-management	Asset and configuration management	http://data.europa.eu/esco/skill/ccb2e5f2-4279-48fd-9d85-a1db42ff1e13	project configuration management	narrow	
+pcf:asset-and-configuration-management	Asset and configuration management	http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b	manage inventory	narrow	asset inventory; general
+pcf:availability-and-capacity-management	Availability and capacity management	http://data.europa.eu/esco/skill/a2fef437-6719-47c2-8552-73b9fe81df86	plan ICT capacity	close	
+pcf:availability-and-capacity-management	Availability and capacity management	http://data.europa.eu/esco/skill/60d48be0-4260-4b2e-85b9-aedff7a9b7d9	ICT capacity planning strategies	narrow	knowledge
+pcf:availability-and-capacity-management	Availability and capacity management	http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd	monitor system performance	narrow	availability monitoring
+pcf:business-analysis-it-operations	Business analysis (IT operations)	http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703	perform business analysis	close	
+pcf:business-analysis-it-operations	Business analysis (IT operations)	http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17	analyse business requirements	close	
+pcf:business-analysis-it-operations	Business analysis (IT operations)	http://data.europa.eu/esco/skill/633a3637-2c6b-40ae-ac38-289eb2a62aa6	business analysis	close	knowledge
+pcf:business-and-user-acceptance-testing	Business and user acceptance testing	http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d	levels of software testing	broad	includes acceptance testing
+pcf:business-and-user-acceptance-testing	Business and user acceptance testing	http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a	execute software tests	broad	
+pcf:business-architecture	Business architecture	http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0	design enterprise architecture	close	
+pcf:business-architecture	Business architecture	http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27	ICT architectural frameworks	narrow	
+pcf:business-architecture	Business architecture	http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb	business process modelling	narrow	
+pcf:business-modelling	Business modelling	http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb	business process modelling	close	knowledge
+pcf:business-modelling	Business modelling	http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6	create business process models	close	
+pcf:business-modelling	Business modelling	http://data.europa.eu/esco/skill/3c1cbc5e-2220-4f45-bcc8-3d52c8c9cae0	analyse business model	narrow	
+pcf:business-process-improvement	Business process improvement	http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14	improve business processes	exact	
+pcf:business-process-improvement	Business process improvement	http://data.europa.eu/esco/skill/958b8802-ec3e-4813-97f7-6c8f48610dbd	identify process improvements	close	
+pcf:business-process-improvement	Business process improvement	http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e	analyse business processes	narrow	
+pcf:capability-building-for-digital-data-and-technology	Capability building for digital, data and technology	http://data.europa.eu/esco/skill/f1155d3f-fbca-4298-a31c-f6955653bacf	shape organisational teams based on competencies	narrow	
+pcf:capability-building-for-digital-data-and-technology	Capability building for digital, data and technology	http://data.europa.eu/esco/skill/f206e732-110c-47ce-a53f-f00c9d97c90d	talent management strategies	narrow	knowledge
+pcf:capability-building-for-digital-data-and-technology	Capability building for digital, data and technology	http://data.europa.eu/esco/skill/ebff1a39-7261-49cd-9cb2-88f565e8dc26	develop corporate training programmes	narrow	
+pcf:change-benefits-and-adoption-analysis	Change, benefits and adoption analysis	http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca	apply change management	broad	
+pcf:change-benefits-and-adoption-analysis	Change, benefits and adoption analysis	http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5	conduct impact evaluation of ICT processes on business	narrow	
+pcf:change-benefits-and-adoption-analysis	Change, benefits and adoption analysis	http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a	provide cost benefit analysis reports	narrow	
+pcf:change-management	Change management	http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755	manage changes in ICT system	close	IT service change
+pcf:change-management	Change management	http://data.europa.eu/esco/skill/0a099c81-6a0c-4f00-bb3b-990d23ec03a5	manage ICT change request process	close	
+pcf:changing-security-culture	Changing security culture	http://data.europa.eu/esco/skill/54d774a3-de3b-4425-b0d7-c03bc99a0937	set up cybersecurity training programmes	close	
+pcf:changing-security-culture	Changing security culture	http://data.europa.eu/esco/skill/6aef2baa-5fa7-4c16-bd28-3e070ec4e4df	educate on data confidentiality	narrow	
+pcf:changing-security-culture	Changing security culture	http://data.europa.eu/esco/skill/a8f2a095-9d03-43f0-980d-2b9fcc59a994	shape corporate culture	broad	
+pcf:coaching-in-an-agile-environment	Coaching in an agile environment	http://data.europa.eu/esco/skill/0cc9c234-f817-4f4c-908a-4d28fe3b0f4a	coach employees	close	
+pcf:coaching-in-an-agile-environment	Coaching in an agile environment	http://data.europa.eu/esco/skill/c6c1af60-9594-460c-a328-00f9ad292be0	coaching techniques	close	knowledge
+pcf:coaching-in-an-agile-environment	Coaching in an agile environment	http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4	Agile project management	narrow	agile context
+pcf:coding-and-scripting	Coding and scripting	http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97	computer programming	close	knowledge
+pcf:coding-and-scripting	Coding and scripting	http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333	use scripting programming	narrow	
+pcf:commercial-management	Commercial management	http://data.europa.eu/esco/skill/92721092-fe7c-4689-96bd-4f02385bc0e7	manage contracts	narrow	
+pcf:commercial-management	Commercial management	http://data.europa.eu/esco/skill/fe1ec582-d63b-466c-9149-e7fc4fe93e22	supplier management	narrow	knowledge
+pcf:commercial-management	Commercial management	http://data.europa.eu/esco/skill/80ae18bf-f3a4-4f83-b372-7c5c9d686865	manage commercial risks	narrow	
+pcf:commercial-perspective	Commercial perspective	http://data.europa.eu/esco/skill/80ae18bf-f3a4-4f83-b372-7c5c9d686865	manage commercial risks	narrow	
+pcf:commercial-perspective	Commercial perspective	http://data.europa.eu/esco/skill/fe1ec582-d63b-466c-9149-e7fc4fe93e22	supplier management	narrow	knowledge
+pcf:commercial-perspective	Commercial perspective	http://data.europa.eu/esco/skill/3bc08c26-2f98-4730-bbb6-ec4a8566e3cf	procurement lifecycle	narrow	knowledge
+pcf:communicating-analysis-and-insight	Communicating analysis and insight	http://data.europa.eu/esco/skill/f263da7f-0708-42c2-b1a9-39083416f632	communicate analytical insights	exact	
+pcf:communicating-analysis-and-insight	Communicating analysis and insight	http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817	report analysis results	close	
+pcf:communicating-analysis-and-insight	Communicating analysis and insight	http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389	deliver visual presentation of data	narrow	
+pcf:communicating-between-the-technical-and-non-technical	Communicating between the technical and non-technical	http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13	apply technical communication skills	exact	
+pcf:communicating-data	Communicating data	http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13	apply technical communication skills	close	data architecture audience
+pcf:communicating-data	Communicating data	http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389	deliver visual presentation of data	narrow	
+pcf:communicating-information	Communicating information	http://data.europa.eu/esco/skill/7ff2c668-0e86-418a-a962-4958262ee337	use communication techniques	close	
+pcf:communicating-information	Communicating information	http://data.europa.eu/esco/skill/415abd43-e8e5-4643-b5da-5f11307af57a	use different communication channels	narrow	
+pcf:communication-security-architect	Communication (security architect)	http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13	apply technical communication skills	close	
+pcf:communication-security-architect	Communication (security architect)	http://data.europa.eu/esco/skill/bad614fb-fc66-4401-b75b-3d366013a493	write security reports	narrow	
+pcf:community-collaboration	Community collaboration	http://data.europa.eu/esco/skill/082967d4-b94c-4305-aa13-35a6aa8c5c7c	cooperate with colleagues	close	
+pcf:community-collaboration	Community collaboration	http://data.europa.eu/esco/skill/60c78287-22eb-4103-9c8c-28deaa460da0	work in teams	close	
+pcf:community-collaboration	Community collaboration	http://data.europa.eu/esco/skill/bf5d77ad-e18c-48d8-83f0-bc79c011c74a	develop professional network	narrow	professional communities
+pcf:consultancy	Consultancy	http://data.europa.eu/esco/skill/283cbcd3-7101-4dbb-be37-56f3625515b1	provide ICT consulting advice	close	
+pcf:consultancy	Consultancy	http://data.europa.eu/esco/skill/414332e4-8347-4771-b947-65bd3801a620	use consulting techniques	close	
+pcf:content-management-and-architecture	Content management and architecture	http://data.europa.eu/esco/skill/1bba98a7-92b9-450b-9235-e0c905f8f3c4	information architecture	close	knowledge
+pcf:content-management-and-architecture	Content management and architecture	http://data.europa.eu/esco/skill/9710092c-f174-4e84-95bf-2064d39ad7a0	manage content metadata	narrow	
+pcf:content-management-and-architecture	Content management and architecture	http://data.europa.eu/esco/skill/56a10e3e-c9e7-4d39-b6f1-6013398fcb3a	use content management system software	narrow	
+pcf:context-problem-and-option-analysis	Context, problem and option analysis	http://data.europa.eu/esco/skill/9714735d-6f60-440b-bdbc-aaf45ebcbe78	analyse the context of an organisation	close	
+pcf:context-problem-and-option-analysis	Context, problem and option analysis	http://data.europa.eu/esco/skill/55514865-3066-4abd-86a9-dbe45a440882	root cause analysis	narrow	
+pcf:context-problem-and-option-analysis	Context, problem and option analysis	http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328	propose ICT solutions to business problems	narrow	option analysis
+pcf:continual-service-improvement	Continual service improvement	http://data.europa.eu/esco/skill/9d59f4e5-20a5-428e-b8b3-645043500457	create a work atmosphere of continuous improvement	close	
+pcf:continual-service-improvement	Continual service improvement	http://data.europa.eu/esco/skill/0550431f-9c8b-4204-9c45-59bc5feacf06	continuous improvement philosophies	close	knowledge
+pcf:continual-service-improvement	Continual service improvement	http://data.europa.eu/esco/skill/958b8802-ec3e-4813-97f7-6c8f48610dbd	identify process improvements	narrow	
+pcf:continuity-management	Continuity management	http://data.europa.eu/esco/skill/909a28ce-d4b6-4567-9b74-d111f1ed9633	maintain plan for continuity of operations	close	
+pcf:continuity-management	Continuity management	http://data.europa.eu/esco/skill/64852ade-6ae1-4760-ba4a-976bf07ca255	manage disaster recovery plans	close	
+pcf:continuity-management	Continuity management	http://data.europa.eu/esco/skill/c9e96450-421d-48af-9ee6-d9c50e29afc2	ICT recovery techniques	narrow	knowledge
+pcf:creating-value-for-money	Creating value for money	http://data.europa.eu/esco/skill/d41262ae-eca1-4ede-89a8-46d2d99a7a31	consider economic criteria in decision making	close	
+pcf:creating-value-for-money	Creating value for money	http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a	provide cost benefit analysis reports	narrow	
+pcf:customer-service-management	Customer service management	http://data.europa.eu/esco/skill/c09c5786-a479-46de-b0aa-d5d2d8ccc123	manage customer service	close	
+pcf:customer-service-management	Customer service management	http://data.europa.eu/esco/skill/e1e99428-b91b-45e1-8ede-ed0cbf161930	establish an ICT customer support process	close	
+pcf:customer-service-management	Customer service management	http://data.europa.eu/esco/skill/c2296e2e-5fef-4f24-a24f-e5b3792268be	provide ICT support	narrow	
+pcf:cyber-incident-management	Cyber incident management	http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239	handle cybersecurity incidents	close	
+pcf:cyber-incident-management	Cyber incident management	http://data.europa.eu/esco/skill/8071881c-d652-46e7-9cf4-e06a7f1e57c7	manage major incidents	narrow	
+pcf:cyber-incident-management	Cyber incident management	http://data.europa.eu/esco/skill/440d5784-52a5-4729-8b04-29f978bd896d	respond to incidents in cloud	narrow	
+pcf:cyber-risk-management	Cyber risk management	http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c	implement ICT risk management	close	
+pcf:cyber-risk-management	Cyber risk management	http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf	identify ICT security risks	narrow	
+pcf:cyber-risk-management	Cyber risk management	http://data.europa.eu/esco/skill/96ec2d53-4f41-4172-8ef2-70742c4bb540	assess supplier risks	narrow	partner and supplier assessment
+pcf:cyber-security-governance	Cyber security governance	http://data.europa.eu/esco/skill/4918ec9a-0204-4935-8b09-b0112370daa8	establish an Information Security Management System	close	
+pcf:cyber-security-governance	Cyber security governance	http://data.europa.eu/esco/skill/37bc4dc0-1233-4008-98db-1116d0c1cfcc	define security policies	narrow	
+pcf:cyber-security-governance	Cyber security governance	http://data.europa.eu/esco/skill/06358891-8424-43c5-891e-d40f226bef40	manage IT security compliances	narrow	
+pcf:data-analysis-and-synthesis	Data analysis and synthesis	http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f	perform data analysis	close	
+pcf:data-analysis-and-synthesis	Data analysis and synthesis	http://data.europa.eu/esco/skill/f715be1d-5fc4-49d3-82a5-0b8090d12849	synthesise information	narrow	
+pcf:data-and-ai-ethics-communication	Data and AI ethics communication	http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92	data ethics	narrow	knowledge
+pcf:data-and-ai-ethics-communication	Data and AI ethics communication	http://data.europa.eu/esco/skill/ff64e9fc-36dd-4035-872a-83aa41dc1ad9	communicate with a non-scientific audience	narrow	
+pcf:data-and-ai-ethics-product-management	Data and AI ethics product management	http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92	data ethics	narrow	knowledge
+pcf:data-and-ai-ethics-product-management	Data and AI ethics product management	http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a	plan product management	narrow	
+pcf:data-architecture	Data architecture	http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956	manage ICT data architecture	close	
+pcf:data-architecture	Data architecture	http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511	design database scheme	narrow	
+pcf:data-architecture	Data architecture	http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5	data models	narrow	knowledge
+pcf:data-compliance-and-security	Data compliance and security	http://data.europa.eu/esco/skill/9a0d0abc-010d-440b-8242-7e31510471ba	information governance compliance	close	knowledge
+pcf:data-compliance-and-security	Data compliance and security	http://data.europa.eu/esco/skill/a4346013-a967-4a58-a533-6b32ad1364c5	data protection	close	knowledge
+pcf:data-compliance-and-security	Data compliance and security	http://data.europa.eu/esco/skill/adcca622-b933-4ba3-bc43-bf371879edc3	data security principles	narrow	knowledge
+pcf:data-development-process	Data development process	http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec	establish data processes	close	
+pcf:data-development-process	Data development process	http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab	develop data processing applications	narrow	
+pcf:data-development-process	Data development process	http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051	data extraction, transformation and loading tools	narrow	pipelines
+pcf:data-engineering	Data engineering	http://data.europa.eu/esco/skill/48db96bf-3314-45c6-bad8-fdb6e20e5639	data engineering	exact	knowledge
+pcf:data-engineering	Data engineering	http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec	establish data processes	narrow	
+pcf:data-ethics-and-privacy	Data ethics and privacy	http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92	data ethics	close	knowledge
+pcf:data-ethics-and-privacy	Data ethics and privacy	http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb	protect personal data and privacy	close	
+pcf:data-ethics-and-privacy	Data ethics and privacy	http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490	ensure information privacy	close	
+pcf:data-governance	Data governance	http://data.europa.eu/esco/skill/9a0d0abc-010d-440b-8242-7e31510471ba	information governance compliance	close	knowledge
+pcf:data-governance	Data governance	http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4	define data quality criteria	narrow	
+pcf:data-governance	Data governance	http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f	manage data	broad	
+pcf:data-governance-data-architect	Data governance (data architect)	http://data.europa.eu/esco/skill/9a0d0abc-010d-440b-8242-7e31510471ba	information governance compliance	close	knowledge
+pcf:data-governance-data-architect	Data governance (data architect)	http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4	define data quality criteria	narrow	
+pcf:data-governance-data-architect	Data governance (data architect)	http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1	manage standards for data exchange	narrow	
+pcf:data-governance-leadership	Data governance leadership	http://data.europa.eu/esco/skill/9a0d0abc-010d-440b-8242-7e31510471ba	information governance compliance	close	knowledge
+pcf:data-governance-leadership	Data governance leadership	http://data.europa.eu/esco/skill/3254275d-a1b5-4640-9481-02f38780ac35	develop organisational policies	narrow	
+pcf:data-governance-leadership	Data governance leadership	http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4	define data quality criteria	narrow	
+pcf:data-innovation	Data innovation	http://data.europa.eu/esco/skill/8327754d-3990-4056-b07e-4faa49cfcd26	innovate in ICT	close	
+pcf:data-innovation	Data innovation	http://data.europa.eu/esco/skill/42cb7669-c371-4903-9c0b-13db67b2e4bb	emergent technologies	narrow	knowledge
+pcf:data-integration-design	Data integration design	http://data.europa.eu/esco/skill/a4a882a1-0263-4dd2-b29a-f0028cac2393	define integration strategy	close	
+pcf:data-integration-design	Data integration design	http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc	integrate ICT data	close	
+pcf:data-integration-design	Data integration design	http://data.europa.eu/esco/skill/b0096dc5-2e2d-4bc1-8172-05bf486c3968	design application interfaces	narrow	APIs
+pcf:data-life-cycle	Data life cycle	http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f	manage data	close	
+pcf:data-life-cycle	Data life cycle	http://data.europa.eu/esco/skill/4f5c1208-62fd-4e5a-a51e-306c06947e11	manage findable accessible interoperable and reusable data	narrow	
+pcf:data-literacy-improvement	Data literacy improvement	http://data.europa.eu/esco/skill/c8fa4313-80b0-4f37-8b1b-1739707bc362	teach digital literacy	narrow	
+pcf:data-literacy-improvement	Data literacy improvement	http://data.europa.eu/esco/skill/6aef2baa-5fa7-4c16-bd28-3e070ec4e4df	educate on data confidentiality	narrow	
+pcf:data-management	Data management	http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f	manage data	close	
+pcf:data-management	Data management	http://data.europa.eu/esco/skill/03a74eee-2dc6-4147-8667-5cdeb65f122d	manage ICT data classification	narrow	
+pcf:data-management	Data management	http://data.europa.eu/esco/skill/f2fdd2db-8755-4540-8af8-b46f2c0de95f	facilitate access to information	narrow	
+pcf:data-maturity	Data maturity	http://data.europa.eu/esco/skill/fafe0b9d-dbd9-46bd-b770-26299539ce66	ICT process quality models	narrow	process maturity models
+pcf:data-maturity	Data maturity	http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700	data quality assessment	narrow	
+pcf:data-modelling	Data modelling	http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779	create data models	exact	
+pcf:data-modelling	Data modelling	http://data.europa.eu/esco/skill/fecf8a0d-62c4-4e71-9b03-0f4fc2ad7bf5	data models	close	knowledge
+pcf:data-modelling-cleansing-and-enrichment	Data modelling, cleansing and enrichment	http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779	create data models	close	
+pcf:data-modelling-cleansing-and-enrichment	Data modelling, cleansing and enrichment	http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8	perform data cleansing	narrow	
+pcf:data-modelling-cleansing-and-enrichment	Data modelling, cleansing and enrichment	http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc	normalise data	narrow	
+pcf:data-preparation-and-linkage	Data preparation and linkage	http://data.europa.eu/esco/skill/1b70a55d-b8a4-49fc-96c6-15ab4cff2522	use data processing techniques	close	
+pcf:data-preparation-and-linkage	Data preparation and linkage	http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8	perform data cleansing	narrow	
+pcf:data-preparation-and-linkage	Data preparation and linkage	http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc	integrate ICT data	narrow	linkage
+pcf:data-risk-management	Data risk management	http://data.europa.eu/esco/skill/69cfc5ed-6569-4aca-a4cc-fd782ba51d9c	implement ICT risk management	close	
+pcf:data-risk-management	Data risk management	http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0	risk management	broad	knowledge
+pcf:data-risk-management	Data risk management	http://data.europa.eu/esco/skill/bd832a82-b079-4001-80d1-f59efed33688	create risk reports	narrow	
+pcf:data-science-innovation	Data science innovation	http://data.europa.eu/esco/skill/edebd83d-35f6-4ed5-a940-6c203d178c01	data science	close	knowledge
+pcf:data-science-innovation	Data science innovation	http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278	perform data mining	narrow	
+pcf:data-science-innovation	Data science innovation	http://data.europa.eu/esco/skill/8327754d-3990-4056-b07e-4faa49cfcd26	innovate in ICT	narrow	
+pcf:data-standards	Data standards	http://data.europa.eu/esco/skill/cb5cccc9-abe4-4b11-abe6-d27e5cd85fb1	manage standards for data exchange	close	
+pcf:data-standards	Data standards	http://data.europa.eu/esco/skill/1b3fc0e0-c6f9-45fc-9c6e-14bbba662979	develop information standards	close	
+pcf:data-visualisation	Data visualisation	http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389	deliver visual presentation of data	exact	
+pcf:data-visualisation	Data visualisation	http://data.europa.eu/esco/skill/c0326e27-5fa8-4dca-aecb-ed89ab491513	prepare visual data	close	
+pcf:data-visualisation	Data visualisation	http://data.europa.eu/esco/skill/65e58886-bd1e-4c5b-8ca5-8d9b353c8aa1	data visualisation software	narrow	knowledge
+pcf:defining-and-managing-business-needs-user-needs-and-requirements	Defining and managing business needs, user needs and requirements	http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17	analyse business requirements	close	
+pcf:defining-and-managing-business-needs-user-needs-and-requirements	Defining and managing business needs, user needs and requirements	http://data.europa.eu/esco/skill/ddfe79e2-c2e3-4ba7-9bdf-3820b4f75b54	identify ICT user needs	close	
+pcf:defining-and-managing-business-needs-user-needs-and-requirements	Defining and managing business needs, user needs and requirements	http://data.europa.eu/esco/skill/a8797f21-1af0-4c5e-98ca-bf1442929363	interact with users to gather requirements	narrow	
+pcf:delivering-business-impact	Delivering business impact	http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562	make data-driven decisions	close	
+pcf:delivering-business-impact	Delivering business impact	http://data.europa.eu/esco/skill/ee7f90cc-922e-4da7-a7ae-83c2688fed10	align efforts towards business development	broad	
+pcf:delivering-business-impact-through-data	Delivering business impact through data	http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562	make data-driven decisions	close	
+pcf:delivering-business-impact-through-data	Delivering business impact through data	http://data.europa.eu/esco/skill/ee7f90cc-922e-4da7-a7ae-83c2688fed10	align efforts towards business development	broad	
+pcf:design-communication	Design communication	http://data.europa.eu/esco/skill/39e7d2a3-8d01-497c-8c5f-d51ab53a4a22	present arguments persuasively	narrow	
+pcf:design-communication	Design communication	http://data.europa.eu/esco/skill/fc4fcb4b-993f-4f2c-b158-c2171ec18ed8	draw design sketches	narrow	
+pcf:design-communication	Design communication	http://data.europa.eu/esco/skill/f0f5bb34-71df-4715-9c9e-03567b76ec8f	create website wireframe	narrow	
+pcf:designing-and-executing-tests	Designing and executing tests	http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a	execute software tests	close	
+pcf:designing-and-executing-tests	Designing and executing tests	http://data.europa.eu/esco/skill/7253d98c-4a6d-4e37-8b6c-accca9f4b639	develop ICT test suite	close	
+pcf:designing-and-executing-tests	Designing and executing tests	http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1	plan software testing	narrow	
+pcf:designing-for-everyone	Designing for everyone	http://data.europa.eu/esco/skill/e8ef317f-c880-4c7a-929f-e08053f976bb	develop strategies for accessibility	narrow	accessibility part
+pcf:designing-for-everyone	Designing for everyone	http://data.europa.eu/esco/skill/5bac4bcc-1846-4688-ba02-ad2b51544282	develop inclusive communication material	narrow	inclusion part
+pcf:designing-secure-systems	Designing secure systems	http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab	security engineering	close	knowledge
+pcf:designing-secure-systems	Designing secure systems	http://data.europa.eu/esco/skill/958559fd-7ab8-44f6-9d65-eb521dc308a5	assess risks and implications of a design	narrow	
+pcf:designing-secure-systems	Designing secure systems	http://data.europa.eu/esco/skill/3ff589b7-68df-4ea5-ae41-b395bdb2378f	ICT security standards	narrow	knowledge
+pcf:designing-strategically	Designing strategically	http://data.europa.eu/esco/skill/33a0a2ea-025e-4107-8717-39ac45b3b78c	design management	close	knowledge
+pcf:designing-strategically	Designing strategically	http://data.europa.eu/esco/skill/4d30ad07-9e39-4899-81dd-02b280f162f9	apply systemic design thinking	narrow	
+pcf:designing-together	Designing together	http://data.europa.eu/esco/skill/d52382fe-f236-421f-95fe-34fe69d48dbd	collaborate with designers	narrow	
+pcf:designing-together	Designing together	http://data.europa.eu/esco/skill/59429f7f-8b95-4094-b1cf-97cbb556f03d	participatory decision-making	narrow	knowledge
+pcf:developing-code-for-analysis	Developing code for analysis	http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab	develop data processing applications	close	
+pcf:developing-code-for-analysis	Developing code for analysis	http://data.europa.eu/esco/skill/51586df8-1c46-4b47-8583-773cb63bf00b	R	narrow	one language
+pcf:developing-code-for-analysis	Developing code for analysis	http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d	Python (computer programming)	narrow	one language
+pcf:developing-data-science-capability	Developing data science capability	http://data.europa.eu/esco/skill/517f678e-001b-4985-acb4-9edc3500d74c	develop training programmes	narrow	
+pcf:developing-data-science-capability	Developing data science capability	http://data.europa.eu/esco/skill/a584a638-a2c0-4b3c-bdf3-a64f87225be9	mentor individuals	narrow	
+pcf:developing-data-science-capability	Developing data science capability	http://data.europa.eu/esco/skill/988f4ac3-a37c-4b0a-a40f-4e0e56b5919e	promote the transfer of knowledge	narrow	
+pcf:development-process-optimisation	Development process optimisation	http://data.europa.eu/esco/skill/10026df1-670d-4c75-b3d5-ee0037f9d59b	lead process optimisation	close	
+pcf:development-process-optimisation	Development process optimisation	http://data.europa.eu/esco/skill/958b8802-ec3e-4813-97f7-6c8f48610dbd	identify process improvements	close	
+pcf:digital-and-data-systems-analysis	Digital and data systems analysis	http://data.europa.eu/esco/skill/3f86173d-e101-4fcd-934f-ff9de29c081c	perform system analysis	close	
+pcf:digital-and-data-systems-analysis	Digital and data systems analysis	http://data.europa.eu/esco/skill/7adb8473-bcc6-4ff8-9850-76d945d40092	analyse ICT system	close	
+pcf:enabling-and-informing-risk-based-decisions	Enabling and informing risk-based decisions	http://data.europa.eu/esco/skill/0efbe2dc-2770-47ec-b8f4-d1bdff6ac0a4	advise on risk management	close	
+pcf:enabling-and-informing-risk-based-decisions	Enabling and informing risk-based decisions	http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317	perform risk analysis	close	
+pcf:enabling-and-informing-risk-based-decisions	Enabling and informing risk-based decisions	http://data.europa.eu/esco/skill/64bd4157-5df0-4166-8259-ede237dd7cdf	estimate impact of risks	narrow	
+pcf:ensuring-resilience-of-digital-data-and-technology	Ensuring resilience of digital, data and technology	http://data.europa.eu/esco/skill/79f24a62-7718-46e1-9b41-37be0560a5ca	organisational resilience	close	knowledge
+pcf:ensuring-resilience-of-digital-data-and-technology	Ensuring resilience of digital, data and technology	http://data.europa.eu/esco/skill/64852ade-6ae1-4760-ba4a-976bf07ca255	manage disaster recovery plans	narrow	
+pcf:enterprise-architecture	Enterprise architecture	http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0	design enterprise architecture	exact	
+pcf:enterprise-architecture	Enterprise architecture	http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27	ICT architectural frameworks	narrow	knowledge
+pcf:evaluation-delivery	Evaluation delivery	http://data.europa.eu/esco/skill/77ac0804-a866-4055-a56a-5e232beb15de	adapt evaluation methodology	close	
+pcf:evaluation-delivery	Evaluation delivery	http://data.europa.eu/esco/skill/ef3b0fe7-236f-4910-994a-5cf8f126cb9d	types of evaluation	narrow	knowledge
+pcf:evaluation-delivery	Evaluation delivery	http://data.europa.eu/esco/skill/8316979b-df5a-4dc7-98ef-61ec6a10df84	conduct quantitative research	narrow	
+pcf:evaluation-planning-and-strategy	Evaluation planning and strategy	http://data.europa.eu/esco/skill/ed7b7841-4df9-4936-9415-f6067e1f3344	plan evaluation	close	
+pcf:evaluation-planning-and-strategy	Evaluation planning and strategy	http://data.europa.eu/esco/skill/5100aeb3-948d-4163-91ad-703a4116bdba	commission evaluation	narrow	
+pcf:evaluation-planning-and-strategy	Evaluation planning and strategy	http://data.europa.eu/esco/skill/457c2e47-07e6-4073-827e-e1c21f3e5869	evaluation theory	narrow	knowledge
+pcf:evidence-based-design	Evidence-based design	http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2	web analytics	narrow	quantitative evidence
+pcf:evidence-based-design	Evidence-based design	http://data.europa.eu/esco/skill/fa465db3-56e8-4b5d-a781-e2a313a4ed2d	conduct qualitative research	narrow	qualitative evidence
+pcf:evidence-based-design	Evidence-based design	http://data.europa.eu/esco/skill/7364cc39-b9c0-449f-9416-57723e2fd9c4	use methodologies for user-centered design	broad	
+pcf:financial-decision-making-for-technology	Financial decision making for technology	http://data.europa.eu/esco/skill/d41262ae-eca1-4ede-89a8-46d2d99a7a31	consider economic criteria in decision making	close	
+pcf:financial-decision-making-for-technology	Financial decision making for technology	http://data.europa.eu/esco/skill/48b68726-0fd6-4e03-a5eb-82236516ee7a	provide cost benefit analysis reports	narrow	
+pcf:financial-decision-making-for-technology	Financial decision making for technology	http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425	optimise choice of ICT solution	narrow	
+pcf:financial-management	Financial management	http://data.europa.eu/esco/skill/52e53619-fa77-4f72-b237-5e4aae784dc2	financial management	exact	knowledge
+pcf:financial-management	Financial management	http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea	manage budgets	narrow	
+pcf:financial-management-for-digital-data-and-technology	Financial management for digital, data and technology	http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea	manage budgets	close	
+pcf:financial-management-for-digital-data-and-technology	Financial management for digital, data and technology	http://data.europa.eu/esco/skill/52e53619-fa77-4f72-b237-5e4aae784dc2	financial management	broad	knowledge
+pcf:financial-ownership	Financial ownership	http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea	manage budgets	close	
+pcf:financial-ownership	Financial ownership	http://data.europa.eu/esco/skill/2d008d5a-b7bd-46f7-bbb1-5d70a0af9c84	control financial resources	close	
+pcf:governance-and-assurance	Governance and assurance	http://data.europa.eu/esco/skill/f2c63b7a-ed6c-4890-9f8c-7685d172624c	implement corporate governance	broad	
+pcf:governance-and-assurance	Governance and assurance	http://data.europa.eu/esco/skill/bda0d115-f315-453e-99dc-f8b0e5862db3	ensure compliance with policies	narrow	
+pcf:governance-and-assurance	Governance and assurance	http://data.europa.eu/esco/skill/d83cba15-8511-4d07-b89a-9fde0d1d8241	perform quality audits	narrow	
+pcf:governance-and-assurance-accessibility	Governance and assurance (accessibility)	http://data.europa.eu/esco/skill/5d9e766b-8f17-4e17-bfab-3bb0e0719791	define quality standards	close	
+pcf:governance-and-assurance-accessibility	Governance and assurance (accessibility)	http://data.europa.eu/esco/skill/bda0d115-f315-453e-99dc-f8b0e5862db3	ensure compliance with policies	close	
+pcf:governance-and-assurance-accessibility	Governance and assurance (accessibility)	http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033	ICT accessibility standards	narrow	knowledge
+pcf:incident-management	Incident management	http://data.europa.eu/esco/skill/8071881c-d652-46e7-9cf4-e06a7f1e57c7	manage major incidents	narrow	
+pcf:incident-management	Incident management	http://data.europa.eu/esco/skill/6430eb0d-c6de-46b7-a7fc-3dd2e8e62a69	use ICT ticketing system	narrow	
+pcf:incident-management	Incident management	http://data.europa.eu/esco/skill/4fb7c7aa-9f19-4cc3-9e19-64ce564f22f5	handle incidents	broad	generic incidents
+pcf:inclusive-research	Inclusive research	http://data.europa.eu/esco/skill/bcd2ce08-ba12-4d66-865f-f4ba36419707	promote inclusion	broad	
+pcf:inclusive-research	Inclusive research	http://data.europa.eu/esco/skill/cd50d616-1f8b-481e-983f-68d2674ff82d	integrate gender dimension in research	narrow	
+pcf:information-security	Information security	http://data.europa.eu/esco/skill/6833e58b-eceb-4599-9375-1b7e6ec64087	ensure information security	exact	
+pcf:information-security	Information security	http://data.europa.eu/esco/skill/8088750d-8388-4170-a76f-48354c469c44	cyber security	close	knowledge
+pcf:innovation-in-digital-data-and-technology	Innovation in digital, data and technology	http://data.europa.eu/esco/skill/7a17d7ce-01a2-4746-bbcc-22ffe22fa16e	monitor technology trends	close	
+pcf:innovation-in-digital-data-and-technology	Innovation in digital, data and technology	http://data.europa.eu/esco/skill/8327754d-3990-4056-b07e-4faa49cfcd26	innovate in ICT	close	
+pcf:innovation-in-digital-data-and-technology	Innovation in digital, data and technology	http://data.europa.eu/esco/skill/42cb7669-c371-4903-9c0b-13db67b2e4bb	emergent technologies	narrow	knowledge
+pcf:iterative-design	Iterative design	http://data.europa.eu/esco/skill/33d49d4f-31ec-473f-9b8a-b555aa5116bb	iterative development	close	knowledge
+pcf:iterative-design	Iterative design	http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812	create prototype of user experience solutions	narrow	
+pcf:it-infrastructure	IT infrastructure	http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523	ICT infrastructure	close	knowledge
+pcf:it-infrastructure	IT infrastructure	http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5	maintain ICT system	narrow	
+pcf:it-service-reporting	IT service reporting	http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40	track key performance indicators	close	
+pcf:it-service-reporting	IT service reporting	http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd	monitor system performance	narrow	
+pcf:leadership-and-guidance	Leadership and guidance	http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207	lead others	close	
+pcf:leadership-and-guidance	Leadership and guidance	http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb	manage staff	close	
+pcf:leadership-and-guidance	Leadership and guidance	http://data.europa.eu/esco/skill/d5145a9a-602e-40bf-b3e1-f04cf9c3ef86	leadership principles	close	knowledge
+pcf:leadership-and-guidance-frontend-developer	Leadership and guidance (frontend developer)	http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207	lead others	close	
+pcf:leadership-and-guidance-frontend-developer	Leadership and guidance (frontend developer)	http://data.europa.eu/esco/skill/a584a638-a2c0-4b3c-bdf3-a64f87225be9	mentor individuals	narrow	
+pcf:leading-design	Leading design	http://data.europa.eu/esco/skill/33a0a2ea-025e-4107-8717-39ac45b3b78c	design management	close	knowledge
+pcf:leading-design	Leading design	http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207	lead others	broad	
+pcf:leading-digital-products-and-services	Leading digital products and services	http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a	plan product management	close	
+pcf:leading-digital-products-and-services	Leading digital products and services	http://data.europa.eu/esco/skill/b91535d7-1265-455d-a565-901e2eafa883	lead technology development of an organisation	close	
+pcf:leading-performance-and-benefits	Leading performance and benefits	http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40	track key performance indicators	narrow	
+pcf:leading-performance-and-benefits	Leading performance and benefits	http://data.europa.eu/esco/skill/5e50a0f1-4089-4df6-a15b-34b39d3aeab4	conduct performance measurement	narrow	
+pcf:life-cycle-management	Life cycle management	http://data.europa.eu/esco/skill/21e0cad8-4eef-42be-b18b-0f8e37f0dbd0	product life-cycle	close	knowledge
+pcf:life-cycle-management	Life cycle management	http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575	systems development life-cycle	close	knowledge
+pcf:maintaining-delivery-momentum	Maintaining delivery momentum	http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68	perform project management	broad	
+pcf:maintaining-delivery-momentum	Maintaining delivery momentum	http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5	manage schedule of tasks	narrow	
+pcf:maintaining-delivery-momentum	Maintaining delivery momentum	http://data.europa.eu/esco/skill/91abe492-18be-4cce-93c7-0dca07072363	meet deadlines	narrow	
+pcf:making-and-guiding-decisions	Making and guiding decisions	http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63	make strategic business decisions	close	
+pcf:making-and-guiding-decisions	Making and guiding decisions	http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47	make decisions	broad	
+pcf:making-a-process-work	Making a process work	http://data.europa.eu/esco/skill/10026df1-670d-4c75-b3d5-ee0037f9d59b	lead process optimisation	close	
+pcf:making-a-process-work	Making a process work	http://data.europa.eu/esco/skill/958b8802-ec3e-4813-97f7-6c8f48610dbd	identify process improvements	narrow	
+pcf:making-a-process-work	Making a process work	http://data.europa.eu/esco/skill/f8bf9a84-d60b-4edc-bfa0-b0ece9bf8954	create documented procedures	narrow	
+pcf:making-architectural-decisions	Making architectural decisions	http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425	optimise choice of ICT solution	close	
+pcf:making-architectural-decisions	Making architectural decisions	http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308	define software architecture	narrow	
+pcf:making-architectural-decisions	Making architectural decisions	http://data.europa.eu/esco/skill/ee3c1d54-f46a-43c7-a0f9-0ba3648164d0	design enterprise architecture	narrow	
+pcf:making-strategic-performance-led-change	Making strategic performance-led change	http://data.europa.eu/esco/skill/f7b5d916-52f0-4865-b6a6-e1a3b711cb5e	implement strategic planning	close	
+pcf:making-strategic-performance-led-change	Making strategic performance-led change	http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40	track key performance indicators	narrow	
+pcf:managing-a-data-project	Managing a data project	http://data.europa.eu/esco/skill/3c76296d-4bbd-44ba-8eaa-95bf275f79b7	manage ICT project	close	
+pcf:managing-a-data-project	Managing a data project	http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68	perform project management	broad	
+pcf:managing-decisions-and-risks	Managing decisions and risks	http://data.europa.eu/esco/skill/6eff134b-e34f-4d6e-a6e8-5e47cf2228d0	risk management	close	knowledge
+pcf:managing-decisions-and-risks	Managing decisions and risks	http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317	perform risk analysis	narrow	
+pcf:managing-decisions-and-risks	Managing decisions and risks	http://data.europa.eu/esco/skill/d62d2b4c-a6f8-439e-8a1b-4f29ab5f2c47	make decisions	narrow	
+pcf:managing-product-outcomes	Managing product outcomes	http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a	plan product management	close	
+pcf:managing-product-outcomes	Managing product outcomes	http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40	track key performance indicators	narrow	
+pcf:managing-reporting-and-resolving-defects	Managing, reporting and resolving defects	http://data.europa.eu/esco/skill/561c2525-5bd8-4d86-8f45-820f4be7db93	report test findings	close	
+pcf:managing-reporting-and-resolving-defects	Managing, reporting and resolving defects	http://data.europa.eu/esco/skill/438ff259-d086-4004-acda-1ec3e1631bc6	software anomalies	narrow	knowledge
+pcf:managing-reporting-and-resolving-defects	Managing, reporting and resolving defects	http://data.europa.eu/esco/skill/2522a6ce-3202-4ac8-9f5b-b9cb5a3a83a1	debug software	narrow	
+pcf:metadata-management	Metadata management	http://data.europa.eu/esco/skill/9710092c-f174-4e84-95bf-2064d39ad7a0	manage content metadata	close	
+pcf:metadata-management	Metadata management	http://data.europa.eu/esco/skill/03ff0d53-573a-47a0-a0ad-1995815a4339	information structure	narrow	knowledge
+pcf:methods-and-tools	Methods and tools	http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27	ICT architectural frameworks	close	knowledge
+pcf:methods-and-tools	Methods and tools	http://data.europa.eu/esco/skill/98301d4a-2cc3-439d-8d7f-0b6ac76302bb	business process modelling	narrow	knowledge
+pcf:methods-and-tools	Methods and tools	http://data.europa.eu/esco/skill/7193cb6d-8334-494f-86e5-21e6d03a47c3	unified modelling language	narrow	knowledge
+pcf:modern-development-standards	Modern development standards	http://data.europa.eu/esco/skill/4b88b1ee-c2d9-473a-9fe8-ba3b9c0c179a	implement ICT coding conventions	close	
+pcf:modern-development-standards	Modern development standards	http://data.europa.eu/esco/skill/8ff015a0-98ea-4d80-a23e-1f68110a919e	software design methodologies	close	knowledge
+pcf:modern-development-standards	Modern development standards	http://data.europa.eu/esco/skill/f0de4973-0a70-4644-8fd4-3a97080476f4	DevOps	narrow	knowledge
+pcf:monitoring-and-evaluation-across-the-product-life-cycle	Monitoring and evaluation across the product life cycle	http://data.europa.eu/esco/skill/ed7b7841-4df9-4936-9415-f6067e1f3344	plan evaluation	narrow	
+pcf:monitoring-and-evaluation-across-the-product-life-cycle	Monitoring and evaluation across the product life cycle	http://data.europa.eu/esco/skill/21e0cad8-4eef-42be-b18b-0f8e37f0dbd0	product life-cycle	narrow	knowledge
+pcf:operational-management	Operational management	http://data.europa.eu/esco/skill/2d140a3a-45a6-4248-80dd-b3760ebc9cc6	operations management	close	knowledge
+pcf:operational-management	Operational management	http://data.europa.eu/esco/skill/afdb41dd-5dd5-4fbb-bf9e-e041422698b4	coordinate operational activities	close	
+pcf:optimising-technology-and-data-architecture	Optimising technology and data architecture	http://data.europa.eu/esco/skill/248894d1-42dc-474f-af6e-2da52ac0c679	define technology strategy	broad	
+pcf:optimising-technology-and-data-architecture	Optimising technology and data architecture	http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956	manage ICT data architecture	narrow	
+pcf:optimising-technology-and-data-architecture	Optimising technology and data architecture	http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966	align software with system architectures	narrow	
+pcf:ownership-and-initiative	Ownership and initiative	http://data.europa.eu/esco/skill/001115fb-569f-4ee6-8381-c6807ef2527f	show initiative	close	
+pcf:ownership-and-initiative	Ownership and initiative	http://data.europa.eu/esco/skill/e186976a-64f0-4052-a25b-297d19e1d0ec	think proactively	close	
+pcf:performance-measurement	Performance measurement	http://data.europa.eu/esco/skill/5e50a0f1-4089-4df6-a15b-34b39d3aeab4	conduct performance measurement	exact	
+pcf:performance-measurement	Performance measurement	http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40	track key performance indicators	close	
+pcf:planning	Planning	http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051	perform resource planning	narrow	
+pcf:planning	Planning	http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5	manage schedule of tasks	narrow	
+pcf:planning	Planning	http://data.europa.eu/esco/skill/e207163b-7963-4c3e-9494-7a4bb000211b	estimate duration of work	narrow	
+pcf:problem-definition-and-shaping	Problem definition and shaping	http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041	create solutions to problems	broad	
+pcf:problem-definition-and-shaping	Problem definition and shaping	http://data.europa.eu/esco/skill/55514865-3066-4abd-86a9-dbe45a440882	root cause analysis	narrow	
+pcf:problem-definition-and-shaping	Problem definition and shaping	http://data.europa.eu/esco/skill/9714735d-6f60-440b-bdbc-aaf45ebcbe78	analyse the context of an organisation	narrow	
+pcf:problem-management	Problem management	http://data.europa.eu/esco/skill/a3ce2bf7-5562-4639-9b52-fdb4850a3904	ICT problem management techniques	exact	knowledge
+pcf:problem-management	Problem management	http://data.europa.eu/esco/skill/55514865-3066-4abd-86a9-dbe45a440882	root cause analysis	narrow	
+pcf:product-and-service-monitoring	Product and service monitoring	http://data.europa.eu/esco/skill/d0245e61-204f-48ca-911b-45e564732682	reconstruct program theory	close	theory of change
+pcf:product-and-service-monitoring	Product and service monitoring	http://data.europa.eu/esco/skill/696e604d-53d2-4243-a6cb-a99663caa119	monitor social impact	narrow	
+pcf:product-leadership	Product leadership	http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a	plan product management	narrow	
+pcf:product-leadership	Product leadership	http://data.europa.eu/esco/skill/bf5d77ad-e18c-48d8-83f0-bc79c011c74a	develop professional network	narrow	product community
+pcf:product-management	Product management	http://data.europa.eu/esco/skill/29fb886c-6be0-4e93-9ea1-232881f2092a	plan product management	close	
+pcf:product-management	Product management	http://data.europa.eu/esco/skill/21e0cad8-4eef-42be-b18b-0f8e37f0dbd0	product life-cycle	narrow	knowledge
+pcf:programming-and-build-data-and-analytics-engineering	Programming and build (data and analytics engineering)	http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97	computer programming	close	knowledge
+pcf:programming-and-build-data-and-analytics-engineering	Programming and build (data and analytics engineering)	http://data.europa.eu/esco/skill/9d0d89be-bffa-4393-b6f6-8d05bea49051	data extraction, transformation and loading tools	narrow	knowledge
+pcf:programming-and-build-data-and-analytics-engineering	Programming and build (data and analytics engineering)	http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f	tools for ICT test automation	narrow	knowledge
+pcf:programming-and-build-data-science	Programming and build (data science)	http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97	computer programming	close	knowledge
+pcf:programming-and-build-data-science	Programming and build (data science)	http://data.europa.eu/esco/skill/ccd0a1d9-afda-43d9-b901-96344886e14d	Python (computer programming)	narrow	one language
+pcf:programming-and-build-data-science	Programming and build (data science)	http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433	utilise machine learning	narrow	
+pcf:programming-and-build-frontend-developer	Programming and build (frontend developer)	http://data.europa.eu/esco/skill/c4b1f326-224a-420a-b8b3-814a8f13b6cb	implement front-end website design	close	
+pcf:programming-and-build-frontend-developer	Programming and build (frontend developer)	http://data.europa.eu/esco/skill/69bbd53f-fbb0-4476-b4b2-ef7844464e28	web programming	close	knowledge
+pcf:programming-and-build-frontend-developer	Programming and build (frontend developer)	http://data.europa.eu/esco/skill/3cd569a2-4f88-4c1e-9995-8dce8c5e51a7	JavaScript	narrow	one language
+pcf:programming-and-build-software-engineering	Programming and build (software engineering)	http://data.europa.eu/esco/skill/21d2f96d-35f7-4e3f-9745-c533d2dd6e97	computer programming	close	knowledge
+pcf:programming-and-build-software-engineering	Programming and build (software engineering)	http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17	use software design patterns	narrow	
+pcf:programming-and-build-software-engineering	Programming and build (software engineering)	http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4	develop software prototype	narrow	
+pcf:prototyping	Prototyping	http://data.europa.eu/esco/skill/07dd856d-6141-48a7-a228-918f88494812	create prototype of user experience solutions	close	
+pcf:prototyping	Prototyping	http://data.europa.eu/esco/skill/ed1d8bd4-cd2a-4c64-b665-56d70651026c	Prototyping development	close	knowledge
+pcf:prototyping	Prototyping	http://data.europa.eu/esco/skill/797a4416-0b8d-44f3-8fcd-eb10bd0be6b4	develop software prototype	narrow	
+pcf:quality-assurance-of-data-and-analysis	Quality assurance of data and analysis	http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5	implement data quality processes	close	
+pcf:quality-assurance-of-data-and-analysis	Quality assurance of data and analysis	http://data.europa.eu/esco/skill/cc7370dd-69fa-4c67-a96f-d4d135d38700	data quality assessment	close	knowledge
+pcf:quality-assurance-of-data-and-analysis	Quality assurance of data and analysis	http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8	perform data cleansing	narrow	
+pcf:research-and-innovation	Research and innovation	http://data.europa.eu/esco/skill/7a17d7ce-01a2-4746-bbcc-22ffe22fa16e	monitor technology trends	close	
+pcf:research-and-innovation	Research and innovation	http://data.europa.eu/esco/skill/20c920d4-7ff7-4676-ba61-3f04490d9416	keep up with the latest information systems solutions	close	
+pcf:research-management-leadership-and-assurance	Research management, leadership and assurance	http://data.europa.eu/esco/skill/f88cb903-83a2-44a3-98a8-e72180ec37a9	plan research process	narrow	
+pcf:research-management-leadership-and-assurance	Research management, leadership and assurance	http://data.europa.eu/esco/skill/39f67488-cfd3-4370-8d7e-da98163102d9	evaluate research activities	narrow	
+pcf:research-management-leadership-and-assurance	Research management, leadership and assurance	http://data.europa.eu/esco/skill/75d8e5d9-bef3-418b-9011-01bff9f27207	lead others	narrow	
+pcf:security-architecture	Security architecture	http://data.europa.eu/esco/skill/6f1edc19-191f-4ba5-a048-ee69aff05bab	security engineering	close	knowledge
+pcf:security-architecture	Security architecture	http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248	cyber attack counter-measures	narrow	knowledge
+pcf:security-architecture	Security architecture	http://data.europa.eu/esco/skill/c9e96450-421d-48af-9ee6-d9c50e29afc2	ICT recovery techniques	narrow	knowledge
+pcf:security-technology	Security technology	http://data.europa.eu/esco/skill/dad7e408-162f-46a4-8567-db560e19e2fc	identify ICT system weaknesses	close	
+pcf:security-technology	Security technology	http://data.europa.eu/esco/skill/5898d99a-62a4-4e10-a2e3-0d815ce44248	cyber attack counter-measures	narrow	knowledge
+pcf:security-technology	Security technology	http://data.europa.eu/esco/skill/501537a7-9d63-491d-ae02-09f04767ff1e	attack vectors	narrow	knowledge
+pcf:service-focus	Service focus	http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575	systems development life-cycle	close	knowledge
+pcf:service-focus	Service focus	http://data.europa.eu/esco/skill/1d86f05e-e9cc-40ce-99d8-2b21cc71b16b	solution deployment	narrow	knowledge
+pcf:service-management-framework-knowledge	Service management framework knowledge	http://data.europa.eu/esco/skill/d12e9d68-84c5-444e-aa98-d36533bf03f6	apply operations for an ITIL-based environment	close	
+pcf:service-management-framework-knowledge	Service management framework knowledge	http://data.europa.eu/esco/skill/fafe0b9d-dbd9-46bd-b770-26299539ce66	ICT process quality models	narrow	knowledge
+pcf:service-support	Service support	http://data.europa.eu/esco/skill/c2296e2e-5fef-4f24-a24f-e5b3792268be	provide ICT support	close	
+pcf:service-support	Service support	http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c	solve ICT system problems	close	
+pcf:service-support	Service support	http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5	maintain ICT system	narrow	
+pcf:shaping-the-direction-of-organisational-strategy-through-digital-data-and-technology	Shaping the direction of organisational strategy through digital, data and technology	http://data.europa.eu/esco/skill/248894d1-42dc-474f-af6e-2da52ac0c679	define technology strategy	close	
+pcf:shaping-the-direction-of-organisational-strategy-through-digital-data-and-technology	Shaping the direction of organisational strategy through digital, data and technology	http://data.europa.eu/esco/skill/b91535d7-1265-455d-a565-901e2eafa883	lead technology development of an organisation	close	
+pcf:stakeholder-relationship-management	Stakeholder relationship management	http://data.europa.eu/esco/skill/1af2db15-2af9-44dd-9639-bf1fc69d4c34	manage relationships with stakeholders	exact	
+pcf:stakeholder-relationship-management	Stakeholder relationship management	http://data.europa.eu/esco/skill/eade4171-3d57-4fb2-9518-44d5a1da4ff5	build trust	narrow	
+pcf:stakeholder-relationship-management-it-operations	Stakeholder relationship management (IT operations)	http://data.europa.eu/esco/skill/1af2db15-2af9-44dd-9639-bf1fc69d4c34	manage relationships with stakeholders	close	
+pcf:stakeholder-relationship-management-it-operations	Stakeholder relationship management (IT operations)	http://data.europa.eu/esco/skill/477173ca-5fc2-406b-9122-95d92811f284	communicate with stakeholders	close	
+pcf:strategic-cyber-security-planning	Strategic cyber security planning	http://data.europa.eu/esco/skill/3579208e-49b3-4ce4-98e7-20e41b1ce8d4	develop information security strategy	close	
+pcf:strategic-cyber-security-planning	Strategic cyber security planning	http://data.europa.eu/esco/skill/11eebd42-44ab-401d-8a2c-bdb9fc9beb50	information security strategy	close	knowledge
+pcf:strategic-data-planning	Strategic data planning	http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2	strategic planning	broad	knowledge
+pcf:strategic-data-planning	Strategic data planning	http://data.europa.eu/esco/skill/248894d1-42dc-474f-af6e-2da52ac0c679	define technology strategy	broad	
+pcf:strategic-data-planning	Strategic data planning	http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956	manage ICT data architecture	narrow	
+pcf:strategic-design-and-business-change	Strategic design and business change	http://data.europa.eu/esco/skill/6c870993-9341-438b-91c0-c7fe4f96d8f5	apply strategic thinking	close	
+pcf:strategic-design-and-business-change	Strategic design and business change	http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2	strategic planning	close	knowledge
+pcf:strategic-design-and-business-change	Strategic design and business change	http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca	apply change management	narrow	
+pcf:strategic-ownership	Strategic ownership	http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2	strategic planning	close	knowledge
+pcf:strategic-ownership	Strategic ownership	http://data.europa.eu/esco/skill/d56e2c2f-3e01-4b76-a7bb-ecb6d430172f	think holistically	narrow	
+pcf:strategic-technology-planning	Strategic technology planning	http://data.europa.eu/esco/skill/248894d1-42dc-474f-af6e-2da52ac0c679	define technology strategy	close	
+pcf:strategic-technology-planning	Strategic technology planning	http://data.europa.eu/esco/skill/42fcf80d-7b45-40f3-bd2f-5411c4c0dfa0	identify technological needs	narrow	
+pcf:strategic-thinking	Strategic thinking	http://data.europa.eu/esco/skill/6c870993-9341-438b-91c0-c7fe4f96d8f5	apply strategic thinking	exact	
+pcf:strategic-thinking	Strategic thinking	http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2	strategic planning	close	knowledge
+pcf:strategy-design	Strategy design	http://data.europa.eu/esco/skill/ba2c6181-b036-40b4-8f6d-51499463ccbb	develop company strategies	close	
+pcf:strategy-design	Strategy design	http://data.europa.eu/esco/skill/949ced5f-7536-4614-ac60-563ffc91a2f2	strategic planning	close	knowledge
+pcf:strategy-design	Strategy design	http://data.europa.eu/esco/skill/f7b5d916-52f0-4865-b6a6-e1a3b711cb5e	implement strategic planning	narrow	
+pcf:systems-design	Systems design	http://data.europa.eu/esco/skill/fae27053-8924-4bfd-b565-c9fe502044c9	system design	close	knowledge
+pcf:systems-design	Systems design	http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e	design information system	close	
+pcf:systems-design	Systems design	http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2	define technical requirements	narrow	
+pcf:systems-design-frontend-developer	Systems design (frontend developer)	http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba	create software design	close	
+pcf:systems-design-frontend-developer	Systems design (frontend developer)	http://data.europa.eu/esco/skill/fd33c66c-70c4-40e6-b87c-5495bd3bf26e	design user interface	narrow	
+pcf:systems-design-frontend-developer	Systems design (frontend developer)	http://data.europa.eu/esco/skill/1019423b-3368-4f83-b24f-19e5fa23e816	software UI design patterns	narrow	knowledge
+pcf:systems-integration	Systems integration	http://data.europa.eu/esco/skill/6fa1c2c0-a012-4ca0-9642-e01569ba322c	ICT system integration	exact	knowledge
+pcf:systems-integration	Systems integration	http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72	integrate system components	close	
+pcf:systems-integration	Systems integration	http://data.europa.eu/esco/skill/f6868852-9bf6-4899-a5d6-5f9532fb877d	design component interfaces	narrow	
+pcf:systems-integration-frontend-developer	Systems integration (frontend developer)	http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72	integrate system components	close	
+pcf:systems-integration-frontend-developer	Systems integration (frontend developer)	http://data.europa.eu/esco/skill/04fe962b-4017-4eb7-9139-7d69b6922bc9	use an application-specific interface	narrow	
+pcf:systems-integration-frontend-developer	Systems integration (frontend developer)	http://data.europa.eu/esco/skill/f84a433f-34f1-4083-b0a3-24802623509c	web services	narrow	knowledge
+pcf:team-dynamics-and-collaboration	Team dynamics and collaboration	http://data.europa.eu/esco/skill/eab3bafa-eebb-47bf-85ce-e336c5019108	team building	close	knowledge
+pcf:team-dynamics-and-collaboration	Team dynamics and collaboration	http://data.europa.eu/esco/skill/a5b0cd5c-e13a-4ab3-8d93-4d242adcfb01	teamwork principles	close	knowledge
+pcf:team-dynamics-and-collaboration	Team dynamics and collaboration	http://data.europa.eu/esco/skill/0ee94af1-b445-4973-9c3f-459fab250342	apply conflict management	narrow	
+pcf:technical-design-throughout-the-life-cycle	Technical design throughout the life cycle	http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308	define software architecture	close	
+pcf:technical-design-throughout-the-life-cycle	Technical design throughout the life cycle	http://data.europa.eu/esco/skill/09f2f811-a3fb-4de3-a70f-6420a6935575	systems development life-cycle	narrow	knowledge
+pcf:technical-design-throughout-the-life-cycle	Technical design throughout the life cycle	http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2	define technical requirements	narrow	
+pcf:technical-specialism	Technical specialism	http://data.europa.eu/esco/skill/0868eef3-2213-4572-9343-74931345a7d3	administer ICT system	narrow	
+pcf:technical-specialism	Technical specialism	http://data.europa.eu/esco/skill/fbbcb9ab-4b95-4e57-a756-30d08b7da7a5	maintain ICT system	narrow	
+pcf:technical-understanding	Technical understanding	http://data.europa.eu/esco/skill/d0c6d77e-cb25-4770-bf77-2073fc5f7523	ICT infrastructure	broad	knowledge
+pcf:technical-understanding	Technical understanding	http://data.europa.eu/esco/skill/cbe2c304-1e7d-489a-97d9-a7d3e37a9db6	apply ICT systems theory	broad	
+pcf:technical-understanding-accessibility	Technical understanding (accessibility)	http://data.europa.eu/esco/skill/3e23db60-0c3d-498a-a6ac-ffbed0ecb033	ICT accessibility standards	close	knowledge
+pcf:technical-understanding-accessibility	Technical understanding (accessibility)	http://data.europa.eu/esco/skill/1774bd31-8893-44cf-9498-7e3d95508419	screen reader	narrow	knowledge
+pcf:technical-understanding-accessibility	Technical understanding (accessibility)	http://data.europa.eu/esco/skill/8696aff0-18c0-4ba6-a4d0-9a21861b3e5e	World Wide Web Consortium standards	narrow	knowledge
+pcf:technical-understanding-performance-analyst	Technical understanding (performance analyst)	http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2	web analytics	close	knowledge
+pcf:technical-understanding-performance-analyst	Technical understanding (performance analyst)	http://data.europa.eu/esco/skill/5e50a0f1-4089-4df6-a15b-34b39d3aeab4	conduct performance measurement	broad	
+pcf:technical-understanding-user-centred-design	Technical understanding (user-centred design)	http://data.europa.eu/esco/skill/7364cc39-b9c0-449f-9416-57723e2fd9c4	use methodologies for user-centered design	close	
+pcf:technical-understanding-user-centred-design	Technical understanding (user-centred design)	http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9	usability engineering	narrow	knowledge
+pcf:technology-architecture	Technology architecture	http://data.europa.eu/esco/skill/c453cf81-6197-428e-84c6-70c773b63f27	ICT architectural frameworks	close	knowledge
+pcf:technology-architecture	Technology architecture	http://data.europa.eu/esco/skill/2857540c-180b-4208-9127-e94a01871966	align software with system architectures	narrow	
+pcf:technology-architecture	Technology architecture	http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6	design cloud architecture	narrow	
+pcf:technology-evaluation	Technology evaluation	http://data.europa.eu/esco/skill/3cfa46e9-b7da-44ac-b09e-9596dffe0425	optimise choice of ICT solution	close	
+pcf:technology-evaluation	Technology evaluation	http://data.europa.eu/esco/skill/7a17d7ce-01a2-4746-bbcc-22ffe22fa16e	monitor technology trends	narrow	
+pcf:test-analysis	Test analysis	http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998	analyse software specifications	close	
+pcf:test-analysis	Test analysis	http://data.europa.eu/esco/skill/be48353d-25c7-4f86-bea9-7b9e248fbc6e	interpret technical requirements	narrow	
+pcf:test-and-quality-planning	Test and quality planning	http://data.europa.eu/esco/skill/5d74614d-32c8-4ca4-9818-6980e52424b1	plan software testing	close	
+pcf:test-and-quality-planning	Test and quality planning	http://data.europa.eu/esco/skill/c7cc6dc5-d56b-4323-8e5c-47c4022f615f	quality assurance methodologies	narrow	knowledge
+pcf:test-and-quality-planning	Test and quality planning	http://data.europa.eu/esco/skill/22b8039c-c890-4610-9228-5527e3b98f12	set quality assurance objectives	narrow	
+pcf:test-engineering	Test engineering	http://data.europa.eu/esco/skill/6a322874-e32f-4cd8-9683-badce67a7f73	develop automated software tests	close	
+pcf:test-engineering	Test engineering	http://data.europa.eu/esco/skill/7557f0f4-b8bc-4ac0-b91e-222ab1ba744f	tools for ICT test automation	close	knowledge
+pcf:testing	Testing	http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a	execute software tests	close	
+pcf:testing	Testing	http://data.europa.eu/esco/skill/85f46538-ae70-498a-bfbc-b8ddafe96c7d	levels of software testing	narrow	knowledge
+pcf:testing	Testing	http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db	manage system testing	narrow	
+pcf:troubleshooting-and-problem-resolution	Troubleshooting and problem resolution	http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5	perform ICT troubleshooting	exact	
+pcf:troubleshooting-and-problem-resolution	Troubleshooting and problem resolution	http://data.europa.eu/esco/skill/9e06bac6-6b91-48ca-8b7d-c1f48cdecd7c	solve ICT system problems	close	
+pcf:troubleshooting-and-problem-resolution	Troubleshooting and problem resolution	http://data.europa.eu/esco/skill/55514865-3066-4abd-86a9-dbe45a440882	root cause analysis	narrow	
+pcf:turning-business-problems-into-data-design	Turning business problems into data design	http://data.europa.eu/esco/skill/07e51c60-763a-4335-b4ec-70a15f66d328	propose ICT solutions to business problems	close	
+pcf:turning-business-problems-into-data-design	Turning business problems into data design	http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779	create data models	narrow	
+pcf:turning-business-problems-into-data-design	Turning business problems into data design	http://data.europa.eu/esco/skill/b04f377b-ee80-4b38-aca1-19d266a23b17	analyse business requirements	narrow	
+pcf:understanding-analysis-across-the-product-life-cycle	Understanding analysis across the product life cycle	http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f	perform data analysis	broad	
+pcf:understanding-analysis-across-the-product-life-cycle	Understanding analysis across the product life cycle	http://data.europa.eu/esco/skill/21e0cad8-4eef-42be-b18b-0f8e37f0dbd0	product life-cycle	narrow	knowledge
+pcf:understanding-analysis-across-the-product-life-cycle	Understanding analysis across the product life cycle	http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2	web analytics	narrow	knowledge
+pcf:understanding-product-delivery	Understanding product delivery	http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68	perform project management	broad	
+pcf:understanding-product-delivery	Understanding product delivery	http://data.europa.eu/esco/skill/0a9acb6b-1139-4be9-b431-3a80a959f2f4	Agile project management	narrow	knowledge
+pcf:understanding-security-implications-of-transformation	Understanding security implications of transformation	http://data.europa.eu/esco/skill/fe1c2b32-7fe9-4668-affa-07ff658a68cf	identify ICT security risks	close	
+pcf:understanding-security-implications-of-transformation	Understanding security implications of transformation	http://data.europa.eu/esco/skill/7f27f1ff-2e17-4b69-990e-c23334478313	assessment of risks and threats	narrow	knowledge
+pcf:understanding-security-implications-of-transformation	Understanding security implications of transformation	http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42	coordinate security	narrow	
+pcf:user-centred-analysis	User-centred analysis	http://data.europa.eu/esco/skill/465e7c78-cd26-4503-a5ca-40009e807705	assess users' interaction with ICT applications	close	
+pcf:user-centred-analysis	User-centred analysis	http://data.europa.eu/esco/skill/1605025e-a179-421f-8f35-5b07d182a6b2	web analytics	narrow	knowledge
+pcf:user-centred-content-design	User-centred content design	http://data.europa.eu/esco/skill/0dcbf7c5-bedf-4485-b16b-23df54443864	translate requirement concepts into content	close	
+pcf:user-centred-content-design	User-centred content design	http://data.europa.eu/esco/skill/be40c4c3-a855-4d67-9ca5-6f4428c34b0d	provide written content	narrow	
+pcf:user-centred-content-design	User-centred content design	http://data.europa.eu/esco/skill/29154735-107a-4daa-a050-537f7707f34e	conduct content quality assurance	narrow	
+pcf:user-centred-practice-and-advocacy	User-centred practice and advocacy	http://data.europa.eu/esco/skill/7364cc39-b9c0-449f-9416-57723e2fd9c4	use methodologies for user-centered design	close	
+pcf:user-centred-practice-and-advocacy	User-centred practice and advocacy	http://data.europa.eu/esco/skill/ddfe79e2-c2e3-4ba7-9bdf-3820b4f75b54	identify ICT user needs	close	
+pcf:user-experience-insight-analysis	User experience insight analysis	http://data.europa.eu/esco/skill/465e7c78-cd26-4503-a5ca-40009e807705	assess users' interaction with ICT applications	close	
+pcf:user-experience-insight-analysis	User experience insight analysis	http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6	measure software usability	narrow	
+pcf:user-experience-insight-analysis	User experience insight analysis	http://data.europa.eu/esco/skill/89ba58e8-a67e-4d2b-ad42-6acab25c241b	measure customer feedback	narrow	
+pcf:user-focus	User focus	http://data.europa.eu/esco/skill/ddfe79e2-c2e3-4ba7-9bdf-3820b4f75b54	identify ICT user needs	close	
+pcf:user-focus	User focus	http://data.europa.eu/esco/skill/68698869-c13c-4563-adc7-118b7644f45d	identify customer's needs	broad	
+pcf:user-focus-frontend-developer	User focus (frontend developer)	http://data.europa.eu/esco/skill/ddfe79e2-c2e3-4ba7-9bdf-3820b4f75b54	identify ICT user needs	close	
+pcf:user-focus-frontend-developer	User focus (frontend developer)	http://data.europa.eu/esco/skill/88b9ac3d-1c1d-44d1-9584-c4f5dd2503b3	improve user-friendliness	narrow	
+pcf:user-research-methods	User research methods	http://data.europa.eu/esco/skill/a4c2aa71-086f-4a46-b481-2619673c9dfe	execute ICT user research activities	exact	
+pcf:user-research-methods	User research methods	http://data.europa.eu/esco/skill/896563fc-6255-4419-89c2-ffed30159ad6	conduct research interview	narrow	
+pcf:user-research-methods	User research methods	http://data.europa.eu/esco/skill/5e14de3d-d055-427e-9f5b-eb068f56b019	research website users	narrow	
+pcf:web-performance-optimisation	Web performance optimisation	http://data.europa.eu/esco/skill/ed39edd3-44d0-4a16-9796-bfb99f92baf3	ICT performance analysis methods	narrow	knowledge
+pcf:web-performance-optimisation	Web performance optimisation	http://data.europa.eu/esco/skill/9190d87f-9792-42e0-bb7f-64294a656bcd	monitor system performance	narrow	
+pcf:working-within-constraints-performance-analyst	Working within constraints (performance analyst)	http://data.europa.eu/esco/skill/097c6a36-f031-4d3e-b5c1-62d6ffcb430b	respect data protection principles	narrow	one constraint type
+pcf:working-within-constraints-performance-analyst	Working within constraints (performance analyst)	http://data.europa.eu/esco/skill/aa238394-8126-4ada-be2f-9dfe065cf314	adhere to organisational guidelines	narrow	

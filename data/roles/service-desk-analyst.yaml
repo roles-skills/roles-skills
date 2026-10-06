@@ -1,0 +1,128 @@
+id: service-desk-analyst
+summary: >
+  Service desk analysts are the first point of contact for staff who need help
+  with the organisation's digital services, from login and smartcard problems
+  to faults in clinical systems and devices. They log, triage, resolve, or
+  escalate incidents and requests, keep users informed, and spot patterns that
+  point to wider problems. In many health care organisations the service desk
+  runs around the clock, because clinical services do.
+health_context:
+  - Callers are often clinicians and care staff in the middle of patient care, so the desk prioritises by the effect on patients, not only by order of arrival.
+  - Many clinical services run 24 hours a day, every day, so the service desk often works shifts and out-of-hours rotas.
+  - Access to clinical systems uses role-based access and strong authentication, so the desk handles account, smartcard, and multi-factor authentication problems while checking identity carefully.
+  - Callers may share confidential patient information while describing a fault, so analysts follow information governance rules for what they record in tickets.
+  - The desk is often the first to see signs of a major incident or a cyber attack, such as many calls about the same system or a wave of suspicious emails, and must escalate them quickly.
+levels:
+  - pcf_level: Service desk analyst
+    title: Service desk analyst
+    band: "3"
+    summary: A service desk analyst answers calls and tickets from staff, resolves common issues at first contact using scripts and knowledge articles, and passes other issues to the right team.
+    responsibilities:
+      - Answer calls, chats, and self-service tickets from staff, and log each one accurately in the service management tool.
+      - Resolve common issues at first contact using scripts and knowledge articles, such as password resets, account unlocks, and printer faults.
+      - Check the caller's identity before changing accounts or access, following the organisation's procedures.
+      - Ask how the issue affects patient care, set the priority, and pass the incident to the right resolver team.
+      - Keep users updated on their tickets and confirm that the fix works before closing them.
+      - Record only the information needed in tickets, without unnecessary patient details.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: identity-and-access-management, level: awareness}
+      - {skill: security-operations, level: awareness}
+    qualifications:
+      - A level 3 qualification in IT, an IT support apprenticeship, or equivalent experience.
+      - Good customer service and keyboard skills, gained through work or study.
+    job_evaluation: {communication: 3, knowledge: 3, analytical: 2, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 1, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests Band 4 for this level. This reference starts scripted first-line service desk work at Band 3, and places analysts who resolve more complex faults at Band 4. Mental effort reflects frequent concentration on unpredictable calls; emotional effort reflects frequent calls from staff under pressure in clinical areas.
+
+  - pcf_level: Service desk analyst
+    title: Technical service desk analyst
+    band: "4"
+    summary: A technical service desk analyst resolves more complex faults at first contact, including remote fixes to devices and access to clinical systems, and handles urgent calls from clinical areas.
+    responsibilities:
+      - Resolve more complex incidents and requests remotely, including device, software, and clinical system access faults.
+      - Handle urgent calls from clinical areas, such as emergency departments, wards, and theatres, and start the major incident process when needed.
+      - Process access requests for clinical systems, checking them against role-based access rules.
+      - Write and improve knowledge articles so that more issues can be resolved at first contact.
+      - Spot repeated calls about the same fault and raise them with incident and problem management.
+      - Report suspected phishing emails and other security events to the security team.
+      - Show new analysts how to use the desk's tools and procedures.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: security-operations, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - Experience of IT support on a service desk or in a similar setting.
+      - An IT service management foundation qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Uses the same UK GDaD PCF level as the Band 3 analyst, for analysts who resolve more complex issues and handle urgent clinical calls. Communication is higher than the band profile because analysts often have to explain technical issues to busy clinical staff.
+
+  - pcf_level: Senior service desk analyst
+    title: Senior service desk analyst
+    band: "5"
+    responsibilities:
+      - Lead a shift on the service desk, balancing call queues against the clinical urgency of open incidents.
+      - Take over difficult or escalated calls, including calls from senior clinicians during urgent care.
+      - Keep scripts and knowledge articles accurate as clinical systems and devices change.
+      - Act as the out-of-hours escalation point for the desk, and start the major incident process when many users are affected.
+      - Check the quality of tickets, including identity checks and what is recorded about patients.
+      - Plan rota cover so the desk is staffed at all times.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: security-operations, level: working}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - Substantial service desk experience, including handling escalations.
+      - An IT service management qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 2, information-resources: 3, research: 1, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Planning reflects shift and rota planning for a 24-hour desk. Emotional effort reflects frequent difficult calls from staff dealing with urgent patient care.
+
+  - pcf_level: Service desk manager
+    title: Service desk manager
+    band: "6"
+    responsibilities:
+      - Run the service desk day to day, making sure it is staffed and responsive 24 hours a day, every day.
+      - Set priorities and response targets that reflect clinical risk, agreed with clinical and operational leads.
+      - Prepare the desk for new and changed clinical systems, including training, scripts, and extra cover at go-live.
+      - Analyse ticket trends to find emerging issues, and work with problem management to remove their causes.
+      - Make sure the desk follows identity checking, information governance, and security procedures, and acts on audit findings.
+      - Line manage senior analysts and analysts, including recruitment, performance, and wellbeing for staff working shifts.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: identity-and-access-management, level: practitioner}
+      - {skill: security-operations, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Experience of leading a service desk team, including shift or out-of-hours cover.
+      - An intermediate IT service management qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 3, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Knowledge is one level below the band profile, as is usual for service desk roles; responsibility for people is higher because the manager runs a shift-based team.
+
+  - pcf_level: Head of service desk
+    title: Head of service desk
+    band: "7"
+    responsibilities:
+      - Set the direction for the service desk, including contact channels, self-service, and support for staff working across sites and in the community.
+      - Agree service levels with clinical and corporate services, and report performance to senior leaders.
+      - Make sure the desk can keep working during major incidents, cyber attacks, and system downtime, with clear business continuity procedures.
+      - Advise project teams on how new clinical and corporate systems will be supported before they go live.
+      - Manage the service desk budget, tools, and any outsourced or out-of-hours support contracts.
+      - Lead and develop service desk managers, and build a supportive culture for staff working shifts.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: identity-and-access-management, level: practitioner}
+      - {skill: security-operations, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of managing IT support services, including 24-hour services.
+      - An advanced IT service management qualification, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 4, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}

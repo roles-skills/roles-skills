@@ -1,0 +1,147 @@
+id: clinical-coder
+summary: >
+  Clinical coders read patients' health records and translate diagnoses,
+  procedures, and other clinical information into standard classification
+  codes, such as ICD for diagnoses and a procedure classification for
+  interventions. Coded data is used for payment, service planning, clinical
+  audit, research, and public health statistics, so its accuracy matters well
+  beyond the coding team. Coders work closely with clinicians to clarify
+  records, and increasingly use clinical terminologies such as SNOMED CT and
+  computer-assisted coding tools.
+health_context:
+  - Coders read complete case notes, which often describe serious illness, injury, abuse, self-harm, and death, so the work is emotionally demanding and teams need good support and supervision.
+  - Coded data drives payment for activity, mortality and outcome indicators, and service planning, so errors can affect funding, published performance, and decisions about care.
+  - Coding depends on the quality of clinical documentation, so coders query unclear records with clinicians and help improve how care is recorded.
+  - Coders handle full identifiable health records every day, so confidentiality and correct access are essential.
+  - Automated and computer-assisted coding, and mapping from SNOMED CT to classifications, are changing the work, and coders check that automated codes are correct.
+levels:
+  - title: Trainee clinical coder
+    band: "3"
+    summary: >
+      A trainee clinical coder learns to code straightforward hospital episodes
+      under close supervision, working towards a clinical coding qualification.
+    responsibilities:
+      - Code straightforward episodes, such as day cases, from health records using classification rules, with all work checked by a senior coder.
+      - Learn medical terms, anatomy, and the national and international coding standards through structured training.
+      - Find, track, and return health records correctly, and keep them secure.
+      - Record coded data in the patient administration or coding system accurately and on time.
+      - Raise unclear or missing information with a senior coder.
+    skills:
+      - {skill: clinical-coding, level: awareness}
+      - {skill: clinical-terminology, level: awareness}
+      - {skill: health-records-management, level: awareness}
+      - {skill: data-quality, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: health-care-context, level: awareness}
+    qualifications:
+      - Good literacy and keyboard skills, and enrolment on a clinical coding training programme, or equivalent.
+    job_evaluation: {communication: 3, knowledge: 3, analytical: 2, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 1, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Mental effort is level 4 because coders concentrate for long periods reading and interpreting detailed case notes. Emotional effort is level 2 because coders frequently read records describing distressing events.
+
+  - title: Clinical coder
+    band: "4"
+    summary: >
+      A clinical coder codes a full range of routine episodes independently and
+      accurately, meeting agreed deadlines and quality standards.
+    responsibilities:
+      - Code inpatient, day case, and outpatient episodes accurately across common specialties, using classification rules and local policies.
+      - Query unclear, missing, or conflicting clinical information with clinicians and record the outcome.
+      - Check codes suggested by computer-assisted coding or terminology maps, and correct them where needed.
+      - Meet deadlines for coding completeness, so data is ready for payment and reporting.
+      - Take part in coding audits and act on their findings.
+    skills:
+      - {skill: clinical-coding, level: working}
+      - {skill: clinical-terminology, level: working}
+      - {skill: health-records-management, level: working}
+      - {skill: data-quality, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: awareness}
+      - {skill: pcf:communicating-information, level: awareness}
+    qualifications:
+      - A recognised clinical coding qualification, or working towards one with equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 1, people: 1, information-resources: 3, research: 1, freedom-to-act: 3, physical-effort: 2, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Mental and emotional effort reflect long periods of concentration on case notes that often describe serious illness, injury, and death.
+
+  - title: Senior clinical coder
+    band: "5"
+    summary: >
+      A senior clinical coder codes complex episodes across specialties, acts as
+      a source of expert advice for other coders, and checks and trains less
+      experienced coders.
+    responsibilities:
+      - Code complex episodes, such as critical care, cancer, multiple procedures, and deaths, across specialties.
+      - Resolve difficult coding questions with consultants and other senior clinicians, explaining coding rules clearly.
+      - Check the work of trainee coders and give them feedback and on-the-job training.
+      - Validate coded data before it is submitted and fix errors with the right team.
+      - Work with clinical teams to improve the quality of clinical documentation.
+    skills:
+      - {skill: clinical-coding, level: practitioner}
+      - {skill: clinical-terminology, level: working}
+      - {skill: health-records-management, level: working}
+      - {skill: data-quality, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: working}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: people-management, level: awareness}
+    qualifications:
+      - A recognised clinical coding qualification, or equivalent experience.
+      - Experience of coding complex episodes across a range of specialties.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 4, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 3, research: 1, freedom-to-act: 3, physical-effort: 2, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Emotional effort stays at level 2, as complex episodes such as deaths and cancer care are a regular part of the work.
+
+  - title: Clinical coding auditor and trainer
+    band: "6"
+    summary: >
+      A clinical coding auditor and trainer audits the accuracy of coded data,
+      designs and delivers coding training, and advises the organisation on
+      coding standards. In some organisations this level also leads a coding
+      team day to day.
+    responsibilities:
+      - Plan and carry out coding audits across specialties, measuring accuracy against national and international standards.
+      - Report audit findings to coding, clinical, finance, and information teams, and agree improvement actions.
+      - Design and deliver coding training, from foundation courses for new coders to refresher training on standard changes.
+      - Advise clinicians and managers on how coding affects payment, mortality indicators, and performance data.
+      - Lead the introduction of changes in classification versions, coding standards, and coding tools.
+      - Lead a coding team day to day where the organisation combines this with audit and training.
+    skills:
+      - {skill: clinical-coding, level: practitioner}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: health-records-management, level: working}
+      - {skill: data-quality, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: health-care-context, level: working}
+      - {skill: pcf:communicating-information, level: practitioner}
+      - {skill: pcf:quality-assurance-of-data-and-analysis, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - A recognised clinical coding qualification and a recognised clinical coding audit or training qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 3, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 2, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: People is level 3 because designing and teaching specialist coding training is a main duty. Research is level 2 because coding audit is a regular part of the job.
+
+  - title: Clinical coding manager
+    band: "7"
+    summary: >
+      A clinical coding manager leads the organisation's clinical coding
+      service, including its coding teams, quality programme, and links with
+      clinical, finance, and information teams.
+    responsibilities:
+      - Lead the clinical coding service and its team leaders, making sure coding is complete, accurate, and on time.
+      - Set coding policies and the coding quality programme, in line with national and international standards.
+      - Hold the coding budget and plan the workforce, including recruitment, training, and accreditation.
+      - Advise senior leaders on how coding affects funding, mortality and outcome indicators, and published data.
+      - Lead the adoption of new coding technology, such as computer-assisted coding and terminology mapping, with clinical safety and information governance colleagues.
+      - Support the wellbeing of coders who regularly read distressing records.
+    skills:
+      - {skill: clinical-coding, level: expert}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: health-records-management, level: practitioner}
+      - {skill: data-quality, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: health-care-context, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:planning, level: working}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - A recognised clinical coding qualification and extensive experience of coding, audit, and leading coders, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 4, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 2, mental-effort: 4, emotional-effort: 2, working-conditions: 2}

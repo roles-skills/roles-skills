@@ -1,0 +1,113 @@
+id: integration-engineer
+summary: >
+  Integration engineers connect the organisation's clinical and business
+  systems so that health and care information flows safely to where it is
+  needed. They design, build, test, and support interfaces, APIs, and message
+  flows using standards such as HL7 FHIR and HL7 version 2, map data and
+  clinical codes between systems, and keep integrations running in live
+  service.
+health_context:
+  - A lost, delayed, duplicated, or wrongly matched message, such as a test result or referral, can lead directly to harm, so integration work follows the clinical risk management process.
+  - Integrations carry large volumes of confidential health information between organisations, so every flow needs a lawful basis, secure transport, and audit.
+  - Health systems use many standards and versions, from HL7 version 2 messages to HL7 FHIR APIs and IHE profiles, often with local variations.
+  - Clinical meaning must survive the journey, so engineers map clinical terminologies such as SNOMED CT correctly and match patients reliably.
+  - Many integrations support care around the clock, so they need monitoring, alerting, and clear routes for resolving failed messages.
+levels:
+  - title: Junior integration engineer
+    band: "5"
+    summary: A junior integration engineer builds, tests, and supports integrations between health and care systems, working from specifications and with guidance from more experienced engineers.
+    responsibilities:
+      - Build and change message mappings, transformations, and API calls from agreed specifications.
+      - Test integrations against specifications and sample messages, including error and edge cases.
+      - Monitor message flows, investigate failed or rejected messages, and resolve or escalate them.
+      - Handle health data securely, following information governance rules for live and test data.
+      - Record changes and test results so they can be used as clinical safety evidence.
+    skills:
+      - {skill: pcf:systems-integration, level: working}
+      - {skill: pcf:programming-and-build-software-engineering, level: working}
+      - {skill: pcf:testing, level: working}
+      - {skill: pcf:service-support, level: working}
+      - {skill: pcf:information-security, level: awareness}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: clinical-terminology, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: health-care-context, level: awareness}
+    qualifications:
+      - A degree in computing or a related subject, a completed apprenticeship, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Integration engineer
+    band: "6"
+    summary: An integration engineer designs, builds, and supports integrations between health and care systems independently, and helps define how systems should exchange data.
+    responsibilities:
+      - Design and build integrations, APIs, and message flows using HL7 FHIR, HL7 version 2, and messaging patterns.
+      - Analyse source and target systems and write interface specifications and data mappings, including clinical codes.
+      - Build patient matching, validation, and error handling so that information reaches the right record.
+      - Take part in hazard workshops and build safety controls into integrations, such as alerts for failed or delayed messages.
+      - Work with suppliers and partner organisations to test and go live with new connections.
+      - Investigate and fix problems in live integrations, and mentor junior integration engineers.
+    skills:
+      - {skill: pcf:systems-integration, level: practitioner}
+      - {skill: pcf:programming-and-build-software-engineering, level: practitioner}
+      - {skill: pcf:systems-design, level: working}
+      - {skill: pcf:service-support, level: practitioner}
+      - {skill: pcf:information-security, level: working}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: clinical-terminology, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A degree in computing or a related subject, or equivalent experience.
+      - Experience of building and supporting integrations between production systems.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - title: Senior integration engineer
+    band: "7"
+    summary: A senior integration engineer leads the design and delivery of complex integrations across many systems and organisations, and sets integration standards for their area.
+    responsibilities:
+      - Lead the technical design of complex integrations, such as shared care records, results, and referrals across organisations.
+      - Write and maintain FHIR profiles, implementation guides, and interface standards for the organisation.
+      - Design integrations to be secure, resilient, and observable, with clear routes for resolving failures.
+      - Work with clinical safety officers to identify integration hazards and make sure controls are designed in and tested.
+      - Make sure each data flow has an agreed lawful basis and data sharing arrangements, working with information governance colleagues.
+      - Coach and develop integration engineers in the team.
+    skills:
+      - {skill: pcf:systems-integration, level: expert}
+      - {skill: pcf:programming-and-build-software-engineering, level: practitioner}
+      - {skill: pcf:systems-design, level: practitioner}
+      - {skill: pcf:information-security, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: identity-and-access-management, level: working}
+    qualifications:
+      - Substantial experience of designing and supporting health or other complex integrations, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 4, knowledge: 7, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - title: Lead integration engineer
+    band: 8a
+    summary: A lead integration engineer leads the organisation's integration engineering, sets its technical direction and standards, and assures critical integrations across many systems.
+    responsibilities:
+      - Lead integration engineering across the organisation, setting direction, patterns, and standards.
+      - Assure the design of critical integrations, such as those that carry results, medicines, or alerts.
+      - Shape the integration platform roadmap with architects, product managers, and suppliers.
+      - Represent the organisation in cross-organisation interoperability and standards work.
+      - Line manage or lead integration engineers and grow the integration community of practice.
+    skills:
+      - {skill: pcf:systems-integration, level: expert}
+      - {skill: pcf:systems-design, level: expert}
+      - {skill: pcf:technical-design-throughout-the-life-cycle, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: health-data-interoperability, level: expert}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading integration engineering for complex health or care systems.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

@@ -1,0 +1,135 @@
+id: project-manager
+summary: >
+  Project managers plan and deliver projects that change how the organisation
+  supports health and care, such as deploying a clinical system to new sites,
+  moving services to new infrastructure, or introducing new digital tools for
+  care staff. They control scope, time, cost, quality, and risk, using
+  recognised project methods, and make sure projects deliver the benefits they
+  promised for patients and staff.
+health_context:
+  - Projects that change clinical systems or workflows need clinical safety assurance before go-live, so project managers plan hazard workshops, safety case sign-off, and clinical safety officer input into the schedule.
+  - Go-lives must not disrupt patient care, so project managers plan cutovers, business continuity arrangements, and floor-walking support with clinical and operational teams.
+  - Projects often need data protection impact assessments and information sharing agreements, so project managers plan these early with information governance colleagues.
+  - Benefits in care, such as staff time released or fewer errors, take time to appear, so project managers set up baselines and hand over benefits tracking to the service.
+levels:
+  - title: Assistant project manager
+    band: "5"
+    summary: An assistant project manager supports the delivery of projects, or manages small, well-defined projects with guidance from a more senior project manager.
+    responsibilities:
+      - Maintain project plans, risk and issue logs, action logs, and dependency records.
+      - Organise and minute project meetings and boards, and follow up actions.
+      - Manage small, well-defined pieces of work, such as a site rollout or a training schedule, with guidance.
+      - Track readiness tasks for go-live, such as clinical safety sign-off, data protection checks, and staff training.
+      - Prepare highlight reports and track project spending against budget.
+    skills:
+      - {skill: project-management, level: working}
+      - {skill: pcf:planning, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: awareness}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: pcf:managing-decisions-and-risks, level: awareness}
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: awareness}
+    qualifications:
+      - A foundation project management qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 3, physical-skills: 2, patient-care: 1, policy: 2, financial-resources: 2, people: 2, information-resources: 3, research: 1, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Project manager
+    band: "6"
+    summary: A project manager runs projects of moderate size and complexity from start to close, such as rolling out a digital service to several care settings.
+    responsibilities:
+      - Plan and manage projects from start-up to closure, controlling scope, time, cost, quality, and risk.
+      - Plan go-lives with clinical and operational teams, including cutover, business continuity, and support arrangements.
+      - Make sure clinical safety, information governance, and accessibility assurance is planned and completed before go-live.
+      - Manage the project budget and supplier deliverables.
+      - Report to the project board and escalate risks and issues outside tolerance.
+      - Set baselines for benefits and hand over benefits tracking to the service.
+    skills:
+      - {skill: project-management, level: practitioner}
+      - {skill: pcf:planning, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: pcf:managing-decisions-and-risks, level: working}
+      - {skill: pcf:financial-management, level: working}
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+    qualifications:
+      - A recognised project management qualification, such as a practitioner-level certificate, or equivalent experience.
+      - Experience of managing projects that change services or systems.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 4, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 3, people: 2, information-resources: 3, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Senior project manager
+    band: "7"
+    summary: A senior project manager leads large, complex, or high-risk projects, such as replacing a clinical system across an organisation, and may manage other project staff.
+    responsibilities:
+      - Lead large or high-risk projects, such as clinical system replacements or multi-site deployments.
+      - Manage complex dependencies with suppliers, other projects, and partner health and care organisations.
+      - Lead go-live decisions with the clinical safety officer, operational leads, and the senior responsible owner.
+      - Manage the project budget and commercial arrangements, including change control with suppliers.
+      - Make sure benefits for patients and staff are defined, owned, and measured.
+      - Manage and develop project managers and project support staff.
+    skills:
+      - {skill: project-management, level: expert}
+      - {skill: pcf:planning, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:managing-decisions-and-risks, level: practitioner}
+      - {skill: pcf:financial-management, level: practitioner}
+      - {skill: pcf:commercial-management, level: working}
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - A recognised project management qualification, or equivalent experience.
+      - Substantial experience of managing complex projects in a regulated or safety-critical setting.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Lead project manager
+    band: 8a
+    summary: A lead project manager leads the most complex projects or a group of related projects, and sets project management practice for their area.
+    responsibilities:
+      - Lead the most complex projects, or a group of related projects, across several services or organisations.
+      - Set project management standards, templates, and assurance for the area, and coach project managers.
+      - Advise senior responsible owners and boards on delivery options, risks, and recovery of struggling projects.
+      - Manage significant budgets and contracts, and make sure projects give value for money.
+      - Make sure clinical safety and information governance requirements are met across the group of projects.
+      - Line manage project managers.
+    skills:
+      - {skill: project-management, level: expert}
+      - {skill: pcf:planning, level: expert}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:managing-decisions-and-risks, level: practitioner}
+      - {skill: pcf:financial-management, level: practitioner}
+      - {skill: pcf:commercial-management, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading complex projects, with a recognised project management qualification or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Head of project management
+    band: 8b
+    summary: A head of project management leads the organisation's project management practice and the project managers who deliver its digital change.
+    responsibilities:
+      - Lead the project management practice, including its methods, standards, tools, and assurance.
+      - Allocate project managers to the organisation's projects and manage the practice's capacity.
+      - Build project management capability, including recruitment, training, and career paths.
+      - Advise executive leaders on project health, delivery risks, and lessons learned.
+      - Manage the practice's budget.
+    skills:
+      - {skill: project-management, level: expert}
+      - {skill: pcf:planning, level: expert}
+      - {skill: pcf:stakeholder-relationship-management, level: expert}
+      - {skill: pcf:managing-decisions-and-risks, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: pcf:financial-management, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: health-care-context, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading projects and project managers, with a recognised project management qualification or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 5, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

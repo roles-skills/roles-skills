@@ -1,0 +1,368 @@
+# Human resources skills original to this reference: the people skills used
+# by HR, recruitment, learning and development, and people leadership roles.
+#
+# Each skill has four proficiency levels, matching the UK GDaD PCF scale:
+# awareness (1), working (2), practitioner (3), expert (4).
+# esco lists the closest ESCO v1.2.1 skills, with the strength of the match:
+# exact, close, broad (ESCO skill is wider), or narrow (ESCO skill is narrower).
+
+skills:
+  - id: hr-hr-administration
+    name: HR administration
+    description: Running the administrative processes of the employment life cycle accurately and confidentially, from contracts and starters to changes, absence records, and leavers.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/c6e308b4-8799-4461-a9bd-560bdecb0dbb, label: human resources department processes, match: close}
+      - {uri: http://data.europa.eu/esco/skill/8ebb2c0a-0baa-43bf-95cf-094047c57427, label: maintain professional administration, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/40005305-4541-4da7-9f76-abab74f0bc51, label: monitor staff absences, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - follow the organisation's procedures for starters, changes, and leavers
+        - keep personal records confidential and up to date
+      working: |
+        You can:
+        - prepare contracts, variation letters, and employment checks accurately
+        - process changes in the HR and payroll system against deadlines
+        - answer routine questions from managers and staff about HR processes
+      practitioner: |
+        You can:
+        - run an HR administration service, checking quality and meeting service standards
+        - improve processes and templates, and automate routine steps where you can
+        - resolve complex or unusual cases, such as overpayments or contract errors
+      expert: |
+        You can:
+        - design the HR operating model and service standards for the organisation
+        - lead the move to digital, self-service HR processes
+        - set controls that keep HR and payroll data accurate and lawful
+
+  - id: hr-employment-policy
+    name: Employment law and people policy
+    description: Applying employment law and writing, interpreting, and reviewing the organisation's people policies so that staff are treated lawfully, fairly, and consistently.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/97b713f0-b9e8-4903-8dee-7e0b4019a1c0, label: employment law, match: close}
+      - {uri: http://data.europa.eu/esco/skill/b3f22ab4-b553-439d-80a2-5b8ae6d11e0d, label: labour law, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/3254275d-a1b5-4640-9481-02f38780ac35, label: develop organisational policies, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain the main people policies and where to find them
+        - recognise when a question needs advice from an HR adviser
+      working: |
+        You can:
+        - apply people policies to routine cases and explain them to managers
+        - identify the employment law principles behind a policy
+        - keep policy records and track policy review dates
+      practitioner: |
+        You can:
+        - interpret employment law and policy for complex cases and advise on risk
+        - draft and review people policies, with equality impact assessments
+        - consult on policy changes with staff representatives
+      expert: |
+        You can:
+        - set the organisation's people policy framework and approach to legal risk
+        - anticipate changes in employment law and plan the organisation's response
+        - advise the board on employment risk and liability
+
+  - id: hr-employee-relations
+    name: Employee relations casework
+    description: Managing formal and informal employee relations cases, such as conduct, capability, grievance, attendance, and dignity at work, fairly and in line with policy and employment law.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/cc0b95b8-5fae-4ee2-851e-9b1e9fa178be, label: manage employee complaints, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/0ee94af1-b445-4973-9c3f-459fab250342, label: apply conflict management, match: close}
+      - {uri: http://data.europa.eu/esco/skill/3e4776e7-dd79-4a18-b334-6e8f9e989a49, label: liaise with union officials, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain the main stages of conduct, capability, grievance, and attendance procedures
+        - take accurate notes at formal meetings and keep case records confidential
+      working: |
+        You can:
+        - advise managers on straightforward cases and the next step in a procedure
+        - support investigations, prepare case papers, and arrange hearings
+        - work constructively with staff representatives on individual cases
+      practitioner: |
+        You can:
+        - manage a caseload of complex cases, advising hearing panels on fair outcomes
+        - carry out or lead investigations, including those linked to incidents or safeguarding
+        - use early resolution and mediation to settle disputes before they escalate
+        - spot trends in cases and act on their causes
+      expert: |
+        You can:
+        - lead the organisation's approach to employee relations and partnership working
+        - handle the most sensitive or high-risk cases, including employment claims
+        - negotiate collective agreements and resolve collective disputes
+
+  - id: hr-recruitment-and-selection
+    name: Recruitment and selection
+    description: Attracting, assessing, and appointing people fairly and efficiently, from job design and advertising through shortlisting, assessment, offer, and pre-employment checks.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/496932f1-0b6b-4f73-9432-d95c7ddcd43b, label: recruit employees, match: close}
+      - {uri: http://data.europa.eu/esco/skill/65715f7a-c791-416b-b88a-2933a1c81647, label: recruit personnel, match: close}
+      - {uri: http://data.europa.eu/esco/skill/66d47084-9437-48b2-819b-c4c8214ed650, label: interview people, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain the stages of the organisation's recruitment process
+        - follow fair and safe recruitment rules, including pre-employment checks
+      working: |
+        You can:
+        - run recruitment campaigns through the applicant tracking system
+        - support managers with adverts, shortlisting, and interview arrangements
+        - complete pre-employment checks and make conditional offers
+      practitioner: |
+        You can:
+        - advise managers on job design, selection methods, and fair assessment
+        - design assessments for specialist roles, such as technical exercises for digital roles
+        - analyse recruitment data to improve time to hire, quality, and diversity
+        - manage the candidate experience and the employer brand
+      expert: |
+        You can:
+        - set the organisation's recruitment strategy and service standards
+        - lead the choice and use of recruitment technology and agencies
+        - make sure recruitment is inclusive and lawful across the organisation
+
+  - id: hr-talent-attraction
+    name: Talent attraction and sourcing
+    description: Finding and engaging people with scarce skills, such as digital, data, and technology specialists, through employer branding, direct sourcing, networks, and early careers routes.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/f206e732-110c-47ce-a53f-f00c9d97c90d, label: talent management strategies, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/38a5c459-c591-4f76-a358-37de342bb11d, label: job market offers, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/5303169c-75d6-4751-9136-a4b88343388c, label: social media management, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain which skills are hard to recruit and why
+        - share job adverts through the organisation's channels and networks
+      working: |
+        You can:
+        - write adverts that appeal to specialist candidates and use plain language
+        - search job boards, professional networks, and talent pools for candidates
+        - support events, such as careers fairs and open days
+      practitioner: |
+        You can:
+        - build talent pipelines and communities for scarce digital and data roles
+        - shape the employer value proposition with hiring teams
+        - use market data on pay and supply to advise on hard-to-fill roles
+        - develop early careers routes, such as apprenticeships and graduate schemes
+      expert: |
+        You can:
+        - set the organisation's talent attraction strategy and employer brand
+        - work with partners, such as universities and other employers, to grow the talent supply
+        - lead decisions on premium pay, agency use, and alternative sourcing models
+
+  - id: hr-workforce-planning
+    name: Workforce planning
+    description: Forecasting the workforce the organisation needs, comparing it with the workforce it has, and planning how to close the gap through recruitment, development, redesign, and retention.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/b22e46d7-1c5f-4837-943f-7f75531acc26, label: identify necessary human resources, match: close}
+      - {uri: http://data.europa.eu/esco/skill/d58a48d1-5b7f-4028-ae11-b051d13ee1a8, label: analyse staff capacity, match: close}
+      - {uri: http://data.europa.eu/esco/skill/875eeec4-fc70-4e6a-80ef-4d18356976e3, label: forecast workload, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain why workforce planning matters for safe and sustainable services
+        - provide accurate establishment and vacancy information
+      working: |
+        You can:
+        - collect and check workforce plan data from managers
+        - model simple scenarios, such as turnover and vacancy trends
+      practitioner: |
+        You can:
+        - lead workforce planning for a directorate, linking it to service and financial plans
+        - identify skills gaps and recommend ways to close them
+        - plan new roles, career pathways, and skill mix
+      expert: |
+        You can:
+        - set the organisation's workforce strategy and long-term plan
+        - make workforce trade-offs across services with finance and service leaders
+        - shape workforce plans with partners across the health and care system
+
+  - id: hr-workforce-information
+    name: Workforce information and HR systems
+    description: Managing HR and workforce systems and data, and turning workforce data into reports and insight, such as turnover, absence, vacancy, diversity, and pay gap analysis.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40, label: track key performance indicators, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/918f5211-b99f-4b29-9a34-6e475583ef55, label: write work-related reports, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/3ee090a1-9d1c-44ed-bd93-f6b7c9b68a97, label: manage payroll reports, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - enter workforce data accurately in the HR system
+        - explain why workforce data must be accurate and kept confidential
+      working: |
+        You can:
+        - run standard workforce reports and check them for errors
+        - answer routine information requests about the workforce
+      practitioner: |
+        You can:
+        - analyse workforce data to find trends and explain them to managers
+        - design dashboards and reports for workforce indicators
+        - produce statutory and equality reporting, such as pay gap analysis
+      expert: |
+        You can:
+        - set the organisation's workforce information strategy and data standards
+        - lead the choice and development of HR systems
+        - use workforce insight to inform board decisions
+
+  - id: hr-reward-and-job-evaluation
+    name: Reward and job evaluation
+    description: Applying pay and reward rules, and evaluating jobs consistently against a job evaluation scheme to place them in the right band.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/6789defa-dc57-42a8-b2ed-2b8c349aa3e2, label: determine salaries, match: close}
+      - {uri: http://data.europa.eu/esco/skill/a4e50b95-8962-4408-81f9-f5de71461276, label: calculate employee benefits, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain how pay bands, increments, and allowances work
+        - explain that jobs are banded by job evaluation, not by the person in the job
+      working: |
+        You can:
+        - apply pay rules, such as starting salary, protection, and allowances
+        - check job descriptions are complete before they go to evaluation
+        - take part in job evaluation panels as a trained member
+      practitioner: |
+        You can:
+        - lead job evaluation panels and consistency checks
+        - advise on banding for new and changed roles, including digital and data roles
+        - advise on recruitment and retention premiums, using market evidence
+      expert: |
+        You can:
+        - set the organisation's reward strategy within the agreed pay framework
+        - assure the integrity of job evaluation across the organisation
+        - lead equal pay reviews and act on their findings
+
+  - id: hr-learning-design-and-delivery
+    name: Learning design and delivery
+    description: Analysing learning needs, then designing, delivering, and evaluating learning in person, online, and in the flow of work.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/517f678e-001b-4985-acb4-9edc3500d74c, label: develop training programmes, match: close}
+      - {uri: http://data.europa.eu/esco/skill/e54ff029-1ce9-447d-a5b2-eb7283a23e6e, label: train employees, match: close}
+      - {uri: http://data.europa.eu/esco/skill/728ad40d-4a79-4b4d-b77b-a48d094d73fa, label: evaluate training, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/b363bb5f-2c79-40af-94da-33e06f9dee9f, label: apply blended learning, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain the difference between training, learning, and development
+        - support the running of courses and keep training records
+      working: |
+        You can:
+        - deliver well-defined training sessions in person and online
+        - build simple e-learning in the learning management system
+        - collect and summarise learner feedback
+      practitioner: |
+        You can:
+        - analyse learning needs and design blended programmes to meet them
+        - set learning outcomes and evaluate impact, not only satisfaction
+        - make learning accessible and inclusive for all staff
+      expert: |
+        You can:
+        - set the organisation's learning strategy and standards
+        - lead the learning offer, its technology, and its funding
+        - show the return on the organisation's investment in learning
+
+  - id: hr-skills-frameworks-and-career-pathways
+    name: Skills frameworks and career pathways
+    description: Using skills and role frameworks, such as this reference, the UK GDaD PCF, and ESCO, to describe roles, assess skills gaps, and build career pathways.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/f1155d3f-fbca-4298-a31c-f6955653bacf, label: shape organisational teams based on competencies, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/714eebcb-569a-4f1b-b592-28f70b59a9ba, label: develop staff, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain what a skills framework is and how it describes roles and levels
+        - find the role profile and skills for a job in the framework
+      working: |
+        You can:
+        - map job descriptions to framework roles, levels, and skills
+        - support staff and managers with skills self-assessments
+        - keep career pathway information up to date
+      practitioner: |
+        You can:
+        - run skills gap analysis for a team or profession and report the results
+        - design career pathways and development routes using framework levels
+        - use framework skills to write consistent job descriptions and assessments
+      expert: |
+        You can:
+        - set how the organisation uses skills frameworks across professions
+        - use skills data to inform workforce, learning, and reward strategy
+        - contribute to the development of shared frameworks with other organisations
+
+  - id: hr-organisational-development
+    name: Organisational development
+    description: Improving how the organisation works through culture, leadership, engagement, team effectiveness, and wellbeing interventions based on evidence.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/a8f2a095-9d03-43f0-980d-2b9fcc59a994, label: shape corporate culture, match: close}
+      - {uri: http://data.europa.eu/esco/skill/d2dc31f1-720c-4757-bc1b-9e563d264dcf, label: advise on organisational culture, match: close}
+      - {uri: http://data.europa.eu/esco/skill/bdf5ca62-9053-4652-b5e4-4eb95c271945, label: organisational learning, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain how culture, leadership, and engagement affect staff and patient care
+        - help run staff surveys and listening events
+      working: |
+        You can:
+        - facilitate team sessions and workshops using standard tools
+        - analyse staff survey results for a team and suggest actions
+      practitioner: |
+        You can:
+        - diagnose organisational issues and design interventions to address them
+        - lead team development, leadership development, and engagement programmes
+        - evaluate the effect of interventions using evidence
+      expert: |
+        You can:
+        - set the organisational development strategy and culture programme
+        - coach executives and lead large-scale cultural change
+        - link culture and engagement measures to quality of care and performance
+
+  - id: hr-organisational-change
+    name: Organisational change and consultation
+    description: Planning and managing changes to structures, roles, and working patterns, including formal consultation, redeployment, and redundancy, in line with policy and employment law.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca, label: apply change management, match: close}
+      - {uri: http://data.europa.eu/esco/skill/4b3c8605-819d-4b38-83fc-f23663e78dc9, label: consultation, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain the main stages of an organisational change process
+        - support the administration of a change, such as consultation letters and meetings
+      working: |
+        You can:
+        - support managers to prepare consultation documents and staff briefings
+        - track responses and actions during consultation
+        - support staff through redeployment and selection processes
+      practitioner: |
+        You can:
+        - lead organisational change for a directorate, from business case to implementation
+        - consult with staff and their representatives and respond to their feedback
+        - manage the legal and equality risks of a change
+      expert: |
+        You can:
+        - lead organisation-wide restructures and service transfers
+        - design the organisation's approach to change, including partnership working
+        - advise the board on the people impact and risk of major change
+
+  - id: hr-people-strategy
+    name: People strategy and HR leadership
+    description: Setting the organisation's people strategy, leading the HR function, and advising the board on culture, workforce, and employment risk.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/e437eba1-3e22-41f2-8703-741e94785cba, label: human resource management, match: close}
+      - {uri: http://data.europa.eu/esco/skill/279a4b1d-21df-4d78-9f4d-324c73fd7536, label: manage human resources, match: close}
+      - {uri: http://data.europa.eu/esco/skill/1212ac42-2564-4fce-80e1-6ce4ea4d9bf5, label: advise on personnel management, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain the organisation's people strategy and how your work supports it
+      working: |
+        You can:
+        - contribute to people plans for a service, with clear actions and measures
+        - report progress against the people plan
+      practitioner: |
+        You can:
+        - write and lead people plans for a directorate in line with the people strategy
+        - advise senior leaders on people risks and priorities
+        - lead part of the HR function, setting its standards and priorities
+      expert: |
+        You can:
+        - set the organisation's people strategy and lead the HR function
+        - advise the board on culture, workforce, and employment risk
+        - represent the organisation on people matters with partners and regulators

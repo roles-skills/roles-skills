@@ -1,0 +1,89 @@
+id: delivery-manager
+summary: >
+  Delivery managers help multidisciplinary teams deliver digital health
+  services that work for patients, clinicians, and care staff. They create the
+  conditions for teams to work well, remove blockers, manage risks and
+  dependencies, and keep delivery moving at a sustainable pace, using agile and
+  lean ways of working.
+health_context:
+  - Releases to services that support patient care must pass clinical safety and information governance checks, so delivery managers build these into the team's plans and definition of done.
+  - Delivery often depends on clinicians and care staff who have limited time away from patients, so delivery managers plan research, testing, and training around clinical rotas.
+  - Changes to live clinical services need careful timing, so delivery managers plan go-lives with operational teams to avoid peak clinical periods and to have support in place.
+  - Teams often depend on suppliers of clinical systems and on other health and care organisations, so delivery managers manage external dependencies and contracts.
+levels:
+  - pcf_level: Associate delivery manager
+    title: Associate delivery manager
+    band: "5"
+    responsibilities:
+      - Facilitate team ceremonies such as stand-ups, planning, show and tells, and retrospectives.
+      - Keep the team's board, risk and issue log, and dependency records up to date.
+      - Track the clinical safety, information governance, and accessibility tasks needed before each release.
+      - Arrange sessions with clinicians, care staff, and patients for research and testing, working around clinical rotas.
+      - Shadow and support a delivery manager on a larger team, delivering parts of the work under guidance.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: awareness}
+    qualifications:
+      - Some experience of working in or with a delivery team, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 3, physical-skills: 2, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 4, research: 1, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Delivery manager
+    title: Delivery manager
+    band: "7"
+    responsibilities:
+      - Lead the delivery of a digital health product or service through discovery, alpha, beta, and live.
+      - Plan releases with operational and clinical teams, including go-live support, training, and rollback plans.
+      - Make sure clinical safety, information governance, and accessibility assurance happens in step with delivery, not at the end.
+      - Manage the team's budget, supplier contracts, and resourcing.
+      - Report progress, risks, and benefits to governance boards in plain terms.
+      - Build a healthy team culture and coach team members in agile ways of working.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: risk-management, level: working}
+    qualifications:
+      - Substantial experience of delivering digital products or services using agile methods.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: There is no Band 6 level because the UK GDaD PCF has no delivery manager level between associate (EO/HEO) and delivery manager (SEO/G7).
+
+  - pcf_level: Senior delivery manager
+    title: Senior delivery manager
+    band: 8a
+    responsibilities:
+      - Lead the delivery of complex or high-risk services, such as those used in urgent care or that replace a core clinical system.
+      - Act as the main point of escalation for delivery risks, issues, and dependencies across several teams.
+      - Plan large-scale rollouts across sites and organisations, with clinical safety officers and operational leads.
+      - Manage budgets, commercial arrangements, and supplier performance for the service.
+      - Line manage and develop delivery managers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: risk-management, level: practitioner}
+      - {skill: budget-management, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of delivering complex digital services across their whole life cycle.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Head of (Agile) delivery management
+    title: Head of delivery management
+    band: 8c
+    responsibilities:
+      - Lead the delivery management profession and set the organisation's standards for agile delivery.
+      - Recruit, develop, and deploy delivery managers across the portfolio.
+      - Make sure delivery approaches meet clinical safety, information governance, and assurance requirements without slowing teams needlessly.
+      - Advise executive and clinical leaders on delivery risks, capacity, and priorities.
+      - Manage the profession's budget and workforce plan.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+      - {skill: people-management, level: expert}
+    qualifications:
+      - Extensive experience of leading delivery across multiple teams and of leading a delivery practice.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 6, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

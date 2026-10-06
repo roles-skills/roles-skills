@@ -1,0 +1,89 @@
+id: test-engineer
+summary: >
+  Test engineers build the automated tests, tools, and frameworks that let
+  teams test the organisation's digital health services quickly and often.
+  They write code to test functions, integrations, performance, security, and
+  resilience, and build testing into delivery pipelines, so that changes to
+  clinical and patient-facing systems can be released safely.
+health_context:
+  - Clinical systems are safety critical, so automated regression tests protect the safety controls recorded in hazard logs and are kept as evidence for safety cases.
+  - Integrations with other health and care systems need automated tests against standards such as HL7 FHIR and HL7 version 2, often using simulated partner systems.
+  - Clinical services run around the clock and peak at predictable times, so performance and resilience testing models real clinical demand.
+  - Test environments must not hold real patient data, so engineers generate realistic synthetic data, including rare and edge clinical cases.
+  - Software regulated as a medical device needs traceable, repeatable testing as part of its life cycle under standards such as IEC 62304.
+levels:
+  - pcf_level: Associate test engineer
+    title: Associate test engineer
+    band: "4"
+    responsibilities:
+      - Write and maintain simple automated tests under supervision, following the team's engineering standards.
+      - Run automated and manual tests and record outcomes accurately.
+      - Help investigate and report defects, including in integrations with clinical systems.
+      - Use synthetic test data and follow information governance rules in test environments.
+      - Learn the team's test tools, code practices, and clinical safety process.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: awareness}
+    qualifications:
+      - Some experience of coding or testing, or enrolment on a relevant apprenticeship, or equivalent.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 3, research: 2, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Test engineer
+    title: Test engineer
+    band: "6"
+    responsibilities:
+      - Design and build automated functional, integration, and API tests for clinical and patient-facing services.
+      - Build tests that check messages against HL7 FHIR profiles and other interoperability specifications.
+      - Generate synthetic patient data that covers realistic and edge clinical cases.
+      - Add tests to delivery pipelines so that safety-related checks run on every change.
+      - Estimate test effort, report outcomes, and support the resolution of defects.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: working}
+    qualifications:
+      - A degree in computing or a related subject, or equivalent experience.
+      - Experience of building automated tests.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior test engineer
+    title: Senior test engineer
+    band: "7"
+    responsibilities:
+      - Lead test engineering for an area, choosing tools, frameworks, and test types that address its risks early.
+      - Build reusable test frameworks and simulators for clinical systems and partner integrations.
+      - Plan and run performance, load, and resilience tests based on real clinical demand.
+      - Make sure automated tests trace to hazards and safety controls and produce evidence for safety cases.
+      - Coach and guide other test engineers, and agree engineering standards with developers.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: medical-device-regulation, level: awareness}
+    qualifications:
+      - Substantial experience of test engineering, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 4, knowledge: 7, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead test engineer
+    title: Lead test engineer
+    band: 8a
+    responsibilities:
+      - Set the test engineering strategy and standards across a broad area, including continuous testing in delivery pipelines.
+      - Lead and guide test engineers and teams in quality engineering practice.
+      - Make sure testing of regulated and safety-critical software meets the required standards and is traceable.
+      - Escalate quality and safety risks to senior product, clinical, and supplier leads.
+      - Find opportunities to test earlier and more often, and measure the effect on quality.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Extensive experience of leading test engineering for complex services.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 1, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests SEO to G6 for this level, which maps to Band 7, the same band as the senior test engineer. This reference places it at Band 8a, because it sets test engineering strategy and standards across a broad area.

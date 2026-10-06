@@ -1,0 +1,286 @@
+# Clinical informatics, clinical safety, and information governance skills
+# original to this reference.
+#
+# Ids start with "clin-" for clinical informatics and clinical safety skills,
+# and "ig-" for information governance and records skills.
+#
+# Each skill has four proficiency levels, matching the UK GDaD PCF scale:
+# awareness (1), working (2), practitioner (3), expert (4).
+# esco lists the closest ESCO v1.2.1 skills, with the strength of the match:
+# exact, close, broad (ESCO skill is wider), or narrow (ESCO skill is narrower).
+
+skills:
+  - id: clin-clinical-systems-optimisation
+    name: Clinical system design and optimisation
+    description: Designing, configuring, and improving clinical systems, such as electronic health records, order communications, and electronic prescribing, so that they fit clinical workflows and support safe, efficient care.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/ad008df3-dcaf-45ee-8892-2319a3b66c98, label: oversee clinical information system activities, match: close}
+      - {uri: http://data.europa.eu/esco/skill/53141450-2fa9-4890-a64e-7ffd4e1144be, label: use electronic health records management system, match: narrow}
+      - {uri: http://data.europa.eu/esco/skill/751941a0-5645-4f8b-b97e-b252909d5edb, label: develop ICT workflow, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain how clinical systems such as electronic health records support care
+        - describe the clinical workflows that a system supports
+      working: |
+        You can:
+        - map current and future clinical workflows with clinicians and care staff
+        - test system configuration against clinical scenarios
+        - write clear clinical requirements for product teams
+      practitioner: |
+        You can:
+        - lead the clinical design of system configuration, forms, order sets, and decision support
+        - use data and user feedback to find and fix workflow problems
+        - balance clinical need, safety, usability, and system constraints
+      expert: |
+        You can:
+        - set design principles and standards for clinical systems across the organisation
+        - lead optimisation programmes that measurably improve care and staff experience
+        - advise senior leaders on clinical system choices and their effect on care
+
+  - id: clin-human-factors
+    name: Human factors and usability in clinical systems
+    description: Applying human factors and usability methods to clinical systems, so that clinicians, care staff, and patients can use them safely and with as little error as possible.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/95ee5e38-5c1e-4cd2-a21d-6921390025a9, label: usability engineering, match: close}
+      - {uri: http://data.europa.eu/esco/skill/be0ff6d8-5e61-4021-9c89-e40cf0b75cc6, label: measure software usability, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain how poor design can lead to errors in care
+        - report usability problems that could affect patient safety
+      working: |
+        You can:
+        - take part in usability tests and simulations of clinical tasks
+        - spot common design hazards, such as similar-looking options or hidden alerts
+      practitioner: |
+        You can:
+        - plan and run human factors assessments of clinical systems
+        - turn findings into design changes and clinical safety controls
+        - assess alert burden and the risk of workarounds
+      expert: |
+        You can:
+        - set the organisation's approach to human factors in digital services
+        - review the human factors evidence for high-risk systems and changes
+        - build human factors skills across clinical and digital teams
+
+  - id: clin-digital-health-evaluation
+    name: Digital health evaluation and benefits
+    description: Planning and carrying out evaluations of digital health technologies, and measuring their clinical, safety, and service benefits using sound methods and evidence.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/557c86b8-a0bc-4545-bb30-d141b1d60bc1, label: conduct clinical software research, match: close}
+      - {uri: http://data.europa.eu/esco/skill/17c9a790-5664-4673-8237-c4cf3c5a8da5, label: conduct impact evaluation of ICT processes on business, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/0c8c1e58-1c48-4efc-9359-9a28f803c52d, label: undertake clinical audit, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain why digital health technologies need evidence of benefit and safety
+        - find published evidence about a technology
+      working: |
+        You can:
+        - collect baseline and follow-up data for an evaluation
+        - carry out clinical audits of system use
+        - summarise evaluation findings for colleagues
+      practitioner: |
+        You can:
+        - design evaluations and benefits plans for digital health products
+        - choose suitable measures for clinical outcomes, safety, and experience
+        - judge the strength of evidence and explain its limits
+      expert: |
+        You can:
+        - set the organisation's approach to digital health evaluation
+        - lead research and evaluation programmes with academic and care partners
+        - use evidence to advise the board on digital investment
+
+  - id: clin-professional-practice
+    name: Registered clinical practice in digital
+    description: Bringing current, registered clinical knowledge and judgement to digital work, while meeting the standards, ethics, and revalidation duties of a clinical profession.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/33c01497-8264-4773-81dd-6096ad512f02, label: health care occupation-specific ethics, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/76395873-7fe2-4f9a-b4b6-9932f8cbd0b4, label: follow clinical guidelines, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/ecee574b-4332-4cb4-b81c-d7ac71a0e2e2, label: apply good clinical practices, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain the professional standards that apply to a registered clinician
+        - recognise when a question needs a clinical opinion
+      working: |
+        You can:
+        - apply your clinical knowledge to digital work within your scope of practice
+        - keep your registration and continuing professional development up to date
+        - give clinical opinions on workflows, content, and safety
+      practitioner: |
+        You can:
+        - make sound clinical judgements about the effect of digital services on care
+        - challenge unsafe practice, in digital or clinical settings, with confidence
+        - support other clinicians to apply their professional standards to digital work
+      expert: |
+        You can:
+        - lead clinical professional standards for the organisation's digital work
+        - act as a senior clinical voice in decisions about patient safety and care
+        - support the revalidation and professional development of clinicians in digital roles
+
+  - id: ig-information-rights-requests
+    name: Information rights requests
+    description: Handling requests from individuals and the public for access to information, such as requests to access personal health records and requests for information held by the organisation, within legal time limits.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/eccf3b4f-881f-4ae6-b96a-666be929d780, label: access to documents regulations, match: close}
+      - {uri: http://data.europa.eu/esco/skill/f642d7ed-e8d7-4355-a747-b85094d4e2e3, label: prioritise requests, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/097c6a36-f031-4d3e-b5c1-62d6ffcb430b, label: respect data protection principles, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - recognise an information rights request and pass it on promptly
+        - explain that requests have legal time limits
+      working: |
+        You can:
+        - log, acknowledge, and track requests to meet time limits
+        - gather and redact information, and draft responses for review
+        - check the identity and authority of the person asking
+      practitioner: |
+        You can:
+        - handle complex or sensitive requests, including those involving third parties
+        - apply exemptions and decide what to withhold, with clear reasons
+        - manage internal reviews and complaints about responses
+      expert: |
+        You can:
+        - set the policy and process for information rights across the organisation
+        - lead the response to regulator enquiries and appeals
+        - report on performance and trends to senior leaders
+
+  - id: ig-records-retention
+    name: Records retention and disposal
+    description: Applying retention schedules to paper and digital records, and archiving or securely destroying them at the right time, with an audit trail.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/2e040fb0-66b9-4529-bec6-466472b60773, label: archive healthcare users' records, match: close}
+      - {uri: http://data.europa.eu/esco/skill/caea6ac9-3972-42c4-9be6-042fe3e426f5, label: manage archive, match: close}
+      - {uri: http://data.europa.eu/esco/skill/fa3e5cec-703e-4d46-b3bb-e8a89540ab54, label: manage digital archives, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain why records are kept for set periods and then destroyed or archived
+        - follow procedures for storing and moving records
+      working: |
+        You can:
+        - apply the retention schedule to records and flag those due for review
+        - prepare records for archiving or secure destruction, and keep the audit trail
+      practitioner: |
+        You can:
+        - run the retention and disposal programme for a records service
+        - advise teams on retention for new types of record, including digital ones
+        - audit compliance with retention schedules
+      expert: |
+        You can:
+        - set the retention policy and schedule for the organisation
+        - plan the long-term preservation of digital records
+        - resolve complex retention questions, such as legal holds and inquiries
+
+  - id: ig-data-protection-impact-assessment
+    name: Data protection impact assessment
+    description: Assessing the privacy risks of new or changed processing of personal and health data, and agreeing controls before the processing starts.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490, label: ensure information privacy, match: close}
+      - {uri: http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb, label: protect personal data and privacy, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain when a data protection impact assessment is needed
+        - complete a screening questionnaire for your work
+      working: |
+        You can:
+        - help project teams complete data protection impact assessments
+        - describe data flows and identify the lawful basis for processing
+        - record privacy risks and proposed controls
+      practitioner: |
+        You can:
+        - review and advise on data protection impact assessments for complex systems
+        - judge whether risks are acceptable and recommend controls
+        - decide when to escalate high risks for senior or regulator review
+      expert: |
+        You can:
+        - set the organisation's data protection impact assessment process and standards
+        - give the final advice on the highest-risk processing, such as large-scale data sharing or AI
+        - consult regulators where the law requires it
+
+  - id: ig-incident-management
+    name: Information governance incident management
+    description: Recording, investigating, and learning from data breaches and near misses, and deciding when to tell regulators and the people affected.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/751f6baf-de47-4d67-a657-4133066703f4, label: identify policy breach, match: close}
+      - {uri: http://data.europa.eu/esco/skill/9f6946f7-60aa-409a-b33d-152f244299d8, label: provide advice on breaches of regulation, match: close}
+      - {uri: http://data.europa.eu/esco/skill/24310a7b-5db1-4917-a705-4835630227ca, label: create incident reports, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - recognise a data breach or near miss and report it straight away
+      working: |
+        You can:
+        - log incidents and gather the facts
+        - assess incidents against the organisation's severity criteria
+        - track actions to close
+      practitioner: |
+        You can:
+        - investigate serious incidents and find their root causes
+        - decide, with senior colleagues, whether to notify regulators and people affected
+        - share lessons and track improvements
+      expert: |
+        You can:
+        - set the incident management process for information governance
+        - lead the response to major breaches, including with regulators and the media
+        - report incident trends and risks to the board
+
+  - id: ig-confidentiality-and-sharing
+    name: Confidentiality and information sharing
+    description: Protecting confidential patient information while making sure it is shared lawfully when care, safety, or the law needs it, including through information sharing agreements.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/51ece34f-c24e-4183-9bf4-9b6f28748aec, label: maintain healthcare user data confidentiality, match: close}
+      - {uri: http://data.europa.eu/esco/skill/a56dec32-05ef-45de-a256-ee6741f356db, label: information confidentiality, match: close}
+      - {uri: http://data.europa.eu/esco/skill/b4548845-dc4c-43fb-a55c-b9b7c6c1defd, label: document sharing procedures, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - keep confidential information safe and share it only when you are allowed to
+        - ask for advice when you are not sure
+      working: |
+        You can:
+        - check that a request to share information meets policy
+        - keep records of what was shared, with whom, and why
+        - draft simple information sharing agreements
+      practitioner: |
+        You can:
+        - advise on complex confidentiality questions, such as sharing without consent in the public interest
+        - review information sharing agreements with partner organisations
+        - apply consent and patient objection rules to data flows
+      expert: |
+        You can:
+        - act as the senior adviser on confidentiality for the organisation
+        - resolve the most difficult disclosure decisions
+        - set the framework for sharing information with partners
+
+  - id: ig-compliance-assurance
+    name: Information governance assurance and audit
+    description: Checking and showing that the organisation meets information governance standards, through annual self-assessments, audits, evidence, and improvement plans.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/9a0d0abc-010d-440b-8242-7e31510471ba, label: information governance compliance, match: close}
+      - {uri: http://data.europa.eu/esco/skill/6a536b36-c5c7-4d10-bf67-a4fb0f8549b2, label: audit techniques, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/fb15ca73-68fb-41db-a235-0b61d7d9021e, label: participate in medical records' auditing activities, match: narrow}
+    levels:
+      awareness: |
+        You can:
+        - explain why the organisation must show it handles information well
+        - provide evidence for an audit when asked
+      working: |
+        You can:
+        - collect and organise evidence for the annual self-assessment
+        - carry out simple audits, such as access or record-keeping audits
+        - track improvement actions
+      practitioner: |
+        You can:
+        - plan and run the information governance assurance programme
+        - judge whether evidence meets the standard and identify gaps
+        - work with internal and external auditors
+      expert: |
+        You can:
+        - own the organisation's information governance assurance framework
+        - report assurance and compliance to the board and its committees
+        - set improvement priorities based on risk

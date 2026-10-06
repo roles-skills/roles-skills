@@ -1,0 +1,102 @@
+id: head-of-procurement
+summary: >
+  The head of procurement and the commercial leadership team lead how the
+  organisation buys goods and services and manages its suppliers. They set
+  procurement policy and commercial strategy, make sure spending is lawful
+  and gives value for money, and advise the board on commercial risk. In a
+  digital health care organisation they give particular attention to
+  technology and clinical system contracts, supplier resilience, and exit.
+health_context:
+  - Large technology and clinical system contracts can shape services for a decade, so commercial leaders plan for interoperability, portability, and future competition from the start.
+  - Critical suppliers support services that run 24/7, so supplier failure and cyber incidents in the supply chain are board-level risks.
+  - Public procurement rules apply, and the organisation must be able to defend its procurement decisions if challenged.
+  - The organisation is expected to deliver social value and carbon reduction through its spending.
+  - Commercial leaders often work with other health and care organisations on collaborative buying and shared contracts.
+levels:
+  - title: Head of procurement
+    band: 8b
+    summary: >
+      Leads the procurement function, setting procurement procedures and
+      standards and managing the procurement and purchasing teams.
+    responsibilities:
+      - Lead and manage the procurement and purchasing teams.
+      - Set the organisation's procurement procedures, templates, and thresholds, in line with public procurement rules and financial rules.
+      - Assure the most complex and high-value procurements and their award decisions.
+      - Manage the procurement pipeline and make sure procurements start in time.
+      - Report procurement compliance, savings, and social value to the audit committee.
+      - Hold the procurement team budget and develop the team's skills.
+    skills:
+      - {skill: proc-procurement-process, level: expert}
+      - {skill: proc-procurement-law-and-policy, level: expert}
+      - {skill: proc-tender-evaluation, level: expert}
+      - {skill: proc-category-management, level: practitioner}
+      - {skill: proc-social-value, level: practitioner}
+      - {skill: pcf:commercial-management, level: practitioner}
+      - {skill: pcf:creating-value-for-money, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - A recognised procurement professional qualification at the highest level, or equivalent experience.
+      - Extensive experience of leading procurement under public procurement rules.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 4, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Policy is level 5 because the job sets procurement procedures for the whole organisation; financial resources is level 5 because it controls how spending is bought across many services.
+
+  - title: Head of commercial
+    band: 8c
+    summary: >
+      Leads procurement, category management, and contract management
+      together as one commercial function, and sets the commercial strategy.
+    responsibilities:
+      - Lead the commercial function, including procurement, category management, and contract management.
+      - Set the commercial strategy, including the approach to technology and cloud contracts and lock-in.
+      - Lead negotiations with strategic suppliers, such as clinical system and cloud providers.
+      - Lead the response to supplier failure and serious contract disputes.
+      - Advise executive directors on commercial risk, value for money, and the commercial case for major investments.
+      - Lead collaborative commercial work with other health and care organisations.
+    skills:
+      - {skill: pcf:commercial-management, level: expert}
+      - {skill: pcf:creating-value-for-money, level: expert}
+      - {skill: proc-category-management, level: expert}
+      - {skill: proc-contract-management, level: expert}
+      - {skill: proc-supplier-relationship-management, level: expert}
+      - {skill: proc-technology-procurement, level: expert}
+      - {skill: proc-negotiation, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: expert}
+      - {skill: people-management, level: expert}
+      - {skill: risk-management, level: practitioner}
+    qualifications:
+      - A recognised procurement professional qualification at the highest level, or a master's degree in a related subject, or equivalent experience.
+      - Extensive experience of leading commercial functions.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 5, information-resources: 4, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Communication is level 6 for negotiating highly contentious commercial matters with strategic suppliers.
+
+  - title: Director of procurement and commercial
+    band: 8d
+    summary: >
+      Is the organisation's senior commercial leader, accountable for
+      procurement and commercial policy, and advises the board on commercial
+      strategy and risk.
+    responsibilities:
+      - Set the organisation's procurement and commercial policy and strategy, approved by the board.
+      - Advise the board and executive team on commercial strategy, risk, and the largest contracts and investments.
+      - Assure the organisation's compliance with public procurement rules and its readiness to defend challenges.
+      - Lead executive relationships with strategic suppliers and public sector buying organisations.
+      - Set social value and sustainable procurement goals and report outcomes to the board.
+      - Lead and develop the commercial leadership team and the organisation's commercial skills.
+    skills:
+      - {skill: pcf:commercial-management, level: expert}
+      - {skill: pcf:creating-value-for-money, level: expert}
+      - {skill: proc-procurement-law-and-policy, level: expert}
+      - {skill: proc-supplier-relationship-management, level: expert}
+      - {skill: proc-social-value, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: expert}
+      - {skill: pcf:financial-management, level: practitioner}
+      - {skill: people-management, level: expert}
+      - {skill: governance-and-compliance, level: practitioner}
+      - {skill: risk-management, level: expert}
+    qualifications:
+      - A recognised procurement professional qualification at the highest level, or a master's degree in a related subject, or equivalent experience.
+      - Extensive experience of leading commercial functions at executive level.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 6, financial-resources: 5, people: 5, information-resources: 4, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Policy is level 6 for corporate responsibility for procurement and commercial policy; emotional effort is level 2 for occasional exposure to stressful disputes, supplier failures, and challenges.

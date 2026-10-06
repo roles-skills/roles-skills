@@ -1,0 +1,92 @@
+id: head-of-finance
+summary: >
+  Senior finance leaders are accountable for the organisation's financial
+  health, financial control, and use of public money. They lead financial
+  strategy and planning, advise the board on affordability and value for
+  money, and lead the finance, payroll, and often procurement functions. In a
+  digital health care organisation they shape how investment in technology
+  and data is funded, approved, and shown to deliver benefits for patients and
+  the health and care system.
+health_context:
+  - The organisation is funded with public money, so finance leaders are accountable to funders and oversight bodies for regularity, propriety, and value for money.
+  - Technology investment is a large share of spending, and the balance between capital, revenue, and cloud subscription costs shapes what the organisation can afford.
+  - Finance leaders must balance financial targets with patient safety and the quality of services that clinicians and care staff rely on.
+  - Large technology and data contracts carry long-term commitments and supplier risks that the board must understand.
+  - The organisation may work in partnerships across health and care, with pooled budgets, shared services, or hosted programmes.
+levels:
+  - title: Financial controller
+    band: 8c
+    summary: Financial controllers, sometimes called assistant directors of finance, lead a major part of the finance function, such as financial accounting and control or financial planning, and deputise for senior finance leaders.
+    responsibilities:
+      - Lead financial accounting, financial control, treasury, and transactional services, or financial planning and business partnering.
+      - Make sure the annual accounts are delivered on time with a clean audit opinion.
+      - Maintain an effective system of financial control, and report on it to the audit committee.
+      - Lead the financial planning cycle and in-year financial reporting to the executive.
+      - Advise directors on major financial decisions, including large technology contracts.
+      - Lead and develop several finance teams.
+    skills:
+      - {skill: fin-financial-reporting, level: expert}
+      - {skill: fin-financial-planning-and-forecasting, level: practitioner}
+      - {skill: fin-audit-and-controls, level: expert}
+      - {skill: fin-public-sector-finance, level: expert}
+      - {skill: pcf:financial-management, level: expert}
+      - {skill: pcf:financial-management-for-digital-data-and-technology, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: governance-and-compliance, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+    qualifications:
+      - A recognised accountancy qualification, with extensive senior experience in public sector or complex organisations.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 4, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 5 because the job manages budgets and financial processes across several services. Information resources is level 6 because the job owns the finance systems and data used across the organisation.
+
+  - title: Deputy director of finance
+    band: 8d
+    summary: Deputy directors of finance lead the finance function day to day, deputise for the director of finance, and lead the organisation's financial strategy and medium-term financial plan.
+    responsibilities:
+      - Lead the medium-term financial plan and annual financial plan, linking them to strategy and workforce plans.
+      - Lead the business case and investment approval process, including for major digital programmes.
+      - Advise the executive and board committees on financial performance, risk, and savings plans.
+      - Represent the organisation with funders and partners on financial matters.
+      - Deputise for the director of finance, including at the board and audit committee.
+      - Lead and develop the finance, payroll, and financial systems teams.
+    skills:
+      - {skill: fin-financial-planning-and-forecasting, level: expert}
+      - {skill: fin-business-cases, level: expert}
+      - {skill: fin-audit-and-controls, level: expert}
+      - {skill: fin-public-sector-finance, level: expert}
+      - {skill: pcf:financial-management, level: expert}
+      - {skill: pcf:financial-management-for-digital-data-and-technology, level: practitioner}
+      - {skill: pcf:creating-value-for-money, level: expert}
+      - {skill: pcf:stakeholder-relationship-management, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: expert}
+      - {skill: people-management, level: expert}
+    qualifications:
+      - A recognised accountancy qualification, with extensive senior experience of leading finance functions.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 5, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+
+  - title: Director of finance
+    band: "9"
+    summary: Directors of finance are executive board members with corporate responsibility for the organisation's finances, financial control, and use of public money.
+    responsibilities:
+      - Hold corporate responsibility for the organisation's finances, financial control, and financial sustainability.
+      - Set the financial strategy and lead the board's decisions on affordability, investment, and value for money.
+      - Make sure the organisation spends public money lawfully, within its funding, and in line with spending controls.
+      - Advise the board on the financial effect of strategy, including the shift to digital and cloud-based services.
+      - Lead relationships with funders, oversight bodies, and external auditors.
+      - Lead the finance, payroll, and procurement functions, and often other corporate services.
+    skills:
+      - {skill: fin-financial-planning-and-forecasting, level: expert}
+      - {skill: fin-business-cases, level: expert}
+      - {skill: fin-public-sector-finance, level: expert}
+      - {skill: pcf:financial-management, level: expert}
+      - {skill: pcf:financial-management-for-digital-data-and-technology, level: expert}
+      - {skill: pcf:creating-value-for-money, level: expert}
+      - {skill: pcf:commercial-management, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: expert}
+      - {skill: governance-and-compliance, level: expert}
+    qualifications:
+      - A recognised accountancy qualification, with extensive experience at executive or board level.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 6, financial-resources: 6, people: 5, information-resources: 6, research: 2, freedom-to-act: 6, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 6 because the job holds corporate responsibility for the organisation's finances.

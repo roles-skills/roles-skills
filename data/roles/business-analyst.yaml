@@ -1,0 +1,129 @@
+id: business-analyst
+summary: >
+  Business analysts help the organisation understand problems in health and
+  care services and find the right changes to solve them. They analyse how
+  clinical, administrative, and patient-facing processes work today, define
+  user and business needs and requirements, and help teams make sure new
+  digital services fit real care pathways and deliver measurable benefits.
+health_context:
+  - Processes cross organisational and professional boundaries, so analysts map whole care pathways, including handoffs between clinicians, care staff, patients, and other organisations.
+  - Requirements often carry clinical risk, so analysts work with clinical safety officers to make sure safety-related requirements are captured, traced, and tested.
+  - Many requirements concern sharing health data between systems, so analysts need a working grasp of interoperability standards such as HL7 FHIR and clinical terminologies such as SNOMED CT.
+  - Benefits in care are often about safety, quality, staff time, and patient experience, not only cost, so analysts help define measures that clinicians recognise.
+levels:
+  - pcf_level: Trainee business analyst
+    title: Trainee business analyst
+    band: "4"
+    responsibilities:
+      - Learn business analysis techniques through structured training, shadowing, and supervised work.
+      - Record notes and draft process maps from workshops with clinical and administrative staff.
+      - Maintain requirements logs, user stories, and traceability records under direction.
+      - Help prepare test scenarios for user acceptance testing.
+      - Follow information governance rules when handling documents that include patient information.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: awareness}
+    qualifications:
+      - Working towards a business analysis apprenticeship or qualification, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 3, research: 2, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Junior business analyst
+    title: Junior business analyst
+    band: "5"
+    responsibilities:
+      - Map current and future processes for clinical and administrative workflows, such as referrals, appointments, or results handling.
+      - Elicit and write requirements and user stories for well-defined pieces of work.
+      - Gather data on process performance, such as waiting times or manual workarounds, to support analysis.
+      - Prepare and run user acceptance test scenarios with clinical and operational users.
+      - Flag requirements that could affect patient safety to the team and the clinical safety officer.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: awareness}
+    qualifications:
+      - A degree, a business analysis qualification or apprenticeship, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Business analyst
+    title: Business analyst
+    band: "6"
+    responsibilities:
+      - Lead the analysis for small and medium projects, from problem definition to benefits measurement.
+      - Run workshops with clinicians, care staff, and managers to understand pain points and agree options.
+      - Model care pathways and information flows, including data exchanged with other health and care systems.
+      - Define safety-related and data requirements, and trace them through design, build, and test.
+      - Build benefits cases with measures such as staff time released, errors avoided, or patient experience.
+      - Mentor junior and trainee business analysts.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: clinical-terminology, level: awareness}
+    qualifications:
+      - A degree or a recognised business analysis qualification, or equivalent experience.
+      - Experience of business analysis on digital change projects.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior business analyst
+    title: Senior business analyst
+    band: "7"
+    responsibilities:
+      - Lead business analysis on large or complex programmes, such as replacing a clinical system or redesigning a care pathway.
+      - Analyse options and their effect on care, safety, staff workload, and cost, and present recommendations to boards.
+      - Make sure clinical risk, information governance, and equality impacts are analysed and addressed in requirements.
+      - Define and track the benefits of change, and set up how they will be measured after go-live.
+      - Line manage or lead business analysts and run community of practice activities.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: clinical-terminology, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Substantial experience of business analysis on complex change, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead business analyst
+    title: Lead business analyst
+    band: 8a
+    responsibilities:
+      - Lead analysis for highly complex problems that span several products, services, or organisations in a care system.
+      - Shape the business case and benefits realisation plan for major investments.
+      - Set business analysis standards, such as requirements traceability for safety-related and regulated software.
+      - Work with clinical leads, architects, and product managers to align analysis with organisational strategy.
+      - Line manage business analysts and lead their professional development.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: clinical-terminology, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading business analysis across complex, multi-team change.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Head of business analysis
+    title: Head of business analysis
+    band: 8c
+    responsibilities:
+      - Lead the business analysis function and set its strategy, standards, and ways of working.
+      - Build business analysis capability, including recruitment, career paths, and training.
+      - Advise executive and clinical leaders on the analysis needed for major health and care transformation.
+      - Make sure benefits realisation is planned, measured, and reported across the portfolio.
+      - Manage the function's budget and workforce plan.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading a business analysis function or practice.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Information resources is scored at level 6 because the head of business analysis owns the organisation-wide standards for how requirements, process models, and benefits records are kept across all change work.

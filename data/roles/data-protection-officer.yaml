@@ -1,0 +1,96 @@
+id: data-protection-officer
+summary: >
+  The data protection officer (DPO) independently monitors the organisation's
+  compliance with data protection law, advises on its duties, and is the
+  contact point for the regulator and for people whose data it holds. In a
+  digital health care organisation, the DPO gives expert advice on the
+  lawful, fair, and transparent use of health data in products, analytics,
+  research, and data sharing.
+health_context:
+  - Data protection law gives the DPO a protected, independent position, reporting to the highest level of management, so the role must be free from conflicts of interest.
+  - Data protection law gives health data extra protection, and much of it is also subject to a duty of confidentiality, so the DPO advises on both.
+  - Large-scale processing of health data, data linkage, and AI often need data protection impact assessments and, sometimes, prior consultation with the regulator.
+  - Patients and the public expect transparency, so the DPO helps the organisation explain clearly how it uses their data.
+levels:
+  - title: Deputy data protection officer
+    band: 8a
+    summary: >
+      Supports the DPO in monitoring compliance and giving advice, leads
+      complex casework, and deputises for the DPO.
+    responsibilities:
+      - Advise teams on data protection law, including lawful basis, transparency, and individual rights.
+      - Review high-risk data protection impact assessments and draft the DPO's advice.
+      - Monitor compliance through audits, spot checks, and reviews of records of processing.
+      - Lead the investigation of serious data breaches and prepare notifications to the regulator.
+      - Handle complex complaints and requests from individuals about their data.
+      - Deputise for the DPO with senior leaders and the regulator.
+    skills:
+      - {skill: information-governance, level: expert}
+      - {skill: ig-data-protection-impact-assessment, level: practitioner}
+      - {skill: ig-incident-management, level: practitioner}
+      - {skill: ig-information-rights-requests, level: practitioner}
+      - {skill: ig-compliance-assurance, level: practitioner}
+      - {skill: ig-confidentiality-and-sharing, level: practitioner}
+      - {skill: pcf:data-ethics-and-privacy, level: practitioner}
+      - {skill: pcf:communicating-information, level: practitioner}
+    qualifications:
+      - A recognised professional qualification in data protection, or equivalent experience.
+      - Substantial experience of data protection in health or care.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+
+  - title: Data protection officer
+    band: 8b
+    summary: >
+      The organisation's statutory data protection officer, independently
+      monitoring compliance, advising senior leaders and the board, and
+      acting as the contact point for the regulator and the public.
+    responsibilities:
+      - Monitor the organisation's compliance with data protection law and its own policies, independently.
+      - Advise the board, senior leaders, and teams on their data protection duties.
+      - Give formal advice on high-risk data protection impact assessments, and decide when to consult the regulator.
+      - Act as the contact point for the regulator and for people whose data the organisation holds.
+      - Oversee breach notification decisions and the organisation's response to regulator enquiries.
+      - Report on data protection compliance and risk to the board and its committees.
+    skills:
+      - {skill: information-governance, level: expert}
+      - {skill: ig-data-protection-impact-assessment, level: expert}
+      - {skill: ig-incident-management, level: expert}
+      - {skill: ig-compliance-assurance, level: expert}
+      - {skill: ig-confidentiality-and-sharing, level: practitioner}
+      - {skill: governance-and-compliance, level: practitioner}
+      - {skill: pcf:data-ethics-and-privacy, level: expert}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+    qualifications:
+      - A recognised professional qualification in data protection, or equivalent experience.
+      - Extensive experience of data protection law and practice, including in health or care.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 6, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Freedom to act is scored at level 6 because data protection law requires the DPO to act independently and to interpret the law and policy without instruction.
+
+  - title: Senior data protection officer
+    band: 8c
+    summary: >
+      The data protection officer for a large organisation or a group of
+      organisations that share a DPO, leading the data protection function
+      and setting its standards.
+    responsibilities:
+      - Act as the statutory DPO for a large organisation or a group of care organisations.
+      - Lead the data protection function, its staff, and its work programme.
+      - Set the data protection framework and standards across the organisation or group.
+      - Give the final advice on the highest-risk processing, such as large-scale data linkage and AI.
+      - Lead engagement with the regulator, partners, and patient and public groups on data use.
+      - Report to the board on data protection risk, compliance, and public trust.
+    skills:
+      - {skill: information-governance, level: expert}
+      - {skill: ig-data-protection-impact-assessment, level: expert}
+      - {skill: ig-compliance-assurance, level: expert}
+      - {skill: ig-confidentiality-and-sharing, level: expert}
+      - {skill: governance-and-compliance, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: pcf:data-ethics-and-privacy, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+    qualifications:
+      - A recognised professional qualification in data protection, or equivalent experience.
+      - Extensive experience as a data protection officer in a large or complex organisation.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 4, information-resources: 6, research: 2, freedom-to-act: 6, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Information resources is scored at level 6 because the job oversees how personal data is processed across the whole organisation or group.

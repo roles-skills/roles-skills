@@ -1,0 +1,137 @@
+id: financial-accountant
+summary: >
+  Financial accountants make sure the organisation's accounts are complete,
+  accurate, and follow accounting standards and public sector reporting rules.
+  They manage the balance sheet, prepare the annual accounts and statutory
+  returns, manage cash and treasury, account for assets, and work with
+  auditors. In a digital health care organisation, much of the complexity
+  comes from accounting for software, data assets, cloud arrangements, and
+  multi-year technology contracts.
+health_context:
+  - Accounting for digital spending needs judgement, for example whether software development, configuration of cloud services, or licences can be treated as capital assets.
+  - The organisation must account for public money to funders and oversight bodies, often against strict capital and cash limits.
+  - Multi-year licence and support contracts create prepayments, commitments, and sometimes leases that must be accounted for correctly.
+  - Intangible assets, such as software the organisation builds, need valuing, depreciating, and reviewing for impairment as products change.
+  - External audit of public bodies is thorough and public, so evidence and working papers must be of a high standard.
+levels:
+  - title: Trainee financial accountant
+    band: "5"
+    summary: Trainee financial accountants prepare balance sheet reconciliations, journals, and working papers for the accounts while working towards a recognised accountancy qualification.
+    responsibilities:
+      - Prepare balance sheet reconciliations and clear reconciling items.
+      - Post month-end and year-end journals, such as accruals, prepayments, and depreciation.
+      - Maintain the fixed asset register, including software and hardware assets.
+      - Prepare working papers and evidence for the annual accounts and audit.
+      - Prepare cash flow information and bank reconciliations.
+      - Work towards a recognised accountancy qualification.
+    skills:
+      - {skill: fin-financial-reporting, level: working}
+      - {skill: fin-financial-transactions, level: working}
+      - {skill: fin-treasury-and-cash, level: working}
+      - {skill: fin-audit-and-controls, level: working}
+      - {skill: fin-tax, level: awareness}
+      - {skill: fin-public-sector-finance, level: working}
+      - {skill: fin-financial-systems, level: working}
+      - {skill: pcf:financial-management, level: awareness}
+    qualifications:
+      - A degree or intermediate accounting qualification, and working towards a recognised accountancy qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 2, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Knowledge is scored at the level the job needs once training is far enough along to do the work.
+
+  - title: Financial accountant
+    band: "6"
+    summary: Financial accountants are qualified accountants who manage the balance sheet and prepare sections of the annual accounts, statutory returns, and tax returns.
+    responsibilities:
+      - Manage the month-end and year-end close for the balance sheet.
+      - Prepare sections of the annual accounts and supporting notes.
+      - Account for capital spending, including deciding which digital costs can be capitalised.
+      - Prepare sales tax returns and advise on the tax treatment of contracts.
+      - Answer auditors' questions and agree actions on their findings.
+      - Supervise and develop trainee accountants.
+    skills:
+      - {skill: fin-financial-reporting, level: practitioner}
+      - {skill: fin-treasury-and-cash, level: working}
+      - {skill: fin-audit-and-controls, level: practitioner}
+      - {skill: fin-tax, level: working}
+      - {skill: fin-public-sector-finance, level: working}
+      - {skill: fin-financial-systems, level: working}
+      - {skill: pcf:financial-management, level: working}
+      - {skill: pcf:communicating-information, level: working}
+    qualifications:
+      - A recognised accountancy qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Senior financial accountant
+    band: "7"
+    summary: Senior financial accountants lead the annual accounts process and the accounting for complex areas, such as intangible assets, leases, and cloud arrangements.
+    responsibilities:
+      - Plan and lead the annual accounts timetable and the external audit.
+      - Write accounting papers on complex judgements, such as capitalising software development or cloud configuration costs.
+      - Manage capital accounting, including asset lives, depreciation, and impairment of software assets.
+      - Manage cash forecasting and drawdown of funding within cash limits.
+      - Prepare statutory and funder returns, such as consolidation and capital returns.
+      - Manage and develop a small team of financial accountants.
+    skills:
+      - {skill: fin-financial-reporting, level: practitioner}
+      - {skill: fin-treasury-and-cash, level: practitioner}
+      - {skill: fin-audit-and-controls, level: practitioner}
+      - {skill: fin-tax, level: practitioner}
+      - {skill: fin-public-sector-finance, level: practitioner}
+      - {skill: pcf:financial-management, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: people-management, level: working}
+      - {skill: governance-and-compliance, level: working}
+    qualifications:
+      - A recognised accountancy qualification, with substantial post-qualification experience, or equivalent.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 4, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 4 because the job manages the organisation's cash position and capital accounting.
+
+  - title: Financial accounting manager
+    band: 8a
+    summary: Financial accounting managers run financial accounting, treasury, and tax for the organisation, and make sure controls and audit actions are in place.
+    responsibilities:
+      - Manage the financial accounting, treasury, and tax functions.
+      - Own the organisation's accounting policies and their application to new types of spending, such as cloud and data services.
+      - Manage bank accounts, banking arrangements, and the cash flow forecast.
+      - Manage tax compliance and tax risk, including on technology contracts and shared services.
+      - Lead the response to internal and external audit findings on financial accounting and controls.
+      - Line manage financial accountants and treasury staff.
+    skills:
+      - {skill: fin-financial-reporting, level: expert}
+      - {skill: fin-treasury-and-cash, level: practitioner}
+      - {skill: fin-audit-and-controls, level: practitioner}
+      - {skill: fin-tax, level: practitioner}
+      - {skill: fin-public-sector-finance, level: practitioner}
+      - {skill: fin-financial-systems, level: practitioner}
+      - {skill: pcf:financial-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: governance-and-compliance, level: practitioner}
+    qualifications:
+      - A recognised accountancy qualification, with extensive post-qualification experience.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 5, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 5 because the job manages the organisation's banking, cash, and assets across all services.
+
+  - title: Head of financial accounts
+    band: 8b
+    summary: Heads of financial accounts lead the organisation's statutory reporting, financial control, treasury, and tax, and are the main contact for external auditors.
+    responsibilities:
+      - Lead the preparation of the annual report and accounts, and present them to the audit committee.
+      - Advise directors and the audit committee on significant accounting judgements and new standards.
+      - Own the financial rules, financial procedures, and scheme of delegation.
+      - Lead the relationship with external auditors and oversight bodies on financial reporting.
+      - Set treasury and tax policy, and manage financial risks.
+      - Lead and develop the financial accounting, treasury, and transactional teams.
+    skills:
+      - {skill: fin-financial-reporting, level: expert}
+      - {skill: fin-treasury-and-cash, level: expert}
+      - {skill: fin-audit-and-controls, level: expert}
+      - {skill: fin-tax, level: practitioner}
+      - {skill: fin-public-sector-finance, level: expert}
+      - {skill: pcf:financial-management, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: governance-and-compliance, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+    qualifications:
+      - A recognised accountancy qualification, with extensive post-qualification experience, including leading statutory reporting.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 5, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

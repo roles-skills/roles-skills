@@ -1,0 +1,59 @@
+id: programme-delivery-manager
+summary: >
+  Programme delivery managers are accountable for delivering complex digital
+  health services that need several teams, suppliers, or organisations to work
+  together, or that carry high technical, clinical, or public risk. They manage
+  dependencies, budgets, commercial arrangements, and people across the
+  programme, and make sure it delivers its intended benefits for patients,
+  clinicians, and care staff.
+health_context:
+  - Programmes often change how care is delivered across several organisations, so programme delivery managers coordinate clinical, operational, and digital leaders who have different priorities and governance.
+  - Clinical risk must be managed across the whole programme, not only within each team, so they work with clinical safety officers to keep a programme-level view of hazards and safety cases.
+  - Programmes frequently involve large contracts with suppliers of clinical systems, so commercial and contract management is a major part of the role.
+  - Benefits in care, such as shorter waits, safer prescribing, or staff time released, must be defined, owned by the service, and tracked long after the programme closes.
+levels:
+  - pcf_level: Programme delivery manager
+    title: Programme delivery manager
+    band: 8b
+    responsibilities:
+      - Lead the delivery of a programme of several teams, such as introducing a new digital service across a care pathway.
+      - Plan and manage dependencies between teams, suppliers, and partner health and care organisations.
+      - Keep a programme-level view of clinical risk with the clinical safety officer, and make sure each release has the assurance it needs.
+      - Manage the programme budget, contracts, and supplier performance.
+      - Report progress, risks, and benefits to the programme board and senior responsible owner.
+      - Line manage delivery managers and build a healthy delivery culture across the programme.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: risk-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: project-management, level: practitioner}
+    qualifications:
+      - Extensive experience of delivering complex, multi-team digital services or programmes.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 4, information-resources: 5, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Programme delivery manager
+    title: Senior programme delivery manager
+    band: 8c
+    responsibilities:
+      - Lead the delivery of the organisation's largest or highest-risk programmes, such as replacing the core electronic patient record or a system-wide shared care record.
+      - Coordinate delivery across several organisations in a care system, aligning their plans, governance, and go-live decisions.
+      - Lead commercial strategy and negotiation with major suppliers, and manage programme budgets across several years.
+      - Make sure clinical safety, information governance, and business continuity are assured at programme level before major go-lives.
+      - Lead and develop programme and delivery managers, and set delivery standards across the portfolio.
+      - Advise executive leaders on programme risk, options, and recovery.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: risk-management, level: expert}
+      - {skill: budget-management, level: expert}
+      - {skill: people-management, level: expert}
+      - {skill: project-management, level: expert}
+      - {skill: governance-and-compliance, level: working}
+    qualifications:
+      - Extensive experience of leading large, high-risk programmes across organisations.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 4, information-resources: 5, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF has one programme delivery manager level, at G7 or G6. This reference adds a senior level at Band 8c for the largest, multi-organisation programmes, with larger budgets (financial resources level 5) and more contentious communication (level 6).

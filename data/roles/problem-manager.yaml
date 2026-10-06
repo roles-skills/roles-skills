@@ -1,0 +1,51 @@
+id: problem-manager
+summary: >
+  Problem managers find and fix the root causes of incidents, so that faults
+  stop happening again. They analyse incident data, run root cause
+  investigations, record known errors and workarounds, and track fixes with
+  technical teams and suppliers. In health care, repeated faults in clinical
+  systems waste clinical time, erode trust, and can create patient safety
+  risks, so removing them matters.
+health_context:
+  - Repeated small faults, such as slow logins or failed prints on wards, add up to lost clinical time, so problem managers look for patterns as well as major failures.
+  - Some problems create clinical safety hazards, such as results not reaching the right clinician, and are assessed with the clinical safety officer.
+  - Root cause investigations often involve suppliers of clinical systems, and are managed through contracts and service levels.
+  - Workarounds for clinical systems must be safe and clearly explained to clinical staff.
+levels:
+  - pcf_level: Problem analyst
+    title: Problem analyst
+    band: "5"
+    responsibilities:
+      - Analyse incident data to find repeated faults and trends across clinical and corporate services.
+      - Record problems, known errors, and workarounds in the service management tool.
+      - Support root cause investigations by gathering logs, timelines, and other evidence.
+      - Track actions with technical teams and suppliers until fixes are in place.
+      - Check that workarounds for clinical systems are safe and clearly explained to users.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - Experience of IT support or operations.
+      - An IT service management foundation qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Problem manager
+    title: Problem manager
+    band: "6"
+    responsibilities:
+      - Run the problem management process across the organisation's services.
+      - Lead root cause analysis after major incidents and for recurring faults, using structured techniques.
+      - Prioritise problems by their effect on patient care, staff time, and service risk.
+      - Assess problems that may create patient safety hazards with the clinical safety officer.
+      - Hold technical teams and suppliers to account for permanent fixes, and report progress to service leaders.
+      - Work with major incident managers to make sure lessons from incidents lead to change.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: risk-management, level: working}
+    qualifications:
+      - Substantial experience of problem or incident management, at a level equivalent to a degree.
+      - An intermediate IT service management qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

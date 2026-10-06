@@ -1,0 +1,149 @@
+id: information-governance-officer
+summary: >
+  Information governance staff help the organisation handle personal and
+  health information lawfully, securely, and ethically. They advise teams on
+  data protection and confidentiality, handle information rights requests,
+  support data protection impact assessments, manage data breaches, and gather
+  the evidence that shows the organisation meets information governance
+  standards.
+health_context:
+  - Data protection law gives health information extra protection, so the bar for lawful use, security, and transparency is high.
+  - Digital health services often share data across many care organisations, so information sharing agreements and data flows need careful review.
+  - Patients and the public have legal rights to access their records and the organisation's information, with strict time limits.
+  - Data breaches involving health information can cause real harm and distress, so incidents need fast, careful handling.
+  - New uses of data, such as analytics, research, and AI, raise questions of consent, confidentiality, and public trust.
+levels:
+  - title: Information governance officer
+    band: "4"
+    summary: >
+      Supports the information governance team with information rights
+      requests, incident logging, training records, and evidence gathering,
+      following set procedures.
+    responsibilities:
+      - Log, acknowledge, and track information rights requests, and gather information for responses.
+      - Log data breaches and near misses, and gather the facts for review.
+      - Keep information governance registers up to date, such as the information asset register and data flow map.
+      - Collect evidence for the annual information governance self-assessment.
+      - Track staff completion of information governance training.
+      - Answer routine information governance questions from staff.
+    skills:
+      - {skill: information-governance, level: working}
+      - {skill: ig-information-rights-requests, level: working}
+      - {skill: ig-incident-management, level: working}
+      - {skill: ig-compliance-assurance, level: working}
+      - {skill: ig-confidentiality-and-sharing, level: working}
+      - {skill: health-records-management, level: awareness}
+      - {skill: corp-office-software, level: working}
+      - {skill: pcf:communicating-information, level: working}
+    qualifications:
+      - Experience of administrative or records work, or a foundation level qualification in data protection or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 2, information-resources: 4, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Emotional effort reflects frequent indirect exposure to distressing content in requests, records, and breach reports.
+
+  - title: Senior information governance officer
+    band: "5"
+    summary: >
+      Handles a caseload of information rights requests and incidents, and
+      supports teams with data protection impact assessments and information
+      sharing.
+    responsibilities:
+      - Handle information rights requests, including redaction and applying exemptions, within legal time limits.
+      - Assess and investigate data breaches and near misses, and track actions to close.
+      - Help project teams complete data protection impact assessments and describe data flows.
+      - Draft information sharing agreements and privacy notices for review.
+      - Deliver information governance training and briefings to staff.
+      - Carry out access and record-keeping audits.
+    skills:
+      - {skill: information-governance, level: working}
+      - {skill: ig-information-rights-requests, level: practitioner}
+      - {skill: ig-incident-management, level: working}
+      - {skill: ig-data-protection-impact-assessment, level: working}
+      - {skill: ig-confidentiality-and-sharing, level: working}
+      - {skill: ig-compliance-assurance, level: working}
+      - {skill: pcf:data-ethics-and-privacy, level: working}
+      - {skill: pcf:communicating-information, level: working}
+    qualifications:
+      - A recognised qualification in data protection or information governance, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+
+  - title: Information governance lead
+    band: "6"
+    summary: >
+      Gives expert information governance advice to a directorate or
+      programme, leading data protection impact assessments and complex
+      cases.
+    responsibilities:
+      - Advise product teams and services on lawful basis, consent, confidentiality, and retention.
+      - Review data protection impact assessments for complex systems and recommend controls.
+      - Handle complex or contentious information rights requests and internal reviews.
+      - Investigate serious data breaches and recommend whether to notify regulators.
+      - Review information sharing agreements with partner organisations.
+      - Supervise and coach information governance officers.
+    skills:
+      - {skill: information-governance, level: practitioner}
+      - {skill: ig-data-protection-impact-assessment, level: practitioner}
+      - {skill: ig-information-rights-requests, level: practitioner}
+      - {skill: ig-incident-management, level: practitioner}
+      - {skill: ig-confidentiality-and-sharing, level: practitioner}
+      - {skill: ig-compliance-assurance, level: working}
+      - {skill: pcf:data-ethics-and-privacy, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+    qualifications:
+      - A recognised professional qualification in data protection or information governance, or equivalent experience.
+      - Experience of advising on data protection in a health or care setting.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+
+  - title: Information governance manager
+    band: "7"
+    summary: >
+      Manages the information governance service day to day, including its
+      team, casework, assurance programme, and training.
+    responsibilities:
+      - Manage the information governance team and its casework, making sure legal time limits are met.
+      - Plan and run the information governance assurance programme and annual self-assessment.
+      - Write and review information governance policies and procedures.
+      - Advise senior managers on information risks and keep the information risk register.
+      - Lead the response to serious incidents, working with security, clinical safety, and communications colleagues.
+      - Design and oversee information governance training for all staff.
+    skills:
+      - {skill: information-governance, level: practitioner}
+      - {skill: ig-compliance-assurance, level: practitioner}
+      - {skill: ig-data-protection-impact-assessment, level: practitioner}
+      - {skill: ig-incident-management, level: practitioner}
+      - {skill: ig-records-retention, level: working}
+      - {skill: risk-management, level: working}
+      - {skill: people-management, level: practitioner}
+      - {skill: pcf:data-ethics-and-privacy, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+    qualifications:
+      - A recognised professional qualification in data protection or information governance, or equivalent experience.
+      - Substantial experience of information governance in health or care.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+
+  - title: Head of information governance
+    band: 8a
+    summary: >
+      Leads information governance for the organisation, setting its policy
+      and strategy and advising senior leaders on information risk and
+      compliance.
+    responsibilities:
+      - Set the information governance strategy, policies, and framework for the organisation.
+      - Lead the information governance and records services and develop their staff.
+      - Advise the executive lead for information risk, the board, and its committees on information risk and compliance.
+      - Make the final decisions on complex disclosure, sharing, and breach notification questions.
+      - Represent the organisation with regulators, auditors, and partner organisations.
+      - Make sure new digital services, data uses, and AI are designed with privacy and transparency from the start.
+    skills:
+      - {skill: information-governance, level: expert}
+      - {skill: ig-compliance-assurance, level: expert}
+      - {skill: ig-confidentiality-and-sharing, level: expert}
+      - {skill: ig-data-protection-impact-assessment, level: practitioner}
+      - {skill: health-records-management, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: pcf:data-ethics-and-privacy, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+    qualifications:
+      - A recognised professional qualification in data protection or information governance, or equivalent experience.
+      - Extensive experience of leading information governance in health or care.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}

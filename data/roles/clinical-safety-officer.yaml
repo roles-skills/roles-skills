@@ -1,0 +1,99 @@
+id: clinical-safety-officer
+summary: >
+  Clinical safety officers are registered clinicians who make sure the health
+  IT systems the organisation builds, buys, and deploys are safe for patients.
+  They run the clinical risk management process, lead hazard identification,
+  own hazard logs, and write and sign off clinical safety case reports, using
+  clinical risk management standards such as ISO 14971 and IEC 80001-1.
+health_context:
+  - The role must be held by a registered clinician, so that safety judgements rest on current clinical knowledge and professional accountability.
+  - Health IT can harm patients through wrong, missing, delayed, or misleading information, so the role assesses risks that are often hidden in data and workflows.
+  - Clinical safety work runs through the whole life of a system, from design and procurement to deployment, change, and decommissioning.
+  - Some products are also regulated as medical devices, so the role works with regulatory and quality colleagues where safety cases and device files overlap.
+  - Safety incidents involving health IT may cause serious harm, so the role investigates incidents and makes sure lessons are learned.
+levels:
+  - title: Clinical safety officer
+    band: "7"
+    summary: >
+      Runs the clinical risk management process for a set of products or
+      changes, leading hazard workshops, maintaining hazard logs, and writing
+      clinical safety case reports for approval.
+    responsibilities:
+      - Lead hazard identification workshops with product teams, clinicians, and suppliers.
+      - Assess clinical risks and agree controls, then check that the controls work through testing and evidence.
+      - Write and maintain hazard logs and clinical safety case reports for products and changes.
+      - Review supplier safety documentation for systems the organisation buys.
+      - Investigate safety incidents involving health IT and recommend improvements.
+      - Advise digital teams on the clinical risk management process and safety by design.
+    skills:
+      - {skill: clin-professional-practice, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: clin-human-factors, level: working}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: clinical-leadership-in-digital, level: working}
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: pcf:communicating-information, level: practitioner}
+      - {skill: pcf:enabling-and-informing-risk-based-decisions, level: working}
+    qualifications:
+      - Current registration with a clinical professional body, with substantial clinical experience.
+      - Training in clinical risk management for health IT, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 5, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Patient care is scored at level 5 because the job gives specialised advice on the safety of systems used in patient care. Mental effort reflects prolonged concentration on safety documentation and evidence.
+
+  - title: Senior clinical safety officer
+    band: 8a
+    summary: >
+      Leads clinical safety for a major programme or a portfolio of
+      high-risk systems, signing off safety cases and guiding other clinical
+      safety officers.
+    responsibilities:
+      - Lead clinical risk management for high-risk systems such as electronic health records, prescribing, and decision support.
+      - Approve hazard logs and clinical safety case reports within delegated authority.
+      - Advise programme boards on clinical risk and whether a system is safe to go live.
+      - Lead investigations of serious safety incidents involving health IT.
+      - Coach and quality-check the work of clinical safety officers and safety-trained clinicians.
+      - Help improve the organisation's clinical risk management system and templates.
+    skills:
+      - {skill: clin-professional-practice, level: practitioner}
+      - {skill: clinical-safety, level: expert}
+      - {skill: clin-human-factors, level: practitioner}
+      - {skill: medical-device-regulation, level: practitioner}
+      - {skill: clinical-leadership-in-digital, level: practitioner}
+      - {skill: health-care-context, level: practitioner}
+      - {skill: risk-management, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:enabling-and-informing-risk-based-decisions, level: practitioner}
+    qualifications:
+      - Current registration with a clinical professional body, with extensive clinical experience.
+      - Substantial experience of clinical risk management for health IT.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 5, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+
+  - title: Head of clinical safety
+    band: 8b
+    summary: >
+      Owns the organisation's clinical risk management system for health IT,
+      leads the clinical safety team, and gives the board assurance that its
+      digital services are clinically safe.
+    responsibilities:
+      - Own the clinical risk management system, policy, and processes for all health IT.
+      - Lead and develop the clinical safety team and the wider network of safety-trained clinicians.
+      - Assure safety cases for major systems and make the final clinical safety recommendation on deployment.
+      - Lead the response to serious safety incidents involving health IT, including with partners and suppliers.
+      - Report clinical safety risks and assurance to the board and its committees.
+      - Build a culture of clinical safety across digital, clinical, and supplier teams.
+    skills:
+      - {skill: clin-professional-practice, level: expert}
+      - {skill: clinical-safety, level: expert}
+      - {skill: clin-human-factors, level: practitioner}
+      - {skill: medical-device-regulation, level: practitioner}
+      - {skill: clinical-leadership-in-digital, level: expert}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: pcf:enabling-and-informing-risk-based-decisions, level: expert}
+    qualifications:
+      - Current registration with a clinical professional body, with extensive clinical and leadership experience.
+      - Extensive experience of leading clinical risk management for health IT across an organisation.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 6, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Patient care is scored at level 6 because the job is accountable for the clinical safety of the organisation's health IT. Emotional effort reflects regular review of incidents involving patient harm.

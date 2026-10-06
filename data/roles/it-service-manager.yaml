@@ -1,0 +1,92 @@
+id: it-service-manager
+summary: >
+  IT service managers make sure the organisation's digital services are
+  delivered to agreed levels and keep improving. They define service levels,
+  manage the service catalogue, report on performance, and coordinate the teams
+  and suppliers that run each service. In health care, they turn what clinical
+  services need, such as round-the-clock availability, into service targets and
+  support arrangements.
+health_context:
+  - Service levels for clinical systems reflect clinical risk, so targets for the electronic patient record or prescribing differ from those for a corporate system.
+  - Services are often provided by a mix of in-house teams, suppliers, and services shared with partner organisations, so service managers coordinate across organisational boundaries.
+  - Clinical business continuity depends on IT, so service managers work with clinical and emergency planning leads on downtime and continuity plans.
+  - Clinical staff have little time to report problems, so service managers use monitoring, service desk data, and clinical feedback to find issues early.
+levels:
+  - pcf_level: IT service analyst
+    title: IT service analyst
+    band: "4"
+    responsibilities:
+      - Respond to, document, and resolve incidents and requests within agreed service levels.
+      - Produce regular service reports, such as ticket volumes, response times, and the availability of clinical systems.
+      - Check that service catalogue entries and knowledge articles are accurate and up to date.
+      - Look for patterns in incidents and suggest improvements.
+      - Follow information governance rules when handling ticket and service data.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - An IT service management foundation qualification, a level 3 qualification in IT, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: IT service manager
+    title: IT service manager
+    band: "6"
+    responsibilities:
+      - Define and agree service levels for clinical and corporate services, based on clinical risk and business need.
+      - Manage the support arrangements for a portfolio of services, including suppliers and shared services.
+      - Report service performance to service owners and clinical leads, and agree improvement actions.
+      - Make sure each service has tested business continuity and downtime arrangements.
+      - Keep the service catalogue current, and make sure staff are told about changes to their services.
+      - Run a programme of continual service improvement for your services.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: risk-management, level: working}
+    qualifications:
+      - Experience of managing IT services to agreed service levels.
+      - An intermediate IT service management qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior IT service manager
+    title: Senior IT service manager
+    band: "7"
+    responsibilities:
+      - Lead service management across several platforms and channels, and improve the maturity of service management processes.
+      - Agree service levels and contract terms with major suppliers of clinical systems, and hold them to account.
+      - Present service performance and risks to senior clinical and operational leaders.
+      - Lead service reviews after major incidents, and track improvement actions to completion.
+      - Align IT continuity plans with clinical business continuity plans, working with emergency planning and clinical leads.
+      - Lead and develop IT service managers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: working}
+      - {skill: budget-management, level: awareness}
+    qualifications:
+      - Substantial experience of IT service management across several services.
+      - An advanced IT service management qualification, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Head of IT service management
+    title: Head of IT service management
+    band: 8b
+    responsibilities:
+      - Set the vision, strategy, and operating model for IT service management across the organisation.
+      - Make sure every service management process has an owner and keeps maturing.
+      - Represent IT service management at senior level, including at clinical and operational governance meetings.
+      - Act as the senior escalation point for clinical and corporate service leaders.
+      - Make sure the service management function has the people, tools, and budget it needs.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading IT service management in a large or complex organisation.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

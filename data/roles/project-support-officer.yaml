@@ -1,0 +1,109 @@
+id: project-support-officer
+summary: >
+  Project support officers help projects and programmes run smoothly by
+  maintaining plans, registers, and documents, organising meetings, and
+  producing reports. At senior levels they run the project management office
+  (PMO), giving leaders a clear view of progress, risks, and benefits across
+  the organisation's portfolio of digital change.
+health_context:
+  - Digital health projects need clinical safety, information governance, and security approvals at set points, so project support tracks these as key milestones.
+  - Projects often depend on clinicians and care staff whose time is limited, so planning around clinical rotas and service pressures matters.
+  - Portfolio reporting helps leaders decide which changes go ahead when clinical services are under pressure.
+levels:
+  - title: Project support officer
+    band: "3"
+    summary: >
+      Gives administrative support to one or more projects, maintaining
+      records and organising meetings under the guidance of a project manager.
+    responsibilities:
+      - Maintain project documents, with version control, in the project repository.
+      - Update action, risk, issue, and decision logs.
+      - Organise project meetings, send papers, and take action notes.
+      - Collect updates from the team for status reports.
+      - Handle routine project correspondence and enquiries.
+    skills:
+      - {skill: corp-pmo-reporting, level: awareness}
+      - {skill: project-management, level: awareness}
+      - {skill: corp-administration, level: working}
+      - {skill: corp-office-software, level: working}
+      - {skill: corp-diary-and-meeting-management, level: working}
+      - {skill: corp-minute-taking, level: working}
+      - {skill: information-governance, level: awareness}
+    qualifications:
+      - A level 3 qualification in business administration or project support, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 3, analytical: 2, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 2, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+
+  - title: Project coordinator
+    band: "4"
+    summary: >
+      Coordinates project controls for several projects or a programme,
+      maintaining plans and registers and producing regular reports.
+    responsibilities:
+      - Maintain project plans, registers, and trackers for several projects.
+      - Produce regular status and highlight reports.
+      - Track project budgets and spending, and raise variances.
+      - Check that projects follow the agreed method, including clinical safety and information governance steps.
+      - Coordinate project boards, papers, and actions.
+      - Support project managers with stakeholder communications.
+    skills:
+      - {skill: corp-pmo-reporting, level: working}
+      - {skill: project-management, level: working}
+      - {skill: corp-office-software, level: practitioner}
+      - {skill: corp-minute-taking, level: working}
+      - {skill: risk-management, level: awareness}
+      - {skill: budget-management, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: pcf:communicating-information, level: working}
+    qualifications:
+      - A foundation project management qualification, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 2, information-resources: 4, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+
+  - title: PMO analyst
+    band: "5"
+    summary: >
+      Analyses progress, risk, and benefits across a programme or portfolio,
+      and runs project management office processes.
+    responsibilities:
+      - Analyse progress, risks, issues, dependencies, and benefits across projects.
+      - Produce portfolio dashboards and reports for programme and portfolio boards.
+      - Run planning, change control, and assurance processes.
+      - Help project managers set up projects with the right controls and documents.
+      - Maintain the PMO's tools, templates, and guidance.
+      - Coach project support officers.
+    skills:
+      - {skill: corp-pmo-reporting, level: practitioner}
+      - {skill: project-management, level: working}
+      - {skill: risk-management, level: working}
+      - {skill: budget-management, level: working}
+      - {skill: corp-office-software, level: practitioner}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: pcf:planning, level: working}
+    qualifications:
+      - A project, programme, or portfolio management qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: PMO manager
+    band: "6"
+    summary: >
+      Manages the project management office for a programme or portfolio,
+      setting standards and giving leaders reliable insight into delivery.
+    responsibilities:
+      - Lead the project management office and its staff.
+      - Set project and portfolio standards, methods, and tools.
+      - Give senior leaders clear insight into portfolio progress, risks, and benefits.
+      - Run portfolio governance, including prioritisation, gateway reviews, and change control.
+      - Monitor programme budgets and resources, and report on them.
+      - Coach project managers on method and controls.
+    skills:
+      - {skill: corp-pmo-reporting, level: expert}
+      - {skill: project-management, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: budget-management, level: working}
+      - {skill: people-management, level: practitioner}
+      - {skill: governance-and-compliance, level: working}
+      - {skill: pcf:planning, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+    qualifications:
+      - A recognised project, programme, or portfolio management qualification, or equivalent experience.
+      - Experience of running a project management office.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 3, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

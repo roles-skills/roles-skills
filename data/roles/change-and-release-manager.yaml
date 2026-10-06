@@ -1,0 +1,70 @@
+id: change-and-release-manager
+summary: >
+  Change and release managers make sure changes to IT services are assessed,
+  approved, scheduled, and carried out safely, and that releases are planned
+  and coordinated. They run the change advisory board, own the configuration
+  management database, and coordinate releases across teams and suppliers. In
+  health care, they make sure changes to clinical systems are timed and tested
+  to protect patient care.
+health_context:
+  - Changes to clinical systems can harm patients, so change assessment includes clinical safety review and evidence from the clinical risk management process.
+  - Clinical services run every day, so change windows are agreed with clinical services and avoid their busiest periods.
+  - Many changes come from suppliers of clinical systems, and must still be assessed when the supplier controls the release.
+  - Emergency changes, such as urgent security patches, must balance cyber risk against the risk of disrupting care.
+  - An accurate configuration management database shows which clinical services a change could affect.
+levels:
+  - pcf_level: Configuration analyst
+    title: Configuration analyst
+    band: "4"
+    responsibilities:
+      - Maintain records in the configuration management database, including the clinical services each component supports.
+      - Check configuration records against discovery tools, and fix gaps and errors.
+      - Prepare change records and agendas for the change advisory board.
+      - Answer routine queries about configuration items and how they relate.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - An IT service management foundation qualification, a level 3 qualification in IT, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 1, information-resources: 4, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests Band 6 for this level (HEO/SEO). This reference places it at Band 4 because the level provides administrative support to the change and release manager, with mostly awareness-level skills, and sits below the change and release analyst. Information resources is above the band profile because maintaining the configuration management database is the main duty.
+
+  - pcf_level: Change and release analyst
+    title: Change and release analyst
+    band: "5"
+    responsibilities:
+      - Assess change requests for risk and impact, including the effect on clinical services and patient safety.
+      - Plan and schedule releases, agreeing change windows with clinical and operational services.
+      - Check that each change has testing, a rollback plan, and clinical safety sign-off where needed.
+      - Coordinate releases with DevOps teams, suppliers, and the service desk.
+      - Review releases afterwards and plan upcoming changes.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+    qualifications:
+      - Experience of IT operations, release, or change work.
+      - An IT service management foundation qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Change and release manager
+    title: Change and release manager
+    band: "6"
+    responsibilities:
+      - Chair the change advisory board, including clinical and operational representatives when changes affect patient care.
+      - Decide on technical changes, and authorise emergency changes such as urgent security patches.
+      - Coordinate releases and their dependencies across in-house teams and suppliers.
+      - Own the change, release, and configuration management processes and the configuration management database.
+      - Act as the escalation point for change conflicts and failed changes.
+      - Report on change success, failed changes, and incidents caused by change, and drive improvements.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: risk-management, level: working}
+    qualifications:
+      - Substantial experience of change and release management, at a level equivalent to a degree.
+      - An intermediate IT service management qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Planning is above the band profile because the role schedules releases and their dependencies across many teams and suppliers.

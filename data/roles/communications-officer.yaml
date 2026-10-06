@@ -1,0 +1,137 @@
+id: communications-officer
+summary: >
+  Communications staff help the organisation explain what it does to staff,
+  patients, the public, partners, and the media. They write and publish
+  content, run internal communications and campaigns, manage digital and
+  social media channels, handle media enquiries, and protect the
+  organisation's reputation, especially during incidents and outages.
+health_context:
+  - Communications about health services must be accurate, clear, and accessible, because patients may act on them.
+  - Campaigns often aim to change behaviour, such as encouraging patients and care staff to use a new digital service.
+  - Service outages, cyber incidents, and data breaches need fast, careful communications with patients, staff, partners, and the media.
+  - Stories about patients need consent and must protect confidentiality.
+levels:
+  - title: Communications officer
+    band: "4"
+    summary: >
+      Writes and publishes content for internal and external channels and
+      supports the communications team with routine media and campaign work.
+    responsibilities:
+      - Write and edit news, intranet content, newsletters, and social media posts.
+      - Publish approved content on the website, intranet, and social media.
+      - Log media enquiries and monitor coverage.
+      - Support campaigns and events with content and logistics.
+      - Check content for accuracy, accessibility, and plain English.
+    skills:
+      - {skill: corp-internal-communications, level: working}
+      - {skill: corp-digital-and-social-media, level: working}
+      - {skill: corp-media-relations, level: awareness}
+      - {skill: pcf:user-centred-content-design, level: working}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: information-governance, level: awareness}
+      - {skill: equality-diversity-inclusion, level: working}
+    qualifications:
+      - Experience of writing for different audiences, or a qualification in communications or a related subject, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 2, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+
+  - title: Senior communications officer
+    band: "5"
+    summary: >
+      Plans and delivers communications for projects and services, handles
+      routine media enquiries, and manages channels.
+    responsibilities:
+      - Plan and deliver communications for projects and service changes.
+      - Respond to routine media enquiries and draft press releases and statements.
+      - Manage content plans for digital and social media channels, and report on performance.
+      - Write case studies, including patient stories, with consent.
+      - Advise colleagues on writing clearly for patients and the public.
+      - Coach communications officers.
+    skills:
+      - {skill: corp-communications-strategy, level: working}
+      - {skill: corp-internal-communications, level: working}
+      - {skill: corp-digital-and-social-media, level: practitioner}
+      - {skill: corp-media-relations, level: working}
+      - {skill: pcf:user-centred-content-design, level: working}
+      - {skill: pcf:communicating-information, level: practitioner}
+      - {skill: information-governance, level: working}
+    qualifications:
+      - A degree or qualification in communications or a related subject, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Communications lead
+    band: "6"
+    summary: >
+      Leads communications for a major programme or area, such as internal
+      communications or digital channels, and handles sensitive media work.
+    responsibilities:
+      - Lead communications and engagement for a major programme, such as a new clinical system.
+      - Plan and evaluate campaigns that encourage patients and staff to adopt digital services.
+      - Handle sensitive media enquiries and prepare spokespeople.
+      - Plan communications for incidents and service outages with operational teams.
+      - Advise leaders on how to communicate change and difficult messages.
+      - Supervise communications officers.
+    skills:
+      - {skill: corp-communications-strategy, level: practitioner}
+      - {skill: corp-internal-communications, level: practitioner}
+      - {skill: corp-digital-and-social-media, level: practitioner}
+      - {skill: corp-media-relations, level: practitioner}
+      - {skill: pcf:user-centred-content-design, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A degree or professional qualification in communications, or equivalent experience.
+      - Experience of planning and evaluating campaigns.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Communications manager
+    band: "7"
+    summary: >
+      Manages the communications team's work and channels, and leads media
+      handling and communications for incidents.
+    responsibilities:
+      - Manage the communications team, its work plan, and its budget.
+      - Lead reactive and proactive media work, including during incidents and data breaches.
+      - Manage the organisation's channels, brand, and content standards.
+      - Advise directors on communications and reputational risks.
+      - Evaluate communications and report on their effect.
+      - Work with partner organisations on joint communications.
+    skills:
+      - {skill: corp-communications-strategy, level: practitioner}
+      - {skill: corp-media-relations, level: practitioner}
+      - {skill: corp-internal-communications, level: practitioner}
+      - {skill: corp-digital-and-social-media, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A professional qualification in communications, or equivalent experience.
+      - Substantial experience of media relations and managing communications.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Emotional effort reflects occasional handling of distressing material during incidents and in patient stories.
+
+  - title: Head of communications
+    band: 8b
+    summary: >
+      Leads communications and engagement for the organisation, sets its
+      strategy, and advises the board on reputation.
+    responsibilities:
+      - Set the communications and engagement strategy for the organisation.
+      - Lead and develop the communications function and manage its budget.
+      - Advise the chief executive and board on reputation, stakeholder engagement, and communications risk.
+      - Lead crisis communications during major incidents.
+      - Build relationships with senior partners, journalists, and patient groups.
+      - Shape how the organisation explains its digital services and its use of data to the public.
+    skills:
+      - {skill: corp-communications-strategy, level: expert}
+      - {skill: corp-media-relations, level: expert}
+      - {skill: corp-internal-communications, level: expert}
+      - {skill: corp-digital-and-social-media, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+    qualifications:
+      - A professional qualification in communications, or equivalent experience.
+      - Extensive experience of leading communications for a complex organisation.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}

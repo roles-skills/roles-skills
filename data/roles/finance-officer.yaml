@@ -1,0 +1,116 @@
+id: finance-officer
+summary: >
+  Finance officers keep the organisation's day-to-day finances accurate and
+  under control. They process and record invoices, payments, income, and
+  journals, reconcile ledgers and bank accounts, and help budget holders and
+  suppliers with their queries. In a digital health care organisation much of
+  this work involves technology suppliers, software licences, and cloud
+  services, often paid from public funding with strict rules on how it is
+  spent.
+health_context:
+  - The organisation spends public money, so every payment must be properly approved, recorded, and able to stand up to audit.
+  - Many invoices are for software licences, cloud hosting, and support contracts, which need checking against contract terms, usage, and the right capital or revenue code.
+  - Prompt and accurate payment matters, because small suppliers and care providers may depend on it.
+  - Finance staff see personal information, such as staff expenses and payments to patients or care providers, and must handle it under information governance rules.
+  - Fraud risks, such as false requests to change supplier bank details, target public bodies, so officers follow strict checks.
+levels:
+  - title: Finance assistant
+    band: "2"
+    summary: Finance assistants process routine financial transactions, such as supplier invoices, receipts, and expense claims, following set procedures with supervision close by.
+    responsibilities:
+      - Enter supplier invoices, credit notes, and receipts accurately into the finance system.
+      - Match invoices to purchase orders and goods receipts, and chase missing approvals.
+      - Check staff expense claims against policy and supporting receipts.
+      - Answer routine queries from suppliers and staff by phone and email.
+      - File and scan financial documents so they can be found for audit.
+      - Follow financial procedures and information governance rules, and report anything unusual.
+    skills:
+      - {skill: fin-financial-transactions, level: awareness}
+      - {skill: fin-financial-systems, level: awareness}
+      - {skill: fin-audit-and-controls, level: awareness}
+      - {skill: fin-public-sector-finance, level: awareness}
+      - {skill: pcf:communicating-information, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: health-care-context, level: awareness}
+    qualifications:
+      - Good numeracy and keyboard skills, gained through education or work experience.
+      - Willingness to work towards an entry-level accounting qualification, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 2, analytical: 2, planning: 1, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 2, people: 1, information-resources: 2, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Physical skills is level 3 for the speed and accuracy of high-volume data entry. Financial resources is level 2 because the job handles payment information and checks small claims.
+
+  - title: Finance officer
+    band: "3"
+    summary: Finance officers run a part of the transaction cycle, such as accounts payable, accounts receivable, or cash, resolving non-routine issues and reconciling their ledger.
+    responsibilities:
+      - Process a range of transactions, including payment runs, refunds, sales invoices, and journals.
+      - Reconcile supplier statements, bank accounts, and control accounts, and clear differences.
+      - Check that technology invoices match contract terms, such as licence numbers and billing periods.
+      - Carry out supplier bank detail change checks and other anti-fraud controls.
+      - Chase overdue debts and resolve disputed invoices with suppliers and budget holders.
+      - Show new finance assistants how to do routine tasks.
+    skills:
+      - {skill: fin-financial-transactions, level: working}
+      - {skill: fin-financial-systems, level: working}
+      - {skill: fin-audit-and-controls, level: working}
+      - {skill: fin-treasury-and-cash, level: awareness}
+      - {skill: fin-tax, level: awareness}
+      - {skill: fin-public-sector-finance, level: awareness}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: information-governance, level: awareness}
+    qualifications:
+      - An entry-level accounting qualification, or equivalent experience of financial processing.
+    job_evaluation: {communication: 3, knowledge: 3, analytical: 2, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 3, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 3 because the job prepares and releases payment runs and authorises payments within set limits.
+
+  - title: Senior finance officer
+    band: "4"
+    summary: Senior finance officers handle the more complex financial processing and reconciliations, support month-end and year-end, and help budget holders understand their spending.
+    responsibilities:
+      - Prepare month-end entries, such as accruals and prepayments for annual software and support contracts.
+      - Investigate and clear complex reconciling items and aged balances.
+      - Prepare sales tax returns and reconciliations under supervision.
+      - Produce standard budget reports and explain them to budget holders.
+      - Check that spending is coded correctly between capital and revenue, and raise questions with the accountants.
+      - Supervise and check the work of finance officers and assistants day to day.
+      - Suggest improvements to financial procedures and system workflows.
+    skills:
+      - {skill: fin-financial-transactions, level: practitioner}
+      - {skill: fin-financial-reporting, level: awareness}
+      - {skill: fin-management-accounting, level: awareness}
+      - {skill: fin-financial-systems, level: working}
+      - {skill: fin-audit-and-controls, level: working}
+      - {skill: fin-tax, level: working}
+      - {skill: fin-public-sector-finance, level: working}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: information-governance, level: working}
+    qualifications:
+      - An intermediate accounting qualification, or equivalent experience.
+      - Experience of financial processing and reconciliations.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 3, people: 2, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+
+  - title: Finance team leader
+    band: "5"
+    summary: Finance team leaders manage a transactional finance team or work as finance analysts, making sure processes are accurate, controlled, and efficient, and that reporting is ready on time.
+    responsibilities:
+      - Lead a transactional finance team, planning its work to meet payment, debt, and month-end deadlines.
+      - Manage a ledger or financial process, and report its performance, such as payment times and aged debt.
+      - Test and improve financial controls, and provide evidence to internal and external auditors.
+      - Prepare balance sheet reconciliations and working papers for the annual accounts.
+      - Improve processes, for example by automating invoice matching or introducing self-service for budget holders.
+      - Train, support, and review the work of staff in the team.
+    skills:
+      - {skill: fin-financial-transactions, level: practitioner}
+      - {skill: fin-financial-reporting, level: working}
+      - {skill: fin-management-accounting, level: working}
+      - {skill: fin-financial-systems, level: practitioner}
+      - {skill: fin-audit-and-controls, level: practitioner}
+      - {skill: fin-tax, level: working}
+      - {skill: fin-public-sector-finance, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: people-management, level: working}
+      - {skill: information-governance, level: working}
+    qualifications:
+      - An intermediate or advanced accounting qualification, or equivalent experience.
+      - Experience of leading or coordinating financial processes.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: People is level 3 because the job manages a small finance team day to day. A finance analyst at this band would score people at level 2 and analytical at level 4.

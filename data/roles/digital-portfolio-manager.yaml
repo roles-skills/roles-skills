@@ -1,0 +1,97 @@
+id: digital-portfolio-manager
+summary: >
+  Digital portfolio managers help the organisation choose, track, and govern
+  its portfolio of digital projects, programmes, and products so that it
+  invests in the work that does most for patients, clinicians, and care staff.
+  They run portfolio governance and reporting, help leaders prioritise with
+  good evidence, and make sure the portfolio delivers the benefits it promised.
+health_context:
+  - Digital work competes for funding with front-line care, so portfolio managers help leaders show the benefits of digital investment for patients and staff.
+  - Portfolio governance must include clinical safety, information governance, and cyber security assurance, so portfolio managers track these alongside time, cost, and scope.
+  - Many digital projects depend on capacity in clinical and operational teams, such as clinicians to test or staff to train, so portfolio managers watch for clashes in demand on services.
+  - Funding often comes from several sources with their own reporting rules and deadlines, so portfolio managers keep reporting accurate and on time.
+levels:
+  - pcf_level: Digital portfolio analyst
+    title: Digital portfolio analyst
+    band: "5"
+    responsibilities:
+      - Collect and check status, risk, finance, and benefits data from projects across the portfolio.
+      - Maintain the portfolio register and dashboards, and spot gaps or inconsistencies in reporting.
+      - Prepare papers and reports for portfolio governance boards.
+      - Track assurance milestones, such as clinical safety sign-off and data protection impact assessments, across projects.
+      - Support portfolio managers with prioritisation and planning analysis.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: project-management, level: awareness}
+    qualifications:
+      - A degree or relevant qualification, or equivalent experience of analysis or reporting.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 1, information-resources: 4, research: 1, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF places both the analyst and manager levels at HEO or SEO. This reference places the analyst at Band 5, because it is a learning level that reports to a portfolio manager, and the manager at Band 6, so the two levels are not in the same band.
+
+  - pcf_level: Digital portfolio manager
+    title: Digital portfolio manager
+    band: "6"
+    responsibilities:
+      - Coordinate a portfolio of digital projects and programmes, such as all digital work for one directorate.
+      - Help teams follow governance, assurance, and delivery processes, and make them proportionate.
+      - Support leaders to prioritise work using evidence of need, benefit, risk, and capacity.
+      - Report portfolio performance, risks, and benefits clearly to boards and stakeholders.
+      - Spot clashes in demand on clinical and operational teams across projects and help resolve them.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: project-management, level: working}
+      - {skill: risk-management, level: working}
+    qualifications:
+      - Experience of portfolio, programme, or project management, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior digital portfolio manager
+    title: Senior digital portfolio manager
+    band: 8a
+    responsibilities:
+      - Manage the organisation's digital portfolio, or a large part of it, and its governance and assurance processes.
+      - Track and analyse outcomes and benefits across the portfolio, and act on issues to help teams deliver.
+      - Make sure the portfolio meets standards, including clinical safety, information governance, and cyber security assurance.
+      - Advise senior leaders on prioritisation, investment, and trade-offs, using clear evidence.
+      - Manage portfolio reporting to funders and external bodies.
+      - Line manage portfolio analysts and managers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: project-management, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: governance-and-compliance, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Extensive experience of portfolio or programme management, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: There is no Band 7 level because the UK GDaD PCF moves from digital portfolio manager (HEO/SEO) to senior digital portfolio manager (G7).
+
+  - pcf_level: Head of portfolio
+    title: Head of digital portfolio
+    band: 8c
+    responsibilities:
+      - Lead the digital portfolio function and the team of portfolio managers.
+      - Set the portfolio strategy, controls, and governance, and make sure they are used.
+      - Give executive leaders insight into the portfolio's future, so they can make investment decisions.
+      - Make sure the portfolio's benefits for patients, staff, and the organisation are realised and reported.
+      - Address portfolio-level risks and escalate issues to the executive team.
+      - Manage the function's budget and capability.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: practitioner}
+      - {skill: project-management, level: expert}
+      - {skill: risk-management, level: expert}
+      - {skill: governance-and-compliance, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading portfolio management in a complex organisation.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 5, people: 4, information-resources: 6, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is scored at level 5 because the head of digital portfolio oversees investment across the whole digital portfolio, covering several services; information resources is level 6 because the portfolio register and reporting cover the whole organisation.

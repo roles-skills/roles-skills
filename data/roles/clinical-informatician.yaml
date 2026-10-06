@@ -1,0 +1,132 @@
+id: clinical-informatician
+summary: >
+  Clinical informaticians are registered clinicians, such as doctors, nurses,
+  pharmacists, and allied health professionals, who use their clinical
+  knowledge to shape the organisation's digital health services. They make
+  sure that clinical systems, data, and decision support fit the way care is
+  delivered, are safe to use, and improve outcomes for patients and the
+  experience of clinicians and care staff.
+health_context:
+  - The role needs current clinical knowledge, so most posts require registration with a clinical professional body and some ongoing clinical practice.
+  - Clinical informaticians give specialised advice on how systems affect patient care, so their judgement directly affects patient safety.
+  - They work closely with clinical safety officers, contributing clinical expertise to hazard identification and safety cases.
+  - Good clinical data depends on consistent use of clinical terminologies such as SNOMED CT, so they help design structured records and decision support.
+  - They act as a bridge between clinicians, care staff, and digital teams, and often lead clinical engagement for system changes.
+levels:
+  - title: Clinical informatics specialist
+    band: "6"
+    summary: >
+      Brings clinical expertise to the design, configuration, testing, and
+      adoption of clinical systems, working within a product or programme team
+      under the guidance of a senior clinical informatician.
+    responsibilities:
+      - Map clinical workflows with clinicians and care staff and turn them into clear requirements.
+      - Design and test system content such as forms, order sets, and care plans against clinical scenarios.
+      - Take part in hazard workshops and give clinical opinions on risks and controls.
+      - Support clinicians and care staff to adopt new systems safely, including training and go-live support.
+      - Check that clinical data is recorded consistently using agreed clinical terminologies.
+      - Gather feedback and data on system use and propose improvements.
+    skills:
+      - {skill: clin-professional-practice, level: working}
+      - {skill: clinical-leadership-in-digital, level: working}
+      - {skill: clin-clinical-systems-optimisation, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: clinical-terminology, level: working}
+      - {skill: clin-human-factors, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: pcf:user-focus, level: working}
+    qualifications:
+      - Current registration with a clinical professional body, with experience of clinical practice.
+      - Experience of using clinical systems in practice, or equivalent experience of digital change.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 4, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Patient care is scored at level 4 because the job advises on the care of patients through the design of clinical systems. Emotional effort reflects regular review of clinical records and incidents.
+
+  - title: Senior clinical informatician
+    band: "7"
+    summary: >
+      Leads the clinical input to a major clinical system, product, or
+      programme, giving specialised advice on how digital services affect
+      patient care and safety.
+    responsibilities:
+      - Lead clinical design for a major clinical system or product, setting content and configuration standards.
+      - Give specialised advice to product teams on clinical workflows, decision support, and safety.
+      - Work with the clinical safety officer to identify hazards, agree controls, and provide clinical evidence for safety cases.
+      - Lead clinical engagement and adoption across services, championing safe use among clinical peers.
+      - Plan and carry out evaluations and clinical audits of system use and benefits.
+      - Mentor clinical informatics specialists and clinicians new to digital work.
+    skills:
+      - {skill: clin-professional-practice, level: practitioner}
+      - {skill: clinical-leadership-in-digital, level: practitioner}
+      - {skill: clin-clinical-systems-optimisation, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: clin-human-factors, level: practitioner}
+      - {skill: clin-digital-health-evaluation, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:communicating-information, level: practitioner}
+    qualifications:
+      - Current registration with a clinical professional body, with substantial clinical experience.
+      - A postgraduate qualification in clinical or health informatics, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 5, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 3, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Patient care is scored at level 5 for specialised advice on patient care. Research is level 3 because evaluation and clinical audit of systems are a main part of the job.
+
+  - title: Lead clinical informatician
+    band: 8a
+    summary: >
+      Leads clinical informatics for a portfolio of clinical systems or a care
+      setting, setting clinical design standards and leading a team of
+      clinical informaticians.
+    responsibilities:
+      - Set clinical design standards and principles for clinical systems across a portfolio.
+      - Lead a team of clinical informaticians, setting priorities and supporting their professional development.
+      - Advise programme boards and senior leaders on clinical risk, benefit, and priorities for clinical systems.
+      - Lead clinical decisions on decision support, alerts, and structured data across services.
+      - Build networks of clinical champions and lead clinical engagement for large-scale change.
+      - Commission and lead evaluations and use the evidence to shape the roadmap.
+    skills:
+      - {skill: clin-professional-practice, level: practitioner}
+      - {skill: clinical-leadership-in-digital, level: practitioner}
+      - {skill: clin-clinical-systems-optimisation, level: expert}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: clin-human-factors, level: practitioner}
+      - {skill: clin-digital-health-evaluation, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+    qualifications:
+      - Current registration with a clinical professional body, with extensive clinical experience.
+      - A postgraduate qualification in clinical or health informatics, or equivalent experience of leading clinical informatics work.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 5, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Head of clinical informatics
+    band: 8c
+    summary: >
+      Leads the organisation's clinical informatics function and its
+      clinical design authority, making sure that all clinical systems are
+      designed, adopted, and improved with strong clinical leadership.
+    responsibilities:
+      - Set the clinical informatics strategy and lead the clinical design authority for the organisation.
+      - Lead and develop the clinical informatics function, including its workforce plan and budget.
+      - Give highly specialised advice to the executive team on the effect of digital investment on patient care.
+      - Make sure that clinical systems meet clinical safety, terminology, and data standards.
+      - Represent the organisation with health and care partners, professional bodies, and academic networks.
+      - Lead research and evaluation partnerships to build the evidence for digital health.
+    skills:
+      - {skill: clin-professional-practice, level: expert}
+      - {skill: clinical-leadership-in-digital, level: expert}
+      - {skill: clin-clinical-systems-optimisation, level: expert}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: clin-digital-health-evaluation, level: expert}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: practitioner}
+      - {skill: pcf:strategic-thinking, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: expert}
+    qualifications:
+      - Current registration with a clinical professional body, with extensive clinical and leadership experience.
+      - A master's degree in clinical or health informatics, or equivalent experience of leading clinical informatics at organisation level.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 6, policy: 5, financial-resources: 4, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Patient care is scored at level 6 for highly specialised advice on patient care across the organisation's clinical systems.

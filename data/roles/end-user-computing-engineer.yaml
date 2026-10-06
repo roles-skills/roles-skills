@@ -1,0 +1,124 @@
+id: end-user-computing-engineer
+summary: >
+  End user computing engineers provide, support, and maintain the devices and
+  software that staff use every day, such as laptops, desktops, tablets, mobile
+  phones, printers, and the shared workstations on wards and in clinics. They
+  fix faults on site and remotely, roll out and update devices, and keep them
+  secure and compliant. Their work keeps clinicians and care staff able to see
+  and record patient information at the point of care.
+health_context:
+  - Many devices are shared by clinical staff on wards, in clinics, and in emergency departments, often with fast user switching and smartcard or tap-in login.
+  - A broken device in a clinical area can delay care, so engineers prioritise those faults and keep spare devices ready to swap.
+  - Engineers work in clinical areas, so they follow infection prevention and control rules, respect patient privacy and dignity, and fit their work around clinical activity.
+  - Devices hold or display confidential patient information, so they must be encrypted, patched, managed, and securely wiped or destroyed at the end of their life.
+  - Some peripherals support clinical processes or connect to clinical equipment, such as wristband and label printers, barcode scanners, and dictation devices, so changes to them need care and testing.
+levels:
+  - pcf_level: Associate end user computing engineer
+    title: Associate end user computing engineer
+    band: "4"
+    responsibilities:
+      - Set up, replace, and repair devices and peripherals under the direction of experienced engineers.
+      - Fix common faults in clinical and office areas, such as printer, scanner, and login problems.
+      - Follow infection prevention and control rules, and respect patient privacy, when working on wards and in clinics.
+      - Record work, assets, and parts accurately in the service management tool.
+      - Work towards an IT support apprenticeship or equivalent qualification.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: identity-and-access-management, level: awareness}
+      - {skill: health-safety-wellbeing, level: awareness}
+    qualifications:
+      - Enrolled on, or working towards, an IT support apprenticeship or equivalent.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 3, mental-effort: 2, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Physical effort reflects frequent light effort, such as carrying devices and working under desks and in confined spaces. Knowledge is scored at the level the job needs once training is complete enough to do the work.
+
+  - pcf_level: End user computing engineer
+    title: End user computing engineer
+    band: "5"
+    responsibilities:
+      - Diagnose and fix hardware and software faults on site and remotely, aiming to resolve them at the first visit.
+      - Respond quickly to faults in clinical areas, and provide a replacement device when a repair would delay care.
+      - Build, deploy, and update devices using the organisation's standard images and device management tools.
+      - Keep devices patched, encrypted, and compliant, and securely wipe or dispose of them at the end of their life.
+      - Configure and test clinical peripherals, such as wristband printers, label printers, and barcode scanners.
+      - Coach associate engineers and share fixes through knowledge articles.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: vulnerability-management, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: health-safety-wellbeing, level: awareness}
+    qualifications:
+      - A level 3 or higher qualification in IT, a completed apprenticeship, or equivalent experience.
+      - Experience of supporting end user devices.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 3, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Physical effort reflects frequent light effort when moving and installing devices across sites.
+
+  - pcf_level: Senior end user computing engineer
+    title: Senior end user computing engineer
+    band: "6"
+    responsibilities:
+      - Lead a team of engineers day to day, prioritising work by its effect on patient care and staff.
+      - Plan and run device rollouts and refreshes for wards, clinics, and community teams, with as little disruption to care as possible.
+      - Test device builds and updates with clinical applications and peripherals before they are rolled out.
+      - Make sure devices meet security standards, including patch levels, encryption, and endpoint protection.
+      - Support go-lives of clinical systems with floor walking and rapid device fixes.
+      - Work with infrastructure, application, and security teams to fix complex and repeated faults.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: vulnerability-management, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: security-operations, level: awareness}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Substantial experience of supporting and managing end user devices, at a level equivalent to a degree.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 3, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Responsibility for people reflects day-to-day management of a team of engineers; physical effort reflects some continued on-site work.
+
+  - pcf_level: Lead end user computing engineer
+    title: Lead end user computing engineer
+    band: "7"
+    responsibilities:
+      - Set the standards for the organisation's devices, builds, and end user software, including shared clinical workstations.
+      - Manage suppliers of devices, repairs, and end user services, and hold them to agreed service levels.
+      - Work with technical architects to choose and test new device types, such as mobile devices for ward and community staff.
+      - Lead the technical response to end user computing incidents, such as a failed update affecting clinical workstations.
+      - Plan the device lifecycle and capacity, and advise on refresh costs.
+      - Lead and develop senior engineers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: identity-and-access-management, level: practitioner}
+      - {skill: vulnerability-management, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: security-operations, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of end user computing, including managing suppliers.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Principal end user computing engineer
+    title: Principal end user computing engineer
+    band: 8b
+    responsibilities:
+      - Own the end user computing strategy and roadmap, including how staff will reach clinical systems in hospitals, clinics, patients' homes, and the community.
+      - Make sure the device estate supports safe, fast access to patient information at the point of care.
+      - Advise senior leaders on device investment, risks, and the costs of refreshes and new technologies.
+      - Lead the response to estate-wide device risks, such as operating systems reaching end of support and resilience against ransomware.
+      - Lead resourcing, learning, and development for end user computing teams.
+      - Work with health and care partners on shared device and access standards.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: identity-and-access-management, level: practitioner}
+      - {skill: vulnerability-management, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading end user computing for a large, multi-site organisation.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests Band 8c for this level (G6). This reference places it at Band 8b, in line with principal roles in other technical families, because its scope is one technical area rather than a directorate.

@@ -1,0 +1,139 @@
+id: data-scientist
+summary: >
+  Data scientists use statistics, machine learning, and other advanced methods
+  to find patterns in health and care data and to build models that help
+  services plan, predict, and improve care. Typical work includes forecasting
+  demand, identifying patients who may benefit from early support, and
+  evaluating the effect of service changes. They work closely with clinicians
+  and analysts, and make sure models are valid, fair, and used safely.
+health_context:
+  - A model that supports decisions about patients can cause harm if it is wrong or biased, so models are validated on the population they will be used with and assessed for clinical safety.
+  - Health data reflects unequal access to care, so models can repeat or worsen health inequalities unless bias is measured and addressed for each patient group.
+  - Some models, such as those that inform diagnosis or treatment, may be regulated as medical devices, and AI regulation may also apply.
+  - Data science often needs linked, detailed patient data, so work happens in secure settings, with pseudonymised data, under an agreed information governance basis.
+  - Clinicians and patients need to understand and trust a model's outputs, so explanation and plain-language communication of uncertainty matter.
+levels:
+  - pcf_level: Trainee data scientist
+    title: Trainee data scientist
+    band: "4"
+    responsibilities:
+      - Learn the team's statistical and machine learning methods, tools, and secure ways of working through structured training.
+      - Prepare and explore pseudonymised health data sets under supervision.
+      - Run and interpret simple statistical analyses, checking results with a more experienced data scientist.
+      - Follow information governance, disclosure control, and ethics procedures.
+      - Work towards a data science apprenticeship or equivalent qualification.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: data-deidentification, level: awareness}
+      - {skill: data-ai-assurance, level: awareness}
+    qualifications:
+      - Enrolled on, or working towards, a data science apprenticeship or equivalent.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Knowledge is scored at the level the job needs once training is complete enough to do the work.
+
+  - pcf_level: Associate data scientist
+    title: Associate data scientist
+    band: "5"
+    responsibilities:
+      - Build and test basic statistical and machine learning models, such as demand forecasts, with guidance.
+      - Prepare and link health data sets for modelling in secure environments.
+      - Measure how well models perform for different patient groups and report differences.
+      - Present results and their uncertainty to analysts and service teams.
+      - Document data sources, methods, and assumptions so work can be reproduced.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: data-deidentification, level: working}
+      - {skill: data-ai-assurance, level: awareness}
+      - {skill: clinical-terminology, level: awareness}
+    qualifications:
+      - A degree in a numerate subject, a data science apprenticeship, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 4, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Data scientist
+    title: Data scientist
+    band: "6"
+    responsibilities:
+      - Develop complex models independently, such as risk stratification or length-of-stay prediction, choosing suitable methods.
+      - Validate models with clinicians, checking that they are accurate, fair, and useful on local patient data.
+      - Document each model's intended use, data, performance, and limits, and contribute evidence to clinical safety cases.
+      - Evaluate the effect of service changes using suitable statistical methods.
+      - Explain models and their uncertainty to clinical and non-technical audiences.
+      - Support associate and trainee data scientists.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: data-deidentification, level: working}
+      - {skill: data-ai-assurance, level: working}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: clinical-terminology, level: working}
+      - {skill: medical-device-regulation, level: awareness}
+    qualifications:
+      - A degree in a numerate subject, or equivalent experience.
+      - Experience of building and validating statistical or machine learning models.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 4, research: 3, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Principal data scientist
+    title: Principal data scientist
+    band: "7"
+    responsibilities:
+      - Scope, design, and lead data science projects that support service planning and patient care.
+      - Decide which methods, tools, and data are suitable, and challenge plans that are not feasible or safe.
+      - Plan the validation, bias assessment, and monitoring of models with clinical safety and information governance colleagues.
+      - Agree with product teams how models will be deployed and supported at scale.
+      - Manage and develop a small team of data scientists.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-deidentification, level: practitioner}
+      - {skill: data-ai-assurance, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Substantial experience of delivering data science, at a level equivalent to a master's degree or a doctorate in a quantitative subject.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 4, research: 3, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead data scientist
+    title: Lead data scientist
+    band: 8a
+    responsibilities:
+      - Lead data science teams and set their direction, priorities, and standards.
+      - Find opportunities where data science can improve care, and make the case for them with clinical and service leaders.
+      - Make sure models are designed, validated, and monitored so they stay safe and fair in use.
+      - Resolve complex ethical and data challenges, such as consent, bias, and use of sensitive data.
+      - Build data science capability through coaching, recruitment, and training.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-deidentification, level: practitioner}
+      - {skill: data-ai-assurance, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading data science teams.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests both lead data scientist and head of data science at G7 or G6. This reference places lead at Band 8a and head at Band 8b, so the two levels sit in different bands.
+
+  - pcf_level: Head of data science
+    title: Head of data science
+    band: 8b
+    responsibilities:
+      - Set the direction for data science and AI across the organisation, in line with its strategy and priorities.
+      - Lead on the ethics, safety, and assurance of the organisation's models and AI, and advise the board on them.
+      - Oversee resources, budget, and the quality of data science products.
+      - Represent the organisation on data science and AI with health and care partners, researchers, and regulators.
+      - Build data science capability and careers across professions.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-ai-assurance, level: expert}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: medical-device-regulation, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading data science across an organisation.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 4, information-resources: 5, research: 4, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

@@ -1,0 +1,91 @@
+id: quality-assurance-test-analyst
+summary: >
+  Quality assurance test analysts check that the organisation's digital health
+  services do what patients, clinicians, and care staff need, safely and
+  reliably. They analyse requirements and designs to find risks early, design
+  and run functional and non-functional tests, and report defects clearly. In
+  health care this includes testing clinical workflows, data accuracy, and the
+  controls that protect patients from harm.
+health_context:
+  - Defects in clinical systems can harm patients, for example through a wrong medication dose, a missed result, or a record shown for the wrong patient, so testing is prioritised by clinical risk.
+  - Testing provides evidence for clinical safety cases and hazard logs, so test plans trace to identified hazards and their controls.
+  - Test data must never expose real patients, so analysts use synthetic or properly de-identified test data.
+  - Many services exchange data with other health and care systems, so tests check messages against standards such as HL7 FHIR and the meaning of clinical codes.
+  - Users include clinicians under time pressure, patients with a wide range of needs, and assistive technology users, so usability and accessibility testing matter.
+levels:
+  - pcf_level: Associate quality assurance test analyst
+    title: Associate quality assurance test analyst
+    band: "4"
+    responsibilities:
+      - Run test scripts for clinical and administrative workflows under supervision, recording results accurately.
+      - Raise clear defect reports, including the steps, data, and screens involved.
+      - Use synthetic test data and never use real patient data in test environments.
+      - Learn the team's test approaches, tools, and the clinical safety process.
+      - Take part in team ceremonies such as stand-ups, planning, and retrospectives.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: awareness}
+    qualifications:
+      - Good analytical and written skills, and some experience of testing or of working with digital systems, or equivalent.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 3, research: 2, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Quality assurance test analyst
+    title: Quality assurance test analyst
+    band: "5"
+    responsibilities:
+      - Analyse user stories, designs, and clinical workflows to decide what to test, based on risk to patients and services.
+      - Design and run functional, accessibility, and usability tests, including end-to-end clinical scenarios.
+      - Trace tests to hazards and safety controls, and provide test evidence for clinical safety cases.
+      - Check data shown to users against source systems and agreed clinical codes.
+      - Create and maintain realistic synthetic test data.
+      - Track defects through to resolution and retest fixes.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: awareness}
+    qualifications:
+      - Experience of designing and running tests for digital services, or equivalent.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 3, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests HEO or SEO for both this level and the senior level, which maps both to Band 6. This reference places this level at Band 5 and the senior level at Band 6, so the two levels sit in different bands.
+
+  - pcf_level: Senior quality assurance test analyst
+    title: Senior quality assurance test analyst
+    band: "6"
+    responsibilities:
+      - Coordinate quality assurance for a product or area, agreeing test approaches, environments, data, and tools.
+      - Identify clinical and operational risks early by reviewing requirements, designs, and changes with clinicians and product teams.
+      - Plan and lead user acceptance testing with clinicians and care staff.
+      - Report test outcomes and residual risks to product owners and clinical safety officers, so they can make release decisions.
+      - Guide other test analysts and help them follow testing and clinical safety standards.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: pcf:business-and-user-acceptance-testing, level: practitioner}
+    qualifications:
+      - Substantial experience of test analysis, including in complex or regulated settings, or equivalent.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 3, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead quality assurance test analyst
+    title: Lead quality assurance test analyst
+    band: 8a
+    responsibilities:
+      - Set test analysis standards and good practice across the organisation, including risk-based testing of clinical systems.
+      - Define test strategies for major programmes, such as electronic patient record changes or new patient-facing services.
+      - Make sure testing produces the evidence needed for clinical safety cases and, where relevant, medical device technical files.
+      - Negotiate and escalate major risks, issues, and defects with senior product, clinical, and supplier leads.
+      - Mentor and coach test analysts and lead the test analysis community.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Extensive experience of leading test analysis for complex services.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 1, people: 3, information-resources: 4, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests G7 or G6 for this level, which maps to Band 8b. This reference places it at Band 8a, level with the lead test engineer, because it leads one testing discipline rather than all testing; the head of test is at Band 8c.

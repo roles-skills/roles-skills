@@ -1,0 +1,121 @@
+id: application-operations-engineer
+summary: >
+  Application operations engineers keep the organisation's applications running
+  in live use, including clinical systems such as the electronic patient record
+  and prescribing, laboratory, and imaging systems. They monitor applications,
+  run scheduled jobs, manage users and access, deploy releases and fixes, and
+  work with suppliers to resolve faults. Their work lets clinical and corporate
+  staff rely on these systems at every hour of the day.
+health_context:
+  - Clinical applications run 24 hours a day, so engineers take part in on-call rotas and plan maintenance for the quietest clinical periods.
+  - Failed scheduled jobs and interfaces can delay test results, referrals, or discharge letters, so engineers watch them closely and escalate quickly.
+  - Planned and unplanned downtime needs business continuity arrangements, such as read-only copies and downtime reports, so that clinicians can keep treating patients.
+  - Many clinical applications are supplied and hosted by third parties, so engineers manage suppliers and their changes carefully.
+  - Changes to clinical applications follow the clinical risk management process, and some applications may be regulated as medical devices.
+levels:
+  - pcf_level: Associate application operations engineer
+    title: Associate application operations engineer
+    band: "4"
+    responsibilities:
+      - Monitor applications, interfaces, and scheduled jobs, and report failures to experienced engineers.
+      - Create and change user accounts and access in applications, following role-based access rules.
+      - Carry out routine checks and maintenance tasks using runbooks.
+      - Record incidents and changes accurately in the service management tool.
+      - Work towards an IT apprenticeship or equivalent qualification.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - Enrolled on, or working towards, an IT apprenticeship or equivalent.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 2, people: 1, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Knowledge is scored at the level the job needs once training is complete enough to do the work.
+
+  - pcf_level: Application operations engineer
+    title: Application operations engineer
+    band: "5"
+    responsibilities:
+      - Monitor clinical and corporate applications and their interfaces, and act on alerts and failed jobs before they affect patient care.
+      - Run and check scheduled jobs, such as overnight data loads and interface queues, and resolve or escalate failures.
+      - Manage application users, roles, and access, including removing access for leavers and supporting access reviews.
+      - Produce and test downtime reports and other business continuity outputs for clinical applications.
+      - Log faults with suppliers and track them to resolution.
+      - Take part in the on-call rota, with guidance, for out-of-hours application faults.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: identity-and-access-management, level: working}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - A qualification in IT, a completed apprenticeship, or equivalent experience.
+      - Experience of supporting business or clinical applications.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior application operations engineer
+    title: Senior application operations engineer
+    band: "6"
+    responsibilities:
+      - Deploy releases, patches, and configuration changes to live applications, following change and clinical safety procedures.
+      - Coordinate the technical work to take new applications and major upgrades live, including cutover and rollback plans.
+      - Investigate complex application faults with suppliers, infrastructure teams, and clinical system specialists.
+      - Plan maintenance windows with clinical services, and make sure downtime procedures are ready.
+      - Provide evidence for clinical safety cases, such as test and deployment records.
+      - Act as an escalation point on the on-call rota for out-of-hours faults.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: identity-and-access-management, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: health-data-interoperability, level: awareness}
+    qualifications:
+      - Substantial experience of supporting live applications, at a level equivalent to a degree.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Mental effort reflects frequent prolonged concentration during go-lives, deployments, and out-of-hours incidents.
+
+  - pcf_level: Lead application operations engineer
+    title: Lead application operations engineer
+    band: "7"
+    responsibilities:
+      - Set the operational approach for a group of applications, including monitoring, resilience, and support arrangements.
+      - Set standards for user and security administration across clinical applications, working with the security team.
+      - Report on application performance and availability to IT operations leads, and agree the changes needed.
+      - Lead the technical response to major incidents affecting clinical applications.
+      - Make sure business continuity and disaster recovery arrangements for clinical applications are tested.
+      - Lead and develop application operations engineers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: identity-and-access-management, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: medical-device-regulation, level: awareness}
+      - {skill: risk-management, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Extensive experience of running live applications, including clinical or other critical systems.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Principal application operations engineer
+    title: Principal application operations engineer
+    band: 8b
+    responsibilities:
+      - Own the application operations strategy across the organisation's clinical and corporate applications.
+      - Manage strategic suppliers of clinical applications, including service levels, contract performance, and supplier changes.
+      - Advise senior leaders on application risks, such as unsupported software, single points of failure, and resilience against ransomware.
+      - Make sure the organisation can keep caring for patients safely during prolonged application downtime.
+      - Lead resourcing, learning, and development for application operations teams.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: identity-and-access-management, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading application operations for a large organisation.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests Band 8c for this level (G6). This reference places it at Band 8b, in line with principal roles in other technical families, because its scope is one technical area rather than a directorate.

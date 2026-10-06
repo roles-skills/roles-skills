@@ -1,0 +1,74 @@
+id: data-architect
+summary: >
+  Data architects design how the organisation structures, stores, moves, and
+  governs its health and care data, so that it can be used safely for direct
+  care, service planning, and research. They design data models, data
+  platforms, and data flows, set data standards, and make sure clinical
+  meaning, quality, and confidentiality are kept from end to end.
+health_context:
+  - Health data must keep its clinical meaning, so data models use clinical terminologies such as SNOMED CT and classifications such as ICD.
+  - Data used for direct care and data used for planning or research have different legal bases, so architects design for separation, de-identification, and controlled access.
+  - Data comes from many clinical and care systems of varying quality, so architects design for data quality checks, patient matching, and lineage.
+  - Shared care records and data exchange depend on common models such as HL7 FHIR resources and agreed national or international datasets.
+  - Records must be kept for long retention periods, so designs must plan for archiving and access to historical data.
+levels:
+  - pcf_level: Data architect
+    title: Data architect
+    band: "7"
+    responsibilities:
+      - Design logical and physical data models for clinical and operational data, using clinical terminologies where needed.
+      - Design data flows and data platform components, such as warehouse, lakehouse, and integration layers.
+      - Define metadata, data dictionary entries, and lineage for the datasets in your area.
+      - Design de-identification and access controls so that data is used only for its lawful purpose.
+      - Work with data quality and clinical coding colleagues to fix structural causes of poor data.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-terminology, level: working}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-quality, level: working}
+    qualifications:
+      - Substantial experience of data modelling and data platform design, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior data architect
+    title: Senior data architect
+    band: 8b
+    responsibilities:
+      - Design the data architecture for a major domain, such as the shared care record or the analytics platform.
+      - Make sure data designs across teams follow the organisation's data standards and models.
+      - Design how data is shared with partner organisations, including standards, controls, and data sharing agreements.
+      - Advise information governance and clinical safety colleagues on the data risks of new designs.
+      - Review and guide the work of data architects.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-quality, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Extensive experience of data architecture for complex organisations.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Chief data architect
+    title: Chief data architect
+    band: 8c
+    responsibilities:
+      - Set the organisation's data architecture vision and roadmap, in line with its data strategy.
+      - Own the organisation's enterprise data model, data standards, and data dictionary.
+      - Advise the executive team and data governance bodies on data architecture, risks, and investment.
+      - Represent the organisation in cross-organisation data standards and interoperability work.
+      - Lead the data architecture practice and develop its people.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: health-data-interoperability, level: expert}
+      - {skill: information-governance, level: expert}
+      - {skill: data-quality, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading data architecture across organisations.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 3, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

@@ -1,0 +1,113 @@
+id: product-manager
+summary: >
+  Product managers make sure the organisation's digital health products meet
+  the needs of patients, clinicians, and care staff and deliver value for the
+  health and care system. They set the product vision and roadmap, prioritise
+  the work of multidisciplinary teams using evidence, and are accountable for
+  the outcomes their products achieve, including their effect on care.
+health_context:
+  - Product decisions can affect patient safety, so product managers own the clinical risk of their product with the clinical safety officer and make sure hazards are managed before release.
+  - Products serve many user groups with different needs, such as patients, carers, clinicians, and administrative staff, and product managers must balance them fairly.
+  - Some products may be regulated as medical devices, so product managers need to know when regulation applies and plan for it.
+  - Outcomes in care include safety, quality, access, equity, and staff time, so product managers define success measures that clinical and operational leaders recognise.
+  - Products often depend on national and regional health data standards and shared platforms, so product managers work across organisational boundaries.
+levels:
+  - pcf_level: Associate product manager
+    title: Associate product manager
+    band: "6"
+    responsibilities:
+      - Own the backlog for a feature or part of a product, working with a product manager.
+      - Turn evidence from user research with patients, clinicians, and care staff into prioritised user stories.
+      - Work with clinical safety officers to record and review hazards for the features you own.
+      - Track product measures, such as uptake, completion rates, and support calls, and report what they show.
+      - Represent the product at show and tells and with operational stakeholders.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: medical-device-regulation, level: awareness}
+    qualifications:
+      - Experience in a digital, clinical, or operational role, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Product manager
+    title: Product manager
+    band: "7"
+    responsibilities:
+      - Set the vision, roadmap, and success measures for a digital health product.
+      - Prioritise the team's work, balancing user needs, clinical safety, policy, technical constraints, and cost.
+      - Accept clinical risk for product changes with the clinical safety officer, and stop releases that are not safe.
+      - Work with clinical and operational leaders to make sure the product fits care pathways and is adopted.
+      - Make sure the product meets accessibility, information governance, and service standards.
+      - Measure the product's outcomes, including its benefits for patients and staff.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: medical-device-regulation, level: awareness}
+      - {skill: equality-diversity-inclusion, level: working}
+    qualifications:
+      - Substantial experience of product management or of a related digital role.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior product manager
+    title: Senior product manager
+    band: 8a
+    responsibilities:
+      - Lead a group of related products, or a single product that is complex, high risk, or sensitive, such as one used in emergency care.
+      - Build product strategy from evidence about patient needs, clinical practice, and health and care policy.
+      - Make sure the product meets medical device regulation where it applies.
+      - Manage the product's budget and make the case for investment with benefits for care.
+      - Coach and line manage product managers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: people-management, level: working}
+    qualifications:
+      - Extensive experience of managing digital products through their whole life cycle.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead product manager
+    title: Lead product manager
+    band: 8b
+    responsibilities:
+      - Lead a product portfolio or end-to-end service, such as all products that support one care pathway.
+      - Set product direction across several teams and make sure products work together for patients and staff.
+      - Work with clinical leads and the clinical safety officer to manage clinical risk across the portfolio.
+      - Hold the portfolio budget and report benefits to senior governance boards.
+      - Lead and develop product managers in the product area.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading products across multiple teams.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Head of product
+    title: Head of product
+    band: 8c
+    responsibilities:
+      - Set the organisation's product strategy, working with executive, clinical, and operational leaders.
+      - Set and raise standards for product management, including how products manage clinical risk and measure outcomes.
+      - Lead the product profession, including recruitment, career paths, and capability building.
+      - Decide investment priorities across products, using evidence of need, value, and equity.
+      - Represent the organisation's products with partners across the health and care system.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: medical-device-regulation, level: practitioner}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading product management across an organisation.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}

@@ -1,0 +1,134 @@
+id: frontend-developer
+summary: >
+  Frontend developers build the user interfaces of the organisation's digital
+  health services, such as patient-facing websites and apps, online forms, and
+  screens that clinicians and care staff use during care. They write accessible,
+  fast, and secure code that works for everyone, including people who are
+  unwell, anxious, or using older devices, and they work in multidisciplinary
+  product teams with designers, researchers, and clinicians.
+health_context:
+  - Many users are unwell, in pain, older, or disabled, so accessibility and plain, calm interfaces are essential rather than optional.
+  - A confusing or wrong display of clinical information, such as a medication dose, a result, or an appointment time, can harm patients, so frontend work follows the clinical risk management process.
+  - Interfaces often show confidential health information, so developers design for privacy, for example on shared devices and in busy clinical areas.
+  - Clinicians use interfaces under time pressure and with frequent interruptions, so screens must be quick, predictable, and hard to misread.
+  - Patients reach services on a wide range of devices and connections, so services use progressive enhancement and work on slow networks.
+levels:
+  - pcf_level: Apprentice frontend developer
+    title: Apprentice frontend developer
+    band: "4"
+    responsibilities:
+      - Learn the team's design system, languages, and tools through structured training and pairing.
+      - Build small interface components under close supervision, following the organisation's design system.
+      - Test components with assistive technologies, such as screen readers, with support from colleagues.
+      - Follow information governance and clinical safety procedures when working with test and live data.
+      - Work towards an apprenticeship or equivalent qualification.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: awareness}
+    qualifications:
+      - Enrolled on, or working towards, a software development apprenticeship or equivalent.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Knowledge is scored at the level the job needs once training is complete enough to do the work.
+
+  - pcf_level: Junior frontend developer
+    title: Junior frontend developer
+    band: "5"
+    responsibilities:
+      - Build and test interface features for patient-facing and staff-facing services, working from user stories with guidance.
+      - Use the organisation's design system and patterns so that services look and behave consistently.
+      - Fix accessibility defects and check pages against accessibility standards such as WCAG.
+      - Make sure clinical information, such as dates, doses, and results, is displayed exactly as specified.
+      - Contribute evidence to clinical safety cases, such as test results and screenshots of changes.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: clinical-safety, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: equality-diversity-inclusion, level: awareness}
+    qualifications:
+      - A degree in computing or a related subject, a completed apprenticeship, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Frontend developer
+    title: Frontend developer
+    band: "6"
+    responsibilities:
+      - Design and build accessible, responsive interfaces for health services independently, choosing suitable approaches.
+      - Work with designers and user researchers to test prototypes with patients, clinicians, and care staff.
+      - Build interfaces that call health data APIs, such as HL7 FHIR services, and handle errors and missing data safely.
+      - Take part in hazard workshops and build safety controls into the interface, such as confirmation steps and clear warnings.
+      - Protect confidential information in the browser, for example by managing sessions and caching carefully on shared devices.
+      - Review code and mentor junior and apprentice frontend developers.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: awareness}
+      - {skill: equality-diversity-inclusion, level: working}
+    qualifications:
+      - A degree in computing or a related subject, or equivalent experience.
+      - Experience of building and supporting accessible production web services.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior frontend developer
+    title: Senior frontend developer
+    band: "7"
+    responsibilities:
+      - Lead the frontend design and delivery of significant features, such as booking, results, or clinical workflow screens.
+      - Set and maintain frontend standards for the team, including accessibility, performance, security, and testing.
+      - Contribute components and patterns to the organisation's design system and make sure they are safe and accessible.
+      - Work with clinical safety officers to make sure interface hazards are identified, controlled, and tested.
+      - Make sure services work well on slow connections, older devices, and assistive technologies.
+      - Coach and develop frontend developers in the team.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: medical-device-regulation, level: awareness}
+    qualifications:
+      - Substantial experience of designing, building, and supporting accessible production web services, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 4, knowledge: 7, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead frontend developer
+    title: Lead frontend developer
+    band: 8b
+    responsibilities:
+      - Lead frontend engineering across a group of teams or a major patient-facing service.
+      - Own the technical direction of the organisation's design system and frontend libraries.
+      - Make sure interfaces across services meet accessibility standards and are assured for clinical safety.
+      - Work with architects, designers, and clinical leads to shape product roadmaps and frontend technology choices.
+      - Lead the frontend community of practice and line manage or lead frontend developers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading frontend engineering for complex, accessible services.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Head of frontend development
+    title: Head of frontend development
+    band: 8c
+    responsibilities:
+      - Set the frontend strategy, standards, and practices for all of the organisation's digital services.
+      - Be accountable for the accessibility and usability of the organisation's interfaces for patients and staff.
+      - Advise senior leaders on frontend technology, design system investment, and the risks of poor interfaces to care.
+      - Represent the organisation in cross-organisation design system and accessibility communities.
+      - Lead and develop frontend developers across the organisation, including recruitment and career paths.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: equality-diversity-inclusion, level: expert}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading frontend development across multiple teams or organisations.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

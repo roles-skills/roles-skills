@@ -1,0 +1,102 @@
+id: category-manager
+summary: >
+  Category managers plan and manage a category of the organisation's
+  spending, such as software and cloud, technology services, devices, or
+  clinical systems, over several years. They pool demand, understand the
+  supply market, shape requirements with digital and clinical leaders, and
+  plan procurements and renewals so that the organisation gets value for
+  money, avoids lock-in, and keeps its services safe and running.
+health_context:
+  - Technology is one of the organisation's largest and fastest-growing areas of spend, and much of it is subscriptions that renew every year.
+  - Clinical systems are hard to replace, so category plans start early, test the market, and plan for interoperability and data portability to keep future competition possible.
+  - Cloud and software contracts must meet security, data protection, and data residency requirements for health data.
+  - Public procurement rules apply, and many categories are bought through public sector frameworks, so category managers choose the right route for each need.
+  - Category strategies include social value and carbon reduction, such as device reuse and greener data centres.
+levels:
+  - title: Category manager (digital and technology)
+    band: "7"
+    summary: >
+      Manages a category of digital and technology spend, such as software,
+      cloud, devices, or technology services, with a category strategy agreed
+      with digital leaders.
+    responsibilities:
+      - Write and deliver the category strategy for digital and technology spend, with budget holders and technical leads.
+      - Analyse spend, contracts, licences, and renewals across the category, and plan the pipeline of procurements.
+      - Lead the most complex procurements in the category, such as cloud platforms and clinical systems.
+      - Analyse supply markets and lead early market engagement.
+      - Negotiate commercial models, such as enterprise licences and consumption-based pricing, and track savings and value.
+      - Make sure contracts include interoperability, data ownership, exit, and data return terms that avoid lock-in.
+      - Report category performance, risks, and savings to the head of procurement and digital leaders.
+    skills:
+      - {skill: proc-category-management, level: practitioner}
+      - {skill: proc-technology-procurement, level: practitioner}
+      - {skill: proc-market-analysis, level: practitioner}
+      - {skill: proc-negotiation, level: practitioner}
+      - {skill: proc-procurement-process, level: practitioner}
+      - {skill: proc-procurement-law-and-policy, level: practitioner}
+      - {skill: pcf:commercial-management, level: practitioner}
+      - {skill: pcf:creating-value-for-money, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: information-governance, level: working}
+    qualifications:
+      - A recognised procurement professional qualification at advanced level, or equivalent experience.
+      - Substantial experience of buying digital and technology services.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 2, information-resources: 3, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 4 because the job sets how a major category of the organisation's spending is bought; research is level 2 for regular market analysis.
+
+  - title: Senior category manager
+    band: 8a
+    summary: >
+      Manages several categories, or the organisation's largest and riskiest
+      category, and leads collaborative buying with other organisations.
+    responsibilities:
+      - Lead category strategies for several categories, or for strategic technology and clinical systems.
+      - Lead high-value, high-risk procurements and negotiations, including strategic platforms and enterprise agreements.
+      - Lead collaborative procurements with other health and care organisations.
+      - Advise digital and clinical leaders on the commercial risks and costs of technology choices.
+      - Set social value and sustainability goals for the categories you lead.
+      - Line manage and develop category managers and procurement officers.
+    skills:
+      - {skill: proc-category-management, level: expert}
+      - {skill: proc-technology-procurement, level: expert}
+      - {skill: proc-market-analysis, level: practitioner}
+      - {skill: proc-negotiation, level: expert}
+      - {skill: proc-social-value, level: practitioner}
+      - {skill: proc-procurement-law-and-policy, level: practitioner}
+      - {skill: pcf:commercial-management, level: practitioner}
+      - {skill: pcf:creating-value-for-money, level: expert}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - A recognised procurement professional qualification at advanced level, or equivalent experience.
+      - Extensive experience of category management and complex technology procurement.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 4, people: 3, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - title: Head of category
+    band: 8b
+    summary: >
+      Leads category management across the organisation's spending, setting
+      the category approach and managing the category team.
+    responsibilities:
+      - Set the category management approach and the pipeline of procurements across the organisation.
+      - Lead and manage category managers and their teams.
+      - Make sure category strategies support the organisation's digital, clinical, and financial plans.
+      - Report savings, value for money, social value, and commercial risks to executive committees.
+      - Lead relationships with public sector buying organisations and framework providers.
+      - Hold the budget for the category team.
+    skills:
+      - {skill: proc-category-management, level: expert}
+      - {skill: proc-technology-procurement, level: expert}
+      - {skill: proc-negotiation, level: expert}
+      - {skill: proc-procurement-law-and-policy, level: expert}
+      - {skill: proc-social-value, level: practitioner}
+      - {skill: pcf:commercial-management, level: expert}
+      - {skill: pcf:creating-value-for-money, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: practitioner}
+    qualifications:
+      - A recognised procurement professional qualification at advanced level, or a master's degree in a related subject, or equivalent experience.
+      - Extensive experience of leading category teams.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 5, people: 4, information-resources: 3, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 5 because the job sets how spending is bought across several services.

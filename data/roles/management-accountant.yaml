@@ -1,0 +1,139 @@
+id: management-accountant
+summary: >
+  Management accountants give managers the financial information and advice
+  they need to plan, control spending, and make good decisions. They set and
+  monitor budgets, forecast spending, cost services, and build the financial
+  case for investment. In a digital health care organisation they work closely
+  with digital programmes and product teams, where getting capital and revenue,
+  whole-life costs, and value for money right is central to good decisions.
+health_context:
+  - Digital programmes are often funded from a mix of capital and revenue, ring-fenced, or time-limited funding, each with its own rules on what it can be spent on.
+  - The move from owned systems to cloud services and subscriptions shifts costs from capital to revenue, which affects budgets, business cases, and funding bids.
+  - Investment decisions must show value for money for public funds and benefits for patients, clinicians, and care staff, not only financial savings.
+  - Contracts for software, hosting, and support often run for several years, so forecasts must include running costs long after go-live.
+  - Budget holders in digital and clinical teams may not be finance specialists, so clear, practical advice is a large part of the job.
+levels:
+  - title: Trainee management accountant
+    band: "5"
+    summary: Trainee management accountants, sometimes called finance analysts, produce budget reports and analysis for a set of budget holders while working towards a recognised accountancy qualification.
+    responsibilities:
+      - Prepare monthly budget reports for a group of budget holders and explain the main variances.
+      - Post month-end journals, accruals, and corrections to make sure reports are accurate.
+      - Check that spending is coded correctly between cost centres, projects, and capital and revenue.
+      - Collect forecast information and update forecasts with budget holders.
+      - Build cost information for business cases under guidance.
+      - Work towards a recognised accountancy qualification.
+    skills:
+      - {skill: fin-management-accounting, level: working}
+      - {skill: fin-financial-planning-and-forecasting, level: working}
+      - {skill: fin-business-cases, level: awareness}
+      - {skill: fin-public-sector-finance, level: working}
+      - {skill: fin-financial-systems, level: working}
+      - {skill: fin-financial-transactions, level: working}
+      - {skill: pcf:financial-management, level: awareness}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: health-care-context, level: awareness}
+    qualifications:
+      - A degree or intermediate accounting qualification, and working towards a recognised accountancy qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 2, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Knowledge is scored at the level the job needs once training is far enough along to do the work. Financial resources is level 3 for monitoring delegated budgets.
+
+  - title: Management accountant
+    band: "6"
+    summary: Management accountants are qualified accountants who run budget setting, monitoring, and forecasting for a directorate or group of services, and advise budget holders on their finances.
+    responsibilities:
+      - Lead the monthly reporting and forecasting cycle for a directorate or group of services.
+      - Advise budget holders on spending, risks, and actions to stay within budget.
+      - Prepare annual budgets, including staff costs, contracts, and licences.
+      - Apply capital and revenue rules to digital spending, such as software development, licences, and hardware.
+      - Build financial models for business cases and options appraisals.
+      - Supervise and develop trainee accountants.
+    skills:
+      - {skill: fin-management-accounting, level: practitioner}
+      - {skill: fin-financial-planning-and-forecasting, level: practitioner}
+      - {skill: fin-business-cases, level: working}
+      - {skill: fin-public-sector-finance, level: working}
+      - {skill: fin-financial-systems, level: working}
+      - {skill: pcf:financial-management, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A recognised accountancy qualification, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 3, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - title: Senior management accountant
+    band: "7"
+    summary: Senior management accountants lead the financial management of a large directorate or major digital programme, including complex forecasting, costing, and business cases.
+    responsibilities:
+      - Lead budget setting and forecasting for a large directorate or major digital programme.
+      - Model scenarios, such as funding changes, delivery delays, and the shift from capital to cloud subscription costs.
+      - Lead the financial case for significant investments, including whole-life costs, benefits, and value for money.
+      - Build service and product costing, such as the full cost of running a digital service.
+      - Present financial performance and risks to senior managers and programme boards.
+      - Manage a small team of accountants and trainees.
+    skills:
+      - {skill: fin-management-accounting, level: practitioner}
+      - {skill: fin-financial-planning-and-forecasting, level: practitioner}
+      - {skill: fin-business-cases, level: practitioner}
+      - {skill: fin-public-sector-finance, level: practitioner}
+      - {skill: pcf:financial-management-for-digital-data-and-technology, level: working}
+      - {skill: pcf:creating-value-for-money, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: people-management, level: working}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A recognised accountancy qualification, with substantial post-qualification experience, or equivalent.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 4, people: 3, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 4 because the job sets the budget for a directorate or programme with its budget holders.
+
+  - title: Finance business partner
+    band: 8a
+    summary: Finance business partners work as part of a directorate's leadership, often digital, data, and technology, turning financial information into decisions and making sure investment delivers value for money.
+    responsibilities:
+      - Act as the senior finance adviser to a directorate's leadership team, such as digital, data, and technology.
+      - Lead the directorate's financial plan, linking spending to priorities, workforce, and investment.
+      - Challenge and support leaders on value for money, including supplier spending, licence use, and cloud costs.
+      - Lead business cases for major digital investments and represent finance at investment boards.
+      - Make sure digital spending meets funding rules, spending controls, and capital and revenue limits.
+      - Line manage management accountants who support the directorate.
+    skills:
+      - {skill: fin-management-accounting, level: expert}
+      - {skill: fin-financial-planning-and-forecasting, level: practitioner}
+      - {skill: fin-business-cases, level: practitioner}
+      - {skill: fin-public-sector-finance, level: practitioner}
+      - {skill: pcf:financial-management-for-digital-data-and-technology, level: practitioner}
+      - {skill: pcf:creating-value-for-money, level: practitioner}
+      - {skill: pcf:commercial-management, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: health-care-context, level: practitioner}
+    qualifications:
+      - A recognised accountancy qualification, with extensive post-qualification experience, including business partnering.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 5, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 5 because the job sets budgets across several services in a directorate.
+
+  - title: Head of management accounts
+    band: 8b
+    summary: Heads of management accounts lead the organisation's budgeting, forecasting, and management reporting, and the team of business partners and accountants who deliver it.
+    responsibilities:
+      - Lead the organisation's annual budget setting and in-year forecasting.
+      - Design management reporting, costing, and performance information for the board and executive.
+      - Set business case and investment appraisal standards, including for digital investment.
+      - Advise directors on financial risks, savings plans, and the choices needed to stay within funding.
+      - Lead and develop the business partnering and management accounts teams.
+      - Improve budgeting and reporting tools, including self-service reporting for budget holders.
+    skills:
+      - {skill: fin-management-accounting, level: expert}
+      - {skill: fin-financial-planning-and-forecasting, level: expert}
+      - {skill: fin-business-cases, level: expert}
+      - {skill: fin-public-sector-finance, level: practitioner}
+      - {skill: fin-financial-systems, level: practitioner}
+      - {skill: pcf:financial-management-for-digital-data-and-technology, level: practitioner}
+      - {skill: pcf:creating-value-for-money, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+    qualifications:
+      - A recognised accountancy qualification, with extensive post-qualification experience, including leading a finance team.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 5, people: 4, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}

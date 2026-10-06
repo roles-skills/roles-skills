@@ -1,0 +1,95 @@
+id: data-analyst
+summary: >
+  Data analysts turn health and care data into information that helps
+  clinicians, managers, and planners make decisions. They prepare, link, and
+  analyse data from clinical, operational, and patient-reported sources, and
+  present it in reports, dashboards, and briefings. They make sure their
+  analysis is accurate, reproducible, and handles confidential patient data
+  safely.
+health_context:
+  - Much of the data describes individual patients, so analysts work with pseudonymised data where they can and check outputs for disclosure risk before release.
+  - Health data is recorded with clinical terminologies and classifications such as SNOMED CT and ICD, so analysts need to know how codes are used and where they can mislead.
+  - Data quality varies between care settings and systems, and gaps often affect some patient groups more than others, so analysts check for bias before drawing conclusions.
+  - Analysis can change how services are planned, funded, and delivered, so findings need clear caveats and must not overstate certainty.
+levels:
+  - pcf_level: Associate data analyst
+    title: Associate data analyst
+    band: "5"
+    responsibilities:
+      - Produce routine reports and dashboards on activity, waiting times, and service use, following agreed methods.
+      - Clean and prepare extracts from patient administration, clinical, and operational systems under supervision.
+      - Check outputs against data quality rules and report problems to the right data owner.
+      - Apply small number suppression and other disclosure rules before sharing results.
+      - Answer straightforward data requests from clinical and operational teams.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: data-quality, level: working}
+      - {skill: data-deidentification, level: awareness}
+      - {skill: clinical-terminology, level: awareness}
+    qualifications:
+      - A degree in a numerate subject, an analytics apprenticeship, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 4, research: 2, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Data analyst
+    title: Data analyst
+    band: "6"
+    responsibilities:
+      - Design and carry out analyses that answer questions from clinical, operational, and planning teams.
+      - Link patient-level data from different sources safely, using pseudonymised identifiers and agreed linkage methods.
+      - Write reproducible analysis code and document methods, assumptions, and data sources.
+      - Explain findings and their limits to clinicians and managers in plain language.
+      - Check analysis for bias across patient groups, such as by age, sex, ethnicity, and deprivation.
+      - Support associate analysts and review their work.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: data-quality, level: working}
+      - {skill: data-deidentification, level: working}
+      - {skill: clinical-terminology, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+    qualifications:
+      - A degree in a numerate subject, or equivalent experience.
+      - Experience of analysing and presenting complex data.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior data analyst
+    title: Senior data analyst
+    band: "7"
+    responsibilities:
+      - Lead analysis for a service area, such as urgent care, cancer, or mental health, agreeing priorities with its leaders.
+      - Set methods and quality assurance for the team's analysis, including peer review of code and outputs.
+      - Lead complex linkage projects across care settings and agree their information governance basis.
+      - Present findings to senior clinical and management groups and advise on what they mean for services.
+      - Work with data engineers and data owners to fix the root causes of poor data quality.
+      - Coach and develop analysts in the team.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-quality, level: practitioner}
+      - {skill: data-deidentification, level: practitioner}
+      - {skill: clinical-terminology, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+    qualifications:
+      - Substantial experience of leading data analysis, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Principal data analyst
+    title: Principal data analyst
+    band: 8b
+    responsibilities:
+      - Set the organisation's standards for data analysis, quality assurance, and reproducible analytical practice.
+      - Advise executive and clinical leaders on the evidence behind major decisions about services and investment.
+      - Lead the analytical community, including its training, tools, and career development.
+      - Shape data sharing and linkage arrangements with health and care partners.
+      - Line manage senior analysts and make sure the team has the capacity and skills it needs.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-quality, level: expert}
+      - {skill: data-deidentification, level: practitioner}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading data analysis across an organisation.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

@@ -1,0 +1,55 @@
+id: test-manager
+summary: >
+  Test managers plan, lead, and assure testing for the organisation's digital
+  health services and programmes. They decide how much testing is needed and
+  of what kind, manage test teams, environments, and suppliers, and tell
+  decision makers clearly what risks remain before a service goes live. In
+  health care this includes making sure testing supports the clinical safety
+  case and any regulatory requirements.
+health_context:
+  - Go-live decisions for clinical systems depend on test evidence and residual risks, which test managers report to product owners, clinical safety officers, and programme boards.
+  - Large changes, such as electronic patient record upgrades, need testing across many departments, systems, and suppliers, and often clinical staff time for acceptance testing.
+  - Testing must fit around clinical services, such as planning cutover tests and dress rehearsals to keep disruption to patient care low.
+  - Regulated software and safety-critical changes need testing that meets standards such as IEC 62304 and the organisation's clinical risk management process.
+levels:
+  - pcf_level: Test manager
+    title: Test manager
+    band: "7"
+    responsibilities:
+      - Lead test planning for a product or programme, covering environments, data, tools, resources, timelines, and clinical risk.
+      - Plan user acceptance testing with clinical and operational leads, and secure clinicians' time to take part.
+      - Manage a team of test analysts and engineers, including supplier testers.
+      - Make sure testing meets clinical safety, information governance, and regulatory requirements.
+      - Report test progress, defects, and residual risks to product owners, clinical safety officers, and programme boards.
+      - Improve test processes and agree testing standards with delivery teams.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: medical-device-regulation, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Substantial experience of test management for complex digital services, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 4, planning: 4, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 2, people: 3, information-resources: 4, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Head of test
+    title: Head of test
+    band: 8c
+    responsibilities:
+      - Set the organisation's testing strategy, standards, and frameworks for digital health services.
+      - Make sure the organisation's testing meets clinical safety, medical device, and other regulatory requirements.
+      - Choose testing tools and technologies, and manage the testing budget and supplier contracts.
+      - Advise senior leaders on quality and safety risks before major releases and go-live decisions.
+      - Lead and develop test managers, analysts, and engineers, and build the organisation's testing capability.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: medical-device-regulation, level: practitioner}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: practitioner}
+      - {skill: pcf:commercial-management, level: working}
+    qualifications:
+      - Extensive experience of leading testing across an organisation.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 4, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

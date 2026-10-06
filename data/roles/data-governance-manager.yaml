@@ -1,0 +1,84 @@
+id: data-governance-manager
+summary: >
+  Data governance managers make sure the organisation's health and care data
+  is well managed, trustworthy, and used safely and lawfully. They set up and
+  run the frameworks, policies, and standards for data ownership, quality,
+  metadata, and data sharing, and work with data owners, information governance
+  colleagues, and clinical leads so data can be used with confidence for care,
+  planning, and research.
+health_context:
+  - Health data is highly sensitive personal data, so data governance works closely with information governance, data protection, and the duty of confidentiality.
+  - Data is shared with many health and care partners for direct care, planning, and research, and each use needs a clear lawful basis, agreements, and controls.
+  - Clinical data standards, such as SNOMED CT, ICD, and HL7 FHIR, and agreed data definitions are central to making data consistent across systems and organisations.
+  - Poor data quality can lead directly to patient harm, such as missed allergies or wrong patient matching, as well as to wrong decisions about services.
+  - Patients and the public expect openness about how their data is used, so governance includes transparency and respect for patients' choices about secondary use.
+levels:
+  - pcf_level: Data governance manager
+    title: Data governance manager
+    band: "7"
+    responsibilities:
+      - Run the organisation's data governance framework, including data ownership, stewardship, and decision-making groups.
+      - Maintain the data catalogue, business glossary, and data standards, including agreed clinical and operational definitions.
+      - Monitor data quality for key data sets and work with data owners to fix root causes.
+      - Work with information governance colleagues on data sharing agreements and data protection impact assessments for new data uses.
+      - Record and manage data risks and issues, and escalate them to the right owner.
+      - Improve data literacy among staff who create and use health data.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-quality, level: practitioner}
+      - {skill: clinical-terminology, level: working}
+      - {skill: health-data-interoperability, level: awareness}
+      - {skill: data-deidentification, level: working}
+    qualifications:
+      - A degree or professional qualification in data, information management, or a related subject, or equivalent experience.
+      - Experience of data governance or data management in a complex organisation.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 4, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 1, people: 2, information-resources: 5, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF suggests HEO to G7 for this level, which maps to Band 6. This reference places it at Band 7 because, in a health care organisation, the role usually governs confidential patient data across the whole organisation and develops data policy that affects several services.
+
+  - pcf_level: Lead data governance manager
+    title: Lead data governance manager
+    band: 8b
+    responsibilities:
+      - Lead the design and running of data governance frameworks, policies, and standards across the organisation.
+      - Coordinate data owners and stewards to manage data risks, accept or resolve them, and report them to senior committees.
+      - Lead wider data management work, such as master data for patients, staff, and sites, and reference data.
+      - Agree data governance arrangements for data shared with health and care partners and researchers.
+      - Advise programmes on how new systems and data uses meet data standards and governance rules.
+      - Line manage data governance staff.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: data-quality, level: practitioner}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: data-deidentification, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading data governance or data management.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 4, information-resources: 6, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Head of data governance
+    title: Head of data governance
+    band: 8c
+    responsibilities:
+      - Work with the chief data officer and the executive owner of information risk to set the strategy for data governance and use.
+      - Set data governance policies and standards and monitor how well the organisation follows them.
+      - Be accountable for managing the organisation's data risks, and report on them to the board.
+      - Represent the organisation on data governance with health and care partners, regulators, and patient groups.
+      - Promote openness with patients and the public about how their data is used.
+      - Lead and develop the data governance function.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: information-governance, level: expert}
+      - {skill: data-quality, level: expert}
+      - {skill: clinical-terminology, level: practitioner}
+      - {skill: data-deidentification, level: expert}
+      - {skill: risk-management, level: expert}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading data governance across an organisation.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 6, financial-resources: 3, people: 4, information-resources: 6, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

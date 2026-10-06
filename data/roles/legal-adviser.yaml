@@ -1,0 +1,93 @@
+id: legal-adviser
+summary: >
+  Legal advisers are qualified lawyers who give the organisation practical,
+  accurate legal advice and help it manage legal risk. They draft and
+  negotiate contracts, advise on data, procurement, employment, and health
+  and care law, and manage disputes and claims. In a digital health care
+  organisation much of their work is about technology: software licences,
+  cloud and data processing agreements, data sharing, intellectual property in
+  software and data, and the regulation of digital health products.
+health_context:
+  - Technology contracts must protect patient data, keep clinical services running, and make sure the organisation can leave a supplier safely.
+  - Using health data for direct care, planning, research, and AI raises questions under data protection law and the duty of confidentiality that need careful advice.
+  - Buying technology with public money must follow public procurement rules, and suppliers can challenge award decisions.
+  - The organisation may build software or data products, which raises questions of intellectual property, open source, and commercial use.
+  - Claims may involve harm to patients, including where digital services played a part, so advisers work with clinical safety, risk, and indemnity colleagues.
+levels:
+  - title: Legal adviser
+    band: "7"
+    summary: Legal advisers are qualified lawyers who give independent advice and handle their own caseload in one or more areas, such as technology contracts, information law, procurement, or employment.
+    responsibilities:
+      - Draft, review, and negotiate agreements, such as software licences, cloud services, and data processing agreements.
+      - Give clear, practical legal advice to managers and teams in your areas of practice.
+      - Advise on data sharing agreements, data protection impact assessments, and information requests.
+      - Advise on procurement processes and contract changes for technology and services.
+      - Manage a caseload of disputes or claims, instructing external lawyers where needed.
+      - Supervise and develop paralegals and legal assistants.
+    skills:
+      - {skill: legal-legal-advice, level: practitioner}
+      - {skill: legal-contract-drafting-and-review, level: practitioner}
+      - {skill: legal-legal-research, level: practitioner}
+      - {skill: legal-information-and-data-law, level: practitioner}
+      - {skill: legal-procurement-law, level: working}
+      - {skill: legal-litigation-and-disputes, level: working}
+      - {skill: legal-intellectual-property, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A qualified lawyer admitted to practise, or equivalent qualification and experience.
+      - Experience of commercial, technology, information, or public law.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 2, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Knowledge is level 7 because the job needs a professional legal qualification and practice experience. Financial resources is level 2 because legal advisers rarely hold budgets. Emotional effort is level 2 because claims and employment cases often involve distressing material.
+
+  - title: Senior legal adviser
+    band: 8a
+    summary: Senior legal advisers are experienced lawyers who lead on complex, high-value, or high-risk matters in a specialist area, such as technology and data, information law, procurement, employment, or claims.
+    responsibilities:
+      - Lead on complex agreements, such as major system implementations, data platforms, and partnerships.
+      - Advise senior managers on novel questions, such as AI, data use for research, and software as a medical device.
+      - Advise on employment law for workforce change, contractors, and employment disputes.
+      - Lead on significant disputes, procurement challenges, and liaison with clinical negligence schemes.
+      - Write templates, playbooks, and guidance for the organisation.
+      - Manage and develop legal advisers and paralegals.
+    skills:
+      - {skill: legal-legal-advice, level: practitioner}
+      - {skill: legal-contract-drafting-and-review, level: expert}
+      - {skill: legal-information-and-data-law, level: practitioner}
+      - {skill: legal-procurement-law, level: practitioner}
+      - {skill: legal-litigation-and-disputes, level: practitioner}
+      - {skill: legal-intellectual-property, level: practitioner}
+      - {skill: legal-employment-law, level: working}
+      - {skill: legal-health-and-care-law, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: people-management, level: working}
+    qualifications:
+      - A qualified lawyer admitted to practise, with substantial post-qualification experience in a relevant specialism.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Financial resources is level 2 because the job does not hold a budget, though it controls spending on external lawyers for its matters.
+
+  - title: Principal legal adviser
+    band: 8b
+    summary: Principal legal advisers are the organisation's leading experts in one or more areas of law, such as technology and data or information law, and lead its legal work on the most significant matters.
+    responsibilities:
+      - Lead the legal work on the organisation's most significant programmes, contracts, and disputes.
+      - Give definitive advice on novel and high-risk matters, such as large-scale data sharing, AI, and commercial use of the organisation's software and data.
+      - Set the organisation's legal positions and standards in your specialist areas.
+      - Advise directors and board committees on legal risk.
+      - Represent the organisation with regulators, partners, and suppliers on legal matters.
+      - Lead a specialist legal team and develop its capability.
+    skills:
+      - {skill: legal-legal-advice, level: expert}
+      - {skill: legal-contract-drafting-and-review, level: expert}
+      - {skill: legal-information-and-data-law, level: expert}
+      - {skill: legal-intellectual-property, level: practitioner}
+      - {skill: legal-procurement-law, level: practitioner}
+      - {skill: legal-litigation-and-disputes, level: practitioner}
+      - {skill: legal-health-and-care-law, level: practitioner}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - A qualified lawyer admitted to practise, with extensive post-qualification experience and recognised expertise in a specialism.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 2, people: 3, information-resources: 5, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Knowledge is level 8 because the job needs expert legal knowledge across law and technology, built over a long period.

@@ -1,0 +1,61 @@
+# Data and testing skills original to this reference: health-specific data
+# skills that the UK GDaD PCF and the shared skills do not cover.
+#
+# Each skill has four proficiency levels, matching the UK GDaD PCF scale:
+# awareness (1), working (2), practitioner (3), expert (4).
+# esco lists the closest ESCO v1.2.1 skills, with the strength of the match:
+# exact, close, broad (ESCO skill is wider), or narrow (ESCO skill is narrower).
+
+skills:
+  - id: data-ai-assurance
+    name: Safe and fair AI in health care
+    description: Making sure that statistical, machine learning, and AI models used in health and care are safe, fair, explainable, and monitored, including checking for bias across patient groups and meeting medical device and AI regulation.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/e465a154-93f7-4973-9ce1-31659fe16dd2, label: principles of artificial intelligence, match: broad}
+      - {uri: http://data.europa.eu/esco/skill/e9575f7f-053a-439e-8074-f93df3334e92, label: data ethics, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain how a model can harm patients, for example through bias, drift, or over-reliance on its output
+        - explain why models need validating on the population they will be used with
+      working: |
+        You can:
+        - measure model performance for different patient groups and report any differences
+        - document a model's intended use, training data, and known limits, for example in a model card
+        - contribute evidence about a model to a clinical safety case
+      practitioner: |
+        You can:
+        - plan the validation, bias assessment, and live monitoring of a model with clinical colleagues
+        - decide when a model needs retraining, restricting, or withdrawing
+        - advise teams on when a model may be regulated as a medical device and what evidence it needs
+      expert: |
+        You can:
+        - set the organisation's standards for assuring and monitoring AI in care
+        - lead the assurance of high-risk models before and after deployment
+        - represent the organisation with regulators and partners on safe and fair AI
+
+  - id: data-deidentification
+    name: Pseudonymisation and disclosure control
+    description: Protecting patient confidentiality when data is linked, analysed, shared, or published, using pseudonymisation, anonymisation, small number suppression, and other statistical disclosure control methods.
+    esco:
+      - {uri: http://data.europa.eu/esco/skill/71717c33-dd63-4acf-b052-a5fd5d9fc490, label: ensure information privacy, match: close}
+      - {uri: http://data.europa.eu/esco/skill/33a82b83-c838-4889-ae62-fae1317481eb, label: protect personal data and privacy, match: broad}
+    levels:
+      awareness: |
+        You can:
+        - explain the difference between identifiable, pseudonymised, and anonymised data
+        - follow the organisation's rules for suppressing small numbers in outputs
+      working: |
+        You can:
+        - work with pseudonymised data and apply disclosure checks before releasing outputs
+        - recognise when linked or detailed data could identify a patient
+      practitioner: |
+        You can:
+        - design pseudonymisation and linkage methods that keep identifiers separate from analysis data
+        - assess the re-identification risk of a data set or publication and choose suitable controls
+        - advise teams on safe settings, such as trusted research environments
+      expert: |
+        You can:
+        - set the organisation's standards for de-identification and disclosure control
+        - assure high-risk data releases and linkage projects
+        - lead work with partners on safe data access for research and planning

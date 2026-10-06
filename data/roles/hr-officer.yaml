@@ -1,0 +1,127 @@
+id: hr-officer
+summary: >
+  HR officers and advisers run the organisation's core people services, from
+  contracts, starters, and changes to advice on people policies and support
+  for managers with employee relations cases. They keep employment records
+  accurate and confidential, help managers treat staff fairly and lawfully,
+  and support the people who run digital and clinical services that never
+  close.
+health_context:
+  - Many staff work in services that run 24 hours a day, so HR teams advise on shift patterns, on-call and standby arrangements, rest breaks, and working time.
+  - Some cases are linked to patient safety incidents, safeguarding concerns, or professional registration, so HR staff work closely with clinical leads and follow the right processes for each.
+  - Digital, data, and technology staff are in short supply, so fair and quick HR processes, from contracts to flexible working requests, help the organisation keep the people it has.
+  - HR records are highly confidential personal data, and some include health information, so HR staff apply information governance rules every day.
+  - Staff in this reference are paid on a banded pay structure with job evaluation, so HR staff explain how bands, increments, and allowances work.
+levels:
+  - title: HR assistant
+    band: "3"
+    summary: >
+      Provides accurate administrative support across the employment life
+      cycle, working to set procedures and service standards with an HR officer
+      or adviser close by.
+    responsibilities:
+      - Prepare contracts, offer letters, and variation letters from standard templates.
+      - Enter starters, changes, and leavers in the HR and payroll system before payroll deadlines.
+      - Answer routine questions from staff and managers by phone, email, and the HR helpdesk.
+      - Take notes at formal meetings, such as attendance and grievance meetings, and keep case files in order.
+      - Keep personal files and records confidential, accurate, and in line with retention rules.
+    skills:
+      - {skill: hr-hr-administration, level: working}
+      - {skill: hr-employment-policy, level: awareness}
+      - {skill: hr-employee-relations, level: awareness}
+      - {skill: hr-workforce-information, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: pcf:communicating-information, level: awareness}
+      - {skill: equality-diversity-inclusion, level: awareness}
+    qualifications:
+      - A level 2 or 3 qualification, a business administration apprenticeship, or equivalent experience.
+      - Experience of accurate administrative work with confidential information.
+    job_evaluation: {communication: 3, knowledge: 3, analytical: 2, planning: 2, physical-skills: 3, patient-care: 1, policy: 1, financial-resources: 1, people: 2, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: People is level 2 because the job gives basic HR information and advice to staff and managers; emotional effort is level 2 for indirect exposure to distressing case material when taking notes and filing case records.
+
+  - title: HR officer
+    band: "4"
+    summary: >
+      Runs HR administration for a group of services and gives first-line
+      advice to managers on people policies, checking the work of HR
+      assistants.
+    responsibilities:
+      - Run starters, changes, and leavers for a group of services, solving unusual or complex cases.
+      - Advise managers on routine policy questions, such as annual leave, flexible working, and attendance triggers.
+      - Check the work of HR assistants and train them on processes and the HR system.
+      - Produce standard workforce reports, such as absence and turnover, for managers.
+      - Support HR advisers with employee relations cases by preparing papers and arranging hearings.
+      - Suggest improvements to HR processes, templates, and self-service guidance.
+    skills:
+      - {skill: hr-hr-administration, level: practitioner}
+      - {skill: hr-employment-policy, level: working}
+      - {skill: hr-employee-relations, level: working}
+      - {skill: hr-workforce-information, level: working}
+      - {skill: hr-reward-and-job-evaluation, level: awareness}
+      - {skill: information-governance, level: working}
+      - {skill: pcf:communicating-information, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+    qualifications:
+      - A level 3 HR or business qualification, or equivalent experience.
+      - Experience of HR administration, including HR and payroll systems.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 3, research: 1, freedom-to-act: 2, physical-effort: 2, mental-effort: 2, emotional-effort: 2, working-conditions: 2}
+
+  - title: HR adviser
+    band: "5"
+    summary: >
+      Gives professional HR advice to managers in a group of services and
+      manages a caseload of employee relations cases, working to defined
+      policies with a senior HR adviser available for complex cases.
+    responsibilities:
+      - Advise managers on conduct, capability, attendance, grievance, and dignity at work cases, from first concern to outcome.
+      - Support formal hearings, advising the panel on policy, process, and fair outcomes.
+      - Advise on reasonable adjustments, flexible working, and occupational health referrals.
+      - Advise managers on working time, on-call, and rota rules for services that run 24 hours a day.
+      - Support small organisational changes, such as changes to working patterns, including consultation with staff.
+      - Train managers in people policies and how to apply them.
+    skills:
+      - {skill: hr-employee-relations, level: practitioner}
+      - {skill: hr-employment-policy, level: practitioner}
+      - {skill: hr-organisational-change, level: working}
+      - {skill: hr-hr-administration, level: working}
+      - {skill: hr-workforce-information, level: working}
+      - {skill: hr-reward-and-job-evaluation, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: health-safety-wellbeing, level: working}
+      - {skill: health-care-context, level: awareness}
+    qualifications:
+      - A recognised HR professional qualification at intermediate level, or equivalent experience.
+      - Experience of advising managers on employee relations cases.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 3, information-resources: 3, research: 1, freedom-to-act: 3, physical-effort: 1, mental-effort: 3, emotional-effort: 3, working-conditions: 2}
+    job_evaluation_notes: People is level 3 because the job gives core HR advice as its main duty; emotional effort is level 3 because the job frequently deals with distressing employee relations cases, such as allegations, ill health, and staff in crisis.
+
+  - title: Senior HR adviser
+    band: "6"
+    summary: >
+      Leads HR advice for a directorate, handles the most complex and sensitive
+      cases, and supports HR advisers, working with broad freedom within the
+      organisation's people policies.
+    responsibilities:
+      - Manage complex and high-risk employee relations cases, including those linked to patient safety incidents or safeguarding.
+      - Lead or commission investigations and coach managers who investigate.
+      - Lead organisational change for a service, such as a restructure or a new on-call rota, including formal consultation.
+      - Advise on banding for new and changed roles and take part in job evaluation panels.
+      - Analyse case and workforce data for the directorate and recommend action on trends.
+      - Draft and review people policies, working with staff representatives.
+      - Supervise and develop HR advisers.
+    skills:
+      - {skill: hr-employee-relations, level: practitioner}
+      - {skill: hr-employment-policy, level: practitioner}
+      - {skill: hr-organisational-change, level: practitioner}
+      - {skill: hr-reward-and-job-evaluation, level: working}
+      - {skill: hr-workforce-information, level: working}
+      - {skill: pcf:stakeholder-relationship-management, level: practitioner}
+      - {skill: people-management, level: working}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: health-care-context, level: working}
+    qualifications:
+      - A recognised HR professional qualification at intermediate or advanced level, or equivalent experience.
+      - Substantial experience of managing complex employee relations cases and organisational change.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 3, information-resources: 3, research: 1, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 3, working-conditions: 2}
+    job_evaluation_notes: Emotional effort is level 3 for frequent exposure to distressing casework; people is level 3 for core HR advice and supervising HR advisers.

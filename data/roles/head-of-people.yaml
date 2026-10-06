@@ -1,0 +1,102 @@
+id: head-of-people
+summary: >
+  The head of people and the people leadership team set the organisation's
+  people strategy and lead its HR, recruitment, learning, organisational
+  development, and workforce functions. They advise the board on culture,
+  workforce, and employment risk, and make sure the organisation can attract,
+  grow, and keep the people it needs to deliver safe digital health services.
+health_context:
+  - The organisation competes with other sectors for scarce digital, data, and technology talent, so people leaders balance pay rules and job evaluation with flexible working, career pathways, and a strong purpose.
+  - Services that run 24/7 depend on safe staffing, sustainable rotas, and staff wellbeing, which the board expects people leaders to monitor and improve.
+  - Culture affects patient safety, so people leaders link staff experience, speaking up, and inclusion to the quality of care.
+  - Workforce plans are made with partners across the health and care system, and staff may move between organisations when services change.
+  - Banded pay with job evaluation means new and changing digital roles must be evaluated consistently, and pay decisions must stand up to equal pay scrutiny.
+levels:
+  - title: Head of HR
+    band: 8c
+    summary: >
+      Leads a large part of the people function, such as HR operations,
+      employee relations, and business partnering, and sets its standards.
+      Also known as assistant director of people.
+    responsibilities:
+      - Lead HR operations, business partnering, and employee relations, managing several team leaders.
+      - Set people policies and the organisation's approach to employment law and risk.
+      - Lead partnership working and negotiations with staff representatives.
+      - Oversee the most serious cases, including those involving senior staff or legal claims.
+      - Lead workforce reporting to committees, including equality and pay gap reporting.
+      - Hold the budget for the HR services you lead and improve their value for money.
+    skills:
+      - {skill: hr-people-strategy, level: practitioner}
+      - {skill: hr-employment-policy, level: expert}
+      - {skill: hr-employee-relations, level: expert}
+      - {skill: hr-organisational-change, level: expert}
+      - {skill: hr-workforce-information, level: practitioner}
+      - {skill: hr-reward-and-job-evaluation, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: practitioner}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+    qualifications:
+      - A recognised HR professional qualification at advanced level, or a master's degree in HR or a related subject, or equivalent experience.
+      - Extensive experience of leading HR services at senior level.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 5, information-resources: 4, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 3, working-conditions: 2}
+    job_evaluation_notes: Communication is level 6 for negotiating highly contentious matters with staff representatives; emotional effort is level 3 for frequent exposure to serious employee relations cases.
+
+  - title: Deputy director of people
+    band: 8d
+    summary: >
+      Deputises for the director of people and leads several people functions,
+      such as workforce planning, learning, organisational development, and
+      reward, across the organisation.
+    responsibilities:
+      - Deputise for the director of people, including at board committees.
+      - Lead workforce planning, learning, organisational development, and reward across the organisation.
+      - Lead the digital, data, and technology workforce plan, using skills gap analysis to set priorities for recruitment, development, and retention.
+      - Lead the organisation's reward strategy, job evaluation, and equal pay assurance within the agreed pay framework.
+      - Lead culture, engagement, and inclusion programmes and measure their effect.
+      - Hold budgets for several people services and lead their improvement.
+    skills:
+      - {skill: hr-people-strategy, level: expert}
+      - {skill: hr-workforce-planning, level: expert}
+      - {skill: hr-organisational-development, level: expert}
+      - {skill: hr-reward-and-job-evaluation, level: expert}
+      - {skill: hr-skills-frameworks-and-career-pathways, level: practitioner}
+      - {skill: pcf:capability-building-for-digital-data-and-technology, level: practitioner}
+      - {skill: pcf:leadership-and-guidance, level: expert}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: expert}
+      - {skill: equality-diversity-inclusion, level: expert}
+    qualifications:
+      - A recognised HR professional qualification at advanced level, or a master's degree in HR or a related subject, or equivalent experience.
+      - Extensive experience of leading several people functions.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 4, people: 5, information-resources: 4, research: 1, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 3, working-conditions: 2}
+
+  - title: Director of people
+    band: "9"
+    summary: >
+      Is the executive lead for people, culture, and workforce, accountable to
+      the chief executive and the board for the people strategy and the whole
+      people function.
+    responsibilities:
+      - Set the organisation's people strategy and culture, and lead the people function.
+      - Advise the board on workforce, culture, employment risk, and the people impact of strategy.
+      - Lead the organisation's response to scarce digital and data skills, with the chief digital officer.
+      - Make sure the organisation meets its legal duties as an employer, including equality and health and safety at work.
+      - Represent the organisation on people matters with health and care partners, regulators, and staff representatives.
+      - Hold the people directorate budget and set workforce cost controls with the director of finance.
+    skills:
+      - {skill: hr-people-strategy, level: expert}
+      - {skill: hr-workforce-planning, level: expert}
+      - {skill: hr-organisational-development, level: expert}
+      - {skill: hr-employment-policy, level: expert}
+      - {skill: pcf:leadership-and-guidance, level: expert}
+      - {skill: pcf:stakeholder-relationship-management, level: expert}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: expert}
+      - {skill: governance-and-compliance, level: practitioner}
+      - {skill: health-care-context, level: expert}
+    qualifications:
+      - A recognised HR professional qualification at the highest level, or a master's degree in HR or a related subject, or equivalent experience.
+      - Extensive experience of leading a people function at executive level.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 6, financial-resources: 5, people: 6, information-resources: 4, research: 1, freedom-to-act: 6, physical-effort: 1, mental-effort: 4, emotional-effort: 3, working-conditions: 2}
+    job_evaluation_notes: People is level 6 for corporate responsibility for the organisation's people and HR function.

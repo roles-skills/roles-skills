@@ -1,0 +1,94 @@
+id: enterprise-architect
+summary: >
+  Enterprise architects give the organisation a joined-up view of its
+  services, information, applications, and technology, and use it to turn
+  health and care strategy into a coherent plan for change. They set
+  architecture principles, standards, and roadmaps, guide investment
+  decisions, and make sure digital change supports safe, joined-up care for
+  patients across organisations.
+health_context:
+  - Care pathways cross many organisations and systems, so the architecture must support sharing of records, results, and referrals across boundaries.
+  - The estate often includes long-lived clinical systems, medical devices, and supplier contracts that are hard to change, so roadmaps must plan transitions carefully.
+  - Architecture decisions affect patient safety, privacy, and the resilience of services that run around the clock.
+  - Open standards such as HL7 FHIR, SNOMED CT, and IHE profiles are key to avoiding lock-in and enabling interoperability.
+  - Funding is constrained and closely scrutinised, so architects must show value for money and reuse of shared platforms where they exist.
+levels:
+  - pcf_level: Enterprise architect
+    title: Enterprise architect
+    band: "6"
+    responsibilities:
+      - Model the organisation's current services, information, applications, and technology for a domain, such as diagnostics or community care.
+      - Keep the architecture repository up to date, including application and data flow catalogues.
+      - Review proposals against architecture principles and standards, and record the findings for design authorities.
+      - Identify where systems duplicate capability or depend on unsupported technology, and raise the risks.
+      - Work with solution architects and clinical leads to understand how care pathways use systems.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: health-data-interoperability, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - A degree in computing, business, or a related subject, or equivalent experience.
+      - Experience of architecture, analysis, or technical design in a complex organisation.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Senior enterprise architect
+    title: Senior enterprise architect
+    band: "7"
+    responsibilities:
+      - Develop target architectures and transition roadmaps for one or more domains of the organisation.
+      - Shape business cases so that investments fit the target architecture and reuse shared platforms.
+      - Lead architecture reviews at design authorities and make recommendations on significant proposals.
+      - Plan the replacement or retirement of legacy clinical and corporate systems, including data migration and safety risks.
+      - Make sure interoperability, security, and information governance needs are built into roadmaps.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: clinical-safety, level: working}
+      - {skill: risk-management, level: working}
+    qualifications:
+      - Substantial experience of enterprise or solution architecture, at a level equivalent to a master's degree.
+      - Knowledge of an enterprise architecture framework, such as TOGAF, or equivalent experience.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 3, physical-skills: 2, patient-care: 1, policy: 3, financial-resources: 1, people: 2, information-resources: 5, research: 2, freedom-to-act: 4, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Lead enterprise architect
+    title: Lead enterprise architect
+    band: 8b
+    responsibilities:
+      - Own the enterprise architecture for a major part of the organisation, such as clinical systems or shared infrastructure.
+      - Chair or lead the architecture design authority and set the standards that projects must meet.
+      - Advise directors on investment priorities, supplier strategy, and technology risks.
+      - Work with partner organisations to align architectures across care pathways and shared records.
+      - Lead and develop enterprise architects and grow the architecture community of practice.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: health-data-interoperability, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of enterprise architecture in a complex organisation.
+    job_evaluation: {communication: 5, knowledge: 8, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 3, information-resources: 5, research: 3, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}
+
+  - pcf_level: Principal enterprise architect
+    title: Principal enterprise architect
+    band: 8c
+    responsibilities:
+      - Set the organisation's enterprise architecture vision, principles, and strategy, aligned with its health and care strategy.
+      - Advise the executive team and board on the architecture, risks, and value of major digital investments.
+      - Lead the organisation's architecture practice, governance, and standards.
+      - Represent the organisation in cross-organisation architecture and interoperability forums.
+      - Build architecture capability across the organisation, including recruitment and career paths.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: health-data-interoperability, level: expert}
+      - {skill: information-governance, level: practitioner}
+      - {skill: clinical-safety, level: practitioner}
+      - {skill: risk-management, level: practitioner}
+      - {skill: people-management, level: practitioner}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading enterprise architecture across organisations.
+    job_evaluation: {communication: 6, knowledge: 8, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 3, information-resources: 6, research: 2, freedom-to-act: 5, physical-effort: 1, mental-effort: 4, emotional-effort: 1, working-conditions: 2}

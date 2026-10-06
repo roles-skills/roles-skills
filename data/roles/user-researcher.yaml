@@ -1,0 +1,132 @@
+id: user-researcher
+summary: >
+  User researchers help teams understand the people who use and deliver
+  health and care services, including patients, carers, clinicians, and care
+  staff. They plan and carry out research safely and ethically, turn what they
+  learn into clear insight, and make sure decisions about digital health
+  services are based on evidence of real needs, including the needs of people
+  who find services hardest to use.
+health_context:
+  - Research participants are often unwell, anxious, or in vulnerable circumstances, so researchers plan carefully for informed consent, safeguarding, and participants' wellbeing.
+  - Research may hear about distressing experiences of illness, loss, or poor care, so researchers need support to manage the emotional effect on themselves and their team.
+  - Clinicians and care staff have little time away from patients, so researchers plan research in clinical settings without disrupting care, often through observation and short sessions.
+  - Some research counts as formal health research or uses patient data, so researchers need to know when ethics or research governance approval and data protection checks apply.
+  - Health inequalities are real, so researchers make deliberate efforts to include people with low digital skills, disabilities, or limited English, and people who use services least.
+levels:
+  - pcf_level: Associate user researcher
+    title: Associate user researcher
+    band: "4"
+    responsibilities:
+      - Learn user research methods through training and by working alongside experienced researchers.
+      - Take notes, help run sessions, and help recruit participants, following consent and safeguarding procedures.
+      - Store research data securely and in line with information governance rules.
+      - Help analyse research data and share findings with the team.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: pd-health-research-ethics, level: awareness}
+      - {skill: information-governance, level: awareness}
+      - {skill: equality-diversity-inclusion, level: awareness}
+    qualifications:
+      - Working towards a qualification or apprenticeship in a relevant field, or equivalent experience.
+    job_evaluation: {communication: 3, knowledge: 4, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 3, research: 2, freedom-to-act: 2, physical-effort: 2, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: Emotional effort is level 2 at every user researcher level, because research with patients and carers often involves hearing about illness, loss, or poor care. Research is scored from level 2 here, rising to level 3 once research is the main duty.
+
+  - pcf_level: Junior user researcher
+    title: Junior user researcher
+    band: "5"
+    responsibilities:
+      - Plan and run research sessions with patients, carers, and staff, with guidance from a more senior researcher.
+      - Use methods such as interviews, usability testing, and contextual observation in care settings.
+      - Get informed consent, adapt sessions for participants' needs, and raise any safeguarding concerns.
+      - Analyse findings and present them to the team as clear, actionable insight.
+      - Recruit diverse participants, including people who find services hard to use.
+    skills:
+      - {skill: health-care-context, level: awareness}
+      - {skill: pd-health-research-ethics, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+    qualifications:
+      - A degree in a relevant subject, such as social science or psychology, or equivalent experience.
+    job_evaluation: {communication: 4, knowledge: 5, analytical: 3, planning: 2, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 1, information-resources: 3, research: 3, freedom-to-act: 3, physical-effort: 2, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+
+  - pcf_level: User researcher
+    title: User researcher
+    band: "6"
+    responsibilities:
+      - Plan and carry out user research for a multidisciplinary team, choosing methods that fit the questions and the participants.
+      - Research with clinicians and care staff in their work settings to understand clinical workflows and safety-critical tasks.
+      - Plan research with people in vulnerable circumstances safely, and judge when ethics or research governance approval is needed.
+      - Share insight that helps the team prioritise, including evidence about safety and accessibility.
+      - Bring the team into research so they understand users first-hand.
+    skills:
+      - {skill: health-care-context, level: working}
+      - {skill: pd-health-research-ethics, level: working}
+      - {skill: information-governance, level: working}
+      - {skill: equality-diversity-inclusion, level: working}
+      - {skill: clinical-safety, level: awareness}
+    qualifications:
+      - A degree in a relevant subject, or equivalent experience.
+      - Experience of planning and carrying out user research.
+    job_evaluation: {communication: 4, knowledge: 6, analytical: 4, planning: 3, physical-skills: 3, patient-care: 1, policy: 2, financial-resources: 1, people: 2, information-resources: 4, research: 3, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+
+  - pcf_level: Senior user researcher
+    title: Senior user researcher
+    band: "7"
+    responsibilities:
+      - Plan and lead research for complex services, such as those that span several care settings or serve people in crisis.
+      - Align research with the service's wider plans and with other teams' research.
+      - Plan safe research with people in vulnerable circumstances, and prepare ethics and research governance submissions.
+      - Supervise and develop user researchers, and assure the quality and ethics of their work.
+      - Build user-centred practice in new teams and with clinical stakeholders.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: pd-health-research-ethics, level: practitioner}
+      - {skill: information-governance, level: working}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: clinical-safety, level: working}
+    qualifications:
+      - Substantial experience of user research, at a level equivalent to a master's degree.
+    job_evaluation: {communication: 5, knowledge: 6, analytical: 4, planning: 4, physical-skills: 3, patient-care: 1, policy: 3, financial-resources: 1, people: 3, information-resources: 4, research: 4, freedom-to-act: 4, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+
+  - pcf_level: Lead user researcher
+    title: Lead user researcher
+    band: 8b
+    responsibilities:
+      - Lead and align user research across several teams or a whole programme.
+      - Make sure teams take a user-centred, evidence-based approach, and that research reaches people most affected by health inequalities.
+      - Set and assure research practice, including consent, safeguarding, data handling, and participant wellbeing.
+      - Build shared research assets, such as research repositories and participant panels, that teams can reuse safely.
+      - Line manage and develop user researchers.
+    skills:
+      - {skill: health-care-context, level: practitioner}
+      - {skill: pd-health-research-ethics, level: practitioner}
+      - {skill: information-governance, level: practitioner}
+      - {skill: equality-diversity-inclusion, level: practitioner}
+      - {skill: clinical-safety, level: working}
+      - {skill: people-management, level: practitioner}
+    qualifications:
+      - Extensive experience of leading user research across teams.
+    job_evaluation: {communication: 5, knowledge: 7, analytical: 5, planning: 4, physical-skills: 2, patient-care: 1, policy: 4, financial-resources: 3, people: 4, information-resources: 5, research: 4, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: There is no Band 8a level, because the UK GDaD PCF places lead user researcher at G7 or G6 and this reference follows the suggested Band 8b. Financial resources is level 3 for the research budget, such as participant recruitment and incentives.
+
+  - pcf_level: Head of user research
+    title: Head of user research
+    band: 8c
+    responsibilities:
+      - Lead the user research profession and set its strategy, standards, and ethics.
+      - Influence organisational strategy and priorities with evidence about patients, carers, and care staff.
+      - Attract, build, and develop research talent, including career paths and recruitment.
+      - Assure research practice across the organisation and act as the escalation point for high-risk research.
+      - Represent research practice with ethics, safeguarding, and research governance bodies.
+    skills:
+      - {skill: health-care-context, level: expert}
+      - {skill: pd-health-research-ethics, level: expert}
+      - {skill: information-governance, level: practitioner}
+      - {skill: equality-diversity-inclusion, level: expert}
+      - {skill: clinical-safety, level: working}
+      - {skill: people-management, level: expert}
+      - {skill: budget-management, level: working}
+    qualifications:
+      - Extensive experience of leading user research and a research practice.
+    job_evaluation: {communication: 6, knowledge: 7, analytical: 5, planning: 5, physical-skills: 2, patient-care: 1, policy: 5, financial-resources: 3, people: 4, information-resources: 5, research: 5, freedom-to-act: 5, physical-effort: 1, mental-effort: 3, emotional-effort: 2, working-conditions: 2}
+    job_evaluation_notes: The UK GDaD PCF places both lead user researcher and head of user research at G7 or G6, with a suggested Band 8b. This reference places the head at Band 8c, in line with the heads of other user-centred design professions, because the head leads the profession across the organisation and initiates its research programmes.
