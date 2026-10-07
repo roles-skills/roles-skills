@@ -108,7 +108,7 @@ Each translation lives in `data/locales/<code>/`, such as `data/locales/cy-gb/` 
 
 `python3 scripts/build.py` overlays each translation on the English reference, falls back to English for anything missing, and reports the count. A locale marked `complete: true` fails the build if anything is missing. It writes `exports/locales/<code>/reference.json` and the pages in `locales/<code>/`. The website's interface strings are in `roles-skills.github.io/content/locales/<code>/ui.json`.
 
-Quotations from the UK GDaD PCF and labels from ESCO stay in English. Welsh has two locales with the same text: `cy-gb` and `cy-001` (Welsh for readers anywhere). Change both together. For Welsh, use the standard terms in TermCymru (see [CREDITS.md](CREDITS.md)), such as *llywodraethiant gwybodaeth* for information governance.
+Quotations from the UK GDaD PCF and labels from ESCO stay in English. Some languages have two locales with the same text, a world locale and a regional copy: `cy-001` and `cy-gb` (Welsh), `zh-001` and `zh-cn` (Chinese), and `hi-001` and `hi-in` (Hindi). Change both together. For Welsh, use the standard terms in TermCymru (see [CREDITS.md](CREDITS.md)), such as *llywodraethiant gwybodaeth* for information governance.
 
 ## Style
 

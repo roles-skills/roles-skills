@@ -6,8 +6,8 @@ Every code is `<language>-<region>`; see [index.md](index.md#locale-codes). Done
 
 - en-001 (done)
 - cy-001 (done; also cy-gb)
-- zh-001 (done)
-- hi-001 (done)
+- zh-001 (done; also zh-cn)
+- hi-001 (done; also hi-in)
 - es-001 (done)
 - fr-001 (done)
 - ar-001 (next)

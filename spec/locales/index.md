@@ -10,7 +10,9 @@ How this reference is translated, published, and served in more than one languag
 | cy-001 | Cymraeg (y byd) | ltr | Done | A copy of cy-gb, for Welsh readers anywhere; keep the two in step |
 | cy-gb | Cymraeg | ltr | Done | AI-translated, not yet reviewed by a native speaker; terminology follows TermCymru |
 | zh-001 | 中文 | ltr | Done | Simplified Chinese; AI-translated, not yet reviewed by a native speaker; slugs are made from the Chinese titles |
+| zh-cn | 中文（中国） | ltr | Done | A copy of zh-001, for Chinese readers in China; keep the two in step |
 | hi-001 | हिन्दी | ltr | Done | Hindi; AI-translated, not yet reviewed by a native speaker; slugs are made from the Devanagari titles, keeping vowel signs |
+| hi-in | हिन्दी (भारत) | ltr | Done | A copy of hi-001, for Hindi readers in India; keep the two in step |
 | es-001 | Español | ltr | Done | Spanish; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, and "Head of" is the gender-neutral "Responsable de" |
 | fr-001 | Français | ltr | Done | French; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, and many "Head of" roles use the gender-neutral "Responsable de" |
 | ar-001 | العربية | rtl | Next | The first right-to-left locale |
@@ -21,12 +23,12 @@ Every translation is AI-generated and needs a native speaker review; `tasks.md` 
 
 A locale code is `<language>-<region>`, in lowercase: a two- or three-letter ISO 639 language code, a hyphen, then a two-letter ISO 3166 region code or the three-digit UN M49 code `001` for the world. For example `cy-gb` (Welsh in Great Britain), `cy-001` (Welsh for readers anywhere), and `zh-001`.
 
-- Prefer the world locale, `<language>-001`, unless a regional variant is genuinely different, such as `cy-gb`.
+- Prefer the world locale, `<language>-001`. A regional locale, such as `cy-gb`, `zh-cn`, or `hi-in`, may start as a copy of its world locale, kept in step with it, so that readers in that region get a matching URL and language tag.
 - Never use a bare language code, such as `en`, as a locale code, a directory name, or a URL path.
 - The region code must be a real ISO 3166 code for a place where the language is spoken: India is `in` (`hi-in`), not `id` (Indonesia); Pakistan is `pk` (`ur-pk`); Great Britain is `gb` (`cy-gb`).
 - The default locale is `en-001`.
 
-A locale code is not the same as a language tag. Each locale also has a BCP 47 tag, in `LOCALE_TAGS` in `roles-skills.github.io/src/lib/locales.ts`, for `<html lang>`, `hreflang`, and screen readers: `en`, `cy`, `cy-GB`, `zh-Hans`, `hi`, `es`, `fr`. Use the tag, not the code, wherever a browser or search engine reads the language.
+A locale code is not the same as a language tag. Each locale also has a BCP 47 tag, in `LOCALE_TAGS` in `roles-skills.github.io/src/lib/locales.ts`, for `<html lang>`, `hreflang`, and screen readers: `en`, `cy`, `cy-GB`, `zh-Hans`, `zh-Hans-CN`, `hi`, `hi-IN`, `es`, `fr`. Use the tag, not the code, wherever a browser or search engine reads the language.
 
 ## Directory names
 
@@ -71,8 +73,8 @@ The URL carries the locale.
 
 On a first visit to the bare home page, `/`, the site goes to the published locale that best matches the browser's languages (`navigator.languages`):
 
-1. The exact locale code, such as `cy_GB` or `cy-GB` to `/cy-gb/`.
-2. The language's world locale, such as `cy` to `/cy-001/` and `zh-CN` to `/zh-001/`.
+1. The exact locale code, such as `cy_GB` or `cy-GB` to `/cy-gb/`, `zh-CN` to `/zh-cn/`, and `hi-IN` to `/hi-in/`.
+2. The language's world locale, such as `cy` to `/cy-001/` and `zh-TW` to `/zh-001/`.
 3. Any locale of that language.
 
 The first language that matches wins, so a reader whose first language is English stays on `/`. The redirect runs only on the app's first load (`afterNavigate` with type `enter`), never on in-site links or deep links. Once a reader chooses a language with the picker, the choice is stored in `localStorage` under `roles-skills.locale-chosen`, and the home page stops redirecting. The matching is `browserLocale` in `src/lib/locales.ts`.

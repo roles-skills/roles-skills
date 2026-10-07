@@ -1,0 +1,73 @@
+# Hindi (India). A copy of hi-001, for Hindi readers in India; keep the two in
+# step. Translated from English by an AI assistant; not yet reviewed by a
+# native speaker. Quotations from the UK GDaD PCF and ESCO stay in English.
+# Slugs are made from the Hindi titles.
+code: hi-in
+name: हिन्दी (भारत)
+english_name: Hindi (India)
+dir: ltr
+complete: true
+paths:
+  roles: भूमिकाएँ
+  families: परिवार
+  bands: बैंड
+  skills: कौशल
+  job-evaluation: कार्य-मूल्यांकन
+  about: परिचय
+strings:
+  disclaimer: "यह एक सामान्य डिजिटल स्वास्थ्य सेवा संगठन के लिए एक उदाहरणात्मक संदर्भ प्रोफ़ाइल है। यह किसी भी नियोक्ता का आधिकारिक कार्य-विवरण नहीं है, और इसके कार्य-मूल्यांकन अंक औपचारिक मूल्यांकन नहीं हैं।"
+  translation_note: "इस पाठ का अंग्रेज़ी से अनुवाद एक कृत्रिम बुद्धिमत्ता सहायक ने किया है, और किसी मूल हिन्दी भाषी ने अभी तक इसकी समीक्षा नहीं की है। यूके सरकार के डिजिटल और डेटा पेशा क्षमता ढाँचे (UK GDaD PCF) और ESCO के उद्धरण अंग्रेज़ी में ही रखे गए हैं।"
+  home_title: भूमिका सूची
+  home_lede: "पहले अपने काम के सबसे निकट का परिवार चुनें, फिर भूमिका, फिर बैंड।"
+  roles_title: सभी भूमिकाएँ
+  bands_title: बैंड के अनुसार भूमिकाएँ
+  skills_title: कौशल
+  skills_lede: "हर कौशल के चार दक्षता स्तर हैं: जागरूकता (1), कार्यरत (2), अभ्यासकर्ता (3), और विशेषज्ञ (4)। UK GDaD PCF के कौशल अंग्रेज़ी मूल से उद्धृत हैं। अन्य कौशल इस संदर्भ के मौलिक हैं।"
+  pcf_title: UK GDaD PCF भूमिका के अनुसार भूमिकाएँ
+  esco_title: ESCO व्यवसाय के अनुसार भूमिकाएँ
+  role: भूमिका
+  roles: भूमिकाएँ
+  family: परिवार
+  band: बैंड
+  bands: बैंड
+  title: शीर्षक
+  role_level: भूमिका स्तर
+  skill: कौशल
+  source: स्रोत
+  expected_level: अपेक्षित स्तर
+  level_meaning: इस स्तर का अर्थ
+  factor: कारक
+  level: स्तर
+  points: अंक
+  total: कुल
+  summary: सारांश
+  health_context: एक डिजिटल स्वास्थ्य सेवा संगठन में
+  pcf_role: UK GDaD PCF भूमिका
+  pcf_role_none: "कोई नहीं (यह भूमिका इस संदर्भ द्वारा परिभाषित है)"
+  pcf_role_description: UK GDaD PCF भूमिका विवरण (अंग्रेज़ी मूल)
+  pcf_level: UK GDaD PCF स्तर
+  civil_service_grades: यूके सिविल सेवा ग्रेड
+  esco_occupations: ESCO व्यवसाय
+  role_levels: भूमिका स्तर
+  job_evaluation_points: कार्य-मूल्यांकन अंक
+  responsibilities: ज़िम्मेदारियाँ
+  skills: कौशल
+  qualifications: सामान्य योग्यताएँ और अनुभव
+  band_outline: बैंड की रूपरेखा
+  knowledge: ज्ञान
+  autonomy: स्वायत्तता
+  scope: दायरा
+  leadership: नेतृत्व
+  accountability: जवाबदेही
+  job_evaluation: कार्य-मूल्यांकन (उदाहरणात्मक)
+  source_pcf: UK GDaD PCF
+  source_reference: यह संदर्भ
+  used_in: "{n} भूमिका स्तरों में उपयोग किया गया।"
+  awareness: जागरूकता
+  working: कार्यरत
+  practitioner: अभ्यासकर्ता
+  expert: विशेषज्ञ
+  sfia_level: SFIA स्तर
+  esco_occupation: ESCO व्यवसाय
+  pcf_family: PCF परिवार
+  roles_in_reference: इस संदर्भ में भूमिकाएँ

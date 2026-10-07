@@ -1,0 +1,73 @@
+# Chinese (Simplified, China). A copy of zh-001, for Chinese readers in China;
+# keep the two in step. Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Quotations from the UK GDaD PCF and ESCO stay
+# in English.
+code: zh-cn
+name: 中文（中国）
+english_name: Chinese (Simplified, China)
+dir: ltr
+complete: true
+paths:
+  roles: 角色
+  families: 职族
+  bands: 职级
+  skills: 技能
+  job-evaluation: 岗位评估
+  about: 关于
+strings:
+  disclaimer: "这是一份面向通用数字医疗卫生机构的示例性参考档案。它不是任何雇主的正式职位说明，其中的岗位评估分数也不是正式评估。"
+  translation_note: "本文由人工智能助手从英文翻译而来，尚未经过母语人士审校。引自英国政府数字与数据专业能力框架（UK GDaD PCF）和 ESCO 的内容保留英文原文。"
+  home_title: 角色索引
+  home_lede: "先找到与您的工作最接近的职族，再找到角色，最后找到职级。"
+  roles_title: 全部角色
+  bands_title: 按职级排列的角色
+  skills_title: 技能
+  skills_lede: "每项技能有四个熟练度等级：了解（1）、胜任（2）、熟练（3）和专家（4）。来自 UK GDaD PCF 的技能以英文原文引用。其他技能为本参考资料原创。"
+  pcf_title: 按 UK GDaD PCF 角色排列的角色
+  esco_title: 按 ESCO 职业排列的角色
+  role: 角色
+  roles: 角色
+  family: 职族
+  band: 职级
+  bands: 职级
+  title: 名称
+  role_level: 角色级别
+  skill: 技能
+  source: 来源
+  expected_level: 期望等级
+  level_meaning: 该等级的含义
+  factor: 因素
+  level: 等级
+  points: 分数
+  total: 总计
+  summary: 概述
+  health_context: 在数字医疗卫生机构中
+  pcf_role: UK GDaD PCF 角色
+  pcf_role_none: "无（本参考资料定义该角色）"
+  pcf_role_description: UK GDaD PCF 角色描述（英文原文）
+  pcf_level: UK GDaD PCF 级别
+  civil_service_grades: 英国公务员职等
+  esco_occupations: ESCO 职业
+  role_levels: 角色级别
+  job_evaluation_points: 岗位评估分数
+  responsibilities: 职责
+  skills: 技能
+  qualifications: 典型资质与经验
+  band_outline: 职级概要
+  knowledge: 知识
+  autonomy: 自主性
+  scope: 范围
+  leadership: 领导力
+  accountability: 问责
+  job_evaluation: 岗位评估（示例）
+  source_pcf: UK GDaD PCF
+  source_reference: 本参考资料
+  used_in: "用于 {n} 个角色级别。"
+  awareness: 了解
+  working: 胜任
+  practitioner: 熟练
+  expert: 专家
+  sfia_level: SFIA 等级
+  esco_occupation: ESCO 职业
+  pcf_family: PCF 职族
+  roles_in_reference: 本参考资料中的角色
