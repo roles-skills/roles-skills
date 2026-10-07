@@ -1,0 +1,74 @@
+# Arabic (world), Modern Standard Arabic, right to left. Translated from English
+# by an AI assistant; not yet reviewed by a native speaker. Quotations from the
+# UK GDaD PCF and ESCO stay in English. Job titles use the conventional
+# masculine form, which in Arabic job titles covers everyone. Slugs are made
+# from the Arabic titles.
+code: ar-001
+name: العربية
+english_name: Arabic
+dir: rtl
+complete: true
+paths:
+  roles: الأدوار
+  families: العائلات
+  bands: الفئات
+  skills: المهارات
+  job-evaluation: تقييم-الوظائف
+  about: حول
+strings:
+  disclaimer: "هذا ملف مرجعي توضيحي لمؤسسة رعاية صحية رقمية عامة. وهو ليس وصفًا وظيفيًا رسميًا لأي جهة عمل، ونقاط تقييم الوظائف فيه ليست تقييمًا رسميًا."
+  translation_note: "تُرجم هذا النص من الإنجليزية بواسطة مساعد ذكاء اصطناعي، ولم يراجعه بعدُ متحدث أصلي باللغة. تبقى الاقتباسات من إطار قدرات مهنة الرقمنة والبيانات في الحكومة البريطانية (UK GDaD PCF) ومن ESCO باللغة الإنجليزية."
+  home_title: فهرس الأدوار
+  home_lede: "ابحث أولًا عن العائلة الأقرب إلى عملك، ثم الدور، ثم الفئة."
+  roles_title: جميع الأدوار
+  bands_title: الأدوار حسب الفئة
+  skills_title: المهارات
+  skills_lede: "لكل مهارة أربعة مستويات إتقان: إلمام (1)، وممارسة (2)، وتمكّن (3)، وخبرة (4). المهارات المأخوذة من UK GDaD PCF مقتبسة منه بالإنجليزية. أما المهارات الأخرى فهي خاصة بهذا المرجع."
+  pcf_title: الأدوار حسب أدوار UK GDaD PCF
+  esco_title: الأدوار حسب مهن ESCO
+  role: الدور
+  roles: الأدوار
+  family: العائلة
+  band: الفئة
+  bands: الفئات
+  title: المسمى
+  role_level: مستوى الدور
+  skill: المهارة
+  source: المصدر
+  expected_level: المستوى المتوقع
+  level_meaning: معنى هذا المستوى
+  factor: العامل
+  level: المستوى
+  points: النقاط
+  total: المجموع
+  summary: الملخص
+  health_context: في مؤسسة رعاية صحية رقمية
+  pcf_role: دور UK GDaD PCF
+  pcf_role_none: "لا يوجد (هذا المرجع هو الذي يعرّف الدور)"
+  pcf_role_description: وصف الدور في UK GDaD PCF (النص الإنجليزي الأصلي)
+  pcf_level: مستوى UK GDaD PCF
+  civil_service_grades: درجات الخدمة المدنية البريطانية
+  esco_occupations: مهن ESCO
+  role_levels: مستويات الدور
+  job_evaluation_points: نقاط تقييم الوظيفة
+  responsibilities: المسؤوليات
+  skills: المهارات
+  qualifications: المؤهلات والخبرة المعتادة
+  band_outline: وصف الفئة
+  knowledge: المعرفة
+  autonomy: الاستقلالية
+  scope: النطاق
+  leadership: القيادة
+  accountability: المساءلة
+  job_evaluation: تقييم الوظيفة (توضيحي)
+  source_pcf: UK GDaD PCF
+  source_reference: هذا المرجع
+  used_in: "مستخدمة في {n} من مستويات الأدوار."
+  awareness: إلمام
+  working: ممارسة
+  practitioner: تمكّن
+  expert: خبرة
+  sfia_level: مستوى SFIA
+  esco_occupation: مهنة ESCO
+  pcf_family: عائلة PCF
+  roles_in_reference: الأدوار في هذا المرجع

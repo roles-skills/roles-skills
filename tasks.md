@@ -139,6 +139,8 @@ See [plan.md](plan.md) for the context and reasoning.
 - [x] fr-001 (Français, French): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of es-001
 - [ ] Native speaker review of fr-001
+- [x] ar-001 (العربية, Arabic): all roles, skills, bands, job evaluation, and interface strings; the first right-to-left locale, with logical CSS properties and left-to-right English quotations
+- [ ] Native speaker review of ar-001
 - [ ] Native speaker review of cy-gb
 - [ ] Next locales, in the order in `spec/locales/locales-by-priority.md`
 

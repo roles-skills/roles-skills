@@ -15,7 +15,8 @@ How this reference is translated, published, and served in more than one languag
 | hi-in | हिन्दी (भारत) | ltr | Done | A copy of hi-001, for Hindi readers in India; keep the two in step |
 | es-001 | Español | ltr | Done | Spanish; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, and "Head of" is the gender-neutral "Responsable de" |
 | fr-001 | Français | ltr | Done | French; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, and many "Head of" roles use the gender-neutral "Responsable de" |
-| ar-001 | العربية | rtl | Next | The first right-to-left locale |
+| ar-001 | العربية | rtl | Done | Arabic (Modern Standard Arabic), the first right-to-left locale; AI-translated, not yet reviewed by a native speaker; job titles use the conventional masculine form, which covers everyone; slugs are made from the Arabic titles |
+| bn-001 | বাংলা | ltr | Next | Bengali |
 
 Every translation is AI-generated and needs a native speaker review; `tasks.md` tracks each review.
 
@@ -28,7 +29,7 @@ A locale code is `<language>-<region>`, in lowercase: a two- or three-letter ISO
 - The region code must be a real ISO 3166 code for a place where the language is spoken: India is `in` (`hi-in`), not `id` (Indonesia); Pakistan is `pk` (`ur-pk`); Great Britain is `gb` (`cy-gb`).
 - The default locale is `en-001`.
 
-A locale code is not the same as a language tag. Each locale also has a BCP 47 tag, in `LOCALE_TAGS` in `roles-skills.github.io/src/lib/locales.ts`, for `<html lang>`, `hreflang`, and screen readers: `en`, `cy`, `cy-GB`, `zh-Hans`, `zh-Hans-CN`, `hi`, `hi-IN`, `es`, `fr`. Use the tag, not the code, wherever a browser or search engine reads the language.
+A locale code is not the same as a language tag. Each locale also has a BCP 47 tag, in `LOCALE_TAGS` in `roles-skills.github.io/src/lib/locales.ts`, for `<html lang>`, `hreflang`, and screen readers: `en`, `cy`, `cy-GB`, `zh-Hans`, `zh-Hans-CN`, `hi`, `hi-IN`, `es`, `fr`, `ar`. Use the tag, not the code, wherever a browser or search engine reads the language.
 
 ## Directory names
 
@@ -87,7 +88,7 @@ The first language that matches wins, so a reader whose first language is Englis
 
 ## Interface strings
 
-`roles-skills.github.io/content/locales/<code>/ui.json` holds the website's interface strings: the same keys as `en-001` (208 today), with the same `{placeholders}`. `bin/check` fails if a locale is missing a key. `banner.end` holds the closing punctuation, such as `।` for Hindi and `。` for Chinese.
+`roles-skills.github.io/content/locales/<code>/ui.json` holds the website's interface strings: the same keys as `en-001` (209 today), with the same `{placeholders}`. `bin/check` fails if a locale is missing a key. `banner.end` holds the closing punctuation, such as `।` for Hindi and `。` for Chinese.
 
 ## Documents and peer ids
 
@@ -95,7 +96,12 @@ The first language that matches wins, so a reader whose first language is Englis
 
 ## Right-to-left locales
 
-A locale with `dir: rtl` in `locale.yaml` and a language in `RTL` in `src/lib/locales.ts` (Arabic, Persian, Hebrew, Urdu) gets `dir="rtl"` on `<html>`. Check every page layout, table, and picker in a browser before publishing the first one.
+A locale with `dir: rtl` in `locale.yaml` and a language in `RTL` in `src/lib/locales.ts` (Arabic, Persian, Hebrew, Urdu) gets `dir="rtl"` on `<html>`. ar-001 is the first.
+
+- The stylesheet uses logical properties, such as `padding-inline-start`, `border-inline-start`, and `text-align: start`, so the layout mirrors by itself. Never add `left` or `right` properties.
+- Anything that points a direction, such as the breadcrumb chevron, needs a `[dir='rtl']` rule.
+- English quotations from the UK GDaD PCF and ESCO carry `lang="en"`; in a right-to-left page, the stylesheet sets them left to right and isolates them, so their punctuation and bullets stay in place.
+- Check every page layout, table, and picker in a browser, at desktop and phone widths, before publishing a right-to-left locale.
 
 ## Adding a locale
 

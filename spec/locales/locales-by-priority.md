@@ -10,8 +10,8 @@ Every code is `<language>-<region>`; see [index.md](index.md#locale-codes). Done
 - hi-001 (done; also hi-in)
 - es-001 (done)
 - fr-001 (done)
-- ar-001 (next)
-- bn-001
+- ar-001 (done)
+- bn-001 (next)
 - ru-001
 - pt-001
 - ur-001
