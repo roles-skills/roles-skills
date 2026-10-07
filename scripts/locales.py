@@ -33,6 +33,7 @@ import json
 import os
 import re
 import shutil
+import sys
 import unicodedata
 
 import yaml
@@ -99,10 +100,20 @@ def anchor(text):
     return text.replace(" ", "-")
 
 
+# Every locale directory is named "<language>-<region>", in lowercase: a two- or
+# three-letter language code and a two-letter region code or the three-digit
+# UN M49 code 001 for the world, such as cy-gb or cy-001. Never a bare "en".
+LOCALE_CODE = re.compile(r"^[a-z]{2,3}-(?:[a-z]{2}|[0-9]{3})$")
+
+
 def codes():
     if not os.path.isdir(DATA_LOCALES):
         return []
-    return sorted(c for c in os.listdir(DATA_LOCALES) if os.path.isfile(os.path.join(DATA_LOCALES, c, "locale.yaml")))
+    found = sorted(c for c in os.listdir(DATA_LOCALES) if os.path.isfile(os.path.join(DATA_LOCALES, c, "locale.yaml")))
+    bad = [c for c in found if not LOCALE_CODE.match(c)]
+    if bad:
+        sys.exit(f"error: locale directories must be named <language>-<region>, such as cy-gb or cy-001: {', '.join(bad)}")
+    return found
 
 
 def _load(code, *parts, default=None):

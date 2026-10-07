@@ -14,6 +14,12 @@ How this reference is translated, and which locales are done. See [`locales-by-p
 | es-001 | Español | Done | Spanish; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, and "Head of" is the gender-neutral "Responsable de" |
 | fr-001 | Français | Done | French; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, and many "Head of" roles use the gender-neutral "Responsable de" |
 
+## Directory names
+
+All locale directories use the format `<language>-<region>`, in lowercase: a two- or three-letter ISO 639 language code, a hyphen, then a two-letter ISO 3166 region code or the three-digit UN M49 code `001` for the world. For example `cy-gb`, `cy-001`, and `zh-001`. A bare language code, such as `en/`, is not allowed.
+
+This applies to every `locales` directory: `data/locales/`, `exports/locales/`, `locales/`, `roles-skills.github.io/content/locales/`, and `roles-skills.github.io/static/downloads/locales/`. The build (`scripts/locales.py`) and `bin/check` both reject any other name.
+
 ## Process
 
 1. Translate serially, one locale at a time, without subagents.

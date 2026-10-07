@@ -40,6 +40,15 @@ python3 scripts/cms_config.py "$tmp/config.yml"
 cmp -s "$tmp/config.yml" "$site/static/admin/config.yml" || fail "roles-skills.github.io/static/admin/config.yml is stale; run roles-skills.github.io/bin/sync"
 
 say "checking locales"
+# Every locale directory is named <language>-<region>, such as cy-gb or cy-001.
+for parent in data/locales exports/locales locales "$site/content/locales" "$site/static/downloads/locales"; do
+    [ -d "$parent" ] || continue
+    for dir in "$parent"/*/; do
+        [ -d "$dir" ] || continue
+        code="$(basename "$dir")"
+        printf '%s\n' "$code" | grep -Eq '^[a-z]{2,3}-([a-z]{2}|[0-9]{3})$' || fail "$parent/$code must be named <language>-<region>, such as cy-gb or cy-001"
+    done
+done
 for dir in exports/locales/*/; do
     [ -d "$dir" ] || continue
     code="$(basename "$dir")"
