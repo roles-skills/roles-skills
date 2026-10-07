@@ -5,15 +5,35 @@ Translate content into multiple locales.
 How this site supports multiple locales end to end: content, web
 routing, UI chrome, and bugs.
 
-Read locales via file `locales.tsv`.
+Read languages via file `locales.tsv`. It lists ISO 639-1 language codes with
+their endonyms; a locale code adds a region to one of them, as
+`<language>-<region>`, such as `cy-gb` or `zh-001` (see
+[`../locales/index.md`](../locales/index.md#locale-codes)). Never use a bare
+language code such as `en` as a locale code, directory, or URL path.
 
-Locale code priority order:
+Locale code priority order: see
+[`../locales/locales-by-priority.md`](../locales/locales-by-priority.md),
+starting en-001, cy-001, zh-001, hi-001, es-001, fr-001, ar-001.
 
-- en
-- cy
-- zh
-- sp
-- ar
+## In this project
+
+This guidance is general. In this project:
+
+- The full locales spec, with the status of every locale, is
+  [`../locales/index.md`](../locales/index.md).
+- Locale codes and labels are in `roles-skills.github.io/src/lib/locale-codes.js`
+  (`LOCALES`, `DEFAULT_LOCALE`) and `src/lib/locales.ts` (`LOCALE_LABELS`,
+  `LOCALE_TAGS`, `localePath`, `canonicalPath`, `browserLocale`). The picker
+  lists locales in `LOCALES` order.
+- UI chrome strings are in `roles-skills.github.io/content/locales/<code>/ui.json`,
+  read through `src/lib/i18n.ts`.
+- Content is the data overlays in `data/locales/<code>/`, built into
+  `locales/<code>/` (documents, with translated folder names and
+  `.locale-peer-id` files) and `exports/locales/<code>/`.
+- The URL carries the locale: `en-001` at the unprefixed paths, every other
+  locale under `/<code>/` with translated section names and slugs. The bare
+  home page, `/`, redirects a first-time visitor to the locale matching the
+  browser's languages, unless they have chosen one with the picker.
 
 ## .locale-peer.id file
 
@@ -47,7 +67,7 @@ Then:
 
 - Fix any broken internal links
 - Fix any residual wrong-dialect spellings
-- Update `./spec/locale/index.md`
+- Update `./spec/locales/index.md`
 
 ## Content structure (book side)
 

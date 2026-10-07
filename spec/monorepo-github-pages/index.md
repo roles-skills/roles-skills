@@ -13,6 +13,10 @@ The GitHub Pages subproject uses:
 - [Lily Design System](https://github.com/LilyDesignSystem/lily-design-system), including its PickerBar
 - [Sveltia CMS](https://github.com/sveltia/sveltia-cms)
 
+## Locales
+
+The website serves every published locale from the same build: English at the unprefixed paths, and each other locale under `/<language>-<region>/`, such as `/cy-gb/`. See [`../locales/index.md`](../locales/index.md).
+
 ## Publish
 
 To publish the GitHub Pages subproject, use git subtree to derive a sibling read-only export repository: `roles-skills/roles-skills.github.io` on GitHub, served at <https://roles-skills.github.io>.
