@@ -1,0 +1,55 @@
+summary: >
+  Les ingénieurs analytiques transforment les données brutes de santé et de soins en modèles de données propres, testés et documentés sur lesquels peuvent s'appuyer les analystes, les data scientists et les outils de reporting. Ils se situent entre l'ingénierie des données et l'analyse, et appliquent des pratiques d'ingénierie logicielle, comme la gestion de versions, les tests et la relecture de code, aux transformations qui sous-tendent les rapports et les tableaux de bord de l'organisation.
+health_context:
+  - Les modèles de données encodent des définitions cliniques et opérationnelles, comme ce qui compte comme une admission, une réadmission ou un dépassement d'une norme de délai d'attente, c'est pourquoi les définitions sont convenues avec les responsables cliniques et opérationnels.
+  - Les codes cliniques de terminologies et de classifications comme SNOMED CT et la CIM sont regroupés en ensembles de référence pour l'analyse, qui demandent une gestion de versions soigneuse.
+  - Les modèles utilisés pour les rapports de performance et de financement doivent être cohérents et auditables, car des erreurs peuvent influer sur les décisions concernant les services aux patients.
+  - Les modèles contiennent souvent des données individuelles pseudonymisées, c'est pourquoi l'accès, la documentation et la minimisation des données y sont intégrés.
+levels:
+  - title: Ingénieur analytique en formation
+    responsibilities:
+      - Apprendre les outils et les pratiques de modélisation des données de l'équipe par la formation et le travail en binôme.
+      - Apporter sous supervision de petites modifications bien définies aux modèles de données.
+      - Documenter les éléments de données et leurs définitions dans le catalogue de données.
+      - Répondre aux questions simples des utilisateurs de données et consigner leurs besoins.
+      - Suivre les règles de gouvernance de l'information lors du travail sur les données des patients.
+    qualifications:
+      - Inscrit à un apprentissage en données ou équivalent, ou en préparation.
+    job_evaluation_notes: Les connaissances sont cotées au niveau requis par l'emploi une fois la formation suffisamment avancée pour faire le travail.
+  - title: Ingénieur analytique
+    responsibilities:
+      - Développer et tester les modèles de données d'un domaine de service, comme l'activité d'hospitalisation ou les soins de proximité, à partir de conceptions convenues.
+      - Écrire des tests automatisés qui vérifient les modèles de données au regard des définitions cliniques et opérationnelles convenues.
+      - Tenir à jour les ensembles de référence de codes cliniques utilisés pour l'analyse, avec des versions claires.
+      - Documenter les modèles pour que les analystes comprennent leur sens, leurs sources et leurs limites.
+      - Former et accompagner les utilisateurs des jeux de données de l'équipe.
+    qualifications:
+      - Une licence dans une discipline quantitative ou informatique, ou une expérience équivalente.
+      - Une expérience du développement de modèles de données ou de code analytique.
+  - title: Ingénieur analytique senior
+    responsibilities:
+      - Superviser la conception et les tests des modèles de données de plusieurs domaines de service.
+      - Convenir avec les responsables cliniques, opérationnels et financiers des définitions des indicateurs clés, et veiller à ce que les modèles les appliquent de façon cohérente.
+      - Veiller à ce que les modèles qui alimentent les rapports de performance et de financement soient auditables et bien testés.
+      - Résoudre les problèmes et les risques liés aux données avec les ingénieurs et les propriétaires des données.
+      - Accompagner et diriger le travail des autres ingénieurs analytiques.
+    qualifications:
+      - Une expérience significative de la modélisation des données et de l'ingénierie analytique, d'un niveau équivalent à un master.
+  - title: Ingénieur analytique référent
+    responsibilities:
+      - Diriger une équipe qui conçoit, développe et maintient les modèles de données analytiques de l'organisation.
+      - Fixer des normes pour les modèles de données, les tests, la documentation et les définitions des indicateurs.
+      - Travailler avec les équipes de toute l'organisation pour comprendre comment les processus cliniques et opérationnels produisent les données.
+      - Relire le travail des autres ingénieurs analytiques et améliorer les méthodes de travail de l'équipe.
+      - Encadrer les ingénieurs analytiques.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie analytique ou de la modélisation des données.
+  - title: Responsable de l'ingénierie analytique
+    responsibilities:
+      - Fixer l'orientation des modèles de données analytiques de l'organisation, pour que toutes les analyses utilisent un même ensemble de définitions fiables.
+      - Veiller à ce que les priorités de l'ingénierie analytique soutiennent la stratégie de l'organisation et ses obligations de reporting.
+      - Conseiller la direction sur la fiabilité des données qui sous-tendent les grands rapports et les grandes décisions.
+      - Veiller à ce que la communauté dispose des outils et des plateformes nécessaires, et gérer le budget correspondant.
+      - Développer la capacité d'ingénierie analytique par le leadership technique et le développement des carrières.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie analytique dans toute une organisation.

@@ -1,0 +1,29 @@
+summary: >
+  Les responsables de livraison de programme rendent compte de la livraison de services de santé numérique complexes qui demandent la collaboration de plusieurs équipes, fournisseurs ou organisations, ou qui présentent un risque technique, clinique ou public élevé. Ils gèrent les dépendances, les budgets, les dispositions commerciales et les personnes de tout le programme, et veillent à ce qu'il apporte les bénéfices prévus aux patients, aux cliniciens et au personnel soignant.
+health_context:
+  - Les programmes changent souvent la manière dont les soins sont dispensés dans plusieurs organisations, c'est pourquoi les responsables de livraison de programme coordonnent des responsables cliniques, opérationnels et numériques aux priorités et aux gouvernances différentes.
+  - Le risque clinique doit être géré à l'échelle de tout le programme, et pas seulement dans chaque équipe, c'est pourquoi ils travaillent avec les responsables de la sécurité clinique pour garder une vision d'ensemble des dangers et des dossiers de sécurité.
+  - Les programmes impliquent souvent de gros contrats avec des fournisseurs de systèmes cliniques, c'est pourquoi la gestion commerciale et contractuelle est une part importante du rôle.
+  - Les bénéfices en matière de soins, comme des attentes plus courtes, une prescription plus sûre ou du temps libéré pour le personnel, doivent être définis, portés par le service et suivis longtemps après la clôture du programme.
+levels:
+  - title: Responsable de livraison de programme
+    responsibilities:
+      - Diriger la livraison d'un programme de plusieurs équipes, comme l'introduction d'un nouveau service numérique sur tout un parcours de soins.
+      - Planifier et gérer les dépendances entre équipes, fournisseurs et organisations partenaires de santé et de soins.
+      - Garder avec le responsable de la sécurité clinique une vision d'ensemble du risque clinique du programme, et veiller à ce que chaque mise en production dispose de l'assurance nécessaire.
+      - Gérer le budget du programme, les contrats et la performance des fournisseurs.
+      - Rendre compte de l'avancement, des risques et des bénéfices au comité de programme et au responsable exécutif.
+      - Encadrer les responsables de livraison et construire une culture de livraison saine dans tout le programme.
+    qualifications:
+      - Une solide expérience de la livraison de services ou de programmes numériques complexes impliquant plusieurs équipes.
+  - title: Responsable de livraison de programme senior
+    responsibilities:
+      - Diriger la livraison des programmes les plus importants ou les plus risqués de l'organisation, comme le remplacement du dossier patient informatisé central ou un dossier de soins partagé à l'échelle du système.
+      - Coordonner la livraison entre plusieurs organisations d'un système de soins, en alignant leurs plans, leur gouvernance et leurs décisions de mise en service.
+      - Diriger la stratégie commerciale et la négociation avec les grands fournisseurs, et gérer des budgets de programme pluriannuels.
+      - Veiller à ce que la sécurité clinique, la gouvernance de l'information et la continuité d'activité soient garanties à l'échelle du programme avant les grandes mises en service.
+      - Diriger et faire progresser les responsables de programme et de livraison, et fixer des normes de livraison dans tout le portefeuille.
+      - Conseiller les dirigeants sur le risque, les options et le redressement des programmes.
+    qualifications:
+      - Une solide expérience de la direction de programmes importants et à haut risque entre organisations.
+    job_evaluation_notes: Le UK GDaD PCF n'a qu'un niveau de responsable de livraison de programme, en G7 ou G6. Cette référence ajoute un niveau senior en bande 8c pour les programmes les plus importants et multi-organisations, avec des budgets plus élevés (ressources financières de niveau 5) et une communication plus conflictuelle (niveau 6).

@@ -1,0 +1,52 @@
+summary: >
+  Les ingénieurs d'intégration relient les systèmes cliniques et de gestion de l'organisation pour que les informations de santé et de soins circulent en toute sécurité là où elles sont nécessaires. Ils conçoivent, développent, testent et maintiennent des interfaces, des API et des flux de messages avec des normes comme HL7 FHIR et HL7 version 2, établissent les correspondances de données et de codes cliniques entre systèmes, et maintiennent les intégrations en fonctionnement en production.
+health_context:
+  - Un message perdu, retardé, dupliqué ou rattaché au mauvais patient, comme un résultat d'examen ou une demande d'avis, peut directement causer un préjudice, c'est pourquoi le travail d'intégration suit le processus de gestion des risques cliniques.
+  - Les intégrations transportent de grands volumes d'informations de santé confidentielles entre organisations, c'est pourquoi chaque flux a besoin d'une base légale, d'un transport sécurisé et d'une traçabilité.
+  - Les systèmes de santé utilisent de nombreuses normes et versions, des messages HL7 version 2 aux API HL7 FHIR et aux profils IHE, souvent avec des variantes locales.
+  - Le sens clinique doit être préservé de bout en bout, c'est pourquoi les ingénieurs établissent correctement les correspondances des terminologies cliniques comme SNOMED CT et rapprochent les patients de façon fiable.
+  - De nombreuses intégrations soutiennent les soins jour et nuit, c'est pourquoi elles ont besoin de supervision, d'alertes et de circuits clairs pour traiter les messages en échec.
+levels:
+  - title: Ingénieur d'intégration junior
+    summary: L'ingénieur d'intégration junior développe, teste et maintient des intégrations entre systèmes de santé et de soins, à partir de spécifications et avec l'accompagnement d'ingénieurs plus expérimentés.
+    responsibilities:
+      - Développer et modifier des correspondances de messages, des transformations et des appels d'API à partir de spécifications convenues.
+      - Tester les intégrations au regard des spécifications et de messages exemples, y compris les cas d'erreur et les cas limites.
+      - Superviser les flux de messages, analyser les messages en échec ou rejetés, et les résoudre ou les faire remonter.
+      - Traiter les données de santé de façon sûre, selon les règles de gouvernance de l'information pour les données réelles et de test.
+      - Consigner les changements et les résultats de tests pour qu'ils servent de preuves de sécurité clinique.
+    qualifications:
+      - Une licence en informatique ou dans une discipline voisine, un apprentissage achevé ou une expérience équivalente.
+  - title: Ingénieur d'intégration
+    summary: L'ingénieur d'intégration conçoit, développe et maintient en autonomie des intégrations entre systèmes de santé et de soins, et aide à définir comment les systèmes doivent échanger des données.
+    responsibilities:
+      - Concevoir et développer des intégrations, des API et des flux de messages avec HL7 FHIR, HL7 version 2 et des modèles de messagerie.
+      - Analyser les systèmes source et cible et rédiger des spécifications d'interface et des correspondances de données, y compris les codes cliniques.
+      - Mettre en place le rapprochement des patients, la validation et la gestion des erreurs pour que les informations parviennent au bon dossier.
+      - Participer aux ateliers d'identification des dangers et intégrer des mesures de sécurité aux intégrations, comme des alertes sur les messages en échec ou retardés.
+      - Travailler avec les fournisseurs et les organisations partenaires pour tester et mettre en service de nouvelles connexions.
+      - Analyser et corriger les problèmes des intégrations en production, et accompagner les ingénieurs d'intégration juniors.
+    qualifications:
+      - Une licence en informatique ou dans une discipline voisine, ou une expérience équivalente.
+      - Une expérience du développement et du support d'intégrations entre systèmes en production.
+  - title: Ingénieur d'intégration senior
+    summary: L'ingénieur d'intégration senior dirige la conception et la livraison d'intégrations complexes entre de nombreux systèmes et organisations, et fixe les normes d'intégration de son domaine.
+    responsibilities:
+      - Diriger la conception technique d'intégrations complexes, comme les dossiers de soins partagés, les résultats et les demandes d'avis entre organisations.
+      - Rédiger et tenir à jour des profils FHIR, des guides d'implémentation et des normes d'interface pour l'organisation.
+      - Concevoir des intégrations sécurisées, résilientes et observables, avec des circuits clairs pour traiter les défaillances.
+      - Travailler avec les responsables de la sécurité clinique pour identifier les dangers liés à l'intégration et veiller à ce que les mesures soient conçues dès le départ et testées.
+      - Veiller à ce que chaque flux de données repose sur une base légale et des accords de partage convenus, avec les collègues de la gouvernance de l'information.
+      - Accompagner et faire progresser les ingénieurs d'intégration de l'équipe.
+    qualifications:
+      - Une expérience significative de la conception et du support d'intégrations en santé ou d'autres intégrations complexes, d'un niveau équivalent à un master.
+  - title: Ingénieur d'intégration référent
+    summary: L'ingénieur d'intégration référent dirige l'ingénierie d'intégration de l'organisation, fixe son orientation technique et ses normes, et garantit les intégrations critiques entre de nombreux systèmes.
+    responsibilities:
+      - Diriger l'ingénierie d'intégration dans toute l'organisation, en fixant l'orientation, les modèles et les normes.
+      - Garantir la conception des intégrations critiques, comme celles qui transportent des résultats, des médicaments ou des alertes.
+      - Façonner la feuille de route de la plateforme d'intégration avec les architectes, les chefs de produit et les fournisseurs.
+      - Représenter l'organisation dans les travaux interorganisations d'interopérabilité et de normalisation.
+      - Encadrer ou diriger les ingénieurs d'intégration et faire grandir la communauté de pratique de l'intégration.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie d'intégration de systèmes de santé ou de soins complexes.

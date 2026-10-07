@@ -134,7 +134,9 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Native speaker review of zh-001
 - [x] es-001 (Español, Spanish): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of hi-001
+- [x] fr-001 (Français, French): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of es-001
+- [ ] Native speaker review of fr-001
 - [ ] Native speaker review of cy-gb
 - [ ] Next locales, in the order in `spec/locales/locales-by-priority.md`
 

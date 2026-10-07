@@ -1,0 +1,60 @@
+summary: >
+  Les chargés d'achats aident l'organisation à acheter les biens et les services dont elle a besoin, de façon licite et efficiente, des achats courants aux procédures formelles de mise en concurrence. Dans une organisation de santé numérique, une grande partie de ces dépenses porte sur des logiciels, des services en nuage, des licences, des appareils et des services technologiques, c'est pourquoi ils travaillent étroitement avec les collègues du numérique, de la gouvernance de l'information et de la sécurité clinique ainsi qu'avec les responsables budgétaires.
+health_context:
+  - Les règles de la commande publique s'appliquent aux dépenses de l'organisation, c'est pourquoi chaque achat doit suivre la bonne procédure, laisser une piste d'audit claire et traiter équitablement les fournisseurs.
+  - De nombreux achats sont numériques, comme les licences logicielles, les abonnements en nuage et les appareils, et demandent des vérifications de sécurité, de protection des données et de sécurité clinique avant la signature du contrat.
+  - Les fournisseurs de systèmes cliniques peuvent détenir des données de patients, c'est pourquoi les contrats ont besoin de clauses claires sur la protection, la propriété et la restitution des données.
+  - L'achat par des accords-cadres et des systèmes d'acquisition dynamiques conçus pour le secteur public peut faire gagner du temps, mais les marchés subséquents doivent quand même respecter les règles de chaque accord-cadre.
+  - Les dépenses publiques doivent démontrer leur efficience et leur valeur sociale, comme l'emploi local, les compétences et la réduction du carbone.
+levels:
+  - title: Assistant achats
+    summary: Apporte un soutien administratif et d'achat, selon des procédures établies, avec un chargé d'achats à proximité.
+    responsibilities:
+      - Émettre et modifier des bons de commande dans le système d'achat, en les vérifiant au regard des contrats et des approbations.
+      - Résoudre avec les fournisseurs, les responsables budgétaires et les finances les questions courantes de factures et de réception.
+      - Demander des devis pour les achats de faible montant selon les règles de l'organisation.
+      - Tenir à jour les fiches fournisseurs, les catalogues et le registre des contrats.
+      - Répondre aux questions courantes du personnel sur la manière d'acheter.
+    qualifications:
+      - Une qualification de niveau 2 ou 3, un apprentissage en achats ou une expérience équivalente.
+      - Une expérience d'un travail administratif ou financier exact.
+    job_evaluation_notes: Les ressources financières sont au niveau 2, car l'emploi émet et modifie des commandes qui engagent des dépenses approuvées par d'autres.
+  - title: Acheteur
+    summary: Achète des biens et des services par des demandes de devis et des marchés subséquents d'accords-cadres, y compris des logiciels, des appareils et des licences standard, selon des procédures établies.
+    responsibilities:
+      - Mener des demandes de devis et des remises en concurrence d'accords-cadres, avec des modèles standard et la plateforme de dématérialisation.
+      - Acheter des logiciels, des appareils et des licences standard, en suivant les renouvellements et le nombre de licences.
+      - Vérifier avant l'achat que les exigences standard de sécurité, de protection des données et d'accessibilité sont incluses.
+      - Négocier les prix et les conditions des achats courants.
+      - Tenir une piste d'audit claire et publier les avis d'attribution lorsque les règles l'exigent.
+      - Analyser les données de dépenses pour repérer les achats hors contrat et proposer de meilleures voies.
+    qualifications:
+      - Une qualification en achats de niveau certificat, un apprentissage en achats ou une expérience équivalente.
+      - Une expérience de l'achat par demandes de devis ou accords-cadres.
+    job_evaluation_notes: Les ressources financières sont au niveau 3, car l'emploi achète des fournitures et des services pour le compte des responsables budgétaires.
+  - title: Chargé d'achats
+    summary: Conduit des achats de montant et de complexité modérés, y compris des procédures formelles, de la planification à l'attribution du marché, avec un chargé d'achats senior disponible pour conseiller.
+    responsibilities:
+      - Conduire des procédures formelles et des remises en concurrence d'accords-cadres de la planification à l'attribution, en gérant les calendriers et les questions des candidats.
+      - Aider les responsables budgétaires à rédiger des spécifications claires fondées sur les résultats, y compris les exigences techniques et de protection des données.
+      - Organiser l'analyse, vérifier la conformité des offres, soutenir les évaluateurs et consigner l'harmonisation.
+      - Rédiger les rapports d'analyse et les réponses aux candidats, et gérer le délai de suspension.
+      - Inclure des questions de valeur sociale et de durabilité adaptées au marché.
+      - Transmettre les contrats aux gestionnaires de contrats avec des plans clairs de démarrage et de réversibilité.
+      - Former les responsables budgétaires à la manière d'acheter et encadrer les assistants achats.
+    qualifications:
+      - Une qualification professionnelle reconnue en achats de niveau intermédiaire, ou une expérience équivalente.
+      - Une expérience de la conduite de procédures formelles selon les règles de la commande publique.
+  - title: Chargé d'achats senior
+    summary: Dirige des achats complexes, comme ceux de systèmes cliniques, de services en nuage et de services technologiques, et conseille sur la bonne procédure, avec une large liberté dans le cadre de la politique d'achat.
+    responsibilities:
+      - Diriger des achats complexes et importants, en choisissant la bonne voie et la bonne procédure.
+      - Diriger le sourcing préalable et les demandes d'information, en préservant une concurrence équitable.
+      - Concevoir les critères d'évaluation et leur pondération avec les responsables techniques, cliniques et de la gouvernance de l'information, et diriger l'harmonisation.
+      - Veiller à ce que les contrats technologiques comportent des clauses d'interopérabilité, de sécurité, de propriété des données, de réversibilité et de restitution des données.
+      - Négocier avec les candidats lorsque la procédure le permet, et convenir des conditions finales.
+      - Conseiller sur les modifications de contrats, les prolongations et les attributions directes, et sur le risque de contestation.
+      - Accompagner les chargés d'achats et les acheteurs et vérifier leur travail.
+    qualifications:
+      - Une qualification professionnelle reconnue en achats de niveau avancé, ou une expérience équivalente.
+      - Une expérience significative de la conduite de procédures complexes, idéalement pour des technologies ou des systèmes cliniques.

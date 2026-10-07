@@ -1,0 +1,40 @@
+summary: >
+  Les architectes réseau conçoivent les réseaux locaux, étendus, sans fil et en nuage qui relient les sites, le personnel, les systèmes cliniques et les dispositifs médicaux de l'organisation. Ils veillent à ce que les réseaux soient assez rapides, résilients et sécurisés pour des soins qui ne s'arrêtent jamais, et planifient leur évolution à mesure que les services passent au nuage et se connectent aux organisations partenaires.
+health_context:
+  - Les systèmes cliniques, la téléphonie et les dispositifs médicaux dépendent du réseau, et une panne peut arrêter les soins, c'est pourquoi les conceptions ont besoin de résilience et d'une bascule testée.
+  - Les réseaux transportent souvent des dispositifs médicaux connectés difficiles à corriger, c'est pourquoi les architectes conçoivent la segmentation et la supervision pour les protéger.
+  - Le personnel travaille dans les hôpitaux, les consultations, les structures de proximité et au domicile des patients, c'est pourquoi les conceptions doivent permettre un accès mobile et à distance sécurisé.
+  - Les réseaux se connectent à des réseaux partagés de santé et de soins et à des organisations partenaires, qui fixent leurs propres exigences de connexion et de sécurité.
+  - Les changements dans les zones cliniques demandent une planification soigneuse autour des soins, par exemple en programmant les travaux en dehors des périodes chargées.
+levels:
+  - title: Architecte réseau adjoint
+    responsibilities:
+      - Rédiger des conceptions, des schémas et des spécifications réseau avec l'accompagnement des architectes réseau.
+      - Visiter les sites et recueillir les besoins des zones cliniques, y compris la couverture sans fil et les connexions des appareils.
+      - Tenir à jour les registres de la topologie, de l'adressage et des appareils connectés du réseau.
+      - Vérifier que les conceptions respectent les niveaux de service et les normes de sécurité avant leur examen.
+    qualifications:
+      - Une licence en informatique ou en réseaux, une qualification réseau reconnue ou une expérience équivalente.
+      - Des connaissances spécialisées en conception de réseaux, de niveau diplôme de troisième cycle ou une expérience équivalente.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 5), car les annonces du secteur de la santé situent ce rôle en bande 6. Les connaissances sont cotées au niveau diplôme de troisième cycle, et les ressources d'information au niveau 5, car l'emploi conçoit des parties du réseau dont dépendent des systèmes d'information importants.
+  - title: Architecte réseau
+    responsibilities:
+      - Concevoir des solutions de réseaux locaux, étendus, sans fil et en nuage pour les sites et les services.
+      - Concevoir la segmentation du réseau pour les dispositifs médicaux, les systèmes cliniques et l'accès invité.
+      - Planifier avec les responsables de service les changements réseau dans les zones cliniques pour ne pas perturber les soins.
+      - Convenir des niveaux de service avec les fournisseurs et des exigences de connexion avec les réseaux partenaires.
+      - Évaluer les nouvelles technologies réseau et leur adéquation avec les normes de sécurité de l'organisation.
+    qualifications:
+      - Des connaissances spécialisées en architecture réseau, de niveau master ou une expérience équivalente.
+      - Une expérience de la conception et du support de réseaux d'entreprise.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 6), car les annonces du secteur de la santé situent ce rôle en bande 7. Les connaissances sont cotées au niveau master ou équivalent pour la connaissance spécialisée des réseaux locaux, étendus, sans fil et en nuage.
+  - title: Architecte réseau référent
+    responsibilities:
+      - Être responsable de l'architecture réseau de l'organisation, y compris ses sites, ses centres de données et ses connexions au nuage.
+      - Fixer les normes de conception réseau et garantir les conceptions en autorité de conception.
+      - Concevoir la résilience et la reprise du réseau pour les services cliniques critiques, et veiller à ce qu'elles soient testées.
+      - Conseiller sur l'investissement réseau, les contrats fournisseurs et les risques réseau des nouveaux services.
+      - Être le point d'escalade expert et orienter les autres architectes et ingénieurs réseau.
+    qualifications:
+      - Une expérience significative de l'architecture réseau pour des organisations complexes, d'un niveau équivalent à un master.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 7), car les annonces du secteur de la santé situent ce rôle en bande 8a. Les ressources d'information sont au niveau 6, car l'emploi est responsable de l'architecture réseau dont dépendent tous les systèmes d'information de l'organisation.

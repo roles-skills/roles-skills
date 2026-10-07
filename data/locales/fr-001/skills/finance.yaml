@@ -1,0 +1,273 @@
+# French translations of data/skills/finance.yaml. Keys are the English skill ids.
+fin-financial-transactions:
+  name: Opérations financières et comptabilité générale
+  description: Traiter et enregistrer avec exactitude dans les comptes les factures, les paiements, les encaissements, les écritures et les rapprochements, dans le respect des contrôles financiers.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les processus achat-paiement et commande-encaissement et votre rôle dans ceux-ci
+      - saisir avec exactitude les factures, les encaissements et les paiements, selon les procédures établies
+      - vérifier qu'une opération a la bonne approbation et les bonnes pièces justificatives
+    working: |
+      Vous pouvez :
+      - traiter diverses opérations, dont les avoirs, les remboursements et les écritures
+      - rapprocher les relevés fournisseurs, les comptes bancaires et les comptes de contrôle
+      - résoudre les questions courantes des fournisseurs, des clients et des responsables budgétaires
+      - repérer les opérations en double, inhabituelles ou non autorisées et les signaler
+    practitioner: |
+      Vous pouvez :
+      - gérer un grand livre ou un processus d'opérations et le maintenir exact et à jour
+      - analyser et apurer les éléments de rapprochement complexes et les soldes anciens
+      - améliorer les processus d'opérations, par exemple en automatisant le lettrage ou les approbations
+      - former d'autres personnes et vérifier leur travail
+    expert: |
+      Vous pouvez :
+      - concevoir les processus d'opérations de l'organisation et leurs contrôles
+      - fixer des normes de performance, comme les délais de paiement et les objectifs de recouvrement
+      - diriger le passage à de nouveaux modes de traitement, comme l'automatisation et le libre-service
+      - garantir à la direction et aux auditeurs que les comptes sont complets et exacts
+fin-financial-reporting:
+  name: Information financière et comptes annuels
+  description: Établir des états financiers et des déclarations réglementaires exacts, conformes aux normes comptables applicables et aux règles d'information du secteur public.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer la finalité des principaux états financiers
+      - préparer les dossiers de travail et les rapprochements des clôtures mensuelles et annuelles
+    working: |
+      Vous pouvez :
+      - passer les écritures de clôture mensuelle et annuelle, comme les charges à payer, les charges constatées d'avance et les provisions
+      - préparer des parties des comptes annuels et de leurs annexes
+      - appliquer les normes comptables aux opérations courantes, comme l'immobilisation des logiciels et du matériel
+    practitioner: |
+      Vous pouvez :
+      - établir les comptes annuels et les déclarations réglementaires selon un calendrier
+      - appliquer les normes comptables à des domaines complexes, comme les contrats de location, les contrats d'informatique en nuage et les immobilisations incorporelles
+      - rédiger des notes comptables qui expliquent les jugements et les estimations
+      - gérer l'audit externe des comptes et répondre à ses constats
+    expert: |
+      Vous pouvez :
+      - être responsable du rapport annuel et des comptes de l'organisation et des méthodes comptables qui les sous-tendent
+      - conseiller le conseil d'administration et le comité d'audit sur les jugements importants et les nouvelles normes
+      - diriger la réponse aux opinions d'audit avec réserves ou aux anomalies significatives
+      - garantir que l'information respecte les règles de responsabilité publique
+fin-management-accounting:
+  name: Contrôle de gestion
+  description: Produire des informations budgétaires et de coûts qui aident les responsables à planifier, maîtriser et décider, y compris l'analyse des écarts, le calcul des coûts et les tableaux de bord de performance.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les budgets, les réalisations, les engagements et les écarts
+      - produire des rapports budgétaires standard à partir du système financier
+    working: |
+      Vous pouvez :
+      - préparer les rapports budgétaires mensuels et expliquer les principaux écarts
+      - imputer correctement les coûts entre centres de coûts, projets, investissement et fonctionnement
+      - aider les responsables budgétaires à comprendre et à gérer leurs budgets
+    practitioner: |
+      Vous pouvez :
+      - gérer le cycle mensuel de reporting d'une direction ou d'un programme
+      - construire des modèles de coûts, comme le coût complet d'un service numérique ou le coût unitaire d'une opération
+      - analyser les tendances des dépenses et conseiller les responsables sur les actions pour tenir le budget
+      - challenger de façon constructive les prévisions des responsables budgétaires
+    expert: |
+      Vous pouvez :
+      - concevoir l'approche de reporting de gestion et de calcul des coûts de l'organisation
+      - présenter la performance financière au conseil d'administration et à la direction
+      - diriger l'usage des informations de coûts et de performance pour améliorer l'efficience
+      - fixer les normes du contrôle de gestion dans toute l'organisation
+fin-financial-planning-and-forecasting:
+  name: Planification et prévisions financières
+  description: Construire des budgets, des prévisions et des plans financiers à moyen terme qui relient les moyens aux priorités et aux programmes de l'organisation.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer le cycle annuel d'élaboration du budget et la différence entre budget et prévision
+      - recueillir les informations prévisionnelles auprès des responsables budgétaires
+    working: |
+      Vous pouvez :
+      - construire les budgets et les prévisions d'un centre de coûts ou d'un projet, y compris les coûts de personnel
+      - mettre à jour chaque mois les prévisions avec les changements et les risques connus
+      - phaser les budgets pour que le profil de dépenses suive les plans de réalisation
+    practitioner: |
+      Vous pouvez :
+      - diriger l'élaboration du budget et des prévisions d'une direction ou d'un grand programme
+      - modéliser des scénarios et des sensibilités, comme l'inflation, les retards ou les changements de financement
+      - construire des prévisions pluriannuelles pour les programmes numériques, y compris les coûts de fonctionnement qui suivent l'investissement
+      - présenter les prévisions et les risques à la direction
+    expert: |
+      Vous pouvez :
+      - diriger le plan financier à moyen terme de l'organisation
+      - aligner les plans financiers sur la stratégie, les effectifs et les plans d'investissement
+      - conseiller le conseil d'administration sur la soutenabilité financière et les choix nécessaires pour rester dans le financement
+      - fixer les hypothèses et les méthodes de planification utilisées dans toute l'organisation
+fin-payroll:
+  name: Paie
+  description: Payer le personnel avec exactitude et à temps, y compris les entrées, les sorties, les changements, les retenues, les retraites, les versements légaux et les déclarations de paie.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer le cycle de paie, des changements et de la date limite jusqu'au paiement et aux déclarations
+      - saisir avec exactitude les entrées, les sorties et les changements à partir de formulaires autorisés
+      - répondre aux questions courantes sur la paie en préservant la confidentialité
+    working: |
+      Vous pouvez :
+      - calculer la rémunération, les majorations, les heures supplémentaires, et les paiements de maladie et de congés familiaux
+      - appliquer correctement les impôts, les cotisations de retraite et les autres retenues
+      - vérifier les résultats de la paie et corriger les erreurs avant le paiement
+      - récupérer les trop-perçus avec tact et conformément à la politique
+    practitioner: |
+      Vous pouvez :
+      - produire la paie complète d'un groupe de personnes et valider ses contrôles
+      - gérer les déclarations légales de paie et les déclarations de retraite
+      - résoudre des cas complexes, comme les contrats multiples, les rappels de salaire ou les avantages par renonciation à salaire
+      - tester les changements du système de paie, comme les revalorisations annuelles et les changements de règles
+    expert: |
+      Vous pouvez :
+      - gérer le service de paie de l'organisation, qu'il soit interne ou externalisé
+      - fixer les contrôles de paie et garantir à la direction que les paiements sont exacts et licites
+      - anticiper les changements de règles de rémunération, de revalorisations et de systèmes de paie
+      - diriger la réponse aux défaillances majeures de la paie
+fin-treasury-and-cash:
+  name: Trésorerie et gestion des liquidités
+  description: Gérer les comptes bancaires, les flux de trésorerie et la liquidité pour que l'organisation puisse honorer ses engagements, dans le respect des règles de trésorerie du secteur public.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer pourquoi la trésorerie compte autant que les budgets
+      - enregistrer et rapprocher les opérations bancaires
+    working: |
+      Vous pouvez :
+      - préparer les positions de trésorerie quotidiennes et les prévisions de trésorerie à court terme
+      - préparer les campagnes de paiement et vérifier qu'elles sont dûment autorisées
+      - rapprocher les comptes bancaires et apurer les éléments non lettrés
+    practitioner: |
+      Vous pouvez :
+      - gérer la prévision de trésorerie de l'organisation et le tirage des financements
+      - gérer les comptes bancaires, les moyens de paiement et les contrôles bancaires
+      - planifier la trésorerie pour les paiements importants ou irréguliers, comme les licences logicielles pluriannuelles
+    expert: |
+      Vous pouvez :
+      - fixer la politique de trésorerie et les relations bancaires de l'organisation
+      - conseiller le conseil d'administration sur les risques de liquidité et de trésorerie
+      - gérer la trésorerie dans les limites fixées par les financeurs et les règles du secteur public
+fin-audit-and-controls:
+  name: Contrôles financiers et audit
+  description: Concevoir, appliquer et tester les contrôles financiers, prévenir et détecter la fraude, et travailler avec les auditeurs internes et externes.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - suivre les procédures financières et les délégations de l'organisation
+      - reconnaître les signes d'une éventuelle fraude ou erreur et les signaler
+    working: |
+      Vous pouvez :
+      - appliquer les contrôles clés, comme la séparation des tâches et la vérification des coordonnées bancaires des fournisseurs
+      - fournir des preuves aux auditeurs et répondre à leurs questions
+      - vérifier que les dépenses sont approuvées au bon niveau
+    practitioner: |
+      Vous pouvez :
+      - tester et améliorer les contrôles d'un processus financier
+      - gérer les demandes d'audit d'un domaine et convenir des actions sur les constats
+      - rédiger et mettre à jour les procédures financières
+      - travailler avec les spécialistes de la lutte contre la fraude pour réduire le risque de fraude
+    expert: |
+      Vous pouvez :
+      - être responsable des règles financières et du régime de délégation de l'organisation
+      - rendre compte au comité d'audit du contrôle financier et des actions d'audit
+      - diriger la réponse aux défaillances de contrôle importantes ou à la fraude
+      - instaurer une culture où le personnel comprend son devoir de bon usage de l'argent public
+fin-business-cases:
+  name: Études d'opportunité et évaluation des investissements
+  description: Construire la justification financière des investissements, y compris l'évaluation des options, les coûts sur tout le cycle de vie, le traitement en investissement ou en fonctionnement, les bénéfices et l'efficience.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer la finalité d'une étude d'opportunité et de sa partie financière
+      - recueillir les informations de coûts pour une étude d'opportunité
+    working: |
+      Vous pouvez :
+      - construire le modèle financier d'une étude d'opportunité simple
+      - distinguer les coûts d'investissement et de fonctionnement, et les coûts ponctuels et récurrents
+      - inclure les coûts sur tout le cycle de vie, comme les licences, le support et l'hébergement après la mise en service
+    practitioner: |
+      Vous pouvez :
+      - diriger la justification financière d'investissements numériques complexes, comme un nouveau système clinique ou le passage au nuage
+      - évaluer les options par la valeur actuelle nette, l'analyse de sensibilité et l'ajustement au risque
+      - vérifier que les bénéfices sont réalistes, mesurables et portés par un responsable
+      - suivre les dépenses et les bénéfices après l'approbation
+    expert: |
+      Vous pouvez :
+      - fixer les normes d'études d'opportunité et d'évaluation des investissements de l'organisation
+      - conseiller les comités d'investissement sur le caractère abordable, l'efficience et le risque
+      - défendre auprès des financeurs les grands programmes d'investissement
+      - examiner le portefeuille d'investissements et recommander où arrêter, modifier ou poursuivre
+fin-tax:
+  name: Fiscalité
+  description: Appliquer correctement aux opérations de l'organisation les taxes sur les ventes, les impôts liés à l'emploi et les autres règles fiscales, et récupérer les taxes lorsque c'est permis.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - reconnaître la taxe sur les ventes sur les factures et l'imputer correctement
+      - expliquer quand demander conseil à un spécialiste fiscal
+    working: |
+      Vous pouvez :
+      - préparer les déclarations et les rapprochements fiscaux sous supervision
+      - appliquer le bon traitement fiscal aux achats et aux recettes courants
+      - vérifier, avec un accompagnement, le statut d'emploi des prestataires
+    practitioner: |
+      Vous pouvez :
+      - gérer les déclarations et les rapprochements fiscaux de l'organisation
+      - conseiller sur le traitement fiscal des contrats, comme les licences logicielles, les services en nuage et les services partagés
+      - optimiser la récupération des taxes dans le respect des règles
+    expert: |
+      Vous pouvez :
+      - être responsable de la stratégie fiscale et du risque fiscal de l'organisation
+      - diriger les échanges avec l'administration fiscale sur les questions complexes
+      - évaluer l'effet fiscal des changements majeurs, comme de nouveaux partenariats ou de nouvelles activités commerciales
+fin-financial-systems:
+  name: Systèmes financiers
+  description: Utiliser, administrer et améliorer les systèmes de finances, d'achats, de paie et de reporting pour que les données financières soient exactes et les processus efficaces.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - utiliser le système financier pour vos propres tâches, selon les procédures
+      - lancer des rapports standard et exporter des données vers un tableur
+    working: |
+      Vous pouvez :
+      - bien utiliser les tableurs, y compris les formules, les recherches et les tableaux croisés dynamiques
+      - tenir à jour les données du système financier, comme les centres de coûts, les fournisseurs et les approbateurs
+      - signaler les problèmes du système et aider à les corriger
+    practitioner: |
+      Vous pouvez :
+      - administrer le système financier ou de paie, y compris les accès, les circuits et le reporting
+      - concevoir des rapports et des tableaux de bord pour les responsables budgétaires
+      - tester les changements et les mises à niveau du système
+      - automatiser les tâches financières répétitives
+    expert: |
+      Vous pouvez :
+      - être responsable de la stratégie et de la feuille de route des systèmes financiers
+      - diriger l'acquisition et le déploiement de systèmes financiers ou de paie
+      - veiller à l'intégration des données financières avec les données d'effectifs, d'achats et de performance
+fin-public-sector-finance:
+  name: Finances publiques
+  description: Comprendre le fonctionnement du financement public, y compris les dotations, les limites d'investissement et de fonctionnement, les contrôles des dépenses, la responsabilité de l'argent public et l'efficience.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer que l'organisation dépense de l'argent public et doit en rendre compte
+      - expliquer la différence entre dépenses d'investissement et de fonctionnement
+    working: |
+      Vous pouvez :
+      - appliquer aux dépenses courantes les règles d'investissement et de fonctionnement de l'organisation
+      - expliquer comment les dotations et les plafonds de dépenses touchent votre domaine
+      - reconnaître les dépenses qui nécessitent l'accord d'un financeur ou d'un contrôle des dépenses
+    practitioner: |
+      Vous pouvez :
+      - conseiller les responsables sur les règles de financement, y compris les financements fléchés et à durée limitée
+      - gérer les limites d'investissement et de fonctionnement d'un programme ou d'une direction
+      - préparer les déclarations et les justificatifs pour les financeurs et les contrôles des dépenses
+    expert: |
+      Vous pouvez :
+      - représenter l'organisation auprès des financeurs et des organismes de contrôle
+      - conseiller le conseil d'administration sur la régularité, la probité et l'efficience
+      - façonner les conventions de financement et les régimes financiers des services de l'organisation

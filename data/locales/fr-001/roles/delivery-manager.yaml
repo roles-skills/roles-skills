@@ -1,0 +1,46 @@
+summary: >
+  Les responsables de livraison aident les équipes pluridisciplinaires à livrer des services de santé numérique qui fonctionnent pour les patients, les cliniciens et le personnel soignant. Ils créent les conditions d'un bon travail d'équipe, lèvent les obstacles, gèrent les risques et les dépendances et maintiennent un rythme de livraison soutenable, avec des méthodes agiles et lean.
+health_context:
+  - Les mises en production de services qui soutiennent la prise en charge des patients doivent passer les contrôles de sécurité clinique et de gouvernance de l'information, c'est pourquoi les responsables de livraison les intègrent aux plans de l'équipe et à sa définition de terminé.
+  - La livraison dépend souvent de cliniciens et de personnel soignant qui ont peu de temps loin des patients, c'est pourquoi les responsables de livraison planifient la recherche, les tests et la formation en fonction des plannings cliniques.
+  - Les changements apportés aux services cliniques en production demandent un calendrier soigneux, c'est pourquoi les responsables de livraison planifient les mises en service avec les équipes opérationnelles pour éviter les pics d'activité clinique et prévoir l'accompagnement.
+  - Les équipes dépendent souvent de fournisseurs de systèmes cliniques et d'autres organisations de santé et de soins, c'est pourquoi les responsables de livraison gèrent les dépendances externes et les contrats.
+levels:
+  - title: Responsable de livraison adjoint
+    responsibilities:
+      - Animer les rituels de l'équipe, comme les points quotidiens, la planification, les démonstrations et les rétrospectives.
+      - Tenir à jour le tableau de l'équipe, le registre des risques et des problèmes et les registres des dépendances.
+      - Suivre les tâches de sécurité clinique, de gouvernance de l'information et d'accessibilité nécessaires avant chaque mise en production.
+      - Organiser des séances avec les cliniciens, le personnel soignant et les patients pour la recherche et les tests, en fonction des plannings cliniques.
+      - Observer et soutenir un responsable de livraison dans une équipe plus grande, en prenant en charge des parties du travail avec un accompagnement.
+    qualifications:
+      - Une certaine expérience du travail dans une équipe de livraison ou avec elle, ou une expérience équivalente.
+  - title: Responsable de livraison
+    responsibilities:
+      - Diriger la livraison d'un produit ou d'un service de santé numérique, de l'exploration aux phases alpha et bêta jusqu'à la production.
+      - Planifier les mises en production avec les équipes opérationnelles et cliniques, y compris l'accompagnement de la mise en service, la formation et les plans de retour arrière.
+      - Veiller à ce que l'assurance de sécurité clinique, de gouvernance de l'information et d'accessibilité avance au rythme de la livraison, et non à la fin.
+      - Gérer le budget, les contrats fournisseurs et les ressources de l'équipe.
+      - Rendre compte en termes simples de l'avancement, des risques et des bénéfices aux instances de gouvernance.
+      - Construire une culture d'équipe saine et accompagner les membres de l'équipe dans les méthodes agiles.
+    qualifications:
+      - Une expérience significative de la livraison de produits ou de services numériques avec des méthodes agiles.
+    job_evaluation_notes: Il n'y a pas de niveau en bande 6, car le UK GDaD PCF n'a pas de niveau de responsable de livraison entre l'adjoint (EO/HEO) et le responsable de livraison (SEO/G7).
+  - title: Responsable de livraison senior
+    responsibilities:
+      - Diriger la livraison de services complexes ou à haut risque, comme ceux utilisés aux urgences ou qui remplacent un système clinique central.
+      - Être le principal point d'escalade des risques, des problèmes et des dépendances de livraison de plusieurs équipes.
+      - Planifier des déploiements à grande échelle sur plusieurs sites et organisations, avec les responsables de la sécurité clinique et les responsables opérationnels.
+      - Gérer les budgets, les dispositions commerciales et la performance des fournisseurs du service.
+      - Encadrer et faire progresser les responsables de livraison.
+    qualifications:
+      - Une solide expérience de la livraison de services numériques complexes tout au long de leur cycle de vie.
+  - title: Directeur de la gestion de la livraison
+    responsibilities:
+      - Diriger la profession de gestion de la livraison et fixer les normes de livraison agile de l'organisation.
+      - Recruter, faire progresser et affecter les responsables de livraison dans tout le portefeuille.
+      - Veiller à ce que les approches de livraison respectent les exigences de sécurité clinique, de gouvernance de l'information et d'assurance sans freiner inutilement les équipes.
+      - Conseiller les dirigeants et les responsables cliniques sur les risques de livraison, la capacité et les priorités.
+      - Gérer le budget et le plan d'effectifs de la profession.
+    qualifications:
+      - Une solide expérience de la direction de la livraison dans plusieurs équipes et de la direction d'une pratique de livraison.

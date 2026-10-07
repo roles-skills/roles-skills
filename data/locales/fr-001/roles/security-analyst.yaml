@@ -1,0 +1,46 @@
+summary: >
+  Les analystes des opérations de sécurité surveillent les menaces de cybersécurité qui pèsent sur les systèmes et les données de l'organisation, enquêtent à leur sujet et y répondent. Ils trient les alertes des outils de surveillance de la sécurité, enquêtent sur les activités suspectes, contiennent les incidents et aident à corriger les faiblesses. En santé, une détection et une réponse rapides protègent les services cliniques et les informations confidentielles des patients contre des attaques comme les rançongiciels.
+health_context:
+  - La santé est une cible fréquente des rançongiciels et du vol de données, et une seule attaque peut arrêter les systèmes cliniques de toute l'organisation.
+  - Les décisions de confinement, comme isoler un serveur ou une partie du réseau, doivent mettre en balance le risque de sécurité et l'effet sur la prise en charge des patients, c'est pourquoi les analystes travaillent avec les responsables cliniques et opérationnels.
+  - Les réseaux comprennent des dispositifs médicaux et des systèmes anciens qui ne peuvent pas exécuter d'agents de sécurité ni être corrigés rapidement, c'est pourquoi les analystes s'appuient sur la surveillance du réseau et des mesures compensatoires.
+  - La surveillance couvre l'accès aux dossiers des patients, c'est pourquoi les analystes aident à détecter les accès inappropriés en interne autant que les attaques externes, avec la gouvernance de l'information.
+  - La surveillance de la sécurité fonctionne jour et nuit, c'est pourquoi les analystes peuvent travailler en horaires postés ou en astreinte.
+levels:
+  - title: Analyste des opérations de sécurité junior
+    summary: L'analyste des opérations de sécurité junior surveille les alertes de sécurité, les trie à l'aide de procédures d'exploitation et fait remonter les événements, avec l'accompagnement d'analystes expérimentés.
+    responsibilities:
+      - Surveiller les alertes des outils de surveillance de la sécurité et des terminaux, et les trier à l'aide de procédures d'exploitation.
+      - Recueillir des preuves sur les activités suspectes, comme des courriels d'hameçonnage ou des connexions inhabituelles, et les faire remonter.
+      - Examiner les courriels d'hameçonnage signalés par le personnel, et aider à retirer les courriels malveillants des boîtes de réception.
+      - Consigner avec exactitude les événements et les actions dans l'outil de gestion des dossiers.
+      - Lancer des analyses de vulnérabilités et rappeler aux propriétaires des systèmes les corrections à faire.
+    qualifications:
+      - Une qualification en informatique ou en cybersécurité, un apprentissage en cybersécurité ou une expérience équivalente.
+    job_evaluation_notes: L'effort mental reflète une concentration prolongée fréquente sur la surveillance et le tri d'alertes imprévisibles.
+  - title: Analyste des opérations de sécurité
+    summary: L'analyste des opérations de sécurité enquête sur les incidents de sécurité et les contient, rédige des règles de détection et améliore la surveillance de la sécurité de l'organisation.
+    responsibilities:
+      - Enquêter sur les incidents de sécurité, en déterminer l'étendue et les contenir, avec les propriétaires des systèmes et les services cliniques.
+      - Rédiger et ajuster des règles de détection, et mener des chasses aux menaces fondées sur les menaces actuelles contre la santé.
+      - Surveiller les accès inappropriés aux dossiers des patients, et transmettre les cas à la gouvernance de l'information.
+      - Évaluer les vulnérabilités selon le risque, y compris leur effet sur les services cliniques et les dispositifs médicaux.
+      - Améliorer les procédures d'exploitation et les outils après les incidents.
+      - Participer aux astreintes pour les incidents de sécurité hors heures ouvrées.
+    qualifications:
+      - Une licence en informatique ou en cybersécurité, des certifications de sécurité pertinentes ou une expérience équivalente.
+      - Une expérience de la surveillance de la sécurité ou de la réponse aux incidents.
+    job_evaluation_notes: L'effort mental reflète une concentration prolongée fréquente pendant les enquêtes, y compris en astreinte. L'effort émotionnel reflète une exposition indirecte fréquente à des contenus pénibles des dossiers des patients et à la pression des incidents en cours.
+  - title: Analyste des opérations de sécurité senior
+    summary: L'analyste des opérations de sécurité senior dirige la réponse aux incidents de sécurité importants, dirige la chasse aux menaces et oriente le travail de l'équipe des opérations de sécurité.
+    responsibilities:
+      - Diriger la réponse technique aux incidents de sécurité importants, y compris les rançongiciels et le vol de données, en coordination avec la gestion des incidents.
+      - Conseiller les responsables cliniques et opérationnels sur les décisions de confinement qui touchent la prise en charge des patients.
+      - Diriger la chasse aux menaces et le renseignement sur les menaces, et partager les informations avec les partenaires de sécurité du secteur de la santé.
+      - Fixer les priorités de l'ingénierie de détection et de la couverture de surveillance, y compris pour les réseaux de dispositifs médicaux.
+      - Diriger des exercices qui testent la réponse aux incidents avec les équipes techniques et cliniques.
+      - Accompagner et orienter les analystes des opérations de sécurité.
+    qualifications:
+      - Une expérience significative des opérations de sécurité et de la réponse aux incidents, d'un niveau équivalent à un diplôme de troisième cycle.
+      - Des certifications de sécurité avancées pertinentes, ou une expérience équivalente.
+    job_evaluation_notes: Les efforts mental et émotionnel reflètent la direction de la réponse à des incidents graves sous pression, souvent hors heures ouvrées, lorsque les services cliniques sont menacés.

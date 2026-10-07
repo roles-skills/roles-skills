@@ -1,0 +1,228 @@
+# French translations of data/skills/clinical-ig.yaml. Keys are the English skill ids.
+clin-clinical-systems-optimisation:
+  name: Conception et optimisation des systèmes cliniques
+  description: Concevoir, paramétrer et améliorer les systèmes cliniques, comme le dossier patient informatisé, la prescription d'examens et la prescription électronique, pour qu'ils s'adaptent aux parcours de travail cliniques et soutiennent des soins sûrs et efficaces.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer comment les systèmes cliniques, comme le dossier patient informatisé, soutiennent les soins
+      - décrire les parcours de travail cliniques que soutient un système
+    working: |
+      Vous pouvez :
+      - cartographier les parcours de travail cliniques actuels et futurs avec les cliniciens et le personnel soignant
+      - tester le paramétrage du système au regard de scénarios cliniques
+      - rédiger des exigences cliniques claires pour les équipes produit
+    practitioner: |
+      Vous pouvez :
+      - diriger la conception clinique du paramétrage, des formulaires, des protocoles de prescription et de l'aide à la décision
+      - utiliser les données et les retours des utilisateurs pour trouver et corriger les problèmes de parcours
+      - concilier besoin clinique, sécurité, utilisabilité et contraintes du système
+    expert: |
+      Vous pouvez :
+      - fixer les principes et les normes de conception des systèmes cliniques dans toute l'organisation
+      - diriger des programmes d'optimisation qui améliorent de façon mesurable les soins et l'expérience du personnel
+      - conseiller la direction sur le choix des systèmes cliniques et leur effet sur les soins
+clin-human-factors:
+  name: Facteurs humains et utilisabilité des systèmes cliniques
+  description: Appliquer les méthodes des facteurs humains et de l'utilisabilité aux systèmes cliniques, afin que les cliniciens, le personnel soignant et les patients puissent les utiliser en sécurité et avec le moins d'erreurs possible.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer comment une mauvaise conception peut entraîner des erreurs de soins
+      - signaler les problèmes d'utilisabilité qui pourraient toucher la sécurité des patients
+    working: |
+      Vous pouvez :
+      - participer à des tests d'utilisabilité et à des simulations de tâches cliniques
+      - repérer des dangers de conception courants, comme des options d'apparence semblable ou des alertes masquées
+    practitioner: |
+      Vous pouvez :
+      - planifier et réaliser des évaluations des facteurs humains des systèmes cliniques
+      - traduire les constats en changements de conception et en mesures de sécurité clinique
+      - évaluer la charge d'alertes et le risque de contournements
+    expert: |
+      Vous pouvez :
+      - fixer l'approche de l'organisation en matière de facteurs humains dans les services numériques
+      - examiner les preuves relatives aux facteurs humains des systèmes et des changements à haut risque
+      - développer les compétences en facteurs humains des équipes cliniques et numériques
+clin-digital-health-evaluation:
+  name: Évaluation et bénéfices de la santé numérique
+  description: Planifier et réaliser des évaluations des technologies de santé numérique, et mesurer leurs bénéfices cliniques, de sécurité et de service avec des méthodes et des données probantes solides.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer pourquoi les technologies de santé numérique doivent démontrer leurs bénéfices et leur sécurité
+      - trouver des données publiées sur une technologie
+    working: |
+      Vous pouvez :
+      - recueillir des données de référence et de suivi pour une évaluation
+      - réaliser des audits cliniques de l'usage des systèmes
+      - résumer les résultats d'une évaluation pour vos collègues
+    practitioner: |
+      Vous pouvez :
+      - concevoir des évaluations et des plans de bénéfices pour des produits de santé numérique
+      - choisir des indicateurs adaptés pour les résultats cliniques, la sécurité et l'expérience
+      - juger la solidité des données probantes et en expliquer les limites
+    expert: |
+      Vous pouvez :
+      - fixer l'approche de l'organisation en matière d'évaluation de la santé numérique
+      - diriger des programmes de recherche et d'évaluation avec des partenaires universitaires et de soins
+      - utiliser les données probantes pour conseiller le conseil d'administration sur l'investissement numérique
+clin-professional-practice:
+  name: Pratique clinique réglementée dans le numérique
+  description: Apporter au travail numérique des connaissances et un jugement cliniques actuels de professionnel inscrit à un ordre, en respectant les normes, l'éthique et les obligations de revalidation d'une profession clinique.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les normes professionnelles qui s'appliquent à un clinicien inscrit à un ordre
+      - reconnaître quand une question exige un avis clinique
+    working: |
+      Vous pouvez :
+      - appliquer vos connaissances cliniques au travail numérique dans le cadre de votre champ de pratique
+      - maintenir à jour votre inscription et votre développement professionnel continu
+      - donner des avis cliniques sur les parcours de travail, les contenus et la sécurité
+    practitioner: |
+      Vous pouvez :
+      - porter des jugements cliniques solides sur l'effet des services numériques sur les soins
+      - remettre en cause avec assurance les pratiques dangereuses, dans un cadre numérique ou clinique
+      - aider d'autres cliniciens à appliquer leurs normes professionnelles au travail numérique
+    expert: |
+      Vous pouvez :
+      - diriger les normes professionnelles cliniques du travail numérique de l'organisation
+      - être une voix clinique de premier plan dans les décisions sur la sécurité et la prise en charge des patients
+      - soutenir la revalidation et le développement professionnel des cliniciens occupant des postes numériques
+ig-information-rights-requests:
+  name: Demandes d'exercice des droits sur l'information
+  description: Traiter les demandes des personnes et du public d'accès à l'information, comme les demandes d'accès au dossier médical personnel et les demandes d'informations détenues par l'organisation, dans les délais légaux.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - reconnaître une demande d'exercice des droits sur l'information et la transmettre sans délai
+      - expliquer que les demandes sont soumises à des délais légaux
+    working: |
+      Vous pouvez :
+      - enregistrer les demandes, en accuser réception et les suivre pour respecter les délais
+      - rassembler et occulter les informations, et préparer des projets de réponse à faire relire
+      - vérifier l'identité et la qualité de la personne qui fait la demande
+    practitioner: |
+      Vous pouvez :
+      - traiter des demandes complexes ou sensibles, y compris celles qui concernent des tiers
+      - appliquer des exceptions et décider ce qu'il faut retenir, avec des motifs clairs
+      - gérer les réexamens internes et les réclamations sur les réponses
+    expert: |
+      Vous pouvez :
+      - fixer la politique et le processus relatifs aux droits sur l'information dans toute l'organisation
+      - diriger la réponse aux demandes et aux recours du régulateur
+      - rendre compte à la direction de la performance et des tendances
+ig-records-retention:
+  name: Conservation et élimination des dossiers
+  description: Appliquer les calendriers de conservation aux dossiers papier et numériques, et les archiver ou les détruire de façon sûre au bon moment, avec une piste d'audit.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer pourquoi les dossiers sont conservés pendant des durées fixées puis détruits ou archivés
+      - suivre les procédures de stockage et de déplacement des dossiers
+    working: |
+      Vous pouvez :
+      - appliquer le calendrier de conservation aux dossiers et signaler ceux à réexaminer
+      - préparer les dossiers pour leur archivage ou leur destruction sûre, et tenir la piste d'audit
+    practitioner: |
+      Vous pouvez :
+      - piloter le programme de conservation et d'élimination d'un service des dossiers
+      - conseiller les équipes sur la conservation de nouveaux types de dossiers, y compris numériques
+      - auditer le respect des calendriers de conservation
+    expert: |
+      Vous pouvez :
+      - fixer la politique et le calendrier de conservation de l'organisation
+      - planifier la préservation à long terme des dossiers numériques
+      - résoudre des questions de conservation complexes, comme les gels pour contentieux et les enquêtes publiques
+ig-data-protection-impact-assessment:
+  name: Analyse d'impact relative à la protection des données
+  description: Évaluer les risques pour la vie privée d'un traitement nouveau ou modifié de données personnelles et de santé, et convenir des mesures avant le début du traitement.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer quand une analyse d'impact relative à la protection des données est nécessaire
+      - remplir un questionnaire de présélection pour votre travail
+    working: |
+      Vous pouvez :
+      - aider les équipes projet à réaliser des analyses d'impact relatives à la protection des données
+      - décrire les flux de données et identifier la base légale du traitement
+      - consigner les risques pour la vie privée et les mesures proposées
+    practitioner: |
+      Vous pouvez :
+      - examiner les analyses d'impact relatives à la protection des données des systèmes complexes et conseiller à leur sujet
+      - juger si les risques sont acceptables et recommander des mesures
+      - décider quand faire remonter les risques élevés pour examen par la direction ou le régulateur
+    expert: |
+      Vous pouvez :
+      - fixer le processus et les normes d'analyse d'impact relative à la protection des données de l'organisation
+      - donner l'avis final sur les traitements les plus risqués, comme le partage de données à grande échelle ou l'IA
+      - consulter les régulateurs lorsque la loi l'exige
+ig-incident-management:
+  name: Gestion des incidents de gouvernance de l'information
+  description: Enregistrer les violations de données et les quasi-incidents, enquêter à leur sujet et en tirer les leçons, et décider quand informer les régulateurs et les personnes concernées.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - reconnaître une violation de données ou un quasi-incident et le signaler immédiatement
+    working: |
+      Vous pouvez :
+      - enregistrer les incidents et établir les faits
+      - évaluer les incidents selon les critères de gravité de l'organisation
+      - suivre les actions jusqu'à leur clôture
+    practitioner: |
+      Vous pouvez :
+      - enquêter sur les incidents graves et en trouver les causes profondes
+      - décider, avec des collègues expérimentés, s'il faut notifier les régulateurs et les personnes concernées
+      - partager les enseignements et suivre les améliorations
+    expert: |
+      Vous pouvez :
+      - fixer le processus de gestion des incidents de gouvernance de l'information
+      - diriger la réponse aux violations majeures, y compris auprès des régulateurs et des médias
+      - rendre compte au conseil d'administration des tendances et des risques liés aux incidents
+ig-confidentiality-and-sharing:
+  name: Confidentialité et partage d'informations
+  description: Protéger les informations confidentielles des patients tout en veillant à ce qu'elles soient partagées de façon licite lorsque les soins, la sécurité ou la loi l'exigent, y compris au moyen d'accords de partage d'informations.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - protéger les informations confidentielles et ne les partager que lorsque vous y êtes autorisé
+      - demander conseil en cas de doute
+    working: |
+      Vous pouvez :
+      - vérifier qu'une demande de partage d'informations respecte la politique
+      - consigner ce qui a été partagé, avec qui et pourquoi
+      - rédiger des accords simples de partage d'informations
+    practitioner: |
+      Vous pouvez :
+      - conseiller sur des questions de confidentialité complexes, comme le partage sans consentement dans l'intérêt public
+      - examiner les accords de partage d'informations avec les organisations partenaires
+      - appliquer aux flux de données les règles de consentement et d'opposition des patients
+    expert: |
+      Vous pouvez :
+      - être le conseiller principal de l'organisation en matière de confidentialité
+      - trancher les décisions de communication les plus difficiles
+      - fixer le cadre du partage d'informations avec les partenaires
+ig-compliance-assurance:
+  name: Assurance et audit de la gouvernance de l'information
+  description: Vérifier et démontrer que l'organisation respecte les normes de gouvernance de l'information, au moyen d'autoévaluations annuelles, d'audits, de preuves et de plans d'amélioration.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer pourquoi l'organisation doit démontrer qu'elle gère bien l'information
+      - fournir des preuves pour un audit quand on vous le demande
+    working: |
+      Vous pouvez :
+      - rassembler et organiser les preuves pour l'autoévaluation annuelle
+      - réaliser des audits simples, comme ceux des accès ou de la tenue des dossiers
+      - suivre les actions d'amélioration
+    practitioner: |
+      Vous pouvez :
+      - planifier et piloter le programme d'assurance de la gouvernance de l'information
+      - juger si les preuves satisfont la norme et identifier les lacunes
+      - travailler avec les auditeurs internes et externes
+    expert: |
+      Vous pouvez :
+      - être responsable du cadre d'assurance de la gouvernance de l'information de l'organisation
+      - rendre compte de l'assurance et de la conformité au conseil d'administration et à ses comités
+      - fixer les priorités d'amélioration en fonction du risque

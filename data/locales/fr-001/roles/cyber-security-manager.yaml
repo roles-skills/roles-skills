@@ -1,0 +1,58 @@
+summary: >
+  Les responsables de la cybersécurité dirigent l'approche de l'organisation pour protéger ses systèmes, ses données et ses services contre les cybermenaces. Ils fixent la politique de sécurité, gèrent le risque cyber, supervisent les opérations et l'ingénierie de sécurité, dirigent la réponse aux cyberincidents majeurs et développent une culture de la sécurité. En santé, ils veillent à ce que les services cliniques puissent continuer à fonctionner en sécurité, et se rétablir rapidement, en cas d'attaque.
+health_context:
+  - Une cyberattaque contre une organisation de santé peut arrêter les systèmes cliniques et mettre les patients en danger, c'est pourquoi la cybersécurité fait partie de la sécurité des patients et de la continuité d'activité.
+  - Les organisations de santé doivent souvent respecter des normes sectorielles de cybersécurité et déclarer les incidents graves aux autorités compétentes.
+  - Le personnel clinique a besoin d'un accès rapide aux systèmes, c'est pourquoi les politiques de sécurité sont conçues avec les cliniciens et leur utilisabilité est testée.
+  - La sécurité dépend de nombreux fournisseurs, y compris les fournisseurs de systèmes cliniques et les services partagés, c'est pourquoi l'assurance des fournisseurs est au cœur du rôle.
+  - Les dispositifs médicaux et les systèmes anciens créent des risques durables, gérés avec les équipes biomédicales et de sécurité clinique.
+levels:
+  - title: Responsable de la cybersécurité
+    summary: Le responsable de la cybersécurité pilote la fonction de cybersécurité, ou une grande partie de celle-ci, en gérant le risque cyber, les opérations de sécurité et l'assurance.
+    responsibilities:
+      - Piloter les opérations de sécurité, la gestion des vulnérabilités et l'assurance, et rendre compte de leur performance.
+      - Tenir le registre des risques cyber, et veiller à ce que les risques pour les services cliniques soient évalués et aient un responsable.
+      - Rédiger et tenir à jour les politiques et les normes de sécurité, et vérifier qu'elles sont respectées.
+      - Diriger la réponse aux cyberincidents, avec la gestion des incidents et les responsables cliniques et opérationnels.
+      - Mener la sensibilisation à la sécurité et les exercices d'hameçonnage pour tout le personnel, y compris clinique.
+      - Encadrer les analystes et les ingénieurs sécurité.
+    qualifications:
+      - Une solide expérience de la cybersécurité, y compris la réponse aux incidents et la gestion des risques, d'un niveau équivalent à un master.
+      - Une certification professionnelle reconnue en sécurité, ou une expérience équivalente.
+    job_evaluation_notes: Les efforts mental et émotionnel reflètent la direction de la réponse aux cyberincidents sous pression, souvent hors heures ouvrées, lorsque la prise en charge des patients peut être menacée.
+  - title: Responsable senior de la cybersécurité
+    summary: Le responsable senior de la cybersécurité dirige la cybersécurité dans plusieurs équipes, gère l'assurance au regard des normes sectorielles et pilote le programme d'amélioration de la sécurité de l'organisation.
+    responsibilities:
+      - Diriger les équipes de cybersécurité des opérations, de l'ingénierie et de l'assurance.
+      - Piloter le programme d'amélioration de la cybersécurité de l'organisation et gérer son budget.
+      - Gérer l'assurance au regard des normes sectorielles de cybersécurité et des mesures ISO/IEC 27001, et préparer les preuves pour les audits.
+      - Diriger la réponse aux cyberincidents majeurs, et planifier et tester la reprise avec les responsables de la continuité d'activité et cliniques.
+      - Évaluer la sécurité des fournisseurs et des services partagés, et convenir des exigences de sécurité dans les contrats.
+      - Conseiller les comités de programme sur les risques de sécurité des nouveaux services cliniques et numériques.
+    qualifications:
+      - Une solide expérience de la direction d'équipes de cybersécurité dans une organisation complexe.
+      - Une certification professionnelle reconnue en sécurité, ou une expérience équivalente.
+    job_evaluation_notes: Les efforts mental et émotionnel reflètent la direction de la réponse aux cyberincidents majeurs, qui peuvent durer des jours ou des semaines et menacer la prise en charge des patients.
+  - title: Directeur de la cybersécurité
+    summary: Le directeur de la cybersécurité fixe la stratégie de cybersécurité de l'organisation et rend compte de sa gestion du risque cyber, de ses opérations de sécurité et de sa réponse aux incidents majeurs.
+    responsibilities:
+      - Fixer la stratégie de cybersécurité, alignée sur les stratégies numérique et clinique de l'organisation.
+      - Conseiller le conseil d'administration et l'équipe de direction sur le risque cyber, l'appétit pour le risque et les investissements.
+      - Diriger la réponse de l'organisation aux cyberincidents majeurs, y compris la communication avec les régulateurs, les partenaires et le public.
+      - Construire une culture de la sécurité dans laquelle tout le personnel, cliniciens compris, comprend les menaces et les signale.
+      - Représenter l'organisation dans les réseaux de cybersécurité de la santé et auprès des organisations partenaires.
+      - Diriger et faire progresser la fonction de cybersécurité, et gérer son budget.
+    qualifications:
+      - Une solide expérience de la direction de la cybersécurité d'une grande organisation, y compris la réponse aux incidents majeurs.
+  - title: Responsable de la sécurité des systèmes d'information
+    summary: Le responsable de la sécurité des systèmes d'information porte la responsabilité institutionnelle de la cybersécurité de toute l'organisation, et souvent des organisations partenaires qui partagent ses services.
+    responsibilities:
+      - Porter la responsabilité institutionnelle de la cybersécurité, et en rendre compte au conseil d'administration.
+      - Fixer avec le conseil d'administration l'appétit pour le risque de sécurité, et veiller à ce qu'il oriente les décisions dans toute l'organisation.
+      - Diriger la cybersécurité des services partagés et des organisations partenaires, lorsque l'organisation les fournit.
+      - Diriger la réponse de l'organisation aux cyberincidents les plus graves, avec l'équipe de direction et les autorités compétentes.
+      - Façonner la pratique de la cybersécurité dans tout le secteur de la santé et des soins en travaillant avec les partenaires et les instances sectorielles.
+      - Diriger la fonction sécurité et détenir les budgets de plusieurs services.
+    qualifications:
+      - Une solide expérience de la direction de la cybersécurité au niveau du conseil d'administration, ou pour plusieurs organisations.
+    job_evaluation_notes: Ce niveau convient aux grandes organisations, ou à celles qui fournissent des services numériques partagés à des partenaires. Les plus petites organisations ont généralement un directeur de la cybersécurité en bande 8c comme poste de sécurité le plus élevé.

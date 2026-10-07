@@ -1,0 +1,66 @@
+summary: >
+  Les codeurs cliniques lisent les dossiers médicaux des patients et traduisent les diagnostics, les actes et les autres informations cliniques en codes de classification standard, comme la CIM pour les diagnostics et une classification des actes pour les interventions. Les données codées servent au financement, à la planification des services, à l'audit clinique, à la recherche et aux statistiques de santé publique, c'est pourquoi leur exactitude compte bien au-delà de l'équipe de codage. Les codeurs travaillent étroitement avec les cliniciens pour clarifier les dossiers, et utilisent de plus en plus des terminologies cliniques comme SNOMED CT et des outils de codage assisté par ordinateur.
+health_context:
+  - Les codeurs lisent des dossiers complets, qui décrivent souvent des maladies graves, des blessures, des maltraitances, des automutilations et des décès, c'est pourquoi le travail est éprouvant sur le plan émotionnel et les équipes ont besoin d'un bon soutien et d'une bonne supervision.
+  - Les données codées déterminent le financement à l'activité, les indicateurs de mortalité et de résultats et la planification des services, c'est pourquoi les erreurs peuvent toucher le financement, la performance publiée et les décisions sur les soins.
+  - Le codage dépend de la qualité de la documentation clinique, c'est pourquoi les codeurs interrogent les cliniciens sur les dossiers peu clairs et aident à améliorer la manière dont les soins sont consignés.
+  - Les codeurs manipulent chaque jour des dossiers médicaux complets et identifiants, c'est pourquoi la confidentialité et un accès correct sont essentiels.
+  - Le codage automatisé et assisté par ordinateur, et les correspondances de SNOMED CT vers les classifications, transforment le métier, et les codeurs vérifient l'exactitude des codes automatiques.
+levels:
+  - title: Codeur clinique en formation
+    summary: Le codeur clinique en formation apprend à coder des séjours hospitaliers simples sous une supervision rapprochée, en préparant une qualification en codage clinique.
+    responsibilities:
+      - Coder des séjours simples, comme l'ambulatoire, à partir des dossiers médicaux selon les règles de classification, tout le travail étant vérifié par un codeur senior.
+      - Apprendre les termes médicaux, l'anatomie et les normes de codage nationales et internationales par une formation structurée.
+      - Retrouver, suivre et rendre correctement les dossiers médicaux, et les garder en sécurité.
+      - Saisir les données codées dans le système de gestion administrative des patients ou de codage avec exactitude et à temps.
+      - Signaler à un codeur senior les informations peu claires ou manquantes.
+    qualifications:
+      - De bonnes compétences en lecture, en écriture et au clavier, et une inscription à une formation au codage clinique, ou équivalent.
+    job_evaluation_notes: L'effort mental est au niveau 4, car les codeurs se concentrent longuement pour lire et interpréter des dossiers détaillés. L'effort émotionnel est au niveau 2, car les codeurs lisent souvent des dossiers qui décrivent des événements pénibles.
+  - title: Codeur clinique
+    summary: Le codeur clinique code en autonomie et avec exactitude toute la gamme des séjours courants, dans le respect des délais et des normes de qualité convenus.
+    responsibilities:
+      - Coder avec exactitude les séjours d'hospitalisation, d'ambulatoire et de consultation des spécialités courantes, selon les règles de classification et les politiques locales.
+      - Interroger les cliniciens sur les informations cliniques peu claires, manquantes ou contradictoires et consigner la réponse.
+      - Vérifier les codes proposés par le codage assisté ou les correspondances terminologiques, et les corriger si nécessaire.
+      - Respecter les délais d'exhaustivité du codage, pour que les données soient prêtes pour le financement et les rapports.
+      - Participer aux audits de codage et agir sur leurs constats.
+    qualifications:
+      - Une qualification reconnue en codage clinique, ou sa préparation avec une expérience équivalente.
+    job_evaluation_notes: Les efforts mental et émotionnel reflètent de longues périodes de concentration sur des dossiers qui décrivent souvent des maladies graves, des blessures et des décès.
+  - title: Codeur clinique senior
+    summary: Le codeur clinique senior code des séjours complexes dans différentes spécialités, sert de référence pour les autres codeurs, et vérifie et forme les codeurs moins expérimentés.
+    responsibilities:
+      - Coder des séjours complexes, comme les soins critiques, le cancer, les actes multiples et les décès, dans différentes spécialités.
+      - Résoudre des questions de codage difficiles avec les médecins et les autres cliniciens seniors, en expliquant clairement les règles de codage.
+      - Vérifier le travail des codeurs en formation et leur faire des retours et une formation sur le poste.
+      - Valider les données codées avant leur transmission et corriger les erreurs avec la bonne équipe.
+      - Travailler avec les équipes cliniques pour améliorer la qualité de la documentation clinique.
+    qualifications:
+      - Une qualification reconnue en codage clinique, ou une expérience équivalente.
+      - Une expérience du codage de séjours complexes dans diverses spécialités.
+    job_evaluation_notes: L'effort émotionnel reste au niveau 2, car les séjours complexes comme les décès et la prise en charge du cancer font partie courante du travail.
+  - title: Auditeur et formateur en codage clinique
+    summary: L'auditeur et formateur en codage clinique audite l'exactitude des données codées, conçoit et anime la formation au codage, et conseille l'organisation sur les normes de codage. Dans certaines organisations, ce niveau dirige aussi une équipe de codage au quotidien.
+    responsibilities:
+      - Planifier et réaliser des audits de codage dans différentes spécialités, en mesurant l'exactitude au regard des normes nationales et internationales.
+      - Présenter les constats des audits aux équipes de codage, cliniques, financières et de l'information, et convenir d'actions d'amélioration.
+      - Concevoir et animer la formation au codage, des cours de base pour les nouveaux codeurs aux mises à jour sur les changements de normes.
+      - Conseiller les cliniciens et les responsables sur l'effet du codage sur le financement, les indicateurs de mortalité et les données de performance.
+      - Diriger l'introduction des changements de version des classifications, des normes de codage et des outils de codage.
+      - Diriger une équipe de codage au quotidien lorsque l'organisation associe cette fonction à l'audit et à la formation.
+    qualifications:
+      - Une qualification reconnue en codage clinique et une qualification reconnue en audit ou en formation au codage clinique, ou une expérience équivalente.
+    job_evaluation_notes: Les personnes sont au niveau 3, car concevoir et dispenser une formation spécialisée au codage est une tâche principale. La recherche est au niveau 2, car l'audit du codage fait partie courante de l'emploi.
+  - title: Responsable du codage clinique
+    summary: Le responsable du codage clinique dirige le service de codage clinique de l'organisation, y compris ses équipes de codage, son programme qualité et ses liens avec les équipes cliniques, financières et de l'information.
+    responsibilities:
+      - Diriger le service de codage clinique et ses chefs d'équipe, en veillant à ce que le codage soit complet, exact et à temps.
+      - Fixer les politiques de codage et le programme qualité du codage, conformément aux normes nationales et internationales.
+      - Détenir le budget du codage et planifier les effectifs, y compris le recrutement, la formation et l'accréditation.
+      - Conseiller la direction sur l'effet du codage sur le financement, les indicateurs de mortalité et de résultats et les données publiées.
+      - Diriger l'adoption de nouvelles technologies de codage, comme le codage assisté et les correspondances terminologiques, avec les collègues de la sécurité clinique et de la gouvernance de l'information.
+      - Soutenir le bien-être des codeurs qui lisent régulièrement des dossiers éprouvants.
+    qualifications:
+      - Une qualification reconnue en codage clinique et une solide expérience du codage, de l'audit et de l'encadrement de codeurs, ou une expérience équivalente.

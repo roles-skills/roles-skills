@@ -1,0 +1,237 @@
+# French translations of data/skills/legal.yaml. Keys are the English skill ids.
+legal-legal-research:
+  name: Recherche juridique
+  description: Trouver, lire et synthétiser la législation, la jurisprudence, les guides et les précédents pour répondre à une question juridique.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - trouver la législation, les guides et les documents de précédents à l'aide des bases de données juridiques et du savoir-faire interne
+      - employer correctement les termes juridiques
+    working: |
+      Vous pouvez :
+      - rechercher une question juridique définie et synthétiser clairement les sources
+      - vérifier que les sources sont à jour et font autorité
+      - tenir à jour les bibliothèques de précédents et de savoir-faire
+    practitioner: |
+      Vous pouvez :
+      - rechercher des questions complexes ou nouvelles, comme l'application du droit existant aux nouvelles technologies
+      - analyser des sources contradictoires et parvenir à un avis motivé
+      - suivre les évolutions du droit et des guides et en expliquer l'effet sur l'organisation
+    expert: |
+      Vous pouvez :
+      - diriger la recherche sur les questions les plus complexes et à plus haut risque pour l'organisation
+      - anticiper les évolutions juridiques et y préparer l'organisation
+      - contribuer aux consultations sur le droit et les guides qui touchent la santé et les soins numériques
+legal-contract-drafting-and-review:
+  name: Rédaction et relecture de contrats
+  description: Rédiger, relire et négocier des contrats et des accords, comme les contrats technologiques, de licence logicielle, d'informatique en nuage, de services et de sous-traitance de données.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les principales parties d'un contrat, comme les parties, la durée, le paiement, la responsabilité et la résiliation
+      - préparer des documents standard à partir de modèles approuvés
+    working: |
+      Vous pouvez :
+      - relire des accords courants, comme les accords de confidentialité et les contrats de services simples, au regard des normes de l'organisation
+      - annoter les contrats et expliquer les modifications
+      - repérer les clauses qui nécessitent l'examen d'un juriste, comme la responsabilité illimitée ou la tacite reconduction
+    practitioner: |
+      Vous pouvez :
+      - rédiger et négocier des accords complexes, comme les licences logicielles, l'hébergement en nuage, l'intégration de systèmes et la sous-traitance de données
+      - conseiller sur la répartition des risques, y compris les plafonds de responsabilité, les niveaux de service, la réversibilité et le séquestre
+      - veiller à ce que les contrats protègent les données des patients, la continuité du service et les droits de l'organisation sur ses logiciels et ses données
+      - rédiger et tenir à jour les modèles de contrats et les guides de négociation
+    expert: |
+      Vous pouvez :
+      - fixer les normes contractuelles et les positions de risque de l'organisation
+      - diriger les négociations des accords les plus importants ou les plus risqués
+      - conseiller la direction sur les montages commerciaux stratégiques, comme les partenariats et les coentreprises
+legal-legal-advice:
+  name: Conseil juridique
+  description: Donner un conseil juridique clair, pratique et exact qui aide les collègues à prendre des décisions licites et à gérer le risque juridique.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer quand les collègues ont besoin d'un conseil juridique et comment l'obtenir
+      - recueillir des instructions claires et consigner les faits d'un dossier
+    working: |
+      Vous pouvez :
+      - préparer des projets d'avis sur des questions courantes, à faire relire par un juriste
+      - répondre à des questions simples à l'aide de guides approuvés
+      - identifier les questions juridiques posées par un ensemble de faits
+    practitioner: |
+      Vous pouvez :
+      - donner un conseil juridique indépendant dans vos domaines de pratique
+      - expliquer le risque juridique en langage clair et recommander des options pratiques
+      - conseiller sur les décisions ayant des effets juridiques, comme l'attribution de marchés, le partage de données et les changements de service
+      - décider quand faire appel à des avocats ou à des conseils extérieurs
+    expert: |
+      Vous pouvez :
+      - conseiller le conseil d'administration et la direction sur les risques juridiques les plus importants de l'organisation
+      - donner un avis définitif sur les questions nouvelles, contentieuses ou à fort enjeu
+      - fixer l'appétit pour le risque juridique de l'organisation
+      - garantir la qualité du conseil juridique dans toute l'organisation, y compris le conseil externe
+legal-litigation-and-disputes:
+  name: Contentieux et règlement des litiges
+  description: Prévenir, gérer et régler les litiges et les réclamations, y compris les litiges contractuels, les contentieux du travail et les relations sur les réclamations pour faute médicale.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les principales étapes d'une réclamation ou d'un litige
+      - enregistrer les réclamations et suivre les délais avec exactitude
+    working: |
+      Vous pouvez :
+      - rassembler et organiser les documents et les preuves d'un dossier
+      - préparer des chronologies, des dossiers de pièces et des projets d'attestations
+      - échanger avec les avocats extérieurs, les assureurs ou les dispositifs d'indemnisation sur les questions courantes
+    practitioner: |
+      Vous pouvez :
+      - gérer un portefeuille de litiges et de réclamations, de la première notification jusqu'à la transaction ou à l'audience
+      - évaluer le bien-fondé et le montant des réclamations et recommander une stratégie
+      - négocier des transactions et recourir aux modes alternatifs de règlement des litiges
+      - veiller à ce que les enseignements des réclamations nourrissent les améliorations de la sécurité, des contrats et des services
+    expert: |
+      Vous pouvez :
+      - diriger les litiges les plus importants ou les plus médiatisés de l'organisation
+      - fixer l'approche de l'organisation en matière de contentieux, de transaction et de suivi des réclamations
+      - conseiller le conseil d'administration sur les passifs éventuels et le risque de réputation
+legal-information-and-data-law:
+  name: Droit de l'information et des données
+  description: Appliquer le droit de la protection des données, de la confidentialité, de l'accès à l'information et de la cybersécurité aux données de santé et de soins et aux services numériques.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les principes de base de la protection des données et de la confidentialité
+      - reconnaître les demandes d'information et les violations de données et les orienter correctement
+    working: |
+      Vous pouvez :
+      - relire les accords de partage et de sous-traitance de données au regard des modèles
+      - soutenir les réponses aux demandes d'information et aux demandes d'exercice des droits des personnes
+      - expliquer les bases légales d'utilisation des données de santé dans les situations courantes
+    practitioner: |
+      Vous pouvez :
+      - conseiller sur la protection des données, le devoir de confidentialité et le droit d'accès à l'information pour les services numériques
+      - rédiger et négocier des accords de partage de données et des clauses de sous-traitance, y compris les transferts internationaux
+      - conseiller sur les analyses d'impact relatives à la protection des données des nouvelles technologies, comme l'IA et les plateformes d'analyse
+      - conseiller sur les violations de données, les demandes du régulateur et les plaintes
+    expert: |
+      Vous pouvez :
+      - fixer la position juridique de l'organisation sur l'usage des données de santé et de soins
+      - diriger les usages de données à haut risque ou nouveaux, comme la recherche, les plateformes de données et l'IA
+      - représenter l'organisation auprès des régulateurs en matière de droit de l'information
+legal-legal-administration:
+  name: Administration juridique
+  description: Mener les processus administratifs d'une équipe juridique, y compris la gestion des dossiers, la maîtrise documentaire, les registres, les délais et la facturation.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - ouvrir, mettre à jour et clôturer des dossiers dans le système de gestion des dossiers
+      - classer et retrouver les documents juridiques en toute sécurité
+      - préserver la confidentialité des informations juridiques et personnelles
+    working: |
+      Vous pouvez :
+      - gérer les agendas, les délais et les dates clés d'une équipe
+      - préparer et mettre en forme des documents juridiques, des dossiers de pièces et des dossiers de signature
+      - vérifier et traiter les factures des avocats extérieurs
+      - tenir les registres des contrats et des actes
+    practitioner: |
+      Vous pouvez :
+      - piloter l'administration de l'équipe juridique et améliorer ses processus
+      - rendre compte de la charge de travail, des dépenses d'avocats extérieurs et des délais de traitement
+      - administrer les outils juridiques, comme la gestion des dossiers et la signature électronique
+    expert: |
+      Vous pouvez :
+      - concevoir le modèle d'organisation des opérations juridiques de l'organisation
+      - diriger le choix et l'usage des technologies juridiques
+      - fixer les normes de service et les indicateurs de performance des services juridiques
+legal-employment-law:
+  name: Droit du travail
+  description: Appliquer le droit du travail aux politiques RH, aux contrats, aux programmes de changement et aux litiges du travail de l'organisation.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les principaux droits des salariés
+      - reconnaître les questions d'emploi qui nécessitent un conseil juridique
+    working: |
+      Vous pouvez :
+      - aider à préparer les documents des contentieux et des audiences du travail
+      - relire les contrats de travail et les politiques au regard des modèles
+    practitioner: |
+      Vous pouvez :
+      - conseiller sur les questions d'emploi, comme le licenciement, la discrimination, les transferts de personnel et les restructurations
+      - gérer les contentieux du travail et négocier des accords transactionnels
+      - conseiller sur le recours aux prestataires et le statut d'emploi des spécialistes du numérique
+    expert: |
+      Vous pouvez :
+      - conseiller le conseil d'administration sur les grands changements d'effectifs et leurs risques juridiques
+      - diriger les litiges du travail complexes ou médiatisés
+      - façonner les politiques RH pour respecter les obligations légales et les bonnes pratiques
+legal-intellectual-property:
+  name: Propriété intellectuelle
+  description: Protéger et exploiter la propriété intellectuelle des logiciels, des données, des contenus et des inventions, y compris le droit d'auteur, les licences, le logiciel libre et les marques.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer que les logiciels, les données et les contenus sont protégés par des droits de propriété intellectuelle
+      - reconnaître quand un contrat ou un projet soulève des questions de titularité
+    working: |
+      Vous pouvez :
+      - vérifier les clauses de propriété intellectuelle des accords courants
+      - tenir les registres des licences et des droits enregistrés
+      - expliquer les principaux types de licences libres et leurs conditions
+    practitioner: |
+      Vous pouvez :
+      - conseiller sur la titularité des logiciels, des données et des contenus créés par le personnel, les fournisseurs et les partenaires
+      - rédiger des licences et des clauses de propriété intellectuelle, y compris la publication en logiciel libre du code de l'organisation
+      - conseiller sur l'exploitation commerciale des données et des logiciels de l'organisation, et sur le partage des bénéfices
+    expert: |
+      Vous pouvez :
+      - fixer la politique de propriété intellectuelle et de logiciel libre de l'organisation
+      - diriger la valorisation et les partenariats portant sur les données et les logiciels de l'organisation
+      - régler les litiges importants de propriété intellectuelle
+legal-procurement-law:
+  name: Droit de la commande publique
+  description: Appliquer les règles de la commande publique à l'achat de biens, de services et de technologies, du choix de la procédure à l'attribution du marché et à sa contestation.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer pourquoi les organismes publics doivent respecter les règles de la commande publique
+      - reconnaître quand un achat nécessite un conseil achats ou juridique
+    working: |
+      Vous pouvez :
+      - vérifier la cohérence et la complétude des documents de consultation
+      - soutenir la tenue des registres nécessaires pour démontrer une procédure équitable et transparente
+    practitioner: |
+      Vous pouvez :
+      - conseiller sur les procédures, y compris les accords-cadres, les attributions directes et les procédures concurrentielles
+      - conseiller sur l'évaluation, les décisions d'attribution et les modifications des marchés après attribution
+      - répondre aux contestations et aux réclamations des fournisseurs
+      - conseiller sur les risques d'aides d'État et de concurrence dans les partenariats
+    expert: |
+      Vous pouvez :
+      - fixer l'approche de l'organisation en matière de risque juridique dans la commande publique
+      - diriger les marchés à fort enjeu ou nouveaux, comme les partenariats d'innovation
+      - défendre les contestations importantes de marchés
+legal-health-and-care-law:
+  name: Droit de la santé et des soins
+  description: Appliquer le droit qui régit les services de santé et de soins, y compris le consentement, la capacité, la faute médicale, la réglementation des services et des produits, et les obligations légales de l'organisation.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les principales obligations et compétences légales de l'organisation
+      - reconnaître les questions qui touchent à la sécurité des patients, au consentement ou à la faute médicale
+    working: |
+      Vous pouvez :
+      - soutenir le travail juridique sur les incidents, les enquêtes judiciaires ou les réclamations cliniques
+      - expliquer le cadre réglementaire qui s'applique aux services de l'organisation
+    practitioner: |
+      Vous pouvez :
+      - conseiller sur les compétences et les obligations de l'organisation, y compris quand elle peut fournir ou commander un service
+      - conseiller sur la réglementation des produits de santé numérique, comme les logiciels dispositifs médicaux
+      - échanger avec les dispositifs d'indemnisation des fautes médicales et les avocats extérieurs sur les réclamations impliquant des services numériques
+      - conseiller sur le consentement, la capacité et les droits des patients dans les services numériques
+    expert: |
+      Vous pouvez :
+      - conseiller le conseil d'administration sur les obligations légales et la gouvernance de l'organisation
+      - diriger le travail juridique sur les enquêtes publiques, les recours juridictionnels et les incidents majeurs
+      - façonner la réponse de l'organisation aux nouvelles lois sur la santé et les soins

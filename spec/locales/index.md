@@ -12,6 +12,7 @@ How this reference is translated, and which locales are done. See [`locales-by-p
 | zh-001 | 中文 | Done | Simplified Chinese; AI-translated, not yet reviewed by a native speaker; slugs are made from the Chinese titles |
 | hi-001 | हिन्दी | Done | Hindi; AI-translated, not yet reviewed by a native speaker; slugs are made from the Devanagari titles, keeping vowel signs |
 | es-001 | Español | Done | Spanish; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, and "Head of" is the gender-neutral "Responsable de" |
+| fr-001 | Français | Done | French; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, and many "Head of" roles use the gender-neutral "Responsable de" |
 
 ## Process
 

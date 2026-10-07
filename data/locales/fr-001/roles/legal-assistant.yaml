@@ -1,0 +1,43 @@
+summary: >
+  Les assistants juridiques et les parajuristes soutiennent les juristes de l'organisation pour que le travail juridique soit organisé, exact et livré à temps. Ils gèrent les dossiers et les documents, préparent les contrats et les dossiers de pièces, font des recherches juridiques et traitent les tâches juridiques courantes. Dans une organisation de santé numérique, une grande partie du travail concerne les contrats technologiques, les accords de partage et de sous-traitance de données, les demandes d'information et les réclamations qui peuvent comporter des informations sensibles sur des patients.
+health_context:
+  - Les dossiers juridiques contiennent souvent des informations de santé confidentielles, comme les dossiers cliniques des réclamations, c'est pourquoi une gouvernance de l'information stricte s'applique.
+  - De nombreux accords portent sur des logiciels, des services en nuage et le partage de données, c'est pourquoi le personnel doit reconnaître les clauses qui comptent pour les données des patients et la continuité du service.
+  - Les délais des réclamations, des enquêtes judiciaires et des contestations de marchés sont courts et fixes, et les manquer peut coûter cher.
+  - L'organisation dépense de l'argent public en avocats extérieurs, c'est pourquoi les dépenses juridiques doivent être suivies et maîtrisées.
+levels:
+  - title: Agent administratif juridique
+    summary: Les agents administratifs juridiques gèrent les processus administratifs de l'équipe juridique, comme l'ouverture des dossiers, la gestion documentaire, les registres et les factures, selon des procédures établies.
+    responsibilities:
+      - Ouvrir, mettre à jour et clôturer des dossiers dans le système de gestion des dossiers.
+      - Classer, mettre en forme et retrouver les documents juridiques, en les gardant sécurisés et confidentiels.
+      - Tenir les registres des contrats, des actes et des signatures.
+      - Gérer les agendas et les dates clés, et rappeler les délais aux juristes.
+      - Vérifier et traiter les factures des avocats extérieurs.
+      - Répondre aux demandes courantes et orienter les demandes de conseil juridique.
+    qualifications:
+      - De bonnes compétences administratives et au clavier, acquises par les études ou l'expérience professionnelle.
+      - Une qualification en administration juridique est utile mais pas indispensable.
+  - title: Assistant juridique
+    summary: Les assistants juridiques soutiennent les juristes sur divers dossiers, en préparant des documents à partir de modèles, en menant des recherches définies et en gérant les étapes pratiques des contrats et des affaires.
+    responsibilities:
+      - Préparer des accords standard, comme les accords de confidentialité et de partage de données, à partir de modèles approuvés.
+      - Préparer des dossiers de pièces, des chronologies et des dossiers de signature pour les contrats et les affaires.
+      - Mener des recherches juridiques définies et en résumer les résultats pour les juristes.
+      - Rassembler les documents et les preuves des réclamations et des demandes d'information.
+      - Suivre les dépenses juridiques externes par rapport aux budgets et en rendre compte.
+      - Former les agents administratifs juridiques aux tâches courantes.
+    qualifications:
+      - Une qualification intermédiaire d'assistant juridique ou de parajuriste, ou une expérience équivalente.
+  - title: Parajuriste
+    summary: Les parajuristes gèrent leur propre portefeuille de dossiers juridiques courants sous la supervision d'un juriste, comme les relectures de contrats standard, les demandes d'information et le soutien aux réclamations.
+    responsibilities:
+      - Relire les accords courants, comme les licences logicielles, les contrats de services et de sous-traitance de données, au regard des normes de l'organisation.
+      - Gérer un portefeuille de réclamations ou de litiges courants, en préparant les documents et en échangeant avec les avocats extérieurs et les dispositifs d'indemnisation.
+      - Faire des recherches sur des questions juridiques et rédiger des projets d'avis à faire relire par un juriste.
+      - Soutenir les réponses aux demandes d'information complexes et aux demandes d'exercice des droits des personnes.
+      - Tenir à jour les modèles, les précédents et les guides juridiques.
+      - Coordonner le travail des assistants juridiques et des agents administratifs juridiques.
+    qualifications:
+      - Une licence en droit ou une qualification avancée de parajuriste, ou une expérience équivalente.
+    job_evaluation_notes: L'effort émotionnel est au niveau 2, car l'emploi lit régulièrement des dossiers cliniques et des récits de préjudices dans les réclamations.

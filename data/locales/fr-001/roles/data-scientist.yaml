@@ -1,0 +1,67 @@
+summary: >
+  Les data scientists utilisent la statistique, l'apprentissage automatique et d'autres méthodes avancées pour trouver des tendances dans les données de santé et de soins et construire des modèles qui aident les services à planifier, prévoir et améliorer les soins. Leur travail comprend par exemple la prévision de la demande, l'identification des patients qui pourraient bénéficier d'un soutien précoce et l'évaluation de l'effet des changements de service. Ils travaillent étroitement avec les cliniciens et les analystes, et veillent à ce que les modèles soient valides, équitables et utilisés en sécurité.
+health_context:
+  - Un modèle qui soutient des décisions sur des patients peut causer un préjudice s'il est faux ou biaisé, c'est pourquoi les modèles sont validés sur la population avec laquelle ils seront utilisés et font l'objet d'une évaluation de sécurité clinique.
+  - Les données de santé reflètent un accès inégal aux soins, c'est pourquoi les modèles peuvent reproduire ou aggraver les inégalités de santé si les biais ne sont pas mesurés et corrigés pour chaque groupe de patients.
+  - Certains modèles, comme ceux qui éclairent le diagnostic ou le traitement, peuvent être réglementés comme dispositifs médicaux, et la réglementation de l'IA peut aussi s'appliquer.
+  - La science des données a souvent besoin de données de patients détaillées et reliées, c'est pourquoi le travail se fait dans des environnements sécurisés, sur des données pseudonymisées et sur une base de gouvernance de l'information convenue.
+  - Les cliniciens et les patients doivent comprendre les résultats d'un modèle et leur faire confiance, c'est pourquoi l'explication et la communication claire de l'incertitude comptent.
+levels:
+  - title: Data scientist en formation
+    responsibilities:
+      - Apprendre les méthodes statistiques et d'apprentissage automatique, les outils et les méthodes de travail sécurisées de l'équipe par une formation structurée.
+      - Préparer et explorer sous supervision des jeux de données de santé pseudonymisés.
+      - Réaliser et interpréter des analyses statistiques simples, en vérifiant les résultats avec un data scientist plus expérimenté.
+      - Suivre les procédures de gouvernance de l'information, de contrôle de la divulgation et d'éthique.
+      - Préparer un diplôme en apprentissage en science des données ou une qualification équivalente.
+    qualifications:
+      - Inscrit à un apprentissage en science des données ou équivalent, ou en préparation.
+    job_evaluation_notes: Les connaissances sont cotées au niveau requis par l'emploi une fois la formation suffisamment avancée pour faire le travail.
+  - title: Data scientist adjoint
+    responsibilities:
+      - Construire et tester des modèles statistiques et d'apprentissage automatique de base, comme des prévisions de demande, avec un accompagnement.
+      - Préparer et relier des jeux de données de santé pour la modélisation dans des environnements sécurisés.
+      - Mesurer la performance des modèles pour différents groupes de patients et signaler les écarts.
+      - Présenter les résultats et leur incertitude aux analystes et aux équipes de service.
+      - Documenter les sources de données, les méthodes et les hypothèses pour que le travail soit reproductible.
+    qualifications:
+      - Une licence dans une discipline quantitative, un apprentissage en science des données ou une expérience équivalente.
+  - title: Data scientist
+    responsibilities:
+      - Développer en autonomie des modèles complexes, comme la stratification des risques ou la prévision de la durée de séjour, en choisissant des méthodes adaptées.
+      - Valider les modèles avec les cliniciens, en vérifiant qu'ils sont exacts, équitables et utiles sur les données des patients locaux.
+      - Documenter l'usage prévu, les données, la performance et les limites de chaque modèle, et apporter des preuves aux dossiers de sécurité clinique.
+      - Évaluer l'effet des changements de service avec des méthodes statistiques adaptées.
+      - Expliquer les modèles et leur incertitude à des publics cliniques et non techniques.
+      - Soutenir les data scientists adjoints et en formation.
+    qualifications:
+      - Une licence dans une discipline quantitative, ou une expérience équivalente.
+      - Une expérience de la construction et de la validation de modèles statistiques ou d'apprentissage automatique.
+  - title: Data scientist principal
+    responsibilities:
+      - Cadrer, concevoir et diriger des projets de science des données qui soutiennent la planification des services et la prise en charge des patients.
+      - Décider quels méthodes, outils et données conviennent, et remettre en cause les plans qui ne sont ni réalisables ni sûrs.
+      - Planifier avec les collègues de la sécurité clinique et de la gouvernance de l'information la validation, l'évaluation des biais et la surveillance des modèles.
+      - Convenir avec les équipes produit de la manière dont les modèles seront déployés et maintenus à grande échelle.
+      - Gérer et faire progresser une petite équipe de data scientists.
+    qualifications:
+      - Une expérience significative de la réalisation de projets de science des données, d'un niveau équivalent à un master ou à un doctorat dans une discipline quantitative.
+  - title: Data scientist référent
+    responsibilities:
+      - Diriger les équipes de science des données et fixer leur orientation, leurs priorités et leurs normes.
+      - Repérer les cas où la science des données peut améliorer les soins, et les défendre auprès des responsables cliniques et de service.
+      - Veiller à ce que les modèles soient conçus, validés et surveillés pour rester sûrs et équitables à l'usage.
+      - Résoudre des questions éthiques et de données complexes, comme le consentement, les biais et l'usage de données sensibles.
+      - Développer la capacité de science des données par l'accompagnement, le recrutement et la formation.
+    qualifications:
+      - Une solide expérience de la direction d'équipes de science des données.
+    job_evaluation_notes: Le UK GDaD PCF propose G7 ou G6 pour le data scientist référent comme pour le responsable de la science des données. Cette référence place le référent en bande 8a et le responsable en bande 8b, pour que les deux niveaux soient dans des bandes différentes.
+  - title: Responsable de la science des données
+    responsibilities:
+      - Fixer l'orientation de la science des données et de l'IA dans toute l'organisation, conformément à sa stratégie et à ses priorités.
+      - Diriger l'éthique, la sécurité et l'assurance des modèles et de l'IA de l'organisation, et conseiller le conseil d'administration à leur sujet.
+      - Superviser les ressources, le budget et la qualité des produits de science des données.
+      - Représenter l'organisation en science des données et en IA auprès des partenaires de santé et de soins, des chercheurs et des régulateurs.
+      - Développer la capacité et les carrières de science des données dans toutes les professions.
+    qualifications:
+      - Une solide expérience de la direction de la science des données dans toute une organisation.

@@ -1,0 +1,67 @@
+summary: >
+  Les développeurs logiciels conçoivent, testent et maintiennent les logiciels qui sous-tendent les services de santé numérique de l'organisation, comme les applications pour les patients, les systèmes cliniques, les services d'intégration et les plateformes de données. Ils travaillent dans des équipes produit pluridisciplinaires, écrivent un code sûr, sécurisé, accessible et maintenable, et assurent le support de leurs services en production.
+health_context:
+  - Les logiciels peuvent influer sur la prise en charge des patients, c'est pourquoi les développeurs suivent le processus de gestion des risques cliniques et apportent des preuves aux dossiers de sécurité.
+  - Le code traite souvent des informations de santé confidentielles, c'est pourquoi les développeurs appliquent par défaut la gouvernance de l'information et les pratiques de codage sécurisé.
+  - De nombreux services échangent des données avec d'autres systèmes de santé et de soins au moyen de normes d'interopérabilité ouvertes comme HL7 FHIR.
+  - Certains logiciels peuvent être réglementés comme dispositifs médicaux, c'est pourquoi les développeurs doivent savoir quand demander un avis réglementaire.
+levels:
+  - title: Apprenti développeur logiciel
+    responsibilities:
+      - Apprendre les langages, les outils et les méthodes de travail de l'équipe par une formation structurée et la programmation en binôme.
+      - Écrire et tester de petits éléments de code bien définis sous une supervision rapprochée.
+      - Suivre les procédures de codage sécurisé, de gouvernance de l'information et de sécurité clinique.
+      - Participer aux rituels de l'équipe, comme les points quotidiens, la planification et les rétrospectives.
+      - Préparer un diplôme en apprentissage ou une qualification équivalente.
+    qualifications:
+      - Inscrit à un apprentissage en développement logiciel ou équivalent, ou en préparation.
+    job_evaluation_notes: Les connaissances sont cotées au niveau requis par l'emploi une fois la formation suffisamment avancée pour faire le travail ; les ressources d'information reflètent le travail sur des systèmes conçus par d'autres.
+  - title: Développeur logiciel junior
+    responsibilities:
+      - Développer et tester des fonctionnalités pour les produits de l'équipe, à partir de récits utilisateurs et avec un accompagnement.
+      - Écrire des tests automatisés et corriger des défauts, y compris dans des services qui soutiennent la prise en charge des patients.
+      - Apporter des preuves aux dossiers de sécurité clinique, comme des résultats de tests et des registres de changements.
+      - Traiter les données de santé de façon sûre, selon les règles de gouvernance de l'information.
+      - Assurer, avec un accompagnement, le support des services en production dans le cadre des astreintes de l'équipe.
+    qualifications:
+      - Une licence en informatique ou dans une discipline voisine, un apprentissage achevé ou une expérience équivalente.
+  - title: Développeur logiciel
+    responsibilities:
+      - Concevoir, développer et tester des fonctionnalités et des services en autonomie, en choisissant des approches adaptées.
+      - Relire le code et aider à maintenir les normes d'ingénierie de l'équipe.
+      - Développer des intégrations avec d'autres systèmes de santé et de soins à l'aide de normes ouvertes comme HL7 FHIR.
+      - Participer à l'identification des dangers et aider à intégrer les mesures de sécurité clinique dans le code et les tests.
+      - Analyser et corriger les problèmes des services en production, y compris en dehors des heures ouvrées lorsque le service l'exige.
+      - Accompagner les développeurs juniors et les apprentis.
+    qualifications:
+      - Une licence en informatique ou dans une discipline voisine, ou une expérience équivalente.
+      - Une expérience du développement et du support de logiciels en production.
+  - title: Développeur logiciel senior
+    responsibilities:
+      - Diriger la conception technique et la livraison de fonctionnalités et de services importants.
+      - Fixer et maintenir les normes d'ingénierie de l'équipe, y compris pour les tests, la sécurité et l'accessibilité.
+      - Prendre des décisions techniques qui concilient les besoins des utilisateurs, la sécurité clinique, la sécurité informatique et le coût.
+      - Diriger l'analyse des incidents des services de l'équipe et piloter les corrections.
+      - Travailler avec les responsables de la sécurité clinique pour que les mesures de sécurité soient conçues dès le départ et testées.
+      - Accompagner et faire progresser les développeurs de l'équipe.
+    qualifications:
+      - Une expérience significative de la conception, du développement et du support de logiciels en production, d'un niveau équivalent à un master.
+  - title: Développeur logiciel référent
+    responsibilities:
+      - Diriger l'ingénierie d'un produit ou d'un groupe d'équipes, en fixant l'orientation technique.
+      - Veiller à ce que les logiciels soient conçus pour la sécurité, la sûreté, la résilience et l'interopérabilité.
+      - Travailler avec les architectes, les chefs de produit et les responsables cliniques pour façonner la feuille de route du produit.
+      - Animer la communauté de pratique du développement et fixer des normes communes aux équipes.
+      - Encadrer ou diriger des développeurs, en soutenant leur progression et leur performance.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie logicielle de services complexes.
+    job_evaluation_notes: Le UK GDaD PCF situe le plus souvent les développeurs référents et principaux en G7 ou G6 ; cette référence place le référent en bande 8a et le principal en bande 8b.
+  - title: Développeur logiciel principal
+    responsibilities:
+      - Fixer la stratégie, les normes et les pratiques d'ingénierie du développement logiciel de l'organisation.
+      - Conseiller la direction sur les choix technologiques, les risques et les investissements.
+      - Diriger la résolution des problèmes techniques les plus complexes de tous les services.
+      - Représenter l'organisation dans les communautés d'ingénierie interorganisations et du logiciel libre.
+      - Diriger et faire progresser les développeurs référents et développer la capacité d'ingénierie de l'organisation.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie dans plusieurs équipes ou organisations.

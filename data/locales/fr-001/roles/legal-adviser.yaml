@@ -1,0 +1,46 @@
+summary: >
+  Les juristes sont des professionnels du droit qualifiés qui donnent à l'organisation des conseils juridiques pratiques et exacts et l'aident à gérer le risque juridique. Ils rédigent et négocient des contrats, conseillent en droit des données, de la commande publique, du travail et de la santé et des soins, et gèrent les litiges et les réclamations. Dans une organisation de santé numérique, une grande partie de leur travail porte sur la technologie, comme les licences logicielles, les contrats en nuage et de sous-traitance de données, le partage de données, la propriété intellectuelle des logiciels et des données, et la réglementation des produits de santé numérique.
+health_context:
+  - Les contrats technologiques doivent protéger les données des patients, maintenir les services cliniques en fonctionnement et permettre à l'organisation de quitter un fournisseur en sécurité.
+  - L'usage des données de santé pour les soins directs, la planification, la recherche et l'IA soulève des questions de protection des données et de devoir de confidentialité qui demandent des conseils attentifs.
+  - L'achat de technologies avec de l'argent public doit respecter les règles de la commande publique, et les fournisseurs peuvent contester les décisions d'attribution.
+  - L'organisation peut développer des produits logiciels ou de données, ce qui soulève des questions de propriété intellectuelle, de logiciel libre et d'exploitation commerciale.
+  - Les réclamations peuvent porter sur des préjudices causés à des patients, y compris lorsque des services numériques y ont contribué, c'est pourquoi les juristes travaillent avec les collègues de la sécurité clinique, des risques et de l'indemnisation.
+levels:
+  - title: Juriste
+    summary: Les juristes sont des professionnels du droit qualifiés qui donnent des conseils indépendants et gèrent leur propre portefeuille de dossiers dans un ou plusieurs domaines, comme les contrats technologiques, le droit de l'information, la commande publique ou le droit du travail.
+    responsibilities:
+      - Rédiger, relire et négocier des accords, comme les licences logicielles, les services en nuage et les contrats de sous-traitance de données.
+      - Donner des conseils juridiques clairs et pratiques aux responsables et aux équipes dans vos domaines de pratique.
+      - Conseiller sur les accords de partage de données, les analyses d'impact relatives à la protection des données et les demandes d'information.
+      - Conseiller sur les procédures d'achat et les modifications des contrats de technologie et de services.
+      - Gérer un portefeuille de litiges ou de réclamations, en faisant appel à des avocats extérieurs si nécessaire.
+      - Encadrer et faire progresser les parajuristes et les assistants juridiques.
+    qualifications:
+      - Un professionnel du droit qualifié et habilité à exercer, ou une qualification et une expérience équivalentes.
+      - Une expérience du droit des affaires, des technologies, de l'information ou du droit public.
+    job_evaluation_notes: Les connaissances sont au niveau 7, car l'emploi exige une qualification juridique professionnelle et une expérience de la pratique. Les ressources financières sont au niveau 2, car les juristes détiennent rarement des budgets. L'effort émotionnel est au niveau 2, car les réclamations et les dossiers de droit du travail comportent souvent des contenus pénibles.
+  - title: Juriste senior
+    summary: Les juristes seniors sont des professionnels expérimentés qui dirigent des dossiers complexes, à fort enjeu ou à haut risque dans un domaine spécialisé, comme les technologies et les données, le droit de l'information, la commande publique, le droit du travail ou les réclamations.
+    responsibilities:
+      - Diriger les accords complexes, comme les grands déploiements de systèmes, les plateformes de données et les partenariats.
+      - Conseiller la direction sur des questions nouvelles, comme l'IA, l'usage des données pour la recherche et les logiciels dispositifs médicaux.
+      - Conseiller en droit du travail sur les changements d'effectifs, les prestataires et les litiges du travail.
+      - Diriger les litiges importants, les contestations de marchés et les relations avec les dispositifs d'indemnisation des fautes médicales.
+      - Rédiger des modèles, des guides de négociation et des orientations pour l'organisation.
+      - Gérer et faire progresser les juristes et les parajuristes.
+    qualifications:
+      - Un professionnel du droit qualifié et habilité à exercer, avec une expérience significative après sa qualification dans une spécialité pertinente.
+    job_evaluation_notes: Les ressources financières sont au niveau 2, car l'emploi ne détient pas de budget, bien qu'il maîtrise les dépenses d'avocats extérieurs de ses dossiers.
+  - title: Juriste principal
+    summary: Les juristes principaux sont les principaux experts de l'organisation dans un ou plusieurs domaines du droit, comme les technologies et les données ou le droit de l'information, et dirigent son travail juridique sur les dossiers les plus importants.
+    responsibilities:
+      - Diriger le travail juridique des programmes, des contrats et des litiges les plus importants de l'organisation.
+      - Donner un avis définitif sur des dossiers nouveaux et à haut risque, comme le partage de données à grande échelle, l'IA et l'exploitation commerciale des logiciels et des données de l'organisation.
+      - Fixer les positions et les normes juridiques de l'organisation dans vos domaines de spécialité.
+      - Conseiller les directeurs et les comités du conseil d'administration sur le risque juridique.
+      - Représenter l'organisation auprès des régulateurs, des partenaires et des fournisseurs sur les questions juridiques.
+      - Diriger une équipe juridique spécialisée et développer sa capacité.
+    qualifications:
+      - Un professionnel du droit qualifié et habilité à exercer, avec une solide expérience après sa qualification et une expertise reconnue dans une spécialité.
+    job_evaluation_notes: Les connaissances sont au niveau 8, car l'emploi exige une connaissance juridique experte du droit et des technologies, acquise sur une longue période.

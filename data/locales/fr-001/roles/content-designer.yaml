@@ -1,0 +1,65 @@
+summary: >
+  Les designers de contenu rendent claires les informations et les démarches de santé et de soins, pour que les patients, les aidants, les cliniciens et le personnel soignant comprennent ce qu'ils doivent savoir et faire. Ils conçoivent les contenus à partir de preuves sur les besoins des utilisateurs, écrivent en langage clair, travaillent avec des experts cliniques pour garantir leur exactitude, et suivent les contenus tout au long de leur vie, de leur création à leur révision et à leur retrait.
+health_context:
+  - Les personnes lisent souvent des contenus de santé lorsqu'elles sont inquiètes, malades ou pressées, c'est pourquoi les contenus doivent être faciles à comprendre et à appliquer pour les personnes ayant une faible littératie en santé.
+  - Une information de santé erronée ou dépassée peut causer un préjudice, c'est pourquoi les designers de contenu suivent un processus de validation clinique avec des dates de révision et des relecteurs cliniques nommés.
+  - Certains sujets sont sensibles ou à haut risque, comme les symptômes urgents, la santé mentale, les médicaments et la fin de vie, c'est pourquoi les designers de contenu travaillent étroitement avec les cliniciens et les chercheurs utilisateurs sur le ton et l'exactitude.
+  - Les systèmes cliniques ont aussi besoin de contenus clairs, comme les libellés, les consignes et les alertes, c'est pourquoi les designers de contenu aident à réduire les erreurs dans les parcours cliniques.
+  - Les contenus de santé doivent être accessibles et inclusifs, y compris pour les personnes qui utilisent des technologies d'assistance, lisent dans une autre langue ou ont besoin de formats faciles à lire et à comprendre.
+levels:
+  - title: Designer de contenu adjoint
+    responsibilities:
+      - Apprendre les méthodes de design de contenu, le guide de style et le processus de relecture clinique par la formation et un travail supervisé.
+      - Effectuer des vérifications standard, des corrections et des mises à jour des contenus existants.
+      - Publier des contenus avec le système de gestion de contenu, en suivant les étapes de validation.
+      - Vérifier l'accessibilité des contenus, comme les titres, les intitulés des liens et les textes de remplacement.
+    qualifications:
+      - En préparation d'une qualification ou d'un apprentissage dans un domaine pertinent, ou une expérience équivalente.
+  - title: Designer de contenu junior
+    responsibilities:
+      - Rédiger et mettre à jour des contenus de santé et de service, sous la direction de designers de contenu plus expérimentés.
+      - Utiliser la recherche et les données pour identifier ce que les utilisateurs doivent savoir et les mots qu'ils emploient.
+      - Travailler avec les relecteurs cliniques pour vérifier l'exactitude, et expliquer les termes médicaux en langage clair.
+      - Soutenir la publication des contenus, les dates de révision et l'administration de l'équipe de contenu.
+    qualifications:
+      - Une licence ou une qualification pertinente, ou une expérience équivalente de la rédaction web.
+  - title: Designer de contenu
+    responsibilities:
+      - Concevoir les contenus de parcours utilisateurs complets, comme trouver un service, préparer un rendez-vous et le suivi après les soins.
+      - Concevoir des contenus pour les systèmes cliniques, comme les libellés, les consignes et les alertes, pour réduire le risque d'erreur.
+      - Convenir de l'exactitude avec les experts cliniques tout en gardant les contenus clairs et utilisables.
+      - Tester les contenus avec les utilisateurs, y compris des personnes ayant une faible littératie en santé et des personnes qui utilisent des technologies d'assistance.
+      - Contribuer au guide de style et aux modèles de contenu.
+    qualifications:
+      - Une licence ou une qualification pertinente, ou une expérience équivalente.
+      - Une expérience de la conception de contenus pour des services numériques.
+  - title: Designer de contenu senior
+    responsibilities:
+      - Élaborer la stratégie de contenu de domaines importants ou très visibles, comme un grand domaine de pathologie ou une campagne de santé publique.
+      - Concevoir des contenus sur des sujets sensibles et à haut risque, comme les symptômes urgents, la santé mentale et la fin de vie.
+      - Mettre en place la validation clinique, les sources de données probantes et les cycles de révision d'un ensemble de contenus de santé.
+      - Relire le travail des autres pour en garantir la qualité, et encadrer ou accompagner des designers de contenu.
+      - Rédiger et cartographier les récits utilisateurs avec l'équipe.
+    qualifications:
+      - Une expérience significative du design de contenu, d'un niveau équivalent à un master.
+    job_evaluation_notes: L'effort émotionnel est au niveau 2, car les designers de contenu seniors travaillent régulièrement sur des sujets pénibles, comme les maladies graves, l'automutilation et le deuil.
+  - title: Designer de contenu référent
+    responsibilities:
+      - Diriger une équipe de designers de contenu et garantir la qualité des contenus de plusieurs équipes.
+      - Veiller à ce que les contenus de santé respectent les normes de validation clinique, d'accessibilité et de style.
+      - Travailler avec les responsables cliniques, de la communication et produit de haut niveau pour doter les équipes en ressources et résoudre les problèmes de contenu.
+      - Diriger les contenus des informations les plus sensibles ou les plus à risque de l'organisation.
+      - Encadrer et faire progresser les designers de contenu.
+    qualifications:
+      - Une solide expérience de la direction du design de contenu dans plusieurs équipes.
+    job_evaluation_notes: Il n'y a pas de niveau en bande 8a, car le UK GDaD PCF place le designer de contenu référent en G7 ou G6 et cette référence suit la bande 8b proposée. Les politiques sont au niveau 5, car le référent fixe des normes de contenu pour divers services ; l'effort émotionnel est au niveau 2, comme pour les designers de contenu seniors.
+  - title: Responsable du design de contenu
+    responsibilities:
+      - Élaborer une stratégie de contenu qui réponde aux objectifs de l'organisation et aux besoins des patients et du personnel.
+      - Fixer les normes de l'organisation pour les contenus d'information en santé et leur validation clinique.
+      - Diriger une équipe de design de contenu capable de mettre en œuvre la stratégie, y compris le recrutement et le développement.
+      - Travailler avec les responsables cliniques et de la communication de haut niveau pour gérer les risques liés à l'information en santé.
+      - Hiérarchiser le travail de contenu dans toute l'organisation.
+    qualifications:
+      - Une solide expérience de la direction du design de contenu et d'une pratique de contenu.
+    job_evaluation_notes: Le UK GDaD PCF place le designer de contenu référent et le responsable du design de contenu en G7 ou G6, avec une bande 8b proposée. Cette référence place le responsable en bande 8c, comme les responsables des autres professions de la conception centrée sur l'utilisateur, car il fixe la stratégie et les normes de contenu de toute l'organisation.

@@ -1,0 +1,55 @@
+summary: >
+  Les chefs de produit veillent à ce que les produits de santé numérique de l'organisation répondent aux besoins des patients, des cliniciens et du personnel soignant et apportent de la valeur au système de santé et de soins. Ils fixent la vision et la feuille de route du produit, hiérarchisent le travail des équipes pluridisciplinaires à partir de données probantes et rendent compte des résultats de leurs produits, y compris de leur effet sur les soins.
+health_context:
+  - Les décisions sur le produit peuvent toucher la sécurité des patients, c'est pourquoi les chefs de produit portent le risque clinique de leur produit avec le responsable de la sécurité clinique et veillent à ce que les dangers soient maîtrisés avant la mise en production.
+  - Les produits servent de nombreux groupes d'utilisateurs aux besoins différents, comme les patients, les aidants, les cliniciens et le personnel administratif, et les chefs de produit doivent les équilibrer équitablement.
+  - Certains produits peuvent être réglementés comme dispositifs médicaux, c'est pourquoi les chefs de produit doivent savoir quand la réglementation s'applique et l'anticiper.
+  - Les résultats en matière de soins comprennent la sécurité, la qualité, l'accès, l'équité et le temps du personnel, c'est pourquoi les chefs de produit définissent des indicateurs de succès que les responsables cliniques et opérationnels reconnaissent.
+  - Les produits dépendent souvent de normes de données de santé nationales et régionales et de plateformes partagées, c'est pourquoi les chefs de produit travaillent au-delà des frontières des organisations.
+levels:
+  - title: Chef de produit adjoint
+    responsibilities:
+      - Être responsable du carnet de produit d'une fonctionnalité ou d'une partie d'un produit, en travaillant avec un chef de produit.
+      - Transformer les enseignements de la recherche utilisateur auprès des patients, des cliniciens et du personnel soignant en récits utilisateurs hiérarchisés.
+      - Travailler avec les responsables de la sécurité clinique pour consigner et revoir les dangers des fonctionnalités dont vous êtes responsable.
+      - Suivre les indicateurs du produit, comme l'adoption, les taux de réalisation et les appels au support, et rendre compte de ce qu'ils montrent.
+      - Représenter le produit lors des démonstrations et auprès des parties prenantes opérationnelles.
+    qualifications:
+      - Une expérience dans un poste numérique, clinique ou opérationnel, ou une expérience équivalente.
+  - title: Chef de produit
+    responsibilities:
+      - Fixer la vision, la feuille de route et les indicateurs de succès d'un produit de santé numérique.
+      - Hiérarchiser le travail de l'équipe, en conciliant besoins des utilisateurs, sécurité clinique, politiques, contraintes techniques et coût.
+      - Accepter avec le responsable de la sécurité clinique le risque clinique des changements du produit, et arrêter les mises en production qui ne sont pas sûres.
+      - Travailler avec les responsables cliniques et opérationnels pour que le produit s'inscrive dans les parcours de soins et soit adopté.
+      - Veiller à ce que le produit respecte les normes d'accessibilité, de gouvernance de l'information et de service.
+      - Mesurer les résultats du produit, y compris ses bénéfices pour les patients et le personnel.
+    qualifications:
+      - Une expérience significative de la gestion de produit ou d'un poste numérique voisin.
+  - title: Chef de produit senior
+    responsibilities:
+      - Diriger un groupe de produits liés, ou un produit unique complexe, à haut risque ou sensible, comme un produit utilisé aux urgences.
+      - Construire la stratégie produit à partir de données probantes sur les besoins des patients, la pratique clinique et les politiques de santé et de soins.
+      - Veiller à ce que le produit respecte la réglementation des dispositifs médicaux lorsqu'elle s'applique.
+      - Gérer le budget du produit et défendre l'investissement par ses bénéfices pour les soins.
+      - Accompagner et encadrer les chefs de produit.
+    qualifications:
+      - Une solide expérience de la gestion de produits numériques tout au long de leur cycle de vie.
+  - title: Chef de produit référent
+    responsibilities:
+      - Diriger un portefeuille de produits ou un service de bout en bout, comme l'ensemble des produits qui soutiennent un parcours de soins.
+      - Fixer l'orientation produit de plusieurs équipes et veiller à ce que les produits fonctionnent ensemble pour les patients et le personnel.
+      - Travailler avec les responsables cliniques et le responsable de la sécurité clinique pour gérer le risque clinique de tout le portefeuille.
+      - Détenir le budget du portefeuille et rendre compte des bénéfices aux instances de gouvernance de haut niveau.
+      - Diriger et faire progresser les chefs de produit du domaine.
+    qualifications:
+      - Une solide expérience de la direction de produits dans plusieurs équipes.
+  - title: Directeur produit
+    responsibilities:
+      - Fixer la stratégie produit de l'organisation, avec les dirigeants et les responsables cliniques et opérationnels.
+      - Fixer et élever les normes de gestion de produit, y compris la manière dont les produits gèrent le risque clinique et mesurent leurs résultats.
+      - Diriger la profession produit, y compris le recrutement, les parcours de carrière et le développement des capacités.
+      - Arbitrer les priorités d'investissement entre produits, à partir de données probantes sur le besoin, la valeur et l'équité.
+      - Représenter les produits de l'organisation auprès des partenaires de tout le système de santé et de soins.
+    qualifications:
+      - Une solide expérience de la direction de la gestion de produit dans toute une organisation.

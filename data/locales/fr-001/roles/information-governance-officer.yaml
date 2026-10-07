@@ -1,0 +1,68 @@
+summary: >
+  Le personnel de la gouvernance de l'information aide l'organisation à traiter les informations personnelles et de santé de façon licite, sûre et éthique. Il conseille les équipes sur la protection des données et la confidentialité, traite les demandes d'exercice des droits, soutient les analyses d'impact relatives à la protection des données, gère les violations de données et rassemble les preuves qui montrent que l'organisation respecte les normes de gouvernance de l'information.
+health_context:
+  - Le droit de la protection des données accorde une protection renforcée aux informations de santé, c'est pourquoi les exigences de licéité, de sécurité et de transparence sont élevées.
+  - Les services de santé numérique partagent souvent des données entre de nombreuses organisations de soins, c'est pourquoi les accords de partage d'informations et les flux de données demandent un examen attentif.
+  - Les patients et le public ont des droits légaux d'accès à leurs dossiers et aux informations de l'organisation, avec des délais stricts.
+  - Les violations de données qui touchent des informations de santé peuvent causer un préjudice et une détresse réels, c'est pourquoi les incidents demandent un traitement rapide et soigneux.
+  - Les nouveaux usages des données, comme l'analyse, la recherche et l'IA, soulèvent des questions de consentement, de confidentialité et de confiance du public.
+levels:
+  - title: Chargé de gouvernance de l'information
+    summary: Soutient l'équipe de gouvernance de l'information pour les demandes d'exercice des droits, l'enregistrement des incidents, les registres de formation et la collecte des preuves, selon des procédures établies.
+    responsibilities:
+      - Enregistrer les demandes d'exercice des droits, en accuser réception et les suivre, et rassembler les informations pour les réponses.
+      - Enregistrer les violations de données et les quasi-incidents, et établir les faits pour leur examen.
+      - Tenir à jour les registres de gouvernance de l'information, comme le registre des actifs informationnels et la cartographie des flux de données.
+      - Rassembler les preuves pour l'autoévaluation annuelle de gouvernance de l'information.
+      - Suivre le suivi par le personnel des formations à la gouvernance de l'information.
+      - Répondre aux questions courantes du personnel sur la gouvernance de l'information.
+    qualifications:
+      - Une expérience du travail administratif ou sur les dossiers, ou une qualification de base en protection des données ou une expérience équivalente.
+    job_evaluation_notes: L'effort émotionnel reflète une exposition indirecte fréquente à des contenus pénibles dans les demandes, les dossiers et les rapports de violation.
+  - title: Chargé senior de gouvernance de l'information
+    summary: Traite un portefeuille de demandes d'exercice des droits et d'incidents, et aide les équipes pour les analyses d'impact relatives à la protection des données et le partage d'informations.
+    responsibilities:
+      - Traiter les demandes d'exercice des droits, y compris l'occultation et l'application des exceptions, dans les délais légaux.
+      - Évaluer les violations de données et les quasi-incidents et enquêter à leur sujet, et suivre les actions jusqu'à leur clôture.
+      - Aider les équipes projet à réaliser les analyses d'impact relatives à la protection des données et à décrire les flux de données.
+      - Rédiger des projets d'accords de partage d'informations et de mentions d'information à faire relire.
+      - Dispenser des formations et des points d'information sur la gouvernance de l'information au personnel.
+      - Réaliser des audits des accès et de la tenue des dossiers.
+    qualifications:
+      - Une qualification reconnue en protection des données ou en gouvernance de l'information, ou une expérience équivalente.
+  - title: Référent gouvernance de l'information
+    summary: Donne des conseils experts en gouvernance de l'information à une direction ou à un programme, en dirigeant les analyses d'impact relatives à la protection des données et les dossiers complexes.
+    responsibilities:
+      - Conseiller les équipes produit et les services sur la base légale, le consentement, la confidentialité et la conservation.
+      - Examiner les analyses d'impact relatives à la protection des données des systèmes complexes et recommander des mesures.
+      - Traiter les demandes d'exercice des droits complexes ou contestées et les réexamens internes.
+      - Enquêter sur les violations de données graves et recommander ou non leur notification aux régulateurs.
+      - Examiner les accords de partage d'informations avec les organisations partenaires.
+      - Encadrer et accompagner les chargés de gouvernance de l'information.
+    qualifications:
+      - Une qualification professionnelle reconnue en protection des données ou en gouvernance de l'information, ou une expérience équivalente.
+      - Une expérience du conseil en protection des données dans un environnement de santé ou de soins.
+  - title: Responsable de la gouvernance de l'information
+    summary: Gère au quotidien le service de gouvernance de l'information, y compris son équipe, ses dossiers, son programme d'assurance et sa formation.
+    responsibilities:
+      - Gérer l'équipe de gouvernance de l'information et ses dossiers, en veillant au respect des délais légaux.
+      - Planifier et piloter le programme d'assurance de la gouvernance de l'information et l'autoévaluation annuelle.
+      - Rédiger et revoir les politiques et les procédures de gouvernance de l'information.
+      - Conseiller la direction sur les risques liés à l'information et tenir le registre des risques liés à l'information.
+      - Diriger la réponse aux incidents graves, avec les collègues de la sécurité, de la sécurité clinique et de la communication.
+      - Concevoir et superviser la formation à la gouvernance de l'information de tout le personnel.
+    qualifications:
+      - Une qualification professionnelle reconnue en protection des données ou en gouvernance de l'information, ou une expérience équivalente.
+      - Une expérience significative de la gouvernance de l'information en santé ou en soins.
+  - title: Directeur de la gouvernance de l'information
+    summary: Dirige la gouvernance de l'information de l'organisation, en fixant sa politique et sa stratégie et en conseillant la direction sur le risque lié à l'information et la conformité.
+    responsibilities:
+      - Fixer la stratégie, les politiques et le cadre de gouvernance de l'information de l'organisation.
+      - Diriger les services de gouvernance de l'information et des dossiers et faire progresser leur personnel.
+      - Conseiller le responsable exécutif du risque lié à l'information, le conseil d'administration et ses comités sur le risque lié à l'information et la conformité.
+      - Prendre les décisions finales sur les questions complexes de communication, de partage et de notification des violations.
+      - Représenter l'organisation auprès des régulateurs, des auditeurs et des organisations partenaires.
+      - Veiller à ce que les nouveaux services numériques, les usages de données et l'IA soient conçus dès le départ dans le respect de la vie privée et de la transparence.
+    qualifications:
+      - Une qualification professionnelle reconnue en protection des données ou en gouvernance de l'information, ou une expérience équivalente.
+      - Une solide expérience de la direction de la gouvernance de l'information en santé ou en soins.

@@ -1,0 +1,61 @@
+summary: >
+  Les architectes de solutions conçoivent le fonctionnement de bout en bout d'un service nouveau ou modifié, des besoins des utilisateurs et des parcours cliniques aux applications, aux données, aux intégrations, à l'hébergement et à la sécurité. Ils veillent à ce que chaque solution s'inscrive dans l'architecture de l'organisation, réponde à ses besoins de sécurité, de confidentialité et d'interopérabilité, et puisse être développée, exploitée et maintenue à un coût raisonnable.
+health_context:
+  - Les solutions combinent souvent des systèmes cliniques achetés, des services internes et des plateformes partagées, c'est pourquoi les architectes doivent concevoir au-delà des frontières entre fournisseurs.
+  - Les choix de conception peuvent introduire des dangers cliniques, comme des résultats perdus ou un mauvais rapprochement des patients, c'est pourquoi les conceptions de solutions alimentent le dossier de sécurité clinique.
+  - Chaque nouveau flux d'informations sur les patients a besoin d'une base légale et d'une analyse d'impact relative à la protection des données, c'est pourquoi les architectes travaillent étroitement avec la gouvernance de l'information.
+  - L'interopérabilité avec les autres organisations de santé et de soins, au moyen de normes comme HL7 FHIR, est généralement une exigence centrale.
+  - Certaines solutions comprennent des logiciels qui sont des dispositifs médicaux, ce qui change les exigences de conception, d'assurance et de fournisseurs.
+levels:
+  - title: Architecte de solutions adjoint
+    responsibilities:
+      - Recueillir les exigences des équipes produit, des cliniciens et des fournisseurs pour éclairer les conceptions de solutions.
+      - Dessiner les schémas de l'état actuel et cible, comme les vues de contexte, de flux de données et d'intégration.
+      - Rédiger des parties de conceptions de solutions et de registres de décisions sous supervision.
+      - Vérifier les conceptions au regard des normes d'architecture et des exigences de sécurité et de gouvernance de l'information.
+      - Aider à préparer les conceptions pour leur examen en autorité de conception.
+    qualifications:
+      - Des connaissances spécialisées en conception de solutions, de niveau master ou une expérience équivalente.
+      - Une expérience de l'analyse, du développement ou de la conception technique.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 6), car les annonces du secteur de la santé situent ce rôle en bande 7. Les connaissances sont cotées au niveau master ou équivalent, car l'emploi conçoit à travers les applications, les données, l'intégration et la sécurité.
+  - title: Architecte de solutions
+    responsibilities:
+      - Concevoir des solutions de bout en bout pour des services à moindre risque, comme des outils pour le personnel ou des services simples pour les patients.
+      - Comparer les options, y compris l'achat, le développement et la réutilisation de plateformes partagées, et en recommander une avec des raisons claires.
+      - Concevoir les intégrations, les flux de données et la gestion des identités et des accès de la solution, avec des normes ouvertes lorsqu'elles existent.
+      - Contribuer à l'identification des dangers et aux analyses d'impact relatives à la protection des données de la solution.
+      - Présenter les conceptions en autorité de conception et accompagner les équipes de livraison jusqu'à la mise en service.
+      - Accompagner les architectes de solutions adjoints et relire leur travail.
+    qualifications:
+      - Une expérience significative de la conception de solutions ou de l'ingénierie logicielle, d'un niveau équivalent à un master.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 7), car les annonces du secteur de la santé situent ce rôle en bande 8a. La planification, les politiques et la liberté d'action sont cotées au-dessus du profil de la bande 7, car l'emploi est responsable de conceptions de bout en bout et recommande des options aux autorités de conception.
+  - title: Architecte de solutions senior
+    responsibilities:
+      - Concevoir des solutions complexes à risque modéré, comme des systèmes cliniques ou des services utilisés par plusieurs organisations.
+      - Diriger l'évaluation technique des produits des fournisseurs lors des achats, y compris l'interopérabilité, la sécurité et la sécurité clinique.
+      - Concevoir pour la résilience et la continuité d'activité lorsque la solution soutient les soins jour et nuit.
+      - Travailler avec les responsables de la sécurité clinique pour que les décisions de conception et les mesures de maîtrise des risques figurent dans le dossier de sécurité.
+      - Accompagner d'autres architectes de solutions et relire leur travail.
+    qualifications:
+      - Une solide expérience de la conception de solutions complexes dans plusieurs disciplines, d'un niveau supérieur au master.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 8a), car les annonces du secteur de la santé situent ce rôle en bande 8b. Les connaissances sont cotées au niveau 8 pour la connaissance spécialisée de plusieurs disciplines, comme les applications, les données, l'intégration, la sécurité et la sécurité clinique.
+  - title: Architecte de solutions référent
+    responsibilities:
+      - Diriger l'architecture de solutions d'un programme ou d'un domaine complexe, comme le remplacement du dossier patient informatisé.
+      - Veiller à ce que les solutions de tout le programme soient cohérentes, interopérables et alignées sur l'architecture cible.
+      - Conseiller les comités de programme sur les risques de conception, les dépendances, le choix des fournisseurs et les coûts.
+      - Garantir en autorité de conception les conceptions des autres architectes de solutions.
+      - Diriger et faire progresser une équipe d'architectes de solutions.
+    qualifications:
+      - Une solide expérience de la direction de l'architecture de solutions de programmes complexes.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 8b), car les annonces du secteur de la santé situent ce rôle en bande 8c. La planification, les politiques et les personnes sont cotées au-dessus du profil de la bande 8b, car l'emploi planifie l'architecture de tout un programme et dirige une équipe d'architectes de solutions.
+  - title: Architecte de solutions principal
+    responsibilities:
+      - Diriger l'architecture de solutions des programmes les plus importants ou les plus critiques de l'organisation.
+      - Fixer les normes, les modèles et les méthodes d'architecture de solutions de l'organisation.
+      - Conseiller les directeurs et les organisations partenaires sur la conception de services de santé et de soins critiques et partagés.
+      - Arbitrer les conflits de conception les plus difficiles entre programmes, fournisseurs et organisations partenaires.
+      - Diriger la pratique d'architecture de solutions et faire progresser ses membres.
+    qualifications:
+      - Une solide expérience de la direction de l'architecture de solutions dans plusieurs programmes ou organisations.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 8c), car les annonces du secteur de la santé situent ce rôle en bande 8d. La liberté d'action est au niveau 6, car l'emploi fixe les normes d'architecture de solutions de l'organisation ; les ressources financières et les personnes sont au niveau 4, car il dirige la pratique et son budget.

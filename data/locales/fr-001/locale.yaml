@@ -1,0 +1,73 @@
+# French (world). Translated from English by an AI assistant; not yet reviewed
+# by a native speaker. Quotations from the UK GDaD PCF and ESCO stay in
+# English. Job titles use the generic form; many "Head of" roles use the
+# gender-neutral "Responsable de". Slugs are made from the French titles.
+code: fr-001
+name: Français
+english_name: French
+dir: ltr
+complete: true
+paths:
+  roles: rôles
+  families: familles
+  bands: bandes
+  skills: compétences
+  job-evaluation: évaluation-des-emplois
+  about: à-propos
+strings:
+  disclaimer: "Ceci est un profil de référence illustratif pour une organisation générique de santé numérique. Ce n'est la fiche de poste officielle d'aucun employeur, et ses points d'évaluation des emplois ne constituent pas une évaluation formelle."
+  translation_note: "Ce texte a été traduit de l'anglais par un assistant d'intelligence artificielle et n'a pas encore été relu par un locuteur natif. Les citations du référentiel des compétences de la profession numérique et données du gouvernement britannique (UK GDaD PCF) et d'ESCO restent en anglais."
+  home_title: Catalogue des rôles
+  home_lede: "Choisissez d'abord la famille la plus proche de votre travail, puis le rôle, puis la bande."
+  roles_title: Tous les rôles
+  bands_title: Rôles par bande
+  skills_title: Compétences
+  skills_lede: "Chaque compétence a quatre niveaux de maîtrise : Sensibilisation (1), Pratique (2), Confirmé (3) et Expert (4). Les compétences du UK GDaD PCF sont citées de l'original anglais. Les autres compétences sont propres à cette référence."
+  pcf_title: Rôles par rôle du UK GDaD PCF
+  esco_title: Rôles par profession ESCO
+  role: Rôle
+  roles: Rôles
+  family: Famille
+  band: Bande
+  bands: Bandes
+  title: Intitulé
+  role_level: Niveau de rôle
+  skill: Compétence
+  source: Source
+  expected_level: Niveau attendu
+  level_meaning: Ce que signifie ce niveau
+  factor: Facteur
+  level: Niveau
+  points: Points
+  total: Total
+  summary: Résumé
+  health_context: Dans une organisation de santé numérique
+  pcf_role: Rôle du UK GDaD PCF
+  pcf_role_none: "Aucun (ce rôle est défini par cette référence)"
+  pcf_role_description: Description du rôle dans le UK GDaD PCF (original anglais)
+  pcf_level: Niveau du UK GDaD PCF
+  civil_service_grades: Grades de la fonction publique britannique
+  esco_occupations: Professions ESCO
+  role_levels: Niveaux de rôle
+  job_evaluation_points: Points d'évaluation de l'emploi
+  responsibilities: Responsabilités
+  skills: Compétences
+  qualifications: Qualifications et expérience habituelles
+  band_outline: Description de la bande
+  knowledge: Connaissances
+  autonomy: Autonomie
+  scope: Périmètre
+  leadership: Leadership
+  accountability: Responsabilité
+  job_evaluation: Évaluation de l'emploi (illustrative)
+  source_pcf: UK GDaD PCF
+  source_reference: Cette référence
+  used_in: "Utilisée dans {n} niveaux de rôle."
+  awareness: Sensibilisation
+  working: Pratique
+  practitioner: Confirmé
+  expert: Expert
+  sfia_level: Niveau SFIA
+  esco_occupation: Profession ESCO
+  pcf_family: Famille du PCF
+  roles_in_reference: Rôles de cette référence

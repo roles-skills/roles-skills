@@ -1,0 +1,65 @@
+summary: >
+  Les analystes métier aident l'organisation à comprendre les problèmes des services de santé et de soins et à trouver les bons changements pour les résoudre. Ils analysent le fonctionnement actuel des processus cliniques, administratifs et destinés aux patients, définissent les besoins et les exigences des utilisateurs et de l'organisation, et aident les équipes à veiller à ce que les nouveaux services numériques s'inscrivent dans les parcours de soins réels et apportent des bénéfices mesurables.
+health_context:
+  - Les processus traversent les frontières des organisations et des professions, c'est pourquoi les analystes cartographient des parcours de soins entiers, y compris les relais entre cliniciens, personnel soignant, patients et autres organisations.
+  - Les exigences comportent souvent un risque clinique, c'est pourquoi les analystes travaillent avec les responsables de la sécurité clinique pour que les exigences liées à la sécurité soient recueillies, tracées et testées.
+  - De nombreuses exigences portent sur le partage de données de santé entre systèmes, c'est pourquoi les analystes ont besoin d'une connaissance pratique des normes d'interopérabilité comme HL7 FHIR et des terminologies cliniques comme SNOMED CT.
+  - Les bénéfices en matière de soins concernent souvent la sécurité, la qualité, le temps du personnel et l'expérience des patients, et pas seulement le coût, c'est pourquoi les analystes aident à définir des indicateurs que les cliniciens reconnaissent.
+levels:
+  - title: Analyste métier en formation
+    responsibilities:
+      - Apprendre les techniques d'analyse métier par une formation structurée, l'observation et un travail supervisé.
+      - Prendre des notes et rédiger des cartographies de processus à partir d'ateliers avec le personnel clinique et administratif.
+      - Tenir à jour, selon les instructions, les registres d'exigences, les récits utilisateurs et les matrices de traçabilité.
+      - Aider à préparer les scénarios des tests de recette utilisateur.
+      - Suivre les règles de gouvernance de l'information pour les documents qui contiennent des informations sur les patients.
+    qualifications:
+      - En préparation d'un apprentissage ou d'une qualification en analyse métier, ou une expérience équivalente.
+  - title: Analyste métier junior
+    responsibilities:
+      - Cartographier les processus actuels et futurs des parcours de travail cliniques et administratifs, comme les demandes d'avis, les rendez-vous ou la gestion des résultats.
+      - Recueillir et rédiger les exigences et les récits utilisateurs de travaux bien définis.
+      - Recueillir des données sur la performance des processus, comme les délais d'attente ou les contournements manuels, pour étayer l'analyse.
+      - Préparer et dérouler les scénarios de recette avec les utilisateurs cliniques et opérationnels.
+      - Signaler à l'équipe et au responsable de la sécurité clinique les exigences susceptibles de toucher la sécurité des patients.
+    qualifications:
+      - Une licence, une qualification ou un apprentissage en analyse métier, ou une expérience équivalente.
+  - title: Analyste métier
+    responsibilities:
+      - Diriger l'analyse de petits et moyens projets, de la définition du problème à la mesure des bénéfices.
+      - Animer des ateliers avec les cliniciens, le personnel soignant et les responsables pour comprendre les points de friction et convenir d'options.
+      - Modéliser les parcours de soins et les flux d'information, y compris les données échangées avec d'autres systèmes de santé et de soins.
+      - Définir les exigences liées à la sécurité et aux données, et les tracer à travers la conception, le développement et les tests.
+      - Construire des dossiers de bénéfices avec des indicateurs comme le temps du personnel libéré, les erreurs évitées ou l'expérience des patients.
+      - Accompagner les analystes métier juniors et en formation.
+    qualifications:
+      - Une licence ou une qualification reconnue en analyse métier, ou une expérience équivalente.
+      - Une expérience de l'analyse métier dans des projets de transformation numérique.
+  - title: Analyste métier senior
+    responsibilities:
+      - Diriger l'analyse métier de programmes importants ou complexes, comme le remplacement d'un système clinique ou la refonte d'un parcours de soins.
+      - Analyser les options et leur effet sur les soins, la sécurité, la charge de travail du personnel et le coût, et présenter des recommandations aux comités.
+      - Veiller à ce que les impacts sur le risque clinique, la gouvernance de l'information et l'égalité soient analysés et pris en compte dans les exigences.
+      - Définir et suivre les bénéfices du changement, et organiser leur mesure après la mise en service.
+      - Encadrer ou diriger des analystes métier et animer la communauté de pratique.
+    qualifications:
+      - Une expérience significative de l'analyse métier dans des transformations complexes, d'un niveau équivalent à un master.
+  - title: Analyste métier référent
+    responsibilities:
+      - Diriger l'analyse de problèmes très complexes qui touchent plusieurs produits, services ou organisations d'un système de soins.
+      - Façonner l'étude d'opportunité et le plan de réalisation des bénéfices des grands investissements.
+      - Fixer les normes d'analyse métier, comme la traçabilité des exigences des logiciels liés à la sécurité et réglementés.
+      - Travailler avec les responsables cliniques, les architectes et les chefs de produit pour aligner l'analyse sur la stratégie de l'organisation.
+      - Encadrer les analystes métier et diriger leur développement professionnel.
+    qualifications:
+      - Une solide expérience de la direction de l'analyse métier dans des transformations complexes impliquant plusieurs équipes.
+  - title: Responsable de l'analyse métier
+    responsibilities:
+      - Diriger la fonction d'analyse métier et fixer sa stratégie, ses normes et ses méthodes de travail.
+      - Développer la capacité d'analyse métier, y compris le recrutement, les parcours de carrière et la formation.
+      - Conseiller les dirigeants et les responsables cliniques sur l'analyse nécessaire aux grandes transformations de la santé et des soins.
+      - Veiller à ce que la réalisation des bénéfices soit planifiée, mesurée et rapportée dans tout le portefeuille.
+      - Gérer le budget et le plan d'effectifs de la fonction.
+    qualifications:
+      - Une solide expérience de la direction d'une fonction ou d'une pratique d'analyse métier.
+    job_evaluation_notes: Les ressources d'information sont cotées au niveau 6, car le responsable de l'analyse métier détient les normes de toute l'organisation sur la tenue des exigences, des modèles de processus et des registres de bénéfices dans tous les travaux de transformation.

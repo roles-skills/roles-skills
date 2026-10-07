@@ -1,0 +1,48 @@
+summary: >
+  Les analystes de tests en assurance qualité vérifient que les services de santé numérique de l'organisation font ce dont ont besoin les patients, les cliniciens et le personnel soignant, de façon sûre et fiable. Ils analysent les exigences et les conceptions pour repérer tôt les risques, conçoivent et exécutent des tests fonctionnels et non fonctionnels, et signalent clairement les défauts. En santé, cela comprend le test des parcours cliniques, de l'exactitude des données et des mesures qui protègent les patients contre les préjudices.
+health_context:
+  - Les défauts des systèmes cliniques peuvent nuire aux patients, par exemple par une mauvaise dose de médicament, un résultat manqué ou un dossier affiché pour le mauvais patient, c'est pourquoi les tests sont hiérarchisés selon le risque clinique.
+  - Les tests apportent des preuves aux dossiers de sécurité clinique et aux registres des dangers, c'est pourquoi les plans de test sont tracés jusqu'aux dangers identifiés et à leurs mesures de maîtrise.
+  - Les données de test ne doivent jamais exposer de vrais patients, c'est pourquoi les analystes utilisent des données de test synthétiques ou correctement désidentifiées.
+  - De nombreux services échangent des données avec d'autres systèmes de santé et de soins, c'est pourquoi les tests vérifient les messages au regard de normes comme HL7 FHIR et le sens des codes cliniques.
+  - Les utilisateurs comprennent des cliniciens pressés par le temps, des patients aux besoins très variés et des utilisateurs de technologies d'assistance, c'est pourquoi les tests d'utilisabilité et d'accessibilité comptent.
+levels:
+  - title: Analyste de tests en assurance qualité adjoint
+    responsibilities:
+      - Exécuter sous supervision des scripts de test de parcours cliniques et administratifs, en consignant les résultats avec exactitude.
+      - Rédiger des rapports de défaut clairs, avec les étapes, les données et les écrans concernés.
+      - Utiliser des données de test synthétiques et ne jamais utiliser de vraies données de patients dans les environnements de test.
+      - Apprendre les approches et les outils de test de l'équipe et le processus de sécurité clinique.
+      - Participer aux rituels de l'équipe, comme les points quotidiens, la planification et les rétrospectives.
+    qualifications:
+      - De bonnes capacités d'analyse et de rédaction, et une certaine expérience des tests ou du travail avec des systèmes numériques, ou équivalent.
+  - title: Analyste de tests en assurance qualité
+    responsibilities:
+      - Analyser les récits utilisateurs, les conceptions et les parcours cliniques pour décider quoi tester, selon le risque pour les patients et les services.
+      - Concevoir et exécuter des tests fonctionnels, d'accessibilité et d'utilisabilité, y compris des scénarios cliniques de bout en bout.
+      - Tracer les tests jusqu'aux dangers et aux mesures de sécurité, et fournir des preuves de test aux dossiers de sécurité clinique.
+      - Vérifier les données affichées aux utilisateurs au regard des systèmes source et des codes cliniques convenus.
+      - Créer et tenir à jour des données de test synthétiques réalistes.
+      - Suivre les défauts jusqu'à leur résolution et retester les corrections.
+    qualifications:
+      - Une expérience de la conception et de l'exécution de tests de services numériques, ou équivalent.
+    job_evaluation_notes: Le UK GDaD PCF propose HEO ou SEO pour ce niveau et pour le niveau senior, ce qui place les deux en bande 6. Cette référence place ce niveau en bande 5 et le niveau senior en bande 6, pour que les deux niveaux soient dans des bandes différentes.
+  - title: Analyste de tests en assurance qualité senior
+    responsibilities:
+      - Coordonner l'assurance qualité d'un produit ou d'un domaine, en convenant des approches de test, des environnements, des données et des outils.
+      - Repérer tôt les risques cliniques et opérationnels en examinant les exigences, les conceptions et les changements avec les cliniciens et les équipes produit.
+      - Planifier et diriger la recette utilisateur avec les cliniciens et le personnel soignant.
+      - Rendre compte des résultats des tests et des risques résiduels aux propriétaires de produit et aux responsables de la sécurité clinique, pour qu'ils puissent décider des mises en production.
+      - Orienter les autres analystes de tests et les aider à suivre les normes de test et de sécurité clinique.
+    qualifications:
+      - Une expérience significative de l'analyse de tests, y compris dans des environnements complexes ou réglementés, ou équivalent.
+  - title: Analyste de tests en assurance qualité référent
+    responsibilities:
+      - Fixer les normes et les bonnes pratiques d'analyse de tests dans toute l'organisation, y compris les tests fondés sur le risque des systèmes cliniques.
+      - Définir les stratégies de test des grands programmes, comme les changements du dossier patient informatisé ou de nouveaux services destinés aux patients.
+      - Veiller à ce que les tests produisent les preuves nécessaires aux dossiers de sécurité clinique et, le cas échéant, aux dossiers techniques de dispositifs médicaux.
+      - Négocier et faire remonter les risques, les problèmes et les défauts majeurs auprès des responsables produit, cliniques et fournisseurs de haut niveau.
+      - Accompagner les analystes de tests et animer la communauté de l'analyse de tests.
+    qualifications:
+      - Une solide expérience de la direction de l'analyse de tests de services complexes.
+    job_evaluation_notes: Le UK GDaD PCF propose G7 ou G6 pour ce niveau, ce qui correspond à la bande 8b. Cette référence le place en bande 8a, au même niveau que l'ingénieur de test référent, car il dirige une discipline de test et non l'ensemble des tests ; le directeur des tests est en bande 8c.

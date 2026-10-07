@@ -1,0 +1,38 @@
+summary: >
+  Les architectes de données conçoivent la manière dont l'organisation structure, stocke, transfère et gouverne ses données de santé et de soins, pour qu'elles puissent être utilisées en sécurité pour les soins directs, la planification des services et la recherche. Ils conçoivent des modèles de données, des plateformes et des flux de données, fixent des normes de données et veillent à préserver de bout en bout le sens clinique, la qualité et la confidentialité.
+health_context:
+  - Les données de santé doivent garder leur sens clinique, c'est pourquoi les modèles de données utilisent des terminologies cliniques comme SNOMED CT et des classifications comme la CIM.
+  - Les données utilisées pour les soins directs et celles utilisées pour la planification ou la recherche reposent sur des bases légales différentes, c'est pourquoi les architectes conçoivent pour la séparation, la désidentification et l'accès contrôlé.
+  - Les données proviennent de nombreux systèmes cliniques et de soins de qualité variable, c'est pourquoi les architectes conçoivent pour les contrôles de qualité des données, le rapprochement des patients et la traçabilité.
+  - Les dossiers de soins partagés et l'échange de données reposent sur des modèles communs, comme les ressources HL7 FHIR et des jeux de données nationaux ou internationaux convenus.
+  - Les dossiers doivent être conservés longtemps, c'est pourquoi les conceptions doivent prévoir l'archivage et l'accès aux données historiques.
+levels:
+  - title: Architecte de données
+    responsibilities:
+      - Concevoir des modèles de données logiques et physiques pour les données cliniques et opérationnelles, avec des terminologies cliniques si nécessaire.
+      - Concevoir des flux de données et des composants de la plateforme de données, comme les couches d'entrepôt, de lakehouse et d'intégration.
+      - Définir les métadonnées, les entrées du dictionnaire de données et la traçabilité des jeux de données de votre domaine.
+      - Concevoir la désidentification et les contrôles d'accès pour que les données ne servent qu'à leur finalité licite.
+      - Travailler avec les collègues de la qualité des données et du codage clinique pour corriger les causes structurelles des données de mauvaise qualité.
+      - Orienter les ingénieurs et les analystes de données sur les modèles et les normes de données.
+    qualifications:
+      - Une expérience significative de la modélisation des données et de la conception de plateformes de données, d'un niveau équivalent à un master.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 7), car les annonces du secteur de la santé situent ce rôle en bande 8a. La planification, les politiques et la liberté d'action sont cotées au-dessus du profil de la bande 7, car l'emploi conçoit des plateformes et des contrôles de données utilisés par de nombreux services.
+  - title: Architecte de données senior
+    responsibilities:
+      - Concevoir l'architecture de données d'un domaine important, comme le dossier de soins partagé ou la plateforme d'analyse.
+      - Veiller à ce que les conceptions de données de toutes les équipes suivent les normes et les modèles de données de l'organisation.
+      - Concevoir le partage des données avec les organisations partenaires, y compris les normes, les contrôles et les accords de partage.
+      - Conseiller les collègues de la gouvernance de l'information et de la sécurité clinique sur les risques liés aux données des nouvelles conceptions.
+      - Relire et orienter le travail des architectes de données.
+    qualifications:
+      - Une solide expérience de l'architecture de données pour des organisations complexes.
+  - title: Architecte de données en chef
+    responsibilities:
+      - Fixer la vision et la feuille de route de l'architecture de données de l'organisation, conformément à sa stratégie de données.
+      - Être responsable du modèle de données d'entreprise, des normes de données et du dictionnaire de données de l'organisation.
+      - Conseiller l'équipe de direction et les instances de gouvernance des données sur l'architecture de données, ses risques et les investissements.
+      - Représenter l'organisation dans les travaux interorganisations de normes de données et d'interopérabilité.
+      - Diriger la pratique d'architecture de données et faire progresser ses membres.
+    qualifications:
+      - Une solide expérience de la direction de l'architecture de données entre organisations.

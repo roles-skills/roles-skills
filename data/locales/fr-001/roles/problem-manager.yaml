@@ -1,0 +1,29 @@
+summary: >
+  Les gestionnaires des problèmes trouvent et corrigent les causes profondes des incidents, pour que les pannes ne se reproduisent plus. Ils analysent les données d'incidents, mènent des analyses de causes profondes, consignent les erreurs connues et les solutions de contournement, et suivent les corrections avec les équipes techniques et les fournisseurs. En santé, les pannes répétées des systèmes cliniques font perdre du temps clinique, érodent la confiance et peuvent créer des risques pour la sécurité des patients, c'est pourquoi il importe de les supprimer.
+health_context:
+  - De petites pannes répétées, comme des connexions lentes ou des impressions en échec dans les services, finissent par représenter beaucoup de temps clinique perdu, c'est pourquoi les gestionnaires des problèmes recherchent les tendances autant que les grandes défaillances.
+  - Certains problèmes créent des dangers pour la sécurité clinique, comme des résultats qui n'atteignent pas le bon clinicien, et sont évalués avec le responsable de la sécurité clinique.
+  - Les analyses de causes profondes impliquent souvent les fournisseurs de systèmes cliniques, et sont gérées dans le cadre des contrats et des niveaux de service.
+  - Les solutions de contournement des systèmes cliniques doivent être sûres et clairement expliquées au personnel clinique.
+levels:
+  - title: Analyste des problèmes
+    responsibilities:
+      - Analyser les données d'incidents pour repérer les pannes répétées et les tendances dans les services cliniques et de gestion.
+      - Consigner les problèmes, les erreurs connues et les solutions de contournement dans l'outil de gestion des services.
+      - Soutenir les analyses de causes profondes en rassemblant journaux, chronologies et autres preuves.
+      - Suivre les actions avec les équipes techniques et les fournisseurs jusqu'à la mise en place des corrections.
+      - Vérifier que les solutions de contournement des systèmes cliniques sont sûres et clairement expliquées aux utilisateurs.
+    qualifications:
+      - Une expérience du support ou de l'exploitation informatique.
+      - Une certification de base en gestion des services informatiques, ou une expérience équivalente.
+  - title: Gestionnaire des problèmes
+    responsibilities:
+      - Piloter le processus de gestion des problèmes dans tous les services de l'organisation.
+      - Diriger l'analyse des causes profondes après les incidents majeurs et pour les pannes récurrentes, avec des techniques structurées.
+      - Hiérarchiser les problèmes selon leur effet sur la prise en charge des patients, le temps du personnel et le risque pour le service.
+      - Évaluer avec le responsable de la sécurité clinique les problèmes susceptibles de créer des dangers pour la sécurité des patients.
+      - Faire rendre des comptes aux équipes techniques et aux fournisseurs sur les corrections définitives, et rendre compte de l'avancement aux responsables de service.
+      - Travailler avec les gestionnaires des incidents majeurs pour que les enseignements des incidents conduisent à des changements.
+    qualifications:
+      - Une expérience significative de la gestion des problèmes ou des incidents, d'un niveau équivalent à une licence.
+      - Une certification intermédiaire en gestion des services informatiques, ou une expérience équivalente.

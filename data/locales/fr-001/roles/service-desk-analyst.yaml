@@ -1,0 +1,71 @@
+summary: >
+  Les analystes du centre de services sont le premier point de contact du personnel qui a besoin d'aide avec les services numériques de l'organisation, des problèmes de connexion et de carte à puce aux pannes des systèmes cliniques et des appareils. Ils enregistrent, trient, résolvent ou font remonter les incidents et les demandes, tiennent les utilisateurs informés et repèrent les tendances qui révèlent des problèmes plus larges. Dans de nombreuses organisations de santé, le centre de services fonctionne jour et nuit, comme les services cliniques.
+health_context:
+  - Les appelants sont souvent des cliniciens et du personnel soignant en pleine prise en charge de patients, c'est pourquoi le centre hiérarchise selon l'effet sur les patients, et pas seulement par ordre d'arrivée.
+  - De nombreux services cliniques fonctionnent 24 heures sur 24, tous les jours, c'est pourquoi le centre de services travaille souvent en horaires postés et avec des astreintes.
+  - L'accès aux systèmes cliniques repose sur un contrôle d'accès fondé sur les rôles et une authentification forte, c'est pourquoi le centre traite les problèmes de comptes, de cartes à puce et d'authentification multifacteur en vérifiant soigneusement l'identité.
+  - Les appelants peuvent communiquer des informations confidentielles sur des patients en décrivant une panne, c'est pourquoi les analystes suivent les règles de gouvernance de l'information sur ce qu'ils consignent dans les tickets.
+  - Le centre est souvent le premier à voir les signes d'un incident majeur ou d'une cyberattaque, comme de nombreux appels sur le même système ou une vague de courriels suspects, et doit les faire remonter rapidement.
+levels:
+  - title: Analyste du centre de services
+    summary: L'analyste du centre de services répond aux appels et aux tickets du personnel, résout les problèmes courants dès le premier contact à l'aide de scripts et d'articles de connaissance, et transmet les autres à la bonne équipe.
+    responsibilities:
+      - Répondre aux appels, aux discussions en ligne et aux tickets en libre-service du personnel, et consigner chacun avec exactitude dans l'outil de gestion des services.
+      - Résoudre dès le premier contact les problèmes courants à l'aide de scripts et d'articles de connaissance, comme les réinitialisations de mot de passe, les déblocages de compte et les pannes d'imprimante.
+      - Vérifier l'identité de l'appelant avant de modifier des comptes ou des accès, selon les procédures de l'organisation.
+      - Demander l'effet du problème sur la prise en charge des patients, fixer la priorité et transmettre l'incident à la bonne équipe de résolution.
+      - Tenir les utilisateurs informés de leurs tickets et vérifier que la solution fonctionne avant de les clôturer.
+      - Ne consigner dans les tickets que les informations nécessaires, sans détails inutiles sur les patients.
+    qualifications:
+      - Une qualification de niveau 3 en informatique, un apprentissage en support informatique ou une expérience équivalente.
+      - De bonnes compétences en relation client et au clavier, acquises au travail ou pendant les études.
+    job_evaluation_notes: Le UK GDaD PCF propose la bande 4 pour ce niveau. Cette référence fait commencer le travail de premier niveau sur scripts en bande 3, et place en bande 4 les analystes qui résolvent des pannes plus complexes. L'effort mental reflète une concentration fréquente sur des appels imprévisibles ; l'effort émotionnel reflète les appels fréquents de personnel sous pression dans les zones cliniques.
+  - title: Analyste technique du centre de services
+    summary: L'analyste technique du centre de services résout dès le premier contact des pannes plus complexes, y compris des dépannages à distance d'appareils et d'accès aux systèmes cliniques, et traite les appels urgents des zones cliniques.
+    responsibilities:
+      - Résoudre à distance des incidents et des demandes plus complexes, y compris les pannes d'appareils, de logiciels et d'accès aux systèmes cliniques.
+      - Traiter les appels urgents des zones cliniques, comme les urgences, les services d'hospitalisation et les blocs opératoires, et déclencher le processus d'incident majeur si nécessaire.
+      - Traiter les demandes d'accès aux systèmes cliniques, en les vérifiant au regard des règles d'accès fondées sur les rôles.
+      - Rédiger et améliorer des articles de connaissance pour que davantage de problèmes soient résolus dès le premier contact.
+      - Repérer les appels répétés sur une même panne et les signaler à la gestion des incidents et des problèmes.
+      - Signaler à l'équipe sécurité les courriels d'hameçonnage suspects et les autres événements de sécurité.
+      - Montrer aux nouveaux analystes comment utiliser les outils et les procédures du centre.
+    qualifications:
+      - Une expérience du support informatique dans un centre de services ou un environnement similaire.
+      - Une certification de base en gestion des services informatiques, ou une expérience équivalente.
+    job_evaluation_notes: Utilise le même niveau du UK GDaD PCF que l'analyste en bande 3, pour les analystes qui résolvent des problèmes plus complexes et traitent les appels cliniques urgents. La communication dépasse le profil de la bande, car les analystes doivent souvent expliquer des problèmes techniques à un personnel clinique très occupé.
+  - title: Analyste senior du centre de services
+    responsibilities:
+      - Diriger une équipe postée du centre de services, en conciliant les files d'appels et l'urgence clinique des incidents ouverts.
+      - Prendre en charge les appels difficiles ou remontés, y compris ceux de cliniciens seniors en situation de soins urgents.
+      - Tenir les scripts et les articles de connaissance exacts au fil de l'évolution des systèmes cliniques et des appareils.
+      - Être le point d'escalade du centre en dehors des heures ouvrées, et déclencher le processus d'incident majeur lorsque de nombreux utilisateurs sont touchés.
+      - Contrôler la qualité des tickets, y compris les vérifications d'identité et ce qui est consigné sur les patients.
+      - Planifier les roulements pour que le centre soit pourvu en permanence.
+    qualifications:
+      - Une expérience significative en centre de services, y compris la gestion des escalades.
+      - Une certification en gestion des services informatiques, ou une expérience équivalente.
+    job_evaluation_notes: La planification reflète l'organisation des équipes et des roulements d'un centre ouvert 24 heures sur 24. L'effort émotionnel reflète les appels difficiles fréquents de personnel confronté à des soins urgents.
+  - title: Responsable d'équipe du centre de services
+    responsibilities:
+      - Piloter le centre de services au quotidien, en veillant à ce qu'il soit pourvu et réactif 24 heures sur 24, tous les jours.
+      - Fixer des priorités et des objectifs de réponse qui reflètent le risque clinique, en accord avec les responsables cliniques et opérationnels.
+      - Préparer le centre aux systèmes cliniques nouveaux ou modifiés, y compris la formation, les scripts et un renfort lors de la mise en service.
+      - Analyser les tendances des tickets pour repérer les problèmes émergents, et travailler avec la gestion des problèmes pour en supprimer les causes.
+      - Veiller à ce que le centre suive les procédures de vérification d'identité, de gouvernance de l'information et de sécurité, et agisse sur les constats d'audit.
+      - Encadrer les analystes seniors et les analystes, y compris le recrutement, la performance et le bien-être du personnel posté.
+    qualifications:
+      - Une expérience de la direction d'une équipe de centre de services, y compris en horaires postés ou hors heures ouvrées.
+      - Une certification intermédiaire en gestion des services informatiques, ou une expérience équivalente.
+    job_evaluation_notes: Les connaissances sont un niveau en dessous du profil de la bande, comme souvent pour les emplois de centre de services ; la responsabilité des personnes est plus élevée, car le responsable dirige une équipe en horaires postés.
+  - title: Responsable du centre de services
+    responsibilities:
+      - Fixer l'orientation du centre de services, y compris les canaux de contact, le libre-service et le support du personnel travaillant sur plusieurs sites et en proximité.
+      - Convenir des niveaux de service avec les services cliniques et support, et rendre compte de la performance à la direction.
+      - Veiller à ce que le centre continue de fonctionner pendant les incidents majeurs, les cyberattaques et les indisponibilités des systèmes, avec des procédures claires de continuité d'activité.
+      - Conseiller les équipes projet sur le support des nouveaux systèmes cliniques et de gestion avant leur mise en service.
+      - Gérer le budget, les outils et les éventuels contrats de support externalisé ou hors heures ouvrées du centre de services.
+      - Diriger et faire progresser les responsables d'équipe du centre de services, et construire une culture bienveillante pour le personnel posté.
+    qualifications:
+      - Une solide expérience de la gestion de services de support informatique, y compris des services 24 heures sur 24.
+      - Une certification avancée en gestion des services informatiques, ou une expérience équivalente.

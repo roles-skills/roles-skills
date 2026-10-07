@@ -1,0 +1,50 @@
+summary: >
+  Les gestionnaires de contrats veillent à ce que l'organisation obtienne ce pour quoi elle paie une fois le contrat signé. Ils gèrent la performance des fournisseurs, les paiements, les modifications, les litiges, les renouvellements et la sortie, et entretiennent les relations avec les fournisseurs clés. Dans une organisation de santé numérique, beaucoup des contrats les plus importants concernent des systèmes cliniques, de l'hébergement en nuage et des services technologiques dont les patients et le personnel dépendent chaque jour.
+health_context:
+  - Les indisponibilités ou les défaillances des systèmes cliniques peuvent toucher la prise en charge des patients, c'est pourquoi les gestionnaires de contrats suivent de près la disponibilité, la réponse aux incidents et les niveaux de support, et appliquent les remèdes contractuels si nécessaire.
+  - Les fournisseurs traitent souvent des données de patients, c'est pourquoi les contrats sont gérés avec les collègues de la gouvernance de l'information et de la sécurité, y compris les clauses de protection des données, les audits et le traitement des violations.
+  - La sortie et la restitution des données doivent être prévues dès le départ, pour que les dossiers des patients puissent passer à un nouveau système dans un format exploitable et que les anciennes copies soient supprimées en sécurité.
+  - Les modifications des contrats doivent respecter les règles de la commande publique, c'est pourquoi les gestionnaires de contrats vérifient si une modification nécessite une nouvelle mise en concurrence.
+  - Les nouvelles versions des fournisseurs peuvent changer le comportement d'un système clinique, c'est pourquoi les gestionnaires de contrats veillent à ce que les fournisseurs respectent leurs obligations de sécurité clinique.
+levels:
+  - title: Gestionnaire de contrats
+    summary: Gère un portefeuille de contrats, y compris des contrats technologiques et de systèmes cliniques, du démarrage au renouvellement, dans le cadre de gestion des contrats. Appelé aussi chargé des contrats.
+    responsibilities:
+      - Gérer un portefeuille de contrats, en tenant à jour le registre des contrats, les documents et les dates clés.
+      - Mener des revues de performance régulières avec les fournisseurs, à l'aide des niveaux de service et des indicateurs clés de performance.
+      - Vérifier les factures au regard des clauses du contrat et résoudre les litiges de facturation.
+      - Négocier et traiter les modifications et les avenants des contrats dans le respect des règles d'achat.
+      - Suivre l'usage des licences, les renouvellements et les préavis, et planifier les renouvellements et les remises en concurrence du portefeuille.
+      - Tenir à jour les plans de réversibilité et les registres des données de chaque contrat.
+      - Travailler avec les collègues de la gouvernance de l'information et de la sécurité sur les vérifications de protection des données et de sécurité des fournisseurs.
+    qualifications:
+      - Une qualification reconnue en achats ou en gestion des contrats de niveau avancé, ou une expérience équivalente.
+      - Une expérience de la gestion de contrats de services, idéalement technologiques.
+    job_evaluation_notes: Les annonces du secteur de la santé situent ce rôle en bande 7. L'analyse est au niveau 5 pour les jugements sur des clauses contractuelles et des litiges complexes, la planification au niveau 4 pour les renouvellements du portefeuille, et les ressources financières au niveau 4, car l'emploi gère les dépenses d'un portefeuille de contrats de services.
+  - title: Gestionnaire de contrats senior
+    summary: Gère les contrats stratégiques et à haut risque de l'organisation, comme le dossier patient informatisé et l'hébergement en nuage, et dirige les relations avec les fournisseurs clés.
+    responsibilities:
+      - Gérer les contrats stratégiques de systèmes cliniques et de services technologiques, y compris le démarrage des nouveaux contrats.
+      - Diriger les revues stratégiques avec les fournisseurs clés, couvrant la performance, la feuille de route, les risques et les plans d'amélioration.
+      - Appliquer les remèdes contractuels, comme les pénalités de niveau de service et les plans de remédiation, lorsque la performance est insuffisante.
+      - Négocier les avenants, les renouvellements et le règlement des litiges.
+      - Rédiger et tester les plans de réversibilité et de transition, y compris la restitution des données dans des formats standard et leur suppression sûre.
+      - Évaluer les risques fournisseurs, comme la santé financière, la cybersécurité et la chaîne d'approvisionnement, et planifier la réponse à leur défaillance.
+      - Accompagner et encadrer les gestionnaires de contrats.
+    qualifications:
+      - Une qualification reconnue en achats ou en gestion des contrats de niveau avancé, ou un master dans une discipline voisine, ou une expérience équivalente.
+      - Une expérience significative de la gestion de contrats technologiques stratégiques ou de services externalisés.
+    job_evaluation_notes: Les annonces du secteur de la santé situent ce rôle en bande 8a. Les connaissances, l'analyse et la liberté d'action sont cotées selon le profil de la bande 8a, car l'emploi gère les contrats stratégiques de l'organisation avec peu de supervision. Les ressources financières sont au niveau 4, car l'emploi gère les dépenses et les actifs de contrats de services à fort enjeu.
+  - title: Gestionnaire de contrats référent
+    summary: Dirige la gestion des contrats et des fournisseurs dans toute l'organisation, en fixant le cadre de gestion des contrats et en gérant l'équipe des contrats.
+    responsibilities:
+      - Fixer le cadre, les normes et les outils de gestion des contrats de l'organisation.
+      - Diriger l'équipe de gestion des contrats et son portefeuille de contrats.
+      - Diriger la gestion des relations avec les fournisseurs les plus critiques et résoudre les litiges majeurs.
+      - Fixer les normes de réversibilité et de restitution des données, et diriger la sortie des contrats stratégiques.
+      - Rendre compte aux comités de direction de la performance des contrats, du risque fournisseurs et des économies.
+      - Conseiller sur la résiliation, la remise en concurrence et la défaillance des fournisseurs.
+    qualifications:
+      - Une qualification reconnue en achats ou en gestion des contrats de niveau avancé, ou un master dans une discipline voisine, ou une expérience équivalente.
+      - Une solide expérience de la direction de la gestion des contrats de services complexes.
+    job_evaluation_notes: Les annonces du secteur de la santé situent ce rôle en bande 8b. La planification est au niveau 5 pour le cadre de gestion des contrats de toute l'organisation, les ressources financières au niveau 5, car l'emploi supervise des contrats de nombreux services, et les personnes au niveau 4, car il encadre l'équipe des contrats.

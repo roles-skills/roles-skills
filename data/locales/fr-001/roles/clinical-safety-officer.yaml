@@ -1,0 +1,47 @@
+summary: >
+  Les responsables de la sécurité clinique sont des cliniciens inscrits auprès d'un organisme professionnel qui veillent à ce que les systèmes informatiques de santé que l'organisation développe, achète et déploie soient sûrs pour les patients. Ils pilotent le processus de gestion des risques cliniques, dirigent l'identification des dangers, sont responsables des registres des dangers, et rédigent et valident les rapports de dossier de sécurité clinique, selon des normes de gestion des risques cliniques comme ISO 14971 et IEC 80001-1.
+health_context:
+  - Le rôle doit être tenu par un clinicien inscrit auprès d'un organisme professionnel, pour que les jugements de sécurité reposent sur des connaissances cliniques à jour et une responsabilité professionnelle.
+  - L'informatique de santé peut nuire aux patients par des informations erronées, manquantes, tardives ou trompeuses, c'est pourquoi le rôle évalue des risques souvent cachés dans les données et les parcours de travail.
+  - Le travail de sécurité clinique couvre toute la vie d'un système, de la conception et de l'achat au déploiement, aux changements et au retrait.
+  - Certains produits sont aussi réglementés comme dispositifs médicaux, c'est pourquoi le rôle travaille avec les collègues de la réglementation et de la qualité lorsque les dossiers de sécurité et les dossiers de dispositif se recoupent.
+  - Les incidents de sécurité liés à l'informatique de santé peuvent causer des préjudices graves, c'est pourquoi le rôle enquête sur les incidents et veille à ce que les enseignements en soient tirés.
+levels:
+  - title: Responsable de la sécurité clinique
+    summary: Pilote le processus de gestion des risques cliniques d'un ensemble de produits ou de changements, en dirigeant les ateliers d'identification des dangers, en tenant les registres des dangers et en rédigeant les rapports de dossier de sécurité clinique à faire approuver.
+    responsibilities:
+      - Diriger des ateliers d'identification des dangers avec les équipes produit, les cliniciens et les fournisseurs.
+      - Évaluer les risques cliniques et convenir des mesures de maîtrise, puis vérifier par des tests et des preuves que les mesures fonctionnent.
+      - Rédiger et tenir à jour les registres des dangers et les rapports de dossier de sécurité clinique des produits et des changements.
+      - Examiner la documentation de sécurité des fournisseurs des systèmes que l'organisation achète.
+      - Enquêter sur les incidents de sécurité liés à l'informatique de santé et recommander des améliorations.
+      - Conseiller les équipes numériques sur le processus de gestion des risques cliniques et la sécurité dès la conception.
+    qualifications:
+      - Une inscription en cours auprès d'un organisme professionnel clinique, avec une expérience clinique significative.
+      - Une formation à la gestion des risques cliniques de l'informatique de santé, ou une expérience équivalente.
+    job_evaluation_notes: La prise en charge des patients est cotée au niveau 5, car l'emploi donne des conseils spécialisés sur la sécurité des systèmes utilisés dans la prise en charge des patients. L'effort mental reflète une concentration prolongée sur la documentation et les preuves de sécurité.
+  - title: Responsable senior de la sécurité clinique
+    summary: Dirige la sécurité clinique d'un programme majeur ou d'un portefeuille de systèmes à haut risque, en validant les dossiers de sécurité et en orientant les autres responsables de la sécurité clinique.
+    responsibilities:
+      - Diriger la gestion des risques cliniques des systèmes à haut risque, comme les dossiers de santé informatisés, la prescription et l'aide à la décision.
+      - Approuver les registres des dangers et les rapports de dossier de sécurité clinique dans la limite de la délégation reçue.
+      - Conseiller les comités de programme sur le risque clinique et sur la sûreté d'un système pour sa mise en service.
+      - Diriger les enquêtes sur les incidents de sécurité graves liés à l'informatique de santé.
+      - Accompagner les responsables de la sécurité clinique et les cliniciens formés à la sécurité, et contrôler la qualité de leur travail.
+      - Aider à améliorer le système de gestion des risques cliniques et les modèles de l'organisation.
+    qualifications:
+      - Une inscription en cours auprès d'un organisme professionnel clinique, avec une solide expérience clinique.
+      - Une expérience significative de la gestion des risques cliniques de l'informatique de santé.
+  - title: Directeur de la sécurité clinique
+    summary: Est responsable du système de gestion des risques cliniques de l'informatique de santé de l'organisation, dirige l'équipe de sécurité clinique et donne au conseil d'administration l'assurance que ses services numériques sont cliniquement sûrs.
+    responsibilities:
+      - Être responsable du système, de la politique et des processus de gestion des risques cliniques de toute l'informatique de santé.
+      - Diriger et faire progresser l'équipe de sécurité clinique et le réseau plus large de cliniciens formés à la sécurité.
+      - Garantir les dossiers de sécurité des systèmes majeurs et formuler la recommandation finale de sécurité clinique sur leur déploiement.
+      - Diriger la réponse aux incidents de sécurité graves liés à l'informatique de santé, y compris avec les partenaires et les fournisseurs.
+      - Rendre compte au conseil d'administration et à ses comités des risques et de l'assurance de sécurité clinique.
+      - Construire une culture de la sécurité clinique dans les équipes numériques, cliniques et des fournisseurs.
+    qualifications:
+      - Une inscription en cours auprès d'un organisme professionnel clinique, avec une solide expérience clinique et de direction.
+      - Une solide expérience de la direction de la gestion des risques cliniques de l'informatique de santé dans toute une organisation.
+    job_evaluation_notes: La prise en charge des patients est cotée au niveau 6, car l'emploi rend compte de la sécurité clinique de l'informatique de santé de l'organisation. L'effort émotionnel reflète l'examen régulier d'incidents ayant causé un préjudice à des patients.

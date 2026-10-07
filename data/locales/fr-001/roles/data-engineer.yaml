@@ -1,0 +1,45 @@
+summary: >
+  Les ingénieurs de données conçoivent et exploitent les flux et les plateformes qui acheminent les données de santé et de soins des systèmes cliniques et opérationnels vers des lieux où elles peuvent être analysées et utilisées en sécurité. Ils conçoivent les flux de données, intègrent des sources qui utilisent des normes différentes et veillent à ce que les données soient exactes, à jour, sécurisées et accessibles seulement aux personnes autorisées.
+health_context:
+  - Les systèmes source comprennent les dossiers patients informatisés et les systèmes de laboratoire, d'imagerie et de pharmacie, qui utilisent des normes comme HL7 version 2, HL7 FHIR, SNOMED CT et la CIM.
+  - Les flux transportent souvent des données identifiantes de patients, c'est pourquoi les ingénieurs intègrent dès le départ la pseudonymisation, le contrôle d'accès et la traçabilité.
+  - Certains flux de données soutiennent les soins directs, comme les alertes ou les listes de patients, c'est pourquoi un flux en échec ou en retard peut toucher les patients et doit faire l'objet d'une évaluation de sécurité clinique.
+  - Les données doivent souvent être reliées entre structures de soins, ce qui repose sur un rapprochement fiable des patients et des identifiants cohérents.
+levels:
+  - title: Ingénieur de données
+    responsibilities:
+      - Développer et maintenir les flux de données des systèmes cliniques et opérationnels vers la plateforme de données, selon des conceptions convenues.
+      - Établir la correspondance des données source, y compris les données cliniques codées, avec les modèles cibles et documenter les correspondances.
+      - Intégrer aux flux la pseudonymisation, la validation et les contrôles de qualité des données.
+      - Superviser les flux et corriger les défaillances, en donnant la priorité à ceux qui soutiennent les soins directs.
+      - Appliquer des contrôles d'accès et une journalisation d'audit conformes aux règles de gouvernance de l'information.
+    qualifications:
+      - Une licence en informatique ou dans une discipline voisine, ou une expérience équivalente.
+      - Une expérience du développement de flux de données.
+  - title: Ingénieur de données senior
+    responsibilities:
+      - Concevoir des flux de données et des services de diffusion en continu qui rassemblent les données de nombreux systèmes de santé et de soins.
+      - Concevoir les processus de rapprochement et de chaînage des patients, et mesurer leur efficacité.
+      - Diriger le travail de performance des bases de données et de la plateforme pour que les données soient disponibles quand les services en ont besoin.
+      - Évaluer avec les spécialistes concernés les risques de sécurité clinique et de gouvernance de l'information des flux de données.
+      - Relire le travail des autres ingénieurs et les accompagner.
+    qualifications:
+      - Une expérience significative de la conception et du développement de systèmes de données, d'un niveau équivalent à un master.
+  - title: Ingénieur de données référent
+    responsibilities:
+      - Diriger la conception et l'exploitation de la plateforme de données de l'organisation et de ses nombreux flux.
+      - Fixer des normes d'ingénierie pour les flux, les tests, la sécurité et la documentation.
+      - Planifier l'intégration des données avec les partenaires de santé et de soins, y compris les dossiers de soins partagés et les services régionaux de données.
+      - Veiller à ce que les flux de données qui soutiennent les soins directs soient résilients et disposent de dossiers de sécurité clinique.
+      - Coordonner les équipes d'ingénierie des données et encadrer les ingénieurs.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie des données de systèmes complexes.
+  - title: Responsable de l'ingénierie des données
+    responsibilities:
+      - Fixer la stratégie des plateformes de données et des services d'ingénierie des données de l'organisation.
+      - Diriger des équipes pluridisciplinaires qui fournissent des services de données aux équipes internes et aux partenaires de santé et de soins.
+      - Conseiller la direction sur les risques, les coûts et les investissements de la plateforme de données.
+      - Veiller à ce que les services de données respectent les exigences de gouvernance de l'information, de sécurité et de sécurité clinique.
+      - Développer la capacité d'ingénierie des données par le recrutement, le développement et les parcours de carrière.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie des données dans plusieurs équipes.

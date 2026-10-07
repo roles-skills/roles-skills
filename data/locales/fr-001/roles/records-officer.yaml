@@ -1,0 +1,56 @@
+summary: >
+  Le personnel des dossiers médicaux veille à ce que les dossiers des patients et les dossiers administratifs soient créés, stockés, suivis, retrouvés et éliminés correctement, qu'ils soient sur papier ou dans des systèmes numériques. Il garde les dossiers disponibles pour les soins, les protège contre la perte et l'accès non autorisé, et accompagne le passage des dossiers papier aux dossiers numériques.
+health_context:
+  - Les dossiers des patients doivent être disponibles quand les cliniciens en ont besoin, c'est pourquoi des retards ou des dossiers perdus peuvent toucher directement les soins.
+  - Les dossiers contiennent des informations très confidentielles, c'est pourquoi le personnel suit des règles strictes de confidentialité et d'accès et peut lire régulièrement des contenus pénibles.
+  - La plupart des organisations détiennent à la fois des dossiers papier et numériques, c'est pourquoi le rôle comprend la numérisation, l'indexation et la gestion de dossiers hybrides.
+  - Les dossiers doivent être conservés pendant des durées fixées par les calendriers de conservation, puis archivés ou détruits de façon sûre, avec une piste d'audit.
+  - Les équipes des dossiers traitent souvent les demandes d'accès au dossier médical, qui sont soumises à des délais légaux.
+levels:
+  - title: Agent d'accueil des dossiers médicaux
+    summary: Classe, retrouve, suit, numérise et prépare les dossiers, selon des procédures établies et avec une supervision proche.
+    responsibilities:
+      - Classer, retrouver et suivre les dossiers papier, et les préparer pour les consultations et les demandes.
+      - Numériser et indexer les dossiers dans le système de dossiers informatisés, en contrôlant la qualité.
+      - Saisir et mettre à jour avec exactitude les informations des dossiers dans les systèmes de suivi.
+      - Garder les dossiers en sécurité et signaler immédiatement tout dossier perdu ou toute violation.
+      - Déplacer et stocker les dossiers en sécurité, y compris les cartons et les chariots de dossiers.
+    qualifications:
+      - De bonnes compétences en lecture, en écriture, en calcul et au clavier.
+    job_evaluation_notes: Les compétences physiques sont cotées au niveau 3 pour une numérisation et une saisie rapides et exactes. L'effort physique reflète le déplacement fréquent de dossiers.
+  - title: Agent des dossiers médicaux
+    summary: Gère divers processus liés aux dossiers, dont certains non courants, comme la recherche de dossiers manquants, la préparation de dossiers pour les demandes d'accès et l'application des calendriers de conservation.
+    responsibilities:
+      - Retrouver les dossiers manquants et résoudre les problèmes de suivi.
+      - Préparer les dossiers pour les demandes d'accès, en vérifiant qu'ils sont complets avant leur examen.
+      - Appliquer les calendriers de conservation et préparer les dossiers pour leur archivage ou leur destruction sûre.
+      - Contrôler la qualité des dossiers numérisés et corriger les erreurs d'indexation.
+      - Répondre aux questions des cliniciens, du personnel soignant et des patients sur les dossiers.
+      - Montrer aux nouveaux agents d'accueil des dossiers médicaux comment suivre les procédures.
+    qualifications:
+      - Une expérience du travail sur les dossiers ou administratif, ou une qualification de niveau 3 en gestion administrative ou une expérience équivalente.
+    job_evaluation_notes: L'effort émotionnel reflète une exposition indirecte fréquente à des contenus pénibles des dossiers médicaux.
+  - title: Agent senior des dossiers médicaux
+    summary: Encadre au quotidien une équipe des dossiers et pilote des processus comme les demandes d'accès, les audits et les revues de conservation.
+    responsibilities:
+      - Encadrer au quotidien le personnel des dossiers, en répartissant le travail et en contrôlant la qualité.
+      - Traiter les demandes d'accès au dossier médical dans les délais légaux, avec l'accompagnement des collègues de la gouvernance de l'information.
+      - Réaliser des audits de tenue et de suivi des dossiers et en rendre compte.
+      - Tenir exacts et à jour les systèmes de suivi des dossiers et de dossiers informatisés.
+      - Former le personnel aux procédures relatives aux dossiers et à la confidentialité.
+      - Enquêter sur les dossiers perdus et les autres incidents, et recommander des améliorations.
+    qualifications:
+      - Une expérience significative du travail sur les dossiers médicaux, ou une qualification pertinente de niveau diplôme de premier cycle court ou une expérience équivalente.
+  - title: Responsable des dossiers médicaux
+    summary: Gère le service des dossiers médicaux, son personnel, ses systèmes et ses procédures, et dirige son amélioration, y compris le passage des dossiers papier aux dossiers numériques.
+    responsibilities:
+      - Gérer le service des dossiers médicaux, son personnel et sa performance.
+      - Rédiger et tenir à jour les procédures relatives aux dossiers, conformément à la politique et aux normes de gestion des dossiers.
+      - Gérer les systèmes de suivi des dossiers et de dossiers informatisés de plusieurs services.
+      - Diriger les projets de numérisation et le passage aux dossiers numériques.
+      - Piloter le programme de conservation et d'élimination et les audits des dossiers.
+      - Conseiller les cliniciens, les responsables et les collègues de la gouvernance de l'information sur la gestion des dossiers.
+    qualifications:
+      - Une licence ou une qualification professionnelle en gestion des documents ou de l'information, ou une expérience équivalente.
+      - Une expérience de l'encadrement d'une équipe des dossiers.
+    job_evaluation_notes: Les ressources d'information sont cotées au niveau 5, car l'exploitation des systèmes de dossiers de plusieurs services est la tâche principale.

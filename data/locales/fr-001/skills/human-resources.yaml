@@ -1,0 +1,298 @@
+# French translations of data/skills/human-resources.yaml. Keys are the English skill ids.
+hr-hr-administration:
+  name: Administration du personnel
+  description: Mener avec exactitude et confidentialité les processus administratifs du cycle de vie de l'emploi, des contrats et des entrées aux changements, aux absences et aux sorties.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - suivre les procédures de l'organisation pour les entrées, les changements et les sorties
+      - garder les dossiers personnels confidentiels et à jour
+    working: |
+      Vous pouvez :
+      - préparer avec exactitude les contrats, les avenants et les vérifications préalables à l'embauche
+      - traiter les changements dans le système RH et de paie dans les délais
+      - répondre aux questions courantes des responsables et du personnel sur les processus RH
+    practitioner: |
+      Vous pouvez :
+      - piloter un service d'administration du personnel, en contrôlant la qualité et en respectant les normes de service
+      - améliorer les processus et les modèles, et automatiser les étapes routinières quand c'est possible
+      - résoudre des cas complexes ou inhabituels, comme les trop-perçus ou les erreurs de contrat
+    expert: |
+      Vous pouvez :
+      - concevoir le modèle opérationnel RH et les normes de service de l'organisation
+      - diriger le passage à des processus RH numériques et en libre-service
+      - fixer des contrôles qui maintiennent les données RH et de paie exactes et licites
+hr-employment-policy:
+  name: Droit du travail et politiques RH
+  description: Appliquer le droit du travail et rédiger, interpréter et revoir les politiques RH de l'organisation pour que le personnel soit traité de façon licite, équitable et cohérente.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les principales politiques RH et où les trouver
+      - reconnaître quand une question exige l'avis d'un conseiller RH
+    working: |
+      Vous pouvez :
+      - appliquer les politiques RH aux cas courants et les expliquer aux responsables
+      - identifier les principes du droit du travail qui sous-tendent une politique
+      - tenir les registres des politiques et suivre leurs dates de révision
+    practitioner: |
+      Vous pouvez :
+      - interpréter le droit du travail et les politiques pour des cas complexes et conseiller sur le risque
+      - rédiger et revoir des politiques RH, avec des études d'impact sur l'égalité
+      - consulter les représentants du personnel sur les changements de politique
+    expert: |
+      Vous pouvez :
+      - fixer le cadre des politiques RH de l'organisation et son approche du risque juridique
+      - anticiper les évolutions du droit du travail et planifier la réponse de l'organisation
+      - conseiller le conseil d'administration sur le risque et la responsabilité en matière d'emploi
+hr-employee-relations:
+  name: Relations sociales individuelles
+  description: Gérer les dossiers formels et informels de relations sociales, comme la conduite, l'insuffisance professionnelle, les réclamations, l'assiduité et la dignité au travail, de façon équitable et conforme à la politique et au droit du travail.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les principales étapes des procédures de conduite, d'insuffisance professionnelle, de réclamation et d'assiduité
+      - prendre des notes exactes lors des réunions formelles et garder les dossiers confidentiels
+    working: |
+      Vous pouvez :
+      - conseiller les responsables sur les cas simples et l'étape suivante d'une procédure
+      - soutenir les enquêtes, préparer les pièces des dossiers et organiser les entretiens
+      - travailler de façon constructive avec les représentants du personnel sur les cas individuels
+    practitioner: |
+      Vous pouvez :
+      - gérer un portefeuille de cas complexes, en conseillant les instances sur des issues équitables
+      - mener ou diriger des enquêtes, y compris celles liées à des incidents ou à la protection des personnes vulnérables
+      - recourir à la résolution précoce et à la médiation pour régler les différends avant qu'ils ne s'aggravent
+      - repérer les tendances des dossiers et agir sur leurs causes
+    expert: |
+      Vous pouvez :
+      - diriger l'approche de l'organisation en matière de relations sociales et de dialogue social
+      - traiter les cas les plus sensibles ou à risque, y compris les contentieux prud'homaux
+      - négocier des accords collectifs et résoudre les conflits collectifs
+hr-recruitment-and-selection:
+  name: Recrutement et sélection
+  description: Attirer, évaluer et nommer des personnes de façon équitable et efficace, de la conception du poste et de l'annonce à la présélection, à l'évaluation, à l'offre et aux vérifications préalables à l'embauche.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les étapes du processus de recrutement de l'organisation
+      - suivre les règles d'un recrutement équitable et sûr, y compris les vérifications préalables à l'embauche
+    working: |
+      Vous pouvez :
+      - gérer des campagnes de recrutement dans le logiciel de suivi des candidatures
+      - aider les responsables pour les annonces, la présélection et l'organisation des entretiens
+      - réaliser les vérifications préalables à l'embauche et faire des offres conditionnelles
+    practitioner: |
+      Vous pouvez :
+      - conseiller les responsables sur la conception des postes, les méthodes de sélection et une évaluation équitable
+      - concevoir des évaluations pour des postes spécialisés, comme des exercices techniques pour les postes numériques
+      - analyser les données de recrutement pour améliorer les délais, la qualité et la diversité
+      - gérer l'expérience des candidats et la marque employeur
+    expert: |
+      Vous pouvez :
+      - fixer la stratégie de recrutement et les normes de service de l'organisation
+      - diriger le choix et l'usage des technologies de recrutement et des cabinets
+      - veiller à ce que le recrutement soit inclusif et licite dans toute l'organisation
+hr-talent-attraction:
+  name: Attraction et sourcing des talents
+  description: Trouver et mobiliser des personnes aux compétences rares, comme les spécialistes du numérique, des données et de la technologie, grâce à la marque employeur, au sourcing direct, aux réseaux et aux filières d'entrée dans la carrière.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer quelles compétences sont difficiles à recruter et pourquoi
+      - partager les offres d'emploi par les canaux et les réseaux de l'organisation
+    working: |
+      Vous pouvez :
+      - rédiger des annonces qui attirent les candidats spécialisés et utilisent un langage clair
+      - rechercher des candidats sur les sites d'emploi, les réseaux professionnels et les viviers de talents
+      - soutenir des événements, comme les salons de l'emploi et les journées portes ouvertes
+    practitioner: |
+      Vous pouvez :
+      - constituer des viviers et des communautés de talents pour les postes numériques et de données rares
+      - façonner la proposition de valeur employeur avec les équipes qui recrutent
+      - utiliser des données de marché sur la rémunération et la disponibilité pour conseiller sur les postes difficiles à pourvoir
+      - développer des filières d'entrée, comme l'apprentissage et les programmes pour jeunes diplômés
+    expert: |
+      Vous pouvez :
+      - fixer la stratégie d'attraction des talents et la marque employeur de l'organisation
+      - travailler avec des partenaires, comme les universités et d'autres employeurs, pour élargir le vivier de talents
+      - diriger les décisions sur les primes, le recours aux agences et les modèles alternatifs de sourcing
+hr-workforce-planning:
+  name: Planification des effectifs
+  description: Prévoir les effectifs dont l'organisation a besoin, les comparer aux effectifs existants et planifier comment combler l'écart par le recrutement, le développement, la réorganisation et la fidélisation.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer pourquoi la planification des effectifs compte pour des services sûrs et durables
+      - fournir des informations exactes sur les effectifs et les postes vacants
+    working: |
+      Vous pouvez :
+      - recueillir et vérifier les données des plans d'effectifs auprès des responsables
+      - modéliser des scénarios simples, comme les tendances de rotation et de vacance
+    practitioner: |
+      Vous pouvez :
+      - diriger la planification des effectifs d'une direction, en la reliant aux plans de service et financiers
+      - identifier les écarts de compétences et recommander des moyens de les combler
+      - planifier de nouveaux postes, des parcours de carrière et la combinaison des profils
+    expert: |
+      Vous pouvez :
+      - fixer la stratégie d'effectifs et le plan à long terme de l'organisation
+      - arbitrer les effectifs entre services avec les responsables financiers et de service
+      - façonner les plans d'effectifs avec les partenaires de tout le système de santé et de soins
+hr-workforce-information:
+  name: Données sur les effectifs et systèmes RH
+  description: Gérer les systèmes et les données RH et d'effectifs, et transformer les données d'effectifs en rapports et en analyses, comme celles de la rotation, de l'absentéisme, des vacances de poste, de la diversité et des écarts de rémunération.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - saisir avec exactitude les données d'effectifs dans le système RH
+      - expliquer pourquoi les données d'effectifs doivent être exactes et confidentielles
+    working: |
+      Vous pouvez :
+      - produire les rapports d'effectifs standard et vérifier qu'ils sont sans erreur
+      - répondre aux demandes d'information courantes sur les effectifs
+    practitioner: |
+      Vous pouvez :
+      - analyser les données d'effectifs pour dégager des tendances et les expliquer aux responsables
+      - concevoir des tableaux de bord et des rapports d'indicateurs d'effectifs
+      - produire les rapports légaux et d'égalité, comme l'analyse des écarts de rémunération
+    expert: |
+      Vous pouvez :
+      - fixer la stratégie de données sur les effectifs et les normes de données de l'organisation
+      - diriger le choix et le développement des systèmes RH
+      - utiliser les analyses d'effectifs pour éclairer les décisions du conseil d'administration
+hr-reward-and-job-evaluation:
+  name: Rémunération et évaluation des emplois
+  description: Appliquer les règles de rémunération et évaluer les emplois de façon cohérente selon un système d'évaluation des emplois pour les placer dans la bonne bande.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer comment fonctionnent les bandes de rémunération, les échelons et les indemnités
+      - expliquer que les emplois sont classés par l'évaluation des emplois, et non selon la personne qui les occupe
+    working: |
+      Vous pouvez :
+      - appliquer les règles de rémunération, comme le salaire d'entrée, la garantie de rémunération et les indemnités
+      - vérifier que les fiches de poste sont complètes avant leur évaluation
+      - siéger dans des comités d'évaluation des emplois en tant que membre formé
+    practitioner: |
+      Vous pouvez :
+      - présider les comités d'évaluation des emplois et les contrôles de cohérence
+      - conseiller sur la bande des postes nouveaux et modifiés, y compris les postes numériques et de données
+      - conseiller sur les primes d'attractivité et de fidélisation, à partir de données de marché
+    expert: |
+      Vous pouvez :
+      - fixer la stratégie de rémunération de l'organisation dans le cadre de rémunération convenu
+      - garantir l'intégrité de l'évaluation des emplois dans toute l'organisation
+      - diriger les revues d'égalité de rémunération et agir sur leurs constats
+hr-learning-design-and-delivery:
+  name: Conception et animation de la formation
+  description: Analyser les besoins de formation, puis concevoir, animer et évaluer la formation en présentiel, en ligne et en situation de travail.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer la différence entre formation, apprentissage et développement
+      - soutenir l'organisation des cours et tenir les registres de formation
+    working: |
+      Vous pouvez :
+      - animer des sessions de formation bien définies en présentiel et en ligne
+      - créer des modules d'e-learning simples dans le système de gestion de la formation
+      - recueillir et synthétiser les retours des apprenants
+    practitioner: |
+      Vous pouvez :
+      - analyser les besoins de formation et concevoir des programmes mixtes pour y répondre
+      - fixer des objectifs pédagogiques et évaluer l'impact, et pas seulement la satisfaction
+      - rendre la formation accessible et inclusive pour tout le personnel
+    expert: |
+      Vous pouvez :
+      - fixer la stratégie et les normes de formation de l'organisation
+      - diriger l'offre de formation, ses technologies et son financement
+      - démontrer le retour sur l'investissement de l'organisation dans la formation
+hr-skills-frameworks-and-career-pathways:
+  name: Référentiels de compétences et parcours de carrière
+  description: Utiliser des référentiels de compétences et de métiers, comme cette référence, le UK GDaD PCF et ESCO, pour décrire les postes, évaluer les écarts de compétences et construire des parcours de carrière.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer ce qu'est un référentiel de compétences et comment il décrit les rôles et les niveaux
+      - trouver dans le référentiel le profil de rôle et les compétences d'un poste
+    working: |
+      Vous pouvez :
+      - rapprocher les fiches de poste des rôles, des niveaux et des compétences du référentiel
+      - accompagner le personnel et les responsables dans les autoévaluations de compétences
+      - tenir à jour les informations sur les parcours de carrière
+    practitioner: |
+      Vous pouvez :
+      - réaliser l'analyse des écarts de compétences d'une équipe ou d'une profession et en rendre compte
+      - concevoir des parcours de carrière et des voies de développement à partir des niveaux du référentiel
+      - utiliser les compétences du référentiel pour rédiger des fiches de poste et des évaluations cohérentes
+    expert: |
+      Vous pouvez :
+      - fixer la manière dont l'organisation utilise les référentiels de compétences dans toutes les professions
+      - utiliser les données de compétences pour éclairer les stratégies d'effectifs, de formation et de rémunération
+      - contribuer au développement de référentiels partagés avec d'autres organisations
+hr-organisational-development:
+  name: Développement organisationnel
+  description: Améliorer le fonctionnement de l'organisation par des interventions fondées sur les données probantes en matière de culture, de leadership, d'engagement, d'efficacité des équipes et de bien-être.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer comment la culture, le leadership et l'engagement influent sur le personnel et la prise en charge des patients
+      - aider à mener des enquêtes auprès du personnel et des temps d'écoute
+    working: |
+      Vous pouvez :
+      - animer des séances et des ateliers d'équipe avec des outils standard
+      - analyser les résultats de l'enquête auprès du personnel d'une équipe et proposer des actions
+    practitioner: |
+      Vous pouvez :
+      - diagnostiquer des problèmes organisationnels et concevoir des interventions pour y répondre
+      - diriger des programmes de développement des équipes, du leadership et de l'engagement
+      - évaluer l'effet des interventions à partir de données probantes
+    expert: |
+      Vous pouvez :
+      - fixer la stratégie de développement organisationnel et le programme de culture
+      - accompagner les dirigeants et conduire des changements culturels à grande échelle
+      - relier les indicateurs de culture et d'engagement à la qualité des soins et à la performance
+hr-organisational-change:
+  name: Changement organisationnel et consultation
+  description: Planifier et gérer les changements de structures, de postes et d'organisation du travail, y compris la consultation formelle, le reclassement et les licenciements, conformément à la politique et au droit du travail.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les principales étapes d'un processus de changement organisationnel
+      - soutenir l'administration d'un changement, comme les courriers et les réunions de consultation
+    working: |
+      Vous pouvez :
+      - aider les responsables à préparer les documents de consultation et les points d'information du personnel
+      - suivre les réponses et les actions pendant la consultation
+      - accompagner le personnel dans les processus de reclassement et de sélection
+    practitioner: |
+      Vous pouvez :
+      - diriger le changement organisationnel d'une direction, de l'étude d'opportunité à la mise en œuvre
+      - consulter le personnel et ses représentants et répondre à leurs retours
+      - gérer les risques juridiques et d'égalité d'un changement
+    expert: |
+      Vous pouvez :
+      - diriger des restructurations à l'échelle de l'organisation et des transferts de services
+      - concevoir l'approche du changement de l'organisation, y compris le dialogue social
+      - conseiller le conseil d'administration sur l'impact humain et le risque des changements majeurs
+hr-people-strategy:
+  name: Stratégie RH et leadership des ressources humaines
+  description: Fixer la stratégie RH de l'organisation, diriger la fonction ressources humaines et conseiller le conseil d'administration sur la culture, les effectifs et le risque lié à l'emploi.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer la stratégie RH de l'organisation et comment votre travail y contribue
+    working: |
+      Vous pouvez :
+      - contribuer aux plans RH d'un service, avec des actions et des indicateurs clairs
+      - rendre compte de l'avancement du plan RH
+    practitioner: |
+      Vous pouvez :
+      - rédiger et piloter les plans RH d'une direction conformément à la stratégie RH
+      - conseiller la direction sur les risques et les priorités RH
+      - diriger une partie de la fonction RH, en fixant ses normes et ses priorités
+    expert: |
+      Vous pouvez :
+      - fixer la stratégie RH de l'organisation et diriger la fonction ressources humaines
+      - conseiller le conseil d'administration sur la culture, les effectifs et le risque lié à l'emploi
+      - représenter l'organisation sur les questions RH auprès des partenaires et des régulateurs

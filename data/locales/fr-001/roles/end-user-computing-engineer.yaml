@@ -1,0 +1,63 @@
+summary: >
+  Les ingénieurs poste de travail fournissent, maintiennent et assurent le support des appareils et des logiciels que le personnel utilise chaque jour, comme les ordinateurs portables et fixes, les tablettes, les téléphones mobiles, les imprimantes et les postes partagés des services de soins et des consultations. Ils réparent les pannes sur place et à distance, déploient et mettent à jour les appareils, et les maintiennent sécurisés et conformes. Leur travail permet aux cliniciens et au personnel soignant de consulter et de saisir les informations des patients au point de soins.
+health_context:
+  - De nombreux appareils sont partagés par le personnel clinique dans les services, les consultations et aux urgences, souvent avec un changement rapide d'utilisateur et une connexion par carte à puce ou sans contact.
+  - Un appareil en panne dans une zone clinique peut retarder les soins, c'est pourquoi les ingénieurs traitent ces pannes en priorité et gardent des appareils de remplacement prêts à être échangés.
+  - Les ingénieurs travaillent dans les zones cliniques, c'est pourquoi ils suivent les règles de prévention et de maîtrise des infections, respectent l'intimité et la dignité des patients et adaptent leur travail à l'activité clinique.
+  - Les appareils contiennent ou affichent des informations confidentielles sur les patients, c'est pourquoi ils doivent être chiffrés, corrigés, gérés, et effacés ou détruits de façon sûre en fin de vie.
+  - Certains périphériques soutiennent des processus cliniques ou se connectent à des équipements cliniques, comme les imprimantes de bracelets et d'étiquettes, les lecteurs de codes-barres et les dictaphones, c'est pourquoi leurs modifications demandent prudence et tests.
+levels:
+  - title: Ingénieur poste de travail adjoint
+    responsibilities:
+      - Installer, remplacer et réparer des appareils et des périphériques sous la direction d'ingénieurs expérimentés.
+      - Réparer les pannes courantes dans les zones cliniques et de bureau, comme les problèmes d'imprimante, de scanner et de connexion.
+      - Suivre les règles de prévention et de maîtrise des infections, et respecter l'intimité des patients, lors du travail dans les services et les consultations.
+      - Consigner avec exactitude le travail, les équipements et les pièces dans l'outil de gestion des services.
+      - Préparer un apprentissage en support informatique ou une qualification équivalente.
+    qualifications:
+      - Inscrit à un apprentissage en support informatique ou équivalent, ou en préparation.
+    job_evaluation_notes: L'effort physique reflète un effort léger fréquent, comme porter des appareils et travailler sous les bureaux et dans des espaces exigus. Les connaissances sont cotées au niveau requis par l'emploi une fois la formation suffisamment avancée pour faire le travail.
+  - title: Ingénieur poste de travail
+    responsibilities:
+      - Diagnostiquer et réparer les pannes matérielles et logicielles sur place et à distance, avec l'objectif de les résoudre dès la première intervention.
+      - Intervenir rapidement sur les pannes des zones cliniques, et fournir un appareil de remplacement lorsqu'une réparation retarderait les soins.
+      - Préparer, déployer et mettre à jour les appareils avec les images standard et les outils de gestion des appareils de l'organisation.
+      - Maintenir les appareils corrigés, chiffrés et conformes, et les effacer ou les éliminer de façon sûre en fin de vie.
+      - Paramétrer et tester les périphériques cliniques, comme les imprimantes de bracelets, les imprimantes d'étiquettes et les lecteurs de codes-barres.
+      - Accompagner les ingénieurs adjoints et partager les solutions par des articles de connaissance.
+    qualifications:
+      - Une qualification de niveau 3 ou supérieur en informatique, un apprentissage achevé ou une expérience équivalente.
+      - Une expérience du support des appareils des utilisateurs.
+    job_evaluation_notes: L'effort physique reflète un effort léger fréquent lors du transport et de l'installation d'appareils sur différents sites.
+  - title: Ingénieur poste de travail senior
+    responsibilities:
+      - Diriger au quotidien une équipe d'ingénieurs, en hiérarchisant le travail selon son effet sur la prise en charge des patients et le personnel.
+      - Planifier et mener les déploiements et les renouvellements d'appareils dans les services, les consultations et les équipes de proximité, en perturbant le moins possible les soins.
+      - Tester les images et les mises à jour des appareils avec les applications cliniques et les périphériques avant leur déploiement.
+      - Veiller à ce que les appareils respectent les normes de sécurité, y compris le niveau de correctifs, le chiffrement et la protection des terminaux.
+      - Accompagner les mises en service de systèmes cliniques par une présence sur le terrain et des réparations rapides d'appareils.
+      - Travailler avec les équipes infrastructure, applications et sécurité pour corriger les pannes complexes et répétées.
+    qualifications:
+      - Une expérience significative du support et de la gestion des appareils des utilisateurs, d'un niveau équivalent à une licence.
+    job_evaluation_notes: La responsabilité des personnes reflète la gestion quotidienne d'une équipe d'ingénieurs ; l'effort physique reflète un certain travail continu sur place.
+  - title: Ingénieur poste de travail référent
+    responsibilities:
+      - Fixer les normes des appareils, des images et des logiciels utilisateurs de l'organisation, y compris les postes cliniques partagés.
+      - Gérer les fournisseurs d'appareils, de réparations et de services utilisateurs, et leur faire respecter les niveaux de service convenus.
+      - Travailler avec les architectes techniques pour choisir et tester de nouveaux types d'appareils, comme les appareils mobiles du personnel hospitalier et de proximité.
+      - Diriger la réponse technique aux incidents du poste de travail, comme une mise à jour en échec qui touche les postes cliniques.
+      - Planifier le cycle de vie et la capacité des appareils, et conseiller sur les coûts de renouvellement.
+      - Diriger et faire progresser les ingénieurs seniors.
+    qualifications:
+      - Une solide expérience du poste de travail, y compris la gestion des fournisseurs.
+  - title: Ingénieur poste de travail principal
+    responsibilities:
+      - Être responsable de la stratégie et de la feuille de route du poste de travail, y compris la manière dont le personnel accédera aux systèmes cliniques à l'hôpital, en consultation, au domicile des patients et en proximité.
+      - Veiller à ce que le parc d'appareils permette un accès sûr et rapide aux informations des patients au point de soins.
+      - Conseiller la direction sur l'investissement en appareils, les risques et les coûts des renouvellements et des nouvelles technologies.
+      - Diriger la réponse aux risques qui touchent tout le parc, comme la fin du support des systèmes d'exploitation et la résilience face aux rançongiciels.
+      - Diriger les ressources, la formation et le développement des équipes du poste de travail.
+      - Travailler avec les partenaires de santé et de soins sur des normes partagées d'appareils et d'accès.
+    qualifications:
+      - Une solide expérience de la direction du poste de travail d'une grande organisation multisite.
+    job_evaluation_notes: Le UK GDaD PCF propose la bande 8c pour ce niveau (G6). Cette référence le place en bande 8b, comme les rôles principaux des autres familles techniques, car son périmètre est un domaine technique et non une direction.

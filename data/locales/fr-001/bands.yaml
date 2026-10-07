@@ -1,0 +1,97 @@
+# Band outlines in French. Keys are the English band ids.
+"1":
+  title: Bande 1
+  stage: Débutant
+  knowledge: Bases de lecture, d'écriture et de calcul ; apprend sur le poste des tâches routinières simples.
+  autonomy: Suit des instructions claires ; son travail est souvent vérifié.
+  scope: Ses propres tâches routinières.
+  leadership: Aucun.
+  accountability: Réalisation exacte des tâches routinières.
+"2":
+  title: Bande 2
+  stage: Soutien
+  knowledge: Connaît les routines et les procédures de son domaine de travail ; peut détenir une qualification de premier niveau.
+  autonomy: Travaille selon des procédures établies, avec une supervision disponible.
+  scope: Ses propres tâches au sein d'une équipe.
+  leadership: Peut montrer les tâches routinières aux nouveaux arrivants.
+  accountability: La qualité et le respect des délais de son propre travail routinier.
+"3":
+  title: Bande 3
+  stage: Soutien
+  knowledge: Connaissance de diverses procédures, dont certaines non routinières ; généralement une qualification de niveau 3 ou une expérience équivalente.
+  autonomy: Travaille dans le cadre des procédures ; décide de l'organisation de son travail ; fait remonter les problèmes.
+  scope: Son propre travail et certaines tâches pour l'ensemble de l'équipe.
+  leadership: Peut répartir le travail routinier ou former d'autres personnes aux procédures.
+  accountability: L'exactitude de son propre travail et des registres tenus.
+"4":
+  title: Bande 4
+  stage: Soutien et professionnel débutant
+  knowledge: Connaissance détaillée du domaine de travail, généralement acquise par un diplôme de premier cycle court, un apprentissage ou une expérience équivalente.
+  autonomy: Travaille dans un cadre de lignes directrices ; résout la plupart des problèmes quotidiens ; peut demander conseil à son responsable.
+  scope: Son propre travail et un service ou un processus défini.
+  leadership: Peut encadrer une petite équipe ou coordonner le travail d'autres personnes.
+  accountability: La prestation d'un service ou d'un processus défini.
+"5":
+  title: Bande 5
+  stage: Professionnel
+  knowledge: Connaissances professionnelles ou techniques, généralement acquises par une licence ou une expérience équivalente.
+  autonomy: Travaille vers des objectifs généraux dans le respect des normes professionnelles ; planifie son propre travail.
+  scope: Son propre travail professionnel au sein d'une équipe ou d'un produit.
+  leadership: Peut orienter et vérifier le travail du personnel de soutien et des apprentis.
+  accountability: La qualité de son propre travail professionnel.
+"6":
+  title: Bande 6
+  stage: Professionnel expérimenté
+  knowledge: Connaissances spécialisées sur diverses procédures, acquises par une formation complémentaire ou l'expérience.
+  autonomy: Travaille en autonomie ; interprète la politique pour son domaine ; demande conseil sur les questions complexes.
+  scope: Un produit, un service ou un chantier.
+  leadership: Peut diriger une petite équipe ou accompagner ses collègues.
+  accountability: Les résultats de son chantier et la qualité des conseils donnés.
+"7":
+  title: Bande 7
+  stage: Confirmé ou spécialiste
+  knowledge: Connaissances spécialisées très développées, généralement de niveau master ou une expérience équivalente.
+  autonomy: Travaille selon la politique de l'organisation ; décide de la manière d'atteindre les résultats ; est l'expert que les autres consultent.
+  scope: Plusieurs produits ou services, ou une fonction spécialisée.
+  leadership: Dirige une équipe ou un domaine de pratique professionnelle.
+  accountability: La prestation d'un service ou d'une fonction spécialisée, et son budget le cas échéant.
+8a:
+  title: Bande 8a
+  stage: Responsable
+  knowledge: Connaissance experte d'une discipline et de sa gestion.
+  autonomy: Interprète la politique de l'organisation pour un service ; fixe l'orientation de l'équipe.
+  scope: Un domaine de service ou une discipline dans toute l'organisation.
+  leadership: Gère une équipe, ou dirige une discipline sans encadrement hiérarchique.
+  accountability: Un domaine de service, son personnel et son budget.
+8b:
+  title: Bande 8b
+  stage: Responsable
+  knowledge: Connaissance experte de plusieurs disciplines ou d'un service de grande taille.
+  autonomy: Façonne la politique et la stratégie d'un domaine étendu.
+  scope: Plusieurs services ou équipes, ou une discipline de niveau principal.
+  leadership: Gère des responsables, ou est l'autorité de référence d'une discipline.
+  accountability: Plusieurs services, leur personnel et leurs budgets.
+8c:
+  title: Bande 8c
+  stage: Responsable supérieur
+  knowledge: Connaissance experte et large compréhension de l'organisation et du secteur.
+  autonomy: Fixe la stratégie d'une fonction ; rend compte à un directeur.
+  scope: Une fonction ou un département.
+  leadership: Dirige une fonction à travers plusieurs niveaux d'encadrement.
+  accountability: La performance, les effectifs et le budget d'une fonction.
+8d:
+  title: Bande 8d
+  stage: Responsable supérieur
+  knowledge: Connaissance stratégique de plusieurs fonctions et de l'ensemble du système de santé et de soins.
+  autonomy: Façonne la stratégie de toute l'organisation ; remplace un directeur.
+  scope: Une fonction majeure ou plusieurs fonctions.
+  leadership: Dirige plusieurs fonctions ou un grand département.
+  accountability: Des fonctions majeures, des budgets importants et des risques à l'échelle de l'organisation.
+"9":
+  title: Bande 9
+  stage: Chef de profession ou directeur
+  knowledge: Expertise stratégique et leadership à l'échelle du système.
+  autonomy: Fixe la stratégie de l'organisation avec l'équipe de direction.
+  scope: L'organisation et ses partenaires dans tout le système.
+  leadership: Dirige une profession ou une direction.
+  accountability: Les résultats, les budgets et les risques à l'échelle de l'organisation.

@@ -1,0 +1,45 @@
+summary: >
+  Les ingénieurs sécurité conçoivent, construisent et exploitent les mesures techniques de sécurité qui protègent les systèmes, les données et les utilisateurs de l'organisation. Ils travaillent sur l'identité et les accès, la protection des terminaux et du réseau, le chiffrement, la journalisation et la sécurité du nuage, et aident les équipes produit et infrastructure à intégrer la sécurité. En santé, ils protègent les systèmes cliniques et les données des patients tout en gardant un accès rapide pour les cliniciens au point de soins.
+health_context:
+  - Les mesures de sécurité ne doivent pas entraver les soins urgents, c'est pourquoi les ingénieurs conçoivent une authentification forte qui reste rapide sur les postes cliniques partagés.
+  - Les dispositifs médicaux et les systèmes cliniques anciens ne peuvent souvent pas être corrigés ni exécuter de logiciels de sécurité, c'est pourquoi les ingénieurs conçoivent la segmentation du réseau et des mesures compensatoires.
+  - Les rançongiciels sont une menace majeure pour la santé, c'est pourquoi les ingénieurs durcissent les systèmes, protègent les sauvegardes et limitent la propagation d'une attaque.
+  - Les systèmes cliniques sont souvent fournis et maintenus par des tiers, c'est pourquoi les ingénieurs évaluent la sécurité des fournisseurs et contrôlent leurs accès à distance.
+  - Les changements des mesures de sécurité des systèmes cliniques passent par la gestion des changements et, si nécessaire, par une revue de sécurité clinique.
+levels:
+  - title: Ingénieur sécurité
+    summary: L'ingénieur sécurité construit, paramètre et maintient les mesures et les outils de sécurité, et aide les équipes à corriger les faiblesses de sécurité.
+    responsibilities:
+      - Construire et maintenir des mesures de sécurité, comme la protection des terminaux, les pare-feu, la sécurité de la messagerie et la journalisation de sécurité.
+      - Paramétrer les contrôles d'identité et d'accès, y compris l'authentification multifacteur et les accès à privilèges.
+      - Aider les équipes infrastructure et produit à corriger les vulnérabilités et à durcir les systèmes selon les normes convenues.
+      - Segmenter les réseaux pour protéger les dispositifs médicaux et les systèmes anciens, avec les équipes infrastructure et biomédicales.
+      - Examiner la sécurité des nouveaux systèmes et des accès à distance des fournisseurs avant leur mise en service.
+      - Participer aux astreintes pour soutenir la réponse aux incidents de sécurité.
+    qualifications:
+      - Une licence en informatique ou en cybersécurité, des certifications de sécurité pertinentes ou une expérience équivalente.
+      - Une expérience de la construction ou de l'exploitation d'infrastructures ou d'outils de sécurité.
+    job_evaluation_notes: L'effort mental reflète une concentration prolongée fréquente sur des travaux techniques complexes et le soutien aux incidents, y compris en astreinte.
+  - title: Ingénieur sécurité senior
+    summary: L'ingénieur sécurité senior conçoit et dirige la mise en place de mesures de sécurité importantes, et conseille les équipes en conception sécurisée.
+    responsibilities:
+      - Concevoir et diriger la mise en place de mesures de sécurité, comme la gestion des accès à privilèges, la surveillance de la sécurité et la protection des sauvegardes.
+      - Conseiller les équipes produit et infrastructure sur la conception sécurisée des services cliniques et destinés aux patients.
+      - Concevoir des mesures compensatoires pour les dispositifs médicaux et les autres systèmes qui ne peuvent pas être corrigés.
+      - Évaluer la sécurité des fournisseurs et de leurs produits, y compris les services en nuage.
+      - Soutenir la réponse aux incidents de sécurité graves par une expertise technique et des plans de reprise.
+      - Accompagner les ingénieurs sécurité et partager les bonnes pratiques entre équipes.
+    qualifications:
+      - Une expérience significative de l'ingénierie de sécurité, d'un niveau équivalent à un diplôme de troisième cycle.
+      - Des certifications de sécurité avancées pertinentes, ou une expérience équivalente.
+  - title: Ingénieur sécurité référent
+    summary: L'ingénieur sécurité référent fixe l'orientation technique de l'ingénierie de sécurité, et veille à ce que les mesures fonctionnent ensemble dans toute l'organisation.
+    responsibilities:
+      - Fixer l'orientation technique et les normes des mesures de sécurité dans toute l'organisation.
+      - Diriger la conception de la sécurité des grands programmes, comme le passage à l'hébergement en nuage ou un nouveau dossier patient informatisé.
+      - Veiller à ce que les mesures protègent contre les rançongiciels et permettent une reprise rapide et sûre des systèmes cliniques.
+      - Concilier sécurité et utilisabilité clinique, avec les responsables cliniques sur les accès et l'authentification.
+      - Conseiller le responsable de la cybersécurité sur le risque technique et les investissements.
+      - Diriger et faire progresser les ingénieurs sécurité.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie de sécurité de services complexes.

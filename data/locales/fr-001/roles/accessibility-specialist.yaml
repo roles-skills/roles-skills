@@ -1,0 +1,44 @@
+summary: >
+  Les spécialistes de l'accessibilité aident l'organisation à rendre ses services de santé numérique utilisables par le plus grand nombre, y compris les personnes en situation de handicap et les personnes atteintes de maladies chroniques. Ils testent les services au regard des normes d'accessibilité et avec des technologies d'assistance, conseillent et forment les équipes, et aident à intégrer l'accessibilité dans la manière dont les services, les systèmes cliniques et l'information de santé sont conçus, achetés et développés.
+health_context:
+  - Beaucoup de celles et ceux qui ont le plus besoin des services de santé et de soins sont en situation de handicap, âgés ou atteints de maladies chroniques, c'est pourquoi des services inaccessibles peuvent empêcher des personnes d'accéder aux soins.
+  - Les cliniciens et le personnel soignant ont aussi des besoins d'accessibilité, c'est pourquoi les systèmes cliniques internes, y compris ceux achetés à des fournisseurs, doivent aussi être accessibles.
+  - L'information de santé est souvent complexe et publiée dans de nombreux formats, comme des documents, des courriers et des vidéos, c'est pourquoi les spécialistes aident les équipes à tout rendre accessible, y compris en facile à lire et à comprendre et en formats alternatifs.
+  - Les problèmes d'accessibilité dans les parcours cliniques peuvent devenir des problèmes de sécurité, par exemple lorsqu'un avertissement n'est pas annoncé par un lecteur d'écran, c'est pourquoi les spécialistes travaillent avec les responsables de la sécurité clinique sur ces risques.
+levels:
+  - title: Spécialiste de l'accessibilité junior
+    responsibilities:
+      - Tester des pages web, des applications et des documents au regard des normes d'accessibilité, sous supervision.
+      - Consigner et expliquer clairement les problèmes d'accessibilité pour que les équipes puissent les corriger.
+      - Aider aux tests avec des technologies d'assistance, comme les lecteurs d'écran et les loupes.
+      - Aider à tenir à jour les déclarations d'accessibilité et les registres de problèmes.
+    qualifications:
+      - Une certaine expérience des tests, de la conception ou du développement numériques, ou une expérience équivalente.
+  - title: Spécialiste de l'accessibilité
+    responsibilities:
+      - Réaliser des audits d'accessibilité des services pour les patients, des systèmes cliniques et de l'information de santé.
+      - Tester avec diverses technologies d'assistance et soutenir la recherche avec des utilisateurs en situation de handicap.
+      - Conseiller les équipes sur les corrections et sur des modèles accessibles pour les formulaires, les alertes et les informations critiques pour la sécurité.
+      - Examiner l'accessibilité des produits des fournisseurs lors de l'achat et de la recette.
+      - Créer des formations et des guides, et accompagner les collègues moins expérimentés.
+    qualifications:
+      - Une expérience des tests d'accessibilité et des normes d'accessibilité en vigueur, ou une expérience équivalente.
+  - title: Spécialiste de l'accessibilité senior
+    responsibilities:
+      - Intégrer l'accessibilité dans les méthodes de travail des équipes, de l'exploration au service en production.
+      - Contribuer à la stratégie d'accessibilité, y compris la manière dont l'accessibilité est garantie dans les achats et les évaluations de service.
+      - Travailler avec les responsables de la sécurité clinique lorsque des problèmes d'accessibilité pourraient toucher la sécurité des patients.
+      - Créer et dispenser des formations à l'accessibilité pour les designers, les développeurs, les designers de contenu et les fournisseurs.
+      - Diriger ou encadrer d'autres spécialistes de l'accessibilité.
+    qualifications:
+      - Une expérience significative de l'accessibilité, d'un niveau équivalent à un master.
+  - title: Responsable de l'accessibilité
+    responsibilities:
+      - Fixer la vision, la stratégie et les normes d'accessibilité de l'organisation, pour les services destinés aux patients et internes.
+      - Garantir le respect du droit et des normes d'accessibilité dans tous les services, et en rendre compte à la direction.
+      - Veiller à ce que les exigences d'accessibilité figurent dans les achats et les contrats avec les fournisseurs de systèmes cliniques.
+      - Influencer les priorités de l'organisation pour que les patients et le personnel en situation de handicap ne soient pas exclus.
+      - Diriger et faire progresser l'équipe d'accessibilité et la communauté de pratique.
+    qualifications:
+      - Une solide expérience de la direction de l'accessibilité dans une organisation complexe.
+    job_evaluation_notes: Il n'y a pas de niveau en bande 8a, car le UK GDaD PCF place le responsable de l'accessibilité en G7 ou G6 et cette référence suit la bande 8b proposée.

@@ -1,0 +1,158 @@
+# Job evaluation factors in French. Keys are the English factor ids.
+communication:
+  name: Compétences de communication et relationnelles
+  description: Les compétences nécessaires pour communiquer et nouer des relations avec les collègues, les patients, le public et les partenaires. Prend en compte la complexité, la sensibilité ou le caractère conflictuel de l'information, et les obstacles à sa compréhension ou à son acceptation.
+  levels:
+    "1": Donne et reçoit des informations courantes à l'oral, principalement avec des collègues.
+    "2": Donne et reçoit des informations courantes à l'oral, par écrit ou par voie électronique, avec des collègues et d'autres personnes.
+    "3": Donne des informations courantes demandant du tact ou de la persuasion, ou des informations complexes ou sensibles, ou une formation simple à des groupes.
+    "4": Donne des informations complexes, sensibles ou conflictuelles demandant des compétences de persuasion, de négociation ou de formation, ou des informations très complexes.
+    "5": Donne des informations très complexes ou conflictuelles demandant des compétences développées de persuasion et de négociation, fait des présentations devant de grands groupes, ou communique malgré d'importants obstacles à l'acceptation.
+    "6": Donne des informations très complexes et très conflictuelles malgré d'importants obstacles à l'acceptation, avec le plus haut niveau de compétences de communication.
+knowledge:
+  name: Connaissances, formation et expérience
+  description: Les connaissances et l'expérience nécessaires pour occuper l'emploi, quelle qu'en soit l'origine, y compris la formation formelle, les qualifications et l'expérience.
+  levels:
+    "1": Quelques procédures courantes, apprises sur le poste lors d'une brève intégration.
+    "2": Diverses procédures courantes, apprises par la formation sur le poste et l'intégration.
+    "3": Diverses procédures, dont certaines non courantes, demandant des bases théoriques (par exemple une qualification de niveau 3 ou une expérience équivalente).
+    "4": Diverses procédures, majoritairement non courantes, demandant une théorie de niveau intermédiaire (par exemple un diplôme de premier cycle court ou une expérience équivalente).
+    "5": Une expertise dans une spécialité, fondée sur la théorie ou l'expérience pratique (niveau licence ou équivalent).
+    "6": Des connaissances spécialisées couvrant toute la spécialité (niveau diplôme de troisième cycle ou équivalent).
+    "7": Des connaissances spécialisées très développées couvrant toute la spécialité (niveau master ou équivalent).
+    "8": Des connaissances avancées (doctorat et formation complémentaire ou équivalent), ou des connaissances spécialisées dans plusieurs disciplines acquises sur une longue période.
+analytical:
+  name: Compétences d'analyse et de jugement
+  description: L'analyse et le jugement nécessaires pour traiter l'information, résoudre les problèmes et prendre des décisions.
+  levels:
+    "1": Jugements sur des faits ou des situations simples.
+    "2": Jugements sur des faits ou des situations, dont certains demandent une analyse.
+    "3": Jugements sur divers faits ou situations demandant une analyse ou une comparaison d'options.
+    "4": Jugements sur des faits ou des situations complexes demandant analyse, interprétation et comparaison d'options.
+    "5": Jugements sur des faits ou des situations très complexes demandant analyse, interprétation et comparaison d'options.
+planning:
+  name: Compétences de planification et d'organisation
+  description: La planification et l'organisation nécessaires pour mener des activités, des programmes, des services ou des stratégies.
+  levels:
+    "1": Organise son propre travail au quotidien.
+    "2": Planifie des tâches ou des activités simples, dont certaines continues.
+    "3": Planifie plusieurs activités complexes et ajuste les plans si nécessaire.
+    "4": Planifie un large éventail d'activités ou de stratégies complexes et les ajuste si nécessaire.
+    "5": Élabore des plans stratégiques à long terme, avec de l'incertitude et des effets sur toute l'organisation.
+physical-skills:
+  name: Compétences physiques
+  description: Les compétences physiques nécessaires, comme la dextérité, la coordination, la maîtrise du clavier et la conduite.
+  levels:
+    "1": Peu de besoins en compétences physiques.
+    "2": Compétences acquises par la pratique, comme l'usage courant du clavier ou la conduite.
+    "3": Compétences développées demandant rapidité ou précision, comme l'usage avancé du clavier.
+    "4": Compétences très développées demandant précision ou rapidité et une grande coordination œil-main.
+    "5": Le plus haut niveau de précision, de rapidité et de coordination.
+patient-care:
+  name: Responsabilité de la prise en charge des patients et des usagers
+  description: La responsabilité d'évaluer, de traiter, de soigner ou de conseiller les patients et les usagers. Pour la plupart des emplois numériques et support, il ne s'agit que de contacts occasionnels.
+  levels:
+    "1": Aide les patients, les usagers ou leurs proches lors de contacts occasionnels.
+    "2": Donne directement aux patients ou au public des conseils, des informations ou des services généraux non cliniques.
+    "3": Dispense des soins personnels, des services techniques cliniques de base ou des conseils cliniques de base.
+    "4": Dispense des soins cliniques, des services techniques cliniques ou des conseils sur la prise en charge des patients.
+    "5": Élabore des programmes de soins, dispense des services techniques cliniques spécialisés ou donne des conseils spécialisés sur la prise en charge des patients.
+    "6": Développe des soins spécialisés, donne des conseils très spécialisés ou est responsable d'une partie d'un service clinique.
+    "7": Responsable de la prestation d'un service clinique ou de soins.
+    "8": Responsabilité institutionnelle des services cliniques ou de soins.
+policy:
+  name: Responsabilité de l'élaboration des politiques et des services
+  description: La responsabilité d'élaborer et de mettre en œuvre des politiques et des services, et la portée de leurs effets.
+  levels:
+    "1": Suit des politiques fixées par d'autres ; peut commenter les changements.
+    "2": Met en œuvre les politiques dans son domaine et propose des changements à ses pratiques.
+    "3": Met en œuvre les politiques dans son domaine et propose des changements qui touchent d'autres domaines.
+    "4": Met en œuvre la politique et élabore des politiques ou des services pour un service ou plusieurs domaines.
+    "5": Met en œuvre et élabore diverses politiques ou divers services pour une direction.
+    "6": Responsabilité institutionnelle de l'élaboration de politiques ou de services majeurs dans toute l'organisation ou au-delà.
+financial-resources:
+  name: Responsabilité des ressources financières et matérielles
+  description: La responsabilité de l'argent, des budgets, des équipements, des stocks, des bâtiments et des autres actifs.
+  levels:
+    "1": Prend personnellement soin des équipements et des ressources utilisés dans son travail.
+    "2": Manipule des espèces ou des objets de valeur, entretient des équipements utilisés par d'autres, contrôle des stocks ou autorise de petits paiements.
+    "3": Autorise des paiements, achète certains actifs ou fournitures, suit ou détient un budget délégué, ou entretient des actifs.
+    "4": Détient ou fixe le budget d'un département ou d'un service, ou achète ou entretient ses actifs.
+    "5": Détient ou fixe des budgets, ou gère des actifs, pour plusieurs services.
+    "6": Responsabilité institutionnelle des finances ou des actifs de l'organisation.
+people:
+  name: Responsabilité des personnes
+  description: La responsabilité de gérer, d'encadrer, de former ou de développer le personnel, ou de fournir des services de ressources humaines.
+  levels:
+    "1": Montre ses routines de travail à des collègues nouveaux ou moins expérimentés.
+    "2": Encadre ou coordonne le personnel au quotidien, forme régulièrement d'autres personnes ou donne des conseils RH de base.
+    "3": Gère un groupe de personnes au quotidien, dispense une formation de base ou spécialisée, ou donne des conseils RH essentiels.
+    "4": Encadre hiérarchiquement une fonction ou un département, conçoit des programmes de formation comme tâche principale, ou fournit toute la gamme des services RH.
+    "5": Encadre hiérarchiquement plusieurs départements, ou gère la formation ou une grande partie des RH de toute l'organisation.
+    "6": Responsabilité institutionnelle du personnel ou de la fonction RH de l'organisation.
+information-resources:
+  name: Responsabilité des ressources d'information
+  description: La responsabilité de l'information et des systèmes d'information, papier ou numériques, y compris les dossiers, les données et les systèmes qui les contiennent.
+  levels:
+    "1": Enregistre les informations que produit le titulaire de l'emploi.
+    "2": Saisit ou stocke des données compilées par d'autres, ou rédige occasionnellement des rapports ou des requêtes.
+    "3": Rédige des procès-verbaux formels, rédige régulièrement des rapports ou des requêtes, ou maintient des systèmes d'information comme tâche importante.
+    "4": Adapte ou conçoit des systèmes d'information selon les spécifications d'autres personnes, ou gère les systèmes d'information d'un département comme tâche principale.
+    "5": Conçoit et développe des systèmes d'information importants, ou gère les systèmes d'information de plusieurs services comme tâche principale.
+    "6": Gère et développe les systèmes d'information de toute l'organisation comme tâche principale.
+    "7": Responsabilité institutionnelle des systèmes d'information de l'organisation.
+research:
+  name: Responsabilité de la recherche et du développement
+  description: La responsabilité de la recherche formelle, du développement, de l'évaluation, des audits, des tests et des essais.
+  levels:
+    "1": Réalise des enquêtes ou des audits pour son propre travail ; participe occasionnellement à des recherches ou à des tests.
+    "2": Réalise régulièrement des recherches, du développement, des essais ou des tests d'équipements et de systèmes dans le cadre de l'emploi.
+    "3": Réalise de la recherche ou du développement dans le cadre de programmes formels comme tâche principale.
+    "4": Coordonne et réalise des programmes de recherche et développement.
+    "5": Lance et développe des programmes de recherche et développement qui soutiennent les objectifs de l'organisation.
+    "6": Lance et développe des programmes de recherche et développement dont les effets dépassent l'organisation.
+freedom-to-act:
+  name: Liberté d'action
+  description: Dans quelle mesure le titulaire de l'emploi décide quoi faire et comment, et avec quel degré de supervision.
+  levels:
+    "1": Travaille selon des procédures établies, avec une supervision proche.
+    "2": Suit des procédures standard et des précédents ; quelqu'un est généralement disponible pour répondre ; le travail peut être vérifié.
+    "3": Suit des politiques et des procédures définies ; le travail est piloté plutôt que supervisé.
+    "4": Les résultats sont définis, mais le titulaire décide comment les atteindre, dans le cadre d'une politique générale.
+    "5": Travaille dans le cadre de politiques générales et, dans la plupart des cas, décide de la manière de les interpréter.
+    "6": Interprète la politique et la stratégie générales pour fixer des objectifs et des normes.
+physical-effort:
+  name: Effort physique
+  description: L'effort physique nécessaire, compte tenu de sa fréquence, de sa durée et de son intensité.
+  levels:
+    "1": Position assise, debout et marche, avec peu d'effort physique.
+    "2": Position assise ou debout fréquente dans une posture contrainte, ou effort léger à modéré occasionnel.
+    "3": Effort léger fréquent sur de longues périodes, ou effort modéré fréquent sur de courtes périodes.
+    "4": Effort léger continu, effort modéré fréquent sur de longues périodes, ou effort intense occasionnel.
+    "5": Effort modéré continu, ou effort intense fréquent.
+mental-effort:
+  name: Effort mental
+  description: La concentration nécessaire, compte tenu de sa fréquence, de sa durée et de la prévisibilité du travail.
+  levels:
+    "1": Attention générale ; concentration occasionnelle sur un travail prévisible.
+    "2": Concentration fréquente sur un travail prévisible, ou concentration occasionnelle sur un travail imprévisible.
+    "3": Concentration fréquente sur un travail imprévisible, ou concentration prolongée occasionnelle.
+    "4": Concentration prolongée fréquente, ou concentration intense occasionnelle.
+    "5": Concentration intense fréquente.
+emotional-effort:
+  name: Effort émotionnel
+  description: Les exigences émotionnelles de l'emploi, du fait d'une exposition directe ou indirecte à des situations pénibles, comme la lecture de dossiers éprouvants ou la gestion d'incidents graves.
+  levels:
+    "1": Exposition rare, ou exposition indirecte occasionnelle, à des situations pénibles.
+    "2": Exposition occasionnelle, ou exposition indirecte fréquente, à des situations pénibles.
+    "3": Exposition fréquente à des situations pénibles, ou exposition occasionnelle à des situations très pénibles.
+    "4": Exposition occasionnelle à des situations traumatisantes, ou exposition fréquente à des situations très pénibles.
+working-conditions:
+  name: Conditions de travail
+  description: L'exposition à des conditions désagréables ou à des dangers. Un usage quasi continu d'écrans la plupart des jours compte au niveau 2.
+  levels:
+    "1": Exposition rare à des conditions désagréables.
+    "2": Conditions désagréables occasionnelles, déplacements ou travail en extérieur fréquents, ou usage quasi continu d'écrans la plupart des jours.
+    "3": Conditions désagréables fréquentes, ou très désagréables de façon occasionnelle.
+    "4": Une certaine exposition à des dangers, ou des conditions très désagréables fréquentes.
+    "5": Exposition importante à des dangers.
