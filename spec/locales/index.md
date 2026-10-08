@@ -88,7 +88,7 @@ The first language that matches wins, so a reader whose first language is Englis
 
 ## Interface strings
 
-`roles-skills.github.io/content/locales/<code>/ui.json` holds the website's interface strings: the same keys as `en-001` (209 today), with the same `{placeholders}`. `bin/check` fails if a locale is missing a key. `banner.end` holds the closing punctuation, such as `।` for Hindi and `。` for Chinese.
+`roles-skills.github.io/content/locales/<code>/ui.json` holds the website's interface strings: the same keys as `en-001` (205 today), with the same `{placeholders}`. `bin/check` fails if a locale is missing a key. `banner.end` holds the closing punctuation, such as `।` for Hindi and `。` for Chinese.
 
 ## Documents and peer ids
 
