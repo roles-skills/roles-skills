@@ -1,0 +1,92 @@
+# Family and role titles in Bengali. Keys are the English ids. Slugs are made
+# from the titles.
+families:
+  software-development: {title: সফটওয়্যার উন্নয়ন}
+  architecture: {title: আর্কিটেকচার}
+  data: {title: ডেটা}
+  product-and-delivery: {title: প্রোডাক্ট ও ডেলিভারি}
+  user-centred-design: {title: ব্যবহারকারী-কেন্দ্রিক ডিজাইন}
+  it-operations: {title: আইটি অপারেশনস}
+  cyber-security: {title: সাইবার নিরাপত্তা}
+  quality-assurance-testing: {title: মান নিশ্চিতকরণ ও টেস্টিং}
+  clinical-informatics: {title: ক্লিনিক্যাল ইনফরমেটিক্স ও ক্লিনিক্যাল নিরাপত্তা}
+  information-governance: {title: তথ্য সুশাসন}
+  finance: {title: অর্থ}
+  legal: {title: আইন}
+  human-resources: {title: মানবসম্পদ}
+  procurement: {title: ক্রয় ও বাণিজ্যিক}
+  corporate-services: {title: কর্পোরেট সেবা}
+roles:
+  software-developer: {title: সফটওয়্যার ডেভেলপার}
+  frontend-developer: {title: ফ্রন্টএন্ড ডেভেলপার}
+  devops-engineer: {title: ডেভঅপস ইঞ্জিনিয়ার}
+  integration-engineer: {title: ইন্টিগ্রেশন ইঞ্জিনিয়ার (স্বাস্থ্য আন্তঃকার্যক্ষমতা)}
+  enterprise-architect: {title: এন্টারপ্রাইজ আর্কিটেক্ট}
+  solution-architect: {title: সলিউশন আর্কিটেক্ট}
+  technical-architect: {title: টেকনিক্যাল আর্কিটেক্ট}
+  data-architect: {title: ডেটা আর্কিটেক্ট}
+  security-architect: {title: সিকিউরিটি আর্কিটেক্ট}
+  network-architect: {title: নেটওয়ার্ক আর্কিটেক্ট}
+  business-architect: {title: বিজনেস আর্কিটেক্ট}
+  data-analyst: {title: ডেটা অ্যানালিস্ট}
+  performance-analyst: {title: পারফরম্যান্স অ্যানালিস্ট}
+  data-engineer: {title: ডেটা ইঞ্জিনিয়ার}
+  analytics-engineer: {title: অ্যানালিটিক্স ইঞ্জিনিয়ার}
+  data-scientist: {title: ডেটা সায়েন্টিস্ট}
+  machine-learning-engineer: {title: মেশিন লার্নিং ইঞ্জিনিয়ার}
+  data-governance-manager: {title: ডেটা গভর্ন্যান্স ম্যানেজার}
+  clinical-coder: {title: ক্লিনিক্যাল কোডার}
+  business-analyst: {title: বিজনেস অ্যানালিস্ট}
+  delivery-manager: {title: ডেলিভারি ম্যানেজার}
+  product-manager: {title: প্রোডাক্ট ম্যানেজার}
+  project-manager: {title: প্রজেক্ট ম্যানেজার}
+  programme-delivery-manager: {title: প্রোগ্রাম ডেলিভারি ম্যানেজার}
+  digital-portfolio-manager: {title: ডিজিটাল পোর্টফোলিও ম্যানেজার}
+  service-owner: {title: সার্ভিস ওনার}
+  user-researcher: {title: ইউজার রিসার্চার}
+  service-designer: {title: সার্ভিস ডিজাইনার}
+  interaction-designer: {title: ইন্টারঅ্যাকশন ডিজাইনার}
+  content-designer: {title: কনটেন্ট ডিজাইনার}
+  accessibility-specialist: {title: অ্যাক্সেসিবিলিটি বিশেষজ্ঞ}
+  service-desk-analyst: {title: সার্ভিস ডেস্ক অ্যানালিস্ট}
+  end-user-computing-engineer: {title: এন্ড ইউজার কম্পিউটিং ইঞ্জিনিয়ার}
+  infrastructure-engineer: {title: ইনফ্রাস্ট্রাকচার ইঞ্জিনিয়ার}
+  application-operations-engineer: {title: অ্যাপ্লিকেশন অপারেশনস ইঞ্জিনিয়ার}
+  it-service-manager: {title: আইটি সার্ভিস ম্যানেজার}
+  incident-manager: {title: ইনসিডেন্ট ম্যানেজার}
+  problem-manager: {title: প্রবলেম ম্যানেজার}
+  change-and-release-manager: {title: চেঞ্জ ও রিলিজ ম্যানেজার}
+  security-analyst: {title: সিকিউরিটি অপারেশনস অ্যানালিস্ট}
+  security-engineer: {title: সিকিউরিটি ইঞ্জিনিয়ার}
+  cyber-security-manager: {title: সাইবার নিরাপত্তা ম্যানেজার}
+  quality-assurance-test-analyst: {title: কোয়ালিটি অ্যাসিউরেন্স টেস্ট অ্যানালিস্ট}
+  test-engineer: {title: টেস্ট ইঞ্জিনিয়ার}
+  test-manager: {title: টেস্ট ম্যানেজার}
+  clinical-informatician: {title: ক্লিনিক্যাল ইনফরমেটিশিয়ান}
+  clinical-safety-officer: {title: ক্লিনিক্যাল সেফটি অফিসার}
+  chief-clinical-information-officer: {title: চিফ ক্লিনিক্যাল ইনফরমেশন অফিসার}
+  records-officer: {title: স্বাস্থ্য রেকর্ড অফিসার}
+  information-governance-officer: {title: তথ্য সুশাসন অফিসার}
+  data-protection-officer: {title: ডেটা সুরক্ষা অফিসার}
+  finance-officer: {title: ফিন্যান্স অফিসার}
+  payroll-officer: {title: পেরোল অফিসার}
+  management-accountant: {title: ম্যানেজমেন্ট অ্যাকাউন্ট্যান্ট}
+  financial-accountant: {title: ফিন্যান্সিয়াল অ্যাকাউন্ট্যান্ট}
+  head-of-finance: {title: অর্থ বিভাগের প্রধান}
+  legal-assistant: {title: লিগ্যাল অ্যাসিস্ট্যান্ট}
+  legal-adviser: {title: আইন উপদেষ্টা}
+  head-of-legal: {title: আইন সেবা বিভাগের প্রধান}
+  hr-officer: {title: মানবসম্পদ অফিসার}
+  recruitment-officer: {title: রিক্রুটমেন্ট অফিসার}
+  hr-business-partner: {title: মানবসম্পদ বিজনেস পার্টনার}
+  learning-and-development-specialist: {title: লার্নিং ও ডেভেলপমেন্ট বিশেষজ্ঞ}
+  head-of-people: {title: জনবল বিভাগের প্রধান}
+  procurement-officer: {title: ক্রয় কর্মকর্তা}
+  category-manager: {title: ক্যাটাগরি ম্যানেজার}
+  contract-manager: {title: চুক্তি ব্যবস্থাপক}
+  head-of-procurement: {title: ক্রয় বিভাগের প্রধান}
+  administrator: {title: প্রশাসনিক কর্মকর্তা}
+  executive-assistant: {title: এক্সিকিউটিভ অ্যাসিস্ট্যান্ট}
+  project-support-officer: {title: প্রজেক্ট সাপোর্ট অফিসার}
+  governance-and-risk-manager: {title: সুশাসন ও ঝুঁকি ব্যবস্থাপক}
+  communications-officer: {title: যোগাযোগ কর্মকর্তা}

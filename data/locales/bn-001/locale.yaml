@@ -1,0 +1,74 @@
+# Bengali (world). Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Quotations from the UK GDaD PCF and ESCO stay
+# in English. Job titles use the English loanwords common in Bengali job
+# adverts, such as সিনিয়র (senior) and ডেভেলপার (developer). Slugs are made
+# from the Bengali titles.
+code: bn-001
+name: বাংলা
+english_name: Bengali
+dir: ltr
+complete: true
+paths:
+  roles: ভূমিকা
+  families: পরিবার
+  bands: ব্যান্ড
+  skills: দক্ষতা
+  job-evaluation: পদ-মূল্যায়ন
+  about: পরিচিতি
+strings:
+  disclaimer: "এটি একটি সাধারণ ডিজিটাল স্বাস্থ্যসেবা প্রতিষ্ঠানের জন্য একটি দৃষ্টান্তমূলক রেফারেন্স প্রোফাইল। এটি কোনো নিয়োগকর্তার আনুষ্ঠানিক পদের বিবরণ নয়, এবং এর পদ মূল্যায়নের পয়েন্ট কোনো আনুষ্ঠানিক মূল্যায়ন নয়।"
+  translation_note: "এই লেখাটি একটি কৃত্রিম বুদ্ধিমত্তা সহকারী ইংরেজি থেকে অনুবাদ করেছে, এবং কোনো মাতৃভাষী এখনও এটি পর্যালোচনা করেননি। যুক্তরাজ্য (UK) সরকারের ডিজিটাল ও ডেটা পেশা সক্ষমতা কাঠামো (UK GDaD PCF) এবং ESCO থেকে নেওয়া উদ্ধৃতিগুলো ইংরেজিতেই রাখা হয়েছে।"
+  home_title: ভূমিকার সূচি
+  home_lede: "প্রথমে আপনার কাজের সবচেয়ে কাছের পরিবারটি খুঁজুন, তারপর ভূমিকা, তারপর ব্যান্ড।"
+  roles_title: সব ভূমিকা
+  bands_title: ব্যান্ড অনুযায়ী ভূমিকা
+  skills_title: দক্ষতা
+  skills_lede: "প্রতিটি দক্ষতার চারটি স্তর রয়েছে: সচেতনতা (1), কার্যকর (2), অনুশীলনকারী (3), এবং বিশেষজ্ঞ (4)। UK GDaD PCF-এর দক্ষতাগুলো মূল ইংরেজি থেকে উদ্ধৃত। অন্য দক্ষতাগুলো এই রেফারেন্সের নিজস্ব।"
+  pcf_title: UK GDaD PCF ভূমিকা অনুযায়ী ভূমিকা
+  esco_title: ESCO পেশা অনুযায়ী ভূমিকা
+  role: ভূমিকা
+  roles: ভূমিকা
+  family: পরিবার
+  band: ব্যান্ড
+  bands: ব্যান্ড
+  title: পদবি
+  role_level: ভূমিকার স্তর
+  skill: দক্ষতা
+  source: উৎস
+  expected_level: প্রত্যাশিত স্তর
+  level_meaning: এই স্তরের অর্থ
+  factor: উপাদান
+  level: স্তর
+  points: পয়েন্ট
+  total: মোট
+  summary: সারসংক্ষেপ
+  health_context: একটি ডিজিটাল স্বাস্থ্যসেবা প্রতিষ্ঠানে
+  pcf_role: UK GDaD PCF ভূমিকা
+  pcf_role_none: "নেই (এই রেফারেন্স ভূমিকাটি সংজ্ঞায়িত করে)"
+  pcf_role_description: UK GDaD PCF-এ ভূমিকার বিবরণ (মূল ইংরেজি)
+  pcf_level: UK GDaD PCF স্তর
+  civil_service_grades: যুক্তরাজ্যের সিভিল সার্ভিস গ্রেড
+  esco_occupations: ESCO পেশা
+  role_levels: ভূমিকার স্তর
+  job_evaluation_points: পদ মূল্যায়নের পয়েন্ট
+  responsibilities: দায়িত্ব
+  skills: দক্ষতা
+  qualifications: সাধারণ যোগ্যতা ও অভিজ্ঞতা
+  band_outline: ব্যান্ডের রূপরেখা
+  knowledge: জ্ঞান
+  autonomy: স্বাধীনতা
+  scope: পরিসর
+  leadership: নেতৃত্ব
+  accountability: জবাবদিহি
+  job_evaluation: পদ মূল্যায়ন (দৃষ্টান্তমূলক)
+  source_pcf: UK GDaD PCF
+  source_reference: এই রেফারেন্স
+  used_in: "{n}টি ভূমিকার স্তরে ব্যবহৃত।"
+  awareness: সচেতনতা
+  working: কার্যকর
+  practitioner: অনুশীলনকারী
+  expert: বিশেষজ্ঞ
+  sfia_level: SFIA স্তর
+  esco_occupation: ESCO পেশা
+  pcf_family: PCF পরিবার
+  roles_in_reference: এই রেফারেন্সের ভূমিকাগুলো
