@@ -1,0 +1,74 @@
+# Russian (world). Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Quotations from the UK GDaD PCF and ESCO stay
+# in English. Job titles use the masculine form, which is the conventional
+# generic form for job titles in Russian. Slugs are made from the Russian
+# titles.
+code: ru-001
+name: Русский
+english_name: Russian
+dir: ltr
+complete: true
+paths:
+  roles: роли
+  families: семейства
+  bands: диапазоны
+  skills: навыки
+  job-evaluation: оценка-должностей
+  about: о-справочнике
+strings:
+  disclaimer: "Это иллюстративный справочный профиль для типовой организации цифрового здравоохранения. Это не официальная должностная инструкция какого-либо работодателя, а его баллы оценки должности не являются официальной оценкой."
+  translation_note: "Этот текст переведён с английского языка помощником на основе искусственного интеллекта и ещё не проверен носителем языка. Цитаты из рамки компетенций профессии цифровых технологий и данных правительства Соединённого Королевства (UK GDaD PCF) и из ESCO оставлены на английском языке."
+  home_title: Каталог ролей
+  home_lede: "Сначала выберите семейство, ближайшее к вашей работе, затем роль, затем диапазон."
+  roles_title: Все роли
+  bands_title: Роли по диапазонам
+  skills_title: Навыки
+  skills_lede: "У каждого навыка четыре уровня владения: Осведомлённость (1), Рабочий (2), Практик (3) и Эксперт (4). Навыки из UK GDaD PCF цитируются по английскому оригиналу. Остальные навыки разработаны для этого справочника."
+  pcf_title: Роли по ролям UK GDaD PCF
+  esco_title: Роли по профессиям ESCO
+  role: Роль
+  roles: Роли
+  family: Семейство
+  band: Диапазон
+  bands: Диапазоны
+  title: Название
+  role_level: Уровень роли
+  skill: Навык
+  source: Источник
+  expected_level: Ожидаемый уровень
+  level_meaning: Что означает этот уровень
+  factor: Фактор
+  level: Уровень
+  points: Баллы
+  total: Итого
+  summary: Краткое описание
+  health_context: В организации цифрового здравоохранения
+  pcf_role: Роль UK GDaD PCF
+  pcf_role_none: "Нет (эту роль определяет данный справочник)"
+  pcf_role_description: Описание роли в UK GDaD PCF (английский оригинал)
+  pcf_level: Уровень UK GDaD PCF
+  civil_service_grades: Грейды государственной службы Великобритании
+  esco_occupations: Профессии ESCO
+  role_levels: Уровни роли
+  job_evaluation_points: Баллы оценки должности
+  responsibilities: Обязанности
+  skills: Навыки
+  qualifications: Типичная квалификация и опыт
+  band_outline: Описание диапазона
+  knowledge: Знания
+  autonomy: Самостоятельность
+  scope: Масштаб
+  leadership: Руководство
+  accountability: Ответственность
+  job_evaluation: Оценка должности (иллюстративная)
+  source_pcf: UK GDaD PCF
+  source_reference: Этот справочник
+  used_in: "Используется на {n} уровнях ролей."
+  awareness: Осведомлённость
+  working: Рабочий
+  practitioner: Практик
+  expert: Эксперт
+  sfia_level: Уровень SFIA
+  esco_occupation: Профессия ESCO
+  pcf_family: Семейство PCF
+  roles_in_reference: Роли в этом справочнике

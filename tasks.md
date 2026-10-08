@@ -143,6 +143,8 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Native speaker review of ar-001
 - [x] bn-001 (বাংলা, Bengali): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of bn-001
+- [x] ru-001 (Русский, Russian): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of ru-001
 - [ ] Native speaker review of cy-gb
 - [ ] Next locales, in the order in `spec/locales/locales-by-priority.md`
 
