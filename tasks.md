@@ -144,6 +144,11 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Native speaker review of cy-gb
 - [ ] Next locales, in the order in `spec/locales/locales-by-priority.md`
 
+## 10b. Abbreviations
+
+- [x] Spec: on each page, write each abbreviation in full words the first time, region first ([spec/abbreviations/](spec/abbreviations/))
+- [ ] Apply it to the website pages, the generated documents, and every locale
+
 ## 11. Validation and release
 
 - [x] Run the validator, and fix any failures

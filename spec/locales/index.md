@@ -60,6 +60,8 @@ Ids stay in English. The build overlays each translation on English, uses Englis
 
 Quotations from the UK GDaD PCF and labels from ESCO stay in English in every locale, because they are quotations and ESCO is used in English only.
 
+Translations follow the abbreviations rule in [`../abbreviations/`](../abbreviations/): on each page, write each abbreviation in full words the first time, region first, with the full words translated and the abbreviation kept as it is.
+
 ## URLs
 
 The URL carries the locale.
