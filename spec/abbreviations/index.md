@@ -35,7 +35,8 @@ Use these expansions. Add a row whenever a new abbreviation appears.
 | PCF | Profession Capability Framework (PCF), after the UK GDaD expansion | Yes |
 | AA, AO, EO, HEO, SEO, G7, G6, SCS1 | United Kingdom (UK) Civil Service grades: Administrative Assistant (AA), Administrative Officer (AO), Executive Officer (EO), Higher Executive Officer (HEO), Senior Executive Officer (SEO), Grade 7 (G7), Grade 6 (G6), Senior Civil Service pay band 1 (SCS1) | Yes |
 | ESCO | European Skills, Competences, Qualifications, and Occupations (ESCO) | Yes |
-| ISCO-08 | International Standard Classification of Occupations 2008 (ISCO-08) | No |
+| ISCO-08 | International Standard Classification of Occupations (ISCO-08) | No |
+| ILO | International Labour Organization (ILO) | No |
 | ICT | information and communications technology (ICT) | No |
 | SFIA | Skills Framework for the Information Age (SFIA) | No |
 | IT | information technology (IT) | No |
