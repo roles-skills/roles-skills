@@ -22,6 +22,7 @@ How this reference is translated, published, and served in more than one languag
 | ru-001 | Русский | ltr | Done | Russian; AI-translated, not yet reviewed by a native speaker; job titles use the conventional masculine form, which covers everyone; slugs are made from the Cyrillic titles |
 | id-001 | Bahasa Indonesia | ltr | Done | Indonesian; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, which covers everyone; Western digits; slugs are made from the Indonesian titles |
 | ja-jp | 日本語 | ltr | Done | Japanese; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, which covers everyone; Western digits; slugs are made from the Japanese titles |
+| ja-001 | 日本語 (世界) | ltr | Done | Japanese for readers anywhere; a copy of ja-jp; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Japanese titles |
 | pt-001 | Português | ltr | Next | Portuguese |
 
 Every translation is AI-generated and needs a native speaker review; `tasks.md` tracks each review.

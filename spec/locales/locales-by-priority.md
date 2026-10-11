@@ -18,7 +18,7 @@ Every code is `<language>-<region>`; see [index.md](index.md#locale-codes). Done
 - pt-001 (next)
 - ur-001
 - id-001 (done)
-- ja-001
+- ja-001 (done)
 - vi-001
 - de-001
 - sv-001
