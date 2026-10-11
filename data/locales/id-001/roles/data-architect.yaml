@@ -1,0 +1,38 @@
+summary: >
+  Arsitek data merancang bagaimana organisasi menyusun, menyimpan, memindahkan, dan mengatur data kesehatan dan perawatannya, agar dapat dipakai dengan aman untuk perawatan langsung, perencanaan layanan, dan penelitian. Mereka merancang model data, platform data, dan aliran data, menetapkan standar data, dan memastikan makna klinis, mutu, dan kerahasiaan terjaga dari ujung ke ujung.
+health_context:
+  - Data kesehatan harus mempertahankan makna kliniknya, sehingga model data memakai terminologi klinis seperti SNOMED CT dan klasifikasi seperti ICD.
+  - Data untuk perawatan langsung dan data untuk perencanaan atau penelitian memiliki dasar hukum yang berbeda, sehingga arsitek merancang pemisahan, deidentifikasi, dan akses yang terkendali.
+  - Data berasal dari banyak sistem klinis dan perawatan dengan mutu yang bervariasi, sehingga arsitek merancang pemeriksaan mutu data, pencocokan pasien, dan silsilah data.
+  - Rekam perawatan bersama dan pertukaran data bergantung pada model umum seperti sumber daya HL7 FHIR dan himpunan data nasional atau internasional yang disepakati.
+  - Rekam harus disimpan untuk masa retensi yang panjang, sehingga desain harus merencanakan pengarsipan dan akses ke data historis.
+levels:
+  - title: Arsitek data
+    responsibilities:
+      - Merancang model data logis dan fisik untuk data klinis dan operasional, memakai terminologi klinis jika perlu.
+      - Merancang aliran data dan komponen platform data, seperti gudang data, lakehouse, dan lapisan integrasi.
+      - Mendefinisikan metadata, entri kamus data, dan silsilah untuk himpunan data di bidang Anda.
+      - Merancang deidentifikasi dan kendali akses agar data dipakai hanya untuk tujuan yang sah.
+      - Bekerja dengan rekan mutu data dan pengodean klinis untuk memperbaiki penyebab struktural data yang buruk.
+      - Memandu insinyur data dan analis tentang model dan standar data.
+    qualifications:
+      - Pengalaman yang substansial dalam pemodelan data dan desain platform data, pada tingkat yang setara dengan gelar magister.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 7); iklan sektor kesehatan menempatkan peran ini di Pita 8a. Perencanaan, kebijakan, dan kebebasan bertindak dinilai di atas profil Pita 7 karena pekerjaan ini merancang platform dan kendali data yang dipakai di banyak layanan.
+  - title: Arsitek data senior
+    responsibilities:
+      - Merancang arsitektur data untuk suatu ranah besar, seperti rekam perawatan bersama atau platform analitik.
+      - Memastikan desain data lintas tim mengikuti standar dan model data organisasi.
+      - Merancang bagaimana data dibagikan dengan organisasi mitra, termasuk standar, pengendalian, dan perjanjian pembagian data.
+      - Menasihati rekan tata kelola informasi dan keselamatan klinis tentang risiko data dari desain baru.
+      - Meninjau dan memandu pekerjaan arsitek data.
+    qualifications:
+      - Pengalaman luas dalam arsitektur data untuk organisasi yang kompleks.
+  - title: Kepala arsitek data
+    responsibilities:
+      - Menetapkan visi dan peta jalan arsitektur data organisasi, selaras dengan strategi datanya.
+      - Memiliki model data enterprise, standar data, dan kamus data organisasi.
+      - Menasihati tim eksekutif dan badan tata kelola data tentang arsitektur data, risiko, dan investasi.
+      - Mewakili organisasi dalam pekerjaan standar data dan interoperabilitas lintas organisasi.
+      - Memimpin praktik arsitektur data dan mengembangkan orang-orangnya.
+    qualifications:
+      - Pengalaman luas dalam memimpin arsitektur data lintas organisasi.

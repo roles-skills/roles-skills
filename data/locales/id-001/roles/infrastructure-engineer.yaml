@@ -1,0 +1,61 @@
+summary: >
+  Insinyur infrastruktur merancang, membangun, menjalankan, dan mendukung jaringan, server, penyimpanan, platform komputasi awan, dan hosting yang menjadi tumpuan layanan digital organisasi. Mereka menjaga infrastruktur ini tetap tersedia, aman, dan dapat dipulihkan, dan bekerja dengan pemasok dan arsitek untuk mengubahnya dengan aman. Dalam layanan kesehatan, satu kegagalan infrastruktur dapat menghentikan sistem klinis di berbagai rumah sakit dan layanan komunitas sekaligus.
+health_context:
+  - Sistem klinis memerlukan ketersediaan yang sangat tinggi, sehingga infrastruktur dirancang untuk ketahanan dan perubahan direncanakan di sekitar kegiatan klinis.
+  - Para insinyur ikut dalam jadwal siaga, karena gangguan infrastruktur pada malam atau akhir pekan dapat menghentikan perawatan pasien.
+  - Jaringan menghubungkan alat kesehatan, seperti pompa infus, monitor pasien, dan peralatan pencitraan, yang memerlukan segmentasi jaringan dan perubahan yang cermat mengikuti IEC 80001-1.
+  - Layanan kesehatan sering menjadi sasaran ransomware, sehingga cadangan harus dilindungi, diuji, dan dapat dipulihkan dalam waktu pemulihan yang disepakati.
+  - Infrastruktur sering mencampur teknologi lama dan baru, termasuk sistem klinis lama yang tidak mudah ditambal, sehingga para insinyur menerapkan pengendalian kompensasi.
+levels:
+  - title: Insinyur infrastruktur asosiat
+    responsibilities:
+      - Mendukung insinyur infrastruktur dengan tugas rutin, seperti pembangunan server, pemeriksaan cadangan, dan perubahan jaringan.
+      - Memantau infrastruktur dan melaporkan peringatan dan gangguan kepada tim yang tepat.
+      - Mengikuti prosedur perubahan, keamanan, dan tata kelola informasi dalam semua pekerjaan.
+      - Mencatat rincian konfigurasi dan aset secara akurat.
+      - Bekerja menuju magang infrastruktur atau kualifikasi yang setara.
+    qualifications:
+      - Terdaftar pada, atau sedang menempuh, magang infrastruktur atau jaringan atau yang setara.
+    job_evaluation_notes: Pengetahuan dinilai pada tingkat yang dibutuhkan pekerjaan setelah pelatihan cukup lengkap untuk melakukan pekerjaan.
+  - title: Insinyur infrastruktur
+    responsibilities:
+      - Membangun, mengonfigurasi, dan memelihara server, penyimpanan, jaringan, dan layanan komputasi awan yang meng-hosting sistem klinis dan korporat.
+      - Menambal infrastruktur dengan segera, menyeimbangkan risiko keamanan dengan kebutuhan menjaga sistem klinis tetap tersedia.
+      - Menjalankan dan menguji pencadangan dan pemulihan, termasuk untuk sistem klinis yang kritis.
+      - Mendukung jaringan tersegmentasi untuk alat kesehatan dan peralatan klinis lain, bekerja dengan tim rekayasa klinis.
+      - Menyelidiki dan memperbaiki gangguan infrastruktur, termasuk sebagai bagian dari jadwal siaga.
+      - Mengotomatiskan tugas rutin memakai skrip dan infrastruktur sebagai kode.
+    qualifications:
+      - Gelar di bidang komputasi atau bidang terkait, sertifikasi teknis yang relevan, atau pengalaman yang setara.
+      - Pengalaman mendukung infrastruktur produksi.
+    job_evaluation_notes: Upaya mental mencerminkan konsentrasi berkepanjangan yang sering pada gangguan yang tidak dapat diprediksi, termasuk pekerjaan siaga di luar jam kerja.
+  - title: Insinyur infrastruktur senior
+    responsibilities:
+      - Merancang dan membangun solusi infrastruktur dari desain arsitek, dengan ketahanan yang dibutuhkan layanan klinis.
+      - Merencanakan dan memimpin perubahan infrastruktur besar, seperti pemindahan pusat data, penyegaran jaringan, dan migrasi ke komputasi awan, di sekitar kegiatan klinis.
+      - Merancang dan menguji pemulihan bencana dan pemulihan ransomware untuk sistem klinis yang kritis.
+      - Memimpin tanggapan teknis atas insiden infrastruktur dan mendorong perbaikan penyebabnya.
+      - Mengelola pengendalian kompensasi untuk sistem lama dan alat kesehatan yang tidak dapat ditambal.
+      - Memimpin dan membimbing insinyur infrastruktur.
+    qualifications:
+      - Pengalaman yang substansial dalam merancang dan menjalankan infrastruktur produksi, pada tingkat yang setara dengan diploma pascasarjana.
+    job_evaluation_notes: Upaya mental mencerminkan konsentrasi berkepanjangan yang sering selama insiden dan perubahan kompleks, termasuk di luar jam kerja.
+  - title: Insinyur infrastruktur pimpinan
+    responsibilities:
+      - Memimpin infrastruktur untuk platform besar atau sekelompok layanan, dan menetapkan arah teknisnya.
+      - Mengelola pemasok infrastruktur pihak ketiga, dan menahan mereka pada tingkat layanan untuk ketersediaan dan pemulihan.
+      - Mengawasi program infrastruktur, seperti pembaruan jaringan atau perpindahan ke hosting komputasi awan.
+      - Memastikan infrastruktur memenuhi standar keamanan, tata kelola informasi, dan jaringan alat kesehatan.
+      - Memimpin tim infrastruktur dan mengembangkan keterampilan mereka.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa infrastruktur untuk layanan kompleks yang berketersediaan tinggi.
+    job_evaluation_notes: UK GDaD PCF menyarankan Pita 8b untuk insinyur infrastruktur pimpinan dan utama. Acuan ini menempatkan pimpinan di Pita 8a, agar kedua tingkat berada di pita berbeda, sejalan dengan peran pimpinan dan utama di rumpun teknis lain.
+  - title: Insinyur infrastruktur utama
+    responsibilities:
+      - Mengembangkan strategi dan peta jalan infrastruktur, agar investasi menghasilkan hosting yang tangguh, aman, dan berkelanjutan untuk layanan klinis.
+      - Memiliki hubungan operasional dengan pemasok infrastruktur dan jaringan strategis.
+      - Menasihati pimpinan senior tentang risiko infrastruktur, termasuk teknologi akhir masa pakai, titik kegagalan tunggal, dan ketahanan siber.
+      - Menetapkan sasaran waktu pemulihan dan titik pemulihan untuk sistem klinis bersama pemilik layanan, dan memastikan infrastruktur dapat memenuhinya.
+      - Memimpin profesi rekayasa infrastruktur di seluruh organisasi dan mengembangkan kapabilitasnya.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa infrastruktur di banyak tim atau organisasi.

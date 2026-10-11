@@ -20,6 +20,7 @@ How this reference is translated, published, and served in more than one languag
 | ar-001 | العربية | rtl | Done | Arabic (Modern Standard Arabic), the first right-to-left locale; AI-translated, not yet reviewed by a native speaker; job titles use the conventional masculine form, which covers everyone; slugs are made from the Arabic titles |
 | bn-001 | বাংলা | ltr | Done | Bengali (standard written Bengali); AI-translated, not yet reviewed by a native speaker; Western digits; slugs are made from the Bengali titles |
 | ru-001 | Русский | ltr | Done | Russian; AI-translated, not yet reviewed by a native speaker; job titles use the conventional masculine form, which covers everyone; slugs are made from the Cyrillic titles |
+| id-001 | Bahasa Indonesia | ltr | Done | Indonesian; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, which covers everyone; Western digits; slugs are made from the Indonesian titles |
 | pt-001 | Português | ltr | Next | Portuguese |
 
 Every translation is AI-generated and needs a native speaker review; `tasks.md` tracks each review.

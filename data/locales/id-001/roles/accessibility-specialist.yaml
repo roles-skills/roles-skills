@@ -1,0 +1,44 @@
+summary: >
+  Spesialis aksesibilitas membantu organisasi membuat layanan kesehatan digitalnya dapat dipakai oleh sebanyak mungkin orang, termasuk penyandang disabilitas dan orang dengan kondisi jangka panjang. Mereka menguji layanan terhadap standar aksesibilitas dan dengan teknologi bantu, menasihati dan melatih tim, dan membantu menanamkan aksesibilitas ke dalam cara layanan, sistem klinis, dan informasi kesehatan dirancang, dibeli, dan dibangun.
+health_context:
+  - Banyak orang yang paling membutuhkan layanan kesehatan dan perawatan adalah penyandang disabilitas, lanjut usia, atau hidup dengan kondisi jangka panjang, sehingga layanan yang tidak dapat diakses bisa menghalangi orang mendapat perawatan.
+  - Tenaga klinis dan tenaga perawatan juga memiliki kebutuhan akses, sehingga sistem klinis internal, termasuk yang dibeli dari pemasok, harus dapat diakses juga.
+  - Informasi kesehatan sering kompleks dan diterbitkan dalam banyak format, seperti dokumen, surat, dan video, sehingga spesialis membantu tim membuat semuanya dapat diakses, termasuk format mudah dibaca dan format alternatif.
+  - Masalah aksesibilitas dalam alur kerja klinis dapat menjadi masalah keselamatan, misalnya ketika peringatan tidak diumumkan oleh pembaca layar, sehingga spesialis bekerja dengan petugas keselamatan klinis pada risiko ini.
+levels:
+  - title: Spesialis aksesibilitas junior
+    responsibilities:
+      - Menguji halaman web, aplikasi, dan dokumen terhadap standar aksesibilitas, di bawah pengawasan.
+      - Mencatat dan menjelaskan masalah aksesibilitas dengan jelas agar tim dapat memperbaikinya.
+      - Membantu pengujian dengan teknologi bantu, seperti pembaca layar dan kaca pembesar.
+      - Membantu menjaga pernyataan aksesibilitas dan log masalah tetap mutakhir.
+    qualifications:
+      - Sedikit pengalaman dalam pengujian, desain, atau pengembangan digital, atau pengalaman yang setara.
+  - title: Spesialis aksesibilitas
+    responsibilities:
+      - Melakukan audit aksesibilitas atas layanan yang menghadap pasien, sistem klinis, dan informasi kesehatan.
+      - Menguji dengan berbagai teknologi bantu dan mendukung riset dengan pengguna penyandang disabilitas.
+      - Menasihati tim tentang perbaikan dan tentang pola yang dapat diakses untuk formulir, peringatan, dan informasi kritis keselamatan.
+      - Meninjau aksesibilitas produk pemasok selama pengadaan dan penerimaan.
+      - Membuat pelatihan dan panduan, dan membimbing rekan yang lebih junior.
+    qualifications:
+      - Pengalaman dalam pengujian aksesibilitas dan standar aksesibilitas terkini, atau pengalaman yang setara.
+  - title: Spesialis aksesibilitas senior
+    responsibilities:
+      - Menanamkan aksesibilitas ke dalam cara kerja tim, dari discovery hingga layanan langsung.
+      - Menyumbang pada strategi aksesibilitas, termasuk bagaimana aksesibilitas dijamin dalam pengadaan dan penilaian layanan.
+      - Bekerja dengan petugas keselamatan klinis jika masalah aksesibilitas dapat memengaruhi keselamatan pasien.
+      - Membuat dan menyampaikan pelatihan aksesibilitas untuk desainer, pengembang, desainer konten, dan pemasok.
+      - Memimpin atau mengelola spesialis aksesibilitas lain.
+    qualifications:
+      - Pengalaman yang substansial dalam aksesibilitas, pada tingkat yang setara dengan gelar magister.
+  - title: Kepala aksesibilitas
+    responsibilities:
+      - Menetapkan visi, strategi, dan standar aksesibilitas organisasi, untuk layanan yang menghadap pasien dan internal.
+      - Menjamin kepatuhan terhadap hukum dan standar aksesibilitas di seluruh layanan, dan melaporkannya kepada pimpinan senior.
+      - Memastikan persyaratan aksesibilitas menjadi bagian dari pengadaan dan kontrak pemasok sistem klinis.
+      - Memengaruhi prioritas organisasi agar pasien dan staf penyandang disabilitas tidak dikucilkan.
+      - Memimpin dan mengembangkan tim aksesibilitas dan komunitas praktik.
+    qualifications:
+      - Pengalaman luas dalam memimpin aksesibilitas di organisasi yang kompleks.
+    job_evaluation_notes: Tidak ada tingkat Pita 8a, karena UK GDaD PCF menempatkan kepala aksesibilitas di G7 atau G6 dan acuan ini mengikuti Pita 8b yang disarankan.

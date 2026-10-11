@@ -1,0 +1,228 @@
+# Terjemahan bahasa Indonesia dari data/skills/clinical-ig.yaml. Kuncinya adalah id keterampilan bahasa Inggris.
+clin-clinical-systems-optimisation:
+  name: Desain dan optimalisasi sistem klinis
+  description: Merancang, mengonfigurasi, dan memperbaiki sistem klinis, seperti rekam kesehatan elektronik, komunikasi permintaan, dan peresepan elektronik, agar sesuai dengan alur kerja klinis dan mendukung perawatan yang aman dan efisien.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bagaimana sistem klinis seperti rekam kesehatan elektronik mendukung perawatan
+      - menguraikan alur kerja klinis yang didukung oleh sebuah sistem
+    working: |
+      Anda dapat:
+      - memetakan alur kerja klinis saat ini dan masa depan bersama tenaga klinis dan tenaga perawatan
+      - menguji konfigurasi sistem terhadap skenario klinis
+      - menulis persyaratan klinis yang jelas untuk tim produk
+    practitioner: |
+      Anda dapat:
+      - memimpin desain klinis konfigurasi sistem, formulir, paket permintaan, dan dukungan keputusan
+      - menggunakan data dan umpan balik pengguna untuk menemukan dan memperbaiki masalah alur kerja
+      - menyeimbangkan kebutuhan klinis, keselamatan, kegunaan, dan kendala sistem
+    expert: |
+      Anda dapat:
+      - menetapkan prinsip dan standar desain sistem klinis di seluruh organisasi
+      - memimpin program optimalisasi yang meningkatkan perawatan dan pengalaman staf secara terukur
+      - menasihati pimpinan senior tentang pilihan sistem klinis dan dampaknya terhadap perawatan
+clin-human-factors:
+  name: Faktor manusia dan kegunaan dalam sistem klinis
+  description: Menerapkan metode faktor manusia dan kegunaan pada sistem klinis, agar tenaga klinis, tenaga perawatan, dan pasien dapat menggunakannya dengan aman dan dengan sesedikit mungkin kesalahan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bagaimana desain yang buruk dapat menyebabkan kesalahan dalam perawatan
+      - melaporkan masalah kegunaan yang dapat memengaruhi keselamatan pasien
+    working: |
+      Anda dapat:
+      - ikut serta dalam uji kegunaan dan simulasi tugas klinis
+      - mengenali bahaya desain yang umum, seperti pilihan yang tampak mirip atau peringatan yang tersembunyi
+    practitioner: |
+      Anda dapat:
+      - merencanakan dan menjalankan penilaian faktor manusia atas sistem klinis
+      - mengubah temuan menjadi perubahan desain dan pengendalian keselamatan klinis
+      - menilai beban peringatan dan risiko jalan pintas
+    expert: |
+      Anda dapat:
+      - menetapkan pendekatan organisasi terhadap faktor manusia dalam layanan digital
+      - meninjau bukti faktor manusia untuk sistem dan perubahan berisiko tinggi
+      - membangun keterampilan faktor manusia di tim klinis dan digital
+clin-digital-health-evaluation:
+  name: Evaluasi dan manfaat kesehatan digital
+  description: Merencanakan dan melaksanakan evaluasi teknologi kesehatan digital, serta mengukur manfaat klinis, keselamatan, dan layanannya dengan metode dan bukti yang tepat.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa teknologi kesehatan digital memerlukan bukti manfaat dan keselamatan
+      - menemukan bukti yang dipublikasikan tentang suatu teknologi
+    working: |
+      Anda dapat:
+      - mengumpulkan data awal dan data lanjutan untuk sebuah evaluasi
+      - melakukan audit klinis atas penggunaan sistem
+      - merangkum temuan evaluasi untuk rekan kerja
+    practitioner: |
+      Anda dapat:
+      - merancang evaluasi dan rencana manfaat untuk produk kesehatan digital
+      - memilih ukuran yang sesuai untuk hasil klinis, keselamatan, dan pengalaman
+      - menilai kekuatan bukti dan menjelaskan batasannya
+    expert: |
+      Anda dapat:
+      - menetapkan pendekatan organisasi terhadap evaluasi kesehatan digital
+      - memimpin program penelitian dan evaluasi bersama mitra akademik dan perawatan
+      - menggunakan bukti untuk menasihati dewan tentang investasi digital
+clin-professional-practice:
+  name: Praktik klinis terdaftar di bidang digital
+  description: Membawa pengetahuan dan pertimbangan klinis yang mutakhir dan terdaftar ke dalam pekerjaan digital, sambil memenuhi standar, etika, dan kewajiban revalidasi profesi klinis.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan standar profesional yang berlaku bagi tenaga klinis terdaftar
+      - mengenali kapan sebuah pertanyaan memerlukan pendapat klinis
+    working: |
+      Anda dapat:
+      - menerapkan pengetahuan klinis Anda pada pekerjaan digital dalam lingkup praktik Anda
+      - menjaga registrasi dan pengembangan profesional berkelanjutan Anda tetap mutakhir
+      - memberi pendapat klinis tentang alur kerja, konten, dan keselamatan
+    practitioner: |
+      Anda dapat:
+      - membuat pertimbangan klinis yang tepat tentang dampak layanan digital terhadap perawatan
+      - menantang praktik yang tidak aman, di lingkungan digital atau klinis, dengan percaya diri
+      - mendukung tenaga klinis lain menerapkan standar profesi mereka pada pekerjaan digital
+    expert: |
+      Anda dapat:
+      - memimpin standar profesional klinis untuk pekerjaan digital organisasi
+      - menjadi suara klinis senior dalam keputusan tentang keselamatan pasien dan perawatan
+      - mendukung revalidasi dan pengembangan profesional tenaga klinis dalam peran digital
+ig-information-rights-requests:
+  name: Permintaan hak atas informasi
+  description: Menangani permintaan dari individu dan masyarakat untuk mengakses informasi, seperti permintaan mengakses rekam kesehatan pribadi dan permintaan informasi yang dimiliki organisasi, dalam batas waktu hukum.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mengenali permintaan hak atas informasi dan segera meneruskannya
+      - menjelaskan bahwa permintaan memiliki batas waktu hukum
+    working: |
+      Anda dapat:
+      - mencatat, mengonfirmasi, dan melacak permintaan agar memenuhi batas waktu
+      - mengumpulkan dan menyamarkan informasi, serta menyusun draf tanggapan untuk ditinjau
+      - memeriksa identitas dan kewenangan orang yang meminta
+    practitioner: |
+      Anda dapat:
+      - menangani permintaan yang kompleks atau sensitif, termasuk yang melibatkan pihak ketiga
+      - menerapkan pengecualian dan memutuskan apa yang ditahan, dengan alasan yang jelas
+      - mengelola tinjauan internal dan keluhan atas tanggapan
+    expert: |
+      Anda dapat:
+      - menetapkan kebijakan dan proses hak atas informasi di seluruh organisasi
+      - memimpin tanggapan atas pertanyaan dan banding dari regulator
+      - melaporkan kinerja dan tren kepada pimpinan senior
+ig-records-retention:
+  name: Retensi dan pemusnahan arsip
+  description: Menerapkan jadwal retensi pada arsip kertas dan digital, serta mengarsipkan atau memusnahkannya dengan aman pada waktu yang tepat, dengan jejak audit.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa arsip disimpan selama jangka waktu tertentu lalu dimusnahkan atau diarsipkan
+      - mengikuti prosedur penyimpanan dan pemindahan arsip
+    working: |
+      Anda dapat:
+      - menerapkan jadwal retensi pada arsip dan menandai arsip yang waktunya ditinjau
+      - menyiapkan arsip untuk diarsipkan atau dimusnahkan dengan aman, dan menjaga jejak audit
+    practitioner: |
+      Anda dapat:
+      - menjalankan program retensi dan pemusnahan untuk sebuah layanan arsip
+      - menasihati tim tentang retensi untuk jenis arsip baru, termasuk yang digital
+      - mengaudit kepatuhan terhadap jadwal retensi
+    expert: |
+      Anda dapat:
+      - menetapkan kebijakan dan jadwal retensi untuk organisasi
+      - merencanakan pelestarian jangka panjang arsip digital
+      - menyelesaikan pertanyaan retensi yang kompleks, seperti penahanan hukum dan penyelidikan
+ig-data-protection-impact-assessment:
+  name: Penilaian dampak pelindungan data
+  description: Menilai risiko privasi dari pemrosesan data pribadi dan data kesehatan yang baru atau berubah, dan menyepakati pengendalian sebelum pemrosesan dimulai.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan kapan penilaian dampak pelindungan data diperlukan
+      - mengisi kuesioner penyaringan untuk pekerjaan Anda
+    working: |
+      Anda dapat:
+      - membantu tim proyek menyelesaikan penilaian dampak pelindungan data
+      - menguraikan aliran data dan mengidentifikasi dasar hukum pemrosesan
+      - mencatat risiko privasi dan pengendalian yang diusulkan
+    practitioner: |
+      Anda dapat:
+      - meninjau dan menasihati penilaian dampak pelindungan data untuk sistem yang kompleks
+      - menilai apakah risiko dapat diterima dan merekomendasikan pengendalian
+      - memutuskan kapan risiko tinggi dieskalasi untuk ditinjau pimpinan senior atau regulator
+    expert: |
+      Anda dapat:
+      - menetapkan proses dan standar penilaian dampak pelindungan data organisasi
+      - memberi nasihat akhir tentang pemrosesan berisiko tertinggi, seperti pembagian data skala besar atau AI
+      - berkonsultasi dengan regulator jika hukum mewajibkannya
+ig-incident-management:
+  name: Manajemen insiden tata kelola informasi
+  description: Mencatat, menyelidiki, dan belajar dari pelanggaran data dan nyaris celaka, serta memutuskan kapan memberi tahu regulator dan orang yang terdampak.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mengenali pelanggaran data atau nyaris celaka dan segera melaporkannya
+    working: |
+      Anda dapat:
+      - mencatat insiden dan mengumpulkan fakta
+      - menilai insiden berdasarkan kriteria keparahan organisasi
+      - melacak tindakan sampai selesai
+    practitioner: |
+      Anda dapat:
+      - menyelidiki insiden serius dan menemukan akar penyebabnya
+      - memutuskan, bersama rekan senior, apakah akan memberi tahu regulator dan orang yang terdampak
+      - membagikan pelajaran dan melacak perbaikan
+    expert: |
+      Anda dapat:
+      - menetapkan proses manajemen insiden untuk tata kelola informasi
+      - memimpin tanggapan atas pelanggaran besar, termasuk dengan regulator dan media
+      - melaporkan tren dan risiko insiden kepada dewan
+ig-confidentiality-and-sharing:
+  name: Kerahasiaan dan pembagian informasi
+  description: Melindungi informasi pasien yang rahasia sambil memastikan informasi itu dibagikan secara sah ketika perawatan, keselamatan, atau hukum memerlukannya, termasuk melalui perjanjian pembagian informasi.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjaga keamanan informasi rahasia dan membagikannya hanya ketika diizinkan
+      - meminta saran ketika Anda tidak yakin
+    working: |
+      Anda dapat:
+      - memeriksa bahwa permintaan membagikan informasi sesuai kebijakan
+      - menyimpan catatan tentang apa yang dibagikan, dengan siapa, dan mengapa
+      - menyusun draf perjanjian pembagian informasi yang sederhana
+    practitioner: |
+      Anda dapat:
+      - menasihati tentang pertanyaan kerahasiaan yang kompleks, seperti pembagian tanpa persetujuan demi kepentingan umum
+      - meninjau perjanjian pembagian informasi dengan organisasi mitra
+      - menerapkan aturan persetujuan dan keberatan pasien pada aliran data
+    expert: |
+      Anda dapat:
+      - bertindak sebagai penasihat senior organisasi tentang kerahasiaan
+      - menyelesaikan keputusan pengungkapan yang paling sulit
+      - menetapkan kerangka pembagian informasi dengan mitra
+ig-compliance-assurance:
+  name: Penjaminan dan audit tata kelola informasi
+  description: Memeriksa dan menunjukkan bahwa organisasi memenuhi standar tata kelola informasi, melalui penilaian mandiri tahunan, audit, bukti, dan rencana perbaikan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa organisasi harus menunjukkan bahwa ia menangani informasi dengan baik
+      - menyediakan bukti untuk audit ketika diminta
+    working: |
+      Anda dapat:
+      - mengumpulkan dan menata bukti untuk penilaian mandiri tahunan
+      - melakukan audit sederhana, seperti audit akses atau pencatatan arsip
+      - melacak tindakan perbaikan
+    practitioner: |
+      Anda dapat:
+      - merencanakan dan menjalankan program penjaminan tata kelola informasi
+      - menilai apakah bukti memenuhi standar dan mengidentifikasi kesenjangan
+      - bekerja dengan auditor internal dan eksternal
+    expert: |
+      Anda dapat:
+      - memiliki kerangka penjaminan tata kelola informasi organisasi
+      - melaporkan penjaminan dan kepatuhan kepada dewan dan komitenya
+      - menetapkan prioritas perbaikan berdasarkan risiko

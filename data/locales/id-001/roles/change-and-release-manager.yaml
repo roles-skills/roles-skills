@@ -1,0 +1,40 @@
+summary: >
+  Manajer perubahan dan rilis memastikan perubahan pada layanan TI dinilai, disetujui, dijadwalkan, dan dilaksanakan dengan aman, serta rilis direncanakan dan dikoordinasikan. Mereka menjalankan dewan penasihat perubahan, memiliki basis data manajemen konfigurasi, dan mengoordinasikan rilis di berbagai tim dan pemasok. Dalam layanan kesehatan, mereka memastikan perubahan pada sistem klinis diatur waktunya dan diuji untuk melindungi perawatan pasien.
+health_context:
+  - Perubahan pada sistem klinis dapat membahayakan pasien, sehingga penilaian perubahan mencakup tinjauan keselamatan klinis dan bukti dari proses manajemen risiko klinis.
+  - Layanan klinis berjalan setiap hari, sehingga jendela perubahan disepakati dengan layanan klinis dan menghindari periode tersibuknya.
+  - Banyak perubahan datang dari pemasok sistem klinis, dan tetap harus dinilai ketika pemasok mengendalikan rilisnya.
+  - Perubahan darurat, seperti tambalan keamanan mendesak, harus menyeimbangkan risiko siber dengan risiko mengganggu perawatan.
+  - Basis data manajemen konfigurasi yang akurat menunjukkan layanan klinis mana yang dapat terdampak oleh suatu perubahan.
+levels:
+  - title: Analis konfigurasi
+    responsibilities:
+      - Memelihara catatan dalam basis data manajemen konfigurasi, termasuk layanan klinis yang didukung setiap komponen.
+      - Memeriksa catatan konfigurasi terhadap perangkat penemuan, dan memperbaiki kesenjangan dan kesalahan.
+      - Menyiapkan catatan perubahan dan agenda untuk dewan penasihat perubahan.
+      - Menjawab pertanyaan rutin tentang butir konfigurasi dan hubungannya.
+    qualifications:
+      - Kualifikasi dasar manajemen layanan TI, kualifikasi tingkat 3 di bidang TI, atau pengalaman yang setara.
+    job_evaluation_notes: UK GDaD PCF menyarankan Pita 6 untuk tingkat ini (HEO/SEO). Acuan ini menempatkannya di Pita 4 karena tingkat ini memberi dukungan administratif kepada manajer perubahan dan rilis, dengan keterampilan yang sebagian besar setingkat kesadaran, dan berada di bawah analis perubahan dan rilis. Sumber daya informasi berada di atas profil pita karena memelihara basis data manajemen konfigurasi adalah tugas utama.
+  - title: Analis perubahan dan rilis
+    responsibilities:
+      - Menilai permintaan perubahan untuk risiko dan dampak, termasuk dampak pada layanan klinis dan keselamatan pasien.
+      - Merencanakan dan menjadwalkan rilis, menyepakati jendela perubahan dengan layanan klinis dan operasional.
+      - Memeriksa bahwa setiap perubahan memiliki pengujian, rencana pembatalan, dan pengesahan keselamatan klinis jika diperlukan.
+      - Mengoordinasikan rilis dengan tim DevOps, pemasok, dan meja layanan.
+      - Meninjau rilis sesudahnya dan merencanakan perubahan yang akan datang.
+    qualifications:
+      - Pengalaman dalam operasi TI, rilis, atau pekerjaan perubahan.
+      - Kualifikasi dasar manajemen layanan TI, atau pengalaman yang setara.
+  - title: Manajer perubahan dan rilis
+    responsibilities:
+      - Mengetuai dewan penasihat perubahan, termasuk perwakilan klinis dan operasional ketika perubahan memengaruhi perawatan pasien.
+      - Memutuskan perubahan teknis, dan mengesahkan perubahan darurat seperti tambalan keamanan mendesak.
+      - Mengoordinasikan rilis dan ketergantungannya di antara tim internal dan pemasok.
+      - Memiliki proses manajemen perubahan, rilis, dan konfigurasi serta basis data manajemen konfigurasi.
+      - Bertindak sebagai titik eskalasi untuk konflik perubahan dan perubahan yang gagal.
+      - Melaporkan keberhasilan perubahan, perubahan yang gagal, dan insiden yang disebabkan perubahan, serta mendorong perbaikan.
+    qualifications:
+      - Pengalaman yang substansial dalam manajemen perubahan dan rilis, pada tingkat yang setara dengan gelar sarjana.
+      - Kualifikasi menengah manajemen layanan TI, atau pengalaman yang setara.
+    job_evaluation_notes: Perencanaan berada di atas profil pita karena peran ini menjadwalkan rilis dan ketergantungannya di banyak tim dan pemasok.

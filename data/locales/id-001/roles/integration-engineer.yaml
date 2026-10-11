@@ -1,0 +1,52 @@
+summary: >
+  Insinyur integrasi menghubungkan sistem klinis dan bisnis organisasi agar informasi kesehatan dan perawatan mengalir dengan aman ke tempat yang membutuhkannya. Mereka merancang, membangun, menguji, dan mendukung antarmuka, API, dan alur pesan menggunakan standar seperti HL7 FHIR dan HL7 versi 2, memetakan data dan kode klinis antarsistem, dan menjaga integrasi tetap berjalan dalam layanan langsung.
+health_context:
+  - Pesan yang hilang, tertunda, ganda, atau salah cocok, seperti hasil pemeriksaan atau rujukan, dapat langsung berujung pada kerugian, sehingga pekerjaan integrasi mengikuti proses manajemen risiko klinis.
+  - Integrasi membawa volume besar informasi kesehatan rahasia antarorganisasi, sehingga setiap aliran memerlukan dasar hukum, transportasi yang aman, dan audit.
+  - Sistem kesehatan memakai banyak standar dan versi, dari pesan HL7 versi 2 hingga API HL7 FHIR dan profil IHE, sering dengan variasi lokal.
+  - Makna klinis harus bertahan dalam perjalanannya, sehingga para insinyur memetakan terminologi klinis seperti SNOMED CT dengan benar dan mencocokkan pasien secara andal.
+  - Banyak integrasi mendukung perawatan sepanjang waktu, sehingga memerlukan pemantauan, peringatan, dan jalur yang jelas untuk menyelesaikan pesan yang gagal.
+levels:
+  - title: Insinyur integrasi junior
+    summary: Insinyur integrasi junior membangun, menguji, dan mendukung integrasi antarsistem kesehatan dan perawatan, bekerja dari spesifikasi dan dengan bimbingan dari insinyur yang lebih berpengalaman.
+    responsibilities:
+      - Membangun dan mengubah pemetaan pesan, transformasi, dan panggilan API dari spesifikasi yang disepakati.
+      - Menguji integrasi terhadap spesifikasi dan pesan contoh, termasuk kasus kesalahan dan kasus tepi.
+      - Memantau alur pesan, menyelidiki pesan yang gagal atau ditolak, dan menyelesaikan atau mengeskalasikannya.
+      - Menangani data kesehatan dengan aman, mengikuti aturan tata kelola informasi untuk data langsung dan data uji.
+      - Mencatat perubahan dan hasil pengujian agar dapat dipakai sebagai bukti keselamatan klinis.
+    qualifications:
+      - Gelar di bidang komputasi atau bidang terkait, magang yang telah selesai, atau pengalaman yang setara.
+  - title: Insinyur integrasi
+    summary: Insinyur integrasi merancang, membangun, dan mendukung integrasi antarsistem kesehatan dan perawatan secara mandiri, dan membantu menentukan bagaimana sistem seharusnya bertukar data.
+    responsibilities:
+      - Merancang dan membangun integrasi, API, dan alur pesan menggunakan HL7 FHIR, HL7 versi 2, dan pola pesan.
+      - Menganalisis sistem sumber dan sasaran serta menulis spesifikasi antarmuka dan pemetaan data, termasuk kode klinis.
+      - Membangun pencocokan pasien, validasi, dan penanganan kesalahan agar informasi sampai pada rekam yang benar.
+      - Ikut serta dalam lokakarya bahaya dan membangun pengendalian keselamatan ke dalam integrasi, seperti peringatan untuk pesan yang gagal atau tertunda.
+      - Bekerja dengan pemasok dan organisasi mitra untuk menguji dan meluncurkan koneksi baru.
+      - Menyelidiki dan memperbaiki masalah pada integrasi langsung, dan membimbing insinyur integrasi junior.
+    qualifications:
+      - Gelar di bidang komputasi atau bidang terkait, atau pengalaman yang setara.
+      - Pengalaman membangun dan mendukung integrasi antarsistem produksi.
+  - title: Insinyur integrasi senior
+    summary: Insinyur integrasi senior memimpin desain dan penyampaian integrasi kompleks di banyak sistem dan organisasi, dan menetapkan standar integrasi untuk bidangnya.
+    responsibilities:
+      - Memimpin desain teknis integrasi yang kompleks, seperti rekam perawatan bersama, hasil pemeriksaan, dan rujukan antarorganisasi.
+      - Menulis dan memelihara profil FHIR, panduan implementasi, dan standar antarmuka untuk organisasi.
+      - Merancang integrasi agar aman, tangguh, dan dapat diamati, dengan jalur yang jelas untuk menyelesaikan kegagalan.
+      - Bekerja dengan petugas keselamatan klinis untuk mengidentifikasi bahaya integrasi dan memastikan pengendalian dirancang dan diuji.
+      - Memastikan setiap aliran data memiliki dasar hukum dan pengaturan pembagian data yang disepakati, bekerja dengan rekan tata kelola informasi.
+      - Membimbing dan mengembangkan para insinyur integrasi dalam tim.
+    qualifications:
+      - Pengalaman yang substansial dalam merancang dan mendukung integrasi kesehatan atau integrasi kompleks lainnya, pada tingkat yang setara dengan gelar magister.
+  - title: Insinyur integrasi pimpinan
+    summary: Insinyur integrasi pimpinan memimpin rekayasa integrasi organisasi, menetapkan arah teknis dan standarnya, dan menjamin integrasi kritis di banyak sistem.
+    responsibilities:
+      - Memimpin rekayasa integrasi di seluruh organisasi, menetapkan arah, pola, dan standar.
+      - Menjamin desain integrasi kritis, seperti yang membawa hasil pemeriksaan, obat, atau peringatan.
+      - Membentuk peta jalan platform integrasi bersama arsitek, manajer produk, dan pemasok.
+      - Mewakili organisasi dalam pekerjaan interoperabilitas dan standar lintas organisasi.
+      - Mengelola secara langsung atau memimpin para insinyur integrasi dan menumbuhkan komunitas praktik integrasi.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa integrasi untuk sistem kesehatan atau perawatan yang kompleks.

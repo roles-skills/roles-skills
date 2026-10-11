@@ -1,0 +1,63 @@
+summary: >
+  Insinyur komputasi pengguna akhir menyediakan, mendukung, dan memelihara perangkat dan perangkat lunak yang dipakai staf setiap hari, seperti laptop, komputer meja, tablet, ponsel, pencetak, dan stasiun kerja bersama di bangsal dan klinik. Mereka memperbaiki gangguan di tempat dan dari jarak jauh, meluncurkan dan memperbarui perangkat, serta menjaganya tetap aman dan patuh. Pekerjaan mereka membuat tenaga klinis dan tenaga perawatan tetap dapat melihat dan mencatat informasi pasien di titik perawatan.
+health_context:
+  - Banyak perangkat dipakai bersama oleh staf klinis di bangsal, klinik, dan instalasi gawat darurat, sering dengan pergantian pengguna yang cepat dan masuk dengan kartu pintar atau tap-in.
+  - Perangkat yang rusak di area klinis dapat menunda perawatan, sehingga para insinyur memprioritaskan gangguan itu dan menyiapkan perangkat cadangan untuk ditukar.
+  - Para insinyur bekerja di area klinis, sehingga mereka mengikuti aturan pencegahan dan pengendalian infeksi, menghormati privasi dan martabat pasien, dan menyesuaikan pekerjaan dengan kegiatan klinis.
+  - Perangkat menyimpan atau menampilkan informasi pasien yang rahasia, sehingga harus dienkripsi, ditambal, dikelola, dan dihapus dengan aman atau dimusnahkan di akhir masa pakainya.
+  - Sebagian periferal mendukung proses klinis atau terhubung ke peralatan klinis, seperti pencetak gelang dan label, pemindai barcode, dan perangkat dikte, sehingga perubahan padanya memerlukan kehati-hatian dan pengujian.
+levels:
+  - title: Insinyur komputasi pengguna akhir asosiat
+    responsibilities:
+      - Menyiapkan, mengganti, dan memperbaiki perangkat dan periferal di bawah arahan insinyur berpengalaman.
+      - Memperbaiki gangguan umum di area klinis dan perkantoran, seperti masalah pencetak, pemindai, dan masuk.
+      - Mengikuti aturan pencegahan dan pengendalian infeksi, dan menghormati privasi pasien, saat bekerja di bangsal dan klinik.
+      - Mencatat pekerjaan, aset, dan suku cadang secara akurat dalam perangkat manajemen layanan.
+      - Bekerja menuju magang dukungan TI atau kualifikasi yang setara.
+    qualifications:
+      - Terdaftar pada, atau sedang menempuh, magang dukungan TI atau yang setara.
+    job_evaluation_notes: Upaya fisik mencerminkan upaya ringan yang sering, seperti membawa perangkat dan bekerja di bawah meja dan di ruang sempit. Pengetahuan dinilai pada tingkat yang dibutuhkan pekerjaan setelah pelatihan cukup lengkap untuk melakukan pekerjaan.
+  - title: Insinyur komputasi pengguna akhir
+    responsibilities:
+      - Mendiagnosis dan memperbaiki gangguan perangkat keras dan perangkat lunak di tempat dan dari jarak jauh, dengan tujuan menyelesaikannya pada kunjungan pertama.
+      - Menanggapi dengan cepat gangguan di area klinis, dan menyediakan perangkat pengganti ketika perbaikan akan menunda perawatan.
+      - Membangun, menerapkan, dan memperbarui perangkat memakai citra standar organisasi dan perangkat manajemen perangkat.
+      - Menjaga perangkat tetap ditambal, dienkripsi, dan patuh, serta menghapus atau memusnahkannya dengan aman di akhir masa pakainya.
+      - Mengonfigurasi dan menguji periferal klinis, seperti pencetak gelang, pencetak label, dan pemindai barcode.
+      - Membimbing insinyur asosiat dan membagikan perbaikan melalui artikel pengetahuan.
+    qualifications:
+      - Kualifikasi tingkat 3 atau lebih tinggi di bidang TI, magang yang telah selesai, atau pengalaman yang setara.
+      - Pengalaman mendukung perangkat pengguna akhir.
+    job_evaluation_notes: Upaya fisik mencerminkan upaya ringan yang sering saat memindahkan dan memasang perangkat di berbagai lokasi.
+  - title: Insinyur komputasi pengguna akhir senior
+    responsibilities:
+      - Memimpin tim insinyur sehari-hari, memprioritaskan pekerjaan menurut dampaknya pada perawatan pasien dan staf.
+      - Merencanakan dan menjalankan peluncuran dan penyegaran perangkat untuk bangsal, klinik, dan tim komunitas, dengan gangguan sekecil mungkin terhadap perawatan.
+      - Menguji bangunan dan pembaruan perangkat dengan aplikasi dan periferal klinis sebelum diluncurkan.
+      - Memastikan perangkat memenuhi standar keamanan, termasuk tingkat tambalan, enkripsi, dan pelindungan titik akhir.
+      - Mendukung peluncuran sistem klinis dengan keliling lapangan dan perbaikan perangkat yang cepat.
+      - Bekerja dengan tim infrastruktur, aplikasi, dan keamanan untuk memperbaiki gangguan yang kompleks dan berulang.
+    qualifications:
+      - Pengalaman yang substansial dalam mendukung dan mengelola perangkat pengguna akhir, pada tingkat yang setara dengan gelar sarjana.
+    job_evaluation_notes: Tanggung jawab atas orang mencerminkan pengelolaan sehari-hari tim insinyur; upaya fisik mencerminkan sebagian pekerjaan di tempat yang berlanjut.
+  - title: Insinyur komputasi pengguna akhir pimpinan
+    responsibilities:
+      - Menetapkan standar perangkat, bangunan, dan perangkat lunak pengguna akhir organisasi, termasuk stasiun kerja klinis bersama.
+      - Mengelola pemasok perangkat, perbaikan, dan layanan pengguna akhir, dan menahan mereka pada tingkat layanan yang disepakati.
+      - Bekerja dengan arsitek teknis untuk memilih dan menguji jenis perangkat baru, seperti perangkat seluler untuk staf bangsal dan komunitas.
+      - Memimpin tanggapan teknis atas insiden komputasi pengguna akhir, seperti pembaruan gagal yang memengaruhi stasiun kerja klinis.
+      - Merencanakan siklus hidup dan kapasitas perangkat, dan menasihati tentang biaya penyegaran.
+      - Memimpin dan mengembangkan insinyur senior.
+    qualifications:
+      - Pengalaman luas dalam komputasi pengguna akhir, termasuk mengelola pemasok.
+  - title: Insinyur komputasi pengguna akhir utama
+    responsibilities:
+      - Memiliki strategi dan peta jalan komputasi pengguna akhir, termasuk bagaimana staf akan mengakses sistem klinis di rumah sakit, klinik, rumah pasien, dan komunitas.
+      - Memastikan lanskap perangkat mendukung akses yang aman dan cepat ke informasi pasien di titik perawatan.
+      - Menasihati pimpinan senior tentang investasi perangkat, risiko, dan biaya penyegaran dan teknologi baru.
+      - Memimpin tanggapan atas risiko perangkat di seluruh lanskap, seperti sistem operasi yang mencapai akhir dukungan dan ketahanan terhadap ransomware.
+      - Memimpin penyediaan sumber daya, pembelajaran, dan pengembangan untuk tim komputasi pengguna akhir.
+      - Bekerja dengan mitra kesehatan dan perawatan pada standar perangkat dan akses bersama.
+    qualifications:
+      - Pengalaman luas dalam memimpin komputasi pengguna akhir untuk organisasi besar berlokasi banyak.
+    job_evaluation_notes: UK GDaD PCF menyarankan Pita 8c untuk tingkat ini (G6). Acuan ini menempatkannya di Pita 8b, sejalan dengan peran utama di rumpun teknis lain, karena cakupannya satu bidang teknis dan bukan satu direktorat.

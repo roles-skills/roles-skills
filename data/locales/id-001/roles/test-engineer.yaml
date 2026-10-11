@@ -1,0 +1,47 @@
+summary: >
+  Insinyur pengujian membangun pengujian otomatis, perangkat, dan kerangka yang memungkinkan tim menguji layanan kesehatan digital organisasi dengan cepat dan sering. Mereka menulis kode untuk menguji fungsi, integrasi, kinerja, keamanan, dan ketahanan, serta membangun pengujian ke dalam jalur penyampaian, agar perubahan pada sistem klinis dan yang menghadap pasien dapat dirilis dengan aman.
+health_context:
+  - Sistem klinis kritis keselamatan, sehingga pengujian regresi otomatis melindungi pengendalian keselamatan yang tercatat dalam log bahaya dan disimpan sebagai bukti untuk kasus keselamatan.
+  - Integrasi dengan sistem kesehatan dan perawatan lain memerlukan pengujian otomatis terhadap standar seperti HL7 FHIR dan HL7 versi 2, sering memakai sistem mitra yang disimulasikan.
+  - Layanan klinis berjalan sepanjang waktu dan memuncak pada waktu yang dapat diprediksi, sehingga pengujian kinerja dan ketahanan memodelkan permintaan klinis yang nyata.
+  - Lingkungan uji tidak boleh memuat data pasien nyata, sehingga para insinyur menghasilkan data sintetis yang realistis, termasuk kasus klinis yang langka dan tepi.
+  - Perangkat lunak yang diatur sebagai alat kesehatan memerlukan pengujian yang dapat ditelusuri dan diulang sebagai bagian dari siklus hidupnya di bawah standar seperti IEC 62304.
+levels:
+  - title: Insinyur pengujian asosiat
+    responsibilities:
+      - Menulis dan memelihara pengujian otomatis sederhana di bawah pengawasan, mengikuti standar rekayasa tim.
+      - Menjalankan pengujian otomatis dan manual dan mencatat hasilnya secara akurat.
+      - Membantu menyelidiki dan melaporkan cacat, termasuk pada integrasi dengan sistem klinis.
+      - Memakai data uji sintetis dan mengikuti aturan tata kelola informasi di lingkungan uji.
+      - Mempelajari perangkat uji tim, praktik kode, dan proses keselamatan klinis.
+    qualifications:
+      - Sedikit pengalaman dalam pengodean atau pengujian, atau terdaftar pada magang yang relevan, atau yang setara.
+  - title: Insinyur pengujian
+    responsibilities:
+      - Merancang dan membangun pengujian fungsional, integrasi, dan API otomatis untuk layanan klinis dan yang menghadap pasien.
+      - Membangun pengujian yang memeriksa pesan terhadap profil HL7 FHIR dan spesifikasi interoperabilitas lain.
+      - Menghasilkan data pasien sintetis yang mencakup kasus klinis yang realistis dan tepi.
+      - Menambahkan pengujian ke jalur penyampaian agar pemeriksaan terkait keselamatan berjalan pada setiap perubahan.
+      - Memperkirakan upaya pengujian, melaporkan hasil, dan mendukung penyelesaian cacat.
+    qualifications:
+      - Gelar di bidang komputasi atau bidang terkait, atau pengalaman yang setara.
+      - Pengalaman membangun pengujian otomatis.
+  - title: Insinyur pengujian senior
+    responsibilities:
+      - Memimpin rekayasa pengujian untuk suatu bidang, memilih perangkat, kerangka, dan jenis uji yang menangani risikonya sejak dini.
+      - Membangun kerangka uji dan simulator yang dapat dipakai ulang untuk sistem klinis dan integrasi mitra.
+      - Merencanakan dan menjalankan pengujian kinerja, beban, dan ketahanan berdasarkan permintaan klinis yang nyata.
+      - Memastikan pengujian otomatis ditelusuri ke bahaya dan pengendalian keselamatan serta menghasilkan bukti untuk kasus keselamatan.
+      - Membimbing dan memandu insinyur pengujian lain, dan menyepakati standar rekayasa dengan pengembang.
+    qualifications:
+      - Pengalaman yang substansial dalam rekayasa pengujian, pada tingkat yang setara dengan gelar magister.
+  - title: Insinyur pengujian pimpinan
+    responsibilities:
+      - Menetapkan strategi dan standar rekayasa pengujian di bidang yang luas, termasuk pengujian berkelanjutan dalam jalur penyampaian.
+      - Memimpin dan memandu insinyur pengujian dan tim dalam praktik rekayasa mutu.
+      - Memastikan pengujian perangkat lunak yang diatur dan kritis keselamatan memenuhi standar yang dipersyaratkan dan dapat ditelusuri.
+      - Mengeskalasikan risiko mutu dan keselamatan kepada pimpinan produk, klinis, dan pemasok senior.
+      - Menemukan peluang untuk menguji lebih awal dan lebih sering, dan mengukur dampaknya pada mutu.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa pengujian untuk layanan yang kompleks.
+    job_evaluation_notes: UK GDaD PCF menyarankan SEO hingga G6 untuk tingkat ini, yang dipetakan ke Pita 7, pita yang sama dengan insinyur pengujian senior. Acuan ini menempatkannya di Pita 8a, karena menetapkan strategi dan standar rekayasa pengujian di bidang yang luas.

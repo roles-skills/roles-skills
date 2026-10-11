@@ -1,0 +1,60 @@
+summary: >
+  Informatikawan klinis adalah tenaga klinis terdaftar, seperti dokter, perawat, apoteker, dan tenaga kesehatan sekutu, yang memakai pengetahuan kliniknya untuk membentuk layanan kesehatan digital organisasi. Mereka memastikan sistem klinis, data, dan dukungan keputusan sesuai dengan cara perawatan disampaikan, aman dipakai, dan memperbaiki hasil bagi pasien serta pengalaman tenaga klinis dan tenaga perawatan.
+health_context:
+  - Peran ini memerlukan pengetahuan klinis yang mutakhir, sehingga sebagian besar jabatan mensyaratkan registrasi pada badan profesi klinis dan sebagian praktik klinis yang berkelanjutan.
+  - Informatikawan klinis memberi nasihat khusus tentang bagaimana sistem memengaruhi perawatan pasien, sehingga pertimbangan mereka langsung memengaruhi keselamatan pasien.
+  - Mereka bekerja erat dengan petugas keselamatan klinis, menyumbang keahlian klinis pada identifikasi bahaya dan kasus keselamatan.
+  - Data klinis yang baik bergantung pada penggunaan terminologi klinis yang konsisten seperti SNOMED CT, sehingga mereka membantu merancang rekam terstruktur dan dukungan keputusan.
+  - Mereka bertindak sebagai jembatan antara tenaga klinis, tenaga perawatan, dan tim digital, dan sering memimpin keterlibatan klinis untuk perubahan sistem.
+levels:
+  - title: Spesialis informatika klinis
+    summary: Membawa keahlian klinis ke desain, konfigurasi, pengujian, dan penerapan sistem klinis, bekerja dalam tim produk atau program di bawah bimbingan informatikawan klinis senior.
+    responsibilities:
+      - Memetakan alur kerja klinis bersama tenaga klinis dan tenaga perawatan dan mengubahnya menjadi persyaratan yang jelas.
+      - Merancang dan menguji isi sistem seperti formulir, paket permintaan, dan rencana perawatan terhadap skenario klinis.
+      - Ikut serta dalam lokakarya bahaya dan memberi pendapat klinis tentang risiko dan pengendalian.
+      - Mendukung tenaga klinis dan tenaga perawatan untuk menerapkan sistem baru dengan aman, termasuk pelatihan dan dukungan peluncuran.
+      - Memeriksa bahwa data klinis dicatat secara konsisten memakai terminologi klinis yang disepakati.
+      - Mengumpulkan umpan balik dan data tentang penggunaan sistem dan mengusulkan perbaikan.
+    qualifications:
+      - Registrasi terkini pada badan profesi klinis, dengan pengalaman praktik klinis.
+      - Pengalaman memakai sistem klinis dalam praktik, atau pengalaman yang setara dalam perubahan digital.
+    job_evaluation_notes: Perawatan pasien dinilai di tingkat 4 karena pekerjaan ini menasihati perawatan pasien melalui desain sistem klinis. Upaya emosional mencerminkan peninjauan rutin atas rekam klinis dan insiden.
+  - title: Informatikawan klinis senior
+    summary: Memimpin masukan klinis untuk sistem klinis, produk, atau program besar, memberi nasihat khusus tentang bagaimana layanan digital memengaruhi perawatan pasien dan keselamatan.
+    responsibilities:
+      - Memimpin desain klinis untuk sistem klinis atau produk besar, menetapkan standar isi dan konfigurasi.
+      - Memberi nasihat khusus kepada tim produk tentang alur kerja klinis, dukungan keputusan, dan keselamatan.
+      - Bekerja dengan petugas keselamatan klinis untuk mengidentifikasi bahaya, menyepakati pengendalian, dan menyediakan bukti klinis untuk kasus keselamatan.
+      - Memimpin keterlibatan dan penerapan klinis di berbagai layanan, mengadvokasi penggunaan yang aman di antara sejawat klinis.
+      - Merencanakan dan melakukan evaluasi dan audit klinis atas penggunaan dan manfaat sistem.
+      - Membimbing spesialis informatika klinis dan tenaga klinis baru di bidang digital.
+    qualifications:
+      - Registrasi terkini pada badan profesi klinis, dengan pengalaman klinis yang substansial.
+      - Kualifikasi pascasarjana dalam informatika klinis atau kesehatan, atau pengalaman yang setara.
+    job_evaluation_notes: Perawatan pasien dinilai di tingkat 5 untuk nasihat khusus tentang perawatan pasien. Penelitian berada di tingkat 3 karena evaluasi dan audit klinis atas sistem adalah bagian utama dari pekerjaan.
+  - title: Informatikawan klinis pimpinan
+    summary: Memimpin informatika klinis untuk portofolio sistem klinis atau suatu lingkungan perawatan, menetapkan standar desain klinis dan memimpin tim informatikawan klinis.
+    responsibilities:
+      - Menetapkan standar dan prinsip desain klinis untuk sistem klinis di seluruh portofolio.
+      - Memimpin tim informatikawan klinis, menetapkan prioritas dan mendukung pengembangan profesional mereka.
+      - Menasihati dewan program dan pimpinan senior tentang risiko, manfaat, dan prioritas klinis untuk sistem klinis.
+      - Memimpin keputusan klinis tentang dukungan keputusan, peringatan, dan data terstruktur di berbagai layanan.
+      - Membangun jaringan juara klinis dan memimpin keterlibatan klinis untuk perubahan skala besar.
+      - Menugaskan dan memimpin evaluasi serta memakai bukti untuk membentuk peta jalan.
+    qualifications:
+      - Registrasi terkini pada badan profesi klinis, dengan pengalaman klinis yang luas.
+      - Kualifikasi pascasarjana dalam informatika klinis atau kesehatan, atau pengalaman yang setara dalam memimpin pekerjaan informatika klinis.
+  - title: Kepala informatika klinis
+    summary: Memimpin fungsi informatika klinis organisasi dan otoritas desain kliniknya, memastikan semua sistem klinis dirancang, diterapkan, dan diperbaiki dengan kepemimpinan klinis yang kuat.
+    responsibilities:
+      - Menetapkan strategi informatika klinis dan memimpin otoritas desain klinis organisasi.
+      - Memimpin dan mengembangkan fungsi informatika klinis, termasuk rencana tenaga kerja dan anggarannya.
+      - Memberi nasihat yang sangat khusus kepada tim eksekutif tentang dampak investasi digital pada perawatan pasien.
+      - Memastikan sistem klinis memenuhi standar keselamatan klinis, terminologi, dan data.
+      - Mewakili organisasi di hadapan mitra kesehatan dan perawatan, badan profesi, dan jaringan akademik.
+      - Memimpin kemitraan riset dan evaluasi untuk membangun bukti kesehatan digital.
+    qualifications:
+      - Registrasi terkini pada badan profesi klinis, dengan pengalaman klinis dan kepemimpinan yang luas.
+      - Gelar magister dalam informatika klinis atau kesehatan, atau pengalaman yang setara dalam memimpin informatika klinis di tingkat organisasi.
+    job_evaluation_notes: Perawatan pasien dinilai di tingkat 6 untuk nasihat yang sangat khusus tentang perawatan pasien di seluruh sistem klinis organisasi.

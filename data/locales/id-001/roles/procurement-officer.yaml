@@ -1,0 +1,60 @@
+summary: >
+  Petugas pengadaan membantu organisasi membeli barang dan jasa yang dibutuhkannya, secara sah dan dengan nilai yang baik, dari pembelian rutin hingga tender formal. Dalam organisasi layanan kesehatan digital, sebagian besar pengeluaran ini untuk perangkat lunak, layanan komputasi awan, lisensi, perangkat, dan layanan teknologi, sehingga mereka bekerja erat dengan rekan digital, tata kelola informasi, dan keselamatan klinis serta pemegang anggaran.
+health_context:
+  - Aturan pengadaan publik berlaku pada pengeluaran organisasi, sehingga setiap pembelian harus mengikuti jalur yang tepat, menyimpan jejak audit yang jelas, dan memperlakukan pemasok secara adil.
+  - Banyak pembelian bersifat digital, seperti lisensi perangkat lunak, langganan komputasi awan, dan perangkat, dan memerlukan pemeriksaan keamanan, pelindungan data, dan keselamatan klinis sebelum kontrak.
+  - Pemasok sistem klinis dapat memegang data pasien, sehingga kontrak memerlukan ketentuan yang jelas tentang pelindungan data, kepemilikan data, dan pengembalian data.
+  - Membeli melalui kerangka kerja dan sistem pembelian dinamis yang dibuat untuk sektor publik dapat menghemat waktu, tetapi pemesanan tetap harus mengikuti aturan setiap kerangka kerja.
+  - Pengeluaran publik harus menunjukkan nilai uang dan nilai sosial, seperti lapangan kerja lokal, keterampilan, dan karbon yang lebih rendah.
+levels:
+  - title: Asisten pengadaan
+    summary: Memberi dukungan pembelian dan administratif, mengikuti prosedur yang ditetapkan, dengan petugas pengadaan di dekatnya.
+    responsibilities:
+      - Membuat dan mengubah pesanan pembelian dalam sistem pembelian, memeriksanya terhadap kontrak dan persetujuan.
+      - Menyelesaikan pertanyaan faktur dan penerimaan rutin dengan pemasok, pemegang anggaran, dan bagian keuangan.
+      - Memperoleh penawaran harga untuk pembelian bernilai rendah sesuai aturan organisasi.
+      - Menjaga catatan pemasok, katalog, dan register kontrak tetap mutakhir.
+      - Menjawab pertanyaan rutin dari staf tentang cara membeli.
+    qualifications:
+      - Kualifikasi tingkat 2 atau 3, magang pengadaan, atau pengalaman yang setara.
+      - Pengalaman dalam pekerjaan administratif atau keuangan yang akurat.
+    job_evaluation_notes: Sumber daya keuangan di tingkat 2 karena pekerjaan ini membuat dan mengubah pesanan yang mengikat pengeluaran yang disetujui orang lain.
+  - title: Pembeli
+    summary: Membeli barang dan jasa melalui penawaran harga dan pemesanan kerangka kerja, termasuk perangkat lunak, perangkat, dan lisensi standar, dalam prosedur yang ditetapkan.
+    responsibilities:
+      - Menjalankan penawaran harga dan kompetisi lanjutan di bawah kerangka kerja, memakai templat standar dan sistem tender elektronik.
+      - Membeli perangkat lunak, perangkat, dan lisensi standar, melacak perpanjangan dan jumlah lisensi.
+      - Memeriksa bahwa persyaratan keamanan, pelindungan data, dan aksesibilitas standar disertakan sebelum pembelian.
+      - Menegosiasikan harga dan ketentuan untuk pembelian rutin.
+      - Menyimpan jejak audit yang jelas dan menerbitkan pemberitahuan penetapan kontrak jika aturan memerlukannya.
+      - Menganalisis data pengeluaran untuk menemukan pengeluaran di luar kontrak dan menyarankan jalur yang lebih baik.
+    qualifications:
+      - Kualifikasi pengadaan tingkat sertifikat, magang pengadaan, atau pengalaman yang setara.
+      - Pengalaman membeli melalui penawaran harga atau kerangka kerja.
+    job_evaluation_notes: Sumber daya keuangan di tingkat 3 karena pekerjaan ini membeli perlengkapan dan jasa atas nama pemegang anggaran.
+  - title: Petugas pengadaan
+    summary: Menjalankan pengadaan dengan nilai dan kompleksitas sedang, termasuk tender formal, dari perencanaan hingga penetapan kontrak, dengan petugas pengadaan senior yang tersedia untuk saran.
+    responsibilities:
+      - Menjalankan tender formal dan kompetisi kerangka kerja dari perencanaan hingga penetapan, mengelola jadwal dan pertanyaan klarifikasi.
+      - Membantu pemegang anggaran menulis spesifikasi berbasis hasil yang jelas, termasuk persyaratan teknis dan pelindungan data.
+      - Menyiapkan evaluasi, memeriksa kepatuhan penawaran, mendukung evaluator, dan mencatat moderasi.
+      - Menulis laporan penetapan dan umpan balik kepada penawar, dan mengelola masa tunggu.
+      - Memasukkan pertanyaan nilai sosial dan keberlanjutan yang sesuai dengan kontrak.
+      - Menyerahkan kontrak kepada manajer kontrak dengan rencana mobilisasi dan keluar yang jelas.
+      - Melatih pemegang anggaran tentang cara membeli dan menyelia asisten pengadaan.
+    qualifications:
+      - Kualifikasi profesional pengadaan yang diakui pada tingkat menengah, atau pengalaman yang setara.
+      - Pengalaman menjalankan tender formal di bawah aturan pengadaan publik.
+  - title: Petugas pengadaan senior
+    summary: Memimpin pengadaan yang kompleks, seperti sistem klinis, layanan komputasi awan, dan layanan teknologi, dan menasihati jalur ke pasar yang tepat, bekerja dengan kebebasan yang luas dalam kebijakan pengadaan.
+    responsibilities:
+      - Memimpin pengadaan yang kompleks dan bernilai tinggi, memilih jalur ke pasar dan prosedur yang tepat.
+      - Memimpin keterlibatan pasar sejak dini dan permintaan informasi, menjaga persaingan tetap adil.
+      - Merancang kriteria dan pembobotan evaluasi bersama pimpinan teknis, klinis, dan tata kelola informasi, dan memimpin moderasi.
+      - Memastikan kontrak teknologi mencakup ketentuan interoperabilitas, keamanan, kepemilikan data, keluar, dan pengembalian data.
+      - Bernegosiasi dengan penawar jika prosedur mengizinkannya, dan menyepakati ketentuan akhir.
+      - Menasihati tentang perubahan kontrak, perpanjangan, dan penunjukan langsung, serta risiko sanggahan.
+      - Membimbing dan memeriksa pekerjaan petugas pengadaan dan pembeli.
+    qualifications:
+      - Kualifikasi profesional pengadaan yang diakui pada tingkat lanjutan, atau pengalaman yang setara.
+      - Pengalaman yang substansial dalam memimpin tender kompleks, idealnya untuk teknologi atau sistem klinis.

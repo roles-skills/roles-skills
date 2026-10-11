@@ -1,0 +1,423 @@
+# Terjemahan bahasa Indonesia dari data/skills/shared.yaml. Kuncinya adalah id keterampilan bahasa Inggris.
+health-care-context:
+  name: Memahami layanan kesehatan dan perawatan
+  description: Memahami bagaimana layanan kesehatan dan perawatan diorganisasikan dan disampaikan, bagaimana tenaga klinis dan tenaga perawatan bekerja, dan bagaimana layanan digital mendukung perawatan pasien.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menguraikan bagian utama sistem kesehatan dan perawatan serta layanan yang didukung organisasi
+      - menjelaskan mengapa keselamatan dan kerahasiaan pasien penting dalam pekerjaan Anda
+    working: |
+      Anda dapat:
+      - menjelaskan alur kerja klinis dan perawatan yang didukung pekerjaan Anda
+      - menggunakan istilah layanan kesehatan yang umum dengan benar bersama rekan klinis dan perawatan
+      - mengenali ketika suatu perubahan dapat memengaruhi perawatan pasien dan menyampaikannya
+    practitioner: |
+      Anda dapat:
+      - menganalisis bagaimana suatu layanan cocok dalam jalur perawatan lintas organisasi
+      - bekerja dengan tenaga klinis, tenaga perawatan, dan pasien untuk membentuk layanan digital
+      - menjelaskan dampak keputusan digital terhadap perawatan, keselamatan, dan beban kerja staf
+    expert: |
+      Anda dapat:
+      - membentuk strategi organisasi dengan pemahaman mendalam tentang sistem kesehatan dan perawatan
+      - mewakili organisasi di hadapan mitra dan pemimpin kesehatan dan perawatan
+      - mengantisipasi bagaimana perubahan kebijakan dan layanan akan memengaruhi layanan digital dan perawatan
+clinical-safety:
+  name: Manajemen risiko klinis
+  description: Mengidentifikasi, menilai, dan mengendalikan risiko yang dapat ditimbulkan sistem TI kesehatan terhadap pasien, melalui proses manajemen risiko klinis, log bahaya, dan kasus keselamatan (misalnya mengikuti ISO 14971 dan IEC 80001-1).
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bagaimana sistem TI kesehatan dapat membahayakan pasien, misalnya melalui informasi yang salah, hilang, atau terlambat
+      - melaporkan kemungkinan masalah keselamatan klinis melalui jalur yang tepat
+    working: |
+      Anda dapat:
+      - ikut serta dalam lokakarya bahaya dan menyumbang pada log bahaya
+      - mengikuti proses manajemen risiko klinis untuk pekerjaan Anda
+      - menyediakan bukti untuk kasus keselamatan klinis, seperti hasil pengujian
+    practitioner: |
+      Anda dapat:
+      - memimpin identifikasi bahaya dan penilaian risiko untuk produk atau perubahan
+      - menulis dan memelihara log bahaya dan laporan kasus keselamatan klinis
+      - menyepakati pengendalian risiko dengan tim produk dan memeriksa bahwa pengendalian itu berfungsi
+      - menasihati tim tentang penerapan standar manajemen risiko klinis
+    expert: |
+      Anda dapat:
+      - memiliki sistem manajemen risiko klinis untuk organisasi
+      - menetapkan kebijakan keselamatan klinis dan menjamin kasus keselamatan untuk sistem besar
+      - memimpin tanggapan atas insiden keselamatan serius yang melibatkan TI kesehatan
+      - membangun budaya keselamatan klinis di seluruh tim digital
+health-data-interoperability:
+  name: Interoperabilitas data kesehatan
+  description: Mempertukarkan data kesehatan dan perawatan dengan aman dan konsisten antarsistem menggunakan standar terbuka seperti HL7 FHIR, HL7 versi 2, profil IHE, dan API standar.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa interoperabilitas penting bagi perawatan yang terpadu
+      - menyebut standar utama pertukaran data kesehatan, seperti HL7 FHIR
+    working: |
+      Anda dapat:
+      - membaca dan menggunakan sumber daya, profil, dan API FHIR
+      - membangun atau menguji integrasi sederhana dengan bimbingan
+      - memeriksa pesan terhadap spesifikasi
+    practitioner: |
+      Anda dapat:
+      - merancang dan membangun integrasi menggunakan FHIR, HL7 versi 2, dan pola pesan
+      - menulis dan memprofilkan sumber daya FHIR dan panduan implementasi
+      - menyelesaikan masalah pemetaan dan mutu data yang kompleks antarsistem
+    expert: |
+      Anda dapat:
+      - menetapkan standar dan strategi interoperabilitas untuk organisasi
+      - memimpin pekerjaan standar nasional atau lintas organisasi
+      - menjamin desain integrasi kritis di banyak sistem
+clinical-terminology:
+  name: Terminologi dan klasifikasi klinis
+  description: Menggunakan terminologi dan klasifikasi klinis, seperti SNOMED CT, ICD, dan LOINC, untuk mencatat dan mempertukarkan makna klinis secara konsisten.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan perbedaan antara terminologi klinis dan klasifikasi
+      - mengenali terminologi umum seperti SNOMED CT dan ICD
+    working: |
+      Anda dapat:
+      - menemukan dan menggunakan kode yang tepat untuk suatu butir data atau formulir
+      - menggunakan peramban terminologi dan kumpulan referensi
+    practitioner: |
+      Anda dapat:
+      - merancang model data dan kumpulan referensi menggunakan terminologi klinis
+      - memetakan antarterminologi dan klasifikasi, dan menjelaskan batas suatu pemetaan
+      - menasihati tim tentang penggunaan terminologi dalam produk dan analitik
+    expert: |
+      Anda dapat:
+      - menetapkan kebijakan terminologi untuk organisasi
+      - memimpin rilis terminologi, tata kelola, dan penjaminan mutu
+      - mewakili organisasi di badan standar terminologi
+information-governance:
+  name: Tata kelola informasi dan pelindungan data
+  description: Menangani informasi pribadi dan kesehatan secara sah, aman, dan etis, termasuk hukum pelindungan data, kerahasiaan, persetujuan, penilaian dampak pelindungan data, dan pembagian informasi.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mengikuti aturan organisasi untuk menangani informasi pribadi dan kesehatan
+      - mengenali dan melaporkan pelanggaran data atau nyaris celaka
+    working: |
+      Anda dapat:
+      - menerapkan prinsip pelindungan data pada pekerjaan Anda
+      - menyumbang pada penilaian dampak pelindungan data
+      - menangani permintaan informasi dan arsip dengan benar
+    practitioner: |
+      Anda dapat:
+      - memimpin penilaian dampak pelindungan data dan perjanjian pembagian informasi
+      - menasihati tim tentang dasar hukum, persetujuan, kerahasiaan, dan retensi
+      - menyelidiki insiden dan merekomendasikan perbaikan
+    expert: |
+      Anda dapat:
+      - menetapkan kebijakan dan strategi tata kelola informasi
+      - menasihati dewan tentang risiko dan kepatuhan informasi
+      - mewakili organisasi di hadapan regulator dan mitra
+medical-device-regulation:
+  name: Regulasi perangkat lunak alat kesehatan
+  description: Memahami kapan perangkat lunak merupakan alat kesehatan, serta standar dan proses yang berlaku padanya, seperti IEC 62304 dan ISO 13485.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bahwa sebagian perangkat lunak kesehatan diatur sebagai alat kesehatan
+      - mengetahui siapa yang harus ditanya ketika produk mungkin merupakan alat kesehatan
+    working: |
+      Anda dapat:
+      - mengikuti proses siklus hidup perangkat lunak yang memenuhi standar alat kesehatan
+      - menghasilkan catatan yang diperlukan proses tersebut
+    practitioner: |
+      Anda dapat:
+      - menilai apakah suatu produk adalah alat kesehatan, dan kemungkinan kelasnya
+      - merencanakan pekerjaan regulasi untuk suatu produk bersama rekan mutu dan klinis
+    expert: |
+      Anda dapat:
+      - menetapkan pendekatan organisasi terhadap perangkat lunak yang diatur
+      - memimpin keterlibatan dengan regulator dan lembaga penilai (notified bodies)
+people-management:
+  name: Manajemen orang
+  description: Memimpin, mengembangkan, dan mendukung staf, termasuk rekrutmen, sasaran, penilaian, kesejahteraan, kehadiran, dan mengelola kinerja dan perilaku secara adil.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan kebijakan SDM organisasi yang memengaruhi Anda
+      - mendukung rekan baru dan berbagi pengetahuan
+    working: |
+      Anda dapat:
+      - menyelia pekerjaan sehari-hari dan memberi umpan balik
+      - ikut serta dalam rekrutmen dan orientasi
+      - mengadakan percakapan empat mata secara teratur
+    practitioner: |
+      Anda dapat:
+      - mengelola sebuah tim secara langsung, menetapkan sasaran dan menjalankan penilaian
+      - mendukung kesejahteraan dan mengelola kehadiran, kinerja, dan perilaku
+      - merencanakan pengembangan dan suksesi tim
+    expert: |
+      Anda dapat:
+      - memimpin para manajer dan membentuk budaya suatu bidang yang besar
+      - merancang rencana tenaga kerja dan perubahan organisasi
+      - membimbing pemimpin dan menyelesaikan masalah orang yang kompleks
+equality-diversity-inclusion:
+  name: Kesetaraan, keberagaman, dan inklusi
+  description: Memperlakukan orang dengan adil, menghargai perbedaan, dan merancang layanan dan tempat kerja yang menyertakan semua orang.
+  levels:
+    awareness: |
+      Anda dapat:
+      - memperlakukan rekan kerja, pasien, dan masyarakat dengan bermartabat dan hormat
+      - mengikuti kebijakan kesetaraan dan inklusi
+    working: |
+      Anda dapat:
+      - mengenali dan menantang perilaku yang mengucilkan orang lain
+      - mempertimbangkan kebutuhan yang berbeda ketika merencanakan pekerjaan Anda
+    practitioner: |
+      Anda dapat:
+      - melakukan penilaian dampak kesetaraan
+      - membangun tim dan praktik yang inklusif
+    expert: |
+      Anda dapat:
+      - menetapkan strategi inklusi dan meminta pertanggungjawaban organisasi atasnya
+      - memimpin perubahan budaya tentang kesetaraan, keberagaman, dan inklusi
+health-safety-wellbeing:
+  name: Kesehatan, keselamatan, dan kesejahteraan
+  description: Menjaga diri sendiri dan orang lain tetap aman dan sehat di tempat kerja, termasuk penilaian risiko, praktik kerja yang aman, dan pelaporan insiden.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mengikuti aturan kesehatan dan keselamatan serta melaporkan bahaya dan insiden
+    working: |
+      Anda dapat:
+      - melakukan penilaian risiko sederhana, seperti penilaian tempat kerja
+      - membantu rekan kerja bekerja dengan aman
+    practitioner: |
+      Anda dapat:
+      - mengelola kesehatan dan keselamatan untuk sebuah tim atau lokasi
+      - menyelidiki insiden dan menerapkan pengendalian
+    expert: |
+      Anda dapat:
+      - menetapkan kebijakan kesehatan, keselamatan, dan kesejahteraan untuk organisasi
+      - melaporkan kinerja keselamatan kepada dewan
+budget-management:
+  name: Manajemen anggaran
+  description: Merencanakan, memantau, dan mengendalikan anggaran, termasuk peramalan, mengelola varians, dan mengikuti aturan keuangan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mengikuti aturan untuk pengeluaran dan pemesanan
+      - menjelaskan bagaimana pekerjaan Anda didanai
+    working: |
+      Anda dapat:
+      - melacak pengeluaran terhadap anggaran kecil dan menyampaikan varians
+      - mengesahkan pengeluaran dalam batas wewenang Anda
+    practitioner: |
+      Anda dapat:
+      - memegang dan mengelola anggaran, meramalkan dan menjelaskan varians
+      - menyusun kasus bisnis dengan biaya dan manfaat
+    expert: |
+      Anda dapat:
+      - mengelola anggaran yang besar atau banyak dan menetapkan rencana keuangan
+      - membuat pertukaran pendanaan antarlayanan
+project-management:
+  name: Manajemen proyek
+  description: Merencanakan, menyampaikan, dan menutup proyek sesuai lingkup, waktu, biaya, dan mutu yang disepakati, dengan metode yang diakui seperti PRINCE2, PM², atau pendekatan agile.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan tahapan proyek dan peran utama di dalamnya
+      - menyimpan catatan proyek seperti log tindakan
+    working: |
+      Anda dapat:
+      - memelihara rencana, log risiko dan isu, serta laporan
+      - menjalankan rapat proyek dan melacak tindakan
+      - mengelola proyek kecil yang terdefinisi dengan baik dengan dukungan
+    practitioner: |
+      Anda dapat:
+      - mengelola proyek dari awal hingga penutupan, mengendalikan lingkup, waktu, biaya, dan mutu
+      - mengelola risiko, isu, ketergantungan, dan pengendalian perubahan
+      - melapor kepada dewan proyek dan mengelola pemasok
+    expert: |
+      Anda dapat:
+      - mengelola proyek yang besar, kompleks, atau berisiko tinggi
+      - menetapkan standar manajemen proyek dan membimbing manajer proyek
+      - memulihkan proyek yang gagal
+risk-management:
+  name: Manajemen risiko organisasi
+  description: Mengidentifikasi, menilai, mencatat, dan mengelola risiko terhadap tujuan organisasi, dengan register risiko dan selera risiko yang ditetapkan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan apa itu risiko dan cara menyampaikannya
+    working: |
+      Anda dapat:
+      - mencatat dan memperbarui risiko untuk bidang Anda
+      - menyarankan pengendalian dan melacak tindakan
+    practitioner: |
+      Anda dapat:
+      - menjalankan proses risiko untuk sebuah direktorat atau program
+      - menilai risiko terhadap selera risiko dan mengeskalasikannya
+      - melaporkan risiko kepada komite
+    expert: |
+      Anda dapat:
+      - merancang kerangka manajemen risiko dan selera risiko organisasi
+      - menasihati dewan tentang risiko strategis
+security-operations:
+  name: Operasi keamanan
+  description: Memantau sistem terhadap ancaman keamanan, memilah peringatan, menyelidiki kejadian, dan menanggapi insiden siber, dengan perangkat seperti SIEM dan deteksi titik akhir.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan ancaman siber umum seperti phishing dan ransomware
+      - melaporkan dugaan kejadian keamanan
+    working: |
+      Anda dapat:
+      - memantau peringatan dan memilahnya dengan buku panduan operasional (runbook)
+      - mengumpulkan bukti dan mengeskalasikan kejadian
+      - menyetel aturan deteksi sederhana dengan bimbingan
+    practitioner: |
+      Anda dapat:
+      - menyelidiki dan menahan insiden keamanan
+      - menulis aturan deteksi dan perburuan ancaman
+      - memperbaiki runbook dan perangkat setelah insiden
+    expert: |
+      Anda dapat:
+      - memimpin layanan operasi keamanan dan strateginya
+      - memimpin tanggapan atas insiden siber besar
+      - bekerja dengan lembaga keamanan nasional dan mitra
+vulnerability-management:
+  name: Manajemen kerentanan
+  description: Menemukan, menilai, memprioritaskan, dan memperbaiki kerentanan teknis, termasuk pemindaian, uji penetrasi, dan penambalan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa penambalan yang cepat dan konfigurasi yang aman penting
+    working: |
+      Anda dapat:
+      - menjalankan pemindaian kerentanan dan melaporkan hasilnya
+      - melacak perbaikan bersama pemilik sistem
+    practitioner: |
+      Anda dapat:
+      - memprioritaskan kerentanan menurut risiko, termasuk terhadap layanan pasien
+      - menentukan lingkup dan mengelola uji penetrasi dan perbaikannya
+    expert: |
+      Anda dapat:
+      - menetapkan kebijakan manajemen kerentanan dan targetnya
+      - melaporkan risiko keamanan teknis kepada pimpinan senior
+identity-and-access-management:
+  name: Manajemen identitas dan akses
+  description: Mengelola identitas digital, autentikasi, dan hak akses untuk staf, pasien, dan sistem, termasuk akses berbasis peran dan autentikasi kartu pintar atau multifaktor.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mengikuti aturan akses dan melindungi kredensial Anda
+    working: |
+      Anda dapat:
+      - membuat, mengubah, dan menghapus akun pengguna dan hak akses
+      - memeriksa akses terhadap aturan akses berbasis peran
+    practitioner: |
+      Anda dapat:
+      - merancang dan menjalankan layanan identitas dan akses
+      - meninjau akses secara teratur dan memperbaiki masalah
+    expert: |
+      Anda dapat:
+      - menetapkan strategi identitas dan akses untuk staf, pasien, dan sistem
+      - memimpin penerapan standar identitas baru
+data-quality:
+  name: Manajemen mutu data
+  description: Mendefinisikan, mengukur, dan memperbaiki mutu data, termasuk kelengkapan, akurasi, ketepatan waktu, dan validitas.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa data kesehatan yang akurat penting bagi perawatan dan perencanaan
+      - mencatat data secara akurat dan melaporkan kesalahan
+    working: |
+      Anda dapat:
+      - menjalankan pemeriksaan mutu data dan memperbaiki kesalahan
+      - menjelaskan laporan mutu data kepada rekan kerja
+    practitioner: |
+      Anda dapat:
+      - mendefinisikan aturan dan ukuran mutu data
+      - bekerja dengan penyedia data untuk memperbaiki akar penyebab mutu yang buruk
+    expert: |
+      Anda dapat:
+      - menetapkan standar mutu data untuk organisasi dan mitranya
+      - memimpin program perbaikan mutu data
+health-records-management:
+  name: Manajemen rekam kesehatan
+  description: Mengelola rekam kesehatan dan perawatan sepanjang siklus hidupnya, termasuk pembuatan, pengarsipan, pelacakan, akses, retensi, dan pemusnahan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mengarsipkan, menemukan, dan melacak rekam dengan benar
+      - melindungi rekam dari kehilangan atau akses tanpa izin
+    working: |
+      Anda dapat:
+      - memproses permintaan akses ke rekam
+      - menerapkan jadwal retensi dan standar pencatatan
+    practitioner: |
+      Anda dapat:
+      - mengelola layanan rekam dan prosedurnya
+      - mengaudit pencatatan dan melatih staf
+    expert: |
+      Anda dapat:
+      - menetapkan kebijakan dan strategi manajemen rekam
+      - memimpin peralihan dari rekam kertas ke digital
+clinical-coding:
+  name: Pengodean klinis
+  description: Menerjemahkan informasi klinis dari rekam kesehatan menjadi kode klasifikasi standar, mengikuti aturan pengodean nasional dan internasional, untuk perawatan, pembayaran, dan statistik.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan apa itu pengodean klinis dan mengapa penting
+      - menggunakan istilah medis dasar dan anatomi
+    working: |
+      Anda dapat:
+      - mengode episode sederhana secara akurat, menggunakan aturan klasifikasi
+      - menanyakan rekam yang tidak jelas kepada tenaga klinis
+    practitioner: |
+      Anda dapat:
+      - mengode episode kompleks di berbagai spesialisasi
+      - mengaudit mutu pengodean dan melatih pengode
+    expert: |
+      Anda dapat:
+      - memimpin layanan pengodean dan program mutunya
+      - menasihati tentang standar pengodean dan dampaknya pada data dan pendanaan
+clinical-leadership-in-digital:
+  name: Kepemimpinan klinis di bidang digital
+  description: Membawa pengetahuan dan kredibilitas klinis ke dalam desain, penerapan, dan penggunaan layanan digital yang aman, serta memimpin tenaga klinis melalui perubahan digital.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bagaimana layanan digital mengubah praktik klinis
+    working: |
+      Anda dapat:
+      - memberi masukan klinis kepada tim produk tentang alur kerja dan keselamatan
+      - membantu rekan klinis menerapkan sistem baru
+    practitioner: |
+      Anda dapat:
+      - memimpin keterlibatan klinis untuk produk atau program
+      - mengubah kebutuhan dan bukti klinis menjadi persyaratan
+      - menjadi pendukung penerapan yang aman di antara sejawat klinis
+    expert: |
+      Anda dapat:
+      - menetapkan arah klinis untuk layanan digital organisasi
+      - memimpin para pemimpin klinis lintas organisasi melalui perubahan digital
+      - menasihati dewan tentang risiko dan manfaat klinis investasi digital
+governance-and-compliance:
+  name: Tata kelola korporat dan kepatuhan
+  description: Mendukung tata kelola organisasi, yaitu dewan, komite, tata tertib, kebijakan, pernyataan kepentingan, dan kepatuhan terhadap kewajiban hukum dan regulasi.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mengikuti kebijakan dan aturan pengambilan keputusan organisasi
+    working: |
+      Anda dapat:
+      - mendukung rapat komite, bahan rapat, dan notulen
+      - menjaga register tata kelola tetap mutakhir
+    practitioner: |
+      Anda dapat:
+      - menjalankan siklus tata kelola untuk dewan dan komite
+      - meninjau kebijakan dan menasihati tentang kepatuhan
+    expert: |
+      Anda dapat:
+      - merancang kerangka tata kelola dan menasihati dewan
+      - memimpin pelaporan dan penjaminan tata kelola tahunan

@@ -1,0 +1,67 @@
+summary: >
+  Pengembang frontend membangun antarmuka pengguna untuk layanan kesehatan digital organisasi, seperti situs web dan aplikasi untuk pasien, formulir daring, dan layar yang dipakai tenaga klinis dan tenaga perawatan selama perawatan. Mereka menulis kode yang dapat diakses, cepat, dan aman yang berfungsi untuk semua orang, termasuk orang yang sedang sakit, cemas, atau memakai perangkat lama, dan mereka bekerja dalam tim produk multidisiplin bersama desainer, peneliti, dan tenaga klinis.
+health_context:
+  - Banyak pengguna sedang sakit, kesakitan, lanjut usia, atau penyandang disabilitas, sehingga aksesibilitas dan antarmuka yang sederhana dan tenang itu esensial dan bukan pilihan.
+  - Tampilan informasi klinis yang membingungkan atau salah, seperti dosis obat, hasil pemeriksaan, atau jam janji temu, dapat membahayakan pasien, sehingga pekerjaan frontend mengikuti proses manajemen risiko klinis.
+  - Antarmuka sering menampilkan informasi kesehatan yang rahasia, sehingga pengembang merancang untuk privasi, misalnya pada perangkat bersama dan di area klinis yang sibuk.
+  - Tenaga klinis memakai antarmuka di bawah tekanan waktu dan dengan gangguan yang sering, sehingga layar harus cepat, dapat diprediksi, dan sulit disalahbaca.
+  - Pasien mengakses layanan dengan beragam perangkat dan koneksi, sehingga layanan memakai peningkatan progresif dan berfungsi pada jaringan lambat.
+levels:
+  - title: Pengembang frontend magang
+    responsibilities:
+      - Mempelajari sistem desain, bahasa pemrograman, dan perangkat tim melalui pelatihan terstruktur dan kerja berpasangan.
+      - Membangun komponen antarmuka kecil di bawah pengawasan ketat, mengikuti sistem desain organisasi.
+      - Menguji komponen dengan teknologi bantu, seperti pembaca layar, dengan dukungan rekan kerja.
+      - Mengikuti prosedur tata kelola informasi dan keselamatan klinis saat bekerja dengan data uji dan data langsung.
+      - Bekerja menuju kualifikasi magang atau yang setara.
+    qualifications:
+      - Terdaftar pada, atau sedang menempuh, program magang pengembangan perangkat lunak atau yang setara.
+    job_evaluation_notes: Pengetahuan dinilai pada tingkat yang dibutuhkan pekerjaan setelah pelatihan cukup lengkap untuk melakukan pekerjaan.
+  - title: Pengembang frontend junior
+    responsibilities:
+      - Membangun dan menguji fitur antarmuka untuk layanan yang menghadap pasien dan menghadap staf, bekerja dari cerita pengguna dengan bimbingan.
+      - Memakai sistem desain dan pola organisasi agar layanan tampak dan berperilaku konsisten.
+      - Memperbaiki cacat aksesibilitas dan memeriksa halaman terhadap standar aksesibilitas seperti WCAG.
+      - Memastikan informasi klinis, seperti tanggal, dosis, dan hasil, ditampilkan persis seperti yang ditentukan.
+      - Menyumbang bukti untuk kasus keselamatan klinis, seperti hasil pengujian dan tangkapan layar perubahan.
+    qualifications:
+      - Gelar di bidang komputasi atau bidang terkait, magang yang telah selesai, atau pengalaman yang setara.
+  - title: Pengembang frontend
+    responsibilities:
+      - Merancang dan membangun antarmuka yang dapat diakses dan responsif untuk layanan kesehatan secara mandiri, memilih pendekatan yang sesuai.
+      - Bekerja dengan desainer dan peneliti pengguna untuk menguji prototipe dengan pasien, tenaga klinis, dan tenaga perawatan.
+      - Membangun antarmuka yang memanggil API data kesehatan, seperti layanan HL7 FHIR, dan menangani kesalahan serta data yang hilang dengan aman.
+      - Ikut serta dalam lokakarya bahaya dan membangun pengendalian keselamatan ke dalam antarmuka, seperti langkah konfirmasi dan peringatan yang jelas.
+      - Melindungi informasi rahasia di peramban, misalnya dengan mengelola sesi dan penyimpanan sementara secara hati-hati pada perangkat bersama.
+      - Meninjau kode dan membimbing pengembang frontend junior dan magang.
+    qualifications:
+      - Gelar di bidang komputasi atau bidang terkait, atau pengalaman yang setara.
+      - Pengalaman membangun dan mendukung layanan web produksi yang dapat diakses.
+  - title: Pengembang frontend senior
+    responsibilities:
+      - Memimpin desain dan penyampaian frontend untuk fitur yang signifikan, seperti pemesanan, hasil pemeriksaan, atau layar alur kerja klinis.
+      - Menetapkan dan memelihara standar frontend untuk tim, termasuk aksesibilitas, kinerja, keamanan, dan pengujian.
+      - Menyumbang komponen dan pola untuk sistem desain organisasi dan memastikan semuanya aman dan dapat diakses.
+      - Bekerja dengan petugas keselamatan klinis untuk memastikan bahaya antarmuka diidentifikasi, dikendalikan, dan diuji.
+      - Memastikan layanan berfungsi baik pada koneksi lambat, perangkat lama, dan teknologi bantu.
+      - Membimbing dan mengembangkan para pengembang frontend dalam tim.
+    qualifications:
+      - Pengalaman yang substansial dalam merancang, membangun, dan mendukung layanan web produksi yang dapat diakses, pada tingkat yang setara dengan gelar magister.
+  - title: Pengembang frontend pimpinan
+    responsibilities:
+      - Memimpin rekayasa frontend di sekelompok tim atau layanan utama yang menghadap pasien.
+      - Memiliki arah teknis sistem desain dan pustaka frontend organisasi.
+      - Memastikan antarmuka di berbagai layanan memenuhi standar aksesibilitas dan dijamin keselamatan kliniknya.
+      - Bekerja dengan arsitek, desainer, dan pimpinan klinis untuk membentuk peta jalan produk dan pilihan teknologi frontend.
+      - Memimpin komunitas praktik frontend dan mengelola secara langsung atau memimpin para pengembang frontend.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa frontend untuk layanan yang kompleks dan dapat diakses.
+  - title: Kepala pengembangan frontend
+    responsibilities:
+      - Menetapkan strategi, standar, dan praktik frontend untuk semua layanan digital organisasi.
+      - Bertanggung jawab atas aksesibilitas dan kegunaan antarmuka organisasi bagi pasien dan staf.
+      - Menasihati pimpinan senior tentang teknologi frontend, investasi sistem desain, dan risiko antarmuka yang buruk terhadap perawatan.
+      - Mewakili organisasi dalam komunitas sistem desain dan aksesibilitas lintas organisasi.
+      - Memimpin dan mengembangkan para pengembang frontend di seluruh organisasi, termasuk rekrutmen dan jalur karier.
+    qualifications:
+      - Pengalaman luas dalam memimpin pengembangan frontend di banyak tim atau organisasi.

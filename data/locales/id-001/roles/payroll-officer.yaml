@@ -1,0 +1,58 @@
+summary: >
+  Petugas penggajian memastikan setiap anggota staf dibayar secara akurat dan tepat waktu. Mereka memproses staf baru, staf yang keluar, dan perubahan, menghitung gaji dan potongan, menjalankan pemeriksaan penggajian, dan menjawab pertanyaan gaji. Dalam organisasi layanan kesehatan digital, penggajian dapat mencakup staf klinis, digital, dan korporat dengan kontrak dan aturan gaji yang berbeda, dan sering dijalankan pada sistem penggajian bersama atau alih daya yang harus diperiksa dan dijamin oleh tim.
+health_context:
+  - Staf klinis dapat memiliki gaji yang kompleks, seperti jam kerja tidak lazim, siaga, dan beberapa kontrak, yang harus dihitung dengan benar oleh penggajian.
+  - Aturan gaji dan kenaikan gaji tahunan sering ditetapkan secara nasional atau oleh pemberi dana, dan harus diterapkan dengan segera dan akurat.
+  - Penggajian biasanya merupakan biaya tunggal terbesar organisasi, sehingga kesalahan dan penipuan berdampak besar pada uang publik dan kepercayaan staf.
+  - Data penggajian adalah informasi pribadi yang sangat sensitif, termasuk kesehatan, keluarga, dan rincian bank, sehingga tata kelola informasi menjadi inti pekerjaan.
+  - Penggajian bergantung pada data yang akurat dari sistem tenaga kerja dan penjadwalan, sehingga petugas bekerja erat dengan SDM dan tim sistem.
+levels:
+  - title: Petugas penggajian
+    summary: Petugas penggajian memproses perubahan gaji dan menghitung gaji untuk sekelompok staf, mengikuti prosedur dan memeriksa pekerjaan mereka sebelum setiap penggajian ditutup.
+    responsibilities:
+      - Memasukkan staf baru, staf yang keluar, dan perubahan kontrak ke dalam sistem penggajian dari formulir yang diotorisasi.
+      - Menghitung gaji, termasuk lembur, tunjangan, cuti sakit, dan pembayaran cuti keluarga.
+      - Menerapkan pajak, pensiun, dan potongan lain dengan benar.
+      - Menjawab pertanyaan gaji dari staf dan manajer dengan bijaksana dan rahasia.
+      - Memeriksa keluaran penggajian untuk kesalahan dan memperbaikinya sebelum penggajian ditutup.
+      - Mengikuti pengendalian penggajian dan aturan tata kelola informasi.
+    qualifications:
+      - Kualifikasi penggajian tingkat dasar, atau pengalaman yang setara dalam pemrosesan penggajian.
+    job_evaluation_notes: Sumber daya keuangan di tingkat 3 karena pekerjaan ini memproses gaji yang dikeluarkan organisasi kepada staf. Keterampilan fisik di tingkat 3 untuk entri data yang cepat dan akurat.
+  - title: Petugas penggajian senior
+    summary: Petugas penggajian senior menangani kasus penggajian yang kompleks, memeriksa pekerjaan petugas penggajian, dan membantu menjalankan rekonsiliasi dan pengembalian penggajian.
+    responsibilities:
+      - Menyelesaikan kasus gaji yang kompleks, seperti gaji tertunggak, beberapa kontrak, dan pengorbanan gaji.
+      - Memulihkan kelebihan pembayaran dengan peka dan sesuai kebijakan.
+      - Merekonsiliasi penggajian dengan buku besar, dan menyiapkan rekonsiliasi pajak dan pensiun.
+      - Memeriksa pekerjaan petugas penggajian dan mengesahkan bagian penggajian.
+      - Menguji kenaikan gaji dan perubahan aturan dalam sistem penggajian sebelum diluncurkan.
+      - Melatih petugas penggajian dan memberi nasihat gaji dasar kepada manajer.
+    qualifications:
+      - Kualifikasi penggajian tingkat menengah, atau pengalaman yang setara.
+  - title: Pemimpin tim penggajian
+    summary: Pemimpin tim penggajian mengelola tim penggajian sehari-hari, menjalankan siklus penggajian penuh, dan memastikan pelaporan statutori dan pengembalian pensiun akurat dan tepat waktu.
+    responsibilities:
+      - Merencanakan dan menjalankan siklus penggajian, memastikan batas waktu, pemeriksaan, dan tenggat pembayaran terpenuhi.
+      - Mengesahkan pemeriksaan penggajian dan menyelidiki varians yang signifikan.
+      - Mengelola pelaporan penggajian statutori dan pengembalian pensiun.
+      - Mengelola tim penggajian sehari-hari, termasuk beban kerja, pelatihan, dan pemeriksaan mutu.
+      - Bekerja dengan tim SDM dan penjadwalan untuk memperbaiki mutu dan ketepatan waktu data gaji.
+      - Menjawab pertanyaan dan keluhan gaji yang dieskalasi.
+    qualifications:
+      - Kualifikasi penggajian lanjutan, atau pengalaman yang setara.
+      - Pengalaman menjalankan penggajian penuh.
+  - title: Manajer penggajian
+    summary: Manajer penggajian bertanggung jawab atas layanan penggajian organisasi, baik yang dijalankan sendiri maupun oleh penyedia, dan meyakinkan pimpinan bahwa gaji akurat, sah, dan terkendali dengan baik.
+    responsibilities:
+      - Mengelola layanan penggajian dan timnya, serta melaporkan kinerja dan akurasi.
+      - Mengelola kontrak dan hubungan dengan penyedia penggajian atau layanan bersama mana pun.
+      - Menetapkan pengendalian penggajian, seperti batas persetujuan, laporan pengecualian, dan pemisahan tugas.
+      - Merencanakan perubahan aturan gaji, kenaikan gaji, pensiun, dan pajak, dan memastikan semuanya diterapkan dengan benar.
+      - Memimpin perubahan dan peningkatan sistem penggajian, bekerja dengan tim sistem dan SDM.
+      - Menyediakan informasi penggajian untuk anggaran, perkiraan, dan laporan keuangan tahunan.
+      - Memimpin tanggapan atas kegagalan dan kesalahan penggajian yang serius.
+    qualifications:
+      - Kualifikasi penggajian lanjutan atau kualifikasi akuntansi yang diakui, atau pengalaman yang setara.
+      - Pengalaman mengelola layanan penggajian.
+    job_evaluation_notes: Sumber daya keuangan di tingkat 4 karena pekerjaan ini bertanggung jawab atas seluruh penggajian organisasi, biaya terbesarnya. Orang di tingkat 3 karena tim penggajian kecil.

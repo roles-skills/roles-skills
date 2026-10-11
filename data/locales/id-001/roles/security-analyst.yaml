@@ -1,0 +1,46 @@
+summary: >
+  Analis operasi keamanan mengawasi, menyelidiki, dan menanggapi ancaman keamanan siber terhadap sistem dan data organisasi. Mereka memilah peringatan dari perangkat pemantauan keamanan, menyelidiki aktivitas mencurigakan, menahan insiden, dan membantu memperbaiki kelemahan. Dalam layanan kesehatan, deteksi dan respons yang cepat melindungi layanan klinis dan informasi pasien yang rahasia dari serangan seperti ransomware.
+health_context:
+  - Layanan kesehatan sering menjadi sasaran ransomware dan pencurian data, dan satu serangan dapat menghentikan sistem klinis di seluruh organisasi.
+  - Keputusan penahanan, seperti mengisolasi server atau bagian jaringan, harus menimbang risiko keamanan terhadap dampak pada perawatan pasien, sehingga analis bekerja dengan pimpinan klinis dan operasional.
+  - Jaringan mencakup alat kesehatan dan sistem lama yang tidak dapat menjalankan agen keamanan atau ditambal dengan cepat, sehingga analis mengandalkan pemantauan jaringan dan pengendalian kompensasi.
+  - Pemantauan mencakup akses ke rekam pasien, sehingga analis membantu mendeteksi akses tidak patut oleh orang dalam selain serangan eksternal, bekerja dengan tata kelola informasi.
+  - Pemantauan keamanan berjalan sepanjang waktu, sehingga analis dapat bekerja bergiliran atau dalam jadwal siaga.
+levels:
+  - title: Analis operasi keamanan junior
+    summary: Analis operasi keamanan junior memantau peringatan keamanan, memilahnya memakai runbook, dan mengeskalasikan kejadian, dengan bimbingan analis berpengalaman.
+    responsibilities:
+      - Memantau peringatan dari perangkat pemantauan keamanan dan titik akhir, dan memilahnya memakai runbook.
+      - Mengumpulkan bukti tentang aktivitas mencurigakan, seperti surel phishing atau masuk yang tidak biasa, dan mengeskalasikannya.
+      - Memeriksa surel phishing yang dilaporkan staf, dan membantu menghapus surel berbahaya dari kotak surat.
+      - Mencatat kejadian dan tindakan secara akurat dalam perangkat manajemen kasus.
+      - Menjalankan pemindaian kerentanan dan mengingatkan pemilik sistem tentang perbaikan yang jatuh tempo.
+    qualifications:
+      - Kualifikasi di bidang komputasi atau keamanan siber, magang keamanan siber, atau pengalaman yang setara.
+    job_evaluation_notes: Upaya mental mencerminkan konsentrasi berkepanjangan yang sering pada pemantauan dan pemilahan peringatan yang tidak dapat diprediksi.
+  - title: Analis operasi keamanan
+    summary: Analis operasi keamanan menyelidiki dan menahan insiden keamanan, menulis aturan deteksi, dan memperbaiki pemantauan keamanan organisasi.
+    responsibilities:
+      - Menyelidiki insiden keamanan, menentukan cakupannya, dan menahannya, bekerja dengan pemilik sistem dan layanan klinis.
+      - Menulis dan menyetel aturan deteksi, serta menjalankan perburuan ancaman berdasarkan ancaman terkini terhadap layanan kesehatan.
+      - Memantau akses tidak patut ke rekam pasien, dan meneruskan kasus kepada tata kelola informasi.
+      - Menilai kerentanan menurut risiko, termasuk dampaknya pada layanan klinis dan alat kesehatan.
+      - Memperbaiki runbook dan perangkat setelah insiden.
+      - Ikut dalam jadwal siaga untuk insiden keamanan di luar jam kerja.
+    qualifications:
+      - Gelar di bidang komputasi atau keamanan siber, sertifikasi keamanan yang relevan, atau pengalaman yang setara.
+      - Pengalaman dalam pemantauan keamanan atau respons insiden.
+    job_evaluation_notes: Upaya mental mencerminkan konsentrasi berkepanjangan yang sering selama penyelidikan, termasuk saat siaga. Upaya emosional mencerminkan seringnya paparan tidak langsung terhadap materi yang menyedihkan dalam rekam pasien dan tekanan insiden langsung.
+  - title: Analis operasi keamanan senior
+    summary: Analis operasi keamanan senior memimpin tanggapan atas insiden keamanan yang signifikan, memimpin perburuan ancaman, dan memandu pekerjaan tim operasi keamanan.
+    responsibilities:
+      - Memimpin tanggapan teknis atas insiden keamanan yang signifikan, termasuk ransomware dan pencurian data, dan berkoordinasi dengan manajemen insiden.
+      - Menasihati pimpinan klinis dan operasional tentang keputusan penahanan yang memengaruhi perawatan pasien.
+      - Memimpin perburuan ancaman dan pekerjaan intelijen ancaman, dan berbagi informasi dengan mitra keamanan layanan kesehatan.
+      - Menetapkan prioritas rekayasa deteksi dan cakupan pemantauan, termasuk untuk jaringan alat kesehatan.
+      - Memimpin latihan yang menguji respons insiden dengan tim teknis dan klinis.
+      - Membimbing dan memandu analis operasi keamanan.
+    qualifications:
+      - Pengalaman yang substansial dalam operasi keamanan dan respons insiden, pada tingkat yang setara dengan diploma pascasarjana.
+      - Sertifikasi keamanan lanjutan yang relevan, atau pengalaman yang setara.
+    job_evaluation_notes: Upaya mental dan emosional mencerminkan memimpin tanggapan atas insiden serius di bawah tekanan, sering di luar jam kerja, ketika layanan klinis berisiko.

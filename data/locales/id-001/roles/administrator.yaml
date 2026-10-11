@@ -1,0 +1,41 @@
+summary: >
+  Administrator menjaga tim dan layanan tetap berjalan dengan menangani administrasi sehari-hari organisasi: surat-menyurat, agenda, rapat, arsip, entri data, pemesanan, dan pertanyaan. Dalam organisasi layanan kesehatan digital mereka mendukung tim digital, klinis, dan korporat, dan sering menangani informasi rahasia tentang pasien dan staf.
+health_context:
+  - Administrator sering melihat informasi pasien dan staf yang rahasia, sehingga mereka mengikuti aturan tata kelola informasi dengan ketat.
+  - Pertanyaan dapat datang dari pasien, tenaga perawatan, dan masyarakat, dan sebagian penelepon mungkin cemas atau tertekan.
+  - Rekam dan entri data yang akurat itu penting, karena kesalahan dapat mengalir ke sistem klinis, laporan, dan pembayaran.
+  - Banyak proses administrasi beralih ke perangkat digital, sehingga administrator membantu menguji dan menerapkan cara kerja baru.
+levels:
+  - title: Asisten administrasi
+    summary: Melakukan tugas administrasi rutin untuk tim, mengikuti prosedur yang ditetapkan dengan penyelia di dekatnya.
+    responsibilities:
+      - Menjawab panggilan dan surel, mencatat pesan secara akurat, dan meneruskan pertanyaan kepada orang yang tepat.
+      - Memasukkan dan memperbarui data secara akurat dalam sistem tim.
+      - Mengarsipkan dan memindai dokumen serta menjaga folder bersama tetap tertib.
+      - Memesan rapat dan ruangan, serta mengirim bahan.
+      - Memesan alat tulis dan perlengkapan dalam prosedur yang ditetapkan.
+    qualifications:
+      - Kemampuan baca-tulis, berhitung, dan papan ketik yang baik.
+    job_evaluation_notes: Keterampilan fisik dinilai di tingkat 3 untuk keterampilan papan ketik tingkat lanjut, dengan kecepatan dan ketepatan dalam mengetik dan entri data.
+  - title: Administrator
+    summary: Memberi layanan administrasi penuh kepada tim atau layanan, menangani berbagai tugas, sebagian tidak rutin, dan mengatur beban kerja sendiri.
+    responsibilities:
+      - Mengelola agenda dan mengatur rapat, acara, dan perjalanan untuk tim.
+      - Membuat notulen dan catatan tindakan untuk rapat tim dan menindaklanjuti tindakan.
+      - Menangani surat-menyurat dan pertanyaan rutin, menyusun balasan bila perlu.
+      - Memelihara rekam, pelacak, dan basis data, serta menghasilkan laporan sederhana.
+      - Memproses pesanan, faktur, dan pengeluaran dalam batas yang ditetapkan.
+      - Menunjukkan kepada staf baru prosedur administrasi tim.
+    qualifications:
+      - Kualifikasi tingkat 3 di bidang administrasi bisnis, atau pengalaman yang setara.
+  - title: Administrator senior
+    summary: Memimpin administrasi untuk suatu layanan atau direktorat, menyelia administrator lain dan memperbaiki proses administrasi.
+    responsibilities:
+      - Mengoordinasikan layanan administrasi untuk direktorat, membagi pekerjaan kepada administrator.
+      - Membuat notulen formal untuk rapat manajemen dan program.
+      - Menulis dan memperbaiki prosedur dan templat administrasi.
+      - Menghasilkan laporan dari pelacak dan sistem untuk manajer.
+      - Memantau pengeluaran anggaran administrasi dan menyampaikan varians.
+      - Melatih dan menyelia administrator dan pemagang.
+    qualifications:
+      - Pengalaman administrasi yang substansial, pada tingkat yang setara dengan diploma.

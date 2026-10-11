@@ -1,0 +1,67 @@
+summary: >
+  Akuntan manajemen memberi manajer informasi dan nasihat keuangan yang mereka butuhkan untuk merencanakan, mengendalikan pengeluaran, dan mengambil keputusan yang baik. Mereka menetapkan dan memantau anggaran, memperkirakan pengeluaran, menghitung biaya layanan, dan menyusun kasus keuangan untuk investasi. Dalam organisasi layanan kesehatan digital mereka bekerja erat dengan program digital dan tim produk, tempat menetapkan modal dan operasional, biaya sepanjang masa pakai, dan nilai uang dengan benar adalah inti dari keputusan yang baik.
+health_context:
+  - Program digital sering didanai dari campuran modal dan operasional, dana yang dialokasikan khusus, atau dana terbatas waktu, masing-masing dengan aturannya sendiri tentang apa yang boleh dibelanjakan.
+  - Peralihan dari sistem yang dimiliki ke layanan komputasi awan dan langganan menggeser biaya dari modal ke operasional, yang memengaruhi anggaran, kasus bisnis, dan pengajuan pendanaan.
+  - Keputusan investasi harus menunjukkan nilai uang untuk dana publik dan manfaat bagi pasien, tenaga klinis, dan tenaga perawatan, bukan hanya penghematan keuangan.
+  - Kontrak untuk perangkat lunak, hosting, dan dukungan sering berjalan beberapa tahun, sehingga perkiraan harus mencakup biaya operasional lama setelah peluncuran.
+  - Pemegang anggaran di tim digital dan klinis mungkin bukan spesialis keuangan, sehingga nasihat yang jelas dan praktis menjadi bagian besar pekerjaan.
+levels:
+  - title: Akuntan manajemen pemagang
+    summary: Akuntan manajemen pemagang, kadang disebut analis keuangan, menghasilkan laporan anggaran dan analisis untuk sekelompok pemegang anggaran sambil bekerja menuju kualifikasi akuntansi yang diakui.
+    responsibilities:
+      - Menyiapkan laporan anggaran bulanan untuk sekelompok pemegang anggaran dan menjelaskan varians utama.
+      - Memposting jurnal tutup bulan, akrual, dan koreksi untuk memastikan laporan akurat.
+      - Memeriksa bahwa pengeluaran dikodekan dengan benar antara pusat biaya, proyek, serta modal dan operasional.
+      - Mengumpulkan informasi perkiraan dan memperbarui perkiraan bersama pemegang anggaran.
+      - Menyusun informasi biaya untuk kasus bisnis dengan bimbingan.
+      - Bekerja menuju kualifikasi akuntansi yang diakui.
+    qualifications:
+      - Gelar atau kualifikasi akuntansi tingkat menengah, dan sedang menempuh kualifikasi akuntansi yang diakui, atau pengalaman yang setara.
+    job_evaluation_notes: Pengetahuan dinilai pada tingkat yang dibutuhkan pekerjaan setelah pelatihan cukup jauh untuk melakukan pekerjaan. Sumber daya keuangan di tingkat 3 untuk memantau anggaran yang didelegasikan.
+  - title: Akuntan manajemen
+    summary: Akuntan manajemen adalah akuntan berkualifikasi yang menjalankan penyusunan, pemantauan, dan peramalan anggaran untuk sebuah direktorat atau sekelompok layanan, dan menasihati pemegang anggaran tentang keuangan mereka.
+    responsibilities:
+      - Memimpin siklus pelaporan dan peramalan bulanan untuk sebuah direktorat atau sekelompok layanan.
+      - Menasihati pemegang anggaran tentang pengeluaran, risiko, dan tindakan agar tetap dalam anggaran.
+      - Menyiapkan anggaran tahunan, termasuk biaya staf, kontrak, dan lisensi.
+      - Menerapkan aturan modal dan operasional pada pengeluaran digital, seperti pengembangan perangkat lunak, lisensi, dan perangkat keras.
+      - Menyusun model keuangan untuk kasus bisnis dan penilaian opsi.
+      - Menyelia dan mengembangkan akuntan pemagang.
+    qualifications:
+      - Kualifikasi akuntansi yang diakui, atau pengalaman yang setara.
+  - title: Akuntan manajemen senior
+    summary: Akuntan manajemen senior memimpin manajemen keuangan direktorat besar atau program digital utama, termasuk peramalan, penghitungan biaya, dan kasus bisnis yang kompleks.
+    responsibilities:
+      - Memimpin penyusunan anggaran dan peramalan untuk direktorat besar atau program digital utama.
+      - Memodelkan skenario, seperti perubahan pendanaan, keterlambatan penyampaian, dan peralihan dari modal ke biaya langganan komputasi awan.
+      - Memimpin kasus keuangan untuk investasi yang signifikan, termasuk biaya sepanjang masa pakai, manfaat, dan nilai uang.
+      - Menyusun penghitungan biaya layanan dan produk, seperti biaya penuh menjalankan layanan digital.
+      - Menyajikan kinerja keuangan dan risiko kepada manajer senior dan dewan program.
+      - Mengelola tim kecil akuntan dan pemagang.
+    qualifications:
+      - Kualifikasi akuntansi yang diakui, dengan pengalaman pascakualifikasi yang substansial, atau yang setara.
+    job_evaluation_notes: Sumber daya keuangan di tingkat 4 karena pekerjaan ini menetapkan anggaran untuk direktorat atau program bersama pemegang anggarannya.
+  - title: Mitra bisnis keuangan
+    summary: Mitra bisnis keuangan bekerja sebagai bagian dari pimpinan direktorat, sering digital, data, dan teknologi, mengubah informasi keuangan menjadi keputusan dan memastikan investasi menghasilkan nilai uang.
+    responsibilities:
+      - Bertindak sebagai penasihat keuangan senior bagi tim pimpinan direktorat, seperti digital, data, dan teknologi.
+      - Memimpin rencana keuangan direktorat, menghubungkan pengeluaran dengan prioritas, tenaga kerja, dan investasi.
+      - Menantang dan mendukung pimpinan tentang nilai uang, termasuk pengeluaran pemasok, penggunaan lisensi, dan biaya komputasi awan.
+      - Memimpin kasus bisnis untuk investasi digital besar dan mewakili keuangan di dewan investasi.
+      - Memastikan pengeluaran digital memenuhi aturan pendanaan, pengendalian pengeluaran, dan batas modal dan operasional.
+      - Mengelola secara langsung akuntan manajemen yang mendukung direktorat.
+    qualifications:
+      - Kualifikasi akuntansi yang diakui, dengan pengalaman pascakualifikasi yang luas, termasuk kemitraan bisnis.
+    job_evaluation_notes: Sumber daya keuangan di tingkat 5 karena pekerjaan ini menetapkan anggaran di beberapa layanan dalam sebuah direktorat.
+  - title: Kepala akuntansi manajemen
+    summary: Kepala akuntansi manajemen memimpin penyusunan anggaran, peramalan, dan pelaporan manajemen organisasi, serta tim mitra bisnis dan akuntan yang menyampaikannya.
+    responsibilities:
+      - Memimpin penyusunan anggaran tahunan dan peramalan tahun berjalan organisasi.
+      - Merancang pelaporan manajemen, penghitungan biaya, dan informasi kinerja untuk dewan dan eksekutif.
+      - Menetapkan standar kasus bisnis dan penilaian investasi, termasuk untuk investasi digital.
+      - Menasihati direktur tentang risiko keuangan, rencana penghematan, dan pilihan yang diperlukan agar tetap dalam pendanaan.
+      - Memimpin dan mengembangkan tim kemitraan bisnis dan akuntansi manajemen.
+      - Memperbaiki perangkat penyusunan anggaran dan pelaporan, termasuk pelaporan layanan mandiri bagi pemegang anggaran.
+    qualifications:
+      - Kualifikasi akuntansi yang diakui, dengan pengalaman pascakualifikasi yang luas, termasuk memimpin tim keuangan.

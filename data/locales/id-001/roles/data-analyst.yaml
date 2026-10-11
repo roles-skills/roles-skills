@@ -1,0 +1,47 @@
+summary: >
+  Analis data mengubah data kesehatan dan perawatan menjadi informasi yang membantu tenaga klinis, manajer, dan perencana mengambil keputusan. Mereka menyiapkan, menautkan, dan menganalisis data dari sumber klinis, operasional, dan yang dilaporkan pasien, lalu menyajikannya dalam laporan, dasbor, dan pengarahan. Mereka memastikan analisis mereka akurat, dapat direproduksi, dan menangani data pasien yang rahasia dengan aman.
+health_context:
+  - Sebagian besar data menggambarkan pasien secara individu, sehingga analis bekerja dengan data yang dipseudonimkan jika bisa dan memeriksa risiko pengungkapan pada keluaran sebelum dirilis.
+  - Data kesehatan dicatat dengan terminologi dan klasifikasi klinis seperti SNOMED CT dan ICD, sehingga analis perlu tahu bagaimana kode dipakai dan di mana kode dapat menyesatkan.
+  - Mutu data bervariasi antarlingkungan perawatan dan sistem, dan kesenjangan sering memengaruhi kelompok pasien tertentu lebih daripada yang lain, sehingga analis memeriksa bias sebelum menarik kesimpulan.
+  - Analisis dapat mengubah cara layanan direncanakan, didanai, dan disampaikan, sehingga temuan memerlukan catatan batasan yang jelas dan tidak boleh melebih-lebihkan kepastian.
+levels:
+  - title: Analis data asosiat
+    responsibilities:
+      - Menghasilkan laporan dan dasbor rutin tentang aktivitas, waktu tunggu, dan penggunaan layanan, mengikuti metode yang disepakati.
+      - Membersihkan dan menyiapkan ekstrak dari sistem administrasi pasien, klinis, dan operasional di bawah pengawasan.
+      - Memeriksa keluaran terhadap aturan mutu data dan melaporkan masalah kepada pemilik data yang tepat.
+      - Menerapkan penekanan angka kecil dan aturan pengungkapan lain sebelum membagikan hasil.
+      - Menjawab permintaan data sederhana dari tim klinis dan operasional.
+    qualifications:
+      - Gelar di bidang yang kuantitatif, magang analitik, atau pengalaman yang setara.
+  - title: Analis data
+    responsibilities:
+      - Merancang dan melakukan analisis yang menjawab pertanyaan dari tim klinis, operasional, dan perencanaan.
+      - Menautkan data tingkat pasien dari berbagai sumber dengan aman, memakai pengenal yang dipseudonimkan dan metode penautan yang disepakati.
+      - Menulis kode analisis yang dapat direproduksi dan mendokumentasikan metode, asumsi, dan sumber data.
+      - Menjelaskan temuan dan batasannya kepada tenaga klinis dan manajer dalam bahasa sederhana.
+      - Memeriksa analisis terhadap bias antarkelompok pasien, seperti menurut usia, jenis kelamin, etnis, dan tingkat kekurangan.
+      - Mendukung analis asosiat dan meninjau pekerjaan mereka.
+    qualifications:
+      - Gelar di bidang yang kuantitatif, atau pengalaman yang setara.
+      - Pengalaman menganalisis dan menyajikan data yang kompleks.
+  - title: Analis data senior
+    responsibilities:
+      - Memimpin analisis untuk suatu bidang layanan, seperti perawatan darurat, kanker, atau kesehatan jiwa, menyepakati prioritas dengan pimpinannya.
+      - Menetapkan metode dan penjaminan mutu untuk analisis tim, termasuk tinjauan sejawat atas kode dan keluaran.
+      - Memimpin proyek penautan yang kompleks lintas lingkungan perawatan dan menyepakati dasar tata kelola informasinya.
+      - Menyajikan temuan kepada kelompok klinis dan manajemen senior dan menasihati apa artinya bagi layanan.
+      - Bekerja dengan insinyur data dan pemilik data untuk memperbaiki akar penyebab mutu data yang buruk.
+      - Membimbing dan mengembangkan analis dalam tim.
+    qualifications:
+      - Pengalaman yang substansial dalam memimpin analisis data, pada tingkat yang setara dengan gelar magister.
+  - title: Analis data utama
+    responsibilities:
+      - Menetapkan standar organisasi untuk analisis data, penjaminan mutu, dan praktik analitis yang dapat direproduksi.
+      - Menasihati pimpinan eksekutif dan klinis tentang bukti di balik keputusan besar mengenai layanan dan investasi.
+      - Memimpin komunitas analitis, termasuk pelatihan, perangkat, dan pengembangan kariernya.
+      - Membentuk pengaturan pembagian dan penautan data dengan mitra kesehatan dan perawatan.
+      - Mengelola secara langsung para analis senior dan memastikan tim memiliki kapasitas dan keterampilan yang dibutuhkan.
+    qualifications:
+      - Pengalaman luas dalam memimpin analisis data di sebuah organisasi.

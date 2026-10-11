@@ -1,0 +1,53 @@
+summary: >
+  Analis kinerja mengukur seberapa baik layanan kesehatan digital organisasi bekerja bagi pasien, pengguna layanan, tenaga klinis, dan tenaga perawatan. Mereka menyusun kerangka pengukuran, mengumpulkan dan menganalisis data penggunaan dan hasil, dan membantu tim produk dan pimpinan layanan memahami apakah perubahan memperbaiki akses, pengalaman, keselamatan, dan efisiensi.
+health_context:
+  - Ukuran keberhasilan melampaui penerimaan digital, mencakup dampak pada perawatan, seperti janji temu yang terlewat, waktu tunggu, triase yang aman, dan waktu staf yang dibebaskan.
+  - Analitik dan pelacakan pada layanan kesehatan dapat mengungkap informasi sensitif, seperti penyakit apa yang dicari seseorang, sehingga pengukuran harus menghormati persetujuan, aturan cookie, dan kerahasiaan.
+  - Layanan digital tidak boleh memperlebar ketimpangan kesehatan, sehingga analis melihat penerimaan dan hasil untuk kelompok yang kurang mungkin memakai layanan digital.
+  - Data kinerja dapat dilaporkan kepada dewan, pemesan layanan, dan regulator, sehingga definisi harus konsisten dan terdokumentasi dengan baik.
+levels:
+  - title: Analis kinerja asosiat
+    responsibilities:
+      - Menghasilkan laporan berkala tentang bagaimana pasien dan staf memakai layanan digital, seperti pendaftaran, penyelesaian, dan titik putus.
+      - Memeriksa data analitik dan pelacakan terhadap kesenjangan dan kesalahan, dan melaporkannya kepada tim.
+      - Mengikuti aturan organisasi tentang persetujuan dan kerahasiaan saat mengumpulkan dan membagikan data penggunaan.
+      - Membantu tim produk menjawab pertanyaan sederhana tentang penggunaan layanan.
+    qualifications:
+      - Kemampuan berhitung yang baik dan sedikit pengalaman menangani atau menganalisis data, atau yang setara.
+  - title: Analis kinerja
+    responsibilities:
+      - Menyepakati dengan tim produk dan pimpinan klinis seperti apa keberhasilan sebuah layanan, termasuk dampaknya pada perawatan dan staf.
+      - Menyiapkan dan memvalidasi analitik, agar pelacakan akurat, proporsional, dan menghormati persetujuan.
+      - Menggabungkan analitik digital dengan data operasional, seperti janji temu dan rujukan, untuk menunjukkan dampak perubahan.
+      - Menganalisis penerimaan dan hasil untuk berbagai kelompok pasien dan menyoroti risiko pengucilan digital.
+      - Menyajikan temuan kepada tim produk dan pimpinan layanan serta merekomendasikan perbaikan.
+    qualifications:
+      - Gelar di bidang yang kuantitatif, atau pengalaman yang setara.
+      - Pengalaman mengukur kinerja layanan digital.
+  - title: Analis kinerja senior
+    responsibilities:
+      - Memimpin pengukuran kinerja untuk sekelompok layanan atau program besar, seperti rawat jalan digital atau triase daring.
+      - Merancang ukuran manfaat bersama pimpinan klinis, keuangan, dan operasional, dan melacaknya selama penyampaian.
+      - Memilih dan mengonfigurasi perangkat analitik yang memenuhi persyaratan tata kelola informasi dan keamanan.
+      - Menyajikan bukti kinerja kepada dewan program dan pimpinan senior.
+      - Membimbing analis dan dapat mengelola secara langsung satu atau lebih analis kinerja.
+    qualifications:
+      - Pengalaman yang substansial dalam analisis kinerja untuk layanan digital, pada tingkat yang setara dengan gelar magister.
+  - title: Analis kinerja pimpinan
+    responsibilities:
+      - Memimpin tim analis kinerja di portofolio layanan kesehatan digital.
+      - Menyepakati definisi yang konsisten untuk ukuran kinerja utama, agar laporan kepada dewan dan mitra dapat dibandingkan dari waktu ke waktu.
+      - Memastikan data analitik akurat, dipakai dengan tepat, dan ditangani sesuai aturan tata kelola informasi.
+      - Memakai bukti kinerja untuk memengaruhi prioritas dan investasi portofolio.
+      - Membimbing dan membina analis di semua tingkat.
+    qualifications:
+      - Pengalaman luas dalam analisis kinerja dan memimpin analis.
+  - title: Kepala analisis kinerja
+    responsibilities:
+      - Menetapkan strategi untuk mengukur kinerja dan manfaat layanan digital organisasi.
+      - Mendefinisikan kerangka penjaminan mutu untuk analisis kinerja dan pelaporan kinerja.
+      - Menasihati pimpinan eksekutif tentang apa yang ditunjukkan bukti kinerja mengenai layanan digital dan hasil pasien.
+      - Bekerja dengan profesi analitis lain, seperti analisis data dan ilmu data, untuk berbagi metode dan data.
+      - Merencanakan kapabilitas komunitas analisis kinerja, termasuk rekrutmen dan pengembangan.
+    qualifications:
+      - Pengalaman luas dalam memimpin analisis kinerja di sebuah organisasi.

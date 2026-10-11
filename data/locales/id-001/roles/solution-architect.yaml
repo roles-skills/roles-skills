@@ -1,0 +1,61 @@
+summary: >
+  Arsitek solusi merancang bagaimana layanan baru atau yang berubah akan bekerja dari ujung ke ujung, dari kebutuhan pengguna dan alur kerja klinis hingga aplikasi, data, integrasi, hosting, dan keamanan. Mereka memastikan setiap solusi sesuai dengan arsitektur organisasi, memenuhi kebutuhan keselamatan, privasi, dan interoperabilitasnya, serta dapat dibangun, dijalankan, dan didukung dengan biaya terjangkau.
+health_context:
+  - Solusi sering menggabungkan sistem klinis yang dibeli, layanan buatan sendiri, dan platform bersama, sehingga arsitek harus merancang melintasi batas pemasok.
+  - Pilihan desain dapat menimbulkan bahaya klinis, seperti hasil pemeriksaan yang hilang atau salah cocok pasien, sehingga desain solusi masuk ke dalam kasus keselamatan klinis.
+  - Setiap aliran data informasi pasien yang baru memerlukan dasar hukum dan penilaian dampak pelindungan data, sehingga arsitek bekerja erat dengan tata kelola informasi.
+  - Interoperabilitas dengan organisasi kesehatan dan perawatan lain, menggunakan standar seperti HL7 FHIR, biasanya merupakan persyaratan inti.
+  - Sebagian solusi mencakup perangkat lunak yang merupakan alat kesehatan, yang mengubah desain, penjaminan, dan persyaratan pemasok.
+levels:
+  - title: Arsitek solusi asosiat
+    responsibilities:
+      - Mengumpulkan persyaratan dari tim produk, tenaga klinis, dan pemasok untuk menjadi masukan desain solusi.
+      - Menggambar diagram keadaan saat ini dan sasaran, seperti tampilan konteks, aliran data, dan integrasi.
+      - Menyusun draf bagian dari desain solusi dan catatan keputusan di bawah pengawasan.
+      - Memeriksa desain terhadap standar arsitektur dan persyaratan keamanan dan tata kelola informasi.
+      - Membantu menyiapkan desain untuk ditinjau di otoritas desain.
+    qualifications:
+      - Pengetahuan spesialis tentang desain solusi, pada tingkat magister atau pengalaman yang setara.
+      - Pengalaman dalam analisis, pengembangan, atau desain teknis.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 6); iklan sektor kesehatan menempatkan peran ini di Pita 7. Pengetahuan dinilai pada tingkat magister atau yang setara, karena pekerjaan ini merancang lintas aplikasi, data, integrasi, dan keamanan.
+  - title: Arsitek solusi
+    responsibilities:
+      - Merancang solusi ujung ke ujung untuk layanan berisiko lebih rendah, seperti perangkat staf atau layanan sederhana untuk pasien.
+      - Membandingkan opsi, termasuk membeli, membangun, dan menggunakan ulang platform bersama, serta merekomendasikan satu dengan alasan yang jelas.
+      - Merancang integrasi, aliran data, serta identitas dan akses untuk solusi, memakai standar terbuka jika ada.
+      - Menyumbang pada identifikasi bahaya dan penilaian dampak pelindungan data untuk solusi.
+      - Mempresentasikan desain kepada otoritas desain dan mendukung tim penyampaian melalui pembangunan dan peluncuran.
+      - Membimbing dan meninjau pekerjaan arsitek solusi asosiat.
+    qualifications:
+      - Pengalaman yang substansial dalam desain solusi atau rekayasa perangkat lunak, pada tingkat yang setara dengan gelar magister.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 7); iklan sektor kesehatan menempatkan peran ini di Pita 8a. Perencanaan, kebijakan, dan kebebasan bertindak dinilai di atas profil Pita 7 karena pekerjaan ini memiliki desain ujung ke ujung dan merekomendasikan opsi kepada otoritas desain.
+  - title: Arsitek solusi senior
+    responsibilities:
+      - Merancang solusi kompleks berisiko sedang, seperti sistem klinis atau layanan yang dipakai di beberapa organisasi.
+      - Memimpin evaluasi teknis produk pemasok dalam pengadaan, termasuk interoperabilitas, keamanan, dan keselamatan.
+      - Merancang untuk ketahanan dan kesinambungan bisnis jika solusi mendukung perawatan sepanjang waktu.
+      - Bekerja dengan petugas keselamatan klinis agar keputusan desain dan pengendalian risiko tercatat dalam kasus keselamatan.
+      - Membimbing dan meninjau pekerjaan arsitek solusi lain.
+    qualifications:
+      - Pengalaman luas dalam merancang solusi kompleks lintas beberapa disiplin, pada tingkat di atas gelar magister.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 8a); iklan sektor kesehatan menempatkan peran ini di Pita 8b. Pengetahuan dinilai di tingkat 8 untuk pengetahuan spesialis lintas beberapa disiplin, seperti aplikasi, data, integrasi, keamanan, dan keselamatan klinis.
+  - title: Arsitek solusi pimpinan
+    responsibilities:
+      - Memimpin arsitektur solusi untuk sebuah program atau bidang yang kompleks, seperti penggantian rekam pasien elektronik.
+      - Memastikan solusi di seluruh program konsisten, interoperabel, dan selaras dengan arsitektur sasaran.
+      - Menasihati dewan program tentang risiko desain, ketergantungan, pilihan pemasok, dan biaya.
+      - Menjamin desain arsitek solusi lain di otoritas desain.
+      - Memimpin dan mengembangkan tim arsitek solusi.
+    qualifications:
+      - Pengalaman luas dalam memimpin arsitektur solusi untuk program yang kompleks.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 8b); iklan sektor kesehatan menempatkan peran ini di Pita 8c. Perencanaan, kebijakan, dan orang dinilai di atas profil Pita 8b karena pekerjaan ini merencanakan arsitektur seluruh program dan memimpin tim arsitek solusi.
+  - title: Arsitek solusi utama
+    responsibilities:
+      - Memimpin arsitektur solusi untuk program organisasi yang terbesar atau paling kritis.
+      - Menetapkan standar, pola, dan metode arsitektur solusi untuk organisasi.
+      - Menasihati direktur dan organisasi mitra tentang desain layanan kesehatan dan perawatan bersama yang kritis.
+      - Menyelesaikan konflik desain tersulit antarprogram, pemasok, dan organisasi mitra.
+      - Memimpin praktik arsitektur solusi dan mengembangkan orang-orangnya.
+    qualifications:
+      - Pengalaman luas dalam memimpin arsitektur solusi lintas banyak program atau organisasi.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 8c); iklan sektor kesehatan menempatkan peran ini di Pita 8d. Kebebasan bertindak berada di tingkat 6 karena pekerjaan ini menetapkan standar arsitektur solusi organisasi; sumber daya keuangan dan orang berada di tingkat 4 karena memimpin praktik dan anggarannya.

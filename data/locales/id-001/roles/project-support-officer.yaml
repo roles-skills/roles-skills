@@ -1,0 +1,51 @@
+summary: >
+  Petugas dukungan proyek membantu proyek dan program berjalan lancar dengan memelihara rencana, register, dan dokumen, mengatur rapat, dan menghasilkan laporan. Pada tingkat senior mereka menjalankan kantor manajemen proyek (PMO), memberi pimpinan pandangan yang jelas tentang kemajuan, risiko, dan manfaat di seluruh portofolio perubahan digital organisasi.
+health_context:
+  - Proyek kesehatan digital memerlukan persetujuan keselamatan klinis, tata kelola informasi, dan keamanan pada titik tertentu, sehingga dukungan proyek melacaknya sebagai tonggak utama.
+  - Proyek sering bergantung pada tenaga klinis dan tenaga perawatan yang waktunya terbatas, sehingga perencanaan di sekitar jadwal jaga klinis dan tekanan layanan itu penting.
+  - Pelaporan portofolio membantu pimpinan memutuskan perubahan mana yang berjalan ketika layanan klinis berada di bawah tekanan.
+levels:
+  - title: Petugas dukungan proyek
+    summary: Memberi dukungan administratif kepada satu atau lebih proyek, memelihara catatan dan mengatur rapat di bawah bimbingan manajer proyek.
+    responsibilities:
+      - Memelihara dokumen proyek, dengan kendali versi, dalam repositori proyek.
+      - Memperbarui log tindakan, risiko, isu, dan keputusan.
+      - Mengatur rapat proyek, mengirim bahan, dan membuat catatan tindakan.
+      - Mengumpulkan pembaruan dari tim untuk laporan status.
+      - Menangani surat-menyurat dan pertanyaan proyek rutin.
+    qualifications:
+      - Kualifikasi tingkat 3 di bidang administrasi bisnis atau dukungan proyek, atau pengalaman yang setara.
+  - title: Koordinator proyek
+    summary: Mengoordinasikan pengendalian proyek untuk beberapa proyek atau program, memelihara rencana dan register serta menghasilkan laporan berkala.
+    responsibilities:
+      - Memelihara rencana proyek, register, dan pelacak untuk beberapa proyek.
+      - Menghasilkan laporan status dan sorotan berkala.
+      - Melacak anggaran dan pengeluaran proyek, dan menyampaikan varians.
+      - Memeriksa bahwa proyek mengikuti metode yang disepakati, termasuk langkah keselamatan klinis dan tata kelola informasi.
+      - Mengoordinasikan dewan proyek, bahan, dan tindakan.
+      - Mendukung manajer proyek dengan komunikasi pemangku kepentingan.
+    qualifications:
+      - Kualifikasi dasar manajemen proyek, atau pengalaman yang setara.
+  - title: Analis PMO
+    summary: Menganalisis kemajuan, risiko, dan manfaat di seluruh program atau portofolio, dan menjalankan proses kantor manajemen proyek.
+    responsibilities:
+      - Menganalisis kemajuan, risiko, isu, ketergantungan, dan manfaat di seluruh proyek.
+      - Menghasilkan dasbor dan laporan portofolio untuk dewan program dan portofolio.
+      - Menjalankan proses perencanaan, pengendalian perubahan, dan penjaminan.
+      - Membantu manajer proyek menyiapkan proyek dengan pengendalian dan dokumen yang tepat.
+      - Memelihara perangkat, templat, dan panduan PMO.
+      - Membimbing petugas dukungan proyek.
+    qualifications:
+      - Kualifikasi manajemen proyek, program, atau portofolio, atau pengalaman yang setara.
+  - title: Manajer PMO
+    summary: Mengelola kantor manajemen proyek untuk program atau portofolio, menetapkan standar dan memberi pimpinan wawasan yang andal tentang penyampaian.
+    responsibilities:
+      - Memimpin kantor manajemen proyek dan stafnya.
+      - Menetapkan standar, metode, dan perangkat proyek dan portofolio.
+      - Memberi pimpinan senior wawasan yang jelas tentang kemajuan, risiko, dan manfaat portofolio.
+      - Menjalankan tata kelola portofolio, termasuk prioritas, tinjauan gerbang, dan pengendalian perubahan.
+      - Memantau anggaran dan sumber daya program dan melaporkannya.
+      - Membimbing manajer proyek tentang metode dan pengendalian.
+    qualifications:
+      - Kualifikasi manajemen proyek, program, atau portofolio yang diakui, atau pengalaman yang setara.
+      - Pengalaman menjalankan kantor manajemen proyek.

@@ -1,0 +1,68 @@
+summary: >
+  Staf tata kelola informasi membantu organisasi menangani informasi pribadi dan kesehatan secara sah, aman, dan etis. Mereka menasihati tim tentang pelindungan data dan kerahasiaan, menangani permintaan hak atas informasi, mendukung penilaian dampak pelindungan data, mengelola pelanggaran data, dan mengumpulkan bukti yang menunjukkan organisasi memenuhi standar tata kelola informasi.
+health_context:
+  - Hukum pelindungan data memberi informasi kesehatan pelindungan tambahan, sehingga standar untuk penggunaan yang sah, keamanan, dan transparansi tinggi.
+  - Layanan kesehatan digital sering membagikan data di banyak organisasi perawatan, sehingga perjanjian pembagian informasi dan aliran data perlu ditinjau dengan cermat.
+  - Pasien dan masyarakat memiliki hak hukum untuk mengakses rekam mereka dan informasi organisasi, dengan batas waktu yang ketat.
+  - Pelanggaran data yang melibatkan informasi kesehatan dapat menyebabkan kerugian dan tekanan nyata, sehingga insiden perlu ditangani dengan cepat dan hati-hati.
+  - Penggunaan data baru, seperti analitik, penelitian, dan AI, memunculkan pertanyaan tentang persetujuan, kerahasiaan, dan kepercayaan publik.
+levels:
+  - title: Petugas tata kelola informasi
+    summary: Mendukung tim tata kelola informasi dengan permintaan hak atas informasi, pencatatan insiden, catatan pelatihan, dan pengumpulan bukti, mengikuti prosedur yang ditetapkan.
+    responsibilities:
+      - Mencatat, mengonfirmasi, dan melacak permintaan hak atas informasi, dan mengumpulkan informasi untuk tanggapan.
+      - Mencatat pelanggaran data dan nyaris celaka, dan mengumpulkan fakta untuk ditinjau.
+      - Menjaga register tata kelola informasi tetap mutakhir, seperti register aset informasi dan peta aliran data.
+      - Mengumpulkan bukti untuk penilaian mandiri tata kelola informasi tahunan.
+      - Melacak penyelesaian pelatihan tata kelola informasi oleh staf.
+      - Menjawab pertanyaan tata kelola informasi rutin dari staf.
+    qualifications:
+      - Pengalaman dalam pekerjaan administrasi atau rekam, atau kualifikasi tingkat dasar dalam pelindungan data atau pengalaman yang setara.
+    job_evaluation_notes: Upaya emosional mencerminkan seringnya paparan tidak langsung terhadap isi yang menyedihkan dalam permintaan, rekam, dan laporan pelanggaran.
+  - title: Petugas tata kelola informasi senior
+    summary: Menangani sejumlah permintaan hak atas informasi dan insiden, dan mendukung tim dengan penilaian dampak pelindungan data dan pembagian informasi.
+    responsibilities:
+      - Menangani permintaan hak atas informasi, termasuk penyamaran dan penerapan pengecualian, dalam batas waktu hukum.
+      - Menilai dan menyelidiki pelanggaran data dan nyaris celaka, serta melacak tindakan hingga selesai.
+      - Membantu tim proyek menyelesaikan penilaian dampak pelindungan data dan menguraikan aliran data.
+      - Menyusun draf perjanjian pembagian informasi dan pemberitahuan privasi untuk ditinjau.
+      - Menyampaikan pelatihan dan pengarahan tata kelola informasi kepada staf.
+      - Melakukan audit akses dan pencatatan.
+    qualifications:
+      - Kualifikasi yang diakui dalam pelindungan data atau tata kelola informasi, atau pengalaman yang setara.
+  - title: Pimpinan tata kelola informasi
+    summary: Memberi nasihat tata kelola informasi yang ahli kepada direktorat atau program, memimpin penilaian dampak pelindungan data dan kasus yang kompleks.
+    responsibilities:
+      - Menasihati tim produk dan layanan tentang dasar hukum, persetujuan, kerahasiaan, dan retensi.
+      - Meninjau penilaian dampak pelindungan data untuk sistem kompleks dan merekomendasikan pengendalian.
+      - Menangani permintaan hak atas informasi yang kompleks atau diperdebatkan serta tinjauan internal.
+      - Menyelidiki pelanggaran data serius dan merekomendasikan apakah akan memberi tahu regulator.
+      - Meninjau perjanjian pembagian informasi dengan organisasi mitra.
+      - Menyelia dan membimbing petugas tata kelola informasi.
+    qualifications:
+      - Kualifikasi profesional yang diakui dalam pelindungan data atau tata kelola informasi, atau pengalaman yang setara.
+      - Pengalaman menasihati pelindungan data dalam lingkungan kesehatan atau perawatan.
+  - title: Manajer tata kelola informasi
+    summary: Mengelola layanan tata kelola informasi sehari-hari, termasuk timnya, penanganan kasus, program penjaminan, dan pelatihan.
+    responsibilities:
+      - Mengelola tim tata kelola informasi dan penanganan kasusnya, memastikan batas waktu hukum terpenuhi.
+      - Merencanakan dan menjalankan program penjaminan tata kelola informasi dan penilaian mandiri tahunan.
+      - Menulis dan meninjau kebijakan dan prosedur tata kelola informasi.
+      - Menasihati manajer senior tentang risiko informasi dan memelihara register risiko informasi.
+      - Memimpin tanggapan atas insiden serius, bekerja dengan rekan keamanan, keselamatan klinis, dan komunikasi.
+      - Merancang dan mengawasi pelatihan tata kelola informasi untuk semua staf.
+    qualifications:
+      - Kualifikasi profesional yang diakui dalam pelindungan data atau tata kelola informasi, atau pengalaman yang setara.
+      - Pengalaman yang substansial dalam tata kelola informasi di bidang kesehatan atau perawatan.
+  - title: Kepala tata kelola informasi
+    summary: Memimpin tata kelola informasi untuk organisasi, menetapkan kebijakan dan strateginya, dan menasihati pimpinan senior tentang risiko dan kepatuhan informasi.
+    responsibilities:
+      - Menetapkan strategi, kebijakan, dan kerangka tata kelola informasi organisasi.
+      - Memimpin layanan tata kelola informasi dan rekam serta mengembangkan stafnya.
+      - Menasihati pimpinan eksekutif untuk risiko informasi, dewan, dan komitenya tentang risiko dan kepatuhan informasi.
+      - Membuat keputusan akhir tentang pertanyaan pengungkapan, pembagian, dan pemberitahuan pelanggaran yang kompleks.
+      - Mewakili organisasi di hadapan regulator, auditor, dan organisasi mitra.
+      - Memastikan layanan digital, penggunaan data, dan AI yang baru dirancang dengan privasi dan transparansi sejak awal.
+    qualifications:
+      - Kualifikasi profesional yang diakui dalam pelindungan data atau tata kelola informasi, atau pengalaman yang setara.
+      - Pengalaman luas dalam memimpin tata kelola informasi di bidang kesehatan atau perawatan.

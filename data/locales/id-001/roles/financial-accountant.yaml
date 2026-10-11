@@ -1,0 +1,67 @@
+summary: >
+  Akuntan keuangan memastikan akun organisasi lengkap, akurat, dan mengikuti standar akuntansi serta aturan pelaporan sektor publik. Mereka mengelola neraca, menyiapkan laporan keuangan tahunan dan pengembalian statutori, mengelola kas dan perbendaharaan, mencatat aset, dan bekerja dengan auditor. Dalam organisasi layanan kesehatan digital, banyak kerumitan datang dari pencatatan perangkat lunak, aset data, pengaturan komputasi awan, dan kontrak teknologi multitahun.
+health_context:
+  - Pencatatan pengeluaran digital memerlukan pertimbangan, misalnya apakah pengembangan perangkat lunak, konfigurasi layanan komputasi awan, atau lisensi dapat diperlakukan sebagai aset modal.
+  - Organisasi harus mempertanggungjawabkan uang publik kepada pemberi dana dan badan pengawas, sering terhadap batas modal dan kas yang ketat.
+  - Kontrak lisensi dan dukungan multitahun menciptakan biaya dibayar di muka, komitmen, dan kadang sewa yang harus dicatat dengan benar.
+  - Aset tak berwujud, seperti perangkat lunak yang dibangun organisasi, perlu dinilai, disusutkan, dan ditinjau penurunan nilainya seiring produk berubah.
+  - Audit eksternal badan publik teliti dan terbuka, sehingga bukti dan kertas kerja harus berstandar tinggi.
+levels:
+  - title: Akuntan keuangan pemagang
+    summary: Akuntan keuangan pemagang menyiapkan rekonsiliasi neraca, jurnal, dan kertas kerja untuk laporan keuangan sambil bekerja menuju kualifikasi akuntansi yang diakui.
+    responsibilities:
+      - Menyiapkan rekonsiliasi neraca dan membersihkan butir rekonsiliasi.
+      - Memposting jurnal tutup bulan dan tutup tahun, seperti akrual, biaya dibayar di muka, dan penyusutan.
+      - Memelihara register aset tetap, termasuk aset perangkat lunak dan perangkat keras.
+      - Menyiapkan kertas kerja dan bukti untuk laporan keuangan tahunan dan audit.
+      - Menyiapkan informasi arus kas dan rekonsiliasi bank.
+      - Bekerja menuju kualifikasi akuntansi yang diakui.
+    qualifications:
+      - Gelar atau kualifikasi akuntansi tingkat menengah, dan sedang menempuh kualifikasi akuntansi yang diakui, atau pengalaman yang setara.
+    job_evaluation_notes: Pengetahuan dinilai pada tingkat yang dibutuhkan pekerjaan setelah pelatihan cukup jauh untuk melakukan pekerjaan.
+  - title: Akuntan keuangan
+    summary: Akuntan keuangan adalah akuntan berkualifikasi yang mengelola neraca dan menyiapkan bagian laporan keuangan tahunan, pengembalian statutori, dan pengembalian pajak.
+    responsibilities:
+      - Mengelola penutupan bulan dan tahun untuk neraca.
+      - Menyiapkan bagian laporan keuangan tahunan dan catatan pendukungnya.
+      - Mencatat pengeluaran modal, termasuk memutuskan biaya digital mana yang dapat dikapitalisasi.
+      - Menyiapkan pengembalian pajak penjualan dan menasihati tentang perlakuan pajak kontrak.
+      - Menjawab pertanyaan auditor dan menyepakati tindakan atas temuan mereka.
+      - Menyelia dan mengembangkan akuntan pemagang.
+    qualifications:
+      - Kualifikasi akuntansi yang diakui, atau pengalaman yang setara.
+  - title: Akuntan keuangan senior
+    summary: Akuntan keuangan senior memimpin proses laporan keuangan tahunan dan pencatatan untuk bidang kompleks, seperti aset tak berwujud, sewa, dan pengaturan komputasi awan.
+    responsibilities:
+      - Merencanakan dan memimpin jadwal laporan keuangan tahunan dan audit eksternal.
+      - Menulis makalah akuntansi tentang pertimbangan kompleks, seperti mengkapitalisasi pengembangan perangkat lunak atau biaya konfigurasi komputasi awan.
+      - Mengelola akuntansi modal, termasuk masa pakai aset, penyusutan, dan penurunan nilai aset perangkat lunak.
+      - Mengelola peramalan kas dan pencairan pendanaan dalam batas kas.
+      - Menyiapkan pengembalian statutori dan pemberi dana, seperti konsolidasi dan pengembalian modal.
+      - Mengelola dan mengembangkan tim kecil akuntan keuangan.
+    qualifications:
+      - Kualifikasi akuntansi yang diakui, dengan pengalaman pascakualifikasi yang substansial, atau yang setara.
+    job_evaluation_notes: Sumber daya keuangan di tingkat 4 karena pekerjaan ini mengelola posisi kas dan akuntansi modal organisasi.
+  - title: Manajer akuntansi keuangan
+    summary: Manajer akuntansi keuangan menjalankan akuntansi keuangan, perbendaharaan, dan pajak organisasi, dan memastikan pengendalian dan tindakan audit tersedia.
+    responsibilities:
+      - Mengelola fungsi akuntansi keuangan, perbendaharaan, dan pajak.
+      - Memiliki kebijakan akuntansi organisasi dan penerapannya pada jenis pengeluaran baru, seperti layanan komputasi awan dan data.
+      - Mengelola rekening bank, pengaturan perbankan, dan perkiraan arus kas.
+      - Mengelola kepatuhan pajak dan risiko pajak, termasuk pada kontrak teknologi dan layanan bersama.
+      - Memimpin tanggapan atas temuan audit internal dan eksternal tentang akuntansi keuangan dan pengendalian.
+      - Mengelola secara langsung akuntan keuangan dan staf perbendaharaan.
+    qualifications:
+      - Kualifikasi akuntansi yang diakui, dengan pengalaman pascakualifikasi yang luas.
+    job_evaluation_notes: Sumber daya keuangan di tingkat 5 karena pekerjaan ini mengelola perbankan, kas, dan aset organisasi di semua layanan.
+  - title: Kepala akun keuangan
+    summary: Kepala akun keuangan memimpin pelaporan statutori, pengendalian keuangan, perbendaharaan, dan pajak organisasi, dan menjadi kontak utama bagi auditor eksternal.
+    responsibilities:
+      - Memimpin penyusunan laporan dan akun tahunan, dan menyajikannya kepada komite audit.
+      - Menasihati direktur dan komite audit tentang pertimbangan akuntansi yang signifikan dan standar baru.
+      - Memiliki aturan keuangan, prosedur keuangan, dan skema pendelegasian wewenang.
+      - Memimpin hubungan dengan auditor eksternal dan badan pengawas tentang pelaporan keuangan.
+      - Menetapkan kebijakan perbendaharaan dan pajak, dan mengelola risiko keuangan.
+      - Memimpin dan mengembangkan tim akuntansi keuangan, perbendaharaan, dan transaksional.
+    qualifications:
+      - Kualifikasi akuntansi yang diakui, dengan pengalaman pascakualifikasi yang luas, termasuk memimpin pelaporan statutori.

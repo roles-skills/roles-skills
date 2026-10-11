@@ -1,0 +1,29 @@
+summary: >
+  Manajer masalah menemukan dan memperbaiki akar penyebab insiden, agar gangguan tidak terulang lagi. Mereka menganalisis data insiden, menjalankan penyelidikan akar penyebab, mencatat kesalahan yang diketahui dan jalan pintasnya, dan melacak perbaikan bersama tim teknis dan pemasok. Dalam layanan kesehatan, gangguan berulang pada sistem klinis membuang waktu klinis, mengikis kepercayaan, dan dapat menimbulkan risiko keselamatan pasien, sehingga menghilangkannya penting.
+health_context:
+  - Gangguan kecil yang berulang, seperti masuk yang lambat atau pencetakan yang gagal di bangsal, menumpuk menjadi hilangnya waktu klinis, sehingga manajer masalah mencari pola selain kegagalan besar.
+  - Sebagian masalah menciptakan bahaya keselamatan klinis, seperti hasil pemeriksaan yang tidak sampai ke tenaga klinis yang tepat, dan dinilai bersama petugas keselamatan klinis.
+  - Penyelidikan akar penyebab sering melibatkan pemasok sistem klinis, dan dikelola melalui kontrak dan tingkat layanan.
+  - Jalan pintas untuk sistem klinis harus aman dan dijelaskan dengan jelas kepada staf klinis.
+levels:
+  - title: Analis masalah
+    responsibilities:
+      - Menganalisis data insiden untuk menemukan gangguan berulang dan tren di seluruh layanan klinis dan korporat.
+      - Mencatat masalah, kesalahan yang diketahui, dan jalan pintas dalam perangkat manajemen layanan.
+      - Mendukung penyelidikan akar penyebab dengan mengumpulkan log, lini masa, dan bukti lain.
+      - Melacak tindakan bersama tim teknis dan pemasok hingga perbaikan diterapkan.
+      - Memeriksa bahwa jalan pintas untuk sistem klinis aman dan dijelaskan dengan jelas kepada pengguna.
+    qualifications:
+      - Pengalaman dalam dukungan atau operasi TI.
+      - Kualifikasi dasar manajemen layanan TI, atau pengalaman yang setara.
+  - title: Manajer masalah
+    responsibilities:
+      - Menjalankan proses manajemen masalah di seluruh layanan organisasi.
+      - Memimpin analisis akar penyebab setelah insiden besar dan untuk gangguan yang berulang, memakai teknik terstruktur.
+      - Memprioritaskan masalah menurut dampaknya pada perawatan pasien, waktu staf, dan risiko layanan.
+      - Menilai masalah yang dapat menciptakan bahaya keselamatan pasien bersama petugas keselamatan klinis.
+      - Meminta pertanggungjawaban tim teknis dan pemasok atas perbaikan permanen, dan melaporkan kemajuan kepada pimpinan layanan.
+      - Bekerja dengan manajer insiden besar untuk memastikan pelajaran dari insiden menghasilkan perubahan.
+    qualifications:
+      - Pengalaman yang substansial dalam manajemen masalah atau insiden, pada tingkat yang setara dengan gelar sarjana.
+      - Kualifikasi menengah manajemen layanan TI, atau pengalaman yang setara.

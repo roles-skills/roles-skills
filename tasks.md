@@ -145,6 +145,8 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Native speaker review of bn-001
 - [x] ru-001 (Русский, Russian): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of ru-001
+- [x] id-001 (Bahasa Indonesia, Indonesian): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of id-001
 - [ ] Native speaker review of cy-gb
 - [ ] Next locales, in the order in `spec/locales/locales-by-priority.md`
 

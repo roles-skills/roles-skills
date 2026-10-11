@@ -1,0 +1,48 @@
+summary: >
+  Manajer layanan TI memastikan layanan digital organisasi disampaikan sesuai tingkat yang disepakati dan terus membaik. Mereka mendefinisikan tingkat layanan, mengelola katalog layanan, melaporkan kinerja, dan mengoordinasikan tim dan pemasok yang menjalankan setiap layanan. Dalam layanan kesehatan, mereka mengubah apa yang dibutuhkan layanan klinis, seperti ketersediaan sepanjang waktu, menjadi target layanan dan pengaturan dukungan.
+health_context:
+  - Tingkat layanan untuk sistem klinis mencerminkan risiko klinis, sehingga target untuk rekam pasien elektronik atau peresepan berbeda dari sistem korporat.
+  - Layanan sering disediakan oleh campuran tim internal, pemasok, dan layanan yang dibagi dengan organisasi mitra, sehingga manajer layanan berkoordinasi melintasi batas organisasi.
+  - Kesinambungan bisnis klinis bergantung pada TI, sehingga manajer layanan bekerja dengan pimpinan klinis dan perencanaan darurat pada rencana henti dan kesinambungan.
+  - Staf klinis memiliki sedikit waktu untuk melaporkan masalah, sehingga manajer layanan memakai pemantauan, data meja layanan, dan umpan balik klinis untuk menemukan masalah lebih dini.
+levels:
+  - title: Analis layanan TI
+    responsibilities:
+      - Menanggapi, mendokumentasikan, dan menyelesaikan insiden dan permintaan dalam tingkat layanan yang disepakati.
+      - Menghasilkan laporan layanan berkala, seperti volume tiket, waktu respons, dan ketersediaan sistem klinis.
+      - Memeriksa bahwa entri katalog layanan dan artikel pengetahuan akurat dan mutakhir.
+      - Mencari pola dalam insiden dan menyarankan perbaikan.
+      - Mengikuti aturan tata kelola informasi saat menangani data tiket dan layanan.
+    qualifications:
+      - Kualifikasi dasar manajemen layanan TI, kualifikasi tingkat 3 di bidang TI, atau pengalaman yang setara.
+  - title: Manajer layanan TI
+    responsibilities:
+      - Mendefinisikan dan menyepakati tingkat layanan untuk layanan klinis dan korporat, berdasarkan risiko klinis dan kebutuhan bisnis.
+      - Mengelola pengaturan dukungan untuk portofolio layanan, termasuk pemasok dan layanan bersama.
+      - Melaporkan kinerja layanan kepada pemilik layanan dan pimpinan klinis, dan menyepakati tindakan perbaikan.
+      - Memastikan setiap layanan memiliki pengaturan kesinambungan bisnis dan henti yang teruji.
+      - Menjaga katalog layanan tetap mutakhir, dan memastikan staf diberi tahu tentang perubahan pada layanan mereka.
+      - Menjalankan program perbaikan layanan berkelanjutan untuk layanan Anda.
+    qualifications:
+      - Pengalaman mengelola layanan TI sesuai tingkat layanan yang disepakati.
+      - Kualifikasi menengah manajemen layanan TI, atau pengalaman yang setara.
+  - title: Manajer layanan TI senior
+    responsibilities:
+      - Memimpin manajemen layanan di beberapa platform dan saluran, dan meningkatkan kematangan proses manajemen layanan.
+      - Menyepakati tingkat layanan dan ketentuan kontrak dengan pemasok sistem klinis utama, dan meminta pertanggungjawaban mereka.
+      - Menyajikan kinerja dan risiko layanan kepada pimpinan klinis dan operasional senior.
+      - Memimpin tinjauan layanan setelah insiden besar, dan melacak tindakan perbaikan hingga selesai.
+      - Menyelaraskan rencana kesinambungan TI dengan rencana kesinambungan bisnis klinis, bekerja dengan perencanaan darurat dan pimpinan klinis.
+      - Memimpin dan mengembangkan manajer layanan TI.
+    qualifications:
+      - Pengalaman yang substansial dalam manajemen layanan TI di beberapa layanan.
+      - Kualifikasi lanjutan manajemen layanan TI, atau pengalaman yang setara.
+  - title: Kepala manajemen layanan TI
+    responsibilities:
+      - Menetapkan visi, strategi, dan model operasi manajemen layanan TI di seluruh organisasi.
+      - Memastikan setiap proses manajemen layanan memiliki pemilik dan terus matang.
+      - Mewakili manajemen layanan TI pada tingkat senior, termasuk di rapat tata kelola klinis dan operasional.
+      - Bertindak sebagai titik eskalasi senior bagi pimpinan layanan klinis dan korporat.
+      - Memastikan fungsi manajemen layanan memiliki orang, perangkat, dan anggaran yang dibutuhkan.
+    qualifications:
+      - Pengalaman luas dalam memimpin manajemen layanan TI di organisasi yang besar atau kompleks.

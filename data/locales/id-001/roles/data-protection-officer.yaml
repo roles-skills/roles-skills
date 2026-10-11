@@ -1,0 +1,46 @@
+summary: >
+  Petugas pelindungan data (DPO) memantau secara independen kepatuhan organisasi terhadap hukum pelindungan data, menasihati tentang kewajibannya, dan menjadi titik kontak bagi regulator dan bagi orang yang datanya dipegang organisasi. Dalam organisasi layanan kesehatan digital, DPO memberi nasihat ahli tentang penggunaan data kesehatan yang sah, adil, dan transparan dalam produk, analitik, penelitian, dan pembagian data.
+health_context:
+  - Hukum pelindungan data memberi DPO posisi yang dilindungi dan independen, melapor kepada tingkat manajemen tertinggi, sehingga peran ini harus bebas dari benturan kepentingan.
+  - Hukum pelindungan data memberi data kesehatan pelindungan tambahan, dan sebagian besarnya juga tunduk pada kewajiban kerahasiaan, sehingga DPO menasihati keduanya.
+  - Pemrosesan data kesehatan skala besar, penautan data, dan AI sering memerlukan penilaian dampak pelindungan data dan, kadang-kadang, konsultasi awal dengan regulator.
+  - Pasien dan masyarakat mengharapkan transparansi, sehingga DPO membantu organisasi menjelaskan dengan jelas bagaimana data mereka dipakai.
+levels:
+  - title: Wakil petugas pelindungan data
+    summary: Mendukung DPO dalam memantau kepatuhan dan memberi nasihat, memimpin penanganan kasus yang kompleks, dan menjadi wakil DPO.
+    responsibilities:
+      - Menasihati tim tentang hukum pelindungan data, termasuk dasar hukum, transparansi, dan hak individu.
+      - Meninjau penilaian dampak pelindungan data berisiko tinggi dan menyusun draf nasihat DPO.
+      - Memantau kepatuhan melalui audit, pemeriksaan acak, dan peninjauan catatan pemrosesan.
+      - Memimpin penyelidikan pelanggaran data serius dan menyiapkan pemberitahuan kepada regulator.
+      - Menangani keluhan dan permintaan kompleks dari individu tentang data mereka.
+      - Mewakili DPO di hadapan pimpinan senior dan regulator.
+    qualifications:
+      - Kualifikasi profesional yang diakui dalam pelindungan data, atau pengalaman yang setara.
+      - Pengalaman yang substansial dalam pelindungan data di bidang kesehatan atau perawatan.
+  - title: Petugas pelindungan data
+    summary: Petugas pelindungan data statutori organisasi, yang secara independen memantau kepatuhan, menasihati pimpinan senior dan dewan, dan bertindak sebagai titik kontak bagi regulator dan masyarakat.
+    responsibilities:
+      - Memantau kepatuhan organisasi terhadap hukum pelindungan data dan kebijakannya sendiri, secara independen.
+      - Menasihati dewan, pimpinan senior, dan tim tentang kewajiban pelindungan data mereka.
+      - Memberi nasihat resmi tentang penilaian dampak pelindungan data berisiko tinggi, dan memutuskan kapan berkonsultasi dengan regulator.
+      - Bertindak sebagai titik kontak bagi regulator dan bagi orang yang datanya dipegang organisasi.
+      - Mengawasi keputusan pemberitahuan pelanggaran dan tanggapan organisasi atas pertanyaan regulator.
+      - Melaporkan kepatuhan dan risiko pelindungan data kepada dewan dan komitenya.
+    qualifications:
+      - Kualifikasi profesional yang diakui dalam pelindungan data, atau pengalaman yang setara.
+      - Pengalaman luas dalam hukum dan praktik pelindungan data, termasuk di bidang kesehatan atau perawatan.
+    job_evaluation_notes: Kebebasan bertindak dinilai di tingkat 6 karena hukum pelindungan data mewajibkan DPO bertindak independen dan menafsirkan hukum dan kebijakan tanpa instruksi.
+  - title: Petugas pelindungan data senior
+    summary: Petugas pelindungan data untuk organisasi besar atau sekelompok organisasi yang berbagi DPO, memimpin fungsi pelindungan data dan menetapkan standarnya.
+    responsibilities:
+      - Bertindak sebagai DPO statutori untuk organisasi besar atau sekelompok organisasi perawatan.
+      - Memimpin fungsi pelindungan data, stafnya, dan program kerjanya.
+      - Menetapkan kerangka dan standar pelindungan data di seluruh organisasi atau kelompok.
+      - Memberi nasihat akhir tentang pemrosesan berisiko tertinggi, seperti penautan data skala besar dan AI.
+      - Memimpin keterlibatan dengan regulator, mitra, dan kelompok pasien dan masyarakat tentang penggunaan data.
+      - Melapor kepada dewan tentang risiko pelindungan data, kepatuhan, dan kepercayaan publik.
+    qualifications:
+      - Kualifikasi profesional yang diakui dalam pelindungan data, atau pengalaman yang setara.
+      - Pengalaman luas sebagai petugas pelindungan data di organisasi besar atau kompleks.
+    job_evaluation_notes: Sumber daya informasi dinilai di tingkat 6 karena pekerjaan ini mengawasi bagaimana data pribadi diproses di seluruh organisasi atau kelompok.

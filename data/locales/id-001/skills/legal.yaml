@@ -1,0 +1,237 @@
+# Terjemahan bahasa Indonesia dari data/skills/legal.yaml. Kuncinya adalah id keterampilan bahasa Inggris.
+legal-legal-research:
+  name: Riset hukum
+  description: Menemukan, membaca, dan merangkum peraturan perundang-undangan, putusan pengadilan, pedoman, dan preseden untuk menjawab suatu pertanyaan hukum.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menemukan peraturan perundang-undangan, pedoman, dan dokumen preseden menggunakan basis data hukum dan pengetahuan organisasi
+      - menggunakan istilah hukum dengan benar
+    working: |
+      Anda dapat:
+      - meneliti pertanyaan hukum yang terdefinisi dan merangkum sumbernya dengan jelas
+      - memeriksa bahwa sumber mutakhir dan berwibawa
+      - menjaga pustaka preseden dan pengetahuan tetap mutakhir
+    practitioner: |
+      Anda dapat:
+      - meneliti pertanyaan yang kompleks atau baru, seperti bagaimana hukum yang ada berlaku pada teknologi baru
+      - menganalisis sumber yang bertentangan dan mencapai pandangan yang beralasan
+      - melacak perubahan hukum dan pedoman serta menjelaskan dampaknya bagi organisasi
+    expert: |
+      Anda dapat:
+      - memimpin riset atas pertanyaan paling kompleks dan berisiko tinggi bagi organisasi
+      - mengantisipasi perkembangan hukum dan menyiapkan organisasi menghadapinya
+      - menyumbang pada konsultasi tentang hukum dan pedoman yang memengaruhi kesehatan dan perawatan digital
+legal-contract-drafting-and-review:
+  name: Penyusunan dan peninjauan kontrak
+  description: Menyusun, meninjau, dan menegosiasikan kontrak dan perjanjian, seperti perjanjian teknologi, lisensi perangkat lunak, komputasi awan, layanan, dan pemrosesan data.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bagian utama sebuah kontrak, seperti para pihak, jangka waktu, pembayaran, tanggung jawab, dan pengakhiran
+      - menyiapkan dokumen standar dari templat yang disetujui
+    working: |
+      Anda dapat:
+      - meninjau perjanjian rutin, seperti perjanjian kerahasiaan dan perjanjian layanan sederhana, terhadap standar organisasi
+      - menandai kontrak dan menjelaskan perubahannya
+      - mengenali klausul yang perlu ditinjau pengacara, seperti tanggung jawab tak terbatas atau perpanjangan otomatis
+    practitioner: |
+      Anda dapat:
+      - menyusun dan menegosiasikan perjanjian yang kompleks, seperti lisensi perangkat lunak, hosting komputasi awan, integrasi sistem, dan perjanjian pemrosesan data
+      - menasihati tentang pembagian risiko, termasuk batas tanggung jawab, tingkat layanan, pengakhiran, dan escrow
+      - memastikan kontrak melindungi data pasien, kesinambungan layanan, dan hak organisasi atas perangkat lunak dan datanya
+      - menulis dan memelihara templat dan panduan kontrak
+    expert: |
+      Anda dapat:
+      - menetapkan standar kontrak dan posisi risiko organisasi
+      - memimpin negosiasi perjanjian yang paling bernilai atau berisiko tinggi
+      - menasihati pimpinan senior tentang pengaturan komersial strategis, seperti kemitraan dan usaha patungan
+legal-legal-advice:
+  name: Nasihat hukum
+  description: Memberi nasihat hukum yang jelas, praktis, dan akurat yang membantu rekan kerja membuat keputusan yang sah dan mengelola risiko hukum.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan kapan rekan kerja memerlukan nasihat hukum dan cara memperolehnya
+      - menerima instruksi yang jelas dan mencatat fakta suatu perkara
+    working: |
+      Anda dapat:
+      - menyiapkan draf nasihat untuk perkara rutin agar ditinjau pengacara
+      - menjawab pertanyaan sederhana menggunakan pedoman yang disetujui
+      - mengidentifikasi isu hukum dalam sekumpulan fakta
+    practitioner: |
+      Anda dapat:
+      - memberi nasihat hukum yang independen di bidang praktik Anda
+      - menjelaskan risiko hukum dalam bahasa sederhana dan merekomendasikan pilihan praktis
+      - menasihati keputusan yang berakibat hukum, seperti penetapan pemenang kontrak, pembagian data, dan perubahan layanan
+      - memutuskan kapan menugaskan pengacara atau penasihat dari luar
+    expert: |
+      Anda dapat:
+      - menasihati dewan dan eksekutif tentang risiko hukum paling signifikan bagi organisasi
+      - memberi nasihat definitif tentang perkara yang baru, diperdebatkan, atau bernilai tinggi
+      - menetapkan selera organisasi terhadap risiko hukum
+      - menjamin mutu nasihat hukum di seluruh organisasi, termasuk nasihat dari luar
+legal-litigation-and-disputes:
+  name: Litigasi dan penyelesaian sengketa
+  description: Mencegah, mengelola, dan menyelesaikan sengketa dan klaim, termasuk sengketa kontrak, gugatan ketenagakerjaan, dan penghubung untuk klaim kelalaian klinis.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan tahapan utama sebuah klaim atau sengketa
+      - mencatat klaim dan melacak tenggat secara akurat
+    working: |
+      Anda dapat:
+      - mengumpulkan dan menata dokumen dan bukti untuk suatu perkara
+      - menyiapkan kronologi, berkas, dan draf pernyataan saksi
+      - berhubungan dengan pengacara luar, perusahaan asuransi, atau skema ganti rugi untuk perkara rutin
+    practitioner: |
+      Anda dapat:
+      - mengelola sejumlah sengketa dan klaim dari pemberitahuan pertama hingga penyelesaian atau persidangan
+      - menilai kelayakan dan nilai klaim serta merekomendasikan strategi
+      - menegosiasikan penyelesaian dan menggunakan penyelesaian sengketa alternatif
+      - memastikan pelajaran dari klaim masuk ke perbaikan keselamatan, kontrak, dan layanan
+    expert: |
+      Anda dapat:
+      - memimpin sengketa paling signifikan atau paling disorot yang dihadapi organisasi
+      - menetapkan pendekatan organisasi terhadap litigasi, penyelesaian, dan pelaporan klaim
+      - menasihati dewan tentang kewajiban kontinjen dan risiko reputasi
+legal-information-and-data-law:
+  name: Hukum informasi dan data
+  description: Menerapkan hukum pelindungan data, kerahasiaan, keterbukaan informasi, dan keamanan siber pada data kesehatan dan perawatan serta layanan digital.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan prinsip dasar pelindungan data dan kerahasiaan
+      - mengenali permintaan informasi dan pelanggaran data serta meneruskannya dengan benar
+    working: |
+      Anda dapat:
+      - meninjau perjanjian pembagian data dan pemrosesan data terhadap templat
+      - mendukung tanggapan atas permintaan informasi dan permintaan hak subjek data
+      - menjelaskan dasar hukum penggunaan data kesehatan dalam situasi umum
+    practitioner: |
+      Anda dapat:
+      - menasihati tentang pelindungan data, kewajiban kerahasiaan, dan hukum akses informasi untuk layanan digital
+      - menyusun dan menegosiasikan perjanjian pembagian data dan ketentuan pemrosesan data, termasuk transfer internasional
+      - menasihati tentang penilaian dampak pelindungan data untuk teknologi baru, seperti AI dan platform analitik
+      - menasihati tentang pelanggaran data, pertanyaan regulator, dan keluhan
+    expert: |
+      Anda dapat:
+      - menetapkan posisi hukum organisasi atas penggunaan data kesehatan dan perawatan
+      - memimpin penggunaan data yang berisiko tinggi atau baru, seperti penelitian, platform data, dan AI
+      - mewakili organisasi di hadapan regulator dalam hukum informasi
+legal-legal-administration:
+  name: Administrasi hukum
+  description: Menjalankan proses administrasi tim hukum, termasuk pengelolaan perkara, pengendalian dokumen, arsip, tenggat, dan penagihan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - membuka, memperbarui, dan menutup perkara dalam sistem pengelolaan perkara
+      - mengarsipkan dan mengambil dokumen hukum dengan aman
+      - menjaga kerahasiaan informasi hukum dan pribadi
+    working: |
+      Anda dapat:
+      - mengelola agenda, tenggat, dan tanggal penting untuk sebuah tim
+      - menyiapkan dan memformat dokumen hukum, berkas, dan paket penandatanganan
+      - memeriksa dan memproses faktur pengacara luar
+      - mengelola register kontrak dan akta
+    practitioner: |
+      Anda dapat:
+      - menjalankan administrasi tim hukum dan memperbaiki prosesnya
+      - melaporkan beban kerja, pengeluaran untuk pengacara luar, dan waktu penyelesaian
+      - mengadministrasikan teknologi hukum, seperti pengelolaan perkara dan perangkat tanda tangan elektronik
+    expert: |
+      Anda dapat:
+      - merancang model operasi hukum untuk organisasi
+      - memimpin pemilihan dan penggunaan teknologi hukum
+      - menetapkan standar layanan dan ukuran kinerja untuk layanan hukum
+legal-employment-law:
+  name: Hukum ketenagakerjaan
+  description: Menerapkan hukum ketenagakerjaan pada kebijakan SDM, kontrak, program perubahan, dan sengketa ketenagakerjaan organisasi.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan hak ketenagakerjaan utama para staf
+      - mengenali isu ketenagakerjaan yang memerlukan nasihat hukum
+    working: |
+      Anda dapat:
+      - membantu menyiapkan dokumen untuk gugatan dan sidang ketenagakerjaan
+      - meninjau kontrak kerja dan kebijakan terhadap templat
+    practitioner: |
+      Anda dapat:
+      - menasihati tentang masalah ketenagakerjaan, seperti pemecatan, diskriminasi, pengalihan staf, dan restrukturisasi
+      - mengelola gugatan ketenagakerjaan dan menegosiasikan perjanjian penyelesaian
+      - menasihati tentang penggunaan kontraktor dan status ketenagakerjaan spesialis digital
+    expert: |
+      Anda dapat:
+      - menasihati dewan tentang perubahan tenaga kerja besar dan risiko hukumnya
+      - memimpin sengketa ketenagakerjaan yang disorot atau kompleks
+      - membentuk kebijakan SDM agar memenuhi kewajiban hukum dan praktik yang baik
+legal-intellectual-property:
+  name: Kekayaan intelektual
+  description: Melindungi dan menggunakan kekayaan intelektual dalam perangkat lunak, data, konten, dan penemuan, termasuk hak cipta, lisensi, sumber terbuka, dan merek dagang.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bahwa perangkat lunak, data, dan konten dilindungi oleh hak kekayaan intelektual
+      - mengenali kapan sebuah kontrak atau proyek memunculkan pertanyaan kepemilikan
+    working: |
+      Anda dapat:
+      - memeriksa klausul kekayaan intelektual dalam perjanjian rutin
+      - menyimpan catatan lisensi dan hak terdaftar
+      - menjelaskan jenis utama lisensi sumber terbuka dan ketentuannya
+    practitioner: |
+      Anda dapat:
+      - menasihati tentang siapa yang memiliki perangkat lunak, data, dan konten yang dibuat oleh staf, pemasok, dan mitra
+      - menyusun lisensi dan ketentuan kekayaan intelektual, termasuk perilisan kode organisasi sebagai sumber terbuka
+      - menasihati tentang pemanfaatan komersial data dan perangkat lunak organisasi, dan tentang pembagian manfaat
+    expert: |
+      Anda dapat:
+      - menetapkan kebijakan kekayaan intelektual dan sumber terbuka organisasi
+      - memimpin komersialisasi dan kemitraan yang melibatkan data dan perangkat lunak organisasi
+      - menyelesaikan sengketa kekayaan intelektual yang signifikan
+legal-procurement-law:
+  name: Hukum pengadaan publik
+  description: Menerapkan aturan pengadaan publik pada pembelian barang, jasa, dan teknologi, dari memilih jalur ke pasar hingga penetapan kontrak dan sanggahan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa badan publik harus mengikuti aturan pengadaan
+      - mengenali kapan kegiatan pembelian memerlukan pengadaan atau nasihat hukum
+    working: |
+      Anda dapat:
+      - memeriksa dokumen tender untuk konsistensi dan kelengkapan
+      - mendukung pencatatan yang diperlukan untuk menunjukkan proses yang adil dan transparan
+    practitioner: |
+      Anda dapat:
+      - menasihati tentang jalur ke pasar, termasuk kerangka kerja, penunjukan langsung, dan prosedur kompetitif
+      - menasihati tentang evaluasi, keputusan penetapan, dan perubahan kontrak setelah penetapan
+      - menanggapi sanggahan dan keluhan pemasok
+      - menasihati tentang pengendalian subsidi dan risiko persaingan dalam kemitraan
+    expert: |
+      Anda dapat:
+      - menetapkan pendekatan organisasi terhadap risiko hukum pengadaan
+      - memimpin pengadaan bernilai tinggi atau baru, seperti kemitraan inovasi
+      - membela sanggahan pengadaan yang signifikan
+legal-health-and-care-law:
+  name: Hukum kesehatan dan perawatan
+  description: Menerapkan hukum yang mengatur layanan kesehatan dan perawatan, termasuk persetujuan, kapasitas, kelalaian klinis, regulasi layanan dan produk, serta kewajiban statutori organisasi.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan kewajiban dan kewenangan statutori utama organisasi
+      - mengenali perkara yang melibatkan keselamatan pasien, persetujuan, atau kelalaian klinis
+    working: |
+      Anda dapat:
+      - mendukung pekerjaan hukum atas insiden, pemeriksaan kematian, atau klaim klinis
+      - menjelaskan kerangka regulasi yang berlaku bagi layanan organisasi
+    practitioner: |
+      Anda dapat:
+      - menasihati tentang kewenangan dan kewajiban organisasi, termasuk kapan ia dapat menyediakan atau memesan suatu layanan
+      - menasihati tentang regulasi produk kesehatan digital, seperti perangkat lunak sebagai alat kesehatan
+      - berhubungan dengan skema kelalaian klinis dan pengacara luar tentang klaim yang melibatkan layanan digital
+      - menasihati tentang persetujuan, kapasitas, dan hak pasien dalam layanan digital
+    expert: |
+      Anda dapat:
+      - menasihati dewan tentang kewajiban statutori dan tata kelola organisasi
+      - memimpin pekerjaan hukum untuk penyelidikan publik, peninjauan yudisial, dan insiden besar
+      - membentuk tanggapan organisasi terhadap hukum kesehatan dan perawatan yang baru

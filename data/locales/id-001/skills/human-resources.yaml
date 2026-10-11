@@ -1,0 +1,298 @@
+# Terjemahan bahasa Indonesia dari data/skills/human-resources.yaml. Kuncinya adalah id keterampilan bahasa Inggris.
+hr-hr-administration:
+  name: Administrasi SDM
+  description: Menjalankan proses administrasi siklus ketenagakerjaan secara akurat dan rahasia, dari kontrak dan staf baru hingga perubahan, catatan ketidakhadiran, dan staf yang keluar.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mengikuti prosedur organisasi untuk staf baru, perubahan, dan staf yang keluar
+      - menjaga kerahasiaan dan kemutakhiran catatan pribadi
+    working: |
+      Anda dapat:
+      - menyiapkan kontrak, surat perubahan, dan pemeriksaan ketenagakerjaan secara akurat
+      - memproses perubahan dalam sistem SDM dan penggajian sesuai tenggat
+      - menjawab pertanyaan rutin dari manajer dan staf tentang proses SDM
+    practitioner: |
+      Anda dapat:
+      - menjalankan layanan administrasi SDM, memeriksa mutu, dan memenuhi standar layanan
+      - memperbaiki proses dan templat, dan mengotomatiskan langkah rutin jika bisa
+      - menyelesaikan kasus yang kompleks atau tidak biasa, seperti kelebihan pembayaran atau kesalahan kontrak
+    expert: |
+      Anda dapat:
+      - merancang model operasi SDM dan standar layanan organisasi
+      - memimpin peralihan ke proses SDM digital dan layanan mandiri
+      - menetapkan pengendalian yang menjaga data SDM dan penggajian tetap akurat dan sah
+hr-employment-policy:
+  name: Hukum ketenagakerjaan dan kebijakan SDM
+  description: Menerapkan hukum ketenagakerjaan serta menulis, menafsirkan, dan meninjau kebijakan SDM organisasi agar staf diperlakukan secara sah, adil, dan konsisten.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan kebijakan SDM utama dan di mana menemukannya
+      - mengenali kapan sebuah pertanyaan memerlukan nasihat dari penasihat SDM
+    working: |
+      Anda dapat:
+      - menerapkan kebijakan SDM pada kasus rutin dan menjelaskannya kepada manajer
+      - mengidentifikasi prinsip hukum ketenagakerjaan di balik sebuah kebijakan
+      - menyimpan catatan kebijakan dan melacak tanggal tinjauan kebijakan
+    practitioner: |
+      Anda dapat:
+      - menafsirkan hukum dan kebijakan ketenagakerjaan untuk kasus yang kompleks dan menasihati tentang risiko
+      - menyusun dan meninjau kebijakan SDM, dengan penilaian dampak kesetaraan
+      - berkonsultasi tentang perubahan kebijakan dengan perwakilan staf
+    expert: |
+      Anda dapat:
+      - menetapkan kerangka kebijakan SDM dan pendekatan organisasi terhadap risiko hukum
+      - mengantisipasi perubahan hukum ketenagakerjaan dan merencanakan tanggapan organisasi
+      - menasihati dewan tentang risiko dan tanggung jawab ketenagakerjaan
+hr-employee-relations:
+  name: Penanganan kasus hubungan karyawan
+  description: Mengelola kasus hubungan karyawan yang formal dan informal, seperti perilaku, kemampuan, keluhan, kehadiran, dan martabat di tempat kerja, secara adil dan sesuai kebijakan dan hukum ketenagakerjaan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan tahapan utama prosedur perilaku, kemampuan, keluhan, dan kehadiran
+      - membuat catatan yang akurat pada rapat formal dan menjaga kerahasiaan catatan kasus
+    working: |
+      Anda dapat:
+      - menasihati manajer tentang kasus sederhana dan langkah berikutnya dalam suatu prosedur
+      - mendukung penyelidikan, menyiapkan berkas kasus, dan mengatur sidang
+      - bekerja secara konstruktif dengan perwakilan staf pada kasus individu
+    practitioner: |
+      Anda dapat:
+      - mengelola sejumlah kasus yang kompleks, menasihati panel sidang tentang hasil yang adil
+      - melakukan atau memimpin penyelidikan, termasuk yang terkait dengan insiden atau perlindungan
+      - menggunakan penyelesaian dini dan mediasi untuk menyelesaikan sengketa sebelum meningkat
+      - mengenali tren dalam kasus dan bertindak atas penyebabnya
+    expert: |
+      Anda dapat:
+      - memimpin pendekatan organisasi terhadap hubungan karyawan dan kerja kemitraan
+      - menangani kasus yang paling sensitif atau berisiko tinggi, termasuk gugatan ketenagakerjaan
+      - menegosiasikan perjanjian bersama dan menyelesaikan sengketa kolektif
+hr-recruitment-and-selection:
+  name: Rekrutmen dan seleksi
+  description: Menarik, menilai, dan mengangkat orang secara adil dan efisien, dari perancangan jabatan dan pengiklanan hingga penyaringan, penilaian, penawaran, dan pemeriksaan sebelum bekerja.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan tahapan proses rekrutmen organisasi
+      - mengikuti aturan rekrutmen yang adil dan aman, termasuk pemeriksaan sebelum bekerja
+    working: |
+      Anda dapat:
+      - menjalankan kampanye rekrutmen melalui sistem pelacakan pelamar
+      - mendukung manajer dalam iklan, penyaringan, dan pengaturan wawancara
+      - menyelesaikan pemeriksaan sebelum bekerja dan membuat penawaran bersyarat
+    practitioner: |
+      Anda dapat:
+      - menasihati manajer tentang perancangan jabatan, metode seleksi, dan penilaian yang adil
+      - merancang penilaian untuk peran spesialis, seperti latihan teknis untuk peran digital
+      - menganalisis data rekrutmen untuk memperbaiki waktu perekrutan, mutu, dan keberagaman
+      - mengelola pengalaman kandidat dan merek pemberi kerja
+    expert: |
+      Anda dapat:
+      - menetapkan strategi rekrutmen dan standar layanan organisasi
+      - memimpin pemilihan dan penggunaan teknologi dan agen rekrutmen
+      - memastikan rekrutmen inklusif dan sah di seluruh organisasi
+hr-talent-attraction:
+  name: Menarik dan mencari talenta
+  description: Menemukan dan melibatkan orang dengan keterampilan langka, seperti spesialis digital, data, dan teknologi, melalui merek pemberi kerja, pencarian langsung, jaringan, dan jalur awal karier.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan keterampilan mana yang sulit direkrut dan mengapa
+      - membagikan iklan lowongan melalui kanal dan jaringan organisasi
+    working: |
+      Anda dapat:
+      - menulis iklan yang menarik bagi kandidat spesialis dan memakai bahasa sederhana
+      - mencari kandidat di papan lowongan, jaringan profesional, dan kolam talenta
+      - mendukung acara, seperti bursa karier dan hari terbuka
+    practitioner: |
+      Anda dapat:
+      - membangun jalur talenta dan komunitas untuk peran digital dan data yang langka
+      - membentuk proposisi nilai pemberi kerja bersama tim perekrut
+      - memakai data pasar tentang gaji dan pasokan untuk menasihati tentang peran yang sulit diisi
+      - mengembangkan jalur awal karier, seperti magang dan program lulusan
+    expert: |
+      Anda dapat:
+      - menetapkan strategi menarik talenta dan merek pemberi kerja organisasi
+      - bekerja dengan mitra, seperti universitas dan pemberi kerja lain, untuk menambah pasokan talenta
+      - memimpin keputusan tentang gaji premium, penggunaan agen, dan model pencarian alternatif
+hr-workforce-planning:
+  name: Perencanaan tenaga kerja
+  description: Memperkirakan tenaga kerja yang dibutuhkan organisasi, membandingkannya dengan tenaga kerja yang dimiliki, dan merencanakan cara menutup kesenjangan melalui rekrutmen, pengembangan, perancangan ulang, dan retensi.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa perencanaan tenaga kerja penting bagi layanan yang aman dan berkelanjutan
+      - menyediakan informasi formasi dan lowongan yang akurat
+    working: |
+      Anda dapat:
+      - mengumpulkan dan memeriksa data rencana tenaga kerja dari manajer
+      - memodelkan skenario sederhana, seperti tren pergantian dan lowongan
+    practitioner: |
+      Anda dapat:
+      - memimpin perencanaan tenaga kerja untuk sebuah direktorat, menghubungkannya dengan rencana layanan dan keuangan
+      - mengidentifikasi kesenjangan keterampilan dan merekomendasikan cara menutupnya
+      - merencanakan peran baru, jalur karier, dan campuran keterampilan
+    expert: |
+      Anda dapat:
+      - menetapkan strategi dan rencana jangka panjang tenaga kerja organisasi
+      - membuat pertukaran tenaga kerja antarlayanan bersama pimpinan keuangan dan layanan
+      - membentuk rencana tenaga kerja bersama mitra di seluruh sistem kesehatan dan perawatan
+hr-workforce-information:
+  name: Informasi tenaga kerja dan sistem SDM
+  description: Mengelola sistem dan data SDM dan tenaga kerja, serta mengubah data tenaga kerja menjadi laporan dan wawasan, seperti pergantian, ketidakhadiran, lowongan, keberagaman, dan analisis kesenjangan gaji.
+  levels:
+    awareness: |
+      Anda dapat:
+      - memasukkan data tenaga kerja secara akurat dalam sistem SDM
+      - menjelaskan mengapa data tenaga kerja harus akurat dan dijaga kerahasiaannya
+    working: |
+      Anda dapat:
+      - menjalankan laporan tenaga kerja standar dan memeriksa kesalahannya
+      - menjawab permintaan informasi rutin tentang tenaga kerja
+    practitioner: |
+      Anda dapat:
+      - menganalisis data tenaga kerja untuk menemukan tren dan menjelaskannya kepada manajer
+      - merancang dasbor dan laporan untuk indikator tenaga kerja
+      - menghasilkan pelaporan statutori dan kesetaraan, seperti analisis kesenjangan gaji
+    expert: |
+      Anda dapat:
+      - menetapkan strategi informasi tenaga kerja dan standar data organisasi
+      - memimpin pemilihan dan pengembangan sistem SDM
+      - menggunakan wawasan tenaga kerja untuk menginformasikan keputusan dewan
+hr-reward-and-job-evaluation:
+  name: Imbalan dan penilaian jabatan
+  description: Menerapkan aturan gaji dan imbalan, serta menilai jabatan secara konsisten terhadap skema penilaian jabatan untuk menempatkannya pada pita yang tepat.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bagaimana pita gaji, kenaikan bertahap, dan tunjangan bekerja
+      - menjelaskan bahwa jabatan ditempatkan dalam pita berdasarkan penilaian jabatan, bukan berdasarkan orang yang menjabatnya
+    working: |
+      Anda dapat:
+      - menerapkan aturan gaji, seperti gaji awal, perlindungan, dan tunjangan
+      - memeriksa kelengkapan uraian jabatan sebelum masuk ke penilaian
+      - ikut serta dalam panel penilaian jabatan sebagai anggota terlatih
+    practitioner: |
+      Anda dapat:
+      - memimpin panel penilaian jabatan dan pemeriksaan konsistensi
+      - menasihati tentang penempatan pita untuk peran baru dan yang berubah, termasuk peran digital dan data
+      - menasihati tentang premi rekrutmen dan retensi, menggunakan bukti pasar
+    expert: |
+      Anda dapat:
+      - menetapkan strategi imbalan organisasi dalam kerangka gaji yang disepakati
+      - menjamin integritas penilaian jabatan di seluruh organisasi
+      - memimpin tinjauan kesetaraan upah dan menindaklanjuti temuannya
+hr-learning-design-and-delivery:
+  name: Perancangan dan penyampaian pembelajaran
+  description: Menganalisis kebutuhan belajar, lalu merancang, menyampaikan, dan mengevaluasi pembelajaran secara tatap muka, daring, dan dalam alur kerja.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan perbedaan antara pelatihan, pembelajaran, dan pengembangan
+      - mendukung penyelenggaraan kursus dan menyimpan catatan pelatihan
+    working: |
+      Anda dapat:
+      - menyampaikan sesi pelatihan yang terdefinisi dengan baik secara tatap muka dan daring
+      - membangun e-learning sederhana dalam sistem manajemen pembelajaran
+      - mengumpulkan dan merangkum umpan balik peserta
+    practitioner: |
+      Anda dapat:
+      - menganalisis kebutuhan belajar dan merancang program campuran untuk memenuhinya
+      - menetapkan hasil belajar dan mengevaluasi dampaknya, bukan hanya kepuasan
+      - membuat pembelajaran dapat diakses dan inklusif bagi semua staf
+    expert: |
+      Anda dapat:
+      - menetapkan strategi dan standar pembelajaran organisasi
+      - memimpin tawaran pembelajaran, teknologinya, dan pendanaannya
+      - menunjukkan imbal hasil investasi organisasi dalam pembelajaran
+hr-skills-frameworks-and-career-pathways:
+  name: Kerangka keterampilan dan jalur karier
+  description: Menggunakan kerangka keterampilan dan peran, seperti acuan ini, UK GDaD PCF, dan ESCO, untuk menguraikan peran, menilai kesenjangan keterampilan, dan membangun jalur karier.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan apa itu kerangka keterampilan dan bagaimana ia menguraikan peran dan tingkat
+      - menemukan profil peran dan keterampilan untuk suatu jabatan dalam kerangka
+    working: |
+      Anda dapat:
+      - memetakan uraian jabatan ke peran, tingkat, dan keterampilan dalam kerangka
+      - mendukung staf dan manajer dengan penilaian mandiri keterampilan
+      - menjaga informasi jalur karier tetap mutakhir
+    practitioner: |
+      Anda dapat:
+      - menjalankan analisis kesenjangan keterampilan untuk sebuah tim atau profesi dan melaporkan hasilnya
+      - merancang jalur karier dan jalur pengembangan dengan memakai tingkat dalam kerangka
+      - memakai keterampilan dalam kerangka untuk menulis uraian jabatan dan penilaian yang konsisten
+    expert: |
+      Anda dapat:
+      - menetapkan cara organisasi memakai kerangka keterampilan di berbagai profesi
+      - memakai data keterampilan untuk menginformasikan strategi tenaga kerja, pembelajaran, dan imbalan
+      - menyumbang pada pengembangan kerangka bersama dengan organisasi lain
+hr-organisational-development:
+  name: Pengembangan organisasi
+  description: Memperbaiki cara kerja organisasi melalui budaya, kepemimpinan, keterlibatan, efektivitas tim, dan intervensi kesejahteraan berbasis bukti.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bagaimana budaya, kepemimpinan, dan keterlibatan memengaruhi staf dan perawatan pasien
+      - membantu menyelenggarakan survei staf dan acara mendengarkan
+    working: |
+      Anda dapat:
+      - memfasilitasi sesi dan lokakarya tim dengan perangkat standar
+      - menganalisis hasil survei staf untuk sebuah tim dan menyarankan tindakan
+    practitioner: |
+      Anda dapat:
+      - mendiagnosis masalah organisasi dan merancang intervensi untuk mengatasinya
+      - memimpin program pengembangan tim, pengembangan kepemimpinan, dan keterlibatan
+      - mengevaluasi dampak intervensi dengan bukti
+    expert: |
+      Anda dapat:
+      - menetapkan strategi pengembangan organisasi dan program budaya
+      - membimbing eksekutif dan memimpin perubahan budaya berskala besar
+      - menghubungkan ukuran budaya dan keterlibatan dengan mutu perawatan dan kinerja
+hr-organisational-change:
+  name: Perubahan organisasi dan konsultasi
+  description: Merencanakan dan mengelola perubahan struktur, peran, dan pola kerja, termasuk konsultasi formal, penempatan ulang, dan pemutusan hubungan kerja, sesuai kebijakan dan hukum ketenagakerjaan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan tahapan utama proses perubahan organisasi
+      - mendukung administrasi suatu perubahan, seperti surat dan rapat konsultasi
+    working: |
+      Anda dapat:
+      - mendukung manajer menyiapkan dokumen konsultasi dan pengarahan staf
+      - melacak tanggapan dan tindakan selama konsultasi
+      - mendukung staf dalam proses penempatan ulang dan seleksi
+    practitioner: |
+      Anda dapat:
+      - memimpin perubahan organisasi untuk sebuah direktorat, dari kasus bisnis hingga penerapan
+      - berkonsultasi dengan staf dan perwakilan mereka serta menanggapi umpan balik mereka
+      - mengelola risiko hukum dan kesetaraan suatu perubahan
+    expert: |
+      Anda dapat:
+      - memimpin restrukturisasi dan pengalihan layanan di seluruh organisasi
+      - merancang pendekatan organisasi terhadap perubahan, termasuk kerja kemitraan
+      - menasihati dewan tentang dampak dan risiko perubahan besar bagi orang
+hr-people-strategy:
+  name: Strategi SDM dan kepemimpinan SDM
+  description: Menetapkan strategi SDM organisasi, memimpin fungsi SDM, dan menasihati dewan tentang budaya, tenaga kerja, dan risiko ketenagakerjaan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan strategi SDM organisasi dan bagaimana pekerjaan Anda mendukungnya
+    working: |
+      Anda dapat:
+      - menyumbang pada rencana SDM untuk sebuah layanan, dengan tindakan dan ukuran yang jelas
+      - melaporkan kemajuan terhadap rencana SDM
+    practitioner: |
+      Anda dapat:
+      - menulis dan memimpin rencana SDM untuk sebuah direktorat sesuai dengan strategi SDM
+      - menasihati pimpinan senior tentang risiko dan prioritas SDM
+      - memimpin sebagian fungsi SDM, menetapkan standar dan prioritasnya
+    expert: |
+      Anda dapat:
+      - menetapkan strategi SDM organisasi dan memimpin fungsi SDM
+      - menasihati dewan tentang budaya, tenaga kerja, dan risiko ketenagakerjaan
+      - mewakili organisasi dalam urusan SDM bersama mitra dan regulator

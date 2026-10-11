@@ -1,0 +1,67 @@
+summary: >
+  Pengembang perangkat lunak membangun, menguji, dan memelihara perangkat lunak di balik layanan kesehatan digital organisasi, seperti aplikasi untuk pasien, sistem klinis, layanan integrasi, dan platform data. Mereka bekerja dalam tim produk multidisiplin, menulis kode yang aman, terjamin keamanannya, dapat diakses, dan mudah dipelihara, serta mendukung layanan mereka dalam operasi langsung.
+health_context:
+  - Perangkat lunak dapat memengaruhi perawatan pasien, sehingga pengembang mengikuti proses manajemen risiko klinis dan menyumbang bukti untuk kasus keselamatan.
+  - Kode sering menangani informasi kesehatan yang rahasia, sehingga pengembang menerapkan tata kelola informasi dan praktik pengodean yang aman sebagai bawaan.
+  - Banyak layanan bertukar data dengan sistem kesehatan dan perawatan lain, menggunakan standar interoperabilitas terbuka seperti HL7 FHIR.
+  - Sebagian perangkat lunak dapat diatur sebagai alat kesehatan, sehingga pengembang perlu tahu kapan harus meminta nasihat regulasi.
+levels:
+  - title: Pengembang perangkat lunak magang
+    responsibilities:
+      - Mempelajari bahasa pemrograman, perangkat, dan cara kerja tim melalui pelatihan terstruktur dan kerja berpasangan.
+      - Menulis dan menguji potongan kode kecil yang terdefinisi dengan baik di bawah pengawasan ketat.
+      - Mengikuti prosedur pengodean aman, tata kelola informasi, dan keselamatan klinis.
+      - Ikut serta dalam seremoni tim seperti stand-up, perencanaan, dan retrospektif.
+      - Bekerja menuju kualifikasi magang atau yang setara.
+    qualifications:
+      - Terdaftar pada, atau sedang menempuh, program magang pengembangan perangkat lunak atau yang setara.
+    job_evaluation_notes: Pengetahuan dinilai pada tingkat yang dibutuhkan pekerjaan setelah pelatihan cukup lengkap untuk melakukan pekerjaan; sumber daya informasi mencerminkan pekerjaan pada sistem yang dirancang orang lain.
+  - title: Pengembang perangkat lunak junior
+    responsibilities:
+      - Membangun dan menguji fitur untuk produk tim, bekerja dari cerita pengguna dengan bimbingan.
+      - Menulis pengujian otomatis dan memperbaiki cacat, termasuk pada layanan yang mendukung perawatan pasien.
+      - Menyumbang bukti untuk kasus keselamatan klinis, seperti hasil pengujian dan catatan perubahan.
+      - Menangani data kesehatan dengan aman, mengikuti aturan tata kelola informasi.
+      - Mendukung layanan langsung, dengan bimbingan, sebagai bagian dari pengaturan dukungan tim.
+    qualifications:
+      - Gelar di bidang komputasi atau bidang terkait, magang yang telah selesai, atau pengalaman yang setara.
+  - title: Pengembang perangkat lunak
+    responsibilities:
+      - Merancang, membangun, dan menguji fitur dan layanan secara mandiri, memilih pendekatan yang sesuai.
+      - Meninjau kode dan membantu menjaga standar rekayasa tim.
+      - Membangun integrasi dengan sistem kesehatan dan perawatan lain menggunakan standar terbuka seperti HL7 FHIR.
+      - Ikut serta dalam identifikasi bahaya dan membantu memasukkan pengendalian keselamatan klinis ke dalam kode dan pengujian.
+      - Menyelidiki dan memperbaiki masalah pada layanan langsung, termasuk dukungan di luar jam kerja jika layanan memerlukannya.
+      - Membimbing pengembang junior dan magang.
+    qualifications:
+      - Gelar di bidang komputasi atau bidang terkait, atau pengalaman yang setara.
+      - Pengalaman membangun dan mendukung perangkat lunak produksi.
+  - title: Pengembang perangkat lunak senior
+    responsibilities:
+      - Memimpin desain teknis dan penyampaian fitur dan layanan yang signifikan.
+      - Menetapkan dan memelihara standar rekayasa untuk tim, termasuk pengujian, keamanan, dan aksesibilitas.
+      - Mengambil keputusan teknis yang menyeimbangkan kebutuhan pengguna, keselamatan klinis, keamanan, dan biaya.
+      - Memimpin penyelidikan insiden untuk layanan tim dan mendorong perbaikannya.
+      - Bekerja dengan petugas keselamatan klinis untuk memastikan pengendalian keselamatan dirancang dan diuji.
+      - Membimbing dan mengembangkan para pengembang dalam tim.
+    qualifications:
+      - Pengalaman yang substansial dalam merancang, membangun, dan mendukung perangkat lunak produksi, pada tingkat yang setara dengan gelar magister.
+  - title: Pengembang perangkat lunak pimpinan
+    responsibilities:
+      - Memimpin rekayasa untuk sebuah produk atau kelompok tim, menetapkan arah teknis.
+      - Memastikan perangkat lunak dirancang untuk keselamatan, keamanan, ketahanan, dan interoperabilitas.
+      - Bekerja dengan arsitek, manajer produk, dan pimpinan klinis untuk membentuk peta jalan produk.
+      - Memimpin komunitas praktik pengembangan dan menetapkan standar lintas tim.
+      - Mengelola secara langsung atau memimpin para pengembang, mendukung pengembangan dan kinerja mereka.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa perangkat lunak untuk layanan yang kompleks.
+    job_evaluation_notes: UK GDaD PCF mencantumkan pengembang pimpinan dan utama sama-sama paling sering pada G7 atau G6; acuan ini menempatkan pimpinan di Pita 8a dan utama di Pita 8b.
+  - title: Pengembang perangkat lunak utama
+    responsibilities:
+      - Menetapkan strategi, standar, dan praktik rekayasa untuk pengembangan perangkat lunak organisasi.
+      - Menasihati pimpinan senior tentang pilihan teknologi, risiko, dan investasi.
+      - Memimpin penyelesaian masalah teknis paling kompleks di berbagai layanan.
+      - Mewakili organisasi dalam komunitas rekayasa lintas organisasi dan sumber terbuka.
+      - Memimpin dan mengembangkan pengembang pimpinan serta menumbuhkan kapabilitas rekayasa organisasi.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa di banyak tim atau organisasi.
