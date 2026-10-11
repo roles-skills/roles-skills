@@ -1,0 +1,73 @@
+# Japanese (Japan). Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Quotations from the UK GDaD PCF and ESCO stay
+# in English. Job titles use the generic form, which covers everyone. Slugs
+# are made from the Japanese titles.
+code: ja-jp
+name: 日本語
+english_name: Japanese
+dir: ltr
+complete: true
+paths:
+  roles: ロール
+  families: 職群
+  bands: バンド
+  skills: スキル
+  job-evaluation: 職務評価
+  about: このリファレンスについて
+strings:
+  disclaimer: "これは、一般的なデジタルヘルスケア組織のための例示的な参照プロファイルです。特定の雇用主の公式な職務記述書ではなく、職務評価のスコアも正式な評価ではありません。"
+  translation_note: "このテキストは英語から AI アシスタントによって翻訳されたもので、日本語を母語とする方による確認はまだ行われていません。英国政府デジタル・データ専門職能力フレームワーク(UK GDaD PCF)と ESCO からの引用は英語のままです。"
+  home_title: ロールカタログ
+  home_lede: "まず、ご自身の仕事に最も近い職群を選び、次にロール、そしてバンドを選んでください。"
+  roles_title: すべてのロール
+  bands_title: バンド別のロール
+  skills_title: スキル
+  skills_lede: "各スキルには 4 つの習熟レベルがあります。認知(1)、実務(2)、実践者(3)、エキスパート(4)です。UK GDaD PCF のスキルは英語の原文から引用しています。その他のスキルは、このリファレンス独自のものです。"
+  pcf_title: UK GDaD PCF のロール別のロール
+  esco_title: ESCO の職業別のロール
+  role: ロール
+  roles: ロール
+  family: 職群
+  band: バンド
+  bands: バンド
+  title: 名称
+  role_level: ロールレベル
+  skill: スキル
+  source: 出典
+  expected_level: 期待されるレベル
+  level_meaning: このレベルの意味
+  factor: 要素
+  level: レベル
+  points: 点数
+  total: 合計
+  summary: 概要
+  health_context: デジタルヘルスケア組織において
+  pcf_role: UK GDaD PCF のロール
+  pcf_role_none: "なし(このリファレンスがロールを定義しています)"
+  pcf_role_description: UK GDaD PCF のロール説明(原文は英語)
+  pcf_level: UK GDaD PCF のレベル
+  civil_service_grades: 英国公務員の等級
+  esco_occupations: ESCO の職業
+  role_levels: ロールレベル
+  job_evaluation_points: 職務評価の点数
+  responsibilities: 責任
+  skills: スキル
+  qualifications: 一般的な資格と経験
+  band_outline: バンドの概要
+  knowledge: 知識
+  autonomy: 自律性
+  scope: 範囲
+  leadership: リーダーシップ
+  accountability: 説明責任
+  job_evaluation: 職務評価(例示)
+  source_pcf: UK GDaD PCF
+  source_reference: このリファレンス
+  used_in: "{n} 件のロールレベルで使われています。"
+  awareness: 認知
+  working: 実務
+  practitioner: 実践者
+  expert: エキスパート
+  sfia_level: SFIA レベル
+  esco_occupation: ESCO の職業
+  pcf_family: PCF の職群
+  roles_in_reference: このリファレンスのロール
