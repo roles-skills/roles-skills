@@ -1,0 +1,8 @@
+# English (Great Britain). A copy of en-001, for readers in Great Britain, whose
+# spelling the source already uses. Keep the two in step.
+code: en-gb
+name: English (United Kingdom)
+english_name: English (United Kingdom)
+dir: ltr
+english: true
+complete: true

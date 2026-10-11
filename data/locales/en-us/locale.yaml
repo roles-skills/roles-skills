@@ -1,0 +1,10 @@
+# English (United States). The English source in American spelling (organization,
+# program, analyze), converted by the rules in scripts/locales.py, not by hand.
+# Quotations from the UK GDaD PCF and ESCO stay as they are.
+code: en-us
+name: English (United States)
+english_name: English (United States)
+dir: ltr
+english: true
+spelling: us
+complete: true

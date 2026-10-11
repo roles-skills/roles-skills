@@ -643,6 +643,7 @@ def main():
         if "--check" not in sys.argv and not errs:
             locales.write_reference(ref, loc)
             locales.write_docs(ref, loc, write_doc)
+            locales.write_sitemap(code)
     if locale_errors:
         print(f"{locale_errors} errors")
         return 1

@@ -1,0 +1,9 @@
+# English (world). The source language, so there is nothing to translate: the
+# build copies the English data as it is. This locale is served at /en-001/;
+# the unprefixed paths show the same pages.
+code: en-001
+name: English
+english_name: English
+dir: ltr
+english: true
+complete: true
