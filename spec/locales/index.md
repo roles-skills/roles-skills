@@ -23,6 +23,7 @@ How this reference is translated, published, and served in more than one languag
 | id-001 | Bahasa Indonesia | ltr | Done | Indonesian; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, which covers everyone; Western digits; slugs are made from the Indonesian titles |
 | ja-jp | 日本語 | ltr | Done | Japanese; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, which covers everyone; Western digits; slugs are made from the Japanese titles |
 | ja-001 | 日本語 (世界) | ltr | Done | Japanese for readers anywhere; a copy of ja-jp; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Japanese titles |
+| ko-kr | 한국어 | ltr | Done | Korean; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Korean titles |
 | pt-001 | Português | ltr | Next | Portuguese |
 
 Every translation is AI-generated and needs a native speaker review; `tasks.md` tracks each review.
@@ -36,7 +37,7 @@ A locale code is `<language>-<region>`, in lowercase: a two- or three-letter ISO
 - The region code must be a real ISO 3166 code for a place where the language is spoken: India is `in` (`hi-in`), not `id` (Indonesia); Pakistan is `pk` (`ur-pk`); Great Britain is `gb` (`cy-gb`).
 - The default locale is `en-001`.
 
-A locale code is not the same as a language tag. Each locale also has a BCP 47 tag, in `LOCALE_TAGS` in `roles-skills.github.io/src/lib/locales.ts`, for `<html lang>`, `hreflang`, and screen readers: `en`, `en-GB`, `en-US`, `cy`, `cy-GB`, `zh-Hans`, `zh-Hans-CN`, `hi`, `hi-IN`, `es`, `fr`, `ar`, `bn`, `ru`, `id`, `ja`. Use the tag, not the code, wherever a browser or search engine reads the language.
+A locale code is not the same as a language tag. Each locale also has a BCP 47 tag, in `LOCALE_TAGS` in `roles-skills.github.io/src/lib/locales.ts`, for `<html lang>`, `hreflang`, and screen readers: `en`, `en-GB`, `en-US`, `cy`, `cy-GB`, `zh-Hans`, `zh-Hans-CN`, `hi`, `hi-IN`, `es`, `fr`, `ar`, `bn`, `ru`, `id`, `ja`, `ko`. Use the tag, not the code, wherever a browser or search engine reads the language.
 
 ## Directory names
 
