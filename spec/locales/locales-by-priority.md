@@ -22,7 +22,7 @@ Every code is `<language>-<region>`; see [index.md](index.md#locale-codes). Done
 - vi-001
 - de-001
 - sv-001
-- ko-001
+- ko-001 (done)
 - nl-001
 - da-001
 - et-001

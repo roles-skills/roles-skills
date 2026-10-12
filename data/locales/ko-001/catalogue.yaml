@@ -1,0 +1,91 @@
+# 직군과 역할의 한국어 이름. 키는 영어 id입니다. 슬러그는 이름에서 만들어집니다.
+families:
+  software-development: {title: 소프트웨어 개발}
+  architecture: {title: 아키텍처}
+  data: {title: 데이터}
+  product-and-delivery: {title: 프로덕트와 딜리버리}
+  user-centred-design: {title: 사용자 중심 디자인}
+  it-operations: {title: IT 운영}
+  cyber-security: {title: 사이버 보안}
+  quality-assurance-testing: {title: 품질 보증과 테스트}
+  clinical-informatics: {title: 임상 정보학과 임상 안전}
+  information-governance: {title: 정보 거버넌스}
+  finance: {title: 재무}
+  legal: {title: 법무}
+  human-resources: {title: 인사}
+  procurement: {title: 조달과 상무}
+  corporate-services: {title: 공통 지원 서비스}
+roles:
+  software-developer: {title: 소프트웨어 개발자}
+  frontend-developer: {title: 프런트엔드 개발자}
+  devops-engineer: {title: DevOps 엔지니어}
+  integration-engineer: {title: 통합 엔지니어(의료 상호운용성)}
+  enterprise-architect: {title: 전사 아키텍트}
+  solution-architect: {title: 솔루션 아키텍트}
+  technical-architect: {title: 기술 아키텍트}
+  data-architect: {title: 데이터 아키텍트}
+  security-architect: {title: 보안 아키텍트}
+  network-architect: {title: 네트워크 아키텍트}
+  business-architect: {title: 비즈니스 아키텍트}
+  data-analyst: {title: 데이터 분석가}
+  performance-analyst: {title: 성과 분석가}
+  data-engineer: {title: 데이터 엔지니어}
+  analytics-engineer: {title: 애널리틱스 엔지니어}
+  data-scientist: {title: 데이터 사이언티스트}
+  machine-learning-engineer: {title: 머신러닝 엔지니어}
+  data-governance-manager: {title: 데이터 거버넌스 매니저}
+  clinical-coder: {title: 임상 코더}
+  business-analyst: {title: 비즈니스 분석가}
+  delivery-manager: {title: 딜리버리 매니저}
+  product-manager: {title: 프로덕트 매니저}
+  project-manager: {title: 프로젝트 매니저}
+  programme-delivery-manager: {title: 프로그램 딜리버리 매니저}
+  digital-portfolio-manager: {title: 디지털 포트폴리오 매니저}
+  service-owner: {title: 서비스 오너}
+  user-researcher: {title: 사용자 리서처}
+  service-designer: {title: 서비스 디자이너}
+  interaction-designer: {title: 인터랙션 디자이너}
+  content-designer: {title: 콘텐츠 디자이너}
+  accessibility-specialist: {title: 접근성 전문가}
+  service-desk-analyst: {title: 서비스 데스크 분석가}
+  end-user-computing-engineer: {title: 엔드유저 컴퓨팅 엔지니어}
+  infrastructure-engineer: {title: 인프라 엔지니어}
+  application-operations-engineer: {title: 애플리케이션 운영 엔지니어}
+  it-service-manager: {title: IT 서비스 매니저}
+  incident-manager: {title: 인시던트 매니저}
+  problem-manager: {title: 문제 매니저}
+  change-and-release-manager: {title: 변경·릴리스 매니저}
+  security-analyst: {title: 보안 운영 분석가}
+  security-engineer: {title: 보안 엔지니어}
+  cyber-security-manager: {title: 사이버 보안 매니저}
+  quality-assurance-test-analyst: {title: 품질 보증 테스트 분석가}
+  test-engineer: {title: 테스트 엔지니어}
+  test-manager: {title: 테스트 매니저}
+  clinical-informatician: {title: 임상 정보학자}
+  clinical-safety-officer: {title: 임상 안전 책임자}
+  chief-clinical-information-officer: {title: 최고 임상 정보 책임자}
+  records-officer: {title: 진료 기록 담당자}
+  information-governance-officer: {title: 정보 거버넌스 담당자}
+  data-protection-officer: {title: 개인정보 보호 책임자}
+  finance-officer: {title: 재무 담당자}
+  payroll-officer: {title: 급여 담당자}
+  management-accountant: {title: 관리 회계 담당자}
+  financial-accountant: {title: 재무 회계 담당자}
+  head-of-finance: {title: 재무 책임자}
+  legal-assistant: {title: 법무 어시스턴트}
+  legal-adviser: {title: 법무 자문가}
+  head-of-legal: {title: 법무 서비스 책임자}
+  hr-officer: {title: 인사 담당자}
+  recruitment-officer: {title: 채용 담당자}
+  hr-business-partner: {title: 인사 비즈니스 파트너}
+  learning-and-development-specialist: {title: 학습·역량 개발 전문가}
+  head-of-people: {title: 인사 책임자}
+  procurement-officer: {title: 조달 담당자}
+  category-manager: {title: 카테고리 매니저}
+  contract-manager: {title: 계약 매니저}
+  head-of-procurement: {title: 조달 책임자}
+  administrator: {title: 사무 관리자}
+  executive-assistant: {title: 임원 비서}
+  project-support-officer: {title: 프로젝트 지원 담당자}
+  governance-and-risk-manager: {title: 거버넌스·리스크 매니저}
+  communications-officer: {title: 커뮤니케이션 담당자}

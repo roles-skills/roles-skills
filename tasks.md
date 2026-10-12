@@ -145,6 +145,8 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Native speaker review of bn-001
 - [x] ru-001 (Русский, Russian): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of ru-001
+- [x] ko-001 (한국어 (세계), Korean): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of ko-001
 - [x] ko-kr (한국어, Korean): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of ko-kr
 - [x] ja-001 (日本語 (世界), Japanese): all roles, skills, bands, job evaluation, and interface strings
