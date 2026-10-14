@@ -1,0 +1,46 @@
+summary: >
+  Dataskyddsombudet övervakar självständigt organisationens efterlevnad av dataskyddslagstiftningen, ger råd om dess skyldigheter och är kontaktpunkt för tillsynsmyndigheten och för de människor vars data organisationen håller. I en digital hälso- och sjukvårdsorganisation ger dataskyddsombudet expertråd om laglig, rättvis och transparent användning av hälsodata i produkter, analys, forskning och datadelning.
+health_context:
+  - Dataskyddslagstiftningen ger dataskyddsombudet en skyddad, självständig ställning som rapporterar till högsta ledningsnivå, så rollen måste vara fri från intressekonflikter.
+  - Dataskyddslagstiftningen ger hälsodata extra skydd, och mycket av dem omfattas också av tystnadsplikt, så dataskyddsombudet ger råd om båda.
+  - Behandling av hälsodata i stor skala, datalänkning och AI kräver ofta konsekvensbedömningar avseende dataskydd och ibland förhandssamråd med tillsynsmyndigheten.
+  - Patienter och allmänheten förväntar sig transparens, så dataskyddsombudet hjälper organisationen att tydligt förklara hur den använder deras data.
+levels:
+  - title: Biträdande dataskyddsombud
+    summary: Stödjer dataskyddsombudet i att övervaka efterlevnad och ge råd, leder komplext ärendearbete och är ställföreträdare för dataskyddsombudet.
+    responsibilities:
+      - Ge team råd om dataskyddslagstiftning, inklusive rättslig grund, transparens och enskildas rättigheter.
+      - Granska högriskfyllda konsekvensbedömningar avseende dataskydd och utkasta dataskyddsombudets råd.
+      - Övervaka efterlevnad genom revisioner, stickprov och granskningar av registren över behandling.
+      - Leda utredningen av allvarliga dataintrång och förbereda underrättelser till tillsynsmyndigheten.
+      - Hantera komplexa klagomål och begäranden från enskilda om deras data.
+      - Vara ställföreträdare för dataskyddsombudet gentemot seniora ledare och tillsynsmyndigheten.
+    qualifications:
+      - En erkänd yrkeskvalifikation inom dataskydd, eller motsvarande erfarenhet.
+      - Betydande erfarenhet av dataskydd inom hälso- och sjukvården eller vården.
+  - title: Dataskyddsombud
+    summary: Organisationens lagstadgade dataskyddsombud, som självständigt övervakar efterlevnad, ger seniora ledare och styrelsen råd och är kontaktpunkt för tillsynsmyndigheten och allmänheten.
+    responsibilities:
+      - Självständigt övervaka organisationens efterlevnad av dataskyddslagstiftningen och dess egna policyer.
+      - Ge styrelsen, seniora ledare och team råd om deras skyldigheter inom dataskydd.
+      - Ge formella råd om högriskfyllda konsekvensbedömningar avseende dataskydd och besluta när tillsynsmyndigheten ska samrådas.
+      - Vara kontaktpunkt för tillsynsmyndigheten och för de människor vars data organisationen håller.
+      - Överblicka beslut om underrättelse vid dataintrång och organisationens svar på förfrågningar från tillsynsmyndigheten.
+      - Rapportera om efterlevnad av och risk inom dataskydd till styrelsen och dess kommittéer.
+    qualifications:
+      - En erkänd yrkeskvalifikation inom dataskydd, eller motsvarande erfarenhet.
+      - Omfattande erfarenhet av dataskyddslagstiftning och praxis, även inom hälso- och sjukvården eller vården.
+    job_evaluation_notes: Handlingsfrihet poängsätts på nivå 6 eftersom dataskyddslagstiftningen kräver att dataskyddsombudet agerar självständigt och tolkar lag och policy utan instruktioner.
+  - title: Senior dataskyddsombud
+    summary: Dataskyddsombud för en stor organisation eller en grupp organisationer som delar ett dataskyddsombud, som leder dataskyddsfunktionen och fastställer dess standarder.
+    responsibilities:
+      - Vara det lagstadgade dataskyddsombudet för en stor organisation eller en grupp vårdorganisationer.
+      - Leda dataskyddsfunktionen, dess personal och dess arbetsprogram.
+      - Fastställa ramverket och standarderna för dataskydd i organisationen eller gruppen.
+      - Ge det slutgiltiga rådet om den mest högriskfyllda behandlingen, såsom storskalig datalänkning och AI.
+      - Leda dialogen med tillsynsmyndigheten, partner och patient- och allmänhetsgrupper om dataanvändning.
+      - Rapportera till styrelsen om dataskyddsrisk, efterlevnad och allmänhetens förtroende.
+    qualifications:
+      - En erkänd yrkeskvalifikation inom dataskydd, eller motsvarande erfarenhet.
+      - Omfattande erfarenhet som dataskyddsombud i en stor eller komplex organisation.
+    job_evaluation_notes: Informationsresurser poängsätts på nivå 6 eftersom arbetet överblickar hur personuppgifter behandlas i hela organisationen eller gruppen.

@@ -1,0 +1,60 @@
+summary: >
+  Ekonomihandläggare håller organisationens dagliga ekonomi korrekt och under kontroll. De bearbetar och bokför fakturor, betalningar, intäkter och verifikationer, stämmer av huvudböcker och bankkonton och hjälper budgetansvariga och leverantörer med deras frågor. I en digital hälso- och sjukvårdsorganisation rör mycket av detta arbete teknikleverantörer, programvarulicenser och molntjänster, som ofta betalas med offentliga medel med strikta regler för hur de används.
+health_context:
+  - Organisationen använder offentliga medel, så varje betalning måste vara ordentligt godkänd, bokförd och klara en revision.
+  - Många fakturor gäller programvarulicenser, molndrift och supportavtal, som behöver kontrolleras mot avtalsvillkor, användning och rätt kod för investering eller drift.
+  - Snabb och korrekt betalning är viktig, eftersom små leverantörer och vårdgivare kan vara beroende av den.
+  - Ekonomipersonal ser personuppgifter, såsom personalens utlägg och betalningar till patienter eller vårdgivare, och måste hantera dem enligt reglerna för informationsstyrning.
+  - Bedrägeririsker, såsom falska begäranden om att ändra leverantörers bankuppgifter, riktas mot offentliga organ, så handläggare följer strikta kontroller.
+levels:
+  - title: Ekonomiassistent
+    summary: Ekonomiassistenter bearbetar rutinmässiga ekonomiska transaktioner, såsom leverantörsfakturor, kvitton och utläggsansökningar, enligt fastställda rutiner med handledning i närheten.
+    responsibilities:
+      - Registrera leverantörsfakturor, kreditnotor och kvitton korrekt i ekonomisystemet.
+      - Matcha fakturor mot inköpsorder och godsmottagningar och driva på saknade godkännanden.
+      - Kontrollera personalens utläggsansökningar mot policy och underlag med kvitton.
+      - Besvara rutinfrågor från leverantörer och personal per telefon och mejl.
+      - Arkivera och skanna ekonomiska dokument så att de kan hittas vid revision.
+      - Följa ekonomiska rutiner och regler för informationsstyrning och rapportera allt ovanligt.
+    qualifications:
+      - God räknefärdighet och goda tangentbordskunskaper, förvärvade genom utbildning eller arbetslivserfarenhet.
+      - Vilja att arbeta mot en grundläggande kvalifikation inom redovisning, eller motsvarande erfarenhet.
+    job_evaluation_notes: Fysiska färdigheter är nivå 3 för snabbhet och korrekthet vid datainmatning i stora volymer. Ekonomiska resurser är nivå 2 eftersom arbetet hanterar betalningsinformation och kontrollerar små anspråk.
+  - title: Ekonomihandläggare
+    summary: Ekonomihandläggare driver en del av transaktionscykeln, såsom leverantörsreskontra, kundreskontra eller kassa, löser icke-rutinmässiga frågor och stämmer av sin huvudbok.
+    responsibilities:
+      - Bearbeta en rad transaktioner, inklusive betalningskörningar, återbetalningar, försäljningsfakturor och verifikationer.
+      - Stämma av leverantörsutdrag, bankkonton och kontrollkonton och reda ut skillnader.
+      - Kontrollera att teknikfakturor stämmer med avtalsvillkor, såsom antal licenser och faktureringsperioder.
+      - Genomföra kontroller av ändringar av leverantörers bankuppgifter och andra bedrägerikontroller.
+      - Driva på förfallna fordringar och lösa omtvistade fakturor med leverantörer och budgetansvariga.
+      - Visa nya ekonomiassistenter hur rutinuppgifter utförs.
+    qualifications:
+      - En grundläggande kvalifikation inom redovisning, eller motsvarande erfarenhet av ekonomisk bearbetning.
+    job_evaluation_notes: Ekonomiska resurser är nivå 3 eftersom arbetet förbereder och släpper betalningskörningar och godkänner betalningar inom fastställda gränser.
+  - title: Senior ekonomihandläggare
+    summary: Senior ekonomihandläggare hanterar den mer komplexa ekonomiska bearbetningen och avstämningarna, stödjer månadsslut och årsslut och hjälper budgetansvariga att förstå sina utgifter.
+    responsibilities:
+      - Förbereda bokningar vid månadsslut, såsom upplupna kostnader och förutbetalda kostnader för årliga programvaru- och supportavtal.
+      - Utreda och reda ut komplexa avstämningsposter och gamla saldon.
+      - Förbereda momsdeklarationer och avstämningar under handledning.
+      - Ta fram standardbudgetrapporter och förklara dem för budgetansvariga.
+      - Kontrollera att utgifter kodas korrekt mellan investering och drift och lyfta frågor till redovisningsekonomerna.
+      - Leda och kontrollera ekonomihandläggares och ekonomiassistenters arbete i det dagliga arbetet.
+      - Föreslå förbättringar av ekonomiska rutiner och arbetsflöden i systemet.
+    qualifications:
+      - En kvalifikation inom redovisning på mellannivå, eller motsvarande erfarenhet.
+      - Erfarenhet av ekonomisk bearbetning och avstämningar.
+  - title: Teamledare för ekonomi
+    summary: Teamledare för ekonomi leder ett transaktionellt ekonomiteam eller arbetar som ekonomianalytiker och ser till att processer är korrekta, kontrollerade och effektiva och att rapporteringen är klar i tid.
+    responsibilities:
+      - Leda ett transaktionellt ekonomiteam och planera dess arbete så att tidsfrister för betalning, fordringar och månadsslut hålls.
+      - Förvalta en huvudbok eller en ekonomisk process och rapportera dess prestation, såsom betalningstider och gamla fordringar.
+      - Testa och förbättra ekonomiska kontroller och ge underlag till interna och externa revisorer.
+      - Förbereda avstämningar av balansräkningen och arbetspapper för årsredovisningen.
+      - Förbättra processer, till exempel genom att automatisera fakturamatchning eller införa självbetjäning för budgetansvariga.
+      - Utbilda, stödja och granska arbetet hos personal i teamet.
+    qualifications:
+      - En kvalifikation inom redovisning på mellannivå eller avancerad nivå, eller motsvarande erfarenhet.
+      - Erfarenhet av att leda eller samordna ekonomiska processer.
+    job_evaluation_notes: Människor är nivå 3 eftersom arbetet leder ett litet ekonomiteam i det dagliga arbetet. En ekonomianalytiker i det här bandet skulle poängsätta människor på nivå 2 och analytisk förmåga på nivå 4.

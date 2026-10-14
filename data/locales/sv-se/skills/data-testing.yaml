@@ -1,0 +1,46 @@
+# Swedish translations of data/skills/data-testing.yaml. Keys are the English skill ids.
+data-ai-assurance:
+  name: Säker och rättvis AI inom hälso- och sjukvården
+  description: Se till att statistiska modeller, modeller för maskininlärning och AI-modeller som används inom hälso- och sjukvården är säkra, rättvisa, förklarbara och övervakade, inklusive att kontrollera partiskhet mellan patientgrupper och uppfylla regleringen av medicintekniska produkter och AI.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara hur en modell kan skada patienter, till exempel genom partiskhet, drift eller överdriven tillit till dess utdata
+      - förklara varför modeller behöver valideras på den population de ska användas med
+    working: |
+      Du kan:
+      - mäta modellens prestation för olika patientgrupper och rapportera eventuella skillnader
+      - dokumentera en modells avsedda användning, träningsdata och kända begränsningar, till exempel i ett modellkort
+      - bidra med evidens om en modell till ett kliniskt säkerhetsunderlag
+    practitioner: |
+      Du kan:
+      - planera validering, bedömning av partiskhet och löpande övervakning av en modell tillsammans med kliniska kollegor
+      - avgöra när en modell behöver tränas om, begränsas eller dras tillbaka
+      - ge team råd om när en modell kan regleras som medicinteknisk produkt och vilken evidens den behöver
+    expert: |
+      Du kan:
+      - fastställa organisationens standarder för kvalitetssäkring och övervakning av AI i vården
+      - leda kvalitetssäkringen av högriskmodeller före och efter driftsättning
+      - företräda organisationen hos tillsynsmyndigheter och partner i frågor om säker och rättvis AI
+data-deidentification:
+  name: Pseudonymisering och kontroll av röjande
+  description: Skydda patientens sekretess när data länkas, analyseras, delas eller publiceras, med pseudonymisering, anonymisering, undertryckande av små tal och andra statistiska metoder för kontroll av röjande.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara skillnaden mellan identifierbara, pseudonymiserade och anonymiserade data
+      - följa organisationens regler för undertryckande av små tal i utdata
+    working: |
+      Du kan:
+      - arbeta med pseudonymiserade data och tillämpa kontroller av röjande innan utdata släpps
+      - känna igen när länkade eller detaljerade data kan identifiera en patient
+    practitioner: |
+      Du kan:
+      - utforma metoder för pseudonymisering och länkning som håller identifierare skilda från analysdata
+      - bedöma risken för återidentifiering i ett dataset eller en publikation och välja lämpliga kontroller
+      - ge team råd om säkra miljöer, såsom betrodda forskningsmiljöer
+    expert: |
+      Du kan:
+      - fastställa organisationens standarder för avidentifiering och kontroll av röjande
+      - kvalitetssäkra utlämnanden av högriskdata och länkningsprojekt
+      - leda arbetet med partner kring säker dataåtkomst för forskning och planering

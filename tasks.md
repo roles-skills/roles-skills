@@ -149,6 +149,10 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Native speaker review of ko-001
 - [x] ko-kr (한국어, Korean): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of ko-kr
+- [x] sv-se (Svenska, Swedish): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of sv-se
+- [x] sv-001 (Svenska (världen), Swedish): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of sv-001
 - [x] ja-001 (日本語 (世界), Japanese): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of ja-001
 - [x] ja-jp (日本語, Japanese): all roles, skills, bands, job evaluation, and interface strings

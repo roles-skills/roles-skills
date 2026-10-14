@@ -1,0 +1,58 @@
+summary: >
+  Lönehandläggare ser till att varje medarbetare får korrekt lön i tid. De hanterar nyanställda, avslutade anställningar och ändringar, beräknar lön och avdrag, kör kontroller av lönekörningen och besvarar frågor om lön. I en digital hälso- och sjukvårdsorganisation kan lönekörningen omfatta klinisk personal, digital personal och verksamhetspersonal på olika avtal och lönerregler, och den körs ofta i ett delat eller uthyrt lönesystem som teamet måste kontrollera och kvalitetssäkra.
+health_context:
+  - Klinisk personal kan ha komplex lön, såsom obekväm arbetstid, jour och flera avtal, som lönehanteringen måste beräkna korrekt.
+  - Lönerregler och årliga löneavtal fastställs ofta nationellt eller av finansiärer och måste tillämpas snabbt och korrekt.
+  - Lön är vanligen organisationens största enskilda kostnad, så fel och bedrägerier har stor effekt på offentliga medel och på personalens förtroende.
+  - Lönedata är mycket känsliga personuppgifter, inklusive hälsa, familj och bankuppgifter, så informationsstyrning är central för arbetet.
+  - Lönehantering beror på korrekta data från system för arbetsstyrka och schemaläggning, så handläggare arbetar nära HR och systemteam.
+levels:
+  - title: Lönehandläggare
+    summary: Lönehandläggare bearbetar lönändringar och beräknar lön för en grupp personal, enligt rutiner, och kontrollerar sitt arbete innan varje lönekörning stängs.
+    responsibilities:
+      - Föra in nyanställda, avslutade anställningar och avtalsändringar i lönesystemet utifrån godkända blanketter.
+      - Beräkna lön, inklusive övertid, tillägg, sjuklön och betalningar vid familjeledighet.
+      - Tillämpa skatt, pension och andra avdrag korrekt.
+      - Besvara frågor om lön från personal och chefer med takt och sekretess.
+      - Kontrollera utdata från lönekörningen för fel och rätta dem innan lönekörningen stängs.
+      - Följa lönekontroller och regler för informationsstyrning.
+    qualifications:
+      - En grundläggande kvalifikation inom lönehantering, eller motsvarande erfarenhet av lönehantering.
+    job_evaluation_notes: Ekonomiska resurser är nivå 3 eftersom arbetet bearbetar den lön som organisationen betalar ut till personalen. Fysiska färdigheter är nivå 3 för snabb och korrekt datainmatning.
+  - title: Senior lönehandläggare
+    summary: Senior lönehandläggare hanterar komplexa lönefall, kontrollerar lönehandläggares arbete och hjälper till att driva avstämningar och rapporter för lön.
+    responsibilities:
+      - Lösa komplexa lönefall, såsom retroaktiv lön, flera avtal och löneväxling.
+      - Återkräva felaktiga utbetalningar med omdöme och i linje med policy.
+      - Avstämma lönen mot huvudboken och förbereda avstämningar av skatt och pension.
+      - Kontrollera lönehandläggares arbete och godkänna delar av lönekörningen.
+      - Testa ändringar av löneavtal och regler i lönesystemet innan de tas i drift.
+      - Utbilda lönehandläggare och ge chefer grundläggande råd om lön.
+    qualifications:
+      - En kvalifikation inom lönehantering på mellannivå, eller motsvarande erfarenhet.
+  - title: Teamledare för lön
+    summary: Teamledare för lön leder lönehanteringsteamet i det dagliga arbetet, driver hela lönecykeln och ser till att lagstadgad rapportering och pensionsrapporter är korrekta och i tid.
+    responsibilities:
+      - Planera och driva lönecykeln och se till att avgränsningar, kontroller och betalningstidsfrister hålls.
+      - Godkänna lönekontroller och utreda betydande avvikelser.
+      - Förvalta lagstadgad lönerapportering och pensionsrapporter.
+      - Leda lönehanteringsteamet i det dagliga arbetet, inklusive arbetsbelastning, utbildning och kvalitetskontroller.
+      - Arbeta med HR- och schemaläggningsteam för att förbättra kvaliteten på och aktualiteten i lönedata.
+      - Besvara eskalerade frågor och klagomål om lön.
+    qualifications:
+      - En avancerad kvalifikation inom lönehantering, eller motsvarande erfarenhet.
+      - Erfarenhet av att köra en fullständig lönekörning.
+  - title: Lönechef
+    summary: Lönechefer ansvarar för organisationens lönetjänst, vare sig den drivs internt eller av en leverantör, och försäkrar ledare om att lönen är korrekt, laglig och väl kontrollerad.
+    responsibilities:
+      - Leda lönetjänsten och dess team och rapportera om prestation och korrekthet.
+      - Förvalta avtalet och relationen med eventuell lönetjänstleverantör eller gemensam tjänst.
+      - Fastställa lönekontroller, såsom godkännandegränser, undantagsrapporter och åtskillnad av arbetsuppgifter.
+      - Planera för ändringar i lönerregler, löneavtal, pensioner och skatt och se till att de tillämpas korrekt.
+      - Leda ändringar och uppgraderingar av lönesystemet tillsammans med system- och HR-team.
+      - Ta fram löneinformation för budgetar, prognoser och årsredovisningen.
+      - Leda svaret på fel i lönekörningen och allvarliga fel.
+    qualifications:
+      - En avancerad kvalifikation inom lönehantering eller en erkänd revisorskvalifikation, eller motsvarande erfarenhet.
+      - Erfarenhet av att leda en lönetjänst.
+    job_evaluation_notes: Ekonomiska resurser är nivå 4 eftersom arbetet ansvarar för organisationens hela lönekörning, dess största kostnad. Människor är nivå 3 eftersom lönehanteringsteamet är litet.

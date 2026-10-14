@@ -1,0 +1,49 @@
+summary: >
+  Digitala portföljansvariga hjälper organisationen att välja, följa upp och styra sin portfölj av digitala projekt, program och produkter, så att den investerar i det arbete som gör mest för patienter, kliniker och vårdpersonal. De driver portföljstyrning och rapportering, hjälper ledare att prioritera med goda underlag och ser till att portföljen levererar de nyttor den utlovat.
+health_context:
+  - Digitalt arbete konkurrerar om finansiering med vård i frontlinjen, så portföljansvariga hjälper ledare att visa nyttorna med digitala investeringar för patienter och personal.
+  - Portföljstyrning måste omfatta kvalitetssäkring av klinisk säkerhet, informationsstyrning och cybersäkerhet, så portföljansvariga följer upp dessa vid sidan av tid, kostnad och omfattning.
+  - Många digitala projekt är beroende av kapacitet i kliniska och operativa team, såsom kliniker som ska testa eller personal som ska utbildas, så portföljansvariga bevakar kollisioner i efterfrågan på tjänster.
+  - Finansiering kommer ofta från flera källor med egna regler och tidsfrister för rapportering, så portföljansvariga håller rapporteringen korrekt och i tid.
+levels:
+  - title: Digital portföljanalytiker
+    responsibilities:
+      - Samla in och kontrollera status-, risk-, ekonomi- och nyttodata från projekt i portföljen.
+      - Underhålla portföljregistret och översikterna och upptäcka luckor eller inkonsekvenser i rapporteringen.
+      - Förbereda underlag och rapporter för portföljstyrgrupper.
+      - Följa upp milstolpar för kvalitetssäkring, såsom godkännande av klinisk säkerhet och konsekvensbedömningar avseende dataskydd, över projekt.
+      - Stödja portföljansvariga med analys för prioritering och planering.
+    qualifications:
+      - En examen eller relevant kvalifikation, eller motsvarande erfarenhet av analys eller rapportering.
+    job_evaluation_notes: UK GDaD PCF placerar både analytiker- och ansvarignivåerna vid HEO eller SEO. Den här referensen placerar analytikern i band 5, eftersom det är en inlärningsnivå som rapporterar till en portföljansvarig, och den ansvarige i band 6, så att de två nivåerna inte ligger i samma band.
+  - title: Digital portföljansvarig
+    responsibilities:
+      - Samordna en portfölj av digitala projekt och program, såsom allt digitalt arbete för en direktörsenhet.
+      - Hjälpa team att följa processer för styrning, kvalitetssäkring och leverans och göra dem proportionerliga.
+      - Stödja ledare att prioritera arbete med underlag om behov, nytta, risk och kapacitet.
+      - Rapportera portföljens prestation, risker och nyttor tydligt till styrelser och intressenter.
+      - Upptäcka kollisioner i efterfrågan på kliniska och operativa team över projekt och hjälpa till att lösa dem.
+    qualifications:
+      - Erfarenhet av portfölj-, program- eller projektledning, eller motsvarande erfarenhet.
+  - title: Senior digital portföljansvarig
+    responsibilities:
+      - Förvalta organisationens digitala portfölj, eller en stor del av den, och dess processer för styrning och kvalitetssäkring.
+      - Följa upp och analysera utfall och nyttor över portföljen och agera på problem för att hjälpa team att leverera.
+      - Se till att portföljen uppfyller standarder, inklusive kvalitetssäkring av klinisk säkerhet, informationsstyrning och cybersäkerhet.
+      - Ge seniora ledare råd om prioritering, investering och avvägningar, med tydliga underlag.
+      - Förvalta portföljrapporteringen till finansiärer och externa organ.
+      - Ha linjeansvar för portföljanalytiker och portföljansvariga.
+    qualifications:
+      - Omfattande erfarenhet av portfölj- eller programledning, på en nivå motsvarande en masterexamen.
+    job_evaluation_notes: Det finns ingen nivå i band 7 eftersom UK GDaD PCF går från digital portföljansvarig (HEO/SEO) till senior digital portföljansvarig (G7).
+  - title: Chef för digital portfölj
+    responsibilities:
+      - Leda funktionen för digital portfölj och teamet av portföljansvariga.
+      - Fastställa portföljens strategi, kontroller och styrning och se till att de används.
+      - Ge ledningen insikt i portföljens framtid, så att de kan fatta investeringsbeslut.
+      - Se till att portföljens nyttor för patienter, personal och organisationen realiseras och rapporteras.
+      - Hantera risker på portföljnivå och eskalera ärenden till ledningsgruppen.
+      - Förvalta funktionens budget och förmåga.
+    qualifications:
+      - Omfattande erfarenhet av att leda portföljledning i en komplex organisation.
+    job_evaluation_notes: Ekonomiska resurser poängsätts på nivå 5 eftersom chefen för digital portfölj överblickar investeringar i hela den digitala portföljen, över flera tjänster; informationsresurser är nivå 6 eftersom portföljregistret och rapporteringen omfattar hela organisationen.

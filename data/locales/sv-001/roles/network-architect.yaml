@@ -1,0 +1,40 @@
+summary: >
+  Nätverksarkitekter utformar de lokala nät, regionnät, trådlösa nät och molnnät som kopplar samman organisationens enheter, personal, kliniska system och medicintekniska produkter. De ser till att nät är snabba, motståndskraftiga och säkra nog för en vård som aldrig stannar, och planerar hur nät förändras när tjänster flyttar till molnet och kopplas till partnerorganisationer.
+health_context:
+  - Kliniska system, telefoni och medicintekniska produkter är beroende av nätverket, så ett avbrott kan stoppa vården; designer behöver motståndskraft och testad redundans.
+  - Nät bär ofta uppkopplade medicintekniska produkter som är svåra att patcha, så arkitekter utformar segmentering och övervakning för att skydda dem.
+  - Personal arbetar på sjukhus, mottagningar, i närsjukvården och i patienters hem, så designer måste stödja säker mobil åtkomst och fjärråtkomst.
+  - Nät kopplas till gemensamma hälso- och vårdnät och partnerorganisationer, som ställer egna krav på anslutning och säkerhet.
+  - Ändringar i kliniska miljöer måste planeras noggrant kring patientvården, till exempel genom att lägga arbete utanför hektiska perioder.
+levels:
+  - title: Biträdande nätverksarkitekt
+    responsibilities:
+      - Utkasta nätverksdesigner, diagram och specifikationer med vägledning från nätverksarkitekter.
+      - Inventera platser och samla in krav för kliniska miljöer, inklusive trådlös täckning och enhetsanslutningar.
+      - Hålla register över nätverkstopologi, adressering och anslutna enheter uppdaterade.
+      - Kontrollera att designer uppfyller servicenivåer och säkerhetsstandarder före granskning.
+    qualifications:
+      - En examen i datavetenskap eller nätverk, en erkänd nätverkskvalifikation eller motsvarande erfarenhet.
+      - Specialistkunskap om nätverksdesign, på nivå med en påbyggnadsexamen eller motsvarande erfarenhet.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 5) eftersom annonser inom hälso- och sjukvården placerar rollen i band 6. Kunskap poängsätts på nivå med en påbyggnadsexamen, och informationsresurser på nivå 5 eftersom arbetet utformar delar av det nät som stora informationssystem är beroende av.
+  - title: Nätverksarkitekt
+    responsibilities:
+      - Utforma lösningar för lokala nät, regionnät, trådlösa nät och molnnät för platser och tjänster.
+      - Utforma nätverkssegmentering för medicintekniska produkter, kliniska system och gästtillgång.
+      - Planera nätverksändringar i kliniska miljöer tillsammans med tjänsteansvariga så att vården inte störs.
+      - Komma överens med leverantörer om servicenivåer och med partnernät om anslutningskrav.
+      - Bedöma ny nätverksteknik och hur den passar organisationens säkerhetsstandarder.
+    qualifications:
+      - Specialistkunskap om nätverksarkitektur, på masternivå eller motsvarande erfarenhet.
+      - Erfarenhet av att utforma och stödja företagsnät.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 6) eftersom annonser inom hälso- och sjukvården placerar rollen i band 7. Kunskap poängsätts på masternivå eller motsvarande för specialistkunskap över lokala nät, regionnät, trådlösa nät och molnnät.
+  - title: Ledande nätverksarkitekt
+    responsibilities:
+      - Äga nätverksarkitekturen för organisationen, inklusive dess platser, datacenter och molnanslutningar.
+      - Fastställa designstandarder för nätverk och kvalitetssäkra designer i designrådet.
+      - Utforma nätverkets motståndskraft och återställning för kritiska kliniska tjänster och se till att den testas.
+      - Ge råd om nätverksinvesteringar, leverantörsavtal och nätverksriskerna med nya tjänster.
+      - Vara den expertinstans som frågor eskaleras till och vägleda andra nätverksarkitekter och ingenjörer.
+    qualifications:
+      - Betydande erfarenhet av nätverksarkitektur för komplexa organisationer, på en nivå motsvarande en masterexamen.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 7) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8a. Informationsresurser är nivå 6 eftersom arbetet äger den nätverksarkitektur som alla organisationens informationssystem är beroende av.

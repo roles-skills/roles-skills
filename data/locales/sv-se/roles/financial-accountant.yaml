@@ -1,0 +1,67 @@
+summary: >
+  Redovisningsekonomer ser till att organisationens redovisning är fullständig, korrekt och följer redovisningsstandarder och regler för rapportering i offentlig sektor. De förvaltar balansräkningen, förbereder årsredovisningen och lagstadgade rapporter, förvaltar kassa och finansförvaltning, redovisar tillgångar och arbetar med revisorer. I en digital hälso- och sjukvårdsorganisation kommer mycket av komplexiteten från redovisningen av programvara, datatillgångar, molnarrangemang och fleråriga teknikavtal.
+health_context:
+  - Redovisning av digitala utgifter kräver omdöme, till exempel om programvaruutveckling, konfiguration av molntjänster eller licenser kan behandlas som investeringstillgångar.
+  - Organisationen måste redovisa offentliga medel till finansiärer och tillsynsorgan, ofta mot strikta gränser för investeringar och kassa.
+  - Fleråriga licens- och supportavtal skapar förutbetalda kostnader, åtaganden och ibland leasingavtal som måste redovisas korrekt.
+  - Immateriella tillgångar, såsom programvara som organisationen bygger, behöver värderas, skrivas av och prövas för nedskrivning när produkter förändras.
+  - Extern revision av offentliga organ är grundlig och offentlig, så underlag och arbetspapper måste hålla hög standard.
+levels:
+  - title: Redovisningsekonom (trainee)
+    summary: Redovisningsekonomer i traineeprogram förbereder avstämningar av balansräkningen, verifikationer och arbetspapper för redovisningen och arbetar samtidigt mot en erkänd revisorskvalifikation.
+    responsibilities:
+      - Förbereda avstämningar av balansräkningen och reda ut avstämningsposter.
+      - Bokföra verifikationer vid månadsslut och årsslut, såsom upplupna kostnader, förutbetalda kostnader och avskrivningar.
+      - Underhålla anläggningsregistret, inklusive tillgångar i form av programvara och hårdvara.
+      - Förbereda arbetspapper och underlag för årsredovisningen och revisionen.
+      - Förbereda information om kassaflöde och bankavstämningar.
+      - Arbeta mot en erkänd revisorskvalifikation.
+    qualifications:
+      - En examen eller en kvalifikation inom redovisning på mellannivå, och på väg mot en erkänd revisorskvalifikation, eller motsvarande erfarenhet.
+    job_evaluation_notes: Kunskap poängsätts på den nivå arbetet kräver när utbildningen har kommit tillräckligt långt för att kunna utföra arbetet.
+  - title: Redovisningsekonom
+    summary: Redovisningsekonomer är kvalificerade ekonomer som förvaltar balansräkningen och förbereder delar av årsredovisningen, lagstadgade rapporter och skattedeklarationer.
+    responsibilities:
+      - Förvalta stängningen vid månadsslut och årsslut för balansräkningen.
+      - Förbereda delar av årsredovisningen och tillhörande noter.
+      - Redovisa investeringsutgifter, inklusive att avgöra vilka digitala kostnader som kan aktiveras.
+      - Förbereda momsdeklarationer och ge råd om skattemässig behandling av avtal.
+      - Besvara revisorers frågor och komma överens om åtgärder med anledning av deras iakttagelser.
+      - Leda och utveckla redovisningsekonomer i traineeprogram.
+    qualifications:
+      - En erkänd revisorskvalifikation, eller motsvarande erfarenhet.
+  - title: Senior redovisningsekonom
+    summary: Senior redovisningsekonomer leder processen för årsredovisningen och redovisningen av komplexa områden, såsom immateriella tillgångar, leasing och molnarrangemang.
+    responsibilities:
+      - Planera och leda tidplanen för årsredovisningen och den externa revisionen.
+      - Skriva redovisningspromemorior om komplexa bedömningar, såsom aktivering av kostnader för programvaruutveckling eller konfiguration av molntjänster.
+      - Förvalta investeringsredovisning, inklusive tillgångars livslängd, avskrivning och nedskrivning av programvarutillgångar.
+      - Förvalta kassaprognoser och uttag av finansiering inom kassagränser.
+      - Förbereda lagstadgade rapporter och rapporter till finansiärer, såsom koncernredovisning och investeringsrapporter.
+      - Leda och utveckla ett litet team av redovisningsekonomer.
+    qualifications:
+      - En erkänd revisorskvalifikation, med betydande erfarenhet efter kvalificeringen, eller motsvarande.
+    job_evaluation_notes: Ekonomiska resurser är nivå 4 eftersom arbetet förvaltar organisationens kassaposition och investeringsredovisning.
+  - title: Chef för finansiell redovisning
+    summary: Chefer för finansiell redovisning driver finansiell redovisning, finansförvaltning och skatt för organisationen och ser till att kontroller och revisionsåtgärder finns på plats.
+    responsibilities:
+      - Leda funktionerna för finansiell redovisning, finansförvaltning och skatt.
+      - Äga organisationens redovisningsprinciper och deras tillämpning på nya typer av utgifter, såsom moln- och datatjänster.
+      - Förvalta bankkonton, bankarrangemang och prognosen för kassaflödet.
+      - Förvalta skatteefterlevnad och skatterisk, även för teknikavtal och gemensamma tjänster.
+      - Leda svaret på iakttagelser från intern och extern revision om finansiell redovisning och kontroller.
+      - Ha linjeansvar för redovisningsekonomer och personal inom finansförvaltning.
+    qualifications:
+      - En erkänd revisorskvalifikation, med omfattande erfarenhet efter kvalificeringen.
+    job_evaluation_notes: Ekonomiska resurser är nivå 5 eftersom arbetet förvaltar organisationens bank, kassa och tillgångar över alla tjänster.
+  - title: Chef för redovisning
+    summary: Chefer för redovisning leder organisationens lagstadgade rapportering, ekonomiska kontroll, finansförvaltning och skatt och är huvudkontakten för externa revisorer.
+    responsibilities:
+      - Leda förberedelsen av årsrapporten och årsredovisningen och presentera dem för revisionskommittén.
+      - Ge direktörer och revisionskommittén råd om betydande redovisningsbedömningar och nya standarder.
+      - Äga de ekonomiska reglerna, de ekonomiska rutinerna och delegationsordningen.
+      - Leda relationen med externa revisorer och tillsynsorgan om finansiell rapportering.
+      - Fastställa policy för finansförvaltning och skatt och förvalta finansiella risker.
+      - Leda och utveckla teamen för finansiell redovisning, finansförvaltning och transaktioner.
+    qualifications:
+      - En erkänd revisorskvalifikation, med omfattande erfarenhet efter kvalificeringen, inklusive att leda lagstadgad rapportering.

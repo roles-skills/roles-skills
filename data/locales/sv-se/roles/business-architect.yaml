@@ -1,0 +1,48 @@
+summary: >
+  Verksamhetsarkitekter bygger en tydlig, sammanhängande bild av hur organisationen levererar hälso- och sjukvård: dess förmågor, tjänster, vårdförlopp, processer och information. De använder bilden för att visa var förändring behövs, koppla strategi till program och se till att digital förändring förbättrar vården för patienter och arbetslivet för kliniker och vårdpersonal.
+health_context:
+  - Vårdförlopp korsar team, miljöer och organisationer, så verksamhetsarkitekter modellerar tjänster utifrån patientens perspektiv och inte bara per avdelning.
+  - Förändringar i kliniska processer kan påverka patientsäkerhet och personalens arbetsbelastning, så modeller byggs tillsammans med kliniker och vårdpersonal och kontrolleras mot verklig praktik.
+  - Hälso- och sjukvårdsstrategi formas av politik, reglering och finansieringsregler, som arkitekter måste översätta till praktiska förändringar av förmågor.
+  - Många förmågor delas med partnerorganisationer, så arkitekter hjälper till att komma överens om vem som gör vad och var information måste flöda.
+levels:
+  - title: Verksamhetsarkitekt (trainee)
+    responsibilities:
+      - Lära sig metoder för verksamhetsarkitektur, såsom modellering av förmågor, värdeströmmar och processer, genom utbildning och praktik.
+      - Samla information om tjänster och vårdförlopp genom intervjuer, dokument och observation.
+      - Utkasta förmågekartor och processmodeller med vägledning från verksamhetsarkitekter.
+      - Hjälpa till att genomföra workshoppar med kliniker, vårdpersonal och chefer och skriva ner resultaten.
+    qualifications:
+      - En examen eller motsvarande erfarenhet inom verksamhet, analys eller ett närliggande ämne.
+      - Specialistutbildning i metoder för verksamhetsarkitektur, på nivå med en påbyggnadsexamen eller motsvarande erfarenhet.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 5) eftersom annonser inom hälso- och sjukvården placerar rollen i band 6. Kunskap poängsätts på den nivå arbetet kräver när utbildningen har kommit tillräckligt långt för att kunna utföra arbetet.
+  - title: Biträdande verksamhetsarkitekt
+    responsibilities:
+      - Modellera förmågor, tjänster och vårdförlopp för en del av organisationen.
+      - Analysera modeller för att hitta luckor, dubbelarbete och problemområden för patienter och personal.
+      - Samla information från olika team och organisationer som underlag till beslut om förändring.
+      - Förklara komplexa tjänsteproblem för intressenter med tydliga modeller och klarspråk.
+      - Hålla förrådet för verksamhetsarkitektur korrekt och kopplat till applikations- och datamodeller.
+    qualifications:
+      - Specialistkunskap om verksamhetsarkitektur eller verksamhetsanalys, på masternivå eller motsvarande erfarenhet.
+      - Erfarenhet av verksamhetsanalys eller tjänstedesign.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 6) eftersom annonser inom hälso- och sjukvården placerar rollen i band 7. Kunskap poängsätts på masternivå eller motsvarande, eftersom arbetet modellerar och analyserar tjänster och vårdförlopp över team och organisationer.
+  - title: Verksamhetsarkitekt
+    responsibilities:
+      - Ta fram nuvarande och önskade verksamhetsarkitekturer för ett större tjänsteområde, såsom akutvård eller närsjukvård.
+      - Översätta strategi och policy till förändringar av förmågor och en färdplan för förändring.
+      - Kontrollera att program- och projektomfattning passar den önskade verksamhetsarkitekturen.
+      - Arbeta med kliniska ledare för att bedöma hur föreslagna förändringar påverkar vårdförlopp, säkerhet och personalens arbetsbelastning.
+      - Vägleda andra verksamhetsarkitekter i metoder och verktyg.
+    qualifications:
+      - Betydande erfarenhet av verksamhetsarkitektur, verksamhetsanalys eller tjänstedesign, på en nivå motsvarande en masterexamen.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 7) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8a. Planering, policy och handlingsfrihet poängsätts över profilen för band 7 eftersom arbetet omsätter strategi till en färdplan för förändring för ett större tjänsteområde.
+  - title: Ledande verksamhetsarkitekt
+    responsibilities:
+      - Leda praktiken för verksamhetsarkitektur och vara ansvarig för dess resultat.
+      - Upprätthålla den organisationsövergripande bilden av förmågor, tjänster och vårdförlopp och hålla den lättbegriplig.
+      - Ge direktörer råd om prioriteringar för förändring och hur investeringsportföljer passar strategin.
+      - Arbeta med partnerorganisationer för att komma överens om gemensamma förmågor och ansvar över vårdförlopp.
+      - Leda och utveckla verksamhetsarkitekter.
+    qualifications:
+      - Omfattande erfarenhet av att leda verksamhetsarkitektur i en komplex organisation.

@@ -1,0 +1,30 @@
+summary: >
+  Tjänsteägare är ansvariga ledare för en digital hälso- och vårdtjänst från början till slut, över dess digitala, operativa och kliniska delar. De samlar tvärprofessionella team och tjänstepartner, fastställer tjänstens strategi och prioriteringar, äger dess budget och prestation och ser till att den ger trygga resultat och nyttor av hög kvalitet för patienter, kliniker och vårdpersonal.
+health_context:
+  - En digital hälso- och vårdtjänst är en del av en bredare vårdtjänst, så tjänsteägare arbetar som jämlikar med kliniska och operativa ledare och delar ansvaret för patientens hela upplevelse.
+  - Tjänsteägaren är ansvarig för att tjänstens kliniska risk hanteras, arbetar med den kliniska säkerhetsansvarige och accepterar kvarstående risk på rätt nivå.
+  - Tjänster hanterar konfidentiell hälsoinformation, så tjänsteägare ser till att informationsstyrning, dataskydd och cybersäkerhet finns på plats och granskas.
+  - Tjänster i drift som stöder vården måste vara motståndskraftiga, så tjänsteägare ser till att verksamhetskontinuitet, incidenthantering och leverantörsstöd uppfyller kliniska behov.
+  - Nyttor i vården måste mätas och rapporteras, så tjänsteägare för nyckeltal som omfattar säkerhet, kvalitet, tillgång, jämlikhet och kostnad.
+levels:
+  - title: Tjänsteägare
+    responsibilities:
+      - Vara ansvarig för en digital hälso- och vårdtjänst från början till slut, såsom onlineåtkomst till journaler eller digitala remisser, genom hela dess livscykel.
+      - Fastställa tjänstens strategi och prioriteringar tillsammans med kliniska och operativa ledare och balansera användarnas behov, säkerhet, policy och kostnad.
+      - Äga tjänstens budget och motivera investeringar utifrån nyttor för patienter och personal.
+      - Se till att klinisk risk, informationsstyrning, tillgänglighet och cybersäkerhet hanteras och kvalitetssäkras.
+      - Följa tjänstens prestation och nyttor och leda förbättring när tjänsten brister.
+      - Företräda tjänsten i styrande organ och hos partner i hela hälso- och sjukvårdssystemet.
+    qualifications:
+      - Omfattande erfarenhet av att leda digitala, operativa eller kliniska tjänster.
+  - title: Senior tjänsteägare
+    responsibilities:
+      - Vara ansvarig för en grupp relaterade digitala hälso- och vårdtjänster, eller för en kritisk tjänst som används i hela vårdsystemet, såsom den elektroniska patientjournalen.
+      - Fastställa en flerårig strategi för tjänsterna tillsammans med ledningens, kliniska och operativa ledare.
+      - Äga budgetar och större leverantörsrelationer över tjänsterna.
+      - Acceptera och eskalera klinisk risk, informationsrisk och operativ risk på senior nivå, tillsammans med den kliniska säkerhetsansvarige och den verkställande ägaren av informationsrisk.
+      - Leda tjänsteägare och tvärprofessionella team och bygga en kultur av öppenhet och ständig förbättring.
+      - Leda svaret på större tjänsteincidenter som påverkar patientvården, och det lärande som följer.
+    qualifications:
+      - Omfattande erfarenhet av att leda stora eller kritiska tjänster, inklusive deras budgetar och leverantörer.
+    job_evaluation_notes: UK GDaD PCF har en nivå för tjänsteägare, vid G7 eller G6. Den här referensen lägger till en senior nivå i band 8c för tjänster som är kritiska för vården i hela organisationen, med budgetar över flera tjänster (ekonomiska resurser nivå 5) och regelbundet deltagande i allvarliga incidenter som påverkar patienter (känslomässig ansträngning nivå 2).

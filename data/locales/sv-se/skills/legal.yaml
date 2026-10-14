@@ -1,0 +1,237 @@
+# Swedish translations of data/skills/legal.yaml. Keys are the English skill ids.
+legal-legal-research:
+  name: Juridisk research
+  description: Hitta, läsa och sammanfatta lagstiftning, rättspraxis, vägledning och prejudikat för att besvara en juridisk fråga.
+  levels:
+    awareness: |
+      Du kan:
+      - hitta lagstiftning, vägledning och prejudikatdokument med juridiska databaser och organisationens kunskapsbank
+      - använda juridiska termer korrekt
+    working: |
+      Du kan:
+      - undersöka en avgränsad juridisk fråga och sammanfatta källorna tydligt
+      - kontrollera att källor är aktuella och auktoritativa
+      - hålla bibliotek med prejudikat och kunskap uppdaterade
+    practitioner: |
+      Du kan:
+      - undersöka komplexa eller nya frågor, såsom hur gällande rätt tillämpas på ny teknik
+      - analysera motstridiga källor och komma fram till en motiverad uppfattning
+      - följa förändringar i lag och vägledning och förklara deras effekt på organisationen
+    expert: |
+      Du kan:
+      - leda research om organisationens mest komplexa och högriskfyllda frågor
+      - förutse rättsliga förändringar och förbereda organisationen på dem
+      - bidra till samråd om lag och vägledning som påverkar digital hälsa och vård
+legal-contract-drafting-and-review:
+  name: Utformning och granskning av avtal
+  description: Utforma, granska och förhandla avtal och överenskommelser, såsom avtal om teknik, programvarulicenser, moln, tjänster och personuppgiftsbehandling.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara ett avtals huvuddelar, såsom parter, löptid, betalning, ansvar och uppsägning
+      - ta fram standarddokument utifrån godkända mallar
+    working: |
+      Du kan:
+      - granska rutinavtal, såsom sekretessavtal och enkla tjänsteavtal, mot organisationens standarder
+      - markera ändringar i avtal och förklara dem
+      - upptäcka klausuler som behöver en jurists granskning, såsom obegränsat ansvar eller automatisk förnyelse
+    practitioner: |
+      Du kan:
+      - utforma och förhandla komplexa avtal, såsom programvarulicenser, molndrift, systemintegration och personuppgiftsbiträdesavtal
+      - ge råd om riskfördelning, inklusive ansvarstak, servicenivåer, utträde och deponering
+      - se till att avtal skyddar patientdata, tjänstekontinuitet och organisationens rättigheter i sin programvara och sina data
+      - skriva och underhålla avtalsmallar och spelböcker
+    expert: |
+      Du kan:
+      - fastställa organisationens avtalsstandarder och riskpositioner
+      - leda förhandlingar om de mest värdefulla eller högriskfyllda avtalen
+      - ge seniora ledare råd om strategiska kommersiella arrangemang, såsom partnerskap och joint ventures
+legal-legal-advice:
+  name: Juridisk rådgivning
+  description: Ge tydliga, praktiska och korrekta juridiska råd som hjälper kollegor att fatta lagliga beslut och hantera juridisk risk.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara när kollegor behöver juridisk rådgivning och hur man får den
+      - ta emot tydliga instruktioner och dokumentera fakta i ett ärende
+    working: |
+      Du kan:
+      - ta fram utkast till råd i rutinärenden som en jurist granskar
+      - besvara okomplicerade frågor med godkänd vägledning
+      - identifiera de juridiska frågorna i en uppsättning fakta
+    practitioner: |
+      Du kan:
+      - ge oberoende juridiska råd inom dina verksamhetsområden
+      - förklara juridisk risk på klarspråk och rekommendera praktiska alternativ
+      - ge råd om beslut med rättsverkan, såsom tilldelning av avtal, datadelning och förändringar av tjänster
+      - avgöra när externa jurister eller ombud ska anlitas
+    expert: |
+      Du kan:
+      - ge styrelsen och ledningen råd om organisationens mest betydande juridiska risker
+      - ge slutgiltiga råd i nya, omstridda eller högvärdiga ärenden
+      - fastställa organisationens aptit för juridisk risk
+      - kvalitetssäkra de juridiska rådens kvalitet i hela organisationen, inklusive externa råd
+legal-litigation-and-disputes:
+  name: Rättstvister och tvistlösning
+  description: Förebygga, hantera och lösa tvister och anspråk, inklusive avtalstvister, arbetsrättsliga anspråk och kontakt kring anspråk på klinisk vårdskada.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara huvudstegen i ett anspråk eller en tvist
+      - logga anspråk och följa tidsfrister korrekt
+    working: |
+      Du kan:
+      - samla in och ordna handlingar och evidens för ett ärende
+      - ta fram kronologier, handlingsbuntar och utkast till vittnesmål
+      - hålla kontakt med externa jurister, försäkringsgivare eller ansvarsförsäkringssystem i rutinärenden
+    practitioner: |
+      Du kan:
+      - hantera en portfölj av tvister och anspråk från första anmälan till förlikning eller förhandling
+      - bedöma anspråkens förutsättningar och värde och rekommendera strategi
+      - förhandla förlikningar och använda alternativ tvistlösning
+      - se till att lärdomar från anspråk matas in i förbättringar av säkerhet, avtal och tjänster
+    expert: |
+      Du kan:
+      - leda organisationens mest betydande eller uppmärksammade tvister
+      - fastställa organisationens förhållningssätt till rättstvister, förlikning och rapportering av anspråk
+      - ge styrelsen råd om eventualförpliktelser och anseenderisk
+legal-information-and-data-law:
+  name: Informations- och dataskyddsrätt
+  description: Tillämpa dataskydd, sekretess, offentlighetsprincipen och cybersäkerhetsrätt på hälso- och vårddata och digitala tjänster.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara de grundläggande principerna för dataskydd och sekretess
+      - känna igen informationsbegäranden och dataintrång och föra dem vidare rätt
+    working: |
+      Du kan:
+      - granska avtal om datadelning och databehandling mot mallar
+      - stödja svar på informationsbegäranden och begäranden om registrerades rättigheter
+      - förklara de rättsliga grunderna för att använda hälsodata i vanliga situationer
+    practitioner: |
+      Du kan:
+      - ge råd om dataskydd, tystnadsplikt och lagstiftning om tillgång till information för digitala tjänster
+      - utforma och förhandla avtal om datadelning och villkor för databehandling, inklusive internationella överföringar
+      - ge råd om konsekvensbedömningar avseende dataskydd för ny teknik, såsom AI och analysplattformar
+      - ge råd om dataintrång, förfrågningar från tillsynsmyndigheter och klagomål
+    expert: |
+      Du kan:
+      - fastställa organisationens rättsliga ståndpunkt om användningen av hälso- och vårddata
+      - leda arbetet med högriskfyllda eller nya användningar av data, såsom forskning, dataplattformar och AI
+      - företräda organisationen hos tillsynsmyndigheter i informationsrättsliga frågor
+legal-legal-administration:
+  name: Juridisk administration
+  description: Driva de administrativa processerna i ett juridiskt team, inklusive ärendehantering, dokumentkontroll, journaler, tidsfrister och fakturering.
+  levels:
+    awareness: |
+      Du kan:
+      - öppna, uppdatera och avsluta ärenden i ärendehanteringssystemet
+      - arkivera och hämta juridiska dokument säkert
+      - hålla juridisk information och personuppgifter konfidentiella
+    working: |
+      Du kan:
+      - hantera kalendrar, tidsfrister och viktiga datum för ett team
+      - förbereda och formatera juridiska dokument, handlingsbuntar och signeringspaket
+      - kontrollera och bearbeta externa juristers fakturor
+      - förvalta avtals- och urkundsregister
+    practitioner: |
+      Du kan:
+      - driva det juridiska teamets administration och förbättra dess processer
+      - rapportera om arbetsbörda, utgifter för externa jurister och ledtider
+      - administrera juridisk teknik, såsom ärendehantering och verktyg för e-signering
+    expert: |
+      Du kan:
+      - utforma den operativa modellen för juridik i organisationen
+      - leda valet och användningen av juridisk teknik
+      - fastställa servicestandarder och prestationsmått för juridiska tjänster
+legal-employment-law:
+  name: Arbetsrätt
+  description: Tillämpa arbetsrätten på organisationens personalpolicyer, anställningsavtal, förändringsprogram och arbetsrättsliga tvister.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara personalens viktigaste anställningsrättigheter
+      - känna igen arbetsrättsliga frågor som behöver juridisk rådgivning
+    working: |
+      Du kan:
+      - hjälpa till att ta fram handlingar för arbetsrättsliga anspråk och förhandlingar
+      - granska anställningsavtal och policyer mot mallar
+    practitioner: |
+      Du kan:
+      - ge råd i arbetsrättsliga frågor, såsom uppsägning, diskriminering, verksamhetsövergångar och omstrukturering
+      - hantera arbetsrättsliga anspråk och förhandla förlikningsavtal
+      - ge råd om användningen av konsulter och digitala specialisters anställningsstatus
+    expert: |
+      Du kan:
+      - ge styrelsen råd om större personalförändringar och deras juridiska risker
+      - leda uppmärksammade eller komplexa arbetsrättsliga tvister
+      - forma personalpolicyer för att uppfylla rättsliga plikter och god praxis
+legal-intellectual-property:
+  name: Immaterialrätt
+  description: Skydda och använda immateriella rättigheter i programvara, data, innehåll och uppfinningar, inklusive upphovsrätt, licenser, öppen källkod och varumärken.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara att programvara, data och innehåll skyddas av immateriella rättigheter
+      - känna igen när ett avtal eller projekt väcker ägarfrågor
+    working: |
+      Du kan:
+      - kontrollera klausuler om immateriella rättigheter i rutinavtal
+      - föra register över licenser och registrerade rättigheter
+      - förklara de viktigaste licenstyperna för öppen källkod och deras villkor
+    practitioner: |
+      Du kan:
+      - ge råd om vem som äger programvara, data och innehåll som tas fram av personal, leverantörer och partner
+      - utforma licenser och villkor om immateriella rättigheter, inklusive utgivning av organisationens kod som öppen källkod
+      - ge råd om kommersiell användning av organisationens data och programvara, och om att dela nyttor
+    expert: |
+      Du kan:
+      - fastställa organisationens policy för immateriella rättigheter och öppen källkod
+      - leda arbetet med kommersialisering och partnerskap som rör organisationens data och programvara
+      - lösa betydande tvister om immateriella rättigheter
+legal-procurement-law:
+  name: Upphandlingsrätt
+  description: Tillämpa regler för offentlig upphandling på inköp av varor, tjänster och teknik, från val av väg till marknaden till tilldelning av avtal och överprövning.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför offentliga organ måste följa upphandlingsregler
+      - känna igen när inköpsverksamhet behöver upphandlings- eller juridisk rådgivning
+    working: |
+      Du kan:
+      - kontrollera anbudshandlingar för överensstämmelse och fullständighet
+      - stödja den dokumentation som behövs för att visa en rättvis och transparent process
+    practitioner: |
+      Du kan:
+      - ge råd om vägar till marknaden, inklusive ramavtal, direktupphandling och konkurrensutsatta förfaranden
+      - ge råd om utvärdering, tilldelningsbeslut och ändringar av avtal efter tilldelning
+      - svara på leverantörers överprövningar och klagomål
+      - ge råd om kontroll av statligt stöd och konkurrensrisker i partnerskap
+    expert: |
+      Du kan:
+      - fastställa organisationens förhållningssätt till juridisk upphandlingsrisk
+      - leda högvärdiga eller nya upphandlingar, såsom innovationspartnerskap
+      - försvara betydande överprövningar av upphandlingar
+legal-health-and-care-law:
+  name: Hälso- och sjukvårdsrätt
+  description: Tillämpa den lag som styr hälso- och sjukvårdstjänster, inklusive samtycke, beslutsförmåga, klinisk vårdskada, reglering av tjänster och produkter samt organisationens lagstadgade plikter.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara organisationens viktigaste lagstadgade plikter och befogenheter
+      - känna igen frågor som rör patientsäkerhet, samtycke eller klinisk vårdskada
+    working: |
+      Du kan:
+      - stödja juridiskt arbete kring incidenter, dödsorsaksutredningar eller kliniska anspråk
+      - förklara det regelverk som gäller organisationens tjänster
+    practitioner: |
+      Du kan:
+      - ge råd om organisationens befogenheter och plikter, inklusive när den får tillhandahålla eller beställa en tjänst
+      - ge råd om regleringen av digitala hälsoprodukter, såsom programvara som medicinteknisk produkt
+      - hålla kontakt med system för klinisk vårdskada och externa jurister om anspråk som rör digitala tjänster
+      - ge råd om samtycke, beslutsförmåga och patienters rättigheter i digitala tjänster
+    expert: |
+      Du kan:
+      - ge styrelsen råd om organisationens lagstadgade plikter och styrning
+      - leda juridiskt arbete kring offentliga utredningar, domstolsprövningar och större incidenter
+      - forma organisationens svar på ny hälso- och sjukvårdslagstiftning

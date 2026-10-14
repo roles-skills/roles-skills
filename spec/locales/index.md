@@ -25,6 +25,8 @@ How this reference is translated, published, and served in more than one languag
 | ja-001 | 日本語 (世界) | ltr | Done | Japanese for readers anywhere; a copy of ja-jp; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Japanese titles |
 | ko-kr | 한국어 | ltr | Done | Korean; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Korean titles |
 | ko-001 | 한국어 (세계) | ltr | Done | Korean for readers anywhere; a copy of ko-kr; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Korean titles |
+| sv-se | Svenska | ltr | Done | Swedish; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Swedish titles |
+| sv-001 | Svenska (världen) | ltr | Done | Swedish for readers anywhere; a copy of sv-se; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Swedish titles |
 | pt-001 | Português | ltr | Next | Portuguese |
 
 Every translation is AI-generated and needs a native speaker review; `tasks.md` tracks each review.

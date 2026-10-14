@@ -1,0 +1,72 @@
+summary: >
+  Specialister inom lärande och utveckling hjälper personal att skaffa de färdigheter de behöver för att leverera trygg, modern och digitalt stödd vård. De analyserar lärandebehov, utformar och genomför lärande på plats och online, driver lärplattformen och bygger karriärvägar. I en digital hälso- och sjukvårdsorganisation går en stor del av deras arbete ut på att utveckla digitala, datarelaterade och tekniska färdigheter, både för specialister och för hela arbetsstyrkan.
+health_context:
+  - Klinisk personal och vårdpersonal behöver utbildning i nya kliniska system före driftsättning, ofta över skift och platser, så lärande planeras kring tjänster som går dygnet runt.
+  - Viss utbildning är obligatorisk, såsom informationsstyrning, medvetenhet om cybersäkerhet och skydd av utsatta, och efterlevnaden rapporteras till styrelsen.
+  - Att odla knappa digitala färdigheter inifrån, genom lärlingsutbildningar, omskolning och karriärvägar, är ofta snabbare och billigare än att rekrytera dem.
+  - Kompetensramverk såsom den här referensen, UK GDaD PCF och ESCO ger ett gemensamt språk för analys av kompetensgap och utvecklingsplaner.
+  - Lärande måste vara tillgängligt för personal med olika behov, arbetsmönster och nivåer av digital trygghet.
+levels:
+  - title: Koordinator för lärande och utveckling
+    summary: Samordnar organisationens utbud av lärande, driver bokningar, lärplattformen och utbildningsregister och stödjer genomförandet av kurser.
+    responsibilities:
+      - Schemalägga kurser, boka lokaler och utbildare och förvalta bokningar och väntelistor.
+      - Underhålla kurser, anmälningar och registerföring av genomförande i lärplattformen.
+      - Ta fram rapporter om efterlevnad av obligatorisk utbildning för chefer.
+      - Besvara frågor från personal och chefer om utbudet av lärande.
+      - Stödja utbildare under pass, inklusive att sätta upp onlineklassrum och samla in återkoppling.
+      - Administrera anmälningar och uppföljningar av lärlingsutbildningar med utbildningsleverantörer.
+    qualifications:
+      - En kvalifikation på nivå 3, en lärlingsutbildning inom lärande och utveckling eller motsvarande erfarenhet.
+      - Erfarenhet av administration och av att använda en lärplattform eller liknande.
+  - title: Handläggare för lärande och utveckling
+    summary: Utformar och håller lärande för en rad personalgrupper, inklusive digitala färdigheter och systemutbildning, och utvärderar dess effekt.
+    responsibilities:
+      - Hålla utbildning på plats och online, såsom introduktion, digitala färdigheter och grunder i ledarskap.
+      - Bygga e-learning och korta guider i lärplattformen och göra dem tillgängliga.
+      - Arbeta med digitala team för att planera och hålla utbildning i nya kliniska system och verksamhetssystem före driftsättning.
+      - Stödja chefer att identifiera teamets lärandebehov och planera utveckling.
+      - Utvärdera kurser och förbättra dem med hjälp av återkoppling och resultat.
+      - Samordna lärlingsutbildningar tillsammans med utbildningsleverantörer, deltagare och chefer.
+    qualifications:
+      - En erkänd kvalifikation inom lärande och utveckling eller utbildning, eller motsvarande erfarenhet.
+      - Erfarenhet av att utforma och hålla utbildning för vuxna, på plats och online.
+    job_evaluation_notes: Människor är nivå 3 eftersom arbetet undervisar i grundläggande utbildning som huvuduppgift; forskning är nivå 2 eftersom det regelbundet utvärderar lärande.
+  - title: Specialist inom lärande och utveckling
+    summary: Leder analys, utformning och utvärdering av lärprogram för ett större område, såsom ledarskap, digitala färdigheter eller systemutbildning, med stor handlingsfrihet inom lärandestrategin.
+    responsibilities:
+      - Analysera lärandebehov för en personalgrupp eller profession, med analys av kompetensgap mot den här referensen.
+      - Utforma blandade lärprogram med tydliga mål, från e-learning till coachning och övning på arbetsplatsen.
+      - Utforma utbildningsstrategier för stora förändringar av kliniska system, inklusive nätverk av superanvändare.
+      - Utvärdera lärandets effekt på färdigheter, prestation och tjänster och rapportera den.
+      - Beställa och kvalitetssäkra externa utbildningsleverantörer.
+      - Coacha och utveckla handläggare för lärande och utveckling.
+    qualifications:
+      - En erkänd kvalifikation inom lärande och utveckling på mellannivå eller avancerad nivå, eller motsvarande erfarenhet.
+      - Betydande erfarenhet av att utforma och utvärdera lärprogram.
+    job_evaluation_notes: Människor är nivå 4 eftersom det är huvuduppgiften att utforma utbildningsprogram.
+  - title: Ansvarig för digitala färdigheter
+    summary: Leder organisationens program för att utveckla digitala färdigheter, datakunskaper och teknikkunskaper, för specialistyrken och för hela arbetsstyrkan, med kompetensramverk för att planera karriärer och täcka gap.
+    responsibilities:
+      - Leda programmet för digitala färdigheter, inklusive digital kunnighet för all personal och utveckling för digitala yrken, dataområdet och teknikyrken.
+      - Genomföra analys av kompetensgap över digitala team med rollprofilerna och färdigheterna i den här referensen och rapportera resultaten.
+      - Utforma karriärvägar från lärlingsutbildningar till seniora roller, kopplade till band och arbetsvärdering.
+      - Bygga partnerskap med universitet, högskolor och utbildningsleverantörer och utnyttja medel för lärlingsutbildning fullt ut.
+      - Förvalta budgeten för digitala färdigheter och utvärdera avkastningen på investeringen.
+      - Leda ett litet team av personal inom lärande och utveckling.
+    qualifications:
+      - En erkänd kvalifikation inom lärande och utveckling på avancerad nivå, eller motsvarande erfarenhet.
+      - Betydande erfarenhet av att bygga kompetensprogram, helst inom digitala yrken, dataområdet eller teknik.
+  - title: Chef för lärande
+    summary: Leder lärande och utveckling i organisationen, fastställer strategin för lärande och leder teamet för lärande, budgeten och systemen.
+    responsibilities:
+      - Fastställa organisationens strategi för lärande, kopplad till personalstrategin och bemanningsplanen.
+      - Leda och förvalta teamet för lärande och utveckling och dess tjänster, inklusive obligatorisk utbildning och lärplattformen.
+      - Hålla budgeten för lärande, inklusive medel för lärlingsutbildning och utgifter för extern utbildning.
+      - Rapportera lärandeaktivitet, efterlevnad och effekt till ledningens kommittéer.
+      - Leda program för ledar- och chefsutveckling tillsammans med kollegor inom organisationsutveckling.
+      - Se till att lärande är tillgängligt, inkluderande och tillgängligt för personal vid varje skift.
+    qualifications:
+      - En erkänd kvalifikation inom lärande och utveckling eller HR på avancerad nivå, eller en masterexamen i ett närliggande ämne, eller motsvarande erfarenhet.
+      - Omfattande erfarenhet av att leda tjänster för lärande.
+    job_evaluation_notes: Människor är nivå 5 eftersom arbetet förvaltar utbildning i hela organisationen.

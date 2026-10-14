@@ -1,0 +1,158 @@
+# Job evaluation factors in Swedish. Keys are the English factor ids.
+communication:
+  name: Kommunikations- och relationsfärdigheter
+  description: Färdigheter som behövs för att kommunicera med, och bygga relationer med, kollegor, patienter, allmänheten och partner. Tar hänsyn till hur komplex, känslig eller omstridd informationen är, och till hinder för förståelse eller acceptans.
+  levels:
+    "1": Ger och tar emot rutinmässig information muntligt, främst med kollegor.
+    "2": Ger och tar emot rutinmässig information muntligt, skriftligt eller elektroniskt, med kollegor och andra.
+    "3": Ger rutinmässig information som kräver takt eller övertalning, eller komplex eller känslig information, eller enkel utbildning för grupper.
+    "4": Ger komplex, känslig eller omstridd information som kräver övertalnings-, förhandlings- eller utbildningsförmåga, eller mycket komplex information.
+    "5": Ger mycket komplex eller omstridd information som kräver utvecklad övertalnings- och förhandlingsförmåga, presenterar för stora grupper eller kommunicerar där det finns betydande hinder för acceptans.
+    "6": Ger mycket komplex och mycket omstridd information där det finns betydande hinder för acceptans, med den högsta nivån av kommunikationsförmåga.
+knowledge:
+  name: Kunskap, utbildning och erfarenhet
+  description: Den kunskap och erfarenhet som behövs för att utföra arbetet, oavsett varifrån den kommer, inklusive formell utbildning, kvalifikationer och erfarenhet.
+  levels:
+    "1": Några få rutinförfaranden, som lärs in på jobbet under en kort introduktion.
+    "2": En rad rutinförfaranden, som lärs in genom utbildning på arbetsplatsen och introduktion.
+    "3": En rad förfaranden, vissa som inte är rutin, som kräver grundläggande teori (till exempel en kvalifikation på nivå 3 eller motsvarande erfarenhet).
+    "4": En rad förfaranden, mestadels icke-rutin, som kräver teori på mellannivå (till exempel en kortare högskoleutbildning eller motsvarande erfarenhet).
+    "5": Expertis inom en specialisering, underbyggd av teori eller praktisk erfarenhet (examensnivå eller motsvarande).
+    "6": Specialistkunskap över hela specialiseringen (nivå motsvarande ett eftergymnasialt specialistdiplom eller motsvarande erfarenhet).
+    "7": Högt utvecklad specialistkunskap över hela specialiseringen (masternivå eller motsvarande).
+    "8": Avancerad kunskap (doktorsexamen plus ytterligare utbildning eller motsvarande), eller specialistkunskap över mer än en disciplin som byggts upp under lång tid.
+analytical:
+  name: Analytiska färdigheter och omdöme
+  description: Den analys och det omdöme som behövs för att bearbeta information, lösa problem och fatta beslut.
+  levels:
+    "1": Bedömningar av okomplicerade fakta eller situationer.
+    "2": Bedömningar av fakta eller situationer, där vissa kräver analys.
+    "3": Bedömningar av en rad fakta eller situationer som kräver analys eller jämförelse av alternativ.
+    "4": Bedömningar av komplexa fakta eller situationer som kräver analys, tolkning och jämförelse av alternativ.
+    "5": Bedömningar av mycket komplexa fakta eller situationer som kräver analys, tolkning och jämförelse av alternativ.
+planning:
+  name: Planerings- och organisationsförmåga
+  description: Den planering och organisering som behövs för att driva aktiviteter, program, tjänster eller strategier.
+  levels:
+    "1": Organiserar det egna dagliga arbetet.
+    "2": Planerar okomplicerade uppgifter eller aktiviteter, vissa pågående.
+    "3": Planerar flera komplexa aktiviteter och justerar planerna vid behov.
+    "4": Planerar ett brett spektrum av komplexa aktiviteter eller strategier och justerar dem vid behov.
+    "5": Utformar långsiktiga strategiska planer, med osäkerhet och effekter i hela organisationen.
+physical-skills:
+  name: Fysiska färdigheter
+  description: De fysiska färdigheter som behövs, såsom fingerfärdighet, koordination, tangentbordsvana och körning.
+  levels:
+    "1": Litet behov av fysiska färdigheter.
+    "2": Färdigheter som tillägnats genom övning, såsom vanlig tangentbordsanvändning eller körning.
+    "3": Utvecklade färdigheter som kräver snabbhet eller noggrannhet, såsom avancerad tangentbordsanvändning.
+    "4": Mycket utvecklade färdigheter som kräver precision eller snabbhet och hög koordination mellan hand och öga.
+    "5": Den högsta nivån av precision, snabbhet och koordination.
+patient-care:
+  name: Ansvar för patient- och klientvård
+  description: Ansvar för att bedöma, behandla, vårda eller ge råd till patienter och klienter. För de flesta digitala roller och verksamhetsstödjande roller är detta enbart tillfällig kontakt.
+  levels:
+    "1": Hjälper patienter, klienter eller anhöriga vid tillfällig kontakt.
+    "2": Ger allmänna icke-kliniska råd, information eller tjänster direkt till patienter eller allmänheten.
+    "3": Ger personlig omvårdnad, grundläggande kliniska tekniska tjänster eller grundläggande kliniska råd.
+    "4": Utför klinisk vård, tillhandahåller kliniska tekniska tjänster eller ger råd om patienters vård.
+    "5": Utvecklar vårdprogram, tillhandahåller specialiserade kliniska tekniska tjänster eller ger specialiserade råd om patientvård.
+    "6": Utvecklar specialiserad vård, ger mycket specialiserade råd eller är ansvarig för en del av en klinisk tjänst.
+    "7": Ansvarig för att leverera en klinisk tjänst eller vårdtjänst.
+    "8": Organisationsövergripande ansvar för kliniska tjänster eller vårdtjänster.
+policy:
+  name: Ansvar för policy- och tjänsteutveckling
+  description: Ansvar för att utveckla och genomföra policyer och tjänster, och hur långt effekterna sträcker sig.
+  levels:
+    "1": Följer policyer som andra har fastställt; kan lämna synpunkter på förändringar.
+    "2": Genomför policyer för det egna området och föreslår förändringar av dess praxis.
+    "3": Genomför policyer för det egna området och föreslår förändringar som påverkar andra områden.
+    "4": Genomför policy och utvecklar policy eller tjänster för en tjänst eller flera områden.
+    "5": Genomför och utvecklar en rad policyer eller tjänster för en direktion.
+    "6": Organisationsövergripande ansvar för större policy- eller tjänsteutveckling i eller bortom organisationen.
+financial-resources:
+  name: Ansvar för ekonomiska och fysiska resurser
+  description: Ansvar för pengar, budgetar, utrustning, lager, byggnader och andra tillgångar.
+  levels:
+    "1": Tar personligt hand om utrustning och resurser som används i det egna arbetet.
+    "2": Hanterar kontanter eller värdesaker, tar hand om utrustning som används av andra, kontrollerar lager eller attesterar små betalningar.
+    "3": Attesterar betalningar, köper vissa tillgångar eller förnödenheter, följer upp eller förfogar över en delegerad budget eller underhåller tillgångar.
+    "4": Förfogar över eller fastställer budgeten för en avdelning eller tjänst, eller köper eller underhåller dess tillgångar.
+    "5": Förfogar över eller fastställer budgetar, eller förvaltar tillgångar, för flera tjänster.
+    "6": Organisationsövergripande ansvar för organisationens ekonomi eller tillgångar.
+people:
+  name: Ansvar för människor
+  description: Ansvar för att leda, handleda, utbilda eller utveckla personal, eller för att tillhandahålla personaltjänster (HR).
+  levels:
+    "1": Visar nya eller mindre erfarna kollegor hur man utför det egna arbetet.
+    "2": Handleder eller samordnar personal i det dagliga arbetet, utbildar andra regelbundet eller ger grundläggande HR-råd.
+    "3": Leder en grupp personal i det dagliga arbetet, undervisar i grund- eller specialistutbildning eller ger grundläggande HR-råd.
+    "4": Har linjeansvar för en funktion eller avdelning, utformar utbildningsprogram som huvuduppgift eller levererar hela spektrumet av HR-tjänster.
+    "5": Har linjeansvar för flera avdelningar, eller leder utbildning eller en stor del av HR i hela organisationen.
+    "6": Organisationsövergripande ansvar för organisationens personal eller HR-funktion.
+information-resources:
+  name: Ansvar för informationsresurser
+  description: Ansvar för information och informationssystem, på papper eller digitalt, inklusive journaler, data och de system som håller dem.
+  levels:
+    "1": Registrerar information som befattningshavaren själv producerar.
+    "2": Matar in eller lagrar data som sammanställts av andra, eller skriver ibland rapporter eller frågor.
+    "3": För formella protokoll, skriver regelbundet rapporter eller frågor eller underhåller informationssystem som en betydande uppgift.
+    "4": Anpassar eller utformar informationssystem enligt andras specifikationer, eller driver informationssystem för en avdelning som huvuduppgift.
+    "5": Utformar och utvecklar större informationssystem, eller driver informationssystem för flera tjänster som huvuduppgift.
+    "6": Förvaltar och utvecklar informationssystem i hela organisationen som huvuduppgift.
+    "7": Organisationsövergripande ansvar för organisationens informationssystem.
+research:
+  name: Ansvar för forskning och utveckling
+  description: Ansvar för formell forskning, utveckling, utvärdering, revisioner, testning och försök.
+  levels:
+    "1": Genomför enkäter eller revisioner för det egna arbetet; deltar ibland i forskning eller testning.
+    "2": Utför regelbundet forskning, utveckling, försök eller testning av utrustning och system som en del av arbetet.
+    "3": Genomför forskning eller utveckling inom formella program som huvuduppgift.
+    "4": Samordnar och genomför forsknings- och utvecklingsprogram.
+    "5": Initierar och utvecklar forsknings- och utvecklingsprogram som stöder organisationens mål.
+    "6": Initierar och utvecklar forsknings- och utvecklingsprogram med effekter bortom organisationen.
+freedom-to-act:
+  name: Handlingsfrihet
+  description: Hur långt befattningshavaren själv avgör vad som ska göras och hur, och hur nära arbetet handleds.
+  levels:
+    "1": Arbetar inom fastställda förfaranden, med handledning nära till hands.
+    "2": Följer standardförfaranden och prejudikat; någon finns vanligen tillgänglig att fråga; arbetet kan kontrolleras.
+    "3": Följer definierade policyer och förfaranden; arbetet styrs snarare än handleds.
+    "4": Resultaten är definierade, men befattningshavaren avgör hur de uppnås, inom bred policy.
+    "5": Arbetar inom allmänna policyer och avgör i de flesta fall själv hur de ska tolkas.
+    "6": Tolkar övergripande policy och strategi för att sätta mål och standarder.
+physical-effort:
+  name: Fysisk ansträngning
+  description: Den fysiska ansträngning som krävs, med hänsyn till hur ofta, hur länge och hur intensivt.
+  levels:
+    "1": Sitter, står och går, med liten fysisk ansträngning.
+    "2": Sitter eller står ofta i en begränsad position, eller gör tillfälligt lätta till måttliga ansträngningar.
+    "3": Ofta lätt ansträngning under långa perioder, eller ofta måttlig ansträngning under korta perioder.
+    "4": Ständig lätt ansträngning, ofta måttlig ansträngning under långa perioder eller tillfällig intensiv ansträngning.
+    "5": Ständig måttlig ansträngning, eller ofta intensiv ansträngning.
+mental-effort:
+  name: Mental ansträngning
+  description: Den koncentration som krävs, med hänsyn till hur ofta, hur länge och hur förutsägbart arbetet är.
+  levels:
+    "1": Allmän uppmärksamhet; tillfällig koncentration på förutsägbart arbete.
+    "2": Ofta koncentration på förutsägbart arbete, eller tillfällig koncentration på oförutsägbart arbete.
+    "3": Ofta koncentration på oförutsägbart arbete, eller tillfällig långvarig koncentration.
+    "4": Ofta långvarig koncentration, eller tillfällig intensiv koncentration.
+    "5": Ofta intensiv koncentration.
+emotional-effort:
+  name: Känslomässig ansträngning
+  description: De känslomässiga kraven i arbetet, från direkt eller indirekt exponering för påfrestande omständigheter, såsom att läsa påfrestande ärendejournaler eller hantera allvarliga incidenter.
+  levels:
+    "1": Sällsynt exponering, eller tillfällig indirekt exponering, för påfrestande omständigheter.
+    "2": Tillfällig exponering, eller frekvent indirekt exponering, för påfrestande omständigheter.
+    "3": Frekvent exponering för påfrestande omständigheter, eller tillfällig exponering för mycket påfrestande sådana.
+    "4": Tillfällig exponering för traumatiska omständigheter, eller frekvent exponering för mycket påfrestande sådana.
+working-conditions:
+  name: Arbetsförhållanden
+  description: Exponering för obehagliga förhållanden eller faror. Nästan oavbruten skärmanvändning de flesta dagar räknas på nivå 2.
+  levels:
+    "1": Sällsynt exponering för obehagliga förhållanden.
+    "2": Tillfälliga obehagliga förhållanden, frekventa resor eller utomhusarbete, eller nästan oavbruten skärmanvändning de flesta dagar.
+    "3": Frekventa obehagliga förhållanden, eller tillfälliga mycket obehagliga sådana.
+    "4": Viss exponering för faror, eller frekventa mycket obehagliga förhållanden.
+    "5": Betydande exponering för faror.

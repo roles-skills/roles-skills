@@ -1,0 +1,60 @@
+summary: >
+  Kliniska informatiker är legitimerade kliniker, såsom läkare, sjuksköterskor, apotekare och andra vårdprofessioner, som använder sin kliniska kunskap för att forma organisationens digitala hälso- och vårdtjänster. De ser till att kliniska system, data och beslutsstöd passar hur vården levereras, är trygga att använda och förbättrar utfallen för patienter och upplevelsen för kliniker och vårdpersonal.
+health_context:
+  - Rollen kräver aktuell klinisk kunskap, så de flesta tjänster kräver registrering hos ett kliniskt yrkesorgan och viss pågående klinisk praktik.
+  - Kliniska informatiker ger specialiserade råd om hur system påverkar patientvården, så deras omdöme påverkar direkt patientsäkerheten.
+  - De arbetar nära kliniska säkerhetsansvariga och bidrar med klinisk expertis till identifiering av faror och säkerhetsunderlag.
+  - Goda kliniska data beror på konsekvent användning av kliniska terminologier såsom SNOMED CT, så de hjälper till att utforma strukturerade journaler och beslutsstöd.
+  - De fungerar som en brygga mellan kliniker, vårdpersonal och digitala team och leder ofta den kliniska dialogen vid systemändringar.
+levels:
+  - title: Specialist inom klinisk informatik
+    summary: Bidrar med klinisk expertis till utformning, konfiguration, testning och införande av kliniska system och arbetar i ett produktteam eller programteam under vägledning av en senior klinisk informatiker.
+    responsibilities:
+      - Kartlägga kliniska arbetsflöden tillsammans med kliniker och vårdpersonal och omsätta dem till tydliga krav.
+      - Utforma och testa systeminnehåll såsom formulär, ordermängder och vårdplaner mot kliniska scenarier.
+      - Delta i riskworkshoppar och ge kliniska bedömningar av risker och kontroller.
+      - Stödja kliniker och vårdpersonal att ta i bruk nya system tryggt, inklusive utbildning och stöd vid driftsättning.
+      - Kontrollera att kliniska data registreras konsekvent med överenskomna kliniska terminologier.
+      - Samla återkoppling och data om användningen av system och föreslå förbättringar.
+    qualifications:
+      - Aktuell registrering hos ett kliniskt yrkesorgan, med erfarenhet av klinisk praktik.
+      - Erfarenhet av att använda kliniska system i praktiken, eller motsvarande erfarenhet av digital förändring.
+    job_evaluation_notes: Patientvård poängsätts på nivå 4 eftersom arbetet ger råd om patienters vård genom utformningen av kliniska system. Känslomässig ansträngning speglar regelbunden granskning av patientjournaler och incidenter.
+  - title: Senior klinisk informatiker
+    summary: Leder det kliniska bidraget till ett större kliniskt system, en produkt eller ett program och ger specialiserade råd om hur digitala tjänster påverkar patientvård och säkerhet.
+    responsibilities:
+      - Leda den kliniska designen för ett större kliniskt system eller en produkt och fastställa standarder för innehåll och konfiguration.
+      - Ge produktteam specialiserade råd om kliniska arbetsflöden, beslutsstöd och säkerhet.
+      - Arbeta med den kliniska säkerhetsansvarige för att identifiera faror, komma överens om kontroller och ge kliniskt underlag till säkerhetsunderlag.
+      - Leda klinisk dialog och införande över tjänster och förespråka trygg användning bland kliniska kollegor.
+      - Planera och genomföra utvärderingar och kliniska revisioner av systemanvändning och nyttor.
+      - Handleda specialister inom klinisk informatik och kliniker som är nya inom digitalt arbete.
+    qualifications:
+      - Aktuell registrering hos ett kliniskt yrkesorgan, med betydande klinisk erfarenhet.
+      - En påbyggnadsutbildning inom klinisk informatik eller hälsoinformatik, eller motsvarande erfarenhet.
+    job_evaluation_notes: Patientvård poängsätts på nivå 5 för specialiserade råd om patientvård. Forskning är nivå 3 eftersom utvärdering och klinisk revision av system är en huvuddel av arbetet.
+  - title: Ledande klinisk informatiker
+    summary: Leder klinisk informatik för en portfölj av kliniska system eller en vårdmiljö, fastställer kliniska designstandarder och leder ett team av kliniska informatiker.
+    responsibilities:
+      - Fastställa kliniska designstandarder och principer för kliniska system över en portfölj.
+      - Leda ett team av kliniska informatiker, fastställa prioriteringar och stödja deras yrkesmässiga utveckling.
+      - Ge programstyrgrupper och seniora ledare råd om klinisk risk, nytta och prioriteringar för kliniska system.
+      - Leda kliniska beslut om beslutsstöd, larm och strukturerade data över tjänster.
+      - Bygga nätverk av kliniska förespråkare och leda den kliniska dialogen vid storskalig förändring.
+      - Beställa och leda utvärderingar och använda underlaget för att forma färdplanen.
+    qualifications:
+      - Aktuell registrering hos ett kliniskt yrkesorgan, med omfattande klinisk erfarenhet.
+      - En påbyggnadsutbildning inom klinisk informatik eller hälsoinformatik, eller motsvarande erfarenhet av att leda arbete inom klinisk informatik.
+  - title: Chef för klinisk informatik
+    summary: Leder organisationens funktion för klinisk informatik och dess kliniska designråd och ser till att alla kliniska system utformas, tas i bruk och förbättras med ett starkt kliniskt ledarskap.
+    responsibilities:
+      - Fastställa strategin för klinisk informatik och leda organisationens kliniska designråd.
+      - Leda och utveckla funktionen för klinisk informatik, inklusive dess bemanningsplan och budget.
+      - Ge ledningen mycket specialiserade råd om hur digitala investeringar påverkar patientvården.
+      - Se till att kliniska system uppfyller standarder för klinisk säkerhet, terminologi och data.
+      - Företräda organisationen hos hälso- och vårdpartner, yrkesorgan och akademiska nätverk.
+      - Leda samarbeten kring forskning och utvärdering för att bygga underlaget för digital hälsa.
+    qualifications:
+      - Aktuell registrering hos ett kliniskt yrkesorgan, med omfattande klinisk erfarenhet och ledarerfarenhet.
+      - En masterexamen i klinisk informatik eller hälsoinformatik, eller motsvarande erfarenhet av att leda klinisk informatik på organisationsnivå.
+    job_evaluation_notes: Patientvård poängsätts på nivå 6 för mycket specialiserade råd om patientvård över organisationens kliniska system.

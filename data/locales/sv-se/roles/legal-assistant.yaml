@@ -1,0 +1,43 @@
+summary: >
+  Juridiska assistenter och paralegaler stödjer organisationens jurister så att juridiskt arbete är ordnat, korrekt och i tid. De förvaltar ärenden och dokument, förbereder avtal och handlingsbuntar, undersöker juridiska frågor och hanterar juridiska rutinuppgifter. I en digital hälso- och sjukvårdsorganisation omfattar arbetet mycket teknikavtal, avtal om datadelning och databehandling, informationsbegäranden och anspråk som kan innehålla känslig patientinformation.
+health_context:
+  - Juridiska akter innehåller ofta konfidentiell hälsoinformation, såsom patientjournaler i anspråk, så strikt informationsstyrning gäller.
+  - Många avtal gäller programvara, molntjänster och datadelning, så personal behöver känna igen de klausuler som är viktiga för patientdata och kontinuitet i tjänster.
+  - Tidsfrister i anspråk, dödsorsaksutredningar och överprövningar av upphandlingar är korta och fasta, och att missa dem kan bli kostsamt.
+  - Organisationen använder offentliga medel till externa jurister, så juridiska utgifter måste följas upp och kontrolleras.
+levels:
+  - title: Juridisk administratör
+    summary: Juridiska administratörer driver det juridiska teamets administrativa processer, såsom öppnande av ärenden, dokumenthantering, register och fakturor, enligt fastställda rutiner.
+    responsibilities:
+      - Öppna, uppdatera och avsluta ärenden i ärendehanteringssystemet.
+      - Arkivera, formatera och hämta juridiska dokument och hålla dem säkra och konfidentiella.
+      - Underhålla register över avtal, urkunder och signeringar.
+      - Förvalta kalendrar och nyckeldatum och påminna jurister om tidsfrister.
+      - Kontrollera och bearbeta fakturor från externa jurister.
+      - Besvara rutinfrågor och föra förfrågningar om juridisk rådgivning vidare.
+    qualifications:
+      - God administrativ förmåga och goda tangentbordskunskaper, förvärvade genom utbildning eller arbetslivserfarenhet.
+      - En kvalifikation inom juridisk administration är användbar men inte nödvändig.
+  - title: Juridisk assistent
+    summary: Juridiska assistenter stödjer jurister i en rad ärenden, förbereder dokument utifrån mallar, genomför avgränsad research och hanterar de praktiska stegen i avtal och ärenden.
+    responsibilities:
+      - Förbereda standardavtal, såsom sekretessavtal och avtal om datadelning, utifrån godkända mallar.
+      - Förbereda handlingsbuntar, kronologier och signeringspaket för avtal och ärenden.
+      - Genomföra avgränsad juridisk research och sammanfatta resultaten åt jurister.
+      - Samla in dokument och underlag för anspråk och informationsbegäranden.
+      - Följa upp utgifter för externa jurister mot budgetar och rapportera om dem.
+      - Utbilda juridiska administratörer i rutinuppgifter.
+    qualifications:
+      - En kvalifikation som juridisk assistent eller paralegal på mellannivå, eller motsvarande erfarenhet.
+  - title: Paralegal
+    summary: Paralegaler hanterar sin egen portfölj av juridiska rutinärenden under en jurists handledning, såsom standardmässig avtalsgranskning, informationsbegäranden och stöd vid anspråk.
+    responsibilities:
+      - Granska rutinavtal, såsom programvarulicenser, tjänsteavtal och personuppgiftsbiträdesavtal, mot organisationens standarder.
+      - Hantera en portfölj av rutinanspråk eller rutintvister, förbereda dokument och hålla kontakt med externa jurister och ansvarsförsäkringssystem.
+      - Undersöka juridiska frågor och utkasta råd som en jurist granskar.
+      - Stödja svar på komplexa informationsbegäranden och begäranden om registrerades rättigheter.
+      - Hålla mallar, prejudikat och juridisk vägledning uppdaterade.
+      - Samordna arbetet hos juridiska assistenter och administratörer.
+    qualifications:
+      - En juristexamen eller en avancerad paralegalkvalifikation, eller motsvarande erfarenhet.
+    job_evaluation_notes: Känslomässig ansträngning är nivå 2 eftersom arbetet regelbundet läser patientjournaler och beskrivningar av skada i anspråk.

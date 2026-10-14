@@ -1,0 +1,47 @@
+summary: >
+  Kliniska säkerhetsansvariga är legitimerade kliniker som ser till att de IT-system för hälso- och sjukvården som organisationen bygger, köper och driftsätter är säkra för patienter. De driver processen för klinisk riskhantering, leder identifiering av faror, äger faroregister och skriver och godkänner rapporter om kliniska säkerhetsunderlag, med standarder för klinisk riskhantering såsom ISO 14971 och IEC 80001-1.
+health_context:
+  - Rollen måste innehas av en legitimerad kliniker, så att säkerhetsbedömningar vilar på aktuell klinisk kunskap och yrkesmässigt ansvar.
+  - IT för hälso- och sjukvården kan skada patienter genom felaktig, saknad, försenad eller vilseledande information, så rollen bedömer risker som ofta är dolda i data och arbetsflöden.
+  - Klinisk säkerhetsarbete löper genom ett systems hela liv, från design och upphandling till driftsättning, ändring och avveckling.
+  - Vissa produkter är också reglerade som medicintekniska produkter, så rollen arbetar med kollegor inom regulatoriska frågor och kvalitet där säkerhetsunderlag och produktfiler överlappar.
+  - Säkerhetsincidenter som rör IT för hälso- och sjukvården kan orsaka allvarlig skada, så rollen utreder incidenter och ser till att lärdomar dras.
+levels:
+  - title: Klinisk säkerhetsansvarig
+    summary: Driver processen för klinisk riskhantering för en uppsättning produkter eller ändringar, leder riskworkshoppar, för faroregister och skriver rapporter om kliniska säkerhetsunderlag för godkännande.
+    responsibilities:
+      - Leda workshoppar för identifiering av faror tillsammans med produktteam, kliniker och leverantörer.
+      - Bedöma kliniska risker och komma överens om kontroller, och därefter kontrollera att kontrollerna fungerar genom testning och underlag.
+      - Skriva och underhålla faroregister och rapporter om kliniska säkerhetsunderlag för produkter och ändringar.
+      - Granska leverantörers säkerhetsdokumentation för system som organisationen köper.
+      - Utreda säkerhetsincidenter som rör IT för hälso- och sjukvården och rekommendera förbättringar.
+      - Ge digitala team råd om processen för klinisk riskhantering och säkerhet genom design.
+    qualifications:
+      - Aktuell registrering hos ett kliniskt yrkesorgan, med betydande klinisk erfarenhet.
+      - Utbildning i klinisk riskhantering för IT inom hälso- och sjukvården, eller motsvarande erfarenhet.
+    job_evaluation_notes: Patientvård poängsätts på nivå 5 eftersom arbetet ger specialiserade råd om säkerheten i system som används i patientvården. Mental ansträngning speglar långvarig koncentration på säkerhetsdokumentation och underlag.
+  - title: Senior klinisk säkerhetsansvarig
+    summary: Leder klinisk säkerhet för ett större program eller en portfölj av högriskfyllda system, godkänner säkerhetsunderlag och vägleder andra kliniska säkerhetsansvariga.
+    responsibilities:
+      - Leda klinisk riskhantering för högriskfyllda system såsom elektroniska patientjournaler, ordination och beslutsstöd.
+      - Godkänna faroregister och rapporter om kliniska säkerhetsunderlag inom delegerad befogenhet.
+      - Ge programstyrgrupper råd om klinisk risk och om ett system är tryggt att driftsätta.
+      - Leda utredningar av allvarliga säkerhetsincidenter som rör IT för hälso- och sjukvården.
+      - Coacha och kvalitetsgranska arbetet hos kliniska säkerhetsansvariga och säkerhetsutbildade kliniker.
+      - Hjälpa till att förbättra organisationens system för klinisk riskhantering och mallar.
+    qualifications:
+      - Aktuell registrering hos ett kliniskt yrkesorgan, med omfattande klinisk erfarenhet.
+      - Betydande erfarenhet av klinisk riskhantering för IT inom hälso- och sjukvården.
+  - title: Chef för klinisk säkerhet
+    summary: Äger organisationens system för klinisk riskhantering för IT inom hälso- och sjukvården, leder teamet för klinisk säkerhet och ger styrelsen försäkran om att dess digitala tjänster är kliniskt trygga.
+    responsibilities:
+      - Äga systemet, policyn och processerna för klinisk riskhantering för all IT inom hälso- och sjukvården.
+      - Leda och utveckla teamet för klinisk säkerhet och det bredare nätverket av säkerhetsutbildade kliniker.
+      - Kvalitetssäkra säkerhetsunderlag för större system och lämna den slutliga kliniska säkerhetsrekommendationen om driftsättning.
+      - Leda svaret på allvarliga säkerhetsincidenter som rör IT för hälso- och sjukvården, även tillsammans med partner och leverantörer.
+      - Rapportera kliniska säkerhetsrisker och kvalitetssäkring till styrelsen och dess kommittéer.
+      - Bygga en kultur av klinisk säkerhet över digitala team, kliniska team och leverantörsteam.
+    qualifications:
+      - Aktuell registrering hos ett kliniskt yrkesorgan, med omfattande klinisk erfarenhet och ledarerfarenhet.
+      - Omfattande erfarenhet av att leda klinisk riskhantering för IT inom hälso- och sjukvården i en organisation.
+    job_evaluation_notes: Patientvård poängsätts på nivå 6 eftersom arbetet är ansvarigt för den kliniska säkerheten i organisationens IT för hälso- och sjukvården. Känslomässig ansträngning speglar regelbunden granskning av incidenter som innebär patientskada.

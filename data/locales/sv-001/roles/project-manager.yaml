@@ -1,0 +1,63 @@
+summary: >
+  Projektledare planerar och genomför projekt som förändrar hur organisationen stöder hälso- och sjukvården, såsom att införa ett kliniskt system på nya platser, flytta tjänster till ny infrastruktur eller införa nya digitala verktyg för vårdpersonal. De styr omfattning, tid, kostnad, kvalitet och risk med erkända projektmetoder och ser till att projekt levererar de nyttor de har utlovat för patienter och personal.
+health_context:
+  - Projekt som ändrar kliniska system eller arbetsflöden behöver klinisk säkerhetskvalitetssäkring före driftsättning, så projektledare lägger in riskworkshoppar, godkännande av säkerhetsunderlag och bidrag från den kliniska säkerhetsansvarige i tidsplanen.
+  - Driftsättningar får inte störa patientvården, så projektledare planerar övergångar, arrangemang för verksamhetskontinuitet och stöd på plats tillsammans med kliniska och operativa team.
+  - Projekt behöver ofta konsekvensbedömningar avseende dataskydd och avtal om informationsdelning, så projektledare planerar dessa tidigt tillsammans med kollegor inom informationsstyrning.
+  - Nyttor i vården, såsom frigjord personaltid eller färre fel, tar tid att visa sig, så projektledare fastställer utgångsvärden och lämnar över uppföljningen av nyttor till tjänsten.
+levels:
+  - title: Biträdande projektledare
+    summary: En biträdande projektledare stödjer leveransen av projekt, eller leder små, väl avgränsade projekt med vägledning från en mer senior projektledare.
+    responsibilities:
+      - Underhålla projektplaner, risk- och ärendeloggar, åtgärdsloggar och beroenderegister.
+      - Organisera och föra protokoll vid projektmöten och styrgrupper och följa upp åtgärder.
+      - Leda små, väl avgränsade arbetsmoment, såsom en utrullning på en plats eller ett utbildningsschema, med vägledning.
+      - Följa upp beredskapsuppgifter inför driftsättning, såsom godkännande av klinisk säkerhet, dataskyddskontroller och personalutbildning.
+      - Ta fram lägesrapporter och följa upp projektets utgifter mot budget.
+    qualifications:
+      - En grundkvalifikation i projektledning, eller motsvarande erfarenhet.
+  - title: Projektledare
+    summary: En projektledare driver projekt av måttlig storlek och komplexitet från start till avslut, såsom att rulla ut en digital tjänst till flera vårdmiljöer.
+    responsibilities:
+      - Planera och leda projekt från start till avslut och styra omfattning, tid, kostnad, kvalitet och risk.
+      - Planera driftsättningar tillsammans med kliniska och operativa team, inklusive övergång, verksamhetskontinuitet och supportarrangemang.
+      - Se till att kvalitetssäkring av klinisk säkerhet, informationsstyrning och tillgänglighet planeras och slutförs före driftsättning.
+      - Förvalta projektets budget och leverantörsleveranser.
+      - Rapportera till projektstyrgruppen och eskalera risker och ärenden utanför toleransen.
+      - Fastställa utgångsvärden för nyttor och lämna över uppföljningen av nyttor till tjänsten.
+    qualifications:
+      - En erkänd kvalifikation i projektledning, såsom ett certifikat på praktikernivå, eller motsvarande erfarenhet.
+      - Erfarenhet av att leda projekt som förändrar tjänster eller system.
+  - title: Senior projektledare
+    summary: En senior projektledare leder stora, komplexa eller högriskfyllda projekt, såsom ersättning av ett kliniskt system i en organisation, och kan leda annan projektpersonal.
+    responsibilities:
+      - Leda stora eller högriskfyllda projekt, såsom ersättning av kliniska system eller utrullning på flera platser.
+      - Hantera komplexa beroenden till leverantörer, andra projekt och partnerorganisationer inom hälso- och sjukvården.
+      - Leda beslut om driftsättning tillsammans med den kliniska säkerhetsansvarige, operativa ledare och den ansvarige beställaren.
+      - Förvalta projektets budget och kommersiella arrangemang, inklusive ändringskontroll med leverantörer.
+      - Se till att nyttor för patienter och personal definieras, ägs och mäts.
+      - Leda och utveckla projektledare och projektstödjande personal.
+    qualifications:
+      - En erkänd kvalifikation i projektledning, eller motsvarande erfarenhet.
+      - Betydande erfarenhet av att leda komplexa projekt i en reglerad eller säkerhetskritisk miljö.
+  - title: Ledande projektledare
+    summary: En ledande projektledare leder de mest komplexa projekten eller en grupp relaterade projekt och fastställer praxis för projektledning inom sitt område.
+    responsibilities:
+      - Leda de mest komplexa projekten, eller en grupp relaterade projekt, över flera tjänster eller organisationer.
+      - Fastställa standarder, mallar och kvalitetssäkring för projektledning inom området och coacha projektledare.
+      - Ge ansvariga beställare och styrelser råd om leveransalternativ, risker och återhämtning av projekt som har problem.
+      - Förvalta betydande budgetar och avtal och se till att projekt ger valuta för pengarna.
+      - Se till att krav på klinisk säkerhet och informationsstyrning uppfylls över gruppen av projekt.
+      - Ha linjeansvar för projektledare.
+    qualifications:
+      - Omfattande erfarenhet av att leda komplexa projekt, med en erkänd kvalifikation i projektledning eller motsvarande erfarenhet.
+  - title: Chef för projektledning
+    summary: En chef för projektledning leder organisationens praktik för projektledning och de projektledare som levererar dess digitala förändring.
+    responsibilities:
+      - Leda praktiken för projektledning, inklusive dess metoder, standarder, verktyg och kvalitetssäkring.
+      - Fördela projektledare på organisationens projekt och förvalta praktikens kapacitet.
+      - Bygga förmåga inom projektledning, inklusive rekrytering, utbildning och karriärvägar.
+      - Ge ledningen råd om projekts hälsa, leveransrisker och lärdomar.
+      - Förvalta praktikens budget.
+    qualifications:
+      - Omfattande erfarenhet av att leda projekt och projektledare, med en erkänd kvalifikation i projektledning eller motsvarande erfarenhet.

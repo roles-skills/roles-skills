@@ -1,0 +1,46 @@
+summary: >
+  Juridiska rådgivare är kvalificerade jurister som ger organisationen praktiska, korrekta juridiska råd och hjälper den att hantera juridisk risk. De utformar och förhandlar avtal, ger råd om data, upphandling, arbetsrätt samt hälso- och sjukvårdsrätt och hanterar tvister och anspråk. I en digital hälso- och sjukvårdsorganisation handlar mycket av deras arbete om teknik: programvarulicenser, avtal om moln och databehandling, datadelning, immateriella rättigheter i programvara och data samt regleringen av digitala hälso- och vårdprodukter.
+health_context:
+  - Teknikavtal måste skydda patientdata, hålla kliniska tjänster igång och se till att organisationen kan lämna en leverantör tryggt.
+  - Användning av hälsodata för direkt vård, planering, forskning och AI väcker frågor enligt dataskyddslagstiftningen och tystnadsplikten som kräver noggranna råd.
+  - Upphandling av teknik med offentliga medel måste följa regler för offentlig upphandling, och leverantörer kan överpröva tilldelningsbeslut.
+  - Organisationen kan bygga programvara eller dataprodukter, vilket väcker frågor om immateriella rättigheter, öppen källkod och kommersiell användning.
+  - Anspråk kan röra skada på patienter, även där digitala tjänster har spelat en roll, så rådgivare arbetar med kollegor inom klinisk säkerhet, risk och ansvarsförsäkring.
+levels:
+  - title: Juridisk rådgivare
+    summary: Juridiska rådgivare är kvalificerade jurister som ger oberoende råd och hanterar sin egen portfölj inom ett eller flera områden, såsom teknikavtal, informationsrätt, upphandling eller arbetsrätt.
+    responsibilities:
+      - Utforma, granska och förhandla avtal, såsom programvarulicenser, molntjänster och personuppgiftsbiträdesavtal.
+      - Ge tydliga, praktiska juridiska råd till chefer och team inom dina verksamhetsområden.
+      - Ge råd om avtal om datadelning, konsekvensbedömningar avseende dataskydd och informationsbegäranden.
+      - Ge råd om upphandlingsprocesser och avtalsändringar för teknik och tjänster.
+      - Hantera en portfölj av tvister eller anspråk och anlita externa jurister vid behov.
+      - Leda och utveckla paralegaler och juridiska assistenter.
+    qualifications:
+      - En kvalificerad jurist med rätt att utöva yrket, eller motsvarande kvalifikation och erfarenhet.
+      - Erfarenhet av kommersiell rätt, teknikrätt, informationsrätt eller offentlig rätt.
+    job_evaluation_notes: Kunskap är nivå 7 eftersom arbetet kräver en juridisk yrkeskvalifikation och praktisk erfarenhet. Ekonomiska resurser är nivå 2 eftersom juridiska rådgivare sällan håller budgetar. Känslomässig ansträngning är nivå 2 eftersom anspråk och arbetsrättsliga ärenden ofta innehåller plågsamt material.
+  - title: Senior juridisk rådgivare
+    summary: Senior juridiska rådgivare är erfarna jurister som leder komplexa, högvärdiga eller högriskfyllda ärenden inom ett specialistområde, såsom teknik och data, informationsrätt, upphandling, arbetsrätt eller anspråk.
+    responsibilities:
+      - Leda arbetet med komplexa avtal, såsom större systemimplementeringar, dataplattformar och partnerskap.
+      - Ge seniora chefer råd om nya frågor, såsom AI, datanvändning för forskning och programvara som medicinteknisk produkt.
+      - Ge råd om arbetsrätt vid förändringar i arbetsstyrkan, konsulter och arbetsrättsliga tvister.
+      - Leda arbetet med betydande tvister, överprövningar av upphandlingar och kontakter med system för klinisk vårdskada.
+      - Skriva mallar, spelböcker och vägledning för organisationen.
+      - Leda och utveckla juridiska rådgivare och paralegaler.
+    qualifications:
+      - En kvalificerad jurist med rätt att utöva yrket, med betydande erfarenhet efter kvalificeringen inom en relevant specialisering.
+    job_evaluation_notes: Ekonomiska resurser är nivå 2 eftersom arbetet inte håller en budget, men det styr utgifter för externa jurister i sina ärenden.
+  - title: Principal juridisk rådgivare
+    summary: Principal juridiska rådgivare är organisationens ledande experter inom ett eller flera rättsområden, såsom teknik och data eller informationsrätt, och leder dess juridiska arbete i de mest betydande frågorna.
+    responsibilities:
+      - Leda det juridiska arbetet i organisationens mest betydande program, avtal och tvister.
+      - Ge slutgiltiga råd i nya och högriskfyllda frågor, såsom storskalig datadelning, AI och kommersiell användning av organisationens programvara och data.
+      - Fastställa organisationens juridiska ståndpunkter och standarder inom dina specialistområden.
+      - Ge direktörer och styrelsens kommittéer råd om juridisk risk.
+      - Företräda organisationen hos tillsynsmyndigheter, partner och leverantörer i juridiska frågor.
+      - Leda ett juridiskt specialistteam och utveckla dess förmåga.
+    qualifications:
+      - En kvalificerad jurist med rätt att utöva yrket, med omfattande erfarenhet efter kvalificeringen och erkänd expertis inom en specialisering.
+    job_evaluation_notes: Kunskap är nivå 8 eftersom arbetet kräver juridisk expertkunskap över rätt och teknik, uppbyggd under lång tid.

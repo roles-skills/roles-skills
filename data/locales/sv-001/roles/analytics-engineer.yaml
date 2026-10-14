@@ -1,0 +1,55 @@
+summary: >
+  Analysingenjörer omvandlar rådata från hälso- och sjukvården till rena, testade och dokumenterade datamodeller som analytiker, dataforskare och rapportverktyg kan lita på. De står mellan datautveckling och analys och tillämpar metoder från mjukvaruutveckling, såsom versionshantering, testning och kodgranskning, på de transformationer som ligger bakom organisationens rapporter och översikter.
+health_context:
+  - Datamodeller kodar kliniska och operativa definitioner, såsom vad som räknas som en inskrivning, en återinskrivning eller ett brott mot en norm för väntetid, så definitioner överenskoms med kliniska och operativa ledare.
+  - Kliniska koder från terminologier och klassifikationer såsom SNOMED CT och ICD grupperas i referensmängder för analys, som behöver noggrann versionshantering.
+  - Modeller som används för prestations- och finansieringsrapporter måste vara konsekventa och granskningsbara, eftersom fel kan påverka beslut om patienttjänster.
+  - Modeller håller ofta pseudonymiserade data på patientnivå, så åtkomst, dokumentation och dataminimering byggs in.
+levels:
+  - title: Analysingenjör (trainee)
+    responsibilities:
+      - Lära sig teamets verktyg och arbetssätt för datamodellering genom utbildning och pararbete.
+      - Göra små, väl avgränsade ändringar i datamodeller under handledning.
+      - Dokumentera dataobjekt och deras definitioner i datakatalogen.
+      - Besvara enkla frågor från dataanvändare och registrera deras krav.
+      - Följa reglerna för informationsstyrning vid arbete med patientdata.
+    qualifications:
+      - Antagen till, eller på väg mot, en lärlingsutbildning inom data eller motsvarande.
+    job_evaluation_notes: Kunskap poängsätts på den nivå arbetet kräver när utbildningen har kommit tillräckligt långt för att kunna utföra arbetet.
+  - title: Analysingenjör
+    responsibilities:
+      - Bygga och testa datamodeller för ett tjänsteområde, såsom slutenvårdsverksamhet eller närsjukvård, utifrån överenskomna designer.
+      - Skriva automatiserade tester som kontrollerar datamodeller mot överenskomna kliniska och operativa definitioner.
+      - Underhålla referensmängder av kliniska koder som används i analys, med tydliga versioner.
+      - Dokumentera modeller så att analytiker förstår deras betydelse, källor och begränsningar.
+      - Utbilda och stödja användare av teamets datamängder.
+    qualifications:
+      - En examen i ett numeriskt ämne eller datavetenskap, eller motsvarande erfarenhet.
+      - Erfarenhet av att bygga datamodeller eller analytisk kod.
+  - title: Senior analysingenjör
+    responsibilities:
+      - Överblicka utformningen och testningen av datamodeller över flera tjänsteområden.
+      - Komma överens om definitioner av nyckelmått med kliniska, operativa och ekonomiska ledare och se till att modeller tillämpar dem konsekvent.
+      - Se till att modeller som matar rapporter om prestation och finansiering är granskningsbara och väl testade.
+      - Lösa dataproblem och risker tillsammans med datautvecklare och dataägare.
+      - Coacha och styra andra analysingenjörers arbete.
+    qualifications:
+      - Betydande erfarenhet av datamodellering och analysutveckling, på en nivå motsvarande en masterexamen.
+  - title: Ledande analysingenjör
+    responsibilities:
+      - Leda ett team som utformar, bygger och underhåller organisationens analytiska datamodeller.
+      - Fastställa standarder för datamodeller, tester, dokumentation och definitioner av mått.
+      - Arbeta med team i hela organisationen för att förstå hur kliniska och operativa processer skapar data.
+      - Granska andra analysingenjörers arbete och förbättra teamets arbetssätt.
+      - Ha linjeansvar för analysingenjörer.
+    qualifications:
+      - Omfattande erfarenhet av att leda analysutveckling eller datamodellering.
+  - title: Chef för analysutveckling
+    responsibilities:
+      - Fastställa riktningen för organisationens analytiska datamodeller, så att analys i hela organisationen använder en enda betrodd uppsättning definitioner.
+      - Se till att prioriteringarna för analysutveckling stöder organisationens strategi och rapporteringsplikter.
+      - Ge seniora ledare råd om hur pålitliga data är bakom större rapporter och beslut.
+      - Se till att gemenskapen har de verktyg och plattformar den behöver och förvalta den tillhörande budgeten.
+      - Bygga förmåga inom analysutveckling genom tekniskt ledarskap och karriärutveckling.
+    qualifications:
+      - Omfattande erfarenhet av att leda analysutveckling i en organisation.

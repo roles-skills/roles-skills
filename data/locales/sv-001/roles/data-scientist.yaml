@@ -1,0 +1,67 @@
+summary: >
+  Dataforskare använder statistik, maskininlärning och andra avancerade metoder för att hitta mönster i hälso- och vårddata och bygga modeller som hjälper tjänster att planera, förutsäga och förbättra vården. Typiskt arbete är att prognostisera efterfrågan, identifiera patienter som kan ha nytta av tidigt stöd och utvärdera effekten av tjänständringar. De arbetar nära kliniker och analytiker och ser till att modeller är giltiga, rättvisa och används tryggt.
+health_context:
+  - En modell som stöder beslut om patienter kan orsaka skada om den är fel eller skev, så modeller valideras på den population de ska användas med och bedöms för klinisk säkerhet.
+  - Hälsodata speglar ojämlik tillgång till vård, så modeller kan upprepa eller förvärra ojämlikhet i hälsa om inte skevhet mäts och åtgärdas för varje patientgrupp.
+  - Vissa modeller, såsom sådana som informerar diagnos eller behandling, kan vara reglerade som medicintekniska produkter, och reglering av AI kan också gälla.
+  - Datavetenskap behöver ofta länkade, detaljerade patientdata, så arbetet sker i säkra miljöer, med pseudonymiserade data, på en överenskommen grund inom informationsstyrning.
+  - Kliniker och patienter behöver förstå och lita på en modells resultat, så förklaring och klarspråkskommunikation av osäkerhet är viktigt.
+levels:
+  - title: Dataforskare (trainee)
+    responsibilities:
+      - Lära sig teamets statistiska metoder och metoder för maskininlärning, verktyg och säkra arbetssätt genom strukturerad utbildning.
+      - Förbereda och utforska pseudonymiserade hälsodatamängder under handledning.
+      - Köra och tolka enkla statistiska analyser och kontrollera resultaten med en mer erfaren dataforskare.
+      - Följa rutiner för informationsstyrning, kontroll av röjande och etik.
+      - Arbeta mot en lärlingsutbildning inom datavetenskap eller motsvarande kvalifikation.
+    qualifications:
+      - Antagen till, eller på väg mot, en lärlingsutbildning inom datavetenskap eller motsvarande.
+    job_evaluation_notes: Kunskap poängsätts på den nivå arbetet kräver när utbildningen har kommit tillräckligt långt för att kunna utföra arbetet.
+  - title: Biträdande dataforskare
+    responsibilities:
+      - Bygga och testa grundläggande statistiska modeller och modeller för maskininlärning, såsom prognoser för efterfrågan, med vägledning.
+      - Förbereda och länka hälsodatamängder för modellering i säkra miljöer.
+      - Mäta hur väl modeller presterar för olika patientgrupper och rapportera skillnader.
+      - Presentera resultat och deras osäkerhet för analytiker och tjänsteteam.
+      - Dokumentera datakällor, metoder och antaganden så att arbetet kan reproduceras.
+    qualifications:
+      - En examen i ett numeriskt ämne, en lärlingsutbildning inom datavetenskap eller motsvarande erfarenhet.
+  - title: Dataforskare
+    responsibilities:
+      - Utveckla komplexa modeller självständigt, såsom riskstratifiering eller prediktion av vårdtid, och välja lämpliga metoder.
+      - Validera modeller tillsammans med kliniker och kontrollera att de är korrekta, rättvisa och användbara på lokala patientdata.
+      - Dokumentera varje modells avsedda användning, data, prestanda och begränsningar och bidra med underlag till kliniska säkerhetsunderlag.
+      - Utvärdera effekten av tjänständringar med lämpliga statistiska metoder.
+      - Förklara modeller och deras osäkerhet för kliniska och icke-tekniska målgrupper.
+      - Stödja biträdande dataforskare och trainees.
+    qualifications:
+      - En examen i ett numeriskt ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av att bygga och validera statistiska modeller eller modeller för maskininlärning.
+  - title: Principal dataforskare
+    responsibilities:
+      - Avgränsa, utforma och leda datavetenskapsprojekt som stöder tjänsteplanering och patientvård.
+      - Besluta vilka metoder, verktyg och data som är lämpliga och ifrågasätta planer som inte är genomförbara eller trygga.
+      - Planera validering, bedömning av skevhet och övervakning av modeller tillsammans med kollegor inom klinisk säkerhet och informationsstyrning.
+      - Komma överens med produktteam om hur modeller ska driftsättas och stödjas i stor skala.
+      - Leda och utveckla ett litet team av dataforskare.
+    qualifications:
+      - Betydande erfarenhet av att leverera datavetenskap, på en nivå motsvarande en masterexamen eller en doktorsexamen i ett kvantitativt ämne.
+  - title: Ledande dataforskare
+    responsibilities:
+      - Leda team för datavetenskap och fastställa deras riktning, prioriteringar och standarder.
+      - Hitta möjligheter där datavetenskap kan förbättra vården och motivera dem tillsammans med kliniska ledare och tjänsteledare.
+      - Se till att modeller utformas, valideras och övervakas så att de förblir trygga och rättvisa i bruk.
+      - Lösa komplexa etiska utmaningar och datautmaningar, såsom samtycke, skevhet och användning av känsliga data.
+      - Bygga förmåga inom datavetenskap genom coachning, rekrytering och utbildning.
+    qualifications:
+      - Omfattande erfarenhet av att leda team för datavetenskap.
+    job_evaluation_notes: UK GDaD PCF föreslår både ledande dataforskare och chef för datavetenskap vid G7 eller G6. Den här referensen placerar den ledande i band 8a och chefen i band 8b, så att de två nivåerna ligger i olika band.
+  - title: Chef för datavetenskap
+    responsibilities:
+      - Fastställa riktningen för datavetenskap och AI i organisationen, i linje med dess strategi och prioriteringar.
+      - Vara ansvarig för etik, säkerhet och kvalitetssäkring av organisationens modeller och AI och ge styrelsen råd om dem.
+      - Överblicka resurser, budget och kvaliteten på produkter inom datavetenskap.
+      - Företräda organisationen i frågor om datavetenskap och AI hos hälso- och vårdpartner, forskare och tillsynsmyndigheter.
+      - Bygga förmåga och karriärer inom datavetenskap över professioner.
+    qualifications:
+      - Omfattande erfarenhet av att leda datavetenskap i en organisation.

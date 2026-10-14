@@ -68,7 +68,7 @@ data/
   skills/*.yaml           skills original to this reference, with ESCO links
   bands.yaml              bands, competency outlines, grade-to-band rule
   job-evaluation.yaml     16 factors, levels, points, band ranges
-  locales/<code>/         translations of the above, such as en-001, en-gb, and en-us (English), cy-gb and cy-001 (Welsh), zh-001 and zh-cn (Chinese), hi-001 and hi-in (Hindi), es-001 (Spanish), fr-001 (French), ar-001 (Arabic), bn-001 (Bengali), ru-001 (Russian), id-001 (Indonesian), ja-001 and ja-jp (Japanese), and ko-001 and ko-kr (Korean)
+  locales/<code>/         translations of the above, such as en-001, en-gb, and en-us (English), cy-gb and cy-001 (Welsh), zh-001 and zh-cn (Chinese), hi-001 and hi-in (Hindi), es-001 (Spanish), fr-001 (French), ar-001 (Arabic), bn-001 (Bengali), ru-001 (Russian), id-001 (Indonesian), ja-001 and ja-jp (Japanese), ko-001 and ko-kr (Korean), and sv-001 and sv-se (Swedish)
   crosswalks/pcf-esco.tsv UK GDaD PCF skills matched to ESCO skills
   sources/pcf/            UK GDaD PCF downloads
   sources/esco/           ESCO occupations and occupation skills

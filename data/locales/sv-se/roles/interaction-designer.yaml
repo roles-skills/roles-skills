@@ -1,0 +1,63 @@
+summary: >
+  Interaktionsdesigners utformar hur patienter, närstående, kliniker och vårdpersonal använder organisationens digitala hälso- och vårdtjänster, från patientvända appar och formulär till de skärmar kliniker använder vid sängkanten. De utformar enkla, tillgängliga och trygga interaktioner, testar dem med verkliga användare och använder gemensamma designsystem så att tjänster känns enhetliga och välbekanta.
+health_context:
+  - Kliniker använder ofta system under tidspress, med avbrott och på delade enheter, så designer måste stödja snabbt och korrekt arbete och göra den säkra åtgärden till den enkla.
+  - Dålig design kan orsaka klinisk skada, såsom att välja fel patient eller misstolka en dos, så designers tillämpar principer för människa–teknik-samspel och arbetar med kliniska säkerhetsansvariga.
+  - Många användare är sjuka, oroliga, äldre eller har en funktionsnedsättning, så designer måste uppfylla tillgänglighetsstandarder och fungera för människor med låg digital kompetens eller hälsolitteracitet.
+  - Larm och varningar är bara användbara om människor märker och litar på dem, så designers hjälper till att minska larmtrötthet och hålla säkerhetskritisk information synlig.
+levels:
+  - title: Biträdande interaktionsdesigner
+    responsibilities:
+      - Lära sig metoder för interaktionsdesign och teamets designsystem genom utbildning och pararbete.
+      - Skapa skisser, wireframes och enkla prototyper under handledning.
+      - Hjälpa till att testa designer med användare och registrera vad som fungerar och vad som inte gör det.
+      - Följa tillgänglighetsstandarder och designsystemets mönster, inklusive de för patientidentitet och säkerhetsvarningar.
+    qualifications:
+      - På väg mot en kvalifikation eller lärlingsutbildning inom design eller ett närliggande område, eller motsvarande erfarenhet.
+  - title: Junior interaktionsdesigner
+    responsibilities:
+      - Utforma och prototypa delar av en tjänst, såsom formulär, flöden och skärmar, under ledning av en mer senior designer.
+      - Testa designer med patienter, närstående och personal och ändra dem utifrån vad du lär dig.
+      - Utforma tillgängliga interaktioner som fungerar med hjälpmedelsteknik.
+      - Förklara designbeslut för teamet, inklusive hur de minskar risken för fel.
+    qualifications:
+      - En examen i design eller ett närliggande ämne, eller motsvarande erfarenhet.
+  - title: Interaktionsdesigner
+    responsibilities:
+      - Utforma interaktioner för en digital hälso- och vårdprodukt, från tidiga koncept till detaljerade, testade designer.
+      - Utforma för kliniska arbetsflöden och testa med kliniker och vårdpersonal i realistiska scenarier, inklusive avbrott.
+      - Lyfta designrelaterade faror med den kliniska säkerhetsansvarige och registrera hur designer kontrollerar dem.
+      - Använda och bidra till designsystemet, inklusive mönster för säkerhetskritisk information.
+      - Arbeta nära utvecklare för att se till att designer byggs som avsett och förblir tillgängliga.
+    qualifications:
+      - En examen i design eller ett närliggande ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av att utforma digitala tjänster tillsammans med användare.
+    job_evaluation_notes: UK GDaD PCF placerar interaktionsdesigner vid SEO eller G7, med föreslaget band 7, samma som senior interaktionsdesigner. Den här referensen placerar den i band 6, samma som tjänstedesignernivån med identiska färdighetsnivåer i PCF, så att de två interaktionsdesignernivåerna inte ligger i samma band.
+  - title: Senior interaktionsdesigner
+    responsibilities:
+      - Leda interaktionsdesign för komplexa tjänster, såsom kliniska system som används i många vårdmiljöer.
+      - Tillämpa metoder för människa–teknik-samspel, såsom uppgiftsanalys, på säkerhetskritiska kliniska arbetsflöden.
+      - Ta fram designunderlag till kliniska säkerhetsunderlag och, där programvaran är reglerad, till användbarhetsfiler.
+      - Hjälpa till att sätta riktning och god praxis för design i team och handleda andra designers.
+      - Fatta designbeslut utifrån forskning och data och förklara dem för kliniska ledare och produktledare.
+    qualifications:
+      - Betydande erfarenhet av interaktionsdesign, på en nivå motsvarande en masterexamen.
+  - title: Ledande interaktionsdesigner
+    responsibilities:
+      - Fastställa designriktning och kvalitetssäkra interaktionsdesign över flera team eller tjänster.
+      - Leda designsystemet, inklusive tillgängliga och säkerhetskritiska mönster som team i hela organisationen återanvänder.
+      - Leda arbete med människa–teknik-samspel för de mest högriskfyllda kliniska tjänsterna, tillsammans med kliniska säkerhetsansvariga.
+      - Arbeta med seniora produktledare och kliniska ledare för att ta fram designkoncept för större tjänster.
+      - Ha linjeansvar för och utveckla interaktionsdesigners.
+    qualifications:
+      - Omfattande erfarenhet av att leda interaktionsdesign över team.
+    job_evaluation_notes: Det finns ingen nivå i band 8a, eftersom UK GDaD PCF placerar ledande interaktionsdesigner vid G7 eller G6 och den här referensen följer det föreslagna bandet 8b. Policy är nivå 5 eftersom den ledande designern fastställer designstandarder för en rad tjänster.
+  - title: Chef för interaktionsdesign
+    responsibilities:
+      - Leda yrket interaktionsdesign och fastställa dess strategi, standarder och arbetssätt.
+      - Påverka design och organisationens strategi så att tjänster är användbara, tillgängliga och trygga.
+      - Äga organisationens designsystem och se till att det uppfyller behov av tillgänglighet och klinisk säkerhet.
+      - Bygga designförmåga, inklusive rekrytering, karriärvägar och utbildning.
+      - Arbeta med kollegor i hela hälso- och sjukvårdssystemet om gemensamma designmönster.
+    qualifications:
+      - Omfattande erfarenhet av att leda design och en designpraktik.

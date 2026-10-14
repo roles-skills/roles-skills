@@ -1,0 +1,260 @@
+# Swedish translations of data/skills/corporate-services.yaml. Keys are the English skill ids.
+corp-administration:
+  name: Kontorsadministration
+  description: Driva de administrativa processer som håller ett team eller en tjänst i gång, såsom arkivering, beställningar, datainmatning, journaler och att följa kontorsrutiner.
+  levels:
+    awareness: |
+      Du kan:
+      - följa kontorsrutiner för arkivering, beställningar och datainmatning
+      - föra korrekta register över ditt eget arbete
+    working: |
+      Du kan:
+      - driva en rad administrativa processer för ett team med liten handledning
+      - upptäcka och rätta fel i register och data
+      - föreslå enklare arbetssätt
+    practitioner: |
+      Du kan:
+      - organisera det administrativa stödet för en tjänst eller direktion
+      - skriva och förbättra administrativa rutiner
+      - utbilda och granska andra administratörers arbete
+    expert: |
+      Du kan:
+      - utforma administrativa tjänster i hela organisationen
+      - leda övergången till enklare, digitala administrativa processer
+corp-office-software:
+  name: Digitala kontorsverktyg
+  description: Använda ordbehandling, kalkylblad, presentationer, e-post, delade dokument och samarbetsverktyg snabbt och korrekt.
+  levels:
+    awareness: |
+      Du kan:
+      - skapa och redigera dokument, e-postmeddelanden och enkla kalkylblad
+      - lagra och dela filer på rätt ställe
+    working: |
+      Du kan:
+      - ta fram välformaterade dokument och presentationer snabbt och korrekt
+      - använda kalkylblad för att sortera, filtrera och sammanfatta data
+      - använda samarbetsverktyg för att hantera delade dokument och versioner
+    practitioner: |
+      Du kan:
+      - bygga mallar, uppföljare och enkla automatiserade arbetsflöden
+      - göra dokument tillgängliga för alla
+      - hjälpa kollegor att få ut mesta möjliga av kontorsverktygen
+    expert: |
+      Du kan:
+      - fastställa standarder för mallar, dokumenthantering och samarbetsverktyg
+      - leda införandet av nya kontorsverktyg i hela organisationen
+corp-diary-and-meeting-management:
+  name: Kalender- och mötesadministration
+  description: Hantera kalendrar, möten och resor så att människors tid används väl och möten har rätt personer, handlingar och lokaler.
+  levels:
+    awareness: |
+      Du kan:
+      - boka möten och lokaler med organisationens verktyg
+      - skicka kallelser och handlingar i tid
+    working: |
+      Du kan:
+      - hantera kalendrar för ett team och lösa krockar
+      - ordna resor, evenemang och möten med externa partner
+      - se till att handlingar och åtgärder är klara före möten
+    practitioner: |
+      Du kan:
+      - hantera en senior ledares kalender och sätta prioriteringar tillsammans med hen
+      - avgöra vad som kräver ledarens tid och vad andra kan hantera
+      - planera det årliga mötesschemat för en styrelse eller ledningsgrupp
+    expert: |
+      Du kan:
+      - driva verksamhetscykeln för en ledningsgrupp
+      - se till att seniora ledares tid är inriktad på organisationens prioriteringar
+corp-minute-taking:
+  name: Protokollföring och mötesjournaler
+  description: Dokumentera diskussioner, beslut och åtgärder korrekt och koncist, och föra formella mötesjournaler.
+  levels:
+    awareness: |
+      Du kan:
+      - anteckna åtgärder och beslut vid teammöten
+    working: |
+      Du kan:
+      - skriva korrekta, koncisa protokoll och åtgärdslistor för rutinmöten
+      - följa upp åtgärder med deras ägare
+    practitioner: |
+      Du kan:
+      - föra formella protokoll vid styrelse- och kommittémöten, inklusive komplexa eller omstridda diskussioner
+      - föra formella mötesjournaler som håller för revision och utredning
+      - ge ordföranden råd om vad journalen bör visa
+    expert: |
+      Du kan:
+      - fastställa standarder för formella mötesjournaler i hela organisationen
+      - utbilda och kvalitetsgranska protokollförare
+corp-correspondence-management:
+  name: Hantering av korrespondens och förfrågningar
+  description: Hantera brev, e-post, samtal och förfrågningar skyndsamt och artigt, och föra dem vidare till rätt person.
+  levels:
+    awareness: |
+      Du kan:
+      - besvara samtal och e-post artigt och ta korrekta meddelanden
+      - föra förfrågningar vidare till rätt person
+    working: |
+      Du kan:
+      - hantera rutinmässig korrespondens och förfrågningar själv
+      - utkasta brev och svar som andra undertecknar
+      - föra korrespondenslogg och påminna om svar
+    practitioner: |
+      Du kan:
+      - hantera korrespondens för en senior ledare, inklusive känsliga brev och klagomålsbrev
+      - utkasta svar som kräver takt, korrekthet och omdöme
+      - se till att svar uppfyller tidsfrister
+    expert: |
+      Du kan:
+      - fastställa processen och standarderna för ledningens korrespondens
+      - hantera den mest känsliga korrespondensen, inklusive med tillsynsmyndigheter, partner och medier
+corp-pmo-reporting:
+  name: Stöd vid projekt- och portföljkontor
+  description: Driva processerna vid ett projekt- och portföljkontor, såsom planer, register, rapportering, dokumentkontroll och kvalitetssäkringskontroller.
+  levels:
+    awareness: |
+      Du kan:
+      - förvara projektdokument på rätt ställe, med versionskontroll
+      - uppdatera åtgärds-, risk- och problemloggar när du blir ombedd
+    working: |
+      Du kan:
+      - underhålla planer, register och uppföljare för flera projekt
+      - samla in uppdateringar och ta fram regelbundna statusrapporter
+      - kontrollera att projekten följer den överenskomna metoden
+    practitioner: |
+      Du kan:
+      - utforma portföljrapportering och analysera framsteg, risker och nyttor över projekt
+      - genomföra kvalitetssäkringskontroller och kontrollpunktsgranskningar
+      - ge projektledare råd om metod och kontroller
+    expert: |
+      Du kan:
+      - inrätta och leda ett portföljkontor för organisationen
+      - ge seniora ledare tydlig, pålitlig insikt i portföljen
+      - fastställa standarder och verktyg för projekt- och portföljledning
+corp-assurance-and-audit:
+  name: Kontakt för kvalitetssäkring och revision
+  description: Samla in försäkran om att kontroller fungerar, stödja interna och externa revisioner och följa upp revisionsrekommendationer till avslut.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara hur revisioner och kvalitetssäkring fungerar i organisationen
+      - lämna evidens när du blir ombedd
+    working: |
+      Du kan:
+      - samordna evidens för revisioner och inspektioner
+      - följa upp revisionsrekommendationer och påminna om försenade åtgärder
+    practitioner: |
+      Du kan:
+      - planera kartläggning av kvalitetssäkring över organisationens huvudsakliga risker
+      - arbeta med interna och externa revisorer för att komma överens om omfattning och fynd
+      - rapportera glapp i kvalitetssäkringen till kommittéer
+    expert: |
+      Du kan:
+      - utforma organisationens ramverk för kvalitetssäkring
+      - ge revisionsutskottet och styrelsen råd om kvalitetssäkringens styrka
+corp-policy-management:
+  name: Policyhantering
+  description: Skriva, se över, godkänna och publicera organisationens policyer och rutiner, och kontrollera att människor följer dem.
+  levels:
+    awareness: |
+      Du kan:
+      - hitta och följa de policyer som gäller ditt arbete
+    working: |
+      Du kan:
+      - hålla policyregistret uppdaterat och påminna ägare om översyner
+      - kontrollera att policyer använder rätt mall och godkännandeväg
+    practitioner: |
+      Du kan:
+      - utkasta och se över policyer tillsammans med ämnesexperter
+      - kontrollera policyer mot lag, standarder och jämlikhetsplikter
+      - följa upp efterlevnad och rapportera glapp
+    expert: |
+      Du kan:
+      - fastställa policyramverket för organisationen
+      - ge styrelsen råd om policyprioriteringar och risker
+corp-internal-communications:
+  name: Intern kommunikation
+  description: Hålla personalen informerad och engagerad genom kanaler såsom intranät, nyhetsbrev, genomgångar och evenemang, särskilt under förändring.
+  levels:
+    awareness: |
+      Du kan:
+      - publicera innehåll i interna kanaler såsom intranätet
+      - följa organisationens stil och tonläge
+    working: |
+      Du kan:
+      - skriva och redigera nyheter, genomgångar och nyhetsbrev för personalen
+      - planera innehåll för interna kanaler och mäta engagemang
+    practitioner: |
+      Du kan:
+      - planera intern kommunikation vid större förändringar, såsom ett nytt kliniskt system
+      - ge ledare råd om hur personal engageras och svåra budskap hanteras
+      - använda återkoppling och data för att förbättra kanaler
+    expert: |
+      Du kan:
+      - fastställa strategin för intern kommunikation och personalengagemang
+      - ge ledningsgruppen råd om kultur och engagemang
+corp-media-relations:
+  name: Medierelationer
+  description: Bygga relationer med journalister, hantera medieförfrågningar, skriva pressmeddelanden och förbereda talespersoner, även under incidenter.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara hur organisationen hanterar medieförfrågningar
+      - föra medieförfrågningar vidare till kommunikationsteamet direkt
+    working: |
+      Du kan:
+      - logga och besvara rutinmässiga medieförfrågningar
+      - utkasta pressmeddelanden och uttalanden för godkännande
+      - bevaka mediebevakningen
+    practitioner: |
+      Du kan:
+      - hantera känsliga och reaktiva medieförfrågningar, inklusive om incidenter eller dataintrång
+      - briefa och förbereda talespersoner
+      - bygga relationer med journalister inom hälsa och teknik
+    expert: |
+      Du kan:
+      - leda mediehanteringen under större incidenter och kriser
+      - skydda och bygga organisationens anseende hos seniora intressenter
+      - ge styrelsen råd om anseenderisk
+corp-communications-strategy:
+  name: Kommunikationsstrategi och planering
+  description: Planera kommunikation och kampanjer som uppfyller organisationens mål, med insikter om målgrupper, och utvärdera deras effekt.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara syftet med en kommunikationsplan du arbetar med
+    working: |
+      Du kan:
+      - skriva kommunikationsplaner för projekt, med målgrupper, budskap och kanaler
+      - mäta resultaten av kommunikationsinsatser
+    practitioner: |
+      Du kan:
+      - planera kampanjer som ändrar beteende, såsom att uppmuntra patienter att använda en digital tjänst
+      - använda målgruppsinsikter och utvärdering för att förbättra kampanjer
+      - planera kommunikation vid incidenter och tjänsteavbrott
+    expert: |
+      Du kan:
+      - fastställa kommunikationsstrategin för organisationen
+      - leda krisinformationen
+      - ge styrelsen råd om anseende och intressentengagemang
+corp-digital-and-social-media:
+  name: Digitala medier och sociala medier
+  description: Planera, publicera och förvalta innehåll på webbplatser och i sociala medier, engagera målgrupper och mäta resultaten.
+  levels:
+    awareness: |
+      Du kan:
+      - publicera godkänt innehåll i organisationens kanaler
+      - följa policyn för sociala medier
+    working: |
+      Du kan:
+      - planera och publicera innehåll för webbplatser och sociala medier
+      - svara på kommentarer och upptäcka frågor som behöver eskaleras
+      - rapportera om kanalernas prestation
+    practitioner: |
+      Du kan:
+      - förvalta organisationens digitala kanaler och deras innehållsplaner
+      - hantera negativa eller vilseledande inlägg, även under incidenter
+      - använda analys för att förbättra räckvidd och engagemang
+    expert: |
+      Du kan:
+      - fastställa strategin och styrningen för organisationens digitala kanaler
+      - leda hanteringen av risker för anseendet på nätet

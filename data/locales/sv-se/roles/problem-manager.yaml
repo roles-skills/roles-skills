@@ -1,0 +1,29 @@
+summary: >
+  Problemansvariga hittar och åtgärdar grundorsakerna till incidenter, så att fel slutar upprepas. De analyserar incidentdata, genomför grundorsaksutredningar, registrerar kända fel och tillfälliga lösningar och följer upp åtgärder med tekniska team och leverantörer. Inom hälso- och sjukvården slösar upprepade fel i kliniska system klinisk tid, urholkar förtroendet och kan skapa risker för patientsäkerheten, så det är viktigt att undanröja dem.
+health_context:
+  - Upprepade små fel, såsom långsamma inloggningar eller misslyckade utskrifter på vårdavdelningar, summerar sig till förlorad klinisk tid, så problemansvariga letar efter mönster och inte bara större haverier.
+  - Vissa problem skapar kliniska säkerhetsfaror, såsom resultat som inte når rätt kliniker, och bedöms tillsammans med den kliniska säkerhetsansvarige.
+  - Grundorsaksutredningar involverar ofta leverantörer av kliniska system och hanteras genom avtal och servicenivåer.
+  - Tillfälliga lösningar för kliniska system måste vara säkra och tydligt förklarade för klinisk personal.
+levels:
+  - title: Problemanalytiker
+    responsibilities:
+      - Analysera incidentdata för att hitta upprepade fel och trender över kliniska tjänster och verksamhetstjänster.
+      - Registrera problem, kända fel och tillfälliga lösningar i verktyget för tjänstehantering.
+      - Stödja grundorsaksutredningar genom att samla in loggar, tidslinjer och annan evidens.
+      - Följa upp åtgärder med tekniska team och leverantörer tills rättelser är på plats.
+      - Kontrollera att tillfälliga lösningar för kliniska system är säkra och tydligt förklarade för användare.
+    qualifications:
+      - Erfarenhet av IT-support eller drift.
+      - En grundkvalifikation i IT-tjänstehantering, eller motsvarande erfarenhet.
+  - title: Problemansvarig
+    responsibilities:
+      - Driva problemhanteringsprocessen över organisationens tjänster.
+      - Leda grundorsaksanalys efter större incidenter och för återkommande fel, med strukturerade tekniker.
+      - Prioritera problem efter deras effekt på patientvård, personalens tid och tjänsterisk.
+      - Bedöma problem som kan skapa faror för patientsäkerheten tillsammans med den kliniska säkerhetsansvarige.
+      - Hålla tekniska team och leverantörer ansvariga för permanenta rättelser och rapportera framsteg till tjänsteledare.
+      - Arbeta med ansvariga för större incidenter för att se till att lärdomar från incidenter leder till förändring.
+    qualifications:
+      - Betydande erfarenhet av problem- eller incidenthantering, på en nivå motsvarande en examen.
+      - En mellannivåkvalifikation inom IT-tjänstehantering, eller motsvarande erfarenhet.

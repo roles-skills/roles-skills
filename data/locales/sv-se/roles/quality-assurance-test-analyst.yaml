@@ -1,0 +1,48 @@
+summary: >
+  Kvalitetssäkrande testanalytiker kontrollerar att organisationens digitala hälso- och vårdtjänster gör det patienter, kliniker och vårdpersonal behöver, tryggt och tillförlitligt. De analyserar krav och designer för att hitta risker tidigt, utformar och kör funktionella och icke-funktionella tester och rapporterar defekter tydligt. Inom hälso- och sjukvården omfattar detta testning av kliniska arbetsflöden, datakorrekthet och de kontroller som skyddar patienter från skada.
+health_context:
+  - Defekter i kliniska system kan skada patienter, till exempel genom en felaktig läkemedelsdos, ett missat resultat eller en journal som visas för fel patient, så testning prioriteras efter klinisk risk.
+  - Testning ger underlag till kliniska säkerhetsunderlag och faroregister, så testplaner spåras till identifierade faror och deras kontroller.
+  - Testdata får aldrig röja verkliga patienter, så analytiker använder syntetiska eller på rätt sätt avidentifierade testdata.
+  - Många tjänster utbyter data med andra hälso- och vårdsystem, så tester kontrollerar meddelanden mot standarder såsom HL7 FHIR och betydelsen av kliniska koder.
+  - Användare omfattar kliniker under tidspress, patienter med ett brett spann av behov och användare av hjälpmedelsteknik, så testning av användbarhet och tillgänglighet är viktig.
+levels:
+  - title: Biträdande kvalitetssäkrande testanalytiker
+    responsibilities:
+      - Köra testskript för kliniska och administrativa arbetsflöden under handledning och registrera resultat korrekt.
+      - Skriva tydliga defektrapporter, inklusive steg, data och skärmar som berörs.
+      - Använda syntetiska testdata och aldrig använda verkliga patientdata i testmiljöer.
+      - Lära sig teamets testansatser, verktyg och den kliniska säkerhetsprocessen.
+      - Delta i teamets ceremonier såsom stand-ups, planering och retrospektiv.
+    qualifications:
+      - God analytisk och skriftlig förmåga och viss erfarenhet av testning eller av att arbeta med digitala system, eller motsvarande.
+  - title: Kvalitetssäkrande testanalytiker
+    responsibilities:
+      - Analysera användarberättelser, designer och kliniska arbetsflöden för att avgöra vad som ska testas, utifrån risk för patienter och tjänster.
+      - Utforma och köra funktionella tester, tillgänglighetstester och användbarhetstester, inklusive kliniska scenarier från början till slut.
+      - Spåra tester till faror och säkerhetskontroller och ta fram testunderlag till kliniska säkerhetsunderlag.
+      - Kontrollera data som visas för användare mot källsystem och överenskomna kliniska koder.
+      - Skapa och underhålla realistiska syntetiska testdata.
+      - Följa upp defekter till lösning och testa rättelser på nytt.
+    qualifications:
+      - Erfarenhet av att utforma och köra tester för digitala tjänster, eller motsvarande.
+    job_evaluation_notes: UK GDaD PCF föreslår HEO eller SEO för både den här nivån och den senior nivån, vilket placerar båda i band 6. Den här referensen placerar den här nivån i band 5 och den senior nivån i band 6, så att de två nivåerna ligger i olika band.
+  - title: Senior kvalitetssäkrande testanalytiker
+    responsibilities:
+      - Samordna kvalitetssäkring för en produkt eller ett område och komma överens om testansatser, miljöer, data och verktyg.
+      - Identifiera kliniska och operativa risker tidigt genom att granska krav, designer och ändringar tillsammans med kliniker och produktteam.
+      - Planera och leda användaracceptanstestning med kliniker och vårdpersonal.
+      - Rapportera testresultat och kvarstående risker till produktägare och kliniska säkerhetsansvariga, så att de kan fatta beslut om release.
+      - Vägleda andra testanalytiker och hjälpa dem att följa standarder för testning och klinisk säkerhet.
+    qualifications:
+      - Betydande erfarenhet av testanalys, även i komplexa eller reglerade miljöer, eller motsvarande.
+  - title: Ledande kvalitetssäkrande testanalytiker
+    responsibilities:
+      - Fastställa standarder och god praxis för testanalys i organisationen, inklusive riskbaserad testning av kliniska system.
+      - Definiera teststrategier för större program, såsom ändringar i den elektroniska patientjournalen eller nya patientvända tjänster.
+      - Se till att testningen ger det underlag som behövs för kliniska säkerhetsunderlag och, där det är relevant, tekniska filer för medicintekniska produkter.
+      - Förhandla om och eskalera större risker, ärenden och defekter med seniora produktansvariga, kliniska ledare och leverantörsledare.
+      - Handleda och coacha testanalytiker och leda gemenskapen för testanalys.
+    qualifications:
+      - Omfattande erfarenhet av att leda testanalys för komplexa tjänster.
+    job_evaluation_notes: UK GDaD PCF föreslår G7 eller G6 för den här nivån, vilket motsvarar band 8b. Den här referensen placerar den i band 8a, i nivå med ledande testingenjör, eftersom den leder en testdisciplin och inte all testning; chefen för test ligger i band 8c.

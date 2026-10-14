@@ -1,0 +1,44 @@
+summary: >
+  Tillgänglighetsspecialister hjälper organisationen att göra sina digitala hälso- och vårdtjänster användbara för så många som möjligt, inklusive personer med funktionsnedsättning och personer med långvariga sjukdomar. De testar tjänster mot tillgänglighetsstandarder och med hjälpmedelsteknik, ger råd och utbildning till team och hjälper till att förankra tillgänglighet i hur tjänster, kliniska system och hälsoinformation utformas, köps och byggs.
+health_context:
+  - Många av dem som behöver hälso- och sjukvård mest har en funktionsnedsättning, är äldre eller lever med långvariga sjukdomar, så otillgängliga tjänster kan hindra människor från att få vård.
+  - Kliniker och vårdpersonal har också behov av tillgänglighet, så interna kliniska system, inklusive sådana som köps från leverantörer, måste också vara tillgängliga.
+  - Hälsoinformation är ofta komplex och publiceras i många format, såsom dokument, brev och video, så specialister hjälper team att göra allt tillgängligt, inklusive lättläst och alternativa format.
+  - Tillgänglighetsproblem i kliniska arbetsflöden kan bli säkerhetsproblem, till exempel när en varning inte läses upp av en skärmläsare, så specialister arbetar med kliniska säkerhetsansvariga om dessa risker.
+levels:
+  - title: Junior tillgänglighetsspecialist
+    responsibilities:
+      - Testa webbsidor, appar och dokument mot tillgänglighetsstandarder, under handledning.
+      - Registrera och förklara tillgänglighetsproblem tydligt så att team kan åtgärda dem.
+      - Hjälpa till med testning med hjälpmedelsteknik, såsom skärmläsare och förstoringsprogram.
+      - Hjälpa till att hålla tillgänglighetsredogörelser och ärendeloggar uppdaterade.
+    qualifications:
+      - Viss erfarenhet av digital testning, design eller utveckling, eller motsvarande erfarenhet.
+  - title: Tillgänglighetsspecialist
+    responsibilities:
+      - Genomföra tillgänglighetsgranskningar av patientvända tjänster, kliniska system och hälsoinformation.
+      - Testa med en rad hjälpmedelstekniker och stödja forskning med användare med funktionsnedsättning.
+      - Ge team råd om åtgärder och om tillgängliga mönster för formulär, larm och säkerhetskritisk information.
+      - Granska leverantörsprodukters tillgänglighet vid upphandling och godkännande.
+      - Ta fram utbildning och vägledning och coacha mer juniora kollegor.
+    qualifications:
+      - Erfarenhet av tillgänglighetstestning och av aktuella tillgänglighetsstandarder, eller motsvarande erfarenhet.
+  - title: Senior tillgänglighetsspecialist
+    responsibilities:
+      - Förankra tillgänglighet i teamens arbetssätt, från förstudie till tjänst i drift.
+      - Bidra till tillgänglighetsstrategin, inklusive hur tillgänglighet kvalitetssäkras vid upphandling och tjänstebedömningar.
+      - Arbeta med kliniska säkerhetsansvariga där tillgänglighetsproblem kan påverka patientsäkerheten.
+      - Ta fram och hålla utbildning i tillgänglighet för designers, utvecklare, innehållsdesigners och leverantörer.
+      - Leda eller förvalta andra tillgänglighetsspecialister.
+    qualifications:
+      - Betydande erfarenhet av tillgänglighet, på en nivå motsvarande en masterexamen.
+  - title: Chef för tillgänglighet
+    responsibilities:
+      - Fastställa organisationens vision, strategi och standarder för tillgänglighet, för patientvända och interna tjänster.
+      - Kvalitetssäkra efterlevnaden av tillgänglighetslagstiftning och standarder över tjänster och rapportera om den till seniora ledare.
+      - Se till att krav på tillgänglighet ingår i upphandling och leverantörsavtal för kliniska system.
+      - Påverka organisationens prioriteringar så att patienter och personal med funktionsnedsättning inte utestängs.
+      - Leda och utveckla tillgänglighetsteamet och praktikgemenskapen.
+    qualifications:
+      - Omfattande erfarenhet av att leda tillgänglighet i en komplex organisation.
+    job_evaluation_notes: Det finns ingen nivå i band 8a, eftersom UK GDaD PCF placerar chef för tillgänglighet vid G7 eller G6 och den här referensen följer det föreslagna bandet 8b.

@@ -1,0 +1,39 @@
+summary: >
+  Säkerhetsarkitekter utformar säkerheten i organisationens digitala hälso- och vårdtjänster, så att patientinformation förblir konfidentiell, korrekt och tillgänglig när vården behöver den. De fastställer säkerhetsmönster och kontroller, bedömer säkerhetsrisken i nya designer och leverantörer och hjälper team att fatta riskbaserade beslut som håller tjänster både säkra och användbara för kliniker och patienter.
+health_context:
+  - Hälso- och sjukvårdsorganisationer är frekventa mål för ransomware och datastöld, och en attack kan stoppa kliniska tjänster, så tillgänglighet är lika viktig som sekretess.
+  - Säkerhetskontroller får inte stå i vägen för akut vård, så designer balanserar stark autentisering mot snabb åtkomst i kliniska miljöer.
+  - Uppkopplade medicintekniska produkter och äldre kliniska system kan ofta inte patchas snabbt, så arkitekter utformar kompenserande kontroller såsom segmentering.
+  - Många medarbetare, partnerorganisationer och leverantörer behöver åtkomst till patientjournaler, så identitet, rollbaserad åtkomst och granskningsspår är centrala.
+  - Säkerhetsdesigner måste stödja plikter inom informationsstyrning och publicerade säkerhetsstandarder, såsom ISO/IEC 27001.
+levels:
+  - title: Säkerhetsarkitekt
+    responsibilities:
+      - Utforma säkerhetskontroller för tjänster och system, inklusive identitet, kryptering, loggning och nätverksskydd.
+      - Bedöma säkerheten i nya designer och leverantörsprodukter och registrera risker och rekommenderade kontroller.
+      - Ta fram säkerhetsmönster som leveransteam kan återanvända, till exempel för patientinloggning och enkel inloggning för personal.
+      - Ge råd om kompenserande kontroller för medicintekniska produkter och äldre kliniska system som inte lätt kan uppdateras.
+      - Arbeta med kollegor inom informationsstyrning och klinisk säkerhet så att risker för säkerhet, integritet och patientsäkerhet bedöms tillsammans.
+      - Coacha säkerhetsingenjörer och andra arkitekter i säker design.
+    qualifications:
+      - Betydande erfarenhet av säkerhetsarkitektur eller säkerhetsutveckling, på en nivå motsvarande en masterexamen.
+      - En erkänd säkerhetskvalifikation eller motsvarande erfarenhet.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 6) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8a. Analys och handlingsfrihet poängsätts över profilen för band 7 eftersom arbetet utformar säkerhet för kritiska kliniska system med liten tillsyn.
+  - title: Ledande säkerhetsarkitekt
+    responsibilities:
+      - Leda säkerhetsarkitekturen för flera högriskfyllda projekt eller ett större område, såsom kliniska system eller molndrift.
+      - Fastställa säkerhetsprinciper och standarder för designer inom ditt område och kvalitetssäkra dem i designråd.
+      - Ge seniora riskägare råd om säkerhetsrisker och alternativen för att hantera dem.
+      - Utforma säkerhet för data som delas med partnerorganisationer och leverantörer.
+      - Leda och utveckla säkerhetsarkitekter.
+    qualifications:
+      - Omfattande erfarenhet av säkerhetsarkitektur för komplexa tjänster.
+  - title: Principal säkerhetsarkitekt
+    responsibilities:
+      - Fastställa organisationens vision, principer och strategi för säkerhetsarkitektur.
+      - Ge ledningsgruppen och styrelsen råd om cybersäkerhetsrisker för patientvård och tjänster.
+      - Se till att cyberåterhämtning, inklusive återställning efter en större attack, utformas in i kritiska kliniska tjänster.
+      - Företräda organisationen i gemenskaper för cybersäkerhet och standarder över organisationer.
+      - Leda praktiken för säkerhetsarkitektur och utveckla dess medarbetare.
+    qualifications:
+      - Omfattande erfarenhet av att leda säkerhetsarkitektur över organisationer.

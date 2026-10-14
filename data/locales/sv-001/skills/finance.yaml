@@ -1,0 +1,273 @@
+# Swedish translations of data/skills/finance.yaml. Keys are the English skill ids.
+fin-financial-transactions:
+  name: Finansiella transaktioner och huvudböcker
+  description: Bearbeta och bokföra fakturor, betalningar, kvitton, journalposter och avstämningar korrekt i huvudböckerna, enligt ekonomiska kontroller.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara processerna från inköp till betalning och från order till betalning och din roll i dem
+      - registrera fakturor, kvitton och betalningar korrekt enligt fastställda rutiner
+      - kontrollera att en transaktion har rätt godkännande och underlag
+    working: |
+      Du kan:
+      - bearbeta en rad transaktioner, inklusive kreditnotor, återbetalningar och journalposter
+      - stämma av leverantörsutdrag, bankkonton och kontrollkonton
+      - lösa rutinmässiga frågor från leverantörer, kunder och budgetansvariga
+      - upptäcka dubbla, ovanliga eller obehöriga transaktioner och lyfta dem
+    practitioner: |
+      Du kan:
+      - förvalta en huvudbok eller transaktionsprocess och hålla den korrekt och uppdaterad
+      - utreda och klara komplexa avstämningsposter och gamla saldon
+      - förbättra transaktionsprocesser, till exempel genom att automatisera matchning eller godkännanden
+      - utbilda och kontrollera annan personals arbete
+    expert: |
+      Du kan:
+      - utforma organisationens transaktionsprocesser och kontrollerna i dem
+      - fastställa prestationsstandarder, såsom betalningstider och mål för indrivning av fordringar
+      - leda övergången till nya sätt att bearbeta, såsom automatisering och självbetjäning
+      - försäkra seniora ledare och revisorer att huvudböckerna är fullständiga och korrekta
+fin-financial-reporting:
+  name: Finansiell rapportering och lagstadgade årsredovisningar
+  description: Upprätta korrekta finansiella rapporter och lagstadgade rapporter som följer tillämpliga redovisningsstandarder och regler för rapportering i offentlig sektor.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara syftet med de viktigaste finansiella rapporterna
+      - ta fram arbetsunderlag och avstämningar som stöder månads- och årsbokslut
+    working: |
+      Du kan:
+      - upprätta poster för månads- och årsbokslut, såsom periodiseringar, förutbetalda kostnader och avsättningar
+      - upprätta delar av årsredovisningen och tillhörande noter
+      - tillämpa redovisningsstandarder på rutinmässiga transaktioner, såsom aktivering av programvara och hårdvara
+    practitioner: |
+      Du kan:
+      - upprätta årsredovisningen och lagstadgade rapporter enligt en tidsplan
+      - tillämpa redovisningsstandarder på komplexa områden, såsom leasing, arrangemang för molntjänster och immateriella tillgångar
+      - skriva redovisningspromemorior som förklarar bedömningar och uppskattningar
+      - leda den externa revisionen av redovisningen och svara på fynd
+    expert: |
+      Du kan:
+      - äga organisationens årsredovisning och de redovisningsprinciper som ligger bakom den
+      - ge styrelsen och revisionsutskottet råd om betydande bedömningar och nya standarder
+      - leda svaret på reservationer i revisionsberättelsen eller väsentliga felaktigheter
+      - försäkra att rapporteringen uppfyller reglerna om offentlig ansvarsskyldighet
+fin-management-accounting:
+  name: Intern redovisning
+  description: Ta fram budget- och kostnadsinformation som hjälper chefer att planera, styra och fatta beslut, inklusive avvikelseanalys, kalkylering och resultatrapportering.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara budgetar, utfall, åtaganden och avvikelser
+      - ta fram standardrapporter om budget ur ekonomisystemet
+    working: |
+      Du kan:
+      - upprätta månatliga budgetrapporter och förklara de viktigaste avvikelserna
+      - kontera kostnader korrekt mellan kostnadsställen, projekt samt investering och drift
+      - stödja budgetansvariga att förstå och styra sina budgetar
+    practitioner: |
+      Du kan:
+      - driva den månatliga rapporteringscykeln för en direktion eller ett program
+      - bygga kostnadsmodeller, såsom den fulla kostnaden för en digital tjänst eller styckkostnaden för en transaktion
+      - analysera utgiftstrender och ge chefer råd om åtgärder för att hålla sig inom budget
+      - konstruktivt utmana budgetansvariga på deras prognoser
+    expert: |
+      Du kan:
+      - utforma organisationens interna rapportering och kalkyleringsansats
+      - presentera ekonomisk prestation för styrelsen och seniora ledare
+      - leda användningen av kostnads- och prestationsinformation för att förbättra valuta för pengarna
+      - fastställa standarder för intern redovisning i hela organisationen
+fin-financial-planning-and-forecasting:
+  name: Finansiell planering och prognoser
+  description: Bygga budgetar, prognoser och finansiella planer på medellång sikt som kopplar pengar till organisationens prioriteringar och program.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara den årliga budgetprocessen och skillnaden mellan budget och prognos
+      - samla in prognosunderlag från budgetansvariga
+    working: |
+      Du kan:
+      - bygga budgetar och prognoser för ett kostnadsställe eller ett projekt, inklusive personalkostnader
+      - uppdatera prognoser varje månad med kända förändringar och risker
+      - periodisera budgetar så att utgiftsprofilerna matchar leveransplanerna
+    practitioner: |
+      Du kan:
+      - leda budgetering och prognoser för en direktion eller ett stort program
+      - modellera scenarier och känslighet, såsom inflation, förseningar eller förändringar i finansieringen
+      - bygga fleråriga prognoser för digitala program, inklusive de driftskostnader som följer efter investeringen
+      - presentera prognoser och risker för seniora chefer
+    expert: |
+      Du kan:
+      - leda organisationens finansiella plan på medellång sikt
+      - samordna finansiella planer med strategi-, personal- och investeringsplaner
+      - ge styrelsen råd om finansiell hållbarhet och de val som krävs för att hålla sig inom finansieringen
+      - fastställa de planeringsantaganden och metoder som används i hela organisationen
+fin-payroll:
+  name: Lönehantering
+  description: Betala personalen korrekt och i tid, inklusive nyanställda, avgående, ändringar, avdrag, pensioner, lagstadgade betalningar och löneredovisning.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara lönecykeln, från ändringar och brytdatum till betalning och rapportering
+      - registrera nyanställda, avgående och ändringar korrekt utifrån godkända blanketter
+      - besvara rutinmässiga lönefrågor och hålla löneinformation konfidentiell
+    working: |
+      Du kan:
+      - beräkna lön, tillägg, övertid samt ersättning vid sjukdom och föräldraledighet
+      - tillämpa skatt, pension och andra avdrag korrekt
+      - kontrollera löneutdata och rätta fel före betalning
+      - återkräva felaktiga utbetalningar med lyhördhet och enligt policy
+    practitioner: |
+      Du kan:
+      - köra hela lönekörningen för en grupp personal och godkänna lönekontrollerna
+      - hantera lagstadgad löneredovisning och pensionsrapporter
+      - lösa komplexa fall, såsom flera anställningsavtal, retroaktiv lön eller löneväxling
+      - testa ändringar i lönesystemet, såsom årliga löneöversyner och regeländringar
+    expert: |
+      Du kan:
+      - förvalta organisationens lönetjänst, vare sig den drivs internt eller av en leverantör
+      - fastställa lönekontroller och försäkra seniora ledare att utbetalningarna är korrekta och lagliga
+      - planera för förändringar i lönereglerna, löneöversyner och lönesystem
+      - leda hanteringen av större fel i lönehanteringen
+fin-treasury-and-cash:
+  name: Finansförvaltning och kassahantering
+  description: Förvalta bankkonton, kassaflöde och likviditet så att organisationen kan uppfylla sina åtaganden, inom reglerna för kontanthantering i offentlig sektor.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför kontanter är viktiga vid sidan av budgetar
+      - registrera och stämma av banktransaktioner
+    working: |
+      Du kan:
+      - ta fram dagliga kassapositioner och kortsiktiga kassaprognoser
+      - förbereda betalningskörningar och kontrollera att de är korrekt godkända
+      - stämma av bankkonton och klara omatchade poster
+    practitioner: |
+      Du kan:
+      - förvalta organisationens prognos för kassaflödet och uttag av finansiering
+      - förvalta bankkonton, betalningsmetoder och bankkontroller
+      - planera kassan för stora eller oregelbundna betalningar, såsom fleråriga programvarulicenser
+    expert: |
+      Du kan:
+      - fastställa organisationens policy för finansförvaltning och bankarrangemang
+      - ge styrelsen råd om likviditet och kassarisker
+      - förvalta kassan inom de gränser som finansiärer och regler för offentlig sektor sätter
+fin-audit-and-controls:
+  name: Ekonomiska kontroller och revision
+  description: Utforma, driva och testa ekonomiska kontroller, förebygga och upptäcka bedrägeri och arbeta med interna och externa revisorer.
+  levels:
+    awareness: |
+      Du kan:
+      - följa organisationens ekonomiska rutiner och delegationsordningar
+      - känna igen tecken på möjligt bedrägeri eller fel och rapportera dem
+    working: |
+      Du kan:
+      - driva viktiga kontroller, såsom funktionsseparation och kontroll av leverantörers bankuppgifter
+      - lämna evidens till revisorer och besvara deras frågor
+      - kontrollera att utgifter godkänns på rätt nivå
+    practitioner: |
+      Du kan:
+      - testa och förbättra kontrollerna för en finansiell process
+      - hantera revisionsförfrågningar för ett område och komma överens om åtgärder efter fynd
+      - skriva och uppdatera ekonomiska rutiner
+      - arbeta med specialister på bedrägeribekämpning för att minska bedrägeririsken
+    expert: |
+      Du kan:
+      - äga organisationens ekonomiska regler och delegationsordning
+      - rapportera till revisionsutskottet om ekonomisk kontroll och revisionsåtgärder
+      - leda hanteringen av betydande kontrollbrister eller bedrägeri
+      - bygga en kultur där personal förstår sin plikt att använda offentliga medel på rätt sätt
+fin-business-cases:
+  name: Affärscase och investeringskalkyler
+  description: Bygga det ekonomiska underlaget för investeringar, inklusive alternativanalys, kostnader över hela livscykeln, hantering av investering och drift, nyttor och valuta för pengarna.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara syftet med ett affärscase och dess ekonomiska del
+      - samla in kostnadsinformation till ett affärscase
+    working: |
+      Du kan:
+      - bygga den finansiella modellen för ett enkelt affärscase
+      - skilja investerings- och driftskostnader samt engångs- och återkommande kostnader
+      - inkludera kostnader över hela livscykeln, såsom licenser, support och drift efter driftsättning
+    practitioner: |
+      Du kan:
+      - leda det ekonomiska underlaget för komplexa digitala investeringar, såsom ett nytt kliniskt system eller en flytt till molnet
+      - bedöma alternativ med nuvärde, känslighetsanalys och riskjustering
+      - kontrollera att nyttor är realistiska, mätbara och ägda
+      - följa upp utgifter och nyttor efter godkännandet
+    expert: |
+      Du kan:
+      - fastställa organisationens standarder för affärscase och investeringskalkyler
+      - ge investeringsstyrelser råd om överkomlighet, valuta för pengarna och risk
+      - föra fram caset för större investeringsprogram till finansiärer
+      - se över investeringsportföljen och rekommendera var man ska stoppa, ändra eller fortsätta
+fin-tax:
+  name: Skatter
+  description: Tillämpa regler om mervärdesskatt (moms), arbetsgivarskatt och andra skatter korrekt på organisationens transaktioner, och återvinna skatt där det är tillåtet.
+  levels:
+    awareness: |
+      Du kan:
+      - känna igen moms på fakturor och kontera den korrekt
+      - förklara när man ska be en skattespecialist om råd
+    working: |
+      Du kan:
+      - upprätta skattedeklarationer och avstämningar under handledning
+      - tillämpa rätt skattebehandling på vanliga inköp och intäkter
+      - kontrollera anställningsstatus för konsulter under handledning
+    practitioner: |
+      Du kan:
+      - förvalta organisationens skattedeklarationer och skatteavstämningar
+      - ge råd om skattebehandlingen av avtal, såsom programvarulicenser, molntjänster och delade tjänster
+      - maximera skatteåtervinningen inom reglerna
+    expert: |
+      Du kan:
+      - äga organisationens skattestrategi och skatterisk
+      - leda diskussioner med skattemyndigheten i komplexa frågor
+      - bedöma skatteeffekten av större förändringar, såsom nya partnerskap eller affärsverksamheter
+fin-financial-systems:
+  name: Ekonomisystem
+  description: Använda, administrera och förbättra ekonomi-, upphandlings-, lön- och rapporteringssystem så att ekonomiska data är korrekta och processerna effektiva.
+  levels:
+    awareness: |
+      Du kan:
+      - använda ekonomisystemet för dina egna uppgifter enligt rutiner
+      - köra standardrapporter och exportera data till ett kalkylblad
+    working: |
+      Du kan:
+      - använda kalkylblad väl, inklusive formler, uppslag och pivottabeller
+      - underhålla data i ekonomisystemet, såsom kostnadsställen, leverantörer och attestanter
+      - rapportera och hjälpa till att åtgärda systemproblem
+    practitioner: |
+      Du kan:
+      - administrera ekonomi- eller lönesystemet, inklusive åtkomst, arbetsflöden och rapportering
+      - utforma rapporter och instrumentpaneler för budgetansvariga
+      - testa systemändringar och uppgraderingar
+      - automatisera repetitiva ekonomiuppgifter
+    expert: |
+      Du kan:
+      - äga strategin och färdplanen för ekonomisystemen
+      - leda upphandlingen och införandet av ekonomi- eller lönesystem
+      - se till att ekonomiska data är integrerade med personal-, upphandlings- och resultatdata
+fin-public-sector-finance:
+  name: Ekonomi i offentlig sektor
+  description: Förstå hur offentlig finansiering fungerar, inklusive anslag, gränser för investering och drift, utgiftskontroller, ansvarsskyldighet för offentliga medel och valuta för pengarna.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara att organisationen spenderar offentliga medel och måste redovisa för dem
+      - förklara skillnaden mellan investeringsutgifter och driftsutgifter
+    working: |
+      Du kan:
+      - tillämpa organisationens regler för investering och drift på vardagliga utgifter
+      - förklara hur anslag och utgiftsgränser påverkar ditt område
+      - känna igen utgifter som kräver godkännande av en finansiär eller utgiftskontroll
+    practitioner: |
+      Du kan:
+      - ge chefer råd om finansieringsregler, inklusive öronmärkta och tidsbegränsade medel
+      - förvalta gränser för investering och drift för ett program eller en direktion
+      - ta fram rapporter och evidens till finansiärer och utgiftskontroller
+    expert: |
+      Du kan:
+      - företräda organisationen hos finansiärer och tillsynsorgan
+      - ge styrelsen råd om regelbundenhet, anständighet och valuta för pengarna
+      - forma finansieringsavtal och ekonomiska regimer för organisationens tjänster

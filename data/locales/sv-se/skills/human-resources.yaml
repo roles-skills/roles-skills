@@ -1,0 +1,298 @@
+# Swedish translations of data/skills/human-resources.yaml. Keys are the English skill ids.
+hr-hr-administration:
+  name: HR-administration
+  description: Driva de administrativa processerna i anställningens livscykel korrekt och konfidentiellt, från anställningsavtal och nyanställda till ändringar, frånvaroregister och avgående.
+  levels:
+    awareness: |
+      Du kan:
+      - följa organisationens rutiner för nyanställda, ändringar och avgående
+      - hålla personuppgifter konfidentiella och uppdaterade
+    working: |
+      Du kan:
+      - upprätta anställningsavtal, ändringsbrev och anställningskontroller korrekt
+      - bearbeta ändringar i HR- och lönesystemet inom tidsfrister
+      - besvara rutinfrågor från chefer och personal om HR-processer
+    practitioner: |
+      Du kan:
+      - driva en HR-administrationstjänst, kontrollera kvaliteten och uppfylla servicestandarder
+      - förbättra processer och mallar, och automatisera rutinsteg där det går
+      - lösa komplexa eller ovanliga fall, såsom felaktiga utbetalningar eller fel i anställningsavtal
+    expert: |
+      Du kan:
+      - utforma HR:s operativa modell och servicestandarder för organisationen
+      - leda övergången till digitala HR-processer med självbetjäning
+      - fastställa kontroller som håller HR- och lönedata korrekta och lagliga
+hr-employment-policy:
+  name: Arbetsrätt och personalpolicy
+  description: Tillämpa arbetsrätten och skriva, tolka och se över organisationens personalpolicyer så att personalen behandlas lagligt, rättvist och konsekvent.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara de viktigaste personalpolicyerna och var de finns
+      - känna igen när en fråga behöver råd från en HR-rådgivare
+    working: |
+      Du kan:
+      - tillämpa personalpolicyer på rutinfall och förklara dem för chefer
+      - identifiera de arbetsrättsliga principerna bakom en policy
+      - föra policyregister och följa upp datum för översyn av policyer
+    practitioner: |
+      Du kan:
+      - tolka arbetsrätt och policy i komplexa fall och ge råd om risk
+      - utkasta och se över personalpolicyer, med jämlikhetskonsekvensbedömningar
+      - samråda om policyändringar med personalföreträdare
+    expert: |
+      Du kan:
+      - fastställa organisationens ramverk för personalpolicy och förhållningssätt till juridisk risk
+      - förutse förändringar i arbetsrätten och planera organisationens svar
+      - ge styrelsen råd om arbetsrättslig risk och ansvar
+hr-employee-relations:
+  name: Arbetsrelationsärenden
+  description: Hantera formella och informella arbetsrelationsärenden, såsom uppförande, kapacitet, klagomål, närvaro och värdighet på jobbet, rättvist och i linje med policy och arbetsrätt.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara huvudstegen i förfaranden för uppförande, kapacitet, klagomål och närvaro
+      - föra korrekta anteckningar vid formella möten och hålla ärendejournaler konfidentiella
+    working: |
+      Du kan:
+      - ge chefer råd i okomplicerade ärenden och om nästa steg i ett förfarande
+      - stödja utredningar, ta fram ärendehandlingar och ordna förhandlingar
+      - arbeta konstruktivt med personalföreträdare i enskilda ärenden
+    practitioner: |
+      Du kan:
+      - hantera en portfölj av komplexa ärenden och ge förhandlingspaneler råd om rättvisa utfall
+      - genomföra eller leda utredningar, inklusive sådana som rör incidenter eller skydd av utsatta personer
+      - använda tidig lösning och medling för att lösa tvister innan de eskalerar
+      - upptäcka trender i ärenden och agera på deras orsaker
+    expert: |
+      Du kan:
+      - leda organisationens förhållningssätt till arbetsrelationer och partnerskapsarbete
+      - hantera de mest känsliga eller högriskfyllda ärendena, inklusive arbetsrättsliga anspråk
+      - förhandla kollektivavtal och lösa kollektiva tvister
+hr-recruitment-and-selection:
+  name: Rekrytering och urval
+  description: Attrahera, bedöma och anställa människor rättvist och effektivt, från utformning av tjänster och annonsering till urval, bedömning, erbjudande och kontroller före anställning.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara stegen i organisationens rekryteringsprocess
+      - följa regler för rättvis och säker rekrytering, inklusive kontroller före anställning
+    working: |
+      Du kan:
+      - driva rekryteringskampanjer genom rekryteringssystemet
+      - stödja chefer med annonser, urval och intervjuupplägg
+      - genomföra kontroller före anställning och göra villkorade erbjudanden
+    practitioner: |
+      Du kan:
+      - ge chefer råd om utformning av tjänster, urvalsmetoder och rättvis bedömning
+      - utforma bedömningar för specialistroller, såsom tekniska uppgifter för digitala roller
+      - analysera rekryteringsdata för att förbättra tid till anställning, kvalitet och mångfald
+      - förvalta kandidatupplevelsen och arbetsgivarvarumärket
+    expert: |
+      Du kan:
+      - fastställa organisationens rekryteringsstrategi och servicestandarder
+      - leda valet och användningen av rekryteringsteknik och bemanningsföretag
+      - se till att rekryteringen är inkluderande och laglig i hela organisationen
+hr-talent-attraction:
+  name: Attrahera och söka talang
+  description: Hitta och engagera människor med knappa färdigheter, såsom digitala specialister, dataspecialister och teknikspecialister, genom arbetsgivarvarumärke, direktsökning, nätverk och vägar för tidiga karriärer.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara vilka färdigheter som är svåra att rekrytera och varför
+      - dela jobbannonser genom organisationens kanaler och nätverk
+    working: |
+      Du kan:
+      - skriva annonser som tilltalar specialistkandidater och använda klarspråk
+      - söka efter kandidater på jobbsajter, i professionella nätverk och talangpooler
+      - stödja evenemang, såsom karriärmässor och öppet hus
+    practitioner: |
+      Du kan:
+      - bygga talangflöden och gemenskaper för knappa digitala roller och dataroller
+      - forma arbetsgivarens värdeerbjudande tillsammans med anställande team
+      - använda marknadsdata om lön och utbud för att ge råd om svårtillsatta roller
+      - utveckla vägar för tidiga karriärer, såsom lärlingsplatser och traineeprogram
+    expert: |
+      Du kan:
+      - fastställa organisationens strategi för att attrahera talang och arbetsgivarvarumärke
+      - arbeta med partner, såsom universitet och andra arbetsgivare, för att öka talangutbudet
+      - leda beslut om lönepremier, användning av bemanningsföretag och alternativa söksätt
+hr-workforce-planning:
+  name: Bemanningsplanering
+  description: Prognostisera den personal organisationen behöver, jämföra den med den personal den har och planera hur glappet ska täckas genom rekrytering, utveckling, omgestaltning och att behålla personal.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför bemanningsplanering är viktig för trygga och hållbara tjänster
+      - lämna korrekt information om fastställd bemanning och vakanser
+    working: |
+      Du kan:
+      - samla in och kontrollera underlag till bemanningsplanen från chefer
+      - modellera enkla scenarier, såsom trender i personalomsättning och vakanser
+    practitioner: |
+      Du kan:
+      - leda bemanningsplaneringen för en direktion och koppla den till tjänste- och finansiella planer
+      - identifiera kompetensglapp och rekommendera sätt att täcka dem
+      - planera nya roller, karriärvägar och kompetensmix
+    expert: |
+      Du kan:
+      - fastställa organisationens personalstrategi och långsiktiga plan
+      - göra avvägningar om personal mellan tjänster tillsammans med ekonomi- och tjänsteledare
+      - forma bemanningsplaner tillsammans med partner i hela hälso- och vårdsystemet
+hr-workforce-information:
+  name: Personalinformation och HR-system
+  description: Förvalta HR- och personalsystem och data, och omvandla personaldata till rapporter och insikt, såsom personalomsättning, frånvaro, vakanser, mångfald och analys av löneskillnader.
+  levels:
+    awareness: |
+      Du kan:
+      - mata in personaldata korrekt i HR-systemet
+      - förklara varför personaldata måste vara korrekta och hållas konfidentiella
+    working: |
+      Du kan:
+      - köra standardrapporter om personalen och kontrollera dem för fel
+      - besvara rutinmässiga informationsbegäranden om personalen
+    practitioner: |
+      Du kan:
+      - analysera personaldata för att hitta trender och förklara dem för chefer
+      - utforma instrumentpaneler och rapporter för personalindikatorer
+      - ta fram lagstadgad rapportering och rapportering om likabehandling, såsom analys av löneskillnader
+    expert: |
+      Du kan:
+      - fastställa organisationens strategi för personalinformation och datastandarder
+      - leda valet och utvecklingen av HR-system
+      - använda personalinsikt som underlag för styrelsens beslut
+hr-reward-and-job-evaluation:
+  name: Belöning och arbetsvärdering
+  description: Tillämpa regler för lön och belöning, och värdera arbeten konsekvent mot ett arbetsvärderingssystem för att placera dem i rätt band.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara hur lönband, steg och tillägg fungerar
+      - förklara att arbeten placeras i band genom arbetsvärdering, inte efter personen i arbetet
+    working: |
+      Du kan:
+      - tillämpa lönereglerna, såsom ingångslön, skydd och tillägg
+      - kontrollera att befattningsbeskrivningar är fullständiga innan de går till värdering
+      - delta i paneler för arbetsvärdering som utbildad ledamot
+    practitioner: |
+      Du kan:
+      - leda paneler för arbetsvärdering och konsekvenskontroller
+      - ge råd om bandplacering för nya och ändrade roller, inklusive digitala roller och dataroller
+      - ge råd om premier för rekrytering och att behålla personal, med stöd av marknadsevidens
+    expert: |
+      Du kan:
+      - fastställa organisationens belöningsstrategi inom det överenskomna lönesystemet
+      - kvalitetssäkra arbetsvärderingens integritet i hela organisationen
+      - leda översyner av lika lön och agera på deras fynd
+hr-learning-design-and-delivery:
+  name: Utformning och genomförande av lärande
+  description: Analysera lärandebehov, sedan utforma, genomföra och utvärdera lärande på plats, online och i arbetets flöde.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara skillnaden mellan utbildning, lärande och utveckling
+      - stödja genomförandet av kurser och föra utbildningsregister
+    working: |
+      Du kan:
+      - genomföra väl definierade utbildningstillfällen på plats och online
+      - bygga enkel e-utbildning i lärplattformen
+      - samla in och sammanfatta deltagarnas återkoppling
+    practitioner: |
+      Du kan:
+      - analysera lärandebehov och utforma blandade program som möter dem
+      - sätta lärandemål och utvärdera effekt, inte bara nöjdhet
+      - göra lärande tillgängligt och inkluderande för all personal
+    expert: |
+      Du kan:
+      - fastställa organisationens strategi och standarder för lärande
+      - leda lärandeutbudet, dess teknik och dess finansiering
+      - visa avkastningen på organisationens investering i lärande
+hr-skills-frameworks-and-career-pathways:
+  name: Kompetensramverk och karriärvägar
+  description: Använda kompetens- och rollramverk, såsom den här referensen, UK GDaD PCF och ESCO, för att beskriva roller, bedöma kompetensglapp och bygga karriärvägar.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara vad ett kompetensramverk är och hur det beskriver roller och nivåer
+      - hitta rollprofilen och färdigheterna för ett arbete i ramverket
+    working: |
+      Du kan:
+      - mappa befattningsbeskrivningar mot ramverkets roller, nivåer och färdigheter
+      - stödja personal och chefer med självbedömningar av färdigheter
+      - hålla information om karriärvägar uppdaterad
+    practitioner: |
+      Du kan:
+      - köra kompetensglappsanalys för ett team eller en profession och redovisa resultaten
+      - utforma karriärvägar och utvecklingsvägar med ramverkets nivåer
+      - använda ramverkets färdigheter för att skriva konsekventa befattningsbeskrivningar och bedömningar
+    expert: |
+      Du kan:
+      - fastställa hur organisationen använder kompetensramverk över professioner
+      - använda kompetensdata som underlag för personal-, lärande- och belöningsstrategi
+      - bidra till utvecklingen av gemensamma ramverk med andra organisationer
+hr-organisational-development:
+  name: Organisationsutveckling
+  description: Förbättra hur organisationen arbetar genom kultur, ledarskap, engagemang, teameffektivitet och insatser för välbefinnande baserade på evidens.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara hur kultur, ledarskap och engagemang påverkar personal och patientvård
+      - hjälpa till att genomföra personalenkäter och lyssnartillfällen
+    working: |
+      Du kan:
+      - facilitera teamsessioner och workshoppar med standardverktyg
+      - analysera personalenkätresultat för ett team och föreslå åtgärder
+    practitioner: |
+      Du kan:
+      - diagnostisera organisatoriska frågor och utforma insatser för att åtgärda dem
+      - leda teamutveckling, ledarskapsutveckling och engagemangsprogram
+      - utvärdera insatsers effekt med evidens
+    expert: |
+      Du kan:
+      - fastställa strategin för organisationsutveckling och kulturprogrammet
+      - coacha chefer i ledningen och leda storskalig kulturförändring
+      - koppla mått på kultur och engagemang till vårdens kvalitet och prestation
+hr-organisational-change:
+  name: Organisationsförändring och samråd
+  description: Planera och genomföra förändringar av strukturer, roller och arbetsmönster, inklusive formellt samråd, omplacering och uppsägning på grund av arbetsbrist, i linje med policy och arbetsrätt.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara huvudstegen i en organisationsförändringsprocess
+      - stödja administrationen av en förändring, såsom samrådsbrev och möten
+    working: |
+      Du kan:
+      - stödja chefer att förbereda samrådsdokument och personalinformation
+      - följa upp svar och åtgärder under samrådet
+      - stödja personal genom omplacerings- och urvalsprocesser
+    practitioner: |
+      Du kan:
+      - leda organisationsförändring för en direktion, från affärscase till genomförande
+      - samråda med personal och deras företrädare och svara på deras återkoppling
+      - hantera de juridiska riskerna och jämlikhetsriskerna med en förändring
+    expert: |
+      Du kan:
+      - leda omstruktureringar i hela organisationen och överföringar av tjänster
+      - utforma organisationens förhållningssätt till förändring, inklusive partnerskapsarbete
+      - ge styrelsen råd om personalkonsekvenser och risk vid större förändringar
+hr-people-strategy:
+  name: Personalstrategi och HR-ledarskap
+  description: Fastställa organisationens personalstrategi, leda HR-funktionen och ge styrelsen råd om kultur, personal och arbetsrättslig risk.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara organisationens personalstrategi och hur ditt arbete stöder den
+    working: |
+      Du kan:
+      - bidra till personalplaner för en tjänst, med tydliga åtgärder och mått
+      - rapportera framsteg mot personalplanen
+    practitioner: |
+      Du kan:
+      - skriva och leda personalplaner för en direktion i linje med personalstrategin
+      - ge seniora ledare råd om personalrisker och prioriteringar
+      - leda en del av HR-funktionen och fastställa dess standarder och prioriteringar
+    expert: |
+      Du kan:
+      - fastställa organisationens personalstrategi och leda HR-funktionen
+      - ge styrelsen råd om kultur, personal och arbetsrättslig risk
+      - företräda organisationen i personalfrågor hos partner och tillsynsmyndigheter

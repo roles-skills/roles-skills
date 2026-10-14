@@ -1,0 +1,46 @@
+summary: >
+  Analytiker inom säkerhetsdrift bevakar, utreder och svarar på cybersäkerhetshot mot organisationens system och data. De prioriterar larm från verktyg för säkerhetsövervakning, utreder misstänkt aktivitet, begränsar incidenter och hjälper till att åtgärda svagheter. Inom hälso- och sjukvården skyddar snabb upptäckt och snabbt svar kliniska tjänster och konfidentiell patientinformation mot attacker såsom ransomware.
+health_context:
+  - Hälso- och sjukvården är ett frekvent mål för ransomware och datastöld, och en enda attack kan stoppa kliniska system i hela organisationen.
+  - Beslut om begränsning, såsom att isolera en server eller en del av nätet, måste väga säkerhetsrisk mot effekten på patientvården, så analytiker arbetar med kliniska och operativa ledare.
+  - Nät innehåller medicintekniska produkter och äldre system som inte kan köra säkerhetsagenter eller patchas snabbt, så analytiker förlitar sig på nätverksövervakning och kompenserande kontroller.
+  - Övervakningen omfattar åtkomst till patientjournaler, så analytiker hjälper till att upptäcka otillbörlig åtkomst från insiders såväl som externa attacker, tillsammans med informationsstyrning.
+  - Säkerhetsövervakning pågår dygnet runt, så analytiker kan arbeta i skift eller jourscheman.
+levels:
+  - title: Junior analytiker inom säkerhetsdrift
+    summary: En junior analytiker inom säkerhetsdrift övervakar säkerhetslarm, prioriterar dem med körhandböcker och eskalerar händelser, med vägledning från erfarna analytiker.
+    responsibilities:
+      - Övervaka larm från säkerhetsövervakning och verktyg för slutpunkter och prioritera dem med körhandböcker.
+      - Samla underlag om misstänkt aktivitet, såsom nätfiskemejl eller ovanliga inloggningar, och eskalera det.
+      - Kontrollera nätfiskemejl som rapporterats av personal och hjälpa till att ta bort skadliga mejl från postlådor.
+      - Registrera händelser och åtgärder korrekt i verktyget för ärendehantering.
+      - Köra sårbarhetsskanningar och påminna systemägare om rättelser som ska göras.
+    qualifications:
+      - En kvalifikation inom datavetenskap eller cybersäkerhet, en lärlingsutbildning inom cybersäkerhet eller motsvarande erfarenhet.
+    job_evaluation_notes: Mental ansträngning speglar täta perioder av långvarig koncentration på övervakning och prioritering av oförutsägbara larm.
+  - title: Analytiker inom säkerhetsdrift
+    summary: En analytiker inom säkerhetsdrift utreder och begränsar säkerhetsincidenter, skriver detektionsregler och förbättrar organisationens säkerhetsövervakning.
+    responsibilities:
+      - Utreda säkerhetsincidenter, avgöra deras omfattning och begränsa dem, tillsammans med systemägare och kliniska tjänster.
+      - Skriva och justera detektionsregler och genomföra hotjakt utifrån aktuella hot mot hälso- och sjukvården.
+      - Bevaka otillbörlig åtkomst till patientjournaler och föra ärenden vidare till informationsstyrning.
+      - Bedöma sårbarheter efter risk, inklusive deras effekt på kliniska tjänster och medicintekniska produkter.
+      - Förbättra körhandböcker och verktyg efter incidenter.
+      - Delta i jourschemat för säkerhetsincidenter utanför kontorstid.
+    qualifications:
+      - En examen i datavetenskap eller cybersäkerhet, relevanta säkerhetscertifieringar eller motsvarande erfarenhet.
+      - Erfarenhet av säkerhetsövervakning eller incidenthantering.
+    job_evaluation_notes: Mental ansträngning speglar täta perioder av långvarig koncentration under utredningar, inklusive jour. Känslomässig ansträngning speglar tät indirekt exponering för plågsamt material i patientjournaler och för trycket från incidenter i drift.
+  - title: Senior analytiker inom säkerhetsdrift
+    summary: En senior analytiker inom säkerhetsdrift leder svaret på betydande säkerhetsincidenter, leder hotjakt och vägleder säkerhetsdriftsteamets arbete.
+    responsibilities:
+      - Leda det tekniska svaret på betydande säkerhetsincidenter, inklusive ransomware och datastöld, och samordna med incidenthantering.
+      - Ge kliniska och operativa ledare råd om beslut om begränsning som påverkar patientvården.
+      - Leda arbete med hotjakt och hotunderrättelser och dela information med partner inom säkerhet i hälso- och sjukvården.
+      - Fastställa prioriteringar för detektionsutveckling och övervakningstäckning, inklusive för nät med medicintekniska produkter.
+      - Leda övningar som testar incidentsvar med tekniska och kliniska team.
+      - Coacha och vägleda analytiker inom säkerhetsdrift.
+    qualifications:
+      - Betydande erfarenhet av säkerhetsdrift och incidenthantering, på en nivå motsvarande en påbyggnadsexamen.
+      - Relevanta avancerade säkerhetscertifieringar, eller motsvarande erfarenhet.
+    job_evaluation_notes: Mental och känslomässig ansträngning speglar att leda svaret på allvarliga incidenter under press, ofta utanför kontorstid, där kliniska tjänster är i riskzonen.

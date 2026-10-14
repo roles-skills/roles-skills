@@ -1,0 +1,67 @@
+summary: >
+  Controllers ger chefer den ekonomiska information och de råd de behöver för att planera, styra utgifter och fatta goda beslut. De sätter och följer upp budgetar, prognostiserar utgifter, kostnadsberäknar tjänster och bygger det ekonomiska underlaget för investeringar. I en digital hälso- och sjukvårdsorganisation arbetar de nära digitala program och produktteam, där det är centralt för goda beslut att få investering och drift, livscykelkostnader och valuta för pengarna rätt.
+health_context:
+  - Digitala program finansieras ofta av en blandning av investeringsmedel och driftsmedel, öronmärkta medel eller tidsbegränsade medel, var och en med egna regler för vad de får användas till.
+  - Övergången från ägda system till molntjänster och abonnemang flyttar kostnader från investering till drift, vilket påverkar budgetar, affärscase och ansökningar om finansiering.
+  - Investeringsbeslut måste visa valuta för pengarna för offentliga medel och nyttor för patienter, kliniker och vårdpersonal, och inte bara ekonomiska besparingar.
+  - Avtal om programvara, drift och support löper ofta över flera år, så prognoser måste omfatta driftskostnader långt efter driftsättning.
+  - Budgetansvariga i digitala och kliniska team är kanske inte ekonomispecialister, så tydliga, praktiska råd är en stor del av arbetet.
+levels:
+  - title: Controller (trainee)
+    summary: Controllers i traineeprogram, ibland kallade ekonomianalytiker, tar fram budgetrapporter och analys för en uppsättning budgetansvariga samtidigt som de arbetar mot en erkänd revisorskvalifikation.
+    responsibilities:
+      - Förbereda månatliga budgetrapporter för en grupp budgetansvariga och förklara de viktigaste avvikelserna.
+      - Bokföra verifikationer vid månadsslut, upplupna kostnader och rättelser för att säkerställa att rapporter är korrekta.
+      - Kontrollera att utgifter kodas korrekt mellan kostnadsställen, projekt och investering och drift.
+      - Samla in prognosinformation och uppdatera prognoser tillsammans med budgetansvariga.
+      - Ta fram kostnadsinformation till affärscase under handledning.
+      - Arbeta mot en erkänd revisorskvalifikation.
+    qualifications:
+      - En examen eller en kvalifikation inom redovisning på mellannivå, och på väg mot en erkänd revisorskvalifikation, eller motsvarande erfarenhet.
+    job_evaluation_notes: Kunskap poängsätts på den nivå arbetet kräver när utbildningen har kommit tillräckligt långt för att kunna utföra arbetet. Ekonomiska resurser är nivå 3 för uppföljning av delegerade budgetar.
+  - title: Controller
+    summary: Controllers är kvalificerade ekonomer som driver budgetarbete, uppföljning och prognoser för en direktörsenhet eller en grupp tjänster och ger budgetansvariga råd om deras ekonomi.
+    responsibilities:
+      - Leda den månatliga cykeln för rapportering och prognos för en direktörsenhet eller en grupp tjänster.
+      - Ge budgetansvariga råd om utgifter, risker och åtgärder för att hålla sig inom budget.
+      - Förbereda årsbudgetar, inklusive personalkostnader, avtal och licenser.
+      - Tillämpa regler för investering och drift på digitala utgifter, såsom programvaruutveckling, licenser och hårdvara.
+      - Bygga ekonomiska modeller för affärscase och alternativanalyser.
+      - Leda och utveckla controllers i traineeprogram.
+    qualifications:
+      - En erkänd revisorskvalifikation, eller motsvarande erfarenhet.
+  - title: Senior controller
+    summary: Senior controllers leder den ekonomiska styrningen av en stor direktörsenhet eller ett större digitalt program, inklusive komplexa prognoser, kostnadsberäkningar och affärscase.
+    responsibilities:
+      - Leda budgetarbete och prognoser för en stor direktörsenhet eller ett större digitalt program.
+      - Modellera scenarier, såsom ändrad finansiering, leveransförseningar och övergången från investering till molnabonnemangskostnader.
+      - Leda det ekonomiska underlaget för betydande investeringar, inklusive livscykelkostnader, nyttor och valuta för pengarna.
+      - Bygga kostnadsberäkningar för tjänster och produkter, såsom den fulla kostnaden för att driva en digital tjänst.
+      - Presentera ekonomisk prestation och risker för seniora chefer och programstyrgrupper.
+      - Leda ett litet team av ekonomer och trainees.
+    qualifications:
+      - En erkänd revisorskvalifikation, med betydande erfarenhet efter kvalificeringen, eller motsvarande.
+    job_evaluation_notes: Ekonomiska resurser är nivå 4 eftersom arbetet sätter budgeten för en direktörsenhet eller ett program tillsammans med budgetansvariga.
+  - title: Ekonomisk affärspartner
+    summary: Ekonomiska affärspartner arbetar som en del av en direktörsenhets ledning, ofta digitalt, data och teknik, omsätter ekonomisk information till beslut och ser till att investeringar ger valuta för pengarna.
+    responsibilities:
+      - Vara den seniora ekonomiska rådgivaren till en direktörsenhets ledningsgrupp, såsom digitala yrken, data och teknik.
+      - Leda direktörsenhetens ekonomiska plan och koppla utgifter till prioriteringar, arbetsstyrka och investeringar.
+      - Utmana och stödja ledare i frågor om valuta för pengarna, inklusive leverantörsutgifter, användning av licenser och molnkostnader.
+      - Leda affärscase för större digitala investeringar och företräda ekonomi i investeringsstyrgrupper.
+      - Se till att digitala utgifter uppfyller finansieringsregler, utgiftskontroller och gränser för investering och drift.
+      - Ha linjeansvar för controllers som stödjer direktörsenheten.
+    qualifications:
+      - En erkänd revisorskvalifikation, med omfattande erfarenhet efter kvalificeringen, inklusive affärspartnerskap.
+    job_evaluation_notes: Ekonomiska resurser är nivå 5 eftersom arbetet sätter budgetar över flera tjänster i en direktörsenhet.
+  - title: Chef för controlling
+    summary: Chefer för controlling leder organisationens budgetarbete, prognoser och internredovisning och teamet av affärspartner och ekonomer som levererar det.
+    responsibilities:
+      - Leda organisationens årliga budgetarbete och prognoser under året.
+      - Utforma internredovisning, kostnadsberäkning och prestationsinformation för styrelsen och ledningen.
+      - Fastställa standarder för affärscase och investeringsbedömning, även för digitala investeringar.
+      - Ge direktörer råd om ekonomiska risker, besparingsplaner och de val som krävs för att hålla sig inom finansieringen.
+      - Leda och utveckla teamen för affärspartnerskap och internredovisning.
+      - Förbättra verktyg för budgetering och rapportering, inklusive självbetjäning för budgetansvariga.
+    qualifications:
+      - En erkänd revisorskvalifikation, med omfattande erfarenhet efter kvalificeringen, inklusive att leda ett ekonomiteam.

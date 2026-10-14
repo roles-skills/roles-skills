@@ -1,0 +1,29 @@
+summary: >
+  Programleveransansvariga är ansvariga för att leverera komplexa digitala hälso- och vårdtjänster som kräver att flera team, leverantörer eller organisationer arbetar tillsammans, eller som medför hög teknisk, klinisk eller offentlig risk. De hanterar beroenden, budgetar, kommersiella arrangemang och människor över hela programmet och ser till att det levererar sina avsedda nyttor för patienter, kliniker och vårdpersonal.
+health_context:
+  - Program förändrar ofta hur vård levereras över flera organisationer, så programleveransansvariga samordnar kliniska, operativa och digitala ledare som har olika prioriteringar och styrning.
+  - Klinisk risk måste hanteras i hela programmet och inte bara inom varje team, så de arbetar med kliniska säkerhetsansvariga för att hålla en bild på programnivå av faror och säkerhetsunderlag.
+  - Program innefattar ofta stora avtal med leverantörer av kliniska system, så kommersiell hantering och avtalshantering är en stor del av rollen.
+  - Nyttor i vården, såsom kortare väntetider, tryggare ordination eller frigjord personaltid, måste definieras, ägas av tjänsten och följas upp långt efter att programmet avslutats.
+levels:
+  - title: Programleveransansvarig
+    responsibilities:
+      - Leda leveransen av ett program med flera team, såsom att införa en ny digital tjänst över ett vårdförlopp.
+      - Planera och hantera beroenden mellan team, leverantörer och partnerorganisationer inom hälso- och sjukvården.
+      - Hålla en bild på programnivå av klinisk risk tillsammans med den kliniska säkerhetsansvarige och se till att varje release har den kvalitetssäkring den behöver.
+      - Förvalta programmets budget, avtal och leverantörsprestation.
+      - Rapportera framsteg, risker och nyttor till programstyrgruppen och den ansvarige beställaren.
+      - Ha linjeansvar för leveransansvariga och bygga en sund leveranskultur i hela programmet.
+    qualifications:
+      - Omfattande erfarenhet av att leverera komplexa digitala tjänster eller program med flera team.
+  - title: Senior programleveransansvarig
+    responsibilities:
+      - Leda leveransen av organisationens största eller mest högriskfyllda program, såsom ersättning av den centrala elektroniska patientjournalen eller en systemövergripande delad vårdjournal.
+      - Samordna leverans över flera organisationer i ett vårdsystem och samordna deras planer, styrning och beslut om driftsättning.
+      - Leda kommersiell strategi och förhandling med större leverantörer och förvalta programbudgetar över flera år.
+      - Se till att klinisk säkerhet, informationsstyrning och verksamhetskontinuitet kvalitetssäkras på programnivå före större driftsättningar.
+      - Leda och utveckla program- och leveransansvariga och fastställa leveransstandarder över portföljen.
+      - Ge ledningen råd om programrisk, alternativ och återhämtning.
+    qualifications:
+      - Omfattande erfarenhet av att leda stora, högriskfyllda program över organisationer.
+    job_evaluation_notes: UK GDaD PCF har en nivå för programleveransansvariga, vid G7 eller G6. Den här referensen lägger till en senior nivå i band 8c för de största programmen över flera organisationer, med större budgetar (ekonomiska resurser nivå 5) och mer kontroversiell kommunikation (nivå 6).

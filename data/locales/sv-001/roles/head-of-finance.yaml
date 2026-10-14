@@ -1,0 +1,44 @@
+summary: >
+  Seniora ekonomiledare är ansvariga för organisationens ekonomiska hälsa, ekonomiska kontroll och användning av offentliga medel. De leder ekonomisk strategi och planering, ger styrelsen råd om överkomlighet och valuta för pengarna och leder funktionerna för ekonomi, lön och ofta upphandling. I en digital hälso- och sjukvårdsorganisation formar de hur investeringar i teknik och data finansieras, godkänns och visas ge nyttor för patienter och hälso- och sjukvårdssystemet.
+health_context:
+  - Organisationen finansieras med offentliga medel, så ekonomiledare är ansvariga inför finansiärer och tillsynsorgan för regelmässighet, korrekthet och valuta för pengarna.
+  - Teknikinvesteringar är en stor del av utgifterna, och balansen mellan investering, drift och kostnader för molnabonnemang formar vad organisationen har råd med.
+  - Ekonomiledare måste balansera ekonomiska mål mot patientsäkerhet och kvaliteten på de tjänster som kliniker och vårdpersonal förlitar sig på.
+  - Stora avtal om teknik och data medför långsiktiga åtaganden och leverantörsrisker som styrelsen måste förstå.
+  - Organisationen kan arbeta i partnerskap över hälso- och sjukvården, med gemensamma budgetar, gemensamma tjänster eller värdskap för program.
+levels:
+  - title: Ekonomichef (controller)
+    summary: Ekonomichefer (controllers), ibland kallade biträdande ekonomidirektörer, leder en större del av ekonomifunktionen, såsom finansiell redovisning och kontroll eller ekonomisk planering, och är ställföreträdare för seniora ekonomiledare.
+    responsibilities:
+      - Leda finansiell redovisning, ekonomisk kontroll, finansförvaltning och transaktionstjänster, eller ekonomisk planering och affärspartnerskap.
+      - Se till att årsredovisningen levereras i tid med ett rent revisionsutlåtande.
+      - Upprätthålla ett effektivt system för ekonomisk kontroll och rapportera om det till revisionskommittén.
+      - Leda cykeln för ekonomisk planering och löpande ekonomisk rapportering till ledningen.
+      - Ge direktörer råd om större ekonomiska beslut, inklusive stora teknikavtal.
+      - Leda och utveckla flera ekonomiteam.
+    qualifications:
+      - En erkänd revisorskvalifikation, med omfattande senior erfarenhet från offentlig sektor eller komplexa organisationer.
+    job_evaluation_notes: Ekonomiska resurser är nivå 5 eftersom arbetet förvaltar budgetar och ekonomiska processer över flera tjänster. Informationsresurser är nivå 6 eftersom arbetet äger de ekonomisystem och data som används i hela organisationen.
+  - title: Biträdande ekonomidirektör
+    summary: Biträdande ekonomidirektörer leder ekonomifunktionen i det dagliga arbetet, är ställföreträdare för ekonomidirektören och leder organisationens ekonomiska strategi och flerårsplan för ekonomin.
+    responsibilities:
+      - Leda den flerårsplan och årsplan för ekonomin och koppla dem till strategi och bemanningsplaner.
+      - Leda processen för affärscase och investeringsgodkännande, även för större digitala program.
+      - Ge ledningen och styrelsens kommittéer råd om ekonomisk prestation, risk och besparingsplaner.
+      - Företräda organisationen hos finansiärer och partner i ekonomiska frågor.
+      - Vara ställföreträdare för ekonomidirektören, även i styrelsen och revisionskommittén.
+      - Leda och utveckla teamen för ekonomi, lön och ekonomisystem.
+    qualifications:
+      - En erkänd revisorskvalifikation, med omfattande senior erfarenhet av att leda ekonomifunktioner.
+  - title: Ekonomidirektör
+    summary: Ekonomidirektörer är ledamöter av ledningen med organisationsövergripande ansvar för organisationens ekonomi, ekonomiska kontroll och användning av offentliga medel.
+    responsibilities:
+      - Ha organisationsövergripande ansvar för organisationens ekonomi, ekonomiska kontroll och ekonomiska hållbarhet.
+      - Fastställa den ekonomiska strategin och leda styrelsens beslut om överkomlighet, investeringar och valuta för pengarna.
+      - Se till att organisationen använder offentliga medel lagligt, inom sin finansiering och i linje med utgiftskontroller.
+      - Ge styrelsen råd om strategins ekonomiska effekter, inklusive övergången till digitala och molnbaserade tjänster.
+      - Leda relationerna med finansiärer, tillsynsorgan och externa revisorer.
+      - Leda funktionerna för ekonomi, lön och upphandling, och ofta andra verksamhetstjänster.
+    qualifications:
+      - En erkänd revisorskvalifikation, med omfattande erfarenhet på ledningsnivå eller styrelsenivå.
+    job_evaluation_notes: Ekonomiska resurser är nivå 6 eftersom arbetet har organisationsövergripande ansvar för organisationens ekonomi.

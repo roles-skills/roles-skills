@@ -1,0 +1,40 @@
+summary: >
+  Ändrings- och releaseansvariga ser till att ändringar i IT-tjänster bedöms, godkänns, schemaläggs och genomförs tryggt, och att releaser planeras och samordnas. De leder ändringsrådet, äger konfigurationsdatabasen och samordnar releaser över team och leverantörer. Inom hälso- och sjukvården ser de till att ändringar i kliniska system tidssätts och testas för att skydda patientvården.
+health_context:
+  - Ändringar i kliniska system kan skada patienter, så ändringsbedömning omfattar granskning av klinisk säkerhet och underlag från processen för klinisk riskhantering.
+  - Kliniska tjänster går varje dag, så ändringsfönster överenskoms med kliniska tjänster och undviker deras hektiskaste perioder.
+  - Många ändringar kommer från leverantörer av kliniska system och måste ändå bedömas när leverantören kontrollerar releasen.
+  - Nödändringar, såsom brådskande säkerhetspatchar, måste balansera cyberrisk mot risken att störa vården.
+  - En korrekt konfigurationsdatabas visar vilka kliniska tjänster en ändring kan påverka.
+levels:
+  - title: Konfigurationsanalytiker
+    responsibilities:
+      - Underhålla poster i konfigurationsdatabasen, inklusive de kliniska tjänster varje komponent stöder.
+      - Kontrollera konfigurationsposter mot verktyg för upptäckt och åtgärda luckor och fel.
+      - Förbereda ändringsposter och dagordningar för ändringsrådet.
+      - Besvara rutinfrågor om konfigurationsobjekt och hur de hänger ihop.
+    qualifications:
+      - En grundkvalifikation i IT-tjänstehantering, en kvalifikation på nivå 3 inom IT eller motsvarande erfarenhet.
+    job_evaluation_notes: UK GDaD PCF föreslår band 6 för den här nivån (HEO/SEO). Den här referensen placerar den i band 4 eftersom nivån ger administrativt stöd till den ändrings- och releaseansvarige, med mestadels färdigheter på medvetenhetsnivå, och ligger under ändrings- och releaseanalytikern. Informationsresurser ligger över bandets profil eftersom underhållet av konfigurationsdatabasen är den huvudsakliga uppgiften.
+  - title: Ändrings- och releaseanalytiker
+    responsibilities:
+      - Bedöma ändringsförfrågningar med avseende på risk och påverkan, inklusive effekten på kliniska tjänster och patientsäkerhet.
+      - Planera och schemalägga releaser och komma överens om ändringsfönster med kliniska och operativa tjänster.
+      - Kontrollera att varje ändring har testning, en plan för återgång och klinisk säkerhetsgodkännande där det behövs.
+      - Samordna releaser med DevOps-team, leverantörer och servicedesken.
+      - Granska releaser i efterhand och planera kommande ändringar.
+    qualifications:
+      - Erfarenhet av IT-drift, release eller ändringsarbete.
+      - En grundkvalifikation i IT-tjänstehantering, eller motsvarande erfarenhet.
+  - title: Ändrings- och releaseansvarig
+    responsibilities:
+      - Leda ändringsrådet, inklusive kliniska och operativa företrädare när ändringar påverkar patientvården.
+      - Besluta om tekniska ändringar och godkänna nödändringar såsom brådskande säkerhetspatchar.
+      - Samordna releaser och deras beroenden över interna team och leverantörer.
+      - Äga processerna för ändrings-, release- och konfigurationshantering samt konfigurationsdatabasen.
+      - Vara eskaleringspunkten för ändringskonflikter och misslyckade ändringar.
+      - Rapportera om ändringars framgång, misslyckade ändringar och incidenter orsakade av ändringar, och driva förbättringar.
+    qualifications:
+      - Betydande erfarenhet av ändrings- och releasehantering, på en nivå motsvarande en examen.
+      - En mellannivåkvalifikation inom IT-tjänstehantering, eller motsvarande erfarenhet.
+    job_evaluation_notes: Planering ligger över bandets profil eftersom rollen schemalägger releaser och deras beroenden över många team och leverantörer.

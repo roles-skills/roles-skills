@@ -1,0 +1,41 @@
+summary: >
+  Dataförvaltningsansvariga ser till att organisationens hälso- och vårddata är väl förvaltade, tillförlitliga och används tryggt och lagligt. De sätter upp och driver ramverk, policyer och standarder för dataägande, datakvalitet, metadata och datadelning och arbetar med dataägare, kollegor inom informationsstyrning och kliniska ledare så att data kan användas med förtroende för vård, planering och forskning.
+health_context:
+  - Hälsodata är mycket känsliga personuppgifter, så datastyrning arbetar nära informationsstyrning, dataskydd och tystnadsplikten.
+  - Data delas med många hälso- och vårdpartner för direkt vård, planering och forskning, och varje användning behöver en tydlig rättslig grund, avtal och kontroller.
+  - Kliniska datastandarder, såsom SNOMED CT, ICD och HL7 FHIR, och överenskomna datadefinitioner är centrala för att göra data konsekventa över system och organisationer.
+  - Dålig datakvalitet kan direkt leda till patientskada, såsom missade allergier eller felaktig patientmatchning, liksom till felaktiga beslut om tjänster.
+  - Patienter och allmänheten förväntar sig öppenhet om hur deras data används, så styrningen omfattar transparens och respekt för patienters val om sekundär användning.
+levels:
+  - title: Dataförvaltningsansvarig
+    responsibilities:
+      - Driva organisationens ramverk för datastyrning, inklusive dataägande, dataförvaltarskap och beslutsgrupper.
+      - Underhålla datakatalogen, verksamhetens ordlista och datastandarder, inklusive överenskomna kliniska och operativa definitioner.
+      - Följa datakvaliteten för viktiga datamängder och arbeta med dataägare för att åtgärda grundorsaker.
+      - Arbeta med kollegor inom informationsstyrning om avtal om datadelning och konsekvensbedömningar avseende dataskydd för nya dataanvändningar.
+      - Registrera och hantera datarisker och ärenden och eskalera dem till rätt ägare.
+      - Förbättra datakunnigheten hos personal som skapar och använder hälsodata.
+    qualifications:
+      - En examen eller yrkeskvalifikation inom data, informationshantering eller ett närliggande ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av datastyrning eller datahantering i en komplex organisation.
+    job_evaluation_notes: UK GDaD PCF föreslår HEO till G7 för den här nivån, vilket motsvarar band 6. Den här referensen placerar den i band 7 eftersom rollen i en hälso- och sjukvårdsorganisation vanligen styr konfidentiella patientdata i hela organisationen och tar fram datapolicy som påverkar flera tjänster.
+  - title: Ledande dataförvaltningsansvarig
+    responsibilities:
+      - Leda utformningen och driften av ramverk, policyer och standarder för datastyrning i hela organisationen.
+      - Samordna dataägare och dataförvaltare för att hantera datarisker, acceptera eller lösa dem och rapportera dem till seniora kommittéer.
+      - Leda bredare arbete med datahantering, såsom stamdata för patienter, personal och platser samt referensdata.
+      - Komma överens om arrangemang för datastyrning för data som delas med hälso- och vårdpartner och forskare.
+      - Ge program råd om hur nya system och dataanvändningar uppfyller datastandarder och styrningsregler.
+      - Ha linjeansvar för personal inom datastyrning.
+    qualifications:
+      - Omfattande erfarenhet av att leda datastyrning eller datahantering.
+  - title: Chef för datastyrning
+    responsibilities:
+      - Arbeta med datachefen och den verkställande ägaren av informationsrisk för att fastställa strategin för datastyrning och dataanvändning.
+      - Fastställa policyer och standarder för datastyrning och följa upp hur väl organisationen följer dem.
+      - Vara ansvarig för att hantera organisationens datarisker och rapportera om dem till styrelsen.
+      - Företräda organisationen i frågor om datastyrning hos hälso- och vårdpartner, tillsynsmyndigheter och patientgrupper.
+      - Främja öppenhet gentemot patienter och allmänheten om hur deras data används.
+      - Leda och utveckla funktionen för datastyrning.
+    qualifications:
+      - Omfattande erfarenhet av att leda datastyrning i en organisation.

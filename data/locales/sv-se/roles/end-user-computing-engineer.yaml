@@ -1,0 +1,63 @@
+summary: >
+  Ingenjörer för slutanvändardatorer tillhandahåller, stöder och underhåller de enheter och den programvara som personalen använder varje dag, såsom bärbara och stationära datorer, surfplattor, mobiltelefoner, skrivare och de delade arbetsstationer som finns på vårdavdelningar och mottagningar. De åtgärdar fel på plats och på distans, rullar ut och uppdaterar enheter och håller dem säkra och regelrätta. Deras arbete gör att kliniker och vårdpersonal kan se och registrera patientinformation vid vårdtillfället.
+health_context:
+  - Många enheter delas av klinisk personal på vårdavdelningar, mottagningar och akutmottagningar, ofta med snabbt användarbyte och inloggning med smartkort eller passerkort.
+  - En trasig enhet i en klinisk miljö kan försena vården, så ingenjörer prioriterar sådana fel och har reservenheter redo att byta.
+  - Ingenjörer arbetar i kliniska miljöer, så de följer regler för vårdhygien, respekterar patienters integritet och värdighet och anpassar sitt arbete efter den kliniska verksamheten.
+  - Enheter innehåller eller visar konfidentiell patientinformation, så de måste vara krypterade, patchade, hanterade och säkert rensade eller förstörda när de tjänat ut.
+  - Vissa kringutrustningar stöder kliniska processer eller kopplas till klinisk utrustning, såsom skrivare för armband och etiketter, streckkodsläsare och diktafoner, så ändringar av dem kräver omsorg och testning.
+levels:
+  - title: Biträdande ingenjör för slutanvändardatorer
+    responsibilities:
+      - Installera, byta ut och reparera enheter och kringutrustning under ledning av erfarna ingenjörer.
+      - Åtgärda vanliga fel i kliniska miljöer och kontor, såsom problem med skrivare, skannrar och inloggning.
+      - Följa regler för vårdhygien och respektera patienters integritet vid arbete på vårdavdelningar och mottagningar.
+      - Registrera arbete, tillgångar och reservdelar korrekt i verktyget för tjänstehantering.
+      - Arbeta mot en lärlingsutbildning inom IT-support eller motsvarande kvalifikation.
+    qualifications:
+      - Antagen till, eller på väg mot, en lärlingsutbildning inom IT-support eller motsvarande.
+    job_evaluation_notes: Fysisk ansträngning speglar täta lätta moment, såsom att bära enheter och arbeta under skrivbord och i trånga utrymmen. Kunskap poängsätts på den nivå arbetet kräver när utbildningen har kommit tillräckligt långt för att kunna utföra arbetet.
+  - title: Ingenjör för slutanvändardatorer
+    responsibilities:
+      - Felsöka och åtgärda hårdvaru- och programvarufel på plats och på distans, med målet att lösa dem vid första besöket.
+      - Snabbt reagera på fel i kliniska miljöer och tillhandahålla en ersättningsenhet när en reparation skulle fördröja vården.
+      - Bygga, driftsätta och uppdatera enheter med organisationens standardavbilder och verktyg för enhetshantering.
+      - Hålla enheter patchade, krypterade och regelrätta, och säkert rensa eller kassera dem när de tjänat ut.
+      - Konfigurera och testa klinisk kringutrustning, såsom armbandsskrivare, etikettskrivare och streckkodsläsare.
+      - Coacha biträdande ingenjörer och dela lösningar genom kunskapsartiklar.
+    qualifications:
+      - En kvalifikation på nivå 3 eller högre inom IT, en genomförd lärlingsutbildning eller motsvarande erfarenhet.
+      - Erfarenhet av att stödja slutanvändarenheter.
+    job_evaluation_notes: Fysisk ansträngning speglar täta lätta moment när enheter flyttas och installeras mellan platser.
+  - title: Senior ingenjör för slutanvändardatorer
+    responsibilities:
+      - Leda ett team av ingenjörer i det dagliga arbetet och prioritera arbetet efter dess effekt på patientvård och personal.
+      - Planera och genomföra utrullningar och förnyelser av enheter för vårdavdelningar, mottagningar och närsjukvårdsteam, med så lite störning av vården som möjligt.
+      - Testa enhetsbyggen och uppdateringar med kliniska applikationer och kringutrustning innan de rullas ut.
+      - Se till att enheter uppfyller säkerhetsstandarder, inklusive patchnivåer, kryptering och skydd av slutpunkter.
+      - Stödja driftsättningar av kliniska system med stöd på plats och snabba åtgärder på enheter.
+      - Arbeta med infrastruktur-, applikations- och säkerhetsteam för att åtgärda komplexa och återkommande fel.
+    qualifications:
+      - Betydande erfarenhet av att stödja och förvalta slutanvändarenheter, på en nivå motsvarande en examen.
+    job_evaluation_notes: Ansvar för människor speglar den dagliga ledningen av ett team av ingenjörer; fysisk ansträngning speglar fortsatt arbete på plats.
+  - title: Ledande ingenjör för slutanvändardatorer
+    responsibilities:
+      - Fastställa standarder för organisationens enheter, byggen och programvara för slutanvändare, inklusive delade kliniska arbetsstationer.
+      - Förvalta leverantörer av enheter, reparationer och tjänster för slutanvändare och hålla dem till överenskomna servicenivåer.
+      - Arbeta med tekniska arkitekter för att välja och testa nya enhetstyper, såsom mobila enheter för personal på vårdavdelningar och i närsjukvården.
+      - Leda det tekniska svaret på incidenter med slutanvändardatorer, såsom en misslyckad uppdatering som påverkar kliniska arbetsstationer.
+      - Planera enheternas livscykel och kapacitet och ge råd om kostnader för förnyelse.
+      - Leda och utveckla seniora ingenjörer.
+    qualifications:
+      - Omfattande erfarenhet av slutanvändardatorer, inklusive att förvalta leverantörer.
+  - title: Principal ingenjör för slutanvändardatorer
+    responsibilities:
+      - Äga strategin och färdplanen för slutanvändardatorer, inklusive hur personal ska nå kliniska system på sjukhus, mottagningar, i patienters hem och i närsjukvården.
+      - Se till att enhetsbeståndet stöder trygg, snabb åtkomst till patientinformation vid vårdtillfället.
+      - Ge seniora ledare råd om enhetsinvesteringar, risker och kostnader för förnyelser och ny teknik.
+      - Leda svaret på risker som gäller hela beståndet, såsom operativsystem som når slutet av supporten och motståndskraft mot ransomware.
+      - Leda bemanning, lärande och utveckling för team inom slutanvändardatorer.
+      - Arbeta med hälso- och vårdpartner om gemensamma standarder för enheter och åtkomst.
+    qualifications:
+      - Omfattande erfarenhet av att leda slutanvändardatorer för en stor organisation med flera platser.
+    job_evaluation_notes: UK GDaD PCF föreslår band 8c för den här nivån (G6). Den här referensen placerar den i band 8b, i linje med principal-roller i andra tekniska familjer, eftersom dess omfattning är ett tekniskt område och inte en direktörsenhet.

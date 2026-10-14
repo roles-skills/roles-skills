@@ -1,0 +1,47 @@
+summary: >
+  Testingenjörer bygger de automatiserade tester, verktyg och ramverk som gör det möjligt för team att testa organisationens digitala hälso- och vårdtjänster snabbt och ofta. De skriver kod för att testa funktioner, integrationer, prestanda, säkerhet och motståndskraft och bygger in testning i leveranspipelines, så att ändringar i kliniska och patientvända system kan släppas tryggt.
+health_context:
+  - Kliniska system är säkerhetskritiska, så automatiserade regressionstester skyddar de säkerhetskontroller som registrerats i faroregister och sparas som underlag för säkerhetsunderlag.
+  - Integrationer med andra hälso- och vårdsystem behöver automatiserade tester mot standarder såsom HL7 FHIR och HL7 version 2, ofta med simulerade partnersystem.
+  - Kliniska tjänster går dygnet runt och har toppar vid förutsägbara tider, så testning av prestanda och motståndskraft modellerar verklig klinisk efterfrågan.
+  - Testmiljöer får inte hålla verkliga patientdata, så ingenjörer genererar realistiska syntetiska data, inklusive sällsynta kliniska fall och gränsfall.
+  - Programvara som är reglerad som medicinteknisk produkt kräver spårbar, repeterbar testning som en del av sin livscykel enligt standarder såsom IEC 62304.
+levels:
+  - title: Biträdande testingenjör
+    responsibilities:
+      - Skriva och underhålla enkla automatiserade tester under handledning, enligt teamets tekniska standarder.
+      - Köra automatiserade och manuella tester och registrera utfall korrekt.
+      - Hjälpa till att utreda och rapportera defekter, även i integrationer med kliniska system.
+      - Använda syntetiska testdata och följa reglerna för informationsstyrning i testmiljöer.
+      - Lära sig teamets testverktyg, kodpraxis och den kliniska säkerhetsprocessen.
+    qualifications:
+      - Viss erfarenhet av kodning eller testning, eller antagen till en relevant lärlingsutbildning, eller motsvarande.
+  - title: Testingenjör
+    responsibilities:
+      - Utforma och bygga automatiserade funktionella tester, integrationstester och API-tester för kliniska och patientvända tjänster.
+      - Bygga tester som kontrollerar meddelanden mot HL7 FHIR-profiler och andra specifikationer för interoperabilitet.
+      - Generera syntetiska patientdata som täcker realistiska kliniska fall och gränsfall.
+      - Lägga till tester i leveranspipelines så att säkerhetsrelaterade kontroller körs vid varje ändring.
+      - Uppskatta testinsats, rapportera utfall och stödja lösningen av defekter.
+    qualifications:
+      - En examen i datavetenskap eller ett närliggande ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av att bygga automatiserade tester.
+  - title: Senior testingenjör
+    responsibilities:
+      - Leda testutvecklingen för ett område och välja verktyg, ramverk och testtyper som hanterar dess risker tidigt.
+      - Bygga återanvändbara testramverk och simulatorer för kliniska system och partnerintegrationer.
+      - Planera och köra prestanda-, belastnings- och motståndskraftstester utifrån verklig klinisk efterfrågan.
+      - Se till att automatiserade tester spåras till faror och säkerhetskontroller och ger underlag till säkerhetsunderlag.
+      - Coacha och vägleda andra testingenjörer och komma överens om tekniska standarder med utvecklare.
+    qualifications:
+      - Betydande erfarenhet av testutveckling, på en nivå motsvarande en masterexamen.
+  - title: Ledande testingenjör
+    responsibilities:
+      - Fastställa strategin och standarderna för testutveckling över ett brett område, inklusive kontinuerlig testning i leveranspipelines.
+      - Leda och vägleda testingenjörer och team i praxis för kvalitetsutveckling.
+      - Se till att testning av reglerad och säkerhetskritisk programvara uppfyller de krav som gäller och är spårbar.
+      - Eskalera risker för kvalitet och säkerhet till seniora produktansvariga, kliniska ledare och leverantörsledare.
+      - Hitta möjligheter att testa tidigare och oftare och mäta effekten på kvaliteten.
+    qualifications:
+      - Omfattande erfarenhet av att leda testutveckling för komplexa tjänster.
+    job_evaluation_notes: UK GDaD PCF föreslår SEO till G6 för den här nivån, vilket motsvarar band 7, samma band som senior testingenjör. Den här referensen placerar den i band 8a, eftersom den fastställer strategi och standarder för testutveckling över ett brett område.

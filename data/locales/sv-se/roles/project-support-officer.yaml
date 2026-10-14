@@ -1,0 +1,51 @@
+summary: >
+  Projektstödjande handläggare hjälper projekt och program att löpa smidigt genom att underhålla planer, register och dokument, organisera möten och ta fram rapporter. På seniora nivåer driver de projektkontoret (PMO) och ger ledare en tydlig bild av framsteg, risker och nyttor över organisationens portfölj av digital förändring.
+health_context:
+  - Digitala hälso- och vårdprojekt behöver godkännanden för klinisk säkerhet, informationsstyrning och säkerhet vid bestämda tidpunkter, så projektstödet följer upp dessa som viktiga milstolpar.
+  - Projekt är ofta beroende av kliniker och vårdpersonal vars tid är begränsad, så det är viktigt att planera kring kliniska scheman och verksamhetens tryck.
+  - Portföljrapportering hjälper ledare att besluta vilka förändringar som går vidare när kliniska tjänster är under press.
+levels:
+  - title: Projektstödjande handläggare
+    summary: Ger administrativt stöd till ett eller flera projekt, underhåller register och organiserar möten under vägledning av en projektledare.
+    responsibilities:
+      - Underhålla projektdokument, med versionshantering, i projektförrådet.
+      - Uppdatera åtgärds-, risk-, ärende- och beslutsloggar.
+      - Organisera projektmöten, skicka ut underlag och föra anteckningar om åtgärder.
+      - Samla in uppdateringar från teamet till lägesrapporter.
+      - Hantera rutinmässig projektkorrespondens och förfrågningar.
+    qualifications:
+      - En kvalifikation på nivå 3 inom administration eller projektstöd, eller motsvarande erfarenhet.
+  - title: Projektkoordinator
+    summary: Samordnar projektkontroller för flera projekt eller ett program, underhåller planer och register och tar fram regelbundna rapporter.
+    responsibilities:
+      - Underhålla projektplaner, register och uppföljningsverktyg för flera projekt.
+      - Ta fram regelbundna lägesrapporter och höjdpunktsrapporter.
+      - Följa upp projektbudgetar och utgifter och lyfta avvikelser.
+      - Kontrollera att projekt följer den överenskomna metoden, inklusive steg för klinisk säkerhet och informationsstyrning.
+      - Samordna projektstyrgrupper, underlag och åtgärder.
+      - Stödja projektledare med kommunikation med intressenter.
+    qualifications:
+      - En grundkvalifikation i projektledning, eller motsvarande erfarenhet.
+  - title: PMO-analytiker
+    summary: Analyserar framsteg, risk och nyttor över ett program eller en portfölj och driver projektkontorets processer.
+    responsibilities:
+      - Analysera framsteg, risker, ärenden, beroenden och nyttor över projekt.
+      - Ta fram portföljöversikter och rapporter för program- och portföljstyrgrupper.
+      - Driva processer för planering, ändringskontroll och kvalitetssäkring.
+      - Hjälpa projektledare att sätta upp projekt med rätt kontroller och dokument.
+      - Underhålla PMO:ns verktyg, mallar och vägledning.
+      - Coacha projektstödjande handläggare.
+    qualifications:
+      - En kvalifikation i projekt-, program- eller portföljledning, eller motsvarande erfarenhet.
+  - title: PMO-chef
+    summary: Leder projektkontoret för ett program eller en portfölj, fastställer standarder och ger ledare pålitlig insikt i leveransen.
+    responsibilities:
+      - Leda projektkontoret och dess medarbetare.
+      - Fastställa standarder, metoder och verktyg för projekt och portfölj.
+      - Ge seniora ledare tydlig insikt i portföljens framsteg, risker och nyttor.
+      - Driva portföljstyrning, inklusive prioritering, granskningar vid grindar och ändringskontroll.
+      - Följa upp programbudgetar och resurser och rapportera om dem.
+      - Coacha projektledare i metod och kontroller.
+    qualifications:
+      - En erkänd kvalifikation i projekt-, program- eller portföljledning, eller motsvarande erfarenhet.
+      - Erfarenhet av att driva ett projektkontor.

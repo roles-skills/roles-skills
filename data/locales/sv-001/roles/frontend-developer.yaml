@@ -1,0 +1,67 @@
+summary: >
+  Frontendutvecklare bygger användargränssnitten till organisationens digitala hälso- och vårdtjänster, såsom patientvända webbplatser och appar, onlineformulär och de skärmar som kliniker och vårdpersonal använder under vården. De skriver tillgänglig, snabb och säker kod som fungerar för alla, även för människor som är sjuka, oroliga eller använder äldre enheter, och arbetar i tvärprofessionella produktteam med designers, forskare och kliniker.
+health_context:
+  - Många användare är sjuka, har ont, är äldre eller har en funktionsnedsättning, så tillgänglighet och enkla, lugna gränssnitt är nödvändiga och inte valfria.
+  - En förvirrande eller felaktig visning av klinisk information, såsom en läkemedelsdos, ett resultat eller en tid för ett besök, kan skada patienter, så frontendarbete följer processen för klinisk riskhantering.
+  - Gränssnitt visar ofta konfidentiell hälsoinformation, så utvecklare utformar för integritet, till exempel på delade enheter och i upptagna kliniska miljöer.
+  - Kliniker använder gränssnitt under tidspress och med täta avbrott, så skärmar måste vara snabba, förutsägbara och svåra att misstolka.
+  - Patienter når tjänster på en bred uppsättning enheter och uppkopplingar, så tjänster använder progressiv förbättring och fungerar på långsamma nät.
+levels:
+  - title: Frontendutvecklare (lärling)
+    responsibilities:
+      - Lära sig teamets designsystem, språk och verktyg genom strukturerad utbildning och parprogrammering.
+      - Bygga små gränssnittskomponenter under nära handledning och följa organisationens designsystem.
+      - Testa komponenter med hjälpmedelsteknik, såsom skärmläsare, med stöd av kollegor.
+      - Följa rutiner för informationsstyrning och klinisk säkerhet när man arbetar med test- och livedata.
+      - Arbeta mot en lärlingsutbildning eller motsvarande kvalifikation.
+    qualifications:
+      - Antagen till, eller på väg mot, en lärlingsutbildning inom mjukvaruutveckling eller motsvarande.
+    job_evaluation_notes: Kunskap poängsätts på den nivå arbetet kräver när utbildningen har kommit tillräckligt långt för att kunna utföra arbetet.
+  - title: Junior frontendutvecklare
+    responsibilities:
+      - Bygga och testa gränssnittsfunktioner för patientvända tjänster och personalvända tjänster utifrån användarberättelser, med vägledning.
+      - Använda organisationens designsystem och mönster så att tjänster ser ut och beter sig konsekvent.
+      - Åtgärda tillgänglighetsdefekter och kontrollera sidor mot tillgänglighetsstandarder såsom WCAG.
+      - Se till att klinisk information, såsom datum, doser och resultat, visas exakt som specificerat.
+      - Bidra med underlag till kliniska säkerhetsunderlag, såsom testresultat och skärmbilder av ändringar.
+    qualifications:
+      - En examen i datavetenskap eller ett närliggande ämne, en genomförd lärlingsutbildning eller motsvarande erfarenhet.
+  - title: Frontendutvecklare
+    responsibilities:
+      - Utforma och bygga tillgängliga, responsiva gränssnitt för hälso- och vårdtjänster självständigt och välja lämpliga ansatser.
+      - Arbeta med designers och användarforskare för att testa prototyper med patienter, kliniker och vårdpersonal.
+      - Bygga gränssnitt som anropar API:er för hälsodata, såsom HL7 FHIR-tjänster, och hantera fel och saknade data säkert.
+      - Delta i riskworkshoppar och bygga in säkerhetskontroller i gränssnittet, såsom bekräftelsesteg och tydliga varningar.
+      - Skydda konfidentiell information i webbläsaren, till exempel genom att hantera sessioner och cachning försiktigt på delade enheter.
+      - Granska kod och handleda juniora frontendutvecklare och lärlingar.
+    qualifications:
+      - En examen i datavetenskap eller ett närliggande ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av att bygga och stödja tillgängliga webbtjänster i produktion.
+  - title: Senior frontendutvecklare
+    responsibilities:
+      - Leda frontenddesignen och leveransen av betydande funktioner, såsom bokning, resultat eller skärmar för kliniska arbetsflöden.
+      - Fastställa och upprätthålla frontendstandarder för teamet, inklusive tillgänglighet, prestanda, säkerhet och testning.
+      - Bidra med komponenter och mönster till organisationens designsystem och se till att de är säkra och tillgängliga.
+      - Arbeta med kliniska säkerhetsansvariga för att säkerställa att gränssnittsfaror identifieras, kontrolleras och testas.
+      - Se till att tjänster fungerar väl på långsamma uppkopplingar, äldre enheter och hjälpmedelsteknik.
+      - Coacha och utveckla frontendutvecklare i teamet.
+    qualifications:
+      - Betydande erfarenhet av att utforma, bygga och stödja tillgängliga webbtjänster i produktion, på en nivå motsvarande en masterexamen.
+  - title: Ledande frontendutvecklare
+    responsibilities:
+      - Leda frontendutvecklingen över en grupp team eller en större patientvänd tjänst.
+      - Äga den tekniska riktningen för organisationens designsystem och frontendbibliotek.
+      - Se till att gränssnitt över tjänster uppfyller tillgänglighetsstandarder och är kvalitetssäkrade för klinisk säkerhet.
+      - Arbeta med arkitekter, designers och kliniska ledare för att forma produktfärdplaner och val av frontendteknik.
+      - Leda praktikgemenskapen för frontend och ha linjeansvar för eller leda frontendutvecklare.
+    qualifications:
+      - Omfattande erfarenhet av att leda frontendutveckling för komplexa, tillgängliga tjänster.
+  - title: Chef för frontendutveckling
+    responsibilities:
+      - Fastställa frontendstrategi, standarder och praxis för alla organisationens digitala tjänster.
+      - Vara ansvarig för tillgängligheten och användbarheten i organisationens gränssnitt för patienter och personal.
+      - Ge seniora ledare råd om frontendteknik, investeringar i designsystem och riskerna med dåliga gränssnitt för vården.
+      - Företräda organisationen i gemenskaper över organisationer för designsystem och tillgänglighet.
+      - Leda och utveckla frontendutvecklare i hela organisationen, inklusive rekrytering och karriärvägar.
+    qualifications:
+      - Omfattande erfarenhet av att leda frontendutveckling över flera team eller organisationer.

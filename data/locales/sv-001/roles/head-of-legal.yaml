@@ -1,0 +1,44 @@
+summary: >
+  Seniora juridiska ledare ser till att organisationen agerar lagligt och hanterar sin juridiska risk väl. De leder det interna juridiska teamet, förvaltar externa juridiska rådgivare och ger styrelsen och ledningen råd i organisationens mest betydande juridiska frågor. I en digital hälso- och sjukvårdsorganisation omfattar detta den rättsliga grunden för att använda hälsodata, större teknik- och dataavtal, immateriella rättigheter i programvara och organisationens lagstadgade plikter.
+health_context:
+  - Organisationen är ett offentligt organ eller arbetar med sådana, så dess beslut kan överprövas och den måste agera inom sina befogenheter.
+  - Användning av hälso- och vårddata i stor skala, även för AI och forskning, medför hög juridisk risk och anseenderisk.
+  - Större teknikavtal är långa, värdefulla och svåra att lämna, så deras juridiska villkor formar organisationen i många år.
+  - Juridiska ledare arbetar nära styrelsen, dataskyddsombudet och kollegor inom klinisk säkerhet och informationsstyrning.
+levels:
+  - title: Biträdande chef för juridiska tjänster
+    summary: Biträdande chefer för juridiska tjänster leder ett större område av den juridiska funktionen, såsom kommersiell rätt, teknikrätt och dataskyddsrätt, och är ställföreträdare för chefen för juridiska tjänster.
+    responsibilities:
+      - Leda ett större område av juridiskt arbete, såsom kommersiell rätt, teknikrätt och dataskyddsrätt, eller tvister och arbetsrätt.
+      - Ge direktörer råd i högriskfyllda frågor, inklusive större upphandlingar och dataprogram.
+      - Förvalta panelen av externa jurister och budgeten för externa juridiska råd.
+      - Fastställa juridiska standarder, mallar och utbildning för organisationen.
+      - Leda och utveckla flera juridiska team eller specialister.
+      - Vara ställföreträdare för chefen för juridiska tjänster.
+    qualifications:
+      - En kvalificerad jurist med rätt att utöva yrket, med omfattande erfarenhet efter kvalificeringen, inklusive att leda ett juridiskt team.
+    job_evaluation_notes: Kunskap är nivå 8 för expertkunskap över flera rättsområden. Informationsresurser är nivå 5 och inte 6, eftersom arbetet inte förvaltar organisationsövergripande informationssystem.
+  - title: Chef för juridiska tjänster
+    summary: Chefer för juridiska tjänster leder organisationens juridiska funktion, fastställer dess förhållningssätt till juridisk risk och ger ledningen och styrelsen råd.
+    responsibilities:
+      - Leda den interna juridiska funktionen och användningen av externa jurister.
+      - Ge ledningen och styrelsen råd om juridisk risk, lagstadgade plikter och större beslut.
+      - Fastställa organisationens aptit för juridisk risk och ståndpunkter i nyckelfrågor, såsom datanvändning och avtalsslutande.
+      - Leda juridiskt arbete i de mest betydande frågorna, såsom större tvister, offentliga utredningar och partnerskap.
+      - Hålla budgeten för juridiska tjänster och visa valuta för pengarna.
+      - Leda och utveckla det juridiska teamet och juridisk verksamhet.
+    qualifications:
+      - En kvalificerad jurist med rätt att utöva yrket, med omfattande senior erfarenhet av att leda juridiska tjänster.
+    job_evaluation_notes: Ekonomiska resurser är nivå 4 eftersom arbetet håller budgeten för juridiska tjänster och inte budgetar för flera tjänster.
+  - title: Chefsjurist (general counsel)
+    summary: Chefsjurister är organisationens mest seniora jurister, med organisationsövergripande ansvar för juridiska tjänster och juridisk risk, och leder ofta också bolagsstyrningen som styrelsens sekreterare.
+    responsibilities:
+      - Ha organisationsövergripande ansvar för organisationens juridiska angelägenheter och juridiska risk.
+      - Ge styrelsen och ordföranden råd om organisationens befogenheter, plikter och styrning.
+      - Se till att större strategier, partnerskap och dataprogram är lagliga.
+      - Leda svaret på de allvarligaste juridiska hoten, såsom domstolsprövningar och tillsynsåtgärder.
+      - Leda juridiska tjänster, och ofta bolagsstyrning och styrelsens sekretariat.
+      - Företräda organisationen hos tillsynsmyndigheter, partner och statliga organ.
+    qualifications:
+      - En kvalificerad jurist med rätt att utöva yrket, med omfattande erfarenhet på ledningsnivå eller styrelsenivå.
+    job_evaluation_notes: Ekonomiska resurser är nivå 4 eftersom arbetet håller budgeten för juridiska tjänster och styrning, och inte organisationens ekonomi.

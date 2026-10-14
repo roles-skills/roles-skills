@@ -1,0 +1,34 @@
+summary: >
+  Chefen för klinisk information (CCIO) är den senior kliniska ledaren för det digitala. De fastställer den kliniska riktningen för organisationens digitala tjänster, leder klinisk informatik och klinisk säkerhet och ser till att digitala investeringar förbättrar patientvården, säkerheten och arbetslivet för kliniker och vårdpersonal. De är vanligen praktiserande kliniker som ingår i, eller ger råd till, ledningsgruppen.
+health_context:
+  - CCIO ger digitala beslut klinisk trovärdighet, så de flesta tjänster kräver en legitimerad kliniker som fortfarande gör en del kliniskt arbete.
+  - De är den seniora rösten för patientsäkerhet i digitala tjänster och arbetar med chefen för klinisk säkerhet samt medicinska och omvårdnadsledare.
+  - De leder kliniker genom storskalig förändring, såsom ersättning av en elektronisk patientjournal, där införande och säkerhet beror på kliniskt ledarskap.
+  - De hjälper till att balansera digital ambition mot den kliniska arbetsbelastningens, personalens och riskens verklighet.
+levels:
+  - title: Biträdande chef för klinisk information
+    summary: Leder större delar av den kliniska digitala agendan å CCIO:s vägnar, såsom en vårdmiljö, en yrkesgrupp eller ett stort program för kliniska system, och är ställföreträdare för CCIO.
+    responsibilities:
+      - Leda den kliniska riktningen för ett större program, en vårdmiljö eller en yrkesgrupp.
+      - Leda ett team av kliniska informatiker och kliniska ledare och fastställa prioriteringar och standarder.
+      - Ge programstyrgrupper och ledning råd om den kliniska risken och nyttan med digitala investeringar.
+      - Leda kliniska design- och säkerhetsgrupper och fatta kliniska beslut inom delegerad befogenhet.
+      - Bygga nätverk av kliniska förespråkare och leda den kliniska dialogen vid storskalig förändring.
+      - Vara ställföreträdare för CCIO vid ledningsmöten och hos partnerorganisationer.
+    qualifications:
+      - Aktuell registrering hos ett kliniskt yrkesorgan, med omfattande klinisk erfarenhet och erfarenhet av kliniskt ledarskap.
+      - En masterexamen i klinisk informatik eller hälsoinformatik eller ledarskap, eller motsvarande erfarenhet av att leda klinisk digital förändring.
+    job_evaluation_notes: Patientvård poängsätts på nivå 6 för mycket specialiserade råd om patientvård över organisationens digitala tjänster.
+  - title: Chef för klinisk information
+    summary: Organisationens senior kliniska ledare för det digitala, ansvarig för den kliniska riktningen i dess digitala tjänster och för att leda klinisk informatik, med organisationsövergripande inflytande över klinisk säkerhet.
+    responsibilities:
+      - Fastställa den kliniska digitala strategin och se till att den stöder organisationens kliniska strategi och vårdstrategi.
+      - Ge styrelsen och ledningsgruppen råd om den kliniska risken, nyttan och prioriteten i digitala investeringar.
+      - Leda funktionen för klinisk informatik och det kliniska designrådet och överblicka klinisk säkerhet för IT inom hälso- och sjukvården.
+      - Leda kliniska ledare i organisationen och hos dess partner genom storskalig digital förändring.
+      - Se till att patientsäkerhet, kliniskt underlag och personalens upplevelse formar varje större digitalt beslut.
+      - Företräda organisationen i professionella, akademiska och kliniska digitala nätverk över organisationer.
+    qualifications:
+      - Aktuell registrering hos ett kliniskt yrkesorgan, med omfattande klinisk erfarenhet och erfarenhet av seniort ledarskap.
+      - Omfattande erfarenhet av att leda klinisk digital strategi och förändring på organisationsnivå.
+    job_evaluation_notes: Patientvård poängsätts på nivå 6 och inte 7 eftersom CCIO ger råd om, men vanligen inte är ansvarig för att leverera, kliniska tjänster. Ekonomiskt ansvar och ansvar för människor är lägre än för andra ledande roller eftersom stora digitala budgetar och team vanligen ligger hos den digitala chefen eller informationschefen.

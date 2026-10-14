@@ -1,0 +1,92 @@
+# Family and role titles in Swedish. Keys are the English ids. Slugs are made
+# from the titles.
+families:
+  software-development: {title: Programvaruutveckling}
+  architecture: {title: Arkitektur}
+  data: {title: Data}
+  product-and-delivery: {title: Produkt och leverans}
+  user-centred-design: {title: Användarcentrerad design}
+  it-operations: {title: IT-drift}
+  cyber-security: {title: Cybersäkerhet}
+  quality-assurance-testing: {title: Kvalitetssäkring och testning}
+  clinical-informatics: {title: Klinisk informatik och klinisk säkerhet}
+  information-governance: {title: Informationsstyrning}
+  finance: {title: Ekonomi}
+  legal: {title: Juridik}
+  human-resources: {title: Personal}
+  procurement: {title: Upphandling och inköp}
+  corporate-services: {title: Verksamhetsstöd}
+roles:
+  software-developer: {title: Mjukvaruutvecklare}
+  frontend-developer: {title: Frontendutvecklare}
+  devops-engineer: {title: DevOps-ingenjör}
+  integration-engineer: {title: Integrationsingenjör (interoperabilitet inom hälsa och vård)}
+  enterprise-architect: {title: Enterprisearkitekt}
+  solution-architect: {title: Lösningsarkitekt}
+  technical-architect: {title: Teknisk arkitekt}
+  data-architect: {title: Dataarkitekt}
+  security-architect: {title: Säkerhetsarkitekt}
+  network-architect: {title: Nätverksarkitekt}
+  business-architect: {title: Verksamhetsarkitekt}
+  data-analyst: {title: Dataanalytiker}
+  performance-analyst: {title: Prestationsanalytiker}
+  data-engineer: {title: Dataingenjör}
+  analytics-engineer: {title: Analysingenjör}
+  data-scientist: {title: Datavetare}
+  machine-learning-engineer: {title: Ingenjör för maskininlärning}
+  data-governance-manager: {title: Datastyrningschef}
+  clinical-coder: {title: Klinisk kodare}
+  business-analyst: {title: Verksamhetsanalytiker}
+  delivery-manager: {title: Leveranschef}
+  product-manager: {title: Produktchef}
+  project-manager: {title: Projektledare}
+  programme-delivery-manager: {title: Programleveranschef}
+  digital-portfolio-manager: {title: Digital portföljchef}
+  service-owner: {title: Tjänsteägare}
+  user-researcher: {title: Användarforskare}
+  service-designer: {title: Tjänstedesigner}
+  interaction-designer: {title: Interaktionsdesigner}
+  content-designer: {title: Innehållsdesigner}
+  accessibility-specialist: {title: Tillgänglighetsspecialist}
+  service-desk-analyst: {title: Servicedeskanalytiker}
+  end-user-computing-engineer: {title: Ingenjör för användarnas datormiljö}
+  infrastructure-engineer: {title: Infrastrukturingenjör}
+  application-operations-engineer: {title: Applikationsdriftsingenjör}
+  it-service-manager: {title: IT-tjänstechef}
+  incident-manager: {title: Incidentansvarig}
+  problem-manager: {title: Problemansvarig}
+  change-and-release-manager: {title: Ändrings- och releaseansvarig}
+  security-analyst: {title: Säkerhetsanalytiker (säkerhetsdrift)}
+  security-engineer: {title: Säkerhetsingenjör}
+  cyber-security-manager: {title: Cybersäkerhetschef}
+  quality-assurance-test-analyst: {title: Testanalytiker för kvalitetssäkring}
+  test-engineer: {title: Testingenjör}
+  test-manager: {title: Testledare}
+  clinical-informatician: {title: Klinisk informatiker}
+  clinical-safety-officer: {title: Klinisk säkerhetsansvarig}
+  chief-clinical-information-officer: {title: Klinisk informationschef}
+  records-officer: {title: Journalhandläggare}
+  information-governance-officer: {title: Handläggare för informationsstyrning}
+  data-protection-officer: {title: Dataskyddsombud}
+  finance-officer: {title: Ekonomihandläggare}
+  payroll-officer: {title: Lönehandläggare}
+  management-accountant: {title: Controller}
+  financial-accountant: {title: Redovisningsekonom}
+  head-of-finance: {title: Ekonomichef}
+  legal-assistant: {title: Juridisk assistent}
+  legal-adviser: {title: Jurist}
+  head-of-legal: {title: Chef för juridik}
+  hr-officer: {title: Personalhandläggare}
+  recruitment-officer: {title: Rekryterare}
+  hr-business-partner: {title: HR-partner}
+  learning-and-development-specialist: {title: Specialist på lärande och kompetensutveckling}
+  head-of-people: {title: Personalchef}
+  procurement-officer: {title: Upphandlare}
+  category-manager: {title: Kategoriansvarig}
+  contract-manager: {title: Avtalsansvarig}
+  head-of-procurement: {title: Upphandlingschef}
+  administrator: {title: Administratör}
+  executive-assistant: {title: Ledningsassistent}
+  project-support-officer: {title: Projektstödjare}
+  governance-and-risk-manager: {title: Styrnings- och riskansvarig}
+  communications-officer: {title: Kommunikatör}

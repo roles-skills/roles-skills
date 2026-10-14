@@ -1,0 +1,97 @@
+# Band outlines in Swedish. Keys are the English band ids.
+"1":
+  title: Band 1
+  stage: Ingångsnivå
+  knowledge: Grundläggande läs-, skriv- och räknefärdigheter; lär sig enkla rutinuppgifter på jobbet.
+  autonomy: Följer tydliga instruktioner; arbetet kontrolleras ofta.
+  scope: Egna rutinuppgifter.
+  leadership: Inget.
+  accountability: Korrekt utförande av rutinuppgifter.
+"2":
+  title: Band 2
+  stage: Stöd
+  knowledge: Känner till rutinerna och förfarandena inom arbetsområdet; kan ha en kvalifikation på ingångsnivå.
+  autonomy: Arbetar enligt fastställda förfaranden, med handledning tillgänglig.
+  scope: Egna uppgifter inom ett team.
+  leadership: Kan visa nyanställda rutinuppgifter.
+  accountability: Kvalitet och punktlighet i det egna rutinarbetet.
+"3":
+  title: Band 3
+  stage: Stöd
+  knowledge: Kunskap om en rad förfaranden, vissa som inte är rutin; vanligen en kvalifikation på nivå 3 eller motsvarande erfarenhet.
+  autonomy: Arbetar inom förfaranden; bestämmer hur det egna arbetet organiseras; lyfter problem uppåt.
+  scope: Eget arbete och vissa uppgifter för det bredare teamet.
+  leadership: Kan fördela rutinarbete eller lära andra förfaranden.
+  accountability: Korrekthet i det egna arbetet och i de register som förs.
+"4":
+  title: Band 4
+  stage: Stöd och nybörjare i yrket
+  knowledge: Detaljerad kunskap om arbetsområdet, vanligen genom en kortare högskoleutbildning, lärlingsutbildning eller motsvarande erfarenhet.
+  autonomy: Arbetar inom riktlinjer; löser de flesta vardagliga problem; chefen finns tillgänglig för råd.
+  scope: Eget arbete och en definierad tjänst eller process.
+  leadership: Kan leda ett litet team eller samordna andras arbete.
+  accountability: Leverans av en definierad tjänst eller process.
+"5":
+  title: Band 5
+  stage: Yrkesutövare
+  knowledge: Professionell eller teknisk kunskap, vanligen genom en examen eller motsvarande erfarenhet.
+  autonomy: Arbetar mot breda mål inom professionella standarder; planerar sitt eget arbete.
+  scope: Eget professionellt arbete inom ett team eller en produkt.
+  leadership: Kan vägleda och granska arbetet hos stödpersonal och lärlingar.
+  accountability: Kvaliteten på det egna professionella arbetet.
+"6":
+  title: Band 6
+  stage: Erfaren yrkesutövare
+  knowledge: Specialistkunskap över en rad förfaranden, uppbyggd genom vidareutbildning eller erfarenhet.
+  autonomy: Arbetar självständigt; tolkar policy för det egna området; söker råd i komplexa frågor.
+  scope: En produkt, en tjänst eller ett arbetsflöde.
+  leadership: Kan leda ett litet team eller handleda kollegor.
+  accountability: Resultaten av det egna arbetsflödet och kvaliteten på de råd som ges.
+"7":
+  title: Band 7
+  stage: Senior eller specialist
+  knowledge: Högt utvecklad specialistkunskap, vanligen på masternivå eller motsvarande erfarenhet.
+  autonomy: Arbetar enligt organisationens policy; avgör hur resultat uppnås; är den expert andra rådfrågar.
+  scope: Flera produkter eller tjänster, eller en specialistfunktion.
+  leadership: Leder ett team eller ett professionellt praxisområde.
+  accountability: Leverans av en tjänst eller specialistfunktion, och dess budget om en sådan finns.
+8a:
+  title: Band 8a
+  stage: Ledare
+  knowledge: Expertkunskap om en disciplin och dess ledning.
+  autonomy: Tolkar organisationens policy för en tjänst; anger teamets riktning.
+  scope: Ett tjänsteområde eller en disciplin i hela organisationen.
+  leadership: Leder ett team, eller leder en disciplin utan linjeansvar.
+  accountability: Ett tjänsteområde, dess personal och dess budget.
+8b:
+  title: Band 8b
+  stage: Ledare
+  knowledge: Expertkunskap över flera discipliner eller en stor tjänst.
+  autonomy: Formar policy och strategi för ett stort område.
+  scope: Flera tjänster eller team, eller en disciplin på principalnivå.
+  leadership: Leder chefer, eller är den främsta auktoriteten inom en disciplin.
+  accountability: Flera tjänster, deras personal och deras budgetar.
+8c:
+  title: Band 8c
+  stage: Senior ledare
+  knowledge: Expertkunskap och bred förståelse för organisationen och sektorn.
+  autonomy: Sätter strategin för en funktion; ansvarar inför en direktör.
+  scope: En funktion eller en avdelning.
+  leadership: Leder en funktion genom flera ledningsnivåer.
+  accountability: En funktions prestation, personal och budget.
+8d:
+  title: Band 8d
+  stage: Senior ledare
+  knowledge: Strategisk kunskap över funktioner och hela hälso- och vårdsystemet.
+  autonomy: Formar strategin för hela organisationen; är ställföreträdare för en direktör.
+  scope: En stor funktion eller flera funktioner.
+  leadership: Leder flera funktioner eller en stor avdelning.
+  accountability: Stora funktioner, stora budgetar och risker för hela organisationen.
+"9":
+  title: Band 9
+  stage: Professionschef eller direktör
+  knowledge: Strategisk expertis och ledarskap över hela systemet.
+  autonomy: Sätter organisationens strategi tillsammans med ledningsgruppen.
+  scope: Organisationen och dess partner i hela systemet.
+  leadership: Leder en profession eller en direktion.
+  accountability: Resultat, budgetar och risker för hela organisationen.
