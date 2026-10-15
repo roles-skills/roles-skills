@@ -1,0 +1,273 @@
+# Icelandic translations of data/skills/finance.yaml. Keys are the English skill ids.
+fin-financial-transactions:
+  name: Fjárhagsfærslur og höfuðbækur
+  description: Að afgreiða og skrá reikninga, greiðslur, kvittanir, færslur og afstemmingar nákvæmlega í höfuðbókum, samkvæmt fjárhagsstýringum.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt ferlin frá kaupum til greiðslu og frá pöntun til innheimtu og þinn hluta í þeim
+      - fært inn reikninga, kvittanir og greiðslur nákvæmlega samkvæmt föstu verklagi
+      - athugað að færsla hafi rétt samþykki og fylgigögn
+    working: |
+      Þú getur:
+      - afgreitt ýmsar færslur, þar á meðal kreditreikninga, endurgreiðslur og færslur
+      - afstemmt birgjayfirlit, bankareikninga og stýrireikninga
+      - leyst hversdagslegar fyrirspurnir frá birgjum, viðskiptavinum og fjárhagsábyrgðaraðilum
+      - komið auga á tvítekin, óvenjuleg eða óheimil viðskipti og vakið athygli á þeim
+    practitioner: |
+      Þú getur:
+      - stýrt höfuðbók eða færsluferli og haldið því nákvæmu og uppfærðu
+      - rannsakað og hreinsað flókin afstemmingaratriði og gamlar stöður
+      - bætt færsluferli, til dæmis með því að sjálfvirknivæða samræmingu eða samþykktir
+      - þjálfað og athugað vinnu annars starfsfólks
+    expert: |
+      Þú getur:
+      - hannað færsluferli stofnunarinnar og stýringarnar innan þeirra
+      - sett frammistöðustaðla, svo sem greiðslutíma og innheimtumarkmið
+      - stýrt færslunni yfir í nýjar vinnsluaðferðir, svo sem sjálfvirkni og sjálfsafgreiðslu
+      - tryggt æðstu stjórnendum og endurskoðendum að höfuðbækur séu fullkomnar og nákvæmar
+fin-financial-reporting:
+  name: Fjárhagsleg skýrslugjöf og lögbundnir reikningar
+  description: Að undirbúa nákvæma ársreikninga og lögbundin skil sem fylgja gildandi reikningsskilastöðlum og skýrslureglum hins opinbera.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt tilgang helstu reikningsskila
+      - útbúið vinnuskjöl og afstemmingar sem styðja mánaðarlok og árslok
+    working: |
+      Þú getur:
+      - undirbúið mánaðar- og árslokafærslur, svo sem áfallinn kostnað, fyrirframgreiðslur og afsetningar
+      - undirbúið hluta ársreiknings og skýringar með honum
+      - beitt reikningsskilastöðlum á hversdagsleg viðskipti, svo sem eignfærslu hugbúnaðar og vélbúnaðar
+    practitioner: |
+      Þú getur:
+      - undirbúið ársreikning og lögbundin skil eftir tímaáætlun
+      - beitt reikningsskilastöðlum á flókin svið, svo sem leigusamninga, skýjatölvufyrirkomulag og óefnislegar eignir
+      - skrifað bókhaldsskjöl sem útskýra mat og áætlanir
+      - stýrt ytri endurskoðun reikninganna og brugðist við niðurstöðum
+    expert: |
+      Þú getur:
+      - borið ábyrgð á ársskýrslu og ársreikningi stofnunarinnar og þeim bókhaldsstefnum sem liggja að baki
+      - ráðlagt stjórn og endurskoðunarnefnd um mikilvægt mat og nýja staðla
+      - stýrt viðbrögðum við áritun með fyrirvara eða verulegum skekkjum
+      - tryggt að skýrslugjöf uppfylli reglur um opinbera ábyrgðarskyldu
+fin-management-accounting:
+  name: Stjórnendabókhald
+  description: Að búa til fjárhagsáætlunar- og kostnaðarupplýsingar sem hjálpa stjórnendum að skipuleggja, stýra og taka ákvarðanir, þar á meðal fráviksgreiningu, kostnaðarútreikning og frammistöðuskýrslugjöf.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt fjárhagsáætlanir, rauntölur, skuldbindingar og frávik
+      - búið til hefðbundnar fjárhagsáætlunarskýrslur úr fjármálakerfinu
+    working: |
+      Þú getur:
+      - undirbúið mánaðarlegar fjárhagsáætlunarskýrslur og útskýrt helstu frávik
+      - kóðað kostnað rétt milli kostnaðarstaða, verkefna og fjárfestingar og reksturs
+      - stutt fjárhagsábyrgðaraðila við að skilja og stýra fjárhagsáætlunum sínum
+    practitioner: |
+      Þú getur:
+      - stýrt mánaðarlegum skýrsluhring fyrir svið eða áætlun
+      - smíðað kostnaðarlíkön, svo sem heildarkostnað við stafræna þjónustu eða einingarkostnað færslu
+      - greint útgjaldaþróun og ráðlagt stjórnendum um aðgerðir til að halda sig innan fjárhagsáætlunar
+      - véfengt fjárhagsábyrgðaraðila á uppbyggilegan hátt um spár þeirra
+    expert: |
+      Þú getur:
+      - hannað stjórnendaskýrslugjöf og kostnaðarútreikningsnálgun stofnunarinnar
+      - kynnt fjárhagslega frammistöðu fyrir stjórn og æðri leiðtogum
+      - stýrt notkun kostnaðar- og frammistöðuupplýsinga til að bæta hagkvæma nýtingu fjármuna
+      - sett staðla fyrir stjórnendabókhald þvert á stofnunina
+fin-financial-planning-and-forecasting:
+  name: Fjárhagsáætlanagerð og spár
+  description: Að smíða fjárhagsáætlanir, spár og meðallangtímafjárhagsáætlanir sem tengja fjármuni við forgangsmál og áætlanir stofnunarinnar.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt árlegan hring fjárhagsáætlanagerðar og muninn á fjárhagsáætlun og spá
+      - safnað spáupplýsingum frá fjárhagsábyrgðaraðilum
+    working: |
+      Þú getur:
+      - smíðað fjárhagsáætlanir og spár fyrir kostnaðarstað eða verkefni, þar á meðal launakostnað
+      - uppfært spár mánaðarlega með þekktum breytingum og áhættu
+      - tímasett fjárhagsáætlanir svo að útgjaldasnið passi við afhendingaráætlanir
+    practitioner: |
+      Þú getur:
+      - stýrt fjárhagsáætlanagerð og spám fyrir svið eða stóra áætlun
+      - líkanað sviðsmyndir og næmni, svo sem verðbólgu, tafir eða breytingar á fjármögnun
+      - smíðað fjölára spár fyrir stafrænar áætlanir, þar á meðal rekstrarkostnað sem fylgir fjárfestingu
+      - kynnt spár og áhættu fyrir æðri stjórnendum
+    expert: |
+      Þú getur:
+      - stýrt meðallangtímafjárhagsáætlun stofnunarinnar
+      - samræmt fjárhagsáætlanir við stefnu, mannafla og fjárfestingaráætlanir
+      - ráðlagt stjórn um fjárhagslega sjálfbærni og þá valkosti sem þarf til að halda sig innan fjármögnunar
+      - sett þær áætlanaforsendur og aðferðir sem notaðar eru þvert á stofnunina
+fin-payroll:
+  name: Launavinnsla
+  description: Að greiða starfsfólki laun nákvæmlega og á réttum tíma, þar á meðal nýráðningar, starfslok, breytingar, frádrátt, lífeyri, lögbundnar greiðslur og launaskýrslugjöf.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt launahringinn, frá breytingum og skilafresti til greiðslu og skýrslugjafar
+      - fært inn nýráðningar, starfslok og breytingar nákvæmlega úr heimiluðum eyðublöðum
+      - svarað hversdagslegum launafyrirspurnum og haldið launaupplýsingum trúnaðarmálum
+    working: |
+      Þú getur:
+      - reiknað laun, álög, yfirvinnu, veikindi og greiðslur í fjölskylduorlofi
+      - beitt sköttum, lífeyri og öðrum frádrætti rétt
+      - athugað launaafurðir og leiðrétt villur fyrir greiðslu
+      - endurheimt ofgreiðslur af næmni og í samræmi við stefnu
+    practitioner: |
+      Þú getur:
+      - stýrt fullri launavinnslu fyrir hóp starfsfólks og samþykkt launaathuganir
+      - stýrt lögbundinni launaskýrslugjöf og lífeyrisskilum
+      - leyst flókin mál, svo sem marga samninga, eftirágreiðslur eða launafórnir
+      - prófað breytingar á launakerfinu, svo sem árlegar launahækkanir og reglubreytingar
+    expert: |
+      Þú getur:
+      - stýrt launaþjónustu stofnunarinnar, hvort sem hún er rekin innanhúss eða af þjónustuaðila
+      - sett launastýringar og tryggt æðstu stjórnendum að greiðslur séu nákvæmar og lögmætar
+      - skipulagt breytingar á launareglum, launahækkunum og launakerfum
+      - stýrt viðbrögðum við meiriháttar launabilunum
+fin-treasury-and-cash:
+  name: Fjárstýring og reiðufjárstýring
+  description: Að stýra bankareikningum, sjóðstreymi og lausafé svo að stofnunin geti staðið við skuldbindingar sínar, innan reiðufjárreglna hins opinbera.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna reiðufé skiptir máli auk fjárhagsáætlana
+      - skráð og afstemmt bankafærslur
+    working: |
+      Þú getur:
+      - undirbúið daglega reiðufjárstöðu og skammtíma reiðufjárspár
+      - undirbúið greiðslukeyrslur og athugað að þær séu rétt heimilaðar
+      - afstemmt bankareikninga og hreinsað ósamræmd atriði
+    practitioner: |
+      Þú getur:
+      - stýrt sjóðstreymisspá stofnunarinnar og úttektum fjármögnunar
+      - stýrt bankareikningum, greiðsluleiðum og bankastýringum
+      - skipulagt reiðufé fyrir stórar eða óreglulegar greiðslur, svo sem fjölára hugbúnaðarleyfi
+    expert: |
+      Þú getur:
+      - mótað fjárstýringarstefnu og bankafyrirkomulag stofnunarinnar
+      - ráðlagt stjórn um lausafjár- og reiðufjáráhættu
+      - stýrt reiðufé innan marka sem fjármögnunaraðilar og reglur hins opinbera setja
+fin-audit-and-controls:
+  name: Fjárhagsstýringar og úttektir
+  description: Að hanna, reka og prófa fjárhagsstýringar, koma í veg fyrir og greina svik og vinna með innri og ytri endurskoðendum.
+  levels:
+    awareness: |
+      Þú getur:
+      - fylgt fjármálaverklagi stofnunarinnar og framsalsskipan
+      - greint merki um möguleg svik eða villur og tilkynnt þau
+    working: |
+      Þú getur:
+      - rekið lykilstýringar, svo sem aðskilnað skyldna og athuganir á bankaupplýsingum birgja
+      - lagt fram gögn fyrir endurskoðendur og svarað spurningum þeirra
+      - athugað að útgjöld séu samþykkt á réttu stigi
+    practitioner: |
+      Þú getur:
+      - prófað og bætt stýringar fyrir fjármálaferli
+      - stýrt úttektarbeiðnum fyrir svið og samþykkt aðgerðir vegna niðurstaðna
+      - skrifað og uppfært fjármálaverklag
+      - unnið með sérfræðingum í svikavörnum að því að draga úr svikaáhættu
+    expert: |
+      Þú getur:
+      - borið ábyrgð á fjármálareglum og framsalsskipan stofnunarinnar
+      - skilað skýrslu til endurskoðunarnefndar um fjárhagsstýringu og úttektaraðgerðir
+      - stýrt viðbrögðum við verulegum stýringarbrestum eða svikum
+      - byggt upp menningu þar sem starfsfólk skilur skyldu sína til að fara rétt með opinbert fé
+fin-business-cases:
+  name: Viðskiptarök og fjárfestingarmat
+  description: Að byggja fjárhagsleg rök fyrir fjárfestingu, þar á meðal valkostamat, heildarlíftímakostnað, meðferð fjárfestingar og reksturs, ávinning og hagkvæma nýtingu fjármuna.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt tilgang viðskiptaraka og fjárhagshluta þeirra
+      - safnað kostnaðarupplýsingum fyrir viðskiptarök
+    working: |
+      Þú getur:
+      - smíðað fjárhagslíkan fyrir einföld viðskiptarök
+      - aðgreint fjárfestingarkostnað og rekstrarkostnað og einskiptiskostnað og endurtekinn kostnað
+      - tekið með heildarlíftímakostnað, svo sem leyfi, stuðning og hýsingu eftir gangsetningu
+    practitioner: |
+      Þú getur:
+      - stýrt fjárhagslegum rökum fyrir flóknum stafrænum fjárfestingum, svo sem nýju klínísku kerfi eða flutningi í skýið
+      - metið valkosti með núvirði, næmnigreiningu og áhættuleiðréttingu
+      - athugað að ávinningur sé raunhæfur, mælanlegur og í eigu einhvers
+      - fylgst með útgjöldum og ávinningi eftir samþykki
+    expert: |
+      Þú getur:
+      - mótað staðla stofnunarinnar um viðskiptarök og fjárfestingarmat
+      - ráðlagt fjárfestingarstjórnum um viðráðanleika, hagkvæma nýtingu fjármuna og áhættu
+      - fært rök fyrir stórum fjárfestingaráætlunum gagnvart fjármögnunaraðilum
+      - yfirfarið fjárfestingasafnið og mælt með því hvar eigi að hætta, breyta eða halda áfram
+fin-tax:
+  name: Skattar
+  description: Að beita reglum um virðisaukaskatt, launaskatt og aðra skatta rétt á viðskipti stofnunarinnar og endurheimta skatt þar sem það er heimilt.
+  levels:
+    awareness: |
+      Þú getur:
+      - greint virðisaukaskatt á reikningum og kóðað hann rétt
+      - útskýrt hvenær á að leita ráða hjá skattasérfræðingi
+    working: |
+      Þú getur:
+      - undirbúið skattskil og afstemmingar undir eftirliti
+      - beitt réttri skattameðferð á algeng kaup og tekjur
+      - athugað ráðningarstöðu verktaka undir leiðsögn
+    practitioner: |
+      Þú getur:
+      - stýrt skattskilum og skattafstemmingum stofnunarinnar
+      - ráðlagt um skattameðferð samninga, svo sem hugbúnaðarleyfa, skýjaþjónustu og sameiginlegrar þjónustu
+      - hámarkað skattendurheimt innan reglna
+    expert: |
+      Þú getur:
+      - borið ábyrgð á skattastefnu og skattaáhættu stofnunarinnar
+      - stýrt viðræðum við skattyfirvöld um flókin mál
+      - metið skattaleg áhrif stórra breytinga, svo sem nýs samstarfs eða viðskiptastarfsemi
+fin-financial-systems:
+  name: Fjármálakerfi
+  description: Að nota, stýra og bæta fjármála-, innkaupa-, launa- og skýrslukerfi svo að fjárhagsgögn séu nákvæm og ferli skilvirk.
+  levels:
+    awareness: |
+      Þú getur:
+      - notað fjármálakerfið fyrir eigin verk, samkvæmt verklagi
+      - keyrt hefðbundnar skýrslur og flutt gögn út í töflureikni
+    working: |
+      Þú getur:
+      - notað töflureikna vel, þar á meðal formúlur, uppflettingar og pivot-töflur
+      - viðhaldið gögnum fjármálakerfis, svo sem kostnaðarstöðum, birgjum og samþykkjendum
+      - tilkynnt og hjálpað til við að laga kerfisvandamál
+    practitioner: |
+      Þú getur:
+      - stýrt fjármála- eða launakerfinu, þar á meðal aðgangi, vinnuflæði og skýrslugjöf
+      - hannað skýrslur og mælaborð fyrir fjárhagsábyrgðaraðila
+      - prófað kerfisbreytingar og uppfærslur
+      - sjálfvirknivætt endurtekin fjármálaverk
+    expert: |
+      Þú getur:
+      - borið ábyrgð á stefnu og vegvísi fjármálakerfa
+      - stýrt innkaupum og innleiðingu fjármála- eða launakerfa
+      - tryggt að fjárhagsgögn séu samþætt mannafla-, innkaupa- og frammistöðugögnum
+fin-public-sector-finance:
+  name: Fjármál hins opinbera
+  description: Að skilja hvernig opinber fjármögnun virkar, þar á meðal fjárveitingar, mörk fjárfestingar og reksturs, útgjaldastýringar, ábyrgðarskyldu á opinberu fé og hagkvæma nýtingu fjármuna.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt að stofnunin ver opinberu fé og verður að gera grein fyrir því
+      - útskýrt muninn á fjárfestingar- og rekstrarútgjöldum
+    working: |
+      Þú getur:
+      - beitt reglum stofnunarinnar um fjárfestingu og rekstur á hversdagsleg útgjöld
+      - útskýrt hvernig fjárveitingar og útgjaldamörk hafa áhrif á þitt svið
+      - greint útgjöld sem þurfa samþykki fjármögnunaraðila eða útgjaldastýringar
+    practitioner: |
+      Þú getur:
+      - ráðlagt stjórnendum um fjármögnunarreglur, þar á meðal eyrnamerkt og tímabundið fjármagn
+      - stýrt mörkum fjárfestingar og reksturs fyrir áætlun eða svið
+      - undirbúið skil og gögn fyrir fjármögnunaraðila og útgjaldastýringar
+    expert: |
+      Þú getur:
+      - verið fulltrúi stofnunarinnar gagnvart fjármögnunaraðilum og eftirlitsaðilum
+      - ráðlagt stjórn um reglufestu, siðferði og hagkvæma nýtingu fjármuna
+      - mótað fjármögnunarsamninga og fjárhagsfyrirkomulag fyrir þjónustu stofnunarinnar

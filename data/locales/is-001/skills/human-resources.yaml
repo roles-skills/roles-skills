@@ -1,0 +1,298 @@
+# Icelandic translations of data/skills/human-resources.yaml. Keys are the English skill ids.
+hr-hr-administration:
+  name: Mannauðsumsýsla
+  description: Að stýra umsýsluferlum starfsævinnar nákvæmlega og í trúnaði, frá samningum og nýráðningum til breytinga, fjarvistaskráa og starfsloka.
+  levels:
+    awareness: |
+      Þú getur:
+      - fylgt verklagi stofnunarinnar um nýráðningar, breytingar og starfslok
+      - haldið persónuskrám trúnaðarmálum og uppfærðum
+    working: |
+      Þú getur:
+      - útbúið samninga, breytingabréf og ráðningarathuganir nákvæmlega
+      - afgreitt breytingar í mannauðs- og launakerfinu fyrir frest
+      - svarað hversdagslegum spurningum stjórnenda og starfsfólks um mannauðsferli
+    practitioner: |
+      Þú getur:
+      - stýrt mannauðsumsýsluþjónustu, athugað gæði og staðist þjónustustaðla
+      - bætt ferli og sniðmát og sjálfvirknivætt hversdagsleg skref þar sem þú getur
+      - leyst flókin eða óvenjuleg mál, svo sem ofgreiðslur eða samningsvillur
+    expert: |
+      Þú getur:
+      - hannað rekstrarlíkan mannauðsmála og þjónustustaðla fyrir stofnunina
+      - stýrt færslunni yfir í stafræn mannauðsferli með sjálfsafgreiðslu
+      - sett stýringar sem halda mannauðs- og launagögnum nákvæmum og lögmætum
+hr-employment-policy:
+  name: Vinnuréttur og mannauðsstefna
+  description: Að beita vinnurétti og skrifa, túlka og yfirfara mannauðsstefnur stofnunarinnar svo að komið sé fram við starfsfólk á lögmætan, sanngjarnan og samræmdan hátt.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt helstu mannauðsstefnur og hvar þær er að finna
+      - greint hvenær spurning krefst ráðgjafar frá mannauðsráðgjafa
+    working: |
+      Þú getur:
+      - beitt mannauðsstefnum á hversdagsleg mál og útskýrt þær fyrir stjórnendum
+      - greint þær vinnuréttarreglur sem liggja að baki stefnu
+      - haldið stefnuskrám og fylgst með yfirferðardagsetningum stefna
+    practitioner: |
+      Þú getur:
+      - túlkað vinnurétt og stefnu í flóknum málum og ráðlagt um áhættu
+      - samið og yfirfarið mannauðsstefnur, með jafnræðisáhrifamati
+      - haft samráð um stefnubreytingar við fulltrúa starfsfólks
+    expert: |
+      Þú getur:
+      - mótað mannauðsstefnuramma stofnunarinnar og nálgun við lagalega áhættu
+      - séð fyrir breytingar á vinnurétti og skipulagt viðbrögð stofnunarinnar
+      - ráðlagt stjórn um vinnuréttaráhættu og ábyrgð
+hr-employee-relations:
+  name: Starfsmannamál
+  description: Að stýra formlegum og óformlegum starfsmannamálum, svo sem framkomu, getu, kvörtunum, mætingu og virðingu á vinnustað, á sanngjarnan hátt og í samræmi við stefnu og vinnurétt.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt helstu stig verklags um framkomu, getu, kvartanir og mætingu
+      - ritað nákvæma minnispunkta á formlegum fundum og haldið málaskrám trúnaðarmálum
+    working: |
+      Þú getur:
+      - ráðlagt stjórnendum í einföldum málum og um næsta skref í verklagi
+      - stutt rannsóknir, undirbúið málsgögn og skipulagt skýrslutökur
+      - unnið uppbyggilega með fulltrúum starfsfólks að einstökum málum
+    practitioner: |
+      Þú getur:
+      - stýrt málaskrá flókinna mála og ráðlagt nefndum um sanngjarnar niðurstöður
+      - framkvæmt eða stýrt rannsóknum, þar á meðal rannsóknum tengdum atvikum eða verndarsjónarmiðum
+      - notað snemmbúna lausn og sáttamiðlun til að jafna ágreining áður en hann stigmagnast
+      - komið auga á þróun í málum og brugðist við orsökum hennar
+    expert: |
+      Þú getur:
+      - stýrt nálgun stofnunarinnar við starfsmannamál og samstarf
+      - annast viðkvæmustu málin eða mál með mikla áhættu, þar á meðal vinnuréttarkröfur
+      - samið um kjarasamninga og leyst sameiginlegar deilur
+hr-recruitment-and-selection:
+  name: Ráðningar og val
+  description: Að laða að, meta og ráða fólk á sanngjarnan og skilvirkan hátt, frá hönnun starfa og auglýsingum gegnum forval, mat, tilboð og athuganir fyrir ráðningu.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt stig ráðningarferlis stofnunarinnar
+      - fylgt reglum um sanngjarnar og öruggar ráðningar, þar á meðal athuganir fyrir ráðningu
+    working: |
+      Þú getur:
+      - stýrt ráðningarherferðum gegnum umsækjendakerfið
+      - stutt stjórnendur með auglýsingar, forval og viðtalsskipulag
+      - lokið athugunum fyrir ráðningu og gert skilyrt tilboð
+    practitioner: |
+      Þú getur:
+      - ráðlagt stjórnendum um hönnun starfa, valaðferðir og sanngjarnt mat
+      - hannað mat fyrir sérhæfð hlutverk, svo sem tæknileg verkefni fyrir stafræn hlutverk
+      - greint ráðningargögn til að bæta tíma til ráðningar, gæði og fjölbreytni
+      - stýrt upplifun umsækjenda og ímynd vinnuveitanda
+    expert: |
+      Þú getur:
+      - mótað ráðningarstefnu og þjónustustaðla stofnunarinnar
+      - stýrt vali og notkun ráðningartækni og afleysingastofa
+      - tryggt að ráðningar séu án aðgreiningar og lögmætar þvert á stofnunina
+hr-talent-attraction:
+  name: Að laða að hæfileika og leit
+  description: Að finna og virkja fólk með fáliðaða færni, svo sem stafræna sérfræðinga, gagnasérfræðinga og tæknisérfræðinga, með ímynd vinnuveitanda, beinni leit, netum og leiðum fyrir upphaf starfsferils.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvaða færni er erfitt að ráða í og hvers vegna
+      - miðlað starfsauglýsingum gegnum rásir og net stofnunarinnar
+    working: |
+      Þú getur:
+      - skrifað auglýsingar sem höfða til sérhæfðra umsækjenda og notað látlaust mál
+      - leitað á atvinnuvefjum, fagnetum og hæfileikasöfnum að umsækjendum
+      - stutt viðburði, svo sem starfskynningar og opin hús
+    practitioner: |
+      Þú getur:
+      - byggt upp hæfileikaleiðslur og samfélög fyrir fáliðuð stafræn hlutverk og gagnahlutverk
+      - mótað gildistilboð vinnuveitanda með ráðandi teymum
+      - notað markaðsgögn um laun og framboð til að ráðleggja um erfið störf að manna
+      - þróað leiðir fyrir upphaf starfsferils, svo sem iðnnám og námsáætlanir fyrir útskrifaða
+    expert: |
+      Þú getur:
+      - mótað stefnu stofnunarinnar um að laða að hæfileika og ímynd vinnuveitanda
+      - unnið með samstarfsaðilum, svo sem háskólum og öðrum vinnuveitendum, að því að auka framboð hæfileika
+      - stýrt ákvörðunum um álagsgreiðslur, notkun afleysingastofa og aðrar leitaraðferðir
+hr-workforce-planning:
+  name: Mannaflaáætlanagerð
+  description: Að spá fyrir um þann mannafla sem stofnunin þarf, bera hann saman við þann mannafla sem hún hefur og skipuleggja hvernig á að loka bilinu með ráðningum, þróun, endurhönnun og því að halda fólki.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna mannaflaáætlanagerð skiptir máli fyrir örugga og sjálfbæra þjónustu
+      - lagt fram nákvæmar upplýsingar um stöðugildi og laus störf
+    working: |
+      Þú getur:
+      - safnað og athugað gögn mannaflaáætlunar frá stjórnendum
+      - líkanað einfaldar sviðsmyndir, svo sem þróun starfsmannaveltu og lausra starfa
+    practitioner: |
+      Þú getur:
+      - stýrt mannaflaáætlanagerð fyrir svið og tengt hana þjónustu- og fjárhagsáætlunum
+      - greint færnibil og mælt með leiðum til að loka þeim
+      - skipulagt ný hlutverk, starfsferla og færnisamsetningu
+    expert: |
+      Þú getur:
+      - mótað mannaflastefnu og langtímaáætlun stofnunarinnar
+      - tekið mannaflamálamiðlanir þvert á þjónustur með fjármálum og þjónustuleiðtogum
+      - mótað mannaflaáætlanir með samstarfsaðilum þvert á heilbrigðis- og velferðarkerfið
+hr-workforce-information:
+  name: Mannaflaupplýsingar og mannauðskerfi
+  description: Að stýra mannauðs- og mannaflakerfum og gögnum og breyta mannaflagögnum í skýrslur og innsýn, svo sem greiningu á starfsmannaveltu, fjarvistum, lausum störfum, fjölbreytni og launamun.
+  levels:
+    awareness: |
+      Þú getur:
+      - fært mannaflagögn nákvæmlega inn í mannauðskerfið
+      - útskýrt hvers vegna mannaflagögn verða að vera nákvæm og trúnaðarmál
+    working: |
+      Þú getur:
+      - keyrt hefðbundnar mannaflaskýrslur og athugað þær með tilliti til villna
+      - svarað hversdagslegum upplýsingabeiðnum um mannaflann
+    practitioner: |
+      Þú getur:
+      - greint mannaflagögn til að finna þróun og útskýrt hana fyrir stjórnendum
+      - hannað mælaborð og skýrslur fyrir mannaflavísa
+      - búið til lögbundna skýrslugjöf og jafnréttisskýrslugjöf, svo sem greiningu á launamun
+    expert: |
+      Þú getur:
+      - mótað stefnu stofnunarinnar um mannaflaupplýsingar og gagnastaðla
+      - stýrt vali og þróun mannauðskerfa
+      - notað mannaflainnsýn til að upplýsa ákvarðanir stjórnar
+hr-reward-and-job-evaluation:
+  name: Launakjör og starfsmat
+  description: Að beita launa- og kjarareglum og meta störf samræmt gegn starfsmatskerfi til að raða þeim í réttan launaflokk.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvernig launaflokkar, þrep og álög virka
+      - útskýrt að störf eru flokkuð með starfsmati, ekki eftir þeirri manneskju sem gegnir starfinu
+    working: |
+      Þú getur:
+      - beitt launareglum, svo sem byrjunarlaunum, vernd og álögum
+      - athugað að starfslýsingar séu fullkomnar áður en þær fara í mat
+      - tekið þátt í starfsmatsnefndum sem þjálfaður meðlimur
+    practitioner: |
+      Þú getur:
+      - stýrt starfsmatsnefndum og samræmisathugunum
+      - ráðlagt um launaflokka nýrra og breyttra hlutverka, þar á meðal stafrænna hlutverka og gagnahlutverka
+      - ráðlagt um ráðningar- og varðveisluálög með markaðsgögnum
+    expert: |
+      Þú getur:
+      - mótað launakjarastefnu stofnunarinnar innan samþykkts launaramma
+      - tryggt heilleika starfsmats þvert á stofnunina
+      - stýrt jafnlaunayfirferðum og brugðist við niðurstöðum þeirra
+hr-learning-design-and-delivery:
+  name: Hönnun og framkvæmd fræðslu
+  description: Að greina fræðsluþarfir og hanna, halda og meta fræðslu í eigin persónu, á netinu og í flæði vinnunnar.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt muninn á þjálfun, námi og þróun
+      - stutt framkvæmd námskeiða og haldið þjálfunarskrár
+    working: |
+      Þú getur:
+      - haldið vel afmarkaðar þjálfunarlotur í eigin persónu og á netinu
+      - smíðað einfalt rafrænt námsefni í námsstjórnunarkerfinu
+      - safnað og tekið saman endurgjöf nemenda
+    practitioner: |
+      Þú getur:
+      - greint fræðsluþarfir og hannað blandaðar áætlanir til að mæta þeim
+      - sett námsmarkmið og metið áhrif, ekki aðeins ánægju
+      - gert fræðslu aðgengilega og án aðgreiningar fyrir allt starfsfólk
+    expert: |
+      Þú getur:
+      - mótað fræðslustefnu og staðla stofnunarinnar
+      - stýrt fræðsluframboðinu, tækni þess og fjármögnun
+      - sýnt fram á ávöxtun fjárfestingar stofnunarinnar í fræðslu
+hr-skills-frameworks-and-career-pathways:
+  name: Færnirammar og starfsferlar
+  description: Að nota færni- og hlutverkaramma, svo sem þessa viðmiðun, UK GDaD PCF og ESCO, til að lýsa hlutverkum, meta færnibil og byggja upp starfsferla.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvað færniramminn er og hvernig hann lýsir hlutverkum og stigum
+      - fundið hlutverkasnið og færni fyrir starf í rammanum
+    working: |
+      Þú getur:
+      - varpað starfslýsingum á hlutverk, stig og færni í rammanum
+      - stutt starfsfólk og stjórnendur með færnisjálfsmati
+      - haldið upplýsingum um starfsferla uppfærðum
+    practitioner: |
+      Þú getur:
+      - framkvæmt færnibilsgreiningu fyrir teymi eða fagstétt og skilað skýrslu um niðurstöðurnar
+      - hannað starfsferla og þróunarleiðir með stigum rammans
+      - notað færni úr rammanum til að skrifa samræmdar starfslýsingar og mat
+    expert: |
+      Þú getur:
+      - mótað hvernig stofnunin notar færniramma þvert á fagstéttir
+      - notað færnigögn til að upplýsa mannafla-, fræðslu- og launakjarastefnu
+      - lagt til þróunar sameiginlegra ramma með öðrum stofnunum
+hr-organisational-development:
+  name: Skipulagsþróun
+  description: Að bæta hvernig stofnunin starfar með menningu, forystu, þátttöku, skilvirkni teyma og vellíðunaraðgerðum byggðum á gögnum.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvernig menning, forysta og þátttaka hafa áhrif á starfsfólk og umönnun sjúklinga
+      - aðstoðað við að stýra starfsmannakönnunum og hlustunarviðburðum
+    working: |
+      Þú getur:
+      - stýrt teymisfundum og vinnustofum með stöðluðum verkfærum
+      - greint niðurstöður starfsmannakönnunar fyrir teymi og lagt til aðgerðir
+    practitioner: |
+      Þú getur:
+      - greint skipulagsvandamál og hannað aðgerðir til að takast á við þau
+      - stýrt teymisþróun, forystuþróun og þátttökuáætlunum
+      - metið áhrif aðgerða með gögnum
+    expert: |
+      Þú getur:
+      - mótað skipulagsþróunarstefnu og menningaráætlun
+      - leiðbeint framkvæmdastjórum og stýrt umfangsmikilli menningarbreytingu
+      - tengt menningar- og þátttökumælikvarða við gæði umönnunar og frammistöðu
+hr-organisational-change:
+  name: Skipulagsbreytingar og samráð
+  description: Að skipuleggja og stýra breytingum á skipulagi, hlutverkum og vinnumynstri, þar á meðal formlegu samráði, tilfærslu í starfi og uppsögnum, í samræmi við stefnu og vinnurétt.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt helstu stig skipulagsbreytingaferlis
+      - stutt umsýslu breytinga, svo sem samráðsbréf og fundi
+    working: |
+      Þú getur:
+      - stutt stjórnendur við að undirbúa samráðsskjöl og kynningar fyrir starfsfólk
+      - fylgst með svörum og aðgerðum meðan á samráði stendur
+      - stutt starfsfólk gegnum tilfærslu í starfi og valferli
+    practitioner: |
+      Þú getur:
+      - stýrt skipulagsbreytingum fyrir svið, frá viðskiptarökum til framkvæmdar
+      - haft samráð við starfsfólk og fulltrúa þess og brugðist við endurgjöf þeirra
+      - stýrt lagalegri áhættu og jafnræðisáhættu breytingar
+    expert: |
+      Þú getur:
+      - stýrt endurskipulagningu fyrir alla stofnunina og yfirfærslu þjónustu
+      - hannað nálgun stofnunarinnar við breytingar, þar á meðal samstarf
+      - ráðlagt stjórn um áhrif stórra breytinga á fólk og áhættu
+hr-people-strategy:
+  name: Mannauðsstefna og forysta í mannauðsmálum
+  description: Að móta mannauðsstefnu stofnunarinnar, stýra mannauðssviðinu og ráðleggja stjórn um menningu, mannafla og vinnuréttaráhættu.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt mannauðsstefnu stofnunarinnar og hvernig vinna þín styður hana
+    working: |
+      Þú getur:
+      - lagt til mannauðsáætlana fyrir þjónustu, með skýrum aðgerðum og mælikvörðum
+      - skilað skýrslu um framvindu gegn mannauðsáætluninni
+    practitioner: |
+      Þú getur:
+      - skrifað og stýrt mannauðsáætlunum fyrir svið í samræmi við mannauðsstefnuna
+      - ráðlagt æðri leiðtogum um mannauðsáhættu og forgangsröðun
+      - stýrt hluta mannauðssviðsins og mótað staðla þess og forgangsröðun
+    expert: |
+      Þú getur:
+      - mótað mannauðsstefnu stofnunarinnar og stýrt mannauðssviðinu
+      - ráðlagt stjórn um menningu, mannafla og vinnuréttaráhættu
+      - verið fulltrúi stofnunarinnar í mannauðsmálum gagnvart samstarfsaðilum og eftirlitsaðilum

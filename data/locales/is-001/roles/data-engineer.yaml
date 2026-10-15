@@ -1,0 +1,44 @@
+summary: Gagnaverkfræðingar smíða og reka þær gagnaleiðslur og þá vettvanga sem flytja heilbrigðis- og velferðargögn úr klínískum kerfum og rekstrarkerfum þangað sem hægt er að greina þau og nota á öruggan hátt. Þeir hanna gagnaflæði, samþætta uppsprettur sem nota ólíka staðla og tryggja að gögn séu nákvæm, tímanleg, örugg og aðeins aðgengileg þeim sem eiga að sjá þau.
+health_context:
+- Upprunakerfi eru meðal annars rafrænar sjúkraskrár, rannsóknastofukerfi, myndgreiningarkerfi og lyfjakerfi, sem nota staðla eins og HL7 útgáfu 2, HL7 FHIR, SNOMED CT og ICD.
+- Leiðslur flytja oft persónugreinanleg gögn sjúklinga, svo verkfræðingar byggja inn gervinafnavæðingu, aðgangsstýringu og skráningu frá byrjun.
+- Sumar gagnaveitur styðja beina umönnun, svo sem viðvaranir eða sjúklingalista, svo misheppnuð eða seinkuð leiðsla getur haft áhrif á sjúklinga og krefst mats á klínísku öryggi.
+- Gögn þarf oft að tengja þvert á umönnunarumhverfi, sem veltur á áreiðanlegri sjúklingasamsvörun og samræmdum auðkennum.
+levels:
+- title: Gagnaverkfræðingur
+  responsibilities:
+  - Smíða og viðhalda gagnaleiðslum frá klínískum kerfum og rekstrarkerfum til gagnavettvangsins, samkvæmt samþykktri hönnun.
+  - Varpa upprunagögnum, þar á meðal kóðuðum klínískum gögnum, á markmiðslíkön og skjalfesta varpanirnar.
+  - Byggja gervinafnavæðingu, sannprófun og gagnagæðaathuganir inn í leiðslur.
+  - Vakta leiðslur og laga bilanir, og forgangsraða veitum sem styðja beina umönnun.
+  - Beita aðgangsstýringum og skráningu sem uppfylla reglur um upplýsingastjórnun.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða skyldri grein, eða sambærileg reynsla.
+  - Reynsla af smíði gagnaleiðslna.
+- title: Eldri gagnaverkfræðingur
+  responsibilities:
+  - Hanna gagnaflæði og straumþjónustu sem safna saman gögnum úr mörgum heilbrigðis- og velferðarkerfum.
+  - Hanna ferli sjúklingasamsvörunar og tengingar og mæla hversu vel þau virka.
+  - Stýra vinnu við afköst gagnagrunna og vettvanga svo gögn séu aðgengileg þegar þjónusta þarf á þeim að halda.
+  - Meta áhættu gagnaflæðis í klínísku öryggi og upplýsingastjórnun með viðeigandi sérfræðingum.
+  - Fara yfir vinnu annarra verkfræðinga og leiðbeina þeim.
+  qualifications:
+  - Mikil reynsla af hönnun og smíði gagnakerfa, á stigi sem jafngildir meistaragráðu.
+- title: Leiðandi gagnaverkfræðingur
+  responsibilities:
+  - Stýra hönnun og rekstri gagnavettvangs stofnunarinnar og hinna mörgu gagnaflæða hans.
+  - Setja verkfræðistaðla fyrir leiðslur, prófanir, öryggi og skjölun.
+  - Skipuleggja gagnasamþættingu við samstarfsaðila í heilbrigðis- og velferðarþjónustu, þar á meðal sameiginlegar umönnunarskrár og svæðisbundna gagnaþjónustu.
+  - Tryggja að gagnaflæði sem styður beina umönnun sé seigt og hafi klínísk öryggismál.
+  - Samræma gagnaverkfræðiteymi og vera línustjóri verkfræðinga.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í gagnaverkfræði flókinna kerfa.
+- title: Yfirmaður gagnaverkfræði
+  responsibilities:
+  - Móta stefnu fyrir gagnavettvanga stofnunarinnar og gagnaverkfræðiþjónustu.
+  - Stýra þverfaglegum teymum sem afhenda gagnaþjónustu fyrir innri teymi og samstarfsaðila í heilbrigðis- og velferðarþjónustu.
+  - Ráðleggja æðstu stjórnendum um áhættu, kostnað og fjárfestingar gagnavettvanga.
+  - Tryggja að gagnaþjónusta uppfylli kröfur um upplýsingastjórnun, öryggi og klínískt öryggi.
+  - Byggja upp getu í gagnaverkfræði með ráðningum, þróun og starfsferlum.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í gagnaverkfræði þvert á mörg teymi.

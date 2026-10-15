@@ -1,0 +1,62 @@
+summary: Verkefnastjórar skipuleggja og afhenda verkefni sem breyta því hvernig stofnunin styður heilbrigðis- og velferðarþjónustu, svo sem að setja upp klínískt kerfi á nýjum starfsstöðvum, flytja þjónustu yfir á nýja innviði eða taka upp ný stafræn verkfæri fyrir umönnunarstarfsfólk. Þeir stýra umfangi, tíma, kostnaði, gæðum og áhættu með viðurkenndum verkefnaaðferðum og tryggja að verkefni skili þeim ávinningi sem lofað var fyrir sjúklinga og starfsfólk.
+health_context:
+- Verkefni sem breyta klínískum kerfum eða vinnuflæði þurfa klíníska öryggisfullvissu fyrir gangsetningu, svo verkefnastjórar skipuleggja hættuvinnustofur, samþykki öryggismála og framlag klíníska öryggisfulltrúans í tímaáætlunina.
+- Gangsetningar mega ekki raska umönnun sjúklinga, svo verkefnastjórar skipuleggja yfirfærslur, fyrirkomulag samfellu í rekstri og stuðning með göngu um deildir með klínískum teymum og rekstrarteymum.
+- Verkefni þurfa oft persónuverndarmat og upplýsingamiðlunarsamninga, svo verkefnastjórar skipuleggja þetta snemma með samstarfsfólki í upplýsingastjórnun.
+- Ávinningur í umönnun, svo sem leystur tími starfsfólks eða færri villur, tekur tíma að birtast, svo verkefnastjórar setja upp grunnlínur og afhenda þjónustunni eftirfylgni með ávinningi.
+levels:
+- title: Aðstoðarverkefnastjóri
+  summary: Aðstoðarverkefnastjóri styður afhendingu verkefna, eða stýrir litlum, vel afmörkuðum verkefnum með leiðsögn eldri verkefnastjóra.
+  responsibilities:
+  - Viðhalda verkefnaáætlunum, áhættu- og vandamálaskrám, aðgerðaskrám og háðaskrám.
+  - Skipuleggja og rita fundargerðir verkefnafunda og -stjórna og fylgja eftir aðgerðum.
+  - Stýra litlum, vel afmörkuðum verkum, svo sem útsetningu á starfsstöð eða þjálfunaráætlun, með leiðsögn.
+  - Fylgjast með viðbúnaðarverkum fyrir gangsetningu, svo sem klínísku öryggissamþykki, persónuverndarathugunum og þjálfun starfsfólks.
+  - Útbúa framvinduskýrslur og fylgjast með útgjöldum verkefnis gegn fjárhagsáætlun.
+  qualifications:
+  - Grunnmenntun í verkefnastjórnun, eða sambærileg reynsla.
+- title: Verkefnastjóri
+  summary: Verkefnastjóri stýrir verkefnum af miðlungs stærð og flækjustigi frá upphafi til loka, svo sem útsetningu stafrænnar þjónustu í nokkrum umönnunarumhverfum.
+  responsibilities:
+  - Skipuleggja og stýra verkefnum frá upphafi til loka og stýra umfangi, tíma, kostnaði, gæðum og áhættu.
+  - Skipuleggja gangsetningar með klínískum teymum og rekstrarteymum, þar á meðal yfirfærslu, samfellu í rekstri og stuðningsfyrirkomulag.
+  - Tryggja að fullvissa í klínísku öryggi, upplýsingastjórnun og aðgengi sé skipulögð og lokið fyrir gangsetningu.
+  - Stýra fjárhagsáætlun verkefnisins og afurðum birgja.
+  - Skila skýrslu til verkefnastjórnar og vísa upp á við áhættu og vandamálum utan marka.
+  - Setja grunnlínur fyrir ávinning og afhenda þjónustunni eftirfylgni með ávinningi.
+  qualifications:
+  - Viðurkennd menntun í verkefnastjórnun, svo sem vottun á fagmannsstigi, eða sambærileg reynsla.
+  - Reynsla af stjórnun verkefna sem breyta þjónustu eða kerfum.
+- title: Eldri verkefnastjóri
+  summary: Eldri verkefnastjóri stýrir stórum, flóknum eða áhættusömum verkefnum, svo sem endurnýjun klínísks kerfis þvert á stofnun, og getur stýrt öðru verkefnastarfsfólki.
+  responsibilities:
+  - Stýra stórum verkefnum eða verkefnum með mikla áhættu, svo sem endurnýjun klínískra kerfa eða útsetningu á mörgum starfsstöðvum.
+  - Stýra flóknum háðum við birgja, önnur verkefni og samstarfsstofnanir í heilbrigðis- og velferðarþjónustu.
+  - Stýra ákvörðunum um gangsetningu með klíníska öryggisfulltrúanum, rekstrarleiðtogum og æðsta ábyrgðaraðila.
+  - Stýra fjárhagsáætlun verkefnisins og viðskiptafyrirkomulagi, þar á meðal breytingastýringu með birgjum.
+  - Tryggja að ávinningur fyrir sjúklinga og starfsfólk sé skilgreindur, í eigu einhvers og mældur.
+  - Stýra og þróa verkefnastjóra og verkefnastuðningsfólk.
+  qualifications:
+  - Viðurkennd menntun í verkefnastjórnun, eða sambærileg reynsla.
+  - Mikil reynsla af stjórnun flókinna verkefna í lögbundnu umhverfi eða umhverfi þar sem öryggi skiptir sköpum.
+- title: Leiðandi verkefnastjóri
+  summary: Leiðandi verkefnastjóri stýrir flóknustu verkefnunum eða hópi skyldra verkefna og mótar verkefnastjórnunarvenjur fyrir sitt svið.
+  responsibilities:
+  - Stýra flóknustu verkefnunum, eða hópi skyldra verkefna, þvert á nokkrar þjónustur eða stofnanir.
+  - Setja staðla, sniðmát og fullvissu í verkefnastjórnun fyrir sviðið og leiðbeina verkefnastjórum.
+  - Ráðleggja æðstu ábyrgðaraðilum og stjórnum um afhendingarvalkosti, áhættu og endurheimt verkefna í erfiðleikum.
+  - Stýra umtalsverðum fjárhagsáætlunum og samningum og tryggja að verkefni skili hagkvæmri nýtingu fjármuna.
+  - Tryggja að kröfur um klínískt öryggi og upplýsingastjórnun séu uppfylltar þvert á hóp verkefna.
+  - Vera línustjóri verkefnastjóra.
+  qualifications:
+  - Umfangsmikil reynsla af forystu flókinna verkefna, með viðurkennda menntun í verkefnastjórnun eða sambærilega reynslu.
+- title: Yfirmaður verkefnastjórnunar
+  summary: Yfirmaður verkefnastjórnunar stýrir verkefnastjórnunarstarfi stofnunarinnar og þeim verkefnastjórum sem afhenda stafrænar breytingar hennar.
+  responsibilities:
+  - Stýra verkefnastjórnunarstarfinu, þar á meðal aðferðum þess, stöðlum, verkfærum og fullvissu.
+  - Úthluta verkefnastjórum á verkefni stofnunarinnar og stýra getu starfsins.
+  - Byggja upp verkefnastjórnunargetu, þar á meðal ráðningar, þjálfun og starfsferla.
+  - Ráðleggja framkvæmdaleiðtogum um heilsu verkefna, afhendingaráhættu og lærdóm.
+  - Stýra fjárhagsáætlun starfsins.
+  qualifications:
+  - Umfangsmikil reynsla af forystu verkefna og verkefnastjóra, með viðurkennda menntun í verkefnastjórnun eða sambærilega reynslu.

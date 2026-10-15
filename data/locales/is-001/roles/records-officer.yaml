@@ -1,0 +1,55 @@
+summary: Starfsfólk sjúkraskráa tryggir að sjúklingaskrár og rekstrarskrár séu búnar til, geymdar, raktar, sóttar og þeim fargað rétt, hvort sem þær eru á pappír eða í stafrænum kerfum. Það heldur skrám aðgengilegum fyrir umönnun, ver þær gegn tapi og óheimilum aðgangi og styður færsluna frá pappírsskrám yfir í stafrænar skrár.
+health_context:
+- Sjúklingaskrár verða að vera aðgengilegar þegar klínískt starfsfólk þarf á þeim að halda, svo tafir eða glataðar skrár geta haft bein áhrif á umönnun.
+- Skrár innihalda mjög trúnaðarmál upplýsingar, svo starfsfólk fylgir ströngum reglum um trúnað og aðgang og kann reglulega að lesa átakanlegt efni.
+- Flestar stofnanir geyma bæði pappírsskrár og stafrænar skrár, svo hlutverkið felur í sér skönnun, skráningu og stjórnun blandaðra skráa.
+- Skrár verður að varðveita í ákveðinn tíma samkvæmt varðveisluáætlunum og skjalfesta síðan eða eyða á öruggan hátt, með úttektarslóð.
+- Skráateymi afgreiða oft beiðnir um aðgang að sjúkraskrám, sem hafa lögbundin tímamörk.
+levels:
+- title: Skráaaðstoðarmaður
+  summary: Skjalfestir, sækir, rekur, skannar og undirbýr skrár, fylgir föstu verklagi með náið eftirlit.
+  responsibilities:
+  - Skjalfesta, sækja og rekja pappírsskrár og undirbúa þær fyrir stofur og beiðnir.
+  - Skanna og skrá skrár í rafræna skráakerfið og athuga gæði.
+  - Færa inn og uppfæra skráaupplýsingar nákvæmlega í rakningarkerfum.
+  - Halda skrám öruggum og tilkynna strax um glataðar skrár eða brot.
+  - Flytja og geyma skrár á öruggan hátt, þar á meðal kassa og vagna með sjúkraskrám.
+  qualifications:
+  - Góð færni í lestri, ritun, reikningi og lyklaborðsnotkun.
+  job_evaluation_notes: Líkamleg færni er metin á stigi 3 fyrir hraða og nákvæma skönnun og gagnafærslu. Líkamlegt erfiði endurspeglar tíðan flutning skráa.
+- title: Skráafulltrúi
+  summary: Annast ýmis skráaferli, sum ekki hversdagsleg, svo sem að finna týndar skrár, undirbúa skrár fyrir aðgangsbeiðnir og beita varðveisluáætlunum.
+  responsibilities:
+  - Finna týndar skrár og leysa rakningarvandamál.
+  - Undirbúa skrár fyrir aðgangsbeiðnir og athuga að þær séu fullkomnar fyrir yfirferð.
+  - Beita varðveisluáætlunum og undirbúa skrár fyrir skjalavistun eða örugga eyðingu.
+  - Athuga skannaðar skrár með tilliti til gæða og laga skráningarvillur.
+  - Svara fyrirspurnum klínísks starfsfólks, umönnunarstarfsfólks og sjúklinga um skrár.
+  - Sýna nýjum skráaaðstoðarmönnum hvernig á að fylgja verklagi.
+  qualifications:
+  - Reynsla af skráa- eða umsýsluvinnu, eða menntun á þrepi 3 í viðskiptaumsýslu eða sambærileg reynsla.
+  job_evaluation_notes: Tilfinningalegt erfiði endurspeglar tíða óbeina útsetningu fyrir átakanlegu efni í sjúkraskrám.
+- title: Eldri skráafulltrúi
+  summary: Hefur umsjón með skráateymi dag frá degi og stýrir skráaferlum eins og aðgangsbeiðnum, úttektum og varðveisluyfirferðum.
+  responsibilities:
+  - Hafa umsjón með skráastarfsfólki dag frá degi, úthluta verkum og athuga gæði.
+  - Afgreiða beiðnir um aðgang að sjúkraskrám innan lögbundinna tímamarka, undir leiðsögn samstarfsfólks í upplýsingastjórnun.
+  - Framkvæma úttektir á skjalahaldi og rakningu og skila skýrslu um niðurstöðurnar.
+  - Halda skráarakningu og rafrænum skráakerfum nákvæmum og uppfærðum.
+  - Þjálfa starfsfólk í skráaverklagi og trúnaði.
+  - Rannsaka glataðar skrár og önnur atvik og leggja til úrbætur.
+  qualifications:
+  - Mikil reynsla af sjúkraskráavinnu, eða viðeigandi menntun á stigi sem jafngildir diplómunámi eða sambærileg reynsla.
+- title: Stjórnandi sjúkraskráa
+  summary: Stýrir sjúkraskráaþjónustunni, starfsfólki hennar, kerfum og verklagi og stýrir umbótum, þar á meðal færslunni frá pappírsskrám yfir í stafrænar skrár.
+  responsibilities:
+  - Stýra sjúkraskráaþjónustunni, starfsfólki hennar og frammistöðu.
+  - Skrifa og viðhalda skráaverklagi, í samræmi við stefnu og staðla um skráastjórnun.
+  - Stýra skráarakningu og rafrænum skráakerfum fyrir nokkrar þjónustur.
+  - Stýra skönnunar- og stafrænunarverkefnum og færslunni yfir í stafrænar skrár.
+  - Stýra varðveislu- og förgunaráætluninni og skráaúttektum.
+  - Ráðleggja klínísku starfsfólki, stjórnendum og samstarfsfólki í upplýsingastjórnun um skráastjórnun.
+  qualifications:
+  - Háskólagráða eða fagmenntun í skráa- eða upplýsingastjórnun, eða sambærileg reynsla.
+  - Reynsla af umsjón með skráateymi.
+  job_evaluation_notes: Upplýsingaauðlindir eru metnar á stigi 5 því rekstur skráakerfa fyrir nokkrar þjónustur er aðalverkið.

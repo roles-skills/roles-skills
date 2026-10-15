@@ -1,0 +1,49 @@
+summary: Samningastjórar tryggja að stofnunin fái það sem hún greiðir fyrir eftir að samningur er undirritaður. Þeir stýra frammistöðu birgja, greiðslum, breytingum, deilum, endurnýjunum og útgöngu, og byggja upp tengsl við lykilbirgja. Í stafrænni heilbrigðisstofnun eru margir mikilvægustu samningarnir um klínísk kerfi, skýjahýsingu og tækniþjónustu sem sjúklingar og starfsfólk reiða sig á dag hvern.
+health_context:
+- Rekstrarstöðvun eða bilun klínískra kerfa getur haft áhrif á umönnun sjúklinga, svo samningastjórar fylgjast náið með aðgengi, atvikaviðbrögðum og stuðningsstigum og nota úrræði samninga þegar þörf krefur.
+- Birgjar vinna oft með gögn sjúklinga, svo samningum er stýrt með samstarfsfólki í upplýsingastjórnun og öryggi, þar á meðal skilmálum um persónuvernd, úttektir og meðferð brota.
+- Skipuleggja verður útgöngu og skil gagna frá upphafi, svo að sjúkraskrár geti flust í nýtt kerfi á nothæfu sniði og gömlum afritum sé eytt á öruggan hátt.
+- Samningsbreytingar verða að fylgja reglum um opinber innkaup, svo samningastjórar athuga hvort breyting krefjist nýrra innkaupa.
+- Útgáfur birgja geta breytt hegðun klínísks kerfis, svo samningastjórar tryggja að birgjar uppfylli skyldur um klínískt öryggi.
+levels:
+- title: Samningastjóri
+  summary: Stýrir safni samninga, þar á meðal samningum um tækni og klínísk kerfi, frá gangsetningu til endurnýjunar, innan ramma samningastjórnunar. Einnig kallaður samningafulltrúi.
+  responsibilities:
+  - Stýra safni samninga og halda samningaskrá, skjölum og lykildagsetningum uppfærðum.
+  - Halda reglulegar frammistöðuyfirferðir með birgjum, með þjónustustigum og lykilárangursvísum.
+  - Athuga reikninga gegn samningsskilmálum og leysa reikningsdeilur.
+  - Semja um og afgreiða samningsbreytingar og frávik innan innkaupareglna.
+  - Fylgjast með leyfisnotkun, endurnýjunum og uppsagnarfrestum og skipuleggja endurnýjanir og endurinnkaup þvert á safnið.
+  - Halda útgönguáætlunum og gagnaskrám uppfærðum fyrir hvern samning.
+  - Vinna með samstarfsfólki í upplýsingastjórnun og öryggi að athugunum á persónuvernd og öryggi birgja.
+  qualifications:
+  - Viðurkennd menntun í innkaupum eða samningastjórnun á framhaldsstigi, eða sambærileg reynsla.
+  - Reynsla af stjórnun þjónustusamninga, helst um tækni.
+  job_evaluation_notes: Auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 7. Greining er á stigi 5 fyrir mat á flóknum samningsskilmálum og deilum, áætlanagerð er á stigi 4 fyrir endurnýjanir þvert á safnið og fjárhagslegar auðlindir eru á stigi 4 því starfið stýrir útgjöldum safns þjónustusamninga.
+- title: Eldri samningastjóri
+  summary: Stýrir stefnumótandi samningum og samningum með mikla áhættu hjá stofnuninni, svo sem rafrænu sjúkraskránni og skýjahýsingu, og stýrir samskiptum við lykilbirgja.
+  responsibilities:
+  - Stýra stefnumótandi samningum um klínísk kerfi og tækniþjónustu, þar á meðal gangsetningu nýrra samninga.
+  - Stýra stefnumótandi yfirferðum með lykilbirgjum um frammistöðu, vegvísi, áhættu og umbótaáætlanir.
+  - Nota úrræði samninga, svo sem þjónustuinneignir og úrbótaáætlanir, þegar frammistaða bregst.
+  - Semja um samningsbreytingar, endurnýjanir og lausn deilna.
+  - Skrifa og prófa útgöngu- og yfirfærsluáætlanir, þar á meðal skil gagna á stöðluðum sniðum og örugga eyðingu.
+  - Meta áhættu birgja, svo sem fjárhagslega heilsu, netöryggi og aðfangakeðju, og skipuleggja viðbrögð við bresti birgja.
+  - Leiðbeina og hafa umsjón með samningastjórum.
+  qualifications:
+  - Viðurkennd menntun í innkaupum eða samningastjórnun á framhaldsstigi, eða meistaragráða í tengdri grein, eða sambærileg reynsla.
+  - Mikil reynsla af stjórnun stefnumótandi tæknisamninga eða útvistaðrar þjónustu.
+  job_evaluation_notes: Auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8a. Þekking, greining og svigrúm til athafna eru metin á sniði launaflokks 8a því starfið stýrir stefnumótandi samningum stofnunarinnar með lítið eftirlit. Fjárhagslegar auðlindir eru á stigi 4 því starfið stýrir útgjöldum og eignum þjónustusamninga af miklu virði.
+- title: Leiðandi samningastjóri
+  summary: Stýrir samninga- og birgjastjórnun þvert á stofnunina, mótar ramma samningastjórnunar og stýrir samningateyminu.
+  responsibilities:
+  - Móta ramma stofnunarinnar um samningastjórnun, staðla og verkfæri.
+  - Stýra samningastjórnunarteyminu og safni samninga þess.
+  - Stýra stjórnun mikilvægustu birgjasambandanna og leysa meiriháttar deilur.
+  - Setja staðla um útgönguskipulag og skil gagna og stýra útgöngu úr stefnumótandi samningum.
+  - Skila skýrslu um frammistöðu samninga, birgjaáhættu og sparnað til framkvæmdanefnda.
+  - Ráðleggja um uppsögn, endurinnkaup og brest birgja.
+  qualifications:
+  - Viðurkennd menntun í innkaupum eða samningastjórnun á framhaldsstigi, eða meistaragráða í tengdri grein, eða sambærileg reynsla.
+  - Umfangsmikil reynsla af forystu í samningastjórnun flókinnar þjónustu.
+  job_evaluation_notes: Auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8b. Áætlanagerð er á stigi 5 fyrir ramma samningastjórnunar fyrir alla stofnunina, fjárhagslegar auðlindir eru á stigi 5 því starfið hefur umsjón með samningum þvert á margar þjónustur og fólk er á stigi 4 því það er línustjóri samningateymisins.

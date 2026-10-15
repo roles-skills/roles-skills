@@ -1,0 +1,67 @@
+summary: DevOps-verkfræðingar smíða og reka þau verkfæri, leiðslur, umhverfi og vettvanga sem gera teymum stofnunarinnar kleift að afhenda stafræna heilbrigðisþjónustu á öruggan hátt og oft. Þeir sjálfvirknivæða smíði, prófanir, útgáfur og innviði, gera þjónustu vaktanlega og seiga og hjálpa teymum að halda klínískum kerfum aðgengilegum þegar sjúklingar og klínískt starfsfólk þurfa á þeim að halda.
+health_context:
+- Margar þjónustur styðja umönnun allan sólarhringinn, svo útsetningar, vöktun og endurheimt verða að halda niðurstreymi í lágmarki, einnig utan vinnutíma.
+- Útgáfuleiðslur búa til gögn fyrir klínísk öryggismál, svo sem niðurstöður prófana, breytingaskrár og nákvæma útgáfu sem var sett upp.
+- Umhverfi kunna að geyma trúnaðarupplýsingar um heilsu, svo verkfræðingar stýra aðgangi, vernda leyndarmál og halda raunverulegum gögnum frá prófunarumhverfum.
+- Heilbrigðisþjónusta er algengt skotmark netárása, svo leiðslur og vettvangar byggja inn öryggisskönnun, uppfærslur og prófuð afrit.
+- Sumar þjónustur verða að uppfylla strangar kröfur um aðgengi og endurheimt eftir hamfarir, samþykktar með klínískum leiðtogum og rekstrarleiðtogum.
+levels:
+- title: DevOps-verkfræðingur í iðnnámi
+  responsibilities:
+  - Læra leiðslur, skýjavettvanga og verkfæri teymisins með skipulagðri þjálfun og skuggavinnu.
+  - Gera litlar, vel afmarkaðar breytingar á forskriftum, leiðslum og stillingum undir nánu eftirliti.
+  - Fylgja verklagi um breytingar, öryggi og upplýsingastjórnun fyrir hvert umhverfi.
+  - Aðstoða við að vakta þjónustu og tilkynna viðvaranir til reyndari samstarfsfólks.
+  - Stefna að iðnnámi eða sambærilegu námi.
+  qualifications:
+  - Skráður í, eða stefnir á, iðnnám í DevOps, hugbúnaði eða innviðum, eða sambærilegt.
+  job_evaluation_notes: Þekking er metin á því stigi sem starfið krefst þegar þjálfun er orðin nægileg til að vinna verkið.
+- title: Yngri DevOps-verkfræðingur
+  responsibilities:
+  - Smíða og viðhalda hlutum smíða-, prófana- og útsetningarleiðslna með leiðsögn.
+  - Skrifa innviði sem kóða og sjálfvirknivæðingarforskriftir og prófa þær fyrir notkun.
+  - Halda prófunarumhverfum lausum við raunveruleg gögn sjúklinga og stýra leyndarmálum á öruggan hátt.
+  - Bregðast við vöktunarviðvörunum og styðja atvikaviðbrögð undir leiðsögn.
+  - Skrá útsetningar og breytingar svo þær geti stutt klínískt öryggi og úttektargögn.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða skyldri grein, lokið iðnnám eða sambærileg reynsla.
+  job_evaluation_notes: UK GDaD PCF leggur til launaflokk 4 fyrir bæði stig iðnnema og yngri verkfræðings; þessi viðmiðun setur yngri stigið í launaflokk 5 til að forðast tvö stig í einum launaflokki, því starfið smíðar leiðsluhluta með minna eftirliti.
+- title: DevOps-verkfræðingur
+  responsibilities:
+  - Hanna og smíða leiðslur, umhverfi og vettvangshluta sjálfstætt.
+  - Sjálfvirknivæða öryggisathuganir, svo sem skönnun háðra pakka og gáma, og bregðast við niðurstöðunum.
+  - Smíða vöktun, skráningu og viðvaranir svo teymi sjái vandamál áður en þau hafa áhrif á sjúklinga og starfsfólk.
+  - Skipuleggja og prófa afrit, yfirtöku og endurheimt fyrir þjónustu sem styður umönnun.
+  - Rannsaka og laga vandamál í þjónustu í rekstri, þar á meðal stuðning utan vinnutíma þar sem þjónustan krefst þess.
+  - Leiðbeina yngri DevOps-verkfræðingum og iðnnemum.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða skyldri grein, eða sambærileg reynsla.
+  - Reynsla af smíði og rekstri sjálfvirkra afhendingarleiðslna og skýjainnviða.
+- title: Eldri DevOps-verkfræðingur
+  responsibilities:
+  - Stýra hönnun afhendingarverkfærakeðju og vettvangs fyrir vöru eða hóp þjónustu.
+  - Setja staðla fyrir útgáfur, svo að útsetningar í klínískri þjónustu séu endurtakanlegar, afturkræfar og vel studdar gögnum.
+  - Semja um aðgengi, endurheimtartíma og endurheimtarpunktsmarkmið við þjónustueigendur og klíníska leiðtoga, og hanna til að ná þeim.
+  - Stýra tæknilegum atvikaviðbrögðum og eftirárýni fyrir þá vettvanga sem teymið rekur.
+  - Tryggja að vettvangar uppfylli kröfur um öryggi og upplýsingastjórnun, þar á meðal aðgangsstýringu og skráningu.
+  - Leiðbeina og þróa DevOps-verkfræðinga í teyminu.
+  qualifications:
+  - Mikil reynsla af hönnun og rekstri afhendingarverkfærakeðja og vettvanga, á stigi sem jafngildir meistaragráðu.
+- title: Leiðandi DevOps-verkfræðingur
+  responsibilities:
+  - Stýra DevOps og vettvangsverkfræði fyrir hóp teyma og vera tæknilegur eigandi sameiginlega vettvangsins.
+  - Móta vegvísi til meðallangs tíma fyrir afhendingarverkfæri stofnunarinnar, hýsingu og vaktanleika.
+  - Tryggja að sameiginlegir vettvangar séu seigir, öruggir og færir um að mæta aðgengiskröfum klínískrar þjónustu.
+  - Stýra kostnaði og afkastagetu vettvanga með fjármálum og þjónustueigendum.
+  - Stýra DevOps-fagsamfélaginu og vera línustjóri eða stýra DevOps-verkfræðingum.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í DevOps eða vettvangsverkfræði fyrir flókna þjónustu.
+- title: Aðal DevOps-verkfræðingur
+  responsibilities:
+  - Móta stefnu um hvernig stofnunin smíðar, gefur út, hýsir og rekur stafræna heilbrigðisþjónustu sína.
+  - Ráðleggja æðstu stjórnendum um hýsingu, seiglu, netöryggi og vettvangsfjárfestingar.
+  - Tryggja að áætlanir um samfellu í rekstri og endurheimt eftir hamfarir fyrir mikilvæga klíníska þjónustu séu raunhæfar og prófaðar.
+  - Meta og tala fyrir nýrri tækni og vinnubrögðum og vega nýsköpun á móti öryggi og stöðugleika.
+  - Efla DevOps-getu stofnunarinnar, þar á meðal ráðningar, starfsferla og færniáætlanir.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í DevOps og vettvangsverkfræði þvert á mörg teymi eða stofnanir.

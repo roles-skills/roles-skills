@@ -1,0 +1,66 @@
+summary: Gagnafræðingar nota tölfræði, vélnám og aðrar háþróaðar aðferðir til að finna mynstur í heilbrigðis- og velferðargögnum og smíða líkön sem hjálpa þjónustu að skipuleggja, spá fyrir um og bæta umönnun. Dæmigerð verk eru spár um eftirspurn, að bera kennsl á sjúklinga sem gætu notið góðs af snemmbúnum stuðningi og að meta áhrif þjónustubreytinga. Þeir vinna náið með klínísku starfsfólki og greinendum og tryggja að líkön séu gild, sanngjörn og notuð á öruggan hátt.
+health_context:
+- Líkan sem styður ákvarðanir um sjúklinga getur valdið skaða ef það er rangt eða skekkt, svo líkön eru sannreynd á þeim hópi sem þau verða notuð með og metin með tilliti til klínísks öryggis.
+- Heilbrigðisgögn endurspegla ójafnan aðgang að umönnun, svo líkön geta endurtekið eða aukið heilsufarsójöfnuð nema skekkja sé mæld og brugðist við henni fyrir hvern sjúklingahóp.
+- Sum líkön, svo sem þau sem upplýsa sjúkdómsgreiningu eða meðferð, kunna að vera lögbundin sem lækningatæki, og reglur um gervigreind kunna einnig að gilda.
+- Gagnavísindi krefjast oft tengdra, ítarlegra gagna um sjúklinga, svo vinnan fer fram í öruggu umhverfi, með gervinafnavæddum gögnum, á samþykktum upplýsingastjórnunargrundvelli.
+- Klínískt starfsfólk og sjúklingar þurfa að skilja og treysta niðurstöðum líkans, svo útskýringar og miðlun óvissu á látlausu máli skipta máli.
+levels:
+- title: Gagnafræðingur í starfsnámi
+  responsibilities:
+  - Læra tölfræði- og vélnámsaðferðir teymisins, verkfæri og öruggt vinnulag með skipulagðri þjálfun.
+  - Undirbúa og kanna gervinafnavædd heilbrigðisgagnasöfn undir eftirliti.
+  - Keyra og túlka einfaldar tölfræðigreiningar og athuga niðurstöður með reyndari gagnafræðingi.
+  - Fylgja verklagi um upplýsingastjórnun, afhjúpunarstýringu og siðfræði.
+  - Stefna að iðnnámi í gagnavísindum eða sambærilegu námi.
+  qualifications:
+  - Skráður í, eða stefnir á, iðnnám í gagnavísindum eða sambærilegt.
+  job_evaluation_notes: Þekking er metin á því stigi sem starfið krefst þegar þjálfun er orðin nægileg til að vinna verkið.
+- title: Aðstoðargagnafræðingur
+  responsibilities:
+  - Smíða og prófa einföld tölfræði- og vélnámslíkön, svo sem eftirspurnarspár, með leiðsögn.
+  - Undirbúa og tengja heilbrigðisgagnasöfn til líkanagerðar í öruggu umhverfi.
+  - Mæla hversu vel líkön standa sig fyrir ólíka sjúklingahópa og skila skýrslu um mun.
+  - Kynna niðurstöður og óvissu þeirra fyrir greinendum og þjónustuteymum.
+  - Skjalfesta gagnauppsprettur, aðferðir og forsendur svo hægt sé að endurtaka vinnuna.
+  qualifications:
+  - Háskólagráða í tölulegri grein, iðnnám í gagnavísindum eða sambærileg reynsla.
+- title: Gagnafræðingur
+  responsibilities:
+  - Þróa flókin líkön sjálfstætt, svo sem áhættuflokkun eða spá um legutíma, og velja hentugar aðferðir.
+  - Sannreyna líkön með klínísku starfsfólki og athuga að þau séu nákvæm, sanngjörn og gagnleg á staðbundnum sjúklingagögnum.
+  - Skjalfesta fyrirhugaða notkun hvers líkans, gögn, frammistöðu og takmörk, og leggja gögn til klínískra öryggismála.
+  - Meta áhrif þjónustubreytinga með hentugum tölfræðiaðferðum.
+  - Útskýra líkön og óvissu þeirra fyrir klínískum áheyrendum og áheyrendum sem eru ekki tæknimenntaðir.
+  - Styðja aðstoðargagnafræðinga og gagnafræðinga í starfsnámi.
+  qualifications:
+  - Háskólagráða í tölulegri grein, eða sambærileg reynsla.
+  - Reynsla af smíði og sannreyningu tölfræði- eða vélnámslíkana.
+- title: Aðal gagnafræðingur
+  responsibilities:
+  - Afmarka, hanna og stýra gagnavísindaverkefnum sem styðja þjónustuskipulag og umönnun sjúklinga.
+  - Ákveða hvaða aðferðir, verkfæri og gögn henta, og andmæla áætlunum sem eru ekki framkvæmanlegar eða öruggar.
+  - Skipuleggja sannreyningu, skekkjumat og vöktun líkana með samstarfsfólki í klínísku öryggi og upplýsingastjórnun.
+  - Semja við vöruteymi um hvernig líkön verða sett upp og studd í stórum stíl.
+  - Stýra og þróa lítið teymi gagnafræðinga.
+  qualifications:
+  - Mikil reynsla af afhendingu gagnavísinda, á stigi sem jafngildir meistaragráðu eða doktorsgráðu í megindlegri grein.
+- title: Leiðandi gagnafræðingur
+  responsibilities:
+  - Stýra gagnavísindateymum og setja stefnu þeirra, forgangsröðun og staðla.
+  - Finna tækifæri þar sem gagnavísindi geta bætt umönnun og færa rök fyrir þeim við klíníska leiðtoga og þjónustuleiðtoga.
+  - Tryggja að líkön séu hönnuð, sannreynd og vöktuð svo þau haldist örugg og sanngjörn í notkun.
+  - Leysa flóknar siðferðislegar áskoranir og gagnaáskoranir, svo sem samþykki, skekkju og notkun viðkvæmra gagna.
+  - Byggja upp getu í gagnavísindum með leiðsögn, ráðningum og þjálfun.
+  qualifications:
+  - Umfangsmikil reynsla af forystu gagnavísindateyma.
+  job_evaluation_notes: UK GDaD PCF leggur til bæði leiðandi gagnafræðing og yfirmann gagnavísinda á G7 eða G6. Þessi viðmiðun setur leiðandi gagnafræðing í launaflokk 8a og yfirmanninn í launaflokk 8b, svo stigin tvö eru í ólíkum launaflokkum.
+- title: Yfirmaður gagnavísinda
+  responsibilities:
+  - Móta stefnu í gagnavísindum og gervigreind þvert á stofnunina, í samræmi við stefnu hennar og forgangsröðun.
+  - Stýra siðfræði, öryggi og fullvissu líkana og gervigreindar stofnunarinnar og ráðleggja stjórn um þau.
+  - Hafa umsjón með auðlindum, fjárhagsáætlun og gæðum gagnavísindaafurða.
+  - Vera fulltrúi stofnunarinnar í gagnavísindum og gervigreind gagnvart samstarfsaðilum í heilbrigðis- og velferðarþjónustu, rannsakendum og eftirlitsaðilum.
+  - Byggja upp getu og starfsferla í gagnavísindum þvert á fagstéttir.
+  qualifications:
+  - Umfangsmikil reynsla af forystu gagnavísinda þvert á stofnun.

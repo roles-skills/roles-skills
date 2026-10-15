@@ -1,0 +1,46 @@
+summary: Gagnagreinendur breyta heilbrigðis- og velferðargögnum í upplýsingar sem hjálpa klínísku starfsfólki, stjórnendum og skipuleggjendum að taka ákvarðanir. Þeir undirbúa, tengja og greina gögn úr klínískum, rekstrarlegum og sjúklingaskráðum uppsprettum og kynna þau í skýrslum, mælaborðum og kynningum. Þeir tryggja að greining þeirra sé nákvæm, endurtakanleg og meðhöndli trúnaðargögn sjúklinga á öruggan hátt.
+health_context:
+- Mikið af gögnunum lýsir einstökum sjúklingum, svo greinendur vinna með gervinafnavædd gögn þar sem þeir geta og athuga afurðir með tilliti til hættu á afhjúpun áður en þær eru gefnar út.
+- Heilbrigðisgögn eru skráð með klínískum hugtakakerfum og flokkunum eins og SNOMED CT og ICD, svo greinendur þurfa að vita hvernig kóðar eru notaðir og hvar þeir geta villt um fyrir.
+- Gagnagæði eru ólík milli umönnunarumhverfa og kerfa og eyður hafa oft meiri áhrif á suma sjúklingahópa en aðra, svo greinendur athuga hvort skekkja sé til staðar áður en ályktanir eru dregnar.
+- Greining getur breytt því hvernig þjónusta er skipulögð, fjármögnuð og veitt, svo niðurstöður þurfa skýra fyrirvara og mega ekki ofmeta vissu.
+levels:
+- title: Aðstoðargagnagreinandi
+  responsibilities:
+  - Búa til hversdagslegar skýrslur og mælaborð um starfsemi, biðtíma og þjónustunotkun samkvæmt samþykktum aðferðum.
+  - Hreinsa og undirbúa gagnaúttök úr sjúklingaumsýslukerfum, klínískum kerfum og rekstrarkerfum undir eftirliti.
+  - Athuga afurðir gegn reglum um gagnagæði og tilkynna vandamál til réttra gagnaeigenda.
+  - Beita bælingu lítilla talna og öðrum afhjúpunarreglum áður en niðurstöður eru deilt.
+  - Svara einföldum gagnabeiðnum frá klínískum teymum og rekstrarteymum.
+  qualifications:
+  - Háskólagráða í tölulegri grein, iðnnám í greiningu eða sambærileg reynsla.
+- title: Gagnagreinandi
+  responsibilities:
+  - Hanna og framkvæma greiningar sem svara spurningum frá klínískum teymum, rekstrarteymum og skipulagsteymum.
+  - Tengja gögn á sjúklingastigi úr ólíkum uppsprettum á öruggan hátt, með gervinafnavæddum auðkennum og samþykktum tengiaðferðum.
+  - Skrifa endurtakanlegan greiningarkóða og skjalfesta aðferðir, forsendur og gagnauppsprettur.
+  - Útskýra niðurstöður og takmörk þeirra fyrir klínísku starfsfólki og stjórnendum á látlausu máli.
+  - Athuga greiningu með tilliti til skekkju þvert á sjúklingahópa, til dæmis eftir aldri, kyni, uppruna og skorti.
+  - Styðja aðstoðargreinendur og fara yfir vinnu þeirra.
+  qualifications:
+  - Háskólagráða í tölulegri grein, eða sambærileg reynsla.
+  - Reynsla af greiningu og kynningu flókinna gagna.
+- title: Eldri gagnagreinandi
+  responsibilities:
+  - Stýra greiningu fyrir þjónustusvið, svo sem bráðaþjónustu, krabbamein eða geðheilsu, og samþykkja forgangsröðun með leiðtogum þess.
+  - Setja aðferðir og gæðatryggingu fyrir greiningu teymisins, þar á meðal jafningjayfirferð kóða og afurða.
+  - Stýra flóknum tengiverkefnum þvert á umönnunarumhverfi og samþykkja upplýsingastjórnunargrundvöll þeirra.
+  - Kynna niðurstöður fyrir æðri klínískum hópum og stjórnendahópum og ráðleggja um hvað þær þýða fyrir þjónustu.
+  - Vinna með gagnaverkfræðingum og gagnaeigendum að því að laga rót lélegra gagnagæða.
+  - Leiðbeina og þróa greinendur í teyminu.
+  qualifications:
+  - Mikil reynsla af forystu í gagnagreiningu, á stigi sem jafngildir meistaragráðu.
+- title: Aðal gagnagreinandi
+  responsibilities:
+  - Setja staðla stofnunarinnar fyrir gagnagreiningu, gæðatryggingu og endurtakanlega greiningarvenju.
+  - Ráðleggja framkvæmda- og klínískum leiðtogum um sönnunargögnin að baki stórum ákvörðunum um þjónustu og fjárfestingar.
+  - Stýra greiningarsamfélaginu, þar á meðal þjálfun, verkfærum og starfsþróun þess.
+  - Móta fyrirkomulag gagnamiðlunar og tengingar við samstarfsaðila í heilbrigðis- og velferðarþjónustu.
+  - Vera línustjóri eldri greinenda og tryggja að teymið hafi þá getu og færni sem það þarf.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í gagnagreiningu þvert á stofnun.

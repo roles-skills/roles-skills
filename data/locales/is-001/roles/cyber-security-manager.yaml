@@ -1,0 +1,57 @@
+summary: Netöryggisstjórar stýra nálgun stofnunarinnar við að vernda kerfi sín, gögn og þjónustu gegn netógnum. Þeir móta öryggisstefnu, stýra netáhættu, hafa umsjón með öryggisrekstri og -verkfræði, stýra viðbrögðum við meiriháttar netatvikum og byggja upp öryggismeðvitaða menningu. Í heilbrigðisþjónustu tryggja þeir að klínísk þjónusta geti haldið áfram á öruggan hátt, og náð sér fljótt, þegar árás á sér stað.
+health_context:
+- Netárás á heilbrigðisstofnun getur stöðvað klínísk kerfi og stofnað sjúklingum í hættu, svo netöryggi er hluti af öryggi sjúklinga og samfellu í rekstri.
+- Heilbrigðisstofnanir þurfa oft að uppfylla netöryggisstaðla geirans og tilkynna alvarleg atvik til viðeigandi yfirvalda.
+- Klínískt starfsfólk þarf skjótan aðgang að kerfum, svo öryggisstefnur eru hannaðar með klínísku starfsfólki og prófaðar með tilliti til nothæfis.
+- Öryggi veltur á mörgum birgjum, þar á meðal birgjum klínískra kerfa og sameiginlegrar þjónustu, svo trygging gagnvart birgjum er kjarni hlutverksins.
+- Lækningatæki og eldri kerfi skapa langvarandi áhættu sem er stýrt með klínískri verkfræði og teymum í klínísku öryggi.
+levels:
+- title: Netöryggisstjóri
+  summary: Netöryggisstjóri stýrir netöryggissviðinu, eða stórum hluta þess, og stýrir netáhættu, öryggisrekstri og fullvissu.
+  responsibilities:
+  - Stýra öryggisrekstri, veikleikastjórnun og fullvissuvinnu og skila skýrslu um frammistöðu þeirra.
+  - Viðhalda netáhættuskrá og tryggja að áhætta fyrir klíníska þjónustu sé metin og hafi eiganda.
+  - Skrifa og viðhalda öryggisstefnum og stöðlum og athuga að þeim sé fylgt.
+  - Stýra viðbrögðum við netatvikum, í samstarfi við atvikastjórnun og klíníska leiðtoga og rekstrarleiðtoga.
+  - Halda öryggisvitundarþjálfun og vefveiðiæfingar fyrir allt starfsfólk, þar á meðal klínískt starfsfólk.
+  - Vera línustjóri öryggisgreinenda og -verkfræðinga.
+  qualifications:
+  - Umfangsmikil reynsla af netöryggi, þar á meðal atvikaviðbrögðum og áhættustýringu, á stigi sem jafngildir meistaragráðu.
+  - Viðurkennd fagvottun í öryggi, eða sambærileg reynsla.
+  job_evaluation_notes: Andlegt og tilfinningalegt erfiði endurspegla forystu í viðbrögðum við netatvikum undir álagi, oft utan vinnutíma, þar sem umönnun sjúklinga getur verið í hættu.
+- title: Eldri netöryggisstjóri
+  summary: Eldri netöryggisstjóri stýrir netöryggi þvert á nokkur teymi, stýrir fullvissu gagnvart stöðlum geirans og stýrir öryggisumbótaáætlun stofnunarinnar.
+  responsibilities:
+  - Stýra netöryggisteymum þvert á rekstur, verkfræði og fullvissu.
+  - Stýra netöryggisumbótaáætlun stofnunarinnar og stýra fjárhagsáætlun hennar.
+  - Stýra fullvissu gagnvart netöryggisstöðlum geirans og ISO/IEC 27001-stýringum og undirbúa gögn fyrir úttektir.
+  - Stýra viðbrögðum við meiriháttar netatvikum og skipuleggja og prófa endurheimt með leiðtogum samfellu í rekstri og klínískum leiðtogum.
+  - Meta öryggi birgja og sameiginlegrar þjónustu og samþykkja öryggiskröfur í samningum.
+  - Ráðleggja áætlunarstjórnum um öryggisáhættu nýrrar klínískrar og stafrænnar þjónustu.
+  qualifications:
+  - Umfangsmikil reynsla af forystu netöryggisteyma í flókinni stofnun.
+  - Viðurkennd fagvottun í öryggi, eða sambærileg reynsla.
+  job_evaluation_notes: Andlegt og tilfinningalegt erfiði endurspegla forystu í viðbrögðum við meiriháttar netatvikum, sem geta staðið dögum eða vikum saman og ógnað umönnun sjúklinga.
+- title: Yfirmaður netöryggis
+  summary: Yfirmaður netöryggis mótar netöryggisstefnu stofnunarinnar og ber ábyrgð á netáhættustýringu hennar, öryggisrekstri og viðbrögðum við meiriháttar atvikum.
+  responsibilities:
+  - Móta netöryggisstefnu í samræmi við stafræna og klíníska stefnu stofnunarinnar.
+  - Ráðleggja stjórn og framkvæmdastjórn um netáhættu, áhættuvilja og fjárfestingar.
+  - Stýra viðbrögðum stofnunarinnar við meiriháttar netatvikum, þar á meðal samskiptum við eftirlitsaðila, samstarfsaðila og almenning.
+  - Byggja upp öryggismenningu þar sem allt starfsfólk, þar á meðal klínískt starfsfólk, skilur ógnir og tilkynnir þær.
+  - Vera fulltrúi stofnunarinnar í netöryggisnetum heilbrigðisþjónustu og gagnvart samstarfsstofnunum.
+  - Stýra og þróa netöryggissviðið og stýra fjárhagsáætlun þess.
+  qualifications:
+  - Umfangsmikil reynsla af forystu netöryggis fyrir stóra stofnun, þar á meðal viðbrögðum við meiriháttar atvikum.
+- title: Yfirmaður upplýsingaöryggis
+  summary: Yfirmaður upplýsingaöryggis ber ábyrgð á netöryggi þvert á stofnunina á vettvangi stofnunarinnar, og oft þvert á samstarfsstofnanir sem deila þjónustu hennar.
+  responsibilities:
+  - Bera ábyrgð á netöryggi á vettvangi stofnunarinnar og skila skýrslu um það til stjórnar.
+  - Setja öryggisáhættuvilja með stjórn og tryggja að hann móti ákvarðanir þvert á stofnunina.
+  - Stýra netöryggi þvert á sameiginlega þjónustu og samstarfsstofnanir, þar sem stofnunin veitir hana.
+  - Stýra viðbrögðum stofnunarinnar við alvarlegustu netatvikum, í samstarfi við framkvæmdastjórn og viðeigandi yfirvöld.
+  - Móta netöryggisframkvæmd í heilbrigðis- og velferðargeiranum með samstarfi við samstarfsaðila og stofnanir geirans.
+  - Stýra öryggissviðinu og hafa fjárhagsáætlanir þvert á nokkrar þjónustur.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í netöryggi á stjórnarstigi, eða fyrir fleiri stofnanir.
+  job_evaluation_notes: Þetta stig á við stærri stofnanir, eða þær sem veita samstarfsaðilum sameiginlega stafræna þjónustu. Minni stofnanir hafa yfirleitt yfirmann netöryggis í launaflokki 8c sem æðsta öryggishlutverk sitt.

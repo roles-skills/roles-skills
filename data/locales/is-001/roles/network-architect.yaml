@@ -1,0 +1,39 @@
+summary: Netarkitektar hanna þau staðarnet, víðnet, þráðlausu net og skýjanet sem tengja starfsstöðvar stofnunarinnar, starfsfólk, klínísk kerfi og lækningatæki. Þeir tryggja að net séu hröð, seig og nægilega örugg fyrir umönnun sem aldrei stöðvast, og skipuleggja hvernig net breytast þegar þjónusta færist í skýið og tengist samstarfsstofnunum.
+health_context:
+- Klínísk kerfi, símkerfi og lækningatæki velta á netinu, svo rekstrarstöðvun getur stöðvað umönnun; hönnun þarf seiglu og prófaða yfirtöku.
+- Net flytja oft tengd lækningatæki sem erfitt er að uppfæra, svo arkitektar hanna skiptingu og vöktun til að vernda þau.
+- Starfsfólk vinnur á sjúkrahúsum, stofum, í samfélagsumhverfi og á heimilum sjúklinga, svo hönnun verður að styðja örugga farsíma- og fjaraðgang.
+- Net tengjast sameiginlegum heilbrigðis- og velferðarnetum og samstarfsstofnunum, sem setja eigin kröfur um tengingar og öryggi.
+- Breytingar á klínískum svæðum þurfa vandaða skipulagningu í kringum umönnun sjúklinga, til dæmis að tímasetja vinnu utan annatíma.
+levels:
+- title: Aðstoðarnetarkitekt
+  responsibilities:
+  - Semja drög að nethönnun, skýringarmyndum og lýsingum með leiðsögn netarkitekta.
+  - Kanna starfsstöðvar og afla krafna fyrir klínísk svæði, þar á meðal þráðlausa þekju og tækjatengingar.
+  - Halda skrám um netskipulag, vistföng og tengd tæki uppfærðum.
+  - Athuga að hönnun uppfylli þjónustustig og öryggisstaðla fyrir yfirferð.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða netkerfum, viðurkennd menntun í netkerfum eða sambærileg reynsla.
+  - Sérhæfð þekking á nethönnun, á stigi framhaldsdiplóma eða sambærileg reynsla.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 5): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 6. Þekking er metin á stigi framhaldsdiplóma, og upplýsingaauðlindir á stigi 5 því starfið hannar hluta netsins sem stór upplýsingakerfi velta á.'
+- title: Netarkitekt
+  responsibilities:
+  - Hanna lausnir fyrir staðarnet, víðnet, þráðlaus net og skýjanet fyrir starfsstöðvar og þjónustu.
+  - Hanna netskiptingu fyrir lækningatæki, klínísk kerfi og gestaaðgang.
+  - Skipuleggja netbreytingar á klínískum svæðum með þjónustuleiðtogum svo umönnun raskist ekki.
+  - Semja um þjónustustig við birgja og tengikröfur við samstarfsnet.
+  - Meta nýja nettækni og hvernig hún fellur að öryggisstöðlum stofnunarinnar.
+  qualifications:
+  - Sérhæfð þekking á netarkitektúr, á meistarastigi eða sambærileg reynsla.
+  - Reynsla af hönnun og stuðningi við fyrirtækjanet.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 6): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 7. Þekking er metin á meistarastigi eða sambærilegu fyrir sérhæfða þekkingu þvert á staðarnet, víðnet, þráðlaus net og skýjanet.'
+- title: Leiðandi netarkitekt
+  responsibilities:
+  - Bera ábyrgð á netarkitektúr stofnunarinnar, þar á meðal starfsstöðvum hennar, gagnaverum og skýjatengingum.
+  - Setja nethönnunarstaðla og tryggja hönnun hjá hönnunarnefndinni.
+  - Hanna netseiglu og endurheimt fyrir mikilvæga klíníska þjónustu og tryggja að hún sé prófuð.
+  - Ráðleggja um netfjárfestingar, birgjasamninga og netáhættu nýrrar þjónustu.
+  - Vera sérfræðilegur yfirflutningsstaður og leiðbeina öðrum netarkitektum og verkfræðingum.
+  qualifications:
+  - Mikil reynsla af netarkitektúr fyrir flóknar stofnanir, á stigi sem jafngildir meistaragráðu.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 7): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8a. Upplýsingaauðlindir eru á stigi 6 því starfið ber ábyrgð á þeim netarkitektúr sem öll upplýsingakerfi stofnunarinnar velta á.'

@@ -1,0 +1,54 @@
+summary: Greiningarverkfræðingar breyta hráum heilbrigðis- og velferðargögnum í hrein, prófuð og skjalfest gagnalíkön sem greinendur, gagnafræðingar og skýrslutól geta reitt sig á. Þeir sitja milli gagnaverkfræði og greiningar og beita hugbúnaðarverkfræðilegum aðferðum, svo sem útgáfustýringu, prófunum og kóðayfirferð, á þær umbreytingar sem liggja að baki skýrslum og mælaborðum stofnunarinnar.
+health_context:
+- Gagnalíkön fela í sér klínískar og rekstrarlegar skilgreiningar, svo sem hvað telst innlögn, endurinnlögn eða brot á viðmiði um biðtíma, svo skilgreiningar eru samþykktar með klínískum leiðtogum og rekstrarleiðtogum.
+- Klínískum kóðum úr hugtakakerfum og flokkunum á borð við SNOMED CT og ICD er safnað í viðmiðunarmengi til greiningar, sem krefjast vandaðrar útgáfustýringar.
+- Líkön sem notuð eru í frammistöðu- og fjármögnunarskýrslum verða að vera samkvæm og rekjanleg, því villur geta haft áhrif á ákvarðanir um þjónustu við sjúklinga.
+- Líkön geyma oft gervinafnavædd gögn á sjúklingastigi, svo aðgangsstýring, skjölun og gagnasparsemi eru byggð inn.
+levels:
+- title: Greiningarverkfræðingur í starfsnámi
+  responsibilities:
+  - Læra gagnalíkanaverkfæri og vinnubrögð teymisins með þjálfun og pörun.
+  - Gera litlar, vel afmarkaðar breytingar á gagnalíkönum undir eftirliti.
+  - Skjalfesta gagnaatriði og skilgreiningar þeirra í gagnaskránni.
+  - Svara einföldum spurningum frá gagnanotendum og skrá kröfur þeirra.
+  - Fylgja reglum um upplýsingastjórnun þegar unnið er með sjúklingagögn.
+  qualifications:
+  - Skráður í, eða stefnir á, gagnatengt iðnnám eða sambærilegt.
+  job_evaluation_notes: Þekking er metin á því stigi sem starfið krefst þegar þjálfun er orðin nægileg til að vinna verkið.
+- title: Greiningarverkfræðingur
+  responsibilities:
+  - Smíða og prófa gagnalíkön fyrir þjónustusvið, svo sem starfsemi legudeilda eða samfélagsþjónustu, út frá samþykktum hönnunum.
+  - Skrifa sjálfvirk próf sem athuga gagnalíkön gegn samþykktum klínískum og rekstrarlegum skilgreiningum.
+  - Viðhalda viðmiðunarmengjum klínískra kóða sem notuð eru í greiningu, með skýrum útgáfum.
+  - Skjalfesta líkön svo greinendur skilji merkingu þeirra, uppsprettur og takmörk.
+  - Þjálfa og styðja notendur gagnamengja teymisins.
+  qualifications:
+  - Háskólagráða í tölulegri grein eða tölvunarfræði, eða sambærileg reynsla.
+  - Reynsla af smíði gagnalíkana eða greiningarkóða.
+- title: Eldri greiningarverkfræðingur
+  responsibilities:
+  - Hafa umsjón með hönnun og prófun gagnalíkana þvert á nokkur þjónustusvið.
+  - Samþykkja skilgreiningar lykilmælikvarða með klínískum leiðtogum, rekstrarleiðtogum og fjármálaleiðtogum, og tryggja að líkön beiti þeim samkvæmt.
+  - Tryggja að líkön sem næra frammistöðu- og fjármögnunarskýrslur séu rekjanleg og vel prófuð.
+  - Leysa gagnavandamál og áhættu með gagnaverkfræðingum og gagnaeigendum.
+  - Leiðbeina og stýra vinnu annarra greiningarverkfræðinga.
+  qualifications:
+  - Mikil reynsla af gagnalíkönum og greiningarverkfræði, á stigi sem jafngildir meistaragráðu.
+- title: Leiðandi greiningarverkfræðingur
+  responsibilities:
+  - Stýra teymi sem hannar, smíðar og viðheldur greiningargagnalíkönum stofnunarinnar.
+  - Setja staðla fyrir gagnalíkön, próf, skjölun og skilgreiningar mælikvarða.
+  - Vinna með teymum þvert á stofnunina til að skilja hvernig klínísk ferli og rekstrarferli búa til gögn.
+  - Fara yfir vinnu annarra greiningarverkfræðinga og bæta vinnulag teymisins.
+  - Vera línustjóri greiningarverkfræðinga.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í greiningarverkfræði eða gagnalíkönum.
+- title: Yfirmaður greiningarverkfræði
+  responsibilities:
+  - Móta stefnu stofnunarinnar í greiningargagnalíkönum, svo að greining þvert á stofnunina byggi á einu traustu safni skilgreininga.
+  - Tryggja að forgangsröðun í greiningarverkfræði styðji stefnu og skýrsluskyldur stofnunarinnar.
+  - Ráðleggja æðstu stjórnendum um áreiðanleika gagnanna að baki stórum skýrslum og ákvörðunum.
+  - Tryggja að fagsamfélagið hafi þau verkfæri og þá vettvanga sem það þarf, og stýra tengdri fjárhagsáætlun.
+  - Byggja upp getu í greiningarverkfræði með tæknilegri forystu og starfsþróun.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í greiningarverkfræði þvert á stofnun.

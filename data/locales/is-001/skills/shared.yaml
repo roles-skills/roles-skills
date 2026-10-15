@@ -1,0 +1,423 @@
+# Icelandic translations of data/skills/shared.yaml. Keys are the English skill ids.
+health-care-context:
+  name: Skilningur á heilbrigðis- og velferðarþjónustu
+  description: Að skilja hvernig heilbrigðis- og velferðarþjónusta er skipulögð og veitt, hvernig klínískt starfsfólk og umönnunarstarfsfólk vinnur og hvernig stafræn þjónusta styður umönnun sjúklinga.
+  levels:
+    awareness: |
+      Þú getur:
+      - lýst helstu hlutum heilbrigðis- og velferðarkerfisins og þeirri þjónustu sem stofnunin styður
+      - útskýrt hvers vegna öryggi sjúklinga og trúnaður skipta máli í vinnu þinni
+    working: |
+      Þú getur:
+      - útskýrt það klíníska vinnuflæði og umönnunarvinnuflæði sem vinna þín styður
+      - notað algeng heilbrigðishugtök rétt með klínísku samstarfsfólki og umönnunarsamstarfsfólki
+      - greint hvenær breyting gæti haft áhrif á umönnun sjúklinga og vakið máls á því
+    practitioner: |
+      Þú getur:
+      - greint hvernig þjónusta fellur að umönnunarleiðum þvert á stofnanir
+      - unnið með klínísku starfsfólki, umönnunarstarfsfólki og sjúklingum að því að móta stafræna þjónustu
+      - útskýrt áhrif stafrænna ákvarðana á umönnun, öryggi og vinnuálag starfsfólks
+    expert: |
+      Þú getur:
+      - mótað stefnu stofnunarinnar út frá djúpum skilningi á heilbrigðis- og velferðarkerfinu
+      - verið fulltrúi stofnunarinnar gagnvart samstarfsaðilum og leiðtogum í heilbrigðis- og velferðarþjónustu
+      - séð fyrir hvernig stefnu- og þjónustubreytingar munu hafa áhrif á stafræna þjónustu og umönnun
+clinical-safety:
+  name: Klínísk áhættustýring
+  description: Að greina, meta og stýra þeirri áhættu sem heilbrigðisupplýsingakerfi geta valdið sjúklingum, með ferli klínískrar áhættustýringar, hættuskrám og öryggismálum (til dæmis samkvæmt ISO 14971 og IEC 80001-1).
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvernig heilbrigðisupplýsingakerfi geta skaðað sjúklinga, til dæmis með röngum, vantandi eða seinkuðum upplýsingum
+      - tilkynnt mögulegt klínískt öryggisvandamál rétta leið
+    working: |
+      Þú getur:
+      - tekið þátt í hættuvinnustofum og lagt til hættuskrár
+      - fylgt ferli klínískrar áhættustýringar í vinnu þinni
+      - lagt fram gögn fyrir klínískt öryggismál, svo sem niðurstöður prófana
+    practitioner: |
+      Þú getur:
+      - stýrt greiningu hætta og áhættumati fyrir vöru eða breytingu
+      - skrifað og viðhaldið hættuskrám og skýrslum um klínísk öryggismál
+      - samþykkt áhættustýringar með vöruteymum og athugað að þær virki
+      - ráðlagt teymum um beitingu staðla um klíníska áhættustýringu
+    expert: |
+      Þú getur:
+      - borið ábyrgð á kerfi klínískrar áhættustýringar fyrir stofnunina
+      - mótað stefnu um klínískt öryggi og tryggt öryggismál fyrir stór kerfi
+      - stýrt viðbrögðum við alvarlegum öryggisatvikum tengdum heilbrigðisupplýsingatækni
+      - byggt upp menningu klínísks öryggis þvert á stafræn teymi
+health-data-interoperability:
+  name: Samvirkni heilbrigðisgagna
+  description: Að skiptast á heilbrigðis- og velferðargögnum á öruggan og samræmdan hátt milli kerfa með opnum stöðlum eins og HL7 FHIR, HL7 útgáfu 2, IHE-sniðum og stöðluðum forritaskilum.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna samvirkni skiptir máli fyrir samtengda umönnun
+      - nefnt helstu staðla fyrir gagnaskipti í heilbrigðisþjónustu, svo sem HL7 FHIR
+    working: |
+      Þú getur:
+      - lesið og notað FHIR-auðlindir, snið og forritaskil
+      - smíðað eða prófað einfaldar samþættingar undir leiðsögn
+      - athugað skilaboð gegn lýsingu
+    practitioner: |
+      Þú getur:
+      - hannað og smíðað samþættingar með FHIR, HL7 útgáfu 2 og skilaboðamynstrum
+      - skrifað og sniðið FHIR-auðlindir og innleiðingarleiðbeiningar
+      - leyst flókin vandamál í vörpun og gagnagæðum milli kerfa
+    expert: |
+      Þú getur:
+      - mótað samvirknistaðla og stefnu stofnunarinnar
+      - stýrt landsbundinni staðlavinnu eða staðlavinnu þvert á stofnanir
+      - tryggt hönnun mikilvægra samþættinga þvert á mörg kerfi
+clinical-terminology:
+  name: Klínísk hugtök og flokkun
+  description: Að nota klínísk hugtakakerfi og flokkanir, svo sem SNOMED CT, ICD og LOINC, til að skrá og skiptast á klínískri merkingu með samræmdum hætti.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt muninn á klínísku hugtakakerfi og flokkun
+      - greint algeng hugtakakerfi eins og SNOMED CT og ICD
+    working: |
+      Þú getur:
+      - fundið og notað réttu kóðana fyrir gagnaatriði eða eyðublað
+      - notað hugtakavafra og viðmiðunarmengi
+    practitioner: |
+      Þú getur:
+      - hannað gagnalíkön og viðmiðunarmengi með klínískum hugtakakerfum
+      - varpað milli hugtakakerfa og flokkana og útskýrt takmörk vörpunar
+      - ráðlagt teymum um notkun hugtakakerfa í vörum og greiningu
+    expert: |
+      Þú getur:
+      - mótað hugtakakerfisstefnu stofnunarinnar
+      - stýrt útgáfum hugtakakerfa, stjórnarháttum og gæðatryggingu
+      - verið fulltrúi stofnunarinnar í staðlastofnunum um hugtakakerfi
+information-governance:
+  name: Upplýsingastjórnun og persónuvernd
+  description: Að meðhöndla persónuupplýsingar og heilbrigðisupplýsingar á lögmætan, öruggan og siðferðilegan hátt, þar á meðal persónuverndarlög, trúnað, samþykki, persónuverndarmat og upplýsingamiðlun.
+  levels:
+    awareness: |
+      Þú getur:
+      - fylgt reglum stofnunarinnar um meðferð persónuupplýsinga og heilbrigðisupplýsinga
+      - greint og tilkynnt gagnabrot eða næstum því atvik
+    working: |
+      Þú getur:
+      - beitt persónuverndarreglum í vinnu þinni
+      - lagt til persónuverndarmats
+      - meðhöndlað upplýsingabeiðnir og skrár rétt
+    practitioner: |
+      Þú getur:
+      - stýrt persónuverndarmati og upplýsingamiðlunarsamningum
+      - ráðlagt teymum um lagalegan grundvöll, samþykki, trúnað og varðveislu
+      - rannsakað atvik og lagt til úrbætur
+    expert: |
+      Þú getur:
+      - mótað stefnu og áætlun í upplýsingastjórnun
+      - ráðlagt stjórn um upplýsingaáhættu og fylgni
+      - verið fulltrúi stofnunarinnar gagnvart eftirlitsaðilum og samstarfsaðilum
+medical-device-regulation:
+  name: Regluverk um hugbúnað sem lækningatæki
+  description: Að skilja hvenær hugbúnaður er lækningatæki og hvaða staðlar og ferli gilda um hann, svo sem IEC 62304 og ISO 13485.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt að sumur heilbrigðishugbúnaður er lögbundinn sem lækningatæki
+      - vitað hvern á að spyrja þegar vara kann að vera lækningatæki
+    working: |
+      Þú getur:
+      - fylgt líftímaferli hugbúnaðar sem uppfyllir staðla um lækningatæki
+      - búið til þær skrár sem slíkt ferli krefst
+    practitioner: |
+      Þú getur:
+      - metið hvort vara sé lækningatæki og líklegan flokk hennar
+      - skipulagt regluverksvinnu fyrir vöru með samstarfsfólki í gæðum og klínískum málum
+    expert: |
+      Þú getur:
+      - mótað nálgun stofnunarinnar við lögbundinn hugbúnað
+      - stýrt samskiptum við eftirlitsaðila og tilkynntar skoðunarstofur
+people-management:
+  name: Mannauðsstjórnun
+  description: Að stýra, þróa og styðja starfsfólk, þar á meðal ráðningar, markmið, starfsmannasamtöl, vellíðan, mætingu og að stýra frammistöðu og framkomu á sanngjarnan hátt.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt þær mannauðsstefnur stofnunarinnar sem hafa áhrif á þig
+      - stutt nýtt samstarfsfólk og miðlað þekkingu
+    working: |
+      Þú getur:
+      - haft umsjón með daglegri vinnu og gefið endurgjöf
+      - tekið þátt í ráðningum og móttöku nýliða
+      - haldið reglulega einstaklingssamtöl
+    practitioner: |
+      Þú getur:
+      - verið línustjóri teymis, sett markmið og haldið starfsmannasamtöl
+      - stutt vellíðan og stýrt mætingu, frammistöðu og framkomu
+      - skipulagt þróun og eftirmannaáætlun teymisins
+    expert: |
+      Þú getur:
+      - stýrt stjórnendum og mótað menningu stórs sviðs
+      - hannað mannaflaáætlanir og skipulagsbreytingar
+      - leiðbeint leiðtogum og leyst flókin mannauðsmál
+equality-diversity-inclusion:
+  name: Jafnrétti, fjölbreytni og aðgreiningarleysi
+  description: Að koma sanngjarnt fram við fólk, meta mun og hanna þjónustu og vinnustaði sem ná til allra.
+  levels:
+    awareness: |
+      Þú getur:
+      - komið fram við samstarfsfólk, sjúklinga og almenning af reisn og virðingu
+      - fylgt stefnum um jafnrétti og aðgreiningarleysi
+    working: |
+      Þú getur:
+      - greint og véfengt hegðun sem útilokar aðra
+      - tekið tillit til ólíkra þarfa þegar þú skipuleggur vinnu þína
+    practitioner: |
+      Þú getur:
+      - framkvæmt jafnræðisáhrifamat
+      - byggt upp teymi og vinnubrögð án aðgreiningar
+    expert: |
+      Þú getur:
+      - mótað stefnu um aðgreiningarleysi og dregið stofnunina til ábyrgðar fyrir henni
+      - stýrt menningarbreytingu í jafnrétti, fjölbreytni og aðgreiningarleysi
+health-safety-wellbeing:
+  name: Heilbrigði, öryggi og vellíðan
+  description: Að halda sjálfum þér og öðrum öruggum og heilbrigðum í vinnunni, þar á meðal áhættumat, örugg vinnubrögð og atvikatilkynningar.
+  levels:
+    awareness: |
+      Þú getur:
+      - fylgt reglum um öryggi og heilbrigði og tilkynnt hættur og atvik
+    working: |
+      Þú getur:
+      - framkvæmt einfalt áhættumat, svo sem mat á vinnustöð
+      - hjálpað samstarfsfólki að vinna á öruggan hátt
+    practitioner: |
+      Þú getur:
+      - stýrt öryggi og heilbrigði fyrir teymi eða starfsstöð
+      - rannsakað atvik og sett upp stýringar
+    expert: |
+      Þú getur:
+      - mótað stefnu stofnunarinnar um heilbrigði, öryggi og vellíðan
+      - skilað skýrslu um öryggisframmistöðu til stjórnar
+budget-management:
+  name: Fjárhagsáætlunarstjórnun
+  description: Að skipuleggja, vakta og stýra fjárhagsáætlun, þar á meðal spár, stjórnun frávika og að fylgja fjármálareglum.
+  levels:
+    awareness: |
+      Þú getur:
+      - fylgt reglum um útgjöld og pantanir
+      - útskýrt hvernig vinna þín er fjármögnuð
+    working: |
+      Þú getur:
+      - fylgst með útgjöldum gegn lítilli fjárhagsáætlun og vakið athygli á frávikum
+      - heimilað útgjöld innan marka þinna
+    practitioner: |
+      Þú getur:
+      - haft fjárhagsáætlun á þinni könnu og stýrt henni, spáð og útskýrt frávik
+      - smíðað viðskiptarök með kostnaði og ávinningi
+    expert: |
+      Þú getur:
+      - stýrt stórum eða mörgum fjárhagsáætlunum og mótað fjárhagsáætlanir
+      - tekið fjármögnunarmálamiðlanir þvert á þjónustur
+project-management:
+  name: Verkefnastjórnun
+  description: Að skipuleggja, afhenda og ljúka verkefnum innan samþykkts umfangs, tíma, kostnaðar og gæða, með viðurkenndri aðferð eins og PRINCE2, PM² eða lipru vinnulagi.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt stig verkefnis og helstu hlutverk í því
+      - haldið verkefnaskrár eins og aðgerðaskrár
+    working: |
+      Þú getur:
+      - viðhaldið áætlunum, áhættu- og vandamálaskrám og skýrslum
+      - stýrt verkefnafundum og fylgst með aðgerðum
+      - stýrt litlu, vel afmörkuðu verkefni með stuðningi
+    practitioner: |
+      Þú getur:
+      - stýrt verkefnum frá upphafi til loka og stýrt umfangi, tíma, kostnaði og gæðum
+      - stýrt áhættu, vandamálum, háðum og breytingastýringu
+      - skilað skýrslu til verkefnastjórna og stýrt birgjum
+    expert: |
+      Þú getur:
+      - stýrt stórum, flóknum verkefnum eða verkefnum með mikla áhættu
+      - sett staðla í verkefnastjórnun og leiðbeint verkefnastjórum
+      - bjargað verkefnum sem eru að fara illa
+risk-management:
+  name: Áhættustýring stofnunar
+  description: Að greina, meta, skrá og stýra áhættu fyrir markmið stofnunarinnar, með áhættuskrá og skilgreindum áhættuvilja.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvað áhætta er og hvernig á að vekja máls á henni
+    working: |
+      Þú getur:
+      - skráð og uppfært áhættu fyrir þitt svið
+      - lagt til stýringa og fylgst með aðgerðum
+    practitioner: |
+      Þú getur:
+      - stýrt áhættuferlinu fyrir svið eða áætlun
+      - metið áhættu gegn áhættuvilja og vísað henni upp á við
+      - skilað skýrslu um áhættu til nefnda
+    expert: |
+      Þú getur:
+      - hannað áhættustýringarramma og áhættuvilja stofnunarinnar
+      - ráðlagt stjórn um stefnumótandi áhættu
+security-operations:
+  name: Öryggisrekstur
+  description: Að vakta kerfi með tilliti til öryggisógna, forgangsflokka viðvaranir, rannsaka atburði og bregðast við netatvikum, með verkfærum eins og SIEM og endapunktagreiningu.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt algengar netógnir eins og vefveiðar og gíslatökuhugbúnað
+      - tilkynnt grun um öryggisatburð
+    working: |
+      Þú getur:
+      - vaktað viðvaranir og forgangsflokkað þær með rekstrarhandbókum
+      - safnað gögnum og vísað atburðum upp á við
+      - fínstillt einfaldar greiningarreglur undir leiðsögn
+    practitioner: |
+      Þú getur:
+      - rannsakað og afmarkað öryggisatvik
+      - skrifað greiningarreglur og ógnaveiðar
+      - bætt rekstrarhandbækur og verkfæri eftir atvik
+    expert: |
+      Þú getur:
+      - stýrt öryggisrekstrarþjónustunni og stefnu hennar
+      - stýrt viðbrögðum við meiriháttar netatvikum
+      - unnið með landsbundnum öryggisstofnunum og samstarfsaðilum
+vulnerability-management:
+  name: Veikleikastjórnun
+  description: Að finna, meta, forgangsraða og laga tæknilega veikleika, þar á meðal skönnun, innbrotsprófanir og uppfærslur.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna tafarlausar uppfærslur og örugg uppsetning skipta máli
+    working: |
+      Þú getur:
+      - keyrt veikleikaskannanir og skilað skýrslu um niðurstöður
+      - fylgst með lagfæringum með kerfiseigendum
+    practitioner: |
+      Þú getur:
+      - forgangsraðað veikleikum eftir áhættu, þar á meðal fyrir þjónustu við sjúklinga
+      - afmarkað og stýrt innbrotsprófunum og úrbótum
+    expert: |
+      Þú getur:
+      - mótað veikleikastjórnunarstefnu og markmið hennar
+      - skilað skýrslu um tæknilega öryggisáhættu til æðri leiðtoga
+identity-and-access-management:
+  name: Auðkenna- og aðgangsstjórnun
+  description: Að stýra stafrænum auðkennum, auðkenningu og aðgangsrétti fyrir starfsfólk, sjúklinga og kerfi, þar á meðal hlutverkamiðuðum aðgangi og snjallkorti eða fjölþátta auðkenningu.
+  levels:
+    awareness: |
+      Þú getur:
+      - fylgt aðgangsreglum og verndað auðkenni þín
+    working: |
+      Þú getur:
+      - stofnað, breytt og fjarlægt notendareikninga og aðgangsrétt
+      - athugað aðgang gegn reglum um hlutverkamiðaðan aðgang
+    practitioner: |
+      Þú getur:
+      - hannað og rekið auðkenna- og aðgangsþjónustu
+      - yfirfarið aðgang reglulega og lagað vandamál
+    expert: |
+      Þú getur:
+      - mótað auðkenna- og aðgangsstefnu fyrir starfsfólk, sjúklinga og kerfi
+      - stýrt upptöku nýrra auðkennastaðla
+data-quality:
+  name: Gagnagæðastjórnun
+  description: Að skilgreina, mæla og bæta gæði gagna, þar á meðal heilleika, nákvæmni, tímanleika og gildi.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna nákvæm heilbrigðisgögn skipta máli fyrir umönnun og skipulag
+      - skráð gögn nákvæmlega og tilkynnt villur
+    working: |
+      Þú getur:
+      - keyrt gagnagæðaathuganir og leiðrétt villur
+      - útskýrt gagnagæðaskýrslur fyrir samstarfsfólki
+    practitioner: |
+      Þú getur:
+      - skilgreint gagnagæðareglur og mælikvarða
+      - unnið með gagnaveitendum að því að laga rót lélegra gæða
+    expert: |
+      Þú getur:
+      - sett gagnagæðastaðla fyrir stofnunina og samstarfsaðila hennar
+      - stýrt gagnagæðaumbótaáætlunum
+health-records-management:
+  name: Stjórnun sjúkraskráa
+  description: Að stýra heilbrigðis- og velferðarskrám yfir líftíma þeirra, þar á meðal stofnun, skjalavistun, rakningu, aðgang, varðveislu og förgun.
+  levels:
+    awareness: |
+      Þú getur:
+      - skjalfest, fundið og rakið skrár rétt
+      - varið skrár gegn tapi eða óheimilum aðgangi
+    working: |
+      Þú getur:
+      - afgreitt beiðnir um aðgang að skrám
+      - beitt varðveisluáætlunum og skjalahaldsstöðlum
+    practitioner: |
+      Þú getur:
+      - stýrt skráaþjónustu og verklagi hennar
+      - gert úttekt á skjalahaldi og þjálfað starfsfólk
+    expert: |
+      Þú getur:
+      - mótað stefnu og áætlun um skráastjórnun
+      - stýrt færslunni frá pappírsskrám yfir í stafrænar skrár
+clinical-coding:
+  name: Klínísk kóðun
+  description: Að þýða klínískar upplýsingar úr sjúkraskrám yfir í staðlaða flokkunarkóða, samkvæmt landsbundnum og alþjóðlegum kóðunarreglum, fyrir umönnun, greiðslur og tölfræði.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvað klínísk kóðun er og hvers vegna hún skiptir máli
+      - notað grunnhugtök læknisfræði og líffærafræði
+    working: |
+      Þú getur:
+      - kóðað einfaldar vistir nákvæmlega, með flokkunarreglum
+      - leitað skýringa hjá klínísku starfsfólki á óskýrum skrám
+    practitioner: |
+      Þú getur:
+      - kóðað flóknar vistir þvert á sérgreinar
+      - gert úttekt á gæðum kóðunar og þjálfað kóðara
+    expert: |
+      Þú getur:
+      - stýrt kóðunarþjónustu og gæðaáætlun hennar
+      - ráðlagt um kóðunarstaðla og áhrif þeirra á gögn og fjármögnun
+clinical-leadership-in-digital:
+  name: Klínísk forysta í stafrænum málum
+  description: Að færa klíníska þekkingu og trúverðugleika inn í hönnun, upptöku og örugga notkun stafrænnar þjónustu og leiða klínískt starfsfólk gegnum stafrænar breytingar.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvernig stafræn þjónusta breytir klínískri framkvæmd
+    working: |
+      Þú getur:
+      - veitt vöruteymum klínískt framlag um vinnuflæði og öryggi
+      - hjálpað klínísku samstarfsfólki að taka upp ný kerfi
+    practitioner: |
+      Þú getur:
+      - stýrt klínískri þátttöku fyrir vöru eða áætlun
+      - breytt klínískum þörfum og gögnum í kröfur
+      - verið málsvari öruggrar upptöku meðal klínískra jafningja
+    expert: |
+      Þú getur:
+      - mótað klíníska stefnu fyrir stafræna þjónustu stofnunarinnar
+      - leitt klíníska leiðtoga þvert á stofnanir gegnum stafrænar breytingar
+      - ráðlagt stjórn um klíníska áhættu og ávinning stafrænnar fjárfestingar
+governance-and-compliance:
+  name: Stjórnarhættir fyrirtækja og fylgni
+  description: 'Að styðja stjórnarhætti stofnunarinnar: stjórnir, nefndir, fundarsköp, stefnur, yfirlýsingar um hagsmunatengsl og fylgni við lagalegar skyldur og regluverkskyldur.'
+  levels:
+    awareness: |
+      Þú getur:
+      - fylgt stefnum og ákvarðanareglum stofnunarinnar
+    working: |
+      Þú getur:
+      - stutt nefndarfundi, gögn og fundargerðir
+      - haldið stjórnarháttaskrám uppfærðum
+    practitioner: |
+      Þú getur:
+      - stýrt stjórnarháttahring fyrir stjórnir og nefndir
+      - yfirfarið stefnur og ráðlagt um fylgni
+    expert: |
+      Þú getur:
+      - hannað stjórnarháttaramma og ráðlagt stjórn
+      - stýrt árlegri stjórnarháttaskýrslugjöf og fullvissu

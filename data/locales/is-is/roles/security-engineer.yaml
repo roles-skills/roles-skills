@@ -1,0 +1,44 @@
+summary: Öryggisverkfræðingar hanna, smíða og reka þær tæknilegu öryggisstýringar sem vernda kerfi, gögn og notendur stofnunarinnar. Þeir vinna að auðkennum og aðgangi, endapunkta- og netvernd, dulkóðun, skráningu og skýjaöryggi og hjálpa vöru- og innviðateymum að byggja öryggi inn. Í heilbrigðisþjónustu vernda þeir klínísk kerfi og gögn sjúklinga og halda aðgangi skjótum fyrir klínískt starfsfólk þar sem umönnunin fer fram.
+health_context:
+- Öryggisstýringar mega ekki standa í vegi fyrir bráðri umönnun, svo verkfræðingar hanna sterka auðkenningu sem virkar samt hratt á sameiginlegum klínískum vinnustöðvum.
+- Lækningatæki og eldri klínísk kerfi er oft ekki hægt að uppfæra eða keyra öryggishugbúnað á, svo verkfræðingar hanna netskiptingu og bótastýringar.
+- Gíslatökuhugbúnaður er veruleg ógn við heilbrigðisþjónustu, svo verkfræðingar herða kerfi, vernda afrit og takmarka hversu langt árás getur breiðst út.
+- Klínísk kerfi eru oft afhent og studd af þriðju aðilum, svo verkfræðingar meta öryggi birgja og stýra fjaraðgangi þeirra.
+- Breytingar á öryggisstýringum í klínískum kerfum fara gegnum breytingastjórnun og, þar sem þarf, klíníska öryggisyfirferð.
+levels:
+- title: Öryggisverkfræðingur
+  summary: Öryggisverkfræðingur smíðar, stillir og viðheldur öryggisstýringum og -tólum og hjálpar teymum að laga öryggisveikleika.
+  responsibilities:
+  - Smíða og viðhalda öryggisstýringum, svo sem endapunktavörn, eldveggjum, tölvupóstöryggi og öryggisskráningu.
+  - Stilla auðkenna- og aðgangsstýringar, þar á meðal fjölþátta auðkenningu og forréttindaaðgang.
+  - Hjálpa innviða- og vöruteymum að laga veikleika og herða kerfi samkvæmt samþykktum stöðlum.
+  - Skipta netum til að vernda lækningatæki og eldri kerfi, í samstarfi við innviðateymi og klínísk verkfræðiteymi.
+  - Fara yfir öryggi nýrra kerfa og fjaraðgangs birgja áður en þau fara í rekstur.
+  - Taka þátt í bakvaktakerfinu til að styðja viðbrögð við öryggisatvikum.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða netöryggi, viðeigandi öryggisvottanir eða sambærileg reynsla.
+  - Reynsla af smíði eða rekstri innviða eða öryggistóla.
+  job_evaluation_notes: Andlegt erfiði endurspeglar tíða langvarandi einbeitingu að flóknu tæknilegu starfi og atvikastuðningi, þar á meðal á bakvakt.
+- title: Eldri öryggisverkfræðingur
+  summary: Eldri öryggisverkfræðingur hannar og stýrir afhendingu mikilvægra öryggisstýringa og ráðleggur teymum um örugga hönnun.
+  responsibilities:
+  - Hanna og stýra afhendingu öryggisstýringa, svo sem stjórnun forréttindaaðgangs, öryggisvöktunar og afritaverndar.
+  - Ráðleggja vöru- og innviðateymum um örugga hönnun fyrir klíníska þjónustu og þjónustu sem snýr að sjúklingum.
+  - Hanna bótastýringar fyrir lækningatæki og önnur kerfi sem ekki er hægt að uppfæra.
+  - Meta öryggi birgja og vara þeirra, þar á meðal skýjaþjónustu.
+  - Styðja viðbrögð við alvarlegum öryggisatvikum með tæknilegri sérþekkingu og endurheimtaráætlunum.
+  - Leiðbeina öryggisverkfræðingum og miðla góðri venju þvert á teymi.
+  qualifications:
+  - Mikil reynsla af öryggisverkfræði, á stigi sem jafngildir framhaldsdiplómu.
+  - Viðeigandi framhaldsöryggisvottanir, eða sambærileg reynsla.
+- title: Leiðandi öryggisverkfræðingur
+  summary: Leiðandi öryggisverkfræðingur mótar tæknilega stefnu öryggisverkfræði og tryggir að stýringar vinni saman þvert á stofnunina.
+  responsibilities:
+  - Móta tæknilega stefnu og staðla fyrir öryggisstýringar þvert á stofnunina.
+  - Stýra öryggishönnun fyrir stórar áætlanir, svo sem flutning yfir í skýjahýsingu eða nýja rafræna sjúkraskrá.
+  - Tryggja að stýringar verji gegn gíslatökuhugbúnaði og styðji skjóta, örugga endurheimt klínískra kerfa.
+  - Vega öryggi á móti klínísku nothæfi, í samstarfi við klíníska leiðtoga um aðgang og auðkenningu.
+  - Ráðleggja netöryggisstjóra um tæknilega áhættu og fjárfestingar.
+  - Stýra og þróa öryggisverkfræðinga.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í öryggisverkfræði fyrir flókna þjónustu.

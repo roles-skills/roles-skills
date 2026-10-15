@@ -1,0 +1,57 @@
+summary: 'Tæknilegir arkitektar hanna tæknilega uppbyggingu stafrænnar heilbrigðisþjónustu stofnunarinnar: hluta, vettvanga, hýsingu, samþættingarmynstur og ekki-virknilega eiginleika eins og öryggi, afköst og seiglu. Þeir vinna náið með hugbúnaðarsmiðum og DevOps-verkfræðingum, veita afhendingarteymum tæknilega forystu og tryggja að þjónusta sé smíðuð til að endast og örugg í rekstri.'
+health_context:
+- Klínísk þjónusta þarf oft mikið aðgengi og skjóta endurheimt, svo tæknileg hönnun verður að gera ráð fyrir bilun og skertri virkni.
+- Hönnun verður að vernda trúnaðarupplýsingar um heilsu með dulkóðun, aðgangsstýringu og skráningu sjálfgefið.
+- Þjónusta tengist mörgum klínískum kerfum og sameiginlegum vettvöngum, oft gegnum HL7 FHIR forritaskil og skilaboð, svo samþættingarmynstur eru kjarni hönnunarinnar.
+- Tæknilegt hönnunarval, svo sem skyndiminni, endurtekningar og tímameðferð, getur valdið klínískum hættum, svo arkitektar leggja til öryggismála.
+- Eldri klínísk kerfi og lækningatæki kunna að takmarka val á tækni, netum og hýsingu.
+levels:
+- title: Aðstoðartæknilegur arkitekt
+  responsibilities:
+  - Teikna tæknilegar skýringarmyndir og skjalfesta hluta, hýsingu og samþættingar núverandi þjónustu.
+  - Rannsaka tæknivalkosti og taka saman kosti þeirra og galla, með leiðsögn.
+  - Vinna með hugbúnaðarsmiðum að því að athuga að smíði fylgi samþykktri hönnun og mynstrum.
+  - Skrá tæknilegar ákvarðanir og halda hönnunarskjölum uppfærðum.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða skyldri grein, eða sambærileg reynsla af hugbúnaðar- eða innviðaverkfræði.
+  - Sérhæfð þekking á tæknilegri hönnun, á stigi framhaldsdiplóma eða sambærileg reynsla.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 5): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 6. Þekking er metin á stigi framhaldsdiplóma, og upplýsingaauðlindir á stigi 5 því starfið hannar hluta stórra upplýsingakerfa.'
+- title: Tæknilegur arkitekt
+  responsibilities:
+  - Hanna tæknilegan arkitektúr þjónustu, þar á meðal hluta, hýsingu, samþættingu og öryggi.
+  - Veita afhendingarteymum hönnunarmynstur og fara yfir tæknilega hönnun þeirra og kóðabyggingu.
+  - Skilgreina ekki-virknikröfur, svo sem aðgengi, afköst og endurheimtarmarkmið, með þjónustueigendum.
+  - Greina tæknilega skuld og óstudda tækni og skipuleggja hvernig á að laga hana.
+  - Greina tæknilegar hættur og stýringar fyrir klínískt öryggismál.
+  qualifications:
+  - Sérhæfð þekking á tæknilegum arkitektúr, á meistarastigi eða sambærileg reynsla.
+  - Reynsla af hönnun eða smíði hugbúnaðar eða innviða í rekstri.
+  job_evaluation_notes: Flokkað á tillögu UK GDaD PCF um launaþrep, launaflokk 7, í samræmi við auglýsingar í heilbrigðisgeiranum fyrir þetta hlutverk. Þekking er metin á meistarastigi eða sambærilegu fyrir sérhæfða þekkingu þvert á svið tæknilegs arkitektúrs.
+- title: Eldri tæknilegur arkitekt
+  responsibilities:
+  - Stýra tæknilegri hönnun stórrar, flókinnar þjónustu eða þjónustu með mikla áhættu, svo sem klínískra kerfa og sameiginlegra samþættingarvettvanga.
+  - Móta tæknilega stefnu fyrir eitt eða fleiri afhendingarteymi og véfengja hönnun sem eykur áhættu.
+  - Hanna fyrir seiglu, endurheimt eftir hamfarir og örugga keyrslu og athuga að teymi prófi það.
+  - Útskýra tæknilega áhættu og málamiðlanir fyrir þjónustueigendum, klínískum leiðtogum og æðri hagsmunaaðilum á látlausu máli.
+  - Leiðbeina og þjálfa tæknilega arkitekta og eldri hugbúnaðarsmiði.
+  qualifications:
+  - Mikil reynsla af tæknilegri hönnun flókinnar þjónustu, á stigi sem jafngildir meistaragráðu.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 7): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8a. Áætlanagerð, stefnumótun og svigrúm til athafna eru metin ofar sniði launaflokks 7 því starfið mótar tæknilega stefnu fyrir nokkur teymi með lítið eftirlit.'
+- title: Leiðandi tæknilegur arkitekt
+  responsibilities:
+  - Stýra tæknilegum arkitektúr þvert á nokkrar þjónustur eða teymi og móta sameiginleg mynstur og staðla.
+  - Tryggja tæknileg gæði hönnunar hjá hönnunarnefndum, þar á meðal öryggi, seiglu og samvirkni.
+  - Móta tæknivegvísi stofnunarinnar með fyrirtækjaarkitektum og verkfræðiforystu.
+  - Ráðleggja æðstu stjórnendum um tæknival, vettvangsfjárfestingar og tæknilega áhættu.
+  - Stýra og þróa tæknilega arkitekta.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í tæknilegum arkitektúr fyrir flókna þjónustu.
+- title: Aðal tæknilegur arkitekt
+  responsibilities:
+  - Móta tæknilega arkitektúrstefnu, meginreglur og staðla stofnunarinnar.
+  - Stýra tæknilegri hönnun þvert á stofnunina, þar á meðal tæknilegu hönnunarnefndinni.
+  - Ráðleggja framkvæmdastjórn um stórar tækniákvarðanir, svo sem hýsingarstefnu og sameiningu vettvanga.
+  - Vera fulltrúi stofnunarinnar í tæknilegum samfélögum og staðlasamfélögum þvert á stofnanir.
+  - Hvetja og þróa arkitekta þvert á stofnunina.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í tæknilegum arkitektúr þvert á mörg teymi eða stofnanir.

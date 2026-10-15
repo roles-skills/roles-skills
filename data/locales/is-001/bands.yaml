@@ -1,0 +1,97 @@
+# Band outlines in Icelandic. Keys are the English band ids.
+"1":
+  title: Launaflokkur 1
+  stage: Upphaf
+  knowledge: Grunnfærni í lestri, ritun og reikningi; lærir einföld hversdagsverk á vinnustað.
+  autonomy: Fylgir skýrum fyrirmælum; vinnan er oft yfirfarin.
+  scope: Eigin hversdagsverk.
+  leadership: Engin.
+  accountability: Nákvæm framkvæmd hversdagsverka.
+"2":
+  title: Launaflokkur 2
+  stage: Stuðningur
+  knowledge: Þekkir venjur og verklag á starfssviðinu; kann að hafa grunnmenntun.
+  autonomy: Vinnur eftir föstu verklagi, með eftirliti til taks.
+  scope: Eigin verk innan teymis.
+  leadership: Getur sýnt nýju starfsfólki hversdagsverk.
+  accountability: Gæði og tímanleiki eigin hversdagsvinnu.
+"3":
+  title: Launaflokkur 3
+  stage: Stuðningur
+  knowledge: Þekking á ýmsu verklagi, þar á meðal sumu sem er ekki hversdagslegt; yfirleitt menntun á þrepi 3 eða sambærileg reynsla.
+  autonomy: Vinnur innan verklags; ákveður hvernig eigin vinnu er skipulögð; vísar vandamálum upp á við.
+  scope: Eigin vinna og nokkur verk fyrir víðara teymi.
+  leadership: Getur úthlutað hversdagsverkum eða kennt öðrum verklag.
+  accountability: Nákvæmni eigin vinnu og þeirra skráa sem haldið er við.
+"4":
+  title: Launaflokkur 4
+  stage: Stuðningur og upphaf sérfræðistarfs
+  knowledge: Ítarleg þekking á starfssviðinu, yfirleitt úr diplómunámi, iðnnámi eða sambærilegri reynslu.
+  autonomy: Vinnur innan leiðbeininga; leysir flest dagleg vandamál; yfirmaður er til ráðgjafar.
+  scope: Eigin vinna og afmörkuð þjónusta eða ferli.
+  leadership: Getur haft umsjón með litlu teymi eða samræmt vinnu annarra.
+  accountability: Afhending afmarkaðrar þjónustu eða ferlis.
+"5":
+  title: Launaflokkur 5
+  stage: Sérfræðingur
+  knowledge: Fagleg eða tæknileg þekking, yfirleitt úr bakkalárnámi eða sambærilegri reynslu.
+  autonomy: Vinnur að víðum markmiðum innan faglegra viðmiða; skipuleggur eigin vinnu.
+  scope: Eigin fagleg vinna innan teymis eða vöru.
+  leadership: Getur leiðbeint og yfirfarið vinnu stuðningsfólks og nema.
+  accountability: Gæði eigin faglegrar vinnu.
+"6":
+  title: Launaflokkur 6
+  stage: Reyndur sérfræðingur
+  knowledge: Sérhæfð þekking á ýmsu verklagi, byggð á frekara námi eða reynslu.
+  autonomy: Vinnur sjálfstætt; þýðir stefnu fyrir eigið svið; leitar ráða í flóknum málum.
+  scope: Ein vara, þjónusta eða vinnuflæði.
+  leadership: Getur stýrt litlu teymi eða leiðbeint samstarfsfólki.
+  accountability: Niðurstöður eigin vinnuflæðis og gæði ráðgjafar sem er veitt.
+"7":
+  title: Launaflokkur 7
+  stage: Eldri sérfræðingur eða sérhæfing
+  knowledge: Mjög þróuð sérhæfð þekking, yfirleitt á meistarastigi eða sambærileg reynsla.
+  autonomy: Vinnur innan stefnu stofnunarinnar; ákveður hvernig árangri er náð; er sérfræðingurinn sem aðrir leita til.
+  scope: Margar vörur eða þjónustur, eða sérhæft hlutverk.
+  leadership: Stýrir teymi eða faglegu sviði.
+  accountability: Afhending þjónustu eða sérhæfðs hlutverks, og fjárhagsáætlunar þess ef hún er í umsjá.
+8a:
+  title: Launaflokkur 8a
+  stage: Stjórnun
+  knowledge: Sérfræðiþekking á fagsviði og stjórnun þess.
+  autonomy: Þýðir stefnu stofnunarinnar fyrir þjónustu; ákveður stefnu teymisins.
+  scope: Þjónustusvið eða fagsvið þvert á stofnunina.
+  leadership: Stýrir teymi, eða leiðir fagsvið án línustjórnunar.
+  accountability: Þjónustusvið, starfsfólk þess og fjárhagsáætlun.
+8b:
+  title: Launaflokkur 8b
+  stage: Stjórnun
+  knowledge: Sérfræðiþekking á mörgum fagsviðum eða stórri þjónustu.
+  autonomy: Mótar stefnu og áherslur fyrir stórt svið.
+  scope: Margar þjónustur eða teymi, eða fagsvið á æðsta stigi.
+  leadership: Stýrir stjórnendum, eða er æðsta vald á fagsviði.
+  accountability: Margar þjónustur, starfsfólk þeirra og fjárhagsáætlanir.
+8c:
+  title: Launaflokkur 8c
+  stage: Æðri stjórnun
+  knowledge: Sérfræðiþekking og víðtæk innsýn í stofnunina og geirann.
+  autonomy: Setur stefnu fyrir málaflokk; svarar til sviðsstjóra.
+  scope: Málaflokkur eða svið.
+  leadership: Stýrir málaflokki gegnum mörg stjórnunarlög.
+  accountability: Árangur, starfsfólk og fjárhagsáætlun málaflokks.
+8d:
+  title: Launaflokkur 8d
+  stage: Æðri stjórnun
+  knowledge: Stefnumótandi þekking þvert á málaflokka og á víðara heilbrigðis- og velferðarkerfi.
+  autonomy: Mótar stefnu fyrir alla stofnunina; gegnir stöðu sviðsstjóra í forföllum hans.
+  scope: Stór málaflokkur eða margir málaflokkar.
+  leadership: Stýrir mörgum málaflokkum eða stóru sviði.
+  accountability: Stórir málaflokkar, miklar fjárhagsáætlanir og áhætta fyrir alla stofnunina.
+"9":
+  title: Launaflokkur 9
+  stage: Yfirmaður faggreinar eða sviðsstjóri
+  knowledge: Stefnumótandi sérfræðiþekking og forysta fyrir allt kerfið.
+  autonomy: Setur stefnu stofnunarinnar ásamt framkvæmdastjórn.
+  scope: Stofnunin og samstarfsaðilar hennar þvert á kerfið.
+  leadership: Stýrir fagstétt eða sviði.
+  accountability: Niðurstöður, fjárhagsáætlanir og áhætta fyrir alla stofnunina.

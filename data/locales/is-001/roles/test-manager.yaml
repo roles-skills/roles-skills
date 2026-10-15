@@ -1,0 +1,26 @@
+summary: Prófunarstjórar skipuleggja, stýra og tryggja prófanir fyrir stafræna heilbrigðisþjónustu og áætlanir stofnunarinnar. Þeir ákveða hversu mikið þarf að prófa og af hvaða tagi, stýra prófunarteymum, umhverfum og birgjum og segja ákvörðunaraðilum skýrt hvaða áhætta er eftir áður en þjónusta fer í rekstur. Í heilbrigðisþjónustu felur þetta í sér að tryggja að prófanir styðji klíníska öryggismálið og allar regluverkskröfur.
+health_context:
+- Ákvarðanir um gangsetningu klínískra kerfa velta á prófunargögnum og eftirstandandi áhættu, sem prófunarstjórar skila skýrslu um til vöruábyrgðaraðila, klínískra öryggisfulltrúa og áætlunarstjórna.
+- Stórar breytingar, svo sem uppfærslur rafrænu sjúkraskrárinnar, þurfa prófanir þvert á margar deildir, kerfi og birgja, og oft tíma klínísks starfsfólks fyrir samþykktarprófanir.
+- Prófanir verða að falla að klínískri þjónustu, til dæmis að skipuleggja yfirfærsluprófanir og æfingar til að halda röskun á umönnun sjúklinga lítilli.
+- Lögbundinn hugbúnaður og öryggismikilvægar breytingar þurfa prófanir sem uppfylla staðla eins og IEC 62304 og ferli stofnunarinnar um klíníska áhættustýringu.
+levels:
+- title: Prófunarstjóri
+  responsibilities:
+  - Stýra prófunarskipulagi fyrir vöru eða áætlun, sem nær yfir umhverfi, gögn, verkfæri, mannafla, tímalínur og klíníska áhættu.
+  - Skipuleggja samþykktarprófanir notenda með klínískum leiðtogum og rekstrarleiðtogum og tryggja tíma klínísks starfsfólks til að taka þátt.
+  - Stýra teymi prófunargreinenda og -verkfræðinga, þar á meðal prófurum birgja.
+  - Tryggja að prófanir uppfylli kröfur um klínískt öryggi, upplýsingastjórnun og regluverk.
+  - Skila skýrslu um framvindu prófana, galla og eftirstandandi áhættu til vöruábyrgðaraðila, klínískra öryggisfulltrúa og áætlunarstjórna.
+  - Bæta prófunarferla og samþykkja prófunarstaðla með afhendingarteymum.
+  qualifications:
+  - Mikil reynsla af prófunarstjórnun fyrir flókna stafræna þjónustu, á stigi sem jafngildir meistaragráðu.
+- title: Yfirmaður prófana
+  responsibilities:
+  - Móta prófunarstefnu, staðla og ramma stofnunarinnar fyrir stafræna heilbrigðisþjónustu.
+  - Tryggja að prófanir stofnunarinnar uppfylli kröfur um klínískt öryggi, lækningatæki og aðrar regluverkskröfur.
+  - Velja prófunarverkfæri og tækni og stýra prófunarfjárhagsáætlun og birgjasamningum.
+  - Ráðleggja æðstu stjórnendum um gæða- og öryggisáhættu fyrir stórar útgáfur og ákvarðanir um gangsetningu.
+  - Stýra og þróa prófunarstjóra, -greinendur og -verkfræðinga og byggja upp prófunargetu stofnunarinnar.
+  qualifications:
+  - Umfangsmikil reynsla af forystu prófana þvert á stofnun.

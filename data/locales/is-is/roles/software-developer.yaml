@@ -1,0 +1,66 @@
+summary: Hugbúnaðarsmiðir smíða, prófa og viðhalda þeim hugbúnaði sem liggur að baki stafrænni heilbrigðisþjónustu stofnunarinnar, svo sem forritum fyrir sjúklinga, klínískum kerfum, samþættingarþjónustu og gagnavettvöngum. Þeir vinna í þverfaglegum vöruteymum, skrifa kóða sem er öruggur, tryggur, aðgengilegur og viðhaldanlegur og styðja þjónustu sína í daglegum rekstri.
+health_context:
+- Hugbúnaður getur haft áhrif á umönnun sjúklinga, svo smiðir fylgja ferli klínískrar áhættustýringar og leggja til gögn fyrir öryggismál.
+- Kóði meðhöndlar oft trúnaðarupplýsingar um heilsu, svo smiðir beita upplýsingastjórnun og öruggri kóðun sjálfgefið.
+- Margar þjónustur skiptast á gögnum við önnur heilbrigðis- og velferðarkerfi, með opnum samvirknistöðlum eins og HL7 FHIR.
+- Sumur hugbúnaður kann að vera lögbundinn sem lækningatæki, svo smiðir þurfa að vita hvenær á að leita regluverksráðgjafar.
+levels:
+- title: Hugbúnaðarsmiður í iðnnámi
+  responsibilities:
+  - Læra tungumál, verkfæri og vinnulag teymisins með skipulagðri þjálfun og pörun.
+  - Skrifa og prófa litla, vel afmarkaða kóðabúta undir nánu eftirliti.
+  - Fylgja verklagi um örugga kóðun, upplýsingastjórnun og klínískt öryggi.
+  - Taka þátt í teymisathöfnum eins og stöðufundum, skipulagsfundum og afturlitum.
+  - Stefna að iðnnámi eða sambærilegu námi.
+  qualifications:
+  - Skráður í, eða stefnir á, iðnnám í hugbúnaðarsmíði eða sambærilegt.
+  job_evaluation_notes: Þekking er metin á því stigi sem starfið krefst þegar þjálfun er orðin nægileg til að vinna verkið; upplýsingaauðlindir endurspegla vinnu við kerfi sem aðrir hafa hannað.
+- title: Yngri hugbúnaðarsmiður
+  responsibilities:
+  - Smíða og prófa eiginleika fyrir vörur teymisins, út frá notendasögum með leiðsögn.
+  - Skrifa sjálfvirk próf og laga galla, þar á meðal í þjónustu sem styður umönnun sjúklinga.
+  - Leggja fram gögn fyrir klínísk öryggismál, svo sem niðurstöður prófana og breytingaskrár.
+  - Meðhöndla heilbrigðisgögn á öruggan hátt samkvæmt reglum um upplýsingastjórnun.
+  - Styðja þjónustu í rekstri, undir leiðsögn, sem hluta af stuðningsfyrirkomulagi teymisins.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða skyldri grein, lokið iðnnám eða sambærileg reynsla.
+- title: Hugbúnaðarsmiður
+  responsibilities:
+  - Hanna, smíða og prófa eiginleika og þjónustu sjálfstætt og velja hentugar nálganir.
+  - Fara yfir kóða og hjálpa til við að viðhalda verkfræðistöðlum teymisins.
+  - Smíða samþættingar við önnur heilbrigðis- og velferðarkerfi með opnum stöðlum eins og HL7 FHIR.
+  - Taka þátt í greiningu hætta og hjálpa til við að koma klínískum öryggisstýringum inn í kóða og próf.
+  - Rannsaka og laga vandamál í þjónustu í rekstri, þar á meðal stuðning utan vinnutíma þar sem þjónustan krefst þess.
+  - Leiðbeina yngri smiðum og iðnnemum.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða skyldri grein, eða sambærileg reynsla.
+  - Reynsla af smíði og stuðningi við hugbúnað í rekstri.
+- title: Eldri hugbúnaðarsmiður
+  responsibilities:
+  - Stýra tæknilegri hönnun og afhendingu mikilvægra eiginleika og þjónustu.
+  - Setja og viðhalda verkfræðistöðlum fyrir teymið, þar á meðal um prófanir, öryggi og aðgengi.
+  - Taka tæknilegar ákvarðanir sem vega þarfir notenda, klínískt öryggi, öryggi og kostnað.
+  - Stýra atvikarannsóknum fyrir þjónustu teymisins og knýja fram lagfæringar.
+  - Vinna með klínískum öryggisfulltrúum að því að tryggja að öryggisstýringar séu hannaðar inn og prófaðar.
+  - Leiðbeina og þróa smiði í teyminu.
+  qualifications:
+  - Mikil reynsla af hönnun, smíði og stuðningi við hugbúnað í rekstri, á stigi sem jafngildir meistaragráðu.
+- title: Leiðandi hugbúnaðarsmiður
+  responsibilities:
+  - Stýra verkfræðivinnu fyrir vöru eða hóp teyma og móta tæknilega stefnu.
+  - Tryggja að hugbúnaðurinn sé hannaður fyrir öryggi, tryggð, seiglu og samvirkni.
+  - Vinna með arkitektum, vörustjórum og klínískum leiðtogum að því að móta vegvísi vörunnar.
+  - Stýra þróunarfagsamfélaginu og setja staðla þvert á teymi.
+  - Vera línustjóri eða stýra smiðum og styðja þróun þeirra og frammistöðu.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í hugbúnaðarverkfræði fyrir flókna þjónustu.
+  job_evaluation_notes: UK GDaD PCF telur bæði leiðandi og aðalsmið oftast á G7 eða G6; þessi viðmiðun setur leiðandi í launaflokk 8a og aðalsmið í launaflokk 8b.
+- title: Aðal hugbúnaðarsmiður
+  responsibilities:
+  - Móta verkfræðistefnu, staðla og vinnubrögð stofnunarinnar í hugbúnaðarþróun.
+  - Ráðleggja æðstu stjórnendum um tæknival, áhættu og fjárfestingar.
+  - Stýra lausn flóknustu tæknilegu vandamálanna þvert á þjónustu.
+  - Vera fulltrúi stofnunarinnar í verkfræðisamfélögum þvert á stofnanir og í opnum hugbúnaði.
+  - Stýra og þróa leiðandi smiði og efla verkfræðigetu stofnunarinnar.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í verkfræði þvert á mörg teymi eða stofnanir.

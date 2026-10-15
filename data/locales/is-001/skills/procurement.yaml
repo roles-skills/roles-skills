@@ -1,0 +1,265 @@
+# Icelandic translations of data/skills/procurement.yaml. Keys are the English skill ids.
+proc-purchase-to-pay:
+  name: Frá kaupum til greiðslu
+  description: Að stofna, samþykkja og móttökuskrá pantanir og leysa fyrirspurnir um reikninga og greiðslur, gegnum innkaupakerfi stofnunarinnar og fjárhagsstýringar.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt regluna „engin innkaupapöntun, engin greiðsla“ og hvers vegna hún skiptir máli
+      - stofnað innkaupabeiðni í innkaupakerfinu
+    working: |
+      Þú getur:
+      - stofnað og breytt innkaupapöntunum og athugað þær gegn samningum
+      - leyst fyrirspurnir um reikninga, móttökuskráningu og greiðslur með birgjum og fjármálum
+      - viðhaldið vörulistum og birgjaskrám í innkaupakerfinu
+    practitioner: |
+      Þú getur:
+      - stýrt ferlinu frá kaupum til greiðslu fyrir þjónustu og fylgst með fylgni og uppsöfnuðum málum
+      - greint útgjaldagögn til að finna útgjöld utan samninga og sparnað
+      - bætt ferlið og stýringar með samstarfsfólki í fjármálum
+    expert: |
+      Þú getur:
+      - mótað stefnu, stýringar og kerfi stofnunarinnar frá kaupum til greiðslu
+      - stýrt færslunni yfir í fullkomlega rafræn innkaup og reikningagerð
+proc-procurement-process:
+  name: Innkaupaferli
+  description: Að stýra innkaupum í samræmi við reglur, frá skipulagi og kröfulýsingu gegnum leiðir á markað, útboð, val og samningsundirritun, þar á meðal kaup gegnum rammasamninga og kvik innkaupakerfi.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt stig innkaupa og þau viðmiðunarmörk sem gilda
+      - aflað tilboða fyrir kaup af lágu verðmæti samkvæmt reglum stofnunarinnar
+    working: |
+      Þú getur:
+      - framkvæmt tilboð og úttektir úr rammasamningum með stöðluðum sniðmátum
+      - undirbúið útboðsgögn og stýrt skýringarspurningum í rafræna útboðskerfinu
+      - haldið skýrri úttektarslóð fyrir hver innkaup
+    practitioner: |
+      Þú getur:
+      - skipulagt og stýrt flóknum útboðum og valið réttu leiðina á markað og verklag
+      - hjálpað notendum að skrifa niðurstöðumiðaðar kröfulýsingar fyrir stafræn og klínísk kerfi
+      - stýrt tímaáætlunum, áhættu og hagsmunaaðilum fram að samningsvali
+    expert: |
+      Þú getur:
+      - mótað innkaupaverklag og sniðmát stofnunarinnar
+      - stýrt flóknustu, verðmætustu eða nýjustu innkaupunum
+      - tryggt innkaupaákvarðanir fyrir stjórn
+proc-tender-evaluation:
+  name: Mat á útboðum
+  description: Að hanna matsviðmið og vægi og stýra sanngjörnu og vel skráðu mati á gæðum, verði og samfélagslegu virði.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna mat verður að fylgja birtum viðmiðum
+      - lýst yfir hagsmunaárekstrum áður en þú tekur þátt í mati
+    working: |
+      Þú getur:
+      - athugað tilboð með tilliti til samræmis og heilleika
+      - stutt matsaðila og skráð stig og samræmingarglósur
+      - undirbúið verðmatslíkön undir leiðsögn
+    practitioner: |
+      Þú getur:
+      - hannað matsviðmið, vægi og stigaleiðbeiningar
+      - stýrt samræmingu og skrifað valskýrslur og endurgjöf til bjóðenda
+      - skipulagt sýnikennslu og prófanir á klínískum sviðsmyndum eða sviðsmyndum notenda fyrir kerfisútboð
+    expert: |
+      Þú getur:
+      - mótað matsstaðla stofnunarinnar og nálgun við verð og gæði
+      - varið matsákvarðanir þegar þær eru véfengdar
+      - yfirfarið mat í innkaupum með mikla áhættu
+proc-procurement-law-and-policy:
+  name: Reglur og stefna um opinber innkaup
+  description: Að beita reglum um opinber innkaup, fjármálareglum stofnunarinnar og innkaupastefnu svo að kaup séu lögmæt, gagnsæ og sanngjörn.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt að opinberu fé verður að verja á sanngjarnan, opinn og lögmætan hátt
+      - fylgt viðmiðunarmörkum og samþykktarreglum stofnunarinnar
+    working: |
+      Þú getur:
+      - beitt þeim innkaupareglum sem hæfa einföldum kaupum
+      - birt tilkynningar og haldið skrár sem uppfylla gagnsæisreglur
+      - komið auga á hvenær beiðni hætta á að brjóta reglur og vakið máls á því
+    practitioner: |
+      Þú getur:
+      - ráðlagt um lögmæta leið fyrir flókin innkaup og samningsbreytingar
+      - stýrt hættu á kæru og meðhöndlað biðtíma og skýringarfund rétt
+      - skrifað innkaupastefnu og leiðbeiningar fyrir stofnunina
+    expert: |
+      Þú getur:
+      - túlkað nýjar innkaupareglur og stýrt viðbrögðum stofnunarinnar
+      - ráðlagt stjórn um fylgni við innkaup og áhættu
+      - stýrt formlegum kærum með lögfræðiráðgjöfum
+proc-market-analysis:
+  name: Markaðsgreining og samráð við markaðinn
+  description: Að skilja framboðsmarkaði, hafa samráð við birgja fyrir innkaup og nota markaðsgögn til að móta kröfur, leiðir á markað og viðskiptalíkön.
+  levels:
+    awareness: |
+      Þú getur:
+      - fundið birgja í rammasamningum og birgjagagnagrunnum
+      - útskýrt hvers vegna snemmbúið samráð við markaðinn verður að vera sanngjarnt gagnvart öllum birgjum
+    working: |
+      Þú getur:
+      - safnað markaðsupplýsingum, verði og upplýsingum um birgja fyrir kröfu
+      - framkvæmt beiðni um upplýsingar og tekið saman svörin
+    practitioner: |
+      Þú getur:
+      - greint framboðsmarkað, samkeppni hans, áhættu og þróun
+      - stýrt snemmbúnu samráði við markaðinn, svo sem birgjadögum, án þess að raska samkeppni
+      - notað markaðsgögn til að móta kröfur og viðskiptalíkön
+    expert: |
+      Þú getur:
+      - mótað markaði, til dæmis með því að hvetja nýja eða smærri birgja
+      - stýrt markaðsstefnu með öðrum kaupendastofnunum
+proc-negotiation:
+  name: Viðskiptasamningaviðræður
+  description: Að skipuleggja og stýra samningaviðræðum við birgja um verð, skilmála og frammistöðu sem skila hagkvæmri nýtingu fjármuna og stýra áhættu.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvað má og má ekki semja um í opinberum innkaupum
+    working: |
+      Þú getur:
+      - samið um verð og skilmála fyrir kaup af lágu verðmæti eða hversdagsleg kaup
+      - undirbúið gögn og valkosti fyrir samningaviðræður sem aðrir stýra
+    practitioner: |
+      Þú getur:
+      - skipulagt og stýrt samningaviðræðum, sett markmið, mörk og varaafstöðu
+      - samið um samningsbreytingar, endurnýjanir og lausn deilna
+      - haldið samningaviðræðum lögmætum og vel skráðum
+    expert: |
+      Þú getur:
+      - stýrt samningaviðræðum af miklu verðmæti og mikilli áhættu við lykilbirgja
+      - leiðbeint öðrum í samningagerð og mótað samningaaðferð stofnunarinnar
+proc-category-management:
+  name: Vöruflokkastjórnun
+  description: Að stýra flokki útgjalda, svo sem hugbúnaði, skýjaþjónustu og tækniþjónustu, með flokkastefnu sem safnar saman eftirspurn, mótar kröfur og skipuleggur innkaup til nokkurra ára.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvað flokkur er og hvers vegna flokkaáætlanir skipta máli
+    working: |
+      Þú getur:
+      - greint útgjöld og samninga fyrir flokk og haldið samningaskránni uppfærðri
+      - stutt flokkaáætlunina, svo sem með því að fylgjast með endurnýjunum og sparnaði
+    practitioner: |
+      Þú getur:
+      - skrifað og framfylgt flokkastefnu með fjárhagsábyrgðaraðilum og tæknilegum leiðtogum
+      - skipulagt innkaupaferil og samningsendurnýjanir fyrir flokkinn
+      - fylgst með sparnaði, virði og áhættu fyrir flokkinn
+    expert: |
+      Þú getur:
+      - mótað nálgun stofnunarinnar við vöruflokkastjórnun
+      - stýrt flokkum með mestu útgjöldin og áhættuna og samræmt þá stefnu stofnunarinnar
+      - unnið með öðrum stofnunum að sameiginlegum innkaupum
+proc-technology-procurement:
+  name: Tækni- og skýjainnkaup
+  description: Að kaupa hugbúnað, skýjaþjónustu, leyfi, vélbúnað og stafræna þjónustu, þar á meðal hugbúnað sem þjónustu, viðskiptalíkön, leyfisveitingar og þá öryggis-, persónuverndar- og samvirknisskilmála sem heilbrigðistækni þarfnast.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt helstu leiðir til að kaupa tækni, svo sem leyfi, áskriftir og þjónustu
+      - greint að klínísk kerfi þurfa öryggis-, klínískar öryggis- og persónuverndarathuganir
+    working: |
+      Þú getur:
+      - keypt hefðbundinn hugbúnað, vélbúnað og leyfi gegnum rammasamninga
+      - fylgst með fjölda leyfa, endurnýjunum og uppgjörsdögum
+      - tekið staðlaðar öryggis- og persónuverndarkröfur með í gögn
+    practitioner: |
+      Þú getur:
+      - keypt skýjaþjónustu, hugbúnað sem þjónustu og klínísk kerfi og valið rétt viðskiptalíkan
+      - byggt kröfur með tæknilegum leiðtogum, leiðtogum klínísks öryggis og leiðtogum upplýsingastjórnunar
+      - tekið samvirkni, opna staðla, eignarhald gagna og útgönguskilmála inn í samninga
+      - forðast innilokun með því að skipuleggja færanleika og samkeppni við endurnýjun
+    expert: |
+      Þú getur:
+      - mótað viðskiptastefnu stofnunarinnar fyrir tækni og ský
+      - stýrt samningaviðræðum um fyrirtækjasamninga og stefnumótandi vettvanga
+      - ráðlagt stafrænum leiðtogum um viðskiptalega áhættu tæknivals
+proc-contract-management:
+  name: Samningastjórnun
+  description: Að stýra samningum eftir val, þar á meðal gangsetningu, frammistöðu, greiðslum, breytingum, deilum, endurnýjun og útgöngu, svo að stofnunin fái það sem hún greiddi fyrir.
+  levels:
+    awareness: |
+      Þú getur:
+      - fundið samning og útskýrt lykildagsetningar hans, verðmæti og eiganda
+      - skráð samningsbreytingar og skjöl í samningaskrána
+    working: |
+      Þú getur:
+      - vaktað frammistöðu birgja gegn þjónustustigum og lykilárangursvísum
+      - undirbúið samningsyfirferðarfundi og fylgst með aðgerðum
+      - afgreitt samningsfrávik og athugað reikninga gegn samningnum
+    practitioner: |
+      Þú getur:
+      - stýrt safni samninga, þar á meðal klínískra samninga og tæknisamninga
+      - notað úrræði samninga, svo sem þjónustuinneignir, þegar frammistaða bregst
+      - stýrt breytingum, deilum og endurnýjunum innan innkaupareglna
+      - skipulagt útgöngu snemma og prófað útgönguáætlanir áður en samningar renna út
+    expert: |
+      Þú getur:
+      - mótað ramma og staðla stofnunarinnar um samningastjórnun
+      - stýrt stjórnun stefnumótandi samninga með mikla áhættu
+      - leyst meiriháttar deilur og ákveðið uppsögn eða endurinnkaup
+proc-supplier-relationship-management:
+  name: Stjórnun birgjasambanda
+  description: Að byggja upp stefnumótandi tengsl við lykilbirgja til að stýra áhættu, bæta frammistöðu og þróa vörur og þjónustu með tímanum.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna góð birgjasambönd skipta máli fyrir þjónustu sem sjúklingar reiða sig á
+      - átt fagleg samskipti við birgja og skráð tengiliði
+    working: |
+      Þú getur:
+      - haldið tengiliðum birgja, upplýsingaflutningsleiðum og skrám uppfærðum
+      - athugað fjárhagslega heilsu og tryggingar birgja gegn kröfum
+    practitioner: |
+      Þú getur:
+      - flokkað birgja eftir áhættu og virði og skipulagt hvernig á að stýra hverjum hópi
+      - stýrt stefnumótandi yfirferðum með lykilbirgjum, þar á meðal vegvísi og umbótaáætlunum
+      - stýrt birgjaáhættu, svo sem fjárhagslegum brestum, netatvikum og aðfangakeðjuvandamálum
+    expert: |
+      Þú getur:
+      - mótað birgjasambandastefnu stofnunarinnar
+      - stýrt framkvæmdatengslum við stefnumótandi birgja
+      - stýrt viðbrögðum þegar mikilvægur birgir bregst
+proc-exit-planning:
+  name: Útgönguskipulag og skil gagna
+  description: Að skipuleggja og stýra lokum samnings, þar á meðal yfirfærslu til nýs birgja, skil og eyðingu gagna og samfellu þjónustu fyrir sjúklinga og starfsfólk.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna hver samningur þarf útgönguáætlun
+      - fundið útgöngu- og gagnaskilaskilmála samnings
+    working: |
+      Þú getur:
+      - haldið útgönguáætlunum og eigna- og gagnaskrám uppfærðum
+      - fylgst með uppsagnarfrestum og útgönguáföngum
+    practitioner: |
+      Þú getur:
+      - skrifað útgöngu- og yfirfærsluáætlanir með tæknilegum leiðtogum, gagnaleiðtogum og klínískum leiðtogum
+      - tryggt að gögn séu skilað á nothæfum, stöðluðum sniðum og síðan eytt á öruggan hátt
+      - stýrt yfirfærsluáhættu svo að umönnun raskist ekki
+    expert: |
+      Þú getur:
+      - mótað staðla stofnunarinnar um útgöngu, yfirfærslu og skil gagna
+      - stýrt útgöngu úr stefnumótandi klínískum samningum og tæknisamningum
+proc-social-value:
+  name: Samfélagslegt virði og sjálfbær innkaup
+  description: Að nota innkaup og samninga til að skila samfélagslegu virði, umhverfislegri sjálfbærni og sanngjörnum aðfangakeðjum og mæla það sem birgjar skila.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvað samfélagslegt virði og sjálfbær innkaup þýða fyrir stofnunina
+    working: |
+      Þú getur:
+      - tekið staðlaðar spurningar um samfélagslegt virði og sjálfbærni með í útboð
+      - safnað skýrslum um samfélagslegt virði frá birgjum
+    practitioner: |
+      Þú getur:
+      - sett viðmið um samfélagslegt virði og sjálfbærni sem hæfa samningnum
+      - stýrt skuldbindingum birgja, svo sem um störf á svæðinu, færni og minni kolefnislosun
+      - athugað aðfangakeðjur með tilliti til áhættu eins og nauðungarvinnu og annarra mannréttindabrota
+    expert: |
+      Þú getur:
+      - mótað stefnu stofnunarinnar um samfélagslegt virði og sjálfbær innkaup
+      - skilað skýrslu um samfélagslegt virði og kolefnisniðurstöður til stjórnar

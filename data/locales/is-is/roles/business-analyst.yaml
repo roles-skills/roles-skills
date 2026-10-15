@@ -1,0 +1,64 @@
+summary: Viðskiptagreinendur hjálpa stofnuninni að skilja vandamál í heilbrigðis- og velferðarþjónustu og finna réttar breytingar til að leysa þau. Þeir greina hvernig klínísk ferli, umsýsluferli og ferli sem snúa að sjúklingum virka í dag, skilgreina þarfir og kröfur notenda og viðskipta, og hjálpa teymum að tryggja að ný stafræn þjónusta passi við raunverulegar umönnunarleiðir og skili mælanlegum ávinningi.
+health_context:
+- Ferli ná yfir mörk stofnana og fagstétta, svo greinendur kortleggja heilar umönnunarleiðir, þar á meðal yfirfærslur milli klínísks starfsfólks, umönnunarstarfsfólks, sjúklinga og annarra stofnana.
+- Kröfur fela oft í sér klíníska áhættu, svo greinendur vinna með klínískum öryggisfulltrúum til að tryggja að öryggistengdar kröfur séu skráðar, raktar og prófaðar.
+- Margar kröfur varða miðlun heilbrigðisgagna milli kerfa, svo greinendur þurfa starfhæfan skilning á samvirknistöðlum eins og HL7 FHIR og klínískum hugtakakerfum eins og SNOMED CT.
+- Ávinningur í umönnun snýst oft um öryggi, gæði, tíma starfsfólks og upplifun sjúklinga, ekki aðeins kostnað, svo greinendur hjálpa til við að skilgreina mælikvarða sem klínískt starfsfólk kannast við.
+levels:
+- title: Viðskiptagreinandi í starfsnámi
+  responsibilities:
+  - Læra aðferðir viðskiptagreiningar með skipulagðri þjálfun, skuggavinnu og vinnu undir eftirliti.
+  - Skrá minnispunkta og gera drög að ferlakortum úr vinnustofum með klínísku starfsfólki og skrifstofustarfsfólki.
+  - Halda kröfuskrám, notendasögum og rekjanleikaskrám samkvæmt fyrirmælum.
+  - Aðstoða við að undirbúa prófunarsviðsmyndir fyrir samþykktarprófanir notenda.
+  - Fylgja reglum um upplýsingastjórnun þegar meðhöndluð eru skjöl sem innihalda upplýsingar um sjúklinga.
+  qualifications:
+  - Stefnir á iðnnám eða menntun í viðskiptagreiningu, eða sambærileg reynsla.
+- title: Yngri viðskiptagreinandi
+  responsibilities:
+  - Kortleggja núverandi og framtíðarferli fyrir klínískt og skrifstofulegt vinnuflæði, svo sem tilvísanir, tímabókanir eða meðferð niðurstaðna.
+  - Afla og skrifa kröfur og notendasögur fyrir vel afmörkuð verkefni.
+  - Safna gögnum um frammistöðu ferla, svo sem biðtíma eða handvirkar bráðabirgðalausnir, til að styðja greiningu.
+  - Undirbúa og keyra sviðsmyndir samþykktarprófana notenda með klínískum notendum og rekstrarnotendum.
+  - Benda teyminu og klíníska öryggisfulltrúanum á kröfur sem gætu haft áhrif á öryggi sjúklinga.
+  qualifications:
+  - Háskólagráða, menntun eða iðnnám í viðskiptagreiningu, eða sambærileg reynsla.
+- title: Viðskiptagreinandi
+  responsibilities:
+  - Stýra greiningu í litlum og meðalstórum verkefnum, frá skilgreiningu vandans til mælingar á ávinningi.
+  - Halda vinnustofur með klínísku starfsfólki, umönnunarstarfsfólki og stjórnendum til að skilja sársaukapunkta og samþykkja valkosti.
+  - Líkana umönnunarleiðir og upplýsingaflæði, þar á meðal gögn sem skipst er á við önnur heilbrigðis- og velferðarkerfi.
+  - Skilgreina öryggistengdar kröfur og gagnakröfur og rekja þær í gegnum hönnun, smíði og prófanir.
+  - Byggja ávinningsrök með mælikvörðum eins og leystum tíma starfsfólks, villum sem forðast er eða upplifun sjúklinga.
+  - Leiðbeina yngri viðskiptagreinendum og greinendum í starfsnámi.
+  qualifications:
+  - Háskólagráða eða viðurkennd menntun í viðskiptagreiningu, eða sambærileg reynsla.
+  - Reynsla af viðskiptagreiningu í stafrænum breytingaverkefnum.
+- title: Eldri viðskiptagreinandi
+  responsibilities:
+  - Stýra viðskiptagreiningu í stórum eða flóknum áætlunum, svo sem við endurnýjun klínísks kerfis eða endurhönnun umönnunarleiðar.
+  - Greina valkosti og áhrif þeirra á umönnun, öryggi, vinnuálag starfsfólks og kostnað, og kynna tillögur fyrir stjórnum.
+  - Tryggja að klínísk áhætta, upplýsingastjórnun og jafnræðisáhrif séu greind og tekið á þeim í kröfum.
+  - Skilgreina og fylgjast með ávinningi breytinga og setja upp hvernig hann verður mældur eftir gangsetningu.
+  - Vera línustjóri viðskiptagreinenda eða stýra þeim og halda uppi starfi fagsamfélags.
+  qualifications:
+  - Mikil reynsla af viðskiptagreiningu í flóknum breytingum, á stigi sem jafngildir meistaragráðu.
+- title: Leiðandi viðskiptagreinandi
+  responsibilities:
+  - Stýra greiningu mjög flókinna vandamála sem ná yfir fleiri vörur, þjónustur eða stofnanir í umönnunarkerfi.
+  - Móta viðskiptarök og áætlun um ávinningsnýtingu fyrir stórar fjárfestingar.
+  - Setja staðla í viðskiptagreiningu, svo sem rekjanleika krafna fyrir öryggistengdan og lögbundinn hugbúnað.
+  - Vinna með klínískum leiðtogum, arkitektum og vörustjórum til að samræma greiningu við stefnu stofnunarinnar.
+  - Vera línustjóri viðskiptagreinenda og stýra starfsþróun þeirra.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í viðskiptagreiningu í flóknum breytingum margra teyma.
+- title: Yfirmaður viðskiptagreiningar
+  responsibilities:
+  - Stýra viðskiptagreiningarsviðinu og móta stefnu þess, staðla og vinnulag.
+  - Byggja upp getu í viðskiptagreiningu, þar á meðal ráðningar, starfsferla og þjálfun.
+  - Ráðleggja framkvæmda- og klínískum leiðtogum um þá greiningu sem þarf fyrir stórar umbreytingar í heilbrigðis- og velferðarþjónustu.
+  - Tryggja að ávinningsnýting sé skipulögð, mæld og um hana skilað skýrslu þvert á verkefnasafnið.
+  - Stýra fjárhagsáætlun og mannaflaáætlun sviðsins.
+  qualifications:
+  - Umfangsmikil reynsla af forystu viðskiptagreiningarsviðs eða fagstarfs.
+  job_evaluation_notes: Upplýsingaauðlindir eru metnar á stigi 6 því yfirmaður viðskiptagreiningar ber ábyrgð á stöðlum fyrir alla stofnunina um hvernig kröfur, ferlalíkön og ávinningsskrár eru haldin í öllum breytingaverkefnum.

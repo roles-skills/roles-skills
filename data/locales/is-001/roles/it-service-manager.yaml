@@ -1,0 +1,47 @@
+summary: Upplýsingatækniþjónustustjórar tryggja að stafræn þjónusta stofnunarinnar sé afhent á samþykktum stigum og haldi áfram að batna. Þeir skilgreina þjónustustig, stýra þjónustuskránni, skila skýrslu um frammistöðu og samræma þau teymi og birgja sem reka hverja þjónustu. Í heilbrigðisþjónustu breyta þeir því sem klínísk þjónusta þarfnast, svo sem aðgengi allan sólarhringinn, í þjónustumarkmið og stuðningsfyrirkomulag.
+health_context:
+- Þjónustustig fyrir klínísk kerfi endurspegla klíníska áhættu, svo markmið fyrir rafrænu sjúkraskrána eða lyfjaávísanir eru önnur en fyrir rekstrarkerfi.
+- Þjónusta er oft veitt af blöndu innri teyma, birgja og þjónustu sem er sameiginleg með samstarfsstofnunum, svo þjónustustjórar samræma þvert á stofnanamörk.
+- Samfella klínísks rekstrar veltur á upplýsingatækni, svo þjónustustjórar vinna með klínískum leiðtogum og neyðarskipulagsleiðtogum að niðurstreymis- og samfelluáætlunum.
+- Klínískt starfsfólk hefur lítinn tíma til að tilkynna vandamál, svo þjónustustjórar nota vöktun, gögn þjónustuborðs og klíníska endurgjöf til að finna vandamál snemma.
+levels:
+- title: Upplýsingatækniþjónustugreinandi
+  responsibilities:
+  - Bregðast við, skjalfesta og leysa atvik og beiðnir innan samþykktra þjónustustiga.
+  - Búa til reglulegar þjónustuskýrslur, svo sem um fjölda mála, viðbragðstíma og aðgengi klínískra kerfa.
+  - Athuga að færslur í þjónustuskránni og þekkingargreinar séu nákvæmar og uppfærðar.
+  - Leita að mynstrum í atvikum og leggja til umbætur.
+  - Fylgja reglum um upplýsingastjórnun við meðferð mála- og þjónustugagna.
+  qualifications:
+  - Grunnmenntun í upplýsingatækniþjónustustjórnun, menntun á þrepi 3 í upplýsingatækni eða sambærileg reynsla.
+- title: Upplýsingatækniþjónustustjóri
+  responsibilities:
+  - Skilgreina og samþykkja þjónustustig fyrir klíníska þjónustu og rekstrarþjónustu út frá klínískri áhættu og viðskiptaþörf.
+  - Stýra stuðningsfyrirkomulagi fyrir safn þjónustu, þar á meðal birgja og sameiginlega þjónustu.
+  - Skila skýrslu um þjónustuframmistöðu til þjónustueigenda og klínískra leiðtoga og samþykkja umbótaaðgerðir.
+  - Tryggja að hver þjónusta hafi prófað fyrirkomulag samfellu í rekstri og niðurstreymis.
+  - Halda þjónustuskránni uppfærðri og tryggja að starfsfólk sé upplýst um breytingar á þjónustu þess.
+  - Stýra áætlun um stöðugar þjónustuumbætur fyrir þjónustu þína.
+  qualifications:
+  - Reynsla af stjórnun upplýsingatækniþjónustu samkvæmt samþykktum þjónustustigum.
+  - Miðstigsmenntun í upplýsingatækniþjónustustjórnun, eða sambærileg reynsla.
+- title: Eldri upplýsingatækniþjónustustjóri
+  responsibilities:
+  - Stýra þjónustustjórnun þvert á nokkra vettvanga og rásir og bæta þroska þjónustustjórnunarferla.
+  - Semja um þjónustustig og samningsskilmála við stóra birgja klínískra kerfa og draga þá til ábyrgðar.
+  - Kynna þjónustuframmistöðu og áhættu fyrir æðri klínískum leiðtogum og rekstrarleiðtogum.
+  - Stýra þjónustuyfirferðum eftir meiriháttar atvik og fylgjast með umbótaaðgerðum til loka.
+  - Samræma samfelluáætlanir upplýsingatækni við klínískar áætlanir um samfellu í rekstri, í samstarfi við neyðarskipulag og klíníska leiðtoga.
+  - Stýra og þróa upplýsingatækniþjónustustjóra.
+  qualifications:
+  - Mikil reynsla af upplýsingatækniþjónustustjórnun þvert á nokkrar þjónustur.
+  - Framhaldsmenntun í upplýsingatækniþjónustustjórnun, eða sambærileg reynsla.
+- title: Yfirmaður upplýsingatækniþjónustustjórnunar
+  responsibilities:
+  - Móta framtíðarsýn, stefnu og rekstrarlíkan upplýsingatækniþjónustustjórnunar þvert á stofnunina.
+  - Tryggja að hvert þjónustustjórnunarferli hafi eiganda og haldi áfram að þroskast.
+  - Vera fulltrúi upplýsingatækniþjónustustjórnunar á æðra stigi, þar á meðal á klínískum fundum og rekstrarstjórnarháttafundum.
+  - Vera æðsti yfirflutningsstaður fyrir klíníska leiðtoga og leiðtoga rekstrarþjónustu.
+  - Tryggja að þjónustustjórnunarsviðið hafi það fólk, þau verkfæri og þá fjárhagsáætlun sem það þarf.
+  qualifications:
+  - Umfangsmikil reynsla af forystu upplýsingatækniþjónustustjórnunar í stórri eða flókinni stofnun.

@@ -1,0 +1,46 @@
+summary: Prófunarverkfræðingar smíða þau sjálfvirku próf, verkfæri og ramma sem gera teymum kleift að prófa stafræna heilbrigðisþjónustu stofnunarinnar hratt og oft. Þeir skrifa kóða til að prófa virkni, samþættingar, afköst, öryggi og seiglu og byggja prófanir inn í afhendingarleiðslur, svo að breytingar á klínískum kerfum og kerfum sem snúa að sjúklingum megi gefa út á öruggan hátt.
+health_context:
+- Klínísk kerfi eru öryggismikilvæg, svo sjálfvirk aðhvarfspróf vernda þær öryggisstýringar sem skráðar eru í hættuskrám og eru varðveitt sem gögn fyrir öryggismál.
+- Samþættingar við önnur heilbrigðis- og velferðarkerfi þurfa sjálfvirk próf gegn stöðlum eins og HL7 FHIR og HL7 útgáfu 2, oft með hermdum kerfum samstarfsaðila.
+- Klínísk þjónusta er rekin allan sólarhringinn og nær hámarki á fyrirsjáanlegum tímum, svo afkasta- og seigluprófanir líkja eftir raunverulegri klínískri eftirspurn.
+- Prófunarumhverfi mega ekki geyma raunveruleg gögn sjúklinga, svo verkfræðingar búa til raunhæf tilbúin gögn, þar á meðal sjaldgæf og jaðartilvik í klínískri vinnu.
+- Hugbúnaður sem er lögbundinn sem lækningatæki þarf rekjanlegar, endurtakanlegar prófanir sem hluta af líftíma sínum samkvæmt stöðlum eins og IEC 62304.
+levels:
+- title: Aðstoðarprófunarverkfræðingur
+  responsibilities:
+  - Skrifa og viðhalda einföldum sjálfvirkum prófum undir eftirliti, samkvæmt verkfræðistöðlum teymisins.
+  - Keyra sjálfvirk og handvirk próf og skrá niðurstöður nákvæmlega.
+  - Aðstoða við að rannsaka og tilkynna galla, þar á meðal í samþættingum við klínísk kerfi.
+  - Nota tilbúin prófunargögn og fylgja reglum um upplýsingastjórnun í prófunarumhverfum.
+  - Læra prófunarverkfæri teymisins, kóðavenjur og ferli klínísks öryggis.
+  qualifications:
+  - Einhver reynsla af kóðun eða prófunum, eða skráning í viðeigandi iðnnám, eða sambærilegt.
+- title: Prófunarverkfræðingur
+  responsibilities:
+  - Hanna og smíða sjálfvirk virknipróf, samþættingarpróf og forritaskilapróf fyrir klíníska þjónustu og þjónustu sem snýr að sjúklingum.
+  - Smíða próf sem athuga skilaboð gegn HL7 FHIR-sniðum og öðrum samvirknilýsingum.
+  - Búa til tilbúin sjúklingagögn sem ná yfir raunhæf og jaðartilvik í klínískri vinnu.
+  - Bæta prófum við afhendingarleiðslur svo að öryggistengdar athuganir keyri við hverja breytingu.
+  - Áætla prófunarvinnu, skila skýrslu um niðurstöður og styðja lausn galla.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða skyldri grein, eða sambærileg reynsla.
+  - Reynsla af smíði sjálfvirkra prófa.
+- title: Eldri prófunarverkfræðingur
+  responsibilities:
+  - Stýra prófunarverkfræði fyrir svið og velja verkfæri, ramma og prófategundir sem takast á við áhættu þess snemma.
+  - Smíða endurnýtanlega prófunarramma og hermi fyrir klínísk kerfi og samþættingar samstarfsaðila.
+  - Skipuleggja og keyra afkasta-, álags- og seigluprófanir út frá raunverulegri klínískri eftirspurn.
+  - Tryggja að sjálfvirk próf rekist til hætta og öryggisstýringa og skili gögnum fyrir öryggismál.
+  - Leiðbeina og stýra öðrum prófunarverkfræðingum og samþykkja verkfræðistaðla með hugbúnaðarsmiðum.
+  qualifications:
+  - Mikil reynsla af prófunarverkfræði, á stigi sem jafngildir meistaragráðu.
+- title: Leiðandi prófunarverkfræðingur
+  responsibilities:
+  - Móta prófunarverkfræðistefnu og staðla þvert á breitt svið, þar á meðal stöðugar prófanir í afhendingarleiðslum.
+  - Stýra og leiðbeina prófunarverkfræðingum og teymum í gæðaverkfræðivenjum.
+  - Tryggja að prófanir á lögbundnum og öryggismikilvægum hugbúnaði uppfylli nauðsynlega staðla og séu rekjanlegar.
+  - Vísa upp á við gæða- og öryggisáhættu til æðri vöruleiðtoga, klínískra leiðtoga og leiðtoga birgja.
+  - Finna tækifæri til að prófa fyrr og oftar og mæla áhrifin á gæði.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í prófunarverkfræði fyrir flókna þjónustu.
+  job_evaluation_notes: UK GDaD PCF leggur til SEO til G6 fyrir þetta stig, sem varpast á launaflokk 7, sama launaflokk og eldri prófunarverkfræðingur. Þessi viðmiðun setur það í launaflokk 8a, því það mótar prófunarverkfræðistefnu og staðla þvert á breitt svið.

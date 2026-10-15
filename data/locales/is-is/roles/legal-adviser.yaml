@@ -1,0 +1,45 @@
+summary: 'Lögfræðiráðgjafar eru löggiltir lögfræðingar sem veita stofnuninni hagnýta, nákvæma lögfræðiráðgjöf og hjálpa henni að stýra lagalegri áhættu. Þeir semja og semja um samninga, ráðleggja um gögn, innkaup, vinnurétt og heilbrigðis- og velferðarrétt og stýra deilum og kröfum. Í stafrænni heilbrigðisstofnun snýst mikið af vinnu þeirra um tækni: hugbúnaðarleyfi, skýja- og gagnavinnslusamninga, gagnamiðlun, hugverkarétt í hugbúnaði og gögnum og regluverk um stafrænar heilbrigðisvörur.'
+health_context:
+- Tæknisamningar verða að vernda gögn sjúklinga, halda klínískri þjónustu gangandi og tryggja að stofnunin geti yfirgefið birgja á öruggan hátt.
+- Notkun heilbrigðisgagna til beinnar umönnunar, skipulags, rannsókna og gervigreindar vekur spurningar samkvæmt persónuverndarlögum og trúnaðarskyldu sem krefjast vandaðrar ráðgjafar.
+- Kaup á tækni fyrir opinbert fé verða að fylgja reglum um opinber innkaup og birgjar geta kært ákvarðanir um val.
+- Stofnunin kann að smíða hugbúnað eða gagnavörur, sem vekur spurningar um hugverkarétt, opinn hugbúnað og viðskiptalega notkun.
+- Kröfur kunna að varða skaða sjúklinga, þar á meðal þar sem stafræn þjónusta átti þátt, svo ráðgjafar vinna með samstarfsfólki í klínísku öryggi, áhættustýringu og skaðabótum.
+levels:
+- title: Lögfræðiráðgjafi
+  summary: Lögfræðiráðgjafar eru löggiltir lögfræðingar sem veita sjálfstæða ráðgjöf og annast eigin málaskrá á einu sviði eða fleirum, svo sem tæknisamningum, upplýsingarétti, innkaupum eða vinnurétti.
+  responsibilities:
+  - Semja, yfirfara og semja um samninga, svo sem hugbúnaðarleyfi, skýjaþjónustu og gagnavinnslusamninga.
+  - Veita stjórnendum og teymum skýra og hagnýta lögfræðiráðgjöf á starfssviðum þínum.
+  - Ráðleggja um gagnamiðlunarsamninga, persónuverndarmat og upplýsingabeiðnir.
+  - Ráðleggja um innkaupaferli og samningsbreytingar fyrir tækni og þjónustu.
+  - Stýra málaskrá deilna eða krafna og fela ytri lögfræðingum verk þar sem þörf er á.
+  - Hafa umsjón með og þróa lögfræðiaðstoðarmenn og aðstoðarfólk.
+  qualifications:
+  - Löggiltur lögfræðingur með málflutningsréttindi, eða sambærileg menntun og reynsla.
+  - Reynsla af viðskipta-, tækni-, upplýsinga- eða stjórnsýslurétti.
+  job_evaluation_notes: Þekking er á stigi 7 því starfið krefst faglegrar lögfræðimenntunar og starfsreynslu. Fjárhagslegar auðlindir eru á stigi 2 því lögfræðiráðgjafar hafa sjaldan fjárhagsáætlanir á sinni könnu. Tilfinningalegt erfiði er á stigi 2 því kröfur og vinnuréttarmál fela oft í sér átakanlegt efni.
+- title: Eldri lögfræðiráðgjafi
+  summary: Eldri lögfræðiráðgjafar eru reyndir lögfræðingar sem leiða flókin mál, mál af miklu virði eða mikilli áhættu á sérsviði, svo sem tækni og gögnum, upplýsingarétti, innkaupum, vinnurétti eða kröfum.
+  responsibilities:
+  - Leiða flókna samninga, svo sem stórar kerfisinnleiðingar, gagnavettvanga og samstarf.
+  - Ráðleggja æðri stjórnendum um nýjar spurningar, svo sem gervigreind, notkun gagna í rannsóknum og hugbúnað sem lækningatæki.
+  - Ráðleggja um vinnurétt vegna mannaflabreytinga, verktaka og vinnuréttardeilna.
+  - Leiða mikilvægar deilur, innkaupakærur og samskipti við kerfi bótaábyrgðar vegna læknisfræðilegra mistaka.
+  - Skrifa sniðmát, handbækur og leiðbeiningar fyrir stofnunina.
+  - Stýra og þróa lögfræðiráðgjafa og aðstoðarfólk.
+  qualifications:
+  - Löggiltur lögfræðingur með málflutningsréttindi, með mikla reynslu eftir menntun á viðeigandi sérsviði.
+  job_evaluation_notes: Fjárhagslegar auðlindir eru á stigi 2 því starfið hefur ekki fjárhagsáætlun á sinni könnu, þótt það stýri útgjöldum til ytri lögfræðinga vegna mála sinna.
+- title: Aðal lögfræðiráðgjafi
+  summary: Aðal lögfræðiráðgjafar eru fremstu sérfræðingar stofnunarinnar á einu sviði laga eða fleirum, svo sem tækni og gögnum eða upplýsingarétti, og stýra lögfræðivinnu hennar í mikilvægustu málum.
+  responsibilities:
+  - Stýra lögfræðivinnu í mikilvægustu áætlunum, samningum og deilum stofnunarinnar.
+  - Veita endanlega ráðgjöf um ný mál og mál með mikla áhættu, svo sem umfangsmikla gagnamiðlun, gervigreind og viðskiptalega notkun hugbúnaðar og gagna stofnunarinnar.
+  - Móta lagalega afstöðu og staðla stofnunarinnar á sérsviðum þínum.
+  - Ráðleggja sviðsstjórum og stjórnarnefndum um lagalega áhættu.
+  - Vera fulltrúi stofnunarinnar gagnvart eftirlitsaðilum, samstarfsaðilum og birgjum í lagalegum málum.
+  - Stýra sérhæfðu lögfræðiteymi og þróa getu þess.
+  qualifications:
+  - Löggiltur lögfræðingur með málflutningsréttindi, með mikla reynslu eftir menntun og viðurkennda sérþekkingu á sérsviði.
+  job_evaluation_notes: Þekking er á stigi 8 því starfið krefst sérfræðiþekkingar í lögum og tækni, byggðrar upp yfir langan tíma.

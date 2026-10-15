@@ -1,0 +1,43 @@
+summary: Æðstu fjármálaleiðtogar bera ábyrgð á fjárhagslegri heilsu stofnunarinnar, fjárhagsstýringu og notkun opinbers fjár. Þeir stýra fjármálastefnu og áætlanagerð, ráðleggja stjórn um viðráðanleika og hagkvæma nýtingu fjármuna og stýra fjármála-, launa- og oft innkaupasviðum. Í stafrænni heilbrigðisstofnun móta þeir hvernig fjárfesting í tækni og gögnum er fjármögnuð, samþykkt og sýnt fram á að hún skili ávinningi fyrir sjúklinga og heilbrigðis- og velferðarkerfið.
+health_context:
+- Stofnunin er fjármögnuð með opinberu fé, svo fjármálaleiðtogar bera ábyrgð gagnvart fjármögnunaraðilum og eftirlitsaðilum á reglufestu, siðferði og hagkvæmri nýtingu fjármuna.
+- Tæknifjárfesting er stór hluti útgjalda og jafnvægið milli fjárfestingar, rekstrar og áskriftarkostnaðar skýjaþjónustu mótar það sem stofnunin hefur efni á.
+- Fjármálaleiðtogar verða að vega fjárhagsleg markmið á móti öryggi sjúklinga og gæðum þeirrar þjónustu sem klínískt starfsfólk og umönnunarstarfsfólk reiðir sig á.
+- Stórir tækni- og gagnasamningar fela í sér langtímaskuldbindingar og birgjaáhættu sem stjórnin þarf að skilja.
+- Stofnunin kann að starfa í samstarfi þvert á heilbrigðis- og velferðarþjónustu, með sameiginlegum fjárhagsáætlunum, sameiginlegri þjónustu eða hýstum áætlunum.
+levels:
+- title: Fjármálastýra
+  summary: Fjármálastýrur, stundum kallaðar aðstoðarfjármálastjórar, stýra stórum hluta fjármálasviðsins, svo sem fjárhagsbókhaldi og stýringu eða fjárhagsáætlanagerð, og eru staðgenglar æðstu fjármálaleiðtoga.
+  responsibilities:
+  - Stýra fjárhagsbókhaldi, fjárhagsstýringu, fjárstýringu og færsluþjónustu, eða fjárhagsáætlanagerð og viðskiptasamstarfi.
+  - Tryggja að ársreikningur sé afhentur á réttum tíma með hreinni álitsgerð endurskoðenda.
+  - Viðhalda skilvirku kerfi fjárhagsstýringar og skila skýrslu um það til endurskoðunarnefndar.
+  - Stýra hring fjárhagsáætlanagerðar og skýrslugjöf á árinu til framkvæmdastjórnar.
+  - Ráðleggja sviðsstjórum um mikilvægar fjárhagsákvarðanir, þar á meðal stóra tæknisamninga.
+  - Stýra og þróa nokkur fjármálateymi.
+  qualifications:
+  - Viðurkennd bókhaldsmenntun, með mikla eldri reynslu í opinbera geiranum eða flóknum stofnunum.
+  job_evaluation_notes: Fjárhagslegar auðlindir eru á stigi 5 því starfið stýrir fjárhagsáætlunum og fjármálaferlum þvert á nokkrar þjónustur. Upplýsingaauðlindir eru á stigi 6 því starfið ber ábyrgð á fjármálakerfum og gögnum sem notuð eru þvert á stofnunina.
+- title: Aðstoðarfjármálastjóri
+  summary: Aðstoðarfjármálastjórar stýra fjármálasviðinu dag frá degi, eru staðgenglar fjármálastjóra og stýra fjármálastefnu stofnunarinnar og meðallangtímafjárhagsáætlun.
+  responsibilities:
+  - Stýra meðallangtímafjárhagsáætlun og árlegri fjárhagsáætlun og tengja þær við stefnu og mannaflaáætlanir.
+  - Stýra viðskiptaröku- og fjárfestingarsamþykktarferlinu, þar á meðal fyrir stórar stafrænar áætlanir.
+  - Ráðleggja framkvæmdastjórn og stjórnarnefndum um fjárhagslega frammistöðu, áhættu og sparnaðaráætlanir.
+  - Vera fulltrúi stofnunarinnar gagnvart fjármögnunaraðilum og samstarfsaðilum í fjárhagsmálum.
+  - Vera staðgengill fjármálastjóra, þar á meðal í stjórn og endurskoðunarnefnd.
+  - Stýra og þróa fjármála-, launa- og fjármálakerfateymin.
+  qualifications:
+  - Viðurkennd bókhaldsmenntun, með mikla eldri reynslu af forystu fjármálasviða.
+- title: Fjármálastjóri
+  summary: Fjármálastjórar eru framkvæmdastjórnarmeðlimir sem bera ábyrgð á fjármálum stofnunarinnar, fjárhagsstýringu og notkun opinbers fjár á vettvangi stofnunarinnar.
+  responsibilities:
+  - Bera ábyrgð á fjármálum stofnunarinnar, fjárhagsstýringu og fjárhagslegri sjálfbærni á vettvangi stofnunarinnar.
+  - Móta fjármálastefnuna og stýra ákvörðunum stjórnar um viðráðanleika, fjárfestingar og hagkvæma nýtingu fjármuna.
+  - Tryggja að stofnunin verji opinberu fé á lögmætan hátt, innan fjármögnunar sinnar og í samræmi við útgjaldastýringar.
+  - Ráðleggja stjórn um fjárhagsleg áhrif stefnu, þar á meðal breytinguna yfir í stafræna þjónustu og skýjaþjónustu.
+  - Stýra samskiptum við fjármögnunaraðila, eftirlitsaðila og ytri endurskoðendur.
+  - Stýra fjármála-, launa- og innkaupasviðum, og oft öðrum rekstrarþjónustum.
+  qualifications:
+  - Viðurkennd bókhaldsmenntun, með mikla reynslu á framkvæmda- eða stjórnarstigi.
+  job_evaluation_notes: Fjárhagslegar auðlindir eru á stigi 6 því starfið ber ábyrgð á fjármálum stofnunarinnar á vettvangi stofnunarinnar.

@@ -1,0 +1,51 @@
+summary: Samþættingarverkfræðingar tengja klínísk kerfi og rekstrarkerfi stofnunarinnar svo að heilbrigðis- og velferðarupplýsingar streymi á öruggan hátt þangað sem þeirra er þörf. Þeir hanna, smíða, prófa og styðja viðmót, forritaskil og skilaboðaflæði með stöðlum eins og HL7 FHIR og HL7 útgáfu 2, varpa gögnum og klínískum kóðum milli kerfa og halda samþættingum gangandi í rekstri.
+health_context:
+- Glatað, seinkað, tvítekið eða rangt samsvarað skilaboð, svo sem niðurstaða rannsóknar eða tilvísun, getur leitt beint til skaða, svo samþættingarvinna fylgir ferli klínískrar áhættustýringar.
+- Samþættingar flytja mikið magn trúnaðarupplýsinga um heilsu milli stofnana, svo hvert flæði þarf lagalegan grundvöll, örugga flutningsleið og skráningu.
+- Heilbrigðiskerfi nota marga staðla og útgáfur, frá HL7 útgáfu 2 skilaboðum til HL7 FHIR forritaskila og IHE-sniða, oft með staðbundnum afbrigðum.
+- Klínísk merking verður að lifa ferðalagið af, svo verkfræðingar varpa klínískum hugtakakerfum eins og SNOMED CT rétt og samsvara sjúklingum áreiðanlega.
+- Margar samþættingar styðja umönnun allan sólarhringinn, svo þær þurfa vöktun, viðvaranir og skýrar leiðir til að leysa misheppnuð skilaboð.
+levels:
+- title: Yngri samþættingarverkfræðingur
+  summary: Yngri samþættingarverkfræðingur smíðar, prófar og styður samþættingar milli heilbrigðis- og velferðarkerfa, vinnur út frá lýsingum og með leiðsögn reyndari verkfræðinga.
+  responsibilities:
+  - Smíða og breyta skilaboðavörpunum, umbreytingum og forritaskilakollum út frá samþykktum lýsingum.
+  - Prófa samþættingar gegn lýsingum og sýnishornum skilaboða, þar á meðal villutilvik og jaðartilvik.
+  - Vakta skilaboðaflæði, rannsaka misheppnuð eða hafnað skilaboð og leysa þau eða vísa þeim upp á við.
+  - Meðhöndla heilbrigðisgögn á öruggan hátt samkvæmt reglum um upplýsingastjórnun fyrir raunveruleg gögn og prófunargögn.
+  - Skrá breytingar og niðurstöður prófana svo nota megi þær sem klínísk öryggisgögn.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða skyldri grein, lokið iðnnám eða sambærileg reynsla.
+- title: Samþættingarverkfræðingur
+  summary: Samþættingarverkfræðingur hannar, smíðar og styður samþættingar milli heilbrigðis- og velferðarkerfa sjálfstætt og hjálpar til við að skilgreina hvernig kerfi eiga að skiptast á gögnum.
+  responsibilities:
+  - Hanna og smíða samþættingar, forritaskil og skilaboðaflæði með HL7 FHIR, HL7 útgáfu 2 og skilaboðamynstrum.
+  - Greina upprunakerfi og markmiðskerfi og skrifa viðmótslýsingar og gagnavarpanir, þar á meðal fyrir klíníska kóða.
+  - Smíða sjúklingasamsvörun, sannprófun og villumeðhöndlun svo upplýsingar berist í réttu skrána.
+  - Taka þátt í hættuvinnustofum og byggja öryggisstýringar inn í samþættingar, svo sem viðvaranir vegna misheppnaðra eða seinkaðra skilaboða.
+  - Vinna með birgjum og samstarfsstofnunum að því að prófa og gangsetja nýjar tengingar.
+  - Rannsaka og laga vandamál í samþættingum í rekstri og leiðbeina yngri samþættingarverkfræðingum.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða skyldri grein, eða sambærileg reynsla.
+  - Reynsla af smíði og stuðningi við samþættingar milli kerfa í rekstri.
+- title: Eldri samþættingarverkfræðingur
+  summary: Eldri samþættingarverkfræðingur stýrir hönnun og afhendingu flókinna samþættinga þvert á mörg kerfi og stofnanir og setur samþættingarstaðla fyrir sitt svið.
+  responsibilities:
+  - Stýra tæknilegri hönnun flókinna samþættinga, svo sem sameiginlegra umönnunarskráa, niðurstaðna og tilvísana þvert á stofnanir.
+  - Skrifa og viðhalda FHIR-sniðum, innleiðingarleiðbeiningum og viðmótsstöðlum fyrir stofnunina.
+  - Hanna samþættingar þannig að þær séu öruggar, seigar og vaktanlegar, með skýrum leiðum til að leysa bilanir.
+  - Vinna með klínískum öryggisfulltrúum að því að greina samþættingarhættur og tryggja að stýringar séu hannaðar inn og prófaðar.
+  - Tryggja að hvert gagnaflæði hafi samþykktan lagalegan grundvöll og gagnamiðlunarfyrirkomulag, í samstarfi við samstarfsfólk í upplýsingastjórnun.
+  - Leiðbeina og þróa samþættingarverkfræðinga í teyminu.
+  qualifications:
+  - Mikil reynsla af hönnun og stuðningi við samþættingar í heilbrigðisþjónustu eða öðrum flóknum samþættingum, á stigi sem jafngildir meistaragráðu.
+- title: Leiðandi samþættingarverkfræðingur
+  summary: Leiðandi samþættingarverkfræðingur stýrir samþættingarverkfræði stofnunarinnar, mótar tæknilega stefnu hennar og staðla og tryggir mikilvægar samþættingar þvert á mörg kerfi.
+  responsibilities:
+  - Stýra samþættingarverkfræði þvert á stofnunina, móta stefnu, mynstur og staðla.
+  - Tryggja hönnun mikilvægra samþættinga, svo sem þeirra sem flytja niðurstöður, lyf eða viðvaranir.
+  - Móta vegvísi samþættingarvettvangsins með arkitektum, vörustjórum og birgjum.
+  - Vera fulltrúi stofnunarinnar í samvirkni- og staðlavinnu þvert á stofnanir.
+  - Vera línustjóri eða stýra samþættingarverkfræðingum og efla samþættingarfagsamfélagið.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í samþættingarverkfræði fyrir flókin heilbrigðis- eða velferðarkerfi.

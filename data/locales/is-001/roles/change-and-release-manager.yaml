@@ -1,0 +1,39 @@
+summary: Breytinga- og útgáfustjórar tryggja að breytingar á upplýsingatækniþjónustu séu metnar, samþykktar, tímasettar og framkvæmdar á öruggan hátt, og að útgáfur séu skipulagðar og samræmdar. Þeir stýra breytingaráðgjafarráðinu, bera ábyrgð á stillingastýringargagnagrunninum og samræma útgáfur þvert á teymi og birgja. Í heilbrigðisþjónustu tryggja þeir að breytingar á klínískum kerfum séu tímasettar og prófaðar til að vernda umönnun sjúklinga.
+health_context:
+- Breytingar á klínískum kerfum geta skaðað sjúklinga, svo breytingamat felur í sér klíníska öryggisyfirferð og gögn úr ferli klínískrar áhættustýringar.
+- Klínísk þjónusta er rekin alla daga, svo breytingagluggar eru samþykktir með klínískri þjónustu og forðast álagstíma hennar.
+- Margar breytingar koma frá birgjum klínískra kerfa og þarf samt að meta þær þegar birgirinn stýrir útgáfunni.
+- Neyðarbreytingar, svo sem brýnar öryggisuppfærslur, verða að vega netáhættu á móti hættunni á að raska umönnun.
+- Nákvæmur stillingastýringargagnagrunnur sýnir hvaða klínísku þjónustu breyting gæti haft áhrif á.
+levels:
+- title: Stillingagreinandi
+  responsibilities:
+  - Viðhalda skrám í stillingastýringargagnagrunninum, þar á meðal þeirri klínísku þjónustu sem hver hluti styður.
+  - Bera stillingaskrár saman við uppgötvunartól og laga eyður og villur.
+  - Undirbúa breytingaskrár og dagskrár fyrir breytingaráðgjafarráðið.
+  - Svara hversdagslegum fyrirspurnum um stillingaratriði og tengsl þeirra.
+  qualifications:
+  - Grunnmenntun í upplýsingatækniþjónustustjórnun, menntun á þrepi 3 í upplýsingatækni, eða sambærileg reynsla.
+  job_evaluation_notes: UK GDaD PCF leggur til launaflokk 6 fyrir þetta stig (HEO/SEO). Þessi viðmiðun setur það í launaflokk 4 því stigið veitir breytinga- og útgáfustjóra umsýslustuðning, með að mestu færni á vitundarstigi, og er undir breytinga- og útgáfugreinanda. Upplýsingaauðlindir eru ofar sniði launaflokksins því viðhald stillingastýringargagnagrunnsins er aðalverkið.
+- title: Breytinga- og útgáfugreinandi
+  responsibilities:
+  - Meta breytingabeiðnir með tilliti til áhættu og áhrifa, þar á meðal áhrifa á klíníska þjónustu og öryggi sjúklinga.
+  - Skipuleggja og tímasetja útgáfur og samþykkja breytingaglugga með klínískri þjónustu og rekstrarþjónustu.
+  - Athuga að hver breyting hafi prófanir, afturköllunaráætlun og klíníska öryggissamþykkt þar sem þörf er á.
+  - Samræma útgáfur við DevOps-teymi, birgja og þjónustuborðið.
+  - Fara yfir útgáfur eftir á og skipuleggja væntanlegar breytingar.
+  qualifications:
+  - Reynsla af upplýsingatækni, útgáfum eða breytingavinnu.
+  - Grunnmenntun í upplýsingatækniþjónustustjórnun, eða sambærileg reynsla.
+- title: Breytinga- og útgáfustjóri
+  responsibilities:
+  - Stýra breytingaráðgjafarráðinu, þar á meðal fulltrúum klínískrar starfsemi og rekstrar þegar breytingar hafa áhrif á umönnun sjúklinga.
+  - Taka ákvarðanir um tæknilegar breytingar og heimila neyðarbreytingar, svo sem brýnar öryggisuppfærslur.
+  - Samræma útgáfur og háðar þeirra þvert á innri teymi og birgja.
+  - Bera ábyrgð á ferlum breytinga-, útgáfu- og stillingastýringar og á stillingastýringargagnagrunninum.
+  - Vera yfirflutningsstaður fyrir breytingaárekstra og misheppnaðar breytingar.
+  - Skila skýrslu um árangur breytinga, misheppnaðar breytingar og atvik af völdum breytinga, og knýja áfram umbætur.
+  qualifications:
+  - Mikil reynsla af breytinga- og útgáfustjórnun, á stigi sem jafngildir háskólagráðu.
+  - Miðstigsmenntun í upplýsingatækniþjónustustjórnun, eða sambærileg reynsla.
+  job_evaluation_notes: Áætlanagerð er ofar sniði launaflokksins því hlutverkið tímasetur útgáfur og háðar þeirra þvert á mörg teymi og birgja.

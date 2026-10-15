@@ -1,0 +1,37 @@
+summary: Gagnaarkitektar hanna hvernig stofnunin skipuleggur, geymir, flytur og stjórnar heilbrigðis- og velferðargögnum sínum, svo að nota megi þau á öruggan hátt til beinnar umönnunar, þjónustuskipulags og rannsókna. Þeir hanna gagnalíkön, gagnavettvanga og gagnaflæði, setja gagnastaðla og tryggja að klínísk merking, gæði og trúnaður haldist frá upphafi til enda.
+health_context:
+- Heilbrigðisgögn verða að halda klínískri merkingu sinni, svo gagnalíkön nota klínísk hugtakakerfi eins og SNOMED CT og flokkanir eins og ICD.
+- Gögn sem notuð eru til beinnar umönnunar og gögn sem notuð eru til skipulags eða rannsókna hafa ólíkan lagalegan grundvöll, svo arkitektar hanna fyrir aðgreiningu, afpersónugreiningu og stýrðan aðgang.
+- Gögn koma úr mörgum klínískum kerfum og umönnunarkerfum af misjöfnum gæðum, svo arkitektar hanna fyrir gagnagæðaathuganir, sjúklingasamsvörun og uppruna gagna.
+- Sameiginlegar umönnunarskrár og gagnaskipti velta á sameiginlegum líkönum eins og HL7 FHIR-auðlindum og samþykktum landsbundnum eða alþjóðlegum gagnasöfnum.
+- Skrár verða að vera varðveittar í langan tíma, svo hönnun verður að gera ráð fyrir skjalavistun og aðgangi að sögulegum gögnum.
+levels:
+- title: Gagnaarkitekt
+  responsibilities:
+  - Hanna rökræn og efnisleg gagnalíkön fyrir klínísk gögn og rekstrargögn, með klínískum hugtakakerfum þar sem þörf er á.
+  - Hanna gagnaflæði og hluta gagnavettvangs, svo sem gagnavöruhús, gagnavatnahús og samþættingarlög.
+  - Skilgreina lýsigögn, færslur í gagnaorðabók og uppruna fyrir gagnasöfn á þínu sviði.
+  - Hanna afpersónugreiningu og aðgangsstýringar svo gögn séu aðeins notuð í lögmætum tilgangi.
+  - Vinna með samstarfsfólki í gagnagæðum og klínískri kóðun að því að laga byggingarlegar orsakir lélegra gagna.
+  - Leiðbeina gagnaverkfræðingum og greinendum um gagnalíkön og staðla.
+  qualifications:
+  - Mikil reynsla af gagnalíkönum og hönnun gagnavettvanga, á stigi sem jafngildir meistaragráðu.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 7): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8a. Áætlanagerð, stefnumótun og svigrúm til athafna eru metin ofar sniði launaflokks 7 því starfið hannar gagnavettvanga og stýringar sem notaðar eru þvert á margar þjónustur.'
+- title: Eldri gagnaarkitekt
+  responsibilities:
+  - Hanna gagnaarkitektúr fyrir stórt svið, svo sem sameiginlegu umönnunarskrána eða greiningarvettvanginn.
+  - Tryggja að gagnahönnun þvert á teymi fylgi gagnastöðlum og líkönum stofnunarinnar.
+  - Hanna hvernig gögn eru miðluð til samstarfsstofnana, þar á meðal staðla, stýringar og gagnamiðlunarsamninga.
+  - Ráðleggja samstarfsfólki í upplýsingastjórnun og klínísku öryggi um gagnaáhættu nýrrar hönnunar.
+  - Fara yfir og leiðbeina vinnu gagnaarkitekta.
+  qualifications:
+  - Umfangsmikil reynsla af gagnaarkitektúr fyrir flóknar stofnanir.
+- title: Yfirgagnaarkitekt
+  responsibilities:
+  - Móta framtíðarsýn og vegvísi stofnunarinnar í gagnaarkitektúr, í samræmi við gagnastefnu hennar.
+  - Bera ábyrgð á fyrirtækisgagnalíkani stofnunarinnar, gagnastöðlum og gagnaorðabók.
+  - Ráðleggja framkvæmdastjórn og gagnastjórnarháttastofnunum um gagnaarkitektúr, áhættu og fjárfestingar.
+  - Vera fulltrúi stofnunarinnar í gagnastöðlum og samvirknivinnu þvert á stofnanir.
+  - Stýra gagnaarkitektúrstarfinu og þróa fólkið í því.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í gagnaarkitektúr þvert á stofnanir.

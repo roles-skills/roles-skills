@@ -1,0 +1,62 @@
+summary: Samskiptahönnuðir hanna hvernig sjúklingar, aðstandendur, klínískt starfsfólk og umönnunarstarfsfólk nota stafræna heilbrigðisþjónustu stofnunarinnar, frá forritum og eyðublöðum sem snúa að sjúklingum til skjáa sem klínískt starfsfólk notar við sjúkrabeðið. Þeir hanna einföld, aðgengileg og örugg samskipti, prófa þau með raunverulegum notendum og nota sameiginleg hönnunarkerfi svo að þjónusta sé samræmd og kunnugleg.
+health_context:
+- Klínískt starfsfólk notar kerfi oft undir tímapressu, með truflunum og á sameiginlegum tækjum, svo hönnun verður að styðja hraða og nákvæma vinnu og gera örugga aðgerð að þeirri auðveldu.
+- Léleg hönnun getur valdið klínískum skaða, svo sem að velja rangan sjúkling eða lesa skammt skakkt, svo hönnuðir beita meginreglum mannlegra þátta og vinna með klínískum öryggisfulltrúum.
+- Margir notendur eru veikir, kvíðnir, aldraðir eða fatlaðir, svo hönnun verður að uppfylla aðgengisstaðla og virka fyrir fólk með litla stafræna færni eða heilsulæsi.
+- Viðvaranir og aðvaranir eru aðeins gagnlegar ef fólk tekur eftir þeim og treystir þeim, svo hönnuðir hjálpa til við að draga úr viðvörunarþreytu og halda öryggismikilvægum upplýsingum sýnilegum.
+levels:
+- title: Aðstoðarsamskiptahönnuður
+  responsibilities:
+  - Læra aðferðir samskiptahönnunar og hönnunarkerfi teymisins með þjálfun og pörun.
+  - Búa til skissur, vírramma og einfaldar frumgerðir undir eftirliti.
+  - Aðstoða við að prófa hönnun með notendum og skrá hvað virkar og hvað ekki.
+  - Fylgja aðgengisstöðlum og mynstrum hönnunarkerfisins, þar á meðal þeim sem varða auðkenni sjúklings og öryggisviðvaranir.
+  qualifications:
+  - Stefnir á menntun eða iðnnám í hönnun eða skyldri grein, eða sambærileg reynsla.
+- title: Yngri samskiptahönnuður
+  responsibilities:
+  - Hanna og gera frumgerðir af hlutum þjónustu, svo sem eyðublöðum, flæði og skjám, með leiðsögn eldri hönnuðar.
+  - Prófa hönnun með sjúklingum, aðstandendum og starfsfólki og breyta henni út frá því sem lærist.
+  - Hanna aðgengileg samskipti sem virka með hjálpartækni.
+  - Útskýra hönnunarákvarðanir fyrir teyminu, þar á meðal hvernig þær draga úr líkum á villum.
+  qualifications:
+  - Háskólagráða í hönnun eða skyldri grein, eða sambærileg reynsla.
+- title: Samskiptahönnuður
+  responsibilities:
+  - Hanna samskipti fyrir stafræna heilbrigðisvöru, frá fyrstu hugmyndum til ítarlegrar, prófaðrar hönnunar.
+  - Hanna fyrir klínískt vinnuflæði og prófa með klínísku starfsfólki og umönnunarstarfsfólki í raunhæfum sviðsmyndum, þar á meðal með truflunum.
+  - Vekja máls á hönnunartengdum hættum við klíníska öryggisfulltrúann og skrá hvernig hönnun stýrir þeim.
+  - Nota og leggja til hönnunarkerfisins, þar á meðal mynstur fyrir öryggismikilvægar upplýsingar.
+  - Vinna náið með hugbúnaðarsmiðum að því að tryggja að hönnun sé smíðuð eins og ætlað er og haldist aðgengileg.
+  qualifications:
+  - Háskólagráða í hönnun eða skyldri grein, eða sambærileg reynsla.
+  - Reynsla af hönnun stafrænnar þjónustu með notendum.
+  job_evaluation_notes: UK GDaD PCF setur samskiptahönnuð á SEO eða G7, með tillögðum launaflokki 7, sama og eldri samskiptahönnuð. Þessi viðmiðun setur það í launaflokk 6, sama og þjónustuhönnuðarstigið með eins færnistig í PCF, svo samskiptahönnuðarstigin tvö eru ekki í sama launaflokki.
+- title: Eldri samskiptahönnuður
+  responsibilities:
+  - Stýra samskiptahönnun fyrir flókna þjónustu, svo sem klínísk kerfi sem notuð eru þvert á mörg umönnunarumhverfi.
+  - Beita aðferðum mannlegra þátta, svo sem verkgreiningu, á öryggismikilvægt klínískt vinnuflæði.
+  - Leggja fram hönnunargögn fyrir klínísk öryggismál og, þar sem hugbúnaður er lögbundinn, fyrir nothæfisskrár.
+  - Hjálpa til við að móta stefnu og góða venju í hönnun í teymum og leiðbeina öðrum hönnuðum.
+  - Taka hönnunarákvarðanir út frá rannsóknum og gögnum og útskýra þær fyrir klínískum leiðtogum og vöruleiðtogum.
+  qualifications:
+  - Mikil reynsla af samskiptahönnun, á stigi sem jafngildir meistaragráðu.
+- title: Leiðandi samskiptahönnuður
+  responsibilities:
+  - Móta hönnunarstefnu og tryggja gæði samskiptahönnunar þvert á nokkur teymi eða þjónustur.
+  - Stýra hönnunarkerfinu, þar á meðal aðgengilegum og öryggismikilvægum mynstrum sem teymi þvert á stofnunina endurnýta.
+  - Stýra vinnu í mannlegum þáttum í klínískri þjónustu með mestu áhættuna, með klínískum öryggisfulltrúum.
+  - Vinna með æðri vöruleiðtogum og klínískum leiðtogum að því að þróa hönnunarhugmyndir fyrir stóra þjónustu.
+  - Vera línustjóri samskiptahönnuða og þróa þá.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í samskiptahönnun þvert á teymi.
+  job_evaluation_notes: Ekkert stig er í launaflokki 8a, því UK GDaD PCF setur leiðandi samskiptahönnuð á G7 eða G6 og þessi viðmiðun fylgir tillögðum launaflokki 8b. Stefna er á stigi 5 því leiðandi hönnuðurinn setur hönnunarstaðla fyrir ýmsa þjónustu.
+- title: Yfirmaður samskiptahönnunar
+  responsibilities:
+  - Stýra samskiptahönnun sem fagstétt og móta stefnu hennar, staðla og vinnulag.
+  - Hafa áhrif á hönnunar- og skipulagsstefnu svo að þjónusta sé nothæf, aðgengileg og örugg.
+  - Bera ábyrgð á hönnunarkerfi stofnunarinnar og tryggja að það uppfylli kröfur um aðgengi og klínískt öryggi.
+  - Byggja upp hönnunargetu, þar á meðal ráðningar, starfsferla og þjálfun.
+  - Vinna með jafningjum þvert á heilbrigðis- og velferðarkerfið að sameiginlegum hönnunarmynstrum.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í hönnun og hönnunarstarfi.

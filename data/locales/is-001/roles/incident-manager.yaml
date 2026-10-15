@@ -1,0 +1,32 @@
+summary: Atvikastjórar koma eðlilegri þjónustu aftur á eins fljótt og unnt er þegar eitthvað fer úrskeiðis og halda áhrifum á notendur eins litlum og hægt er. Þeir samræma tæknileg teymi og birgja, halda notendum og leiðtogum upplýstum og tryggja að atvik séu skráð og komin til vandamálastjórnunar. Í heilbrigðisþjónustu geta atvik haft bein áhrif á umönnun sjúklinga, svo atvikastjórar vinna náið með klínískum leiðtogum og rekstrarleiðtogum.
+health_context:
+- Rekstrarstöðvun klínísks kerfis getur tafið meðferð, svo atvikum er forgangsraðað eftir klínískum áhrifum og klínískir leiðtogar kunna að þurfa að hefja niðurstreymisverklag.
+- Meiriháttar atvik geta orðið hvenær sem er, svo atvikastjórar taka þátt í bakvaktakerfum og kunna að vera kallaðir út að nóttu eða um helgar.
+- Netárás, svo sem gíslatökuhugbúnaður, getur orðið að meiriháttar atviki sem hefur áhrif á alla stofnunina og stendur dögum eða vikum saman.
+- Meiriháttar upplýsingatækniatvik kunna að þurfa að tengjast viðbúnaði stofnunarinnar vegna neyðarástands og samfellu í rekstri.
+- Atvik sem kunna að hafa skaðað sjúklinga eru einnig tilkynnt í gegnum klíníska atvikaferlið og yfirfarin með klínísku öryggi.
+levels:
+- title: Atvikastjóri
+  responsibilities:
+  - Samræma viðbrögð við atvikum sem hafa áhrif á klíníska þjónustu og rekstrarþjónustu, frá fyrstu tilkynningu til endurheimtrar þjónustu.
+  - Meta klínísk áhrif og rekstraráhrif hvers atviks og ákveða forgang þess.
+  - Halda þeim notendum sem verða fyrir áhrifum, þjónustuborðinu og klínískum leiðtogum upplýstum með skýrum og tímanlegum uppfærslum.
+  - Vísa atvikum til meiriháttar atvikastjóra þegar þau uppfylla samþykkt viðmið.
+  - Tryggja að atvik séu skráð nákvæmlega og komin til vandamálastjórnunar.
+  - Taka þátt í bakvaktakerfinu vegna atvika utan vinnutíma.
+  qualifications:
+  - Reynsla af upplýsingatæknistuðningi eða -rekstri, þar á meðal meðferð atvika.
+  - Grunnmenntun í upplýsingatækniþjónustustjórnun, eða sambærileg reynsla.
+  job_evaluation_notes: Andlegt erfiði endurspeglar tíða langvarandi einbeitingu undir tímapressu, þar á meðal á bakvakt. Tilfinningalegt erfiði endurspeglar tíða óbeina útsetningu fyrir áhrifum rekstrarstöðvana á sjúklinga og starfsfólk.
+- title: Meiriháttar atvikastjóri
+  responsibilities:
+  - Stýra viðbrögðum við meiriháttar atvikum, svo sem rekstrarstöðvunum rafrænu sjúkraskrárinnar, netbilunum og netárásum.
+  - Stýra atvikafundum sem leiða saman tæknileg teymi, birgja, klíníska leiðtoga og samskiptastarfsfólk.
+  - Ráðleggja klínískum leiðtogum og rekstrarleiðtogum um hvenær hefja eigi og ljúka niðurstreymis- og samfelluverklagi.
+  - Upplýsa æðri leiðtoga og, þar sem þarf, tengjast viðbúnaðarskipan stofnunarinnar vegna neyðarástands.
+  - Stýra eftirárýni atvika og tryggja að lærdómur sé dreginn og brugðist við honum.
+  - Þróa og prófa áætlanir vegna meiriháttar atvika með leiðtogum samfellu í rekstri og neyðarskipulags.
+  qualifications:
+  - Mikil reynsla af stjórnun atvika í flókinni þjónustu sem krefst mikils aðgengis.
+  - Framhaldsmenntun í upplýsingatækniþjónustustjórnun, eða sambærileg reynsla.
+  job_evaluation_notes: Andlegt erfiði endurspeglar tíða langvarandi einbeitingu við meiriháttar atvik, oft utan vinnutíma. Tilfinningalegt erfiði endurspeglar tíða óbeina útsetningu fyrir áhrifum meiriháttar rekstrarstöðvana á umönnun sjúklinga.
