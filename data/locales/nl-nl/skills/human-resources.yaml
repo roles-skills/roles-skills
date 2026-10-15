@@ -1,0 +1,298 @@
+# Dutch translations of data/skills/human-resources.yaml. Keys are the English skill ids.
+hr-hr-administration:
+  name: HR-administratie
+  description: De administratieve processen van de levenscyclus van het dienstverband nauwkeurig en vertrouwelijk uitvoeren, van contracten en nieuwe medewerkers tot wijzigingen, registraties van verzuim en vertrekkers.
+  levels:
+    awareness: |
+      U kunt:
+      - de procedures van de organisatie voor nieuwe medewerkers, wijzigingen en vertrekkers volgen
+      - persoonlijke dossiers vertrouwelijk en actueel houden
+    working: |
+      U kunt:
+      - contracten, brieven over wijzigingen en controles van het dienstverband nauwkeurig opstellen
+      - wijzigingen in het HR- en salarissysteem verwerken tegen deadlines
+      - routinevragen van managers en personeel over HR-processen beantwoorden
+    practitioner: |
+      U kunt:
+      - een dienst voor HR-administratie uitvoeren, de kwaliteit controleren en normen van dienstverlening halen
+      - processen en sjablonen verbeteren en waar mogelijk routinestappen automatiseren
+      - complexe of ongewone zaken oplossen, zoals te veel betaalde bedragen of fouten in contracten
+    expert: |
+      U kunt:
+      - het operationele model en de normen van dienstverlening voor HR van de organisatie ontwerpen
+      - de overgang naar digitale HR-processen met self-service leiden
+      - beheersmaatregelen vaststellen die HR- en salarisdata nauwkeurig en rechtmatig houden
+hr-employment-policy:
+  name: Arbeidsrecht en beleid rond mensen
+  description: Arbeidsrecht toepassen en het beleid van de organisatie rond mensen schrijven, interpreteren en toetsen zodat personeel rechtmatig, eerlijk en consistent wordt behandeld.
+  levels:
+    awareness: |
+      U kunt:
+      - het belangrijkste beleid rond mensen uitleggen en weten waar het te vinden is
+      - herkennen wanneer een vraag advies van een HR-adviseur nodig heeft
+    working: |
+      U kunt:
+      - beleid rond mensen toepassen op routinezaken en het aan managers uitleggen
+      - de beginselen van arbeidsrecht achter een beleid vaststellen
+      - registraties van beleid bijhouden en data van toetsing van beleid volgen
+    practitioner: |
+      U kunt:
+      - arbeidsrecht en beleid voor complexe zaken interpreteren en adviseren over risico
+      - beleid rond mensen opstellen en toetsen, met beoordelingen van het effect op gelijkheid
+      - over wijzigingen van beleid overleggen met vertegenwoordigers van het personeel
+    expert: |
+      U kunt:
+      - het kader voor beleid rond mensen en de aanpak van juridisch risico van de organisatie vaststellen
+      - wijzigingen in arbeidsrecht voorzien en de reactie van de organisatie plannen
+      - het bestuur adviseren over risico’s en aansprakelijkheid in het dienstverband
+hr-employee-relations:
+  name: Zaken van arbeidsrelaties
+  description: Formele en informele zaken van arbeidsrelaties, zoals gedrag, bekwaamheid, klachten, verzuim en waardigheid op het werk, eerlijk en in lijn met beleid en arbeidsrecht behandelen.
+  levels:
+    awareness: |
+      U kunt:
+      - de belangrijkste fasen van procedures voor gedrag, bekwaamheid, klachten en verzuim uitleggen
+      - nauwkeurige notities maken bij formele gesprekken en dossiers van zaken vertrouwelijk houden
+    working: |
+      U kunt:
+      - managers adviseren over eenvoudige zaken en de volgende stap in een procedure
+      - onderzoeken ondersteunen, stukken voor zaken voorbereiden en hoorzittingen regelen
+      - constructief samenwerken met vertegenwoordigers van het personeel bij individuele zaken
+    practitioner: |
+      U kunt:
+      - een portefeuille van complexe zaken beheren en panels bij hoorzittingen adviseren over eerlijke uitkomsten
+      - onderzoeken uitvoeren of leiden, ook die samenhangen met incidenten of bescherming van kwetsbare personen
+      - vroege oplossing en bemiddeling gebruiken om geschillen te beslechten voordat ze escaleren
+      - trends in zaken opmerken en op de oorzaken handelen
+    expert: |
+      U kunt:
+      - de aanpak van de organisatie voor arbeidsrelaties en samenwerking met vertegenwoordigers van het personeel leiden
+      - de gevoeligste zaken of zaken met hoog risico afhandelen, ook claims uit het dienstverband
+      - collectieve overeenkomsten onderhandelen en collectieve geschillen oplossen
+hr-recruitment-and-selection:
+  name: Werving en selectie
+  description: Mensen eerlijk en efficiënt aantrekken, beoordelen en aanstellen, van functieontwerp en adverteren tot selecteren, beoordelen, aanbieding en controles vóór indiensttreding.
+  levels:
+    awareness: |
+      U kunt:
+      - de fasen van het wervingsproces van de organisatie uitleggen
+      - de regels voor eerlijke en veilige werving volgen, inclusief controles vóór indiensttreding
+    working: |
+      U kunt:
+      - wervingscampagnes uitvoeren via het systeem voor het volgen van kandidaten
+      - managers ondersteunen bij advertenties, selecteren en regelingen voor gesprekken
+      - controles vóór indiensttreding voltooien en voorwaardelijke aanbiedingen doen
+    practitioner: |
+      U kunt:
+      - managers adviseren over functieontwerp, selectiemethoden en eerlijke beoordeling
+      - beoordelingen voor specialistische rollen ontwerpen, zoals technische opdrachten voor digitale rollen
+      - wervingsdata analyseren om de tijd tot aanstelling, kwaliteit en diversiteit te verbeteren
+      - de ervaring van kandidaten en het werkgeversmerk beheren
+    expert: |
+      U kunt:
+      - de wervingsstrategie en normen van dienstverlening van de organisatie vaststellen
+      - de keuze en het gebruik van technologie en bureaus voor werving leiden
+      - zorgen dat werving in de hele organisatie inclusief en rechtmatig is
+hr-talent-attraction:
+  name: Talent aantrekken en zoeken
+  description: Mensen met schaarse vaardigheden, zoals specialisten in digitaal, data en technologie, vinden en betrekken via werkgeversmerk, direct zoeken, netwerken en routes voor beginnende loopbanen.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen welke vaardigheden moeilijk te werven zijn en waarom
+      - vacatures delen via de kanalen en netwerken van de organisatie
+    working: |
+      U kunt:
+      - advertenties schrijven die specialistische kandidaten aanspreken en begrijpelijke taal gebruiken
+      - kandidaten zoeken op vacaturesites, in professionele netwerken en in talentpools
+      - evenementen ondersteunen, zoals carrièrebeurzen en open dagen
+    practitioner: |
+      U kunt:
+      - talentpijplijnen en gemeenschappen opbouwen voor schaarse digitale en datarollen
+      - samen met teams die werven de waardepropositie als werkgever vormgeven
+      - marktdata over beloning en aanbod gebruiken om te adviseren over moeilijk te vervullen rollen
+      - routes voor beginnende loopbanen ontwikkelen, zoals leerwerktrajecten en traineeprogramma’s
+    expert: |
+      U kunt:
+      - de strategie voor het aantrekken van talent en het werkgeversmerk van de organisatie vaststellen
+      - met partners, zoals universiteiten en andere werkgevers, het aanbod van talent laten groeien
+      - beslissingen leiden over toeslagen in beloning, gebruik van bureaus en alternatieve modellen om te zoeken
+hr-workforce-planning:
+  name: Personeelsplanning
+  description: Het personeel voorspellen dat de organisatie nodig heeft, het vergelijken met het personeel dat zij heeft en plannen hoe het hiaat wordt gedicht door werving, ontwikkeling, herontwerp en behoud.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom personeelsplanning ertoe doet voor veilige en houdbare diensten
+      - nauwkeurige informatie over formatie en vacatures leveren
+    working: |
+      U kunt:
+      - data voor het personeelsplan van managers verzamelen en controleren
+      - eenvoudige scenario’s modelleren, zoals trends in verloop en vacatures
+    practitioner: |
+      U kunt:
+      - personeelsplanning voor een directoraat leiden en haar koppelen aan plannen voor diensten en financiën
+      - tekorten aan vaardigheden vaststellen en manieren aanbevelen om ze te dichten
+      - nieuwe rollen, loopbaanpaden en de mix van vaardigheden plannen
+    expert: |
+      U kunt:
+      - de personeelsstrategie en het langetermijnplan van de organisatie vaststellen
+      - samen met financiën en leiders van diensten afwegingen in personeel over diensten heen maken
+      - personeelsplannen met partners in het stelsel van gezondheid en zorg vormgeven
+hr-workforce-information:
+  name: Personeelsinformatie en HR-systemen
+  description: HR- en personeelssystemen en -data beheren en personeelsdata omzetten in rapporten en inzicht, zoals verloop, verzuim, vacatures, diversiteit en analyse van beloningsverschillen.
+  levels:
+    awareness: |
+      U kunt:
+      - personeelsdata nauwkeurig invoeren in het HR-systeem
+      - uitleggen waarom personeelsdata nauwkeurig en vertrouwelijk moeten zijn
+    working: |
+      U kunt:
+      - standaardrapporten over personeel draaien en op fouten controleren
+      - routinevragen om informatie over het personeel beantwoorden
+    practitioner: |
+      U kunt:
+      - personeelsdata analyseren om trends te vinden en ze aan managers uitleggen
+      - dashboards en rapporten voor indicatoren van personeel ontwerpen
+      - wettelijke rapportage en rapportage over gelijkheid maken, zoals analyse van beloningsverschillen
+    expert: |
+      U kunt:
+      - de strategie voor personeelsinformatie en de datanormen van de organisatie vaststellen
+      - de keuze en ontwikkeling van HR-systemen leiden
+      - inzicht in personeel gebruiken om beslissingen van het bestuur te onderbouwen
+hr-reward-and-job-evaluation:
+  name: Beloning en functiewaardering
+  description: Regels voor salaris en beloning toepassen en functies consistent waarderen tegen een schema voor functiewaardering om ze in de juiste band te plaatsen.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen hoe salarisbanden, periodieken en toeslagen werken
+      - uitleggen dat functies worden ingeschaald door functiewaardering en niet door de persoon in de functie
+    working: |
+      U kunt:
+      - regels voor beloning toepassen, zoals startsalaris, bescherming en toeslagen
+      - controleren of functiebeschrijvingen compleet zijn voordat zij naar waardering gaan
+      - als getraind lid deelnemen aan panels voor functiewaardering
+    practitioner: |
+      U kunt:
+      - panels voor functiewaardering en controles van consistentie leiden
+      - adviseren over inschaling voor nieuwe en veranderde rollen, ook digitale en datarollen
+      - adviseren over toeslagen voor werving en behoud met bewijs uit de markt
+    expert: |
+      U kunt:
+      - de strategie voor beloning van de organisatie binnen het afgesproken kader voor beloning vaststellen
+      - de integriteit van functiewaardering in de hele organisatie borgen
+      - toetsingen van gelijke beloning leiden en op hun bevindingen handelen
+hr-learning-design-and-delivery:
+  name: Ontwerp en geven van leren
+  description: Behoeften aan leren analyseren en dan leren in persoon, online en in de stroom van het werk ontwerpen, geven en evalueren.
+  levels:
+    awareness: |
+      U kunt:
+      - het verschil uitleggen tussen training, leren en ontwikkeling
+      - het uitvoeren van cursussen ondersteunen en registraties van training bijhouden
+    working: |
+      U kunt:
+      - goed omschreven trainingssessies in persoon en online geven
+      - eenvoudige e-learning bouwen in het leermanagementsysteem
+      - terugkoppeling van lerenden verzamelen en samenvatten
+    practitioner: |
+      U kunt:
+      - behoeften aan leren analyseren en gemengde programma’s ontwerpen om ze te halen
+      - leeruitkomsten vaststellen en impact evalueren, niet alleen tevredenheid
+      - leren toegankelijk en inclusief maken voor al het personeel
+    expert: |
+      U kunt:
+      - de strategie en normen voor leren van de organisatie vaststellen
+      - het aanbod van leren, haar technologie en haar financiering leiden
+      - het rendement van de investering van de organisatie in leren tonen
+hr-skills-frameworks-and-career-pathways:
+  name: Kaders voor vaardigheden en loopbaanpaden
+  description: Kaders voor vaardigheden en rollen, zoals deze referentie, het UK GDaD PCF en ESCO, gebruiken om rollen te beschrijven, tekorten aan vaardigheden te beoordelen en loopbaanpaden op te bouwen.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen wat een kader voor vaardigheden is en hoe het rollen en niveaus beschrijft
+      - het rolprofiel en de vaardigheden voor een functie in het kader vinden
+    working: |
+      U kunt:
+      - functiebeschrijvingen koppelen aan rollen, niveaus en vaardigheden in het kader
+      - personeel en managers ondersteunen bij zelfbeoordelingen van vaardigheden
+      - informatie over loopbaanpaden actueel houden
+    practitioner: |
+      U kunt:
+      - analyse van tekorten aan vaardigheden voor een team of beroep uitvoeren en de resultaten rapporteren
+      - loopbaanpaden en ontwikkelroutes ontwerpen met niveaus uit het kader
+      - vaardigheden uit het kader gebruiken om consistente functiebeschrijvingen en beoordelingen te schrijven
+    expert: |
+      U kunt:
+      - vaststellen hoe de organisatie kaders voor vaardigheden over beroepen heen gebruikt
+      - data over vaardigheden gebruiken om de strategie voor personeel, leren en beloning te onderbouwen
+      - bijdragen aan de ontwikkeling van gedeelde kaders met andere organisaties
+hr-organisational-development:
+  name: Organisatieontwikkeling
+  description: Verbeteren hoe de organisatie werkt via cultuur, leiderschap, betrokkenheid, effectiviteit van teams en interventies voor welzijn op basis van bewijs.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen hoe cultuur, leiderschap en betrokkenheid personeel en de zorg voor patiënten raken
+      - helpen enquêtes onder personeel en luisterbijeenkomsten uit te voeren
+    working: |
+      U kunt:
+      - sessies en workshops voor teams faciliteren met standaardinstrumenten
+      - uitkomsten van personeelsenquêtes voor een team analyseren en acties voorstellen
+    practitioner: |
+      U kunt:
+      - kwesties in de organisatie diagnosticeren en interventies ontwerpen om ze aan te pakken
+      - teamontwikkeling, leiderschapsontwikkeling en programma’s voor betrokkenheid leiden
+      - het effect van interventies evalueren met bewijs
+    expert: |
+      U kunt:
+      - de strategie voor organisatieontwikkeling en het cultuurprogramma vaststellen
+      - leidinggevenden coachen en grootschalige cultuurverandering leiden
+      - maten van cultuur en betrokkenheid koppelen aan kwaliteit van zorg en prestaties
+hr-organisational-change:
+  name: Organisatorische verandering en raadpleging
+  description: Wijzigingen in structuren, rollen en werkpatronen plannen en beheren, inclusief formele raadpleging, herplaatsing en ontslag, in lijn met beleid en arbeidsrecht.
+  levels:
+    awareness: |
+      U kunt:
+      - de belangrijkste fasen van een proces van organisatorische verandering uitleggen
+      - de administratie van een wijziging ondersteunen, zoals brieven en bijeenkomsten voor raadpleging
+    working: |
+      U kunt:
+      - managers ondersteunen bij het voorbereiden van documenten voor raadpleging en briefings voor personeel
+      - reacties en acties tijdens raadpleging volgen
+      - personeel ondersteunen door processen van herplaatsing en selectie
+    practitioner: |
+      U kunt:
+      - organisatorische verandering voor een directoraat leiden, van businesscase tot uitvoering
+      - personeel en hun vertegenwoordigers raadplegen en reageren op hun terugkoppeling
+      - de juridische risico’s en risico’s voor gelijkheid van een wijziging beheren
+    expert: |
+      U kunt:
+      - herstructureringen en overdrachten van diensten in de hele organisatie leiden
+      - de aanpak van de organisatie voor verandering ontwerpen, inclusief samenwerking met vertegenwoordigers van het personeel
+      - het bestuur adviseren over het effect op mensen en het risico van grote verandering
+hr-people-strategy:
+  name: Personeelsstrategie en HR-leiderschap
+  description: De personeelsstrategie van de organisatie vaststellen, de HR-functie leiden en het bestuur adviseren over cultuur, personeel en risico van arbeidsrelaties.
+  levels:
+    awareness: |
+      U kunt:
+      - de personeelsstrategie van de organisatie uitleggen en hoe uw werk haar ondersteunt
+    working: |
+      U kunt:
+      - bijdragen aan plannen rond mensen voor een dienst, met duidelijke acties en maten
+      - over voortgang tegen het plan rond mensen rapporteren
+    practitioner: |
+      U kunt:
+      - plannen rond mensen voor een directoraat schrijven en leiden in lijn met de personeelsstrategie
+      - senior leiders adviseren over risico’s en prioriteiten rond mensen
+      - een deel van de HR-functie leiden en haar normen en prioriteiten vaststellen
+    expert: |
+      U kunt:
+      - de personeelsstrategie van de organisatie vaststellen en de HR-functie leiden
+      - het bestuur adviseren over cultuur, personeel en risico van arbeidsrelaties
+      - de organisatie in personeelszaken vertegenwoordigen bij partners en toezichthouders

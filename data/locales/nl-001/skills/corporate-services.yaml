@@ -1,0 +1,260 @@
+# Dutch translations of data/skills/corporate-services.yaml. Keys are the English skill ids.
+corp-administration:
+  name: Kantoorbeheer
+  description: De administratieve processen uitvoeren die een team of dienst draaiende houden, zoals archiveren, bestellen, data-invoer, dossiers en het volgen van kantoorprocedures.
+  levels:
+    awareness: |
+      U kunt:
+      - kantoorprocedures voor archiveren, bestellen en data-invoer volgen
+      - nauwkeurige registraties van uw eigen werk bijhouden
+    working: |
+      U kunt:
+      - met weinig toezicht een reeks administratieve processen voor een team uitvoeren
+      - fouten in dossiers en data opmerken en herstellen
+      - eenvoudigere werkwijzen voorstellen
+    practitioner: |
+      U kunt:
+      - de administratieve ondersteuning voor een dienst of directoraat organiseren
+      - administratieve procedures schrijven en verbeteren
+      - andere administrateurs trainen en hun werk controleren
+    expert: |
+      U kunt:
+      - administratieve diensten in de hele organisatie ontwerpen
+      - de overgang naar eenvoudigere, digitale administratieve processen leiden
+corp-office-software:
+  name: Digitale kantoorinstrumenten
+  description: Tekstverwerking, spreadsheets, presentaties, e-mail, gedeelde documenten en samenwerkingsinstrumenten snel en nauwkeurig gebruiken.
+  levels:
+    awareness: |
+      U kunt:
+      - documenten, e-mails en eenvoudige spreadsheets maken en bewerken
+      - bestanden op de juiste plek opslaan en delen
+    working: |
+      U kunt:
+      - snel en nauwkeurig goed opgemaakte documenten en presentaties maken
+      - spreadsheets gebruiken om data te sorteren, te filteren en samen te vatten
+      - samenwerkingsinstrumenten gebruiken om gedeelde documenten en versies te beheren
+    practitioner: |
+      U kunt:
+      - sjablonen, overzichten en eenvoudige geautomatiseerde werkstromen bouwen
+      - documenten voor iedereen toegankelijk maken
+      - collega’s helpen het meeste uit kantoorinstrumenten te halen
+    expert: |
+      U kunt:
+      - normen voor sjablonen, documentbeheer en samenwerkingsinstrumenten vaststellen
+      - de invoering van nieuwe kantoorinstrumenten in de hele organisatie leiden
+corp-diary-and-meeting-management:
+  name: Agenda- en vergaderbeheer
+  description: Agenda’s, vergaderingen en reizen beheren zodat de tijd van mensen goed wordt besteed en vergaderingen de juiste mensen, stukken en ruimtes hebben.
+  levels:
+    awareness: |
+      U kunt:
+      - vergaderingen en ruimtes boeken met de instrumenten van de organisatie
+      - uitnodigingen en stukken op tijd verzenden
+    working: |
+      U kunt:
+      - agenda’s voor een team beheren en conflicten oplossen
+      - reizen, evenementen en vergaderingen met externe partners regelen
+      - zorgen dat stukken en acties vóór vergaderingen gereed zijn
+    practitioner: |
+      U kunt:
+      - de agenda van een senior leider beheren en samen met hem prioriteiten stellen
+      - beslissen wat zijn tijd nodig heeft en wat anderen kunnen afhandelen
+      - de jaarlijkse cyclus van vergaderingen voor een bestuur of leiderschapsteam plannen
+    expert: |
+      U kunt:
+      - de bedrijfscyclus voor een directieteam uitvoeren
+      - zorgen dat de tijd van senior leiders is gericht op de prioriteiten van de organisatie
+corp-minute-taking:
+  name: Notuleren en vastleggen van vergaderingen
+  description: Besprekingen, beslissingen en acties nauwkeurig en beknopt vastleggen en formele registraties van vergaderingen bijhouden.
+  levels:
+    awareness: |
+      U kunt:
+      - acties en beslissingen in teamvergaderingen noteren
+    working: |
+      U kunt:
+      - nauwkeurige, beknopte notulen en actielijsten voor routinevergaderingen schrijven
+      - acties met hun eigenaren opvolgen
+    practitioner: |
+      U kunt:
+      - formele notulen maken van vergaderingen van het bestuur en commissies, ook van complexe of omstreden besprekingen
+      - formele registraties van vergaderingen bijhouden die audits en onderzoeken doorstaan
+      - voorzitters adviseren over wat de registratie moet tonen
+    expert: |
+      U kunt:
+      - normen voor formele registraties van vergaderingen in de hele organisatie vaststellen
+      - notulisten trainen en hun kwaliteit controleren
+corp-correspondence-management:
+  name: Afhandelen van correspondentie en vragen
+  description: Brieven, e-mails, telefoontjes en vragen snel en beleefd afhandelen en ze naar de juiste persoon doorsturen.
+  levels:
+    awareness: |
+      U kunt:
+      - telefoontjes en e-mails beleefd beantwoorden en nauwkeurige boodschappen opnemen
+      - vragen doorgeven aan de juiste persoon
+    working: |
+      U kunt:
+      - routinecorrespondentie en vragen zelf afhandelen
+      - brieven en antwoorden opstellen die anderen ondertekenen
+      - logboeken van correspondentie bijhouden en antwoorden najagen
+    practitioner: |
+      U kunt:
+      - correspondentie voor een senior leider beheren, inclusief gevoelige brieven en klachtenbrieven
+      - antwoorden opstellen die tact, nauwkeurigheid en oordeel vragen
+      - zorgen dat antwoorden deadlines halen
+    expert: |
+      U kunt:
+      - het proces en de normen voor correspondentie van de directie vaststellen
+      - de gevoeligste correspondentie afhandelen, ook met toezichthouders, partners en de media
+corp-pmo-reporting:
+  name: Ondersteuning van het project- en portfoliokantoor
+  description: Processen van het project- en portfoliokantoor uitvoeren, zoals plannen, registers, rapportage, documentbeheer en controles van borging.
+  levels:
+    awareness: |
+      U kunt:
+      - projectdocumenten met versiebeheer op de juiste plek bewaren
+      - logboeken van acties, risico’s en kwesties bijwerken wanneer daarom wordt gevraagd
+    working: |
+      U kunt:
+      - plannen, registers en overzichten voor meerdere projecten bijhouden
+      - updates verzamelen en regelmatige statusrapporten maken
+      - controleren of projecten de afgesproken methode volgen
+    practitioner: |
+      U kunt:
+      - rapportage van het portfolio ontwerpen en voortgang, risico’s en baten over projecten heen analyseren
+      - controles van borging en toetsingen bij beslispoorten uitvoeren
+      - projectmanagers adviseren over methode en beheersmaatregelen
+    expert: |
+      U kunt:
+      - een portfoliokantoor voor de organisatie opzetten en leiden
+      - senior leiders duidelijk, betrouwbaar inzicht in het portfolio geven
+      - normen en instrumenten voor project- en portfoliomanagement vaststellen
+corp-assurance-and-audit:
+  name: Contact over borging en audit
+  description: Zekerheid verzamelen dat beheersmaatregelen werken, interne en externe audits ondersteunen en aanbevelingen van audits volgen tot voltooiing.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen hoe audits en borging in de organisatie werken
+      - bewijs leveren wanneer daarom wordt gevraagd
+    working: |
+      U kunt:
+      - bewijs voor audits en inspecties coördineren
+      - aanbevelingen van audits volgen en achterstallige acties najagen
+    practitioner: |
+      U kunt:
+      - borging in kaart brengen over de belangrijkste risico’s van de organisatie
+      - met interne en externe auditors werken om reikwijdte en bevindingen af te spreken
+      - hiaten in borging rapporteren aan commissies
+    expert: |
+      U kunt:
+      - het kader voor borging van de organisatie ontwerpen
+      - de auditcommissie en het bestuur adviseren over de sterkte van borging
+corp-policy-management:
+  name: Beleidsbeheer
+  description: Beleid en procedures van de organisatie schrijven, toetsen, goedkeuren en publiceren en controleren dat mensen ze volgen.
+  levels:
+    awareness: |
+      U kunt:
+      - het beleid dat voor uw werk geldt vinden en volgen
+    working: |
+      U kunt:
+      - het beleidsregister actueel houden en eigenaren herinneren aan toetsingen
+      - controleren of beleid het juiste sjabloon en de juiste route voor goedkeuring gebruikt
+    practitioner: |
+      U kunt:
+      - beleid opstellen en toetsen met inhoudelijke deskundigen
+      - beleid toetsen aan wet, normen en plichten rond gelijkheid
+      - naleving monitoren en hiaten rapporteren
+    expert: |
+      U kunt:
+      - het beleidskader voor de organisatie vaststellen
+      - het bestuur adviseren over prioriteiten en risico’s van beleid
+corp-internal-communications:
+  name: Interne communicatie
+  description: Personeel geïnformeerd en betrokken houden via kanalen zoals het intranet, nieuwsbrieven, briefings en evenementen, vooral tijdens verandering.
+  levels:
+    awareness: |
+      U kunt:
+      - content publiceren op interne kanalen zoals het intranet
+      - de stijl en toon van de organisatie volgen
+    working: |
+      U kunt:
+      - nieuws, briefings en nieuwsbrieven voor personeel schrijven en redigeren
+      - content voor interne kanalen plannen en betrokkenheid meten
+    practitioner: |
+      U kunt:
+      - interne communicatie voor grote verandering plannen, zoals een nieuw klinisch systeem
+      - leiders adviseren over hoe personeel te betrekken en moeilijke boodschappen af te handelen
+      - terugkoppeling en data gebruiken om kanalen te verbeteren
+    expert: |
+      U kunt:
+      - de strategie voor interne communicatie en betrokkenheid van personeel vaststellen
+      - het directieteam adviseren over cultuur en betrokkenheid
+corp-media-relations:
+  name: Relaties met de media
+  description: Relaties met journalisten opbouwen, vragen van de media afhandelen, persberichten schrijven en woordvoerders voorbereiden, ook tijdens incidenten.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen hoe de organisatie vragen van de media afhandelt
+      - vragen van de media direct doorgeven aan het communicatieteam
+    working: |
+      U kunt:
+      - routinevragen van de media registreren en beantwoorden
+      - persberichten en verklaringen opstellen ter goedkeuring
+      - berichtgeving in de media volgen
+    practitioner: |
+      U kunt:
+      - gevoelige en reactieve vragen van de media afhandelen, ook over incidenten of datalekken
+      - woordvoerders briefen en voorbereiden
+      - relaties opbouwen met journalisten over gezondheid en technologie
+    expert: |
+      U kunt:
+      - de omgang met de media tijdens grote incidenten en crises leiden
+      - de reputatie van de organisatie bij senior belanghebbenden beschermen en opbouwen
+      - het bestuur adviseren over reputatierisico
+corp-communications-strategy:
+  name: Communicatiestrategie en -planning
+  description: Communicatie en campagnes plannen die organisatiedoelen halen, met inzicht in doelgroepen, en hun effect evalueren.
+  levels:
+    awareness: |
+      U kunt:
+      - de doelen uitleggen van een communicatieplan waaraan u werkt
+    working: |
+      U kunt:
+      - communicatieplannen voor projecten schrijven, met doelgroepen, boodschappen en kanalen
+      - de resultaten van communicatieactiviteit meten
+    practitioner: |
+      U kunt:
+      - campagnes plannen die gedrag veranderen, zoals patiënten aanmoedigen een digitale dienst te gebruiken
+      - inzicht in doelgroepen en evaluatie gebruiken om campagnes te verbeteren
+      - communicatie voor incidenten en uitval van diensten plannen
+    expert: |
+      U kunt:
+      - de communicatiestrategie voor de organisatie vaststellen
+      - crisiscommunicatie leiden
+      - het bestuur adviseren over reputatie en betrokkenheid van belanghebbenden
+corp-digital-and-social-media:
+  name: Digitale en sociale media
+  description: Content op websites en sociale media plannen, publiceren en beheren, in gesprek gaan met doelgroepen en de resultaten meten.
+  levels:
+    awareness: |
+      U kunt:
+      - goedgekeurde content op de kanalen van de organisatie publiceren
+      - het beleid voor sociale media volgen
+    working: |
+      U kunt:
+      - content voor websites en sociale media plannen en publiceren
+      - reageren op opmerkingen en kwesties opmerken die moeten worden geëscaleerd
+      - over de prestaties van kanalen rapporteren
+    practitioner: |
+      U kunt:
+      - de digitale kanalen van de organisatie en hun contentplannen beheren
+      - negatieve of misleidende berichten afhandelen, ook tijdens incidenten
+      - analyse gebruiken om bereik en betrokkenheid te verbeteren
+    expert: |
+      U kunt:
+      - de strategie en governance voor de digitale kanalen van de organisatie vaststellen
+      - de reactie op online reputatierisico’s leiden

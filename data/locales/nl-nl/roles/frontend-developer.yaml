@@ -1,0 +1,66 @@
+summary: Frontendontwikkelaars bouwen de gebruikersinterfaces van de digitale diensten voor gezondheid van de organisatie, zoals websites en apps voor patiënten, online formulieren en schermen die clinici en zorgpersoneel tijdens de zorg gebruiken. Zij schrijven toegankelijke, snelle en veilige code die voor iedereen werkt, ook voor mensen die ziek of angstig zijn of oudere apparaten gebruiken, en werken in multidisciplinaire productteams met ontwerpers, onderzoekers en clinici.
+health_context:
+- Veel gebruikers zijn ziek, hebben pijn, zijn oud of hebben een beperking, dus toegankelijkheid en eenvoudige, rustige interfaces zijn essentieel en niet optioneel.
+- Een verwarrende of onjuiste weergave van klinische informatie, zoals een dosis van een medicijn, een uitslag of een afspraaktijd, kan patiënten schaden, dus frontendwerk volgt het proces voor klinisch risicobeheer.
+- Interfaces tonen vaak vertrouwelijke gezondheidsinformatie, dus ontwikkelaars ontwerpen voor privacy, bijvoorbeeld op gedeelde apparaten en in drukke klinische gebieden.
+- Clinici gebruiken interfaces onder tijdsdruk en met frequente onderbrekingen, dus schermen moeten snel, voorspelbaar en moeilijk verkeerd te lezen zijn.
+- Patiënten bereiken diensten op een grote verscheidenheid aan apparaten en verbindingen, dus diensten gebruiken progressive enhancement en werken op trage netwerken.
+levels:
+- title: Leerling frontendontwikkelaar
+  responsibilities:
+  - Het designsysteem, de talen en de instrumenten van het team leren via gestructureerde training en samen werken.
+  - Onder nauw toezicht kleine onderdelen van interfaces bouwen, volgens het designsysteem van de organisatie.
+  - Onderdelen met steun van collega’s testen met hulptechnologie, zoals schermlezers.
+  - De procedures voor informatiebeheer en klinische veiligheid volgen bij het werken met test- en live data.
+  - Werken aan een leerwerktraject of een gelijkwaardige kwalificatie.
+  qualifications:
+  - Ingeschreven voor, of werkend aan, een leerwerktraject in softwareontwikkeling of gelijkwaardig.
+  job_evaluation_notes: Kennis wordt gescoord op het niveau dat de functie vraagt zodra de training ver genoeg is gevorderd om het werk te doen.
+- title: Junior frontendontwikkelaar
+  responsibilities:
+  - Met begeleiding functies van interfaces bouwen en testen voor diensten voor patiënten en voor personeel, op basis van user stories.
+  - Het designsysteem en de patronen van de organisatie gebruiken zodat diensten er consistent uitzien en zich consistent gedragen.
+  - Gebreken in toegankelijkheid herstellen en pagina’s controleren tegen toegankelijkheidsnormen zoals WCAG.
+  - Zorgen dat klinische informatie, zoals data, doses en uitslagen, precies zo wordt getoond als gespecificeerd.
+  - Bewijs bijdragen aan klinische veiligheidsdossiers, zoals testresultaten en schermafbeeldingen van wijzigingen.
+  qualifications:
+  - Een bachelor in informatica of een verwant vak, een voltooid leerwerktraject, of gelijkwaardige ervaring.
+- title: Frontendontwikkelaar
+  responsibilities:
+  - Zelfstandig toegankelijke, responsieve interfaces voor diensten voor gezondheid ontwerpen en bouwen en geschikte benaderingen kiezen.
+  - Met ontwerpers en gebruikersonderzoekers prototypes testen met patiënten, clinici en zorgpersoneel.
+  - Interfaces bouwen die API’s voor gezondheidsdata aanroepen, zoals HL7 FHIR-diensten, en fouten en ontbrekende data veilig afhandelen.
+  - Deelnemen aan workshops over gevaren en veiligheidsmaatregelen in de interface inbouwen, zoals bevestigingsstappen en duidelijke waarschuwingen.
+  - Vertrouwelijke informatie in de browser beschermen, bijvoorbeeld door sessies en caching op gedeelde apparaten zorgvuldig te beheren.
+  - Code beoordelen en junior frontendontwikkelaars en leerlingen begeleiden.
+  qualifications:
+  - Een bachelor in informatica of een verwant vak, of gelijkwaardige ervaring.
+  - Ervaring met het bouwen en ondersteunen van toegankelijke webdiensten in productie.
+- title: Senior frontendontwikkelaar
+  responsibilities:
+  - Het frontendontwerp en de levering van belangrijke functies leiden, zoals boeken, uitslagen of schermen voor klinische werkstromen.
+  - Frontendnormen voor het team vaststellen en bijhouden, inclusief toegankelijkheid, prestaties, beveiliging en testen.
+  - Onderdelen en patronen bijdragen aan het designsysteem van de organisatie en zorgen dat ze veilig en toegankelijk zijn.
+  - Met klinischeveiligheidsfunctionarissen zorgen dat gevaren van de interface worden opgespoord, beheerst en getest.
+  - Zorgen dat diensten goed werken op trage verbindingen, oudere apparaten en met hulptechnologie.
+  - Frontendontwikkelaars in het team coachen en ontwikkelen.
+  qualifications:
+  - Aanzienlijke ervaring met het ontwerpen, bouwen en ondersteunen van toegankelijke webdiensten in productie, op een niveau gelijkwaardig aan een master.
+- title: Lead frontendontwikkelaar
+  responsibilities:
+  - Frontend-engineering leiden over een groep teams of een grote dienst voor patiënten.
+  - Eigenaar zijn van de technische richting van het designsysteem en de frontendbibliotheken van de organisatie.
+  - Zorgen dat interfaces over diensten heen voldoen aan toegankelijkheidsnormen en op klinische veiligheid zijn geborgd.
+  - Met architecten, ontwerpers en klinische leiders roadmaps van producten en keuzes in frontendtechnologie vormgeven.
+  - De praktijkgemeenschap voor frontend leiden en hiërarchisch leiding geven aan of leiden van frontendontwikkelaars.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van frontend-engineering voor complexe, toegankelijke diensten.
+- title: Hoofd frontendontwikkeling
+  responsibilities:
+  - De frontendstrategie, normen en praktijken voor alle digitale diensten van de organisatie vaststellen.
+  - Verantwoordelijk zijn voor de toegankelijkheid en bruikbaarheid van de interfaces van de organisatie voor patiënten en personeel.
+  - Senior leiders adviseren over frontendtechnologie, investeringen in het designsysteem en de risico’s van slechte interfaces voor de zorg.
+  - De organisatie vertegenwoordigen in gemeenschappen voor designsystemen en toegankelijkheid over organisaties heen.
+  - Frontendontwikkelaars in de hele organisatie leiden en ontwikkelen, inclusief werving en loopbaanpaden.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van frontendontwikkeling over meerdere teams of organisaties.

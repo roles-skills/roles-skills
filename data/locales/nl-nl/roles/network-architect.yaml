@@ -1,0 +1,39 @@
+summary: Netwerkarchitecten ontwerpen de lokale, regionale, draadloze en cloudnetwerken die de locaties, het personeel, de klinische systemen en de medische hulpmiddelen van de organisatie verbinden. Zij zorgen dat netwerken snel, veerkrachtig en veilig genoeg zijn voor zorg die nooit stopt, en plannen hoe netwerken veranderen naarmate diensten naar de cloud verhuizen en verbinding maken met partnerorganisaties.
+health_context:
+- Klinische systemen, telefonie en medische hulpmiddelen hangen af van het netwerk, dus uitval kan de zorg stilleggen; ontwerpen hebben veerkracht en geteste failover nodig.
+- Netwerken voeren vaak verbonden medische hulpmiddelen die moeilijk te patchen zijn, dus architecten ontwerpen segmentatie en monitoring om ze te beschermen.
+- Personeel werkt in ziekenhuizen, klinieken, gemeenschapsomgevingen en de thuissituatie van patiënten, dus ontwerpen moeten veilige mobiele toegang en toegang op afstand ondersteunen.
+- Netwerken verbinden met gedeelde netwerken voor gezondheid en zorg en partnerorganisaties, die eigen eisen aan verbinding en beveiliging stellen.
+- Wijzigingen in klinische gebieden vragen zorgvuldige planning rond de zorg voor patiënten, bijvoorbeeld door werk buiten drukke periodes in te plannen.
+levels:
+- title: Associate netwerkarchitect
+  responsibilities:
+  - Met begeleiding van netwerkarchitecten netwerkontwerpen, diagrammen en specificaties opstellen.
+  - Locaties opnemen en eisen verzamelen voor klinische gebieden, inclusief draadloze dekking en verbindingen van apparaten.
+  - Registraties van netwerktopologie, adressering en verbonden apparaten actueel houden.
+  - Controleren of ontwerpen voldoen aan serviceniveaus en beveiligingsnormen vóór de toetsing.
+  qualifications:
+  - Een bachelor in informatica of netwerken, een erkende kwalificatie in netwerken, of gelijkwaardige ervaring.
+  - Gespecialiseerde kennis van netwerkontwerp, op het niveau van een postdoctoraal diploma of gelijkwaardige ervaring.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 5): vacatures in de gezondheidssector plaatsen deze rol op Band 6. Kennis wordt gescoord op het niveau van een postdoctoraal diploma, en informatiebronnen op niveau 5 omdat de functie delen van het netwerk ontwerpt waarvan grote informatiesystemen afhangen.'
+- title: Netwerkarchitect
+  responsibilities:
+  - Oplossingen voor lokale, regionale, draadloze en cloudnetwerken voor locaties en diensten ontwerpen.
+  - Netwerksegmentatie ontwerpen voor medische hulpmiddelen, klinische systemen en toegang voor gasten.
+  - Wijzigingen in het netwerk in klinische gebieden plannen met leiders van diensten zodat de zorg niet wordt verstoord.
+  - Serviceniveaus met leveranciers en eisen aan verbindingen met partnernetwerken afspreken.
+  - Nieuwe netwerktechnologieën beoordelen en hun aansluiting op de beveiligingsnormen van de organisatie.
+  qualifications:
+  - Gespecialiseerde kennis van netwerkarchitectuur, op masterniveau of gelijkwaardige ervaring.
+  - Ervaring met het ontwerpen en ondersteunen van netwerken voor ondernemingen.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 6): vacatures in de gezondheidssector plaatsen deze rol op Band 7. Kennis wordt gescoord op masterniveau of gelijkwaardig voor gespecialiseerde kennis over lokale, regionale, draadloze en cloudnetwerken.'
+- title: Lead netwerkarchitect
+  responsibilities:
+  - Eigenaar zijn van de netwerkarchitectuur voor de organisatie, inclusief haar locaties, datacenters en verbindingen met de cloud.
+  - Normen voor netwerkontwerp vaststellen en ontwerpen borgen bij de ontwerpautoriteit.
+  - Veerkracht en herstel van het netwerk voor kritieke klinische diensten ontwerpen en zorgen dat ze worden getest.
+  - Adviseren over investeringen in het netwerk, contracten met leveranciers en de risico’s van nieuwe diensten voor het netwerk.
+  - Optreden als deskundig escalatiepunt en andere netwerkarchitecten en engineers begeleiden.
+  qualifications:
+  - Aanzienlijke ervaring met netwerkarchitectuur voor complexe organisaties, op een niveau gelijkwaardig aan een master.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 7): vacatures in de gezondheidssector plaatsen deze rol op Band 8a. Informatiebronnen is niveau 6 omdat de functie eigenaar is van de netwerkarchitectuur waarvan alle informatiesystemen van de organisatie afhangen.'

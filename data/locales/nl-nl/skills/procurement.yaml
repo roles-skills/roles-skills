@@ -1,0 +1,265 @@
+# Dutch translations of data/skills/procurement.yaml. Keys are the English skill ids.
+proc-purchase-to-pay:
+  name: Inkoop tot betaling
+  description: Orders aanmaken, goedkeuren en ontvangen en vragen over facturen en betalingen oplossen via het inkoopsysteem en de financiële beheersmaatregelen van de organisatie.
+  levels:
+    awareness: |
+      U kunt:
+      - de regel “geen inkooporder, geen betaling” en het belang ervan uitleggen
+      - een aanvraag aanmaken in het inkoopsysteem
+    working: |
+      U kunt:
+      - inkooporders aanmaken en wijzigen en ze controleren tegen contracten
+      - vragen over facturen, ontvangsten en betalingen oplossen met leveranciers en financiën
+      - catalogi en leveranciersregisters in het inkoopsysteem bijhouden
+    practitioner: |
+      U kunt:
+      - het proces van inkoop tot betaling voor een dienst uitvoeren en naleving en achterstanden monitoren
+      - data over uitgaven analyseren om uitgaven buiten contracten en besparingen te vinden
+      - het proces en de beheersmaatregelen met collega’s van financiën verbeteren
+    expert: |
+      U kunt:
+      - het beleid, de beheersmaatregelen en systemen voor inkoop tot betaling van de organisatie vaststellen
+      - de overgang naar volledig elektronisch inkopen en factureren leiden
+proc-procurement-process:
+  name: Aanbestedingsproces
+  description: Conforme aanbestedingen uitvoeren, van planning en specificatie via routes naar de markt, tender, gunning en ondertekening van het contract, inclusief inkopen via raamovereenkomsten en dynamische aankoopsystemen.
+  levels:
+    awareness: |
+      U kunt:
+      - de fasen van een aanbesteding en de drempels die gelden uitleggen
+      - offertes opvragen voor aankopen met lage waarde volgens de regels van de organisatie
+    working: |
+      U kunt:
+      - offertes en afroepen onder raamovereenkomsten uitvoeren met standaardsjablonen
+      - tenderdocumenten voorbereiden en verduidelijkende vragen beheren in het systeem voor e-aanbesteding
+      - een duidelijk spoor van audit van elke aanbesteding bijhouden
+    practitioner: |
+      U kunt:
+      - complexe tenders plannen en leiden en de juiste route naar de markt en procedure kiezen
+      - gebruikers helpen op uitkomsten gebaseerde specificaties te schrijven voor digitale en klinische systemen
+      - tijdschema’s, risico’s en belanghebbenden beheren tot en met gunning van het contract
+    expert: |
+      U kunt:
+      - de aanbestedingsprocedures en sjablonen van de organisatie vaststellen
+      - de meest complexe aanbestedingen met hoge waarde of nieuwe aanbestedingen leiden
+      - aanbestedingsbeslissingen voor het bestuur borgen
+proc-tender-evaluation:
+  name: Beoordeling van tenders
+  description: Criteria en wegingen voor beoordeling ontwerpen en een eerlijke, goed vastgelegde beoordeling van kwaliteit, prijs en maatschappelijke waarde uitvoeren.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom beoordeling de gepubliceerde criteria moet volgen
+      - belangenconflicten melden voordat u deelneemt aan een beoordeling
+    working: |
+      U kunt:
+      - inschrijvingen controleren op naleving en volledigheid
+      - beoordelaars ondersteunen en scores en notities van moderatie vastleggen
+      - onder begeleiding modellen voor beoordeling van prijs voorbereiden
+    practitioner: |
+      U kunt:
+      - criteria, wegingen en richtlijnen voor scoren van beoordeling ontwerpen
+      - moderatie leiden en gunningsrapporten en terugkoppeling aan inschrijvers schrijven
+      - demonstraties en testen met klinische scenario’s of scenario’s van gebruikers voor tenders van systemen plannen
+    expert: |
+      U kunt:
+      - de normen voor beoordeling en de aanpak van prijs en kwaliteit van de organisatie vaststellen
+      - beslissingen over beoordeling verdedigen wanneer zij worden aangevochten
+      - beoordelingen bij aanbestedingen met hoog risico toetsen
+proc-procurement-law-and-policy:
+  name: Regels en beleid voor overheidsaanbesteding
+  description: Regels voor overheidsaanbesteding, de financiële regels van de organisatie en inkoopbeleid toepassen zodat inkopen rechtmatig, transparant en eerlijk is.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen dat publiek geld eerlijk, openlijk en rechtmatig moet worden besteed
+      - de drempels en regels voor goedkeuring van de organisatie volgen
+    working: |
+      U kunt:
+      - de aanbestedingsregels toepassen die bij een eenvoudige aankoop passen
+      - aankondigingen publiceren en registraties bijhouden die voldoen aan regels voor transparantie
+      - opmerken wanneer een verzoek het risico loopt de regels te schenden en dit aankaarten
+    practitioner: |
+      U kunt:
+      - adviseren over de rechtmatige route voor complexe aanbestedingen en wijzigingen van contracten
+      - het risico van bezwaar beheren en de bedenktijd en nabespreking juist afhandelen
+      - beleid en richtlijnen voor aanbesteding voor de organisatie schrijven
+    expert: |
+      U kunt:
+      - nieuwe aanbestedingsregels interpreteren en de reactie van de organisatie leiden
+      - het bestuur adviseren over naleving en risico van aanbesteding
+      - formele bezwaren met juridisch adviseurs afhandelen
+proc-market-analysis:
+  name: Marktanalyse en betrokkenheid van de markt
+  description: Aanbodmarkten begrijpen, leveranciers vóór de aanbesteding betrekken en bewijs uit de markt gebruiken om eisen, routes naar de markt en commerciële modellen vorm te geven.
+  levels:
+    awareness: |
+      U kunt:
+      - leveranciers vinden op raamovereenkomsten en in leveranciersdatabases
+      - uitleggen waarom vroege betrokkenheid van de markt eerlijk moet zijn tegenover alle leveranciers
+    working: |
+      U kunt:
+      - informatie over de markt, prijzen en gegevens van leveranciers voor een eis verzamelen
+      - een verzoek om informatie uitvoeren en de antwoorden samenvatten
+    practitioner: |
+      U kunt:
+      - een aanbodmarkt, haar concurrentie, risico’s en trends analyseren
+      - vroege betrokkenheid van de markt leiden, zoals leveranciersdagen, zonder de concurrentie te vertekenen
+      - bewijs uit de markt gebruiken om eisen en commerciële modellen vorm te geven
+    expert: |
+      U kunt:
+      - markten vormgeven, bijvoorbeeld door nieuwe of kleinere leveranciers aan te moedigen
+      - de marktstrategie met andere inkopende organisaties leiden
+proc-negotiation:
+  name: Commerciële onderhandeling
+  description: Onderhandelingen met leveranciers plannen en voeren om prijs, voorwaarden en prestaties af te spreken die waar voor geld geven en risico beheren.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen wat wel en niet kan worden onderhandeld bij een overheidsaanbesteding
+    working: |
+      U kunt:
+      - prijzen en voorwaarden onderhandelen voor aankopen met lage waarde of routineaankopen
+      - data en opties voorbereiden voor een onderhandeling die door anderen wordt geleid
+    practitioner: |
+      U kunt:
+      - onderhandelingen plannen en leiden en doelen, grenzen en terugvalposities vaststellen
+      - wijzigingen van contracten, verlengingen en de schikking van geschillen onderhandelen
+      - onderhandelingen rechtmatig en goed vastgelegd houden
+    expert: |
+      U kunt:
+      - onderhandelingen met hoge waarde en hoog risico met strategische leveranciers leiden
+      - anderen coachen in onderhandelen en de aanpak voor onderhandelen van de organisatie vaststellen
+proc-category-management:
+  name: Categoriemanagement
+  description: Een categorie van uitgaven, zoals software, cloud en technologiediensten, beheren via een categoriestrategie die de vraag bundelt, eisen vormgeeft en aanbestedingen over meerdere jaren plant.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen wat een categorie is en waarom categorieplannen ertoe doen
+    working: |
+      U kunt:
+      - uitgaven en contracten voor een categorie analyseren en het contractregister actueel houden
+      - het categorieplan ondersteunen, bijvoorbeeld door verlengingen en besparingen te volgen
+    practitioner: |
+      U kunt:
+      - samen met budgethouders en technische leiders een categoriestrategie schrijven en uitvoeren
+      - de pijplijn van aanbestedingen en verlengingen van contracten voor de categorie plannen
+      - besparingen, waarde en risico’s voor de categorie volgen
+    expert: |
+      U kunt:
+      - de aanpak van categoriemanagement voor de organisatie vaststellen
+      - categorieën met de hoogste uitgaven en het hoogste risico leiden en ze afstemmen op de strategie van de organisatie
+      - met andere organisaties samenwerken aan gezamenlijk inkopen
+proc-technology-procurement:
+  name: Aanbesteding van technologie en cloud
+  description: Software, clouddiensten, licenties, hardware en digitale diensten kopen, inclusief software als dienst, commerciële modellen, licenties en de voorwaarden voor beveiliging, gegevensbescherming en interoperabiliteit die technologie voor gezondheid nodig heeft.
+  levels:
+    awareness: |
+      U kunt:
+      - de belangrijkste manieren uitleggen waarop technologie wordt gekocht, zoals licenties, abonnementen en diensten
+      - herkennen dat klinische systemen controles van beveiliging, klinische veiligheid en gegevensbescherming nodig hebben
+    working: |
+      U kunt:
+      - standaardsoftware, hardware en licenties kopen via raamovereenkomsten
+      - aantallen licenties, verlengingen en data voor bijbetaling volgen
+      - standaardeisen voor beveiliging en gegevensbescherming opnemen in documenten
+    practitioner: |
+      U kunt:
+      - cloud, software als dienst en klinische systemen kopen en het juiste commerciële model kiezen
+      - eisen opstellen met leiders van techniek, klinische veiligheid en informatiebeheer
+      - voorwaarden voor interoperabiliteit, open standaarden, eigendom van data en uitstap opnemen in contracten
+      - lock-in vermijden door te plannen voor portabiliteit en concurrentie bij verlenging
+    expert: |
+      U kunt:
+      - de commerciële strategie van de organisatie voor technologie en cloud vaststellen
+      - onderhandelingen over ondernemingsovereenkomsten en strategische platforms leiden
+      - digitale leiders adviseren over de commerciële risico’s van keuzes in technologie
+proc-contract-management:
+  name: Contractmanagement
+  description: Contracten na gunning beheren, inclusief mobilisatie, prestaties, betalingen, wijzigingen, geschillen, verlenging en uitstap, zodat de organisatie krijgt waarvoor zij betaalde.
+  levels:
+    awareness: |
+      U kunt:
+      - een contract vinden en de belangrijkste data, de waarde en de eigenaar uitleggen
+      - wijzigingen en documenten van contracten vastleggen in het contractregister
+    working: |
+      U kunt:
+      - de prestaties van leveranciers monitoren tegen serviceniveaus en kernprestatie-indicatoren
+      - toetsingsgesprekken over contracten voorbereiden en acties volgen
+      - wijzigingen van contracten verwerken en facturen controleren tegen het contract
+    practitioner: |
+      U kunt:
+      - een portfolio van contracten beheren, inclusief klinische contracten en contracten voor technologie
+      - rechtsmiddelen uit het contract gebruiken, zoals servicekredieten, wanneer prestaties tekortschieten
+      - wijzigingen, geschillen en verlengingen binnen de aanbestedingsregels beheren
+      - uitstap vroeg plannen en plannen voor uitstap testen voordat contracten eindigen
+    expert: |
+      U kunt:
+      - het kader en de normen voor contractmanagement van de organisatie vaststellen
+      - het beheer van strategische contracten en contracten met hoog risico leiden
+      - grote geschillen oplossen en beslissen over beëindiging of heraanbesteding
+proc-supplier-relationship-management:
+  name: Beheer van relaties met leveranciers
+  description: Strategische relaties met sleutelleveranciers opbouwen om risico te beheren, prestaties te verbeteren en producten en diensten in de tijd te ontwikkelen.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom goede relaties met leveranciers ertoe doen voor diensten waarop patiënten vertrouwen
+      - professioneel met leveranciers omgaan en contacten vastleggen
+    working: |
+      U kunt:
+      - contacten van leveranciers, routes voor escalatie en registraties actueel houden
+      - de financiële gezondheid en verzekering van leveranciers controleren tegen de eisen
+    practitioner: |
+      U kunt:
+      - leveranciers segmenteren naar risico en waarde en plannen hoe elke groep wordt beheerd
+      - strategische gesprekken met sleutelleveranciers voeren, inclusief roadmap en verbeterplannen
+      - risico’s van leveranciers beheren, zoals financieel falen, cyberincidenten en kwesties in de toeleveringsketen
+    expert: |
+      U kunt:
+      - de strategie van de organisatie voor relaties met leveranciers vaststellen
+      - relaties op directieniveau met strategische leveranciers leiden
+      - de reactie leiden wanneer een kritieke leverancier faalt
+proc-exit-planning:
+  name: Uitstap plannen en teruggave van data
+  description: Het einde van een contract plannen en beheren, inclusief overgang naar een nieuwe leverancier, teruggave en verwijdering van data en continuïteit van diensten voor patiënten en personeel.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom elk contract een plan voor uitstap nodig heeft
+      - de voorwaarden voor uitstap en teruggave van data van een contract vinden
+    working: |
+      U kunt:
+      - plannen voor uitstap en registers van bezittingen en data actueel houden
+      - opzegtermijnen en mijlpalen van uitstap volgen
+    practitioner: |
+      U kunt:
+      - plannen voor uitstap en overgang schrijven met technische, data- en klinische leiders
+      - zorgen dat data in bruikbare standaardformaten worden teruggegeven en daarna veilig worden verwijderd
+      - risico’s van overgang beheren zodat de zorg niet wordt verstoord
+    expert: |
+      U kunt:
+      - de normen van de organisatie voor uitstap, overgang en teruggave van data vaststellen
+      - uitstap uit strategische klinische contracten en contracten voor technologie leiden
+proc-social-value:
+  name: Maatschappelijke waarde en duurzaam inkopen
+  description: Inkoop en contracten gebruiken om maatschappelijke waarde, duurzaamheid van het milieu en eerlijke toeleveringsketens te leveren en te meten wat leveranciers opleveren.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen wat maatschappelijke waarde en duurzaam inkopen voor de organisatie betekenen
+    working: |
+      U kunt:
+      - standaardvragen over maatschappelijke waarde en duurzaamheid opnemen in tenders
+      - rapporten over maatschappelijke waarde van leveranciers verzamelen
+    practitioner: |
+      U kunt:
+      - criteria voor maatschappelijke waarde en duurzaamheid vaststellen die bij het contract passen
+      - toezeggingen van leveranciers beheren, zoals lokale banen, vaardigheden en vermindering van koolstofuitstoot
+      - toeleveringsketens controleren op risico’s zoals dwangarbeid en andere schendingen van mensenrechten
+    expert: |
+      U kunt:
+      - het beleid van de organisatie voor maatschappelijke waarde en duurzaam inkopen vaststellen
+      - uitkomsten van maatschappelijke waarde en koolstofuitstoot rapporteren aan het bestuur

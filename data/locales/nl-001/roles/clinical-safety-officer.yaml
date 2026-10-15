@@ -1,0 +1,46 @@
+summary: Klinischeveiligheidsfunctionarissen zijn geregistreerde clinici die zorgen dat de IT-systemen voor gezondheid die de organisatie bouwt, koopt en inzet veilig zijn voor patiënten. Zij voeren het proces voor klinisch risicobeheer uit, leiden het opsporen van gevaren, zijn eigenaar van gevarenlogboeken en schrijven rapporten van klinische veiligheidsdossiers en keuren ze goed, aan de hand van normen voor klinisch risicobeheer zoals ISO 14971 en IEC 80001-1.
+health_context:
+- De rol moet worden vervuld door een geregistreerde clinicus, zodat veiligheidsoordelen steunen op actuele klinische kennis en professionele verantwoording.
+- IT in de gezondheidszorg kan patiënten schaden door onjuiste, ontbrekende, vertraagde of misleidende informatie, dus de rol beoordeelt risico’s die vaak in data en werkstromen verborgen zitten.
+- Werk aan klinische veiligheid loopt door de hele levensduur van een systeem, van ontwerp en inkoop tot inzet, wijziging en buitengebruikstelling.
+- Sommige producten zijn ook als medisch hulpmiddel gereguleerd, dus de rol werkt samen met collega’s voor regelgeving en kwaliteit waar veiligheidsdossiers en dossiers van hulpmiddelen elkaar overlappen.
+- Veiligheidsincidenten met IT in de gezondheidszorg kunnen ernstige schade veroorzaken, dus de rol onderzoekt incidenten en zorgt dat lessen worden geleerd.
+levels:
+- title: Klinischeveiligheidsfunctionaris
+  summary: Voert het proces voor klinisch risicobeheer uit voor een set producten of wijzigingen, leidt workshops over gevaren, houdt gevarenlogboeken bij en schrijft rapporten van klinische veiligheidsdossiers ter goedkeuring.
+  responsibilities:
+  - Workshops voor het opsporen van gevaren leiden met productteams, clinici en leveranciers.
+  - Klinische risico’s beoordelen en beheersmaatregelen afspreken en dan via testen en bewijs controleren of de maatregelen werken.
+  - Gevarenlogboeken en rapporten van klinische veiligheidsdossiers voor producten en wijzigingen schrijven en bijhouden.
+  - Documentatie van leveranciers over veiligheid beoordelen voor systemen die de organisatie koopt.
+  - Veiligheidsincidenten met IT in de gezondheidszorg onderzoeken en verbeteringen aanbevelen.
+  - Digitale teams adviseren over het proces voor klinisch risicobeheer en veiligheid door ontwerp.
+  qualifications:
+  - Actuele registratie bij een klinische beroepsorganisatie, met aanzienlijke klinische ervaring.
+  - Training in klinisch risicobeheer voor IT in de gezondheidszorg, of gelijkwaardige ervaring.
+  job_evaluation_notes: Patiëntenzorg wordt gescoord op niveau 5 omdat de functie gespecialiseerd advies geeft over de veiligheid van systemen die bij de zorg voor patiënten worden gebruikt. Geestelijke inspanning weerspiegelt langdurige concentratie op documentatie en bewijs over veiligheid.
+- title: Senior klinischeveiligheidsfunctionaris
+  summary: Leidt klinische veiligheid voor een groot programma of een portfolio van systemen met hoog risico, keurt veiligheidsdossiers goed en begeleidt andere klinischeveiligheidsfunctionarissen.
+  responsibilities:
+  - Klinisch risicobeheer leiden voor systemen met hoog risico, zoals elektronische patiëntendossiers, voorschrijven en beslisondersteuning.
+  - Gevarenlogboeken en rapporten van klinische veiligheidsdossiers goedkeuren binnen gedelegeerde bevoegdheid.
+  - Programmabesturen adviseren over klinisch risico en of een systeem veilig live kan gaan.
+  - Onderzoeken van ernstige veiligheidsincidenten met IT in de gezondheidszorg leiden.
+  - Het werk van klinischeveiligheidsfunctionarissen en clinici met training in veiligheid coachen en op kwaliteit controleren.
+  - Helpen het systeem en de sjablonen van de organisatie voor klinisch risicobeheer te verbeteren.
+  qualifications:
+  - Actuele registratie bij een klinische beroepsorganisatie, met uitgebreide klinische ervaring.
+  - Aanzienlijke ervaring met klinisch risicobeheer voor IT in de gezondheidszorg.
+- title: Hoofd klinische veiligheid
+  summary: Is eigenaar van het systeem voor klinisch risicobeheer voor IT in de gezondheidszorg van de organisatie, leidt het team voor klinische veiligheid en geeft het bestuur de zekerheid dat haar digitale diensten klinisch veilig zijn.
+  responsibilities:
+  - Eigenaar zijn van het systeem, beleid en de processen voor klinisch risicobeheer voor alle IT in de gezondheidszorg.
+  - Het team voor klinische veiligheid en het bredere netwerk van clinici met training in veiligheid leiden en ontwikkelen.
+  - Veiligheidsdossiers voor grote systemen borgen en de definitieve klinische veiligheidsaanbeveling over inzet doen.
+  - De reactie op ernstige veiligheidsincidenten met IT in de gezondheidszorg leiden, ook met partners en leveranciers.
+  - Over risico’s en borging van klinische veiligheid rapporteren aan het bestuur en zijn commissies.
+  - Een cultuur van klinische veiligheid opbouwen over digitale, klinische en leveranciersteams heen.
+  qualifications:
+  - Actuele registratie bij een klinische beroepsorganisatie, met uitgebreide klinische en leidinggevende ervaring.
+  - Uitgebreide ervaring met het leiden van klinisch risicobeheer voor IT in de gezondheidszorg in een organisatie.
+  job_evaluation_notes: Patiëntenzorg wordt gescoord op niveau 6 omdat de functie verantwoordelijk is voor de klinische veiligheid van de IT in de gezondheidszorg van de organisatie. Emotionele inspanning weerspiegelt het regelmatig beoordelen van incidenten met schade aan patiënten.

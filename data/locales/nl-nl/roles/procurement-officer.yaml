@@ -1,0 +1,59 @@
+summary: Inkopers helpen de organisatie de goederen en diensten te kopen die zij nodig heeft, rechtmatig en met goede waarde, van routineaankopen tot formele aanbestedingen. In een organisatie voor digitale gezondheid en zorg gaat veel van deze uitgave naar software, clouddiensten, licenties, apparaten en technologiediensten, dus zij werken nauw samen met collega’s van digitaal, informatiebeheer en klinische veiligheid en met budgethouders.
+health_context:
+- De regels voor overheidsaanbesteding zijn van toepassing op de uitgaven van de organisatie, dus elke aankoop moet de juiste route volgen, een duidelijk spoor van audit houden en leveranciers eerlijk behandelen.
+- Veel aankopen zijn digitaal, zoals softwarelicenties, cloudabonnementen en apparaten, en vragen controles van beveiliging, gegevensbescherming en klinische veiligheid vóór het contract.
+- Leveranciers van klinische systemen kunnen patiëntdata bewaren, dus contracten hebben duidelijke voorwaarden nodig over gegevensbescherming, eigendom van data en teruggave van data.
+- Inkopen via raamovereenkomsten en dynamische aankoopsystemen voor de publieke sector kan tijd besparen, maar afroepen moeten nog steeds de regels van elke raamovereenkomst volgen.
+- Publieke uitgaven moeten waar voor geld en maatschappelijke waarde tonen, zoals lokale banen, vaardigheden en lagere koolstofuitstoot.
+levels:
+- title: Inkoopassistent
+  summary: Biedt ondersteuning bij inkoop en administratie, volgens vaste procedures, met een inkoper dichtbij.
+  responsibilities:
+  - Inkooporders aanmaken en wijzigen in het inkoopsysteem en ze controleren tegen contracten en goedkeuringen.
+  - Routinevragen over facturen en ontvangsten oplossen met leveranciers, budgethouders en financiën.
+  - Offertes opvragen voor aankopen met lage waarde volgens de regels van de organisatie.
+  - Leveranciersregisters, catalogi en het contractregister actueel houden.
+  - Routinevragen van personeel over hoe te kopen beantwoorden.
+  qualifications:
+  - Een kwalificatie op niveau 2 of 3, een leerwerktraject in inkoop, of gelijkwaardige ervaring.
+  - Ervaring met nauwkeurig administratief of financieel werk.
+  job_evaluation_notes: Financiële middelen is niveau 2 omdat de functie orders aanmaakt en wijzigt die uitgaven vastleggen die door anderen zijn goedgekeurd.
+- title: Aankoper
+  summary: Koopt goederen en diensten via offertes en afroepen onder raamovereenkomsten, inclusief standaardsoftware, apparaten en licenties, binnen vaste procedures.
+  responsibilities:
+  - Offertes en verdere competities onder raamovereenkomsten uitvoeren, met standaardsjablonen en het systeem voor e-aanbesteding.
+  - Standaardsoftware, apparaten en licenties kopen en verlengingen en aantallen licenties volgen.
+  - Controleren dat standaardeisen voor beveiliging, gegevensbescherming en toegankelijkheid vóór aankoop zijn opgenomen.
+  - Prijzen en voorwaarden voor routineaankopen onderhandelen.
+  - Een duidelijk spoor van audit bijhouden en aankondigingen van gunning publiceren waar de regels dat vereisen.
+  - Data over uitgaven analyseren om uitgaven buiten contracten te vinden en betere routes voor te stellen.
+  qualifications:
+  - Een kwalificatie op certificaatniveau in inkoop, een leerwerktraject in inkoop, of gelijkwaardige ervaring.
+  - Ervaring met inkopen via offertes of raamovereenkomsten.
+  job_evaluation_notes: Financiële middelen is niveau 3 omdat de functie namens budgethouders benodigdheden en diensten koopt.
+- title: Inkoper
+  summary: Voert aanbestedingen van gemiddelde waarde en complexiteit uit, inclusief formele aanbestedingen, van planning tot gunning van het contract, met een senior inkoper beschikbaar voor advies.
+  responsibilities:
+  - Formele aanbestedingen en competities onder raamovereenkomsten van planning tot gunning uitvoeren en tijdschema’s en verduidelijkende vragen beheren.
+  - Budgethouders helpen duidelijke, op uitkomsten gebaseerde specificaties te schrijven, inclusief technische eisen en eisen voor gegevensbescherming.
+  - Beoordeling opzetten, inschrijvingen controleren op naleving, beoordelaars ondersteunen en moderatie vastleggen.
+  - Gunningsrapporten en terugkoppeling aan inschrijvers schrijven en de bedenktijd beheren.
+  - Vragen over maatschappelijke waarde en duurzaamheid opnemen die bij het contract passen.
+  - Contracten overdragen aan contractmanagers met duidelijke plannen voor mobilisatie en uitstap.
+  - Budgethouders trainen in hoe te kopen en toezicht houden op inkoopassistenten.
+  qualifications:
+  - Een erkende professionele kwalificatie voor inkoop op tussenniveau, of gelijkwaardige ervaring.
+  - Ervaring met het uitvoeren van formele aanbestedingen onder de regels voor overheidsaanbesteding.
+- title: Senior inkoper
+  summary: Leidt complexe aanbestedingen, zoals klinische systemen, clouddiensten en technologiediensten, en adviseert over de juiste route naar de markt, met brede vrijheid binnen het inkoopbeleid.
+  responsibilities:
+  - Complexe aanbestedingen met hoge waarde leiden en de juiste route naar de markt en procedure kiezen.
+  - Vroege marktbetrokkenheid en verzoeken om informatie leiden en de concurrentie eerlijk houden.
+  - Criteria en wegingen voor beoordeling ontwerpen met technische, klinische en leiders van informatiebeheer en moderatie leiden.
+  - Zorgen dat contracten voor technologie voorwaarden voor interoperabiliteit, beveiliging, eigendom van data, uitstap en teruggave van data bevatten.
+  - Met inschrijvers onderhandelen waar de procedure het toestaat en de definitieve voorwaarden afspreken.
+  - Adviseren over wijzigingen van contracten, verlengingen en onderhandse gunningen en het risico van bezwaar.
+  - Inkopers en aankopers coachen en hun werk controleren.
+  qualifications:
+  - Een erkende professionele kwalificatie voor inkoop op gevorderd niveau, of gelijkwaardige ervaring.
+  - Aanzienlijke ervaring met het leiden van complexe aanbestedingen, bij voorkeur voor technologie of klinische systemen.

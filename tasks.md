@@ -153,6 +153,10 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Native speaker review of sv-se
 - [x] sv-001 (Svenska (världen), Swedish): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of sv-001
+- [x] nl-nl (Nederlands, Dutch): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of nl-nl
+- [x] nl-001 (Nederlands (wereld), Dutch): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of nl-001
 - [x] ja-001 (日本語 (世界), Japanese): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of ja-001
 - [x] ja-jp (日本語, Japanese): all roles, skills, bands, job evaluation, and interface strings

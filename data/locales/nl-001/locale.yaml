@@ -1,0 +1,73 @@
+# Dutch (world). Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Quotations from the UK GDaD PCF and ESCO stay
+# in English. Job titles use the generic form, which covers everyone. Slugs
+# are made from the Dutch titles.
+code: nl-001
+name: Nederlands
+english_name: Dutch
+dir: ltr
+complete: true
+paths:
+  roles: rollen
+  families: functiefamilies
+  bands: banden
+  skills: vaardigheden
+  job-evaluation: functiewaardering
+  about: over-deze-referentie
+strings:
+  disclaimer: "Dit is een illustratief referentieprofiel voor een generieke organisatie voor digitale gezondheid en zorg. Het is geen officiële functieomschrijving voor een werkgever, en de scores van de functiewaardering vormen geen formele waardering."
+  translation_note: "Deze tekst is door een AI-assistent uit het Engels vertaald en is nog niet beoordeeld door een moedertaalspreker. Citaten uit het UK GDaD PCF (het kader voor digitale en datagerelateerde beroepen van de Britse overheid) en uit ESCO blijven in het Engels."
+  home_title: Rollenoverzicht
+  home_lede: "Zoek eerst de functiefamilie die het dichtst bij uw werk ligt, dan de rol en dan de band."
+  roles_title: Alle rollen
+  bands_title: Rollen per band
+  skills_title: Vaardigheden
+  skills_lede: "Elke vaardigheid heeft vier beheersingsniveaus: Bewustzijn (1), Toepassend (2), Ervaren (3) en Expert (4). Vaardigheden uit het UK GDaD PCF worden in het Engels uit het origineel geciteerd. Andere vaardigheden zijn eigen aan deze referentie."
+  pcf_title: Rollen per rol in het UK GDaD PCF
+  esco_title: Rollen per beroep in ESCO
+  role: Rol
+  roles: Rollen
+  family: Familie
+  band: Band
+  bands: Banden
+  title: Titel
+  role_level: Rolniveau
+  skill: Vaardigheid
+  source: Bron
+  expected_level: Verwacht niveau
+  level_meaning: Wat het niveau betekent
+  factor: Factor
+  level: Niveau
+  points: Punten
+  total: Totaal
+  summary: Samenvatting
+  health_context: In een organisatie voor digitale gezondheid en zorg
+  pcf_role: Rol in het UK GDaD PCF
+  pcf_role_none: "geen (deze referentie definieert de rol)"
+  pcf_role_description: Roldescriptie in het UK GDaD PCF (Engels origineel)
+  pcf_level: Niveau in het UK GDaD PCF
+  civil_service_grades: Rangen in de Britse Civil Service
+  esco_occupations: Beroepen in ESCO
+  role_levels: Rolniveaus
+  job_evaluation_points: Punten van de functiewaardering
+  responsibilities: Verantwoordelijkheden
+  skills: Vaardigheden
+  qualifications: Typische kwalificaties en ervaring
+  band_outline: Overzicht van de band
+  knowledge: Kennis
+  autonomy: Zelfstandigheid
+  scope: Reikwijdte
+  leadership: Leiderschap
+  accountability: Verantwoording
+  job_evaluation: Functiewaardering (illustratief)
+  source_pcf: UK GDaD PCF
+  source_reference: Deze referentie
+  used_in: "Gebruikt in {n} rolniveaus."
+  awareness: Bewustzijn
+  working: Toepassend
+  practitioner: Ervaren
+  expert: Expert
+  sfia_level: Niveau in SFIA
+  esco_occupation: Beroep in ESCO
+  pcf_family: Familie in het PCF
+  roles_in_reference: Rollen in deze referentie

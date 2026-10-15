@@ -1,0 +1,44 @@
+summary: Data-engineers bouwen en beheren de pijplijnen en platforms die data over gezondheid en zorg uit klinische en operationele systemen verplaatsen naar plekken waar ze veilig kunnen worden geanalyseerd en gebruikt. Zij ontwerpen datastromen, integreren bronnen die verschillende standaarden gebruiken en zorgen dat data nauwkeurig, tijdig en veilig zijn en alleen beschikbaar voor de mensen die ze mogen zien.
+health_context:
+- Bronsystemen zijn onder meer elektronische patiëntendossiers en systemen voor laboratorium, beeldvorming en apotheek, die standaarden gebruiken zoals HL7 versie 2, HL7 FHIR, SNOMED CT en ICD.
+- Pijplijnen voeren vaak identificeerbare patiëntdata, dus engineers bouwen pseudonimisering, toegangsbeheer en audit vanaf het begin in.
+- Sommige datastromen ondersteunen directe zorg, zoals waarschuwingen of patiëntenlijsten, dus een mislukte of late pijplijn kan patiënten raken en vraagt een beoordeling van klinische veiligheid.
+- Data moeten vaak over zorgomgevingen heen worden gekoppeld, wat afhangt van betrouwbare matching van patiënten en consistente identificatoren.
+levels:
+- title: Data-engineer
+  responsibilities:
+  - Datapijplijnen van klinische en operationele systemen naar het dataplatform bouwen en onderhouden volgens afgesproken ontwerpen.
+  - Brondata, inclusief gecodeerde klinische data, koppelen aan doelmodellen en de koppelingen documenteren.
+  - Pseudonimisering, validatie en controles van datakwaliteit in pijplijnen bouwen.
+  - Pijplijnen monitoren en storingen herstellen, met voorrang voor datastromen die directe zorg ondersteunen.
+  - Toegangsbeheer en auditlogging toepassen die voldoen aan de regels voor informatiebeheer.
+  qualifications:
+  - Een bachelor in informatica of een verwant vak, of gelijkwaardige ervaring.
+  - Ervaring met het bouwen van datapijplijnen.
+- title: Senior data-engineer
+  responsibilities:
+  - Datastromen en streamingdiensten ontwerpen die data uit veel systemen voor gezondheid en zorg samenbrengen.
+  - Processen voor matching en koppeling van patiënten ontwerpen en meten hoe goed ze werken.
+  - Werk aan de prestaties van databases en platforms leiden zodat data beschikbaar zijn wanneer diensten ze nodig hebben.
+  - Met de betrokken specialisten de risico’s van datastromen voor klinische veiligheid en informatiebeheer beoordelen.
+  - Het werk van andere engineers beoordelen en hen coachen.
+  qualifications:
+  - Aanzienlijke ervaring met het ontwerpen en bouwen van datasystemen, op een niveau gelijkwaardig aan een master.
+- title: Lead data-engineer
+  responsibilities:
+  - Het ontwerp en beheer van het dataplatform van de organisatie en haar vele datastromen leiden.
+  - Engineeringnormen voor pijplijnen, testen, beveiliging en documentatie vaststellen.
+  - Data-integratie met partners in gezondheid en zorg plannen, inclusief gedeelde zorgdossiers en regionale dataservices.
+  - Zorgen dat datastromen die directe zorg ondersteunen veerkrachtig zijn en klinische veiligheidsdossiers hebben.
+  - Teams voor data-engineering coördineren en hiërarchisch leiding geven aan engineers.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van data-engineering voor complexe systemen.
+- title: Hoofd data-engineering
+  responsibilities:
+  - De strategie voor de dataplatforms en data-engineeringdiensten van de organisatie vaststellen.
+  - Multidisciplinaire teams leiden die dataservices leveren aan interne teams en partners in gezondheid en zorg.
+  - Senior leiders adviseren over risico’s, kosten en investeringen voor dataplatforms.
+  - Zorgen dat dataservices voldoen aan eisen voor informatiebeheer, beveiliging en klinische veiligheid.
+  - Capaciteit voor data-engineering opbouwen via werving, ontwikkeling en loopbaanpaden.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van data-engineering over meerdere teams.

@@ -1,0 +1,54 @@
+summary: Analytics-engineers zetten ruwe data over gezondheid en zorg om in schone, geteste en gedocumenteerde datamodellen waarop analisten, datawetenschappers en rapportageinstrumenten kunnen vertrouwen. Zij zitten tussen data-engineering en analyse en passen softwareengineeringpraktijken zoals versiebeheer, testen en codebeoordeling toe op de transformaties achter de rapporten en dashboards van de organisatie.
+health_context:
+- Datamodellen leggen klinische en operationele definities vast, zoals wat telt als een opname, een heropname of een overschrijding van een norm voor wachttijd, dus definities worden afgestemd met klinische en operationele leiders.
+- Klinische codes uit terminologieën en classificaties zoals SNOMED CT en ICD worden voor analyse gegroepeerd in referentiesets, die zorgvuldig versiebeheer vragen.
+- Modellen die worden gebruikt voor rapporten over prestaties en financiering moeten consistent en controleerbaar zijn, want fouten kunnen beslissingen over diensten voor patiënten raken.
+- Modellen bevatten vaak gepseudonimiseerde data op patiëntniveau, dus toegang, documentatie en dataminimalisatie zijn ingebouwd.
+levels:
+- title: Trainee analytics-engineer
+  responsibilities:
+  - De instrumenten en praktijken van het team voor datamodellering leren via training en samen werken.
+  - Onder toezicht kleine, goed omschreven wijzigingen aan datamodellen aanbrengen.
+  - Data-items en hun definities documenteren in de datacatalogus.
+  - Eenvoudige vragen van datagebruikers beantwoorden en hun behoeften vastleggen.
+  - De regels voor informatiebeheer volgen bij het werken met patiëntdata.
+  qualifications:
+  - Ingeschreven voor, of werkend aan, een leerwerktraject in data of gelijkwaardig.
+  job_evaluation_notes: Kennis wordt gescoord op het niveau dat de functie vraagt zodra de training ver genoeg is gevorderd om het werk te doen.
+- title: Analytics-engineer
+  responsibilities:
+  - Datamodellen voor een servicegebied, zoals klinische opnames of gemeenschapszorg, bouwen en testen op basis van afgesproken ontwerpen.
+  - Geautomatiseerde tests schrijven die datamodellen controleren tegen afgesproken klinische en operationele definities.
+  - Referentiesets van klinische codes die in analyses worden gebruikt bijhouden, met duidelijke versies.
+  - Modellen documenteren zodat analisten hun betekenis, bronnen en grenzen begrijpen.
+  - Gebruikers van de datasets van het team trainen en ondersteunen.
+  qualifications:
+  - Een bachelor in een cijfermatig of informaticavak, of gelijkwaardige ervaring.
+  - Ervaring met het bouwen van datamodellen of analytische code.
+- title: Senior analytics-engineer
+  responsibilities:
+  - Toezicht houden op het ontwerp en testen van datamodellen over meerdere servicegebieden.
+  - Definities van belangrijke maten afspreken met klinische, operationele en financiële leiders en zorgen dat modellen ze consistent toepassen.
+  - Zorgen dat modellen die rapporten over prestaties en financiering voeden controleerbaar en goed getest zijn.
+  - Problemen en risico’s met data oplossen met data-engineers en data-eigenaren.
+  - Andere analytics-engineers coachen en hun werk aansturen.
+  qualifications:
+  - Aanzienlijke ervaring met datamodellering en analytics-engineering, op een niveau gelijkwaardig aan een master.
+- title: Lead analytics-engineer
+  responsibilities:
+  - Een team leiden dat de analytische datamodellen van de organisatie ontwerpt, bouwt en onderhoudt.
+  - Normen vaststellen voor datamodellen, tests, documentatie en definities van maten.
+  - Met teams in de hele organisatie samenwerken om te begrijpen hoe klinische en operationele processen data scheppen.
+  - Het werk van andere analytics-engineers beoordelen en de werkwijzen van het team verbeteren.
+  - Hiërarchisch leiding geven aan analytics-engineers.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van analytics-engineering of datamodellering.
+- title: Hoofd analytics-engineering
+  responsibilities:
+  - De richting bepalen voor de analytische datamodellen van de organisatie, zodat analyses in de hele organisatie één betrouwbare set definities gebruiken.
+  - Zorgen dat de prioriteiten van analytics-engineering de strategie en rapportageplichten van de organisatie ondersteunen.
+  - Senior leiders adviseren over de betrouwbaarheid van de data achter grote rapporten en beslissingen.
+  - Zorgen dat de gemeenschap beschikt over de instrumenten en platforms die zij nodig heeft, en het bijbehorende budget beheren.
+  - Capaciteit voor analytics-engineering opbouwen via technisch leiderschap en loopbaanontwikkeling.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van analytics-engineering in een organisatie.

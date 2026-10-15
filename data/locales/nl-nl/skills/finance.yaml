@@ -1,0 +1,273 @@
+# Dutch translations of data/skills/finance.yaml. Keys are the English skill ids.
+fin-financial-transactions:
+  name: Financiële transacties en grootboeken
+  description: Facturen, betalingen, ontvangsten, journaalposten en afstemmingen nauwkeurig verwerken en vastleggen in de grootboeken, volgens financiële beheersmaatregelen.
+  levels:
+    awareness: |
+      U kunt:
+      - de processen van inkoop-tot-betaling en order-tot-kas en uw deel daarin uitleggen
+      - facturen, ontvangsten en betalingen nauwkeurig invoeren volgens vaste procedures
+      - controleren of een transactie de juiste goedkeuring en onderliggende documenten heeft
+    working: |
+      U kunt:
+      - een reeks transacties verwerken, waaronder creditnota’s, terugbetalingen en journaalposten
+      - afschriften van leveranciers, bankrekeningen en controlerekeningen afstemmen
+      - routinevragen van leveranciers, klanten en budgethouders oplossen
+      - dubbele, ongewone of niet-geautoriseerde transacties opmerken en melden
+    practitioner: |
+      U kunt:
+      - een grootboek of transactieproces beheren en het nauwkeurig en actueel houden
+      - complexe afstemmingsposten en oude saldi onderzoeken en wegwerken
+      - transactieprocessen verbeteren, bijvoorbeeld door afstemming of goedkeuringen te automatiseren
+      - ander personeel trainen en hun werk controleren
+    expert: |
+      U kunt:
+      - de transactieprocessen van de organisatie en de beheersmaatregelen daarin ontwerpen
+      - prestatienormen vaststellen, zoals betaaltijden en doelen voor invordering van vorderingen
+      - de overgang naar nieuwe manieren van verwerken leiden, zoals automatisering en self-service
+      - senior leiders en auditors de zekerheid geven dat grootboeken volledig en nauwkeurig zijn
+fin-financial-reporting:
+  name: Financiële rapportage en wettelijke jaarrekening
+  description: Nauwkeurige jaarrekeningen en wettelijke opgaven opstellen die voldoen aan de toepasselijke boekhoudnormen en regels voor rapportage in de publieke sector.
+  levels:
+    awareness: |
+      U kunt:
+      - het doel van de belangrijkste financiële overzichten uitleggen
+      - werkdocumenten en afstemmingen voorbereiden die de maand- en jaarafsluiting ondersteunen
+    working: |
+      U kunt:
+      - boekingen voor de maand- en jaarafsluiting voorbereiden, zoals overlopende posten, vooruitbetalingen en voorzieningen
+      - delen van de jaarrekening en de toelichtingen voorbereiden
+      - boekhoudnormen toepassen op routinetransacties, zoals het kapitaliseren van software en hardware
+    practitioner: |
+      U kunt:
+      - de jaarrekening en wettelijke opgaven volgens een tijdschema opstellen
+      - boekhoudnormen toepassen op complexe gebieden, zoals leasing, regelingen voor cloud computing en immateriële activa
+      - boekhoudkundige notities schrijven die oordelen en schattingen uitleggen
+      - de externe audit van de jaarrekening beheren en op bevindingen reageren
+    expert: |
+      U kunt:
+      - eigenaar zijn van het jaarverslag en de jaarrekening van de organisatie en het boekhoudbeleid erachter
+      - het bestuur en de auditcommissie adviseren over belangrijke oordelen en nieuwe normen
+      - de reactie op afkeurende controleverklaringen of materiële onjuistheden leiden
+      - zorgen dat rapportage voldoet aan de regels voor publieke verantwoording
+fin-management-accounting:
+  name: Management accounting
+  description: Informatie over budgetten en kosten opstellen die managers helpt te plannen, te beheersen en beslissingen te nemen, inclusief afwijkingsanalyse, calculatie en rapportage over prestaties.
+  levels:
+    awareness: |
+      U kunt:
+      - budgetten, werkelijke cijfers, verplichtingen en afwijkingen uitleggen
+      - standaardrapporten over budgetten uit het financiële systeem maken
+    working: |
+      U kunt:
+      - maandelijkse budgetrapporten voorbereiden en de belangrijkste afwijkingen uitleggen
+      - kosten juist coderen tussen kostenplaatsen, projecten en kapitaal en exploitatie
+      - budgethouders ondersteunen hun budgetten te begrijpen en te beheren
+    practitioner: |
+      U kunt:
+      - de maandelijkse rapportagecyclus voor een directoraat of programma beheren
+      - kostenmodellen bouwen, zoals de volledige kosten van een digitale dienst of de kosten per transactie
+      - trends in uitgaven analyseren en managers adviseren over acties om binnen het budget te blijven
+      - budgethouders constructief uitdagen over hun prognoses
+    expert: |
+      U kunt:
+      - de aanpak van de organisatie voor managementrapportage en calculatie ontwerpen
+      - financiële prestaties presenteren aan het bestuur en senior leiders
+      - het gebruik van kosten- en prestatie-informatie leiden om waar voor geld te verbeteren
+      - normen voor management accounting in de hele organisatie vaststellen
+fin-financial-planning-and-forecasting:
+  name: Financiële planning en prognoses
+  description: Budgetten, prognoses en financiële meerjarenplannen opstellen die geld koppelen aan de prioriteiten en programma’s van de organisatie.
+  levels:
+    awareness: |
+      U kunt:
+      - de jaarlijkse cyclus van het vaststellen van budgetten en het verschil tussen budget en prognose uitleggen
+      - informatie voor prognoses van budgethouders verzamelen
+    working: |
+      U kunt:
+      - budgetten en prognoses voor een kostenplaats of project opstellen, inclusief personeelskosten
+      - prognoses elke maand bijwerken met bekende wijzigingen en risico’s
+      - budgetten faseren zodat uitgavenpatronen overeenkomen met leveringsplannen
+    practitioner: |
+      U kunt:
+      - het vaststellen van budgetten en prognoses voor een directoraat of groot programma leiden
+      - scenario’s en gevoeligheden modelleren, zoals inflatie, vertragingen of wijzigingen in financiering
+      - prognoses voor meerdere jaren voor digitale programma’s opstellen, inclusief de lopende kosten die op investeringen volgen
+      - prognoses en risico’s presenteren aan senior managers
+    expert: |
+      U kunt:
+      - het financiële meerjarenplan van de organisatie leiden
+      - financiële plannen afstemmen op strategie, personeel en investeringsplannen
+      - het bestuur adviseren over financiële houdbaarheid en de keuzes die nodig zijn om binnen de financiering te blijven
+      - de aannames en methoden voor planning vaststellen die in de hele organisatie worden gebruikt
+fin-payroll:
+  name: Salarisadministratie
+  description: Personeel nauwkeurig en op tijd betalen, inclusief nieuwe medewerkers, vertrekkers, wijzigingen, inhoudingen, pensioenen, wettelijke betalingen en rapportage van de salarisadministratie.
+  levels:
+    awareness: |
+      U kunt:
+      - de cyclus van de salarisverwerking uitleggen, van wijzigingen en afsluiting tot betaling en rapportage
+      - nieuwe medewerkers, vertrekkers en wijzigingen nauwkeurig invoeren uit geautoriseerde formulieren
+      - routinevragen over salaris beantwoorden en salarisinformatie vertrouwelijk houden
+    working: |
+      U kunt:
+      - salaris, toeslagen, overwerk, ziekte en uitkeringen voor verlof om gezinsredenen berekenen
+      - belasting, pensioen en andere inhoudingen juist toepassen
+      - uitvoer van de salarisverwerking controleren en fouten vóór betaling corrigeren
+      - te veel betaalde bedragen gevoelig en in lijn met het beleid terugvorderen
+    practitioner: |
+      U kunt:
+      - de volledige salarisverwerking voor een groep personeel uitvoeren en controles van de salarisverwerking goedkeuren
+      - wettelijke rapportage van de salarisadministratie en opgaven van pensioen beheren
+      - complexe zaken oplossen, zoals meerdere contracten, achterstallig salaris of salarisruil
+      - wijzigingen in het salarissysteem testen, zoals jaarlijkse loonsverhogingen en wijzigingen van regels
+    expert: |
+      U kunt:
+      - de salarisdienst van de organisatie beheren, of die nu intern of door een aanbieder wordt gedraaid
+      - beheersmaatregelen voor salaris vaststellen en senior leiders de zekerheid geven dat betalingen nauwkeurig en rechtmatig zijn
+      - plannen voor wijzigingen in regels voor beloning, loonsverhogingen en salarissystemen
+      - de reactie op grote storingen in de salarisverwerking leiden
+fin-treasury-and-cash:
+  name: Treasury en kasbeheer
+  description: Bankrekeningen, kasstromen en liquiditeit beheren zodat de organisatie aan haar verplichtingen kan voldoen, binnen de regels voor kas in de publieke sector.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom kas ertoe doet naast budgetten
+      - banktransacties vastleggen en afstemmen
+    working: |
+      U kunt:
+      - dagelijkse kasposities en kasprognoses voor de korte termijn voorbereiden
+      - betaalruns voorbereiden en controleren dat ze juist zijn geautoriseerd
+      - bankrekeningen afstemmen en niet-afgestemde posten wegwerken
+    practitioner: |
+      U kunt:
+      - de prognose van de kasstroom en de opname van financiering van de organisatie beheren
+      - bankrekeningen, betaalmethoden en beheersmaatregelen voor bankzaken beheren
+      - kas plannen voor grote of onregelmatige betalingen, zoals softwarelicenties voor meerdere jaren
+    expert: |
+      U kunt:
+      - het beleid voor treasury en de bankregelingen van de organisatie vaststellen
+      - het bestuur adviseren over liquiditeit en risico’s voor kas
+      - kas beheren binnen de grenzen van financiers en regels van de publieke sector
+fin-audit-and-controls:
+  name: Financiële beheersing en audit
+  description: Financiële beheersmaatregelen ontwerpen, uitvoeren en testen, fraude voorkomen en opsporen en samenwerken met interne en externe auditors.
+  levels:
+    awareness: |
+      U kunt:
+      - de financiële procedures en mandateringsschema’s van de organisatie volgen
+      - tekenen van mogelijke fraude of fouten herkennen en melden
+    working: |
+      U kunt:
+      - belangrijke beheersmaatregelen uitvoeren, zoals functiescheiding en controles van wijzigingen van bankgegevens van leveranciers
+      - bewijs aan auditors leveren en hun vragen beantwoorden
+      - controleren dat uitgaven op het juiste niveau zijn goedgekeurd
+    practitioner: |
+      U kunt:
+      - de beheersmaatregelen voor een financieel proces testen en verbeteren
+      - verzoeken van audits voor een gebied beheren en acties afspreken naar aanleiding van bevindingen
+      - financiële procedures schrijven en bijwerken
+      - met specialisten tegen fraude werken om het risico van fraude te verminderen
+    expert: |
+      U kunt:
+      - eigenaar zijn van de financiële regels en het mandateringsschema van de organisatie
+      - aan de auditcommissie rapporteren over financiële beheersing en acties van audits
+      - de reactie op belangrijke falende beheersmaatregelen of fraude leiden
+      - een cultuur opbouwen waarin personeel zijn plicht begrijpt publiek geld juist te gebruiken
+fin-business-cases:
+  name: Businesscases en beoordeling van investeringen
+  description: De financiële zaak voor investeringen opbouwen, inclusief beoordeling van opties, kosten over de hele levensduur, behandeling van kapitaal en exploitatie, baten en waar voor geld.
+  levels:
+    awareness: |
+      U kunt:
+      - het doel van een businesscase en haar financiële deel uitleggen
+      - kosteninformatie voor een businesscase verzamelen
+    working: |
+      U kunt:
+      - het financiële model voor een eenvoudige businesscase bouwen
+      - kosten voor kapitaal en exploitatie en eenmalige en terugkerende kosten scheiden
+      - kosten over de hele levensduur opnemen, zoals licenties, ondersteuning en hosting na go-live
+    practitioner: |
+      U kunt:
+      - de financiële zaak leiden voor complexe digitale investeringen, zoals een nieuw klinisch systeem of een verhuizing naar de cloud
+      - opties beoordelen met netto contante waarde, gevoeligheidsanalyse en aanpassing voor risico
+      - controleren dat baten realistisch, meetbaar en in eigendom genomen zijn
+      - uitgaven en baten na goedkeuring volgen
+    expert: |
+      U kunt:
+      - de normen van de organisatie voor businesscases en beoordeling van investeringen vaststellen
+      - besturen voor investeringen adviseren over betaalbaarheid, waar voor geld en risico
+      - de zaak voor grote investeringsprogramma’s maken bij financiers
+      - het portfolio van investeringen toetsen en aanbevelen waar te stoppen, te wijzigen of door te gaan
+fin-tax:
+  name: Belastingen
+  description: Btw, loonheffing en andere belastingregels juist toepassen op de transacties van de organisatie en belasting terugvorderen waar dat is toegestaan.
+  levels:
+    awareness: |
+      U kunt:
+      - btw op facturen herkennen en haar juist coderen
+      - uitleggen wanneer u een belastingspecialist om advies moet vragen
+    working: |
+      U kunt:
+      - onder toezicht belastingaangiften en afstemmingen voorbereiden
+      - de juiste fiscale behandeling toepassen op veelvoorkomende aankopen en inkomsten
+      - onder begeleiding de arbeidsstatus van ingehuurde krachten controleren
+    practitioner: |
+      U kunt:
+      - de belastingaangiften en afstemmingen van belastingen van de organisatie beheren
+      - adviseren over de fiscale behandeling van contracten, zoals softwarelicenties, clouddiensten en gedeelde diensten
+      - de terugvordering van belasting binnen de regels maximaliseren
+    expert: |
+      U kunt:
+      - eigenaar zijn van de belastingstrategie en het fiscale risico van de organisatie
+      - gesprekken met de belastingautoriteit over complexe kwesties leiden
+      - het fiscale effect van grote wijzigingen beoordelen, zoals nieuwe partnerschappen of commerciële activiteiten
+fin-financial-systems:
+  name: Financiële systemen
+  description: Systemen voor financiën, inkoop, salarisadministratie en rapportage gebruiken, beheren en verbeteren zodat financiële data nauwkeurig zijn en processen efficiënt.
+  levels:
+    awareness: |
+      U kunt:
+      - het financiële systeem voor uw eigen taken gebruiken, volgens procedures
+      - standaardrapporten draaien en data naar een spreadsheet exporteren
+    working: |
+      U kunt:
+      - spreadsheets goed gebruiken, inclusief formules, opzoekfuncties en draaitabellen
+      - data in het financiële systeem bijhouden, zoals kostenplaatsen, leveranciers en goedkeurders
+      - problemen met het systeem rapporteren en helpen oplossen
+    practitioner: |
+      U kunt:
+      - het financiële systeem of salarissysteem beheren, inclusief toegang, werkstromen en rapportage
+      - rapporten en dashboards voor budgethouders ontwerpen
+      - wijzigingen en upgrades van het systeem testen
+      - repetitieve financiële taken automatiseren
+    expert: |
+      U kunt:
+      - eigenaar zijn van de strategie en roadmap voor financiële systemen
+      - de aanbesteding en implementatie van financiële systemen of salarissystemen leiden
+      - zorgen dat financiële data worden geïntegreerd met data over personeel, inkoop en prestaties
+fin-public-sector-finance:
+  name: Financiën in de publieke sector
+  description: Begrijpen hoe publieke financiering werkt, inclusief toewijzingen van financiering, grenzen voor kapitaal en exploitatie, uitgavebeheersing, verantwoording voor publiek geld en waar voor geld.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen dat de organisatie publiek geld besteedt en daarover verantwoording moet afleggen
+      - het verschil uitleggen tussen uitgaven voor kapitaal en exploitatie
+    working: |
+      U kunt:
+      - de regels van de organisatie voor kapitaal en exploitatie toepassen op dagelijkse uitgaven
+      - uitleggen hoe toewijzingen van financiering en uitgavengrenzen uw gebied raken
+      - uitgaven herkennen die goedkeuring van een financier of uitgavebeheersing nodig hebben
+    practitioner: |
+      U kunt:
+      - managers adviseren over regels voor financiering, inclusief geoormerkte en tijdelijke financiering
+      - grenzen voor kapitaal en exploitatie voor een programma of directoraat beheren
+      - opgaven en bewijs voor financiers en uitgavebeheersing voorbereiden
+    expert: |
+      U kunt:
+      - de organisatie vertegenwoordigen bij financiers en toezichthoudende organen
+      - het bestuur adviseren over regelmatigheid, rechtmatigheid en waar voor geld
+      - financieringsovereenkomsten en financiële regimes voor de diensten van de organisatie vormgeven

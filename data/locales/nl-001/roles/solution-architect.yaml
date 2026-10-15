@@ -1,0 +1,60 @@
+summary: Oplossingsarchitecten ontwerpen hoe een nieuwe of gewijzigde dienst van begin tot eind zal werken, van behoeften van gebruikers en klinische werkstromen tot applicaties, data, integraties, hosting en beveiliging. Zij zorgen dat elke oplossing past in de architectuur van de organisatie, voldoet aan haar behoeften aan veiligheid, privacy en interoperabiliteit en betaalbaar kan worden gebouwd, beheerd en ondersteund.
+health_context:
+- Oplossingen combineren vaak gekochte klinische systemen, eigen diensten en gedeelde platforms, dus architecten moeten over grenzen van leveranciers heen ontwerpen.
+- Keuzes in het ontwerp kunnen klinische gevaren introduceren, zoals verloren uitslagen of verkeerde matching van patiënten, dus oplossingsontwerpen voeden het klinische veiligheidsdossier.
+- Elke nieuwe datastroom met patiëntinformatie heeft een rechtsgrond en een beoordeling van gevolgen voor gegevensbescherming nodig, dus architecten werken nauw samen met informatiebeheer.
+- Interoperabiliteit met andere organisaties voor gezondheid en zorg, met standaarden zoals HL7 FHIR, is meestal een kerneis.
+- Sommige oplossingen omvatten software die een medisch hulpmiddel is, wat het ontwerp, de borging en de eisen aan leveranciers verandert.
+levels:
+- title: Associate oplossingsarchitect
+  responsibilities:
+  - Eisen van productteams, clinici en leveranciers verzamelen om oplossingsontwerpen te onderbouwen.
+  - Diagrammen van de huidige en beoogde toestand tekenen, zoals context-, datastroom- en integratieweergaven.
+  - Onder toezicht delen van oplossingsontwerpen en besluitregistraties opstellen.
+  - Ontwerpen controleren tegen architectuurnormen en eisen voor beveiliging en informatiebeheer.
+  - Helpen ontwerpen voor te bereiden voor toetsing bij ontwerpautoriteiten.
+  qualifications:
+  - Gespecialiseerde kennis van oplossingsontwerp, op masterniveau of gelijkwaardige ervaring.
+  - Ervaring met analyse, ontwikkeling of technisch ontwerp.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 6): vacatures in de gezondheidssector plaatsen deze rol op Band 7. Kennis wordt gescoord op masterniveau of gelijkwaardig, omdat de functie ontwerpt over applicaties, data, integratie en beveiliging heen.'
+- title: Oplossingsarchitect
+  responsibilities:
+  - Oplossingen van begin tot eind ontwerpen voor diensten met lager risico, zoals instrumenten voor personeel of eenvoudige diensten voor patiënten.
+  - Opties vergelijken, inclusief kopen, bouwen en hergebruiken van gedeelde platforms, en er met duidelijke redenen een aanbevelen.
+  - Integraties, datastromen en identiteit en toegang voor de oplossing ontwerpen, met open standaarden waar die bestaan.
+  - Bijdragen aan het opsporen van gevaren en aan beoordelingen van gevolgen voor gegevensbescherming voor de oplossing.
+  - Ontwerpen presenteren aan ontwerpautoriteiten en leveringsteams ondersteunen tijdens bouw en go-live.
+  - Het werk van associate oplossingsarchitecten coachen en beoordelen.
+  qualifications:
+  - Aanzienlijke ervaring met oplossingsontwerp of software-engineering, op een niveau gelijkwaardig aan een master.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 7): vacatures in de gezondheidssector plaatsen deze rol op Band 8a. Planning, beleid en handelingsvrijheid worden hoger gescoord dan het profiel van Band 7 omdat de functie ontwerpen van begin tot eind in eigendom heeft en opties aanbeveelt aan ontwerpautoriteiten.'
+- title: Senior oplossingsarchitect
+  responsibilities:
+  - Complexe oplossingen met gemiddeld risico ontwerpen, zoals klinische systemen of diensten die door meerdere organisaties worden gebruikt.
+  - De technische beoordeling van producten van leveranciers bij aanbestedingen leiden, inclusief interoperabiliteit, beveiliging en veiligheid.
+  - Ontwerpen voor veerkracht en bedrijfscontinuïteit waar de oplossing de zorg de klok rond ondersteunt.
+  - Met klinischeveiligheidsfunctionarissen zorgen dat ontwerpbeslissingen en beheersmaatregelen voor risico’s in het veiligheidsdossier worden vastgelegd.
+  - Het werk van andere oplossingsarchitecten coachen en beoordelen.
+  qualifications:
+  - Uitgebreide ervaring met het ontwerpen van complexe oplossingen over meerdere disciplines, op een niveau boven een master.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 8a): vacatures in de gezondheidssector plaatsen deze rol op Band 8b. Kennis wordt gescoord op niveau 8 voor gespecialiseerde kennis over meerdere disciplines, zoals applicaties, data, integratie, beveiliging en klinische veiligheid.'
+- title: Lead oplossingsarchitect
+  responsibilities:
+  - De oplossingsarchitectuur leiden voor een programma of een complex gebied, zoals de vervanging van een elektronisch patiëntendossier.
+  - Zorgen dat oplossingen over het programma heen consistent en interoperabel zijn en aansluiten op de beoogde architectuur.
+  - Programmabesturen adviseren over risico’s van ontwerp, afhankelijkheden, keuzes van leveranciers en kosten.
+  - De ontwerpen van andere oplossingsarchitecten borgen bij ontwerpautoriteiten.
+  - Een team van oplossingsarchitecten leiden en ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van oplossingsarchitectuur voor complexe programma’s.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 8b): vacatures in de gezondheidssector plaatsen deze rol op Band 8c. Planning, beleid en mensen worden hoger gescoord dan het profiel van Band 8b omdat de functie de architectuur van een heel programma plant en een team van oplossingsarchitecten leidt.'
+- title: Principal oplossingsarchitect
+  responsibilities:
+  - Oplossingsarchitectuur leiden voor de grootste of meest kritieke programma’s van de organisatie.
+  - Normen, patronen en methoden voor oplossingsarchitectuur voor de organisatie vaststellen.
+  - Directeuren en partnerorganisaties adviseren over het ontwerp van kritieke, gedeelde diensten voor gezondheid en zorg.
+  - De moeilijkste ontwerpconflicten tussen programma’s, leveranciers en partnerorganisaties oplossen.
+  - De praktijk van oplossingsarchitectuur leiden en haar mensen ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van oplossingsarchitectuur over meerdere programma’s of organisaties.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 8c): vacatures in de gezondheidssector plaatsen deze rol op Band 8d. Handelingsvrijheid is niveau 6 omdat de functie de normen voor oplossingsarchitectuur van de organisatie vaststelt; financiële middelen en mensen zijn niveau 4 omdat zij de praktijk en haar budget leidt.'

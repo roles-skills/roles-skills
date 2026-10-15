@@ -1,0 +1,28 @@
+summary: Probleemmanagers vinden en herstellen de grondoorzaken van incidenten, zodat storingen niet opnieuw voorkomen. Zij analyseren incidentdata, voeren onderzoeken naar de grondoorzaak uit, leggen bekende fouten en omwegen vast en volgen herstel met technische teams en leveranciers. In de gezondheidszorg verspillen terugkerende storingen in klinische systemen klinische tijd, tasten ze vertrouwen aan en kunnen ze risico’s voor patiëntveiligheid scheppen, dus het wegnemen ervan telt.
+health_context:
+- Terugkerende kleine storingen, zoals trage aanmeldingen of mislukt printen op afdelingen, tellen op tot verloren klinische tijd, dus probleemmanagers zoeken naar patronen en niet alleen naar grote storingen.
+- Sommige problemen scheppen gevaren voor klinische veiligheid, zoals uitslagen die niet bij de juiste clinicus aankomen, en worden samen met de klinischeveiligheidsfunctionaris beoordeeld.
+- Onderzoeken naar de grondoorzaak betrekken vaak leveranciers van klinische systemen en worden beheerd via contracten en serviceniveaus.
+- Omwegen voor klinische systemen moeten veilig zijn en duidelijk aan klinisch personeel worden uitgelegd.
+levels:
+- title: Probleemanalist
+  responsibilities:
+  - Incidentdata analyseren om terugkerende storingen en trends in klinische en bedrijfsdiensten te vinden.
+  - Problemen, bekende fouten en omwegen vastleggen in het instrument voor servicemanagement.
+  - Onderzoeken naar de grondoorzaak ondersteunen door logboeken, tijdlijnen en ander bewijs te verzamelen.
+  - Acties bij technische teams en leveranciers volgen totdat herstel is ingevoerd.
+  - Controleren of omwegen voor klinische systemen veilig zijn en duidelijk aan gebruikers worden uitgelegd.
+  qualifications:
+  - Ervaring met IT-ondersteuning of -beheer.
+  - Een basiskwalificatie in IT-servicemanagement, of gelijkwaardige ervaring.
+- title: Probleemmanager
+  responsibilities:
+  - Het proces van probleemmanagement over de diensten van de organisatie uitvoeren.
+  - Analyse van de grondoorzaak na grote incidenten en voor terugkerende storingen leiden, met gestructureerde technieken.
+  - Problemen prioriteren naar hun effect op de zorg voor patiënten, tijd van personeel en risico voor de dienst.
+  - Problemen die gevaren voor patiëntveiligheid kunnen scheppen met de klinischeveiligheidsfunctionaris beoordelen.
+  - Technische teams en leveranciers ter verantwoording roepen voor blijvend herstel en over voortgang rapporteren aan leiders van diensten.
+  - Met managers grote incidenten zorgen dat lessen uit incidenten tot verandering leiden.
+  qualifications:
+  - Aanzienlijke ervaring met probleem- of incidentmanagement, op een niveau gelijkwaardig aan een bachelor.
+  - Een kwalificatie op tussenniveau in IT-servicemanagement, of gelijkwaardige ervaring.

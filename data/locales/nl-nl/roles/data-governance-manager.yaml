@@ -1,0 +1,40 @@
+summary: Managers datagovernance zorgen dat de data over gezondheid en zorg van de organisatie goed worden beheerd, betrouwbaar zijn en veilig en rechtmatig worden gebruikt. Zij zetten de kaders, het beleid en de normen op voor eigenaarschap van data, kwaliteit, metadata en het delen van data en voeren ze uit, en werken met data-eigenaren, collega’s van informatiebeheer en klinische leiders zodat data met vertrouwen kunnen worden gebruikt voor zorg, planning en onderzoek.
+health_context:
+- Gezondheidsdata zijn zeer gevoelige persoonsgegevens, dus datagovernance werkt nauw samen met informatiebeheer, gegevensbescherming en de plicht tot vertrouwelijkheid.
+- Data worden gedeeld met veel partners in gezondheid en zorg voor directe zorg, planning en onderzoek, en elk gebruik heeft een duidelijke rechtsgrond, overeenkomsten en beheersmaatregelen nodig.
+- Klinische datastandaarden, zoals SNOMED CT, ICD en HL7 FHIR, en afgesproken datadefinities staan centraal bij het consistent maken van data over systemen en organisaties.
+- Slechte datakwaliteit kan rechtstreeks leiden tot schade aan patiënten, zoals gemiste allergieën of verkeerde matching van patiënten, en tot verkeerde beslissingen over diensten.
+- Patiënten en het publiek verwachten openheid over hoe hun data worden gebruikt, dus governance omvat transparantie en respect voor de keuzes van patiënten over secundair gebruik.
+levels:
+- title: Manager datagovernance
+  responsibilities:
+  - Het kader voor datagovernance van de organisatie uitvoeren, inclusief eigenaarschap van data, stewardship en besluitvormende groepen.
+  - De datacatalogus, de zakelijke woordenlijst en datastandaarden bijhouden, inclusief afgesproken klinische en operationele definities.
+  - De datakwaliteit van belangrijke datasets monitoren en met data-eigenaren de grondoorzaken oplossen.
+  - Met collega’s van informatiebeheer werken aan overeenkomsten voor het delen van data en beoordelingen van gevolgen voor gegevensbescherming voor nieuw gebruik van data.
+  - Datarisico’s en -kwesties vastleggen en beheren en ze escaleren naar de juiste eigenaar.
+  - De datageletterdheid verbeteren onder personeel dat gezondheidsdata schept en gebruikt.
+  qualifications:
+  - Een bachelor of professionele kwalificatie in data, informatiemanagement of een verwant vak, of gelijkwaardige ervaring.
+  - Ervaring met datagovernance of databeheer in een complexe organisatie.
+  job_evaluation_notes: Het UK GDaD PCF stelt voor dit niveau HEO tot G7 voor, wat overeenkomt met Band 6. Deze referentie plaatst het op Band 7 omdat de rol in een zorgorganisatie doorgaans vertrouwelijke patiëntdata in de hele organisatie bestuurt en databeleid ontwikkelt dat meerdere diensten raakt.
+- title: Lead manager datagovernance
+  responsibilities:
+  - Het ontwerp en de uitvoering van kaders, beleid en normen voor datagovernance in de hele organisatie leiden.
+  - Data-eigenaren en stewards coördineren om datarisico’s te beheren, te aanvaarden of op te lossen en ze te rapporteren aan senior commissies.
+  - Breder werk aan databeheer leiden, zoals stamgegevens voor patiënten, personeel en locaties en referentiedata.
+  - Regelingen voor datagovernance afspreken voor data die met partners in gezondheid en zorg en met onderzoekers worden gedeeld.
+  - Programma’s adviseren over hoe nieuwe systemen en nieuw gebruik van data voldoen aan datastandaarden en governanceregels.
+  - Hiërarchisch leiding geven aan medewerkers datagovernance.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van datagovernance of databeheer.
+- title: Hoofd datagovernance
+  responsibilities:
+  - Samen met de chief data officer en de directeur die verantwoordelijk is voor informatierisico de strategie voor datagovernance en gebruik van data vaststellen.
+  - Beleid en normen voor datagovernance vaststellen en monitoren hoe goed de organisatie ze volgt.
+  - Verantwoordelijk zijn voor het beheer van de datarisico’s van de organisatie en erover rapporteren aan het bestuur.
+  - De organisatie vertegenwoordigen op het gebied van datagovernance bij partners in gezondheid en zorg, toezichthouders en patiëntengroepen.
+  - Openheid bevorderen naar patiënten en het publiek over hoe hun data worden gebruikt.
+  - De functie datagovernance leiden en ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van datagovernance in een organisatie.

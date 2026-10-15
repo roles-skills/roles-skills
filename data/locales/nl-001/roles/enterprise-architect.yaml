@@ -1,0 +1,52 @@
+summary: Enterprise-architecten geven de organisatie een samenhangend beeld van haar diensten, informatie, applicaties en technologie en gebruiken dat om strategie voor gezondheid en zorg om te zetten in een samenhangend plan voor verandering. Zij stellen architectuurbeginselen, normen en roadmaps vast, sturen investeringsbeslissingen en zorgen dat digitale verandering veilige, samenhangende zorg voor patiënten over organisaties heen ondersteunt.
+health_context:
+- Zorgpaden overschrijden veel organisaties en systemen, dus de architectuur moet het delen van dossiers, uitslagen en verwijzingen over grenzen heen ondersteunen.
+- Het landschap omvat vaak langlevende klinische systemen, medische hulpmiddelen en contracten met leveranciers die moeilijk te wijzigen zijn, dus roadmaps moeten overgangen zorgvuldig plannen.
+- Beslissingen over architectuur raken patiëntveiligheid, privacy en de veerkracht van diensten die de klok rond draaien.
+- Open standaarden zoals HL7 FHIR, SNOMED CT en IHE-profielen zijn sleutels om lock-in te vermijden en interoperabiliteit mogelijk te maken.
+- Financiering is beperkt en wordt van dichtbij gevolgd, dus architecten moeten waar voor geld en hergebruik van gedeelde platforms tonen waar die bestaan.
+levels:
+- title: Enterprise-architect
+  responsibilities:
+  - De huidige en beoogde diensten, informatie, applicaties en technologie van de organisatie modelleren voor een domein, zoals diagnostiek of gemeenschapszorg.
+  - De opslagplaats van de architectuur actueel houden, inclusief catalogi van applicaties en datastromen.
+  - Voorstellen beoordelen tegen architectuurbeginselen en -normen en aanbevelingen doen aan ontwerpautoriteiten.
+  - Vaststellen waar systemen capaciteit dupliceren of afhangen van niet-ondersteunde technologie en de risico’s melden.
+  - Met oplossingsarchitecten en klinische leiders begrijpen hoe zorgpaden systemen gebruiken.
+  - Oplossingsarchitecten begeleiden in hoe ontwerpen passen in de architectuur van het domein.
+  qualifications:
+  - Aanzienlijke ervaring met architectuur, analyse of technisch ontwerp in een complexe organisatie, op een niveau gelijkwaardig aan een master.
+  - Kennis van een kader voor enterprise-architectuur, zoals TOGAF, of gelijkwaardige ervaring.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 6): vacatures in de gezondheidssector plaatsen deze rol op Band 8a. Kennis, analyse, planning, beleid en handelingsvrijheid worden gescoord op het profiel van Band 8a omdat de functie beoogde architecturen vormgeeft en ontwerpautoriteiten adviseert voor een heel domein.'
+- title: Senior enterprise-architect
+  responsibilities:
+  - Beoogde architecturen en overgangsroadmaps ontwikkelen voor een of meer domeinen van de organisatie.
+  - Businesscases vormgeven zodat investeringen passen bij de beoogde architectuur en gedeelde platforms hergebruiken.
+  - Architectuurbeoordelingen bij ontwerpautoriteiten leiden en aanbevelingen doen over belangrijke voorstellen.
+  - De vervanging of buitengebruikstelling van legacy-systemen voor klinisch en bedrijfswerk plannen, inclusief datamigratie en veiligheidsrisico’s.
+  - Zorgen dat behoeften aan interoperabiliteit, beveiliging en informatiebeheer in roadmaps worden ingebouwd.
+  - Enterprise- en oplossingsarchitecten coachen en begeleiden.
+  qualifications:
+  - Uitgebreide ervaring met enterprise- of oplossingsarchitectuur over meerdere domeinen.
+  - Kennis van een kader voor enterprise-architectuur, zoals TOGAF, of gelijkwaardige ervaring.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 7): vacatures in de gezondheidssector plaatsen deze rol op Band 8b. Planning is niveau 5 voor roadmaps op lange termijn met effecten voor de hele organisatie; kennis is niveau 8 voor kennis over bedrijfs-, informatie-, applicatie- en technologiearchitectuur.'
+- title: Lead enterprise-architect
+  responsibilities:
+  - Eigenaar zijn van de enterprise-architectuur voor een groot deel van de organisatie, zoals klinische systemen of gedeelde infrastructuur.
+  - De ontwerpautoriteit voor architectuur voorzitten of leiden en de normen vaststellen waaraan projecten moeten voldoen.
+  - Directeuren adviseren over investeringsprioriteiten, leveranciersstrategie en technologische risico’s.
+  - Met partnerorganisaties samenwerken om architecturen over zorgpaden en gedeelde dossiers op elkaar af te stemmen.
+  - Enterprise-architecten leiden en ontwikkelen en de praktijkgemeenschap voor architectuur laten groeien.
+  qualifications:
+  - Uitgebreide ervaring met enterprise-architectuur in een complexe organisatie.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 8b): vacatures in de gezondheidssector plaatsen deze rol op Band 8c. Informatiebronnen is niveau 6 omdat de functie de architectuur van informatiesystemen over een groot deel van de organisatie beheert; beleid en mensen liggen boven het profiel van Band 8b omdat zij normen vaststelt voor alle projecten en enterprise-architecten leidt.'
+- title: Principal enterprise-architect
+  responsibilities:
+  - De visie, beginselen en strategie voor enterprise-architectuur van de organisatie vaststellen, afgestemd op haar strategie voor gezondheid en zorg.
+  - Het directieteam en het bestuur adviseren over de architectuur, risico’s en waarde van grote digitale investeringen.
+  - De praktijk, governance en normen van de organisatie voor architectuur leiden.
+  - De organisatie vertegenwoordigen in fora voor architectuur en interoperabiliteit over organisaties heen.
+  - Capaciteit voor architectuur opbouwen in de hele organisatie, inclusief werving en loopbaanpaden.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van enterprise-architectuur over organisaties heen.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 8c): vacatures in de gezondheidssector plaatsen deze rol op Band 8d. Beleid en handelingsvrijheid zijn niveau 6 omdat de functie op het niveau van de organisatie verantwoordelijk is voor de visie, beginselen en strategie voor architectuur van de organisatie.'

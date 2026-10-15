@@ -1,0 +1,66 @@
+summary: Datawetenschappers gebruiken statistiek, machine learning en andere geavanceerde methoden om patronen in data over gezondheid en zorg te vinden en modellen te bouwen die diensten helpen zorg te plannen, te voorspellen en te verbeteren. Typisch werk is de vraag voorspellen, patiënten vinden die baat kunnen hebben bij vroege ondersteuning en het effect van wijzigingen in diensten evalueren. Zij werken nauw samen met clinici en analisten en zorgen dat modellen geldig en eerlijk zijn en veilig worden gebruikt.
+health_context:
+- Een model dat beslissingen over patiënten ondersteunt, kan schade veroorzaken als het onjuist of vertekend is, dus modellen worden gevalideerd op de populatie waarmee ze worden gebruikt en beoordeeld op klinische veiligheid.
+- Gezondheidsdata weerspiegelen ongelijke toegang tot zorg, dus modellen kunnen ongelijkheid in gezondheid herhalen of verergeren tenzij vertekening voor elke groep patiënten wordt gemeten en aangepakt.
+- Sommige modellen, zoals die diagnose of behandeling informeren, kunnen als medisch hulpmiddel gereguleerd zijn, en regelgeving voor AI kan ook van toepassing zijn.
+- Datawetenschap vraagt vaak gekoppelde, gedetailleerde patiëntdata, dus het werk gebeurt in beveiligde omgevingen, met gepseudonimiseerde data, op een afgesproken grondslag in informatiebeheer.
+- Clinici en patiënten moeten de uitvoer van een model begrijpen en vertrouwen, dus uitleg en communicatie van onzekerheid in begrijpelijke taal tellen.
+levels:
+- title: Trainee datawetenschapper
+  responsibilities:
+  - De statistische en machinelearningmethoden, instrumenten en beveiligde werkwijzen van het team leren via gestructureerde training.
+  - Onder toezicht gepseudonimiseerde datasets over gezondheid voorbereiden en verkennen.
+  - Eenvoudige statistische analyses uitvoeren en interpreteren en resultaten controleren met een meer ervaren datawetenschapper.
+  - De procedures voor informatiebeheer, beheersing van onthulling en ethiek volgen.
+  - Werken aan een leerwerktraject in datawetenschap of een gelijkwaardige kwalificatie.
+  qualifications:
+  - Ingeschreven voor, of werkend aan, een leerwerktraject in datawetenschap of gelijkwaardig.
+  job_evaluation_notes: Kennis wordt gescoord op het niveau dat de functie vraagt zodra de training ver genoeg is gevorderd om het werk te doen.
+- title: Associate datawetenschapper
+  responsibilities:
+  - Met begeleiding eenvoudige statistische en machinelearningmodellen bouwen en testen, zoals voorspellingen van de vraag.
+  - Datasets over gezondheid voor modellering voorbereiden en koppelen in beveiligde omgevingen.
+  - Meten hoe goed modellen presteren voor verschillende groepen patiënten en verschillen rapporteren.
+  - Resultaten en hun onzekerheid presenteren aan analisten en teams van diensten.
+  - Databronnen, methoden en aannames documenteren zodat het werk kan worden gereproduceerd.
+  qualifications:
+  - Een bachelor in een cijfermatig vak, een leerwerktraject in datawetenschap, of gelijkwaardige ervaring.
+- title: Datawetenschapper
+  responsibilities:
+  - Zelfstandig complexe modellen ontwikkelen, zoals risicostratificatie of voorspelling van de verblijfsduur, en geschikte methoden kiezen.
+  - Modellen met clinici valideren en controleren dat ze nauwkeurig, eerlijk en bruikbaar zijn op lokale patiëntdata.
+  - Beoogd gebruik, data, prestaties en grenzen van elk model documenteren en bewijs bijdragen aan klinische veiligheidsdossiers.
+  - Het effect van wijzigingen in diensten evalueren met geschikte statistische methoden.
+  - Modellen en hun onzekerheid uitleggen aan klinische en niet-technische doelgroepen.
+  - Associate en trainee datawetenschappers ondersteunen.
+  qualifications:
+  - Een bachelor in een cijfermatig vak, of gelijkwaardige ervaring.
+  - Ervaring met het bouwen en valideren van statistische of machinelearningmodellen.
+- title: Principal datawetenschapper
+  responsibilities:
+  - Projecten in datawetenschap afbakenen, ontwerpen en leiden die planning van diensten en zorg voor patiënten ondersteunen.
+  - Beslissen welke methoden, instrumenten en data geschikt zijn en plannen uitdagen die niet haalbaar of veilig zijn.
+  - Samen met collega’s van klinische veiligheid en informatiebeheer de validatie, beoordeling van vertekening en monitoring van modellen plannen.
+  - Met productteams afspreken hoe modellen op schaal worden ingezet en ondersteund.
+  - Een klein team van datawetenschappers aansturen en ontwikkelen.
+  qualifications:
+  - Aanzienlijke ervaring met het leveren van datawetenschap, op een niveau gelijkwaardig aan een master of een doctoraat in een kwantitatief vak.
+- title: Lead datawetenschapper
+  responsibilities:
+  - Teams voor datawetenschap leiden en hun richting, prioriteiten en normen vaststellen.
+  - Kansen vinden waar datawetenschap de zorg kan verbeteren en er de zaak voor maken bij klinische leiders en leiders van diensten.
+  - Zorgen dat modellen zo worden ontworpen, gevalideerd en gemonitord dat ze in gebruik veilig en eerlijk blijven.
+  - Complexe ethische en dataproblemen oplossen, zoals toestemming, vertekening en het gebruik van gevoelige data.
+  - Capaciteit voor datawetenschap opbouwen via coaching, werving en training.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van teams voor datawetenschap.
+  job_evaluation_notes: Het UK GDaD PCF stelt zowel de lead datawetenschapper als het hoofd datawetenschap voor op G7 of G6. Deze referentie plaatst de lead op Band 8a en het hoofd op Band 8b, zodat de twee niveaus in verschillende banden zitten.
+- title: Hoofd datawetenschap
+  responsibilities:
+  - De richting voor datawetenschap en AI in de hele organisatie vaststellen, in lijn met haar strategie en prioriteiten.
+  - Het voortouw nemen bij ethiek, veiligheid en borging van de modellen en AI van de organisatie en het bestuur daarover adviseren.
+  - Toezicht houden op middelen, budget en de kwaliteit van producten van datawetenschap.
+  - De organisatie vertegenwoordigen op het gebied van datawetenschap en AI bij partners in gezondheid en zorg, onderzoekers en toezichthouders.
+  - Capaciteit en loopbanen voor datawetenschap opbouwen over beroepen heen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van datawetenschap in een organisatie.

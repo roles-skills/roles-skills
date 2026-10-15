@@ -1,0 +1,71 @@
+# Dutch translations of data/skills/product-design.yaml. Keys are the English skill ids.
+pd-health-research-ethics:
+  name: Ethisch onderzoek met patiënten en zorgpersoneel
+  description: Onderzoek met patiënten, mantelzorgers, clinici en zorgpersoneel veilig en ethisch plannen en uitvoeren, inclusief geïnformeerde toestemming, bescherming van kwetsbare personen, onderzoek met mensen in kwetsbare omstandigheden en weten wanneer formele ethische goedkeuring nodig is.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom onderzoek met patiënten en zorgpersoneel geïnformeerde toestemming, bescherming van kwetsbare personen en zorg met persoonsgegevens vraagt
+      - de procedures van het team voor toestemming, bescherming van kwetsbare personen en omgang met data volgen in onderzoekssessies
+    working: |
+      U kunt:
+      - onderzoekssessies plannen die geïnformeerde toestemming krijgen en het welzijn en de privacy van deelnemers beschermen
+      - sessies aanpassen voor mensen die ziek, van streek of in kwetsbare omstandigheden zijn en weten wanneer te stoppen
+      - zorgen over bescherming van kwetsbare personen die in onderzoek opkomen herkennen en melden
+    practitioner: |
+      U kunt:
+      - beoordelen wanneer onderzoek formele goedkeuring van ethiek of onderzoeksgovernance nodig heeft en voorbereiden wat daarvoor nodig is
+      - veilig onderzoek plannen met mensen in kwetsbare omstandigheden, zoals kinderen, mensen met dementie en mensen in crisis
+      - onderzoek in klinische omgevingen plannen zonder de zorg te verstoren, samen met klinische leiders en zorgpersoneel
+      - onderzoekers ondersteunen om voor hun eigen welzijn te zorgen na schokkende sessies
+    expert: |
+      U kunt:
+      - de normen van de organisatie voor ethisch onderzoek met patiënten, mantelzorgers en zorgpersoneel vaststellen
+      - de praktijk van onderzoek over teams heen borgen en adviseren over onderzoek met hoog risico
+      - de praktijk van onderzoek vertegenwoordigen bij organen voor ethiek, bescherming van kwetsbare personen en governance
+pd-safety-critical-design:
+  name: Ontwerpen voor klinische veiligheid en human factors
+  description: Diensten, interfaces en werkstromen ontwerpen die clinici, zorgpersoneel en patiënten helpen veilig te handelen, door beginselen van human factors toe te passen en samen te werken met het proces voor klinisch risicobeheer.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen hoe keuzes in ontwerp fouten in de zorg kunnen veroorzaken of voorkomen, zoals fouten met de verkeerde patiënt of de verkeerde dosis
+      - de patronen van de organisatie gebruiken voor informatie die kritiek is voor veiligheid, zoals banners voor identiteit van patiënten en waarschuwingen voor allergie
+    working: |
+      U kunt:
+      - interfaces ontwerpen die van de veilige handeling de gemakkelijke handeling maken, bijvoorbeeld door dubbelzinnige labels en onnodige waarschuwingen te verminderen
+      - ontwerpen testen in realistische klinische scenario’s, inclusief onderbrekingen en tijdsdruk
+      - gevaren die samenhangen met ontwerp voorleggen aan de klinischeveiligheidsfunctionaris en vastleggen hoe ontwerpen ze beheersen
+    practitioner: |
+      U kunt:
+      - methoden van human factors, zoals taakanalyse en analyse van gebruiksfouten, toepassen op complexe klinische werkstromen
+      - ontwerpen om waarschuwingsmoeheid en cognitieve belasting over een hele dienst te verminderen
+      - ontwerpbewijs leveren voor klinische veiligheidsdossiers en bewijs van bruikbaarheid voor gereguleerde software
+    expert: |
+      U kunt:
+      - de normen en patronen van de organisatie voor ontwerp dat kritiek is voor veiligheid vaststellen
+      - werk aan human factors voor de klinische diensten met het hoogste risico leiden
+      - leiders van klinische veiligheid en product adviseren over risico’s die samenhangen met ontwerp over het portfolio heen
+pd-health-content:
+  name: Content met gezondheidsinformatie
+  description: Content over gezondheid en zorg maken die nauwkeurig, klinisch geborgd en gemakkelijk te begrijpen is voor mensen met verschillende niveaus van gezondheidsvaardigheden en waarop zij kunnen handelen.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom gezondheidsinformatie nauwkeurig, actueel en gemakkelijk te begrijpen moet zijn
+      - de stijlgids en het proces van klinische toetsing van het team voor gezondheidscontent volgen
+    working: |
+      U kunt:
+      - gezondheidscontent schrijven die mensen met weinig gezondheidsvaardigheden kunnen begrijpen en waarop zij kunnen handelen, zoals symptomen en wanneer hulp te zoeken
+      - met klinische beoordelaars samenwerken om de nauwkeurigheid van content te controleren zonder helderheid te verliezen
+      - medische termen in begrijpelijke taal uitleggen en consistente namen gebruiken voor aandoeningen, tests en behandelingen
+    practitioner: |
+      U kunt:
+      - content ontwerpen voor gevoelige onderwerpen en onderwerpen met hoog risico, zoals dringende symptomen, medicijnen en zorg aan het levenseinde
+      - klinische borging, data van toetsing en bronnen van bewijs opzetten voor een geheel van gezondheidscontent
+      - klinische precisie, wettelijke eisen en begrip van gebruikers afwegen in omstreden content
+    expert: |
+      U kunt:
+      - de normen van de organisatie voor content met gezondheidsinformatie en haar klinische borging vaststellen
+      - de contentstrategie voor gezondheidsinformatie over diensten en kanalen heen leiden
+      - senior klinische leiders en leiders van communicatie adviseren over risico’s van gezondheidsinformatie

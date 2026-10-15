@@ -1,0 +1,423 @@
+# Dutch translations of data/skills/shared.yaml. Keys are the English skill ids.
+health-care-context:
+  name: Diensten voor gezondheid en zorg begrijpen
+  description: Begrijpen hoe diensten voor gezondheid en zorg zijn georganiseerd en worden geleverd, hoe clinici en zorgpersoneel werken en hoe digitale diensten de zorg voor patiënten ondersteunen.
+  levels:
+    awareness: |
+      U kunt:
+      - de belangrijkste onderdelen van het stelsel van gezondheid en zorg en de diensten die de organisatie ondersteunt beschrijven
+      - uitleggen waarom patiëntveiligheid en vertrouwelijkheid ertoe doen in uw werk
+    working: |
+      U kunt:
+      - de klinische werkstromen en werkstromen in de zorg uitleggen die uw werk ondersteunt
+      - gangbare termen uit de gezondheidszorg juist gebruiken met klinische collega’s en collega’s in de zorg
+      - herkennen wanneer een wijziging de zorg voor patiënten kan raken en dit aankaarten
+    practitioner: |
+      U kunt:
+      - analyseren hoe een dienst past in zorgpaden over organisaties heen
+      - met clinici, zorgpersoneel en patiënten werken om digitale diensten vorm te geven
+      - het effect van digitale beslissingen op zorg, veiligheid en werkdruk van personeel uitleggen
+    expert: |
+      U kunt:
+      - de strategie van de organisatie vormgeven met diepgaand begrip van het stelsel van gezondheid en zorg
+      - de organisatie vertegenwoordigen bij partners en leiders in gezondheid en zorg
+      - voorzien hoe wijzigingen in beleid en diensten digitale diensten en zorg zullen raken
+clinical-safety:
+  name: Klinisch risicobeheer
+  description: De risico’s die IT in de gezondheidszorg voor patiënten kan vormen opsporen, beoordelen en beheersen, via een proces voor klinisch risicobeheer, gevarenlogboeken en veiligheidsdossiers (bijvoorbeeld volgens ISO 14971 en IEC 80001-1).
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen hoe IT-systemen in de gezondheidszorg patiënten kunnen schaden, bijvoorbeeld door onjuiste, ontbrekende of vertraagde informatie
+      - een mogelijk probleem met klinische veiligheid via de juiste route melden
+    working: |
+      U kunt:
+      - deelnemen aan workshops over gevaren en bijdragen aan een gevarenlogboek
+      - het proces voor klinisch risicobeheer voor uw werk volgen
+      - bewijs leveren voor een klinisch veiligheidsdossier, zoals testresultaten
+    practitioner: |
+      U kunt:
+      - het opsporen van gevaren en de beoordeling van risico’s voor een product of wijziging leiden
+      - gevarenlogboeken en rapporten van klinische veiligheidsdossiers schrijven en bijhouden
+      - beheersmaatregelen voor risico’s met productteams afspreken en controleren dat ze werken
+      - teams adviseren over het toepassen van normen voor klinisch risicobeheer
+    expert: |
+      U kunt:
+      - eigenaar zijn van het systeem voor klinisch risicobeheer van de organisatie
+      - beleid voor klinische veiligheid vaststellen en veiligheidsdossiers voor grote systemen borgen
+      - de reactie op ernstige veiligheidsincidenten met IT in de gezondheidszorg leiden
+      - een cultuur van klinische veiligheid opbouwen over digitale teams heen
+health-data-interoperability:
+  name: Interoperabiliteit van gezondheidsdata
+  description: Data over gezondheid en zorg veilig en consistent tussen systemen uitwisselen met open standaarden zoals HL7 FHIR, HL7 versie 2, IHE-profielen en standaard-API’s.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom interoperabiliteit ertoe doet voor samenhangende zorg
+      - de belangrijkste standaarden voor uitwisseling van gezondheidsdata noemen, zoals HL7 FHIR
+    working: |
+      U kunt:
+      - FHIR-resources, -profielen en -API’s lezen en gebruiken
+      - onder begeleiding eenvoudige integraties bouwen of testen
+      - berichten controleren tegen een specificatie
+    practitioner: |
+      U kunt:
+      - integraties ontwerpen en bouwen met FHIR, HL7 versie 2 en patronen voor berichten
+      - FHIR-resources en implementatiegidsen schrijven en profileren
+      - complexe koppelingen en problemen met datakwaliteit tussen systemen oplossen
+    expert: |
+      U kunt:
+      - standaarden en strategie voor interoperabiliteit voor de organisatie vaststellen
+      - werk aan standaarden op nationaal niveau of over organisaties heen leiden
+      - het ontwerp van kritieke integraties over veel systemen borgen
+clinical-terminology:
+  name: Klinische terminologie en classificatie
+  description: Klinische terminologieën en classificaties, zoals SNOMED CT, ICD en LOINC, gebruiken om klinische betekenis consistent vast te leggen en uit te wisselen.
+  levels:
+    awareness: |
+      U kunt:
+      - het verschil uitleggen tussen een klinische terminologie en een classificatie
+      - gangbare terminologieën zoals SNOMED CT en ICD herkennen
+    working: |
+      U kunt:
+      - de juiste codes voor een data-item of formulier vinden en gebruiken
+      - browsers voor terminologie en referentiesets gebruiken
+    practitioner: |
+      U kunt:
+      - datamodellen en referentiesets ontwerpen met klinische terminologieën
+      - koppelen tussen terminologieën en classificaties en de grenzen van een koppeling uitleggen
+      - teams adviseren over het gebruik van terminologie in producten en analyse
+    expert: |
+      U kunt:
+      - beleid voor terminologie voor de organisatie vaststellen
+      - releases, governance en kwaliteitsborging van terminologie leiden
+      - de organisatie vertegenwoordigen bij organen voor standaarden voor terminologie
+information-governance:
+  name: Informatiebeheer en gegevensbescherming
+  description: Persoonsgegevens en gezondheidsinformatie rechtmatig, veilig en ethisch verwerken, inclusief wetgeving voor gegevensbescherming, vertrouwelijkheid, toestemming, beoordelingen van gevolgen voor gegevensbescherming en het delen van informatie.
+  levels:
+    awareness: |
+      U kunt:
+      - de regels van de organisatie voor het verwerken van persoonsgegevens en gezondheidsinformatie volgen
+      - een datalek of bijna-incident herkennen en melden
+    working: |
+      U kunt:
+      - beginselen van gegevensbescherming toepassen op uw werk
+      - bijdragen aan beoordelingen van gevolgen voor gegevensbescherming
+      - verzoeken om informatie en dossiers juist afhandelen
+    practitioner: |
+      U kunt:
+      - beoordelingen van gevolgen voor gegevensbescherming en overeenkomsten voor het delen van informatie leiden
+      - teams adviseren over rechtsgrond, toestemming, vertrouwelijkheid en bewaring
+      - incidenten onderzoeken en verbeteringen aanbevelen
+    expert: |
+      U kunt:
+      - beleid en strategie voor informatiebeheer vaststellen
+      - het bestuur adviseren over informatierisico en naleving
+      - de organisatie vertegenwoordigen bij toezichthouders en partners
+medical-device-regulation:
+  name: Regulering van software voor medische hulpmiddelen
+  description: Begrijpen wanneer software een medisch hulpmiddel is en welke normen en processen erop van toepassing zijn, zoals IEC 62304 en ISO 13485.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen dat sommige software voor gezondheid als medisch hulpmiddel is gereguleerd
+      - weten wie u moet vragen wanneer een product een medisch hulpmiddel zou kunnen zijn
+    working: |
+      U kunt:
+      - een proces voor de levenscyclus van software volgen dat voldoet aan normen voor medische hulpmiddelen
+      - de registraties produceren die zo’n proces vereist
+    practitioner: |
+      U kunt:
+      - beoordelen of een product een medisch hulpmiddel is en welke klasse het waarschijnlijk heeft
+      - het werk rond regelgeving voor een product plannen met collega’s van kwaliteit en klinisch werk
+    expert: |
+      U kunt:
+      - de aanpak van de organisatie voor gereguleerde software vaststellen
+      - de omgang met toezichthouders en aangemelde instanties leiden
+people-management:
+  name: Mensen leiden
+  description: Personeel leiden, ontwikkelen en ondersteunen, inclusief werving, doelen, beoordeling, welzijn, verzuim en het eerlijk beheren van prestaties en gedrag.
+  levels:
+    awareness: |
+      U kunt:
+      - het beleid van de organisatie rond mensen dat u raakt uitleggen
+      - nieuwe collega’s ondersteunen en kennis delen
+    working: |
+      U kunt:
+      - dagelijks toezicht houden op werk en terugkoppeling geven
+      - deelnemen aan werving en inwerken
+      - regelmatig individuele gesprekken voeren
+    practitioner: |
+      U kunt:
+      - hiërarchisch leiding geven aan een team, doelen stellen en beoordelingsgesprekken voeren
+      - welzijn ondersteunen en verzuim, prestaties en gedrag beheren
+      - de ontwikkeling en opvolging van het team plannen
+    expert: |
+      U kunt:
+      - managers leiden en de cultuur van een groot gebied vormgeven
+      - personeelsplannen en organisatorische verandering ontwerpen
+      - leiders coachen en complexe kwesties rond mensen oplossen
+equality-diversity-inclusion:
+  name: Gelijkheid, diversiteit en inclusie
+  description: Mensen eerlijk behandelen, verschil waarderen en diensten en werkplekken ontwerpen die iedereen insluiten.
+  levels:
+    awareness: |
+      U kunt:
+      - collega’s, patiënten en het publiek met waardigheid en respect behandelen
+      - beleid voor gelijkheid en inclusie volgen
+    working: |
+      U kunt:
+      - gedrag herkennen en aanpakken dat anderen uitsluit
+      - verschillende behoeften meewegen wanneer u uw werk plant
+    practitioner: |
+      U kunt:
+      - beoordelingen van het effect op gelijkheid uitvoeren
+      - inclusieve teams en praktijken opbouwen
+    expert: |
+      U kunt:
+      - de strategie voor inclusie vaststellen en de organisatie daarop ter verantwoording roepen
+      - cultuurverandering op het gebied van gelijkheid, diversiteit en inclusie leiden
+health-safety-wellbeing:
+  name: Gezondheid, veiligheid en welzijn
+  description: Uzelf en anderen veilig en gezond houden op het werk, inclusief beoordeling van risico’s, veilige werkwijzen en melden van incidenten.
+  levels:
+    awareness: |
+      U kunt:
+      - regels voor gezondheid en veiligheid volgen en gevaren en incidenten melden
+    working: |
+      U kunt:
+      - eenvoudige beoordelingen van risico’s uitvoeren, zoals beoordelingen van de werkplek
+      - collega’s helpen veilig te werken
+    practitioner: |
+      U kunt:
+      - gezondheid en veiligheid voor een team of locatie beheren
+      - incidenten onderzoeken en beheersmaatregelen invoeren
+    expert: |
+      U kunt:
+      - beleid voor gezondheid, veiligheid en welzijn voor de organisatie vaststellen
+      - over prestaties op het gebied van veiligheid rapporteren aan het bestuur
+budget-management:
+  name: Budgetbeheer
+  description: Een budget plannen, monitoren en beheersen, inclusief prognoses, het beheren van afwijkingen en het volgen van financiële regels.
+  levels:
+    awareness: |
+      U kunt:
+      - de regels voor uitgeven en bestellen volgen
+      - uitleggen hoe uw werk wordt gefinancierd
+    working: |
+      U kunt:
+      - uitgaven tegen een klein budget volgen en afwijkingen melden
+      - uitgaven binnen uw grens autoriseren
+    practitioner: |
+      U kunt:
+      - een budget beheren en erover beschikken, prognoses maken en afwijkingen uitleggen
+      - een businesscase met kosten en baten opbouwen
+    expert: |
+      U kunt:
+      - grote of meerdere budgetten beheren en financiële plannen vaststellen
+      - afwegingen in financiering over diensten heen maken
+project-management:
+  name: Projectmanagement
+  description: Projecten plannen, leveren en afsluiten volgens afgesproken reikwijdte, tijd, kosten en kwaliteit, met een erkende methode zoals PRINCE2, PM² of agile benaderingen.
+  levels:
+    awareness: |
+      U kunt:
+      - de fasen van een project en de belangrijkste rollen daarin uitleggen
+      - projectregistraties zoals actielijsten bijhouden
+    working: |
+      U kunt:
+      - plannen, logboeken van risico’s en kwesties en rapporten bijhouden
+      - projectvergaderingen voeren en acties volgen
+      - met ondersteuning een klein, goed omschreven project beheren
+    practitioner: |
+      U kunt:
+      - projecten van begin tot sluiting beheren en reikwijdte, tijd, kosten en kwaliteit beheersen
+      - risico’s, kwesties, afhankelijkheden en wijzigingsbeheer beheren
+      - aan projectbesturen rapporteren en leveranciers beheren
+    expert: |
+      U kunt:
+      - grote, complexe projecten of projecten met hoog risico beheren
+      - normen voor projectmanagement vaststellen en projectmanagers coachen
+      - projecten die falen herstellen
+risk-management:
+  name: Risicomanagement van de organisatie
+  description: Risico’s voor de doelstellingen van de organisatie opsporen, beoordelen, vastleggen en beheren, met een risicoregister en een omschreven risicobereidheid.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen wat een risico is en hoe u er een aankaart
+    working: |
+      U kunt:
+      - risico’s voor uw gebied vastleggen en bijwerken
+      - beheersmaatregelen voorstellen en acties volgen
+    practitioner: |
+      U kunt:
+      - het risicoproces voor een directoraat of programma uitvoeren
+      - risico’s beoordelen tegen de risicobereidheid en ze escaleren
+      - over risico’s rapporteren aan commissies
+    expert: |
+      U kunt:
+      - het kader voor risicomanagement en de risicobereidheid van de organisatie ontwerpen
+      - het bestuur adviseren over strategische risico’s
+security-operations:
+  name: Beveiligingsoperaties
+  description: Systemen monitoren op bedreigingen voor de beveiliging, waarschuwingen triëren, gebeurtenissen onderzoeken en op cyberincidenten reageren, met instrumenten zoals SIEM en endpointdetectie.
+  levels:
+    awareness: |
+      U kunt:
+      - gangbare cyberdreigingen zoals phishing en ransomware uitleggen
+      - een vermoedelijke beveiligingsgebeurtenis melden
+    working: |
+      U kunt:
+      - waarschuwingen monitoren en ze triëren aan de hand van runbooks
+      - bewijs verzamelen en gebeurtenissen escaleren
+      - onder begeleiding eenvoudige detectieregels afstellen
+    practitioner: |
+      U kunt:
+      - beveiligingsincidenten onderzoeken en beheersen
+      - detectieregels en threat hunts schrijven
+      - runbooks en instrumenten na incidenten verbeteren
+    expert: |
+      U kunt:
+      - de dienst voor beveiligingsoperaties en haar strategie leiden
+      - de reactie op grote cyberincidenten leiden
+      - samenwerken met nationale agentschappen voor beveiliging en partners
+vulnerability-management:
+  name: Beheer van kwetsbaarheden
+  description: Technische kwetsbaarheden vinden, beoordelen, prioriteren en herstellen, inclusief scannen, penetratietests en patchen.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom snel patchen en veilige configuratie ertoe doen
+    working: |
+      U kunt:
+      - scans van kwetsbaarheden uitvoeren en de resultaten rapporteren
+      - herstel met systeemeigenaren volgen
+    practitioner: |
+      U kunt:
+      - kwetsbaarheden prioriteren naar risico, ook voor diensten voor patiënten
+      - penetratietests en herstel afbakenen en beheren
+    expert: |
+      U kunt:
+      - het beleid voor beheer van kwetsbaarheden en de doelen ervan vaststellen
+      - technische risico’s voor beveiliging rapporteren aan senior leiders
+identity-and-access-management:
+  name: Identiteits- en toegangsbeheer
+  description: Digitale identiteiten, authenticatie en toegangsrechten voor personeel, patiënten en systemen beheren, inclusief rolgebaseerde toegang en authenticatie met smartcard of multifactor.
+  levels:
+    awareness: |
+      U kunt:
+      - regels voor toegang volgen en uw inloggegevens beschermen
+    working: |
+      U kunt:
+      - gebruikersaccounts en toegangsrechten aanmaken, wijzigen en verwijderen
+      - toegang controleren tegen regels voor rolgebaseerde toegang
+    practitioner: |
+      U kunt:
+      - diensten voor identiteit en toegang ontwerpen en uitvoeren
+      - toegang regelmatig toetsen en problemen herstellen
+    expert: |
+      U kunt:
+      - de strategie voor identiteit en toegang voor personeel, patiënten en systemen vaststellen
+      - de invoering van nieuwe standaarden voor identiteit leiden
+data-quality:
+  name: Beheer van datakwaliteit
+  description: De kwaliteit van data definiëren, meten en verbeteren, inclusief volledigheid, nauwkeurigheid, tijdigheid en geldigheid.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom nauwkeurige gezondheidsdata ertoe doen voor zorg en planning
+      - data nauwkeurig vastleggen en fouten melden
+    working: |
+      U kunt:
+      - controles van datakwaliteit uitvoeren en fouten corrigeren
+      - rapporten over datakwaliteit aan collega’s uitleggen
+    practitioner: |
+      U kunt:
+      - regels en maten voor datakwaliteit definiëren
+      - met leveranciers van data de grondoorzaken van slechte kwaliteit oplossen
+    expert: |
+      U kunt:
+      - normen voor datakwaliteit voor de organisatie en haar partners vaststellen
+      - programma’s voor verbetering van datakwaliteit leiden
+health-records-management:
+  name: Beheer van gezondheidsdossiers
+  description: Dossiers over gezondheid en zorg beheren gedurende hun levenscyclus, inclusief aanmaken, archiveren, volgen, toegang, bewaring en afvoer.
+  levels:
+    awareness: |
+      U kunt:
+      - dossiers juist archiveren, vinden en volgen
+      - dossiers beschermen tegen verlies of onbevoegde toegang
+    working: |
+      U kunt:
+      - verzoeken om toegang tot dossiers verwerken
+      - schema’s voor bewaring en normen voor het bijhouden van dossiers toepassen
+    practitioner: |
+      U kunt:
+      - een dienst voor dossiers en haar procedures beheren
+      - het bijhouden van dossiers auditen en personeel trainen
+    expert: |
+      U kunt:
+      - beleid en strategie voor dossierbeheer vaststellen
+      - de overgang van papieren naar digitale dossiers leiden
+clinical-coding:
+  name: Klinische codering
+  description: Klinische informatie uit gezondheidsdossiers vertalen naar standaardcodes van classificaties, volgens nationale en internationale regels voor codering, voor zorg, betaling en statistiek.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen wat klinische codering is en waarom zij ertoe doet
+      - basale medische termen en anatomie gebruiken
+    working: |
+      U kunt:
+      - eenvoudige episodes nauwkeurig coderen met regels van classificaties
+      - onduidelijke dossiers bevragen bij clinici
+    practitioner: |
+      U kunt:
+      - complexe episodes over specialismen heen coderen
+      - de kwaliteit van codering auditen en codeurs trainen
+    expert: |
+      U kunt:
+      - een dienst voor codering en haar kwaliteitsprogramma leiden
+      - adviseren over normen voor codering en hun effect op data en financiering
+clinical-leadership-in-digital:
+  name: Klinisch leiderschap in digitaal
+  description: Klinische kennis en geloofwaardigheid inbrengen in het ontwerp, de adoptie en het veilige gebruik van digitale diensten en clinici leiden door digitale verandering.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen hoe digitale diensten de klinische praktijk veranderen
+    working: |
+      U kunt:
+      - klinische inbreng geven aan productteams over werkstromen en veiligheid
+      - klinische collega’s helpen nieuwe systemen over te nemen
+    practitioner: |
+      U kunt:
+      - klinische betrokkenheid bij een product of programma leiden
+      - klinische behoeften en bewijs omzetten in eisen
+      - veilige adoptie onder klinische collega’s bepleiten
+    expert: |
+      U kunt:
+      - de klinische richting voor de digitale diensten van de organisatie vaststellen
+      - klinische leiders over organisaties heen leiden door digitale verandering
+      - het bestuur adviseren over klinisch risico en klinische baten van digitale investeringen
+governance-and-compliance:
+  name: Corporate governance en naleving
+  description: De governance van de organisatie ondersteunen — besturen, commissies, reglementen, beleid, verklaringen van belangen en naleving van wettelijke en regelgevende plichten.
+  levels:
+    awareness: |
+      U kunt:
+      - het beleid en de regels voor besluitvorming van de organisatie volgen
+    working: |
+      U kunt:
+      - vergaderingen van commissies, stukken en notulen ondersteunen
+      - governanceregisters actueel houden
+    practitioner: |
+      U kunt:
+      - de governancecyclus voor besturen en commissies uitvoeren
+      - beleid toetsen en adviseren over naleving
+    expert: |
+      U kunt:
+      - het governancekader ontwerpen en het bestuur adviseren
+      - jaarlijkse rapportage over governance en borging leiden

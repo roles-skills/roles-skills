@@ -1,0 +1,32 @@
+summary: Incidentmanagers herstellen de normale dienstverlening zo snel mogelijk wanneer er iets misgaat en houden het effect op gebruikers zo klein mogelijk. Zij coördineren technische teams en leveranciers, houden gebruikers en leiders op de hoogte en zorgen dat incidenten worden vastgelegd en doorgegeven aan probleemmanagement. In de gezondheidszorg kunnen incidenten de zorg voor patiënten rechtstreeks raken, dus incidentmanagers werken nauw samen met klinische en operationele leiders.
+health_context:
+- Uitval van een klinisch systeem kan behandeling vertragen, dus incidenten worden geprioriteerd naar klinische impact, en klinische leiders moeten mogelijk procedures voor uitvalsituaties starten.
+- Grote incidenten kunnen op elk moment plaatsvinden, dus incidentmanagers nemen deel aan bereikbaarheidsroosters en kunnen ’s nachts of in het weekend worden opgeroepen.
+- Een cyberaanval, zoals ransomware, kan een groot incident worden dat de hele organisatie raakt en dagen of weken duurt.
+- Grote IT-incidenten moeten mogelijk aansluiten op de regelingen van de organisatie voor noodparaatheid en bedrijfscontinuïteit.
+- Incidenten die patiënten mogelijk hebben geschaad, worden ook gemeld via het proces voor klinische incidenten en met klinische veiligheid beoordeeld.
+levels:
+- title: Incidentmanager
+  responsibilities:
+  - De reactie op incidenten die klinische en bedrijfsdiensten raken coördineren, van eerste melding tot hersteld dienstverlening.
+  - De klinische en operationele impact van elk incident beoordelen en zijn prioriteit vaststellen.
+  - Getroffen gebruikers, de servicedesk en klinische leiders op de hoogte houden met duidelijke, tijdige updates.
+  - Incidenten escaleren naar de manager grote incidenten wanneer zij voldoen aan de afgesproken criteria.
+  - Zorgen dat incidenten nauwkeurig worden vastgelegd en doorgegeven aan probleemmanagement.
+  - Deelnemen aan het bereikbaarheidsrooster voor incidenten buiten kantooruren.
+  qualifications:
+  - Ervaring met IT-ondersteuning of -beheer, inclusief het afhandelen van incidenten.
+  - Een basiskwalificatie in IT-servicemanagement, of gelijkwaardige ervaring.
+  job_evaluation_notes: Geestelijke inspanning weerspiegelt regelmatig langdurige concentratie onder tijdsdruk, ook tijdens bereikbaarheidsdienst. Emotionele inspanning weerspiegelt regelmatige indirecte blootstelling aan het effect van uitval op patiënten en personeel.
+- title: Manager grote incidenten
+  responsibilities:
+  - De reactie op grote incidenten leiden, zoals uitval van het elektronisch patiëntendossier, netwerkstoringen en cyberaanvallen.
+  - Incidentgesprekken leiden die technische teams, leveranciers, klinische leiders en communicatiemedewerkers samenbrengen.
+  - Klinische en operationele leiders adviseren over wanneer procedures voor uitvalsituaties en bedrijfscontinuïteit te starten en te stoppen.
+  - Senior leiders briefen en waar nodig aansluiten op de regelingen van de organisatie voor noodrespons.
+  - Evaluaties na incidenten leiden en zorgen dat lessen worden geleerd en opgevolgd.
+  - Plannen voor grote incidenten ontwikkelen en testen met leiders van bedrijfscontinuïteit en noodplanning.
+  qualifications:
+  - Aanzienlijke ervaring met het beheren van incidenten in complexe diensten met hoge beschikbaarheid.
+  - Een kwalificatie op gevorderd niveau in IT-servicemanagement, of gelijkwaardige ervaring.
+  job_evaluation_notes: Geestelijke inspanning weerspiegelt regelmatig langdurige concentratie tijdens grote incidenten, vaak buiten kantooruren. Emotionele inspanning weerspiegelt regelmatige indirecte blootstelling aan het effect van grote uitval op de zorg voor patiënten.

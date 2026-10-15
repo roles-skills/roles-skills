@@ -1,0 +1,57 @@
+summary: 'Technisch architecten ontwerpen de technische structuur van de digitale diensten voor gezondheid van de organisatie: de componenten, platforms, hosting, integratiepatronen en niet-functionele kwaliteiten zoals beveiliging, prestaties en veerkracht. Zij werken nauw samen met ontwikkelaars en DevOps-engineers, geven technisch leiderschap aan leveringsteams en zorgen dat diensten gebouwd zijn om lang mee te gaan en veilig zijn om te beheren.'
+health_context:
+- Klinische diensten hebben vaak hoge beschikbaarheid en snel herstel nodig, dus technische ontwerpen moeten rekening houden met falen en verminderd functioneren.
+- Ontwerpen moeten vertrouwelijke gezondheidsinformatie standaard beschermen met versleuteling, toegangsbeheer en audit.
+- Diensten verbinden met veel klinische systemen en gedeelde platforms, vaak via API’s en berichten in HL7 FHIR, dus integratiepatronen staan centraal in het ontwerp.
+- Keuzes in het technische ontwerp, zoals caching, herhaalpogingen en omgaan met tijd, kunnen klinische gevaren veroorzaken, dus architecten dragen bij aan veiligheidsdossiers.
+- Legacy-systemen voor klinisch werk en medische hulpmiddelen kunnen keuzes van technologie, netwerken en hosting beperken.
+levels:
+- title: Associate technisch architect
+  responsibilities:
+  - Technische diagrammen tekenen en de componenten, hosting en integraties van bestaande diensten documenteren.
+  - Met begeleiding opties van technologie onderzoeken en hun voor- en nadelen samenvatten.
+  - Met ontwikkelaars controleren dat builds afgesproken ontwerpen en patronen volgen.
+  - Technische beslissingen vastleggen en ontwerpdocumenten actueel houden.
+  qualifications:
+  - Een bachelor in informatica of een verwant vak, of gelijkwaardige ervaring met software- of infrastructuurengineering.
+  - Gespecialiseerde kennis van technisch ontwerp, op het niveau van een postdoctoraal diploma of gelijkwaardige ervaring.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 5): vacatures in de gezondheidssector plaatsen deze rol op Band 6. Kennis wordt gescoord op het niveau van een postdoctoraal diploma, en informatiebronnen op niveau 5 omdat de functie delen van grote informatiesystemen ontwerpt.'
+- title: Technisch architect
+  responsibilities:
+  - De technische architectuur voor een dienst ontwerpen, inclusief componenten, hosting, integratie en beveiliging.
+  - Ontwerppatronen aan leveringsteams geven en hun technische ontwerpen en codestructuur beoordelen.
+  - Samen met service-eigenaren niet-functionele eisen definiëren, zoals beschikbaarheid, prestaties en doelen voor herstel.
+  - Technische schuld en niet-ondersteunde technologie opsporen en plannen hoe die wordt hersteld.
+  - Technische gevaren en beheersmaatregelen voor het klinische veiligheidsdossier opsporen.
+  qualifications:
+  - Gespecialiseerde kennis van technische architectuur, op masterniveau of gelijkwaardige ervaring.
+  - Ervaring met het ontwerpen of bouwen van software of infrastructuur in productie.
+  job_evaluation_notes: Ingeschaald op het voorstel voor rang van het UK GDaD PCF van Band 7, in lijn met vacatures in de gezondheidssector voor deze rol. Kennis wordt gescoord op masterniveau of gelijkwaardig voor gespecialiseerde kennis over de volle breedte van technische architectuur.
+- title: Senior technisch architect
+  responsibilities:
+  - Het technische ontwerp leiden van grote, complexe diensten of diensten met hoog risico, zoals klinische systemen en gedeelde integratieplatforms.
+  - De technische richting voor een of meer leveringsteams vaststellen en ontwerpen uitdagen die risico toevoegen.
+  - Ontwerpen voor veerkracht, herstel na rampen en veilig beheer en controleren dat teams dit testen.
+  - Technische risico’s en afwegingen in gewone taal uitleggen aan service-eigenaren, klinische leiders en senior belanghebbenden.
+  - Technisch architecten en senior ontwikkelaars begeleiden en coachen.
+  qualifications:
+  - Aanzienlijke ervaring met technisch ontwerp voor complexe diensten, op een niveau gelijkwaardig aan een master.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 7): vacatures in de gezondheidssector plaatsen deze rol op Band 8a. Planning, beleid en handelingsvrijheid worden hoger gescoord dan het profiel van Band 7 omdat de functie met weinig toezicht de technische richting voor meerdere teams vaststelt.'
+- title: Lead technisch architect
+  responsibilities:
+  - De technische architectuur over meerdere diensten of teams leiden en gedeelde patronen en normen vaststellen.
+  - De technische kwaliteit van ontwerpen bij ontwerpautoriteiten borgen, inclusief beveiliging, veerkracht en interoperabiliteit.
+  - Samen met enterprise-architecten en leiders van engineering de technologieroadmap van de organisatie vormgeven.
+  - Senior leiders adviseren over keuzes in technologie, investeringen in platforms en technisch risico.
+  - Technisch architecten leiden en ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van technische architectuur voor complexe diensten.
+- title: Principal technisch architect
+  responsibilities:
+  - De strategie, beginselen en normen voor technische architectuur van de organisatie vaststellen.
+  - Technisch ontwerp in de hele organisatie besturen, inclusief de technische ontwerpautoriteit.
+  - Het directieteam adviseren over grote beslissingen over technologie, zoals de hostingstrategie en consolidatie van platforms.
+  - De organisatie vertegenwoordigen in technische gemeenschappen en gemeenschappen voor standaarden over organisaties heen.
+  - Architecten in de hele organisatie inspireren en ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van technische architectuur over meerdere teams of organisaties.

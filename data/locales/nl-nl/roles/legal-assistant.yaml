@@ -1,0 +1,42 @@
+summary: Juridisch assistenten en paralegals ondersteunen de juristen van de organisatie zodat juridisch werk georganiseerd, nauwkeurig en op tijd is. Zij beheren zaken en documenten, bereiden contracten en dossiers voor, onderzoeken juridische vragen en handelen routinematige juridische taken af. In een organisatie voor digitale gezondheid en zorg betreft veel van het werk contracten voor technologie, overeenkomsten voor het delen en verwerken van data, verzoeken om informatie en claims die gevoelige patiëntinformatie kunnen bevatten.
+health_context:
+- Juridische dossiers bevatten vaak vertrouwelijke gezondheidsinformatie, zoals klinische dossiers in claims, dus strikt informatiebeheer is van toepassing.
+- Veel overeenkomsten betreffen software, clouddiensten en het delen van data, dus personeel moet de bepalingen herkennen die ertoe doen voor patiëntdata en continuïteit van diensten.
+- Deadlines in claims, doodsoorzaakonderzoeken en bezwaren tegen aanbestedingen zijn kort en vast, en ze missen kan duur zijn.
+- De organisatie besteedt publiek geld aan externe juristen, dus juridische uitgaven moeten worden gevolgd en beheerst.
+levels:
+- title: Juridisch administrateur
+  summary: Juridisch administrateurs voeren de administratieve processen van het juridische team uit, zoals het openen van zaken, documentbeheer, registers en facturen, volgens vaste procedures.
+  responsibilities:
+  - Zaken openen, bijwerken en sluiten in het systeem voor zaakbeheer.
+  - Juridische documenten archiveren, opmaken en terugvinden en ze veilig en vertrouwelijk houden.
+  - Registers van contracten, akten en ondertekeningen bijhouden.
+  - Agenda’s en belangrijke data beheren en juristen aan deadlines herinneren.
+  - Facturen van externe juristen controleren en verwerken.
+  - Routinevragen beantwoorden en verzoeken om juridisch advies doorsturen.
+  qualifications:
+  - Goede administratieve en toetsenbordvaardigheden, verworven door onderwijs of werkervaring.
+  - Een kwalificatie in juridische administratie is nuttig maar niet noodzakelijk.
+- title: Juridisch assistent
+  summary: Juridisch assistenten ondersteunen juristen bij een reeks zaken, bereiden documenten voor uit sjablonen, voeren omschreven onderzoek uit en beheren de praktische stappen van contracten en zaken.
+  responsibilities:
+  - Standaardovereenkomsten, zoals geheimhoudings- en overeenkomsten voor het delen van data, voorbereiden uit goedgekeurde sjablonen.
+  - Dossiers, chronologieën en ondertekeningspakketten voor contracten en zaken voorbereiden.
+  - Omschreven juridisch onderzoek uitvoeren en de resultaten samenvatten voor juristen.
+  - Documenten en bewijs verzamelen voor claims en verzoeken om informatie.
+  - Externe juridische uitgaven volgen tegen budgetten en erover rapporteren.
+  - Juridisch administrateurs trainen in routinetaken.
+  qualifications:
+  - Een kwalificatie als juridisch assistent of paralegal op tussenniveau, of gelijkwaardige ervaring.
+- title: Paralegal
+  summary: Paralegals handelen onder toezicht van een jurist hun eigen portefeuille van routinematige juridische zaken af, zoals toetsing van standaardcontracten, verzoeken om informatie en ondersteuning bij claims.
+  responsibilities:
+  - Routineovereenkomsten, zoals softwarelicenties, diensten en verwerkersovereenkomsten, toetsen tegen de normen van de organisatie.
+  - Een portefeuille van routineclaims of -geschillen beheren, documenten voorbereiden en contact houden met externe juristen en regelingen voor schadeloosstelling.
+  - Juridische vragen onderzoeken en advies opstellen ter toetsing door een jurist.
+  - Reacties op complexe verzoeken om informatie en verzoeken om rechten van betrokkenen ondersteunen.
+  - Sjablonen, precedenten en juridische richtlijnen actueel houden.
+  - Het werk van juridisch assistenten en administrateurs coördineren.
+  qualifications:
+  - Een rechtenstudie of een kwalificatie als paralegal op gevorderd niveau, of gelijkwaardige ervaring.
+  job_evaluation_notes: Emotionele inspanning is niveau 2 omdat de functie regelmatig klinische dossiers en verslagen van schade in claims leest.

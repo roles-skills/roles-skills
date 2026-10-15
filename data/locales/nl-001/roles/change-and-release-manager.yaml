@@ -1,0 +1,39 @@
+summary: Wijzigings- en releasemanagers zorgen dat wijzigingen in IT-diensten worden beoordeeld, goedgekeurd, ingepland en veilig uitgevoerd, en dat releases worden gepland en gecoördineerd. Zij zitten de change advisory board voor, zijn eigenaar van de configuratiedatabase (CMDB) en coördineren releases over teams en leveranciers heen. In de gezondheidszorg zorgen zij dat wijzigingen in klinische systemen zo worden getimed en getest dat de zorg voor patiënten wordt beschermd.
+health_context:
+- Wijzigingen in klinische systemen kunnen patiënten schaden, dus beoordeling van wijzigingen omvat toetsing van klinische veiligheid en bewijs uit het proces voor klinisch risicobeheer.
+- Klinische diensten draaien elke dag, dus wijzigingsvensters worden met klinische diensten afgesproken en mijden hun drukste periodes.
+- Veel wijzigingen komen van leveranciers van klinische systemen en moeten toch worden beoordeeld wanneer de leverancier de release beheert.
+- Spoedwijzigingen, zoals dringende beveiligingspatches, moeten het risico van cyberaanvallen afwegen tegen het risico de zorg te verstoren.
+- Een nauwkeurige configuratiedatabase toont welke klinische diensten een wijziging kan raken.
+levels:
+- title: Configuratieanalist
+  responsibilities:
+  - Registraties in de configuratiedatabase bijhouden, inclusief de klinische diensten die elk onderdeel ondersteunt.
+  - Configuratieregistraties controleren aan de hand van discovery-instrumenten en hiaten en fouten herstellen.
+  - Wijzigingsregistraties en agenda’s voor de change advisory board voorbereiden.
+  - Routinevragen over configuratie-items en hoe ze met elkaar samenhangen beantwoorden.
+  qualifications:
+  - Een basiskwalificatie in IT-servicemanagement, een kwalificatie op niveau 3 in IT, of gelijkwaardige ervaring.
+  job_evaluation_notes: Het UK GDaD PCF stelt voor dit niveau Band 6 voor (HEO/SEO). Deze referentie plaatst het op Band 4 omdat het niveau administratieve ondersteuning biedt aan de wijzigings- en releasemanager, met vooral vaardigheden op het niveau van bewustzijn, en onder de wijzigings- en releaseanalist zit. Informatiebronnen ligt boven het profiel van de band omdat het bijhouden van de configuratiedatabase de hoofdtaak is.
+- title: Wijzigings- en releaseanalist
+  responsibilities:
+  - Wijzigingsverzoeken beoordelen op risico en impact, inclusief het effect op klinische diensten en patiëntveiligheid.
+  - Releases plannen en inplannen en wijzigingsvensters afspreken met klinische en operationele diensten.
+  - Controleren dat elke wijziging testen, een plan om terug te draaien en waar nodig akkoord op klinische veiligheid heeft.
+  - Releases coördineren met DevOps-teams, leveranciers en de servicedesk.
+  - Releases achteraf beoordelen en komende wijzigingen plannen.
+  qualifications:
+  - Ervaring met IT-beheer, release- of wijzigingswerk.
+  - Een basiskwalificatie in IT-servicemanagement, of gelijkwaardige ervaring.
+- title: Wijzigings- en releasemanager
+  responsibilities:
+  - De change advisory board voorzitten, inclusief klinische en operationele vertegenwoordigers wanneer wijzigingen de zorg voor patiënten raken.
+  - Beslissen over technische wijzigingen en spoedwijzigingen, zoals dringende beveiligingspatches, autoriseren.
+  - Releases en hun afhankelijkheden coördineren over eigen teams en leveranciers heen.
+  - Eigenaar zijn van de processen voor wijzigingen, releases en configuratiebeheer en van de configuratiedatabase.
+  - Optreden als escalatiepunt bij conflicten tussen wijzigingen en mislukte wijzigingen.
+  - Rapporteren over succes van wijzigingen, mislukte wijzigingen en incidenten veroorzaakt door wijzigingen, en verbeteringen aansturen.
+  qualifications:
+  - Aanzienlijke ervaring met wijzigings- en releasemanagement, op een niveau gelijkwaardig aan een bachelor.
+  - Een kwalificatie op tussenniveau in IT-servicemanagement, of gelijkwaardige ervaring.
+  job_evaluation_notes: Planning ligt boven het profiel van de band omdat de rol releases en hun afhankelijkheden over veel teams en leveranciers inplant.

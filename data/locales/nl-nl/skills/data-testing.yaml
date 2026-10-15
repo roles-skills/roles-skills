@@ -1,0 +1,46 @@
+# Dutch translations of data/skills/data-testing.yaml. Keys are the English skill ids.
+data-ai-assurance:
+  name: Veilige en eerlijke AI in de gezondheidszorg
+  description: Zorgen dat statistische modellen, machinelearningmodellen en AI-modellen die in gezondheid en zorg worden gebruikt veilig, eerlijk, verklaarbaar en gemonitord zijn, inclusief controle op vertekening over groepen patiënten en naleving van regelgeving voor medische hulpmiddelen en AI.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen hoe een model patiënten kan schaden, bijvoorbeeld door vertekening, afdrijven of te veel vertrouwen op de uitvoer
+      - uitleggen waarom modellen moeten worden gevalideerd op de populatie waarmee ze worden gebruikt
+    working: |
+      U kunt:
+      - de prestaties van een model voor verschillende groepen patiënten meten en verschillen rapporteren
+      - het beoogde gebruik, de trainingsdata en de bekende grenzen van een model documenteren, bijvoorbeeld in een modelkaart
+      - bewijs over een model bijdragen aan een klinisch veiligheidsdossier
+    practitioner: |
+      U kunt:
+      - de validatie, beoordeling van vertekening en live monitoring van een model plannen met klinische collega’s
+      - beslissen wanneer een model opnieuw moet worden getraind, beperkt of ingetrokken
+      - teams adviseren over wanneer een model als medisch hulpmiddel gereguleerd kan zijn en welk bewijs het nodig heeft
+    expert: |
+      U kunt:
+      - de normen van de organisatie voor het borgen en monitoren van AI in de zorg vaststellen
+      - de borging van modellen met hoog risico vóór en na inzet leiden
+      - de organisatie vertegenwoordigen bij toezichthouders en partners over veilige en eerlijke AI
+data-deidentification:
+  name: Pseudonimisering en beheersing van onthulling
+  description: De vertrouwelijkheid van patiënten beschermen wanneer data worden gekoppeld, geanalyseerd, gedeeld of gepubliceerd, met pseudonimisering, anonimisering, onderdrukking van kleine aantallen en andere methoden van statistische beheersing van onthulling.
+  levels:
+    awareness: |
+      U kunt:
+      - het verschil uitleggen tussen identificeerbare, gepseudonimiseerde en geanonimiseerde data
+      - de regels van de organisatie voor het onderdrukken van kleine aantallen in uitvoer volgen
+    working: |
+      U kunt:
+      - met gepseudonimiseerde data werken en controles op onthulling toepassen voordat uitvoer wordt vrijgegeven
+      - herkennen wanneer gekoppelde of gedetailleerde data een patiënt kunnen identificeren
+    practitioner: |
+      U kunt:
+      - methoden voor pseudonimisering en koppeling ontwerpen die identificatoren gescheiden houden van analysedata
+      - het risico van heridentificatie van een dataset of publicatie beoordelen en geschikte beheersmaatregelen kiezen
+      - teams adviseren over veilige omgevingen, zoals vertrouwde onderzoeksomgevingen
+    expert: |
+      U kunt:
+      - de normen van de organisatie voor de-identificatie en beheersing van onthulling vaststellen
+      - vrijgave van data met hoog risico en koppelingsprojecten borgen
+      - werk met partners leiden aan veilige toegang tot data voor onderzoek en planning

@@ -1,0 +1,47 @@
+summary: Testanalisten kwaliteitsborging controleren of de digitale diensten voor gezondheid van de organisatie doen wat patiënten, clinici en zorgpersoneel nodig hebben, veilig en betrouwbaar. Zij analyseren eisen en ontwerpen om risico’s vroeg te vinden, ontwerpen en voeren functionele en niet-functionele tests uit en melden gebreken duidelijk. In de gezondheidszorg omvat dit het testen van klinische werkstromen, nauwkeurigheid van data en de beheersmaatregelen die patiënten tegen schade beschermen.
+health_context:
+- Gebreken in klinische systemen kunnen patiënten schaden, bijvoorbeeld door een verkeerde dosis van een medicijn, een gemiste uitslag of een dossier dat voor de verkeerde patiënt wordt getoond, dus testen wordt geprioriteerd naar klinisch risico.
+- Testen levert bewijs voor klinische veiligheidsdossiers en gevarenlogboeken, dus testplannen zijn te herleiden tot opgespoorde gevaren en hun beheersmaatregelen.
+- Testdata mogen nooit echte patiënten onthullen, dus analisten gebruiken synthetische of juist gede-identificeerde testdata.
+- Veel diensten wisselen data uit met andere systemen voor gezondheid en zorg, dus tests controleren berichten tegen standaarden zoals HL7 FHIR en de betekenis van klinische codes.
+- Gebruikers zijn onder meer clinici onder tijdsdruk, patiënten met een breed scala aan behoeften en gebruikers van hulptechnologie, dus testen van bruikbaarheid en toegankelijkheid telt.
+levels:
+- title: Associate testanalist kwaliteitsborging
+  responsibilities:
+  - Onder toezicht testscripts voor klinische en administratieve werkstromen uitvoeren en resultaten nauwkeurig vastleggen.
+  - Duidelijke rapporten van gebreken maken, inclusief de betrokken stappen, data en schermen.
+  - Synthetische testdata gebruiken en nooit echte patiëntdata in testomgevingen gebruiken.
+  - De testaanpakken, instrumenten en het proces voor klinische veiligheid van het team leren.
+  - Deelnemen aan ceremonies van het team zoals stand-ups, planning en retrospectives.
+  qualifications:
+  - Goede analytische en schriftelijke vaardigheden en enige ervaring met testen of met het werken met digitale systemen, of gelijkwaardig.
+- title: Testanalist kwaliteitsborging
+  responsibilities:
+  - User stories, ontwerpen en klinische werkstromen analyseren om te bepalen wat te testen, op basis van risico voor patiënten en diensten.
+  - Functionele tests, tests van toegankelijkheid en tests van bruikbaarheid ontwerpen en uitvoeren, inclusief klinische scenario’s van begin tot eind.
+  - Tests herleiden tot gevaren en beheersmaatregelen voor veiligheid en testbewijs leveren voor klinische veiligheidsdossiers.
+  - Data die aan gebruikers worden getoond controleren tegen bronsystemen en afgesproken klinische codes.
+  - Realistische synthetische testdata aanmaken en bijhouden.
+  - Gebreken volgen tot oplossing en herstel opnieuw testen.
+  qualifications:
+  - Ervaring met het ontwerpen en uitvoeren van tests voor digitale diensten, of gelijkwaardig.
+  job_evaluation_notes: Het UK GDaD PCF stelt voor dit niveau en het senior niveau HEO of SEO voor, wat beide op Band 6 plaatst. Deze referentie plaatst dit niveau op Band 5 en het senior niveau op Band 6, zodat de twee niveaus in verschillende banden zitten.
+- title: Senior testanalist kwaliteitsborging
+  responsibilities:
+  - Kwaliteitsborging coördineren voor een product of gebied en testaanpakken, omgevingen, data en instrumenten afspreken.
+  - Klinische en operationele risico’s vroeg opsporen door eisen, ontwerpen en wijzigingen met clinici en productteams te toetsen.
+  - Gebruikersacceptatietesten met clinici en zorgpersoneel plannen en leiden.
+  - Testuitkomsten en restrisico’s rapporteren aan product-eigenaren en klinischeveiligheidsfunctionarissen, zodat zij beslissingen over release kunnen nemen.
+  - Andere testanalisten begeleiden en hen helpen normen voor testen en klinische veiligheid te volgen.
+  qualifications:
+  - Aanzienlijke ervaring met testanalyse, ook in complexe of gereguleerde omgevingen, of gelijkwaardig.
+- title: Lead testanalist kwaliteitsborging
+  responsibilities:
+  - Normen en goede praktijk voor testanalyse in de hele organisatie vaststellen, inclusief testen op basis van risico van klinische systemen.
+  - Teststrategieën voor grote programma’s definiëren, zoals wijzigingen in het elektronisch patiëntendossier of nieuwe diensten voor patiënten.
+  - Zorgen dat testen het bewijs oplevert dat nodig is voor klinische veiligheidsdossiers en, waar relevant, technische dossiers van medische hulpmiddelen.
+  - Over grote risico’s, kwesties en gebreken onderhandelen en ze escaleren met senior leiders van product, klinisch werk en leveranciers.
+  - Testanalisten begeleiden en coachen en de gemeenschap van testanalyse leiden.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van testanalyse voor complexe diensten.
+  job_evaluation_notes: Het UK GDaD PCF stelt voor dit niveau G7 of G6 voor, wat overeenkomt met Band 8b. Deze referentie plaatst het op Band 8a, op gelijke hoogte met de lead testengineer, omdat het één testdiscipline leidt en niet al het testen; het hoofd test zit op Band 8c.

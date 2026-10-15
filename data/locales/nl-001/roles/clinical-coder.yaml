@@ -1,0 +1,65 @@
+summary: Klinisch codeurs lezen de gezondheidsdossiers van patiënten en vertalen diagnoses, ingrepen en andere klinische informatie naar standaardcodes van classificaties, zoals ICD voor diagnoses en een classificatie van ingrepen voor interventies. Gecodeerde data worden gebruikt voor betaling, planning van diensten, klinische audit, onderzoek en statistieken over de volksgezondheid, dus hun nauwkeurigheid telt ver buiten het team van codeurs. Codeurs werken nauw samen met clinici om dossiers te verduidelijken en gebruiken steeds vaker klinische terminologieën zoals SNOMED CT en hulpmiddelen voor computerondersteunde codering.
+health_context:
+- Codeurs lezen volledige patiëntdossiers, die vaak ernstige ziekte, letsel, misbruik, zelfbeschadiging en overlijden beschrijven, dus het werk is emotioneel belastend en teams hebben goede ondersteuning en begeleiding nodig.
+- Gecodeerde data bepalen de betaling voor activiteit, indicatoren voor sterfte en uitkomsten en planning van diensten, dus fouten kunnen financiering, gepubliceerde prestaties en beslissingen over zorg raken.
+- Codering hangt af van de kwaliteit van klinische documentatie, dus codeurs bevragen onduidelijke dossiers bij clinici en helpen verbeteren hoe zorg wordt vastgelegd.
+- Codeurs verwerken elke dag volledige identificeerbare gezondheidsdossiers, dus vertrouwelijkheid en juiste toegang zijn essentieel.
+- Geautomatiseerde en computerondersteunde codering en koppeling van SNOMED CT aan classificaties veranderen het werk, en codeurs controleren of geautomatiseerde codes juist zijn.
+levels:
+- title: Trainee klinisch codeur
+  summary: Een trainee klinisch codeur leert eenvoudige ziekenhuisopnames te coderen onder nauw toezicht en werkt toe naar een kwalificatie in klinische codering.
+  responsibilities:
+  - Eenvoudige episodes, zoals dagopnames, uit gezondheidsdossiers coderen volgens de regels van classificaties, waarbij al het werk door een senior codeur wordt gecontroleerd.
+  - Medische termen, anatomie en de nationale en internationale coderingsnormen leren via gestructureerde training.
+  - Gezondheidsdossiers correct opsporen, volgen en teruggeven en ze veilig bewaren.
+  - Gecodeerde data nauwkeurig en op tijd vastleggen in het patiëntenadministratie- of coderingssysteem.
+  - Onduidelijke of ontbrekende informatie voorleggen aan een senior codeur.
+  qualifications:
+  - Goede taal- en toetsenbordvaardigheden en inschrijving voor een trainingsprogramma voor klinische codering, of gelijkwaardig.
+  job_evaluation_notes: Geestelijke inspanning is niveau 4 omdat codeurs zich lang concentreren op het lezen en interpreteren van gedetailleerde patiëntdossiers. Emotionele inspanning is niveau 2 omdat codeurs regelmatig dossiers lezen die schokkende gebeurtenissen beschrijven.
+- title: Klinisch codeur
+  summary: Een klinisch codeur codeert zelfstandig en nauwkeurig een volledige reeks routine-episodes en haalt afgesproken deadlines en kwaliteitsnormen.
+  responsibilities:
+  - Klinische opnames, dagopnames en poliklinische episodes in gangbare specialismen nauwkeurig coderen volgens de regels van classificaties en lokaal beleid.
+  - Onduidelijke, ontbrekende of tegenstrijdige klinische informatie bevragen bij clinici en de uitkomst vastleggen.
+  - Codes die door computerondersteunde codering of koppelingen van terminologie worden voorgesteld controleren en waar nodig corrigeren.
+  - Deadlines voor volledigheid van codering halen, zodat data gereed zijn voor betaling en rapportage.
+  - Deelnemen aan audits van codering en handelen op de bevindingen.
+  qualifications:
+  - Een erkende kwalificatie in klinische codering, of werkend aan een kwalificatie met gelijkwaardige ervaring.
+  job_evaluation_notes: Geestelijke en emotionele inspanning weerspiegelen lange perioden van concentratie op patiëntdossiers die vaak ernstige ziekte, letsel en overlijden beschrijven.
+- title: Senior klinisch codeur
+  summary: Een senior klinisch codeur codeert complexe episodes over specialismen heen, is een bron van deskundig advies voor andere codeurs en controleert en traint minder ervaren codeurs.
+  responsibilities:
+  - Complexe episodes coderen, zoals intensive care, kanker, meerdere ingrepen en overlijdens, over specialismen heen.
+  - Moeilijke vragen over codering oplossen met consulenten en andere senior clinici en de regels voor codering duidelijk uitleggen.
+  - Het werk van trainee codeurs controleren en hun terugkoppeling en training op de werkplek geven.
+  - Gecodeerde data valideren voordat ze worden ingediend en fouten met het juiste team herstellen.
+  - Met klinische teams samenwerken om de kwaliteit van klinische documentatie te verbeteren.
+  qualifications:
+  - Een erkende kwalificatie in klinische codering, of gelijkwaardige ervaring.
+  - Ervaring met het coderen van complexe episodes in een reeks specialismen.
+  job_evaluation_notes: Emotionele inspanning blijft op niveau 2, omdat complexe episodes zoals overlijdens en kankerzorg een regelmatig onderdeel van het werk zijn.
+- title: Auditor en trainer klinische codering
+  summary: Een auditor en trainer klinische codering controleert de nauwkeurigheid van gecodeerde data, ontwerpt en geeft training in codering en adviseert de organisatie over normen voor codering. In sommige organisaties leidt dit niveau ook dagelijks een team van codeurs.
+  responsibilities:
+  - Audits van codering plannen en uitvoeren over specialismen heen en de nauwkeurigheid meten tegen nationale en internationale normen.
+  - Bevindingen van audits rapporteren aan teams voor codering, klinisch werk, financiën en informatie en verbeteracties afspreken.
+  - Training in codering ontwerpen en geven, van basiscursussen voor nieuwe codeurs tot opfristraining bij wijzigingen van normen.
+  - Clinici en managers adviseren over hoe codering betaling, sterfte-indicatoren en prestatiedata beïnvloedt.
+  - De invoering van wijzigingen in versies van classificaties, coderingsnormen en hulpmiddelen voor codering leiden.
+  - Dagelijks een team van codeurs leiden waar de organisatie dit combineert met audit en training.
+  qualifications:
+  - Een erkende kwalificatie in klinische codering en een erkende kwalificatie voor audit of training in klinische codering, of gelijkwaardige ervaring.
+  job_evaluation_notes: Mensen is niveau 3 omdat het ontwerpen en geven van gespecialiseerde training in codering een hoofdtaak is. Onderzoek is niveau 2 omdat audit van codering een regelmatig onderdeel van de functie is.
+- title: Manager klinische codering
+  summary: Een manager klinische codering leidt de dienst voor klinische codering van de organisatie, inclusief haar teams van codeurs, kwaliteitsprogramma en banden met klinische, financiële en informatieteams.
+  responsibilities:
+  - De dienst voor klinische codering en haar teamleiders leiden en zorgen dat codering volledig, nauwkeurig en op tijd is.
+  - Beleid voor codering en het kwaliteitsprogramma voor codering vaststellen, in lijn met nationale en internationale normen.
+  - Het budget voor codering beheren en het personeel plannen, inclusief werving, training en accreditatie.
+  - Senior leiders adviseren over hoe codering financiering, indicatoren voor sterfte en uitkomsten en gepubliceerde data beïnvloedt.
+  - De invoering van nieuwe technologie voor codering, zoals computerondersteunde codering en koppeling van terminologie, leiden samen met collega’s voor klinische veiligheid en informatiebeheer.
+  - Het welzijn ondersteunen van codeurs die regelmatig schokkende dossiers lezen.
+  qualifications:
+  - Een erkende kwalificatie in klinische codering en uitgebreide ervaring met codering, audit en het leiden van codeurs, of gelijkwaardige ervaring.

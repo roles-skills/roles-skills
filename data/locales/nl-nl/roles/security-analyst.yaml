@@ -1,0 +1,45 @@
+summary: Analisten beveiligingsoperaties houden cyberdreigingen voor de systemen en data van de organisatie in de gaten, onderzoeken ze en reageren erop. Zij triëren waarschuwingen van instrumenten voor beveiligingsmonitoring, onderzoeken verdachte activiteit, beheersen incidenten en helpen zwakheden te herstellen. In de gezondheidszorg beschermen snelle detectie en reactie klinische diensten en vertrouwelijke patiëntinformatie tegen aanvallen zoals ransomware.
+health_context:
+- De gezondheidszorg is een veelvoorkomend doelwit van ransomware en diefstal van data, en één aanval kan klinische systemen in de hele organisatie stilleggen.
+- Beslissingen over beheersing, zoals het isoleren van een server of een deel van het netwerk, moeten het beveiligingsrisico afwegen tegen het effect op de zorg voor patiënten, dus analisten werken met klinische en operationele leiders.
+- Netwerken omvatten medische hulpmiddelen en legacy-systemen die geen agents voor beveiliging kunnen draaien of niet snel kunnen worden gepatcht, dus analisten leunen op netwerkmonitoring en compenserende beheersmaatregelen.
+- Monitoring omvat toegang tot patiëntdossiers, dus analisten helpen onjuiste toegang door insiders en aanvallen van buiten op te sporen, samen met informatiebeheer.
+- Beveiligingsmonitoring loopt de klok rond, dus analisten kunnen in diensten of bereikbaarheidsroosters werken.
+levels:
+- title: Junior analist beveiligingsoperaties
+  summary: Een junior analist beveiligingsoperaties monitort waarschuwingen over beveiliging, triëert ze aan de hand van runbooks en escaleert gebeurtenissen, met begeleiding van ervaren analisten.
+  responsibilities:
+  - Waarschuwingen van instrumenten voor beveiligingsmonitoring en endpoints monitoren en ze triëren aan de hand van runbooks.
+  - Bewijs over verdachte activiteit, zoals phishing-e-mails of ongewone aanmeldingen, verzamelen en escaleren.
+  - Phishing-e-mails die door personeel zijn gemeld controleren en helpen kwaadaardige e-mails uit mailboxen te verwijderen.
+  - Gebeurtenissen en acties nauwkeurig vastleggen in het instrument voor zaakbeheer.
+  - Scans van kwetsbaarheden uitvoeren en systeemeigenaren herinneren aan herstel dat aan de beurt is.
+  qualifications:
+  - Een kwalificatie in informatica of cyberbeveiliging, een leerwerktraject in cyberbeveiliging, of gelijkwaardige ervaring.
+  job_evaluation_notes: Geestelijke inspanning weerspiegelt regelmatig langdurige concentratie op het monitoren en triëren van onvoorspelbare waarschuwingen.
+- title: Analist beveiligingsoperaties
+  summary: Een analist beveiligingsoperaties onderzoekt en beheerst beveiligingsincidenten, schrijft detectieregels en verbetert de beveiligingsmonitoring van de organisatie.
+  responsibilities:
+  - Beveiligingsincidenten onderzoeken, hun omvang vaststellen en ze beheersen, samen met systeemeigenaren en klinische diensten.
+  - Detectieregels schrijven en afstellen en threat hunts uitvoeren op basis van actuele dreigingen voor de gezondheidszorg.
+  - Monitoren op onjuiste toegang tot patiëntdossiers en zaken doorgeven aan informatiebeheer.
+  - Kwetsbaarheden beoordelen naar risico, inclusief hun effect op klinische diensten en medische hulpmiddelen.
+  - Runbooks en instrumenten na incidenten verbeteren.
+  - Deelnemen aan het bereikbaarheidsrooster voor beveiligingsincidenten buiten kantooruren.
+  qualifications:
+  - Een bachelor in informatica of cyberbeveiliging, relevante certificeringen voor beveiliging, of gelijkwaardige ervaring.
+  - Ervaring met beveiligingsmonitoring of reactie op incidenten.
+  job_evaluation_notes: Geestelijke inspanning weerspiegelt regelmatig langdurige concentratie tijdens onderzoeken, ook tijdens bereikbaarheidsdienst. Emotionele inspanning weerspiegelt regelmatige indirecte blootstelling aan schokkend materiaal in patiëntdossiers en aan de druk van live incidenten.
+- title: Senior analist beveiligingsoperaties
+  summary: Een senior analist beveiligingsoperaties leidt de reactie op belangrijke beveiligingsincidenten, leidt threat hunting en stuurt het werk van het team voor beveiligingsoperaties aan.
+  responsibilities:
+  - De technische reactie op belangrijke beveiligingsincidenten leiden, waaronder ransomware en diefstal van data, en coördineren met incidentmanagement.
+  - Klinische en operationele leiders adviseren over beslissingen over beheersing die de zorg voor patiënten raken.
+  - Werk aan threat hunting en dreigingsinformatie leiden en informatie delen met partners voor beveiliging in de gezondheidszorg.
+  - Prioriteiten stellen voor detectie-engineering en dekking van monitoring, ook voor netwerken van medische hulpmiddelen.
+  - Oefeningen leiden die de reactie op incidenten testen met technische en klinische teams.
+  - Analisten beveiligingsoperaties coachen en begeleiden.
+  qualifications:
+  - Aanzienlijke ervaring met beveiligingsoperaties en reactie op incidenten, op een niveau gelijkwaardig aan een postdoctoraal diploma.
+  - Relevante certificeringen voor beveiliging op gevorderd niveau, of gelijkwaardige ervaring.
+  job_evaluation_notes: Geestelijke en emotionele inspanning weerspiegelen het leiden van de reactie op ernstige incidenten onder druk, vaak buiten kantooruren, waar klinische diensten in gevaar zijn.

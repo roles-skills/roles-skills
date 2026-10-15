@@ -1,0 +1,62 @@
+summary: Interactieontwerpers ontwerpen hoe patiënten, mantelzorgers, clinici en zorgpersoneel de digitale diensten voor gezondheid van de organisatie gebruiken, van apps en formulieren voor patiënten tot de schermen die clinici aan het bed gebruiken. Zij ontwerpen eenvoudige, toegankelijke en veilige interacties, testen ze met echte gebruikers en gebruiken gedeelde designsystemen zodat diensten consistent en vertrouwd aanvoelen.
+health_context:
+- Clinici gebruiken systemen vaak onder tijdsdruk, met onderbrekingen en op gedeelde apparaten, dus ontwerpen moeten snel, nauwkeurig werk ondersteunen en de veilige handeling de gemakkelijke maken.
+- Slecht ontwerp kan klinische schade veroorzaken, zoals het selecteren van de verkeerde patiënt of het verkeerd lezen van een dosis, dus ontwerpers passen beginselen van human factors toe en werken met klinischeveiligheidsfunctionarissen.
+- Veel gebruikers zijn ziek, angstig, oud of hebben een beperking, dus ontwerpen moeten voldoen aan toegankelijkheidsnormen en werken voor mensen met weinig digitale vaardigheden of gezondheidsvaardigheden.
+- Waarschuwingen en alarmen zijn alleen nuttig als mensen ze opmerken en vertrouwen, dus ontwerpers helpen waarschuwingsmoeheid te verminderen en houden informatie die kritiek is voor veiligheid zichtbaar.
+levels:
+- title: Associate interactieontwerper
+  responsibilities:
+  - Methoden van interactieontwerp en het designsysteem van het team leren via training en samen werken.
+  - Onder toezicht schetsen, wireframes en eenvoudige prototypes maken.
+  - Helpen ontwerpen met gebruikers te testen en vastleggen wat werkt en wat niet.
+  - Toegankelijkheidsnormen en de patronen van het designsysteem volgen, inclusief die voor identiteit van patiënten en veiligheidswaarschuwingen.
+  qualifications:
+  - Werkend aan een kwalificatie of leerwerktraject in ontwerp of een verwant vakgebied, of gelijkwaardige ervaring.
+- title: Junior interactieontwerper
+  responsibilities:
+  - Onder leiding van een meer senior ontwerper delen van een dienst ontwerpen en prototypen, zoals formulieren, stromen en schermen.
+  - Ontwerpen testen met patiënten, mantelzorgers en personeel en ze wijzigen op basis van wat u leert.
+  - Toegankelijke interacties ontwerpen die werken met hulptechnologie.
+  - Ontwerpbeslissingen aan het team uitleggen, inclusief hoe ze de kans op fouten verkleinen.
+  qualifications:
+  - Een bachelor in ontwerp of een verwant vak, of gelijkwaardige ervaring.
+- title: Interactieontwerper
+  responsibilities:
+  - Interacties ontwerpen voor een digitaal product voor gezondheid, van vroege concepten tot gedetailleerde, geteste ontwerpen.
+  - Ontwerpen voor klinische werkstromen en testen met clinici en zorgpersoneel in realistische scenario’s, inclusief onderbrekingen.
+  - Gevaren die samenhangen met ontwerp voorleggen aan de klinischeveiligheidsfunctionaris en vastleggen hoe ontwerpen ze beheersen.
+  - Het designsysteem gebruiken en eraan bijdragen, inclusief patronen voor informatie die kritiek is voor veiligheid.
+  - Nauw met ontwikkelaars samenwerken om te zorgen dat ontwerpen zo worden gebouwd als bedoeld en toegankelijk blijven.
+  qualifications:
+  - Een bachelor in ontwerp of een verwant vak, of gelijkwaardige ervaring.
+  - Ervaring met het ontwerpen van digitale diensten met gebruikers.
+  job_evaluation_notes: Het UK GDaD PCF plaatst de interactieontwerper op SEO of G7, met een voorgesteld Band 7, hetzelfde als de senior interactieontwerper. Deze referentie plaatst het op Band 6, hetzelfde als het niveau servicedesigner met identieke niveaus van vaardigheden in het PCF, zodat de twee niveaus van interactieontwerper niet in dezelfde band zitten.
+- title: Senior interactieontwerper
+  responsibilities:
+  - Interactieontwerp leiden voor complexe diensten, zoals klinische systemen die in veel zorgomgevingen worden gebruikt.
+  - Methoden van human factors, zoals taakanalyse, toepassen op klinische werkstromen die kritiek zijn voor veiligheid.
+  - Ontwerpbewijs leveren voor klinische veiligheidsdossiers en, waar software gereguleerd is, voor dossiers over bruikbaarheid.
+  - Helpen richting en goede praktijk voor ontwerp in teams vast te stellen en andere ontwerpers begeleiden.
+  - Ontwerpbeslissingen nemen op basis van onderzoek en data en ze uitleggen aan klinische en productleiders.
+  qualifications:
+  - Aanzienlijke ervaring met interactieontwerp, op een niveau gelijkwaardig aan een master.
+- title: Lead interactieontwerper
+  responsibilities:
+  - Ontwerprichting vaststellen en de kwaliteit van interactieontwerp borgen over meerdere teams of diensten.
+  - Het designsysteem leiden, inclusief toegankelijke patronen en patronen voor veiligheidskritieke zaken die teams in de organisatie hergebruiken.
+  - Werk aan human factors leiden voor de klinische diensten met het hoogste risico, samen met klinischeveiligheidsfunctionarissen.
+  - Met senior product- en klinische leiders ontwerpconcepten voor grote diensten ontwikkelen.
+  - Hiërarchisch leiding geven aan en ontwikkelen van interactieontwerpers.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van interactieontwerp over teams heen.
+  job_evaluation_notes: Er is geen niveau in Band 8a, omdat het UK GDaD PCF de lead interactieontwerper op G7 of G6 plaatst en deze referentie het voorgestelde Band 8b volgt. Beleid is niveau 5 omdat de lead-ontwerper ontwerpnormen vaststelt voor een reeks diensten.
+- title: Hoofd interactieontwerp
+  responsibilities:
+  - Het beroep van interactieontwerp leiden en zijn strategie, normen en werkwijzen vaststellen.
+  - Ontwerp en strategie van de organisatie beïnvloeden zodat diensten bruikbaar, toegankelijk en veilig zijn.
+  - Eigenaar zijn van het designsysteem van de organisatie en zorgen dat het voldoet aan behoeften van toegankelijkheid en klinische veiligheid.
+  - Capaciteit voor ontwerp opbouwen, inclusief werving, loopbaanpaden en training.
+  - Met collega’s in het stelsel van gezondheid en zorg samenwerken aan gedeelde ontwerppatronen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van ontwerp en een ontwerppraktijk.

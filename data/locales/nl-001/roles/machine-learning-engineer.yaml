@@ -1,0 +1,27 @@
+summary: Machine-learning-engineers nemen modellen die datawetenschappers hebben gebouwd, of die van leveranciers zijn gekocht, en laten ze betrouwbaar werken in live diensten voor gezondheid en zorg. Zij bouwen de pijplijnen die modellen trainen, testen, implementeren en monitoren en integreren ze met klinische en operationele systemen. Zij zorgen dat modellen veilig, beveiligd, eerlijk en effectief blijven zodra echte patiënten en personeel erop vertrouwen.
+health_context:
+- Modellen in live gebruik kunnen afdrijven wanneer patiëntenpopulaties, klinische praktijk of vastleggingsgewoonten veranderen, dus prestaties worden voor elke groep patiënten gemonitord en modellen worden waar nodig hertraind of ingetrokken.
+- Een model dat diagnose, triage of behandeling informeert, kan als medisch hulpmiddel gereguleerd zijn, wat formele eisen met zich meebrengt voor de levenscyclus van de software, wijzigingsbeheer en toezicht na het op de markt brengen.
+- Klinische veiligheidsdossiers hebben bewijs nodig over hoe een model faalt, hoe zijn uitvoer aan clinici wordt getoond en wat er gebeurt wanneer het niet beschikbaar is.
+- Modellen die op patiëntdata zijn getraind, kunnen informatie over individuen lekken, dus trainingsdata, artefacten van modellen en logboeken worden beschermd als de data zelf.
+- Generatieve AI en grote taalmodellen brengen verdere risico’s mee, zoals verzonnen inhoud in klinische notities, die specifiek testen en menselijk toezicht vragen.
+levels:
+- title: Senior machine-learning-engineer
+  responsibilities:
+  - Modellen inzetten in klinische en operationele diensten in productie, met geautomatiseerd testen, versiebeheer en terugdraaien.
+  - Monitoring bouwen voor prestaties, afdrijven en eerlijkheid van modellen over groepen patiënten, met waarschuwingen en duidelijke eigenaren.
+  - Modellen met klinische systemen integreren, waar mogelijk met open standaarden zoals HL7 FHIR.
+  - Het bewijs uit testen, wijzigingen en monitoring leveren dat nodig is voor klinische veiligheidsdossiers en technische dossiers van medische hulpmiddelen.
+  - Modellen van leveranciers en open source beoordelen en aanpassen voor lokaal gebruik, inclusief generatieve AI-modellen.
+  - Datawetenschappers en engineers coachen in de praktijk van machine-learning-engineering.
+  qualifications:
+  - Aanzienlijke ervaring met het bouwen en beheren van machinelearningsystemen in productie, op een niveau gelijkwaardig aan een master.
+- title: Lead machine-learning-engineer
+  responsibilities:
+  - Het meest complexe werk leiden om modellen van onderzoek naar veilig live gebruik in de hele organisatie te brengen.
+  - De levenscyclus van machine learning definiëren, inclusief de beheersmaatregelen die nodig zijn voor gereguleerde modellen en modellen die kritiek zijn voor veiligheid.
+  - Normen voor testen, monitoring, beveiliging en ethiek van modellen vaststellen en modellen in live gebruik borgen.
+  - Met klinischeveiligheidsfunctionarissen, informatiebeheer en specialisten in regelgeving afspreken hoe modellen worden beoordeeld en goedgekeurd.
+  - Behoeften aan training vaststellen en machine-learning-engineers en verwante rollen ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van machine-learning-engineering voor complexe of gereguleerde diensten.
