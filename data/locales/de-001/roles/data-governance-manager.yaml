@@ -1,0 +1,40 @@
+summary: Manager/innen Data Governance stellen sicher, dass die Gesundheits- und Pflegedaten der Organisation gut gesteuert, vertrauenswürdig und sicher und rechtmäßig genutzt werden. Sie bauen die Rahmen, Richtlinien und Standards für Dateneigentum, Qualität, Metadaten und Datenaustausch auf und betreiben sie und arbeiten mit Dateneigentümern, Kolleginnen und Kollegen aus Informationsgovernance und klinischen Leitungen zusammen, damit Daten mit Zuversicht für Versorgung, Planung und Forschung genutzt werden können.
+health_context:
+- Gesundheitsdaten sind hochsensible personenbezogene Daten; Data Governance arbeitet daher eng mit Informationsgovernance, Datenschutz und der Schweigepflicht zusammen.
+- Daten werden mit vielen Partnern in Gesundheit und Pflege für direkte Versorgung, Planung und Forschung geteilt, und jede Nutzung braucht eine klare Rechtsgrundlage, Vereinbarungen und Kontrollen.
+- Klinische Datenstandards wie SNOMED CT, ICD und HL7 FHIR und vereinbarte Datendefinitionen sind zentral, um Daten über Systeme und Organisationen hinweg konsistent zu machen.
+- Schlechte Datenqualität kann unmittelbar zu Patientenschäden führen, etwa durch übersehene Allergien oder falsche Patientenzuordnung, und zu falschen Entscheidungen über Dienste.
+- Patientinnen, Patienten und die Öffentlichkeit erwarten Offenheit darüber, wie ihre Daten genutzt werden; Governance umfasst daher Transparenz und Respekt vor den Entscheidungen der Patientinnen und Patienten zur Sekundärnutzung.
+levels:
+- title: Manager/in Data Governance
+  responsibilities:
+  - Den Data-Governance-Rahmen der Organisation führen, einschließlich Dateneigentum, Datenverantwortung (Stewardship) und Entscheidungsgremien.
+  - Den Datenkatalog, das Geschäftsglossar und die Datenstandards pflegen, einschließlich vereinbarter klinischer und betrieblicher Definitionen.
+  - Die Datenqualität wichtiger Datensätze überwachen und mit Dateneigentümern die Ursachen beheben.
+  - Mit Kolleginnen und Kollegen aus Informationsgovernance an Datenaustauschvereinbarungen und Datenschutz-Folgenabschätzungen für neue Datennutzungen arbeiten.
+  - Datenrisiken und -probleme erfassen und steuern und an die richtigen Verantwortlichen eskalieren.
+  - Die Datenkompetenz des Personals verbessern, das Gesundheitsdaten erzeugt und nutzt.
+  qualifications:
+  - Ein Studienabschluss oder eine berufliche Qualifikation in Daten, Informationsmanagement oder einem verwandten Fach oder gleichwertige Erfahrung.
+  - Erfahrung mit Data Governance oder Datenmanagement in einer komplexen Organisation.
+  job_evaluation_notes: Das UK GDaD PCF schlägt für diese Stufe HEO bis G7 vor, was Entgeltgruppe 6 entspricht. Diese Referenz ordnet sie in Entgeltgruppe 7 ein, weil die Rolle in einer Gesundheitsorganisation in der Regel vertrauliche Patientendaten in der gesamten Organisation steuert und Datenrichtlinien entwickelt, die mehrere Dienste betreffen.
+- title: Leitende/r Manager/in Data Governance
+  responsibilities:
+  - Entwurf und Betrieb von Data-Governance-Rahmen, -Richtlinien und -Standards in der Organisation leiten.
+  - Dateneigentümer und Datenverantwortliche koordinieren, um Datenrisiken zu steuern, anzunehmen oder zu beheben und an Leitungsausschüsse zu berichten.
+  - Breitere Datenmanagementarbeit leiten, etwa Stammdaten für Patientinnen, Patienten, Personal und Standorte sowie Referenzdaten.
+  - Data-Governance-Regelungen für Daten vereinbaren, die mit Partnern in Gesundheit und Pflege und mit Forschenden geteilt werden.
+  - Programme dazu beraten, wie neue Systeme und Datennutzungen Datenstandards und Governance-Regeln erfüllen.
+  - Das Personal der Data Governance in der Linie führen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Data Governance oder Datenmanagement.
+- title: Leiter/in Data Governance
+  responsibilities:
+  - Mit der oder dem Chief Data Officer und der oder dem Verantwortlichen der Geschäftsleitung für Informationsrisiko die Strategie für Data Governance und Datennutzung festlegen.
+  - Data-Governance-Richtlinien und -Standards festlegen und überwachen, wie gut die Organisation sie einhält.
+  - Für das Management der Datenrisiken der Organisation verantwortlich sein und dem Vorstand darüber berichten.
+  - Die Organisation in Fragen der Data Governance gegenüber Partnern in Gesundheit und Pflege, Aufsichtsbehörden und Patientenorganisationen vertreten.
+  - Offenheit gegenüber Patientinnen, Patienten und Öffentlichkeit darüber fördern, wie ihre Daten genutzt werden.
+  - Die Funktion Data Governance führen und entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Data Governance in einer Organisation.

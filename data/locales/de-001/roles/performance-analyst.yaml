@@ -1,0 +1,52 @@
+summary: Leistungsanalystinnen und -analysten messen, wie gut die digitalen Gesundheitsdienste der Organisation für Patientinnen, Patienten, Dienstnutzende, klinisches Personal und Pflegepersonal funktionieren. Sie richten Messrahmen ein, sammeln und analysieren Nutzungs- und Ergebnisdaten und helfen Produktteams und Dienstleitungen zu verstehen, ob Änderungen Zugang, Erfahrung, Sicherheit und Effizienz verbessern.
+health_context:
+- Erfolgsmaße reichen über die Annahme digitaler Dienste hinaus und umfassen Wirkungen auf die Versorgung, etwa versäumte Termine, Wartezeiten, sichere Triage und gewonnene Personalzeit.
+- Analytik und Tracking bei Gesundheitsdiensten können sensible Informationen offenlegen, etwa nach welcher Erkrankung jemand gesucht hat; Messung muss daher Einwilligung, Cookie-Regeln und Vertraulichkeit achten.
+- Digitale Dienste dürfen gesundheitliche Ungleichheiten nicht vergrößern; Analystinnen und Analysten betrachten daher Annahme und Ergebnisse bei Gruppen, die digitale Dienste seltener nutzen.
+- Leistungsdaten werden möglicherweise an Vorstände, Auftraggeber von Leistungen und Aufsichtsbehörden berichtet; Definitionen müssen daher einheitlich und gut dokumentiert sein.
+levels:
+- title: Associate Leistungsanalyst/in
+  responsibilities:
+  - Regelmäßige Berichte dazu erstellen, wie Patientinnen, Patienten und Mitarbeitende digitale Dienste nutzen, etwa Anmeldungen, Abschlüsse und Abbruchpunkte.
+  - Analytik- und Trackingdaten auf Lücken und Fehler prüfen und sie dem Team melden.
+  - Die Regeln der Organisation zu Einwilligung und Vertraulichkeit beim Sammeln und Teilen von Nutzungsdaten befolgen.
+  - Produktteams helfen, einfache Fragen zur Dienstnutzung zu beantworten.
+  qualifications:
+  - Gutes Zahlenverständnis und etwas Erfahrung im Umgang mit Daten oder deren Analyse oder gleichwertig.
+- title: Leistungsanalyst/in
+  responsibilities:
+  - Mit Produktteams und klinischen Leitungen vereinbaren, wie Erfolg für einen Dienst aussieht, einschließlich Wirkungen auf Versorgung und Personal.
+  - Analytik so einrichten und validieren, dass Tracking genau, verhältnismäßig ist und Einwilligung achtet.
+  - Digitale Analytik mit betrieblichen Daten wie Terminen und Überweisungen kombinieren, um die Wirkung von Änderungen zu zeigen.
+  - Annahme und Ergebnisse für verschiedene Patientengruppen analysieren und Risiken digitaler Ausgrenzung aufzeigen.
+  - Ergebnisse Produktteams und Dienstleitungen präsentieren und Verbesserungen empfehlen.
+  qualifications:
+  - Ein Studienabschluss in einem zahlenorientierten Fach oder gleichwertige Erfahrung.
+  - Erfahrung in der Messung der Leistung digitaler Dienste.
+- title: Senior-Leistungsanalyst/in
+  responsibilities:
+  - Leistungsmessung für eine Gruppe von Diensten oder ein großes Programm leiten, etwa digitale Ambulanzen oder Online-Triage.
+  - Nutzenmaße mit klinischen, Finanz- und betrieblichen Leitungen entwerfen und durch die Lieferung verfolgen.
+  - Analysewerkzeuge wählen und konfigurieren, die Anforderungen an Informationsgovernance und Sicherheit erfüllen.
+  - Leistungsbelege Programmgremien und leitenden Führungskräften präsentieren.
+  - Analystinnen und Analysten anleiten und möglicherweise eine oder mehrere Leistungsanalystinnen und -analysten in der Linie führen.
+  qualifications:
+  - Umfangreiche Erfahrung in der Leistungsanalyse für digitale Dienste, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Leitende/r Leistungsanalyst/in
+  responsibilities:
+  - Ein Team von Leistungsanalystinnen und -analysten über ein Portfolio digitaler Gesundheitsdienste leiten.
+  - Einheitliche Definitionen für wichtige Leistungsmaße vereinbaren, damit Berichte an Vorstände und Partner über die Zeit vergleichbar sind.
+  - Sicherstellen, dass Analysedaten genau sind, angemessen genutzt und im Einklang mit den Regeln der Informationsgovernance behandelt werden.
+  - Leistungsbelege nutzen, um Portfolioprioritäten und Investitionen zu beeinflussen.
+  - Analystinnen und Analysten auf allen Stufen anleiten und begleiten.
+  qualifications:
+  - Umfassende Erfahrung in Leistungsanalyse und in der Leitung von Analystinnen und Analysten.
+- title: Leiter/in Leistungsanalyse
+  responsibilities:
+  - Die Strategie zur Messung von Leistung und Nutzen der digitalen Dienste der Organisation festlegen.
+  - Den Qualitätssicherungsrahmen für Leistungsanalyse und Leistungsberichterstattung definieren.
+  - Die Führungsebene dazu beraten, was Leistungsbelege über digitale Dienste und Ergebnisse für Patientinnen und Patienten zeigen.
+  - Mit anderen analytischen Berufen wie Datenanalyse und Data Science Methoden und Daten teilen.
+  - Die Kapazität der Community der Leistungsanalyse planen, einschließlich Personalgewinnung und Entwicklung.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Leistungsanalyse in einer Organisation.

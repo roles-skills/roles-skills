@@ -1,0 +1,38 @@
+summary: Sicherheitsarchitektinnen und -architekten entwerfen die Sicherheit der digitalen Gesundheitsdienste der Organisation, damit Patienteninformationen vertraulich, genau und verfügbar bleiben, wenn die Versorgung sie braucht. Sie legen Sicherheitsmuster und Kontrollen fest, bewerten das Sicherheitsrisiko neuer Entwürfe und Anbieter und helfen Teams, risikobasierte Entscheidungen zu treffen, die Dienste für klinisches Personal und Patientinnen und Patienten sowohl sicher als auch nutzbar halten.
+health_context:
+- Gesundheitsorganisationen sind häufige Ziele von Ransomware und Datendiebstahl, und ein Angriff kann klinische Dienste stoppen; Verfügbarkeit ist daher ebenso wichtig wie Vertraulichkeit.
+- Sicherheitskontrollen dürfen dringender Versorgung nicht im Weg stehen; Entwürfe wägen daher starke Authentifizierung gegen schnellen Zugriff in klinischen Umgebungen ab.
+- Vernetzte Medizinprodukte und klinische Altsysteme lassen sich oft nicht schnell patchen; Architektinnen und Architekten entwerfen daher kompensierende Kontrollen wie Segmentierung.
+- Viele Mitarbeitende, Partnerorganisationen und Anbieter brauchen Zugriff auf Patientenakten; Identität, rollenbasierter Zugriff und Protokollierung sind daher zentral.
+- Sicherheitsentwürfe müssen Pflichten der Informationsgovernance und veröffentlichte Sicherheitsstandards wie ISO/IEC 27001 unterstützen.
+levels:
+- title: Sicherheitsarchitekt/in
+  responsibilities:
+  - Sicherheitskontrollen für Dienste und Systeme entwerfen, einschließlich Identität, Verschlüsselung, Protokollierung und Netzwerkschutz.
+  - Die Sicherheit neuer Entwürfe und von Anbieterprodukten bewerten und Risiken und empfohlene Kontrollen festhalten.
+  - Sicherheitsmuster entwickeln, die Lieferteams wiederverwenden können, etwa für die Anmeldung von Patientinnen und Patienten und Single Sign-on für Mitarbeitende.
+  - Zu kompensierenden Kontrollen für Medizinprodukte und klinische Altsysteme beraten, die sich nicht leicht aktualisieren lassen.
+  - Mit Kolleginnen und Kollegen aus Informationsgovernance und klinischer Sicherheit zusammenarbeiten, damit Sicherheits-, Datenschutz- und Sicherheitsrisiken für Patientinnen und Patienten gemeinsam bewertet werden.
+  - Sicherheitsingenieurinnen, -ingenieure und andere Architektinnen und Architekten im sicheren Entwurf anleiten.
+  qualifications:
+  - Umfangreiche Erfahrung in Sicherheitsarchitektur oder Sicherheits-Engineering, auf einem Niveau, das einem Masterabschluss entspricht.
+  - Eine anerkannte Sicherheitsqualifikation oder gleichwertige Erfahrung.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 6): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 8a. Analyse und Handlungsfreiheit werden über dem Profil der Entgeltgruppe 7 bewertet, weil die Stelle Sicherheit für kritische klinische Systeme mit wenig Aufsicht entwirft.'
+- title: Leitende/r Sicherheitsarchitekt/in
+  responsibilities:
+  - Die Sicherheitsarchitektur für mehrere risikoreiche Projekte oder einen wichtigen Bereich wie klinische Systeme oder Cloud-Hosting leiten.
+  - Sicherheitsprinzipien und -standards für Entwürfe im eigenen Bereich festlegen und sie in Design-Gremien absichern.
+  - Leitende Risikoverantwortliche zu Sicherheitsrisiken und zu den Optionen für deren Steuerung beraten.
+  - Sicherheit für Daten entwerfen, die mit Partnerorganisationen und Anbietern geteilt werden.
+  - Sicherheitsarchitektinnen und -architekten führen und entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in Sicherheitsarchitektur für komplexe Dienste.
+- title: Principal-Sicherheitsarchitekt/in
+  responsibilities:
+  - Vision, Prinzipien und Strategie der Organisation für Sicherheitsarchitektur festlegen.
+  - Geschäftsleitung und Vorstand zum Cybersicherheitsrisiko für Patientenversorgung und Dienste beraten.
+  - Sicherstellen, dass Cyberresilienz, einschließlich der Wiederherstellung nach einem größeren Angriff, in kritische klinische Dienste hineingeplant ist.
+  - Die Organisation in organisationsübergreifenden Communities für Cybersicherheit und Standards vertreten.
+  - Die Praxis der Sicherheitsarchitektur leiten und ihre Mitarbeitenden entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Sicherheitsarchitektur über Organisationen hinweg.

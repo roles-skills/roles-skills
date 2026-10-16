@@ -1,0 +1,47 @@
+summary: Testanalystinnen und -analysten der Qualitätssicherung prüfen, dass die digitalen Gesundheitsdienste der Organisation das tun, was Patientinnen, Patienten, klinisches Personal und Pflegepersonal brauchen, sicher und zuverlässig. Sie analysieren Anforderungen und Entwürfe, um Risiken früh zu finden, entwerfen und führen funktionale und nichtfunktionale Tests aus und berichten Fehler klar. In der Gesundheitsversorgung gehören dazu Tests klinischer Arbeitsabläufe, der Datengenauigkeit und der Kontrollen, die Patientinnen und Patienten vor Schaden schützen.
+health_context:
+- Fehler in klinischen Systemen können Patientinnen und Patienten schaden, etwa durch eine falsche Medikamentendosis, einen übersehenen Befund oder eine Akte, die für die falsche Patientin oder den falschen Patienten gezeigt wird; Tests werden daher nach klinischem Risiko priorisiert.
+- Tests liefern Belege für klinische Sicherheitsnachweise und Gefährdungsprotokolle; Testpläne verweisen daher auf erkannte Gefährdungen und ihre Maßnahmen.
+- Testdaten dürfen niemals echte Patientinnen und Patienten offenlegen; Analystinnen und Analysten nutzen daher synthetische oder ordnungsgemäß deidentifizierte Testdaten.
+- Viele Dienste tauschen Daten mit anderen Gesundheits- und Pflegesystemen aus; Tests prüfen daher Nachrichten gegen Standards wie HL7 FHIR und die Bedeutung klinischer Codes.
+- Nutzende sind unter anderem klinisches Personal unter Zeitdruck, Patientinnen und Patienten mit einer großen Bandbreite an Bedürfnissen und Nutzende assistiver Technologie; Gebrauchstauglichkeits- und Barrierefreiheitstests sind daher wichtig.
+levels:
+- title: Associate Testanalyst/in Qualitätssicherung
+  responsibilities:
+  - Testskripte für klinische und administrative Arbeitsabläufe unter Aufsicht ausführen und Ergebnisse genau festhalten.
+  - Klare Fehlerberichte schreiben, einschließlich der beteiligten Schritte, Daten und Bildschirme.
+  - Synthetische Testdaten nutzen und in Testumgebungen niemals echte Patientendaten verwenden.
+  - Die Testansätze und Werkzeuge des Teams und den Prozess der klinischen Sicherheit lernen.
+  - An Teamritualen wie Stand-ups, Planung und Retrospektiven teilnehmen.
+  qualifications:
+  - Gute analytische und schriftliche Fähigkeiten und etwas Erfahrung mit Tests oder der Arbeit mit digitalen Systemen oder gleichwertig.
+- title: Testanalyst/in Qualitätssicherung
+  responsibilities:
+  - User Stories, Entwürfe und klinische Arbeitsabläufe analysieren, um anhand des Risikos für Patientinnen, Patienten und Dienste zu entscheiden, was getestet wird.
+  - Funktions-, Barrierefreiheits- und Gebrauchstauglichkeitstests entwerfen und ausführen, einschließlich durchgängiger klinischer Szenarien.
+  - Tests auf Gefährdungen und Sicherheitsmaßnahmen zurückführen und Testbelege für klinische Sicherheitsnachweise liefern.
+  - Den Nutzenden gezeigte Daten mit Quellsystemen und vereinbarten klinischen Codes abgleichen.
+  - Realistische synthetische Testdaten erstellen und pflegen.
+  - Fehler bis zur Lösung verfolgen und Korrekturen erneut testen.
+  qualifications:
+  - Erfahrung im Entwurf und in der Durchführung von Tests für digitale Dienste oder gleichwertig.
+  job_evaluation_notes: Das UK GDaD PCF schlägt für diese Stufe und die Senior-Stufe beide HEO oder SEO vor, was beide auf Entgeltgruppe 6 abbildet. Diese Referenz ordnet diese Stufe in Entgeltgruppe 5 und die Senior-Stufe in Entgeltgruppe 6 ein, sodass die beiden Stufen in verschiedenen Entgeltgruppen liegen.
+- title: Senior-Testanalyst/in Qualitätssicherung
+  responsibilities:
+  - Qualitätssicherung für ein Produkt oder einen Bereich koordinieren und Testansätze, Umgebungen, Daten und Werkzeuge vereinbaren.
+  - Klinische und betriebliche Risiken früh erkennen, indem Anforderungen, Entwürfe und Änderungen mit klinischem Personal und Produktteams geprüft werden.
+  - Abnahmetests durch Nutzende mit klinischem Personal und Pflegepersonal planen und leiten.
+  - Testergebnisse und Restrisiken an Produktverantwortliche und Beauftragte für klinische Sicherheit berichten, damit sie Release-Entscheidungen treffen können.
+  - Andere Testanalystinnen und -analysten anleiten und ihnen helfen, Test- und klinische Sicherheitsstandards zu befolgen.
+  qualifications:
+  - Umfangreiche Erfahrung in der Testanalyse, auch in komplexen oder regulierten Umfeldern, oder gleichwertig.
+- title: Leitende/r Testanalyst/in Qualitätssicherung
+  responsibilities:
+  - Standards und gute Praxis der Testanalyse in der Organisation festlegen, einschließlich risikobasierter Tests klinischer Systeme.
+  - Teststrategien für große Programme definieren, etwa Änderungen an der elektronischen Patientenakte oder neue Dienste für Patientinnen und Patienten.
+  - Sicherstellen, dass Tests die Nachweise liefern, die für klinische Sicherheitsnachweise und, wo relevant, technische Akten von Medizinprodukten gebraucht werden.
+  - Große Risiken, Probleme und Fehler mit leitenden Produkt-, klinischen und Anbieterleitungen verhandeln und eskalieren.
+  - Testanalystinnen und -analysten anleiten und begleiten und die Community der Testanalyse leiten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung der Testanalyse für komplexe Dienste.
+  job_evaluation_notes: Das UK GDaD PCF schlägt für diese Stufe G7 oder G6 vor, was Entgeltgruppe 8b entspricht. Diese Referenz ordnet sie in Entgeltgruppe 8a ein, gleichauf mit der leitenden Testingenieurin oder dem leitenden Testingenieur, weil sie eine Testdisziplin leitet und nicht alle Tests; die Leitung Test liegt in Entgeltgruppe 8c.

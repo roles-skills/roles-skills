@@ -1,0 +1,66 @@
+summary: Finanzbuchhalterinnen und -buchhalter stellen sicher, dass die Abschlüsse der Organisation vollständig und genau sind und den Rechnungslegungsstandards und Berichtsregeln des öffentlichen Sektors folgen. Sie steuern die Bilanz, erstellen den Jahresabschluss und gesetzliche Meldungen, verwalten Liquidität und Treasury, bilanzieren Vermögenswerte und arbeiten mit Prüfenden. In einer Organisation für digitale Gesundheit und Pflege entsteht viel Komplexität aus der Bilanzierung von Software, Datenvermögen, Cloud-Vereinbarungen und mehrjährigen Technologieverträgen.
+health_context:
+- Die Bilanzierung digitaler Ausgaben erfordert Urteilsvermögen, etwa ob Softwareentwicklung, Konfiguration von Cloud-Diensten oder Lizenzen als Anlagevermögen behandelt werden können.
+- Die Organisation muss Geldgebern und Aufsichtsstellen über öffentliche Gelder Rechenschaft ablegen, oft gegenüber strengen Investitions- und Liquiditätsgrenzen.
+- Mehrjährige Lizenz- und Supportverträge schaffen Vorauszahlungen, Verpflichtungen und manchmal Leasingverhältnisse, die korrekt bilanziert werden müssen.
+- Immaterielle Vermögenswerte, etwa von der Organisation gebaute Software, müssen bewertet, abgeschrieben und bei Produktänderungen auf Wertminderung geprüft werden.
+- Die externe Prüfung öffentlicher Stellen ist gründlich und öffentlich; Belege und Arbeitspapiere müssen daher hohen Standards genügen.
+levels:
+- title: Finanzbuchhalter/in in Ausbildung
+  summary: Finanzbuchhalterinnen und -buchhalter in Ausbildung bereiten Bilanzabstimmungen, Buchungen und Arbeitspapiere für den Jahresabschluss vor und arbeiten auf eine anerkannte Buchhaltungsqualifikation hin.
+  responsibilities:
+  - Bilanzabstimmungen vorbereiten und Abstimmungsposten klären.
+  - Monats- und Jahresabschlussbuchungen wie Abgrenzungen, Vorauszahlungen und Abschreibungen buchen.
+  - Das Anlagenregister führen, einschließlich Software- und Hardwarevermögen.
+  - Arbeitspapiere und Belege für Jahresabschluss und Prüfung vorbereiten.
+  - Informationen zum Cashflow und Bankabstimmungen vorbereiten.
+  - Auf eine anerkannte Buchhaltungsqualifikation hinarbeiten.
+  qualifications:
+  - Ein Studienabschluss oder eine Buchhaltungsqualifikation auf mittlerem Niveau und auf eine anerkannte Buchhaltungsqualifikation hinarbeitend oder gleichwertige Erfahrung.
+  job_evaluation_notes: Das Wissen wird auf der Stufe bewertet, die die Stelle verlangt, sobald die Ausbildung weit genug fortgeschritten ist, um die Arbeit zu leisten.
+- title: Finanzbuchhalter/in
+  summary: Finanzbuchhalterinnen und -buchhalter sind qualifizierte Buchhaltende, die die Bilanz steuern und Teile des Jahresabschlusses, der gesetzlichen Meldungen und der Steuererklärungen erstellen.
+  responsibilities:
+  - Den Monats- und Jahresabschluss für die Bilanz steuern.
+  - Teile des Jahresabschlusses und die Erläuterungen dazu erstellen.
+  - Investitionsausgaben bilanzieren, einschließlich der Entscheidung, welche digitalen Kosten aktiviert werden können.
+  - Umsatzsteuererklärungen vorbereiten und zur steuerlichen Behandlung von Verträgen beraten.
+  - Fragen der Prüfenden beantworten und Maßnahmen zu ihren Feststellungen vereinbaren.
+  - Buchhalterinnen und Buchhalter in Ausbildung beaufsichtigen und entwickeln.
+  qualifications:
+  - Eine anerkannte Buchhaltungsqualifikation oder gleichwertige Erfahrung.
+- title: Senior-Finanzbuchhalter/in
+  summary: Senior-Finanzbuchhalterinnen und -buchhalter leiten den Jahresabschlussprozess und die Bilanzierung komplexer Bereiche wie immaterielle Vermögenswerte, Leasing und Cloud-Vereinbarungen.
+  responsibilities:
+  - Den Zeitplan des Jahresabschlusses und die externe Prüfung planen und leiten.
+  - Bilanzierungspapiere zu komplexen Beurteilungen schreiben, etwa zur Aktivierung von Softwareentwicklungs- oder Cloud-Konfigurationskosten.
+  - Die Investitionsbilanzierung steuern, einschließlich Nutzungsdauern, Abschreibungen und Wertminderung von Softwarevermögen.
+  - Liquiditätsplanung und den Abruf von Finanzierungsmitteln innerhalb der Liquiditätsgrenzen steuern.
+  - Gesetzliche Meldungen und Meldungen an Geldgeber erstellen, etwa Konsolidierung und Investitionsmeldungen.
+  - Ein kleines Team von Finanzbuchhalterinnen und -buchhaltern führen und entwickeln.
+  qualifications:
+  - Eine anerkannte Buchhaltungsqualifikation mit umfangreicher Erfahrung nach der Qualifikation oder gleichwertig.
+  job_evaluation_notes: Die finanziellen Ressourcen liegen auf Stufe 4, weil die Stelle die Liquiditätsposition und die Investitionsbilanzierung der Organisation steuert.
+- title: Manager/in Finanzbuchhaltung
+  summary: Manager/innen Finanzbuchhaltung leiten Finanzbuchhaltung, Treasury und Steuern der Organisation und stellen sicher, dass Kontrollen und Audit-Maßnahmen bestehen.
+  responsibilities:
+  - Die Funktionen Finanzbuchhaltung, Treasury und Steuern führen.
+  - Die Bilanzierungsrichtlinien der Organisation und ihre Anwendung auf neue Arten von Ausgaben, etwa Cloud- und Datendienste, verantworten.
+  - Bankkonten, Bankvereinbarungen und die Cashflow-Prognose steuern.
+  - Steuerkonformität und Steuerrisiko steuern, auch bei Technologieverträgen und gemeinsamen Diensten.
+  - Die Reaktion auf Feststellungen interner und externer Prüfungen zu Finanzbuchhaltung und Kontrollen leiten.
+  - Finanzbuchhalterinnen, -buchhalter und Treasury-Personal in der Linie führen.
+  qualifications:
+  - Eine anerkannte Buchhaltungsqualifikation mit umfassender Erfahrung nach der Qualifikation.
+  job_evaluation_notes: Die finanziellen Ressourcen liegen auf Stufe 5, weil die Stelle Bankgeschäfte, Liquidität und Vermögen der Organisation über alle Dienste hinweg steuert.
+- title: Leiter/in Finanzbuchhaltung
+  summary: Leiter/innen Finanzbuchhaltung leiten die gesetzliche Berichterstattung, Finanzkontrolle, Treasury und Steuern der Organisation und sind die Hauptansprechpartner der externen Prüfenden.
+  responsibilities:
+  - Die Erstellung des Jahresberichts und Jahresabschlusses leiten und ihn dem Prüfungsausschuss vorstellen.
+  - Direktorinnen, Direktoren und den Prüfungsausschuss zu bedeutenden Bilanzierungsentscheidungen und neuen Standards beraten.
+  - Die Finanzregeln, Finanzverfahren und die Zuständigkeitsordnung verantworten.
+  - Die Beziehung zu externen Prüfenden und Aufsichtsstellen zur Finanzberichterstattung leiten.
+  - Treasury- und Steuerrichtlinien festlegen und Finanzrisiken steuern.
+  - Die Teams für Finanzbuchhaltung, Treasury und Transaktionen führen und entwickeln.
+  qualifications:
+  - Eine anerkannte Buchhaltungsqualifikation mit umfassender Erfahrung nach der Qualifikation, einschließlich der Leitung gesetzlicher Berichterstattung.

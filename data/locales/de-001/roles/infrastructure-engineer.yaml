@@ -1,0 +1,60 @@
+summary: Infrastrukturingenieurinnen und -ingenieure entwerfen, bauen, betreiben und unterstützen die Netzwerke, Server, Speicher, Cloud-Plattformen und das Hosting, von denen die digitalen Dienste der Organisation abhängen. Sie halten diese Infrastruktur verfügbar, sicher und wiederherstellbar und arbeiten mit Anbietern und Architektinnen und Architekten daran, sie sicher zu verändern. In der Gesundheitsversorgung kann ein einzelner Infrastrukturausfall klinische Systeme in Krankenhäusern und Gemeindediensten gleichzeitig stoppen.
+health_context:
+- Klinische Systeme brauchen sehr hohe Verfügbarkeit; Infrastruktur wird daher auf Resilienz ausgelegt, und Änderungen werden um die klinische Aktivität herum geplant.
+- Ingenieurinnen und Ingenieure nehmen an Rufbereitschaftsplänen teil, weil Infrastrukturstörungen nachts oder am Wochenende die Patientenversorgung stoppen können.
+- Netzwerke verbinden Medizinprodukte wie Infusionspumpen, Patientenmonitore und Bildgebungsgeräte, die Netzwerksegmentierung und sorgfältige Änderungen nach IEC 80001-1 brauchen.
+- Das Gesundheitswesen ist ein häufiges Ziel von Ransomware; Backups müssen daher geschützt, getestet und innerhalb vereinbarter Wiederherstellungszeiten wiederherstellbar sein.
+- Infrastruktur mischt oft alte und neue Technologie, darunter klinische Altsysteme, die sich nicht leicht patchen lassen; Ingenieurinnen und Ingenieure richten daher kompensierende Kontrollen ein.
+levels:
+- title: Associate Infrastrukturingenieur/in
+  responsibilities:
+  - Infrastrukturingenieurinnen und -ingenieure bei Routineaufgaben wie Server-Builds, Backup-Prüfungen und Netzwerkänderungen unterstützen.
+  - Infrastruktur überwachen und Warnungen und Störungen an das richtige Team melden.
+  - In aller Arbeit die Verfahren für Änderungen, Sicherheit und Informationsgovernance befolgen.
+  - Konfigurations- und Assetdaten genau erfassen.
+  - Auf eine Ausbildung in der Infrastruktur oder einen gleichwertigen Abschluss hinarbeiten.
+  qualifications:
+  - In einer Ausbildung in Infrastruktur oder Netzwerktechnik oder einem gleichwertigen Programm eingeschrieben oder auf dem Weg dorthin.
+  job_evaluation_notes: Das Wissen wird auf der Stufe bewertet, die die Stelle verlangt, sobald die Ausbildung weit genug fortgeschritten ist, um die Arbeit zu leisten.
+- title: Infrastrukturingenieur/in
+  responsibilities:
+  - Server, Speicher, Netzwerke und Cloud-Dienste, die klinische und betriebliche Systeme hosten, bauen, konfigurieren und pflegen.
+  - Infrastruktur zeitnah patchen und dabei Sicherheitsrisiko gegen die Notwendigkeit abwägen, klinische Systeme verfügbar zu halten.
+  - Backups und Wiederherstellungen ausführen und testen, auch für kritische klinische Systeme.
+  - Segmentierte Netzwerke für Medizinprodukte und andere klinische Geräte gemeinsam mit den Teams des klinischen Engineerings unterstützen.
+  - Infrastrukturstörungen untersuchen und beheben, auch im Rahmen der Rufbereitschaft.
+  - Routineaufgaben mit Skripten und Infrastruktur als Code automatisieren.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder einem verwandten Fach, einschlägige technische Zertifizierungen oder gleichwertige Erfahrung.
+  - Erfahrung im Support produktiver Infrastruktur.
+  job_evaluation_notes: Die geistige Anstrengung spiegelt häufige langanhaltende Konzentration auf unvorhersehbare Störungen wider, einschließlich Rufbereitschaftsarbeit außerhalb der Arbeitszeit.
+- title: Senior-Infrastrukturingenieur/in
+  responsibilities:
+  - Infrastrukturlösungen nach den Entwürfen von Architektinnen und Architekten entwerfen und bauen, mit der Resilienz, die klinische Dienste brauchen.
+  - Große Infrastrukturänderungen wie Rechenzentrumsumzüge, Netzwerkerneuerungen und Cloud-Migrationen um die klinische Aktivität herum planen und leiten.
+  - Notfallwiederherstellung und Wiederherstellung nach Ransomware für kritische klinische Systeme entwerfen und testen.
+  - Die technische Reaktion auf Infrastrukturstörungen leiten und Lösungen für deren Ursachen vorantreiben.
+  - Kompensierende Kontrollen für Altsysteme und Medizinprodukte steuern, die sich nicht patchen lassen.
+  - Infrastrukturingenieurinnen und -ingenieure führen und anleiten.
+  qualifications:
+  - Umfangreiche Erfahrung im Entwurf und Betrieb produktiver Infrastruktur, auf einem Niveau, das einem postgradualen Diplom entspricht.
+  job_evaluation_notes: Die geistige Anstrengung spiegelt häufige langanhaltende Konzentration bei Störungen und komplexen Änderungen wider, auch außerhalb der Arbeitszeit.
+- title: Leitende/r Infrastrukturingenieur/in
+  responsibilities:
+  - Die Infrastruktur für eine wichtige Plattform oder eine Gruppe von Diensten leiten und ihre technische Richtung festlegen.
+  - Infrastrukturanbieter Dritter steuern und an Servicelevels für Verfügbarkeit und Wiederherstellung messen.
+  - Infrastrukturprogramme wie Netzwerkerneuerung oder den Wechsel zu Cloud-Hosting beaufsichtigen.
+  - Sicherstellen, dass Infrastruktur Standards für Sicherheit, Informationsgovernance und Netzwerke für Medizinprodukte erfüllt.
+  - Infrastrukturteams leiten und ihre Kompetenzen entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Infrastruktur-Engineering für komplexe Dienste mit hoher Verfügbarkeit.
+  job_evaluation_notes: Das UK GDaD PCF schlägt für leitende und Principal-Infrastrukturingenieurinnen und -ingenieure beide Entgeltgruppe 8b vor. Diese Referenz ordnet die leitende Stufe in Entgeltgruppe 8a ein, damit die beiden Stufen in verschiedenen Entgeltgruppen liegen, in Übereinstimmung mit leitenden und Principal-Rollen in anderen technischen Familien.
+- title: Principal-Infrastrukturingenieur/in
+  responsibilities:
+  - Die Infrastrukturstrategie und Roadmaps entwickeln, damit Investitionen resilientes, sicheres und nachhaltiges Hosting für klinische Dienste liefern.
+  - Die operativen Beziehungen zu strategischen Infrastruktur- und Netzwerkanbietern verantworten.
+  - Die Führungsebene zu Infrastrukturrisiken beraten, einschließlich Technologie am Lebensende, Single Points of Failure und Cyberresilienz.
+  - Wiederherstellungszeit- und Wiederherstellungspunktziele für klinische Systeme mit Service Ownern festlegen und sicherstellen, dass die Infrastruktur sie erfüllen kann.
+  - Den Beruf Infrastruktur-Engineering in der Organisation leiten und seine Fähigkeiten entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Infrastruktur-Engineering über mehrere Teams oder Organisationen hinweg.

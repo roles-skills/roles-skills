@@ -1,0 +1,298 @@
+# German translations of data/skills/human-resources.yaml. Keys are the English skill ids.
+hr-hr-administration:
+  name: HR-Administration
+  description: Die administrativen Prozesse des Beschäftigungslebenszyklus genau und vertraulich betreiben, von Verträgen und Neueintritten bis zu Änderungen, Fehlzeitenaufzeichnungen und Austritten.
+  levels:
+    awareness: |
+      Sie können:
+      - die Verfahren der Organisation für Neueintritte, Änderungen und Austritte befolgen
+      - Personalakten vertraulich und aktuell halten
+    working: |
+      Sie können:
+      - Verträge, Änderungsschreiben und Beschäftigungsprüfungen genau vorbereiten
+      - Änderungen im HR- und Gehaltsabrechnungssystem fristgerecht bearbeiten
+      - Routinefragen von Führungskräften und Mitarbeitenden zu HR-Prozessen beantworten
+    practitioner: |
+      Sie können:
+      - einen HR-Administrationsdienst führen, die Qualität prüfen und Servicestandards einhalten
+      - Prozesse und Vorlagen verbessern und Routineschritte automatisieren, wo es geht
+      - komplexe oder ungewöhnliche Fälle lösen, etwa Überzahlungen oder Vertragsfehler
+    expert: |
+      Sie können:
+      - das HR-Betriebsmodell und die Servicestandards für die Organisation entwerfen
+      - den Wechsel zu digitalen HR-Prozessen mit Selbstbedienung leiten
+      - Kontrollen setzen, die HR- und Abrechnungsdaten genau und rechtmäßig halten
+hr-employment-policy:
+  name: Arbeitsrecht und Personalrichtlinie
+  description: Arbeitsrecht anwenden und die Personalrichtlinien der Organisation schreiben, auslegen und prüfen, damit Mitarbeitende rechtmäßig, fair und einheitlich behandelt werden.
+  levels:
+    awareness: |
+      Sie können:
+      - die wichtigsten Personalrichtlinien und ihren Fundort erklären
+      - erkennen, wann eine Frage den Rat einer HR-Beraterin oder eines HR-Beraters braucht
+    working: |
+      Sie können:
+      - Personalrichtlinien auf Routinefälle anwenden und Führungskräften erklären
+      - die arbeitsrechtlichen Grundsätze hinter einer Richtlinie erkennen
+      - Richtlinienaufzeichnungen führen und Überprüfungsdaten verfolgen
+    practitioner: |
+      Sie können:
+      - Arbeitsrecht und Richtlinie für komplexe Fälle auslegen und zu Risiken beraten
+      - Personalrichtlinien mit Folgenabschätzungen zur Gleichstellung entwerfen und prüfen
+      - Richtlinienänderungen mit Vertretungen der Beschäftigten konsultieren
+    expert: |
+      Sie können:
+      - den Personalrichtlinienrahmen der Organisation und den Umgang mit rechtlichem Risiko festlegen
+      - Änderungen im Arbeitsrecht vorhersehen und die Reaktion der Organisation planen
+      - den Vorstand zu arbeitsrechtlichem Risiko und Haftung beraten
+hr-employee-relations:
+  name: Fallarbeit in den Arbeitnehmerbeziehungen
+  description: Förmliche und informelle Fälle der Arbeitnehmerbeziehungen wie Verhalten, Leistungsfähigkeit, Beschwerden, Anwesenheit und Würde am Arbeitsplatz fair und im Einklang mit Richtlinie und Arbeitsrecht führen.
+  levels:
+    awareness: |
+      Sie können:
+      - die wichtigsten Phasen der Verfahren zu Verhalten, Leistungsfähigkeit, Beschwerden und Anwesenheit erklären
+      - bei förmlichen Sitzungen genaue Notizen machen und Fallakten vertraulich halten
+    working: |
+      Sie können:
+      - Führungskräfte in einfachen Fällen und zum nächsten Verfahrensschritt beraten
+      - Untersuchungen unterstützen, Fallunterlagen vorbereiten und Anhörungen organisieren
+      - in Einzelfällen konstruktiv mit Vertretungen der Beschäftigten zusammenarbeiten
+    practitioner: |
+      Sie können:
+      - eine Reihe komplexer Fälle führen und Anhörungsgremien zu fairen Ergebnissen beraten
+      - Untersuchungen durchführen oder leiten, auch solche im Zusammenhang mit Vorfällen oder Schutz
+      - frühe Lösung und Mediation nutzen, um Streitigkeiten beizulegen, bevor sie eskalieren
+      - Trends in Fällen erkennen und auf deren Ursachen reagieren
+    expert: |
+      Sie können:
+      - den Ansatz der Organisation zu Arbeitnehmerbeziehungen und partnerschaftlicher Zusammenarbeit leiten
+      - die sensibelsten oder risikoreichsten Fälle bearbeiten, einschließlich arbeitsrechtlicher Ansprüche
+      - Kollektivvereinbarungen verhandeln und kollektive Streitigkeiten lösen
+hr-recruitment-and-selection:
+  name: Rekrutierung und Auswahl
+  description: Menschen fair und effizient gewinnen, beurteilen und einstellen, von der Stellengestaltung und Werbung über Vorauswahl, Beurteilung, Angebot und Prüfungen vor der Einstellung.
+  levels:
+    awareness: |
+      Sie können:
+      - die Phasen des Rekrutierungsprozesses der Organisation erklären
+      - die Regeln fairer und sicherer Rekrutierung befolgen, einschließlich Prüfungen vor der Einstellung
+    working: |
+      Sie können:
+      - Rekrutierungskampagnen über das Bewerbermanagementsystem durchführen
+      - Führungskräfte bei Anzeigen, Vorauswahl und Vorstellungsgesprächen unterstützen
+      - Prüfungen vor der Einstellung abschließen und bedingte Angebote machen
+    practitioner: |
+      Sie können:
+      - Führungskräfte zu Stellengestaltung, Auswahlmethoden und fairer Beurteilung beraten
+      - Beurteilungen für spezialisierte Rollen gestalten, etwa technische Übungen für digitale Rollen
+      - Rekrutierungsdaten analysieren, um Zeit bis zur Einstellung, Qualität und Vielfalt zu verbessern
+      - die Bewerbererfahrung und die Arbeitgebermarke steuern
+    expert: |
+      Sie können:
+      - die Rekrutierungsstrategie und Servicestandards der Organisation festlegen
+      - Auswahl und Nutzung von Rekrutierungstechnologie und Agenturen leiten
+      - sicherstellen, dass Rekrutierung in der gesamten Organisation inklusiv und rechtmäßig ist
+hr-talent-attraction:
+  name: Talentgewinnung und Ansprache
+  description: Menschen mit knappen Kompetenzen, etwa digitale, Daten- und Technologiefachleute, durch Arbeitgebermarke, direkte Ansprache, Netzwerke und Wege für den Berufseinstieg finden und gewinnen.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, welche Kompetenzen schwer zu rekrutieren sind und warum
+      - Stellenanzeigen über die Kanäle und Netzwerke der Organisation teilen
+    working: |
+      Sie können:
+      - Anzeigen schreiben, die spezialisierte Kandidatinnen und Kandidaten ansprechen, und einfache Sprache nutzen
+      - Stellenbörsen, berufliche Netzwerke und Talentpools nach Kandidatinnen und Kandidaten durchsuchen
+      - Veranstaltungen wie Karrieremessen und Tage der offenen Tür unterstützen
+    practitioner: |
+      Sie können:
+      - Talentpipelines und Communities für knappe digitale und Datenrollen aufbauen
+      - das Arbeitgeberversprechen mit den einstellenden Teams gestalten
+      - Marktdaten zu Vergütung und Angebot nutzen, um zu schwer zu besetzenden Rollen zu beraten
+      - Wege für den Berufseinstieg entwickeln, etwa Ausbildungen und Traineeprogramme
+    expert: |
+      Sie können:
+      - die Talentgewinnungsstrategie und Arbeitgebermarke der Organisation festlegen
+      - mit Partnern wie Hochschulen und anderen Arbeitgebern das Talentangebot ausbauen
+      - Entscheidungen zu Zuschlägen, Agenturnutzung und alternativen Gewinnungsmodellen leiten
+hr-workforce-planning:
+  name: Personalplanung
+  description: Die Belegschaft vorhersagen, die die Organisation braucht, mit der vorhandenen vergleichen und planen, wie die Lücke durch Rekrutierung, Entwicklung, Neugestaltung und Bindung geschlossen wird.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, warum Personalplanung für sichere und nachhaltige Dienste wichtig ist
+      - genaue Informationen zu Stellenplan und offenen Stellen liefern
+    working: |
+      Sie können:
+      - Daten für Personalpläne von Führungskräften sammeln und prüfen
+      - einfache Szenarien modellieren, etwa Trends bei Fluktuation und offenen Stellen
+    practitioner: |
+      Sie können:
+      - die Personalplanung für eine Direktion leiten und mit Dienst- und Finanzplänen verknüpfen
+      - Kompetenzlücken erkennen und Wege empfehlen, sie zu schließen
+      - neue Rollen, Karrierepfade und Kompetenzmix planen
+    expert: |
+      Sie können:
+      - die Personalstrategie und den langfristigen Plan der Organisation festlegen
+      - mit Finanz- und Dienstleitungen Personalentscheidungen über Dienste hinweg abwägen
+      - Personalpläne mit Partnern im Gesundheits- und Pflegesystem gestalten
+hr-workforce-information:
+  name: Personalinformationen und HR-Systeme
+  description: HR- und Personalsysteme und -daten verwalten und Personaldaten in Berichte und Erkenntnisse verwandeln, etwa Analysen zu Fluktuation, Fehlzeiten, offenen Stellen, Vielfalt und Entgeltgefälle.
+  levels:
+    awareness: |
+      Sie können:
+      - Personaldaten genau in das HR-System eingeben
+      - erklären, warum Personaldaten genau sein und vertraulich bleiben müssen
+    working: |
+      Sie können:
+      - Standard-Personalberichte ausführen und auf Fehler prüfen
+      - Routineanfragen zur Belegschaft beantworten
+    practitioner: |
+      Sie können:
+      - Personaldaten analysieren, um Trends zu finden, und sie Führungskräften erklären
+      - Dashboards und Berichte für Personalkennzahlen entwerfen
+      - gesetzliche und Gleichstellungsberichte erstellen, etwa Analysen des Entgeltgefälles
+    expert: |
+      Sie können:
+      - die Strategie der Organisation für Personalinformationen und Datenstandards festlegen
+      - Auswahl und Entwicklung von HR-Systemen leiten
+      - Erkenntnisse über die Belegschaft nutzen, um Entscheidungen des Vorstands zu untermauern
+hr-reward-and-job-evaluation:
+  name: Vergütung und Stellenbewertung
+  description: Vergütungs- und Entgeltregeln anwenden und Stellen einheitlich anhand eines Stellenbewertungsschemas bewerten, um sie in die richtige Entgeltgruppe einzuordnen.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, wie Entgeltgruppen, Stufen und Zulagen funktionieren
+      - erklären, dass Stellen durch Stellenbewertung eingeordnet werden und nicht nach der Person, die die Stelle innehat
+    working: |
+      Sie können:
+      - Vergütungsregeln wie Einstiegsgehalt, Besitzstand und Zulagen anwenden
+      - prüfen, dass Stellenbeschreibungen vollständig sind, bevor sie in die Bewertung gehen
+      - als geschultes Mitglied an Gremien der Stellenbewertung teilnehmen
+    practitioner: |
+      Sie können:
+      - Gremien der Stellenbewertung und Konsistenzprüfungen leiten
+      - zur Eingruppierung neuer und geänderter Rollen beraten, auch digitaler und Datenrollen
+      - mit Marktbelegen zu Zuschlägen für Gewinnung und Bindung beraten
+    expert: |
+      Sie können:
+      - die Vergütungsstrategie der Organisation im vereinbarten Vergütungsrahmen festlegen
+      - die Integrität der Stellenbewertung in der Organisation absichern
+      - Überprüfungen gleicher Bezahlung leiten und auf deren Ergebnisse reagieren
+hr-learning-design-and-delivery:
+  name: Gestaltung und Durchführung von Lernen
+  description: Lernbedarf analysieren, dann Lernen in Präsenz, online und im Arbeitsfluss gestalten, durchführen und bewerten.
+  levels:
+    awareness: |
+      Sie können:
+      - den Unterschied zwischen Training, Lernen und Entwicklung erklären
+      - die Durchführung von Kursen unterstützen und Schulungsnachweise führen
+    working: |
+      Sie können:
+      - klar umrissene Schulungseinheiten in Präsenz und online halten
+      - einfaches E-Learning im Lernmanagementsystem bauen
+      - Rückmeldungen von Lernenden sammeln und zusammenfassen
+    practitioner: |
+      Sie können:
+      - Lernbedarf analysieren und Blended-Programme gestalten, um ihn zu decken
+      - Lernergebnisse festlegen und die Wirkung bewerten, nicht nur die Zufriedenheit
+      - Lernen für alle Mitarbeitenden zugänglich und inklusiv machen
+    expert: |
+      Sie können:
+      - die Lernstrategie und Standards der Organisation festlegen
+      - das Lernangebot, seine Technologie und seine Finanzierung leiten
+      - die Kapitalrendite der Lerninvestitionen der Organisation zeigen
+hr-skills-frameworks-and-career-pathways:
+  name: Kompetenzrahmen und Karrierepfade
+  description: Kompetenz- und Rollenrahmen wie diese Referenz, das UK GDaD PCF und ESCO nutzen, um Rollen zu beschreiben, Kompetenzlücken zu bewerten und Karrierepfade aufzubauen.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, was ein Kompetenzrahmen ist und wie er Rollen und Stufen beschreibt
+      - das Rollenprofil und die Kompetenzen für eine Stelle im Rahmen finden
+    working: |
+      Sie können:
+      - Stellenbeschreibungen auf Rollen, Stufen und Kompetenzen des Rahmens abbilden
+      - Mitarbeitende und Führungskräfte bei Selbsteinschätzungen von Kompetenzen unterstützen
+      - Informationen zu Karrierepfaden aktuell halten
+    practitioner: |
+      Sie können:
+      - Kompetenzlückenanalysen für ein Team oder einen Beruf durchführen und die Ergebnisse berichten
+      - Karrierepfade und Entwicklungswege mit den Stufen des Rahmens gestalten
+      - Kompetenzen aus dem Rahmen nutzen, um einheitliche Stellenbeschreibungen und Beurteilungen zu schreiben
+    expert: |
+      Sie können:
+      - festlegen, wie die Organisation Kompetenzrahmen über Berufe hinweg nutzt
+      - Kompetenzdaten nutzen, um Personal-, Lern- und Vergütungsstrategie zu untermauern
+      - mit anderen Organisationen zur Entwicklung gemeinsamer Rahmen beitragen
+hr-organisational-development:
+  name: Organisationsentwicklung
+  description: Die Arbeitsweise der Organisation durch belegbasierte Interventionen zu Kultur, Führung, Engagement, Teamwirksamkeit und Wohlbefinden verbessern.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, wie Kultur, Führung und Engagement Mitarbeitende und Patientenversorgung beeinflussen
+      - helfen, Mitarbeiterbefragungen und Zuhörveranstaltungen durchzuführen
+    working: |
+      Sie können:
+      - Teamsitzungen und Workshops mit Standardwerkzeugen moderieren
+      - Ergebnisse von Mitarbeiterbefragungen für ein Team analysieren und Maßnahmen vorschlagen
+    practitioner: |
+      Sie können:
+      - organisatorische Probleme diagnostizieren und Interventionen entwerfen, um sie anzugehen
+      - Teamentwicklung, Führungsentwicklung und Engagementprogramme leiten
+      - die Wirkung von Interventionen anhand von Belegen bewerten
+    expert: |
+      Sie können:
+      - die Strategie der Organisationsentwicklung und das Kulturprogramm festlegen
+      - Führungskräfte coachen und umfassenden Kulturwandel leiten
+      - Kultur- und Engagementmaße mit Versorgungsqualität und Leistung verknüpfen
+hr-organisational-change:
+  name: Organisatorische Veränderung und Konsultation
+  description: Änderungen an Strukturen, Rollen und Arbeitsmustern planen und steuern, einschließlich förmlicher Konsultation, Umsetzung und Stellenabbau, im Einklang mit Richtlinie und Arbeitsrecht.
+  levels:
+    awareness: |
+      Sie können:
+      - die wichtigsten Phasen eines organisatorischen Veränderungsprozesses erklären
+      - die Administration einer Veränderung unterstützen, etwa Konsultationsschreiben und Sitzungen
+    working: |
+      Sie können:
+      - Führungskräfte bei der Vorbereitung von Konsultationsunterlagen und Mitarbeiterbriefings unterstützen
+      - Rückmeldungen und Maßnahmen während der Konsultation verfolgen
+      - Mitarbeitende durch Umsetzungs- und Auswahlverfahren begleiten
+    practitioner: |
+      Sie können:
+      - organisatorische Veränderung für eine Direktion leiten, von der Wirtschaftlichkeitsbetrachtung bis zur Umsetzung
+      - Mitarbeitende und ihre Vertretungen konsultieren und auf ihre Rückmeldungen reagieren
+      - die rechtlichen und Gleichstellungsrisiken einer Veränderung steuern
+    expert: |
+      Sie können:
+      - organisationsweite Umstrukturierungen und Dienstübertragungen leiten
+      - den Ansatz der Organisation zu Veränderung entwerfen, einschließlich partnerschaftlicher Zusammenarbeit
+      - den Vorstand zu den Auswirkungen großer Veränderungen auf Menschen und zum Risiko beraten
+hr-people-strategy:
+  name: Personalstrategie und HR-Führung
+  description: Die Personalstrategie der Organisation festlegen, die HR-Funktion leiten und den Vorstand zu Kultur, Belegschaft und arbeitsrechtlichem Risiko beraten.
+  levels:
+    awareness: |
+      Sie können:
+      - die Personalstrategie der Organisation und den Beitrag Ihrer Arbeit dazu erklären
+    working: |
+      Sie können:
+      - zu Personalplänen für einen Dienst beitragen, mit klaren Maßnahmen und Maßen
+      - über den Fortschritt gegenüber dem Personalplan berichten
+    practitioner: |
+      Sie können:
+      - Personalpläne für eine Direktion im Einklang mit der Personalstrategie schreiben und leiten
+      - leitende Führungskräfte zu Personalrisiken und Prioritäten beraten
+      - einen Teil der HR-Funktion leiten und deren Standards und Prioritäten setzen
+    expert: |
+      Sie können:
+      - die Personalstrategie der Organisation festlegen und die HR-Funktion leiten
+      - den Vorstand zu Kultur, Belegschaft und arbeitsrechtlichem Risiko beraten
+      - die Organisation in Personalangelegenheiten gegenüber Partnern und Aufsichtsbehörden vertreten

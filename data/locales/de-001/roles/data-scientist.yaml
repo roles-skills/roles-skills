@@ -1,0 +1,66 @@
+summary: Data Scientists nutzen Statistik, maschinelles Lernen und andere fortgeschrittene Methoden, um Muster in Gesundheits- und Pflegedaten zu finden und Modelle zu bauen, die Diensten helfen, Versorgung zu planen, vorherzusagen und zu verbessern. Typische Arbeiten sind Bedarfsprognosen, die Identifikation von Patientinnen und Patienten, die von früher Unterstützung profitieren könnten, und die Bewertung der Wirkung von Dienständerungen. Sie arbeiten eng mit klinischem Personal und Analystinnen und Analysten zusammen und stellen sicher, dass Modelle gültig, fair und sicher genutzt werden.
+health_context:
+- Ein Modell, das Entscheidungen über Patientinnen und Patienten stützt, kann schaden, wenn es falsch oder verzerrt ist; Modelle werden daher an der Population validiert, mit der sie genutzt werden, und auf klinische Sicherheit bewertet.
+- Gesundheitsdaten spiegeln ungleichen Zugang zur Versorgung wider; Modelle können daher gesundheitliche Ungleichheit wiederholen oder verschärfen, wenn Verzerrung nicht für jede Patientengruppe gemessen und behoben wird.
+- Manche Modelle, etwa solche, die Diagnose oder Behandlung beeinflussen, können als Medizinprodukte reguliert sein, und auch die KI-Regulierung kann gelten.
+- Data Science braucht oft verknüpfte, detaillierte Patientendaten; die Arbeit findet daher in sicheren Umgebungen mit pseudonymisierten Daten auf vereinbarter Grundlage der Informationsgovernance statt.
+- Klinisches Personal und Patientinnen und Patienten müssen die Ergebnisse eines Modells verstehen und ihnen vertrauen können; Erklärung und die Vermittlung von Unsicherheit in einfacher Sprache sind daher wichtig.
+levels:
+- title: Data Scientist in Ausbildung
+  responsibilities:
+  - Die statistischen und maschinellen Lernmethoden, Werkzeuge und sicheren Arbeitsweisen des Teams durch strukturierte Schulung lernen.
+  - Pseudonymisierte Gesundheitsdatensätze unter Aufsicht aufbereiten und erkunden.
+  - Einfache statistische Analysen durchführen und deuten und Ergebnisse mit einer erfahreneren Data Scientist oder einem erfahreneren Data Scientist prüfen.
+  - Verfahren der Informationsgovernance, Offenlegungskontrolle und Ethik einhalten.
+  - Auf eine Ausbildung in Data Science oder einen gleichwertigen Abschluss hinarbeiten.
+  qualifications:
+  - In einer Ausbildung in Data Science oder einem gleichwertigen Programm eingeschrieben oder auf dem Weg dorthin.
+  job_evaluation_notes: Das Wissen wird auf der Stufe bewertet, die die Stelle verlangt, sobald die Ausbildung weit genug fortgeschritten ist, um die Arbeit zu leisten.
+- title: Associate Data Scientist
+  responsibilities:
+  - Einfache statistische und maschinelle Lernmodelle, etwa Bedarfsprognosen, mit Anleitung bauen und testen.
+  - Gesundheitsdatensätze für die Modellierung in sicheren Umgebungen aufbereiten und verknüpfen.
+  - Messen, wie gut Modelle für verschiedene Patientengruppen abschneiden, und Unterschiede berichten.
+  - Ergebnisse und ihre Unsicherheit Analystinnen, Analysten und Dienstteams präsentieren.
+  - Datenquellen, Methoden und Annahmen dokumentieren, damit die Arbeit reproduziert werden kann.
+  qualifications:
+  - Ein Studienabschluss in einem zahlenorientierten Fach, eine Ausbildung in Data Science oder gleichwertige Erfahrung.
+- title: Data Scientist
+  responsibilities:
+  - Komplexe Modelle, etwa zur Risikostratifizierung oder Vorhersage der Verweildauer, selbstständig entwickeln und geeignete Methoden wählen.
+  - Modelle mit klinischem Personal validieren und prüfen, dass sie auf lokalen Patientendaten genau, fair und nützlich sind.
+  - Vorgesehene Verwendung, Daten, Leistung und Grenzen jedes Modells dokumentieren und Belege zu klinischen Sicherheitsnachweisen beitragen.
+  - Die Wirkung von Dienständerungen mit geeigneten statistischen Methoden bewerten.
+  - Modelle und ihre Unsicherheit klinischen und nichttechnischen Zielgruppen erklären.
+  - Associate Data Scientists und Data Scientists in Ausbildung unterstützen.
+  qualifications:
+  - Ein Studienabschluss in einem zahlenorientierten Fach oder gleichwertige Erfahrung.
+  - Erfahrung im Bau und in der Validierung statistischer oder maschineller Lernmodelle.
+- title: Principal Data Scientist
+  responsibilities:
+  - Data-Science-Projekte, die Leistungsplanung und Patientenversorgung unterstützen, umreißen, entwerfen und leiten.
+  - Entscheiden, welche Methoden, Werkzeuge und Daten geeignet sind, und Pläne hinterfragen, die nicht machbar oder sicher sind.
+  - Die Validierung, Bewertung von Verzerrung und Überwachung von Modellen mit Kolleginnen und Kollegen aus klinischer Sicherheit und Informationsgovernance planen.
+  - Mit Produktteams vereinbaren, wie Modelle im großen Maßstab bereitgestellt und unterstützt werden.
+  - Ein kleines Team von Data Scientists führen und entwickeln.
+  qualifications:
+  - Umfangreiche Erfahrung in der Umsetzung von Data Science, auf einem Niveau, das einem Masterabschluss oder einer Promotion in einem quantitativen Fach entspricht.
+- title: Leitende/r Data Scientist
+  responsibilities:
+  - Data-Science-Teams leiten und ihre Richtung, Prioritäten und Standards festlegen.
+  - Chancen finden, wo Data Science die Versorgung verbessern kann, und sie bei klinischen und Dienstleitungen begründen.
+  - Sicherstellen, dass Modelle so gestaltet, validiert und überwacht werden, dass sie im Einsatz sicher und fair bleiben.
+  - Komplexe ethische und Datenfragen lösen, etwa zu Einwilligung, Verzerrung und Nutzung sensibler Daten.
+  - Data-Science-Fähigkeiten durch Anleitung, Personalgewinnung und Schulung aufbauen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Data-Science-Teams.
+  job_evaluation_notes: Das UK GDaD PCF schlägt sowohl für die leitende Data Scientist als auch für die Leitung Data Science G7 oder G6 vor. Diese Referenz ordnet die leitende Stelle in Entgeltgruppe 8a und die Leitung in Entgeltgruppe 8b ein, sodass beide Stufen in verschiedenen Entgeltgruppen liegen.
+- title: Leiter/in Data Science
+  responsibilities:
+  - Die Richtung für Data Science und KI in der Organisation im Einklang mit ihrer Strategie und ihren Prioritäten festlegen.
+  - Ethik, Sicherheit und Absicherung der Modelle und der KI der Organisation leiten und den Vorstand dazu beraten.
+  - Ressourcen, Budget und die Qualität der Data-Science-Produkte überwachen.
+  - Die Organisation zu Data Science und KI gegenüber Partnern in Gesundheit und Pflege, Forschenden und Aufsichtsbehörden vertreten.
+  - Data-Science-Fähigkeiten und Karrieren über die Berufe hinweg aufbauen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Data Science in einer Organisation.

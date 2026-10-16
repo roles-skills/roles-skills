@@ -1,0 +1,32 @@
+summary: Incident-Managerinnen und -Manager stellen den Normalbetrieb so schnell wie möglich wieder her, wenn etwas schiefgeht, und halten die Auswirkungen auf Nutzende so gering wie möglich. Sie koordinieren technische Teams und Anbieter, halten Nutzende und Leitungen informiert und stellen sicher, dass Störungen erfasst und an das Problem Management übergeben werden. In der Gesundheitsversorgung können Störungen die Patientenversorgung unmittelbar beeinträchtigen; Incident-Managerinnen und -Manager arbeiten daher eng mit klinischen und betrieblichen Leitungen zusammen.
+health_context:
+- Der Ausfall eines klinischen Systems kann die Behandlung verzögern; Störungen werden daher nach klinischer Auswirkung priorisiert, und klinische Leitungen müssen unter Umständen Ausfallverfahren starten.
+- Größere Störungen können jederzeit auftreten; Incident-Managerinnen und -Manager nehmen daher an Rufbereitschaftsplänen teil und können nachts oder am Wochenende gerufen werden.
+- Ein Cyberangriff, etwa mit Ransomware, kann zu einer größeren Störung werden, die die ganze Organisation betrifft und Tage oder Wochen dauert.
+- Größere IT-Störungen müssen unter Umständen mit den Vorkehrungen der Organisation für Notfallbereitschaft und Betriebskontinuität verknüpft werden.
+- Störungen, die Patientinnen und Patienten geschadet haben könnten, werden auch über den klinischen Vorfallsprozess gemeldet und mit der klinischen Sicherheit geprüft.
+levels:
+- title: Incident-Manager/in
+  responsibilities:
+  - Die Reaktion auf Störungen klinischer und betrieblicher Dienste von der ersten Meldung bis zum wiederhergestellten Dienst koordinieren.
+  - Die klinische und betriebliche Auswirkung jeder Störung bewerten und ihre Priorität festlegen.
+  - Betroffene Nutzende, den Service Desk und klinische Leitungen mit klaren, zeitnahen Aktualisierungen informiert halten.
+  - Störungen an die Managerin oder den Manager für größere Störungen eskalieren, wenn sie die vereinbarten Kriterien erfüllen.
+  - Sicherstellen, dass Störungen genau erfasst und an das Problem Management übergeben werden.
+  - An der Rufbereitschaft für Störungen außerhalb der Arbeitszeit teilnehmen.
+  qualifications:
+  - Erfahrung im IT-Support oder -Betrieb, einschließlich der Bearbeitung von Störungen.
+  - Eine Grundlagenqualifikation im IT-Service-Management oder gleichwertige Erfahrung.
+  job_evaluation_notes: Die geistige Anstrengung spiegelt häufige langanhaltende Konzentration unter Zeitdruck wider, auch in der Rufbereitschaft. Die emotionale Anstrengung spiegelt die häufige indirekte Konfrontation mit den Folgen von Ausfällen für Patientinnen, Patienten und Mitarbeitende wider.
+- title: Manager/in für größere Störungen
+  responsibilities:
+  - Die Reaktion auf größere Störungen leiten, etwa Ausfälle der elektronischen Patientenakte, Netzwerkausfälle und Cyberangriffe.
+  - Störungsrunden leiten, die technische Teams, Anbieter, klinische Leitungen und Kommunikationspersonal zusammenbringen.
+  - Klinische und betriebliche Leitungen dazu beraten, wann Ausfall- und Kontinuitätsverfahren zu starten und zu beenden sind.
+  - Leitende Führungskräfte informieren und, wo nötig, mit den Notfallvorkehrungen der Organisation verknüpfen.
+  - Nachbesprechungen nach Störungen leiten und sicherstellen, dass Lehren gezogen und umgesetzt werden.
+  - Pläne für größere Störungen mit den Leitungen von Betriebskontinuität und Notfallplanung entwickeln und testen.
+  qualifications:
+  - Umfangreiche Erfahrung im Management von Störungen in komplexen Diensten mit hoher Verfügbarkeit.
+  - Eine fortgeschrittene Qualifikation im IT-Service-Management oder gleichwertige Erfahrung.
+  job_evaluation_notes: Die geistige Anstrengung spiegelt häufige langanhaltende Konzentration bei größeren Störungen wider, oft außerhalb der Arbeitszeit. Die emotionale Anstrengung spiegelt die häufige indirekte Konfrontation mit den Folgen größerer Ausfälle für die Patientenversorgung wider.

@@ -1,0 +1,60 @@
+summary: Ingenieurinnen und Ingenieure für Anwendungsbetrieb halten die Anwendungen der Organisation im laufenden Betrieb am Laufen, darunter klinische Systeme wie die elektronische Patientenakte und Systeme für Verordnung, Labor und Bildgebung. Sie überwachen Anwendungen, führen zeitgesteuerte Jobs aus, verwalten Nutzende und Zugriffe, spielen Releases und Korrekturen ein und arbeiten mit Anbietern an der Behebung von Störungen. Ihre Arbeit lässt klinisches und betriebliches Personal zu jeder Tages- und Nachtzeit auf diese Systeme vertrauen.
+health_context:
+- Klinische Anwendungen laufen rund um die Uhr; deshalb beteiligen sich die Ingenieurinnen und Ingenieure an Rufbereitschaftsplänen und planen Wartung in die ruhigsten klinischen Zeiten.
+- Fehlgeschlagene zeitgesteuerte Jobs und Schnittstellen können Befunde, Überweisungen oder Entlassbriefe verzögern; deshalb beobachten die Ingenieurinnen und Ingenieure sie genau und eskalieren schnell.
+- Geplante und ungeplante Ausfallzeiten brauchen Vorkehrungen zur Betriebskontinuität, etwa schreibgeschützte Kopien und Ausfallberichte, damit klinisches Personal weiter Patientinnen und Patienten behandeln kann.
+- Viele klinische Anwendungen werden von Dritten geliefert und gehostet; deshalb steuern die Ingenieurinnen und Ingenieure Anbieter und deren Änderungen sorgfältig.
+- Änderungen an klinischen Anwendungen folgen dem Prozess des klinischen Risikomanagements, und manche Anwendungen können als Medizinprodukte reguliert sein.
+levels:
+- title: Assistenz Anwendungsbetrieb (Ingenieur/in)
+  responsibilities:
+  - Anwendungen, Schnittstellen und zeitgesteuerte Jobs überwachen und Ausfälle an erfahrene Ingenieurinnen und Ingenieure melden.
+  - Nutzerkonten und Zugriffe in Anwendungen anlegen und ändern und dabei die Regeln des rollenbasierten Zugriffs befolgen.
+  - Routineprüfungen und Wartungsaufgaben anhand von Betriebshandbüchern durchführen.
+  - Störungen und Änderungen im Service-Management-Werkzeug genau erfassen.
+  - Auf eine Ausbildung in der IT oder einen gleichwertigen Abschluss hinarbeiten.
+  qualifications:
+  - In einer Ausbildung in der IT oder einem gleichwertigen Programm eingeschrieben oder auf dem Weg dorthin.
+  job_evaluation_notes: Das Wissen wird auf der Stufe bewertet, die die Stelle verlangt, sobald die Ausbildung weit genug fortgeschritten ist, um die Arbeit zu leisten.
+- title: Ingenieur/in für Anwendungsbetrieb
+  responsibilities:
+  - Klinische Anwendungen und Anwendungen der Verwaltung sowie deren Schnittstellen überwachen und auf Warnungen und fehlgeschlagene Jobs reagieren, bevor sie die Patientenversorgung beeinträchtigen.
+  - Zeitgesteuerte Jobs, etwa nächtliche Datenladungen und Schnittstellenwarteschlangen, ausführen und prüfen und Ausfälle beheben oder eskalieren.
+  - Anwendungsnutzende, Rollen und Zugriffe verwalten, auch den Entzug von Zugriffen für Ausscheidende und die Unterstützung von Zugriffsüberprüfungen.
+  - Ausfallberichte und andere Ergebnisse zur Betriebskontinuität für klinische Anwendungen erstellen und testen.
+  - Störungen bei Anbietern melden und bis zur Lösung verfolgen.
+  - Mit Anleitung an der Rufbereitschaft für Anwendungsstörungen außerhalb der Arbeitszeit teilnehmen.
+  qualifications:
+  - Eine Qualifikation in der IT, eine abgeschlossene Ausbildung oder gleichwertige Erfahrung.
+  - Erfahrung im Support von betrieblichen oder klinischen Anwendungen.
+- title: Senior-Ingenieur/in für Anwendungsbetrieb
+  responsibilities:
+  - Releases, Patches und Konfigurationsänderungen in laufende Anwendungen einspielen, nach den Verfahren für Änderungen und klinische Sicherheit.
+  - Die technische Arbeit zur Inbetriebnahme neuer Anwendungen und großer Upgrades koordinieren, einschließlich Umstellungs- und Rückfallplänen.
+  - Komplexe Anwendungsstörungen mit Anbietern, Infrastrukturteams und Fachleuten für klinische Systeme untersuchen.
+  - Wartungsfenster mit klinischen Diensten planen und sicherstellen, dass Ausfallverfahren bereit sind.
+  - Nachweise für klinische Sicherheitsnachweise liefern, etwa Test- und Bereitstellungsprotokolle.
+  - In der Rufbereitschaft als Eskalationsstelle für Störungen außerhalb der Arbeitszeit fungieren.
+  qualifications:
+  - Umfangreiche Erfahrung im Support laufender Anwendungen, auf einem Niveau, das einem Studienabschluss entspricht.
+  job_evaluation_notes: Die geistige Anstrengung spiegelt häufige langanhaltende Konzentration bei Inbetriebnahmen, Bereitstellungen und Störungen außerhalb der Arbeitszeit wider.
+- title: Leitende/r Ingenieur/in für Anwendungsbetrieb
+  responsibilities:
+  - Den Betriebsansatz für eine Gruppe von Anwendungen festlegen, einschließlich Überwachung, Resilienz und Supportvereinbarungen.
+  - Standards für Nutzer- und Sicherheitsadministration klinischer Anwendungen festlegen, gemeinsam mit dem Sicherheitsteam.
+  - An die Leitungen des IT-Betriebs über Leistung und Verfügbarkeit der Anwendungen berichten und notwendige Änderungen vereinbaren.
+  - Die technische Reaktion auf größere Störungen klinischer Anwendungen leiten.
+  - Sicherstellen, dass Betriebskontinuität und Notfallwiederherstellung für klinische Anwendungen getestet werden.
+  - Ingenieurinnen und Ingenieure für Anwendungsbetrieb führen und entwickeln.
+  qualifications:
+  - Umfassende Erfahrung im Betrieb laufender Anwendungen, einschließlich klinischer oder anderer kritischer Systeme.
+- title: Principal-Ingenieur/in für Anwendungsbetrieb
+  responsibilities:
+  - Die Strategie für den Anwendungsbetrieb der klinischen und betrieblichen Anwendungen der Organisation verantworten.
+  - Strategische Anbieter klinischer Anwendungen steuern, einschließlich Servicelevel, Vertragserfüllung und Änderungen der Anbieter.
+  - Die Führungsebene zu Anwendungsrisiken beraten, etwa nicht mehr unterstützter Software, Single Points of Failure und Resilienz gegen Ransomware.
+  - Sicherstellen, dass die Organisation Patientinnen und Patienten auch bei längerem Anwendungsausfall sicher weiterversorgen kann.
+  - Personalausstattung, Lernen und Entwicklung der Teams für Anwendungsbetrieb führen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung des Anwendungsbetriebs für eine große Organisation.
+  job_evaluation_notes: Das UK GDaD PCF schlägt für diese Stufe Entgeltgruppe 8c vor (G6). Diese Referenz ordnet sie in Entgeltgruppe 8b ein, in Übereinstimmung mit Principal-Rollen in anderen technischen Familien, weil ihr Umfang ein technisches Gebiet ist und keine Direktion.

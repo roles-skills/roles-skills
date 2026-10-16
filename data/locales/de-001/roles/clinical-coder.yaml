@@ -1,0 +1,65 @@
+summary: Klinische Kodiererinnen und Kodierer lesen die Gesundheitsakten von Patientinnen und Patienten und übersetzen Diagnosen, Prozeduren und andere klinische Informationen in standardisierte Klassifikationscodes, etwa ICD für Diagnosen und eine Prozedurenklassifikation für Eingriffe. Kodierte Daten werden für Abrechnung, Leistungsplanung, klinische Audits, Forschung und Gesundheitsstatistik verwendet; ihre Genauigkeit zählt daher weit über das Kodierteam hinaus. Kodiererinnen und Kodierer arbeiten eng mit klinischem Personal zusammen, um Akten zu klären, und nutzen zunehmend klinische Terminologien wie SNOMED CT und computergestützte Kodierwerkzeuge.
+health_context:
+- Kodiererinnen und Kodierer lesen vollständige Krankenakten, die oft schwere Krankheit, Verletzung, Missbrauch, Selbstverletzung und Tod beschreiben; die Arbeit ist daher emotional fordernd, und Teams brauchen gute Unterstützung und Aufsicht.
+- Kodierte Daten bestimmen die Vergütung von Leistungen, Indikatoren für Sterblichkeit und Ergebnisse sowie die Leistungsplanung; Fehler können daher Finanzierung, veröffentlichte Leistungsdaten und Entscheidungen über die Versorgung beeinflussen.
+- Die Kodierung hängt von der Qualität der klinischen Dokumentation ab; Kodiererinnen und Kodierer fragen daher bei unklaren Akten beim klinischen Personal nach und helfen, die Dokumentation der Versorgung zu verbessern.
+- Kodiererinnen und Kodierer arbeiten täglich mit vollständigen identifizierbaren Gesundheitsakten; Vertraulichkeit und korrekter Zugriff sind daher unverzichtbar.
+- Automatisierte und computergestützte Kodierung sowie die Abbildung von SNOMED CT auf Klassifikationen verändern die Arbeit, und Kodiererinnen und Kodierer prüfen, dass automatisch erzeugte Codes stimmen.
+levels:
+- title: Klinische/r Kodierer/in in Ausbildung
+  summary: Klinische Kodiererinnen und Kodierer in Ausbildung lernen unter enger Aufsicht, unkomplizierte Krankenhausfälle zu kodieren, und arbeiten auf eine Qualifikation in klinischer Kodierung hin.
+  responsibilities:
+  - Unkomplizierte Fälle, etwa Tagesfälle, anhand von Klassifikationsregeln aus Gesundheitsakten kodieren; alle Arbeit wird von einer erfahrenen Kodiererin oder einem erfahrenen Kodierer geprüft.
+  - Medizinische Begriffe, Anatomie und die nationalen und internationalen Kodierstandards durch strukturierte Schulung lernen.
+  - Gesundheitsakten korrekt finden, verfolgen und zurückgeben und sicher aufbewahren.
+  - Kodierte Daten genau und rechtzeitig im Patientenverwaltungs- oder Kodiersystem erfassen.
+  - Unklare oder fehlende Informationen an eine erfahrene Kodiererin oder einen erfahrenen Kodierer melden.
+  qualifications:
+  - Gute Kenntnisse in Lesen, Schreiben und Tastaturschreiben und Einschreibung in ein Schulungsprogramm für klinische Kodierung oder gleichwertig.
+  job_evaluation_notes: Die geistige Anstrengung liegt auf Stufe 4, weil Kodiererinnen und Kodierer sich lange konzentrieren, um detaillierte Krankenakten zu lesen und zu deuten. Die emotionale Anstrengung liegt auf Stufe 2, weil sie häufig Akten lesen, die belastende Ereignisse beschreiben.
+- title: Klinische/r Kodierer/in
+  summary: Klinische Kodiererinnen und Kodierer kodieren eine breite Palette routinemäßiger Fälle selbstständig und genau und halten vereinbarte Fristen und Qualitätsstandards ein.
+  responsibilities:
+  - Stationäre, Tages- und ambulante Fälle über gängige Fachgebiete hinweg anhand von Klassifikationsregeln und lokalen Richtlinien genau kodieren.
+  - Unklare, fehlende oder widersprüchliche klinische Informationen mit klinischem Personal klären und das Ergebnis festhalten.
+  - Von computergestützter Kodierung oder Terminologie-Abbildungen vorgeschlagene Codes prüfen und bei Bedarf korrigieren.
+  - Fristen für die Vollständigkeit der Kodierung einhalten, damit Daten für Abrechnung und Berichterstattung bereit sind.
+  - An Kodierungsaudits teilnehmen und auf deren Ergebnisse reagieren.
+  qualifications:
+  - Eine anerkannte Qualifikation in klinischer Kodierung oder auf dem Weg dorthin mit gleichwertiger Erfahrung.
+  job_evaluation_notes: Geistige und emotionale Anstrengung spiegeln lange Konzentration auf Krankenakten wider, die oft schwere Krankheit, Verletzung und Tod beschreiben.
+- title: Senior-Kodierer/in (klinisch)
+  summary: Senior-Kodiererinnen und -Kodierer kodieren komplexe Fälle über Fachgebiete hinweg, sind Quelle fachlicher Beratung für andere Kodiererinnen und Kodierer und prüfen und schulen weniger erfahrene.
+  responsibilities:
+  - Komplexe Fälle, etwa Intensivversorgung, Krebs, mehrere Prozeduren und Todesfälle, über Fachgebiete hinweg kodieren.
+  - Schwierige Kodierfragen mit Oberärztinnen, Oberärzten und anderem leitendem klinischem Personal klären und Kodierregeln klar erklären.
+  - Die Arbeit von Kodiererinnen und Kodierern in Ausbildung prüfen und ihnen Rückmeldung und Anleitung am Arbeitsplatz geben.
+  - Kodierte Daten vor der Übermittlung validieren und Fehler mit dem richtigen Team beheben.
+  - Mit klinischen Teams die Qualität der klinischen Dokumentation verbessern.
+  qualifications:
+  - Eine anerkannte Qualifikation in klinischer Kodierung oder gleichwertige Erfahrung.
+  - Erfahrung mit der Kodierung komplexer Fälle über eine Reihe von Fachgebieten.
+  job_evaluation_notes: Die emotionale Anstrengung bleibt auf Stufe 2, da komplexe Fälle wie Todesfälle und Krebsbehandlung regelmäßig zur Arbeit gehören.
+- title: Prüfer/in und Trainer/in für klinische Kodierung
+  summary: Prüferinnen, Prüfer, Trainerinnen und Trainer für klinische Kodierung prüfen die Genauigkeit kodierter Daten, gestalten und halten Kodierschulungen und beraten die Organisation zu Kodierstandards. In manchen Organisationen leitet diese Stufe auch ein Kodierteam im Tagesgeschäft.
+  responsibilities:
+  - Kodierungsaudits über Fachgebiete hinweg planen und durchführen und die Genauigkeit an nationalen und internationalen Standards messen.
+  - Auditergebnisse an Kodier-, klinische, Finanz- und Informationsteams berichten und Verbesserungsmaßnahmen vereinbaren.
+  - Kodierschulungen gestalten und halten, von Grundlagenkursen für neue Kodiererinnen und Kodierer bis zu Auffrischungen bei Standardänderungen.
+  - Klinisches Personal und Führungskräfte dazu beraten, wie die Kodierung Vergütung, Sterblichkeitsindikatoren und Leistungsdaten beeinflusst.
+  - Die Einführung von Änderungen bei Klassifikationsversionen, Kodierstandards und Kodierwerkzeugen leiten.
+  - Ein Kodierteam im Tagesgeschäft leiten, wo die Organisation dies mit Audit und Schulung verbindet.
+  qualifications:
+  - Eine anerkannte Qualifikation in klinischer Kodierung und eine anerkannte Qualifikation für Audit oder Schulung in klinischer Kodierung oder gleichwertige Erfahrung.
+  job_evaluation_notes: Menschen liegt auf Stufe 3, weil die Gestaltung und Durchführung spezialisierter Kodierschulungen Hauptaufgabe ist. Forschung liegt auf Stufe 2, weil Kodierungsaudits regelmäßig zur Stelle gehören.
+- title: Manager/in klinische Kodierung
+  summary: Die Managerin oder der Manager klinische Kodierung leitet den Dienst für klinische Kodierung der Organisation, einschließlich seiner Kodierteams, des Qualitätsprogramms und der Verbindungen zu klinischen, Finanz- und Informationsteams.
+  responsibilities:
+  - Den Dienst für klinische Kodierung und seine Teamleitungen führen und sicherstellen, dass die Kodierung vollständig, genau und rechtzeitig ist.
+  - Kodierrichtlinien und das Qualitätsprogramm der Kodierung im Einklang mit nationalen und internationalen Standards festlegen.
+  - Das Kodierbudget verantworten und das Personal planen, einschließlich Personalgewinnung, Schulung und Akkreditierung.
+  - Die Führungsebene dazu beraten, wie die Kodierung Finanzierung, Indikatoren für Sterblichkeit und Ergebnisse und veröffentlichte Daten beeinflusst.
+  - Die Einführung neuer Kodiertechnologie, etwa computergestützter Kodierung und Terminologie-Abbildung, mit Kolleginnen und Kollegen aus klinischer Sicherheit und Informationsgovernance leiten.
+  - Das Wohlbefinden von Kodiererinnen und Kodierern fördern, die regelmäßig belastende Akten lesen.
+  qualifications:
+  - Eine anerkannte Qualifikation in klinischer Kodierung und umfassende Erfahrung in Kodierung, Audit und der Führung von Kodiererinnen und Kodierern oder gleichwertige Erfahrung.

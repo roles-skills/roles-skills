@@ -1,0 +1,73 @@
+# German (world). Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Quotations from the UK GDaD PCF and ESCO stay
+# in English. Job titles use the inclusive "/in" form, which covers everyone.
+# Slugs are made from the German titles.
+code: de-001
+name: Deutsch
+english_name: German
+dir: ltr
+complete: true
+paths:
+  roles: rollen
+  families: berufsfamilien
+  bands: entgeltgruppen
+  skills: kompetenzen
+  job-evaluation: stellenbewertung
+  about: ueber-diese-referenz
+strings:
+  disclaimer: "Dies ist ein illustratives Referenzprofil für eine generische Organisation im Bereich digitale Gesundheit und Pflege. Es ist keine offizielle Stellenbeschreibung eines Arbeitgebers, und die Punkte der Stellenbewertung sind keine förmliche Bewertung."
+  translation_note: "Dieser Text wurde von einem KI-Assistenten aus dem Englischen übersetzt und noch nicht von Muttersprachlerinnen oder Muttersprachlern geprüft. Zitate aus dem UK GDaD PCF (dem Kompetenzrahmen der britischen Regierung für digitale und datenbezogene Berufe) und aus ESCO bleiben auf Englisch."
+  home_title: Übersicht der Rollen
+  home_lede: "Suchen Sie zuerst die Berufsfamilie, die Ihrer Tätigkeit am nächsten kommt, dann die Rolle und dann die Entgeltgruppe."
+  roles_title: Alle Rollen
+  bands_title: Rollen nach Entgeltgruppe
+  skills_title: Kompetenzen
+  skills_lede: "Jede Kompetenz hat vier Stufen: Bewusstsein (1), Anwendung (2), Erfahren (3) und Expertise (4). Kompetenzen aus dem UK GDaD PCF werden im englischen Original zitiert. Andere Kompetenzen sind eigens für diese Referenz formuliert."
+  pcf_title: Rollen nach Rolle im UK GDaD PCF
+  esco_title: Rollen nach Beruf in ESCO
+  role: Rolle
+  roles: Rollen
+  family: Familie
+  band: Entgeltgruppe
+  bands: Entgeltgruppen
+  title: Titel
+  role_level: Rollenstufe
+  skill: Kompetenz
+  source: Quelle
+  expected_level: Erwartete Stufe
+  level_meaning: Was die Stufe bedeutet
+  factor: Faktor
+  level: Stufe
+  points: Punkte
+  total: Gesamt
+  summary: Zusammenfassung
+  health_context: In einer Organisation für digitale Gesundheit und Pflege
+  pcf_role: Rolle im UK GDaD PCF
+  pcf_role_none: "keine (diese Referenz definiert die Rolle)"
+  pcf_role_description: Rollenbeschreibung im UK GDaD PCF (englisches Original)
+  pcf_level: Stufe im UK GDaD PCF
+  civil_service_grades: Besoldungsgruppen des britischen Civil Service
+  esco_occupations: Berufe in ESCO
+  role_levels: Rollenstufen
+  job_evaluation_points: Punkte der Stellenbewertung
+  responsibilities: Verantwortlichkeiten
+  skills: Kompetenzen
+  qualifications: Typische Qualifikationen und Erfahrung
+  band_outline: Überblick über die Entgeltgruppe
+  knowledge: Wissen
+  autonomy: Eigenständigkeit
+  scope: Umfang
+  leadership: Führung
+  accountability: Verantwortung
+  job_evaluation: Stellenbewertung (illustrativ)
+  source_pcf: UK GDaD PCF
+  source_reference: Diese Referenz
+  used_in: "Verwendet in {n} Rollenstufen."
+  awareness: Bewusstsein
+  working: Anwendung
+  practitioner: Erfahren
+  expert: Expertise
+  sfia_level: Stufe in SFIA
+  esco_occupation: Beruf in ESCO
+  pcf_family: Familie im PCF
+  roles_in_reference: Rollen in dieser Referenz

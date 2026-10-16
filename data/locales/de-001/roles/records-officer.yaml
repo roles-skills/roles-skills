@@ -1,0 +1,55 @@
+summary: Das Personal für Gesundheitsakten stellt sicher, dass Patienten- und Verwaltungsakten korrekt angelegt, gespeichert, verfolgt, abgerufen und entsorgt werden, ob auf Papier oder in digitalen Systemen. Es hält Akten für die Versorgung verfügbar, schützt sie vor Verlust und unbefugtem Zugriff und unterstützt den Wechsel von Papier- zu digitalen Akten.
+health_context:
+- Patientenakten müssen verfügbar sein, wenn klinisches Personal sie braucht; Verzögerungen oder verlorene Akten können daher die Versorgung unmittelbar beeinträchtigen.
+- Akten enthalten hochvertrauliche Informationen; das Personal befolgt daher strenge Regeln zu Vertraulichkeit und Zugriff und liest möglicherweise regelmäßig belastende Inhalte.
+- Die meisten Organisationen halten sowohl Papierakten als auch digitale Akten; die Rolle umfasst daher Scannen, Indexieren und die Verwaltung hybrider Akten.
+- Akten müssen nach Aufbewahrungsplänen für festgelegte Zeiträume aufbewahrt und dann mit Prüfspur sicher archiviert oder vernichtet werden.
+- Aktenteams bearbeiten oft Anträge auf Zugang zu Gesundheitsakten, für die gesetzliche Fristen gelten.
+levels:
+- title: Aktenassistent/in
+  summary: Legt Akten ab, ruft sie ab, verfolgt, scannt und bereitet sie vor, nach festgelegten Verfahren und unter enger Aufsicht.
+  responsibilities:
+  - Papierakten ablegen, abrufen und verfolgen und für Sprechstunden und Anfragen vorbereiten.
+  - Akten in das elektronische Aktensystem scannen und indexieren und die Qualität prüfen.
+  - Aktendetails in Verfolgungssystemen genau eingeben und aktualisieren.
+  - Akten sicher halten und verlorene Akten oder Verstöße sofort melden.
+  - Akten sicher bewegen und lagern, einschließlich Kisten und Wagen mit Krankenakten.
+  qualifications:
+  - Gute Kenntnisse in Lesen, Schreiben, Rechnen und Tastaturschreiben.
+  job_evaluation_notes: Die körperlichen Fertigkeiten werden auf Stufe 3 für schnelles, genaues Scannen und Dateneingabe bewertet. Die körperliche Anstrengung spiegelt häufiges Bewegen von Akten wider.
+- title: Aktensachbearbeiter/in
+  summary: Bearbeitet eine Reihe von Aktenprozessen, einige davon keine Routine, etwa das Auffinden fehlender Akten, die Vorbereitung von Akten für Zugangsanträge und die Anwendung von Aufbewahrungsplänen.
+  responsibilities:
+  - Fehlende Akten finden und Verfolgungsprobleme lösen.
+  - Akten für Zugangsanträge vorbereiten und vor der Prüfung kontrollieren, dass sie vollständig sind.
+  - Aufbewahrungspläne anwenden und Akten für Archivierung oder sichere Vernichtung vorbereiten.
+  - Gescannte Akten auf Qualität prüfen und Indexierungsfehler beheben.
+  - Anfragen von klinischem Personal, Pflegepersonal und Patientinnen und Patienten zu Akten beantworten.
+  - Neuen Aktenassistentinnen und -assistenten zeigen, wie Verfahren befolgt werden.
+  qualifications:
+  - Erfahrung in Akten- oder Verwaltungsarbeit oder eine Qualifikation auf Niveau 3 in Büromanagement oder gleichwertige Erfahrung.
+  job_evaluation_notes: Die emotionale Anstrengung spiegelt die häufige indirekte Konfrontation mit belastenden Inhalten in Gesundheitsakten wider.
+- title: Senior-Aktensachbearbeiter/in
+  summary: Beaufsichtigt ein Aktenteam im Tagesgeschäft und betreibt Aktenprozesse wie Zugangsanträge, Audits und Aufbewahrungsprüfungen.
+  responsibilities:
+  - Aktenpersonal im Tagesgeschäft beaufsichtigen, Arbeit zuteilen und Qualität prüfen.
+  - Anträge auf Zugang zu Gesundheitsakten innerhalb gesetzlicher Fristen unter Anleitung von Kolleginnen und Kollegen aus der Informationsgovernance bearbeiten.
+  - Audits zu Aktenführung und Verfolgung durchführen und die Ergebnisse berichten.
+  - Aktenverfolgung und elektronische Aktensysteme genau und aktuell halten.
+  - Personal in Akten verfahren und Vertraulichkeit schulen.
+  - Verlorene Akten und andere Vorfälle untersuchen und Verbesserungen empfehlen.
+  qualifications:
+  - Umfangreiche Erfahrung mit Gesundheitsaktenarbeit oder eine einschlägige Qualifikation auf Diplomniveau oder gleichwertige Erfahrung.
+- title: Manager/in Gesundheitsakten
+  summary: Leitet den Dienst für Gesundheitsakten, sein Personal, seine Systeme und Verfahren und führt Verbesserungen an, auch den Wechsel von Papier- zu digitalen Akten.
+  responsibilities:
+  - Den Dienst für Gesundheitsakten, sein Personal und seine Leistung steuern.
+  - Aktenverfahren im Einklang mit Richtlinie und Standards des Aktenmanagements schreiben und pflegen.
+  - Aktenverfolgung und elektronische Aktensysteme für mehrere Dienste steuern.
+  - Scan- und Digitalisierungsprojekte und den Wechsel zu digitalen Akten leiten.
+  - Das Aufbewahrungs- und Vernichtungsprogramm und Aktenaudits durchführen.
+  - Klinisches Personal, Führungskräfte und Kolleginnen und Kollegen der Informationsgovernance zum Aktenmanagement beraten.
+  qualifications:
+  - Ein Studienabschluss oder eine berufliche Qualifikation im Akten- oder Informationsmanagement oder gleichwertige Erfahrung.
+  - Erfahrung in der Beaufsichtigung eines Aktenteams.
+  job_evaluation_notes: Die Informationsressourcen werden auf Stufe 5 bewertet, weil der Betrieb von Aktensystemen für mehrere Dienste die Hauptaufgabe ist.

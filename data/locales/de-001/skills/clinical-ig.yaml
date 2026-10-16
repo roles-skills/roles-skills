@@ -1,0 +1,228 @@
+# German translations of data/skills/clinical-ig.yaml. Keys are the English skill ids.
+clin-clinical-systems-optimisation:
+  name: Entwurf und Optimierung klinischer Systeme
+  description: Klinische Systeme wie elektronische Patientenakten, Auftragskommunikation und elektronische Verordnung entwerfen, konfigurieren und verbessern, damit sie zu klinischen Arbeitsabläufen passen und sichere, effiziente Versorgung unterstützen.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, wie klinische Systeme wie elektronische Patientenakten die Versorgung unterstützen
+      - die klinischen Arbeitsabläufe beschreiben, die ein System unterstützt
+    working: |
+      Sie können:
+      - aktuelle und künftige klinische Arbeitsabläufe mit klinischem Personal und Pflegepersonal abbilden
+      - die Systemkonfiguration anhand klinischer Szenarien testen
+      - klare klinische Anforderungen für Produktteams schreiben
+    practitioner: |
+      Sie können:
+      - das klinische Design von Systemkonfiguration, Formularen, Auftragssets und Entscheidungsunterstützung leiten
+      - Daten und Nutzerfeedback nutzen, um Probleme im Arbeitsablauf zu finden und zu beheben
+      - klinischen Bedarf, Sicherheit, Gebrauchstauglichkeit und Systembeschränkungen abwägen
+    expert: |
+      Sie können:
+      - Designprinzipien und Standards für klinische Systeme in der Organisation festlegen
+      - Optimierungsprogramme leiten, die Versorgung und Erfahrung des Personals messbar verbessern
+      - die Führungsebene zu Entscheidungen über klinische Systeme und deren Wirkung auf die Versorgung beraten
+clin-human-factors:
+  name: Human Factors und Gebrauchstauglichkeit in klinischen Systemen
+  description: Methoden der Human Factors und der Gebrauchstauglichkeit auf klinische Systeme anwenden, damit klinisches Personal, Pflegepersonal und Patientinnen und Patienten sie sicher und mit möglichst wenigen Fehlern nutzen können.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, wie schlechtes Design zu Fehlern in der Versorgung führen kann
+      - Gebrauchstauglichkeitsprobleme melden, die die Patientensicherheit beeinträchtigen könnten
+    working: |
+      Sie können:
+      - an Gebrauchstauglichkeitstests und Simulationen klinischer Aufgaben teilnehmen
+      - häufige Entwurfsgefährdungen erkennen, etwa ähnlich aussehende Optionen oder versteckte Warnungen
+    practitioner: |
+      Sie können:
+      - Human-Factors-Bewertungen klinischer Systeme planen und durchführen
+      - Ergebnisse in Entwurfsänderungen und klinische Sicherheitsmaßnahmen überführen
+      - die Warnungsbelastung und das Risiko von Umgehungslösungen bewerten
+    expert: |
+      Sie können:
+      - den Ansatz der Organisation zu Human Factors in digitalen Diensten festlegen
+      - die Human-Factors-Belege für Hochrisikosysteme und -änderungen prüfen
+      - Human-Factors-Kompetenz in klinischen und digitalen Teams aufbauen
+clin-digital-health-evaluation:
+  name: Bewertung digitaler Gesundheit und Nutzen
+  description: Evaluationen digitaler Gesundheitstechnologien planen und durchführen und ihren klinischen, sicherheitsbezogenen und dienstbezogenen Nutzen mit fundierten Methoden und Belegen messen.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, warum digitale Gesundheitstechnologien Belege für Nutzen und Sicherheit brauchen
+      - veröffentlichte Belege zu einer Technologie finden
+    working: |
+      Sie können:
+      - Ausgangs- und Folgedaten für eine Evaluation sammeln
+      - klinische Audits der Systemnutzung durchführen
+      - Evaluationsergebnisse für Kolleginnen und Kollegen zusammenfassen
+    practitioner: |
+      Sie können:
+      - Evaluationen und Nutzenpläne für digitale Gesundheitsprodukte entwerfen
+      - geeignete Maße für klinische Ergebnisse, Sicherheit und Erfahrung wählen
+      - die Stärke von Belegen beurteilen und ihre Grenzen erklären
+    expert: |
+      Sie können:
+      - den Ansatz der Organisation zur Evaluation digitaler Gesundheit festlegen
+      - Forschungs- und Evaluationsprogramme mit akademischen und Versorgungspartnern leiten
+      - Belege nutzen, um den Vorstand zu digitalen Investitionen zu beraten
+clin-professional-practice:
+  name: Registrierte klinische Praxis im Digitalen
+  description: Aktuelles, registriertes klinisches Wissen und Urteilsvermögen in die digitale Arbeit einbringen und dabei die Standards, die Ethik und die Revalidierungspflichten eines klinischen Berufs erfüllen.
+  levels:
+    awareness: |
+      Sie können:
+      - die beruflichen Standards erklären, die für eine registrierte Klinikerin oder einen registrierten Kliniker gelten
+      - erkennen, wann eine Frage ein klinisches Urteil braucht
+    working: |
+      Sie können:
+      - Ihr klinisches Wissen im Rahmen Ihres Tätigkeitsbereichs in die digitale Arbeit einbringen
+      - Ihre Registrierung und fortlaufende berufliche Entwicklung aktuell halten
+      - klinische Einschätzungen zu Arbeitsabläufen, Inhalten und Sicherheit geben
+    practitioner: |
+      Sie können:
+      - fundierte klinische Urteile über die Wirkung digitaler Dienste auf die Versorgung fällen
+      - unsichere Praxis, im digitalen oder klinischen Umfeld, selbstbewusst hinterfragen
+      - anderes klinisches Personal dabei unterstützen, seine beruflichen Standards auf digitale Arbeit anzuwenden
+    expert: |
+      Sie können:
+      - klinische berufliche Standards für die digitale Arbeit der Organisation leiten
+      - als leitende klinische Stimme bei Entscheidungen zu Patientensicherheit und Versorgung wirken
+      - Revalidierung und berufliche Entwicklung von klinischem Personal in digitalen Rollen unterstützen
+ig-information-rights-requests:
+  name: Anträge auf Informationsrechte
+  description: Anträge von Einzelpersonen und der Öffentlichkeit auf Zugang zu Informationen bearbeiten, etwa Anträge auf Zugang zu persönlichen Gesundheitsakten und Anfragen zu Informationen der Organisation, innerhalb gesetzlicher Fristen.
+  levels:
+    awareness: |
+      Sie können:
+      - einen Antrag auf Informationsrechte erkennen und zügig weiterleiten
+      - erklären, dass Anträge gesetzliche Fristen haben
+    working: |
+      Sie können:
+      - Anträge erfassen, bestätigen und verfolgen, um Fristen einzuhalten
+      - Informationen sammeln und schwärzen und Antworten zur Prüfung entwerfen
+      - Identität und Befugnis der anfragenden Person prüfen
+    practitioner: |
+      Sie können:
+      - komplexe oder sensible Anträge bearbeiten, auch solche, die Dritte betreffen
+      - Ausnahmen anwenden und mit klarer Begründung entscheiden, was zurückgehalten wird
+      - interne Überprüfungen und Beschwerden zu Antworten steuern
+    expert: |
+      Sie können:
+      - Richtlinie und Prozess für Informationsrechte in der Organisation festlegen
+      - die Reaktion auf Anfragen und Rechtsbehelfe der Aufsichtsbehörde leiten
+      - leitenden Führungskräften über Leistung und Trends berichten
+ig-records-retention:
+  name: Aufbewahrung und Vernichtung von Akten
+  description: Aufbewahrungspläne auf Papier- und digitale Akten anwenden und sie zur richtigen Zeit mit Prüfspur archivieren oder sicher vernichten.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, warum Akten für festgelegte Zeiträume aufbewahrt und dann vernichtet oder archiviert werden
+      - Verfahren zur Lagerung und zum Transport von Akten befolgen
+    working: |
+      Sie können:
+      - den Aufbewahrungsplan auf Akten anwenden und zur Überprüfung fällige markieren
+      - Akten für Archivierung oder sichere Vernichtung vorbereiten und die Prüfspur führen
+    practitioner: |
+      Sie können:
+      - das Aufbewahrungs- und Vernichtungsprogramm eines Aktendienstes betreiben
+      - Teams zur Aufbewahrung neuer Arten von Akten beraten, auch digitaler
+      - die Einhaltung von Aufbewahrungsplänen prüfen
+    expert: |
+      Sie können:
+      - die Aufbewahrungsrichtlinie und den -plan der Organisation festlegen
+      - die langfristige Bewahrung digitaler Akten planen
+      - komplexe Aufbewahrungsfragen lösen, etwa zu Rechtsvorbehalten und Untersuchungen
+ig-data-protection-impact-assessment:
+  name: Datenschutz-Folgenabschätzung
+  description: Die Datenschutzrisiken neuer oder geänderter Verarbeitung personenbezogener und Gesundheitsdaten bewerten und Maßnahmen vereinbaren, bevor die Verarbeitung beginnt.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, wann eine Datenschutz-Folgenabschätzung nötig ist
+      - einen Screening-Fragebogen für Ihre Arbeit ausfüllen
+    working: |
+      Sie können:
+      - Projektteams helfen, Datenschutz-Folgenabschätzungen abzuschließen
+      - Datenflüsse beschreiben und die Rechtsgrundlage der Verarbeitung bestimmen
+      - Datenschutzrisiken und vorgeschlagene Maßnahmen festhalten
+    practitioner: |
+      Sie können:
+      - Datenschutz-Folgenabschätzungen für komplexe Systeme prüfen und dazu beraten
+      - beurteilen, ob Risiken akzeptabel sind, und Maßnahmen empfehlen
+      - entscheiden, wann hohe Risiken zur Prüfung durch Leitung oder Aufsichtsbehörde eskaliert werden
+    expert: |
+      Sie können:
+      - den Prozess und die Standards der Organisation für Datenschutz-Folgenabschätzungen festlegen
+      - die abschließende Beratung zur Verarbeitung mit dem höchsten Risiko geben, etwa umfangreichem Datenaustausch oder KI
+      - Aufsichtsbehörden konsultieren, wo das Recht es verlangt
+ig-incident-management:
+  name: Störungsmanagement in der Informationsgovernance
+  description: Datenpannen und Beinahe-Pannen erfassen, untersuchen und daraus lernen und entscheiden, wann Aufsichtsbehörden und Betroffene zu informieren sind.
+  levels:
+    awareness: |
+      Sie können:
+      - eine Datenpanne oder Beinahe-Panne erkennen und sofort melden
+    working: |
+      Sie können:
+      - Vorfälle erfassen und Fakten sammeln
+      - Vorfälle anhand der Schweregradkriterien der Organisation bewerten
+      - Maßnahmen bis zum Abschluss verfolgen
+    practitioner: |
+      Sie können:
+      - schwere Vorfälle untersuchen und ihre Ursachen finden
+      - mit leitenden Kolleginnen und Kollegen entscheiden, ob Aufsichtsbehörden und Betroffene zu benachrichtigen sind
+      - Lehren teilen und Verbesserungen verfolgen
+    expert: |
+      Sie können:
+      - den Störungsmanagementprozess für die Informationsgovernance festlegen
+      - die Reaktion auf größere Pannen leiten, auch gegenüber Aufsichtsbehörden und Medien
+      - dem Vorstand über Trends und Risiken von Vorfällen berichten
+ig-confidentiality-and-sharing:
+  name: Vertraulichkeit und Informationsaustausch
+  description: Vertrauliche Patienteninformationen schützen und zugleich sicherstellen, dass sie rechtmäßig weitergegeben werden, wenn Versorgung, Sicherheit oder das Recht es verlangen, auch durch Vereinbarungen zum Informationsaustausch.
+  levels:
+    awareness: |
+      Sie können:
+      - vertrauliche Informationen sicher halten und nur weitergeben, wenn Sie dazu berechtigt sind
+      - um Rat bitten, wenn Sie nicht sicher sind
+    working: |
+      Sie können:
+      - prüfen, dass eine Anfrage zur Weitergabe von Informationen der Richtlinie entspricht
+      - Aufzeichnungen darüber führen, was mit wem und warum weitergegeben wurde
+      - einfache Vereinbarungen zum Informationsaustausch entwerfen
+    practitioner: |
+      Sie können:
+      - zu komplexen Vertraulichkeitsfragen beraten, etwa zur Weitergabe ohne Einwilligung im öffentlichen Interesse
+      - Vereinbarungen zum Informationsaustausch mit Partnerorganisationen prüfen
+      - Regeln zu Einwilligung und Widerspruch von Patientinnen und Patienten auf Datenflüsse anwenden
+    expert: |
+      Sie können:
+      - als leitende Beratung der Organisation zu Vertraulichkeit wirken
+      - die schwierigsten Entscheidungen zur Offenlegung lösen
+      - den Rahmen für den Informationsaustausch mit Partnern festlegen
+ig-compliance-assurance:
+  name: Absicherung und Audit der Informationsgovernance
+  description: Prüfen und nachweisen, dass die Organisation Standards der Informationsgovernance erfüllt, durch jährliche Selbstbewertungen, Audits, Belege und Verbesserungspläne.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, warum die Organisation zeigen muss, dass sie Informationen gut behandelt
+      - auf Anforderung Belege für ein Audit liefern
+    working: |
+      Sie können:
+      - Belege für die jährliche Selbstbewertung sammeln und ordnen
+      - einfache Audits durchführen, etwa Audits zu Zugriff oder Aktenführung
+      - Verbesserungsmaßnahmen verfolgen
+    practitioner: |
+      Sie können:
+      - das Absicherungsprogramm der Informationsgovernance planen und durchführen
+      - beurteilen, ob Belege dem Standard genügen, und Lücken erkennen
+      - mit internen und externen Prüfenden zusammenarbeiten
+    expert: |
+      Sie können:
+      - den Absicherungsrahmen der Informationsgovernance der Organisation verantworten
+      - dem Vorstand und seinen Ausschüssen über Absicherung und Compliance berichten
+      - Verbesserungsprioritäten anhand des Risikos setzen

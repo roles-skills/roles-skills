@@ -1,0 +1,273 @@
+# German translations of data/skills/finance.yaml. Keys are the English skill ids.
+fin-financial-transactions:
+  name: Finanzvorgänge und Hauptbücher
+  description: Rechnungen, Zahlungen, Eingänge, Buchungen und Abstimmungen unter Beachtung der Finanzkontrollen genau in den Hauptbüchern verarbeiten und erfassen.
+  levels:
+    awareness: |
+      Sie können:
+      - die Prozesse von der Beschaffung bis zur Zahlung und von der Bestellung bis zum Zahlungseingang und Ihre Rolle darin erklären
+      - Rechnungen, Eingänge und Zahlungen nach festen Verfahren genau erfassen
+      - prüfen, dass ein Vorgang die richtige Genehmigung und Belege hat
+    working: |
+      Sie können:
+      - eine Reihe von Vorgängen bearbeiten, darunter Gutschriften, Erstattungen und Buchungen
+      - Lieferantenauszüge, Bankkonten und Kontrollkonten abstimmen
+      - Routinefragen von Lieferanten, Kundschaft und Budgetverantwortlichen klären
+      - doppelte, ungewöhnliche oder nicht autorisierte Vorgänge erkennen und melden
+    practitioner: |
+      Sie können:
+      - ein Hauptbuch oder einen Transaktionsprozess führen und genau und aktuell halten
+      - komplexe Abstimmungsposten und alte Salden untersuchen und klären
+      - Transaktionsprozesse verbessern, zum Beispiel durch Automatisierung von Abgleich oder Genehmigungen
+      - die Arbeit anderer Mitarbeitender schulen und prüfen
+    expert: |
+      Sie können:
+      - die Transaktionsprozesse der Organisation und die Kontrollen darin entwerfen
+      - Leistungsstandards wie Zahlungszeiten und Ziele der Forderungseinziehung festlegen
+      - den Wechsel zu neuen Verarbeitungsweisen wie Automatisierung und Selbstbedienung leiten
+      - leitenden Führungskräften und Prüfenden versichern, dass Hauptbücher vollständig und genau sind
+fin-financial-reporting:
+  name: Finanzberichterstattung und gesetzlicher Jahresabschluss
+  description: Genaue Abschlüsse und gesetzliche Meldungen erstellen, die den geltenden Rechnungslegungsstandards und Berichtsregeln des öffentlichen Sektors folgen.
+  levels:
+    awareness: |
+      Sie können:
+      - den Zweck der wichtigsten Abschlüsse erklären
+      - Arbeitspapiere und Abstimmungen vorbereiten, die Monats- und Jahresabschluss stützen
+    working: |
+      Sie können:
+      - Buchungen für Monats- und Jahresabschluss vorbereiten, etwa Abgrenzungen, Vorauszahlungen und Rückstellungen
+      - Teile des Jahresabschlusses und die Erläuterungen vorbereiten
+      - Rechnungslegungsstandards auf Routinevorgänge anwenden, etwa die Aktivierung von Software und Hardware
+    practitioner: |
+      Sie können:
+      - den Jahresabschluss und gesetzliche Meldungen nach Zeitplan erstellen
+      - Rechnungslegungsstandards auf komplexe Bereiche anwenden, etwa Leasing, Cloud-Computing-Vereinbarungen und immaterielle Vermögenswerte
+      - Bilanzierungspapiere schreiben, die Beurteilungen und Schätzungen erklären
+      - die externe Prüfung des Abschlusses steuern und auf Feststellungen reagieren
+    expert: |
+      Sie können:
+      - den Jahresbericht und den Jahresabschluss der Organisation und die dahinterstehenden Bilanzierungsrichtlinien verantworten
+      - Vorstand und Prüfungsausschuss zu bedeutenden Beurteilungen und neuen Standards beraten
+      - die Reaktion auf eingeschränkte Prüfungsurteile oder wesentliche Falschdarstellungen leiten
+      - sicherstellen, dass die Berichterstattung die Regeln öffentlicher Rechenschaft erfüllt
+fin-management-accounting:
+  name: Controlling
+  description: Budget- und Kosteninformationen erstellen, die Führungskräften beim Planen, Steuern und Entscheiden helfen, einschließlich Abweichungsanalyse, Kalkulation und Leistungsberichterstattung.
+  levels:
+    awareness: |
+      Sie können:
+      - Budgets, Istwerte, Verpflichtungen und Abweichungen erklären
+      - Standard-Budgetberichte aus dem Finanzsystem erstellen
+    working: |
+      Sie können:
+      - monatliche Budgetberichte vorbereiten und die wichtigsten Abweichungen erklären
+      - Kosten richtig zwischen Kostenstellen, Projekten sowie Investitions- und Betriebsaufwand kodieren
+      - Budgetverantwortliche dabei unterstützen, ihre Budgets zu verstehen und zu steuern
+    practitioner: |
+      Sie können:
+      - den monatlichen Berichtszyklus für eine Direktion oder ein Programm führen
+      - Kostenmodelle bauen, etwa die Vollkosten eines digitalen Dienstes oder die Stückkosten eines Vorgangs
+      - Ausgabentrends analysieren und Führungskräfte zu Maßnahmen beraten, um im Budget zu bleiben
+      - Budgetverantwortliche konstruktiv zu ihren Prognosen fordern
+    expert: |
+      Sie können:
+      - den Ansatz der Organisation für Managementberichterstattung und Kalkulation entwerfen
+      - dem Vorstand und leitenden Führungskräften die finanzielle Leistung präsentieren
+      - die Nutzung von Kosten- und Leistungsinformationen zur Verbesserung des Preis-Leistungs-Verhältnisses leiten
+      - Standards für das Controlling in der Organisation festlegen
+fin-financial-planning-and-forecasting:
+  name: Finanzplanung und Prognose
+  description: Budgets, Prognosen und mittelfristige Finanzpläne aufstellen, die Geld mit den Prioritäten und Programmen der Organisation verknüpfen.
+  levels:
+    awareness: |
+      Sie können:
+      - den jährlichen Budgetaufstellungszyklus und den Unterschied zwischen Budget und Prognose erklären
+      - Prognoseinformationen von Budgetverantwortlichen sammeln
+    working: |
+      Sie können:
+      - Budgets und Prognosen für eine Kostenstelle oder ein Projekt aufstellen, einschließlich Personalkosten
+      - Prognosen jeden Monat mit bekannten Änderungen und Risiken aktualisieren
+      - Budgets so zeitlich verteilen, dass Ausgabenprofile zu Lieferplänen passen
+    practitioner: |
+      Sie können:
+      - Budgetaufstellung und Prognose für eine Direktion oder ein großes Programm leiten
+      - Szenarien und Sensitivitäten modellieren, etwa Inflation, Verzögerungen oder Änderungen der Finanzierung
+      - mehrjährige Prognosen für digitale Programme aufbauen, einschließlich der laufenden Kosten, die auf Investitionen folgen
+      - Prognosen und Risiken leitenden Führungskräften präsentieren
+    expert: |
+      Sie können:
+      - den mittelfristigen Finanzplan der Organisation leiten
+      - Finanzpläne auf Strategie, Belegschaft und Investitionspläne abstimmen
+      - den Vorstand zu finanzieller Nachhaltigkeit und den Entscheidungen beraten, die nötig sind, um im Rahmen der Finanzierung zu bleiben
+      - die in der Organisation genutzten Planungsannahmen und -methoden festlegen
+fin-payroll:
+  name: Lohn- und Gehaltsabrechnung
+  description: Mitarbeitende genau und pünktlich bezahlen, einschließlich Neueintritten, Austritten, Änderungen, Abzügen, Renten, gesetzlichen Zahlungen und Abrechnungsberichterstattung.
+  levels:
+    awareness: |
+      Sie können:
+      - den Abrechnungszyklus erklären, von Änderungen und Stichtag bis zu Zahlung und Berichterstattung
+      - Neueintritte, Austritte und Änderungen aus genehmigten Formularen genau eingeben
+      - Routinefragen zur Bezahlung beantworten und dabei Entgeltinformationen vertraulich halten
+    working: |
+      Sie können:
+      - Entgelt, Zuschläge, Überstunden, Krankheit und Leistungen bei Familienurlaub berechnen
+      - Steuern, Rente und andere Abzüge richtig anwenden
+      - Ergebnisse der Abrechnung prüfen und Fehler vor der Zahlung korrigieren
+      - Überzahlungen sensibel und im Einklang mit der Richtlinie zurückfordern
+    practitioner: |
+      Sie können:
+      - die vollständige Abrechnung für eine Gruppe von Mitarbeitenden durchführen und Abrechnungsprüfungen freigeben
+      - gesetzliche Abrechnungsberichterstattung und Rentenmeldungen steuern
+      - komplexe Fälle lösen, etwa mehrere Verträge, Nachzahlungen oder Gehaltsumwandlung
+      - Änderungen am Abrechnungssystem testen, etwa jährliche Entgelterhöhungen und Regeländerungen
+    expert: |
+      Sie können:
+      - den Abrechnungsdienst der Organisation führen, ob intern oder durch einen Dienstleister betrieben
+      - Abrechnungskontrollen festlegen und leitenden Führungskräften versichern, dass Zahlungen genau und rechtmäßig sind
+      - Änderungen bei Vergütungsregeln, Entgelterhöhungen und Abrechnungssystemen planen
+      - die Reaktion auf größere Abrechnungsausfälle leiten
+fin-treasury-and-cash:
+  name: Treasury und Liquiditätsmanagement
+  description: Bankkonten, Cashflow und Liquidität so steuern, dass die Organisation ihren Verpflichtungen nachkommen kann, im Rahmen der Liquiditätsregeln des öffentlichen Sektors.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, warum neben Budgets auch Liquidität zählt
+      - Bankvorgänge erfassen und abstimmen
+    working: |
+      Sie können:
+      - tägliche Liquiditätsstände und kurzfristige Liquiditätsprognosen vorbereiten
+      - Zahlläufe vorbereiten und prüfen, dass sie ordnungsgemäß genehmigt sind
+      - Bankkonten abstimmen und nicht zugeordnete Posten klären
+    practitioner: |
+      Sie können:
+      - die Cashflow-Prognose der Organisation und den Abruf von Finanzierungsmitteln steuern
+      - Bankkonten, Zahlungswege und Bankkontrollen verwalten
+      - Liquidität für große oder unregelmäßige Zahlungen planen, etwa mehrjährige Softwarelizenzen
+    expert: |
+      Sie können:
+      - die Treasury-Richtlinie und Bankvereinbarungen der Organisation festlegen
+      - den Vorstand zu Liquiditäts- und Zahlungsrisiken beraten
+      - Liquidität innerhalb der von Geldgebern und Regeln des öffentlichen Sektors gesetzten Grenzen steuern
+fin-audit-and-controls:
+  name: Finanzkontrollen und Audit
+  description: Finanzkontrollen entwerfen, betreiben und testen, Betrug verhindern und aufdecken und mit internen und externen Prüfenden zusammenarbeiten.
+  levels:
+    awareness: |
+      Sie können:
+      - die Finanzverfahren und die Zuständigkeitsordnung der Organisation befolgen
+      - Anzeichen möglichen Betrugs oder Irrtums erkennen und melden
+    working: |
+      Sie können:
+      - Schlüsselkontrollen betreiben, etwa Funktionstrennung und Prüfungen der Bankdaten von Lieferanten
+      - Prüfenden Belege liefern und ihre Fragen beantworten
+      - prüfen, dass Ausgaben auf der richtigen Ebene genehmigt sind
+    practitioner: |
+      Sie können:
+      - die Kontrollen für einen Finanzprozess testen und verbessern
+      - Prüfanforderungen für einen Bereich steuern und Maßnahmen zu Feststellungen vereinbaren
+      - Finanzverfahren schreiben und aktualisieren
+      - mit Fachleuten für Betrugsbekämpfung das Betrugsrisiko verringern
+    expert: |
+      Sie können:
+      - die Finanzregeln und die Zuständigkeitsordnung der Organisation verantworten
+      - dem Prüfungsausschuss über Finanzkontrolle und Audit-Maßnahmen berichten
+      - die Reaktion auf bedeutende Kontrollversagen oder Betrug leiten
+      - eine Kultur aufbauen, in der Mitarbeitende ihre Pflicht zum ordnungsgemäßen Umgang mit öffentlichem Geld verstehen
+fin-business-cases:
+  name: Wirtschaftlichkeitsbetrachtungen und Investitionsbewertung
+  description: Die Finanzbegründung für Investitionen aufbauen, einschließlich Optionenbewertung, Gesamtlebenszykluskosten, Behandlung von Investitions- und Betriebsaufwand, Nutzen und Preis-Leistungs-Verhältnis.
+  levels:
+    awareness: |
+      Sie können:
+      - den Zweck einer Wirtschaftlichkeitsbetrachtung und ihres Finanzteils erklären
+      - Kosteninformationen für eine Wirtschaftlichkeitsbetrachtung sammeln
+    working: |
+      Sie können:
+      - das Finanzmodell für eine einfache Wirtschaftlichkeitsbetrachtung bauen
+      - Investitions- und Betriebskosten sowie einmalige und wiederkehrende Kosten trennen
+      - Gesamtlebenszykluskosten einbeziehen, etwa Lizenzen, Support und Hosting nach der Inbetriebnahme
+    practitioner: |
+      Sie können:
+      - die Finanzbegründung für komplexe digitale Investitionen leiten, etwa ein neues klinisches System oder einen Wechsel in die Cloud
+      - Optionen mit Kapitalwert, Sensitivitätsanalyse und Risikoanpassung bewerten
+      - prüfen, dass Nutzen realistisch, messbar und zugeordnet ist
+      - Ausgaben und Nutzen nach der Genehmigung verfolgen
+    expert: |
+      Sie können:
+      - die Standards der Organisation für Wirtschaftlichkeitsbetrachtungen und Investitionsbewertung festlegen
+      - Investitionsgremien zu Finanzierbarkeit, Preis-Leistungs-Verhältnis und Risiko beraten
+      - gegenüber Geldgebern die Begründung für große Investitionsprogramme führen
+      - das Investitionsportfolio prüfen und empfehlen, wo zu beenden, zu ändern oder fortzufahren ist
+fin-tax:
+  name: Steuern
+  description: Umsatzsteuer, Lohnsteuer und andere Steuerregeln richtig auf die Vorgänge der Organisation anwenden und Steuern zurückfordern, wo es erlaubt ist.
+  levels:
+    awareness: |
+      Sie können:
+      - Umsatzsteuer auf Rechnungen erkennen und richtig kodieren
+      - erklären, wann eine Steuerfachperson um Rat zu fragen ist
+    working: |
+      Sie können:
+      - Steuererklärungen und Abstimmungen unter Aufsicht vorbereiten
+      - die richtige steuerliche Behandlung auf gängige Käufe und Einnahmen anwenden
+      - den Beschäftigungsstatus von Vertragskräften unter Anleitung prüfen
+    practitioner: |
+      Sie können:
+      - die Steuererklärungen und Steuerabstimmungen der Organisation führen
+      - zur steuerlichen Behandlung von Verträgen beraten, etwa Softwarelizenzen, Cloud-Diensten und gemeinsamen Diensten
+      - die Steuerrückerstattung im Rahmen der Regeln maximieren
+    expert: |
+      Sie können:
+      - die Steuerstrategie und das Steuerrisiko der Organisation verantworten
+      - Gespräche mit der Steuerbehörde zu komplexen Fragen leiten
+      - die steuerliche Wirkung großer Veränderungen bewerten, etwa neuer Partnerschaften oder Handelstätigkeiten
+fin-financial-systems:
+  name: Finanzsysteme
+  description: Finanz-, Einkaufs-, Abrechnungs- und Berichtssysteme nutzen, verwalten und verbessern, damit Finanzdaten genau und Prozesse effizient sind.
+  levels:
+    awareness: |
+      Sie können:
+      - das Finanzsystem für Ihre eigenen Aufgaben nach Verfahren nutzen
+      - Standardberichte ausführen und Daten in eine Tabelle exportieren
+    working: |
+      Sie können:
+      - Tabellenkalkulationen gut nutzen, einschließlich Formeln, Verweisen und Pivot-Tabellen
+      - Daten des Finanzsystems pflegen, etwa Kostenstellen, Lieferanten und Genehmigende
+      - Systemprobleme melden und beheben helfen
+    practitioner: |
+      Sie können:
+      - das Finanz- oder Abrechnungssystem verwalten, einschließlich Zugriff, Arbeitsabläufen und Berichten
+      - Berichte und Dashboards für Budgetverantwortliche entwerfen
+      - Systemänderungen und Upgrades testen
+      - wiederkehrende Finanzaufgaben automatisieren
+    expert: |
+      Sie können:
+      - die Strategie und Roadmap der Finanzsysteme verantworten
+      - Beschaffung und Einführung von Finanz- oder Abrechnungssystemen leiten
+      - sicherstellen, dass Finanzdaten mit Personal-, Einkaufs- und Leistungsdaten integriert sind
+fin-public-sector-finance:
+  name: Finanzen des öffentlichen Sektors
+  description: Verstehen, wie öffentliche Finanzierung funktioniert, einschließlich Mittelzuweisungen, Grenzen für Investitions- und Betriebsaufwand, Ausgabenkontrollen, Rechenschaft für öffentliches Geld und Preis-Leistungs-Verhältnis.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, dass die Organisation öffentliches Geld ausgibt und darüber Rechenschaft ablegen muss
+      - den Unterschied zwischen Investitions- und Betriebsausgaben erklären
+    working: |
+      Sie können:
+      - die Regeln der Organisation zu Investitions- und Betriebsaufwand auf alltägliche Ausgaben anwenden
+      - erklären, wie Mittelzuweisungen und Ausgabengrenzen Ihren Bereich beeinflussen
+      - Ausgaben erkennen, die die Genehmigung eines Geldgebers oder einer Ausgabenkontrolle brauchen
+    practitioner: |
+      Sie können:
+      - Führungskräfte zu Finanzierungsregeln beraten, auch zu zweckgebundenen und befristeten Mitteln
+      - Grenzen für Investitions- und Betriebsaufwand für ein Programm oder eine Direktion steuern
+      - Meldungen und Belege für Geldgeber und Ausgabenkontrollen vorbereiten
+    expert: |
+      Sie können:
+      - die Organisation gegenüber Geldgebern und Aufsichtsstellen vertreten
+      - den Vorstand zu Ordnungsmäßigkeit, Redlichkeit und Preis-Leistungs-Verhältnis beraten
+      - Finanzierungsvereinbarungen und Finanzregime für die Dienste der Organisation mitgestalten

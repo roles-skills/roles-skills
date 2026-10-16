@@ -1,0 +1,28 @@
+summary: Problem-Managerinnen und -Manager finden und beheben die Grundursachen von Störungen, damit Fehler nicht wieder auftreten. Sie analysieren Störungsdaten, führen Ursachenanalysen durch, erfassen bekannte Fehler und Umgehungslösungen und verfolgen Lösungen mit technischen Teams und Anbietern. In der Gesundheitsversorgung verschwenden wiederkehrende Fehler in klinischen Systemen klinische Zeit, untergraben das Vertrauen und können Risiken für die Patientensicherheit schaffen; sie zu beseitigen ist daher wichtig.
+health_context:
+- Wiederkehrende kleine Fehler, etwa langsame Anmeldungen oder fehlgeschlagene Ausdrucke auf Stationen, summieren sich zu verlorener klinischer Zeit; Problem-Managerinnen und -Manager suchen daher auch nach Mustern, nicht nur nach größeren Ausfällen.
+- Manche Probleme schaffen klinische Sicherheitsgefährdungen, etwa Befunde, die die richtige Ärztin oder den richtigen Arzt nicht erreichen, und werden mit der oder dem Beauftragten für klinische Sicherheit bewertet.
+- Ursachenanalysen betreffen oft Anbieter klinischer Systeme und werden über Verträge und Servicelevels gesteuert.
+- Umgehungslösungen für klinische Systeme müssen sicher und für klinisches Personal klar erklärt sein.
+levels:
+- title: Problemanalyst/in
+  responsibilities:
+  - Störungsdaten analysieren, um wiederkehrende Fehler und Trends in klinischen und betrieblichen Diensten zu finden.
+  - Probleme, bekannte Fehler und Umgehungslösungen im Service-Management-Werkzeug erfassen.
+  - Ursachenanalysen unterstützen, indem Protokolle, Zeitverläufe und andere Belege gesammelt werden.
+  - Maßnahmen mit technischen Teams und Anbietern verfolgen, bis Lösungen vorliegen.
+  - Prüfen, dass Umgehungslösungen für klinische Systeme sicher und Nutzenden klar erklärt sind.
+  qualifications:
+  - Erfahrung im IT-Support oder -Betrieb.
+  - Eine Grundlagenqualifikation im IT-Service-Management oder gleichwertige Erfahrung.
+- title: Problem-Manager/in
+  responsibilities:
+  - Den Problem-Management-Prozess für die Dienste der Organisation betreiben.
+  - Ursachenanalysen nach größeren Störungen und für wiederkehrende Fehler mit strukturierten Techniken leiten.
+  - Probleme nach ihrer Wirkung auf Patientenversorgung, Personalzeit und Dienstrisiko priorisieren.
+  - Probleme, die Gefährdungen der Patientensicherheit schaffen könnten, mit der oder dem Beauftragten für klinische Sicherheit bewerten.
+  - Technische Teams und Anbieter für dauerhafte Lösungen zur Verantwortung ziehen und Dienstleitungen über den Fortschritt berichten.
+  - Mit den Managerinnen und Managern für größere Störungen sicherstellen, dass Lehren aus Störungen zu Veränderung führen.
+  qualifications:
+  - Umfangreiche Erfahrung im Problem- oder Störungsmanagement, auf einem Niveau, das einem Studienabschluss entspricht.
+  - Eine Qualifikation im IT-Service-Management auf mittlerem Niveau oder gleichwertige Erfahrung.

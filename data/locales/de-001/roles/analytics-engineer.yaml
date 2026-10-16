@@ -1,0 +1,54 @@
+summary: Analytics-Ingenieurinnen und -Ingenieure verwandeln rohe Gesundheits- und Pflegedaten in saubere, getestete und dokumentierte Datenmodelle, auf die Analystinnen, Analysten, Data Scientists und Berichtswerkzeuge sich verlassen können. Sie sitzen zwischen Dateningenieurwesen und Analyse und wenden Praktiken des Software Engineerings wie Versionskontrolle, Tests und Code-Review auf die Transformationen hinter den Berichten und Dashboards der Organisation an.
+health_context:
+- Datenmodelle enthalten klinische und betriebliche Definitionen, etwa was als Aufnahme, Wiederaufnahme oder Überschreitung eines Wartezeitstandards zählt; Definitionen werden deshalb mit klinischen und betrieblichen Verantwortlichen abgestimmt.
+- Klinische Codes aus Terminologien und Klassifikationen wie SNOMED CT und ICD werden für Analysen zu Referenzmengen gruppiert, die sorgfältige Versionskontrolle brauchen.
+- Modelle für Leistungs- und Finanzierungsberichte müssen konsistent und nachprüfbar sein, weil Fehler Entscheidungen über Leistungen für Patientinnen und Patienten beeinflussen können.
+- Modelle enthalten oft pseudonymisierte Daten auf Patientenebene; Zugriffsschutz, Dokumentation und Datensparsamkeit sind deshalb eingebaut.
+levels:
+- title: Analytics-Ingenieur/in in Ausbildung
+  responsibilities:
+  - Die Werkzeuge und Praktiken des Teams zur Datenmodellierung durch Schulung und Pairing kennenlernen.
+  - Kleine, klar umrissene Änderungen an Datenmodellen unter Aufsicht vornehmen.
+  - Datenelemente und ihre Definitionen im Datenkatalog dokumentieren.
+  - Einfache Fragen von Datennutzenden beantworten und ihre Anforderungen festhalten.
+  - Bei der Arbeit mit Patientendaten die Regeln der Informationsgovernance einhalten.
+  qualifications:
+  - In einer Datenausbildung oder einem gleichwertigen Programm eingeschrieben oder auf dem Weg dorthin.
+  job_evaluation_notes: Das Wissen wird auf der Stufe bewertet, die die Stelle verlangt, sobald die Ausbildung weit genug fortgeschritten ist, um die Arbeit zu leisten.
+- title: Analytics-Ingenieur/in
+  responsibilities:
+  - Datenmodelle für einen Leistungsbereich, etwa stationäre Aktivität oder Gemeindeversorgung, nach vereinbarten Entwürfen bauen und testen.
+  - Automatisierte Tests schreiben, die Datenmodelle gegen vereinbarte klinische und betriebliche Definitionen prüfen.
+  - Referenzmengen klinischer Codes, die in Analysen verwendet werden, mit klaren Versionen pflegen.
+  - Modelle so dokumentieren, dass Analystinnen und Analysten Bedeutung, Quellen und Grenzen verstehen.
+  - Nutzende der Datensätze des Teams schulen und unterstützen.
+  qualifications:
+  - Ein Studienabschluss in einem zahlenorientierten Fach oder in Informatik oder gleichwertige Erfahrung.
+  - Erfahrung mit dem Bau von Datenmodellen oder Analysecode.
+- title: Senior-Analytics-Ingenieur/in
+  responsibilities:
+  - Entwurf und Test von Datenmodellen über mehrere Leistungsbereiche hinweg beaufsichtigen.
+  - Definitionen wichtiger Kennzahlen mit klinischen, betrieblichen und Finanzverantwortlichen vereinbaren und sicherstellen, dass Modelle sie einheitlich anwenden.
+  - Sicherstellen, dass Modelle, die Leistungs- und Finanzierungsberichte speisen, nachprüfbar und gut getestet sind.
+  - Datenprobleme und Risiken mit Dateningenieurinnen, Dateningenieuren und Dateneigentümern lösen.
+  - Die Arbeit anderer Analytics-Ingenieurinnen und -Ingenieure anleiten und steuern.
+  qualifications:
+  - Umfangreiche Erfahrung mit Datenmodellierung und Analytics Engineering, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Leitende/r Analytics-Ingenieur/in
+  responsibilities:
+  - Ein Team leiten, das die analytischen Datenmodelle der Organisation entwirft, baut und pflegt.
+  - Standards für Datenmodelle, Tests, Dokumentation und Definitionen von Kennzahlen festlegen.
+  - Mit Teams in der gesamten Organisation verstehen, wie klinische und betriebliche Prozesse Daten erzeugen.
+  - Die Arbeit anderer Analytics-Ingenieurinnen und -Ingenieure prüfen und die Arbeitsweise des Teams verbessern.
+  - Analytics-Ingenieurinnen und -Ingenieure in der Linie führen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Analytics Engineering oder Datenmodellierung.
+- title: Leiter/in Analytics Engineering
+  responsibilities:
+  - Die Richtung für die analytischen Datenmodelle der Organisation vorgeben, damit Analysen in der gesamten Organisation einen vertrauenswürdigen Satz von Definitionen nutzen.
+  - Sicherstellen, dass die Prioritäten des Analytics Engineerings die Strategie und die Berichtspflichten der Organisation unterstützen.
+  - Die Führungsebene zur Vertrauenswürdigkeit der Daten hinter wichtigen Berichten und Entscheidungen beraten.
+  - Sicherstellen, dass die Fachcommunity die Werkzeuge und Plattformen hat, die sie braucht, und das zugehörige Budget verwalten.
+  - Fähigkeiten im Analytics Engineering durch fachliche Führung und Karriereentwicklung aufbauen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Analytics Engineering in einer Organisation.

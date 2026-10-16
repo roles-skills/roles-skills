@@ -1,0 +1,237 @@
+# German translations of data/skills/legal.yaml. Keys are the English skill ids.
+legal-legal-research:
+  name: Rechtsrecherche
+  description: Gesetze, Rechtsprechung, Leitlinien und Präzedenzfälle finden, lesen und zusammenfassen, um eine Rechtsfrage zu beantworten.
+  levels:
+    awareness: |
+      Sie können:
+      - Gesetze, Leitlinien und Präzedenzdokumente mit juristischen Datenbanken und dem Know-how der Organisation finden
+      - juristische Begriffe richtig verwenden
+    working: |
+      Sie können:
+      - eine umrissene Rechtsfrage recherchieren und die Quellen klar zusammenfassen
+      - prüfen, dass Quellen aktuell und maßgeblich sind
+      - Präzedenz- und Know-how-Bibliotheken aktuell halten
+    practitioner: |
+      Sie können:
+      - komplexe oder neuartige Fragen recherchieren, etwa wie bestehendes Recht auf neue Technologie anzuwenden ist
+      - widersprüchliche Quellen analysieren und zu einer begründeten Ansicht gelangen
+      - Änderungen in Recht und Leitlinien verfolgen und ihre Wirkung auf die Organisation erklären
+    expert: |
+      Sie können:
+      - die Recherche zu den komplexesten und risikoreichsten Fragen der Organisation leiten
+      - rechtliche Entwicklungen vorwegnehmen und die Organisation darauf vorbereiten
+      - zu Konsultationen über Recht und Leitlinien beitragen, die digitale Gesundheit und Pflege betreffen
+legal-contract-drafting-and-review:
+  name: Vertragsgestaltung und -prüfung
+  description: Verträge und Vereinbarungen entwerfen, prüfen und verhandeln, etwa Technologie-, Softwarelizenz-, Cloud-, Dienstleistungs- und Datenverarbeitungsverträge.
+  levels:
+    awareness: |
+      Sie können:
+      - die wichtigsten Teile eines Vertrags erklären, etwa Parteien, Laufzeit, Zahlung, Haftung und Kündigung
+      - Standarddokumente aus genehmigten Vorlagen vorbereiten
+    working: |
+      Sie können:
+      - Routinevereinbarungen wie Geheimhaltungs- und einfache Dienstleistungsverträge anhand der Standards der Organisation prüfen
+      - Verträge mit Änderungen kennzeichnen und die Änderungen erklären
+      - Klauseln erkennen, die eine juristische Prüfung brauchen, etwa unbegrenzte Haftung oder automatische Verlängerung
+    practitioner: |
+      Sie können:
+      - komplexe Vereinbarungen entwerfen und verhandeln, etwa Softwarelizenzen, Cloud-Hosting, Systemintegration und Datenverarbeitungsverträge
+      - zur Risikoverteilung beraten, einschließlich Haftungsobergrenzen, Servicelevels, Ausstieg und Hinterlegung
+      - sicherstellen, dass Verträge Patientendaten, Dienstkontinuität und die Rechte der Organisation an ihrer Software und ihren Daten schützen
+      - Vertragsvorlagen und Playbooks schreiben und pflegen
+    expert: |
+      Sie können:
+      - die Vertragsstandards und Risikopositionen der Organisation festlegen
+      - Verhandlungen über die wertvollsten oder risikoreichsten Vereinbarungen leiten
+      - leitende Führungskräfte zu strategischen kommerziellen Vereinbarungen wie Partnerschaften und Joint Ventures beraten
+legal-legal-advice:
+  name: Rechtsberatung
+  description: Klare, praktische und genaue Rechtsberatung geben, die Kolleginnen und Kollegen hilft, rechtmäßige Entscheidungen zu treffen und Rechtsrisiko zu steuern.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, wann Kolleginnen und Kollegen Rechtsberatung brauchen und wie sie sie bekommen
+      - klare Weisungen entgegennehmen und die Fakten einer Angelegenheit festhalten
+    working: |
+      Sie können:
+      - Beratungsentwürfe zu Routineangelegenheiten für die Prüfung durch eine Juristin oder einen Juristen vorbereiten
+      - einfache Fragen mit genehmigten Leitlinien beantworten
+      - die rechtlichen Fragen in einem Sachverhalt erkennen
+    practitioner: |
+      Sie können:
+      - in den eigenen Praxisbereichen unabhängige Rechtsberatung geben
+      - Rechtsrisiko in einfacher Sprache erklären und praktische Optionen empfehlen
+      - zu Entscheidungen mit rechtlicher Wirkung beraten, etwa Zuschlägen, Datenaustausch und Änderungen an Diensten
+      - entscheiden, wann externe Juristinnen und Juristen oder Anwaltschaft beauftragt werden
+    expert: |
+      Sie können:
+      - Vorstand und Geschäftsleitung zu den bedeutendsten Rechtsrisiken der Organisation beraten
+      - endgültige Beratung zu neuartigen, strittigen oder hochwertigen Angelegenheiten geben
+      - die Risikobereitschaft der Organisation gegenüber rechtlichem Risiko festlegen
+      - die Qualität der Rechtsberatung in der Organisation absichern, auch externer Beratung
+legal-litigation-and-disputes:
+  name: Rechtsstreit und Streitbeilegung
+  description: Streitigkeiten und Ansprüche verhindern, steuern und lösen, einschließlich Vertragsstreitigkeiten, arbeitsrechtlicher Ansprüche und der Abstimmung bei Ansprüchen aus Behandlungsfehlern.
+  levels:
+    awareness: |
+      Sie können:
+      - die wichtigsten Phasen eines Anspruchs oder einer Streitigkeit erklären
+      - Ansprüche erfassen und Fristen genau verfolgen
+    working: |
+      Sie können:
+      - Dokumente und Belege für einen Fall sammeln und ordnen
+      - Chronologien, Aktenbündel und Entwürfe von Zeugenaussagen vorbereiten
+      - in Routineangelegenheiten mit externen Juristinnen und Juristen, Versicherern oder Haftungssystemen kommunizieren
+    practitioner: |
+      Sie können:
+      - eine Reihe von Streitigkeiten und Ansprüchen von der ersten Anzeige bis zum Vergleich oder zur Anhörung führen
+      - Begründetheit und Wert von Ansprüchen beurteilen und eine Strategie empfehlen
+      - Vergleiche verhandeln und alternative Streitbeilegung nutzen
+      - sicherstellen, dass Lehren aus Ansprüchen in Sicherheit, Verträge und Dienstverbesserungen einfließen
+    expert: |
+      Sie können:
+      - die bedeutendsten oder öffentlichkeitswirksamsten Streitigkeiten der Organisation leiten
+      - den Ansatz der Organisation zu Rechtsstreit, Vergleich und Berichterstattung über Ansprüche festlegen
+      - den Vorstand zu Eventualverbindlichkeiten und Reputationsrisiko beraten
+legal-information-and-data-law:
+  name: Informations- und Datenrecht
+  description: Datenschutz-, Vertraulichkeits-, Informationsfreiheits- und Cybersicherheitsrecht auf Gesundheits- und Pflegedaten und digitale Dienste anwenden.
+  levels:
+    awareness: |
+      Sie können:
+      - die Grundprinzipien von Datenschutz und Vertraulichkeit erklären
+      - Informationsanfragen und Datenpannen erkennen und richtig weiterleiten
+    working: |
+      Sie können:
+      - Datenaustausch- und Datenverarbeitungsverträge anhand von Vorlagen prüfen
+      - Antworten auf Informationsanfragen und Anfragen zu Betroffenenrechten unterstützen
+      - die Rechtsgrundlagen für die Nutzung von Gesundheitsdaten in gängigen Situationen erklären
+    practitioner: |
+      Sie können:
+      - zu Datenschutz, Schweigepflicht und Recht auf Informationszugang für digitale Dienste beraten
+      - Datenaustauschvereinbarungen und Datenverarbeitungsbedingungen entwerfen und verhandeln, auch für internationale Übermittlungen
+      - zu Datenschutz-Folgenabschätzungen für neue Technologie wie KI und Analyseplattformen beraten
+      - zu Datenpannen, Anfragen von Aufsichtsbehörden und Beschwerden beraten
+    expert: |
+      Sie können:
+      - die rechtliche Position der Organisation zur Nutzung von Gesundheits- und Pflegedaten festlegen
+      - hochriskante oder neuartige Datennutzungen wie Forschung, Datenplattformen und KI leiten
+      - die Organisation im Informationsrecht gegenüber Aufsichtsbehörden vertreten
+legal-legal-administration:
+  name: Rechtsverwaltung
+  description: Die Verwaltungsprozesse eines Rechtsteams betreiben, einschließlich Mandatsmanagement, Dokumentenkontrolle, Akten, Fristen und Rechnungsstellung.
+  levels:
+    awareness: |
+      Sie können:
+      - Mandate im Mandatsmanagementsystem anlegen, aktualisieren und schließen
+      - Rechtsdokumente sicher ablegen und wiederfinden
+      - rechtliche und persönliche Informationen vertraulich halten
+    working: |
+      Sie können:
+      - Terminkalender, Fristen und Schlüsseltermine für ein Team verwalten
+      - Rechtsdokumente, Aktenbündel und Unterschriftenmappen vorbereiten und formatieren
+      - Rechnungen externer Juristinnen und Juristen prüfen und bearbeiten
+      - Vertrags- und Urkundenregister führen
+    practitioner: |
+      Sie können:
+      - die Verwaltung des Rechtsteams führen und seine Prozesse verbessern
+      - über Arbeitsbelastung, Ausgaben für externe Juristinnen und Juristen und Bearbeitungszeiten berichten
+      - Rechtstechnologie wie Mandatsmanagement- und E-Signatur-Werkzeuge verwalten
+    expert: |
+      Sie können:
+      - das Legal-Operations-Modell der Organisation entwerfen
+      - Auswahl und Nutzung von Rechtstechnologie leiten
+      - Servicestandards und Leistungsmaße für Rechtsdienste festlegen
+legal-employment-law:
+  name: Arbeitsrecht
+  description: Arbeitsrecht auf die Personalrichtlinien, Verträge, Veränderungsprogramme und arbeitsrechtlichen Streitigkeiten der Organisation anwenden.
+  levels:
+    awareness: |
+      Sie können:
+      - die wichtigsten Arbeitnehmerrechte erklären
+      - arbeitsrechtliche Fragen erkennen, die Rechtsberatung brauchen
+    working: |
+      Sie können:
+      - helfen, Dokumente für arbeitsrechtliche Ansprüche und Anhörungen vorzubereiten
+      - Arbeitsverträge und Richtlinien anhand von Vorlagen prüfen
+    practitioner: |
+      Sie können:
+      - zu arbeitsrechtlichen Angelegenheiten beraten, etwa Kündigung, Diskriminierung, Betriebsübergang und Umstrukturierung
+      - arbeitsrechtliche Ansprüche führen und Aufhebungsvereinbarungen verhandeln
+      - zum Einsatz von Vertragskräften und zum Beschäftigungsstatus digitaler Fachleute beraten
+    expert: |
+      Sie können:
+      - den Vorstand zu großen Veränderungen der Belegschaft und deren rechtlichen Risiken beraten
+      - öffentlichkeitswirksame oder komplexe arbeitsrechtliche Streitigkeiten leiten
+      - Personalrichtlinien so gestalten, dass sie rechtliche Pflichten und gute Praxis erfüllen
+legal-intellectual-property:
+  name: Geistiges Eigentum
+  description: Geistiges Eigentum an Software, Daten, Inhalten und Erfindungen schützen und nutzen, einschließlich Urheberrecht, Lizenzen, Open Source und Marken.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, dass Software, Daten und Inhalte durch Rechte des geistigen Eigentums geschützt sind
+      - erkennen, wann ein Vertrag oder Projekt Eigentumsfragen aufwirft
+    working: |
+      Sie können:
+      - Klauseln zum geistigen Eigentum in Routinevereinbarungen prüfen
+      - Aufzeichnungen über Lizenzen und eingetragene Rechte führen
+      - die wichtigsten Arten von Open-Source-Lizenzen und ihre Bedingungen erklären
+    practitioner: |
+      Sie können:
+      - dazu beraten, wem Software, Daten und Inhalte gehören, die Mitarbeitende, Anbieter und Partner erstellen
+      - Lizenzen und Bedingungen zum geistigen Eigentum entwerfen, auch zur Open-Source-Veröffentlichung des Codes der Organisation
+      - zur kommerziellen Nutzung der Daten und Software der Organisation und zur Teilung von Nutzen beraten
+    expert: |
+      Sie können:
+      - die Richtlinie der Organisation zu geistigem Eigentum und Open Source festlegen
+      - Vermarktung und Partnerschaften leiten, die Daten und Software der Organisation betreffen
+      - bedeutende Streitigkeiten über geistiges Eigentum lösen
+legal-procurement-law:
+  name: Öffentliches Vergaberecht
+  description: Die Regeln des öffentlichen Vergaberechts auf den Einkauf von Waren, Dienstleistungen und Technologie anwenden, von der Wahl des Wegs zum Markt bis zu Zuschlag und Rüge.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, warum öffentliche Stellen Vergaberegeln befolgen müssen
+      - erkennen, wann Einkaufstätigkeit Vergabe- oder Rechtsberatung braucht
+    working: |
+      Sie können:
+      - Ausschreibungsunterlagen auf Konsistenz und Vollständigkeit prüfen
+      - die Aktenführung unterstützen, die nötig ist, um ein faires und transparentes Verfahren zu zeigen
+    practitioner: |
+      Sie können:
+      - zu Wegen zum Markt beraten, einschließlich Rahmenvereinbarungen, Direktvergaben und wettbewerblichen Verfahren
+      - zu Bewertung, Zuschlagsentscheidungen und Änderungen an Verträgen nach dem Zuschlag beraten
+      - auf Rügen und Beschwerden von Anbietern reagieren
+      - zu Subventionskontrolle und Wettbewerbsrisiken in Partnerschaften beraten
+    expert: |
+      Sie können:
+      - den Ansatz der Organisation zum vergaberechtlichen Risiko festlegen
+      - hochwertige oder neuartige Beschaffungen wie Innovationspartnerschaften leiten
+      - bedeutende Vergaberügen verteidigen
+legal-health-and-care-law:
+  name: Gesundheits- und Pflegerecht
+  description: Das Recht anwenden, das Gesundheits- und Pflegedienste regelt, einschließlich Einwilligung, Einwilligungsfähigkeit, Behandlungsfehlern, Regulierung von Diensten und Produkten und den gesetzlichen Pflichten der Organisation.
+  levels:
+    awareness: |
+      Sie können:
+      - die wichtigsten gesetzlichen Pflichten und Befugnisse der Organisation erklären
+      - Angelegenheiten erkennen, die Patientensicherheit, Einwilligung oder Behandlungsfehler betreffen
+    working: |
+      Sie können:
+      - Rechtsarbeit zu Vorfällen, Leichenschauverfahren oder klinischen Ansprüchen unterstützen
+      - den Regulierungsrahmen erklären, der für die Dienste der Organisation gilt
+    practitioner: |
+      Sie können:
+      - zu Befugnissen und Pflichten der Organisation beraten, auch dazu, wann sie einen Dienst erbringen oder beauftragen darf
+      - zur Regulierung digitaler Gesundheitsprodukte beraten, etwa Software als Medizinprodukt
+      - mit Haftungssystemen für Behandlungsfehler und externen Juristinnen und Juristen zu Ansprüchen im Zusammenhang mit digitalen Diensten kommunizieren
+      - zu Einwilligung, Einwilligungsfähigkeit und Patientenrechten in digitalen Diensten beraten
+    expert: |
+      Sie können:
+      - den Vorstand zu den gesetzlichen Pflichten und der Governance der Organisation beraten
+      - Rechtsarbeit zu öffentlichen Untersuchungen, gerichtlichen Überprüfungen und größeren Vorfällen leiten
+      - die Reaktion der Organisation auf neues Gesundheits- und Pflegerecht gestalten

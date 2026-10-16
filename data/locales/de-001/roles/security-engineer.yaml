@@ -1,0 +1,44 @@
+summary: Sicherheitsingenieurinnen und -ingenieure entwerfen, bauen und betreiben die technischen Sicherheitskontrollen, die Systeme, Daten und Nutzende der Organisation schützen. Sie arbeiten an Identität und Zugriff, Endpunkt- und Netzwerkschutz, Verschlüsselung, Protokollierung und Cloud-Sicherheit und helfen Produkt- und Infrastrukturteams, Sicherheit einzubauen. In der Gesundheitsversorgung schützen sie klinische Systeme und Patientendaten und halten den Zugriff für klinisches Personal am Ort der Versorgung schnell.
+health_context:
+- Sicherheitskontrollen dürfen dringender Versorgung nicht im Weg stehen; Ingenieurinnen und Ingenieure entwerfen daher starke Authentifizierung, die auf gemeinsam genutzten klinischen Arbeitsplätzen trotzdem schnell funktioniert.
+- Medizinprodukte und klinische Altsysteme lassen sich oft nicht patchen oder mit Sicherheitssoftware betreiben; Ingenieurinnen und Ingenieure entwerfen daher Netzwerksegmentierung und kompensierende Kontrollen.
+- Ransomware ist eine große Bedrohung für das Gesundheitswesen; Ingenieurinnen und Ingenieure härten daher Systeme, schützen Backups und begrenzen, wie weit sich ein Angriff ausbreiten kann.
+- Klinische Systeme werden oft von Dritten geliefert und unterstützt; Ingenieurinnen und Ingenieure bewerten daher die Sicherheit von Anbietern und steuern deren Fernzugriff.
+- Änderungen an Sicherheitskontrollen in klinischen Systemen durchlaufen das Änderungsmanagement und, wo nötig, eine klinische Sicherheitsprüfung.
+levels:
+- title: Sicherheitsingenieur/in
+  summary: Eine Sicherheitsingenieurin oder ein Sicherheitsingenieur baut, konfiguriert und pflegt Sicherheitskontrollen und -werkzeuge und hilft Teams, Sicherheitsschwächen zu beheben.
+  responsibilities:
+  - Sicherheitskontrollen wie Endpunktschutz, Firewalls, E-Mail-Sicherheit und Sicherheitsprotokollierung bauen und pflegen.
+  - Identitäts- und Zugriffskontrollen konfigurieren, einschließlich Multi-Faktor-Authentifizierung und privilegiertem Zugriff.
+  - Infrastruktur- und Produktteams helfen, Schwachstellen zu beheben und Systeme nach vereinbarten Standards zu härten.
+  - Netzwerke segmentieren, um Medizinprodukte und Altsysteme zu schützen, gemeinsam mit Infrastruktur- und klinischen Engineering-Teams.
+  - Die Sicherheit neuer Systeme und den Fernzugriff von Anbietern vor der Inbetriebnahme prüfen.
+  - An der Rufbereitschaft teilnehmen, um die Reaktion auf Sicherheitsvorfälle zu unterstützen.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder Cybersicherheit, einschlägige Sicherheitszertifizierungen oder gleichwertige Erfahrung.
+  - Erfahrung im Bau oder Betrieb von Infrastruktur oder Sicherheitswerkzeugen.
+  job_evaluation_notes: Die geistige Anstrengung spiegelt häufige langanhaltende Konzentration auf komplexe technische Arbeit und Störungsunterstützung wider, auch in der Rufbereitschaft.
+- title: Senior-Sicherheitsingenieur/in
+  summary: Eine Senior-Sicherheitsingenieurin oder ein Senior-Sicherheitsingenieur entwirft und leitet die Lieferung bedeutender Sicherheitskontrollen und berät Teams zum sicheren Entwurf.
+  responsibilities:
+  - Sicherheitskontrollen wie Privileged Access Management, Sicherheitsüberwachung und Backup-Schutz entwerfen und deren Lieferung leiten.
+  - Produkt- und Infrastrukturteams zum sicheren Entwurf für klinische Dienste und Dienste für Patientinnen und Patienten beraten.
+  - Kompensierende Kontrollen für Medizinprodukte und andere Systeme entwerfen, die sich nicht patchen lassen.
+  - Die Sicherheit von Anbietern und deren Produkten, einschließlich Cloud-Diensten, bewerten.
+  - Die Reaktion auf schwere Sicherheitsvorfälle mit technischer Expertise und Wiederherstellungsplänen unterstützen.
+  - Sicherheitsingenieurinnen und -ingenieure anleiten und gute Praxis über Teams hinweg teilen.
+  qualifications:
+  - Umfangreiche Erfahrung im Sicherheits-Engineering, auf einem Niveau, das einem postgradualen Diplom entspricht.
+  - Einschlägige fortgeschrittene Sicherheitszertifizierungen oder gleichwertige Erfahrung.
+- title: Leitende/r Sicherheitsingenieur/in
+  summary: Eine leitende Sicherheitsingenieurin oder ein leitender Sicherheitsingenieur legt die technische Richtung für das Sicherheits-Engineering fest und stellt sicher, dass Kontrollen in der Organisation zusammenwirken.
+  responsibilities:
+  - Die technische Richtung und Standards für Sicherheitskontrollen in der Organisation festlegen.
+  - Den Sicherheitsentwurf für große Programme leiten, etwa den Wechsel zu Cloud-Hosting oder eine neue elektronische Patientenakte.
+  - Sicherstellen, dass Kontrollen vor Ransomware schützen und eine schnelle, sichere Wiederherstellung klinischer Systeme unterstützen.
+  - Sicherheit gegen klinische Nutzbarkeit abwägen und mit klinischen Leitungen zu Zugriff und Authentifizierung zusammenarbeiten.
+  - Die Managerin oder den Manager Cybersicherheit zu technischem Risiko und Investitionen beraten.
+  - Sicherheitsingenieurinnen und -ingenieure führen und entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung des Sicherheits-Engineerings für komplexe Dienste.

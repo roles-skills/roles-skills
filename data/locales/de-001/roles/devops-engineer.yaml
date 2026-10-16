@@ -1,0 +1,67 @@
+summary: DevOps-Ingenieurinnen und -Ingenieure bauen und betreiben die Werkzeuge, Pipelines, Umgebungen und Plattformen, mit denen die Teams der Organisation digitale Gesundheitsdienste sicher und häufig liefern können. Sie automatisieren Build, Test, Release und Infrastruktur, machen Dienste beobachtbar und resilient und helfen Teams, klinische Systeme verfügbar zu halten, wenn Patientinnen, Patienten und klinisches Personal sie brauchen.
+health_context:
+- Viele Dienste unterstützen die Versorgung rund um die Uhr; Bereitstellung, Überwachung und Wiederherstellung müssen daher Ausfallzeiten minimal halten, auch außerhalb der Arbeitszeit.
+- Release-Pipelines erzeugen Nachweise für klinische Sicherheitsnachweise, etwa Testergebnisse, Änderungsprotokolle und die genau bereitgestellte Version.
+- Umgebungen können vertrauliche Gesundheitsinformationen enthalten; die Ingenieurinnen und Ingenieure steuern daher Zugriffe, schützen Geheimnisse und halten Echtdaten aus Testumgebungen fern.
+- Gesundheitsdienste sind häufige Ziele von Cyberangriffen; Pipelines und Plattformen bauen daher Sicherheitsscans, Patching und getestete Backups ein.
+- Manche Dienste müssen strenge Standards für Verfügbarkeit und Notfallwiederherstellung erfüllen, die mit klinischen und betrieblichen Leitungen vereinbart werden.
+levels:
+- title: DevOps-Ingenieur/in in Ausbildung
+  responsibilities:
+  - Die Pipelines, Cloud-Plattformen und Werkzeuge des Teams durch strukturierte Schulung und Hospitation kennenlernen.
+  - Kleine, klar umrissene Änderungen an Skripten, Pipelines und Konfiguration unter enger Aufsicht vornehmen.
+  - Die Verfahren für Änderungen, Sicherheit und Informationsgovernance in jeder Umgebung befolgen.
+  - Beim Überwachen von Diensten helfen und Warnungen an erfahrene Kolleginnen und Kollegen melden.
+  - Auf eine Ausbildung oder einen gleichwertigen Abschluss hinarbeiten.
+  qualifications:
+  - In einer Ausbildung in DevOps, Software oder Infrastruktur oder einem gleichwertigen Programm eingeschrieben oder auf dem Weg dorthin.
+  job_evaluation_notes: Das Wissen wird auf der Stufe bewertet, die die Stelle verlangt, sobald die Ausbildung weit genug fortgeschritten ist, um die Arbeit zu leisten.
+- title: Junior-DevOps-Ingenieur/in
+  responsibilities:
+  - Teile von Build-, Test- und Bereitstellungspipelines mit Anleitung bauen und pflegen.
+  - Infrastruktur als Code und Automatisierungsskripte schreiben und vor der Nutzung testen.
+  - Testumgebungen frei von echten Patientendaten halten und Geheimnisse sicher verwalten.
+  - Auf Überwachungswarnungen reagieren und die Störungsreaktion mit Anleitung unterstützen.
+  - Bereitstellungen und Änderungen so aufzeichnen, dass sie klinische Sicherheitsnachweise und Audit-Belege stützen können.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder einem verwandten Fach, eine abgeschlossene Ausbildung oder gleichwertige Erfahrung.
+  job_evaluation_notes: Das UK GDaD PCF schlägt für die Stufen Auszubildende/r und Junior Entgeltgruppe 4 vor; diese Referenz ordnet die Junior-Stufe in Entgeltgruppe 5 ein, um zwei Stufen in einer Entgeltgruppe zu vermeiden, weil die Stelle Pipeline-Komponenten mit weniger Aufsicht baut.
+- title: DevOps-Ingenieur/in
+  responsibilities:
+  - Pipelines, Umgebungen und Plattformkomponenten selbstständig entwerfen und bauen.
+  - Sicherheitsprüfungen wie Abhängigkeits- und Container-Scans automatisieren und auf die Ergebnisse reagieren.
+  - Überwachung, Protokollierung und Alarmierung bauen, damit Teams Probleme sehen, bevor sie Patientinnen, Patienten und Mitarbeitende betreffen.
+  - Backups, Failover und Wiederherstellung für Dienste planen und testen, die die Versorgung unterstützen.
+  - Probleme in laufenden Diensten untersuchen und beheben, einschließlich Support außerhalb der Arbeitszeit, wo der Dienst es braucht.
+  - Junior- und Auszubildende DevOps-Ingenieurinnen und -Ingenieure anleiten.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder einem verwandten Fach oder gleichwertige Erfahrung.
+  - Erfahrung im Bau und Betrieb automatisierter Lieferpipelines und Cloud-Infrastruktur.
+- title: Senior-DevOps-Ingenieur/in
+  responsibilities:
+  - Den Entwurf der Delivery-Toolchain und -Plattform für ein Produkt oder eine Gruppe von Diensten leiten.
+  - Standards für Releases setzen, damit Bereitstellungen in klinischen Diensten wiederholbar, umkehrbar und gut belegt sind.
+  - Mit Service Ownern und klinischen Leitungen Ziele für Verfügbarkeit, Wiederherstellungszeit und Wiederherstellungspunkt vereinbaren und darauf hin entwerfen.
+  - Die technische Störungsreaktion und die Nachbesprechungen für die vom Team betriebenen Plattformen leiten.
+  - Sicherstellen, dass Plattformen Anforderungen an Sicherheit und Informationsgovernance erfüllen, einschließlich Zugriffskontrolle und Protokollierung.
+  - DevOps-Ingenieurinnen und -Ingenieure im Team anleiten und entwickeln.
+  qualifications:
+  - Umfangreiche Erfahrung im Entwurf und Betrieb von Delivery-Toolchains und Plattformen, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Leitende/r DevOps-Ingenieur/in
+  responsibilities:
+  - DevOps und Plattform-Engineering für eine Gruppe von Teams leiten und als technische/r Verantwortliche/r der gemeinsamen Plattform fungieren.
+  - Die mittelfristige Roadmap für die Liefer-Werkzeuge, das Hosting und die Beobachtbarkeit der Organisation festlegen.
+  - Sicherstellen, dass gemeinsame Plattformen resilient, sicher und fähig sind, die Verfügbarkeitsbedürfnisse klinischer Dienste zu erfüllen.
+  - Plattformkosten und Kapazität mit Finanzen und Service Ownern steuern.
+  - Die DevOps-Fachcommunity leiten und DevOps-Ingenieurinnen und -Ingenieure in der Linie führen oder anleiten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von DevOps oder Plattform-Engineering für komplexe Dienste.
+- title: Principal-DevOps-Ingenieur/in
+  responsibilities:
+  - Die Strategie festlegen, wie die Organisation ihre digitalen Gesundheitsdienste baut, veröffentlicht, hostet und betreibt.
+  - Die Führungsebene zu Hosting, Resilienz, Cybersicherheit und Plattforminvestitionen beraten.
+  - Sicherstellen, dass Pläne zu Betriebskontinuität und Notfallwiederherstellung für kritische klinische Dienste realistisch und getestet sind.
+  - Neue Technologien und Praktiken bewerten und fördern und dabei Innovation gegen Sicherheit und Stabilität abwägen.
+  - Die DevOps-Fähigkeiten der Organisation ausbauen, einschließlich Personalgewinnung, Karrierewegen und Kompetenzplänen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von DevOps und Plattform-Engineering über mehrere Teams oder Organisationen hinweg.

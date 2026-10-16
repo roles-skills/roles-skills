@@ -1,0 +1,47 @@
+summary: IT-Servicemanagerinnen und -manager stellen sicher, dass die digitalen Dienste der Organisation auf vereinbarten Niveaus geliefert werden und sich stetig verbessern. Sie definieren Servicelevels, steuern den Servicekatalog, berichten über die Leistung und koordinieren die Teams und Anbieter, die jeden Dienst betreiben. In der Gesundheitsversorgung übersetzen sie, was klinische Dienste brauchen, etwa Verfügbarkeit rund um die Uhr, in Serviceziele und Supportvereinbarungen.
+health_context:
+- Servicelevels für klinische Systeme spiegeln klinisches Risiko wider; Ziele für die elektronische Patientenakte oder die Verordnung unterscheiden sich daher von denen für ein betriebliches System.
+- Dienste werden oft von einer Mischung aus internen Teams, Anbietern und mit Partnerorganisationen geteilten Diensten erbracht; Servicemanagerinnen und -manager koordinieren daher über Organisationsgrenzen hinweg.
+- Klinische Betriebskontinuität hängt von der IT ab; Servicemanagerinnen und -manager arbeiten daher mit klinischen und Notfallplanungsleitungen an Ausfall- und Kontinuitätsplänen.
+- Klinisches Personal hat wenig Zeit, Probleme zu melden; Servicemanagerinnen und -manager nutzen daher Überwachung, Daten des Service Desks und klinische Rückmeldungen, um Probleme früh zu finden.
+levels:
+- title: IT-Serviceanalyst/in
+  responsibilities:
+  - Auf Störungen und Anfragen reagieren, sie dokumentieren und innerhalb vereinbarter Servicelevels lösen.
+  - Regelmäßige Serviceberichte erstellen, etwa zu Ticketvolumen, Reaktionszeiten und Verfügbarkeit klinischer Systeme.
+  - Prüfen, dass Einträge im Servicekatalog und Wissensartikel genau und aktuell sind.
+  - Nach Mustern in Störungen suchen und Verbesserungen vorschlagen.
+  - Die Regeln der Informationsgovernance beim Umgang mit Ticket- und Servicedaten befolgen.
+  qualifications:
+  - Eine Grundlagenqualifikation im IT-Service-Management, eine Qualifikation auf Niveau 3 in der IT oder gleichwertige Erfahrung.
+- title: IT-Servicemanager/in
+  responsibilities:
+  - Servicelevels für klinische und betriebliche Dienste auf Grundlage von klinischem Risiko und Geschäftsbedarf definieren und vereinbaren.
+  - Die Supportvereinbarungen für ein Portfolio von Diensten steuern, einschließlich Anbietern und gemeinsamen Diensten.
+  - Die Serviceleistung an Service Owner und klinische Leitungen berichten und Verbesserungsmaßnahmen vereinbaren.
+  - Sicherstellen, dass jeder Dienst getestete Vereinbarungen zu Betriebskontinuität und Ausfall hat.
+  - Den Servicekatalog aktuell halten und sicherstellen, dass Mitarbeitende über Änderungen an ihren Diensten informiert werden.
+  - Ein Programm der kontinuierlichen Serviceverbesserung für die eigenen Dienste durchführen.
+  qualifications:
+  - Erfahrung im Steuern von IT-Diensten nach vereinbarten Servicelevels.
+  - Eine Qualifikation im IT-Service-Management auf mittlerem Niveau oder gleichwertige Erfahrung.
+- title: Senior-IT-Servicemanager/in
+  responsibilities:
+  - Service Management über mehrere Plattformen und Kanäle leiten und den Reifegrad der Service-Management-Prozesse verbessern.
+  - Servicelevels und Vertragsbedingungen mit großen Anbietern klinischer Systeme vereinbaren und sie zur Verantwortung ziehen.
+  - Serviceleistung und Risiken leitenden klinischen und betrieblichen Führungskräften präsentieren.
+  - Service-Reviews nach größeren Störungen leiten und Verbesserungsmaßnahmen bis zum Abschluss verfolgen.
+  - IT-Kontinuitätspläne mit klinischen Plänen der Betriebskontinuität abstimmen, gemeinsam mit Notfallplanung und klinischen Leitungen.
+  - IT-Servicemanagerinnen und -manager führen und entwickeln.
+  qualifications:
+  - Umfangreiche Erfahrung im IT-Service-Management über mehrere Dienste.
+  - Eine fortgeschrittene Qualifikation im IT-Service-Management oder gleichwertige Erfahrung.
+- title: Leiter/in IT-Service-Management
+  responsibilities:
+  - Vision, Strategie und Betriebsmodell für das IT-Service-Management in der Organisation festlegen.
+  - Sicherstellen, dass jeder Service-Management-Prozess eine verantwortliche Person hat und weiter reift.
+  - Das IT-Service-Management auf höherer Ebene vertreten, auch in klinischen und betrieblichen Governance-Sitzungen.
+  - Als oberste Eskalationsstelle für klinische und betriebliche Dienstleitungen fungieren.
+  - Sicherstellen, dass die Service-Management-Funktion die Menschen, Werkzeuge und das Budget hat, die sie braucht.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung des IT-Service-Managements in einer großen oder komplexen Organisation.

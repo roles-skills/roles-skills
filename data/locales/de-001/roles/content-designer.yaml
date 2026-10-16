@@ -1,0 +1,64 @@
+summary: Content-Designerinnen und -Designer machen Gesundheits- und Pflegeinformationen und -dienste verständlich, damit Patientinnen, Patienten, Angehörige, klinisches Personal und Pflegepersonal verstehen, was sie wissen und tun müssen. Sie gestalten Inhalte auf Grundlage von Belegen zu Nutzerbedürfnissen, schreiben in einfacher Sprache, arbeiten mit klinischen Fachleuten an der Richtigkeit und betreuen Inhalte über ihren gesamten Lebenszyklus, von der Erstellung bis zu Überprüfung und Außerbetriebnahme.
+health_context:
+- Menschen lesen Gesundheitsinhalte oft, wenn sie besorgt, krank oder in Eile sind; Inhalte müssen daher für Menschen mit geringer Gesundheitskompetenz leicht verständlich und umsetzbar sein.
+- Falsche oder veraltete Gesundheitsinformationen können schaden; Content-Designerinnen und -Designer folgen daher einem klinischen Qualitätssicherungsprozess mit Überprüfungsdaten und benannten klinischen Prüfenden.
+- Manche Themen sind sensibel oder risikoreich, etwa dringende Symptome, psychische Gesundheit, Arzneimittel und Versorgung am Lebensende; Content-Designerinnen und -Designer arbeiten daher bei Ton und Richtigkeit eng mit klinischem Personal und Nutzerforschenden zusammen.
+- Auch klinische Systeme brauchen klare Inhalte, etwa Beschriftungen, Anleitungen und Warnungen; Content-Designerinnen und -Designer helfen daher, Fehler in klinischen Arbeitsabläufen zu verringern.
+- Gesundheitsinhalte müssen zugänglich und inklusiv sein, auch für Menschen, die assistive Technologie nutzen, in einer anderen Sprache lesen oder Leichte Sprache brauchen.
+levels:
+- title: Associate Content-Designer/in
+  responsibilities:
+  - Methoden des Content-Designs, den Styleguide und den Prozess der klinischen Prüfung durch Schulung und beaufsichtigte Arbeit lernen.
+  - Standardprüfungen, Korrekturlesen und Aktualisierungen bestehender Inhalte vornehmen.
+  - Inhalte mit dem Content-Management-System unter Beachtung der Absicherungsschritte veröffentlichen.
+  - Inhalte auf Barrierefreiheit prüfen, etwa Überschriften, Linktexte und Alternativtexte.
+  qualifications:
+  - Auf eine Qualifikation oder Ausbildung in einem einschlägigen Bereich hinarbeitend oder gleichwertige Erfahrung.
+- title: Junior-Content-Designer/in
+  responsibilities:
+  - Gesundheitsinhalte und Dienstinhalte mit Anleitung erfahrener Content-Designerinnen und -Designer schreiben und aktualisieren.
+  - Forschung und Daten nutzen, um zu erkennen, was Nutzende wissen müssen und welche Wörter sie verwenden.
+  - Mit klinischen Prüfenden die Richtigkeit abstimmen und medizinische Begriffe in einfacher Sprache erklären.
+  - Veröffentlichung, Überprüfungsdaten und Verwaltung des Content-Teams unterstützen.
+  qualifications:
+  - Ein Studienabschluss oder eine einschlägige Qualifikation oder gleichwertige Erfahrung im Schreiben für das Web.
+- title: Content-Designer/in
+  responsibilities:
+  - Inhalte über ganze Nutzerreisen hinweg gestalten, etwa Dienst finden, Termin vorbereiten und Nachsorge.
+  - Inhalte für klinische Systeme, etwa Beschriftungen, Anleitungen und Warnungen, gestalten, um die Fehlerwahrscheinlichkeit zu senken.
+  - Die Richtigkeit mit klinischen Fachleuten abstimmen und die Inhalte dabei klar und nutzbar halten.
+  - Inhalte mit Nutzenden testen, auch mit Menschen mit geringer Gesundheitskompetenz und Nutzenden assistiver Technologie.
+  - Zum Styleguide und zu Inhaltsmustern beitragen.
+  qualifications:
+  - Ein Studienabschluss oder eine einschlägige Qualifikation oder gleichwertige Erfahrung.
+  - Erfahrung in der Gestaltung von Inhalten für digitale Dienste.
+- title: Senior-Content-Designer/in
+  responsibilities:
+  - Content-Strategie für große oder wichtige Bereiche entwickeln, etwa ein großes Krankheitsgebiet oder eine Gesundheitskampagne.
+  - Inhalte zu sensiblen und risikoreichen Themen gestalten, etwa dringende Symptome, psychische Gesundheit und Versorgung am Lebensende.
+  - Klinische Qualitätssicherung, Evidenzquellen und Prüfzyklen für einen Bestand an Gesundheitsinhalten aufbauen.
+  - Die Arbeit anderer zur Qualitätssicherung prüfen und Content-Designerinnen und -Designer führen oder anleiten.
+  - User Stories mit dem Team schreiben und abbilden.
+  qualifications:
+  - Umfangreiche Erfahrung im Content-Design, auf einem Niveau, das einem Masterabschluss entspricht.
+  job_evaluation_notes: Die emotionale Anstrengung liegt auf Stufe 2, weil Senior-Content-Designerinnen und -Designer regelmäßig an belastenden Themen arbeiten, etwa schwerer Krankheit, Selbstverletzung und Trauerfall.
+- title: Leitende/r Content-Designer/in
+  responsibilities:
+  - Ein Team von Content-Designerinnen und -Designern leiten und die Inhaltsqualität über mehrere Teams hinweg absichern.
+  - Sicherstellen, dass Gesundheitsinhalte klinische Qualitätssicherung, Barrierefreiheit und Stilstandards erfüllen.
+  - Mit leitenden klinischen, Kommunikations- und Produktleitungen Teams ausstatten und Inhaltsprobleme lösen.
+  - Die Inhalte für die sensibelsten oder risikoreichsten Informationen der Organisation leiten.
+  - Content-Designerinnen und -Designer in der Linie führen und entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Content-Design über Teams hinweg.
+  job_evaluation_notes: Es gibt keine Stufe in Entgeltgruppe 8a, weil das UK GDaD PCF die leitende Content-Designerin oder den leitenden Content-Designer bei G7 oder G6 einordnet und diese Referenz der vorgeschlagenen Entgeltgruppe 8b folgt. Richtlinien liegen auf Stufe 5, weil die Leitung Inhaltsstandards für eine Reihe von Diensten setzt; die emotionale Anstrengung liegt auf Stufe 2, wie bei Senior-Content-Designerinnen und -Designern.
+- title: Leiter/in Content-Design
+  responsibilities:
+  - Eine Content-Strategie entwickeln, die den Zielen der Organisation und den Bedürfnissen von Patientinnen, Patienten und Mitarbeitenden gerecht wird.
+  - Die Standards der Organisation für Gesundheitsinformationsinhalte und deren klinische Qualitätssicherung festlegen.
+  - Ein Content-Design-Team leiten, das die Strategie umsetzen kann, einschließlich Personalgewinnung und Entwicklung.
+  - Mit leitenden klinischen und Kommunikationsleitungen Risiken von Gesundheitsinformationen steuern.
+  - Content-Arbeit in der gesamten Organisation priorisieren.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Content-Design und einer Content-Praxis.
+  job_evaluation_notes: Das UK GDaD PCF ordnet sowohl die leitende Content-Designerin oder den leitenden Content-Designer als auch die Leitung Content-Design bei G7 oder G6 ein, mit vorgeschlagener Entgeltgruppe 8b. Diese Referenz ordnet die Leitung in Entgeltgruppe 8c ein, in Übereinstimmung mit den Leitungen anderer nutzerzentrierter Designberufe, weil die Leitung Content-Strategie und Standards für die gesamte Organisation setzt.
