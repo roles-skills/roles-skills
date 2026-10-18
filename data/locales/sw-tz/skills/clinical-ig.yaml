@@ -1,0 +1,228 @@
+# Swahili translations of data/skills/clinical-ig.yaml. Keys are the English skill ids.
+clin-clinical-systems-optimisation:
+  name: Usanifu na uboreshaji wa mifumo ya kitabibu
+  description: Kubuni, kusanidi na kuboresha mifumo ya kitabibu, kama vile rekodi za afya za kielektroniki, mawasiliano ya maagizo na uandikaji wa dawa kielektroniki, ili ilingane na mtiririko wa kazi za kitabibu na kusaidia matunzo salama na yenye ufanisi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza jinsi mifumo ya kitabibu kama rekodi za afya za kielektroniki inavyosaidia matunzo
+      - kuelezea mtiririko wa kazi za kitabibu ambao mfumo unauunga mkono
+    working: |
+      Unaweza:
+      - kuchora ramani ya mtiririko wa sasa na wa baadaye wa kazi za kitabibu pamoja na madaktari na wafanyakazi wa matunzo
+      - kujaribu usanidi wa mfumo dhidi ya matukio ya kitabibu
+      - kuandika mahitaji wazi ya kitabibu kwa timu za bidhaa
+    practitioner: |
+      Unaweza:
+      - kuongoza usanifu wa kitabibu wa usanidi wa mfumo, fomu, seti za maagizo na usaidizi wa maamuzi
+      - kutumia data na maoni ya watumiaji kupata na kurekebisha matatizo ya mtiririko wa kazi
+      - kusawazisha mahitaji ya kitabibu, usalama, urahisi wa matumizi na vikwazo vya mfumo
+    expert: |
+      Unaweza:
+      - kuweka kanuni na viwango vya usanifu wa mifumo ya kitabibu katika taasisi nzima
+      - kuongoza programu za uboreshaji zinazoboresha matunzo na uzoefu wa wafanyakazi kwa namna inayopimika
+      - kuwashauri viongozi wakuu kuhusu uchaguzi wa mifumo ya kitabibu na athari zake kwa matunzo
+clin-human-factors:
+  name: Mambo ya kibinadamu na urahisi wa matumizi katika mifumo ya kitabibu
+  description: Kutumia mbinu za mambo ya kibinadamu na urahisi wa matumizi kwenye mifumo ya kitabibu, ili madaktari, wafanyakazi wa matunzo na wagonjwa waitumie kwa usalama na kwa makosa machache iwezekanavyo.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza jinsi usanifu duni unavyoweza kusababisha makosa katika matunzo
+      - kuripoti matatizo ya urahisi wa matumizi yanayoweza kuathiri usalama wa mgonjwa
+    working: |
+      Unaweza:
+      - kushiriki katika majaribio ya urahisi wa matumizi na maigizo ya kazi za kitabibu
+      - kutambua hatari za kawaida za usanifu, kama vile chaguzi zinazofanana kwa sura au tahadhari zilizofichwa
+    practitioner: |
+      Unaweza:
+      - kupanga na kuendesha tathmini za mambo ya kibinadamu za mifumo ya kitabibu
+      - kugeuza matokeo kuwa mabadiliko ya usanifu na udhibiti wa usalama wa kitabibu
+      - kutathmini mzigo wa tahadhari na hatari ya njia mbadala zisizo rasmi
+    expert: |
+      Unaweza:
+      - kuweka mtazamo wa taasisi kuhusu mambo ya kibinadamu katika huduma za kidijitali
+      - kukagua ushahidi wa mambo ya kibinadamu kwa mifumo na mabadiliko yenye hatari kubwa
+      - kujenga ujuzi wa mambo ya kibinadamu katika timu za kitabibu na za kidijitali
+clin-digital-health-evaluation:
+  name: Tathmini ya afya ya kidijitali na manufaa
+  description: Kupanga na kufanya tathmini za teknolojia za afya ya kidijitali, na kupima manufaa yake ya kitabibu, ya usalama na ya huduma kwa kutumia mbinu na ushahidi thabiti.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini teknolojia za afya ya kidijitali zinahitaji ushahidi wa manufaa na usalama
+      - kupata ushahidi uliochapishwa kuhusu teknolojia
+    working: |
+      Unaweza:
+      - kukusanya data ya msingi na ya ufuatiliaji kwa ajili ya tathmini
+      - kufanya ukaguzi wa kitabibu wa matumizi ya mfumo
+      - kufupisha matokeo ya tathmini kwa wenzako
+    practitioner: |
+      Unaweza:
+      - kubuni tathmini na mipango ya manufaa kwa bidhaa za afya ya kidijitali
+      - kuchagua vipimo vinavyofaa vya matokeo ya kitabibu, usalama na uzoefu
+      - kuhukumu nguvu ya ushahidi na kueleza mipaka yake
+    expert: |
+      Unaweza:
+      - kuweka mtazamo wa taasisi kuhusu tathmini ya afya ya kidijitali
+      - kuongoza programu za utafiti na tathmini pamoja na washirika wa kitaaluma na wa matunzo
+      - kutumia ushahidi kushauri bodi kuhusu uwekezaji wa kidijitali
+clin-professional-practice:
+  name: Mazoezi ya kitabibu yaliyosajiliwa katika kidijitali
+  description: Kuleta maarifa na uamuzi wa kitabibu wa sasa, uliosajiliwa, katika kazi ya kidijitali, huku ukitimiza viwango, maadili na wajibu wa uthibitisho upya wa taaluma ya kitabibu.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza viwango vya kitaaluma vinavyomhusu daktari aliyesajiliwa
+      - kutambua ni lini swali linahitaji maoni ya kitabibu
+    working: |
+      Unaweza:
+      - kutumia maarifa yako ya kitabibu katika kazi ya kidijitali ndani ya wigo wa mazoezi yako
+      - kuweka usajili wako na maendeleo yako ya kitaaluma endelevu yakiwa ya kisasa
+      - kutoa maoni ya kitabibu kuhusu mtiririko wa kazi, maudhui na usalama
+    practitioner: |
+      Unaweza:
+      - kufanya maamuzi thabiti ya kitabibu kuhusu athari za huduma za kidijitali kwa matunzo
+      - kupinga mazoezi yasiyo salama, katika mazingira ya kidijitali au ya kitabibu, kwa kujiamini
+      - kuwasaidia madaktari wengine kutumia viwango vyao vya kitaaluma katika kazi ya kidijitali
+    expert: |
+      Unaweza:
+      - kuongoza viwango vya kitaaluma vya kitabibu kwa kazi ya kidijitali ya taasisi
+      - kuwa sauti ya juu ya kitabibu katika maamuzi kuhusu usalama wa mgonjwa na matunzo
+      - kusaidia uthibitisho upya na maendeleo ya kitaaluma ya madaktari walio katika nafasi za kidijitali
+ig-information-rights-requests:
+  name: Maombi ya haki za taarifa
+  description: Kushughulikia maombi kutoka kwa watu binafsi na umma ya kupata taarifa, kama vile maombi ya kupata rekodi binafsi za afya na maombi ya taarifa zinazoshikiliwa na taasisi, ndani ya muda wa kisheria.
+  levels:
+    awareness: |
+      Unaweza:
+      - kutambua ombi la haki za taarifa na kulipeleka haraka
+      - kueleza kwamba maombi yana muda wa kisheria
+    working: |
+      Unaweza:
+      - kuweka kumbukumbu, kukiri kupokea na kufuatilia maombi ili kutimiza muda
+      - kukusanya na kuficha taarifa nyeti, na kuandaa rasimu za majibu kwa ukaguzi
+      - kuthibitisha utambulisho na mamlaka ya anayeomba
+    practitioner: |
+      Unaweza:
+      - kushughulikia maombi tata au nyeti, ikiwemo yanayohusisha wahusika wengine
+      - kutumia misamaha na kuamua nini kizuiwe, kwa sababu zilizo wazi
+      - kusimamia mapitio ya ndani na malalamiko kuhusu majibu
+    expert: |
+      Unaweza:
+      - kuweka sera na mchakato wa haki za taarifa katika taasisi nzima
+      - kuongoza majibu kwa maswali na rufaa za mdhibiti
+      - kuripoti utendaji na mwelekeo kwa viongozi wakuu
+ig-records-retention:
+  name: Uhifadhi na uondoaji wa kumbukumbu
+  description: Kutumia ratiba za uhifadhi kwa kumbukumbu za karatasi na za kidijitali, na kuzihifadhi kwenye jalada au kuziharibu kwa usalama wakati unaofaa, kwa njia ya ukaguzi inayoweza kufuatiliwa.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini kumbukumbu huhifadhiwa kwa vipindi maalumu kisha kuharibiwa au kuhifadhiwa kwenye jalada
+      - kufuata taratibu za kuhifadhi na kuhamisha kumbukumbu
+    working: |
+      Unaweza:
+      - kutumia ratiba ya uhifadhi kwa kumbukumbu na kuashiria zile zinazostahili kukaguliwa
+      - kuandaa kumbukumbu kwa ajili ya jalada au uharibifu salama, na kutunza njia ya ukaguzi
+    practitioner: |
+      Unaweza:
+      - kuendesha programu ya uhifadhi na uondoaji kwa huduma ya kumbukumbu
+      - kushauri timu kuhusu uhifadhi wa aina mpya za kumbukumbu, ikiwemo za kidijitali
+      - kukagua utiifu wa ratiba za uhifadhi
+    expert: |
+      Unaweza:
+      - kuweka sera na ratiba ya uhifadhi kwa taasisi
+      - kupanga uhifadhi wa muda mrefu wa kumbukumbu za kidijitali
+      - kutatua maswali tata ya uhifadhi, kama vile mizuio ya kisheria na uchunguzi rasmi
+ig-data-protection-impact-assessment:
+  name: Tathmini ya athari za ulinzi wa data
+  description: Kutathmini hatari za faragha za uchakataji mpya au uliobadilishwa wa data binafsi na ya afya, na kukubaliana juu ya udhibiti kabla uchakataji haujaanza.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza ni lini tathmini ya athari za ulinzi wa data inahitajika
+      - kukamilisha dodoso la uchunguzi wa awali kwa kazi yako
+    working: |
+      Unaweza:
+      - kuzisaidia timu za mradi kukamilisha tathmini za athari za ulinzi wa data
+      - kuelezea mtiririko wa data na kubainisha msingi halali wa uchakataji
+      - kurekodi hatari za faragha na udhibiti uliopendekezwa
+    practitioner: |
+      Unaweza:
+      - kukagua na kushauri kuhusu tathmini za athari za ulinzi wa data kwa mifumo tata
+      - kuhukumu kama hatari zinakubalika na kupendekeza udhibiti
+      - kuamua ni lini kupeleka hatari kubwa kwa ukaguzi wa viongozi wakuu au mdhibiti
+    expert: |
+      Unaweza:
+      - kuweka mchakato na viwango vya taasisi vya tathmini ya athari za ulinzi wa data
+      - kutoa ushauri wa mwisho kuhusu uchakataji wenye hatari kubwa zaidi, kama vile ushirikishaji mkubwa wa data au AI
+      - kushauriana na wadhibiti pale sheria inapohitaji
+ig-incident-management:
+  name: Usimamizi wa matukio ya usimamizi wa taarifa
+  description: Kurekodi, kuchunguza na kujifunza kutokana na ukiukaji wa data na matukio yaliyokaribia kutokea, na kuamua ni lini kuwaambia wadhibiti na watu walioathirika.
+  levels:
+    awareness: |
+      Unaweza:
+      - kutambua ukiukaji wa data au tukio lililokaribia kutokea na kuliripoti mara moja
+    working: |
+      Unaweza:
+      - kuweka kumbukumbu za matukio na kukusanya ukweli
+      - kutathmini matukio dhidi ya vigezo vya taasisi vya ukali
+      - kufuatilia hatua hadi zikamilike
+    practitioner: |
+      Unaweza:
+      - kuchunguza matukio makubwa na kupata chanzo chake
+      - kuamua, pamoja na wenzako wakuu, kama kuwaarifu wadhibiti na watu walioathirika
+      - kushirikisha mafunzo yaliyopatikana na kufuatilia maboresho
+    expert: |
+      Unaweza:
+      - kuweka mchakato wa usimamizi wa matukio kwa usimamizi wa taarifa
+      - kuongoza majibu kwa ukiukaji mkubwa, ikiwemo na wadhibiti na vyombo vya habari
+      - kuripoti mwelekeo wa matukio na hatari kwa bodi
+ig-confidentiality-and-sharing:
+  name: Usiri na ushirikishaji wa taarifa
+  description: Kulinda taarifa za siri za wagonjwa huku ukihakikisha zinashirikiwa kihalali pale matunzo, usalama au sheria inapohitaji, ikiwemo kupitia makubaliano ya ushirikishaji wa taarifa.
+  levels:
+    awareness: |
+      Unaweza:
+      - kuweka taarifa za siri salama na kuzishirikisha tu pale unaporuhusiwa
+      - kuomba ushauri pale huna uhakika
+    working: |
+      Unaweza:
+      - kukagua kama ombi la kushirikisha taarifa linatimiza sera
+      - kutunza kumbukumbu za nini kilishirikishwa, na nani, na kwa nini
+      - kuandaa rasimu za makubaliano rahisi ya ushirikishaji wa taarifa
+    practitioner: |
+      Unaweza:
+      - kushauri kuhusu maswali tata ya usiri, kama vile kushirikisha bila ridhaa kwa maslahi ya umma
+      - kukagua makubaliano ya ushirikishaji wa taarifa na taasisi washirika
+      - kutumia kanuni za ridhaa na pingamizi la mgonjwa kwenye mtiririko wa data
+    expert: |
+      Unaweza:
+      - kuwa mshauri mkuu wa taasisi kuhusu usiri
+      - kutatua maamuzi magumu zaidi ya ufichuzi
+      - kuweka mfumo wa kushirikisha taarifa na washirika
+ig-compliance-assurance:
+  name: Uhakikisho na ukaguzi wa usimamizi wa taarifa
+  description: Kukagua na kuonyesha kwamba taasisi inatimiza viwango vya usimamizi wa taarifa, kupitia tathmini binafsi za kila mwaka, ukaguzi, ushahidi na mipango ya uboreshaji.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini taasisi lazima ionyeshe kwamba inashughulikia taarifa vizuri
+      - kutoa ushahidi kwa ajili ya ukaguzi unapoombwa
+    working: |
+      Unaweza:
+      - kukusanya na kupanga ushahidi kwa tathmini binafsi ya kila mwaka
+      - kufanya ukaguzi rahisi, kama vile ukaguzi wa ufikiaji au wa utunzaji wa kumbukumbu
+      - kufuatilia hatua za uboreshaji
+    practitioner: |
+      Unaweza:
+      - kupanga na kuendesha programu ya uhakikisho wa usimamizi wa taarifa
+      - kuhukumu kama ushahidi unatimiza kiwango na kubainisha mapengo
+      - kufanya kazi na wakaguzi wa ndani na wa nje
+    expert: |
+      Unaweza:
+      - kumiliki mfumo wa uhakikisho wa usimamizi wa taarifa wa taasisi
+      - kuripoti uhakikisho na utiifu kwa bodi na kamati zake
+      - kuweka vipaumbele vya uboreshaji kulingana na hatari

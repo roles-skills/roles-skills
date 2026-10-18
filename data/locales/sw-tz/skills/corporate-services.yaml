@@ -1,0 +1,260 @@
+# Swahili translations of data/skills/corporate-services.yaml. Keys are the English skill ids.
+corp-administration:
+  name: Utawala wa ofisi
+  description: Kuendesha michakato ya kiutawala inayofanya timu au huduma ifanye kazi, kama vile kuhifadhi mafaili, kuagiza vifaa, kuingiza data, kumbukumbu, na kufuata taratibu za ofisi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kufuata taratibu za ofisi za kuhifadhi mafaili, kuagiza vifaa na kuingiza data
+      - kutunza kumbukumbu sahihi za kazi yako
+    working: |
+      Unaweza:
+      - kuendesha michakato mbalimbali ya kiutawala kwa timu kwa usimamizi mdogo
+      - kutambua na kurekebisha makosa katika kumbukumbu na data
+      - kupendekeza njia rahisi zaidi za kufanya kazi
+    practitioner: |
+      Unaweza:
+      - kupanga msaada wa kiutawala kwa huduma au kurugenzi
+      - kuandika na kuboresha taratibu za kiutawala
+      - kuwafunza wasimamizi wengine wa ofisi na kukagua kazi zao
+    expert: |
+      Unaweza:
+      - kubuni huduma za kiutawala katika taasisi nzima
+      - kuongoza mpito kuelekea michakato rahisi na ya kidijitali ya kiutawala
+corp-office-software:
+  name: Zana za ofisi za kidijitali
+  description: Kutumia programu za kuandika nyaraka, majedwali, mawasilisho, barua pepe, nyaraka zinazoshirikiwa na zana za ushirikiano kwa haraka na kwa usahihi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kuunda na kuhariri nyaraka, barua pepe na majedwali rahisi
+      - kuhifadhi na kushirikisha mafaili mahali sahihi
+    working: |
+      Unaweza:
+      - kutengeneza nyaraka na mawasilisho yaliyopangwa vizuri kwa haraka na kwa usahihi
+      - kutumia majedwali kupanga, kuchuja na kufupisha data
+      - kutumia zana za ushirikiano kusimamia nyaraka zinazoshirikiwa na matoleo yake
+    practitioner: |
+      Unaweza:
+      - kujenga violezo, zana za ufuatiliaji na mtiririko rahisi wa kazi unaojiendesha
+      - kufanya nyaraka zifikike kwa kila mtu
+      - kuwasaidia wenzako kunufaika zaidi na zana za ofisi
+    expert: |
+      Unaweza:
+      - kuweka viwango vya violezo, usimamizi wa nyaraka na zana za ushirikiano
+      - kuongoza kupitishwa kwa zana mpya za ofisi katika taasisi nzima
+corp-diary-and-meeting-management:
+  name: Usimamizi wa shajara na mikutano
+  description: Kusimamia shajara, mikutano na safari ili muda wa watu utumike vizuri na mikutano iwe na watu, nyaraka na vyumba sahihi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kupanga mikutano na vyumba kwa kutumia zana za taasisi
+      - kutuma mialiko na nyaraka kwa wakati
+    working: |
+      Unaweza:
+      - kusimamia shajara za timu, ukitatua migongano ya ratiba
+      - kupanga safari, matukio na mikutano na washirika wa nje
+      - kuhakikisha nyaraka na hatua zimeandaliwa kabla ya mikutano
+    practitioner: |
+      Unaweza:
+      - kusimamia shajara ya kiongozi mwandamizi, ukiweka vipaumbele pamoja naye
+      - kuamua nini kinahitaji muda wake na nini wengine wanaweza kushughulikia
+      - kupanga mzunguko wa kila mwaka wa mikutano ya bodi au timu ya uongozi
+    expert: |
+      Unaweza:
+      - kuendesha mzunguko wa shughuli wa timu ya watendaji wakuu
+      - kuhakikisha muda wa viongozi wakuu unaelekezwa kwenye vipaumbele vya taasisi
+corp-minute-taking:
+  name: Kuandika muhtasari wa vikao na kumbukumbu za mikutano
+  description: Kurekodi majadiliano, maamuzi na hatua kwa usahihi na kwa ufupi, na kutunza kumbukumbu rasmi za mikutano.
+  levels:
+    awareness: |
+      Unaweza:
+      - kuandika maelezo ya hatua na maamuzi katika mikutano ya timu
+    working: |
+      Unaweza:
+      - kuandika muhtasari sahihi na mfupi wa vikao na kumbukumbu za hatua kwa mikutano ya kawaida
+      - kufuatilia hatua na wamiliki wake
+    practitioner: |
+      Unaweza:
+      - kuandika muhtasari rasmi wa mikutano ya bodi na kamati, ikiwemo majadiliano tata au yenye mabishano
+      - kutunza kumbukumbu rasmi za mikutano zinazostahimili ukaguzi na uchunguzi rasmi
+      - kuwashauri wenyeviti kuhusu kile ambacho kumbukumbu inapaswa kuonyesha
+    expert: |
+      Unaweza:
+      - kuweka viwango vya kumbukumbu rasmi za mikutano katika taasisi nzima
+      - kuwafunza waandishi wa muhtasari wa vikao na kukagua ubora wao
+corp-correspondence-management:
+  name: Ushughulikiaji wa barua na maulizo
+  description: Kushughulikia barua, barua pepe, simu na maulizo kwa haraka na kwa adabu, na kuzielekeza kwa mtu sahihi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kujibu simu na barua pepe kwa adabu na kuchukua ujumbe sahihi
+      - kuwapelekea watu sahihi maulizo
+    working: |
+      Unaweza:
+      - kushughulikia mwenyewe barua na maulizo ya kawaida
+      - kuandaa rasimu za barua na majibu kwa wengine kutia sahihi
+      - kutunza kumbukumbu za barua na kufuatilia majibu
+    practitioner: |
+      Unaweza:
+      - kusimamia barua za kiongozi mwandamizi, ikiwemo barua nyeti na za malalamiko
+      - kuandaa rasimu za majibu zinazohitaji busara, usahihi na uamuzi
+      - kuhakikisha majibu yanatimiza tarehe za mwisho
+    expert: |
+      Unaweza:
+      - kuweka mchakato na viwango vya barua za watendaji wakuu
+      - kushughulikia barua nyeti zaidi, ikiwemo na wadhibiti, washirika na vyombo vya habari
+corp-pmo-reporting:
+  name: Msaada wa ofisi ya miradi na jalada la miradi
+  description: Kuendesha michakato ya ofisi ya miradi na jalada la miradi, kama vile mipango, madaftari, kuripoti, udhibiti wa nyaraka na ukaguzi wa uhakikisho.
+  levels:
+    awareness: |
+      Unaweza:
+      - kuweka nyaraka za mradi mahali sahihi, pamoja na udhibiti wa matoleo
+      - kusasisha kumbukumbu za hatua, hatari na masuala unapoombwa
+    working: |
+      Unaweza:
+      - kutunza mipango, madaftari na zana za ufuatiliaji za miradi kadhaa
+      - kukusanya taarifa za maendeleo na kutengeneza ripoti za hali mara kwa mara
+      - kukagua kama miradi inafuata mbinu iliyokubaliwa
+    practitioner: |
+      Unaweza:
+      - kubuni ripoti za jalada na kuchambua maendeleo, hatari na manufaa katika miradi
+      - kuendesha ukaguzi wa uhakikisho na mapitio ya hatua muhimu
+      - kuwashauri mameneja wa miradi kuhusu mbinu na udhibiti
+    expert: |
+      Unaweza:
+      - kuanzisha na kuongoza ofisi ya jalada la miradi kwa taasisi
+      - kuwapa viongozi wakuu uelewa ulio wazi na wa kuaminika wa jalada
+      - kuweka viwango na zana za usimamizi wa miradi na jalada
+corp-assurance-and-audit:
+  name: Uratibu wa uhakikisho na ukaguzi
+  description: Kukusanya uhakikisho kwamba udhibiti unafanya kazi, kusaidia ukaguzi wa ndani na wa nje, na kufuatilia mapendekezo ya ukaguzi hadi yakamilike.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza jinsi ukaguzi na uhakikisho unavyofanya kazi katika taasisi
+      - kutoa ushahidi unapoombwa
+    working: |
+      Unaweza:
+      - kuratibu ushahidi kwa ukaguzi na ukaguzi wa kina
+      - kufuatilia mapendekezo ya ukaguzi na kufuatilia hatua zilizochelewa
+    practitioner: |
+      Unaweza:
+      - kupanga ramani ya uhakikisho kwa hatari kuu za taasisi
+      - kufanya kazi na wakaguzi wa ndani na wa nje kukubaliana wigo na matokeo
+      - kuripoti mapengo ya uhakikisho kwa kamati
+    expert: |
+      Unaweza:
+      - kubuni mfumo wa uhakikisho wa taasisi
+      - kuishauri kamati ya ukaguzi na bodi kuhusu nguvu ya uhakikisho
+corp-policy-management:
+  name: Usimamizi wa sera
+  description: Kuandika, kukagua, kuidhinisha na kuchapisha sera na taratibu za taasisi, na kukagua kama watu wanazifuata.
+  levels:
+    awareness: |
+      Unaweza:
+      - kupata na kufuata sera zinazohusu kazi yako
+    working: |
+      Unaweza:
+      - kuweka sajili ya sera ikiwa ya kisasa na kuwakumbusha wamiliki kuhusu ukaguzi
+      - kukagua kama sera zinatumia kiolezo na njia sahihi ya idhini
+    practitioner: |
+      Unaweza:
+      - kuandaa rasimu na kukagua sera pamoja na wataalamu wa mada
+      - kukagua sera dhidi ya sheria, viwango na wajibu wa usawa
+      - kufuatilia utiifu na kuripoti mapengo
+    expert: |
+      Unaweza:
+      - kuweka mfumo wa sera wa taasisi
+      - kuishauri bodi kuhusu vipaumbele na hatari za sera
+corp-internal-communications:
+  name: Mawasiliano ya ndani
+  description: Kuwafahamisha na kuwashirikisha wafanyakazi kupitia njia kama vile mtandao wa ndani, majarida, maelezo ya awali na matukio, hasa wakati wa mabadiliko.
+  levels:
+    awareness: |
+      Unaweza:
+      - kuchapisha maudhui kwenye njia za ndani kama vile mtandao wa ndani
+      - kufuata mtindo na sauti ya taasisi
+    working: |
+      Unaweza:
+      - kuandika na kuhariri habari, maelezo ya awali na majarida kwa wafanyakazi
+      - kupanga maudhui ya njia za ndani na kupima ushiriki
+    practitioner: |
+      Unaweza:
+      - kupanga mawasiliano ya ndani kwa mabadiliko makubwa, kama vile mfumo mpya wa kitabibu
+      - kuwashauri viongozi jinsi ya kuwashirikisha wafanyakazi na kushughulikia ujumbe mgumu
+      - kutumia maoni na data kuboresha njia
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa mawasiliano ya ndani na ushirikishaji wa wafanyakazi
+      - kuishauri timu ya watendaji wakuu kuhusu utamaduni na ushiriki
+corp-media-relations:
+  name: Mahusiano na vyombo vya habari
+  description: Kujenga mahusiano na waandishi wa habari, kushughulikia maulizo ya vyombo vya habari, kuandika taarifa kwa vyombo vya habari, na kuandaa wasemaji, ikiwemo wakati wa matukio.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza jinsi taasisi inavyoshughulikia maulizo ya vyombo vya habari
+      - kuyapeleka maulizo ya vyombo vya habari mara moja kwa timu ya mawasiliano
+    working: |
+      Unaweza:
+      - kuweka kumbukumbu na kujibu maulizo ya kawaida ya vyombo vya habari
+      - kuandaa rasimu za taarifa kwa vyombo vya habari na taarifa rasmi kwa idhini
+      - kufuatilia habari zinazotolewa na vyombo vya habari
+    practitioner: |
+      Unaweza:
+      - kushughulikia maulizo nyeti na ya dharura ya vyombo vya habari, ikiwemo kuhusu matukio au ukiukaji wa data
+      - kuwaelekeza na kuwaandaa wasemaji
+      - kujenga mahusiano na waandishi wa habari za afya na teknolojia
+    expert: |
+      Unaweza:
+      - kuongoza ushughulikiaji wa vyombo vya habari wakati wa matukio makubwa na migogoro
+      - kulinda na kujenga sifa ya taasisi kwa wadau wakuu
+      - kuishauri bodi kuhusu hatari za sifa
+corp-communications-strategy:
+  name: Mkakati na mipango ya mawasiliano
+  description: Kupanga mawasiliano na kampeni zinazotimiza malengo ya taasisi, kwa kutumia uelewa wa hadhira, na kutathmini athari zake.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza malengo ya mpango wa mawasiliano unaoufanyia kazi
+    working: |
+      Unaweza:
+      - kuandika mipango ya mawasiliano kwa miradi, yenye hadhira, ujumbe na njia
+      - kupima matokeo ya shughuli za mawasiliano
+    practitioner: |
+      Unaweza:
+      - kupanga kampeni zinazobadilisha tabia, kama vile kuwahimiza wagonjwa kutumia huduma ya kidijitali
+      - kutumia uelewa wa hadhira na tathmini kuboresha kampeni
+      - kupanga mawasiliano ya matukio na kukatika kwa huduma
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa mawasiliano wa taasisi
+      - kuongoza mawasiliano ya mgogoro
+      - kuishauri bodi kuhusu sifa na ushirikishaji wa wadau
+corp-digital-and-social-media:
+  name: Vyombo vya habari vya kidijitali na mitandao ya kijamii
+  description: Kupanga, kuchapisha na kusimamia maudhui kwenye tovuti na mitandao ya kijamii, kushirikiana na hadhira, na kupima matokeo.
+  levels:
+    awareness: |
+      Unaweza:
+      - kuchapisha maudhui yaliyoidhinishwa kwenye njia za taasisi
+      - kufuata sera ya mitandao ya kijamii
+    working: |
+      Unaweza:
+      - kupanga na kuchapisha maudhui ya tovuti na mitandao ya kijamii
+      - kujibu maoni na kutambua masuala yanayohitaji kupelekwa juu
+      - kuripoti utendaji wa njia
+    practitioner: |
+      Unaweza:
+      - kusimamia njia za kidijitali za taasisi na mipango yake ya maudhui
+      - kushughulikia machapisho hasi au ya kupotosha, ikiwemo wakati wa matukio
+      - kutumia uchanganuzi kuboresha ufikiaji na ushiriki
+    expert: |
+      Unaweza:
+      - kuweka mkakati na usimamizi wa njia za kidijitali za taasisi
+      - kuongoza majibu kwa hatari za sifa mtandaoni

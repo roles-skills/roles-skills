@@ -178,3 +178,7 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Usability check: can test users find a fitting role in under five minutes?
 - [x] Check the definition of done in plan.md (met: 73 roles in 15 families, Bands 2 to 9; 39 roles link to a PCF role, all 73 to ESCO)
 - [ ] Commit, publish the repository, and tag v1.0
+- [x] sw-tz (Kiswahili, Swahili): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of sw-tz
+- [x] sw-001 (Kiswahili (dunia), Swahili): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of sw-001

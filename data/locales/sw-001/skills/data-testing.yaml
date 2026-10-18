@@ -1,0 +1,46 @@
+# Swahili translations of data/skills/data-testing.yaml. Keys are the English skill ids.
+data-ai-assurance:
+  name: AI salama na ya haki katika huduma za afya
+  description: Kuhakikisha kwamba miundo ya takwimu, ya kujifunza kwa mashine na ya akili bandia (AI) inayotumika katika afya na matunzo ni salama, ya haki, inayoweza kuelezeka, na inayofuatiliwa, ikiwemo kukagua upendeleo kati ya makundi ya wagonjwa na kutimiza kanuni za vifaa tiba na AI.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza jinsi muundo unavyoweza kuwadhuru wagonjwa, kwa mfano kupitia upendeleo, mabadiliko ya utendaji kadiri muda unavyopita, au kutegemea sana matokeo yake
+      - kueleza kwa nini miundo inahitaji kuthibitishwa kwa watu watakaoitumia
+    working: |
+      Unaweza:
+      - kupima utendaji wa muundo kwa makundi mbalimbali ya wagonjwa na kuripoti tofauti zozote
+      - kuandika matumizi yaliyokusudiwa ya muundo, data ya mafunzo na mipaka inayojulikana, kwa mfano katika kadi ya muundo
+      - kuchangia ushahidi kuhusu muundo katika hoja ya usalama wa kitabibu
+    practitioner: |
+      Unaweza:
+      - kupanga uthibitishaji, tathmini ya upendeleo na ufuatiliaji wa moja kwa moja wa muundo pamoja na wenzako wa kitabibu
+      - kuamua lini muundo unahitaji kufunzwa upya, kudhibitiwa au kuondolewa
+      - kushauri timu ni lini muundo unaweza kudhibitiwa kama kifaa tiba na ushahidi gani unahitaji
+    expert: |
+      Unaweza:
+      - kuweka viwango vya taasisi vya kuhakikisha na kufuatilia AI katika matunzo
+      - kuongoza uhakikisho wa miundo yenye hatari kubwa kabla na baada ya kuanza kutumika
+      - kuiwakilisha taasisi kwa wadhibiti na washirika kuhusu AI salama na ya haki
+data-deidentification:
+  name: Kuficha utambulisho na udhibiti wa ufichuzi
+  description: Kulinda usiri wa wagonjwa data inapounganishwa, kuchambuliwa, kushirikiwa au kuchapishwa, kwa kutumia ufichaji wa utambulisho kwa majina bandia, kutotambulisha kabisa, ukandamizaji wa nambari ndogo na mbinu nyingine za udhibiti wa ufichuzi wa takwimu.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza tofauti kati ya data inayotambulisha, data yenye majina bandia na data isiyotambulisha kabisa
+      - kufuata kanuni za taasisi za kukandamiza nambari ndogo katika matokeo
+    working: |
+      Unaweza:
+      - kufanya kazi na data yenye majina bandia na kufanya ukaguzi wa ufichuzi kabla ya kutoa matokeo
+      - kutambua ni lini data iliyounganishwa au ya kina inaweza kumtambulisha mgonjwa
+    practitioner: |
+      Unaweza:
+      - kubuni mbinu za majina bandia na uunganishaji zinazotenganisha vitambulisho na data ya uchambuzi
+      - kutathmini hatari ya kumtambulisha upya mtu katika seti ya data au uchapishaji na kuchagua udhibiti unaofaa
+      - kushauri timu kuhusu mazingira salama, kama vile mazingira yanayoaminika ya utafiti
+    expert: |
+      Unaweza:
+      - kuweka viwango vya taasisi vya kuficha utambulisho na kudhibiti ufichuzi
+      - kuhakikisha utoaji wa data wenye hatari kubwa na miradi ya uunganishaji
+      - kuongoza kazi na washirika kuhusu ufikiaji salama wa data kwa utafiti na mipango

@@ -1,0 +1,97 @@
+# Band outlines in Swahili. Keys are the English band ids.
+"1":
+  title: Daraja la 1
+  stage: Kuanza
+  knowledge: Ujuzi wa msingi wa kusoma, kuandika na kuhesabu; hujifunza kazi rahisi za kila siku kazini.
+  autonomy: Hufuata maelekezo wazi; kazi hukaguliwa mara kwa mara.
+  scope: Kazi zake za kila siku.
+  leadership: Hakuna.
+  accountability: Kukamilisha kazi za kila siku kwa usahihi.
+"2":
+  title: Daraja la 2
+  stage: Msaada
+  knowledge: Anajua taratibu na kawaida za eneo la kazi; anaweza kuwa na sifa ya awali ya elimu.
+  autonomy: Hufanya kazi kwa taratibu zilizowekwa, huku usimamizi ukipatikana.
+  scope: Kazi zake ndani ya timu.
+  leadership: Anaweza kuwaonyesha wafanyakazi wapya kazi za kila siku.
+  accountability: Ubora na wakati wa kukamilisha kazi zake za kila siku.
+"3":
+  title: Daraja la 3
+  stage: Msaada
+  knowledge: Ujuzi wa taratibu mbalimbali, baadhi zikiwa si za kawaida; kwa kawaida sifa ya kiwango cha 3 au uzoefu unaolingana.
+  autonomy: Hufanya kazi ndani ya taratibu; huamua jinsi ya kupanga kazi yake; hupeleka matatizo juu.
+  scope: Kazi yake na baadhi ya kazi za timu pana zaidi.
+  leadership: Anaweza kugawa kazi za kila siku au kuwafunza wengine taratibu.
+  accountability: Usahihi wa kazi yake na wa kumbukumbu anazotunza.
+"4":
+  title: Daraja la 4
+  stage: Msaada na mtaalamu wa ngazi ya kuanza
+  knowledge: Ujuzi wa kina wa eneo la kazi, kwa kawaida kutokana na stashahada, uanagenzi, au uzoefu unaolingana.
+  autonomy: Hufanya kazi ndani ya miongozo; hutatua matatizo mengi ya kila siku; meneja anapatikana kwa ushauri.
+  scope: Kazi yake na huduma au mchakato uliobainishwa.
+  leadership: Anaweza kusimamia timu ndogo au kuratibu kazi za wengine.
+  accountability: Utoaji wa huduma au mchakato uliobainishwa.
+"5":
+  title: Daraja la 5
+  stage: Mtaalamu
+  knowledge: Ujuzi wa kitaaluma au kiufundi, kwa kawaida kutokana na shahada au uzoefu unaolingana.
+  autonomy: Hufanya kazi kuelekea malengo mapana ndani ya viwango vya kitaaluma; hupanga kazi yake mwenyewe.
+  scope: Kazi yake ya kitaaluma ndani ya timu au bidhaa.
+  leadership: Anaweza kuwaongoza na kukagua kazi za wafanyakazi wa msaada na wanagenzi.
+  accountability: Ubora wa kazi yake ya kitaaluma.
+"6":
+  title: Daraja la 6
+  stage: Mtaalamu mwenye uzoefu
+  knowledge: Ujuzi maalumu katika taratibu mbalimbali, uliojengwa kwa mafunzo ya ziada au uzoefu.
+  autonomy: Hufanya kazi kwa kujitegemea; hufasiri sera kwa eneo lake; hutafuta ushauri kwa masuala magumu.
+  scope: Bidhaa, huduma, au mkondo wa kazi.
+  leadership: Anaweza kuongoza timu ndogo au kuwa mshauri wa wenzake.
+  accountability: Matokeo ya mkondo wake wa kazi na ubora wa ushauri anaotoa.
+"7":
+  title: Daraja la 7
+  stage: Mwandamizi au mtaalamu bingwa
+  knowledge: Ujuzi maalumu uliokuzwa sana, kwa kawaida hadi kiwango cha shahada ya uzamili au uzoefu unaolingana.
+  autonomy: Hufanya kazi kwa sera ya taasisi; huamua jinsi matokeo yanavyofikiwa; ndiye mtaalamu wanayemshauriana naye wengine.
+  scope: Bidhaa au huduma kadhaa, au kitengo maalumu.
+  leadership: Huongoza timu au eneo la mazoezi ya kitaaluma.
+  accountability: Utoaji wa huduma au kitengo maalumu, na bajeti yake ikiwa anaisimamia.
+8a:
+  title: Daraja la 8a
+  stage: Kiongozi
+  knowledge: Ujuzi wa kitaalamu wa taaluma na usimamizi wake.
+  autonomy: Hufasiri sera ya taasisi kwa huduma; huweka mwelekeo wa timu.
+  scope: Eneo la huduma au taaluma katika taasisi nzima.
+  leadership: Husimamia timu, au huongoza taaluma bila usimamizi wa moja kwa moja.
+  accountability: Eneo la huduma, wafanyakazi wake, na bajeti yake.
+8b:
+  title: Daraja la 8b
+  stage: Kiongozi
+  knowledge: Ujuzi wa kitaalamu katika taaluma kadhaa au huduma kubwa.
+  autonomy: Huunda sera na mkakati wa eneo kubwa.
+  scope: Huduma au timu kadhaa, au taaluma ya ngazi ya juu kabisa.
+  leadership: Husimamia mameneja, au ni mamlaka kuu katika taaluma.
+  accountability: Huduma kadhaa, wafanyakazi wake, na bajeti zake.
+8c:
+  title: Daraja la 8c
+  stage: Kiongozi mwandamizi
+  knowledge: Ujuzi wa kitaalamu, pamoja na uelewa mpana wa taasisi na sekta.
+  autonomy: Huweka mkakati wa kitengo; anawajibika kwa mkurugenzi.
+  scope: Kitengo au idara.
+  leadership: Huongoza kitengo kupitia ngazi kadhaa za usimamizi.
+  accountability: Utendaji wa kitengo, nguvu kazi yake, na bajeti yake.
+8d:
+  title: Daraja la 8d
+  stage: Kiongozi mwandamizi
+  knowledge: Ujuzi wa kimkakati katika vitengo mbalimbali na mfumo mpana wa afya na huduma.
+  autonomy: Huunda mkakati wa taasisi nzima; humwakilisha mkurugenzi.
+  scope: Kitengo kikubwa au vitengo kadhaa.
+  leadership: Huongoza vitengo kadhaa au idara kubwa.
+  accountability: Vitengo vikubwa, bajeti kubwa, na hatari za taasisi nzima.
+"9":
+  title: Daraja la 9
+  stage: Mkuu wa taaluma au mkurugenzi
+  knowledge: Utaalamu wa kimkakati na uongozi wa mfumo mzima.
+  autonomy: Huweka mkakati wa taasisi pamoja na timu ya watendaji wakuu.
+  scope: Taasisi, na washirika wake katika mfumo mzima.
+  leadership: Huongoza taaluma au kurugenzi.
+  accountability: Matokeo, bajeti, na hatari za taasisi nzima.

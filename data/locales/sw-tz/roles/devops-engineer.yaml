@@ -1,0 +1,67 @@
+summary: Wahandisi wa DevOps hujenga na kuendesha zana, mifereji, mazingira na majukwaa yanayoziwezesha timu za taasisi kutoa huduma za afya za kidijitali kwa usalama na mara kwa mara. Huendesha kiotomatiki ujenzi, majaribio, matoleo na miundombinu, hufanya huduma zionekane na kustahimili, na kuzisaidia timu kuweka mifumo ya kitabibu ikipatikana wagonjwa na madaktari wanapoihitaji.
+health_context:
+- Huduma nyingi zinaunga mkono matunzo saa nzima, hivyo usambazaji, ufuatiliaji na urejeshaji lazima vipunguze muda wa kutopatikana, ikiwemo nje ya saa za kazi.
+- Mifereji ya matoleo hutoa ushahidi kwa hoja za usalama wa kitabibu, kama vile matokeo ya majaribio, kumbukumbu za mabadiliko na toleo kamili lililosambazwa.
+- Mazingira yanaweza kushikilia taarifa za siri za afya, hivyo wahandisi hudhibiti ufikiaji, hulinda siri na kuweka data halisi nje ya mazingira ya majaribio.
+- Huduma za afya ni walengwa wa kawaida wa mashambulizi ya mtandao, hivyo mifereji na majukwaa hujenga ndani uchanganuzi wa usalama, uwekaji wa marekebisho na nakala rudufu zilizojaribiwa.
+- Baadhi ya huduma lazima zitimize viwango vikali vya upatikanaji na urejeshaji baada ya maafa, vilivyokubaliwa na viongozi wa kitabibu na wa kiutendaji.
+levels:
+- title: Mhandisi mwanagenzi wa DevOps
+  responsibilities:
+  - Kujifunza mifereji, majukwaa ya wingu na zana za timu kupitia mafunzo yaliyopangwa na kuwafuata wenye uzoefu.
+  - Kufanya mabadiliko madogo yaliyobainishwa vizuri kwenye hati, mifereji na usanidi chini ya usimamizi wa karibu.
+  - Kufuata taratibu za mabadiliko, usalama na usimamizi wa taarifa kwa kila mazingira.
+  - Kusaidia kufuatilia huduma na kuripoti tahadhari kwa wenzake wenye uzoefu.
+  - Kujitahidi kupata uanagenzi au sifa inayolingana.
+  qualifications:
+  - Amesajiliwa katika, au anaelekea kukamilisha, uanagenzi wa DevOps, programu au miundombinu au unaolingana nao.
+  job_evaluation_notes: Maarifa yamepewa alama ya kiwango ambacho kazi inahitaji mara mafunzo yanapokuwa yamekamilika vya kutosha kufanya kazi.
+- title: Mhandisi mdogo wa DevOps
+  responsibilities:
+  - Kujenga na kutunza sehemu za mifereji ya ujenzi, majaribio na usambazaji kwa mwongozo.
+  - Kuandika miundombinu kama msimbo na hati za uendeshaji kiotomatiki, na kuzijaribu kabla ya matumizi.
+  - Kuweka mazingira ya majaribio bila data halisi za wagonjwa na kusimamia siri kwa usalama.
+  - Kujibu tahadhari za ufuatiliaji na kusaidia majibu kwa matukio kwa mwongozo.
+  - Kurekodi usambazaji na mabadiliko ili yaunge mkono usalama wa kitabibu na ushahidi wa ukaguzi.
+  qualifications:
+  - Shahada katika kompyuta au somo linalohusiana, uanagenzi uliokamilika, au uzoefu unaolingana.
+  job_evaluation_notes: UK GDaD PCF inapendekeza Daraja la 4 kwa ngazi zote mbili za mwanagenzi na mdogo; marejeleo haya yanaweka ngazi ya mdogo katika Daraja la 5 ili kuepuka ngazi mbili katika daraja moja, kwa sababu kazi inajenga vijenzi vya mifereji kwa usimamizi mdogo.
+- title: Mhandisi wa DevOps
+  responsibilities:
+  - Kubuni na kujenga mifereji, mazingira na vijenzi vya jukwaa kwa kujitegemea.
+  - Kuendesha kiotomatiki ukaguzi wa usalama, kama vile uchanganuzi wa utegemezi na vyombo, na kuchukua hatua juu ya matokeo.
+  - Kujenga ufuatiliaji, uandishi wa kumbukumbu na tahadhari ili timu ziyaone matatizo kabla hayajaathiri wagonjwa na wafanyakazi.
+  - Kupanga na kujaribu nakala rudufu, kuhamia mfumo mbadala na urejeshaji kwa huduma zinazounga mkono matunzo.
+  - Kuchunguza na kurekebisha matatizo katika huduma za moja kwa moja, ikiwemo msaada nje ya saa za kazi pale huduma inapohitaji.
+  - Kuwa mshauri wa wahandisi wadogo na wanagenzi wa DevOps.
+  qualifications:
+  - Shahada katika kompyuta au somo linalohusiana, au uzoefu unaolingana.
+  - Uzoefu wa kujenga na kuendesha mifereji ya utoaji ya kiotomatiki na miundombinu ya wingu.
+- title: Mhandisi mwandamizi wa DevOps
+  responsibilities:
+  - Kuongoza usanifu wa mnyororo wa zana za utoaji na jukwaa kwa bidhaa au kundi la huduma.
+  - Kuweka viwango vya matoleo, ili usambazaji kwa huduma za kitabibu uweze kurudiwa, kubatilishwa na kuwa na ushahidi mzuri.
+  - Kukubaliana malengo ya upatikanaji, muda wa kurejesha na hatua ya kurejesha na wamiliki wa huduma na viongozi wa kitabibu, na kubuni kuyatimiza.
+  - Kuongoza majibu ya kiufundi kwa matukio na mapitio baada ya matukio kwa majukwaa ambayo timu inaendesha.
+  - Kuhakikisha majukwaa yanatimiza mahitaji ya usalama na usimamizi wa taarifa, ikiwemo udhibiti wa ufikiaji na uandishi wa kumbukumbu za ukaguzi.
+  - Kuwaongoza na kuwaendeleza wahandisi wa DevOps katika timu.
+  qualifications:
+  - Uzoefu mkubwa wa kubuni na kuendesha minyororo ya zana za utoaji na majukwaa, katika kiwango kinacholingana na shahada ya uzamili.
+- title: Mhandisi kiongozi wa DevOps
+  responsibilities:
+  - Kuongoza uhandisi wa DevOps na wa jukwaa kwa kundi la timu, akiwa mmiliki wa kiufundi wa jukwaa linaloshirikiwa.
+  - Kuweka ramani ya njia ya muda wa kati kwa zana za utoaji, uhifadhi na ufuatiliaji wa taasisi.
+  - Kuhakikisha majukwaa yanayoshirikiwa ni thabiti, salama na yanaweza kutimiza mahitaji ya upatikanaji ya huduma za kitabibu.
+  - Kusimamia gharama na uwezo wa jukwaa pamoja na idara ya fedha na wamiliki wa huduma.
+  - Kuongoza jumuiya ya mazoezi ya DevOps na kusimamia moja kwa moja au kuongoza wahandisi wa DevOps.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uhandisi wa DevOps au wa jukwaa kwa huduma tata.
+- title: Mhandisi mkuu wa DevOps
+  responsibilities:
+  - Kuweka mkakati wa jinsi taasisi inavyojenga, kutoa matoleo, kuhifadhi na kuendesha huduma zake za afya za kidijitali.
+  - Kuwashauri viongozi wakuu kuhusu uhifadhi, ustahimilivu, usalama wa mtandao na uwekezaji wa jukwaa.
+  - Kuhakikisha mipango ya mwendelezo wa biashara na urejeshaji baada ya maafa kwa huduma muhimu za kitabibu ni halisi na imejaribiwa.
+  - Kutathmini na kuhimiza teknolojia na mazoezi mapya, akisawazisha uvumbuzi dhidi ya usalama na uthabiti.
+  - Kukuza uwezo wa DevOps wa taasisi, ikiwemo uajiri, njia za taaluma na mipango ya ujuzi.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uhandisi wa DevOps na wa jukwaa katika timu au taasisi nyingi.

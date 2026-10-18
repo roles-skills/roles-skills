@@ -1,0 +1,52 @@
+summary: Wasanifu wa taasisi huipa taasisi mtazamo ulioungana wa huduma, taarifa, programu na teknolojia zake, na kuutumia kugeuza mkakati wa afya na matunzo kuwa mpango thabiti wa mabadiliko. Huweka kanuni za usanifu, viwango na ramani za njia, huongoza maamuzi ya uwekezaji, na kuhakikisha mabadiliko ya kidijitali yanaunga mkono matunzo salama na yaliyounganishwa kwa wagonjwa katika taasisi mbalimbali.
+health_context:
+- Njia za matunzo huvuka taasisi na mifumo mingi, hivyo usanifu lazima uunge mkono ushirikishaji wa kumbukumbu, matokeo na rufaa kuvuka mipaka.
+- Mkusanyiko mara nyingi hujumuisha mifumo ya kitabibu ya muda mrefu, vifaa tiba na mikataba ya wasambazaji ambayo ni vigumu kubadilisha, hivyo ramani za njia lazima zipange mpito kwa uangalifu.
+- Maamuzi ya usanifu huathiri usalama wa mgonjwa, faragha na ustahimilivu wa huduma zinazofanya kazi saa nzima.
+- Viwango huria kama HL7 FHIR, SNOMED CT na wasifu wa IHE ni muhimu ili kuepuka kufungwa kwa muuzaji mmoja na kuwezesha ushirikiano wa mifumo.
+- Ufadhili una vikwazo na unachunguzwa kwa karibu, hivyo wasanifu lazima waonyeshe thamani ya fedha na utumiaji tena wa majukwaa yanayoshirikiwa pale yanapokuwepo.
+levels:
+- title: Msanifu wa taasisi
+  responsibilities:
+  - Kuunda miundo ya huduma, taarifa, programu na teknolojia za sasa na lengwa za taasisi kwa eneo, kama vile uchunguzi wa kitabibu au matunzo ya jamii.
+  - Kuweka hazina ya usanifu ikiwa ya kisasa, ikiwemo katalogi za programu na mtiririko wa data.
+  - Kukagua mapendekezo dhidi ya kanuni na viwango vya usanifu, na kutoa mapendekezo kwa mamlaka za usanifu.
+  - Kutambua mahali mifumo inapojirudia uwezo au kutegemea teknolojia isiyoungwa mkono, na kuibua hatari.
+  - Kufanya kazi na wasanifu wa suluhisho na viongozi wa kitabibu kuelewa jinsi njia za matunzo zinavyotumia mifumo.
+  - Kuwaongoza wasanifu wa suluhisho jinsi miundo inavyolingana na usanifu wa eneo.
+  qualifications:
+  - Uzoefu mkubwa wa usanifu, uchambuzi au usanifu wa kiufundi katika taasisi tata, katika kiwango kinacholingana na shahada ya uzamili.
+  - Ujuzi wa mfumo wa usanifu wa taasisi, kama vile TOGAF, au uzoefu unaolingana.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 6): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 8a. Maarifa, uchambuzi, mipango, sera na uhuru wa kutenda vimepewa alama za wasifu wa Daraja la 8a kwa sababu kazi inaunda usanifu lengwa na kushauri mamlaka za usanifu kwa eneo zima."
+- title: Msanifu mwandamizi wa taasisi
+  responsibilities:
+  - Kuendeleza usanifu lengwa na ramani za njia za mpito kwa eneo moja au zaidi la taasisi.
+  - Kuunda hoja za kibiashara ili uwekezaji ulingane na usanifu lengwa na kutumia tena majukwaa yanayoshirikiwa.
+  - Kuongoza ukaguzi wa usanifu katika mamlaka za usanifu na kutoa mapendekezo kuhusu mapendekezo muhimu.
+  - Kupanga kubadilisha au kustaafisha mifumo ya zamani ya kitabibu na ya kampuni, ikiwemo uhamishaji wa data na hatari za usalama.
+  - Kuhakikisha mahitaji ya ushirikiano wa mifumo, usalama na usimamizi wa taarifa yanajengwa ndani ya ramani za njia.
+  - Kuwaongoza wasanifu wa taasisi na wa suluhisho.
+  qualifications:
+  - Uzoefu mpana wa usanifu wa taasisi au wa suluhisho katika maeneo kadhaa.
+  - Ujuzi wa mfumo wa usanifu wa taasisi, kama vile TOGAF, au uzoefu unaolingana.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 7): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 8b. Mipango ni kiwango cha 5 kwa ramani za njia za muda mrefu zenye athari katika taasisi nzima; maarifa ni kiwango cha 8 kwa maarifa ya usanifu wa biashara, taarifa, programu na teknolojia."
+- title: Msanifu kiongozi wa taasisi
+  responsibilities:
+  - Kumiliki usanifu wa taasisi kwa sehemu kubwa ya taasisi, kama vile mifumo ya kitabibu au miundombinu inayoshirikiwa.
+  - Kuongoza au kuwa mwenyekiti wa mamlaka ya usanifu na kuweka viwango ambavyo miradi lazima itimize.
+  - Kuwashauri wakurugenzi kuhusu vipaumbele vya uwekezaji, mkakati wa wasambazaji na hatari za teknolojia.
+  - Kufanya kazi na taasisi washirika kuoanisha usanifu katika njia za matunzo na kumbukumbu zinazoshirikiwa.
+  - Kuongoza na kuendeleza wasanifu wa taasisi na kukuza jumuiya ya mazoezi ya usanifu.
+  qualifications:
+  - Uzoefu mpana wa usanifu wa taasisi katika taasisi tata.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 8b): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 8c. Rasilimali za taarifa ni kiwango cha 6 kwa sababu kazi inasimamia usanifu wa mifumo ya taarifa katika sehemu kubwa ya taasisi; sera na watu viko juu ya wasifu wa Daraja la 8b kwa sababu inaweka viwango kwa miradi yote na kuongoza wasanifu wa taasisi."
+- title: Msanifu mkuu wa taasisi
+  responsibilities:
+  - Kuweka maono, kanuni na mkakati wa usanifu wa taasisi, ulioambatana na mkakati wake wa afya na matunzo.
+  - Kuishauri timu ya watendaji na bodi kuhusu usanifu, hatari na thamani ya uwekezaji mkubwa wa kidijitali.
+  - Kuongoza mazoezi ya usanifu, usimamizi na viwango vya taasisi.
+  - Kuiwakilisha taasisi katika majukwaa ya usanifu na ushirikiano wa mifumo ya taasisi mbalimbali.
+  - Kujenga uwezo wa usanifu katika taasisi, ikiwemo uajiri na njia za taaluma.
+  qualifications:
+  - Uzoefu mpana wa kuongoza usanifu wa taasisi katika taasisi mbalimbali.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 8c): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 8d. Sera na uhuru wa kutenda ni kiwango cha 6 kwa sababu kazi inashikilia wajibu wa kitaasisi kwa maono, kanuni na mkakati wa usanifu wa taasisi."

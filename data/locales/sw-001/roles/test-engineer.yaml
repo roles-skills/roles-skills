@@ -1,0 +1,46 @@
+summary: Wahandisi wa majaribio hujenga majaribio ya kiotomatiki, zana na mifumo inayoziwezesha timu kujaribu huduma za afya za kidijitali za taasisi haraka na mara kwa mara. Huandika msimbo wa kujaribu kazi, miunganisho, utendaji, usalama na ustahimilivu, na hujenga majaribio ndani ya mifereji ya utoaji, ili mabadiliko ya mifumo ya kitabibu na inayowalenga wagonjwa yaweze kutolewa kwa usalama.
+health_context:
+- Mifumo ya kitabibu ni muhimu kwa usalama, hivyo majaribio ya kiotomatiki ya urejeshaji hulinda udhibiti wa usalama uliorekodiwa katika kumbukumbu za hatari na huhifadhiwa kama ushahidi kwa hoja za usalama.
+- Miunganisho na mifumo mingine ya afya na matunzo inahitaji majaribio ya kiotomatiki dhidi ya viwango kama HL7 FHIR na HL7 toleo la 2, mara nyingi kwa kutumia mifumo ya washirika ya kuigwa.
+- Huduma za kitabibu hufanya kazi saa nzima na hufikia kilele nyakati zinazotabirika, hivyo majaribio ya utendaji na ustahimilivu huiga mahitaji halisi ya kitabibu.
+- Mazingira ya majaribio hayapaswi kushikilia data halisi za wagonjwa, hivyo wahandisi huzalisha data bandia zinazofanana na halisi, ikiwemo visa adimu na vya pembezoni vya kitabibu.
+- Programu inayodhibitiwa kama kifaa tiba inahitaji majaribio yanayofuatilika na yanayoweza kurudiwa kama sehemu ya mzunguko wake wa maisha chini ya viwango kama IEC 62304.
+levels:
+- title: Mhandisi msaidizi wa majaribio
+  responsibilities:
+  - Kuandika na kutunza majaribio rahisi ya kiotomatiki chini ya usimamizi, akifuata viwango vya uhandisi vya timu.
+  - Kuendesha majaribio ya kiotomatiki na ya mikono na kurekodi matokeo kwa usahihi.
+  - Kusaidia kuchunguza na kuripoti kasoro, ikiwemo katika miunganisho na mifumo ya kitabibu.
+  - Kutumia data bandia za majaribio na kufuata kanuni za usimamizi wa taarifa katika mazingira ya majaribio.
+  - Kujifunza zana za majaribio za timu, mazoezi ya msimbo na mchakato wa usalama wa kitabibu.
+  qualifications:
+  - Uzoefu fulani wa kuandika msimbo au majaribio, au usajili katika uanagenzi husika, au unaolingana.
+- title: Mhandisi wa majaribio
+  responsibilities:
+  - Kubuni na kujenga majaribio ya kiotomatiki ya kiutendaji, ya uunganishaji na ya API kwa huduma za kitabibu na zinazowalenga wagonjwa.
+  - Kujenga majaribio yanayokagua ujumbe dhidi ya wasifu wa HL7 FHIR na vipimo vingine vya ushirikiano wa mifumo.
+  - Kuzalisha data bandia za wagonjwa zinazojumuisha visa halisi na vya pembezoni vya kitabibu.
+  - Kuongeza majaribio kwenye mifereji ya utoaji ili ukaguzi unaohusu usalama uendeshwe kwa kila badiliko.
+  - Kukadiria juhudi za majaribio, kuripoti matokeo, na kusaidia utatuzi wa kasoro.
+  qualifications:
+  - Shahada katika kompyuta au somo linalohusiana, au uzoefu unaolingana.
+  - Uzoefu wa kujenga majaribio ya kiotomatiki.
+- title: Mhandisi mwandamizi wa majaribio
+  responsibilities:
+  - Kuongoza uhandisi wa majaribio kwa eneo, akichagua zana, mifumo na aina za majaribio zinazoshughulikia hatari zake mapema.
+  - Kujenga mifumo ya majaribio inayoweza kutumika tena na viigaji kwa mifumo ya kitabibu na miunganisho ya washirika.
+  - Kupanga na kuendesha majaribio ya utendaji, mzigo na ustahimilivu kulingana na mahitaji halisi ya kitabibu.
+  - Kuhakikisha majaribio ya kiotomatiki yanafuatiliwa hadi hatari na udhibiti wa usalama na kutoa ushahidi kwa hoja za usalama.
+  - Kuwaongoza wahandisi wengine wa majaribio, na kukubaliana viwango vya uhandisi na wasanidi.
+  qualifications:
+  - Uzoefu mkubwa wa uhandisi wa majaribio, katika kiwango kinacholingana na shahada ya uzamili.
+- title: Mhandisi kiongozi wa majaribio
+  responsibilities:
+  - Kuweka mkakati na viwango vya uhandisi wa majaribio katika eneo pana, ikiwemo majaribio endelevu katika mifereji ya utoaji.
+  - Kuongoza na kuwaongoza wahandisi wa majaribio na timu katika mazoezi ya uhandisi wa ubora.
+  - Kuhakikisha majaribio ya programu inayodhibitiwa na inayohusu usalama yanatimiza viwango vinavyohitajika na yanafuatilika.
+  - Kupeleka juu hatari za ubora na usalama kwa viongozi waandamizi wa bidhaa, wa kitabibu na wa wasambazaji.
+  - Kupata fursa za kujaribu mapema na mara nyingi zaidi, na kupima athari kwa ubora.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uhandisi wa majaribio kwa huduma tata.
+  job_evaluation_notes: UK GDaD PCF inapendekeza SEO hadi G6 kwa ngazi hii, ambayo inalingana na Daraja la 7, daraja lile lile la mhandisi mwandamizi wa majaribio. Marejeleo haya yanaiweka katika Daraja la 8a, kwa sababu inaweka mkakati na viwango vya uhandisi wa majaribio katika eneo pana.

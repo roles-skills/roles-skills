@@ -1,0 +1,59 @@
+summary: Wataalamu wa informatiki ya kitabibu ni madaktari waliosajiliwa, kama vile madaktari, wauguzi, wafamasia na wataalamu wa afya washirika, wanaotumia maarifa yao ya kitabibu kuunda huduma za afya za kidijitali za taasisi. Huhakikisha kwamba mifumo ya kitabibu, data na usaidizi wa maamuzi vinalingana na jinsi matunzo yanavyotolewa, ni salama kutumia, na vinaboresha matokeo kwa wagonjwa na uzoefu wa madaktari na wafanyakazi wa matunzo.
+health_context:
+- Nafasi hii inahitaji maarifa ya sasa ya kitabibu, hivyo nafasi nyingi zinahitaji usajili na chombo cha kitaaluma cha kitabibu na mazoezi fulani yanayoendelea ya kitabibu.
+- Wataalamu wa informatiki ya kitabibu hutoa ushauri maalumu kuhusu jinsi mifumo inavyoathiri matunzo ya wagonjwa, hivyo uamuzi wao huathiri moja kwa moja usalama wa mgonjwa.
+- Hufanya kazi kwa karibu na maafisa wa usalama wa kitabibu, wakichangia utaalamu wa kitabibu katika utambuzi wa hatari na hoja za usalama.
+- Data nzuri za kitabibu hutegemea matumizi thabiti ya istilahi za kitabibu kama SNOMED CT, hivyo husaidia kubuni kumbukumbu zilizopangwa na usaidizi wa maamuzi.
+- Hufanya kazi kama daraja kati ya madaktari, wafanyakazi wa matunzo na timu za kidijitali, na mara nyingi huongoza ushirikishaji wa kitabibu kwa mabadiliko ya mifumo.
+levels:
+- title: Mtaalamu wa informatiki ya kitabibu
+  summary: Huleta utaalamu wa kitabibu katika usanifu, usanidi, majaribio na kupitishwa kwa mifumo ya kitabibu, akifanya kazi ndani ya timu ya bidhaa au programu chini ya mwongozo wa mtaalamu mwandamizi wa informatiki ya kitabibu.
+  responsibilities:
+  - Kuchora ramani za mtiririko wa kazi za kitabibu pamoja na madaktari na wafanyakazi wa matunzo na kuzigeuza kuwa mahitaji wazi.
+  - Kubuni na kujaribu maudhui ya mfumo kama vile fomu, seti za maagizo na mipango ya matunzo dhidi ya matukio ya kitabibu.
+  - Kushiriki katika warsha za hatari na kutoa maoni ya kitabibu kuhusu hatari na udhibiti.
+  - Kuwasaidia madaktari na wafanyakazi wa matunzo kupitisha mifumo mipya kwa usalama, ikiwemo mafunzo na msaada wa kuanza kutumia.
+  - Kukagua kama data za kitabibu zinarekodiwa kwa uthabiti kwa kutumia istilahi za kitabibu zilizokubaliwa.
+  - Kukusanya maoni na data kuhusu matumizi ya mfumo na kupendekeza maboresho.
+  qualifications:
+  - Usajili wa sasa na chombo cha kitaaluma cha kitabibu, wenye uzoefu wa mazoezi ya kitabibu.
+  - Uzoefu wa kutumia mifumo ya kitabibu katika mazoezi, au uzoefu unaolingana wa mabadiliko ya kidijitali.
+  job_evaluation_notes: Huduma kwa wagonjwa imepewa alama ya kiwango cha 4 kwa sababu kazi inashauri kuhusu matunzo ya wagonjwa kupitia usanifu wa mifumo ya kitabibu. Juhudi za kihisia zinaakisi ukaguzi wa mara kwa mara wa kumbukumbu za kitabibu na matukio.
+- title: Mtaalamu mwandamizi wa informatiki ya kitabibu
+  summary: Huongoza mchango wa kitabibu kwa mfumo mkubwa wa kitabibu, bidhaa au programu, akitoa ushauri maalumu kuhusu jinsi huduma za kidijitali zinavyoathiri matunzo na usalama wa mgonjwa.
+  responsibilities:
+  - Kuongoza usanifu wa kitabibu wa mfumo mkubwa wa kitabibu au bidhaa, akiweka viwango vya maudhui na usanidi.
+  - Kutoa ushauri maalumu kwa timu za bidhaa kuhusu mtiririko wa kazi za kitabibu, usaidizi wa maamuzi na usalama.
+  - Kufanya kazi na afisa wa usalama wa kitabibu kutambua hatari, kukubaliana udhibiti na kutoa ushahidi wa kitabibu kwa hoja za usalama.
+  - Kuongoza ushirikishaji wa kitabibu na kupitishwa katika huduma zote, akihimiza matumizi salama miongoni mwa wenzake wa kitabibu.
+  - Kupanga na kufanya tathmini na ukaguzi wa kitabibu wa matumizi na manufaa ya mfumo.
+  - Kuwa mshauri wa wataalamu wa informatiki ya kitabibu na madaktari wapya kwenye kazi ya kidijitali.
+  qualifications:
+  - Usajili wa sasa na chombo cha kitaaluma cha kitabibu, wenye uzoefu mkubwa wa kitabibu.
+  - Sifa ya uzamili katika informatiki ya kitabibu au ya afya, au uzoefu unaolingana.
+  job_evaluation_notes: Huduma kwa wagonjwa imepewa alama ya kiwango cha 5 kwa ushauri maalumu kuhusu matunzo ya wagonjwa. Utafiti ni kiwango cha 3 kwa sababu tathmini na ukaguzi wa kitabibu wa mifumo ni sehemu kuu ya kazi.
+- title: Mtaalamu kiongozi wa informatiki ya kitabibu
+  summary: Huongoza informatiki ya kitabibu kwa jalada la mifumo ya kitabibu au mazingira ya matunzo, akiweka viwango vya usanifu wa kitabibu na kuongoza timu ya wataalamu wa informatiki ya kitabibu.
+  responsibilities:
+  - Kuweka viwango na kanuni za usanifu wa kitabibu kwa mifumo ya kitabibu katika jalada.
+  - Kuongoza timu ya wataalamu wa informatiki ya kitabibu, akiweka vipaumbele na kuunga mkono maendeleo yao ya kitaaluma.
+  - Kushauri bodi za programu na viongozi wakuu kuhusu hatari, manufaa na vipaumbele vya kitabibu vya mifumo ya kitabibu.
+  - Kuongoza maamuzi ya kitabibu kuhusu usaidizi wa maamuzi, tahadhari na data zilizopangwa katika huduma zote.
+  - Kujenga mitandao ya mabingwa wa kitabibu na kuongoza ushirikishaji wa kitabibu kwa mabadiliko makubwa.
+  - Kuagiza na kuongoza tathmini na kutumia ushahidi kuunda ramani ya njia.
+  qualifications:
+  - Usajili wa sasa na chombo cha kitaaluma cha kitabibu, wenye uzoefu mpana wa kitabibu.
+  - Sifa ya uzamili katika informatiki ya kitabibu au ya afya, au uzoefu unaolingana wa kuongoza kazi ya informatiki ya kitabibu.
+- title: Mkuu wa informatiki ya kitabibu
+  summary: Huongoza kitengo cha informatiki ya kitabibu cha taasisi na mamlaka yake ya usanifu wa kitabibu, akihakikisha mifumo yote ya kitabibu inabuniwa, inapitishwa na kuboreshwa kwa uongozi imara wa kitabibu.
+  responsibilities:
+  - Kuweka mkakati wa informatiki ya kitabibu na kuongoza mamlaka ya usanifu wa kitabibu ya taasisi.
+  - Kuongoza na kuendeleza kitengo cha informatiki ya kitabibu, ikiwemo mpango wake wa nguvu kazi na bajeti.
+  - Kutoa ushauri maalumu sana kwa timu ya watendaji kuhusu athari za uwekezaji wa kidijitali kwa matunzo ya wagonjwa.
+  - Kuhakikisha mifumo ya kitabibu inatimiza viwango vya usalama wa kitabibu, istilahi na data.
+  - Kuiwakilisha taasisi kwa washirika wa afya na matunzo, vyombo vya kitaaluma na mitandao ya kitaaluma ya vyuo.
+  - Kuongoza ushirikiano wa utafiti na tathmini kujenga ushahidi kwa afya ya kidijitali.
+  qualifications:
+  - Usajili wa sasa na chombo cha kitaaluma cha kitabibu, wenye uzoefu mpana wa kitabibu na wa uongozi.
+  - Shahada ya uzamili katika informatiki ya kitabibu au ya afya, au uzoefu unaolingana wa kuongoza informatiki ya kitabibu katika ngazi ya taasisi.
+  job_evaluation_notes: Huduma kwa wagonjwa imepewa alama ya kiwango cha 6 kwa ushauri maalumu sana kuhusu matunzo ya wagonjwa katika mifumo ya kitabibu ya taasisi.

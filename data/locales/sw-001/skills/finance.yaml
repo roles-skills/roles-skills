@@ -1,0 +1,273 @@
+# Swahili translations of data/skills/finance.yaml. Keys are the English skill ids.
+fin-financial-transactions:
+  name: Miamala ya fedha na leja
+  description: Kuchakata na kurekodi ankara, malipo, risiti, majarida ya hesabu na ulinganisho wa hesabu kwa usahihi katika leja, kwa kufuata udhibiti wa fedha.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza michakato ya kununua-hadi-kulipa na kuagiza-hadi-kupokea fedha na sehemu yako ndani yake
+      - kuingiza ankara, risiti na malipo kwa usahihi, ukifuata taratibu zilizowekwa
+      - kukagua kama muamala una idhini sahihi na nyaraka za kuunga mkono
+    working: |
+      Unaweza:
+      - kuchakata miamala mbalimbali, ikiwemo hati za mkopo, marejesho na majarida ya hesabu
+      - kulinganisha taarifa za wasambazaji, akaunti za benki na akaunti za udhibiti
+      - kutatua maswali ya kawaida kutoka kwa wasambazaji, wateja na wamiliki wa bajeti
+      - kutambua miamala iliyorudiwa, isiyo ya kawaida au isiyoidhinishwa na kuyaibua
+    practitioner: |
+      Unaweza:
+      - kusimamia leja au mchakato wa miamala na kuuweka sahihi na wa kisasa
+      - kuchunguza na kusafisha vipengee tata vya ulinganisho na salio la zamani
+      - kuboresha michakato ya miamala, kwa mfano kwa kuendesha kiotomatiki ulinganishaji au idhini
+      - kuwafunza wafanyakazi wengine na kukagua kazi zao
+    expert: |
+      Unaweza:
+      - kubuni michakato ya miamala ya taasisi na udhibiti ndani yake
+      - kuweka viwango vya utendaji, kama vile muda wa malipo na malengo ya kukusanya madeni
+      - kuongoza mpito kuelekea njia mpya za uchakataji, kama vile uendeshaji wa kiotomatiki na huduma binafsi
+      - kuwahakikishia viongozi wakuu na wakaguzi kwamba leja zimekamilika na ni sahihi
+fin-financial-reporting:
+  name: Kuripoti fedha na hesabu za kisheria
+  description: Kuandaa taarifa sahihi za fedha na ritani za kisheria zinazofuata viwango vya uhasibu vinavyotumika na kanuni za kuripoti za sekta ya umma.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kusudi la taarifa kuu za fedha
+      - kuandaa karatasi za kazi na ulinganisho unaounga mkono kufunga mwezi na mwaka
+    working: |
+      Unaweza:
+      - kuandaa maingizo ya mwisho wa mwezi na mwisho wa mwaka, kama vile gharama zilizokusanywa, malipo ya awali na makadirio ya akiba
+      - kuandaa sehemu za hesabu za mwaka na maelezo yanayoziunga mkono
+      - kutumia viwango vya uhasibu kwenye miamala ya kawaida, kama vile kuweka programu na vifaa kama mali
+    practitioner: |
+      Unaweza:
+      - kuandaa hesabu za mwaka na ritani za kisheria kwa kufuata ratiba
+      - kutumia viwango vya uhasibu kwenye maeneo tata, kama vile ukodishaji, mipango ya kompyuta ya wingu na mali zisizoshikika
+      - kuandika karatasi za uhasibu zinazoeleza hukumu na makadirio
+      - kusimamia ukaguzi wa nje wa hesabu na kujibu matokeo
+    expert: |
+      Unaweza:
+      - kumiliki ripoti na hesabu za mwaka za taasisi na sera za uhasibu zilizo nyuma yake
+      - kuishauri bodi na kamati ya ukaguzi kuhusu hukumu muhimu na viwango vipya
+      - kuongoza majibu kwa maoni ya ukaguzi yenye masharti au makosa makubwa ya kuripoti
+      - kuhakikisha kuripoti kunatimiza kanuni za uwajibikaji wa umma
+fin-management-accounting:
+  name: Uhasibu wa usimamizi
+  description: Kutoa taarifa za bajeti na gharama zinazowasaidia mameneja kupanga, kudhibiti na kufanya maamuzi, ikiwemo uchambuzi wa tofauti, ukadiriaji wa gharama na kuripoti utendaji.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza bajeti, matumizi halisi, ahadi za matumizi na tofauti
+      - kutoa ripoti za kawaida za bajeti kutoka kwenye mfumo wa fedha
+    working: |
+      Unaweza:
+      - kuandaa ripoti za bajeti za kila mwezi na kueleza tofauti kuu
+      - kuweka misimbo ya gharama kwa usahihi kati ya vituo vya gharama, miradi, na mtaji na matumizi ya kawaida
+      - kuwasaidia wamiliki wa bajeti kuelewa na kusimamia bajeti zao
+    practitioner: |
+      Unaweza:
+      - kusimamia mzunguko wa kuripoti wa kila mwezi kwa kurugenzi au programu
+      - kujenga miundo ya gharama, kama vile gharama kamili ya huduma ya kidijitali au gharama ya kila kipimo cha muamala
+      - kuchambua mwelekeo wa matumizi na kuwashauri mameneja kuhusu hatua za kubaki ndani ya bajeti
+      - kuwapinga wamiliki wa bajeti kwa njia ya kujenga kuhusu makadirio yao
+    expert: |
+      Unaweza:
+      - kubuni mtazamo wa taasisi wa kuripoti kwa usimamizi na ukadiriaji wa gharama
+      - kuwasilisha utendaji wa fedha kwa bodi na viongozi wakuu
+      - kuongoza matumizi ya taarifa za gharama na utendaji kuboresha thamani ya fedha
+      - kuweka viwango vya uhasibu wa usimamizi katika taasisi nzima
+fin-financial-planning-and-forecasting:
+  name: Mipango ya fedha na utabiri
+  description: Kujenga bajeti, utabiri na mipango ya fedha ya muda wa kati inayounganisha fedha na vipaumbele na programu za taasisi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza mzunguko wa kila mwaka wa kuweka bajeti na tofauti kati ya bajeti na utabiri
+      - kukusanya taarifa za utabiri kutoka kwa wamiliki wa bajeti
+    working: |
+      Unaweza:
+      - kujenga bajeti na utabiri kwa kituo cha gharama au mradi, ikiwemo gharama za wafanyakazi
+      - kusasisha utabiri kila mwezi kwa mabadiliko na hatari zinazojulikana
+      - kugawa bajeti kwa vipindi ili wasifu wa matumizi ulingane na mipango ya utoaji
+    practitioner: |
+      Unaweza:
+      - kuongoza uwekaji bajeti na utabiri kwa kurugenzi au programu kubwa
+      - kuunda miundo ya matukio na unyeti, kama vile mfumuko wa bei, ucheleweshaji au mabadiliko ya ufadhili
+      - kujenga utabiri wa miaka mingi kwa programu za kidijitali, ikiwemo gharama za uendeshaji zinazofuata uwekezaji
+      - kuwasilisha utabiri na hatari kwa mameneja wakuu
+    expert: |
+      Unaweza:
+      - kuongoza mpango wa fedha wa muda wa kati wa taasisi
+      - kuoanisha mipango ya fedha na mkakati, nguvu kazi na mipango ya uwekezaji
+      - kuishauri bodi kuhusu uendelevu wa kifedha na chaguzi zinazohitajika ili kubaki ndani ya ufadhili
+      - kuweka dhana na mbinu za mipango zinazotumika katika taasisi nzima
+fin-payroll:
+  name: Mishahara
+  description: Kuwalipa wafanyakazi kwa usahihi na kwa wakati, ikiwemo wanaoanza, wanaoondoka, mabadiliko, makato, pensheni, malipo ya kisheria na kuripoti mishahara.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza mzunguko wa mishahara, kuanzia mabadiliko na tarehe ya mwisho hadi malipo na kuripoti
+      - kuingiza wanaoanza, wanaoondoka na mabadiliko kwa usahihi kutoka kwenye fomu zilizoidhinishwa
+      - kujibu maswali ya kawaida ya mishahara, ukitunza usiri wa taarifa za mishahara
+    working: |
+      Unaweza:
+      - kukokotoa mishahara, nyongeza, saa za ziada, malipo ya ugonjwa na likizo ya familia
+      - kutumia kodi, pensheni na makato mengine kwa usahihi
+      - kukagua matokeo ya mishahara na kusahihisha makosa kabla ya malipo
+      - kurejesha malipo ya ziada kwa busara na kwa mujibu wa sera
+    practitioner: |
+      Unaweza:
+      - kuendesha mishahara kamili ya kundi la wafanyakazi na kuidhinisha ukaguzi wa mishahara
+      - kusimamia kuripoti kwa kisheria kwa mishahara na ritani za pensheni
+      - kutatua kesi tata, kama vile mikataba mingi, malipo ya nyuma, au kutoa sehemu ya mshahara
+      - kujaribu mabadiliko ya mfumo wa mishahara, kama vile nyongeza za kila mwaka na mabadiliko ya kanuni
+    expert: |
+      Unaweza:
+      - kusimamia huduma ya mishahara ya taasisi, iwe inaendeshwa ndani au na mtoa huduma
+      - kuweka udhibiti wa mishahara na kuwahakikishia viongozi wakuu kwamba malipo ni sahihi na halali
+      - kupanga kwa mabadiliko ya kanuni za mishahara, nyongeza za mishahara na mifumo ya mishahara
+      - kuongoza majibu kwa hitilafu kubwa za mishahara
+fin-treasury-and-cash:
+  name: Usimamizi wa hazina na fedha taslimu
+  description: Kusimamia akaunti za benki, mtiririko wa fedha na uwezo wa kulipa madeni ili taasisi itimize ahadi zake, ndani ya kanuni za fedha za sekta ya umma.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini fedha taslimu ni muhimu pamoja na bajeti
+      - kurekodi na kulinganisha miamala ya benki
+    working: |
+      Unaweza:
+      - kuandaa nafasi ya kila siku ya fedha na utabiri wa muda mfupi wa fedha
+      - kuandaa mizunguko ya malipo na kukagua kama imeidhinishwa ipasavyo
+      - kulinganisha akaunti za benki na kusafisha vipengee visivyolingana
+    practitioner: |
+      Unaweza:
+      - kusimamia utabiri wa mtiririko wa fedha wa taasisi na utoaji wa ufadhili
+      - kusimamia akaunti za benki, njia za malipo na udhibiti wa benki
+      - kupanga fedha kwa malipo makubwa au yasiyo ya kawaida, kama vile leseni za programu za miaka mingi
+    expert: |
+      Unaweza:
+      - kuweka sera ya hazina na mipango ya benki ya taasisi
+      - kuishauri bodi kuhusu uwezo wa kulipa madeni na hatari za fedha taslimu
+      - kusimamia fedha ndani ya mipaka iliyowekwa na wafadhili na kanuni za sekta ya umma
+fin-audit-and-controls:
+  name: Udhibiti wa fedha na ukaguzi
+  description: Kubuni, kuendesha na kujaribu udhibiti wa fedha, kuzuia na kugundua udanganyifu, na kufanya kazi na wakaguzi wa ndani na wa nje.
+  levels:
+    awareness: |
+      Unaweza:
+      - kufuata taratibu za fedha za taasisi na miongozo ya ukasimishaji wa madaraka
+      - kutambua dalili za udanganyifu au kosa linalowezekana na kuviripoti
+    working: |
+      Unaweza:
+      - kuendesha udhibiti muhimu, kama vile utenganishaji wa majukumu na ukaguzi wa taarifa za benki za wasambazaji
+      - kutoa ushahidi kwa wakaguzi na kujibu maswali yao
+      - kukagua kama matumizi yameidhinishwa katika ngazi sahihi
+    practitioner: |
+      Unaweza:
+      - kujaribu na kuboresha udhibiti wa mchakato wa fedha
+      - kusimamia maombi ya ukaguzi kwa eneo na kukubaliana hatua kuhusu matokeo
+      - kuandika na kusasisha taratibu za fedha
+      - kufanya kazi na wataalamu wa kupambana na udanganyifu kupunguza hatari ya udanganyifu
+    expert: |
+      Unaweza:
+      - kumiliki kanuni za fedha na mpango wa ukasimishaji wa madaraka wa taasisi
+      - kuripoti kwa kamati ya ukaguzi kuhusu udhibiti wa fedha na hatua za ukaguzi
+      - kuongoza majibu kwa hitilafu kubwa za udhibiti au udanganyifu
+      - kujenga utamaduni ambapo wafanyakazi wanaelewa wajibu wao wa kutumia fedha za umma ipasavyo
+fin-business-cases:
+  name: Hoja za kibiashara na tathmini ya uwekezaji
+  description: Kujenga hoja ya kifedha ya uwekezaji, ikiwemo tathmini ya chaguzi, gharama za maisha yote, uchukuliaji wa mtaji na matumizi ya kawaida, manufaa na thamani ya fedha.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kusudi la hoja ya kibiashara na sehemu yake ya kifedha
+      - kukusanya taarifa za gharama kwa hoja ya kibiashara
+    working: |
+      Unaweza:
+      - kujenga muundo wa kifedha kwa hoja rahisi ya kibiashara
+      - kutenganisha gharama za mtaji na za matumizi ya kawaida, na gharama za mara moja na zinazojirudia
+      - kujumuisha gharama za maisha yote, kama vile leseni, msaada na uhifadhi baada ya kuanza kutumika
+    practitioner: |
+      Unaweza:
+      - kuongoza hoja ya kifedha ya uwekezaji tata wa kidijitali, kama vile mfumo mpya wa kitabibu au kuhamia kwenye wingu
+      - kutathmini chaguzi kwa kutumia thamani halisi ya sasa, uchambuzi wa unyeti na marekebisho ya hatari
+      - kukagua kama manufaa ni halisi, yanapimika na yana wamiliki
+      - kufuatilia matumizi na manufaa baada ya idhini
+    expert: |
+      Unaweza:
+      - kuweka viwango vya taasisi vya hoja za kibiashara na tathmini ya uwekezaji
+      - kuishauri bodi za uwekezaji kuhusu uwezo wa kumudu, thamani ya fedha na hatari
+      - kuwasilisha hoja kwa wafadhili kwa programu kubwa za uwekezaji
+      - kukagua jalada la uwekezaji na kupendekeza wapi pa kusimamisha, kubadilisha au kuendelea
+fin-tax:
+  name: Kodi
+  description: Kutumia kanuni za kodi ya mauzo, kodi ya ajira na kodi nyingine kwa usahihi kwenye miamala ya taasisi, na kurejesha kodi pale inaporuhusiwa.
+  levels:
+    awareness: |
+      Unaweza:
+      - kutambua kodi ya mauzo kwenye ankara na kuiwekea msimbo sahihi
+      - kueleza ni lini kuomba ushauri wa mtaalamu wa kodi
+    working: |
+      Unaweza:
+      - kuandaa ritani za kodi na ulinganisho chini ya usimamizi
+      - kutumia utaratibu sahihi wa kodi kwa manunuzi na mapato ya kawaida
+      - kukagua hadhi ya ajira ya wakandarasi kwa mwongozo
+    practitioner: |
+      Unaweza:
+      - kusimamia ritani za kodi na ulinganisho wa kodi wa taasisi
+      - kushauri kuhusu utaratibu wa kodi wa mikataba, kama vile leseni za programu, huduma za wingu na huduma zinazoshirikiwa
+      - kuongeza urejeshaji wa kodi ndani ya kanuni
+    expert: |
+      Unaweza:
+      - kumiliki mkakati wa kodi na hatari za kodi za taasisi
+      - kuongoza majadiliano na mamlaka ya kodi kuhusu masuala tata
+      - kutathmini athari za kodi za mabadiliko makubwa, kama vile ushirikiano mpya au shughuli za biashara
+fin-financial-systems:
+  name: Mifumo ya fedha
+  description: Kutumia, kusimamia na kuboresha mifumo ya fedha, ununuzi, mishahara na kuripoti ili data ya fedha iwe sahihi na michakato iwe na ufanisi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kutumia mfumo wa fedha kwa kazi zako mwenyewe, ukifuata taratibu
+      - kuendesha ripoti za kawaida na kusafirisha data kwenda kwenye jedwali
+    working: |
+      Unaweza:
+      - kutumia majedwali vizuri, ikiwemo fomula, utafutaji na majedwali ya mzunguko
+      - kutunza data za mfumo wa fedha, kama vile vituo vya gharama, wasambazaji na waidhinishaji
+      - kuripoti na kusaidia kurekebisha matatizo ya mfumo
+    practitioner: |
+      Unaweza:
+      - kusimamia mfumo wa fedha au wa mishahara, ikiwemo ufikiaji, mtiririko wa kazi na kuripoti
+      - kubuni ripoti na dashibodi kwa wamiliki wa bajeti
+      - kujaribu mabadiliko na masasisho ya mfumo
+      - kuendesha kiotomatiki kazi za fedha zinazojirudia
+    expert: |
+      Unaweza:
+      - kumiliki mkakati na ramani ya mifumo ya fedha
+      - kuongoza ununuzi na utekelezaji wa mifumo ya fedha au ya mishahara
+      - kuhakikisha data ya fedha imeunganishwa na data ya nguvu kazi, ununuzi na utendaji
+fin-public-sector-finance:
+  name: Fedha za sekta ya umma
+  description: Kuelewa jinsi ufadhili wa umma unavyofanya kazi, ikiwemo mgao wa ufadhili, mipaka ya mtaji na matumizi ya kawaida, udhibiti wa matumizi, uwajibikaji kwa fedha za umma na thamani ya fedha.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwamba taasisi inatumia fedha za umma na lazima iziwajibikie
+      - kueleza tofauti kati ya matumizi ya mtaji na matumizi ya kawaida
+    working: |
+      Unaweza:
+      - kutumia kanuni za taasisi za mtaji na matumizi ya kawaida kwenye matumizi ya kila siku
+      - kueleza jinsi mgao wa ufadhili na mipaka ya matumizi inavyoathiri eneo lako
+      - kutambua matumizi yanayohitaji idhini kutoka kwa mfadhili au udhibiti wa matumizi
+    practitioner: |
+      Unaweza:
+      - kuwashauri mameneja kuhusu kanuni za ufadhili, ikiwemo ufadhili uliotengwa na wa muda mfupi
+      - kusimamia mipaka ya mtaji na matumizi ya kawaida kwa programu au kurugenzi
+      - kuandaa ritani na ushahidi kwa wafadhili na udhibiti wa matumizi
+    expert: |
+      Unaweza:
+      - kuiwakilisha taasisi kwa wafadhili na vyombo vya usimamizi
+      - kuishauri bodi kuhusu uhalali, uadilifu na thamani ya fedha
+      - kuunda makubaliano ya ufadhili na mifumo ya fedha kwa huduma za taasisi

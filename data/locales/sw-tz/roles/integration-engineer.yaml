@@ -1,0 +1,51 @@
+summary: Wahandisi wa uunganishaji huunganisha mifumo ya kitabibu na ya biashara ya taasisi ili taarifa za afya na matunzo zitiririke kwa usalama hadi mahali zinapohitajika. Husanifu, hujenga, hujaribu na kusaidia violesura, API na mitiririko ya ujumbe kwa kutumia viwango kama HL7 FHIR na HL7 toleo la 2, huchora ramani ya data na misimbo ya kitabibu kati ya mifumo, na kuweka miunganisho ikifanya kazi katika huduma ya moja kwa moja.
+health_context:
+- Ujumbe uliopotea, uliochelewa, uliorudiwa, au uliolinganishwa vibaya, kama vile matokeo ya kipimo au rufaa, unaweza kusababisha madhara moja kwa moja, hivyo kazi ya uunganishaji hufuata mchakato wa usimamizi wa hatari za kitabibu.
+- Miunganisho hubeba kiasi kikubwa cha taarifa za siri za afya kati ya taasisi, hivyo kila mtiririko unahitaji msingi halali, usafirishaji salama na ukaguzi.
+- Mifumo ya afya hutumia viwango na matoleo mengi, kuanzia ujumbe wa HL7 toleo la 2 hadi API za HL7 FHIR na wasifu wa IHE, mara nyingi zenye tofauti za ndani.
+- Maana ya kitabibu lazima iendelee kuwepo katika safari, hivyo wahandisi huchora ramani ya istilahi za kitabibu kama SNOMED CT kwa usahihi na kulinganisha wagonjwa kwa uaminifu.
+- Miunganisho mingi inaunga mkono matunzo saa nzima, hivyo inahitaji ufuatiliaji, tahadhari na njia wazi za kutatua ujumbe ulioshindwa.
+levels:
+- title: Mhandisi mdogo wa uunganishaji
+  summary: Mhandisi mdogo wa uunganishaji hujenga, hujaribu na kusaidia miunganisho kati ya mifumo ya afya na matunzo, akifanya kazi kutoka vipimo na kwa mwongozo wa wahandisi wenye uzoefu zaidi.
+  responsibilities:
+  - Kujenga na kubadilisha ramani za ujumbe, ubadilishaji na miito ya API kutoka vipimo vilivyokubaliwa.
+  - Kujaribu miunganisho dhidi ya vipimo na ujumbe wa sampuli, ikiwemo makosa na hali za pembezoni.
+  - Kufuatilia mitiririko ya ujumbe, kuchunguza ujumbe ulioshindwa au kukataliwa, na kuutatua au kuupeleka juu.
+  - Kushughulikia data za afya kwa usalama, akifuata kanuni za usimamizi wa taarifa kwa data za moja kwa moja na za majaribio.
+  - Kurekodi mabadiliko na matokeo ya majaribio ili yatumike kama ushahidi wa usalama wa kitabibu.
+  qualifications:
+  - Shahada katika kompyuta au somo linalohusiana, uanagenzi uliokamilika, au uzoefu unaolingana.
+- title: Mhandisi wa uunganishaji
+  summary: Mhandisi wa uunganishaji husanifu, hujenga na kusaidia miunganisho kati ya mifumo ya afya na matunzo kwa kujitegemea, na husaidia kufafanua jinsi mifumo inavyopaswa kubadilishana data.
+  responsibilities:
+  - Kubuni na kujenga miunganisho, API na mitiririko ya ujumbe kwa kutumia HL7 FHIR, HL7 toleo la 2 na mifumo ya ujumbe.
+  - Kuchambua mifumo chanzo na lengwa na kuandika vipimo vya violesura na ramani za data, ikiwemo misimbo ya kitabibu.
+  - Kujenga ulinganishaji wa wagonjwa, uthibitishaji na ushughulikiaji wa makosa ili taarifa zifike kwenye rekodi sahihi.
+  - Kushiriki katika warsha za hatari na kujenga udhibiti wa usalama ndani ya miunganisho, kama vile tahadhari kwa ujumbe ulioshindwa au kuchelewa.
+  - Kufanya kazi na wasambazaji na taasisi washirika kujaribu na kuanza kutumia miunganisho mipya.
+  - Kuchunguza na kurekebisha matatizo katika miunganisho ya moja kwa moja, na kuwa mshauri wa wahandisi wadogo wa uunganishaji.
+  qualifications:
+  - Shahada katika kompyuta au somo linalohusiana, au uzoefu unaolingana.
+  - Uzoefu wa kujenga na kusaidia miunganisho kati ya mifumo ya uzalishaji.
+- title: Mhandisi mwandamizi wa uunganishaji
+  summary: Mhandisi mwandamizi wa uunganishaji huongoza usanifu na utoaji wa miunganisho tata katika mifumo na taasisi nyingi, na huweka viwango vya uunganishaji kwa eneo lake.
+  responsibilities:
+  - Kuongoza usanifu wa kiufundi wa miunganisho tata, kama vile kumbukumbu za matunzo zinazoshirikiwa, matokeo na rufaa kati ya taasisi.
+  - Kuandika na kutunza wasifu wa FHIR, miongozo ya utekelezaji na viwango vya violesura vya taasisi.
+  - Kubuni miunganisho iwe salama, thabiti na inayoonekana, yenye njia wazi za kutatua hitilafu.
+  - Kufanya kazi na maafisa wa usalama wa kitabibu kutambua hatari za uunganishaji na kuhakikisha udhibiti umebuniwa ndani na kujaribiwa.
+  - Kuhakikisha kila mtiririko wa data una msingi halali uliokubaliwa na mipango ya ushirikishaji wa data, akifanya kazi na wenzake wa usimamizi wa taarifa.
+  - Kuwaongoza na kuwaendeleza wahandisi wa uunganishaji katika timu.
+  qualifications:
+  - Uzoefu mkubwa wa kubuni na kusaidia miunganisho ya afya au tata nyingine, katika kiwango kinacholingana na shahada ya uzamili.
+- title: Mhandisi kiongozi wa uunganishaji
+  summary: Mhandisi kiongozi wa uunganishaji huongoza uhandisi wa uunganishaji wa taasisi, huweka mwelekeo na viwango vyake vya kiufundi, na huhakikisha miunganisho muhimu katika mifumo mingi.
+  responsibilities:
+  - Kuongoza uhandisi wa uunganishaji katika taasisi, akiweka mwelekeo, mifumo na viwango.
+  - Kuhakikisha usanifu wa miunganisho muhimu, kama ile inayobeba matokeo, dawa au tahadhari.
+  - Kuunda ramani ya njia ya jukwaa la uunganishaji pamoja na wasanifu, mameneja wa bidhaa na wasambazaji.
+  - Kuiwakilisha taasisi katika kazi ya ushirikiano wa mifumo na viwango ya taasisi mbalimbali.
+  - Kusimamia moja kwa moja au kuongoza wahandisi wa uunganishaji na kukuza jumuiya ya mazoezi ya uunganishaji.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uhandisi wa uunganishaji kwa mifumo tata ya afya au matunzo.

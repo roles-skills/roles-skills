@@ -29,6 +29,8 @@ How this reference is translated, published, and served in more than one languag
 | sv-001 | Svenska (världen) | ltr | Done | Swedish for readers anywhere; a copy of sv-se; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Swedish titles |
 | nl-nl | Nederlands | ltr | Done | Dutch; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Dutch titles |
 | nl-001 | Nederlands (wereld) | ltr | Done | Dutch for readers anywhere; a copy of nl-nl; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Dutch titles |
+| sw-tz | Kiswahili | ltr | Done | Swahili; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Swahili titles |
+| sw-001 | Kiswahili (dunia) | ltr | Done | Swahili for readers anywhere; a copy of sw-tz; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Swahili titles |
 | pt-001 | Português | ltr | Next | Portuguese |
 
 Every translation is AI-generated and needs a native speaker review; `tasks.md` tracks each review.

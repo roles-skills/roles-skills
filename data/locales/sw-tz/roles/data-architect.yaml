@@ -1,0 +1,37 @@
+summary: Wasanifu wa data husanifu jinsi taasisi inavyopanga, kuhifadhi, kuhamisha na kusimamia data zake za afya na matunzo, ili ziweze kutumika kwa usalama kwa matunzo ya moja kwa moja, mipango ya huduma na utafiti. Husanifu miundo ya data, majukwaa ya data na mtiririko wa data, huweka viwango vya data, na kuhakikisha maana ya kitabibu, ubora na usiri vinatunzwa kutoka mwanzo hadi mwisho.
+health_context:
+- Data za afya lazima zitunze maana yake ya kitabibu, hivyo miundo ya data hutumia istilahi za kitabibu kama SNOMED CT na uainishaji kama ICD.
+- Data zinazotumika kwa matunzo ya moja kwa moja na data zinazotumika kwa mipango au utafiti zina misingi tofauti ya kisheria, hivyo wasanifu husanifu kwa ajili ya utenganishaji, kuficha utambulisho na ufikiaji unaodhibitiwa.
+- Data hutoka kwenye mifumo mingi ya kitabibu na ya matunzo yenye ubora tofauti, hivyo wasanifu husanifu kwa ajili ya ukaguzi wa ubora wa data, ulinganishaji wa wagonjwa na ufuatiliaji wa asili ya data.
+- Kumbukumbu za matunzo zinazoshirikiwa na kubadilishana data hutegemea miundo ya pamoja kama rasilimali za HL7 FHIR na seti za data zilizokubaliwa za kitaifa au za kimataifa.
+- Kumbukumbu lazima zihifadhiwe kwa vipindi virefu vya uhifadhi, hivyo miundo lazima ipange kwa ajili ya kuhifadhi kwenye jalada na kufikia data za kihistoria.
+levels:
+- title: Msanifu wa data
+  responsibilities:
+  - Kubuni miundo ya kimantiki na ya kimwili ya data kwa data za kitabibu na za kiutendaji, akitumia istilahi za kitabibu inapohitajika.
+  - Kubuni mtiririko wa data na vijenzi vya jukwaa la data, kama vile ghala, ziwa-ghala na tabaka za uunganishaji.
+  - Kufafanua metadata, maingizo ya kamusi ya data na asili ya data kwa seti za data za eneo lake.
+  - Kubuni udhibiti wa kuficha utambulisho na ufikiaji ili data zitumike tu kwa kusudi lake halali.
+  - Kufanya kazi na wenzake wa ubora wa data na uwekaji misimbo ya kitabibu kurekebisha visababishi vya kimuundo vya data duni.
+  - Kuwaongoza wahandisi wa data na wachambuzi kuhusu miundo ya data na viwango.
+  qualifications:
+  - Uzoefu mkubwa wa uundaji wa miundo ya data na usanifu wa majukwaa ya data, katika kiwango kinacholingana na shahada ya uzamili.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 7): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 8a. Mipango, sera na uhuru wa kutenda vimepewa alama za juu zaidi ya wasifu wa Daraja la 7 kwa sababu kazi inasanifu majukwaa ya data na udhibiti unaotumika katika huduma nyingi."
+- title: Msanifu mwandamizi wa data
+  responsibilities:
+  - Kubuni usanifu wa data kwa eneo kuu, kama vile kumbukumbu ya matunzo inayoshirikiwa au jukwaa la uchanganuzi.
+  - Kuhakikisha miundo ya data katika timu zote inafuata viwango na miundo ya data ya taasisi.
+  - Kubuni jinsi data zinavyoshirikishwa na taasisi washirika, ikiwemo viwango, udhibiti na makubaliano ya ushirikishaji wa data.
+  - Kushauri wenzake wa usimamizi wa taarifa na usalama wa kitabibu kuhusu hatari za data za miundo mipya.
+  - Kukagua na kuongoza kazi ya wasanifu wa data.
+  qualifications:
+  - Uzoefu mpana wa usanifu wa data kwa taasisi tata.
+- title: Msanifu mkuu wa data
+  responsibilities:
+  - Kuweka maono na ramani ya njia ya usanifu wa data ya taasisi, kulingana na mkakati wake wa data.
+  - Kumiliki muundo wa data wa taasisi nzima, viwango vya data na kamusi ya data.
+  - Kushauri timu ya watendaji na vyombo vya usimamizi wa data kuhusu usanifu wa data, hatari na uwekezaji.
+  - Kuiwakilisha taasisi katika kazi ya viwango vya data na ushirikiano wa mifumo ya taasisi mbalimbali.
+  - Kuongoza mazoezi ya usanifu wa data na kuendeleza watu wake.
+  qualifications:
+  - Uzoefu mpana wa kuongoza usanifu wa data katika taasisi mbalimbali.

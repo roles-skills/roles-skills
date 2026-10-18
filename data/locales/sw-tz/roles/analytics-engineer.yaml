@@ -1,0 +1,54 @@
+summary: Wahandisi wa uchanganuzi hugeuza data ghafi za afya na matunzo kuwa miundo safi ya data, iliyojaribiwa na kuandikwa ambayo wachambuzi, wanasayansi wa data na zana za kuripoti wanaweza kuitegemea. Wako kati ya uhandisi wa data na uchambuzi, wakitumia mazoezi ya uhandisi wa programu kama vile udhibiti wa matoleo, majaribio na ukaguzi wa msimbo katika mabadiliko yaliyo nyuma ya ripoti na dashibodi za taasisi.
+health_context:
+- Miundo ya data hubeba fasili za kitabibu na za kiutendaji, kama vile kinachohesabiwa kuwa kulazwa, kulazwa tena, au kukiuka kiwango cha muda wa kusubiri, hivyo fasili hukubaliwa na viongozi wa kitabibu na wa kiutendaji.
+- Misimbo ya kitabibu kutoka istilahi na uainishaji kama SNOMED CT na ICD hupangwa katika seti za marejeleo kwa ajili ya uchambuzi, ambazo zinahitaji udhibiti makini wa matoleo.
+- Miundo inayotumika kwa ripoti za utendaji na ufadhili lazima iwe thabiti na inayoweza kukaguliwa, kwa sababu makosa yanaweza kuathiri maamuzi kuhusu huduma za wagonjwa.
+- Miundo mara nyingi hushikilia data za kiwango cha mgonjwa zenye majina bandia, hivyo ufikiaji, uandishi wa nyaraka na upunguzaji wa data huingizwa ndani yake.
+levels:
+- title: Mhandisi wa uchanganuzi mwanafunzi
+  responsibilities:
+  - Kujifunza zana na mazoezi ya timu ya kuunda miundo ya data kupitia mafunzo na kufanya kazi kwa jozi.
+  - Kufanya mabadiliko madogo yaliyobainishwa vizuri kwenye miundo ya data chini ya usimamizi.
+  - Kuandika vipengee vya data na fasili zake katika katalogi ya data.
+  - Kujibu maswali rahisi kutoka kwa watumiaji wa data na kurekodi mahitaji yao.
+  - Kufuata kanuni za usimamizi wa taarifa anapofanya kazi na data za wagonjwa.
+  qualifications:
+  - Amesajiliwa katika, au anaelekea kukamilisha, uanagenzi wa data au unaolingana nao.
+  job_evaluation_notes: Maarifa yamepewa alama ya kiwango ambacho kazi inahitaji mara mafunzo yanapokuwa yamekamilika vya kutosha kufanya kazi.
+- title: Mhandisi wa uchanganuzi
+  responsibilities:
+  - Kujenga na kujaribu miundo ya data kwa eneo la huduma, kama vile shughuli za wagonjwa waliolazwa au matunzo ya jamii, kutoka kwenye miundo iliyokubaliwa.
+  - Kuandika majaribio ya kiotomatiki yanayokagua miundo ya data dhidi ya fasili zilizokubaliwa za kitabibu na za kiutendaji.
+  - Kutunza seti za marejeleo za misimbo ya kitabibu zinazotumika katika uchambuzi, zenye matoleo wazi.
+  - Kuandika miundo ili wachambuzi waelewe maana yake, vyanzo na mipaka yake.
+  - Kuwafunza na kuwasaidia watumiaji wa seti za data za timu.
+  qualifications:
+  - Shahada katika somo linalotumia namba au kompyuta, au uzoefu unaolingana.
+  - Uzoefu wa kujenga miundo ya data au msimbo wa uchambuzi.
+- title: Mhandisi mwandamizi wa uchanganuzi
+  responsibilities:
+  - Kusimamia usanifu na majaribio ya miundo ya data katika maeneo kadhaa ya huduma.
+  - Kukubaliana fasili za vipimo muhimu na viongozi wa kitabibu, wa kiutendaji na wa fedha, na kuhakikisha miundo inazitumia kwa uthabiti.
+  - Kuhakikisha miundo inayolisha ripoti za utendaji na ufadhili inaweza kukaguliwa na imejaribiwa vizuri.
+  - Kutatua masuala na hatari za data pamoja na wahandisi wa data na wamiliki wa data.
+  - Kuwaongoza na kuelekeza kazi ya wahandisi wengine wa uchanganuzi.
+  qualifications:
+  - Uzoefu mkubwa wa kuunda miundo ya data na uhandisi wa uchanganuzi, katika kiwango kinacholingana na shahada ya uzamili.
+- title: Mhandisi kiongozi wa uchanganuzi
+  responsibilities:
+  - Kuongoza timu inayobuni, kujenga na kutunza miundo ya data ya uchambuzi ya taasisi.
+  - Kuweka viwango vya miundo ya data, majaribio, uandishi wa nyaraka na fasili za vipimo.
+  - Kufanya kazi na timu katika taasisi nzima kuelewa jinsi michakato ya kitabibu na ya kiutendaji inavyozalisha data.
+  - Kukagua kazi ya wahandisi wengine wa uchanganuzi na kuboresha njia za kufanya kazi za timu.
+  - Kusimamia moja kwa moja wahandisi wa uchanganuzi.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uhandisi wa uchanganuzi au uundaji wa miundo ya data.
+- title: Mkuu wa uhandisi wa uchanganuzi
+  responsibilities:
+  - Kuweka mwelekeo wa miundo ya data ya uchambuzi ya taasisi, ili uchambuzi katika taasisi nzima utumie seti moja ya fasili inayoaminika.
+  - Kuhakikisha vipaumbele vya uhandisi wa uchanganuzi vinaunga mkono mkakati wa taasisi na wajibu wake wa kuripoti.
+  - Kuwashauri viongozi wakuu kuhusu uaminifu wa data zilizo nyuma ya ripoti na maamuzi makubwa.
+  - Kuhakikisha jumuiya ina zana na majukwaa inayohitaji, na kusimamia bajeti inayohusiana.
+  - Kujenga uwezo wa uhandisi wa uchanganuzi kupitia uongozi wa kiufundi na maendeleo ya taaluma.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uhandisi wa uchanganuzi katika taasisi.

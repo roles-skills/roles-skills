@@ -1,0 +1,71 @@
+# Swahili translations of data/skills/product-design.yaml. Keys are the English skill ids.
+pd-health-research-ethics:
+  name: Utafiti wa kimaadili na wagonjwa na wafanyakazi wa matunzo
+  description: Kupanga na kuendesha utafiti na wagonjwa, walezi, madaktari na wafanyakazi wa matunzo kwa usalama na kimaadili, ikiwemo ridhaa yenye ufahamu, ulinzi wa watu, utafiti na watu walio katika mazingira hatarishi, na kujua ni lini idhini rasmi ya kimaadili inahitajika.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini utafiti na wagonjwa na wafanyakazi wa matunzo unahitaji ridhaa yenye ufahamu, ulinzi wa watu na uangalifu na data binafsi
+      - kufuata taratibu za timu za ridhaa, ulinzi wa watu na ushughulikiaji wa data katika vikao vya utafiti
+    working: |
+      Unaweza:
+      - kupanga vikao vya utafiti vinavyopata ridhaa yenye ufahamu na kulinda ustawi na faragha ya washiriki
+      - kurekebisha vikao kwa watu wanaougua, wenye huzuni au walio katika mazingira hatarishi, na kujua ni lini kusimama
+      - kutambua na kuripoti masuala ya ulinzi wa watu yanayojitokeza katika utafiti
+    practitioner: |
+      Unaweza:
+      - kuhukumu ni lini utafiti unahitaji idhini rasmi ya kimaadili au ya usimamizi wa utafiti na kuandaa kinachohitajika
+      - kupanga utafiti salama na watu walio katika mazingira hatarishi, kama vile watoto, watu wenye shida ya akili na watu walio katika dharura
+      - kupanga utafiti katika mazingira ya kitabibu bila kuvuruga matunzo, kwa kushirikiana na viongozi wa kitabibu na wafanyakazi wa matunzo
+      - kuwasaidia watafiti kutunza ustawi wao baada ya vikao vyenye kuhuzunisha
+    expert: |
+      Unaweza:
+      - kuweka viwango vya taasisi vya utafiti wa kimaadili na wagonjwa, walezi na wafanyakazi wa matunzo
+      - kuhakikisha mazoezi ya utafiti katika timu zote na kushauri kuhusu utafiti wenye hatari kubwa
+      - kuwakilisha mazoezi ya utafiti kwa vyombo vya maadili, ulinzi wa watu na usimamizi
+pd-safety-critical-design:
+  name: Usanifu kwa usalama wa kitabibu na mambo ya kibinadamu
+  description: Kubuni huduma, violesura na mtiririko wa kazi unaowasaidia madaktari, wafanyakazi wa matunzo na wagonjwa kutenda kwa usalama, kwa kutumia kanuni za mambo ya kibinadamu na kufanya kazi na mchakato wa usimamizi wa hatari za kitabibu.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza jinsi uchaguzi wa usanifu unavyoweza kusababisha au kuzuia makosa katika matunzo, kama vile makosa ya mgonjwa asiye sahihi au dozi isiyo sahihi
+      - kutumia mifumo ya taasisi ya taarifa zinazohusu usalama, kama vile vibao vya utambulisho wa mgonjwa na maonyo ya mzio
+    working: |
+      Unaweza:
+      - kubuni violesura vinavyofanya kitendo salama kuwa rahisi, kwa mfano kwa kupunguza lebo zenye utata na tahadhari zisizo za lazima
+      - kujaribu miundo katika mazingira halisi ya kitabibu, ikiwemo kukatizwa na shinikizo la muda
+      - kuwasilisha hatari zinazohusiana na usanifu kwa afisa wa usalama wa kitabibu na kuandika jinsi miundo inavyozidhibiti
+    practitioner: |
+      Unaweza:
+      - kutumia mbinu za mambo ya kibinadamu, kama vile uchambuzi wa kazi na uchambuzi wa makosa ya matumizi, kwenye mtiririko tata wa kazi za kitabibu
+      - kubuni ili kupunguza uchovu wa tahadhari na mzigo wa kiakili katika huduma nzima
+      - kutoa ushahidi wa usanifu kwa hoja za usalama wa kitabibu na ushahidi wa urahisi wa matumizi kwa programu zinazodhibitiwa
+    expert: |
+      Unaweza:
+      - kuweka viwango na mifumo ya taasisi ya usanifu unaohusu usalama
+      - kuongoza kazi ya mambo ya kibinadamu kwenye huduma za kitabibu zenye hatari kubwa zaidi
+      - kuwashauri viongozi wa usalama wa kitabibu na wa bidhaa kuhusu hatari zinazohusiana na usanifu katika jalada zima
+pd-health-content:
+  name: Maudhui ya taarifa za afya
+  description: Kuunda maudhui ya afya na matunzo yaliyo sahihi, yaliyothibitishwa kitabibu, na rahisi kueleweka na kutekelezwa na watu wenye viwango tofauti vya uelewa wa masuala ya afya.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini taarifa za afya lazima ziwe sahihi, za sasa na rahisi kueleweka
+      - kufuata mwongozo wa mtindo wa timu na mchakato wa ukaguzi wa kitabibu wa maudhui ya afya
+    working: |
+      Unaweza:
+      - kuandika maudhui ya afya yanayoweza kueleweka na kutekelezwa na watu wenye uelewa mdogo wa masuala ya afya, kama vile dalili na wakati wa kutafuta msaada
+      - kufanya kazi na wakaguzi wa kitabibu kuhakikisha maudhui ni sahihi bila kupoteza uwazi
+      - kueleza maneno ya kitabibu kwa lugha rahisi na kutumia majina thabiti ya magonjwa, vipimo na matibabu
+    practitioner: |
+      Unaweza:
+      - kubuni maudhui kwa mada nyeti na zenye hatari kubwa, kama vile dalili za dharura, dawa na huduma za mwisho wa maisha
+      - kuweka uhakikisho wa kitabibu, tarehe za ukaguzi na vyanzo vya ushahidi kwa mkusanyiko wa maudhui ya afya
+      - kusawazisha usahihi wa kitabibu, mahitaji ya kisheria na uelewa wa mtumiaji katika maudhui yenye mabishano
+    expert: |
+      Unaweza:
+      - kuweka viwango vya taasisi vya maudhui ya taarifa za afya na uhakikisho wake wa kitabibu
+      - kuongoza mkakati wa maudhui ya taarifa za afya katika huduma na njia zote
+      - kuwashauri viongozi wakuu wa kitabibu na wa mawasiliano kuhusu hatari za taarifa za afya

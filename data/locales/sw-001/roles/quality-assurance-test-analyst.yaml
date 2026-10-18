@@ -1,0 +1,47 @@
+summary: Wachambuzi wa majaribio wa uhakikisho wa ubora hukagua kama huduma za afya za kidijitali za taasisi zinafanya kile wagonjwa, madaktari na wafanyakazi wa matunzo wanachohitaji, kwa usalama na kwa uaminifu. Huchambua mahitaji na miundo kupata hatari mapema, hubuni na kuendesha majaribio ya kiutendaji na yasiyo ya kiutendaji, na kuripoti kasoro kwa uwazi. Katika huduma za afya hii inajumuisha kujaribu mtiririko wa kazi za kitabibu, usahihi wa data, na udhibiti unaowalinda wagonjwa dhidi ya madhara.
+health_context:
+- Kasoro katika mifumo ya kitabibu zinaweza kuwadhuru wagonjwa, kwa mfano kupitia dozi isiyo sahihi ya dawa, matokeo yaliyokosekana, au rekodi iliyoonyeshwa kwa mgonjwa asiye sahihi, hivyo majaribio hupewa vipaumbele kwa hatari ya kitabibu.
+- Majaribio hutoa ushahidi kwa hoja za usalama wa kitabibu na kumbukumbu za hatari, hivyo mipango ya majaribio hufuatiliwa hadi hatari zilizotambuliwa na udhibiti wake.
+- Data za majaribio hazipaswi kamwe kufichua wagonjwa halisi, hivyo wachambuzi hutumia data bandia au zilizofichwa utambulisho ipasavyo.
+- Huduma nyingi hubadilishana data na mifumo mingine ya afya na matunzo, hivyo majaribio hukagua ujumbe dhidi ya viwango kama HL7 FHIR na maana ya misimbo ya kitabibu.
+- Watumiaji hujumuisha madaktari walio chini ya shinikizo la muda, wagonjwa wenye mahitaji mbalimbali, na watumiaji wa teknolojia saidizi, hivyo majaribio ya urahisi wa matumizi na ufikivu ni muhimu.
+levels:
+- title: Mchambuzi msaidizi wa majaribio wa uhakikisho wa ubora
+  responsibilities:
+  - Kuendesha hati za majaribio kwa mtiririko wa kazi za kitabibu na za kiutawala chini ya usimamizi, akirekodi matokeo kwa usahihi.
+  - Kuibua ripoti za kasoro zilizo wazi, ikiwemo hatua, data na skrini zilizohusika.
+  - Kutumia data bandia za majaribio na kamwe kutotumia data halisi za wagonjwa katika mazingira ya majaribio.
+  - Kujifunza mbinu za majaribio za timu, zana na mchakato wa usalama wa kitabibu.
+  - Kushiriki katika taratibu za timu kama vile mikutano ya kusimama, mipango na tafakari.
+  qualifications:
+  - Ujuzi mzuri wa uchambuzi na uandishi, na uzoefu fulani wa majaribio au wa kufanya kazi na mifumo ya kidijitali, au unaolingana.
+- title: Mchambuzi wa majaribio wa uhakikisho wa ubora
+  responsibilities:
+  - Kuchambua hadithi za watumiaji, miundo na mtiririko wa kazi za kitabibu kuamua nini cha kujaribu, kulingana na hatari kwa wagonjwa na huduma.
+  - Kubuni na kuendesha majaribio ya kiutendaji, ya ufikivu na ya urahisi wa matumizi, ikiwemo matukio ya kitabibu ya mwanzo hadi mwisho.
+  - Kufuatilia majaribio hadi hatari na udhibiti wa usalama, na kutoa ushahidi wa majaribio kwa hoja za usalama wa kitabibu.
+  - Kukagua data zinazoonyeshwa kwa watumiaji dhidi ya mifumo chanzo na misimbo ya kitabibu iliyokubaliwa.
+  - Kuunda na kutunza data bandia za majaribio zinazofanana na halisi.
+  - Kufuatilia kasoro hadi zitatuliwe na kujaribu upya marekebisho.
+  qualifications:
+  - Uzoefu wa kubuni na kuendesha majaribio ya huduma za kidijitali, au unaolingana.
+  job_evaluation_notes: UK GDaD PCF inapendekeza HEO au SEO kwa ngazi hii na ngazi ya uandamizi, ambayo inaweka zote mbili katika Daraja la 6. Marejeleo haya yanaweka ngazi hii katika Daraja la 5 na ngazi ya uandamizi katika Daraja la 6, ili ngazi hizi mbili ziwe katika madaraja tofauti.
+- title: Mchambuzi mwandamizi wa majaribio wa uhakikisho wa ubora
+  responsibilities:
+  - Kuratibu uhakikisho wa ubora kwa bidhaa au eneo, akikubaliana mbinu za majaribio, mazingira, data na zana.
+  - Kutambua hatari za kitabibu na za kiutendaji mapema kwa kukagua mahitaji, miundo na mabadiliko pamoja na madaktari na timu za bidhaa.
+  - Kupanga na kuongoza majaribio ya ukubalifu wa watumiaji pamoja na madaktari na wafanyakazi wa matunzo.
+  - Kuripoti matokeo ya majaribio na hatari zilizobaki kwa wamiliki wa bidhaa na maafisa wa usalama wa kitabibu, ili waweze kufanya maamuzi ya toleo.
+  - Kuwaongoza wachambuzi wengine wa majaribio na kuwasaidia kufuata viwango vya majaribio na usalama wa kitabibu.
+  qualifications:
+  - Uzoefu mkubwa wa uchambuzi wa majaribio, ikiwemo katika mazingira tata au yanayodhibitiwa, au unaolingana.
+- title: Mchambuzi kiongozi wa majaribio wa uhakikisho wa ubora
+  responsibilities:
+  - Kuweka viwango vya uchambuzi wa majaribio na mazoezi mazuri katika taasisi, ikiwemo majaribio yanayotegemea hatari ya mifumo ya kitabibu.
+  - Kufafanua mikakati ya majaribio kwa programu kubwa, kama vile mabadiliko ya rekodi ya mgonjwa ya kielektroniki au huduma mpya zinazowalenga wagonjwa.
+  - Kuhakikisha majaribio yanatoa ushahidi unaohitajika kwa hoja za usalama wa kitabibu na, inapohusika, mafaili ya kiufundi ya vifaa tiba.
+  - Kujadili na kupeleka juu hatari kubwa, masuala na kasoro kwa viongozi waandamizi wa bidhaa, wa kitabibu na wa wasambazaji.
+  - Kuwa mshauri na kuwaongoza wachambuzi wa majaribio na kuongoza jumuiya ya uchambuzi wa majaribio.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uchambuzi wa majaribio kwa huduma tata.
+  job_evaluation_notes: UK GDaD PCF inapendekeza G7 au G6 kwa ngazi hii, ambayo inalingana na Daraja la 8b. Marejeleo haya yanaiweka katika Daraja la 8a, sawa na mhandisi kiongozi wa majaribio, kwa sababu inaongoza taaluma moja ya majaribio badala ya majaribio yote; mkuu wa majaribio yuko Daraja la 8c.

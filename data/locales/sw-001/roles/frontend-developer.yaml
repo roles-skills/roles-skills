@@ -1,0 +1,66 @@
+summary: Waendelezaji wa sehemu ya mbele hujenga violesura vya watumiaji vya huduma za afya za kidijitali za taasisi, kama vile tovuti na programu tumizi zinazowalenga wagonjwa, fomu za mtandaoni, na skrini ambazo madaktari na wafanyakazi wa matunzo hutumia wakati wa matunzo. Huandika msimbo unaofikika, wa haraka na salama unaofanya kazi kwa kila mtu, ikiwemo watu wanaougua, wenye wasiwasi, au wanaotumia vifaa vya zamani, na hufanya kazi katika timu za bidhaa za fani mbalimbali pamoja na wabunifu, watafiti na madaktari.
+health_context:
+- Watumiaji wengi ni wagonjwa, wana maumivu, ni wazee au walemavu, hivyo ufikivu na violesura rahisi na tulivu ni muhimu badala ya hiari.
+- Maonyesho yenye kuchanganya au yasiyo sahihi ya taarifa za kitabibu, kama vile dozi ya dawa, matokeo au muda wa miadi, yanaweza kuwadhuru wagonjwa, hivyo kazi ya sehemu ya mbele hufuata mchakato wa usimamizi wa hatari za kitabibu.
+- Violesura mara nyingi huonyesha taarifa za siri za afya, hivyo waendelezaji husanifu kwa ajili ya faragha, kwa mfano kwenye vifaa vinavyoshirikiwa na katika maeneo yenye shughuli nyingi za kitabibu.
+- Madaktari hutumia violesura chini ya shinikizo la muda na kukatizwa mara kwa mara, hivyo skrini lazima ziwe za haraka, zinazotabirika na ngumu kusomwa vibaya.
+- Wagonjwa hufikia huduma kwa vifaa na miunganisho mbalimbali, hivyo huduma hutumia uboreshaji wa taratibu na hufanya kazi kwenye mitandao ya polepole.
+levels:
+- title: Mwanagenzi mwendelezaji wa sehemu ya mbele
+  responsibilities:
+  - Kujifunza mfumo wa usanifu wa timu, lugha na zana kupitia mafunzo yaliyopangwa na kufanya kazi kwa jozi.
+  - Kujenga vijenzi vidogo vya kiolesura chini ya usimamizi wa karibu, akifuata mfumo wa usanifu wa taasisi.
+  - Kujaribu vijenzi kwa teknolojia saidizi, kama vile visoma skrini, kwa msaada wa wenzake.
+  - Kufuata taratibu za usimamizi wa taarifa na usalama wa kitabibu anapofanya kazi na data za majaribio na za moja kwa moja.
+  - Kujitahidi kupata uanagenzi au sifa inayolingana.
+  qualifications:
+  - Amesajiliwa katika, au anaelekea kukamilisha, uanagenzi wa uundaji wa programu au unaolingana nao.
+  job_evaluation_notes: Maarifa yamepewa alama ya kiwango ambacho kazi inahitaji mara mafunzo yanapokuwa yamekamilika vya kutosha kufanya kazi.
+- title: Mwendelezaji mdogo wa sehemu ya mbele
+  responsibilities:
+  - Kujenga na kujaribu vipengele vya kiolesura kwa huduma zinazowalenga wagonjwa na wafanyakazi, akifanya kazi kutoka hadithi za watumiaji kwa mwongozo.
+  - Kutumia mfumo wa usanifu na mifumo ya taasisi ili huduma zionekane na kufanya kazi kwa uthabiti.
+  - Kurekebisha kasoro za ufikivu na kukagua kurasa dhidi ya viwango vya ufikivu kama WCAG.
+  - Kuhakikisha taarifa za kitabibu, kama vile tarehe, dozi na matokeo, zinaonyeshwa kama zilivyobainishwa hasa.
+  - Kuchangia ushahidi kwa hoja za usalama wa kitabibu, kama vile matokeo ya majaribio na picha za skrini za mabadiliko.
+  qualifications:
+  - Shahada katika kompyuta au somo linalohusiana, uanagenzi uliokamilika, au uzoefu unaolingana.
+- title: Mwendelezaji wa sehemu ya mbele
+  responsibilities:
+  - Kubuni na kujenga violesura vinavyofikika na vinavyojirekebisha kwa huduma za afya kwa kujitegemea, akichagua njia zinazofaa.
+  - Kufanya kazi na wabunifu na watafiti wa watumiaji kujaribu mifano na wagonjwa, madaktari na wafanyakazi wa matunzo.
+  - Kujenga violesura vinavyoita API za data za afya, kama vile huduma za HL7 FHIR, na kushughulikia makosa na data zinazokosekana kwa usalama.
+  - Kushiriki katika warsha za hatari na kujenga udhibiti wa usalama ndani ya kiolesura, kama vile hatua za uthibitisho na maonyo wazi.
+  - Kulinda taarifa za siri kwenye kivinjari, kwa mfano kwa kusimamia vipindi na uhifadhi wa muda kwa uangalifu kwenye vifaa vinavyoshirikiwa.
+  - Kukagua msimbo na kuwa mshauri wa waendelezaji wadogo na wanagenzi wa sehemu ya mbele.
+  qualifications:
+  - Shahada katika kompyuta au somo linalohusiana, au uzoefu unaolingana.
+  - Uzoefu wa kujenga na kusaidia huduma za wavuti zinazofikika za uzalishaji.
+- title: Mwendelezaji mwandamizi wa sehemu ya mbele
+  responsibilities:
+  - Kuongoza usanifu na utoaji wa sehemu ya mbele wa vipengele muhimu, kama vile uwekaji miadi, matokeo, au skrini za mtiririko wa kazi za kitabibu.
+  - Kuweka na kutunza viwango vya sehemu ya mbele kwa timu, ikiwemo ufikivu, utendaji, usalama na majaribio.
+  - Kuchangia vijenzi na mifumo kwenye mfumo wa usanifu wa taasisi na kuhakikisha ni salama na vinafikika.
+  - Kufanya kazi na maafisa wa usalama wa kitabibu kuhakikisha hatari za kiolesura zinatambuliwa, kudhibitiwa na kujaribiwa.
+  - Kuhakikisha huduma zinafanya kazi vizuri kwenye miunganisho ya polepole, vifaa vya zamani na teknolojia saidizi.
+  - Kuwaongoza na kuwaendeleza waendelezaji wa sehemu ya mbele katika timu.
+  qualifications:
+  - Uzoefu mkubwa wa kubuni, kujenga na kusaidia huduma za wavuti zinazofikika za uzalishaji, katika kiwango kinacholingana na shahada ya uzamili.
+- title: Mwendelezaji kiongozi wa sehemu ya mbele
+  responsibilities:
+  - Kuongoza uhandisi wa sehemu ya mbele katika kundi la timu au huduma kubwa inayowalenga wagonjwa.
+  - Kumiliki mwelekeo wa kiufundi wa mfumo wa usanifu wa taasisi na maktaba za sehemu ya mbele.
+  - Kuhakikisha violesura katika huduma zote vinatimiza viwango vya ufikivu na vimehakikishwa kwa usalama wa kitabibu.
+  - Kufanya kazi na wasanifu, wabunifu na viongozi wa kitabibu kuunda ramani za njia za bidhaa na uchaguzi wa teknolojia ya sehemu ya mbele.
+  - Kuongoza jumuiya ya mazoezi ya sehemu ya mbele na kusimamia moja kwa moja au kuongoza waendelezaji wa sehemu ya mbele.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uhandisi wa sehemu ya mbele kwa huduma tata zinazofikika.
+- title: Mkuu wa uendelezaji wa sehemu ya mbele
+  responsibilities:
+  - Kuweka mkakati, viwango na mazoezi ya sehemu ya mbele kwa huduma zote za kidijitali za taasisi.
+  - Kuwajibika kwa ufikivu na urahisi wa matumizi wa violesura vya taasisi kwa wagonjwa na wafanyakazi.
+  - Kuwashauri viongozi wakuu kuhusu teknolojia ya sehemu ya mbele, uwekezaji wa mfumo wa usanifu na hatari za violesura duni kwa matunzo.
+  - Kuiwakilisha taasisi katika jumuiya za mifumo ya usanifu na ufikivu za taasisi mbalimbali.
+  - Kuongoza na kuendeleza waendelezaji wa sehemu ya mbele katika taasisi, ikiwemo uajiri na njia za taaluma.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uendelezaji wa sehemu ya mbele katika timu au taasisi nyingi.

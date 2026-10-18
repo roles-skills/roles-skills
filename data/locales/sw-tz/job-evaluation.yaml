@@ -1,0 +1,159 @@
+# Job evaluation factors in Swahili. Keys are the English factor ids. Points
+# stay as in the English file.
+communication:
+  name: Ujuzi wa mawasiliano na kujenga mahusiano
+  description: Ujuzi unaohitajika kuwasiliana na wafanyakazi wenzake, wagonjwa, umma na washirika, na kujenga mahusiano nao. Huzingatia ugumu, unyeti au utata wa taarifa, na vikwazo vya uelewa au ukubalifu.
+  levels:
+    "1": Hutoa na kupokea taarifa za kawaida kwa mdomo, hasa na wafanyakazi wenzake.
+    "2": Hutoa na kupokea taarifa za kawaida kwa mdomo, kwa maandishi au kielektroniki, na wafanyakazi wenzake na wengine.
+    "3": Hutoa taarifa za kawaida zinazohitaji busara au ushawishi, au taarifa tata au nyeti, au mafunzo rahisi kwa makundi.
+    "4": Hutoa taarifa tata, nyeti au zenye utata zinazohitaji ujuzi wa ushawishi, majadiliano au ufundishaji, au taarifa tata sana.
+    "5": Hutoa taarifa tata sana au zenye utata zinazohitaji ujuzi uliokuzwa wa ushawishi na majadiliano, hutoa mawasilisho kwa makundi makubwa, au huwasiliana palipo na vikwazo vikubwa vya ukubalifu.
+    "6": Hutoa taarifa tata sana na zenye utata mkubwa palipo na vikwazo vikubwa vya ukubalifu, kwa kutumia kiwango cha juu kabisa cha ujuzi wa mawasiliano.
+knowledge:
+  name: Maarifa, mafunzo na uzoefu
+  description: Maarifa na uzoefu unaohitajika kufanya kazi, kutoka chanzo chochote, ikiwemo mafunzo rasmi, sifa za kitaaluma na uzoefu.
+  levels:
+    "1": Taratibu chache za kawaida, zinazojifunzwa kazini kwa kipindi kifupi cha utambulisho.
+    "2": Taratibu mbalimbali za kawaida, zinazojifunzwa kwa mafunzo kazini na utambulisho.
+    "3": Taratibu mbalimbali, baadhi zikiwa si za kawaida, zinazohitaji nadharia ya msingi (kwa mfano sifa ya kiwango cha 3 au uzoefu unaolingana).
+    "4": Taratibu mbalimbali, nyingi zikiwa si za kawaida, zinazohitaji nadharia ya kati (kwa mfano stashahada au uzoefu unaolingana).
+    "5": Utaalamu katika fani maalumu, unaoungwa mkono na nadharia au uzoefu wa vitendo (kiwango cha shahada au kinacholingana).
+    "6": Maarifa maalumu katika upana wa fani hiyo (kiwango cha stashahada ya uzamili au kinacholingana).
+    "7": Maarifa maalumu yaliyokuzwa sana katika upana wa fani hiyo (kiwango cha shahada ya uzamili au kinacholingana).
+    "8": Maarifa ya hali ya juu (shahada ya uzamivu pamoja na mafunzo ya ziada au yanayolingana), au maarifa maalumu katika fani zaidi ya moja yaliyojengwa kwa kipindi kirefu.
+analytical:
+  name: Ujuzi wa uchambuzi na uamuzi
+  description: Uchambuzi na uamuzi unaohitajika kuchakata taarifa, kutatua matatizo na kufanya maamuzi.
+  levels:
+    "1": Hufanya maamuzi kuhusu ukweli au hali rahisi.
+    "2": Hufanya maamuzi kuhusu ukweli au hali, nyingine zikihitaji uchambuzi.
+    "3": Hufanya maamuzi kuhusu ukweli au hali mbalimbali zinazohitaji uchambuzi au ulinganisho wa chaguzi.
+    "4": Hufanya maamuzi kuhusu ukweli au hali tata zinazohitaji uchambuzi, ufasiri na ulinganisho wa chaguzi.
+    "5": Hufanya maamuzi kuhusu ukweli au hali tata sana zinazohitaji uchambuzi, ufasiri na ulinganisho wa chaguzi.
+planning:
+  name: Ujuzi wa kupanga na kuratibu
+  description: Upangaji na uratibu unaohitajika kuendesha shughuli, programu, huduma au mikakati.
+  levels:
+    "1": Hupanga kazi zake za kila siku.
+    "2": Hupanga kazi au shughuli rahisi, baadhi zikiendelea.
+    "3": Hupanga shughuli kadhaa tata, akirekebisha mipango inapohitajika.
+    "4": Hupanga shughuli au mikakati tata ya aina nyingi, akiirekebisha inapohitajika.
+    "5": Hutunga mipango ya kimkakati ya muda mrefu, yenye kutokuwa na uhakika na athari katika taasisi nzima.
+physical-skills:
+  name: Ujuzi wa kimwili
+  description: Ujuzi wa kimwili unaohitajika, kama vile ustadi wa mikono, uratibu wa viungo, ujuzi wa kibodi na kuendesha gari.
+  levels:
+    "1": Uhitaji mdogo wa ujuzi wa kimwili.
+    "2": Ujuzi unaopatikana kwa mazoezi, kama vile matumizi ya kawaida ya kibodi au kuendesha gari.
+    "3": Ujuzi uliokuzwa unaohitaji kasi au usahihi, kama vile matumizi ya hali ya juu ya kibodi.
+    "4": Ujuzi uliokuzwa sana unaohitaji usahihi au kasi na uratibu wa juu wa mikono na macho.
+    "5": Kiwango cha juu kabisa cha usahihi, kasi na uratibu.
+patient-care:
+  name: Wajibu wa huduma kwa wagonjwa na wateja
+  description: Wajibu wa kutathmini, kutibu, kuhudumia au kushauri wagonjwa na wateja. Kwa nafasi nyingi za kidijitali na za kampuni, huu ni mawasiliano ya bahati tu.
+  levels:
+    "1": Huwasaidia wagonjwa, wateja au ndugu wakati wa mawasiliano ya bahati.
+    "2": Hutoa ushauri wa jumla usio wa kitabibu, taarifa au huduma moja kwa moja kwa wagonjwa au umma.
+    "3": Hutoa huduma binafsi, huduma za msingi za kiufundi za kitabibu, au ushauri wa msingi wa kitabibu.
+    "4": Hutekeleza huduma za kitabibu, hutoa huduma za kiufundi za kitabibu, au hushauri kuhusu huduma kwa wagonjwa.
+    "5": Hubuni programu za huduma, hutoa huduma maalumu za kiufundi za kitabibu, au hutoa ushauri maalumu kuhusu huduma kwa wagonjwa.
+    "6": Hubuni huduma maalumu, hutoa ushauri maalumu sana, au anawajibika kwa sehemu ya huduma ya kitabibu.
+    "7": Anawajibika kwa utoaji wa huduma ya kitabibu au ya matunzo.
+    "8": Wajibu wa kitaasisi kwa huduma za kitabibu au za matunzo.
+policy:
+  name: Wajibu wa sera na uendelezaji wa huduma
+  description: Wajibu wa kuendeleza na kutekeleza sera na huduma, na ukubwa wa athari zake.
+  levels:
+    "1": Hufuata sera zilizowekwa na wengine; anaweza kutoa maoni kuhusu mabadiliko.
+    "2": Hutekeleza sera za eneo lake na kupendekeza mabadiliko ya mazoea yake.
+    "3": Hutekeleza sera za eneo lake na kupendekeza mabadiliko yanayoathiri maeneo mengine.
+    "4": Hutekeleza sera na kuendeleza sera au huduma kwa huduma moja au maeneo kadhaa.
+    "5": Hutekeleza na kuendeleza sera au huduma mbalimbali kwa kurugenzi.
+    "6": Wajibu wa kitaasisi kwa uendelezaji mkubwa wa sera au huduma ndani ya taasisi au zaidi ya taasisi.
+financial-resources:
+  name: Wajibu wa rasilimali za fedha na mali
+  description: Wajibu wa fedha, bajeti, vifaa, akiba ya bidhaa, majengo na mali nyingine.
+  levels:
+    "1": Hutunza binafsi vifaa na rasilimali zinazotumika katika kazi yake.
+    "2": Hushughulikia fedha taslimu au vitu vya thamani, hutunza vifaa vinavyotumiwa na wengine, hudhibiti akiba ya bidhaa, au huidhinisha malipo madogo.
+    "3": Huidhinisha malipo, hununua baadhi ya mali au vifaa, hufuatilia au husimamia bajeti iliyokabidhiwa, au hutunza mali.
+    "4": Husimamia au huweka bajeti ya idara au huduma, au hununua au hutunza mali zake.
+    "5": Husimamia au huweka bajeti, au hudhibiti mali, za huduma kadhaa.
+    "6": Wajibu wa kitaasisi kwa fedha au mali za taasisi.
+people:
+  name: Wajibu kwa watu
+  description: Wajibu wa kusimamia, kuongoza, kufunza au kuendeleza wafanyakazi, au wa kutoa huduma za rasilimali watu.
+  levels:
+    "1": Huonyesha taratibu zake za kazi kwa wenzake wapya au wenye uzoefu mdogo.
+    "2": Husimamia au huratibu wafanyakazi kila siku, hufunza wengine mara kwa mara, au hutoa ushauri wa msingi wa rasilimali watu.
+    "3": Husimamia kundi la wafanyakazi kila siku, hufundisha mafunzo ya msingi au maalumu, au hutoa ushauri wa msingi wa rasilimali watu.
+    "4": Husimamia kitengo au idara moja kwa moja, hubuni programu za mafunzo kama jukumu kuu, au hutoa huduma zote za rasilimali watu.
+    "5": Husimamia idara kadhaa moja kwa moja, au husimamia mafunzo au sehemu kubwa ya rasilimali watu katika taasisi nzima.
+    "6": Wajibu wa kitaasisi kwa watu wa taasisi au kitengo chake cha rasilimali watu.
+information-resources:
+  name: Wajibu wa rasilimali za taarifa
+  description: Wajibu wa taarifa na mifumo ya taarifa, ya karatasi au ya kidijitali, ikiwemo kumbukumbu, data na mifumo inayozihifadhi.
+  levels:
+    "1": Hurekodi taarifa anazozalisha mwenye nafasi hiyo.
+    "2": Huingiza au huhifadhi data zilizokusanywa na wengine, au mara kwa mara huandika ripoti au hoja za data.
+    "3": Huandika muhtasari rasmi wa vikao, mara kwa mara huandika ripoti au hoja za data, au hutunza mifumo ya taarifa kama jukumu muhimu.
+    "4": Hurekebisha au hubuni mifumo ya taarifa kwa vigezo vya wengine, au huendesha mifumo ya taarifa ya idara kama jukumu kuu.
+    "5": Hubuni na kuendeleza mifumo mikubwa ya taarifa, au huendesha mifumo ya taarifa ya huduma kadhaa kama jukumu kuu.
+    "6": Husimamia na kuendeleza mifumo ya taarifa katika taasisi nzima kama jukumu kuu.
+    "7": Wajibu wa kitaasisi kwa mifumo ya taarifa ya taasisi.
+research:
+  name: Wajibu wa utafiti na maendeleo
+  description: Wajibu wa utafiti rasmi, maendeleo, tathmini, ukaguzi, majaribio na majaribio ya kitaalamu.
+  levels:
+    "1": Hufanya tafiti au ukaguzi kwa ajili ya kazi yake; mara kwa mara hushiriki katika utafiti au majaribio.
+    "2": Mara kwa mara hufanya utafiti, maendeleo, majaribio ya kitaalamu, au majaribio ya vifaa na mifumo kama sehemu ya kazi.
+    "3": Hufanya utafiti au maendeleo ndani ya programu rasmi kama jukumu kuu.
+    "4": Huratibu na kutekeleza programu za utafiti na maendeleo.
+    "5": Huanzisha na kuendeleza programu za utafiti na maendeleo zinazounga mkono malengo ya taasisi.
+    "6": Huanzisha na kuendeleza programu za utafiti na maendeleo zenye athari zaidi ya taasisi.
+freedom-to-act:
+  name: Uhuru wa kutenda
+  description: Kiwango ambacho mwenye nafasi huamua nini cha kufanya na jinsi gani, na jinsi kazi yake inavyosimamiwa kwa karibu.
+  levels:
+    "1": Hufanya kazi ndani ya taratibu zilizowekwa, huku usimamizi ukiwa karibu.
+    "2": Hufuata taratibu za kawaida na mifano ya awali; kwa kawaida kuna mtu wa kuuliza; kazi inaweza kukaguliwa.
+    "3": Hufuata sera na taratibu zilizobainishwa; kazi husimamiwa kwa uongozi badala ya ukaguzi wa karibu.
+    "4": Matokeo yamebainishwa, lakini mwenye nafasi huamua jinsi ya kuyafikia, ndani ya sera pana.
+    "5": Hufanya kazi ndani ya sera za jumla, na katika hali nyingi huamua jinsi ya kuzifasiri.
+    "6": Hufasiri sera na mkakati wa jumla ili kuweka malengo na viwango.
+physical-effort:
+  name: Juhudi za kimwili
+  description: Juhudi za kimwili zinazohitajika, kwa kuzingatia mara zinazotokea, muda na ukali.
+  levels:
+    "1": Kukaa, kusimama na kutembea, kwa juhudi ndogo ya kimwili.
+    "2": Kukaa au kusimama mara kwa mara katika nafasi finyu, au juhudi nyepesi hadi za wastani mara chache.
+    "3": Juhudi nyepesi mara kwa mara kwa muda mrefu, au juhudi za wastani mara kwa mara kwa muda mfupi.
+    "4": Juhudi nyepesi zinazoendelea, juhudi za wastani mara kwa mara kwa muda mrefu, au juhudi kali mara chache.
+    "5": Juhudi za wastani zinazoendelea, au juhudi kali mara kwa mara.
+mental-effort:
+  name: Juhudi za kiakili
+  description: Umakini unaohitajika, kwa kuzingatia mara zinazotokea, muda na jinsi kazi inavyoweza kutabirika.
+  levels:
+    "1": Umakini wa kawaida; umakini wa mara chache kwenye kazi inayotabirika.
+    "2": Umakini wa mara kwa mara kwenye kazi inayotabirika, au umakini wa mara chache kwenye kazi isiyotabirika.
+    "3": Umakini wa mara kwa mara kwenye kazi isiyotabirika, au umakini wa muda mrefu mara chache.
+    "4": Umakini wa muda mrefu mara kwa mara, au umakini mkali mara chache.
+    "5": Umakini mkali mara kwa mara.
+emotional-effort:
+  name: Juhudi za kihisia
+  description: Mahitaji ya kihisia ya kazi, kutokana na kukumbana moja kwa moja au kwa njia isiyo ya moja kwa moja na hali zenye kusikitisha, kama vile kusoma kumbukumbu za kesi zenye kuhuzunisha au kushughulikia matukio makubwa.
+  levels:
+    "1": Kukumbana mara chache, au kukumbana kwa njia isiyo ya moja kwa moja mara chache, na hali zenye kusikitisha.
+    "2": Kukumbana mara chache, au kukumbana kwa njia isiyo ya moja kwa moja mara kwa mara, na hali zenye kusikitisha.
+    "3": Kukumbana mara kwa mara na hali zenye kusikitisha, au kukumbana mara chache na hali zenye kusikitisha sana.
+    "4": Kukumbana mara chache na hali za kiwewe, au kukumbana mara kwa mara na hali zenye kusikitisha sana.
+working-conditions:
+  name: Mazingira ya kazi
+  description: Kukumbana na mazingira yasiyopendeza au hatari. Matumizi ya skrini karibu bila kikomo siku nyingi huhesabiwa kuwa kiwango cha 2.
+  levels:
+    "1": Kukumbana mara chache na mazingira yasiyopendeza.
+    "2": Mazingira yasiyopendeza mara chache, safari za mara kwa mara au kazi za nje, au matumizi ya skrini karibu bila kikomo siku nyingi.
+    "3": Mazingira yasiyopendeza mara kwa mara, au mazingira yasiyopendeza sana mara chache.
+    "4": Kukumbana kiasi na hatari, au mazingira yasiyopendeza sana mara kwa mara.
+    "5": Kukumbana sana na hatari.

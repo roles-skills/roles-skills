@@ -1,0 +1,27 @@
+summary: Wahandisi wa kujifunza kwa mashine huchukua miundo iliyojengwa na wanasayansi wa data, au iliyonunuliwa kutoka kwa wasambazaji, na kuifanya ifanye kazi kwa uaminifu katika huduma za moja kwa moja za afya na matunzo. Hujenga mifereji inayofunza, kujaribu, kusambaza na kufuatilia miundo, na kuiunganisha na mifumo ya kitabibu na ya kiutendaji. Huhakikisha miundo inabaki salama, ya kuhifadhiwa, ya haki na yenye ufanisi wakati wagonjwa na wafanyakazi halisi wanaitegemea.
+health_context:
+- Miundo inayotumika moja kwa moja inaweza kuteleza idadi ya wagonjwa, mazoezi ya kitabibu, au tabia za kurekodi zinapobadilika, hivyo utendaji hufuatiliwa kwa kila kundi la wagonjwa na miundo hufunzwa upya au kuondolewa inapohitajika.
+- Muundo unaoongoza utambuzi, upangaji wa vipaumbele vya wagonjwa, au matibabu unaweza kudhibitiwa kama kifaa tiba, jambo linaloleta mahitaji rasmi ya mzunguko wa maisha wa programu, udhibiti wa mabadiliko na ufuatiliaji baada ya soko.
+- Hoja za usalama wa kitabibu zinahitaji ushahidi kuhusu jinsi muundo unavyoshindwa, jinsi matokeo yake yanavyoonyeshwa kwa madaktari, na nini kinatokea usipopatikana.
+- Miundo iliyofunzwa kwa data za wagonjwa inaweza kuvujisha taarifa kuhusu watu binafsi, hivyo data za mafunzo, vitu vya muundo na kumbukumbu hulindwa kama data zenyewe.
+- AI ya kuzalisha na miundo mikubwa ya lugha huleta hatari zaidi, kama vile maudhui yaliyobuniwa katika maelezo ya kitabibu, ambazo zinahitaji majaribio maalumu na usimamizi wa binadamu.
+levels:
+- title: Mhandisi mwandamizi wa kujifunza kwa mashine
+  responsibilities:
+  - Kusambaza miundo kwenye huduma za kitabibu na za kiutendaji za uzalishaji, kwa majaribio ya kiotomatiki, matoleo na kurudi nyuma.
+  - Kujenga ufuatiliaji wa utendaji wa muundo, mteleo na haki katika makundi ya wagonjwa, wenye tahadhari na wamiliki walio wazi.
+  - Kuunganisha miundo na mifumo ya kitabibu, akitumia viwango huria kama HL7 FHIR inapowezekana.
+  - Kutoa ushahidi wa majaribio, mabadiliko na ufuatiliaji unaohitajika kwa hoja za usalama wa kitabibu na mafaili ya kiufundi ya vifaa tiba.
+  - Kutathmini na kurekebisha miundo ya wasambazaji na ya chanzo huria kwa matumizi ya ndani, ikiwemo miundo ya AI ya kuzalisha.
+  - Kuwaongoza wanasayansi wa data na wahandisi kuhusu mazoezi ya uhandisi wa kujifunza kwa mashine.
+  qualifications:
+  - Uzoefu mkubwa wa kujenga na kuendesha mifumo ya kujifunza kwa mashine katika uzalishaji, katika kiwango kinacholingana na shahada ya uzamili.
+- title: Mhandisi kiongozi wa kujifunza kwa mashine
+  responsibilities:
+  - Kuongoza kazi tata zaidi ya kuleta miundo kutoka utafiti hadi matumizi salama ya moja kwa moja katika taasisi.
+  - Kufafanua mzunguko wa maisha wa kujifunza kwa mashine, ikiwemo udhibiti unaohitajika kwa miundo inayodhibitiwa na inayohusu usalama.
+  - Kuweka viwango vya majaribio ya miundo, ufuatiliaji, usalama na maadili, na kuhakikisha miundo inayotumika moja kwa moja.
+  - Kufanya kazi na maafisa wa usalama wa kitabibu, usimamizi wa taarifa na wataalamu wa udhibiti kukubaliana jinsi miundo inavyotathminiwa na kuidhinishwa.
+  - Kubaini mahitaji ya mafunzo na kuendeleza wahandisi wa kujifunza kwa mashine na nafasi zinazohusiana.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uhandisi wa kujifunza kwa mashine kwa huduma tata au zinazodhibitiwa.

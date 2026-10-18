@@ -1,0 +1,66 @@
+summary: Wasanidi wa programu hujenga, hujaribu na kutunza programu iliyo nyuma ya huduma za afya za kidijitali za taasisi, kama vile programu tumizi zinazowalenga wagonjwa, mifumo ya kitabibu, huduma za uunganishaji na majukwaa ya data. Hufanya kazi katika timu za bidhaa za fani mbalimbali, huandika msimbo salama, wa kuhifadhiwa, unaofikika na unaotunzika, na kusaidia huduma zao katika uendeshaji wa moja kwa moja.
+health_context:
+- Programu inaweza kuathiri matunzo ya wagonjwa, hivyo wasanidi hufuata mchakato wa usimamizi wa hatari za kitabibu na kuchangia ushahidi kwa hoja za usalama.
+- Msimbo mara nyingi hushughulikia taarifa za siri za afya, hivyo wasanidi hutumia usimamizi wa taarifa na mazoezi ya uandishi salama wa msimbo kama kawaida.
+- Huduma nyingi hubadilishana data na mifumo mingine ya afya na matunzo, kwa kutumia viwango huria vya ushirikiano wa mifumo kama HL7 FHIR.
+- Baadhi ya programu zinaweza kudhibitiwa kama kifaa tiba, hivyo wasanidi wanahitaji kujua ni lini kuomba ushauri wa udhibiti.
+levels:
+- title: Mwanagenzi msanidi wa programu
+  responsibilities:
+  - Kujifunza lugha, zana na njia za kufanya kazi za timu kupitia mafunzo yaliyopangwa na kufanya kazi kwa jozi.
+  - Kuandika na kujaribu vipande vidogo vilivyobainishwa vizuri vya msimbo chini ya usimamizi wa karibu.
+  - Kufuata taratibu za uandishi salama wa msimbo, usimamizi wa taarifa na usalama wa kitabibu.
+  - Kushiriki katika taratibu za timu kama vile mikutano ya kusimama, mipango na tafakari.
+  - Kujitahidi kupata uanagenzi au sifa inayolingana.
+  qualifications:
+  - Amesajiliwa katika, au anaelekea kukamilisha, uanagenzi wa uundaji wa programu au unaolingana nao.
+  job_evaluation_notes: Maarifa yamepewa alama ya kiwango ambacho kazi inahitaji mara mafunzo yanapokuwa yamekamilika vya kutosha kufanya kazi; rasilimali za taarifa zinaakisi kazi kwenye mifumo iliyobuniwa na wengine.
+- title: Msanidi mdogo wa programu
+  responsibilities:
+  - Kujenga na kujaribu vipengele vya bidhaa za timu, akifanya kazi kutoka hadithi za watumiaji kwa mwongozo.
+  - Kuandika majaribio ya kiotomatiki na kurekebisha kasoro, ikiwemo katika huduma zinazounga mkono matunzo ya wagonjwa.
+  - Kuchangia ushahidi kwa hoja za usalama wa kitabibu, kama vile matokeo ya majaribio na kumbukumbu za mabadiliko.
+  - Kushughulikia data za afya kwa usalama, akifuata kanuni za usimamizi wa taarifa.
+  - Kusaidia huduma za moja kwa moja, kwa mwongozo, kama sehemu ya mipango ya msaada ya timu.
+  qualifications:
+  - Shahada katika kompyuta au somo linalohusiana, uanagenzi uliokamilika, au uzoefu unaolingana.
+- title: Msanidi wa programu
+  responsibilities:
+  - Kubuni, kujenga na kujaribu vipengele na huduma kwa kujitegemea, akichagua njia zinazofaa.
+  - Kukagua msimbo na kusaidia kutunza viwango vya uhandisi vya timu.
+  - Kujenga miunganisho na mifumo mingine ya afya na matunzo kwa kutumia viwango huria kama HL7 FHIR.
+  - Kushiriki katika utambuzi wa hatari na kusaidia kuweka udhibiti wa usalama wa kitabibu ndani ya msimbo na majaribio.
+  - Kuchunguza na kurekebisha matatizo katika huduma za moja kwa moja, ikiwemo msaada nje ya saa za kazi pale huduma inapohitaji.
+  - Kuwa mshauri wa wasanidi wadogo na wanagenzi.
+  qualifications:
+  - Shahada katika kompyuta au somo linalohusiana, au uzoefu unaolingana.
+  - Uzoefu wa kujenga na kusaidia programu za uzalishaji.
+- title: Msanidi mwandamizi wa programu
+  responsibilities:
+  - Kuongoza usanifu wa kiufundi na utoaji wa vipengele na huduma muhimu.
+  - Kuweka na kutunza viwango vya uhandisi vya timu, ikiwemo majaribio, usalama na ufikivu.
+  - Kufanya maamuzi ya kiufundi yanayosawazisha mahitaji ya watumiaji, usalama wa kitabibu, usalama na gharama.
+  - Kuongoza uchunguzi wa matukio kwa huduma za timu na kusukuma marekebisho.
+  - Kufanya kazi na maafisa wa usalama wa kitabibu kuhakikisha udhibiti wa usalama umebuniwa ndani na kujaribiwa.
+  - Kuwaongoza na kuwaendeleza wasanidi katika timu.
+  qualifications:
+  - Uzoefu mkubwa wa kubuni, kujenga na kusaidia programu za uzalishaji, katika kiwango kinacholingana na shahada ya uzamili.
+- title: Msanidi kiongozi wa programu
+  responsibilities:
+  - Kuongoza uhandisi wa bidhaa au kundi la timu, akiweka mwelekeo wa kiufundi.
+  - Kuhakikisha programu inabuniwa kwa usalama, ulinzi, ustahimilivu na ushirikiano wa mifumo.
+  - Kufanya kazi na wasanifu, mameneja wa bidhaa na viongozi wa kitabibu kuunda ramani ya njia ya bidhaa.
+  - Kuongoza jumuiya ya mazoezi ya uendelezaji na kuweka viwango katika timu.
+  - Kusimamia moja kwa moja au kuongoza wasanidi, akisaidia maendeleo na utendaji wao.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uhandisi wa programu kwa huduma tata.
+  job_evaluation_notes: UK GDaD PCF inaorodhesha msanidi kiongozi na mkuu kwa kawaida katika G7 au G6; marejeleo haya yanaweka kiongozi katika Daraja la 8a na mkuu katika Daraja la 8b.
+- title: Msanidi mkuu wa programu
+  responsibilities:
+  - Kuweka mkakati, viwango na mazoezi ya uhandisi kwa uendelezaji wa programu wa taasisi.
+  - Kuwashauri viongozi wakuu kuhusu uchaguzi wa teknolojia, hatari na uwekezaji.
+  - Kuongoza utatuzi wa matatizo tata zaidi ya kiufundi katika huduma.
+  - Kuiwakilisha taasisi katika jumuiya za uhandisi za taasisi mbalimbali na za chanzo huria.
+  - Kuongoza na kuendeleza wasanidi viongozi na kukuza uwezo wa uhandisi wa taasisi.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uhandisi katika timu au taasisi nyingi.

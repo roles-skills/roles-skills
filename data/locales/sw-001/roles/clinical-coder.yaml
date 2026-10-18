@@ -1,0 +1,65 @@
+summary: Waweka misimbo ya kitabibu husoma kumbukumbu za afya za wagonjwa na kutafsiri utambuzi, taratibu na taarifa nyingine za kitabibu kuwa misimbo ya kawaida ya uainishaji, kama vile ICD kwa utambuzi na uainishaji wa taratibu kwa afua. Data zenye misimbo hutumika kwa malipo, mipango ya huduma, ukaguzi wa kitabibu, utafiti na takwimu za afya ya umma, hivyo usahihi wake ni muhimu zaidi ya timu ya uwekaji misimbo. Waweka misimbo hufanya kazi kwa karibu na madaktari kufafanua kumbukumbu, na zaidi na zaidi hutumia istilahi za kitabibu kama SNOMED CT na zana za uwekaji misimbo zinazosaidiwa na kompyuta.
+health_context:
+- Waweka misimbo husoma maelezo kamili ya kesi, ambayo mara nyingi huelezea magonjwa makubwa, majeraha, unyanyasaji, kujidhuru na vifo, hivyo kazi huhitaji nguvu za kihisia na timu zinahitaji msaada na usimamizi mzuri.
+- Data zenye misimbo huendesha malipo ya shughuli, viashiria vya vifo na matokeo, na mipango ya huduma, hivyo makosa yanaweza kuathiri ufadhili, utendaji uliochapishwa na maamuzi kuhusu matunzo.
+- Uwekaji misimbo hutegemea ubora wa nyaraka za kitabibu, hivyo waweka misimbo huuliza madaktari kuhusu kumbukumbu zisizo wazi na kusaidia kuboresha jinsi matunzo yanavyorekodiwa.
+- Waweka misimbo hushughulikia kumbukumbu kamili za afya zinazotambulisha kila siku, hivyo usiri na ufikiaji sahihi ni muhimu.
+- Uwekaji misimbo wa kiotomatiki na unaosaidiwa na kompyuta, na ulinganishaji kutoka SNOMED CT hadi uainishaji, unabadilisha kazi hii, na waweka misimbo hukagua kama misimbo ya kiotomatiki ni sahihi.
+levels:
+- title: Mwekaji misimbo ya kitabibu mwanafunzi
+  summary: Mwekaji misimbo ya kitabibu mwanafunzi hujifunza kuweka misimbo ya visa rahisi vya hospitali chini ya usimamizi wa karibu, akielekea kupata sifa ya uwekaji misimbo ya kitabibu.
+  responsibilities:
+  - Kuweka misimbo ya visa rahisi, kama vile wagonjwa wa siku moja, kutoka kwenye kumbukumbu za afya kwa kutumia kanuni za uainishaji, huku kazi yote ikikaguliwa na mwekaji misimbo mwandamizi.
+  - Kujifunza istilahi za kitabibu, anatomia, na viwango vya kitaifa na kimataifa vya uwekaji misimbo kupitia mafunzo yaliyopangwa.
+  - Kupata, kufuatilia na kurudisha kumbukumbu za afya kwa usahihi, na kuziweka salama.
+  - Kurekodi data zenye misimbo katika mfumo wa utawala wa wagonjwa au wa uwekaji misimbo kwa usahihi na kwa wakati.
+  - Kuibua taarifa zisizo wazi au zinazokosekana kwa mwekaji misimbo mwandamizi.
+  qualifications:
+  - Ujuzi mzuri wa kusoma na kuandika na kutumia kibodi, na usajili katika programu ya mafunzo ya uwekaji misimbo ya kitabibu, au unaolingana.
+  job_evaluation_notes: Juhudi za kiakili ni kiwango cha 4 kwa sababu waweka misimbo hukazia fikira kwa muda mrefu wakisoma na kufasiri maelezo ya kina ya kesi. Juhudi za kihisia ni kiwango cha 2 kwa sababu waweka misimbo mara nyingi husoma kumbukumbu zinazoelezea matukio ya kuhuzunisha.
+- title: Mwekaji misimbo ya kitabibu
+  summary: Mwekaji misimbo ya kitabibu huweka misimbo ya aina zote za visa vya kawaida kwa kujitegemea na kwa usahihi, akitimiza tarehe za mwisho na viwango vya ubora vilivyokubaliwa.
+  responsibilities:
+  - Kuweka misimbo ya visa vya wagonjwa waliolazwa, wa siku moja na wa nje kwa usahihi katika taaluma za kawaida, kwa kutumia kanuni za uainishaji na sera za ndani.
+  - Kuuliza madaktari kuhusu taarifa za kitabibu zisizo wazi, zinazokosekana au zinazokinzana na kurekodi matokeo.
+  - Kukagua misimbo inayopendekezwa na uwekaji misimbo unaosaidiwa na kompyuta au ramani za istilahi, na kuisahihisha inapohitajika.
+  - Kutimiza tarehe za mwisho za ukamilifu wa uwekaji misimbo, ili data ziwe tayari kwa malipo na kuripoti.
+  - Kushiriki katika ukaguzi wa uwekaji misimbo na kuchukua hatua kulingana na matokeo yake.
+  qualifications:
+  - Sifa inayotambuliwa ya uwekaji misimbo ya kitabibu, au anaelekea kuipata akiwa na uzoefu unaolingana.
+  job_evaluation_notes: Juhudi za kiakili na za kihisia zinaakisi vipindi virefu vya umakini kwenye maelezo ya kesi ambayo mara nyingi huelezea magonjwa makubwa, majeraha na vifo.
+- title: Mwekaji misimbo mwandamizi wa kitabibu
+  summary: Mwekaji misimbo mwandamizi wa kitabibu huweka misimbo ya visa tata katika taaluma mbalimbali, ni chanzo cha ushauri wa kitaalamu kwa waweka misimbo wengine, na hukagua na kufunza waweka misimbo wenye uzoefu mdogo.
+  responsibilities:
+  - Kuweka misimbo ya visa tata, kama vile huduma muhimu, saratani, taratibu nyingi na vifo, katika taaluma mbalimbali.
+  - Kutatua maswali magumu ya uwekaji misimbo pamoja na washauri bingwa na madaktari wengine waandamizi, akieleza kanuni za uwekaji misimbo kwa uwazi.
+  - Kukagua kazi ya waweka misimbo wanafunzi na kuwapa maoni na mafunzo kazini.
+  - Kuthibitisha data zenye misimbo kabla ya kuwasilishwa na kurekebisha makosa pamoja na timu sahihi.
+  - Kufanya kazi na timu za kitabibu kuboresha ubora wa nyaraka za kitabibu.
+  qualifications:
+  - Sifa inayotambuliwa ya uwekaji misimbo ya kitabibu, au uzoefu unaolingana.
+  - Uzoefu wa kuweka misimbo ya visa tata katika taaluma mbalimbali.
+  job_evaluation_notes: Juhudi za kihisia zinabaki katika kiwango cha 2, kwani visa tata kama vifo na huduma ya saratani ni sehemu ya kawaida ya kazi.
+- title: Mkaguzi na mkufunzi wa uwekaji misimbo ya kitabibu
+  summary: Mkaguzi na mkufunzi wa uwekaji misimbo ya kitabibu hukagua usahihi wa data zenye misimbo, hubuni na kutoa mafunzo ya uwekaji misimbo, na kushauri taasisi kuhusu viwango vya uwekaji misimbo. Katika baadhi ya taasisi ngazi hii pia huongoza timu ya uwekaji misimbo kila siku.
+  responsibilities:
+  - Kupanga na kufanya ukaguzi wa uwekaji misimbo katika taaluma mbalimbali, akipima usahihi dhidi ya viwango vya kitaifa na kimataifa.
+  - Kuripoti matokeo ya ukaguzi kwa timu za uwekaji misimbo, za kitabibu, za fedha na za taarifa, na kukubaliana hatua za kuboresha.
+  - Kubuni na kutoa mafunzo ya uwekaji misimbo, kuanzia kozi za msingi kwa waweka misimbo wapya hadi mafunzo ya kujikumbusha kuhusu mabadiliko ya viwango.
+  - Kuwashauri madaktari na mameneja jinsi uwekaji misimbo unavyoathiri malipo, viashiria vya vifo na data za utendaji.
+  - Kuongoza utekelezaji wa mabadiliko katika matoleo ya uainishaji, viwango vya uwekaji misimbo na zana za uwekaji misimbo.
+  - Kuongoza timu ya uwekaji misimbo kila siku pale taasisi inapochanganya hili na ukaguzi na mafunzo.
+  qualifications:
+  - Sifa inayotambuliwa ya uwekaji misimbo ya kitabibu na sifa inayotambuliwa ya ukaguzi au mafunzo ya uwekaji misimbo ya kitabibu, au uzoefu unaolingana.
+  job_evaluation_notes: Watu ni kiwango cha 3 kwa sababu kubuni na kufundisha mafunzo maalumu ya uwekaji misimbo ni jukumu kuu. Utafiti ni kiwango cha 2 kwa sababu ukaguzi wa uwekaji misimbo ni sehemu ya kawaida ya kazi.
+- title: Meneja wa uwekaji misimbo ya kitabibu
+  summary: Meneja wa uwekaji misimbo ya kitabibu huongoza huduma ya uwekaji misimbo ya kitabibu ya taasisi, ikiwemo timu zake za uwekaji misimbo, programu ya ubora na mahusiano na timu za kitabibu, za fedha na za taarifa.
+  responsibilities:
+  - Kuongoza huduma ya uwekaji misimbo ya kitabibu na viongozi wa timu zake, akihakikisha uwekaji misimbo umekamilika, ni sahihi na uko kwa wakati.
+  - Kuweka sera za uwekaji misimbo na programu ya ubora wa uwekaji misimbo, kulingana na viwango vya kitaifa na kimataifa.
+  - Kusimamia bajeti ya uwekaji misimbo na kupanga nguvu kazi, ikiwemo uajiri, mafunzo na uthibitisho.
+  - Kuwashauri viongozi wakuu jinsi uwekaji misimbo unavyoathiri ufadhili, viashiria vya vifo na matokeo, na data zilizochapishwa.
+  - Kuongoza kupitishwa kwa teknolojia mpya ya uwekaji misimbo, kama vile uwekaji misimbo unaosaidiwa na kompyuta na ulinganishaji wa istilahi, pamoja na wenzake wa usalama wa kitabibu na usimamizi wa taarifa.
+  - Kusaidia ustawi wa waweka misimbo wanaosoma mara kwa mara kumbukumbu zenye kuhuzunisha.
+  qualifications:
+  - Sifa inayotambuliwa ya uwekaji misimbo ya kitabibu na uzoefu mpana wa uwekaji misimbo, ukaguzi na kuongoza waweka misimbo, au uzoefu unaolingana.
