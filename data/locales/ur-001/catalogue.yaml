@@ -1,0 +1,92 @@
+# کردار کے خاندانوں اور کرداروں کے اردو نام۔ کنجیاں انگریزی شناخت کنندے ہیں۔
+# راستے (slugs) انہی ناموں سے بنتے ہیں۔
+families:
+  software-development: {title: سافٹ ویئر کی ترقی}
+  architecture: {title: فنِ تعمیر}
+  data: {title: ڈیٹا}
+  product-and-delivery: {title: مصنوعات اور فراہمی}
+  user-centred-design: {title: صارف مرکوز ڈیزائن}
+  it-operations: {title: آئی ٹی کا نظم و نسق}
+  cyber-security: {title: سائبر سلامتی}
+  quality-assurance-testing: {title: معیار کی یقین دہانی اور جانچ}
+  clinical-informatics: {title: طبی معلوماتیات اور طبی حفاظت}
+  information-governance: {title: معلومات کا نظم و ضبط}
+  finance: {title: مالیات}
+  legal: {title: قانونی امور}
+  human-resources: {title: انسانی وسائل}
+  procurement: {title: خریداری}
+  corporate-services: {title: کارپوریٹ خدمات}
+roles:
+  software-developer: {title: سافٹ ویئر ڈیولپر}
+  frontend-developer: {title: فرنٹ اینڈ ڈیولپر}
+  devops-engineer: {title: ڈیو آپس انجینئر}
+  integration-engineer: {title: انضمامی انجینئر (صحت کی باہمی مطابقت)}
+  enterprise-architect: {title: انٹرپرائز آرکیٹیکٹ}
+  solution-architect: {title: حل کا آرکیٹیکٹ}
+  technical-architect: {title: تکنیکی آرکیٹیکٹ}
+  data-architect: {title: ڈیٹا آرکیٹیکٹ}
+  security-architect: {title: سلامتی کا آرکیٹیکٹ}
+  network-architect: {title: نیٹ ورک آرکیٹیکٹ}
+  business-architect: {title: کاروباری آرکیٹیکٹ}
+  data-analyst: {title: ڈیٹا تجزیہ کار}
+  performance-analyst: {title: کارکردگی کا تجزیہ کار}
+  data-engineer: {title: ڈیٹا انجینئر}
+  analytics-engineer: {title: اینالیٹکس انجینئر}
+  data-scientist: {title: ڈیٹا سائنس دان}
+  machine-learning-engineer: {title: مشینی تعلم کا انجینئر}
+  data-governance-manager: {title: ڈیٹا کے نظم و ضبط کا مینیجر}
+  clinical-coder: {title: طبی کوڈنگ کا ماہر}
+  business-analyst: {title: کاروباری تجزیہ کار}
+  delivery-manager: {title: فراہمی کا مینیجر}
+  product-manager: {title: مصنوعات کا مینیجر}
+  project-manager: {title: منصوبے کا مینیجر}
+  programme-delivery-manager: {title: پروگرام کی فراہمی کا مینیجر}
+  digital-portfolio-manager: {title: ڈیجیٹل پورٹ فولیو کا مینیجر}
+  service-owner: {title: خدمت کا مالک}
+  user-researcher: {title: صارف تحقیق کار}
+  service-designer: {title: خدمت کا ڈیزائنر}
+  interaction-designer: {title: تعامل کا ڈیزائنر}
+  content-designer: {title: مواد کا ڈیزائنر}
+  accessibility-specialist: {title: رسائی کا ماہر}
+  service-desk-analyst: {title: سروس ڈیسک تجزیہ کار}
+  end-user-computing-engineer: {title: آخری صارف کمپیوٹنگ انجینئر}
+  infrastructure-engineer: {title: بنیادی ڈھانچے کا انجینئر}
+  application-operations-engineer: {title: ایپلیکیشن آپریشنز انجینئر}
+  it-service-manager: {title: آئی ٹی خدمات کا مینیجر}
+  incident-manager: {title: واقعات کا مینیجر}
+  problem-manager: {title: مسائل کا مینیجر}
+  change-and-release-manager: {title: تبدیلی اور اجرا کا مینیجر}
+  security-analyst: {title: سلامتی کے آپریشنز کا تجزیہ کار}
+  security-engineer: {title: سلامتی کا انجینئر}
+  cyber-security-manager: {title: سائبر سلامتی کا مینیجر}
+  quality-assurance-test-analyst: {title: معیار کی یقین دہانی اور جانچ کا تجزیہ کار}
+  test-engineer: {title: جانچ کا انجینئر}
+  test-manager: {title: جانچ کا مینیجر}
+  clinical-informatician: {title: طبی معلوماتیات کا ماہر}
+  clinical-safety-officer: {title: طبی حفاظت کا افسر}
+  chief-clinical-information-officer: {title: چیف کلینیکل انفارمیشن آفیسر}
+  records-officer: {title: ریکارڈ افسر}
+  information-governance-officer: {title: معلومات کے نظم و ضبط کا افسر}
+  data-protection-officer: {title: ڈیٹا کے تحفظ کا افسر}
+  finance-officer: {title: مالیاتی افسر}
+  payroll-officer: {title: تنخواہ کا افسر}
+  management-accountant: {title: انتظامی اکاؤنٹنٹ}
+  financial-accountant: {title: مالیاتی اکاؤنٹنٹ}
+  head-of-finance: {title: سربراہ مالیات}
+  legal-assistant: {title: قانونی معاون}
+  legal-adviser: {title: قانونی مشیر}
+  head-of-legal: {title: سربراہ قانونی امور}
+  hr-officer: {title: انسانی وسائل کا افسر}
+  recruitment-officer: {title: بھرتی کا افسر}
+  hr-business-partner: {title: انسانی وسائل کا کاروباری شریک}
+  learning-and-development-specialist: {title: تعلم اور ترقی کا ماہر}
+  head-of-people: {title: سربراہ انسانی وسائل}
+  procurement-officer: {title: خریداری کا افسر}
+  category-manager: {title: زمرہ مینیجر}
+  contract-manager: {title: معاہدوں کا مینیجر}
+  head-of-procurement: {title: سربراہ خریداری}
+  administrator: {title: منتظم}
+  executive-assistant: {title: انتظامی معاون برائے اعلیٰ افسر}
+  project-support-officer: {title: منصوبہ جاتی معاونت کا افسر}
+  governance-and-risk-manager: {title: نظم و ضبط اور خطرات کا مینیجر}
+  communications-officer: {title: ابلاغ کا افسر}

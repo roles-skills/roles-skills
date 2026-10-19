@@ -188,3 +188,5 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Native speaker review of vi-001
 - [x] pt-001 (Português, Portuguese): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of pt-001
+- [x] ur-001 (اردو, Urdu): all roles, skills, bands, job evaluation, and interface strings; right to left
+- [ ] Native speaker review of ur-001

@@ -1,0 +1,73 @@
+# اردو (دنیا)، دائیں سے بائیں۔ انگریزی سے ایک مصنوعی ذہانت کے معاون نے ترجمہ کیا ہے؛
+# کسی مادری زبان بولنے والے نے ابھی اس کا جائزہ نہیں لیا۔ UK GDaD PCF اور ESCO کے
+# اقتباسات انگریزی میں رہتے ہیں۔ عہدوں کے نام غیر جانبدار اردو صورتوں میں ہیں۔
+# راستے (slugs) اردو عنوانات سے بنتے ہیں۔
+code: ur-001
+name: اردو
+english_name: Urdu
+dir: rtl
+complete: true
+paths:
+  roles: کردار
+  families: خاندان
+  bands: درجے
+  skills: مہارتیں
+  job-evaluation: ملازمت-کی-جانچ
+  about: تعارف
+strings:
+  disclaimer: "یہ ایک عمومی ڈیجیٹل صحت کی نگہداشت کے ادارے کے لیے مثالی حوالہ پروفائل ہے۔ یہ کسی بھی آجر کی سرکاری ملازمت کی تفصیل نہیں ہے، اور اس میں ملازمت کی جانچ کے اسکور باضابطہ جانچ نہیں ہیں۔"
+  translation_note: "اس کا انگریزی سے ترجمہ ایک مصنوعی ذہانت کے معاون نے کیا ہے اور کسی مادری زبان بولنے والے نے ابھی اس کا جائزہ نہیں لیا۔ UK GDaD PCF (برطانوی حکومت کا ڈیجیٹل، ڈیٹا اور ٹیکنالوجی پیشے کی صلاحیتوں کا فریم ورک) اور ESCO کے اقتباسات انگریزی میں ہی رہتے ہیں۔"
+  home_title: کرداروں کی فہرست
+  home_lede: "پہلے اپنے کام سے قریب ترین خاندان تلاش کریں، پھر کردار، اور پھر درجہ۔"
+  roles_title: تمام کردار (الف سے ی)
+  bands_title: درجے کے مطابق کردار
+  skills_title: مہارتیں
+  skills_lede: "ہر مہارت کے چار درجے ہیں: آگاہی (1)، عملی (2)، ماہرانہ عمل (3) اور ماہر (4)۔ UK GDaD PCF کی مہارتیں اسی سے انگریزی میں نقل کی گئی ہیں۔ باقی مہارتیں اس حوالے کی اپنی ہیں۔"
+  pcf_title: UK GDaD PCF کے کردار کے مطابق کردار
+  esco_title: ESCO کے پیشے کے مطابق کردار
+  role: کردار
+  roles: کردار
+  family: خاندان
+  band: درجہ
+  bands: درجے
+  title: عنوان
+  role_level: کردار کی سطح
+  skill: مہارت
+  source: ماخذ
+  expected_level: متوقع سطح
+  level_meaning: اس سطح کا مطلب
+  factor: عنصر
+  level: سطح
+  points: پوائنٹس
+  total: کل
+  summary: خلاصہ
+  health_context: ڈیجیٹل صحت کی نگہداشت کے ادارے میں
+  pcf_role: UK GDaD PCF کا کردار
+  pcf_role_none: "کوئی نہیں (یہ حوالہ اس کردار کی تعریف خود کرتا ہے)"
+  pcf_role_description: UK GDaD PCF کے کردار کی تفصیل (انگریزی اصل)
+  pcf_level: UK GDaD PCF کی سطح
+  civil_service_grades: برطانوی سول سروس کے گریڈ
+  esco_occupations: ESCO کے پیشے
+  role_levels: کردار کی سطحیں
+  job_evaluation_points: ملازمت کی جانچ کے پوائنٹس
+  responsibilities: ذمہ داریاں
+  skills: مہارتیں
+  qualifications: عمومی قابلیت اور تجربہ
+  band_outline: درجے کا خاکہ
+  knowledge: علم
+  autonomy: خودمختاری
+  scope: دائرہ کار
+  leadership: قیادت
+  accountability: جواب دہی
+  job_evaluation: ملازمت کی جانچ (مثالی)
+  source_pcf: UK GDaD PCF
+  source_reference: یہ حوالہ
+  used_in: "{n} کردار کی سطحوں میں استعمال ہوتی ہے۔"
+  awareness: آگاہی
+  working: عملی
+  practitioner: ماہرانہ عمل
+  expert: ماہر
+  sfia_level: SFIA کی سطح
+  esco_occupation: ESCO کا پیشہ
+  pcf_family: PCF کا خاندان
+  roles_in_reference: اس حوالے میں شامل کردار
