@@ -1,0 +1,298 @@
+# Tradução para o português de data/skills/human-resources.yaml. As chaves são os códigos das competências em inglês.
+hr-hr-administration:
+  name: Administração de RH
+  description: Conduzir com exatidão e confidencialidade os processos administrativos do ciclo de vida do vínculo de trabalho, de contratos e admissões a alterações, registros de ausências e desligamentos.
+  levels:
+    awareness: |
+      Você pode:
+      - seguir os procedimentos da organização para admissões, alterações e desligamentos
+      - manter os registros pessoais confidenciais e atualizados
+    working: |
+      Você pode:
+      - preparar com exatidão contratos, cartas de alteração e verificações de vínculo
+      - processar dentro dos prazos as alterações no sistema de RH e de folha de pagamento
+      - responder a perguntas rotineiras de gestores e equipes sobre os processos de RH
+    practitioner: |
+      Você pode:
+      - conduzir um serviço de administração de RH, verificando a qualidade e cumprindo os padrões de serviço
+      - melhorar processos e modelos e automatizar etapas rotineiras sempre que possível
+      - resolver casos complexos ou incomuns, como pagamentos a mais ou erros de contrato
+    expert: |
+      Você pode:
+      - projetar o modelo operacional e os padrões de serviço de RH da organização
+      - liderar a transição para processos de RH digitais e de autoatendimento
+      - definir controles que mantenham os dados de RH e de folha de pagamento exatos e legais
+hr-employment-policy:
+  name: Legislação trabalhista e política de pessoas
+  description: Aplicar a legislação trabalhista e redigir, interpretar e revisar as políticas de pessoas da organização, para que as equipes sejam tratadas de forma legal, justa e consistente.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar as principais políticas de pessoas e onde encontrá-las
+      - reconhecer quando uma dúvida exige o parecer de um assessor de RH
+    working: |
+      Você pode:
+      - aplicar as políticas de pessoas a casos rotineiros e explicá-las aos gestores
+      - identificar os princípios da legislação trabalhista por trás de uma política
+      - manter os registros das políticas e acompanhar as datas de revisão
+    practitioner: |
+      Você pode:
+      - interpretar a legislação trabalhista e a política em casos complexos e aconselhar sobre riscos
+      - redigir e revisar políticas de pessoas, com avaliações de impacto sobre a igualdade
+      - consultar representantes dos trabalhadores sobre mudanças de política
+    expert: |
+      Você pode:
+      - definir a estrutura de políticas de pessoas da organização e a sua abordagem do risco jurídico
+      - antecipar mudanças na legislação trabalhista e planejar a resposta da organização
+      - aconselhar o conselho de administração sobre riscos e responsabilidades trabalhistas
+hr-employee-relations:
+  name: Casos de relações de trabalho
+  description: Gerir com justiça, conforme a política e a legislação trabalhista, casos formais e informais de relações de trabalho, como conduta, capacidade, reclamações, assiduidade e dignidade no trabalho.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar as principais etapas dos procedimentos de conduta, capacidade, reclamação e assiduidade
+      - fazer anotações exatas em reuniões formais e manter confidenciais os registros dos casos
+    working: |
+      Você pode:
+      - orientar gestores em casos simples e sobre a etapa seguinte de um procedimento
+      - apoiar investigações, preparar os documentos do caso e organizar audiências
+      - trabalhar de forma construtiva com representantes dos trabalhadores em casos individuais
+    practitioner: |
+      Você pode:
+      - gerir uma carteira de casos complexos, orientando as comissões de audiência sobre resultados justos
+      - realizar ou liderar investigações, inclusive as ligadas a incidentes ou à proteção de pessoas vulneráveis
+      - usar a resolução antecipada e a mediação para encerrar disputas antes que se agravem
+      - identificar tendências nos casos e agir sobre suas causas
+    expert: |
+      Você pode:
+      - liderar a abordagem da organização para as relações de trabalho e a atuação em parceria
+      - tratar os casos mais sensíveis ou de maior risco, inclusive ações trabalhistas
+      - negociar acordos coletivos e resolver conflitos coletivos
+hr-recruitment-and-selection:
+  name: Recrutamento e seleção
+  description: Atrair, avaliar e contratar pessoas com justiça e eficiência, do desenho do cargo e da divulgação à triagem, à avaliação, à oferta e às verificações pré-admissionais.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar as etapas do processo de recrutamento da organização
+      - seguir as regras de recrutamento justo e seguro, incluindo as verificações pré-admissionais
+    working: |
+      Você pode:
+      - conduzir campanhas de recrutamento no sistema de acompanhamento de candidaturas
+      - apoiar gestores com anúncios, triagem e organização de entrevistas
+      - concluir as verificações pré-admissionais e fazer ofertas condicionais
+    practitioner: |
+      Você pode:
+      - orientar gestores sobre o desenho do cargo, os métodos de seleção e a avaliação justa
+      - desenhar avaliações para funções especializadas, como exercícios técnicos para funções digitais
+      - analisar dados de recrutamento para melhorar o tempo de contratação, a qualidade e a diversidade
+      - gerir a experiência dos candidatos e a marca empregadora
+    expert: |
+      Você pode:
+      - definir a estratégia e os padrões de serviço de recrutamento da organização
+      - liderar a escolha e o uso de tecnologias e agências de recrutamento
+      - garantir que o recrutamento seja inclusivo e legal em toda a organização
+hr-talent-attraction:
+  name: Atração e busca de talentos
+  description: Encontrar e engajar pessoas com competências escassas, como especialistas em digital, dados e tecnologia, por meio da marca empregadora, da busca direta, de redes de contatos e de trilhas de início de carreira.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar quais competências são difíceis de recrutar e por quê
+      - divulgar vagas pelos canais e redes da organização
+    working: |
+      Você pode:
+      - escrever anúncios que atraiam candidatos especializados, em linguagem clara
+      - buscar candidatos em sites de vagas, redes profissionais e bancos de talentos
+      - apoiar eventos, como feiras de carreira e dias de portas abertas
+    practitioner: |
+      Você pode:
+      - construir funis e comunidades de talentos para funções escassas de digital e de dados
+      - dar forma à proposta de valor ao empregado com as equipes contratantes
+      - usar dados de mercado sobre remuneração e oferta para aconselhar sobre funções de difícil preenchimento
+      - desenvolver trilhas de início de carreira, como aprendizagem profissional e programas de trainees
+    expert: |
+      Você pode:
+      - definir a estratégia de atração de talentos e a marca empregadora da organização
+      - trabalhar com parceiros, como universidades e outros empregadores, para ampliar a oferta de talentos
+      - liderar decisões sobre remuneração diferenciada, uso de agências e modelos alternativos de busca
+hr-workforce-planning:
+  name: Planejamento da força de trabalho
+  description: Prever a força de trabalho de que a organização precisa, compará-la com a que tem e planejar como fechar a diferença por meio de recrutamento, desenvolvimento, redesenho e retenção.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar por que o planejamento da força de trabalho importa para serviços seguros e sustentáveis
+      - fornecer informações exatas sobre o quadro de pessoal e as vagas
+    working: |
+      Você pode:
+      - coletar e conferir com os gestores os dados do plano de força de trabalho
+      - modelar cenários simples, como as tendências de rotatividade e de vagas
+    practitioner: |
+      Você pode:
+      - liderar o planejamento da força de trabalho de uma diretoria, ligando-o aos planos de serviço e financeiros
+      - identificar lacunas de competências e recomendar formas de fechá-las
+      - planejar novas funções, trilhas de carreira e composição de competências
+    expert: |
+      Você pode:
+      - definir a estratégia e o plano de longo prazo da força de trabalho da organização
+      - fazer escolhas de força de trabalho entre serviços, com lideranças financeiras e de serviço
+      - dar forma aos planos de força de trabalho com parceiros de todo o sistema de saúde e de cuidados
+hr-workforce-information:
+  name: Informações da força de trabalho e sistemas de RH
+  description: Gerir os sistemas e os dados de RH e da força de trabalho e transformar esses dados em relatórios e percepções, como rotatividade, ausências, vagas, diversidade e análise de diferenças salariais.
+  levels:
+    awareness: |
+      Você pode:
+      - lançar com exatidão os dados da força de trabalho no sistema de RH
+      - explicar por que os dados da força de trabalho devem ser exatos e confidenciais
+    working: |
+      Você pode:
+      - executar relatórios padrão da força de trabalho e conferi-los em busca de erros
+      - responder a pedidos rotineiros de informações sobre a força de trabalho
+    practitioner: |
+      Você pode:
+      - analisar dados da força de trabalho para encontrar tendências e explicá-las aos gestores
+      - projetar painéis e relatórios de indicadores da força de trabalho
+      - produzir relatórios legais e de igualdade, como a análise de diferenças salariais
+    expert: |
+      Você pode:
+      - definir a estratégia de informações da força de trabalho e os padrões de dados da organização
+      - liderar a escolha e o desenvolvimento dos sistemas de RH
+      - usar percepções sobre a força de trabalho para subsidiar as decisões do conselho de administração
+hr-reward-and-job-evaluation:
+  name: Remuneração e avaliação de funções
+  description: Aplicar as regras de pagamento e de remuneração e avaliar as funções de forma consistente por um esquema de avaliação de funções, para enquadrá-las na faixa correta.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar como funcionam as faixas salariais, os avanços e os adicionais
+      - explicar que as funções são enquadradas por avaliação de funções, e não pela pessoa que as exerce
+    working: |
+      Você pode:
+      - aplicar regras de pagamento, como salário inicial, proteção salarial e adicionais
+      - verificar se as descrições de funções estão completas antes de seguirem para avaliação
+      - participar de comissões de avaliação de funções como membro treinado
+    practitioner: |
+      Você pode:
+      - liderar comissões de avaliação de funções e verificações de consistência
+      - orientar o enquadramento de funções novas e alteradas, incluindo funções digitais e de dados
+      - orientar sobre adicionais de recrutamento e de retenção, com base em evidências de mercado
+    expert: |
+      Você pode:
+      - definir a estratégia de remuneração da organização dentro da estrutura salarial acordada
+      - garantir a integridade da avaliação de funções em toda a organização
+      - liderar revisões de igualdade salarial e agir sobre seus achados
+hr-learning-design-and-delivery:
+  name: Desenho e oferta de aprendizagem
+  description: Analisar necessidades de aprendizagem e, em seguida, projetar, oferecer e avaliar a aprendizagem presencial, online e no fluxo de trabalho.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar a diferença entre treinamento, aprendizagem e desenvolvimento
+      - apoiar a realização de cursos e manter os registros de treinamento
+    working: |
+      Você pode:
+      - ministrar sessões de treinamento bem definidas, presenciais e online
+      - construir cursos online simples no sistema de gestão da aprendizagem
+      - coletar e resumir o feedback dos participantes
+    practitioner: |
+      Você pode:
+      - analisar necessidades de aprendizagem e desenhar programas mistos que as atendam
+      - definir resultados de aprendizagem e avaliar o impacto, e não apenas a satisfação
+      - tornar a aprendizagem acessível e inclusiva para todas as pessoas
+    expert: |
+      Você pode:
+      - definir a estratégia e os padrões de aprendizagem da organização
+      - liderar a oferta de aprendizagem, sua tecnologia e seu financiamento
+      - mostrar o retorno do investimento da organização em aprendizagem
+hr-skills-frameworks-and-career-pathways:
+  name: Estruturas de competências e trilhas de carreira
+  description: Usar estruturas de competências e de funções, como esta referência, o UK GDaD PCF e o ESCO, para descrever funções, avaliar lacunas de competências e construir trilhas de carreira.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar o que é uma estrutura de competências e como ela descreve funções e níveis
+      - encontrar na estrutura o perfil da função e as competências de um cargo
+    working: |
+      Você pode:
+      - mapear descrições de funções para as funções, os níveis e as competências da estrutura
+      - apoiar equipes e gestores em autoavaliações de competências
+      - manter atualizadas as informações das trilhas de carreira
+    practitioner: |
+      Você pode:
+      - fazer a análise de lacunas de competências de uma equipe ou profissão e reportar os resultados
+      - desenhar trilhas de carreira e caminhos de desenvolvimento com base nos níveis da estrutura
+      - usar as competências da estrutura para escrever descrições de funções e avaliações consistentes
+    expert: |
+      Você pode:
+      - definir como a organização usa estruturas de competências entre as profissões
+      - usar dados de competências para subsidiar a estratégia de força de trabalho, aprendizagem e remuneração
+      - contribuir para o desenvolvimento de estruturas compartilhadas com outras organizações
+hr-organisational-development:
+  name: Desenvolvimento organizacional
+  description: Melhorar o funcionamento da organização por meio de cultura, liderança, engajamento, eficácia das equipes e intervenções de bem-estar baseadas em evidências.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar como a cultura, a liderança e o engajamento afetam as equipes e o cuidado dos pacientes
+      - ajudar a realizar pesquisas com as equipes e eventos de escuta
+    working: |
+      Você pode:
+      - facilitar sessões e oficinas de equipe usando ferramentas padrão
+      - analisar os resultados de pesquisas com as equipes e sugerir ações
+    practitioner: |
+      Você pode:
+      - diagnosticar problemas organizacionais e desenhar intervenções para tratá-los
+      - liderar programas de desenvolvimento de equipes, de lideranças e de engajamento
+      - avaliar o efeito das intervenções com base em evidências
+    expert: |
+      Você pode:
+      - definir a estratégia de desenvolvimento organizacional e o programa de cultura
+      - orientar executivos e liderar mudanças culturais em larga escala
+      - relacionar medidas de cultura e de engajamento com a qualidade do cuidado e o desempenho
+hr-organisational-change:
+  name: Mudança organizacional e consulta
+  description: Planejar e gerir mudanças em estruturas, funções e regimes de trabalho, incluindo consulta formal, remanejamento e demissão coletiva, conforme a política e a legislação trabalhista.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar as principais etapas de um processo de mudança organizacional
+      - apoiar a administração de uma mudança, como cartas e reuniões de consulta
+    working: |
+      Você pode:
+      - apoiar gestores na preparação de documentos de consulta e de comunicados às equipes
+      - acompanhar as respostas e as ações durante a consulta
+      - apoiar as pessoas em processos de remanejamento e de seleção
+    practitioner: |
+      Você pode:
+      - liderar a mudança organizacional de uma diretoria, do business case à implantação
+      - consultar as equipes e seus representantes e responder ao feedback deles
+      - gerir os riscos jurídicos e de igualdade de uma mudança
+    expert: |
+      Você pode:
+      - liderar reestruturações de toda a organização e transferências de serviços
+      - desenhar a abordagem da organização para a mudança, incluindo a atuação em parceria
+      - aconselhar o conselho de administração sobre o impacto e o risco de grandes mudanças para as pessoas
+hr-people-strategy:
+  name: Estratégia de pessoas e liderança de RH
+  description: Definir a estratégia de pessoas da organização, liderar a função de RH e aconselhar o conselho de administração sobre cultura, força de trabalho e risco trabalhista.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar a estratégia de pessoas da organização e como o seu trabalho a apoia
+    working: |
+      Você pode:
+      - contribuir para os planos de pessoas de um serviço, com ações e medidas claras
+      - reportar o progresso em relação ao plano de pessoas
+    practitioner: |
+      Você pode:
+      - escrever e liderar planos de pessoas de uma diretoria alinhados à estratégia de pessoas
+      - aconselhar a liderança sênior sobre riscos e prioridades de pessoas
+      - liderar parte da função de RH, definindo seus padrões e prioridades
+    expert: |
+      Você pode:
+      - definir a estratégia de pessoas da organização e liderar a função de RH
+      - aconselhar o conselho de administração sobre cultura, força de trabalho e risco trabalhista
+      - representar a organização em assuntos de pessoas perante parceiros e reguladores

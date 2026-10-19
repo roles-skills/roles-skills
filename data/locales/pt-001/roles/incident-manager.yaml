@@ -1,0 +1,32 @@
+summary: Os gerentes de incidentes restabelecem o serviço normal o mais rápido possível quando algo dá errado e mantêm o efeito sobre os usuários o menor possível. Coordenam as equipes técnicas e os fornecedores, mantêm usuários e lideranças informados e garantem que os incidentes sejam registrados e encaminhados à gestão de problemas. Na saúde, os incidentes podem afetar diretamente o cuidado dos pacientes, por isso os gerentes de incidentes trabalham em estreita colaboração com as lideranças clínicas e operacionais.
+health_context:
+- A indisponibilidade de um sistema clínico pode atrasar o tratamento, por isso os incidentes são priorizados pelo impacto clínico, e as lideranças clínicas podem precisar iniciar os procedimentos de indisponibilidade.
+- Incidentes graves podem acontecer a qualquer hora, por isso os gerentes de incidentes participam de escalas de plantão e podem ser acionados à noite ou nos fins de semana.
+- Um ataque cibernético, como o ransomware, pode se tornar um incidente grave que afeta toda a organização e dura dias ou semanas.
+- Incidentes graves de TI podem precisar se articular com os arranjos de preparação para emergências e de continuidade de negócios da organização.
+- Incidentes que possam ter prejudicado pacientes também são comunicados pelo processo de incidentes clínicos e revistos com a segurança clínica.
+levels:
+- title: Gerente de incidentes
+  responsibilities:
+  - Coordenar a resposta a incidentes que afetam serviços clínicos e corporativos, do primeiro relato ao restabelecimento do serviço.
+  - Avaliar o impacto clínico e operacional de cada incidente e definir sua prioridade.
+  - Manter os usuários afetados, a central de serviços e as lideranças clínicas informados com atualizações claras e oportunas.
+  - Escalar os incidentes ao gerente de incidentes graves quando atenderem aos critérios acordados.
+  - Garantir que os incidentes sejam registrados com exatidão e encaminhados à gestão de problemas.
+  - Participar da escala de plantão para incidentes fora do horário comercial.
+  qualifications:
+  - Experiência em suporte ou operações de TI, incluindo o tratamento de incidentes.
+  - Uma qualificação básica em gestão de serviços de TI, ou experiência equivalente.
+  job_evaluation_notes: O esforço mental reflete a concentração prolongada e frequente sob pressão de tempo, inclusive em plantão. O esforço emocional reflete a exposição indireta frequente ao efeito das indisponibilidades sobre pacientes e equipes.
+- title: Gerente de incidentes graves
+  responsibilities:
+  - Liderar a resposta a incidentes graves, como indisponibilidades do prontuário eletrônico, falhas de rede e ataques cibernéticos.
+  - Conduzir as chamadas de incidente que reúnem equipes técnicas, fornecedores, lideranças clínicas e pessoal de comunicação.
+  - Aconselhar as lideranças clínicas e operacionais sobre quando iniciar e encerrar os procedimentos de indisponibilidade e de continuidade de negócios.
+  - Informar a liderança sênior e, quando necessário, articular-se com os arranjos de resposta a emergências da organização.
+  - Liderar revisões pós-incidente e garantir que as lições sejam aprendidas e postas em prática.
+  - Desenvolver e testar planos de incidentes graves com as lideranças de continuidade de negócios e de planejamento de emergências.
+  qualifications:
+  - Experiência substancial na gestão de incidentes em serviços complexos e de alta disponibilidade.
+  - Uma qualificação avançada em gestão de serviços de TI, ou experiência equivalente.
+  job_evaluation_notes: O esforço mental reflete a concentração prolongada e frequente durante incidentes graves, muitas vezes fora do horário comercial. O esforço emocional reflete a exposição indireta frequente ao efeito de grandes indisponibilidades sobre o cuidado dos pacientes.

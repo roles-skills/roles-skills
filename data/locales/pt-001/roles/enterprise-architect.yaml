@@ -1,0 +1,52 @@
+summary: Os profissionais de arquitetura corporativa dão à organização uma visão integrada de seus serviços, informações, aplicações e tecnologia e a usam para transformar a estratégia de saúde e de cuidados em um plano de mudança coerente. Definem princípios, padrões e roteiros de arquitetura, orientam as decisões de investimento e garantem que a mudança digital apoie um cuidado seguro e integrado para os pacientes entre organizações.
+health_context:
+- Os percursos de cuidado atravessam muitas organizações e sistemas, por isso a arquitetura deve apoiar o compartilhamento de prontuários, resultados e encaminhamentos além das fronteiras.
+- O parque tecnológico costuma incluir sistemas clínicos de longa vida, dispositivos médicos e contratos com fornecedores difíceis de mudar, por isso os roteiros devem planejar as transições com cuidado.
+- As decisões de arquitetura afetam a segurança dos pacientes, a privacidade e a resiliência de serviços que funcionam 24 horas por dia.
+- Padrões abertos como o HL7 FHIR, a SNOMED CT e os perfis IHE são essenciais para evitar a dependência de fornecedores e viabilizar a interoperabilidade.
+- O financiamento é limitado e acompanhado de perto, por isso as pessoas arquitetas devem mostrar relação custo-benefício e reaproveitamento das plataformas compartilhadas existentes.
+levels:
+- title: Profissional de arquitetura corporativa
+  responsibilities:
+  - Modelar os serviços, as informações, as aplicações e a tecnologia atuais e desejados da organização para um domínio, como diagnósticos ou cuidados na comunidade.
+  - Manter atualizado o repositório de arquitetura, incluindo os catálogos de aplicações e de fluxos de dados.
+  - Revisar propostas em relação aos princípios e padrões de arquitetura e fazer recomendações às instâncias de decisão de projeto.
+  - Identificar onde os sistemas duplicam capacidades ou dependem de tecnologia sem suporte e levantar os riscos.
+  - Trabalhar com profissionais de arquitetura de soluções e lideranças clínicas para entender como os percursos de cuidado usam os sistemas.
+  - Orientar os profissionais de arquitetura de soluções sobre como os projetos se encaixam na arquitetura do domínio.
+  qualifications:
+  - Experiência substancial em arquitetura, análise ou projeto técnico em uma organização complexa, em nível equivalente ao de mestrado.
+  - Conhecimento de uma estrutura de arquitetura corporativa, como a TOGAF, ou experiência equivalente.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 6); anúncios do setor de saúde situam esta função na Faixa 8a. Conhecimentos, análise, planejamento, política e liberdade de ação são pontuados segundo o perfil da Faixa 8a, porque a função dá forma às arquiteturas-alvo e aconselha as instâncias de decisão de projeto de todo um domínio."
+- title: Profissional de arquitetura corporativa sênior
+  responsibilities:
+  - Desenvolver arquiteturas-alvo e roteiros de transição para um ou mais domínios da organização.
+  - Dar forma aos business cases para que os investimentos se ajustem à arquitetura-alvo e reaproveitem as plataformas compartilhadas.
+  - Liderar revisões de arquitetura nas instâncias de decisão de projeto e fazer recomendações sobre propostas significativas.
+  - Planejar a substituição ou a desativação de sistemas clínicos e corporativos legados, incluindo a migração de dados e os riscos de segurança.
+  - Garantir que as necessidades de interoperabilidade, de segurança e de governança da informação estejam incorporadas aos roteiros.
+  - Orientar e conduzir profissionais de arquitetura corporativa e de soluções.
+  qualifications:
+  - Ampla experiência em arquitetura corporativa ou de soluções em vários domínios.
+  - Conhecimento de uma estrutura de arquitetura corporativa, como a TOGAF, ou experiência equivalente.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 7); anúncios do setor de saúde situam esta função na Faixa 8b. O planejamento está no nível 5, por roteiros de longo prazo com efeitos em toda a organização; os conhecimentos estão no nível 8, por abranger as arquiteturas de negócios, de informação, de aplicações e de tecnologia."
+- title: Profissional de arquitetura corporativa líder
+  responsibilities:
+  - Ser responsável pela arquitetura corporativa de uma parte importante da organização, como os sistemas clínicos ou a infraestrutura compartilhada.
+  - Presidir ou liderar a instância de decisão de projeto de arquitetura e definir os padrões que os projetos devem cumprir.
+  - Aconselhar diretorias sobre prioridades de investimento, estratégia de fornecedores e riscos tecnológicos.
+  - Trabalhar com organizações parceiras para alinhar arquiteturas entre percursos de cuidado e prontuários compartilhados.
+  - Liderar e desenvolver profissionais de arquitetura corporativa e ampliar a comunidade de prática de arquitetura.
+  qualifications:
+  - Ampla experiência em arquitetura corporativa em uma organização complexa.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 8b); anúncios do setor de saúde situam esta função na Faixa 8c. Os recursos de informação estão no nível 6, porque a função gere a arquitetura dos sistemas de informação de uma parte importante da organização; política e pessoas estão acima do perfil da Faixa 8b, porque a função define padrões para todos os projetos e lidera profissionais de arquitetura corporativa."
+- title: Profissional de arquitetura corporativa principal
+  responsibilities:
+  - Definir a visão, os princípios e a estratégia de arquitetura corporativa da organização, alinhados à sua estratégia de saúde e de cuidados.
+  - Aconselhar a equipe executiva e o conselho de administração sobre a arquitetura, os riscos e o valor dos grandes investimentos digitais.
+  - Liderar a prática, a governança e os padrões de arquitetura da organização.
+  - Representar a organização em fóruns de arquitetura e de interoperabilidade entre organizações.
+  - Desenvolver a capacidade de arquitetura da organização, incluindo recrutamento e trilhas de carreira.
+  qualifications:
+  - Ampla experiência na liderança da arquitetura corporativa entre organizações.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 8c); anúncios do setor de saúde situam esta função na Faixa 8d. Política e liberdade de ação estão no nível 6, porque a função tem responsabilidade corporativa pela visão, pelos princípios e pela estratégia de arquitetura da organização."

@@ -1,0 +1,67 @@
+summary: A equipe de governança da informação ajuda a organização a tratar informações pessoais e de saúde de forma legal, segura e ética. Orienta as equipes sobre proteção de dados e confidencialidade, trata pedidos de direitos de informação, apoia avaliações de impacto sobre a proteção de dados, gere violações de dados e reúne as evidências que mostram que a organização cumpre os padrões de governança da informação.
+health_context:
+- A legislação de proteção de dados dá proteção adicional às informações de saúde, por isso o nível de exigência para o uso legal, a segurança e a transparência é alto.
+- Os serviços de saúde digital costumam compartilhar dados entre muitas organizações de cuidados, por isso os acordos de compartilhamento de informações e os fluxos de dados exigem revisão cuidadosa.
+- Pacientes e o público têm direitos legais de acesso a seus prontuários e às informações da organização, com prazos rigorosos.
+- Violações de dados que envolvem informações de saúde podem causar dano e sofrimento reais, por isso os incidentes exigem tratamento rápido e cuidadoso.
+- Novos usos de dados, como análise, pesquisa e IA, levantam questões de consentimento, confidencialidade e confiança do público.
+levels:
+- title: Responsável pela governança da informação
+  summary: Apoia a equipe de governança da informação em pedidos de direitos de informação, registro de incidentes, registros de treinamento e coleta de evidências, seguindo procedimentos definidos.
+  responsibilities:
+  - Registrar, confirmar o recebimento e acompanhar pedidos de direitos de informação e reunir informações para as respostas.
+  - Registrar violações de dados e quase incidentes e reunir os fatos para revisão.
+  - Manter atualizados os registros de governança da informação, como o inventário de ativos de informação e o mapa de fluxos de dados.
+  - Coletar evidências para a autoavaliação anual de governança da informação.
+  - Acompanhar a conclusão do treinamento de governança da informação pelas equipes.
+  - Responder a dúvidas rotineiras de governança da informação das equipes.
+  qualifications:
+  - Experiência em trabalho administrativo ou com registros, ou qualificação de nível básico em proteção de dados, ou experiência equivalente.
+  job_evaluation_notes: O esforço emocional reflete a exposição indireta frequente a conteúdo aflitivo em pedidos, prontuários e relatórios de violações.
+- title: Responsável sênior pela governança da informação
+  summary: Trata uma carteira de pedidos de direitos de informação e de incidentes e apoia as equipes em avaliações de impacto sobre a proteção de dados e no compartilhamento de informações.
+  responsibilities:
+  - Tratar pedidos de direitos de informação, incluindo tarjamento e aplicação de exceções, dentro dos prazos legais.
+  - Avaliar e investigar violações de dados e quase incidentes e acompanhar as ações até o encerramento.
+  - Ajudar as equipes de projeto a concluir avaliações de impacto sobre a proteção de dados e a descrever os fluxos de dados.
+  - Redigir, para revisão, acordos de compartilhamento de informações e avisos de privacidade.
+  - Ministrar treinamentos e informes de governança da informação às equipes.
+  - Realizar auditorias de acesso e de guarda de registros.
+  qualifications:
+  - Uma qualificação reconhecida em proteção de dados ou governança da informação, ou experiência equivalente.
+- title: Líder de governança da informação
+  summary: Dá assessoria especializada em governança da informação a uma diretoria ou programa, liderando avaliações de impacto sobre a proteção de dados e casos complexos.
+  responsibilities:
+  - Orientar as equipes de produto e os serviços sobre base legal, consentimento, confidencialidade e retenção.
+  - Revisar avaliações de impacto sobre a proteção de dados de sistemas complexos e recomendar controles.
+  - Tratar pedidos de direitos de informação complexos ou controversos e revisões internas.
+  - Investigar violações graves de dados e recomendar se os reguladores devem ser notificados.
+  - Revisar acordos de compartilhamento de informações com organizações parceiras.
+  - Supervisionar e orientar os responsáveis pela governança da informação.
+  qualifications:
+  - Uma qualificação profissional reconhecida em proteção de dados ou governança da informação, ou experiência equivalente.
+  - Experiência na orientação sobre proteção de dados em ambientes de saúde ou de cuidados.
+- title: Gerente de governança da informação
+  summary: Gere o serviço de governança da informação no dia a dia, incluindo sua equipe, seus casos, seu programa de garantia e seu treinamento.
+  responsibilities:
+  - Gerir a equipe de governança da informação e seus casos, garantindo o cumprimento dos prazos legais.
+  - Planejar e conduzir o programa de garantia da governança da informação e a autoavaliação anual.
+  - Escrever e revisar políticas e procedimentos de governança da informação.
+  - Aconselhar a gerência sênior sobre riscos da informação e manter o registro de riscos da informação.
+  - Liderar a resposta a incidentes graves, trabalhando com colegas de segurança, de segurança clínica e de comunicação.
+  - Projetar e supervisionar o treinamento de governança da informação para todas as equipes.
+  qualifications:
+  - Uma qualificação profissional reconhecida em proteção de dados ou governança da informação, ou experiência equivalente.
+  - Experiência substancial em governança da informação na saúde ou nos cuidados.
+- title: Chefia de governança da informação
+  summary: Lidera a governança da informação da organização, definindo sua política e sua estratégia e aconselhando a liderança sênior sobre o risco e a conformidade da informação.
+  responsibilities:
+  - Definir a estratégia, as políticas e a estrutura de governança da informação da organização.
+  - Liderar os serviços de governança da informação e de registros e desenvolver suas equipes.
+  - Aconselhar a liderança executiva responsável pelo risco da informação, o conselho de administração e seus comitês sobre o risco e a conformidade da informação.
+  - Tomar as decisões finais sobre questões complexas de divulgação, compartilhamento e notificação de violações.
+  - Representar a organização perante reguladores, auditores e organizações parceiras.
+  - Garantir que novos serviços digitais, usos de dados e IA sejam projetados com privacidade e transparência desde o início.
+  qualifications:
+  - Uma qualificação profissional reconhecida em proteção de dados ou governança da informação, ou experiência equivalente.
+  - Ampla experiência na liderança da governança da informação na saúde ou nos cuidados.

@@ -1,0 +1,39 @@
+summary: Os gerentes de mudanças e liberações garantem que as mudanças nos serviços de TI sejam avaliadas, aprovadas, programadas e executadas com segurança e que as liberações sejam planejadas e coordenadas. Conduzem o comitê consultivo de mudanças, são responsáveis pelo banco de dados de gerenciamento de configuração e coordenam as liberações entre equipes e fornecedores. Na saúde, garantem que as mudanças nos sistemas clínicos sejam programadas e testadas para proteger o cuidado dos pacientes.
+health_context:
+- Mudanças em sistemas clínicos podem prejudicar pacientes, por isso a avaliação de mudanças inclui a revisão de segurança clínica e as evidências do processo de gestão de riscos clínicos.
+- Os serviços clínicos funcionam todos os dias, por isso as janelas de mudança são acordadas com os serviços clínicos e evitam seus períodos mais movimentados.
+- Muitas mudanças vêm de fornecedores de sistemas clínicos e ainda precisam ser avaliadas quando o fornecedor controla a liberação.
+- As mudanças emergenciais, como correções de segurança urgentes, devem equilibrar o risco cibernético com o risco de perturbar o cuidado.
+- Um banco de dados de gerenciamento de configuração exato mostra quais serviços clínicos uma mudança pode afetar.
+levels:
+- title: Analista de configuração
+  responsibilities:
+  - Manter os registros do banco de dados de gerenciamento de configuração, incluindo os serviços clínicos que cada componente apoia.
+  - Conferir os registros de configuração com as ferramentas de descoberta e corrigir lacunas e erros.
+  - Preparar registros de mudança e pautas para o comitê consultivo de mudanças.
+  - Responder a dúvidas rotineiras sobre itens de configuração e suas relações.
+  qualifications:
+  - Uma qualificação básica em gestão de serviços de TI, qualificação de nível 3 em TI ou experiência equivalente.
+  job_evaluation_notes: O UK GDaD PCF sugere a Faixa 6 para este nível (HEO/SEO). Esta referência o coloca na Faixa 4 porque o nível presta apoio administrativo ao gerente de mudanças e liberações, com competências em sua maioria de nível de noção, e fica abaixo do analista de mudanças e liberações. Os recursos de informação estão acima do perfil da faixa porque manter o banco de dados de gerenciamento de configuração é a atribuição principal.
+- title: Analista de mudanças e liberações
+  responsibilities:
+  - Avaliar pedidos de mudança quanto a risco e impacto, incluindo o efeito sobre os serviços clínicos e a segurança dos pacientes.
+  - Planejar e programar liberações, acordando as janelas de mudança com os serviços clínicos e operacionais.
+  - Conferir se cada mudança tem testes, um plano de reversão e aprovação de segurança clínica quando necessário.
+  - Coordenar as liberações com as equipes DevOps, os fornecedores e a central de serviços.
+  - Revisar as liberações depois de feitas e planejar as próximas mudanças.
+  qualifications:
+  - Experiência em operações de TI, liberações ou mudanças.
+  - Uma qualificação básica em gestão de serviços de TI, ou experiência equivalente.
+- title: Gerente de mudanças e liberações
+  responsibilities:
+  - Presidir o comitê consultivo de mudanças, incluindo representantes clínicos e operacionais quando as mudanças afetam o cuidado dos pacientes.
+  - Decidir sobre as mudanças técnicas e autorizar mudanças emergenciais, como correções de segurança urgentes.
+  - Coordenar as liberações e suas dependências entre equipes internas e fornecedores.
+  - Ser responsável pelos processos de gestão de mudanças, liberações e configuração e pelo banco de dados de gerenciamento de configuração.
+  - Atuar como ponto de escalonamento para conflitos de mudanças e mudanças que falharam.
+  - Reportar o sucesso das mudanças, as mudanças que falharam e os incidentes causados por mudanças e conduzir melhorias.
+  qualifications:
+  - Experiência substancial em gestão de mudanças e liberações, em nível equivalente ao de graduação.
+  - Uma qualificação intermediária em gestão de serviços de TI, ou experiência equivalente.
+  job_evaluation_notes: O planejamento está acima do perfil da faixa porque a função programa liberações e suas dependências entre muitas equipes e fornecedores.

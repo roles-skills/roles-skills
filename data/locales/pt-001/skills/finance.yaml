@@ -1,0 +1,273 @@
+# Tradução para o português de data/skills/finance.yaml. As chaves são os códigos das competências em inglês.
+fin-financial-transactions:
+  name: Transações financeiras e livros contábeis
+  description: Processar e registrar com exatidão faturas, pagamentos, recibos, lançamentos e conciliações nos livros contábeis, seguindo os controles financeiros.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar os processos de compra até o pagamento e de pedido até o recebimento e o seu papel neles
+      - lançar faturas, recibos e pagamentos com exatidão, seguindo os procedimentos definidos
+      - verificar se uma transação tem a aprovação e os documentos de suporte corretos
+    working: |
+      Você pode:
+      - processar diversas transações, incluindo notas de crédito, reembolsos e lançamentos contábeis
+      - conciliar extratos de fornecedores, contas bancárias e contas de controle
+      - resolver dúvidas rotineiras de fornecedores, clientes e responsáveis por orçamento
+      - identificar e comunicar transações duplicadas, incomuns ou não autorizadas
+    practitioner: |
+      Você pode:
+      - gerir um livro contábil ou um processo de transações, mantendo-o exato e atualizado
+      - investigar e baixar itens de conciliação complexos e saldos antigos
+      - melhorar os processos de transações, por exemplo automatizando a correspondência ou as aprovações
+      - treinar outras pessoas da equipe e conferir o trabalho delas
+    expert: |
+      Você pode:
+      - projetar os processos de transações da organização e os controles neles contidos
+      - definir padrões de desempenho, como prazos de pagamento e metas de recuperação de dívidas
+      - liderar a transição para novas formas de processamento, como automação e autoatendimento
+      - dar garantia à liderança sênior e aos auditores de que os livros contábeis estão completos e exatos
+fin-financial-reporting:
+  name: Relatórios financeiros e demonstrações contábeis obrigatórias
+  description: Preparar demonstrações financeiras e declarações obrigatórias exatas, que sigam as normas contábeis aplicáveis e as regras de prestação de contas do setor público.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar a finalidade das principais demonstrações financeiras
+      - preparar papéis de trabalho e conciliações que sustentem o fechamento do mês e do ano
+    working: |
+      Você pode:
+      - preparar lançamentos de fechamento do mês e do ano, como provisões de despesas, despesas antecipadas e provisões
+      - preparar partes das demonstrações anuais e das notas explicativas
+      - aplicar as normas contábeis a transações rotineiras, como a capitalização de software e hardware
+    practitioner: |
+      Você pode:
+      - preparar as demonstrações anuais e as declarações obrigatórias dentro do cronograma
+      - aplicar as normas contábeis a áreas complexas, como arrendamentos, contratos de computação em nuvem e ativos intangíveis
+      - escrever documentos contábeis que expliquem julgamentos e estimativas
+      - gerir a auditoria externa das demonstrações e responder aos achados
+    expert: |
+      Você pode:
+      - ser responsável pelo relatório e pelas demonstrações anuais da organização e pelas políticas contábeis que os sustentam
+      - aconselhar o conselho de administração e o comitê de auditoria sobre julgamentos significativos e novas normas
+      - liderar a resposta a pareceres de auditoria com ressalvas ou a distorções relevantes
+      - garantir que os relatórios cumpram as regras de prestação de contas públicas
+fin-management-accounting:
+  name: Contabilidade gerencial
+  description: Produzir informações orçamentárias e de custos que ajudem os gestores a planejar, controlar e decidir, incluindo análise de desvios, apuração de custos e relatórios de desempenho.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar orçamentos, valores realizados, compromissos e desvios
+      - produzir relatórios orçamentários padrão a partir do sistema financeiro
+    working: |
+      Você pode:
+      - preparar relatórios orçamentários mensais e explicar os principais desvios
+      - classificar corretamente os custos entre centros de custo, projetos, e entre capital e custeio
+      - apoiar os responsáveis por orçamentos a compreender e gerir seus orçamentos
+    practitioner: |
+      Você pode:
+      - gerir o ciclo mensal de relatórios de uma diretoria ou de um programa
+      - construir modelos de custos, como o custo total de um serviço digital ou o custo unitário de uma transação
+      - analisar tendências de gastos e aconselhar os gestores sobre ações para ficar dentro do orçamento
+      - questionar de forma construtiva os responsáveis por orçamentos sobre suas previsões
+    expert: |
+      Você pode:
+      - projetar a abordagem de relatórios gerenciais e de apuração de custos da organização
+      - apresentar o desempenho financeiro ao conselho de administração e à liderança sênior
+      - liderar o uso de informações de custos e de desempenho para melhorar a relação custo-benefício
+      - definir padrões de contabilidade gerencial para toda a organização
+fin-financial-planning-and-forecasting:
+  name: Planejamento e previsão financeiros
+  description: Elaborar orçamentos, previsões e planos financeiros de médio prazo que liguem o dinheiro às prioridades e aos programas da organização.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar o ciclo anual de elaboração do orçamento e a diferença entre orçamento e previsão
+      - coletar informações de previsão com os responsáveis por orçamentos
+    working: |
+      Você pode:
+      - elaborar orçamentos e previsões para um centro de custo ou projeto, incluindo custos com pessoal
+      - atualizar as previsões a cada mês com mudanças e riscos conhecidos
+      - distribuir os orçamentos no tempo para que os perfis de gastos correspondam aos planos de entrega
+    practitioner: |
+      Você pode:
+      - liderar a elaboração do orçamento e as previsões de uma diretoria ou de um grande programa
+      - modelar cenários e sensibilidades, como inflação, atrasos ou mudanças no financiamento
+      - construir previsões plurianuais para programas digitais, incluindo os custos de operação que se seguem ao investimento
+      - apresentar previsões e riscos à gerência sênior
+    expert: |
+      Você pode:
+      - liderar o plano financeiro de médio prazo da organização
+      - alinhar os planos financeiros com os planos de estratégia, de pessoal e de investimento
+      - aconselhar o conselho de administração sobre a sustentabilidade financeira e as escolhas necessárias para ficar dentro do financiamento
+      - definir as premissas e os métodos de planejamento usados em toda a organização
+fin-payroll:
+  name: Folha de pagamento
+  description: Pagar as equipes com exatidão e pontualidade, incluindo admissões, desligamentos, alterações, descontos, previdência, pagamentos legais e relatórios da folha.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar o ciclo da folha de pagamento, das alterações e do corte até o pagamento e os relatórios
+      - lançar com exatidão admissões, desligamentos e alterações a partir de formulários autorizados
+      - responder a dúvidas rotineiras sobre pagamento, mantendo sigilo das informações salariais
+    working: |
+      Você pode:
+      - calcular salário, adicionais, horas extras, afastamentos por doença e pagamentos de licenças familiares
+      - aplicar corretamente os descontos de impostos, previdência e outros
+      - conferir os resultados da folha e corrigir erros antes do pagamento
+      - recuperar pagamentos feitos a mais com sensibilidade e conforme a política
+    practitioner: |
+      Você pode:
+      - conduzir a folha de pagamento completa de um grupo de pessoas e aprovar as conferências da folha
+      - gerir os relatórios legais da folha e as declarações de previdência
+      - resolver casos complexos, como vários contratos, pagamentos retroativos ou troca de salário por benefícios
+      - testar alterações no sistema de folha, como reajustes salariais anuais e mudanças de regras
+    expert: |
+      Você pode:
+      - gerir o serviço de folha de pagamento da organização, seja interno ou prestado por um fornecedor
+      - definir controles da folha e dar garantia à liderança sênior de que os pagamentos são exatos e legais
+      - planejar mudanças nas regras de pagamento, nos reajustes salariais e nos sistemas de folha
+      - liderar a resposta a grandes falhas na folha de pagamento
+fin-treasury-and-cash:
+  name: Tesouraria e gestão de caixa
+  description: Gerir contas bancárias, fluxo de caixa e liquidez para que a organização possa cumprir seus compromissos, dentro das regras de caixa do setor público.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar por que o caixa importa tanto quanto os orçamentos
+      - registrar e conciliar transações bancárias
+    working: |
+      Você pode:
+      - preparar posições diárias de caixa e previsões de caixa de curto prazo
+      - preparar lotes de pagamento e verificar se estão devidamente autorizados
+      - conciliar contas bancárias e baixar itens sem correspondência
+    practitioner: |
+      Você pode:
+      - gerir a previsão de fluxo de caixa da organização e a liberação do financiamento
+      - gerir contas bancárias, meios de pagamento e controles bancários
+      - planejar o caixa para pagamentos grandes ou irregulares, como licenças plurianuais de software
+    expert: |
+      Você pode:
+      - definir a política de tesouraria e os arranjos bancários da organização
+      - aconselhar o conselho de administração sobre liquidez e riscos de caixa
+      - gerir o caixa dentro dos limites definidos pelos financiadores e pelas regras do setor público
+fin-audit-and-controls:
+  name: Controles financeiros e auditoria
+  description: Projetar, operar e testar controles financeiros, prevenir e detectar fraudes e trabalhar com auditores internos e externos.
+  levels:
+    awareness: |
+      Você pode:
+      - seguir os procedimentos financeiros e os esquemas de delegação da organização
+      - reconhecer sinais de possível fraude ou erro e comunicá-los
+    working: |
+      Você pode:
+      - operar controles-chave, como a segregação de funções e a verificação dos dados bancários de fornecedores
+      - fornecer evidências aos auditores e responder às perguntas deles
+      - verificar se os gastos são aprovados no nível adequado
+    practitioner: |
+      Você pode:
+      - testar e melhorar os controles de um processo financeiro
+      - gerir os pedidos de auditoria de uma área e acordar ações sobre os achados
+      - escrever e atualizar procedimentos financeiros
+      - trabalhar com especialistas em combate à fraude para reduzir o risco de fraude
+    expert: |
+      Você pode:
+      - ser responsável pelas regras financeiras e pelo esquema de delegação da organização
+      - reportar ao comitê de auditoria sobre o controle financeiro e as ações de auditoria
+      - liderar a resposta a falhas significativas de controle ou a fraudes
+      - construir uma cultura em que as pessoas compreendam seu dever de usar o dinheiro público de forma adequada
+fin-business-cases:
+  name: Business cases e avaliação de investimentos
+  description: Construir a justificativa financeira de um investimento, incluindo avaliação de opções, custos de todo o ciclo de vida, tratamento de capital e custeio, benefícios e relação custo-benefício.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar a finalidade de um business case e de sua seção financeira
+      - reunir informações de custos para um business case
+    working: |
+      Você pode:
+      - construir o modelo financeiro de um business case simples
+      - separar custos de capital e de custeio, e custos pontuais e recorrentes
+      - incluir os custos de todo o ciclo de vida, como licenças, suporte e hospedagem após a entrada em produção
+    practitioner: |
+      Você pode:
+      - liderar a justificativa financeira de investimentos digitais complexos, como um novo sistema clínico ou a migração para a nuvem
+      - avaliar opções por valor presente líquido, análise de sensibilidade e ajuste de risco
+      - verificar se os benefícios são realistas, mensuráveis e têm responsável
+      - acompanhar os gastos e os benefícios após a aprovação
+    expert: |
+      Você pode:
+      - definir os padrões de business case e de avaliação de investimentos da organização
+      - aconselhar os comitês de investimento sobre viabilidade financeira, relação custo-benefício e risco
+      - apresentar aos financiadores a justificativa de grandes programas de investimento
+      - revisar o portfólio de investimentos e recomendar onde parar, mudar ou continuar
+fin-tax:
+  name: Tributos
+  description: Aplicar corretamente os tributos sobre vendas, sobre o trabalho e outras regras tributárias às transações da organização e recuperar tributos quando permitido.
+  levels:
+    awareness: |
+      Você pode:
+      - reconhecer o tributo sobre vendas nas faturas e classificá-lo corretamente
+      - explicar quando pedir orientação a um especialista tributário
+    working: |
+      Você pode:
+      - preparar declarações e conciliações tributárias sob supervisão
+      - aplicar o tratamento tributário correto a compras e receitas comuns
+      - verificar, com orientação, o vínculo de trabalho de prestadores de serviços
+    practitioner: |
+      Você pode:
+      - gerir as declarações e as conciliações tributárias da organização
+      - orientar sobre o tratamento tributário de contratos, como licenças de software, serviços em nuvem e serviços compartilhados
+      - maximizar a recuperação de tributos dentro das regras
+    expert: |
+      Você pode:
+      - ser responsável pela estratégia tributária e pelo risco tributário da organização
+      - liderar as conversas com a autoridade tributária sobre questões complexas
+      - avaliar o efeito tributário de grandes mudanças, como novas parcerias ou atividades comerciais
+fin-financial-systems:
+  name: Sistemas financeiros
+  description: Usar, administrar e melhorar sistemas financeiros, de compras, de folha de pagamento e de relatórios para que os dados financeiros sejam exatos e os processos, eficientes.
+  levels:
+    awareness: |
+      Você pode:
+      - usar o sistema financeiro nas suas próprias tarefas, seguindo os procedimentos
+      - executar relatórios padrão e exportar dados para uma planilha
+    working: |
+      Você pode:
+      - usar bem as planilhas, incluindo fórmulas, buscas e tabelas dinâmicas
+      - manter os dados do sistema financeiro, como centros de custo, fornecedores e aprovadores
+      - comunicar problemas do sistema e ajudar a corrigi-los
+    practitioner: |
+      Você pode:
+      - administrar o sistema financeiro ou de folha de pagamento, incluindo acessos, fluxos de trabalho e relatórios
+      - projetar relatórios e painéis para os responsáveis por orçamentos
+      - testar mudanças e atualizações do sistema
+      - automatizar tarefas financeiras repetitivas
+    expert: |
+      Você pode:
+      - ser responsável pela estratégia e pelo roteiro dos sistemas financeiros
+      - liderar a contratação e a implantação de sistemas financeiros ou de folha de pagamento
+      - garantir que os dados financeiros estejam integrados com os dados de pessoal, de compras e de desempenho
+fin-public-sector-finance:
+  name: Finanças do setor público
+  description: Compreender como funciona o financiamento público, incluindo dotações, limites de capital e custeio, controles de gastos, prestação de contas do dinheiro público e relação custo-benefício.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar que a organização gasta dinheiro público e deve prestar contas dele
+      - explicar a diferença entre gastos de capital e de custeio
+    working: |
+      Você pode:
+      - aplicar as regras de capital e custeio da organização aos gastos do dia a dia
+      - explicar como as dotações e os limites de gastos afetam a sua área
+      - reconhecer gastos que precisam da aprovação de um financiador ou de um controle de gastos
+    practitioner: |
+      Você pode:
+      - orientar os gestores sobre as regras de financiamento, incluindo recursos vinculados e de prazo limitado
+      - gerir os limites de capital e de custeio de um programa ou de uma diretoria
+      - preparar declarações e evidências para financiadores e controles de gastos
+    expert: |
+      Você pode:
+      - representar a organização perante financiadores e órgãos de supervisão
+      - aconselhar o conselho de administração sobre regularidade, probidade e relação custo-benefício
+      - dar forma a acordos de financiamento e a regimes financeiros dos serviços da organização

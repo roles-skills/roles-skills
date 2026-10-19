@@ -1,0 +1,44 @@
+summary: Os profissionais de engenharia de dados constroem e operam os pipelines e as plataformas que levam os dados de saúde e de cuidados dos sistemas clínicos e operacionais a lugares onde podem ser analisados e usados com segurança. Projetam fluxos de dados, integram fontes que usam padrões diferentes e garantem que os dados sejam exatos, atuais, seguros e acessíveis somente às pessoas que devem vê-los.
+health_context:
+- Os sistemas de origem incluem prontuários eletrônicos, sistemas de laboratório, de imagem e de farmácia, que usam padrões como HL7 versão 2, HL7 FHIR, SNOMED CT e CID.
+- Os pipelines costumam transportar dados identificáveis de pacientes, por isso as pessoas engenheiras incorporam desde o início a pseudonimização, o controle de acesso e a auditoria.
+- Alguns fluxos de dados apoiam o cuidado direto, como alertas ou listas de pacientes, por isso um pipeline com falha ou atrasado pode afetar pacientes e precisa de avaliação de segurança clínica.
+- Os dados muitas vezes precisam ser vinculados entre ambientes de cuidado, o que depende de uma associação confiável de pacientes e de identificadores consistentes.
+levels:
+- title: Profissional de engenharia de dados
+  responsibilities:
+  - Construir e manter pipelines de dados dos sistemas clínicos e operacionais até a plataforma de dados, seguindo os projetos acordados.
+  - Mapear os dados de origem, incluindo dados clínicos codificados, para os modelos de destino e documentar os mapeamentos.
+  - Incorporar aos pipelines pseudonimização, validação e verificações de qualidade de dados.
+  - Monitorar os pipelines e corrigir falhas, priorizando os fluxos que apoiam o cuidado direto.
+  - Aplicar controles de acesso e registro de auditoria que atendam às regras de governança da informação.
+  qualifications:
+  - Graduação em computação ou em área afim, ou experiência equivalente.
+  - Experiência na construção de pipelines de dados.
+- title: Profissional de engenharia de dados sênior
+  responsibilities:
+  - Projetar fluxos de dados e serviços de streaming que reúnam dados de muitos sistemas de saúde e de cuidados.
+  - Projetar processos de associação e de vinculação de pacientes e medir seu desempenho.
+  - Liderar o trabalho de desempenho de bancos de dados e de plataformas para que os dados estejam disponíveis quando os serviços precisarem.
+  - Avaliar, com as pessoas especialistas pertinentes, os riscos de segurança clínica e de governança da informação dos fluxos de dados.
+  - Revisar o trabalho de outras pessoas engenheiras e orientá-las.
+  qualifications:
+  - Experiência substancial no projeto e na construção de sistemas de dados, em nível equivalente ao de mestrado.
+- title: Profissional de engenharia de dados líder
+  responsibilities:
+  - Liderar o projeto e a operação da plataforma de dados da organização e de seus muitos fluxos de dados.
+  - Definir padrões de engenharia para pipelines, testes, segurança e documentação.
+  - Planejar a integração de dados com parceiros de saúde e de cuidados, incluindo prontuários compartilhados e serviços regionais de dados.
+  - Garantir que os fluxos de dados que apoiam o cuidado direto sejam resilientes e tenham dossiês de segurança clínica.
+  - Coordenar as equipes de engenharia de dados e chefiar profissionais de engenharia.
+  qualifications:
+  - Ampla experiência na liderança da engenharia de dados de sistemas complexos.
+- title: Chefia de engenharia de dados
+  responsibilities:
+  - Definir a estratégia das plataformas de dados e dos serviços de engenharia de dados da organização.
+  - Liderar equipes multidisciplinares que entregam serviços de dados para equipes internas e parceiros de saúde e de cuidados.
+  - Aconselhar a liderança sênior sobre riscos, custos e investimentos nas plataformas de dados.
+  - Garantir que os serviços de dados atendam aos requisitos de governança da informação, de segurança e de segurança clínica.
+  - Desenvolver a capacidade de engenharia de dados por meio de recrutamento, desenvolvimento e trilhas de carreira.
+  qualifications:
+  - Ampla experiência na liderança da engenharia de dados em várias equipes.

@@ -1,0 +1,92 @@
+# Nomes das famílias de funções e das funções em português. As chaves são os
+# identificadores em inglês. Os caminhos (slugs) são gerados a partir destes nomes.
+families:
+  software-development: {title: Desenvolvimento de software}
+  architecture: {title: Arquitetura}
+  data: {title: Dados}
+  product-and-delivery: {title: Produto e entrega}
+  user-centred-design: {title: Design centrado no usuário}
+  it-operations: {title: Operações de TI}
+  cyber-security: {title: Cibersegurança}
+  quality-assurance-testing: {title: Garantia da qualidade e testes}
+  clinical-informatics: {title: Informática clínica e segurança clínica}
+  information-governance: {title: Governança da informação}
+  finance: {title: Finanças}
+  legal: {title: Jurídico}
+  human-resources: {title: Recursos humanos}
+  procurement: {title: Compras e contratações}
+  corporate-services: {title: Serviços corporativos}
+roles:
+  software-developer: {title: Profissional de desenvolvimento de software}
+  frontend-developer: {title: Profissional de desenvolvimento front-end}
+  devops-engineer: {title: Profissional de engenharia DevOps}
+  integration-engineer: {title: Profissional de engenharia de integração (interoperabilidade em saúde)}
+  enterprise-architect: {title: Profissional de arquitetura corporativa}
+  solution-architect: {title: Profissional de arquitetura de soluções}
+  technical-architect: {title: Profissional de arquitetura técnica}
+  data-architect: {title: Profissional de arquitetura de dados}
+  security-architect: {title: Profissional de arquitetura de segurança}
+  network-architect: {title: Profissional de arquitetura de redes}
+  business-architect: {title: Profissional de arquitetura de negócios}
+  data-analyst: {title: Analista de dados}
+  performance-analyst: {title: Analista de desempenho}
+  data-engineer: {title: Profissional de engenharia de dados}
+  analytics-engineer: {title: Profissional de engenharia de analytics}
+  data-scientist: {title: Cientista de dados}
+  machine-learning-engineer: {title: Profissional de engenharia de aprendizado de máquina}
+  data-governance-manager: {title: Gerente de governança de dados}
+  clinical-coder: {title: Profissional de codificação clínica}
+  business-analyst: {title: Analista de negócios}
+  delivery-manager: {title: Gerente de entrega}
+  product-manager: {title: Gerente de produto}
+  project-manager: {title: Gerente de projetos}
+  programme-delivery-manager: {title: Gerente de entrega de programa}
+  digital-portfolio-manager: {title: Gerente de portfólio digital}
+  service-owner: {title: Responsável pelo serviço}
+  user-researcher: {title: Profissional de pesquisa com usuários}
+  service-designer: {title: Designer de serviços}
+  interaction-designer: {title: Designer de interação}
+  content-designer: {title: Designer de conteúdo}
+  accessibility-specialist: {title: Especialista em acessibilidade}
+  service-desk-analyst: {title: Analista de central de serviços}
+  end-user-computing-engineer: {title: Profissional de engenharia de computação para o usuário final}
+  infrastructure-engineer: {title: Profissional de engenharia de infraestrutura}
+  application-operations-engineer: {title: Profissional de engenharia de operações de aplicações}
+  it-service-manager: {title: Gerente de serviços de TI}
+  incident-manager: {title: Gerente de incidentes}
+  problem-manager: {title: Gerente de problemas}
+  change-and-release-manager: {title: Gerente de mudanças e liberações}
+  security-analyst: {title: Analista de operações de segurança}
+  security-engineer: {title: Profissional de engenharia de segurança}
+  cyber-security-manager: {title: Gerente de cibersegurança}
+  quality-assurance-test-analyst: {title: Analista de testes e garantia da qualidade}
+  test-engineer: {title: Profissional de engenharia de testes}
+  test-manager: {title: Gerente de testes}
+  clinical-informatician: {title: Especialista em informática clínica}
+  clinical-safety-officer: {title: Responsável pela segurança clínica}
+  chief-clinical-information-officer: {title: Direção de informação clínica}
+  records-officer: {title: Responsável por registros de saúde}
+  information-governance-officer: {title: Responsável pela governança da informação}
+  data-protection-officer: {title: Responsável pela proteção de dados}
+  finance-officer: {title: Profissional de finanças}
+  payroll-officer: {title: Profissional de folha de pagamento}
+  management-accountant: {title: Profissional de contabilidade gerencial}
+  financial-accountant: {title: Profissional de contabilidade financeira}
+  head-of-finance: {title: Chefia de finanças}
+  legal-assistant: {title: Assistente de assuntos jurídicos}
+  legal-adviser: {title: Assessoria jurídica}
+  head-of-legal: {title: Chefia de serviços jurídicos}
+  hr-officer: {title: Profissional de recursos humanos}
+  recruitment-officer: {title: Profissional de recrutamento}
+  hr-business-partner: {title: Parceria de negócios de RH}
+  learning-and-development-specialist: {title: Especialista em aprendizagem e desenvolvimento}
+  head-of-people: {title: Chefia de pessoas}
+  procurement-officer: {title: Profissional de compras}
+  category-manager: {title: Gerente de categoria}
+  contract-manager: {title: Gerente de contratos}
+  head-of-procurement: {title: Chefia de compras}
+  administrator: {title: Assistente de administração}
+  executive-assistant: {title: Assistente de direção}
+  project-support-officer: {title: Profissional de apoio a projetos}
+  governance-and-risk-manager: {title: Gerente de governança e riscos}
+  communications-officer: {title: Profissional de comunicação}

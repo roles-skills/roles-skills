@@ -1,0 +1,73 @@
+# Português (mundo). Traduzido do inglês por um assistente de IA; ainda não foi
+# revisada por um falante nativo. As citações do UK GDaD PCF e do ESCO mantêm-se
+# em inglês. Os títulos usam uma forma inclusiva. Os caminhos (slugs) são
+# gerados a partir dos títulos em português.
+code: pt-001
+name: Português
+english_name: Portuguese
+dir: ltr
+complete: true
+paths:
+  roles: funções
+  families: famílias-de-funções
+  bands: faixas
+  skills: competências
+  job-evaluation: avaliação-de-funções
+  about: sobre-esta-referência
+strings:
+  disclaimer: "Este é um perfil de referência ilustrativo para uma organização de saúde digital genérica. Não é uma descrição de funções oficial de nenhum empregador, e as pontuações da avaliação de funções não constituem uma avaliação formal."
+  translation_note: "Esta tradução foi feita a partir do inglês por um assistente de IA e ainda não foi revisada por um falante nativo. As citações do UK GDaD PCF (Quadro de Competências Digitais e de Dados do Governo do Reino Unido) e do ESCO mantêm-se em inglês."
+  home_title: Índice de funções
+  home_lede: "Encontre a família mais próxima do seu trabalho, depois a função e, por fim, a faixa."
+  roles_title: Funções de A a Z
+  bands_title: Funções por faixa
+  skills_title: Competências
+  skills_lede: "Cada competência tem quatro níveis de proficiência: Noção (1), Aplicação (2), Domínio (3) e Especialista (4). As competências do UK GDaD PCF são citadas dele, em inglês. As restantes competências são originais desta referência."
+  pcf_title: Funções por função do UK GDaD PCF
+  esco_title: Funções por profissão ESCO
+  role: Função
+  roles: Funções
+  family: Família
+  band: Faixa
+  bands: Faixas
+  title: Título
+  role_level: Nível da função
+  skill: Competência
+  source: Fonte
+  expected_level: Nível esperado
+  level_meaning: O que este nível significa
+  factor: Fator
+  level: Nível
+  points: Pontos
+  total: Total
+  summary: Resumo
+  health_context: Em uma organização de saúde digital
+  pcf_role: Função do UK GDaD PCF
+  pcf_role_none: "nenhuma (esta referência define a função)"
+  pcf_role_description: Descrição da função do UK GDaD PCF (original em inglês)
+  pcf_level: Nível do UK GDaD PCF
+  civil_service_grades: Categorias do serviço público
+  esco_occupations: Profissões ESCO
+  role_levels: Níveis da função
+  job_evaluation_points: Pontos da avaliação de funções
+  responsibilities: Responsabilidades
+  skills: Competências
+  qualifications: Qualificações e experiência habituais
+  band_outline: Descrição da faixa
+  knowledge: Conhecimentos
+  autonomy: Autonomia
+  scope: Âmbito
+  leadership: Liderança
+  accountability: Responsabilização
+  job_evaluation: Avaliação de funções (ilustrativa)
+  source_pcf: UK GDaD PCF
+  source_reference: Esta referência
+  used_in: "Usada em {n} níveis de função."
+  awareness: Noção
+  working: Aplicação
+  practitioner: Domínio
+  expert: Especialista
+  sfia_level: Nível SFIA
+  esco_occupation: Profissão ESCO
+  pcf_family: Família do PCF
+  roles_in_reference: Funções nesta referência

@@ -1,0 +1,66 @@
+summary: Os profissionais de desenvolvimento front-end constroem as interfaces de usuário dos serviços de saúde digital da organização, como sites e aplicativos para pacientes, formulários online e telas que profissionais clínicos e equipes de cuidados usam durante o cuidado. Escrevem código acessível, rápido e seguro, que funciona para todas as pessoas, inclusive quem está doente, ansioso ou usa dispositivos mais antigos, e trabalham em equipes de produto multidisciplinares com designers, pesquisadores e profissionais clínicos.
+health_context:
+- Muitos usuários estão doentes, com dor, são idosos ou têm deficiência, por isso a acessibilidade e as interfaces simples e tranquilas são essenciais, e não opcionais.
+- Uma exibição confusa ou errada de informações clínicas, como a dose de um medicamento, um resultado ou o horário de uma consulta, pode prejudicar pacientes, por isso o trabalho de front-end segue o processo de gestão de riscos clínicos.
+- As interfaces costumam exibir informações de saúde confidenciais, por isso as pessoas desenvolvedoras projetam pensando na privacidade, por exemplo em dispositivos compartilhados e em áreas clínicas movimentadas.
+- Os profissionais clínicos usam as interfaces sob pressão de tempo e com interrupções frequentes, por isso as telas devem ser rápidas, previsíveis e difíceis de ler errado.
+- Os pacientes acessam os serviços em uma grande variedade de dispositivos e conexões, por isso os serviços usam aprimoramento progressivo e funcionam em redes lentas.
+levels:
+- title: Profissional de desenvolvimento front-end aprendiz
+  responsibilities:
+  - Aprender o sistema de design, as linguagens e as ferramentas da equipe por meio de treinamento estruturado e de trabalho em dupla.
+  - Construir pequenos componentes de interface sob supervisão próxima, seguindo o sistema de design da organização.
+  - Testar componentes com tecnologias assistivas, como leitores de tela, com o apoio de colegas.
+  - Seguir os procedimentos de governança da informação e de segurança clínica ao trabalhar com dados de teste e dados reais.
+  - Trabalhar rumo a um programa de aprendizagem profissional ou a uma qualificação equivalente.
+  qualifications:
+  - Matriculado em um programa de aprendizagem profissional em desenvolvimento de software ou equivalente, ou trabalhando para isso.
+  job_evaluation_notes: Os conhecimentos são pontuados no nível que a função exige depois que o treinamento é suficiente para realizar o trabalho.
+- title: Profissional de desenvolvimento front-end júnior
+  responsibilities:
+  - Construir e testar funcionalidades de interface para serviços voltados a pacientes e a profissionais, a partir de histórias de usuário, com orientação.
+  - Usar o sistema de design e os padrões da organização para que os serviços tenham aparência e comportamento consistentes.
+  - Corrigir defeitos de acessibilidade e conferir as páginas em relação a normas de acessibilidade como a WCAG.
+  - Garantir que as informações clínicas, como datas, doses e resultados, sejam exibidas exatamente como especificado.
+  - Contribuir com evidências para os dossiês de segurança clínica, como resultados de testes e capturas de tela das mudanças.
+  qualifications:
+  - Graduação em computação ou em área afim, programa de aprendizagem profissional concluído ou experiência equivalente.
+- title: Profissional de desenvolvimento front-end
+  responsibilities:
+  - Projetar e construir de forma independente interfaces acessíveis e responsivas para serviços de saúde, escolhendo abordagens adequadas.
+  - Trabalhar com designers e pesquisadores de usuários para testar protótipos com pacientes, profissionais clínicos e equipes de cuidados.
+  - Construir interfaces que chamam APIs de dados de saúde, como serviços HL7 FHIR, e tratar erros e dados ausentes com segurança.
+  - Participar de oficinas de perigos e incorporar controles de segurança à interface, como etapas de confirmação e avisos claros.
+  - Proteger informações confidenciais no navegador, por exemplo gerenciando sessões e o cache com cuidado em dispositivos compartilhados.
+  - Revisar código e orientar pessoas desenvolvedoras front-end júnior e aprendizes.
+  qualifications:
+  - Graduação em computação ou em área afim, ou experiência equivalente.
+  - Experiência na construção e no suporte de serviços web acessíveis em produção.
+- title: Profissional de desenvolvimento front-end sênior
+  responsibilities:
+  - Liderar o projeto e a entrega do front-end de funcionalidades significativas, como agendamento, resultados ou telas de fluxo de trabalho clínico.
+  - Definir e manter os padrões de front-end da equipe, incluindo acessibilidade, desempenho, segurança e testes.
+  - Contribuir com componentes e padrões para o sistema de design da organização e garantir que sejam seguros e acessíveis.
+  - Trabalhar com os responsáveis pela segurança clínica para garantir que os perigos da interface sejam identificados, controlados e testados.
+  - Garantir que os serviços funcionem bem em conexões lentas, dispositivos mais antigos e tecnologias assistivas.
+  - Orientar e desenvolver as pessoas desenvolvedoras front-end da equipe.
+  qualifications:
+  - Experiência substancial no projeto, na construção e no suporte de serviços web acessíveis em produção, em nível equivalente ao de mestrado.
+- title: Profissional de desenvolvimento front-end líder
+  responsibilities:
+  - Liderar a engenharia de front-end em um grupo de equipes ou em um grande serviço voltado a pacientes.
+  - Ser responsável pela direção técnica do sistema de design e das bibliotecas de front-end da organização.
+  - Garantir que as interfaces dos serviços cumpram as normas de acessibilidade e tenham garantia de segurança clínica.
+  - Trabalhar com arquitetos, designers e lideranças clínicas para dar forma aos roteiros de produto e às escolhas de tecnologia de front-end.
+  - Liderar a comunidade de prática de front-end e chefiar ou liderar pessoas desenvolvedoras front-end.
+  qualifications:
+  - Ampla experiência na liderança da engenharia de front-end de serviços complexos e acessíveis.
+- title: Chefia de desenvolvimento front-end
+  responsibilities:
+  - Definir a estratégia, os padrões e as práticas de front-end de todos os serviços digitais da organização.
+  - Responder pela acessibilidade e pela usabilidade das interfaces da organização para pacientes e equipes.
+  - Aconselhar a liderança sênior sobre tecnologia de front-end, investimento em sistema de design e riscos que interfaces ruins representam para o cuidado.
+  - Representar a organização em comunidades de sistemas de design e de acessibilidade entre organizações.
+  - Liderar e desenvolver as pessoas desenvolvedoras front-end da organização, incluindo recrutamento e trilhas de carreira.
+  qualifications:
+  - Ampla experiência na liderança do desenvolvimento front-end em várias equipes ou organizações.

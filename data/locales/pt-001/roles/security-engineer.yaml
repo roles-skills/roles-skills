@@ -1,0 +1,44 @@
+summary: Os profissionais de engenharia de segurança projetam, constroem e operam os controles técnicos de segurança que protegem os sistemas, os dados e os usuários da organização. Atuam em identidade e acesso, proteção de endpoints e de redes, criptografia, registro de logs e segurança em nuvem e ajudam as equipes de produto e de infraestrutura a incorporar a segurança desde o início. Na saúde, protegem os sistemas clínicos e os dados dos pacientes mantendo o acesso rápido para os clínicos no ponto de cuidado.
+health_context:
+- Os controles de segurança não devem atrapalhar o atendimento urgente, por isso as pessoas engenheiras projetam uma autenticação forte que continue funcionando com rapidez em estações de trabalho clínicas compartilhadas.
+- Dispositivos médicos e sistemas clínicos legados muitas vezes não podem receber correções nem executar software de segurança, por isso projetam segmentação de rede e controles compensatórios.
+- O ransomware é uma grande ameaça à saúde, por isso fortalecem os sistemas, protegem os backups e limitam o alcance de um ataque.
+- Os sistemas clínicos costumam ser fornecidos e mantidos por terceiros, por isso avaliam a segurança dos fornecedores e controlam seu acesso remoto.
+- As mudanças nos controles de segurança de sistemas clínicos passam pela gestão de mudanças e, quando necessário, pela revisão de segurança clínica.
+levels:
+- title: Profissional de engenharia de segurança
+  summary: Uma pessoa engenheira de segurança constrói, configura e mantém controles e ferramentas de segurança e ajuda as equipes a corrigir fragilidades de segurança.
+  responsibilities:
+  - Construir e manter controles de segurança, como proteção de endpoints, firewalls, segurança de e-mail e registro de logs de segurança.
+  - Configurar controles de identidade e de acesso, incluindo autenticação multifator e acesso privilegiado.
+  - Ajudar as equipes de infraestrutura e de produto a corrigir vulnerabilidades e a fortalecer sistemas segundo os padrões acordados.
+  - Segmentar redes para proteger dispositivos médicos e sistemas legados, trabalhando com as equipes de infraestrutura e de engenharia clínica.
+  - Revisar a segurança de novos sistemas e do acesso remoto de fornecedores antes da entrada em operação.
+  - Participar da escala de plantão para apoiar a resposta a incidentes de segurança.
+  qualifications:
+  - Graduação em computação ou cibersegurança, certificações de segurança pertinentes ou experiência equivalente.
+  - Experiência na construção ou na operação de infraestrutura ou de ferramentas de segurança.
+  job_evaluation_notes: O esforço mental reflete a concentração prolongada e frequente em trabalho técnico complexo e no apoio a incidentes, inclusive em plantão.
+- title: Profissional de engenharia de segurança sênior
+  summary: Uma pessoa engenheira de segurança sênior projeta e lidera a entrega de controles de segurança significativos e aconselha as equipes sobre projeto seguro.
+  responsibilities:
+  - Projetar e liderar a entrega de controles de segurança, como a gestão de acesso privilegiado, o monitoramento de segurança e a proteção de backups.
+  - Aconselhar as equipes de produto e de infraestrutura sobre projeto seguro de serviços clínicos e voltados a pacientes.
+  - Projetar controles compensatórios para dispositivos médicos e outros sistemas que não podem receber correções.
+  - Avaliar a segurança de fornecedores e de seus produtos, incluindo serviços em nuvem.
+  - Apoiar a resposta a incidentes graves de segurança com conhecimento técnico e planos de recuperação.
+  - Orientar profissionais de engenharia de segurança e compartilhar boas práticas entre as equipes.
+  qualifications:
+  - Experiência substancial em engenharia de segurança, em nível equivalente ao de pós-graduação lato sensu.
+  - Certificações avançadas de segurança pertinentes, ou experiência equivalente.
+- title: Profissional de engenharia de segurança líder
+  summary: Uma pessoa engenheira de segurança líder define a direção técnica da engenharia de segurança e garante que os controles funcionem em conjunto em toda a organização.
+  responsibilities:
+  - Definir a direção técnica e os padrões dos controles de segurança em toda a organização.
+  - Liderar o projeto de segurança de grandes programas, como a migração para a hospedagem em nuvem ou um novo prontuário eletrônico do paciente.
+  - Garantir que os controles protejam contra o ransomware e apoiem a recuperação rápida e segura dos sistemas clínicos.
+  - Equilibrar a segurança com a usabilidade clínica, trabalhando com as lideranças clínicas em acesso e autenticação.
+  - Aconselhar o gerente de cibersegurança sobre risco técnico e investimento.
+  - Liderar e desenvolver profissionais de engenharia de segurança.
+  qualifications:
+  - Ampla experiência na liderança da engenharia de segurança de serviços complexos.

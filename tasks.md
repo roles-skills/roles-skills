@@ -186,3 +186,5 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Native speaker review of vi-vn
 - [x] vi-001 (Tiếng Việt (thế giới), Vietnamese): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of vi-001
+- [x] pt-001 (Português, Portuguese): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of pt-001

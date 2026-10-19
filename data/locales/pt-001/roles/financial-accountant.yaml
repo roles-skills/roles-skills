@@ -1,0 +1,66 @@
+summary: Os profissionais de contabilidade financeira garantem que as contas da organização sejam completas, exatas e sigam as normas contábeis e as regras de prestação de contas do setor público. Gerem o balanço patrimonial, preparam as demonstrações anuais e as declarações obrigatórias, gerem o caixa e a tesouraria, contabilizam os ativos e trabalham com os auditores. Em uma organização de saúde digital, grande parte da complexidade vem da contabilização de software, ativos de dados, arranjos em nuvem e contratos plurianuais de tecnologia.
+health_context:
+- A contabilização dos gastos digitais exige julgamento, por exemplo sobre se o desenvolvimento de software, a configuração de serviços em nuvem ou as licenças podem ser tratados como ativos de capital.
+- A organização deve prestar contas do dinheiro público a financiadores e órgãos de supervisão, muitas vezes sob limites rígidos de capital e de caixa.
+- Contratos plurianuais de licenças e suporte criam despesas antecipadas, compromissos e, às vezes, arrendamentos que devem ser contabilizados corretamente.
+- Ativos intangíveis, como o software que a organização constrói, precisam ser avaliados, depreciados e revisados quanto à perda de valor à medida que os produtos mudam.
+- A auditoria externa de órgãos públicos é minuciosa e pública, por isso as evidências e os papéis de trabalho devem ter alto padrão.
+levels:
+- title: Profissional de contabilidade financeira trainee
+  summary: Os profissionais trainees de contabilidade financeira preparam conciliações do balanço patrimonial, lançamentos e papéis de trabalho para as demonstrações enquanto trabalham rumo a uma qualificação contábil reconhecida.
+  responsibilities:
+  - Preparar conciliações do balanço patrimonial e baixar itens de conciliação.
+  - Lançar os lançamentos de fechamento do mês e do ano, como provisões de despesas, despesas antecipadas e depreciação.
+  - Manter o registro de ativos imobilizados, incluindo ativos de software e de hardware.
+  - Preparar papéis de trabalho e evidências para as demonstrações anuais e a auditoria.
+  - Preparar informações de fluxo de caixa e conciliações bancárias.
+  - Trabalhar rumo a uma qualificação contábil reconhecida.
+  qualifications:
+  - Graduação ou qualificação contábil intermediária e trabalho rumo a uma qualificação contábil reconhecida, ou experiência equivalente.
+  job_evaluation_notes: Os conhecimentos são pontuados no nível que a função exige depois que o treinamento está adiantado o bastante para realizar o trabalho.
+- title: Profissional de contabilidade financeira
+  summary: Os profissionais de contabilidade financeira são contadores qualificados que gerem o balanço patrimonial e preparam partes das demonstrações anuais, das declarações obrigatórias e das declarações tributárias.
+  responsibilities:
+  - Gerir o fechamento do mês e do ano do balanço patrimonial.
+  - Preparar partes das demonstrações anuais e das notas explicativas.
+  - Contabilizar os gastos de capital, incluindo decidir quais custos digitais podem ser capitalizados.
+  - Preparar declarações do tributo sobre vendas e orientar sobre o tratamento tributário dos contratos.
+  - Responder a perguntas dos auditores e acordar ações sobre seus achados.
+  - Supervisionar e desenvolver contadores trainees.
+  qualifications:
+  - Uma qualificação contábil reconhecida, ou experiência equivalente.
+- title: Profissional sênior de contabilidade financeira
+  summary: Os profissionais sêniores de contabilidade financeira lideram o processo das demonstrações anuais e a contabilização de áreas complexas, como ativos intangíveis, arrendamentos e arranjos em nuvem.
+  responsibilities:
+  - Planejar e liderar o cronograma das demonstrações anuais e a auditoria externa.
+  - Escrever documentos contábeis sobre julgamentos complexos, como a capitalização dos custos de desenvolvimento de software ou de configuração de nuvem.
+  - Gerir a contabilidade de capital, incluindo vida útil dos ativos, depreciação e perda de valor de ativos de software.
+  - Gerir a previsão de caixa e a liberação do financiamento dentro dos limites de caixa.
+  - Preparar as declarações obrigatórias e de financiadores, como a consolidação e as declarações de capital.
+  - Gerir e desenvolver uma pequena equipe de profissionais de contabilidade financeira.
+  qualifications:
+  - Uma qualificação contábil reconhecida, com experiência substancial após a qualificação, ou equivalente.
+  job_evaluation_notes: Os recursos financeiros estão no nível 4 porque a função gere a posição de caixa e a contabilidade de capital da organização.
+- title: Gerente de contabilidade financeira
+  summary: Os gerentes de contabilidade financeira conduzem a contabilidade financeira, a tesouraria e os tributos da organização e garantem que os controles e as ações de auditoria estejam em vigor.
+  responsibilities:
+  - Gerir as funções de contabilidade financeira, tesouraria e tributos.
+  - Ser responsável pelas políticas contábeis da organização e sua aplicação a novos tipos de gasto, como serviços de nuvem e de dados.
+  - Gerir as contas bancárias, os arranjos bancários e a previsão de fluxo de caixa.
+  - Gerir a conformidade e o risco tributários, inclusive em contratos de tecnologia e serviços compartilhados.
+  - Liderar a resposta aos achados de auditoria interna e externa sobre contabilidade financeira e controles.
+  - Chefiar profissionais de contabilidade financeira e de tesouraria.
+  qualifications:
+  - Uma qualificação contábil reconhecida, com ampla experiência após a qualificação.
+  job_evaluation_notes: Os recursos financeiros estão no nível 5 porque a função gere os serviços bancários, o caixa e os ativos da organização em todos os serviços.
+- title: Chefia de contabilidade financeira
+  summary: As chefias de contabilidade financeira lideram os relatórios obrigatórios, o controle financeiro, a tesouraria e os tributos da organização e são o principal ponto de contato dos auditores externos.
+  responsibilities:
+  - Liderar a preparação do relatório e das demonstrações anuais e apresentá-los ao comitê de auditoria.
+  - Aconselhar diretorias e o comitê de auditoria sobre julgamentos contábeis significativos e novas normas.
+  - Ser responsável pelas regras financeiras, pelos procedimentos financeiros e pelo esquema de delegação.
+  - Liderar o relacionamento com os auditores externos e os órgãos de supervisão em matéria de relatórios financeiros.
+  - Definir a política de tesouraria e tributária e gerir os riscos financeiros.
+  - Liderar e desenvolver as equipes de contabilidade financeira, de tesouraria e de transações.
+  qualifications:
+  - Uma qualificação contábil reconhecida, com ampla experiência após a qualificação, incluindo a liderança de relatórios obrigatórios.

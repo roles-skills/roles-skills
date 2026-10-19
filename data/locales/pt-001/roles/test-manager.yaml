@@ -1,0 +1,26 @@
+summary: Os gerentes de testes planejam, lideram e dão garantia aos testes dos serviços e programas de saúde digital da organização. Decidem quanto teste é necessário e de que tipo, gerem equipes de teste, ambientes e fornecedores e dizem com clareza a quem decide quais riscos permanecem antes de um serviço entrar em operação. Na saúde, isso inclui garantir que os testes apoiem o dossiê de segurança clínica e os requisitos regulatórios.
+health_context:
+- As decisões de entrada em operação de sistemas clínicos dependem das evidências de teste e dos riscos residuais, que os gerentes de testes reportam aos responsáveis pelo produto, aos responsáveis pela segurança clínica e aos comitês de programa.
+- Grandes mudanças, como atualizações do prontuário eletrônico do paciente, exigem testes em muitos departamentos, sistemas e fornecedores e, muitas vezes, tempo das equipes clínicas para os testes de aceitação.
+- Os testes devem se encaixar nos serviços clínicos, por exemplo planejando testes de migração e ensaios gerais para reduzir a perturbação ao cuidado dos pacientes.
+- O software regulamentado e as mudanças críticas à segurança exigem testes que cumpram normas como a IEC 62304 e o processo de gestão de riscos clínicos da organização.
+levels:
+- title: Gerente de testes
+  responsibilities:
+  - Liderar o planejamento de testes de um produto ou programa, abrangendo ambientes, dados, ferramentas, recursos, prazos e risco clínico.
+  - Planejar os testes de aceitação pelo usuário com as lideranças clínicas e operacionais e garantir o tempo dos clínicos para participar.
+  - Gerir uma equipe de analistas e profissionais de engenharia de testes, incluindo testadores de fornecedores.
+  - Garantir que os testes cumpram os requisitos de segurança clínica, de governança da informação e regulatórios.
+  - Reportar o progresso dos testes, os defeitos e os riscos residuais aos responsáveis pelo produto, aos responsáveis pela segurança clínica e aos comitês de programa.
+  - Melhorar os processos de teste e acordar padrões de teste com as equipes de entrega.
+  qualifications:
+  - Experiência substancial na gestão de testes de serviços digitais complexos, em nível equivalente ao de mestrado.
+- title: Chefia de testes
+  responsibilities:
+  - Definir a estratégia, os padrões e as estruturas de teste da organização para os serviços de saúde digital.
+  - Garantir que os testes da organização cumpram os requisitos de segurança clínica, de dispositivos médicos e outros requisitos regulatórios.
+  - Escolher ferramentas e tecnologias de teste e gerir o orçamento de testes e os contratos com fornecedores.
+  - Aconselhar a liderança sênior sobre os riscos de qualidade e de segurança antes de grandes liberações e decisões de entrada em operação.
+  - Liderar e desenvolver gerentes, analistas e profissionais de engenharia de testes e construir a capacidade de teste da organização.
+  qualifications:
+  - Ampla experiência na liderança de testes em uma organização.

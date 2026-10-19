@@ -1,0 +1,28 @@
+summary: Os gerentes de problemas encontram e eliminam as causas-raiz dos incidentes, para que as falhas deixem de se repetir. Analisam dados de incidentes, conduzem investigações de causa-raiz, registram erros conhecidos e soluções alternativas e acompanham as correções com as equipes técnicas e os fornecedores. Na saúde, falhas repetidas em sistemas clínicos desperdiçam tempo clínico, minam a confiança e podem criar riscos para a segurança dos pacientes, por isso eliminá-las importa.
+health_context:
+- Pequenas falhas repetidas, como logins lentos ou impressões que falham nas enfermarias, somam-se em tempo clínico perdido, por isso os gerentes de problemas buscam padrões e não só grandes falhas.
+- Alguns problemas criam perigos para a segurança clínica, como resultados que não chegam ao clínico certo, e são avaliados com o responsável pela segurança clínica.
+- As investigações de causa-raiz muitas vezes envolvem fornecedores de sistemas clínicos e são geridas por meio de contratos e níveis de serviço.
+- As soluções alternativas para sistemas clínicos devem ser seguras e explicadas com clareza às equipes clínicas.
+levels:
+- title: Analista de problemas
+  responsibilities:
+  - Analisar dados de incidentes para encontrar falhas repetidas e tendências nos serviços clínicos e corporativos.
+  - Registrar problemas, erros conhecidos e soluções alternativas na ferramenta de gestão de serviços.
+  - Apoiar investigações de causa-raiz reunindo logs, linhas do tempo e outras evidências.
+  - Acompanhar as ações com equipes técnicas e fornecedores até que as correções estejam implantadas.
+  - Conferir se as soluções alternativas para sistemas clínicos são seguras e explicadas com clareza aos usuários.
+  qualifications:
+  - Experiência em suporte ou operações de TI.
+  - Uma qualificação básica em gestão de serviços de TI, ou experiência equivalente.
+- title: Gerente de problemas
+  responsibilities:
+  - Conduzir o processo de gestão de problemas em todos os serviços da organização.
+  - Liderar a análise de causa-raiz após incidentes graves e para falhas recorrentes, usando técnicas estruturadas.
+  - Priorizar os problemas por seu efeito no cuidado dos pacientes, no tempo das equipes e no risco do serviço.
+  - Avaliar, com o responsável pela segurança clínica, os problemas que possam criar perigos para a segurança dos pacientes.
+  - Cobrar das equipes técnicas e dos fornecedores as correções definitivas e reportar o progresso às lideranças dos serviços.
+  - Trabalhar com os gerentes de incidentes graves para que as lições dos incidentes levem a mudanças.
+  qualifications:
+  - Experiência substancial em gestão de problemas ou de incidentes, em nível equivalente ao de graduação.
+  - Uma qualificação intermediária em gestão de serviços de TI, ou experiência equivalente.

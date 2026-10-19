@@ -1,0 +1,47 @@
+summary: Os analistas de testes e garantia da qualidade verificam se os serviços de saúde digital da organização fazem o que pacientes, profissionais clínicos e equipes de cuidados precisam, com segurança e confiabilidade. Analisam requisitos e projetos para encontrar riscos cedo, projetam e executam testes funcionais e não funcionais e comunicam os defeitos com clareza. Na saúde, isso inclui testar fluxos de trabalho clínicos, a exatidão dos dados e os controles que protegem os pacientes de danos.
+health_context:
+- Defeitos em sistemas clínicos podem prejudicar pacientes, por exemplo com uma dose errada de medicamento, um resultado perdido ou um prontuário exibido para o paciente errado, por isso os testes são priorizados pelo risco clínico.
+- Os testes fornecem evidências para os dossiês de segurança clínica e os registros de perigos, por isso os planos de teste são rastreados até os perigos identificados e seus controles.
+- Os dados de teste nunca devem expor pacientes reais, por isso os analistas usam dados de teste sintéticos ou devidamente desidentificados.
+- Muitos serviços trocam dados com outros sistemas de saúde e de cuidados, por isso os testes verificam as mensagens em relação a padrões como o HL7 FHIR e o significado dos códigos clínicos.
+- Os usuários incluem clínicos sob pressão de tempo, pacientes com uma grande variedade de necessidades e usuários de tecnologia assistiva, por isso importam os testes de usabilidade e de acessibilidade.
+levels:
+- title: Analista de testes e garantia da qualidade associado
+  responsibilities:
+  - Executar roteiros de teste de fluxos de trabalho clínicos e administrativos sob supervisão, registrando os resultados com exatidão.
+  - Abrir relatórios de defeito claros, incluindo as etapas, os dados e as telas envolvidos.
+  - Usar dados de teste sintéticos e nunca usar dados reais de pacientes em ambientes de teste.
+  - Aprender as abordagens de teste, as ferramentas e o processo de segurança clínica da equipe.
+  - Participar das cerimônias da equipe, como reuniões diárias, planejamento e retrospectivas.
+  qualifications:
+  - Boas habilidades analíticas e de escrita e alguma experiência em testes ou em trabalho com sistemas digitais, ou equivalente.
+- title: Analista de testes e garantia da qualidade
+  responsibilities:
+  - Analisar histórias de usuário, projetos e fluxos de trabalho clínicos para decidir o que testar, com base no risco para pacientes e serviços.
+  - Projetar e executar testes funcionais, de acessibilidade e de usabilidade, incluindo cenários clínicos de ponta a ponta.
+  - Rastrear os testes até os perigos e os controles de segurança e fornecer evidências de teste para os dossiês de segurança clínica.
+  - Conferir os dados exibidos aos usuários com os sistemas de origem e os códigos clínicos acordados.
+  - Criar e manter dados de teste sintéticos realistas.
+  - Acompanhar os defeitos até a resolução e retestar as correções.
+  qualifications:
+  - Experiência no projeto e na execução de testes de serviços digitais, ou equivalente.
+  job_evaluation_notes: O UK GDaD PCF sugere HEO ou SEO tanto para este nível quanto para o nível sênior, o que coloca ambos na Faixa 6. Esta referência coloca este nível na Faixa 5 e o nível sênior na Faixa 6, para que os dois níveis fiquem em faixas diferentes.
+- title: Analista de testes e garantia da qualidade sênior
+  responsibilities:
+  - Coordenar a garantia da qualidade de um produto ou área, acordando abordagens de teste, ambientes, dados e ferramentas.
+  - Identificar cedo os riscos clínicos e operacionais revisando requisitos, projetos e mudanças com clínicos e equipes de produto.
+  - Planejar e liderar os testes de aceitação pelo usuário com clínicos e equipes de cuidados.
+  - Reportar os resultados dos testes e os riscos residuais aos responsáveis pelo produto e pela segurança clínica, para que possam decidir sobre as liberações.
+  - Orientar outros analistas de testes e ajudá-los a seguir as normas de teste e de segurança clínica.
+  qualifications:
+  - Experiência substancial em análise de testes, inclusive em ambientes complexos ou regulamentados, ou equivalente.
+- title: Analista de testes e garantia da qualidade líder
+  responsibilities:
+  - Definir padrões e boas práticas de análise de testes em toda a organização, incluindo testes baseados em risco de sistemas clínicos.
+  - Definir estratégias de teste para grandes programas, como mudanças no prontuário eletrônico do paciente ou novos serviços voltados a pacientes.
+  - Garantir que os testes produzam as evidências necessárias para os dossiês de segurança clínica e, quando for o caso, para os arquivos técnicos de dispositivos médicos.
+  - Negociar e escalar grandes riscos, problemas e defeitos com lideranças seniores de produto, clínicas e de fornecedores.
+  - Orientar e acompanhar analistas de testes e liderar a comunidade de análise de testes.
+  qualifications:
+  - Ampla experiência na liderança da análise de testes de serviços complexos.
+  job_evaluation_notes: O UK GDaD PCF sugere G7 ou G6 para este nível, o que corresponde à Faixa 8b. Esta referência o coloca na Faixa 8a, no mesmo nível do profissional de engenharia de testes líder, porque lidera uma disciplina de teste, e não todos os testes; a chefia de testes está na Faixa 8c.

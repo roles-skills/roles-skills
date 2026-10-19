@@ -1,0 +1,66 @@
+summary: Os cientistas de dados usam estatística, aprendizado de máquina e outros métodos avançados para encontrar padrões em dados de saúde e de cuidados e para construir modelos que ajudam os serviços a planejar, prever e melhorar o cuidado. O trabalho típico inclui prever a demanda, identificar pacientes que podem se beneficiar de apoio precoce e avaliar o efeito de mudanças nos serviços. Trabalham em estreita colaboração com profissionais clínicos e analistas e garantem que os modelos sejam válidos, justos e usados com segurança.
+health_context:
+- Um modelo que apoia decisões sobre pacientes pode causar dano se estiver errado ou enviesado, por isso os modelos são validados na população com a qual serão usados e avaliados quanto à segurança clínica.
+- Os dados de saúde refletem o acesso desigual ao cuidado, por isso os modelos podem repetir ou agravar desigualdades em saúde se o viés não for medido e tratado em cada grupo de pacientes.
+- Alguns modelos, como os que subsidiam diagnóstico ou tratamento, podem ser regulamentados como dispositivos médicos, e a regulamentação de IA também pode se aplicar.
+- A ciência de dados costuma precisar de dados detalhados e vinculados de pacientes, por isso o trabalho ocorre em ambientes seguros, com dados pseudonimizados, sob uma base de governança da informação acordada.
+- Profissionais clínicos e pacientes precisam entender e confiar nos resultados de um modelo, por isso importam a explicação e a comunicação da incerteza em linguagem simples.
+levels:
+- title: Cientista de dados trainee
+  responsibilities:
+  - Aprender os métodos estatísticos e de aprendizado de máquina, as ferramentas e as formas seguras de trabalho da equipe por meio de treinamento estruturado.
+  - Preparar e explorar, sob supervisão, conjuntos de dados de saúde pseudonimizados.
+  - Executar e interpretar análises estatísticas simples, conferindo os resultados com um cientista de dados mais experiente.
+  - Seguir os procedimentos de governança da informação, de controle de divulgação e de ética.
+  - Trabalhar rumo a um programa de aprendizagem profissional em ciência de dados ou a uma qualificação equivalente.
+  qualifications:
+  - Matriculado em um programa de aprendizagem profissional em ciência de dados ou equivalente, ou trabalhando para isso.
+  job_evaluation_notes: Os conhecimentos são pontuados no nível que a função exige depois que o treinamento é suficiente para realizar o trabalho.
+- title: Cientista de dados associado
+  responsibilities:
+  - Construir e testar modelos estatísticos e de aprendizado de máquina básicos, como previsões de demanda, com orientação.
+  - Preparar e vincular conjuntos de dados de saúde para modelagem em ambientes seguros.
+  - Medir o desempenho dos modelos em diferentes grupos de pacientes e comunicar as diferenças.
+  - Apresentar os resultados e sua incerteza a analistas e equipes de serviço.
+  - Documentar as fontes de dados, os métodos e as premissas para que o trabalho possa ser reproduzido.
+  qualifications:
+  - Graduação em área quantitativa, aprendizagem profissional em ciência de dados ou experiência equivalente.
+- title: Cientista de dados
+  responsibilities:
+  - Desenvolver modelos complexos de forma independente, como a estratificação de risco ou a previsão do tempo de internação, escolhendo métodos adequados.
+  - Validar os modelos com profissionais clínicos, conferindo se são exatos, justos e úteis com os dados locais de pacientes.
+  - Documentar o uso pretendido, os dados, o desempenho e os limites de cada modelo e contribuir com evidências para os dossiês de segurança clínica.
+  - Avaliar o efeito de mudanças nos serviços usando métodos estatísticos adequados.
+  - Explicar os modelos e sua incerteza a públicos clínicos e não técnicos.
+  - Apoiar cientistas de dados associados e trainees.
+  qualifications:
+  - Graduação em área quantitativa ou experiência equivalente.
+  - Experiência na construção e na validação de modelos estatísticos ou de aprendizado de máquina.
+- title: Cientista de dados principal
+  responsibilities:
+  - Definir o escopo, projetar e liderar projetos de ciência de dados que apoiem o planejamento dos serviços e o cuidado dos pacientes.
+  - Decidir quais métodos, ferramentas e dados são adequados e questionar planos inviáveis ou inseguros.
+  - Planejar a validação, a avaliação de vieses e o monitoramento dos modelos com colegas de segurança clínica e de governança da informação.
+  - Acordar com as equipes de produto como os modelos serão implantados e mantidos em escala.
+  - Gerir e desenvolver uma pequena equipe de cientistas de dados.
+  qualifications:
+  - Experiência substancial na entrega de ciência de dados, em nível equivalente ao de mestrado ou doutorado em uma área quantitativa.
+- title: Cientista de dados líder
+  responsibilities:
+  - Liderar equipes de ciência de dados e definir sua direção, suas prioridades e seus padrões.
+  - Encontrar oportunidades em que a ciência de dados possa melhorar o cuidado e defendê-las junto às lideranças clínicas e de serviço.
+  - Garantir que os modelos sejam projetados, validados e monitorados para permanecerem seguros e justos em uso.
+  - Resolver desafios éticos e de dados complexos, como consentimento, viés e uso de dados sensíveis.
+  - Desenvolver a capacidade de ciência de dados por meio de orientação, recrutamento e treinamento.
+  qualifications:
+  - Ampla experiência na liderança de equipes de ciência de dados.
+  job_evaluation_notes: O UK GDaD PCF sugere G7 ou G6 tanto para o cientista de dados líder quanto para a chefia de ciência de dados. Esta referência coloca o líder na Faixa 8a e a chefia na Faixa 8b, para que os dois níveis fiquem em faixas diferentes.
+- title: Chefia de ciência de dados
+  responsibilities:
+  - Definir a direção da ciência de dados e da IA em toda a organização, em linha com a sua estratégia e as suas prioridades.
+  - Liderar a ética, a segurança e a garantia dos modelos e da IA da organização e aconselhar o conselho de administração sobre eles.
+  - Supervisionar os recursos, o orçamento e a qualidade dos produtos de ciência de dados.
+  - Representar a organização em ciência de dados e IA perante parceiros de saúde e de cuidados, pesquisadores e reguladores.
+  - Desenvolver a capacidade e as carreiras de ciência de dados entre as profissões.
+  qualifications:
+  - Ampla experiência na liderança da ciência de dados em uma organização.
