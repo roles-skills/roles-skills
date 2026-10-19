@@ -1,0 +1,66 @@
+summary: Kế toán quản trị cung cấp cho các quản lý thông tin tài chính và tư vấn mà họ cần để lập kế hoạch, kiểm soát chi tiêu và ra quyết định tốt. Họ đặt ra và theo dõi ngân sách, dự báo chi tiêu, tính giá thành dịch vụ và xây dựng luận chứng tài chính cho đầu tư. Trong một tổ chức chăm sóc sức khỏe số, họ làm việc chặt chẽ với các chương trình số và nhóm sản phẩm, nơi việc xử lý đúng chi phí vốn và chi phí thường xuyên, chi phí toàn vòng đời và giá trị đồng tiền là trọng tâm của các quyết định tốt.
+health_context:
+- Các chương trình số thường được tài trợ từ sự kết hợp giữa nguồn vốn và nguồn thường xuyên, nguồn chỉ dùng cho mục đích riêng hoặc có thời hạn, mỗi loại có quy tắc riêng về những gì có thể chi.
+- Việc chuyển từ hệ thống sở hữu sang dịch vụ đám mây và đăng ký thuê bao chuyển chi phí từ vốn sang thường xuyên, điều này ảnh hưởng đến ngân sách, luận chứng kinh doanh và hồ sơ xin tài trợ.
+- Các quyết định đầu tư phải chứng minh giá trị đồng tiền đối với quỹ công và lợi ích cho bệnh nhân, bác sĩ lâm sàng và nhân viên chăm sóc, không chỉ khoản tiết kiệm tài chính.
+- Các hợp đồng phần mềm, lưu trữ và hỗ trợ thường kéo dài nhiều năm, nên dự báo phải bao gồm chi phí vận hành rất lâu sau khi đưa vào vận hành.
+- Những người quản lý ngân sách trong các nhóm số và lâm sàng có thể không phải là chuyên gia tài chính, nên tư vấn rõ ràng, thiết thực là một phần lớn của công việc.
+levels:
+- title: Kế toán quản trị tập sự
+  summary: Kế toán quản trị tập sự, đôi khi gọi là chuyên viên phân tích tài chính, lập báo cáo và phân tích ngân sách cho một nhóm người quản lý ngân sách trong khi hướng tới bằng cấp kế toán được công nhận.
+  responsibilities:
+  - Lập báo cáo ngân sách hằng tháng cho một nhóm người quản lý ngân sách và giải thích các chênh lệch chính.
+  - Ghi các bút toán nhật ký cuối tháng, chi phí trích trước và điều chỉnh để bảo đảm báo cáo chính xác.
+  - Kiểm tra chi tiêu được hạch toán đúng giữa các trung tâm chi phí, dự án, và chi phí vốn và thường xuyên.
+  - Thu thập thông tin dự báo và cập nhật dự báo cùng những người quản lý ngân sách.
+  - Xây dựng thông tin chi phí cho các luận chứng kinh doanh dưới sự hướng dẫn.
+  - Hướng tới bằng cấp kế toán được công nhận.
+  qualifications:
+  - Có bằng đại học hoặc bằng cấp kế toán trung cấp, và đang hướng tới bằng cấp kế toán được công nhận, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Kiến thức được chấm ở mức mà công việc đòi hỏi sau khi việc đào tạo đã đủ tiến triển để làm được công việc. Nguồn lực tài chính ở mức 3 cho việc theo dõi các ngân sách được ủy quyền.
+- title: Kế toán quản trị
+  summary: Kế toán quản trị là các kế toán viên có bằng cấp, vận hành việc lập ngân sách, theo dõi và dự báo cho một ban hoặc nhóm dịch vụ, và tư vấn cho những người quản lý ngân sách về tài chính của họ.
+  responsibilities:
+  - Dẫn dắt chu trình báo cáo và dự báo hằng tháng cho một ban hoặc nhóm dịch vụ.
+  - Tư vấn cho những người quản lý ngân sách về chi tiêu, rủi ro và các hành động để giữ trong ngân sách.
+  - Lập ngân sách hằng năm, gồm chi phí nhân sự, hợp đồng và giấy phép.
+  - Áp dụng các quy tắc về chi phí vốn và thường xuyên cho chi tiêu số, như phát triển phần mềm, giấy phép và phần cứng.
+  - Xây dựng mô hình tài chính cho các luận chứng kinh doanh và thẩm định phương án.
+  - Giám sát và phát triển các kế toán tập sự.
+  qualifications:
+  - Có bằng cấp kế toán được công nhận, hoặc kinh nghiệm tương đương.
+- title: Kế toán quản trị cao cấp
+  summary: Kế toán quản trị cao cấp dẫn dắt quản lý tài chính của một ban lớn hoặc chương trình số lớn, gồm dự báo phức tạp, tính giá thành và luận chứng kinh doanh.
+  responsibilities:
+  - Dẫn dắt việc lập ngân sách và dự báo cho một ban lớn hoặc chương trình số lớn.
+  - Mô hình hóa các kịch bản, như thay đổi nguồn tài trợ, chậm trễ triển khai và việc chuyển từ chi phí vốn sang chi phí đăng ký đám mây.
+  - Dẫn dắt luận chứng tài chính cho các khoản đầu tư quan trọng, gồm chi phí toàn vòng đời, lợi ích và giá trị đồng tiền.
+  - Xây dựng việc tính giá thành dịch vụ và sản phẩm, như chi phí đầy đủ để vận hành một dịch vụ số.
+  - Trình bày hiệu quả tài chính và rủi ro cho các quản lý cấp cao và ban chương trình.
+  - Quản lý một nhóm nhỏ các kế toán viên và tập sự.
+  qualifications:
+  - Có bằng cấp kế toán được công nhận, kèm kinh nghiệm dày dặn sau khi có bằng cấp, hoặc tương đương.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 4 vì công việc cùng với những người quản lý ngân sách đặt ra ngân sách cho một ban hoặc chương trình.
+- title: Đối tác nghiệp vụ tài chính
+  summary: Đối tác nghiệp vụ tài chính làm việc như một phần của ban lãnh đạo một ban, thường là số, dữ liệu và công nghệ, biến thông tin tài chính thành quyết định và bảo đảm đầu tư mang lại giá trị đồng tiền.
+  responsibilities:
+  - Đóng vai trò cố vấn tài chính cấp cao cho nhóm lãnh đạo của một ban, như số, dữ liệu và công nghệ.
+  - Dẫn dắt kế hoạch tài chính của ban, gắn chi tiêu với các ưu tiên, lực lượng lao động và đầu tư.
+  - Phản biện và hỗ trợ các lãnh đạo về giá trị đồng tiền, gồm chi tiêu cho nhà cung cấp, mức sử dụng giấy phép và chi phí đám mây.
+  - Dẫn dắt các luận chứng kinh doanh cho các khoản đầu tư số lớn và đại diện bộ phận tài chính tại các hội đồng đầu tư.
+  - Bảo đảm chi tiêu số đáp ứng các quy tắc tài trợ, kiểm soát chi tiêu và giới hạn chi phí vốn và thường xuyên.
+  - Quản lý trực tiếp các kế toán quản trị hỗ trợ ban.
+  qualifications:
+  - Có bằng cấp kế toán được công nhận, kèm kinh nghiệm sâu rộng sau khi có bằng cấp, gồm làm đối tác nghiệp vụ.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 5 vì công việc đặt ra ngân sách trên nhiều dịch vụ trong một ban.
+- title: Trưởng bộ phận kế toán quản trị
+  summary: Trưởng bộ phận kế toán quản trị dẫn dắt việc lập ngân sách, dự báo và báo cáo quản trị của tổ chức, cùng nhóm đối tác nghiệp vụ và kế toán viên thực hiện chúng.
+  responsibilities:
+  - Dẫn dắt việc lập ngân sách hằng năm và dự báo trong năm của tổ chức.
+  - Thiết kế báo cáo quản trị, tính giá thành và thông tin hiệu quả cho hội đồng và ban điều hành.
+  - Đề ra tiêu chuẩn luận chứng kinh doanh và thẩm định đầu tư, kể cả cho đầu tư số.
+  - Tư vấn cho các giám đốc về rủi ro tài chính, kế hoạch tiết kiệm và các lựa chọn cần thiết để giữ trong nguồn tài trợ.
+  - Dẫn dắt và phát triển các nhóm đối tác nghiệp vụ và kế toán quản trị.
+  - Cải thiện các công cụ lập ngân sách và báo cáo, kể cả báo cáo tự phục vụ cho những người quản lý ngân sách.
+  qualifications:
+  - Có bằng cấp kế toán được công nhận, kèm kinh nghiệm sâu rộng sau khi có bằng cấp, gồm dẫn dắt một nhóm tài chính.

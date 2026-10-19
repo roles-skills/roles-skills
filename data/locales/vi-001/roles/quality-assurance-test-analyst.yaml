@@ -1,0 +1,47 @@
+summary: Chuyên viên phân tích kiểm thử đảm bảo chất lượng kiểm tra rằng các dịch vụ y tế số của tổ chức làm đúng những gì bệnh nhân, bác sĩ lâm sàng và nhân viên chăm sóc cần, một cách an toàn và đáng tin cậy. Họ phân tích yêu cầu và thiết kế để tìm rủi ro sớm, thiết kế và thực hiện các kiểm thử chức năng và phi chức năng, và báo cáo lỗi rõ ràng. Trong chăm sóc sức khỏe, điều này bao gồm kiểm thử các quy trình lâm sàng, độ chính xác của dữ liệu và các biện pháp kiểm soát bảo vệ bệnh nhân khỏi tổn hại.
+health_context:
+- Lỗi trong các hệ thống lâm sàng có thể gây hại cho bệnh nhân, ví dụ qua liều thuốc sai, kết quả bị bỏ sót hoặc hồ sơ hiển thị nhầm bệnh nhân, nên việc kiểm thử được ưu tiên theo rủi ro lâm sàng.
+- Kiểm thử cung cấp bằng chứng cho các hồ sơ an toàn lâm sàng và nhật ký mối nguy, nên kế hoạch kiểm thử truy vết đến các mối nguy đã xác định và biện pháp kiểm soát của chúng.
+- Dữ liệu kiểm thử không bao giờ được làm lộ bệnh nhân thật, nên các chuyên viên phân tích dùng dữ liệu kiểm thử tổng hợp hoặc đã loại bỏ định danh đúng cách.
+- Nhiều dịch vụ trao đổi dữ liệu với các hệ thống y tế và chăm sóc khác, nên các kiểm thử kiểm tra thông điệp theo các tiêu chuẩn như HL7 FHIR và ý nghĩa của mã lâm sàng.
+- Người dùng gồm bác sĩ lâm sàng chịu áp lực thời gian, bệnh nhân với nhiều nhu cầu khác nhau và người dùng công nghệ hỗ trợ, nên kiểm thử khả năng sử dụng và khả năng tiếp cận là quan trọng.
+levels:
+- title: Chuyên viên phân tích kiểm thử đảm bảo chất lượng trợ lý
+  responsibilities:
+  - Chạy các kịch bản kiểm thử cho quy trình lâm sàng và hành chính dưới sự giám sát, ghi chính xác kết quả.
+  - Lập các báo cáo lỗi rõ ràng, gồm các bước, dữ liệu và màn hình liên quan.
+  - Dùng dữ liệu kiểm thử tổng hợp và không bao giờ dùng dữ liệu bệnh nhân thật trong môi trường kiểm thử.
+  - Học các cách tiếp cận kiểm thử, công cụ của nhóm và quy trình an toàn lâm sàng.
+  - Tham gia các buổi sinh hoạt của nhóm như họp đứng, lập kế hoạch và hồi cứu.
+  qualifications:
+  - Có kỹ năng phân tích và viết tốt, và một số kinh nghiệm kiểm thử hoặc làm việc với các hệ thống số, hoặc tương đương.
+- title: Chuyên viên phân tích kiểm thử đảm bảo chất lượng
+  responsibilities:
+  - Phân tích các câu chuyện người dùng, thiết kế và quy trình lâm sàng để quyết định kiểm thử gì, dựa trên rủi ro đối với bệnh nhân và dịch vụ.
+  - Thiết kế và thực hiện các kiểm thử chức năng, khả năng tiếp cận và khả năng sử dụng, kể cả các kịch bản lâm sàng đầu cuối.
+  - Truy vết các kiểm thử đến mối nguy và biện pháp kiểm soát an toàn, và cung cấp bằng chứng kiểm thử cho các hồ sơ an toàn lâm sàng.
+  - Kiểm tra dữ liệu hiển thị cho người dùng so với hệ thống nguồn và mã lâm sàng đã thống nhất.
+  - Tạo và duy trì dữ liệu kiểm thử tổng hợp thực tế.
+  - Theo dõi lỗi cho đến khi giải quyết và kiểm thử lại các bản sửa.
+  qualifications:
+  - Có kinh nghiệm thiết kế và thực hiện kiểm thử cho các dịch vụ số, hoặc tương đương.
+  job_evaluation_notes: UK GDaD PCF gợi ý HEO hoặc SEO cho cả cấp này và cấp cao cấp, tương ứng với Bậc 6 cho cả hai. Tài liệu tham khảo này xếp cấp này ở Bậc 5 và cấp cao cấp ở Bậc 6, để hai cấp nằm ở các bậc khác nhau.
+- title: Chuyên viên phân tích kiểm thử đảm bảo chất lượng cao cấp
+  responsibilities:
+  - Điều phối đảm bảo chất lượng cho một sản phẩm hoặc mảng, thống nhất cách tiếp cận kiểm thử, môi trường, dữ liệu và công cụ.
+  - Nhận diện sớm các rủi ro lâm sàng và vận hành bằng cách rà soát yêu cầu, thiết kế và thay đổi cùng bác sĩ lâm sàng và các nhóm sản phẩm.
+  - Lập kế hoạch và dẫn dắt kiểm thử nghiệm thu của người dùng cùng bác sĩ lâm sàng và nhân viên chăm sóc.
+  - Báo cáo kết quả kiểm thử và rủi ro còn lại cho chủ sở hữu sản phẩm và cán bộ an toàn lâm sàng, để họ đưa ra quyết định phát hành.
+  - Hướng dẫn các chuyên viên phân tích kiểm thử khác và giúp họ tuân theo các tiêu chuẩn kiểm thử và an toàn lâm sàng.
+  qualifications:
+  - Có kinh nghiệm dày dặn về phân tích kiểm thử, kể cả trong môi trường phức tạp hoặc chịu quản lý, hoặc tương đương.
+- title: Trưởng nhóm phân tích kiểm thử đảm bảo chất lượng
+  responsibilities:
+  - Đề ra tiêu chuẩn phân tích kiểm thử và thực hành tốt trong toàn tổ chức, gồm kiểm thử dựa trên rủi ro đối với các hệ thống lâm sàng.
+  - Xác định chiến lược kiểm thử cho các chương trình lớn, như thay đổi hồ sơ bệnh nhân điện tử hoặc dịch vụ mới hướng tới bệnh nhân.
+  - Bảo đảm việc kiểm thử tạo ra bằng chứng cần thiết cho các hồ sơ an toàn lâm sàng và, khi liên quan, hồ sơ kỹ thuật của thiết bị y tế.
+  - Đàm phán và báo cáo lên cấp trên các rủi ro, vấn đề và lỗi lớn với các trưởng nhóm sản phẩm, lâm sàng và nhà cung cấp cấp cao.
+  - Kèm cặp và huấn luyện các chuyên viên phân tích kiểm thử và dẫn dắt cộng đồng phân tích kiểm thử.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt phân tích kiểm thử cho các dịch vụ phức tạp.
+  job_evaluation_notes: UK GDaD PCF gợi ý G7 hoặc G6 cho cấp này, tương ứng với Bậc 8b. Tài liệu tham khảo này xếp nó ở Bậc 8a, ngang với kỹ sư kiểm thử trưởng nhóm, vì nó dẫn dắt một ngành kiểm thử chứ không phải toàn bộ kiểm thử; trưởng bộ phận kiểm thử ở Bậc 8c.

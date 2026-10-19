@@ -1,0 +1,92 @@
+# Tên nhóm vai trò và vai trò bằng tiếng Việt. Khóa là mã định danh tiếng Anh. Đường dẫn
+# (slug) được tạo từ các tên này.
+families:
+  software-development: {title: Phát triển phần mềm}
+  architecture: {title: Kiến trúc}
+  data: {title: Dữ liệu}
+  product-and-delivery: {title: Sản phẩm và triển khai}
+  user-centred-design: {title: Thiết kế lấy người dùng làm trung tâm}
+  it-operations: {title: Vận hành CNTT}
+  cyber-security: {title: An ninh mạng}
+  quality-assurance-testing: {title: Đảm bảo chất lượng và kiểm thử}
+  clinical-informatics: {title: Tin học lâm sàng và an toàn lâm sàng}
+  information-governance: {title: Quản trị thông tin}
+  finance: {title: Tài chính}
+  legal: {title: Pháp chế}
+  human-resources: {title: Nhân sự}
+  procurement: {title: Mua sắm và thương mại}
+  corporate-services: {title: Dịch vụ doanh nghiệp}
+roles:
+  software-developer: {title: Lập trình viên phần mềm}
+  frontend-developer: {title: Lập trình viên giao diện người dùng}
+  devops-engineer: {title: Kỹ sư DevOps}
+  integration-engineer: {title: Kỹ sư tích hợp (khả năng tương tác của y tế)}
+  enterprise-architect: {title: Kiến trúc sư doanh nghiệp}
+  solution-architect: {title: Kiến trúc sư giải pháp}
+  technical-architect: {title: Kiến trúc sư kỹ thuật}
+  data-architect: {title: Kiến trúc sư dữ liệu}
+  security-architect: {title: Kiến trúc sư an ninh}
+  network-architect: {title: Kiến trúc sư mạng}
+  business-architect: {title: Kiến trúc sư nghiệp vụ}
+  data-analyst: {title: Chuyên viên phân tích dữ liệu}
+  performance-analyst: {title: Chuyên viên phân tích hiệu quả hoạt động}
+  data-engineer: {title: Kỹ sư dữ liệu}
+  analytics-engineer: {title: Kỹ sư phân tích}
+  data-scientist: {title: Nhà khoa học dữ liệu}
+  machine-learning-engineer: {title: Kỹ sư học máy}
+  data-governance-manager: {title: Quản lý quản trị dữ liệu}
+  clinical-coder: {title: Chuyên viên mã hóa lâm sàng}
+  business-analyst: {title: Chuyên viên phân tích nghiệp vụ}
+  delivery-manager: {title: Quản lý triển khai}
+  product-manager: {title: Quản lý sản phẩm}
+  project-manager: {title: Quản lý dự án}
+  programme-delivery-manager: {title: Quản lý triển khai chương trình}
+  digital-portfolio-manager: {title: Quản lý danh mục số}
+  service-owner: {title: Chủ sở hữu dịch vụ}
+  user-researcher: {title: Chuyên viên nghiên cứu người dùng}
+  service-designer: {title: Nhà thiết kế dịch vụ}
+  interaction-designer: {title: Nhà thiết kế tương tác}
+  content-designer: {title: Nhà thiết kế nội dung}
+  accessibility-specialist: {title: Chuyên gia khả năng tiếp cận}
+  service-desk-analyst: {title: Chuyên viên bàn hỗ trợ dịch vụ}
+  end-user-computing-engineer: {title: Kỹ sư máy tính người dùng cuối}
+  infrastructure-engineer: {title: Kỹ sư hạ tầng}
+  application-operations-engineer: {title: Kỹ sư vận hành ứng dụng}
+  it-service-manager: {title: Quản lý dịch vụ CNTT}
+  incident-manager: {title: Quản lý sự cố}
+  problem-manager: {title: Quản lý vấn đề}
+  change-and-release-manager: {title: Quản lý thay đổi và phát hành}
+  security-analyst: {title: Chuyên viên phân tích vận hành an ninh}
+  security-engineer: {title: Kỹ sư an ninh}
+  cyber-security-manager: {title: Quản lý an ninh mạng}
+  quality-assurance-test-analyst: {title: Chuyên viên phân tích kiểm thử đảm bảo chất lượng}
+  test-engineer: {title: Kỹ sư kiểm thử}
+  test-manager: {title: Quản lý kiểm thử}
+  clinical-informatician: {title: Chuyên gia tin học lâm sàng}
+  clinical-safety-officer: {title: Cán bộ an toàn lâm sàng}
+  chief-clinical-information-officer: {title: Giám đốc thông tin lâm sàng}
+  records-officer: {title: Cán bộ hồ sơ y tế}
+  information-governance-officer: {title: Cán bộ quản trị thông tin}
+  data-protection-officer: {title: Cán bộ bảo vệ dữ liệu}
+  finance-officer: {title: Cán bộ tài chính}
+  payroll-officer: {title: Cán bộ tiền lương}
+  management-accountant: {title: Kế toán quản trị}
+  financial-accountant: {title: Kế toán tài chính}
+  head-of-finance: {title: Trưởng phòng tài chính}
+  legal-assistant: {title: Trợ lý pháp chế}
+  legal-adviser: {title: Cố vấn pháp chế}
+  head-of-legal: {title: Trưởng phòng dịch vụ pháp chế}
+  hr-officer: {title: Cán bộ nhân sự}
+  recruitment-officer: {title: Cán bộ tuyển dụng}
+  hr-business-partner: {title: Đối tác nghiệp vụ nhân sự}
+  learning-and-development-specialist: {title: Chuyên viên học tập và phát triển}
+  head-of-people: {title: Trưởng phòng nhân sự}
+  procurement-officer: {title: Cán bộ mua sắm}
+  category-manager: {title: Quản lý nhóm hàng}
+  contract-manager: {title: Quản lý hợp đồng}
+  head-of-procurement: {title: Trưởng phòng mua sắm}
+  administrator: {title: Nhân viên hành chính}
+  executive-assistant: {title: Trợ lý điều hành}
+  project-support-officer: {title: Cán bộ hỗ trợ dự án}
+  governance-and-risk-manager: {title: Quản lý quản trị và rủi ro}
+  communications-officer: {title: Cán bộ truyền thông}

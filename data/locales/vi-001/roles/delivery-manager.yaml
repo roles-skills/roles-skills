@@ -1,0 +1,45 @@
+summary: Quản lý triển khai giúp các nhóm đa ngành cung cấp các dịch vụ y tế số phù hợp với bệnh nhân, bác sĩ lâm sàng và nhân viên chăm sóc. Họ tạo điều kiện để các nhóm làm việc tốt, gỡ bỏ các trở ngại, quản lý rủi ro và các phụ thuộc, và giữ cho việc triển khai tiến triển với nhịp độ bền vững, dùng các cách làm việc agile và tinh gọn.
+health_context:
+- Các bản phát hành cho những dịch vụ hỗ trợ chăm sóc bệnh nhân phải vượt qua các kiểm tra về an toàn lâm sàng và quản trị thông tin, nên quản lý triển khai đưa những kiểm tra này vào kế hoạch và định nghĩa hoàn thành của nhóm.
+- Việc triển khai thường phụ thuộc vào bác sĩ lâm sàng và nhân viên chăm sóc có ít thời gian rời khỏi bệnh nhân, nên quản lý triển khai lập kế hoạch nghiên cứu, kiểm thử và đào tạo xoay quanh lịch trực lâm sàng.
+- Những thay đổi đối với dịch vụ lâm sàng đang vận hành cần chọn thời điểm cẩn thận, nên quản lý triển khai lập kế hoạch đưa vào vận hành cùng các nhóm vận hành để tránh những khoảng thời gian cao điểm lâm sàng và có sẵn hỗ trợ.
+- Các nhóm thường phụ thuộc vào nhà cung cấp hệ thống lâm sàng và các tổ chức y tế và chăm sóc khác, nên quản lý triển khai quản lý các phụ thuộc và hợp đồng bên ngoài.
+levels:
+- title: Quản lý triển khai trợ lý
+  responsibilities:
+  - Điều phối các buổi sinh hoạt của nhóm như họp đứng, lập kế hoạch, trình diễn và hồi cứu.
+  - Cập nhật bảng công việc của nhóm, nhật ký rủi ro và vấn đề, và hồ sơ phụ thuộc.
+  - Theo dõi các nhiệm vụ về an toàn lâm sàng, quản trị thông tin và khả năng tiếp cận cần thiết trước mỗi bản phát hành.
+  - Sắp xếp các buổi với bác sĩ lâm sàng, nhân viên chăm sóc và bệnh nhân để nghiên cứu và kiểm thử, xoay quanh lịch trực lâm sàng.
+  - Đi theo và hỗ trợ một quản lý triển khai trong một nhóm lớn hơn, thực hiện các phần công việc dưới sự hướng dẫn.
+  qualifications:
+  - Có một số kinh nghiệm làm việc trong hoặc với một nhóm triển khai, hoặc kinh nghiệm tương đương.
+- title: Quản lý triển khai
+  responsibilities:
+  - Dẫn dắt việc triển khai một sản phẩm hoặc dịch vụ y tế số qua các giai đoạn khám phá, alpha, beta và vận hành.
+  - Lập kế hoạch các bản phát hành cùng các nhóm vận hành và lâm sàng, kể cả hỗ trợ khi đưa vào vận hành, đào tạo và kế hoạch quay lui.
+  - Bảo đảm việc đảm bảo an toàn lâm sàng, quản trị thông tin và khả năng tiếp cận diễn ra song song với triển khai, không dồn vào cuối.
+  - Quản lý ngân sách, hợp đồng nhà cung cấp và nhân lực của nhóm.
+  - Báo cáo tiến độ, rủi ro và lợi ích cho các ban quản trị bằng ngôn ngữ giản dị.
+  - Xây dựng văn hóa nhóm lành mạnh và huấn luyện các thành viên về cách làm việc agile.
+  qualifications:
+  - Có kinh nghiệm dày dặn trong việc triển khai các sản phẩm hoặc dịch vụ số bằng các phương pháp agile.
+  job_evaluation_notes: Không có cấp vai trò ở Bậc 6 vì UK GDaD PCF không có cấp quản lý triển khai nào giữa trợ lý (EO/HEO) và quản lý triển khai (SEO/G7).
+- title: Quản lý triển khai cao cấp
+  responsibilities:
+  - Dẫn dắt việc triển khai các dịch vụ phức tạp hoặc rủi ro cao, như những dịch vụ dùng trong chăm sóc khẩn cấp hoặc thay thế một hệ thống lâm sàng cốt lõi.
+  - Đóng vai trò đầu mối chính báo cáo lên cấp trên đối với rủi ro, vấn đề và phụ thuộc của việc triển khai trên nhiều nhóm.
+  - Lập kế hoạch triển khai quy mô lớn trên nhiều địa điểm và tổ chức, cùng các cán bộ an toàn lâm sàng và trưởng nhóm vận hành.
+  - Quản lý ngân sách, các thỏa thuận thương mại và hiệu quả của nhà cung cấp cho dịch vụ.
+  - Quản lý trực tiếp và phát triển các quản lý triển khai.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc triển khai các dịch vụ số phức tạp trong toàn bộ vòng đời của chúng.
+- title: Trưởng bộ phận quản lý triển khai
+  responsibilities:
+  - Dẫn dắt ngành quản lý triển khai và đề ra tiêu chuẩn triển khai agile của tổ chức.
+  - Tuyển dụng, phát triển và bố trí các quản lý triển khai trên toàn danh mục.
+  - Bảo đảm các cách tiếp cận triển khai đáp ứng yêu cầu về an toàn lâm sàng, quản trị thông tin và đảm bảo mà không làm chậm các nhóm một cách không cần thiết.
+  - Tư vấn cho các lãnh đạo điều hành và lâm sàng về rủi ro, năng lực và ưu tiên của việc triển khai.
+  - Quản lý ngân sách và kế hoạch nhân lực của ngành nghề.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt triển khai trên nhiều nhóm và dẫn dắt một ngành thực hành triển khai.

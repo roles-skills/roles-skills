@@ -1,0 +1,44 @@
+summary: Kỹ sư dữ liệu xây dựng và vận hành các đường ống và nền tảng chuyển dữ liệu y tế và chăm sóc từ các hệ thống lâm sàng và vận hành đến nơi dữ liệu có thể được phân tích và sử dụng an toàn. Họ thiết kế luồng dữ liệu, tích hợp các nguồn dùng tiêu chuẩn khác nhau, và bảo đảm dữ liệu chính xác, kịp thời, an toàn và chỉ dành cho những người được phép xem.
+health_context:
+- Các hệ thống nguồn gồm hồ sơ bệnh nhân điện tử, hệ thống xét nghiệm, chẩn đoán hình ảnh và dược, dùng các tiêu chuẩn như HL7 phiên bản 2, HL7 FHIR, SNOMED CT và ICD.
+- Các đường ống thường mang dữ liệu bệnh nhân có thể nhận dạng, nên các kỹ sư tích hợp sẵn bút danh hóa, kiểm soát truy cập và ghi nhật ký kiểm toán ngay từ đầu.
+- Một số luồng dữ liệu hỗ trợ chăm sóc trực tiếp, như cảnh báo hoặc danh sách bệnh nhân, nên một đường ống bị lỗi hoặc chậm có thể ảnh hưởng đến bệnh nhân và cần được đánh giá an toàn lâm sàng.
+- Dữ liệu thường cần được liên kết giữa các môi trường chăm sóc, điều này phụ thuộc vào việc khớp bệnh nhân đáng tin cậy và mã định danh nhất quán.
+levels:
+- title: Kỹ sư dữ liệu
+  responsibilities:
+  - Xây dựng và duy trì các đường ống dữ liệu từ các hệ thống lâm sàng và vận hành đến nền tảng dữ liệu, theo các thiết kế đã thống nhất.
+  - Ánh xạ dữ liệu nguồn, kể cả dữ liệu lâm sàng đã mã hóa, sang các mô hình đích và ghi tài liệu các phép ánh xạ.
+  - Tích hợp bút danh hóa, kiểm định và kiểm tra chất lượng dữ liệu vào các đường ống.
+  - Giám sát các đường ống và sửa lỗi, ưu tiên các luồng dữ liệu hỗ trợ chăm sóc trực tiếp.
+  - Áp dụng kiểm soát truy cập và ghi nhật ký kiểm toán đáp ứng các quy tắc quản trị thông tin.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc một ngành liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm xây dựng các đường ống dữ liệu.
+- title: Kỹ sư dữ liệu cao cấp
+  responsibilities:
+  - Thiết kế các luồng dữ liệu và dịch vụ phát trực tuyến tập hợp dữ liệu từ nhiều hệ thống y tế và chăm sóc.
+  - Thiết kế các quy trình khớp và liên kết bệnh nhân, và đo mức độ hiệu quả của chúng.
+  - Dẫn dắt công việc về hiệu năng cơ sở dữ liệu và nền tảng để dữ liệu sẵn sàng khi các dịch vụ cần.
+  - Đánh giá các rủi ro an toàn lâm sàng và quản trị thông tin của các luồng dữ liệu cùng các chuyên gia liên quan.
+  - Rà soát công việc của các kỹ sư khác và huấn luyện họ.
+  qualifications:
+  - Có kinh nghiệm dày dặn về thiết kế và xây dựng các hệ thống dữ liệu, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng nhóm kỹ sư dữ liệu
+  responsibilities:
+  - Dẫn dắt việc thiết kế và vận hành nền tảng dữ liệu của tổ chức và nhiều luồng dữ liệu của nó.
+  - Đề ra tiêu chuẩn kỹ thuật cho đường ống, kiểm thử, an ninh và tài liệu.
+  - Lập kế hoạch tích hợp dữ liệu với các đối tác y tế và chăm sóc, kể cả hồ sơ chăm sóc dùng chung và các dịch vụ dữ liệu khu vực.
+  - Bảo đảm các luồng dữ liệu hỗ trợ chăm sóc trực tiếp có khả năng phục hồi và có hồ sơ an toàn lâm sàng.
+  - Điều phối các nhóm kỹ thuật dữ liệu và quản lý trực tiếp các kỹ sư.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật dữ liệu cho các hệ thống phức tạp.
+- title: Trưởng bộ phận kỹ thuật dữ liệu
+  responsibilities:
+  - Đề ra chiến lược cho các nền tảng dữ liệu và dịch vụ kỹ thuật dữ liệu của tổ chức.
+  - Dẫn dắt các nhóm đa ngành cung cấp dịch vụ dữ liệu cho các nhóm nội bộ và đối tác y tế và chăm sóc.
+  - Tư vấn cho các lãnh đạo cấp cao về rủi ro, chi phí và đầu tư của nền tảng dữ liệu.
+  - Bảo đảm các dịch vụ dữ liệu đáp ứng yêu cầu về quản trị thông tin, an ninh và an toàn lâm sàng.
+  - Xây dựng năng lực kỹ thuật dữ liệu thông qua tuyển dụng, phát triển và lộ trình nghề nghiệp.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật dữ liệu trên nhiều nhóm.

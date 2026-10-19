@@ -1,0 +1,45 @@
+summary: "Cố vấn pháp chế là các luật sư có bằng cấp, đưa ra tư vấn pháp lý thiết thực, chính xác cho tổ chức và giúp tổ chức quản lý rủi ro pháp lý. Họ soạn thảo và đàm phán hợp đồng, tư vấn về luật dữ liệu, mua sắm, lao động và y tế và chăm sóc, và quản lý các tranh chấp và khiếu kiện. Trong một tổ chức chăm sóc sức khỏe số, phần lớn công việc của họ liên quan đến công nghệ: giấy phép phần mềm, thỏa thuận đám mây và xử lý dữ liệu, chia sẻ dữ liệu, sở hữu trí tuệ trong phần mềm và dữ liệu, và việc quản lý các sản phẩm y tế số."
+health_context:
+- Các hợp đồng công nghệ phải bảo vệ dữ liệu bệnh nhân, giữ cho các dịch vụ lâm sàng hoạt động, và bảo đảm tổ chức có thể rời một nhà cung cấp an toàn.
+- Việc dùng dữ liệu y tế cho chăm sóc trực tiếp, lập kế hoạch, nghiên cứu và AI đặt ra các câu hỏi theo luật bảo vệ dữ liệu và nghĩa vụ bảo mật cần được tư vấn cẩn thận.
+- Mua công nghệ bằng tiền công phải tuân theo quy tắc mua sắm công, và các nhà cung cấp có thể phản đối các quyết định trao thầu.
+- Tổ chức có thể xây dựng phần mềm hoặc sản phẩm dữ liệu, điều này làm nảy sinh các vấn đề về sở hữu trí tuệ, mã nguồn mở và sử dụng thương mại.
+- Các khiếu kiện có thể liên quan đến tổn hại cho bệnh nhân, kể cả khi các dịch vụ số có vai trò, nên các cố vấn làm việc với các đồng nghiệp về an toàn lâm sàng, rủi ro và bồi thường.
+levels:
+- title: Cố vấn pháp chế
+  summary: Cố vấn pháp chế là các luật sư có bằng cấp, đưa ra tư vấn độc lập và xử lý khối lượng vụ việc của riêng mình trong một hoặc nhiều lĩnh vực, như hợp đồng công nghệ, luật thông tin, mua sắm hoặc lao động.
+  responsibilities:
+  - Soạn thảo, rà soát và đàm phán các thỏa thuận, như giấy phép phần mềm, dịch vụ đám mây và thỏa thuận xử lý dữ liệu.
+  - Đưa ra tư vấn pháp lý rõ ràng, thiết thực cho các quản lý và nhóm trong các lĩnh vực hành nghề của bạn.
+  - Tư vấn về các thỏa thuận chia sẻ dữ liệu, đánh giá tác động bảo vệ dữ liệu và yêu cầu cung cấp thông tin.
+  - Tư vấn về các quy trình mua sắm và thay đổi hợp đồng đối với công nghệ và dịch vụ.
+  - Quản lý một khối lượng các tranh chấp hoặc khiếu kiện, thuê luật sư bên ngoài khi cần.
+  - Giám sát và phát triển các nhân viên pháp lý và trợ lý pháp chế.
+  qualifications:
+  - Là luật sư đủ điều kiện hành nghề, hoặc bằng cấp và kinh nghiệm tương đương.
+  - Có kinh nghiệm về luật thương mại, công nghệ, thông tin hoặc luật công.
+  job_evaluation_notes: Kiến thức ở mức 7 vì công việc cần bằng cấp pháp lý chuyên nghiệp và kinh nghiệm hành nghề. Nguồn lực tài chính ở mức 2 vì cố vấn pháp chế hiếm khi nắm giữ ngân sách. Nỗ lực cảm xúc ở mức 2 vì các khiếu kiện và vụ việc lao động thường liên quan đến tài liệu gây đau buồn.
+- title: Cố vấn pháp chế cao cấp
+  summary: Cố vấn pháp chế cao cấp là các luật sư có kinh nghiệm, dẫn dắt các vấn đề phức tạp, giá trị cao hoặc rủi ro cao trong một lĩnh vực chuyên môn, như công nghệ và dữ liệu, luật thông tin, mua sắm, lao động hoặc khiếu kiện.
+  responsibilities:
+  - Dẫn dắt các thỏa thuận phức tạp, như triển khai hệ thống lớn, nền tảng dữ liệu và quan hệ đối tác.
+  - Tư vấn cho các quản lý cấp cao về các câu hỏi mới, như AI, sử dụng dữ liệu cho nghiên cứu và phần mềm là thiết bị y tế.
+  - Tư vấn về luật lao động đối với thay đổi lực lượng lao động, nhà thầu và tranh chấp lao động.
+  - Dẫn dắt các tranh chấp quan trọng, khiếu nại về mua sắm và phối hợp với các cơ chế bồi thường sơ suất lâm sàng.
+  - Viết mẫu, sổ tay và hướng dẫn cho tổ chức.
+  - Quản lý và phát triển các cố vấn pháp chế và nhân viên pháp lý.
+  qualifications:
+  - Là luật sư đủ điều kiện hành nghề, có kinh nghiệm dày dặn sau khi có bằng cấp trong một chuyên môn liên quan.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 2 vì công việc không nắm giữ ngân sách, dù kiểm soát chi tiêu cho luật sư bên ngoài trong các vụ việc của mình.
+- title: Cố vấn pháp chế chủ chốt
+  summary: Cố vấn pháp chế chủ chốt là các chuyên gia hàng đầu của tổ chức trong một hoặc nhiều lĩnh vực luật, như công nghệ và dữ liệu hoặc luật thông tin, và dẫn dắt công việc pháp lý của tổ chức về những vấn đề quan trọng nhất.
+  responsibilities:
+  - Dẫn dắt công việc pháp lý về các chương trình, hợp đồng và tranh chấp quan trọng nhất của tổ chức.
+  - Đưa ra tư vấn dứt khoát về các vấn đề mới và rủi ro cao, như chia sẻ dữ liệu quy mô lớn, AI và sử dụng thương mại phần mềm và dữ liệu của tổ chức.
+  - Đề ra lập trường và tiêu chuẩn pháp lý của tổ chức trong các lĩnh vực chuyên môn của bạn.
+  - Tư vấn cho các giám đốc và ủy ban của hội đồng về rủi ro pháp lý.
+  - Đại diện tổ chức với cơ quan quản lý, đối tác và nhà cung cấp về các vấn đề pháp lý.
+  - Dẫn dắt một nhóm pháp chế chuyên môn và phát triển năng lực của nhóm.
+  qualifications:
+  - Là luật sư đủ điều kiện hành nghề, có kinh nghiệm sâu rộng sau khi có bằng cấp và chuyên môn được công nhận trong một lĩnh vực.
+  job_evaluation_notes: Kiến thức ở mức 8 vì công việc cần kiến thức pháp lý chuyên gia về luật và công nghệ, được tích lũy qua thời gian dài.

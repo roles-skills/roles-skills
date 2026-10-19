@@ -1,0 +1,42 @@
+summary: Trợ lý pháp chế và nhân viên pháp lý hỗ trợ các luật sư của tổ chức để công việc pháp lý được tổ chức tốt, chính xác và đúng hạn. Họ quản lý các vụ việc và tài liệu, chuẩn bị hợp đồng và tập hồ sơ, nghiên cứu các câu hỏi pháp lý và xử lý các nhiệm vụ pháp lý thường lệ. Trong một tổ chức chăm sóc sức khỏe số, phần lớn công việc liên quan đến hợp đồng công nghệ, thỏa thuận chia sẻ dữ liệu và xử lý dữ liệu, yêu cầu cung cấp thông tin và khiếu kiện có thể liên quan đến thông tin bệnh nhân nhạy cảm.
+health_context:
+- Hồ sơ pháp lý thường chứa thông tin y tế bí mật, như hồ sơ lâm sàng trong các khiếu kiện, nên quản trị thông tin nghiêm ngặt được áp dụng.
+- Nhiều thỏa thuận là về phần mềm, dịch vụ đám mây và chia sẻ dữ liệu, nên nhân viên cần nhận biết các điều khoản quan trọng đối với dữ liệu bệnh nhân và tính liên tục của dịch vụ.
+- Thời hạn trong các khiếu kiện, điều tra nguyên nhân tử vong và khiếu nại về mua sắm ngắn và cố định, và bỏ lỡ chúng có thể gây tốn kém.
+- Tổ chức chi tiền công cho luật sư bên ngoài, nên chi tiêu pháp lý phải được theo dõi và kiểm soát.
+levels:
+- title: Nhân viên hành chính pháp chế
+  summary: Nhân viên hành chính pháp chế vận hành các quy trình hành chính của nhóm pháp chế, như mở vụ việc, quản lý tài liệu, sổ đăng ký và hóa đơn, theo các quy trình đã định.
+  responsibilities:
+  - Mở, cập nhật và đóng các vụ việc trong hệ thống quản lý vụ việc.
+  - Lưu trữ, định dạng và truy xuất các tài liệu pháp lý, giữ chúng an toàn và bí mật.
+  - Duy trì các sổ đăng ký hợp đồng, văn tự và ký kết.
+  - Quản lý lịch và các mốc ngày quan trọng, và nhắc các luật sư về thời hạn.
+  - Kiểm tra và xử lý hóa đơn từ các luật sư bên ngoài.
+  - Trả lời các thắc mắc thường lệ và chuyển các yêu cầu tư vấn pháp lý.
+  qualifications:
+  - Có kỹ năng hành chính và gõ bàn phím tốt, có được qua giáo dục hoặc kinh nghiệm làm việc.
+  - Bằng cấp về hành chính pháp chế là hữu ích nhưng không bắt buộc.
+- title: Trợ lý pháp chế
+  summary: Trợ lý pháp chế hỗ trợ các luật sư trong nhiều vụ việc, chuẩn bị tài liệu từ mẫu, thực hiện nghiên cứu được xác định, và quản lý các bước thực tế của hợp đồng và vụ việc.
+  responsibilities:
+  - Chuẩn bị các thỏa thuận chuẩn, như thỏa thuận bảo mật và chia sẻ dữ liệu, từ các mẫu đã được phê duyệt.
+  - Chuẩn bị tập hồ sơ, dòng thời gian và bộ hồ sơ ký kết cho hợp đồng và vụ việc.
+  - Thực hiện nghiên cứu pháp lý được xác định và tóm tắt kết quả cho các luật sư.
+  - Thu thập tài liệu và bằng chứng cho các khiếu kiện và yêu cầu cung cấp thông tin.
+  - Theo dõi chi tiêu pháp lý bên ngoài so với ngân sách và báo cáo về nó.
+  - Đào tạo nhân viên hành chính pháp chế về các nhiệm vụ thường lệ.
+  qualifications:
+  - Có bằng cấp trợ lý pháp chế hoặc nhân viên pháp lý ở trình độ trung cấp, hoặc kinh nghiệm tương đương.
+- title: Nhân viên pháp lý
+  summary: Nhân viên pháp lý xử lý khối lượng các vụ việc pháp lý thường lệ của riêng mình dưới sự giám sát của luật sư, như rà soát hợp đồng chuẩn, yêu cầu cung cấp thông tin và hỗ trợ khiếu kiện.
+  responsibilities:
+  - Rà soát các thỏa thuận thường lệ, như giấy phép phần mềm, dịch vụ và thỏa thuận xử lý dữ liệu, theo tiêu chuẩn của tổ chức.
+  - Quản lý một khối lượng các khiếu kiện hoặc tranh chấp thường lệ, chuẩn bị tài liệu và phối hợp với luật sư bên ngoài và các cơ chế bồi thường.
+  - Nghiên cứu các câu hỏi pháp lý và soạn thảo tư vấn để luật sư rà soát.
+  - Hỗ trợ phản hồi các yêu cầu cung cấp thông tin phức tạp và yêu cầu về quyền của chủ thể dữ liệu.
+  - Cập nhật các mẫu, tiền lệ và hướng dẫn pháp lý.
+  - Điều phối công việc của các trợ lý và nhân viên hành chính pháp chế.
+  qualifications:
+  - Có bằng cử nhân luật hoặc bằng cấp nhân viên pháp lý nâng cao, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Nỗ lực cảm xúc ở mức 2 vì công việc thường xuyên đọc hồ sơ lâm sàng và các bản mô tả tổn hại trong các khiếu kiện.

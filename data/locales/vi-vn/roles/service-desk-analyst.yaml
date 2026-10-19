@@ -1,0 +1,70 @@
+summary: Chuyên viên bàn hỗ trợ dịch vụ là đầu mối liên hệ đầu tiên của nhân viên cần giúp đỡ với các dịch vụ số của tổ chức, từ sự cố đăng nhập và thẻ thông minh đến lỗi của hệ thống lâm sàng và thiết bị. Họ ghi nhận, phân loại, giải quyết hoặc báo cáo lên cấp trên các sự cố và yêu cầu, thông báo cho người dùng và phát hiện các mẫu hình chỉ ra vấn đề rộng hơn. Ở nhiều tổ chức chăm sóc sức khỏe, bàn hỗ trợ dịch vụ hoạt động suốt ngày đêm, vì các dịch vụ lâm sàng cũng vậy.
+health_context:
+- Người gọi thường là bác sĩ lâm sàng và nhân viên chăm sóc đang giữa lúc chăm sóc bệnh nhân, nên bàn hỗ trợ ưu tiên theo tác động đối với bệnh nhân, không chỉ theo thứ tự đến.
+- Nhiều dịch vụ lâm sàng hoạt động 24 giờ một ngày, mỗi ngày, nên bàn hỗ trợ dịch vụ thường làm việc theo ca và lịch trực ngoài giờ.
+- Việc truy cập các hệ thống lâm sàng dùng truy cập theo vai trò và xác thực mạnh, nên bàn hỗ trợ xử lý các sự cố về tài khoản, thẻ thông minh và xác thực đa yếu tố trong khi kiểm tra danh tính cẩn thận.
+- Người gọi có thể chia sẻ thông tin bệnh nhân bí mật khi mô tả một lỗi, nên các chuyên viên phân tích tuân theo quy tắc quản trị thông tin về những gì họ ghi vào phiếu.
+- Bàn hỗ trợ thường là nơi đầu tiên thấy dấu hiệu của một sự cố lớn hoặc một cuộc tấn công mạng, như nhiều cuộc gọi về cùng một hệ thống hoặc một làn sóng email đáng ngờ, và phải báo cáo lên cấp trên nhanh chóng.
+levels:
+- title: Chuyên viên bàn hỗ trợ dịch vụ
+  summary: Chuyên viên bàn hỗ trợ dịch vụ trả lời các cuộc gọi và phiếu từ nhân viên, giải quyết các vấn đề thường gặp ngay lần liên hệ đầu bằng kịch bản và bài viết kiến thức, và chuyển các vấn đề khác cho đúng nhóm.
+  responsibilities:
+  - Trả lời các cuộc gọi, trò chuyện và phiếu tự phục vụ từ nhân viên, và ghi chính xác từng cái vào công cụ quản lý dịch vụ.
+  - Giải quyết các vấn đề thường gặp ngay lần liên hệ đầu bằng kịch bản và bài viết kiến thức, như đặt lại mật khẩu, mở khóa tài khoản và lỗi máy in.
+  - Kiểm tra danh tính người gọi trước khi thay đổi tài khoản hoặc quyền truy cập, theo quy trình của tổ chức.
+  - Hỏi vấn đề ảnh hưởng đến việc chăm sóc bệnh nhân như thế nào, đặt mức ưu tiên và chuyển sự cố cho đúng nhóm giải quyết.
+  - Thông báo cho người dùng về phiếu của họ và xác nhận bản sửa lỗi hoạt động trước khi đóng phiếu.
+  - Chỉ ghi vào phiếu những thông tin cần thiết, không có chi tiết bệnh nhân không cần thiết.
+  qualifications:
+  - Có bằng cấp mức 3 về CNTT, chương trình học nghề hỗ trợ CNTT, hoặc kinh nghiệm tương đương.
+  - Có kỹ năng dịch vụ khách hàng và gõ bàn phím tốt, có được qua công việc hoặc học tập.
+  job_evaluation_notes: UK GDaD PCF gợi ý Bậc 4 cho cấp này. Tài liệu tham khảo này bắt đầu công việc bàn hỗ trợ tuyến đầu theo kịch bản ở Bậc 3, và xếp các chuyên viên phân tích giải quyết các lỗi phức tạp hơn ở Bậc 4. Nỗ lực trí tuệ phản ánh việc thường xuyên tập trung vào các cuộc gọi khó đoán; nỗ lực cảm xúc phản ánh việc thường xuyên nhận cuộc gọi từ nhân viên chịu áp lực trong khu vực lâm sàng.
+- title: Chuyên viên bàn hỗ trợ dịch vụ kỹ thuật
+  summary: Chuyên viên bàn hỗ trợ dịch vụ kỹ thuật giải quyết các lỗi phức tạp hơn ngay lần liên hệ đầu, gồm sửa từ xa thiết bị và quyền truy cập các hệ thống lâm sàng, và xử lý các cuộc gọi khẩn cấp từ khu vực lâm sàng.
+  responsibilities:
+  - Giải quyết từ xa các sự cố và yêu cầu phức tạp hơn, gồm lỗi thiết bị, phần mềm và truy cập hệ thống lâm sàng.
+  - Xử lý các cuộc gọi khẩn cấp từ khu vực lâm sàng, như khoa cấp cứu, khoa phòng và phòng mổ, và bắt đầu quy trình sự cố lớn khi cần.
+  - Xử lý các yêu cầu truy cập hệ thống lâm sàng, đối chiếu chúng với quy tắc truy cập theo vai trò.
+  - Viết và cải thiện các bài viết kiến thức để nhiều vấn đề hơn có thể được giải quyết ngay lần liên hệ đầu.
+  - Phát hiện các cuộc gọi lặp lại về cùng một lỗi và nêu với quản lý sự cố và vấn đề.
+  - Báo cáo các email lừa đảo nghi ngờ và các sự kiện an ninh khác cho nhóm an ninh.
+  - Hướng dẫn các chuyên viên phân tích mới cách dùng công cụ và quy trình của bàn hỗ trợ.
+  qualifications:
+  - Có kinh nghiệm hỗ trợ CNTT tại bàn hỗ trợ dịch vụ hoặc môi trường tương tự.
+  - Có chứng chỉ nền tảng về quản lý dịch vụ CNTT, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Dùng cùng cấp UK GDaD PCF với chuyên viên phân tích Bậc 3, dành cho các chuyên viên phân tích giải quyết các vấn đề phức tạp hơn và xử lý các cuộc gọi lâm sàng khẩn cấp. Giao tiếp cao hơn hồ sơ bậc vì các chuyên viên phân tích thường phải giải thích các vấn đề kỹ thuật cho nhân viên lâm sàng bận rộn.
+- title: Chuyên viên bàn hỗ trợ dịch vụ cao cấp
+  responsibilities:
+  - Dẫn dắt một ca làm việc tại bàn hỗ trợ dịch vụ, cân bằng giữa hàng đợi cuộc gọi và mức khẩn cấp lâm sàng của các sự cố đang mở.
+  - Tiếp nhận các cuộc gọi khó hoặc được báo cáo lên cấp trên, kể cả các cuộc gọi từ bác sĩ lâm sàng cấp cao trong lúc chăm sóc khẩn cấp.
+  - Giữ cho kịch bản và bài viết kiến thức chính xác khi các hệ thống lâm sàng và thiết bị thay đổi.
+  - Đóng vai trò đầu mối báo cáo lên cấp trên ngoài giờ cho bàn hỗ trợ, và bắt đầu quy trình sự cố lớn khi nhiều người dùng bị ảnh hưởng.
+  - Kiểm tra chất lượng của các phiếu, gồm việc kiểm tra danh tính và những gì được ghi về bệnh nhân.
+  - Lập kế hoạch bố trí lịch trực để bàn hỗ trợ luôn có người.
+  qualifications:
+  - Có kinh nghiệm dày dặn tại bàn hỗ trợ dịch vụ, gồm xử lý các vụ báo cáo lên cấp trên.
+  - Có bằng cấp về quản lý dịch vụ CNTT, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Lập kế hoạch phản ánh việc lập kế hoạch ca và lịch trực cho một bàn hỗ trợ 24 giờ. Nỗ lực cảm xúc phản ánh việc thường xuyên nhận các cuộc gọi khó từ nhân viên đang xử lý việc chăm sóc bệnh nhân khẩn cấp.
+- title: Quản lý bàn hỗ trợ dịch vụ
+  responsibilities:
+  - Điều hành bàn hỗ trợ dịch vụ hằng ngày, bảo đảm có đủ người và phản hồi nhanh 24 giờ một ngày, mỗi ngày.
+  - Đặt các ưu tiên và mục tiêu phản hồi phản ánh rủi ro lâm sàng, đã thống nhất với các trưởng nhóm lâm sàng và vận hành.
+  - Chuẩn bị bàn hỗ trợ cho các hệ thống lâm sàng mới và đã thay đổi, gồm đào tạo, kịch bản và bố trí thêm người khi đưa vào vận hành.
+  - Phân tích xu hướng phiếu để tìm các vấn đề mới nổi, và phối hợp với quản lý vấn đề để loại bỏ nguyên nhân của chúng.
+  - Bảo đảm bàn hỗ trợ tuân theo quy trình kiểm tra danh tính, quản trị thông tin và an ninh, và hành động theo các phát hiện kiểm toán.
+  - Quản lý trực tiếp các chuyên viên phân tích cao cấp và chuyên viên phân tích, gồm tuyển dụng, hiệu quả công việc và sức khỏe của nhân viên làm việc theo ca.
+  qualifications:
+  - Có kinh nghiệm dẫn dắt một nhóm bàn hỗ trợ dịch vụ, gồm trực theo ca hoặc ngoài giờ.
+  - Có chứng chỉ trung cấp về quản lý dịch vụ CNTT, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Kiến thức thấp hơn hồ sơ bậc một mức, như thường thấy ở các vai trò bàn hỗ trợ dịch vụ; trách nhiệm đối với con người cao hơn vì quản lý vận hành một nhóm làm việc theo ca.
+- title: Trưởng bộ phận bàn hỗ trợ dịch vụ
+  responsibilities:
+  - Đề ra định hướng cho bàn hỗ trợ dịch vụ, gồm các kênh liên hệ, tự phục vụ và hỗ trợ cho nhân viên làm việc trên nhiều địa điểm và trong cộng đồng.
+  - Thống nhất mức độ dịch vụ với các dịch vụ lâm sàng và doanh nghiệp, và báo cáo hiệu quả cho các lãnh đạo cấp cao.
+  - Bảo đảm bàn hỗ trợ có thể tiếp tục làm việc trong các sự cố lớn, tấn công mạng và ngừng hoạt động hệ thống, với các quy trình duy trì hoạt động kinh doanh rõ ràng.
+  - Tư vấn cho các nhóm dự án về cách các hệ thống lâm sàng và doanh nghiệp mới sẽ được hỗ trợ trước khi đưa vào vận hành.
+  - Quản lý ngân sách, công cụ và bất kỳ hợp đồng hỗ trợ thuê ngoài hoặc ngoài giờ nào của bàn hỗ trợ dịch vụ.
+  - Dẫn dắt và phát triển các quản lý bàn hỗ trợ dịch vụ, và xây dựng văn hóa hỗ trợ cho nhân viên làm việc theo ca.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc quản lý các dịch vụ hỗ trợ CNTT, gồm dịch vụ 24 giờ.
+  - Có chứng chỉ nâng cao về quản lý dịch vụ CNTT, hoặc kinh nghiệm tương đương.

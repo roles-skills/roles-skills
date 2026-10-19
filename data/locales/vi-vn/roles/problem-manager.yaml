@@ -1,0 +1,28 @@
+summary: Quản lý vấn đề tìm và khắc phục nguyên nhân gốc của các sự cố, để các lỗi không tái diễn. Họ phân tích dữ liệu sự cố, thực hiện các cuộc điều tra nguyên nhân gốc, ghi nhận các lỗi đã biết và giải pháp tạm thời, và theo dõi các bản sửa lỗi cùng các nhóm kỹ thuật và nhà cung cấp. Trong chăm sóc sức khỏe, các lỗi lặp lại trong hệ thống lâm sàng làm lãng phí thời gian lâm sàng, làm xói mòn niềm tin và có thể tạo ra rủi ro an toàn bệnh nhân, nên việc loại bỏ chúng là quan trọng.
+health_context:
+- Các lỗi nhỏ lặp lại, như đăng nhập chậm hoặc in lỗi tại các khoa phòng, cộng lại thành thời gian lâm sàng bị mất, nên quản lý vấn đề tìm kiếm các mẫu hình cũng như các sự cố lớn.
+- Một số vấn đề tạo ra mối nguy an toàn lâm sàng, như kết quả không đến đúng bác sĩ lâm sàng, và được đánh giá cùng cán bộ an toàn lâm sàng.
+- Các cuộc điều tra nguyên nhân gốc thường liên quan đến nhà cung cấp hệ thống lâm sàng, và được quản lý qua hợp đồng và mức độ dịch vụ.
+- Các giải pháp tạm thời cho hệ thống lâm sàng phải an toàn và được giải thích rõ ràng cho nhân viên lâm sàng.
+levels:
+- title: Chuyên viên phân tích vấn đề
+  responsibilities:
+  - Phân tích dữ liệu sự cố để tìm các lỗi lặp lại và xu hướng trên các dịch vụ lâm sàng và doanh nghiệp.
+  - Ghi nhận các vấn đề, lỗi đã biết và giải pháp tạm thời trong công cụ quản lý dịch vụ.
+  - Hỗ trợ các cuộc điều tra nguyên nhân gốc bằng cách thu thập nhật ký, dòng thời gian và các bằng chứng khác.
+  - Theo dõi các hành động cùng các nhóm kỹ thuật và nhà cung cấp cho đến khi có bản sửa lỗi.
+  - Kiểm tra các giải pháp tạm thời cho hệ thống lâm sàng an toàn và được giải thích rõ ràng cho người dùng.
+  qualifications:
+  - Có kinh nghiệm hỗ trợ hoặc vận hành CNTT.
+  - Có chứng chỉ nền tảng về quản lý dịch vụ CNTT, hoặc kinh nghiệm tương đương.
+- title: Quản lý vấn đề
+  responsibilities:
+  - Vận hành quy trình quản lý vấn đề trên các dịch vụ của tổ chức.
+  - Dẫn dắt phân tích nguyên nhân gốc sau các sự cố lớn và đối với các lỗi tái diễn, dùng các kỹ thuật có cấu trúc.
+  - Ưu tiên các vấn đề theo tác động của chúng đối với việc chăm sóc bệnh nhân, thời gian của nhân viên và rủi ro dịch vụ.
+  - Đánh giá các vấn đề có thể tạo ra mối nguy an toàn bệnh nhân cùng cán bộ an toàn lâm sàng.
+  - Yêu cầu các nhóm kỹ thuật và nhà cung cấp chịu trách nhiệm về các bản sửa lỗi vĩnh viễn, và báo cáo tiến độ cho các lãnh đạo dịch vụ.
+  - Làm việc với các quản lý sự cố lớn để bảo đảm các bài học từ sự cố dẫn đến thay đổi.
+  qualifications:
+  - Có kinh nghiệm dày dặn về quản lý vấn đề hoặc sự cố, ở mức tương đương bằng đại học.
+  - Có chứng chỉ trung cấp về quản lý dịch vụ CNTT, hoặc kinh nghiệm tương đương.

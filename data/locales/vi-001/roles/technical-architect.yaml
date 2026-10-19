@@ -1,0 +1,57 @@
+summary: "Kiến trúc sư kỹ thuật thiết kế cấu trúc kỹ thuật của các dịch vụ y tế số của tổ chức: các thành phần, nền tảng, lưu trữ, mẫu tích hợp và các chất lượng phi chức năng như an ninh, hiệu năng và khả năng phục hồi. Họ làm việc chặt chẽ với lập trình viên và kỹ sư DevOps, lãnh đạo kỹ thuật cho các nhóm triển khai, và bảo đảm các dịch vụ được xây dựng bền vững và an toàn khi vận hành."
+health_context:
+- Các dịch vụ lâm sàng thường cần tính sẵn sàng cao và khôi phục nhanh, nên thiết kế kỹ thuật phải lập kế hoạch cho sự cố và vận hành ở chế độ suy giảm.
+- Thiết kế phải bảo vệ thông tin y tế bí mật thông qua mã hóa, kiểm soát truy cập và kiểm toán theo mặc định.
+- Các dịch vụ kết nối với nhiều hệ thống lâm sàng và nền tảng dùng chung, thường qua API HL7 FHIR và thông điệp, nên các mẫu tích hợp là trọng tâm của thiết kế.
+- Các lựa chọn thiết kế kỹ thuật, như bộ nhớ đệm, thử lại và xử lý thời gian, có thể gây ra mối nguy lâm sàng, nên các kiến trúc sư đóng góp vào hồ sơ an toàn.
+- Các hệ thống lâm sàng cũ và thiết bị y tế có thể hạn chế các lựa chọn về công nghệ, mạng và lưu trữ.
+levels:
+- title: Kiến trúc sư kỹ thuật trợ lý
+  responsibilities:
+  - Vẽ sơ đồ kỹ thuật và ghi tài liệu về các thành phần, lưu trữ và tích hợp của các dịch vụ hiện có.
+  - Nghiên cứu các phương án công nghệ và tóm tắt ưu nhược điểm của chúng, với sự hướng dẫn.
+  - Làm việc với lập trình viên để kiểm tra các bản dựng tuân theo thiết kế và mẫu đã thống nhất.
+  - Ghi lại các quyết định kỹ thuật và cập nhật tài liệu thiết kế.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc một ngành liên quan, hoặc kinh nghiệm tương đương về kỹ thuật phần mềm hoặc hạ tầng.
+  - Có kiến thức chuyên sâu về thiết kế kỹ thuật, ở mức văn bằng sau đại học hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: "Được xếp bậc cao hơn gợi ý ngạch của UK GDaD PCF (Bậc 5): các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 6. Kiến thức được chấm ở mức văn bằng sau đại học, và nguồn lực thông tin ở mức 5 vì công việc thiết kế các phần của các hệ thống thông tin lớn."
+- title: Kiến trúc sư kỹ thuật
+  responsibilities:
+  - Thiết kế kiến trúc kỹ thuật cho một dịch vụ, gồm thành phần, lưu trữ, tích hợp và an ninh.
+  - Cung cấp các mẫu thiết kế cho các nhóm triển khai và rà soát thiết kế kỹ thuật và cấu trúc mã của họ.
+  - Xác định các yêu cầu phi chức năng, như mục tiêu về tính sẵn sàng, hiệu năng và khôi phục, cùng chủ sở hữu dịch vụ.
+  - Nhận diện nợ kỹ thuật và công nghệ không còn được hỗ trợ, và lập kế hoạch khắc phục.
+  - Nhận diện các mối nguy kỹ thuật và biện pháp kiểm soát cho hồ sơ an toàn lâm sàng.
+  qualifications:
+  - Có kiến thức chuyên sâu về kiến trúc kỹ thuật, ở trình độ thạc sĩ hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm thiết kế hoặc xây dựng phần mềm hoặc hạ tầng đang vận hành.
+  job_evaluation_notes: Được xếp bậc theo gợi ý ngạch của UK GDaD PCF là Bậc 7, phù hợp với các tin tuyển dụng trong ngành y tế cho vai trò này. Kiến thức được chấm ở trình độ thạc sĩ hoặc tương đương cho kiến thức chuyên sâu trên toàn bộ phạm vi kiến trúc kỹ thuật.
+- title: Kiến trúc sư kỹ thuật cao cấp
+  responsibilities:
+  - Dẫn dắt thiết kế kỹ thuật của các dịch vụ lớn, phức tạp hoặc rủi ro cao, như hệ thống lâm sàng và nền tảng tích hợp dùng chung.
+  - Đề ra định hướng kỹ thuật cho một hoặc nhiều nhóm triển khai và phản biện các thiết kế làm tăng rủi ro.
+  - Thiết kế cho khả năng phục hồi, khôi phục sau thảm họa và vận hành an toàn, và kiểm tra các nhóm có kiểm thử chúng.
+  - Giải thích các rủi ro và đánh đổi kỹ thuật cho chủ sở hữu dịch vụ, trưởng nhóm lâm sàng và các bên liên quan cấp cao bằng ngôn ngữ giản dị.
+  - Kèm cặp và huấn luyện các kiến trúc sư kỹ thuật và lập trình viên cao cấp.
+  qualifications:
+  - Có kinh nghiệm dày dặn về thiết kế kỹ thuật cho các dịch vụ phức tạp, ở mức tương đương bằng thạc sĩ.
+  job_evaluation_notes: "Được xếp bậc cao hơn gợi ý ngạch của UK GDaD PCF (Bậc 7): các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 8a. Lập kế hoạch, chính sách và quyền tự chủ hành động được chấm cao hơn hồ sơ Bậc 7 vì công việc đề ra định hướng kỹ thuật cho nhiều nhóm với ít sự giám sát."
+- title: Trưởng nhóm kiến trúc sư kỹ thuật
+  responsibilities:
+  - Dẫn dắt kiến trúc kỹ thuật trên nhiều dịch vụ hoặc nhóm, đề ra các mẫu thiết kế và tiêu chuẩn dùng chung.
+  - Đảm bảo chất lượng kỹ thuật của thiết kế tại các cơ quan thẩm định thiết kế, gồm an ninh, khả năng phục hồi và khả năng tương tác.
+  - Định hình lộ trình công nghệ của tổ chức cùng kiến trúc sư doanh nghiệp và các trưởng nhóm kỹ thuật.
+  - Tư vấn cho các lãnh đạo cấp cao về lựa chọn công nghệ, đầu tư nền tảng và rủi ro kỹ thuật.
+  - Dẫn dắt và phát triển các kiến trúc sư kỹ thuật.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kiến trúc kỹ thuật cho các dịch vụ phức tạp.
+- title: Kiến trúc sư kỹ thuật chủ chốt
+  responsibilities:
+  - Đề ra chiến lược, nguyên tắc và tiêu chuẩn kiến trúc kỹ thuật của tổ chức.
+  - Quản trị thiết kế kỹ thuật trong toàn tổ chức, kể cả cơ quan thẩm định thiết kế kỹ thuật.
+  - Tư vấn cho ban điều hành về các quyết định công nghệ lớn, như chiến lược lưu trữ và hợp nhất nền tảng.
+  - Đại diện tổ chức trong các cộng đồng kỹ thuật và tiêu chuẩn giữa nhiều tổ chức.
+  - Truyền cảm hứng và phát triển các kiến trúc sư trong toàn tổ chức.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kiến trúc kỹ thuật trên nhiều nhóm hoặc tổ chức.

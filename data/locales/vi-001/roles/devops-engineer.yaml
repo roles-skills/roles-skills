@@ -1,0 +1,67 @@
+summary: Kỹ sư DevOps xây dựng và vận hành các công cụ, đường ống, môi trường và nền tảng giúp các nhóm của tổ chức cung cấp các dịch vụ y tế số một cách an toàn và thường xuyên. Họ tự động hóa việc xây dựng, kiểm thử, phát hành và hạ tầng, làm cho dịch vụ có thể quan sát và có khả năng phục hồi, và giúp các nhóm giữ cho hệ thống lâm sàng sẵn sàng khi bệnh nhân và bác sĩ lâm sàng cần.
+health_context:
+- Nhiều dịch vụ hỗ trợ chăm sóc suốt ngày đêm, nên việc triển khai, giám sát và phục hồi phải giữ thời gian ngừng hoạt động ở mức tối thiểu, kể cả ngoài giờ.
+- Các đường ống phát hành tạo ra bằng chứng cho hồ sơ an toàn lâm sàng, như kết quả kiểm thử, bản ghi thay đổi và phiên bản chính xác được triển khai.
+- Các môi trường có thể chứa thông tin y tế bí mật, nên các kỹ sư kiểm soát truy cập, bảo vệ bí mật và giữ dữ liệu thật tránh xa môi trường kiểm thử.
+- Các dịch vụ y tế là mục tiêu phổ biến của các cuộc tấn công mạng, nên các đường ống và nền tảng tích hợp sẵn quét an ninh, vá lỗi và sao lưu đã được kiểm thử.
+- Một số dịch vụ phải đáp ứng các tiêu chuẩn nghiêm ngặt về tính sẵn sàng và khôi phục sau thảm họa, đã thống nhất với các trưởng nhóm lâm sàng và vận hành.
+levels:
+- title: Kỹ sư DevOps học nghề
+  responsibilities:
+  - Học các đường ống, nền tảng đám mây và công cụ của nhóm qua đào tạo có cấu trúc và đi theo quan sát.
+  - Thực hiện các thay đổi nhỏ, được xác định rõ đối với kịch bản, đường ống và cấu hình dưới sự giám sát chặt chẽ.
+  - Tuân thủ các quy trình về thay đổi, an ninh và quản trị thông tin cho mọi môi trường.
+  - Giúp giám sát dịch vụ và báo cáo cảnh báo cho các đồng nghiệp có kinh nghiệm.
+  - Hướng tới chương trình học nghề hoặc bằng cấp tương đương.
+  qualifications:
+  - Đang theo học, hoặc đang hướng tới, chương trình học nghề về DevOps, phần mềm hoặc hạ tầng hoặc tương đương.
+  job_evaluation_notes: Kiến thức được chấm ở mức mà công việc đòi hỏi sau khi việc đào tạo đã đủ để làm được công việc.
+- title: Kỹ sư DevOps sơ cấp
+  responsibilities:
+  - Xây dựng và duy trì các phần của đường ống xây dựng, kiểm thử và triển khai với sự hướng dẫn.
+  - Viết hạ tầng dưới dạng mã và các kịch bản tự động hóa, và kiểm thử chúng trước khi dùng.
+  - Giữ cho môi trường kiểm thử không có dữ liệu bệnh nhân thật và quản lý bí mật một cách an toàn.
+  - Phản hồi các cảnh báo giám sát và hỗ trợ ứng phó sự cố dưới sự hướng dẫn.
+  - Ghi lại các lần triển khai và thay đổi để chúng hỗ trợ được bằng chứng an toàn lâm sàng và kiểm toán.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc một ngành liên quan, đã hoàn thành chương trình học nghề, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: UK GDaD PCF gợi ý Bậc 4 cho cả cấp học nghề và sơ cấp; tài liệu tham khảo này xếp cấp sơ cấp ở Bậc 5 để tránh có hai cấp trong một bậc, vì công việc xây dựng các thành phần đường ống với ít sự giám sát hơn.
+- title: Kỹ sư DevOps
+  responsibilities:
+  - Thiết kế và xây dựng độc lập các đường ống, môi trường và thành phần nền tảng.
+  - Tự động hóa các kiểm tra an ninh, như quét phụ thuộc và container, và hành động theo kết quả.
+  - Xây dựng giám sát, ghi nhật ký và cảnh báo để các nhóm thấy được vấn đề trước khi chúng ảnh hưởng đến bệnh nhân và nhân viên.
+  - Lập kế hoạch và kiểm thử sao lưu, chuyển đổi dự phòng và phục hồi cho các dịch vụ hỗ trợ chăm sóc.
+  - Điều tra và khắc phục sự cố trong các dịch vụ đang vận hành, kể cả hỗ trợ ngoài giờ khi dịch vụ cần.
+  - Kèm cặp các kỹ sư DevOps sơ cấp và học nghề.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc một ngành liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm xây dựng và vận hành các đường ống phân phối tự động và hạ tầng đám mây.
+- title: Kỹ sư DevOps cao cấp
+  responsibilities:
+  - Dẫn dắt thiết kế chuỗi công cụ phân phối và nền tảng cho một sản phẩm hoặc nhóm dịch vụ.
+  - Đề ra tiêu chuẩn cho các bản phát hành, để việc triển khai lên các dịch vụ lâm sàng có thể lặp lại, đảo ngược được và có đầy đủ bằng chứng.
+  - Thống nhất mục tiêu về tính sẵn sàng, thời gian khôi phục và điểm khôi phục với chủ sở hữu dịch vụ và các trưởng nhóm lâm sàng, và thiết kế để đáp ứng chúng.
+  - Dẫn dắt ứng phó sự cố kỹ thuật và rà soát sau sự cố cho các nền tảng mà nhóm vận hành.
+  - Bảo đảm các nền tảng đáp ứng yêu cầu về an ninh và quản trị thông tin, kể cả kiểm soát truy cập và ghi nhật ký kiểm toán.
+  - Huấn luyện và phát triển các kỹ sư DevOps trong nhóm.
+  qualifications:
+  - Có kinh nghiệm dày dặn về thiết kế và vận hành chuỗi công cụ phân phối và nền tảng, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng nhóm kỹ sư DevOps
+  responsibilities:
+  - Dẫn dắt kỹ thuật DevOps và nền tảng cho một nhóm các nhóm, đóng vai trò chủ sở hữu kỹ thuật của nền tảng dùng chung.
+  - Đề ra lộ trình trung hạn cho công cụ phân phối, lưu trữ và khả năng quan sát của tổ chức.
+  - Bảo đảm các nền tảng dùng chung có khả năng phục hồi, an toàn và đáp ứng được nhu cầu về tính sẵn sàng của các dịch vụ lâm sàng.
+  - Quản lý chi phí và năng lực của nền tảng cùng bộ phận tài chính và chủ sở hữu dịch vụ.
+  - Dẫn dắt cộng đồng thực hành DevOps và quản lý trực tiếp hoặc dẫn dắt các kỹ sư DevOps.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật DevOps hoặc nền tảng cho các dịch vụ phức tạp.
+- title: Kỹ sư DevOps chủ chốt
+  responsibilities:
+  - Đề ra chiến lược về cách tổ chức xây dựng, phát hành, lưu trữ và vận hành các dịch vụ y tế số của mình.
+  - Tư vấn cho các lãnh đạo cấp cao về lưu trữ, khả năng phục hồi, an ninh mạng và đầu tư nền tảng.
+  - Bảo đảm các kế hoạch duy trì hoạt động kinh doanh và khôi phục sau thảm họa cho các dịch vụ lâm sàng quan trọng là thực tế và được kiểm thử.
+  - Đánh giá và ủng hộ các công nghệ và thực hành mới, cân bằng giữa đổi mới với an toàn và ổn định.
+  - Phát triển năng lực DevOps của tổ chức, kể cả tuyển dụng, lộ trình nghề nghiệp và kế hoạch kỹ năng.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt DevOps và kỹ thuật nền tảng trên nhiều nhóm hoặc tổ chức.

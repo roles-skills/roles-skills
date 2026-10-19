@@ -1,0 +1,32 @@
+summary: Quản lý sự cố khôi phục dịch vụ bình thường nhanh nhất có thể khi có điều gì đó hỏng, và giữ cho tác động lên người dùng ở mức nhỏ nhất. Họ điều phối các nhóm kỹ thuật và nhà cung cấp, thông báo cho người dùng và các lãnh đạo, và bảo đảm các sự cố được ghi nhận và chuyển cho quản lý vấn đề. Trong chăm sóc sức khỏe, sự cố có thể ảnh hưởng trực tiếp đến việc chăm sóc bệnh nhân, nên quản lý sự cố làm việc chặt chẽ với các lãnh đạo lâm sàng và vận hành.
+health_context:
+- Sự cố ngừng hoạt động của một hệ thống lâm sàng có thể làm chậm điều trị, nên các sự cố được ưu tiên theo tác động lâm sàng, và các trưởng nhóm lâm sàng có thể cần bắt đầu các quy trình ngừng hoạt động.
+- Các sự cố lớn có thể xảy ra bất cứ lúc nào, nên quản lý sự cố tham gia các ca trực và có thể bị gọi vào ban đêm hoặc cuối tuần.
+- Một cuộc tấn công mạng, như mã độc tống tiền, có thể trở thành một sự cố lớn ảnh hưởng đến toàn tổ chức và kéo dài nhiều ngày hoặc nhiều tuần.
+- Các sự cố CNTT lớn có thể cần liên kết với các thỏa thuận sẵn sàng ứng phó khẩn cấp và duy trì hoạt động kinh doanh của tổ chức.
+- Các sự cố có thể đã gây hại cho bệnh nhân cũng được báo cáo qua quy trình sự cố lâm sàng và được rà soát cùng bộ phận an toàn lâm sàng.
+levels:
+- title: Quản lý sự cố
+  responsibilities:
+  - Điều phối việc ứng phó với các sự cố ảnh hưởng đến dịch vụ lâm sàng và doanh nghiệp, từ báo cáo đầu tiên đến khi dịch vụ được khôi phục.
+  - Đánh giá tác động lâm sàng và vận hành của từng sự cố và đặt mức ưu tiên cho sự cố đó.
+  - Thông báo cho người dùng bị ảnh hưởng, bàn hỗ trợ dịch vụ và các trưởng nhóm lâm sàng bằng các cập nhật rõ ràng, kịp thời.
+  - Báo cáo các sự cố lên quản lý sự cố lớn khi chúng đáp ứng các tiêu chí đã thống nhất.
+  - Bảo đảm các sự cố được ghi nhận chính xác và chuyển cho quản lý vấn đề.
+  - Tham gia ca trực cho các sự cố ngoài giờ.
+  qualifications:
+  - Có kinh nghiệm hỗ trợ hoặc vận hành CNTT, gồm xử lý sự cố.
+  - Có chứng chỉ nền tảng về quản lý dịch vụ CNTT, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Nỗ lực trí tuệ phản ánh việc thường xuyên phải tập trung kéo dài dưới áp lực thời gian, kể cả khi trực. Nỗ lực cảm xúc phản ánh việc thường xuyên tiếp xúc gián tiếp với tác động của sự cố ngừng hoạt động lên bệnh nhân và nhân viên.
+- title: Quản lý sự cố lớn
+  responsibilities:
+  - Dẫn dắt việc ứng phó với các sự cố lớn, như sự cố ngừng hoạt động của hồ sơ bệnh nhân điện tử, lỗi mạng và tấn công mạng.
+  - Điều hành các cuộc gọi sự cố tập hợp các nhóm kỹ thuật, nhà cung cấp, trưởng nhóm lâm sàng và nhân viên truyền thông.
+  - Tư vấn cho các lãnh đạo lâm sàng và vận hành về khi nào nên bắt đầu và dừng các quy trình ngừng hoạt động và duy trì hoạt động kinh doanh.
+  - Thông báo cho các lãnh đạo cấp cao và, khi cần, liên kết với các thỏa thuận ứng phó khẩn cấp của tổ chức.
+  - Dẫn dắt các đợt rà soát sau sự cố và bảo đảm bài học được rút ra và được hành động theo.
+  - Xây dựng và kiểm thử các kế hoạch sự cố lớn cùng các trưởng nhóm duy trì hoạt động kinh doanh và lập kế hoạch khẩn cấp.
+  qualifications:
+  - Có kinh nghiệm dày dặn trong việc quản lý sự cố ở các dịch vụ phức tạp, có tính sẵn sàng cao.
+  - Có chứng chỉ nâng cao về quản lý dịch vụ CNTT, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Nỗ lực trí tuệ phản ánh việc thường xuyên phải tập trung kéo dài trong các sự cố lớn, thường ngoài giờ. Nỗ lực cảm xúc phản ánh việc thường xuyên tiếp xúc gián tiếp với tác động của các sự cố ngừng hoạt động lớn đối với việc chăm sóc bệnh nhân.

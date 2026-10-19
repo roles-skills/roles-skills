@@ -1,0 +1,54 @@
+summary: Kỹ sư phân tích biến dữ liệu y tế và chăm sóc thô thành các mô hình dữ liệu sạch, đã kiểm thử và có tài liệu để chuyên viên phân tích, nhà khoa học dữ liệu và các công cụ báo cáo có thể tin cậy. Họ nằm giữa kỹ thuật dữ liệu và phân tích, áp dụng các thực hành kỹ thuật phần mềm như kiểm soát phiên bản, kiểm thử và rà soát mã vào các phép biến đổi đằng sau các báo cáo và bảng điều khiển của tổ chức.
+health_context:
+- Các mô hình dữ liệu mã hóa các định nghĩa lâm sàng và vận hành, như thế nào được tính là một lần nhập viện, tái nhập viện hoặc vi phạm tiêu chuẩn thời gian chờ, nên các định nghĩa được thống nhất với các trưởng nhóm lâm sàng và vận hành.
+- Các mã lâm sàng từ các bộ thuật ngữ và phân loại như SNOMED CT và ICD được nhóm thành các tập tham chiếu để phân tích, cần kiểm soát phiên bản cẩn thận.
+- Các mô hình dùng cho báo cáo về hiệu quả hoạt động và tài trợ phải nhất quán và có thể kiểm toán, vì sai sót có thể ảnh hưởng đến các quyết định về dịch vụ bệnh nhân.
+- Các mô hình thường chứa dữ liệu cấp bệnh nhân đã bút danh hóa, nên việc truy cập, tài liệu hóa và tối thiểu hóa dữ liệu được tích hợp sẵn.
+levels:
+- title: Kỹ sư phân tích tập sự
+  responsibilities:
+  - Học các công cụ và thực hành mô hình hóa dữ liệu của nhóm qua đào tạo và làm việc theo cặp.
+  - Thực hiện các thay đổi nhỏ, được xác định rõ đối với mô hình dữ liệu, dưới sự giám sát.
+  - Ghi tài liệu về các mục dữ liệu và định nghĩa của chúng trong danh mục dữ liệu.
+  - Trả lời các câu hỏi đơn giản từ người dùng dữ liệu và ghi lại yêu cầu của họ.
+  - Tuân thủ các quy tắc quản trị thông tin khi làm việc với dữ liệu bệnh nhân.
+  qualifications:
+  - Đang theo học, hoặc đang hướng tới, chương trình học nghề về dữ liệu hoặc tương đương.
+  job_evaluation_notes: Kiến thức được chấm ở mức mà công việc đòi hỏi sau khi việc đào tạo đã đủ để làm được công việc.
+- title: Kỹ sư phân tích
+  responsibilities:
+  - Xây dựng và kiểm thử các mô hình dữ liệu cho một mảng dịch vụ, như hoạt động nội trú hoặc chăm sóc cộng đồng, từ các thiết kế đã thống nhất.
+  - Viết các kiểm thử tự động kiểm tra mô hình dữ liệu so với các định nghĩa lâm sàng và vận hành đã thống nhất.
+  - Duy trì các tập tham chiếu mã lâm sàng dùng trong phân tích, với các phiên bản rõ ràng.
+  - Ghi tài liệu cho các mô hình để chuyên viên phân tích hiểu ý nghĩa, nguồn và giới hạn của chúng.
+  - Đào tạo và hỗ trợ người dùng các tập dữ liệu của nhóm.
+  qualifications:
+  - Có bằng cấp về một ngành thiên về toán hoặc máy tính, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm xây dựng mô hình dữ liệu hoặc mã phân tích.
+- title: Kỹ sư phân tích cao cấp
+  responsibilities:
+  - Giám sát việc thiết kế và kiểm thử các mô hình dữ liệu trên nhiều mảng dịch vụ.
+  - Thống nhất định nghĩa của các thước đo chính với các trưởng nhóm lâm sàng, vận hành và tài chính, và bảo đảm các mô hình áp dụng chúng một cách nhất quán.
+  - Bảo đảm các mô hình cung cấp cho báo cáo về hiệu quả hoạt động và tài trợ có thể kiểm toán và được kiểm thử kỹ.
+  - Giải quyết các vấn đề và rủi ro về dữ liệu cùng các kỹ sư dữ liệu và chủ sở hữu dữ liệu.
+  - Huấn luyện và chỉ đạo công việc của các kỹ sư phân tích khác.
+  qualifications:
+  - Có kinh nghiệm dày dặn về mô hình hóa dữ liệu và kỹ thuật phân tích, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng nhóm kỹ sư phân tích
+  responsibilities:
+  - Dẫn dắt một nhóm thiết kế, xây dựng và duy trì các mô hình dữ liệu phân tích của tổ chức.
+  - Đề ra tiêu chuẩn cho mô hình dữ liệu, kiểm thử, tài liệu và định nghĩa các thước đo.
+  - Làm việc với các nhóm trong tổ chức để hiểu các quy trình lâm sàng và vận hành tạo ra dữ liệu như thế nào.
+  - Rà soát công việc của các kỹ sư phân tích khác và cải thiện cách làm việc của nhóm.
+  - Quản lý trực tiếp các kỹ sư phân tích.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật phân tích hoặc mô hình hóa dữ liệu.
+- title: Trưởng bộ phận kỹ thuật phân tích
+  responsibilities:
+  - Đề ra định hướng cho các mô hình dữ liệu phân tích của tổ chức, để việc phân tích trong toàn tổ chức dùng một bộ định nghĩa đáng tin cậy.
+  - Bảo đảm các ưu tiên về kỹ thuật phân tích hỗ trợ chiến lược và nghĩa vụ báo cáo của tổ chức.
+  - Tư vấn cho các lãnh đạo cấp cao về độ đáng tin cậy của dữ liệu đằng sau các báo cáo và quyết định quan trọng.
+  - Bảo đảm cộng đồng có các công cụ và nền tảng cần thiết, và quản lý ngân sách liên quan.
+  - Xây dựng năng lực kỹ thuật phân tích thông qua lãnh đạo kỹ thuật và phát triển nghề nghiệp.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật phân tích trên toàn tổ chức.

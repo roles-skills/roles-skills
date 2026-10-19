@@ -1,0 +1,49 @@
+summary: Quản lý hợp đồng bảo đảm tổ chức nhận được những gì mình đã trả tiền sau khi hợp đồng được ký. Họ quản lý hiệu quả của nhà cung cấp, thanh toán, thay đổi, tranh chấp, gia hạn và thoát, và xây dựng quan hệ với các nhà cung cấp chủ chốt. Trong một tổ chức chăm sóc sức khỏe số, nhiều hợp đồng quan trọng nhất là về hệ thống lâm sàng, lưu trữ đám mây và dịch vụ công nghệ mà bệnh nhân và nhân viên dựa vào mỗi ngày.
+health_context:
+- Sự cố ngừng hoạt động hoặc lỗi của hệ thống lâm sàng có thể ảnh hưởng đến việc chăm sóc bệnh nhân, nên quản lý hợp đồng theo dõi chặt chẽ tính sẵn sàng, phản ứng với sự cố và mức độ hỗ trợ, và dùng các biện pháp khắc phục của hợp đồng khi cần.
+- Nhà cung cấp thường xử lý dữ liệu bệnh nhân, nên hợp đồng được quản lý cùng các đồng nghiệp về quản trị thông tin và an ninh, gồm các điều khoản bảo vệ dữ liệu, kiểm toán và xử lý vi phạm.
+- Việc thoát và hoàn trả dữ liệu phải được lập kế hoạch ngay từ đầu, để hồ sơ bệnh nhân có thể chuyển sang hệ thống mới ở định dạng dùng được và các bản sao cũ được xóa an toàn.
+- Thay đổi hợp đồng phải tuân theo quy tắc mua sắm công, nên quản lý hợp đồng kiểm tra xem một thay đổi có cần mua sắm mới hay không.
+- Các bản phát hành của nhà cung cấp có thể thay đổi cách một hệ thống lâm sàng hoạt động, nên quản lý hợp đồng bảo đảm nhà cung cấp đáp ứng các nghĩa vụ về an toàn lâm sàng.
+levels:
+- title: Quản lý hợp đồng
+  summary: Quản lý một danh mục hợp đồng, kể cả hợp đồng công nghệ và hệ thống lâm sàng, từ khởi động đến gia hạn, làm việc trong khung quản lý hợp đồng. Còn gọi là cán bộ hợp đồng.
+  responsibilities:
+  - Quản lý một danh mục hợp đồng, giữ cho sổ đăng ký hợp đồng, tài liệu và các ngày quan trọng luôn cập nhật.
+  - Tổ chức các buổi rà soát hiệu quả định kỳ với nhà cung cấp, dùng mức độ dịch vụ và các chỉ số hiệu quả chính.
+  - Kiểm tra hóa đơn so với điều khoản hợp đồng và giải quyết các tranh chấp về thanh toán.
+  - Đàm phán và xử lý các thay đổi và điều chỉnh hợp đồng trong khuôn khổ quy tắc mua sắm.
+  - Theo dõi việc sử dụng giấy phép, gia hạn và thời hạn báo trước, và lập kế hoạch gia hạn và mua sắm lại trên toàn danh mục.
+  - Cập nhật kế hoạch thoát và sổ đăng ký dữ liệu cho từng hợp đồng.
+  - Làm việc với các đồng nghiệp về quản trị thông tin và an ninh về các kiểm tra bảo vệ dữ liệu và an ninh của nhà cung cấp.
+  qualifications:
+  - Có chứng chỉ mua sắm hoặc quản lý hợp đồng được công nhận ở trình độ nâng cao, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm quản lý các hợp đồng dịch vụ, tốt nhất là về công nghệ.
+  job_evaluation_notes: Các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 7. Phân tích ở mức 5 cho các phán đoán về điều khoản và tranh chấp hợp đồng phức tạp, lập kế hoạch ở mức 4 cho việc gia hạn trên toàn danh mục, và nguồn lực tài chính ở mức 4 vì công việc quản lý chi tiêu của một danh mục hợp đồng dịch vụ.
+- title: Quản lý hợp đồng cao cấp
+  summary: Quản lý các hợp đồng chiến lược và rủi ro cao của tổ chức, như hồ sơ bệnh nhân điện tử và lưu trữ đám mây, và dẫn dắt quan hệ với các nhà cung cấp chủ chốt.
+  responsibilities:
+  - Quản lý các hợp đồng chiến lược về hệ thống lâm sàng và dịch vụ công nghệ, kể cả khởi động các hợp đồng mới.
+  - Dẫn dắt các buổi rà soát chiến lược với nhà cung cấp chủ chốt, bao gồm hiệu quả, lộ trình, rủi ro và kế hoạch cải tiến.
+  - Dùng các biện pháp khắc phục của hợp đồng, như tín dụng dịch vụ và kế hoạch khắc phục, khi hiệu quả không đạt.
+  - Đàm phán các điều chỉnh hợp đồng, gia hạn và dàn xếp tranh chấp.
+  - Viết và kiểm thử các kế hoạch thoát và chuyển tiếp, kể cả hoàn trả dữ liệu ở định dạng chuẩn và xóa an toàn.
+  - Đánh giá các rủi ro của nhà cung cấp, như tình hình tài chính, an ninh mạng và chuỗi cung ứng, và lập kế hoạch cho trường hợp nhà cung cấp gặp sự cố.
+  - Huấn luyện và giám sát các quản lý hợp đồng.
+  qualifications:
+  - Có chứng chỉ mua sắm hoặc quản lý hợp đồng được công nhận ở trình độ nâng cao, hoặc bằng thạc sĩ một ngành liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm dày dặn trong việc quản lý các hợp đồng công nghệ chiến lược hoặc dịch vụ thuê ngoài.
+  job_evaluation_notes: Các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 8a. Kiến thức, phân tích và quyền tự chủ hành động được chấm theo hồ sơ Bậc 8a vì công việc quản lý các hợp đồng chiến lược của tổ chức với ít sự giám sát. Nguồn lực tài chính ở mức 4 vì công việc quản lý chi tiêu và tài sản của các hợp đồng dịch vụ giá trị cao.
+- title: Trưởng nhóm quản lý hợp đồng
+  summary: Dẫn dắt việc quản lý hợp đồng và nhà cung cấp trong toàn tổ chức, đề ra khung quản lý hợp đồng và quản lý nhóm hợp đồng.
+  responsibilities:
+  - Đề ra khung, tiêu chuẩn và công cụ quản lý hợp đồng của tổ chức.
+  - Dẫn dắt nhóm quản lý hợp đồng và danh mục hợp đồng của nhóm.
+  - Dẫn dắt việc quản lý các quan hệ nhà cung cấp quan trọng nhất và giải quyết các tranh chấp lớn.
+  - Đề ra tiêu chuẩn cho việc lập kế hoạch thoát và hoàn trả dữ liệu, và dẫn dắt việc thoát khỏi các hợp đồng chiến lược.
+  - Báo cáo hiệu quả hợp đồng, rủi ro nhà cung cấp và khoản tiết kiệm cho các ủy ban điều hành.
+  - Tư vấn về chấm dứt hợp đồng, mua sắm lại và sự cố của nhà cung cấp.
+  qualifications:
+  - Có chứng chỉ mua sắm hoặc quản lý hợp đồng được công nhận ở trình độ nâng cao, hoặc bằng thạc sĩ một ngành liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt quản lý hợp đồng cho các dịch vụ phức tạp.
+  job_evaluation_notes: Các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 8b. Lập kế hoạch ở mức 5 cho khung quản lý hợp đồng toàn tổ chức, nguồn lực tài chính ở mức 5 vì công việc giám sát các hợp đồng trên nhiều dịch vụ, và con người ở mức 4 vì quản lý trực tiếp nhóm hợp đồng.

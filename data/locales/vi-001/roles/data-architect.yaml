@@ -1,0 +1,37 @@
+summary: Kiến trúc sư dữ liệu thiết kế cách tổ chức cấu trúc, lưu trữ, di chuyển và quản trị dữ liệu y tế và chăm sóc của mình, để dữ liệu có thể được dùng an toàn cho chăm sóc trực tiếp, lập kế hoạch dịch vụ và nghiên cứu. Họ thiết kế mô hình dữ liệu, nền tảng dữ liệu và luồng dữ liệu, đề ra tiêu chuẩn dữ liệu, và bảo đảm ý nghĩa lâm sàng, chất lượng và tính bảo mật được giữ từ đầu đến cuối.
+health_context:
+- Dữ liệu y tế phải giữ được ý nghĩa lâm sàng của nó, nên các mô hình dữ liệu dùng các bộ thuật ngữ lâm sàng như SNOMED CT và các bảng phân loại như ICD.
+- Dữ liệu dùng cho chăm sóc trực tiếp và dữ liệu dùng cho lập kế hoạch hoặc nghiên cứu có cơ sở pháp lý khác nhau, nên các kiến trúc sư thiết kế để tách biệt, loại bỏ định danh và kiểm soát truy cập.
+- Dữ liệu đến từ nhiều hệ thống lâm sàng và chăm sóc có chất lượng khác nhau, nên các kiến trúc sư thiết kế để kiểm tra chất lượng dữ liệu, khớp bệnh nhân và truy vết nguồn gốc.
+- Hồ sơ chăm sóc dùng chung và trao đổi dữ liệu phụ thuộc vào các mô hình chung như tài nguyên HL7 FHIR và các bộ dữ liệu quốc gia hoặc quốc tế đã thống nhất.
+- Hồ sơ phải được giữ trong thời hạn lưu giữ dài, nên các thiết kế phải lập kế hoạch cho việc lưu trữ và truy cập dữ liệu lịch sử.
+levels:
+- title: Kiến trúc sư dữ liệu
+  responsibilities:
+  - Thiết kế mô hình dữ liệu logic và vật lý cho dữ liệu lâm sàng và vận hành, dùng các bộ thuật ngữ lâm sàng khi cần.
+  - Thiết kế luồng dữ liệu và các thành phần nền tảng dữ liệu, như kho dữ liệu, kho dữ liệu hồ và các lớp tích hợp.
+  - Xác định siêu dữ liệu, các mục từ điển dữ liệu và nguồn gốc dữ liệu cho các bộ dữ liệu trong lĩnh vực của bạn.
+  - Thiết kế việc loại bỏ định danh và kiểm soát truy cập để dữ liệu chỉ được dùng cho mục đích hợp pháp của nó.
+  - Làm việc với các đồng nghiệp về chất lượng dữ liệu và mã hóa lâm sàng để khắc phục nguyên nhân cấu trúc của dữ liệu kém.
+  - Hướng dẫn các kỹ sư dữ liệu và chuyên viên phân tích về mô hình và tiêu chuẩn dữ liệu.
+  qualifications:
+  - Có kinh nghiệm dày dặn về mô hình hóa dữ liệu và thiết kế nền tảng dữ liệu, ở mức tương đương bằng thạc sĩ.
+  job_evaluation_notes: "Được xếp bậc cao hơn gợi ý ngạch của UK GDaD PCF (Bậc 7): các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 8a. Lập kế hoạch, chính sách và quyền tự chủ hành động được chấm cao hơn hồ sơ Bậc 7 vì công việc thiết kế các nền tảng dữ liệu và kiểm soát được dùng trên nhiều dịch vụ."
+- title: Kiến trúc sư dữ liệu cao cấp
+  responsibilities:
+  - Thiết kế kiến trúc dữ liệu cho một lĩnh vực lớn, như hồ sơ chăm sóc dùng chung hoặc nền tảng phân tích.
+  - Bảo đảm các thiết kế dữ liệu trên các nhóm tuân theo các tiêu chuẩn và mô hình dữ liệu của tổ chức.
+  - Thiết kế cách dữ liệu được chia sẻ với các tổ chức đối tác, kể cả tiêu chuẩn, biện pháp kiểm soát và thỏa thuận chia sẻ dữ liệu.
+  - Tư vấn cho các đồng nghiệp về quản trị thông tin và an toàn lâm sàng về các rủi ro dữ liệu của các thiết kế mới.
+  - Rà soát và hướng dẫn công việc của các kiến trúc sư dữ liệu.
+  qualifications:
+  - Có kinh nghiệm sâu rộng về kiến trúc dữ liệu cho các tổ chức phức tạp.
+- title: Kiến trúc sư dữ liệu trưởng
+  responsibilities:
+  - Đề ra tầm nhìn và lộ trình kiến trúc dữ liệu của tổ chức, phù hợp với chiến lược dữ liệu của tổ chức.
+  - Làm chủ mô hình dữ liệu doanh nghiệp, các tiêu chuẩn dữ liệu và từ điển dữ liệu của tổ chức.
+  - Tư vấn cho ban điều hành và các cơ quan quản trị dữ liệu về kiến trúc dữ liệu, rủi ro và đầu tư.
+  - Đại diện tổ chức trong công việc về tiêu chuẩn dữ liệu và khả năng tương tác giữa nhiều tổ chức.
+  - Dẫn dắt ngành thực hành kiến trúc dữ liệu và phát triển con người trong ngành này.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kiến trúc dữ liệu giữa các tổ chức.

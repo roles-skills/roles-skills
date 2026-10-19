@@ -1,0 +1,60 @@
+summary: Kỹ sư hạ tầng thiết kế, xây dựng, vận hành và hỗ trợ các mạng, máy chủ, lưu trữ, nền tảng đám mây và lưu trữ mà các dịch vụ số của tổ chức phụ thuộc vào. Họ giữ cho hạ tầng này sẵn sàng, an toàn và có thể phục hồi, và làm việc với nhà cung cấp và kiến trúc sư để thay đổi nó một cách an toàn. Trong chăm sóc sức khỏe, một sự cố hạ tầng có thể làm ngừng các hệ thống lâm sàng trên các bệnh viện và dịch vụ cộng đồng cùng một lúc.
+health_context:
+- Các hệ thống lâm sàng cần tính sẵn sàng rất cao, nên hạ tầng được thiết kế để có khả năng phục hồi và các thay đổi được lập kế hoạch xoay quanh hoạt động lâm sàng.
+- Các kỹ sư tham gia ca trực, vì lỗi hạ tầng vào ban đêm hoặc cuối tuần có thể làm ngừng việc chăm sóc bệnh nhân.
+- Các mạng kết nối thiết bị y tế, như bơm truyền, máy theo dõi bệnh nhân và thiết bị chẩn đoán hình ảnh, cần phân đoạn mạng và thay đổi cẩn thận theo IEC 80001-1.
+- Chăm sóc sức khỏe là mục tiêu thường xuyên của mã độc tống tiền, nên các bản sao lưu phải được bảo vệ, kiểm thử và khôi phục được trong thời gian khôi phục đã thống nhất.
+- Hạ tầng thường kết hợp công nghệ cũ và mới, kể cả các hệ thống lâm sàng cũ không thể vá dễ dàng, nên các kỹ sư đưa ra các biện pháp kiểm soát bù đắp.
+levels:
+- title: Kỹ sư hạ tầng trợ lý
+  responsibilities:
+  - Hỗ trợ các kỹ sư hạ tầng trong các nhiệm vụ thường lệ, như dựng máy chủ, kiểm tra sao lưu và thay đổi mạng.
+  - Giám sát hạ tầng và báo cáo cảnh báo và lỗi cho đúng nhóm.
+  - Tuân thủ các quy trình về thay đổi, an ninh và quản trị thông tin trong mọi công việc.
+  - Ghi chính xác chi tiết cấu hình và tài sản.
+  - Hướng tới chương trình học nghề về hạ tầng hoặc bằng cấp tương đương.
+  qualifications:
+  - Đang theo học, hoặc đang hướng tới, chương trình học nghề về hạ tầng hoặc mạng hoặc tương đương.
+  job_evaluation_notes: Kiến thức được chấm ở mức mà công việc đòi hỏi sau khi việc đào tạo đã đủ để làm được công việc.
+- title: Kỹ sư hạ tầng
+  responsibilities:
+  - Xây dựng, cấu hình và duy trì các máy chủ, lưu trữ, mạng và dịch vụ đám mây lưu trữ các hệ thống lâm sàng và doanh nghiệp.
+  - Vá hạ tầng kịp thời, cân bằng giữa rủi ro an ninh và nhu cầu giữ cho các hệ thống lâm sàng sẵn sàng.
+  - Chạy và kiểm thử sao lưu và khôi phục, kể cả cho các hệ thống lâm sàng quan trọng.
+  - Hỗ trợ các mạng được phân đoạn cho thiết bị y tế và các thiết bị lâm sàng khác, phối hợp với các nhóm kỹ thuật lâm sàng.
+  - Điều tra và khắc phục lỗi hạ tầng, kể cả trong ca trực.
+  - Tự động hóa các nhiệm vụ thường lệ bằng kịch bản và hạ tầng dưới dạng mã.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc một ngành liên quan, các chứng chỉ kỹ thuật liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm hỗ trợ hạ tầng đang vận hành.
+  job_evaluation_notes: Nỗ lực trí tuệ phản ánh việc thường xuyên phải tập trung kéo dài vào các lỗi khó đoán, kể cả công việc trực ngoài giờ.
+- title: Kỹ sư hạ tầng cao cấp
+  responsibilities:
+  - Thiết kế và xây dựng các giải pháp hạ tầng từ thiết kế của kiến trúc sư, với khả năng phục hồi mà các dịch vụ lâm sàng cần.
+  - Lập kế hoạch và dẫn dắt các thay đổi hạ tầng lớn, như di chuyển trung tâm dữ liệu, làm mới mạng và di chuyển lên đám mây, xoay quanh hoạt động lâm sàng.
+  - Thiết kế và kiểm thử khôi phục sau thảm họa và khôi phục sau mã độc tống tiền cho các hệ thống lâm sàng quan trọng.
+  - Dẫn dắt phản ứng kỹ thuật đối với các sự cố hạ tầng và thúc đẩy việc khắc phục nguyên nhân của chúng.
+  - Quản lý các biện pháp kiểm soát bù đắp cho các hệ thống cũ và thiết bị y tế không thể vá.
+  - Dẫn dắt và huấn luyện các kỹ sư hạ tầng.
+  qualifications:
+  - Có kinh nghiệm dày dặn về thiết kế và vận hành hạ tầng đang vận hành, ở mức tương đương văn bằng sau đại học.
+  job_evaluation_notes: Nỗ lực trí tuệ phản ánh việc thường xuyên phải tập trung kéo dài trong các sự cố và thay đổi phức tạp, kể cả ngoài giờ.
+- title: Trưởng nhóm kỹ sư hạ tầng
+  responsibilities:
+  - Dẫn dắt hạ tầng cho một nền tảng lớn hoặc một nhóm dịch vụ, và đề ra định hướng kỹ thuật của nó.
+  - Quản lý các nhà cung cấp hạ tầng bên thứ ba, và yêu cầu họ đáp ứng mức độ dịch vụ về tính sẵn sàng và khôi phục.
+  - Giám sát các chương trình hạ tầng, như đổi mới mạng hoặc chuyển sang lưu trữ đám mây.
+  - Bảo đảm hạ tầng đáp ứng các tiêu chuẩn về an ninh, quản trị thông tin và mạng thiết bị y tế.
+  - Dẫn dắt các nhóm hạ tầng và phát triển kỹ năng của họ.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật hạ tầng cho các dịch vụ phức tạp, có tính sẵn sàng cao.
+  job_evaluation_notes: UK GDaD PCF gợi ý Bậc 8b cho cả kỹ sư hạ tầng trưởng nhóm và chủ chốt. Tài liệu tham khảo này xếp trưởng nhóm ở Bậc 8a, để hai cấp nằm ở các bậc khác nhau, phù hợp với các vai trò trưởng nhóm và chủ chốt trong các nhóm kỹ thuật khác.
+- title: Kỹ sư hạ tầng chủ chốt
+  responsibilities:
+  - Xây dựng chiến lược và lộ trình hạ tầng, để đầu tư mang lại việc lưu trữ có khả năng phục hồi, an toàn và bền vững cho các dịch vụ lâm sàng.
+  - Làm chủ các quan hệ vận hành với các nhà cung cấp hạ tầng và mạng chiến lược.
+  - Tư vấn cho các lãnh đạo cấp cao về rủi ro hạ tầng, gồm công nghệ hết vòng đời, các điểm lỗi đơn lẻ và khả năng chống chịu trước tấn công mạng.
+  - Đặt mục tiêu thời gian khôi phục và điểm khôi phục cho các hệ thống lâm sàng cùng chủ sở hữu dịch vụ, và bảo đảm hạ tầng đáp ứng được chúng.
+  - Dẫn dắt ngành kỹ thuật hạ tầng trong toàn tổ chức và phát triển năng lực của ngành này.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật hạ tầng trên nhiều nhóm hoặc tổ chức.

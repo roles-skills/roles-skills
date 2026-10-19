@@ -1,0 +1,64 @@
+summary: Chuyên viên phân tích nghiệp vụ giúp tổ chức hiểu các vấn đề trong dịch vụ y tế và chăm sóc và tìm ra những thay đổi phù hợp để giải quyết chúng. Họ phân tích cách các quy trình lâm sàng, hành chính và hướng tới bệnh nhân hoạt động hiện nay, xác định nhu cầu và yêu cầu của người dùng và nghiệp vụ, và giúp các nhóm bảo đảm các dịch vụ số mới phù hợp với lộ trình chăm sóc thực tế và mang lại lợi ích đo lường được.
+health_context:
+- Các quy trình vượt qua ranh giới tổ chức và nghề nghiệp, nên các chuyên viên phân tích vẽ sơ đồ toàn bộ lộ trình chăm sóc, kể cả việc bàn giao giữa bác sĩ lâm sàng, nhân viên chăm sóc, bệnh nhân và các tổ chức khác.
+- Các yêu cầu thường mang rủi ro lâm sàng, nên các chuyên viên phân tích phối hợp với cán bộ an toàn lâm sàng để bảo đảm các yêu cầu liên quan đến an toàn được ghi nhận, truy vết và kiểm thử.
+- Nhiều yêu cầu liên quan đến việc chia sẻ dữ liệu y tế giữa các hệ thống, nên các chuyên viên phân tích cần nắm vững các tiêu chuẩn về khả năng tương tác như HL7 FHIR và các bộ thuật ngữ lâm sàng như SNOMED CT.
+- Lợi ích trong chăm sóc thường nằm ở an toàn, chất lượng, thời gian của nhân viên và trải nghiệm của bệnh nhân, chứ không chỉ chi phí, nên các chuyên viên phân tích giúp xác định các thước đo mà bác sĩ lâm sàng nhận ra.
+levels:
+- title: Chuyên viên phân tích nghiệp vụ tập sự
+  responsibilities:
+  - Học các kỹ thuật phân tích nghiệp vụ qua đào tạo có cấu trúc, đi theo quan sát và công việc có giám sát.
+  - Ghi chú và phác thảo sơ đồ quy trình từ các buổi hội thảo với nhân viên lâm sàng và hành chính.
+  - Duy trì nhật ký yêu cầu, câu chuyện người dùng và hồ sơ truy vết theo chỉ đạo.
+  - Giúp chuẩn bị các kịch bản kiểm thử cho kiểm thử nghiệm thu của người dùng.
+  - Tuân thủ các quy tắc quản trị thông tin khi xử lý các tài liệu có thông tin bệnh nhân.
+  qualifications:
+  - Đang hướng tới chương trình học nghề hoặc bằng cấp về phân tích nghiệp vụ, hoặc kinh nghiệm tương đương.
+- title: Chuyên viên phân tích nghiệp vụ sơ cấp
+  responsibilities:
+  - Vẽ sơ đồ các quy trình hiện tại và tương lai cho các quy trình lâm sàng và hành chính, như giấy giới thiệu, cuộc hẹn hoặc xử lý kết quả.
+  - Khai thác và viết các yêu cầu và câu chuyện người dùng cho các phần việc được xác định rõ.
+  - Thu thập dữ liệu về hiệu quả của quy trình, như thời gian chờ hoặc các cách làm tạm thủ công, để hỗ trợ phân tích.
+  - Chuẩn bị và thực hiện các kịch bản kiểm thử nghiệm thu của người dùng cùng người dùng lâm sàng và vận hành.
+  - Báo cho nhóm và cán bộ an toàn lâm sàng về những yêu cầu có thể ảnh hưởng đến an toàn của bệnh nhân.
+  qualifications:
+  - Có bằng đại học, bằng cấp hoặc chương trình học nghề về phân tích nghiệp vụ, hoặc kinh nghiệm tương đương.
+- title: Chuyên viên phân tích nghiệp vụ
+  responsibilities:
+  - Dẫn dắt việc phân tích cho các dự án nhỏ và vừa, từ xác định vấn đề đến đo lường lợi ích.
+  - Tổ chức các buổi hội thảo với bác sĩ lâm sàng, nhân viên chăm sóc và quản lý để hiểu các điểm khó khăn và thống nhất các phương án.
+  - Mô hình hóa lộ trình chăm sóc và luồng thông tin, kể cả dữ liệu trao đổi với các hệ thống y tế và chăm sóc khác.
+  - Xác định các yêu cầu liên quan đến an toàn và dữ liệu, và truy vết chúng qua thiết kế, xây dựng và kiểm thử.
+  - Xây dựng luận chứng lợi ích với các thước đo như thời gian nhân viên được giải phóng, sai sót tránh được hoặc trải nghiệm của bệnh nhân.
+  - Kèm cặp các chuyên viên phân tích nghiệp vụ sơ cấp và tập sự.
+  qualifications:
+  - Có bằng đại học hoặc bằng cấp phân tích nghiệp vụ được công nhận, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm phân tích nghiệp vụ trong các dự án thay đổi số.
+- title: Chuyên viên phân tích nghiệp vụ cao cấp
+  responsibilities:
+  - Dẫn dắt phân tích nghiệp vụ cho các chương trình lớn hoặc phức tạp, như thay thế một hệ thống lâm sàng hoặc thiết kế lại một lộ trình chăm sóc.
+  - Phân tích các phương án và tác động của chúng đối với việc chăm sóc, an toàn, khối lượng công việc của nhân viên và chi phí, và trình bày đề xuất cho các hội đồng.
+  - Bảo đảm rủi ro lâm sàng, quản trị thông tin và tác động về bình đẳng được phân tích và giải quyết trong các yêu cầu.
+  - Xác định và theo dõi lợi ích của thay đổi, và thiết lập cách đo lường chúng sau khi đưa vào vận hành.
+  - Quản lý trực tiếp hoặc dẫn dắt các chuyên viên phân tích nghiệp vụ và tổ chức các hoạt động của cộng đồng thực hành.
+  qualifications:
+  - Có kinh nghiệm dày dặn về phân tích nghiệp vụ trong các thay đổi phức tạp, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng nhóm phân tích nghiệp vụ
+  responsibilities:
+  - Dẫn dắt phân tích cho những vấn đề rất phức tạp trải rộng trên nhiều sản phẩm, dịch vụ hoặc tổ chức trong một hệ thống chăm sóc.
+  - Định hình luận chứng kinh doanh và kế hoạch hiện thực hóa lợi ích cho các khoản đầu tư lớn.
+  - Đề ra tiêu chuẩn phân tích nghiệp vụ, như truy vết yêu cầu cho phần mềm liên quan đến an toàn và chịu quản lý.
+  - Làm việc với các trưởng nhóm lâm sàng, kiến trúc sư và quản lý sản phẩm để điều chỉnh phân tích cho phù hợp với chiến lược của tổ chức.
+  - Quản lý trực tiếp các chuyên viên phân tích nghiệp vụ và dẫn dắt việc phát triển nghề nghiệp của họ.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt phân tích nghiệp vụ trên các thay đổi phức tạp, nhiều nhóm.
+- title: Trưởng bộ phận phân tích nghiệp vụ
+  responsibilities:
+  - Dẫn dắt chức năng phân tích nghiệp vụ và đề ra chiến lược, tiêu chuẩn và cách làm việc của chức năng này.
+  - Xây dựng năng lực phân tích nghiệp vụ, kể cả tuyển dụng, lộ trình nghề nghiệp và đào tạo.
+  - Tư vấn cho các lãnh đạo điều hành và lâm sàng về việc phân tích cần thiết cho chuyển đổi y tế và chăm sóc lớn.
+  - Bảo đảm việc hiện thực hóa lợi ích được lập kế hoạch, đo lường và báo cáo trên toàn danh mục.
+  - Quản lý ngân sách và kế hoạch nhân lực của chức năng.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt một chức năng hoặc ngành thực hành phân tích nghiệp vụ.
+  job_evaluation_notes: Nguồn lực thông tin được chấm ở mức 6 vì trưởng bộ phận phân tích nghiệp vụ làm chủ các tiêu chuẩn toàn tổ chức về cách lưu giữ yêu cầu, mô hình quy trình và hồ sơ lợi ích trong mọi công việc thay đổi.

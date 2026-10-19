@@ -1,0 +1,265 @@
+# Bản dịch tiếng Việt của data/skills/procurement.yaml. Khóa là mã kỹ năng tiếng Anh.
+proc-purchase-to-pay:
+  name: Từ mua đến thanh toán
+  description: Lập, phê duyệt và xác nhận nhận đơn đặt hàng, và giải quyết các thắc mắc về hóa đơn và thanh toán, thông qua hệ thống mua hàng và các kiểm soát tài chính của tổ chức.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích quy tắc "không có đơn đặt hàng, không thanh toán" và vì sao nó quan trọng
+      - lập một phiếu yêu cầu mua trong hệ thống mua hàng
+    working: |
+      Bạn có thể:
+      - tạo và sửa đơn đặt hàng và đối chiếu chúng với hợp đồng
+      - giải quyết các thắc mắc về hóa đơn, xác nhận nhận hàng và thanh toán với nhà cung cấp và bộ phận tài chính
+      - duy trì danh mục hàng hóa và hồ sơ nhà cung cấp trong hệ thống mua hàng
+    practitioner: |
+      Bạn có thể:
+      - vận hành quy trình từ mua đến thanh toán cho một dịch vụ, theo dõi việc tuân thủ và các việc tồn đọng
+      - phân tích dữ liệu chi tiêu để tìm khoản chi ngoài hợp đồng và khoản tiết kiệm
+      - cải thiện quy trình và kiểm soát cùng các đồng nghiệp tài chính
+    expert: |
+      Bạn có thể:
+      - đề ra chính sách, kiểm soát và hệ thống từ mua đến thanh toán của tổ chức
+      - dẫn dắt việc chuyển sang mua hàng và lập hóa đơn hoàn toàn bằng điện tử
+proc-procurement-process:
+  name: Quy trình mua sắm
+  description: Thực hiện các gói mua sắm tuân thủ quy định, từ lập kế hoạch và đặc tả qua các con đường đưa ra thị trường, đấu thầu, trao thầu và ký hợp đồng, gồm cả mua qua thỏa thuận khung và hệ thống mua sắm động.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các giai đoạn của một gói mua sắm và các ngưỡng áp dụng
+      - lấy báo giá cho các khoản mua có giá trị thấp theo quy tắc của tổ chức
+    working: |
+      Bạn có thể:
+      - thực hiện báo giá và đặt hàng theo thỏa thuận khung bằng các mẫu chuẩn
+      - lập hồ sơ mời thầu và quản lý các câu hỏi làm rõ trên hệ thống đấu thầu điện tử
+      - lưu giữ dấu vết kiểm toán rõ ràng cho từng gói mua sắm
+    practitioner: |
+      Bạn có thể:
+      - lập kế hoạch và dẫn dắt các gói thầu phức tạp, chọn đúng con đường đưa ra thị trường và thủ tục
+      - giúp người dùng viết các đặc tả dựa trên kết quả cho các hệ thống số và lâm sàng
+      - quản lý tiến độ, rủi ro và các bên liên quan cho đến khi trao hợp đồng
+    expert: |
+      Bạn có thể:
+      - đề ra các thủ tục và mẫu mua sắm của tổ chức
+      - dẫn dắt các gói mua sắm phức tạp, có giá trị cao hoặc mới nhất
+      - bảo đảm các quyết định mua sắm trước hội đồng
+proc-tender-evaluation:
+  name: Đánh giá hồ sơ dự thầu
+  description: Thiết kế tiêu chí đánh giá và trọng số, và thực hiện việc đánh giá chất lượng, giá cả và giá trị xã hội một cách công bằng và được ghi chép đầy đủ.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao việc đánh giá phải tuân theo các tiêu chí đã công bố
+      - khai báo xung đột lợi ích trước khi tham gia một cuộc đánh giá
+    working: |
+      Bạn có thể:
+      - kiểm tra hồ sơ dự thầu về tính tuân thủ và đầy đủ
+      - hỗ trợ người đánh giá và ghi lại điểm số và ghi chú điều chỉnh
+      - lập mô hình đánh giá giá cả dưới sự hướng dẫn
+    practitioner: |
+      Bạn có thể:
+      - thiết kế tiêu chí đánh giá, trọng số và hướng dẫn chấm điểm
+      - dẫn dắt việc điều chỉnh điểm và viết báo cáo trao thầu và phản hồi cho nhà thầu
+      - lập kế hoạch buổi trình diễn và kiểm thử theo tình huống lâm sàng hoặc người dùng cho các gói thầu hệ thống
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn đánh giá và cách tiếp cận về giá cả và chất lượng của tổ chức
+      - bảo vệ các quyết định đánh giá khi bị phản đối
+      - rà soát các đánh giá cho các gói mua sắm rủi ro cao
+proc-procurement-law-and-policy:
+  name: Quy tắc và chính sách mua sắm công
+  description: Áp dụng các quy tắc mua sắm công, quy tắc tài chính của tổ chức và chính sách mua sắm để việc mua sắm hợp pháp, minh bạch và công bằng.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích rằng tiền công phải được chi tiêu một cách công bằng, công khai và hợp pháp
+      - tuân theo các ngưỡng và quy tắc phê duyệt của tổ chức
+    working: |
+      Bạn có thể:
+      - áp dụng các quy tắc mua sắm phù hợp với một khoản mua đơn giản
+      - đăng thông báo và lưu giữ hồ sơ đáp ứng các quy tắc minh bạch
+      - phát hiện khi một yêu cầu có nguy cơ vi phạm quy tắc và báo lên
+    practitioner: |
+      Bạn có thể:
+      - tư vấn về con đường hợp pháp cho các gói mua sắm phức tạp và thay đổi hợp đồng
+      - quản lý rủi ro bị khiếu nại và xử lý đúng giai đoạn chờ và buổi giải trình
+      - viết chính sách và hướng dẫn mua sắm cho tổ chức
+    expert: |
+      Bạn có thể:
+      - diễn giải các quy tắc mua sắm mới và dẫn dắt phản ứng của tổ chức
+      - tư vấn cho hội đồng về việc tuân thủ và rủi ro trong mua sắm
+      - xử lý các khiếu nại chính thức cùng các cố vấn pháp lý
+proc-market-analysis:
+  name: Phân tích và tiếp cận thị trường
+  description: Hiểu thị trường cung ứng, tiếp cận nhà cung cấp trước khi mua sắm, và dùng bằng chứng thị trường để định hình yêu cầu, con đường đưa ra thị trường và mô hình thương mại.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tìm nhà cung cấp trong các thỏa thuận khung và cơ sở dữ liệu nhà cung cấp
+      - giải thích vì sao việc tiếp cận thị trường sớm phải công bằng với mọi nhà cung cấp
+    working: |
+      Bạn có thể:
+      - thu thập thông tin thị trường, giá cả và thông tin nhà cung cấp cho một yêu cầu
+      - thực hiện yêu cầu cung cấp thông tin và tóm tắt các phản hồi
+    practitioner: |
+      Bạn có thể:
+      - phân tích một thị trường cung ứng, sự cạnh tranh, rủi ro và xu hướng của nó
+      - dẫn dắt việc tiếp cận thị trường sớm, như ngày gặp nhà cung cấp, mà không làm méo mó cạnh tranh
+      - dùng bằng chứng thị trường để định hình yêu cầu và mô hình thương mại
+    expert: |
+      Bạn có thể:
+      - định hình thị trường, ví dụ bằng cách khuyến khích các nhà cung cấp mới hoặc nhỏ hơn
+      - dẫn dắt chiến lược thị trường cùng các tổ chức mua sắm khác
+proc-negotiation:
+  name: Đàm phán thương mại
+  description: Lập kế hoạch và tiến hành đàm phán với nhà cung cấp để thống nhất giá cả, điều khoản và hiệu quả mang lại giá trị đồng tiền và quản lý rủi ro.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích những gì có thể và không thể đàm phán trong một gói mua sắm công
+    working: |
+      Bạn có thể:
+      - đàm phán giá cả và điều khoản cho các khoản mua giá trị thấp hoặc thường lệ
+      - chuẩn bị dữ liệu và các phương án cho một cuộc đàm phán do người khác dẫn dắt
+    practitioner: |
+      Bạn có thể:
+      - lập kế hoạch và dẫn dắt đàm phán, đặt ra mục tiêu, giới hạn và phương án dự phòng
+      - đàm phán các điều chỉnh hợp đồng, gia hạn và dàn xếp tranh chấp
+      - giữ cho các cuộc đàm phán hợp pháp và được ghi chép đầy đủ
+    expert: |
+      Bạn có thể:
+      - dẫn dắt các cuộc đàm phán giá trị cao, rủi ro cao với các nhà cung cấp chiến lược
+      - huấn luyện người khác về đàm phán và đề ra cách tiếp cận đàm phán của tổ chức
+proc-category-management:
+  name: Quản lý nhóm hàng
+  description: Quản lý một nhóm chi tiêu, như phần mềm, đám mây và dịch vụ công nghệ, thông qua một chiến lược nhóm hàng gộp nhu cầu, định hình yêu cầu và lập kế hoạch mua sắm trong nhiều năm.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích nhóm hàng là gì và vì sao kế hoạch nhóm hàng quan trọng
+    working: |
+      Bạn có thể:
+      - phân tích chi tiêu và hợp đồng của một nhóm hàng và cập nhật sổ đăng ký hợp đồng
+      - hỗ trợ kế hoạch nhóm hàng, như theo dõi việc gia hạn và khoản tiết kiệm
+    practitioner: |
+      Bạn có thể:
+      - viết và thực hiện chiến lược nhóm hàng cùng những người quản lý ngân sách và trưởng nhóm kỹ thuật
+      - lập kế hoạch dòng các gói mua sắm và việc gia hạn hợp đồng cho nhóm hàng
+      - theo dõi khoản tiết kiệm, giá trị và rủi ro của nhóm hàng
+    expert: |
+      Bạn có thể:
+      - đề ra cách tiếp cận quản lý nhóm hàng cho tổ chức
+      - dẫn dắt các nhóm hàng có chi tiêu và rủi ro cao nhất, và điều chỉnh chúng cho phù hợp với chiến lược của tổ chức
+      - làm việc với các tổ chức khác về mua sắm hợp tác
+proc-technology-procurement:
+  name: Mua sắm công nghệ và đám mây
+  description: Mua phần mềm, dịch vụ đám mây, giấy phép, phần cứng và dịch vụ số, gồm phần mềm như một dịch vụ, mô hình thương mại, cấp phép, và các điều khoản về an ninh, bảo vệ dữ liệu và khả năng tương tác mà công nghệ y tế cần.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các cách chính để mua công nghệ, như giấy phép, đăng ký thuê bao và dịch vụ
+      - nhận biết rằng các hệ thống lâm sàng cần được kiểm tra về an ninh, an toàn lâm sàng và bảo vệ dữ liệu
+    working: |
+      Bạn có thể:
+      - mua phần mềm, phần cứng và giấy phép tiêu chuẩn qua các thỏa thuận khung
+      - theo dõi số lượng giấy phép, việc gia hạn và ngày điều chỉnh chênh lệch
+      - đưa các yêu cầu tiêu chuẩn về an ninh và bảo vệ dữ liệu vào tài liệu
+    practitioner: |
+      Bạn có thể:
+      - mua đám mây, phần mềm như một dịch vụ và các hệ thống lâm sàng, chọn đúng mô hình thương mại
+      - xây dựng yêu cầu cùng các trưởng nhóm kỹ thuật, an toàn lâm sàng và quản trị thông tin
+      - đưa khả năng tương tác, tiêu chuẩn mở, quyền sở hữu dữ liệu và điều khoản thoát vào hợp đồng
+      - tránh bị phụ thuộc vào một nhà cung cấp bằng cách lập kế hoạch cho khả năng chuyển đổi và cạnh tranh khi gia hạn
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược thương mại của tổ chức cho công nghệ và đám mây
+      - dẫn dắt đàm phán các thỏa thuận doanh nghiệp và nền tảng chiến lược
+      - tư vấn cho các lãnh đạo số về rủi ro thương mại của các lựa chọn công nghệ
+proc-contract-management:
+  name: Quản lý hợp đồng
+  description: Quản lý hợp đồng sau khi trao, gồm khởi động, hiệu quả thực hiện, thanh toán, thay đổi, tranh chấp, gia hạn và thoát, để tổ chức nhận được những gì đã trả tiền.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tìm một hợp đồng và giải thích các ngày quan trọng, giá trị và người phụ trách của nó
+      - ghi nhận các thay đổi và tài liệu của hợp đồng vào sổ đăng ký hợp đồng
+    working: |
+      Bạn có thể:
+      - giám sát hiệu quả của nhà cung cấp so với mức độ dịch vụ và các chỉ số hiệu quả chính
+      - chuẩn bị các cuộc họp rà soát hợp đồng và theo dõi các hành động
+      - xử lý các điều chỉnh hợp đồng và kiểm tra hóa đơn so với hợp đồng
+    practitioner: |
+      Bạn có thể:
+      - quản lý một danh mục hợp đồng, kể cả hợp đồng lâm sàng và công nghệ
+      - dùng các biện pháp khắc phục của hợp đồng, như tín dụng dịch vụ, khi hiệu quả không đạt
+      - quản lý thay đổi, tranh chấp và gia hạn trong khuôn khổ quy tắc mua sắm
+      - lập kế hoạch thoát sớm và kiểm thử các kế hoạch thoát trước khi hợp đồng kết thúc
+    expert: |
+      Bạn có thể:
+      - đề ra khung và tiêu chuẩn quản lý hợp đồng của tổ chức
+      - dẫn dắt việc quản lý các hợp đồng chiến lược, rủi ro cao
+      - giải quyết các tranh chấp lớn và quyết định chấm dứt hoặc mua sắm lại
+proc-supplier-relationship-management:
+  name: Quản lý quan hệ nhà cung cấp
+  description: Xây dựng quan hệ chiến lược với các nhà cung cấp chủ chốt để quản lý rủi ro, cải thiện hiệu quả và phát triển sản phẩm và dịch vụ theo thời gian.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao quan hệ nhà cung cấp tốt quan trọng đối với các dịch vụ mà bệnh nhân dựa vào
+      - làm việc với nhà cung cấp một cách chuyên nghiệp và ghi lại các liên hệ
+    working: |
+      Bạn có thể:
+      - cập nhật thông tin liên hệ nhà cung cấp, đường báo cáo lên cấp trên và hồ sơ
+      - kiểm tra tình hình tài chính và bảo hiểm của nhà cung cấp so với yêu cầu
+    practitioner: |
+      Bạn có thể:
+      - phân nhóm nhà cung cấp theo rủi ro và giá trị và lập kế hoạch quản lý từng nhóm
+      - tổ chức các cuộc rà soát chiến lược với nhà cung cấp chủ chốt, gồm lộ trình và kế hoạch cải tiến
+      - quản lý các rủi ro của nhà cung cấp, như phá sản, sự cố an ninh mạng và vấn đề chuỗi cung ứng
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược quan hệ nhà cung cấp của tổ chức
+      - dẫn dắt quan hệ cấp điều hành với các nhà cung cấp chiến lược
+      - dẫn dắt việc ứng phó khi một nhà cung cấp quan trọng gặp sự cố
+proc-exit-planning:
+  name: Lập kế hoạch thoát và hoàn trả dữ liệu
+  description: Lập kế hoạch và quản lý việc kết thúc hợp đồng, gồm chuyển sang nhà cung cấp mới, hoàn trả và xóa dữ liệu, và bảo đảm tính liên tục của dịch vụ cho bệnh nhân và nhân viên.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao mọi hợp đồng đều cần có kế hoạch thoát
+      - tìm các điều khoản thoát và hoàn trả dữ liệu của một hợp đồng
+    working: |
+      Bạn có thể:
+      - cập nhật các kế hoạch thoát và sổ đăng ký tài sản và dữ liệu
+      - theo dõi thời hạn báo trước và các mốc thoát
+    practitioner: |
+      Bạn có thể:
+      - viết kế hoạch thoát và chuyển tiếp cùng các trưởng nhóm kỹ thuật, dữ liệu và lâm sàng
+      - bảo đảm dữ liệu được hoàn trả ở định dạng chuẩn, dùng được rồi xóa một cách an toàn
+      - quản lý các rủi ro chuyển tiếp để việc chăm sóc không bị gián đoạn
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn của tổ chức về thoát, chuyển tiếp và hoàn trả dữ liệu
+      - dẫn dắt việc thoát khỏi các hợp đồng lâm sàng và công nghệ chiến lược
+proc-social-value:
+  name: Giá trị xã hội và mua sắm bền vững
+  description: Dùng mua sắm và hợp đồng để mang lại giá trị xã hội, tính bền vững về môi trường và chuỗi cung ứng công bằng, và đo lường những gì nhà cung cấp mang lại.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích giá trị xã hội và mua sắm bền vững có ý nghĩa gì đối với tổ chức
+    working: |
+      Bạn có thể:
+      - đưa các câu hỏi tiêu chuẩn về giá trị xã hội và tính bền vững vào hồ sơ thầu
+      - thu thập báo cáo giá trị xã hội từ nhà cung cấp
+    practitioner: |
+      Bạn có thể:
+      - đặt ra các tiêu chí giá trị xã hội và bền vững phù hợp với hợp đồng
+      - quản lý các cam kết của nhà cung cấp, như việc làm địa phương, kỹ năng và giảm phát thải carbon
+      - kiểm tra chuỗi cung ứng về các rủi ro như lao động cưỡng bức và các vi phạm nhân quyền khác
+    expert: |
+      Bạn có thể:
+      - đề ra chính sách giá trị xã hội và mua sắm bền vững của tổ chức
+      - báo cáo kết quả về giá trị xã hội và carbon lên hội đồng

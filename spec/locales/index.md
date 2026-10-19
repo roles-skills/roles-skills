@@ -31,6 +31,8 @@ How this reference is translated, published, and served in more than one languag
 | nl-001 | Nederlands (wereld) | ltr | Done | Dutch for readers anywhere; a copy of nl-nl; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Dutch titles |
 | sw-tz | Kiswahili | ltr | Done | Swahili; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Swahili titles |
 | sw-001 | Kiswahili (dunia) | ltr | Done | Swahili for readers anywhere; a copy of sw-tz; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Swahili titles |
+| vi-vn | Tiếng Việt | ltr | Done | Vietnamese; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Vietnamese titles |
+| vi-001 | Tiếng Việt (thế giới) | ltr | Done | Vietnamese for readers anywhere; a copy of vi-vn; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Vietnamese titles |
 | pt-001 | Português | ltr | Next | Portuguese |
 
 Every translation is AI-generated and needs a native speaker review; `tasks.md` tracks each review.

@@ -1,0 +1,66 @@
+summary: Lập trình viên phần mềm xây dựng, kiểm thử và bảo trì phần mềm đằng sau các dịch vụ y tế số của tổ chức, như ứng dụng dành cho bệnh nhân, hệ thống lâm sàng, dịch vụ tích hợp và nền tảng dữ liệu. Họ làm việc trong các nhóm sản phẩm đa ngành, viết mã an toàn, bảo mật, dễ tiếp cận và dễ bảo trì, và hỗ trợ các dịch vụ của mình khi vận hành.
+health_context:
+- Phần mềm có thể ảnh hưởng đến việc chăm sóc bệnh nhân, nên lập trình viên tuân theo quy trình quản lý rủi ro lâm sàng và đóng góp bằng chứng cho các hồ sơ an toàn.
+- Mã thường xử lý thông tin y tế bí mật, nên lập trình viên áp dụng quản trị thông tin và thực hành viết mã an toàn theo mặc định.
+- Nhiều dịch vụ trao đổi dữ liệu với các hệ thống y tế và chăm sóc khác, dùng các tiêu chuẩn tương tác mở như HL7 FHIR.
+- Một số phần mềm có thể bị quản lý như thiết bị y tế, nên lập trình viên cần biết khi nào cần xin tư vấn về quy định.
+levels:
+- title: Lập trình viên phần mềm học nghề
+  responsibilities:
+  - Học ngôn ngữ, công cụ và cách làm việc của nhóm qua đào tạo có cấu trúc và làm việc theo cặp.
+  - Viết và kiểm thử các đoạn mã nhỏ, được xác định rõ dưới sự giám sát chặt chẽ.
+  - Tuân thủ các quy trình về viết mã an toàn, quản trị thông tin và an toàn lâm sàng.
+  - Tham gia các buổi sinh hoạt của nhóm như họp đứng, lập kế hoạch và hồi cứu.
+  - Hướng tới chương trình học nghề hoặc bằng cấp tương đương.
+  qualifications:
+  - Đang theo học, hoặc đang hướng tới, chương trình học nghề phát triển phần mềm hoặc tương đương.
+  job_evaluation_notes: Kiến thức được chấm ở mức mà công việc đòi hỏi sau khi việc đào tạo đã đủ để làm được công việc; nguồn lực thông tin phản ánh việc làm trên các hệ thống do người khác thiết kế.
+- title: Lập trình viên phần mềm sơ cấp
+  responsibilities:
+  - Xây dựng và kiểm thử các tính năng cho sản phẩm của nhóm, làm từ các câu chuyện người dùng với sự hướng dẫn.
+  - Viết các kiểm thử tự động và sửa lỗi, kể cả trong các dịch vụ hỗ trợ chăm sóc bệnh nhân.
+  - Đóng góp bằng chứng cho các hồ sơ an toàn lâm sàng, như kết quả kiểm thử và bản ghi thay đổi.
+  - Xử lý dữ liệu y tế một cách an toàn, theo các quy tắc quản trị thông tin.
+  - Hỗ trợ các dịch vụ đang vận hành, dưới sự hướng dẫn, như một phần của các thỏa thuận hỗ trợ của nhóm.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc một ngành liên quan, đã hoàn thành chương trình học nghề, hoặc kinh nghiệm tương đương.
+- title: Lập trình viên phần mềm
+  responsibilities:
+  - Thiết kế, xây dựng và kiểm thử độc lập các tính năng và dịch vụ, chọn các cách tiếp cận phù hợp.
+  - Rà soát mã và giúp duy trì các tiêu chuẩn kỹ thuật của nhóm.
+  - Xây dựng các tích hợp với các hệ thống y tế và chăm sóc khác bằng các tiêu chuẩn mở như HL7 FHIR.
+  - Tham gia việc nhận diện mối nguy và giúp đưa các biện pháp kiểm soát an toàn lâm sàng vào mã và kiểm thử.
+  - Điều tra và khắc phục sự cố trong các dịch vụ đang vận hành, kể cả hỗ trợ ngoài giờ khi dịch vụ cần.
+  - Kèm cặp các lập trình viên sơ cấp và học nghề.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc một ngành liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm xây dựng và hỗ trợ phần mềm đang vận hành.
+- title: Lập trình viên phần mềm cao cấp
+  responsibilities:
+  - Dẫn dắt thiết kế kỹ thuật và triển khai các tính năng và dịch vụ quan trọng.
+  - Đề ra và duy trì các tiêu chuẩn kỹ thuật cho nhóm, gồm kiểm thử, an ninh và khả năng tiếp cận.
+  - Đưa ra các quyết định kỹ thuật cân bằng giữa nhu cầu người dùng, an toàn lâm sàng, an ninh và chi phí.
+  - Dẫn dắt việc điều tra sự cố cho các dịch vụ của nhóm và thúc đẩy các bản sửa lỗi.
+  - Làm việc với cán bộ an toàn lâm sàng để bảo đảm các biện pháp kiểm soát an toàn được thiết kế sẵn và kiểm thử.
+  - Huấn luyện và phát triển các lập trình viên trong nhóm.
+  qualifications:
+  - Có kinh nghiệm dày dặn về thiết kế, xây dựng và hỗ trợ phần mềm đang vận hành, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng nhóm lập trình viên phần mềm
+  responsibilities:
+  - Dẫn dắt kỹ thuật cho một sản phẩm hoặc nhóm các nhóm, đề ra định hướng kỹ thuật.
+  - Bảo đảm phần mềm được thiết kế cho an toàn, an ninh, khả năng phục hồi và khả năng tương tác.
+  - Làm việc với kiến trúc sư, quản lý sản phẩm và trưởng nhóm lâm sàng để định hình lộ trình sản phẩm.
+  - Dẫn dắt cộng đồng thực hành phát triển và đề ra tiêu chuẩn trên các nhóm.
+  - Quản lý trực tiếp hoặc dẫn dắt các lập trình viên, hỗ trợ sự phát triển và hiệu quả công việc của họ.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật phần mềm cho các dịch vụ phức tạp.
+  job_evaluation_notes: UK GDaD PCF liệt kê cả lập trình viên trưởng nhóm và chủ chốt thường ở ngạch G7 hoặc G6; tài liệu tham khảo này xếp trưởng nhóm ở Bậc 8a và chủ chốt ở Bậc 8b.
+- title: Lập trình viên phần mềm chủ chốt
+  responsibilities:
+  - Đề ra chiến lược, tiêu chuẩn và thực hành kỹ thuật cho việc phát triển phần mềm của tổ chức.
+  - Tư vấn cho các lãnh đạo cấp cao về lựa chọn công nghệ, rủi ro và đầu tư.
+  - Dẫn dắt việc giải quyết các vấn đề kỹ thuật phức tạp nhất trên các dịch vụ.
+  - Đại diện tổ chức trong các cộng đồng kỹ thuật giữa nhiều tổ chức và mã nguồn mở.
+  - Dẫn dắt và phát triển các lập trình viên trưởng nhóm và nâng cao năng lực kỹ thuật của tổ chức.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật trên nhiều nhóm hoặc tổ chức.

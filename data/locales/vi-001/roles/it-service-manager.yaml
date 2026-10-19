@@ -1,0 +1,47 @@
+summary: Quản lý dịch vụ CNTT bảo đảm các dịch vụ số của tổ chức được cung cấp ở các mức đã thống nhất và liên tục được cải thiện. Họ xác định mức độ dịch vụ, quản lý danh mục dịch vụ, báo cáo hiệu quả, và điều phối các nhóm và nhà cung cấp vận hành từng dịch vụ. Trong chăm sóc sức khỏe, họ chuyển những gì các dịch vụ lâm sàng cần, như tính sẵn sàng suốt ngày đêm, thành mục tiêu dịch vụ và các thỏa thuận hỗ trợ.
+health_context:
+- Mức độ dịch vụ của các hệ thống lâm sàng phản ánh rủi ro lâm sàng, nên mục tiêu cho hồ sơ bệnh nhân điện tử hoặc kê đơn khác với mục tiêu cho một hệ thống doanh nghiệp.
+- Các dịch vụ thường được cung cấp bởi sự kết hợp của các nhóm nội bộ, nhà cung cấp và dịch vụ dùng chung với các tổ chức đối tác, nên quản lý dịch vụ điều phối qua các ranh giới tổ chức.
+- Việc duy trì hoạt động kinh doanh lâm sàng phụ thuộc vào CNTT, nên quản lý dịch vụ làm việc với các trưởng nhóm lâm sàng và lập kế hoạch khẩn cấp về kế hoạch ngừng hoạt động và duy trì hoạt động.
+- Nhân viên lâm sàng có ít thời gian để báo cáo sự cố, nên quản lý dịch vụ dùng giám sát, dữ liệu bàn hỗ trợ dịch vụ và phản hồi lâm sàng để phát hiện vấn đề sớm.
+levels:
+- title: Chuyên viên phân tích dịch vụ CNTT
+  responsibilities:
+  - Phản hồi, ghi chép và giải quyết các sự cố và yêu cầu trong mức độ dịch vụ đã thống nhất.
+  - Lập các báo cáo dịch vụ định kỳ, như số lượng phiếu, thời gian phản hồi và tính sẵn sàng của các hệ thống lâm sàng.
+  - Kiểm tra các mục trong danh mục dịch vụ và các bài viết kiến thức chính xác và cập nhật.
+  - Tìm các mẫu hình trong sự cố và đề xuất cải tiến.
+  - Tuân thủ các quy tắc quản trị thông tin khi xử lý dữ liệu phiếu và dịch vụ.
+  qualifications:
+  - Có chứng chỉ nền tảng về quản lý dịch vụ CNTT, bằng cấp mức 3 về CNTT, hoặc kinh nghiệm tương đương.
+- title: Quản lý dịch vụ CNTT
+  responsibilities:
+  - Xác định và thống nhất mức độ dịch vụ cho các dịch vụ lâm sàng và doanh nghiệp, dựa trên rủi ro lâm sàng và nhu cầu nghiệp vụ.
+  - Quản lý các thỏa thuận hỗ trợ cho một danh mục dịch vụ, kể cả nhà cung cấp và dịch vụ dùng chung.
+  - Báo cáo hiệu quả dịch vụ cho chủ sở hữu dịch vụ và các trưởng nhóm lâm sàng, và thống nhất các hành động cải tiến.
+  - Bảo đảm mỗi dịch vụ có các giải pháp duy trì hoạt động kinh doanh và ngừng hoạt động đã được kiểm thử.
+  - Cập nhật danh mục dịch vụ, và bảo đảm nhân viên được thông báo về những thay đổi đối với dịch vụ của họ.
+  - Điều hành chương trình cải tiến dịch vụ liên tục cho các dịch vụ của bạn.
+  qualifications:
+  - Có kinh nghiệm quản lý các dịch vụ CNTT theo mức độ dịch vụ đã thống nhất.
+  - Có chứng chỉ trung cấp về quản lý dịch vụ CNTT, hoặc kinh nghiệm tương đương.
+- title: Quản lý dịch vụ CNTT cao cấp
+  responsibilities:
+  - Dẫn dắt quản lý dịch vụ trên nhiều nền tảng và kênh, và nâng cao mức trưởng thành của các quy trình quản lý dịch vụ.
+  - Thống nhất mức độ dịch vụ và điều khoản hợp đồng với các nhà cung cấp hệ thống lâm sàng lớn, và yêu cầu họ chịu trách nhiệm.
+  - Trình bày hiệu quả và rủi ro của dịch vụ cho các lãnh đạo lâm sàng và vận hành cấp cao.
+  - Dẫn dắt các đợt rà soát dịch vụ sau các sự cố lớn, và theo dõi các hành động cải tiến cho đến khi hoàn thành.
+  - Điều chỉnh các kế hoạch duy trì hoạt động CNTT cho phù hợp với kế hoạch duy trì hoạt động kinh doanh lâm sàng, phối hợp với lập kế hoạch khẩn cấp và các trưởng nhóm lâm sàng.
+  - Dẫn dắt và phát triển các quản lý dịch vụ CNTT.
+  qualifications:
+  - Có kinh nghiệm dày dặn về quản lý dịch vụ CNTT trên nhiều dịch vụ.
+  - Có chứng chỉ nâng cao về quản lý dịch vụ CNTT, hoặc kinh nghiệm tương đương.
+- title: Trưởng bộ phận quản lý dịch vụ CNTT
+  responsibilities:
+  - Đề ra tầm nhìn, chiến lược và mô hình vận hành cho quản lý dịch vụ CNTT trong toàn tổ chức.
+  - Bảo đảm mọi quy trình quản lý dịch vụ có người phụ trách và liên tục trưởng thành.
+  - Đại diện quản lý dịch vụ CNTT ở cấp cao, kể cả tại các cuộc họp quản trị lâm sàng và vận hành.
+  - Đóng vai trò đầu mối báo cáo lên cấp trên cho các lãnh đạo dịch vụ lâm sàng và doanh nghiệp.
+  - Bảo đảm chức năng quản lý dịch vụ có đủ con người, công cụ và ngân sách cần thiết.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt quản lý dịch vụ CNTT trong một tổ chức lớn hoặc phức tạp.

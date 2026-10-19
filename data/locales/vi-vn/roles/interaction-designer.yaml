@@ -1,0 +1,62 @@
+summary: Nhà thiết kế tương tác thiết kế cách bệnh nhân, người chăm sóc, bác sĩ lâm sàng và nhân viên chăm sóc sử dụng các dịch vụ y tế số của tổ chức, từ ứng dụng và biểu mẫu dành cho bệnh nhân đến các màn hình mà bác sĩ lâm sàng dùng bên giường bệnh. Họ thiết kế các tương tác đơn giản, dễ tiếp cận và an toàn, kiểm thử chúng với người dùng thật, và dùng các hệ thống thiết kế dùng chung để các dịch vụ có cảm giác nhất quán và quen thuộc.
+health_context:
+- Bác sĩ lâm sàng thường dùng hệ thống dưới áp lực thời gian, với các gián đoạn và trên thiết bị dùng chung, nên thiết kế phải hỗ trợ công việc nhanh, chính xác và làm cho hành động an toàn cũng là hành động dễ làm.
+- Thiết kế kém có thể gây hại lâm sàng, như chọn nhầm bệnh nhân hoặc đọc nhầm liều thuốc, nên các nhà thiết kế áp dụng các nguyên tắc yếu tố con người và làm việc với cán bộ an toàn lâm sàng.
+- Nhiều người dùng đang ốm, lo lắng, cao tuổi hoặc khuyết tật, nên thiết kế phải đáp ứng các tiêu chuẩn khả năng tiếp cận và phù hợp với những người có kỹ năng số hoặc hiểu biết về sức khỏe thấp.
+- Cảnh báo chỉ hữu ích nếu mọi người chú ý và tin tưởng chúng, nên các nhà thiết kế giúp giảm sự mệt mỏi vì cảnh báo và giữ cho thông tin quan trọng về an toàn luôn hiển thị.
+levels:
+- title: Nhà thiết kế tương tác trợ lý
+  responsibilities:
+  - Học các phương pháp thiết kế tương tác và hệ thống thiết kế của nhóm qua đào tạo và làm việc theo cặp.
+  - Tạo bản phác thảo, khung sườn và nguyên mẫu đơn giản dưới sự giám sát.
+  - Giúp kiểm thử thiết kế với người dùng và ghi lại điều gì hiệu quả và điều gì không.
+  - Tuân thủ các tiêu chuẩn khả năng tiếp cận và các mẫu của hệ thống thiết kế, kể cả những mẫu về nhận dạng bệnh nhân và cảnh báo an toàn.
+  qualifications:
+  - Đang hướng tới bằng cấp hoặc chương trình học nghề về thiết kế hoặc lĩnh vực liên quan, hoặc kinh nghiệm tương đương.
+- title: Nhà thiết kế tương tác sơ cấp
+  responsibilities:
+  - Thiết kế và tạo nguyên mẫu cho các phần của một dịch vụ, như biểu mẫu, luồng và màn hình, theo chỉ đạo của một nhà thiết kế cấp cao hơn.
+  - Kiểm thử thiết kế với bệnh nhân, người chăm sóc và nhân viên, và thay đổi chúng dựa trên những gì bạn học được.
+  - Thiết kế các tương tác dễ tiếp cận, hoạt động được với các công nghệ hỗ trợ.
+  - Giải thích các quyết định thiết kế cho nhóm, kể cả cách chúng giảm khả năng sai sót.
+  qualifications:
+  - Có bằng đại học về thiết kế hoặc một ngành liên quan, hoặc kinh nghiệm tương đương.
+- title: Nhà thiết kế tương tác
+  responsibilities:
+  - Thiết kế các tương tác cho một sản phẩm y tế số, từ ý tưởng ban đầu đến các thiết kế chi tiết, đã được kiểm thử.
+  - Thiết kế cho các quy trình lâm sàng, kiểm thử với bác sĩ lâm sàng và nhân viên chăm sóc trong các tình huống thực tế, kể cả gián đoạn.
+  - Nêu các mối nguy liên quan đến thiết kế với cán bộ an toàn lâm sàng và ghi lại cách thiết kế kiểm soát chúng.
+  - Sử dụng và đóng góp vào hệ thống thiết kế, kể cả các mẫu cho thông tin quan trọng về an toàn.
+  - Làm việc chặt chẽ với lập trình viên để bảo đảm thiết kế được xây dựng đúng ý và vẫn dễ tiếp cận.
+  qualifications:
+  - Có bằng đại học về thiết kế hoặc một ngành liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm thiết kế các dịch vụ số cùng người dùng.
+  job_evaluation_notes: UK GDaD PCF xếp nhà thiết kế tương tác ở ngạch SEO hoặc G7, với Bậc 7 được đề xuất, giống nhà thiết kế tương tác cao cấp. Tài liệu tham khảo này xếp nó ở Bậc 6, giống cấp nhà thiết kế dịch vụ có cùng mức kỹ năng PCF, để hai cấp nhà thiết kế tương tác không nằm cùng một bậc.
+- title: Nhà thiết kế tương tác cao cấp
+  responsibilities:
+  - Dẫn dắt thiết kế tương tác cho các dịch vụ phức tạp, như hệ thống lâm sàng được dùng trên nhiều môi trường chăm sóc.
+  - Áp dụng các phương pháp yếu tố con người, như phân tích nhiệm vụ, vào các quy trình lâm sàng quan trọng về an toàn.
+  - Cung cấp bằng chứng thiết kế cho các hồ sơ an toàn lâm sàng và, khi phần mềm chịu quản lý, cho hồ sơ về khả năng sử dụng.
+  - Giúp đề ra định hướng và thực hành tốt về thiết kế trong các nhóm, và kèm cặp các nhà thiết kế khác.
+  - Đưa ra các quyết định thiết kế từ nghiên cứu và dữ liệu, và giải thích chúng cho các lãnh đạo lâm sàng và sản phẩm.
+  qualifications:
+  - Có kinh nghiệm dày dặn về thiết kế tương tác, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng nhóm thiết kế tương tác
+  responsibilities:
+  - Đề ra định hướng thiết kế và bảo đảm chất lượng thiết kế tương tác trên nhiều nhóm hoặc dịch vụ.
+  - Dẫn dắt hệ thống thiết kế, kể cả các mẫu dễ tiếp cận và quan trọng về an toàn mà các nhóm trong toàn tổ chức tái sử dụng.
+  - Dẫn dắt công việc về yếu tố con người trên các dịch vụ lâm sàng có rủi ro cao nhất, cùng cán bộ an toàn lâm sàng.
+  - Làm việc với các lãnh đạo sản phẩm và lâm sàng cấp cao để phát triển các ý tưởng thiết kế cho các dịch vụ lớn.
+  - Quản lý trực tiếp và phát triển các nhà thiết kế tương tác.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt thiết kế tương tác trên các nhóm.
+  job_evaluation_notes: Không có cấp vai trò ở Bậc 8a, vì UK GDaD PCF xếp trưởng nhóm thiết kế tương tác ở ngạch G7 hoặc G6 và tài liệu tham khảo này theo Bậc 8b được đề xuất. Chính sách ở mức 5 vì nhà thiết kế trưởng nhóm đề ra tiêu chuẩn thiết kế cho nhiều dịch vụ.
+- title: Trưởng bộ phận thiết kế tương tác
+  responsibilities:
+  - Dẫn dắt ngành thiết kế tương tác và đề ra chiến lược, tiêu chuẩn và cách làm việc của ngành.
+  - Tác động đến chiến lược thiết kế và chiến lược tổ chức để các dịch vụ dễ sử dụng, dễ tiếp cận và an toàn.
+  - Làm chủ hệ thống thiết kế của tổ chức và bảo đảm nó đáp ứng nhu cầu về khả năng tiếp cận và an toàn lâm sàng.
+  - Xây dựng năng lực thiết kế, kể cả tuyển dụng, lộ trình nghề nghiệp và đào tạo.
+  - Làm việc với các đồng nghiệp trong hệ thống y tế và chăm sóc về các mẫu thiết kế dùng chung.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt thiết kế và một ngành thực hành thiết kế.

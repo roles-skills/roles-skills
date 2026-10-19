@@ -1,0 +1,39 @@
+summary: Kiến trúc sư mạng thiết kế các mạng cục bộ, diện rộng, không dây và đám mây kết nối các địa điểm, nhân viên, hệ thống lâm sàng và thiết bị y tế của tổ chức. Họ bảo đảm các mạng đủ nhanh, có khả năng phục hồi và an toàn cho việc chăm sóc không bao giờ ngừng, và lập kế hoạch cách các mạng thay đổi khi dịch vụ chuyển lên đám mây và kết nối với các tổ chức đối tác.
+health_context:
+- Các hệ thống lâm sàng, điện thoại và thiết bị y tế phụ thuộc vào mạng, nên sự cố ngừng hoạt động có thể làm ngừng việc chăm sóc; thiết kế cần khả năng phục hồi và chuyển đổi dự phòng đã được kiểm thử.
+- Các mạng thường mang các thiết bị y tế kết nối khó vá lỗi, nên các kiến trúc sư thiết kế phân đoạn và giám sát để bảo vệ chúng.
+- Nhân viên làm việc tại các bệnh viện, phòng khám, môi trường cộng đồng và nhà bệnh nhân, nên thiết kế phải hỗ trợ truy cập di động và từ xa an toàn.
+- Các mạng kết nối với mạng y tế và chăm sóc dùng chung và các tổ chức đối tác, vốn đặt ra yêu cầu kết nối và an ninh riêng.
+- Những thay đổi đối với khu vực lâm sàng cần được lập kế hoạch cẩn thận xoay quanh việc chăm sóc bệnh nhân, ví dụ lên lịch công việc ngoài những khoảng thời gian bận rộn.
+levels:
+- title: Kiến trúc sư mạng trợ lý
+  responsibilities:
+  - Phác thảo thiết kế mạng, sơ đồ và đặc tả với sự hướng dẫn của các kiến trúc sư mạng.
+  - Khảo sát các địa điểm và thu thập yêu cầu cho các khu vực lâm sàng, gồm vùng phủ sóng không dây và kết nối thiết bị.
+  - Cập nhật hồ sơ về cấu trúc mạng, địa chỉ và các thiết bị được kết nối.
+  - Kiểm tra thiết kế đáp ứng mức độ dịch vụ và tiêu chuẩn an ninh trước khi rà soát.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc mạng, bằng cấp mạng được công nhận, hoặc kinh nghiệm tương đương.
+  - Có kiến thức chuyên sâu về thiết kế mạng, ở mức văn bằng sau đại học hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: "Được xếp bậc cao hơn gợi ý ngạch của UK GDaD PCF (Bậc 5): các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 6. Kiến thức được chấm ở mức văn bằng sau đại học, và nguồn lực thông tin ở mức 5 vì công việc thiết kế các phần của mạng mà các hệ thống thông tin lớn phụ thuộc vào."
+- title: Kiến trúc sư mạng
+  responsibilities:
+  - Thiết kế các giải pháp mạng cục bộ, diện rộng, không dây và đám mây cho các địa điểm và dịch vụ.
+  - Thiết kế phân đoạn mạng cho thiết bị y tế, hệ thống lâm sàng và truy cập của khách.
+  - Lập kế hoạch các thay đổi mạng trong khu vực lâm sàng cùng các trưởng nhóm dịch vụ để việc chăm sóc không bị gián đoạn.
+  - Thống nhất mức độ dịch vụ với nhà cung cấp và yêu cầu kết nối với các mạng đối tác.
+  - Đánh giá các công nghệ mạng mới và mức độ phù hợp của chúng với tiêu chuẩn an ninh của tổ chức.
+  qualifications:
+  - Có kiến thức chuyên sâu về kiến trúc mạng, ở trình độ thạc sĩ hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm thiết kế và hỗ trợ các mạng doanh nghiệp.
+  job_evaluation_notes: "Được xếp bậc cao hơn gợi ý ngạch của UK GDaD PCF (Bậc 6): các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 7. Kiến thức được chấm ở trình độ thạc sĩ hoặc tương đương cho kiến thức chuyên sâu về mạng cục bộ, diện rộng, không dây và đám mây."
+- title: Trưởng nhóm kiến trúc sư mạng
+  responsibilities:
+  - Làm chủ kiến trúc mạng của tổ chức, gồm các địa điểm, trung tâm dữ liệu và kết nối đám mây.
+  - Đề ra tiêu chuẩn thiết kế mạng và đảm bảo các thiết kế tại cơ quan thẩm định thiết kế.
+  - Thiết kế khả năng phục hồi và khôi phục mạng cho các dịch vụ lâm sàng quan trọng, và bảo đảm nó được kiểm thử.
+  - Tư vấn về đầu tư mạng, hợp đồng nhà cung cấp và rủi ro mạng của các dịch vụ mới.
+  - Đóng vai trò đầu mối chuyên gia báo cáo lên cấp trên và hướng dẫn các kiến trúc sư và kỹ sư mạng khác.
+  qualifications:
+  - Có kinh nghiệm dày dặn về kiến trúc mạng cho các tổ chức phức tạp, ở mức tương đương bằng thạc sĩ.
+  job_evaluation_notes: "Được xếp bậc cao hơn gợi ý ngạch của UK GDaD PCF (Bậc 7): các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 8a. Nguồn lực thông tin ở mức 6 vì công việc làm chủ kiến trúc mạng mà mọi hệ thống thông tin của tổ chức phụ thuộc vào."

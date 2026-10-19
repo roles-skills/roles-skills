@@ -1,0 +1,48 @@
+summary: Quản lý danh mục số giúp tổ chức lựa chọn, theo dõi và quản trị danh mục các dự án, chương trình và sản phẩm số của mình để đầu tư vào những công việc mang lại nhiều lợi ích nhất cho bệnh nhân, bác sĩ lâm sàng và nhân viên chăm sóc. Họ vận hành quản trị và báo cáo danh mục, giúp các lãnh đạo sắp xếp ưu tiên dựa trên bằng chứng tốt, và bảo đảm danh mục mang lại những lợi ích đã hứa.
+health_context:
+- Công việc số cạnh tranh nguồn tài trợ với chăm sóc tuyến đầu, nên quản lý danh mục giúp các lãnh đạo chứng minh lợi ích của đầu tư số đối với bệnh nhân và nhân viên.
+- Quản trị danh mục phải bao gồm việc đảm bảo an toàn lâm sàng, quản trị thông tin và an ninh mạng, nên quản lý danh mục theo dõi những việc này song song với thời gian, chi phí và phạm vi.
+- Nhiều dự án số phụ thuộc vào năng lực của các nhóm lâm sàng và vận hành, như bác sĩ lâm sàng tham gia kiểm thử hoặc nhân viên cần được đào tạo, nên quản lý danh mục để ý các xung đột về nhu cầu đối với các dịch vụ.
+- Nguồn tài trợ thường đến từ nhiều nguồn với quy tắc báo cáo và thời hạn riêng, nên quản lý danh mục giữ cho việc báo cáo chính xác và đúng hạn.
+levels:
+- title: Chuyên viên phân tích danh mục số
+  responsibilities:
+  - Thu thập và kiểm tra dữ liệu về tình trạng, rủi ro, tài chính và lợi ích từ các dự án trên toàn danh mục.
+  - Duy trì sổ đăng ký danh mục và các bảng điều khiển, và phát hiện các khoảng trống hoặc điểm không nhất quán trong báo cáo.
+  - Chuẩn bị tài liệu và báo cáo cho các ban quản trị danh mục.
+  - Theo dõi các mốc đảm bảo, như phê duyệt an toàn lâm sàng và đánh giá tác động bảo vệ dữ liệu, trên các dự án.
+  - Hỗ trợ các quản lý danh mục trong phân tích để sắp xếp ưu tiên và lập kế hoạch.
+  qualifications:
+  - Có bằng đại học hoặc bằng cấp liên quan, hoặc kinh nghiệm tương đương về phân tích hoặc báo cáo.
+  job_evaluation_notes: UK GDaD PCF xếp cả cấp chuyên viên phân tích và cấp quản lý ở HEO hoặc SEO. Tài liệu tham khảo này xếp chuyên viên phân tích ở Bậc 5, vì đây là cấp học hỏi báo cáo cho một quản lý danh mục, và quản lý ở Bậc 6, để hai cấp không nằm cùng một bậc.
+- title: Quản lý danh mục số
+  responsibilities:
+  - Điều phối một danh mục các dự án và chương trình số, như toàn bộ công việc số của một ban.
+  - Giúp các nhóm tuân theo quy trình quản trị, đảm bảo và triển khai, và làm cho chúng tương xứng.
+  - Hỗ trợ các lãnh đạo sắp xếp ưu tiên công việc dựa trên bằng chứng về nhu cầu, lợi ích, rủi ro và năng lực.
+  - Báo cáo rõ ràng hiệu quả, rủi ro và lợi ích của danh mục cho các hội đồng và bên liên quan.
+  - Phát hiện các xung đột về nhu cầu đối với các nhóm lâm sàng và vận hành giữa các dự án và giúp giải quyết chúng.
+  qualifications:
+  - Có kinh nghiệm quản lý danh mục, chương trình hoặc dự án, hoặc kinh nghiệm tương đương.
+- title: Quản lý danh mục số cao cấp
+  responsibilities:
+  - Quản lý danh mục số của tổ chức, hoặc một phần lớn của nó, cùng các quy trình quản trị và đảm bảo của danh mục.
+  - Theo dõi và phân tích kết quả và lợi ích trên toàn danh mục, và hành động trước các vấn đề để giúp các nhóm triển khai.
+  - Bảo đảm danh mục đáp ứng các tiêu chuẩn, gồm đảm bảo an toàn lâm sàng, quản trị thông tin và an ninh mạng.
+  - Tư vấn cho các lãnh đạo cấp cao về sắp xếp ưu tiên, đầu tư và đánh đổi, dựa trên bằng chứng rõ ràng.
+  - Quản lý việc báo cáo danh mục cho các bên tài trợ và cơ quan bên ngoài.
+  - Quản lý trực tiếp các chuyên viên phân tích và quản lý danh mục.
+  qualifications:
+  - Có kinh nghiệm sâu rộng về quản lý danh mục hoặc chương trình, ở mức tương đương bằng thạc sĩ.
+  job_evaluation_notes: Không có cấp vai trò ở Bậc 7 vì UK GDaD PCF chuyển từ quản lý danh mục số (HEO/SEO) sang quản lý danh mục số cao cấp (G7).
+- title: Trưởng bộ phận danh mục số
+  responsibilities:
+  - Dẫn dắt chức năng danh mục số và nhóm các quản lý danh mục.
+  - Đề ra chiến lược, biện pháp kiểm soát và quản trị danh mục, và bảo đảm chúng được sử dụng.
+  - Cung cấp cho các lãnh đạo điều hành cái nhìn về tương lai của danh mục, để họ ra quyết định đầu tư.
+  - Bảo đảm các lợi ích của danh mục đối với bệnh nhân, nhân viên và tổ chức được hiện thực hóa và báo cáo.
+  - Xử lý các rủi ro ở cấp danh mục và báo cáo các vấn đề lên ban điều hành.
+  - Quản lý ngân sách và năng lực của chức năng.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt quản lý danh mục ở một tổ chức phức tạp.
+  job_evaluation_notes: Nguồn lực tài chính được chấm ở mức 5 vì trưởng bộ phận danh mục số giám sát đầu tư trên toàn bộ danh mục số, bao gồm nhiều dịch vụ; nguồn lực thông tin ở mức 6 vì sổ đăng ký và báo cáo danh mục bao quát toàn tổ chức.

@@ -1,0 +1,71 @@
+# Bản dịch tiếng Việt của data/skills/product-design.yaml. Khóa là mã kỹ năng tiếng Anh.
+pd-health-research-ethics:
+  name: Nghiên cứu có đạo đức với bệnh nhân và nhân viên chăm sóc
+  description: Lập kế hoạch và thực hiện nghiên cứu với bệnh nhân, người chăm sóc, bác sĩ lâm sàng và nhân viên chăm sóc một cách an toàn và có đạo đức, gồm sự đồng ý có hiểu biết, bảo vệ an toàn, nghiên cứu với những người trong hoàn cảnh dễ bị tổn thương, và biết khi nào cần phê duyệt đạo đức chính thức.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao nghiên cứu với bệnh nhân và nhân viên chăm sóc cần có sự đồng ý có hiểu biết, bảo vệ an toàn và thận trọng với dữ liệu cá nhân
+      - tuân theo các quy trình của nhóm về đồng ý, bảo vệ an toàn và xử lý dữ liệu trong các buổi nghiên cứu
+    working: |
+      Bạn có thể:
+      - lập kế hoạch các buổi nghiên cứu có được sự đồng ý có hiểu biết và bảo vệ sức khỏe tinh thần và quyền riêng tư của người tham gia
+      - điều chỉnh các buổi nghiên cứu cho những người đang ốm, đau buồn hoặc trong hoàn cảnh dễ bị tổn thương, và biết khi nào cần dừng lại
+      - nhận biết và báo cáo các mối lo ngại về an toàn nảy sinh trong nghiên cứu
+    practitioner: |
+      Bạn có thể:
+      - đánh giá khi nào nghiên cứu cần phê duyệt đạo đức hoặc quản trị nghiên cứu chính thức và chuẩn bị những gì cần thiết cho việc đó
+      - lập kế hoạch nghiên cứu an toàn với những người trong hoàn cảnh dễ bị tổn thương, như trẻ em, người mắc chứng sa sút trí tuệ và người đang khủng hoảng
+      - lập kế hoạch nghiên cứu trong môi trường lâm sàng mà không làm gián đoạn việc chăm sóc, phối hợp với các trưởng nhóm lâm sàng và nhân viên chăm sóc
+      - hỗ trợ các nhà nghiên cứu chăm sóc sức khỏe tinh thần của chính họ sau những buổi nghiên cứu gây đau buồn
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn của tổ chức về nghiên cứu có đạo đức với bệnh nhân, người chăm sóc và nhân viên chăm sóc
+      - đảm bảo thực hành nghiên cứu trong các nhóm và tư vấn về nghiên cứu rủi ro cao
+      - đại diện cho thực hành nghiên cứu trước các cơ quan về đạo đức, bảo vệ an toàn và quản trị
+pd-safety-critical-design:
+  name: Thiết kế cho an toàn lâm sàng và yếu tố con người
+  description: Thiết kế các dịch vụ, giao diện và quy trình làm việc giúp bác sĩ lâm sàng, nhân viên chăm sóc và bệnh nhân hành động an toàn, bằng cách áp dụng các nguyên tắc về yếu tố con người và phối hợp với quy trình quản lý rủi ro lâm sàng.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các lựa chọn thiết kế có thể gây ra hoặc ngăn ngừa sai sót trong chăm sóc như thế nào, chẳng hạn nhầm bệnh nhân hoặc nhầm liều
+      - dùng các mẫu thiết kế của tổ chức cho thông tin quan trọng về an toàn, như biểu ngữ nhận dạng bệnh nhân và cảnh báo dị ứng
+    working: |
+      Bạn có thể:
+      - thiết kế giao diện sao cho hành động an toàn cũng là hành động dễ làm, ví dụ bằng cách giảm nhãn mơ hồ và cảnh báo không cần thiết
+      - kiểm thử thiết kế trong các tình huống lâm sàng thực tế, kể cả khi bị gián đoạn và áp lực thời gian
+      - nêu các mối nguy liên quan đến thiết kế với cán bộ an toàn lâm sàng và ghi lại cách thiết kế kiểm soát chúng
+    practitioner: |
+      Bạn có thể:
+      - áp dụng các phương pháp yếu tố con người, như phân tích nhiệm vụ và phân tích lỗi sử dụng, vào các quy trình lâm sàng phức tạp
+      - thiết kế để giảm sự mệt mỏi vì cảnh báo và tải nhận thức trên toàn bộ một dịch vụ
+      - cung cấp bằng chứng thiết kế cho các hồ sơ an toàn lâm sàng và bằng chứng về khả năng sử dụng cho phần mềm chịu quản lý
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn và mẫu thiết kế của tổ chức cho thiết kế quan trọng về an toàn
+      - dẫn dắt công việc về yếu tố con người trên các dịch vụ lâm sàng có rủi ro cao nhất
+      - tư vấn cho các lãnh đạo an toàn lâm sàng và sản phẩm về các rủi ro liên quan đến thiết kế trên toàn danh mục
+pd-health-content:
+  name: Nội dung thông tin sức khỏe
+  description: Tạo nội dung về sức khỏe và chăm sóc chính xác, được đảm bảo về mặt lâm sàng, và dễ hiểu, dễ thực hiện đối với những người có mức hiểu biết về sức khỏe khác nhau.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao thông tin sức khỏe phải chính xác, cập nhật và dễ hiểu
+      - tuân theo hướng dẫn phong cách và quy trình rà soát lâm sàng của nhóm đối với nội dung sức khỏe
+    working: |
+      Bạn có thể:
+      - viết nội dung sức khỏe mà những người ít hiểu biết về sức khỏe vẫn hiểu và làm theo được, như các triệu chứng và khi nào cần tìm sự giúp đỡ
+      - phối hợp với những người rà soát lâm sàng để kiểm tra nội dung chính xác mà không mất đi sự rõ ràng
+      - giải thích các thuật ngữ y khoa bằng ngôn ngữ giản dị và dùng nhất quán tên gọi của các bệnh, xét nghiệm và phương pháp điều trị
+    practitioner: |
+      Bạn có thể:
+      - thiết kế nội dung cho các chủ đề nhạy cảm và rủi ro cao, như triệu chứng khẩn cấp, thuốc và chăm sóc cuối đời
+      - thiết lập việc đảm bảo lâm sàng, ngày rà soát và nguồn bằng chứng cho một khối nội dung sức khỏe
+      - cân bằng giữa độ chính xác lâm sàng, yêu cầu pháp lý và khả năng hiểu của người dùng trong nội dung còn tranh cãi
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn của tổ chức về nội dung thông tin sức khỏe và việc đảm bảo lâm sàng cho nội dung đó
+      - dẫn dắt chiến lược nội dung cho thông tin sức khỏe trên các dịch vụ và kênh
+      - tư vấn cho các lãnh đạo lâm sàng và truyền thông cấp cao về các rủi ro của thông tin sức khỏe

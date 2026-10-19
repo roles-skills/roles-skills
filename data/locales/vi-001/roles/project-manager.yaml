@@ -1,0 +1,62 @@
+summary: Quản lý dự án lập kế hoạch và thực hiện các dự án thay đổi cách tổ chức hỗ trợ y tế và chăm sóc, như triển khai một hệ thống lâm sàng đến các địa điểm mới, chuyển dịch vụ sang hạ tầng mới, hoặc đưa vào các công cụ số mới cho nhân viên chăm sóc. Họ kiểm soát phạm vi, thời gian, chi phí, chất lượng và rủi ro, dùng các phương pháp dự án được công nhận, và bảo đảm các dự án mang lại những lợi ích đã hứa cho bệnh nhân và nhân viên.
+health_context:
+- Các dự án thay đổi hệ thống hoặc quy trình lâm sàng cần được đảm bảo an toàn lâm sàng trước khi đưa vào vận hành, nên quản lý dự án đưa các buổi làm việc về mối nguy, ký duyệt hồ sơ an toàn và đóng góp của cán bộ an toàn lâm sàng vào lịch trình.
+- Việc đưa vào vận hành không được làm gián đoạn việc chăm sóc bệnh nhân, nên quản lý dự án lập kế hoạch chuyển đổi, các giải pháp duy trì hoạt động kinh doanh và hỗ trợ tại chỗ cùng các nhóm lâm sàng và vận hành.
+- Các dự án thường cần đánh giá tác động bảo vệ dữ liệu và thỏa thuận chia sẻ thông tin, nên quản lý dự án lập kế hoạch cho những việc này sớm cùng các đồng nghiệp quản trị thông tin.
+- Các lợi ích trong chăm sóc, như thời gian nhân viên được giải phóng hoặc ít sai sót hơn, cần thời gian để xuất hiện, nên quản lý dự án thiết lập mức cơ sở và bàn giao việc theo dõi lợi ích cho dịch vụ.
+levels:
+- title: Quản lý dự án trợ lý
+  summary: Quản lý dự án trợ lý hỗ trợ việc triển khai các dự án, hoặc quản lý các dự án nhỏ, được xác định rõ, với sự hướng dẫn của một quản lý dự án cấp cao hơn.
+  responsibilities:
+  - Duy trì kế hoạch dự án, nhật ký rủi ro và vấn đề, nhật ký hành động và hồ sơ phụ thuộc.
+  - Tổ chức và lập biên bản các cuộc họp và hội đồng dự án, và theo dõi các hành động.
+  - Quản lý các phần công việc nhỏ, được xác định rõ, như triển khai một địa điểm hoặc lịch đào tạo, với sự hướng dẫn.
+  - Theo dõi các nhiệm vụ sẵn sàng cho việc đưa vào vận hành, như ký duyệt an toàn lâm sàng, kiểm tra bảo vệ dữ liệu và đào tạo nhân viên.
+  - Lập báo cáo điểm nổi bật và theo dõi chi tiêu dự án so với ngân sách.
+  qualifications:
+  - Có chứng chỉ nền tảng về quản lý dự án, hoặc kinh nghiệm tương đương.
+- title: Quản lý dự án
+  summary: Quản lý dự án điều hành các dự án có quy mô và độ phức tạp vừa phải từ đầu đến khi kết thúc, như triển khai một dịch vụ số đến nhiều môi trường chăm sóc.
+  responsibilities:
+  - Lập kế hoạch và quản lý các dự án từ khởi động đến kết thúc, kiểm soát phạm vi, thời gian, chi phí, chất lượng và rủi ro.
+  - Lập kế hoạch đưa vào vận hành cùng các nhóm lâm sàng và vận hành, gồm chuyển đổi, duy trì hoạt động kinh doanh và các thỏa thuận hỗ trợ.
+  - Bảo đảm việc đảm bảo an toàn lâm sàng, quản trị thông tin và khả năng tiếp cận được lập kế hoạch và hoàn thành trước khi đưa vào vận hành.
+  - Quản lý ngân sách dự án và các sản phẩm bàn giao của nhà cung cấp.
+  - Báo cáo với ban dự án và báo cáo lên cấp trên các rủi ro và vấn đề vượt ngoài dung sai.
+  - Thiết lập mức cơ sở cho lợi ích và bàn giao việc theo dõi lợi ích cho dịch vụ.
+  qualifications:
+  - Có bằng cấp quản lý dự án được công nhận, như chứng chỉ trình độ thực hành, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm quản lý các dự án thay đổi dịch vụ hoặc hệ thống.
+- title: Quản lý dự án cao cấp
+  summary: Quản lý dự án cao cấp dẫn dắt các dự án lớn, phức tạp hoặc rủi ro cao, như thay thế một hệ thống lâm sàng trên toàn tổ chức, và có thể quản lý nhân viên dự án khác.
+  responsibilities:
+  - Dẫn dắt các dự án lớn hoặc rủi ro cao, như thay thế hệ thống lâm sàng hoặc triển khai nhiều địa điểm.
+  - Quản lý các phụ thuộc phức tạp với nhà cung cấp, các dự án khác và các tổ chức y tế và chăm sóc đối tác.
+  - Dẫn dắt các quyết định đưa vào vận hành cùng cán bộ an toàn lâm sàng, các trưởng nhóm vận hành và chủ sở hữu chịu trách nhiệm cấp cao.
+  - Quản lý ngân sách dự án và các thỏa thuận thương mại, gồm kiểm soát thay đổi với nhà cung cấp.
+  - Bảo đảm lợi ích cho bệnh nhân và nhân viên được xác định, có người phụ trách và được đo lường.
+  - Quản lý và phát triển các quản lý dự án và nhân viên hỗ trợ dự án.
+  qualifications:
+  - Có bằng cấp quản lý dự án được công nhận, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm dày dặn trong việc quản lý các dự án phức tạp trong môi trường chịu quản lý hoặc quan trọng về an toàn.
+- title: Trưởng nhóm quản lý dự án
+  summary: Trưởng nhóm quản lý dự án dẫn dắt các dự án phức tạp nhất hoặc một nhóm các dự án liên quan, và đề ra thực hành quản lý dự án cho mảng của mình.
+  responsibilities:
+  - Dẫn dắt các dự án phức tạp nhất, hoặc một nhóm các dự án liên quan, trên nhiều dịch vụ hoặc tổ chức.
+  - Đề ra tiêu chuẩn, mẫu và đảm bảo quản lý dự án cho mảng của mình, và huấn luyện các quản lý dự án.
+  - Tư vấn cho chủ sở hữu chịu trách nhiệm cấp cao và hội đồng về các phương án triển khai, rủi ro và khôi phục các dự án đang gặp khó khăn.
+  - Quản lý ngân sách và hợp đồng lớn, và bảo đảm các dự án mang lại giá trị đồng tiền.
+  - Bảo đảm các yêu cầu về an toàn lâm sàng và quản trị thông tin được đáp ứng trên nhóm dự án.
+  - Quản lý trực tiếp các quản lý dự án.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt các dự án phức tạp, với bằng cấp quản lý dự án được công nhận hoặc kinh nghiệm tương đương.
+- title: Trưởng bộ phận quản lý dự án
+  summary: Trưởng bộ phận quản lý dự án dẫn dắt thực hành quản lý dự án của tổ chức và các quản lý dự án thực hiện thay đổi số của tổ chức.
+  responsibilities:
+  - Dẫn dắt thực hành quản lý dự án, gồm phương pháp, tiêu chuẩn, công cụ và đảm bảo của thực hành này.
+  - Phân bổ các quản lý dự án cho các dự án của tổ chức và quản lý năng lực của ngành thực hành.
+  - Xây dựng năng lực quản lý dự án, gồm tuyển dụng, đào tạo và lộ trình nghề nghiệp.
+  - Tư vấn cho các lãnh đạo điều hành về tình trạng dự án, rủi ro triển khai và bài học kinh nghiệm.
+  - Quản lý ngân sách của ngành thực hành.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt các dự án và quản lý dự án, với bằng cấp quản lý dự án được công nhận hoặc kinh nghiệm tương đương.

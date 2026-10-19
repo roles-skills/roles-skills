@@ -1,0 +1,43 @@
+summary: Các lãnh đạo tài chính cấp cao chịu trách nhiệm về sức khỏe tài chính, kiểm soát tài chính và việc sử dụng tiền công của tổ chức. Họ dẫn dắt chiến lược và kế hoạch tài chính, tư vấn cho hội đồng về khả năng chi trả và giá trị đồng tiền, và dẫn dắt các chức năng tài chính, tiền lương và thường cả mua sắm. Trong một tổ chức chăm sóc sức khỏe số, họ định hình cách đầu tư vào công nghệ và dữ liệu được tài trợ, phê duyệt và chứng minh là mang lại lợi ích cho bệnh nhân và hệ thống y tế và chăm sóc.
+health_context:
+- Tổ chức được tài trợ bằng tiền công, nên các lãnh đạo tài chính phải giải trình với các bên tài trợ và cơ quan giám sát về tính hợp quy, tính đúng đắn và giá trị đồng tiền.
+- Đầu tư công nghệ chiếm một phần lớn chi tiêu, và sự cân bằng giữa chi phí vốn, chi phí thường xuyên và chi phí đăng ký đám mây định hình những gì tổ chức có thể chi trả.
+- Các lãnh đạo tài chính phải cân bằng mục tiêu tài chính với an toàn bệnh nhân và chất lượng của các dịch vụ mà bác sĩ lâm sàng và nhân viên chăm sóc dựa vào.
+- Các hợp đồng công nghệ và dữ liệu lớn mang các cam kết dài hạn và rủi ro nhà cung cấp mà hội đồng phải hiểu.
+- Tổ chức có thể làm việc trong các quan hệ đối tác trên toàn ngành y tế và chăm sóc, với ngân sách gộp, dịch vụ dùng chung hoặc các chương trình được lưu trữ hộ.
+levels:
+- title: Kế toán trưởng
+  summary: Kế toán trưởng, đôi khi gọi là trợ lý giám đốc tài chính, dẫn dắt một phần lớn của chức năng tài chính, như kế toán và kiểm soát tài chính hoặc lập kế hoạch tài chính, và thay mặt các lãnh đạo tài chính cấp cao khi vắng mặt.
+  responsibilities:
+  - Dẫn dắt kế toán tài chính, kiểm soát tài chính, ngân quỹ và dịch vụ giao dịch, hoặc lập kế hoạch tài chính và đối tác nghiệp vụ.
+  - Bảo đảm báo cáo tài chính năm được giao đúng hạn với ý kiến kiểm toán chấp nhận toàn phần.
+  - Duy trì một hệ thống kiểm soát tài chính hiệu quả, và báo cáo về hệ thống đó cho ủy ban kiểm toán.
+  - Dẫn dắt chu trình lập kế hoạch tài chính và báo cáo tài chính trong năm cho ban điều hành.
+  - Tư vấn cho các giám đốc về các quyết định tài chính lớn, kể cả các hợp đồng công nghệ lớn.
+  - Dẫn dắt và phát triển nhiều nhóm tài chính.
+  qualifications:
+  - Có bằng cấp kế toán được công nhận, kèm kinh nghiệm cấp cao sâu rộng trong khu vực công hoặc các tổ chức phức tạp.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 5 vì công việc quản lý ngân sách và các quy trình tài chính trên nhiều dịch vụ. Nguồn lực thông tin ở mức 6 vì công việc làm chủ các hệ thống và dữ liệu tài chính dùng trong toàn tổ chức.
+- title: Phó giám đốc tài chính
+  summary: Phó giám đốc tài chính dẫn dắt chức năng tài chính hằng ngày, thay mặt giám đốc tài chính khi vắng mặt, và dẫn dắt chiến lược tài chính và kế hoạch tài chính trung hạn của tổ chức.
+  responsibilities:
+  - Dẫn dắt kế hoạch tài chính trung hạn và kế hoạch tài chính hằng năm, gắn chúng với chiến lược và kế hoạch lực lượng lao động.
+  - Dẫn dắt quy trình luận chứng kinh doanh và phê duyệt đầu tư, kể cả cho các chương trình số lớn.
+  - Tư vấn cho ban điều hành và các ủy ban của hội đồng về hiệu quả tài chính, rủi ro và kế hoạch tiết kiệm.
+  - Đại diện tổ chức với các bên tài trợ và đối tác về các vấn đề tài chính.
+  - Thay mặt giám đốc tài chính, kể cả tại hội đồng và ủy ban kiểm toán.
+  - Dẫn dắt và phát triển các nhóm tài chính, tiền lương và hệ thống tài chính.
+  qualifications:
+  - Có bằng cấp kế toán được công nhận, kèm kinh nghiệm cấp cao sâu rộng trong việc dẫn dắt các chức năng tài chính.
+- title: Giám đốc tài chính
+  summary: Giám đốc tài chính là thành viên điều hành của hội đồng, có trách nhiệm chung của tổ chức về tài chính, kiểm soát tài chính và việc sử dụng tiền công của tổ chức.
+  responsibilities:
+  - Nắm trách nhiệm chung của tổ chức về tài chính, kiểm soát tài chính và tính bền vững tài chính.
+  - Đề ra chiến lược tài chính và dẫn dắt các quyết định của hội đồng về khả năng chi trả, đầu tư và giá trị đồng tiền.
+  - Bảo đảm tổ chức chi tiêu tiền công một cách hợp pháp, trong phạm vi nguồn tài trợ và theo các cơ chế kiểm soát chi tiêu.
+  - Tư vấn cho hội đồng về tác động tài chính của chiến lược, kể cả việc chuyển sang các dịch vụ số và dựa trên đám mây.
+  - Dẫn dắt quan hệ với các bên tài trợ, cơ quan giám sát và kiểm toán viên độc lập.
+  - Dẫn dắt các chức năng tài chính, tiền lương và mua sắm, và thường cả các dịch vụ doanh nghiệp khác.
+  qualifications:
+  - Có bằng cấp kế toán được công nhận, kèm kinh nghiệm sâu rộng ở cấp điều hành hoặc hội đồng.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 6 vì công việc nắm trách nhiệm chung của tổ chức về tài chính của tổ chức.

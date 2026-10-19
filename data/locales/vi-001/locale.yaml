@@ -1,0 +1,73 @@
+# Tiếng Việt (thế giới). Được dịch từ tiếng Anh bởi trợ lý AI; chưa được người
+# bản ngữ rà soát. Các đoạn trích từ UK GDaD PCF và ESCO giữ nguyên bằng tiếng
+# Anh. Chức danh dùng dạng chung, bao gồm mọi người. Đường dẫn (slug) được tạo
+# từ các tiêu đề tiếng Việt.
+code: vi-001
+name: Tiếng Việt
+english_name: Vietnamese
+dir: ltr
+complete: true
+paths:
+  roles: vai-trò
+  families: nhóm-vai-trò
+  bands: bậc
+  skills: kỹ-năng
+  job-evaluation: đánh-giá-công-việc
+  about: về-tài-liệu-tham-khảo-này
+strings:
+  disclaimer: "Đây là hồ sơ tham khảo mang tính minh họa cho một tổ chức chăm sóc sức khỏe số nói chung. Đây không phải là bản mô tả công việc chính thức của bất kỳ nhà tuyển dụng nào, và điểm đánh giá công việc không phải là một đánh giá chính thức."
+  translation_note: "Bản dịch này được trợ lý AI dịch từ tiếng Anh và chưa được người bản ngữ rà soát. Các đoạn trích từ UK GDaD PCF (Khung năng lực nghề nghiệp kỹ thuật số và dữ liệu của Chính phủ Anh) và ESCO được giữ nguyên bằng tiếng Anh."
+  home_title: Mục lục vai trò
+  home_lede: "Hãy tìm nhóm vai trò gần nhất với công việc của bạn, rồi đến vai trò, rồi đến bậc."
+  roles_title: Các vai trò từ A đến Z
+  bands_title: Vai trò theo bậc
+  skills_title: Kỹ năng
+  skills_lede: "Mỗi kỹ năng có bốn mức thành thạo: Nhận biết (1), Vận dụng (2), Thành thạo (3) và Chuyên gia (4). Các kỹ năng từ UK GDaD PCF được trích dẫn nguyên văn bằng tiếng Anh. Các kỹ năng khác là nội dung riêng của tài liệu tham khảo này."
+  pcf_title: Vai trò theo vai trò UK GDaD PCF
+  esco_title: Vai trò theo nghề nghiệp ESCO
+  role: Vai trò
+  roles: Vai trò
+  family: Nhóm
+  band: Bậc
+  bands: Bậc
+  title: Chức danh
+  role_level: Cấp vai trò
+  skill: Kỹ năng
+  source: Nguồn
+  expected_level: Mức kỳ vọng
+  level_meaning: Ý nghĩa của mức này
+  factor: Yếu tố
+  level: Mức
+  points: Điểm
+  total: Tổng
+  summary: Tóm tắt
+  health_context: Trong một tổ chức chăm sóc sức khỏe số
+  pcf_role: Vai trò UK GDaD PCF
+  pcf_role_none: "không có (tài liệu tham khảo này tự xác định vai trò)"
+  pcf_role_description: Mô tả vai trò UK GDaD PCF (bản gốc tiếng Anh)
+  pcf_level: Cấp UK GDaD PCF
+  civil_service_grades: Ngạch công chức
+  esco_occupations: Nghề nghiệp ESCO
+  role_levels: Các cấp của vai trò
+  job_evaluation_points: Điểm đánh giá công việc
+  responsibilities: Trách nhiệm
+  skills: Kỹ năng
+  qualifications: Trình độ và kinh nghiệm thông thường
+  band_outline: Mô tả bậc
+  knowledge: Kiến thức
+  autonomy: Quyền tự chủ
+  scope: Phạm vi
+  leadership: Lãnh đạo
+  accountability: Trách nhiệm giải trình
+  job_evaluation: Đánh giá công việc (minh họa)
+  source_pcf: UK GDaD PCF
+  source_reference: Tài liệu tham khảo này
+  used_in: "Được dùng trong {n} cấp vai trò."
+  awareness: Nhận biết
+  working: Vận dụng
+  practitioner: Thành thạo
+  expert: Chuyên gia
+  sfia_level: Mức SFIA
+  esco_occupation: Nghề nghiệp ESCO
+  pcf_family: Nhóm PCF
+  roles_in_reference: Các vai trò trong tài liệu tham khảo này

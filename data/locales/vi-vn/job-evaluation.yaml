@@ -1,0 +1,159 @@
+# Các yếu tố đánh giá công việc bằng tiếng Việt. Khóa là mã yếu tố tiếng Anh. Điểm
+# giữ nguyên như trong tệp tiếng Anh.
+communication:
+  name: Kỹ năng giao tiếp và xây dựng quan hệ
+  description: Kỹ năng cần thiết để giao tiếp và xây dựng quan hệ với đồng nghiệp, bệnh nhân, công chúng và đối tác. Xem xét mức độ phức tạp, nhạy cảm hoặc gây tranh cãi của thông tin, cùng các rào cản đối với việc hiểu hoặc chấp nhận.
+  levels:
+    "1": Truyền đạt và tiếp nhận thông tin thường ngày bằng lời nói, chủ yếu với đồng nghiệp.
+    "2": Truyền đạt và tiếp nhận thông tin thường ngày bằng lời nói, văn bản hoặc điện tử, với đồng nghiệp và những người khác.
+    "3": Truyền đạt thông tin thường ngày cần sự khéo léo hoặc thuyết phục, hoặc thông tin phức tạp hoặc nhạy cảm, hoặc đào tạo đơn giản cho nhóm.
+    "4": Truyền đạt thông tin phức tạp, nhạy cảm hoặc gây tranh cãi cần kỹ năng thuyết phục, đàm phán hoặc đào tạo, hoặc thông tin rất phức tạp.
+    "5": Truyền đạt thông tin rất phức tạp hoặc gây tranh cãi cần kỹ năng thuyết phục và đàm phán thuần thục, trình bày trước nhóm đông người, hoặc giao tiếp khi có rào cản đáng kể đối với việc chấp nhận.
+    "6": Truyền đạt thông tin rất phức tạp và rất gây tranh cãi khi có rào cản đáng kể đối với việc chấp nhận, bằng kỹ năng giao tiếp ở mức cao nhất.
+knowledge:
+  name: Kiến thức, đào tạo và kinh nghiệm
+  description: Kiến thức và kinh nghiệm cần có để làm công việc, từ bất kỳ nguồn nào, kể cả đào tạo chính quy, bằng cấp và kinh nghiệm.
+  levels:
+    "1": Một vài quy trình thường ngày, học tại chỗ trong buổi hướng dẫn ngắn.
+    "2": Nhiều quy trình thường ngày, học qua đào tạo tại chỗ và buổi hướng dẫn ban đầu.
+    "3": Nhiều quy trình, một số không thường xuyên, cần kiến thức lý thuyết nền tảng (ví dụ bằng cấp mức 3 hoặc kinh nghiệm tương đương).
+    "4": Nhiều quy trình, phần lớn không thường xuyên, cần kiến thức lý thuyết trung cấp (ví dụ bằng cao đẳng hoặc kinh nghiệm tương đương).
+    "5": Chuyên môn trong một lĩnh vực chuyên sâu, dựa trên lý thuyết hoặc kinh nghiệm thực tế (trình độ đại học hoặc tương đương).
+    "6": Kiến thức chuyên sâu trên toàn bộ phạm vi của lĩnh vực chuyên môn (trình độ văn bằng sau đại học hoặc tương đương).
+    "7": Kiến thức chuyên sâu ở mức rất cao trên toàn bộ phạm vi của lĩnh vực chuyên môn (trình độ thạc sĩ hoặc tương đương).
+    "8": Kiến thức nâng cao (tiến sĩ cùng đào tạo thêm hoặc tương đương), hoặc kiến thức chuyên sâu trên nhiều ngành được tích lũy qua thời gian dài.
+analytical:
+  name: Kỹ năng phân tích và đánh giá
+  description: Khả năng phân tích và đánh giá cần thiết để xử lý thông tin, giải quyết vấn đề và ra quyết định.
+  levels:
+    "1": Đánh giá dựa trên các dữ kiện hoặc tình huống đơn giản.
+    "2": Đánh giá dựa trên các dữ kiện hoặc tình huống, một số cần phân tích.
+    "3": Đánh giá dựa trên nhiều dữ kiện hoặc tình huống cần phân tích hoặc so sánh các phương án.
+    "4": Đánh giá dựa trên các dữ kiện hoặc tình huống phức tạp cần phân tích, diễn giải và so sánh các phương án.
+    "5": Đánh giá dựa trên các dữ kiện hoặc tình huống rất phức tạp cần phân tích, diễn giải và so sánh các phương án.
+planning:
+  name: Kỹ năng lập kế hoạch và tổ chức
+  description: Việc lập kế hoạch và tổ chức cần thiết để điều hành các hoạt động, chương trình, dịch vụ hoặc chiến lược.
+  levels:
+    "1": Tự sắp xếp công việc hằng ngày của mình.
+    "2": Lập kế hoạch cho các nhiệm vụ hoặc hoạt động đơn giản, một số kéo dài.
+    "3": Lập kế hoạch cho nhiều hoạt động phức tạp, điều chỉnh kế hoạch khi cần.
+    "4": Lập kế hoạch cho nhiều hoạt động hoặc chiến lược phức tạp, điều chỉnh khi cần.
+    "5": Xây dựng các kế hoạch chiến lược dài hạn, có yếu tố bất định và tác động trên toàn tổ chức.
+physical-skills:
+  name: Kỹ năng thể chất
+  description: Các kỹ năng thể chất cần thiết, như sự khéo léo, phối hợp, kỹ năng gõ phím và lái xe.
+  levels:
+    "1": Ít cần đến kỹ năng thể chất.
+    "2": Kỹ năng có được nhờ luyện tập, như dùng bàn phím thông thường hoặc lái xe.
+    "3": Kỹ năng đã phát triển, cần tốc độ hoặc độ chính xác, như dùng bàn phím ở mức nâng cao.
+    "4": Kỹ năng phát triển cao, cần sự chính xác hoặc tốc độ và khả năng phối hợp tay mắt cao.
+    "5": Mức chính xác, tốc độ và phối hợp cao nhất.
+patient-care:
+  name: Trách nhiệm chăm sóc bệnh nhân và khách hàng
+  description: Trách nhiệm đánh giá, điều trị, chăm sóc hoặc tư vấn cho bệnh nhân và khách hàng. Với hầu hết các vai trò số và doanh nghiệp, đây chỉ là tiếp xúc ngẫu nhiên.
+  levels:
+    "1": Giúp đỡ bệnh nhân, khách hàng hoặc người thân trong những lần tiếp xúc ngẫu nhiên.
+    "2": Trực tiếp đưa ra lời khuyên, thông tin hoặc dịch vụ chung không mang tính lâm sàng cho bệnh nhân hoặc công chúng.
+    "3": Chăm sóc cá nhân, cung cấp dịch vụ kỹ thuật lâm sàng cơ bản hoặc tư vấn lâm sàng cơ bản.
+    "4": Thực hiện chăm sóc lâm sàng, cung cấp dịch vụ kỹ thuật lâm sàng hoặc tư vấn về việc chăm sóc bệnh nhân.
+    "5": Xây dựng các chương trình chăm sóc, cung cấp dịch vụ kỹ thuật lâm sàng chuyên sâu hoặc tư vấn chuyên sâu về chăm sóc bệnh nhân.
+    "6": Phát triển hình thức chăm sóc chuyên sâu, đưa ra tư vấn chuyên sâu cao, hoặc chịu trách nhiệm về một phần dịch vụ lâm sàng.
+    "7": Chịu trách nhiệm cung cấp một dịch vụ lâm sàng hoặc chăm sóc.
+    "8": Chịu trách nhiệm chung của tổ chức về các dịch vụ lâm sàng hoặc chăm sóc.
+policy:
+  name: Trách nhiệm phát triển chính sách và dịch vụ
+  description: Trách nhiệm xây dựng và thực hiện chính sách và dịch vụ, cùng phạm vi ảnh hưởng của chúng.
+  levels:
+    "1": Tuân theo chính sách do người khác đặt ra; có thể góp ý về các thay đổi.
+    "2": Thực hiện chính sách cho lĩnh vực của mình và đề xuất thay đổi cách làm trong lĩnh vực đó.
+    "3": Thực hiện chính sách cho lĩnh vực của mình và đề xuất các thay đổi ảnh hưởng đến các lĩnh vực khác.
+    "4": Thực hiện chính sách và xây dựng chính sách hoặc dịch vụ cho một dịch vụ hoặc nhiều lĩnh vực.
+    "5": Thực hiện và xây dựng nhiều chính sách hoặc dịch vụ cho một ban.
+    "6": Chịu trách nhiệm chung của tổ chức về việc phát triển chính sách hoặc dịch vụ quan trọng trong và ngoài tổ chức.
+financial-resources:
+  name: Trách nhiệm về nguồn lực tài chính và vật chất
+  description: Trách nhiệm về tiền, ngân sách, thiết bị, hàng tồn kho, tòa nhà và các tài sản khác.
+  levels:
+    "1": Tự giữ gìn thiết bị và nguồn lực dùng trong công việc của mình.
+    "2": Xử lý tiền mặt hoặc vật có giá trị, trông coi thiết bị do người khác sử dụng, kiểm soát hàng tồn kho hoặc phê duyệt các khoản thanh toán nhỏ.
+    "3": Phê duyệt thanh toán, mua một số tài sản hoặc vật tư, theo dõi hoặc giữ ngân sách được ủy quyền, hoặc bảo trì tài sản.
+    "4": Giữ hoặc lập ngân sách cho một phòng ban hoặc dịch vụ, hoặc mua hoặc bảo trì tài sản của đơn vị đó.
+    "5": Giữ hoặc lập ngân sách, hoặc quản lý tài sản, cho nhiều dịch vụ.
+    "6": Chịu trách nhiệm chung của tổ chức về tài chính hoặc tài sản của tổ chức.
+people:
+  name: Trách nhiệm đối với con người
+  description: Trách nhiệm quản lý, giám sát, đào tạo hoặc phát triển nhân viên, hoặc cung cấp dịch vụ nhân sự.
+  levels:
+    "1": Hướng dẫn đồng nghiệp mới hoặc ít kinh nghiệm hơn cách làm việc thường ngày của mình.
+    "2": Giám sát hoặc điều phối nhân viên hằng ngày, thường xuyên đào tạo người khác, hoặc tư vấn nhân sự cơ bản.
+    "3": Quản lý hằng ngày một nhóm nhân viên, giảng dạy các khóa đào tạo cốt lõi hoặc chuyên sâu, hoặc tư vấn nhân sự cốt lõi.
+    "4": Quản lý trực tiếp một chức năng hoặc phòng ban, thiết kế chương trình đào tạo như nhiệm vụ chính, hoặc cung cấp đầy đủ các dịch vụ nhân sự.
+    "5": Quản lý trực tiếp nhiều phòng ban, hoặc quản lý đào tạo hoặc một phần lớn công tác nhân sự trong toàn tổ chức.
+    "6": Chịu trách nhiệm chung của tổ chức về nhân sự hoặc chức năng nhân sự của tổ chức.
+information-resources:
+  name: Trách nhiệm về nguồn lực thông tin
+  description: Trách nhiệm về thông tin và hệ thống thông tin, trên giấy hoặc dạng số, kể cả hồ sơ, dữ liệu và các hệ thống lưu giữ chúng.
+  levels:
+    "1": Ghi lại thông tin do chính người đảm nhiệm công việc tạo ra.
+    "2": Nhập hoặc lưu trữ dữ liệu do người khác tổng hợp, hoặc thỉnh thoảng viết báo cáo hoặc truy vấn.
+    "3": Lập biên bản chính thức, thường xuyên viết báo cáo hoặc truy vấn, hoặc duy trì các hệ thống thông tin như một nhiệm vụ quan trọng.
+    "4": Điều chỉnh hoặc thiết kế hệ thống thông tin theo yêu cầu của người khác, hoặc vận hành hệ thống thông tin của một phòng ban như nhiệm vụ chính.
+    "5": Thiết kế và phát triển các hệ thống thông tin lớn, hoặc vận hành hệ thống thông tin cho nhiều dịch vụ như nhiệm vụ chính.
+    "6": Quản lý và phát triển hệ thống thông tin trong toàn tổ chức như nhiệm vụ chính.
+    "7": Chịu trách nhiệm chung của tổ chức về các hệ thống thông tin của tổ chức.
+research:
+  name: Trách nhiệm nghiên cứu và phát triển
+  description: Trách nhiệm về nghiên cứu chính thức, phát triển, đánh giá, kiểm toán, kiểm thử và thử nghiệm.
+  levels:
+    "1": Thực hiện khảo sát hoặc kiểm toán cho công việc của mình; thỉnh thoảng tham gia nghiên cứu hoặc kiểm thử.
+    "2": Thường xuyên làm nghiên cứu, phát triển, thử nghiệm, hoặc kiểm thử thiết bị và hệ thống như một phần công việc.
+    "3": Thực hiện nghiên cứu hoặc phát triển trong các chương trình chính thức như nhiệm vụ chính.
+    "4": Điều phối và thực hiện các chương trình nghiên cứu và phát triển.
+    "5": Khởi xướng và phát triển các chương trình nghiên cứu và phát triển hỗ trợ mục tiêu của tổ chức.
+    "6": Khởi xướng và phát triển các chương trình nghiên cứu và phát triển có tác động vượt ra ngoài tổ chức.
+freedom-to-act:
+  name: Quyền tự chủ hành động
+  description: Mức độ người đảm nhiệm công việc tự quyết định làm gì và làm như thế nào, và công việc của họ được giám sát chặt chẽ đến đâu.
+  levels:
+    "1": Làm việc theo quy trình đã định, có người giám sát ở gần.
+    "2": Làm theo quy trình chuẩn và tiền lệ; thường có người để hỏi; công việc có thể được kiểm tra.
+    "3": Làm theo các chính sách và quy trình đã xác định; công việc được quản lý thay vì giám sát.
+    "4": Kết quả được xác định, nhưng người đảm nhiệm tự quyết định cách đạt được, trong khuôn khổ chính sách chung.
+    "5": Làm việc trong khuôn khổ các chính sách chung, và trong hầu hết trường hợp tự quyết định cách diễn giải chúng.
+    "6": Diễn giải chính sách và chiến lược tổng thể để đặt ra mục tiêu và tiêu chuẩn.
+physical-effort:
+  name: Nỗ lực thể chất
+  description: Nỗ lực thể chất cần thiết, xét theo tần suất, thời gian và cường độ.
+  levels:
+    "1": Ngồi, đứng và đi lại, ít tốn sức.
+    "2": Thường xuyên ngồi hoặc đứng ở tư thế bị hạn chế, hoặc thỉnh thoảng cần sức nhẹ đến vừa.
+    "3": Thường xuyên cần sức nhẹ trong thời gian dài, hoặc thường xuyên cần sức vừa trong thời gian ngắn.
+    "4": Liên tục cần sức nhẹ, thường xuyên cần sức vừa trong thời gian dài, hoặc thỉnh thoảng cần sức nặng.
+    "5": Liên tục cần sức vừa, hoặc thường xuyên cần sức nặng.
+mental-effort:
+  name: Nỗ lực trí tuệ
+  description: Mức độ tập trung cần thiết, xét theo tần suất, thời gian và mức độ dự đoán được của công việc.
+  levels:
+    "1": Chú ý chung; thỉnh thoảng tập trung vào công việc có thể dự đoán.
+    "2": Thường xuyên tập trung vào công việc có thể dự đoán, hoặc thỉnh thoảng tập trung vào công việc khó dự đoán.
+    "3": Thường xuyên tập trung vào công việc khó dự đoán, hoặc thỉnh thoảng phải tập trung kéo dài.
+    "4": Thường xuyên phải tập trung kéo dài, hoặc thỉnh thoảng phải tập trung cao độ.
+    "5": Thường xuyên phải tập trung cao độ.
+emotional-effort:
+  name: Nỗ lực cảm xúc
+  description: Những đòi hỏi về cảm xúc của công việc, do tiếp xúc trực tiếp hoặc gián tiếp với hoàn cảnh gây đau buồn, như đọc hồ sơ ca bệnh đau lòng hoặc xử lý các sự cố nghiêm trọng.
+  levels:
+    "1": Hiếm khi tiếp xúc, hoặc thỉnh thoảng tiếp xúc gián tiếp, với hoàn cảnh gây đau buồn.
+    "2": Thỉnh thoảng tiếp xúc, hoặc thường xuyên tiếp xúc gián tiếp, với hoàn cảnh gây đau buồn.
+    "3": Thường xuyên tiếp xúc với hoàn cảnh gây đau buồn, hoặc thỉnh thoảng tiếp xúc với hoàn cảnh gây đau buồn nghiêm trọng.
+    "4": Thỉnh thoảng tiếp xúc với hoàn cảnh gây sang chấn, hoặc thường xuyên tiếp xúc với hoàn cảnh gây đau buồn nghiêm trọng.
+working-conditions:
+  name: Điều kiện làm việc
+  description: Việc tiếp xúc với điều kiện khó chịu hoặc nguy hiểm. Việc dùng màn hình gần như liên tục trong hầu hết các ngày được tính ở mức 2.
+  levels:
+    "1": Hiếm khi tiếp xúc với điều kiện khó chịu.
+    "2": Thỉnh thoảng gặp điều kiện khó chịu, thường xuyên đi công tác hoặc làm việc ngoài trời, hoặc dùng màn hình gần như liên tục trong hầu hết các ngày.
+    "3": Thường xuyên gặp điều kiện khó chịu, hoặc thỉnh thoảng gặp điều kiện rất khó chịu.
+    "4": Có tiếp xúc với mối nguy hiểm, hoặc thường xuyên gặp điều kiện rất khó chịu.
+    "5": Tiếp xúc đáng kể với mối nguy hiểm.

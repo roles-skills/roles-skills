@@ -1,0 +1,62 @@
+summary: Kỹ sư máy tính người dùng cuối cung cấp, hỗ trợ và bảo trì các thiết bị và phần mềm mà nhân viên dùng hằng ngày, như máy tính xách tay, máy tính để bàn, máy tính bảng, điện thoại di động, máy in và các máy trạm dùng chung tại các khoa phòng và phòng khám. Họ khắc phục lỗi tại chỗ và từ xa, triển khai và cập nhật thiết bị, và giữ cho chúng an toàn và tuân thủ. Công việc của họ giúp bác sĩ lâm sàng và nhân viên chăm sóc có thể xem và ghi thông tin bệnh nhân tại nơi chăm sóc.
+health_context:
+- Nhiều thiết bị được nhân viên lâm sàng dùng chung tại các khoa phòng, phòng khám và khoa cấp cứu, thường với việc chuyển đổi người dùng nhanh và đăng nhập bằng thẻ thông minh hoặc chạm thẻ.
+- Một thiết bị hỏng trong khu vực lâm sàng có thể làm chậm việc chăm sóc, nên các kỹ sư ưu tiên những lỗi đó và chuẩn bị sẵn thiết bị dự phòng để thay.
+- Các kỹ sư làm việc trong khu vực lâm sàng, nên họ tuân thủ các quy tắc phòng ngừa và kiểm soát nhiễm khuẩn, tôn trọng quyền riêng tư và phẩm giá của bệnh nhân, và sắp xếp công việc xoay quanh hoạt động lâm sàng.
+- Thiết bị lưu giữ hoặc hiển thị thông tin bệnh nhân bí mật, nên chúng phải được mã hóa, vá lỗi, quản lý, và xóa sạch hoặc hủy một cách an toàn khi hết vòng đời.
+- Một số thiết bị ngoại vi hỗ trợ quy trình lâm sàng hoặc kết nối với thiết bị lâm sàng, như máy in vòng đeo tay và nhãn, máy quét mã vạch và thiết bị đọc chính tả, nên những thay đổi đối với chúng cần cẩn thận và được kiểm thử.
+levels:
+- title: Kỹ sư máy tính người dùng cuối trợ lý
+  responsibilities:
+  - Thiết lập, thay thế và sửa chữa thiết bị và thiết bị ngoại vi theo chỉ đạo của các kỹ sư có kinh nghiệm.
+  - Khắc phục các lỗi thông thường trong khu vực lâm sàng và văn phòng, như sự cố máy in, máy quét và đăng nhập.
+  - Tuân thủ các quy tắc phòng ngừa và kiểm soát nhiễm khuẩn, và tôn trọng quyền riêng tư của bệnh nhân, khi làm việc tại các khoa phòng và phòng khám.
+  - Ghi chính xác công việc, tài sản và linh kiện vào công cụ quản lý dịch vụ.
+  - Hướng tới chương trình học nghề hỗ trợ CNTT hoặc bằng cấp tương đương.
+  qualifications:
+  - Đang theo học, hoặc đang hướng tới, chương trình học nghề hỗ trợ CNTT hoặc tương đương.
+  job_evaluation_notes: Nỗ lực thể chất phản ánh việc thường xuyên cần sức nhẹ, như mang thiết bị và làm việc dưới bàn và trong không gian hẹp. Kiến thức được chấm ở mức mà công việc đòi hỏi sau khi việc đào tạo đã đủ để làm được công việc.
+- title: Kỹ sư máy tính người dùng cuối
+  responsibilities:
+  - Chẩn đoán và khắc phục lỗi phần cứng và phần mềm tại chỗ và từ xa, nhằm giải quyết ngay trong lần đến đầu tiên.
+  - Phản hồi nhanh các lỗi trong khu vực lâm sàng, và cung cấp thiết bị thay thế khi việc sửa chữa sẽ làm chậm việc chăm sóc.
+  - Xây dựng, triển khai và cập nhật thiết bị bằng các bản dựng chuẩn và công cụ quản lý thiết bị của tổ chức.
+  - Giữ cho thiết bị được vá lỗi, mã hóa và tuân thủ, và xóa sạch hoặc thanh lý chúng một cách an toàn khi hết vòng đời.
+  - Cấu hình và kiểm thử các thiết bị ngoại vi lâm sàng, như máy in vòng đeo tay, máy in nhãn và máy quét mã vạch.
+  - Huấn luyện các kỹ sư trợ lý và chia sẻ cách khắc phục qua các bài viết kiến thức.
+  qualifications:
+  - Có bằng cấp mức 3 trở lên về CNTT, đã hoàn thành chương trình học nghề, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm hỗ trợ các thiết bị người dùng cuối.
+  job_evaluation_notes: Nỗ lực thể chất phản ánh việc thường xuyên cần sức nhẹ khi di chuyển và lắp đặt thiết bị giữa các địa điểm.
+- title: Kỹ sư máy tính người dùng cuối cao cấp
+  responsibilities:
+  - Dẫn dắt hằng ngày một nhóm kỹ sư, ưu tiên công việc theo tác động của chúng đối với việc chăm sóc bệnh nhân và nhân viên.
+  - Lập kế hoạch và thực hiện việc triển khai và làm mới thiết bị cho các khoa phòng, phòng khám và các nhóm cộng đồng, gây gián đoạn việc chăm sóc ít nhất có thể.
+  - Kiểm thử các bản dựng và cập nhật thiết bị với các ứng dụng và thiết bị ngoại vi lâm sàng trước khi triển khai.
+  - Bảo đảm thiết bị đáp ứng các tiêu chuẩn an ninh, gồm mức vá lỗi, mã hóa và bảo vệ thiết bị đầu cuối.
+  - Hỗ trợ việc đưa các hệ thống lâm sàng vào vận hành bằng việc đi lại tại chỗ và sửa nhanh thiết bị.
+  - Làm việc với các nhóm hạ tầng, ứng dụng và an ninh để khắc phục các lỗi phức tạp và lặp lại.
+  qualifications:
+  - Có kinh nghiệm dày dặn về hỗ trợ và quản lý thiết bị người dùng cuối, ở mức tương đương bằng đại học.
+  job_evaluation_notes: Trách nhiệm đối với con người phản ánh việc quản lý hằng ngày một nhóm kỹ sư; nỗ lực thể chất phản ánh một phần công việc tại chỗ vẫn tiếp tục.
+- title: Trưởng nhóm kỹ sư máy tính người dùng cuối
+  responsibilities:
+  - Đề ra tiêu chuẩn cho thiết bị, bản dựng và phần mềm người dùng cuối của tổ chức, kể cả các máy trạm lâm sàng dùng chung.
+  - Quản lý các nhà cung cấp thiết bị, sửa chữa và dịch vụ người dùng cuối, và yêu cầu họ đáp ứng mức độ dịch vụ đã thống nhất.
+  - Làm việc với các kiến trúc sư kỹ thuật để chọn và kiểm thử các loại thiết bị mới, như thiết bị di động cho nhân viên khoa phòng và cộng đồng.
+  - Dẫn dắt phản ứng kỹ thuật đối với các sự cố máy tính người dùng cuối, như bản cập nhật lỗi ảnh hưởng đến các máy trạm lâm sàng.
+  - Lập kế hoạch vòng đời và năng lực của thiết bị, và tư vấn về chi phí làm mới.
+  - Dẫn dắt và phát triển các kỹ sư cao cấp.
+  qualifications:
+  - Có kinh nghiệm sâu rộng về máy tính người dùng cuối, gồm quản lý nhà cung cấp.
+- title: Kỹ sư máy tính người dùng cuối chủ chốt
+  responsibilities:
+  - Làm chủ chiến lược và lộ trình máy tính người dùng cuối, gồm cách nhân viên truy cập các hệ thống lâm sàng tại bệnh viện, phòng khám, nhà bệnh nhân và cộng đồng.
+  - Bảo đảm hệ thống thiết bị hỗ trợ việc truy cập thông tin bệnh nhân an toàn, nhanh chóng tại nơi chăm sóc.
+  - Tư vấn cho các lãnh đạo cấp cao về đầu tư thiết bị, rủi ro, và chi phí làm mới và công nghệ mới.
+  - Dẫn dắt việc ứng phó với các rủi ro thiết bị trên toàn hệ thống, như hệ điều hành hết hỗ trợ và khả năng chống chịu trước mã độc tống tiền.
+  - Dẫn dắt việc bố trí nhân lực, học tập và phát triển cho các nhóm máy tính người dùng cuối.
+  - Làm việc với các đối tác y tế và chăm sóc về tiêu chuẩn thiết bị và truy cập dùng chung.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt máy tính người dùng cuối cho một tổ chức lớn, nhiều địa điểm.
+  job_evaluation_notes: UK GDaD PCF gợi ý Bậc 8c cho cấp này (G6). Tài liệu tham khảo này xếp nó ở Bậc 8b, phù hợp với các vai trò chủ chốt trong các nhóm kỹ thuật khác, vì phạm vi của nó là một lĩnh vực kỹ thuật chứ không phải một ban.

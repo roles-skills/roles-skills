@@ -1,0 +1,26 @@
+summary: Quản lý kiểm thử lập kế hoạch, dẫn dắt và đảm bảo việc kiểm thử cho các dịch vụ và chương trình y tế số của tổ chức. Họ quyết định cần kiểm thử bao nhiêu và loại nào, quản lý các nhóm kiểm thử, môi trường và nhà cung cấp, và cho những người ra quyết định biết rõ những rủi ro nào còn lại trước khi một dịch vụ đi vào vận hành. Trong chăm sóc sức khỏe, điều này bao gồm bảo đảm việc kiểm thử hỗ trợ hồ sơ an toàn lâm sàng và mọi yêu cầu về quy định.
+health_context:
+- Các quyết định đưa hệ thống lâm sàng vào vận hành phụ thuộc vào bằng chứng kiểm thử và rủi ro còn lại, mà quản lý kiểm thử báo cáo cho chủ sở hữu sản phẩm, cán bộ an toàn lâm sàng và các ban chương trình.
+- Các thay đổi lớn, như nâng cấp hồ sơ bệnh nhân điện tử, cần kiểm thử trên nhiều khoa phòng, hệ thống và nhà cung cấp, và thường cần thời gian của nhân viên lâm sàng cho kiểm thử nghiệm thu.
+- Việc kiểm thử phải phù hợp với các dịch vụ lâm sàng, như lập kế hoạch kiểm thử chuyển đổi và diễn tập để giữ mức gián đoạn việc chăm sóc bệnh nhân thấp.
+- Phần mềm chịu quản lý và các thay đổi quan trọng về an toàn cần kiểm thử đáp ứng các tiêu chuẩn như IEC 62304 và quy trình quản lý rủi ro lâm sàng của tổ chức.
+levels:
+- title: Quản lý kiểm thử
+  responsibilities:
+  - Dẫn dắt lập kế hoạch kiểm thử cho một sản phẩm hoặc chương trình, bao gồm môi trường, dữ liệu, công cụ, nguồn lực, tiến độ và rủi ro lâm sàng.
+  - Lập kế hoạch kiểm thử nghiệm thu của người dùng cùng các trưởng nhóm lâm sàng và vận hành, và bảo đảm thời gian của bác sĩ lâm sàng để tham gia.
+  - Quản lý một nhóm chuyên viên phân tích và kỹ sư kiểm thử, kể cả người kiểm thử của nhà cung cấp.
+  - Bảo đảm việc kiểm thử đáp ứng các yêu cầu về an toàn lâm sàng, quản trị thông tin và quy định.
+  - Báo cáo tiến độ kiểm thử, lỗi và rủi ro còn lại cho chủ sở hữu sản phẩm, cán bộ an toàn lâm sàng và các ban chương trình.
+  - Cải thiện quy trình kiểm thử và thống nhất tiêu chuẩn kiểm thử với các nhóm triển khai.
+  qualifications:
+  - Có kinh nghiệm dày dặn về quản lý kiểm thử cho các dịch vụ số phức tạp, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng bộ phận kiểm thử
+  responsibilities:
+  - Đề ra chiến lược, tiêu chuẩn và khung kiểm thử của tổ chức cho các dịch vụ y tế số.
+  - Bảo đảm việc kiểm thử của tổ chức đáp ứng các yêu cầu về an toàn lâm sàng, thiết bị y tế và quy định khác.
+  - Chọn công cụ và công nghệ kiểm thử, và quản lý ngân sách kiểm thử và hợp đồng nhà cung cấp.
+  - Tư vấn cho các lãnh đạo cấp cao về rủi ro chất lượng và an toàn trước các bản phát hành lớn và quyết định đưa vào vận hành.
+  - Dẫn dắt và phát triển các quản lý, chuyên viên phân tích và kỹ sư kiểm thử, và xây dựng năng lực kiểm thử của tổ chức.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kiểm thử trên toàn tổ chức.

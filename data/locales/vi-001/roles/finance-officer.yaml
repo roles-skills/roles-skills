@@ -1,0 +1,59 @@
+summary: Cán bộ tài chính giữ cho tài chính hằng ngày của tổ chức chính xác và được kiểm soát. Họ xử lý và ghi nhận hóa đơn, thanh toán, thu nhập và bút toán nhật ký, đối chiếu sổ cái và tài khoản ngân hàng, và giúp những người quản lý ngân sách và nhà cung cấp với các thắc mắc của họ. Trong một tổ chức chăm sóc sức khỏe số, phần lớn công việc này liên quan đến nhà cung cấp công nghệ, giấy phép phần mềm và dịch vụ đám mây, thường được chi trả từ nguồn tài trợ công với quy tắc chặt chẽ về cách chi tiêu.
+health_context:
+- Tổ chức chi tiêu tiền công, nên mọi khoản thanh toán phải được phê duyệt đúng, ghi nhận và có thể chịu được kiểm toán.
+- Nhiều hóa đơn là cho giấy phép phần mềm, lưu trữ đám mây và hợp đồng hỗ trợ, cần được kiểm tra theo điều khoản hợp đồng, mức sử dụng và mã chi phí vốn hoặc thường xuyên đúng.
+- Thanh toán kịp thời và chính xác là quan trọng, vì các nhà cung cấp nhỏ và đơn vị cung cấp dịch vụ chăm sóc có thể phụ thuộc vào đó.
+- Nhân viên tài chính thấy thông tin cá nhân, như chi phí của nhân viên và các khoản chi trả cho bệnh nhân hoặc đơn vị cung cấp dịch vụ chăm sóc, và phải xử lý theo các quy tắc quản trị thông tin.
+- Các rủi ro gian lận, như yêu cầu giả để thay đổi thông tin ngân hàng của nhà cung cấp, nhắm vào các cơ quan công, nên các cán bộ tuân theo các kiểm tra nghiêm ngặt.
+levels:
+- title: Trợ lý tài chính
+  summary: Trợ lý tài chính xử lý các giao dịch tài chính thường lệ, như hóa đơn nhà cung cấp, biên lai và yêu cầu hoàn chi phí, theo các quy trình đã định với sự giám sát ở gần.
+  responsibilities:
+  - Nhập chính xác hóa đơn nhà cung cấp, giấy báo có và biên lai vào hệ thống tài chính.
+  - Đối chiếu hóa đơn với đơn đặt hàng và phiếu nhận hàng, và thúc giục các phê duyệt còn thiếu.
+  - Kiểm tra các yêu cầu hoàn chi phí của nhân viên theo chính sách và biên lai kèm theo.
+  - Trả lời các thắc mắc thường lệ từ nhà cung cấp và nhân viên qua điện thoại và email.
+  - Lưu trữ và quét các tài liệu tài chính để có thể tìm thấy khi kiểm toán.
+  - Tuân theo các quy trình tài chính và quy tắc quản trị thông tin, và báo cáo bất cứ điều gì bất thường.
+  qualifications:
+  - Có kỹ năng tính toán và gõ bàn phím tốt, có được qua giáo dục hoặc kinh nghiệm làm việc.
+  - Sẵn sàng hướng tới bằng cấp kế toán sơ cấp, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Kỹ năng thể chất ở mức 3 cho tốc độ và độ chính xác của việc nhập dữ liệu khối lượng lớn. Nguồn lực tài chính ở mức 2 vì công việc xử lý thông tin thanh toán và kiểm tra các yêu cầu nhỏ.
+- title: Cán bộ tài chính
+  summary: Cán bộ tài chính vận hành một phần của chu trình giao dịch, như các khoản phải trả, phải thu hoặc tiền mặt, giải quyết các vấn đề không thường lệ và đối chiếu sổ cái của mình.
+  responsibilities:
+  - Xử lý nhiều loại giao dịch, kể cả đợt chi trả, hoàn tiền, hóa đơn bán hàng và bút toán nhật ký.
+  - Đối chiếu sao kê nhà cung cấp, tài khoản ngân hàng và tài khoản kiểm soát, và xóa các chênh lệch.
+  - Kiểm tra hóa đơn công nghệ có khớp với điều khoản hợp đồng, như số lượng giấy phép và kỳ thanh toán hay không.
+  - Thực hiện các kiểm tra khi thay đổi thông tin ngân hàng của nhà cung cấp và các kiểm soát chống gian lận khác.
+  - Thúc giục các khoản nợ quá hạn và giải quyết các hóa đơn tranh chấp với nhà cung cấp và người quản lý ngân sách.
+  - Hướng dẫn các trợ lý tài chính mới cách làm các nhiệm vụ thường lệ.
+  qualifications:
+  - Có bằng cấp kế toán sơ cấp, hoặc kinh nghiệm tương đương về xử lý tài chính.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 3 vì công việc lập và phát hành các đợt chi trả và phê duyệt thanh toán trong các giới hạn đã định.
+- title: Cán bộ tài chính cao cấp
+  summary: Cán bộ tài chính cao cấp xử lý các nghiệp vụ tài chính và đối chiếu phức tạp hơn, hỗ trợ khóa sổ cuối tháng và cuối năm, và giúp những người quản lý ngân sách hiểu chi tiêu của họ.
+  responsibilities:
+  - Lập các bút toán cuối tháng, như chi phí trích trước và chi phí trả trước cho các hợp đồng phần mềm và hỗ trợ hằng năm.
+  - Điều tra và xóa các khoản đối chiếu phức tạp và số dư tồn đọng lâu ngày.
+  - Lập tờ khai thuế bán hàng và bảng đối chiếu dưới sự giám sát.
+  - Lập các báo cáo ngân sách chuẩn và giải thích cho những người quản lý ngân sách.
+  - Kiểm tra chi tiêu được hạch toán đúng giữa chi phí vốn và chi phí thường xuyên, và nêu câu hỏi với các kế toán viên.
+  - Giám sát và kiểm tra hằng ngày công việc của các cán bộ và trợ lý tài chính.
+  - Đề xuất cải tiến các quy trình tài chính và quy trình làm việc của hệ thống.
+  qualifications:
+  - Có bằng cấp kế toán trung cấp, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm về xử lý và đối chiếu tài chính.
+- title: Trưởng nhóm tài chính
+  summary: Trưởng nhóm tài chính quản lý một nhóm tài chính giao dịch hoặc làm việc như chuyên viên phân tích tài chính, bảo đảm các quy trình chính xác, được kiểm soát và hiệu quả, và báo cáo sẵn sàng đúng hạn.
+  responsibilities:
+  - Dẫn dắt một nhóm tài chính giao dịch, lập kế hoạch công việc để đáp ứng các thời hạn về thanh toán, nợ và khóa sổ cuối tháng.
+  - Quản lý một sổ cái hoặc quy trình tài chính, và báo cáo hiệu quả của nó, như thời gian thanh toán và nợ tồn đọng.
+  - Kiểm thử và cải thiện các kiểm soát tài chính, và cung cấp bằng chứng cho kiểm toán viên nội bộ và bên ngoài.
+  - Lập bảng đối chiếu bảng cân đối kế toán và giấy tờ làm việc cho báo cáo tài chính năm.
+  - Cải thiện quy trình, ví dụ bằng cách tự động hóa việc khớp hóa đơn hoặc đưa vào tự phục vụ cho những người quản lý ngân sách.
+  - Đào tạo, hỗ trợ và rà soát công việc của nhân viên trong nhóm.
+  qualifications:
+  - Có bằng cấp kế toán trung cấp hoặc nâng cao, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm dẫn dắt hoặc điều phối các quy trình tài chính.
+  job_evaluation_notes: Con người ở mức 3 vì công việc quản lý hằng ngày một nhóm tài chính nhỏ. Một chuyên viên phân tích tài chính ở bậc này sẽ có con người ở mức 2 và phân tích ở mức 4.

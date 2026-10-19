@@ -182,3 +182,7 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Native speaker review of sw-tz
 - [x] sw-001 (Kiswahili (dunia), Swahili): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of sw-001
+- [x] vi-vn (Tiếng Việt, Vietnamese): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of vi-vn
+- [x] vi-001 (Tiếng Việt (thế giới), Vietnamese): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of vi-001

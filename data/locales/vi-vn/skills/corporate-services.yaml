@@ -1,0 +1,260 @@
+# Bản dịch tiếng Việt của data/skills/corporate-services.yaml. Khóa là mã kỹ năng tiếng Anh.
+corp-administration:
+  name: Hành chính văn phòng
+  description: Vận hành các quy trình hành chính giúp một nhóm hoặc dịch vụ hoạt động, như lưu trữ hồ sơ, đặt hàng, nhập dữ liệu, quản lý hồ sơ và tuân theo các quy trình văn phòng.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tuân theo các quy trình văn phòng về lưu trữ, đặt hàng và nhập dữ liệu
+      - lưu giữ hồ sơ chính xác về công việc của bạn
+    working: |
+      Bạn có thể:
+      - vận hành nhiều quy trình hành chính cho một nhóm với ít sự giám sát
+      - phát hiện và sửa lỗi trong hồ sơ và dữ liệu
+      - đề xuất các cách làm việc đơn giản hơn
+    practitioner: |
+      Bạn có thể:
+      - tổ chức hỗ trợ hành chính cho một dịch vụ hoặc một ban
+      - viết và cải thiện các quy trình hành chính
+      - đào tạo và kiểm tra công việc của các nhân viên hành chính khác
+    expert: |
+      Bạn có thể:
+      - thiết kế các dịch vụ hành chính trong toàn tổ chức
+      - dẫn dắt việc chuyển sang các quy trình hành chính đơn giản hơn và dạng số
+corp-office-software:
+  name: Công cụ văn phòng số
+  description: Sử dụng xử lý văn bản, bảng tính, bản trình chiếu, email, tài liệu dùng chung và các công cụ cộng tác một cách nhanh chóng và chính xác.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tạo và chỉnh sửa tài liệu, email và bảng tính đơn giản
+      - lưu trữ và chia sẻ tệp ở đúng nơi
+    working: |
+      Bạn có thể:
+      - tạo nhanh và chính xác các tài liệu và bản trình chiếu có định dạng tốt
+      - dùng bảng tính để sắp xếp, lọc và tóm tắt dữ liệu
+      - dùng các công cụ cộng tác để quản lý tài liệu dùng chung và các phiên bản
+    practitioner: |
+      Bạn có thể:
+      - xây dựng mẫu, bảng theo dõi và các quy trình tự động đơn giản
+      - làm cho tài liệu dễ tiếp cận với mọi người
+      - giúp đồng nghiệp khai thác tối đa các công cụ văn phòng
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn cho mẫu, quản lý tài liệu và các công cụ cộng tác
+      - dẫn dắt việc áp dụng các công cụ văn phòng mới trong toàn tổ chức
+corp-diary-and-meeting-management:
+  name: Quản lý lịch và cuộc họp
+  description: Quản lý lịch, cuộc họp và việc đi lại để thời gian của mọi người được sử dụng hiệu quả và các cuộc họp có đúng người, tài liệu và phòng.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - đặt cuộc họp và phòng bằng các công cụ của tổ chức
+      - gửi thư mời và tài liệu đúng hạn
+    working: |
+      Bạn có thể:
+      - quản lý lịch cho một nhóm, giải quyết các xung đột lịch
+      - sắp xếp việc đi lại, sự kiện và các cuộc họp với đối tác bên ngoài
+      - bảo đảm tài liệu và các hành động đã sẵn sàng trước các cuộc họp
+    practitioner: |
+      Bạn có thể:
+      - quản lý lịch của một lãnh đạo cấp cao, cùng họ đặt thứ tự ưu tiên
+      - quyết định việc nào cần thời gian của họ và việc nào người khác có thể xử lý
+      - lập kế hoạch chu kỳ họp hằng năm cho một hội đồng hoặc nhóm lãnh đạo
+    expert: |
+      Bạn có thể:
+      - vận hành chu trình công việc cho một ban điều hành
+      - bảo đảm thời gian của các lãnh đạo cấp cao tập trung vào các ưu tiên của tổ chức
+corp-minute-taking:
+  name: Lập biên bản và hồ sơ cuộc họp
+  description: Ghi lại các cuộc thảo luận, quyết định và hành động một cách chính xác và súc tích, và lưu giữ hồ sơ chính thức của cuộc họp.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - ghi chú các hành động và quyết định trong các cuộc họp của nhóm
+    working: |
+      Bạn có thể:
+      - viết biên bản và nhật ký hành động chính xác, súc tích cho các cuộc họp thường lệ
+      - theo dõi các hành động cùng những người phụ trách
+    practitioner: |
+      Bạn có thể:
+      - lập biên bản chính thức cho các cuộc họp của hội đồng và ủy ban, kể cả các cuộc thảo luận phức tạp hoặc gây tranh cãi
+      - lưu giữ hồ sơ cuộc họp chính thức đủ sức chịu được kiểm toán và điều tra
+      - tư vấn cho chủ tọa về những gì hồ sơ nên thể hiện
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn về hồ sơ cuộc họp chính thức trong toàn tổ chức
+      - đào tạo và kiểm tra chất lượng những người lập biên bản
+corp-correspondence-management:
+  name: Xử lý thư từ và yêu cầu
+  description: Xử lý thư, email, cuộc gọi và yêu cầu một cách kịp thời và lịch sự, và chuyển chúng đến đúng người.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - trả lời cuộc gọi và email một cách lịch sự và ghi lại tin nhắn chính xác
+      - chuyển các yêu cầu đến đúng người
+    working: |
+      Bạn có thể:
+      - tự xử lý thư từ và yêu cầu thường lệ
+      - soạn thảo thư và phản hồi để người khác ký
+      - lưu nhật ký thư từ và thúc giục phản hồi
+    practitioner: |
+      Bạn có thể:
+      - quản lý thư từ cho một lãnh đạo cấp cao, kể cả các thư nhạy cảm và thư khiếu nại
+      - soạn thảo các phản hồi cần sự khéo léo, chính xác và phán đoán
+      - bảo đảm các phản hồi đáp ứng thời hạn
+    expert: |
+      Bạn có thể:
+      - đề ra quy trình và tiêu chuẩn cho thư từ của ban điều hành
+      - xử lý các thư từ nhạy cảm nhất, kể cả với cơ quan quản lý, đối tác và truyền thông
+corp-pmo-reporting:
+  name: Hỗ trợ văn phòng dự án và danh mục
+  description: Vận hành các quy trình của văn phòng dự án và danh mục, như kế hoạch, sổ đăng ký, báo cáo, kiểm soát tài liệu và các kiểm tra đảm bảo.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giữ tài liệu dự án ở đúng nơi, có kiểm soát phiên bản
+      - cập nhật nhật ký hành động, rủi ro và vấn đề khi được yêu cầu
+    working: |
+      Bạn có thể:
+      - duy trì kế hoạch, sổ đăng ký và bảng theo dõi cho nhiều dự án
+      - thu thập cập nhật và lập báo cáo tình hình định kỳ
+      - kiểm tra các dự án có tuân theo phương pháp đã thống nhất hay không
+    practitioner: |
+      Bạn có thể:
+      - thiết kế báo cáo danh mục và phân tích tiến độ, rủi ro và lợi ích giữa các dự án
+      - thực hiện các kiểm tra đảm bảo và rà soát cổng
+      - tư vấn cho các quản lý dự án về phương pháp và kiểm soát
+    expert: |
+      Bạn có thể:
+      - thiết lập và dẫn dắt văn phòng danh mục cho tổ chức
+      - cung cấp cho các lãnh đạo cấp cao cái nhìn rõ ràng, đáng tin cậy về danh mục
+      - đề ra tiêu chuẩn và công cụ quản lý dự án và danh mục
+corp-assurance-and-audit:
+  name: Phối hợp đảm bảo và kiểm toán
+  description: Thu thập sự đảm bảo rằng các biện pháp kiểm soát hoạt động hiệu quả, hỗ trợ các cuộc kiểm toán nội bộ và bên ngoài, và theo dõi các khuyến nghị kiểm toán cho đến khi hoàn thành.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích kiểm toán và đảm bảo hoạt động như thế nào trong tổ chức
+      - cung cấp bằng chứng khi được yêu cầu
+    working: |
+      Bạn có thể:
+      - điều phối bằng chứng cho các cuộc kiểm toán và thanh tra
+      - theo dõi các khuyến nghị kiểm toán và thúc giục các hành động quá hạn
+    practitioner: |
+      Bạn có thể:
+      - lập kế hoạch ánh xạ đảm bảo trên các rủi ro chính của tổ chức
+      - làm việc với các kiểm toán viên nội bộ và bên ngoài để thống nhất phạm vi và phát hiện
+      - báo cáo các khoảng trống về đảm bảo cho các ủy ban
+    expert: |
+      Bạn có thể:
+      - thiết kế khung đảm bảo của tổ chức
+      - tư vấn cho ủy ban kiểm toán và hội đồng về độ mạnh của sự đảm bảo
+corp-policy-management:
+  name: Quản lý chính sách
+  description: Soạn thảo, rà soát, phê duyệt và công bố các chính sách và quy trình của tổ chức, và kiểm tra mọi người có tuân theo hay không.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tìm và tuân theo các chính sách áp dụng cho công việc của bạn
+    working: |
+      Bạn có thể:
+      - cập nhật sổ đăng ký chính sách và nhắc những người phụ trách về các kỳ rà soát
+      - kiểm tra chính sách dùng đúng mẫu và quy trình phê duyệt
+    practitioner: |
+      Bạn có thể:
+      - soạn thảo và rà soát chính sách cùng các chuyên gia trong lĩnh vực
+      - đối chiếu chính sách với pháp luật, tiêu chuẩn và nghĩa vụ về bình đẳng
+      - giám sát việc tuân thủ và báo cáo các khoảng trống
+    expert: |
+      Bạn có thể:
+      - đề ra khung chính sách cho tổ chức
+      - tư vấn cho hội đồng về các ưu tiên và rủi ro về chính sách
+corp-internal-communications:
+  name: Truyền thông nội bộ
+  description: Giữ cho nhân viên được thông tin và gắn kết thông qua các kênh như mạng nội bộ, bản tin, buổi thông báo và sự kiện, đặc biệt trong thời kỳ thay đổi.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - đăng nội dung trên các kênh nội bộ như mạng nội bộ
+      - tuân theo phong cách và giọng điệu của tổ chức
+    working: |
+      Bạn có thể:
+      - viết và biên tập tin tức, thông báo và bản tin cho nhân viên
+      - lập kế hoạch nội dung cho các kênh nội bộ và đo lường mức độ tương tác
+    practitioner: |
+      Bạn có thể:
+      - lập kế hoạch truyền thông nội bộ cho những thay đổi lớn, như một hệ thống lâm sàng mới
+      - tư vấn cho các lãnh đạo về cách thu hút nhân viên và xử lý các thông điệp khó
+      - dùng phản hồi và dữ liệu để cải thiện các kênh
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược truyền thông nội bộ và gắn kết nhân viên
+      - tư vấn cho ban điều hành về văn hóa và sự gắn kết
+corp-media-relations:
+  name: Quan hệ báo chí
+  description: Xây dựng quan hệ với các nhà báo, xử lý các yêu cầu của báo chí, viết thông cáo báo chí và chuẩn bị người phát ngôn, kể cả khi có sự cố.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích tổ chức xử lý các yêu cầu của báo chí như thế nào
+      - chuyển ngay các yêu cầu của báo chí cho nhóm truyền thông
+    working: |
+      Bạn có thể:
+      - ghi nhận và trả lời các yêu cầu thường lệ của báo chí
+      - soạn thảo thông cáo báo chí và tuyên bố để phê duyệt
+      - theo dõi việc đưa tin của báo chí
+    practitioner: |
+      Bạn có thể:
+      - xử lý các yêu cầu nhạy cảm và mang tính ứng phó của báo chí, kể cả về sự cố hoặc vi phạm dữ liệu
+      - cung cấp thông tin và chuẩn bị cho người phát ngôn
+      - xây dựng quan hệ với các nhà báo về y tế và công nghệ
+    expert: |
+      Bạn có thể:
+      - dẫn dắt việc làm việc với báo chí trong các sự cố và khủng hoảng lớn
+      - bảo vệ và xây dựng danh tiếng của tổ chức với các bên liên quan cấp cao
+      - tư vấn cho hội đồng về rủi ro danh tiếng
+corp-communications-strategy:
+  name: Chiến lược và kế hoạch truyền thông
+  description: Lập kế hoạch truyền thông và các chiến dịch đáp ứng mục tiêu của tổ chức, dựa trên hiểu biết về đối tượng, và đánh giá tác động của chúng.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích mục tiêu của một kế hoạch truyền thông mà bạn đang thực hiện
+    working: |
+      Bạn có thể:
+      - viết kế hoạch truyền thông cho các dự án, với đối tượng, thông điệp và kênh
+      - đo lường kết quả của hoạt động truyền thông
+    practitioner: |
+      Bạn có thể:
+      - lập kế hoạch các chiến dịch thay đổi hành vi, như khuyến khích bệnh nhân dùng một dịch vụ số
+      - dùng hiểu biết về đối tượng và đánh giá để cải thiện các chiến dịch
+      - lập kế hoạch truyền thông cho các sự cố và gián đoạn dịch vụ
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược truyền thông cho tổ chức
+      - dẫn dắt truyền thông trong khủng hoảng
+      - tư vấn cho hội đồng về danh tiếng và việc thu hút các bên liên quan
+corp-digital-and-social-media:
+  name: Truyền thông số và mạng xã hội
+  description: Lập kế hoạch, đăng tải và quản lý nội dung trên các trang web và mạng xã hội, tương tác với đối tượng và đo lường kết quả.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - đăng nội dung đã được phê duyệt trên các kênh của tổ chức
+      - tuân theo chính sách về mạng xã hội
+    working: |
+      Bạn có thể:
+      - lập kế hoạch và đăng nội dung cho các trang web và mạng xã hội
+      - trả lời bình luận và phát hiện các vấn đề cần báo cáo lên cấp trên
+      - báo cáo hiệu quả của các kênh
+    practitioner: |
+      Bạn có thể:
+      - quản lý các kênh số của tổ chức và kế hoạch nội dung của chúng
+      - xử lý các bài đăng tiêu cực hoặc sai lệch, kể cả khi có sự cố
+      - dùng phân tích để cải thiện phạm vi tiếp cận và mức độ tương tác
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược và quản trị cho các kênh số của tổ chức
+      - dẫn dắt việc ứng phó với các rủi ro danh tiếng trực tuyến

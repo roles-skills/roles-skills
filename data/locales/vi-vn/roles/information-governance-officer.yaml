@@ -1,0 +1,67 @@
+summary: Nhân viên quản trị thông tin giúp tổ chức xử lý thông tin cá nhân và thông tin y tế một cách hợp pháp, an toàn và có đạo đức. Họ tư vấn cho các nhóm về bảo vệ dữ liệu và bảo mật, xử lý các yêu cầu về quyền thông tin, hỗ trợ các đánh giá tác động bảo vệ dữ liệu, quản lý các vụ vi phạm dữ liệu, và thu thập bằng chứng chứng minh tổ chức đáp ứng các tiêu chuẩn quản trị thông tin.
+health_context:
+- Luật bảo vệ dữ liệu bảo vệ thêm cho thông tin y tế, nên yêu cầu về sử dụng hợp pháp, an ninh và minh bạch là cao.
+- Các dịch vụ y tế số thường chia sẻ dữ liệu giữa nhiều tổ chức chăm sóc, nên các thỏa thuận chia sẻ thông tin và luồng dữ liệu cần được rà soát cẩn thận.
+- Bệnh nhân và công chúng có quyền hợp pháp tiếp cận hồ sơ của họ và thông tin của tổ chức, với thời hạn nghiêm ngặt.
+- Các vụ vi phạm dữ liệu liên quan đến thông tin y tế có thể gây tổn hại và đau buồn thực sự, nên sự cố cần được xử lý nhanh chóng, cẩn thận.
+- Những cách dùng dữ liệu mới, như phân tích, nghiên cứu và AI, đặt ra câu hỏi về sự đồng ý, bảo mật và niềm tin của công chúng.
+levels:
+- title: Cán bộ quản trị thông tin
+  summary: Hỗ trợ nhóm quản trị thông tin về các yêu cầu quyền thông tin, ghi nhận sự cố, hồ sơ đào tạo và thu thập bằng chứng, theo các quy trình đã định.
+  responsibilities:
+  - Ghi nhận, xác nhận đã nhận và theo dõi các yêu cầu về quyền thông tin, và thu thập thông tin cho các phản hồi.
+  - Ghi nhận các vụ vi phạm dữ liệu và suýt xảy ra, và thu thập các sự việc để rà soát.
+  - Cập nhật các sổ đăng ký quản trị thông tin, như sổ đăng ký tài sản thông tin và bản đồ luồng dữ liệu.
+  - Thu thập bằng chứng cho cuộc tự đánh giá quản trị thông tin hằng năm.
+  - Theo dõi việc nhân viên hoàn thành đào tạo quản trị thông tin.
+  - Trả lời các câu hỏi quản trị thông tin thường lệ từ nhân viên.
+  qualifications:
+  - Có kinh nghiệm làm công việc hành chính hoặc hồ sơ, hoặc bằng cấp nền tảng về bảo vệ dữ liệu hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Nỗ lực cảm xúc phản ánh việc thường xuyên tiếp xúc gián tiếp với nội dung gây đau buồn trong các yêu cầu, hồ sơ và báo cáo vi phạm.
+- title: Cán bộ quản trị thông tin cao cấp
+  summary: Xử lý một khối lượng các yêu cầu về quyền thông tin và sự cố, và hỗ trợ các nhóm về đánh giá tác động bảo vệ dữ liệu và chia sẻ thông tin.
+  responsibilities:
+  - Xử lý các yêu cầu về quyền thông tin, kể cả che thông tin và áp dụng các trường hợp miễn trừ, trong thời hạn luật định.
+  - Đánh giá và điều tra các vụ vi phạm dữ liệu và suýt xảy ra, và theo dõi các hành động cho đến khi đóng.
+  - Giúp các nhóm dự án hoàn thành đánh giá tác động bảo vệ dữ liệu và mô tả luồng dữ liệu.
+  - Soạn thảo các thỏa thuận chia sẻ thông tin và thông báo về quyền riêng tư để rà soát.
+  - Tổ chức đào tạo và thông báo về quản trị thông tin cho nhân viên.
+  - Thực hiện kiểm toán truy cập và lưu trữ hồ sơ.
+  qualifications:
+  - Có bằng cấp được công nhận về bảo vệ dữ liệu hoặc quản trị thông tin, hoặc kinh nghiệm tương đương.
+- title: Trưởng nhóm quản trị thông tin
+  summary: Đưa ra tư vấn chuyên môn về quản trị thông tin cho một ban hoặc chương trình, dẫn dắt các đánh giá tác động bảo vệ dữ liệu và các vụ việc phức tạp.
+  responsibilities:
+  - Tư vấn cho các nhóm sản phẩm và dịch vụ về cơ sở pháp lý, sự đồng ý, bảo mật và thời hạn lưu giữ.
+  - Rà soát các đánh giá tác động bảo vệ dữ liệu cho các hệ thống phức tạp và đề xuất biện pháp kiểm soát.
+  - Xử lý các yêu cầu về quyền thông tin phức tạp hoặc gây tranh cãi và các đợt xem xét nội bộ.
+  - Điều tra các vụ vi phạm dữ liệu nghiêm trọng và đề xuất có thông báo cho cơ quan quản lý hay không.
+  - Rà soát các thỏa thuận chia sẻ thông tin với các tổ chức đối tác.
+  - Giám sát và huấn luyện các cán bộ quản trị thông tin.
+  qualifications:
+  - Có bằng cấp nghề nghiệp được công nhận về bảo vệ dữ liệu hoặc quản trị thông tin, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm tư vấn về bảo vệ dữ liệu trong môi trường y tế hoặc chăm sóc.
+- title: Quản lý quản trị thông tin
+  summary: Quản lý hằng ngày dịch vụ quản trị thông tin, gồm nhóm, các vụ việc, chương trình đảm bảo và đào tạo của dịch vụ.
+  responsibilities:
+  - Quản lý nhóm quản trị thông tin và các vụ việc của nhóm, bảo đảm đáp ứng thời hạn luật định.
+  - Lập kế hoạch và vận hành chương trình đảm bảo quản trị thông tin và cuộc tự đánh giá hằng năm.
+  - Viết và rà soát các chính sách và quy trình quản trị thông tin.
+  - Tư vấn cho các quản lý cấp cao về rủi ro thông tin và duy trì sổ đăng ký rủi ro thông tin.
+  - Dẫn dắt việc ứng phó với các sự cố nghiêm trọng, phối hợp với các đồng nghiệp về an ninh, an toàn lâm sàng và truyền thông.
+  - Thiết kế và giám sát đào tạo quản trị thông tin cho toàn bộ nhân viên.
+  qualifications:
+  - Có bằng cấp nghề nghiệp được công nhận về bảo vệ dữ liệu hoặc quản trị thông tin, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm dày dặn về quản trị thông tin trong y tế hoặc chăm sóc.
+- title: Trưởng bộ phận quản trị thông tin
+  summary: Dẫn dắt quản trị thông tin cho tổ chức, đề ra chính sách và chiến lược và tư vấn cho các lãnh đạo cấp cao về rủi ro thông tin và tuân thủ.
+  responsibilities:
+  - Đề ra chiến lược, chính sách và khung quản trị thông tin cho tổ chức.
+  - Dẫn dắt các dịch vụ quản trị thông tin và hồ sơ và phát triển nhân viên của các dịch vụ này.
+  - Tư vấn cho lãnh đạo điều hành về rủi ro thông tin, hội đồng và các ủy ban của hội đồng về rủi ro thông tin và tuân thủ.
+  - Đưa ra các quyết định cuối cùng về các câu hỏi phức tạp về tiết lộ, chia sẻ và thông báo vi phạm.
+  - Đại diện tổ chức với cơ quan quản lý, kiểm toán viên và các tổ chức đối tác.
+  - Bảo đảm các dịch vụ số, cách dùng dữ liệu và AI mới được thiết kế với quyền riêng tư và tính minh bạch ngay từ đầu.
+  qualifications:
+  - Có bằng cấp nghề nghiệp được công nhận về bảo vệ dữ liệu hoặc quản trị thông tin, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt quản trị thông tin trong y tế hoặc chăm sóc.

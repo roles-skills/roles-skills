@@ -1,0 +1,27 @@
+summary: Kỹ sư học máy lấy các mô hình do nhà khoa học dữ liệu xây dựng, hoặc mua từ nhà cung cấp, và làm cho chúng hoạt động đáng tin cậy trong các dịch vụ y tế và chăm sóc đang vận hành. Họ xây dựng các đường ống huấn luyện, kiểm thử, triển khai và giám sát mô hình, và tích hợp chúng với các hệ thống lâm sàng và vận hành. Họ bảo đảm các mô hình luôn an toàn, bảo mật, công bằng và hiệu quả khi bệnh nhân và nhân viên thực sự dựa vào chúng.
+health_context:
+- Các mô hình đang được sử dụng có thể trôi dạt khi nhóm dân số bệnh nhân, thực hành lâm sàng hoặc thói quen ghi chép thay đổi, nên hiệu quả được giám sát cho từng nhóm bệnh nhân và các mô hình được huấn luyện lại hoặc ngừng sử dụng khi cần.
+- Một mô hình cung cấp thông tin cho chẩn đoán, phân loại hoặc điều trị có thể bị quản lý như thiết bị y tế, điều này kéo theo các yêu cầu chính thức về vòng đời phần mềm, kiểm soát thay đổi và giám sát sau khi đưa ra thị trường.
+- Các hồ sơ an toàn lâm sàng cần bằng chứng về cách mô hình thất bại, cách kết quả của nó được hiển thị cho bác sĩ lâm sàng, và điều gì xảy ra khi nó không sẵn sàng.
+- Các mô hình được huấn luyện trên dữ liệu bệnh nhân có thể làm rò rỉ thông tin về từng cá nhân, nên dữ liệu huấn luyện, tạo phẩm mô hình và nhật ký được bảo vệ như chính dữ liệu.
+- AI tạo sinh và các mô hình ngôn ngữ lớn mang thêm các rủi ro, như nội dung bịa đặt trong ghi chú lâm sàng, cần kiểm thử cụ thể và sự giám sát của con người.
+levels:
+- title: Kỹ sư học máy cao cấp
+  responsibilities:
+  - Triển khai các mô hình vào các dịch vụ lâm sàng và vận hành đang vận hành, với kiểm thử tự động, quản lý phiên bản và quay lui.
+  - Xây dựng giám sát hiệu quả mô hình, sự trôi dạt và tính công bằng giữa các nhóm bệnh nhân, với cảnh báo và người phụ trách rõ ràng.
+  - Tích hợp các mô hình với các hệ thống lâm sàng, dùng các tiêu chuẩn mở như HL7 FHIR khi có thể.
+  - Lập bằng chứng về kiểm thử, thay đổi và giám sát cần cho các hồ sơ an toàn lâm sàng và hồ sơ kỹ thuật của thiết bị y tế.
+  - Đánh giá và điều chỉnh các mô hình của nhà cung cấp và mã nguồn mở để dùng tại địa phương, kể cả các mô hình AI tạo sinh.
+  - Huấn luyện các nhà khoa học dữ liệu và kỹ sư về thực hành kỹ thuật học máy.
+  qualifications:
+  - Có kinh nghiệm dày dặn về xây dựng và vận hành các hệ thống học máy trong môi trường vận hành, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng nhóm kỹ sư học máy
+  responsibilities:
+  - Dẫn dắt công việc phức tạp nhất để đưa các mô hình từ nghiên cứu vào sử dụng an toàn trong toàn tổ chức.
+  - Xác định vòng đời học máy, gồm các biện pháp kiểm soát cần thiết cho các mô hình chịu quản lý và quan trọng về an toàn.
+  - Đề ra tiêu chuẩn cho kiểm thử, giám sát, an ninh và đạo đức của mô hình, và đảm bảo các mô hình đang được sử dụng.
+  - Làm việc với cán bộ an toàn lâm sàng, quản trị thông tin và các chuyên gia về quy định để thống nhất cách các mô hình được đánh giá và phê duyệt.
+  - Xác định nhu cầu đào tạo và phát triển các kỹ sư học máy và các vai trò liên quan.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật học máy cho các dịch vụ phức tạp hoặc chịu quản lý.
