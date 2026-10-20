@@ -1,0 +1,47 @@
+summary: Testanalytikere i kvalitetssikring kontrollerer, at organisationens digitale sundhedsservices gør det, patienter, klinikere og plejepersonale har brug for, sikkert og pålideligt. De analyserer krav og design for at finde risici tidligt, designer og gennemfører funktionelle og ikkefunktionelle tests og rapporterer fejl klart. I sundhedsvæsenet omfatter det test af kliniske arbejdsgange, datanøjagtighed og de kontroller, der beskytter patienter mod skade.
+health_context:
+- Fejl i kliniske systemer kan skade patienter, for eksempel gennem en forkert medicindosis, et overset svar eller en journal vist for den forkerte patient, så test prioriteres efter klinisk risiko.
+- Test giver dokumentation til kliniske sikkerhedsbegrundelser og fareregistre, så testplaner kan spores til identificerede farer og deres kontroller.
+- Testdata må aldrig afsløre rigtige patienter, så analytikerne bruger syntetiske eller korrekt afidentificerede testdata.
+- Mange services udveksler data med andre sundheds- og plejesystemer, så tests kontrollerer meddelelser mod standarder som HL7 FHIR og betydningen af kliniske koder.
+- Brugerne omfatter klinikere under tidspres, patienter med en bred vifte af behov og brugere af hjælpeteknologi, så test af brugbarhed og tilgængelighed er vigtig.
+levels:
+- title: Associeret testanalytiker i kvalitetssikring
+  responsibilities:
+  - Køre testscripts for kliniske og administrative arbejdsgange under supervision og registrere resultaterne nøjagtigt.
+  - Oprette klare fejlrapporter, herunder trin, data og skærmbilleder.
+  - Bruge syntetiske testdata og aldrig bruge rigtige patientdata i testmiljøer.
+  - Lære teamets testtilgange, værktøjer og processen for klinisk sikkerhed.
+  - Deltage i teamets ceremonier, såsom stand-ups, planlægning og retrospektiver.
+  qualifications:
+  - Gode analytiske og skriftlige færdigheder og noget erfaring med test eller arbejde med digitale systemer, eller tilsvarende.
+- title: Testanalytiker i kvalitetssikring
+  responsibilities:
+  - Analysere brugerhistorier, design og kliniske arbejdsgange for at afgøre, hvad der skal testes, ud fra risikoen for patienter og services.
+  - Designe og gennemføre funktionelle tests, tilgængelighedstests og brugbarhedstests, herunder kliniske scenarier fra ende til anden.
+  - Spore tests til farer og sikkerhedskontroller og levere testdokumentation til kliniske sikkerhedsbegrundelser.
+  - Kontrollere data, der vises for brugerne, mod kildesystemer og aftalte kliniske koder.
+  - Oprette og vedligeholde realistiske syntetiske testdata.
+  - Følge fejl til løsning og gentest rettelser.
+  qualifications:
+  - Erfaring med at designe og gennemføre tests af digitale services eller tilsvarende.
+  job_evaluation_notes: UK GDaD PCF foreslår HEO eller SEO for både dette niveau og seniorniveauet, hvilket placerer begge i lønramme 6. Denne reference placerer dette niveau i lønramme 5 og seniorniveauet i lønramme 6, så de to niveauer ligger i forskellige lønrammer.
+- title: Senior testanalytiker i kvalitetssikring
+  responsibilities:
+  - Koordinere kvalitetssikring for et produkt eller område og aftale testtilgange, miljøer, data og værktøjer.
+  - Identificere kliniske og driftsmæssige risici tidligt ved at gennemgå krav, design og ændringer sammen med klinikere og produktteams.
+  - Planlægge og lede brugeraccepttest sammen med klinikere og plejepersonale.
+  - Rapportere testresultater og restrisici til produktejere og kliniske sikkerhedsansvarlige, så de kan træffe beslutninger om udgivelse.
+  - Vejlede andre testanalytikere og hjælpe dem med at følge standarder for test og klinisk sikkerhed.
+  qualifications:
+  - Betydelig erfaring med testanalyse, herunder i komplekse eller regulerede miljøer, eller tilsvarende.
+- title: Ledende testanalytiker i kvalitetssikring
+  responsibilities:
+  - Fastsætte standarder og god praksis for testanalyse i hele organisationen, herunder risikobaseret test af kliniske systemer.
+  - Definere teststrategier for større programmer, såsom ændringer af den elektroniske patientjournal eller nye services til patienter.
+  - Sikre, at test frembringer den dokumentation, der er nødvendig til kliniske sikkerhedsbegrundelser og, hvor det er relevant, tekniske filer for medicinsk udstyr.
+  - Forhandle og eskalere større risici, problemer og fejl med senior produktledere, kliniske ledere og leverandørledere.
+  - Være mentor og coache testanalytikere og lede fællesskabet for testanalyse.
+  qualifications:
+  - Omfattende erfaring med at lede testanalyse for komplekse services.
+  job_evaluation_notes: UK GDaD PCF foreslår G7 eller G6 for dette niveau, hvilket svarer til lønramme 8b. Denne reference placerer det i lønramme 8a på linje med den ledende testingeniør, fordi det leder én testdisciplin og ikke al test; chefen for test er i lønramme 8c.

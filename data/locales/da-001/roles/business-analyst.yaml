@@ -1,0 +1,64 @@
+summary: Forretningsanalytikere hjælper organisationen med at forstå problemer i sundheds- og plejeydelser og finde de rette ændringer, der kan løse dem. De analyserer, hvordan kliniske, administrative og patientvendte processer fungerer i dag, definerer behov og krav fra brugere og forretning og hjælper teams med at sikre, at nye digitale services passer ind i de faktiske patientforløb og leverer målbare gevinster.
+health_context:
+- Processer krydser organisatoriske og faglige grænser, så analytikerne kortlægger hele patientforløb, herunder overdragelser mellem klinikere, plejepersonale, patienter og andre organisationer.
+- Krav indebærer ofte klinisk risiko, så analytikerne arbejder sammen med kliniske sikkerhedsansvarlige om at sikre, at sikkerhedsrelaterede krav fastholdes, spores og testes.
+- Mange krav handler om deling af sundhedsdata mellem systemer, så analytikerne har brug for et fungerende kendskab til standarder for interoperabilitet som HL7 FHIR og kliniske terminologier som SNOMED CT.
+- Gevinster i plejen handler ofte om sikkerhed, kvalitet, medarbejdertid og patientoplevelse og ikke kun om omkostninger, så analytikerne hjælper med at definere mål, som klinikerne kan genkende.
+levels:
+- title: Trainee-forretningsanalytiker
+  responsibilities:
+  - Lære teknikker til forretningsanalyse gennem struktureret oplæring, skyggearbejde og superviseret arbejde.
+  - Notere og udarbejde udkast til procesdiagrammer fra workshops med kliniske og administrative medarbejdere.
+  - Vedligeholde kravlister, brugerhistorier og sporbarhedsregistre under vejledning.
+  - Hjælpe med at forberede testscenarier til brugeraccepttest.
+  - Følge reglerne for informationsstyring, når der håndteres dokumenter med patientoplysninger.
+  qualifications:
+  - I gang med en lærlingeuddannelse eller kvalifikation i forretningsanalyse, eller tilsvarende erfaring.
+- title: Junior forretningsanalytiker
+  responsibilities:
+  - Kortlægge nuværende og fremtidige processer for kliniske og administrative arbejdsgange, såsom henvisninger, aftaler eller håndtering af svar.
+  - Afdække og skrive krav og brugerhistorier til veldefinerede arbejdspakker.
+  - Indsamle data om processernes præstation, såsom ventetider eller manuelle omgåelser, til støtte for analysen.
+  - Forberede og gennemføre scenarier til brugeraccepttest sammen med kliniske brugere og driftsbrugere.
+  - Gøre teamet og den kliniske sikkerhedsansvarlige opmærksom på krav, der kan påvirke patientsikkerheden.
+  qualifications:
+  - En bacheloruddannelse, en kvalifikation eller lærlingeuddannelse i forretningsanalyse, eller tilsvarende erfaring.
+- title: Forretningsanalytiker
+  responsibilities:
+  - Lede analysen af små og mellemstore projekter, fra problemdefinition til måling af gevinster.
+  - Afholde workshops med klinikere, plejepersonale og ledere for at forstå smertepunkter og aftale muligheder.
+  - Modellere patientforløb og informationsstrømme, herunder data, der udveksles med andre sundheds- og plejesystemer.
+  - Definere sikkerhedsrelaterede krav og datakrav og spore dem gennem design, udvikling og test.
+  - Opbygge gevinstbegrundelser med mål som frigjort medarbejdertid, undgåede fejl eller patientoplevelse.
+  - Være mentor for junior- og trainee-forretningsanalytikere.
+  qualifications:
+  - En bacheloruddannelse eller en anerkendt kvalifikation i forretningsanalyse, eller tilsvarende erfaring.
+  - Erfaring med forretningsanalyse i digitale forandringsprojekter.
+- title: Senior forretningsanalytiker
+  responsibilities:
+  - Lede forretningsanalysen i store eller komplekse programmer, såsom udskiftning af et klinisk system eller redesign af et patientforløb.
+  - Analysere muligheder og deres betydning for pleje, sikkerhed, medarbejdernes arbejdsbyrde og omkostninger og præsentere anbefalinger for bestyrelser.
+  - Sikre, at klinisk risiko, informationsstyring og konsekvenser for ligestilling analyseres og håndteres i kravene.
+  - Definere og følge forandringens gevinster og tilrettelægge, hvordan de skal måles efter idriftsættelsen.
+  - Have personaleansvar for eller lede forretningsanalytikere og stå for aktiviteter i praksisfællesskabet.
+  qualifications:
+  - Betydelig erfaring med forretningsanalyse i kompleks forandring på et niveau svarende til en kandidatgrad.
+- title: Ledende forretningsanalytiker
+  responsibilities:
+  - Lede analysen af meget komplekse problemer, der spænder over flere produkter, services eller organisationer i et plejesystem.
+  - Forme business casen og planen for realisering af gevinster ved større investeringer.
+  - Fastsætte standarder for forretningsanalyse, såsom sporbarhed af krav for sikkerhedsrelateret og reguleret software.
+  - Arbejde sammen med kliniske ledere, arkitekter og produktchefer om at afstemme analysen med organisationens strategi.
+  - Have personaleansvar for forretningsanalytikere og lede deres faglige udvikling.
+  qualifications:
+  - Omfattende erfaring med at lede forretningsanalyse i kompleks forandring på tværs af flere teams.
+- title: Chef for forretningsanalyse
+  responsibilities:
+  - Lede forretningsanalysefunktionen og fastlægge dens strategi, standarder og arbejdsmåder.
+  - Opbygge kompetencer inden for forretningsanalyse, herunder rekruttering, karriereveje og oplæring.
+  - Rådgive ledere i direktionen og klinikken om den analyse, der er nødvendig for større omstilling af sundhed og pleje.
+  - Sikre, at realisering af gevinster planlægges, måles og rapporteres på tværs af porteføljen.
+  - Styre funktionens budget og bemandingsplan.
+  qualifications:
+  - Omfattende erfaring med at lede en forretningsanalysefunktion eller -praksis.
+  job_evaluation_notes: Informationsressourcer scores på niveau 6, fordi chefen for forretningsanalyse ejer de standarder for hele organisationen, der gælder for, hvordan krav, procesmodeller og gevinstregistre føres i alt forandringsarbejde.

@@ -1,0 +1,39 @@
+summary: Ændrings- og releaseansvarlige sørger for, at ændringer af it-services vurderes, godkendes, planlægges og gennemføres sikkert, og at releases planlægges og koordineres. De leder ændringsrådet (change advisory board), ejer konfigurationsdatabasen (CMDB) og koordinerer releases på tværs af teams og leverandører. I sundhedsvæsenet sørger de for, at ændringer af kliniske systemer tidsplanlægges og testes, så patientplejen beskyttes.
+health_context:
+- Ændringer af kliniske systemer kan skade patienter, så vurderingen af ændringer omfatter klinisk sikkerhedsgennemgang og dokumentation fra processen for klinisk risikostyring.
+- Kliniske services kører hver dag, så vinduer for ændringer aftales med de kliniske services og undgår deres travleste perioder.
+- Mange ændringer kommer fra leverandører af kliniske systemer og skal stadig vurderes, når leverandøren styrer releasen.
+- Akutte ændringer, såsom hastende sikkerhedspatches, skal afveje cyberrisiko mod risikoen for at forstyrre plejen.
+- En korrekt konfigurationsdatabase viser, hvilke kliniske services en ændring kan påvirke.
+levels:
+- title: Konfigurationsanalytiker
+  responsibilities:
+  - Vedligeholde poster i konfigurationsdatabasen, herunder de kliniske services, som hver komponent understøtter.
+  - Kontrollere konfigurationsposter mod opdagelsesværktøjer og rette mangler og fejl.
+  - Forberede ændringsposter og dagsordener til ændringsrådet.
+  - Besvare rutinemæssige spørgsmål om konfigurationselementer og deres indbyrdes forhold.
+  qualifications:
+  - En grunduddannelse i it-servicestyring, en uddannelse på niveau 3 i it eller tilsvarende erfaring.
+  job_evaluation_notes: UK GDaD PCF foreslår lønramme 6 for dette niveau (HEO/SEO). Denne reference placerer det i lønramme 4, fordi niveauet yder administrativ støtte til den ændrings- og releaseansvarlige med for det meste færdigheder på bevidsthedsniveau og ligger under ændrings- og releaseanalytikeren. Informationsressourcer ligger over profilen for lønrammen, fordi vedligeholdelse af konfigurationsdatabasen er hovedopgaven.
+- title: Ændrings- og releaseanalytiker
+  responsibilities:
+  - Vurdere ændringsanmodninger for risiko og konsekvens, herunder virkningen på kliniske services og patientsikkerhed.
+  - Planlægge og tidsplanlægge releases og aftale ændringsvinduer med kliniske og driftsmæssige services.
+  - Kontrollere, at hver ændring har test, en tilbagerulningsplan og klinisk sikkerhedsgodkendelse, hvor det er nødvendigt.
+  - Koordinere releases med DevOps-teams, leverandører og servicedesken.
+  - Gennemgå releases bagefter og planlægge kommende ændringer.
+  qualifications:
+  - Erfaring med it-drift, release eller ændringsarbejde.
+  - En grunduddannelse i it-servicestyring eller tilsvarende erfaring.
+- title: Ændrings- og releaseansvarlig
+  responsibilities:
+  - Lede ændringsrådet, herunder repræsentanter for klinik og drift, når ændringer påvirker patientplejen.
+  - Træffe beslutning om tekniske ændringer og godkende akutte ændringer, såsom hastende sikkerhedspatches.
+  - Koordinere releases og deres afhængigheder på tværs af interne teams og leverandører.
+  - Eje processerne for ændrings-, release- og konfigurationsstyring og konfigurationsdatabasen.
+  - Fungere som eskaleringspunkt for ændringskonflikter og mislykkede ændringer.
+  - Rapportere om succes med ændringer, mislykkede ændringer og hændelser forårsaget af ændringer og drive forbedringer.
+  qualifications:
+  - Betydelig erfaring med ændrings- og releasestyring på et niveau svarende til en bacheloruddannelse.
+  - En it-servicestyringsuddannelse på mellemniveau eller tilsvarende erfaring.
+  job_evaluation_notes: Planlægning ligger over profilen for lønrammen, fordi rollen tidsplanlægger releases og deres afhængigheder på tværs af mange teams og leverandører.

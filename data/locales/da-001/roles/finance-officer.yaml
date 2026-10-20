@@ -1,0 +1,59 @@
+summary: Økonomimedarbejdere holder organisationens daglige økonomi korrekt og under kontrol. De behandler og bogfører fakturaer, betalinger, indtægter og posteringer, afstemmer hovedbøger og bankkonti og hjælper budgetansvarlige og leverandører med deres henvendelser. I en digital sundheds- og plejeorganisation involverer meget af dette arbejde teknologileverandører, softwarelicenser og cloudtjenester, ofte betalt af offentlige midler med strenge regler for, hvordan de bruges.
+health_context:
+- Organisationen bruger offentlige midler, så hver betaling skal være korrekt godkendt og registreret og kunne stå for en revision.
+- Mange fakturaer vedrører softwarelicenser, cloud-hosting og supportkontrakter, som skal kontrolleres mod kontraktvilkår, brug og den rette investerings- eller driftskode.
+- Hurtig og korrekt betaling er vigtig, fordi små leverandører og plejeudbydere kan være afhængige af den.
+- Økonomimedarbejdere ser personoplysninger, såsom medarbejderes udgiftsrefusioner og betalinger til patienter eller plejeudbydere, og skal håndtere dem efter reglerne for informationsstyring.
+- Risici for svig, såsom falske anmodninger om at ændre leverandørers bankoplysninger, rammer offentlige organer, så medarbejderne følger strenge kontroller.
+levels:
+- title: Økonomiassistent
+  summary: Økonomiassistenter behandler rutinemæssige økonomiske transaktioner, såsom leverandørfakturaer, kvitteringer og udgiftsrefusioner, efter fastlagte procedurer med supervision i nærheden.
+  responsibilities:
+  - Indtaste leverandørfakturaer, kreditnotaer og kvitteringer korrekt i økonomisystemet.
+  - Matche fakturaer med indkøbsordrer og varemodtagelser og rykke for manglende godkendelser.
+  - Kontrollere medarbejderes udgiftsrefusioner mod politikken og de tilhørende kvitteringer.
+  - Besvare rutinemæssige henvendelser fra leverandører og medarbejdere pr. telefon og e-mail.
+  - Arkivere og scanne økonomiske dokumenter, så de kan findes til revision.
+  - Følge økonomiske procedurer og regler for informationsstyring og indberette alt usædvanligt.
+  qualifications:
+  - Gode regne- og tastaturfærdigheder, opnået gennem uddannelse eller erhvervserfaring.
+  - Vilje til at arbejde hen imod en regnskabsuddannelse på indgangsniveau eller tilsvarende erfaring.
+  job_evaluation_notes: Fysiske færdigheder er niveau 3 for hurtighed og nøjagtighed ved dataindtastning af store mængder. Økonomiske ressourcer er niveau 2, fordi jobbet håndterer betalingsoplysninger og kontrollerer mindre refusioner.
+- title: Økonomimedarbejder
+  summary: Økonomimedarbejdere driver en del af transaktionscyklussen, såsom kreditorer, debitorer eller kontanter, løser sager uden for rutinen og afstemmer deres hovedbog.
+  responsibilities:
+  - Behandle en række transaktioner, herunder betalingskørsler, tilbagebetalinger, salgsfakturaer og posteringer.
+  - Afstemme leverandørkontoudtog, bankkonti og kontrolkonti og afvikle forskelle.
+  - Kontrollere, at teknologifakturaer stemmer med kontraktvilkårene, såsom antal licenser og faktureringsperioder.
+  - Udføre kontroller ved ændring af leverandørers bankoplysninger og andre kontroller mod svig.
+  - Rykke for forfaldne tilgodehavender og løse omstridte fakturaer med leverandører og budgetansvarlige.
+  - Vise nye økonomiassistenter, hvordan rutineopgaver udføres.
+  qualifications:
+  - En regnskabsuddannelse på indgangsniveau eller tilsvarende erfaring med økonomisk behandling.
+  job_evaluation_notes: Økonomiske ressourcer er niveau 3, fordi jobbet forbereder og frigiver betalingskørsler og anviser betalinger inden for fastlagte grænser.
+- title: Senior økonomimedarbejder
+  summary: Seniorøkonomimedarbejdere håndterer den mere komplekse økonomiske behandling og afstemninger, støtter måneds- og årsafslutningen og hjælper budgetansvarlige med at forstå deres udgifter.
+  responsibilities:
+  - Udarbejde posteringer til månedsafslutningen, såsom periodiseringer og forudbetalinger for årlige software- og supportkontrakter.
+  - Undersøge og afvikle komplekse afstemningsposter og gamle saldi.
+  - Udarbejde momsangivelser og afstemninger under supervision.
+  - Udarbejde standardbudgetrapporter og forklare dem for budgetansvarlige.
+  - Kontrollere, at udgifter er bogført korrekt mellem investering og drift, og stille spørgsmål til regnskabsfolkene.
+  - Føre tilsyn med og kontrollere økonomimedarbejderes og -assistenters arbejde til daglig.
+  - Foreslå forbedringer af økonomiske procedurer og arbejdsgange i systemet.
+  qualifications:
+  - En regnskabsuddannelse på mellemniveau eller tilsvarende erfaring.
+  - Erfaring med økonomisk behandling og afstemninger.
+- title: Økonomiteamleder
+  summary: Økonomiteamledere leder et transaktionsøkonomisk team eller arbejder som økonomianalytikere og sikrer, at processer er korrekte, kontrollerede og effektive, og at rapporteringen er klar til tiden.
+  responsibilities:
+  - Lede et transaktionsøkonomisk team og planlægge dets arbejde, så frister for betaling, gæld og månedsafslutning overholdes.
+  - Styre en hovedbog eller økonomisk proces og rapportere dens præstation, såsom betalingstider og gamle tilgodehavender.
+  - Teste og forbedre økonomiske kontroller og levere dokumentation til interne og eksterne revisorer.
+  - Udarbejde balanceafstemninger og arbejdspapirer til årsregnskabet.
+  - Forbedre processer, for eksempel ved at automatisere matchning af fakturaer eller indføre selvbetjening for budgetansvarlige.
+  - Oplære, støtte og gennemgå medarbejdernes arbejde i teamet.
+  qualifications:
+  - En regnskabsuddannelse på mellemniveau eller avanceret niveau eller tilsvarende erfaring.
+  - Erfaring med at lede eller koordinere økonomiske processer.
+  job_evaluation_notes: Personale er niveau 3, fordi jobbet leder et lille økonomiteam til daglig. En økonomianalytiker i denne lønramme ville score personale på niveau 2 og analyse på niveau 4.

@@ -1,0 +1,65 @@
+summary: Kliniske kodere læser patienters journaler og oversætter diagnoser, procedurer og andre kliniske oplysninger til standardiserede klassifikationskoder, såsom ICD til diagnoser og en procedureklassifikation til indgreb. Kodede data bruges til betaling, serviceplanlægning, klinisk audit, forskning og folkesundhedsstatistik, så deres nøjagtighed har betydning langt ud over kodningsteamet. Koderne arbejder tæt sammen med klinikere om at afklare journaler og bruger i stigende grad kliniske terminologier som SNOMED CT og computerstøttede kodningsværktøjer.
+health_context:
+- Koderne læser komplette journaler, der ofte beskriver alvorlig sygdom, skade, overgreb, selvskade og død, så arbejdet er følelsesmæssigt krævende, og teamene har brug for god støtte og supervision.
+- Kodede data driver betaling for aktivitet, indikatorer for dødelighed og resultater og serviceplanlægning, så fejl kan påvirke finansiering, offentliggjort præstation og beslutninger om pleje.
+- Kodning afhænger af kvaliteten af den kliniske dokumentation, så koderne stiller klinikere spørgsmål om uklare journaler og hjælper med at forbedre, hvordan plejen registreres.
+- Koderne håndterer hver dag fulde, identificerbare sundhedsjournaler, så fortrolighed og korrekt adgang er afgørende.
+- Automatiseret og computerstøttet kodning samt kortlægning fra SNOMED CT til klassifikationer ændrer arbejdet, og koderne kontrollerer, at automatiske koder er korrekte.
+levels:
+- title: Trainee klinisk koder
+  summary: En trainee klinisk koder lærer at kode ligetil sygehusforløb under tæt supervision og arbejder hen imod en kvalifikation i klinisk kodning.
+  responsibilities:
+  - Kode ligetil forløb, såsom dagkirurgi, ud fra journaler efter klassifikationsreglerne, hvor alt arbejde kontrolleres af en senior koder.
+  - Lære medicinske begreber, anatomi og nationale og internationale kodningsstandarder gennem struktureret oplæring.
+  - Finde, spore og returnere journaler korrekt og holde dem sikre.
+  - Registrere kodede data i patientadministrationssystemet eller kodningssystemet nøjagtigt og til tiden.
+  - Gøre en senior koder opmærksom på uklare eller manglende oplysninger.
+  qualifications:
+  - Gode læse-, skrive- og tastaturfærdigheder og indskrivning på et uddannelsesprogram i klinisk kodning, eller tilsvarende.
+  job_evaluation_notes: Mental anstrengelse er niveau 4, fordi koderne koncentrerer sig i lange perioder om at læse og fortolke detaljerede journaler. Følelsesmæssig belastning er niveau 2, fordi koderne hyppigt læser journaler, der beskriver belastende begivenheder.
+- title: Klinisk koder
+  summary: En klinisk koder koder en bred vifte af rutineforløb selvstændigt og nøjagtigt og overholder aftalte frister og kvalitetsstandarder.
+  responsibilities:
+  - Kode indlæggelses-, dagkirurgi- og ambulante forløb nøjagtigt inden for almindelige specialer efter klassifikationsreglerne og lokale politikker.
+  - Stille klinikere spørgsmål om uklare, manglende eller modstridende kliniske oplysninger og registrere resultatet.
+  - Kontrollere koder, der er foreslået af computerstøttet kodning eller terminologikortlægninger, og rette dem, hvor det er nødvendigt.
+  - Overholde frister for kodningens fuldstændighed, så data er klar til betaling og rapportering.
+  - Deltage i kodningsaudits og handle på deres resultater.
+  qualifications:
+  - En anerkendt kvalifikation i klinisk kodning, eller i gang med en med tilsvarende erfaring.
+  job_evaluation_notes: Mental og følelsesmæssig anstrengelse afspejler lange perioder med koncentration om journaler, der ofte beskriver alvorlig sygdom, skade og død.
+- title: Senior klinisk koder
+  summary: En senior klinisk koder koder komplekse forløb på tværs af specialer, fungerer som kilde til ekspertrådgivning for andre kodere og kontrollerer og oplærer mindre erfarne kodere.
+  responsibilities:
+  - Kode komplekse forløb, såsom intensiv pleje, kræft, flere procedurer og dødsfald, på tværs af specialer.
+  - Løse vanskelige kodningsspørgsmål sammen med overlæger og andre seniorklinikere og forklare kodningsreglerne klart.
+  - Kontrollere trainee-koderes arbejde og give dem feedback og oplæring på jobbet.
+  - Validere kodede data, før de indsendes, og rette fejl sammen med det rette team.
+  - Samarbejde med kliniske teams om at forbedre kvaliteten af den kliniske dokumentation.
+  qualifications:
+  - En anerkendt kvalifikation i klinisk kodning eller tilsvarende erfaring.
+  - Erfaring med at kode komplekse forløb inden for en række specialer.
+  job_evaluation_notes: Følelsesmæssig belastning forbliver på niveau 2, da komplekse forløb som dødsfald og kræftpleje er en fast del af arbejdet.
+- title: Auditor og underviser i klinisk kodning
+  summary: En auditor og underviser i klinisk kodning auditerer nøjagtigheden af kodede data, designer og gennemfører kodningsundervisning og rådgiver organisationen om kodningsstandarder. I nogle organisationer leder dette niveau også et kodningsteam til daglig.
+  responsibilities:
+  - Planlægge og gennemføre kodningsaudits på tværs af specialer og måle nøjagtigheden mod nationale og internationale standarder.
+  - Rapportere auditresultater til kodnings-, klinik-, økonomi- og informationsteams og aftale forbedringshandlinger.
+  - Designe og gennemføre kodningsundervisning, fra grundkurser for nye kodere til genopfriskningskurser om ændrede standarder.
+  - Rådgive klinikere og ledere om, hvordan kodning påvirker betaling, dødelighedsindikatorer og præstationsdata.
+  - Lede indførelsen af ændringer i klassifikationsversioner, kodningsstandarder og kodningsværktøjer.
+  - Lede et kodningsteam til daglig, hvor organisationen kombinerer det med audit og undervisning.
+  qualifications:
+  - En anerkendt kvalifikation i klinisk kodning og en anerkendt kvalifikation i audit eller undervisning i klinisk kodning, eller tilsvarende erfaring.
+  job_evaluation_notes: Personale er niveau 3, fordi det er en hovedopgave at designe og undervise i specialiseret kodningsundervisning. Forskning er niveau 2, fordi kodningsaudit er en fast del af jobbet.
+- title: Kodningschef (klinisk kodning)
+  summary: En kodningschef leder organisationens kliniske kodningsservice, herunder dens kodningsteams, kvalitetsprogram og forbindelser til kliniske teams, økonomiteams og informationsteams.
+  responsibilities:
+  - Lede den kliniske kodningsservice og dens teamledere og sikre, at kodningen er fuldstændig, nøjagtig og til tiden.
+  - Fastlægge kodningspolitikker og kodningens kvalitetsprogram i overensstemmelse med nationale og internationale standarder.
+  - Have kodningsbudgettet og planlægge arbejdsstyrken, herunder rekruttering, oplæring og akkreditering.
+  - Rådgive den øverste ledelse om, hvordan kodning påvirker finansiering, indikatorer for dødelighed og resultater og offentliggjorte data.
+  - Lede indførelsen af ny kodningsteknologi, såsom computerstøttet kodning og terminologikortlægning, sammen med kolleger inden for klinisk sikkerhed og informationsstyring.
+  - Støtte trivslen hos kodere, der regelmæssigt læser belastende journaler.
+  qualifications:
+  - En anerkendt kvalifikation i klinisk kodning og omfattende erfaring med kodning, audit og ledelse af kodere, eller tilsvarende erfaring.

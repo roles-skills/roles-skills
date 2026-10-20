@@ -35,6 +35,7 @@ How this reference is translated, published, and served in more than one languag
 | vi-001 | Tiếng Việt (thế giới) | ltr | Done | Vietnamese for readers anywhere; a copy of vi-vn; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Vietnamese titles |
 | pt-001 | Português | ltr | Done | Portuguese for readers anywhere; AI-translated, not yet reviewed by a native speaker; job titles use the inclusive or neutral form; Western digits; slugs are made from the Portuguese titles |
 | ur-001 | اردو | rtl | Done | Urdu for readers anywhere, right to left; AI-translated, not yet reviewed by a native speaker; job titles use neutral Urdu forms; Western digits; slugs are made from the Urdu titles |
+| da-001 | Dansk | ltr | Done | Danish for readers anywhere; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Danish titles |
 
 Every translation is AI-generated and needs a native speaker review; `tasks.md` tracks each review.
 

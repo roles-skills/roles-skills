@@ -1,0 +1,45 @@
+summary: Databeskyttelsesrådgiveren (DPO) overvåger uafhængigt organisationens overholdelse af databeskyttelsesretten, rådgiver om dens forpligtelser og er kontaktpunkt for tilsynsmyndigheden og for de personer, hvis data organisationen har. I en digital sundheds- og plejeorganisation giver DPO'en ekspertrådgivning om lovlig, rimelig og gennemsigtig brug af sundhedsdata i produkter, analyser, forskning og datadeling.
+health_context:
+- Databeskyttelsesretten giver DPO'en en beskyttet, uafhængig stilling, der refererer til det højeste ledelsesniveau, så rollen skal være fri for interessekonflikter.
+- Databeskyttelsesretten giver sundhedsdata ekstra beskyttelse, og meget af dem er også omfattet af tavshedspligt, så DPO'en rådgiver om begge dele.
+- Behandling af sundhedsdata i stor skala, datasammenkædning og kunstig intelligens kræver ofte konsekvensanalyser vedrørende databeskyttelse og nogle gange forudgående høring af tilsynsmyndigheden.
+- Patienter og offentligheden forventer gennemsigtighed, så DPO'en hjælper organisationen med at forklare klart, hvordan den bruger deres data.
+levels:
+- title: Vicedatabeskyttelsesrådgiver
+  summary: Støtter DPO'en i at overvåge overholdelse og give rådgivning, leder komplekse sager og er stedfortræder for DPO'en.
+  responsibilities:
+  - Rådgive teams om databeskyttelsesret, herunder retligt grundlag, gennemsigtighed og enkeltpersoners rettigheder.
+  - Gennemgå konsekvensanalyser vedrørende databeskyttelse med høj risiko og udarbejde udkast til DPO'ens rådgivning.
+  - Overvåge overholdelsen gennem audits, stikprøver og gennemgang af fortegnelser over behandling.
+  - Lede undersøgelsen af alvorlige brud på datasikkerheden og forberede underretninger til tilsynsmyndigheden.
+  - Håndtere komplekse klager og anmodninger fra enkeltpersoner om deres data.
+  - Være stedfortræder for DPO'en over for den øverste ledelse og tilsynsmyndigheden.
+  qualifications:
+  - En anerkendt faglig uddannelse i databeskyttelse eller tilsvarende erfaring.
+  - Betydelig erfaring med databeskyttelse i sundhed eller pleje.
+- title: Databeskyttelsesrådgiver
+  summary: Organisationens lovpligtige databeskyttelsesrådgiver, der uafhængigt overvåger overholdelse, rådgiver den øverste ledelse og bestyrelsen og fungerer som kontaktpunkt for tilsynsmyndigheden og offentligheden.
+  responsibilities:
+  - Overvåge organisationens overholdelse af databeskyttelsesretten og dens egne politikker uafhængigt.
+  - Rådgive bestyrelsen, den øverste ledelse og teams om deres forpligtelser til databeskyttelse.
+  - Give formel rådgivning om konsekvensanalyser vedrørende databeskyttelse med høj risiko og afgøre, hvornår tilsynsmyndigheden skal høres.
+  - Fungere som kontaktpunkt for tilsynsmyndigheden og for de personer, hvis data organisationen har.
+  - Føre tilsyn med beslutninger om underretning ved brud og organisationens svar på henvendelser fra tilsynsmyndigheden.
+  - Rapportere om overholdelse af databeskyttelse og risiko til bestyrelsen og dens udvalg.
+  qualifications:
+  - En anerkendt faglig uddannelse i databeskyttelse eller tilsvarende erfaring.
+  - Omfattende erfaring med databeskyttelsesret og -praksis, herunder i sundhed eller pleje.
+  job_evaluation_notes: Handlefrihed scores på niveau 6, fordi databeskyttelsesretten kræver, at DPO'en handler uafhængigt og fortolker lovgivning og politik uden instruks.
+- title: Senior databeskyttelsesrådgiver
+  summary: Databeskyttelsesrådgiveren for en stor organisation eller en gruppe af organisationer, der deler en DPO, leder databeskyttelsesfunktionen og fastsætter dens standarder.
+  responsibilities:
+  - Fungere som lovpligtig DPO for en stor organisation eller en gruppe af plejeorganisationer.
+  - Lede databeskyttelsesfunktionen, dens medarbejdere og dens arbejdsprogram.
+  - Fastlægge rammer og standarder for databeskyttelse i organisationen eller gruppen.
+  - Give den endelige rådgivning om behandling med den højeste risiko, såsom datasammenkædning i stor skala og kunstig intelligens.
+  - Lede dialogen med tilsynsmyndigheden, partnere og patient- og borgergrupper om brug af data.
+  - Rapportere til bestyrelsen om risiko, overholdelse og offentlighedens tillid i forbindelse med databeskyttelse.
+  qualifications:
+  - En anerkendt faglig uddannelse i databeskyttelse eller tilsvarende erfaring.
+  - Omfattende erfaring som databeskyttelsesrådgiver i en stor eller kompleks organisation.
+  job_evaluation_notes: Informationsressourcer scores på niveau 6, fordi jobbet fører tilsyn med, hvordan personoplysninger behandles i hele organisationen eller gruppen.

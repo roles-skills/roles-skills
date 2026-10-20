@@ -1,0 +1,62 @@
+summary: Projektledere planlægger og leverer projekter, der ændrer, hvordan organisationen understøtter sundhed og pleje, såsom udrulning af et klinisk system til nye lokaliteter, flytning af services til ny infrastruktur eller indførelse af nye digitale værktøjer til plejepersonale. De styrer omfang, tid, omkostninger, kvalitet og risiko ved hjælp af anerkendte projektmetoder og sikrer, at projekter leverer de gevinster, de har lovet patienter og medarbejdere.
+health_context:
+- Projekter, der ændrer kliniske systemer eller arbejdsgange, kræver kvalitetssikring af klinisk sikkerhed før idriftsættelsen, så projektledere indplanlægger farerworkshops, godkendelse af sikkerhedsbegrundelser og den kliniske sikkerhedsansvarliges bidrag i tidsplanen.
+- Idriftsættelser må ikke forstyrre patientplejen, så projektledere planlægger overgange, beredskabsordninger og støtte på gulvet sammen med kliniske teams og driftsteams.
+- Projekter har ofte brug for konsekvensanalyser vedrørende databeskyttelse og aftaler om deling af oplysninger, så projektledere planlægger disse tidligt sammen med kolleger inden for informationsstyring.
+- Gevinster i plejen, såsom frigjort medarbejdertid eller færre fejl, tager tid at vise sig, så projektledere opsætter udgangspunkter og overdrager opfølgningen på gevinster til servicen.
+levels:
+- title: Assisterende projektleder
+  summary: En assisterende projektleder understøtter gennemførelsen af projekter eller styrer små, veldefinerede projekter med vejledning fra en mere senior projektleder.
+  responsibilities:
+  - Vedligeholde projektplaner, risiko- og problemlister, handlingslister og afhængighedsregistre.
+  - Tilrettelægge og skrive referat af projektmøder og bestyrelsesmøder og følge op på handlinger.
+  - Styre små, veldefinerede arbejdspakker, såsom en udrulning på en lokalitet eller en oplæringsplan, med vejledning.
+  - Følge opgaver, der skal være klar til idriftsættelsen, såsom klinisk sikkerhedsgodkendelse, kontroller af databeskyttelse og medarbejderoplæring.
+  - Udarbejde højdepunktsrapporter og følge projektets udgifter i forhold til budgettet.
+  qualifications:
+  - En grunduddannelse i projektledelse eller tilsvarende erfaring.
+- title: Projektleder
+  summary: En projektleder driver projekter af moderat størrelse og kompleksitet fra start til afslutning, såsom udrulning af en digital service til flere plejemiljøer.
+  responsibilities:
+  - Planlægge og styre projekter fra opstart til afslutning og kontrollere omfang, tid, omkostninger, kvalitet og risiko.
+  - Planlægge idriftsættelser sammen med kliniske teams og driftsteams, herunder overgang, beredskab og supportordninger.
+  - Sikre, at kvalitetssikring af klinisk sikkerhed, informationsstyring og tilgængelighed planlægges og gennemføres før idriftsættelsen.
+  - Styre projektets budget og leverandørernes leverancer.
+  - Rapportere til projektbestyrelsen og eskalere risici og problemer uden for tolerancen.
+  - Fastsætte udgangspunkter for gevinster og overdrage opfølgningen på gevinster til servicen.
+  qualifications:
+  - En anerkendt uddannelse i projektledelse, såsom et certifikat på praktikerniveau, eller tilsvarende erfaring.
+  - Erfaring med at styre projekter, der ændrer services eller systemer.
+- title: Senior projektleder
+  summary: En senior projektleder leder store, komplekse projekter eller projekter med høj risiko, såsom udskiftning af et klinisk system i en organisation, og kan styre andre projektmedarbejdere.
+  responsibilities:
+  - Lede store projekter eller projekter med høj risiko, såsom udskiftning af kliniske systemer eller udrulninger på flere lokaliteter.
+  - Styre komplekse afhængigheder til leverandører, andre projekter og partnerorganisationer i sundhed og pleje.
+  - Lede beslutninger om idriftsættelse sammen med den kliniske sikkerhedsansvarlige, driftsledere og den ansvarlige ejer.
+  - Styre projektets budget og kommercielle aftaler, herunder ændringskontrol med leverandører.
+  - Sikre, at gevinster for patienter og medarbejdere defineres, har en ejer og måles.
+  - Styre og udvikle projektledere og projektstøttemedarbejdere.
+  qualifications:
+  - En anerkendt uddannelse i projektledelse eller tilsvarende erfaring.
+  - Betydelig erfaring med at styre komplekse projekter i et reguleret eller sikkerhedskritisk miljø.
+- title: Ledende projektleder
+  summary: En ledende projektleder leder de mest komplekse projekter eller en gruppe af beslægtede projekter og fastlægger projektledelsespraksis for sit område.
+  responsibilities:
+  - Lede de mest komplekse projekter eller en gruppe af beslægtede projekter på tværs af flere services eller organisationer.
+  - Fastsætte standarder, skabeloner og kvalitetssikring for projektledelse inden for området og coache projektledere.
+  - Rådgive ansvarlige ejere og bestyrelser om leverancemuligheder, risici og genopretning af projekter i vanskeligheder.
+  - Styre betydelige budgetter og kontrakter og sikre, at projekter giver valuta for pengene.
+  - Sikre, at krav til klinisk sikkerhed og informationsstyring er opfyldt på tværs af gruppen af projekter.
+  - Have personaleansvar for projektledere.
+  qualifications:
+  - Omfattende erfaring med at lede komplekse projekter med en anerkendt uddannelse i projektledelse eller tilsvarende erfaring.
+- title: Chef for projektledelse
+  summary: En chef for projektledelse leder organisationens projektledelsespraksis og de projektledere, der leverer dens digitale forandring.
+  responsibilities:
+  - Lede projektledelsespraksis, herunder dens metoder, standarder, værktøjer og kvalitetssikring.
+  - Fordele projektledere på organisationens projekter og styre praksissens kapacitet.
+  - Opbygge kompetencer inden for projektledelse, herunder rekruttering, oplæring og karriereveje.
+  - Rådgive ledere i direktionen om projekternes sundhed, leverancerisici og erfaringer.
+  - Styre praksissens budget.
+  qualifications:
+  - Omfattende erfaring med at lede projekter og projektledere med en anerkendt uddannelse i projektledelse eller tilsvarende erfaring.

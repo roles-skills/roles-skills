@@ -1,0 +1,59 @@
+summary: Indkøbere hjælper organisationen med at købe de varer og tjenesteydelser, den har brug for, lovligt og til en god pris, fra rutineindkøb til formelle udbud. I en digital sundheds- og plejeorganisation går en stor del af disse udgifter til software, cloudtjenester, licenser, enheder og teknologiydelser, så de arbejder tæt sammen med kolleger inden for digitalt, informationsstyring og klinisk sikkerhed såvel som med budgetansvarlige.
+health_context:
+- Udbudsreglerne gælder for organisationens udgifter, så hvert køb skal følge den rette fremgangsmåde, have et klart revisionsspor og behandle leverandører retfærdigt.
+- Mange køb er digitale, såsom softwarelicenser, cloudabonnementer og enheder, og kræver kontrol af sikkerhed, databeskyttelse og klinisk sikkerhed før kontrakten.
+- Leverandører af kliniske systemer kan opbevare patientdata, så kontrakter skal have klare vilkår om databeskyttelse, dataejerskab og returnering af data.
+- Køb gennem rammeaftaler og dynamiske indkøbssystemer, der er bygget til den offentlige sektor, kan spare tid, men afrop skal stadig følge hver rammeaftales regler.
+- Offentlige udgifter skal vise valuta for pengene og social værdi, såsom lokale job, kompetencer og lavere CO2-udledning.
+levels:
+- title: Indkøbsassistent
+  summary: Yder indkøbs- og administrativ støtte efter fastlagte procedurer med en indkøber i nærheden.
+  responsibilities:
+  - Oprette og ændre indkøbsordrer i indkøbssystemet og kontrollere dem mod kontrakter og godkendelser.
+  - Løse rutinemæssige spørgsmål om fakturaer og kvitteringer sammen med leverandører, budgetansvarlige og økonomi.
+  - Indhente tilbud på køb af lav værdi efter organisationens regler.
+  - Holde leverandørregistre, kataloger og kontraktregistret ajour.
+  - Besvare rutinemæssige spørgsmål fra medarbejdere om, hvordan man køber.
+  qualifications:
+  - En uddannelse på niveau 2 eller 3, en lærlingeuddannelse i indkøb eller tilsvarende erfaring.
+  - Erfaring med nøjagtigt administrativt arbejde eller økonomiarbejde.
+  job_evaluation_notes: Økonomiske ressourcer er niveau 2, fordi jobbet opretter og ændrer ordrer, der forpligter udgifter godkendt af andre.
+- title: Køber
+  summary: Køber varer og tjenesteydelser gennem tilbudsindhentning og afrop fra rammeaftaler, herunder standardsoftware, enheder og licenser, inden for fastlagte procedurer.
+  responsibilities:
+  - Gennemføre tilbudsindhentning og miniudbud under rammeaftaler ved hjælp af standardskabeloner og det elektroniske udbudssystem.
+  - Købe standardsoftware, enheder og licenser og følge fornyelser og antal licenser.
+  - Kontrollere, at standardkrav til sikkerhed, databeskyttelse og tilgængelighed er med før købet.
+  - Forhandle priser og vilkår ved rutinekøb.
+  - Føre et klart revisionsspor og offentliggøre bekendtgørelser om tildeling af kontrakter, hvor reglerne kræver det.
+  - Analysere udgiftsdata for at finde køb uden for kontrakt og foreslå bedre indkøbsveje.
+  qualifications:
+  - En indkøbsuddannelse på certifikatniveau, en lærlingeuddannelse i indkøb eller tilsvarende erfaring.
+  - Erfaring med at købe gennem tilbudsindhentning eller rammeaftaler.
+  job_evaluation_notes: Økonomiske ressourcer er niveau 3, fordi jobbet køber forsyninger og tjenesteydelser på vegne af budgetansvarlige.
+- title: Udbudsansvarlig indkøber
+  summary: Gennemfører udbud af moderat værdi og kompleksitet, herunder formelle udbud, fra planlægning til tildeling af kontrakt, med en senior indkøber til rådighed for rådgivning.
+  responsibilities:
+  - Gennemføre formelle udbud og konkurrencer under rammeaftaler fra planlægning til tildeling og styre tidsplaner og afklarende spørgsmål.
+  - Hjælpe budgetansvarlige med at skrive klare, resultatbaserede kravspecifikationer, herunder tekniske krav og krav til databeskyttelse.
+  - Opsætte evalueringen, kontrollere tilbud for overensstemmelse med kravene, støtte evaluatorer og registrere moderation.
+  - Skrive tildelingsrapporter og feedback til tilbudsgivere og styre standstill-perioden.
+  - Medtage spørgsmål om social værdi og bæredygtighed, der passer til kontrakten.
+  - Overdrage kontrakter til kontraktansvarlige med klare planer for opstart og exit.
+  - Oplære budgetansvarlige i at købe og føre tilsyn med indkøbsassistenter.
+  qualifications:
+  - En anerkendt faglig indkøbsuddannelse på mellemniveau eller tilsvarende erfaring.
+  - Erfaring med at gennemføre formelle udbud efter udbudsreglerne.
+- title: Senior indkøber
+  summary: Leder komplekse udbud, såsom kliniske systemer, cloudtjenester og teknologiydelser, og rådgiver om den rette indkøbsvej med bred frihed inden for indkøbspolitikken.
+  responsibilities:
+  - Lede komplekse udbud af høj værdi og vælge den rette indkøbsvej og procedure.
+  - Lede tidlig markedsdialog og anmodninger om oplysninger og holde konkurrencen fair.
+  - Designe evalueringskriterier og vægtning sammen med tekniske ledere, kliniske ledere og ledere af informationsstyring og lede moderationen.
+  - Sikre, at kontrakter om teknologi indeholder vilkår om interoperabilitet, sikkerhed, dataejerskab, exit og returnering af data.
+  - Forhandle med tilbudsgivere, hvor proceduren tillader det, og aftale de endelige vilkår.
+  - Rådgive om kontraktændringer, forlængelser og direkte tildelinger og risikoen for klager.
+  - Coache og kontrollere indkøberes og købers arbejde.
+  qualifications:
+  - En anerkendt faglig indkøbsuddannelse på avanceret niveau eller tilsvarende erfaring.
+  - Betydelig erfaring med at lede komplekse udbud, helst for teknologi eller kliniske systemer.

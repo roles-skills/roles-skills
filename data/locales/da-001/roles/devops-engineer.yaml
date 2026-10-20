@@ -1,0 +1,67 @@
+summary: DevOps-ingeniører bygger og driver de værktøjer, pipelines, miljøer og platforme, der lader organisationens teams levere digitale sundhedsservices sikkert og ofte. De automatiserer bygning, test, release og infrastruktur, gør services observerbare og robuste og hjælper teams med at holde kliniske systemer tilgængelige, når patienter og klinikere har brug for dem.
+health_context:
+- Mange services understøtter pleje døgnet rundt, så udrulninger, overvågning og genopretning skal holde nedetid på et minimum, også uden for arbejdstid.
+- Releasepipelines producerer dokumentation til kliniske sikkerhedsbegrundelser, såsom testresultater, ændringsregistre og den præcise version, der er udrullet.
+- Miljøer kan rumme fortrolige sundhedsoplysninger, så ingeniørerne kontrollerer adgang, beskytter hemmeligheder og holder live data ude af testmiljøer.
+- Sundhedsservices er hyppige mål for cyberangreb, så pipelines og platforme bygger sikkerhedsscanning, patching og afprøvede sikkerhedskopier ind.
+- Nogle services skal opfylde strenge standarder for tilgængelighed og katastrofegenopretning, aftalt med kliniske ledere og driftsledere.
+levels:
+- title: Lærling som DevOps-ingeniør
+  responsibilities:
+  - Lære teamets pipelines, cloudplatforme og værktøjer gennem struktureret oplæring og skyggearbejde.
+  - Foretage små, veldefinerede ændringer i scripts, pipelines og konfiguration under tæt supervision.
+  - Følge procedurer for ændringer, sikkerhed og informationsstyring i alle miljøer.
+  - Hjælpe med at overvåge services og indberette advarsler til erfarne kolleger.
+  - Arbejde hen imod en lærlingeuddannelse eller tilsvarende uddannelse.
+  qualifications:
+  - Indskrevet på eller i gang med en lærlingeuddannelse i DevOps, software eller infrastruktur eller tilsvarende.
+  job_evaluation_notes: Viden scores på det niveau, jobbet kræver, når oplæringen er så vidt fremskreden, at arbejdet kan udføres.
+- title: Junior DevOps-ingeniør
+  responsibilities:
+  - Bygge og vedligeholde dele af pipelines til bygning, test og udrulning med vejledning.
+  - Skrive infrastruktur som kode og automatiseringsscripts og teste dem før brug.
+  - Holde testmiljøer fri for live patientdata og håndtere hemmeligheder sikkert.
+  - Reagere på overvågningsadvarsler og støtte hændelsesrespons under vejledning.
+  - Registrere udrulninger og ændringer, så de kan understøtte klinisk sikkerhed og revisionsdokumentation.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller et beslægtet fag, en gennemført lærlingeuddannelse eller tilsvarende erfaring.
+  job_evaluation_notes: UK GDaD PCF foreslår lønramme 4 for både lærlinge- og juniorniveauet; denne reference placerer juniorniveauet i lønramme 5 for at undgå to niveauer i én lønramme, fordi jobbet bygger pipelinekomponenter med mindre supervision.
+- title: DevOps-ingeniør
+  responsibilities:
+  - Designe og bygge pipelines, miljøer og platformskomponenter selvstændigt.
+  - Automatisere sikkerhedskontroller, såsom scanning af afhængigheder og containere, og handle på resultaterne.
+  - Bygge overvågning, logning og advarsler, så teams kan se problemer, før de påvirker patienter og medarbejdere.
+  - Planlægge og teste sikkerhedskopier, failover og genopretning for services, der understøtter pleje.
+  - Undersøge og rette problemer i live services, herunder support uden for arbejdstid, hvor servicen kræver det.
+  - Være mentor for junior- og lærlinge-DevOps-ingeniører.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller et beslægtet fag eller tilsvarende erfaring.
+  - Erfaring med at bygge og drive automatiserede leverancepipelines og cloudinfrastruktur.
+- title: Senior DevOps-ingeniør
+  responsibilities:
+  - Lede designet af leverancetoolchainen og platformen for et produkt eller en gruppe af services.
+  - Fastsætte standarder for releases, så udrulninger til kliniske services kan gentages, kan fortrydes og er godt dokumenteret.
+  - Aftale mål for tilgængelighed, genopretningstid og genopretningspunkt med serviceejere og kliniske ledere og designe for at opfylde dem.
+  - Lede teknisk hændelsesrespons og gennemgange efter hændelser for de platforme, teamet driver.
+  - Sikre, at platforme opfylder krav til sikkerhed og informationsstyring, herunder adgangskontrol og logning.
+  - Coache og udvikle DevOps-ingeniører i teamet.
+  qualifications:
+  - Betydelig erfaring med at designe og drive leverancetoolchains og platforme på et niveau svarende til en kandidatgrad.
+- title: Ledende DevOps-ingeniør
+  responsibilities:
+  - Lede DevOps og platformsingeniørarbejde for en gruppe teams og fungere som teknisk ejer af den fælles platform.
+  - Fastlægge køreplanen på mellemlang sigt for organisationens leverancetools, hosting og observerbarhed.
+  - Sikre, at fælles platforme er robuste, sikre og kan opfylde de de kliniske services' behov for tilgængelighed.
+  - Styre platformens omkostninger og kapacitet sammen med økonomi og serviceejere.
+  - Lede praksisfællesskabet for DevOps og have personaleansvar for eller lede DevOps-ingeniører.
+  qualifications:
+  - Omfattende erfaring med at lede DevOps eller platformsingeniørarbejde for komplekse services.
+- title: Principal DevOps-ingeniør
+  responsibilities:
+  - Fastlægge strategien for, hvordan organisationen bygger, udgiver, hoster og driver sine digitale sundhedsservices.
+  - Rådgive den øverste ledelse om hosting, robusthed, cybersikkerhed og investering i platforme.
+  - Sikre, at planer for beredskab og katastrofegenopretning for kritiske kliniske services er realistiske og afprøvede.
+  - Evaluere og fremme nye teknologier og metoder og afveje innovation mod sikkerhed og stabilitet.
+  - Udvide organisationens DevOps-kompetencer, herunder rekruttering, karriereveje og kompetenceplaner.
+  qualifications:
+  - Omfattende erfaring med at lede DevOps og platformsingeniørarbejde på tværs af flere teams eller organisationer.

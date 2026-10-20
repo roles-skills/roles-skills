@@ -1,0 +1,47 @@
+summary: 'Forretningsarkitekter opbygger et klart, sammenhængende overblik over, hvordan organisationen leverer sundhed og pleje: dens kapabiliteter, services, patientforløb, processer og information. De bruger overblikket til at vise, hvor der er behov for forandring, til at forbinde strategi med programmer og til at sikre, at digital forandring forbedrer plejen for patienter og arbejdslivet for klinikere og plejepersonale.'
+health_context:
+- Patientforløb krydser teams, miljøer og organisationer, så forretningsarkitekter modellerer services ud fra patientens perspektiv og ikke kun efter afdeling.
+- Forandring af kliniske processer kan påvirke patientsikkerheden og medarbejdernes arbejdsbyrde, så modellerne bygges sammen med klinikere og plejepersonale og kontrolleres mod den faktiske praksis.
+- Strategien for sundhed og pleje formes af politik, regulering og finansieringsregler, som arkitekterne skal omsætte til praktiske ændringer af kapabiliteter.
+- Mange kapabiliteter deles med partnerorganisationer, så arkitekterne hjælper med at aftale, hvem der gør hvad, og hvor information skal strømme.
+levels:
+- title: Trainee-forretningsarkitekt
+  responsibilities:
+  - Lære metoder til forretningsarkitektur, såsom modellering af kapabiliteter, værdistrømme og processer, gennem oplæring og praksis.
+  - Indsamle oplysninger om services og patientforløb gennem interviews, dokumenter og observation.
+  - Udarbejde udkast til kapabilitetskort og procesmodeller med vejledning fra forretningsarkitekter.
+  - Hjælpe med at afholde workshops med klinikere, plejepersonale og ledere og skrive resultaterne ned.
+  qualifications:
+  - En bacheloruddannelse eller tilsvarende erfaring inden for forretning, analyse eller et beslægtet fag.
+  - Specialiseret uddannelse i metoder til forretningsarkitektur på niveau med en diplomuddannelse eller tilsvarende erfaring.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 5): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 6. Viden scores på det niveau, jobbet kræver, når oplæringen er så vidt fremskreden, at arbejdet kan udføres.'
+- title: Associeret forretningsarkitekt
+  responsibilities:
+  - Modellere kapabiliteter, services og patientforløb for en del af organisationen.
+  - Analysere modeller for at finde mangler, dobbeltarbejde og smertepunkter for patienter og medarbejdere.
+  - Samle information fra forskellige teams og organisationer som grundlag for beslutninger om forandring.
+  - Forklare komplekse serviceproblemer for interessenter ved hjælp af klare modeller og almindeligt sprog.
+  - Holde arkivet over forretningsarkitektur korrekt og knyttet til applikations- og datamodeller.
+  qualifications:
+  - Specialistviden om forretningsarkitektur eller forretningsanalyse på kandidatniveau eller med tilsvarende erfaring.
+  - Erfaring med forretningsanalyse eller servicedesign.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 6): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 7. Viden scores på kandidatniveau eller tilsvarende, fordi jobbet modellerer og analyserer services og patientforløb på tværs af teams og organisationer.'
+- title: Forretningsarkitekt
+  responsibilities:
+  - Udvikle nuværende og fremtidige forretningsarkitekturer for et stort serviceområde, såsom akutpleje eller kommunale services.
+  - Omsætte strategi og politik til ændringer af kapabiliteter og en køreplan for forandring.
+  - Kontrollere, at programmers og projekters omfang passer til den ønskede forretningsarkitektur.
+  - Arbejde sammen med kliniske ledere om at vurdere, hvordan foreslåede ændringer påvirker patientforløb, sikkerhed og medarbejdernes arbejdsbyrde.
+  - Vejlede andre forretningsarkitekter i metoder og værktøjer.
+  qualifications:
+  - Betydelig erfaring med forretningsarkitektur, forretningsanalyse eller servicedesign på et niveau svarende til en kandidatgrad.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 7): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8a. Planlægning, politik og handlefrihed scores over profilen for lønramme 7, fordi jobbet omsætter strategi til en køreplan for forandring for et stort serviceområde.'
+- title: Ledende forretningsarkitekt
+  responsibilities:
+  - Lede praksis for forretningsarkitektur og være ansvarlig for dens resultater.
+  - Vedligeholde overblikket over kapabiliteter, services og patientforløb i hele organisationen og holde det let at forstå.
+  - Rådgive direktører om prioriteterne for forandring, og hvordan investeringsporteføljer passer til strategien.
+  - Arbejde sammen med partnerorganisationer om at aftale fælles kapabiliteter og ansvar på tværs af patientforløb.
+  - Lede og udvikle forretningsarkitekter.
+  qualifications:
+  - Omfattende erfaring med at lede forretningsarkitektur i en kompleks organisation.

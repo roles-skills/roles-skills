@@ -1,0 +1,52 @@
+summary: Enterprise-arkitekter giver organisationen et sammenhængende overblik over dens services, information, applikationer og teknologi og bruger det til at omsætte strategien for sundhed og pleje til en sammenhængende plan for forandring. De fastsætter arkitekturprincipper, standarder og køreplaner, vejleder investeringsbeslutninger og sikrer, at digital forandring understøtter sikker, sammenhængende pleje for patienter på tværs af organisationer.
+health_context:
+- Patientforløb krydser mange organisationer og systemer, så arkitekturen skal understøtte deling af journaler, svar og henvisninger på tværs af grænser.
+- Landskabet omfatter ofte langlivede kliniske systemer, medicinsk udstyr og leverandørkontrakter, der er svære at ændre, så køreplaner skal planlægge overgange omhyggeligt.
+- Arkitekturbeslutninger påvirker patientsikkerhed, privatliv og robustheden af services, der kører døgnet rundt.
+- Åbne standarder som HL7 FHIR, SNOMED CT og IHE-profiler er nøglen til at undgå indlåsning og muliggøre interoperabilitet.
+- Finansieringen er begrænset og nøje undersøgt, så arkitekterne skal vise valuta for pengene og genbrug af fælles platforme, hvor de findes.
+levels:
+- title: Enterprise-arkitekt
+  responsibilities:
+  - Modellere organisationens nuværende og fremtidige services, information, applikationer og teknologi for et område, såsom diagnostik eller kommunal pleje.
+  - Holde arkitekturarkivet ajour, herunder kataloger over applikationer og datastrømme.
+  - Gennemgå forslag i forhold til arkitekturprincipper og -standarder og give anbefalinger til designmyndigheder.
+  - Identificere, hvor systemer duplikerer kapabiliteter eller afhænger af teknologi uden support, og rejse risiciene.
+  - Arbejde sammen med løsningsarkitekter og kliniske ledere om at forstå, hvordan patientforløb bruger systemer.
+  - Vejlede løsningsarkitekter i, hvordan design passer ind i områdets arkitektur.
+  qualifications:
+  - Betydelig erfaring med arkitektur, analyse eller teknisk design i en kompleks organisation på et niveau svarende til en kandidatgrad.
+  - Kendskab til et rammeværk for enterprise-arkitektur, såsom TOGAF, eller tilsvarende erfaring.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 6): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8a. Viden, analyse, planlægning, politik og handlefrihed scores efter profilen for lønramme 8a, fordi jobbet former målarkitekturer og rådgiver designmyndigheder for et helt område.'
+- title: Senior enterprise-arkitekt
+  responsibilities:
+  - Udvikle målarkitekturer og overgangskøreplaner for et eller flere af organisationens områder.
+  - Forme business cases, så investeringer passer til målarkitekturen og genbruger fælles platforme.
+  - Lede arkitekturgennemgange hos designmyndigheder og give anbefalinger om væsentlige forslag.
+  - Planlægge udskiftning eller udfasning af ældre kliniske systemer og administrative systemer, herunder datamigrering og sikkerhedsrisici.
+  - Sikre, at behov for interoperabilitet, sikkerhed og informationsstyring bygges ind i køreplaner.
+  - Coache og vejlede enterprise-arkitekter og løsningsarkitekter.
+  qualifications:
+  - Omfattende erfaring med enterprise-arkitektur eller løsningsarkitektur på tværs af flere områder.
+  - Kendskab til et rammeværk for enterprise-arkitektur, såsom TOGAF, eller tilsvarende erfaring.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 7): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8b. Planlægning er niveau 5 for langsigtede køreplaner med virkninger i hele organisationen; viden er niveau 8 for viden på tværs af forretnings-, informations-, applikations- og teknologiarkitektur.'
+- title: Ledende enterprise-arkitekt
+  responsibilities:
+  - Eje enterprise-arkitekturen for en større del af organisationen, såsom kliniske systemer eller fælles infrastruktur.
+  - Lede arkitekturens designmyndighed og fastsætte de standarder, som projekter skal opfylde.
+  - Rådgive direktører om investeringsprioriteter, leverandørstrategi og teknologirisici.
+  - Arbejde sammen med partnerorganisationer om at afstemme arkitekturer på tværs af patientforløb og fælles journaler.
+  - Lede og udvikle enterprise-arkitekter og udvide praksisfællesskabet for arkitektur.
+  qualifications:
+  - Omfattende erfaring med enterprise-arkitektur i en kompleks organisation.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 8b): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8c. Informationsressourcer er niveau 6, fordi jobbet styrer arkitekturen af informationssystemer i en større del af organisationen; politik og personale ligger over profilen for lønramme 8b, fordi det fastsætter standarder for alle projekter og leder enterprise-arkitekter.'
+- title: Principal enterprise-arkitekt
+  responsibilities:
+  - Fastlægge organisationens vision, principper og strategi for enterprise-arkitektur i overensstemmelse med dens strategi for sundhed og pleje.
+  - Rådgive direktionen og bestyrelsen om arkitekturen, risiciene og værdien af større digitale investeringer.
+  - Lede organisationens arkitekturpraksis, styring og standarder.
+  - Repræsentere organisationen i fora for arkitektur og interoperabilitet på tværs af organisationer.
+  - Opbygge arkitekturkompetencer i hele organisationen, herunder rekruttering og karriereveje.
+  qualifications:
+  - Omfattende erfaring med at lede enterprise-arkitektur på tværs af organisationer.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 8c): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8d. Politik og handlefrihed er niveau 6, fordi jobbet har det overordnede ansvar for organisationens vision, principper og strategi for arkitektur.'

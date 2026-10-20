@@ -1,0 +1,73 @@
+# Danish (world). Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Quotations from the UK GDaD PCF and ESCO stay
+# in English. Job titles use the generic form, which covers everyone. Slugs
+# are made from the Danish titles.
+code: da-001
+name: Dansk
+english_name: Danish
+dir: ltr
+complete: true
+paths:
+  roles: roller
+  families: familier
+  bands: lønrammer
+  skills: kompetencer
+  job-evaluation: jobvurdering
+  about: om-denne-reference
+strings:
+  disclaimer: "Dette er en illustrativ referenceprofil for en generisk organisation inden for digital sundhed og pleje. Det er ikke en officiel stillingsbeskrivelse for nogen arbejdsgiver, og pointene i jobvurderingen er ikke en formel vurdering."
+  translation_note: "Denne tekst er oversat fra engelsk af en AI-assistent og er endnu ikke gennemgået af en modersmålstaler. Citater fra den britiske regerings kompetencerammeværk for digitale og datarelaterede fag (UK GDaD PCF) og fra ESCO står fortsat på engelsk."
+  home_title: Rollekatalog
+  home_lede: "Find først den jobfamilie, der ligger nærmest dit arbejde, derefter rollen og derefter lønrammen."
+  roles_title: Alle roller
+  bands_title: Roller efter lønramme
+  skills_title: Kompetencer
+  skills_lede: "Hver kompetence har fire niveauer: Bevidsthed (1), Arbejdende (2), Erfaren (3) og Ekspert (4). Kompetencer fra UK GDaD PCF er citeret fra originalen på engelsk. De øvrige kompetencer er denne references egne."
+  pcf_title: Roller efter rolle i UK GDaD PCF
+  esco_title: Roller efter erhverv i ESCO
+  role: Rolle
+  roles: Roller
+  family: Familie
+  band: Lønramme
+  bands: Lønrammer
+  title: Titel
+  role_level: Rolleniveau
+  skill: Kompetence
+  source: Kilde
+  expected_level: Forventet niveau
+  level_meaning: Hvad niveauet betyder
+  factor: Faktor
+  level: Niveau
+  points: Point
+  total: I alt
+  summary: Resumé
+  health_context: I en organisation inden for digital sundhed og pleje
+  pcf_role: Rolle i UK GDaD PCF
+  pcf_role_none: "ingen (denne reference definerer rollen)"
+  pcf_role_description: Rollebeskrivelse i UK GDaD PCF (engelsk original)
+  pcf_level: Niveau i UK GDaD PCF
+  civil_service_grades: Lønklasser i den britiske statsforvaltning
+  esco_occupations: Erhverv i ESCO
+  role_levels: Rolleniveauer
+  job_evaluation_points: Point i jobvurderingen
+  responsibilities: Ansvarsområder
+  skills: Kompetencer
+  qualifications: Typiske kvalifikationer og erfaring
+  band_outline: Oversigt over lønrammen
+  knowledge: Viden
+  autonomy: Selvstændighed
+  scope: Rækkevidde
+  leadership: Ledelse
+  accountability: Ansvar
+  job_evaluation: Jobvurdering (illustrativ)
+  source_pcf: UK GDaD PCF
+  source_reference: Denne reference
+  used_in: "Bruges på {n} rolleniveauer."
+  awareness: Bevidsthed
+  working: Arbejdende
+  practitioner: Erfaren
+  expert: Ekspert
+  sfia_level: Niveau i SFIA
+  esco_occupation: Erhverv i ESCO
+  pcf_family: Familie i PCF
+  roles_in_reference: Roller i denne reference

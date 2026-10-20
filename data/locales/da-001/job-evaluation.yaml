@@ -1,0 +1,159 @@
+# Job evaluation factors in Danish. Keys are the English factor ids.
+# Points stay as in the English file.
+communication:
+  name: Kommunikations- og relationskompetencer
+  description: Kompetencer, der kræves for at kommunikere med og opbygge relationer til kolleger, patienter, offentligheden og partnere. Tager højde for, hvor kompleks, følsom eller omstridt informationen er, og for barrierer for forståelse eller accept.
+  levels:
+    "1": Giver og modtager rutinemæssig information mundtligt, hovedsagelig med kolleger.
+    "2": Giver og modtager rutinemæssig information mundtligt, skriftligt eller elektronisk med kolleger og andre.
+    "3": Giver rutinemæssig information, der kræver takt eller overtalelse, eller kompleks eller følsom information, eller enkel undervisning af grupper.
+    "4": Giver kompleks, følsom eller omstridt information, der kræver overtalelses-, forhandlings- eller undervisningsevner, eller meget kompleks information.
+    "5": Giver meget kompleks eller omstridt information, der kræver veludviklede overtalelses- og forhandlingsevner, præsenterer for store grupper eller kommunikerer, hvor der er betydelige barrierer for accept.
+    "6": Giver meget kompleks og meget omstridt information, hvor der er betydelige barrierer for accept, med det højeste niveau af kommunikationsevner.
+knowledge:
+  name: Viden, uddannelse og erfaring
+  description: Den viden og erfaring, der kræves for at udføre jobbet, uanset kilde, herunder formel uddannelse, kvalifikationer og erfaring.
+  levels:
+    "1": Nogle få rutineprocedurer, der læres på jobbet under en kort introduktion.
+    "2": En række rutineprocedurer, der læres gennem oplæring på jobbet og introduktion.
+    "3": En række procedurer, nogle uden for rutinen, der kræver grundlæggende teori (for eksempel en uddannelse på niveau 3 eller tilsvarende erfaring).
+    "4": En række procedurer, for det meste uden for rutinen, der kræver teori på mellemniveau (for eksempel en erhvervsakademiuddannelse eller tilsvarende erfaring).
+    "5": Ekspertise inden for et speciale, understøttet af teori eller praktisk erfaring (bachelorniveau eller tilsvarende).
+    "6": Specialistviden på tværs af hele specialet (niveau svarende til en diplomuddannelse eller tilsvarende).
+    "7": Højt udviklet specialistviden på tværs af hele specialet (kandidatniveau eller tilsvarende).
+    "8": Avanceret viden (ph.d. samt yderligere uddannelse eller tilsvarende) eller specialistviden på tværs af mere end én disciplin, opbygget over lang tid.
+analytical:
+  name: Analytiske kompetencer og dømmekraft
+  description: Den analyse og dømmekraft, der kræves for at behandle information, løse problemer og træffe beslutninger.
+  levels:
+    "1": Vurderinger af ligetil fakta eller situationer.
+    "2": Vurderinger af fakta eller situationer, hvoraf nogle kræver analyse.
+    "3": Vurderinger af en række fakta eller situationer, der kræver analyse eller sammenligning af muligheder.
+    "4": Vurderinger af komplekse fakta eller situationer, der kræver analyse, fortolkning og sammenligning af muligheder.
+    "5": Vurderinger af meget komplekse fakta eller situationer, der kræver analyse, fortolkning og sammenligning af muligheder.
+planning:
+  name: Planlægnings- og organisationskompetencer
+  description: Den planlægning og organisering, der kræves for at drive aktiviteter, programmer, services eller strategier.
+  levels:
+    "1": Tilrettelægger eget daglige arbejde.
+    "2": Planlægger ligetil opgaver eller aktiviteter, hvoraf nogle er løbende.
+    "3": Planlægger flere komplekse aktiviteter og justerer planerne efter behov.
+    "4": Planlægger en bred vifte af komplekse aktiviteter eller strategier og justerer dem efter behov.
+    "5": Udarbejder langsigtede strategiske planer med usikkerhed og virkninger på tværs af organisationen.
+physical-skills:
+  name: Fysiske færdigheder
+  description: De fysiske færdigheder, der kræves, såsom fingerfærdighed, koordination, tastaturfærdigheder og kørsel.
+  levels:
+    "1": Kun lille behov for fysiske færdigheder.
+    "2": Færdigheder, der opnås gennem øvelse, såsom almindelig brug af tastatur eller kørsel.
+    "3": Veludviklede færdigheder, der kræver hurtighed eller nøjagtighed, såsom avanceret brug af tastatur.
+    "4": Højt udviklede færdigheder, der kræver præcision eller hurtighed og høj øje-hånd-koordination.
+    "5": Det højeste niveau af præcision, hurtighed og koordination.
+patient-care:
+  name: Ansvar for patient- og klientpleje
+  description: Ansvar for at vurdere, behandle, pleje eller rådgive patienter og klienter. For de fleste digitale og administrative roller er der kun tale om tilfældig kontakt.
+  levels:
+    "1": Hjælper patienter, klienter eller pårørende ved tilfældig kontakt.
+    "2": Giver generel ikkeklinisk rådgivning, information eller service direkte til patienter eller offentligheden.
+    "3": Yder personlig pleje, grundlæggende klinisk teknisk service eller grundlæggende klinisk rådgivning.
+    "4": Udfører klinisk pleje, yder klinisk teknisk service eller rådgiver om patienters pleje.
+    "5": Udvikler plejeprogrammer, yder specialiseret klinisk teknisk service eller giver specialiseret rådgivning om patientpleje.
+    "6": Udvikler specialiseret pleje, giver højt specialiseret rådgivning eller er ansvarlig for en del af en klinisk service.
+    "7": Ansvarlig for at levere en klinisk service eller plejeservice.
+    "8": Overordnet ansvar for kliniske services eller plejeservices.
+policy:
+  name: Ansvar for politik- og serviceudvikling
+  description: Ansvar for at udvikle og gennemføre politikker og services og for, hvor langt virkningerne rækker.
+  levels:
+    "1": Følger politikker, der er fastlagt af andre; kan komme med kommentarer til ændringer.
+    "2": Gennemfører politikker for eget område og foreslår ændringer af dets praksis.
+    "3": Gennemfører politikker for eget område og foreslår ændringer, der påvirker andre områder.
+    "4": Gennemfører politik og udvikler politik eller services for en service eller flere områder.
+    "5": Gennemfører og udvikler en række politikker eller services for en direktion.
+    "6": Overordnet ansvar for større politik- eller serviceudvikling på tværs af eller uden for organisationen.
+financial-resources:
+  name: Ansvar for økonomiske og fysiske ressourcer
+  description: Ansvar for penge, budgetter, udstyr, lager, bygninger og andre aktiver.
+  levels:
+    "1": Passer personligt på udstyr og ressourcer, der bruges i eget arbejde.
+    "2": Håndterer kontanter eller værdigenstande, passer udstyr, som andre bruger, styrer lager eller anviser mindre betalinger.
+    "3": Anviser betalinger, køber nogle aktiver eller forsyninger, overvåger eller har et delegeret budget eller vedligeholder aktiver.
+    "4": Har eller fastsætter budgettet for en afdeling eller service eller køber eller vedligeholder dens aktiver.
+    "5": Har eller fastsætter budgetter eller forvalter aktiver for flere services.
+    "6": Overordnet ansvar for organisationens økonomi eller aktiver.
+people:
+  name: Ansvar for personale
+  description: Ansvar for at lede, føre tilsyn med, uddanne eller udvikle medarbejdere eller for at levere personaleydelser (HR).
+  levels:
+    "1": Viser nye eller mindre erfarne kolleger egne arbejdsrutiner.
+    "2": Fører dagligt tilsyn med eller koordinerer medarbejdere, oplærer jævnligt andre eller giver grundlæggende HR-rådgivning.
+    "3": Leder dagligt en gruppe medarbejdere, underviser i grund- eller specialistuddannelse eller giver central HR-rådgivning.
+    "4": Har personaleansvar for en funktion eller afdeling, tilrettelægger som hovedopgave uddannelsesforløb eller leverer hele spektret af HR-ydelser.
+    "5": Har personaleansvar for flere afdelinger eller leder uddannelse eller en stor del af HR i hele organisationen.
+    "6": Overordnet ansvar for organisationens personale eller HR-funktion.
+information-resources:
+  name: Ansvar for informationsressourcer
+  description: Ansvar for information og informationssystemer, på papir eller digitalt, herunder registre, data og de systemer, der rummer dem.
+  levels:
+    "1": Registrerer information, som jobindehaveren selv frembringer.
+    "2": Indtaster eller gemmer data, der er indsamlet af andre, eller udarbejder lejlighedsvis rapporter eller forespørgsler.
+    "3": Skriver formelle referater, udarbejder jævnligt rapporter eller forespørgsler eller vedligeholder informationssystemer som en betydelig opgave.
+    "4": Tilpasser eller designer informationssystemer efter andres specifikationer, eller driver informationssystemer for en afdeling som hovedopgave.
+    "5": Designer og udvikler større informationssystemer eller driver informationssystemer for flere services som hovedopgave.
+    "6": Leder og udvikler informationssystemer på tværs af organisationen som hovedopgave.
+    "7": Overordnet ansvar for organisationens informationssystemer.
+research:
+  name: Ansvar for forskning og udvikling
+  description: Ansvar for formel forskning, udvikling, evaluering, audits, test og forsøg.
+  levels:
+    "1": Gennemfører undersøgelser eller audits til eget arbejde; deltager lejlighedsvis i forskning eller test.
+    "2": Udfører jævnligt forskning, udvikling, forsøg eller test af udstyr og systemer som en del af jobbet.
+    "3": Gennemfører forskning eller udvikling inden for formelle programmer som hovedopgave.
+    "4": Koordinerer og gennemfører forsknings- og udviklingsprogrammer.
+    "5": Iværksætter og udvikler forsknings- og udviklingsprogrammer, der understøtter organisationens mål.
+    "6": Iværksætter og udvikler forsknings- og udviklingsprogrammer med virkninger ud over organisationen.
+freedom-to-act:
+  name: Handlefrihed
+  description: Hvor langt jobindehaveren selv bestemmer, hvad der skal gøres og hvordan, og hvor tæt vedkommendes arbejde overvåges.
+  levels:
+    "1": Arbejder inden for fastlagte procedurer med tæt supervision.
+    "2": Følger standardprocedurer og præcedens; der er som regel nogen at spørge; arbejdet kan blive kontrolleret.
+    "3": Følger definerede politikker og procedurer; arbejdet ledes frem for overvåges.
+    "4": Resultaterne er fastlagt, men jobindehaveren beslutter, hvordan de nås, inden for en bred politik.
+    "5": Arbejder inden for generelle politikker og beslutter i de fleste tilfælde selv, hvordan de fortolkes.
+    "6": Fortolker den overordnede politik og strategi for at sætte mål og standarder.
+physical-effort:
+  name: Fysisk anstrengelse
+  description: Den fysiske anstrengelse, der kræves, set ud fra hyppighed, varighed og intensitet.
+  levels:
+    "1": Sidder, står og går med ringe fysisk anstrengelse.
+    "2": Hyppigt arbejde siddende eller stående i en begrænset stilling, eller lejlighedsvis let til moderat anstrengelse.
+    "3": Hyppig let anstrengelse i lange perioder eller hyppig moderat anstrengelse i korte perioder.
+    "4": Vedvarende let anstrengelse, hyppig moderat anstrengelse i lange perioder eller lejlighedsvis intens anstrengelse.
+    "5": Vedvarende moderat anstrengelse eller hyppig intens anstrengelse.
+mental-effort:
+  name: Mental anstrengelse
+  description: Den koncentration, der kræves, set ud fra hyppighed, varighed og hvor forudsigeligt arbejdet er.
+  levels:
+    "1": Almindelig opmærksomhed; lejlighedsvis koncentration om forudsigeligt arbejde.
+    "2": Hyppig koncentration om forudsigeligt arbejde eller lejlighedsvis koncentration om uforudsigeligt arbejde.
+    "3": Hyppig koncentration om uforudsigeligt arbejde eller lejlighedsvis langvarig koncentration.
+    "4": Hyppig langvarig koncentration eller lejlighedsvis intens koncentration.
+    "5": Hyppig intens koncentration.
+emotional-effort:
+  name: Følelsesmæssig belastning
+  description: Jobbets følelsesmæssige krav som følge af direkte eller indirekte udsættelse for belastende omstændigheder, såsom at læse belastende sagsjournaler eller håndtere alvorlige hændelser.
+  levels:
+    "1": Sjælden udsættelse eller lejlighedsvis indirekte udsættelse for belastende omstændigheder.
+    "2": Lejlighedsvis udsættelse eller hyppig indirekte udsættelse for belastende omstændigheder.
+    "3": Hyppig udsættelse for belastende omstændigheder eller lejlighedsvis udsættelse for meget belastende omstændigheder.
+    "4": Lejlighedsvis udsættelse for traumatiske omstændigheder eller hyppig udsættelse for meget belastende omstændigheder.
+working-conditions:
+  name: Arbejdsforhold
+  description: Udsættelse for ubehagelige forhold eller farer. Næsten uafbrudt skærmarbejde på de fleste dage hører under niveau 2.
+  levels:
+    "1": Sjælden udsættelse for ubehagelige forhold.
+    "2": Lejlighedsvis ubehagelige forhold, hyppig rejseaktivitet eller udendørsarbejde eller næsten uafbrudt skærmarbejde på de fleste dage.
+    "3": Hyppige ubehagelige forhold eller lejlighedsvis meget ubehagelige forhold.
+    "4": Nogen udsættelse for farer eller hyppige meget ubehagelige forhold.
+    "5": Betydelig udsættelse for farer.

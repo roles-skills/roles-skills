@@ -1,0 +1,27 @@
+summary: Ingeniører i maskinlæring tager modeller, som dataforskere har bygget, eller som er købt hos leverandører, og får dem til at fungere pålideligt i live sundheds- og plejeservices. De bygger de pipelines, der træner, tester, udruller og overvåger modeller, og integrerer dem med kliniske systemer og driftssystemer. De sikrer, at modeller forbliver sikre, trygge, fair og effektive, når rigtige patienter og medarbejdere er afhængige af dem.
+health_context:
+- Modeller i live brug kan drive, når patientpopulationer, klinisk praksis eller registreringsvaner ændres, så præstationen overvåges for hver patientgruppe, og modeller trænes om eller trækkes tilbage, når det er nødvendigt.
+- En model, der understøtter diagnose, triage eller behandling, kan være reguleret som medicinsk udstyr, hvilket medfører formelle krav til softwarens livscyklus, ændringskontrol og overvågning efter markedsføring.
+- Kliniske sikkerhedsbegrundelser kræver evidens om, hvordan en model fejler, hvordan dens resultater vises for klinikere, og hvad der sker, når den ikke er tilgængelig.
+- Modeller, der er trænet på patientdata, kan lække oplysninger om enkeltpersoner, så træningsdata, modelartefakter og logs beskyttes som selve dataene.
+- Generativ kunstig intelligens og store sprogmodeller medfører yderligere risici, såsom opdigtet indhold i kliniske notater, som kræver særlig test og menneskeligt tilsyn.
+levels:
+- title: Senior ingeniør i maskinlæring
+  responsibilities:
+  - Udrulle modeller i kliniske services og driftsservices i produktion med automatiseret test, versionering og tilbagerulning.
+  - Bygge overvågning af modellers præstation, drift og fairness på tværs af patientgrupper med advarsler og klare ejere.
+  - Integrere modeller med kliniske systemer og bruge åbne standarder som HL7 FHIR, hvor det er muligt.
+  - Udarbejde den test-, ændrings- og overvågningsdokumentation, der er nødvendig til kliniske sikkerhedsbegrundelser og tekniske filer for medicinsk udstyr.
+  - Vurdere og tilpasse leverandørmodeller og open source-modeller til lokal brug, herunder modeller i generativ kunstig intelligens.
+  - Coache dataforskere og ingeniører i praksis for maskinlæringsingeniørarbejde.
+  qualifications:
+  - Betydelig erfaring med at bygge og drive systemer til maskinlæring i produktion på et niveau svarende til en kandidatgrad.
+- title: Ledende ingeniør i maskinlæring
+  responsibilities:
+  - Lede det mest komplekse arbejde med at bringe modeller fra forskning til sikker live brug i hele organisationen.
+  - Definere livscyklussen for maskinlæring, herunder de kontroller, der er nødvendige for regulerede og sikkerhedskritiske modeller.
+  - Fastsætte standarder for modeltest, overvågning, sikkerhed og etik og kvalitetssikre modeller i live brug.
+  - Arbejde sammen med kliniske sikkerhedsansvarlige, informationsstyring og regulatoriske specialister om at aftale, hvordan modeller vurderes og godkendes.
+  - Identificere oplæringsbehov og udvikle ingeniører i maskinlæring og beslægtede roller.
+  qualifications:
+  - Omfattende erfaring med at lede maskinlæringsingeniørarbejde for komplekse eller regulerede services.

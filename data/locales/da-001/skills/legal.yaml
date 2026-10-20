@@ -1,0 +1,237 @@
+# Danish translation of data/skills/legal.yaml. Keys are the English skill ids.
+legal-legal-research:
+  name: Juridisk research
+  description: At finde, læse og sammenfatte lovgivning, retspraksis, vejledning og præcedenser for at besvare et juridisk spørgsmål.
+  levels:
+    awareness: |
+      Du kan:
+      - finde lovgivning, vejledning og præcedensdokumenter ved hjælp af juridiske databaser og organisationens vidensbase
+      - bruge juridiske begreber korrekt
+    working: |
+      Du kan:
+      - undersøge et afgrænset juridisk spørgsmål og sammenfatte kilderne klart
+      - kontrollere, at kilderne er aktuelle og autoritative
+      - holde præcedens- og vidensbibliotekerne ajour
+    practitioner: |
+      Du kan:
+      - undersøge komplekse eller nye spørgsmål, for eksempel hvordan gældende ret finder anvendelse på ny teknologi
+      - analysere modstridende kilder og nå frem til et velbegrundet synspunkt
+      - følge ændringer i lovgivning og vejledning og forklare deres betydning for organisationen
+    expert: |
+      Du kan:
+      - lede researchen om organisationens mest komplekse spørgsmål med den højeste risiko
+      - forudse juridiske udviklinger og forberede organisationen på dem
+      - bidrage til høringer om lovgivning og vejledning, der påvirker digital sundhed og pleje
+legal-contract-drafting-and-review:
+  name: Udarbejdelse og gennemgang af kontrakter
+  description: At udarbejde, gennemgå og forhandle kontrakter og aftaler, såsom aftaler om teknologi, softwarelicenser, cloud, tjenesteydelser og databehandling.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare en kontrakts hoveddele, såsom parter, løbetid, betaling, ansvar og opsigelse
+      - udarbejde standarddokumenter ud fra godkendte skabeloner
+    working: |
+      Du kan:
+      - gennemgå rutineaftaler, såsom fortrolighedsaftaler og enkle serviceaftaler, i forhold til organisationens standarder
+      - redigere kontrakter og forklare ændringerne
+      - spotte klausuler, der kræver en jurists gennemgang, såsom ubegrænset ansvar eller automatisk fornyelse
+    practitioner: |
+      Du kan:
+      - udarbejde og forhandle komplekse aftaler, såsom softwarelicenser, cloud-hosting, systemintegration og databehandleraftaler
+      - rådgive om risikofordeling, herunder ansvarsbegrænsninger, serviceniveauer, exit og deponering af kildekode
+      - sikre, at kontrakter beskytter patientdata, servicekontinuitet og organisationens rettigheder til sin software og sine data
+      - skrive og vedligeholde kontraktskabeloner og playbooks
+    expert: |
+      Du kan:
+      - fastlægge organisationens kontraktstandarder og risikopositioner
+      - lede forhandlingerne om de mest værdifulde eller risikable aftaler
+      - rådgive den øverste ledelse om strategiske kommercielle arrangementer, såsom partnerskaber og joint ventures
+legal-legal-advice:
+  name: Juridisk rådgivning
+  description: At give klar, praktisk og korrekt juridisk rådgivning, der hjælper kolleger med at træffe lovlige beslutninger og håndtere juridisk risiko.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvornår kolleger har brug for juridisk rådgivning, og hvordan de får den
+      - tage imod klare instrukser og registrere sagens faktiske omstændigheder
+    working: |
+      Du kan:
+      - udarbejde udkast til rådgivning om rutinesager, som en jurist kan gennemgå
+      - besvare ligetil spørgsmål ud fra godkendt vejledning
+      - identificere de juridiske spørgsmål i et sagsforløb
+    practitioner: |
+      Du kan:
+      - give uafhængig juridisk rådgivning inden for dine praksisområder
+      - forklare juridisk risiko på almindeligt sprog og anbefale praktiske muligheder
+      - rådgive om beslutninger med retsvirkning, såsom tildeling af kontrakter, deling af data og ændringer af services
+      - afgøre, hvornår eksterne jurister eller advokater skal inddrages
+    expert: |
+      Du kan:
+      - rådgive bestyrelsen og direktionen om organisationens væsentligste juridiske risici
+      - give endelig rådgivning i nye, omstridte eller meget værdifulde sager
+      - fastlægge organisationens risikovillighed på det juridiske område
+      - kvalitetssikre juridisk rådgivning i hele organisationen, også ekstern rådgivning
+legal-litigation-and-disputes:
+  name: Retstvister og tvistløsning
+  description: At forebygge, håndtere og løse tvister og krav, herunder kontrakttvister, ansættelsessager og samarbejde om krav om erstatning for klinisk uagtsomhed.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare de vigtigste faser i et krav eller en tvist
+      - registrere krav og følge frister nøjagtigt
+    working: |
+      Du kan:
+      - indsamle og ordne dokumenter og beviser til en sag
+      - udarbejde kronologier, bilagsmapper og udkast til vidneforklaringer
+      - samarbejde med eksterne jurister, forsikringsselskaber eller erstatningsordninger om rutinesager
+    practitioner: |
+      Du kan:
+      - styre en portefølje af tvister og krav fra første varsel til forlig eller retsmøde
+      - vurdere kravs berettigelse og værdi og anbefale en strategi
+      - forhandle forlig og bruge alternativ tvistløsning
+      - sikre, at erfaringer fra krav indgår i forbedringer af sikkerhed, kontrakter og services
+    expert: |
+      Du kan:
+      - lede organisationens mest betydningsfulde eller mest synlige tvister
+      - fastlægge organisationens tilgang til retssager, forlig og indberetning af krav
+      - rådgive bestyrelsen om eventualforpligtelser og omdømmerisiko
+legal-information-and-data-law:
+  name: Informations- og dataret
+  description: At anvende lovgivning om databeskyttelse, fortrolighed, aktindsigt og cybersikkerhed på sundheds- og plejedata og digitale services.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare de grundlæggende principper for databeskyttelse og fortrolighed
+      - genkende anmodninger om oplysninger og brud på datasikkerheden og dirigere dem rigtigt videre
+    working: |
+      Du kan:
+      - gennemgå aftaler om datadeling og databehandling i forhold til skabeloner
+      - understøtte besvarelsen af anmodninger om oplysninger og anmodninger om de registreredes rettigheder
+      - forklare det retlige grundlag for brug af sundhedsdata i almindelige situationer
+    practitioner: |
+      Du kan:
+      - rådgive om databeskyttelse, tavshedspligt og lovgivning om aktindsigt i forbindelse med digitale services
+      - udarbejde og forhandle aftaler om datadeling og vilkår for databehandling, herunder internationale overførsler
+      - rådgive om konsekvensanalyser vedrørende databeskyttelse for ny teknologi, såsom kunstig intelligens og analyseplatforme
+      - rådgive om brud på datasikkerheden, henvendelser fra tilsynsmyndigheder og klager
+    expert: |
+      Du kan:
+      - fastlægge organisationens juridiske holdning til brugen af sundheds- og plejedata
+      - lede arbejdet med risikable eller nye anvendelser af data, såsom forskning, dataplatforme og kunstig intelligens
+      - repræsentere organisationen over for tilsynsmyndigheder i spørgsmål om informationsret
+legal-legal-administration:
+  name: Juridisk administration
+  description: At drive et juridisk teams administrative processer, herunder sagsstyring, dokumentkontrol, registre, frister og fakturering.
+  levels:
+    awareness: |
+      Du kan:
+      - åbne, opdatere og lukke sager i sagsstyringssystemet
+      - arkivere og genfinde juridiske dokumenter sikkert
+      - holde juridiske og personlige oplysninger fortrolige
+    working: |
+      Du kan:
+      - styre kalendere, frister og vigtige datoer for et team
+      - forberede og formatere juridiske dokumenter, bilagsmapper og pakker til underskrift
+      - kontrollere og behandle eksterne juristers fakturaer
+      - føre kontrakt- og skødeprotokoller
+    practitioner: |
+      Du kan:
+      - drive det juridiske teams administration og forbedre dets processer
+      - rapportere om arbejdsbyrde, udgifter til eksterne jurister og behandlingstider
+      - administrere juridisk teknologi, såsom sagsstyrings- og e-signaturværktøjer
+    expert: |
+      Du kan:
+      - designe organisationens model for juridisk drift
+      - lede valget og brugen af juridisk teknologi
+      - fastlægge servicestandarder og præstationsmål for juridiske ydelser
+legal-employment-law:
+  name: Ansættelsesret
+  description: At anvende ansættelsesretten på organisationens personalepolitikker, kontrakter, forandringsprogrammer og ansættelsesretlige tvister.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare medarbejdernes vigtigste ansættelsesretlige rettigheder
+      - genkende ansættelsesretlige spørgsmål, der kræver juridisk rådgivning
+    working: |
+      Du kan:
+      - hjælpe med at udarbejde dokumenter til ansættelsesretlige krav og retsmøder
+      - gennemgå ansættelseskontrakter og politikker i forhold til skabeloner
+    practitioner: |
+      Du kan:
+      - rådgive om ansættelsesretlige spørgsmål, såsom afskedigelse, forskelsbehandling, virksomhedsoverdragelse og omstrukturering
+      - håndtere ansættelsesretlige krav og forhandle forligsaftaler
+      - rådgive om brugen af eksterne konsulenter og digitale specialisters ansættelsesretlige status
+    expert: |
+      Du kan:
+      - rådgive bestyrelsen om større ændringer af arbejdsstyrken og deres juridiske risici
+      - lede ansættelsesretlige tvister, der er synlige eller komplekse
+      - forme personalepolitikker, så de lever op til juridiske forpligtelser og god praksis
+legal-intellectual-property:
+  name: Immaterielle rettigheder
+  description: At beskytte og bruge immaterielle rettigheder i software, data, indhold og opfindelser, herunder ophavsret, licenser, open source og varemærker.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, at software, data og indhold er beskyttet af immaterielle rettigheder
+      - genkende, hvornår en kontrakt eller et projekt rejser spørgsmål om ejerskab
+    working: |
+      Du kan:
+      - kontrollere klausuler om immaterielle rettigheder i rutineaftaler
+      - føre fortegnelser over licenser og registrerede rettigheder
+      - forklare de vigtigste typer af open source-licenser og deres vilkår
+    practitioner: |
+      Du kan:
+      - rådgive om, hvem der ejer software, data og indhold, som er skabt af medarbejdere, leverandører og partnere
+      - udarbejde licenser og vilkår om immaterielle rettigheder, herunder udgivelse af organisationens kode som open source
+      - rådgive om kommerciel brug af organisationens data og software og om deling af fordele
+    expert: |
+      Du kan:
+      - fastlægge organisationens politik for immaterielle rettigheder og open source
+      - lede arbejdet med kommercialisering og partnerskaber, der omfatter organisationens data og software
+      - løse væsentlige tvister om immaterielle rettigheder
+legal-procurement-law:
+  name: Udbudsret
+  description: At anvende udbudsreglerne på indkøb af varer, tjenesteydelser og teknologi, fra valg af indkøbsvej til tildeling af kontrakt og klage.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor offentlige myndigheder skal følge udbudsreglerne
+      - genkende, hvornår en indkøbsaktivitet kræver udbudsfaglig eller juridisk rådgivning
+    working: |
+      Du kan:
+      - kontrollere udbudsdokumenter for konsistens og fuldstændighed
+      - understøtte den dokumentation, der skal vise en retfærdig og gennemsigtig proces
+    practitioner: |
+      Du kan:
+      - rådgive om indkøbsveje, herunder rammeaftaler, direkte tildeling og konkurrenceudsættelse
+      - rådgive om evaluering, tildelingsbeslutninger og ændringer af kontrakter efter tildelingen
+      - besvare leverandørers klager og indsigelser
+      - rådgive om risici i forhold til statsstøtte og konkurrence i partnerskaber
+    expert: |
+      Du kan:
+      - fastlægge organisationens tilgang til udbudsretlig risiko
+      - lede arbejdet med udbud af høj værdi eller nye udbud, såsom innovationspartnerskaber
+      - forsvare væsentlige udbudsklager
+legal-health-and-care-law:
+  name: Sundheds- og plejeret
+  description: At anvende den lovgivning, der gælder for sundheds- og plejeydelser, herunder samtykke, habilitet, klinisk uagtsomhed, regulering af services og produkter og organisationens lovbestemte forpligtelser.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare organisationens vigtigste lovbestemte forpligtelser og beføjelser
+      - genkende sager, der vedrører patientsikkerhed, samtykke eller klinisk uagtsomhed
+    working: |
+      Du kan:
+      - understøtte juridisk arbejde med hændelser, retsundersøgelser eller kliniske krav
+      - forklare de regler, der gælder for organisationens services
+    practitioner: |
+      Du kan:
+      - rådgive om organisationens beføjelser og forpligtelser, herunder hvornår den kan levere eller bestille en service
+      - rådgive om regulering af digitale sundhedsprodukter, såsom software som medicinsk udstyr
+      - samarbejde med erstatningsordninger for klinisk uagtsomhed og eksterne jurister om krav, der vedrører digitale services
+      - rådgive om samtykke, habilitet og patientrettigheder i digitale services
+    expert: |
+      Du kan:
+      - rådgive bestyrelsen om organisationens lovbestemte forpligtelser og styring
+      - lede juridisk arbejde i forbindelse med offentlige undersøgelser, domstolsprøvelser og større hændelser
+      - forme organisationens reaktion på ny sundheds- og plejelovgivning

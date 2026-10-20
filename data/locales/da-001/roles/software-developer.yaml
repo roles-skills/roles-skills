@@ -1,0 +1,66 @@
+summary: Softwareudviklere bygger, tester og vedligeholder softwaren bag organisationens digitale sundhedsservices, såsom apps til patienter, kliniske systemer, integrationsservices og dataplatforme. De arbejder i tværfaglige produktteams, skriver kode, der er sikker, tryg, tilgængelig og vedligeholdelsesvenlig, og understøtter deres services i live drift.
+health_context:
+- Software kan påvirke patientplejen, så udviklerne følger processen for klinisk risikostyring og bidrager med dokumentation til sikkerhedsbegrundelser.
+- Kode håndterer ofte fortrolige sundhedsoplysninger, så udviklerne anvender informationsstyring og sikker kodning som standard.
+- Mange services udveksler data med andre sundheds- og plejesystemer ved hjælp af åbne standarder for interoperabilitet som HL7 FHIR.
+- Noget software kan være reguleret som medicinsk udstyr, så udviklerne skal vide, hvornår de skal bede om regulatorisk rådgivning.
+levels:
+- title: Lærling som softwareudvikler
+  responsibilities:
+  - Lære teamets sprog, værktøjer og arbejdsmåder gennem struktureret oplæring og parprogrammering.
+  - Skrive og teste små, veldefinerede stykker kode under tæt supervision.
+  - Følge procedurer for sikker kodning, informationsstyring og klinisk sikkerhed.
+  - Deltage i teamets ceremonier, såsom stand-ups, planlægning og retrospektiver.
+  - Arbejde hen imod en lærlingeuddannelse eller tilsvarende uddannelse.
+  qualifications:
+  - Indskrevet på eller i gang med en lærlingeuddannelse i softwareudvikling eller tilsvarende.
+  job_evaluation_notes: Viden scores på det niveau, jobbet kræver, når oplæringen er så vidt fremskreden, at arbejdet kan udføres; informationsressourcer afspejler arbejde på systemer, som andre har designet.
+- title: Junior softwareudvikler
+  responsibilities:
+  - Bygge og teste funktioner til teamets produkter ud fra brugerhistorier med vejledning.
+  - Skrive automatiserede tests og rette fejl, også i services, der understøtter patientpleje.
+  - Bidrage med dokumentation til kliniske sikkerhedsbegrundelser, såsom testresultater og ændringsregistre.
+  - Håndtere sundhedsdata sikkert efter reglerne for informationsstyring.
+  - Supportere live services under vejledning som en del af teamets supportordninger.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller et beslægtet fag, en gennemført lærlingeuddannelse eller tilsvarende erfaring.
+- title: Softwareudvikler
+  responsibilities:
+  - Designe, bygge og teste funktioner og services selvstændigt og vælge egnede tilgange.
+  - Gennemgå kode og hjælpe med at vedligeholde teamets tekniske standarder.
+  - Bygge integrationer med andre sundheds- og plejesystemer ved hjælp af åbne standarder som HL7 FHIR.
+  - Deltage i identifikation af farer og hjælpe med at bygge kliniske sikkerhedskontroller ind i kode og tests.
+  - Undersøge og rette problemer i live services, herunder support uden for arbejdstid, hvor servicen kræver det.
+  - Være mentor for junior- og lærlingeudviklere.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller et beslægtet fag eller tilsvarende erfaring.
+  - Erfaring med at bygge og supportere software i produktion.
+- title: Senior softwareudvikler
+  responsibilities:
+  - Lede det tekniske design og levering af væsentlige funktioner og services.
+  - Fastsætte og vedligeholde tekniske standarder for teamet, herunder test, sikkerhed og tilgængelighed.
+  - Træffe tekniske beslutninger, der afvejer brugerbehov, klinisk sikkerhed, sikkerhed og omkostninger.
+  - Lede hændelsesundersøgelser for teamets services og drive rettelserne.
+  - Arbejde sammen med kliniske sikkerhedsansvarlige om at sikre, at sikkerhedskontroller designes ind og testes.
+  - Coache og udvikle udviklere i teamet.
+  qualifications:
+  - Betydelig erfaring med at designe, bygge og supportere software i produktion på et niveau svarende til en kandidatgrad.
+- title: Ledende softwareudvikler
+  responsibilities:
+  - Lede udviklingen af et produkt eller en gruppe af teams og fastlægge den tekniske retning.
+  - Sikre, at softwaren designes for sikkerhed, tryghed, robusthed og interoperabilitet.
+  - Arbejde sammen med arkitekter, produktchefer og kliniske ledere om at forme produktets køreplan.
+  - Lede praksisfællesskabet for udvikling og fastsætte standarder på tværs af teams.
+  - Have personaleansvar for eller lede udviklere og støtte deres udvikling og præstation.
+  qualifications:
+  - Omfattende erfaring med at lede softwareudvikling for komplekse services.
+  job_evaluation_notes: UK GDaD PCF angiver både ledende og principal udvikler oftest i G7 eller G6; denne reference placerer den ledende i lønramme 8a og principal i lønramme 8b.
+- title: Principal softwareudvikler
+  responsibilities:
+  - Fastlægge strategi, standarder og praksis for organisationens softwareudvikling.
+  - Rådgive den øverste ledelse om teknologivalg, risici og investering.
+  - Lede løsningen af de mest komplekse tekniske problemer på tværs af services.
+  - Repræsentere organisationen i ingeniørfællesskaber på tværs af organisationer og i open source.
+  - Lede og udvikle ledende udviklere og udvide organisationens tekniske kompetencer.
+  qualifications:
+  - Omfattende erfaring med at lede udvikling på tværs af flere teams eller organisationer.

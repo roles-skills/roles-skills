@@ -1,0 +1,46 @@
+# Danish translation of data/skills/data-testing.yaml. Keys are the English skill ids.
+data-ai-assurance:
+  name: Sikker og fair kunstig intelligens i sundhedsvæsenet
+  description: At sikre, at statistiske modeller, modeller til maskinlæring og modeller til kunstig intelligens, der bruges i sundhed og pleje, er sikre, fair, forklarlige og overvåget, herunder kontrol for skævhed på tværs af patientgrupper og opfyldelse af regler for medicinsk udstyr og kunstig intelligens.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvordan en model kan skade patienter, for eksempel gennem skævhed, drift eller overdreven tillid til dens output
+      - forklare, hvorfor modeller skal valideres på den befolkning, de skal bruges til
+    working: |
+      Du kan:
+      - måle en models præstation for forskellige patientgrupper og rapportere forskelle
+      - dokumentere en models tilsigtede brug, træningsdata og kendte begrænsninger, for eksempel i et modelkort
+      - bidrage med evidens om en model til en klinisk sikkerhedsbegrundelse
+    practitioner: |
+      Du kan:
+      - planlægge validering, vurdering af skævhed og løbende overvågning af en model sammen med kliniske kolleger
+      - afgøre, hvornår en model skal trænes om, begrænses eller trækkes tilbage
+      - rådgive teams om, hvornår en model kan være reguleret som medicinsk udstyr, og hvilken evidens den kræver
+    expert: |
+      Du kan:
+      - fastlægge organisationens standarder for kvalitetssikring og overvågning af kunstig intelligens i plejen
+      - lede kvalitetssikringen af modeller med høj risiko før og efter ibrugtagning
+      - repræsentere organisationen over for tilsynsmyndigheder og partnere i spørgsmål om sikker og fair kunstig intelligens
+data-deidentification:
+  name: Pseudonymisering og kontrol med videregivelse
+  description: At beskytte patienters fortrolighed, når data sammenkædes, analyseres, deles eller offentliggøres, ved hjælp af pseudonymisering, anonymisering, undertrykkelse af små tal og andre statistiske metoder til kontrol med videregivelse.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare forskellen på identificerbare, pseudonymiserede og anonymiserede data
+      - følge organisationens regler for undertrykkelse af små tal i resultater
+    working: |
+      Du kan:
+      - arbejde med pseudonymiserede data og foretage kontroller af videregivelse, før resultater frigives
+      - genkende, når sammenkædede eller detaljerede data kan identificere en patient
+    practitioner: |
+      Du kan:
+      - designe metoder til pseudonymisering og sammenkædning, der holder identifikatorer adskilt fra analysedata
+      - vurdere risikoen for genidentifikation i et datasæt eller en publikation og vælge egnede kontroller
+      - rådgive teams om sikre miljøer, såsom betroede forskningsmiljøer
+    expert: |
+      Du kan:
+      - fastlægge organisationens standarder for afidentifikation og kontrol med videregivelse
+      - kvalitetssikre frigivelser af data med høj risiko og sammenkædningsprojekter
+      - lede arbejdet med partnere om sikker adgang til data til forskning og planlægning

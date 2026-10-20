@@ -1,0 +1,33 @@
+summary: Den kliniske informationschef (CCIO) er den øverste kliniske leder for det digitale område. Vedkommende fastlægger den kliniske retning for organisationens digitale services, leder klinisk informatik og klinisk sikkerhed og sikrer, at digitale investeringer forbedrer patientplejen, sikkerheden og klinikeres og plejepersonales arbejdsliv. CCIO'er er som regel praktiserende klinikere, der sidder i direktionen eller rådgiver den.
+health_context:
+- CCIO'en giver klinisk troværdighed til digitale beslutninger, så de fleste stillinger kræver en autoriseret kliniker, der stadig udfører noget klinisk arbejde.
+- CCIO'en er den øverste stemme for patientsikkerhed i digitale services og arbejder sammen med chefen for klinisk sikkerhed og de lægelige og sygeplejefaglige ledere.
+- CCIO'en leder klinikere gennem store forandringer, såsom udskiftning af en elektronisk patientjournal, hvor indførelse og sikkerhed afhænger af klinisk ledelse.
+- CCIO'en hjælper med at afveje digitale ambitioner mod virkeligheden i klinisk arbejdsbyrde, arbejdsstyrke og risiko.
+levels:
+- title: Vicekonstitueret klinisk informationschef
+  summary: Leder større dele af den kliniske digitale dagsorden på vegne af CCIO'en, såsom et plejemiljø, en faggruppe eller et stort program for kliniske systemer, og er stedfortræder for CCIO'en.
+  responsibilities:
+  - Lede den kliniske retning for et større program, et plejemiljø eller en faggruppe.
+  - Lede et team af kliniske informatikere og kliniske ledere og fastsætte prioriteter og standarder.
+  - Rådgive programbestyrelser og direktionen om den kliniske risiko og gevinst ved digitale investeringer.
+  - Lede grupper for klinisk design og sikkerhed og træffe kliniske beslutninger inden for delegeret beføjelse.
+  - Opbygge netværk af kliniske ambassadører og lede den kliniske inddragelse i store forandringer.
+  - Være stedfortræder for CCIO'en ved direktionsmøder og over for partnerorganisationer.
+  qualifications:
+  - Gældende autorisation hos et klinisk fagligt organ med omfattende klinisk erfaring og erfaring med klinisk ledelse.
+  - En kandidatgrad i klinisk informatik eller sundhedsinformatik eller ledelse, eller tilsvarende erfaring med at lede klinisk digital forandring.
+  job_evaluation_notes: Patientpleje scores på niveau 6 for højt specialiseret rådgivning om patientpleje på tværs af organisationens digitale services.
+- title: Klinisk informationschef
+  summary: Organisationens øverste kliniske leder for det digitale område, ansvarlig for den kliniske retning for dens digitale services og for ledelsen af klinisk informatik, med indflydelse for hele organisationen på klinisk sikkerhed.
+  responsibilities:
+  - Fastlægge den kliniske digitale strategi og sikre, at den understøtter organisationens kliniske strategi og plejestrategi.
+  - Rådgive bestyrelsen og direktionen om den kliniske risiko, gevinst og prioritering af digitale investeringer.
+  - Lede funktionen for klinisk informatik og den kliniske designmyndighed og føre tilsyn med klinisk sikkerhed for it i sundhedsvæsenet.
+  - Lede kliniske ledere i hele organisationen og hos dens partnere gennem store digitale forandringer.
+  - Sikre, at patientsikkerhed, klinisk evidens og medarbejderoplevelse former enhver større digital beslutning.
+  - Repræsentere organisationen i faglige, akademiske og tværorganisatoriske kliniske digitale netværk.
+  qualifications:
+  - Gældende autorisation hos et klinisk fagligt organ med omfattende klinisk erfaring og erfaring med seniorledelse.
+  - Omfattende erfaring med at lede klinisk digital strategi og forandring på organisationsniveau.
+  job_evaluation_notes: Patientpleje scores på niveau 6 og ikke 7, fordi CCIO'en rådgiver om kliniske services, men som regel ikke er ansvarlig for at levere dem. Økonomisk ansvar og personaleansvar er lavere end i andre direktionsroller, fordi store digitale budgetter og teams som regel hører under den digitale chef eller informationschefen.

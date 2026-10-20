@@ -1,0 +1,57 @@
+summary: Cybersikkerhedschefer leder organisationens tilgang til at beskytte dens systemer, data og services mod cybertrusler. De fastlægger sikkerhedspolitik, styrer cyberrisiko, fører tilsyn med sikkerhedsdrift og sikkerhedsudvikling, leder indsatsen ved større cyberhændelser og opbygger en sikkerhedsbevidst kultur. I sundhedsvæsenet sørger de for, at kliniske services kan fortsætte sikkert og komme hurtigt på fode igen, når et angreb sker.
+health_context:
+- Et cyberangreb på en sundhedsorganisation kan standse kliniske systemer og bringe patienter i fare, så cybersikkerhed er en del af patientsikkerheden og beredskabet.
+- Sundhedsorganisationer skal ofte opfylde sektorens standarder for cybersikkerhed og indberette alvorlige hændelser til de relevante myndigheder.
+- Kliniske medarbejdere har brug for hurtig adgang til systemer, så sikkerhedspolitikker udformes sammen med klinikere og testes for brugbarhed.
+- Sikkerhed afhænger af mange leverandører, herunder leverandører af kliniske systemer og fælles services, så kvalitetssikring af leverandører er en kerne i rollen.
+- Medicinsk udstyr og ældre systemer skaber langvarige risici, der styres sammen med klinisk ingeniørarbejde og kliniske sikkerhedsteams.
+levels:
+- title: Cybersikkerhedschef
+  summary: En cybersikkerhedschef driver cybersikkerhedsfunktionen eller en væsentlig del af den og styrer cyberrisiko, sikkerhedsdrift og kvalitetssikring.
+  responsibilities:
+  - Drive sikkerhedsdrift, sårbarhedsstyring og kvalitetssikringsarbejde og rapportere om deres præstation.
+  - Vedligeholde cyberrisikoregistret og sikre, at risici for kliniske services vurderes og har en ejer.
+  - Skrive og vedligeholde sikkerhedspolitikker og -standarder og kontrollere, at de følges.
+  - Lede indsatsen ved cyberhændelser sammen med hændelsesstyring og med kliniske ledere og driftsledere.
+  - Gennemføre oplæring i sikkerhedsbevidsthed og phishing-øvelser for alle medarbejdere, også kliniske medarbejdere.
+  - Have personaleansvar for sikkerhedsanalytikere og -ingeniører.
+  qualifications:
+  - Omfattende erfaring med cybersikkerhed, herunder hændelsesrespons og risikostyring, på et niveau svarende til en kandidatgrad.
+  - En anerkendt faglig sikkerhedscertificering eller tilsvarende erfaring.
+  job_evaluation_notes: Mental og følelsesmæssig anstrengelse afspejler ledelse af indsatsen ved cyberhændelser under pres, ofte uden for arbejdstid, hvor patientplejen kan være i fare.
+- title: Senior cybersikkerhedschef
+  summary: En senior cybersikkerhedschef leder cybersikkerhed på tværs af flere teams, styrer kvalitetssikring mod sektorstandarder og driver organisationens program til forbedring af sikkerheden.
+  responsibilities:
+  - Lede cybersikkerhedsteams inden for drift, udvikling og kvalitetssikring.
+  - Drive organisationens program til forbedring af cybersikkerheden og styre dets budget.
+  - Styre kvalitetssikring mod sektorens standarder for cybersikkerhed og kontroller i ISO/IEC 27001 og forberede dokumentation til audits.
+  - Lede indsatsen ved større cyberhændelser og planlægge og teste genopretning sammen med beredskabet og kliniske ledere.
+  - Vurdere sikkerheden hos leverandører og i fælles services og aftale sikkerhedskrav i kontrakter.
+  - Rådgive programbestyrelser om sikkerhedsrisici ved nye kliniske og digitale services.
+  qualifications:
+  - Omfattende erfaring med at lede cybersikkerhedsteams i en kompleks organisation.
+  - En anerkendt faglig sikkerhedscertificering eller tilsvarende erfaring.
+  job_evaluation_notes: Mental og følelsesmæssig anstrengelse afspejler ledelse af indsatsen ved større cyberhændelser, som kan vare dage eller uger og true patientplejen.
+- title: Chef for cybersikkerhed
+  summary: En chef for cybersikkerhed fastlægger organisationens cybersikkerhedsstrategi og er ansvarlig for dens styring af cyberrisiko, sikkerhedsdrift og indsats ved større hændelser.
+  responsibilities:
+  - Fastlægge cybersikkerhedsstrategien i overensstemmelse med organisationens digitale og kliniske strategier.
+  - Rådgive bestyrelsen og direktionen om cyberrisiko, risikovillighed og investering.
+  - Lede organisationens indsats ved større cyberhændelser, herunder kommunikation med tilsynsmyndigheder, partnere og offentligheden.
+  - Opbygge en sikkerhedskultur, hvor alle medarbejdere, også klinikere, forstår trusler og indberetter dem.
+  - Repræsentere organisationen i netværk for cybersikkerhed i sundhedsvæsenet og over for partnerorganisationer.
+  - Lede og udvikle cybersikkerhedsfunktionen og styre dens budget.
+  qualifications:
+  - Omfattende erfaring med at lede cybersikkerhed i en stor organisation, herunder indsats ved større hændelser.
+- title: Informationssikkerhedschef (CISO)
+  summary: En informationssikkerhedschef (CISO) har det overordnede ansvar for cybersikkerhed i hele organisationen og ofte også i de partnerorganisationer, der deler dens services.
+  responsibilities:
+  - Have det overordnede ansvar for cybersikkerhed og rapportere om det til bestyrelsen.
+  - Fastsætte sikkerhedsrisikovilligheden sammen med bestyrelsen og sikre, at den former beslutninger i hele organisationen.
+  - Lede cybersikkerhed på tværs af fælles services og partnerorganisationer, hvor organisationen leverer dem.
+  - Styre organisationens indsats ved de mest alvorlige cyberhændelser i samarbejde med direktionen og de relevante myndigheder.
+  - Forme praksis for cybersikkerhed i sundheds- og plejesektoren ved at samarbejde med partnere og sektororganer.
+  - Lede sikkerhedsfunktionen og have budgetter på tværs af flere services.
+  qualifications:
+  - Omfattende erfaring med at lede cybersikkerhed på bestyrelsesniveau eller for flere organisationer.
+  job_evaluation_notes: Dette niveau passer til større organisationer eller organisationer, der leverer fælles digitale services til partnere. Mindre organisationer har som regel en chef for cybersikkerhed i lønramme 8c som deres mest senior sikkerhedsrolle.

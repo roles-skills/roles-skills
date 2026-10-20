@@ -1,0 +1,44 @@
+summary: Sikkerhedsingeniører designer, bygger og driver de tekniske sikkerhedskontroller, der beskytter organisationens systemer, data og brugere. De arbejder med identitet og adgang, beskyttelse af slutpunkter og netværk, kryptering, logning og cloudsikkerhed og hjælper produkt- og infrastrukturteams med at bygge sikkerhed ind. I sundhedsvæsenet beskytter de kliniske systemer og patientdata og holder samtidig adgangen hurtig for klinikere ved behandlingsstedet.
+health_context:
+- Sikkerhedskontroller må ikke stå i vejen for akut pleje, så ingeniørerne designer stærk autentificering, der stadig virker hurtigt på fælles kliniske arbejdsstationer.
+- Medicinsk udstyr og ældre kliniske systemer kan ofte ikke opdateres eller køre sikkerhedssoftware, så ingeniørerne designer netværkssegmentering og kompenserende kontroller.
+- Ransomware er en stor trussel mod sundhedsvæsenet, så ingeniørerne hærder systemer, beskytter sikkerhedskopier og begrænser, hvor langt et angreb kan sprede sig.
+- Kliniske systemer leveres og supporteres ofte af tredjeparter, så ingeniørerne vurderer leverandørernes sikkerhed og kontrollerer deres fjernadgang.
+- Ændringer af sikkerhedskontroller på kliniske systemer gennemgår ændringsstyring og, hvor det er nødvendigt, klinisk sikkerhedsgennemgang.
+levels:
+- title: Sikkerhedsingeniør
+  summary: En sikkerhedsingeniør bygger, konfigurerer og vedligeholder sikkerhedskontroller og -værktøjer og hjælper teams med at rette sikkerhedssvagheder.
+  responsibilities:
+  - Bygge og vedligeholde sikkerhedskontroller, såsom slutpunktsbeskyttelse, firewalls, e-mailsikkerhed og sikkerhedslogning.
+  - Konfigurere kontroller af identitet og adgang, herunder multifaktorautentificering og privilegeret adgang.
+  - Hjælpe infrastruktur- og produktteams med at rette sårbarheder og hærde systemer efter aftalte standarder.
+  - Segmentere netværk for at beskytte medicinsk udstyr og ældre systemer sammen med infrastruktur- og klinisk ingeniørarbejde.
+  - Gennemgå sikkerheden i nye systemer og leverandørers fjernadgang, før de tages i brug.
+  - Deltage i vagtordningen for at understøtte indsatsen ved sikkerhedshændelser.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller cybersikkerhed, relevante sikkerhedscertificeringer eller tilsvarende erfaring.
+  - Erfaring med at bygge eller drive infrastruktur eller sikkerhedsværktøjer.
+  job_evaluation_notes: Mental anstrengelse afspejler hyppig langvarig koncentration om komplekst teknisk arbejde og hændelsesstøtte, også under vagt.
+- title: Senior sikkerhedsingeniør
+  summary: En senior sikkerhedsingeniør designer og leder leveringen af væsentlige sikkerhedskontroller og rådgiver teams om sikkert design.
+  responsibilities:
+  - Designe og lede leveringen af sikkerhedskontroller, såsom styring af privilegeret adgang, sikkerhedsovervågning og beskyttelse af sikkerhedskopier.
+  - Rådgive produkt- og infrastrukturteams om sikkert design af kliniske services og services til patienter.
+  - Designe kompenserende kontroller for medicinsk udstyr og andre systemer, der ikke kan opdateres.
+  - Vurdere sikkerheden hos leverandører og deres produkter, herunder cloudtjenester.
+  - Støtte indsatsen ved alvorlige sikkerhedshændelser med teknisk ekspertise og genopretningsplaner.
+  - Coache sikkerhedsingeniører og dele god praksis på tværs af teams.
+  qualifications:
+  - Betydelig erfaring med sikkerhedsingeniørarbejde på et niveau svarende til en diplomuddannelse.
+  - Relevante avancerede sikkerhedscertificeringer eller tilsvarende erfaring.
+- title: Ledende sikkerhedsingeniør
+  summary: En ledende sikkerhedsingeniør fastlægger den tekniske retning for sikkerhedsingeniørarbejdet og sikrer, at kontroller virker sammen på tværs af organisationen.
+  responsibilities:
+  - Fastlægge den tekniske retning og standarder for sikkerhedskontroller i hele organisationen.
+  - Lede sikkerhedsdesignet for større programmer, såsom overgang til cloud-hosting eller en ny elektronisk patientjournal.
+  - Sikre, at kontroller beskytter mod ransomware og understøtter hurtig, sikker genopretning af kliniske systemer.
+  - Afveje sikkerhed mod klinisk brugbarhed sammen med kliniske ledere om adgang og autentificering.
+  - Rådgive cybersikkerhedschefen om teknisk risiko og investering.
+  - Lede og udvikle sikkerhedsingeniører.
+  qualifications:
+  - Omfattende erfaring med at lede sikkerhedsingeniørarbejde for komplekse services.

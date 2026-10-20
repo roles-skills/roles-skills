@@ -1,0 +1,39 @@
+summary: Netværksarkitekter designer de lokale netværk, vidtstrakte netværk, trådløse netværk og cloudnetværk, der forbinder organisationens lokaliteter, medarbejdere, kliniske systemer og medicinsk udstyr. De sikrer, at netværk er hurtige, robuste og sikre nok til pleje, der aldrig stopper, og planlægger, hvordan netværk ændres, efterhånden som services flytter til cloud og forbindes med partnerorganisationer.
+health_context:
+- Kliniske systemer, telefoni og medicinsk udstyr afhænger af netværket, så et udfald kan standse plejen; design kræver robusthed og afprøvet failover.
+- Netværk bærer ofte tilsluttet medicinsk udstyr, der er svært at opdatere, så arkitekterne designer segmentering og overvågning for at beskytte det.
+- Medarbejdere arbejder på tværs af sygehuse, klinikker, kommunale miljøer og patienters hjem, så design skal understøtte sikker mobil adgang og fjernadgang.
+- Netværk forbindes til fælles sundheds- og plejenetværk og partnerorganisationer, som stiller egne krav til forbindelse og sikkerhed.
+- Ændringer i kliniske områder kræver omhyggelig planlægning omkring patientplejen, for eksempel ved at lægge arbejde uden for travle perioder.
+levels:
+- title: Associeret netværksarkitekt
+  responsibilities:
+  - Udarbejde udkast til netværksdesign, diagrammer og specifikationer med vejledning fra netværksarkitekter.
+  - Besigtige lokaliteter og indsamle krav til kliniske områder, herunder trådløs dækning og enhedsforbindelser.
+  - Holde registre over netværkstopologi, adressering og tilsluttede enheder ajour.
+  - Kontrollere, at design opfylder serviceniveauer og sikkerhedsstandarder før gennemgang.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller netværk, en anerkendt uddannelse i netværk eller tilsvarende erfaring.
+  - Specialistviden om netværksdesign på niveau med en diplomuddannelse eller tilsvarende erfaring.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 5): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 6. Viden scores på niveau med en diplomuddannelse, og informationsressourcer på niveau 5, fordi jobbet designer dele af netværket, som større informationssystemer afhænger af.'
+- title: Netværksarkitekt
+  responsibilities:
+  - Designe løsninger til lokale netværk, vidtstrakte netværk, trådløse netværk og cloudnetværk for lokaliteter og services.
+  - Designe netværkssegmentering for medicinsk udstyr, kliniske systemer og gæsteadgang.
+  - Planlægge netværksændringer i kliniske områder sammen med serviceledere, så plejen ikke forstyrres.
+  - Aftale serviceniveauer med leverandører og krav til forbindelse med partnernetværk.
+  - Vurdere nye netværksteknologier og deres overensstemmelse med organisationens sikkerhedsstandarder.
+  qualifications:
+  - Specialistviden om netværksarkitektur på kandidatniveau eller med tilsvarende erfaring.
+  - Erfaring med at designe og supportere virksomhedsnetværk.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 6): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 7. Viden scores på kandidatniveau eller tilsvarende for specialistviden på tværs af lokale netværk, vidtstrakte netværk, trådløse netværk og cloudnetværk.'
+- title: Ledende netværksarkitekt
+  responsibilities:
+  - Eje netværksarkitekturen for organisationen, herunder dens lokaliteter, datacentre og cloudforbindelser.
+  - Fastsætte standarder for netværksdesign og kvalitetssikre design hos designmyndigheden.
+  - Designe netværksrobusthed og genopretning for kritiske kliniske services og sikre, at de afprøves.
+  - Rådgive om netværksinvesteringer, leverandørkontrakter og netværksrisici ved nye services.
+  - Fungere som ekspertens eskaleringspunkt og vejlede andre netværksarkitekter og ingeniører.
+  qualifications:
+  - Betydelig erfaring med netværksarkitektur i komplekse organisationer på et niveau svarende til en kandidatgrad.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 7): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8a. Informationsressourcer er niveau 6, fordi jobbet ejer den netværksarkitektur, som alle organisationens informationssystemer afhænger af.'

@@ -68,7 +68,7 @@ data/
   skills/*.yaml           skills original to this reference, with ESCO links
   bands.yaml              bands, competency outlines, grade-to-band rule
   job-evaluation.yaml     16 factors, levels, points, band ranges
-  locales/<code>/         translations of the above, such as en-001, en-gb, and en-us (English), cy-gb and cy-001 (Welsh), zh-001 and zh-cn (Chinese), hi-001 and hi-in (Hindi), es-001 (Spanish), fr-001 (French), ar-001 (Arabic), bn-001 (Bengali), ru-001 (Russian), id-001 (Indonesian), ja-001 and ja-jp (Japanese), ko-001 and ko-kr (Korean), sv-001 and sv-se (Swedish), nl-001 and nl-nl (Dutch), is-001 and is-is (Icelandic), sw-001 and sw-tz (Swahili), vi-001 and vi-vn (Vietnamese), pt-001 (Portuguese), ur-001 (Urdu), and de-001 (German)
+  locales/<code>/         translations of the above, such as en-001, en-gb, and en-us (English), cy-gb and cy-001 (Welsh), zh-001 and zh-cn (Chinese), hi-001 and hi-in (Hindi), es-001 (Spanish), fr-001 (French), ar-001 (Arabic), bn-001 (Bengali), ru-001 (Russian), id-001 (Indonesian), ja-001 and ja-jp (Japanese), ko-001 and ko-kr (Korean), sv-001 and sv-se (Swedish), nl-001 and nl-nl (Dutch), is-001 and is-is (Icelandic), sw-001 and sw-tz (Swahili), vi-001 and vi-vn (Vietnamese), pt-001 (Portuguese), ur-001 (Urdu), da-001 (Danish), and de-001 (German)
   crosswalks/pcf-esco.tsv UK GDaD PCF skills matched to ESCO skills
   sources/pcf/            UK GDaD PCF downloads
   sources/esco/           ESCO occupations and occupation skills

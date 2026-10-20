@@ -1,0 +1,59 @@
+summary: Kliniske informatikere er autoriserede klinikere, såsom læger, sygeplejersker, farmaceuter og andre sundhedsfaglige, der bruger deres kliniske viden til at forme organisationens digitale sundhedsservices. De sikrer, at kliniske systemer, data og beslutningsstøtte passer til den måde, plejen leveres på, er sikre at bruge og forbedrer resultaterne for patienter og oplevelsen for klinikere og plejepersonale.
+health_context:
+- Rollen kræver aktuel klinisk viden, så de fleste stillinger kræver autorisation hos et klinisk fagligt organ og noget løbende klinisk praksis.
+- Kliniske informatikere giver specialiseret rådgivning om, hvordan systemer påvirker patientplejen, så deres vurdering påvirker patientsikkerheden direkte.
+- De arbejder tæt sammen med kliniske sikkerhedsansvarlige og bidrager med klinisk ekspertise til identifikation af farer og sikkerhedsbegrundelser.
+- Gode kliniske data afhænger af ensartet brug af kliniske terminologier som SNOMED CT, så de hjælper med at designe strukturerede journaler og beslutningsstøtte.
+- De fungerer som bro mellem klinikere, plejepersonale og digitale teams og leder ofte den kliniske inddragelse i systemændringer.
+levels:
+- title: Specialist i klinisk informatik
+  summary: Bringer klinisk ekspertise ind i design, konfiguration, test og indførelse af kliniske systemer og arbejder i et produkt- eller programteam under vejledning af en senior klinisk informatiker.
+  responsibilities:
+  - Kortlægge kliniske arbejdsgange sammen med klinikere og plejepersonale og omsætte dem til klare krav.
+  - Designe og teste systemindhold, såsom formularer, ordresæt og plejeplaner, mod kliniske scenarier.
+  - Deltage i farerworkshops og give kliniske vurderinger af risici og kontroller.
+  - Støtte klinikere og plejepersonale i at tage nye systemer i brug på en sikker måde, herunder oplæring og støtte ved idriftsættelse.
+  - Kontrollere, at kliniske data registreres ensartet ved hjælp af aftalte kliniske terminologier.
+  - Indsamle feedback og data om brugen af systemet og foreslå forbedringer.
+  qualifications:
+  - Gældende autorisation hos et klinisk fagligt organ med erfaring fra klinisk praksis.
+  - Erfaring med at bruge kliniske systemer i praksis eller tilsvarende erfaring med digital forandring.
+  job_evaluation_notes: Patientpleje scores på niveau 4, fordi jobbet rådgiver om patienters pleje gennem design af kliniske systemer. Følelsesmæssig belastning afspejler den regelmæssige gennemgang af kliniske journaler og hændelser.
+- title: Senior klinisk informatiker
+  summary: Leder det kliniske bidrag til et større klinisk system, produkt eller program og giver specialiseret rådgivning om, hvordan digitale services påvirker patientpleje og sikkerhed.
+  responsibilities:
+  - Lede det kliniske design af et større klinisk system eller produkt og fastsætte standarder for indhold og konfiguration.
+  - Give specialiseret rådgivning til produktteams om kliniske arbejdsgange, beslutningsstøtte og sikkerhed.
+  - Arbejde sammen med den kliniske sikkerhedsansvarlige om at identificere farer, aftale kontroller og levere klinisk evidens til sikkerhedsbegrundelser.
+  - Lede klinisk inddragelse og indførelse på tværs af services og fremme sikker brug blandt kliniske kolleger.
+  - Planlægge og gennemføre evalueringer og kliniske audits af brugen af systemer og gevinsterne.
+  - Være mentor for specialister i klinisk informatik og klinikere, der er nye i det digitale arbejde.
+  qualifications:
+  - Gældende autorisation hos et klinisk fagligt organ med betydelig klinisk erfaring.
+  - En overbygningsuddannelse i klinisk informatik eller sundhedsinformatik eller tilsvarende erfaring.
+  job_evaluation_notes: Patientpleje scores på niveau 5 for specialiseret rådgivning om patientpleje. Forskning er niveau 3, fordi evaluering og klinisk audit af systemer er en hoveddel af jobbet.
+- title: Ledende klinisk informatiker
+  summary: Leder klinisk informatik for en portefølje af kliniske systemer eller et plejemiljø, fastsætter standarder for klinisk design og leder et team af kliniske informatikere.
+  responsibilities:
+  - Fastsætte standarder og principper for klinisk design af kliniske systemer på tværs af en portefølje.
+  - Lede et team af kliniske informatikere, fastsætte prioriteter og støtte deres faglige udvikling.
+  - Rådgive programbestyrelser og den øverste ledelse om klinisk risiko, gevinst og prioriteter for kliniske systemer.
+  - Lede kliniske beslutninger om beslutningsstøtte, advarsler og strukturerede data på tværs af services.
+  - Opbygge netværk af kliniske ambassadører og lede den kliniske inddragelse i store forandringer.
+  - Bestille og lede evalueringer og bruge evidensen til at forme køreplanen.
+  qualifications:
+  - Gældende autorisation hos et klinisk fagligt organ med omfattende klinisk erfaring.
+  - En overbygningsuddannelse i klinisk informatik eller sundhedsinformatik eller tilsvarende erfaring med at lede arbejde med klinisk informatik.
+- title: Chef for klinisk informatik
+  summary: Leder organisationens funktion for klinisk informatik og dens kliniske designmyndighed og sikrer, at alle kliniske systemer designes, tages i brug og forbedres med stærk klinisk ledelse.
+  responsibilities:
+  - Fastlægge strategien for klinisk informatik og lede organisationens kliniske designmyndighed.
+  - Lede og udvikle funktionen for klinisk informatik, herunder dens bemandingsplan og budget.
+  - Give højt specialiseret rådgivning til direktionen om virkningen af digitale investeringer på patientplejen.
+  - Sikre, at kliniske systemer opfylder standarder for klinisk sikkerhed, terminologi og data.
+  - Repræsentere organisationen over for partnere i sundhed og pleje, faglige organer og akademiske netværk.
+  - Lede partnerskaber om forskning og evaluering for at opbygge evidensen for digital sundhed.
+  qualifications:
+  - Gældende autorisation hos et klinisk fagligt organ med omfattende klinisk erfaring og ledererfaring.
+  - En kandidatgrad i klinisk informatik eller sundhedsinformatik eller tilsvarende erfaring med at lede klinisk informatik på organisationsniveau.
+  job_evaluation_notes: Patientpleje scores på niveau 6 for højt specialiseret rådgivning om patientpleje på tværs af organisationens kliniske systemer.

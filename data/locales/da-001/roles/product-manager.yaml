@@ -1,0 +1,54 @@
+summary: Produktchefer sikrer, at organisationens digitale sundhedsprodukter opfylder behovene hos patienter, klinikere og plejepersonale og leverer værdi for sundheds- og plejesystemet. De fastlægger produktvisionen og køreplanen, prioriterer tværfaglige teams' arbejde ud fra evidens og er ansvarlige for de resultater, deres produkter opnår, herunder deres virkning på plejen.
+health_context:
+- Produktbeslutninger kan påvirke patientsikkerheden, så produktchefer ejer produktets kliniske risiko sammen med den kliniske sikkerhedsansvarlige og sikrer, at farer håndteres før udgivelse.
+- Produkter betjener mange brugergrupper med forskellige behov, såsom patienter, pårørende, klinikere og administrative medarbejdere, og produktchefer skal afveje dem retfærdigt.
+- Nogle produkter kan være reguleret som medicinsk udstyr, så produktchefer skal vide, hvornår regulering gælder, og planlægge for den.
+- Resultater i plejen omfatter sikkerhed, kvalitet, adgang, lighed og medarbejdertid, så produktchefer definerer succesmål, som ledere inden for klinik og drift kan genkende.
+- Produkter afhænger ofte af nationale og regionale standarder for sundhedsdata og fælles platforme, så produktchefer arbejder på tværs af organisatoriske grænser.
+levels:
+- title: Associeret produktchef
+  responsibilities:
+  - Eje backloggen for en funktion eller en del af et produkt i samarbejde med en produktchef.
+  - Omsætte evidens fra brugerforskning med patienter, klinikere og plejepersonale til prioriterede brugerhistorier.
+  - Arbejde sammen med kliniske sikkerhedsansvarlige om at registrere og gennemgå farer for de funktioner, du ejer.
+  - Følge produktmål, såsom anvendelse, gennemførelsesrater og supportopkald, og rapportere, hvad de viser.
+  - Repræsentere produktet ved demonstrationer og over for driftsinteressenter.
+  qualifications:
+  - Erfaring fra en digital, klinisk eller driftsmæssig rolle eller tilsvarende erfaring.
+- title: Produktchef
+  responsibilities:
+  - Fastlægge vision, køreplan og succesmål for et digitalt sundhedsprodukt.
+  - Prioritere teamets arbejde og afveje brugerbehov, klinisk sikkerhed, politik, tekniske begrænsninger og omkostninger.
+  - Acceptere klinisk risiko ved produktændringer sammen med den kliniske sikkerhedsansvarlige og stoppe releases, der ikke er sikre.
+  - Arbejde sammen med ledere inden for klinik og drift om at sikre, at produktet passer ind i patientforløb og tages i brug.
+  - Sikre, at produktet opfylder standarder for tilgængelighed, informationsstyring og service.
+  - Måle produktets resultater, herunder dets gevinster for patienter og medarbejdere.
+  qualifications:
+  - Betydelig erfaring med produktledelse eller en beslægtet digital rolle.
+- title: Senior produktchef
+  responsibilities:
+  - Lede en gruppe af beslægtede produkter eller et enkelt produkt, der er komplekst, risikabelt eller følsomt, såsom et produkt der bruges i akutpleje.
+  - Opbygge produktstrategi ud fra evidens om patienters behov, klinisk praksis og sundheds- og plejepolitik.
+  - Sikre, at produktet opfylder regulering af medicinsk udstyr, hvor den gælder.
+  - Styre produktets budget og argumentere for investering med gevinster for plejen.
+  - Coache og have personaleansvar for produktchefer.
+  qualifications:
+  - Omfattende erfaring med at styre digitale produkter gennem hele deres livscyklus.
+- title: Ledende produktchef
+  responsibilities:
+  - Lede en produktportefølje eller en service fra ende til anden, såsom alle produkter, der understøtter ét patientforløb.
+  - Fastlægge produktretning på tværs af flere teams og sikre, at produkter fungerer sammen for patienter og medarbejdere.
+  - Arbejde sammen med kliniske ledere og den kliniske sikkerhedsansvarlige om at styre klinisk risiko på tværs af porteføljen.
+  - Have porteføljens budget og rapportere gevinster til seniorstyringsbestyrelser.
+  - Lede og udvikle produktchefer i produktområdet.
+  qualifications:
+  - Omfattende erfaring med at lede produkter på tværs af flere teams.
+- title: Produktdirektør
+  responsibilities:
+  - Fastlægge organisationens produktstrategi i samarbejde med ledere i direktionen, klinikken og driften.
+  - Fastsætte og hæve standarder for produktledelse, herunder hvordan produkter styrer klinisk risiko og måler resultater.
+  - Lede produktfaget, herunder rekruttering, karriereveje og kompetenceopbygning.
+  - Beslutte investeringsprioriteter på tværs af produkter ud fra evidens om behov, værdi og lighed.
+  - Repræsentere organisationens produkter over for partnere i hele sundheds- og plejesystemet.
+  qualifications:
+  - Omfattende erfaring med at lede produktledelse i en organisation.

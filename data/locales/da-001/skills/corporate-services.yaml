@@ -1,0 +1,260 @@
+# Danish translation of data/skills/corporate-services.yaml. Keys are the English skill ids.
+corp-administration:
+  name: Kontoradministration
+  description: At køre de administrative processer, der holder et team eller en service i gang, såsom arkivering, bestilling, dataindtastning, registre og overholdelse af kontorprocedurer.
+  levels:
+    awareness: |
+      Du kan:
+      - følge kontorprocedurer for arkivering, bestilling og dataindtastning
+      - føre nøjagtige registre over dit eget arbejde
+    working: |
+      Du kan:
+      - køre en række administrative processer for et team med lidt supervision
+      - spotte og rette fejl i registre og data
+      - foreslå enklere måder at arbejde på
+    practitioner: |
+      Du kan:
+      - tilrettelægge den administrative støtte til en service eller direktion
+      - skrive og forbedre administrative procedurer
+      - oplære andre administrative medarbejdere og kontrollere deres arbejde
+    expert: |
+      Du kan:
+      - designe administrative services på tværs af organisationen
+      - lede overgangen til enklere, digitale administrative processer
+corp-office-software:
+  name: Digitale kontorværktøjer
+  description: At bruge tekstbehandling, regneark, præsentationer, e-mail, delte dokumenter og samarbejdsværktøjer hurtigt og korrekt.
+  levels:
+    awareness: |
+      Du kan:
+      - oprette og redigere dokumenter, e-mails og enkle regneark
+      - gemme og dele filer det rette sted
+    working: |
+      Du kan:
+      - lave veludformede dokumenter og præsentationer hurtigt og korrekt
+      - bruge regneark til at sortere, filtrere og sammenfatte data
+      - bruge samarbejdsværktøjer til at styre delte dokumenter og versioner
+    practitioner: |
+      Du kan:
+      - bygge skabeloner, opfølgningsark og enkle automatiserede arbejdsgange
+      - gøre dokumenter tilgængelige for alle
+      - hjælpe kolleger med at få mest muligt ud af kontorværktøjerne
+    expert: |
+      Du kan:
+      - fastsætte standarder for skabeloner, dokumenthåndtering og samarbejdsværktøjer
+      - lede indførelsen af nye kontorværktøjer i hele organisationen
+corp-diary-and-meeting-management:
+  name: Kalender- og mødestyring
+  description: At styre kalendere, møder og rejser, så folks tid bruges godt, og møderne har de rette deltagere, papirer og lokaler.
+  levels:
+    awareness: |
+      Du kan:
+      - booke møder og lokaler med organisationens værktøjer
+      - sende invitationer og papirer i god tid
+    working: |
+      Du kan:
+      - styre kalendere for et team og løse kollisioner
+      - arrangere rejser, arrangementer og møder med eksterne partnere
+      - sikre, at papirer og handlinger er klar før møderne
+    practitioner: |
+      Du kan:
+      - styre en seniorleders kalender og sætte prioriteter sammen med vedkommende
+      - afgøre, hvad der kræver lederens tid, og hvad andre kan tage sig af
+      - planlægge den årlige møderække for en bestyrelse eller et ledelsesteam
+    expert: |
+      Du kan:
+      - køre forretningscyklussen for et direktionsteam
+      - sikre, at seniorlederes tid er rettet mod organisationens prioriteter
+corp-minute-taking:
+  name: Referatskrivning og mødeprotokoller
+  description: At registrere drøftelser, beslutninger og handlinger nøjagtigt og kortfattet og føre formelle mødeprotokoller.
+  levels:
+    awareness: |
+      Du kan:
+      - tage noter om handlinger og beslutninger på teammøder
+    working: |
+      Du kan:
+      - skrive nøjagtige, kortfattede referater og handlingslister for rutinemøder
+      - følge op på handlinger hos deres ejere
+    practitioner: |
+      Du kan:
+      - skrive formelle referater af bestyrelses- og udvalgsmøder, også af komplekse eller omstridte drøftelser
+      - føre formelle mødeprotokoller, der kan stå for revision og undersøgelse
+      - rådgive mødeledere om, hvad protokollen bør vise
+    expert: |
+      Du kan:
+      - fastsætte standarder for formelle mødeprotokoller i hele organisationen
+      - oplære referenter og kvalitetskontrollere deres arbejde
+corp-correspondence-management:
+  name: Håndtering af korrespondance og henvendelser
+  description: At håndtere breve, e-mails, opkald og henvendelser hurtigt og høfligt og dirigere dem videre til den rette person.
+  levels:
+    awareness: |
+      Du kan:
+      - besvare opkald og e-mails høfligt og tage nøjagtige beskeder
+      - give henvendelser videre til den rette person
+    working: |
+      Du kan:
+      - håndtere rutinekorrespondance og henvendelser selv
+      - udarbejde breve og svar, som andre kan underskrive
+      - føre korrespondancelister og rykke for svar
+    practitioner: |
+      Du kan:
+      - styre en seniorleders korrespondance, herunder følsomme breve og klagebreve
+      - udarbejde svar, der kræver takt, nøjagtighed og dømmekraft
+      - sikre, at svar overholder fristerne
+    expert: |
+      Du kan:
+      - fastlægge processen og standarderne for direktionens korrespondance
+      - håndtere den mest følsomme korrespondance, herunder med tilsynsmyndigheder, partnere og medier
+corp-pmo-reporting:
+  name: Støtte til projekt- og porteføljekontor
+  description: At køre processerne i et projekt- og porteføljekontor, såsom planer, registre, rapportering, dokumentkontrol og kvalitetssikringskontroller.
+  levels:
+    awareness: |
+      Du kan:
+      - opbevare projektdokumenter det rette sted med versionsstyring
+      - opdatere lister over handlinger, risici og problemer, når du bliver bedt om det
+    working: |
+      Du kan:
+      - vedligeholde planer, registre og opfølgningsark for flere projekter
+      - indsamle opdateringer og udarbejde regelmæssige statusrapporter
+      - kontrollere, at projekterne følger den aftalte metode
+    practitioner: |
+      Du kan:
+      - designe porteføljerapportering og analysere fremdrift, risici og gevinster på tværs af projekter
+      - gennemføre kvalitetssikringskontroller og gateway-gennemgange
+      - rådgive projektledere om metode og kontroller
+    expert: |
+      Du kan:
+      - oprette og lede et porteføljekontor for organisationen
+      - give den øverste ledelse klar og pålidelig indsigt i porteføljen
+      - fastsætte standarder og værktøjer for projekt- og porteføljestyring
+corp-assurance-and-audit:
+  name: Kvalitetssikring og revisionskontakt
+  description: At indsamle forsikring om, at kontroller virker, understøtte interne og eksterne revisioner og følge revisionsanbefalinger til de er gennemført.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvordan revision og kvalitetssikring fungerer i organisationen
+      - fremlægge dokumentation, når du bliver bedt om det
+    working: |
+      Du kan:
+      - koordinere dokumentation til revisioner og inspektioner
+      - følge revisionsanbefalinger og rykke for forsinkede handlinger
+    practitioner: |
+      Du kan:
+      - planlægge en kortlægning af forsikring på tværs af organisationens vigtigste risici
+      - samarbejde med interne og eksterne revisorer om at aftale omfang og bemærkninger
+      - rapportere om mangler i forsikringen til udvalg
+    expert: |
+      Du kan:
+      - designe organisationens ramme for forsikring
+      - rådgive revisionsudvalget og bestyrelsen om forsikringens styrke
+corp-policy-management:
+  name: Politikstyring
+  description: At skrive, gennemgå, godkende og offentliggøre organisationens politikker og procedurer og kontrollere, at folk følger dem.
+  levels:
+    awareness: |
+      Du kan:
+      - finde og følge de politikker, der gælder for dit arbejde
+    working: |
+      Du kan:
+      - holde politikregistret ajour og minde ejerne om gennemgange
+      - kontrollere, at politikker bruger den rette skabelon og godkendelsesvej
+    practitioner: |
+      Du kan:
+      - udarbejde og gennemgå politikker sammen med fageksperter
+      - kontrollere politikker i forhold til lovgivning, standarder og ligestillingsforpligtelser
+      - følge op på overholdelse og rapportere mangler
+    expert: |
+      Du kan:
+      - fastlægge organisationens politikramme
+      - rådgive bestyrelsen om politiske prioriteter og risici
+corp-internal-communications:
+  name: Intern kommunikation
+  description: At holde medarbejderne informeret og engageret gennem kanaler som intranettet, nyhedsbreve, orienteringer og arrangementer, især under forandringer.
+  levels:
+    awareness: |
+      Du kan:
+      - udgive indhold på interne kanaler, såsom intranettet
+      - følge organisationens stil og tone
+    working: |
+      Du kan:
+      - skrive og redigere nyheder, orienteringer og nyhedsbreve til medarbejderne
+      - planlægge indhold til interne kanaler og måle engagement
+    practitioner: |
+      Du kan:
+      - planlægge intern kommunikation i forbindelse med større forandringer, såsom et nyt klinisk system
+      - rådgive ledere om, hvordan medarbejdere engageres, og vanskelige budskaber håndteres
+      - bruge feedback og data til at forbedre kanalerne
+    expert: |
+      Du kan:
+      - fastlægge strategien for intern kommunikation og medarbejderengagement
+      - rådgive direktionsteamet om kultur og engagement
+corp-media-relations:
+  name: Presse- og mediekontakt
+  description: At opbygge relationer til journalister, håndtere henvendelser fra medierne, skrive pressemeddelelser og forberede talspersoner, også under hændelser.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvordan organisationen håndterer henvendelser fra medierne
+      - give henvendelser fra medierne videre til kommunikationsteamet med det samme
+    working: |
+      Du kan:
+      - registrere og besvare rutinehenvendelser fra medierne
+      - udarbejde udkast til pressemeddelelser og udtalelser til godkendelse
+      - overvåge mediedækningen
+    practitioner: |
+      Du kan:
+      - håndtere følsomme og reaktive henvendelser fra medierne, herunder om hændelser eller brud på datasikkerheden
+      - briefe og forberede talspersoner
+      - opbygge relationer til journalister inden for sundhed og teknologi
+    expert: |
+      Du kan:
+      - lede mediehåndteringen under større hændelser og kriser
+      - beskytte og styrke organisationens omdømme over for seniorinteressenter
+      - rådgive bestyrelsen om omdømmerisiko
+corp-communications-strategy:
+  name: Kommunikationsstrategi og -planlægning
+  description: At planlægge kommunikation og kampagner, der opfylder organisationens mål, ved hjælp af indsigt i målgrupperne og evaluere deres effekt.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare formålet med en kommunikationsplan, du arbejder på
+    working: |
+      Du kan:
+      - skrive kommunikationsplaner for projekter med målgrupper, budskaber og kanaler
+      - måle resultaterne af kommunikationsaktiviteter
+    practitioner: |
+      Du kan:
+      - planlægge kampagner, der ændrer adfærd, for eksempel for at få patienter til at bruge en digital service
+      - bruge målgruppeindsigt og evaluering til at forbedre kampagner
+      - planlægge kommunikation i forbindelse med hændelser og serviceudfald
+    expert: |
+      Du kan:
+      - fastlægge organisationens kommunikationsstrategi
+      - lede krisekommunikation
+      - rådgive bestyrelsen om omdømme og inddragelse af interessenter
+corp-digital-and-social-media:
+  name: Digitale og sociale medier
+  description: At planlægge, udgive og styre indhold på websteder og sociale medier, indgå i dialog med målgrupper og måle resultaterne.
+  levels:
+    awareness: |
+      Du kan:
+      - udgive godkendt indhold på organisationens kanaler
+      - følge politikken for sociale medier
+    working: |
+      Du kan:
+      - planlægge og udgive indhold til websteder og sociale medier
+      - svare på kommentarer og spotte problemer, der skal eskaleres
+      - rapportere om kanalernes præstation
+    practitioner: |
+      Du kan:
+      - styre organisationens digitale kanaler og deres indholdsplaner
+      - håndtere negative eller vildledende opslag, også under hændelser
+      - bruge analyser til at øge rækkevidde og engagement
+    expert: |
+      Du kan:
+      - fastlægge strategi og styring for organisationens digitale kanaler
+      - lede indsatsen mod omdømmerisici på nettet

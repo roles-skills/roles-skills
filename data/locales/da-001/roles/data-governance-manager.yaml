@@ -1,0 +1,40 @@
+summary: Chefer for datastyring sikrer, at organisationens sundheds- og plejedata er veladministrerede, pålidelige og bruges sikkert og lovligt. De opretter og driver rammer, politikker og standarder for dataejerskab, kvalitet, metadata og datadeling og arbejder sammen med dataejere, kolleger inden for informationsstyring og kliniske ledere, så data kan bruges med tillid til pleje, planlægning og forskning.
+health_context:
+- Sundhedsdata er yderst følsomme personoplysninger, så datastyring arbejder tæt sammen med informationsstyring, databeskyttelse og tavshedspligten.
+- Data deles med mange partnere i sundhed og pleje til direkte pleje, planlægning og forskning, og hver anvendelse kræver et klart retligt grundlag, aftaler og kontroller.
+- Kliniske datastandarder, såsom SNOMED CT, ICD og HL7 FHIR, og aftalte datadefinitioner er centrale for at gøre data ensartede på tværs af systemer og organisationer.
+- Dårlig datakvalitet kan direkte føre til patientskade, såsom oversete allergier eller forkert patientmatchning, samt til forkerte beslutninger om services.
+- Patienter og offentligheden forventer åbenhed om, hvordan deres data bruges, så styringen omfatter gennemsigtighed og respekt for patienternes valg om sekundær anvendelse.
+levels:
+- title: Chef for datastyring
+  responsibilities:
+  - Drive organisationens ramme for datastyring, herunder dataejerskab, forvaltning og beslutningsgrupper.
+  - Vedligeholde datakataloget, forretningsordbogen og datastandarderne, herunder aftalte kliniske og driftsmæssige definitioner.
+  - Overvåge datakvaliteten for centrale datasæt og arbejde sammen med dataejere om at rette årsagerne.
+  - Samarbejde med kolleger inden for informationsstyring om aftaler om datadeling og konsekvensanalyser vedrørende databeskyttelse for nye anvendelser af data.
+  - Registrere og styre datarisici og -problemer og eskalere dem til den rette ejer.
+  - Forbedre datakompetencerne hos medarbejdere, der opretter og bruger sundhedsdata.
+  qualifications:
+  - En bacheloruddannelse eller faglig uddannelse i data, informationsstyring eller et beslægtet fag, eller tilsvarende erfaring.
+  - Erfaring med datastyring eller datahåndtering i en kompleks organisation.
+  job_evaluation_notes: UK GDaD PCF foreslår HEO til G7 for dette niveau, hvilket svarer til lønramme 6. Denne reference placerer det i lønramme 7, fordi rollen i en sundhedsorganisation som regel styrer fortrolige patientdata i hele organisationen og udvikler datapolitik, der påvirker flere services.
+- title: Ledende chef for datastyring
+  responsibilities:
+  - Lede design og drift af rammer, politikker og standarder for datastyring i hele organisationen.
+  - Koordinere dataejere og forvaltere om at styre datarisici, acceptere eller løse dem og rapportere dem til seniorudvalg.
+  - Lede det bredere arbejde med datahåndtering, såsom stamdata for patienter, medarbejdere og lokaliteter samt referencedata.
+  - Aftale ordninger for datastyring for data, der deles med partnere i sundhed og pleje og forskere.
+  - Rådgive programmer om, hvordan nye systemer og anvendelser af data opfylder datastandarder og styringsregler.
+  - Have personaleansvar for medarbejdere i datastyring.
+  qualifications:
+  - Omfattende erfaring med at lede datastyring eller datahåndtering.
+- title: Afdelingschef for datastyring
+  responsibilities:
+  - Arbejde sammen med den administrerende datachef (CDO) og den direktionsansvarlige for informationsrisiko om at fastlægge strategien for datastyring og brug af data.
+  - Fastsætte politikker og standarder for datastyring og følge op på, hvor godt organisationen følger dem.
+  - Være ansvarlig for at styre organisationens datarisici og rapportere om dem til bestyrelsen.
+  - Repræsentere organisationen i spørgsmål om datastyring over for partnere i sundhed og pleje, tilsynsmyndigheder og patientgrupper.
+  - Fremme åbenhed over for patienter og offentligheden om, hvordan deres data bruges.
+  - Lede og udvikle funktionen for datastyring.
+  qualifications:
+  - Omfattende erfaring med at lede datastyring i en organisation.

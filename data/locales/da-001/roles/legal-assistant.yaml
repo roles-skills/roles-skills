@@ -1,0 +1,42 @@
+summary: Juridiske assistenter og paralegals støtter organisationens jurister, så det juridiske arbejde er organiseret, korrekt og til tiden. De styrer sager og dokumenter, udarbejder kontrakter og bilagsmapper, undersøger juridiske spørgsmål og håndterer juridiske rutineopgaver. I en digital sundheds- og plejeorganisation involverer meget af arbejdet teknologikontrakter, aftaler om datadeling og databehandling, anmodninger om oplysninger og krav, der kan involvere følsomme patientoplysninger.
+health_context:
+- Juridiske sagsmapper indeholder ofte fortrolige sundhedsoplysninger, såsom kliniske journaler i krav, så der gælder streng informationsstyring.
+- Mange aftaler er for software, cloudtjenester og datadeling, så medarbejderne skal genkende de klausuler, der er vigtige for patientdata og servicekontinuitet.
+- Frister i krav, retsundersøgelser og udbudsklager er korte og faste, og overskridelse kan være dyr.
+- Organisationen bruger offentlige midler på eksterne jurister, så juridiske udgifter skal følges og kontrolleres.
+levels:
+- title: Juridisk administrator
+  summary: Juridiske administratorer driver det juridiske teams administrative processer, såsom oprettelse af sager, dokumenthåndtering, registre og fakturaer, efter fastlagte procedurer.
+  responsibilities:
+  - Åbne, opdatere og lukke sager i sagsstyringssystemet.
+  - Arkivere, formatere og genfinde juridiske dokumenter og holde dem sikre og fortrolige.
+  - Vedligeholde kontrakt-, skøde- og underskriftsregistre.
+  - Styre kalendere og vigtige datoer og minde jurister om frister.
+  - Kontrollere og behandle fakturaer fra eksterne jurister.
+  - Besvare rutinehenvendelser og dirigere anmodninger om juridisk rådgivning videre.
+  qualifications:
+  - Gode administrative færdigheder og tastaturfærdigheder, opnået gennem uddannelse eller erhvervserfaring.
+  - En uddannelse i juridisk administration er nyttig, men ikke nødvendig.
+- title: Juridisk assistent
+  summary: Juridiske assistenter støtter jurister i en række sager, udarbejder dokumenter ud fra skabeloner, gennemfører afgrænset research og styrer de praktiske trin i kontrakter og sager.
+  responsibilities:
+  - Udarbejde standardaftaler, såsom fortrolighedsaftaler og aftaler om datadeling, ud fra godkendte skabeloner.
+  - Udarbejde bilagsmapper, kronologier og pakker til underskrift til kontrakter og sager.
+  - Gennemføre afgrænset juridisk research og sammenfatte resultaterne for jurister.
+  - Indsamle dokumenter og beviser til krav og anmodninger om oplysninger.
+  - Følge eksterne juridiske udgifter i forhold til budgetter og rapportere om dem.
+  - Oplære juridiske administratorer i rutineopgaver.
+  qualifications:
+  - En uddannelse som juridisk assistent eller paralegal på mellemniveau eller tilsvarende erfaring.
+- title: Paralegal
+  summary: Paralegals håndterer deres egen portefølje af juridiske rutinesager under en jurists supervision, såsom gennemgang af standardkontrakter, anmodninger om oplysninger og støtte til krav.
+  responsibilities:
+  - Gennemgå rutineaftaler, såsom softwarelicenser, serviceaftaler og databehandleraftaler, i forhold til organisationens standarder.
+  - Styre en portefølje af rutinekrav eller tvister, udarbejde dokumenter og samarbejde med eksterne jurister og erstatningsordninger.
+  - Undersøge juridiske spørgsmål og udarbejde udkast til rådgivning, som en jurist kan gennemgå.
+  - Støtte besvarelsen af komplekse anmodninger om oplysninger og anmodninger om de registreredes rettigheder.
+  - Holde skabeloner, præcedenser og juridisk vejledning ajour.
+  - Koordinere de juridiske assistenters og administratorers arbejde.
+  qualifications:
+  - En juridisk bacheloruddannelse eller en avanceret uddannelse som paralegal eller tilsvarende erfaring.
+  job_evaluation_notes: Følelsesmæssig belastning er niveau 2, fordi jobbet regelmæssigt læser kliniske journaler og beretninger om skade i krav.

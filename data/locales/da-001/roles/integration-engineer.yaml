@@ -1,0 +1,51 @@
+summary: Integrationsingeniører forbinder organisationens kliniske systemer og forretningssystemer, så sundheds- og plejeinformation flyder sikkert derhen, hvor den er nødvendig. De designer, bygger, tester og supporterer grænseflader, API'er og meddelelsesstrømme ved hjælp af standarder som HL7 FHIR og HL7 version 2, kortlægger data og kliniske koder mellem systemer og holder integrationer kørende i live drift.
+health_context:
+- En tabt, forsinket, duplikeret eller forkert matchet meddelelse, såsom et prøvesvar eller en henvisning, kan direkte føre til skade, så integrationsarbejde følger processen for klinisk risikostyring.
+- Integrationer bærer store mængder fortrolige sundhedsoplysninger mellem organisationer, så hver strøm kræver et retligt grundlag, sikker transport og logning.
+- Sundhedssystemer bruger mange standarder og versioner, fra HL7 version 2-meddelelser til HL7 FHIR-API'er og IHE-profiler, ofte med lokale variationer.
+- Klinisk betydning skal overleve rejsen, så ingeniørerne kortlægger kliniske terminologier som SNOMED CT korrekt og matcher patienter pålideligt.
+- Mange integrationer understøtter pleje døgnet rundt, så de kræver overvågning, advarsler og klare veje til at løse mislykkede meddelelser.
+levels:
+- title: Junior integrationsingeniør
+  summary: En junior integrationsingeniør bygger, tester og supporterer integrationer mellem sundheds- og plejesystemer ud fra specifikationer og med vejledning fra mere erfarne ingeniører.
+  responsibilities:
+  - Bygge og ændre meddelelseskortlægninger, transformationer og API-kald ud fra aftalte specifikationer.
+  - Teste integrationer mod specifikationer og eksempelmeddelelser, herunder fejltilfælde og grænsetilfælde.
+  - Overvåge meddelelsesstrømme, undersøge mislykkede eller afviste meddelelser og løse eller eskalere dem.
+  - Håndtere sundhedsdata sikkert efter reglerne for informationsstyring for live data og testdata.
+  - Registrere ændringer og testresultater, så de kan bruges som dokumentation for klinisk sikkerhed.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller et beslægtet fag, en gennemført lærlingeuddannelse eller tilsvarende erfaring.
+- title: Integrationsingeniør
+  summary: En integrationsingeniør designer, bygger og supporterer integrationer mellem sundheds- og plejesystemer selvstændigt og hjælper med at definere, hvordan systemer skal udveksle data.
+  responsibilities:
+  - Designe og bygge integrationer, API'er og meddelelsesstrømme ved hjælp af HL7 FHIR, HL7 version 2 og meddelelsesmønstre.
+  - Analysere kilde- og målsystemer og skrive grænsefladespecifikationer og datakortlægninger, herunder kliniske koder.
+  - Bygge patientmatchning, validering og fejlhåndtering, så information når frem til den rette journal.
+  - Deltage i farerworkshops og bygge sikkerhedskontroller ind i integrationer, såsom advarsler om mislykkede eller forsinkede meddelelser.
+  - Arbejde sammen med leverandører og partnerorganisationer om at teste og tage nye forbindelser i brug.
+  - Undersøge og rette problemer i live integrationer og være mentor for junior integrationsingeniører.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller et beslægtet fag eller tilsvarende erfaring.
+  - Erfaring med at bygge og supportere integrationer mellem produktionssystemer.
+- title: Senior integrationsingeniør
+  summary: En senior integrationsingeniør leder design og levering af komplekse integrationer på tværs af mange systemer og organisationer og fastsætter integrationsstandarder for sit område.
+  responsibilities:
+  - Lede det tekniske design af komplekse integrationer, såsom fælles plejejournaler, svar og henvisninger på tværs af organisationer.
+  - Skrive og vedligeholde FHIR-profiler, implementeringsvejledninger og grænsefladestandarder for organisationen.
+  - Designe integrationer, så de er sikre, robuste og observerbare med klare veje til at løse fejl.
+  - Arbejde sammen med kliniske sikkerhedsansvarlige om at identificere farer i integrationer og sikre, at kontroller designes ind og testes.
+  - Sikre, at hver datastrøm har et aftalt retligt grundlag og ordninger for datadeling sammen med kolleger inden for informationsstyring.
+  - Coache og udvikle integrationsingeniører i teamet.
+  qualifications:
+  - Betydelig erfaring med at designe og supportere integrationer inden for sundhed eller andre komplekse områder på et niveau svarende til en kandidatgrad.
+- title: Ledende integrationsingeniør
+  summary: En ledende integrationsingeniør leder organisationens integrationsingeniørarbejde, fastlægger dets tekniske retning og standarder og kvalitetssikrer kritiske integrationer på tværs af mange systemer.
+  responsibilities:
+  - Lede integrationsingeniørarbejdet i hele organisationen og fastlægge retning, mønstre og standarder.
+  - Kvalitetssikre designet af kritiske integrationer, såsom dem der bærer svar, medicin eller advarsler.
+  - Forme køreplanen for integrationsplatformen sammen med arkitekter, produktchefer og leverandører.
+  - Repræsentere organisationen i arbejde med interoperabilitet og standarder på tværs af organisationer.
+  - Have personaleansvar for eller lede integrationsingeniører og udvide praksisfællesskabet for integration.
+  qualifications:
+  - Omfattende erfaring med at lede integrationsingeniørarbejde for komplekse sundheds- eller plejesystemer.

@@ -1,0 +1,40 @@
+summary: 'Administratorer holder teams og services i gang ved at håndtere organisationens daglige administration: korrespondance, kalendere, møder, registre, dataindtastning, bestilling og henvendelser. I en digital sundheds- og plejeorganisation støtter de digitale, kliniske og administrative teams og håndterer ofte fortrolige oplysninger om patienter og medarbejdere.'
+health_context:
+- Administratorer ser ofte fortrolige oplysninger om patienter og medarbejdere, så de følger reglerne for informationsstyring nøje.
+- Henvendelser kan komme fra patienter, plejepersonale og offentligheden, og nogle, der ringer, kan være bekymrede eller oprevne.
+- Nøjagtige registre og dataindtastning er vigtige, fordi fejl kan sprede sig til kliniske systemer, rapporter og betalinger.
+- Mange administrative processer flytter over på digitale værktøjer, så administratorerne hjælper med at teste og tage nye arbejdsmåder i brug.
+levels:
+- title: Administrativ assistent
+  summary: Udfører administrative rutineopgaver for et team efter fastlagte procedurer med supervision i nærheden.
+  responsibilities:
+  - Besvare opkald og e-mails, tage nøjagtige beskeder og give henvendelser videre til den rette person.
+  - Indtaste og opdatere data korrekt i teamets systemer.
+  - Arkivere og scanne dokumenter og holde fælles mapper i orden.
+  - Booke møder og lokaler og sende papirer ud.
+  - Bestille papirvarer og forsyninger inden for fastlagte procedurer.
+  qualifications:
+  - Gode læse-, skrive-, regne- og tastaturfærdigheder.
+  job_evaluation_notes: Fysiske færdigheder scores på niveau 3 for avancerede tastaturfærdigheder med hurtighed og nøjagtighed i maskinskrivning og dataindtastning.
+- title: Administrator
+  summary: Yder en fuld administrativ service til et team eller en service, håndterer en række opgaver, hvoraf nogle ligger uden for rutinen, og tilrettelægger egen arbejdsbyrde.
+  responsibilities:
+  - Styre kalendere og arrangere møder, arrangementer og rejser for et team.
+  - Skrive referater og handlingsnoter til teammøder og følge op på handlinger.
+  - Håndtere rutinekorrespondance og henvendelser og udarbejde svar, hvor det er nødvendigt.
+  - Vedligeholde registre, opfølgningsark og databaser og udarbejde enkle rapporter.
+  - Behandle ordrer, fakturaer og udgiftsrefusioner inden for fastlagte grænser.
+  - Vise nye medarbejdere teamets administrative procedurer.
+  qualifications:
+  - En uddannelse på niveau 3 i erhvervsadministration eller tilsvarende erfaring.
+- title: Senioradministrator
+  summary: Leder administrationen for en service eller direktion, fører tilsyn med andre administratorer og forbedrer administrative processer.
+  responsibilities:
+  - Koordinere den administrative service for en direktion og fordele arbejdet mellem administratorer.
+  - Skrive formelle referater til ledelses- og programmøder.
+  - Skrive og forbedre administrative procedurer og skabeloner.
+  - Udarbejde rapporter fra opfølgningsark og systemer til ledere.
+  - Følge udgifterne på administrative budgetter og gøre opmærksom på afvigelser.
+  - Oplære og føre tilsyn med administratorer og lærlinge.
+  qualifications:
+  - Betydelig administrativ erfaring på et niveau svarende til en erhvervsakademiuddannelse.

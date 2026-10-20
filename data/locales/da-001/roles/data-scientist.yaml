@@ -1,0 +1,66 @@
+summary: Dataforskere bruger statistik, maskinlæring og andre avancerede metoder til at finde mønstre i sundheds- og plejedata og til at bygge modeller, der hjælper services med at planlægge, forudsige og forbedre plejen. Typiske opgaver omfatter prognoser for efterspørgsel, identifikation af patienter, der kan have gavn af tidlig støtte, og evaluering af virkningen af serviceændringer. De arbejder tæt sammen med klinikere og analytikere og sikrer, at modeller er gyldige, fair og bruges sikkert.
+health_context:
+- En model, der understøtter beslutninger om patienter, kan gøre skade, hvis den er forkert eller skæv, så modeller valideres på den befolkning, de skal bruges til, og vurderes for klinisk sikkerhed.
+- Sundhedsdata afspejler ulige adgang til pleje, så modeller kan gentage eller forværre uligheder i sundhed, medmindre skævhed måles og imødegås for hver patientgruppe.
+- Nogle modeller, såsom dem der understøtter diagnose eller behandling, kan være reguleret som medicinsk udstyr, og regulering af kunstig intelligens kan også gælde.
+- Datavidenskab kræver ofte sammenkædede, detaljerede patientdata, så arbejdet foregår i sikre miljøer med pseudonymiserede data og et aftalt grundlag i informationsstyring.
+- Klinikere og patienter har brug for at forstå og have tillid til en models resultater, så forklaring og kommunikation af usikkerhed på almindeligt sprog er vigtig.
+levels:
+- title: Trainee-dataforsker
+  responsibilities:
+  - Lære teamets statistiske metoder og metoder til maskinlæring, værktøjer og sikre arbejdsmåder gennem struktureret oplæring.
+  - Forberede og udforske pseudonymiserede sundhedsdatasæt under supervision.
+  - Køre og fortolke enkle statistiske analyser og kontrollere resultaterne med en mere erfaren dataforsker.
+  - Følge procedurer for informationsstyring, kontrol med videregivelse og etik.
+  - Arbejde hen imod en lærlingeuddannelse i datavidenskab eller tilsvarende uddannelse.
+  qualifications:
+  - Indskrevet på eller i gang med en lærlingeuddannelse i datavidenskab eller tilsvarende.
+  job_evaluation_notes: Viden scores på det niveau, jobbet kræver, når oplæringen er så vidt fremskreden, at arbejdet kan udføres.
+- title: Associeret dataforsker
+  responsibilities:
+  - Bygge og teste grundlæggende statistiske modeller og modeller til maskinlæring, såsom prognoser for efterspørgsel, med vejledning.
+  - Forberede og sammenkæde sundhedsdatasæt til modellering i sikre miljøer.
+  - Måle, hvor godt modeller klarer sig for forskellige patientgrupper, og rapportere forskelle.
+  - Præsentere resultater og deres usikkerhed for analytikere og serviceteams.
+  - Dokumentere datakilder, metoder og forudsætninger, så arbejdet kan reproduceres.
+  qualifications:
+  - En bacheloruddannelse i et talbaseret fag, en lærlingeuddannelse i datavidenskab eller tilsvarende erfaring.
+- title: Dataforsker
+  responsibilities:
+  - Udvikle komplekse modeller selvstændigt, såsom risikostratificering eller forudsigelse af indlæggelsestid, og vælge egnede metoder.
+  - Validere modeller sammen med klinikere og kontrollere, at de er nøjagtige, fair og nyttige på lokale patientdata.
+  - Dokumentere hver models tilsigtede brug, data, præstation og begrænsninger og bidrage med evidens til kliniske sikkerhedsbegrundelser.
+  - Evaluere virkningen af serviceændringer ved hjælp af egnede statistiske metoder.
+  - Forklare modeller og deres usikkerhed for kliniske og ikketekniske målgrupper.
+  - Støtte associerede dataforskere og trainee-dataforskere.
+  qualifications:
+  - En bacheloruddannelse i et talbaseret fag eller tilsvarende erfaring.
+  - Erfaring med at bygge og validere statistiske modeller eller modeller til maskinlæring.
+- title: Principal dataforsker
+  responsibilities:
+  - Afgrænse, designe og lede datavidenskabelige projekter, der understøtter serviceplanlægning og patientpleje.
+  - Beslutte, hvilke metoder, værktøjer og data der er egnede, og udfordre planer, der ikke er gennemførlige eller sikre.
+  - Planlægge validering, vurdering af skævhed og overvågning af modeller sammen med kolleger inden for klinisk sikkerhed og informationsstyring.
+  - Aftale med produktteams, hvordan modeller tages i brug og understøttes i stor skala.
+  - Styre og udvikle et lille team af dataforskere.
+  qualifications:
+  - Betydelig erfaring med at levere datavidenskab på et niveau svarende til en kandidatgrad eller en ph.d. i et kvantitativt fag.
+- title: Ledende dataforsker
+  responsibilities:
+  - Lede datavidenskabsteams og fastlægge deres retning, prioriteter og standarder.
+  - Finde muligheder for, at datavidenskab kan forbedre plejen, og argumentere for dem over for kliniske ledere og serviceledere.
+  - Sikre, at modeller designes, valideres og overvåges, så de forbliver sikre og fair i brug.
+  - Løse komplekse etiske udfordringer og dataudfordringer, såsom samtykke, skævhed og brug af følsomme data.
+  - Opbygge kompetencer inden for datavidenskab gennem coaching, rekruttering og oplæring.
+  qualifications:
+  - Omfattende erfaring med at lede datavidenskabsteams.
+  job_evaluation_notes: UK GDaD PCF foreslår både den ledende dataforsker og chefen for datavidenskab i G7 eller G6. Denne reference placerer den ledende i lønramme 8a og chefen i lønramme 8b, så de to niveauer ligger i forskellige lønrammer.
+- title: Chef for datavidenskab
+  responsibilities:
+  - Fastlægge retningen for datavidenskab og kunstig intelligens i hele organisationen i overensstemmelse med dens strategi og prioriteter.
+  - Lede arbejdet med etik, sikkerhed og kvalitetssikring af organisationens modeller og kunstige intelligens og rådgive bestyrelsen om dem.
+  - Føre tilsyn med ressourcer, budget og kvaliteten af datavidenskabelige produkter.
+  - Repræsentere organisationen i spørgsmål om datavidenskab og kunstig intelligens over for partnere i sundhed og pleje, forskere og tilsynsmyndigheder.
+  - Opbygge kompetencer og karrierer inden for datavidenskab på tværs af fag.
+  qualifications:
+  - Omfattende erfaring med at lede datavidenskab i en organisation.

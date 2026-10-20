@@ -1,0 +1,60 @@
+summary: Løsningsarkitekter designer, hvordan en ny eller ændret service skal fungere fra ende til anden, fra brugerbehov og kliniske arbejdsgange til applikationer, data, integrationer, hosting og sikkerhed. De sikrer, at hver løsning passer til organisationens arkitektur, opfylder dens behov for sikkerhed, privatliv og interoperabilitet og kan bygges, drives og supporteres til en rimelig pris.
+health_context:
+- Løsninger kombinerer ofte indkøbte kliniske systemer, interne services og fælles platforme, så arkitekterne skal designe på tværs af leverandørgrænser.
+- Designvalg kan skabe kliniske farer, såsom tabte svar eller forkert patientmatchning, så løsningsdesign indgår i den kliniske sikkerhedsbegrundelse.
+- Hver ny strøm af patientoplysninger kræver et retligt grundlag og en konsekvensanalyse vedrørende databeskyttelse, så arkitekterne arbejder tæt sammen med informationsstyring.
+- Interoperabilitet med andre sundheds- og plejeorganisationer ved hjælp af standarder som HL7 FHIR er som regel et kernekrav.
+- Nogle løsninger omfatter software, der er medicinsk udstyr, hvilket ændrer design, kvalitetssikring og krav til leverandører.
+levels:
+- title: Associeret løsningsarkitekt
+  responsibilities:
+  - Indsamle krav fra produktteams, klinikere og leverandører som grundlag for løsningsdesign.
+  - Tegne diagrammer over nuværende tilstand og ønsket tilstand, såsom kontekst-, datastrøms- og integrationsvisninger.
+  - Udarbejde udkast til dele af løsningsdesign og beslutningsregistre under supervision.
+  - Kontrollere design mod arkitekturstandarder og krav til sikkerhed og informationsstyring.
+  - Hjælpe med at forberede design til gennemgang hos designmyndigheder.
+  qualifications:
+  - Specialistviden om løsningsdesign på kandidatniveau eller med tilsvarende erfaring.
+  - Erfaring med analyse, udvikling eller teknisk design.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 6): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 7. Viden scores på kandidatniveau eller tilsvarende, fordi jobbet designer på tværs af applikationer, data, integration og sikkerhed.'
+- title: Løsningsarkitekt
+  responsibilities:
+  - Designe løsninger fra ende til anden til services med lavere risiko, såsom værktøjer til medarbejdere eller enkle services til patienter.
+  - Sammenligne muligheder, herunder køb, udvikling og genbrug af fælles platforme, og anbefale én med klare begrundelser.
+  - Designe integrationer, datastrømme og identitet og adgang for løsningen og bruge åbne standarder, hvor de findes.
+  - Bidrage til identifikation af farer og konsekvensanalyser vedrørende databeskyttelse for løsningen.
+  - Præsentere design for designmyndigheder og støtte leveranceteams gennem udvikling og idriftsættelse.
+  - Coache og gennemgå associerede løsningsarkitekters arbejde.
+  qualifications:
+  - Betydelig erfaring med løsningsdesign eller softwareudvikling på et niveau svarende til en kandidatgrad.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 7): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8a. Planlægning, politik og handlefrihed scores over profilen for lønramme 7, fordi jobbet ejer design fra ende til anden og anbefaler muligheder til designmyndigheder.'
+- title: Senior løsningsarkitekt
+  responsibilities:
+  - Designe komplekse løsninger med moderat risiko, såsom kliniske systemer eller services, der bruges på tværs af flere organisationer.
+  - Lede den tekniske evaluering af leverandørprodukter i udbud, herunder interoperabilitet, sikkerhed og tryghed.
+  - Designe for robusthed og beredskab, hvor løsningen understøtter pleje døgnet rundt.
+  - Arbejde sammen med kliniske sikkerhedsansvarlige, så designbeslutninger og risikokontroller registreres i sikkerhedsbegrundelsen.
+  - Coache og gennemgå andre løsningsarkitekters arbejde.
+  qualifications:
+  - Omfattende erfaring med at designe komplekse løsninger på tværs af flere discipliner på et niveau ud over en kandidatgrad.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 8a): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8b. Viden scores på niveau 8 for specialistviden på tværs af flere discipliner, såsom applikationer, data, integration, sikkerhed og klinisk sikkerhed.'
+- title: Ledende løsningsarkitekt
+  responsibilities:
+  - Lede løsningsarkitekturen for et program eller et komplekst område, såsom udskiftning af den elektroniske patientjournal.
+  - Sikre, at løsninger på tværs af programmet er ensartede, interoperable og afstemt med målarkitekturen.
+  - Rådgive programbestyrelser om designrisici, afhængigheder, leverandørvalg og omkostninger.
+  - Kvalitetssikre andre løsningsarkitekters design hos designmyndigheder.
+  - Lede og udvikle et team af løsningsarkitekter.
+  qualifications:
+  - Omfattende erfaring med at lede løsningsarkitektur for komplekse programmer.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 8b): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8c. Planlægning, politik og personale scores over profilen for lønramme 8b, fordi jobbet planlægger arkitekturen for et helt program og leder et team af løsningsarkitekter.'
+- title: Principal løsningsarkitekt
+  responsibilities:
+  - Lede løsningsarkitekturen for organisationens største eller mest kritiske programmer.
+  - Fastsætte standarder, mønstre og metoder for løsningsarkitektur for organisationen.
+  - Rådgive direktører og partnerorganisationer om designet af kritiske, fælles sundheds- og plejeservices.
+  - Løse de sværeste designkonflikter mellem programmer, leverandører og partnerorganisationer.
+  - Lede praksis for løsningsarkitektur og udvikle dens medarbejdere.
+  qualifications:
+  - Omfattende erfaring med at lede løsningsarkitektur på tværs af flere programmer eller organisationer.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 8c): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8d. Handlefrihed er niveau 6, fordi jobbet fastsætter organisationens standarder for løsningsarkitektur; økonomiske ressourcer og personale er niveau 4, fordi det leder praksis og dens budget.'

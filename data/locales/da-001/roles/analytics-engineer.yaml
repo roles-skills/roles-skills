@@ -1,0 +1,54 @@
+summary: Analyseingeniører omsætter rå sundheds- og plejedata til rene, testede og dokumenterede datamodeller, som analytikere, dataforskere og rapporteringsværktøjer kan stole på. De placerer sig mellem dataingeniørarbejde og analyse og anvender softwareudviklingens metoder, såsom versionsstyring, test og kodegennemgang, på de transformationer, der ligger bag organisationens rapporter og dashboards.
+health_context:
+- Datamodeller rummer kliniske og driftsmæssige definitioner, såsom hvad der tæller som en indlæggelse, en genindlæggelse eller en overskridelse af en standard for ventetid, så definitionerne aftales med kliniske ledere og driftsledere.
+- Kliniske koder fra terminologier og klassifikationer som SNOMED CT og ICD grupperes i referencesæt til analyse, som kræver omhyggelig versionsstyring.
+- Modeller, der bruges til præstations- og finansieringsrapporter, skal være ensartede og kunne revideres, fordi fejl kan påvirke beslutninger om patientservices.
+- Modeller indeholder ofte pseudonymiserede data på patientniveau, så adgang, dokumentation og dataminimering er bygget ind.
+levels:
+- title: Trainee-analyseingeniør
+  responsibilities:
+  - Lære teamets værktøjer og praksis for datamodellering gennem oplæring og parprogrammering.
+  - Foretage små, veldefinerede ændringer i datamodeller under supervision.
+  - Dokumentere dataelementer og deres definitioner i datakataloget.
+  - Besvare enkle spørgsmål fra databrugere og registrere deres krav.
+  - Følge reglerne for informationsstyring, når der arbejdes med patientdata.
+  qualifications:
+  - Indskrevet på eller i gang med en datalærlingeuddannelse eller tilsvarende.
+  job_evaluation_notes: Viden scores på det niveau, jobbet kræver, når oplæringen er så vidt fremskreden, at arbejdet kan udføres.
+- title: Analyseingeniør
+  responsibilities:
+  - Bygge og teste datamodeller for et serviceområde, såsom sygehusaktivitet eller kommunal pleje, ud fra aftalte designs.
+  - Skrive automatiserede tests, der kontrollerer datamodeller mod aftalte kliniske og driftsmæssige definitioner.
+  - Vedligeholde referencesæt af kliniske koder, der bruges i analyser, med tydelige versioner.
+  - Dokumentere modeller, så analytikere forstår deres betydning, kilder og begrænsninger.
+  - Oplære og støtte brugere af teamets datasæt.
+  qualifications:
+  - En uddannelse inden for et talbaseret fag eller computerfag eller tilsvarende erfaring.
+  - Erfaring med at bygge datamodeller eller analysekode.
+- title: Senior analyseingeniør
+  responsibilities:
+  - Føre tilsyn med design og test af datamodeller på tværs af flere serviceområder.
+  - Aftale definitioner af nøgletal med kliniske ledere, driftsledere og økonomiledere og sikre, at modellerne anvender dem ensartet.
+  - Sikre, at modeller, der leverer data til præstations- og finansieringsrapporter, kan revideres og er godt testet.
+  - Løse dataproblemer og -risici sammen med dataingeniører og dataejere.
+  - Coache og lede andre analyseingeniørers arbejde.
+  qualifications:
+  - Betydelig erfaring med datamodellering og analyseingeniørarbejde på et niveau svarende til en kandidatgrad.
+- title: Ledende analyseingeniør
+  responsibilities:
+  - Lede et team, der designer, bygger og vedligeholder organisationens analytiske datamodeller.
+  - Fastsætte standarder for datamodeller, tests, dokumentation og definitioner af nøgletal.
+  - Arbejde sammen med teams i hele organisationen for at forstå, hvordan kliniske processer og driftsprocesser skaber data.
+  - Gennemgå andre analyseingeniørers arbejde og forbedre teamets arbejdsmåder.
+  - Have personaleansvar for analyseingeniører.
+  qualifications:
+  - Omfattende erfaring med at lede analyseingeniørarbejde eller datamodellering.
+- title: Chef for analyseingeniørarbejde
+  responsibilities:
+  - Sætte retningen for organisationens analytiske datamodeller, så analyser i hele organisationen bruger ét sæt pålidelige definitioner.
+  - Sikre, at prioriteterne for analyseingeniørarbejdet understøtter organisationens strategi og rapporteringsforpligtelser.
+  - Rådgive den øverste ledelse om, hvor pålidelige de data er, der ligger bag større rapporter og beslutninger.
+  - Sikre, at fællesskabet har de værktøjer og platforme, det har brug for, og styre det tilhørende budget.
+  - Opbygge kompetencer inden for analyseingeniørarbejde gennem teknisk ledelse og karriereudvikling.
+  qualifications:
+  - Omfattende erfaring med at lede analyseingeniørarbejde i en organisation.

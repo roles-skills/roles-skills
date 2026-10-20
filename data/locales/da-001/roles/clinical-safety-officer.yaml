@@ -1,0 +1,46 @@
+summary: Kliniske sikkerhedsansvarlige er autoriserede klinikere, der sikrer, at de it-systemer til sundhedsvæsenet, som organisationen bygger, køber og tager i brug, er sikre for patienter. De driver processen for klinisk risikostyring, leder identifikation af farer, ejer fareregistre og skriver og godkender rapporter om kliniske sikkerhedsbegrundelser ved hjælp af standarder for klinisk risikostyring som ISO 14971 og IEC 80001-1.
+health_context:
+- Rollen skal varetages af en autoriseret kliniker, så sikkerhedsvurderinger hviler på aktuel klinisk viden og fagligt ansvar.
+- It i sundhedsvæsenet kan skade patienter gennem forkerte, manglende, forsinkede eller vildledende oplysninger, så rollen vurderer risici, der ofte er skjult i data og arbejdsgange.
+- Klinisk sikkerhedsarbejde løber gennem et systems hele levetid, fra design og udbud til ibrugtagning, ændring og udfasning.
+- Nogle produkter er også reguleret som medicinsk udstyr, så rollen arbejder sammen med kolleger inden for regulering og kvalitet, hvor sikkerhedsbegrundelser og udstyrsdokumentation overlapper.
+- Sikkerhedshændelser med it i sundhedsvæsenet kan forårsage alvorlig skade, så rollen undersøger hændelser og sikrer, at der drages erfaringer.
+levels:
+- title: Klinisk sikkerhedsansvarlig
+  summary: Driver processen for klinisk risikostyring for en række produkter eller ændringer, leder farerworkshops, vedligeholder fareregistre og skriver rapporter om kliniske sikkerhedsbegrundelser til godkendelse.
+  responsibilities:
+  - Lede workshops til identifikation af farer sammen med produktteams, klinikere og leverandører.
+  - Vurdere kliniske risici og aftale kontroller og derefter kontrollere, at kontrollerne virker, gennem test og evidens.
+  - Skrive og vedligeholde fareregistre og rapporter om kliniske sikkerhedsbegrundelser for produkter og ændringer.
+  - Gennemgå leverandørers sikkerhedsdokumentation for systemer, som organisationen køber.
+  - Undersøge sikkerhedshændelser med it i sundhedsvæsenet og anbefale forbedringer.
+  - Rådgive digitale teams om processen for klinisk risikostyring og sikkerhed fra start.
+  qualifications:
+  - Gældende autorisation hos et klinisk fagligt organ med betydelig klinisk erfaring.
+  - Uddannelse i klinisk risikostyring for it i sundhedsvæsenet eller tilsvarende erfaring.
+  job_evaluation_notes: Patientpleje scores på niveau 5, fordi jobbet giver specialiseret rådgivning om sikkerheden i systemer, der bruges i patientplejen. Mental anstrengelse afspejler langvarig koncentration om sikkerhedsdokumentation og evidens.
+- title: Senior klinisk sikkerhedsansvarlig
+  summary: Leder klinisk sikkerhed for et større program eller en portefølje af højrisikosystemer, godkender sikkerhedsbegrundelser og vejleder andre kliniske sikkerhedsansvarlige.
+  responsibilities:
+  - Lede klinisk risikostyring for højrisikosystemer som elektroniske patientjournaler, ordination og beslutningsstøtte.
+  - Godkende fareregistre og rapporter om kliniske sikkerhedsbegrundelser inden for delegeret beføjelse.
+  - Rådgive programbestyrelser om klinisk risiko, og om et system er sikkert at tage i brug.
+  - Lede undersøgelser af alvorlige sikkerhedshændelser med it i sundhedsvæsenet.
+  - Coache og kvalitetskontrollere arbejdet hos kliniske sikkerhedsansvarlige og klinikere uddannet i sikkerhed.
+  - Hjælpe med at forbedre organisationens system og skabeloner til klinisk risikostyring.
+  qualifications:
+  - Gældende autorisation hos et klinisk fagligt organ med omfattende klinisk erfaring.
+  - Betydelig erfaring med klinisk risikostyring for it i sundhedsvæsenet.
+- title: Chef for klinisk sikkerhed
+  summary: Ejer organisationens system for klinisk risikostyring for it i sundhedsvæsenet, leder det kliniske sikkerhedsteam og giver bestyrelsen forsikring om, at dens digitale services er klinisk sikre.
+  responsibilities:
+  - Eje systemet, politikken og processerne for klinisk risikostyring for al it i sundhedsvæsenet.
+  - Lede og udvikle det kliniske sikkerhedsteam og det bredere netværk af klinikere uddannet i sikkerhed.
+  - Kvalitetssikre sikkerhedsbegrundelser for større systemer og afgive den endelige kliniske sikkerhedsanbefaling om ibrugtagning.
+  - Lede indsatsen ved alvorlige sikkerhedshændelser med it i sundhedsvæsenet, også sammen med partnere og leverandører.
+  - Rapportere kliniske sikkerhedsrisici og forsikring til bestyrelsen og dens udvalg.
+  - Opbygge en kultur for klinisk sikkerhed på tværs af digitale teams, kliniske teams og leverandørteams.
+  qualifications:
+  - Gældende autorisation hos et klinisk fagligt organ med omfattende klinisk erfaring og ledererfaring.
+  - Omfattende erfaring med at lede klinisk risikostyring for it i sundhedsvæsenet i en organisation.
+  job_evaluation_notes: Patientpleje scores på niveau 6, fordi jobbet er ansvarligt for den kliniske sikkerhed i organisationens it i sundhedsvæsenet. Følelsesmæssig belastning afspejler den regelmæssige gennemgang af hændelser med patientskade.

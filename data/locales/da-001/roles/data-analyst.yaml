@@ -1,0 +1,46 @@
+summary: Dataanalytikere omsætter sundheds- og plejedata til information, der hjælper klinikere, ledere og planlæggere med at træffe beslutninger. De forbereder, sammenkæder og analyserer data fra kliniske, driftsmæssige og patientrapporterede kilder og præsenterer dem i rapporter, dashboards og orienteringer. De sikrer, at deres analyse er korrekt og reproducerbar og håndterer fortrolige patientdata sikkert.
+health_context:
+- Meget af dataene beskriver enkelte patienter, så analytikerne arbejder med pseudonymiserede data, hvor de kan, og kontrollerer resultater for risiko for videregivelse, før de frigives.
+- Sundhedsdata registreres med kliniske terminologier og klassifikationer som SNOMED CT og ICD, så analytikerne skal vide, hvordan koder bruges, og hvor de kan vildlede.
+- Datakvaliteten varierer mellem plejemiljøer og systemer, og mangler rammer ofte nogle patientgrupper mere end andre, så analytikerne kontrollerer for skævhed, før de drager konklusioner.
+- Analyse kan ændre, hvordan services planlægges, finansieres og leveres, så resultater skal have klare forbehold og må ikke overdrive sikkerheden.
+levels:
+- title: Associeret dataanalytiker
+  responsibilities:
+  - Udarbejde rutinerapporter og dashboards om aktivitet, ventetider og brug af services efter aftalte metoder.
+  - Rense og forberede udtræk fra patientadministrative, kliniske og driftsmæssige systemer under supervision.
+  - Kontrollere resultater mod regler for datakvalitet og indberette problemer til den rette dataejer.
+  - Anvende undertrykkelse af små tal og andre regler for videregivelse, før resultater deles.
+  - Besvare ligetil dataforespørgsler fra kliniske teams og driftsteams.
+  qualifications:
+  - En bacheloruddannelse i et talbaseret fag, en lærlingeuddannelse i analyse eller tilsvarende erfaring.
+- title: Dataanalytiker
+  responsibilities:
+  - Designe og gennemføre analyser, der besvarer spørgsmål fra kliniske teams, driftsteams og planlægningsteams.
+  - Sammenkæde data på patientniveau fra forskellige kilder sikkert ved hjælp af pseudonymiserede identifikatorer og aftalte metoder til sammenkædning.
+  - Skrive reproducerbar analysekode og dokumentere metoder, forudsætninger og datakilder.
+  - Forklare resultater og deres begrænsninger for klinikere og ledere på almindeligt sprog.
+  - Kontrollere analyser for skævhed på tværs af patientgrupper, såsom efter alder, køn, etnicitet og afsavn.
+  - Støtte associerede analytikere og gennemgå deres arbejde.
+  qualifications:
+  - En bacheloruddannelse i et talbaseret fag eller tilsvarende erfaring.
+  - Erfaring med at analysere og præsentere komplekse data.
+- title: Senior dataanalytiker
+  responsibilities:
+  - Lede analysen for et serviceområde, såsom akutpleje, kræft eller mental sundhed, og aftale prioriteter med områdets ledere.
+  - Fastlægge metoder og kvalitetssikring for teamets analyser, herunder fagfællebedømmelse af kode og resultater.
+  - Lede komplekse sammenkædningsprojekter på tværs af plejemiljøer og aftale deres grundlag i informationsstyring.
+  - Præsentere resultater for seniorgrupper inden for klinik og ledelse og rådgive om, hvad de betyder for services.
+  - Arbejde sammen med dataingeniører og dataejere om at rette årsagerne til dårlig datakvalitet.
+  - Coache og udvikle analytikere i teamet.
+  qualifications:
+  - Betydelig erfaring med at lede dataanalyse på et niveau svarende til en kandidatgrad.
+- title: Principal dataanalytiker
+  responsibilities:
+  - Fastsætte organisationens standarder for dataanalyse, kvalitetssikring og reproducerbar analytisk praksis.
+  - Rådgive ledere i direktionen og klinikken om evidensen bag større beslutninger om services og investeringer.
+  - Lede det analytiske fællesskab, herunder dets oplæring, værktøjer og karriereudvikling.
+  - Forme ordninger for datadeling og sammenkædning med partnere i sundhed og pleje.
+  - Have personaleansvar for seniore analytikere og sikre, at teamet har den kapacitet og de kompetencer, det har brug for.
+  qualifications:
+  - Omfattende erfaring med at lede dataanalyse i en organisation.

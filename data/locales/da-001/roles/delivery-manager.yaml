@@ -1,0 +1,45 @@
+summary: Leverancechefer hjælper tværfaglige teams med at levere digitale sundhedsservices, der fungerer for patienter, klinikere og plejepersonale. De skaber betingelserne for, at teams kan arbejde godt, fjerner hindringer, styrer risici og afhængigheder og holder leverancen i gang i et bæredygtigt tempo ved hjælp af agile og lean arbejdsmåder.
+health_context:
+- Releases til services, der understøtter patientpleje, skal bestå kontroller af klinisk sikkerhed og informationsstyring, så leverancechefer bygger disse ind i teamets planer og definition af færdig.
+- Leverancen afhænger ofte af klinikere og plejepersonale, der har begrænset tid væk fra patienterne, så leverancechefer planlægger forskning, test og oplæring omkring de kliniske vagtplaner.
+- Ændringer af live kliniske services kræver omhyggelig timing, så leverancechefer planlægger idriftsættelser sammen med driftsteams for at undgå kliniske spidsbelastninger og sikre, at support er på plads.
+- Teams er ofte afhængige af leverandører af kliniske systemer og af andre sundheds- og plejeorganisationer, så leverancechefer styrer eksterne afhængigheder og kontrakter.
+levels:
+- title: Associeret leverancechef
+  responsibilities:
+  - Facilitere teamets ceremonier, såsom stand-ups, planlægning, demonstrationer og retrospektiver.
+  - Holde teamets tavle, risiko- og problemliste og afhængighedsregistre ajour.
+  - Følge de opgaver om klinisk sikkerhed, informationsstyring og tilgængelighed, der er nødvendige før hver release.
+  - Arrangere sessioner med klinikere, plejepersonale og patienter til forskning og test og tage hensyn til de kliniske vagtplaner.
+  - Skygge og støtte en leverancechef i et større team og levere dele af arbejdet under vejledning.
+  qualifications:
+  - Noget erfaring med at arbejde i eller sammen med et leveranceteam, eller tilsvarende erfaring.
+- title: Leverancechef
+  responsibilities:
+  - Lede leverancen af et digitalt sundhedsprodukt eller en digital sundhedsservice gennem afdækning, alfa, beta og live.
+  - Planlægge releases sammen med drifts- og kliniske teams, herunder støtte ved idriftsættelse, oplæring og tilbagerulningsplaner.
+  - Sikre, at kvalitetssikring af klinisk sikkerhed, informationsstyring og tilgængelighed sker i takt med leverancen og ikke til sidst.
+  - Styre teamets budget, leverandørkontrakter og bemanding.
+  - Rapportere fremdrift, risici og gevinster til styringsbestyrelser i klare vendinger.
+  - Opbygge en sund teamkultur og coache teammedlemmer i agile arbejdsmåder.
+  qualifications:
+  - Betydelig erfaring med at levere digitale produkter eller services ved hjælp af agile metoder.
+  job_evaluation_notes: Der er intet niveau i lønramme 6, fordi UK GDaD PCF ikke har noget niveau for leverancechef mellem associeret (EO/HEO) og leverancechef (SEO/G7).
+- title: Senior leverancechef
+  responsibilities:
+  - Lede leverancen af komplekse services eller services med høj risiko, såsom dem der bruges i akutpleje, eller som erstatter et centralt klinisk system.
+  - Fungere som det vigtigste eskaleringspunkt for leverancerisici, -problemer og -afhængigheder på tværs af flere teams.
+  - Planlægge udrulning i stor skala på tværs af lokaliteter og organisationer sammen med kliniske sikkerhedsansvarlige og driftsledere.
+  - Styre budgetter, kommercielle aftaler og leverandørpræstation for servicen.
+  - Have personaleansvar for og udvikle leverancechefer.
+  qualifications:
+  - Omfattende erfaring med at levere komplekse digitale services gennem hele deres livscyklus.
+- title: Chef for leverancestyring
+  responsibilities:
+  - Lede faget leverancestyring og fastlægge organisationens standarder for agil leverance.
+  - Rekruttere, udvikle og placere leverancechefer på tværs af porteføljen.
+  - Sikre, at leverancetilgange opfylder krav til klinisk sikkerhed, informationsstyring og kvalitetssikring uden unødigt at bremse teams.
+  - Rådgive ledere i direktionen og klinikken om leverancerisici, kapacitet og prioriteter.
+  - Styre fagets budget og bemandingsplan.
+  qualifications:
+  - Omfattende erfaring med at lede leverance på tværs af flere teams og med at lede en leverancepraksis.

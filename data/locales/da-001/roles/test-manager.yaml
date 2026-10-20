@@ -1,0 +1,26 @@
+summary: Testledere planlægger, leder og kvalitetssikrer test af organisationens digitale sundhedsservices og -programmer. De beslutter, hvor meget test der er nødvendig og af hvilken art, styrer testteams, miljøer og leverandører og fortæller beslutningstagerne klart, hvilke risici der er tilbage, før en service går i drift. I sundhedsvæsenet omfatter det at sikre, at test understøtter den kliniske sikkerhedsbegrundelse og eventuelle regulatoriske krav.
+health_context:
+- Beslutninger om idriftsættelse af kliniske systemer afhænger af testdokumentation og restrisici, som testlederne rapporterer til produktejere, kliniske sikkerhedsansvarlige og programbestyrelser.
+- Store ændringer, såsom opgraderinger af den elektroniske patientjournal, kræver test på tværs af mange afdelinger, systemer og leverandører og ofte klinisk personales tid til accepttest.
+- Test skal passe ind omkring kliniske services, for eksempel ved at planlægge overgangstests og generalprøver, så forstyrrelserne af patientplejen holdes lave.
+- Reguleret software og sikkerhedskritiske ændringer kræver test, der opfylder standarder som IEC 62304 og organisationens proces for klinisk risikostyring.
+levels:
+- title: Testleder
+  responsibilities:
+  - Lede testplanlægningen for et produkt eller program, der omfatter miljøer, data, værktøjer, ressourcer, tidsplaner og klinisk risiko.
+  - Planlægge brugeraccepttest sammen med kliniske ledere og driftsledere og sikre klinikeres tid til at deltage.
+  - Styre et team af testanalytikere og testingeniører, herunder leverandørernes testere.
+  - Sikre, at test opfylder krav til klinisk sikkerhed, informationsstyring og regulering.
+  - Rapportere testfremdrift, fejl og restrisici til produktejere, kliniske sikkerhedsansvarlige og programbestyrelser.
+  - Forbedre testprocesser og aftale teststandarder med leveranceteams.
+  qualifications:
+  - Betydelig erfaring med testledelse for komplekse digitale services på et niveau svarende til en kandidatgrad.
+- title: Testchef
+  responsibilities:
+  - Fastlægge organisationens teststrategi, standarder og rammer for digitale sundhedsservices.
+  - Sikre, at organisationens test opfylder krav til klinisk sikkerhed, medicinsk udstyr og andre regulatoriske krav.
+  - Vælge testværktøjer og -teknologier og styre testbudgettet og leverandørkontrakter.
+  - Rådgive den øverste ledelse om kvalitets- og sikkerhedsrisici før større releases og beslutninger om idriftsættelse.
+  - Lede og udvikle testledere, testanalytikere og testingeniører og opbygge organisationens testkompetencer.
+  qualifications:
+  - Omfattende erfaring med at lede test i en organisation.

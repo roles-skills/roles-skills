@@ -1,0 +1,32 @@
+summary: Hændelsesansvarlige genopretter normal service så hurtigt som muligt, når noget går galt, og holder virkningen for brugerne så lille som muligt. De koordinerer tekniske teams og leverandører, holder brugere og ledere orienteret og sikrer, at hændelser registreres og videregives til problemstyring. I sundhedsvæsenet kan hændelser direkte påvirke patientplejen, så hændelsesansvarlige arbejder tæt sammen med kliniske ledere og driftsledere.
+health_context:
+- Et udfald af et klinisk system kan forsinke behandlingen, så hændelser prioriteres efter klinisk konsekvens, og kliniske ledere kan have brug for at starte nedetidsprocedurer.
+- Større hændelser kan opstå når som helst, så hændelsesansvarlige deltager i vagtordninger og kan blive kaldt ind om natten eller i weekenden.
+- Et cyberangreb, såsom ransomware, kan blive en større hændelse, der påvirker hele organisationen og varer dage eller uger.
+- Større it-hændelser kan skulle kobles til organisationens beredskab og ordninger for kontinuitet.
+- Hændelser, der kan have skadet patienter, indberettes også gennem den kliniske hændelsesproces og gennemgås sammen med klinisk sikkerhed.
+levels:
+- title: Hændelsesansvarlig
+  responsibilities:
+  - Koordinere indsatsen ved hændelser, der påvirker kliniske services og administrative services, fra første indberetning til genoprettet service.
+  - Vurdere hver hændelses kliniske konsekvens og driftsmæssige konsekvens og fastsætte dens prioritet.
+  - Holde berørte brugere, servicedesken og kliniske ledere orienteret med klare, rettidige opdateringer.
+  - Eskalere hændelser til den ansvarlige for større hændelser, når de opfylder de aftalte kriterier.
+  - Sikre, at hændelser registreres nøjagtigt og videregives til problemstyring.
+  - Deltage i vagtordningen ved hændelser uden for arbejdstid.
+  qualifications:
+  - Erfaring med it-support eller drift, herunder håndtering af hændelser.
+  - En grunduddannelse i it-servicestyring eller tilsvarende erfaring.
+  job_evaluation_notes: Mental anstrengelse afspejler hyppig langvarig koncentration under tidspres, også under vagt. Følelsesmæssig belastning afspejler hyppig indirekte udsættelse for udfaldenes virkning på patienter og medarbejdere.
+- title: Ansvarlig for større hændelser
+  responsibilities:
+  - Lede indsatsen ved større hændelser, såsom udfald af den elektroniske patientjournal, netværksfejl og cyberangreb.
+  - Afholde hændelsesmøder, der samler tekniske teams, leverandører, kliniske ledere og kommunikationsmedarbejdere.
+  - Rådgive kliniske ledere og driftsledere om, hvornår nedetidsprocedurer og beredskabsprocedurer skal startes og stoppes.
+  - Orientere seniorledere og, hvor det er nødvendigt, koble til organisationens beredskabsordninger.
+  - Lede gennemgange efter hændelser og sikre, at der drages erfaringer, og at der handles på dem.
+  - Udvikle og teste planer for større hændelser sammen med lederne af beredskab og kontinuitet.
+  qualifications:
+  - Betydelig erfaring med at styre hændelser i komplekse services med høj tilgængelighed.
+  - En it-servicestyringsuddannelse på avanceret niveau eller tilsvarende erfaring.
+  job_evaluation_notes: Mental anstrengelse afspejler hyppig langvarig koncentration under større hændelser, ofte uden for arbejdstid. Følelsesmæssig belastning afspejler hyppig indirekte udsættelse for større udfalds virkning på patientplejen.
