@@ -1,0 +1,65 @@
+summary: >
+  Analis bisnis membantu organisasi memahami masalah dalam layanan kesehatan dan perawatan dan menemukan perubahan yang tepat untuk menyelesaikannya. Mereka menganalisis bagaimana proses klinis, administratif, dan yang menghadap pasien bekerja saat ini, mendefinisikan kebutuhan dan persyaratan pengguna dan bisnis, dan membantu tim memastikan layanan digital baru sesuai dengan jalur perawatan nyata dan menghasilkan manfaat yang terukur.
+health_context:
+  - Proses melintasi batas organisasi dan profesi, sehingga analis memetakan seluruh jalur perawatan, termasuk serah terima antara tenaga klinis, tenaga perawatan, pasien, dan organisasi lain.
+  - Persyaratan sering membawa risiko klinis, sehingga analis bekerja dengan petugas keselamatan klinis untuk memastikan persyaratan terkait keselamatan ditangkap, ditelusuri, dan diuji.
+  - Banyak persyaratan menyangkut pembagian data kesehatan antarsistem, sehingga analis perlu memahami secara praktis standar interoperabilitas seperti HL7 FHIR dan terminologi klinis seperti SNOMED CT.
+  - Manfaat dalam perawatan sering menyangkut keselamatan, mutu, waktu staf, dan pengalaman pasien, bukan hanya biaya, sehingga analis membantu mendefinisikan ukuran yang dikenali tenaga klinis.
+levels:
+  - title: Analis bisnis pemagang
+    responsibilities:
+      - Mempelajari teknik analisis bisnis melalui pelatihan terstruktur, mendampingi, dan pekerjaan yang diawasi.
+      - Mencatat dan menyusun draf peta proses dari lokakarya dengan staf klinis dan administratif.
+      - Memelihara log persyaratan, cerita pengguna, dan catatan keterlacakan di bawah arahan.
+      - Membantu menyiapkan skenario uji untuk pengujian penerimaan pengguna.
+      - Mengikuti aturan tata kelola informasi saat menangani dokumen yang memuat informasi pasien.
+    qualifications:
+      - Sedang menempuh magang atau kualifikasi analisis bisnis, atau pengalaman yang setara.
+  - title: Analis bisnis junior
+    responsibilities:
+      - Memetakan proses saat ini dan masa depan untuk alur kerja klinis dan administratif, seperti rujukan, janji temu, atau penanganan hasil pemeriksaan.
+      - Menggali dan menulis persyaratan dan cerita pengguna untuk pekerjaan yang terdefinisi dengan baik.
+      - Mengumpulkan data kinerja proses, seperti waktu tunggu atau jalan pintas manual, untuk mendukung analisis.
+      - Menyiapkan dan menjalankan skenario uji penerimaan pengguna bersama pengguna klinis dan operasional.
+      - Menandai persyaratan yang dapat memengaruhi keselamatan pasien kepada tim dan petugas keselamatan klinis.
+    qualifications:
+      - Gelar, kualifikasi atau magang analisis bisnis, atau pengalaman yang setara.
+  - title: Analis bisnis
+    responsibilities:
+      - Memimpin analisis untuk proyek kecil dan menengah, dari perumusan masalah hingga pengukuran manfaat.
+      - Menjalankan lokakarya dengan tenaga klinis, tenaga perawatan, dan manajer untuk memahami titik masalah dan menyepakati opsi.
+      - Memodelkan jalur perawatan dan aliran informasi, termasuk data yang dipertukarkan dengan sistem kesehatan dan perawatan lain.
+      - Mendefinisikan persyaratan terkait keselamatan dan data, dan menelusurinya melalui desain, pembangunan, dan pengujian.
+      - Menyusun kasus manfaat dengan ukuran seperti waktu staf yang dibebaskan, kesalahan yang dihindari, atau pengalaman pasien.
+      - Membimbing analis bisnis junior dan pemagang.
+    qualifications:
+      - Gelar atau kualifikasi analisis bisnis yang diakui, atau pengalaman yang setara.
+      - Pengalaman dalam analisis bisnis pada proyek perubahan digital.
+  - title: Analis bisnis senior
+    responsibilities:
+      - Memimpin analisis bisnis pada program yang besar atau kompleks, seperti mengganti sistem klinis atau merancang ulang jalur perawatan.
+      - Menganalisis opsi dan dampaknya pada perawatan, keselamatan, beban kerja staf, dan biaya, dan menyajikan rekomendasi kepada dewan.
+      - Memastikan risiko klinis, tata kelola informasi, dan dampak kesetaraan dianalisis dan ditangani dalam persyaratan.
+      - Mendefinisikan dan melacak manfaat perubahan, dan menyiapkan bagaimana manfaat akan diukur setelah peluncuran.
+      - Mengelola secara langsung atau memimpin analis bisnis dan menjalankan kegiatan komunitas praktik.
+    qualifications:
+      - Pengalaman yang substansial dalam analisis bisnis pada perubahan yang kompleks, pada tingkat yang setara dengan gelar magister.
+  - title: Analis bisnis pimpinan
+    responsibilities:
+      - Memimpin analisis untuk masalah yang sangat kompleks yang mencakup beberapa produk, layanan, atau organisasi dalam sistem perawatan.
+      - Membentuk kasus bisnis dan rencana perwujudan manfaat untuk investasi besar.
+      - Menetapkan standar analisis bisnis, seperti keterlacakan persyaratan untuk perangkat lunak terkait keselamatan dan yang diatur.
+      - Bekerja dengan pimpinan klinis, arsitek, dan manajer produk untuk menyelaraskan analisis dengan strategi organisasi.
+      - Mengelola secara langsung analis bisnis dan memimpin pengembangan profesional mereka.
+    qualifications:
+      - Pengalaman luas dalam memimpin analisis bisnis pada perubahan multitim yang kompleks.
+  - title: Kepala analisis bisnis
+    responsibilities:
+      - Memimpin fungsi analisis bisnis dan menetapkan strategi, standar, dan cara kerjanya.
+      - Membangun kapabilitas analisis bisnis, termasuk rekrutmen, jalur karier, dan pelatihan.
+      - Menasihati pimpinan eksekutif dan klinis tentang analisis yang diperlukan untuk transformasi kesehatan dan perawatan besar.
+      - Memastikan perwujudan manfaat direncanakan, diukur, dan dilaporkan di seluruh portofolio.
+      - Mengelola anggaran dan rencana tenaga kerja fungsi.
+    qualifications:
+      - Pengalaman luas dalam memimpin fungsi atau praktik analisis bisnis.
+    job_evaluation_notes: Sumber daya informasi dinilai di tingkat 6 karena kepala analisis bisnis memiliki standar seluruh organisasi tentang bagaimana persyaratan, model proses, dan catatan manfaat disimpan di semua pekerjaan perubahan.

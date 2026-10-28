@@ -1,0 +1,41 @@
+summary: >
+  Manajer tata kelola data memastikan data kesehatan dan perawatan organisasi dikelola dengan baik, tepercaya, dan dipakai dengan aman dan sah. Mereka menyiapkan dan menjalankan kerangka, kebijakan, dan standar untuk kepemilikan data, mutu, metadata, dan pembagian data, dan bekerja dengan pemilik data, rekan tata kelola informasi, dan pimpinan klinis agar data dapat dipakai dengan percaya diri untuk perawatan, perencanaan, dan penelitian.
+health_context:
+  - Data kesehatan adalah data pribadi yang sangat sensitif, sehingga tata kelola data bekerja erat dengan tata kelola informasi, pelindungan data, dan kewajiban kerahasiaan.
+  - Data dibagikan dengan banyak mitra kesehatan dan perawatan untuk perawatan langsung, perencanaan, dan penelitian, dan setiap penggunaan memerlukan dasar hukum, perjanjian, dan pengendalian yang jelas.
+  - Standar data klinis, seperti SNOMED CT, ICD, dan HL7 FHIR, serta definisi data yang disepakati adalah inti untuk membuat data konsisten lintas sistem dan organisasi.
+  - Mutu data yang buruk dapat langsung menyebabkan kerugian pasien, seperti alergi yang terlewat atau salah cocok pasien, selain keputusan yang salah tentang layanan.
+  - Pasien dan masyarakat mengharapkan keterbukaan tentang bagaimana data mereka dipakai, sehingga tata kelola mencakup transparansi dan penghormatan terhadap pilihan pasien tentang penggunaan sekunder.
+levels:
+  - title: Manajer tata kelola data
+    responsibilities:
+      - Menjalankan kerangka tata kelola data organisasi, termasuk kepemilikan data, penatalayanan, dan kelompok pengambil keputusan.
+      - Memelihara katalog data, glosarium bisnis, dan standar data, termasuk definisi klinis dan operasional yang disepakati.
+      - Memantau mutu data untuk himpunan data utama dan bekerja dengan pemilik data untuk memperbaiki akar penyebab.
+      - Bekerja dengan rekan tata kelola informasi pada perjanjian pembagian data dan penilaian dampak pelindungan data untuk penggunaan data baru.
+      - Mencatat dan mengelola risiko dan isu data, dan mengeskalasikannya kepada pemilik yang tepat.
+      - Meningkatkan literasi data di antara staf yang membuat dan memakai data kesehatan.
+    qualifications:
+      - Gelar atau kualifikasi profesional di bidang data, manajemen informasi, atau bidang terkait, atau pengalaman yang setara.
+      - Pengalaman dalam tata kelola data atau manajemen data di organisasi yang kompleks.
+    job_evaluation_notes: UK GDaD PCF menyarankan HEO hingga G7 untuk tingkat ini, yang dipetakan ke Pita 6. Acuan ini menempatkannya di Pita 7 karena, di organisasi layanan kesehatan, peran ini biasanya mengatur data pasien rahasia di seluruh organisasi dan mengembangkan kebijakan data yang memengaruhi beberapa layanan.
+  - title: Manajer tata kelola data pimpinan
+    responsibilities:
+      - Memimpin desain dan operasi kerangka, kebijakan, dan standar tata kelola data di seluruh organisasi.
+      - Mengoordinasikan pemilik dan penata data untuk mengelola risiko data, menerima atau menyelesaikannya, dan melaporkannya kepada komite senior.
+      - Memimpin pekerjaan manajemen data yang lebih luas, seperti data induk untuk pasien, staf, dan lokasi, serta data referensi.
+      - Menyepakati pengaturan tata kelola data untuk data yang dibagikan dengan mitra kesehatan dan perawatan serta peneliti.
+      - Menasihati program tentang bagaimana sistem dan penggunaan data baru memenuhi standar data dan aturan tata kelola.
+      - Mengelola secara langsung staf tata kelola data.
+    qualifications:
+      - Pengalaman luas dalam memimpin tata kelola data atau manajemen data.
+  - title: Kepala tata kelola data
+    responsibilities:
+      - Bekerja dengan kepala data dan pemilik eksekutif risiko informasi untuk menetapkan strategi tata kelola dan penggunaan data.
+      - Menetapkan kebijakan dan standar tata kelola data dan memantau seberapa baik organisasi mengikutinya.
+      - Bertanggung jawab atas pengelolaan risiko data organisasi, dan melaporkannya kepada dewan.
+      - Mewakili organisasi dalam tata kelola data di hadapan mitra kesehatan dan perawatan, regulator, dan kelompok pasien.
+      - Mendorong keterbukaan kepada pasien dan masyarakat tentang bagaimana data mereka dipakai.
+      - Memimpin dan mengembangkan fungsi tata kelola data.
+    qualifications:
+      - Pengalaman luas dalam memimpin tata kelola data di sebuah organisasi.

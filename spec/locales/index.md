@@ -21,6 +21,7 @@ How this reference is translated, published, and served in more than one languag
 | bn-001 | বাংলা | ltr | Done | Bengali (standard written Bengali); AI-translated, not yet reviewed by a native speaker; Western digits; slugs are made from the Bengali titles |
 | ru-001 | Русский | ltr | Done | Russian; AI-translated, not yet reviewed by a native speaker; job titles use the conventional masculine form, which covers everyone; slugs are made from the Cyrillic titles |
 | id-001 | Bahasa Indonesia | ltr | Done | Indonesian; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, which covers everyone; Western digits; slugs are made from the Indonesian titles |
+| id-id | Bahasa Indonesia (Indonesia) | ltr | Done | Indonesian for readers in Indonesia; a copy of id-001; AI-translated, not yet reviewed by a native speaker |
 | ja-jp | 日本語 | ltr | Done | Japanese; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, which covers everyone; Western digits; slugs are made from the Japanese titles |
 | ja-001 | 日本語 (世界) | ltr | Done | Japanese for readers anywhere; a copy of ja-jp; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Japanese titles |
 | ko-kr | 한국어 | ltr | Done | Korean; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Korean titles |

@@ -1,0 +1,50 @@
+summary: >
+  Manajer kontrak memastikan organisasi mendapatkan apa yang dibayarnya setelah kontrak ditandatangani. Mereka mengelola kinerja pemasok, pembayaran, perubahan, sengketa, perpanjangan, dan keluar, serta membangun hubungan dengan pemasok utama. Dalam organisasi layanan kesehatan digital, banyak kontrak terpenting adalah untuk sistem klinis, hosting komputasi awan, dan layanan teknologi yang diandalkan pasien dan staf setiap hari.
+health_context:
+  - Gangguan atau kegagalan sistem klinis dapat memengaruhi perawatan pasien, sehingga manajer kontrak memantau ketersediaan, respons insiden, dan tingkat dukungan dengan ketat dan memakai upaya pemulihan kontrak bila perlu.
+  - Pemasok sering memproses data pasien, sehingga kontrak dikelola bersama rekan tata kelola informasi dan keamanan, termasuk ketentuan pelindungan data, audit, dan penanganan pelanggaran.
+  - Keluar dan pengembalian data harus direncanakan sejak awal, agar rekam pasien dapat dipindahkan ke sistem baru dalam format yang dapat dipakai dan salinan lama dihapus dengan aman.
+  - Perubahan kontrak harus mengikuti aturan pengadaan publik, sehingga manajer kontrak memeriksa apakah perubahan memerlukan pengadaan baru.
+  - Rilis pemasok dapat mengubah cara sistem klinis berperilaku, sehingga manajer kontrak memastikan pemasok memenuhi kewajiban keselamatan klinis.
+levels:
+  - title: Manajer kontrak
+    summary: Mengelola portofolio kontrak, termasuk kontrak teknologi dan sistem klinis, dari mobilisasi hingga perpanjangan, dalam kerangka manajemen kontrak. Juga dikenal sebagai petugas kontrak.
+    responsibilities:
+      - Mengelola portofolio kontrak, menjaga register kontrak, dokumen, dan tanggal penting tetap mutakhir.
+      - Menjalankan tinjauan kinerja berkala dengan pemasok, memakai tingkat layanan dan indikator kinerja utama.
+      - Memeriksa faktur terhadap ketentuan kontrak dan menyelesaikan sengketa penagihan.
+      - Menegosiasikan dan memproses perubahan dan variasi kontrak dalam aturan pengadaan.
+      - Melacak penggunaan lisensi, perpanjangan, dan masa pemberitahuan, serta merencanakan perpanjangan dan pengadaan ulang di seluruh portofolio.
+      - Menjaga rencana keluar dan register data untuk setiap kontrak tetap mutakhir.
+      - Bekerja dengan rekan tata kelola informasi dan keamanan pada pemeriksaan pelindungan data dan keamanan pemasok.
+    qualifications:
+      - Kualifikasi pengadaan atau manajemen kontrak yang diakui pada tingkat lanjutan, atau pengalaman yang setara.
+      - Pengalaman mengelola kontrak layanan, idealnya untuk teknologi.
+    job_evaluation_notes: Iklan sektor kesehatan menempatkan peran ini di Pita 7. Analisis di tingkat 5 untuk pertimbangan atas ketentuan kontrak dan sengketa yang kompleks, perencanaan di tingkat 4 untuk perpanjangan di seluruh portofolio, dan sumber daya keuangan di tingkat 4 karena pekerjaan ini mengelola pengeluaran portofolio kontrak layanan.
+  - title: Manajer kontrak senior
+    summary: Mengelola kontrak strategis dan berisiko tinggi organisasi, seperti rekam pasien elektronik dan hosting komputasi awan, dan memimpin hubungan dengan pemasok utama.
+    responsibilities:
+      - Mengelola kontrak strategis untuk sistem klinis dan layanan teknologi, termasuk mobilisasi kontrak baru.
+      - Memimpin tinjauan strategis dengan pemasok utama, mencakup kinerja, peta jalan, risiko, dan rencana perbaikan.
+      - Memakai upaya pemulihan kontrak, seperti kredit layanan dan rencana perbaikan, ketika kinerja kurang.
+      - Menegosiasikan variasi kontrak, perpanjangan, dan penyelesaian sengketa.
+      - Menulis dan menguji rencana keluar dan peralihan, termasuk pengembalian data dalam format standar dan penghapusan yang aman.
+      - Menilai risiko pemasok, seperti kesehatan keuangan, keamanan siber, dan rantai pasokan, dan merencanakan kegagalan pemasok.
+      - Membimbing dan menyelia manajer kontrak.
+    qualifications:
+      - Kualifikasi pengadaan atau manajemen kontrak yang diakui pada tingkat lanjutan, atau gelar magister di bidang terkait, atau pengalaman yang setara.
+      - Pengalaman yang substansial dalam mengelola kontrak teknologi strategis atau layanan alih daya.
+    job_evaluation_notes: Iklan sektor kesehatan menempatkan peran ini di Pita 8a. Pengetahuan, analisis, dan kebebasan bertindak dinilai pada profil Pita 8a karena pekerjaan ini mengelola kontrak strategis organisasi dengan sedikit pengawasan. Sumber daya keuangan di tingkat 4 karena pekerjaan ini mengelola pengeluaran dan aset kontrak layanan bernilai tinggi.
+  - title: Manajer kontrak pimpinan
+    summary: Memimpin manajemen kontrak dan pemasok di seluruh organisasi, menetapkan kerangka manajemen kontrak dan mengelola tim kontrak.
+    responsibilities:
+      - Menetapkan kerangka, standar, dan perangkat manajemen kontrak organisasi.
+      - Memimpin tim manajemen kontrak dan portofolio kontraknya.
+      - Memimpin pengelolaan hubungan pemasok yang paling kritis dan menyelesaikan sengketa besar.
+      - Menetapkan standar perencanaan keluar dan pengembalian data, dan memimpin keluar dari kontrak strategis.
+      - Melaporkan kinerja kontrak, risiko pemasok, dan penghematan kepada komite eksekutif.
+      - Menasihati tentang pengakhiran, pengadaan ulang, dan kegagalan pemasok.
+    qualifications:
+      - Kualifikasi pengadaan atau manajemen kontrak yang diakui pada tingkat lanjutan, atau gelar magister di bidang terkait, atau pengalaman yang setara.
+      - Pengalaman luas dalam memimpin manajemen kontrak untuk layanan yang kompleks.
+    job_evaluation_notes: Iklan sektor kesehatan menempatkan peran ini di Pita 8b. Perencanaan di tingkat 5 untuk kerangka manajemen kontrak seluruh organisasi, sumber daya keuangan di tingkat 5 karena pekerjaan ini mengawasi kontrak di banyak layanan, dan orang di tingkat 4 karena mengelola secara langsung tim kontrak.

@@ -1,0 +1,33 @@
+summary: >
+  Manajer insiden memulihkan layanan normal secepat mungkin ketika terjadi masalah, dan menjaga dampaknya pada pengguna sekecil mungkin. Mereka mengoordinasikan tim teknis dan pemasok, menjaga pengguna dan pimpinan tetap terinformasi, dan memastikan insiden dicatat dan diteruskan ke manajemen masalah. Dalam layanan kesehatan, insiden dapat langsung memengaruhi perawatan pasien, sehingga manajer insiden bekerja erat dengan pimpinan klinis dan operasional.
+health_context:
+  - Gangguan sistem klinis dapat menunda pengobatan, sehingga insiden diprioritaskan menurut dampak klinis, dan pimpinan klinis mungkin perlu memulai prosedur henti.
+  - Insiden besar dapat terjadi kapan saja, sehingga manajer insiden ikut dalam jadwal siaga dan dapat dipanggil pada malam atau akhir pekan.
+  - Serangan siber, seperti ransomware, dapat menjadi insiden besar yang memengaruhi seluruh organisasi dan berlangsung berhari-hari atau berminggu-minggu.
+  - Insiden TI besar mungkin perlu terhubung dengan kesiapsiagaan darurat dan pengaturan kesinambungan bisnis organisasi.
+  - Insiden yang mungkin telah membahayakan pasien juga dilaporkan melalui proses insiden klinis dan ditinjau bersama keselamatan klinis.
+levels:
+  - title: Manajer insiden
+    responsibilities:
+      - Mengoordinasikan tanggapan atas insiden yang memengaruhi layanan klinis dan korporat, dari laporan pertama hingga layanan pulih.
+      - Menilai dampak klinis dan operasional setiap insiden dan menetapkan prioritasnya.
+      - Menjaga pengguna terdampak, meja layanan, dan pimpinan klinis tetap terinformasi dengan pembaruan yang jelas dan tepat waktu.
+      - Mengeskalasikan insiden kepada manajer insiden besar ketika memenuhi kriteria yang disepakati.
+      - Memastikan insiden dicatat secara akurat dan diteruskan ke manajemen masalah.
+      - Ikut dalam jadwal siaga untuk insiden di luar jam kerja.
+    qualifications:
+      - Pengalaman dalam dukungan atau operasi TI, termasuk menangani insiden.
+      - Kualifikasi dasar manajemen layanan TI, atau pengalaman yang setara.
+    job_evaluation_notes: Upaya mental mencerminkan konsentrasi berkepanjangan yang sering di bawah tekanan waktu, termasuk saat siaga. Upaya emosional mencerminkan seringnya paparan tidak langsung terhadap dampak gangguan pada pasien dan staf.
+  - title: Manajer insiden besar
+    responsibilities:
+      - Memimpin tanggapan atas insiden besar, seperti gangguan rekam pasien elektronik, kegagalan jaringan, dan serangan siber.
+      - Menjalankan panggilan insiden yang menyatukan tim teknis, pemasok, pimpinan klinis, dan staf komunikasi.
+      - Menasihati pimpinan klinis dan operasional tentang kapan memulai dan menghentikan prosedur henti dan kesinambungan bisnis.
+      - Memberi pengarahan kepada pimpinan senior dan, bila perlu, berhubungan dengan pengaturan tanggap darurat organisasi.
+      - Memimpin tinjauan pascainsiden dan memastikan pelajaran dipetik dan ditindaklanjuti.
+      - Mengembangkan dan menguji rencana insiden besar bersama pimpinan kesinambungan bisnis dan perencanaan darurat.
+    qualifications:
+      - Pengalaman yang substansial dalam mengelola insiden pada layanan kompleks berketersediaan tinggi.
+      - Kualifikasi lanjutan manajemen layanan TI, atau pengalaman yang setara.
+    job_evaluation_notes: Upaya mental mencerminkan konsentrasi berkepanjangan yang sering selama insiden besar, sering di luar jam kerja. Upaya emosional mencerminkan seringnya paparan tidak langsung terhadap dampak gangguan besar pada perawatan pasien.

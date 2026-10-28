@@ -1,0 +1,60 @@
+summary: >
+  Petugas keuangan menjaga keuangan sehari-hari organisasi tetap akurat dan terkendali. Mereka memproses dan mencatat faktur, pembayaran, pendapatan, dan jurnal, merekonsiliasi buku besar dan rekening bank, dan membantu pemegang anggaran dan pemasok dengan pertanyaan mereka. Dalam organisasi layanan kesehatan digital, sebagian besar pekerjaan ini melibatkan pemasok teknologi, lisensi perangkat lunak, dan layanan komputasi awan, sering dibayar dari dana publik dengan aturan ketat tentang cara membelanjakannya.
+health_context:
+  - Organisasi membelanjakan uang publik, sehingga setiap pembayaran harus disetujui dengan semestinya, dicatat, dan tahan terhadap audit.
+  - Banyak faktur adalah untuk lisensi perangkat lunak, hosting komputasi awan, dan kontrak dukungan, yang perlu diperiksa terhadap ketentuan kontrak, penggunaan, dan kode modal atau operasional yang tepat.
+  - Pembayaran yang cepat dan akurat itu penting, karena pemasok kecil dan penyedia perawatan mungkin bergantung padanya.
+  - Staf keuangan melihat informasi pribadi, seperti klaim pengeluaran staf dan pembayaran kepada pasien atau penyedia perawatan, dan harus menanganinya di bawah aturan tata kelola informasi.
+  - Risiko penipuan, seperti permintaan palsu untuk mengubah rincian bank pemasok, menyasar badan publik, sehingga petugas mengikuti pemeriksaan yang ketat.
+levels:
+  - title: Asisten keuangan
+    summary: Asisten keuangan memproses transaksi keuangan rutin, seperti faktur pemasok, penerimaan, dan klaim pengeluaran, mengikuti prosedur yang ditetapkan dengan penyelia di dekatnya.
+    responsibilities:
+      - Memasukkan faktur pemasok, nota kredit, dan penerimaan secara akurat ke dalam sistem keuangan.
+      - Mencocokkan faktur dengan pesanan pembelian dan tanda terima barang, dan menagih persetujuan yang hilang.
+      - Memeriksa klaim pengeluaran staf terhadap kebijakan dan kuitansi pendukung.
+      - Menjawab pertanyaan rutin dari pemasok dan staf melalui telepon dan surel.
+      - Mengarsipkan dan memindai dokumen keuangan agar dapat ditemukan untuk audit.
+      - Mengikuti prosedur keuangan dan aturan tata kelola informasi, dan melaporkan hal yang tidak biasa.
+    qualifications:
+      - Kemampuan berhitung dan papan ketik yang baik, diperoleh melalui pendidikan atau pengalaman kerja.
+      - Kesediaan bekerja menuju kualifikasi akuntansi tingkat dasar, atau pengalaman yang setara.
+    job_evaluation_notes: Keterampilan fisik di tingkat 3 untuk kecepatan dan akurasi entri data bervolume tinggi. Sumber daya keuangan di tingkat 2 karena pekerjaan ini menangani informasi pembayaran dan memeriksa klaim kecil.
+  - title: Petugas keuangan
+    summary: Petugas keuangan menjalankan bagian dari siklus transaksi, seperti utang usaha, piutang usaha, atau kas, menyelesaikan masalah tidak rutin dan merekonsiliasi buku besarnya.
+    responsibilities:
+      - Memproses berbagai transaksi, termasuk putaran pembayaran, pengembalian dana, faktur penjualan, dan jurnal.
+      - Merekonsiliasi laporan pemasok, rekening bank, dan akun kendali, serta membersihkan perbedaan.
+      - Memeriksa bahwa faktur teknologi sesuai dengan ketentuan kontrak, seperti jumlah lisensi dan periode penagihan.
+      - Melakukan pemeriksaan perubahan rincian bank pemasok dan pengendalian antipenipuan lainnya.
+      - Menagih piutang yang jatuh tempo dan menyelesaikan faktur yang disengketakan dengan pemasok dan pemegang anggaran.
+      - Menunjukkan kepada asisten keuangan baru cara melakukan tugas rutin.
+    qualifications:
+      - Kualifikasi akuntansi tingkat dasar, atau pengalaman yang setara dalam pemrosesan keuangan.
+    job_evaluation_notes: Sumber daya keuangan di tingkat 3 karena pekerjaan ini menyiapkan dan merilis putaran pembayaran dan mengesahkan pembayaran dalam batas yang ditetapkan.
+  - title: Petugas keuangan senior
+    summary: Petugas keuangan senior menangani pemrosesan dan rekonsiliasi keuangan yang lebih kompleks, mendukung tutup bulan dan tutup tahun, dan membantu pemegang anggaran memahami pengeluaran mereka.
+    responsibilities:
+      - Menyiapkan jurnal tutup bulan, seperti akrual dan biaya dibayar di muka untuk kontrak perangkat lunak dan dukungan tahunan.
+      - Menyelidiki dan membersihkan butir rekonsiliasi dan saldo lama yang kompleks.
+      - Menyiapkan pengembalian pajak penjualan dan rekonsiliasi di bawah pengawasan.
+      - Menghasilkan laporan anggaran standar dan menjelaskannya kepada pemegang anggaran.
+      - Memeriksa bahwa pengeluaran dikodekan dengan benar antara modal dan operasional, dan mengajukan pertanyaan kepada para akuntan.
+      - Menyelia dan memeriksa pekerjaan petugas dan asisten keuangan sehari-hari.
+      - Menyarankan perbaikan pada prosedur keuangan dan alur kerja sistem.
+    qualifications:
+      - Kualifikasi akuntansi tingkat menengah, atau pengalaman yang setara.
+      - Pengalaman dalam pemrosesan keuangan dan rekonsiliasi.
+  - title: Pemimpin tim keuangan
+    summary: Pemimpin tim keuangan mengelola tim keuangan transaksional atau bekerja sebagai analis keuangan, memastikan proses akurat, terkendali, dan efisien, dan pelaporan siap tepat waktu.
+    responsibilities:
+      - Memimpin tim keuangan transaksional, merencanakan pekerjaannya untuk memenuhi tenggat pembayaran, utang, dan tutup bulan.
+      - Mengelola buku besar atau proses keuangan, dan melaporkan kinerjanya, seperti waktu pembayaran dan utang lama.
+      - Menguji dan memperbaiki pengendalian keuangan, dan menyediakan bukti kepada auditor internal dan eksternal.
+      - Menyiapkan rekonsiliasi neraca dan kertas kerja untuk laporan keuangan tahunan.
+      - Memperbaiki proses, misalnya dengan mengotomatiskan pencocokan faktur atau memperkenalkan layanan mandiri bagi pemegang anggaran.
+      - Melatih, mendukung, dan meninjau pekerjaan staf dalam tim.
+    qualifications:
+      - Kualifikasi akuntansi tingkat menengah atau lanjutan, atau pengalaman yang setara.
+      - Pengalaman memimpin atau mengoordinasikan proses keuangan.
+    job_evaluation_notes: Orang berada di tingkat 3 karena pekerjaan ini mengelola tim keuangan kecil sehari-hari. Analis keuangan pada pita ini akan dinilai orang di tingkat 2 dan analitis di tingkat 4.

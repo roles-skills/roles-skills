@@ -1,0 +1,48 @@
+summary: >
+  Arsitek bisnis membangun pandangan yang jelas dan terpadu tentang bagaimana organisasi menyampaikan kesehatan dan perawatan: kapabilitas, layanan, jalur perawatan, proses, dan informasinya. Mereka memakai pandangan itu untuk menunjukkan di mana perubahan diperlukan, menghubungkan strategi dengan program, dan memastikan perubahan digital memperbaiki perawatan bagi pasien dan kehidupan kerja tenaga klinis dan tenaga perawatan.
+health_context:
+  - Jalur perawatan melintasi tim, lingkungan, dan organisasi, sehingga arsitek bisnis memodelkan layanan dari sudut pandang pasien, bukan hanya per departemen.
+  - Perubahan proses klinis dapat memengaruhi keselamatan pasien dan beban kerja staf, sehingga model dibangun bersama tenaga klinis dan tenaga perawatan dan diperiksa terhadap praktik nyata.
+  - Strategi kesehatan dan perawatan dibentuk oleh kebijakan, regulasi, dan aturan pendanaan, yang harus diterjemahkan arsitek menjadi perubahan kapabilitas yang praktis.
+  - Banyak kapabilitas dibagi dengan organisasi mitra, sehingga arsitek membantu menyepakati siapa melakukan apa dan di mana informasi harus mengalir.
+levels:
+  - title: Arsitek bisnis pemagang
+    responsibilities:
+      - Mempelajari metode arsitektur bisnis, seperti pemodelan kapabilitas, aliran nilai, dan proses, melalui pelatihan dan praktik.
+      - Mengumpulkan informasi tentang layanan dan jalur perawatan melalui wawancara, dokumen, dan pengamatan.
+      - Menyusun draf peta kapabilitas dan model proses dengan bimbingan arsitek bisnis.
+      - Membantu menjalankan lokakarya dengan tenaga klinis, tenaga perawatan, dan manajer, serta menuliskan hasilnya.
+    qualifications:
+      - Gelar atau pengalaman yang setara dalam bisnis, analisis, atau bidang terkait.
+      - Pelatihan spesialis dalam metode arsitektur bisnis, pada tingkat diploma pascasarjana atau pengalaman yang setara.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 5); iklan sektor kesehatan menempatkan peran ini di Pita 6. Pengetahuan dinilai pada tingkat yang dibutuhkan pekerjaan setelah pelatihan cukup lengkap untuk melakukan pekerjaan.
+  - title: Arsitek bisnis asosiat
+    responsibilities:
+      - Memodelkan kapabilitas, layanan, dan jalur perawatan untuk sebagian organisasi.
+      - Menganalisis model untuk menemukan kesenjangan, duplikasi, dan titik masalah bagi pasien dan staf.
+      - Menyatukan informasi dari berbagai tim dan organisasi untuk menjadi masukan keputusan perubahan.
+      - Menjelaskan masalah layanan yang kompleks kepada pemangku kepentingan dengan model yang jelas dan bahasa sederhana.
+      - Menjaga repositori arsitektur bisnis tetap akurat dan terhubung dengan model aplikasi dan data.
+    qualifications:
+      - Pengetahuan spesialis tentang arsitektur bisnis atau analisis bisnis, pada tingkat magister atau pengalaman yang setara.
+      - Pengalaman dalam analisis bisnis atau desain layanan.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 6); iklan sektor kesehatan menempatkan peran ini di Pita 7. Pengetahuan dinilai pada tingkat magister atau yang setara, karena pekerjaan ini memodelkan dan menganalisis layanan dan jalur perawatan lintas tim dan organisasi.
+  - title: Arsitek bisnis
+    responsibilities:
+      - Mengembangkan arsitektur bisnis saat ini dan sasaran untuk bidang layanan utama, seperti perawatan darurat atau layanan komunitas.
+      - Menerjemahkan strategi dan kebijakan menjadi perubahan kapabilitas dan peta jalan perubahan.
+      - Memeriksa bahwa lingkup program dan proyek sesuai dengan arsitektur bisnis sasaran.
+      - Bekerja dengan pimpinan klinis untuk menilai bagaimana perubahan yang diusulkan memengaruhi jalur perawatan, keselamatan, dan beban kerja staf.
+      - Memandu arsitek bisnis lain dalam metode dan perangkat.
+    qualifications:
+      - Pengalaman yang substansial dalam arsitektur bisnis, analisis bisnis, atau desain layanan, pada tingkat yang setara dengan gelar magister.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 7); iklan sektor kesehatan menempatkan peran ini di Pita 8a. Perencanaan, kebijakan, dan kebebasan bertindak dinilai di atas profil Pita 7 karena pekerjaan ini mengubah strategi menjadi peta jalan perubahan untuk bidang layanan utama.
+  - title: Arsitek bisnis pimpinan
+    responsibilities:
+      - Memimpin praktik arsitektur bisnis dan bertanggung jawab atas keluarannya.
+      - Memelihara pandangan seluruh organisasi tentang kapabilitas, layanan, dan jalur perawatan, serta menjaganya mudah dipahami.
+      - Menasihati direktur tentang prioritas perubahan dan bagaimana portofolio investasi sesuai dengan strategi.
+      - Bekerja dengan organisasi mitra untuk menyepakati kapabilitas dan tanggung jawab bersama lintas jalur perawatan.
+      - Memimpin dan mengembangkan arsitek bisnis.
+    qualifications:
+      - Pengalaman luas dalam memimpin arsitektur bisnis di organisasi yang kompleks.

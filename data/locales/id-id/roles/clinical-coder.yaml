@@ -1,0 +1,66 @@
+summary: >
+  Pengode klinis membaca rekam kesehatan pasien dan menerjemahkan diagnosis, prosedur, dan informasi klinis lain menjadi kode klasifikasi standar, seperti ICD untuk diagnosis dan klasifikasi prosedur untuk tindakan. Data berkode dipakai untuk pembayaran, perencanaan layanan, audit klinis, penelitian, dan statistik kesehatan masyarakat, sehingga akurasinya penting jauh melampaui tim pengodean. Pengode bekerja erat dengan tenaga klinis untuk memperjelas rekam, dan semakin sering memakai terminologi klinis seperti SNOMED CT dan perangkat pengodean berbantuan komputer.
+health_context:
+  - Pengode membaca catatan kasus yang lengkap, yang sering menggambarkan penyakit berat, cedera, kekerasan, melukai diri sendiri, dan kematian, sehingga pekerjaan ini menuntut secara emosional dan tim memerlukan dukungan dan penyeliaan yang baik.
+  - Data berkode menentukan pembayaran untuk aktivitas, indikator kematian dan hasil, serta perencanaan layanan, sehingga kesalahan dapat memengaruhi pendanaan, kinerja yang dipublikasikan, dan keputusan tentang perawatan.
+  - Pengodean bergantung pada mutu dokumentasi klinis, sehingga pengode menanyakan rekam yang tidak jelas kepada tenaga klinis dan membantu memperbaiki cara perawatan dicatat.
+  - Pengode menangani rekam kesehatan lengkap yang dapat diidentifikasi setiap hari, sehingga kerahasiaan dan akses yang benar itu esensial.
+  - Pengodean otomatis dan berbantuan komputer, serta pemetaan dari SNOMED CT ke klasifikasi, sedang mengubah pekerjaan ini, dan pengode memeriksa bahwa kode otomatis benar.
+levels:
+  - title: Pengode klinis pemagang
+    summary: Pengode klinis pemagang belajar mengode episode rumah sakit yang sederhana di bawah pengawasan ketat, bekerja menuju kualifikasi pengodean klinis.
+    responsibilities:
+      - Mengode episode sederhana, seperti kasus rawat sehari, dari rekam kesehatan memakai aturan klasifikasi, dengan semua pekerjaan diperiksa oleh pengode senior.
+      - Mempelajari istilah medis, anatomi, serta standar pengodean nasional dan internasional melalui pelatihan terstruktur.
+      - Menemukan, melacak, dan mengembalikan rekam kesehatan dengan benar, dan menjaganya tetap aman.
+      - Mencatat data berkode dalam sistem administrasi pasien atau pengodean secara akurat dan tepat waktu.
+      - Menyampaikan informasi yang tidak jelas atau hilang kepada pengode senior.
+    qualifications:
+      - Kemampuan baca-tulis dan papan ketik yang baik, serta terdaftar pada program pelatihan pengodean klinis, atau yang setara.
+    job_evaluation_notes: Upaya mental berada di tingkat 4 karena pengode berkonsentrasi dalam waktu lama membaca dan menafsirkan catatan kasus yang rinci. Upaya emosional berada di tingkat 2 karena pengode sering membaca rekam yang menggambarkan peristiwa yang menyedihkan.
+  - title: Pengode klinis
+    summary: Pengode klinis mengode berbagai episode rutin secara mandiri dan akurat, memenuhi tenggat dan standar mutu yang disepakati.
+    responsibilities:
+      - Mengode episode rawat inap, rawat sehari, dan rawat jalan secara akurat di spesialisasi umum, memakai aturan klasifikasi dan kebijakan setempat.
+      - Menanyakan informasi klinis yang tidak jelas, hilang, atau bertentangan kepada tenaga klinis dan mencatat hasilnya.
+      - Memeriksa kode yang disarankan oleh pengodean berbantuan komputer atau peta terminologi, dan memperbaikinya jika perlu.
+      - Memenuhi tenggat kelengkapan pengodean, agar data siap untuk pembayaran dan pelaporan.
+      - Ikut serta dalam audit pengodean dan menindaklanjuti temuannya.
+    qualifications:
+      - Kualifikasi pengodean klinis yang diakui, atau sedang menempuhnya dengan pengalaman yang setara.
+    job_evaluation_notes: Upaya mental dan emosional mencerminkan konsentrasi yang lama pada catatan kasus yang sering menggambarkan penyakit berat, cedera, dan kematian.
+  - title: Pengode klinis senior
+    summary: Pengode klinis senior mengode episode kompleks di berbagai spesialisasi, menjadi sumber saran pakar bagi pengode lain, serta memeriksa dan melatih pengode yang kurang berpengalaman.
+    responsibilities:
+      - Mengode episode kompleks, seperti perawatan intensif, kanker, banyak prosedur, dan kematian, di berbagai spesialisasi.
+      - Menyelesaikan pertanyaan pengodean yang sulit bersama konsultan dan tenaga klinis senior lain, menjelaskan aturan pengodean dengan jelas.
+      - Memeriksa pekerjaan pengode pemagang dan memberi mereka umpan balik dan pelatihan sambil bekerja.
+      - Memvalidasi data berkode sebelum dikirim dan memperbaiki kesalahan bersama tim yang tepat.
+      - Bekerja dengan tim klinis untuk memperbaiki mutu dokumentasi klinis.
+    qualifications:
+      - Kualifikasi pengodean klinis yang diakui, atau pengalaman yang setara.
+      - Pengalaman mengode episode kompleks di berbagai spesialisasi.
+    job_evaluation_notes: Upaya emosional tetap di tingkat 2, karena episode kompleks seperti kematian dan perawatan kanker adalah bagian rutin dari pekerjaan ini.
+  - title: Auditor dan pelatih pengodean klinis
+    summary: Auditor dan pelatih pengodean klinis mengaudit akurasi data berkode, merancang dan menyampaikan pelatihan pengodean, dan menasihati organisasi tentang standar pengodean. Di beberapa organisasi, tingkat ini juga memimpin tim pengodean sehari-hari.
+    responsibilities:
+      - Merencanakan dan melakukan audit pengodean di berbagai spesialisasi, mengukur akurasi terhadap standar nasional dan internasional.
+      - Melaporkan temuan audit kepada tim pengodean, klinis, keuangan, dan informasi, dan menyepakati tindakan perbaikan.
+      - Merancang dan menyampaikan pelatihan pengodean, dari kursus dasar untuk pengode baru hingga pelatihan penyegaran atas perubahan standar.
+      - Menasihati tenaga klinis dan manajer tentang bagaimana pengodean memengaruhi pembayaran, indikator kematian, dan data kinerja.
+      - Memimpin penerapan perubahan versi klasifikasi, standar pengodean, dan perangkat pengodean.
+      - Memimpin tim pengodean sehari-hari jika organisasi menggabungkan hal ini dengan audit dan pelatihan.
+    qualifications:
+      - Kualifikasi pengodean klinis yang diakui dan kualifikasi audit atau pelatihan pengodean klinis yang diakui, atau pengalaman yang setara.
+    job_evaluation_notes: Orang berada di tingkat 3 karena merancang dan mengajar pelatihan pengodean khusus adalah tugas utama. Penelitian berada di tingkat 2 karena audit pengodean adalah bagian rutin dari pekerjaan.
+  - title: Manajer pengodean klinis
+    summary: Manajer pengodean klinis memimpin layanan pengodean klinis organisasi, termasuk tim pengodean, program mutu, dan hubungan dengan tim klinis, keuangan, dan informasi.
+    responsibilities:
+      - Memimpin layanan pengodean klinis dan para pemimpin timnya, memastikan pengodean lengkap, akurat, dan tepat waktu.
+      - Menetapkan kebijakan pengodean dan program mutu pengodean, sesuai dengan standar nasional dan internasional.
+      - Memegang anggaran pengodean dan merencanakan tenaga kerja, termasuk rekrutmen, pelatihan, dan akreditasi.
+      - Menasihati pimpinan senior tentang bagaimana pengodean memengaruhi pendanaan, indikator kematian dan hasil, serta data yang dipublikasikan.
+      - Memimpin penerapan teknologi pengodean baru, seperti pengodean berbantuan komputer dan pemetaan terminologi, bersama rekan keselamatan klinis dan tata kelola informasi.
+      - Mendukung kesejahteraan pengode yang secara teratur membaca rekam yang menyedihkan.
+    qualifications:
+      - Kualifikasi pengodean klinis yang diakui dan pengalaman luas dalam pengodean, audit, dan memimpin pengode, atau pengalaman yang setara.

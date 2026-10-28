@@ -1,0 +1,55 @@
+summary: >
+  Insinyur analitik mengubah data kesehatan dan perawatan mentah menjadi model data yang bersih, teruji, dan terdokumentasi yang dapat diandalkan analis, ilmuwan data, dan perangkat pelaporan. Mereka berada di antara rekayasa data dan analisis, menerapkan praktik rekayasa perangkat lunak seperti kendali versi, pengujian, dan tinjauan kode pada transformasi di balik laporan dan dasbor organisasi.
+health_context:
+  - Model data mengodekan definisi klinis dan operasional, seperti apa yang dihitung sebagai rawat inap, rawat inap ulang, atau pelanggaran standar waktu tunggu, sehingga definisi disepakati dengan pimpinan klinis dan operasional.
+  - Kode klinis dari terminologi dan klasifikasi seperti SNOMED CT dan ICD dikelompokkan menjadi kumpulan referensi untuk analisis, yang memerlukan kendali versi yang cermat.
+  - Model yang dipakai untuk laporan kinerja dan pendanaan harus konsisten dan dapat diaudit, karena kesalahan dapat memengaruhi keputusan tentang layanan pasien.
+  - Model sering memuat data tingkat pasien yang dipseudonimkan, sehingga akses, dokumentasi, dan peminimalan data dibangun di dalamnya.
+levels:
+  - title: Insinyur analitik pemagang
+    responsibilities:
+      - Mempelajari perangkat dan praktik pemodelan data tim melalui pelatihan dan kerja berpasangan.
+      - Membuat perubahan kecil yang terdefinisi dengan baik pada model data di bawah pengawasan.
+      - Mendokumentasikan butir data dan definisinya dalam katalog data.
+      - Menjawab pertanyaan sederhana dari pengguna data dan mencatat kebutuhan mereka.
+      - Mengikuti aturan tata kelola informasi saat bekerja dengan data pasien.
+    qualifications:
+      - Terdaftar pada, atau sedang menempuh, program magang data atau yang setara.
+    job_evaluation_notes: Pengetahuan dinilai pada tingkat yang dibutuhkan pekerjaan setelah pelatihan cukup lengkap untuk melakukan pekerjaan.
+  - title: Insinyur analitik
+    responsibilities:
+      - Membangun dan menguji model data untuk suatu bidang layanan, seperti aktivitas rawat inap atau perawatan komunitas, dari desain yang disepakati.
+      - Menulis pengujian otomatis yang memeriksa model data terhadap definisi klinis dan operasional yang disepakati.
+      - Memelihara kumpulan referensi kode klinis yang dipakai dalam analisis, dengan versi yang jelas.
+      - Mendokumentasikan model agar analis memahami makna, sumber, dan batasannya.
+      - Melatih dan mendukung pengguna himpunan data tim.
+    qualifications:
+      - Gelar di bidang yang kuantitatif atau komputasi, atau pengalaman yang setara.
+      - Pengalaman membangun model data atau kode analitis.
+  - title: Insinyur analitik senior
+    responsibilities:
+      - Mengawasi desain dan pengujian model data di beberapa bidang layanan.
+      - Menyepakati definisi ukuran utama bersama pimpinan klinis, operasional, dan keuangan, dan memastikan model menerapkannya secara konsisten.
+      - Memastikan model yang mengisi laporan kinerja dan pendanaan dapat diaudit dan teruji dengan baik.
+      - Menyelesaikan masalah dan risiko data bersama insinyur data dan pemilik data.
+      - Membimbing dan mengarahkan pekerjaan insinyur analitik lain.
+    qualifications:
+      - Pengalaman yang substansial dalam pemodelan data dan rekayasa analitik, pada tingkat yang setara dengan gelar magister.
+  - title: Insinyur analitik pimpinan
+    responsibilities:
+      - Memimpin tim yang merancang, membangun, dan memelihara model data analitis organisasi.
+      - Menetapkan standar untuk model data, pengujian, dokumentasi, dan definisi ukuran.
+      - Bekerja dengan tim di seluruh organisasi untuk memahami bagaimana proses klinis dan operasional menghasilkan data.
+      - Meninjau pekerjaan insinyur analitik lain dan memperbaiki cara kerja tim.
+      - Mengelola secara langsung para insinyur analitik.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa analitik atau pemodelan data.
+  - title: Kepala rekayasa analitik
+    responsibilities:
+      - Menetapkan arah model data analitis organisasi, agar analisis di seluruh organisasi memakai satu set definisi tepercaya.
+      - Memastikan prioritas rekayasa analitik mendukung strategi dan kewajiban pelaporan organisasi.
+      - Menasihati pimpinan senior tentang keterpercayaan data di balik laporan dan keputusan besar.
+      - Memastikan komunitas memiliki perangkat dan platform yang dibutuhkan, dan mengelola anggaran terkait.
+      - Membangun kapabilitas rekayasa analitik melalui kepemimpinan teknis dan pengembangan karier.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa analitik di sebuah organisasi.

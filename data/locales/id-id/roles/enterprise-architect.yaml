@@ -1,0 +1,53 @@
+summary: >
+  Arsitek enterprise memberi organisasi pandangan terpadu atas layanan, informasi, aplikasi, dan teknologinya, lalu memakainya untuk mengubah strategi kesehatan dan perawatan menjadi rencana perubahan yang koheren. Mereka menetapkan prinsip, standar, dan peta jalan arsitektur, memandu keputusan investasi, dan memastikan perubahan digital mendukung perawatan yang aman dan terpadu bagi pasien lintas organisasi.
+health_context:
+  - Jalur perawatan melintasi banyak organisasi dan sistem, sehingga arsitektur harus mendukung pembagian rekam, hasil pemeriksaan, dan rujukan lintas batas.
+  - Lanskap sistem sering mencakup sistem klinis berumur panjang, alat kesehatan, dan kontrak pemasok yang sulit diubah, sehingga peta jalan harus merencanakan transisi dengan cermat.
+  - Keputusan arsitektur memengaruhi keselamatan pasien, privasi, dan ketahanan layanan yang berjalan sepanjang waktu.
+  - Standar terbuka seperti HL7 FHIR, SNOMED CT, dan profil IHE sangat penting untuk menghindari keterkungkungan dan memungkinkan interoperabilitas.
+  - Pendanaan terbatas dan diawasi ketat, sehingga arsitek harus menunjukkan nilai uang dan penggunaan ulang platform bersama jika ada.
+levels:
+  - title: Arsitek enterprise
+    responsibilities:
+      - Memodelkan layanan, informasi, aplikasi, dan teknologi organisasi saat ini dan yang dituju untuk suatu ranah, seperti diagnostik atau perawatan komunitas.
+      - Menjaga repositori arsitektur tetap mutakhir, termasuk katalog aplikasi dan aliran data.
+      - Meninjau usulan terhadap prinsip dan standar arsitektur, dan membuat rekomendasi kepada otoritas desain.
+      - Mengidentifikasi di mana sistem menduplikasi kapabilitas atau bergantung pada teknologi yang tidak didukung, dan menyampaikan risikonya.
+      - Bekerja dengan arsitek solusi dan pimpinan klinis untuk memahami bagaimana jalur perawatan memakai sistem.
+      - Memandu arsitek solusi tentang bagaimana desain sesuai dengan arsitektur ranah.
+    qualifications:
+      - Pengalaman yang substansial dalam arsitektur, analisis, atau desain teknis di organisasi yang kompleks, pada tingkat yang setara dengan gelar magister.
+      - Pengetahuan tentang kerangka arsitektur enterprise, seperti TOGAF, atau pengalaman yang setara.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 6); iklan sektor kesehatan menempatkan peran ini di Pita 8a. Pengetahuan, analisis, perencanaan, kebijakan, dan kebebasan bertindak dinilai pada profil Pita 8a karena pekerjaan ini membentuk arsitektur sasaran dan menasihati otoritas desain untuk seluruh ranah.
+  - title: Arsitek enterprise senior
+    responsibilities:
+      - Mengembangkan arsitektur sasaran dan peta jalan transisi untuk satu atau lebih ranah organisasi.
+      - Membentuk kasus bisnis agar investasi sesuai dengan arsitektur sasaran dan menggunakan ulang platform bersama.
+      - Memimpin tinjauan arsitektur di otoritas desain dan membuat rekomendasi atas usulan yang signifikan.
+      - Merencanakan penggantian atau pemensiunan sistem klinis dan korporat lama, termasuk migrasi data dan risiko keselamatan.
+      - Memastikan kebutuhan interoperabilitas, keamanan, dan tata kelola informasi dibangun ke dalam peta jalan.
+      - Membimbing dan memandu arsitek enterprise dan solusi.
+    qualifications:
+      - Pengalaman luas dalam arsitektur enterprise atau solusi di beberapa ranah.
+      - Pengetahuan tentang kerangka arsitektur enterprise, seperti TOGAF, atau pengalaman yang setara.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 7); iklan sektor kesehatan menempatkan peran ini di Pita 8b. Perencanaan berada di tingkat 5 untuk peta jalan jangka panjang dengan dampak di seluruh organisasi; pengetahuan berada di tingkat 8 untuk pengetahuan lintas arsitektur bisnis, informasi, aplikasi, dan teknologi.
+  - title: Arsitek enterprise pimpinan
+    responsibilities:
+      - Memiliki arsitektur enterprise untuk bagian besar organisasi, seperti sistem klinis atau infrastruktur bersama.
+      - Memimpin atau mengetuai otoritas desain arsitektur dan menetapkan standar yang harus dipenuhi proyek.
+      - Menasihati direktur tentang prioritas investasi, strategi pemasok, dan risiko teknologi.
+      - Bekerja dengan organisasi mitra untuk menyelaraskan arsitektur lintas jalur perawatan dan rekam bersama.
+      - Memimpin dan mengembangkan arsitek enterprise dan menumbuhkan komunitas praktik arsitektur.
+    qualifications:
+      - Pengalaman luas dalam arsitektur enterprise di organisasi yang kompleks.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 8b); iklan sektor kesehatan menempatkan peran ini di Pita 8c. Sumber daya informasi berada di tingkat 6 karena pekerjaan ini mengelola arsitektur sistem informasi di bagian besar organisasi; kebijakan dan orang berada di atas profil Pita 8b karena menetapkan standar untuk semua proyek dan memimpin arsitek enterprise.
+  - title: Arsitek enterprise utama
+    responsibilities:
+      - Menetapkan visi, prinsip, dan strategi arsitektur enterprise organisasi, selaras dengan strategi kesehatan dan perawatannya.
+      - Menasihati tim eksekutif dan dewan tentang arsitektur, risiko, dan nilai investasi digital besar.
+      - Memimpin praktik, tata kelola, dan standar arsitektur organisasi.
+      - Mewakili organisasi dalam forum arsitektur dan interoperabilitas lintas organisasi.
+      - Membangun kapabilitas arsitektur di seluruh organisasi, termasuk rekrutmen dan jalur karier.
+    qualifications:
+      - Pengalaman luas dalam memimpin arsitektur enterprise lintas organisasi.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 8c); iklan sektor kesehatan menempatkan peran ini di Pita 8d. Kebijakan dan kebebasan bertindak berada di tingkat 6 karena pekerjaan ini memegang tanggung jawab korporat atas visi, prinsip, dan strategi arsitektur organisasi.

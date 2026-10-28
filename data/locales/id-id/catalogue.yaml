@@ -1,0 +1,92 @@
+# Judul rumpun dan peran dalam bahasa Indonesia. Kuncinya adalah id bahasa
+# Inggris. Slug dibuat dari judul.
+families:
+  software-development: {title: Pengembangan perangkat lunak}
+  architecture: {title: Arsitektur}
+  data: {title: Data}
+  product-and-delivery: {title: Produk dan penyampaian}
+  user-centred-design: {title: Desain berpusat pada pengguna}
+  it-operations: {title: Operasional TI}
+  cyber-security: {title: Keamanan siber}
+  quality-assurance-testing: {title: Penjaminan mutu dan pengujian}
+  clinical-informatics: {title: Informatika klinis dan keselamatan klinis}
+  information-governance: {title: Tata kelola informasi}
+  finance: {title: Keuangan}
+  legal: {title: Hukum}
+  human-resources: {title: Sumber daya manusia}
+  procurement: {title: Pengadaan dan komersial}
+  corporate-services: {title: Layanan korporat}
+roles:
+  software-developer: {title: Pengembang perangkat lunak}
+  frontend-developer: {title: Pengembang frontend}
+  devops-engineer: {title: Insinyur DevOps}
+  integration-engineer: {title: Insinyur integrasi (interoperabilitas kesehatan)}
+  enterprise-architect: {title: Arsitek enterprise}
+  solution-architect: {title: Arsitek solusi}
+  technical-architect: {title: Arsitek teknis}
+  data-architect: {title: Arsitek data}
+  security-architect: {title: Arsitek keamanan}
+  network-architect: {title: Arsitek jaringan}
+  business-architect: {title: Arsitek bisnis}
+  data-analyst: {title: Analis data}
+  performance-analyst: {title: Analis kinerja}
+  data-engineer: {title: Insinyur data}
+  analytics-engineer: {title: Insinyur analitik}
+  data-scientist: {title: Ilmuwan data}
+  machine-learning-engineer: {title: Insinyur pembelajaran mesin}
+  data-governance-manager: {title: Manajer tata kelola data}
+  clinical-coder: {title: Pengode klinis}
+  business-analyst: {title: Analis bisnis}
+  delivery-manager: {title: Manajer penyampaian}
+  product-manager: {title: Manajer produk}
+  project-manager: {title: Manajer proyek}
+  programme-delivery-manager: {title: Manajer penyampaian program}
+  digital-portfolio-manager: {title: Manajer portofolio digital}
+  service-owner: {title: Pemilik layanan}
+  user-researcher: {title: Peneliti pengguna}
+  service-designer: {title: Desainer layanan}
+  interaction-designer: {title: Desainer interaksi}
+  content-designer: {title: Desainer konten}
+  accessibility-specialist: {title: Spesialis aksesibilitas}
+  service-desk-analyst: {title: Analis meja layanan}
+  end-user-computing-engineer: {title: Insinyur komputasi pengguna akhir}
+  infrastructure-engineer: {title: Insinyur infrastruktur}
+  application-operations-engineer: {title: Insinyur operasional aplikasi}
+  it-service-manager: {title: Manajer layanan TI}
+  incident-manager: {title: Manajer insiden}
+  problem-manager: {title: Manajer masalah}
+  change-and-release-manager: {title: Manajer perubahan dan rilis}
+  security-analyst: {title: Analis operasi keamanan}
+  security-engineer: {title: Insinyur keamanan}
+  cyber-security-manager: {title: Manajer keamanan siber}
+  quality-assurance-test-analyst: {title: Analis pengujian penjaminan mutu}
+  test-engineer: {title: Insinyur pengujian}
+  test-manager: {title: Manajer pengujian}
+  clinical-informatician: {title: Informatikawan klinis}
+  clinical-safety-officer: {title: Petugas keselamatan klinis}
+  chief-clinical-information-officer: {title: Kepala informasi klinis}
+  records-officer: {title: Petugas rekam medis}
+  information-governance-officer: {title: Petugas tata kelola informasi}
+  data-protection-officer: {title: Petugas pelindungan data}
+  finance-officer: {title: Petugas keuangan}
+  payroll-officer: {title: Petugas penggajian}
+  management-accountant: {title: Akuntan manajemen}
+  financial-accountant: {title: Akuntan keuangan}
+  head-of-finance: {title: Kepala keuangan}
+  legal-assistant: {title: Asisten hukum}
+  legal-adviser: {title: Penasihat hukum}
+  head-of-legal: {title: Kepala layanan hukum}
+  hr-officer: {title: Petugas sumber daya manusia}
+  recruitment-officer: {title: Petugas rekrutmen}
+  hr-business-partner: {title: Mitra bisnis sumber daya manusia}
+  learning-and-development-specialist: {title: Spesialis pembelajaran dan pengembangan}
+  head-of-people: {title: Kepala sumber daya manusia}
+  procurement-officer: {title: Petugas pengadaan}
+  category-manager: {title: Manajer kategori}
+  contract-manager: {title: Manajer kontrak}
+  head-of-procurement: {title: Kepala pengadaan}
+  administrator: {title: Administrator}
+  executive-assistant: {title: Asisten eksekutif}
+  project-support-officer: {title: Petugas dukungan proyek}
+  governance-and-risk-manager: {title: Manajer tata kelola dan risiko}
+  communications-officer: {title: Petugas komunikasi}

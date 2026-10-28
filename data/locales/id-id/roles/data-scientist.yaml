@@ -1,0 +1,67 @@
+summary: >
+  Ilmuwan data memakai statistik, pembelajaran mesin, dan metode lanjutan lain untuk menemukan pola dalam data kesehatan dan perawatan dan membangun model yang membantu layanan merencanakan, memprediksi, dan memperbaiki perawatan. Pekerjaan yang lazim mencakup meramalkan permintaan, mengidentifikasi pasien yang mungkin mendapat manfaat dari dukungan dini, dan mengevaluasi dampak perubahan layanan. Mereka bekerja erat dengan tenaga klinis dan analis, dan memastikan model valid, adil, dan dipakai dengan aman.
+health_context:
+  - Model yang mendukung keputusan tentang pasien dapat menimbulkan kerugian jika salah atau bias, sehingga model divalidasi pada populasi tempat model itu akan dipakai dan dinilai keselamatan kliniknya.
+  - Data kesehatan mencerminkan akses perawatan yang tidak setara, sehingga model dapat mengulang atau memperburuk ketimpangan kesehatan kecuali bias diukur dan ditangani untuk setiap kelompok pasien.
+  - Sebagian model, seperti yang menginformasikan diagnosis atau pengobatan, dapat diatur sebagai alat kesehatan, dan regulasi AI juga dapat berlaku.
+  - Ilmu data sering memerlukan data pasien yang rinci dan tertaut, sehingga pekerjaan berlangsung di lingkungan yang aman, dengan data yang dipseudonimkan, di bawah dasar tata kelola informasi yang disepakati.
+  - Tenaga klinis dan pasien perlu memahami dan memercayai keluaran model, sehingga penjelasan dan komunikasi ketidakpastian dalam bahasa sederhana itu penting.
+levels:
+  - title: Ilmuwan data pemagang
+    responsibilities:
+      - Mempelajari metode statistik dan pembelajaran mesin, perangkat, dan cara kerja aman tim melalui pelatihan terstruktur.
+      - Menyiapkan dan menjelajahi himpunan data kesehatan yang dipseudonimkan di bawah pengawasan.
+      - Menjalankan dan menafsirkan analisis statistik sederhana, memeriksa hasil dengan ilmuwan data yang lebih berpengalaman.
+      - Mengikuti prosedur tata kelola informasi, pengendalian pengungkapan, dan etika.
+      - Bekerja menuju kualifikasi magang ilmu data atau yang setara.
+    qualifications:
+      - Terdaftar pada, atau sedang menempuh, program magang ilmu data atau yang setara.
+    job_evaluation_notes: Pengetahuan dinilai pada tingkat yang dibutuhkan pekerjaan setelah pelatihan cukup lengkap untuk melakukan pekerjaan.
+  - title: Ilmuwan data asosiat
+    responsibilities:
+      - Membangun dan menguji model statistik dan pembelajaran mesin dasar, seperti ramalan permintaan, dengan bimbingan.
+      - Menyiapkan dan menautkan himpunan data kesehatan untuk pemodelan di lingkungan yang aman.
+      - Mengukur seberapa baik kinerja model untuk berbagai kelompok pasien dan melaporkan perbedaannya.
+      - Menyajikan hasil dan ketidakpastiannya kepada analis dan tim layanan.
+      - Mendokumentasikan sumber data, metode, dan asumsi agar pekerjaan dapat direproduksi.
+    qualifications:
+      - Gelar di bidang yang kuantitatif, magang ilmu data, atau pengalaman yang setara.
+  - title: Ilmuwan data
+    responsibilities:
+      - Mengembangkan model kompleks secara mandiri, seperti stratifikasi risiko atau prediksi lama rawat, memilih metode yang sesuai.
+      - Memvalidasi model bersama tenaga klinis, memeriksa bahwa model akurat, adil, dan berguna pada data pasien setempat.
+      - Mendokumentasikan tujuan penggunaan, data, kinerja, dan batasan setiap model, dan menyumbang bukti untuk kasus keselamatan klinis.
+      - Mengevaluasi dampak perubahan layanan dengan metode statistik yang sesuai.
+      - Menjelaskan model dan ketidakpastiannya kepada khalayak klinis dan nonteknis.
+      - Mendukung ilmuwan data asosiat dan pemagang.
+    qualifications:
+      - Gelar di bidang yang kuantitatif, atau pengalaman yang setara.
+      - Pengalaman membangun dan memvalidasi model statistik atau pembelajaran mesin.
+  - title: Ilmuwan data utama
+    responsibilities:
+      - Menentukan lingkup, merancang, dan memimpin proyek ilmu data yang mendukung perencanaan layanan dan perawatan pasien.
+      - Memutuskan metode, perangkat, dan data yang sesuai, dan menantang rencana yang tidak layak atau tidak aman.
+      - Merencanakan validasi, penilaian bias, dan pemantauan model bersama rekan keselamatan klinis dan tata kelola informasi.
+      - Menyepakati dengan tim produk bagaimana model akan diterapkan dan didukung dalam skala besar.
+      - Mengelola dan mengembangkan tim kecil ilmuwan data.
+    qualifications:
+      - Pengalaman yang substansial dalam menyampaikan ilmu data, pada tingkat yang setara dengan gelar magister atau doktor di bidang kuantitatif.
+  - title: Ilmuwan data pimpinan
+    responsibilities:
+      - Memimpin tim ilmu data dan menetapkan arah, prioritas, dan standarnya.
+      - Menemukan peluang di mana ilmu data dapat memperbaiki perawatan, dan menyampaikan alasannya kepada pimpinan klinis dan layanan.
+      - Memastikan model dirancang, divalidasi, dan dipantau agar tetap aman dan adil saat dipakai.
+      - Menyelesaikan tantangan etika dan data yang kompleks, seperti persetujuan, bias, dan penggunaan data sensitif.
+      - Membangun kapabilitas ilmu data melalui pembimbingan, rekrutmen, dan pelatihan.
+    qualifications:
+      - Pengalaman luas dalam memimpin tim ilmu data.
+    job_evaluation_notes: UK GDaD PCF menyarankan ilmuwan data pimpinan dan kepala ilmu data sama-sama pada G7 atau G6. Acuan ini menempatkan pimpinan di Pita 8a dan kepala di Pita 8b, sehingga kedua tingkat berada di pita yang berbeda.
+  - title: Kepala ilmu data
+    responsibilities:
+      - Menetapkan arah ilmu data dan AI di seluruh organisasi, selaras dengan strategi dan prioritasnya.
+      - Memimpin etika, keselamatan, dan penjaminan model dan AI organisasi, dan menasihati dewan tentangnya.
+      - Mengawasi sumber daya, anggaran, dan mutu produk ilmu data.
+      - Mewakili organisasi dalam ilmu data dan AI di hadapan mitra kesehatan dan perawatan, peneliti, dan regulator.
+      - Membangun kapabilitas dan karier ilmu data lintas profesi.
+    qualifications:
+      - Pengalaman luas dalam memimpin ilmu data di sebuah organisasi.

@@ -1,0 +1,63 @@
+summary: >
+  Manajer proyek merencanakan dan menyampaikan proyek yang mengubah cara organisasi mendukung kesehatan dan perawatan, seperti menerapkan sistem klinis ke lokasi baru, memindahkan layanan ke infrastruktur baru, atau memperkenalkan perangkat digital baru untuk tenaga perawatan. Mereka mengendalikan lingkup, waktu, biaya, mutu, dan risiko memakai metode proyek yang diakui, dan memastikan proyek menghasilkan manfaat yang dijanjikan bagi pasien dan staf.
+health_context:
+  - Proyek yang mengubah sistem atau alur kerja klinis memerlukan penjaminan keselamatan klinis sebelum peluncuran, sehingga manajer proyek merencanakan lokakarya bahaya, pengesahan kasus keselamatan, dan masukan petugas keselamatan klinis ke dalam jadwal.
+  - Peluncuran tidak boleh mengganggu perawatan pasien, sehingga manajer proyek merencanakan pengalihan, pengaturan kesinambungan bisnis, dan dukungan keliling lapangan bersama tim klinis dan operasional.
+  - Proyek sering memerlukan penilaian dampak pelindungan data dan perjanjian pembagian informasi, sehingga manajer proyek merencanakannya sejak dini bersama rekan tata kelola informasi.
+  - Manfaat dalam perawatan, seperti waktu staf yang dibebaskan atau lebih sedikit kesalahan, butuh waktu untuk muncul, sehingga manajer proyek menetapkan garis dasar dan menyerahkan pelacakan manfaat kepada layanan.
+levels:
+  - title: Manajer proyek asisten
+    summary: Manajer proyek asisten mendukung penyampaian proyek, atau mengelola proyek kecil yang terdefinisi dengan baik dengan bimbingan manajer proyek yang lebih senior.
+    responsibilities:
+      - Memelihara rencana proyek, log risiko dan isu, log tindakan, dan catatan ketergantungan.
+      - Mengatur dan membuat notulen rapat dan dewan proyek, serta menindaklanjuti tindakan.
+      - Mengelola pekerjaan kecil yang terdefinisi dengan baik, seperti peluncuran di satu lokasi atau jadwal pelatihan, dengan bimbingan.
+      - Melacak tugas kesiapan peluncuran, seperti pengesahan keselamatan klinis, pemeriksaan pelindungan data, dan pelatihan staf.
+      - Menyiapkan laporan sorotan dan melacak pengeluaran proyek terhadap anggaran.
+    qualifications:
+      - Kualifikasi manajemen proyek dasar, atau pengalaman yang setara.
+  - title: Manajer proyek
+    summary: Manajer proyek menjalankan proyek berukuran dan kompleksitas sedang dari awal hingga penutupan, seperti meluncurkan layanan digital ke beberapa lingkungan perawatan.
+    responsibilities:
+      - Merencanakan dan mengelola proyek dari awal hingga penutupan, mengendalikan lingkup, waktu, biaya, mutu, dan risiko.
+      - Merencanakan peluncuran bersama tim klinis dan operasional, termasuk pengalihan, kesinambungan bisnis, dan pengaturan dukungan.
+      - Memastikan penjaminan keselamatan klinis, tata kelola informasi, dan aksesibilitas direncanakan dan diselesaikan sebelum peluncuran.
+      - Mengelola anggaran proyek dan hasil kerja pemasok.
+      - Melapor kepada dewan proyek dan mengeskalasikan risiko dan isu di luar toleransi.
+      - Menetapkan garis dasar manfaat dan menyerahkan pelacakan manfaat kepada layanan.
+    qualifications:
+      - Kualifikasi manajemen proyek yang diakui, seperti sertifikat tingkat praktisi, atau pengalaman yang setara.
+      - Pengalaman mengelola proyek yang mengubah layanan atau sistem.
+  - title: Manajer proyek senior
+    summary: Manajer proyek senior memimpin proyek yang besar, kompleks, atau berisiko tinggi, seperti mengganti sistem klinis di seluruh organisasi, dan dapat mengelola staf proyek lain.
+    responsibilities:
+      - Memimpin proyek besar atau berisiko tinggi, seperti penggantian sistem klinis atau penerapan di banyak lokasi.
+      - Mengelola ketergantungan kompleks dengan pemasok, proyek lain, dan organisasi kesehatan dan perawatan mitra.
+      - Memimpin keputusan peluncuran bersama petugas keselamatan klinis, pimpinan operasional, dan pemilik penanggung jawab senior.
+      - Mengelola anggaran proyek dan pengaturan komersial, termasuk pengendalian perubahan dengan pemasok.
+      - Memastikan manfaat bagi pasien dan staf didefinisikan, dimiliki, dan diukur.
+      - Mengelola dan mengembangkan manajer proyek dan staf dukungan proyek.
+    qualifications:
+      - Kualifikasi manajemen proyek yang diakui, atau pengalaman yang setara.
+      - Pengalaman yang substansial dalam mengelola proyek kompleks di lingkungan yang diatur atau kritis keselamatan.
+  - title: Manajer proyek pimpinan
+    summary: Manajer proyek pimpinan memimpin proyek paling kompleks atau sekelompok proyek terkait, dan menetapkan praktik manajemen proyek untuk bidangnya.
+    responsibilities:
+      - Memimpin proyek paling kompleks, atau sekelompok proyek terkait, di beberapa layanan atau organisasi.
+      - Menetapkan standar, templat, dan penjaminan manajemen proyek untuk bidang tersebut, dan membimbing manajer proyek.
+      - Menasihati pemilik penanggung jawab senior dan dewan tentang opsi penyampaian, risiko, dan pemulihan proyek yang bermasalah.
+      - Mengelola anggaran dan kontrak yang signifikan, dan memastikan proyek memberi nilai uang.
+      - Memastikan persyaratan keselamatan klinis dan tata kelola informasi terpenuhi di seluruh kelompok proyek.
+      - Mengelola secara langsung manajer proyek.
+    qualifications:
+      - Pengalaman luas dalam memimpin proyek kompleks, dengan kualifikasi manajemen proyek yang diakui atau pengalaman yang setara.
+  - title: Kepala manajemen proyek
+    summary: Kepala manajemen proyek memimpin praktik manajemen proyek organisasi dan para manajer proyek yang menyampaikan perubahan digitalnya.
+    responsibilities:
+      - Memimpin praktik manajemen proyek, termasuk metode, standar, perangkat, dan penjaminannya.
+      - Menugaskan manajer proyek pada proyek organisasi dan mengelola kapasitas praktik.
+      - Membangun kapabilitas manajemen proyek, termasuk rekrutmen, pelatihan, dan jalur karier.
+      - Menasihati pimpinan eksekutif tentang kesehatan proyek, risiko penyampaian, dan pelajaran yang diperoleh.
+      - Mengelola anggaran praktik.
+    qualifications:
+      - Pengalaman luas dalam memimpin proyek dan manajer proyek, dengan kualifikasi manajemen proyek yang diakui atau pengalaman yang setara.
