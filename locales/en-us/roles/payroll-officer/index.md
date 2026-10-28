@@ -71,8 +71,8 @@ Payroll officers process pay changes and calculate pay for a group of staff, fol
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 3 | 60 |
-| 3 | Analytical and judgemental skills | 2 | 15 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 2 | 15 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 1 | 5 |
@@ -132,8 +132,8 @@ Senior payroll officers handle complex payroll cases, check the work of payroll 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -193,8 +193,8 @@ Payroll team leaders manage the payroll team day to day, run the full payroll cy
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -230,11 +230,11 @@ Payroll managers are responsible for the organization's payroll service, whether
 | [Payroll](../../skills/#payroll) | This reference | Expert | You can:<br>• manage the organization's payroll service, whether run in house or by a provider<br>• set payroll controls and assure senior leaders that payments are accurate and lawful<br>• plan for changes in pay rules, pay awards, and payroll systems<br>• lead the response to major payroll failures |
 | [Finance systems](../../skills/#finance-systems) | This reference | Practitioner | You can:<br>• administer the finance or payroll system, including access, workflows, and reporting<br>• design reports and dashboards for budget holders<br>• test system changes and upgrades<br>• automate repetitive finance tasks |
 | [Financial controls and audit](../../skills/#financial-controls-and-audit) | This reference | Practitioner | You can:<br>• test and improve the controls for a financial process<br>• manage audit requests for an area and agree actions on findings<br>• write and update financial procedures<br>• work with counter-fraud specialists to reduce fraud risk |
-| [Tax](../../skills/#tax) | This reference | Practitioner | You can:<br>• manage the organization's tax returns and tax reconciliations<br>• advise on the tax treatment of contracts, such as software licences, cloud services, and shared services<br>• maximize tax recovery within the rules |
+| [Tax](../../skills/#tax) | This reference | Practitioner | You can:<br>• manage the organization's tax returns and tax reconciliations<br>• advise on the tax treatment of contracts, such as software licenses, cloud services, and shared services<br>• maximize tax recovery within the rules |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Practitioner | You can:<br>• work with the team to develop and maintain an understanding of stakeholders<br>• work with the team to develop and implement stakeholder communications strategies<br>• identify and resolve issues, influence stakeholders and manage relationships effectively<br>• build long-term strategic relationships and communicate clearly and regularly with stakeholders |
 | [Commercial management](../../skills/#commercial-management) | UK GDaD PCF | Working | You can:<br>• act as the point of contact for contracted suppliers<br>• understand appropriate internal contacts and processes within a government department<br>• understand how and when third parties should be brought into digital, data and technology projects |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
 
 ### Typical qualifications and experience
@@ -256,8 +256,8 @@ Payroll managers are responsible for the organization's payroll service, whether
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -277,5 +277,5 @@ Financial resources is level 4 because the job is responsible for the organizati
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

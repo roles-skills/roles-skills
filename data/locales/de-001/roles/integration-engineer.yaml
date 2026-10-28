@@ -1,0 +1,51 @@
+summary: Integrationsingenieurinnen und -ingenieure verbinden die klinischen und betrieblichen Systeme der Organisation, damit Gesundheits- und Pflegeinformationen sicher dorthin fließen, wo sie gebraucht werden. Sie entwerfen, bauen, testen und unterstützen Schnittstellen, APIs und Nachrichtenflüsse mit Standards wie HL7 FHIR und HL7 Version 2, bilden Daten und klinische Codes zwischen Systemen ab und halten Integrationen im laufenden Betrieb am Laufen.
+health_context:
+- Eine verlorene, verspätete, doppelte oder falsch zugeordnete Nachricht, etwa ein Befund oder eine Überweisung, kann unmittelbar zu Schaden führen; Integrationsarbeit folgt daher dem Prozess des klinischen Risikomanagements.
+- Integrationen transportieren große Mengen vertraulicher Gesundheitsinformationen zwischen Organisationen; jeder Fluss braucht daher eine Rechtsgrundlage, sicheren Transport und Protokollierung.
+- Gesundheitssysteme nutzen viele Standards und Versionen, von HL7-Version-2-Nachrichten bis zu HL7-FHIR-APIs und IHE-Profilen, oft mit lokalen Abweichungen.
+- Die klinische Bedeutung muss die Reise überstehen; Ingenieurinnen und Ingenieure bilden daher klinische Terminologien wie SNOMED CT korrekt ab und ordnen Patientinnen und Patienten zuverlässig zu.
+- Viele Integrationen unterstützen die Versorgung rund um die Uhr; sie brauchen daher Überwachung, Alarmierung und klare Wege zur Behebung fehlgeschlagener Nachrichten.
+levels:
+- title: Junior-Integrationsingenieur/in
+  summary: Eine Junior-Integrationsingenieurin oder ein Junior-Integrationsingenieur baut, testet und unterstützt Integrationen zwischen Gesundheits- und Pflegesystemen, arbeitet nach Spezifikationen und mit Anleitung erfahrener Ingenieurinnen und Ingenieure.
+  responsibilities:
+  - Nachrichtenabbildungen, Transformationen und API-Aufrufe nach vereinbarten Spezifikationen bauen und ändern.
+  - Integrationen gegen Spezifikationen und Beispielnachrichten testen, einschließlich Fehler- und Grenzfällen.
+  - Nachrichtenflüsse überwachen, fehlgeschlagene oder abgelehnte Nachrichten untersuchen und beheben oder eskalieren.
+  - Gesundheitsdaten sicher behandeln und dabei die Regeln der Informationsgovernance für Echt- und Testdaten befolgen.
+  - Änderungen und Testergebnisse aufzeichnen, damit sie als Nachweise zur klinischen Sicherheit genutzt werden können.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder einem verwandten Fach, eine abgeschlossene Ausbildung oder gleichwertige Erfahrung.
+- title: Integrationsingenieur/in
+  summary: Eine Integrationsingenieurin oder ein Integrationsingenieur entwirft, baut und unterstützt Integrationen zwischen Gesundheits- und Pflegesystemen selbstständig und hilft zu definieren, wie Systeme Daten austauschen sollen.
+  responsibilities:
+  - Integrationen, APIs und Nachrichtenflüsse mit HL7 FHIR, HL7 Version 2 und Messaging-Mustern entwerfen und bauen.
+  - Quell- und Zielsysteme analysieren und Schnittstellenspezifikationen und Datenabbildungen schreiben, einschließlich klinischer Codes.
+  - Patientenzuordnung, Validierung und Fehlerbehandlung bauen, damit Informationen in der richtigen Akte ankommen.
+  - An Gefährdungsworkshops teilnehmen und Sicherheitsmaßnahmen in Integrationen einbauen, etwa Warnungen für fehlgeschlagene oder verspätete Nachrichten.
+  - Mit Anbietern und Partnerorganisationen neue Verbindungen testen und in Betrieb nehmen.
+  - Probleme in laufenden Integrationen untersuchen und beheben und Junior-Integrationsingenieurinnen und -ingenieure anleiten.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder einem verwandten Fach oder gleichwertige Erfahrung.
+  - Erfahrung im Bau und Support von Integrationen zwischen Produktivsystemen.
+- title: Senior-Integrationsingenieur/in
+  summary: Eine Senior-Integrationsingenieurin oder ein Senior-Integrationsingenieur leitet Entwurf und Lieferung komplexer Integrationen über viele Systeme und Organisationen hinweg und setzt Integrationsstandards für ihren oder seinen Bereich.
+  responsibilities:
+  - Den technischen Entwurf komplexer Integrationen leiten, etwa gemeinsamer Versorgungsakten, Befunde und Überweisungen über Organisationen hinweg.
+  - FHIR-Profile, Implementierungsleitfäden und Schnittstellenstandards für die Organisation schreiben und pflegen.
+  - Integrationen so entwerfen, dass sie sicher, resilient und beobachtbar sind, mit klaren Wegen zur Behebung von Ausfällen.
+  - Mit Beauftragten für klinische Sicherheit Integrationsgefährdungen erkennen und sicherstellen, dass Maßnahmen eingeplant und getestet sind.
+  - Sicherstellen, dass jeder Datenfluss eine vereinbarte Rechtsgrundlage und Datenaustauschregelungen hat, in Zusammenarbeit mit Kolleginnen und Kollegen aus der Informationsgovernance.
+  - Integrationsingenieurinnen und -ingenieure im Team anleiten und entwickeln.
+  qualifications:
+  - Umfangreiche Erfahrung im Entwurf und Support von Gesundheits- oder anderen komplexen Integrationen, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Leitende/r Integrationsingenieur/in
+  summary: Eine leitende Integrationsingenieurin oder ein leitender Integrationsingenieur leitet das Integrations-Engineering der Organisation, legt seine technische Richtung und Standards fest und sichert kritische Integrationen über viele Systeme ab.
+  responsibilities:
+  - Das Integrations-Engineering in der Organisation leiten und Richtung, Muster und Standards festlegen.
+  - Den Entwurf kritischer Integrationen absichern, etwa derjenigen, die Befunde, Arzneimittel oder Warnungen übertragen.
+  - Die Roadmap der Integrationsplattform mit Architektinnen, Architekten, Produktmanagern und Anbietern mitgestalten.
+  - Die Organisation in organisationsübergreifender Arbeit an Interoperabilität und Standards vertreten.
+  - Integrationsingenieurinnen und -ingenieure in der Linie führen oder anleiten und die Fachcommunity Integration ausbauen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Integrations-Engineering für komplexe Gesundheits- oder Pflegesysteme.

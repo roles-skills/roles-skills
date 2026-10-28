@@ -1,0 +1,52 @@
+summary: Chuyên viên phân tích hiệu quả hoạt động đo lường mức độ các dịch vụ y tế số của tổ chức hoạt động tốt như thế nào đối với bệnh nhân, người dùng dịch vụ, bác sĩ lâm sàng và nhân viên chăm sóc. Họ thiết lập các khung đo lường, thu thập và phân tích dữ liệu sử dụng và kết quả, và giúp các nhóm sản phẩm và lãnh đạo dịch vụ hiểu liệu các thay đổi có cải thiện khả năng tiếp cận, trải nghiệm, an toàn và hiệu quả hay không.
+health_context:
+- Các thước đo thành công vượt ra ngoài mức độ áp dụng số, bao gồm tác động đối với việc chăm sóc, như cuộc hẹn bị bỏ lỡ, thời gian chờ, phân loại an toàn và thời gian của nhân viên được giải phóng.
+- Phân tích và theo dõi trên các dịch vụ y tế có thể làm lộ thông tin nhạy cảm, như một người đã tìm kiếm tình trạng bệnh nào, nên việc đo lường phải tôn trọng sự đồng ý, quy tắc về cookie và tính bảo mật.
+- Các dịch vụ số không được làm gia tăng bất bình đẳng về sức khỏe, nên các chuyên viên phân tích xem xét mức độ áp dụng và kết quả của những nhóm ít có khả năng dùng dịch vụ số.
+- Dữ liệu hiệu quả hoạt động có thể được báo cáo cho hội đồng, cơ quan đặt hàng và cơ quan quản lý, nên các định nghĩa phải nhất quán và được ghi chép đầy đủ.
+levels:
+- title: Chuyên viên phân tích hiệu quả hoạt động trợ lý
+  responsibilities:
+  - Lập các báo cáo định kỳ về cách bệnh nhân và nhân viên sử dụng dịch vụ số, như đăng ký, hoàn thành và các điểm bỏ dở.
+  - Kiểm tra dữ liệu phân tích và theo dõi để tìm khoảng trống và lỗi, và báo cho nhóm.
+  - Tuân theo các quy tắc của tổ chức về sự đồng ý và tính bảo mật khi thu thập và chia sẻ dữ liệu sử dụng.
+  - Giúp các nhóm sản phẩm trả lời các câu hỏi đơn giản về việc sử dụng dịch vụ.
+  qualifications:
+  - Có kỹ năng tính toán tốt và một số kinh nghiệm xử lý hoặc phân tích dữ liệu, hoặc tương đương.
+- title: Chuyên viên phân tích hiệu quả hoạt động
+  responsibilities:
+  - Thống nhất với các nhóm sản phẩm và trưởng nhóm lâm sàng thế nào là thành công đối với một dịch vụ, gồm tác động đối với việc chăm sóc và nhân viên.
+  - Thiết lập và kiểm định phân tích, để việc theo dõi chính xác, tương xứng và tôn trọng sự đồng ý.
+  - Kết hợp phân tích số với dữ liệu vận hành, như cuộc hẹn và giấy giới thiệu, để cho thấy tác động của các thay đổi.
+  - Phân tích mức độ áp dụng và kết quả của các nhóm bệnh nhân khác nhau và nêu bật rủi ro loại trừ về số.
+  - Trình bày các phát hiện cho các nhóm sản phẩm và lãnh đạo dịch vụ và đề xuất cải tiến.
+  qualifications:
+  - Có bằng đại học một ngành thiên về toán, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm đo lường hiệu quả của các dịch vụ số.
+- title: Chuyên viên phân tích hiệu quả hoạt động cao cấp
+  responsibilities:
+  - Dẫn dắt việc đo lường hiệu quả cho một nhóm dịch vụ hoặc một chương trình lớn, như khám ngoại trú số hoặc phân loại trực tuyến.
+  - Thiết kế các thước đo lợi ích cùng các trưởng nhóm lâm sàng, tài chính và vận hành, và theo dõi chúng trong suốt quá trình triển khai.
+  - Chọn và cấu hình các công cụ phân tích đáp ứng yêu cầu về quản trị thông tin và an ninh.
+  - Trình bày bằng chứng về hiệu quả cho các ban chương trình và lãnh đạo cấp cao.
+  - Huấn luyện các chuyên viên phân tích và có thể quản lý trực tiếp một hoặc nhiều chuyên viên phân tích hiệu quả hoạt động.
+  qualifications:
+  - Có kinh nghiệm dày dặn về phân tích hiệu quả hoạt động cho các dịch vụ số, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng nhóm phân tích hiệu quả hoạt động
+  responsibilities:
+  - Dẫn dắt một nhóm chuyên viên phân tích hiệu quả hoạt động trên một danh mục các dịch vụ y tế số.
+  - Thống nhất các định nghĩa nhất quán cho các thước đo hiệu quả chính, để các báo cáo cho hội đồng và đối tác có thể so sánh theo thời gian.
+  - Bảo đảm dữ liệu phân tích chính xác, được dùng phù hợp và được xử lý theo các quy tắc quản trị thông tin.
+  - Dùng bằng chứng về hiệu quả để tác động đến các ưu tiên và đầu tư của danh mục.
+  - Huấn luyện và kèm cặp các chuyên viên phân tích ở mọi cấp.
+  qualifications:
+  - Có kinh nghiệm sâu rộng về phân tích hiệu quả hoạt động và dẫn dắt các chuyên viên phân tích.
+- title: Trưởng bộ phận phân tích hiệu quả hoạt động
+  responsibilities:
+  - Đề ra chiến lược đo lường hiệu quả và lợi ích của các dịch vụ số của tổ chức.
+  - Xác định khung đảm bảo chất lượng cho phân tích hiệu quả hoạt động và báo cáo hiệu quả hoạt động.
+  - Tư vấn cho các lãnh đạo điều hành về những gì bằng chứng hiệu quả cho thấy về các dịch vụ số và kết quả của bệnh nhân.
+  - Làm việc với các ngành phân tích khác, như phân tích dữ liệu và khoa học dữ liệu, để chia sẻ phương pháp và dữ liệu.
+  - Lập kế hoạch năng lực của cộng đồng phân tích hiệu quả hoạt động, kể cả tuyển dụng và phát triển.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt phân tích hiệu quả hoạt động trên toàn tổ chức.

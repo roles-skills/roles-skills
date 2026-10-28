@@ -1,0 +1,64 @@
+summary: Indholdsdesignere gør sundheds- og plejeinformation og -services klare, så patienter, pårørende, klinikere og plejepersonale kan forstå, hvad de har brug for at vide og gøre. De designer indhold ud fra evidens om brugernes behov, skriver på almindeligt sprog, arbejder sammen med kliniske eksperter for at holde det korrekt og passer på indholdet gennem hele dets levetid, fra oprettelse til gennemgang og udfasning.
+health_context:
+- Folk læser ofte sundhedsindhold, når de er bekymrede, syge eller har travlt, så indholdet skal være let at forstå og handle på for mennesker med lav sundhedskompetence.
+- Forkert eller forældet sundhedsinformation kan gøre skade, så indholdsdesignere følger en proces for klinisk kvalitetssikring med gennemgangsdatoer og navngivne kliniske gennemgangspersoner.
+- Nogle emner er følsomme eller har høj risiko, såsom akutte symptomer, mental sundhed, medicin og pleje i livets sidste fase, så indholdsdesignere arbejder tæt sammen med klinikere og brugerforskere om tone og korrekthed.
+- Kliniske systemer har også brug for klart indhold, såsom etiketter, instruktioner og advarsler, så indholdsdesignere hjælper med at mindske fejl i kliniske arbejdsgange.
+- Sundhedsindhold skal være tilgængeligt og inkluderende, også for mennesker, der bruger hjælpeteknologi, læser på et andet sprog eller har brug for letlæste formater.
+levels:
+- title: Associeret indholdsdesigner
+  responsibilities:
+  - Lære metoder til indholdsdesign, stilguiden og den kliniske gennemgangsproces gennem oplæring og superviseret arbejde.
+  - Udføre standardkontroller, tekstkorrektur og opdateringer af eksisterende indhold.
+  - Udgive indhold ved hjælp af indholdsstyringssystemet efter kvalitetssikringstrinnene.
+  - Kontrollere indhold for tilgængelighed, såsom overskrifter, linktekst og alternativ tekst.
+  qualifications:
+  - I gang med en uddannelse eller lærlingeuddannelse inden for et relevant felt, eller tilsvarende erfaring.
+- title: Junior indholdsdesigner
+  responsibilities:
+  - Skrive og opdatere sundhedsindhold og serviceindhold med vejledning fra mere seniore indholdsdesignere.
+  - Bruge forskning og data til at identificere, hvad brugerne har brug for at vide, og de ord, de bruger.
+  - Arbejde sammen med kliniske gennemgangspersoner om at kontrollere korrekthed og forklare medicinske termer på almindeligt sprog.
+  - Støtte udgivelse af indhold, gennemgangsdatoer og administrationen af indholdsteamet.
+  qualifications:
+  - En bacheloruddannelse eller relevant uddannelse eller tilsvarende erfaring med at skrive til nettet.
+- title: Indholdsdesigner
+  responsibilities:
+  - Designe indhold på tværs af hele brugerforløb, såsom at finde en service, forberede sig til en aftale og efterbehandling.
+  - Designe indhold til kliniske systemer, såsom etiketter, instruktioner og advarsler, for at mindske risikoen for fejl.
+  - Aftale korrekthed med kliniske eksperter og samtidig holde indholdet klart og brugbart.
+  - Teste indhold med brugere, herunder mennesker med lav sundhedskompetence og mennesker, der bruger hjælpeteknologi.
+  - Bidrage til stilguiden og indholdsmønstrene.
+  qualifications:
+  - En bacheloruddannelse eller relevant uddannelse eller tilsvarende erfaring.
+  - Erfaring med at designe indhold til digitale services.
+- title: Senior indholdsdesigner
+  responsibilities:
+  - Udvikle indholdsstrategi for store eller synlige områder, såsom et større sygdomsområde eller en folkesundhedskampagne.
+  - Designe indhold til følsomme emner med høj risiko, såsom akutte symptomer, mental sundhed og pleje i livets sidste fase.
+  - Opsætte klinisk kvalitetssikring, evidenskilder og gennemgangscyklusser for en samling sundhedsindhold.
+  - Gennemgå andres arbejde for at sikre kvaliteten og styre eller være mentor for indholdsdesignere.
+  - Skrive og kortlægge brugerhistorier sammen med teamet.
+  qualifications:
+  - Betydelig erfaring med indholdsdesign på et niveau svarende til en kandidatgrad.
+  job_evaluation_notes: Følelsesmæssig belastning er niveau 2, fordi seniorindholdsdesignere regelmæssigt arbejder med belastende emner, såsom alvorlig sygdom, selvskade og sorg.
+- title: Ledende indholdsdesigner
+  responsibilities:
+  - Lede et team af indholdsdesignere og sikre indholdets kvalitet på tværs af flere teams.
+  - Sikre, at sundhedsindhold opfylder standarderne for klinisk kvalitetssikring, tilgængelighed og stil.
+  - Arbejde sammen med seniorledere inden for klinik, kommunikation og produkt om at bemande teams og løse indholdsproblemer.
+  - Lede indholdet af organisationens mest følsomme eller risikable information.
+  - Have personaleansvar for og udvikle indholdsdesignere.
+  qualifications:
+  - Omfattende erfaring med at lede indholdsdesign på tværs af teams.
+  job_evaluation_notes: Der er intet niveau i lønramme 8a, fordi UK GDaD PCF placerer den ledende indholdsdesigner i G7 eller G6, og denne reference følger den foreslåede lønramme 8b. Politik er niveau 5, fordi lederen fastsætter standarder for indhold for en række services; følelsesmæssig belastning er niveau 2 som for seniorindholdsdesignere.
+- title: Chef for indholdsdesign
+  responsibilities:
+  - Udvikle en indholdsstrategi, der opfylder organisationens mål og patienters og medarbejderes behov.
+  - Fastsætte organisationens standarder for sundhedsfagligt indhold og dets kliniske kvalitetssikring.
+  - Lede et indholdsdesignteam, der kan gennemføre strategien, herunder rekruttering og udvikling.
+  - Arbejde sammen med seniorledere inden for klinik og kommunikation om at håndtere risici ved sundhedsinformation.
+  - Prioritere indholdsarbejdet i hele organisationen.
+  qualifications:
+  - Omfattende erfaring med at lede indholdsdesign og en indholdspraksis.
+  job_evaluation_notes: UK GDaD PCF placerer både den ledende indholdsdesigner og chefen for indholdsdesign i G7 eller G6 med en foreslået lønramme 8b. Denne reference placerer chefen i lønramme 8c i overensstemmelse med cheferne for andre brugercentrerede designfag, fordi chefen fastsætter indholdsstrategi og standarder for hele organisationen.

@@ -1,0 +1,62 @@
+summary: Ingeniører i slutbrugerudstyr leverer, supporterer og vedligeholder de enheder og den software, som medarbejdere bruger hver dag, såsom bærbare computere, stationære computere, tablets, mobiltelefoner, printere og de fælles arbejdsstationer på afdelinger og i klinikker. De retter fejl på stedet og via fjernadgang, udruller og opdaterer enheder og holder dem sikre og i overensstemmelse med kravene. Deres arbejde gør det muligt for klinikere og plejepersonale at se og registrere patientoplysninger ved behandlingsstedet.
+health_context:
+- Mange enheder deles af kliniske medarbejdere på afdelinger, i klinikker og på skadestuer, ofte med hurtigt brugerskift og login med smartcard eller tap-in.
+- En ødelagt enhed i et klinisk område kan forsinke plejen, så ingeniørerne prioriterer disse fejl og har reserveenheder klar til udskiftning.
+- Ingeniørerne arbejder i kliniske områder, så de følger reglerne for infektionsforebyggelse og -kontrol, respekterer patienters privatliv og værdighed og tilpasser deres arbejde efter den kliniske aktivitet.
+- Enheder rummer eller viser fortrolige patientoplysninger, så de skal være krypterede, opdaterede og styrede og slettes eller destrueres sikkert ved afslutningen af deres levetid.
+- Nogle ydre enheder understøtter kliniske processer eller er forbundet med klinisk udstyr, såsom printere til armbånd og etiketter, stregkodelæsere og diktafoner, så ændringer af dem kræver omhu og test.
+levels:
+- title: Associeret ingeniør i slutbrugerudstyr
+  responsibilities:
+  - Sætte enheder og ydre enheder op, udskifte og reparere dem under vejledning af erfarne ingeniører.
+  - Rette almindelige fejl i kliniske områder og kontorområder, såsom problemer med printere, scannere og login.
+  - Følge reglerne for infektionsforebyggelse og -kontrol og respektere patienters privatliv, når der arbejdes på afdelinger og i klinikker.
+  - Registrere arbejde, aktiver og dele nøjagtigt i servicestyringsværktøjet.
+  - Arbejde hen imod en lærlingeuddannelse i it-support eller tilsvarende uddannelse.
+  qualifications:
+  - Indskrevet på eller i gang med en lærlingeuddannelse i it-support eller tilsvarende.
+  job_evaluation_notes: Fysisk anstrengelse afspejler hyppig let anstrengelse, såsom at bære enheder og arbejde under borde og på trange steder. Viden scores på det niveau, jobbet kræver, når oplæringen er så vidt fremskreden, at arbejdet kan udføres.
+- title: Ingeniør i slutbrugerudstyr
+  responsibilities:
+  - Diagnosticere og rette fejl i hardware og software på stedet og via fjernadgang med sigte på at løse dem ved første besøg.
+  - Reagere hurtigt på fejl i kliniske områder og stille en erstatningsenhed til rådighed, når en reparation ville forsinke plejen.
+  - Bygge, udrulle og opdatere enheder ved hjælp af organisationens standardaftryk og værktøjer til enhedsstyring.
+  - Holde enheder opdaterede, krypterede og i overensstemmelse med kravene og slette eller bortskaffe dem sikkert ved afslutningen af deres levetid.
+  - Konfigurere og teste kliniske ydre enheder, såsom armbåndsprintere, etiketprintere og stregkodelæsere.
+  - Coache associerede ingeniører og dele rettelser gennem vidensartikler.
+  qualifications:
+  - En uddannelse på niveau 3 eller højere i it, en gennemført lærlingeuddannelse eller tilsvarende erfaring.
+  - Erfaring med at supportere slutbrugerenheder.
+  job_evaluation_notes: Fysisk anstrengelse afspejler hyppig let anstrengelse ved flytning og installation af enheder på tværs af lokaliteter.
+- title: Senior ingeniør i slutbrugerudstyr
+  responsibilities:
+  - Lede et team af ingeniører til daglig og prioritere arbejdet efter dets betydning for patientplejen og medarbejderne.
+  - Planlægge og gennemføre udrulninger og udskiftninger af enheder til afdelinger, klinikker og kommunale teams med færrest mulige forstyrrelser af plejen.
+  - Teste enhedsaftryk og opdateringer med kliniske applikationer og ydre enheder, før de udrulles.
+  - Sikre, at enheder opfylder sikkerhedsstandarder, herunder opdateringsniveauer, kryptering og slutpunktsbeskyttelse.
+  - Støtte idriftsættelser af kliniske systemer med tilstedeværelse på gulvet og hurtige rettelser af enheder.
+  - Samarbejde med infrastruktur-, applikations- og sikkerhedsteams om at rette komplekse og gentagne fejl.
+  qualifications:
+  - Betydelig erfaring med at supportere og styre slutbrugerenheder på et niveau svarende til en bacheloruddannelse.
+  job_evaluation_notes: Personaleansvar afspejler daglig ledelse af et team af ingeniører; fysisk anstrengelse afspejler noget fortsat arbejde på stedet.
+- title: Ledende ingeniør i slutbrugerudstyr
+  responsibilities:
+  - Fastsætte standarderne for organisationens enheder, aftryk og slutbrugersoftware, herunder fælles kliniske arbejdsstationer.
+  - Styre leverandører af enheder, reparationer og slutbrugerservices og holde dem op på aftalte serviceniveauer.
+  - Arbejde sammen med tekniske arkitekter om at vælge og teste nye enhedstyper, såsom mobile enheder til afdelings- og kommunepersonale.
+  - Lede den tekniske indsats ved hændelser med slutbrugerudstyr, såsom en mislykket opdatering, der påvirker kliniske arbejdsstationer.
+  - Planlægge enhedernes livscyklus og kapacitet og rådgive om omkostninger ved udskiftning.
+  - Lede og udvikle seniore ingeniører.
+  qualifications:
+  - Omfattende erfaring med slutbrugerudstyr, herunder styring af leverandører.
+- title: Principal ingeniør i slutbrugerudstyr
+  responsibilities:
+  - Eje strategien og køreplanen for slutbrugerudstyr, herunder hvordan medarbejdere får adgang til kliniske systemer på sygehuse, i klinikker, i patienters hjem og i kommunen.
+  - Sikre, at enhedsparken understøtter sikker, hurtig adgang til patientoplysninger ved behandlingsstedet.
+  - Rådgive den øverste ledelse om investering i enheder, risici og omkostningerne ved udskiftning og nye teknologier.
+  - Lede indsatsen ved risici i hele enhedsparken, såsom operativsystemer, der når slutningen af supporten, og robusthed over for ransomware.
+  - Lede bemanding, læring og udvikling for teams i slutbrugerudstyr.
+  - Samarbejde med partnere i sundhed og pleje om fælles standarder for enheder og adgang.
+  qualifications:
+  - Omfattende erfaring med at lede slutbrugerudstyr i en stor organisation med flere lokaliteter.
+  job_evaluation_notes: UK GDaD PCF foreslår lønramme 8c for dette niveau (G6). Denne reference placerer det i lønramme 8b i overensstemmelse med principal-roller i andre tekniske familier, fordi dets rækkevidde er ét teknisk område og ikke en direktion.

@@ -27,16 +27,16 @@ The chief clinical information officer (CCIO) is the senior clinical leader for 
 
 ## Band 8d: Deputy chief clinical information officer
 
-Leads major parts of the clinical digital agenda on behalf of the CCIO, such as a care setting, a professional group, or a large clinical system programme, and deputizes for the CCIO.
+Leads major parts of the clinical digital agenda on behalf of the CCIO, such as a care setting, a professional group, or a large clinical system program, and deputises for the CCIO.
 
 ### Responsibilities
 
-- Lead the clinical direction for a major programme, care setting, or professional group.
+- Lead the clinical direction for a major program, care setting, or professional group.
 - Lead a team of clinical informaticians and clinical leads, setting priorities and standards.
-- Advise programme boards and executives on the clinical risk and benefit of digital investment.
+- Advise program boards and executives on the clinical risk and benefit of digital investment.
 - Chair clinical design and safety groups and make clinical decisions within delegated authority.
 - Build networks of clinical champions and lead clinical engagement for large-scale change.
-- Deputize for the CCIO at executive meetings and with partner organizations.
+- Deputise for the CCIO at executive meetings and with partner organizations.
 
 ### Skills
 
@@ -47,11 +47,11 @@ Leads major parts of the clinical digital agenda on behalf of the CCIO, such as 
 | [Clinical system design and optimization](../../skills/#clinical-system-design-and-optimization) | This reference | Expert | You can:<br>• set design principles and standards for clinical systems across the organization<br>• lead optimization programs that measurably improve care and staff experience<br>• advise senior leaders on clinical system choices and their effect on care |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Practitioner | You can:<br>• lead hazard identification and risk assessment for a product or change<br>• write and maintain hazard logs and clinical safety case reports<br>• agree risk controls with product teams and check that they work<br>• advise teams on applying clinical risk management standards |
 | [Digital health evaluation and benefits](../../skills/#digital-health-evaluation-and-benefits) | This reference | Practitioner | You can:<br>• design evaluations and benefits plans for digital health products<br>• choose suitable measures for clinical outcomes, safety, and experience<br>• judge the strength of evidence and explain its limits |
-| [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Expert | You can:<br>• shape organisational strategy using a deep understanding of the health and care system<br>• represent the organization with health and care partners and leaders<br>• anticipate how policy and service changes will affect digital services and care |
+| [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Expert | You can:<br>• shape organizational strategy using a deep understanding of the health and care system<br>• represent the organization with health and care partners and leaders<br>• anticipate how policy and service changes will affect digital services and care |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Expert | You can:<br>• direct the stakeholder relationship strategy for your teams<br>• ensure stakeholder's objectives are set and support teams to meet them<br>• influence and negotiate with senior stakeholders to resolve issues and enable progress |
 | [Strategic thinking](../../skills/#strategic-thinking) | UK GDaD PCF | Practitioner | You can:<br>• define strategies and policies, providing guidance to others on working in the strategic context<br>• evaluate current strategies to ensure business requirements are being met and exceeded where possible |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organization, marrying business needs with innovative analysis<br>• make and justify decisions characterized by high levels of risk, impact and complexity<br>• build consensus between organizations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organization on team dynamics and conflict resolution |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organisation, marrying business needs with innovative analysis<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organisation on team dynamics and conflict resolution |
 
 ### Typical qualifications and experience
 
@@ -61,7 +61,7 @@ Leads major parts of the clinical digital agenda on behalf of the CCIO, such as 
 ### Band outline
 
 - **Knowledge:** Strategic knowledge across functions and the wider health and care system.
-- **Autonomy:** Shapes organization-wide strategy; deputizes for a director.
+- **Autonomy:** Shapes organization-wide strategy; deputises for a director.
 - **Scope:** A major function or several functions.
 - **Leadership:** Leads several functions or a large department.
 - **Accountability:** Major functions, large budgets, and organization-wide risks.
@@ -72,8 +72,8 @@ Leads major parts of the clinical digital agenda on behalf of the CCIO, such as 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 6 | 39 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
@@ -111,12 +111,12 @@ The organization's senior clinical leader for digital, accountable for the clini
 | [Clinical leadership in digital](../../skills/#clinical-leadership-in-digital) | This reference | Expert | You can:<br>• set the clinical direction for the organization's digital services<br>• lead clinical leaders across organizations through digital change<br>• advise the board on clinical risk and benefit of digital investment |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Expert | You can:<br>• own the clinical risk management system for the organization<br>• set clinical safety policy and assure safety cases for major systems<br>• lead the response to serious safety incidents involving health IT<br>• build a culture of clinical safety across digital teams |
 | [Digital health evaluation and benefits](../../skills/#digital-health-evaluation-and-benefits) | This reference | Expert | You can:<br>• set the organization's approach to digital health evaluation<br>• lead research and evaluation programs with academic and care partners<br>• use evidence to advise the board on digital investment |
-| [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Expert | You can:<br>• shape organisational strategy using a deep understanding of the health and care system<br>• represent the organization with health and care partners and leaders<br>• anticipate how policy and service changes will affect digital services and care |
+| [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Expert | You can:<br>• shape organizational strategy using a deep understanding of the health and care system<br>• represent the organization with health and care partners and leaders<br>• anticipate how policy and service changes will affect digital services and care |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
-| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organisational change<br>• coach leaders and resolve complex people issues |
+| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organizational change<br>• coach leaders and resolve complex people issues |
 | [Budget management](../../skills/#budget-management) | This reference | Practitioner | You can:<br>• hold and manage a budget, forecasting and explaining variances<br>• build a business case with costs and benefits |
 | [Strategic thinking](../../skills/#strategic-thinking) | UK GDaD PCF | Expert | You can:<br>• lead the design and implementation of strategy, directing the evaluation of strategies and policies to ensure business requirements are being met |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organization, marrying business needs with innovative analysis<br>• make and justify decisions characterized by high levels of risk, impact and complexity<br>• build consensus between organizations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organization on team dynamics and conflict resolution |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organisation, marrying business needs with innovative analysis<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organisation on team dynamics and conflict resolution |
 
 ### Typical qualifications and experience
 
@@ -137,8 +137,8 @@ The organization's senior clinical leader for digital, accountable for the clini
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 6 | 39 |
 | 7 | Responsibility for policy and service development | 6 | 60 |
@@ -158,5 +158,5 @@ Patient care is scored at level 6 rather than 7 because the CCIO advises on, but
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

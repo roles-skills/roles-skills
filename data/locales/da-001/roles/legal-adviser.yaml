@@ -1,0 +1,45 @@
+summary: 'Juridiske rådgivere er uddannede jurister, der giver organisationen praktisk, korrekt juridisk rådgivning og hjælper den med at håndtere juridisk risiko. De udarbejder og forhandler kontrakter, rådgiver om data, udbud, ansættelse og sundheds- og plejeret og styrer tvister og krav. I en digital sundheds- og plejeorganisation handler meget af deres arbejde om teknologi: softwarelicenser, cloud- og databehandleraftaler, datadeling, immaterielle rettigheder i software og data og regulering af digitale sundhedsprodukter.'
+health_context:
+- Teknologikontrakter skal beskytte patientdata, holde kliniske services kørende og sikre, at organisationen sikkert kan forlade en leverandør.
+- Brug af sundhedsdata til direkte pleje, planlægning, forskning og kunstig intelligens rejser spørgsmål efter databeskyttelsesretten og tavshedspligten, som kræver omhyggelig rådgivning.
+- Køb af teknologi for offentlige midler skal følge udbudsreglerne, og leverandører kan anfægte tildelingsbeslutninger.
+- Organisationen kan bygge software eller dataprodukter, hvilket rejser spørgsmål om immaterielle rettigheder, open source og kommerciel brug.
+- Krav kan involvere skade på patienter, herunder hvor digitale services har spillet en rolle, så rådgiverne arbejder sammen med kolleger inden for klinisk sikkerhed, risiko og erstatning.
+levels:
+- title: Juridisk rådgiver
+  summary: Juridiske rådgivere er uddannede jurister, der giver uafhængig rådgivning og håndterer deres egen portefølje inden for et eller flere områder, såsom teknologikontrakter, informationsret, udbud eller ansættelse.
+  responsibilities:
+  - Udarbejde, gennemgå og forhandle aftaler, såsom softwarelicenser, cloudtjenester og databehandleraftaler.
+  - Give klar, praktisk juridisk rådgivning til ledere og teams inden for dine praksisområder.
+  - Rådgive om aftaler om datadeling, konsekvensanalyser vedrørende databeskyttelse og anmodninger om oplysninger.
+  - Rådgive om udbudsprocesser og kontraktændringer for teknologi og services.
+  - Styre en portefølje af tvister eller krav og inddrage eksterne jurister, hvor det er nødvendigt.
+  - Føre tilsyn med og udvikle paralegals og juridiske assistenter.
+  qualifications:
+  - En uddannet jurist med beskikkelse eller tilsvarende uddannelse og erfaring.
+  - Erfaring med kommerciel ret, teknologiret, informationsret eller offentlig ret.
+  job_evaluation_notes: Viden er niveau 7, fordi jobbet kræver en juridisk faglig uddannelse og praksiserfaring. Økonomiske ressourcer er niveau 2, fordi juridiske rådgivere sjældent har budgetter. Følelsesmæssig belastning er niveau 2, fordi krav og ansættelsessager ofte involverer belastende materiale.
+- title: Senior juridisk rådgiver
+  summary: Seniore juridiske rådgivere er erfarne jurister, der leder komplekse sager, sager af høj værdi eller sager med høj risiko inden for et specialeområde, såsom teknologi og data, informationsret, udbud, ansættelse eller krav.
+  responsibilities:
+  - Lede arbejdet med komplekse aftaler, såsom større systemimplementeringer, dataplatforme og partnerskaber.
+  - Rådgive seniorledere om nye spørgsmål, såsom kunstig intelligens, brug af data til forskning og software som medicinsk udstyr.
+  - Rådgive om ansættelsesret ved ændringer af arbejdsstyrken, eksterne konsulenter og ansættelsesretlige tvister.
+  - Lede væsentlige tvister, udbudsklager og kontakt med erstatningsordninger for klinisk uagtsomhed.
+  - Skrive skabeloner, playbooks og vejledning til organisationen.
+  - Styre og udvikle juridiske rådgivere og paralegals.
+  qualifications:
+  - En uddannet jurist med beskikkelse og betydelig erfaring efter uddannelsen inden for et relevant speciale.
+  job_evaluation_notes: Økonomiske ressourcer er niveau 2, fordi jobbet ikke har et budget, selv om det kontrollerer udgifter til eksterne jurister i sine sager.
+- title: Principal juridisk rådgiver
+  summary: Principal juridiske rådgivere er organisationens ledende eksperter inden for et eller flere retsområder, såsom teknologi og data eller informationsret, og leder dens juridiske arbejde i de mest betydelige sager.
+  responsibilities:
+  - Lede det juridiske arbejde i organisationens mest betydelige programmer, kontrakter og tvister.
+  - Give endelig rådgivning i nye sager og sager med høj risiko, såsom datadeling i stor skala, kunstig intelligens og kommerciel brug af organisationens software og data.
+  - Fastlægge organisationens juridiske holdninger og standarder inden for dine specialeområder.
+  - Rådgive direktører og bestyrelsens udvalg om juridisk risiko.
+  - Repræsentere organisationen over for tilsynsmyndigheder, partnere og leverandører i juridiske spørgsmål.
+  - Lede et juridisk specialistteam og udvikle dets kompetencer.
+  qualifications:
+  - En uddannet jurist med beskikkelse og omfattende erfaring efter uddannelsen og anerkendt ekspertise inden for et speciale.
+  job_evaluation_notes: Viden er niveau 8, fordi jobbet kræver juridisk ekspertviden på tværs af ret og teknologi, opbygget over lang tid.

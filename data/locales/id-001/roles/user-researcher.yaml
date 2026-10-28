@@ -1,0 +1,66 @@
+summary: >
+  Peneliti pengguna membantu tim memahami orang yang memakai dan menyampaikan layanan kesehatan dan perawatan, termasuk pasien, pendamping, tenaga klinis, dan tenaga perawatan. Mereka merencanakan dan melakukan riset dengan aman dan etis, mengubah apa yang dipelajari menjadi wawasan yang jelas, dan memastikan keputusan tentang layanan kesehatan digital didasarkan pada bukti kebutuhan nyata, termasuk kebutuhan orang yang paling sulit memakai layanan.
+health_context:
+  - Peserta riset sering sedang sakit, cemas, atau dalam keadaan rentan, sehingga peneliti merencanakan dengan cermat persetujuan berdasarkan informasi, perlindungan, dan kesejahteraan peserta.
+  - Riset dapat mendengar pengalaman menyedihkan tentang penyakit, kehilangan, atau perawatan yang buruk, sehingga peneliti memerlukan dukungan untuk mengelola dampak emosional pada diri mereka dan tim.
+  - Tenaga klinis dan tenaga perawatan memiliki sedikit waktu di luar pasien, sehingga peneliti merencanakan riset di lingkungan klinis tanpa mengganggu perawatan, sering melalui pengamatan dan sesi singkat.
+  - Sebagian riset termasuk riset kesehatan formal atau memakai data pasien, sehingga peneliti perlu tahu kapan persetujuan etik atau tata kelola riset dan pemeriksaan pelindungan data berlaku.
+  - Ketimpangan kesehatan itu nyata, sehingga peneliti dengan sengaja berupaya menyertakan orang dengan keterampilan digital rendah, disabilitas, atau bahasa Inggris terbatas, dan orang yang paling jarang memakai layanan.
+levels:
+  - title: Peneliti pengguna asosiat
+    responsibilities:
+      - Mempelajari metode riset pengguna melalui pelatihan dan bekerja bersama peneliti yang berpengalaman.
+      - Membuat catatan, membantu menjalankan sesi, dan membantu merekrut peserta, mengikuti prosedur persetujuan dan perlindungan.
+      - Menyimpan data riset dengan aman dan sesuai aturan tata kelola informasi.
+      - Membantu menganalisis data riset dan membagikan temuan kepada tim.
+    qualifications:
+      - Sedang menempuh kualifikasi atau magang di bidang yang relevan, atau pengalaman yang setara.
+    job_evaluation_notes: Upaya emosional berada di tingkat 2 pada setiap tingkat peneliti pengguna, karena riset dengan pasien dan pendamping sering melibatkan mendengar tentang penyakit, kehilangan, atau perawatan yang buruk. Penelitian dinilai mulai tingkat 2 di sini, naik ke tingkat 3 setelah riset menjadi tugas utama.
+  - title: Peneliti pengguna junior
+    responsibilities:
+      - Merencanakan dan menjalankan sesi riset dengan pasien, pendamping, dan staf, dengan bimbingan peneliti yang lebih senior.
+      - Memakai metode seperti wawancara, uji kegunaan, dan pengamatan kontekstual di lingkungan perawatan.
+      - Memperoleh persetujuan berdasarkan informasi, menyesuaikan sesi dengan kebutuhan peserta, dan menyampaikan kekhawatiran perlindungan apa pun.
+      - Menganalisis temuan dan menyajikannya kepada tim sebagai wawasan yang jelas dan dapat ditindaklanjuti.
+      - Merekrut peserta yang beragam, termasuk orang yang sulit memakai layanan.
+    qualifications:
+      - Gelar di bidang yang relevan, seperti ilmu sosial atau psikologi, atau pengalaman yang setara.
+  - title: Peneliti pengguna
+    responsibilities:
+      - Merencanakan dan melakukan riset pengguna untuk tim multidisiplin, memilih metode yang cocok dengan pertanyaan dan pesertanya.
+      - Melakukan riset dengan tenaga klinis dan tenaga perawatan di lingkungan kerja mereka untuk memahami alur kerja klinis dan tugas kritis keselamatan.
+      - Merencanakan riset dengan orang dalam keadaan rentan secara aman, dan menilai kapan persetujuan etik atau tata kelola riset diperlukan.
+      - Membagikan wawasan yang membantu tim memprioritaskan, termasuk bukti tentang keselamatan dan aksesibilitas.
+      - Melibatkan tim dalam riset agar mereka memahami pengguna secara langsung.
+    qualifications:
+      - Gelar di bidang yang relevan, atau pengalaman yang setara.
+      - Pengalaman merencanakan dan melakukan riset pengguna.
+  - title: Peneliti pengguna senior
+    responsibilities:
+      - Merencanakan dan memimpin riset untuk layanan yang kompleks, seperti yang mencakup beberapa lingkungan perawatan atau melayani orang dalam krisis.
+      - Menyelaraskan riset dengan rencana layanan yang lebih luas dan dengan riset tim lain.
+      - Merencanakan riset yang aman dengan orang dalam keadaan rentan, dan menyiapkan pengajuan etik dan tata kelola riset.
+      - Menyelia dan mengembangkan peneliti pengguna, dan menjamin mutu dan etika pekerjaan mereka.
+      - Membangun praktik berpusat pada pengguna di tim baru dan dengan pemangku kepentingan klinis.
+    qualifications:
+      - Pengalaman yang substansial dalam riset pengguna, pada tingkat yang setara dengan gelar magister.
+  - title: Peneliti pengguna pimpinan
+    responsibilities:
+      - Memimpin dan menyelaraskan riset pengguna di beberapa tim atau seluruh program.
+      - Memastikan tim mengambil pendekatan berpusat pada pengguna dan berbasis bukti, dan bahwa riset menjangkau orang yang paling terdampak ketimpangan kesehatan.
+      - Menetapkan dan menjamin praktik riset, termasuk persetujuan, perlindungan, penanganan data, dan kesejahteraan peserta.
+      - Membangun aset riset bersama, seperti repositori riset dan panel peserta, yang dapat dipakai ulang tim dengan aman.
+      - Mengelola secara langsung dan mengembangkan peneliti pengguna.
+    qualifications:
+      - Pengalaman luas dalam memimpin riset pengguna lintas tim.
+    job_evaluation_notes: Tidak ada tingkat Pita 8a, karena UK GDaD PCF menempatkan peneliti pengguna pimpinan di G7 atau G6 dan acuan ini mengikuti Pita 8b yang disarankan. Sumber daya keuangan berada di tingkat 3 untuk anggaran riset, seperti perekrutan peserta dan insentif.
+  - title: Kepala riset pengguna
+    responsibilities:
+      - Memimpin profesi riset pengguna dan menetapkan strategi, standar, dan etikanya.
+      - Memengaruhi strategi dan prioritas organisasi dengan bukti tentang pasien, pendamping, dan tenaga perawatan.
+      - Menarik, membangun, dan mengembangkan talenta riset, termasuk jalur karier dan rekrutmen.
+      - Menjamin praktik riset di seluruh organisasi dan menjadi titik eskalasi untuk riset berisiko tinggi.
+      - Mewakili praktik riset di hadapan badan etik, perlindungan, dan tata kelola riset.
+    qualifications:
+      - Pengalaman luas dalam memimpin riset pengguna dan praktik riset.
+    job_evaluation_notes: UK GDaD PCF menempatkan peneliti pengguna pimpinan dan kepala riset pengguna sama-sama di G7 atau G6, dengan Pita 8b yang disarankan. Acuan ini menempatkan kepala di Pita 8c, sejalan dengan kepala profesi desain berpusat pada pengguna lainnya, karena kepala memimpin profesi di seluruh organisasi dan memprakarsai program risetnya.

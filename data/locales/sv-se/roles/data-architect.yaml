@@ -1,0 +1,38 @@
+summary: >
+  Dataarkitekter utformar hur organisationen strukturerar, lagrar, flyttar och styr sina hälso- och vårddata, så att de kan användas tryggt för direkt vård, tjänsteplanering och forskning. De utformar datamodeller, dataplattformar och dataflöden, fastställer datastandarder och ser till att klinisk betydelse, kvalitet och sekretess bevaras från början till slut.
+health_context:
+  - Hälsodata måste behålla sin kliniska betydelse, så datamodeller använder kliniska terminologier såsom SNOMED CT och klassifikationer såsom ICD.
+  - Data som används för direkt vård och data som används för planering eller forskning har olika rättsliga grunder, så arkitekter utformar för separation, avidentifiering och kontrollerad åtkomst.
+  - Data kommer från många kliniska system och vårdsystem av varierande kvalitet, så arkitekter utformar för kontroller av datakvalitet, patientmatchning och härkomst.
+  - Delade vårdjournaler och datautbyte bygger på gemensamma modeller såsom HL7 FHIR-resurser och överenskomna nationella eller internationella datamängder.
+  - Journaler måste bevaras under långa tider, så designer måste planera för arkivering och åtkomst till historiska data.
+levels:
+  - title: Dataarkitekt
+    responsibilities:
+      - Utforma logiska och fysiska datamodeller för kliniska och operativa data, med kliniska terminologier där det behövs.
+      - Utforma dataflöden och komponenter i dataplattformen, såsom datalager, lakehouse och integrationsskikt.
+      - Definiera metadata, poster i dataordlistan och härkomst för datamängderna inom ditt område.
+      - Utforma avidentifiering och åtkomstkontroller så att data endast används för sitt lagliga ändamål.
+      - Arbeta med kollegor inom datakvalitet och klinisk kodning för att åtgärda strukturella orsaker till dåliga data.
+      - Vägleda datautvecklare och analytiker i datamodeller och standarder.
+    qualifications:
+      - Betydande erfarenhet av datamodellering och utformning av dataplattformar, på en nivå motsvarande en masterexamen.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 7) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8a. Planering, policy och handlingsfrihet poängsätts över profilen för band 7 eftersom arbetet utformar dataplattformar och kontroller som används över många tjänster.
+  - title: Senior dataarkitekt
+    responsibilities:
+      - Utforma dataarkitekturen för en större domän, såsom den delade vårdjournalen eller analysplattformen.
+      - Se till att datadesigner i olika team följer organisationens datastandarder och modeller.
+      - Utforma hur data delas med partnerorganisationer, inklusive standarder, kontroller och avtal om datadelning.
+      - Ge kollegor inom informationsstyrning och klinisk säkerhet råd om datariskerna i nya designer.
+      - Granska och vägleda dataarkitekters arbete.
+    qualifications:
+      - Omfattande erfarenhet av dataarkitektur för komplexa organisationer.
+  - title: Chefsdataarkitekt
+    responsibilities:
+      - Fastställa organisationens vision och färdplan för dataarkitektur, i linje med dess datastrategi.
+      - Äga organisationens övergripande datamodell, datastandarder och dataordlista.
+      - Ge ledningsgruppen och organen för datastyrning råd om dataarkitektur, risker och investeringar.
+      - Företräda organisationen i arbete med datastandarder och interoperabilitet över organisationer.
+      - Leda praktiken för dataarkitektur och utveckla dess medarbetare.
+    qualifications:
+      - Omfattande erfarenhet av att leda dataarkitektur över organisationer.

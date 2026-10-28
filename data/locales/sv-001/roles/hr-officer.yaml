@@ -1,0 +1,60 @@
+summary: >
+  HR-handläggare och HR-rådgivare driver organisationens grundläggande personaltjänster, från avtal, nyanställningar och ändringar till rådgivning om personalpolicyer och stöd till chefer i ärenden om arbetsgivar- och arbetstagarrelationer. De håller anställningsregister korrekta och konfidentiella, hjälper chefer att behandla personal rättvist och lagligt och stödjer de människor som driver digitala och kliniska tjänster som aldrig stänger.
+health_context:
+  - Många medarbetare arbetar i tjänster som går dygnet runt, så HR-team ger råd om skiftmönster, jour och beredskap, raster och arbetstid.
+  - Vissa ärenden är kopplade till patientsäkerhetsincidenter, farhågor om skydd av utsatta eller yrkesregistrering, så HR-personal arbetar nära kliniska ledare och följer rätt processer för varje.
+  - Digitala specialister, dataspecialister och teknikspecialister är en bristvara, så rättvisa och snabba HR-processer, från avtal till begäranden om flexibelt arbete, hjälper organisationen att behålla de människor den har.
+  - HR-register är mycket konfidentiella personuppgifter, och en del innehåller hälsoinformation, så HR-personal tillämpar reglerna för informationsstyrning varje dag.
+  - Personal i den här referensen avlönas enligt en bandad lönestruktur med arbetsvärdering, så HR-personal förklarar hur band, löneökningar och tillägg fungerar.
+levels:
+  - title: HR-assistent
+    summary: Ger korrekt administrativt stöd genom hela anställningens livscykel och arbetar enligt fastställda rutiner och servicestandarder med en HR-handläggare eller rådgivare i närheten.
+    responsibilities:
+      - Förbereda avtal, erbjudandebrev och ändringsbrev utifrån standardmallar.
+      - Registrera nyanställda, ändringar och avslutade anställningar i HR- och lönesystemet före tidsfrister för lönekörning.
+      - Besvara rutinfrågor från personal och chefer per telefon, mejl och HR-helpdesken.
+      - Föra anteckningar vid formella möten, såsom möten om frånvaro och klagomål, och hålla ärendeakter i ordning.
+      - Hålla personalakter och register konfidentiella, korrekta och i linje med gallringsregler.
+    qualifications:
+      - En kvalifikation på nivå 2 eller 3, en lärlingsutbildning inom administration eller motsvarande erfarenhet.
+      - Erfarenhet av noggrant administrativt arbete med konfidentiell information.
+    job_evaluation_notes: Människor är nivå 2 eftersom arbetet ger grundläggande HR-information och råd till personal och chefer; känslomässig ansträngning är nivå 2 för indirekt exponering för plågsamt ärendematerial vid anteckningar och arkivering av ärenden.
+  - title: HR-handläggare
+    summary: Driver HR-administration för en grupp tjänster och ger chefer första linjens råd om personalpolicyer och kontrollerar HR-assistenters arbete.
+    responsibilities:
+      - Hantera nyanställningar, ändringar och avslutade anställningar för en grupp tjänster och lösa ovanliga eller komplexa fall.
+      - Ge chefer råd i rutinmässiga policyfrågor, såsom semester, flexibelt arbete och utlösare för frånvaro.
+      - Kontrollera HR-assistenters arbete och utbilda dem i processer och HR-systemet.
+      - Ta fram standardrapporter om arbetsstyrkan, såsom frånvaro och personalomsättning, åt chefer.
+      - Stödja HR-rådgivare i ärenden om arbetsgivar- och arbetstagarrelationer genom att förbereda underlag och ordna förhandlingar.
+      - Föreslå förbättringar av HR-processer, mallar och vägledning för självbetjäning.
+    qualifications:
+      - En kvalifikation på nivå 3 inom HR eller verksamhet, eller motsvarande erfarenhet.
+      - Erfarenhet av HR-administration, inklusive HR- och lönesystem.
+  - title: HR-rådgivare
+    summary: Ger chefer i en grupp tjänster professionella HR-råd och förvaltar en portfölj av ärenden om arbetsgivar- och arbetstagarrelationer, enligt definierade policyer med en senior HR-rådgivare tillgänglig för komplexa ärenden.
+    responsibilities:
+      - Ge chefer råd i ärenden om uppförande, förmåga, frånvaro, klagomål och värdighet på arbetsplatsen, från första oro till utfall.
+      - Stödja formella förhandlingar och ge panelen råd om policy, process och rättvisa utfall.
+      - Ge råd om skäliga anpassningar, flexibelt arbete och remisser till företagshälsovård.
+      - Ge chefer råd om arbetstid, jour och schemaregler för tjänster som går dygnet runt.
+      - Stödja små organisationsförändringar, såsom ändringar i arbetsmönster, inklusive samråd med personalen.
+      - Utbilda chefer i personalpolicyer och hur de tillämpas.
+    qualifications:
+      - En erkänd HR-kvalifikation på mellannivå, eller motsvarande erfarenhet.
+      - Erfarenhet av att ge chefer råd i ärenden om arbetsgivar- och arbetstagarrelationer.
+    job_evaluation_notes: Människor är nivå 3 eftersom arbetet ger grundläggande HR-råd som huvuduppgift; känslomässig ansträngning är nivå 3 eftersom arbetet ofta hanterar plågsamma ärenden om arbetsgivar- och arbetstagarrelationer, såsom anklagelser, ohälsa och personal i kris.
+  - title: Senior HR-rådgivare
+    summary: Leder HR-rådgivningen för en direktörsenhet, hanterar de mest komplexa och känsliga ärendena och stödjer HR-rådgivare, med stor handlingsfrihet inom organisationens personalpolicyer.
+    responsibilities:
+      - Hantera komplexa och högriskfyllda ärenden om arbetsgivar- och arbetstagarrelationer, inklusive sådana som är kopplade till patientsäkerhetsincidenter eller skydd av utsatta.
+      - Leda eller beställa utredningar och coacha chefer som utreder.
+      - Leda organisationsförändring för en tjänst, såsom en omorganisation eller en ny jourrota, inklusive formellt samråd.
+      - Ge råd om bandplacering för nya och ändrade roller och delta i paneler för arbetsvärdering.
+      - Analysera ärende- och arbetsstyrkedata för direktörsenheten och rekommendera åtgärder utifrån trender.
+      - Utkasta och granska personalpolicyer tillsammans med personalföreträdare.
+      - Leda och utveckla HR-rådgivare.
+    qualifications:
+      - En erkänd HR-kvalifikation på mellannivå eller avancerad nivå, eller motsvarande erfarenhet.
+      - Betydande erfarenhet av att hantera komplexa ärenden om arbetsgivar- och arbetstagarrelationer och organisationsförändring.
+    job_evaluation_notes: Känslomässig ansträngning är nivå 3 för tät exponering för plågsamt ärendearbete; människor är nivå 3 för grundläggande HR-råd och ledning av HR-rådgivare.

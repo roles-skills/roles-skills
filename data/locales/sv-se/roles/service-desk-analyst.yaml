@@ -1,0 +1,71 @@
+summary: >
+  Servicedeskanalytiker är första kontaktpunkten för personal som behöver hjälp med organisationens digitala tjänster, från problem med inloggning och smartkort till fel i kliniska system och enheter. De loggar, prioriterar, löser eller eskalerar incidenter och förfrågningar, håller användare informerade och upptäcker mönster som pekar på bredare problem. I många hälso- och sjukvårdsorganisationer är servicedesken bemannad dygnet runt, eftersom kliniska tjänster är det.
+health_context:
+  - De som ringer är ofta kliniker och vårdpersonal mitt i patientvården, så servicedesken prioriterar efter effekten på patienter och inte bara efter ankomstordning.
+  - Många kliniska tjänster går dygnet runt, alla dagar, så servicedesken arbetar ofta i skift och jourscheman utanför kontorstid.
+  - Åtkomst till kliniska system använder rollbaserad åtkomst och stark autentisering, så servicedesken hanterar problem med konton, smartkort och flerfaktorsautentisering samtidigt som den kontrollerar identitet noga.
+  - Den som ringer kan dela konfidentiell patientinformation när ett fel beskrivs, så analytiker följer reglerna för informationsstyrning för vad som registreras i ärenden.
+  - Servicedesken är ofta först med att se tecken på en större incident eller en cyberattack, såsom många samtal om samma system eller en våg av misstänkta e-postmeddelanden, och måste eskalera dem snabbt.
+levels:
+  - title: Servicedeskanalytiker
+    summary: En servicedeskanalytiker besvarar samtal och ärenden från personal, löser vanliga problem vid första kontakten med manus och kunskapsartiklar och för övriga frågor vidare till rätt team.
+    responsibilities:
+      - Besvara samtal, chattar och självbetjäningsärenden från personal och logga varje ärende korrekt i verktyget för tjänstehantering.
+      - Lösa vanliga problem vid första kontakten med manus och kunskapsartiklar, såsom lösenordsåterställningar, upplåsning av konton och skrivarfel.
+      - Kontrollera den som ringer identitet innan konton eller åtkomst ändras, enligt organisationens rutiner.
+      - Fråga hur problemet påverkar patientvården, sätta prioritet och föra incidenten vidare till rätt lösningsteam.
+      - Hålla användare uppdaterade om sina ärenden och bekräfta att åtgärden fungerar innan ärendena stängs.
+      - Registrera bara den information som behövs i ärenden, utan onödiga patientuppgifter.
+    qualifications:
+      - En kvalifikation på nivå 3 inom IT, en lärlingsutbildning inom IT-support eller motsvarande erfarenhet.
+      - God kundservice och goda tangentbordskunskaper, förvärvade genom arbete eller studier.
+    job_evaluation_notes: UK GDaD PCF föreslår band 4 för den här nivån. Den här referensen låter manusstyrt förstalinjearbete på servicedesk börja i band 3 och placerar analytiker som löser mer komplexa fel i band 4. Mental ansträngning speglar täta perioder av koncentration på oförutsägbara samtal; känslomässig ansträngning speglar täta samtal från personal under press i kliniska miljöer.
+  - title: Teknisk servicedeskanalytiker
+    summary: En teknisk servicedeskanalytiker löser mer komplexa fel vid första kontakten, inklusive åtgärder på distans för enheter och åtkomst till kliniska system, och hanterar brådskande samtal från kliniska miljöer.
+    responsibilities:
+      - Lösa mer komplexa incidenter och förfrågningar på distans, inklusive fel på enheter, programvara och åtkomst till kliniska system.
+      - Hantera brådskande samtal från kliniska miljöer, såsom akutmottagningar, vårdavdelningar och operationssalar, och starta processen för större incidenter vid behov.
+      - Hantera åtkomstförfrågningar till kliniska system och kontrollera dem mot reglerna för rollbaserad åtkomst.
+      - Skriva och förbättra kunskapsartiklar så att fler problem kan lösas vid första kontakten.
+      - Upptäcka upprepade samtal om samma fel och lyfta dem till incident- och problemhantering.
+      - Rapportera misstänkta nätfiskemejl och andra säkerhetshändelser till säkerhetsteamet.
+      - Visa nya analytiker hur servicedeskens verktyg och rutiner används.
+    qualifications:
+      - Erfarenhet av IT-support på en servicedesk eller i en liknande miljö.
+      - En grundkvalifikation i IT-tjänstehantering, eller motsvarande erfarenhet.
+    job_evaluation_notes: Använder samma nivå i UK GDaD PCF som analytikern i band 3, för analytiker som löser mer komplexa problem och hanterar brådskande kliniska samtal. Kommunikation ligger över bandets profil eftersom analytiker ofta måste förklara tekniska problem för upptagen klinisk personal.
+  - title: Senior servicedeskanalytiker
+    responsibilities:
+      - Leda ett skift på servicedesken och balansera samtalsköer mot den kliniska brådskan i öppna incidenter.
+      - Ta över svåra eller eskalerade samtal, inklusive samtal från seniora kliniker under akut vård.
+      - Hålla manus och kunskapsartiklar korrekta när kliniska system och enheter förändras.
+      - Vara servicedeskens eskaleringspunkt utanför kontorstid och starta processen för större incidenter när många användare påverkas.
+      - Kontrollera ärendenas kvalitet, inklusive identitetskontroller och vad som registreras om patienter.
+      - Planera bemanningen i schemat så att servicedesken är bemannad hela tiden.
+    qualifications:
+      - Betydande erfarenhet av servicedesk, inklusive hantering av eskaleringar.
+      - En kvalifikation inom IT-tjänstehantering, eller motsvarande erfarenhet.
+    job_evaluation_notes: Planering speglar skift- och schemaplanering för en servicedesk som är bemannad dygnet runt. Känslomässig ansträngning speglar täta svåra samtal från personal som hanterar akut patientvård.
+  - title: Servicedeskchef
+    responsibilities:
+      - Driva servicedesken i det dagliga arbetet och se till att den är bemannad och lyhörd dygnet runt, alla dagar.
+      - Fastställa prioriteringar och svarsmål som speglar klinisk risk, överenskomna med kliniska och operativa ledare.
+      - Förbereda servicedesken för nya och ändrade kliniska system, inklusive utbildning, manus och extra bemanning vid driftsättning.
+      - Analysera trender i ärenden för att hitta nya problem och arbeta med problemhantering för att undanröja deras orsaker.
+      - Se till att servicedesken följer rutiner för identitetskontroll, informationsstyrning och säkerhet, och agerar på revisionsiakttagelser.
+      - Ha linjeansvar för seniora analytiker och analytiker, inklusive rekrytering, prestation och välmående för personal som arbetar i skift.
+    qualifications:
+      - Erfarenhet av att leda ett servicedeskteam, inklusive skift eller bemanning utanför kontorstid.
+      - En mellannivåkvalifikation inom IT-tjänstehantering, eller motsvarande erfarenhet.
+    job_evaluation_notes: Kunskap ligger en nivå under bandets profil, vilket är vanligt för roller på servicedesk; ansvar för människor är högre eftersom chefen driver ett skiftbaserat team.
+  - title: Chef för servicedesk
+    responsibilities:
+      - Fastställa servicedeskens riktning, inklusive kontaktkanaler, självbetjäning och stöd till personal som arbetar över platser och i närsjukvården.
+      - Komma överens om servicenivåer med kliniska tjänster och verksamhetstjänster och rapportera prestation till seniora ledare.
+      - Se till att servicedesken kan fortsätta arbeta under större incidenter, cyberattacker och systemavbrott, med tydliga rutiner för verksamhetskontinuitet.
+      - Ge projektteam råd om hur nya kliniska system och verksamhetssystem kommer att stödjas innan de tas i drift.
+      - Förvalta servicedeskens budget, verktyg och eventuella uthyrda avtal eller avtal om support utanför kontorstid.
+      - Leda och utveckla servicedeskchefer och bygga en stödjande kultur för personal som arbetar i skift.
+    qualifications:
+      - Omfattande erfarenhet av att leda IT-supporttjänster, inklusive tjänster som går dygnet runt.
+      - En avancerad kvalifikation inom IT-tjänstehantering, eller motsvarande erfarenhet.

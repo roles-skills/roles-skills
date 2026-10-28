@@ -1,0 +1,67 @@
+summary: Medarbejdere i informationsstyring hjælper organisationen med at håndtere person- og sundhedsoplysninger lovligt, sikkert og etisk. De rådgiver teams om databeskyttelse og fortrolighed, håndterer anmodninger om rettigheder til information, understøtter konsekvensanalyser vedrørende databeskyttelse, styrer brud på datasikkerheden og indsamler den dokumentation, der viser, at organisationen opfylder standarderne for informationsstyring.
+health_context:
+- Databeskyttelsesretten giver sundhedsoplysninger ekstra beskyttelse, så kravene til lovlig brug, sikkerhed og gennemsigtighed er høje.
+- Digitale sundhedsservices deler ofte data på tværs af mange plejeorganisationer, så aftaler om deling af oplysninger og datastrømme kræver omhyggelig gennemgang.
+- Patienter og offentligheden har lovmæssig ret til indsigt i deres journaler og organisationens oplysninger med strenge frister.
+- Brud på datasikkerheden, der involverer sundhedsoplysninger, kan forårsage reel skade og lidelse, så hændelser kræver hurtig og omhyggelig håndtering.
+- Nye anvendelser af data, såsom analyse, forskning og kunstig intelligens, rejser spørgsmål om samtykke, fortrolighed og offentlighedens tillid.
+levels:
+- title: Medarbejder i informationsstyring
+  summary: Støtter teamet for informationsstyring med anmodninger om rettigheder til information, registrering af hændelser, uddannelsesregistre og indsamling af dokumentation efter fastlagte procedurer.
+  responsibilities:
+  - Registrere, kvittere for og følge anmodninger om rettigheder til information og indsamle oplysninger til svar.
+  - Registrere brud på datasikkerheden og tæt-på-hændelser og indsamle fakta til gennemgang.
+  - Holde registre for informationsstyring ajour, såsom informationsaktivregistret og datastrømskortet.
+  - Indsamle dokumentation til den årlige selvevaluering inden for informationsstyring.
+  - Følge medarbejdernes gennemførelse af oplæring i informationsstyring.
+  - Besvare rutinemæssige spørgsmål om informationsstyring fra medarbejdere.
+  qualifications:
+  - Erfaring med administrativt arbejde eller journalarbejde eller en grunduddannelse i databeskyttelse eller tilsvarende erfaring.
+  job_evaluation_notes: Følelsesmæssig belastning afspejler hyppig indirekte udsættelse for belastende indhold i anmodninger, journaler og rapporter om brud.
+- title: Senior medarbejder i informationsstyring
+  summary: Håndterer en portefølje af anmodninger om rettigheder til information og hændelser og støtter teams med konsekvensanalyser vedrørende databeskyttelse og deling af oplysninger.
+  responsibilities:
+  - Håndtere anmodninger om rettigheder til information, herunder udeladelse og anvendelse af undtagelser, inden for de lovbestemte frister.
+  - Vurdere og undersøge brud på datasikkerheden og tæt-på-hændelser og følge handlinger, til de er afsluttet.
+  - Hjælpe projektteams med at gennemføre konsekvensanalyser vedrørende databeskyttelse og beskrive datastrømme.
+  - Udarbejde udkast til aftaler om deling af oplysninger og privatlivsmeddelelser til gennemgang.
+  - Gennemføre oplæring og orienteringer i informationsstyring for medarbejdere.
+  - Udføre audits af adgang og journalføring.
+  qualifications:
+  - En anerkendt uddannelse i databeskyttelse eller informationsstyring eller tilsvarende erfaring.
+- title: Ledende medarbejder i informationsstyring
+  summary: Giver ekspertrådgivning i informationsstyring til en direktion eller et program og leder konsekvensanalyser vedrørende databeskyttelse og komplekse sager.
+  responsibilities:
+  - Rådgive produktteams og services om retligt grundlag, samtykke, fortrolighed og opbevaring.
+  - Gennemgå konsekvensanalyser vedrørende databeskyttelse for komplekse systemer og anbefale kontroller.
+  - Håndtere komplekse eller omstridte anmodninger om rettigheder til information og interne gennemgange.
+  - Undersøge alvorlige brud på datasikkerheden og anbefale, om tilsynsmyndigheder skal underrettes.
+  - Gennemgå aftaler om deling af oplysninger med partnerorganisationer.
+  - Føre tilsyn med og coache medarbejdere i informationsstyring.
+  qualifications:
+  - En anerkendt faglig uddannelse i databeskyttelse eller informationsstyring eller tilsvarende erfaring.
+  - Erfaring med at rådgive om databeskyttelse i et sundheds- eller plejemiljø.
+- title: Chef for informationsstyringsservice
+  summary: Styrer informationsstyringsservicen til daglig, herunder dens team, sagsarbejde, kvalitetssikringsprogram og oplæring.
+  responsibilities:
+  - Styre informationsstyringsteamet og dets sagsarbejde og sikre, at de lovbestemte frister overholdes.
+  - Planlægge og drive programmet for kvalitetssikring i informationsstyring og den årlige selvevaluering.
+  - Skrive og gennemgå politikker og procedurer for informationsstyring.
+  - Rådgive seniorledere om informationsrisici og føre informationsrisikoregistret.
+  - Lede indsatsen ved alvorlige hændelser sammen med kolleger inden for sikkerhed, klinisk sikkerhed og kommunikation.
+  - Designe og føre tilsyn med oplæring i informationsstyring for alle medarbejdere.
+  qualifications:
+  - En anerkendt faglig uddannelse i databeskyttelse eller informationsstyring eller tilsvarende erfaring.
+  - Betydelig erfaring med informationsstyring i sundhed eller pleje.
+- title: Chef for informationsstyring
+  summary: Leder informationsstyring for organisationen, fastlægger dens politik og strategi og rådgiver den øverste ledelse om informationsrisiko og overholdelse.
+  responsibilities:
+  - Fastlægge strategien, politikkerne og rammen for informationsstyring i organisationen.
+  - Lede tjenesterne for informationsstyring og journaler og udvikle deres medarbejdere.
+  - Rådgive den direktionsansvarlige for informationsrisiko, bestyrelsen og dens udvalg om informationsrisiko og overholdelse.
+  - Træffe de endelige beslutninger i komplekse spørgsmål om videregivelse, deling og underretning ved brud.
+  - Repræsentere organisationen over for tilsynsmyndigheder, revisorer og partnerorganisationer.
+  - Sikre, at nye digitale services, anvendelser af data og kunstig intelligens designes med privatliv og gennemsigtighed fra starten.
+  qualifications:
+  - En anerkendt faglig uddannelse i databeskyttelse eller informationsstyring eller tilsvarende erfaring.
+  - Omfattende erfaring med at lede informationsstyring i sundhed eller pleje.

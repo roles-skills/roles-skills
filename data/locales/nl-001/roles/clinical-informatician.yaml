@@ -1,0 +1,59 @@
+summary: Klinisch informatici zijn geregistreerde clinici, zoals artsen, verpleegkundigen, apothekers en paramedische professionals, die hun klinische kennis gebruiken om de digitale diensten voor gezondheid van de organisatie vorm te geven. Zij zorgen dat klinische systemen, data en beslisondersteuning passen bij de manier waarop zorg wordt geleverd, veilig zijn om te gebruiken en de uitkomsten voor patiënten en de ervaring van clinici en zorgpersoneel verbeteren.
+health_context:
+- De rol vraagt actuele klinische kennis, dus de meeste functies vereisen registratie bij een klinische beroepsorganisatie en enige voortdurende klinische praktijk.
+- Klinisch informatici geven gespecialiseerd advies over hoe systemen de zorg voor patiënten raken, dus hun oordeel raakt rechtstreeks de patiëntveiligheid.
+- Zij werken nauw samen met klinischeveiligheidsfunctionarissen en leveren klinische deskundigheid voor het opsporen van gevaren en voor veiligheidsdossiers.
+- Goede klinische data hangen af van consistent gebruik van klinische terminologieën zoals SNOMED CT, dus zij helpen gestructureerde dossiers en beslisondersteuning te ontwerpen.
+- Zij vormen een brug tussen clinici, zorgpersoneel en digitale teams en leiden vaak de klinische betrokkenheid bij wijzigingen van systemen.
+levels:
+- title: Specialist klinische informatica
+  summary: Brengt klinische deskundigheid in het ontwerp, de configuratie, het testen en de adoptie van klinische systemen, binnen een product- of programmateam onder begeleiding van een senior klinisch informaticus.
+  responsibilities:
+  - Klinische werkstromen met clinici en zorgpersoneel in kaart brengen en omzetten in duidelijke eisen.
+  - Inhoud van systemen, zoals formulieren, ordersets en zorgplannen, ontwerpen en testen aan de hand van klinische scenario’s.
+  - Deelnemen aan workshops over gevaren en klinische meningen geven over risico’s en beheersmaatregelen.
+  - Clinici en zorgpersoneel ondersteunen om nieuwe systemen veilig in gebruik te nemen, inclusief training en ondersteuning bij go-live.
+  - Controleren dat klinische data consistent worden vastgelegd met afgesproken klinische terminologieën.
+  - Terugkoppeling en data over het gebruik van systemen verzamelen en verbeteringen voorstellen.
+  qualifications:
+  - Actuele registratie bij een klinische beroepsorganisatie, met ervaring in de klinische praktijk.
+  - Ervaring met het gebruik van klinische systemen in de praktijk, of gelijkwaardige ervaring met digitale verandering.
+  job_evaluation_notes: Patiëntenzorg wordt gescoord op niveau 4 omdat de functie adviseert over de zorg voor patiënten via het ontwerp van klinische systemen. Emotionele inspanning weerspiegelt het regelmatig beoordelen van klinische dossiers en incidenten.
+- title: Senior klinisch informaticus
+  summary: Leidt de klinische inbreng bij een groot klinisch systeem, product of programma en geeft gespecialiseerd advies over hoe digitale diensten de zorg voor patiënten en de veiligheid raken.
+  responsibilities:
+  - Het klinische ontwerp leiden voor een groot klinisch systeem of product en normen voor inhoud en configuratie vaststellen.
+  - Productteams gespecialiseerd advies geven over klinische werkstromen, beslisondersteuning en veiligheid.
+  - Met de klinischeveiligheidsfunctionaris gevaren opsporen, beheersmaatregelen afspreken en klinisch bewijs leveren voor veiligheidsdossiers.
+  - Klinische betrokkenheid en adoptie over diensten heen leiden en veilig gebruik bepleiten onder klinische collega’s.
+  - Evaluaties en klinische audits van het gebruik en de baten van systemen plannen en uitvoeren.
+  - Specialisten klinische informatica en clinici die nieuw zijn in digitaal werk begeleiden.
+  qualifications:
+  - Actuele registratie bij een klinische beroepsorganisatie, met aanzienlijke klinische ervaring.
+  - Een postdoctorale kwalificatie in klinische of gezondheidsinformatica, of gelijkwaardige ervaring.
+  job_evaluation_notes: Patiëntenzorg wordt gescoord op niveau 5 voor gespecialiseerd advies over patiëntenzorg. Onderzoek is niveau 3 omdat evaluatie en klinische audit van systemen een belangrijk deel van de functie zijn.
+- title: Lead klinisch informaticus
+  summary: Leidt klinische informatica voor een portfolio van klinische systemen of een zorgomgeving, stelt normen voor klinisch ontwerp vast en leidt een team van klinisch informatici.
+  responsibilities:
+  - Normen en beginselen voor klinisch ontwerp van klinische systemen over een portfolio heen vaststellen.
+  - Een team van klinisch informatici leiden, prioriteiten stellen en hun professionele ontwikkeling ondersteunen.
+  - Programmabesturen en senior leiders adviseren over klinisch risico, baten en prioriteiten voor klinische systemen.
+  - Klinische beslissingen over beslisondersteuning, waarschuwingen en gestructureerde data over diensten heen leiden.
+  - Netwerken van klinische kampioenen opbouwen en klinische betrokkenheid bij grootschalige verandering leiden.
+  - Evaluaties opdragen en leiden en het bewijs gebruiken om de roadmap vorm te geven.
+  qualifications:
+  - Actuele registratie bij een klinische beroepsorganisatie, met uitgebreide klinische ervaring.
+  - Een postdoctorale kwalificatie in klinische of gezondheidsinformatica, of gelijkwaardige ervaring met het leiden van werk in klinische informatica.
+- title: Hoofd klinische informatica
+  summary: Leidt de functie klinische informatica van de organisatie en haar klinische ontwerpautoriteit en zorgt dat alle klinische systemen worden ontworpen, ingevoerd en verbeterd met sterk klinisch leiderschap.
+  responsibilities:
+  - De strategie voor klinische informatica vaststellen en de klinische ontwerpautoriteit van de organisatie leiden.
+  - De functie klinische informatica leiden en ontwikkelen, inclusief haar personeelsplan en budget.
+  - Het directieteam hooggespecialiseerd advies geven over het effect van digitale investeringen op de zorg voor patiënten.
+  - Zorgen dat klinische systemen voldoen aan normen voor klinische veiligheid, terminologie en data.
+  - De organisatie vertegenwoordigen bij partners in gezondheid en zorg, beroepsorganisaties en academische netwerken.
+  - Partnerschappen voor onderzoek en evaluatie leiden om het bewijs voor digitale gezondheid op te bouwen.
+  qualifications:
+  - Actuele registratie bij een klinische beroepsorganisatie, met uitgebreide klinische en leidinggevende ervaring.
+  - Een master in klinische of gezondheidsinformatica, of gelijkwaardige ervaring met het leiden van klinische informatica op het niveau van de organisatie.
+  job_evaluation_notes: Patiëntenzorg wordt gescoord op niveau 6 voor hooggespecialiseerd advies over patiëntenzorg in de klinische systemen van de organisatie.

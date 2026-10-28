@@ -1,0 +1,37 @@
+summary: Dataarkitekter designer, hvordan organisationen strukturerer, lagrer, flytter og styrer sine sundheds- og plejedata, så de kan bruges sikkert til direkte pleje, serviceplanlægning og forskning. De designer datamodeller, dataplatforme og datastrømme, fastsætter datastandarder og sikrer, at klinisk betydning, kvalitet og fortrolighed bevares fra ende til anden.
+health_context:
+- Sundhedsdata skal bevare deres kliniske betydning, så datamodeller bruger kliniske terminologier som SNOMED CT og klassifikationer som ICD.
+- Data til direkte pleje og data til planlægning eller forskning har forskelligt retligt grundlag, så arkitekterne designer for adskillelse, afidentifikation og kontrolleret adgang.
+- Data kommer fra mange kliniske systemer og plejesystemer af varierende kvalitet, så arkitekterne designer for kontroller af datakvalitet, patientmatchning og afstamning.
+- Fælles plejejournaler og dataudveksling afhænger af fælles modeller, såsom HL7 FHIR-ressourcer og aftalte nationale eller internationale datasæt.
+- Journaler skal opbevares i lange perioder, så design skal planlægge for arkivering og adgang til historiske data.
+levels:
+- title: Dataarkitekt
+  responsibilities:
+  - Designe logiske og fysiske datamodeller for kliniske data og driftsdata og bruge kliniske terminologier, hvor det er nødvendigt.
+  - Designe datastrømme og komponenter i dataplatformen, såsom datavarehus, lakehouse og integrationslag.
+  - Definere metadata, poster i dataordbogen og afstamning for datasættene på dit område.
+  - Designe afidentifikation og adgangskontroller, så data kun bruges til deres lovlige formål.
+  - Samarbejde med kolleger inden for datakvalitet og klinisk kodning om at rette strukturelle årsager til dårlige data.
+  - Vejlede dataingeniører og analytikere om datamodeller og standarder.
+  qualifications:
+  - Betydelig erfaring med datamodellering og design af dataplatforme på et niveau svarende til en kandidatgrad.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 7): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8a. Planlægning, politik og handlefrihed scores over profilen for lønramme 7, fordi jobbet designer dataplatforme og kontroller, der bruges på tværs af mange services.'
+- title: Senior dataarkitekt
+  responsibilities:
+  - Designe dataarkitekturen for et større område, såsom den fælles plejejournal eller analyseplatformen.
+  - Sikre, at datadesign på tværs af teams følger organisationens datastandarder og -modeller.
+  - Designe, hvordan data deles med partnerorganisationer, herunder standarder, kontroller og aftaler om datadeling.
+  - Rådgive kolleger inden for informationsstyring og klinisk sikkerhed om datarisici ved nye design.
+  - Gennemgå og vejlede dataarkitekters arbejde.
+  qualifications:
+  - Omfattende erfaring med dataarkitektur i komplekse organisationer.
+- title: Chefdataarkitekt
+  responsibilities:
+  - Fastlægge organisationens vision og køreplan for dataarkitektur i overensstemmelse med dens datastrategi.
+  - Eje organisationens virksomhedsdatamodel, datastandarder og dataordbog.
+  - Rådgive direktionen og organer for datastyring om dataarkitektur, risici og investering.
+  - Repræsentere organisationen i arbejdet med datastandarder og interoperabilitet på tværs af organisationer.
+  - Lede praksis for dataarkitektur og udvikle dens medarbejdere.
+  qualifications:
+  - Omfattende erfaring med at lede dataarkitektur på tværs af organisationer.

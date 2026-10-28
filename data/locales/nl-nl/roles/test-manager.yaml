@@ -1,0 +1,26 @@
+summary: Testmanagers plannen, leiden en borgen het testen van de digitale diensten en programma’s voor gezondheid van de organisatie. Zij bepalen hoeveel testen nodig is en van welke soort, beheren testteams, omgevingen en leveranciers en vertellen besluitvormers duidelijk welke risico’s resteren voordat een dienst live gaat. In de gezondheidszorg omvat dit zorgen dat testen het klinische veiligheidsdossier en eventuele eisen van regelgeving ondersteunt.
+health_context:
+- Beslissingen over go-live voor klinische systemen hangen af van testbewijs en restrisico’s, die testmanagers rapporteren aan product-eigenaren, klinischeveiligheidsfunctionarissen en programmabesturen.
+- Grote wijzigingen, zoals upgrades van het elektronisch patiëntendossier, vragen testen over veel afdelingen, systemen en leveranciers en vaak tijd van klinisch personeel voor acceptatietesten.
+- Testen moet passen rond klinische diensten, bijvoorbeeld door overgangstests en generale repetities zo te plannen dat verstoring van de zorg voor patiënten laag blijft.
+- Gereguleerde software en wijzigingen die kritiek zijn voor veiligheid vragen testen dat voldoet aan normen zoals IEC 62304 en het proces van de organisatie voor klinisch risicobeheer.
+levels:
+- title: Testmanager
+  responsibilities:
+  - Testplanning voor een product of programma leiden, die omgevingen, data, instrumenten, middelen, tijdschema’s en klinisch risico omvat.
+  - Gebruikersacceptatietesten plannen met klinische en operationele leiders en tijd van clinici veiligstellen om deel te nemen.
+  - Een team van testanalisten en -engineers aansturen, inclusief testers van leveranciers.
+  - Zorgen dat testen voldoet aan eisen voor klinische veiligheid, informatiebeheer en regelgeving.
+  - Voortgang van testen, gebreken en restrisico’s rapporteren aan product-eigenaren, klinischeveiligheidsfunctionarissen en programmabesturen.
+  - Testprocessen verbeteren en normen voor testen afspreken met leveringsteams.
+  qualifications:
+  - Aanzienlijke ervaring met testmanagement voor complexe digitale diensten, op een niveau gelijkwaardig aan een master.
+- title: Hoofd test
+  responsibilities:
+  - De strategie, normen en kaders voor testen van de organisatie voor digitale diensten voor gezondheid vaststellen.
+  - Zorgen dat het testen van de organisatie voldoet aan eisen voor klinische veiligheid, medische hulpmiddelen en andere regelgeving.
+  - Instrumenten en technologieën voor testen kiezen en het testbudget en de contracten met leveranciers beheren.
+  - Senior leiders adviseren over risico’s voor kwaliteit en veiligheid vóór grote releases en beslissingen over go-live.
+  - Testmanagers, analisten en engineers leiden en ontwikkelen en de capaciteit voor testen van de organisatie opbouwen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van testen in een organisatie.

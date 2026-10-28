@@ -87,8 +87,8 @@ DevOps engineers build and run the tools, pipelines, environments, and platforms
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 1 | 5 |
@@ -160,8 +160,8 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -204,13 +204,13 @@ The UK GDaD PCF suggests Band 4 for both apprentice and junior levels; this refe
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Working | You can:<br>• manage service components to ensure they meet business needs and key performance indicators (KPIs) |
-| [Development process optimization](../../skills/#development-process-optimization) | UK GDaD PCF | Awareness | You can:<br>• explain the importance of developing process efficiency and the common ways in which processes are optimized<br>• support specific activities to improve development processes<br>• identify obvious deficiencies |
+| [Development process optimisation](../../skills/#development-process-optimisation) | UK GDaD PCF | Awareness | You can:<br>• explain the importance of developing process efficiency and the common ways in which processes are optimised<br>• support specific activities to improve development processes<br>• identify obvious deficiencies |
 | [Information security](../../skills/#information-security) | UK GDaD PCF | Practitioner | You can:<br>• design solutions and services with security controls included, specifically engineered to mitigate security threats |
 | [Modern development standards](../../skills/#modern-development-standards) | UK GDaD PCF | Working | You can:<br>• explain the most important principles of modern development standards and how they apply to your work<br>• apply modern development standards principles under guidance |
 | [Programming and build (software engineering)](../../skills/#programming-and-build-software-engineering) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with others when necessary to review specifications<br>• use the agreed specifications to design, code, test and document programs or scripts of medium-to-high complexity, using the right standards and tools |
 | [Prototyping](../../skills/#prototyping) | UK GDaD PCF | Practitioner | You can:<br>• approach prototyping as a team activity, actively soliciting prototypes and testing with others<br>• establish design patterns and iterate them<br>• use a variety of prototyping methods and choose the most appropriate |
 | [Service support](../../skills/#service-support) | UK GDaD PCF | Practitioner | You can:<br>• identify, locate and fix service faults |
-| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Working | You can:<br>• translate logical designs into physical designs<br>• produce detailed designs<br>• effectively document all work using required standards, methods and tools, including prototyping tools where appropriate<br>• design systems characterized by managed levels of risk, manageable business and technical complexity, and meaningful impact<br>• work with well understood technology and identify appropriate patterns |
+| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Working | You can:<br>• translate logical designs into physical designs<br>• produce detailed designs<br>• effectively document all work using required standards, methods and tools, including prototyping tools where appropriate<br>• design systems characterised by managed levels of risk, manageable business and technical complexity, and meaningful impact<br>• work with well understood technology and identify appropriate patterns |
 | [Systems integration](../../skills/#systems-integration) | UK GDaD PCF | Working | You can:<br>• build and test simple interfaces between systems<br>• work on more complex integration as part of a wider team |
 | [User focus](../../skills/#user-focus) | UK GDaD PCF | Working | You can:<br>• identify and engage with users or stakeholders to collate user needs evidence<br>• understand and define research that fits user needs<br>• use quantitative and qualitative data about users to turn user focus into outcomes |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognize when a change could affect patient care and raise it |
@@ -238,8 +238,8 @@ The UK GDaD PCF suggests Band 4 for both apprentice and junior levels; this refe
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -281,15 +281,15 @@ The UK GDaD PCF suggests Band 4 for both apprentice and junior levels; this refe
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Working | You can:<br>• manage service components to ensure they meet business needs and key performance indicators (KPIs) |
-| [Development process optimization](../../skills/#development-process-optimization) | UK GDaD PCF | Working | You can:<br>• work under guidance to identify process optimization opportunities<br>• contribute to the implementation of proposed solutions |
+| [Development process optimisation](../../skills/#development-process-optimisation) | UK GDaD PCF | Working | You can:<br>• work under guidance to identify process optimisation opportunities<br>• contribute to the implementation of proposed solutions |
 | [Information security](../../skills/#information-security) | UK GDaD PCF | Practitioner | You can:<br>• design solutions and services with security controls included, specifically engineered to mitigate security threats |
 | [Modern development standards](../../skills/#modern-development-standards) | UK GDaD PCF | Practitioner | You can:<br>• apply modern development standards and support others in applying them |
 | [Programming and build (software engineering)](../../skills/#programming-and-build-software-engineering) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with others when necessary to review specifications<br>• use the agreed specifications to design, code, test and document programs or scripts of medium-to-high complexity, using the right standards and tools |
 | [Prototyping](../../skills/#prototyping) | UK GDaD PCF | Practitioner | You can:<br>• approach prototyping as a team activity, actively soliciting prototypes and testing with others<br>• establish design patterns and iterate them<br>• use a variety of prototyping methods and choose the most appropriate |
 | [Service support](../../skills/#service-support) | UK GDaD PCF | Expert | You can:<br>• identify, locate and fix complex service faults<br>• advise others on different methodologies and types of service support |
-| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Practitioner | You can:<br>• design systems characterized by medium levels of risk, impact, and business or technical complexity<br>• select appropriate design standards, methods and tools, and ensure they are applied effectively<br>• review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology |
+| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Practitioner | You can:<br>• design systems characterised by medium levels of risk, impact, and business or technical complexity<br>• select appropriate design standards, methods and tools, and ensure they are applied effectively<br>• review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology |
 | [Systems integration](../../skills/#systems-integration) | UK GDaD PCF | Practitioner | You can:<br>• define the integration build<br>• co-ordinate build activities across systems<br>• understand how to undertake and support integration testing activities |
-| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritize and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
+| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritise and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognize when a change could affect patient care and raise it |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
@@ -304,7 +304,7 @@ The UK GDaD PCF suggests Band 4 for both apprentice and junior levels; this refe
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -315,8 +315,8 @@ The UK GDaD PCF suggests Band 4 for both apprentice and junior levels; this refe
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -356,15 +356,15 @@ The UK GDaD PCF suggests Band 4 for both apprentice and junior levels; this refe
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Working | You can:<br>• manage service components to ensure they meet business needs and key performance indicators (KPIs) |
-| [Development process optimization](../../skills/#development-process-optimization) | UK GDaD PCF | Working | You can:<br>• work under guidance to identify process optimization opportunities<br>• contribute to the implementation of proposed solutions |
+| [Development process optimisation](../../skills/#development-process-optimisation) | UK GDaD PCF | Working | You can:<br>• work under guidance to identify process optimisation opportunities<br>• contribute to the implementation of proposed solutions |
 | [Information security](../../skills/#information-security) | UK GDaD PCF | Practitioner | You can:<br>• design solutions and services with security controls included, specifically engineered to mitigate security threats |
-| [Modern development standards](../../skills/#modern-development-standards) | UK GDaD PCF | Expert | You can:<br>• identify and apply modern development standards to support complex projects and programs<br>• lead others in applying modern development standards |
+| [Modern development standards](../../skills/#modern-development-standards) | UK GDaD PCF | Expert | You can:<br>• identify and apply modern development standards to support complex projects and programmes<br>• lead others in applying modern development standards |
 | [Programming and build (software engineering)](../../skills/#programming-and-build-software-engineering) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with others when necessary to review specifications<br>• use the agreed specifications to design, code, test and document programs or scripts of medium-to-high complexity, using the right standards and tools |
 | [Prototyping](../../skills/#prototyping) | UK GDaD PCF | Practitioner | You can:<br>• approach prototyping as a team activity, actively soliciting prototypes and testing with others<br>• establish design patterns and iterate them<br>• use a variety of prototyping methods and choose the most appropriate |
 | [Service support](../../skills/#service-support) | UK GDaD PCF | Expert | You can:<br>• identify, locate and fix complex service faults<br>• advise others on different methodologies and types of service support |
-| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Practitioner | You can:<br>• design systems characterized by medium levels of risk, impact, and business or technical complexity<br>• select appropriate design standards, methods and tools, and ensure they are applied effectively<br>• review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology |
+| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Practitioner | You can:<br>• design systems characterised by medium levels of risk, impact, and business or technical complexity<br>• select appropriate design standards, methods and tools, and ensure they are applied effectively<br>• review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology |
 | [Systems integration](../../skills/#systems-integration) | UK GDaD PCF | Expert | You can:<br>• establish standards and procedures across a service product life cycle, including the development product life cycle, and can ensure that practitioners adhere to these<br>• manage resources to ensure that the systems integration function works effectively |
-| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritize and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
+| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritise and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
@@ -391,8 +391,8 @@ The UK GDaD PCF suggests Band 4 for both apprentice and junior levels; this refe
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -434,22 +434,22 @@ The UK GDaD PCF suggests Band 4 for both apprentice and junior levels; this refe
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Practitioner | You can:<br>• ensure the correct implementation of availability and capacity management standards and procedures<br>• identify capacity issues and implement the required changes<br>• initiate remedial action |
-| [Development process optimization](../../skills/#development-process-optimization) | UK GDaD PCF | Practitioner | You can:<br>• analyze current processes<br>• identify and implement opportunities to optimize processes<br>• lead and develop a team of experts to deliver service improvements<br>• help to evaluate and establish requirements for the implementation of changes by setting policy and standards |
+| [Development process optimisation](../../skills/#development-process-optimisation) | UK GDaD PCF | Practitioner | You can:<br>• analyse current processes<br>• identify and implement opportunities to optimise processes<br>• lead and develop a team of experts to deliver service improvements<br>• help to evaluate and establish requirements for the implementation of changes by setting policy and standards |
 | [Information security](../../skills/#information-security) | UK GDaD PCF | Expert | You can:<br>• design, review and quality assure solutions and services, ensuring that they are specifically engineered to mitigate security threats<br>• lead others in using appropriate information security practices |
-| [Modern development standards](../../skills/#modern-development-standards) | UK GDaD PCF | Expert | You can:<br>• identify and apply modern development standards to support complex projects and programs<br>• lead others in applying modern development standards |
+| [Modern development standards](../../skills/#modern-development-standards) | UK GDaD PCF | Expert | You can:<br>• identify and apply modern development standards to support complex projects and programmes<br>• lead others in applying modern development standards |
 | [Programming and build (software engineering)](../../skills/#programming-and-build-software-engineering) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with others when necessary to review specifications<br>• use the agreed specifications to design, code, test and document programs or scripts of medium-to-high complexity, using the right standards and tools |
 | [Prototyping](../../skills/#prototyping) | UK GDaD PCF | Expert | You can:<br>• use a variety of prototyping methods<br>• share best practice and coach others<br>• look at strategic service design end to end |
 | [Service support](../../skills/#service-support) | UK GDaD PCF | Expert | You can:<br>• identify, locate and fix complex service faults<br>• advise others on different methodologies and types of service support |
-| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Practitioner | You can:<br>• design systems characterized by medium levels of risk, impact, and business or technical complexity<br>• select appropriate design standards, methods and tools, and ensure they are applied effectively<br>• review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology |
+| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Practitioner | You can:<br>• design systems characterised by medium levels of risk, impact, and business or technical complexity<br>• select appropriate design standards, methods and tools, and ensure they are applied effectively<br>• review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology |
 | [Systems integration](../../skills/#systems-integration) | UK GDaD PCF | Expert | You can:<br>• establish standards and procedures across a service product life cycle, including the development product life cycle, and can ensure that practitioners adhere to these<br>• manage resources to ensure that the systems integration function works effectively |
-| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritize and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
+| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritise and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Practitioner | You can:<br>• lead hazard identification and risk assessment for a product or change<br>• write and maintain hazard logs and clinical safety case reports<br>• agree risk controls with product teams and check that they work<br>• advise teams on applying clinical risk management standards |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
 | [Vulnerability management](../../skills/#vulnerability-management) | This reference | Expert | You can:<br>• set the vulnerability management policy and its targets<br>• report technical security risk to senior leaders |
 | [Security operations](../../skills/#security-operations) | This reference | Practitioner | You can:<br>• investigate and contain security incidents<br>• write detection rules and threat hunts<br>• improve runbooks and tooling after incidents |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
-| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organisational change<br>• coach leaders and resolve complex people issues |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organizational change<br>• coach leaders and resolve complex people issues |
 | [Budget management](../../skills/#budget-management) | This reference | Practitioner | You can:<br>• hold and manage a budget, forecasting and explaining variances<br>• build a business case with costs and benefits |
 
 ### Typical qualifications and experience
@@ -458,7 +458,7 @@ The UK GDaD PCF suggests Band 4 for both apprentice and junior levels; this refe
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Knowledge:** Expert knowledge, and wide organizational and sector understanding.
 - **Autonomy:** Sets strategy for a function; accountable to a director.
 - **Scope:** A function or department.
 - **Leadership:** Leads a function through several management layers.
@@ -470,8 +470,8 @@ The UK GDaD PCF suggests Band 4 for both apprentice and junior levels; this refe
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
@@ -489,5 +489,5 @@ The UK GDaD PCF suggests Band 4 for both apprentice and junior levels; this refe
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

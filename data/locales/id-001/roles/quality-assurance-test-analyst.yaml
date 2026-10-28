@@ -1,0 +1,48 @@
+summary: >
+  Analis pengujian penjaminan mutu memeriksa bahwa layanan kesehatan digital organisasi melakukan apa yang dibutuhkan pasien, tenaga klinis, dan tenaga perawatan, dengan aman dan andal. Mereka menganalisis persyaratan dan desain untuk menemukan risiko sejak dini, merancang dan menjalankan pengujian fungsional dan nonfungsional, dan melaporkan cacat dengan jelas. Dalam layanan kesehatan ini mencakup pengujian alur kerja klinis, akurasi data, dan pengendalian yang melindungi pasien dari kerugian.
+health_context:
+  - Cacat pada sistem klinis dapat membahayakan pasien, misalnya melalui dosis obat yang salah, hasil pemeriksaan yang terlewat, atau rekam yang ditampilkan untuk pasien yang salah, sehingga pengujian diprioritaskan menurut risiko klinis.
+  - Pengujian memberikan bukti untuk kasus keselamatan klinis dan log bahaya, sehingga rencana uji ditelusuri ke bahaya yang teridentifikasi dan pengendaliannya.
+  - Data uji tidak boleh mengungkap pasien nyata, sehingga analis memakai data uji sintetis atau data yang dideidentifikasi dengan benar.
+  - Banyak layanan bertukar data dengan sistem kesehatan dan perawatan lain, sehingga pengujian memeriksa pesan terhadap standar seperti HL7 FHIR dan makna kode klinis.
+  - Pengguna mencakup tenaga klinis di bawah tekanan waktu, pasien dengan beragam kebutuhan, dan pengguna teknologi bantu, sehingga pengujian kegunaan dan aksesibilitas penting.
+levels:
+  - title: Analis pengujian penjaminan mutu asosiat
+    responsibilities:
+      - Menjalankan skrip uji untuk alur kerja klinis dan administratif di bawah pengawasan, mencatat hasil secara akurat.
+      - Membuat laporan cacat yang jelas, termasuk langkah, data, dan layar yang terlibat.
+      - Memakai data uji sintetis dan tidak pernah memakai data pasien nyata di lingkungan uji.
+      - Mempelajari pendekatan uji tim, perangkat, dan proses keselamatan klinis.
+      - Ikut serta dalam seremoni tim seperti stand-up, perencanaan, dan retrospektif.
+    qualifications:
+      - Keterampilan analitis dan tulis yang baik, serta sedikit pengalaman dalam pengujian atau bekerja dengan sistem digital, atau yang setara.
+  - title: Analis pengujian penjaminan mutu
+    responsibilities:
+      - Menganalisis cerita pengguna, desain, dan alur kerja klinis untuk memutuskan apa yang diuji, berdasarkan risiko bagi pasien dan layanan.
+      - Merancang dan menjalankan pengujian fungsional, aksesibilitas, dan kegunaan, termasuk skenario klinis ujung ke ujung.
+      - Menelusuri pengujian ke bahaya dan pengendalian keselamatan, serta menyediakan bukti uji untuk kasus keselamatan klinis.
+      - Memeriksa data yang ditampilkan kepada pengguna terhadap sistem sumber dan kode klinis yang disepakati.
+      - Membuat dan memelihara data uji sintetis yang realistis.
+      - Melacak cacat hingga terselesaikan dan menguji ulang perbaikan.
+    qualifications:
+      - Pengalaman merancang dan menjalankan pengujian untuk layanan digital, atau yang setara.
+    job_evaluation_notes: UK GDaD PCF menyarankan HEO atau SEO untuk tingkat ini dan tingkat senior, yang memetakan keduanya ke Pita 6. Acuan ini menempatkan tingkat ini di Pita 5 dan tingkat senior di Pita 6, sehingga kedua tingkat berada di pita yang berbeda.
+  - title: Analis pengujian penjaminan mutu senior
+    responsibilities:
+      - Mengoordinasikan penjaminan mutu untuk sebuah produk atau bidang, menyepakati pendekatan uji, lingkungan, data, dan perangkat.
+      - Mengidentifikasi risiko klinis dan operasional sejak dini dengan meninjau persyaratan, desain, dan perubahan bersama tenaga klinis dan tim produk.
+      - Merencanakan dan memimpin pengujian penerimaan pengguna bersama tenaga klinis dan tenaga perawatan.
+      - Melaporkan hasil uji dan risiko sisa kepada pemilik produk dan petugas keselamatan klinis, agar mereka dapat mengambil keputusan rilis.
+      - Memandu analis uji lain dan membantu mereka mengikuti standar pengujian dan keselamatan klinis.
+    qualifications:
+      - Pengalaman yang substansial dalam analisis pengujian, termasuk di lingkungan yang kompleks atau diatur, atau yang setara.
+  - title: Analis pengujian penjaminan mutu pimpinan
+    responsibilities:
+      - Menetapkan standar dan praktik baik analisis pengujian di seluruh organisasi, termasuk pengujian berbasis risiko untuk sistem klinis.
+      - Mendefinisikan strategi uji untuk program besar, seperti perubahan rekam pasien elektronik atau layanan baru yang menghadap pasien.
+      - Memastikan pengujian menghasilkan bukti yang diperlukan untuk kasus keselamatan klinis dan, jika relevan, berkas teknis alat kesehatan.
+      - Menegosiasikan dan mengeskalasikan risiko, isu, dan cacat besar kepada pimpinan produk, klinis, dan pemasok senior.
+      - Membimbing dan membina analis uji dan memimpin komunitas analisis pengujian.
+    qualifications:
+      - Pengalaman luas dalam memimpin analisis pengujian untuk layanan yang kompleks.
+    job_evaluation_notes: UK GDaD PCF menyarankan G7 atau G6 untuk tingkat ini, yang dipetakan ke Pita 8b. Acuan ini menempatkannya di Pita 8a, sejajar dengan insinyur pengujian pimpinan, karena memimpin satu disiplin pengujian dan bukan semua pengujian; kepala pengujian berada di Pita 8c.

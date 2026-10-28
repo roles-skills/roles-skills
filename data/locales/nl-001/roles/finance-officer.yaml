@@ -1,0 +1,59 @@
+summary: Financieel medewerkers houden de dagelijkse financiën van de organisatie nauwkeurig en onder controle. Zij verwerken en registreren facturen, betalingen, inkomsten en journaalposten, stemmen grootboeken en bankrekeningen af en helpen budgethouders en leveranciers met hun vragen. In een organisatie voor digitale gezondheid en zorg betreft veel van dit werk technologieleveranciers, softwarelicenties en clouddiensten, vaak betaald uit publieke financiering met strenge regels over hoe die wordt besteed.
+health_context:
+- De organisatie besteedt publiek geld, dus elke betaling moet behoorlijk worden goedgekeurd, geregistreerd en een audit kunnen doorstaan.
+- Veel facturen betreffen softwarelicenties, cloudhosting en ondersteuningscontracten, die moeten worden gecontroleerd tegen de contractvoorwaarden, het gebruik en de juiste code voor kapitaal of exploitatie.
+- Snelle en nauwkeurige betaling telt, want kleine leveranciers en zorgaanbieders kunnen ervan afhangen.
+- Financieel personeel ziet persoonlijke informatie, zoals onkosten van personeel en betalingen aan patiënten of zorgaanbieders, en moet die verwerken volgens de regels voor informatiebeheer.
+- Risico’s van fraude, zoals valse verzoeken om bankgegevens van leveranciers te wijzigen, richten zich op publieke organen, dus medewerkers volgen strikte controles.
+levels:
+- title: Financieel assistent
+  summary: Financieel assistenten verwerken routinematige financiële transacties, zoals facturen van leveranciers, ontvangsten en onkostendeclaraties, volgens vaste procedures met toezicht dichtbij.
+  responsibilities:
+  - Facturen van leveranciers, creditnota’s en ontvangsten nauwkeurig invoeren in het financiële systeem.
+  - Facturen afstemmen op inkooporders en goederenontvangsten en ontbrekende goedkeuringen najagen.
+  - Onkostendeclaraties van personeel controleren tegen het beleid en de onderliggende bonnen.
+  - Routinevragen van leveranciers en personeel telefonisch en per e-mail beantwoorden.
+  - Financiële documenten archiveren en scannen zodat ze voor audit te vinden zijn.
+  - De financiële procedures en regels voor informatiebeheer volgen en melden wat ongewoon is.
+  qualifications:
+  - Goede rekenvaardigheid en toetsenbordvaardigheid, verworven door onderwijs of werkervaring.
+  - Bereidheid te werken aan een instapkwalificatie in boekhouden, of gelijkwaardige ervaring.
+  job_evaluation_notes: Lichamelijke vaardigheden is niveau 3 voor de snelheid en nauwkeurigheid van data-invoer in grote aantallen. Financiële middelen is niveau 2 omdat de functie betalingsinformatie verwerkt en kleine declaraties controleert.
+- title: Financieel medewerker
+  summary: Financieel medewerkers voeren een deel van de transactiecyclus uit, zoals crediteuren, debiteuren of kas, lossen niet-routinekwesties op en stemmen hun grootboek af.
+  responsibilities:
+  - Een reeks transacties verwerken, waaronder betaalruns, terugbetalingen, verkoopfacturen en journaalposten.
+  - Afschriften van leveranciers, bankrekeningen en controlerekeningen afstemmen en verschillen wegwerken.
+  - Controleren of facturen voor technologie overeenkomen met de contractvoorwaarden, zoals aantallen licenties en factureringsperiodes.
+  - Controles van wijzigingen van bankgegevens van leveranciers en andere maatregelen tegen fraude uitvoeren.
+  - Achterstallige vorderingen najagen en betwiste facturen oplossen met leveranciers en budgethouders.
+  - Nieuwe financieel assistenten laten zien hoe zij routinetaken uitvoeren.
+  qualifications:
+  - Een instapkwalificatie in boekhouden, of gelijkwaardige ervaring met financiële verwerking.
+  job_evaluation_notes: Financiële middelen is niveau 3 omdat de functie betaalruns voorbereidt en vrijgeeft en betalingen binnen vaste grenzen autoriseert.
+- title: Senior financieel medewerker
+  summary: Senior financieel medewerkers handelen de complexere financiële verwerking en afstemmingen af, ondersteunen de maand- en jaarafsluiting en helpen budgethouders hun uitgaven te begrijpen.
+  responsibilities:
+  - Boekingen voor de maandafsluiting voorbereiden, zoals overlopende passiva en vooruitbetalingen voor jaarlijkse software- en ondersteuningscontracten.
+  - Complexe afstemmingsposten en oude saldi onderzoeken en wegwerken.
+  - Onder toezicht btw-aangiften en afstemmingen voorbereiden.
+  - Standaardrapporten over budgetten maken en ze uitleggen aan budgethouders.
+  - Controleren of uitgaven juist worden gecodeerd tussen kapitaal en exploitatie en vragen voorleggen aan de accountants.
+  - Dagelijks toezicht houden op het werk van financieel medewerkers en assistenten en het controleren.
+  - Verbeteringen voorstellen voor financiële procedures en werkstromen in systemen.
+  qualifications:
+  - Een kwalificatie op tussenniveau in boekhouden, of gelijkwaardige ervaring.
+  - Ervaring met financiële verwerking en afstemmingen.
+- title: Teamleider financiën
+  summary: Teamleiders financiën leiden een transactioneel financieel team of werken als financieel analist en zorgen dat processen nauwkeurig, beheerst en efficiënt zijn en dat rapportage op tijd gereed is.
+  responsibilities:
+  - Een transactioneel financieel team leiden en zijn werk plannen om deadlines voor betaling, vorderingen en maandafsluiting te halen.
+  - Een grootboek of financieel proces beheren en over de prestaties ervan rapporteren, zoals betaaltijden en oude vorderingen.
+  - Financiële beheersmaatregelen testen en verbeteren en bewijs leveren aan interne en externe auditors.
+  - Afstemmingen van de balans en werkdocumenten voor de jaarrekening voorbereiden.
+  - Processen verbeteren, bijvoorbeeld door het afstemmen van facturen te automatiseren of self-service voor budgethouders in te voeren.
+  - Personeel in het team trainen, ondersteunen en hun werk beoordelen.
+  qualifications:
+  - Een kwalificatie op tussenniveau of gevorderd niveau in boekhouden, of gelijkwaardige ervaring.
+  - Ervaring met het leiden of coördineren van financiële processen.
+  job_evaluation_notes: Mensen is niveau 3 omdat de functie dagelijks een klein financieel team aanstuurt. Een financieel analist in deze band zou mensen scoren op niveau 2 en analytisch op niveau 4.

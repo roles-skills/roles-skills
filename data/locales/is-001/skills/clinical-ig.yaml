@@ -1,0 +1,228 @@
+# Icelandic translations of data/skills/clinical-ig.yaml. Keys are the English skill ids.
+clin-clinical-systems-optimisation:
+  name: Hönnun og fínstilling klínískra kerfa
+  description: Að hanna, stilla og bæta klínísk kerfi, svo sem rafrænar sjúkraskrár, pantanasamskipti og rafræna lyfjaávísun, svo að þau falli að klínísku vinnuflæði og styðji örugga og skilvirka umönnun.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvernig klínísk kerfi eins og rafrænar sjúkraskrár styðja umönnun
+      - lýst því klíníska vinnuflæði sem kerfi styður
+    working: |
+      Þú getur:
+      - kortlagt núverandi og framtíðar klínískt vinnuflæði með klínísku starfsfólki og umönnunarstarfsfólki
+      - prófað kerfisstillingar gegn klínískum sviðsmyndum
+      - skrifað skýrar klínískar kröfur fyrir vöruteymi
+    practitioner: |
+      Þú getur:
+      - stýrt klínískri hönnun kerfisstillinga, eyðublaða, pöntunarsetta og ákvörðunarstuðnings
+      - notað gögn og endurgjöf notenda til að finna og laga vandamál í vinnuflæði
+      - vegið klíníska þörf, öryggi, nothæfi og skorður kerfisins
+    expert: |
+      Þú getur:
+      - sett hönnunarmeginreglur og staðla fyrir klínísk kerfi þvert á stofnunina
+      - stýrt fínstillingaráætlunum sem bæta umönnun og upplifun starfsfólks á mælanlegan hátt
+      - ráðlagt æðstu stjórnendum um val á klínískum kerfum og áhrif þess á umönnun
+clin-human-factors:
+  name: Mannlegir þættir og nothæfi í klínískum kerfum
+  description: Að beita aðferðum mannlegra þátta og nothæfis á klínísk kerfi, svo að klínískt starfsfólk, umönnunarstarfsfólk og sjúklingar geti notað þau á öruggan hátt og með sem fæstum villum.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvernig léleg hönnun getur leitt til villna í umönnun
+      - tilkynnt nothæfisvandamál sem gætu haft áhrif á öryggi sjúklinga
+    working: |
+      Þú getur:
+      - tekið þátt í nothæfisprófunum og hermunum á klínískum verkum
+      - komið auga á algengar hönnunarhættur, svo sem valkosti sem líta eins út eða falda viðvaranir
+    practitioner: |
+      Þú getur:
+      - skipulagt og framkvæmt mat á mannlegum þáttum í klínískum kerfum
+      - breytt niðurstöðum í hönnunarbreytingar og klínískar öryggisstýringar
+      - metið viðvörunarálag og hættuna á bráðabirgðalausnum
+    expert: |
+      Þú getur:
+      - mótað nálgun stofnunarinnar við mannlega þætti í stafrænni þjónustu
+      - yfirfarið gögn um mannlega þætti fyrir kerfi og breytingar með mikla áhættu
+      - byggt upp færni í mannlegum þáttum þvert á klínísk og stafræn teymi
+clin-digital-health-evaluation:
+  name: Mat á stafrænni heilbrigðisþjónustu og ávinningur
+  description: Að skipuleggja og framkvæma mat á stafrænni heilbrigðistækni og mæla klínískan ávinning hennar, öryggi og þjónustuávinning með traustum aðferðum og gögnum.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna stafræn heilbrigðistækni þarf gögn um ávinning og öryggi
+      - fundið útgefin gögn um tækni
+    working: |
+      Þú getur:
+      - safnað grunngögnum og eftirfylgnigögnum fyrir mat
+      - framkvæmt klínískar úttektir á notkun kerfa
+      - tekið saman niðurstöður mats fyrir samstarfsfólk
+    practitioner: |
+      Þú getur:
+      - hannað mat og ávinningsáætlanir fyrir stafrænar heilbrigðisvörur
+      - valið hentuga mælikvarða fyrir klínískar niðurstöður, öryggi og upplifun
+      - metið styrk gagna og útskýrt takmörk þeirra
+    expert: |
+      Þú getur:
+      - mótað nálgun stofnunarinnar við mat á stafrænni heilbrigðisþjónustu
+      - stýrt rannsóknar- og matsáætlunum með fræðasamfélagi og umönnunaraðilum
+      - notað gögn til að ráðleggja stjórn um stafrænar fjárfestingar
+clin-professional-practice:
+  name: Skráð klínísk starfsemi í stafrænum málum
+  description: Að færa núgildandi, skráða klíníska þekkingu og dómgreind inn í stafræna vinnu og uppfylla um leið staðla, siðfræði og endurnýjunarskyldur klínískrar fagstéttar.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt þá faglegu staðla sem gilda um skráðan klínískan starfsmann
+      - greint hvenær spurning krefst klínísks álits
+    working: |
+      Þú getur:
+      - beitt klínískri þekkingu þinni í stafrænni vinnu innan starfssviðs þíns
+      - haldið skráningu þinni og símenntun uppfærðri
+      - gefið klínískt álit á vinnuflæði, efni og öryggi
+    practitioner: |
+      Þú getur:
+      - fellt traustan klínískan dóm um áhrif stafrænnar þjónustu á umönnun
+      - véfengt óörugga framkvæmd, í stafrænu eða klínísku umhverfi, af öryggi
+      - stutt annað klínískt starfsfólk við að beita faglegum stöðlum sínum á stafræna vinnu
+    expert: |
+      Þú getur:
+      - stýrt klínískum faglegum stöðlum fyrir stafræna vinnu stofnunarinnar
+      - verið æðsta klíníska röddin í ákvörðunum um öryggi sjúklinga og umönnun
+      - stutt endurnýjun starfsréttinda og faglega þróun klínísks starfsfólks í stafrænum hlutverkum
+ig-information-rights-requests:
+  name: Beiðnir um upplýsingarétt
+  description: Að afgreiða beiðnir einstaklinga og almennings um aðgang að upplýsingum, svo sem beiðnir um aðgang að persónulegum sjúkraskrám og beiðnir um upplýsingar sem stofnunin geymir, innan lögbundinna tímamarka.
+  levels:
+    awareness: |
+      Þú getur:
+      - greint beiðni um upplýsingarétt og komið henni tafarlaust áfram
+      - útskýrt að beiðnir hafa lögbundin tímamörk
+    working: |
+      Þú getur:
+      - skráð, staðfest móttöku og fylgst með beiðnum til að standast tímamörk
+      - safnað og yfirstrikað upplýsingar og samið drög að svörum til yfirferðar
+      - athugað auðkenni og umboð þess sem biður
+    practitioner: |
+      Þú getur:
+      - afgreitt flóknar eða viðkvæmar beiðnir, þar á meðal þær sem varða þriðju aðila
+      - beitt undanþágum og ákveðið hvað á að halda eftir, með skýrum rökum
+      - stýrt innri yfirferðum og kvörtunum vegna svara
+    expert: |
+      Þú getur:
+      - mótað stefnu og ferli um upplýsingarétt þvert á stofnunina
+      - stýrt viðbrögðum við fyrirspurnum og kærum eftirlitsaðila
+      - skilað skýrslu um frammistöðu og þróun til æðri leiðtoga
+ig-records-retention:
+  name: Varðveisla og förgun skráa
+  description: Að beita varðveisluáætlunum á pappírsskrár og stafrænar skrár og skjalfesta eða eyða þeim á öruggan hátt á réttum tíma, með úttektarslóð.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna skrár eru varðveittar í ákveðinn tíma og síðan eytt eða þær skjalfestar
+      - fylgt verklagi um geymslu og flutning skráa
+    working: |
+      Þú getur:
+      - beitt varðveisluáætluninni á skrár og merkt þær sem eru á gjalddaga yfirferðar
+      - undirbúið skrár fyrir skjalavistun eða örugga eyðingu og haldið úttektarslóðinni
+    practitioner: |
+      Þú getur:
+      - stýrt varðveislu- og förgunaráætlun skráaþjónustu
+      - ráðlagt teymum um varðveislu nýrra tegunda skráa, þar á meðal stafrænna
+      - gert úttekt á fylgni við varðveisluáætlanir
+    expert: |
+      Þú getur:
+      - mótað varðveislustefnu og -áætlun stofnunarinnar
+      - skipulagt langtímavarðveislu stafrænna skráa
+      - leyst flóknar varðveisluspurningar, svo sem lagalegar frystingar og rannsóknir
+ig-data-protection-impact-assessment:
+  name: Persónuverndarmat
+  description: Að meta friðhelgisáhættu nýrrar eða breyttrar vinnslu persónuupplýsinga og heilbrigðisgagna og samþykkja stýringar áður en vinnslan hefst.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvenær persónuverndarmat er nauðsynlegt
+      - fyllt út forskimunarspurningalista fyrir vinnu þína
+    working: |
+      Þú getur:
+      - hjálpað verkefnateymum að ljúka persónuverndarmati
+      - lýst gagnaflæði og greint lagalegan grundvöll vinnslu
+      - skráð friðhelgisáhættu og fyrirhugaðar stýringar
+    practitioner: |
+      Þú getur:
+      - yfirfarið og ráðlagt um persónuverndarmat fyrir flókin kerfi
+      - metið hvort áhætta sé ásættanleg og lagt til stýringar
+      - ákveðið hvenær á að vísa mikilli áhættu upp á við til yfirferðar æðri stjórnenda eða eftirlitsaðila
+    expert: |
+      Þú getur:
+      - mótað persónuverndarmatsferli og staðla stofnunarinnar
+      - gefið lokaráðgjöf um vinnslu með mestu áhættuna, svo sem umfangsmikla gagnamiðlun eða gervigreind
+      - haft samráð við eftirlitsaðila þar sem lög krefjast þess
+ig-incident-management:
+  name: Atvikastjórnun í upplýsingastjórnun
+  description: Að skrá, rannsaka og læra af gagnabrotum og næstum því atvikum og ákveða hvenær á að láta eftirlitsaðila og þá sem verða fyrir áhrifum vita.
+  levels:
+    awareness: |
+      Þú getur:
+      - greint gagnabrot eða næstum því atvik og tilkynnt það strax
+    working: |
+      Þú getur:
+      - skráð atvik og safnað staðreyndum
+      - metið atvik gegn alvarleikaviðmiðum stofnunarinnar
+      - fylgst með aðgerðum til lokunar
+    practitioner: |
+      Þú getur:
+      - rannsakað alvarleg atvik og fundið rót þeirra
+      - ákveðið, með eldra samstarfsfólki, hvort tilkynna eigi eftirlitsaðilum og þeim sem verða fyrir áhrifum
+      - miðlað lærdómi og fylgst með umbótum
+    expert: |
+      Þú getur:
+      - mótað atvikastjórnunarferlið í upplýsingastjórnun
+      - stýrt viðbrögðum við meiriháttar brotum, þar á meðal gagnvart eftirlitsaðilum og fjölmiðlum
+      - skilað skýrslu um þróun atvika og áhættu til stjórnar
+ig-confidentiality-and-sharing:
+  name: Trúnaður og upplýsingamiðlun
+  description: Að vernda trúnaðarupplýsingar um sjúklinga og tryggja um leið að þeim sé miðlað á lögmætan hátt þegar umönnun, öryggi eða lög krefjast þess, þar á meðal með upplýsingamiðlunarsamningum.
+  levels:
+    awareness: |
+      Þú getur:
+      - haldið trúnaðarupplýsingum öruggum og miðlað þeim aðeins þegar þér er það heimilt
+      - beðið um ráðgjöf þegar þú ert ekki viss
+    working: |
+      Þú getur:
+      - athugað hvort beiðni um að miðla upplýsingum uppfylli stefnu
+      - haldið skrár um hverju var miðlað, með hverjum og hvers vegna
+      - samið drög að einföldum upplýsingamiðlunarsamningum
+    practitioner: |
+      Þú getur:
+      - ráðlagt um flóknar trúnaðarspurningar, svo sem miðlun án samþykkis vegna almannahagsmuna
+      - yfirfarið upplýsingamiðlunarsamninga við samstarfsstofnanir
+      - beitt reglum um samþykki og andmæli sjúklinga á gagnaflæði
+    expert: |
+      Þú getur:
+      - verið æðsti ráðgjafi stofnunarinnar um trúnað
+      - leyst erfiðustu ákvarðanir um afhjúpun
+      - mótað ramma um miðlun upplýsinga til samstarfsaðila
+ig-compliance-assurance:
+  name: Fullvissa og úttektir í upplýsingastjórnun
+  description: Að athuga og sýna fram á að stofnunin uppfylli staðla um upplýsingastjórnun, með árlegu sjálfsmati, úttektum, gögnum og umbótaáætlunum.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna stofnunin verður að sýna að hún meðhöndli upplýsingar vel
+      - lagt fram gögn fyrir úttekt þegar beðið er um það
+    working: |
+      Þú getur:
+      - safnað og skipulagt gögn fyrir árlegt sjálfsmat
+      - framkvæmt einfaldar úttektir, svo sem úttektir á aðgangi eða skjalahaldi
+      - fylgst með umbótaaðgerðum
+    practitioner: |
+      Þú getur:
+      - skipulagt og stýrt fullvissuáætlun upplýsingastjórnunar
+      - metið hvort gögn uppfylli staðalinn og greint eyður
+      - unnið með innri og ytri endurskoðendum
+    expert: |
+      Þú getur:
+      - borið ábyrgð á fullvissuramma stofnunarinnar í upplýsingastjórnun
+      - skilað skýrslu um fullvissu og fylgni til stjórnar og nefnda hennar
+      - sett umbótaforgangsröðun út frá áhættu

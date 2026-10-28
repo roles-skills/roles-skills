@@ -1,0 +1,66 @@
+summary: Nhà khoa học dữ liệu dùng thống kê, học máy và các phương pháp nâng cao khác để tìm ra các mẫu trong dữ liệu y tế và chăm sóc và xây dựng các mô hình giúp các dịch vụ lập kế hoạch, dự đoán và cải thiện việc chăm sóc. Công việc điển hình gồm dự báo nhu cầu, xác định những bệnh nhân có thể được lợi từ hỗ trợ sớm và đánh giá tác động của các thay đổi dịch vụ. Họ làm việc chặt chẽ với bác sĩ lâm sàng và chuyên viên phân tích, và bảo đảm các mô hình hợp lệ, công bằng và được dùng an toàn.
+health_context:
+- Một mô hình hỗ trợ các quyết định về bệnh nhân có thể gây hại nếu sai hoặc thiên lệch, nên các mô hình được kiểm định trên nhóm dân số mà chúng sẽ được dùng và được đánh giá về an toàn lâm sàng.
+- Dữ liệu y tế phản ánh sự bất bình đẳng trong tiếp cận chăm sóc, nên các mô hình có thể lặp lại hoặc làm trầm trọng thêm bất bình đẳng về sức khỏe trừ khi thiên lệch được đo lường và xử lý cho từng nhóm bệnh nhân.
+- Một số mô hình, như những mô hình cung cấp thông tin cho chẩn đoán hoặc điều trị, có thể bị quản lý như thiết bị y tế, và quy định về AI cũng có thể áp dụng.
+- Khoa học dữ liệu thường cần dữ liệu bệnh nhân chi tiết, được liên kết, nên công việc diễn ra trong môi trường an toàn, với dữ liệu đã bút danh hóa, theo cơ sở quản trị thông tin đã thống nhất.
+- Bác sĩ lâm sàng và bệnh nhân cần hiểu và tin tưởng kết quả của một mô hình, nên việc giải thích và truyền đạt sự không chắc chắn bằng ngôn ngữ giản dị là quan trọng.
+levels:
+- title: Nhà khoa học dữ liệu tập sự
+  responsibilities:
+  - Học các phương pháp thống kê và học máy, công cụ và cách làm việc an toàn của nhóm qua đào tạo có cấu trúc.
+  - Chuẩn bị và khám phá các bộ dữ liệu y tế đã bút danh hóa dưới sự giám sát.
+  - Chạy và diễn giải các phân tích thống kê đơn giản, kiểm tra kết quả với một nhà khoa học dữ liệu có kinh nghiệm hơn.
+  - Tuân thủ các quy trình về quản trị thông tin, kiểm soát tiết lộ và đạo đức.
+  - Hướng tới chương trình học nghề về khoa học dữ liệu hoặc bằng cấp tương đương.
+  qualifications:
+  - Đang theo học, hoặc đang hướng tới, chương trình học nghề về khoa học dữ liệu hoặc tương đương.
+  job_evaluation_notes: Kiến thức được chấm ở mức mà công việc đòi hỏi sau khi việc đào tạo đã đủ để làm được công việc.
+- title: Nhà khoa học dữ liệu trợ lý
+  responsibilities:
+  - Xây dựng và kiểm thử các mô hình thống kê và học máy cơ bản, như dự báo nhu cầu, với sự hướng dẫn.
+  - Chuẩn bị và liên kết các bộ dữ liệu y tế để lập mô hình trong môi trường an toàn.
+  - Đo mức độ hiệu quả của các mô hình đối với các nhóm bệnh nhân khác nhau và báo cáo sự khác biệt.
+  - Trình bày kết quả và độ không chắc chắn của chúng cho chuyên viên phân tích và các nhóm dịch vụ.
+  - Ghi tài liệu về nguồn dữ liệu, phương pháp và giả định để công việc có thể được tái lập.
+  qualifications:
+  - Có bằng đại học một ngành thiên về toán, chương trình học nghề về khoa học dữ liệu, hoặc kinh nghiệm tương đương.
+- title: Nhà khoa học dữ liệu
+  responsibilities:
+  - Phát triển độc lập các mô hình phức tạp, như phân tầng rủi ro hoặc dự đoán thời gian nằm viện, và chọn các phương pháp phù hợp.
+  - Kiểm định các mô hình cùng bác sĩ lâm sàng, kiểm tra chúng chính xác, công bằng và hữu ích trên dữ liệu bệnh nhân tại địa phương.
+  - Ghi tài liệu về mục đích sử dụng, dữ liệu, hiệu quả và giới hạn của từng mô hình, và đóng góp bằng chứng vào các hồ sơ an toàn lâm sàng.
+  - Đánh giá tác động của các thay đổi dịch vụ bằng các phương pháp thống kê phù hợp.
+  - Giải thích các mô hình và độ không chắc chắn của chúng cho đối tượng lâm sàng và phi kỹ thuật.
+  - Hỗ trợ các nhà khoa học dữ liệu trợ lý và tập sự.
+  qualifications:
+  - Có bằng đại học một ngành thiên về toán, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm xây dựng và kiểm định các mô hình thống kê hoặc học máy.
+- title: Nhà khoa học dữ liệu chủ chốt
+  responsibilities:
+  - Xác định phạm vi, thiết kế và dẫn dắt các dự án khoa học dữ liệu hỗ trợ lập kế hoạch dịch vụ và chăm sóc bệnh nhân.
+  - Quyết định các phương pháp, công cụ và dữ liệu phù hợp, và phản biện các kế hoạch không khả thi hoặc không an toàn.
+  - Lập kế hoạch kiểm định, đánh giá thiên lệch và giám sát các mô hình cùng các đồng nghiệp về an toàn lâm sàng và quản trị thông tin.
+  - Thống nhất với các nhóm sản phẩm cách các mô hình sẽ được triển khai và hỗ trợ ở quy mô lớn.
+  - Quản lý và phát triển một nhóm nhỏ các nhà khoa học dữ liệu.
+  qualifications:
+  - Có kinh nghiệm dày dặn trong việc cung cấp khoa học dữ liệu, ở mức tương đương bằng thạc sĩ hoặc tiến sĩ một ngành định lượng.
+- title: Trưởng nhóm khoa học dữ liệu
+  responsibilities:
+  - Dẫn dắt các nhóm khoa học dữ liệu và đề ra định hướng, ưu tiên và tiêu chuẩn của họ.
+  - Tìm các cơ hội mà khoa học dữ liệu có thể cải thiện việc chăm sóc, và trình bày luận cứ cùng các lãnh đạo lâm sàng và dịch vụ.
+  - Bảo đảm các mô hình được thiết kế, kiểm định và giám sát để chúng luôn an toàn và công bằng khi sử dụng.
+  - Giải quyết các thách thức phức tạp về đạo đức và dữ liệu, như sự đồng ý, thiên lệch và việc dùng dữ liệu nhạy cảm.
+  - Xây dựng năng lực khoa học dữ liệu thông qua huấn luyện, tuyển dụng và đào tạo.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt các nhóm khoa học dữ liệu.
+  job_evaluation_notes: UK GDaD PCF gợi ý cả trưởng nhóm khoa học dữ liệu và trưởng bộ phận khoa học dữ liệu ở ngạch G7 hoặc G6. Tài liệu tham khảo này xếp trưởng nhóm ở Bậc 8a và trưởng bộ phận ở Bậc 8b, để hai cấp nằm ở các bậc khác nhau.
+- title: Trưởng bộ phận khoa học dữ liệu
+  responsibilities:
+  - Đề ra định hướng cho khoa học dữ liệu và AI trong toàn tổ chức, phù hợp với chiến lược và ưu tiên của tổ chức.
+  - Dẫn dắt về đạo đức, an toàn và đảm bảo cho các mô hình và AI của tổ chức, và tư vấn cho hội đồng về những vấn đề này.
+  - Giám sát nguồn lực, ngân sách và chất lượng của các sản phẩm khoa học dữ liệu.
+  - Đại diện tổ chức về khoa học dữ liệu và AI với các đối tác y tế và chăm sóc, các nhà nghiên cứu và cơ quan quản lý.
+  - Xây dựng năng lực và sự nghiệp khoa học dữ liệu trong các ngành nghề.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt khoa học dữ liệu trên toàn tổ chức.

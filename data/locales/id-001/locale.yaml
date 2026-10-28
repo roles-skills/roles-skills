@@ -1,0 +1,73 @@
+# Indonesian (world). Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Quotations from the UK GDaD PCF and ESCO stay in
+# English. Job titles use the generic form, which covers everyone. Slugs are
+# made from the Indonesian titles.
+code: id-001
+name: Bahasa Indonesia
+english_name: Indonesian
+dir: ltr
+complete: true
+paths:
+  roles: peran
+  families: rumpun
+  bands: pita
+  skills: keterampilan
+  job-evaluation: penilaian-jabatan
+  about: tentang
+strings:
+  disclaimer: "Ini adalah profil acuan ilustratif untuk organisasi layanan kesehatan digital yang generik. Ini bukan uraian jabatan resmi dari pemberi kerja mana pun, dan skor penilaian jabatannya bukan penilaian formal."
+  translation_note: "Teks ini diterjemahkan dari bahasa Inggris oleh asisten kecerdasan buatan dan belum ditinjau oleh penutur asli bahasa Indonesia. Kutipan dari Kerangka Kapabilitas Profesi Digital dan Data Pemerintah Inggris (UK GDaD PCF) dan dari ESCO tetap dalam bahasa Inggris."
+  home_title: Katalog peran
+  home_lede: "Pilih dulu rumpun yang paling dekat dengan pekerjaan Anda, lalu peran, lalu pita."
+  roles_title: Semua peran
+  bands_title: Peran menurut pita
+  skills_title: Keterampilan
+  skills_lede: "Setiap keterampilan memiliki empat tingkat kecakapan: Kesadaran (1), Menerapkan (2), Praktisi (3), dan Pakar (4). Keterampilan UK GDaD PCF dikutip dari aslinya dalam bahasa Inggris. Keterampilan lainnya orisinal untuk acuan ini."
+  pcf_title: Peran menurut peran UK GDaD PCF
+  esco_title: Peran menurut jabatan ESCO
+  role: Peran
+  roles: Peran
+  family: Rumpun
+  band: Pita
+  bands: Pita
+  title: Judul
+  role_level: Tingkat peran
+  skill: Keterampilan
+  source: Sumber
+  expected_level: Tingkat yang diharapkan
+  level_meaning: Arti tingkat ini
+  factor: Faktor
+  level: Tingkat
+  points: Poin
+  total: Total
+  summary: Ringkasan
+  health_context: Di organisasi layanan kesehatan digital
+  pcf_role: Peran UK GDaD PCF
+  pcf_role_none: "Tidak ada (acuan ini mendefinisikan perannya)"
+  pcf_role_description: Deskripsi peran UK GDaD PCF (aslinya dalam bahasa Inggris)
+  pcf_level: Tingkat UK GDaD PCF
+  civil_service_grades: Golongan pegawai negeri Inggris
+  esco_occupations: Jabatan ESCO
+  role_levels: Tingkat peran
+  job_evaluation_points: Poin penilaian jabatan
+  responsibilities: Tanggung jawab
+  skills: Keterampilan
+  qualifications: Kualifikasi dan pengalaman yang lazim
+  band_outline: Gambaran pita
+  knowledge: Pengetahuan
+  autonomy: Otonomi
+  scope: Cakupan
+  leadership: Kepemimpinan
+  accountability: Akuntabilitas
+  job_evaluation: Penilaian jabatan (ilustratif)
+  source_pcf: UK GDaD PCF
+  source_reference: Acuan ini
+  used_in: "Digunakan pada {n} tingkat peran."
+  awareness: Kesadaran
+  working: Menerapkan
+  practitioner: Praktisi
+  expert: Pakar
+  sfia_level: Tingkat SFIA
+  esco_occupation: Jabatan ESCO
+  pcf_family: Rumpun PCF
+  roles_in_reference: Peran dalam acuan ini

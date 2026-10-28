@@ -68,8 +68,8 @@ Provides executive support to a director or senior leader, managing their diary,
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -130,8 +130,8 @@ Provides executive support to the chief executive, chair, or an executive direct
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -170,7 +170,7 @@ Manages the executive office, its staff, and its business cycle, and makes sure 
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 | [Budget management](../../skills/#budget-management) | This reference | Working | You can:<br>• track spending against a small budget and raise variances<br>• authorize spending within your limit |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Practitioner | You can:<br>• work with the team to develop and maintain an understanding of stakeholders<br>• work with the team to develop and implement stakeholder communications strategies<br>• identify and resolve issues, influence stakeholders and manage relationships effectively<br>• build long-term strategic relationships and communicate clearly and regularly with stakeholders |
-| [Planning](../../skills/#planning) | UK GDaD PCF | Practitioner | You can:<br>• understand the environment and prioritize the most important or high value tasks<br>• use data to inform planning<br>• manage complex internal and external dependencies<br>• provide delivery confidence<br>• remove blockers or impediments that affect plans and can develop a plan for difficult situations<br>• ensure that teams plan appropriately for their capacity |
+| [Planning](../../skills/#planning) | UK GDaD PCF | Practitioner | You can:<br>• understand the environment and prioritise the most important or high value tasks<br>• use data to inform planning<br>• manage complex internal and external dependencies<br>• provide delivery confidence<br>• remove blockers or impediments that affect plans and can develop a plan for difficult situations<br>• ensure that teams plan appropriately for their capacity |
 
 ### Typical qualifications and experience
 
@@ -190,8 +190,8 @@ Manages the executive office, its staff, and its business cycle, and makes sure 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -209,5 +209,5 @@ Manages the executive office, its staff, and its business cycle, and makes sure 
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

@@ -1,0 +1,58 @@
+summary: >
+  Tekniska arkitekter utformar den tekniska strukturen i organisationens digitala hälso- och vårdtjänster: komponenter, plattformar, drift, integrationsmönster och icke-funktionella egenskaper såsom säkerhet, prestanda och motståndskraft. De arbetar nära utvecklare och DevOps-ingenjörer, ger tekniskt ledarskap till leveransteam och ser till att tjänster byggs för att hålla och är trygga att driva.
+health_context:
+  - Kliniska tjänster behöver ofta hög tillgänglighet och snabb återställning, så tekniska designer måste planera för fel och försämrad drift.
+  - Designer måste skydda konfidentiell hälsoinformation genom kryptering, åtkomstkontroll och granskningsspår som standard.
+  - Tjänster kopplas till många kliniska system och gemensamma plattformar, ofta genom HL7 FHIR-API:er och meddelandehantering, så integrationsmönster är centrala i designen.
+  - Tekniska designval, såsom cachning, återförsök och tidshantering, kan orsaka kliniska faror, så arkitekter bidrar till säkerhetsunderlag.
+  - Äldre kliniska system och medicintekniska produkter kan begränsa valen av teknik, nätverk och drift.
+levels:
+  - title: Biträdande teknisk arkitekt
+    responsibilities:
+      - Rita tekniska diagram och dokumentera komponenter, drift och integrationer i befintliga tjänster.
+      - Undersöka teknikalternativ och sammanfatta deras för- och nackdelar, med vägledning.
+      - Arbeta med utvecklare för att kontrollera att byggen följer överenskomna designer och mönster.
+      - Registrera tekniska beslut och hålla designdokument uppdaterade.
+    qualifications:
+      - En examen i datavetenskap eller ett närliggande ämne, eller motsvarande erfarenhet av mjukvaru- eller infrastrukturutveckling.
+      - Specialistkunskap om teknisk design, på nivå med en påbyggnadsexamen eller motsvarande erfarenhet.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 5) eftersom annonser inom hälso- och sjukvården placerar rollen i band 6. Kunskap poängsätts på nivå med en påbyggnadsexamen, och informationsresurser på nivå 5 eftersom arbetet utformar delar av stora informationssystem.
+  - title: Teknisk arkitekt
+    responsibilities:
+      - Utforma den tekniska arkitekturen för en tjänst, inklusive komponenter, drift, integration och säkerhet.
+      - Ge designmönster till leveransteam och granska deras tekniska designer och kodstruktur.
+      - Definiera icke-funktionella krav, såsom mål för tillgänglighet, prestanda och återställning, tillsammans med tjänsteägare.
+      - Identifiera teknisk skuld och teknik som inte stöds, och planera hur den ska åtgärdas.
+      - Identifiera tekniska faror och kontroller för det kliniska säkerhetsunderlaget.
+    qualifications:
+      - Specialistkunskap om teknisk arkitektur, på masternivå eller motsvarande erfarenhet.
+      - Erfarenhet av att utforma eller bygga produktionsprogramvara eller infrastruktur.
+    job_evaluation_notes: Placerad enligt UK GDaD PCF:s förslag på grad, band 7, i linje med annonser inom hälso- och sjukvården för rollen. Kunskap poängsätts på masternivå eller motsvarande för specialistkunskap över hela spannet av teknisk arkitektur.
+  - title: Senior teknisk arkitekt
+    responsibilities:
+      - Leda den tekniska utformningen av stora, komplexa eller högriskfyllda tjänster, såsom kliniska system och gemensamma integrationsplattformar.
+      - Fastställa teknisk riktning för ett eller flera leveransteam och ifrågasätta designer som tillför risk.
+      - Utforma för motståndskraft, katastrofåterställning och säker drift, och kontrollera att team testar det.
+      - Förklara tekniska risker och avvägningar för tjänsteägare, kliniska ledare och seniora intressenter på klarspråk.
+      - Handleda och coacha tekniska arkitekter och seniora utvecklare.
+    qualifications:
+      - Betydande erfarenhet av teknisk design för komplexa tjänster, på en nivå motsvarande en masterexamen.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 7) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8a. Planering, policy och handlingsfrihet poängsätts över profilen för band 7 eftersom arbetet fastställer teknisk riktning för flera team med liten tillsyn.
+  - title: Ledande teknisk arkitekt
+    responsibilities:
+      - Leda den tekniska arkitekturen över flera tjänster eller team och fastställa gemensamma mönster och standarder.
+      - Kvalitetssäkra designernas tekniska kvalitet i designråd, inklusive säkerhet, motståndskraft och interoperabilitet.
+      - Forma organisationens teknikfärdplan tillsammans med enterprisearkitekter och ledare för utveckling.
+      - Ge seniora ledare råd om teknikval, plattformsinvesteringar och tekniska risker.
+      - Leda och utveckla tekniska arkitekter.
+    qualifications:
+      - Omfattande erfarenhet av att leda teknisk arkitektur för komplexa tjänster.
+  - title: Principal teknisk arkitekt
+    responsibilities:
+      - Fastställa organisationens strategi, principer och standarder för teknisk arkitektur.
+      - Styra den tekniska designen i hela organisationen, inklusive det tekniska designrådet.
+      - Ge ledningsgruppen råd om större teknikbeslut, såsom driftstrategi och konsolidering av plattformar.
+      - Företräda organisationen i tekniska gemenskaper och standardgemenskaper över organisationer.
+      - Inspirera och utveckla arkitekter i hela organisationen.
+    qualifications:
+      - Omfattande erfarenhet av att leda teknisk arkitektur över flera team eller organisationer.

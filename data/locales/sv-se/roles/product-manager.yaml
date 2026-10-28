@@ -1,0 +1,55 @@
+summary: >
+  Produktansvariga ser till att organisationens digitala hälso- och vårdprodukter möter behoven hos patienter, kliniker och vårdpersonal och ger värde för hälso- och sjukvårdssystemet. De fastställer produktens vision och färdplan, prioriterar tvärprofessionella teams arbete med hjälp av underlag och är ansvariga för de utfall deras produkter uppnår, inklusive deras effekt på vården.
+health_context:
+  - Produktbeslut kan påverka patientsäkerheten, så produktansvariga äger produktens kliniska risk tillsammans med den kliniska säkerhetsansvarige och ser till att faror hanteras före release.
+  - Produkter betjänar många användargrupper med olika behov, såsom patienter, närstående, kliniker och administrativ personal, och produktansvariga måste balansera dem rättvist.
+  - Vissa produkter kan vara reglerade som medicintekniska produkter, så produktansvariga behöver veta när reglering gäller och planera för den.
+  - Utfall i vården omfattar säkerhet, kvalitet, tillgång, jämlikhet och personaltid, så produktansvariga definierar framgångsmått som kliniska och operativa ledare känner igen.
+  - Produkter är ofta beroende av nationella och regionala standarder för hälsodata och gemensamma plattformar, så produktansvariga arbetar över organisationsgränser.
+levels:
+  - title: Biträdande produktansvarig
+    responsibilities:
+      - Äga kön av arbete för en funktion eller del av en produkt, tillsammans med en produktansvarig.
+      - Omsätta underlag från användarforskning med patienter, kliniker och vårdpersonal till prioriterade användarberättelser.
+      - Arbeta med kliniska säkerhetsansvariga för att registrera och granska faror för de funktioner du äger.
+      - Följa produktmått, såsom användning, slutförandegrad och supportsamtal, och rapportera vad de visar.
+      - Företräda produkten vid demonstrationer och hos operativa intressenter.
+    qualifications:
+      - Erfarenhet av en digital, klinisk eller operativ roll, eller motsvarande erfarenhet.
+  - title: Produktansvarig
+    responsibilities:
+      - Fastställa vision, färdplan och framgångsmått för en digital hälso- och vårdprodukt.
+      - Prioritera teamets arbete och balansera användarnas behov, klinisk säkerhet, policy, tekniska begränsningar och kostnad.
+      - Acceptera klinisk risk för produktändringar tillsammans med den kliniska säkerhetsansvarige och stoppa releaser som inte är säkra.
+      - Arbeta med kliniska och operativa ledare för att se till att produkten passar vårdförlopp och tas i bruk.
+      - Se till att produkten uppfyller standarder för tillgänglighet, informationsstyrning och tjänster.
+      - Mäta produktens utfall, inklusive dess nyttor för patienter och personal.
+    qualifications:
+      - Betydande erfarenhet av produktledning eller av en närliggande digital roll.
+  - title: Senior produktansvarig
+    responsibilities:
+      - Leda en grupp relaterade produkter, eller en enskild produkt som är komplex, högriskfylld eller känslig, såsom en som används i akutvård.
+      - Bygga produktstrategi utifrån underlag om patienters behov, klinisk praxis och hälso- och sjukvårdspolitik.
+      - Se till att produkten uppfyller regleringen av medicintekniska produkter där den gäller.
+      - Förvalta produktens budget och motivera investeringar med nyttor för vården.
+      - Coacha och ha linjeansvar för produktansvariga.
+    qualifications:
+      - Omfattande erfarenhet av att förvalta digitala produkter genom hela deras livscykel.
+  - title: Ledande produktansvarig
+    responsibilities:
+      - Leda en produktportfölj eller en tjänst från början till slut, såsom alla produkter som stöder ett vårdförlopp.
+      - Fastställa produktriktning över flera team och se till att produkter fungerar tillsammans för patienter och personal.
+      - Arbeta med kliniska ledare och den kliniska säkerhetsansvarige för att hantera klinisk risk över portföljen.
+      - Hålla portföljens budget och rapportera nyttor till seniora styrande organ.
+      - Leda och utveckla produktansvariga inom produktområdet.
+    qualifications:
+      - Omfattande erfarenhet av att leda produkter över flera team.
+  - title: Chef för produkt
+    responsibilities:
+      - Fastställa organisationens produktstrategi tillsammans med ledningens, kliniska och operativa ledare.
+      - Fastställa och höja standarder för produktledning, inklusive hur produkter hanterar klinisk risk och mäter utfall.
+      - Leda produktyrket, inklusive rekrytering, karriärvägar och uppbyggnad av förmåga.
+      - Besluta om investeringsprioriteringar över produkter, med underlag om behov, värde och jämlikhet.
+      - Företräda organisationens produkter hos partner i hela hälso- och sjukvårdssystemet.
+    qualifications:
+      - Omfattande erfarenhet av att leda produktledning i en organisation.

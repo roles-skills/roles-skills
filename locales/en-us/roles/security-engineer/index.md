@@ -44,9 +44,9 @@ A security engineer builds, configures, and maintains security controls and tool
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Security technology](../../skills/#security-technology) | UK GDaD PCF | Working | You can:<br>• explain the effect of vulnerabilities on current and future designs<br>• share information on a range of systems, but may specialize in one |
+| [Security technology](../../skills/#security-technology) | UK GDaD PCF | Working | You can:<br>• explain the effect of vulnerabilities on current and future designs<br>• share information on a range of systems, but may specialise in one |
 | [Information security](../../skills/#information-security) | UK GDaD PCF | Working | You can:<br>• use information security practices and available security controls to contribute to protecting solutions and services |
-| [Cyber incident management](../../skills/#cyber-incident-management) | UK GDaD PCF | Awareness | *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.* You can:<br>• implement cyber incident management processes that reflect the level of risk accepted by the organization<br>• ensure the organization is prepared for and can effectively respond to incidents<br>• determine the impact of critical incidents on the organization’s technology<br>• lead the response to critical incidents that affect the whole organization Examples of leadership using this skill:<br>• helping the incident management team build relationships with senior leaders<br>• leading simulation exercises with the board so they understand their role in incident response processes and the implications of potential incidents<br>• assessing what to communicate to the board, ministers or the whole organization, and when to do it |
+| [Cyber incident management](../../skills/#cyber-incident-management) | UK GDaD PCF | Awareness | *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.* You can:<br>• implement cyber incident management processes that reflect the level of risk accepted by the organisation<br>• ensure the organisation is prepared for and can effectively respond to incidents<br>• determine the impact of critical incidents on the organisation’s technology<br>• lead the response to critical incidents that affect the whole organisation Examples of leadership using this skill:<br>• helping the incident management team build relationships with senior leaders<br>• leading simulation exercises with the board so they understand their role in incident response processes and the implications of potential incidents<br>• assessing what to communicate to the board, ministers or the whole organisation, and when to do it |
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Working | You can:<br>• create, change, and remove user accounts and access rights<br>• check access against role-based access rules |
 | [Vulnerability management](../../skills/#vulnerability-management) | This reference | Working | You can:<br>• run vulnerability scans and report the results<br>• track fixes with system owners |
 | [Security operations](../../skills/#security-operations) | This reference | Working | You can:<br>• monitor alerts and triage them using runbooks<br>• gather evidence and escalate events<br>• tune simple detection rules under guidance |
@@ -72,8 +72,8 @@ A security engineer builds, configures, and maintains security controls and tool
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -110,7 +110,7 @@ A senior security engineer designs and leads the delivery of significant securit
 | [Security technology](../../skills/#security-technology) | UK GDaD PCF | Practitioner | This skill level is currently not defined. |
 | [Information security](../../skills/#information-security) | UK GDaD PCF | Practitioner | You can:<br>• design solutions and services with security controls included, specifically engineered to mitigate security threats |
 | [Designing secure systems](../../skills/#designing-secure-systems) | UK GDaD PCF | Working | You can:<br>• design and review system architectures through the application of patterns and principles |
-| [Cyber risk management](../../skills/#cyber-risk-management) | UK GDaD PCF | Working | *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.* You can:<br>• maintain a clear understanding of the cyber and information security risks across the whole organization<br>• develop and implement risk assessment processes<br>• oversee the assessment of the organization's partners and supply chain for potential threats or vulnerabilities Examples of leadership using this skill:<br>• building a culture where teams have awareness of, and take responsibility for, risks and mitigating them<br>• advising programme owners and people running IT services about risks in a way that enables them to act on that advice<br>• communicating with senior leaders in a way that enables them to make decisions about accepting or mitigating risk |
+| [Cyber risk management](../../skills/#cyber-risk-management) | UK GDaD PCF | Working | *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.* You can:<br>• maintain a clear understanding of the cyber and information security risks across the whole organisation<br>• develop and implement risk assessment processes<br>• oversee the assessment of the organisation's partners and supply chain for potential threats or vulnerabilities Examples of leadership using this skill:<br>• building a culture where teams have awareness of, and take responsibility for, risks and mitigating them<br>• advising programme owners and people running IT services about risks in a way that enables them to act on that advice<br>• communicating with senior leaders in a way that enables them to make decisions about accepting or mitigating risk |
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Practitioner | You can:<br>• design and run identity and access services<br>• review access regularly and fix problems |
 | [Vulnerability management](../../skills/#vulnerability-management) | This reference | Practitioner | You can:<br>• prioritize vulnerabilities by risk, including to patient services<br>• scope and manage penetration tests and remediation |
 | [Security operations](../../skills/#security-operations) | This reference | Working | You can:<br>• monitor alerts and triage them using runbooks<br>• gather evidence and escalate events<br>• tune simple detection rules under guidance |
@@ -125,7 +125,7 @@ A senior security engineer designs and leads the delivery of significant securit
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -136,8 +136,8 @@ A senior security engineer designs and leads the delivery of significant securit
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -172,7 +172,7 @@ A lead security engineer sets the technical direction for security engineering, 
 | [Security technology](../../skills/#security-technology) | UK GDaD PCF | Expert | You can:<br>• explain complex system architectures<br>• identify and explain how easy or difficult it will be to exploit vulnerabilities<br>• lead and influence security technology in the security industry |
 | [Information security](../../skills/#information-security) | UK GDaD PCF | Practitioner | You can:<br>• design solutions and services with security controls included, specifically engineered to mitigate security threats |
 | [Designing secure systems](../../skills/#designing-secure-systems) | UK GDaD PCF | Practitioner | You can:<br>• design and review system architectures through the development of patterns and principles |
-| [Cyber risk management](../../skills/#cyber-risk-management) | UK GDaD PCF | Practitioner | *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.* You can:<br>• maintain a clear understanding of the cyber and information security risks across the whole organization<br>• develop and implement risk assessment processes<br>• oversee the assessment of the organization's partners and supply chain for potential threats or vulnerabilities Examples of leadership using this skill:<br>• building a culture where teams have awareness of, and take responsibility for, risks and mitigating them<br>• advising programme owners and people running IT services about risks in a way that enables them to act on that advice<br>• communicating with senior leaders in a way that enables them to make decisions about accepting or mitigating risk |
+| [Cyber risk management](../../skills/#cyber-risk-management) | UK GDaD PCF | Practitioner | *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.* You can:<br>• maintain a clear understanding of the cyber and information security risks across the whole organisation<br>• develop and implement risk assessment processes<br>• oversee the assessment of the organisation's partners and supply chain for potential threats or vulnerabilities Examples of leadership using this skill:<br>• building a culture where teams have awareness of, and take responsibility for, risks and mitigating them<br>• advising programme owners and people running IT services about risks in a way that enables them to act on that advice<br>• communicating with senior leaders in a way that enables them to make decisions about accepting or mitigating risk |
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Practitioner | You can:<br>• design and run identity and access services<br>• review access regularly and fix problems |
 | [Vulnerability management](../../skills/#vulnerability-management) | This reference | Practitioner | You can:<br>• prioritize vulnerabilities by risk, including to patient services<br>• scope and manage penetration tests and remediation |
 | [Security operations](../../skills/#security-operations) | This reference | Practitioner | You can:<br>• investigate and contain security incidents<br>• write detection rules and threat hunts<br>• improve runbooks and tooling after incidents |
@@ -187,7 +187,7 @@ A lead security engineer sets the technical direction for security engineering, 
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -198,8 +198,8 @@ A lead security engineer sets the technical direction for security engineering, 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -217,5 +217,5 @@ A lead security engineer sets the technical direction for security engineering, 
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

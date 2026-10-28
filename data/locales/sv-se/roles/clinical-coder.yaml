@@ -1,0 +1,66 @@
+summary: >
+  Kliniska kodare läser patienters journaler och översätter diagnoser, ingrepp och annan klinisk information till koder i standardklassifikationer, såsom ICD för diagnoser och en klassifikation av ingrepp för åtgärder. Kodade data används för betalning, tjänsteplanering, klinisk revision, forskning och folkhälsostatistik, så deras korrekthet är viktig långt utanför kodningsteamet. Kodare arbetar nära kliniker för att förtydliga journaler och använder allt oftare kliniska terminologier såsom SNOMED CT och verktyg för datorstödd kodning.
+health_context:
+  - Kodare läser kompletta patientakter, som ofta beskriver allvarlig sjukdom, skada, övergrepp, självskada och död, så arbetet är känslomässigt krävande och team behöver gott stöd och handledning.
+  - Kodade data styr betalning för verksamhet, indikatorer för dödlighet och utfall samt tjänsteplanering, så fel kan påverka finansiering, publicerad prestation och beslut om vården.
+  - Kodning beror på kvaliteten i den kliniska dokumentationen, så kodare ställer frågor om oklara journaler till kliniker och hjälper till att förbättra hur vården dokumenteras.
+  - Kodare hanterar fullständiga identifierbara patientjournaler varje dag, så sekretess och korrekt åtkomst är väsentliga.
+  - Automatiserad och datorstödd kodning, och mappning från SNOMED CT till klassifikationer, förändrar arbetet, och kodare kontrollerar att automatiska koder är korrekta.
+levels:
+  - title: Klinisk kodare (trainee)
+    summary: En klinisk kodare i traineeprogram lär sig koda okomplicerade sjukhusvårdtillfällen under nära handledning och arbetar mot en kvalifikation i klinisk kodning.
+    responsibilities:
+      - Koda okomplicerade vårdtillfällen, såsom dagkirurgi, från patientjournaler enligt klassifikationsregler, där allt arbete kontrolleras av en senior kodare.
+      - Lära sig medicinska termer, anatomi och nationella och internationella kodningsstandarder genom strukturerad utbildning.
+      - Hitta, följa och återlämna patientjournaler korrekt och hålla dem säkra.
+      - Registrera kodade data i patientadministrativa systemet eller kodningssystemet korrekt och i tid.
+      - Lyfta oklar eller saknad information till en senior kodare.
+    qualifications:
+      - God läs- och skrivförmåga och goda tangentbordskunskaper, och antagen till ett utbildningsprogram i klinisk kodning, eller motsvarande.
+    job_evaluation_notes: Mental ansträngning är nivå 4 eftersom kodare koncentrerar sig under långa perioder när de läser och tolkar detaljerade patientakter. Känslomässig ansträngning är nivå 2 eftersom kodare ofta läser journaler som beskriver plågsamma händelser.
+  - title: Klinisk kodare
+    summary: En klinisk kodare kodar ett fullständigt spann av rutinvårdtillfällen självständigt och korrekt och klarar överenskomna tidsfrister och kvalitetsstandarder.
+    responsibilities:
+      - Koda vårdtillfällen i slutenvård, dagkirurgi och öppenvård korrekt över vanliga specialiteter, enligt klassifikationsregler och lokala policyer.
+      - Ställa frågor om oklar, saknad eller motstridig klinisk information till kliniker och registrera utfallet.
+      - Kontrollera koder som föreslås av datorstödd kodning eller terminologimappningar och rätta dem där det behövs.
+      - Klara tidsfrister för fullständig kodning, så att data är redo för betalning och rapportering.
+      - Delta i kodningsrevisioner och agera på deras resultat.
+    qualifications:
+      - En erkänd kvalifikation i klinisk kodning, eller på väg mot en med motsvarande erfarenhet.
+    job_evaluation_notes: Mental och känslomässig ansträngning speglar långa perioder av koncentration på patientakter som ofta beskriver allvarlig sjukdom, skada och död.
+  - title: Senior klinisk kodare
+    summary: En senior klinisk kodare kodar komplexa vårdtillfällen över specialiteter, fungerar som källa till expertråd för andra kodare och kontrollerar och utbildar mindre erfarna kodare.
+    responsibilities:
+      - Koda komplexa vårdtillfällen, såsom intensivvård, cancer, flera ingrepp och dödsfall, över specialiteter.
+      - Lösa svåra kodningsfrågor tillsammans med överläkare och andra seniora kliniker och förklara kodningsregler tydligt.
+      - Kontrollera traineekodares arbete och ge dem återkoppling och utbildning i arbetet.
+      - Validera kodade data innan de lämnas in och åtgärda fel tillsammans med rätt team.
+      - Arbeta med kliniska team för att förbättra kvaliteten i den kliniska dokumentationen.
+    qualifications:
+      - En erkänd kvalifikation i klinisk kodning, eller motsvarande erfarenhet.
+      - Erfarenhet av att koda komplexa vårdtillfällen över en rad specialiteter.
+    job_evaluation_notes: Känslomässig ansträngning ligger kvar på nivå 2, eftersom komplexa vårdtillfällen såsom dödsfall och cancervård är en regelbunden del av arbetet.
+  - title: Revisor och utbildare i klinisk kodning
+    summary: En revisor och utbildare i klinisk kodning reviderar korrektheten i kodade data, utformar och håller kodningsutbildning och ger organisationen råd om kodningsstandarder. I vissa organisationer leder denna nivå också ett kodningsteam i det dagliga arbetet.
+    responsibilities:
+      - Planera och genomföra kodningsrevisioner över specialiteter och mäta korrekthet mot nationella och internationella standarder.
+      - Rapportera revisionsresultat till kodnings-, klinik-, ekonomi- och informationsteam och komma överens om förbättringsåtgärder.
+      - Utforma och hålla utbildning i kodning, från grundkurser för nya kodare till repetitionsutbildning vid ändrade standarder.
+      - Ge kliniker och chefer råd om hur kodning påverkar betalning, dödlighetsindikatorer och prestationsdata.
+      - Leda införandet av ändringar i klassifikationsversioner, kodningsstandarder och kodningsverktyg.
+      - Leda ett kodningsteam i det dagliga arbetet där organisationen kombinerar detta med revision och utbildning.
+    qualifications:
+      - En erkänd kvalifikation i klinisk kodning och en erkänd kvalifikation i revision eller utbildning inom klinisk kodning, eller motsvarande erfarenhet.
+    job_evaluation_notes: Människor är nivå 3 eftersom det är en huvuduppgift att utforma och hålla specialiserad kodningsutbildning. Forskning är nivå 2 eftersom kodningsrevision är en regelbunden del av arbetet.
+  - title: Chef för klinisk kodning
+    summary: En chef för klinisk kodning leder organisationens tjänst för klinisk kodning, inklusive dess kodningsteam, kvalitetsprogram och kopplingar till kliniska team, ekonomiteam och informationsteam.
+    responsibilities:
+      - Leda tjänsten för klinisk kodning och dess teamledare och se till att kodningen är fullständig, korrekt och i tid.
+      - Fastställa kodningspolicyer och kodningens kvalitetsprogram, i linje med nationella och internationella standarder.
+      - Hålla kodningsbudgeten och planera bemanningen, inklusive rekrytering, utbildning och ackreditering.
+      - Ge seniora ledare råd om hur kodning påverkar finansiering, indikatorer för dödlighet och utfall samt publicerade data.
+      - Leda införandet av ny kodningsteknik, såsom datorstödd kodning och terminologimappning, tillsammans med kollegor inom klinisk säkerhet och informationsstyrning.
+      - Stödja välmåendet hos kodare som regelbundet läser plågsamma journaler.
+    qualifications:
+      - En erkänd kvalifikation i klinisk kodning och omfattande erfarenhet av kodning, revision och att leda kodare, eller motsvarande erfarenhet.

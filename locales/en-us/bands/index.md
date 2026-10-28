@@ -26,7 +26,7 @@
 | --- | --- |
 | [Administrative assistant](../roles/administrator/#band-2-administrative-assistant) | Corporate services |
 | [Finance assistant](../roles/finance-officer/#band-2-finance-assistant) | Finance |
-| [Records assistant](../roles/health-records-officer/#band-2-records-assistant) | Information governance |
+| [Records assistant](../roles/records-officer/#band-2-records-assistant) | Information governance |
 
 ## Band 3
 
@@ -45,10 +45,10 @@
 | [Trainee clinical coder](../roles/clinical-coder/#band-3-trainee-clinical-coder) | Data |
 | [Finance officer](../roles/finance-officer/#band-3-finance-officer) | Finance |
 | [Payroll officer](../roles/payroll-officer/#band-3-payroll-officer) | Finance |
-| [HR assistant](../roles/human-resources-officer/#band-3-hr-assistant) | Human resources |
+| [HR assistant](../roles/hr-officer/#band-3-hr-assistant) | Human resources |
 | [Recruitment assistant](../roles/recruitment-officer/#band-3-recruitment-assistant) | Human resources |
 | [Service desk analyst](../roles/service-desk-analyst/#band-3-service-desk-analyst) | IT operations |
-| [Records officer](../roles/health-records-officer/#band-3-records-officer) | Information governance |
+| [Records officer](../roles/records-officer/#band-3-records-officer) | Information governance |
 | [Legal administrator](../roles/legal-assistant/#band-3-legal-administrator) | Legal |
 | [Procurement assistant](../roles/procurement-officer/#band-3-procurement-assistant) | Procurement and commercial |
 
@@ -74,7 +74,7 @@
 | [Trainee data scientist](../roles/data-scientist/#band-4-trainee-data-scientist) | Data |
 | [Senior finance officer](../roles/finance-officer/#band-4-senior-finance-officer) | Finance |
 | [Senior payroll officer](../roles/payroll-officer/#band-4-senior-payroll-officer) | Finance |
-| [HR officer](../roles/human-resources-officer/#band-4-hr-officer) | Human resources |
+| [HR officer](../roles/hr-officer/#band-4-hr-officer) | Human resources |
 | [Learning and development coordinator](../roles/learning-and-development-specialist/#band-4-learning-and-development-coordinator) | Human resources |
 | [Recruitment officer](../roles/recruitment-officer/#band-4-recruitment-officer) | Human resources |
 | [Associate application operations engineer](../roles/application-operations-engineer/#band-4-associate-application-operations-engineer) | IT operations |
@@ -84,7 +84,7 @@
 | [IT service analyst](../roles/it-service-manager/#band-4-it-service-analyst) | IT operations |
 | [Technical service desk analyst](../roles/service-desk-analyst/#band-4-technical-service-desk-analyst) | IT operations |
 | [Information governance officer](../roles/information-governance-officer/#band-4-information-governance-officer) | Information governance |
-| [Senior records officer](../roles/health-records-officer/#band-4-senior-records-officer) | Information governance |
+| [Senior records officer](../roles/records-officer/#band-4-senior-records-officer) | Information governance |
 | [Legal assistant](../roles/legal-assistant/#band-4-legal-assistant) | Legal |
 | [Buyer](../roles/procurement-officer/#band-4-buyer) | Procurement and commercial |
 | [Trainee business analyst](../roles/business-analyst/#band-4-trainee-business-analyst) | Product and delivery |
@@ -93,10 +93,10 @@
 | [Apprentice DevOps engineer](../roles/devops-engineer/#band-4-apprentice-devops-engineer) | Software development |
 | [Apprentice frontend developer](../roles/frontend-developer/#band-4-apprentice-frontend-developer) | Software development |
 | [Apprentice software developer](../roles/software-developer/#band-4-apprentice-software-developer) | Software development |
-| [Associate content designer](../roles/content-designer/#band-4-associate-content-designer) | User-centred design |
-| [Associate interaction designer](../roles/interaction-designer/#band-4-associate-interaction-designer) | User-centred design |
-| [Associate service designer](../roles/service-designer/#band-4-associate-service-designer) | User-centred design |
-| [Associate user researcher](../roles/user-researcher/#band-4-associate-user-researcher) | User-centred design |
+| [Associate content designer](../roles/content-designer/#band-4-associate-content-designer) | User-centered design |
+| [Associate interaction designer](../roles/interaction-designer/#band-4-associate-interaction-designer) | User-centered design |
+| [Associate service designer](../roles/service-designer/#band-4-associate-service-designer) | User-centered design |
+| [Associate user researcher](../roles/user-researcher/#band-4-associate-user-researcher) | User-centered design |
 
 ## Band 5
 
@@ -114,7 +114,7 @@
 | [PMO analyst](../roles/project-support-officer/#band-5-pmo-analyst) | Corporate services |
 | [Senior communications officer](../roles/communications-officer/#band-5-senior-communications-officer) | Corporate services |
 | [Senior executive assistant](../roles/executive-assistant/#band-5-senior-executive-assistant) | Corporate services |
-| [Junior security operations analyst](../roles/security-operations-analyst/#band-5-junior-security-operations-analyst) | Cyber security |
+| [Junior security operations analyst](../roles/security-analyst/#band-5-junior-security-operations-analyst) | Cyber security |
 | [Associate data analyst](../roles/data-analyst/#band-5-associate-data-analyst) | Data |
 | [Associate data scientist](../roles/data-scientist/#band-5-associate-data-scientist) | Data |
 | [Senior clinical coder](../roles/clinical-coder/#band-5-senior-clinical-coder) | Data |
@@ -123,7 +123,7 @@
 | [Trainee financial accountant](../roles/financial-accountant/#band-5-trainee-financial-accountant) | Finance |
 | [Trainee management accountant](../roles/management-accountant/#band-5-trainee-management-accountant) | Finance |
 | [Digital talent partner](../roles/recruitment-officer/#band-5-digital-talent-partner) | Human resources |
-| [HR adviser](../roles/human-resources-officer/#band-5-hr-adviser) | Human resources |
+| [HR adviser](../roles/hr-officer/#band-5-hr-adviser) | Human resources |
 | [Learning and development officer](../roles/learning-and-development-specialist/#band-5-learning-and-development-officer) | Human resources |
 | [Application operations engineer](../roles/application-operations-engineer/#band-5-application-operations-engineer) | IT operations |
 | [Change and release analyst](../roles/change-and-release-manager/#band-5-change-and-release-analyst) | IT operations |
@@ -131,7 +131,7 @@
 | [Incident manager](../roles/incident-manager/#band-5-incident-manager) | IT operations |
 | [Problem analyst](../roles/problem-manager/#band-5-problem-analyst) | IT operations |
 | [Senior service desk analyst](../roles/service-desk-analyst/#band-5-senior-service-desk-analyst) | IT operations |
-| [Health records manager](../roles/health-records-officer/#band-5-health-records-manager) | Information governance |
+| [Health records manager](../roles/records-officer/#band-5-health-records-manager) | Information governance |
 | [Senior information governance officer](../roles/information-governance-officer/#band-5-senior-information-governance-officer) | Information governance |
 | [Paralegal](../roles/legal-assistant/#band-5-paralegal) | Legal |
 | [Procurement officer](../roles/procurement-officer/#band-5-procurement-officer) | Procurement and commercial |
@@ -142,13 +142,13 @@
 | [Quality assurance test analyst](../roles/quality-assurance-test-analyst/#band-5-quality-assurance-test-analyst) | Quality assurance testing |
 | [Junior DevOps engineer](../roles/devops-engineer/#band-5-junior-devops-engineer) | Software development |
 | [Junior frontend developer](../roles/frontend-developer/#band-5-junior-frontend-developer) | Software development |
-| [Junior integration engineer](../roles/integration-engineer-health-interoperability/#band-5-junior-integration-engineer) | Software development |
+| [Junior integration engineer](../roles/integration-engineer/#band-5-junior-integration-engineer) | Software development |
 | [Junior software developer](../roles/software-developer/#band-5-junior-software-developer) | Software development |
-| [Junior accessibility specialist](../roles/accessibility-specialist/#band-5-junior-accessibility-specialist) | User-centred design |
-| [Junior content designer](../roles/content-designer/#band-5-junior-content-designer) | User-centred design |
-| [Junior interaction designer](../roles/interaction-designer/#band-5-junior-interaction-designer) | User-centred design |
-| [Junior service designer](../roles/service-designer/#band-5-junior-service-designer) | User-centred design |
-| [Junior user researcher](../roles/user-researcher/#band-5-junior-user-researcher) | User-centred design |
+| [Junior accessibility specialist](../roles/accessibility-specialist/#band-5-junior-accessibility-specialist) | User-centered design |
+| [Junior content designer](../roles/content-designer/#band-5-junior-content-designer) | User-centered design |
+| [Junior interaction designer](../roles/interaction-designer/#band-5-junior-interaction-designer) | User-centered design |
+| [Junior service designer](../roles/service-designer/#band-5-junior-service-designer) | User-centered design |
+| [Junior user researcher](../roles/user-researcher/#band-5-junior-user-researcher) | User-centered design |
 
 ## Band 6
 
@@ -171,7 +171,7 @@
 | [PMO manager](../roles/project-support-officer/#band-6-pmo-manager) | Corporate services |
 | [Senior governance and risk officer](../roles/governance-and-risk-manager/#band-6-senior-governance-and-risk-officer) | Corporate services |
 | [Security engineer](../roles/security-engineer/#band-6-security-engineer) | Cyber security |
-| [Security operations analyst](../roles/security-operations-analyst/#band-6-security-operations-analyst) | Cyber security |
+| [Security operations analyst](../roles/security-analyst/#band-6-security-operations-analyst) | Cyber security |
 | [Analytics engineer](../roles/analytics-engineer/#band-6-analytics-engineer) | Data |
 | [Clinical coding auditor and trainer](../roles/clinical-coder/#band-6-clinical-coding-auditor-and-trainer) | Data |
 | [Data analyst](../roles/data-analyst/#band-6-data-analyst) | Data |
@@ -183,7 +183,7 @@
 | [Payroll manager](../roles/payroll-officer/#band-6-payroll-manager) | Finance |
 | [Learning and development specialist](../roles/learning-and-development-specialist/#band-6-learning-and-development-specialist) | Human resources |
 | [Recruitment manager](../roles/recruitment-officer/#band-6-recruitment-manager) | Human resources |
-| [Senior HR adviser](../roles/human-resources-officer/#band-6-senior-hr-adviser) | Human resources |
+| [Senior HR adviser](../roles/hr-officer/#band-6-senior-hr-adviser) | Human resources |
 | [Change and release manager](../roles/change-and-release-manager/#band-6-change-and-release-manager) | IT operations |
 | [IT service manager](../roles/it-service-manager/#band-6-it-service-manager) | IT operations |
 | [Infrastructure engineer](../roles/infrastructure-engineer/#band-6-infrastructure-engineer) | IT operations |
@@ -201,20 +201,20 @@
 | [Test engineer](../roles/test-engineer/#band-6-test-engineer) | Quality assurance testing |
 | [DevOps engineer](../roles/devops-engineer/#band-6-devops-engineer) | Software development |
 | [Frontend developer](../roles/frontend-developer/#band-6-frontend-developer) | Software development |
-| [Integration engineer](../roles/integration-engineer-health-interoperability/#band-6-integration-engineer) | Software development |
+| [Integration engineer](../roles/integration-engineer/#band-6-integration-engineer) | Software development |
 | [Software developer](../roles/software-developer/#band-6-software-developer) | Software development |
-| [Accessibility specialist](../roles/accessibility-specialist/#band-6-accessibility-specialist) | User-centred design |
-| [Content designer](../roles/content-designer/#band-6-content-designer) | User-centred design |
-| [Interaction designer](../roles/interaction-designer/#band-6-interaction-designer) | User-centred design |
-| [Service designer](../roles/service-designer/#band-6-service-designer) | User-centred design |
-| [User researcher](../roles/user-researcher/#band-6-user-researcher) | User-centred design |
+| [Accessibility specialist](../roles/accessibility-specialist/#band-6-accessibility-specialist) | User-centered design |
+| [Content designer](../roles/content-designer/#band-6-content-designer) | User-centered design |
+| [Interaction designer](../roles/interaction-designer/#band-6-interaction-designer) | User-centered design |
+| [Service designer](../roles/service-designer/#band-6-service-designer) | User-centered design |
+| [User researcher](../roles/user-researcher/#band-6-user-researcher) | User-centered design |
 
 ## Band 7
 
 *Senior or specialist. SFIA level 5. Job evaluation points 466–539.*
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -230,7 +230,7 @@
 | [Communications manager](../roles/communications-officer/#band-7-communications-manager) | Corporate services |
 | [Governance and risk manager](../roles/governance-and-risk-manager/#band-7-governance-and-risk-manager) | Corporate services |
 | [Senior security engineer](../roles/security-engineer/#band-7-senior-security-engineer) | Cyber security |
-| [Senior security operations analyst](../roles/security-operations-analyst/#band-7-senior-security-operations-analyst) | Cyber security |
+| [Senior security operations analyst](../roles/security-analyst/#band-7-senior-security-operations-analyst) | Cyber security |
 | [Clinical coding manager](../roles/clinical-coder/#band-7-clinical-coding-manager) | Data |
 | [Data governance manager](../roles/data-governance-manager/#band-7-data-governance-manager) | Data |
 | [Principal data scientist](../roles/data-scientist/#band-7-principal-data-scientist) | Data |
@@ -242,7 +242,7 @@
 | [Senior financial accountant](../roles/financial-accountant/#band-7-senior-financial-accountant) | Finance |
 | [Senior management accountant](../roles/management-accountant/#band-7-senior-management-accountant) | Finance |
 | [Digital skills lead](../roles/learning-and-development-specialist/#band-7-digital-skills-lead) | Human resources |
-| [HR business partner](../roles/human-resources-business-partner/#band-7-hr-business-partner) | Human resources |
+| [HR business partner](../roles/hr-business-partner/#band-7-hr-business-partner) | Human resources |
 | [Head of service desk](../roles/service-desk-analyst/#band-7-head-of-service-desk) | IT operations |
 | [Lead application operations engineer](../roles/application-operations-engineer/#band-7-lead-application-operations-engineer) | IT operations |
 | [Lead end user computing engineer](../roles/end-user-computing-engineer/#band-7-lead-end-user-computing-engineer) | IT operations |
@@ -260,20 +260,20 @@
 | [Test manager](../roles/test-manager/#band-7-test-manager) | Quality assurance testing |
 | [Senior DevOps engineer](../roles/devops-engineer/#band-7-senior-devops-engineer) | Software development |
 | [Senior frontend developer](../roles/frontend-developer/#band-7-senior-frontend-developer) | Software development |
-| [Senior integration engineer](../roles/integration-engineer-health-interoperability/#band-7-senior-integration-engineer) | Software development |
+| [Senior integration engineer](../roles/integration-engineer/#band-7-senior-integration-engineer) | Software development |
 | [Senior software developer](../roles/software-developer/#band-7-senior-software-developer) | Software development |
-| [Senior accessibility specialist](../roles/accessibility-specialist/#band-7-senior-accessibility-specialist) | User-centred design |
-| [Senior content designer](../roles/content-designer/#band-7-senior-content-designer) | User-centred design |
-| [Senior interaction designer](../roles/interaction-designer/#band-7-senior-interaction-designer) | User-centred design |
-| [Senior service designer](../roles/service-designer/#band-7-senior-service-designer) | User-centred design |
-| [Senior user researcher](../roles/user-researcher/#band-7-senior-user-researcher) | User-centred design |
+| [Senior accessibility specialist](../roles/accessibility-specialist/#band-7-senior-accessibility-specialist) | User-centered design |
+| [Senior content designer](../roles/content-designer/#band-7-senior-content-designer) | User-centered design |
+| [Senior interaction designer](../roles/interaction-designer/#band-7-senior-interaction-designer) | User-centered design |
+| [Senior service designer](../roles/service-designer/#band-7-senior-service-designer) | User-centered design |
+| [Senior user researcher](../roles/user-researcher/#band-7-senior-user-researcher) | User-centered design |
 
 ## Band 8a
 
 *Lead. SFIA level 5-6. Job evaluation points 540–584.*
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -298,7 +298,7 @@
 | [Finance business partner](../roles/management-accountant/#band-8a-finance-business-partner) | Finance |
 | [Financial accounting manager](../roles/financial-accountant/#band-8a-financial-accounting-manager) | Finance |
 | [Head of learning](../roles/learning-and-development-specialist/#band-8a-head-of-learning) | Human resources |
-| [Senior HR business partner](../roles/human-resources-business-partner/#band-8a-senior-hr-business-partner) | Human resources |
+| [Senior HR business partner](../roles/hr-business-partner/#band-8a-senior-hr-business-partner) | Human resources |
 | [Lead infrastructure engineer](../roles/infrastructure-engineer/#band-8a-lead-infrastructure-engineer) | IT operations |
 | [Deputy data protection officer](../roles/data-protection-officer/#band-8a-deputy-data-protection-officer) | Information governance |
 | [Head of information governance](../roles/information-governance-officer/#band-8a-head-of-information-governance) | Information governance |
@@ -312,7 +312,7 @@
 | [Senior product manager](../roles/product-manager/#band-8a-senior-product-manager) | Product and delivery |
 | [Lead quality assurance test analyst](../roles/quality-assurance-test-analyst/#band-8a-lead-quality-assurance-test-analyst) | Quality assurance testing |
 | [Lead test engineer](../roles/test-engineer/#band-8a-lead-test-engineer) | Quality assurance testing |
-| [Lead integration engineer](../roles/integration-engineer-health-interoperability/#band-8a-lead-integration-engineer) | Software development |
+| [Lead integration engineer](../roles/integration-engineer/#band-8a-lead-integration-engineer) | Software development |
 | [Lead software developer](../roles/software-developer/#band-8a-lead-software-developer) | Software development |
 
 ## Band 8b
@@ -345,7 +345,7 @@
 | [Principal data analyst](../roles/data-analyst/#band-8b-principal-data-analyst) | Data |
 | [Head of financial accounts](../roles/financial-accountant/#band-8b-head-of-financial-accounts) | Finance |
 | [Head of management accounts](../roles/management-accountant/#band-8b-head-of-management-accounts) | Finance |
-| [Head of HR business partnering](../roles/human-resources-business-partner/#band-8b-head-of-hr-business-partnering) | Human resources |
+| [Head of HR business partnering](../roles/hr-business-partner/#band-8b-head-of-hr-business-partnering) | Human resources |
 | [Head of IT service management](../roles/it-service-manager/#band-8b-head-of-it-service-management) | IT operations |
 | [Principal application operations engineer](../roles/application-operations-engineer/#band-8b-principal-application-operations-engineer) | IT operations |
 | [Principal end user computing engineer](../roles/end-user-computing-engineer/#band-8b-principal-end-user-computing-engineer) | IT operations |
@@ -356,22 +356,22 @@
 | [Senior category manager](../roles/category-manager/#band-8b-senior-category-manager) | Procurement and commercial |
 | [Head of project management](../roles/project-manager/#band-8b-head-of-project-management) | Product and delivery |
 | [Lead product manager](../roles/product-manager/#band-8b-lead-product-manager) | Product and delivery |
-| [Programme delivery manager](../roles/programme-delivery-manager/#band-8b-programme-delivery-manager) | Product and delivery |
+| [Program delivery manager](../roles/programme-delivery-manager/#band-8b-program-delivery-manager) | Product and delivery |
 | [Service owner](../roles/service-owner/#band-8b-service-owner) | Product and delivery |
 | [Lead DevOps engineer](../roles/devops-engineer/#band-8b-lead-devops-engineer) | Software development |
 | [Lead frontend developer](../roles/frontend-developer/#band-8b-lead-frontend-developer) | Software development |
 | [Principal software developer](../roles/software-developer/#band-8b-principal-software-developer) | Software development |
-| [Head of accessibility](../roles/accessibility-specialist/#band-8b-head-of-accessibility) | User-centred design |
-| [Lead content designer](../roles/content-designer/#band-8b-lead-content-designer) | User-centred design |
-| [Lead interaction designer](../roles/interaction-designer/#band-8b-lead-interaction-designer) | User-centred design |
-| [Lead service designer](../roles/service-designer/#band-8b-lead-service-designer) | User-centred design |
-| [Lead user researcher](../roles/user-researcher/#band-8b-lead-user-researcher) | User-centred design |
+| [Head of accessibility](../roles/accessibility-specialist/#band-8b-head-of-accessibility) | User-centered design |
+| [Lead content designer](../roles/content-designer/#band-8b-lead-content-designer) | User-centered design |
+| [Lead interaction designer](../roles/interaction-designer/#band-8b-lead-interaction-designer) | User-centered design |
+| [Lead service designer](../roles/service-designer/#band-8b-lead-service-designer) | User-centered design |
+| [Lead user researcher](../roles/user-researcher/#band-8b-lead-user-researcher) | User-centered design |
 
 ## Band 8c
 
 *Senior lead. SFIA level 6. Job evaluation points 630–674.*
 
-- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Knowledge:** Expert knowledge, and wide organizational and sector understanding.
 - **Autonomy:** Sets strategy for a function; accountable to a director.
 - **Scope:** A function or department.
 - **Leadership:** Leads a function through several management layers.
@@ -391,29 +391,29 @@
 | [Financial controller](../roles/head-of-finance/#band-8c-financial-controller) | Finance |
 | [Head of HR](../roles/head-of-people/#band-8c-head-of-hr) | Human resources |
 | [Senior data protection officer](../roles/data-protection-officer/#band-8c-senior-data-protection-officer) | Information governance |
-| [Deputy head of legal services](../roles/head-of-legal-services/#band-8c-deputy-head-of-legal-services) | Legal |
+| [Deputy head of legal services](../roles/head-of-legal/#band-8c-deputy-head-of-legal-services) | Legal |
 | [Head of category](../roles/category-manager/#band-8c-head-of-category) | Procurement and commercial |
 | [Head of procurement](../roles/head-of-procurement/#band-8c-head-of-procurement) | Procurement and commercial |
 | [Head of business analysis](../roles/business-analyst/#band-8c-head-of-business-analysis) | Product and delivery |
 | [Head of delivery management](../roles/delivery-manager/#band-8c-head-of-delivery-management) | Product and delivery |
 | [Head of digital portfolio](../roles/digital-portfolio-manager/#band-8c-head-of-digital-portfolio) | Product and delivery |
 | [Head of product](../roles/product-manager/#band-8c-head-of-product) | Product and delivery |
-| [Senior programme delivery manager](../roles/programme-delivery-manager/#band-8c-senior-programme-delivery-manager) | Product and delivery |
+| [Senior program delivery manager](../roles/programme-delivery-manager/#band-8c-senior-program-delivery-manager) | Product and delivery |
 | [Senior service owner](../roles/service-owner/#band-8c-senior-service-owner) | Product and delivery |
 | [Head of test](../roles/test-manager/#band-8c-head-of-test) | Quality assurance testing |
 | [Head of frontend development](../roles/frontend-developer/#band-8c-head-of-frontend-development) | Software development |
 | [Principal DevOps engineer](../roles/devops-engineer/#band-8c-principal-devops-engineer) | Software development |
-| [Head of content design](../roles/content-designer/#band-8c-head-of-content-design) | User-centred design |
-| [Head of interaction design](../roles/interaction-designer/#band-8c-head-of-interaction-design) | User-centred design |
-| [Head of service design](../roles/service-designer/#band-8c-head-of-service-design) | User-centred design |
-| [Head of user research](../roles/user-researcher/#band-8c-head-of-user-research) | User-centred design |
+| [Head of content design](../roles/content-designer/#band-8c-head-of-content-design) | User-centered design |
+| [Head of interaction design](../roles/interaction-designer/#band-8c-head-of-interaction-design) | User-centered design |
+| [Head of service design](../roles/service-designer/#band-8c-head-of-service-design) | User-centered design |
+| [Head of user research](../roles/user-researcher/#band-8c-head-of-user-research) | User-centered design |
 
 ## Band 8d
 
 *Senior lead. SFIA level 6-7. Job evaluation points 675–720.*
 
 - **Knowledge:** Strategic knowledge across functions and the wider health and care system.
-- **Autonomy:** Shapes organization-wide strategy; deputizes for a director.
+- **Autonomy:** Shapes organization-wide strategy; deputises for a director.
 - **Scope:** A major function or several functions.
 - **Leadership:** Leads several functions or a large department.
 - **Accountability:** Major functions, large budgets, and organization-wide risks.
@@ -426,7 +426,7 @@
 | [Chief information security officer](../roles/cyber-security-manager/#band-8d-chief-information-security-officer) | Cyber security |
 | [Deputy director of finance](../roles/head-of-finance/#band-8d-deputy-director-of-finance) | Finance |
 | [Deputy director of people](../roles/head-of-people/#band-8d-deputy-director-of-people) | Human resources |
-| [Head of legal services](../roles/head-of-legal-services/#band-8d-head-of-legal-services) | Legal |
+| [Head of legal services](../roles/head-of-legal/#band-8d-head-of-legal-services) | Legal |
 | [Head of commercial](../roles/head-of-procurement/#band-8d-head-of-commercial) | Procurement and commercial |
 
 ## Band 9
@@ -444,11 +444,11 @@
 | [Chief clinical information officer](../roles/chief-clinical-information-officer/#band-9-chief-clinical-information-officer) | Clinical informatics and clinical safety |
 | [Director of finance](../roles/head-of-finance/#band-9-director-of-finance) | Finance |
 | [Director of people](../roles/head-of-people/#band-9-director-of-people) | Human resources |
-| [General counsel](../roles/head-of-legal-services/#band-9-general-counsel) | Legal |
+| [General counsel](../roles/head-of-legal/#band-9-general-counsel) | Legal |
 | [Director of procurement and commercial](../roles/head-of-procurement/#band-9-director-of-procurement-and-commercial) | Procurement and commercial |
 
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

@@ -1,0 +1,56 @@
+summary: >
+  Staf rekam kesehatan memastikan rekam pasien dan korporat dibuat, disimpan, dilacak, diambil, dan dimusnahkan dengan benar, baik dalam bentuk kertas maupun dalam sistem digital. Mereka menjaga rekam tersedia untuk perawatan, melindunginya dari kehilangan dan akses tanpa izin, dan mendukung peralihan dari rekam kertas ke digital.
+health_context:
+  - Rekam pasien harus tersedia ketika tenaga klinis membutuhkannya, sehingga keterlambatan atau rekam yang hilang dapat langsung memengaruhi perawatan.
+  - Rekam memuat informasi yang sangat rahasia, sehingga staf mengikuti aturan kerahasiaan dan akses yang ketat dan mungkin secara teratur membaca isi yang menyedihkan.
+  - Sebagian besar organisasi menyimpan rekam kertas dan digital, sehingga peran ini mencakup pemindaian, pengindeksan, dan pengelolaan rekam hibrida.
+  - Rekam harus disimpan selama jangka waktu tertentu menurut jadwal retensi lalu diarsipkan atau dimusnahkan dengan aman, dengan jejak audit.
+  - Tim rekam sering memproses permintaan akses ke rekam kesehatan, yang memiliki batas waktu hukum.
+levels:
+  - title: Asisten rekam
+    summary: Mengarsipkan, mengambil, melacak, memindai, dan menyiapkan rekam, mengikuti prosedur yang ditetapkan dengan penyelia di dekatnya.
+    responsibilities:
+      - Mengarsipkan, mengambil, dan melacak rekam kertas, dan menyiapkannya untuk klinik dan permintaan.
+      - Memindai dan mengindeks rekam ke dalam sistem rekam elektronik, memeriksa kualitasnya.
+      - Memasukkan dan memperbarui rincian rekam secara akurat dalam sistem pelacakan.
+      - Menjaga rekam tetap aman dan segera melaporkan rekam yang hilang atau pelanggaran apa pun.
+      - Memindahkan dan menyimpan rekam dengan aman, termasuk kotak dan troli catatan kasus.
+    qualifications:
+      - Kemampuan baca-tulis, berhitung, dan papan ketik yang baik.
+    job_evaluation_notes: Keterampilan fisik dinilai di tingkat 3 untuk pemindaian dan entri data yang cepat dan akurat. Upaya fisik mencerminkan seringnya memindahkan rekam.
+  - title: Petugas rekam
+    summary: Menangani berbagai proses rekam, sebagian tidak rutin, seperti menelusuri rekam yang hilang, menyiapkan rekam untuk permintaan akses, dan menerapkan jadwal retensi.
+    responsibilities:
+      - Menelusuri rekam yang hilang dan menyelesaikan masalah pelacakan.
+      - Menyiapkan rekam untuk permintaan akses, memeriksa bahwa rekam lengkap sebelum ditinjau.
+      - Menerapkan jadwal retensi dan menyiapkan rekam untuk diarsipkan atau dimusnahkan dengan aman.
+      - Memeriksa kualitas rekam yang dipindai dan memperbaiki kesalahan pengindeksan.
+      - Menjawab pertanyaan dari tenaga klinis, tenaga perawatan, dan pasien tentang rekam.
+      - Menunjukkan kepada asisten rekam baru cara mengikuti prosedur.
+    qualifications:
+      - Pengalaman dalam pekerjaan rekam atau administrasi, atau kualifikasi tingkat 3 di bidang administrasi bisnis atau pengalaman yang setara.
+    job_evaluation_notes: Upaya emosional mencerminkan seringnya paparan tidak langsung terhadap isi yang menyedihkan dalam rekam kesehatan.
+  - title: Petugas rekam senior
+    summary: Menyelia tim rekam sehari-hari dan menjalankan proses rekam seperti permintaan akses, audit, dan tinjauan retensi.
+    responsibilities:
+      - Menyelia staf rekam sehari-hari, membagi pekerjaan dan memeriksa mutu.
+      - Memproses permintaan akses ke rekam kesehatan dalam batas waktu hukum, di bawah bimbingan rekan tata kelola informasi.
+      - Menjalankan audit pencatatan dan pelacakan dan melaporkan hasilnya.
+      - Menjaga sistem pelacakan rekam dan rekam elektronik tetap akurat dan mutakhir.
+      - Melatih staf dalam prosedur rekam dan kerahasiaan.
+      - Menyelidiki rekam yang hilang dan insiden lain, dan merekomendasikan perbaikan.
+    qualifications:
+      - Pengalaman yang substansial dalam pekerjaan rekam kesehatan, atau kualifikasi yang relevan setingkat diploma atau pengalaman yang setara.
+  - title: Manajer rekam kesehatan
+    summary: Mengelola layanan rekam kesehatan, staf, sistem, dan prosedurnya, dan memimpin perbaikan, termasuk peralihan dari rekam kertas ke digital.
+    responsibilities:
+      - Mengelola layanan rekam kesehatan, stafnya, dan kinerjanya.
+      - Menulis dan memelihara prosedur rekam, sesuai dengan kebijakan dan standar manajemen rekam.
+      - Mengelola sistem pelacakan rekam dan rekam elektronik untuk beberapa layanan.
+      - Memimpin proyek pemindaian dan digitalisasi serta peralihan ke rekam digital.
+      - Menjalankan program retensi dan pemusnahan serta audit rekam.
+      - Menasihati tenaga klinis, manajer, dan rekan tata kelola informasi tentang manajemen rekam.
+    qualifications:
+      - Gelar atau kualifikasi profesional dalam manajemen rekam atau informasi, atau pengalaman yang setara.
+      - Pengalaman menyelia tim rekam.
+    job_evaluation_notes: Sumber daya informasi dinilai di tingkat 5 karena menjalankan sistem rekam untuk beberapa layanan adalah tugas utama.

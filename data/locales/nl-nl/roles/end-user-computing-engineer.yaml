@@ -1,0 +1,62 @@
+summary: Engineers werkplekomgeving leveren, ondersteunen en onderhouden de apparaten en software die personeel elke dag gebruikt, zoals laptops, desktops, tablets, mobiele telefoons, printers en de gedeelde werkstations op afdelingen en in klinieken. Zij herstellen storingen ter plaatse en op afstand, rollen apparaten uit en werken ze bij en houden ze veilig en conform. Dankzij hun werk kunnen clinici en zorgpersoneel patiëntinformatie op de plek van zorg zien en vastleggen.
+health_context:
+- Veel apparaten worden gedeeld door klinisch personeel op afdelingen, in klinieken en op spoedeisende hulp, vaak met snel wisselen van gebruiker en inloggen met een smartcard of tap-in.
+- Een kapot apparaat in een klinisch gebied kan de zorg vertragen, dus engineers geven deze storingen voorrang en houden reserveapparaten klaar om te wisselen.
+- Engineers werken in klinische gebieden, dus zij volgen regels voor infectiepreventie en -beheersing, respecteren de privacy en waardigheid van patiënten en passen hun werk in rond klinische activiteit.
+- Apparaten bevatten of tonen vertrouwelijke patiëntinformatie, dus ze moeten worden versleuteld, gepatcht en beheerd en aan het einde van hun leven veilig gewist of vernietigd.
+- Sommige randapparatuur ondersteunt klinische processen of is verbonden met klinische apparatuur, zoals printers voor polsbandjes en etiketten, barcodescanners en dicteerapparaten, dus wijzigingen eraan vragen zorg en testen.
+levels:
+- title: Associate engineer werkplekomgeving
+  responsibilities:
+  - Onder leiding van ervaren engineers apparaten en randapparatuur opzetten, vervangen en repareren.
+  - Veelvoorkomende storingen in klinische gebieden en kantoren oplossen, zoals problemen met printers, scanners en inloggen.
+  - De regels voor infectiepreventie en -beheersing volgen en de privacy van patiënten respecteren bij werk op afdelingen en in klinieken.
+  - Werk, bezittingen en onderdelen nauwkeurig vastleggen in het instrument voor servicemanagement.
+  - Werken aan een leerwerktraject in IT-ondersteuning of een gelijkwaardige kwalificatie.
+  qualifications:
+  - Ingeschreven voor, of werkend aan, een leerwerktraject in IT-ondersteuning of gelijkwaardig.
+  job_evaluation_notes: Lichamelijke inspanning weerspiegelt regelmatig lichte inspanning, zoals het dragen van apparaten en het werken onder bureaus en in kleine ruimtes. Kennis wordt gescoord op het niveau dat de functie vraagt zodra de training ver genoeg is gevorderd om het werk te doen.
+- title: Engineer werkplekomgeving
+  responsibilities:
+  - Storingen in hardware en software ter plaatse en op afstand diagnosticeren en oplossen, met als doel ze bij het eerste bezoek op te lossen.
+  - Snel reageren op storingen in klinische gebieden en een vervangend apparaat leveren wanneer een reparatie de zorg zou vertragen.
+  - Apparaten bouwen, implementeren en bijwerken met de standaardimages en instrumenten voor apparaatbeheer van de organisatie.
+  - Apparaten gepatcht, versleuteld en conform houden en ze aan het einde van hun leven veilig wissen of afvoeren.
+  - Klinische randapparatuur, zoals printers voor polsbandjes, etikettenprinters en barcodescanners, configureren en testen.
+  - Associate engineers coachen en oplossingen delen via kennisartikelen.
+  qualifications:
+  - Een kwalificatie op niveau 3 of hoger in IT, een voltooid leerwerktraject, of gelijkwaardige ervaring.
+  - Ervaring met het ondersteunen van apparaten voor eindgebruikers.
+  job_evaluation_notes: Lichamelijke inspanning weerspiegelt regelmatig lichte inspanning bij het verplaatsen en installeren van apparaten op meerdere locaties.
+- title: Senior engineer werkplekomgeving
+  responsibilities:
+  - Dagelijks een team van engineers leiden en werk prioriteren naar het effect op de zorg voor patiënten en personeel.
+  - Uitrol en vervanging van apparaten voor afdelingen, klinieken en gemeenschapsteams plannen en uitvoeren, met zo min mogelijk verstoring van de zorg.
+  - Builds en updates van apparaten testen met klinische applicaties en randapparatuur voordat ze worden uitgerold.
+  - Zorgen dat apparaten voldoen aan beveiligingsnormen, inclusief patchniveaus, versleuteling en endpointbeveiliging.
+  - Go-lives van klinische systemen ondersteunen met meelopen op de vloer en snelle oplossingen voor apparaten.
+  - Met infrastructuur-, applicatie- en beveiligingsteams complexe en terugkerende storingen oplossen.
+  qualifications:
+  - Aanzienlijke ervaring met het ondersteunen en beheren van apparaten voor eindgebruikers, op een niveau gelijkwaardig aan een bachelor.
+  job_evaluation_notes: Verantwoordelijkheid voor mensen weerspiegelt het dagelijks leiden van een team van engineers; lichamelijke inspanning weerspiegelt enig voortgezet werk ter plaatse.
+- title: Lead engineer werkplekomgeving
+  responsibilities:
+  - De normen voor de apparaten, builds en software voor eindgebruikers van de organisatie vaststellen, inclusief gedeelde klinische werkstations.
+  - Leveranciers van apparaten, reparaties en diensten voor eindgebruikers beheren en hen aan afgesproken serviceniveaus houden.
+  - Met technisch architecten nieuwe typen apparaten kiezen en testen, zoals mobiele apparaten voor personeel op afdelingen en in de gemeenschap.
+  - De technische reactie op incidenten in de werkplekomgeving leiden, zoals een mislukte update die klinische werkstations raakt.
+  - De levenscyclus en capaciteit van apparaten plannen en adviseren over kosten van vervanging.
+  - Senior engineers leiden en ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met de werkplekomgeving, inclusief het beheren van leveranciers.
+- title: Principal engineer werkplekomgeving
+  responsibilities:
+  - Eigenaar zijn van de strategie en roadmap voor de werkplekomgeving, inclusief hoe personeel klinische systemen bereikt in ziekenhuizen, klinieken, de thuissituatie van patiënten en de gemeenschap.
+  - Zorgen dat het apparatenpark veilige, snelle toegang tot patiëntinformatie op de plek van zorg ondersteunt.
+  - Senior leiders adviseren over investeringen in apparaten, risico’s en de kosten van vervanging en nieuwe technologieën.
+  - De reactie op risico’s voor het hele apparatenpark leiden, zoals besturingssystemen die het einde van ondersteuning bereiken en weerbaarheid tegen ransomware.
+  - Leiding geven aan bezetting, leren en ontwikkeling voor teams voor de werkplekomgeving.
+  - Met partners in gezondheid en zorg samenwerken aan gedeelde normen voor apparaten en toegang.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van de werkplekomgeving voor een grote organisatie met meerdere locaties.
+  job_evaluation_notes: Het UK GDaD PCF stelt voor dit niveau Band 8c voor (G6). Deze referentie plaatst het op Band 8b, in lijn met principal-rollen in andere technische families, omdat de reikwijdte één technisch gebied is en geen directoraat.

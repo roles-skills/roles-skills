@@ -1,0 +1,46 @@
+# Icelandic translations of data/skills/data-testing.yaml. Keys are the English skill ids.
+data-ai-assurance:
+  name: Örugg og sanngjörn gervigreind í heilbrigðisþjónustu
+  description: Að tryggja að tölfræði-, vélnáms- og gervigreindarlíkön sem notuð eru í heilbrigðis- og velferðarþjónustu séu örugg, sanngjörn, útskýranleg og vöktuð, þar á meðal að athuga skekkju þvert á sjúklingahópa og uppfylla reglur um lækningatæki og gervigreind.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvernig líkan getur skaðað sjúklinga, til dæmis með skekkju, reki eða of mikilli treystingu á niðurstöðu þess
+      - útskýrt hvers vegna líkön þarf að sannreyna á þeim hópi sem þau verða notuð með
+    working: |
+      Þú getur:
+      - mælt frammistöðu líkans fyrir ólíka sjúklingahópa og skilað skýrslu um mun
+      - skjalfest fyrirhugaða notkun líkans, þjálfunargögn og þekkt takmörk, til dæmis í líkanaspjaldi
+      - lagt fram gögn um líkan fyrir klínískt öryggismál
+    practitioner: |
+      Þú getur:
+      - skipulagt sannreyningu, skekkjumat og lifandi vöktun líkans með klínísku samstarfsfólki
+      - ákveðið hvenær líkan þarf að þjálfa aftur, takmarka eða draga til baka
+      - ráðlagt teymum um hvenær líkan kann að vera lögbundið sem lækningatæki og hvaða gögn það þarf
+    expert: |
+      Þú getur:
+      - mótað staðla stofnunarinnar um fullvissu og vöktun gervigreindar í umönnun
+      - stýrt fullvissu líkana með mikla áhættu fyrir og eftir útsetningu
+      - verið fulltrúi stofnunarinnar gagnvart eftirlitsaðilum og samstarfsaðilum um örugga og sanngjarna gervigreind
+data-deidentification:
+  name: Gervinafnavæðing og afhjúpunarstýring
+  description: Að vernda trúnað sjúklinga þegar gögn eru tengd, greind, miðluð eða birt, með gervinafnavæðingu, nafnleynd, bælingu lítilla talna og öðrum tölfræðilegum aðferðum til afhjúpunarstýringar.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt muninn á persónugreinanlegum, gervinafnavæddum og nafnlausum gögnum
+      - fylgt reglum stofnunarinnar um bælingu lítilla talna í afurðum
+    working: |
+      Þú getur:
+      - unnið með gervinafnavædd gögn og beitt afhjúpunarathugunum áður en afurðir eru gefnar út
+      - greint hvenær tengd eða ítarleg gögn gætu persónugreint sjúkling
+    practitioner: |
+      Þú getur:
+      - hannað gervinafnavæðingar- og tengiaðferðir sem halda auðkennum aðskildum frá greiningargögnum
+      - metið endurpersónugreiningaráhættu gagnasafns eða útgáfu og valið hentugar stýringar
+      - ráðlagt teymum um örugg umhverfi, svo sem traust rannsóknarumhverfi
+    expert: |
+      Þú getur:
+      - mótað staðla stofnunarinnar um afpersónugreiningu og afhjúpunarstýringu
+      - tryggt útgáfu gagna og tengiverkefni með mikla áhættu
+      - stýrt vinnu með samstarfsaðilum um öruggan gagnaaðgang fyrir rannsóknir og skipulag

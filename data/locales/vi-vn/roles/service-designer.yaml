@@ -1,0 +1,61 @@
+summary: Nhà thiết kế dịch vụ thiết kế các dịch vụ y tế và chăm sóc đầu cuối, từ thời điểm ai đó lần đầu cần giúp đỡ đến khi kết thúc việc chăm sóc, trên các kênh số, điện thoại, giấy và trực tiếp. Họ làm việc với bệnh nhân, người chăm sóc, bác sĩ lâm sàng và nhân viên chăm sóc để vẽ sơ đồ cách các dịch vụ thực sự hoạt động, tìm nơi chúng làm con người thất vọng, và thiết kế các dịch vụ an toàn, đơn giản và công bằng, hoạt động vượt qua ranh giới tổ chức.
+health_context:
+- Các lộ trình chăm sóc vượt qua nhiều tổ chức và ngành nghề, nên nhà thiết kế dịch vụ vẽ sơ đồ toàn bộ hành trình, gồm việc bàn giao, thời gian chờ và công việc mà bệnh nhân và người chăm sóc làm để giữ việc chăm sóc liền mạch.
+- Những thay đổi về cách một dịch vụ hoạt động có thể tạo ra rủi ro lâm sàng mới, nên nhà thiết kế dịch vụ làm việc với cán bộ an toàn lâm sàng để nhận diện các mối nguy trong mô hình dịch vụ mới trước khi đưa vào vận hành.
+- Các dịch vụ số không được loại trừ những người không thể hoặc không muốn dùng chúng, nên nhà thiết kế dịch vụ thiết kế các đường được hỗ trợ và phi số song song với đường số.
+- Nhân viên lâm sàng và vận hành là một phần của dịch vụ, nên thiết kế phải phù hợp với quy trình làm việc, khối lượng công việc và trách nhiệm nghề nghiệp của họ, không chỉ hành trình của bệnh nhân.
+levels:
+- title: Nhà thiết kế dịch vụ trợ lý
+  responsibilities:
+  - Học các phương pháp thiết kế dịch vụ qua đào tạo và làm việc cạnh các nhà thiết kế có kinh nghiệm.
+  - Giúp vẽ sơ đồ hành trình người dùng và bản thiết kế dịch vụ từ nghiên cứu với bệnh nhân và nhân viên.
+  - Giúp chuẩn bị và tổ chức các buổi hội thảo đồng thiết kế, theo quy trình về sự đồng ý và quản trị thông tin.
+  - Ghi tài liệu các quyết định thiết kế và cập nhật các sản phẩm thiết kế.
+  qualifications:
+  - Đang hướng tới bằng cấp hoặc chương trình học nghề về thiết kế hoặc lĩnh vực liên quan, hoặc kinh nghiệm tương đương.
+- title: Nhà thiết kế dịch vụ sơ cấp
+  responsibilities:
+  - Vẽ sơ đồ các hành trình hiện tại và bản thiết kế dịch vụ cho các phần của một lộ trình chăm sóc, như đặt lịch hoặc theo dõi sau điều trị.
+  - Thiết kế và kiểm thử các cải tiến cho các phần của một dịch vụ, theo chỉ đạo của một nhà thiết kế cấp cao hơn.
+  - Tổ chức các buổi đồng thiết kế với bệnh nhân, người chăm sóc và nhân viên, điều chỉnh để mọi người đều có thể tham gia.
+  - Xác định nơi một dịch vụ tạo thêm công việc hoặc rủi ro cho bệnh nhân hoặc nhân viên, và nêu với nhóm.
+  qualifications:
+  - Có bằng đại học về thiết kế hoặc một ngành liên quan, hoặc kinh nghiệm tương đương.
+- title: Nhà thiết kế dịch vụ
+  responsibilities:
+  - Thiết kế các dịch vụ đầu cuối trên các kênh, gồm các đường được hỗ trợ và phi số cho những người cần.
+  - Vẽ sơ đồ các lộ trình chăm sóc giữa các tổ chức và thiết kế việc bàn giao tốt hơn giữa các nhóm và dịch vụ.
+  - Thiết kế cách dịch vụ vận hành đối với nhân viên, gồm vai trò, khối lượng công việc và quy trình làm việc, cùng các trưởng nhóm vận hành.
+  - Làm việc với cán bộ an toàn lâm sàng để nhận diện các mối nguy trong mô hình dịch vụ mới và thiết kế các biện pháp kiểm soát.
+  - Tạo nguyên mẫu và kiểm thử các thay đổi dịch vụ với bệnh nhân, người chăm sóc và nhân viên.
+  qualifications:
+  - Có bằng đại học về thiết kế hoặc một ngành liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm thiết kế các dịch vụ cùng người dùng.
+- title: Nhà thiết kế dịch vụ cao cấp
+  responsibilities:
+  - Dẫn dắt thiết kế các dịch vụ phức tạp trải rộng trên nhiều môi trường chăm sóc hoặc tổ chức.
+  - Định hình tầm nhìn dịch vụ cùng các lãnh đạo lâm sàng, vận hành và số.
+  - Thiết kế các mô hình dịch vụ mới cải thiện an toàn, khả năng tiếp cận và công bằng, và kiểm thử chúng với người dùng thật.
+  - Bảo đảm các thay đổi dịch vụ được đánh giá về tác động rủi ro lâm sàng, bình đẳng và quản trị thông tin.
+  - Kèm cặp các nhà thiết kế và đưa thực hành thiết kế dịch vụ vào các nhóm.
+  qualifications:
+  - Có kinh nghiệm dày dặn về thiết kế dịch vụ, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng nhóm thiết kế dịch vụ
+  responsibilities:
+  - Đề ra định hướng thiết kế cho nhiều dịch vụ hoặc toàn bộ một lộ trình chăm sóc, và bảo đảm chất lượng thiết kế trên các nhóm.
+  - Làm việc với các lãnh đạo lâm sàng và vận hành cấp cao để thiết kế lại cách chăm sóc được tổ chức và cung cấp.
+  - Bảo đảm thiết kế phù hợp với những người bị ảnh hưởng nhiều nhất bởi bất bình đẳng về sức khỏe và với nhân viên chịu áp lực.
+  - Đề ra tiêu chuẩn cho cách các nhóm thiết kế về an toàn lâm sàng và các đường được hỗ trợ.
+  - Quản lý trực tiếp và phát triển các nhà thiết kế dịch vụ.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt thiết kế dịch vụ trên các nhóm.
+  job_evaluation_notes: Không có cấp vai trò ở Bậc 8a, vì UK GDaD PCF xếp trưởng nhóm thiết kế dịch vụ ở ngạch G7 hoặc G6 và tài liệu tham khảo này theo Bậc 8b được đề xuất. Chính sách ở mức 5 vì nhà thiết kế trưởng nhóm định hình cách nhiều dịch vụ trong một ban hoạt động.
+- title: Trưởng bộ phận thiết kế dịch vụ
+  responsibilities:
+  - Dẫn dắt ngành thiết kế dịch vụ và đề ra chiến lược, tiêu chuẩn và cách làm việc của ngành.
+  - Tác động đến chiến lược tổ chức để các dịch vụ được thiết kế xoay quanh nhu cầu của bệnh nhân, người chăm sóc và nhân viên.
+  - Xây dựng năng lực thiết kế dịch vụ, kể cả tuyển dụng, lộ trình nghề nghiệp và đào tạo.
+  - Tạo điều kiện cho thiết kế tốt, như tiếp cận người dùng, thời gian nghiên cứu và đưa thiết kế vào quản trị.
+  - Làm việc với các đồng nghiệp trong hệ thống y tế và chăm sóc để thiết kế các dịch vụ liền mạch.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt thiết kế và một ngành thực hành thiết kế.

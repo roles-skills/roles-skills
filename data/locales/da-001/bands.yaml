@@ -1,0 +1,97 @@
+# Band outlines in Danish. Keys are the English band ids.
+"1":
+  title: Lønramme 1
+  stage: Indgangsniveau
+  knowledge: Grundlæggende læse-, skrive- og regnefærdigheder; lærer enkle rutineopgaver på jobbet.
+  autonomy: Følger klare instrukser; arbejdet kontrolleres ofte.
+  scope: Egne rutineopgaver.
+  leadership: Ingen.
+  accountability: Korrekt udførelse af rutineopgaver.
+"2":
+  title: Lønramme 2
+  stage: Støtte
+  knowledge: Kender arbejdsområdets rutiner og procedurer; kan have en uddannelse på indgangsniveau.
+  autonomy: Arbejder efter fastlagte procedurer, med mulighed for supervision.
+  scope: Egne opgaver i et team.
+  leadership: Kan vise nye medarbejdere rutineopgaver.
+  accountability: Kvalitet og rettidighed i eget rutinearbejde.
+"3":
+  title: Lønramme 3
+  stage: Støtte
+  knowledge: Kendskab til en række procedurer, nogle af dem uden for rutinen; typisk en uddannelse på niveau 3 eller tilsvarende erfaring.
+  autonomy: Arbejder inden for procedurer; beslutter selv, hvordan eget arbejde tilrettelægges; henviser problemer opad.
+  scope: Eget arbejde og nogle opgaver for det bredere team.
+  leadership: Kan fordele rutinearbejde eller oplære andre i procedurer.
+  accountability: Nøjagtighed i eget arbejde og i de førte registre.
+"4":
+  title: Lønramme 4
+  stage: Støtte og begynderpraktiker
+  knowledge: Detaljeret kendskab til arbejdsområdet, typisk fra en erhvervsakademiuddannelse, en lærlingeuddannelse eller tilsvarende erfaring.
+  autonomy: Arbejder inden for retningslinjer; løser de fleste daglige problemer; leder er til rådighed for rådgivning.
+  scope: Eget arbejde og en afgrænset service eller proces.
+  leadership: Kan lede et lille team eller koordinere andres arbejde.
+  accountability: Levering af en afgrænset service eller proces.
+"5":
+  title: Lønramme 5
+  stage: Praktiker
+  knowledge: Faglig eller teknisk viden, typisk fra en bacheloruddannelse eller tilsvarende erfaring.
+  autonomy: Arbejder mod brede mål inden for faglige standarder; planlægger eget arbejde.
+  scope: Eget faglige arbejde i et team eller et produkt.
+  leadership: Kan vejlede og kontrollere støttemedarbejderes og lærlinges arbejde.
+  accountability: Kvaliteten af eget faglige arbejde.
+"6":
+  title: Lønramme 6
+  stage: Erfaren praktiker
+  knowledge: Specialistviden på tværs af en række procedurer, opbygget gennem videreuddannelse eller erfaring.
+  autonomy: Arbejder selvstændigt; fortolker politikker for eget område; søger råd om komplekse spørgsmål.
+  scope: Et produkt, en service eller et arbejdsspor.
+  leadership: Kan lede et lille team eller være mentor for kolleger.
+  accountability: Resultaterne af eget arbejdsspor og kvaliteten af den rådgivning, der gives.
+"7":
+  title: Lønramme 7
+  stage: Senior eller specialist
+  knowledge: Højt udviklet specialistviden, typisk på kandidatniveau eller med tilsvarende erfaring.
+  autonomy: Arbejder efter organisationens politikker; beslutter, hvordan resultater opnås; er den ekspert, andre rådfører sig med.
+  scope: Flere produkter eller services, eller en specialistfunktion.
+  leadership: Leder et team eller et fagligt praksisområde.
+  accountability: Leveringen af en service eller specialistfunktion og dens budget, hvis der er ansvar for et.
+8a:
+  title: Lønramme 8a
+  stage: Leder
+  knowledge: Ekspertviden inden for en disciplin og dens ledelse.
+  autonomy: Fortolker organisationens politikker for en service; sætter teamets retning.
+  scope: Et serviceområde eller en disciplin på tværs af organisationen.
+  leadership: Leder et team, eller leder en disciplin uden personaleansvar.
+  accountability: Et serviceområde, dets medarbejdere og dets budget.
+8b:
+  title: Lønramme 8b
+  stage: Leder
+  knowledge: Ekspertviden på tværs af flere discipliner eller en stor service.
+  autonomy: Former politik og strategi for et stort område.
+  scope: Flere services eller teams, eller en disciplin på øverste faglige niveau.
+  leadership: Leder ledere, eller er den ledende autoritet inden for en disciplin.
+  accountability: Flere services, deres medarbejdere og deres budgetter.
+8c:
+  title: Lønramme 8c
+  stage: Seniorleder
+  knowledge: Ekspertviden og bred forståelse af organisationen og sektoren.
+  autonomy: Fastlægger strategien for en funktion; er ansvarlig over for en direktør.
+  scope: En funktion eller en afdeling.
+  leadership: Leder en funktion gennem flere ledelseslag.
+  accountability: En funktions resultater, arbejdsstyrke og budget.
+8d:
+  title: Lønramme 8d
+  stage: Seniorleder
+  knowledge: Strategisk viden på tværs af funktioner og det bredere sundheds- og plejesystem.
+  autonomy: Former strategien for hele organisationen; er stedfortræder for en direktør.
+  scope: En stor funktion eller flere funktioner.
+  leadership: Leder flere funktioner eller en stor afdeling.
+  accountability: Store funktioner, store budgetter og risici for hele organisationen.
+"9":
+  title: Lønramme 9
+  stage: Faglig chef eller direktør
+  knowledge: Strategisk ekspertise og lederskab på tværs af hele systemet.
+  autonomy: Fastlægger organisationens strategi sammen med direktionen.
+  scope: Organisationen og dens partnere på tværs af systemet.
+  leadership: Leder et fag eller en direktion.
+  accountability: Resultater, budgetter og risici for hele organisationen.

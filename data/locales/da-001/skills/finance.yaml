@@ -1,0 +1,273 @@
+# Danish translation of data/skills/finance.yaml. Keys are the English skill ids.
+fin-financial-transactions:
+  name: Finansielle transaktioner og hovedbøger
+  description: At behandle og bogføre fakturaer, betalinger, kvitteringer, posteringer og afstemninger korrekt i hovedbøgerne efter de økonomiske kontroller.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare processerne fra bestilling til betaling og fra ordre til kontanter og din rolle i dem
+      - registrere fakturaer, kvitteringer og betalinger korrekt efter fastlagte procedurer
+      - kontrollere, at en transaktion har den rette godkendelse og de nødvendige bilag
+    working: |
+      Du kan:
+      - behandle en række transaktioner, herunder kreditnotaer, tilbagebetalinger og posteringer
+      - afstemme leverandørkontoudtog, bankkonti og kontrolkonti
+      - løse rutinemæssige henvendelser fra leverandører, kunder og budgetansvarlige
+      - spotte dobbelte, usædvanlige eller uautoriserede transaktioner og gøre opmærksom på dem
+    practitioner: |
+      Du kan:
+      - styre en hovedbog eller transaktionsproces og holde den korrekt og ajour
+      - undersøge og afvikle komplekse afstemningsposter og gamle saldi
+      - forbedre transaktionsprocesser, for eksempel ved at automatisere matchning eller godkendelser
+      - oplære andre medarbejdere og kontrollere deres arbejde
+    expert: |
+      Du kan:
+      - designe organisationens transaktionsprocesser og de kontroller, der indgår i dem
+      - fastsætte præstationsstandarder, såsom betalingstider og mål for inddrivelse af gæld
+      - lede overgangen til nye måder at behandle på, såsom automatisering og selvbetjening
+      - forsikre den øverste ledelse og revisorerne om, at hovedbøgerne er fuldstændige og korrekte
+fin-financial-reporting:
+  name: Regnskabsaflæggelse og lovpligtige regnskaber
+  description: At udarbejde korrekte regnskaber og lovpligtige indberetninger, der følger de gældende regnskabsstandarder og den offentlige sektors rapporteringsregler.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare formålet med de vigtigste regnskaber
+      - udarbejde arbejdspapirer og afstemninger, der understøtter måneds- og årsafslutningen
+    working: |
+      Du kan:
+      - udarbejde posteringer til måneds- og årsafslutningen, såsom periodiseringer, forudbetalinger og hensættelser
+      - udarbejde dele af årsregnskabet og tilhørende noter
+      - anvende regnskabsstandarder på rutinetransaktioner, såsom aktivering af software og hardware
+    practitioner: |
+      Du kan:
+      - udarbejde årsregnskabet og de lovpligtige indberetninger efter en tidsplan
+      - anvende regnskabsstandarder på komplekse områder, såsom leasing, cloud-aftaler og immaterielle aktiver
+      - skrive regnskabsnotater, der forklarer skøn og vurderinger
+      - styre den eksterne revision af regnskabet og reagere på revisionsbemærkninger
+    expert: |
+      Du kan:
+      - eje organisationens årsrapport og regnskab og de regnskabspraksisser, der ligger bag
+      - rådgive bestyrelsen og revisionsudvalget om væsentlige skøn og nye standarder
+      - lede indsatsen, hvis revisionen giver en modificeret konklusion eller afdækker væsentlige fejl
+      - sikre, at rapporteringen opfylder reglerne om offentlig ansvarlighed
+fin-management-accounting:
+  name: Intern regnskab og økonomistyring
+  description: At udarbejde budget- og omkostningsoplysninger, der hjælper ledere med at planlægge, styre og træffe beslutninger, herunder afvigelsesanalyse, kalkulation og præstationsrapportering.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare budgetter, realiserede tal, forpligtelser og afvigelser
+      - udtrække standardbudgetrapporter fra økonomisystemet
+    working: |
+      Du kan:
+      - udarbejde månedlige budgetrapporter og forklare de væsentligste afvigelser
+      - bogføre omkostninger korrekt mellem omkostningssteder, projekter og investering og drift
+      - hjælpe budgetansvarlige med at forstå og styre deres budgetter
+    practitioner: |
+      Du kan:
+      - styre den månedlige rapporteringscyklus for en direktion eller et program
+      - opbygge omkostningsmodeller, såsom de fulde omkostninger ved en digital service eller enhedsomkostningen ved en transaktion
+      - analysere udgiftstendenser og rådgive ledere om, hvordan budgettet overholdes
+      - udfordre budgetansvarlige konstruktivt på deres prognoser
+    expert: |
+      Du kan:
+      - designe organisationens tilgang til intern rapportering og kalkulation
+      - præsentere den økonomiske præstation for bestyrelsen og den øverste ledelse
+      - lede brugen af omkostnings- og præstationsoplysninger til at forbedre valuta for pengene
+      - fastsætte standarder for intern regnskab i hele organisationen
+fin-financial-planning-and-forecasting:
+  name: Økonomisk planlægning og prognoser
+  description: At opbygge budgetter, prognoser og økonomiske planer på mellemlang sigt, der knytter pengene til organisationens prioriteter og programmer.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare den årlige budgetlægningscyklus og forskellen på budget og prognose
+      - indsamle prognoseoplysninger fra budgetansvarlige
+    working: |
+      Du kan:
+      - opbygge budgetter og prognoser for et omkostningssted eller projekt, herunder lønomkostninger
+      - opdatere prognoser hver måned med kendte ændringer og risici
+      - periodisere budgetter, så udgiftsprofilerne svarer til leveranceplanerne
+    practitioner: |
+      Du kan:
+      - lede budgetlægning og prognoser for en direktion eller et stort program
+      - modellere scenarier og følsomheder, såsom inflation, forsinkelser eller ændringer i finansieringen
+      - opbygge flerårige prognoser for digitale programmer, herunder de driftsomkostninger, der følger efter investeringen
+      - præsentere prognoser og risici for den øverste ledelse
+    expert: |
+      Du kan:
+      - lede organisationens økonomiske plan på mellemlang sigt
+      - afstemme økonomiske planer med strategi-, personale- og investeringsplaner
+      - rådgive bestyrelsen om økonomisk bæredygtighed og de valg, der skal træffes for at holde sig inden for finansieringen
+      - fastsætte de planlægningsforudsætninger og metoder, der bruges i hele organisationen
+fin-payroll:
+  name: Løn
+  description: At udbetale løn korrekt og til tiden, herunder nyansatte, fratrædende, ændringer, fradrag, pensioner, lovbestemte betalinger og lønrapportering.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare lønkørslens cyklus, fra ændringer og skæringsdato til betaling og rapportering
+      - registrere nyansatte, fratrædende og ændringer korrekt ud fra godkendte formularer
+      - besvare rutinemæssige henvendelser om løn og holde lønoplysninger fortrolige
+    working: |
+      Du kan:
+      - beregne løn, tillæg, overarbejde, sygefravær og betalinger under familieorlov
+      - anvende skat, pension og andre fradrag korrekt
+      - kontrollere lønudskrifter og rette fejl før udbetaling
+      - inddrive for meget udbetalt løn med omtanke og i overensstemmelse med politikken
+    practitioner: |
+      Du kan:
+      - køre den fulde lønkørsel for en gruppe medarbejdere og godkende lønkontrollerne
+      - styre den lovpligtige lønrapportering og pensionsindberetninger
+      - løse komplekse sager, såsom flere kontrakter, efterbetaling eller bruttolønsordninger
+      - teste ændringer i lønsystemet, såsom årlige lønreguleringer og regelændringer
+    expert: |
+      Du kan:
+      - styre organisationens lønservice, uanset om den køres internt eller af en leverandør
+      - fastlægge lønkontroller og forsikre den øverste ledelse om, at udbetalingerne er korrekte og lovlige
+      - planlægge for ændringer i lønregler, lønreguleringer og lønsystemer
+      - lede indsatsen ved større lønfejl
+fin-treasury-and-cash:
+  name: Likviditets- og kassestyring
+  description: At styre bankkonti, pengestrømme og likviditet, så organisationen kan opfylde sine forpligtelser, inden for den offentlige sektors regler for kontanter.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor likviditet er vigtig ud over budgetter
+      - registrere og afstemme banktransaktioner
+    working: |
+      Du kan:
+      - udarbejde daglige likviditetsstillinger og kortsigtede likviditetsprognoser
+      - forberede betalingskørsler og kontrollere, at de er korrekt godkendt
+      - afstemme bankkonti og afvikle uafstemte poster
+    practitioner: |
+      Du kan:
+      - styre organisationens likviditetsprognose og træk på finansieringen
+      - styre bankkonti, betalingsmetoder og bankkontroller
+      - planlægge likviditet til store eller uregelmæssige betalinger, såsom softwarelicenser over flere år
+    expert: |
+      Du kan:
+      - fastlægge organisationens likviditetspolitik og bankaftaler
+      - rådgive bestyrelsen om likviditets- og kassrisici
+      - styre likviditeten inden for de grænser, som finansieringsgiverne og den offentlige sektors regler sætter
+fin-audit-and-controls:
+  name: Økonomiske kontroller og revision
+  description: At designe, anvende og teste økonomiske kontroller, forebygge og opdage svig og samarbejde med interne og eksterne revisorer.
+  levels:
+    awareness: |
+      Du kan:
+      - følge organisationens økonomiske procedurer og delegationsordninger
+      - genkende tegn på mulig svig eller fejl og indberette dem
+    working: |
+      Du kan:
+      - anvende centrale kontroller, såsom funktionsadskillelse og kontrol af leverandørers bankoplysninger
+      - give revisorerne dokumentation og besvare deres spørgsmål
+      - kontrollere, at udgifter er godkendt på det rette niveau
+    practitioner: |
+      Du kan:
+      - teste og forbedre kontrollerne i en økonomisk proces
+      - håndtere revisionsanmodninger for et område og aftale handlinger på baggrund af bemærkninger
+      - skrive og opdatere økonomiske procedurer
+      - samarbejde med specialister i bekæmpelse af svig for at mindske risikoen for svig
+    expert: |
+      Du kan:
+      - eje organisationens økonomiske regler og delegationsordning
+      - rapportere til revisionsudvalget om økonomisk kontrol og revisionshandlinger
+      - lede indsatsen ved væsentlige kontrolsvigt eller svig
+      - opbygge en kultur, hvor medarbejderne forstår deres pligt til at bruge offentlige midler forsvarligt
+fin-business-cases:
+  name: Business cases og investeringsvurdering
+  description: At opbygge det økonomiske grundlag for en investering, herunder vurdering af muligheder, totalomkostninger, behandling som investering eller drift, gevinster og valuta for pengene.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare formålet med en business case og dens økonomiske afsnit
+      - indsamle omkostningsoplysninger til en business case
+    working: |
+      Du kan:
+      - opbygge den økonomiske model for en ligetil business case
+      - adskille investerings- og driftsomkostninger samt engangs- og tilbagevendende omkostninger
+      - medregne totalomkostninger, såsom licenser, support og hosting efter idriftsættelsen
+    practitioner: |
+      Du kan:
+      - lede det økonomiske grundlag for komplekse digitale investeringer, såsom et nyt klinisk system eller en overgang til cloud
+      - vurdere muligheder ved hjælp af nutidsværdi, følsomhedsanalyse og risikojustering
+      - kontrollere, at gevinster er realistiske, målbare og har en ejer
+      - følge udgifter og gevinster efter godkendelsen
+    expert: |
+      Du kan:
+      - fastsætte organisationens standarder for business cases og investeringsvurdering
+      - rådgive investeringsudvalg om økonomisk bæredygtighed, valuta for pengene og risiko
+      - argumentere over for finansieringsgivere for større investeringsprogrammer
+      - gennemgå investeringsporteføljen og anbefale, hvor der skal stoppes, ændres eller fortsættes
+fin-tax:
+  name: Skat
+  description: At anvende moms, lønskat og andre skatteregler korrekt på organisationens transaktioner og få skat tilbage, hvor det er tilladt.
+  levels:
+    awareness: |
+      Du kan:
+      - genkende moms på fakturaer og bogføre den korrekt
+      - forklare, hvornår man skal bede en skattespecialist om rådgivning
+    working: |
+      Du kan:
+      - udarbejde selvangivelser og afstemninger under supervision
+      - anvende den rette skattemæssige behandling på almindelige køb og indtægter
+      - kontrollere eksterne konsulenters ansættelsesretlige status under vejledning
+    practitioner: |
+      Du kan:
+      - styre organisationens skatteangivelser og skatteafstemninger
+      - rådgive om den skattemæssige behandling af kontrakter, såsom softwarelicenser, cloudtjenester og fælles services
+      - maksimere skattegodtgørelsen inden for reglerne
+    expert: |
+      Du kan:
+      - eje organisationens skattestrategi og skatterisiko
+      - lede drøftelser med skattemyndigheden om komplekse spørgsmål
+      - vurdere de skattemæssige konsekvenser af større ændringer, såsom nye partnerskaber eller erhvervsmæssige aktiviteter
+fin-financial-systems:
+  name: Økonomisystemer
+  description: At bruge, administrere og forbedre økonomi-, indkøbs-, løn- og rapporteringssystemer, så økonomiske data er korrekte, og processerne er effektive.
+  levels:
+    awareness: |
+      Du kan:
+      - bruge økonomisystemet til dine egne opgaver efter procedurerne
+      - køre standardrapporter og eksportere data til et regneark
+    working: |
+      Du kan:
+      - bruge regneark godt, herunder formler, opslag og pivottabeller
+      - vedligeholde data i økonomisystemet, såsom omkostningssteder, leverandører og godkendere
+      - rapportere og hjælpe med at løse systemproblemer
+    practitioner: |
+      Du kan:
+      - administrere økonomi- eller lønsystemet, herunder adgang, arbejdsgange og rapportering
+      - designe rapporter og dashboards til budgetansvarlige
+      - teste systemændringer og opgraderinger
+      - automatisere gentagne økonomiopgaver
+    expert: |
+      Du kan:
+      - eje strategien og køreplanen for økonomisystemer
+      - lede udbud og implementering af økonomi- eller lønsystemer
+      - sikre, at økonomiske data er integreret med data om personale, indkøb og præstationer
+fin-public-sector-finance:
+  name: Offentlig økonomi
+  description: At forstå, hvordan offentlig finansiering fungerer, herunder tildeling af midler, grænser for investering og drift, udgiftskontrol, ansvarlighed for offentlige midler og valuta for pengene.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, at organisationen bruger offentlige midler og skal stå til regnskab for dem
+      - forklare forskellen på udgifter til investering og til drift
+    working: |
+      Du kan:
+      - anvende organisationens regler for investering og drift på dagligdags udgifter
+      - forklare, hvordan midlernes tildeling og udgiftsgrænser påvirker dit område
+      - genkende udgifter, der kræver godkendelse fra en finansieringsgiver eller udgiftskontrol
+    practitioner: |
+      Du kan:
+      - rådgive ledere om finansieringsregler, herunder øremærkede og tidsbegrænsede midler
+      - styre grænser for investering og drift for et program eller en direktion
+      - udarbejde indberetninger og dokumentation til finansieringsgivere og udgiftskontrol
+    expert: |
+      Du kan:
+      - repræsentere organisationen over for finansieringsgivere og tilsynsorganer
+      - rådgive bestyrelsen om regelmæssighed, forsvarlighed og valuta for pengene
+      - forme finansieringsaftaler og økonomiske ordninger for organisationens services

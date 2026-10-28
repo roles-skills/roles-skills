@@ -1,0 +1,33 @@
+summary: >
+  Incidentansvariga återställer normal tjänst så snabbt som möjligt när något går fel och håller effekten för användare så liten som möjligt. De samordnar tekniska team och leverantörer, håller användare och ledare informerade och ser till att incidenter registreras och förs vidare till problemhantering. Inom hälso- och sjukvården kan incidenter direkt påverka patientvården, så incidentansvariga arbetar nära kliniska och operativa ledare.
+health_context:
+  - Ett avbrott i ett kliniskt system kan fördröja behandling, så incidenter prioriteras efter klinisk effekt, och kliniska ledare kan behöva starta rutiner för avbrottstid.
+  - Större incidenter kan inträffa när som helst, så incidentansvariga deltar i jourscheman och kan kallas in på natten eller helger.
+  - En cyberattack, såsom ransomware, kan bli en större incident som påverkar hela organisationen och pågår i dagar eller veckor.
+  - Större IT-incidenter kan behöva kopplas till organisationens arrangemang för krisberedskap och verksamhetskontinuitet.
+  - Incidenter som kan ha skadat patienter rapporteras också genom den kliniska incidentprocessen och granskas med klinisk säkerhet.
+levels:
+  - title: Incidentansvarig
+    responsibilities:
+      - Samordna svaret på incidenter som påverkar kliniska tjänster och verksamhetstjänster, från första rapport till återställd tjänst.
+      - Bedöma varje incidents kliniska och operativa effekt och sätta dess prioritet.
+      - Hålla berörda användare, servicedesken och kliniska ledare informerade med tydliga, snabba uppdateringar.
+      - Eskalera incidenter till den ansvarige för större incidenter när de uppfyller de överenskomna kriterierna.
+      - Se till att incidenter registreras korrekt och förs vidare till problemhantering.
+      - Delta i jourschemat för incidenter utanför kontorstid.
+    qualifications:
+      - Erfarenhet av IT-support eller drift, inklusive hantering av incidenter.
+      - En grundkvalifikation i IT-tjänstehantering, eller motsvarande erfarenhet.
+    job_evaluation_notes: Mental ansträngning speglar täta perioder av långvarig koncentration under tidspress, inklusive jour. Känslomässig ansträngning speglar tät indirekt exponering för avbrottens effekt på patienter och personal.
+  - title: Ansvarig för större incidenter
+    responsibilities:
+      - Leda svaret på större incidenter, såsom avbrott i den elektroniska patientjournalen, nätverksfel och cyberattacker.
+      - Leda incidentsamtal som samlar tekniska team, leverantörer, kliniska ledare och kommunikationspersonal.
+      - Ge kliniska och operativa ledare råd om när rutiner för avbrottstid och verksamhetskontinuitet ska startas och avslutas.
+      - Informera seniora ledare och, vid behov, koppla till organisationens arrangemang för krishantering.
+      - Leda uppföljningar efter incidenter och se till att lärdomar dras och agerats på.
+      - Ta fram och testa planer för större incidenter tillsammans med ledare för verksamhetskontinuitet och krisberedskap.
+    qualifications:
+      - Betydande erfarenhet av att hantera incidenter i komplexa tjänster med hög tillgänglighet.
+      - En avancerad kvalifikation inom IT-tjänstehantering, eller motsvarande erfarenhet.
+    job_evaluation_notes: Mental ansträngning speglar täta perioder av långvarig koncentration under större incidenter, ofta utanför kontorstid. Känslomässig ansträngning speglar tät indirekt exponering för större avbrotts effekt på patientvården.

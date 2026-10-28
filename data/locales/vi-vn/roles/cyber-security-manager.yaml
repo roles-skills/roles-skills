@@ -1,0 +1,57 @@
+summary: Quản lý an ninh mạng dẫn dắt cách tiếp cận của tổ chức trong việc bảo vệ hệ thống, dữ liệu và dịch vụ của mình trước các mối đe dọa mạng. Họ đề ra chính sách an ninh, quản lý rủi ro mạng, giám sát vận hành và kỹ thuật an ninh, dẫn dắt việc ứng phó với các sự cố mạng lớn và xây dựng văn hóa nhận thức về an ninh. Trong chăm sóc sức khỏe, họ bảo đảm các dịch vụ lâm sàng có thể tiếp tục vận hành an toàn, và phục hồi nhanh chóng, khi một cuộc tấn công xảy ra.
+health_context:
+- Một cuộc tấn công mạng vào tổ chức chăm sóc sức khỏe có thể làm ngừng các hệ thống lâm sàng và đặt bệnh nhân vào rủi ro, nên an ninh mạng là một phần của an toàn bệnh nhân và duy trì hoạt động kinh doanh.
+- Các tổ chức chăm sóc sức khỏe thường phải đáp ứng các tiêu chuẩn an ninh mạng của ngành và báo cáo các sự cố nghiêm trọng cho các cơ quan có thẩm quyền.
+- Nhân viên lâm sàng cần truy cập nhanh vào hệ thống, nên các chính sách an ninh được thiết kế cùng bác sĩ lâm sàng và được kiểm thử về khả năng sử dụng.
+- An ninh phụ thuộc vào nhiều nhà cung cấp, kể cả nhà cung cấp hệ thống lâm sàng và dịch vụ dùng chung, nên đảm bảo nhà cung cấp là phần cốt lõi của vai trò.
+- Thiết bị y tế và các hệ thống cũ tạo ra những rủi ro kéo dài, được quản lý cùng các nhóm kỹ thuật lâm sàng và an toàn lâm sàng.
+levels:
+- title: Quản lý an ninh mạng
+  summary: Quản lý an ninh mạng điều hành chức năng an ninh mạng, hoặc một phần lớn của chức năng này, quản lý rủi ro mạng, vận hành an ninh và đảm bảo.
+  responsibilities:
+  - Điều hành vận hành an ninh, quản lý lỗ hổng và công việc đảm bảo, và báo cáo hiệu quả của chúng.
+  - Duy trì sổ đăng ký rủi ro mạng, và bảo đảm các rủi ro đối với dịch vụ lâm sàng được đánh giá và có người chịu trách nhiệm.
+  - Viết và duy trì các chính sách và tiêu chuẩn an ninh, và kiểm tra chúng được tuân thủ.
+  - Dẫn dắt việc ứng phó với các sự cố mạng, phối hợp với quản lý sự cố và các lãnh đạo lâm sàng và vận hành.
+  - Tổ chức đào tạo nâng cao nhận thức về an ninh và các bài diễn tập lừa đảo (phishing) cho toàn bộ nhân viên, kể cả nhân viên lâm sàng.
+  - Quản lý trực tiếp các chuyên viên phân tích và kỹ sư an ninh.
+  qualifications:
+  - Có kinh nghiệm sâu rộng về an ninh mạng, gồm ứng phó sự cố và quản lý rủi ro, ở mức tương đương bằng thạc sĩ.
+  - Có chứng chỉ an ninh nghề nghiệp được công nhận, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Nỗ lực trí tuệ và cảm xúc phản ánh việc dẫn dắt ứng phó với các sự cố mạng dưới áp lực, thường ngoài giờ, khi việc chăm sóc bệnh nhân có thể bị đe dọa.
+- title: Quản lý an ninh mạng cao cấp
+  summary: Quản lý an ninh mạng cao cấp dẫn dắt an ninh mạng trên nhiều nhóm, quản lý việc đảm bảo theo các tiêu chuẩn của ngành, và điều hành chương trình cải thiện an ninh của tổ chức.
+  responsibilities:
+  - Dẫn dắt các nhóm an ninh mạng trong vận hành, kỹ thuật và đảm bảo.
+  - Điều hành chương trình cải thiện an ninh mạng của tổ chức và quản lý ngân sách của chương trình.
+  - Quản lý việc đảm bảo theo các tiêu chuẩn an ninh mạng của ngành và các biện pháp kiểm soát ISO/IEC 27001, và chuẩn bị bằng chứng cho kiểm toán.
+  - Dẫn dắt việc ứng phó với các sự cố mạng lớn, và lập kế hoạch và kiểm thử việc phục hồi cùng các trưởng nhóm duy trì hoạt động kinh doanh và lâm sàng.
+  - Đánh giá an ninh của nhà cung cấp và các dịch vụ dùng chung, và thống nhất các yêu cầu an ninh trong hợp đồng.
+  - Tư vấn cho các ban chương trình về rủi ro an ninh của các dịch vụ lâm sàng và số mới.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt các nhóm an ninh mạng ở một tổ chức phức tạp.
+  - Có chứng chỉ an ninh nghề nghiệp được công nhận, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Nỗ lực trí tuệ và cảm xúc phản ánh việc dẫn dắt ứng phó với các sự cố mạng lớn, có thể kéo dài nhiều ngày hoặc nhiều tuần và đe dọa việc chăm sóc bệnh nhân.
+- title: Trưởng bộ phận an ninh mạng
+  summary: Trưởng bộ phận an ninh mạng đề ra chiến lược an ninh mạng của tổ chức và chịu trách nhiệm về quản lý rủi ro mạng, vận hành an ninh và ứng phó với các sự cố lớn.
+  responsibilities:
+  - Đề ra chiến lược an ninh mạng, phù hợp với các chiến lược số và lâm sàng của tổ chức.
+  - Tư vấn cho hội đồng và ban điều hành về rủi ro mạng, khẩu vị rủi ro và đầu tư.
+  - Dẫn dắt việc ứng phó của tổ chức với các sự cố mạng lớn, kể cả truyền thông với cơ quan quản lý, đối tác và công chúng.
+  - Xây dựng văn hóa an ninh trong đó mọi nhân viên, kể cả bác sĩ lâm sàng, hiểu các mối đe dọa và báo cáo chúng.
+  - Đại diện tổ chức trong các mạng lưới an ninh mạng ngành chăm sóc sức khỏe và với các tổ chức đối tác.
+  - Dẫn dắt và phát triển chức năng an ninh mạng, và quản lý ngân sách của chức năng này.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt an ninh mạng cho một tổ chức lớn, kể cả ứng phó sự cố lớn.
+- title: Giám đốc an ninh thông tin
+  summary: Giám đốc an ninh thông tin có trách nhiệm chung của tổ chức về an ninh mạng trong toàn tổ chức, và thường cả trong các tổ chức đối tác dùng chung dịch vụ của mình.
+  responsibilities:
+  - Nắm trách nhiệm chung của tổ chức về an ninh mạng, và báo cáo về việc này lên hội đồng.
+  - Cùng hội đồng đề ra khẩu vị rủi ro an ninh, và bảo đảm nó định hình các quyết định trong toàn tổ chức.
+  - Dẫn dắt an ninh mạng trên các dịch vụ dùng chung và các tổ chức đối tác, khi tổ chức cung cấp chúng.
+  - Chỉ đạo việc ứng phó của tổ chức với các sự cố mạng nghiêm trọng nhất, phối hợp với ban điều hành và các cơ quan có thẩm quyền.
+  - Định hình thực hành an ninh mạng trong ngành y tế và chăm sóc bằng cách làm việc với các đối tác và cơ quan ngành.
+  - Dẫn dắt chức năng an ninh và nắm giữ ngân sách trên nhiều dịch vụ.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt an ninh mạng ở cấp hội đồng, hoặc cho nhiều tổ chức.
+  job_evaluation_notes: Cấp này phù hợp với các tổ chức lớn hơn, hoặc những tổ chức cung cấp dịch vụ số dùng chung cho đối tác. Các tổ chức nhỏ hơn thường có trưởng bộ phận an ninh mạng ở Bậc 8c là vai trò an ninh cao nhất của họ.

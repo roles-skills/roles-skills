@@ -1,0 +1,71 @@
+# Swedish translations of data/skills/product-design.yaml. Keys are the English skill ids.
+pd-health-research-ethics:
+  name: Etisk forskning med patienter och vårdpersonal
+  description: Planera och genomföra forskning med patienter, anhörigvårdare, kliniker och vårdpersonal tryggt och etiskt, inklusive informerat samtycke, skydd av utsatta personer, forskning med personer i utsatta situationer och att veta när formellt etikgodkännande behövs.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför forskning med patienter och vårdpersonal kräver informerat samtycke, skydd av utsatta personer och omsorg med personuppgifter
+      - följa teamets rutiner för samtycke, skydd av utsatta personer och datahantering vid forskningssessioner
+    working: |
+      Du kan:
+      - planera forskningssessioner som ger informerat samtycke och skyddar deltagarnas välbefinnande och integritet
+      - anpassa sessioner för personer som är sjuka, upprörda eller i utsatta situationer, och veta när man ska avbryta
+      - känna igen och rapportera oro för skydd av utsatta personer som uppstår i forskningen
+    practitioner: |
+      Du kan:
+      - bedöma när forskning behöver formellt etikgodkännande eller godkännande enligt forskningsstyrning och förbereda det som krävs
+      - planera trygg forskning med personer i utsatta situationer, såsom barn, personer med demens och personer i kris
+      - planera forskning i kliniska miljöer utan att störa vården, tillsammans med kliniska ledare och vårdpersonal
+      - stödja forskare att ta hand om sitt eget välbefinnande efter påfrestande sessioner
+    expert: |
+      Du kan:
+      - fastställa organisationens standarder för etisk forskning med patienter, anhörigvårdare och vårdpersonal
+      - kvalitetssäkra forskningspraxis över team och ge råd om högriskforskning
+      - företräda forskningspraxis inför organ för etik, skydd av utsatta personer och styrning
+pd-safety-critical-design:
+  name: Utformning för klinisk säkerhet och mänskliga faktorer
+  description: Utforma tjänster, gränssnitt och arbetsflöden som hjälper kliniker, vårdpersonal och patienter att agera tryggt, genom att tillämpa principer för mänskliga faktorer och arbeta med processen för klinisk riskhantering.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara hur designval kan orsaka eller förhindra fel i vården, såsom förväxling av patient eller fel dos
+      - använda organisationens mönster för säkerhetskritisk information, såsom banderoller med patientidentitet och allergivarningar
+    working: |
+      Du kan:
+      - utforma gränssnitt som gör den säkra handlingen till den enkla handlingen, till exempel genom att minska tvetydiga etiketter och onödiga larm
+      - testa designer i realistiska kliniska scenarier, inklusive avbrott och tidspress
+      - lyfta designrelaterade faror med den kliniska säkerhetsansvariga och registrera hur designer kontrollerar dem
+    practitioner: |
+      Du kan:
+      - tillämpa metoder för mänskliga faktorer, såsom uppgiftsanalys och analys av användningsfel, på komplexa kliniska arbetsflöden
+      - utforma för att minska larmtrötthet och kognitiv belastning i hela en tjänst
+      - ta fram designevidens för kliniska säkerhetsunderlag och användbarhetsevidens för reglerad programvara
+    expert: |
+      Du kan:
+      - fastställa organisationens standarder och mönster för säkerhetskritisk design
+      - leda arbetet med mänskliga faktorer i de mest högriskfyllda kliniska tjänsterna
+      - ge ledare för klinisk säkerhet och produkt råd om designrelaterade risker i hela portföljen
+pd-health-content:
+  name: Innehåll med hälsoinformation
+  description: Skapa hälso- och vårdinnehåll som är korrekt, kliniskt kvalitetssäkrat och lätt för människor med olika nivåer av hälsolitteracitet att förstå och agera på.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför hälsoinformation måste vara korrekt, aktuell och lätt att förstå
+      - följa teamets stilguide och kliniska granskningsprocess för hälsoinnehåll
+    working: |
+      Du kan:
+      - skriva hälsoinnehåll som människor med låg hälsolitteracitet kan förstå och agera på, såsom symtom och när man ska söka hjälp
+      - arbeta med kliniska granskare för att kontrollera att innehållet är korrekt utan att förlora tydlighet
+      - förklara medicinska termer på klarspråk och använda konsekventa namn för tillstånd, prover och behandlingar
+    practitioner: |
+      Du kan:
+      - utforma innehåll för känsliga och högriskfyllda ämnen, såsom akuta symtom, läkemedel och vård i livets slut
+      - inrätta klinisk kvalitetssäkring, granskningsdatum och evidenskällor för en samling hälsoinnehåll
+      - balansera klinisk precision, rättsliga krav och användarnas förståelse i omstritt innehåll
+    expert: |
+      Du kan:
+      - fastställa organisationens standarder för hälsoinformation och dess kliniska kvalitetssäkring
+      - leda innehållsstrategin för hälsoinformation över tjänster och kanaler
+      - ge seniora ledare inom klinik och kommunikation råd om risker med hälsoinformation

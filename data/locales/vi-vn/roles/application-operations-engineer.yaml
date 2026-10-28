@@ -1,0 +1,60 @@
+summary: Kỹ sư vận hành ứng dụng giữ cho các ứng dụng của tổ chức hoạt động trong thực tế, kể cả các hệ thống lâm sàng như hồ sơ bệnh nhân điện tử và các hệ thống kê đơn, xét nghiệm và chẩn đoán hình ảnh. Họ giám sát ứng dụng, chạy các tác vụ theo lịch, quản lý người dùng và quyền truy cập, triển khai các bản phát hành và bản sửa lỗi, và làm việc với nhà cung cấp để khắc phục sự cố. Công việc của họ giúp nhân viên lâm sàng và doanh nghiệp tin cậy vào các hệ thống này vào mọi giờ trong ngày.
+health_context:
+- Các ứng dụng lâm sàng chạy 24 giờ một ngày, nên các kỹ sư tham gia các ca trực và lập kế hoạch bảo trì vào những khoảng thời gian lâm sàng vắng nhất.
+- Các tác vụ theo lịch và giao diện bị lỗi có thể làm chậm kết quả xét nghiệm, giấy giới thiệu hoặc thư xuất viện, nên các kỹ sư theo dõi chúng chặt chẽ và báo cáo lên cấp trên nhanh chóng.
+- Thời gian ngừng hoạt động theo kế hoạch và ngoài kế hoạch cần có các giải pháp duy trì hoạt động kinh doanh, như bản sao chỉ đọc và báo cáo ngừng hoạt động, để bác sĩ lâm sàng vẫn có thể tiếp tục điều trị cho bệnh nhân.
+- Nhiều ứng dụng lâm sàng do bên thứ ba cung cấp và lưu trữ, nên các kỹ sư quản lý nhà cung cấp và những thay đổi của họ một cách cẩn thận.
+- Những thay đổi đối với ứng dụng lâm sàng tuân theo quy trình quản lý rủi ro lâm sàng, và một số ứng dụng có thể bị quản lý như thiết bị y tế.
+levels:
+- title: Kỹ sư vận hành ứng dụng trợ lý
+  responsibilities:
+  - Giám sát các ứng dụng, giao diện và tác vụ theo lịch, và báo cáo các lỗi cho các kỹ sư có kinh nghiệm.
+  - Tạo và thay đổi tài khoản người dùng và quyền truy cập trong ứng dụng, theo các quy tắc truy cập dựa trên vai trò.
+  - Thực hiện các kiểm tra và nhiệm vụ bảo trì thường lệ bằng sổ tay vận hành.
+  - Ghi chính xác các sự cố và thay đổi vào công cụ quản lý dịch vụ.
+  - Hướng tới chương trình học nghề CNTT hoặc bằng cấp tương đương.
+  qualifications:
+  - Đang theo học, hoặc đang hướng tới, chương trình học nghề CNTT hoặc tương đương.
+  job_evaluation_notes: Kiến thức được chấm ở mức mà công việc đòi hỏi sau khi việc đào tạo đã đủ để làm được công việc.
+- title: Kỹ sư vận hành ứng dụng
+  responsibilities:
+  - Giám sát các ứng dụng lâm sàng và doanh nghiệp cùng các giao diện của chúng, và xử lý cảnh báo và tác vụ lỗi trước khi chúng ảnh hưởng đến việc chăm sóc bệnh nhân.
+  - Chạy và kiểm tra các tác vụ theo lịch, như tải dữ liệu qua đêm và hàng đợi giao diện, và khắc phục hoặc báo cáo lên cấp trên các lỗi.
+  - Quản lý người dùng, vai trò và quyền truy cập của ứng dụng, kể cả gỡ quyền truy cập của người nghỉ việc và hỗ trợ các đợt rà soát quyền truy cập.
+  - Lập và kiểm thử các báo cáo ngừng hoạt động và các sản phẩm duy trì hoạt động kinh doanh khác cho các ứng dụng lâm sàng.
+  - Ghi nhận các lỗi với nhà cung cấp và theo dõi chúng cho đến khi giải quyết.
+  - Tham gia ca trực, dưới sự hướng dẫn, để xử lý lỗi ứng dụng ngoài giờ.
+  qualifications:
+  - Có bằng cấp về CNTT, đã hoàn thành chương trình học nghề, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm hỗ trợ các ứng dụng doanh nghiệp hoặc lâm sàng.
+- title: Kỹ sư vận hành ứng dụng cao cấp
+  responsibilities:
+  - Triển khai các bản phát hành, bản vá và thay đổi cấu hình lên các ứng dụng đang vận hành, theo quy trình thay đổi và an toàn lâm sàng.
+  - Điều phối công việc kỹ thuật để đưa các ứng dụng mới và các bản nâng cấp lớn vào vận hành, kể cả kế hoạch chuyển đổi và quay lui.
+  - Điều tra các lỗi ứng dụng phức tạp cùng nhà cung cấp, các nhóm hạ tầng và chuyên gia hệ thống lâm sàng.
+  - Lập kế hoạch các khung thời gian bảo trì cùng các dịch vụ lâm sàng, và bảo đảm các quy trình ngừng hoạt động đã sẵn sàng.
+  - Cung cấp bằng chứng cho các hồ sơ an toàn lâm sàng, như hồ sơ kiểm thử và triển khai.
+  - Đóng vai trò đầu mối báo cáo lên cấp trên trong ca trực đối với các lỗi ngoài giờ.
+  qualifications:
+  - Có kinh nghiệm dày dặn về hỗ trợ các ứng dụng đang vận hành, ở mức tương đương bằng đại học.
+  job_evaluation_notes: Nỗ lực trí tuệ phản ánh việc thường xuyên phải tập trung kéo dài trong các đợt đưa vào vận hành, triển khai và sự cố ngoài giờ.
+- title: Trưởng nhóm kỹ sư vận hành ứng dụng
+  responsibilities:
+  - Đề ra cách tiếp cận vận hành cho một nhóm ứng dụng, gồm giám sát, khả năng phục hồi và các thỏa thuận hỗ trợ.
+  - Đề ra tiêu chuẩn cho việc quản trị người dùng và an ninh trên các ứng dụng lâm sàng, phối hợp với nhóm an ninh.
+  - Báo cáo về hiệu năng và tính sẵn sàng của ứng dụng cho các trưởng bộ phận vận hành CNTT, và thống nhất những thay đổi cần thiết.
+  - Dẫn dắt phản ứng kỹ thuật đối với các sự cố lớn ảnh hưởng đến các ứng dụng lâm sàng.
+  - Bảo đảm các giải pháp duy trì hoạt động kinh doanh và khôi phục sau thảm họa cho các ứng dụng lâm sàng được kiểm thử.
+  - Dẫn dắt và phát triển các kỹ sư vận hành ứng dụng.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc vận hành các ứng dụng đang hoạt động, kể cả các hệ thống lâm sàng hoặc hệ thống quan trọng khác.
+- title: Kỹ sư vận hành ứng dụng chủ chốt
+  responsibilities:
+  - Làm chủ chiến lược vận hành ứng dụng trên các ứng dụng lâm sàng và doanh nghiệp của tổ chức.
+  - Quản lý các nhà cung cấp chiến lược của các ứng dụng lâm sàng, kể cả mức độ dịch vụ, hiệu quả thực hiện hợp đồng và những thay đổi của nhà cung cấp.
+  - Tư vấn cho các lãnh đạo cấp cao về rủi ro của ứng dụng, như phần mềm không còn được hỗ trợ, các điểm lỗi đơn lẻ và khả năng chống chịu trước mã độc tống tiền.
+  - Bảo đảm tổ chức có thể tiếp tục chăm sóc bệnh nhân an toàn trong thời gian ngừng hoạt động ứng dụng kéo dài.
+  - Dẫn dắt việc bố trí nhân lực, học tập và phát triển cho các nhóm vận hành ứng dụng.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt vận hành ứng dụng cho một tổ chức lớn.
+  job_evaluation_notes: UK GDaD PCF gợi ý Bậc 8c cho cấp này (G6). Tài liệu tham khảo này xếp nó ở Bậc 8b, phù hợp với các vai trò chủ chốt trong các nhóm kỹ thuật khác, vì phạm vi của nó là một lĩnh vực kỹ thuật chứ không phải một ban.

@@ -1,0 +1,66 @@
+summary: Os profissionais de desenvolvimento de software constroem, testam e mantêm o software por trás dos serviços de saúde digital da organização, como aplicativos para pacientes, sistemas clínicos, serviços de integração e plataformas de dados. Trabalham em equipes de produto multidisciplinares, escrevem código seguro, protegido, acessível e de fácil manutenção e dão suporte aos seus serviços em operação.
+health_context:
+- O software pode afetar o cuidado dos pacientes, por isso as pessoas desenvolvedoras seguem o processo de gestão de riscos clínicos e contribuem com evidências para os dossiês de segurança.
+- O código costuma tratar informações de saúde confidenciais, por isso aplicam por padrão a governança da informação e práticas de codificação segura.
+- Muitos serviços trocam dados com outros sistemas de saúde e de cuidados, usando padrões abertos de interoperabilidade como o HL7 FHIR.
+- Alguns softwares podem ser regulamentados como dispositivos médicos, por isso é preciso saber quando pedir orientação regulatória.
+levels:
+- title: Profissional de desenvolvimento de software aprendiz
+  responsibilities:
+  - Aprender as linguagens, as ferramentas e as formas de trabalho da equipe por meio de treinamento estruturado e de trabalho em dupla.
+  - Escrever e testar pequenos trechos de código bem definidos, sob supervisão próxima.
+  - Seguir os procedimentos de codificação segura, de governança da informação e de segurança clínica.
+  - Participar das cerimônias da equipe, como reuniões diárias, planejamento e retrospectivas.
+  - Trabalhar rumo a um programa de aprendizagem profissional ou a uma qualificação equivalente.
+  qualifications:
+  - Matriculado em um programa de aprendizagem profissional em desenvolvimento de software ou equivalente, ou trabalhando para isso.
+  job_evaluation_notes: Os conhecimentos são pontuados no nível que a função exige depois que o treinamento é suficiente para realizar o trabalho; os recursos de informação refletem o trabalho em sistemas projetados por outras pessoas.
+- title: Profissional de desenvolvimento de software júnior
+  responsibilities:
+  - Construir e testar funcionalidades para os produtos da equipe, a partir de histórias de usuário, com orientação.
+  - Escrever testes automatizados e corrigir defeitos, inclusive em serviços que apoiam o cuidado de pacientes.
+  - Contribuir com evidências para os dossiês de segurança clínica, como resultados de testes e registros de mudanças.
+  - Tratar os dados de saúde com segurança, seguindo as regras de governança da informação.
+  - Dar suporte a serviços em operação, sob orientação, como parte dos arranjos de suporte da equipe.
+  qualifications:
+  - Graduação em computação ou em área afim, programa de aprendizagem profissional concluído ou experiência equivalente.
+- title: Profissional de desenvolvimento de software
+  responsibilities:
+  - Projetar, construir e testar funcionalidades e serviços de forma independente, escolhendo abordagens adequadas.
+  - Revisar código e ajudar a manter os padrões de engenharia da equipe.
+  - Construir integrações com outros sistemas de saúde e de cuidados usando padrões abertos como o HL7 FHIR.
+  - Participar da identificação de perigos e ajudar a incorporar controles de segurança clínica ao código e aos testes.
+  - Investigar e corrigir problemas em serviços em operação, inclusive com suporte fora do horário comercial quando o serviço exigir.
+  - Orientar pessoas desenvolvedoras júnior e aprendizes.
+  qualifications:
+  - Graduação em computação ou em área afim, ou experiência equivalente.
+  - Experiência na construção e no suporte de software em produção.
+- title: Profissional de desenvolvimento de software sênior
+  responsibilities:
+  - Liderar o projeto técnico e a entrega de funcionalidades e serviços significativos.
+  - Definir e manter os padrões de engenharia da equipe, incluindo testes, segurança e acessibilidade.
+  - Tomar decisões técnicas que equilibrem as necessidades dos usuários, a segurança clínica, a segurança da informação e o custo.
+  - Liderar a investigação de incidentes nos serviços da equipe e conduzir as correções.
+  - Trabalhar com os responsáveis pela segurança clínica para garantir que os controles de segurança sejam projetados e testados.
+  - Orientar e desenvolver as pessoas desenvolvedoras da equipe.
+  qualifications:
+  - Experiência substancial no projeto, na construção e no suporte de software em produção, em nível equivalente ao de mestrado.
+- title: Profissional de desenvolvimento de software líder
+  responsibilities:
+  - Liderar a engenharia de um produto ou de um grupo de equipes, definindo a direção técnica.
+  - Garantir que o software seja projetado para segurança clínica, segurança da informação, resiliência e interoperabilidade.
+  - Trabalhar com arquitetos, gerentes de produto e lideranças clínicas para dar forma ao roteiro do produto.
+  - Liderar a comunidade de prática de desenvolvimento e definir padrões entre as equipes.
+  - Chefiar ou liderar pessoas desenvolvedoras, apoiando seu desenvolvimento e desempenho.
+  qualifications:
+  - Ampla experiência na liderança da engenharia de software de serviços complexos.
+  job_evaluation_notes: O UK GDaD PCF indica que as funções de líder e de principal costumam estar em G7 ou G6; esta referência coloca o líder na Faixa 8a e o principal na Faixa 8b.
+- title: Profissional de desenvolvimento de software principal
+  responsibilities:
+  - Definir a estratégia, os padrões e as práticas de engenharia para o desenvolvimento de software da organização.
+  - Aconselhar a liderança sênior sobre escolhas tecnológicas, riscos e investimentos.
+  - Liderar a solução dos problemas técnicos mais complexos entre os serviços.
+  - Representar a organização em comunidades de engenharia entre organizações e de código aberto.
+  - Liderar e desenvolver as pessoas desenvolvedoras líderes e ampliar a capacidade de engenharia da organização.
+  qualifications:
+  - Ampla experiência na liderança da engenharia em várias equipes ou organizações.

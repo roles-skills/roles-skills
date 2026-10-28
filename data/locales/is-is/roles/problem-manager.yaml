@@ -1,0 +1,28 @@
+summary: Vandamálastjórar finna og laga rótarorsakir atvika, svo að bilanir hætti að endurtaka sig. Þeir greina atvikagögn, stýra rótarorsakagreiningum, skrá þekktar villur og bráðabirgðalausnir og fylgjast með lagfæringum með tæknilegum teymum og birgjum. Í heilbrigðisþjónustu sóa endurteknar bilanir í klínískum kerfum klínískum tíma, grafa undan trausti og geta skapað áhættu fyrir öryggi sjúklinga, svo að útrýma þeim skiptir máli.
+health_context:
+- Endurteknar litlar bilanir, svo sem hæg innskráning eða misheppnuð prentun á deildum, safnast upp í glataðan klínískan tíma, svo vandamálastjórar leita að mynstrum auk meiriháttar bilana.
+- Sum vandamál skapa klínískar öryggishættur, svo sem niðurstöður sem berast ekki réttum lækni, og eru metin með klíníska öryggisfulltrúanum.
+- Rótarorsakagreiningar fela oft í sér birgja klínískra kerfa og er stýrt gegnum samninga og þjónustustig.
+- Bráðabirgðalausnir fyrir klínísk kerfi verða að vera öruggar og skýrt útskýrðar fyrir klínísku starfsfólki.
+levels:
+- title: Vandamálagreinandi
+  responsibilities:
+  - Greina atvikagögn til að finna endurteknar bilanir og þróun þvert á klíníska þjónustu og rekstrarþjónustu.
+  - Skrá vandamál, þekktar villur og bráðabirgðalausnir í þjónustustjórnunartólinu.
+  - Styðja rótarorsakagreiningar með því að safna skrám, tímalínum og öðrum gögnum.
+  - Fylgjast með aðgerðum hjá tæknilegum teymum og birgjum þar til lagfæringar eru komnar.
+  - Athuga að bráðabirgðalausnir fyrir klínísk kerfi séu öruggar og skýrt útskýrðar fyrir notendum.
+  qualifications:
+  - Reynsla af upplýsingatæknistuðningi eða -rekstri.
+  - Grunnmenntun í upplýsingatækniþjónustustjórnun, eða sambærileg reynsla.
+- title: Vandamálastjóri
+  responsibilities:
+  - Stýra vandamálastjórnunarferlinu þvert á þjónustu stofnunarinnar.
+  - Stýra rótarorsakagreiningu eftir meiriháttar atvik og vegna endurtekinna bilana, með skipulögðum aðferðum.
+  - Forgangsraða vandamálum eftir áhrifum á umönnun sjúklinga, tíma starfsfólks og þjónustuáhættu.
+  - Meta vandamál sem kunna að skapa öryggishættur sjúklinga með klíníska öryggisfulltrúanum.
+  - Draga tæknileg teymi og birgja til ábyrgðar fyrir varanlegum lagfæringum og skila skýrslu um framvindu til þjónustuleiðtoga.
+  - Vinna með meiriháttar atvikastjórum að því að tryggja að lærdómur af atvikum leiði til breytinga.
+  qualifications:
+  - Mikil reynsla af vandamála- eða atvikastjórnun, á stigi sem jafngildir háskólagráðu.
+  - Miðstigsmenntun í upplýsingatækniþjónustustjórnun, eða sambærileg reynsla.

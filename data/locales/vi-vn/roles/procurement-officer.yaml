@@ -1,0 +1,59 @@
+summary: Cán bộ mua sắm giúp tổ chức mua hàng hóa và dịch vụ cần thiết một cách hợp pháp và với giá trị tốt, từ các khoản mua thường lệ đến các gói thầu chính thức. Trong một tổ chức chăm sóc sức khỏe số, phần lớn chi tiêu này dành cho phần mềm, dịch vụ đám mây, giấy phép, thiết bị và dịch vụ công nghệ, nên họ làm việc chặt chẽ với các đồng nghiệp về số, quản trị thông tin và an toàn lâm sàng cũng như với những người quản lý ngân sách.
+health_context:
+- Các quy tắc mua sắm công áp dụng cho chi tiêu của tổ chức, nên mỗi khoản mua phải theo đúng con đường, giữ dấu vết kiểm toán rõ ràng và đối xử công bằng với nhà cung cấp.
+- Nhiều khoản mua là về số, như giấy phép phần mềm, đăng ký đám mây và thiết bị, và cần kiểm tra về an ninh, bảo vệ dữ liệu và an toàn lâm sàng trước khi ký hợp đồng.
+- Nhà cung cấp hệ thống lâm sàng có thể nắm giữ dữ liệu bệnh nhân, nên hợp đồng cần có điều khoản rõ ràng về bảo vệ dữ liệu, quyền sở hữu dữ liệu và hoàn trả dữ liệu.
+- Mua qua các thỏa thuận khung và hệ thống mua sắm động xây dựng cho khu vực công có thể tiết kiệm thời gian, nhưng việc đặt hàng vẫn phải tuân theo quy tắc của từng thỏa thuận khung.
+- Chi tiêu công phải chứng minh giá trị đồng tiền và giá trị xã hội, như việc làm địa phương, kỹ năng và giảm phát thải carbon.
+levels:
+- title: Trợ lý mua sắm
+  summary: Cung cấp hỗ trợ mua hàng và hành chính, theo các quy trình đã định, với một cán bộ mua sắm ở gần.
+  responsibilities:
+  - Lập và sửa đơn đặt hàng trong hệ thống mua hàng, đối chiếu chúng với hợp đồng và phê duyệt.
+  - Giải quyết các thắc mắc thường lệ về hóa đơn và xác nhận nhận hàng với nhà cung cấp, người quản lý ngân sách và bộ phận tài chính.
+  - Lấy báo giá cho các khoản mua giá trị thấp theo quy tắc của tổ chức.
+  - Cập nhật hồ sơ nhà cung cấp, danh mục hàng hóa và sổ đăng ký hợp đồng.
+  - Trả lời các câu hỏi thường lệ của nhân viên về cách mua.
+  qualifications:
+  - Có bằng cấp mức 2 hoặc 3, chương trình học nghề về mua sắm, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm làm công việc hành chính hoặc tài chính chính xác.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 2 vì công việc lập và sửa các đơn hàng cam kết khoản chi do người khác phê duyệt.
+- title: Nhân viên mua hàng
+  summary: Mua hàng hóa và dịch vụ thông qua báo giá và đặt hàng theo thỏa thuận khung, gồm phần mềm, thiết bị và giấy phép tiêu chuẩn, trong các quy trình đã định.
+  responsibilities:
+  - Thực hiện báo giá và các cuộc cạnh tranh tiếp theo theo thỏa thuận khung, dùng các mẫu chuẩn và hệ thống đấu thầu điện tử.
+  - Mua phần mềm, thiết bị và giấy phép tiêu chuẩn, theo dõi việc gia hạn và số lượng giấy phép.
+  - Kiểm tra các yêu cầu tiêu chuẩn về an ninh, bảo vệ dữ liệu và khả năng tiếp cận đã được đưa vào trước khi mua.
+  - Đàm phán giá cả và điều khoản cho các khoản mua thường lệ.
+  - Giữ dấu vết kiểm toán rõ ràng và đăng thông báo trao hợp đồng khi quy tắc yêu cầu.
+  - Phân tích dữ liệu chi tiêu để tìm khoản chi ngoài hợp đồng và đề xuất các con đường tốt hơn.
+  qualifications:
+  - Có bằng cấp mua sắm ở trình độ chứng chỉ, chương trình học nghề về mua sắm, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm mua hàng qua báo giá hoặc thỏa thuận khung.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 3 vì công việc mua vật tư và dịch vụ thay mặt những người quản lý ngân sách.
+- title: Cán bộ mua sắm
+  summary: Thực hiện các gói mua sắm có giá trị và độ phức tạp vừa phải, gồm các gói thầu chính thức, từ lập kế hoạch đến trao hợp đồng, với một cán bộ mua sắm cao cấp sẵn sàng tư vấn.
+  responsibilities:
+  - Thực hiện các gói thầu chính thức và cuộc cạnh tranh theo thỏa thuận khung từ lập kế hoạch đến trao thầu, quản lý tiến độ và các câu hỏi làm rõ.
+  - Giúp những người quản lý ngân sách viết các đặc tả rõ ràng, dựa trên kết quả, gồm yêu cầu kỹ thuật và bảo vệ dữ liệu.
+  - Thiết lập việc đánh giá, kiểm tra hồ sơ dự thầu về tính tuân thủ, hỗ trợ người đánh giá và ghi lại việc điều chỉnh điểm.
+  - Viết báo cáo trao thầu và phản hồi cho nhà thầu, và quản lý giai đoạn chờ.
+  - Đưa vào các câu hỏi về giá trị xã hội và bền vững phù hợp với hợp đồng.
+  - Bàn giao hợp đồng cho quản lý hợp đồng cùng các kế hoạch khởi động và thoát rõ ràng.
+  - Đào tạo những người quản lý ngân sách về cách mua và giám sát các trợ lý mua sắm.
+  qualifications:
+  - Có chứng chỉ nghề mua sắm được công nhận ở trình độ trung cấp, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm thực hiện các gói thầu chính thức theo quy tắc mua sắm công.
+- title: Cán bộ mua sắm cao cấp
+  summary: Dẫn dắt các gói mua sắm phức tạp, như hệ thống lâm sàng, dịch vụ đám mây và dịch vụ công nghệ, và tư vấn về con đường đưa ra thị trường phù hợp, làm việc với quyền tự chủ rộng trong chính sách mua sắm.
+  responsibilities:
+  - Dẫn dắt các gói mua sắm phức tạp và giá trị cao, chọn đúng con đường đưa ra thị trường và thủ tục.
+  - Dẫn dắt việc tiếp cận thị trường sớm và các yêu cầu cung cấp thông tin, giữ cạnh tranh công bằng.
+  - Thiết kế tiêu chí đánh giá và trọng số cùng các trưởng nhóm kỹ thuật, lâm sàng và quản trị thông tin, và dẫn dắt việc điều chỉnh điểm.
+  - Bảo đảm các hợp đồng công nghệ có điều khoản về khả năng tương tác, an ninh, quyền sở hữu dữ liệu, thoát và hoàn trả dữ liệu.
+  - Đàm phán với nhà thầu khi thủ tục cho phép, và thống nhất các điều khoản cuối cùng.
+  - Tư vấn về thay đổi hợp đồng, gia hạn và chỉ định trực tiếp, và rủi ro bị khiếu nại.
+  - Huấn luyện và kiểm tra công việc của các cán bộ mua sắm và nhân viên mua hàng.
+  qualifications:
+  - Có chứng chỉ nghề mua sắm được công nhận ở trình độ nâng cao, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm dày dặn trong việc dẫn dắt các gói thầu phức tạp, tốt nhất là về công nghệ hoặc hệ thống lâm sàng.

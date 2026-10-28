@@ -1,0 +1,273 @@
+# Bản dịch tiếng Việt của data/skills/finance.yaml. Khóa là mã kỹ năng tiếng Anh.
+fin-financial-transactions:
+  name: Giao dịch tài chính và sổ cái
+  description: Xử lý và ghi nhận chính xác hóa đơn, thanh toán, biên lai, bút toán nhật ký và đối chiếu vào sổ cái, tuân theo các kiểm soát tài chính.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các quy trình từ mua đến trả tiền và từ đặt hàng đến thu tiền, và phần việc của bạn trong đó
+      - nhập chính xác hóa đơn, biên lai và thanh toán, theo các quy trình đã định
+      - kiểm tra một giao dịch có sự phê duyệt đúng và chứng từ hỗ trợ hay không
+    working: |
+      Bạn có thể:
+      - xử lý nhiều loại giao dịch, kể cả giấy báo có, hoàn tiền và bút toán nhật ký
+      - đối chiếu sao kê nhà cung cấp, tài khoản ngân hàng và tài khoản kiểm soát
+      - giải quyết các thắc mắc thường lệ từ nhà cung cấp, khách hàng và người quản lý ngân sách
+      - phát hiện các giao dịch trùng lặp, bất thường hoặc chưa được phê duyệt và báo cáo
+    practitioner: |
+      Bạn có thể:
+      - quản lý một sổ cái hoặc quy trình giao dịch và giữ cho nó chính xác, cập nhật
+      - điều tra và xóa các khoản đối chiếu phức tạp và số dư tồn đọng lâu ngày
+      - cải thiện quy trình giao dịch, ví dụ bằng cách tự động hóa việc khớp lệnh hoặc phê duyệt
+      - đào tạo và kiểm tra công việc của các nhân viên khác
+    expert: |
+      Bạn có thể:
+      - thiết kế các quy trình giao dịch của tổ chức và các kiểm soát trong đó
+      - đề ra tiêu chuẩn hiệu quả, như thời gian thanh toán và mục tiêu thu hồi nợ
+      - dẫn dắt việc chuyển sang các cách xử lý mới, như tự động hóa và tự phục vụ
+      - bảo đảm với các lãnh đạo cấp cao và kiểm toán viên rằng sổ cái đầy đủ và chính xác
+fin-financial-reporting:
+  name: Báo cáo tài chính và báo cáo tài chính theo luật định
+  description: Lập các báo cáo tài chính và báo cáo theo luật định chính xác, tuân theo các chuẩn mực kế toán áp dụng và quy tắc báo cáo của khu vực công.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích mục đích của các báo cáo tài chính chính
+      - lập các giấy tờ làm việc và bảng đối chiếu hỗ trợ việc khóa sổ cuối tháng và cuối năm
+    working: |
+      Bạn có thể:
+      - lập các bút toán cuối tháng và cuối năm, như chi phí trích trước, chi phí trả trước và dự phòng
+      - lập các phần của báo cáo tài chính năm và thuyết minh kèm theo
+      - áp dụng các chuẩn mực kế toán cho các giao dịch thường lệ, như vốn hóa phần mềm và phần cứng
+    practitioner: |
+      Bạn có thể:
+      - lập báo cáo tài chính năm và các báo cáo theo luật định đúng tiến độ
+      - áp dụng các chuẩn mực kế toán cho các lĩnh vực phức tạp, như thuê tài sản, thỏa thuận điện toán đám mây và tài sản vô hình
+      - viết các bài báo cáo kế toán giải thích các phán đoán và ước tính
+      - quản lý cuộc kiểm toán độc lập đối với báo cáo tài chính và phản hồi các phát hiện
+    expert: |
+      Bạn có thể:
+      - làm chủ báo cáo thường niên và báo cáo tài chính của tổ chức cùng các chính sách kế toán làm cơ sở
+      - tư vấn cho hội đồng và ủy ban kiểm toán về các phán đoán quan trọng và các chuẩn mực mới
+      - dẫn dắt việc ứng phó với ý kiến kiểm toán ngoại trừ hoặc các sai sót trọng yếu
+      - bảo đảm việc báo cáo đáp ứng các quy tắc trách nhiệm giải trình công
+fin-management-accounting:
+  name: Kế toán quản trị
+  description: Cung cấp thông tin ngân sách và chi phí giúp các nhà quản lý lập kế hoạch, kiểm soát và ra quyết định, gồm phân tích chênh lệch, tính giá thành và báo cáo hiệu quả hoạt động.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích ngân sách, số thực tế, các khoản cam kết và chênh lệch
+      - lập các báo cáo ngân sách chuẩn từ hệ thống tài chính
+    working: |
+      Bạn có thể:
+      - lập báo cáo ngân sách hằng tháng và giải thích các chênh lệch chính
+      - hạch toán đúng chi phí giữa các trung tâm chi phí, dự án, và chi phí vốn và chi phí thường xuyên
+      - hỗ trợ những người quản lý ngân sách hiểu và quản lý ngân sách của họ
+    practitioner: |
+      Bạn có thể:
+      - quản lý chu trình báo cáo hằng tháng cho một ban hoặc chương trình
+      - xây dựng mô hình chi phí, như chi phí đầy đủ của một dịch vụ số hoặc đơn giá của một giao dịch
+      - phân tích xu hướng chi tiêu và tư vấn cho các quản lý về các hành động để giữ trong ngân sách
+      - phản biện một cách xây dựng các dự báo của những người quản lý ngân sách
+    expert: |
+      Bạn có thể:
+      - thiết kế cách tiếp cận báo cáo quản trị và tính giá thành của tổ chức
+      - trình bày kết quả tài chính trước hội đồng và các lãnh đạo cấp cao
+      - dẫn dắt việc dùng thông tin chi phí và hiệu quả để nâng cao giá trị đồng tiền
+      - đề ra tiêu chuẩn kế toán quản trị trong toàn tổ chức
+fin-financial-planning-and-forecasting:
+  name: Lập kế hoạch và dự báo tài chính
+  description: Xây dựng ngân sách, dự báo và kế hoạch tài chính trung hạn gắn tiền bạc với các ưu tiên và chương trình của tổ chức.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích chu trình lập ngân sách hằng năm và sự khác nhau giữa ngân sách và dự báo
+      - thu thập thông tin dự báo từ những người quản lý ngân sách
+    working: |
+      Bạn có thể:
+      - xây dựng ngân sách và dự báo cho một trung tâm chi phí hoặc dự án, kể cả chi phí nhân sự
+      - cập nhật dự báo hằng tháng với các thay đổi và rủi ro đã biết
+      - phân bổ ngân sách theo thời gian để mức chi tiêu khớp với kế hoạch triển khai
+    practitioner: |
+      Bạn có thể:
+      - dẫn dắt việc lập ngân sách và dự báo cho một ban hoặc chương trình lớn
+      - mô hình hóa các kịch bản và độ nhạy, như lạm phát, chậm trễ hoặc thay đổi nguồn tài trợ
+      - xây dựng dự báo nhiều năm cho các chương trình số, kể cả chi phí vận hành phát sinh sau đầu tư
+      - trình bày dự báo và rủi ro cho các quản lý cấp cao
+    expert: |
+      Bạn có thể:
+      - dẫn dắt kế hoạch tài chính trung hạn của tổ chức
+      - điều chỉnh các kế hoạch tài chính cho phù hợp với chiến lược, lực lượng lao động và kế hoạch đầu tư
+      - tư vấn cho hội đồng về tính bền vững tài chính và các lựa chọn cần thiết để giữ trong nguồn tài trợ
+      - đề ra các giả định và phương pháp lập kế hoạch dùng trong toàn tổ chức
+fin-payroll:
+  name: Tiền lương
+  description: Trả lương cho nhân viên chính xác và đúng hạn, gồm nhân viên mới, nhân viên nghỉ việc, các thay đổi, khoản khấu trừ, lương hưu, các khoản chi trả theo luật định và báo cáo tiền lương.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích chu trình tiền lương, từ các thay đổi và thời điểm chốt đến thanh toán và báo cáo
+      - nhập chính xác nhân viên mới, nhân viên nghỉ việc và các thay đổi từ các biểu mẫu đã được phê duyệt
+      - trả lời các thắc mắc thường lệ về lương, giữ bí mật thông tin lương
+    working: |
+      Bạn có thể:
+      - tính lương, phụ cấp, làm thêm giờ, ốm đau và các khoản chi trả nghỉ phép gia đình
+      - áp dụng đúng thuế, lương hưu và các khoản khấu trừ khác
+      - kiểm tra kết quả bảng lương và sửa lỗi trước khi thanh toán
+      - thu hồi các khoản trả thừa một cách tế nhị và đúng chính sách
+    practitioner: |
+      Bạn có thể:
+      - vận hành toàn bộ bảng lương cho một nhóm nhân viên và ký duyệt các kiểm tra bảng lương
+      - quản lý báo cáo tiền lương theo luật định và các báo cáo lương hưu
+      - giải quyết các trường hợp phức tạp, như nhiều hợp đồng, truy lĩnh lương hoặc hy sinh lương
+      - kiểm thử các thay đổi đối với hệ thống tiền lương, như tăng lương hằng năm và thay đổi quy tắc
+    expert: |
+      Bạn có thể:
+      - quản lý dịch vụ tiền lương của tổ chức, dù do nội bộ hay nhà cung cấp vận hành
+      - đề ra các kiểm soát tiền lương và bảo đảm với các lãnh đạo cấp cao rằng các khoản chi trả là chính xác và hợp pháp
+      - lập kế hoạch cho các thay đổi về quy tắc trả lương, tăng lương và hệ thống tiền lương
+      - dẫn dắt việc ứng phó với các sự cố lớn về tiền lương
+fin-treasury-and-cash:
+  name: Quản lý ngân quỹ và tiền mặt
+  description: Quản lý tài khoản ngân hàng, dòng tiền và tính thanh khoản để tổ chức đáp ứng được các cam kết của mình, trong khuôn khổ quy tắc về tiền mặt của khu vực công.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao tiền mặt quan trọng bên cạnh ngân sách
+      - ghi nhận và đối chiếu các giao dịch ngân hàng
+    working: |
+      Bạn có thể:
+      - lập vị thế tiền mặt hằng ngày và dự báo tiền mặt ngắn hạn
+      - lập các đợt chi trả và kiểm tra chúng đã được phê duyệt đúng
+      - đối chiếu tài khoản ngân hàng và xóa các khoản chưa khớp
+    practitioner: |
+      Bạn có thể:
+      - quản lý dự báo dòng tiền của tổ chức và việc rút nguồn tài trợ
+      - quản lý tài khoản ngân hàng, phương thức thanh toán và các kiểm soát ngân hàng
+      - lập kế hoạch tiền mặt cho các khoản chi lớn hoặc không đều, như giấy phép phần mềm nhiều năm
+    expert: |
+      Bạn có thể:
+      - đề ra chính sách ngân quỹ và các thỏa thuận ngân hàng của tổ chức
+      - tư vấn cho hội đồng về tính thanh khoản và rủi ro tiền mặt
+      - quản lý tiền mặt trong giới hạn do các bên tài trợ và quy tắc khu vực công đặt ra
+fin-audit-and-controls:
+  name: Kiểm soát tài chính và kiểm toán
+  description: Thiết kế, vận hành và kiểm tra các kiểm soát tài chính, phòng ngừa và phát hiện gian lận, và làm việc với các kiểm toán viên nội bộ và bên ngoài.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tuân theo các quy trình tài chính và cơ chế ủy quyền của tổ chức
+      - nhận biết dấu hiệu có thể là gian lận hoặc sai sót và báo cáo
+    working: |
+      Bạn có thể:
+      - vận hành các kiểm soát chính, như phân tách nhiệm vụ và kiểm tra thông tin ngân hàng của nhà cung cấp
+      - cung cấp bằng chứng cho kiểm toán viên và trả lời câu hỏi của họ
+      - kiểm tra chi tiêu được phê duyệt ở đúng cấp
+    practitioner: |
+      Bạn có thể:
+      - kiểm tra và cải thiện các kiểm soát cho một quy trình tài chính
+      - quản lý các yêu cầu kiểm toán cho một lĩnh vực và thống nhất các hành động đối với các phát hiện
+      - viết và cập nhật các quy trình tài chính
+      - làm việc với các chuyên gia chống gian lận để giảm rủi ro gian lận
+    expert: |
+      Bạn có thể:
+      - làm chủ các quy tắc tài chính và cơ chế ủy quyền của tổ chức
+      - báo cáo với ủy ban kiểm toán về kiểm soát tài chính và các hành động kiểm toán
+      - dẫn dắt việc ứng phó với các sai phạm kiểm soát nghiêm trọng hoặc gian lận
+      - xây dựng văn hóa trong đó nhân viên hiểu nghĩa vụ sử dụng đúng đắn tiền công
+fin-business-cases:
+  name: Luận chứng kinh doanh và thẩm định đầu tư
+  description: Xây dựng luận chứng tài chính cho đầu tư, gồm thẩm định các phương án, chi phí toàn vòng đời, cách hạch toán chi phí vốn và chi phí thường xuyên, lợi ích và giá trị đồng tiền.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích mục đích của một luận chứng kinh doanh và phần tài chính của nó
+      - thu thập thông tin chi phí cho một luận chứng kinh doanh
+    working: |
+      Bạn có thể:
+      - xây dựng mô hình tài chính cho một luận chứng kinh doanh đơn giản
+      - tách chi phí vốn và chi phí thường xuyên, chi phí một lần và chi phí định kỳ
+      - đưa vào các chi phí toàn vòng đời, như giấy phép, hỗ trợ và lưu trữ sau khi đưa vào vận hành
+    practitioner: |
+      Bạn có thể:
+      - dẫn dắt luận chứng tài chính cho các khoản đầu tư số phức tạp, như một hệ thống lâm sàng mới hoặc chuyển lên đám mây
+      - thẩm định các phương án bằng giá trị hiện tại ròng, phân tích độ nhạy và điều chỉnh theo rủi ro
+      - kiểm tra các lợi ích có thực tế, đo lường được và có người chịu trách nhiệm hay không
+      - theo dõi chi tiêu và lợi ích sau khi được phê duyệt
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn của tổ chức về luận chứng kinh doanh và thẩm định đầu tư
+      - tư vấn cho các hội đồng đầu tư về khả năng chi trả, giá trị đồng tiền và rủi ro
+      - trình bày luận chứng với các bên tài trợ cho các chương trình đầu tư lớn
+      - rà soát danh mục đầu tư và đề xuất nơi nào nên dừng, thay đổi hoặc tiếp tục
+fin-tax:
+  name: Thuế
+  description: Áp dụng đúng thuế bán hàng, thuế lao động và các quy tắc thuế khác cho các giao dịch của tổ chức, và đòi lại thuế khi được phép.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - nhận biết thuế bán hàng trên hóa đơn và hạch toán đúng
+      - giải thích khi nào cần xin tư vấn từ chuyên gia thuế
+    working: |
+      Bạn có thể:
+      - lập tờ khai thuế và bảng đối chiếu thuế dưới sự giám sát
+      - áp dụng cách xử lý thuế đúng cho các khoản mua và thu nhập thông thường
+      - kiểm tra tình trạng lao động của các nhà thầu dưới sự hướng dẫn
+    practitioner: |
+      Bạn có thể:
+      - quản lý các tờ khai thuế và đối chiếu thuế của tổ chức
+      - tư vấn về cách xử lý thuế của các hợp đồng, như giấy phép phần mềm, dịch vụ đám mây và dịch vụ dùng chung
+      - tối đa hóa việc đòi lại thuế trong khuôn khổ quy tắc
+    expert: |
+      Bạn có thể:
+      - làm chủ chiến lược thuế và rủi ro thuế của tổ chức
+      - dẫn dắt các cuộc thảo luận với cơ quan thuế về các vấn đề phức tạp
+      - đánh giá tác động thuế của các thay đổi lớn, như quan hệ đối tác mới hoặc hoạt động kinh doanh
+fin-financial-systems:
+  name: Hệ thống tài chính
+  description: Sử dụng, quản trị và cải thiện các hệ thống tài chính, mua sắm, tiền lương và báo cáo để dữ liệu tài chính chính xác và các quy trình hiệu quả.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - dùng hệ thống tài chính cho các nhiệm vụ của riêng bạn, theo các quy trình
+      - chạy các báo cáo chuẩn và xuất dữ liệu sang bảng tính
+    working: |
+      Bạn có thể:
+      - dùng bảng tính thành thạo, gồm công thức, hàm tra cứu và bảng tổng hợp
+      - duy trì dữ liệu của hệ thống tài chính, như trung tâm chi phí, nhà cung cấp và người phê duyệt
+      - báo cáo và giúp khắc phục các sự cố hệ thống
+    practitioner: |
+      Bạn có thể:
+      - quản trị hệ thống tài chính hoặc tiền lương, gồm quyền truy cập, quy trình làm việc và báo cáo
+      - thiết kế báo cáo và bảng điều khiển cho những người quản lý ngân sách
+      - kiểm thử các thay đổi và nâng cấp hệ thống
+      - tự động hóa các nhiệm vụ tài chính lặp đi lặp lại
+    expert: |
+      Bạn có thể:
+      - làm chủ chiến lược và lộ trình của các hệ thống tài chính
+      - dẫn dắt việc mua sắm và triển khai các hệ thống tài chính hoặc tiền lương
+      - bảo đảm dữ liệu tài chính được tích hợp với dữ liệu về lực lượng lao động, mua sắm và hiệu quả hoạt động
+fin-public-sector-finance:
+  name: Tài chính khu vực công
+  description: Hiểu cách tài trợ công hoạt động, gồm phân bổ nguồn tài trợ, giới hạn chi phí vốn và chi phí thường xuyên, kiểm soát chi tiêu, trách nhiệm giải trình về tiền công và giá trị đồng tiền.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích rằng tổ chức chi tiêu tiền công và phải giải trình về khoản tiền đó
+      - giải thích sự khác nhau giữa chi tiêu vốn và chi tiêu thường xuyên
+    working: |
+      Bạn có thể:
+      - áp dụng các quy tắc về chi phí vốn và chi phí thường xuyên của tổ chức cho chi tiêu hằng ngày
+      - giải thích việc phân bổ nguồn tài trợ và giới hạn chi tiêu ảnh hưởng đến lĩnh vực của bạn như thế nào
+      - nhận biết khoản chi tiêu cần có sự phê duyệt của bên tài trợ hoặc cơ chế kiểm soát chi tiêu
+    practitioner: |
+      Bạn có thể:
+      - tư vấn cho các quản lý về quy tắc tài trợ, kể cả nguồn tài trợ chỉ dùng cho mục đích riêng và có thời hạn
+      - quản lý giới hạn chi phí vốn và chi phí thường xuyên cho một chương trình hoặc một ban
+      - lập các báo cáo và bằng chứng cho các bên tài trợ và cơ chế kiểm soát chi tiêu
+    expert: |
+      Bạn có thể:
+      - đại diện tổ chức làm việc với các bên tài trợ và cơ quan giám sát
+      - tư vấn cho hội đồng về tính hợp quy, tính đúng đắn và giá trị đồng tiền
+      - định hình các thỏa thuận tài trợ và chế độ tài chính cho các dịch vụ của tổ chức

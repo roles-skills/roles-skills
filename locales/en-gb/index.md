@@ -11,7 +11,7 @@ Find the family closest to your work, then the role, then the band.
 | [Software developer](roles/software-developer/) | 4, 5, 6, 7, 8a, 8b | Software developer |
 | [Frontend developer](roles/frontend-developer/) | 4, 5, 6, 7, 8b, 8c | Frontend developer |
 | [DevOps engineer](roles/devops-engineer/) | 4, 5, 6, 7, 8b, 8c | Development operations (DevOps) engineer |
-| [Integration engineer (health interoperability)](roles/integration-engineer-health-interoperability/) | 5, 6, 7, 8a | — |
+| [Integration engineer (health interoperability)](roles/integration-engineer/) | 5, 6, 7, 8a | — |
 
 ## Architecture
 
@@ -77,7 +77,7 @@ Find the family closest to your work, then the role, then the band.
 
 | Role | Bands | UK GDaD PCF role |
 | --- | --- | --- |
-| [Security operations analyst](roles/security-operations-analyst/) | 5, 6, 7 | — |
+| [Security operations analyst](roles/security-analyst/) | 5, 6, 7 | — |
 | [Security engineer](roles/security-engineer/) | 6, 7, 8a | — |
 | [Cyber security manager](roles/cyber-security-manager/) | 8a, 8b, 8c, 8d | — |
 
@@ -101,7 +101,7 @@ Find the family closest to your work, then the role, then the band.
 
 | Role | Bands | UK GDaD PCF role |
 | --- | --- | --- |
-| [Health records officer](roles/health-records-officer/) | 2, 3, 4, 5 | — |
+| [Health records officer](roles/records-officer/) | 2, 3, 4, 5 | — |
 | [Information governance officer](roles/information-governance-officer/) | 4, 5, 6, 7, 8a | — |
 | [Data protection officer](roles/data-protection-officer/) | 8a, 8b, 8c | — |
 
@@ -121,15 +121,15 @@ Find the family closest to your work, then the role, then the band.
 | --- | --- | --- |
 | [Legal assistant](roles/legal-assistant/) | 3, 4, 5 | — |
 | [Legal adviser](roles/legal-adviser/) | 7, 8a, 8b | — |
-| [Head of legal services](roles/head-of-legal-services/) | 8c, 8d, 9 | — |
+| [Head of legal services](roles/head-of-legal/) | 8c, 8d, 9 | — |
 
 ## Human resources
 
 | Role | Bands | UK GDaD PCF role |
 | --- | --- | --- |
-| [Human resources officer](roles/human-resources-officer/) | 3, 4, 5, 6 | — |
+| [Human resources officer](roles/hr-officer/) | 3, 4, 5, 6 | — |
 | [Recruitment officer](roles/recruitment-officer/) | 3, 4, 5, 6 | — |
-| [Human resources business partner](roles/human-resources-business-partner/) | 7, 8a, 8b | — |
+| [Human resources business partner](roles/hr-business-partner/) | 7, 8a, 8b | — |
 | [Learning and development specialist](roles/learning-and-development-specialist/) | 4, 5, 6, 7, 8a | — |
 | [Head of people](roles/head-of-people/) | 8c, 8d, 9 | — |
 

@@ -9,12 +9,12 @@
 
 ## Summary
 
-Finance officers keep the organization's day-to-day finances accurate and under control. They process and record invoices, payments, income, and journals, reconcile ledgers and bank accounts, and help budget holders and suppliers with their queries. In a digital health care organization much of this work involves technology suppliers, software licences, and cloud services, often paid from public funding with strict rules on how it is spent.
+Finance officers keep the organization's day-to-day finances accurate and under control. They process and record invoices, payments, income, and journals, reconcile ledgers and bank accounts, and help budget holders and suppliers with their queries. In a digital health care organization much of this work involves technology suppliers, software licenses, and cloud services, often paid from public funding with strict rules on how it is spent.
 
 ## In a digital health care organization
 
 - The organization spends public money, so every payment must be properly approved, recorded, and able to stand up to audit.
-- Many invoices are for software licences, cloud hosting, and support contracts, which need checking against contract terms, usage, and the right capital or revenue code.
+- Many invoices are for software licenses, cloud hosting, and support contracts, which need checking against contract terms, usage, and the right capital or revenue code.
 - Prompt and accurate payment matters, because small suppliers and care providers may depend on it.
 - Finance staff see personal information, such as staff expenses and payments to patients or care providers, and must handle it under information governance rules.
 - Fraud risks, such as false requests to change supplier bank details, target public bodies, so officers follow strict checks.
@@ -72,8 +72,8 @@ Finance assistants process routine financial transactions, such as supplier invo
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 2 | 36 |
-| 3 | Analytical and judgemental skills | 2 | 15 |
-| 4 | Planning and organisational skills | 1 | 6 |
+| 3 | Analytical and judgmental skills | 2 | 15 |
+| 4 | Planning and organizational skills | 1 | 6 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 1 | 5 |
@@ -107,7 +107,7 @@ Finance officers run a part of the transaction cycle, such as accounts payable, 
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Financial transactions and ledgers](../../skills/#financial-transactions-and-ledgers) | This reference | Working | You can:<br>• process a range of transactions, including credit notes, refunds, and journals<br>• reconcile supplier statements, bank accounts, and control accounts<br>• resolve routine queries from suppliers, customers, and budget holders<br>• spot duplicate, unusual, or unauthorized transactions and raise them |
+| [Financial transactions and ledgers](../../skills/#financial-transactions-and-ledgers) | This reference | Working | You can:<br>• process a range of transactions, including credit notes, refunds, and journals<br>• reconcile supplier statements, bank accounts, and control accounts<br>• resolve routine queries from suppliers, customers, and budget holders<br>• spot duplicate, unusual, or unauthorised transactions and raise them |
 | [Finance systems](../../skills/#finance-systems) | This reference | Working | You can:<br>• use spreadsheets well, including formulas, lookups, and pivot tables<br>• maintain finance system data, such as cost centers, suppliers, and approvers<br>• report and help fix system problems |
 | [Financial controls and audit](../../skills/#financial-controls-and-audit) | This reference | Working | You can:<br>• operate key controls, such as separation of duties and supplier bank detail checks<br>• provide evidence to auditors and answer their questions<br>• check that spending is approved at the right level |
 | [Treasury and cash management](../../skills/#treasury-and-cash-management) | This reference | Awareness | You can:<br>• explain why cash matters as well as budgets<br>• record and reconcile bank transactions |
@@ -134,8 +134,8 @@ Finance officers run a part of the transaction cycle, such as accounts payable, 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 3 | 60 |
-| 3 | Analytical and judgemental skills | 2 | 15 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 2 | 15 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 1 | 5 |
@@ -199,8 +199,8 @@ Senior finance officers handle the more complex financial processing and reconci
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -262,8 +262,8 @@ Finance team leaders manage a transactional finance team or work as finance anal
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -283,5 +283,5 @@ People is level 3 because the job manages a small finance team day to day. A fin
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

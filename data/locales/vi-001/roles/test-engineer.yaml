@@ -1,0 +1,46 @@
+summary: Kỹ sư kiểm thử xây dựng các kiểm thử tự động, công cụ và khung giúp các nhóm kiểm thử các dịch vụ y tế số của tổ chức nhanh chóng và thường xuyên. Họ viết mã để kiểm thử chức năng, tích hợp, hiệu năng, an ninh và khả năng phục hồi, và đưa kiểm thử vào các đường ống phân phối, để các thay đổi đối với hệ thống lâm sàng và hướng tới bệnh nhân có thể được phát hành một cách an toàn.
+health_context:
+- Các hệ thống lâm sàng quan trọng về an toàn, nên các kiểm thử hồi quy tự động bảo vệ các biện pháp kiểm soát an toàn được ghi trong nhật ký mối nguy và được giữ làm bằng chứng cho hồ sơ an toàn.
+- Các tích hợp với hệ thống y tế và chăm sóc khác cần kiểm thử tự động theo các tiêu chuẩn như HL7 FHIR và HL7 phiên bản 2, thường dùng các hệ thống đối tác mô phỏng.
+- Các dịch vụ lâm sàng hoạt động suốt ngày đêm và đạt đỉnh vào những thời điểm có thể dự đoán, nên kiểm thử hiệu năng và khả năng phục hồi mô hình hóa nhu cầu lâm sàng thực tế.
+- Môi trường kiểm thử không được chứa dữ liệu bệnh nhân thật, nên các kỹ sư tạo dữ liệu tổng hợp thực tế, kể cả các trường hợp lâm sàng hiếm và biên.
+- Phần mềm bị quản lý như thiết bị y tế cần kiểm thử có thể truy vết, lặp lại được như một phần của vòng đời theo các tiêu chuẩn như IEC 62304.
+levels:
+- title: Kỹ sư kiểm thử trợ lý
+  responsibilities:
+  - Viết và duy trì các kiểm thử tự động đơn giản dưới sự giám sát, theo các tiêu chuẩn kỹ thuật của nhóm.
+  - Chạy các kiểm thử tự động và thủ công và ghi chính xác kết quả.
+  - Giúp điều tra và báo cáo lỗi, kể cả trong các tích hợp với hệ thống lâm sàng.
+  - Dùng dữ liệu kiểm thử tổng hợp và tuân thủ các quy tắc quản trị thông tin trong môi trường kiểm thử.
+  - Học các công cụ kiểm thử, thực hành viết mã và quy trình an toàn lâm sàng của nhóm.
+  qualifications:
+  - Có một số kinh nghiệm viết mã hoặc kiểm thử, hoặc đã đăng ký chương trình học nghề liên quan, hoặc tương đương.
+- title: Kỹ sư kiểm thử
+  responsibilities:
+  - Thiết kế và xây dựng các kiểm thử chức năng, tích hợp và API tự động cho các dịch vụ lâm sàng và hướng tới bệnh nhân.
+  - Xây dựng các kiểm thử kiểm tra thông điệp theo hồ sơ cấu hình HL7 FHIR và các đặc tả tương tác khác.
+  - Tạo dữ liệu bệnh nhân tổng hợp bao gồm các trường hợp lâm sàng thực tế và biên.
+  - Thêm kiểm thử vào các đường ống phân phối để các kiểm tra liên quan đến an toàn chạy trên mỗi thay đổi.
+  - Ước tính công sức kiểm thử, báo cáo kết quả và hỗ trợ giải quyết lỗi.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc một ngành liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm xây dựng các kiểm thử tự động.
+- title: Kỹ sư kiểm thử cao cấp
+  responsibilities:
+  - Dẫn dắt kỹ thuật kiểm thử cho một mảng, chọn công cụ, khung và loại kiểm thử giải quyết sớm các rủi ro của mảng đó.
+  - Xây dựng các khung kiểm thử và trình mô phỏng có thể tái sử dụng cho các hệ thống lâm sàng và tích hợp đối tác.
+  - Lập kế hoạch và thực hiện kiểm thử hiệu năng, tải và khả năng phục hồi dựa trên nhu cầu lâm sàng thực tế.
+  - Bảo đảm các kiểm thử tự động truy vết đến mối nguy và biện pháp kiểm soát an toàn và tạo bằng chứng cho hồ sơ an toàn.
+  - Huấn luyện và hướng dẫn các kỹ sư kiểm thử khác, và thống nhất tiêu chuẩn kỹ thuật với lập trình viên.
+  qualifications:
+  - Có kinh nghiệm dày dặn về kỹ thuật kiểm thử, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng nhóm kỹ sư kiểm thử
+  responsibilities:
+  - Đề ra chiến lược và tiêu chuẩn kỹ thuật kiểm thử trên một mảng rộng, gồm kiểm thử liên tục trong các đường ống phân phối.
+  - Dẫn dắt và hướng dẫn các kỹ sư kiểm thử và các nhóm về thực hành kỹ thuật chất lượng.
+  - Bảo đảm việc kiểm thử phần mềm chịu quản lý và quan trọng về an toàn đáp ứng các tiêu chuẩn yêu cầu và có thể truy vết.
+  - Báo cáo lên cấp trên các rủi ro về chất lượng và an toàn cho các trưởng nhóm sản phẩm, lâm sàng và nhà cung cấp cấp cao.
+  - Tìm cơ hội kiểm thử sớm hơn và thường xuyên hơn, và đo lường tác động đối với chất lượng.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật kiểm thử cho các dịch vụ phức tạp.
+  job_evaluation_notes: UK GDaD PCF gợi ý SEO đến G6 cho cấp này, tương ứng với Bậc 7, cùng bậc với kỹ sư kiểm thử cao cấp. Tài liệu tham khảo này xếp nó ở Bậc 8a, vì nó đề ra chiến lược và tiêu chuẩn kỹ thuật kiểm thử trên một mảng rộng.

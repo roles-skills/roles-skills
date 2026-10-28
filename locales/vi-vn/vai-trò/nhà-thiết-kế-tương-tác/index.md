@@ -1,0 +1,463 @@
+# Nhà thiết kế tương tác
+
+> Đây là hồ sơ tham khảo mang tính minh họa cho một tổ chức chăm sóc sức khỏe số nói chung. Đây không phải là bản mô tả công việc chính thức của bất kỳ nhà tuyển dụng nào, và điểm đánh giá công việc không phải là một đánh giá chính thức.
+
+> Bản dịch này được trợ lý AI dịch từ tiếng Anh và chưa được người bản ngữ rà soát. Các đoạn trích từ UK GDaD PCF (Khung năng lực nghề nghiệp kỹ thuật số và dữ liệu của Chính phủ Anh) và ESCO được giữ nguyên bằng tiếng Anh.
+
+**Nhóm:** [Thiết kế lấy người dùng làm trung tâm](../../#thiết-kế-lấy-người-dùng-làm-trung-tâm)  
+**Bậc:** 4, 5, 6, 7, 8b, 8c  
+**Vai trò UK GDaD PCF:** [Interaction designer](https://understand-digital-data-roles-skills.service.gov.uk/role/interaction-designer/)  
+**Nghề nghiệp ESCO:** [user interface designer](http://data.europa.eu/esco/occupation/96e20037-0a25-4bf6-a25e-808d1605d890) (ISCO-08 2513)
+
+## Tóm tắt
+
+Nhà thiết kế tương tác thiết kế cách bệnh nhân, người chăm sóc, bác sĩ lâm sàng và nhân viên chăm sóc sử dụng các dịch vụ y tế số của tổ chức, từ ứng dụng và biểu mẫu dành cho bệnh nhân đến các màn hình mà bác sĩ lâm sàng dùng bên giường bệnh. Họ thiết kế các tương tác đơn giản, dễ tiếp cận và an toàn, kiểm thử chúng với người dùng thật, và dùng các hệ thống thiết kế dùng chung để các dịch vụ có cảm giác nhất quán và quen thuộc.
+
+## Trong một tổ chức chăm sóc sức khỏe số
+
+- Bác sĩ lâm sàng thường dùng hệ thống dưới áp lực thời gian, với các gián đoạn và trên thiết bị dùng chung, nên thiết kế phải hỗ trợ công việc nhanh, chính xác và làm cho hành động an toàn cũng là hành động dễ làm.
+- Thiết kế kém có thể gây hại lâm sàng, như chọn nhầm bệnh nhân hoặc đọc nhầm liều thuốc, nên các nhà thiết kế áp dụng các nguyên tắc yếu tố con người và làm việc với cán bộ an toàn lâm sàng.
+- Nhiều người dùng đang ốm, lo lắng, cao tuổi hoặc khuyết tật, nên thiết kế phải đáp ứng các tiêu chuẩn khả năng tiếp cận và phù hợp với những người có kỹ năng số hoặc hiểu biết về sức khỏe thấp.
+- Cảnh báo chỉ hữu ích nếu mọi người chú ý và tin tưởng chúng, nên các nhà thiết kế giúp giảm sự mệt mỏi vì cảnh báo và giữ cho thông tin quan trọng về an toàn luôn hiển thị.
+
+## Mô tả vai trò UK GDaD PCF (bản gốc tiếng Anh)
+
+> An interaction designer works out the best way to let users interact with services, in terms of both overall flow and at the level of individual design elements.
+
+## Các cấp của vai trò
+
+| Bậc | Chức danh | Cấp UK GDaD PCF | Ngạch công chức | Điểm đánh giá công việc |
+| --- | --- | --- | --- | --- |
+| 4 | [Nhà thiết kế tương tác trợ lý](#bậc-4-nhà-thiết-kế-tương-tác-trợ-lý) | Associate interaction designer | EO | 275 |
+| 5 | [Nhà thiết kế tương tác sơ cấp](#bậc-5-nhà-thiết-kế-tương-tác-sơ-cấp) | Junior interaction designer | EO/HEO | 335 |
+| 6 | [Nhà thiết kế tương tác](#bậc-6-nhà-thiết-kế-tương-tác) | Interaction designer | SEO/G7 | 421 |
+| 7 | [Nhà thiết kế tương tác cao cấp](#bậc-7-nhà-thiết-kế-tương-tác-cao-cấp) | Senior interaction designer | SEO/G7 | 475 |
+| 8b | [Trưởng nhóm thiết kế tương tác](#bậc-8b-trưởng-nhóm-thiết-kế-tương-tác) | Lead interaction designer | G7/G6 | 596 |
+| 8c | [Trưởng bộ phận thiết kế tương tác](#bậc-8c-trưởng-bộ-phận-thiết-kế-tương-tác) | Head of interaction design | G6 | 634 |
+
+## Bậc 4: Nhà thiết kế tương tác trợ lý
+
+**Cấp UK GDaD PCF: Associate interaction designer**
+
+> As a trainee in an entry-level position, working under supervision, you need aptitude, potential and an understanding of the role.
+
+### Trách nhiệm
+
+- Học các phương pháp thiết kế tương tác và hệ thống thiết kế của nhóm qua đào tạo và làm việc theo cặp.
+- Tạo bản phác thảo, khung sườn và nguyên mẫu đơn giản dưới sự giám sát.
+- Giúp kiểm thử thiết kế với người dùng và ghi lại điều gì hiệu quả và điều gì không.
+- Tuân thủ các tiêu chuẩn khả năng tiếp cận và các mẫu của hệ thống thiết kế, kể cả những mẫu về nhận dạng bệnh nhân và cảnh báo an toàn.
+
+### Kỹ năng
+
+| Kỹ năng | Nguồn | Mức kỳ vọng | Ý nghĩa của mức này |
+| --- | --- | --- | --- |
+| [Design communication](../../kỹ-năng/#design-communication) | UK GDaD PCF | Nhận biết | You can:<br>• explain the importance of clearly communicating and justifying design decisions to others<br>• describe some methods for explaining design decisions |
+| [Designing for everyone](../../kỹ-năng/#designing-for-everyone) | UK GDaD PCF | Nhận biết | You can:<br>• explain the importance of making government content and services inclusive, accessible and environmentally sustainable, and the value of standards and regulations<br>• explain different access needs that users can have, and ways to meet them<br>• describe potential barriers, biases and assumptions that may exclude or harm users |
+| [Designing strategically](../../kỹ-năng/#designing-strategically) | UK GDaD PCF | Nhận biết | You can:<br>• explain the importance of aligning to the strategy of an organisation<br>• describe how your design work aligns to the wider goals and vision of your team<br>• explain the value of using patterns and components when designing content and services |
+| [Designing together](../../kỹ-năng/#designing-together) | UK GDaD PCF | Nhận biết | You can:<br>• explain different techniques for bringing together perspectives from multiple people to inform a design<br>• explain the importance of constructive feedback in the design process |
+| [Evidence-based design](../../kỹ-năng/#evidence-based-design) | UK GDaD PCF | Nhận biết | You can:<br>• explain how quantitative and qualitative evidence inform user-centred design<br>• frame your ideas as design hypotheses to be tested<br>• identify common sources and types of data that inform user-centred design, such as web analytics and user interviews |
+| [Iterative design](../../kỹ-năng/#iterative-design) | UK GDaD PCF | Nhận biết | You can:<br>• describe the basics of iterative ways of working used in design, such as agile<br>• explain how iteration supports user-centred design<br>• describe ways to test design ideas at different levels of detail and realism, and when to use them |
+| [Leading design](../../kỹ-năng/#leading-design) | UK GDaD PCF | Nhận biết | You can:<br>• explain the role of user-centred design in an organisation<br>• describe typical leadership responsibilities in design<br>• identify leaders in your organisation that designers need to work with |
+| [Hiểu biết về các dịch vụ y tế và chăm sóc](../../kỹ-năng/#hiểu-biết-về-các-dịch-vụ-y-tế-và-chăm-sóc) | Tài liệu tham khảo này | Nhận biết | Bạn có thể:<br>• mô tả các bộ phận chính của hệ thống y tế và chăm sóc cùng các dịch vụ mà tổ chức hỗ trợ<br>• giải thích vì sao an toàn và bảo mật cho bệnh nhân quan trọng trong công việc của bạn |
+| [Thiết kế cho an toàn lâm sàng và yếu tố con người](../../kỹ-năng/#thiết-kế-cho-an-toàn-lâm-sàng-và-yếu-tố-con-người) | Tài liệu tham khảo này | Nhận biết | Bạn có thể:<br>• giải thích các lựa chọn thiết kế có thể gây ra hoặc ngăn ngừa sai sót trong chăm sóc như thế nào, chẳng hạn nhầm bệnh nhân hoặc nhầm liều<br>• dùng các mẫu thiết kế của tổ chức cho thông tin quan trọng về an toàn, như biểu ngữ nhận dạng bệnh nhân và cảnh báo dị ứng |
+| [Bình đẳng, đa dạng và hòa nhập](../../kỹ-năng/#bình-đẳng-đa-dạng-và-hòa-nhập) | Tài liệu tham khảo này | Nhận biết | Bạn có thể:<br>• đối xử với đồng nghiệp, bệnh nhân và công chúng một cách tôn trọng và có phẩm giá<br>• tuân theo các chính sách về bình đẳng và hòa nhập |
+
+### Trình độ và kinh nghiệm thông thường
+
+- Đang hướng tới bằng cấp hoặc chương trình học nghề về thiết kế hoặc lĩnh vực liên quan, hoặc kinh nghiệm tương đương.
+
+### Mô tả bậc
+
+- **Kiến thức:** Hiểu biết chi tiết về lĩnh vực công việc, thường có từ bằng cao đẳng, học nghề hoặc kinh nghiệm tương đương.
+- **Quyền tự chủ:** Làm việc trong khuôn khổ hướng dẫn; giải quyết hầu hết các vấn đề hằng ngày; có quản lý để xin ý kiến.
+- **Phạm vi:** Công việc của bản thân và một dịch vụ hoặc quy trình được xác định.
+- **Lãnh đạo:** Có thể giám sát một nhóm nhỏ hoặc điều phối công việc của người khác.
+- **Trách nhiệm giải trình:** Việc thực hiện một dịch vụ hoặc quy trình được xác định.
+
+### Đánh giá công việc (minh họa)
+
+| # | Yếu tố | Mức | Điểm |
+| --- | --- | --- | --- |
+| 1 | Kỹ năng giao tiếp và xây dựng quan hệ | 3 | 21 |
+| 2 | Kiến thức, đào tạo và kinh nghiệm | 4 | 88 |
+| 3 | Kỹ năng phân tích và đánh giá | 3 | 27 |
+| 4 | Kỹ năng lập kế hoạch và tổ chức | 2 | 15 |
+| 5 | Kỹ năng thể chất | 3 | 27 |
+| 6 | Trách nhiệm chăm sóc bệnh nhân và khách hàng | 1 | 4 |
+| 7 | Trách nhiệm phát triển chính sách và dịch vụ | 2 | 12 |
+| 8 | Trách nhiệm về nguồn lực tài chính và vật chất | 1 | 5 |
+| 9 | Trách nhiệm đối với con người | 1 | 5 |
+| 10 | Trách nhiệm về nguồn lực thông tin | 3 | 16 |
+| 11 | Trách nhiệm nghiên cứu và phát triển | 2 | 12 |
+| 12 | Quyền tự chủ hành động | 2 | 12 |
+| 13 | Nỗ lực thể chất | 2 | 7 |
+| 14 | Nỗ lực trí tuệ | 3 | 12 |
+| 15 | Nỗ lực cảm xúc | 1 | 5 |
+| 16 | Điều kiện làm việc | 2 | 7 |
+| | **Tổng** | | **275** (Bậc 4: 271–325) |
+
+## Bậc 5: Nhà thiết kế tương tác sơ cấp
+
+**Cấp UK GDaD PCF: Junior interaction designer**
+
+> A junior interaction designer is a graduate with a degree in a relevant subject or an individual with some relevant work experience, or both.
+> 
+> At this role level, you will:
+> - explain design decisions
+> - work collaboratively
+> - have a responsibility as part of a service
+> - work independently after being given direction by more senior designers
+> - independently identify user issues and important needs
+
+### Trách nhiệm
+
+- Thiết kế và tạo nguyên mẫu cho các phần của một dịch vụ, như biểu mẫu, luồng và màn hình, theo chỉ đạo của một nhà thiết kế cấp cao hơn.
+- Kiểm thử thiết kế với bệnh nhân, người chăm sóc và nhân viên, và thay đổi chúng dựa trên những gì bạn học được.
+- Thiết kế các tương tác dễ tiếp cận, hoạt động được với các công nghệ hỗ trợ.
+- Giải thích các quyết định thiết kế cho nhóm, kể cả cách chúng giảm khả năng sai sót.
+
+### Kỹ năng
+
+| Kỹ năng | Nguồn | Mức kỳ vọng | Ý nghĩa của mức này |
+| --- | --- | --- | --- |
+| [Design communication](../../kỹ-năng/#design-communication) | UK GDaD PCF | Vận dụng | You can:<br>• clearly explain problems and design ideas to others<br>• clearly explain design decisions to others using appropriate tools and methods |
+| [Designing for everyone](../../kỹ-năng/#designing-for-everyone) | UK GDaD PCF | Vận dụng | You can:<br>• design and deliver inclusive, accessible and environmentally sustainable content or services that meet the needs of all users, working with others<br>• ensure your design work meets appropriate standards and guidance, for example accessibility regulations, with support |
+| [Designing strategically](../../kỹ-năng/#designing-strategically) | UK GDaD PCF | Nhận biết | You can:<br>• explain the importance of aligning to the strategy of an organisation<br>• describe how your design work aligns to the wider goals and vision of your team<br>• explain the value of using patterns and components when designing content and services |
+| [Designing together](../../kỹ-năng/#designing-together) | UK GDaD PCF | Nhận biết | You can:<br>• explain different techniques for bringing together perspectives from multiple people to inform a design<br>• explain the importance of constructive feedback in the design process |
+| [Evidence-based design](../../kỹ-năng/#evidence-based-design) | UK GDaD PCF | Vận dụng | You can:<br>• work with researchers and analysts to draw together, analyse and clearly explain commonly available evidence relevant to users or a service, for example, web analytics data<br>• use evidence to inform, develop and test a design idea, with support |
+| [Iterative design](../../kỹ-năng/#iterative-design) | UK GDaD PCF | Vận dụng | You can:<br>• apply iterative design principles and techniques and agile methodologies to your work<br>• create material to test ideas and hypotheses at an appropriate fidelity, for example mockups or drafts<br>• iterate and improve a design based on successive rounds of research<br>• use and iterate design patterns and components |
+| [Leading design](../../kỹ-năng/#leading-design) | UK GDaD PCF | Nhận biết | You can:<br>• explain the role of user-centred design in an organisation<br>• describe typical leadership responsibilities in design<br>• identify leaders in your organisation that designers need to work with |
+| [Hiểu biết về các dịch vụ y tế và chăm sóc](../../kỹ-năng/#hiểu-biết-về-các-dịch-vụ-y-tế-và-chăm-sóc) | Tài liệu tham khảo này | Nhận biết | Bạn có thể:<br>• mô tả các bộ phận chính của hệ thống y tế và chăm sóc cùng các dịch vụ mà tổ chức hỗ trợ<br>• giải thích vì sao an toàn và bảo mật cho bệnh nhân quan trọng trong công việc của bạn |
+| [Thiết kế cho an toàn lâm sàng và yếu tố con người](../../kỹ-năng/#thiết-kế-cho-an-toàn-lâm-sàng-và-yếu-tố-con-người) | Tài liệu tham khảo này | Nhận biết | Bạn có thể:<br>• giải thích các lựa chọn thiết kế có thể gây ra hoặc ngăn ngừa sai sót trong chăm sóc như thế nào, chẳng hạn nhầm bệnh nhân hoặc nhầm liều<br>• dùng các mẫu thiết kế của tổ chức cho thông tin quan trọng về an toàn, như biểu ngữ nhận dạng bệnh nhân và cảnh báo dị ứng |
+| [Bình đẳng, đa dạng và hòa nhập](../../kỹ-năng/#bình-đẳng-đa-dạng-và-hòa-nhập) | Tài liệu tham khảo này | Vận dụng | Bạn có thể:<br>• nhận ra và phản đối hành vi loại trừ người khác<br>• cân nhắc các nhu cầu khác nhau khi lập kế hoạch công việc |
+| [Quản lý rủi ro lâm sàng](../../kỹ-năng/#quản-lý-rủi-ro-lâm-sàng) | Tài liệu tham khảo này | Nhận biết | Bạn có thể:<br>• giải thích hệ thống CNTT y tế có thể gây hại cho bệnh nhân như thế nào, ví dụ qua thông tin sai, thiếu hoặc chậm<br>• báo cáo một vấn đề an toàn lâm sàng có thể xảy ra qua đúng kênh |
+
+### Trình độ và kinh nghiệm thông thường
+
+- Có bằng đại học về thiết kế hoặc một ngành liên quan, hoặc kinh nghiệm tương đương.
+
+### Mô tả bậc
+
+- **Kiến thức:** Kiến thức chuyên môn hoặc kỹ thuật, thường có từ bằng đại học hoặc kinh nghiệm tương đương.
+- **Quyền tự chủ:** Làm việc theo các mục tiêu chung trong khuôn khổ chuẩn mực nghề nghiệp; tự lập kế hoạch công việc.
+- **Phạm vi:** Công việc chuyên môn của bản thân trong một nhóm hoặc sản phẩm.
+- **Lãnh đạo:** Có thể hướng dẫn và kiểm tra công việc của nhân viên hỗ trợ và học viên học nghề.
+- **Trách nhiệm giải trình:** Chất lượng công việc chuyên môn của bản thân.
+
+### Đánh giá công việc (minh họa)
+
+| # | Yếu tố | Mức | Điểm |
+| --- | --- | --- | --- |
+| 1 | Kỹ năng giao tiếp và xây dựng quan hệ | 4 | 32 |
+| 2 | Kiến thức, đào tạo và kinh nghiệm | 5 | 120 |
+| 3 | Kỹ năng phân tích và đánh giá | 3 | 27 |
+| 4 | Kỹ năng lập kế hoạch và tổ chức | 2 | 15 |
+| 5 | Kỹ năng thể chất | 3 | 27 |
+| 6 | Trách nhiệm chăm sóc bệnh nhân và khách hàng | 1 | 4 |
+| 7 | Trách nhiệm phát triển chính sách và dịch vụ | 2 | 12 |
+| 8 | Trách nhiệm về nguồn lực tài chính và vật chất | 1 | 5 |
+| 9 | Trách nhiệm đối với con người | 1 | 5 |
+| 10 | Trách nhiệm về nguồn lực thông tin | 4 | 24 |
+| 11 | Trách nhiệm nghiên cứu và phát triển | 2 | 12 |
+| 12 | Quyền tự chủ hành động | 3 | 21 |
+| 13 | Nỗ lực thể chất | 2 | 7 |
+| 14 | Nỗ lực trí tuệ | 3 | 12 |
+| 15 | Nỗ lực cảm xúc | 1 | 5 |
+| 16 | Điều kiện làm việc | 2 | 7 |
+| | **Tổng** | | **335** (Bậc 5: 326–395) |
+
+## Bậc 6: Nhà thiết kế tương tác
+
+**Cấp UK GDaD PCF: Interaction designer**
+
+> An interaction designer is a confident and competent designer who can develop designs based on evidence of user needs and organisational outcomes.
+> 
+> At this role level, you will:
+> - be trusted to make good decisions
+> - recognise when to ask for further guidance and support
+> - contribute to the development of design concepts
+> - interpret evidence-based research and incorporate this into your work
+
+### Trách nhiệm
+
+- Thiết kế các tương tác cho một sản phẩm y tế số, từ ý tưởng ban đầu đến các thiết kế chi tiết, đã được kiểm thử.
+- Thiết kế cho các quy trình lâm sàng, kiểm thử với bác sĩ lâm sàng và nhân viên chăm sóc trong các tình huống thực tế, kể cả gián đoạn.
+- Nêu các mối nguy liên quan đến thiết kế với cán bộ an toàn lâm sàng và ghi lại cách thiết kế kiểm soát chúng.
+- Sử dụng và đóng góp vào hệ thống thiết kế, kể cả các mẫu cho thông tin quan trọng về an toàn.
+- Làm việc chặt chẽ với lập trình viên để bảo đảm thiết kế được xây dựng đúng ý và vẫn dễ tiếp cận.
+
+### Kỹ năng
+
+| Kỹ năng | Nguồn | Mức kỳ vọng | Ý nghĩa của mức này |
+| --- | --- | --- | --- |
+| [Design communication](../../kỹ-năng/#design-communication) | UK GDaD PCF | Vận dụng | You can:<br>• clearly explain problems and design ideas to others<br>• clearly explain design decisions to others using appropriate tools and methods |
+| [Designing for everyone](../../kỹ-năng/#designing-for-everyone) | UK GDaD PCF | Vận dụng | You can:<br>• design and deliver inclusive, accessible and environmentally sustainable content or services that meet the needs of all users, working with others<br>• ensure your design work meets appropriate standards and guidance, for example accessibility regulations, with support |
+| [Designing strategically](../../kỹ-năng/#designing-strategically) | UK GDaD PCF | Vận dụng | You can:<br>• align your design work to both the goals and vision of your team and the strategic objectives of your organisation<br>• identify potential risks and use design to mitigate them<br>• identify opportunities and use design to take advantage of them<br>• contribute to the development of design patterns and components |
+| [Designing together](../../kỹ-năng/#designing-together) | UK GDaD PCF | Vận dụng | You can:<br>• effectively plan and run a design session with your team, users or stakeholders<br>• identify and engage the right people throughout the design process<br>• give and receive constructive design feedback |
+| [Evidence-based design](../../kỹ-năng/#evidence-based-design) | UK GDaD PCF | Vận dụng | You can:<br>• work with researchers and analysts to draw together, analyse and clearly explain commonly available evidence relevant to users or a service, for example, web analytics data<br>• use evidence to inform, develop and test a design idea, with support |
+| [Iterative design](../../kỹ-năng/#iterative-design) | UK GDaD PCF | Vận dụng | You can:<br>• apply iterative design principles and techniques and agile methodologies to your work<br>• create material to test ideas and hypotheses at an appropriate fidelity, for example mockups or drafts<br>• iterate and improve a design based on successive rounds of research<br>• use and iterate design patterns and components |
+| [Leading design](../../kỹ-năng/#leading-design) | UK GDaD PCF | Vận dụng | You can:<br>• lead and coordinate design work in your team, with support<br>• communicate the value of user-centred design to your team or others in your organisation<br>• support other designers<br>• work with digital and data leaders in your organisation, when needed |
+| [Hiểu biết về các dịch vụ y tế và chăm sóc](../../kỹ-năng/#hiểu-biết-về-các-dịch-vụ-y-tế-và-chăm-sóc) | Tài liệu tham khảo này | Vận dụng | Bạn có thể:<br>• giải thích các quy trình lâm sàng và chăm sóc mà công việc của bạn hỗ trợ<br>• dùng đúng các thuật ngữ y tế thông dụng với đồng nghiệp lâm sàng và chăm sóc<br>• nhận biết khi một thay đổi có thể ảnh hưởng đến việc chăm sóc bệnh nhân và báo lên |
+| [Thiết kế cho an toàn lâm sàng và yếu tố con người](../../kỹ-năng/#thiết-kế-cho-an-toàn-lâm-sàng-và-yếu-tố-con-người) | Tài liệu tham khảo này | Vận dụng | Bạn có thể:<br>• thiết kế giao diện sao cho hành động an toàn cũng là hành động dễ làm, ví dụ bằng cách giảm nhãn mơ hồ và cảnh báo không cần thiết<br>• kiểm thử thiết kế trong các tình huống lâm sàng thực tế, kể cả khi bị gián đoạn và áp lực thời gian<br>• nêu các mối nguy liên quan đến thiết kế với cán bộ an toàn lâm sàng và ghi lại cách thiết kế kiểm soát chúng |
+| [Bình đẳng, đa dạng và hòa nhập](../../kỹ-năng/#bình-đẳng-đa-dạng-và-hòa-nhập) | Tài liệu tham khảo này | Vận dụng | Bạn có thể:<br>• nhận ra và phản đối hành vi loại trừ người khác<br>• cân nhắc các nhu cầu khác nhau khi lập kế hoạch công việc |
+| [Quản lý rủi ro lâm sàng](../../kỹ-năng/#quản-lý-rủi-ro-lâm-sàng) | Tài liệu tham khảo này | Vận dụng | Bạn có thể:<br>• tham gia các buổi làm việc về mối nguy và đóng góp vào nhật ký mối nguy<br>• tuân theo quy trình quản lý rủi ro lâm sàng cho công việc của bạn<br>• cung cấp bằng chứng cho hồ sơ an toàn lâm sàng, như kết quả kiểm thử |
+
+### Trình độ và kinh nghiệm thông thường
+
+- Có bằng đại học về thiết kế hoặc một ngành liên quan, hoặc kinh nghiệm tương đương.
+- Có kinh nghiệm thiết kế các dịch vụ số cùng người dùng.
+
+### Mô tả bậc
+
+- **Kiến thức:** Kiến thức chuyên sâu về nhiều quy trình, được xây dựng qua đào tạo thêm hoặc kinh nghiệm.
+- **Quyền tự chủ:** Làm việc độc lập; diễn giải chính sách cho lĩnh vực của mình; xin ý kiến về các vấn đề phức tạp.
+- **Phạm vi:** Một sản phẩm, dịch vụ hoặc mảng công việc.
+- **Lãnh đạo:** Có thể dẫn dắt một nhóm nhỏ hoặc kèm cặp đồng nghiệp.
+- **Trách nhiệm giải trình:** Kết quả của mảng công việc của mình và chất lượng lời khuyên đưa ra.
+
+### Đánh giá công việc (minh họa)
+
+| # | Yếu tố | Mức | Điểm |
+| --- | --- | --- | --- |
+| 1 | Kỹ năng giao tiếp và xây dựng quan hệ | 4 | 32 |
+| 2 | Kiến thức, đào tạo và kinh nghiệm | 6 | 156 |
+| 3 | Kỹ năng phân tích và đánh giá | 4 | 42 |
+| 4 | Kỹ năng lập kế hoạch và tổ chức | 3 | 27 |
+| 5 | Kỹ năng thể chất | 3 | 27 |
+| 6 | Trách nhiệm chăm sóc bệnh nhân và khách hàng | 1 | 4 |
+| 7 | Trách nhiệm phát triển chính sách và dịch vụ | 3 | 21 |
+| 8 | Trách nhiệm về nguồn lực tài chính và vật chất | 1 | 5 |
+| 9 | Trách nhiệm đối với con người | 2 | 12 |
+| 10 | Trách nhiệm về nguồn lực thông tin | 4 | 24 |
+| 11 | Trách nhiệm nghiên cứu và phát triển | 2 | 12 |
+| 12 | Quyền tự chủ hành động | 4 | 32 |
+| 13 | Nỗ lực thể chất | 1 | 3 |
+| 14 | Nỗ lực trí tuệ | 3 | 12 |
+| 15 | Nỗ lực cảm xúc | 1 | 5 |
+| 16 | Điều kiện làm việc | 2 | 7 |
+| | **Tổng** | | **421** (Bậc 6: 396–465) |
+
+UK GDaD PCF xếp nhà thiết kế tương tác ở ngạch SEO hoặc G7, với Bậc 7 được đề xuất, giống nhà thiết kế tương tác cao cấp. Tài liệu tham khảo này xếp nó ở Bậc 6, giống cấp nhà thiết kế dịch vụ có cùng mức kỹ năng PCF, để hai cấp nhà thiết kế tương tác không nằm cùng một bậc.
+
+## Bậc 7: Nhà thiết kế tương tác cao cấp
+
+**Cấp UK GDaD PCF: Senior interaction designer**
+
+> A senior interaction designer is an experienced designer who works with minimal support and can influence and mentor others.
+> 
+> At this role level, you will:
+> - work with service managers and programme directors to develop design concepts
+> - potentially have responsibility across complex services
+> - help set direction and embed good practice within teams
+> - make important decisions based on research and understand how this research impacts others
+
+### Trách nhiệm
+
+- Dẫn dắt thiết kế tương tác cho các dịch vụ phức tạp, như hệ thống lâm sàng được dùng trên nhiều môi trường chăm sóc.
+- Áp dụng các phương pháp yếu tố con người, như phân tích nhiệm vụ, vào các quy trình lâm sàng quan trọng về an toàn.
+- Cung cấp bằng chứng thiết kế cho các hồ sơ an toàn lâm sàng và, khi phần mềm chịu quản lý, cho hồ sơ về khả năng sử dụng.
+- Giúp đề ra định hướng và thực hành tốt về thiết kế trong các nhóm, và kèm cặp các nhà thiết kế khác.
+- Đưa ra các quyết định thiết kế từ nghiên cứu và dữ liệu, và giải thích chúng cho các lãnh đạo lâm sàng và sản phẩm.
+
+### Kỹ năng
+
+| Kỹ năng | Nguồn | Mức kỳ vọng | Ý nghĩa của mức này |
+| --- | --- | --- | --- |
+| [Design communication](../../kỹ-năng/#design-communication) | UK GDaD PCF | Thành thạo | You can:<br>• clearly explain complex problems and ideas to teams or stakeholders<br>• clearly document and communicate design decisions, related risks and any unresolved issues |
+| [Designing for everyone](../../kỹ-năng/#designing-for-everyone) | UK GDaD PCF | Thành thạo | You can:<br>• advise teams on how to design inclusive, accessible and environmentally sustainable content or services<br>• design and deliver ethical content or services that consider the personal and social context of users<br>• ensure your design work meets appropriate standards, for example accessibility regulations |
+| [Designing strategically](../../kỹ-năng/#designing-strategically) | UK GDaD PCF | Thành thạo | You can:<br>• develop a strategy defining the purpose, impact and stages of your work to design content or services, aligning it with wider goals<br>• use risks, opportunities and constraints in technology, systems and policy to shape your design work<br>• identify and create new design patterns and components |
+| [Designing together](../../kỹ-năng/#designing-together) | UK GDaD PCF | Thành thạo | You can:<br>• advise others how to effectively plan and run design sessions with a team, users or stakeholders<br>• adapt a design session to ensure you achieve a useful outcome<br>• build consensus around a design approach, for example by challenging assumptions<br>• work across team or profession boundaries, for example with policy teams |
+| [Evidence-based design](../../kỹ-năng/#evidence-based-design) | UK GDaD PCF | Thành thạo | You can:<br>• independently find, analyse and synthesise evidence from trusted sources<br>• work collaboratively with researchers, analysts and other specialists to design appropriate research and analyse the results<br>• help your team use design hypotheses effectively<br>• use complex research and data to develop and test design ideas |
+| [Iterative design](../../kỹ-năng/#iterative-design) | UK GDaD PCF | Thành thạo | You can:<br>• help other designers apply iterative design principles and agile methodologies to their work and create materials to test their ideas<br>• adapt designs effectively to changes in requirements, priorities or user needs<br>• help your team to define a minimum viable product (MVP) and determine what to prioritise for iteration |
+| [Leading design](../../kỹ-năng/#leading-design) | UK GDaD PCF | Vận dụng | You can:<br>• lead and coordinate design work in your team, with support<br>• communicate the value of user-centred design to your team or others in your organisation<br>• support other designers<br>• work with digital and data leaders in your organisation, when needed |
+| [Hiểu biết về các dịch vụ y tế và chăm sóc](../../kỹ-năng/#hiểu-biết-về-các-dịch-vụ-y-tế-và-chăm-sóc) | Tài liệu tham khảo này | Thành thạo | Bạn có thể:<br>• phân tích một dịch vụ khớp với các lộ trình chăm sóc giữa các tổ chức như thế nào<br>• phối hợp với bác sĩ lâm sàng, nhân viên chăm sóc và bệnh nhân để định hình các dịch vụ số<br>• giải thích tác động của các quyết định số đối với việc chăm sóc, an toàn và khối lượng công việc của nhân viên |
+| [Thiết kế cho an toàn lâm sàng và yếu tố con người](../../kỹ-năng/#thiết-kế-cho-an-toàn-lâm-sàng-và-yếu-tố-con-người) | Tài liệu tham khảo này | Thành thạo | Bạn có thể:<br>• áp dụng các phương pháp yếu tố con người, như phân tích nhiệm vụ và phân tích lỗi sử dụng, vào các quy trình lâm sàng phức tạp<br>• thiết kế để giảm sự mệt mỏi vì cảnh báo và tải nhận thức trên toàn bộ một dịch vụ<br>• cung cấp bằng chứng thiết kế cho các hồ sơ an toàn lâm sàng và bằng chứng về khả năng sử dụng cho phần mềm chịu quản lý |
+| [Bình đẳng, đa dạng và hòa nhập](../../kỹ-năng/#bình-đẳng-đa-dạng-và-hòa-nhập) | Tài liệu tham khảo này | Thành thạo | Bạn có thể:<br>• thực hiện đánh giá tác động về bình đẳng<br>• xây dựng các nhóm và cách làm việc hòa nhập |
+| [Quản lý rủi ro lâm sàng](../../kỹ-năng/#quản-lý-rủi-ro-lâm-sàng) | Tài liệu tham khảo này | Vận dụng | Bạn có thể:<br>• tham gia các buổi làm việc về mối nguy và đóng góp vào nhật ký mối nguy<br>• tuân theo quy trình quản lý rủi ro lâm sàng cho công việc của bạn<br>• cung cấp bằng chứng cho hồ sơ an toàn lâm sàng, như kết quả kiểm thử |
+| [Quy định về phần mềm là thiết bị y tế](../../kỹ-năng/#quy-định-về-phần-mềm-là-thiết-bị-y-tế) | Tài liệu tham khảo này | Nhận biết | Bạn có thể:<br>• giải thích rằng một số phần mềm y tế bị quản lý như thiết bị y tế<br>• biết hỏi ai khi một sản phẩm có thể là thiết bị y tế |
+
+### Trình độ và kinh nghiệm thông thường
+
+- Có kinh nghiệm dày dặn về thiết kế tương tác, ở mức tương đương bằng thạc sĩ.
+
+### Mô tả bậc
+
+- **Kiến thức:** Kiến thức chuyên sâu ở mức cao, thường tương đương trình độ thạc sĩ hoặc kinh nghiệm tương đương.
+- **Quyền tự chủ:** Làm việc theo chính sách của tổ chức; tự quyết định cách đạt kết quả; là chuyên gia mà người khác tham vấn.
+- **Phạm vi:** Một số sản phẩm hoặc dịch vụ, hoặc một chức năng chuyên môn.
+- **Lãnh đạo:** Dẫn dắt một nhóm hoặc một lĩnh vực thực hành chuyên môn.
+- **Trách nhiệm giải trình:** Việc cung cấp một dịch vụ hoặc chức năng chuyên môn, và ngân sách nếu được giao.
+
+### Đánh giá công việc (minh họa)
+
+| # | Yếu tố | Mức | Điểm |
+| --- | --- | --- | --- |
+| 1 | Kỹ năng giao tiếp và xây dựng quan hệ | 5 | 45 |
+| 2 | Kiến thức, đào tạo và kinh nghiệm | 6 | 156 |
+| 3 | Kỹ năng phân tích và đánh giá | 4 | 42 |
+| 4 | Kỹ năng lập kế hoạch và tổ chức | 4 | 42 |
+| 5 | Kỹ năng thể chất | 3 | 27 |
+| 6 | Trách nhiệm chăm sóc bệnh nhân và khách hàng | 1 | 4 |
+| 7 | Trách nhiệm phát triển chính sách và dịch vụ | 3 | 21 |
+| 8 | Trách nhiệm về nguồn lực tài chính và vật chất | 2 | 12 |
+| 9 | Trách nhiệm đối với con người | 3 | 21 |
+| 10 | Trách nhiệm về nguồn lực thông tin | 5 | 34 |
+| 11 | Trách nhiệm nghiên cứu và phát triển | 2 | 12 |
+| 12 | Quyền tự chủ hành động | 4 | 32 |
+| 13 | Nỗ lực thể chất | 1 | 3 |
+| 14 | Nỗ lực trí tuệ | 3 | 12 |
+| 15 | Nỗ lực cảm xúc | 1 | 5 |
+| 16 | Điều kiện làm việc | 2 | 7 |
+| | **Tổng** | | **475** (Bậc 7: 466–539) |
+
+## Bậc 8b: Trưởng nhóm thiết kế tương tác
+
+**Cấp UK GDaD PCF: Lead interaction designer**
+
+> A lead interaction designer is an expert practitioner who influences and mentors others.
+> 
+> At this role level, you will:
+> - work with service managers and programme directors to develop design concepts
+> - set direction and assure the quality of design delivery across teams
+> - lead multiple or highly complex services
+
+### Trách nhiệm
+
+- Đề ra định hướng thiết kế và bảo đảm chất lượng thiết kế tương tác trên nhiều nhóm hoặc dịch vụ.
+- Dẫn dắt hệ thống thiết kế, kể cả các mẫu dễ tiếp cận và quan trọng về an toàn mà các nhóm trong toàn tổ chức tái sử dụng.
+- Dẫn dắt công việc về yếu tố con người trên các dịch vụ lâm sàng có rủi ro cao nhất, cùng cán bộ an toàn lâm sàng.
+- Làm việc với các lãnh đạo sản phẩm và lâm sàng cấp cao để phát triển các ý tưởng thiết kế cho các dịch vụ lớn.
+- Quản lý trực tiếp và phát triển các nhà thiết kế tương tác.
+
+### Kỹ năng
+
+| Kỹ năng | Nguồn | Mức kỳ vọng | Ý nghĩa của mức này |
+| --- | --- | --- | --- |
+| [Design communication](../../kỹ-năng/#design-communication) | UK GDaD PCF | Chuyên gia | You can:<br>• communicate design strategy across organisational boundaries<br>• coach others in how to effectively communicate design<br>• develop or introduce more effective methods of communicating design and working in the open |
+| [Designing for everyone](../../kỹ-năng/#designing-for-everyone) | UK GDaD PCF | Chuyên gia | You can:<br>• improve the practice of inclusive, accessible and environmentally sustainable design in multiple teams or across your organisation against measurable criteria<br>• help others understand and mitigate potential barriers, biases and assumptions that may exclude or harm users |
+| [Designing strategically](../../kỹ-năng/#designing-strategically) | UK GDaD PCF | Thành thạo | You can:<br>• develop a strategy defining the purpose, impact and stages of your work to design content or services, aligning it with wider goals<br>• use risks, opportunities and constraints in technology, systems and policy to shape your design work<br>• identify and create new design patterns and components |
+| [Designing together](../../kỹ-năng/#designing-together) | UK GDaD PCF | Chuyên gia | You can:<br>• effectively plan and run design sessions that include senior leaders or stakeholders<br>• coach other designers in how to involve stakeholders of any level in the design process<br>• develop or introduce more effective ways to design together<br>• help teams connect and work across organisational boundaries |
+| [Evidence-based design](../../kỹ-năng/#evidence-based-design) | UK GDaD PCF | Chuyên gia | You can:<br>• embed a practice of hypothesis-driven design in a team<br>• guide the organisation in how to use evidence to improve content or services<br>• analyse, synthesise and use evidence to improve the way the organisation works<br>• ensure user insights are shared with and used by the wider organisation and across government |
+| [Iterative design](../../kỹ-năng/#iterative-design) | UK GDaD PCF | Chuyên gia | You can:<br>• embed the practice of iterative design and agile working in teams or wider organisation<br>• guide designers in creating materials to test complex ideas at any fidelity<br>• help teams adapt quickly to changes in requirements, priorities or user needs<br>• iterate delivery processes or team structures to help teams work effectively |
+| [Leading design](../../kỹ-năng/#leading-design) | UK GDaD PCF | Thành thạo | You can:<br>• lead and coordinate design work for a team<br>• advocate for user-centred design with leaders outside of digital and data<br>• create an inclusive, productive environment for designers to work in<br>• mentor and coach other designers<br>• iterate and improve design processes within your team |
+| [Hiểu biết về các dịch vụ y tế và chăm sóc](../../kỹ-năng/#hiểu-biết-về-các-dịch-vụ-y-tế-và-chăm-sóc) | Tài liệu tham khảo này | Thành thạo | Bạn có thể:<br>• phân tích một dịch vụ khớp với các lộ trình chăm sóc giữa các tổ chức như thế nào<br>• phối hợp với bác sĩ lâm sàng, nhân viên chăm sóc và bệnh nhân để định hình các dịch vụ số<br>• giải thích tác động của các quyết định số đối với việc chăm sóc, an toàn và khối lượng công việc của nhân viên |
+| [Thiết kế cho an toàn lâm sàng và yếu tố con người](../../kỹ-năng/#thiết-kế-cho-an-toàn-lâm-sàng-và-yếu-tố-con-người) | Tài liệu tham khảo này | Chuyên gia | Bạn có thể:<br>• đề ra tiêu chuẩn và mẫu thiết kế của tổ chức cho thiết kế quan trọng về an toàn<br>• dẫn dắt công việc về yếu tố con người trên các dịch vụ lâm sàng có rủi ro cao nhất<br>• tư vấn cho các lãnh đạo an toàn lâm sàng và sản phẩm về các rủi ro liên quan đến thiết kế trên toàn danh mục |
+| [Bình đẳng, đa dạng và hòa nhập](../../kỹ-năng/#bình-đẳng-đa-dạng-và-hòa-nhập) | Tài liệu tham khảo này | Thành thạo | Bạn có thể:<br>• thực hiện đánh giá tác động về bình đẳng<br>• xây dựng các nhóm và cách làm việc hòa nhập |
+| [Quản lý rủi ro lâm sàng](../../kỹ-năng/#quản-lý-rủi-ro-lâm-sàng) | Tài liệu tham khảo này | Thành thạo | Bạn có thể:<br>• dẫn dắt việc nhận diện mối nguy và đánh giá rủi ro cho một sản phẩm hoặc thay đổi<br>• viết và duy trì nhật ký mối nguy và báo cáo hồ sơ an toàn lâm sàng<br>• thống nhất các biện pháp kiểm soát rủi ro với các nhóm sản phẩm và kiểm tra hiệu quả của chúng<br>• tư vấn cho các nhóm về việc áp dụng các tiêu chuẩn quản lý rủi ro lâm sàng |
+| [Quy định về phần mềm là thiết bị y tế](../../kỹ-năng/#quy-định-về-phần-mềm-là-thiết-bị-y-tế) | Tài liệu tham khảo này | Vận dụng | Bạn có thể:<br>• tuân theo quy trình vòng đời phần mềm đáp ứng các tiêu chuẩn thiết bị y tế<br>• lập các hồ sơ mà quy trình đó yêu cầu |
+| [Quản lý nhân sự](../../kỹ-năng/#quản-lý-nhân-sự) | Tài liệu tham khảo này | Thành thạo | Bạn có thể:<br>• trực tiếp quản lý một nhóm, đặt mục tiêu và tiến hành đánh giá<br>• hỗ trợ sức khỏe tinh thần và quản lý chuyên cần, hiệu quả công việc và hành vi<br>• lập kế hoạch phát triển và kế nhiệm cho nhóm |
+
+### Trình độ và kinh nghiệm thông thường
+
+- Có kinh nghiệm sâu rộng trong việc dẫn dắt thiết kế tương tác trên các nhóm.
+
+### Mô tả bậc
+
+- **Kiến thức:** Kiến thức chuyên gia trên nhiều lĩnh vực hoặc một dịch vụ lớn.
+- **Quyền tự chủ:** Định hình chính sách và chiến lược cho một mảng lớn.
+- **Phạm vi:** Nhiều dịch vụ hoặc nhóm, hoặc một lĩnh vực chuyên môn ở cấp chủ chốt.
+- **Lãnh đạo:** Quản lý các quản lý, hoặc là người có thẩm quyền cao nhất trong một lĩnh vực chuyên môn.
+- **Trách nhiệm giải trình:** Nhiều dịch vụ, nhân sự và ngân sách của các dịch vụ đó.
+
+### Đánh giá công việc (minh họa)
+
+| # | Yếu tố | Mức | Điểm |
+| --- | --- | --- | --- |
+| 1 | Kỹ năng giao tiếp và xây dựng quan hệ | 5 | 45 |
+| 2 | Kiến thức, đào tạo và kinh nghiệm | 7 | 196 |
+| 3 | Kỹ năng phân tích và đánh giá | 5 | 60 |
+| 4 | Kỹ năng lập kế hoạch và tổ chức | 5 | 60 |
+| 5 | Kỹ năng thể chất | 2 | 15 |
+| 6 | Trách nhiệm chăm sóc bệnh nhân và khách hàng | 1 | 4 |
+| 7 | Trách nhiệm phát triển chính sách và dịch vụ | 5 | 45 |
+| 8 | Trách nhiệm về nguồn lực tài chính và vật chất | 3 | 21 |
+| 9 | Trách nhiệm đối với con người | 4 | 32 |
+| 10 | Trách nhiệm về nguồn lực thông tin | 5 | 34 |
+| 11 | Trách nhiệm nghiên cứu và phát triển | 2 | 12 |
+| 12 | Quyền tự chủ hành động | 5 | 45 |
+| 13 | Nỗ lực thể chất | 1 | 3 |
+| 14 | Nỗ lực trí tuệ | 3 | 12 |
+| 15 | Nỗ lực cảm xúc | 1 | 5 |
+| 16 | Điều kiện làm việc | 2 | 7 |
+| | **Tổng** | | **596** (Bậc 8b: 585–629) |
+
+Không có cấp vai trò ở Bậc 8a, vì UK GDaD PCF xếp trưởng nhóm thiết kế tương tác ở ngạch G7 hoặc G6 và tài liệu tham khảo này theo Bậc 8b được đề xuất. Chính sách ở mức 5 vì nhà thiết kế trưởng nhóm đề ra tiêu chuẩn thiết kế cho nhiều dịch vụ.
+
+## Bậc 8c: Trưởng bộ phận thiết kế tương tác
+
+**Cấp UK GDaD PCF: Head of interaction design**
+
+> A head of interaction design is an expert practitioner with broad industry experience, who can define and assure best practice while influencing, leading and mentoring others.
+> 
+> At this role level, you will:
+> - influence both design and organisational strategy and priorities
+> - collaborate with counterpart colleagues across government
+> - focus on ensuring the right conditions and environment for designers to work effectively
+
+### Trách nhiệm
+
+- Dẫn dắt ngành thiết kế tương tác và đề ra chiến lược, tiêu chuẩn và cách làm việc của ngành.
+- Tác động đến chiến lược thiết kế và chiến lược tổ chức để các dịch vụ dễ sử dụng, dễ tiếp cận và an toàn.
+- Làm chủ hệ thống thiết kế của tổ chức và bảo đảm nó đáp ứng nhu cầu về khả năng tiếp cận và an toàn lâm sàng.
+- Xây dựng năng lực thiết kế, kể cả tuyển dụng, lộ trình nghề nghiệp và đào tạo.
+- Làm việc với các đồng nghiệp trong hệ thống y tế và chăm sóc về các mẫu thiết kế dùng chung.
+
+### Kỹ năng
+
+| Kỹ năng | Nguồn | Mức kỳ vọng | Ý nghĩa của mức này |
+| --- | --- | --- | --- |
+| [Design communication](../../kỹ-năng/#design-communication) | UK GDaD PCF | Chuyên gia | You can:<br>• communicate design strategy across organisational boundaries<br>• coach others in how to effectively communicate design<br>• develop or introduce more effective methods of communicating design and working in the open |
+| [Designing for everyone](../../kỹ-năng/#designing-for-everyone) | UK GDaD PCF | Chuyên gia | You can:<br>• improve the practice of inclusive, accessible and environmentally sustainable design in multiple teams or across your organisation against measurable criteria<br>• help others understand and mitigate potential barriers, biases and assumptions that may exclude or harm users |
+| [Designing strategically](../../kỹ-năng/#designing-strategically) | UK GDaD PCF | Chuyên gia | You can:<br>• work with leaders to ensure that design is part of developing organisational strategy, and involved early enough in policy, technology and delivery processes to inform effective decision making<br>• enable use of patterns and components across the organisation<br>• help teams align their work to the goals and vision of their organisation |
+| [Designing together](../../kỹ-năng/#designing-together) | UK GDaD PCF | Chuyên gia | You can:<br>• effectively plan and run design sessions that include senior leaders or stakeholders<br>• coach other designers in how to involve stakeholders of any level in the design process<br>• develop or introduce more effective ways to design together<br>• help teams connect and work across organisational boundaries |
+| [Evidence-based design](../../kỹ-năng/#evidence-based-design) | UK GDaD PCF | Chuyên gia | You can:<br>• embed a practice of hypothesis-driven design in a team<br>• guide the organisation in how to use evidence to improve content or services<br>• analyse, synthesise and use evidence to improve the way the organisation works<br>• ensure user insights are shared with and used by the wider organisation and across government |
+| [Iterative design](../../kỹ-năng/#iterative-design) | UK GDaD PCF | Chuyên gia | You can:<br>• embed the practice of iterative design and agile working in teams or wider organisation<br>• guide designers in creating materials to test complex ideas at any fidelity<br>• help teams adapt quickly to changes in requirements, priorities or user needs<br>• iterate delivery processes or team structures to help teams work effectively |
+| [Leading design](../../kỹ-năng/#leading-design) | UK GDaD PCF | Chuyên gia | You can:<br>• set a vision for and lead design across multiple teams or a whole organisation<br>• work effectively with senior leaders across your organisation or wider public sector<br>• support a culture of learning and experimentation in your organisation<br>• iterate and measurably improve design maturity within your organisation and its partners |
+| [Hiểu biết về các dịch vụ y tế và chăm sóc](../../kỹ-năng/#hiểu-biết-về-các-dịch-vụ-y-tế-và-chăm-sóc) | Tài liệu tham khảo này | Chuyên gia | Bạn có thể:<br>• định hình chiến lược của tổ chức bằng hiểu biết sâu về hệ thống y tế và chăm sóc<br>• đại diện tổ chức làm việc với các đối tác và lãnh đạo y tế và chăm sóc<br>• dự đoán những thay đổi về chính sách và dịch vụ sẽ ảnh hưởng đến các dịch vụ số và việc chăm sóc như thế nào |
+| [Thiết kế cho an toàn lâm sàng và yếu tố con người](../../kỹ-năng/#thiết-kế-cho-an-toàn-lâm-sàng-và-yếu-tố-con-người) | Tài liệu tham khảo này | Chuyên gia | Bạn có thể:<br>• đề ra tiêu chuẩn và mẫu thiết kế của tổ chức cho thiết kế quan trọng về an toàn<br>• dẫn dắt công việc về yếu tố con người trên các dịch vụ lâm sàng có rủi ro cao nhất<br>• tư vấn cho các lãnh đạo an toàn lâm sàng và sản phẩm về các rủi ro liên quan đến thiết kế trên toàn danh mục |
+| [Bình đẳng, đa dạng và hòa nhập](../../kỹ-năng/#bình-đẳng-đa-dạng-và-hòa-nhập) | Tài liệu tham khảo này | Chuyên gia | Bạn có thể:<br>• đề ra chiến lược hòa nhập và yêu cầu tổ chức chịu trách nhiệm về chiến lược đó<br>• dẫn dắt thay đổi văn hóa về bình đẳng, đa dạng và hòa nhập |
+| [Quản lý rủi ro lâm sàng](../../kỹ-năng/#quản-lý-rủi-ro-lâm-sàng) | Tài liệu tham khảo này | Thành thạo | Bạn có thể:<br>• dẫn dắt việc nhận diện mối nguy và đánh giá rủi ro cho một sản phẩm hoặc thay đổi<br>• viết và duy trì nhật ký mối nguy và báo cáo hồ sơ an toàn lâm sàng<br>• thống nhất các biện pháp kiểm soát rủi ro với các nhóm sản phẩm và kiểm tra hiệu quả của chúng<br>• tư vấn cho các nhóm về việc áp dụng các tiêu chuẩn quản lý rủi ro lâm sàng |
+| [Quy định về phần mềm là thiết bị y tế](../../kỹ-năng/#quy-định-về-phần-mềm-là-thiết-bị-y-tế) | Tài liệu tham khảo này | Vận dụng | Bạn có thể:<br>• tuân theo quy trình vòng đời phần mềm đáp ứng các tiêu chuẩn thiết bị y tế<br>• lập các hồ sơ mà quy trình đó yêu cầu |
+| [Quản lý nhân sự](../../kỹ-năng/#quản-lý-nhân-sự) | Tài liệu tham khảo này | Chuyên gia | Bạn có thể:<br>• dẫn dắt các quản lý và định hình văn hóa của một mảng lớn<br>• thiết kế kế hoạch nhân lực và thay đổi tổ chức<br>• huấn luyện các lãnh đạo và giải quyết các vấn đề nhân sự phức tạp |
+| [Quản lý ngân sách](../../kỹ-năng/#quản-lý-ngân-sách) | Tài liệu tham khảo này | Vận dụng | Bạn có thể:<br>• theo dõi chi tiêu so với một ngân sách nhỏ và báo cáo chênh lệch<br>• phê duyệt chi tiêu trong hạn mức của bạn |
+
+### Trình độ và kinh nghiệm thông thường
+
+- Có kinh nghiệm sâu rộng trong việc dẫn dắt thiết kế và một ngành thực hành thiết kế.
+
+### Mô tả bậc
+
+- **Kiến thức:** Kiến thức chuyên gia, cùng hiểu biết rộng về tổ chức và ngành.
+- **Quyền tự chủ:** Đề ra chiến lược cho một chức năng; chịu trách nhiệm trước một giám đốc.
+- **Phạm vi:** Một chức năng hoặc một phòng ban.
+- **Lãnh đạo:** Dẫn dắt một chức năng qua nhiều tầng quản lý.
+- **Trách nhiệm giải trình:** Hiệu quả hoạt động, lực lượng lao động và ngân sách của một chức năng.
+
+### Đánh giá công việc (minh họa)
+
+| # | Yếu tố | Mức | Điểm |
+| --- | --- | --- | --- |
+| 1 | Kỹ năng giao tiếp và xây dựng quan hệ | 6 | 60 |
+| 2 | Kiến thức, đào tạo và kinh nghiệm | 7 | 196 |
+| 3 | Kỹ năng phân tích và đánh giá | 5 | 60 |
+| 4 | Kỹ năng lập kế hoạch và tổ chức | 5 | 60 |
+| 5 | Kỹ năng thể chất | 2 | 15 |
+| 6 | Trách nhiệm chăm sóc bệnh nhân và khách hàng | 1 | 4 |
+| 7 | Trách nhiệm phát triển chính sách và dịch vụ | 5 | 45 |
+| 8 | Trách nhiệm về nguồn lực tài chính và vật chất | 4 | 32 |
+| 9 | Trách nhiệm đối với con người | 4 | 32 |
+| 10 | Trách nhiệm về nguồn lực thông tin | 6 | 46 |
+| 11 | Trách nhiệm nghiên cứu và phát triển | 2 | 12 |
+| 12 | Quyền tự chủ hành động | 5 | 45 |
+| 13 | Nỗ lực thể chất | 1 | 3 |
+| 14 | Nỗ lực trí tuệ | 3 | 12 |
+| 15 | Nỗ lực cảm xúc | 1 | 5 |
+| 16 | Điều kiện làm việc | 2 | 7 |
+| | **Tổng** | | **634** (Bậc 8c: 630–674) |
+
+
+---
+
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

@@ -1,0 +1,56 @@
+summary: >
+  Personal inom journalhantering ser till att patientjournaler och verksamhetsjournaler skapas, lagras, spåras, hämtas och gallras korrekt, vare sig de finns på papper eller i digitala system. De håller journaler tillgängliga för vården, skyddar dem mot förlust och obehörig åtkomst och stödjer övergången från papper till digitala journaler.
+health_context:
+  - Patientjournaler måste vara tillgängliga när kliniker behöver dem, så förseningar eller förlorade journaler kan direkt påverka vården.
+  - Journaler innehåller mycket konfidentiell information, så personal följer strikta regler för sekretess och åtkomst och kan regelbundet läsa plågsamt innehåll.
+  - De flesta organisationer håller både pappersjournaler och digitala journaler, så rollen omfattar skanning, indexering och hantering av hybridjournaler.
+  - Journaler måste bevaras under bestämda tider enligt gallringsscheman och därefter arkiveras eller förstöras säkert, med ett granskningsspår.
+  - Journalteam hanterar ofta begäranden om tillgång till patientjournaler, som har lagliga tidsfrister.
+levels:
+  - title: Journalassistent
+    summary: Arkiverar, hämtar, följer, skannar och förbereder journaler enligt fastställda rutiner, med handledning i närheten.
+    responsibilities:
+      - Arkivera, hämta och spåra pappersjournaler och förbereda dem för mottagningar och begäranden.
+      - Skanna och indexera journaler i det elektroniska journalsystemet och kontrollera kvaliteten.
+      - Föra in och uppdatera journaluppgifter korrekt i system för spårning.
+      - Hålla journaler säkra och omedelbart rapportera förlorade journaler eller dataintrång.
+      - Flytta och förvara journaler säkert, inklusive lådor och vagnar med patientakter.
+    qualifications:
+      - God läs- och skrivförmåga, räknefärdighet och tangentbordskunskaper.
+    job_evaluation_notes: Fysiska färdigheter poängsätts på nivå 3 för snabb, korrekt skanning och datainmatning. Fysisk ansträngning speglar täta moment av att flytta journaler.
+  - title: Journalhandläggare
+    summary: Hanterar en rad journalprocesser, vissa icke-rutinmässiga, såsom att spåra saknade journaler, förbereda journaler för begäranden om tillgång och tillämpa gallringsscheman.
+    responsibilities:
+      - Spåra saknade journaler och lösa problem med spårning.
+      - Förbereda journaler för begäranden om tillgång och kontrollera att de är kompletta före granskning.
+      - Tillämpa gallringsscheman och förbereda journaler för arkivering eller säker förstöring.
+      - Kontrollera skannade journaler för kvalitet och åtgärda indexeringsfel.
+      - Besvara frågor om journaler från kliniker, vårdpersonal och patienter.
+      - Visa nya journalassistenter hur rutiner följs.
+    qualifications:
+      - Erfarenhet av journalarbete eller administrativt arbete, eller en kvalifikation på nivå 3 inom administration eller motsvarande erfarenhet.
+    job_evaluation_notes: Känslomässig ansträngning speglar tät indirekt exponering för plågsamt innehåll i patientjournaler.
+  - title: Senior journalhandläggare
+    summary: Leder ett journalteam i det dagliga arbetet och driver journalprocesser såsom begäranden om tillgång, revisioner och granskningar av gallring.
+    responsibilities:
+      - Leda journalpersonal i det dagliga arbetet, fördela arbete och kontrollera kvalitet.
+      - Hantera begäranden om tillgång till patientjournaler inom lagens tidsfrister, med vägledning från kollegor inom informationsstyrning.
+      - Genomföra revisioner av journalföring och spårning och rapportera resultaten.
+      - Hålla system för journalspårning och elektroniska journaler korrekta och uppdaterade.
+      - Utbilda personal i journalrutiner och sekretess.
+      - Utreda förlorade journaler och andra incidenter och rekommendera förbättringar.
+    qualifications:
+      - Betydande erfarenhet av arbete med patientjournaler, eller en relevant kvalifikation på högskolenivå eller motsvarande erfarenhet.
+  - title: Chef för patientjournaler
+    summary: Leder tjänsten för patientjournaler, dess personal, system och rutiner och leder förbättring, inklusive övergången från papper till digitala journaler.
+    responsibilities:
+      - Leda tjänsten för patientjournaler, dess personal och dess prestation.
+      - Skriva och underhålla rutiner för journaler, i linje med policy och standarder för journalhantering.
+      - Förvalta system för journalspårning och elektroniska journaler för flera tjänster.
+      - Leda projekt för skanning och digitalisering och övergången till digitala journaler.
+      - Driva programmet för gallring och kassation samt revisioner av journaler.
+      - Ge kliniker, chefer och kollegor inom informationsstyrning råd om journalhantering.
+    qualifications:
+      - En examen eller yrkeskvalifikation inom journal- eller informationshantering, eller motsvarande erfarenhet.
+      - Erfarenhet av att leda ett journalteam.
+    job_evaluation_notes: Informationsresurser poängsätts på nivå 5 eftersom det är huvuduppgiften att driva journalsystem för flera tjänster.

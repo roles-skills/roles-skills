@@ -1,0 +1,45 @@
+summary: Analytikere i sikkerhedsdrift holder øje med, undersøger og reagerer på cybersikkerhedstrusler mod organisationens systemer og data. De prioriterer advarsler fra værktøjer til sikkerhedsovervågning, undersøger mistænkelig aktivitet, inddæmmer hændelser og hjælper med at rette svagheder. I sundhedsvæsenet beskytter hurtig opdagelse og indsats kliniske services og fortrolige patientoplysninger mod angreb som ransomware.
+health_context:
+- Sundhedsvæsenet er et hyppigt mål for ransomware og datatyveri, og ét angreb kan standse kliniske systemer i hele organisationen.
+- Beslutninger om inddæmning, såsom at isolere en server eller en del af netværket, skal afveje sikkerhedsrisiko mod virkningen på patientplejen, så analytikerne arbejder sammen med kliniske ledere og driftsledere.
+- Netværk omfatter medicinsk udstyr og ældre systemer, der ikke kan køre sikkerhedsagenter eller opdateres hurtigt, så analytikerne støtter sig til netværksovervågning og kompenserende kontroller.
+- Overvågningen dækker adgang til patientjournaler, så analytikerne hjælper med at opdage upassende adgang fra insidere såvel som eksterne angreb sammen med informationsstyring.
+- Sikkerhedsovervågning kører døgnet rundt, så analytikerne kan arbejde i vagter eller vagtordninger.
+levels:
+- title: Junior analytiker i sikkerhedsdrift
+  summary: En junior analytiker i sikkerhedsdrift overvåger sikkerhedsadvarsler, prioriterer dem ved hjælp af runbooks og eskalerer hændelser med vejledning fra erfarne analytikere.
+  responsibilities:
+  - Overvåge advarsler fra værktøjer til sikkerhedsovervågning og slutpunkter og prioritere dem ved hjælp af runbooks.
+  - Indsamle beviser om mistænkelig aktivitet, såsom phishing-e-mails eller usædvanlige logins, og eskalere den.
+  - Kontrollere phishing-e-mails, som medarbejdere har indberettet, og hjælpe med at fjerne skadelige e-mails fra postkasser.
+  - Registrere hændelser og handlinger nøjagtigt i sagsstyringsværktøjet.
+  - Køre sårbarhedsscanninger og minde systemejere om rettelser, der skal udføres.
+  qualifications:
+  - En uddannelse i datalogi eller cybersikkerhed, en lærlingeuddannelse i cybersikkerhed eller tilsvarende erfaring.
+  job_evaluation_notes: Mental anstrengelse afspejler hyppig langvarig koncentration om overvågning og prioritering af uforudsigelige advarsler.
+- title: Analytiker i sikkerhedsdrift
+  summary: En analytiker i sikkerhedsdrift undersøger og inddæmmer sikkerhedshændelser, skriver detektionsregler og forbedrer organisationens sikkerhedsovervågning.
+  responsibilities:
+  - Undersøge sikkerhedshændelser, afgøre deres omfang og inddæmme dem sammen med systemejere og kliniske services.
+  - Skrive og justere detektionsregler og gennemføre trusselsjagter baseret på aktuelle trusler mod sundhedsvæsenet.
+  - Overvåge upassende adgang til patientjournaler og videregive sager til informationsstyring.
+  - Vurdere sårbarheder efter risiko, herunder deres virkning på kliniske services og medicinsk udstyr.
+  - Forbedre runbooks og værktøjer efter hændelser.
+  - Deltage i vagtordningen ved sikkerhedshændelser uden for arbejdstid.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller cybersikkerhed, relevante sikkerhedscertificeringer eller tilsvarende erfaring.
+  - Erfaring med sikkerhedsovervågning eller hændelsesrespons.
+  job_evaluation_notes: Mental anstrengelse afspejler hyppig langvarig koncentration under undersøgelser, også under vagt. Følelsesmæssig belastning afspejler hyppig indirekte udsættelse for belastende materiale i patientjournaler og for presset fra live hændelser.
+- title: Senior analytiker i sikkerhedsdrift
+  summary: En senior analytiker i sikkerhedsdrift leder indsatsen ved væsentlige sikkerhedshændelser, leder trusselsjagt og vejleder sikkerhedsdriftsteamets arbejde.
+  responsibilities:
+  - Lede den tekniske indsats ved væsentlige sikkerhedshændelser, herunder ransomware og datatyveri, og koordinere med hændelsesstyring.
+  - Rådgive kliniske ledere og driftsledere om beslutninger om inddæmning, der påvirker patientplejen.
+  - Lede trusselsjagt og trusselsefterretning og dele information med sikkerhedspartnere i sundhedsvæsenet.
+  - Fastsætte prioriteter for detektionsudvikling og overvågningsdækning, herunder for netværk til medicinsk udstyr.
+  - Lede øvelser, der tester hændelsesrespons sammen med tekniske og kliniske teams.
+  - Coache og vejlede analytikere i sikkerhedsdrift.
+  qualifications:
+  - Betydelig erfaring med sikkerhedsdrift og hændelsesrespons på et niveau svarende til en diplomuddannelse.
+  - Relevante avancerede sikkerhedscertificeringer eller tilsvarende erfaring.
+  job_evaluation_notes: Mental og følelsesmæssig anstrengelse afspejler ledelse af indsatsen ved alvorlige hændelser under pres, ofte uden for arbejdstid, hvor kliniske services er i fare.

@@ -1,0 +1,237 @@
+# Bản dịch tiếng Việt của data/skills/legal.yaml. Khóa là mã kỹ năng tiếng Anh.
+legal-legal-research:
+  name: Nghiên cứu pháp lý
+  description: Tìm, đọc và tóm tắt các văn bản pháp luật, án lệ, hướng dẫn và tiền lệ để trả lời một câu hỏi pháp lý.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tìm văn bản pháp luật, hướng dẫn và tài liệu tiền lệ bằng cơ sở dữ liệu pháp lý và kho kiến thức của tổ chức
+      - dùng đúng các thuật ngữ pháp lý
+    working: |
+      Bạn có thể:
+      - nghiên cứu một câu hỏi pháp lý đã được xác định và tóm tắt các nguồn một cách rõ ràng
+      - kiểm tra các nguồn còn hiệu lực và có thẩm quyền
+      - cập nhật các thư viện tiền lệ và kiến thức chuyên môn
+    practitioner: |
+      Bạn có thể:
+      - nghiên cứu các câu hỏi phức tạp hoặc mới, như luật hiện hành áp dụng cho công nghệ mới ra sao
+      - phân tích các nguồn mâu thuẫn và đi đến một quan điểm có lập luận
+      - theo dõi các thay đổi của pháp luật và hướng dẫn và giải thích tác động của chúng đối với tổ chức
+    expert: |
+      Bạn có thể:
+      - dẫn dắt việc nghiên cứu các câu hỏi phức tạp và rủi ro cao nhất của tổ chức
+      - dự đoán các diễn biến pháp lý và chuẩn bị cho tổ chức
+      - đóng góp vào các cuộc tham vấn về pháp luật và hướng dẫn ảnh hưởng đến y tế và chăm sóc số
+legal-contract-drafting-and-review:
+  name: Soạn thảo và rà soát hợp đồng
+  description: Soạn thảo, rà soát và đàm phán các hợp đồng và thỏa thuận, như thỏa thuận về công nghệ, giấy phép phần mềm, đám mây, dịch vụ và xử lý dữ liệu.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các phần chính của một hợp đồng, như các bên, thời hạn, thanh toán, trách nhiệm pháp lý và chấm dứt
+      - chuẩn bị các tài liệu chuẩn từ các mẫu đã được phê duyệt
+    working: |
+      Bạn có thể:
+      - rà soát các thỏa thuận thường lệ, như thỏa thuận bảo mật và thỏa thuận dịch vụ đơn giản, theo tiêu chuẩn của tổ chức
+      - đánh dấu chỉnh sửa hợp đồng và giải thích các thay đổi
+      - phát hiện các điều khoản cần luật sư rà soát, như trách nhiệm không giới hạn hoặc tự động gia hạn
+    practitioner: |
+      Bạn có thể:
+      - soạn thảo và đàm phán các thỏa thuận phức tạp, như giấy phép phần mềm, lưu trữ đám mây, tích hợp hệ thống và xử lý dữ liệu
+      - tư vấn về phân bổ rủi ro, gồm giới hạn trách nhiệm, mức độ dịch vụ, thoát khỏi hợp đồng và ký quỹ mã nguồn
+      - bảo đảm các hợp đồng bảo vệ dữ liệu bệnh nhân, tính liên tục của dịch vụ và quyền của tổ chức đối với phần mềm và dữ liệu của mình
+      - viết và duy trì các mẫu hợp đồng và sổ tay đàm phán
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn ký kết hợp đồng và lập trường về rủi ro của tổ chức
+      - dẫn dắt đàm phán các thỏa thuận có giá trị nhất hoặc rủi ro cao nhất
+      - tư vấn cho các lãnh đạo cấp cao về các thỏa thuận thương mại chiến lược, như hợp tác và liên doanh
+legal-legal-advice:
+  name: Tư vấn pháp lý
+  description: Đưa ra tư vấn pháp lý rõ ràng, thiết thực và chính xác giúp đồng nghiệp đưa ra các quyết định hợp pháp và quản lý rủi ro pháp lý.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích khi nào đồng nghiệp cần tư vấn pháp lý và cách nhận được tư vấn đó
+      - tiếp nhận chỉ dẫn rõ ràng và ghi lại các sự việc của một vụ việc
+    working: |
+      Bạn có thể:
+      - soạn thảo bản nháp tư vấn cho các vấn đề thường lệ để luật sư rà soát
+      - trả lời các câu hỏi đơn giản bằng hướng dẫn đã được phê duyệt
+      - xác định các vấn đề pháp lý trong một tập hợp sự việc
+    practitioner: |
+      Bạn có thể:
+      - đưa ra tư vấn pháp lý độc lập trong các lĩnh vực hành nghề của bạn
+      - giải thích rủi ro pháp lý bằng ngôn ngữ giản dị và đề xuất các phương án thiết thực
+      - tư vấn về các quyết định có hiệu lực pháp lý, như trao hợp đồng, chia sẻ dữ liệu và thay đổi dịch vụ
+      - quyết định khi nào cần thuê luật sư hoặc luật sư tranh tụng bên ngoài
+    expert: |
+      Bạn có thể:
+      - tư vấn cho hội đồng và ban điều hành về các rủi ro pháp lý quan trọng nhất của tổ chức
+      - đưa ra tư vấn dứt khoát về các vấn đề mới, gây tranh cãi hoặc có giá trị lớn
+      - đề ra mức chấp nhận rủi ro pháp lý của tổ chức
+      - bảo đảm chất lượng của tư vấn pháp lý trong toàn tổ chức, kể cả tư vấn bên ngoài
+legal-litigation-and-disputes:
+  name: Tố tụng và giải quyết tranh chấp
+  description: Ngăn ngừa, quản lý và giải quyết các tranh chấp và khiếu kiện, gồm tranh chấp hợp đồng, khiếu kiện lao động và phối hợp xử lý các khiếu kiện về sơ suất lâm sàng.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các giai đoạn chính của một khiếu kiện hoặc tranh chấp
+      - ghi nhận các khiếu kiện và theo dõi chính xác các thời hạn
+    working: |
+      Bạn có thể:
+      - thu thập và sắp xếp tài liệu và bằng chứng cho một vụ việc
+      - lập dòng thời gian, tập hồ sơ và bản nháp lời khai nhân chứng
+      - phối hợp với luật sư bên ngoài, công ty bảo hiểm hoặc cơ chế bồi thường về các vấn đề thường lệ
+    practitioner: |
+      Bạn có thể:
+      - quản lý một khối lượng các tranh chấp và khiếu kiện từ thông báo đầu tiên đến hòa giải hoặc phiên xét xử
+      - đánh giá căn cứ và giá trị của các khiếu kiện và đề xuất chiến lược
+      - đàm phán các thỏa thuận hòa giải và dùng các hình thức giải quyết tranh chấp thay thế
+      - bảo đảm các bài học từ khiếu kiện được đưa vào cải thiện về an toàn, hợp đồng và dịch vụ
+    expert: |
+      Bạn có thể:
+      - dẫn dắt các tranh chấp quan trọng hoặc được chú ý nhất của tổ chức
+      - đề ra cách tiếp cận của tổ chức đối với tố tụng, hòa giải và báo cáo khiếu kiện
+      - tư vấn cho hội đồng về nghĩa vụ tiềm ẩn và rủi ro danh tiếng
+legal-information-and-data-law:
+  name: Luật thông tin và dữ liệu
+  description: Áp dụng luật bảo vệ dữ liệu, bảo mật, tự do thông tin và an ninh mạng vào dữ liệu y tế và chăm sóc và các dịch vụ số.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các nguyên tắc cơ bản về bảo vệ dữ liệu và bảo mật
+      - nhận biết các yêu cầu cung cấp thông tin và vi phạm dữ liệu và chuyển chúng đúng nơi
+    working: |
+      Bạn có thể:
+      - rà soát các thỏa thuận chia sẻ dữ liệu và xử lý dữ liệu theo mẫu
+      - hỗ trợ phản hồi các yêu cầu cung cấp thông tin và yêu cầu về quyền của chủ thể dữ liệu
+      - giải thích các cơ sở pháp lý để dùng dữ liệu y tế trong các tình huống phổ biến
+    practitioner: |
+      Bạn có thể:
+      - tư vấn về bảo vệ dữ liệu, nghĩa vụ bảo mật và luật tiếp cận thông tin cho các dịch vụ số
+      - soạn thảo và đàm phán các thỏa thuận chia sẻ dữ liệu và điều khoản xử lý dữ liệu, kể cả chuyển dữ liệu quốc tế
+      - tư vấn về đánh giá tác động bảo vệ dữ liệu cho công nghệ mới, như AI và các nền tảng phân tích
+      - tư vấn về vi phạm dữ liệu, các yêu cầu của cơ quan quản lý và khiếu nại
+    expert: |
+      Bạn có thể:
+      - đề ra lập trường pháp lý của tổ chức về việc sử dụng dữ liệu y tế và chăm sóc
+      - dẫn dắt các cách dùng dữ liệu có rủi ro cao hoặc mới, như nghiên cứu, nền tảng dữ liệu và AI
+      - đại diện tổ chức làm việc với các cơ quan quản lý về luật thông tin
+legal-legal-administration:
+  name: Hành chính pháp chế
+  description: Vận hành các quy trình hành chính của một nhóm pháp chế, gồm quản lý vụ việc, kiểm soát tài liệu, hồ sơ, thời hạn và hóa đơn.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - mở, cập nhật và đóng các vụ việc trong hệ thống quản lý vụ việc
+      - lưu trữ và truy xuất các tài liệu pháp lý một cách an toàn
+      - giữ bí mật thông tin pháp lý và thông tin cá nhân
+    working: |
+      Bạn có thể:
+      - quản lý lịch, thời hạn và các mốc ngày quan trọng cho một nhóm
+      - chuẩn bị và định dạng các tài liệu pháp lý, tập hồ sơ và bộ hồ sơ ký kết
+      - kiểm tra và xử lý hóa đơn của các luật sư bên ngoài
+      - quản lý sổ đăng ký hợp đồng và văn tự
+    practitioner: |
+      Bạn có thể:
+      - vận hành công tác hành chính của nhóm pháp chế và cải thiện các quy trình
+      - báo cáo về khối lượng công việc, chi phí cho luật sư bên ngoài và thời gian xử lý
+      - quản trị công nghệ pháp lý, như quản lý vụ việc và công cụ chữ ký điện tử
+    expert: |
+      Bạn có thể:
+      - thiết kế mô hình vận hành pháp chế cho tổ chức
+      - dẫn dắt việc lựa chọn và sử dụng công nghệ pháp lý
+      - đề ra tiêu chuẩn dịch vụ và thước đo hiệu quả cho các dịch vụ pháp chế
+legal-employment-law:
+  name: Luật lao động
+  description: Áp dụng luật lao động vào các chính sách nhân sự, hợp đồng, chương trình thay đổi và tranh chấp lao động của tổ chức.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các quyền lao động chính của nhân viên
+      - nhận biết các vấn đề lao động cần tư vấn pháp lý
+    working: |
+      Bạn có thể:
+      - giúp chuẩn bị tài liệu cho các khiếu kiện và phiên xử về lao động
+      - rà soát hợp đồng lao động và chính sách theo mẫu
+    practitioner: |
+      Bạn có thể:
+      - tư vấn về các vấn đề lao động, như sa thải, phân biệt đối xử, chuyển giao nhân viên và tái cơ cấu
+      - quản lý các khiếu kiện lao động và đàm phán các thỏa thuận hòa giải
+      - tư vấn về việc sử dụng nhà thầu và tình trạng lao động của các chuyên gia số
+    expert: |
+      Bạn có thể:
+      - tư vấn cho hội đồng về thay đổi lớn về lực lượng lao động và các rủi ro pháp lý của nó
+      - dẫn dắt các tranh chấp lao động được chú ý hoặc phức tạp
+      - định hình các chính sách nhân sự để đáp ứng nghĩa vụ pháp lý và thông lệ tốt
+legal-intellectual-property:
+  name: Sở hữu trí tuệ
+  description: Bảo vệ và sử dụng sở hữu trí tuệ trong phần mềm, dữ liệu, nội dung và sáng chế, gồm bản quyền, giấy phép, mã nguồn mở và nhãn hiệu.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích rằng phần mềm, dữ liệu và nội dung được bảo vệ bởi các quyền sở hữu trí tuệ
+      - nhận biết khi một hợp đồng hoặc dự án làm nảy sinh các câu hỏi về quyền sở hữu
+    working: |
+      Bạn có thể:
+      - kiểm tra các điều khoản sở hữu trí tuệ trong các thỏa thuận thường lệ
+      - lưu giữ hồ sơ về giấy phép và các quyền đã đăng ký
+      - giải thích các loại giấy phép mã nguồn mở chính và điều kiện của chúng
+    practitioner: |
+      Bạn có thể:
+      - tư vấn về việc ai sở hữu phần mềm, dữ liệu và nội dung do nhân viên, nhà cung cấp và đối tác tạo ra
+      - soạn thảo giấy phép và điều khoản sở hữu trí tuệ, kể cả việc phát hành mã nguồn mở của tổ chức
+      - tư vấn về việc sử dụng thương mại dữ liệu và phần mềm của tổ chức, và về việc chia sẻ lợi ích
+    expert: |
+      Bạn có thể:
+      - đề ra chính sách sở hữu trí tuệ và mã nguồn mở của tổ chức
+      - dẫn dắt việc thương mại hóa và hợp tác liên quan đến dữ liệu và phần mềm của tổ chức
+      - giải quyết các tranh chấp sở hữu trí tuệ quan trọng
+legal-procurement-law:
+  name: Luật mua sắm công
+  description: Áp dụng các quy tắc mua sắm công vào việc mua hàng hóa, dịch vụ và công nghệ, từ việc chọn con đường đưa ra thị trường đến trao hợp đồng và khiếu nại.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao các cơ quan công phải tuân theo quy tắc mua sắm
+      - nhận biết khi hoạt động mua bán cần tư vấn về mua sắm hoặc pháp lý
+    working: |
+      Bạn có thể:
+      - kiểm tra hồ sơ mời thầu về tính nhất quán và đầy đủ
+      - hỗ trợ việc lưu giữ hồ sơ cần thiết để chứng minh quy trình công bằng và minh bạch
+    practitioner: |
+      Bạn có thể:
+      - tư vấn về các con đường đưa ra thị trường, gồm thỏa thuận khung, chỉ định trực tiếp và thủ tục đấu thầu cạnh tranh
+      - tư vấn về đánh giá, quyết định trao thầu và thay đổi hợp đồng sau khi trao
+      - phản hồi các khiếu nại và thắc mắc của nhà cung cấp
+      - tư vấn về kiểm soát trợ cấp và rủi ro cạnh tranh trong các quan hệ hợp tác
+    expert: |
+      Bạn có thể:
+      - đề ra cách tiếp cận của tổ chức đối với rủi ro pháp lý trong mua sắm
+      - dẫn dắt các gói mua sắm có giá trị cao hoặc mới, như quan hệ đối tác đổi mới
+      - bảo vệ trước các khiếu nại đáng kể về mua sắm
+legal-health-and-care-law:
+  name: Luật y tế và chăm sóc
+  description: Áp dụng luật điều chỉnh các dịch vụ y tế và chăm sóc, gồm sự đồng ý, năng lực hành vi, sơ suất lâm sàng, quản lý dịch vụ và sản phẩm, và các nghĩa vụ theo luật định của tổ chức.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các nghĩa vụ và quyền hạn chính theo luật định của tổ chức
+      - nhận biết các vấn đề liên quan đến an toàn bệnh nhân, sự đồng ý hoặc sơ suất lâm sàng
+    working: |
+      Bạn có thể:
+      - hỗ trợ công việc pháp lý về sự cố, điều tra nguyên nhân tử vong hoặc khiếu kiện lâm sàng
+      - giải thích khung quản lý áp dụng cho các dịch vụ của tổ chức
+    practitioner: |
+      Bạn có thể:
+      - tư vấn về quyền hạn và nghĩa vụ của tổ chức, kể cả khi nào tổ chức có thể cung cấp hoặc đặt hàng một dịch vụ
+      - tư vấn về việc quản lý các sản phẩm y tế số, như phần mềm là thiết bị y tế
+      - phối hợp với các cơ chế bồi thường sơ suất lâm sàng và luật sư bên ngoài về các khiếu kiện liên quan đến dịch vụ số
+      - tư vấn về sự đồng ý, năng lực hành vi và quyền của bệnh nhân trong các dịch vụ số
+    expert: |
+      Bạn có thể:
+      - tư vấn cho hội đồng về các nghĩa vụ theo luật định và quản trị của tổ chức
+      - dẫn dắt công việc pháp lý về các cuộc điều tra công, xem xét tư pháp và các sự cố lớn
+      - định hình phản ứng của tổ chức trước luật y tế và chăm sóc mới

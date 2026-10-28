@@ -1,0 +1,64 @@
+summary: Wachambuzi wa biashara husaidia taasisi kuelewa matatizo katika huduma za afya na matunzo na kupata mabadiliko sahihi ya kuyatatua. Huchambua jinsi michakato ya kitabibu, ya kiutawala na inayowalenga wagonjwa inavyofanya kazi leo, hufafanua mahitaji ya watumiaji na ya biashara, na kusaidia timu kuhakikisha huduma mpya za kidijitali zinalingana na njia halisi za matunzo na kuleta manufaa yanayopimika.
+health_context:
+- Michakato huvuka mipaka ya taasisi na taaluma, hivyo wachambuzi huchora ramani za njia nzima za matunzo, ikiwemo makabidhiano kati ya madaktari, wafanyakazi wa matunzo, wagonjwa na taasisi nyingine.
+- Mahitaji mara nyingi hubeba hatari za kitabibu, hivyo wachambuzi hufanya kazi na maafisa wa usalama wa kitabibu kuhakikisha mahitaji yanayohusu usalama yananaswa, yanafuatiliwa na kujaribiwa.
+- Mahitaji mengi yanahusu kushirikisha data za afya kati ya mifumo, hivyo wachambuzi wanahitaji uelewa wa vitendo wa viwango vya ushirikiano wa mifumo kama HL7 FHIR na istilahi za kitabibu kama SNOMED CT.
+- Manufaa katika matunzo mara nyingi yanahusu usalama, ubora, muda wa wafanyakazi na uzoefu wa wagonjwa, si gharama tu, hivyo wachambuzi husaidia kufafanua vipimo ambavyo madaktari wanavitambua.
+levels:
+- title: Mchambuzi wa biashara mwanafunzi
+  responsibilities:
+  - Kujifunza mbinu za uchambuzi wa biashara kupitia mafunzo yaliyopangwa, kuwafuata wenye uzoefu na kazi chini ya usimamizi.
+  - Kuandika maelezo na kuandaa rasimu za ramani za michakato kutoka kwenye warsha na wafanyakazi wa kitabibu na wa kiutawala.
+  - Kutunza kumbukumbu za mahitaji, hadithi za watumiaji na rekodi za ufuatiliaji chini ya uelekezi.
+  - Kusaidia kuandaa matukio ya majaribio kwa majaribio ya ukubalifu wa watumiaji.
+  - Kufuata kanuni za usimamizi wa taarifa anaposhughulikia nyaraka zenye taarifa za wagonjwa.
+  qualifications:
+  - Anaelekea kukamilisha uanagenzi au sifa ya uchambuzi wa biashara, au uzoefu unaolingana.
+- title: Mchambuzi mdogo wa biashara
+  responsibilities:
+  - Kuchora ramani za michakato ya sasa na ya baadaye ya mtiririko wa kazi za kitabibu na za kiutawala, kama vile rufaa, miadi, au ushughulikiaji wa matokeo ya vipimo.
+  - Kukusanya na kuandika mahitaji na hadithi za watumiaji kwa vipande vya kazi vilivyobainishwa vizuri.
+  - Kukusanya data za utendaji wa michakato, kama vile muda wa kusubiri au njia mbadala za mikono, ili kusaidia uchambuzi.
+  - Kuandaa na kuendesha matukio ya majaribio ya ukubalifu wa watumiaji pamoja na watumiaji wa kitabibu na wa kiutendaji.
+  - Kuashiria mahitaji yanayoweza kuathiri usalama wa mgonjwa kwa timu na afisa wa usalama wa kitabibu.
+  qualifications:
+  - Shahada, sifa au uanagenzi wa uchambuzi wa biashara, au uzoefu unaolingana.
+- title: Mchambuzi wa biashara
+  responsibilities:
+  - Kuongoza uchambuzi wa miradi midogo na ya kati, kuanzia ufafanuzi wa tatizo hadi kupima manufaa.
+  - Kuendesha warsha na madaktari, wafanyakazi wa matunzo na mameneja kuelewa kero na kukubaliana chaguzi.
+  - Kuunda miundo ya njia za matunzo na mtiririko wa taarifa, ikiwemo data zinazobadilishana na mifumo mingine ya afya na matunzo.
+  - Kufafanua mahitaji yanayohusu usalama na data, na kuyafuatilia kupitia usanifu, ujenzi na majaribio.
+  - Kujenga hoja za manufaa kwa vipimo kama vile muda wa wafanyakazi uliookolewa, makosa yaliyoepukwa, au uzoefu wa wagonjwa.
+  - Kuwa mshauri wa wachambuzi wadogo wa biashara na wanafunzi.
+  qualifications:
+  - Shahada au sifa inayotambuliwa ya uchambuzi wa biashara, au uzoefu unaolingana.
+  - Uzoefu wa uchambuzi wa biashara katika miradi ya mabadiliko ya kidijitali.
+- title: Mchambuzi mwandamizi wa biashara
+  responsibilities:
+  - Kuongoza uchambuzi wa biashara katika programu kubwa au tata, kama vile kubadilisha mfumo wa kitabibu au kubuni upya njia ya matunzo.
+  - Kuchambua chaguzi na athari zake kwa matunzo, usalama, mzigo wa kazi wa wafanyakazi na gharama, na kuwasilisha mapendekezo kwa bodi.
+  - Kuhakikisha hatari za kitabibu, usimamizi wa taarifa na athari za usawa vinachambuliwa na kushughulikiwa katika mahitaji.
+  - Kufafanua na kufuatilia manufaa ya mabadiliko, na kuweka jinsi yatakavyopimwa baada ya kuanza kutumika.
+  - Kusimamia moja kwa moja au kuongoza wachambuzi wa biashara na kuendesha shughuli za jumuiya ya mazoezi.
+  qualifications:
+  - Uzoefu mkubwa wa uchambuzi wa biashara katika mabadiliko tata, katika kiwango kinacholingana na shahada ya uzamili.
+- title: Mchambuzi kiongozi wa biashara
+  responsibilities:
+  - Kuongoza uchambuzi wa matatizo tata sana yanayovuka bidhaa, huduma au taasisi kadhaa katika mfumo wa matunzo.
+  - Kuunda hoja ya kibiashara na mpango wa kufikia manufaa kwa uwekezaji mkubwa.
+  - Kuweka viwango vya uchambuzi wa biashara, kama vile ufuatiliaji wa mahitaji kwa programu zinazohusu usalama na zinazodhibitiwa.
+  - Kufanya kazi na viongozi wa kitabibu, wasanifu na mameneja wa bidhaa kuoanisha uchambuzi na mkakati wa taasisi.
+  - Kusimamia moja kwa moja wachambuzi wa biashara na kuongoza maendeleo yao ya kitaaluma.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uchambuzi wa biashara katika mabadiliko tata ya timu nyingi.
+- title: Mkuu wa uchambuzi wa biashara
+  responsibilities:
+  - Kuongoza kitengo cha uchambuzi wa biashara na kuweka mkakati, viwango na njia zake za kufanya kazi.
+  - Kujenga uwezo wa uchambuzi wa biashara, ikiwemo uajiri, njia za taaluma na mafunzo.
+  - Kuwashauri viongozi watendaji na wa kitabibu kuhusu uchambuzi unaohitajika kwa mageuzi makubwa ya afya na matunzo.
+  - Kuhakikisha kufikia manufaa kunapangwa, kupimwa na kuripotiwa katika jalada zima.
+  - Kusimamia bajeti na mpango wa nguvu kazi wa kitengo.
+  qualifications:
+  - Uzoefu mpana wa kuongoza kitengo au mazoezi ya uchambuzi wa biashara.
+  job_evaluation_notes: Rasilimali za taarifa zimepewa alama ya kiwango cha 6 kwa sababu mkuu wa uchambuzi wa biashara anamiliki viwango vya taasisi nzima vya jinsi mahitaji, miundo ya michakato na kumbukumbu za manufaa zinavyotunzwa katika kazi zote za mabadiliko.

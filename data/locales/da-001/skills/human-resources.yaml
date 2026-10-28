@@ -1,0 +1,298 @@
+# Danish translation of data/skills/human-resources.yaml. Keys are the English skill ids.
+hr-hr-administration:
+  name: HR-administration
+  description: At køre de administrative processer i ansættelsesforløbet korrekt og fortroligt, fra kontrakter og nyansatte til ændringer, fraværsregistre og fratrædelser.
+  levels:
+    awareness: |
+      Du kan:
+      - følge organisationens procedurer for nyansatte, ændringer og fratrædelser
+      - holde personoplysninger fortrolige og ajour
+    working: |
+      Du kan:
+      - udarbejde kontrakter, ændringsbreve og ansættelseskontroller korrekt
+      - behandle ændringer i HR- og lønsystemet inden for fristerne
+      - besvare rutinemæssige spørgsmål fra ledere og medarbejdere om HR-processer
+    practitioner: |
+      Du kan:
+      - drive en HR-administrationsservice, kontrollere kvaliteten og overholde servicestandarderne
+      - forbedre processer og skabeloner og automatisere rutinetrin, hvor det er muligt
+      - løse komplekse eller usædvanlige sager, såsom for meget udbetalt løn eller fejl i kontrakter
+    expert: |
+      Du kan:
+      - designe HR's driftsmodel og servicestandarder for organisationen
+      - lede overgangen til digitale HR-processer med selvbetjening
+      - fastlægge kontroller, der holder HR- og lønoplysninger korrekte og lovlige
+hr-employment-policy:
+  name: Ansættelsesret og personalepolitik
+  description: At anvende ansættelsesretten og skrive, fortolke og gennemgå organisationens personalepolitikker, så medarbejdere behandles lovligt, retfærdigt og ensartet.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare de vigtigste personalepolitikker og hvor de findes
+      - genkende, hvornår et spørgsmål kræver rådgivning fra en HR-rådgiver
+    working: |
+      Du kan:
+      - anvende personalepolitikker på rutinesager og forklare dem for ledere
+      - identificere de ansættelsesretlige principper bag en politik
+      - føre politikregistre og følge datoer for gennemgang af politikker
+    practitioner: |
+      Du kan:
+      - fortolke ansættelsesret og politik i komplekse sager og rådgive om risiko
+      - udarbejde og gennemgå personalepolitikker sammen med konsekvensanalyser af ligestilling
+      - høre medarbejderrepræsentanter om politikændringer
+    expert: |
+      Du kan:
+      - fastlægge organisationens rammer for personalepolitik og tilgang til juridisk risiko
+      - forudse ændringer i ansættelsesretten og planlægge organisationens reaktion
+      - rådgive bestyrelsen om ansættelsesretlig risiko og ansvar
+hr-employee-relations:
+  name: Personalesager
+  description: At håndtere formelle og uformelle personalesager, såsom adfærd, kompetence, klager, fravær og værdighed på arbejdspladsen, retfærdigt og i overensstemmelse med politik og ansættelsesret.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare de vigtigste faser i procedurerne for adfærd, kompetence, klager og fravær
+      - tage nøjagtige noter ved formelle møder og holde sagsregistre fortrolige
+    working: |
+      Du kan:
+      - rådgive ledere om ligetil sager og det næste trin i en procedure
+      - understøtte undersøgelser, udarbejde sagsakter og arrangere høringer
+      - samarbejde konstruktivt med medarbejderrepræsentanter om enkeltsager
+    practitioner: |
+      Du kan:
+      - styre en portefølje af komplekse sager og rådgive paneler ved høringer om rimelige udfald
+      - gennemføre eller lede undersøgelser, herunder undersøgelser knyttet til hændelser eller beskyttelse af udsatte
+      - bruge tidlig løsning og mægling til at bilægge tvister, før de eskalerer
+      - spotte tendenser i sager og handle på deres årsager
+    expert: |
+      Du kan:
+      - lede organisationens tilgang til personalesager og samarbejde med medarbejderrepræsentanter
+      - håndtere de mest følsomme eller risikable sager, herunder ansættelsesretlige krav
+      - forhandle kollektive aftaler og løse kollektive tvister
+hr-recruitment-and-selection:
+  name: Rekruttering og udvælgelse
+  description: At tiltrække, vurdere og ansætte mennesker retfærdigt og effektivt, fra jobdesign og annoncering over udvælgelse af ansøgere, vurdering og tilbud til kontroller før ansættelsen.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare faserne i organisationens rekrutteringsproces
+      - følge reglerne for retfærdig og sikker rekruttering, herunder kontroller før ansættelsen
+    working: |
+      Du kan:
+      - køre rekrutteringsforløb gennem ansøgningssystemet
+      - støtte ledere med annoncer, udvælgelse af ansøgere og tilrettelæggelse af samtaler
+      - gennemføre kontroller før ansættelsen og give betingede tilbud
+    practitioner: |
+      Du kan:
+      - rådgive ledere om jobdesign, udvælgelsesmetoder og retfærdig vurdering
+      - udforme vurderinger til specialistroller, såsom tekniske opgaver til digitale roller
+      - analysere rekrutteringsdata for at forbedre tid til ansættelse, kvalitet og mangfoldighed
+      - styre ansøgeroplevelsen og arbejdsgivermærket
+    expert: |
+      Du kan:
+      - fastlægge organisationens rekrutteringsstrategi og servicestandarder
+      - lede valget og brugen af rekrutteringsteknologi og bureauer
+      - sikre, at rekrutteringen er inkluderende og lovlig i hele organisationen
+hr-talent-attraction:
+  name: Tiltrækning og opsporing af talent
+  description: At finde og engagere mennesker med knappe kompetencer, såsom digitale specialister, dataspecialister og teknologispecialister, gennem arbejdsgivermærke, direkte opsporing, netværk og veje for dem, der er tidligt i karrieren.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvilke kompetencer der er svære at rekruttere, og hvorfor
+      - dele jobannoncer gennem organisationens kanaler og netværk
+    working: |
+      Du kan:
+      - skrive annoncer, der appellerer til specialistkandidater, og bruge klart sprog
+      - søge efter kandidater på jobportaler, i professionelle netværk og i talentpuljer
+      - støtte arrangementer, såsom karrieremesser og åbent hus
+    practitioner: |
+      Du kan:
+      - opbygge talentpipelines og fællesskaber for knappe digitale roller og dataroller
+      - forme arbejdsgiverens værditilbud sammen med de ansættende teams
+      - bruge markedsdata om løn og udbud til at rådgive om roller, der er svære at besætte
+      - udvikle veje for dem, der er tidligt i karrieren, såsom lærepladser og trainee-forløb
+    expert: |
+      Du kan:
+      - fastlægge organisationens strategi for talenttiltrækning og arbejdsgivermærke
+      - samarbejde med partnere, såsom universiteter og andre arbejdsgivere, om at øge talentudbuddet
+      - lede beslutninger om løntillæg, brug af bureauer og alternative opsporingsmodeller
+hr-workforce-planning:
+  name: Bemandingsplanlægning
+  description: At forudsige, hvilken arbejdsstyrke organisationen har brug for, sammenligne den med den, den har, og planlægge, hvordan forskellen lukkes gennem rekruttering, udvikling, redesign og fastholdelse.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor bemandingsplanlægning er vigtig for sikre og bæredygtige services
+      - levere korrekte oplysninger om normering og ledige stillinger
+    working: |
+      Du kan:
+      - indsamle og kontrollere data til bemandingsplanen fra ledere
+      - modellere enkle scenarier, såsom udskiftning og udvikling i ledige stillinger
+    practitioner: |
+      Du kan:
+      - lede bemandingsplanlægningen for en direktion og knytte den til service- og økonomiplaner
+      - identificere kompetencegab og anbefale, hvordan de lukkes
+      - planlægge nye roller, karriereveje og sammensætning af kompetencer
+    expert: |
+      Du kan:
+      - fastlægge organisationens strategi og langsigtede plan for arbejdsstyrken
+      - foretage afvejninger af arbejdsstyrken på tværs af services sammen med økonomi- og serviceledere
+      - forme bemandingsplaner sammen med partnere i hele sundheds- og plejesystemet
+hr-workforce-information:
+  name: Personaleoplysninger og HR-systemer
+  description: At styre HR- og personalesystemer og -data og omsætte personaledata til rapporter og indsigt, såsom udskiftning, fravær, ledige stillinger, mangfoldighed og analyse af lønforskelle.
+  levels:
+    awareness: |
+      Du kan:
+      - registrere personaledata korrekt i HR-systemet
+      - forklare, hvorfor personaledata skal være korrekte og holdes fortrolige
+    working: |
+      Du kan:
+      - køre standardrapporter om personalet og kontrollere dem for fejl
+      - besvare rutinemæssige anmodninger om oplysninger om personalet
+    practitioner: |
+      Du kan:
+      - analysere personaledata for at finde tendenser og forklare dem for ledere
+      - designe dashboards og rapporter for personalenøgletal
+      - udarbejde lovpligtig rapportering og rapportering om ligestilling, såsom analyse af lønforskelle
+    expert: |
+      Du kan:
+      - fastlægge organisationens strategi og datastandarder for personaleoplysninger
+      - lede valget og udviklingen af HR-systemer
+      - bruge indsigt i personalet til at understøtte bestyrelsens beslutninger
+hr-reward-and-job-evaluation:
+  name: Aflønning og jobvurdering
+  description: At anvende regler om løn og aflønning og vurdere job ensartet efter en jobvurderingsordning, så de placeres i den rette lønramme.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvordan lønrammer, trin og tillæg fungerer
+      - forklare, at job placeres i lønrammer ved jobvurdering og ikke ud fra den person, der har jobbet
+    working: |
+      Du kan:
+      - anvende lønregler, såsom startløn, beskyttelse og tillæg
+      - kontrollere, at stillingsbeskrivelser er fuldstændige, før de går til vurdering
+      - deltage i jobvurderingspaneler som uddannet medlem
+    practitioner: |
+      Du kan:
+      - lede jobvurderingspaneler og konsistenskontroller
+      - rådgive om placering i lønramme for nye og ændrede roller, herunder digitale roller og dataroller
+      - rådgive om rekrutterings- og fastholdelsestillæg på baggrund af markedsdata
+    expert: |
+      Du kan:
+      - fastlægge organisationens aflønningsstrategi inden for den aftalte lønramme
+      - sikre jobvurderingens integritet i hele organisationen
+      - lede gennemgange af lige løn og handle på resultaterne
+hr-learning-design-and-delivery:
+  name: Læringsdesign og undervisning
+  description: At analysere læringsbehov og derefter designe, gennemføre og evaluere læring ansigt til ansigt, online og som en del af arbejdsgangen.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare forskellen på oplæring, læring og udvikling
+      - understøtte afviklingen af kurser og føre uddannelsesregistre
+    working: |
+      Du kan:
+      - gennemføre veldefinerede undervisningssessioner ansigt til ansigt og online
+      - bygge enkel e-læring i læringsstyringssystemet
+      - indsamle og sammenfatte deltagernes feedback
+    practitioner: |
+      Du kan:
+      - analysere læringsbehov og designe kombinerede forløb, der opfylder dem
+      - fastsætte læringsmål og evaluere effekten og ikke kun tilfredsheden
+      - gøre læring tilgængelig og inkluderende for alle medarbejdere
+    expert: |
+      Du kan:
+      - fastlægge organisationens læringsstrategi og -standarder
+      - lede læringstilbuddet, dets teknologi og dets finansiering
+      - vise afkastet af organisationens investering i læring
+hr-skills-frameworks-and-career-pathways:
+  name: Kompetencerammeværker og karriereveje
+  description: At bruge rammeværker for kompetencer og roller, såsom denne reference, UK GDaD PCF og ESCO, til at beskrive roller, vurdere kompetencegab og opbygge karriereveje.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvad et kompetencerammeværk er, og hvordan det beskriver roller og niveauer
+      - finde rolleprofilen og kompetencerne for et job i rammen
+    working: |
+      Du kan:
+      - knytte stillingsbeskrivelser til rammens roller, niveauer og kompetencer
+      - støtte medarbejdere og ledere med selvvurdering af kompetencer
+      - holde oplysninger om karriereveje ajour
+    practitioner: |
+      Du kan:
+      - gennemføre kompetencegabsanalyser for et team eller et fag og rapportere resultaterne
+      - designe karriereveje og udviklingsveje ud fra rammens niveauer
+      - bruge rammens kompetencer til at skrive ensartede stillingsbeskrivelser og vurderinger
+    expert: |
+      Du kan:
+      - fastlægge, hvordan organisationen bruger kompetencerammeværker på tværs af fag
+      - bruge kompetencedata til at understøtte strategierne for arbejdsstyrke, læring og aflønning
+      - bidrage til udviklingen af fælles rammer sammen med andre organisationer
+hr-organisational-development:
+  name: Organisationsudvikling
+  description: At forbedre, hvordan organisationen fungerer, gennem kultur, ledelse, engagement, teameffektivitet og trivselsindsatser baseret på evidens.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvordan kultur, ledelse og engagement påvirker medarbejdere og patientpleje
+      - hjælpe med at gennemføre medarbejderundersøgelser og lytteevents
+    working: |
+      Du kan:
+      - facilitere teamsessioner og workshops ved hjælp af standardværktøjer
+      - analysere resultater af medarbejderundersøgelser for et team og foreslå handlinger
+    practitioner: |
+      Du kan:
+      - diagnosticere organisatoriske problemer og designe indsatser, der imødegår dem
+      - lede teamudvikling, lederudvikling og engagementsprogrammer
+      - evaluere indsatsers effekt ved hjælp af evidens
+    expert: |
+      Du kan:
+      - fastlægge strategien for organisationsudvikling og kulturprogrammet
+      - coache ledere i direktionen og lede kulturændringer i stor skala
+      - knytte mål for kultur og engagement til plejens kvalitet og præstation
+hr-organisational-change:
+  name: Organisatorisk forandring og høring
+  description: At planlægge og styre ændringer af strukturer, roller og arbejdsmønstre, herunder formel høring, omplacering og afskedigelse af overtallige, i overensstemmelse med politik og ansættelsesret.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare de vigtigste faser i en organisatorisk forandringsproces
+      - understøtte administrationen af en forandring, såsom høringsbreve og møder
+    working: |
+      Du kan:
+      - støtte ledere i at udarbejde høringsmateriale og orienteringer til medarbejderne
+      - følge svar og handlinger under høringen
+      - støtte medarbejdere gennem omplacering og udvælgelsesprocesser
+    practitioner: |
+      Du kan:
+      - lede organisatorisk forandring for en direktion, fra business case til implementering
+      - høre medarbejdere og deres repræsentanter og reagere på deres tilbagemeldinger
+      - håndtere de juridiske risici og ligestillingsrisici ved en forandring
+    expert: |
+      Du kan:
+      - lede omstruktureringer i hele organisationen og overdragelser af services
+      - designe organisationens tilgang til forandring, herunder samarbejde med medarbejderrepræsentanter
+      - rådgive bestyrelsen om større forandringers konsekvenser for personalet og risici
+hr-people-strategy:
+  name: Personalestrategi og HR-ledelse
+  description: At fastlægge organisationens personalestrategi, lede HR-funktionen og rådgive bestyrelsen om kultur, arbejdsstyrke og ansættelsesretlig risiko.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare organisationens personalestrategi og hvordan dit arbejde understøtter den
+    working: |
+      Du kan:
+      - bidrage til personaleplaner for en service med klare handlinger og mål
+      - rapportere fremdrift i forhold til personaleplanen
+    practitioner: |
+      Du kan:
+      - skrive og lede personaleplaner for en direktion i overensstemmelse med personalestrategien
+      - rådgive den øverste ledelse om personalerisici og prioriteter
+      - lede en del af HR-funktionen og fastsætte dens standarder og prioriteter
+    expert: |
+      Du kan:
+      - fastlægge organisationens personalestrategi og lede HR-funktionen
+      - rådgive bestyrelsen om kultur, arbejdsstyrke og ansættelsesretlig risiko
+      - repræsentere organisationen i personalespørgsmål over for partnere og tilsynsmyndigheder

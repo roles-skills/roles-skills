@@ -1,0 +1,67 @@
+summary: Das Personal der Informationsgovernance hilft der Organisation, personenbezogene Informationen und Gesundheitsinformationen rechtmäßig, sicher und ethisch zu behandeln. Es berät Teams zu Datenschutz und Vertraulichkeit, bearbeitet Anträge auf Informationsrechte, unterstützt Datenschutz-Folgenabschätzungen, steuert Datenpannen und sammelt die Belege, die zeigen, dass die Organisation Standards der Informationsgovernance erfüllt.
+health_context:
+- Das Datenschutzrecht schützt Gesundheitsinformationen besonders; die Anforderungen an rechtmäßige Nutzung, Sicherheit und Transparenz sind daher hoch.
+- Digitale Gesundheitsdienste teilen Daten oft über viele Pflegeorganisationen hinweg; Vereinbarungen zum Informationsaustausch und Datenflüsse brauchen daher sorgfältige Prüfung.
+- Patientinnen, Patienten und die Öffentlichkeit haben gesetzliche Rechte auf Zugang zu ihren Akten und den Informationen der Organisation, mit strengen Fristen.
+- Datenpannen mit Gesundheitsinformationen können echten Schaden und Leid verursachen; Vorfälle brauchen daher schnelle, sorgfältige Behandlung.
+- Neue Datennutzungen wie Analytik, Forschung und KI werfen Fragen zu Einwilligung, Vertraulichkeit und öffentlichem Vertrauen auf.
+levels:
+- title: Sachbearbeiter/in Informationsgovernance
+  summary: Unterstützt das Team der Informationsgovernance bei Anträgen auf Informationsrechte, Erfassung von Vorfällen, Schulungsnachweisen und Belegsammlung, nach festgelegten Verfahren.
+  responsibilities:
+  - Anträge auf Informationsrechte erfassen, bestätigen und verfolgen und Informationen für Antworten zusammentragen.
+  - Datenpannen und Beinahe-Pannen erfassen und die Fakten zur Prüfung zusammentragen.
+  - Register der Informationsgovernance wie das Register der Informationswerte und die Datenflusskarte aktuell halten.
+  - Belege für die jährliche Selbstbewertung der Informationsgovernance sammeln.
+  - Verfolgen, ob das Personal die Schulung zur Informationsgovernance abgeschlossen hat.
+  - Routinefragen von Mitarbeitenden zur Informationsgovernance beantworten.
+  qualifications:
+  - Erfahrung in Verwaltungs- oder Aktenarbeit oder eine Grundlagenqualifikation im Datenschutz oder gleichwertige Erfahrung.
+  job_evaluation_notes: Die emotionale Anstrengung spiegelt die häufige indirekte Konfrontation mit belastenden Inhalten in Anträgen, Akten und Pannenberichten wider.
+- title: Senior-Sachbearbeiter/in Informationsgovernance
+  summary: Bearbeitet eine Reihe von Anträgen auf Informationsrechte und Vorfällen und unterstützt Teams bei Datenschutz-Folgenabschätzungen und Informationsaustausch.
+  responsibilities:
+  - Anträge auf Informationsrechte bearbeiten, einschließlich Schwärzung und Anwendung von Ausnahmen, innerhalb der gesetzlichen Fristen.
+  - Datenpannen und Beinahe-Pannen bewerten und untersuchen und Maßnahmen bis zum Abschluss verfolgen.
+  - Projektteams helfen, Datenschutz-Folgenabschätzungen abzuschließen und Datenflüsse zu beschreiben.
+  - Vereinbarungen zum Informationsaustausch und Datenschutzhinweise zur Prüfung entwerfen.
+  - Schulungen und Briefings zur Informationsgovernance für Mitarbeitende halten.
+  - Audits zu Zugriff und Aktenführung durchführen.
+  qualifications:
+  - Eine anerkannte Qualifikation im Datenschutz oder in der Informationsgovernance oder gleichwertige Erfahrung.
+- title: Leitung Informationsgovernance (fachlich)
+  summary: Gibt einer Direktion oder einem Programm fachkundige Beratung zur Informationsgovernance und leitet Datenschutz-Folgenabschätzungen und komplexe Fälle.
+  responsibilities:
+  - Produktteams und Dienste zu Rechtsgrundlage, Einwilligung, Vertraulichkeit und Aufbewahrung beraten.
+  - Datenschutz-Folgenabschätzungen für komplexe Systeme prüfen und Maßnahmen empfehlen.
+  - Komplexe oder strittige Anträge auf Informationsrechte und interne Überprüfungen bearbeiten.
+  - Schwere Datenpannen untersuchen und empfehlen, ob die Aufsichtsbehörden zu benachrichtigen sind.
+  - Vereinbarungen zum Informationsaustausch mit Partnerorganisationen prüfen.
+  - Sachbearbeitende Informationsgovernance beaufsichtigen und anleiten.
+  qualifications:
+  - Eine anerkannte berufliche Qualifikation im Datenschutz oder in der Informationsgovernance oder gleichwertige Erfahrung.
+  - Erfahrung in der Beratung zum Datenschutz im Gesundheits- oder Pflegebereich.
+- title: Manager/in Informationsgovernance
+  summary: Steuert den Dienst der Informationsgovernance im Tagesgeschäft, einschließlich seines Teams, der Fallarbeit, des Absicherungsprogramms und der Schulung.
+  responsibilities:
+  - Das Team der Informationsgovernance und seine Fallarbeit führen und sicherstellen, dass gesetzliche Fristen eingehalten werden.
+  - Das Absicherungsprogramm der Informationsgovernance und die jährliche Selbstbewertung planen und durchführen.
+  - Richtlinien und Verfahren der Informationsgovernance schreiben und überprüfen.
+  - Leitende Führungskräfte zu Informationsrisiken beraten und das Informationsrisikoregister führen.
+  - Die Reaktion auf schwere Vorfälle leiten, gemeinsam mit Kolleginnen und Kollegen aus Sicherheit, klinischer Sicherheit und Kommunikation.
+  - Die Schulung zur Informationsgovernance für alle Mitarbeitenden entwerfen und beaufsichtigen.
+  qualifications:
+  - Eine anerkannte berufliche Qualifikation im Datenschutz oder in der Informationsgovernance oder gleichwertige Erfahrung.
+  - Umfangreiche Erfahrung mit Informationsgovernance im Gesundheits- oder Pflegebereich.
+- title: Leiter/in Informationsgovernance
+  summary: Leitet die Informationsgovernance der Organisation, legt Richtlinie und Strategie fest und berät leitende Führungskräfte zu Informationsrisiko und Compliance.
+  responsibilities:
+  - Die Strategie, die Richtlinien und den Rahmen der Informationsgovernance für die Organisation festlegen.
+  - Die Dienste der Informationsgovernance und des Aktenwesens leiten und ihr Personal entwickeln.
+  - Die oder den Verantwortlichen der Geschäftsleitung für Informationsrisiko, den Vorstand und seine Ausschüsse zu Informationsrisiko und Compliance beraten.
+  - Die endgültigen Entscheidungen bei komplexen Fragen zu Offenlegung, Austausch und Pannenmeldung treffen.
+  - Die Organisation gegenüber Aufsichtsbehörden, Prüfenden und Partnerorganisationen vertreten.
+  - Sicherstellen, dass neue digitale Dienste, Datennutzungen und KI von Anfang an mit Privatsphäre und Transparenz gestaltet werden.
+  qualifications:
+  - Eine anerkannte berufliche Qualifikation im Datenschutz oder in der Informationsgovernance oder gleichwertige Erfahrung.
+  - Umfassende Erfahrung in der Leitung der Informationsgovernance im Gesundheits- oder Pflegebereich.

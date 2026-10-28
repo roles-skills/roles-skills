@@ -1,0 +1,237 @@
+# Icelandic translations of data/skills/legal.yaml. Keys are the English skill ids.
+legal-legal-research:
+  name: Lögfræðirannsóknir
+  description: Að finna, lesa og taka saman löggjöf, dómaframkvæmd, leiðbeiningar og fordæmi til að svara lagalegri spurningu.
+  levels:
+    awareness: |
+      Þú getur:
+      - fundið löggjöf, leiðbeiningar og fordæmisskjöl með lagagagnagrunnum og þekkingu stofnunarinnar
+      - notað lagahugtök rétt
+    working: |
+      Þú getur:
+      - rannsakað afmarkaða lagalega spurningu og tekið heimildir skýrt saman
+      - athugað að heimildir séu núgildandi og áreiðanlegar
+      - haldið fordæma- og þekkingarsöfnum uppfærðum
+    practitioner: |
+      Þú getur:
+      - rannsakað flóknar eða nýjar spurningar, svo sem hvernig gildandi lög eiga við um nýja tækni
+      - greint misvísandi heimildir og komist að rökstuddri niðurstöðu
+      - fylgst með breytingum á lögum og leiðbeiningum og útskýrt áhrif þeirra á stofnunina
+    expert: |
+      Þú getur:
+      - stýrt rannsóknum á flóknustu spurningum stofnunarinnar og þeim sem fela í sér mesta áhættu
+      - séð fyrir lagaþróun og undirbúið stofnunina fyrir hana
+      - lagt til samráðs um lög og leiðbeiningar sem varða stafræna heilbrigðis- og velferðarþjónustu
+legal-contract-drafting-and-review:
+  name: Samningagerð og yfirferð samninga
+  description: Að semja, yfirfara og semja um samninga, svo sem tækni-, hugbúnaðarleyfis-, skýja-, þjónustu- og gagnavinnslusamninga.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt helstu hluta samnings, svo sem aðila, gildistíma, greiðslu, ábyrgð og uppsögn
+      - útbúið stöðluð skjöl úr samþykktum sniðmátum
+    working: |
+      Þú getur:
+      - yfirfarið hversdagslega samninga, svo sem trúnaðarsamninga og einfalda þjónustusamninga, gegn stöðlum stofnunarinnar
+      - merkt breytingar í samningum og útskýrt þær
+      - komið auga á ákvæði sem þurfa yfirferð lögfræðings, svo sem ótakmarkaða ábyrgð eða sjálfvirka endurnýjun
+    practitioner: |
+      Þú getur:
+      - samið og samið um flókna samninga, svo sem hugbúnaðarleyfi, skýjahýsingu, kerfissamþættingu og gagnavinnslusamninga
+      - ráðlagt um skiptingu áhættu, þar á meðal ábyrgðarþak, þjónustustig, útgöngu og skilmála um vörslu frumkóða
+      - tryggt að samningar verndi gögn sjúklinga, samfellu þjónustu og réttindi stofnunarinnar í hugbúnaði og gögnum sínum
+      - skrifað og viðhaldið samningasniðmátum og handbókum
+    expert: |
+      Þú getur:
+      - mótað samningastaðla og áhættuafstöðu stofnunarinnar
+      - stýrt samningaviðræðum um verðmætustu samninga eða þá sem fela í sér mesta áhættu
+      - ráðlagt æðstu stjórnendum um stefnumótandi viðskiptafyrirkomulag, svo sem samstarf og sameiginleg verkefni
+legal-legal-advice:
+  name: Lögfræðiráðgjöf
+  description: Að veita skýra, hagnýta og nákvæma lögfræðiráðgjöf sem hjálpar samstarfsfólki að taka lögmætar ákvarðanir og stýra lagalegri áhættu.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvenær samstarfsfólk þarf lögfræðiráðgjöf og hvernig á að fá hana
+      - tekið við skýrum fyrirmælum og skráð staðreyndir máls
+    working: |
+      Þú getur:
+      - undirbúið drög að ráðgjöf um hversdagsleg mál sem lögfræðingur fer yfir
+      - svarað einföldum spurningum með samþykktum leiðbeiningum
+      - greint lagaleg álitaefni í safni staðreynda
+    practitioner: |
+      Þú getur:
+      - veitt sjálfstæða lögfræðiráðgjöf á starfssviðum þínum
+      - útskýrt lagalega áhættu á látlausu máli og mælt með hagnýtum valkostum
+      - ráðlagt um ákvarðanir með lagaleg áhrif, svo sem samningsval, gagnamiðlun og breytingar á þjónustu
+      - ákveðið hvenær á að fela ytri lögfræðingum eða málflytjendum verk
+    expert: |
+      Þú getur:
+      - ráðlagt stjórn og framkvæmdastjórn um mikilvægustu lagalegu áhættu stofnunarinnar
+      - veitt endanlega ráðgjöf um ný, umdeild eða verðmæt mál
+      - mótað áhættuvilja stofnunarinnar gagnvart lagalegri áhættu
+      - tryggt gæði lögfræðiráðgjafar þvert á stofnunina, þar á meðal ytri ráðgjafar
+legal-litigation-and-disputes:
+  name: Málarekstur og lausn deilumála
+  description: Að koma í veg fyrir, stýra og leysa deilur og kröfur, þar á meðal samningsdeilur, vinnuréttarkröfur og samskipti vegna krafna um læknisfræðileg mistök.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt helstu stig kröfu eða deilu
+      - skráð kröfur og fylgst nákvæmlega með frestum
+    working: |
+      Þú getur:
+      - safnað og skipulagt skjöl og gögn fyrir mál
+      - útbúið tímaröð, gagnamöppur og drög að vitnisburðum
+      - verið í samskiptum við ytri lögfræðinga, tryggingafélög eða bótakerfi um hversdagsleg mál
+    practitioner: |
+      Þú getur:
+      - stýrt málaskrá deilna og krafna frá fyrstu tilkynningu til sáttar eða skýrslutöku
+      - metið réttmæti og verðmæti krafna og mælt með stefnu
+      - samið um sáttir og notað önnur úrræði til lausnar deilna
+      - tryggt að lærdómur af kröfum nýtist í öryggi, samninga og þjónustuumbætur
+    expert: |
+      Þú getur:
+      - stýrt mikilvægustu eða áberandi deilum stofnunarinnar
+      - mótað nálgun stofnunarinnar við málarekstur, sáttir og skýrslugjöf um kröfur
+      - ráðlagt stjórn um skilyrtar skuldbindingar og orðsporsáhættu
+legal-information-and-data-law:
+  name: Upplýsinga- og gagnaréttur
+  description: Að beita persónuverndar-, trúnaðar-, upplýsinga- og netöryggislögum á heilbrigðis- og velferðargögn og stafræna þjónustu.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt grunnreglur persónuverndar og trúnaðar
+      - greint upplýsingabeiðnir og gagnabrot og vísað þeim rétta leið
+    working: |
+      Þú getur:
+      - yfirfarið gagnamiðlunar- og gagnavinnslusamninga gegn sniðmátum
+      - stutt svör við upplýsingabeiðnum og beiðnum um réttindi skráðra einstaklinga
+      - útskýrt lagagrundvöll fyrir notkun heilbrigðisgagna í algengum aðstæðum
+    practitioner: |
+      Þú getur:
+      - ráðlagt um persónuvernd, trúnaðarskyldu og upplýsingaaðgangslög fyrir stafræna þjónustu
+      - samið og samið um gagnamiðlunarsamninga og gagnavinnsluskilmála, þar á meðal alþjóðlega flutninga
+      - ráðlagt um persónuverndarmat fyrir nýja tækni, svo sem gervigreind og greiningarvettvanga
+      - ráðlagt um gagnabrot, fyrirspurnir eftirlitsaðila og kvartanir
+    expert: |
+      Þú getur:
+      - mótað lagalega afstöðu stofnunarinnar til notkunar heilbrigðis- og velferðargagna
+      - stýrt mikilli áhættu eða nýrri notkun gagna, svo sem rannsóknum, gagnavettvöngum og gervigreind
+      - verið fulltrúi stofnunarinnar gagnvart eftirlitsaðilum í upplýsingarétti
+legal-legal-administration:
+  name: Lögfræðiumsýsla
+  description: Að stýra umsýsluferlum lögfræðiteymis, þar á meðal málastjórnun, skjalastýringu, skrám, frestum og reikningagerð.
+  levels:
+    awareness: |
+      Þú getur:
+      - opnað, uppfært og lokað málum í málastjórnunarkerfinu
+      - skjalfest og sótt lögfræðiskjöl á öruggan hátt
+      - haldið lögfræðilegum og persónulegum upplýsingum trúnaðarmálum
+    working: |
+      Þú getur:
+      - stýrt dagbókum, frestum og lykildagsetningum fyrir teymi
+      - útbúið og sniðið lögfræðiskjöl, gagnamöppur og undirritunarpakka
+      - athugað og afgreitt reikninga ytri lögfræðinga
+      - stýrt samninga- og skjalaskrám
+    practitioner: |
+      Þú getur:
+      - stýrt umsýslu lögfræðiteymisins og bætt ferla þess
+      - skilað skýrslu um vinnuálag, útgjöld til ytri lögfræðinga og afgreiðslutíma
+      - stýrt lögfræðitækni, svo sem málastjórnunar- og rafrænum undirritunarverkfærum
+    expert: |
+      Þú getur:
+      - hannað rekstrarlíkan lögfræðiþjónustu fyrir stofnunina
+      - stýrt vali og notkun lögfræðitækni
+      - sett þjónustustaðla og frammistöðumælikvarða fyrir lögfræðiþjónustu
+legal-employment-law:
+  name: Vinnuréttur
+  description: Að beita vinnurétti á mannauðsstefnur stofnunarinnar, samninga, breytingaáætlanir og vinnuréttardeilur.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt helstu starfsréttindi starfsfólks
+      - greint vinnuréttarmál sem þurfa lögfræðiráðgjöf
+    working: |
+      Þú getur:
+      - hjálpað til við að undirbúa skjöl fyrir vinnuréttarkröfur og skýrslutökur
+      - yfirfarið ráðningarsamninga og stefnur gegn sniðmátum
+    practitioner: |
+      Þú getur:
+      - ráðlagt um vinnuréttarmál, svo sem uppsagnir, mismunun, tilfærslu starfsfólks og endurskipulagningu
+      - stýrt vinnuréttarkröfum og samið um sáttasamninga
+      - ráðlagt um notkun verktaka og ráðningarstöðu stafrænna sérfræðinga
+    expert: |
+      Þú getur:
+      - ráðlagt stjórn um stórar mannaflabreytingar og lagalega áhættu þeirra
+      - stýrt áberandi eða flóknum vinnuréttardeilum
+      - mótað mannauðsstefnur til að mæta lagalegum skyldum og góðri venju
+legal-intellectual-property:
+  name: Hugverkaréttur
+  description: Að vernda og nota hugverk í hugbúnaði, gögnum, efni og uppfinningum, þar á meðal höfundarrétt, leyfi, opinn hugbúnað og vörumerki.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt að hugbúnaður, gögn og efni eru vernduð með hugverkarétti
+      - greint hvenær samningur eða verkefni vekur spurningar um eignarhald
+    working: |
+      Þú getur:
+      - athugað hugverkaákvæði í hversdagslegum samningum
+      - haldið skrár um leyfi og skráð réttindi
+      - útskýrt helstu tegundir opinna hugbúnaðarleyfa og skilyrði þeirra
+    practitioner: |
+      Þú getur:
+      - ráðlagt um hver á hugbúnað, gögn og efni sem starfsfólk, birgjar og samstarfsaðilar búa til
+      - samið leyfi og hugverkaskilmála, þar á meðal útgáfu kóða stofnunarinnar sem opins hugbúnaðar
+      - ráðlagt um viðskiptalega notkun gagna og hugbúnaðar stofnunarinnar og um miðlun ávinnings
+    expert: |
+      Þú getur:
+      - mótað hugverka- og opinn hugbúnaðarstefnu stofnunarinnar
+      - stýrt markaðssetningu og samstarfi sem varðar gögn og hugbúnað stofnunarinnar
+      - leyst mikilvægar hugverkadeilur
+legal-procurement-law:
+  name: Réttur um opinber innkaup
+  description: Að beita reglum um opinber innkaup á kaup á vörum, þjónustu og tækni, frá vali á leið á markað til samningsvals og kæru.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna opinberir aðilar verða að fylgja innkaupareglum
+      - greint hvenær innkaupastarfsemi þarfnast innkaupa- eða lögfræðiráðgjafar
+    working: |
+      Þú getur:
+      - athugað útboðsgögn með tilliti til samræmis og heilleika
+      - stutt skráahald sem þarf til að sýna sanngjarnt og gagnsætt ferli
+    practitioner: |
+      Þú getur:
+      - ráðlagt um leiðir á markað, þar á meðal rammasamninga, beina veitingu og samkeppnisverklag
+      - ráðlagt um mat, valákvarðanir og breytingar á samningum eftir val
+      - brugðist við kærum og kvörtunum birgja
+      - ráðlagt um áhættu vegna ríkisstyrkja og samkeppni í samstarfi
+    expert: |
+      Þú getur:
+      - mótað nálgun stofnunarinnar við lagalega áhættu í innkaupum
+      - stýrt innkaupum af miklu verðmæti eða nýjum innkaupum, svo sem nýsköpunarsamstarfi
+      - varið mikilvægar innkaupakærur
+legal-health-and-care-law:
+  name: Heilbrigðis- og velferðarréttur
+  description: Að beita þeim lögum sem gilda um heilbrigðis- og velferðarþjónustu, þar á meðal samþykki, hæfi, læknisfræðileg mistök, regluverk um þjónustu og vörur og lögbundnar skyldur stofnunarinnar.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt helstu lögbundnar skyldur og valdheimildir stofnunarinnar
+      - greint mál sem varða öryggi sjúklinga, samþykki eða læknisfræðileg mistök
+    working: |
+      Þú getur:
+      - stutt lögfræðivinnu vegna atvika, dánarrannsókna eða klínískra krafna
+      - útskýrt það regluverk sem gildir um þjónustu stofnunarinnar
+    practitioner: |
+      Þú getur:
+      - ráðlagt um valdheimildir og skyldur stofnunarinnar, þar á meðal hvenær hún getur veitt eða pantað þjónustu
+      - ráðlagt um regluverk um stafrænar heilbrigðisvörur, svo sem hugbúnað sem lækningatæki
+      - verið í samskiptum við kerfi bótaábyrgðar vegna læknisfræðilegra mistaka og ytri lögfræðinga um kröfur sem varða stafræna þjónustu
+      - ráðlagt um samþykki, hæfi og réttindi sjúklinga í stafrænni þjónustu
+    expert: |
+      Þú getur:
+      - ráðlagt stjórn um lögbundnar skyldur og stjórnarhætti stofnunarinnar
+      - stýrt lögfræðivinnu vegna opinberra rannsókna, dómstólaendurskoðunar og meiriháttar atvika
+      - mótað viðbrögð stofnunarinnar við nýjum heilbrigðis- og velferðarlögum

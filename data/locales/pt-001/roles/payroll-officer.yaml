@@ -1,0 +1,57 @@
+summary: Os profissionais de folha de pagamento garantem que cada pessoa da equipe seja paga com exatidão e pontualidade. Processam admissões, desligamentos e alterações, calculam salários e descontos, fazem as conferências da folha e respondem a dúvidas sobre pagamento. Em uma organização de saúde digital, a folha pode incluir pessoal clínico, digital e corporativo com contratos e regras de pagamento diferentes, e muitas vezes é executada em um sistema de folha compartilhado ou terceirizado que a equipe deve conferir e dar garantia.
+health_context:
+- O pessoal clínico pode ter remuneração complexa, como horas em horários incômodos, plantão e vários contratos, que a folha deve calcular corretamente.
+- As regras de pagamento e os reajustes salariais anuais costumam ser definidos nacionalmente ou por financiadores e devem ser aplicados com rapidez e exatidão.
+- A folha de pagamento costuma ser o maior custo isolado da organização, por isso erros e fraudes têm grande efeito sobre o dinheiro público e a confiança das equipes.
+- Os dados da folha são informações pessoais altamente sensíveis, incluindo dados de saúde, de família e bancários, por isso a governança da informação é central na função.
+- A folha depende de dados exatos dos sistemas de pessoal e de escalas, por isso os profissionais trabalham em estreita colaboração com o RH e as equipes de sistemas.
+levels:
+- title: Profissional de folha de pagamento
+  summary: Os profissionais de folha de pagamento processam alterações salariais e calculam o pagamento de um grupo de pessoas, seguindo procedimentos e conferindo seu trabalho antes do fechamento de cada folha.
+  responsibilities:
+  - Lançar no sistema de folha admissões, desligamentos e alterações contratuais a partir de formulários autorizados.
+  - Calcular o pagamento, incluindo horas extras, adicionais, afastamentos por doença e pagamentos de licenças familiares.
+  - Aplicar corretamente os descontos de impostos, previdência e outros.
+  - Responder com tato e confidencialidade a dúvidas de equipes e gestores sobre pagamento.
+  - Conferir os resultados da folha em busca de erros e corrigi-los antes do fechamento.
+  - Seguir os controles da folha e as regras de governança da informação.
+  qualifications:
+  - Uma qualificação de nível inicial em folha de pagamento, ou experiência equivalente em processamento de folha.
+  job_evaluation_notes: Os recursos financeiros estão no nível 3 porque a função processa o pagamento que a organização libera às equipes. As habilidades físicas estão no nível 3 pela digitação rápida e exata.
+- title: Profissional sênior de folha de pagamento
+  summary: Os profissionais sêniores de folha de pagamento tratam casos complexos da folha, conferem o trabalho dos profissionais de folha e ajudam a conduzir as conciliações e as declarações da folha.
+  responsibilities:
+  - Resolver casos complexos de pagamento, como pagamentos retroativos, vários contratos e troca de salário por benefícios.
+  - Recuperar pagamentos feitos a mais com sensibilidade e conforme a política.
+  - Conciliar a folha com o livro contábil e preparar conciliações de impostos e de previdência.
+  - Conferir o trabalho dos profissionais de folha e aprovar partes da folha.
+  - Testar reajustes salariais e mudanças de regras no sistema de folha antes da entrada em operação.
+  - Treinar profissionais de folha e dar orientação básica sobre pagamento aos gestores.
+  qualifications:
+  - Uma qualificação intermediária em folha de pagamento, ou experiência equivalente.
+- title: Liderança de equipe de folha de pagamento
+  summary: As lideranças de equipe de folha de pagamento gerem a equipe de folha no dia a dia, conduzem o ciclo completo da folha e garantem que os relatórios legais e as declarações de previdência sejam exatos e pontuais.
+  responsibilities:
+  - Planejar e conduzir o ciclo da folha, garantindo o cumprimento dos cortes, das conferências e dos prazos de pagamento.
+  - Aprovar as conferências da folha e investigar desvios significativos.
+  - Gerir os relatórios legais da folha e as declarações de previdência.
+  - Gerir a equipe de folha no dia a dia, incluindo carga de trabalho, treinamento e verificações de qualidade.
+  - Trabalhar com o RH e as equipes de escalas para melhorar a qualidade e a pontualidade dos dados de pagamento.
+  - Responder a dúvidas e reclamações escaladas sobre pagamento.
+  qualifications:
+  - Uma qualificação avançada em folha de pagamento, ou experiência equivalente.
+  - Experiência na condução de uma folha completa.
+- title: Gerente de folha de pagamento
+  summary: Os gerentes de folha de pagamento respondem pelo serviço de folha da organização, seja interno ou prestado por um fornecedor, e dão às lideranças a garantia de que o pagamento é exato, legal e bem controlado.
+  responsibilities:
+  - Gerir o serviço de folha de pagamento e sua equipe e reportar o desempenho e a exatidão.
+  - Gerir o contrato e o relacionamento com qualquer fornecedor de folha ou serviço compartilhado.
+  - Definir controles da folha, como limites de aprovação, relatórios de exceções e segregação de funções.
+  - Planejar mudanças nas regras de pagamento, nos reajustes salariais, na previdência e nos tributos e garantir que sejam aplicadas corretamente.
+  - Liderar mudanças e atualizações do sistema de folha, trabalhando com as equipes de sistemas e de RH.
+  - Fornecer informações da folha para orçamentos, previsões e demonstrações anuais.
+  - Liderar a resposta a falhas da folha e a erros graves.
+  qualifications:
+  - Uma qualificação avançada em folha de pagamento ou uma qualificação contábil reconhecida, ou experiência equivalente.
+  - Experiência na gestão de um serviço de folha de pagamento.
+  job_evaluation_notes: Os recursos financeiros estão no nível 4 porque a função responde por toda a folha de pagamento da organização, seu maior custo. Pessoas está no nível 3 porque a equipe de folha é pequena.

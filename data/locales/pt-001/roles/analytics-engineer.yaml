@@ -1,0 +1,54 @@
+summary: Os profissionais de engenharia de analytics transformam dados brutos de saúde e de cuidados em modelos de dados limpos, testados e documentados, nos quais analistas, cientistas de dados e ferramentas de relatórios podem confiar. Atuam entre a engenharia de dados e a análise, aplicando práticas de engenharia de software, como controle de versões, testes e revisão de código, às transformações por trás dos relatórios e painéis da organização.
+health_context:
+- Os modelos de dados codificam definições clínicas e operacionais, como o que conta como internação, reinternação ou descumprimento de um padrão de tempo de espera, por isso as definições são acordadas com as lideranças clínicas e operacionais.
+- Os códigos clínicos de terminologias e classificações como a SNOMED CT e a CID são agrupados em conjuntos de referência para análise, que exigem controle de versões cuidadoso.
+- Os modelos usados em relatórios de desempenho e de financiamento devem ser consistentes e auditáveis, porque erros podem afetar decisões sobre os serviços aos pacientes.
+- Os modelos costumam conter dados pseudonimizados em nível de paciente, por isso o acesso, a documentação e a minimização de dados são incorporados desde o início.
+levels:
+- title: Profissional de engenharia de analytics trainee
+  responsibilities:
+  - Aprender as ferramentas e práticas de modelagem de dados da equipe por meio de treinamento e trabalho em dupla.
+  - Fazer pequenas alterações bem definidas nos modelos de dados, sob supervisão.
+  - Documentar os itens de dados e suas definições no catálogo de dados.
+  - Responder a perguntas simples de usuários dos dados e registrar seus requisitos.
+  - Seguir as regras de governança da informação ao trabalhar com dados de pacientes.
+  qualifications:
+  - Matriculado em um programa de aprendizagem profissional em dados ou equivalente, ou trabalhando para isso.
+  job_evaluation_notes: Os conhecimentos são pontuados no nível que a função exige depois que o treinamento é suficiente para realizar o trabalho.
+- title: Profissional de engenharia de analytics
+  responsibilities:
+  - Construir e testar modelos de dados de uma área de serviço, como a atividade de internação ou os cuidados na comunidade, a partir de projetos acordados.
+  - Escrever testes automatizados que verifiquem os modelos de dados em relação às definições clínicas e operacionais acordadas.
+  - Manter os conjuntos de referência de códigos clínicos usados na análise, com versões claras.
+  - Documentar os modelos para que os analistas entendam seu significado, suas fontes e seus limites.
+  - Treinar e apoiar os usuários dos conjuntos de dados da equipe.
+  qualifications:
+  - Graduação em área quantitativa ou de computação, ou experiência equivalente.
+  - Experiência na construção de modelos de dados ou de código analítico.
+- title: Profissional de engenharia de analytics sênior
+  responsibilities:
+  - Supervisionar o projeto e o teste de modelos de dados em várias áreas de serviço.
+  - Acordar as definições das principais medidas com as lideranças clínicas, operacionais e financeiras e garantir que os modelos as apliquem de forma consistente.
+  - Garantir que os modelos que alimentam relatórios de desempenho e de financiamento sejam auditáveis e bem testados.
+  - Resolver problemas e riscos de dados com pessoas engenheiras de dados e responsáveis pelos dados.
+  - Orientar e dirigir o trabalho de outros profissionais de engenharia de analytics.
+  qualifications:
+  - Experiência substancial em modelagem de dados e engenharia de analytics, em nível equivalente ao de mestrado.
+- title: Profissional de engenharia de analytics líder
+  responsibilities:
+  - Liderar uma equipe que projeta, constrói e mantém os modelos de dados analíticos da organização.
+  - Definir padrões para modelos de dados, testes, documentação e definições de medidas.
+  - Trabalhar com equipes de toda a organização para entender como os processos clínicos e operacionais geram dados.
+  - Revisar o trabalho de outros profissionais de engenharia de analytics e melhorar as formas de trabalho da equipe.
+  - Chefiar profissionais de engenharia de analytics.
+  qualifications:
+  - Ampla experiência na liderança de engenharia de analytics ou de modelagem de dados.
+- title: Chefia de engenharia de analytics
+  responsibilities:
+  - Definir a direção dos modelos de dados analíticos da organização, para que a análise em toda a organização use um único conjunto confiável de definições.
+  - Garantir que as prioridades de engenharia de analytics apoiem a estratégia e os deveres de relatório da organização.
+  - Aconselhar a liderança sênior sobre a confiabilidade dos dados por trás de grandes relatórios e decisões.
+  - Garantir que a comunidade tenha as ferramentas e plataformas de que precisa e gerir o orçamento correspondente.
+  - Desenvolver a capacidade de engenharia de analytics por meio da liderança técnica e do desenvolvimento de carreira.
+  qualifications:
+  - Ampla experiência na liderança de engenharia de analytics em uma organização.

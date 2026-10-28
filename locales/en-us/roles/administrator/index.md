@@ -68,8 +68,8 @@ Carries out routine administrative tasks for a team, following set procedures wi
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 2 | 36 |
-| 3 | Analytical and judgemental skills | 2 | 15 |
-| 4 | Planning and organisational skills | 1 | 6 |
+| 3 | Analytical and judgmental skills | 2 | 15 |
+| 4 | Planning and organizational skills | 1 | 6 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 1 | 5 |
@@ -129,8 +129,8 @@ Provides a full administrative service to a team or service, handling a range of
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 3 | 60 |
-| 3 | Analytical and judgemental skills | 2 | 15 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 2 | 15 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 1 | 5 |
@@ -152,7 +152,7 @@ Leads the administration for a service or directorate, supervising other adminis
 ### Responsibilities
 
 - Coordinate the administrative service for a directorate, allocating work to administrators.
-- Take formal minutes for management and programme meetings.
+- Take formal minutes for management and program meetings.
 - Write and improve administrative procedures and templates.
 - Produce reports from trackers and systems for managers.
 - Monitor spending on administrative budgets and raise variances.
@@ -189,8 +189,8 @@ Leads the administration for a service or directorate, supervising other adminis
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -208,5 +208,5 @@ Leads the administration for a service or directorate, supervising other adminis
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

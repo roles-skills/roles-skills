@@ -1,0 +1,46 @@
+summary: Chuyên viên phân tích dữ liệu biến dữ liệu y tế và chăm sóc thành thông tin giúp bác sĩ lâm sàng, quản lý và người lập kế hoạch ra quyết định. Họ chuẩn bị, liên kết và phân tích dữ liệu từ các nguồn lâm sàng, vận hành và do bệnh nhân báo cáo, và trình bày trong các báo cáo, bảng điều khiển và tóm tắt. Họ bảo đảm phân tích của mình chính xác, có thể tái lập và xử lý dữ liệu bệnh nhân bí mật một cách an toàn.
+health_context:
+- Phần lớn dữ liệu mô tả từng bệnh nhân, nên chuyên viên phân tích làm việc với dữ liệu đã bút danh hóa khi có thể và kiểm tra kết quả đầu ra về rủi ro tiết lộ trước khi công bố.
+- Dữ liệu y tế được ghi bằng các bộ thuật ngữ và phân loại lâm sàng như SNOMED CT và ICD, nên chuyên viên phân tích cần biết cách dùng các mã và những chỗ chúng có thể gây hiểu lầm.
+- Chất lượng dữ liệu khác nhau giữa các môi trường chăm sóc và hệ thống, và các khoảng trống thường ảnh hưởng đến một số nhóm bệnh nhân nhiều hơn các nhóm khác, nên chuyên viên phân tích kiểm tra thiên lệch trước khi rút ra kết luận.
+- Phân tích có thể thay đổi cách các dịch vụ được lập kế hoạch, tài trợ và cung cấp, nên các phát hiện cần có lưu ý rõ ràng và không được nói quá mức về độ chắc chắn.
+levels:
+- title: Chuyên viên phân tích dữ liệu trợ lý
+  responsibilities:
+  - Lập các báo cáo và bảng điều khiển thường lệ về hoạt động, thời gian chờ và việc sử dụng dịch vụ, theo các phương pháp đã thống nhất.
+  - Làm sạch và chuẩn bị các bản trích xuất từ hệ thống quản lý bệnh nhân, lâm sàng và vận hành, dưới sự giám sát.
+  - Kiểm tra kết quả đầu ra theo các quy tắc chất lượng dữ liệu và báo các vấn đề cho đúng chủ sở hữu dữ liệu.
+  - Áp dụng việc loại bỏ các số nhỏ và các quy tắc tiết lộ khác trước khi chia sẻ kết quả.
+  - Trả lời các yêu cầu dữ liệu đơn giản từ các nhóm lâm sàng và vận hành.
+  qualifications:
+  - Có bằng đại học một ngành thiên về toán, chương trình học nghề về phân tích, hoặc kinh nghiệm tương đương.
+- title: Chuyên viên phân tích dữ liệu
+  responsibilities:
+  - Thiết kế và thực hiện các phân tích trả lời câu hỏi từ các nhóm lâm sàng, vận hành và lập kế hoạch.
+  - Liên kết an toàn dữ liệu cấp bệnh nhân từ các nguồn khác nhau, dùng mã định danh đã bút danh hóa và các phương pháp liên kết đã thống nhất.
+  - Viết mã phân tích có thể tái lập và ghi tài liệu về phương pháp, giả định và nguồn dữ liệu.
+  - Giải thích các phát hiện và giới hạn của chúng cho bác sĩ lâm sàng và quản lý bằng ngôn ngữ giản dị.
+  - Kiểm tra phân tích về thiên lệch giữa các nhóm bệnh nhân, như theo tuổi, giới, dân tộc và mức độ thiếu thốn.
+  - Hỗ trợ các chuyên viên phân tích trợ lý và rà soát công việc của họ.
+  qualifications:
+  - Có bằng đại học một ngành thiên về toán, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm phân tích và trình bày dữ liệu phức tạp.
+- title: Chuyên viên phân tích dữ liệu cao cấp
+  responsibilities:
+  - Dẫn dắt phân tích cho một mảng dịch vụ, như chăm sóc khẩn cấp, ung thư hoặc sức khỏe tâm thần, thống nhất ưu tiên với các lãnh đạo của mảng đó.
+  - Đề ra phương pháp và đảm bảo chất lượng cho phân tích của nhóm, kể cả đánh giá đồng cấp đối với mã và kết quả đầu ra.
+  - Dẫn dắt các dự án liên kết phức tạp giữa các môi trường chăm sóc và thống nhất cơ sở quản trị thông tin của chúng.
+  - Trình bày các phát hiện cho các nhóm lâm sàng và quản lý cấp cao và tư vấn về ý nghĩa của chúng đối với các dịch vụ.
+  - Làm việc với các kỹ sư dữ liệu và chủ sở hữu dữ liệu để khắc phục nguyên nhân gốc của chất lượng dữ liệu kém.
+  - Huấn luyện và phát triển các chuyên viên phân tích trong nhóm.
+  qualifications:
+  - Có kinh nghiệm dày dặn trong việc dẫn dắt phân tích dữ liệu, ở mức tương đương bằng thạc sĩ.
+- title: Chuyên viên phân tích dữ liệu chủ chốt
+  responsibilities:
+  - Đề ra tiêu chuẩn của tổ chức về phân tích dữ liệu, đảm bảo chất lượng và thực hành phân tích có thể tái lập.
+  - Tư vấn cho các lãnh đạo điều hành và lâm sàng về bằng chứng đằng sau các quyết định lớn về dịch vụ và đầu tư.
+  - Dẫn dắt cộng đồng phân tích, kể cả đào tạo, công cụ và phát triển nghề nghiệp của cộng đồng.
+  - Định hình các thỏa thuận chia sẻ và liên kết dữ liệu với các đối tác y tế và chăm sóc.
+  - Quản lý trực tiếp các chuyên viên phân tích cao cấp và bảo đảm nhóm có năng lực và kỹ năng cần thiết.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt phân tích dữ liệu trên toàn tổ chức.

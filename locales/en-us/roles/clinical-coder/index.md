@@ -47,14 +47,14 @@ A trainee clinical coder learns to code straightforward hospital episodes under 
 | --- | --- | --- | --- |
 | [Clinical coding](../../skills/#clinical-coding) | This reference | Awareness | You can:<br>• explain what clinical coding is and why it matters<br>• use basic medical terms and anatomy |
 | [Clinical terminology and classification](../../skills/#clinical-terminology-and-classification) | This reference | Awareness | You can:<br>• explain the difference between a clinical terminology and a classification<br>• recognize common terminologies such as SNOMED CT and ICD |
-| [Health records management](../../skills/#health-records-management) | This reference | Awareness | You can:<br>• file, find, and track records correctly<br>• protect records from loss or unauthorized access |
+| [Health records management](../../skills/#health-records-management) | This reference | Awareness | You can:<br>• file, find, and track records correctly<br>• protect records from loss or unauthorised access |
 | [Data quality management](../../skills/#data-quality-management) | This reference | Awareness | You can:<br>• explain why accurate health data matters for care and planning<br>• record data accurately and report errors |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Awareness | You can:<br>• follow the organization's rules for handling personal and health information<br>• recognize and report a data breach or near miss |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Awareness | You can:<br>• describe the main parts of the health and care system and the services the organization supports<br>• explain why patient safety and confidentiality matter in your work |
 
 ### Typical qualifications and experience
 
-- Good literacy and keyboard skills, and enrollment on a clinical coding training programme, or equivalent.
+- Good literacy and keyboard skills, and enrollment on a clinical coding training program, or equivalent.
 
 ### Band outline
 
@@ -70,8 +70,8 @@ A trainee clinical coder learns to code straightforward hospital episodes under 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 3 | 60 |
-| 3 | Analytical and judgemental skills | 2 | 15 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 2 | 15 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 1 | 5 |
@@ -130,8 +130,8 @@ A clinical coder codes a full range of routine episodes independently and accura
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 1 | 5 |
@@ -192,8 +192,8 @@ A senior clinical coder codes complex episodes across specialties, acts as a sou
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -255,8 +255,8 @@ A clinical coding auditor and trainer audits the accuracy of coded data, designs
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -275,12 +275,12 @@ People is level 3 because designing and teaching specialist coding training is a
 
 ## Band 7: Clinical coding manager
 
-A clinical coding manager leads the organization's clinical coding service, including its coding teams, quality programme, and links with clinical, finance, and information teams.
+A clinical coding manager leads the organization's clinical coding service, including its coding teams, quality program, and links with clinical, finance, and information teams.
 
 ### Responsibilities
 
 - Lead the clinical coding service and its team leaders, making sure coding is complete, accurate, and on time.
-- Set coding policies and the coding quality programme, in line with national and international standards.
+- Set coding policies and the coding quality program, in line with national and international standards.
 - Hold the coding budget and plan the workforce, including recruitment, training, and accreditation.
 - Advise senior leaders on how coding affects funding, mortality and outcome indicators, and published data.
 - Lead the adoption of new coding technology, such as computer-assisted coding and terminology mapping, with clinical safety and information governance colleagues.
@@ -290,7 +290,7 @@ A clinical coding manager leads the organization's clinical coding service, incl
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Clinical coding](../../skills/#clinical-coding) | This reference | Expert | You can:<br>• lead a coding service and its quality programme<br>• advise on coding standards and their effect on data and funding |
+| [Clinical coding](../../skills/#clinical-coding) | This reference | Expert | You can:<br>• lead a coding service and its quality program<br>• advise on coding standards and their effect on data and funding |
 | [Clinical terminology and classification](../../skills/#clinical-terminology-and-classification) | This reference | Practitioner | You can:<br>• design data models and reference sets using clinical terminologies<br>• map between terminologies and classifications, and explain the limits of a mapping<br>• advise teams on terminology use in products and analytics |
 | [Health records management](../../skills/#health-records-management) | This reference | Practitioner | You can:<br>• manage a records service and its procedures<br>• audit record-keeping and train staff |
 | [Data quality management](../../skills/#data-quality-management) | This reference | Practitioner | You can:<br>• define data quality rules and measures<br>• work with data providers to fix the root causes of poor quality |
@@ -308,7 +308,7 @@ A clinical coding manager leads the organization's clinical coding service, incl
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -319,8 +319,8 @@ A clinical coding manager leads the organization's clinical coding service, incl
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -338,5 +338,5 @@ A clinical coding manager leads the organization's clinical coding service, incl
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

@@ -1,0 +1,66 @@
+summary: Framendasmiðir smíða notendaviðmót stafrænnar heilbrigðisþjónustu stofnunarinnar, svo sem vefsvæði og forrit sem snúa að sjúklingum, netform og skjái sem klínískt starfsfólk og umönnunarstarfsfólk notar í umönnun. Þeir skrifa aðgengilegan, hraðvirkan og öruggan kóða sem virkar fyrir alla, einnig fólk sem er veikt, kvíðið eða notar eldri tæki, og vinna í þverfaglegum vöruteymum með hönnuðum, rannsakendum og klínísku starfsfólki.
+health_context:
+- Margir notendur eru veikir, með verki, aldraðir eða fatlaðir, svo aðgengi og látlaus, róleg viðmót eru nauðsyn frekar en valkostur.
+- Ruglingsleg eða röng framsetning klínískra upplýsinga, svo sem lyfjaskammts, niðurstöðu eða tímasetningar tímabókunar, getur skaðað sjúklinga, svo framendavinna fylgir ferli klínískrar áhættustýringar.
+- Viðmót sýna oft trúnaðarupplýsingar um heilsu, svo smiðir hanna með friðhelgi í huga, til dæmis á sameiginlegum tækjum og á annasömum klínískum svæðum.
+- Klínískt starfsfólk notar viðmót undir tímapressu og með tíðum truflunum, svo skjáir verða að vera hraðir, fyrirsjáanlegir og erfiðir að misskilja.
+- Sjúklingar nálgast þjónustu á fjölbreyttum tækjum og tengingum, svo þjónusta notar stigvaxandi aukningu og virkar á hægum netum.
+levels:
+- title: Framendasmiður í iðnnámi
+  responsibilities:
+  - Læra hönnunarkerfi, tungumál og verkfæri teymisins með skipulagðri þjálfun og pörun.
+  - Smíða litla viðmótshluta undir nánu eftirliti, samkvæmt hönnunarkerfi stofnunarinnar.
+  - Prófa hluta með hjálpartækni, svo sem skjálesurum, með stuðningi samstarfsfólks.
+  - Fylgja verklagi um upplýsingastjórnun og klínískt öryggi þegar unnið er með prófunargögn og raunveruleg gögn.
+  - Stefna að iðnnámi eða sambærilegu námi.
+  qualifications:
+  - Skráður í, eða stefnir á, iðnnám í hugbúnaðarsmíði eða sambærilegt.
+  job_evaluation_notes: Þekking er metin á því stigi sem starfið krefst þegar þjálfun er orðin nægileg til að vinna verkið.
+- title: Yngri framendasmiður
+  responsibilities:
+  - Smíða og prófa viðmótseiginleika fyrir þjónustu sem snýr að sjúklingum og starfsfólki, út frá notendasögum með leiðsögn.
+  - Nota hönnunarkerfi og mynstur stofnunarinnar svo þjónusta líti út og hegði sér samræmt.
+  - Laga aðgengisgalla og athuga síður gegn aðgengisstöðlum eins og WCAG.
+  - Tryggja að klínískar upplýsingar, svo sem dagsetningar, skammtar og niðurstöður, séu sýndar nákvæmlega eins og tilgreint er.
+  - Leggja fram gögn fyrir klínísk öryggismál, svo sem niðurstöður prófana og skjáskot af breytingum.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða skyldri grein, lokið iðnnám eða sambærileg reynsla.
+- title: Framendasmiður
+  responsibilities:
+  - Hanna og smíða aðgengileg, aðlögunarhæf viðmót fyrir heilbrigðisþjónustu sjálfstætt og velja hentugar nálganir.
+  - Vinna með hönnuðum og notendarannsakendum að því að prófa frumgerðir með sjúklingum, klínísku starfsfólki og umönnunarstarfsfólki.
+  - Smíða viðmót sem kalla á forritaskil heilbrigðisgagna, svo sem HL7 FHIR-þjónustu, og meðhöndla villur og vantandi gögn á öruggan hátt.
+  - Taka þátt í hættuvinnustofum og byggja öryggisstýringar inn í viðmótið, svo sem staðfestingarskref og skýrar viðvaranir.
+  - Vernda trúnaðarupplýsingar í vafranum, til dæmis með því að stýra lotum og skyndiminni vandlega á sameiginlegum tækjum.
+  - Fara yfir kóða og leiðbeina yngri framendasmiðum og iðnnemum.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða skyldri grein, eða sambærileg reynsla.
+  - Reynsla af smíði og stuðningi við aðgengilega vefþjónustu í rekstri.
+- title: Eldri framendasmiður
+  responsibilities:
+  - Stýra framendahönnun og afhendingu mikilvægra eiginleika, svo sem tímabókunar, niðurstaðna eða skjáa klínísks vinnuflæðis.
+  - Setja og viðhalda framendastöðlum fyrir teymið, þar á meðal um aðgengi, afköst, öryggi og prófanir.
+  - Leggja til hluta og mynstur í hönnunarkerfi stofnunarinnar og tryggja að þau séu örugg og aðgengileg.
+  - Vinna með klínískum öryggisfulltrúum að því að tryggja að viðmótshættur séu greindar, stýrðar og prófaðar.
+  - Tryggja að þjónusta virki vel á hægum tengingum, eldri tækjum og með hjálpartækni.
+  - Leiðbeina og þróa framendasmiði í teyminu.
+  qualifications:
+  - Mikil reynsla af hönnun, smíði og stuðningi við aðgengilega vefþjónustu í rekstri, á stigi sem jafngildir meistaragráðu.
+- title: Leiðandi framendasmiður
+  responsibilities:
+  - Stýra framendaverkfræði þvert á hóp teyma eða stóra þjónustu sem snýr að sjúklingum.
+  - Bera ábyrgð á tæknilegri stefnu hönnunarkerfis stofnunarinnar og framendasafna.
+  - Tryggja að viðmót þvert á þjónustu uppfylli aðgengisstaðla og séu tryggð í klínísku öryggi.
+  - Vinna með arkitektum, hönnuðum og klínískum leiðtogum að því að móta vegvísa vara og framendatæknival.
+  - Stýra framendafagsamfélaginu og vera línustjóri eða stýra framendasmiðum.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í framendaverkfræði fyrir flókna, aðgengilega þjónustu.
+- title: Yfirmaður framendaþróunar
+  responsibilities:
+  - Móta framendastefnu, staðla og vinnubrögð fyrir alla stafræna þjónustu stofnunarinnar.
+  - Bera ábyrgð á aðgengi og nothæfi viðmóta stofnunarinnar fyrir sjúklinga og starfsfólk.
+  - Ráðleggja æðstu stjórnendum um framendatækni, fjárfestingu í hönnunarkerfi og áhættu af lélegum viðmótum fyrir umönnun.
+  - Vera fulltrúi stofnunarinnar í hönnunarkerfis- og aðgengissamfélögum þvert á stofnanir.
+  - Stýra og þróa framendasmiði þvert á stofnunina, þar á meðal ráðningar og starfsferla.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í framendaþróun þvert á mörg teymi eða stofnanir.

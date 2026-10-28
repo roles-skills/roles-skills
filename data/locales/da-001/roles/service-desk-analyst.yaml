@@ -1,0 +1,70 @@
+summary: Servicedeskanalytikere er første kontaktpunkt for medarbejdere, der har brug for hjælp med organisationens digitale services, fra problemer med login og smartcard til fejl i kliniske systemer og enheder. De registrerer, prioriterer, løser eller eskalerer hændelser og anmodninger, holder brugerne orienteret og spotter mønstre, der peger på bredere problemer. I mange sundhedsorganisationer kører servicedesken døgnet rundt, fordi de kliniske services gør det.
+health_context:
+- Dem, der ringer, er ofte klinikere og plejepersonale midt i patientplejen, så desken prioriterer efter virkningen på patienter og ikke kun efter rækkefølgen, de kommer i.
+- Mange kliniske services kører døgnet rundt hver dag, så servicedesken arbejder ofte i vagter og vagtordninger uden for arbejdstid.
+- Adgang til kliniske systemer bruger rollebaseret adgang og stærk autentificering, så desken håndterer problemer med konti, smartcard og multifaktorautentificering og kontrollerer samtidig identiteten omhyggeligt.
+- Dem, der ringer, kan dele fortrolige patientoplysninger, mens de beskriver en fejl, så analytikerne følger reglerne for informationsstyring for, hvad de registrerer i sager.
+- Desken er ofte den første til at se tegn på en større hændelse eller et cyberangreb, såsom mange opkald om det samme system eller en bølge af mistænkelige e-mails, og skal eskalere dem hurtigt.
+levels:
+- title: Servicedeskanalytiker
+  summary: En servicedeskanalytiker besvarer opkald og sager fra medarbejdere, løser almindelige problemer ved første kontakt ved hjælp af scripts og vidensartikler og giver andre problemer videre til det rette team.
+  responsibilities:
+  - Besvare opkald, chats og selvbetjeningssager fra medarbejdere og registrere hver enkelt nøjagtigt i servicestyringsværktøjet.
+  - Løse almindelige problemer ved første kontakt ved hjælp af scripts og vidensartikler, såsom nulstilling af adgangskoder, oplåsning af konti og printerfejl.
+  - Kontrollere identiteten hos den, der ringer, før konti eller adgang ændres, efter organisationens procedurer.
+  - Spørge, hvordan problemet påvirker patientplejen, fastsætte prioriteten og give hændelsen videre til det rette løsningsteam.
+  - Holde brugerne opdateret om deres sager og bekræfte, at rettelsen virker, før sagerne lukkes.
+  - Kun registrere de oplysninger, der er nødvendige i sager, uden unødvendige patientoplysninger.
+  qualifications:
+  - En uddannelse på niveau 3 i it, en lærlingeuddannelse i it-support eller tilsvarende erfaring.
+  - Gode færdigheder i kundeservice og tastaturfærdigheder, opnået gennem arbejde eller uddannelse.
+  job_evaluation_notes: UK GDaD PCF foreslår lønramme 4 for dette niveau. Denne reference starter scriptet førstelinjearbejde i servicedesken i lønramme 3 og placerer analytikere, der løser mere komplekse fejl, i lønramme 4. Mental anstrengelse afspejler hyppig koncentration om uforudsigelige opkald; følelsesmæssig belastning afspejler hyppige opkald fra medarbejdere under pres i kliniske områder.
+- title: Teknisk servicedeskanalytiker
+  summary: En teknisk servicedeskanalytiker løser mere komplekse fejl ved første kontakt, herunder rettelser af enheder via fjernadgang og adgang til kliniske systemer, og håndterer hasteopkald fra kliniske områder.
+  responsibilities:
+  - Løse mere komplekse hændelser og anmodninger via fjernadgang, herunder fejl i enheder, software og adgang til kliniske systemer.
+  - Håndtere hasteopkald fra kliniske områder, såsom skadestuer, afdelinger og operationsstuer, og starte processen for større hændelser, når det er nødvendigt.
+  - Behandle anmodninger om adgang til kliniske systemer og kontrollere dem mod reglerne for rollebaseret adgang.
+  - Skrive og forbedre vidensartikler, så flere problemer kan løses ved første kontakt.
+  - Spotte gentagne opkald om den samme fejl og gøre hændelsesstyring og problemstyring opmærksomme på dem.
+  - Indberette mistænkte phishing-e-mails og andre sikkerhedshændelser til sikkerhedsteamet.
+  - Vise nye analytikere, hvordan deskens værktøjer og procedurer bruges.
+  qualifications:
+  - Erfaring med it-support i en servicedesk eller et lignende miljø.
+  - En grunduddannelse i it-servicestyring eller tilsvarende erfaring.
+  job_evaluation_notes: Bruger det samme UK GDaD PCF-niveau som analytikeren i lønramme 3, til analytikere der løser mere komplekse problemer og håndterer kliniske hasteopkald. Kommunikation ligger over profilen for lønrammen, fordi analytikerne ofte skal forklare tekniske problemer for travle kliniske medarbejdere.
+- title: Senior servicedeskanalytiker
+  responsibilities:
+  - Lede en vagt på servicedesken og afveje opkaldskøer mod den kliniske hastegrad af åbne hændelser.
+  - Overtage vanskelige eller eskalerede opkald, herunder opkald fra seniorklinikere under akut pleje.
+  - Holde scripts og vidensartikler korrekte, efterhånden som kliniske systemer og enheder ændres.
+  - Fungere som deskens eskaleringspunkt uden for arbejdstid og starte processen for større hændelser, når mange brugere er berørt.
+  - Kontrollere kvaliteten af sager, herunder identitetskontroller og det, der registreres om patienter.
+  - Planlægge dækning i vagtplanen, så desken er bemandet på alle tidspunkter.
+  qualifications:
+  - Betydelig erfaring fra en servicedesk, herunder håndtering af eskaleringer.
+  - En it-servicestyringsuddannelse eller tilsvarende erfaring.
+  job_evaluation_notes: Planlægning afspejler vagt- og vagtplanlægning for en desk, der kører døgnet rundt. Følelsesmæssig belastning afspejler hyppige vanskelige opkald fra medarbejdere, der håndterer akut patientpleje.
+- title: Servicedeskchef
+  responsibilities:
+  - Drive servicedesken til daglig og sikre, at den er bemandet og reagerer døgnet rundt hver dag.
+  - Fastsætte prioriteter og responsmål, der afspejler klinisk risiko, aftalt med kliniske ledere og driftsledere.
+  - Forberede desken på nye og ændrede kliniske systemer, herunder oplæring, scripts og ekstra dækning ved idriftsættelsen.
+  - Analysere tendenser i sager for at finde nye problemer og arbejde sammen med problemstyring om at fjerne deres årsager.
+  - Sikre, at desken følger procedurer for identitetskontrol, informationsstyring og sikkerhed, og handler på revisionsbemærkninger.
+  - Have personaleansvar for seniore analytikere og analytikere, herunder rekruttering, præstation og trivsel for medarbejdere, der arbejder i vagter.
+  qualifications:
+  - Erfaring med at lede et servicedeskteam, herunder dækning i vagter eller uden for arbejdstid.
+  - En it-servicestyringsuddannelse på mellemniveau eller tilsvarende erfaring.
+  job_evaluation_notes: Viden ligger ét niveau under profilen for lønrammen, som det er normalt for roller i servicedesken; personaleansvar er højere, fordi chefen driver et vagtbaseret team.
+- title: Chef for servicedesk
+  responsibilities:
+  - Fastlægge retningen for servicedesken, herunder kontaktkanaler, selvbetjening og support til medarbejdere, der arbejder på tværs af lokaliteter og i kommunen.
+  - Aftale serviceniveauer med kliniske services og administrative services og rapportere præstation til seniorledere.
+  - Sikre, at desken kan fortsætte med at arbejde under større hændelser, cyberangreb og systemnedetid med klare beredskabsprocedurer.
+  - Rådgive projektteams om, hvordan nye kliniske systemer og administrative systemer vil blive supporteret, før de tages i brug.
+  - Styre servicedeskens budget, værktøjer og eventuelle kontrakter om outsourcet support eller support uden for arbejdstid.
+  - Lede og udvikle servicedeskchefer og opbygge en støttende kultur for medarbejdere, der arbejder i vagter.
+  qualifications:
+  - Omfattende erfaring med at styre it-supportservices, herunder services døgnet rundt.
+  - En it-servicestyringsuddannelse på avanceret niveau eller tilsvarende erfaring.

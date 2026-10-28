@@ -1,0 +1,44 @@
+summary: Beveiligingsengineers ontwerpen, bouwen en beheren de technische beheersmaatregelen voor beveiliging die de systemen, data en gebruikers van de organisatie beschermen. Zij werken aan identiteit en toegang, bescherming van endpoints en netwerken, versleuteling, logging en beveiliging in de cloud en helpen product- en infrastructuurteams beveiliging in te bouwen. In de gezondheidszorg beschermen zij klinische systemen en patiëntdata terwijl toegang voor clinici op de plek van zorg snel blijft.
+health_context:
+- Beheersmaatregelen voor beveiliging mogen dringende zorg niet in de weg zitten, dus engineers ontwerpen sterke authenticatie die ook op gedeelde klinische werkstations snel werkt.
+- Medische hulpmiddelen en legacy-systemen voor klinisch werk kunnen vaak niet worden gepatcht of beveiligingssoftware draaien, dus engineers ontwerpen netwerksegmentatie en compenserende beheersmaatregelen.
+- Ransomware is een grote dreiging voor de gezondheidszorg, dus engineers harden systemen, beschermen back-ups en beperken hoever een aanval zich kan verspreiden.
+- Klinische systemen worden vaak door derden geleverd en ondersteund, dus engineers beoordelen de beveiliging van leveranciers en beheersen hun toegang op afstand.
+- Wijzigingen in beheersmaatregelen voor beveiliging van klinische systemen lopen via wijzigingsbeheer en, waar nodig, toetsing van klinische veiligheid.
+levels:
+- title: Beveiligingsengineer
+  summary: Een beveiligingsengineer bouwt, configureert en onderhoudt beheersmaatregelen en instrumenten voor beveiliging en helpt teams zwakheden in beveiliging te herstellen.
+  responsibilities:
+  - Beheersmaatregelen voor beveiliging bouwen en onderhouden, zoals endpointbescherming, firewalls, beveiliging van e-mail en logging van beveiliging.
+  - Beheersmaatregelen voor identiteit en toegang configureren, inclusief multifactorauthenticatie en bevoorrechte toegang.
+  - Infrastructuur- en productteams helpen kwetsbaarheden te herstellen en systemen te harden volgens afgesproken normen.
+  - Netwerken segmenteren om medische hulpmiddelen en legacy-systemen te beschermen, samen met teams voor infrastructuur en klinische techniek.
+  - De beveiliging van nieuwe systemen en toegang op afstand van leveranciers beoordelen voordat zij live gaan.
+  - Deelnemen aan het bereikbaarheidsrooster om de reactie op beveiligingsincidenten te ondersteunen.
+  qualifications:
+  - Een bachelor in informatica of cyberbeveiliging, relevante certificeringen voor beveiliging, of gelijkwaardige ervaring.
+  - Ervaring met het bouwen of beheren van infrastructuur of instrumenten voor beveiliging.
+  job_evaluation_notes: Geestelijke inspanning weerspiegelt regelmatig langdurige concentratie op complex technisch werk en ondersteuning bij incidenten, ook tijdens bereikbaarheidsdienst.
+- title: Senior beveiligingsengineer
+  summary: Een senior beveiligingsengineer ontwerpt en leidt de levering van belangrijke beheersmaatregelen voor beveiliging en adviseert teams over veilig ontwerp.
+  responsibilities:
+  - Beheersmaatregelen voor beveiliging ontwerpen en hun levering leiden, zoals beheer van bevoorrechte toegang, beveiligingsmonitoring en bescherming van back-ups.
+  - Product- en infrastructuurteams adviseren over veilig ontwerp voor klinische diensten en diensten voor patiënten.
+  - Compenserende beheersmaatregelen ontwerpen voor medische hulpmiddelen en andere systemen die niet kunnen worden gepatcht.
+  - De beveiliging van leveranciers en hun producten, inclusief clouddiensten, beoordelen.
+  - De reactie op ernstige beveiligingsincidenten ondersteunen met technische deskundigheid en herstelplannen.
+  - Beveiligingsengineers coachen en goede praktijk delen over teams heen.
+  qualifications:
+  - Aanzienlijke ervaring met beveiligings-engineering, op een niveau gelijkwaardig aan een postdoctoraal diploma.
+  - Relevante certificeringen voor beveiliging op gevorderd niveau, of gelijkwaardige ervaring.
+- title: Lead beveiligingsengineer
+  summary: Een lead beveiligingsengineer bepaalt de technische richting van beveiligings-engineering en zorgt dat beheersmaatregelen in de hele organisatie samenwerken.
+  responsibilities:
+  - De technische richting en normen voor beheersmaatregelen voor beveiliging in de hele organisatie vaststellen.
+  - Het beveiligingsontwerp voor grote programma’s leiden, zoals verhuizingen naar cloudhosting of een nieuw elektronisch patiëntendossier.
+  - Zorgen dat beheersmaatregelen beschermen tegen ransomware en snel, veilig herstel van klinische systemen ondersteunen.
+  - Beveiliging afwegen tegen klinische bruikbaarheid, samen met klinische leiders over toegang en authenticatie.
+  - De manager cyberbeveiliging adviseren over technisch risico en investeringen.
+  - Beveiligingsengineers leiden en ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van beveiligings-engineering voor complexe diensten.

@@ -1,0 +1,68 @@
+summary: >
+  Personal inom informationsstyrning hjälper organisationen att hantera personuppgifter och hälsoinformation lagligt, säkert och etiskt. De ger team råd om dataskydd och sekretess, hanterar begäranden om informationsrättigheter, stödjer konsekvensbedömningar avseende dataskydd, hanterar dataintrång och samlar in det underlag som visar att organisationen uppfyller standarder för informationsstyrning.
+health_context:
+  - Dataskyddslagstiftningen ger hälsoinformation extra skydd, så kraven på laglig användning, säkerhet och transparens är höga.
+  - Digitala hälso- och vårdtjänster delar ofta data över många vårdorganisationer, så avtal om informationsdelning och dataflöden behöver noggrann granskning.
+  - Patienter och allmänheten har lagliga rättigheter att få tillgång till sina journaler och organisationens information, med strikta tidsfrister.
+  - Dataintrång som rör hälsoinformation kan orsaka verklig skada och oro, så incidenter behöver hanteras snabbt och noggrant.
+  - Nya användningar av data, såsom analys, forskning och AI, väcker frågor om samtycke, sekretess och allmänhetens förtroende.
+levels:
+  - title: Handläggare inom informationsstyrning
+    summary: Stödjer teamet för informationsstyrning med begäranden om informationsrättigheter, incidentloggning, utbildningsregister och insamling av underlag, enligt fastställda rutiner.
+    responsibilities:
+      - Logga, bekräfta och följa begäranden om informationsrättigheter och samla in information till svar.
+      - Logga dataintrång och tillbud och samla in fakta för granskning.
+      - Hålla register för informationsstyrning uppdaterade, såsom informationstillgångsregistret och dataflödeskartan.
+      - Samla underlag till den årliga självbedömningen av informationsstyrning.
+      - Följa upp personalens genomförande av utbildning i informationsstyrning.
+      - Besvara rutinfrågor om informationsstyrning från personal.
+    qualifications:
+      - Erfarenhet av administrativt arbete eller journalarbete, eller en grundläggande kvalifikation inom dataskydd eller motsvarande erfarenhet.
+    job_evaluation_notes: Känslomässig ansträngning speglar tät indirekt exponering för plågsamt innehåll i begäranden, journaler och rapporter om dataintrång.
+  - title: Senior handläggare inom informationsstyrning
+    summary: Hanterar en portfölj av begäranden om informationsrättigheter och incidenter och stödjer team med konsekvensbedömningar avseende dataskydd och informationsdelning.
+    responsibilities:
+      - Hantera begäranden om informationsrättigheter, inklusive maskning och tillämpning av undantag, inom lagens tidsfrister.
+      - Bedöma och utreda dataintrång och tillbud och följa upp åtgärder tills de är avslutade.
+      - Hjälpa projektteam att genomföra konsekvensbedömningar avseende dataskydd och beskriva dataflöden.
+      - Utkasta avtal om informationsdelning och integritetsmeddelanden för granskning.
+      - Hålla utbildning och genomgångar i informationsstyrning för personal.
+      - Genomföra revisioner av åtkomst och journalföring.
+    qualifications:
+      - En erkänd kvalifikation inom dataskydd eller informationsstyrning, eller motsvarande erfarenhet.
+  - title: Ledande inom informationsstyrning
+    summary: Ger en direktörsenhet eller ett program expertråd om informationsstyrning och leder konsekvensbedömningar avseende dataskydd och komplexa ärenden.
+    responsibilities:
+      - Ge produktteam och tjänster råd om rättslig grund, samtycke, sekretess och gallring.
+      - Granska konsekvensbedömningar avseende dataskydd för komplexa system och rekommendera kontroller.
+      - Hantera komplexa eller omstridda begäranden om informationsrättigheter och interna omprövningar.
+      - Utreda allvarliga dataintrång och rekommendera om tillsynsmyndigheter ska underrättas.
+      - Granska avtal om informationsdelning med partnerorganisationer.
+      - Handleda och coacha handläggare inom informationsstyrning.
+    qualifications:
+      - En erkänd yrkeskvalifikation inom dataskydd eller informationsstyrning, eller motsvarande erfarenhet.
+      - Erfarenhet av att ge råd om dataskydd i en hälso- eller vårdmiljö.
+  - title: Chef för informationsstyrning
+    summary: Leder tjänsten för informationsstyrning i det dagliga arbetet, inklusive dess team, ärendearbete, kvalitetssäkringsprogram och utbildning.
+    responsibilities:
+      - Leda teamet för informationsstyrning och dess ärenden och se till att lagens tidsfrister hålls.
+      - Planera och driva programmet för kvalitetssäkring av informationsstyrning och den årliga självbedömningen.
+      - Skriva och granska policyer och rutiner för informationsstyrning.
+      - Ge seniora chefer råd om informationsrisker och föra informationsriskregistret.
+      - Leda svaret på allvarliga incidenter, tillsammans med kollegor inom säkerhet, klinisk säkerhet och kommunikation.
+      - Utforma och överblicka utbildning i informationsstyrning för all personal.
+    qualifications:
+      - En erkänd yrkeskvalifikation inom dataskydd eller informationsstyrning, eller motsvarande erfarenhet.
+      - Betydande erfarenhet av informationsstyrning inom hälso- och sjukvården eller vården.
+  - title: Chef för informationsstyrning (högsta nivå)
+    summary: Leder informationsstyrningen i organisationen, fastställer dess policy och strategi och ger seniora ledare råd om informationsrisk och efterlevnad.
+    responsibilities:
+      - Fastställa strategin, policyerna och ramverket för informationsstyrning för organisationen.
+      - Leda tjänsterna för informationsstyrning och journalhantering och utveckla deras personal.
+      - Ge den verkställande ledaren för informationsrisk, styrelsen och dess kommittéer råd om informationsrisk och efterlevnad.
+      - Fatta slutgiltiga beslut i komplexa frågor om utlämnande, delning och underrättelse om dataintrång.
+      - Företräda organisationen hos tillsynsmyndigheter, revisorer och partnerorganisationer.
+      - Se till att nya digitala tjänster, dataanvändningar och AI utformas med integritet och transparens från början.
+    qualifications:
+      - En erkänd yrkeskvalifikation inom dataskydd eller informationsstyrning, eller motsvarande erfarenhet.
+      - Omfattande erfarenhet av att leda informationsstyrning inom hälso- och sjukvården eller vården.

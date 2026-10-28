@@ -1,0 +1,61 @@
+summary: >
+  Insinyur operasional aplikasi menjaga aplikasi organisasi tetap berjalan dalam penggunaan langsung, termasuk sistem klinis seperti rekam pasien elektronik serta sistem peresepan, laboratorium, dan pencitraan. Mereka memantau aplikasi, menjalankan pekerjaan terjadwal, mengelola pengguna dan akses, menerapkan rilis dan perbaikan, dan bekerja dengan pemasok untuk menyelesaikan gangguan. Pekerjaan mereka memungkinkan staf klinis dan korporat mengandalkan sistem ini setiap jam sepanjang hari.
+health_context:
+  - Aplikasi klinis berjalan 24 jam sehari, sehingga para insinyur ikut dalam jadwal siaga dan merencanakan pemeliharaan pada periode klinis yang paling tenang.
+  - Pekerjaan terjadwal dan antarmuka yang gagal dapat menunda hasil pemeriksaan, rujukan, atau surat pemulangan, sehingga para insinyur memantaunya dengan ketat dan mengeskalasikan dengan cepat.
+  - Henti terencana dan tak terencana memerlukan pengaturan kesinambungan bisnis, seperti salinan hanya-baca dan laporan henti, agar tenaga klinis dapat terus merawat pasien.
+  - Banyak aplikasi klinis dipasok dan di-hosting oleh pihak ketiga, sehingga para insinyur mengelola pemasok dan perubahan mereka dengan cermat.
+  - Perubahan pada aplikasi klinis mengikuti proses manajemen risiko klinis, dan sebagian aplikasi dapat diatur sebagai alat kesehatan.
+levels:
+  - title: Insinyur operasional aplikasi asosiat
+    responsibilities:
+      - Memantau aplikasi, antarmuka, dan pekerjaan terjadwal, dan melaporkan kegagalan kepada insinyur berpengalaman.
+      - Membuat dan mengubah akun pengguna dan akses dalam aplikasi, mengikuti aturan akses berbasis peran.
+      - Melakukan pemeriksaan rutin dan tugas pemeliharaan memakai runbook.
+      - Mencatat insiden dan perubahan secara akurat dalam perangkat manajemen layanan.
+      - Bekerja menuju magang TI atau kualifikasi yang setara.
+    qualifications:
+      - Terdaftar pada, atau sedang menempuh, magang TI atau yang setara.
+    job_evaluation_notes: Pengetahuan dinilai pada tingkat yang dibutuhkan pekerjaan setelah pelatihan cukup lengkap untuk melakukan pekerjaan.
+  - title: Insinyur operasional aplikasi
+    responsibilities:
+      - Memantau aplikasi klinis dan korporat serta antarmukanya, dan menindaklanjuti peringatan dan pekerjaan yang gagal sebelum memengaruhi perawatan pasien.
+      - Menjalankan dan memeriksa pekerjaan terjadwal, seperti pemuatan data semalam dan antrean antarmuka, dan menyelesaikan atau mengeskalasikan kegagalan.
+      - Mengelola pengguna, peran, dan akses aplikasi, termasuk mencabut akses staf yang keluar dan mendukung tinjauan akses.
+      - Menghasilkan dan menguji laporan henti dan keluaran kesinambungan bisnis lain untuk aplikasi klinis.
+      - Mencatat gangguan kepada pemasok dan melacaknya hingga selesai.
+      - Ikut dalam jadwal siaga, dengan bimbingan, untuk gangguan aplikasi di luar jam kerja.
+    qualifications:
+      - Kualifikasi di bidang TI, magang yang telah selesai, atau pengalaman yang setara.
+      - Pengalaman mendukung aplikasi bisnis atau klinis.
+  - title: Insinyur operasional aplikasi senior
+    responsibilities:
+      - Menerapkan rilis, tambalan, dan perubahan konfigurasi ke aplikasi langsung, mengikuti prosedur perubahan dan keselamatan klinis.
+      - Mengoordinasikan pekerjaan teknis untuk meluncurkan aplikasi baru dan peningkatan besar, termasuk rencana pengalihan dan pembatalan.
+      - Menyelidiki gangguan aplikasi yang kompleks bersama pemasok, tim infrastruktur, dan spesialis sistem klinis.
+      - Merencanakan jendela pemeliharaan bersama layanan klinis, dan memastikan prosedur henti siap.
+      - Menyediakan bukti untuk kasus keselamatan klinis, seperti catatan pengujian dan penerapan.
+      - Bertindak sebagai titik eskalasi pada jadwal siaga untuk gangguan di luar jam kerja.
+    qualifications:
+      - Pengalaman yang substansial dalam mendukung aplikasi langsung, pada tingkat yang setara dengan gelar sarjana.
+    job_evaluation_notes: Upaya mental mencerminkan konsentrasi berkepanjangan yang sering selama peluncuran, penerapan, dan insiden di luar jam kerja.
+  - title: Insinyur operasional aplikasi pimpinan
+    responsibilities:
+      - Menetapkan pendekatan operasional untuk sekelompok aplikasi, termasuk pemantauan, ketahanan, dan pengaturan dukungan.
+      - Menetapkan standar administrasi pengguna dan keamanan di seluruh aplikasi klinis, bekerja dengan tim keamanan.
+      - Melaporkan kinerja dan ketersediaan aplikasi kepada pimpinan operasional TI, dan menyepakati perubahan yang diperlukan.
+      - Memimpin tanggapan teknis atas insiden besar yang memengaruhi aplikasi klinis.
+      - Memastikan pengaturan kesinambungan bisnis dan pemulihan bencana untuk aplikasi klinis diuji.
+      - Memimpin dan mengembangkan insinyur operasional aplikasi.
+    qualifications:
+      - Pengalaman luas dalam menjalankan aplikasi langsung, termasuk sistem klinis atau sistem kritis lain.
+  - title: Insinyur operasional aplikasi utama
+    responsibilities:
+      - Memiliki strategi operasional aplikasi di seluruh aplikasi klinis dan korporat organisasi.
+      - Mengelola pemasok strategis aplikasi klinis, termasuk tingkat layanan, kinerja kontrak, dan perubahan pemasok.
+      - Menasihati pimpinan senior tentang risiko aplikasi, seperti perangkat lunak yang tidak didukung, titik kegagalan tunggal, dan ketahanan terhadap ransomware.
+      - Memastikan organisasi dapat terus merawat pasien dengan aman selama henti aplikasi yang berkepanjangan.
+      - Memimpin penyediaan sumber daya, pembelajaran, dan pengembangan untuk tim operasional aplikasi.
+    qualifications:
+      - Pengalaman luas dalam memimpin operasional aplikasi untuk organisasi besar.
+    job_evaluation_notes: UK GDaD PCF menyarankan Pita 8c untuk tingkat ini (G6). Acuan ini menempatkannya di Pita 8b, sejalan dengan peran utama di rumpun teknis lain, karena cakupannya satu bidang teknis dan bukan satu direktorat.

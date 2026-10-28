@@ -1,0 +1,40 @@
+summary: Mameneja wa usimamizi wa data huhakikisha data za afya na matunzo za taasisi zinasimamiwa vizuri, zinaaminika, na zinatumika kwa usalama na kihalali. Huanzisha na kuendesha mifumo, sera na viwango vya umiliki wa data, ubora, metadata na ushirikishaji wa data, na hufanya kazi na wamiliki wa data, wenzake wa usimamizi wa taarifa na viongozi wa kitabibu ili data zitumike kwa kujiamini kwa matunzo, mipango na utafiti.
+health_context:
+- Data za afya ni data binafsi nyeti sana, hivyo usimamizi wa data hufanya kazi kwa karibu na usimamizi wa taarifa, ulinzi wa data na wajibu wa usiri.
+- Data hushirikishwa na washirika wengi wa afya na matunzo kwa matunzo ya moja kwa moja, mipango na utafiti, na kila matumizi yanahitaji msingi halali ulio wazi, makubaliano na udhibiti.
+- Viwango vya data za kitabibu, kama SNOMED CT, ICD na HL7 FHIR, na fasili za data zilizokubaliwa ni kiini cha kufanya data ziwe thabiti katika mifumo na taasisi.
+- Ubora duni wa data unaweza kusababisha moja kwa moja madhara kwa wagonjwa, kama vile mizio iliyokosekana au ulinganishaji usio sahihi wa wagonjwa, pamoja na maamuzi yasiyo sahihi kuhusu huduma.
+- Wagonjwa na umma wanatarajia uwazi kuhusu jinsi data zao zinavyotumika, hivyo usimamizi hujumuisha uwazi na kuheshimu chaguzi za wagonjwa kuhusu matumizi ya pili.
+levels:
+- title: Meneja wa usimamizi wa data
+  responsibilities:
+  - Kuendesha mfumo wa usimamizi wa data wa taasisi, ikiwemo umiliki wa data, uangalizi na vikundi vya kufanya maamuzi.
+  - Kutunza katalogi ya data, faharasa ya biashara na viwango vya data, ikiwemo fasili zilizokubaliwa za kitabibu na za kiutendaji.
+  - Kufuatilia ubora wa data kwa seti kuu za data na kufanya kazi na wamiliki wa data kurekebisha visababishi.
+  - Kufanya kazi na wenzake wa usimamizi wa taarifa kuhusu makubaliano ya ushirikishaji wa data na tathmini za athari za ulinzi wa data kwa matumizi mapya ya data.
+  - Kurekodi na kusimamia hatari na masuala ya data, na kuyapeleka kwa mmiliki sahihi.
+  - Kuboresha uelewa wa data miongoni mwa wafanyakazi wanaounda na kutumia data za afya.
+  qualifications:
+  - Shahada au sifa ya kitaaluma katika data, usimamizi wa taarifa, au somo linalohusiana, au uzoefu unaolingana.
+  - Uzoefu wa usimamizi wa data au uongozi wa data katika taasisi tata.
+  job_evaluation_notes: UK GDaD PCF inapendekeza HEO hadi G7 kwa ngazi hii, ambayo inalingana na Daraja la 6. Marejeleo haya yanaiweka katika Daraja la 7 kwa sababu, katika taasisi ya huduma za afya, nafasi hii kwa kawaida husimamia data za siri za wagonjwa katika taasisi nzima na kuendeleza sera ya data inayoathiri huduma kadhaa.
+- title: Meneja kiongozi wa usimamizi wa data
+  responsibilities:
+  - Kuongoza usanifu na uendeshaji wa mifumo, sera na viwango vya usimamizi wa data katika taasisi nzima.
+  - Kuratibu wamiliki wa data na waangalizi kusimamia hatari za data, kuzikubali au kuzitatua, na kuziripoti kwa kamati za juu.
+  - Kuongoza kazi pana ya usimamizi wa data, kama vile data kuu za wagonjwa, wafanyakazi na maeneo, na data za marejeleo.
+  - Kukubaliana mipango ya usimamizi wa data kwa data zinazoshirikishwa na washirika wa afya na matunzo na watafiti.
+  - Kushauri programu jinsi mifumo mipya na matumizi mapya ya data yanavyotimiza viwango vya data na kanuni za usimamizi.
+  - Kusimamia moja kwa moja wafanyakazi wa usimamizi wa data.
+  qualifications:
+  - Uzoefu mpana wa kuongoza usimamizi wa data au uongozi wa data.
+- title: Mkuu wa usimamizi wa data
+  responsibilities:
+  - Kufanya kazi na mkuu wa data na mmiliki mtendaji wa hatari za taarifa kuweka mkakati wa usimamizi na matumizi ya data.
+  - Kuweka sera na viwango vya usimamizi wa data na kufuatilia jinsi taasisi inavyovifuata vizuri.
+  - Kuwajibika kwa kusimamia hatari za data za taasisi, na kuripoti kuzihusu kwa bodi.
+  - Kuiwakilisha taasisi kuhusu usimamizi wa data kwa washirika wa afya na matunzo, wadhibiti na vikundi vya wagonjwa.
+  - Kukuza uwazi kwa wagonjwa na umma kuhusu jinsi data zao zinavyotumika.
+  - Kuongoza na kuendeleza kitengo cha usimamizi wa data.
+  qualifications:
+  - Uzoefu mpana wa kuongoza usimamizi wa data katika taasisi.

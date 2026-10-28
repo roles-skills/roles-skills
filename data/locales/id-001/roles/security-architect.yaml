@@ -1,0 +1,39 @@
+summary: >
+  Arsitek keamanan merancang keamanan layanan kesehatan digital organisasi, agar informasi pasien tetap rahasia, akurat, dan tersedia ketika perawatan membutuhkannya. Mereka menetapkan pola dan pengendalian keamanan, menilai risiko keamanan desain dan pemasok baru, dan membantu tim membuat keputusan berbasis risiko yang menjaga layanan tetap aman dan mudah dipakai oleh tenaga klinis dan pasien.
+health_context:
+  - Organisasi kesehatan sering menjadi sasaran ransomware dan pencurian data, dan serangan dapat menghentikan layanan klinis, sehingga ketersediaan sama pentingnya dengan kerahasiaan.
+  - Pengendalian keamanan tidak boleh menghalangi perawatan mendesak, sehingga desain menyeimbangkan autentikasi yang kuat dengan akses cepat di lingkungan klinis.
+  - Alat kesehatan yang terhubung dan sistem klinis lama sering tidak dapat ditambal dengan cepat, sehingga arsitek merancang pengendalian kompensasi seperti segmentasi.
+  - Banyak staf, organisasi mitra, dan pemasok memerlukan akses ke rekam pasien, sehingga identitas, akses berbasis peran, dan audit menjadi pusat.
+  - Desain keamanan harus mendukung kewajiban tata kelola informasi dan standar keamanan yang dipublikasikan, seperti ISO/IEC 27001.
+levels:
+  - title: Arsitek keamanan
+    responsibilities:
+      - Merancang pengendalian keamanan untuk layanan dan sistem, termasuk identitas, enkripsi, pencatatan log, dan pelindungan jaringan.
+      - Menilai keamanan desain baru dan produk pemasok, serta mencatat risiko dan pengendalian yang direkomendasikan.
+      - Mengembangkan pola keamanan yang dapat dipakai ulang tim penyampaian, seperti untuk masuk pasien dan masuk tunggal staf.
+      - Menasihati tentang pengendalian kompensasi untuk alat kesehatan dan sistem klinis lama yang tidak mudah diperbarui.
+      - Bekerja dengan rekan tata kelola informasi dan keselamatan klinis agar risiko keamanan, privasi, dan keselamatan dinilai bersama.
+      - Membimbing insinyur keamanan dan arsitek lain dalam desain yang aman.
+    qualifications:
+      - Pengalaman yang substansial dalam arsitektur keamanan atau rekayasa keamanan, pada tingkat yang setara dengan gelar magister.
+      - Kualifikasi keamanan yang diakui atau pengalaman yang setara.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 6); iklan sektor kesehatan menempatkan peran ini di Pita 8a. Analisis dan kebebasan bertindak dinilai di atas profil Pita 7 karena pekerjaan ini merancang keamanan untuk sistem klinis kritis dengan sedikit pengawasan.
+  - title: Arsitek keamanan pimpinan
+    responsibilities:
+      - Memimpin arsitektur keamanan untuk beberapa proyek berisiko tinggi atau bidang besar, seperti sistem klinis atau hosting komputasi awan.
+      - Menetapkan prinsip dan standar keamanan untuk desain di bidang Anda dan menjaminnya di otoritas desain.
+      - Menasihati pemilik risiko senior tentang risiko keamanan dan opsi untuk mengelolanya.
+      - Merancang keamanan untuk data yang dibagikan dengan organisasi mitra dan pemasok.
+      - Memimpin dan mengembangkan arsitek keamanan.
+    qualifications:
+      - Pengalaman luas dalam arsitektur keamanan untuk layanan yang kompleks.
+  - title: Arsitek keamanan utama
+    responsibilities:
+      - Menetapkan visi, prinsip, dan strategi arsitektur keamanan organisasi.
+      - Menasihati tim eksekutif dan dewan tentang risiko keamanan siber terhadap perawatan pasien dan layanan.
+      - Memastikan ketahanan siber, termasuk pemulihan dari serangan besar, dirancang ke dalam layanan klinis yang kritis.
+      - Mewakili organisasi dalam komunitas keamanan siber dan standar lintas organisasi.
+      - Memimpin praktik arsitektur keamanan dan mengembangkan orang-orangnya.
+    qualifications:
+      - Pengalaman luas dalam memimpin arsitektur keamanan lintas organisasi.

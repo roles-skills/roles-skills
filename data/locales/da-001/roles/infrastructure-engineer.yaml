@@ -1,0 +1,60 @@
+summary: Infrastrukturingeniører designer, bygger, driver og supporterer de netværk, servere, lagring, cloudplatforme og den hosting, som organisationens digitale services er afhængige af. De holder infrastrukturen tilgængelig, sikker og genopretbar og arbejder sammen med leverandører og arkitekter om at ændre den sikkert. I sundhedsvæsenet kan ét infrastruktursvigt standse kliniske systemer på tværs af sygehuse og kommunale services på én gang.
+health_context:
+- Kliniske systemer kræver meget høj tilgængelighed, så infrastrukturen designes til robusthed, og ændringer planlægges omkring den kliniske aktivitet.
+- Ingeniørerne deltager i vagtordninger, fordi infrastrukturfejl om natten eller i weekenden kan standse patientplejen.
+- Netværk forbinder medicinsk udstyr, såsom infusionspumper, patientmonitorer og billeddiagnostisk udstyr, som kræver netværkssegmentering og omhyggelig ændringsstyring efter IEC 80001-1.
+- Sundhedsvæsenet er et hyppigt mål for ransomware, så sikkerhedskopier skal være beskyttede, afprøvede og kunne genskabes inden for aftalte genopretningstider.
+- Infrastrukturen blander ofte gammel og ny teknologi, herunder ældre kliniske systemer, der ikke let kan opdateres, så ingeniørerne indfører kompenserende kontroller.
+levels:
+- title: Associeret infrastrukturingeniør
+  responsibilities:
+  - Støtte infrastrukturingeniører med rutineopgaver, såsom serveropsætning, kontrol af sikkerhedskopier og netværksændringer.
+  - Overvåge infrastrukturen og indberette advarsler og fejl til det rette team.
+  - Følge procedurer for ændringer, sikkerhed og informationsstyring i alt arbejde.
+  - Registrere konfigurations- og aktivoplysninger nøjagtigt.
+  - Arbejde hen imod en lærlingeuddannelse i infrastruktur eller tilsvarende uddannelse.
+  qualifications:
+  - Indskrevet på eller i gang med en lærlingeuddannelse i infrastruktur eller netværk eller tilsvarende.
+  job_evaluation_notes: Viden scores på det niveau, jobbet kræver, når oplæringen er så vidt fremskreden, at arbejdet kan udføres.
+- title: Infrastrukturingeniør
+  responsibilities:
+  - Bygge, konfigurere og vedligeholde de servere, den lagring, de netværk og de cloudtjenester, der hoster kliniske og administrative systemer.
+  - Opdatere infrastrukturen hurtigt og afveje sikkerhedsrisiko mod behovet for at holde kliniske systemer tilgængelige.
+  - Køre og teste sikkerhedskopier og genskabelser, også for kritiske kliniske systemer.
+  - Støtte segmenterede netværk til medicinsk udstyr og andet klinisk udstyr i samarbejde med teams i klinisk ingeniørarbejde.
+  - Undersøge og rette infrastrukturfejl, også som en del af vagtordningen.
+  - Automatisere rutineopgaver ved hjælp af scripts og infrastruktur som kode.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller et beslægtet fag, relevante tekniske certificeringer eller tilsvarende erfaring.
+  - Erfaring med at supportere produktionsinfrastruktur.
+  job_evaluation_notes: Mental anstrengelse afspejler hyppig langvarig koncentration om uforudsigelige fejl, herunder vagtarbejde uden for arbejdstid.
+- title: Senior infrastrukturingeniør
+  responsibilities:
+  - Designe og bygge infrastrukturløsninger ud fra arkitekters design med den robusthed, som kliniske services har brug for.
+  - Planlægge og lede større infrastrukturændringer, såsom flytninger af datacentre, fornyelse af netværk og cloudmigreringer, omkring den kliniske aktivitet.
+  - Designe og teste katastrofegenopretning og genopretning efter ransomware for kritiske kliniske systemer.
+  - Lede den tekniske indsats ved infrastrukturhændelser og drive rettelser af deres årsager.
+  - Styre kompenserende kontroller for ældre systemer og medicinsk udstyr, der ikke kan opdateres.
+  - Lede og coache infrastrukturingeniører.
+  qualifications:
+  - Betydelig erfaring med at designe og drive produktionsinfrastruktur på et niveau svarende til en diplomuddannelse.
+  job_evaluation_notes: Mental anstrengelse afspejler hyppig langvarig koncentration under hændelser og komplekse ændringer, også uden for arbejdstid.
+- title: Ledende infrastrukturingeniør
+  responsibilities:
+  - Lede infrastrukturen for en større platform eller en gruppe af services og fastlægge dens tekniske retning.
+  - Styre tredjepartsleverandører af infrastruktur og holde dem op på serviceniveauer for tilgængelighed og genopretning.
+  - Føre tilsyn med infrastrukturprogrammer, såsom fornyelse af netværk eller overgang til cloud-hosting.
+  - Sikre, at infrastrukturen opfylder standarder for sikkerhed, informationsstyring og netværk til medicinsk udstyr.
+  - Lede infrastrukturteams og udvikle deres kompetencer.
+  qualifications:
+  - Omfattende erfaring med at lede infrastrukturingeniørarbejde for komplekse services med høj tilgængelighed.
+  job_evaluation_notes: UK GDaD PCF foreslår lønramme 8b for både ledende og principal infrastrukturingeniører. Denne reference placerer det ledende niveau i lønramme 8a, så de to niveauer ligger i forskellige lønrammer i overensstemmelse med ledende og principal-roller i andre tekniske familier.
+- title: Principal infrastrukturingeniør
+  responsibilities:
+  - Udvikle infrastrukturstrategien og køreplanerne, så investeringer leverer robust, sikker og bæredygtig hosting til kliniske services.
+  - Eje de driftsmæssige relationer til strategiske leverandører af infrastruktur og netværk.
+  - Rådgive den øverste ledelse om infrastrukturrisiko, herunder teknologi der er udløbet, enkeltstående fejlpunkter og cyberrobusthed.
+  - Fastsætte mål for genopretningstid og genopretningspunkt for kliniske systemer sammen med serviceejere og sikre, at infrastrukturen kan opfylde dem.
+  - Lede faget infrastrukturingeniørarbejde i hele organisationen og udvikle dets kompetencer.
+  qualifications:
+  - Omfattende erfaring med at lede infrastrukturingeniørarbejde på tværs af flere teams eller organisationer.

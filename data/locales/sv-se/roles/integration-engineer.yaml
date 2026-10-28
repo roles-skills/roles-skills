@@ -1,0 +1,52 @@
+summary: >
+  Integrationsingenjörer kopplar samman organisationens kliniska system och verksamhetssystem så att hälso- och vårdinformation flödar tryggt dit den behövs. De utformar, bygger, testar och stöder gränssnitt, API:er och meddelandeflöden med standarder såsom HL7 FHIR och HL7 version 2, mappar data och kliniska koder mellan system och håller integrationer igång i drift.
+health_context:
+  - Ett förlorat, försenat, duplicerat eller felmatchat meddelande, såsom ett provsvar eller en remiss, kan direkt leda till skada, så integrationsarbete följer processen för klinisk riskhantering.
+  - Integrationer bär stora mängder konfidentiell hälsoinformation mellan organisationer, så varje flöde behöver en rättslig grund, säker transport och granskningsspår.
+  - Hälso- och sjukvårdssystem använder många standarder och versioner, från HL7 version 2-meddelanden till HL7 FHIR-API:er och IHE-profiler, ofta med lokala variationer.
+  - Klinisk betydelse måste överleva resan, så ingenjörer mappar kliniska terminologier såsom SNOMED CT korrekt och matchar patienter pålitligt.
+  - Många integrationer stöder vården dygnet runt, så de behöver övervakning, larm och tydliga vägar för att lösa misslyckade meddelanden.
+levels:
+  - title: Junior integrationsingenjör
+    summary: En junior integrationsingenjör bygger, testar och stöder integrationer mellan hälso- och vårdsystem utifrån specifikationer och med vägledning från mer erfarna ingenjörer.
+    responsibilities:
+      - Bygga och ändra meddelandemappningar, transformationer och API-anrop utifrån överenskomna specifikationer.
+      - Testa integrationer mot specifikationer och exempelmeddelanden, inklusive fel- och gränsfall.
+      - Övervaka meddelandeflöden, utreda misslyckade eller avvisade meddelanden och lösa eller eskalera dem.
+      - Hantera hälsodata säkert enligt reglerna för informationsstyrning för livedata och testdata.
+      - Registrera ändringar och testresultat så att de kan användas som evidens för klinisk säkerhet.
+    qualifications:
+      - En examen i datavetenskap eller ett närliggande ämne, en genomförd lärlingsutbildning eller motsvarande erfarenhet.
+  - title: Integrationsingenjör
+    summary: En integrationsingenjör utformar, bygger och stöder självständigt integrationer mellan hälso- och vårdsystem och hjälper till att definiera hur system ska utbyta data.
+    responsibilities:
+      - Utforma och bygga integrationer, API:er och meddelandeflöden med HL7 FHIR, HL7 version 2 och meddelandemönster.
+      - Analysera käll- och målsystem och skriva gränssnittsspecifikationer och datamappningar, inklusive kliniska koder.
+      - Bygga patientmatchning, validering och felhantering så att information når rätt journal.
+      - Delta i riskworkshoppar och bygga in säkerhetskontroller i integrationer, såsom larm för misslyckade eller försenade meddelanden.
+      - Arbeta med leverantörer och partnerorganisationer för att testa och driftsätta nya kopplingar.
+      - Utreda och åtgärda problem i integrationer i drift och handleda juniora integrationsingenjörer.
+    qualifications:
+      - En examen i datavetenskap eller ett närliggande ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av att bygga och stödja integrationer mellan produktionssystem.
+  - title: Senior integrationsingenjör
+    summary: En senior integrationsingenjör leder utformningen och leveransen av komplexa integrationer över många system och organisationer och fastställer integrationsstandarder för sitt område.
+    responsibilities:
+      - Leda den tekniska utformningen av komplexa integrationer, såsom delade vårdjournaler, resultat och remisser över organisationer.
+      - Skriva och underhålla FHIR-profiler, implementeringsguider och gränssnittsstandarder för organisationen.
+      - Utforma integrationer så att de är säkra, motståndskraftiga och observerbara, med tydliga vägar för att lösa fel.
+      - Arbeta med kliniska säkerhetsansvariga för att identifiera integrationsfaror och säkerställa att kontroller utformas in och testas.
+      - Se till att varje dataflöde har en överenskommen rättslig grund och arrangemang för datadelning, tillsammans med kollegor inom informationsstyrning.
+      - Coacha och utveckla integrationsingenjörer i teamet.
+    qualifications:
+      - Betydande erfarenhet av att utforma och stödja integrationer inom hälso- och sjukvården eller andra komplexa integrationer, på en nivå motsvarande en masterexamen.
+  - title: Ledande integrationsingenjör
+    summary: En ledande integrationsingenjör leder organisationens integrationsutveckling, fastställer dess tekniska riktning och standarder och kvalitetssäkrar kritiska integrationer över många system.
+    responsibilities:
+      - Leda integrationsutvecklingen i hela organisationen och sätta riktning, mönster och standarder.
+      - Kvalitetssäkra utformningen av kritiska integrationer, såsom sådana som bär resultat, läkemedel eller larm.
+      - Forma färdplanen för integrationsplattformen tillsammans med arkitekter, produktchefer och leverantörer.
+      - Företräda organisationen i arbete med interoperabilitet och standarder över organisationer.
+      - Ha linjeansvar för eller leda integrationsingenjörer och bygga praktikgemenskapen för integration.
+    qualifications:
+      - Omfattande erfarenhet av att leda integrationsutveckling för komplexa hälso- och vårdsystem.

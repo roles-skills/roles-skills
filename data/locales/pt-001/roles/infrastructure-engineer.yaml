@@ -1,0 +1,60 @@
+summary: Os profissionais de engenharia de infraestrutura projetam, constroem, operam e dão suporte às redes, aos servidores, ao armazenamento, às plataformas de nuvem e à hospedagem dos quais dependem os serviços digitais da organização. Mantêm essa infraestrutura disponível, segura e recuperável e trabalham com fornecedores e arquitetos para alterá-la com segurança. Na saúde, uma única falha de infraestrutura pode interromper de uma só vez os sistemas clínicos de hospitais e de serviços na comunidade.
+health_context:
+- Os sistemas clínicos precisam de altíssima disponibilidade, por isso a infraestrutura é projetada para a resiliência e as mudanças são planejadas em torno da atividade clínica.
+- As pessoas engenheiras participam de escalas de plantão, porque falhas de infraestrutura à noite ou nos fins de semana podem interromper o cuidado dos pacientes.
+- As redes conectam dispositivos médicos, como bombas de infusão, monitores de pacientes e equipamentos de imagem, que exigem segmentação de rede e mudanças cuidadosas conforme a IEC 80001-1.
+- A saúde é um alvo frequente de ransomware, por isso os backups devem ser protegidos, testados e restauráveis dentro dos tempos de recuperação acordados.
+- A infraestrutura costuma misturar tecnologia antiga e nova, incluindo sistemas clínicos legados que não podem ser corrigidos com facilidade, por isso as pessoas engenheiras implantam controles compensatórios.
+levels:
+- title: Profissional de engenharia de infraestrutura associado
+  responsibilities:
+  - Apoiar profissionais de engenharia de infraestrutura em tarefas rotineiras, como construção de servidores, verificações de backup e mudanças de rede.
+  - Monitorar a infraestrutura e levar alertas e falhas à equipe certa.
+  - Seguir os procedimentos de mudança, de segurança e de governança da informação em todo o trabalho.
+  - Registrar com exatidão os detalhes de configuração e de ativos.
+  - Trabalhar rumo a uma aprendizagem profissional em infraestrutura ou a uma qualificação equivalente.
+  qualifications:
+  - Matriculado em uma aprendizagem profissional em infraestrutura ou redes, ou equivalente, ou trabalhando para isso.
+  job_evaluation_notes: Os conhecimentos são pontuados no nível que a função exige depois que o treinamento é suficiente para realizar o trabalho.
+- title: Profissional de engenharia de infraestrutura
+  responsibilities:
+  - Construir, configurar e manter os servidores, o armazenamento, as redes e os serviços de nuvem que hospedam sistemas clínicos e corporativos.
+  - Aplicar correções na infraestrutura sem demora, equilibrando o risco de segurança com a necessidade de manter os sistemas clínicos disponíveis.
+  - Executar e testar backups e restaurações, inclusive de sistemas clínicos críticos.
+  - Apoiar redes segmentadas para dispositivos médicos e outros equipamentos clínicos, trabalhando com as equipes de engenharia clínica.
+  - Investigar e corrigir falhas de infraestrutura, inclusive na escala de plantão.
+  - Automatizar tarefas rotineiras usando scripts e infraestrutura como código.
+  qualifications:
+  - Graduação em computação ou em área afim, certificações técnicas pertinentes ou experiência equivalente.
+  - Experiência no suporte a infraestrutura em produção.
+  job_evaluation_notes: O esforço mental reflete a concentração prolongada e frequente em falhas imprevisíveis, incluindo o trabalho de plantão fora do horário comercial.
+- title: Profissional de engenharia de infraestrutura sênior
+  responsibilities:
+  - Projetar e construir soluções de infraestrutura a partir dos projetos de arquitetos, com a resiliência de que os serviços clínicos precisam.
+  - Planejar e liderar grandes mudanças de infraestrutura, como mudanças de data center, renovações de rede e migrações para a nuvem, em torno da atividade clínica.
+  - Projetar e testar a recuperação de desastres e a recuperação de ransomware de sistemas clínicos críticos.
+  - Liderar a resposta técnica a incidentes de infraestrutura e conduzir as correções de suas causas.
+  - Gerir os controles compensatórios de sistemas legados e dispositivos médicos que não podem ser corrigidos.
+  - Liderar e orientar profissionais de engenharia de infraestrutura.
+  qualifications:
+  - Experiência substancial no projeto e na operação de infraestrutura em produção, em nível equivalente ao de pós-graduação lato sensu.
+  job_evaluation_notes: O esforço mental reflete a concentração prolongada e frequente durante incidentes e mudanças complexas, inclusive fora do horário comercial.
+- title: Profissional de engenharia de infraestrutura líder
+  responsibilities:
+  - Liderar a infraestrutura de uma grande plataforma ou de um grupo de serviços e definir sua direção técnica.
+  - Gerir fornecedores terceiros de infraestrutura e exigir deles os níveis de serviço de disponibilidade e de recuperação.
+  - Supervisionar programas de infraestrutura, como a renovação de redes ou a migração para a hospedagem em nuvem.
+  - Garantir que a infraestrutura cumpra os padrões de segurança, de governança da informação e de rede para dispositivos médicos.
+  - Liderar as equipes de infraestrutura e desenvolver suas competências.
+  qualifications:
+  - Ampla experiência na liderança da engenharia de infraestrutura de serviços complexos e de alta disponibilidade.
+  job_evaluation_notes: O UK GDaD PCF sugere a Faixa 8b tanto para o líder quanto para o principal de engenharia de infraestrutura. Esta referência coloca o líder na Faixa 8a, para que os dois níveis fiquem em faixas diferentes, em linha com as funções de líder e de principal de outras famílias técnicas.
+- title: Profissional de engenharia de infraestrutura principal
+  responsibilities:
+  - Desenvolver a estratégia e os roteiros de infraestrutura, para que o investimento resulte em uma hospedagem resiliente, segura e sustentável para os serviços clínicos.
+  - Ser responsável pelas relações operacionais com fornecedores estratégicos de infraestrutura e de redes.
+  - Aconselhar a liderança sênior sobre o risco de infraestrutura, incluindo tecnologia em fim de vida, pontos únicos de falha e resiliência cibernética.
+  - Definir com os responsáveis pelos serviços os objetivos de tempo e de ponto de recuperação dos sistemas clínicos e garantir que a infraestrutura consiga cumpri-los.
+  - Liderar a profissão de engenharia de infraestrutura em toda a organização e desenvolver sua capacidade.
+  qualifications:
+  - Ampla experiência na liderança da engenharia de infraestrutura em várias equipes ou organizações.

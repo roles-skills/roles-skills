@@ -1,0 +1,43 @@
+summary: Các lãnh đạo pháp chế cấp cao bảo đảm tổ chức hành động hợp pháp và quản lý tốt rủi ro pháp lý của mình. Họ dẫn dắt nhóm pháp chế nội bộ, quản lý các cố vấn pháp lý bên ngoài, và tư vấn cho hội đồng và ban điều hành về các vấn đề pháp lý quan trọng nhất của tổ chức. Trong một tổ chức chăm sóc sức khỏe số, điều này bao gồm cơ sở pháp lý để sử dụng dữ liệu y tế, các hợp đồng công nghệ và dữ liệu lớn, sở hữu trí tuệ trong phần mềm, và các nghĩa vụ theo luật định của tổ chức.
+health_context:
+- Tổ chức là một cơ quan công hoặc làm việc với các cơ quan công, nên các quyết định của tổ chức có thể bị phản đối, và tổ chức phải hành động trong phạm vi quyền hạn của mình.
+- Việc sử dụng dữ liệu y tế và chăm sóc ở quy mô lớn, kể cả cho AI và nghiên cứu, mang rủi ro pháp lý và danh tiếng cao.
+- Các hợp đồng công nghệ lớn dài hạn, có giá trị và khó thoát, nên các điều khoản pháp lý của chúng định hình tổ chức trong nhiều năm.
+- Các lãnh đạo pháp chế làm việc chặt chẽ với hội đồng, cán bộ bảo vệ dữ liệu, an toàn lâm sàng và các đồng nghiệp quản trị thông tin.
+levels:
+- title: Phó trưởng phòng dịch vụ pháp chế
+  summary: Phó trưởng phòng dịch vụ pháp chế dẫn dắt một mảng lớn của chức năng pháp chế, như luật thương mại, công nghệ và dữ liệu, và thay mặt trưởng phòng dịch vụ pháp chế khi vắng mặt.
+  responsibilities:
+  - Dẫn dắt một mảng công việc pháp lý lớn, như luật thương mại, công nghệ và dữ liệu, hoặc tranh chấp và lao động.
+  - Tư vấn cho các giám đốc về các vấn đề rủi ro cao, kể cả các gói mua sắm và chương trình dữ liệu lớn.
+  - Quản lý danh sách các luật sư bên ngoài và ngân sách cho tư vấn pháp lý bên ngoài.
+  - Đề ra tiêu chuẩn, mẫu và đào tạo pháp lý cho tổ chức.
+  - Dẫn dắt và phát triển nhiều nhóm hoặc chuyên gia pháp chế.
+  - Thay mặt trưởng phòng dịch vụ pháp chế khi vắng mặt.
+  qualifications:
+  - Là luật sư đủ điều kiện hành nghề, có kinh nghiệm sâu rộng sau khi có bằng cấp, kể cả dẫn dắt một nhóm pháp chế.
+  job_evaluation_notes: Kiến thức ở mức 8 cho kiến thức chuyên gia trên nhiều lĩnh vực luật. Nguồn lực thông tin ở mức 5 chứ không phải 6, vì công việc không quản lý các hệ thống thông tin toàn tổ chức.
+- title: Trưởng phòng dịch vụ pháp chế
+  summary: Trưởng phòng dịch vụ pháp chế dẫn dắt chức năng pháp chế của tổ chức, đề ra cách tiếp cận rủi ro pháp lý và tư vấn cho ban điều hành và hội đồng.
+  responsibilities:
+  - Dẫn dắt chức năng pháp chế nội bộ và việc sử dụng các luật sư bên ngoài.
+  - Tư vấn cho ban điều hành và hội đồng về rủi ro pháp lý, nghĩa vụ theo luật định và các quyết định lớn.
+  - Đề ra khẩu vị rủi ro pháp lý và lập trường của tổ chức về các vấn đề then chốt, như sử dụng dữ liệu và ký kết hợp đồng.
+  - Dẫn dắt công việc pháp lý về các vấn đề quan trọng nhất, như tranh chấp lớn, điều tra công và quan hệ đối tác.
+  - Nắm giữ ngân sách cho các dịch vụ pháp chế và chứng minh giá trị đồng tiền.
+  - Dẫn dắt và phát triển nhóm pháp chế và vận hành pháp chế.
+  qualifications:
+  - Là luật sư đủ điều kiện hành nghề, có kinh nghiệm cấp cao sâu rộng trong việc dẫn dắt các dịch vụ pháp chế.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 4 vì công việc nắm giữ ngân sách dịch vụ pháp chế, không phải ngân sách cho nhiều dịch vụ.
+- title: Tổng cố vấn pháp lý
+  summary: Tổng cố vấn pháp lý là luật sư cấp cao nhất của tổ chức, có trách nhiệm chung của tổ chức về dịch vụ pháp chế và rủi ro pháp lý, và thường cũng dẫn dắt quản trị doanh nghiệp với tư cách thư ký hội đồng.
+  responsibilities:
+  - Nắm trách nhiệm chung của tổ chức về các vấn đề pháp lý và rủi ro pháp lý của tổ chức.
+  - Tư vấn cho hội đồng và chủ tịch về quyền hạn, nghĩa vụ và quản trị của tổ chức.
+  - Bảo đảm các chiến lược, quan hệ đối tác và chương trình dữ liệu lớn là hợp pháp.
+  - Dẫn dắt việc ứng phó với các mối đe dọa pháp lý nghiêm trọng nhất, như xem xét tư pháp và hành động của cơ quan quản lý.
+  - Dẫn dắt các dịch vụ pháp chế, và thường cả quản trị doanh nghiệp và ban thư ký hội đồng.
+  - Đại diện tổ chức với cơ quan quản lý, đối tác và các cơ quan chính phủ.
+  qualifications:
+  - Là luật sư đủ điều kiện hành nghề, có kinh nghiệm sâu rộng ở cấp điều hành hoặc hội đồng.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 4 vì công việc nắm giữ ngân sách cho các dịch vụ pháp chế và quản trị, không phải tài chính của tổ chức.

@@ -1,0 +1,60 @@
+summary: Innviðaverkfræðingar hanna, smíða, reka og styðja netin, netþjónana, geymsluna, skýjavettvangana og hýsinguna sem stafræn þjónusta stofnunarinnar byggir á. Þeir halda þessum innviðum aðgengilegum, öruggum og endurheimtanlegum og vinna með birgjum og arkitektum að því að breyta þeim á öruggan hátt. Í heilbrigðisþjónustu getur ein innviðabilun stöðvað klínísk kerfi á sjúkrahúsum og í samfélagsþjónustu samtímis.
+health_context:
+- Klínísk kerfi þurfa mjög mikið aðgengi, svo innviðir eru hannaðir fyrir seiglu og breytingar eru skipulagðar í kringum klíníska starfsemi.
+- Verkfræðingar taka þátt í bakvaktakerfum, því innviðabilanir að nóttu eða um helgar geta stöðvað umönnun sjúklinga.
+- Net tengja lækningatæki, svo sem innrennslisdælur, sjúklingavöktunartæki og myndgreiningarbúnað, sem krefjast netskiptingar og vandaðra breytinga samkvæmt IEC 80001-1.
+- Heilbrigðisþjónusta er algengt skotmark gíslatökuhugbúnaðar, svo afrit verða að vera vernduð, prófuð og endurheimtanleg innan samþykktra endurheimtartíma.
+- Innviðir blanda oft saman gamalli og nýrri tækni, þar á meðal eldri klínískum kerfum sem ekki er auðvelt að uppfæra, svo verkfræðingar setja upp bótastýringar.
+levels:
+- title: Aðstoðarinnviðaverkfræðingur
+  responsibilities:
+  - Styðja innviðaverkfræðinga við hversdagsleg verk, svo sem uppsetningu netþjóna, afritaathuganir og netbreytingar.
+  - Vakta innviði og tilkynna viðvaranir og bilanir til réttra teyma.
+  - Fylgja verklagi um breytingar, öryggi og upplýsingastjórnun í allri vinnu.
+  - Skrá stillingar og eignaupplýsingar nákvæmlega.
+  - Stefna að iðnnámi í innviðum eða sambærilegu námi.
+  qualifications:
+  - Skráður í, eða stefnir á, iðnnám í innviðum eða netkerfum, eða sambærilegt.
+  job_evaluation_notes: Þekking er metin á því stigi sem starfið krefst þegar þjálfun er orðin nægileg til að vinna verkið.
+- title: Innviðaverkfræðingur
+  responsibilities:
+  - Smíða, stilla og viðhalda netþjónum, geymslu, netum og skýjaþjónustu sem hýsa klínísk kerfi og rekstrarkerfi.
+  - Uppfæra innviði tafarlaust og vega öryggisáhættu á móti þörfinni á að halda klínískum kerfum aðgengilegum.
+  - Keyra og prófa afrit og endurheimt, þar á meðal fyrir mikilvæg klínísk kerfi.
+  - Styðja skipt net fyrir lækningatæki og annan klínískan búnað, í samstarfi við klínísk verkfræðiteymi.
+  - Rannsaka og laga innviðabilanir, þar á meðal sem hluta af bakvaktakerfinu.
+  - Sjálfvirknivæða hversdagsleg verk með forskriftum og innviðum sem kóða.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða skyldri grein, viðeigandi tæknivottanir eða sambærileg reynsla.
+  - Reynsla af stuðningi við innviði í rekstri.
+  job_evaluation_notes: Andlegt erfiði endurspeglar tíða langvarandi einbeitingu að ófyrirsjáanlegum bilunum, þar á meðal bakvaktavinnu utan vinnutíma.
+- title: Eldri innviðaverkfræðingur
+  responsibilities:
+  - Hanna og smíða innviðalausnir út frá hönnun arkitekta, með þeirri seiglu sem klínísk þjónusta þarf.
+  - Skipuleggja og stýra stórum innviðabreytingum, svo sem gagnaversflutningum, netendurnýjun og skýjaflutningum, í kringum klíníska starfsemi.
+  - Hanna og prófa endurheimt eftir hamfarir og endurheimt eftir gíslatökuhugbúnað fyrir mikilvæg klínísk kerfi.
+  - Stýra tæknilegum viðbrögðum við innviðaatvikum og knýja fram lagfæringar á orsökum þeirra.
+  - Stýra bótastýringum fyrir eldri kerfi og lækningatæki sem ekki er hægt að uppfæra.
+  - Stýra og leiðbeina innviðaverkfræðingum.
+  qualifications:
+  - Mikil reynsla af hönnun og rekstri innviða í rekstri, á stigi sem jafngildir framhaldsdiplómu.
+  job_evaluation_notes: Andlegt erfiði endurspeglar tíða langvarandi einbeitingu við atvik og flóknar breytingar, þar á meðal utan vinnutíma.
+- title: Leiðandi innviðaverkfræðingur
+  responsibilities:
+  - Stýra innviðum fyrir stóran vettvang eða hóp þjónustu og móta tæknilega stefnu þeirra.
+  - Stýra innviðabirgjum þriðju aðila og halda þeim við þjónustustig fyrir aðgengi og endurheimt.
+  - Hafa umsjón með innviðaáætlunum, svo sem netendurnýjun eða flutningi yfir í skýjahýsingu.
+  - Tryggja að innviðir uppfylli staðla um öryggi, upplýsingastjórnun og net lækningatækja.
+  - Stýra innviðateymum og þróa færni þeirra.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í innviðaverkfræði fyrir flókna þjónustu sem krefst mikils aðgengis.
+  job_evaluation_notes: UK GDaD PCF leggur til launaflokk 8b fyrir bæði leiðandi og aðal innviðaverkfræðinga. Þessi viðmiðun setur leiðandi í launaflokk 8a, svo að stigin tvö séu í ólíkum launaflokkum, í samræmi við leiðandi og aðalhlutverk í öðrum tæknilegum fjölskyldum.
+- title: Aðal innviðaverkfræðingur
+  responsibilities:
+  - Þróa innviðastefnu og vegvísa, svo að fjárfesting skili seigri, öruggri og sjálfbærri hýsingu fyrir klíníska þjónustu.
+  - Bera ábyrgð á rekstrarsamskiptum við lykilbirgja innviða og neta.
+  - Ráðleggja æðstu stjórnendum um innviðaáhættu, þar á meðal tækni sem nær lokum líftíma, einstaka bilunarpunkta og netseiglu.
+  - Setja endurheimtartíma- og endurheimtarpunktsmarkmið fyrir klínísk kerfi með þjónustueigendum og tryggja að innviðir geti staðið undir þeim.
+  - Stýra innviðaverkfræði sem fagstétt þvert á stofnunina og þróa getu hennar.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í innviðaverkfræði þvert á mörg teymi eða stofnanir.

@@ -1,0 +1,60 @@
+summary: Wasanifu wa suluhisho husanifu jinsi huduma mpya au iliyobadilishwa itakavyofanya kazi kutoka mwanzo hadi mwisho, kuanzia mahitaji ya watumiaji na mtiririko wa kazi za kitabibu hadi programu, data, miunganisho, uhifadhi na usalama. Huhakikisha kila suluhisho linalingana na usanifu wa taasisi, linatimiza mahitaji yake ya usalama, faragha na ushirikiano wa mifumo, na linaweza kujengwa, kuendeshwa na kusaidiwa kwa gharama nafuu.
+health_context:
+- Suluhisho mara nyingi huchanganya mifumo ya kitabibu iliyonunuliwa, huduma za ndani na majukwaa yanayoshirikiwa, hivyo wasanifu lazima wabuni kuvuka mipaka ya wasambazaji.
+- Uchaguzi wa usanifu unaweza kuleta hatari za kitabibu, kama vile matokeo yaliyopotea au ulinganishaji usio sahihi wa wagonjwa, hivyo miundo ya suluhisho huingia kwenye hoja ya usalama wa kitabibu.
+- Kila mtiririko mpya wa data za wagonjwa unahitaji msingi halali na tathmini ya athari za ulinzi wa data, hivyo wasanifu hufanya kazi kwa karibu na usimamizi wa taarifa.
+- Ushirikiano wa mifumo na taasisi nyingine za afya na matunzo, kwa kutumia viwango kama HL7 FHIR, kwa kawaida ni hitaji kuu.
+- Baadhi ya suluhisho hujumuisha programu ambayo ni kifaa tiba, jambo linalobadilisha mahitaji ya usanifu, uhakikisho na wasambazaji.
+levels:
+- title: Msanifu msaidizi wa suluhisho
+  responsibilities:
+  - Kukusanya mahitaji kutoka kwa timu za bidhaa, madaktari na wasambazaji ili kuongoza miundo ya suluhisho.
+  - Kuchora michoro ya hali ya sasa na lengwa, kama vile mitazamo ya muktadha, mtiririko wa data na uunganishaji.
+  - Kuandaa rasimu za sehemu za miundo ya suluhisho na kumbukumbu za maamuzi chini ya usimamizi.
+  - Kukagua miundo dhidi ya viwango vya usanifu na mahitaji ya usalama na usimamizi wa taarifa.
+  - Kusaidia kuandaa miundo kwa ukaguzi katika mamlaka za usanifu.
+  qualifications:
+  - Maarifa maalumu ya usanifu wa suluhisho, katika kiwango cha shahada ya uzamili au uzoefu unaolingana.
+  - Uzoefu wa uchambuzi, uendelezaji, au usanifu wa kiufundi.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 6): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 7. Maarifa yamepewa alama ya kiwango cha shahada ya uzamili au kinacholingana, kwa sababu kazi inasanifu kuvuka programu, data, uunganishaji na usalama."
+- title: Msanifu wa suluhisho
+  responsibilities:
+  - Kubuni suluhisho za mwanzo hadi mwisho kwa huduma zenye hatari ndogo, kama vile zana za wafanyakazi au huduma rahisi zinazowalenga wagonjwa.
+  - Kulinganisha chaguzi, ikiwemo kununua, kujenga na kutumia tena majukwaa yanayoshirikiwa, na kupendekeza moja kwa sababu wazi.
+  - Kubuni miunganisho, mtiririko wa data, na utambulisho na ufikiaji wa suluhisho, akitumia viwango huria vinapokuwepo.
+  - Kuchangia utambuzi wa hatari na tathmini za athari za ulinzi wa data kwa suluhisho.
+  - Kuwasilisha miundo kwa mamlaka za usanifu na kuzisaidia timu za utoaji kupitia ujenzi na kuanza kutumika.
+  - Kuwaongoza na kukagua kazi ya wasanifu wasaidizi wa suluhisho.
+  qualifications:
+  - Uzoefu mkubwa wa usanifu wa suluhisho au uhandisi wa programu, katika kiwango kinacholingana na shahada ya uzamili.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 7): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 8a. Mipango, sera na uhuru wa kutenda vimepewa alama za juu zaidi ya wasifu wa Daraja la 7 kwa sababu kazi inamiliki miundo ya mwanzo hadi mwisho na kupendekeza chaguzi kwa mamlaka za usanifu."
+- title: Msanifu mwandamizi wa suluhisho
+  responsibilities:
+  - Kubuni suluhisho tata zenye hatari ya wastani, kama vile mifumo ya kitabibu au huduma zinazotumika katika taasisi kadhaa.
+  - Kuongoza tathmini ya kiufundi ya bidhaa za wasambazaji katika ununuzi, ikiwemo ushirikiano wa mifumo, usalama na usalama wa kitabibu.
+  - Kubuni kwa ustahimilivu na mwendelezo wa biashara pale suluhisho linapounga mkono matunzo saa nzima.
+  - Kufanya kazi na maafisa wa usalama wa kitabibu ili maamuzi ya usanifu na udhibiti wa hatari virekodiwe katika hoja ya usalama.
+  - Kuwaongoza na kukagua kazi ya wasanifu wengine wa suluhisho.
+  qualifications:
+  - Uzoefu mpana wa kubuni suluhisho tata katika taaluma kadhaa, katika kiwango kinachozidi shahada ya uzamili.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 8a): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 8b. Maarifa yamepewa alama ya kiwango cha 8 kwa maarifa maalumu katika taaluma kadhaa, kama vile programu, data, uunganishaji, usalama na usalama wa kitabibu."
+- title: Msanifu kiongozi wa suluhisho
+  responsibilities:
+  - Kuongoza usanifu wa suluhisho kwa programu au eneo tata, kama vile kubadilisha rekodi ya mgonjwa ya kielektroniki.
+  - Kuhakikisha suluhisho katika programu zinaendana, zinashirikiana na kuoanishwa na usanifu lengwa.
+  - Kuzishauri bodi za programu kuhusu hatari za usanifu, utegemezi, uchaguzi wa wasambazaji na gharama.
+  - Kuhakikisha miundo ya wasanifu wengine wa suluhisho katika mamlaka za usanifu.
+  - Kuongoza na kuendeleza timu ya wasanifu wa suluhisho.
+  qualifications:
+  - Uzoefu mpana wa kuongoza usanifu wa suluhisho kwa programu tata.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 8b): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 8c. Mipango, sera na watu vimepewa alama za juu zaidi ya wasifu wa Daraja la 8b kwa sababu kazi inapanga usanifu wa programu nzima na kuongoza timu ya wasanifu wa suluhisho."
+- title: Msanifu mkuu wa suluhisho
+  responsibilities:
+  - Kuongoza usanifu wa suluhisho kwa programu kubwa zaidi au muhimu zaidi za taasisi.
+  - Kuweka viwango, mifumo na mbinu za usanifu wa suluhisho kwa taasisi.
+  - Kuwashauri wakurugenzi na taasisi washirika kuhusu usanifu wa huduma muhimu za afya na matunzo zinazoshirikiwa.
+  - Kutatua migongano migumu zaidi ya usanifu kati ya programu, wasambazaji na taasisi washirika.
+  - Kuongoza mazoezi ya usanifu wa suluhisho na kuendeleza watu wake.
+  qualifications:
+  - Uzoefu mpana wa kuongoza usanifu wa suluhisho katika programu au taasisi nyingi.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 8c): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 8d. Uhuru wa kutenda ni kiwango cha 6 kwa sababu kazi inaweka viwango vya usanifu wa suluhisho vya taasisi; rasilimali za fedha na watu ni kiwango cha 4 kwa sababu inaongoza mazoezi na bajeti yake."

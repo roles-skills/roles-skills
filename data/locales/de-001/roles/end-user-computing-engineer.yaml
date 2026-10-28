@@ -1,0 +1,62 @@
+summary: Ingenieurinnen und Ingenieure für Endnutzer-IT stellen die Geräte und Software bereit, unterstützen und pflegen sie, die Mitarbeitende jeden Tag nutzen, etwa Laptops, Desktops, Tablets, Mobiltelefone, Drucker und die gemeinsam genutzten Arbeitsplätze auf Stationen und in Ambulanzen. Sie beheben Störungen vor Ort und aus der Ferne, rollen Geräte aus und aktualisieren sie und halten sie sicher und konform. Ihre Arbeit hält klinisches Personal und Pflegepersonal in der Lage, Patienteninformationen am Ort der Versorgung zu sehen und zu erfassen.
+health_context:
+- Viele Geräte werden von klinischem Personal auf Stationen, in Ambulanzen und in Notaufnahmen gemeinsam genutzt, oft mit schnellem Nutzerwechsel und Anmeldung per Smartcard oder Tap-in.
+- Ein defektes Gerät in einem klinischen Bereich kann die Versorgung verzögern; die Ingenieurinnen und Ingenieure priorisieren diese Störungen daher und halten Ersatzgeräte zum Tausch bereit.
+- Ingenieurinnen und Ingenieure arbeiten in klinischen Bereichen; sie befolgen daher Regeln der Infektionsprävention und -kontrolle, achten Privatsphäre und Würde der Patientinnen und Patienten und fügen ihre Arbeit in die klinische Aktivität ein.
+- Geräte enthalten oder zeigen vertrauliche Patienteninformationen; sie müssen daher verschlüsselt, gepatcht, verwaltet und am Ende ihrer Lebenszeit sicher gelöscht oder vernichtet werden.
+- Manche Peripheriegeräte unterstützen klinische Prozesse oder sind an klinische Geräte angeschlossen, etwa Armband- und Etikettendrucker, Barcodescanner und Diktiergeräte; Änderungen daran brauchen Sorgfalt und Tests.
+levels:
+- title: Associate Ingenieur/in für Endnutzer-IT
+  responsibilities:
+  - Geräte und Peripherie unter Anleitung erfahrener Ingenieurinnen und Ingenieure einrichten, ersetzen und reparieren.
+  - Häufige Störungen in klinischen Bereichen und Büros beheben, etwa Probleme mit Druckern, Scannern und Anmeldung.
+  - Regeln der Infektionsprävention und -kontrolle befolgen und die Privatsphäre der Patientinnen und Patienten achten, wenn auf Stationen und in Ambulanzen gearbeitet wird.
+  - Arbeit, Vermögenswerte und Teile im Service-Management-Werkzeug genau erfassen.
+  - Auf eine Ausbildung im IT-Support oder einen gleichwertigen Abschluss hinarbeiten.
+  qualifications:
+  - In einer Ausbildung im IT-Support oder einem gleichwertigen Programm eingeschrieben oder auf dem Weg dorthin.
+  job_evaluation_notes: Die körperliche Anstrengung spiegelt häufige leichte Anstrengung wider, etwa beim Tragen von Geräten und Arbeiten unter Schreibtischen und in engen Räumen. Das Wissen wird auf der Stufe bewertet, die die Stelle verlangt, sobald die Ausbildung weit genug fortgeschritten ist, um die Arbeit zu leisten.
+- title: Ingenieur/in für Endnutzer-IT
+  responsibilities:
+  - Hardware- und Softwarestörungen vor Ort und aus der Ferne diagnostizieren und beheben, mit dem Ziel, sie beim ersten Besuch zu lösen.
+  - Schnell auf Störungen in klinischen Bereichen reagieren und ein Ersatzgerät bereitstellen, wenn eine Reparatur die Versorgung verzögern würde.
+  - Geräte mit den Standard-Images der Organisation und Werkzeugen zur Geräteverwaltung aufbauen, bereitstellen und aktualisieren.
+  - Geräte gepatcht, verschlüsselt und konform halten und sie am Ende ihrer Lebenszeit sicher löschen oder entsorgen.
+  - Klinische Peripherie wie Armbanddrucker, Etikettendrucker und Barcodescanner konfigurieren und testen.
+  - Associate-Ingenieurinnen und -Ingenieure anleiten und Lösungen über Wissensartikel teilen.
+  qualifications:
+  - Eine Qualifikation auf Niveau 3 oder höher in der IT, eine abgeschlossene Ausbildung oder gleichwertige Erfahrung.
+  - Erfahrung im Support von Endnutzergeräten.
+  job_evaluation_notes: Die körperliche Anstrengung spiegelt häufige leichte Anstrengung beim Bewegen und Installieren von Geräten über Standorte hinweg wider.
+- title: Senior-Ingenieur/in für Endnutzer-IT
+  responsibilities:
+  - Ein Team von Ingenieurinnen und Ingenieuren im Tagesgeschäft leiten und Arbeit nach ihrer Wirkung auf die Patientenversorgung und das Personal priorisieren.
+  - Geräte-Rollouts und -Erneuerungen für Stationen, Ambulanzen und Gemeindeteams mit möglichst geringer Störung der Versorgung planen und durchführen.
+  - Gerätebuilds und Updates vor dem Rollout mit klinischen Anwendungen und Peripherie testen.
+  - Sicherstellen, dass Geräte Sicherheitsstandards erfüllen, einschließlich Patch-Stand, Verschlüsselung und Endpunktschutz.
+  - Inbetriebnahmen klinischer Systeme mit Rundgängen auf den Stationen und schnellen Gerätelösungen unterstützen.
+  - Mit Infrastruktur-, Anwendungs- und Sicherheitsteams komplexe und wiederkehrende Störungen beheben.
+  qualifications:
+  - Umfangreiche Erfahrung im Support und in der Verwaltung von Endnutzergeräten, auf einem Niveau, das einem Studienabschluss entspricht.
+  job_evaluation_notes: Die Verantwortung für Menschen spiegelt die tägliche Führung eines Teams von Ingenieurinnen und Ingenieuren wider; die körperliche Anstrengung spiegelt eine gewisse fortgesetzte Arbeit vor Ort wider.
+- title: Leitende/r Ingenieur/in für Endnutzer-IT
+  responsibilities:
+  - Die Standards für die Geräte, Builds und Endnutzer-Software der Organisation setzen, einschließlich gemeinsam genutzter klinischer Arbeitsplätze.
+  - Anbieter von Geräten, Reparaturen und Endnutzerdiensten steuern und an vereinbarten Servicelevels messen.
+  - Mit technischen Architektinnen und Architekten neue Gerätetypen auswählen und testen, etwa mobile Geräte für Stations- und Gemeindepersonal.
+  - Die technische Reaktion auf Störungen der Endnutzer-IT leiten, etwa ein fehlgeschlagenes Update, das klinische Arbeitsplätze betrifft.
+  - Lebenszyklus und Kapazität der Geräte planen und zu Erneuerungskosten beraten.
+  - Senior-Ingenieurinnen und -Ingenieure führen und entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Endnutzer-IT, einschließlich der Steuerung von Anbietern.
+- title: Principal-Ingenieur/in für Endnutzer-IT
+  responsibilities:
+  - Die Strategie und Roadmap der Endnutzer-IT verantworten, einschließlich der Frage, wie Mitarbeitende in Krankenhäusern, Ambulanzen, Wohnungen der Patientinnen und Patienten und in der Gemeinde auf klinische Systeme zugreifen.
+  - Sicherstellen, dass der Gerätebestand sicheren, schnellen Zugriff auf Patienteninformationen am Ort der Versorgung unterstützt.
+  - Die Führungsebene zu Geräteinvestitionen, Risiken und Kosten von Erneuerungen und neuen Technologien beraten.
+  - Die Reaktion auf bestandsweite Geräterisiken leiten, etwa Betriebssysteme, deren Support endet, und Resilienz gegen Ransomware.
+  - Personalausstattung, Lernen und Entwicklung der Teams für Endnutzer-IT führen.
+  - Mit Partnern in Gesundheit und Pflege an gemeinsamen Geräte- und Zugriffsstandards arbeiten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung der Endnutzer-IT für eine große Organisation mit mehreren Standorten.
+  job_evaluation_notes: Das UK GDaD PCF schlägt für diese Stufe Entgeltgruppe 8c vor (G6). Diese Referenz ordnet sie in Entgeltgruppe 8b ein, in Übereinstimmung mit Principal-Rollen in anderen technischen Familien, weil ihr Umfang ein technisches Gebiet ist und keine Direktion.

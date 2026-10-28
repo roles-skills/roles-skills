@@ -1,0 +1,47 @@
+summary: Prófunargreinendur í gæðatryggingu athuga að stafræn heilbrigðisþjónusta stofnunarinnar geri það sem sjúklingar, klínískt starfsfólk og umönnunarstarfsfólk þarfnast, á öruggan og áreiðanlegan hátt. Þeir greina kröfur og hönnun til að finna áhættu snemma, hanna og framkvæma virkni- og ekki-virkniprófanir og skila skýrslu um galla með skýrum hætti. Í heilbrigðisþjónustu felur þetta í sér prófanir á klínísku vinnuflæði, nákvæmni gagna og þeim stýringum sem vernda sjúklinga gegn skaða.
+health_context:
+- Gallar í klínískum kerfum geta skaðað sjúklinga, til dæmis með röngum lyfjaskammti, yfirsjón á niðurstöðu eða skrá sem birtist fyrir rangan sjúkling, svo prófunum er forgangsraðað eftir klínískri áhættu.
+- Prófanir veita gögn fyrir klínísk öryggismál og hættuskrár, svo prófunaráætlanir rekja til greindra hætta og stýringa þeirra.
+- Prófunargögn mega aldrei afhjúpa raunverulega sjúklinga, svo greinendur nota tilbúin eða rétt afpersónugreind prófunargögn.
+- Margar þjónustur skiptast á gögnum við önnur heilbrigðis- og velferðarkerfi, svo prófanir athuga skilaboð gegn stöðlum eins og HL7 FHIR og merkingu klínískra kóða.
+- Notendur eru meðal annars klínískt starfsfólk undir tímapressu, sjúklingar með fjölbreyttar þarfir og notendur hjálpartækni, svo nothæfis- og aðgengisprófanir skipta máli.
+levels:
+- title: Aðstoðarprófunargreinandi í gæðatryggingu
+  responsibilities:
+  - Keyra prófunarforskriftir fyrir klínískt og skrifstofulegt vinnuflæði undir eftirliti og skrá niðurstöður nákvæmlega.
+  - Skila skýrum gallaskýrslum, þar á meðal skrefum, gögnum og skjám sem koma við sögu.
+  - Nota tilbúin prófunargögn og aldrei nota raunveruleg gögn sjúklinga í prófunarumhverfum.
+  - Læra prófunaraðferðir teymisins, verkfæri og ferli klínísks öryggis.
+  - Taka þátt í teymisathöfnum eins og stöðufundum, skipulagsfundum og afturlitum.
+  qualifications:
+  - Góð greiningar- og ritfærni og einhver reynsla af prófunum eða vinnu með stafræn kerfi, eða sambærilegt.
+- title: Prófunargreinandi í gæðatryggingu
+  responsibilities:
+  - Greina notendasögur, hönnun og klínískt vinnuflæði til að ákveða hvað á að prófa, út frá áhættu fyrir sjúklinga og þjónustu.
+  - Hanna og keyra virkni-, aðgengis- og nothæfisprófanir, þar á meðal heildstæðar klínískar sviðsmyndir.
+  - Rekja próf til hætta og öryggisstýringa og leggja fram prófunargögn fyrir klínísk öryggismál.
+  - Athuga gögn sem sýnd eru notendum gegn upprunakerfum og samþykktum klínískum kóðum.
+  - Búa til og viðhalda raunhæfum tilbúnum prófunargögnum.
+  - Fylgjast með göllum til lausnar og endurprófa lagfæringar.
+  qualifications:
+  - Reynsla af hönnun og keyrslu prófana fyrir stafræna þjónustu, eða sambærilegt.
+  job_evaluation_notes: UK GDaD PCF leggur til HEO eða SEO fyrir bæði þetta stig og eldra stigið, sem varpar báðum á launaflokk 6. Þessi viðmiðun setur þetta stig í launaflokk 5 og eldra stigið í launaflokk 6, svo stigin tvö eru í ólíkum launaflokkum.
+- title: Eldri prófunargreinandi í gæðatryggingu
+  responsibilities:
+  - Samræma gæðatryggingu fyrir vöru eða svið, samþykkja prófunaraðferðir, umhverfi, gögn og verkfæri.
+  - Greina klíníska áhættu og rekstraráhættu snemma með því að fara yfir kröfur, hönnun og breytingar með klínísku starfsfólki og vöruteymum.
+  - Skipuleggja og stýra samþykktarprófunum notenda með klínísku starfsfólki og umönnunarstarfsfólki.
+  - Skila skýrslu um niðurstöður prófana og eftirstandandi áhættu til vöruábyrgðaraðila og klínískra öryggisfulltrúa, svo þeir geti tekið útgáfuákvarðanir.
+  - Leiðbeina öðrum prófunargreinendum og hjálpa þeim að fylgja stöðlum um prófanir og klínískt öryggi.
+  qualifications:
+  - Mikil reynsla af prófunargreiningu, þar á meðal í flóknu eða lögbundnu umhverfi, eða sambærilegt.
+- title: Leiðandi prófunargreinandi í gæðatryggingu
+  responsibilities:
+  - Setja staðla og góða venju í prófunargreiningu þvert á stofnunina, þar á meðal áhættumiðaðar prófanir klínískra kerfa.
+  - Skilgreina prófunarstefnur fyrir stórar áætlanir, svo sem breytingar á rafrænu sjúkraskránni eða nýja þjónustu sem snýr að sjúklingum.
+  - Tryggja að prófanir skili þeim gögnum sem þarf fyrir klínísk öryggismál og, þar sem við á, tæknilegar skrár lækningatækja.
+  - Semja um og vísa upp á við meiriháttar áhættu, vandamálum og göllum við æðri vöruleiðtoga, klíníska leiðtoga og leiðtoga birgja.
+  - Leiðbeina og þjálfa prófunargreinendur og stýra prófunargreiningarsamfélaginu.
+  qualifications:
+  - Umfangsmikil reynsla af forystu prófunargreiningar fyrir flókna þjónustu.
+  job_evaluation_notes: UK GDaD PCF leggur til G7 eða G6 fyrir þetta stig, sem varpast á launaflokk 8b. Þessi viðmiðun setur það í launaflokk 8a, jafnt leiðandi prófunarverkfræðingi, því það stýrir einu prófunarsviði frekar en öllum prófunum; yfirmaður prófana er í launaflokki 8c.

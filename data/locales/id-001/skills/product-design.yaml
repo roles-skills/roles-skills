@@ -1,0 +1,71 @@
+# Terjemahan bahasa Indonesia dari data/skills/product-design.yaml. Kuncinya adalah id keterampilan bahasa Inggris.
+pd-health-research-ethics:
+  name: Penelitian etis dengan pasien dan tenaga perawatan
+  description: Merencanakan dan menjalankan penelitian dengan pasien, pendamping, tenaga klinis, dan tenaga perawatan secara aman dan etis, termasuk persetujuan berdasarkan informasi, perlindungan, penelitian dengan orang dalam keadaan rentan, dan mengetahui kapan persetujuan etik formal diperlukan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa penelitian dengan pasien dan tenaga perawatan memerlukan persetujuan berdasarkan informasi, perlindungan, dan kehati-hatian dengan data pribadi
+      - mengikuti prosedur persetujuan, perlindungan, dan penanganan data tim dalam sesi penelitian
+    working: |
+      Anda dapat:
+      - merencanakan sesi penelitian yang memperoleh persetujuan berdasarkan informasi dan melindungi kesejahteraan dan privasi peserta
+      - menyesuaikan sesi untuk orang yang sakit, tertekan, atau dalam keadaan rentan, dan tahu kapan harus berhenti
+      - mengenali dan melaporkan kekhawatiran perlindungan yang muncul dalam penelitian
+    practitioner: |
+      Anda dapat:
+      - menilai kapan penelitian memerlukan persetujuan etik atau tata kelola penelitian formal dan menyiapkan apa yang dibutuhkannya
+      - merencanakan penelitian yang aman dengan orang dalam keadaan rentan, seperti anak-anak, penderita demensia, dan orang yang sedang dalam krisis
+      - merencanakan penelitian di lingkungan klinis tanpa mengganggu perawatan, bekerja sama dengan pimpinan klinis dan tenaga perawatan
+      - mendukung peneliti untuk menjaga kesejahteraan mereka sendiri setelah sesi yang menyedihkan
+    expert: |
+      Anda dapat:
+      - menetapkan standar organisasi untuk penelitian etis dengan pasien, pendamping, dan tenaga perawatan
+      - menjamin praktik penelitian lintas tim dan menasihati tentang penelitian berisiko tinggi
+      - mewakili praktik penelitian di hadapan badan etik, perlindungan, dan tata kelola
+pd-safety-critical-design:
+  name: Merancang untuk keselamatan klinis dan faktor manusia
+  description: Merancang layanan, antarmuka, dan alur kerja yang membantu tenaga klinis, tenaga perawatan, dan pasien bertindak dengan aman, dengan menerapkan prinsip faktor manusia dan bekerja dengan proses manajemen risiko klinis.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bagaimana pilihan desain dapat menyebabkan atau mencegah kesalahan dalam perawatan, seperti salah pasien atau salah dosis
+      - menggunakan pola organisasi untuk informasi kritis keselamatan, seperti spanduk identitas pasien dan peringatan alergi
+    working: |
+      Anda dapat:
+      - merancang antarmuka yang membuat tindakan aman menjadi tindakan yang mudah, misalnya dengan mengurangi label yang ambigu dan peringatan yang tidak perlu
+      - menguji desain dalam skenario klinis yang realistis, termasuk gangguan dan tekanan waktu
+      - menyampaikan bahaya terkait desain kepada petugas keselamatan klinis dan mencatat bagaimana desain mengendalikannya
+    practitioner: |
+      Anda dapat:
+      - menerapkan metode faktor manusia, seperti analisis tugas dan analisis kesalahan penggunaan, pada alur kerja klinis yang kompleks
+      - merancang untuk mengurangi kelelahan akibat peringatan dan beban kognitif di seluruh layanan
+      - menyediakan bukti desain untuk kasus keselamatan klinis dan bukti kegunaan untuk perangkat lunak yang diatur
+    expert: |
+      Anda dapat:
+      - menetapkan standar dan pola organisasi untuk desain kritis keselamatan
+      - memimpin kerja faktor manusia pada layanan klinis dengan risiko tertinggi
+      - menasihati pimpinan keselamatan klinis dan produk tentang risiko terkait desain di seluruh portofolio
+pd-health-content:
+  name: Konten informasi kesehatan
+  description: Membuat konten kesehatan dan perawatan yang akurat, dijamin secara klinis, dan mudah dipahami serta ditindaklanjuti oleh orang dengan tingkat literasi kesehatan yang berbeda.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa informasi kesehatan harus akurat, mutakhir, dan mudah dipahami
+      - mengikuti panduan gaya tim dan proses tinjauan klinis untuk konten kesehatan
+    working: |
+      Anda dapat:
+      - menulis konten kesehatan yang dapat dipahami dan ditindaklanjuti oleh orang dengan literasi kesehatan rendah, seperti gejala dan kapan harus mencari bantuan
+      - bekerja dengan peninjau klinis untuk memastikan konten akurat tanpa kehilangan kejelasan
+      - menjelaskan istilah medis dalam bahasa sehari-hari dan memakai nama yang konsisten untuk penyakit, pemeriksaan, dan pengobatan
+    practitioner: |
+      Anda dapat:
+      - merancang konten untuk topik yang sensitif dan berisiko tinggi, seperti gejala mendesak, obat-obatan, dan perawatan akhir hayat
+      - menyiapkan penjaminan klinis, tanggal tinjauan, dan sumber bukti untuk kumpulan konten kesehatan
+      - menyeimbangkan ketepatan klinis, persyaratan hukum, dan pemahaman pengguna dalam konten yang diperdebatkan
+    expert: |
+      Anda dapat:
+      - menetapkan standar organisasi untuk konten informasi kesehatan dan penjaminan klinisnya
+      - memimpin strategi konten untuk informasi kesehatan di berbagai layanan dan kanal
+      - menasihati pimpinan klinis dan komunikasi senior tentang risiko informasi kesehatan

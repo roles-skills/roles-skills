@@ -1,0 +1,53 @@
+summary: >
+  Enterprisearkitekter ger organisationen en sammanhållen bild av dess tjänster, information, applikationer och teknik, och använder den för att omsätta hälso- och vårdstrategi till en sammanhängande plan för förändring. De fastställer arkitekturprinciper, standarder och färdplaner, vägleder investeringsbeslut och ser till att digital förändring stöder trygg, sammanhållen vård för patienter över organisationer.
+health_context:
+  - Vårdförlopp korsar många organisationer och system, så arkitekturen måste stödja delning av journaler, resultat och remisser över gränser.
+  - Beståndet innehåller ofta långlivade kliniska system, medicintekniska produkter och leverantörsavtal som är svåra att ändra, så färdplaner måste planera övergångar noggrant.
+  - Arkitekturbeslut påverkar patientsäkerhet, integritet och motståndskraften hos tjänster som drivs dygnet runt.
+  - Öppna standarder såsom HL7 FHIR, SNOMED CT och IHE-profiler är nyckeln till att undvika inlåsning och möjliggöra interoperabilitet.
+  - Finansieringen är begränsad och noga granskad, så arkitekter måste visa valuta för pengarna och återanvändning av gemensamma plattformar där de finns.
+levels:
+  - title: Enterprisearkitekt
+    responsibilities:
+      - Modellera organisationens nuvarande och önskade tjänster, information, applikationer och teknik för en domän, såsom diagnostik eller närsjukvård.
+      - Hålla arkitekturförrådet uppdaterat, inklusive kataloger över applikationer och dataflöden.
+      - Granska förslag mot arkitekturprinciper och standarder och ge rekommendationer till designråd.
+      - Identifiera var system duplicerar förmåga eller beror på teknik som inte stöds, och lyfta riskerna.
+      - Arbeta med lösningsarkitekter och kliniska ledare för att förstå hur vårdförlopp använder system.
+      - Vägleda lösningsarkitekter i hur designer passar domänarkitekturen.
+    qualifications:
+      - Betydande erfarenhet av arkitektur, analys eller teknisk design i en komplex organisation, på en nivå motsvarande en masterexamen.
+      - Kunskap om ett ramverk för verksamhetsarkitektur, såsom TOGAF, eller motsvarande erfarenhet.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 6) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8a. Kunskap, analys, planering, policy och handlingsfrihet poängsätts enligt profilen för band 8a eftersom arbetet formar målarkitekturer och ger designråd råd för en hel domän.
+  - title: Senior enterprisearkitekt
+    responsibilities:
+      - Ta fram målarkitekturer och övergångsfärdplaner för en eller flera av organisationens domäner.
+      - Forma affärscase så att investeringar passar målarkitekturen och återanvänder gemensamma plattformar.
+      - Leda arkitekturgranskningar i designråd och ge rekommendationer om betydande förslag.
+      - Planera ersättningen eller avvecklingen av äldre kliniska system och verksamhetssystem, inklusive datamigrering och säkerhetsrisker.
+      - Se till att behov av interoperabilitet, säkerhet och informationsstyrning byggs in i färdplaner.
+      - Coacha och vägleda enterprise- och lösningsarkitekter.
+    qualifications:
+      - Omfattande erfarenhet av enterprise- eller lösningsarkitektur över flera domäner.
+      - Kunskap om ett ramverk för verksamhetsarkitektur, såsom TOGAF, eller motsvarande erfarenhet.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 7) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8b. Planering är nivå 5 för långsiktiga färdplaner med effekter i hela organisationen; kunskap är nivå 8 för kunskap över verksamhets-, informations-, applikations- och teknikarkitektur.
+  - title: Ledande enterprisearkitekt
+    responsibilities:
+      - Äga verksamhetsarkitekturen för en stor del av organisationen, såsom kliniska system eller gemensam infrastruktur.
+      - Leda eller sitta som ordförande för arkitekturens designråd och fastställa de standarder som projekt måste uppfylla.
+      - Ge direktörer råd om investeringsprioriteringar, leverantörsstrategi och teknikrisker.
+      - Arbeta med partnerorganisationer för att samordna arkitekturer över vårdförlopp och delade journaler.
+      - Leda och utveckla enterprisearkitekter och bygga praktikgemenskapen för arkitektur.
+    qualifications:
+      - Omfattande erfarenhet av enterprisearkitektur i en komplex organisation.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 8b) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8c. Informationsresurser är nivå 6 eftersom arbetet förvaltar arkitekturen för informationssystem över en stor del av organisationen; policy och människor ligger över profilen för band 8b eftersom arbetet fastställer standarder för alla projekt och leder enterprisearkitekter.
+  - title: Principal enterprisearkitekt
+    responsibilities:
+      - Fastställa organisationens vision, principer och strategi för verksamhetsarkitektur, samordnade med dess hälso- och vårdstrategi.
+      - Ge ledningsgruppen och styrelsen råd om arkitekturen, riskerna och värdet i större digitala investeringar.
+      - Leda organisationens arkitekturpraktik, styrning och standarder.
+      - Företräda organisationen i forum för arkitektur och interoperabilitet över organisationer.
+      - Bygga arkitekturförmåga i hela organisationen, inklusive rekrytering och karriärvägar.
+    qualifications:
+      - Omfattande erfarenhet av att leda enterprisearkitektur över organisationer.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 8c) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8d. Policy och handlingsfrihet är nivå 6 eftersom arbetet har organisationsövergripande ansvar för organisationens arkitekturvision, principer och strategi.

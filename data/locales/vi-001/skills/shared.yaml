@@ -1,0 +1,423 @@
+# Bản dịch tiếng Việt của data/skills/shared.yaml. Khóa là mã kỹ năng tiếng Anh.
+health-care-context:
+  name: Hiểu biết về các dịch vụ y tế và chăm sóc
+  description: Hiểu cách các dịch vụ y tế và chăm sóc được tổ chức và cung cấp, cách bác sĩ lâm sàng và nhân viên chăm sóc làm việc, và cách các dịch vụ số hỗ trợ việc chăm sóc bệnh nhân.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - mô tả các bộ phận chính của hệ thống y tế và chăm sóc cùng các dịch vụ mà tổ chức hỗ trợ
+      - giải thích vì sao an toàn và bảo mật cho bệnh nhân quan trọng trong công việc của bạn
+    working: |
+      Bạn có thể:
+      - giải thích các quy trình lâm sàng và chăm sóc mà công việc của bạn hỗ trợ
+      - dùng đúng các thuật ngữ y tế thông dụng với đồng nghiệp lâm sàng và chăm sóc
+      - nhận biết khi một thay đổi có thể ảnh hưởng đến việc chăm sóc bệnh nhân và báo lên
+    practitioner: |
+      Bạn có thể:
+      - phân tích một dịch vụ khớp với các lộ trình chăm sóc giữa các tổ chức như thế nào
+      - phối hợp với bác sĩ lâm sàng, nhân viên chăm sóc và bệnh nhân để định hình các dịch vụ số
+      - giải thích tác động của các quyết định số đối với việc chăm sóc, an toàn và khối lượng công việc của nhân viên
+    expert: |
+      Bạn có thể:
+      - định hình chiến lược của tổ chức bằng hiểu biết sâu về hệ thống y tế và chăm sóc
+      - đại diện tổ chức làm việc với các đối tác và lãnh đạo y tế và chăm sóc
+      - dự đoán những thay đổi về chính sách và dịch vụ sẽ ảnh hưởng đến các dịch vụ số và việc chăm sóc như thế nào
+clinical-safety:
+  name: Quản lý rủi ro lâm sàng
+  description: Nhận diện, đánh giá và kiểm soát các rủi ro mà hệ thống CNTT y tế có thể gây ra cho bệnh nhân, thông qua quy trình quản lý rủi ro lâm sàng, nhật ký mối nguy và hồ sơ an toàn (ví dụ theo ISO 14971 và IEC 80001-1).
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích hệ thống CNTT y tế có thể gây hại cho bệnh nhân như thế nào, ví dụ qua thông tin sai, thiếu hoặc chậm
+      - báo cáo một vấn đề an toàn lâm sàng có thể xảy ra qua đúng kênh
+    working: |
+      Bạn có thể:
+      - tham gia các buổi làm việc về mối nguy và đóng góp vào nhật ký mối nguy
+      - tuân theo quy trình quản lý rủi ro lâm sàng cho công việc của bạn
+      - cung cấp bằng chứng cho hồ sơ an toàn lâm sàng, như kết quả kiểm thử
+    practitioner: |
+      Bạn có thể:
+      - dẫn dắt việc nhận diện mối nguy và đánh giá rủi ro cho một sản phẩm hoặc thay đổi
+      - viết và duy trì nhật ký mối nguy và báo cáo hồ sơ an toàn lâm sàng
+      - thống nhất các biện pháp kiểm soát rủi ro với các nhóm sản phẩm và kiểm tra hiệu quả của chúng
+      - tư vấn cho các nhóm về việc áp dụng các tiêu chuẩn quản lý rủi ro lâm sàng
+    expert: |
+      Bạn có thể:
+      - làm chủ hệ thống quản lý rủi ro lâm sàng của tổ chức
+      - đề ra chính sách an toàn lâm sàng và đảm bảo các hồ sơ an toàn cho các hệ thống lớn
+      - dẫn dắt việc ứng phó với các sự cố an toàn nghiêm trọng liên quan đến CNTT y tế
+      - xây dựng văn hóa an toàn lâm sàng trong các nhóm số
+health-data-interoperability:
+  name: Khả năng tương tác của dữ liệu y tế
+  description: Trao đổi dữ liệu y tế và chăm sóc giữa các hệ thống một cách an toàn và nhất quán bằng các tiêu chuẩn mở như HL7 FHIR, HL7 phiên bản 2, các hồ sơ IHE và các API chuẩn.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao khả năng tương tác quan trọng đối với việc chăm sóc liền mạch
+      - kể tên các tiêu chuẩn trao đổi dữ liệu y tế chính, như HL7 FHIR
+    working: |
+      Bạn có thể:
+      - đọc và sử dụng các tài nguyên, hồ sơ cấu hình và API của FHIR
+      - xây dựng hoặc kiểm thử các tích hợp đơn giản dưới sự hướng dẫn
+      - kiểm tra thông điệp so với đặc tả
+    practitioner: |
+      Bạn có thể:
+      - thiết kế và xây dựng các tích hợp bằng FHIR, HL7 phiên bản 2 và các mẫu thông điệp
+      - viết và lập hồ sơ cấu hình cho các tài nguyên FHIR và hướng dẫn triển khai
+      - giải quyết các vấn đề phức tạp về ánh xạ và chất lượng dữ liệu giữa các hệ thống
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn và chiến lược về khả năng tương tác cho tổ chức
+      - dẫn dắt công việc về tiêu chuẩn ở cấp quốc gia hoặc giữa nhiều tổ chức
+      - đảm bảo thiết kế của các tích hợp quan trọng trên nhiều hệ thống
+clinical-terminology:
+  name: Thuật ngữ và phân loại lâm sàng
+  description: Sử dụng các bộ thuật ngữ và phân loại lâm sàng, như SNOMED CT, ICD và LOINC, để ghi lại và trao đổi ý nghĩa lâm sàng một cách nhất quán.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích sự khác nhau giữa bộ thuật ngữ lâm sàng và bảng phân loại
+      - nhận biết các bộ thuật ngữ phổ biến như SNOMED CT và ICD
+    working: |
+      Bạn có thể:
+      - tìm và dùng đúng mã cho một mục dữ liệu hoặc biểu mẫu
+      - sử dụng trình duyệt thuật ngữ và các tập tham chiếu
+    practitioner: |
+      Bạn có thể:
+      - thiết kế mô hình dữ liệu và tập tham chiếu bằng các bộ thuật ngữ lâm sàng
+      - ánh xạ giữa các bộ thuật ngữ và bảng phân loại, và giải thích giới hạn của một phép ánh xạ
+      - tư vấn cho các nhóm về việc dùng thuật ngữ trong sản phẩm và phân tích
+    expert: |
+      Bạn có thể:
+      - đề ra chính sách về thuật ngữ cho tổ chức
+      - dẫn dắt các đợt phát hành thuật ngữ, quản trị và đảm bảo chất lượng
+      - đại diện tổ chức tại các cơ quan tiêu chuẩn về thuật ngữ
+information-governance:
+  name: Quản trị thông tin và bảo vệ dữ liệu
+  description: Xử lý thông tin cá nhân và thông tin y tế một cách hợp pháp, an toàn và có đạo đức, gồm luật bảo vệ dữ liệu, bảo mật, sự đồng ý, đánh giá tác động bảo vệ dữ liệu và chia sẻ thông tin.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tuân theo các quy tắc của tổ chức về xử lý thông tin cá nhân và thông tin y tế
+      - nhận biết và báo cáo một vụ vi phạm dữ liệu hoặc suýt xảy ra vi phạm
+    working: |
+      Bạn có thể:
+      - áp dụng các nguyên tắc bảo vệ dữ liệu vào công việc của bạn
+      - đóng góp vào các đánh giá tác động bảo vệ dữ liệu
+      - xử lý đúng các yêu cầu về thông tin và hồ sơ
+    practitioner: |
+      Bạn có thể:
+      - dẫn dắt các đánh giá tác động bảo vệ dữ liệu và các thỏa thuận chia sẻ thông tin
+      - tư vấn cho các nhóm về cơ sở pháp lý, sự đồng ý, bảo mật và thời hạn lưu giữ
+      - điều tra sự cố và đề xuất cải tiến
+    expert: |
+      Bạn có thể:
+      - đề ra chính sách và chiến lược quản trị thông tin
+      - tư vấn cho hội đồng về rủi ro thông tin và việc tuân thủ
+      - đại diện tổ chức làm việc với các cơ quan quản lý và đối tác
+medical-device-regulation:
+  name: Quy định về phần mềm là thiết bị y tế
+  description: Hiểu khi nào phần mềm là một thiết bị y tế, cùng các tiêu chuẩn và quy trình áp dụng cho nó, như IEC 62304 và ISO 13485.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích rằng một số phần mềm y tế bị quản lý như thiết bị y tế
+      - biết hỏi ai khi một sản phẩm có thể là thiết bị y tế
+    working: |
+      Bạn có thể:
+      - tuân theo quy trình vòng đời phần mềm đáp ứng các tiêu chuẩn thiết bị y tế
+      - lập các hồ sơ mà quy trình đó yêu cầu
+    practitioner: |
+      Bạn có thể:
+      - đánh giá một sản phẩm có phải là thiết bị y tế hay không, và phân loại có khả năng của nó
+      - lập kế hoạch công việc quy định cho một sản phẩm cùng đồng nghiệp về chất lượng và lâm sàng
+    expert: |
+      Bạn có thể:
+      - đề ra cách tiếp cận của tổ chức đối với phần mềm chịu quản lý
+      - dẫn dắt việc làm việc với các cơ quan quản lý và tổ chức được chỉ định
+people-management:
+  name: Quản lý nhân sự
+  description: Lãnh đạo, phát triển và hỗ trợ nhân viên, gồm tuyển dụng, mục tiêu, đánh giá, sức khỏe tinh thần, chuyên cần, và quản lý hiệu quả công việc và hành vi một cách công bằng.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các chính sách nhân sự của tổ chức có ảnh hưởng đến bạn
+      - hỗ trợ đồng nghiệp mới và chia sẻ kiến thức
+    working: |
+      Bạn có thể:
+      - giám sát công việc hằng ngày và đưa ra phản hồi
+      - tham gia tuyển dụng và hướng dẫn nhân viên mới
+      - tổ chức các buổi trao đổi riêng định kỳ
+    practitioner: |
+      Bạn có thể:
+      - trực tiếp quản lý một nhóm, đặt mục tiêu và tiến hành đánh giá
+      - hỗ trợ sức khỏe tinh thần và quản lý chuyên cần, hiệu quả công việc và hành vi
+      - lập kế hoạch phát triển và kế nhiệm cho nhóm
+    expert: |
+      Bạn có thể:
+      - dẫn dắt các quản lý và định hình văn hóa của một mảng lớn
+      - thiết kế kế hoạch nhân lực và thay đổi tổ chức
+      - huấn luyện các lãnh đạo và giải quyết các vấn đề nhân sự phức tạp
+equality-diversity-inclusion:
+  name: Bình đẳng, đa dạng và hòa nhập
+  description: Đối xử công bằng với mọi người, trân trọng sự khác biệt, và thiết kế các dịch vụ và nơi làm việc bao gồm tất cả mọi người.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - đối xử với đồng nghiệp, bệnh nhân và công chúng một cách tôn trọng và có phẩm giá
+      - tuân theo các chính sách về bình đẳng và hòa nhập
+    working: |
+      Bạn có thể:
+      - nhận ra và phản đối hành vi loại trừ người khác
+      - cân nhắc các nhu cầu khác nhau khi lập kế hoạch công việc
+    practitioner: |
+      Bạn có thể:
+      - thực hiện đánh giá tác động về bình đẳng
+      - xây dựng các nhóm và cách làm việc hòa nhập
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược hòa nhập và yêu cầu tổ chức chịu trách nhiệm về chiến lược đó
+      - dẫn dắt thay đổi văn hóa về bình đẳng, đa dạng và hòa nhập
+health-safety-wellbeing:
+  name: Sức khỏe, an toàn và an sinh
+  description: Giữ cho bản thân và người khác được an toàn và khỏe mạnh tại nơi làm việc, gồm đánh giá rủi ro, cách làm việc an toàn và báo cáo sự cố.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tuân theo các quy tắc sức khỏe và an toàn, báo cáo các mối nguy và sự cố
+    working: |
+      Bạn có thể:
+      - thực hiện các đánh giá rủi ro đơn giản, như đánh giá vị trí làm việc
+      - giúp đồng nghiệp làm việc an toàn
+    practitioner: |
+      Bạn có thể:
+      - quản lý sức khỏe và an toàn cho một nhóm hoặc địa điểm
+      - điều tra sự cố và đưa ra các biện pháp kiểm soát
+    expert: |
+      Bạn có thể:
+      - đề ra chính sách sức khỏe, an toàn và an sinh cho tổ chức
+      - báo cáo kết quả an toàn lên hội đồng
+budget-management:
+  name: Quản lý ngân sách
+  description: Lập kế hoạch, theo dõi và kiểm soát ngân sách, gồm dự báo, xử lý chênh lệch và tuân thủ các quy tắc tài chính.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tuân theo các quy tắc chi tiêu và đặt hàng
+      - giải thích công việc của bạn được tài trợ như thế nào
+    working: |
+      Bạn có thể:
+      - theo dõi chi tiêu so với một ngân sách nhỏ và báo cáo chênh lệch
+      - phê duyệt chi tiêu trong hạn mức của bạn
+    practitioner: |
+      Bạn có thể:
+      - nắm giữ và quản lý một ngân sách, dự báo và giải thích các chênh lệch
+      - xây dựng một luận chứng kinh doanh với chi phí và lợi ích
+    expert: |
+      Bạn có thể:
+      - quản lý các ngân sách lớn hoặc nhiều ngân sách và đề ra kế hoạch tài chính
+      - cân nhắc đánh đổi về nguồn vốn giữa các dịch vụ
+project-management:
+  name: Quản lý dự án
+  description: Lập kế hoạch, thực hiện và kết thúc dự án theo phạm vi, thời gian, chi phí và chất lượng đã thống nhất, bằng một phương pháp được công nhận như PRINCE2, PM² hoặc các phương pháp agile.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các giai đoạn của một dự án và các vai trò chính trong đó
+      - lưu giữ các hồ sơ dự án như nhật ký hành động
+    working: |
+      Bạn có thể:
+      - duy trì kế hoạch, nhật ký rủi ro và vấn đề, và báo cáo
+      - tổ chức các cuộc họp dự án và theo dõi các hành động
+      - quản lý một dự án nhỏ, được xác định rõ, khi có hỗ trợ
+    practitioner: |
+      Bạn có thể:
+      - quản lý dự án từ khởi đầu đến kết thúc, kiểm soát phạm vi, thời gian, chi phí và chất lượng
+      - quản lý rủi ro, vấn đề, các phụ thuộc và kiểm soát thay đổi
+      - báo cáo với ban dự án và quản lý nhà cung cấp
+    expert: |
+      Bạn có thể:
+      - quản lý các dự án lớn, phức tạp hoặc rủi ro cao
+      - đề ra tiêu chuẩn quản lý dự án và huấn luyện các quản lý dự án
+      - cứu vãn các dự án đang thất bại
+risk-management:
+  name: Quản lý rủi ro của tổ chức
+  description: Nhận diện, đánh giá, ghi nhận và quản lý các rủi ro đối với mục tiêu của tổ chức, bằng sổ đăng ký rủi ro và khẩu vị rủi ro đã xác định.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích rủi ro là gì và cách nêu một rủi ro
+    working: |
+      Bạn có thể:
+      - ghi nhận và cập nhật các rủi ro cho lĩnh vực của bạn
+      - đề xuất các biện pháp kiểm soát và theo dõi các hành động
+    practitioner: |
+      Bạn có thể:
+      - vận hành quy trình rủi ro cho một ban hoặc chương trình
+      - đánh giá rủi ro theo khẩu vị rủi ro và báo cáo lên cấp trên
+      - báo cáo về rủi ro cho các ủy ban
+    expert: |
+      Bạn có thể:
+      - thiết kế khung quản lý rủi ro và khẩu vị rủi ro của tổ chức
+      - tư vấn cho hội đồng về các rủi ro chiến lược
+security-operations:
+  name: Vận hành an ninh
+  description: Giám sát hệ thống để phát hiện các mối đe dọa an ninh, phân loại cảnh báo, điều tra sự kiện và ứng phó với các sự cố an ninh mạng, bằng các công cụ như SIEM và phát hiện trên thiết bị đầu cuối.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các mối đe dọa mạng phổ biến như lừa đảo (phishing) và mã độc tống tiền
+      - báo cáo một sự kiện an ninh nghi ngờ
+    working: |
+      Bạn có thể:
+      - giám sát cảnh báo và phân loại chúng theo sổ tay vận hành
+      - thu thập bằng chứng và báo cáo lên cấp trên các sự kiện
+      - tinh chỉnh các quy tắc phát hiện đơn giản dưới sự hướng dẫn
+    practitioner: |
+      Bạn có thể:
+      - điều tra và ngăn chặn các sự cố an ninh
+      - viết các quy tắc phát hiện và thực hiện săn tìm mối đe dọa
+      - cải thiện sổ tay vận hành và công cụ sau các sự cố
+    expert: |
+      Bạn có thể:
+      - dẫn dắt dịch vụ vận hành an ninh và chiến lược của dịch vụ đó
+      - dẫn dắt việc ứng phó với các sự cố an ninh mạng lớn
+      - làm việc với các cơ quan an ninh quốc gia và đối tác
+vulnerability-management:
+  name: Quản lý lỗ hổng
+  description: Tìm kiếm, đánh giá, ưu tiên và khắc phục các lỗ hổng kỹ thuật, gồm quét, kiểm thử xâm nhập và vá lỗi.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao việc vá lỗi kịp thời và cấu hình an toàn là quan trọng
+    working: |
+      Bạn có thể:
+      - chạy quét lỗ hổng và báo cáo kết quả
+      - theo dõi việc khắc phục cùng các chủ sở hữu hệ thống
+    practitioner: |
+      Bạn có thể:
+      - ưu tiên các lỗ hổng theo rủi ro, kể cả rủi ro đối với các dịch vụ bệnh nhân
+      - xác định phạm vi và quản lý các đợt kiểm thử xâm nhập và việc khắc phục
+    expert: |
+      Bạn có thể:
+      - đề ra chính sách quản lý lỗ hổng và các mục tiêu của chính sách
+      - báo cáo rủi ro an ninh kỹ thuật cho các lãnh đạo cấp cao
+identity-and-access-management:
+  name: Quản lý danh tính và truy cập
+  description: Quản lý danh tính số, xác thực và quyền truy cập cho nhân viên, bệnh nhân và hệ thống, gồm truy cập theo vai trò và xác thực bằng thẻ thông minh hoặc đa yếu tố.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tuân theo các quy tắc truy cập và bảo vệ thông tin xác thực của bạn
+    working: |
+      Bạn có thể:
+      - tạo, thay đổi và xóa tài khoản người dùng và quyền truy cập
+      - kiểm tra quyền truy cập theo các quy tắc truy cập dựa trên vai trò
+    practitioner: |
+      Bạn có thể:
+      - thiết kế và vận hành các dịch vụ danh tính và truy cập
+      - rà soát quyền truy cập định kỳ và khắc phục sự cố
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược danh tính và truy cập cho nhân viên, bệnh nhân và hệ thống
+      - dẫn dắt việc áp dụng các tiêu chuẩn danh tính mới
+data-quality:
+  name: Quản lý chất lượng dữ liệu
+  description: Xác định, đo lường và cải thiện chất lượng dữ liệu, gồm tính đầy đủ, chính xác, kịp thời và hợp lệ.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao dữ liệu y tế chính xác quan trọng đối với việc chăm sóc và lập kế hoạch
+      - ghi dữ liệu chính xác và báo cáo lỗi
+    working: |
+      Bạn có thể:
+      - chạy các kiểm tra chất lượng dữ liệu và sửa lỗi
+      - giải thích các báo cáo chất lượng dữ liệu cho đồng nghiệp
+    practitioner: |
+      Bạn có thể:
+      - xác định các quy tắc và thước đo chất lượng dữ liệu
+      - phối hợp với các bên cung cấp dữ liệu để khắc phục nguyên nhân gốc của chất lượng kém
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn chất lượng dữ liệu cho tổ chức và các đối tác
+      - dẫn dắt các chương trình cải thiện chất lượng dữ liệu
+health-records-management:
+  name: Quản lý hồ sơ y tế
+  description: Quản lý hồ sơ y tế và chăm sóc trong suốt vòng đời, gồm tạo lập, lưu trữ, theo dõi, truy cập, thời hạn lưu giữ và hủy.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - lưu trữ, tìm và theo dõi hồ sơ đúng cách
+      - bảo vệ hồ sơ khỏi bị mất hoặc bị truy cập trái phép
+    working: |
+      Bạn có thể:
+      - xử lý các yêu cầu truy cập hồ sơ
+      - áp dụng lịch trình lưu giữ và các tiêu chuẩn lưu trữ hồ sơ
+    practitioner: |
+      Bạn có thể:
+      - quản lý một dịch vụ hồ sơ và các quy trình của dịch vụ đó
+      - kiểm toán việc lưu trữ hồ sơ và đào tạo nhân viên
+    expert: |
+      Bạn có thể:
+      - đề ra chính sách và chiến lược quản lý hồ sơ
+      - dẫn dắt việc chuyển từ hồ sơ giấy sang hồ sơ số
+clinical-coding:
+  name: Mã hóa lâm sàng
+  description: Chuyển thông tin lâm sàng từ hồ sơ y tế thành các mã phân loại chuẩn, theo các quy tắc mã hóa quốc gia và quốc tế, phục vụ chăm sóc, thanh toán và thống kê.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích mã hóa lâm sàng là gì và vì sao nó quan trọng
+      - dùng các thuật ngữ y khoa và giải phẫu cơ bản
+    working: |
+      Bạn có thể:
+      - mã hóa chính xác các đợt điều trị đơn giản theo các quy tắc phân loại
+      - hỏi lại bác sĩ lâm sàng về các hồ sơ chưa rõ
+    practitioner: |
+      Bạn có thể:
+      - mã hóa các đợt điều trị phức tạp trên nhiều chuyên khoa
+      - kiểm toán chất lượng mã hóa và đào tạo nhân viên mã hóa
+    expert: |
+      Bạn có thể:
+      - dẫn dắt một dịch vụ mã hóa và chương trình chất lượng của dịch vụ đó
+      - tư vấn về các tiêu chuẩn mã hóa và tác động của chúng đến dữ liệu và nguồn tài trợ
+clinical-leadership-in-digital:
+  name: Lãnh đạo lâm sàng trong lĩnh vực số
+  description: Mang kiến thức lâm sàng và uy tín vào việc thiết kế, áp dụng và sử dụng an toàn các dịch vụ số, và dẫn dắt các bác sĩ lâm sàng trong quá trình chuyển đổi số.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các dịch vụ số làm thay đổi thực hành lâm sàng như thế nào
+    working: |
+      Bạn có thể:
+      - đưa ý kiến lâm sàng cho các nhóm sản phẩm về quy trình làm việc và an toàn
+      - giúp đồng nghiệp lâm sàng áp dụng các hệ thống mới
+    practitioner: |
+      Bạn có thể:
+      - dẫn dắt việc thu hút sự tham gia của lâm sàng cho một sản phẩm hoặc chương trình
+      - chuyển các nhu cầu lâm sàng và bằng chứng thành yêu cầu
+      - vận động việc áp dụng an toàn trong giới đồng nghiệp lâm sàng
+    expert: |
+      Bạn có thể:
+      - đề ra định hướng lâm sàng cho các dịch vụ số của tổ chức
+      - dẫn dắt các lãnh đạo lâm sàng giữa các tổ chức vượt qua chuyển đổi số
+      - tư vấn cho hội đồng về rủi ro và lợi ích lâm sàng của đầu tư số
+governance-and-compliance:
+  name: Quản trị và tuân thủ của doanh nghiệp
+  description: Hỗ trợ công tác quản trị của tổ chức — hội đồng, ủy ban, quy chế hoạt động, chính sách, khai báo lợi ích và việc tuân thủ các nghĩa vụ pháp lý và quản lý.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tuân theo các chính sách và quy tắc ra quyết định của tổ chức
+    working: |
+      Bạn có thể:
+      - hỗ trợ các cuộc họp ủy ban, tài liệu họp và biên bản
+      - cập nhật các sổ đăng ký quản trị
+    practitioner: |
+      Bạn có thể:
+      - vận hành chu trình quản trị cho các hội đồng và ủy ban
+      - rà soát chính sách và tư vấn về tuân thủ
+    expert: |
+      Bạn có thể:
+      - thiết kế khung quản trị và tư vấn cho hội đồng
+      - dẫn dắt báo cáo quản trị và đảm bảo hằng năm

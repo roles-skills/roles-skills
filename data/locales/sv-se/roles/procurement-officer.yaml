@@ -1,0 +1,60 @@
+summary: >
+  Upphandlare hjälper organisationen att köpa de varor och tjänster den behöver, lagligt och till bra värde, från rutininköp till formella anbudsupphandlingar. I en digital hälso- och sjukvårdsorganisation går mycket av utgifterna till programvara, molntjänster, licenser, enheter och tekniktjänster, så de arbetar nära kollegor inom digitalt, informationsstyrning och klinisk säkerhet såväl som med budgetansvariga.
+health_context:
+  - Regler för offentlig upphandling gäller organisationens utgifter, så varje inköp måste följa rätt väg, föra ett tydligt granskningsspår och behandla leverantörer rättvist.
+  - Många inköp är digitala, såsom programvarulicenser, molnabonnemang och enheter, och behöver kontroller av säkerhet, dataskydd och klinisk säkerhet före avtal.
+  - Leverantörer av kliniska system kan hålla patientdata, så avtal behöver tydliga villkor om dataskydd, dataägande och återlämnande av data.
+  - Att köpa genom ramavtal och dynamiska inköpssystem byggda för offentlig sektor kan spara tid, men avrop måste ändå följa varje ramavtals regler.
+  - Offentliga utgifter måste visa valuta för pengarna och socialt värde, såsom lokala jobb, kompetens och lägre koldioxidutsläpp.
+levels:
+  - title: Upphandlingsassistent
+    summary: Ger inköps- och administrativt stöd enligt fastställda rutiner, med en upphandlare i närheten.
+    responsibilities:
+      - Skapa och ändra inköpsorder i inköpssystemet och kontrollera dem mot avtal och godkännanden.
+      - Lösa rutinfrågor om fakturor och kvittering med leverantörer, budgetansvariga och ekonomi.
+      - Inhämta offerter för inköp av lågt värde enligt organisationens regler.
+      - Hålla leverantörsregister, kataloger och avtalsregistret uppdaterade.
+      - Besvara rutinfrågor från personal om hur man köper.
+    qualifications:
+      - En kvalifikation på nivå 2 eller 3, en lärlingsutbildning inom upphandling eller motsvarande erfarenhet.
+      - Erfarenhet av noggrant administrativt arbete eller ekonomiarbete.
+    job_evaluation_notes: Ekonomiska resurser är nivå 2 eftersom arbetet skapar och ändrar order som binder utgifter som andra har godkänt.
+  - title: Inköpare
+    summary: Köper varor och tjänster genom offerter och avrop från ramavtal, inklusive standardprogramvara, enheter och licenser, inom fastställda rutiner.
+    responsibilities:
+      - Genomföra offertförfrågningar och förnyade konkurrensutsättningar under ramavtal, med standardmallar och det elektroniska anbudssystemet.
+      - Köpa standardprogramvara, enheter och licenser och följa upp förnyelser och antal licenser.
+      - Kontrollera att standardkrav på säkerhet, dataskydd och tillgänglighet ingår före inköp.
+      - Förhandla priser och villkor för rutininköp.
+      - Föra ett tydligt granskningsspår och publicera meddelanden om tilldelning av avtal där reglerna kräver det.
+      - Analysera utgiftsdata för att hitta inköp utanför avtal och föreslå bättre vägar.
+    qualifications:
+      - En kvalifikation inom upphandling på certifikatnivå, en lärlingsutbildning inom upphandling eller motsvarande erfarenhet.
+      - Erfarenhet av att köpa genom offerter eller ramavtal.
+    job_evaluation_notes: Ekonomiska resurser är nivå 3 eftersom arbetet köper varor och tjänster för budgetansvarigas räkning.
+  - title: Upphandlare (officer)
+    summary: Driver upphandlingar av måttligt värde och måttlig komplexitet, inklusive formella anbudsupphandlingar, från planering till tilldelning av avtal, med en senior upphandlare tillgänglig för råd.
+    responsibilities:
+      - Genomföra formella anbudsupphandlingar och ramavtalsupphandlingar från planering till tilldelning och hantera tidplaner och förtydligande frågor.
+      - Hjälpa budgetansvariga att skriva tydliga, utfallsbaserade kravspecifikationer, inklusive tekniska krav och krav på dataskydd.
+      - Sätta upp utvärdering, kontrollera anbud för överensstämmelse, stödja utvärderare och föra protokoll från kalibreringen.
+      - Skriva tilldelningsrapporter och återkoppling till anbudsgivare och hantera avtalsspärren.
+      - Ta med frågor om socialt värde och hållbarhet som passar avtalet.
+      - Lämna över avtal till avtalsansvariga med tydliga planer för igångsättning och utträde.
+      - Utbilda budgetansvariga i hur man köper och leda upphandlingsassistenter.
+    qualifications:
+      - En erkänd yrkeskvalifikation inom upphandling på mellannivå, eller motsvarande erfarenhet.
+      - Erfarenhet av att genomföra formella anbudsupphandlingar enligt regler för offentlig upphandling.
+  - title: Senior upphandlare
+    summary: Leder komplexa upphandlingar, såsom kliniska system, molntjänster och tekniktjänster, och ger råd om rätt väg till marknaden, med stor handlingsfrihet inom upphandlingspolicyn.
+    responsibilities:
+      - Leda komplexa och högvärdiga upphandlingar och välja rätt väg till marknaden och förfarande.
+      - Leda tidig marknadsdialog och begäranden om information och hålla konkurrensen rättvis.
+      - Utforma utvärderingskriterier och viktningar tillsammans med ledare för teknik, klinik och informationsstyrning och leda kalibreringen.
+      - Se till att avtal om teknik innehåller villkor om interoperabilitet, säkerhet, dataägande, utträde och återlämnande av data.
+      - Förhandla med anbudsgivare där förfarandet tillåter det och komma överens om slutliga villkor.
+      - Ge råd om avtalsändringar, förlängningar och direkttilldelningar och risken för överprövning.
+      - Coacha och kontrollera upphandlares och inköpares arbete.
+    qualifications:
+      - En erkänd yrkeskvalifikation inom upphandling på avancerad nivå, eller motsvarande erfarenhet.
+      - Betydande erfarenhet av att leda komplexa upphandlingar, helst av teknik eller kliniska system.

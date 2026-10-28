@@ -1,0 +1,46 @@
+# Terjemahan bahasa Indonesia dari data/skills/data-testing.yaml. Kuncinya adalah id keterampilan bahasa Inggris.
+data-ai-assurance:
+  name: AI yang aman dan adil dalam layanan kesehatan
+  description: Memastikan bahwa model statistik, pembelajaran mesin, dan AI yang digunakan dalam kesehatan dan perawatan aman, adil, dapat dijelaskan, dan dipantau, termasuk memeriksa bias pada berbagai kelompok pasien dan memenuhi regulasi alat kesehatan dan AI.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bagaimana sebuah model dapat membahayakan pasien, misalnya melalui bias, pergeseran (drift), atau ketergantungan berlebihan pada keluarannya
+      - menjelaskan mengapa model perlu divalidasi pada populasi tempat model itu akan digunakan
+    working: |
+      Anda dapat:
+      - mengukur kinerja model untuk berbagai kelompok pasien dan melaporkan perbedaan apa pun
+      - mendokumentasikan tujuan penggunaan, data pelatihan, dan batasan yang diketahui dari sebuah model, misalnya dalam kartu model (model card)
+      - menyumbangkan bukti tentang sebuah model untuk kasus keselamatan klinis
+    practitioner: |
+      Anda dapat:
+      - merencanakan validasi, penilaian bias, dan pemantauan langsung sebuah model bersama rekan klinis
+      - memutuskan kapan sebuah model perlu dilatih ulang, dibatasi, atau ditarik
+      - menasihati tim tentang kapan sebuah model dapat diatur sebagai alat kesehatan dan bukti apa yang diperlukannya
+    expert: |
+      Anda dapat:
+      - menetapkan standar organisasi untuk menjamin dan memantau AI dalam perawatan
+      - memimpin penjaminan model berisiko tinggi sebelum dan sesudah penerapan
+      - mewakili organisasi di hadapan regulator dan mitra tentang AI yang aman dan adil
+data-deidentification:
+  name: Pseudonimisasi dan pengendalian pengungkapan
+  description: Melindungi kerahasiaan pasien ketika data dihubungkan, dianalisis, dibagikan, atau dipublikasikan, dengan menggunakan pseudonimisasi, anonimisasi, penekanan angka kecil, dan metode pengendalian pengungkapan statistik lainnya.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan perbedaan antara data yang dapat diidentifikasi, data yang dipseudonimkan, dan data yang dianonimkan
+      - mengikuti aturan organisasi untuk menekan angka kecil dalam keluaran
+    working: |
+      Anda dapat:
+      - bekerja dengan data yang dipseudonimkan dan menerapkan pemeriksaan pengungkapan sebelum merilis keluaran
+      - mengenali kapan data yang dihubungkan atau terperinci dapat mengidentifikasi seorang pasien
+    practitioner: |
+      Anda dapat:
+      - merancang metode pseudonimisasi dan penautan yang memisahkan pengenal dari data analisis
+      - menilai risiko reidentifikasi suatu kumpulan data atau publikasi dan memilih pengendalian yang sesuai
+      - menasihati tim tentang lingkungan yang aman, seperti lingkungan penelitian tepercaya
+    expert: |
+      Anda dapat:
+      - menetapkan standar organisasi untuk deidentifikasi dan pengendalian pengungkapan
+      - menjamin rilis data berisiko tinggi dan proyek penautan
+      - memimpin kerja bersama mitra tentang akses data yang aman untuk penelitian dan perencanaan

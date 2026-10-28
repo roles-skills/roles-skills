@@ -1,0 +1,53 @@
+summary: >
+  Prestationsanalytiker mäter hur väl organisationens digitala hälso- och vårdtjänster fungerar för patienter, tjänsteanvändare, kliniker och vårdpersonal. De sätter upp ramverk för mätning, samlar in och analyserar användnings- och utfallsdata och hjälper produktteam och tjänsteledare att förstå om förändringar förbättrar tillgång, upplevelse, säkerhet och effektivitet.
+health_context:
+  - Framgångsmått går bortom digitalt användande och omfattar effekter på vården, såsom uteblivna besök, väntetider, trygg triage och frigjord personaltid.
+  - Analys och spårning av hälso- och vårdtjänster kan avslöja känslig information, såsom vilket tillstånd en person sökt på, så mätning måste respektera samtycke, regler för kakor och sekretess.
+  - Digitala tjänster får inte vidga ojämlikhet i hälsa, så analytiker tittar på användande och utfall för grupper som är mindre benägna att använda digitala tjänster.
+  - Prestationsdata kan rapporteras till styrelser, beställare och tillsynsmyndigheter, så definitioner måste vara konsekventa och väl dokumenterade.
+levels:
+  - title: Biträdande prestationsanalytiker
+    responsibilities:
+      - Ta fram regelbundna rapporter om hur patienter och personal använder digitala tjänster, såsom registreringar, slutföranden och punkter där användare hoppar av.
+      - Kontrollera analys- och spårningsdata för luckor och fel och rapportera dem till teamet.
+      - Följa organisationens regler om samtycke och sekretess vid insamling och delning av användningsdata.
+      - Hjälpa produktteam att besvara enkla frågor om användningen av tjänster.
+    qualifications:
+      - God räknefärdighet och viss erfarenhet av att hantera eller analysera data, eller motsvarande.
+  - title: Prestationsanalytiker
+    responsibilities:
+      - Komma överens med produktteam och kliniska ledare om hur framgång ser ut för en tjänst, inklusive effekter på vård och personal.
+      - Sätta upp och validera analys så att spårning är korrekt, proportionerlig och respekterar samtycke.
+      - Kombinera digital analys med operativa data, såsom besök och remisser, för att visa effekten av förändringar.
+      - Analysera användande och utfall för olika patientgrupper och lyfta risker för digitalt utanförskap.
+      - Presentera resultat för produktteam och tjänsteledare och rekommendera förbättringar.
+    qualifications:
+      - En examen i ett numeriskt ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av att mäta digitala tjänsters prestation.
+  - title: Senior prestationsanalytiker
+    responsibilities:
+      - Leda prestationsmätning för en grupp tjänster eller ett större program, såsom digital öppenvård eller onlinetriage.
+      - Utforma nyttomått tillsammans med kliniska, ekonomiska och operativa ledare och följa dem genom leveransen.
+      - Välja och konfigurera analysverktyg som uppfyller krav på informationsstyrning och säkerhet.
+      - Presentera prestationsunderlag för programstyrgrupper och seniora ledare.
+      - Coacha analytiker och kan ha linjeansvar för en eller flera prestationsanalytiker.
+    qualifications:
+      - Betydande erfarenhet av prestationsanalys för digitala tjänster, på en nivå motsvarande en masterexamen.
+  - title: Ledande prestationsanalytiker
+    responsibilities:
+      - Leda ett team av prestationsanalytiker över en portfölj av digitala hälso- och vårdtjänster.
+      - Komma överens om konsekventa definitioner av nyckeltal så att rapporter till styrelser och partner kan jämföras över tid.
+      - Se till att analysdata är korrekta, används på rätt sätt och hanteras enligt reglerna för informationsstyrning.
+      - Använda prestationsunderlag för att påverka portföljens prioriteringar och investeringar.
+      - Coacha och handleda analytiker på alla nivåer.
+    qualifications:
+      - Omfattande erfarenhet av prestationsanalys och av att leda analytiker.
+  - title: Chef för prestationsanalys
+    responsibilities:
+      - Fastställa strategin för att mäta prestation och nyttor i organisationens digitala tjänster.
+      - Definiera ramverket för kvalitetssäkring av prestationsanalys och prestationsrapportering.
+      - Ge ledningen råd om vad prestationsunderlaget visar om digitala tjänster och patientutfall.
+      - Arbeta med andra analytiska yrken, såsom dataanalys och datavetenskap, för att dela metoder och data.
+      - Planera förmågan i gemenskapen för prestationsanalys, inklusive rekrytering och utveckling.
+    qualifications:
+      - Omfattande erfarenhet av att leda prestationsanalys i en organisation.

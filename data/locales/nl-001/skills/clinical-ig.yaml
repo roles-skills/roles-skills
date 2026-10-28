@@ -1,0 +1,228 @@
+# Dutch translations of data/skills/clinical-ig.yaml. Keys are the English skill ids.
+clin-clinical-systems-optimisation:
+  name: Ontwerp en optimalisatie van klinische systemen
+  description: Klinische systemen, zoals elektronische patiëntendossiers, orderverwerking en elektronisch voorschrijven, ontwerpen, configureren en verbeteren zodat ze passen bij klinische werkstromen en veilige, efficiënte zorg ondersteunen.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen hoe klinische systemen zoals elektronische patiëntendossiers de zorg ondersteunen
+      - de klinische werkstromen beschrijven die een systeem ondersteunt
+    working: |
+      U kunt:
+      - huidige en toekomstige klinische werkstromen samen met clinici en zorgpersoneel in kaart brengen
+      - de configuratie van een systeem testen aan de hand van klinische scenario’s
+      - duidelijke klinische eisen voor productteams schrijven
+    practitioner: |
+      U kunt:
+      - het klinische ontwerp van systeemconfiguratie, formulieren, ordersets en beslisondersteuning leiden
+      - data en terugkoppeling van gebruikers gebruiken om problemen in werkstromen te vinden en op te lossen
+      - klinische behoefte, veiligheid, bruikbaarheid en beperkingen van het systeem afwegen
+    expert: |
+      U kunt:
+      - ontwerpbeginselen en normen voor klinische systemen in de hele organisatie vaststellen
+      - optimalisatieprogramma’s leiden die de zorg en de ervaring van personeel meetbaar verbeteren
+      - senior leiders adviseren over keuzes van klinische systemen en hun effect op de zorg
+clin-human-factors:
+  name: Human factors en bruikbaarheid in klinische systemen
+  description: Methoden van human factors en bruikbaarheid toepassen op klinische systemen, zodat clinici, zorgpersoneel en patiënten ze veilig en met zo min mogelijk fouten kunnen gebruiken.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen hoe slecht ontwerp tot fouten in de zorg kan leiden
+      - problemen met bruikbaarheid melden die de patiëntveiligheid kunnen raken
+    working: |
+      U kunt:
+      - deelnemen aan bruikbaarheidstesten en simulaties van klinische taken
+      - veelvoorkomende gevaren in ontwerp opmerken, zoals opties die op elkaar lijken of verborgen waarschuwingen
+    practitioner: |
+      U kunt:
+      - beoordelingen van human factors van klinische systemen plannen en uitvoeren
+      - bevindingen omzetten in wijzigingen van het ontwerp en beheersmaatregelen voor klinische veiligheid
+      - de last van waarschuwingen en het risico van omwegen beoordelen
+    expert: |
+      U kunt:
+      - de aanpak van de organisatie voor human factors in digitale diensten vaststellen
+      - het bewijs over human factors voor systemen en wijzigingen met hoog risico toetsen
+      - vaardigheden op het gebied van human factors opbouwen bij klinische en digitale teams
+clin-digital-health-evaluation:
+  name: Evaluatie en baten van digitale gezondheid
+  description: Evaluaties van digitale gezondheidstechnologieën plannen en uitvoeren en hun klinische, veiligheids- en dienstbaten meten met deugdelijke methoden en bewijs.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom digitale gezondheidstechnologieën bewijs van baat en veiligheid nodig hebben
+      - gepubliceerd bewijs over een technologie vinden
+    working: |
+      U kunt:
+      - nulmetingen en data voor opvolging voor een evaluatie verzamelen
+      - klinische audits van het gebruik van systemen uitvoeren
+      - bevindingen van evaluaties voor collega’s samenvatten
+    practitioner: |
+      U kunt:
+      - evaluaties en plannen voor baten voor digitale producten voor gezondheid ontwerpen
+      - geschikte maten kiezen voor klinische uitkomsten, veiligheid en ervaring
+      - de sterkte van bewijs beoordelen en haar grenzen uitleggen
+    expert: |
+      U kunt:
+      - de aanpak van de organisatie voor evaluatie van digitale gezondheid vaststellen
+      - programma’s voor onderzoek en evaluatie leiden met academische partners en partners in de zorg
+      - bewijs gebruiken om het bestuur te adviseren over digitale investeringen
+clin-professional-practice:
+  name: Geregistreerde klinische praktijk in digitaal
+  description: Actuele, geregistreerde klinische kennis en klinisch oordeel inbrengen in digitaal werk en daarbij voldoen aan de normen, ethiek en plichten voor herregistratie van een klinisch beroep.
+  levels:
+    awareness: |
+      U kunt:
+      - de professionele normen uitleggen die voor een geregistreerde clinicus gelden
+      - herkennen wanneer een vraag een klinische mening nodig heeft
+    working: |
+      U kunt:
+      - uw klinische kennis toepassen op digitaal werk binnen uw bevoegdheid
+      - uw registratie en voortdurende professionele ontwikkeling actueel houden
+      - klinische meningen geven over werkstromen, content en veiligheid
+    practitioner: |
+      U kunt:
+      - gedegen klinische oordelen vormen over het effect van digitale diensten op de zorg
+      - onveilige praktijk, in digitale of klinische omgevingen, met vertrouwen aankaarten
+      - andere clinici ondersteunen hun professionele normen toe te passen op digitaal werk
+    expert: |
+      U kunt:
+      - leiding geven aan klinische professionele normen voor het digitale werk van de organisatie
+      - optreden als senior klinische stem bij beslissingen over patiëntveiligheid en zorg
+      - de herregistratie en professionele ontwikkeling van clinici in digitale rollen ondersteunen
+ig-information-rights-requests:
+  name: Verzoeken om informatierechten
+  description: Verzoeken van individuen en het publiek om toegang tot informatie afhandelen, zoals verzoeken om toegang tot persoonlijke gezondheidsdossiers en verzoeken om informatie die de organisatie bewaart, binnen wettelijke termijnen.
+  levels:
+    awareness: |
+      U kunt:
+      - een verzoek om informatierechten herkennen en het snel doorgeven
+      - uitleggen dat verzoeken wettelijke termijnen hebben
+    working: |
+      U kunt:
+      - verzoeken registreren, bevestigen en volgen om termijnen te halen
+      - informatie verzamelen en onleesbaar maken en antwoorden opstellen ter toetsing
+      - de identiteit en bevoegdheid van degene die het verzoek doet controleren
+    practitioner: |
+      U kunt:
+      - complexe of gevoelige verzoeken afhandelen, ook die derden betreffen
+      - uitzonderingen toepassen en beslissen wat wordt achtergehouden, met duidelijke redenen
+      - interne toetsingen en klachten over antwoorden beheren
+    expert: |
+      U kunt:
+      - het beleid en proces voor informatierechten in de hele organisatie vaststellen
+      - de reactie op vragen en beroepen van de toezichthouder leiden
+      - over prestaties en trends rapporteren aan senior leiders
+ig-records-retention:
+  name: Bewaring en afvoer van dossiers
+  description: Schema’s voor bewaring toepassen op papieren en digitale dossiers en ze op het juiste moment archiveren of veilig vernietigen, met een spoor van audit.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom dossiers gedurende vaste termijnen worden bewaard en daarna worden vernietigd of gearchiveerd
+      - procedures voor opslag en verplaatsing van dossiers volgen
+    working: |
+      U kunt:
+      - het schema voor bewaring op dossiers toepassen en dossiers markeren die aan toetsing toe zijn
+      - dossiers voorbereiden voor archivering of veilige vernietiging en het spoor van audit bijhouden
+    practitioner: |
+      U kunt:
+      - het programma voor bewaring en afvoer voor een dienst voor dossiers uitvoeren
+      - teams adviseren over bewaring van nieuwe soorten dossiers, ook digitale
+      - de naleving van schema’s voor bewaring auditen
+    expert: |
+      U kunt:
+      - het beleid en schema voor bewaring van de organisatie vaststellen
+      - langetermijnbehoud van digitale dossiers plannen
+      - complexe vragen over bewaring oplossen, zoals juridische bewaring en onderzoeken
+ig-data-protection-impact-assessment:
+  name: Beoordeling van gevolgen voor gegevensbescherming
+  description: De privacyrisico’s beoordelen van nieuwe of gewijzigde verwerking van persoonsgegevens en gezondheidsdata en beheersmaatregelen afspreken voordat de verwerking begint.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen wanneer een beoordeling van gevolgen voor gegevensbescherming nodig is
+      - een screeningsvragenlijst voor uw werk invullen
+    working: |
+      U kunt:
+      - projectteams helpen beoordelingen van gevolgen voor gegevensbescherming te voltooien
+      - datastromen beschrijven en de rechtsgrond voor verwerking vaststellen
+      - privacyrisico’s en voorgestelde beheersmaatregelen vastleggen
+    practitioner: |
+      U kunt:
+      - beoordelingen van gevolgen voor gegevensbescherming voor complexe systemen toetsen en erover adviseren
+      - beoordelen of risico’s aanvaardbaar zijn en beheersmaatregelen aanbevelen
+      - beslissen wanneer hoge risico’s worden geëscaleerd voor toetsing door senior leiders of de toezichthouder
+    expert: |
+      U kunt:
+      - het proces en de normen van de organisatie voor beoordelingen van gevolgen voor gegevensbescherming vaststellen
+      - het definitieve advies geven over de verwerking met het hoogste risico, zoals grootschalig delen van data of AI
+      - de toezichthouder raadplegen waar de wet dat vereist
+ig-incident-management:
+  name: Incidentmanagement voor informatiebeheer
+  description: Datalekken en bijna-incidenten vastleggen, onderzoeken en ervan leren en beslissen wanneer toezichthouders en de getroffen mensen worden geïnformeerd.
+  levels:
+    awareness: |
+      U kunt:
+      - een datalek of bijna-incident herkennen en het direct melden
+    working: |
+      U kunt:
+      - incidenten registreren en de feiten verzamelen
+      - incidenten beoordelen aan de hand van de criteria voor ernst van de organisatie
+      - acties volgen tot afsluiting
+    practitioner: |
+      U kunt:
+      - ernstige incidenten onderzoeken en hun grondoorzaken vinden
+      - samen met senior collega’s beslissen of toezichthouders en getroffen mensen worden geïnformeerd
+      - lessen delen en verbeteringen volgen
+    expert: |
+      U kunt:
+      - het proces voor incidentmanagement voor informatiebeheer vaststellen
+      - de reactie op grote lekken leiden, ook met toezichthouders en de media
+      - over trends en risico’s van incidenten rapporteren aan het bestuur
+ig-confidentiality-and-sharing:
+  name: Vertrouwelijkheid en delen van informatie
+  description: Vertrouwelijke patiëntinformatie beschermen en tegelijk zorgen dat zij rechtmatig wordt gedeeld wanneer zorg, veiligheid of de wet dat vraagt, ook via overeenkomsten voor het delen van informatie.
+  levels:
+    awareness: |
+      U kunt:
+      - vertrouwelijke informatie veilig houden en haar alleen delen wanneer u dat mag
+      - om advies vragen wanneer u het niet zeker weet
+    working: |
+      U kunt:
+      - controleren of een verzoek om informatie te delen voldoet aan het beleid
+      - bijhouden wat met wie en waarom is gedeeld
+      - eenvoudige overeenkomsten voor het delen van informatie opstellen
+    practitioner: |
+      U kunt:
+      - adviseren over complexe vragen over vertrouwelijkheid, zoals delen zonder toestemming in het algemeen belang
+      - overeenkomsten voor het delen van informatie met partnerorganisaties toetsen
+      - regels voor toestemming en bezwaar van patiënten toepassen op datastromen
+    expert: |
+      U kunt:
+      - optreden als senior adviseur voor vertrouwelijkheid van de organisatie
+      - de moeilijkste beslissingen over openbaarmaking oplossen
+      - het kader voor het delen van informatie met partners vaststellen
+ig-compliance-assurance:
+  name: Borging en audit van informatiebeheer
+  description: Controleren en aantonen dat de organisatie voldoet aan normen voor informatiebeheer, via jaarlijkse zelfbeoordelingen, audits, bewijs en verbeterplannen.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom de organisatie moet aantonen dat zij goed met informatie omgaat
+      - bewijs voor een audit leveren wanneer daarom wordt gevraagd
+    working: |
+      U kunt:
+      - bewijs voor de jaarlijkse zelfbeoordeling verzamelen en ordenen
+      - eenvoudige audits uitvoeren, zoals audits van toegang of het bijhouden van dossiers
+      - verbeteracties volgen
+    practitioner: |
+      U kunt:
+      - het programma voor borging van informatiebeheer plannen en uitvoeren
+      - beoordelen of bewijs aan de norm voldoet en hiaten vaststellen
+      - samenwerken met interne en externe auditors
+    expert: |
+      U kunt:
+      - eigenaar zijn van het kader voor borging van informatiebeheer van de organisatie
+      - over borging en naleving rapporteren aan het bestuur en zijn commissies
+      - prioriteiten voor verbetering stellen op basis van risico

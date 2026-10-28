@@ -1,0 +1,97 @@
+# Mô tả các bậc bằng tiếng Việt. Khóa là mã bậc tiếng Anh.
+"1":
+  title: Bậc 1
+  stage: Mới bắt đầu
+  knowledge: Biết đọc, biết viết và tính toán cơ bản; học các công việc thường ngày đơn giản ngay tại nơi làm việc.
+  autonomy: Làm theo hướng dẫn rõ ràng; công việc được kiểm tra thường xuyên.
+  scope: Các công việc thường ngày của bản thân.
+  leadership: Không có.
+  accountability: Hoàn thành chính xác các công việc thường ngày.
+"2":
+  title: Bậc 2
+  stage: Hỗ trợ
+  knowledge: Nắm được các quy trình và thông lệ của lĩnh vực công việc; có thể có bằng cấp đầu vào.
+  autonomy: Làm việc theo quy trình đã định, có người giám sát khi cần.
+  scope: Các nhiệm vụ của bản thân trong một nhóm.
+  leadership: Có thể hướng dẫn người mới các công việc thường ngày.
+  accountability: Chất lượng và tính đúng hạn của công việc thường ngày của bản thân.
+"3":
+  title: Bậc 3
+  stage: Hỗ trợ
+  knowledge: Hiểu biết về nhiều quy trình, một số không thường xuyên; thường có bằng cấp mức 3 hoặc kinh nghiệm tương đương.
+  autonomy: Làm việc trong khuôn khổ quy trình; tự quyết định cách sắp xếp công việc của mình; báo cáo lên cấp trên khi có vấn đề.
+  scope: Công việc của bản thân và một số nhiệm vụ cho cả nhóm.
+  leadership: Có thể phân công công việc thường ngày hoặc hướng dẫn người khác về quy trình.
+  accountability: Độ chính xác của công việc và của các hồ sơ mình lưu giữ.
+"4":
+  title: Bậc 4
+  stage: Hỗ trợ và thực hành ban đầu
+  knowledge: Hiểu biết chi tiết về lĩnh vực công việc, thường có từ bằng cao đẳng, học nghề hoặc kinh nghiệm tương đương.
+  autonomy: Làm việc trong khuôn khổ hướng dẫn; giải quyết hầu hết các vấn đề hằng ngày; có quản lý để xin ý kiến.
+  scope: Công việc của bản thân và một dịch vụ hoặc quy trình được xác định.
+  leadership: Có thể giám sát một nhóm nhỏ hoặc điều phối công việc của người khác.
+  accountability: Việc thực hiện một dịch vụ hoặc quy trình được xác định.
+"5":
+  title: Bậc 5
+  stage: Chuyên viên
+  knowledge: Kiến thức chuyên môn hoặc kỹ thuật, thường có từ bằng đại học hoặc kinh nghiệm tương đương.
+  autonomy: Làm việc theo các mục tiêu chung trong khuôn khổ chuẩn mực nghề nghiệp; tự lập kế hoạch công việc.
+  scope: Công việc chuyên môn của bản thân trong một nhóm hoặc sản phẩm.
+  leadership: Có thể hướng dẫn và kiểm tra công việc của nhân viên hỗ trợ và học viên học nghề.
+  accountability: Chất lượng công việc chuyên môn của bản thân.
+"6":
+  title: Bậc 6
+  stage: Chuyên viên có kinh nghiệm
+  knowledge: Kiến thức chuyên sâu về nhiều quy trình, được xây dựng qua đào tạo thêm hoặc kinh nghiệm.
+  autonomy: Làm việc độc lập; diễn giải chính sách cho lĩnh vực của mình; xin ý kiến về các vấn đề phức tạp.
+  scope: Một sản phẩm, dịch vụ hoặc mảng công việc.
+  leadership: Có thể dẫn dắt một nhóm nhỏ hoặc kèm cặp đồng nghiệp.
+  accountability: Kết quả của mảng công việc của mình và chất lượng lời khuyên đưa ra.
+"7":
+  title: Bậc 7
+  stage: Cấp cao hoặc chuyên gia
+  knowledge: Kiến thức chuyên sâu ở mức cao, thường tương đương trình độ thạc sĩ hoặc kinh nghiệm tương đương.
+  autonomy: Làm việc theo chính sách của tổ chức; tự quyết định cách đạt kết quả; là chuyên gia mà người khác tham vấn.
+  scope: Một số sản phẩm hoặc dịch vụ, hoặc một chức năng chuyên môn.
+  leadership: Dẫn dắt một nhóm hoặc một lĩnh vực thực hành chuyên môn.
+  accountability: Việc cung cấp một dịch vụ hoặc chức năng chuyên môn, và ngân sách nếu được giao.
+8a:
+  title: Bậc 8a
+  stage: Trưởng nhóm
+  knowledge: Kiến thức chuyên gia về một lĩnh vực và cách quản lý lĩnh vực đó.
+  autonomy: Diễn giải chính sách của tổ chức cho một dịch vụ; xác định định hướng cho nhóm.
+  scope: Một mảng dịch vụ hoặc một lĩnh vực chuyên môn trong toàn tổ chức.
+  leadership: Quản lý một nhóm, hoặc dẫn dắt một lĩnh vực chuyên môn mà không quản lý trực tiếp.
+  accountability: Một mảng dịch vụ, nhân sự và ngân sách của mảng đó.
+8b:
+  title: Bậc 8b
+  stage: Trưởng nhóm
+  knowledge: Kiến thức chuyên gia trên nhiều lĩnh vực hoặc một dịch vụ lớn.
+  autonomy: Định hình chính sách và chiến lược cho một mảng lớn.
+  scope: Nhiều dịch vụ hoặc nhóm, hoặc một lĩnh vực chuyên môn ở cấp chủ chốt.
+  leadership: Quản lý các quản lý, hoặc là người có thẩm quyền cao nhất trong một lĩnh vực chuyên môn.
+  accountability: Nhiều dịch vụ, nhân sự và ngân sách của các dịch vụ đó.
+8c:
+  title: Bậc 8c
+  stage: Lãnh đạo cấp cao
+  knowledge: Kiến thức chuyên gia, cùng hiểu biết rộng về tổ chức và ngành.
+  autonomy: Đề ra chiến lược cho một chức năng; chịu trách nhiệm trước một giám đốc.
+  scope: Một chức năng hoặc một phòng ban.
+  leadership: Dẫn dắt một chức năng qua nhiều tầng quản lý.
+  accountability: Hiệu quả hoạt động, lực lượng lao động và ngân sách của một chức năng.
+8d:
+  title: Bậc 8d
+  stage: Lãnh đạo cấp cao
+  knowledge: Kiến thức chiến lược trên nhiều chức năng và toàn hệ thống y tế và chăm sóc.
+  autonomy: Định hình chiến lược toàn tổ chức; thay mặt giám đốc khi vắng mặt.
+  scope: Một chức năng lớn hoặc nhiều chức năng.
+  leadership: Dẫn dắt nhiều chức năng hoặc một phòng ban lớn.
+  accountability: Các chức năng lớn, ngân sách lớn và rủi ro toàn tổ chức.
+"9":
+  title: Bậc 9
+  stage: Trưởng ngành nghề hoặc giám đốc
+  knowledge: Chuyên môn chiến lược và năng lực lãnh đạo toàn hệ thống.
+  autonomy: Cùng ban điều hành đề ra chiến lược của tổ chức.
+  scope: Toàn tổ chức và các đối tác của tổ chức trong hệ thống.
+  leadership: Dẫn dắt một ngành nghề hoặc một ban.
+  accountability: Kết quả, ngân sách và rủi ro toàn tổ chức.

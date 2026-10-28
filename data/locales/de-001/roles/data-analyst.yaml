@@ -1,0 +1,46 @@
+summary: Datenanalystinnen und -analysten verwandeln Gesundheits- und Pflegedaten in Informationen, die klinischem Personal, Führungskräften und Planenden bei Entscheidungen helfen. Sie bereiten Daten aus klinischen, betrieblichen und von Patienten berichteten Quellen auf, verknüpfen und analysieren sie und stellen sie in Berichten, Dashboards und Briefings dar. Sie stellen sicher, dass ihre Analyse genau und reproduzierbar ist und vertrauliche Patientendaten sicher behandelt.
+health_context:
+- Ein Großteil der Daten beschreibt einzelne Patientinnen und Patienten; Analystinnen und Analysten arbeiten daher, wo möglich, mit pseudonymisierten Daten und prüfen Ergebnisse vor der Freigabe auf Offenlegungsrisiko.
+- Gesundheitsdaten werden mit klinischen Terminologien und Klassifikationen wie SNOMED CT und ICD erfasst; Analystinnen und Analysten müssen daher wissen, wie Codes verwendet werden und wo sie in die Irre führen können.
+- Die Datenqualität unterscheidet sich zwischen Versorgungseinrichtungen und Systemen, und Lücken betreffen oft manche Patientengruppen stärker als andere; Analystinnen und Analysten prüfen daher vor Schlussfolgerungen auf Verzerrung.
+- Analysen können verändern, wie Dienste geplant, finanziert und erbracht werden; Ergebnisse brauchen daher klare Einschränkungen und dürfen Sicherheit nicht überzeichnen.
+levels:
+- title: Associate Datenanalyst/in
+  responsibilities:
+  - Regelmäßige Berichte und Dashboards zu Aktivität, Wartezeiten und Dienstnutzung nach vereinbarten Methoden erstellen.
+  - Auszüge aus Patientenverwaltungs-, klinischen und betrieblichen Systemen unter Aufsicht bereinigen und aufbereiten.
+  - Ergebnisse anhand von Datenqualitätsregeln prüfen und Probleme an die richtige Dateneigentümerin oder den richtigen Dateneigentümer melden.
+  - Unterdrückung kleiner Zahlen und andere Offenlegungsregeln anwenden, bevor Ergebnisse weitergegeben werden.
+  - Einfache Datenanfragen von klinischen und betrieblichen Teams beantworten.
+  qualifications:
+  - Ein Studienabschluss in einem zahlenorientierten Fach, eine Ausbildung in Analytik oder gleichwertige Erfahrung.
+- title: Datenanalyst/in
+  responsibilities:
+  - Analysen entwerfen und durchführen, die Fragen klinischer, betrieblicher und planender Teams beantworten.
+  - Daten auf Patientenebene aus verschiedenen Quellen sicher verknüpfen, mit pseudonymisierten Kennungen und vereinbarten Verknüpfungsmethoden.
+  - Reproduzierbaren Analysecode schreiben und Methoden, Annahmen und Datenquellen dokumentieren.
+  - Klinischem Personal und Führungskräften Ergebnisse und ihre Grenzen in einfacher Sprache erklären.
+  - Analysen auf Verzerrung über Patientengruppen hinweg prüfen, etwa nach Alter, Geschlecht, Herkunft und Benachteiligung.
+  - Associate-Analystinnen und -Analysten unterstützen und ihre Arbeit prüfen.
+  qualifications:
+  - Ein Studienabschluss in einem zahlenorientierten Fach oder gleichwertige Erfahrung.
+  - Erfahrung im Analysieren und Darstellen komplexer Daten.
+- title: Senior-Datenanalyst/in
+  responsibilities:
+  - Analysen für einen Leistungsbereich, etwa Akutversorgung, Krebs oder psychische Gesundheit, leiten und Prioritäten mit dessen Leitungen vereinbaren.
+  - Methoden und Qualitätssicherung für die Analysen des Teams festlegen, einschließlich Peer-Review von Code und Ergebnissen.
+  - Komplexe Verknüpfungsprojekte über Versorgungseinrichtungen hinweg leiten und ihre informationsgovernance-rechtliche Grundlage vereinbaren.
+  - Ergebnisse vor leitenden klinischen und Managementgremien präsentieren und dazu beraten, was sie für die Dienste bedeuten.
+  - Mit Dateningenieurinnen, Dateningenieuren und Dateneigentümern die Ursachen schlechter Datenqualität beheben.
+  - Analystinnen und Analysten im Team anleiten und entwickeln.
+  qualifications:
+  - Umfangreiche Erfahrung in der Leitung von Datenanalysen, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Principal-Datenanalyst/in
+  responsibilities:
+  - Die Standards der Organisation für Datenanalyse, Qualitätssicherung und reproduzierbare analytische Praxis festlegen.
+  - Geschäftsleitung und klinische Leitungen zur Evidenz hinter wichtigen Entscheidungen über Dienste und Investitionen beraten.
+  - Die analytische Community führen, einschließlich ihrer Schulung, Werkzeuge und Karriereentwicklung.
+  - Vereinbarungen zu Datenaustausch und Verknüpfung mit Partnern in Gesundheit und Pflege mitgestalten.
+  - Senior-Analystinnen und -Analysten in der Linie führen und sicherstellen, dass das Team die nötigen Kapazitäten und Kompetenzen hat.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Datenanalyse in einer Organisation.

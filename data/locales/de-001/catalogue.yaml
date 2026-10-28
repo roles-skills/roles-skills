@@ -1,0 +1,92 @@
+# Family and role titles in German. Keys are the English ids. Slugs are made
+# from the titles.
+families:
+  software-development: {title: Softwareentwicklung}
+  architecture: {title: Architektur}
+  data: {title: Daten}
+  product-and-delivery: {title: Produkt und Lieferung}
+  user-centred-design: {title: Nutzerzentriertes Design}
+  it-operations: {title: IT-Betrieb}
+  cyber-security: {title: Cybersicherheit}
+  quality-assurance-testing: {title: Qualitätssicherung und Test}
+  clinical-informatics: {title: Klinische Informatik und klinische Sicherheit}
+  information-governance: {title: Informationsgovernance}
+  finance: {title: Finanzen}
+  legal: {title: Recht}
+  human-resources: {title: Personal}
+  procurement: {title: Einkauf und Vertragswesen}
+  corporate-services: {title: Zentrale Dienste}
+roles:
+  software-developer: {title: Softwareentwickler/in}
+  frontend-developer: {title: Frontend-Entwickler/in}
+  devops-engineer: {title: DevOps-Ingenieur/in}
+  integration-engineer: {title: Integrationsingenieur/in (Interoperabilität im Gesundheitswesen)}
+  enterprise-architect: {title: Unternehmensarchitekt/in}
+  solution-architect: {title: Lösungsarchitekt/in}
+  technical-architect: {title: Technische/r Architekt/in}
+  data-architect: {title: Datenarchitekt/in}
+  security-architect: {title: Sicherheitsarchitekt/in}
+  network-architect: {title: Netzwerkarchitekt/in}
+  business-architect: {title: Geschäftsarchitekt/in}
+  data-analyst: {title: Datenanalyst/in}
+  performance-analyst: {title: Leistungsanalyst/in}
+  data-engineer: {title: Dateningenieur/in}
+  analytics-engineer: {title: Analytics-Ingenieur/in}
+  data-scientist: {title: Data Scientist}
+  machine-learning-engineer: {title: Machine-Learning-Ingenieur/in}
+  data-governance-manager: {title: Manager/in Data Governance}
+  clinical-coder: {title: Klinische/r Kodierer/in}
+  business-analyst: {title: Business-Analyst/in}
+  delivery-manager: {title: Delivery-Manager/in}
+  product-manager: {title: Produktmanager/in}
+  project-manager: {title: Projektmanager/in}
+  programme-delivery-manager: {title: Programm-Delivery-Manager/in}
+  digital-portfolio-manager: {title: Manager/in des digitalen Portfolios}
+  service-owner: {title: Service Owner}
+  user-researcher: {title: Nutzerforscher/in}
+  service-designer: {title: Service-Designer/in}
+  interaction-designer: {title: Interaktionsdesigner/in}
+  content-designer: {title: Content-Designer/in}
+  accessibility-specialist: {title: Spezialist/in für Barrierefreiheit}
+  service-desk-analyst: {title: Service-Desk-Analyst/in}
+  end-user-computing-engineer: {title: Ingenieur/in für Endnutzer-IT}
+  infrastructure-engineer: {title: Infrastrukturingenieur/in}
+  application-operations-engineer: {title: Ingenieur/in für Anwendungsbetrieb}
+  it-service-manager: {title: IT-Servicemanager/in}
+  incident-manager: {title: Incident-Manager/in}
+  problem-manager: {title: Problem-Manager/in}
+  change-and-release-manager: {title: Change- und Release-Manager/in}
+  security-analyst: {title: Analyst/in für Sicherheitsbetrieb}
+  security-engineer: {title: Sicherheitsingenieur/in}
+  cyber-security-manager: {title: Manager/in Cybersicherheit}
+  quality-assurance-test-analyst: {title: Testanalyst/in Qualitätssicherung}
+  test-engineer: {title: Testingenieur/in}
+  test-manager: {title: Testmanager/in}
+  clinical-informatician: {title: Klinische/r Informatiker/in}
+  clinical-safety-officer: {title: Beauftragte/r für klinische Sicherheit}
+  chief-clinical-information-officer: {title: Chief Clinical Information Officer}
+  records-officer: {title: Sachbearbeiter/in Patientenakten}
+  information-governance-officer: {title: Beauftragte/r für Informationsgovernance}
+  data-protection-officer: {title: Datenschutzbeauftragte/r}
+  finance-officer: {title: Finanzsachbearbeiter/in}
+  payroll-officer: {title: Lohn- und Gehaltsbuchhalter/in}
+  management-accountant: {title: Controller/in}
+  financial-accountant: {title: Finanzbuchhalter/in}
+  head-of-finance: {title: Leiter/in Finanzen}
+  legal-assistant: {title: Rechtsassistent/in}
+  legal-adviser: {title: Rechtsberater/in}
+  head-of-legal: {title: Leiter/in Recht}
+  hr-officer: {title: Personalsachbearbeiter/in}
+  recruitment-officer: {title: Recruiter/in}
+  hr-business-partner: {title: HR-Business-Partner/in}
+  learning-and-development-specialist: {title: Spezialist/in für Lernen und Entwicklung}
+  head-of-people: {title: Leiter/in Personal}
+  procurement-officer: {title: Einkäufer/in}
+  category-manager: {title: Category-Manager/in}
+  contract-manager: {title: Vertragsmanager/in}
+  head-of-procurement: {title: Leiter/in Einkauf}
+  administrator: {title: Verwaltungsangestellte/r}
+  executive-assistant: {title: Vorstandsassistent/in}
+  project-support-officer: {title: Projektassistent/in}
+  governance-and-risk-manager: {title: Manager/in Governance und Risiko}
+  communications-officer: {title: Kommunikationsreferent/in}

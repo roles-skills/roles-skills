@@ -1,0 +1,66 @@
+summary: Regnskabsmedarbejdere sikrer, at organisationens regnskaber er fuldstændige og korrekte og følger regnskabsstandarderne og den offentlige sektors rapporteringsregler. De styrer balancen, udarbejder årsregnskabet og de lovpligtige indberetninger, styrer likviditet og kasse, regnskabsfører aktiver og samarbejder med revisorer. I en digital sundheds- og plejeorganisation kommer meget af kompleksiteten fra regnskabsføring af software, dataaktiver, cloud-aftaler og teknologikontrakter over flere år.
+health_context:
+- Regnskabsføring af digitale udgifter kræver skøn, for eksempel om softwareudvikling, konfiguration af cloudtjenester eller licenser kan behandles som investeringsaktiver.
+- Organisationen skal aflægge regnskab for offentlige midler over for finansieringsgivere og tilsynsorganer, ofte under strenge grænser for investering og likviditet.
+- Licens- og supportkontrakter over flere år skaber forudbetalinger, forpligtelser og nogle gange leasingaftaler, som skal regnskabsføres korrekt.
+- Immaterielle aktiver, såsom software som organisationen bygger, skal værdisættes, afskrives og gennemgås for værdiforringelse, efterhånden som produkter ændres.
+- Ekstern revision af offentlige organer er grundig og offentlig, så dokumentation og arbejdspapirer skal være af høj standard.
+levels:
+- title: Trainee-regnskabsmedarbejder
+  summary: Trainee-regnskabsmedarbejdere udarbejder balanceafstemninger, posteringer og arbejdspapirer til regnskaberne og arbejder samtidig hen imod en anerkendt regnskabsuddannelse.
+  responsibilities:
+  - Udarbejde balanceafstemninger og afvikle afstemningsposter.
+  - Bogføre posteringer til måneds- og årsafslutning, såsom periodiseringer, forudbetalinger og afskrivninger.
+  - Vedligeholde anlægsregistret, herunder software- og hardwareaktiver.
+  - Udarbejde arbejdspapirer og dokumentation til årsregnskabet og revisionen.
+  - Udarbejde oplysninger om pengestrømme og bankafstemninger.
+  - Arbejde hen imod en anerkendt regnskabsuddannelse.
+  qualifications:
+  - En bacheloruddannelse eller regnskabsuddannelse på mellemniveau og i gang med en anerkendt regnskabsuddannelse, eller tilsvarende erfaring.
+  job_evaluation_notes: Viden scores på det niveau, jobbet kræver, når oplæringen er så vidt fremskreden, at arbejdet kan udføres.
+- title: Regnskabsmedarbejder
+  summary: Regnskabsmedarbejdere er uddannede revisorer og regnskabsfolk, der styrer balancen og udarbejder dele af årsregnskabet, de lovpligtige indberetninger og skatteangivelserne.
+  responsibilities:
+  - Styre måneds- og årsafslutningen af balancen.
+  - Udarbejde dele af årsregnskabet og tilhørende noter.
+  - Regnskabsføre investeringsudgifter, herunder afgøre, hvilke digitale omkostninger der kan aktiveres.
+  - Udarbejde momsangivelser og rådgive om den skattemæssige behandling af kontrakter.
+  - Besvare revisorernes spørgsmål og aftale handlinger på baggrund af deres bemærkninger.
+  - Føre tilsyn med og udvikle trainee-regnskabsmedarbejdere.
+  qualifications:
+  - En anerkendt regnskabsuddannelse eller tilsvarende erfaring.
+- title: Senior regnskabsmedarbejder
+  summary: Seniorregnskabsmedarbejdere leder processen for årsregnskabet og regnskabsføringen af komplekse områder, såsom immaterielle aktiver, leasing og cloud-aftaler.
+  responsibilities:
+  - Planlægge og lede tidsplanen for årsregnskabet og den eksterne revision.
+  - Skrive regnskabsnotater om komplekse skøn, såsom aktivering af omkostninger til softwareudvikling eller cloudkonfiguration.
+  - Styre investeringsregnskabet, herunder aktivernes levetid, afskrivning og værdiforringelse af softwareaktiver.
+  - Styre likviditetsprognoser og træk på finansieringen inden for likviditetsgrænserne.
+  - Udarbejde lovpligtige indberetninger og indberetninger til finansieringsgivere, såsom konsolidering og investeringsindberetninger.
+  - Styre og udvikle et lille team af regnskabsmedarbejdere.
+  qualifications:
+  - En anerkendt regnskabsuddannelse med betydelig erfaring efter uddannelsen, eller tilsvarende.
+  job_evaluation_notes: Økonomiske ressourcer er niveau 4, fordi jobbet styrer organisationens likviditetsstilling og investeringsregnskab.
+- title: Chef for regnskab
+  summary: Regnskabschefer driver regnskab, likviditet og skat for organisationen og sikrer, at kontroller og revisionshandlinger er på plads.
+  responsibilities:
+  - Styre funktionerne for regnskab, likviditet og skat.
+  - Eje organisationens regnskabspraksis og dens anvendelse på nye typer udgifter, såsom cloud- og datatjenester.
+  - Styre bankkonti, bankaftaler og likviditetsprognosen.
+  - Styre skatteoverholdelse og skatterisiko, herunder i teknologikontrakter og fælles services.
+  - Lede indsatsen over for interne og eksterne revisionsbemærkninger om regnskab og kontroller.
+  - Have personaleansvar for regnskabsmedarbejdere og likviditetsmedarbejdere.
+  qualifications:
+  - En anerkendt regnskabsuddannelse med omfattende erfaring efter uddannelsen.
+  job_evaluation_notes: Økonomiske ressourcer er niveau 5, fordi jobbet styrer organisationens bankforhold, likviditet og aktiver på tværs af alle services.
+- title: Regnskabsdirektør
+  summary: Regnskabsafdelingens chef leder organisationens lovpligtige rapportering, økonomiske kontrol, likviditet og skat og er hovedkontakten for eksterne revisorer.
+  responsibilities:
+  - Lede udarbejdelsen af årsrapporten og regnskabet og præsentere dem for revisionsudvalget.
+  - Rådgive direktører og revisionsudvalget om væsentlige regnskabsmæssige skøn og nye standarder.
+  - Eje de økonomiske regler, de økonomiske procedurer og delegationsordningen.
+  - Lede relationen til eksterne revisorer og tilsynsorganer om økonomisk rapportering.
+  - Fastlægge likviditets- og skattepolitik og styre økonomiske risici.
+  - Lede og udvikle teams for regnskab, likviditet og transaktioner.
+  qualifications:
+  - En anerkendt regnskabsuddannelse med omfattende erfaring efter uddannelsen, herunder ledelse af lovpligtig rapportering.

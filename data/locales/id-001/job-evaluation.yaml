@@ -1,0 +1,158 @@
+# Faktor penilaian jabatan dalam bahasa Indonesia. Kuncinya adalah id faktor bahasa Inggris.
+communication:
+  name: Keterampilan komunikasi dan hubungan
+  description: Keterampilan yang diperlukan untuk berkomunikasi dengan, dan membangun hubungan dengan, rekan kerja, pasien, masyarakat, dan mitra. Mempertimbangkan seberapa kompleks, sensitif, atau kontroversial informasinya, dan hambatan apa pun terhadap pemahaman atau penerimaan.
+  levels:
+    "1": Memberi dan menerima informasi rutin secara lisan, terutama dengan rekan kerja.
+    "2": Memberi dan menerima informasi rutin secara lisan, tertulis, atau elektronik, dengan rekan kerja dan pihak lain.
+    "3": Memberi informasi rutin yang memerlukan kebijaksanaan atau bujukan, atau informasi yang kompleks atau sensitif, atau pelatihan sederhana kepada kelompok.
+    "4": Memberi informasi yang kompleks, sensitif, atau kontroversial yang memerlukan keterampilan membujuk, bernegosiasi, atau melatih, atau informasi yang sangat kompleks.
+    "5": Memberi informasi yang sangat kompleks atau kontroversial yang memerlukan keterampilan membujuk dan bernegosiasi yang berkembang, mempresentasikan kepada kelompok besar, atau berkomunikasi ketika ada hambatan besar terhadap penerimaan.
+    "6": Memberi informasi yang sangat kompleks dan sangat kontroversial ketika ada hambatan besar terhadap penerimaan, dengan keterampilan komunikasi tingkat tertinggi.
+knowledge:
+  name: Pengetahuan, pelatihan, dan pengalaman
+  description: Pengetahuan dan pengalaman yang diperlukan untuk melakukan pekerjaan, dari sumber mana pun, termasuk pelatihan formal, kualifikasi, dan pengalaman.
+  levels:
+    "1": Beberapa prosedur rutin, dipelajari sambil bekerja dalam orientasi singkat.
+    "2": Berbagai prosedur rutin, dipelajari melalui pelatihan sambil bekerja dan orientasi.
+    "3": Berbagai prosedur, sebagian tidak rutin, yang memerlukan teori tingkat dasar (misalnya kualifikasi tingkat 3 atau pengalaman yang setara).
+    "4": Berbagai prosedur, sebagian besar tidak rutin, yang memerlukan teori tingkat menengah (misalnya diploma atau pengalaman yang setara).
+    "5": Keahlian dalam suatu spesialisasi, didukung oleh teori atau pengalaman praktis (setingkat sarjana atau yang setara).
+    "6": Pengetahuan spesialis di seluruh cakupan spesialisasi (setingkat diploma pascasarjana atau yang setara).
+    "7": Pengetahuan spesialis yang sangat berkembang di seluruh cakupan spesialisasi (setingkat magister atau yang setara).
+    "8": Pengetahuan tingkat lanjut (doktor ditambah pelatihan lanjutan atau yang setara), atau pengetahuan spesialis di lebih dari satu disiplin yang dibangun dalam waktu lama.
+analytical:
+  name: Keterampilan analisis dan pertimbangan
+  description: Analisis dan pertimbangan yang diperlukan untuk mengolah informasi, memecahkan masalah, dan mengambil keputusan.
+  levels:
+    "1": Pertimbangan atas fakta atau situasi yang sederhana.
+    "2": Pertimbangan atas fakta atau situasi, sebagian memerlukan analisis.
+    "3": Pertimbangan atas berbagai fakta atau situasi yang memerlukan analisis atau perbandingan pilihan.
+    "4": Pertimbangan atas fakta atau situasi yang kompleks yang memerlukan analisis, penafsiran, dan perbandingan pilihan.
+    "5": Pertimbangan atas fakta atau situasi yang sangat kompleks yang memerlukan analisis, penafsiran, dan perbandingan pilihan.
+planning:
+  name: Keterampilan perencanaan dan pengorganisasian
+  description: Perencanaan dan pengorganisasian yang diperlukan untuk menjalankan kegiatan, program, layanan, atau strategi.
+  levels:
+    "1": Mengatur pekerjaan sehari-harinya sendiri.
+    "2": Merencanakan tugas atau kegiatan yang sederhana, sebagian berkelanjutan.
+    "3": Merencanakan beberapa kegiatan yang kompleks, menyesuaikan rencana sesuai kebutuhan.
+    "4": Merencanakan beragam kegiatan atau strategi yang kompleks, menyesuaikannya sesuai kebutuhan.
+    "5": Menyusun rencana strategis jangka panjang, dengan ketidakpastian dan dampak di seluruh organisasi.
+physical-skills:
+  name: Keterampilan fisik
+  description: Keterampilan fisik yang diperlukan, seperti ketangkasan, koordinasi, keterampilan papan ketik, dan mengemudi.
+  levels:
+    "1": Hampir tidak memerlukan keterampilan fisik.
+    "2": Keterampilan yang diperoleh melalui latihan, seperti penggunaan papan ketik standar atau mengemudi.
+    "3": Keterampilan yang berkembang yang memerlukan kecepatan atau ketelitian, seperti penggunaan papan ketik tingkat lanjut.
+    "4": Keterampilan yang sangat berkembang yang memerlukan ketepatan atau kecepatan dan koordinasi tangan dan mata yang tinggi.
+    "5": Tingkat ketepatan, kecepatan, dan koordinasi tertinggi.
+patient-care:
+  name: Tanggung jawab atas perawatan pasien dan klien
+  description: Tanggung jawab untuk menilai, mengobati, merawat, atau menasihati pasien dan klien. Untuk sebagian besar peran digital dan korporat, ini hanya kontak sesekali.
+  levels:
+    "1": Membantu pasien, klien, atau kerabat dalam kontak sesekali.
+    "2": Memberi saran, informasi, atau layanan umum nonklinis secara langsung kepada pasien atau masyarakat.
+    "3": Memberi perawatan pribadi, layanan teknis klinis dasar, atau saran klinis dasar.
+    "4": Melakukan perawatan klinis, memberi layanan teknis klinis, atau menasihati tentang perawatan pasien.
+    "5": Menyusun program perawatan, memberi layanan teknis klinis spesialis, atau memberi saran khusus tentang perawatan pasien.
+    "6": Mengembangkan perawatan khusus, memberi saran yang sangat khusus, atau bertanggung jawab atas sebagian layanan klinis.
+    "7": Bertanggung jawab atas penyampaian layanan klinis atau perawatan.
+    "8": Tanggung jawab korporat atas layanan klinis atau perawatan.
+policy:
+  name: Tanggung jawab atas pengembangan kebijakan dan layanan
+  description: Tanggung jawab untuk mengembangkan dan menerapkan kebijakan dan layanan, serta sejauh mana dampaknya.
+  levels:
+    "1": Mengikuti kebijakan yang ditetapkan orang lain; dapat mengomentari perubahan.
+    "2": Menerapkan kebijakan untuk bidangnya sendiri dan mengusulkan perubahan pada praktiknya.
+    "3": Menerapkan kebijakan untuk bidangnya sendiri dan mengusulkan perubahan yang memengaruhi bidang lain.
+    "4": Menerapkan kebijakan dan mengembangkan kebijakan atau layanan untuk sebuah layanan atau beberapa bidang.
+    "5": Menerapkan dan mengembangkan berbagai kebijakan atau layanan untuk sebuah direktorat.
+    "6": Tanggung jawab korporat atas pengembangan kebijakan atau layanan besar di dalam atau di luar organisasi.
+financial-resources:
+  name: Tanggung jawab atas sumber daya keuangan dan fisik
+  description: Tanggung jawab atas uang, anggaran, peralatan, persediaan, bangunan, dan aset lainnya.
+  levels:
+    "1": Menjaga sendiri peralatan dan sumber daya yang dipakai dalam pekerjaannya.
+    "2": Menangani uang tunai atau barang berharga, menjaga peralatan yang dipakai orang lain, mengendalikan persediaan, atau mengesahkan pembayaran kecil.
+    "3": Mengesahkan pembayaran, membeli sebagian aset atau perlengkapan, memantau atau memegang anggaran yang didelegasikan, atau memelihara aset.
+    "4": Memegang atau menetapkan anggaran untuk sebuah departemen atau layanan, atau membeli atau memelihara asetnya.
+    "5": Memegang atau menetapkan anggaran, atau mengelola aset, untuk beberapa layanan.
+    "6": Tanggung jawab korporat atas keuangan atau aset organisasi.
+people:
+  name: Tanggung jawab atas orang
+  description: Tanggung jawab untuk mengelola, menyelia, melatih, atau mengembangkan staf, atau untuk menyediakan layanan sumber daya manusia (SDM).
+  levels:
+    "1": Menunjukkan rutinitas kerjanya kepada rekan kerja yang baru atau kurang berpengalaman.
+    "2": Menyelia atau mengoordinasikan staf sehari-hari, melatih orang lain secara teratur, atau memberi saran SDM dasar.
+    "3": Mengelola sekelompok staf sehari-hari, mengajar pelatihan inti atau spesialis, atau memberi saran SDM inti.
+    "4": Mengelola secara langsung sebuah fungsi atau departemen, merancang program pelatihan sebagai tugas utama, atau menyampaikan rangkaian layanan SDM yang lengkap.
+    "5": Mengelola secara langsung beberapa departemen, atau mengelola pelatihan atau sebagian besar SDM di seluruh organisasi.
+    "6": Tanggung jawab korporat atas orang atau fungsi SDM organisasi.
+information-resources:
+  name: Tanggung jawab atas sumber daya informasi
+  description: Tanggung jawab atas informasi dan sistem informasi, kertas atau digital, termasuk catatan, data, dan sistem yang menyimpannya.
+  levels:
+    "1": Mencatat informasi yang dihasilkan oleh pemegang jabatan.
+    "2": Memasukkan atau menyimpan data yang dikumpulkan orang lain, atau sesekali menulis laporan atau kueri.
+    "3": Membuat notulen resmi, rutin menulis laporan atau kueri, atau memelihara sistem informasi sebagai tugas penting.
+    "4": Menyesuaikan atau merancang sistem informasi sesuai spesifikasi orang lain, atau menjalankan sistem informasi sebuah departemen sebagai tugas utama.
+    "5": Merancang dan mengembangkan sistem informasi besar, atau menjalankan sistem informasi beberapa layanan sebagai tugas utama.
+    "6": Mengelola dan mengembangkan sistem informasi di seluruh organisasi sebagai tugas utama.
+    "7": Tanggung jawab korporat atas sistem informasi organisasi.
+research:
+  name: Tanggung jawab atas penelitian dan pengembangan
+  description: Tanggung jawab atas penelitian formal, pengembangan, evaluasi, audit, pengujian, dan uji coba.
+  levels:
+    "1": Melakukan survei atau audit untuk pekerjaannya sendiri; sesekali ikut serta dalam penelitian atau pengujian.
+    "2": Secara teratur melakukan penelitian, pengembangan, uji coba, atau pengujian peralatan dan sistem sebagai bagian dari pekerjaan.
+    "3": Melakukan penelitian atau pengembangan dalam program formal sebagai tugas utama.
+    "4": Mengoordinasikan dan melaksanakan program penelitian dan pengembangan.
+    "5": Memprakarsai dan mengembangkan program penelitian dan pengembangan yang mendukung tujuan organisasi.
+    "6": Memprakarsai dan mengembangkan program penelitian dan pengembangan dengan dampak di luar organisasi.
+freedom-to-act:
+  name: Kebebasan bertindak
+  description: Sejauh mana pemegang jabatan memutuskan apa yang dilakukan dan bagaimana, dan seberapa ketat pekerjaannya diselia.
+  levels:
+    "1": Bekerja dalam prosedur yang ditetapkan, dengan penyelia di dekatnya.
+    "2": Mengikuti prosedur standar dan preseden; biasanya ada orang yang dapat ditanya; pekerjaan dapat diperiksa.
+    "3": Mengikuti kebijakan dan prosedur yang ditentukan; pekerjaan dikelola dan bukan diselia.
+    "4": Hasilnya ditentukan, tetapi pemegang jabatan memutuskan cara mencapainya, dalam kebijakan yang luas.
+    "5": Bekerja dalam kebijakan umum, dan dalam sebagian besar kasus memutuskan cara menafsirkannya.
+    "6": Menafsirkan kebijakan dan strategi menyeluruh untuk menetapkan sasaran dan standar.
+physical-effort:
+  name: Upaya fisik
+  description: Upaya fisik yang diperlukan, dengan mempertimbangkan frekuensi, durasi, dan intensitasnya.
+  levels:
+    "1": Duduk, berdiri, dan berjalan, dengan sedikit upaya fisik.
+    "2": Sering duduk atau berdiri dalam posisi terbatas, atau sesekali upaya ringan hingga sedang.
+    "3": Sering melakukan upaya ringan dalam waktu lama, atau sering melakukan upaya sedang dalam waktu singkat.
+    "4": Upaya ringan yang terus-menerus, upaya sedang yang sering dalam waktu lama, atau sesekali upaya yang intens.
+    "5": Upaya sedang yang terus-menerus, atau upaya intens yang sering.
+mental-effort:
+  name: Upaya mental
+  description: Konsentrasi yang diperlukan, dengan mempertimbangkan frekuensi, durasi, dan seberapa dapat diprediksi pekerjaannya.
+  levels:
+    "1": Perhatian umum; sesekali berkonsentrasi pada pekerjaan yang dapat diprediksi.
+    "2": Sering berkonsentrasi pada pekerjaan yang dapat diprediksi, atau sesekali berkonsentrasi pada pekerjaan yang tidak dapat diprediksi.
+    "3": Sering berkonsentrasi pada pekerjaan yang tidak dapat diprediksi, atau sesekali berkonsentrasi dalam waktu lama.
+    "4": Sering berkonsentrasi dalam waktu lama, atau sesekali berkonsentrasi secara intens.
+    "5": Sering berkonsentrasi secara intens.
+emotional-effort:
+  name: Upaya emosional
+  description: Tuntutan emosional pekerjaan, dari paparan langsung atau tidak langsung pada keadaan yang menekan, seperti membaca catatan kasus yang menyedihkan atau menangani insiden serius.
+  levels:
+    "1": Jarang terpapar, atau sesekali terpapar secara tidak langsung, pada keadaan yang menekan.
+    "2": Sesekali terpapar, atau sering terpapar secara tidak langsung, pada keadaan yang menekan.
+    "3": Sering terpapar pada keadaan yang menekan, atau sesekali terpapar pada keadaan yang sangat menekan.
+    "4": Sesekali terpapar pada keadaan traumatis, atau sering terpapar pada keadaan yang sangat menekan.
+working-conditions:
+  name: Kondisi kerja
+  description: Paparan pada kondisi yang tidak menyenangkan atau bahaya. Penggunaan layar hampir terus-menerus pada sebagian besar hari dihitung sebagai tingkat 2.
+  levels:
+    "1": Jarang terpapar pada kondisi yang tidak menyenangkan.
+    "2": Sesekali mengalami kondisi yang tidak menyenangkan, sering bepergian atau bekerja di luar ruangan, atau menggunakan layar hampir terus-menerus pada sebagian besar hari.
+    "3": Sering mengalami kondisi yang tidak menyenangkan, atau sesekali mengalami kondisi yang sangat tidak menyenangkan.
+    "4": Terpapar bahaya sampai batas tertentu, atau sering mengalami kondisi yang sangat tidak menyenangkan.
+    "5": Terpapar bahaya secara besar.

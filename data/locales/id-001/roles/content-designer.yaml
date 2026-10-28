@@ -1,0 +1,65 @@
+summary: >
+  Desainer konten membuat informasi dan layanan kesehatan dan perawatan menjadi jelas, agar pasien, pendamping, tenaga klinis, dan tenaga perawatan dapat memahami apa yang perlu mereka ketahui dan lakukan. Mereka merancang konten dari bukti kebutuhan pengguna, menulis dalam bahasa Indonesia yang sederhana, bekerja dengan pakar klinis untuk menjaga keakuratannya, dan mengurus konten sepanjang masa hidupnya, dari pembuatan hingga peninjauan dan pemensiunan.
+health_context:
+  - Orang sering membaca konten kesehatan ketika mereka khawatir, sakit, atau terburu-buru, sehingga konten harus mudah dipahami dan ditindaklanjuti oleh orang dengan literasi kesehatan rendah.
+  - Informasi kesehatan yang salah atau usang dapat menyebabkan kerugian, sehingga desainer konten mengikuti proses penjaminan klinis dengan tanggal tinjauan dan peninjau klinis yang disebutkan namanya.
+  - Sebagian topik sensitif atau berisiko tinggi, seperti gejala mendesak, kesehatan jiwa, obat-obatan, dan perawatan akhir hayat, sehingga desainer konten bekerja erat dengan tenaga klinis dan peneliti pengguna tentang nada dan akurasi.
+  - Sistem klinis juga memerlukan konten yang jelas, seperti label, petunjuk, dan peringatan, sehingga desainer konten membantu mengurangi kesalahan dalam alur kerja klinis.
+  - Konten kesehatan harus dapat diakses dan inklusif, termasuk bagi orang yang memakai teknologi bantu, membaca dalam bahasa lain, atau memerlukan format mudah dibaca.
+levels:
+  - title: Desainer konten asosiat
+    responsibilities:
+      - Mempelajari metode desain konten, panduan gaya, dan proses tinjauan klinis melalui pelatihan dan pekerjaan yang diawasi.
+      - Melakukan pemeriksaan standar, penyuntingan, dan pembaruan konten yang ada.
+      - Menerbitkan konten memakai sistem manajemen konten, mengikuti langkah penjaminan.
+      - Memeriksa aksesibilitas konten, seperti judul, teks tautan, dan teks alternatif.
+    qualifications:
+      - Sedang menempuh kualifikasi atau magang di bidang yang relevan, atau pengalaman yang setara.
+  - title: Desainer konten junior
+    responsibilities:
+      - Menulis dan memperbarui konten kesehatan dan konten layanan, dengan arahan desainer konten yang lebih senior.
+      - Memakai riset dan data untuk mengidentifikasi apa yang perlu diketahui pengguna dan kata-kata yang mereka pakai.
+      - Bekerja dengan peninjau klinis untuk memeriksa akurasi, dan menjelaskan istilah medis dalam bahasa sederhana.
+      - Mendukung penerbitan konten, tanggal tinjauan, dan administrasi tim konten.
+    qualifications:
+      - Gelar atau kualifikasi yang relevan, atau pengalaman yang setara dalam menulis untuk web.
+  - title: Desainer konten
+    responsibilities:
+      - Merancang konten di seluruh perjalanan pengguna, seperti menemukan layanan, mempersiapkan janji temu, dan perawatan lanjutan.
+      - Merancang konten untuk sistem klinis, seperti label, petunjuk, dan peringatan, untuk mengurangi kemungkinan kesalahan.
+      - Menyepakati akurasi dengan pakar klinis sambil menjaga konten tetap jelas dan dapat dipakai.
+      - Menguji konten dengan pengguna, termasuk orang dengan literasi kesehatan rendah dan orang yang memakai teknologi bantu.
+      - Menyumbang pada panduan gaya dan pola konten.
+    qualifications:
+      - Gelar atau kualifikasi yang relevan, atau pengalaman yang setara.
+      - Pengalaman merancang konten untuk layanan digital.
+  - title: Desainer konten senior
+    responsibilities:
+      - Mengembangkan strategi konten untuk bidang yang besar atau menonjol, seperti bidang penyakit utama atau kampanye kesehatan masyarakat.
+      - Merancang konten untuk topik sensitif dan berisiko tinggi, seperti gejala mendesak, kesehatan jiwa, dan perawatan akhir hayat.
+      - Menyiapkan penjaminan klinis, sumber bukti, dan siklus tinjauan untuk kumpulan konten kesehatan.
+      - Meninjau pekerjaan orang lain untuk menjamin mutu, dan mengelola atau membimbing desainer konten.
+      - Menulis dan memetakan cerita pengguna bersama tim.
+    qualifications:
+      - Pengalaman yang substansial dalam desain konten, pada tingkat yang setara dengan gelar magister.
+    job_evaluation_notes: Upaya emosional berada di tingkat 2 karena desainer konten senior secara teratur mengerjakan topik yang menyedihkan, seperti penyakit berat, melukai diri sendiri, dan kehilangan orang tercinta.
+  - title: Desainer konten pimpinan
+    responsibilities:
+      - Mengarahkan tim desainer konten dan menjamin mutu konten di beberapa tim.
+      - Memastikan konten kesehatan memenuhi standar penjaminan klinis, aksesibilitas, dan gaya.
+      - Bekerja dengan pimpinan klinis, komunikasi, dan produk senior untuk menyediakan sumber daya tim dan menyelesaikan masalah konten.
+      - Memimpin konten untuk informasi organisasi yang paling sensitif atau berisiko tinggi.
+      - Mengelola secara langsung dan mengembangkan desainer konten.
+    qualifications:
+      - Pengalaman luas dalam memimpin desain konten lintas tim.
+    job_evaluation_notes: Tidak ada tingkat Pita 8a, karena UK GDaD PCF menempatkan desainer konten pimpinan di G7 atau G6 dan acuan ini mengikuti Pita 8b yang disarankan. Kebijakan berada di tingkat 5 karena pimpinan menetapkan standar konten untuk berbagai layanan; upaya emosional berada di tingkat 2, seperti untuk desainer konten senior.
+  - title: Kepala desain konten
+    responsibilities:
+      - Mengembangkan strategi konten yang memenuhi tujuan organisasi dan kebutuhan pasien dan staf.
+      - Menetapkan standar organisasi untuk konten informasi kesehatan dan penjaminan kliniknya.
+      - Memimpin tim desain konten yang mampu melaksanakan strategi, termasuk rekrutmen dan pengembangan.
+      - Bekerja dengan pimpinan klinis dan komunikasi senior untuk mengelola risiko informasi kesehatan.
+      - Memprioritaskan pekerjaan konten di seluruh organisasi.
+    qualifications:
+      - Pengalaman luas dalam memimpin desain konten dan praktik konten.
+    job_evaluation_notes: UK GDaD PCF menempatkan desainer konten pimpinan dan kepala desain konten sama-sama di G7 atau G6, dengan Pita 8b yang disarankan. Acuan ini menempatkan kepala di Pita 8c, sejalan dengan kepala profesi desain berpusat pada pengguna lainnya, karena kepala menetapkan strategi dan standar konten untuk seluruh organisasi.

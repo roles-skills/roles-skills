@@ -1,0 +1,48 @@
+summary: >
+  IT-tjänsteansvariga ser till att organisationens digitala tjänster levereras på överenskomna nivåer och fortsätter att förbättras. De definierar servicenivåer, förvaltar tjänstekatalogen, rapporterar om prestation och samordnar de team och leverantörer som driver varje tjänst. Inom hälso- och sjukvården omsätter de det som kliniska tjänster behöver, såsom tillgänglighet dygnet runt, till servicemål och supportarrangemang.
+health_context:
+  - Servicenivåer för kliniska system speglar klinisk risk, så mål för den elektroniska patientjournalen eller ordination skiljer sig från mål för ett verksamhetssystem.
+  - Tjänster tillhandahålls ofta av en blandning av interna team, leverantörer och tjänster som delas med partnerorganisationer, så tjänsteansvariga samordnar över organisationsgränser.
+  - Klinisk verksamhetskontinuitet beror på IT, så tjänsteansvariga arbetar med kliniska ledare och ledare för krisberedskap om planer för avbrottstid och kontinuitet.
+  - Klinisk personal har lite tid att rapportera problem, så tjänsteansvariga använder övervakning, servicedeskdata och klinisk återkoppling för att hitta problem tidigt.
+levels:
+  - title: IT-tjänsteanalytiker
+    responsibilities:
+      - Svara på, dokumentera och lösa incidenter och förfrågningar inom överenskomna servicenivåer.
+      - Ta fram regelbundna tjänsterapporter, såsom ärendevolymer, svarstider och tillgänglighet hos kliniska system.
+      - Kontrollera att poster i tjänstekatalogen och kunskapsartiklar är korrekta och uppdaterade.
+      - Leta efter mönster i incidenter och föreslå förbättringar.
+      - Följa reglerna för informationsstyrning vid hantering av ärende- och tjänstedata.
+    qualifications:
+      - En grundkvalifikation i IT-tjänstehantering, en kvalifikation på nivå 3 inom IT eller motsvarande erfarenhet.
+  - title: IT-tjänsteansvarig
+    responsibilities:
+      - Definiera och komma överens om servicenivåer för kliniska tjänster och verksamhetstjänster, utifrån klinisk risk och verksamhetsbehov.
+      - Förvalta supportarrangemangen för en portfölj av tjänster, inklusive leverantörer och delade tjänster.
+      - Rapportera tjänsternas prestation till tjänsteägare och kliniska ledare och komma överens om förbättringsåtgärder.
+      - Se till att varje tjänst har testade arrangemang för verksamhetskontinuitet och avbrottstid.
+      - Hålla tjänstekatalogen aktuell och se till att personal informeras om ändringar i sina tjänster.
+      - Driva ett program för ständig tjänsteförbättring för dina tjänster.
+    qualifications:
+      - Erfarenhet av att förvalta IT-tjänster mot överenskomna servicenivåer.
+      - En mellannivåkvalifikation inom IT-tjänstehantering, eller motsvarande erfarenhet.
+  - title: Senior IT-tjänsteansvarig
+    responsibilities:
+      - Leda tjänstehantering över flera plattformar och kanaler och förbättra mognaden i processerna för tjänstehantering.
+      - Komma överens om servicenivåer och avtalsvillkor med större leverantörer av kliniska system och hålla dem ansvariga.
+      - Presentera tjänsternas prestation och risker för seniora kliniska och operativa ledare.
+      - Leda tjänsteuppföljningar efter större incidenter och följa upp förbättringsåtgärder till dess de är klara.
+      - Samordna IT:s kontinuitetsplaner med kliniska planer för verksamhetskontinuitet, tillsammans med ledare för krisberedskap och kliniska ledare.
+      - Leda och utveckla IT-tjänsteansvariga.
+    qualifications:
+      - Betydande erfarenhet av IT-tjänstehantering över flera tjänster.
+      - En avancerad kvalifikation inom IT-tjänstehantering, eller motsvarande erfarenhet.
+  - title: Chef för IT-tjänstehantering
+    responsibilities:
+      - Fastställa visionen, strategin och driftmodellen för IT-tjänstehantering i hela organisationen.
+      - Se till att varje process för tjänstehantering har en ägare och fortsätter att mogna.
+      - Företräda IT-tjänstehanteringen på senior nivå, inklusive vid kliniska och operativa styrmöten.
+      - Vara den seniora eskaleringspunkten för kliniska ledare och ledare för verksamhetstjänster.
+      - Se till att funktionen för tjänstehantering har de medarbetare, verktyg och den budget den behöver.
+    qualifications:
+      - Omfattande erfarenhet av att leda IT-tjänstehantering i en stor eller komplex organisation.

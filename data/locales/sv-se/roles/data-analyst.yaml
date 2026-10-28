@@ -1,0 +1,47 @@
+summary: >
+  Dataanalytiker omvandlar hälso- och vårddata till information som hjälper kliniker, chefer och planerare att fatta beslut. De förbereder, länkar och analyserar data från kliniska, operativa och patientrapporterade källor och presenterar dem i rapporter, översikter och underlag. De ser till att deras analys är korrekt, reproducerbar och hanterar konfidentiella patientdata tryggt.
+health_context:
+  - Mycket av data beskriver enskilda patienter, så analytiker arbetar med pseudonymiserade data där de kan och kontrollerar resultat för risk för röjande innan de lämnas ut.
+  - Hälsodata registreras med kliniska terminologier och klassifikationer såsom SNOMED CT och ICD, så analytiker behöver veta hur koder används och var de kan vilseleda.
+  - Datakvaliteten varierar mellan vårdmiljöer och system, och luckor påverkar ofta vissa patientgrupper mer än andra, så analytiker kontrollerar skevhet innan de drar slutsatser.
+  - Analys kan förändra hur tjänster planeras, finansieras och levereras, så resultat behöver tydliga förbehåll och får inte överdriva säkerheten.
+levels:
+  - title: Biträdande dataanalytiker
+    responsibilities:
+      - Ta fram rutinrapporter och översikter om verksamhet, väntetider och användning av tjänster, enligt överenskomna metoder.
+      - Rensa och förbereda utdrag från patientadministrativa, kliniska och operativa system under handledning.
+      - Kontrollera resultat mot regler för datakvalitet och rapportera problem till rätt dataägare.
+      - Tillämpa undertryckning av små tal och andra regler för röjande innan resultat delas.
+      - Besvara okomplicerade databegäranden från kliniska och operativa team.
+    qualifications:
+      - En examen i ett numeriskt ämne, en lärlingsutbildning inom analys eller motsvarande erfarenhet.
+  - title: Dataanalytiker
+    responsibilities:
+      - Utforma och genomföra analyser som besvarar frågor från kliniska, operativa och planerande team.
+      - Länka patientnära data från olika källor tryggt, med pseudonymiserade identifierare och överenskomna länkningsmetoder.
+      - Skriva reproducerbar analyskod och dokumentera metoder, antaganden och datakällor.
+      - Förklara resultat och deras begränsningar för kliniker och chefer på klarspråk.
+      - Kontrollera analys för skevhet mellan patientgrupper, såsom efter ålder, kön, etnicitet och social utsatthet.
+      - Stödja biträdande analytiker och granska deras arbete.
+    qualifications:
+      - En examen i ett numeriskt ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av att analysera och presentera komplexa data.
+  - title: Senior dataanalytiker
+    responsibilities:
+      - Leda analys för ett tjänsteområde, såsom akutvård, cancer eller psykisk hälsa, och komma överens om prioriteringar med dess ledare.
+      - Fastställa metoder och kvalitetssäkring för teamets analys, inklusive kollegial granskning av kod och resultat.
+      - Leda komplexa länkningsprojekt över vårdmiljöer och komma överens om deras grund inom informationsstyrning.
+      - Presentera resultat för seniora kliniska grupper och ledningsgrupper och ge råd om vad de betyder för tjänster.
+      - Arbeta med datautvecklare och dataägare för att åtgärda grundorsakerna till dålig datakvalitet.
+      - Coacha och utveckla analytiker i teamet.
+    qualifications:
+      - Betydande erfarenhet av att leda dataanalys, på en nivå motsvarande en masterexamen.
+  - title: Principal dataanalytiker
+    responsibilities:
+      - Fastställa organisationens standarder för dataanalys, kvalitetssäkring och reproducerbar analytisk praxis.
+      - Ge ledningen och kliniska ledare råd om underlaget bakom större beslut om tjänster och investeringar.
+      - Leda den analytiska gemenskapen, inklusive dess utbildning, verktyg och karriärutveckling.
+      - Forma arrangemang för datadelning och länkning med hälso- och vårdpartner.
+      - Ha linjeansvar för seniora analytiker och se till att teamet har den kapacitet och de färdigheter det behöver.
+    qualifications:
+      - Omfattande erfarenhet av att leda dataanalys i en organisation.

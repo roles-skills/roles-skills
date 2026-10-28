@@ -20,15 +20,15 @@ Analytics engineers turn raw health and care data into clean, tested, and docume
 
 ## UK GDaD PCF role description (English original)
 
-> An analytics engineer transforms data relevant to the organization into structures that enable analysis and decision-making.
+> An analytics engineer transforms data relevant to the organisation into structures that enable analysis and decision-making.
 > 
 > In this role, you will:
-> - work with subject matter experts to understand organisational processes and translate these into data structures optimized for analysis
-> - work with data users to design and build data models they can use for effective analysis and decision-making, using modeling techniques such as Kimball or Inmon
+> - work with subject matter experts to understand organisational processes and translate these into data structures optimised for analysis
+> - work with data users to design and build data models they can use for effective analysis and decision-making, using modelling techniques such as Kimball or Inmon
 > - support data quality improvement
 > - develop standards for data transformation
 > - create and maintain data documentation
-> - refine requirements in response to feedback from users and changes in the organization
+> - refine requirements in response to feedback from users and changes in the organisation
 > - provide ongoing support to users
 
 ## Role levels
@@ -49,7 +49,7 @@ Analytics engineers turn raw health and care data into clean, tested, and docume
 > 
 > At this role level, you will:
 > - spend time shadowing other analytics engineers
-> - build your knowledge of the organization
+> - build your knowledge of the organisation
 > - learn skills for managing data
 > - learn to use different applications, tools, templates and best practices
 > - handle simple queries from users and document their data requirements
@@ -70,7 +70,7 @@ Analytics engineers turn raw health and care data into clean, tested, and docume
 | [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Awareness | You can:<br>• explain why it's important to communicate technical concepts in non-technical language<br>• explain the types of communication that can be used with internal and external stakeholders, and their impact |
 | [Data analysis and synthesis](../../skills/#data-analysis-and-synthesis) | UK GDaD PCF | Awareness | You can:<br>• interpret data to find key insights |
 | [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Awareness | You can:<br>• develop a basic understanding of an unfamiliar or emerging technology, or a familiar technology in a new data context, with guidance<br>• share what you learn with colleagues, including how it could help deliver more value from data |
-| [Data modeling, cleansing and enrichment](../../skills/#data-modeling-cleansing-and-enrichment) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of different data models and tools, and understand when they could be used<br>• show an awareness of industry-recognized data modeling patterns and standards |
+| [Data modelling, cleansing and enrichment](../../skills/#data-modelling-cleansing-and-enrichment) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of different data models and tools, and understand when they could be used<br>• show an awareness of industry-recognised data modelling patterns and standards |
 | [Metadata management](../../skills/#metadata-management) | UK GDaD PCF | Awareness | You can:<br>• explain what metadata is<br>• maintain the information stored in metadata repositories under the direction of others |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Awareness | You can:<br>• investigate problems in systems, processes and services, with an understanding of the level of a problem, for example, strategic, tactical or operational<br>• contribute to the implementation of remedies and preventative measures |
 | [Testing](../../skills/#testing) | UK GDaD PCF | Awareness | You can:<br>• correctly execute test scripts under supervision<br>• understand the role of testing and how it works |
@@ -98,8 +98,8 @@ Analytics engineers turn raw health and care data into clean, tested, and docume
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 1 | 5 |
@@ -144,7 +144,7 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Working | You can:<br>• communicate effectively with technical and non-technical stakeholders<br>• support and host discussions within a multidisciplinary team, with potentially difficult dynamics<br>• be an advocate for the team externally<br>• manage differing stakeholder perspectives |
 | [Data analysis and synthesis](../../skills/#data-analysis-and-synthesis) | UK GDaD PCF | Working | You can:<br>• undertake data profiling and source system analysis<br>• present clear insights to colleagues to support the end use of the data |
 | [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Awareness | You can:<br>• develop a basic understanding of an unfamiliar or emerging technology, or a familiar technology in a new data context, with guidance<br>• share what you learn with colleagues, including how it could help deliver more value from data |
-| [Data modeling, cleansing and enrichment](../../skills/#data-modeling-cleansing-and-enrichment) | UK GDaD PCF | Working | You can:<br>• produce data models and understand where to use different types of data models<br>• understand different tools and can compare different data models<br>• reverse-engineer a data model from a live system<br>• understand industry-recognized data modeling patterns and standards |
+| [Data modelling, cleansing and enrichment](../../skills/#data-modelling-cleansing-and-enrichment) | UK GDaD PCF | Working | You can:<br>• produce data models and understand where to use different types of data models<br>• understand different tools and can compare different data models<br>• reverse-engineer a data model from a live system<br>• understand industry-recognised data modelling patterns and standards |
 | [Metadata management](../../skills/#metadata-management) | UK GDaD PCF | Working | You can:<br>• use metadata repositories to complete complex tasks such as data and systems integration impact analysis<br>• maintain a metadata repository to ensure information remains accurate and up to date |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Awareness | You can:<br>• investigate problems in systems, processes and services, with an understanding of the level of a problem, for example, strategic, tactical or operational<br>• contribute to the implementation of remedies and preventative measures |
 | [Programming and build (data and analytics engineering)](../../skills/#programming-and-build-data-and-analytics-engineering) | UK GDaD PCF | Working | You can:<br>• design, code, test and deploy programs or scripts following standards and good practice<br>• write readable, maintainable code<br>• use automation to improve the software development life cycle<br>• consider and adopt appropriate security measures in your solutions |
@@ -175,8 +175,8 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -220,12 +220,12 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | --- | --- | --- | --- |
 | [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Working | You can:<br>• communicate effectively with technical and non-technical stakeholders<br>• support and host discussions within a multidisciplinary team, with potentially difficult dynamics<br>• be an advocate for the team externally<br>• manage differing stakeholder perspectives |
 | [Data analysis and synthesis](../../skills/#data-analysis-and-synthesis) | UK GDaD PCF | Working | You can:<br>• undertake data profiling and source system analysis<br>• present clear insights to colleagues to support the end use of the data |
-| [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Working | You can:<br>• experiment with unfamiliar and emerging technologies, or familiar technologies in new data contexts, with guidance<br>• share what you learn with the team, explaining potential benefits, risks, and practical considerations<br>• identify opportunities to apply technology to improve data processes or outcomes in an operational setting or the wider organization |
-| [Data modeling, cleansing and enrichment](../../skills/#data-modeling-cleansing-and-enrichment) | UK GDaD PCF | Practitioner | You can:<br>• build and review complex data models, ensuring adherence to standards<br>• use data integration tools and languages to integrate and store data, and advise teams on best practice<br>• ensure data for analysis meets data quality standards and is interoperable with other data sets, enabling reuse<br>• work with other data professionals to improve modeling and integration patterns and standards |
+| [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Working | You can:<br>• experiment with unfamiliar and emerging technologies, or familiar technologies in new data contexts, with guidance<br>• share what you learn with the team, explaining potential benefits, risks, and practical considerations<br>• identify opportunities to apply technology to improve data processes or outcomes in an operational setting or the wider organisation |
+| [Data modelling, cleansing and enrichment](../../skills/#data-modelling-cleansing-and-enrichment) | UK GDaD PCF | Practitioner | You can:<br>• build and review complex data models, ensuring adherence to standards<br>• use data integration tools and languages to integrate and store data, and advise teams on best practice<br>• ensure data for analysis meets data quality standards and is interoperable with other data sets, enabling reuse<br>• work with other data professionals to improve modelling and integration patterns and standards |
 | [Metadata management](../../skills/#metadata-management) | UK GDaD PCF | Practitioner | You can:<br>• design an appropriate metadata repository<br>• suggest changes to improve current metadata repositories<br>• understand a range of tools for storing and working with metadata<br>• advise less experienced members of the team about metadata management |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Working | You can:<br>• initiate and monitor actions to investigate patterns and trends to resolve problems<br>• effectively consult specialists where required<br>• determine the appropriate resolution and assist with its implementation<br>• determine preventative measures |
 | [Programming and build (data and analytics engineering)](../../skills/#programming-and-build-data-and-analytics-engineering) | UK GDaD PCF | Practitioner | You can:<br>• lead the design, code, testing and deployment of secure, resilient and maintainable solutions<br>• continuously improve the codebase and reliability of solutions<br>• create automation to improve the software development life cycle<br>• work with others to implement standards and good practice to ensure security, testability and maintainability of solutions |
-| [Testing](../../skills/#testing) | UK GDaD PCF | Working | You can:<br>• review requirements and specifications, and define test conditions<br>• identify issues and risks associated with work<br>• analyze and report test activities and results |
+| [Testing](../../skills/#testing) | UK GDaD PCF | Working | You can:<br>• review requirements and specifications, and define test conditions<br>• identify issues and risks associated with work<br>• analyse and report test activities and results |
 | [Turning business problems into data design](../../skills/#turning-business-problems-into-data-design) | UK GDaD PCF | Practitioner | You can:<br>• design data architecture that deals with problems spanning different business areas<br>• identify links between problems to devise common solutions<br>• work across multiple subject areas, or a single large or complicated subject area<br>• produce appropriate patterns |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
@@ -240,7 +240,7 @@ Knowledge is scored at the level the job needs once training is complete enough 
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -251,8 +251,8 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -275,7 +275,7 @@ Knowledge is scored at the level the job needs once training is complete enough 
 > 
 > At this role level, you will:
 > - lead and support a team of analytics engineers to design, build and maintain data models
-> - work with stakeholders and teams across the organization to understand relationships between data and organisational processes, and use this to define data requirements
+> - work with stakeholders and teams across the organisation to understand relationships between data and organisational processes, and use this to define data requirements
 > - promote, build awareness and support understanding of analytics engineering
 > - review the work of other analytics engineers
 > - create standards for communication, data models and documentation
@@ -295,12 +295,12 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | --- | --- | --- | --- |
 | [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Practitioner | You can:<br>• listen to and interpret the needs of technical and non-technical stakeholders, and manage their expectations<br>• manage active and reactive communication<br>• support or host difficult discussions within the team or with diverse senior stakeholders |
 | [Data analysis and synthesis](../../skills/#data-analysis-and-synthesis) | UK GDaD PCF | Practitioner | You can:<br>• understand and help teams to apply a range of techniques for data profiling<br>• source system analysis from a complex single source<br>• bring multiple data sources together in a conformed model for analysis |
-| [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Practitioner | You can:<br>• test and evaluate the feasibility of unfamiliar and emerging technologies, or familiar technologies in new data contexts<br>• share what you learn with the organization, explaining potential benefits, risks, and practical considerations<br>• recommend, design and implement innovative data solutions based on organization objectives, user needs, and operational constraints |
-| [Data modeling, cleansing and enrichment](../../skills/#data-modeling-cleansing-and-enrichment) | UK GDaD PCF | Practitioner | You can:<br>• build and review complex data models, ensuring adherence to standards<br>• use data integration tools and languages to integrate and store data, and advise teams on best practice<br>• ensure data for analysis meets data quality standards and is interoperable with other data sets, enabling reuse<br>• work with other data professionals to improve modeling and integration patterns and standards |
+| [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Practitioner | You can:<br>• test and evaluate the feasibility of unfamiliar and emerging technologies, or familiar technologies in new data contexts<br>• share what you learn with the organisation, explaining potential benefits, risks, and practical considerations<br>• recommend, design and implement innovative data solutions based on organisation objectives, user needs, and operational constraints |
+| [Data modelling, cleansing and enrichment](../../skills/#data-modelling-cleansing-and-enrichment) | UK GDaD PCF | Practitioner | You can:<br>• build and review complex data models, ensuring adherence to standards<br>• use data integration tools and languages to integrate and store data, and advise teams on best practice<br>• ensure data for analysis meets data quality standards and is interoperable with other data sets, enabling reuse<br>• work with other data professionals to improve modelling and integration patterns and standards |
 | [Metadata management](../../skills/#metadata-management) | UK GDaD PCF | Practitioner | You can:<br>• design an appropriate metadata repository<br>• suggest changes to improve current metadata repositories<br>• understand a range of tools for storing and working with metadata<br>• advise less experienced members of the team about metadata management |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Practitioner | You can:<br>• ensure that the right actions are taken to investigate, resolve and anticipate problems<br>• co-ordinate the team to investigate problems, implement solutions and take preventive measures |
 | [Programming and build (data and analytics engineering)](../../skills/#programming-and-build-data-and-analytics-engineering) | UK GDaD PCF | Practitioner | You can:<br>• lead the design, code, testing and deployment of secure, resilient and maintainable solutions<br>• continuously improve the codebase and reliability of solutions<br>• create automation to improve the software development life cycle<br>• work with others to implement standards and good practice to ensure security, testability and maintainability of solutions |
-| [Testing](../../skills/#testing) | UK GDaD PCF | Working | You can:<br>• review requirements and specifications, and define test conditions<br>• identify issues and risks associated with work<br>• analyze and report test activities and results |
+| [Testing](../../skills/#testing) | UK GDaD PCF | Working | You can:<br>• review requirements and specifications, and define test conditions<br>• identify issues and risks associated with work<br>• analyse and report test activities and results |
 | [Turning business problems into data design](../../skills/#turning-business-problems-into-data-design) | UK GDaD PCF | Practitioner | You can:<br>• design data architecture that deals with problems spanning different business areas<br>• identify links between problems to devise common solutions<br>• work across multiple subject areas, or a single large or complicated subject area<br>• produce appropriate patterns |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
@@ -316,7 +316,7 @@ Knowledge is scored at the level the job needs once training is complete enough 
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -327,8 +327,8 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -347,13 +347,13 @@ Knowledge is scored at the level the job needs once training is complete enough 
 
 **UK GDaD PCF level: Head of analytics engineering**
 
-> A head of analytics engineering oversees the development of a range of data models that meet analysis needs across the organization.
+> A head of analytics engineering oversees the development of a range of data models that meet analysis needs across the organisation.
 > 
 > At this role level, you will:
-> - build relationships with senior stakeholders across the organization to determine what the organization needs
+> - build relationships with senior stakeholders across the organisation to determine what the organisation needs
 > - ensure the activities of the analytics engineering team align with strategic priorities
 > - ensure the team works to standards for communication, data models and documentation
-> - advocate for the analytics engineering role to senior leadership and other organizations
+> - advocate for the analytics engineering role to senior leadership and other organisations
 > - build analytics engineering capability by providing technical leadership and career development for the community
 > - ensure appropriate technology is available for the community
 
@@ -369,20 +369,20 @@ Knowledge is scored at the level the job needs once training is complete enough 
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Expert | You can:<br>• mediate between people and strengthen relationships, adopting the appropriate communication method with stakeholders at all levels<br>• manage stakeholder expectations and moderate difficult discussions about high risk and complex topics, even within constrained timescales<br>• speak on behalf of, and represent the community to, large audiences inside and outside the organization |
+| [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Expert | You can:<br>• mediate between people and strengthen relationships, adopting the appropriate communication method with stakeholders at all levels<br>• manage stakeholder expectations and moderate difficult discussions about high risk and complex topics, even within constrained timescales<br>• speak on behalf of, and represent the community to, large audiences inside and outside the organisation |
 | [Data analysis and synthesis](../../skills/#data-analysis-and-synthesis) | UK GDaD PCF | Practitioner | You can:<br>• understand and help teams to apply a range of techniques for data profiling<br>• source system analysis from a complex single source<br>• bring multiple data sources together in a conformed model for analysis |
-| [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Expert | You can:<br>• advocate for adoption of unfamiliar and emerging technologies, or familiar technologies in new data contexts, ensuring organization objectives, user needs, and operational constraints inform decisions<br>• develop organisational capability in data innovation through leadership<br>• anticipate future technology changes and advise how to take advantage of them to realize value from data |
-| [Data modeling, cleansing and enrichment](../../skills/#data-modeling-cleansing-and-enrichment) | UK GDaD PCF | Expert | You can:<br>• understand different ways to model data to maximize its use and value<br>• ensure data is modelled appropriately, and modeling standards exist and are complied with<br>• understand a number of data integration tools and patterns, and ensure your teams have the support and training needed to use the most appropriate methods<br>• build relationships with other senior data professionals (in fields such as data architecture, data engineering and data science) to share best practice and continually improve data modeling and integration processes and standards |
-| [Metadata management](../../skills/#metadata-management) | UK GDaD PCF | Expert | You can:<br>• identify how metadata repositories can support different areas of the organization<br>• communicate the value of metadata repositories<br>• set up robust governance processes to keep repositories up to date |
+| [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Expert | You can:<br>• advocate for adoption of unfamiliar and emerging technologies, or familiar technologies in new data contexts, ensuring organisation objectives, user needs, and operational constraints inform decisions<br>• develop organisational capability in data innovation through leadership<br>• anticipate future technology changes and advise how to take advantage of them to realise value from data |
+| [Data modelling, cleansing and enrichment](../../skills/#data-modelling-cleansing-and-enrichment) | UK GDaD PCF | Expert | You can:<br>• understand different ways to model data to maximise its use and value<br>• ensure data is modelled appropriately, and modelling standards exist and are complied with<br>• understand a number of data integration tools and patterns, and ensure your teams have the support and training needed to use the most appropriate methods<br>• build relationships with other senior data professionals (in fields such as data architecture, data engineering and data science) to share best practice and continually improve data modelling and integration processes and standards |
+| [Metadata management](../../skills/#metadata-management) | UK GDaD PCF | Expert | You can:<br>• identify how metadata repositories can support different areas of the organisation<br>• communicate the value of metadata repositories<br>• set up robust governance processes to keep repositories up to date |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Expert | You can:<br>• anticipate problems and defend against them at the right time<br>• understand how a problem fits into the larger picture<br>• identify and describe problems, and help others to describe them<br>• build problem-solving capabilities in others |
 | [Programming and build (data and analytics engineering)](../../skills/#programming-and-build-data-and-analytics-engineering) | UK GDaD PCF | Expert | You can:<br>• set standards for programming tools and techniques<br>• select appropriate development methods for a problem<br>• advise on the application of standards and methods that ensure security, maintainability and compliance<br>• take technical responsibility for all stages of a software development project, providing technical advice and guidance to stakeholders |
-| [Testing](../../skills/#testing) | UK GDaD PCF | Working | You can:<br>• review requirements and specifications, and define test conditions<br>• identify issues and risks associated with work<br>• analyze and report test activities and results |
-| [Turning business problems into data design](../../skills/#turning-business-problems-into-data-design) | UK GDaD PCF | Expert | You can:<br>• design data architecture that deals with problems across the enterprise<br>• work across all organisational subject areas and internal and external programs |
-| [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Expert | You can:<br>• shape organisational strategy using a deep understanding of the health and care system<br>• represent the organization with health and care partners and leaders<br>• anticipate how policy and service changes will affect digital services and care |
+| [Testing](../../skills/#testing) | UK GDaD PCF | Working | You can:<br>• review requirements and specifications, and define test conditions<br>• identify issues and risks associated with work<br>• analyse and report test activities and results |
+| [Turning business problems into data design](../../skills/#turning-business-problems-into-data-design) | UK GDaD PCF | Expert | You can:<br>• design data architecture that deals with problems across the enterprise<br>• work across all organisational subject areas and internal and external programmes |
+| [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Expert | You can:<br>• shape organizational strategy using a deep understanding of the health and care system<br>• represent the organization with health and care partners and leaders<br>• anticipate how policy and service changes will affect digital services and care |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
 | [Data quality management](../../skills/#data-quality-management) | This reference | Expert | You can:<br>• set data quality standards for the organization and its partners<br>• lead data quality improvement programs |
 | [Clinical terminology and classification](../../skills/#clinical-terminology-and-classification) | This reference | Practitioner | You can:<br>• design data models and reference sets using clinical terminologies<br>• map between terminologies and classifications, and explain the limits of a mapping<br>• advise teams on terminology use in products and analytics |
-| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organisational change<br>• coach leaders and resolve complex people issues |
+| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organizational change<br>• coach leaders and resolve complex people issues |
 | [Budget management](../../skills/#budget-management) | This reference | Practitioner | You can:<br>• hold and manage a budget, forecasting and explaining variances<br>• build a business case with costs and benefits |
 
 ### Typical qualifications and experience
@@ -391,7 +391,7 @@ Knowledge is scored at the level the job needs once training is complete enough 
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Knowledge:** Expert knowledge, and wide organizational and sector understanding.
 - **Autonomy:** Sets strategy for a function; accountable to a director.
 - **Scope:** A function or department.
 - **Leadership:** Leads a function through several management layers.
@@ -403,8 +403,8 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
@@ -422,5 +422,5 @@ Knowledge is scored at the level the job needs once training is complete enough 
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

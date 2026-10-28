@@ -1,0 +1,46 @@
+summary: >
+  Leveransansvariga hjälper tvärprofessionella team att leverera digitala hälso- och vårdtjänster som fungerar för patienter, kliniker och vårdpersonal. De skapar förutsättningar för team att arbeta väl, undanröjer hinder, hanterar risker och beroenden och håller leveransen igång i ett hållbart tempo, med agila och lean arbetssätt.
+health_context:
+  - Releaser av tjänster som stöder patientvården måste passera kontroller av klinisk säkerhet och informationsstyrning, så leveransansvariga bygger in dessa i teamets planer och definition av färdigt.
+  - Leverans är ofta beroende av kliniker och vårdpersonal som har begränsad tid borta från patienterna, så leveransansvariga planerar forskning, testning och utbildning kring kliniska scheman.
+  - Ändringar i kliniska tjänster i drift kräver noggrann tidssättning, så leveransansvariga planerar driftsättningar tillsammans med operativa team för att undvika kliniska toppar och ha stöd på plats.
+  - Team är ofta beroende av leverantörer av kliniska system och av andra hälso- och vårdorganisationer, så leveransansvariga hanterar externa beroenden och avtal.
+levels:
+  - title: Biträdande leveransansvarig
+    responsibilities:
+      - Facilitera teamets ceremonier såsom stand-ups, planering, demonstrationer och retrospektiv.
+      - Hålla teamets tavla, risk- och ärendelogg och beroenderegister uppdaterade.
+      - Följa upp de uppgifter för klinisk säkerhet, informationsstyrning och tillgänglighet som behövs före varje release.
+      - Ordna tillfällen med kliniker, vårdpersonal och patienter för forskning och testning, kring kliniska scheman.
+      - Skugga och stödja en leveransansvarig i ett större team och leverera delar av arbetet under handledning.
+    qualifications:
+      - Viss erfarenhet av att arbeta i eller med ett leveransteam, eller motsvarande erfarenhet.
+  - title: Leveransansvarig
+    responsibilities:
+      - Leda leveransen av en digital hälso- och vårdprodukt eller tjänst genom förstudie, alfa, beta och drift.
+      - Planera releaser tillsammans med operativa och kliniska team, inklusive stöd vid driftsättning, utbildning och planer för återgång.
+      - Se till att kvalitetssäkring av klinisk säkerhet, informationsstyrning och tillgänglighet sker i takt med leveransen och inte i slutet.
+      - Förvalta teamets budget, leverantörsavtal och bemanning.
+      - Rapportera framsteg, risker och nyttor till styrande organ på ett klart sätt.
+      - Bygga en sund teamkultur och coacha teammedlemmar i agila arbetssätt.
+    qualifications:
+      - Betydande erfarenhet av att leverera digitala produkter eller tjänster med agila metoder.
+    job_evaluation_notes: Det finns ingen nivå i band 6 eftersom UK GDaD PCF saknar en nivå för leveransansvariga mellan biträdande (EO/HEO) och leveransansvarig (SEO/G7).
+  - title: Senior leveransansvarig
+    responsibilities:
+      - Leda leveransen av komplexa eller högriskfyllda tjänster, såsom sådana som används i akutvård eller som ersätter ett kärnsystem inom kliniken.
+      - Vara den huvudsakliga eskaleringspunkten för leveransrisker, ärenden och beroenden över flera team.
+      - Planera storskaliga utrullningar över platser och organisationer, tillsammans med kliniska säkerhetsansvariga och operativa ledare.
+      - Förvalta budgetar, kommersiella arrangemang och leverantörsprestation för tjänsten.
+      - Ha linjeansvar för och utveckla leveransansvariga.
+    qualifications:
+      - Omfattande erfarenhet av att leverera komplexa digitala tjänster genom hela deras livscykel.
+  - title: Chef för leveranshantering
+    responsibilities:
+      - Leda yrket leveranshantering och fastställa organisationens standarder för agil leverans.
+      - Rekrytera, utveckla och placera ut leveransansvariga över portföljen.
+      - Se till att leveransansatser uppfyller krav på klinisk säkerhet, informationsstyrning och kvalitetssäkring utan att i onödan sakta ner team.
+      - Ge ledningen och kliniska ledare råd om leveransrisker, kapacitet och prioriteringar.
+      - Förvalta yrkets budget och bemanningsplan.
+    qualifications:
+      - Omfattande erfarenhet av att leda leverans över flera team och av att leda en leveranspraktik.

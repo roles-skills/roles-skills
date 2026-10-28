@@ -70,8 +70,8 @@ Writes and publishes content for internal and external channels and supports the
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -129,8 +129,8 @@ Plans and delivers communications for projects and services, handles routine med
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -147,11 +147,11 @@ Plans and delivers communications for projects and services, handles routine med
 
 ## Band 6: Communications lead
 
-Leads communications for a major programme or area, such as internal communications or digital channels, and handles sensitive media work.
+Leads communications for a major program or area, such as internal communications or digital channels, and handles sensitive media work.
 
 ### Responsibilities
 
-- Lead communications and engagement for a major programme, such as a new clinical system.
+- Lead communications and engagement for a major program, such as a new clinical system.
 - Plan and evaluate campaigns that encourage patients and staff to adopt digital services.
 - Handle sensitive media enquiries and prepare spokespeople.
 - Plan communications for incidents and service outages with operational teams.
@@ -189,8 +189,8 @@ Leads communications for a major programme or area, such as internal communicati
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -239,7 +239,7 @@ Manages the communications team's work and channels, and leads media handling an
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -250,8 +250,8 @@ Manages the communications team's work and channels, and leads media handling an
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -292,7 +292,7 @@ Leads communications and engagement for the organization, sets its strategy, and
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 | [Budget management](../../skills/#budget-management) | This reference | Practitioner | You can:<br>• hold and manage a budget, forecasting and explaining variances<br>• build a business case with costs and benefits |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Expert | You can:<br>• direct the stakeholder relationship strategy for your teams<br>• ensure stakeholder's objectives are set and support teams to meet them<br>• influence and negotiate with senior stakeholders to resolve issues and enable progress |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterized by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
 
 ### Typical qualifications and experience
 
@@ -313,8 +313,8 @@ Leads communications and engagement for the organization, sets its strategy, and
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -332,5 +332,5 @@ Leads communications and engagement for the organization, sets its strategy, and
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

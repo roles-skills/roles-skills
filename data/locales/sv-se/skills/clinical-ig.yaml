@@ -1,0 +1,228 @@
+# Swedish translations of data/skills/clinical-ig.yaml. Keys are the English skill ids.
+clin-clinical-systems-optimisation:
+  name: Utformning och optimering av kliniska system
+  description: Utforma, konfigurera och förbättra kliniska system, såsom elektroniska patientjournaler, ordersystem och elektronisk förskrivning, så att de passar kliniska arbetsflöden och stöder trygg och effektiv vård.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara hur kliniska system såsom elektroniska patientjournaler stöder vården
+      - beskriva de kliniska arbetsflöden som ett system stöder
+    working: |
+      Du kan:
+      - kartlägga nuvarande och framtida kliniska arbetsflöden tillsammans med kliniker och vårdpersonal
+      - testa systemkonfiguration mot kliniska scenarier
+      - skriva tydliga kliniska krav för produktteam
+    practitioner: |
+      Du kan:
+      - leda den kliniska utformningen av systemkonfiguration, formulär, ordermängder och beslutsstöd
+      - använda data och användarnas återkoppling för att hitta och åtgärda arbetsflödesproblem
+      - balansera kliniskt behov, säkerhet, användbarhet och systembegränsningar
+    expert: |
+      Du kan:
+      - fastställa designprinciper och standarder för kliniska system i hela organisationen
+      - leda optimeringsprogram som mätbart förbättrar vården och personalens upplevelse
+      - ge högre ledare råd om val av kliniska system och deras effekt på vården
+clin-human-factors:
+  name: Mänskliga faktorer och användbarhet i kliniska system
+  description: Tillämpa metoder för mänskliga faktorer och användbarhet på kliniska system, så att kliniker, vårdpersonal och patienter kan använda dem tryggt och med så få fel som möjligt.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara hur dålig design kan leda till fel i vården
+      - rapportera användbarhetsproblem som kan påverka patientsäkerheten
+    working: |
+      Du kan:
+      - delta i användbarhetstester och simuleringar av kliniska uppgifter
+      - upptäcka vanliga designfaror, såsom liknande alternativ eller dolda larm
+    practitioner: |
+      Du kan:
+      - planera och genomföra bedömningar av mänskliga faktorer i kliniska system
+      - omsätta fynd till designändringar och kliniska säkerhetskontroller
+      - bedöma larmbördan och risken för genvägar
+    expert: |
+      Du kan:
+      - fastställa organisationens förhållningssätt till mänskliga faktorer i digitala tjänster
+      - granska evidensen för mänskliga faktorer för högrisksystem och förändringar
+      - bygga kompetens inom mänskliga faktorer i kliniska och digitala team
+clin-digital-health-evaluation:
+  name: Utvärdering och nyttor av digital hälsa
+  description: Planera och genomföra utvärderingar av digitala hälsotekniker, och mäta deras kliniska nytta, säkerhet och tjänstenytta med sunda metoder och evidens.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför digitala hälsotekniker behöver evidens för nytta och säkerhet
+      - hitta publicerad evidens om en teknik
+    working: |
+      Du kan:
+      - samla in utgångs- och uppföljningsdata till en utvärdering
+      - genomföra kliniska revisioner av systemanvändning
+      - sammanfatta utvärderingsfynd för kollegor
+    practitioner: |
+      Du kan:
+      - utforma utvärderingar och nyttoplaner för digitala hälsoprodukter
+      - välja lämpliga mått för kliniska utfall, säkerhet och upplevelse
+      - bedöma evidensens styrka och förklara dess begränsningar
+    expert: |
+      Du kan:
+      - fastställa organisationens förhållningssätt till utvärdering av digital hälsa
+      - leda forsknings- och utvärderingsprogram tillsammans med akademiska partner och vårdpartner
+      - använda evidens för att ge styrelsen råd om digitala investeringar
+clin-professional-practice:
+  name: Legitimerad klinisk praxis inom digitalt
+  description: Tillföra aktuell, legitimerad klinisk kunskap och omdöme till digitalt arbete, samtidigt som en klinisk professions standarder, etik och skyldigheter om förnyad bedömning uppfylls.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara de professionella standarder som gäller för en legitimerad kliniker
+      - känna igen när en fråga behöver ett kliniskt utlåtande
+    working: |
+      Du kan:
+      - tillämpa dina kliniska kunskaper i digitalt arbete inom ditt yrkesområde
+      - hålla din legitimation och fortlöpande professionella utveckling uppdaterade
+      - ge kliniska utlåtanden om arbetsflöden, innehåll och säkerhet
+    practitioner: |
+      Du kan:
+      - göra sunda kliniska bedömningar av digitala tjänsters effekt på vården
+      - med självförtroende ifrågasätta osäker praxis, i digitala eller kliniska miljöer
+      - stödja andra kliniker att tillämpa sina professionella standarder på digitalt arbete
+    expert: |
+      Du kan:
+      - leda de kliniska professionella standarderna för organisationens digitala arbete
+      - vara en senior klinisk röst i beslut om patientsäkerhet och vård
+      - stödja förnyad bedömning och professionell utveckling för kliniker i digitala roller
+ig-information-rights-requests:
+  name: Begäranden om informationsrättigheter
+  description: Hantera begäranden från enskilda och allmänheten om tillgång till information, såsom begäranden om tillgång till personliga hälsojournaler och begäranden om information som organisationen förfogar över, inom lagstadgade tidsfrister.
+  levels:
+    awareness: |
+      Du kan:
+      - känna igen en begäran om informationsrättigheter och föra den vidare omgående
+      - förklara att begäranden har lagstadgade tidsfrister
+    working: |
+      Du kan:
+      - logga, bekräfta och följa begäranden för att hålla tidsfristerna
+      - samla in och maskera information, och utkasta svar för granskning
+      - kontrollera identiteten och behörigheten hos den som frågar
+    practitioner: |
+      Du kan:
+      - hantera komplexa eller känsliga begäranden, inklusive sådana som rör tredje part
+      - tillämpa undantag och avgöra vad som ska hållas inne, med tydliga skäl
+      - hantera interna omprövningar och klagomål på svar
+    expert: |
+      Du kan:
+      - fastställa policy och process för informationsrättigheter i hela organisationen
+      - leda svaret på förfrågningar och överklaganden från tillsynsmyndigheter
+      - rapportera om prestation och trender till högre ledare
+ig-records-retention:
+  name: Gallring och bortskaffande av journaler
+  description: Tillämpa gallringsscheman på pappersjournaler och digitala journaler, och arkivera eller säkert förstöra dem vid rätt tidpunkt, med ett granskningsspår.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför journaler bevaras under bestämda perioder och sedan förstörs eller arkiveras
+      - följa rutiner för att lagra och flytta journaler
+    working: |
+      Du kan:
+      - tillämpa gallringsschemat på journaler och flagga dem som är aktuella för översyn
+      - förbereda journaler för arkivering eller säker förstöring, och föra granskningsspåret
+    practitioner: |
+      Du kan:
+      - driva programmet för gallring och bortskaffande i en journaltjänst
+      - ge team råd om gallring för nya typer av journaler, inklusive digitala
+      - granska efterlevnaden av gallringsscheman
+    expert: |
+      Du kan:
+      - fastställa policy och schema för gallring i organisationen
+      - planera långsiktigt bevarande av digitala journaler
+      - lösa komplexa gallringsfrågor, såsom rättsliga spärrar och utredningar
+ig-data-protection-impact-assessment:
+  name: Konsekvensbedömning avseende dataskydd
+  description: Bedöma integritetsriskerna med ny eller ändrad behandling av personuppgifter och hälsodata, och komma överens om kontroller innan behandlingen börjar.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara när en konsekvensbedömning avseende dataskydd behövs
+      - fylla i ett screeningformulär för ditt arbete
+    working: |
+      Du kan:
+      - hjälpa projektteam att genomföra konsekvensbedömningar avseende dataskydd
+      - beskriva dataflöden och identifiera den rättsliga grunden för behandling
+      - registrera integritetsrisker och föreslagna kontroller
+    practitioner: |
+      Du kan:
+      - granska och ge råd om konsekvensbedömningar avseende dataskydd för komplexa system
+      - bedöma om risker är acceptabla och rekommendera kontroller
+      - avgöra när höga risker ska eskaleras för granskning av ledningen eller tillsynsmyndigheten
+    expert: |
+      Du kan:
+      - fastställa organisationens process och standarder för konsekvensbedömning avseende dataskydd
+      - ge det slutliga rådet om den mest högriskfyllda behandlingen, såsom storskalig datadelning eller AI
+      - samråda med tillsynsmyndigheter där lagen kräver det
+ig-incident-management:
+  name: Hantering av incidenter inom informationsstyrning
+  description: Registrera, utreda och lära av dataintrång och nästan-tillbud, och avgöra när tillsynsmyndigheter och de som berörs ska underrättas.
+  levels:
+    awareness: |
+      Du kan:
+      - känna igen ett dataintrång eller ett nästan-tillbud och rapportera det direkt
+    working: |
+      Du kan:
+      - logga incidenter och samla in fakta
+      - bedöma incidenter mot organisationens allvarlighetskriterier
+      - följa upp åtgärder till avslut
+    practitioner: |
+      Du kan:
+      - utreda allvarliga incidenter och hitta deras grundorsaker
+      - tillsammans med seniora kollegor avgöra om tillsynsmyndigheter och berörda ska underrättas
+      - dela lärdomar och följa upp förbättringar
+    expert: |
+      Du kan:
+      - fastställa processen för incidenthantering inom informationsstyrning
+      - leda hanteringen av större intrång, inklusive med tillsynsmyndigheter och medier
+      - rapportera incidenttrender och risker till styrelsen
+ig-confidentiality-and-sharing:
+  name: Sekretess och informationsdelning
+  description: Skydda konfidentiell patientinformation samtidigt som den delas lagligt när vård, säkerhet eller lagen kräver det, inklusive genom avtal om informationsdelning.
+  levels:
+    awareness: |
+      Du kan:
+      - hålla konfidentiell information säker och dela den bara när du får
+      - be om råd när du är osäker
+    working: |
+      Du kan:
+      - kontrollera att en begäran om att dela information uppfyller policyn
+      - föra register över vad som delades, med vem och varför
+      - utkasta enkla avtal om informationsdelning
+    practitioner: |
+      Du kan:
+      - ge råd i komplexa sekretessfrågor, såsom delning utan samtycke i allmänhetens intresse
+      - granska avtal om informationsdelning med partnerorganisationer
+      - tillämpa regler om samtycke och patientinvändningar på dataflöden
+    expert: |
+      Du kan:
+      - vara organisationens seniora rådgivare i sekretessfrågor
+      - lösa de svåraste besluten om utlämnande
+      - fastställa ramverket för att dela information med partner
+ig-compliance-assurance:
+  name: Kvalitetssäkring och revision av informationsstyrning
+  description: Kontrollera och visa att organisationen uppfyller standarderna för informationsstyrning, genom årliga självutvärderingar, revisioner, evidens och förbättringsplaner.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför organisationen måste visa att den hanterar information väl
+      - lämna evidens till en revision när du blir ombedd
+    working: |
+      Du kan:
+      - samla in och ordna evidens till den årliga självutvärderingen
+      - genomföra enkla revisioner, såsom granskningar av åtkomst eller journalföring
+      - följa upp förbättringsåtgärder
+    practitioner: |
+      Du kan:
+      - planera och driva programmet för kvalitetssäkring av informationsstyrning
+      - bedöma om evidensen uppfyller standarden och identifiera glapp
+      - arbeta med interna och externa revisorer
+    expert: |
+      Du kan:
+      - äga organisationens ramverk för kvalitetssäkring av informationsstyrning
+      - rapportera kvalitetssäkring och efterlevnad till styrelsen och dess kommittéer
+      - fastställa förbättringsprioriteringar utifrån risk

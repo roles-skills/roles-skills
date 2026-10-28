@@ -1,0 +1,46 @@
+summary: >
+  Manajer penyampaian membantu tim multidisiplin menyampaikan layanan kesehatan digital yang berfungsi bagi pasien, tenaga klinis, dan tenaga perawatan. Mereka menciptakan kondisi agar tim bekerja dengan baik, menyingkirkan hambatan, mengelola risiko dan ketergantungan, dan menjaga penyampaian tetap bergerak dengan kecepatan yang berkelanjutan, memakai cara kerja agile dan lean.
+health_context:
+  - Rilis ke layanan yang mendukung perawatan pasien harus lolos pemeriksaan keselamatan klinis dan tata kelola informasi, sehingga manajer penyampaian memasukkannya ke dalam rencana dan definisi selesai tim.
+  - Penyampaian sering bergantung pada tenaga klinis dan tenaga perawatan yang memiliki waktu terbatas di luar pasien, sehingga manajer penyampaian merencanakan riset, pengujian, dan pelatihan di sekitar jadwal jaga klinis.
+  - Perubahan pada layanan klinis langsung memerlukan pengaturan waktu yang cermat, sehingga manajer penyampaian merencanakan peluncuran bersama tim operasional untuk menghindari periode klinis tersibuk dan menyiapkan dukungan.
+  - Tim sering bergantung pada pemasok sistem klinis dan organisasi kesehatan dan perawatan lain, sehingga manajer penyampaian mengelola ketergantungan eksternal dan kontrak.
+levels:
+  - title: Manajer penyampaian asosiat
+    responsibilities:
+      - Memfasilitasi seremoni tim seperti stand-up, perencanaan, show and tell, dan retrospektif.
+      - Menjaga papan tim, log risiko dan isu, serta catatan ketergantungan tetap mutakhir.
+      - Melacak tugas keselamatan klinis, tata kelola informasi, dan aksesibilitas yang diperlukan sebelum setiap rilis.
+      - Mengatur sesi dengan tenaga klinis, tenaga perawatan, dan pasien untuk riset dan pengujian, bekerja di sekitar jadwal jaga klinis.
+      - Mendampingi dan mendukung manajer penyampaian pada tim yang lebih besar, menyampaikan sebagian pekerjaan dengan bimbingan.
+    qualifications:
+      - Sedikit pengalaman bekerja di dalam atau bersama tim penyampaian, atau pengalaman yang setara.
+  - title: Manajer penyampaian
+    responsibilities:
+      - Memimpin penyampaian produk atau layanan kesehatan digital melalui discovery, alpha, beta, dan live.
+      - Merencanakan rilis bersama tim operasional dan klinis, termasuk dukungan peluncuran, pelatihan, dan rencana pembatalan.
+      - Memastikan penjaminan keselamatan klinis, tata kelola informasi, dan aksesibilitas berlangsung seiring penyampaian, bukan di akhir.
+      - Mengelola anggaran tim, kontrak pemasok, dan sumber dayanya.
+      - Melaporkan kemajuan, risiko, dan manfaat kepada dewan tata kelola dalam bahasa sederhana.
+      - Membangun budaya tim yang sehat dan membimbing anggota tim dalam cara kerja agile.
+    qualifications:
+      - Pengalaman yang substansial dalam menyampaikan produk atau layanan digital dengan metode agile.
+    job_evaluation_notes: Tidak ada tingkat Pita 6 karena UK GDaD PCF tidak memiliki tingkat manajer penyampaian di antara asosiat (EO/HEO) dan manajer penyampaian (SEO/G7).
+  - title: Manajer penyampaian senior
+    responsibilities:
+      - Memimpin penyampaian layanan yang kompleks atau berisiko tinggi, seperti yang dipakai dalam perawatan darurat atau yang menggantikan sistem klinis inti.
+      - Bertindak sebagai titik eskalasi utama untuk risiko, isu, dan ketergantungan penyampaian di beberapa tim.
+      - Merencanakan peluncuran skala besar di berbagai lokasi dan organisasi, bersama petugas keselamatan klinis dan pimpinan operasional.
+      - Mengelola anggaran, pengaturan komersial, dan kinerja pemasok untuk layanan.
+      - Mengelola secara langsung dan mengembangkan manajer penyampaian.
+    qualifications:
+      - Pengalaman luas dalam menyampaikan layanan digital yang kompleks sepanjang seluruh siklus hidupnya.
+  - title: Kepala manajemen penyampaian
+    responsibilities:
+      - Memimpin profesi manajemen penyampaian dan menetapkan standar organisasi untuk penyampaian agile.
+      - Merekrut, mengembangkan, dan menugaskan manajer penyampaian di seluruh portofolio.
+      - Memastikan pendekatan penyampaian memenuhi persyaratan keselamatan klinis, tata kelola informasi, dan penjaminan tanpa memperlambat tim secara tidak perlu.
+      - Menasihati pimpinan eksekutif dan klinis tentang risiko, kapasitas, dan prioritas penyampaian.
+      - Mengelola anggaran dan rencana tenaga kerja profesi.
+    qualifications:
+      - Pengalaman luas dalam memimpin penyampaian di banyak tim dan memimpin praktik penyampaian.

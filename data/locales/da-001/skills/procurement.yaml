@@ -1,0 +1,265 @@
+# Danish translation of data/skills/procurement.yaml. Keys are the English skill ids.
+proc-purchase-to-pay:
+  name: Fra bestilling til betaling
+  description: At oprette, godkende og kvittere for ordrer og løse spørgsmål om fakturaer og betalinger gennem organisationens indkøbssystem og økonomiske kontroller.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare reglen "ingen indkøbsordre, ingen betaling" og hvorfor den er vigtig
+      - oprette en rekvisition i indkøbssystemet
+    working: |
+      Du kan:
+      - oprette og ændre indkøbsordrer og kontrollere dem mod kontrakter
+      - løse spørgsmål om fakturaer, kvitteringer og betalinger sammen med leverandører og økonomi
+      - vedligeholde kataloger og leverandørregistre i indkøbssystemet
+    practitioner: |
+      Du kan:
+      - drive processen fra bestilling til betaling for en service og følge op på overholdelse og efterslæb
+      - analysere udgiftsdata for at finde køb uden for kontrakt og besparelser
+      - forbedre processen og kontrollerne sammen med kolleger i økonomi
+    expert: |
+      Du kan:
+      - fastlægge organisationens politik, kontroller og systemer for processen fra bestilling til betaling
+      - lede overgangen til fuldt elektronisk indkøb og fakturering
+proc-procurement-process:
+  name: Udbudsproces
+  description: At gennemføre lovlige udbud, fra planlægning og kravspecifikation over valg af indkøbsvej, udbud og tildeling til kontraktunderskrivelse, herunder køb via rammeaftaler og dynamiske indkøbssystemer.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare udbuddets faser og de tærskelværdier, der gælder
+      - indhente tilbud på køb af lav værdi efter organisationens regler
+    working: |
+      Du kan:
+      - gennemføre tilbudsindhentning og afrop fra rammeaftaler ved hjælp af standardskabeloner
+      - udarbejde udbudsmateriale og håndtere afklarende spørgsmål i det elektroniske udbudssystem
+      - føre et klart revisionsspor for hvert udbud
+    practitioner: |
+      Du kan:
+      - planlægge og lede komplekse udbud og vælge den rette indkøbsvej og procedure
+      - hjælpe brugerne med at skrive resultatbaserede kravspecifikationer til digitale og kliniske systemer
+      - styre tidsplaner, risici og interessenter frem til tildeling af kontrakten
+    expert: |
+      Du kan:
+      - fastlægge organisationens udbudsprocedurer og skabeloner
+      - lede de mest komplekse, værdifulde eller nye udbud
+      - kvalitetssikre udbudsbeslutninger over for bestyrelsen
+proc-tender-evaluation:
+  name: Tilbudsevaluering
+  description: At udforme evalueringskriterier og vægtning og gennemføre en retfærdig og veldokumenteret evaluering af kvalitet, pris og social værdi.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor evalueringen skal følge de offentliggjorte kriterier
+      - erklære interessekonflikter, før du deltager i en evaluering
+    working: |
+      Du kan:
+      - kontrollere, at tilbud er i overensstemmelse med kravene og fuldstændige
+      - understøtte evaluatorerne og registrere point og noter fra moderationen
+      - forberede prisevalueringsmodeller under vejledning
+    practitioner: |
+      Du kan:
+      - udforme evalueringskriterier, vægtning og vejledning i pointgivning
+      - lede moderationen og skrive tildelingsrapporter og feedback til tilbudsgiverne
+      - planlægge demonstrationer og test med kliniske scenarier eller brugerscenarier ved udbud af systemer
+    expert: |
+      Du kan:
+      - fastlægge organisationens evalueringsstandarder og tilgang til pris og kvalitet
+      - forsvare evalueringsbeslutninger, når de anfægtes
+      - gennemgå evalueringer af udbud med høj risiko
+proc-procurement-law-and-policy:
+  name: Udbudsregler og -politik
+  description: At anvende udbudsreglerne, organisationens økonomiske regler og indkøbspolitikken, så indkøb er lovlige, gennemsigtige og retfærdige.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, at offentlige midler skal bruges retfærdigt, åbent og lovligt
+      - følge organisationens tærskelværdier og godkendelsesregler
+    working: |
+      Du kan:
+      - anvende de udbudsregler, der passer til et ligetil køb
+      - offentliggøre bekendtgørelser og føre registre, der opfylder gennemsigtighedsreglerne
+      - spotte, når en anmodning risikerer at bryde reglerne, og gøre opmærksom på det
+    practitioner: |
+      Du kan:
+      - rådgive om den lovlige fremgangsmåde ved komplekse udbud og kontraktændringer
+      - styre risikoen for klager og håndtere standstill-perioden og debriefing korrekt
+      - skrive indkøbspolitik og vejledning for organisationen
+    expert: |
+      Du kan:
+      - fortolke nye udbudsregler og lede organisationens reaktion
+      - rådgive bestyrelsen om overholdelse af udbudsreglerne og risici
+      - håndtere formelle klager sammen med juridiske rådgivere
+proc-market-analysis:
+  name: Markedsanalyse og markedsdialog
+  description: At forstå leverandørmarkeder, indgå i dialog med leverandører før et udbud og bruge markedsviden til at forme krav, indkøbsveje og kommercielle modeller.
+  levels:
+    awareness: |
+      Du kan:
+      - finde leverandører i rammeaftaler og leverandørdatabaser
+      - forklare, hvorfor tidlig markedsdialog skal være fair over for alle leverandører
+    working: |
+      Du kan:
+      - indsamle markedsoplysninger, priser og leverandøroplysninger til et behov
+      - gennemføre en anmodning om oplysninger (RFI) og sammenfatte svarene
+    practitioner: |
+      Du kan:
+      - analysere et leverandørmarked, dets konkurrence, risici og tendenser
+      - lede tidlig markedsdialog, såsom leverandørdage, uden at fordreje konkurrencen
+      - bruge markedsviden til at forme krav og kommercielle modeller
+    expert: |
+      Du kan:
+      - forme markeder, for eksempel ved at opmuntre nye eller mindre leverandører
+      - lede markedsstrategien sammen med andre indkøbende organisationer
+proc-negotiation:
+  name: Kommerciel forhandling
+  description: At planlægge og gennemføre forhandlinger med leverandører for at aftale pris, vilkår og ydelser, der giver valuta for pengene og håndterer risici.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvad der kan og ikke kan forhandles i et offentligt udbud
+    working: |
+      Du kan:
+      - forhandle priser og vilkår ved køb af lav værdi eller rutinekøb
+      - forberede data og muligheder til en forhandling, som andre leder
+    practitioner: |
+      Du kan:
+      - planlægge og lede forhandlinger og fastsætte mål, grænser og reservepositioner
+      - forhandle kontraktændringer, fornyelser og forlig i tvister
+      - holde forhandlinger lovlige og veldokumenterede
+    expert: |
+      Du kan:
+      - lede forhandlinger af høj værdi og med høj risiko med strategiske leverandører
+      - coache andre i forhandling og fastlægge organisationens tilgang til forhandling
+proc-category-management:
+  name: Kategoristyring
+  description: At styre en udgiftskategori, såsom software, cloud og teknologiydelser, gennem en kategoristrategi, der samler efterspørgslen, former kravene og planlægger udbud over flere år.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvad en kategori er, og hvorfor kategoriplaner er vigtige
+    working: |
+      Du kan:
+      - analysere udgifter og kontrakter for en kategori og holde kontraktregistret ajour
+      - understøtte kategoriplanen, for eksempel ved at følge fornyelser og besparelser
+    practitioner: |
+      Du kan:
+      - skrive og gennemføre en kategoristrategi sammen med budgetansvarlige og tekniske ledere
+      - planlægge kategoriens pipeline af udbud og kontraktfornyelser
+      - følge besparelser, værdi og risici for kategorien
+    expert: |
+      Du kan:
+      - fastlægge organisationens tilgang til kategoristyring
+      - lede de kategorier, der har de højeste udgifter og den højeste risiko, og afstemme dem med organisationens strategi
+      - samarbejde med andre organisationer om fælles indkøb
+proc-technology-procurement:
+  name: Indkøb af teknologi og cloud
+  description: At købe software, cloudtjenester, licenser, hardware og digitale ydelser, herunder software som en service, kommercielle modeller, licensering og de vilkår om sikkerhed, databeskyttelse og interoperabilitet, som sundhedsteknologi kræver.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare de vigtigste måder, teknologi købes på, såsom licenser, abonnementer og tjenesteydelser
+      - genkende, at kliniske systemer kræver kontrol af sikkerhed, klinisk sikkerhed og databeskyttelse
+    working: |
+      Du kan:
+      - købe standardsoftware, hardware og licenser gennem rammeaftaler
+      - følge antallet af licenser, fornyelser og datoer for efterregulering
+      - indarbejde standardkrav til sikkerhed og databeskyttelse i dokumenterne
+    practitioner: |
+      Du kan:
+      - købe cloud, software som en service og kliniske systemer og vælge den rette kommercielle model
+      - opstille krav sammen med tekniske ledere og ledere af klinisk sikkerhed og informationsstyring
+      - indarbejde interoperabilitet, åbne standarder, dataejerskab og exit-vilkår i kontrakter
+      - undgå indlåsning ved at planlægge for portabilitet og konkurrence ved fornyelse
+    expert: |
+      Du kan:
+      - fastlægge organisationens kommercielle strategi for teknologi og cloud
+      - lede forhandlinger om virksomhedsaftaler og strategiske platforme
+      - rådgive digitale ledere om de kommercielle risici ved teknologivalg
+proc-contract-management:
+  name: Kontraktstyring
+  description: At styre kontrakter efter tildelingen, herunder opstart, ydelser, betalinger, ændringer, tvister, fornyelse og exit, så organisationen får det, den har betalt for.
+  levels:
+    awareness: |
+      Du kan:
+      - finde en kontrakt og forklare dens vigtigste datoer, værdi og ejer
+      - registrere kontraktændringer og dokumenter i kontraktregistret
+    working: |
+      Du kan:
+      - følge op på leverandørens præstation i forhold til serviceniveauer og nøgleindikatorer
+      - forberede kontraktgennemgangsmøder og følge op på handlinger
+      - behandle kontraktændringer og kontrollere fakturaer mod kontrakten
+    practitioner: |
+      Du kan:
+      - styre en portefølje af kontrakter, herunder kliniske kontrakter og teknologikontrakter
+      - bruge kontraktuelle misligholdelsesbeføjelser, såsom servicekreditter, når ydelsen ikke er tilfredsstillende
+      - håndtere ændringer, tvister og fornyelser inden for udbudsreglerne
+      - planlægge exit tidligt og afprøve exit-planer, før kontrakterne udløber
+    expert: |
+      Du kan:
+      - fastlægge organisationens rammer og standarder for kontraktstyring
+      - lede styringen af strategiske kontrakter med høj risiko
+      - løse større tvister og træffe beslutning om opsigelse eller genudbud
+proc-supplier-relationship-management:
+  name: Styring af leverandørrelationer
+  description: At opbygge strategiske relationer til nøgleleverandører for at håndtere risici, forbedre præstationer og udvikle produkter og services over tid.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor gode leverandørrelationer er vigtige for services, som patienter er afhængige af
+      - omgås leverandører professionelt og registrere kontakter
+    working: |
+      Du kan:
+      - holde leverandørkontakter, eskaleringsveje og registre ajour
+      - kontrollere leverandørens økonomiske sundhed og forsikring i forhold til kravene
+    practitioner: |
+      Du kan:
+      - opdele leverandører efter risiko og værdi og planlægge, hvordan hver gruppe styres
+      - gennemføre strategiske gennemgange med nøgleleverandører, herunder køreplan og forbedringsplaner
+      - styre leverandørrisici, såsom økonomisk svigt, cyberhændelser og problemer i forsyningskæden
+    expert: |
+      Du kan:
+      - fastlægge organisationens strategi for leverandørrelationer
+      - lede direktionsrelationerne til strategiske leverandører
+      - lede indsatsen, når en kritisk leverandør svigter
+proc-exit-planning:
+  name: Exit-planlægning og returnering af data
+  description: At planlægge og styre afslutningen af en kontrakt, herunder overgang til en ny leverandør, returnering og sletning af data og kontinuitet i services for patienter og medarbejdere.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor enhver kontrakt har brug for en exit-plan
+      - finde en kontrakts vilkår om exit og returnering af data
+    working: |
+      Du kan:
+      - holde exit-planer og aktiv- og dataregistre ajour
+      - følge opsigelsesvarsler og exit-milepæle
+    practitioner: |
+      Du kan:
+      - skrive exit- og overgangsplaner sammen med tekniske ledere, dataledere og kliniske ledere
+      - sikre, at data returneres i brugbare standardformater og derefter slettes sikkert
+      - styre risici ved overgangen, så plejen ikke forstyrres
+    expert: |
+      Du kan:
+      - fastlægge organisationens standarder for exit, overgang og returnering af data
+      - lede exit fra strategiske kliniske kontrakter og teknologikontrakter
+proc-social-value:
+  name: Social værdi og bæredygtige indkøb
+  description: At bruge indkøb og kontrakter til at skabe social værdi, miljømæssig bæredygtighed og fair forsyningskæder og måle, hvad leverandørerne leverer.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvad social værdi og bæredygtige indkøb betyder for organisationen
+    working: |
+      Du kan:
+      - indarbejde standardspørgsmål om social værdi og bæredygtighed i udbud
+      - indsamle rapporter om social værdi fra leverandører
+    practitioner: |
+      Du kan:
+      - fastsætte kriterier for social værdi og bæredygtighed, der passer til kontrakten
+      - styre leverandørernes tilsagn, såsom lokale job, kompetencer og CO2-reduktion
+      - undersøge forsyningskæder for risici som tvangsarbejde og andre krænkelser af menneskerettighederne
+    expert: |
+      Du kan:
+      - fastlægge organisationens politik for social værdi og bæredygtige indkøb
+      - rapportere resultater for social værdi og CO2 til bestyrelsen

@@ -1,0 +1,260 @@
+# Terjemahan bahasa Indonesia dari data/skills/corporate-services.yaml. Kuncinya adalah id keterampilan bahasa Inggris.
+corp-administration:
+  name: Administrasi perkantoran
+  description: Menjalankan proses administrasi yang menjaga tim atau layanan tetap berjalan, seperti pengarsipan, pemesanan, entri data, catatan, dan mengikuti prosedur kantor.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mengikuti prosedur kantor untuk pengarsipan, pemesanan, dan entri data
+      - menyimpan catatan yang akurat tentang pekerjaan Anda sendiri
+    working: |
+      Anda dapat:
+      - menjalankan berbagai proses administrasi untuk sebuah tim dengan sedikit pengawasan
+      - menemukan dan memperbaiki kesalahan dalam catatan dan data
+      - menyarankan cara kerja yang lebih sederhana
+    practitioner: |
+      Anda dapat:
+      - mengatur dukungan administrasi untuk sebuah layanan atau direktorat
+      - menulis dan memperbaiki prosedur administrasi
+      - melatih dan memeriksa pekerjaan administrator lain
+    expert: |
+      Anda dapat:
+      - merancang layanan administrasi di seluruh organisasi
+      - memimpin peralihan ke proses administrasi yang lebih sederhana dan digital
+corp-office-software:
+  name: Perangkat kantor digital
+  description: Menggunakan pengolah kata, lembar kerja, presentasi, surel, dokumen bersama, dan perangkat kolaborasi dengan cepat dan akurat.
+  levels:
+    awareness: |
+      Anda dapat:
+      - membuat dan menyunting dokumen, surel, dan lembar kerja sederhana
+      - menyimpan dan membagikan berkas di tempat yang tepat
+    working: |
+      Anda dapat:
+      - menghasilkan dokumen dan presentasi yang diformat dengan baik secara cepat dan akurat
+      - menggunakan lembar kerja untuk mengurutkan, menyaring, dan merangkum data
+      - menggunakan perangkat kolaborasi untuk mengelola dokumen bersama dan versinya
+    practitioner: |
+      Anda dapat:
+      - membuat templat, pelacak, dan alur kerja otomatis yang sederhana
+      - membuat dokumen dapat diakses oleh semua orang
+      - membantu rekan kerja memanfaatkan perangkat kantor sebaik-baiknya
+    expert: |
+      Anda dapat:
+      - menetapkan standar templat, pengelolaan dokumen, dan perangkat kolaborasi
+      - memimpin penerapan perangkat kantor baru di seluruh organisasi
+corp-diary-and-meeting-management:
+  name: Pengelolaan agenda dan rapat
+  description: Mengelola agenda, rapat, dan perjalanan agar waktu orang digunakan dengan baik dan rapat dihadiri orang yang tepat, dengan bahan dan ruang yang tepat.
+  levels:
+    awareness: |
+      Anda dapat:
+      - memesan rapat dan ruangan menggunakan perangkat organisasi
+      - mengirim undangan dan bahan tepat waktu
+    working: |
+      Anda dapat:
+      - mengelola agenda sebuah tim dan menyelesaikan bentrokan
+      - mengatur perjalanan, acara, dan rapat dengan mitra luar
+      - memastikan bahan dan tindak lanjut siap sebelum rapat
+    practitioner: |
+      Anda dapat:
+      - mengelola agenda seorang pemimpin senior, menetapkan prioritas bersamanya
+      - memutuskan apa yang memerlukan waktunya dan apa yang dapat ditangani orang lain
+      - merencanakan siklus rapat tahunan untuk sebuah dewan atau tim pimpinan
+    expert: |
+      Anda dapat:
+      - menjalankan siklus bisnis untuk sebuah tim eksekutif
+      - memastikan waktu pemimpin senior terfokus pada prioritas organisasi
+corp-minute-taking:
+  name: Pembuatan notulen dan catatan rapat
+  description: Mencatat diskusi, keputusan, dan tindak lanjut secara akurat dan ringkas, serta menyimpan catatan rapat formal.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mencatat tindak lanjut dan keputusan dalam rapat tim
+    working: |
+      Anda dapat:
+      - menulis notulen dan log tindak lanjut yang akurat dan ringkas untuk rapat rutin
+      - menindaklanjuti tindakan bersama pemiliknya
+    practitioner: |
+      Anda dapat:
+      - membuat notulen formal rapat dewan dan komite, termasuk diskusi yang kompleks atau kontroversial
+      - menyimpan catatan rapat formal yang tahan terhadap audit dan penyelidikan
+      - menasihati ketua rapat tentang apa yang seharusnya ditunjukkan catatan
+    expert: |
+      Anda dapat:
+      - menetapkan standar catatan rapat formal di seluruh organisasi
+      - melatih dan memeriksa mutu pembuat notulen
+corp-correspondence-management:
+  name: Penanganan surat-menyurat dan pertanyaan
+  description: Menangani surat, surel, panggilan, dan pertanyaan dengan segera dan sopan, serta meneruskannya kepada orang yang tepat.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjawab panggilan dan surel dengan sopan dan mencatat pesan secara akurat
+      - meneruskan pertanyaan kepada orang yang tepat
+    working: |
+      Anda dapat:
+      - menangani sendiri surat-menyurat dan pertanyaan rutin
+      - menyusun surat dan balasan untuk ditandatangani orang lain
+      - menyimpan log surat-menyurat dan menagih balasan
+    practitioner: |
+      Anda dapat:
+      - mengelola surat-menyurat seorang pemimpin senior, termasuk surat yang sensitif dan surat keluhan
+      - menyusun balasan yang memerlukan kebijaksanaan, ketepatan, dan pertimbangan
+      - memastikan balasan memenuhi tenggat
+    expert: |
+      Anda dapat:
+      - menetapkan proses dan standar surat-menyurat eksekutif
+      - menangani surat-menyurat paling sensitif, termasuk dengan regulator, mitra, dan media
+corp-pmo-reporting:
+  name: Dukungan kantor proyek dan portofolio
+  description: Menjalankan proses kantor proyek dan portofolio, seperti rencana, register, pelaporan, pengendalian dokumen, dan pemeriksaan penjaminan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menyimpan dokumen proyek di tempat yang tepat, dengan kendali versi
+      - memperbarui log tindakan, risiko, dan isu ketika diminta
+    working: |
+      Anda dapat:
+      - memelihara rencana, register, dan pelacak untuk beberapa proyek
+      - mengumpulkan pembaruan dan menyusun laporan status berkala
+      - memeriksa bahwa proyek mengikuti metode yang disepakati
+    practitioner: |
+      Anda dapat:
+      - merancang pelaporan portofolio dan menganalisis kemajuan, risiko, dan manfaat di berbagai proyek
+      - menjalankan pemeriksaan penjaminan dan tinjauan gerbang
+      - menasihati manajer proyek tentang metode dan pengendalian
+    expert: |
+      Anda dapat:
+      - membentuk dan memimpin kantor portofolio untuk organisasi
+      - memberi pimpinan senior wawasan yang jelas dan andal tentang portofolio
+      - menetapkan standar dan perangkat manajemen proyek dan portofolio
+corp-assurance-and-audit:
+  name: Penjaminan dan penghubung audit
+  description: Mengumpulkan jaminan bahwa pengendalian berfungsi, mendukung audit internal dan eksternal, dan melacak rekomendasi audit sampai selesai.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bagaimana audit dan penjaminan berjalan di organisasi
+      - menyediakan bukti ketika diminta
+    working: |
+      Anda dapat:
+      - mengoordinasikan bukti untuk audit dan inspeksi
+      - melacak rekomendasi audit dan menagih tindakan yang terlambat
+    practitioner: |
+      Anda dapat:
+      - merencanakan pemetaan penjaminan atas risiko utama organisasi
+      - bekerja dengan auditor internal dan eksternal untuk menyepakati lingkup dan temuan
+      - melaporkan kesenjangan penjaminan kepada komite
+    expert: |
+      Anda dapat:
+      - merancang kerangka penjaminan organisasi
+      - menasihati komite audit dan dewan tentang kekuatan penjaminan
+corp-policy-management:
+  name: Pengelolaan kebijakan
+  description: Menulis, meninjau, menyetujui, dan menerbitkan kebijakan dan prosedur organisasi, serta memeriksa bahwa orang mengikutinya.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menemukan dan mengikuti kebijakan yang berlaku untuk pekerjaan Anda
+    working: |
+      Anda dapat:
+      - menjaga register kebijakan tetap mutakhir dan mengingatkan pemilik tentang tinjauan
+      - memeriksa bahwa kebijakan memakai templat dan jalur persetujuan yang tepat
+    practitioner: |
+      Anda dapat:
+      - menyusun dan meninjau kebijakan bersama pakar bidangnya
+      - memeriksa kebijakan terhadap hukum, standar, dan kewajiban kesetaraan
+      - memantau kepatuhan dan melaporkan kesenjangan
+    expert: |
+      Anda dapat:
+      - menetapkan kerangka kebijakan organisasi
+      - menasihati dewan tentang prioritas dan risiko kebijakan
+corp-internal-communications:
+  name: Komunikasi internal
+  description: Menjaga staf tetap terinformasi dan terlibat melalui kanal seperti intranet, buletin, pengarahan, dan acara, terutama selama perubahan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menerbitkan konten di kanal internal seperti intranet
+      - mengikuti gaya dan nada suara organisasi
+    working: |
+      Anda dapat:
+      - menulis dan menyunting berita, pengarahan, dan buletin untuk staf
+      - merencanakan konten untuk kanal internal dan mengukur keterlibatan
+    practitioner: |
+      Anda dapat:
+      - merencanakan komunikasi internal untuk perubahan besar, seperti sistem klinis baru
+      - menasihati pemimpin tentang cara melibatkan staf dan menyampaikan pesan yang sulit
+      - menggunakan umpan balik dan data untuk memperbaiki kanal
+    expert: |
+      Anda dapat:
+      - menetapkan strategi komunikasi internal dan keterlibatan staf
+      - menasihati tim eksekutif tentang budaya dan keterlibatan
+corp-media-relations:
+  name: Hubungan media
+  description: Membangun hubungan dengan jurnalis, menangani pertanyaan media, menulis siaran pers, dan menyiapkan juru bicara, termasuk saat terjadi insiden.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bagaimana organisasi menangani pertanyaan media
+      - segera meneruskan pertanyaan media kepada tim komunikasi
+    working: |
+      Anda dapat:
+      - mencatat dan menanggapi pertanyaan media rutin
+      - menyusun siaran pers dan pernyataan untuk disetujui
+      - memantau pemberitaan media
+    practitioner: |
+      Anda dapat:
+      - menangani pertanyaan media yang sensitif dan reaktif, termasuk tentang insiden atau pelanggaran data
+      - memberi pengarahan dan menyiapkan juru bicara
+      - membangun hubungan dengan jurnalis kesehatan dan teknologi
+    expert: |
+      Anda dapat:
+      - memimpin penanganan media selama insiden dan krisis besar
+      - melindungi dan membangun reputasi organisasi di mata pemangku kepentingan senior
+      - menasihati dewan tentang risiko reputasi
+corp-communications-strategy:
+  name: Strategi dan perencanaan komunikasi
+  description: Merencanakan komunikasi dan kampanye yang memenuhi tujuan organisasi, menggunakan wawasan tentang khalayak, dan mengevaluasi dampaknya.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan tujuan rencana komunikasi yang sedang Anda kerjakan
+    working: |
+      Anda dapat:
+      - menulis rencana komunikasi untuk proyek, dengan khalayak, pesan, dan kanal
+      - mengukur hasil kegiatan komunikasi
+    practitioner: |
+      Anda dapat:
+      - merencanakan kampanye yang mengubah perilaku, seperti mendorong pasien memakai layanan digital
+      - menggunakan wawasan khalayak dan evaluasi untuk memperbaiki kampanye
+      - merencanakan komunikasi untuk insiden dan gangguan layanan
+    expert: |
+      Anda dapat:
+      - menetapkan strategi komunikasi organisasi
+      - memimpin komunikasi krisis
+      - menasihati dewan tentang reputasi dan keterlibatan pemangku kepentingan
+corp-digital-and-social-media:
+  name: Media digital dan media sosial
+  description: Merencanakan, menerbitkan, dan mengelola konten di situs web dan media sosial, berinteraksi dengan khalayak, dan mengukur hasilnya.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menerbitkan konten yang disetujui di kanal organisasi
+      - mengikuti kebijakan media sosial
+    working: |
+      Anda dapat:
+      - merencanakan dan menerbitkan konten untuk situs web dan media sosial
+      - menanggapi komentar dan mengenali isu yang perlu dieskalasi
+      - melaporkan kinerja kanal
+    practitioner: |
+      Anda dapat:
+      - mengelola kanal digital organisasi dan rencana kontennya
+      - menangani unggahan negatif atau menyesatkan, termasuk saat terjadi insiden
+      - menggunakan analitik untuk memperbaiki jangkauan dan keterlibatan
+    expert: |
+      Anda dapat:
+      - menetapkan strategi dan tata kelola kanal digital organisasi
+      - memimpin tanggapan atas risiko reputasi daring

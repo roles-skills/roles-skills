@@ -1,0 +1,47 @@
+summary: It-servicechefer sikrer, at organisationens digitale services leveres på de aftalte niveauer og fortsat forbedres. De definerer serviceniveauer, styrer servicekataloget, rapporterer om præstation og koordinerer de teams og leverandører, der driver hver service. I sundhedsvæsenet omsætter de det, kliniske services har brug for, såsom tilgængelighed døgnet rundt, til servicemål og supportordninger.
+health_context:
+- Serviceniveauer for kliniske systemer afspejler klinisk risiko, så mål for den elektroniske patientjournal eller for ordination adskiller sig fra målene for et administrativt system.
+- Services leveres ofte af en blanding af interne teams, leverandører og services, der deles med partnerorganisationer, så servicechefer koordinerer på tværs af organisatoriske grænser.
+- Klinisk beredskab afhænger af it, så servicechefer arbejder sammen med kliniske ledere og ledere af beredskab om planer for nedetid og kontinuitet.
+- Klinisk personale har lidt tid til at indberette problemer, så servicechefer bruger overvågning, data fra servicedesken og klinisk feedback til at finde problemer tidligt.
+levels:
+- title: It-serviceanalytiker
+  responsibilities:
+  - Reagere på, dokumentere og løse hændelser og anmodninger inden for aftalte serviceniveauer.
+  - Udarbejde regelmæssige servicerapporter, såsom antal sager, svartider og kliniske systemers tilgængelighed.
+  - Kontrollere, at poster i servicekataloget og vidensartikler er korrekte og ajour.
+  - Lede efter mønstre i hændelser og foreslå forbedringer.
+  - Følge reglerne for informationsstyring, når sager og servicedata håndteres.
+  qualifications:
+  - En grunduddannelse i it-servicestyring, en uddannelse på niveau 3 i it eller tilsvarende erfaring.
+- title: It-servicechef
+  responsibilities:
+  - Definere og aftale serviceniveauer for kliniske services og administrative services på grundlag af klinisk risiko og forretningsbehov.
+  - Styre supportordningerne for en portefølje af services, herunder leverandører og fælles services.
+  - Rapportere servicepræstation til serviceejere og kliniske ledere og aftale forbedringshandlinger.
+  - Sikre, at hver service har afprøvede ordninger for kontinuitet og nedetid.
+  - Holde servicekataloget ajour og sikre, at medarbejdere får besked om ændringer i deres services.
+  - Drive et program for løbende serviceforbedring for dine services.
+  qualifications:
+  - Erfaring med at styre it-services til aftalte serviceniveauer.
+  - En it-servicestyringsuddannelse på mellemniveau eller tilsvarende erfaring.
+- title: Senior it-servicechef
+  responsibilities:
+  - Lede servicestyring på tværs af flere platforme og kanaler og forbedre modenheden af processerne for servicestyring.
+  - Aftale serviceniveauer og kontraktvilkår med større leverandører af kliniske systemer og holde dem ansvarlige.
+  - Præsentere servicepræstation og risici for seniorledere inden for klinik og drift.
+  - Lede servicegennemgange efter større hændelser og følge forbedringshandlinger, til de er afsluttet.
+  - Afstemme it-kontinuitetsplaner med kliniske kontinuitetsplaner i samarbejde med ledere af beredskab og klinik.
+  - Lede og udvikle it-servicechefer.
+  qualifications:
+  - Betydelig erfaring med it-servicestyring på tværs af flere services.
+  - En it-servicestyringsuddannelse på avanceret niveau eller tilsvarende erfaring.
+- title: Chef for it-servicestyring
+  responsibilities:
+  - Fastlægge visionen, strategien og driftsmodellen for it-servicestyring i hele organisationen.
+  - Sikre, at hver proces for servicestyring har en ejer og fortsat modnes.
+  - Repræsentere it-servicestyring på seniorniveau, herunder ved klinisk og driftsmæssig styring.
+  - Fungere som det øverste eskaleringspunkt for ledere af kliniske services og administrative services.
+  - Sikre, at servicestyringsfunktionen har de mennesker, værktøjer og det budget, den har brug for.
+  qualifications:
+  - Omfattende erfaring med at lede it-servicestyring i en stor eller kompleks organisation.

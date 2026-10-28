@@ -1,0 +1,159 @@
+# Job evaluation factors in German. Keys are the English factor ids. Points
+# stay as in the English file.
+communication:
+  name: Kommunikations- und Beziehungskompetenz
+  description: Fähigkeiten, die nötig sind, um mit Kolleginnen und Kollegen, Patientinnen und Patienten, der Öffentlichkeit und Partnern zu kommunizieren und Beziehungen zu ihnen aufzubauen. Berücksichtigt, wie komplex, sensibel oder umstritten die Informationen sind und welche Hindernisse dem Verständnis oder der Akzeptanz entgegenstehen.
+  levels:
+    "1": Gibt und erhält Routineinformationen mündlich, vor allem mit Kolleginnen und Kollegen.
+    "2": Gibt und erhält Routineinformationen mündlich, schriftlich oder elektronisch, mit Kolleginnen und Kollegen und anderen.
+    "3": Gibt Routineinformationen, die Taktgefühl oder Überzeugungskraft erfordern, oder komplexe oder sensible Informationen, oder einfache Schulungen für Gruppen.
+    "4": Gibt komplexe, sensible oder umstrittene Informationen, die Überzeugungs-, Verhandlungs- oder Schulungskompetenz erfordern, oder sehr komplexe Informationen.
+    "5": Gibt sehr komplexe oder umstrittene Informationen, die ausgeprägte Überzeugungs- und Verhandlungskompetenz erfordern, präsentiert vor großen Gruppen oder kommuniziert dort, wo erhebliche Hindernisse für die Akzeptanz bestehen.
+    "6": Gibt sehr komplexe, stark umstrittene Informationen, bei denen erhebliche Hindernisse für die Akzeptanz bestehen, mit Kommunikationskompetenz auf höchstem Niveau.
+knowledge:
+  name: Wissen, Ausbildung und Erfahrung
+  description: Das Wissen und die Erfahrung, die zur Ausübung der Tätigkeit nötig sind, gleich auf welchem Weg erworben, einschließlich formaler Ausbildung, Abschlüssen und Erfahrung.
+  levels:
+    "1": Einige Routineverfahren, am Arbeitsplatz in einer kurzen Einarbeitungszeit erlernt.
+    "2": Eine Reihe von Routineverfahren, durch Schulung am Arbeitsplatz und Einarbeitung erlernt.
+    "3": Eine Reihe von Verfahren, von denen einige keine Routine sind, die theoretisches Grundwissen erfordern (zum Beispiel eine Qualifikation auf Niveau 3 oder gleichwertige Erfahrung).
+    "4": Eine Reihe von Verfahren, überwiegend keine Routine, die theoretisches Wissen auf mittlerem Niveau erfordern (zum Beispiel ein Diplom oder gleichwertige Erfahrung).
+    "5": Fachkenntnis in einem Spezialgebiet, gestützt auf Theorie oder Praxiserfahrung (Bachelorniveau oder gleichwertig).
+    "6": Spezialwissen über die gesamte Breite des Fachgebiets (postgraduales Diplom oder gleichwertig).
+    "7": Hoch entwickeltes Spezialwissen über die gesamte Breite des Fachgebiets (Masterniveau oder gleichwertig).
+    "8": Fortgeschrittenes Wissen (Promotion plus weitere Ausbildung oder gleichwertig) oder Spezialwissen in mehr als einer Disziplin, über einen langen Zeitraum aufgebaut.
+analytical:
+  name: Analyse- und Urteilsvermögen
+  description: Die Analyse und das Urteilsvermögen, die nötig sind, um Informationen zu verarbeiten, Probleme zu lösen und Entscheidungen zu treffen.
+  levels:
+    "1": Urteilt über einfache Sachverhalte oder Situationen.
+    "2": Urteilt über Sachverhalte oder Situationen, von denen einige Analyse erfordern.
+    "3": Urteilt über eine Reihe von Sachverhalten oder Situationen, die Analyse oder den Vergleich von Optionen erfordern.
+    "4": Urteilt über komplexe Sachverhalte oder Situationen, die Analyse, Interpretation und den Vergleich von Optionen erfordern.
+    "5": Urteilt über sehr komplexe Sachverhalte oder Situationen, die Analyse, Interpretation und den Vergleich von Optionen erfordern.
+planning:
+  name: Planungs- und Organisationsfähigkeit
+  description: Die Planung und Organisation, die nötig sind, um Aktivitäten, Programme, Dienste oder Strategien zu steuern.
+  levels:
+    "1": Organisiert die eigene tägliche Arbeit.
+    "2": Plant einfache Aufgaben oder Aktivitäten, von denen einige laufend sind.
+    "3": Plant mehrere komplexe Aktivitäten und passt Pläne bei Bedarf an.
+    "4": Plant ein breites Spektrum komplexer Aktivitäten oder Strategien und passt sie bei Bedarf an.
+    "5": Erstellt strategische Langzeitpläne, mit Unsicherheit und Auswirkungen auf die gesamte Organisation.
+physical-skills:
+  name: Körperliche Fertigkeiten
+  description: Die körperlichen Fertigkeiten, die nötig sind, etwa Geschick, Koordination, Tastaturfertigkeit und Autofahren.
+  levels:
+    "1": Geringer Bedarf an körperlichen Fertigkeiten.
+    "2": Durch Übung erworbene Fertigkeiten, etwa übliche Tastaturnutzung oder Autofahren.
+    "3": Entwickelte Fertigkeiten, die Schnelligkeit oder Genauigkeit erfordern, etwa fortgeschrittene Tastaturnutzung.
+    "4": Hoch entwickelte Fertigkeiten, die Präzision oder Schnelligkeit und eine hohe Hand-Auge-Koordination erfordern.
+    "5": Höchstes Maß an Präzision, Schnelligkeit und Koordination.
+patient-care:
+  name: Verantwortung für die Versorgung von Patientinnen, Patienten und Klientel
+  description: Verantwortung für die Beurteilung, Behandlung oder Pflege von Patientinnen, Patienten und Klientel oder für deren Beratung. Für die meisten digitalen Rollen und Rollen im Betrieb geht es hier nur um gelegentlichen Kontakt.
+  levels:
+    "1": Unterstützt Patientinnen, Patienten, Klientel oder Angehörige bei gelegentlichem Kontakt.
+    "2": Gibt Patientinnen, Patienten oder der Öffentlichkeit unmittelbar allgemeine nichtklinische Beratung, Informationen oder Dienste.
+    "3": Leistet persönliche Pflege, grundlegende klinisch-technische Dienste oder grundlegende klinische Beratung.
+    "4": Führt klinische Versorgung durch, erbringt klinisch-technische Dienste oder berät zur Versorgung von Patientinnen und Patienten.
+    "5": Entwickelt Versorgungsprogramme, erbringt spezialisierte klinisch-technische Dienste oder gibt spezialisierte Beratung zur Patientenversorgung.
+    "6": Entwickelt spezialisierte Versorgung, gibt hoch spezialisierte Beratung oder verantwortet einen Teil eines klinischen Dienstes.
+    "7": Verantwortlich für die Erbringung eines klinischen Dienstes oder Pflegedienstes.
+    "8": Verantwortung auf Ebene der Organisation für klinische Dienste oder Pflegedienste.
+policy:
+  name: Verantwortung für Richtlinien und Dienstentwicklung
+  description: Verantwortung für die Entwicklung und Umsetzung von Richtlinien und Diensten und dafür, wie weit die Auswirkungen reichen.
+  levels:
+    "1": Befolgt von anderen festgelegte Richtlinien; kann Änderungen kommentieren.
+    "2": Setzt Richtlinien für den eigenen Bereich um und schlägt Änderungen an deren Umsetzung vor.
+    "3": Setzt Richtlinien für den eigenen Bereich um und schlägt Änderungen vor, die andere Bereiche betreffen.
+    "4": Setzt Richtlinien um und entwickelt Richtlinien oder Dienste für einen Dienst oder mehrere Bereiche.
+    "5": Setzt eine Reihe von Richtlinien oder Diensten um und entwickelt sie für eine Direktion.
+    "6": Verantwortung auf Ebene der Organisation für umfangreiche Richtlinien- oder Dienstentwicklung innerhalb oder außerhalb der Organisation.
+financial-resources:
+  name: Verantwortung für finanzielle und materielle Ressourcen
+  description: Verantwortung für Geld, Budgets, Ausrüstung, Vorräte, Gebäude und andere Vermögenswerte.
+  levels:
+    "1": Trägt persönlich Sorge für Ausrüstung und Ressourcen, die in der eigenen Arbeit genutzt werden.
+    "2": Handhabt Bargeld oder Wertsachen, verwaltet Ausrüstung, die andere nutzen, führt Bestände oder genehmigt kleine Zahlungen.
+    "3": Genehmigt Zahlungen, kauft einige Vermögenswerte oder Bedarfe, überwacht oder verwaltet ein delegiertes Budget oder unterhält Vermögenswerte.
+    "4": Verwaltet oder legt das Budget für eine Abteilung oder einen Dienst fest oder kauft oder unterhält deren Vermögenswerte.
+    "5": Verwaltet oder legt Budgets fest oder verwaltet Vermögenswerte für mehrere Dienste.
+    "6": Verantwortung auf Ebene der Organisation für die Finanzen oder das Vermögen der Organisation.
+people:
+  name: Verantwortung für Menschen
+  description: Verantwortung für die Führung, Beaufsichtigung, Schulung oder Entwicklung von Personal oder für die Erbringung von Personaldiensten.
+  levels:
+    "1": Zeigt neuen oder weniger erfahrenen Kolleginnen und Kollegen die eigenen Arbeitsabläufe.
+    "2": Beaufsichtigt oder koordiniert Personal täglich, schult andere regelmäßig oder gibt grundlegende Personalberatung.
+    "3": Leitet täglich eine Gruppe von Personal, gibt Kernschulungen oder spezialisierte Schulungen oder gibt Personalberatung in Kernbereichen.
+    "4": Führt eine Funktion oder Abteilung in der Linie, entwickelt als Hauptaufgabe Schulungsprogramme oder erbringt das volle Spektrum an Personaldiensten.
+    "5": Führt mehrere Abteilungen in der Linie oder leitet die Schulung oder einen großen Teil des Personalwesens für die gesamte Organisation.
+    "6": Verantwortung auf Ebene der Organisation für die Menschen oder die Personalfunktion der Organisation.
+information-resources:
+  name: Verantwortung für Informationsressourcen
+  description: Verantwortung für Informationen und Informationssysteme, auf Papier oder digital, einschließlich Akten, Daten und der Systeme, die sie enthalten.
+  levels:
+    "1": Erfasst Informationen, die die Stelleninhaberin oder der Stelleninhaber selbst erzeugt.
+    "2": Gibt Daten ein oder speichert Daten, die andere zusammengestellt haben, oder schreibt gelegentlich Berichte oder Abfragen.
+    "3": Erstellt förmliche Protokolle, schreibt regelmäßig Berichte oder Abfragen oder pflegt Informationssysteme als wichtige Aufgabe.
+    "4": Passt Informationssysteme nach Vorgaben anderer an oder entwirft sie oder verwaltet als Hauptaufgabe Informationssysteme für eine Abteilung.
+    "5": Entwirft und entwickelt große Informationssysteme oder verwaltet als Hauptaufgabe Informationssysteme für mehrere Dienste.
+    "6": Verwaltet und entwickelt als Hauptaufgabe Informationssysteme in der gesamten Organisation.
+    "7": Verantwortung auf Ebene der Organisation für die Informationssysteme der Organisation.
+research:
+  name: Verantwortung für Forschung und Entwicklung
+  description: Verantwortung für formale Forschung, Entwicklung, Evaluation, Audits, Tests und Erprobungen.
+  levels:
+    "1": Führt Erhebungen oder Audits für die eigene Arbeit durch; beteiligt sich gelegentlich an Forschung oder Tests.
+    "2": Betreibt als Teil der Stelle regelmäßig Forschung, Entwicklung, Erprobungen oder Tests von Ausrüstung und Systemen.
+    "3": Führt als Hauptaufgabe Forschung oder Entwicklung innerhalb formaler Programme durch.
+    "4": Koordiniert und führt Forschungs- und Entwicklungsprogramme durch.
+    "5": Initiiert und entwickelt Forschungs- und Entwicklungsprogramme, die die Ziele der Organisation unterstützen.
+    "6": Initiiert und entwickelt Forschungs- und Entwicklungsprogramme mit Wirkung über die Organisation hinaus.
+freedom-to-act:
+  name: Handlungsfreiheit
+  description: In welchem Maß die Stelleninhaberin oder der Stelleninhaber entscheidet, was zu tun ist und wie, und wie eng die Arbeit beaufsichtigt wird.
+  levels:
+    "1": Arbeitet innerhalb fester Verfahren, mit enger Aufsicht.
+    "2": Folgt Standardverfahren und Präzedenzfällen; in der Regel ist jemand zur Beratung verfügbar; die Arbeit kann überprüft werden.
+    "3": Folgt festgelegten Richtlinien und Verfahren; die Arbeit wird angeleitet und nicht unter Aufsicht ausgeführt.
+    "4": Ergebnisse sind festgelegt, aber die Stelleninhaberin oder der Stelleninhaber entscheidet, wie sie erreicht werden, innerhalb breiter Richtlinien.
+    "5": Arbeitet innerhalb allgemeiner Richtlinien und entscheidet in den meisten Fällen, wie sie ausgelegt werden.
+    "6": Übersetzt allgemeine Richtlinien und Strategie in Ziele und Standards.
+physical-effort:
+  name: Körperliche Anstrengung
+  description: Die erforderliche körperliche Anstrengung nach Häufigkeit, Dauer und Intensität.
+  levels:
+    "1": Sitzen, Stehen und Gehen, mit geringer körperlicher Anstrengung.
+    "2": Regelmäßig Sitzen oder Stehen in eingeschränkter Haltung oder gelegentlich leichte bis mäßige Anstrengung.
+    "3": Regelmäßig leichte Anstrengung über lange Zeiträume oder regelmäßig mäßige Anstrengung über kurze Zeiträume.
+    "4": Dauerhaft leichte Anstrengung, regelmäßig mäßige Anstrengung über lange Zeiträume oder gelegentlich intensive Anstrengung.
+    "5": Dauerhaft mäßige Anstrengung oder regelmäßig intensive Anstrengung.
+mental-effort:
+  name: Geistige Anstrengung
+  description: Die erforderliche Konzentration nach Häufigkeit, Dauer und Vorhersehbarkeit der Arbeit.
+  levels:
+    "1": Allgemeine Aufmerksamkeit; gelegentlich Konzentration auf vorhersehbare Arbeit.
+    "2": Regelmäßig Konzentration auf vorhersehbare Arbeit oder gelegentlich Konzentration auf unvorhersehbare Arbeit.
+    "3": Regelmäßig Konzentration auf unvorhersehbare Arbeit oder gelegentlich langanhaltende Konzentration.
+    "4": Regelmäßig langanhaltende Konzentration oder gelegentlich intensive Konzentration.
+    "5": Regelmäßig intensive Konzentration.
+emotional-effort:
+  name: Emotionale Anstrengung
+  description: Die emotionalen Anforderungen der Arbeit durch direkte oder indirekte Konfrontation mit belastenden Umständen, etwa beim Lesen belastender Akten oder bei der Bearbeitung schwerer Vorfälle.
+  levels:
+    "1": Seltene Konfrontation oder gelegentlich indirekte Konfrontation mit belastenden Umständen.
+    "2": Gelegentliche Konfrontation oder regelmäßig indirekte Konfrontation mit belastenden Umständen.
+    "3": Regelmäßige Konfrontation mit belastenden Umständen oder gelegentlich mit sehr belastenden Umständen.
+    "4": Gelegentliche Konfrontation mit traumatischen Umständen oder regelmäßig mit sehr belastenden Umständen.
+working-conditions:
+  name: Arbeitsbedingungen
+  description: Belastung durch unangenehme Bedingungen oder Gefahren. Nahezu ununterbrochene Bildschirmarbeit an den meisten Tagen zählt auf Stufe 2.
+  levels:
+    "1": Seltene Belastung durch unangenehme Bedingungen.
+    "2": Gelegentlich unangenehme Bedingungen, regelmäßig Reisen oder Arbeit im Freien oder nahezu ununterbrochene Bildschirmarbeit an den meisten Tagen.
+    "3": Regelmäßig unangenehme Bedingungen oder gelegentlich sehr unangenehme Bedingungen.
+    "4": Eine gewisse Gefährdung oder regelmäßig sehr unangenehme Bedingungen.
+    "5": Erhebliche Gefährdung.

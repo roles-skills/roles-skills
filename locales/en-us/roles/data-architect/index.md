@@ -21,7 +21,7 @@ Data architects design how the organization structures, stores, moves, and gover
 
 ## UK GDaD PCF role description (English original)
 
-> A data architect sets the vision for the organization’s use of data, through data design, to ensure that data is managed properly and meets the organization’s needs.
+> A data architect sets the vision for the organisation’s use of data, through data design, to ensure that data is managed properly and meets the organisation’s needs.
 
 ## Role levels
 
@@ -35,7 +35,7 @@ Data architects design how the organization structures, stores, moves, and gover
 
 **UK GDaD PCF level: Data architect**
 
-> A data architect designs and builds data models to fulfill the strategic data needs of the organization, as defined by chief data architects.
+> A data architect designs and builds data models to fulfil the strategic data needs of the organisation, as defined by chief data architects.
 > 
 > At this role level, you will:
 > - design, support and provide guidance for the upgrade, management, decommission and archive of data in compliance with data policy
@@ -60,8 +60,8 @@ Data architects design how the organization structures, stores, moves, and gover
 | [Data analysis and synthesis](../../skills/#data-analysis-and-synthesis) | UK GDaD PCF | Working | You can:<br>• undertake data profiling and source system analysis<br>• present clear insights to colleagues to support the end use of the data |
 | [Data governance (data architect)](../../skills/#data-governance-data-architect) | UK GDaD PCF | Working | You can:<br>• understand what data governance is required<br>• take responsibility for the assurance of data solutions and make recommendations to ensure compliance |
 | [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Awareness | You can:<br>• develop a basic understanding of an unfamiliar or emerging technology, or a familiar technology in a new data context, with guidance<br>• share what you learn with colleagues, including how it could help deliver more value from data |
-| [Data modeling](../../skills/#data-modeling) | UK GDaD PCF | Working | You can:<br>• explain the concepts and principles of data modeling<br>• produce, maintain and update relevant data models for an organization’s specific needs<br>• reverse-engineer data models from a live system |
-| [Data standards](../../skills/#data-standards) | UK GDaD PCF | Working | You can:<br>• use data policies, processes and standards effectively<br>• work with subject matter experts to develop standards, policies and guidance to protect data<br>• monitor compliance with policies and standards in a team and take action if needed<br>• analyze the impact if a standard is breached |
+| [Data modelling](../../skills/#data-modelling) | UK GDaD PCF | Working | You can:<br>• explain the concepts and principles of data modelling<br>• produce, maintain and update relevant data models for an organisation’s specific needs<br>• reverse-engineer data models from a live system |
+| [Data standards](../../skills/#data-standards) | UK GDaD PCF | Working | You can:<br>• use data policies, processes and standards effectively<br>• work with subject matter experts to develop standards, policies and guidance to protect data<br>• monitor compliance with policies and standards in a team and take action if needed<br>• analyse the impact if a standard is breached |
 | [Metadata management](../../skills/#metadata-management) | UK GDaD PCF | Working | You can:<br>• use metadata repositories to complete complex tasks such as data and systems integration impact analysis<br>• maintain a metadata repository to ensure information remains accurate and up to date |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Working | You can:<br>• initiate and monitor actions to investigate patterns and trends to resolve problems<br>• effectively consult specialists where required<br>• determine the appropriate resolution and assist with its implementation<br>• determine preventative measures |
 | [Strategic thinking](../../skills/#strategic-thinking) | UK GDaD PCF | Awareness | You can:<br>• explain the strategic context of your work and why it is important<br>• support strategic planning in an administrative capacity |
@@ -79,7 +79,7 @@ Data architects design how the organization structures, stores, moves, and gover
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -90,8 +90,8 @@ Data architects design how the organization structures, stores, moves, and gover
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -112,15 +112,15 @@ Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts pl
 
 **UK GDaD PCF level: Senior data architect**
 
-> A senior data architect delivers the vision for the organization as set by the chief data architect.
+> A senior data architect delivers the vision for the organisation as set by the chief data architect.
 > 
 > At this role level, you will:
 > - design data models and metadata systems
-> - help chief data architects to interpret an organization’s needs
+> - help chief data architects to interpret an organisation’s needs
 > - provide oversight and advice to other data architects who are designing and producing data artefacts
 > - design and support the management of data dictionaries
-> - make sure that your teams are working to the standards set for the organization by the chief data architects
-> - work with technical architects to make sure that an organization’s systems are designed in accordance with the appropriate data architecture
+> - make sure that your teams are working to the standards set for the organisation by the chief data architects
+> - work with technical architects to make sure that an organisation’s systems are designed in accordance with the appropriate data architecture
 
 ### Responsibilities
 
@@ -137,10 +137,10 @@ Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts pl
 | [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Practitioner | You can:<br>• listen to and interpret the needs of technical and non-technical stakeholders, and manage their expectations<br>• manage active and reactive communication<br>• support or host difficult discussions within the team or with diverse senior stakeholders |
 | [Communicating data](../../skills/#communicating-data) | UK GDaD PCF | Working | You can:<br>• understand the appropriate media to communicate findings<br>• shape communications for the audience |
 | [Data analysis and synthesis](../../skills/#data-analysis-and-synthesis) | UK GDaD PCF | Working | You can:<br>• undertake data profiling and source system analysis<br>• present clear insights to colleagues to support the end use of the data |
-| [Data governance (data architect)](../../skills/#data-governance-data-architect) | UK GDaD PCF | Practitioner | You can:<br>• evolve and define data governance<br>• take responsibility for supporting and collaborating around wider governance<br>• assure and integrate data services to meet the needs of multiple business services<br>• work proactively to ensure the organization designs architecture that considers data |
-| [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Working | You can:<br>• experiment with unfamiliar and emerging technologies, or familiar technologies in new data contexts, with guidance<br>• share what you learn with the team, explaining potential benefits, risks, and practical considerations<br>• identify opportunities to apply technology to improve data processes or outcomes in an operational setting or the wider organization |
-| [Data modeling](../../skills/#data-modeling) | UK GDaD PCF | Practitioner | You can:<br>• produce relevant data models across multiple subject areas<br>• explain which models to use for which purpose<br>• understand industry-recognized data modeling patterns and standards, and when to apply them<br>• compare and align different data models |
-| [Data standards](../../skills/#data-standards) | UK GDaD PCF | Practitioner | You can:<br>• create data standards for different subjects and ensure senior leaders understand them<br>• work with subject matter experts across the organization to introduce data standards best practice<br>• monitor compliance with policies and standards in the organization<br>• make recommendations about how the organization should resolve breaches of standards |
+| [Data governance (data architect)](../../skills/#data-governance-data-architect) | UK GDaD PCF | Practitioner | You can:<br>• evolve and define data governance<br>• take responsibility for supporting and collaborating around wider governance<br>• assure and integrate data services to meet the needs of multiple business services<br>• work proactively to ensure the organisation designs architecture that considers data |
+| [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Working | You can:<br>• experiment with unfamiliar and emerging technologies, or familiar technologies in new data contexts, with guidance<br>• share what you learn with the team, explaining potential benefits, risks, and practical considerations<br>• identify opportunities to apply technology to improve data processes or outcomes in an operational setting or the wider organisation |
+| [Data modelling](../../skills/#data-modelling) | UK GDaD PCF | Practitioner | You can:<br>• produce relevant data models across multiple subject areas<br>• explain which models to use for which purpose<br>• understand industry-recognised data modelling patterns and standards, and when to apply them<br>• compare and align different data models |
+| [Data standards](../../skills/#data-standards) | UK GDaD PCF | Practitioner | You can:<br>• create data standards for different subjects and ensure senior leaders understand them<br>• work with subject matter experts across the organisation to introduce data standards best practice<br>• monitor compliance with policies and standards in the organisation<br>• make recommendations about how the organisation should resolve breaches of standards |
 | [Metadata management](../../skills/#metadata-management) | UK GDaD PCF | Practitioner | You can:<br>• design an appropriate metadata repository<br>• suggest changes to improve current metadata repositories<br>• understand a range of tools for storing and working with metadata<br>• advise less experienced members of the team about metadata management |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Practitioner | You can:<br>• ensure that the right actions are taken to investigate, resolve and anticipate problems<br>• co-ordinate the team to investigate problems, implement solutions and take preventive measures |
 | [Strategic thinking](../../skills/#strategic-thinking) | UK GDaD PCF | Working | You can:<br>• work within a strategic context and communicate how activities meet strategic goals<br>• contribute to the development of strategy and policies |
@@ -171,8 +171,8 @@ Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts pl
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -191,16 +191,16 @@ Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts pl
 
 **UK GDaD PCF level: Chief data architect**
 
-> A chief data architect sets the vision for the organization’s use of data as directed by the appropriate governance body.
+> A chief data architect sets the vision for the organisation’s use of data as directed by the appropriate governance body.
 > 
 > At this role level, you will:
-> - oversee the design of multiple data models and have a broad understanding of how each model fulfils the needs of the organization
-> - be accountable for supporting and aligning to the organization’s data strategy
+> - oversee the design of multiple data models and have a broad understanding of how each model fulfils the needs of the organisation
+> - be accountable for supporting and aligning to the organisation’s data strategy
 > - champion data architecture both internally and through collaborating and communicating at the most senior levels across government
 > - set the standards and ways of working for the data architecture community
 > - be accountable for assuring data models at the level of a project or enterprise
 > - provide advice to project teams and oversee the management of the full data product life cycle
-> - be responsible for ensuring that the organization’s systems are designed in accordance with the enterprise data architecture
+> - be responsible for ensuring that the organisation’s systems are designed in accordance with the enterprise data architecture
 
 ### Responsibilities
 
@@ -215,17 +215,17 @@ Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts pl
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Practitioner | You can:<br>• listen to and interpret the needs of technical and non-technical stakeholders, and manage their expectations<br>• manage active and reactive communication<br>• support or host difficult discussions within the team or with diverse senior stakeholders |
-| [Communicating data](../../skills/#communicating-data) | UK GDaD PCF | Practitioner | You can:<br>• turn complex data into clear and well understood solutions, which can be acted upon<br>• share data communication skills with the team and organization<br>• understand and communicate different options, taking into account risks and uncertainties |
+| [Communicating data](../../skills/#communicating-data) | UK GDaD PCF | Practitioner | You can:<br>• turn complex data into clear and well understood solutions, which can be acted upon<br>• share data communication skills with the team and organisation<br>• understand and communicate different options, taking into account risks and uncertainties |
 | [Data analysis and synthesis](../../skills/#data-analysis-and-synthesis) | UK GDaD PCF | Working | You can:<br>• undertake data profiling and source system analysis<br>• present clear insights to colleagues to support the end use of the data |
 | [Data governance (data architect)](../../skills/#data-governance-data-architect) | UK GDaD PCF | Expert | You can:<br>• ensure data governance supports changes to the organisational strategy<br>• align data governance with wider governance (for example, budget)<br>• assure corporate services by understanding important risks and providing mitigation through assurance mechanisms |
-| [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Practitioner | You can:<br>• test and evaluate the feasibility of unfamiliar and emerging technologies, or familiar technologies in new data contexts<br>• share what you learn with the organization, explaining potential benefits, risks, and practical considerations<br>• recommend, design and implement innovative data solutions based on organization objectives, user needs, and operational constraints |
-| [Data modeling](../../skills/#data-modeling) | UK GDaD PCF | Expert | You can:<br>• understand the concepts and principles of data modeling and can produce relevant data models<br>• work across government and industry, recognizing opportunities for the reuse and alignment of data models in different organizations<br>• design the method to categorize data models within an organization |
-| [Data standards](../../skills/#data-standards) | UK GDaD PCF | Expert | You can:<br>• create data standards for the organization<br>• advocate for, and oversee compliance with, data policies and standards<br>• decide where standards need to be set across the organization, and how to set them in the wider context of government |
-| [Metadata management](../../skills/#metadata-management) | UK GDaD PCF | Expert | You can:<br>• identify how metadata repositories can support different areas of the organization<br>• communicate the value of metadata repositories<br>• set up robust governance processes to keep repositories up to date |
+| [Data innovation](../../skills/#data-innovation) | UK GDaD PCF | Practitioner | You can:<br>• test and evaluate the feasibility of unfamiliar and emerging technologies, or familiar technologies in new data contexts<br>• share what you learn with the organisation, explaining potential benefits, risks, and practical considerations<br>• recommend, design and implement innovative data solutions based on organisation objectives, user needs, and operational constraints |
+| [Data modelling](../../skills/#data-modelling) | UK GDaD PCF | Expert | You can:<br>• understand the concepts and principles of data modelling and can produce relevant data models<br>• work across government and industry, recognising opportunities for the reuse and alignment of data models in different organisations<br>• design the method to categorise data models within an organisation |
+| [Data standards](../../skills/#data-standards) | UK GDaD PCF | Expert | You can:<br>• create data standards for the organisation<br>• advocate for, and oversee compliance with, data policies and standards<br>• decide where standards need to be set across the organisation, and how to set them in the wider context of government |
+| [Metadata management](../../skills/#metadata-management) | UK GDaD PCF | Expert | You can:<br>• identify how metadata repositories can support different areas of the organisation<br>• communicate the value of metadata repositories<br>• set up robust governance processes to keep repositories up to date |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Expert | You can:<br>• anticipate problems and defend against them at the right time<br>• understand how a problem fits into the larger picture<br>• identify and describe problems, and help others to describe them<br>• build problem-solving capabilities in others |
 | [Strategic thinking](../../skills/#strategic-thinking) | UK GDaD PCF | Practitioner | You can:<br>• define strategies and policies, providing guidance to others on working in the strategic context<br>• evaluate current strategies to ensure business requirements are being met and exceeded where possible |
-| [Turning business problems into data design](../../skills/#turning-business-problems-into-data-design) | UK GDaD PCF | Expert | You can:<br>• design data architecture that deals with problems across the enterprise<br>• work across all organisational subject areas and internal and external programs |
-| [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Expert | You can:<br>• shape organisational strategy using a deep understanding of the health and care system<br>• represent the organization with health and care partners and leaders<br>• anticipate how policy and service changes will affect digital services and care |
+| [Turning business problems into data design](../../skills/#turning-business-problems-into-data-design) | UK GDaD PCF | Expert | You can:<br>• design data architecture that deals with problems across the enterprise<br>• work across all organisational subject areas and internal and external programmes |
+| [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Expert | You can:<br>• shape organizational strategy using a deep understanding of the health and care system<br>• represent the organization with health and care partners and leaders<br>• anticipate how policy and service changes will affect digital services and care |
 | [Clinical terminology and classification](../../skills/#clinical-terminology-and-classification) | This reference | Practitioner | You can:<br>• design data models and reference sets using clinical terminologies<br>• map between terminologies and classifications, and explain the limits of a mapping<br>• advise teams on terminology use in products and analytics |
 | [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Expert | You can:<br>• set interoperability standards and strategy for the organization<br>• lead national or cross-organization standards work<br>• assure the design of critical integrations across many systems |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Expert | You can:<br>• set information governance policy and strategy<br>• advise the board on information risk and compliance<br>• represent the organization with regulators and partners |
@@ -239,7 +239,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts pl
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Knowledge:** Expert knowledge, and wide organizational and sector understanding.
 - **Autonomy:** Sets strategy for a function; accountable to a director.
 - **Scope:** A function or department.
 - **Leadership:** Leads a function through several management layers.
@@ -251,8 +251,8 @@ Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts pl
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
@@ -270,5 +270,5 @@ Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts pl
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

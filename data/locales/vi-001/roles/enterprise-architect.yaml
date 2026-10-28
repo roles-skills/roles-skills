@@ -1,0 +1,52 @@
+summary: Kiến trúc sư doanh nghiệp cung cấp cho tổ chức cái nhìn liền mạch về dịch vụ, thông tin, ứng dụng và công nghệ của mình, và dùng nó để chuyển chiến lược y tế và chăm sóc thành một kế hoạch thay đổi mạch lạc. Họ đề ra các nguyên tắc, tiêu chuẩn và lộ trình kiến trúc, định hướng các quyết định đầu tư, và bảo đảm thay đổi số hỗ trợ việc chăm sóc an toàn, liền mạch cho bệnh nhân giữa các tổ chức.
+health_context:
+- Các lộ trình chăm sóc vượt qua nhiều tổ chức và hệ thống, nên kiến trúc phải hỗ trợ chia sẻ hồ sơ, kết quả và giấy giới thiệu qua các ranh giới.
+- Hệ thống thường gồm các hệ thống lâm sàng tồn tại lâu, thiết bị y tế và hợp đồng nhà cung cấp khó thay đổi, nên các lộ trình phải lập kế hoạch chuyển tiếp cẩn thận.
+- Các quyết định kiến trúc ảnh hưởng đến an toàn bệnh nhân, quyền riêng tư và khả năng phục hồi của các dịch vụ hoạt động suốt ngày đêm.
+- Các tiêu chuẩn mở như HL7 FHIR, SNOMED CT và các hồ sơ IHE là chìa khóa để tránh bị phụ thuộc vào một nhà cung cấp và hỗ trợ khả năng tương tác.
+- Nguồn tài trợ bị hạn chế và được xem xét kỹ, nên các kiến trúc sư phải chứng minh giá trị đồng tiền và việc tái sử dụng các nền tảng dùng chung khi có.
+levels:
+- title: Kiến trúc sư doanh nghiệp
+  responsibilities:
+  - Mô hình hóa các dịch vụ, thông tin, ứng dụng và công nghệ hiện tại và mục tiêu của tổ chức cho một lĩnh vực, như chẩn đoán hoặc chăm sóc cộng đồng.
+  - Cập nhật kho kiến trúc, kể cả danh mục ứng dụng và luồng dữ liệu.
+  - Rà soát các đề xuất theo nguyên tắc và tiêu chuẩn kiến trúc, và đưa ra khuyến nghị cho các cơ quan thẩm định thiết kế.
+  - Xác định nơi các hệ thống trùng lặp năng lực hoặc phụ thuộc vào công nghệ không còn được hỗ trợ, và nêu rủi ro.
+  - Làm việc với các kiến trúc sư giải pháp và trưởng nhóm lâm sàng để hiểu các lộ trình chăm sóc dùng hệ thống như thế nào.
+  - Hướng dẫn các kiến trúc sư giải pháp về việc các thiết kế phù hợp với kiến trúc của lĩnh vực như thế nào.
+  qualifications:
+  - Có kinh nghiệm dày dặn về kiến trúc, phân tích hoặc thiết kế kỹ thuật trong một tổ chức phức tạp, ở mức tương đương bằng thạc sĩ.
+  - Có kiến thức về một khung kiến trúc doanh nghiệp, như TOGAF, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: "Được xếp bậc cao hơn gợi ý ngạch của UK GDaD PCF (Bậc 6): các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 8a. Kiến thức, phân tích, lập kế hoạch, chính sách và quyền tự chủ hành động được chấm theo hồ sơ Bậc 8a vì công việc định hình các kiến trúc mục tiêu và tư vấn cho các cơ quan thẩm định thiết kế của cả một lĩnh vực."
+- title: Kiến trúc sư doanh nghiệp cao cấp
+  responsibilities:
+  - Xây dựng các kiến trúc mục tiêu và lộ trình chuyển tiếp cho một hoặc nhiều lĩnh vực của tổ chức.
+  - Định hình các luận chứng kinh doanh để các khoản đầu tư phù hợp với kiến trúc mục tiêu và tái sử dụng các nền tảng dùng chung.
+  - Dẫn dắt các đợt rà soát kiến trúc tại các cơ quan thẩm định thiết kế và đưa ra khuyến nghị về các đề xuất quan trọng.
+  - Lập kế hoạch thay thế hoặc ngừng sử dụng các hệ thống lâm sàng và doanh nghiệp cũ, kể cả di chuyển dữ liệu và rủi ro an toàn.
+  - Bảo đảm các nhu cầu về khả năng tương tác, an ninh và quản trị thông tin được tích hợp vào các lộ trình.
+  - Huấn luyện và hướng dẫn các kiến trúc sư doanh nghiệp và giải pháp.
+  qualifications:
+  - Có kinh nghiệm sâu rộng về kiến trúc doanh nghiệp hoặc giải pháp trên nhiều lĩnh vực.
+  - Có kiến thức về một khung kiến trúc doanh nghiệp, như TOGAF, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: "Được xếp bậc cao hơn gợi ý ngạch của UK GDaD PCF (Bậc 7): các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 8b. Lập kế hoạch ở mức 5 cho các lộ trình dài hạn có tác động trên toàn tổ chức; kiến thức ở mức 8 cho kiến thức về kiến trúc nghiệp vụ, thông tin, ứng dụng và công nghệ."
+- title: Trưởng nhóm kiến trúc sư doanh nghiệp
+  responsibilities:
+  - Làm chủ kiến trúc doanh nghiệp cho một phần lớn của tổ chức, như hệ thống lâm sàng hoặc hạ tầng dùng chung.
+  - Chủ trì hoặc dẫn dắt cơ quan thẩm định thiết kế kiến trúc và đề ra các tiêu chuẩn mà các dự án phải đáp ứng.
+  - Tư vấn cho các giám đốc về ưu tiên đầu tư, chiến lược nhà cung cấp và rủi ro công nghệ.
+  - Làm việc với các tổ chức đối tác để điều chỉnh các kiến trúc trên các lộ trình chăm sóc và hồ sơ dùng chung.
+  - Dẫn dắt và phát triển các kiến trúc sư doanh nghiệp và mở rộng cộng đồng thực hành kiến trúc.
+  qualifications:
+  - Có kinh nghiệm sâu rộng về kiến trúc doanh nghiệp trong một tổ chức phức tạp.
+  job_evaluation_notes: "Được xếp bậc cao hơn gợi ý ngạch của UK GDaD PCF (Bậc 8b): các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 8c. Nguồn lực thông tin ở mức 6 vì công việc quản lý kiến trúc của các hệ thống thông tin trên một phần lớn của tổ chức; chính sách và con người cao hơn hồ sơ Bậc 8b vì công việc đề ra tiêu chuẩn cho mọi dự án và dẫn dắt các kiến trúc sư doanh nghiệp."
+- title: Kiến trúc sư doanh nghiệp chủ chốt
+  responsibilities:
+  - Đề ra tầm nhìn, nguyên tắc và chiến lược kiến trúc doanh nghiệp của tổ chức, phù hợp với chiến lược y tế và chăm sóc của tổ chức.
+  - Tư vấn cho ban điều hành và hội đồng về kiến trúc, rủi ro và giá trị của các khoản đầu tư số lớn.
+  - Dẫn dắt ngành thực hành, quản trị và tiêu chuẩn kiến trúc của tổ chức.
+  - Đại diện tổ chức trong các diễn đàn về kiến trúc và khả năng tương tác giữa nhiều tổ chức.
+  - Xây dựng năng lực kiến trúc trong toàn tổ chức, kể cả tuyển dụng và lộ trình nghề nghiệp.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kiến trúc doanh nghiệp giữa các tổ chức.
+  job_evaluation_notes: "Được xếp bậc cao hơn gợi ý ngạch của UK GDaD PCF (Bậc 8c): các tin tuyển dụng trong ngành y tế xếp vai trò này ở Bậc 8d. Chính sách và quyền tự chủ hành động ở mức 6 vì công việc nắm trách nhiệm chung của tổ chức về tầm nhìn, nguyên tắc và chiến lược kiến trúc của tổ chức."

@@ -1,0 +1,237 @@
+# Swahili translations of data/skills/legal.yaml. Keys are the English skill ids.
+legal-legal-research:
+  name: Utafiti wa kisheria
+  description: Kutafuta, kusoma na kufupisha sheria, uamuzi wa kimahakama, miongozo na mifano ya awali ili kujibu swali la kisheria.
+  levels:
+    awareness: |
+      Unaweza:
+      - kupata sheria, miongozo na nyaraka za mifano ya awali kwa kutumia hifadhidata za kisheria na maarifa ya taasisi
+      - kutumia istilahi za kisheria kwa usahihi
+    working: |
+      Unaweza:
+      - kutafiti swali la kisheria lililobainishwa na kufupisha vyanzo kwa uwazi
+      - kukagua kama vyanzo ni vya sasa na vyenye mamlaka
+      - kuweka maktaba za mifano ya awali na maarifa ziwe za kisasa
+    practitioner: |
+      Unaweza:
+      - kutafiti maswali tata au mapya, kama vile jinsi sheria iliyopo inavyotumika kwa teknolojia mpya
+      - kuchambua vyanzo vinavyokinzana na kufikia mtazamo wenye hoja
+      - kufuatilia mabadiliko ya sheria na miongozo na kueleza athari zake kwa taasisi
+    expert: |
+      Unaweza:
+      - kuongoza utafiti wa maswali tata zaidi na yenye hatari kubwa kwa taasisi
+      - kutarajia maendeleo ya kisheria na kuiandaa taasisi kwayo
+      - kuchangia mashauriano kuhusu sheria na miongozo inayoathiri afya ya kidijitali na matunzo
+legal-contract-drafting-and-review:
+  name: Kuandaa na kukagua mikataba
+  description: Kuandaa, kukagua na kujadili mikataba na makubaliano, kama vile makubaliano ya teknolojia, leseni za programu, wingu, huduma na uchakataji wa data.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza sehemu kuu za mkataba, kama vile pande, muda, malipo, dhima na kukomesha
+      - kuandaa nyaraka za kawaida kutoka kwenye violezo vilivyoidhinishwa
+    working: |
+      Unaweza:
+      - kukagua makubaliano ya kawaida, kama vile ya kutofichua siri na ya huduma rahisi, dhidi ya viwango vya taasisi
+      - kuweka alama za mabadiliko kwenye mikataba na kueleza mabadiliko hayo
+      - kutambua vifungu vinavyohitaji ukaguzi wa wakili, kama vile dhima isiyo na kikomo au upyaishaji wa kiotomatiki
+    practitioner: |
+      Unaweza:
+      - kuandaa na kujadili makubaliano tata, kama vile leseni za programu, uhifadhi wa wingu, uunganishaji wa mifumo na makubaliano ya uchakataji wa data
+      - kushauri kuhusu ugawaji wa hatari, ikiwemo kikomo cha dhima, viwango vya huduma, kutoka na dhamana ya msimbo chanzi
+      - kuhakikisha mikataba inalinda data za wagonjwa, mwendelezo wa huduma na haki za taasisi katika programu na data zake
+      - kuandika na kutunza violezo vya mikataba na miongozo ya utekelezaji
+    expert: |
+      Unaweza:
+      - kuweka viwango vya taasisi vya kuingia mikataba na misimamo ya hatari
+      - kuongoza majadiliano ya makubaliano yenye thamani kubwa zaidi au hatari kubwa
+      - kuwashauri viongozi wakuu kuhusu mipango ya kimkakati ya kibiashara, kama vile ushirikiano na ubia
+legal-legal-advice:
+  name: Ushauri wa kisheria
+  description: Kutoa ushauri wa kisheria ulio wazi, wa vitendo na sahihi unaowasaidia wenzako kufanya maamuzi halali na kusimamia hatari za kisheria.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza ni lini wenzako wanahitaji ushauri wa kisheria na jinsi ya kuupata
+      - kupokea maelekezo ya wazi na kurekodi ukweli wa jambo
+    working: |
+      Unaweza:
+      - kuandaa rasimu za ushauri kwa mambo ya kawaida kwa ajili ya wakili kukagua
+      - kujibu maswali rahisi kwa kutumia miongozo iliyoidhinishwa
+      - kubainisha masuala ya kisheria katika mfululizo wa ukweli
+    practitioner: |
+      Unaweza:
+      - kutoa ushauri huru wa kisheria katika maeneo yako ya mazoezi
+      - kueleza hatari ya kisheria kwa lugha rahisi na kupendekeza chaguzi za vitendo
+      - kushauri kuhusu maamuzi yenye athari za kisheria, kama vile utoaji wa mikataba, ushirikishaji wa data na mabadiliko ya huduma
+      - kuamua ni lini kuwaagiza mawakili au wanasheria wa nje
+    expert: |
+      Unaweza:
+      - kuishauri bodi na watendaji wakuu kuhusu hatari kubwa zaidi za kisheria za taasisi
+      - kutoa ushauri wa mwisho kuhusu mambo mapya, yenye mabishano au yenye thamani kubwa
+      - kuweka kiwango cha taasisi cha kukubali hatari za kisheria
+      - kuhakikisha ubora wa ushauri wa kisheria katika taasisi nzima, ikiwemo ushauri wa nje
+legal-litigation-and-disputes:
+  name: Kesi mahakamani na utatuzi wa migogoro
+  description: Kuzuia, kusimamia na kutatua migogoro na madai, ikiwemo migogoro ya mikataba, madai ya ajira na uratibu wa madai ya uzembe wa kitabibu.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza hatua kuu za dai au mgogoro
+      - kuweka kumbukumbu za madai na kufuatilia tarehe za mwisho kwa usahihi
+    working: |
+      Unaweza:
+      - kukusanya na kupanga nyaraka na ushahidi kwa kesi
+      - kuandaa mfuatano wa matukio, mafaili ya ushahidi na rasimu za maelezo ya mashahidi
+      - kuratibu na mawakili wa nje, kampuni za bima au mipango ya fidia kuhusu mambo ya kawaida
+    practitioner: |
+      Unaweza:
+      - kusimamia wingi wa migogoro na madai kuanzia taarifa ya kwanza hadi suluhu au usikilizwaji
+      - kutathmini uzito na thamani ya madai na kupendekeza mkakati
+      - kujadili suluhu na kutumia njia mbadala za kutatua migogoro
+      - kuhakikisha mafunzo kutokana na madai yanaboresha usalama, mikataba na huduma
+    expert: |
+      Unaweza:
+      - kuongoza migogoro muhimu zaidi au yenye sifa kubwa ya taasisi
+      - kuweka mtazamo wa taasisi kuhusu kesi mahakamani, suluhu na kuripoti madai
+      - kuishauri bodi kuhusu madeni yanayowezekana na hatari za sifa
+legal-information-and-data-law:
+  name: Sheria ya taarifa na data
+  description: Kutumia sheria ya ulinzi wa data, usiri, uhuru wa taarifa na usalama wa mtandao kwa data za afya na matunzo na huduma za kidijitali.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kanuni za msingi za ulinzi wa data na usiri
+      - kutambua maombi ya taarifa na ukiukaji wa data na kuyaelekeza ipasavyo
+    working: |
+      Unaweza:
+      - kukagua makubaliano ya ushirikishaji na uchakataji wa data dhidi ya violezo
+      - kusaidia majibu ya maombi ya taarifa na maombi ya haki za mwenye data
+      - kueleza misingi halali ya kutumia data za afya katika hali za kawaida
+    practitioner: |
+      Unaweza:
+      - kushauri kuhusu ulinzi wa data, wajibu wa usiri na sheria ya ufikiaji wa taarifa kwa huduma za kidijitali
+      - kuandaa na kujadili makubaliano ya ushirikishaji wa data na masharti ya uchakataji wa data, ikiwemo uhamishaji wa kimataifa
+      - kushauri kuhusu tathmini za athari za ulinzi wa data kwa teknolojia mpya, kama vile AI na majukwaa ya uchanganuzi
+      - kushauri kuhusu ukiukaji wa data, maswali ya wadhibiti na malalamiko
+    expert: |
+      Unaweza:
+      - kuweka msimamo wa kisheria wa taasisi kuhusu matumizi ya data za afya na matunzo
+      - kuongoza matumizi ya data yenye hatari kubwa au mapya, kama vile utafiti, majukwaa ya data na AI
+      - kuiwakilisha taasisi kwa wadhibiti kuhusu sheria ya taarifa
+legal-legal-administration:
+  name: Utawala wa kisheria
+  description: Kuendesha michakato ya kiutawala ya timu ya kisheria, ikiwemo usimamizi wa mambo, udhibiti wa nyaraka, kumbukumbu, tarehe za mwisho na utoaji wa ankara.
+  levels:
+    awareness: |
+      Unaweza:
+      - kufungua, kusasisha na kufunga mambo katika mfumo wa usimamizi wa mambo
+      - kuhifadhi na kupata nyaraka za kisheria kwa usalama
+      - kutunza taarifa za kisheria na binafsi kwa siri
+    working: |
+      Unaweza:
+      - kusimamia shajara, tarehe za mwisho na tarehe muhimu za timu
+      - kuandaa na kupanga nyaraka za kisheria, mafaili ya ushahidi na vifurushi vya kutia sahihi
+      - kukagua na kuchakata ankara za mawakili wa nje
+      - kusimamia madaftari ya mikataba na hati rasmi
+    practitioner: |
+      Unaweza:
+      - kuendesha utawala wa timu ya kisheria na kuboresha michakato yake
+      - kuripoti kuhusu mzigo wa kazi, matumizi kwa mawakili wa nje na muda wa kukamilisha
+      - kusimamia teknolojia ya kisheria, kama vile usimamizi wa mambo na zana za sahihi za kielektroniki
+    expert: |
+      Unaweza:
+      - kubuni mfumo wa uendeshaji wa kisheria kwa taasisi
+      - kuongoza uchaguzi na matumizi ya teknolojia ya kisheria
+      - kuweka viwango vya huduma na vipimo vya utendaji kwa huduma za kisheria
+legal-employment-law:
+  name: Sheria ya ajira
+  description: Kutumia sheria ya ajira kwa sera za watu, mikataba, programu za mabadiliko na migogoro ya ajira ya taasisi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza haki kuu za ajira za wafanyakazi
+      - kutambua masuala ya ajira yanayohitaji ushauri wa kisheria
+    working: |
+      Unaweza:
+      - kusaidia kuandaa nyaraka za madai ya ajira na vikao vya kusikiliza
+      - kukagua mikataba ya ajira na sera dhidi ya violezo
+    practitioner: |
+      Unaweza:
+      - kushauri kuhusu mambo ya ajira, kama vile kufukuzwa kazi, ubaguzi, uhamishaji wa wafanyakazi na upangaji upya wa miundo
+      - kusimamia madai ya ajira na kujadili makubaliano ya suluhu
+      - kushauri kuhusu matumizi ya wakandarasi na hadhi ya ajira ya wataalamu wa kidijitali
+    expert: |
+      Unaweza:
+      - kuishauri bodi kuhusu mabadiliko makubwa ya nguvu kazi na hatari zake za kisheria
+      - kuongoza migogoro ya ajira yenye sifa kubwa au tata
+      - kuunda sera za watu ili zitimize wajibu wa kisheria na mazoezi mazuri
+legal-intellectual-property:
+  name: Mali ya kiakili
+  description: Kulinda na kutumia mali ya kiakili katika programu, data, maudhui na uvumbuzi, ikiwemo hakimiliki, leseni, chanzo huria na alama za biashara.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwamba programu, data na maudhui zinalindwa na haki za mali ya kiakili
+      - kutambua ni lini mkataba au mradi unaibua maswali ya umiliki
+    working: |
+      Unaweza:
+      - kukagua vifungu vya mali ya kiakili katika makubaliano ya kawaida
+      - kutunza kumbukumbu za leseni na haki zilizosajiliwa
+      - kueleza aina kuu za leseni za chanzo huria na masharti yake
+    practitioner: |
+      Unaweza:
+      - kushauri nani anamiliki programu, data na maudhui yaliyotengenezwa na wafanyakazi, wasambazaji na washirika
+      - kuandaa leseni na masharti ya mali ya kiakili, ikiwemo kutoa msimbo wa taasisi kama chanzo huria
+      - kushauri kuhusu matumizi ya kibiashara ya data na programu za taasisi, na kushirikisha manufaa
+    expert: |
+      Unaweza:
+      - kuweka sera ya taasisi ya mali ya kiakili na chanzo huria
+      - kuongoza biashara na ushirikiano unaohusisha data na programu za taasisi
+      - kutatua migogoro muhimu ya mali ya kiakili
+legal-procurement-law:
+  name: Sheria ya ununuzi wa umma
+  description: Kutumia kanuni za ununuzi wa umma katika kununua bidhaa, huduma na teknolojia, kuanzia kuchagua njia ya soko hadi utoaji wa mkataba na kupingwa.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini taasisi za umma lazima zifuate kanuni za ununuzi
+      - kutambua ni lini shughuli ya ununuzi inahitaji ushauri wa ununuzi au wa kisheria
+    working: |
+      Unaweza:
+      - kukagua nyaraka za zabuni kwa uthabiti na ukamilifu
+      - kusaidia utunzaji wa kumbukumbu unaohitajika kuonyesha mchakato wa haki na wa uwazi
+    practitioner: |
+      Unaweza:
+      - kushauri kuhusu njia za soko, ikiwemo mifumo ya mikataba ya mfumo, utoaji wa moja kwa moja na taratibu za ushindani
+      - kushauri kuhusu tathmini, maamuzi ya utoaji na mabadiliko ya mikataba baada ya utoaji
+      - kujibu pingamizi na malalamiko ya wasambazaji
+      - kushauri kuhusu udhibiti wa ruzuku na hatari za ushindani katika ushirikiano
+    expert: |
+      Unaweza:
+      - kuweka mtazamo wa taasisi kuhusu hatari za kisheria za ununuzi
+      - kuongoza ununuzi wenye thamani kubwa au mpya, kama vile ushirikiano wa uvumbuzi
+      - kutetea pingamizi muhimu za ununuzi
+legal-health-and-care-law:
+  name: Sheria ya afya na matunzo
+  description: Kutumia sheria inayotawala huduma za afya na matunzo, ikiwemo ridhaa, uwezo wa kufanya maamuzi, uzembe wa kitabibu, udhibiti wa huduma na bidhaa, na wajibu wa kisheria wa taasisi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza wajibu na mamlaka kuu ya kisheria ya taasisi
+      - kutambua mambo yanayohusu usalama wa mgonjwa, ridhaa au uzembe wa kitabibu
+    working: |
+      Unaweza:
+      - kusaidia kazi ya kisheria kuhusu matukio, uchunguzi wa vifo au madai ya kitabibu
+      - kueleza mfumo wa udhibiti unaotumika kwa huduma za taasisi
+    practitioner: |
+      Unaweza:
+      - kushauri kuhusu mamlaka na wajibu wa taasisi, ikiwemo ni lini inaweza kutoa au kuagiza huduma
+      - kushauri kuhusu udhibiti wa bidhaa za afya ya kidijitali, kama vile programu kama kifaa tiba
+      - kuratibu na mipango ya uzembe wa kitabibu na mawakili wa nje kuhusu madai yanayohusisha huduma za kidijitali
+      - kushauri kuhusu ridhaa, uwezo wa kufanya maamuzi na haki za wagonjwa katika huduma za kidijitali
+    expert: |
+      Unaweza:
+      - kuishauri bodi kuhusu wajibu wa kisheria na usimamizi wa taasisi
+      - kuongoza kazi ya kisheria kuhusu uchunguzi wa umma, mapitio ya kimahakama na matukio makubwa
+      - kuunda majibu ya taasisi kwa sheria mpya ya afya na matunzo

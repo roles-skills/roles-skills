@@ -1,0 +1,68 @@
+summary: >
+  Insinyur DevOps membangun dan menjalankan perangkat, jalur, lingkungan, dan platform yang memungkinkan tim organisasi menyampaikan layanan kesehatan digital dengan aman dan sering. Mereka mengotomatiskan pembangunan, pengujian, rilis, dan infrastruktur, membuat layanan dapat diamati dan tangguh, serta membantu tim menjaga sistem klinis tetap tersedia ketika pasien dan tenaga klinis membutuhkannya.
+health_context:
+  - Banyak layanan mendukung perawatan sepanjang waktu, sehingga penerapan, pemantauan, dan pemulihan harus menekan waktu henti sekecil mungkin, termasuk di luar jam kerja.
+  - Jalur rilis menghasilkan bukti untuk kasus keselamatan klinis, seperti hasil pengujian, catatan perubahan, dan versi persis yang diterapkan.
+  - Lingkungan dapat memuat informasi kesehatan yang rahasia, sehingga para insinyur mengendalikan akses, melindungi rahasia, dan menjauhkan data langsung dari lingkungan uji.
+  - Layanan kesehatan sering menjadi sasaran serangan siber, sehingga jalur dan platform memasukkan pemindaian keamanan, penambalan, dan pencadangan yang teruji.
+  - Sebagian layanan harus memenuhi standar ketat untuk ketersediaan dan pemulihan bencana, yang disepakati dengan pimpinan klinis dan operasional.
+levels:
+  - title: Insinyur DevOps magang
+    responsibilities:
+      - Mempelajari jalur, platform komputasi awan, dan perangkat tim melalui pelatihan terstruktur dan mendampingi.
+      - Membuat perubahan kecil yang terdefinisi dengan baik pada skrip, jalur, dan konfigurasi di bawah pengawasan ketat.
+      - Mengikuti prosedur perubahan, keamanan, dan tata kelola informasi untuk setiap lingkungan.
+      - Membantu memantau layanan dan melaporkan peringatan kepada rekan yang berpengalaman.
+      - Bekerja menuju kualifikasi magang atau yang setara.
+    qualifications:
+      - Terdaftar pada, atau sedang menempuh, program magang DevOps, perangkat lunak, atau infrastruktur atau yang setara.
+    job_evaluation_notes: Pengetahuan dinilai pada tingkat yang dibutuhkan pekerjaan setelah pelatihan cukup lengkap untuk melakukan pekerjaan.
+  - title: Insinyur DevOps junior
+    responsibilities:
+      - Membangun dan memelihara bagian jalur pembangunan, pengujian, dan penerapan dengan bimbingan.
+      - Menulis infrastruktur sebagai kode dan skrip otomatisasi, dan mengujinya sebelum dipakai.
+      - Menjaga lingkungan uji bebas dari data pasien langsung dan mengelola rahasia dengan aman.
+      - Menanggapi peringatan pemantauan dan mendukung respons insiden dengan bimbingan.
+      - Mencatat penerapan dan perubahan agar dapat mendukung keselamatan klinis dan bukti audit.
+    qualifications:
+      - Gelar di bidang komputasi atau bidang terkait, magang yang telah selesai, atau pengalaman yang setara.
+    job_evaluation_notes: UK GDaD PCF menyarankan Pita 4 untuk tingkat magang dan junior; acuan ini menempatkan tingkat junior di Pita 5 agar tidak ada dua tingkat dalam satu pita, karena pekerjaan ini membangun komponen jalur dengan pengawasan yang lebih sedikit.
+  - title: Insinyur DevOps
+    responsibilities:
+      - Merancang dan membangun jalur, lingkungan, dan komponen platform secara mandiri.
+      - Mengotomatiskan pemeriksaan keamanan, seperti pemindaian dependensi dan kontainer, dan menindaklanjuti hasilnya.
+      - Membangun pemantauan, pencatatan log, dan peringatan agar tim dapat melihat masalah sebelum memengaruhi pasien dan staf.
+      - Merencanakan dan menguji pencadangan, pengalihan (failover), dan pemulihan untuk layanan yang mendukung perawatan.
+      - Menyelidiki dan memperbaiki masalah pada layanan langsung, termasuk dukungan di luar jam kerja jika layanan memerlukannya.
+      - Membimbing insinyur DevOps junior dan magang.
+    qualifications:
+      - Gelar di bidang komputasi atau bidang terkait, atau pengalaman yang setara.
+      - Pengalaman membangun dan menjalankan jalur penyampaian otomatis dan infrastruktur komputasi awan.
+  - title: Insinyur DevOps senior
+    responsibilities:
+      - Memimpin desain rantai perangkat penyampaian dan platform untuk sebuah produk atau kelompok layanan.
+      - Menetapkan standar rilis, agar penerapan ke layanan klinis dapat diulang, dibatalkan, dan didukung bukti yang baik.
+      - Menyepakati target ketersediaan, waktu pemulihan, dan titik pemulihan dengan pemilik layanan dan pimpinan klinis, serta merancang untuk memenuhinya.
+      - Memimpin respons insiden teknis dan tinjauan pascainsiden untuk platform yang dijalankan tim.
+      - Memastikan platform memenuhi persyaratan keamanan dan tata kelola informasi, termasuk kendali akses dan pencatatan audit.
+      - Membimbing dan mengembangkan para insinyur DevOps dalam tim.
+    qualifications:
+      - Pengalaman yang substansial dalam merancang dan menjalankan rantai perangkat penyampaian dan platform, pada tingkat yang setara dengan gelar magister.
+  - title: Insinyur DevOps pimpinan
+    responsibilities:
+      - Memimpin rekayasa DevOps dan platform untuk sekelompok tim, bertindak sebagai pemilik teknis platform bersama.
+      - Menetapkan peta jalan jangka menengah untuk perangkat penyampaian, hosting, dan observabilitas organisasi.
+      - Memastikan platform bersama tangguh, aman, dan mampu memenuhi kebutuhan ketersediaan layanan klinis.
+      - Mengelola biaya dan kapasitas platform bersama bagian keuangan dan pemilik layanan.
+      - Memimpin komunitas praktik DevOps dan mengelola secara langsung atau memimpin para insinyur DevOps.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa DevOps atau platform untuk layanan yang kompleks.
+  - title: Insinyur DevOps utama
+    responsibilities:
+      - Menetapkan strategi tentang cara organisasi membangun, merilis, meng-hosting, dan menjalankan layanan kesehatan digitalnya.
+      - Menasihati pimpinan senior tentang hosting, ketahanan, keamanan siber, dan investasi platform.
+      - Memastikan rencana kesinambungan bisnis dan pemulihan bencana untuk layanan klinis yang kritis realistis dan teruji.
+      - Mengevaluasi dan mengadvokasi teknologi dan praktik baru, menyeimbangkan inovasi dengan keselamatan dan stabilitas.
+      - Menumbuhkan kapabilitas DevOps organisasi, termasuk rekrutmen, jalur karier, dan rencana keterampilan.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa DevOps dan platform di banyak tim atau organisasi.

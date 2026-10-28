@@ -1,0 +1,27 @@
+summary: >
+  Testansvariga planerar, leder och kvalitetssäkrar testning för organisationens digitala hälso- och vårdtjänster och program. De avgör hur mycket testning som behövs och av vilket slag, leder testteam, miljöer och leverantörer och talar tydligt om för beslutsfattare vilka risker som återstår innan en tjänst tas i drift. Inom hälso- och sjukvården innebär detta att se till att testningen stöder det kliniska säkerhetsunderlaget och eventuella regulatoriska krav.
+health_context:
+  - Beslut om driftsättning av kliniska system beror på testunderlag och kvarstående risker, som testansvariga rapporterar till produktägare, kliniska säkerhetsansvariga och programstyrgrupper.
+  - Stora förändringar, såsom uppgraderingar av den elektroniska patientjournalen, behöver testning över många avdelningar, system och leverantörer och ofta klinisk personals tid för acceptanstestning.
+  - Testning måste anpassas efter kliniska tjänster, till exempel genom att planera övergångstester och genrepetitioner så att störningen av patientvården blir låg.
+  - Reglerad programvara och säkerhetskritiska ändringar behöver testning som uppfyller standarder såsom IEC 62304 och organisationens process för klinisk riskhantering.
+levels:
+  - title: Testansvarig
+    responsibilities:
+      - Leda testplaneringen för en produkt eller ett program, som omfattar miljöer, data, verktyg, resurser, tidplaner och klinisk risk.
+      - Planera användaracceptanstestning med kliniska och operativa ledare och säkra klinikers tid för att delta.
+      - Leda ett team av testanalytiker och testingenjörer, inklusive leverantörers testare.
+      - Se till att testningen uppfyller krav på klinisk säkerhet, informationsstyrning och regelverk.
+      - Rapportera testframsteg, defekter och kvarstående risker till produktägare, kliniska säkerhetsansvariga och programstyrgrupper.
+      - Förbättra testprocesser och komma överens om teststandarder med leveransteam.
+    qualifications:
+      - Betydande erfarenhet av testledning för komplexa digitala tjänster, på en nivå motsvarande en masterexamen.
+  - title: Chef för test
+    responsibilities:
+      - Fastställa organisationens teststrategi, standarder och ramverk för digitala hälso- och vårdtjänster.
+      - Se till att organisationens testning uppfyller krav på klinisk säkerhet, medicintekniska produkter och andra regelverk.
+      - Välja testverktyg och testteknik och förvalta testbudgeten och leverantörsavtal.
+      - Ge seniora ledare råd om risker för kvalitet och säkerhet före större releaser och beslut om driftsättning.
+      - Leda och utveckla testansvariga, testanalytiker och testingenjörer och bygga organisationens testförmåga.
+    qualifications:
+      - Omfattande erfarenhet av att leda testning i en organisation.

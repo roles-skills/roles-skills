@@ -1,0 +1,39 @@
+summary: Quản lý thay đổi và phát hành bảo đảm các thay đổi đối với dịch vụ CNTT được đánh giá, phê duyệt, lên lịch và thực hiện một cách an toàn, và các bản phát hành được lập kế hoạch và điều phối. Họ điều hành hội đồng tư vấn thay đổi, làm chủ cơ sở dữ liệu quản lý cấu hình, và điều phối các bản phát hành giữa các nhóm và nhà cung cấp. Trong chăm sóc sức khỏe, họ bảo đảm các thay đổi đối với hệ thống lâm sàng được chọn thời điểm và kiểm thử để bảo vệ việc chăm sóc bệnh nhân.
+health_context:
+- Những thay đổi đối với hệ thống lâm sàng có thể gây hại cho bệnh nhân, nên việc đánh giá thay đổi bao gồm rà soát an toàn lâm sàng và bằng chứng từ quy trình quản lý rủi ro lâm sàng.
+- Các dịch vụ lâm sàng hoạt động hằng ngày, nên các khung thời gian thay đổi được thống nhất với các dịch vụ lâm sàng và tránh những khoảng thời gian bận rộn nhất của họ.
+- Nhiều thay đổi đến từ các nhà cung cấp hệ thống lâm sàng, và vẫn phải được đánh giá ngay cả khi nhà cung cấp kiểm soát bản phát hành.
+- Các thay đổi khẩn cấp, như các bản vá an ninh khẩn, phải cân bằng giữa rủi ro mạng và rủi ro làm gián đoạn việc chăm sóc.
+- Một cơ sở dữ liệu quản lý cấu hình chính xác cho biết những dịch vụ lâm sàng nào có thể bị ảnh hưởng bởi một thay đổi.
+levels:
+- title: Chuyên viên phân tích cấu hình
+  responsibilities:
+  - Duy trì các bản ghi trong cơ sở dữ liệu quản lý cấu hình, kể cả các dịch vụ lâm sàng mà mỗi thành phần hỗ trợ.
+  - Đối chiếu các bản ghi cấu hình với các công cụ khám phá, và sửa các khoảng trống và lỗi.
+  - Chuẩn bị các bản ghi thay đổi và chương trình nghị sự cho hội đồng tư vấn thay đổi.
+  - Trả lời các thắc mắc thường lệ về các mục cấu hình và mối quan hệ giữa chúng.
+  qualifications:
+  - Có chứng chỉ nền tảng về quản lý dịch vụ CNTT, bằng cấp mức 3 về CNTT, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: UK GDaD PCF gợi ý Bậc 6 cho cấp này (HEO/SEO). Tài liệu tham khảo này xếp nó ở Bậc 4 vì cấp này cung cấp hỗ trợ hành chính cho quản lý thay đổi và phát hành, với các kỹ năng chủ yếu ở mức nhận biết, và nằm dưới chuyên viên phân tích thay đổi và phát hành. Nguồn lực thông tin cao hơn hồ sơ bậc vì duy trì cơ sở dữ liệu quản lý cấu hình là nhiệm vụ chính.
+- title: Chuyên viên phân tích thay đổi và phát hành
+  responsibilities:
+  - Đánh giá các yêu cầu thay đổi về rủi ro và tác động, kể cả ảnh hưởng đến các dịch vụ lâm sàng và an toàn của bệnh nhân.
+  - Lập kế hoạch và lên lịch các bản phát hành, thống nhất khung thời gian thay đổi với các dịch vụ lâm sàng và vận hành.
+  - Kiểm tra mỗi thay đổi có kiểm thử, kế hoạch quay lui và sự phê duyệt an toàn lâm sàng khi cần.
+  - Điều phối các bản phát hành với các nhóm DevOps, nhà cung cấp và bàn hỗ trợ dịch vụ.
+  - Rà soát các bản phát hành sau đó và lập kế hoạch cho các thay đổi sắp tới.
+  qualifications:
+  - Có kinh nghiệm về vận hành CNTT, phát hành hoặc quản lý thay đổi.
+  - Có chứng chỉ nền tảng về quản lý dịch vụ CNTT, hoặc kinh nghiệm tương đương.
+- title: Quản lý thay đổi và phát hành
+  responsibilities:
+  - Chủ trì hội đồng tư vấn thay đổi, kể cả đại diện lâm sàng và vận hành khi các thay đổi ảnh hưởng đến việc chăm sóc bệnh nhân.
+  - Quyết định về các thay đổi kỹ thuật, và cho phép các thay đổi khẩn cấp như các bản vá an ninh khẩn.
+  - Điều phối các bản phát hành và các phụ thuộc của chúng giữa các nhóm nội bộ và nhà cung cấp.
+  - Làm chủ các quy trình quản lý thay đổi, phát hành và cấu hình cùng cơ sở dữ liệu quản lý cấu hình.
+  - Đóng vai trò đầu mối báo cáo lên cấp trên đối với các xung đột thay đổi và thay đổi thất bại.
+  - Báo cáo về mức độ thành công của thay đổi, thay đổi thất bại và sự cố do thay đổi gây ra, và thúc đẩy các cải tiến.
+  qualifications:
+  - Có kinh nghiệm dày dặn về quản lý thay đổi và phát hành, ở mức tương đương bằng đại học.
+  - Có chứng chỉ trung cấp về quản lý dịch vụ CNTT, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Lập kế hoạch cao hơn hồ sơ bậc vì vai trò lên lịch các bản phát hành và các phụ thuộc của chúng giữa nhiều nhóm và nhà cung cấp.

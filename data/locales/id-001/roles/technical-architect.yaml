@@ -1,0 +1,58 @@
+summary: >
+  Arsitek teknis merancang struktur teknis layanan kesehatan digital organisasi: komponen, platform, hosting, pola integrasi, dan kualitas nonfungsional seperti keamanan, kinerja, dan ketahanan. Mereka bekerja erat dengan pengembang dan insinyur DevOps, memberi kepemimpinan teknis kepada tim penyampaian, dan memastikan layanan dibangun agar tahan lama dan aman dijalankan.
+health_context:
+  - Layanan klinis sering memerlukan ketersediaan tinggi dan pemulihan cepat, sehingga desain teknis harus merencanakan kegagalan dan operasi yang menurun.
+  - Desain harus melindungi informasi kesehatan yang rahasia melalui enkripsi, kendali akses, dan audit sebagai bawaan.
+  - Layanan terhubung ke banyak sistem klinis dan platform bersama, sering melalui API dan pesan HL7 FHIR, sehingga pola integrasi menjadi inti desain.
+  - Pilihan desain teknis, seperti penyimpanan sementara, percobaan ulang, dan penanganan waktu, dapat menimbulkan bahaya klinis, sehingga arsitek menyumbang pada kasus keselamatan.
+  - Sistem klinis lama dan alat kesehatan dapat membatasi pilihan teknologi, jaringan, dan hosting.
+levels:
+  - title: Arsitek teknis asosiat
+    responsibilities:
+      - Menggambar diagram teknis dan mendokumentasikan komponen, hosting, dan integrasi layanan yang ada.
+      - Meneliti opsi teknologi dan merangkum kelebihan dan kekurangannya, dengan bimbingan.
+      - Bekerja dengan pengembang untuk memeriksa bahwa pembangunan mengikuti desain dan pola yang disepakati.
+      - Mencatat keputusan teknis dan menjaga dokumen desain tetap mutakhir.
+    qualifications:
+      - Gelar di bidang komputasi atau bidang terkait, atau pengalaman yang setara dalam rekayasa perangkat lunak atau infrastruktur.
+      - Pengetahuan spesialis tentang desain teknis, pada tingkat diploma pascasarjana atau pengalaman yang setara.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 5); iklan sektor kesehatan menempatkan peran ini di Pita 6. Pengetahuan dinilai pada tingkat diploma pascasarjana, dan sumber daya informasi pada tingkat 5 karena pekerjaan ini merancang bagian dari sistem informasi besar.
+  - title: Arsitek teknis
+    responsibilities:
+      - Merancang arsitektur teknis untuk sebuah layanan, termasuk komponen, hosting, integrasi, dan keamanan.
+      - Menyediakan pola desain bagi tim penyampaian dan meninjau desain teknis serta struktur kode mereka.
+      - Mendefinisikan persyaratan nonfungsional, seperti target ketersediaan, kinerja, dan pemulihan, bersama pemilik layanan.
+      - Mengidentifikasi utang teknis dan teknologi yang tidak didukung, dan merencanakan cara memperbaikinya.
+      - Mengidentifikasi bahaya dan pengendalian teknis untuk kasus keselamatan klinis.
+    qualifications:
+      - Pengetahuan spesialis tentang arsitektur teknis, pada tingkat magister atau pengalaman yang setara.
+      - Pengalaman merancang atau membangun perangkat lunak atau infrastruktur produksi.
+    job_evaluation_notes: Ditempatkan pada saran golongan UK GDaD PCF, yaitu Pita 7, sesuai dengan iklan sektor kesehatan untuk peran ini. Pengetahuan dinilai pada tingkat magister atau yang setara untuk pengetahuan spesialis di seluruh cakupan arsitektur teknis.
+  - title: Arsitek teknis senior
+    responsibilities:
+      - Memimpin desain teknis layanan yang besar, kompleks, atau berisiko tinggi, seperti sistem klinis dan platform integrasi bersama.
+      - Menetapkan arah teknis untuk satu atau lebih tim penyampaian dan menantang desain yang menambah risiko.
+      - Merancang untuk ketahanan, pemulihan bencana, dan operasi yang aman, dan memeriksa bahwa tim mengujinya.
+      - Menjelaskan risiko dan pertukaran teknis kepada pemilik layanan, pimpinan klinis, dan pemangku kepentingan senior dalam bahasa sederhana.
+      - Membimbing dan membina arsitek teknis dan pengembang senior.
+    qualifications:
+      - Pengalaman yang substansial dalam desain teknis untuk layanan yang kompleks, pada tingkat yang setara dengan gelar magister.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 7); iklan sektor kesehatan menempatkan peran ini di Pita 8a. Perencanaan, kebijakan, dan kebebasan bertindak dinilai di atas profil Pita 7 karena pekerjaan ini menetapkan arah teknis untuk beberapa tim dengan sedikit pengawasan.
+  - title: Arsitek teknis pimpinan
+    responsibilities:
+      - Memimpin arsitektur teknis di beberapa layanan atau tim, menetapkan pola dan standar bersama.
+      - Menjamin mutu teknis desain di otoritas desain, termasuk keamanan, ketahanan, dan interoperabilitas.
+      - Membentuk peta jalan teknologi organisasi bersama arsitek enterprise dan pimpinan rekayasa.
+      - Menasihati pimpinan senior tentang pilihan teknologi, investasi platform, dan risiko teknis.
+      - Memimpin dan mengembangkan arsitek teknis.
+    qualifications:
+      - Pengalaman luas dalam memimpin arsitektur teknis untuk layanan yang kompleks.
+  - title: Arsitek teknis utama
+    responsibilities:
+      - Menetapkan strategi, prinsip, dan standar arsitektur teknis organisasi.
+      - Mengatur tata kelola desain teknis di seluruh organisasi, termasuk otoritas desain teknis.
+      - Menasihati tim eksekutif tentang keputusan teknologi besar, seperti strategi hosting dan konsolidasi platform.
+      - Mewakili organisasi dalam komunitas teknis dan standar lintas organisasi.
+      - Menginspirasi dan mengembangkan para arsitek di seluruh organisasi.
+    qualifications:
+      - Pengalaman luas dalam memimpin arsitektur teknis di banyak tim atau organisasi.

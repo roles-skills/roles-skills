@@ -1,0 +1,45 @@
+summary: Greinendur öryggisrekstrar vakta, rannsaka og bregðast við netöryggisógnum gegn kerfum og gögnum stofnunarinnar. Þeir forgangsflokka viðvaranir frá öryggisvöktunartólum, rannsaka grunsamlega virkni, afmarka atvik og hjálpa til við að laga veikleika. Í heilbrigðisþjónustu verndar skjót greining og viðbrögð klíníska þjónustu og trúnaðarupplýsingar um sjúklinga gegn árásum eins og gíslatökuhugbúnaði.
+health_context:
+- Heilbrigðisþjónusta er algengt skotmark gíslatökuhugbúnaðar og gagnastulda, og ein árás getur stöðvað klínísk kerfi þvert á stofnunina.
+- Ákvarðanir um afmörkun, svo sem að einangra netþjón eða hluta netsins, verða að vega öryggisáhættu á móti áhrifum á umönnun sjúklinga, svo greinendur vinna með klínískum leiðtogum og rekstrarleiðtogum.
+- Net innihalda lækningatæki og eldri kerfi sem geta ekki keyrt öryggisforrit eða verið uppfærð hratt, svo greinendur reiða sig á netvöktun og bótastýringar.
+- Vöktun nær yfir aðgang að sjúkraskrám, svo greinendur hjálpa til við að greina óviðeigandi aðgang innanhúss auk utanaðkomandi árása, í samstarfi við upplýsingastjórnun.
+- Öryggisvöktun er rekin allan sólarhringinn, svo greinendur kunna að vinna vaktir eða bakvaktir.
+levels:
+- title: Yngri greinandi öryggisrekstrar
+  summary: Yngri greinandi öryggisrekstrar vaktar öryggisviðvaranir, forgangsflokkar þær með rekstrarhandbókum og vísar atburðum áfram, með leiðsögn reyndra greinenda.
+  responsibilities:
+  - Vakta viðvaranir frá öryggisvöktunar- og endapunktatólum og forgangsflokka þær með rekstrarhandbókum.
+  - Safna gögnum um grunsamlega virkni, svo sem vefveiðipósta eða óvenjulegar innskráningar, og vísa þeim áfram.
+  - Athuga vefveiðipósta sem starfsfólk tilkynnir og hjálpa til við að fjarlægja skaðlega pósta úr pósthólfum.
+  - Skrá atburði og aðgerðir nákvæmlega í málastjórnunartólinu.
+  - Keyra veikleikaskannanir og minna kerfiseigendur á lagfæringar sem eru á gjalddaga.
+  qualifications:
+  - Menntun í tölvunarfræði eða netöryggi, iðnnám í netöryggi eða sambærileg reynsla.
+  job_evaluation_notes: Andlegt erfiði endurspeglar tíða langvarandi einbeitingu að vöktun og forgangsflokkun ófyrirsjáanlegra viðvarana.
+- title: Greinandi öryggisrekstrar
+  summary: Greinandi öryggisrekstrar rannsakar og afmarkar öryggisatvik, skrifar greiningarreglur og bætir öryggisvöktun stofnunarinnar.
+  responsibilities:
+  - Rannsaka öryggisatvik, ákvarða umfang þeirra og afmarka þau, í samstarfi við kerfiseigendur og klíníska þjónustu.
+  - Skrifa og fínstilla greiningarreglur og stýra ógnaveiðum út frá núverandi ógnum gegn heilbrigðisþjónustu.
+  - Fylgjast með óviðeigandi aðgangi að sjúkraskrám og vísa málum til upplýsingastjórnunar.
+  - Meta veikleika eftir áhættu, þar á meðal áhrif þeirra á klíníska þjónustu og lækningatæki.
+  - Bæta rekstrarhandbækur og verkfæri eftir atvik.
+  - Taka þátt í bakvaktakerfinu vegna öryggisatvika utan vinnutíma.
+  qualifications:
+  - Háskólagráða í tölvunarfræði eða netöryggi, viðeigandi öryggisvottanir eða sambærileg reynsla.
+  - Reynsla af öryggisvöktun eða atvikaviðbrögðum.
+  job_evaluation_notes: Andlegt erfiði endurspeglar tíða langvarandi einbeitingu við rannsóknir, þar á meðal á bakvakt. Tilfinningalegt erfiði endurspeglar tíða óbeina útsetningu fyrir átakanlegu efni í sjúkraskrám og álag lifandi atvika.
+- title: Eldri greinandi öryggisrekstrar
+  summary: Eldri greinandi öryggisrekstrar stýrir viðbrögðum við mikilvægum öryggisatvikum, stýrir ógnaveiðum og leiðbeinir vinnu öryggisrekstrarteymisins.
+  responsibilities:
+  - Stýra tæknilegum viðbrögðum við mikilvægum öryggisatvikum, þar á meðal gíslatökuhugbúnaði og gagnastuldi, og samræma við atvikastjórnun.
+  - Ráðleggja klínískum leiðtogum og rekstrarleiðtogum um ákvarðanir um afmörkun sem hafa áhrif á umönnun sjúklinga.
+  - Stýra ógnaveiðum og ógnagreiningarvinnu og miðla upplýsingum til öryggissamstarfsaðila í heilbrigðisþjónustu.
+  - Forgangsraða greiningarverkfræði og vöktunarþekju, þar á meðal fyrir net lækningatækja.
+  - Stýra æfingum sem prófa atvikaviðbrögð með tæknilegum og klínískum teymum.
+  - Leiðbeina og stýra greinendum öryggisrekstrar.
+  qualifications:
+  - Mikil reynsla af öryggisrekstri og atvikaviðbrögðum, á stigi sem jafngildir framhaldsdiplómu.
+  - Viðeigandi framhaldsöryggisvottanir, eða sambærileg reynsla.
+  job_evaluation_notes: Andlegt og tilfinningalegt erfiði endurspegla forystu í viðbrögðum við alvarlegum atvikum undir álagi, oft utan vinnutíma, þar sem klínísk þjónusta er í hættu.

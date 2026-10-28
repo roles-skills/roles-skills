@@ -1,0 +1,265 @@
+# Swahili translations of data/skills/procurement.yaml. Keys are the English skill ids.
+proc-purchase-to-pay:
+  name: Kutoka kununua hadi kulipa
+  description: Kuandaa, kuidhinisha na kupokea maagizo, na kutatua maswali ya ankara na malipo, kupitia mfumo wa ununuzi wa taasisi na udhibiti wa fedha.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kanuni ya "hakuna agizo la ununuzi, hakuna malipo" na kwa nini ni muhimu
+      - kuwasilisha ombi la ununuzi katika mfumo wa ununuzi
+    working: |
+      Unaweza:
+      - kuunda na kurekebisha maagizo ya ununuzi na kuyakagua dhidi ya mikataba
+      - kutatua maswali ya ankara, upokeaji na malipo na wasambazaji na idara ya fedha
+      - kutunza katalogi na kumbukumbu za wasambazaji katika mfumo wa ununuzi
+    practitioner: |
+      Unaweza:
+      - kuendesha mchakato wa kununua hadi kulipa kwa huduma, ukifuatilia utiifu na kazi zilizorundikana
+      - kuchambua data za matumizi kupata matumizi nje ya mikataba na akiba
+      - kuboresha mchakato na udhibiti pamoja na wenzako wa fedha
+    expert: |
+      Unaweza:
+      - kuweka sera, udhibiti na mifumo ya taasisi ya kununua hadi kulipa
+      - kuongoza mpito kuelekea ununuzi na utoaji wa ankara wa kielektroniki kikamilifu
+proc-procurement-process:
+  name: Mchakato wa ununuzi
+  description: Kuendesha ununuzi unaozingatia kanuni, kuanzia mipango na maelezo ya mahitaji hadi njia za soko, zabuni, utoaji na kutia sahihi mkataba, ikiwemo kununua kupitia mifumo ya mikataba ya mfumo na mifumo ya ununuzi unaobadilika.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza hatua za ununuzi na viwango vya kikomo vinavyotumika
+      - kupata nukuu za bei kwa ununuzi wa thamani ndogo ukifuata kanuni za taasisi
+    working: |
+      Unaweza:
+      - kuendesha nukuu za bei na maagizo kutoka kwenye mifumo ya mikataba kwa kutumia violezo vya kawaida
+      - kuandaa nyaraka za zabuni na kusimamia maswali ya ufafanuzi kwenye mfumo wa zabuni wa kielektroniki
+      - kutunza njia wazi ya ukaguzi ya kila ununuzi
+    practitioner: |
+      Unaweza:
+      - kupanga na kuongoza zabuni tata, ukichagua njia sahihi ya soko na utaratibu
+      - kuwasaidia watumiaji kuandika maelezo ya mahitaji yanayotegemea matokeo kwa mifumo ya kidijitali na ya kitabibu
+      - kusimamia ratiba, hatari na wadau hadi utoaji wa mkataba
+    expert: |
+      Unaweza:
+      - kuweka taratibu na violezo vya ununuzi vya taasisi
+      - kuongoza ununuzi tata zaidi, wenye thamani kubwa au mpya
+      - kuhakikisha maamuzi ya ununuzi kwa bodi
+proc-tender-evaluation:
+  name: Tathmini ya zabuni
+  description: Kubuni vigezo vya tathmini na uzito wake, na kuendesha tathmini ya haki na iliyorekodiwa vizuri ya ubora, bei na thamani ya kijamii.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini tathmini lazima ifuate vigezo vilivyochapishwa
+      - kutangaza migongano ya maslahi kabla ya kushiriki katika tathmini
+    working: |
+      Unaweza:
+      - kukagua zabuni kwa utiifu na ukamilifu
+      - kuwasaidia watathmini na kurekodi alama na maelezo ya upatanisho
+      - kuandaa miundo ya tathmini ya bei kwa mwongozo
+    practitioner: |
+      Unaweza:
+      - kubuni vigezo vya tathmini, uzito na mwongozo wa kutoa alama
+      - kuongoza upatanisho wa alama na kuandika ripoti za utoaji na maoni kwa wazabuni
+      - kupanga maonyesho na majaribio ya matukio ya kitabibu au ya watumiaji kwa zabuni za mifumo
+    expert: |
+      Unaweza:
+      - kuweka viwango vya tathmini vya taasisi na mtazamo wa bei na ubora
+      - kutetea maamuzi ya tathmini yanapopingwa
+      - kukagua tathmini za ununuzi wenye hatari kubwa
+proc-procurement-law-and-policy:
+  name: Kanuni na sera za ununuzi wa umma
+  description: Kutumia kanuni za ununuzi wa umma, kanuni za fedha za taasisi na sera ya ununuzi ili ununuzi uwe halali, wa uwazi na wa haki.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwamba fedha za umma lazima zitumike kwa haki, kwa uwazi na kihalali
+      - kufuata viwango vya kikomo na kanuni za idhini za taasisi
+    working: |
+      Unaweza:
+      - kutumia kanuni za ununuzi zinazofaa ununuzi rahisi
+      - kuchapisha matangazo na kutunza kumbukumbu zinazotimiza kanuni za uwazi
+      - kutambua ni lini ombi linaweza kuvunja kanuni na kuliibua
+    practitioner: |
+      Unaweza:
+      - kushauri kuhusu njia halali kwa ununuzi tata na mabadiliko ya mikataba
+      - kusimamia hatari ya kupingwa na kushughulikia kipindi cha kusubiri na maelezo ya baada ya utoaji ipasavyo
+      - kuandika sera na miongozo ya ununuzi kwa taasisi
+    expert: |
+      Unaweza:
+      - kufasiri kanuni mpya za ununuzi na kuongoza majibu ya taasisi
+      - kuishauri bodi kuhusu utiifu na hatari za ununuzi
+      - kusimamia pingamizi rasmi pamoja na washauri wa kisheria
+proc-market-analysis:
+  name: Uchambuzi wa soko na ushirikishaji
+  description: Kuelewa masoko ya usambazaji, kushirikiana na wasambazaji kabla ya ununuzi, na kutumia ushahidi wa soko kuunda mahitaji, njia za soko na miundo ya kibiashara.
+  levels:
+    awareness: |
+      Unaweza:
+      - kupata wasambazaji kwenye mifumo ya mikataba na hifadhidata za wasambazaji
+      - kueleza kwa nini ushirikishaji wa mapema wa soko lazima uwe wa haki kwa wasambazaji wote
+    working: |
+      Unaweza:
+      - kukusanya taarifa za soko, bei na maelezo ya wasambazaji kwa hitaji
+      - kuendesha ombi la taarifa na kufupisha majibu
+    practitioner: |
+      Unaweza:
+      - kuchambua soko la usambazaji, ushindani wake, hatari na mwelekeo
+      - kuongoza ushirikishaji wa mapema wa soko, kama vile siku za wasambazaji, bila kupotosha ushindani
+      - kutumia ushahidi wa soko kuunda mahitaji na miundo ya kibiashara
+    expert: |
+      Unaweza:
+      - kuunda masoko, kwa mfano kwa kuhimiza wasambazaji wapya au wadogo
+      - kuongoza mkakati wa soko pamoja na taasisi nyingine zinazonunua
+proc-negotiation:
+  name: Majadiliano ya kibiashara
+  description: Kupanga na kuendesha majadiliano na wasambazaji ili kukubaliana bei, masharti na utendaji unaotoa thamani ya fedha na kudhibiti hatari.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kinachoweza na kisichoweza kujadiliwa katika ununuzi wa umma
+    working: |
+      Unaweza:
+      - kujadili bei na masharti kwa ununuzi wa thamani ndogo au wa kawaida
+      - kuandaa data na chaguzi kwa majadiliano yanayoongozwa na wengine
+    practitioner: |
+      Unaweza:
+      - kupanga na kuongoza majadiliano, ukiweka malengo, mipaka na misimamo mbadala
+      - kujadili marekebisho ya mikataba, upyaishaji na suluhu ya migogoro
+      - kuweka majadiliano yakiwa halali na yaliyorekodiwa vizuri
+    expert: |
+      Unaweza:
+      - kuongoza majadiliano yenye thamani kubwa na hatari kubwa na wasambazaji wa kimkakati
+      - kuwaongoza wengine katika majadiliano na kuweka mtazamo wa majadiliano wa taasisi
+proc-category-management:
+  name: Usimamizi wa makundi ya matumizi
+  description: Kusimamia kundi la matumizi, kama vile programu, wingu na huduma za teknolojia, kupitia mkakati wa kundi unaounganisha mahitaji, kuunda masharti na kupanga ununuzi kwa miaka kadhaa.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kundi ni nini na kwa nini mipango ya makundi ni muhimu
+    working: |
+      Unaweza:
+      - kuchambua matumizi na mikataba ya kundi na kuweka sajili ya mikataba ikiwa ya kisasa
+      - kuunga mkono mpango wa kundi, kama vile kufuatilia upyaishaji na akiba
+    practitioner: |
+      Unaweza:
+      - kuandika na kutekeleza mkakati wa kundi pamoja na wamiliki wa bajeti na viongozi wa kiufundi
+      - kupanga mfululizo wa ununuzi na upyaishaji wa mikataba kwa kundi
+      - kufuatilia akiba, thamani na hatari za kundi
+    expert: |
+      Unaweza:
+      - kuweka mtazamo wa usimamizi wa makundi wa taasisi
+      - kuongoza makundi yenye matumizi na hatari kubwa zaidi, na kuyaoanisha na mkakati wa taasisi
+      - kufanya kazi na taasisi nyingine kwenye ununuzi wa ushirikiano
+proc-technology-procurement:
+  name: Ununuzi wa teknolojia na wingu
+  description: Kununua programu, huduma za wingu, leseni, vifaa na huduma za kidijitali, ikiwemo programu kama huduma, miundo ya kibiashara, utoaji leseni, na masharti ya usalama, ulinzi wa data na ushirikiano wa mifumo ambayo teknolojia ya afya inahitaji.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza njia kuu za kununua teknolojia, kama vile leseni, usajili na huduma
+      - kutambua kwamba mifumo ya kitabibu inahitaji ukaguzi wa usalama, usalama wa kitabibu na ulinzi wa data
+    working: |
+      Unaweza:
+      - kununua programu za kawaida, vifaa na leseni kupitia mifumo ya mikataba
+      - kufuatilia idadi ya leseni, upyaishaji na tarehe za kusawazisha
+      - kujumuisha mahitaji ya kawaida ya usalama na ulinzi wa data katika nyaraka
+    practitioner: |
+      Unaweza:
+      - kununua wingu, programu kama huduma na mifumo ya kitabibu, ukichagua muundo sahihi wa kibiashara
+      - kujenga mahitaji pamoja na viongozi wa kiufundi, usalama wa kitabibu na usimamizi wa taarifa
+      - kujumuisha ushirikiano wa mifumo, viwango huria, umiliki wa data na masharti ya kutoka katika mikataba
+      - kuepuka kufungwa kwa muuzaji mmoja kwa kupanga uhamishikaji na ushindani wakati wa upyaishaji
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa kibiashara wa taasisi kwa teknolojia na wingu
+      - kuongoza majadiliano ya makubaliano ya taasisi nzima na majukwaa ya kimkakati
+      - kuwashauri viongozi wa kidijitali kuhusu hatari za kibiashara za uchaguzi wa teknolojia
+proc-contract-management:
+  name: Usimamizi wa mikataba
+  description: Kusimamia mikataba baada ya utoaji, ikiwemo kuanza kazi, utendaji, malipo, mabadiliko, migogoro, upyaishaji na kutoka, ili taasisi ipate ilichokilipia.
+  levels:
+    awareness: |
+      Unaweza:
+      - kupata mkataba na kueleza tarehe zake muhimu, thamani na mmiliki
+      - kurekodi mabadiliko ya mkataba na nyaraka katika sajili ya mikataba
+    working: |
+      Unaweza:
+      - kufuatilia utendaji wa msambazaji dhidi ya viwango vya huduma na viashiria vikuu vya utendaji
+      - kuandaa mikutano ya mapitio ya mkataba na kufuatilia hatua
+      - kuchakata marekebisho ya mikataba na kukagua ankara dhidi ya mkataba
+    practitioner: |
+      Unaweza:
+      - kusimamia jalada la mikataba, ikiwemo mikataba ya kitabibu na ya teknolojia
+      - kutumia hatua za kurekebisha za mkataba, kama vile mikopo ya huduma, utendaji unapopungua
+      - kusimamia mabadiliko, migogoro na upyaishaji ndani ya kanuni za ununuzi
+      - kupanga kutoka mapema na kujaribu mipango ya kutoka kabla mikataba haijaisha
+    expert: |
+      Unaweza:
+      - kuweka mfumo na viwango vya usimamizi wa mikataba vya taasisi
+      - kuongoza usimamizi wa mikataba ya kimkakati yenye hatari kubwa
+      - kutatua migogoro mikubwa na kuamua kuhusu kusitisha au kuanzisha ununuzi upya
+proc-supplier-relationship-management:
+  name: Usimamizi wa mahusiano na wasambazaji
+  description: Kujenga mahusiano ya kimkakati na wasambazaji wakuu ili kudhibiti hatari, kuboresha utendaji na kuendeleza bidhaa na huduma kadiri muda unavyopita.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini mahusiano mazuri na wasambazaji ni muhimu kwa huduma ambazo wagonjwa wanazitegemea
+      - kushughulika na wasambazaji kitaaluma na kurekodi mawasiliano
+    working: |
+      Unaweza:
+      - kuweka mawasiliano ya wasambazaji, njia za kupeleka masuala juu na kumbukumbu zikiwa za kisasa
+      - kukagua afya ya kifedha ya msambazaji na bima dhidi ya mahitaji
+    practitioner: |
+      Unaweza:
+      - kugawa wasambazaji kwa hatari na thamani na kupanga jinsi ya kusimamia kila kundi
+      - kuendesha mapitio ya kimkakati na wasambazaji wakuu, ikiwemo ramani ya bidhaa na mipango ya uboreshaji
+      - kusimamia hatari za wasambazaji, kama vile kuanguka kifedha, matukio ya usalama wa mtandao na masuala ya mnyororo wa ugavi
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa taasisi wa mahusiano na wasambazaji
+      - kuongoza mahusiano ya kiutendaji na wasambazaji wa kimkakati
+      - kuongoza majibu msambazaji muhimu anapoanguka
+proc-exit-planning:
+  name: Mipango ya kutoka na kurudisha data
+  description: Kupanga na kusimamia mwisho wa mkataba, ikiwemo mpito kwa msambazaji mpya, kurudisha na kufuta data, na mwendelezo wa huduma kwa wagonjwa na wafanyakazi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini kila mkataba unahitaji mpango wa kutoka
+      - kupata masharti ya kutoka na kurudisha data ya mkataba
+    working: |
+      Unaweza:
+      - kuweka mipango ya kutoka na madaftari ya mali na data yakiwa ya kisasa
+      - kufuatilia vipindi vya taarifa na hatua muhimu za kutoka
+    practitioner: |
+      Unaweza:
+      - kuandika mipango ya kutoka na mpito pamoja na viongozi wa kiufundi, data na kitabibu
+      - kuhakikisha data inarudishwa katika miundo inayotumika na ya kawaida kisha kufutwa kwa usalama
+      - kusimamia hatari za mpito ili matunzo yasivurugike
+    expert: |
+      Unaweza:
+      - kuweka viwango vya taasisi vya kutoka, mpito na kurudisha data
+      - kuongoza kutoka katika mikataba ya kimkakati ya kitabibu na ya teknolojia
+proc-social-value:
+  name: Thamani ya kijamii na ununuzi endelevu
+  description: Kutumia ununuzi na mikataba kutoa thamani ya kijamii, uendelevu wa mazingira na minyororo ya ugavi ya haki, na kupima kile wasambazaji wanachotoa.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza thamani ya kijamii na ununuzi endelevu vinamaanisha nini kwa taasisi
+    working: |
+      Unaweza:
+      - kujumuisha maswali ya kawaida ya thamani ya kijamii na uendelevu katika zabuni
+      - kukusanya ripoti za thamani ya kijamii kutoka kwa wasambazaji
+    practitioner: |
+      Unaweza:
+      - kuweka vigezo vya thamani ya kijamii na uendelevu vinavyolingana na mkataba
+      - kusimamia ahadi za wasambazaji, kama vile ajira za ndani, ujuzi na kupunguza kaboni
+      - kukagua minyororo ya ugavi kwa hatari kama vile kazi ya kulazimishwa na ukiukaji mwingine wa haki za binadamu
+    expert: |
+      Unaweza:
+      - kuweka sera ya taasisi ya thamani ya kijamii na ununuzi endelevu
+      - kuripoti matokeo ya thamani ya kijamii na kaboni kwa bodi

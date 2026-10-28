@@ -1,0 +1,47 @@
+summary: IT-servicemanagers zorgen dat de digitale diensten van de organisatie op afgesproken niveaus worden geleverd en zich blijven verbeteren. Zij definiëren serviceniveaus, beheren de dienstencatalogus, rapporteren over prestaties en coördineren de teams en leveranciers die elke dienst draaien. In de gezondheidszorg zetten zij wat klinische diensten nodig hebben, zoals beschikbaarheid de klok rond, om in doelen voor de dienstverlening en regelingen voor ondersteuning.
+health_context:
+- Serviceniveaus voor klinische systemen weerspiegelen klinisch risico, dus doelen voor het elektronisch patiëntendossier of voorschrijven verschillen van die voor een bedrijfssysteem.
+- Diensten worden vaak geleverd door een mix van eigen teams, leveranciers en diensten die met partnerorganisaties worden gedeeld, dus servicemanagers coördineren over organisatorische grenzen heen.
+- Klinische bedrijfscontinuïteit hangt af van IT, dus servicemanagers werken met klinische leiders en leiders van noodplanning aan plannen voor uitval en continuïteit.
+- Klinisch personeel heeft weinig tijd om problemen te melden, dus servicemanagers gebruiken monitoring, data van de servicedesk en klinische terugkoppeling om kwesties vroeg te vinden.
+levels:
+- title: IT-serviceanalist
+  responsibilities:
+  - Incidenten en verzoeken binnen afgesproken serviceniveaus beantwoorden, documenteren en oplossen.
+  - Regelmatige rapporten over de dienstverlening maken, zoals aantallen tickets, reactietijden en de beschikbaarheid van klinische systemen.
+  - Controleren of items in de dienstencatalogus en kennisartikelen nauwkeurig en actueel zijn.
+  - Patronen in incidenten zoeken en verbeteringen voorstellen.
+  - De regels voor informatiebeheer volgen bij het verwerken van tickets en data over de dienstverlening.
+  qualifications:
+  - Een basiskwalificatie in IT-servicemanagement, een kwalificatie op niveau 3 in IT, of gelijkwaardige ervaring.
+- title: IT-servicemanager
+  responsibilities:
+  - Serviceniveaus voor klinische en bedrijfsdiensten definiëren en afspreken, op basis van klinisch risico en bedrijfsbehoefte.
+  - De regelingen voor ondersteuning van een portfolio van diensten beheren, inclusief leveranciers en gedeelde diensten.
+  - Over prestaties van diensten rapporteren aan service-eigenaren en klinische leiders en verbeteracties afspreken.
+  - Zorgen dat elke dienst geteste regelingen voor bedrijfscontinuïteit en uitval heeft.
+  - De dienstencatalogus actueel houden en zorgen dat personeel wordt geïnformeerd over wijzigingen in hun diensten.
+  - Een programma voor voortdurende verbetering van de dienstverlening voor uw diensten uitvoeren.
+  qualifications:
+  - Ervaring met het beheren van IT-diensten op afgesproken serviceniveaus.
+  - Een kwalificatie op tussenniveau in IT-servicemanagement, of gelijkwaardige ervaring.
+- title: Senior IT-servicemanager
+  responsibilities:
+  - Servicemanagement leiden over meerdere platforms en kanalen en de volwassenheid van processen voor servicemanagement verbeteren.
+  - Serviceniveaus en contractvoorwaarden met grote leveranciers van klinische systemen afspreken en hen ter verantwoording roepen.
+  - Prestaties en risico’s van de dienstverlening presenteren aan senior klinische en operationele leiders.
+  - Evaluaties van diensten na grote incidenten leiden en acties voor verbetering volgen tot afsluiting.
+  - Plannen voor IT-continuïteit afstemmen op plannen voor klinische bedrijfscontinuïteit, samen met leiders van noodplanning en klinische leiders.
+  - IT-servicemanagers leiden en ontwikkelen.
+  qualifications:
+  - Aanzienlijke ervaring met IT-servicemanagement over meerdere diensten.
+  - Een kwalificatie op gevorderd niveau in IT-servicemanagement, of gelijkwaardige ervaring.
+- title: Hoofd IT-servicemanagement
+  responsibilities:
+  - De visie, strategie en het operationele model voor IT-servicemanagement in de hele organisatie vaststellen.
+  - Zorgen dat elk proces van servicemanagement een eigenaar heeft en zich blijft ontwikkelen.
+  - IT-servicemanagement op senior niveau vertegenwoordigen, ook bij vergaderingen over klinische en operationele governance.
+  - Optreden als senior escalatiepunt voor leiders van klinische diensten en bedrijfsdiensten.
+  - Zorgen dat de functie servicemanagement de mensen, instrumenten en het budget heeft die zij nodig heeft.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van IT-servicemanagement in een grote of complexe organisatie.

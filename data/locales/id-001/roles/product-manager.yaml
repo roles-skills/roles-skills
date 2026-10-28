@@ -1,0 +1,55 @@
+summary: >
+  Manajer produk memastikan produk kesehatan digital organisasi memenuhi kebutuhan pasien, tenaga klinis, dan tenaga perawatan dan memberi nilai bagi sistem kesehatan dan perawatan. Mereka menetapkan visi dan peta jalan produk, memprioritaskan pekerjaan tim multidisiplin berdasarkan bukti, dan bertanggung jawab atas hasil yang dicapai produk mereka, termasuk dampaknya pada perawatan.
+health_context:
+  - Keputusan produk dapat memengaruhi keselamatan pasien, sehingga manajer produk memiliki risiko klinis produknya bersama petugas keselamatan klinis dan memastikan bahaya dikelola sebelum dirilis.
+  - Produk melayani banyak kelompok pengguna dengan kebutuhan berbeda, seperti pasien, pendamping, tenaga klinis, dan staf administratif, dan manajer produk harus menyeimbangkannya dengan adil.
+  - Sebagian produk dapat diatur sebagai alat kesehatan, sehingga manajer produk perlu tahu kapan regulasi berlaku dan merencanakannya.
+  - Hasil dalam perawatan mencakup keselamatan, mutu, akses, kesetaraan, dan waktu staf, sehingga manajer produk mendefinisikan ukuran keberhasilan yang dikenali pimpinan klinis dan operasional.
+  - Produk sering bergantung pada standar data kesehatan nasional dan regional serta platform bersama, sehingga manajer produk bekerja melintasi batas organisasi.
+levels:
+  - title: Manajer produk asosiat
+    responsibilities:
+      - Memiliki backlog untuk suatu fitur atau bagian produk, bekerja dengan manajer produk.
+      - Mengubah bukti dari riset pengguna dengan pasien, tenaga klinis, dan tenaga perawatan menjadi cerita pengguna yang diprioritaskan.
+      - Bekerja dengan petugas keselamatan klinis untuk mencatat dan meninjau bahaya pada fitur yang Anda miliki.
+      - Melacak ukuran produk, seperti penerimaan, tingkat penyelesaian, dan panggilan dukungan, dan melaporkan apa yang ditunjukkannya.
+      - Mewakili produk pada show and tell dan di hadapan pemangku kepentingan operasional.
+    qualifications:
+      - Pengalaman dalam peran digital, klinis, atau operasional, atau pengalaman yang setara.
+  - title: Manajer produk
+    responsibilities:
+      - Menetapkan visi, peta jalan, dan ukuran keberhasilan untuk produk kesehatan digital.
+      - Memprioritaskan pekerjaan tim, menyeimbangkan kebutuhan pengguna, keselamatan klinis, kebijakan, kendala teknis, dan biaya.
+      - Menerima risiko klinis untuk perubahan produk bersama petugas keselamatan klinis, dan menghentikan rilis yang tidak aman.
+      - Bekerja dengan pimpinan klinis dan operasional agar produk sesuai dengan jalur perawatan dan diadopsi.
+      - Memastikan produk memenuhi standar aksesibilitas, tata kelola informasi, dan layanan.
+      - Mengukur hasil produk, termasuk manfaatnya bagi pasien dan staf.
+    qualifications:
+      - Pengalaman yang substansial dalam manajemen produk atau peran digital terkait.
+  - title: Manajer produk senior
+    responsibilities:
+      - Memimpin sekelompok produk terkait, atau satu produk yang kompleks, berisiko tinggi, atau sensitif, seperti yang dipakai dalam perawatan darurat.
+      - Menyusun strategi produk dari bukti tentang kebutuhan pasien, praktik klinis, serta kebijakan kesehatan dan perawatan.
+      - Memastikan produk memenuhi regulasi alat kesehatan jika berlaku.
+      - Mengelola anggaran produk dan menyampaikan alasan investasi dengan manfaat bagi perawatan.
+      - Membimbing dan mengelola secara langsung manajer produk.
+    qualifications:
+      - Pengalaman luas dalam mengelola produk digital sepanjang seluruh siklus hidupnya.
+  - title: Manajer produk pimpinan
+    responsibilities:
+      - Memimpin portofolio produk atau layanan ujung ke ujung, seperti semua produk yang mendukung satu jalur perawatan.
+      - Menetapkan arah produk di beberapa tim dan memastikan produk bekerja bersama bagi pasien dan staf.
+      - Bekerja dengan pimpinan klinis dan petugas keselamatan klinis untuk mengelola risiko klinis di seluruh portofolio.
+      - Memegang anggaran portofolio dan melaporkan manfaat kepada dewan tata kelola senior.
+      - Memimpin dan mengembangkan manajer produk di bidang produk.
+    qualifications:
+      - Pengalaman luas dalam memimpin produk di banyak tim.
+  - title: Kepala produk
+    responsibilities:
+      - Menetapkan strategi produk organisasi, bekerja dengan pimpinan eksekutif, klinis, dan operasional.
+      - Menetapkan dan menaikkan standar manajemen produk, termasuk bagaimana produk mengelola risiko klinis dan mengukur hasil.
+      - Memimpin profesi produk, termasuk rekrutmen, jalur karier, dan pembangunan kapabilitas.
+      - Memutuskan prioritas investasi antarproduk, memakai bukti kebutuhan, nilai, dan kesetaraan.
+      - Mewakili produk organisasi di hadapan mitra di seluruh sistem kesehatan dan perawatan.
+    qualifications:
+      - Pengalaman luas dalam memimpin manajemen produk di sebuah organisasi.

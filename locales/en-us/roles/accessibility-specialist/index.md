@@ -2,7 +2,7 @@
 
 > This is an illustrative reference profile for a generic digital health care organization. It is not an official job description for any employer, and its job evaluation scores are not a formal evaluation.
 
-**Family:** [User-centred design](../../#user-centred-design)  
+**Family:** [User-centered design](../../#user-centered-design)  
 **Bands:** 5, 6, 7, 8b  
 **UK GDaD PCF role:** [Accessibility specialist](https://understand-digital-data-roles-skills.service.gov.uk/role/accessibility-specialist/)  
 **ESCO occupations:** [ICT accessibility tester](http://data.europa.eu/esco/occupation/50af07f0-7a75-424e-a66d-5a9deea10f4c) (ISCO-08 2519)
@@ -83,8 +83,8 @@ Accessibility specialists help the organization make its digital health services
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -125,10 +125,10 @@ Accessibility specialists help the organization make its digital health services
 | --- | --- | --- | --- |
 | [Communicating information](../../skills/#communicating-information) | UK GDaD PCF | Working | You can:<br>• listen to the needs of design and business stakeholders and interpret information<br>• take part in discussions within a multidisciplinary team<br>• be an advocate for the team externally, and can manage differing perspectives<br>• shape and share communications relevant to the audience |
 | [Consultancy](../../skills/#consultancy) | UK GDaD PCF | Working | You can:<br>• provide advice, guidance and recommendations based on your specialist knowledge and experience<br>• propose methodologies to follow and approaches to implementation<br>• frame problems so they can easily be understood, and troubleshoot where required, to support the business in operating more effectively |
-| [Governance and assurance (accessibility)](../../skills/#governance-and-assurance-accessibility) | UK GDaD PCF | Working | You can:<br>• analyze and provide feedback on governance and project documents, and on governance boards, according to a predefined framework, assessing them against accessibility standards |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Working | You can:<br>• contribute to best practice guidelines<br>• understand the sustainability and consequences of your decisions and can make decisions characterized by managed levels of risk and complexity<br>• resolve technical disputes between wider peers and indirect stakeholders, taking into account all views and opinions |
+| [Governance and assurance (accessibility)](../../skills/#governance-and-assurance-accessibility) | UK GDaD PCF | Working | You can:<br>• analyse and provide feedback on governance and project documents, and on governance boards, according to a predefined framework, assessing them against accessibility standards |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Working | You can:<br>• contribute to best practice guidelines<br>• understand the sustainability and consequences of your decisions and can make decisions characterised by managed levels of risk and complexity<br>• resolve technical disputes between wider peers and indirect stakeholders, taking into account all views and opinions |
 | [Technical understanding (accessibility)](../../skills/#technical-understanding-accessibility) | UK GDaD PCF | Practitioner | You can:<br>• demonstrate knowledge and communicate the requirements of accessibility standards and legislation<br>• advocate appropriate technical solutions to a range of accessibility issues<br>• perform detailed audits of websites, services and documents, and document findings clearly for others to work from<br>• be an advocate for the people affected by accessibility barriers across the department<br>• provide introductory awareness and training about accessibility<br>• demonstrate confidence using one or more assistive technologies, and knowledge of others |
-| [Testing](../../skills/#testing) | UK GDaD PCF | Working | You can:<br>• review requirements and specifications, and define test conditions<br>• identify issues and risks associated with work<br>• analyze and report test activities and results |
+| [Testing](../../skills/#testing) | UK GDaD PCF | Working | You can:<br>• review requirements and specifications, and define test conditions<br>• identify issues and risks associated with work<br>• analyse and report test activities and results |
 | [User focus](../../skills/#user-focus) | UK GDaD PCF | Working | You can:<br>• identify and engage with users or stakeholders to collate user needs evidence<br>• understand and define research that fits user needs<br>• use quantitative and qualitative data about users to turn user focus into outcomes |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognize when a change could affect patient care and raise it |
 | [Equality, diversity, and inclusion](../../skills/#equality-diversity-and-inclusion) | This reference | Practitioner | You can:<br>• carry out equality impact assessments<br>• build inclusive teams and practices |
@@ -154,8 +154,8 @@ Accessibility specialists help the organization make its digital health services
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -197,12 +197,12 @@ Accessibility specialists help the organization make its digital health services
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Communicating information](../../skills/#communicating-information) | UK GDaD PCF | Practitioner | You can:<br>• work collaboratively in a group and build relationships with others<br>• identify issues through Agile 'health checks' and work with others to address them<br>• manage stakeholder expectations<br>• be flexible and capable of proactive and reactive communication<br>• host or moderate difficult discussions within the team or with senior stakeholders |
-| [Consultancy](../../skills/#consultancy) | UK GDaD PCF | Practitioner | You can:<br>• provide advice and recommendations to stakeholders based on your significant specialist knowledge and experience<br>• lead the definition of guidance and inform how the organization approaches delivery or uses digital and data skills more effectively |
+| [Consultancy](../../skills/#consultancy) | UK GDaD PCF | Practitioner | You can:<br>• provide advice and recommendations to stakeholders based on your significant specialist knowledge and experience<br>• lead the definition of guidance and inform how the organisation approaches delivery or uses digital and data skills more effectively |
 | [Governance and assurance (accessibility)](../../skills/#governance-and-assurance-accessibility) | UK GDaD PCF | Practitioner | You can:<br>• challenge teams, make full use of existing arrangements and build strong relationships to reduce or remove risk associated with not meeting accessibility standards |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterized by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
 | [Technical understanding (accessibility)](../../skills/#technical-understanding-accessibility) | UK GDaD PCF | Expert | You can:<br>• demonstrate excellent knowledge of accessibility standards and legislation, including edge cases<br>• communicate requirements to a range of stakeholders<br>• actively share a deep knowledge of how to select and use appropriate technology (such as ARIA, Accessible Rich Internet Applications) to provide an excellent experience<br>• perform detailed audits of websites, services and documents, document findings clearly, and provide solutions for others to work from<br>• understand and communicate how usability influences accessibility, and the boundary between them<br>• advocate removing barriers across all your interactions<br>• provide training on a range of accessibility issues<br>• demonstrate confidence using a range of assistive technologies |
 | [Testing](../../skills/#testing) | UK GDaD PCF | Expert | You can:<br>• manage testing activities within development or integration activities<br>• manage risks and take preventative action when risks become unacceptable<br>• manage customer relations |
-| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritize and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
+| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritise and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognize when a change could affect patient care and raise it |
 | [Equality, diversity, and inclusion](../../skills/#equality-diversity-and-inclusion) | This reference | Practitioner | You can:<br>• carry out equality impact assessments<br>• build inclusive teams and practices |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
@@ -217,7 +217,7 @@ Accessibility specialists help the organization make its digital health services
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -228,8 +228,8 @@ Accessibility specialists help the organization make its digital health services
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -248,14 +248,14 @@ Accessibility specialists help the organization make its digital health services
 
 **UK GDaD PCF level: Head of accessibility**
 
-> A head of accessibility is an expert practitioner who can create an accessibility vision or strategy for an organization.
+> A head of accessibility is an expert practitioner who can create an accessibility vision or strategy for an organisation.
 > 
 > At this role level, you will:
 > - define and assure best practice while influencing, leading and mentoring others
 > - influence and develop organisational strategy and priorities, working with counterpart colleagues across government
 > - ensure the right conditions and environment for accessibility specialists to work effectively
 > - develop departmental capability by supporting internal movement of staff between roles, shaping career paths and recruiting talent
-> - understand and own the overall approach to accessibility risk (including how accessibility risk is communicated and how corporate legal compliance risk is managed within the organization)
+> - understand and own the overall approach to accessibility risk (including how accessibility risk is communicated and how corporate legal compliance risk is managed within the organisation)
 > - engage with and contribute to the cross-government accessibility community
 
 ### Responsibilities
@@ -263,7 +263,7 @@ Accessibility specialists help the organization make its digital health services
 - Set the organization's accessibility vision, strategy, and standards, for patient-facing and internal services.
 - Assure compliance with accessibility law and standards across services, and report on it to senior leaders.
 - Make sure accessibility requirements are part of procurement and supplier contracts for clinical systems.
-- Influence organisational priorities so that disabled patients and staff are not excluded.
+- Influence organizational priorities so that disabled patients and staff are not excluded.
 - Lead and develop the accessibility team and community of practice.
 
 ### Skills
@@ -271,8 +271,8 @@ Accessibility specialists help the organization make its digital health services
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Communicating information](../../skills/#communicating-information) | UK GDaD PCF | Expert | You can:<br>• mediate between people and mend relationships, communicating with stakeholders at all levels<br>• manage stakeholder expectations and host or moderate discussions about high risk and complexity, even within constrained timescales<br>• speak on behalf of and represent the community to large audiences inside and outside of government |
-| [Governance and assurance (accessibility)](../../skills/#governance-and-assurance-accessibility) | UK GDaD PCF | Expert | You can:<br>• analyze governance and assurance systems and add appropriate measures to ensure accessibility is built into all project, programme and change activity |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organization, marrying business needs with innovative analysis<br>• make and justify decisions characterized by high levels of risk, impact and complexity<br>• build consensus between organizations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organization on team dynamics and conflict resolution |
+| [Governance and assurance (accessibility)](../../skills/#governance-and-assurance-accessibility) | UK GDaD PCF | Expert | You can:<br>• analyse governance and assurance systems and add appropriate measures to ensure accessibility is built into all project, programme and change activity |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organisation, marrying business needs with innovative analysis<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organisation on team dynamics and conflict resolution |
 | [Technical understanding (accessibility)](../../skills/#technical-understanding-accessibility) | UK GDaD PCF | Practitioner | You can:<br>• demonstrate knowledge and communicate the requirements of accessibility standards and legislation<br>• advocate appropriate technical solutions to a range of accessibility issues<br>• perform detailed audits of websites, services and documents, and document findings clearly for others to work from<br>• be an advocate for the people affected by accessibility barriers across the department<br>• provide introductory awareness and training about accessibility<br>• demonstrate confidence using one or more assistive technologies, and knowledge of others |
 | [Testing](../../skills/#testing) | UK GDaD PCF | Practitioner | You can:<br>• manage the planning of system and acceptance tests, co-ordinating both functional and non-functional specifications<br>• provide authoritative advice and guidance on test planning<br>• identify process improvements and contribute to the definition of best practice |
 | [User focus](../../skills/#user-focus) | UK GDaD PCF | Expert | You can:<br>• give direction on which tools or methods to use<br>• demonstrate experience in meeting the needs of users across a variety of channels<br>• bring insight and expertise in how user needs have changed over time to ensure they're met by the business<br>• apply strategic thinking to provide the best service for the end user |
@@ -301,8 +301,8 @@ Accessibility specialists help the organization make its digital health services
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
@@ -322,5 +322,5 @@ There is no Band 8a level, because the UK GDaD PCF places head of accessibility 
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

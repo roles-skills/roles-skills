@@ -1,0 +1,46 @@
+summary: >
+  Penasihat hukum adalah pengacara berkualifikasi yang memberi organisasi nasihat hukum yang praktis dan akurat serta membantunya mengelola risiko hukum. Mereka menyusun dan menegosiasikan kontrak, menasihati tentang hukum data, pengadaan, ketenagakerjaan, serta kesehatan dan perawatan, dan mengelola sengketa dan klaim. Dalam organisasi layanan kesehatan digital, sebagian besar pekerjaan mereka berkaitan dengan teknologi: lisensi perangkat lunak, perjanjian komputasi awan dan pemrosesan data, pembagian data, kekayaan intelektual dalam perangkat lunak dan data, serta regulasi produk kesehatan digital.
+health_context:
+  - Kontrak teknologi harus melindungi data pasien, menjaga layanan klinis tetap berjalan, dan memastikan organisasi dapat meninggalkan pemasok dengan aman.
+  - Memakai data kesehatan untuk perawatan langsung, perencanaan, penelitian, dan AI memunculkan pertanyaan di bawah hukum pelindungan data dan kewajiban kerahasiaan yang memerlukan nasihat yang cermat.
+  - Membeli teknologi dengan uang publik harus mengikuti aturan pengadaan publik, dan pemasok dapat menyanggah keputusan penetapan.
+  - Organisasi dapat membangun perangkat lunak atau produk data, yang memunculkan pertanyaan kekayaan intelektual, sumber terbuka, dan penggunaan komersial.
+  - Klaim dapat melibatkan kerugian pada pasien, termasuk ketika layanan digital berperan, sehingga penasihat bekerja dengan rekan keselamatan klinis, risiko, dan ganti rugi.
+levels:
+  - title: Penasihat hukum
+    summary: Penasihat hukum adalah pengacara berkualifikasi yang memberi nasihat independen dan menangani sendiri sejumlah perkara di satu atau lebih bidang, seperti kontrak teknologi, hukum informasi, pengadaan, atau ketenagakerjaan.
+    responsibilities:
+      - Menyusun, meninjau, dan menegosiasikan perjanjian, seperti lisensi perangkat lunak, layanan komputasi awan, dan perjanjian pemrosesan data.
+      - Memberi nasihat hukum yang jelas dan praktis kepada manajer dan tim di bidang praktik Anda.
+      - Menasihati tentang perjanjian pembagian data, penilaian dampak pelindungan data, dan permintaan informasi.
+      - Menasihati tentang proses pengadaan dan perubahan kontrak untuk teknologi dan layanan.
+      - Mengelola sejumlah sengketa atau klaim, menugaskan pengacara luar bila perlu.
+      - Menyelia dan mengembangkan paralegal dan asisten hukum.
+    qualifications:
+      - Pengacara berkualifikasi yang diizinkan berpraktik, atau kualifikasi dan pengalaman yang setara.
+      - Pengalaman dalam hukum komersial, teknologi, informasi, atau publik.
+    job_evaluation_notes: Pengetahuan di tingkat 7 karena pekerjaan ini memerlukan kualifikasi hukum profesional dan pengalaman praktik. Sumber daya keuangan di tingkat 2 karena penasihat hukum jarang memegang anggaran. Upaya emosional di tingkat 2 karena klaim dan kasus ketenagakerjaan sering melibatkan materi yang menyedihkan.
+  - title: Penasihat hukum senior
+    summary: Penasihat hukum senior adalah pengacara berpengalaman yang memimpin perkara yang kompleks, bernilai tinggi, atau berisiko tinggi di bidang spesialis, seperti teknologi dan data, hukum informasi, pengadaan, ketenagakerjaan, atau klaim.
+    responsibilities:
+      - Memimpin perjanjian kompleks, seperti penerapan sistem besar, platform data, dan kemitraan.
+      - Menasihati manajer senior tentang pertanyaan baru, seperti AI, penggunaan data untuk penelitian, dan perangkat lunak sebagai alat kesehatan.
+      - Menasihati tentang hukum ketenagakerjaan untuk perubahan tenaga kerja, kontraktor, dan sengketa ketenagakerjaan.
+      - Memimpin sengketa yang signifikan, sanggahan pengadaan, dan penghubung dengan skema kelalaian klinis.
+      - Menulis templat, panduan, dan pedoman untuk organisasi.
+      - Mengelola dan mengembangkan penasihat hukum dan paralegal.
+    qualifications:
+      - Pengacara berkualifikasi yang diizinkan berpraktik, dengan pengalaman pascakualifikasi yang substansial di bidang spesialis yang relevan.
+    job_evaluation_notes: Sumber daya keuangan di tingkat 2 karena pekerjaan ini tidak memegang anggaran, meskipun mengendalikan pengeluaran untuk pengacara luar pada perkaranya.
+  - title: Penasihat hukum utama
+    summary: Penasihat hukum utama adalah pakar terkemuka organisasi di satu atau lebih bidang hukum, seperti teknologi dan data atau hukum informasi, dan memimpin pekerjaan hukumnya pada perkara yang paling signifikan.
+    responsibilities:
+      - Memimpin pekerjaan hukum untuk program, kontrak, dan sengketa organisasi yang paling signifikan.
+      - Memberi nasihat definitif tentang perkara yang baru dan berisiko tinggi, seperti pembagian data skala besar, AI, dan penggunaan komersial perangkat lunak dan data organisasi.
+      - Menetapkan posisi dan standar hukum organisasi di bidang spesialis Anda.
+      - Menasihati direktur dan komite dewan tentang risiko hukum.
+      - Mewakili organisasi di hadapan regulator, mitra, dan pemasok dalam hal hukum.
+      - Memimpin tim hukum spesialis dan mengembangkan kapabilitasnya.
+    qualifications:
+      - Pengacara berkualifikasi yang diizinkan berpraktik, dengan pengalaman pascakualifikasi yang luas dan keahlian yang diakui di suatu spesialisasi.
+    job_evaluation_notes: Pengetahuan di tingkat 8 karena pekerjaan ini memerlukan pengetahuan hukum pakar lintas hukum dan teknologi, yang dibangun dalam waktu lama.

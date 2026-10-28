@@ -1,0 +1,46 @@
+summary: Testingeniører bygger de automatiserede tests, værktøjer og rammer, der lader teams teste organisationens digitale sundhedsservices hurtigt og ofte. De skriver kode til at teste funktioner, integrationer, ydeevne, sikkerhed og robusthed og bygger test ind i leverancepipelines, så ændringer af kliniske systemer og systemer til patienter kan udgives sikkert.
+health_context:
+- Kliniske systemer er sikkerhedskritiske, så automatiserede regressionstests beskytter de sikkerhedskontroller, der er registreret i fareregistre, og opbevares som dokumentation til sikkerhedsbegrundelser.
+- Integrationer med andre sundheds- og plejesystemer kræver automatiserede tests mod standarder som HL7 FHIR og HL7 version 2, ofte ved hjælp af simulerede partnersystemer.
+- Kliniske services kører døgnet rundt og har forudsigelige spidsbelastninger, så test af ydeevne og robusthed modellerer den reelle kliniske efterspørgsel.
+- Testmiljøer må ikke rumme rigtige patientdata, så ingeniørerne genererer realistiske syntetiske data, herunder sjældne kliniske tilfælde og grænsetilfælde.
+- Software reguleret som medicinsk udstyr kræver sporbar, gentagelig test som en del af sin livscyklus efter standarder som IEC 62304.
+levels:
+- title: Associeret testingeniør
+  responsibilities:
+  - Skrive og vedligeholde enkle automatiserede tests under supervision efter teamets tekniske standarder.
+  - Køre automatiserede og manuelle tests og registrere resultaterne nøjagtigt.
+  - Hjælpe med at undersøge og indberette fejl, herunder i integrationer med kliniske systemer.
+  - Bruge syntetiske testdata og følge reglerne for informationsstyring i testmiljøer.
+  - Lære teamets testværktøjer, kodepraksis og processen for klinisk sikkerhed.
+  qualifications:
+  - Noget erfaring med kodning eller test, eller indskrivning på en relevant lærlingeuddannelse, eller tilsvarende.
+- title: Testingeniør
+  responsibilities:
+  - Designe og bygge automatiserede funktionelle tests, integrationstests og API-tests for kliniske services og services til patienter.
+  - Bygge tests, der kontrollerer meddelelser mod HL7 FHIR-profiler og andre specifikationer for interoperabilitet.
+  - Generere syntetiske patientdata, der dækker realistiske kliniske tilfælde og grænsetilfælde.
+  - Tilføje tests til leverancepipelines, så sikkerhedsrelaterede kontroller kører ved hver ændring.
+  - Estimere testindsats, rapportere resultater og støtte løsningen af fejl.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller et beslægtet fag eller tilsvarende erfaring.
+  - Erfaring med at bygge automatiserede tests.
+- title: Senior testingeniør
+  responsibilities:
+  - Lede testingeniørarbejdet for et område og vælge værktøjer, rammer og testtyper, der imødegår dets risici tidligt.
+  - Bygge genbrugelige testrammer og simulatorer til kliniske systemer og partnerintegrationer.
+  - Planlægge og gennemføre test af ydeevne, belastning og robusthed baseret på reel klinisk efterspørgsel.
+  - Sikre, at automatiserede tests kan spores til farer og sikkerhedskontroller og frembringe dokumentation til sikkerhedsbegrundelser.
+  - Coache og vejlede andre testingeniører og aftale tekniske standarder med udviklere.
+  qualifications:
+  - Betydelig erfaring med testingeniørarbejde på et niveau svarende til en kandidatgrad.
+- title: Ledende testingeniør
+  responsibilities:
+  - Fastlægge strategien og standarderne for testingeniørarbejde på tværs af et bredt område, herunder kontinuerlig test i leverancepipelines.
+  - Lede og vejlede testingeniører og teams i praksis for kvalitetsudvikling.
+  - Sikre, at test af reguleret og sikkerhedskritisk software opfylder de krævede standarder og kan spores.
+  - Eskalere kvalitets- og sikkerhedsrisici til senior produktledere, kliniske ledere og leverandørledere.
+  - Finde muligheder for at teste tidligere og oftere og måle virkningen på kvaliteten.
+  qualifications:
+  - Omfattende erfaring med at lede testingeniørarbejde for komplekse services.
+  job_evaluation_notes: UK GDaD PCF foreslår SEO til G6 for dette niveau, hvilket svarer til lønramme 7, den samme lønramme som den senior testingeniør. Denne reference placerer det i lønramme 8a, fordi det fastlægger strategi og standarder for testingeniørarbejde på tværs af et bredt område.

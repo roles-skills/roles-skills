@@ -51,7 +51,7 @@ Supports the information governance team with information rights requests, incid
 | [Information governance incident management](../../skills/#information-governance-incident-management) | This reference | Working | You can:<br>• log incidents and gather the facts<br>• assess incidents against the organization's severity criteria<br>• track actions to close |
 | [Information governance assurance and audit](../../skills/#information-governance-assurance-and-audit) | This reference | Working | You can:<br>• collect and organize evidence for the annual self-assessment<br>• carry out simple audits, such as access or record-keeping audits<br>• track improvement actions |
 | [Confidentiality and information sharing](../../skills/#confidentiality-and-information-sharing) | This reference | Working | You can:<br>• check that a request to share information meets policy<br>• keep records of what was shared, with whom, and why<br>• draft simple information sharing agreements |
-| [Health records management](../../skills/#health-records-management) | This reference | Awareness | You can:<br>• file, find, and track records correctly<br>• protect records from loss or unauthorized access |
+| [Health records management](../../skills/#health-records-management) | This reference | Awareness | You can:<br>• file, find, and track records correctly<br>• protect records from loss or unauthorised access |
 | [Digital office tools](../../skills/#digital-office-tools) | This reference | Working | You can:<br>• produce well-formatted documents and presentations quickly and accurately<br>• use spreadsheets to sort, filter, and summarize data<br>• use collaboration tools to manage shared documents and versions |
 | [Communicating information](../../skills/#communicating-information) | UK GDaD PCF | Working | You can:<br>• listen to the needs of design and business stakeholders and interpret information<br>• take part in discussions within a multidisciplinary team<br>• be an advocate for the team externally, and can manage differing perspectives<br>• shape and share communications relevant to the audience |
 
@@ -73,8 +73,8 @@ Supports the information governance team with information rights requests, incid
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -135,8 +135,8 @@ Handles a caseload of information rights requests and incidents, and supports te
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -153,7 +153,7 @@ Handles a caseload of information rights requests and incidents, and supports te
 
 ## Band 6: Information governance lead
 
-Gives expert information governance advice to a directorate or programme, leading data protection impact assessments and complex cases.
+Gives expert information governance advice to a directorate or program, leading data protection impact assessments and complex cases.
 
 ### Responsibilities
 
@@ -196,8 +196,8 @@ Gives expert information governance advice to a directorate or programme, leadin
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -214,12 +214,12 @@ Gives expert information governance advice to a directorate or programme, leadin
 
 ## Band 7: Information governance manager
 
-Manages the information governance service day to day, including its team, casework, assurance programme, and training.
+Manages the information governance service day to day, including its team, casework, assurance program, and training.
 
 ### Responsibilities
 
 - Manage the information governance team and its casework, making sure legal time limits are met.
-- Plan and run the information governance assurance programme and annual self-assessment.
+- Plan and run the information governance assurance program and annual self-assessment.
 - Write and review information governance policies and procedures.
 - Advise senior managers on information risks and keep the information risk register.
 - Lead the response to serious incidents, working with security, clinical safety, and communications colleagues.
@@ -230,11 +230,11 @@ Manages the information governance service day to day, including its team, casew
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
-| [Information governance assurance and audit](../../skills/#information-governance-assurance-and-audit) | This reference | Practitioner | You can:<br>• plan and run the information governance assurance programme<br>• judge whether evidence meets the standard and identify gaps<br>• work with internal and external auditors |
+| [Information governance assurance and audit](../../skills/#information-governance-assurance-and-audit) | This reference | Practitioner | You can:<br>• plan and run the information governance assurance program<br>• judge whether evidence meets the standard and identify gaps<br>• work with internal and external auditors |
 | [Data protection impact assessment](../../skills/#data-protection-impact-assessment) | This reference | Practitioner | You can:<br>• review and advise on data protection impact assessments for complex systems<br>• judge whether risks are acceptable and recommend controls<br>• decide when to escalate high risks for senior or regulator review |
 | [Information governance incident management](../../skills/#information-governance-incident-management) | This reference | Practitioner | You can:<br>• investigate serious incidents and find their root causes<br>• decide, with senior colleagues, whether to notify regulators and people affected<br>• share lessons and track improvements |
 | [Records retention and disposal](../../skills/#records-retention-and-disposal) | This reference | Working | You can:<br>• apply the retention schedule to records and flag those due for review<br>• prepare records for archiving or secure destruction, and keep the audit trail |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 | [Data ethics and privacy](../../skills/#data-ethics-and-privacy) | UK GDaD PCF | Practitioner | You can:<br>• work with stakeholders to identify and address ethical and privacy concerns<br>• demonstrate and communicate how data ethical issues fit into the wider organisational context<br>• research developments in data ethics and privacy to improve compliance and processes<br>• assess and constructively challenge proposed data ethics policies |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Practitioner | You can:<br>• work with the team to develop and maintain an understanding of stakeholders<br>• work with the team to develop and implement stakeholder communications strategies<br>• identify and resolve issues, influence stakeholders and manage relationships effectively<br>• build long-term strategic relationships and communicate clearly and regularly with stakeholders |
@@ -247,7 +247,7 @@ Manages the information governance service day to day, including its team, casew
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -258,8 +258,8 @@ Manages the information governance service day to day, including its team, casew
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -296,10 +296,10 @@ Leads information governance for the organization, setting its policy and strate
 | [Confidentiality and information sharing](../../skills/#confidentiality-and-information-sharing) | This reference | Expert | You can:<br>• act as the senior adviser on confidentiality for the organization<br>• resolve the most difficult disclosure decisions<br>• set the framework for sharing information with partners |
 | [Data protection impact assessment](../../skills/#data-protection-impact-assessment) | This reference | Practitioner | You can:<br>• review and advise on data protection impact assessments for complex systems<br>• judge whether risks are acceptable and recommend controls<br>• decide when to escalate high risks for senior or regulator review |
 | [Health records management](../../skills/#health-records-management) | This reference | Practitioner | You can:<br>• manage a records service and its procedures<br>• audit record-keeping and train staff |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
-| [Data ethics and privacy](../../skills/#data-ethics-and-privacy) | UK GDaD PCF | Expert | You can:<br>• oversee compliance with data ethics standards and legislation across the organization<br>• develop, manage and continuously improve an ethical framework within your area<br>• develop a data ethics culture, influencing others to act on it<br>• ensure data ethics is applied appropriately when formulating, implementing and evaluating organisational policies and programs |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterized by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
+| [Data ethics and privacy](../../skills/#data-ethics-and-privacy) | UK GDaD PCF | Expert | You can:<br>• oversee compliance with data ethics standards and legislation across the organisation<br>• develop, manage and continuously improve an ethical framework within your area<br>• develop a data ethics culture, influencing others to act on it<br>• ensure data ethics is applied appropriately when formulating, implementing and evaluating organisational policies and programmes |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
 
 ### Typical qualifications and experience
 
@@ -309,7 +309,7 @@ Leads information governance for the organization, setting its policy and strate
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -320,8 +320,8 @@ Leads information governance for the organization, setting its policy and strate
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -339,5 +339,5 @@ Leads information governance for the organization, setting its policy and strate
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

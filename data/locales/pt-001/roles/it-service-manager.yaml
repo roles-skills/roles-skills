@@ -1,0 +1,47 @@
+summary: Os gerentes de serviços de TI garantem que os serviços digitais da organização sejam prestados nos níveis acordados e continuem melhorando. Definem níveis de serviço, gerem o catálogo de serviços, reportam o desempenho e coordenam as equipes e os fornecedores que operam cada serviço. Na saúde, transformam o que os serviços clínicos exigem, como a disponibilidade ininterrupta, em metas de serviço e arranjos de suporte.
+health_context:
+- Os níveis de serviço dos sistemas clínicos refletem o risco clínico, por isso as metas do prontuário eletrônico ou da prescrição diferem das de um sistema corporativo.
+- Os serviços costumam ser prestados por uma combinação de equipes internas, fornecedores e serviços compartilhados com organizações parceiras, por isso os gerentes de serviços coordenam além das fronteiras organizacionais.
+- A continuidade de negócios clínica depende da TI, por isso os gerentes de serviços trabalham com as lideranças clínicas e de planejamento de emergências nos planos de indisponibilidade e de continuidade.
+- As equipes clínicas têm pouco tempo para comunicar problemas, por isso os gerentes de serviços usam monitoramento, dados da central de serviços e feedback clínico para encontrar os problemas cedo.
+levels:
+- title: Analista de serviços de TI
+  responsibilities:
+  - Responder, documentar e resolver incidentes e solicitações dentro dos níveis de serviço acordados.
+  - Produzir relatórios periódicos de serviço, como volumes de chamados, tempos de resposta e disponibilidade dos sistemas clínicos.
+  - Conferir se as entradas do catálogo de serviços e os artigos de conhecimento estão exatos e atualizados.
+  - Procurar padrões nos incidentes e sugerir melhorias.
+  - Seguir as regras de governança da informação ao tratar dados de chamados e de serviços.
+  qualifications:
+  - Uma qualificação básica em gestão de serviços de TI, qualificação de nível 3 em TI ou experiência equivalente.
+- title: Gerente de serviços de TI
+  responsibilities:
+  - Definir e acordar níveis de serviço para serviços clínicos e corporativos, com base no risco clínico e na necessidade do negócio.
+  - Gerir os arranjos de suporte de um portfólio de serviços, incluindo fornecedores e serviços compartilhados.
+  - Reportar o desempenho dos serviços aos responsáveis pelos serviços e às lideranças clínicas e acordar ações de melhoria.
+  - Garantir que cada serviço tenha arranjos testados de continuidade de negócios e de indisponibilidade.
+  - Manter atualizado o catálogo de serviços e garantir que as equipes sejam informadas das mudanças em seus serviços.
+  - Conduzir um programa de melhoria contínua dos serviços sob sua responsabilidade.
+  qualifications:
+  - Experiência na gestão de serviços de TI segundo níveis de serviço acordados.
+  - Uma qualificação intermediária em gestão de serviços de TI, ou experiência equivalente.
+- title: Gerente de serviços de TI sênior
+  responsibilities:
+  - Liderar a gestão de serviços em várias plataformas e canais e elevar a maturidade dos processos de gestão de serviços.
+  - Acordar níveis de serviço e condições contratuais com os principais fornecedores de sistemas clínicos e exigir deles resultados.
+  - Apresentar o desempenho e os riscos dos serviços a lideranças clínicas e operacionais seniores.
+  - Liderar revisões de serviço após incidentes graves e acompanhar as ações de melhoria até a conclusão.
+  - Alinhar os planos de continuidade de TI com os planos de continuidade de negócios clínica, trabalhando com o planejamento de emergências e as lideranças clínicas.
+  - Liderar e desenvolver gerentes de serviços de TI.
+  qualifications:
+  - Experiência substancial em gestão de serviços de TI em vários serviços.
+  - Uma qualificação avançada em gestão de serviços de TI, ou experiência equivalente.
+- title: Chefia de gestão de serviços de TI
+  responsibilities:
+  - Definir a visão, a estratégia e o modelo operacional da gestão de serviços de TI em toda a organização.
+  - Garantir que todo processo de gestão de serviços tenha um responsável e continue amadurecendo.
+  - Representar a gestão de serviços de TI em nível sênior, inclusive em reuniões de governança clínica e operacional.
+  - Atuar como ponto sênior de escalonamento para as lideranças de serviços clínicos e corporativos.
+  - Garantir que a função de gestão de serviços tenha as pessoas, as ferramentas e o orçamento de que precisa.
+  qualifications:
+  - Ampla experiência na liderança da gestão de serviços de TI em uma organização grande ou complexa.

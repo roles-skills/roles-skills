@@ -1,0 +1,60 @@
+summary: Applikationsdriftsingeniører holder organisationens applikationer kørende i daglig brug, herunder kliniske systemer som den elektroniske patientjournal samt systemer til ordination, laboratorie og billeddiagnostik. De overvåger applikationer, kører planlagte jobs, styrer brugere og adgang, udruller releases og rettelser og samarbejder med leverandører om at løse fejl. Deres arbejde gør det muligt for kliniske og administrative medarbejdere at stole på disse systemer på alle tider af døgnet.
+health_context:
+- Kliniske applikationer kører døgnet rundt, så ingeniørerne deltager i vagtordninger og planlægger vedligeholdelse til de roligste kliniske perioder.
+- Mislykkede planlagte jobs og grænseflader kan forsinke prøvesvar, henvisninger eller udskrivningsbreve, så ingeniørerne overvåger dem nøje og eskalerer hurtigt.
+- Planlagt og uplanlagt nedetid kræver beredskabsordninger, såsom kopier med kun læseadgang og nedetidsrapporter, så klinikerne kan fortsætte med at behandle patienter.
+- Mange kliniske applikationer leveres og hostes af tredjeparter, så ingeniørerne styrer leverandører og deres ændringer omhyggeligt.
+- Ændringer i kliniske applikationer følger processen for klinisk risikostyring, og nogle applikationer kan være reguleret som medicinsk udstyr.
+levels:
+- title: Associeret applikationsdriftsingeniør
+  responsibilities:
+  - Overvåge applikationer, grænseflader og planlagte jobs og indberette fejl til erfarne ingeniører.
+  - Oprette og ændre brugerkonti og adgang i applikationer efter reglerne for rollebaseret adgang.
+  - Udføre rutinekontroller og vedligeholdelsesopgaver ved hjælp af runbooks.
+  - Registrere hændelser og ændringer nøjagtigt i servicestyringsværktøjet.
+  - Arbejde hen imod en it-lærlingeuddannelse eller tilsvarende uddannelse.
+  qualifications:
+  - Indskrevet på eller i gang med en it-lærlingeuddannelse eller tilsvarende.
+  job_evaluation_notes: Viden scores på det niveau, jobbet kræver, når oplæringen er så vidt fremskreden, at arbejdet kan udføres.
+- title: Applikationsdriftsingeniør
+  responsibilities:
+  - Overvåge kliniske og administrative applikationer og deres grænseflader og handle på advarsler og mislykkede jobs, før de påvirker patientplejen.
+  - Køre og kontrollere planlagte jobs, såsom natlige dataindlæsninger og grænsefladekøer, og løse eller eskalere fejl.
+  - Styre applikationsbrugere, roller og adgang, herunder fjernelse af adgang for fratrædende og støtte til adgangsgennemgange.
+  - Udarbejde og teste nedetidsrapporter og andre beredskabsprodukter til kliniske applikationer.
+  - Registrere fejl hos leverandører og følge dem til løsning.
+  - Deltage i vagtordningen med vejledning ved applikationsfejl uden for arbejdstid.
+  qualifications:
+  - En it-uddannelse, en gennemført lærlingeuddannelse eller tilsvarende erfaring.
+  - Erfaring med at supportere forretningsapplikationer eller kliniske applikationer.
+- title: Senior applikationsdriftsingeniør
+  responsibilities:
+  - Udrulle releases, patches og konfigurationsændringer til live applikationer efter procedurerne for ændringer og klinisk sikkerhed.
+  - Koordinere det tekniske arbejde med at tage nye applikationer og større opgraderinger i brug, herunder planer for overgang og tilbagerulning.
+  - Undersøge komplekse applikationsfejl sammen med leverandører, infrastrukturteams og specialister i kliniske systemer.
+  - Planlægge vedligeholdelsesvinduer sammen med kliniske services og sikre, at nedetidsprocedurer er klar.
+  - Levere dokumentation til kliniske sikkerhedsbegrundelser, såsom test- og udrulningsregistre.
+  - Fungere som eskaleringspunkt i vagtordningen ved fejl uden for arbejdstid.
+  qualifications:
+  - Betydelig erfaring med at supportere live applikationer på et niveau svarende til en bacheloruddannelse.
+  job_evaluation_notes: Mental anstrengelse afspejler hyppig langvarig koncentration under idriftsættelser, udrulninger og hændelser uden for arbejdstid.
+- title: Ledende applikationsdriftsingeniør
+  responsibilities:
+  - Fastlægge den driftsmæssige tilgang til en gruppe applikationer, herunder overvågning, robusthed og supportordninger.
+  - Fastsætte standarder for bruger- og sikkerhedsadministration på tværs af kliniske applikationer sammen med sikkerhedsteamet.
+  - Rapportere om applikationernes præstation og tilgængelighed til lederne af it-drift og aftale de nødvendige ændringer.
+  - Lede den tekniske indsats ved større hændelser, der påvirker kliniske applikationer.
+  - Sikre, at beredskabs- og katastrofeberedskabsordninger for kliniske applikationer testes.
+  - Lede og udvikle applikationsdriftsingeniører.
+  qualifications:
+  - Omfattende erfaring med at drive live applikationer, herunder kliniske eller andre kritiske systemer.
+- title: Principal applikationsdriftsingeniør
+  responsibilities:
+  - Eje strategien for applikationsdrift på tværs af organisationens kliniske og administrative applikationer.
+  - Styre strategiske leverandører af kliniske applikationer, herunder serviceniveauer, kontraktpræstation og leverandørændringer.
+  - Rådgive den øverste ledelse om applikationsrisici, såsom understøttet software, enkeltstående fejlpunkter og robusthed over for ransomware.
+  - Sikre, at organisationen kan fortsætte med at pleje patienter sikkert under længerevarende applikationsnedetid.
+  - Lede bemanding, læring og udvikling for applikationsdriftsteams.
+  qualifications:
+  - Omfattende erfaring med at lede applikationsdrift i en stor organisation.
+  job_evaluation_notes: UK GDaD PCF foreslår lønramme 8c for dette niveau (G6). Denne reference placerer det i lønramme 8b i overensstemmelse med principal-roller i andre tekniske familier, fordi dets rækkevidde er ét teknisk område og ikke en direktion.

@@ -1,0 +1,92 @@
+# Family and role titles in Swahili. Keys are the English ids. Slugs are made
+# from the titles.
+families:
+  software-development: {title: Uundaji wa programu}
+  architecture: {title: Usanifu}
+  data: {title: Data}
+  product-and-delivery: {title: Bidhaa na utoaji}
+  user-centred-design: {title: Usanifu unaomlenga mtumiaji}
+  it-operations: {title: Uendeshaji wa TEHAMA}
+  cyber-security: {title: Usalama wa mtandao}
+  quality-assurance-testing: {title: Uhakikisho wa ubora na majaribio}
+  clinical-informatics: {title: Informatiki ya kitabibu na usalama wa kitabibu}
+  information-governance: {title: Usimamizi wa taarifa}
+  finance: {title: Fedha}
+  legal: {title: Sheria}
+  human-resources: {title: Rasilimali watu}
+  procurement: {title: Ununuzi na biashara}
+  corporate-services: {title: Huduma za kampuni}
+roles:
+  software-developer: {title: Msanidi programu}
+  frontend-developer: {title: Msanidi wa sehemu ya mbele}
+  devops-engineer: {title: Mhandisi wa DevOps}
+  integration-engineer: {title: Mhandisi wa uunganishaji (ushirikiano wa mifumo ya afya)}
+  enterprise-architect: {title: Msanifu wa taasisi}
+  solution-architect: {title: Msanifu wa suluhisho}
+  technical-architect: {title: Msanifu wa kiufundi}
+  data-architect: {title: Msanifu wa data}
+  security-architect: {title: Msanifu wa usalama}
+  network-architect: {title: Msanifu wa mtandao}
+  business-architect: {title: Msanifu wa biashara}
+  data-analyst: {title: Mchambuzi wa data}
+  performance-analyst: {title: Mchambuzi wa utendaji}
+  data-engineer: {title: Mhandisi wa data}
+  analytics-engineer: {title: Mhandisi wa uchanganuzi}
+  data-scientist: {title: Mwanasayansi wa data}
+  machine-learning-engineer: {title: Mhandisi wa kujifunza kwa mashine}
+  data-governance-manager: {title: Meneja wa usimamizi wa data}
+  clinical-coder: {title: Mwekaji misimbo ya kitabibu}
+  business-analyst: {title: Mchambuzi wa biashara}
+  delivery-manager: {title: Meneja wa utoaji}
+  product-manager: {title: Meneja wa bidhaa}
+  project-manager: {title: Meneja wa mradi}
+  programme-delivery-manager: {title: Meneja wa utoaji wa programu ya miradi}
+  digital-portfolio-manager: {title: Meneja wa jalada la miradi ya kidijitali}
+  service-owner: {title: Mmiliki wa huduma}
+  user-researcher: {title: Mtafiti wa watumiaji}
+  service-designer: {title: Mbunifu wa huduma}
+  interaction-designer: {title: Mbunifu wa mwingiliano}
+  content-designer: {title: Mbunifu wa maudhui}
+  accessibility-specialist: {title: Mtaalamu wa ufikivu}
+  service-desk-analyst: {title: Mchambuzi wa dawati la huduma}
+  end-user-computing-engineer: {title: Mhandisi wa kompyuta za watumiaji wa mwisho}
+  infrastructure-engineer: {title: Mhandisi wa miundombinu}
+  application-operations-engineer: {title: Mhandisi wa uendeshaji wa programu tumizi}
+  it-service-manager: {title: Meneja wa huduma za TEHAMA}
+  incident-manager: {title: Meneja wa matukio}
+  problem-manager: {title: Meneja wa matatizo}
+  change-and-release-manager: {title: Meneja wa mabadiliko na toleo}
+  security-analyst: {title: Mchambuzi wa uendeshaji wa usalama}
+  security-engineer: {title: Mhandisi wa usalama}
+  cyber-security-manager: {title: Meneja wa usalama wa mtandao}
+  quality-assurance-test-analyst: {title: Mchambuzi wa majaribio wa uhakikisho wa ubora}
+  test-engineer: {title: Mhandisi wa majaribio}
+  test-manager: {title: Meneja wa majaribio}
+  clinical-informatician: {title: Mtaalamu wa informatiki ya kitabibu}
+  clinical-safety-officer: {title: Afisa wa usalama wa kitabibu}
+  chief-clinical-information-officer: {title: Mkuu wa taarifa za kitabibu (CCIO)}
+  records-officer: {title: Afisa wa kumbukumbu za wagonjwa}
+  information-governance-officer: {title: Afisa wa usimamizi wa taarifa}
+  data-protection-officer: {title: Afisa wa ulinzi wa data}
+  finance-officer: {title: Afisa wa fedha}
+  payroll-officer: {title: Afisa wa mishahara}
+  management-accountant: {title: Mhasibu wa usimamizi}
+  financial-accountant: {title: Mhasibu wa fedha}
+  head-of-finance: {title: Mkuu wa fedha}
+  legal-assistant: {title: Msaidizi wa sheria}
+  legal-adviser: {title: Mshauri wa sheria}
+  head-of-legal: {title: Mkuu wa idara ya sheria}
+  hr-officer: {title: Afisa wa rasilimali watu}
+  recruitment-officer: {title: Afisa wa uajiri}
+  hr-business-partner: {title: Mshirika wa biashara wa rasilimali watu}
+  learning-and-development-specialist: {title: Mtaalamu wa mafunzo na maendeleo}
+  head-of-people: {title: Mkuu wa watu}
+  procurement-officer: {title: Afisa wa ununuzi}
+  category-manager: {title: Meneja wa kundi la bidhaa}
+  contract-manager: {title: Meneja wa mikataba}
+  head-of-procurement: {title: Mkuu wa ununuzi}
+  administrator: {title: Msimamizi wa ofisi}
+  executive-assistant: {title: Msaidizi wa mtendaji}
+  project-support-officer: {title: Afisa wa msaada wa mradi}
+  governance-and-risk-manager: {title: Meneja wa usimamizi na hatari}
+  communications-officer: {title: Afisa wa mawasiliano}

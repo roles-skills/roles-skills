@@ -1,0 +1,92 @@
+# Family and role titles in Dutch. Keys are the English ids. Slugs are made
+# from the titles.
+families:
+  software-development: {title: Softwareontwikkeling}
+  architecture: {title: Architectuur}
+  data: {title: Data}
+  product-and-delivery: {title: Product en levering}
+  user-centred-design: {title: Gebruikersgericht ontwerp}
+  it-operations: {title: IT-beheer}
+  cyber-security: {title: Cyberbeveiliging}
+  quality-assurance-testing: {title: Kwaliteitsborging en testen}
+  clinical-informatics: {title: Klinische informatica en klinische veiligheid}
+  information-governance: {title: Informatiebeheer}
+  finance: {title: Financiën}
+  legal: {title: Juridisch}
+  human-resources: {title: Personeelszaken}
+  procurement: {title: Inkoop en commercie}
+  corporate-services: {title: Bedrijfsondersteuning}
+roles:
+  software-developer: {title: Softwareontwikkelaar}
+  frontend-developer: {title: Frontendontwikkelaar}
+  devops-engineer: {title: DevOps-engineer}
+  integration-engineer: {title: Integratie-engineer (interoperabiliteit in gezondheid en zorg)}
+  enterprise-architect: {title: Enterprise-architect}
+  solution-architect: {title: Oplossingsarchitect}
+  technical-architect: {title: Technisch architect}
+  data-architect: {title: Data-architect}
+  security-architect: {title: Beveiligingsarchitect}
+  network-architect: {title: Netwerkarchitect}
+  business-architect: {title: Bedrijfsarchitect}
+  data-analyst: {title: Data-analist}
+  performance-analyst: {title: Prestatieanalist}
+  data-engineer: {title: Data-engineer}
+  analytics-engineer: {title: Analytics-engineer}
+  data-scientist: {title: Datawetenschapper}
+  machine-learning-engineer: {title: Machine-learning-engineer}
+  data-governance-manager: {title: Manager datagovernance}
+  clinical-coder: {title: Klinisch codeur}
+  business-analyst: {title: Bedrijfsanalist}
+  delivery-manager: {title: Leveringsmanager}
+  product-manager: {title: Productmanager}
+  project-manager: {title: Projectmanager}
+  programme-delivery-manager: {title: Programmaleveringsmanager}
+  digital-portfolio-manager: {title: Digitaal portfoliomanager}
+  service-owner: {title: Service-eigenaar}
+  user-researcher: {title: Gebruikersonderzoeker}
+  service-designer: {title: Servicedesigner}
+  interaction-designer: {title: Interactieontwerper}
+  content-designer: {title: Contentontwerper}
+  accessibility-specialist: {title: Toegankelijkheidsspecialist}
+  service-desk-analyst: {title: Servicedeskanalist}
+  end-user-computing-engineer: {title: Engineer werkplekomgeving}
+  infrastructure-engineer: {title: Infrastructuurengineer}
+  application-operations-engineer: {title: Engineer applicatiebeheer}
+  it-service-manager: {title: IT-servicemanager}
+  incident-manager: {title: Incidentmanager}
+  problem-manager: {title: Probleemmanager}
+  change-and-release-manager: {title: Wijzigings- en releasemanager}
+  security-analyst: {title: Analist beveiligingsoperaties}
+  security-engineer: {title: Beveiligingsengineer}
+  cyber-security-manager: {title: Manager cyberbeveiliging}
+  quality-assurance-test-analyst: {title: Testanalist kwaliteitsborging}
+  test-engineer: {title: Testengineer}
+  test-manager: {title: Testmanager}
+  clinical-informatician: {title: Klinisch informaticus}
+  clinical-safety-officer: {title: Klinischeveiligheidsfunctionaris}
+  chief-clinical-information-officer: {title: Chief clinical information officer}
+  records-officer: {title: Medewerker patiëntendossiers}
+  information-governance-officer: {title: Functionaris informatiebeheer}
+  data-protection-officer: {title: Functionaris gegevensbescherming}
+  finance-officer: {title: Financieel medewerker}
+  payroll-officer: {title: Salarisadministrateur}
+  management-accountant: {title: Controller}
+  financial-accountant: {title: Financieel accountant}
+  head-of-finance: {title: Hoofd financiën}
+  legal-assistant: {title: Juridisch assistent}
+  legal-adviser: {title: Juridisch adviseur}
+  head-of-legal: {title: Hoofd juridische zaken}
+  hr-officer: {title: HR-medewerker}
+  recruitment-officer: {title: Recruiter}
+  hr-business-partner: {title: HR-businesspartner}
+  learning-and-development-specialist: {title: Specialist leren en ontwikkeling}
+  head-of-people: {title: Hoofd personeelszaken}
+  procurement-officer: {title: Inkoper}
+  category-manager: {title: Categoriemanager}
+  contract-manager: {title: Contractmanager}
+  head-of-procurement: {title: Hoofd inkoop}
+  administrator: {title: Administrateur}
+  executive-assistant: {title: Directiesecretaris}
+  project-support-officer: {title: Projectondersteuner}
+  governance-and-risk-manager: {title: Manager governance en risico}
+  communications-officer: {title: Communicatiemedewerker}

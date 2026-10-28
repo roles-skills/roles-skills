@@ -1,0 +1,28 @@
+summary: Programleverancechefer er ansvarlige for at levere komplekse digitale sundhedsservices, der kræver, at flere teams, leverandører eller organisationer arbejder sammen, eller som indebærer høj teknisk, klinisk eller offentlig risiko. De styrer afhængigheder, budgetter, kommercielle aftaler og medarbejdere på tværs af programmet og sikrer, at det leverer sine tilsigtede gevinster for patienter, klinikere og plejepersonale.
+health_context:
+- Programmer ændrer ofte, hvordan pleje leveres på tværs af flere organisationer, så programleverancechefer koordinerer ledere inden for klinik, drift og digitalt, som har forskellige prioriteter og styring.
+- Klinisk risiko skal styres på tværs af hele programmet og ikke kun inden for hvert team, så de arbejder sammen med kliniske sikkerhedsansvarlige om at bevare et overblik over farer og sikkerhedsbegrundelser på programniveau.
+- Programmer omfatter ofte store kontrakter med leverandører af kliniske systemer, så kommerciel styring og kontraktstyring er en stor del af rollen.
+- Gevinster i plejen, såsom kortere ventetider, sikrere ordination eller frigjort medarbejdertid, skal defineres, ejes af servicen og følges længe efter, at programmet er afsluttet.
+levels:
+- title: Programleverancechef
+  responsibilities:
+  - Lede leverancen af et program med flere teams, såsom indførelse af en ny digital service på tværs af et patientforløb.
+  - Planlægge og styre afhængigheder mellem teams, leverandører og partnerorganisationer i sundhed og pleje.
+  - Bevare et overblik over klinisk risiko på programniveau sammen med den kliniske sikkerhedsansvarlige og sikre, at hver release har den kvalitetssikring, den har brug for.
+  - Styre programmets budget, kontrakter og leverandørpræstation.
+  - Rapportere fremdrift, risici og gevinster til programbestyrelsen og den ansvarlige ejer.
+  - Have personaleansvar for leverancechefer og opbygge en sund leverancekultur på tværs af programmet.
+  qualifications:
+  - Omfattende erfaring med at levere komplekse digitale services eller programmer med flere teams.
+- title: Senior programleverancechef
+  responsibilities:
+  - Lede leverancen af organisationens største eller mest risikable programmer, såsom udskiftning af den centrale elektroniske patientjournal eller en fælles plejejournal for hele systemet.
+  - Koordinere leverancen på tværs af flere organisationer i et plejesystem og afstemme deres planer, styring og beslutninger om idriftsættelse.
+  - Lede den kommercielle strategi og forhandling med større leverandører og styre programbudgetter over flere år.
+  - Sikre, at klinisk sikkerhed, informationsstyring og beredskab er kvalitetssikret på programniveau før større idriftsættelser.
+  - Lede og udvikle program- og leverancechefer og fastsætte leverancestandarder på tværs af porteføljen.
+  - Rådgive ledere i direktionen om programrisiko, muligheder og genopretning.
+  qualifications:
+  - Omfattende erfaring med at lede store programmer med høj risiko på tværs af organisationer.
+  job_evaluation_notes: UK GDaD PCF har ét niveau for programleverancechef i G7 eller G6. Denne reference tilføjer et seniorniveau i lønramme 8c for de største programmer på tværs af flere organisationer med større budgetter (økonomiske ressourcer niveau 5) og mere omstridt kommunikation (niveau 6).

@@ -1,0 +1,45 @@
+summary: >
+  Datautvecklare bygger och driver de pipelines och plattformar som flyttar hälso- och vårddata från kliniska och operativa system till platser där de kan analyseras och användas tryggt. De utformar dataflöden, integrerar källor som använder olika standarder och ser till att data är korrekta, aktuella, säkra och endast tillgängliga för dem som ska se dem.
+health_context:
+  - Källsystem omfattar elektroniska patientjournaler samt laboratorie-, bild- och apotekssystem, som använder standarder såsom HL7 version 2, HL7 FHIR, SNOMED CT och ICD.
+  - Pipelines bär ofta identifierbara patientdata, så ingenjörer bygger in pseudonymisering, åtkomstkontroll och granskningsspår från början.
+  - Vissa dataflöden stöder direkt vård, såsom larm eller patientlistor, så en misslyckad eller sen pipeline kan påverka patienter och behöver klinisk säkerhetsbedömning.
+  - Data behöver ofta länkas över vårdmiljöer, vilket beror på pålitlig patientmatchning och enhetliga identifierare.
+levels:
+  - title: Datautvecklare
+    responsibilities:
+      - Bygga och underhålla datapipelines från kliniska och operativa system till dataplattformen, enligt överenskomna designer.
+      - Mappa källdata, inklusive kodade kliniska data, till målmodeller och dokumentera mappningarna.
+      - Bygga in pseudonymisering, validering och kontroller av datakvalitet i pipelines.
+      - Övervaka pipelines och åtgärda fel, och prioritera flöden som stöder direkt vård.
+      - Tillämpa åtkomstkontroller och granskningsloggning som uppfyller reglerna för informationsstyrning.
+    qualifications:
+      - En examen i datavetenskap eller ett närliggande ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av att bygga datapipelines.
+  - title: Senior datautvecklare
+    responsibilities:
+      - Utforma dataflöden och strömmande tjänster som för samman data från många hälso- och vårdsystem.
+      - Utforma processer för patientmatchning och länkning och mäta hur väl de fungerar.
+      - Leda arbete med prestanda i databaser och plattformar så att data är tillgängliga när tjänster behöver dem.
+      - Bedöma kliniska säkerhetsrisker och risker för informationsstyrning i dataflöden tillsammans med berörda specialister.
+      - Granska andra ingenjörers arbete och coacha dem.
+    qualifications:
+      - Betydande erfarenhet av att utforma och bygga datasystem, på en nivå motsvarande en masterexamen.
+  - title: Ledande datautvecklare
+    responsibilities:
+      - Leda utformningen och driften av organisationens dataplattform och dess många dataflöden.
+      - Fastställa tekniska standarder för pipelines, testning, säkerhet och dokumentation.
+      - Planera dataintegration med hälso- och vårdpartner, inklusive delade vårdjournaler och regionala datatjänster.
+      - Se till att dataflöden som stöder direkt vård är motståndskraftiga och har kliniska säkerhetsunderlag.
+      - Samordna team för datautveckling och ha linjeansvar för ingenjörer.
+    qualifications:
+      - Omfattande erfarenhet av att leda datautveckling för komplexa system.
+  - title: Chef för datautveckling
+    responsibilities:
+      - Fastställa strategin för organisationens dataplattformar och datautvecklingstjänster.
+      - Leda tvärprofessionella team som levererar datatjänster till interna team och hälso- och vårdpartner.
+      - Ge seniora ledare råd om risker, kostnader och investeringar i dataplattformar.
+      - Se till att datatjänster uppfyller krav på informationsstyrning, säkerhet och klinisk säkerhet.
+      - Bygga förmåga inom datautveckling genom rekrytering, utveckling och karriärvägar.
+    qualifications:
+      - Omfattande erfarenhet av att leda datautveckling över flera team.

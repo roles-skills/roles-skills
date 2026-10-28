@@ -1,0 +1,37 @@
+summary: Data-architecten ontwerpen hoe de organisatie haar data over gezondheid en zorg structureert, opslaat, verplaatst en bestuurt, zodat ze veilig kunnen worden gebruikt voor directe zorg, planning van diensten en onderzoek. Zij ontwerpen datamodellen, dataplatforms en datastromen, stellen datastandaarden vast en zorgen dat klinische betekenis, kwaliteit en vertrouwelijkheid van begin tot eind behouden blijven.
+health_context:
+- Gezondheidsdata moeten hun klinische betekenis behouden, dus datamodellen gebruiken klinische terminologieën zoals SNOMED CT en classificaties zoals ICD.
+- Data voor directe zorg en data voor planning of onderzoek hebben verschillende rechtsgronden, dus architecten ontwerpen voor scheiding, de-identificatie en gecontroleerde toegang.
+- Data komen uit veel klinische systemen en zorgsystemen van uiteenlopende kwaliteit, dus architecten ontwerpen voor controles van datakwaliteit, matching van patiënten en herkomst.
+- Gedeelde zorgdossiers en uitwisseling van data hangen af van gemeenschappelijke modellen zoals HL7 FHIR-resources en afgesproken nationale of internationale datasets.
+- Dossiers moeten lange bewaartermijnen worden bewaard, dus ontwerpen moeten rekening houden met archivering en toegang tot historische data.
+levels:
+- title: Data-architect
+  responsibilities:
+  - Logische en fysieke datamodellen ontwerpen voor klinische en operationele data, waar nodig met klinische terminologieën.
+  - Datastromen en onderdelen van dataplatforms ontwerpen, zoals warehouse, lakehouse en integratielagen.
+  - Metadata, items van de datawoordenlijst en herkomst voor de datasets in uw gebied definiëren.
+  - De-identificatie en toegangsbeheer ontwerpen zodat data alleen voor hun rechtmatige doel worden gebruikt.
+  - Met collega’s voor datakwaliteit en klinische codering structurele oorzaken van slechte data oplossen.
+  - Data-engineers en analisten begeleiden bij datamodellen en normen.
+  qualifications:
+  - Aanzienlijke ervaring met datamodellering en ontwerp van dataplatforms, op een niveau gelijkwaardig aan een master.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 7): vacatures in de gezondheidssector plaatsen deze rol op Band 8a. Planning, beleid en handelingsvrijheid worden hoger gescoord dan het profiel van Band 7 omdat de functie dataplatforms en beheersmaatregelen ontwerpt die over veel diensten worden gebruikt.'
+- title: Senior data-architect
+  responsibilities:
+  - De data-architectuur ontwerpen voor een groot domein, zoals het gedeelde zorgdossier of het analyseplatform.
+  - Zorgen dat dataontwerpen over teams heen de datastandaarden en modellen van de organisatie volgen.
+  - Ontwerpen hoe data met partnerorganisaties worden gedeeld, inclusief standaarden, beheersmaatregelen en overeenkomsten voor het delen van data.
+  - Collega’s van informatiebeheer en klinische veiligheid adviseren over de datarisico’s van nieuwe ontwerpen.
+  - Het werk van data-architecten beoordelen en begeleiden.
+  qualifications:
+  - Uitgebreide ervaring met data-architectuur voor complexe organisaties.
+- title: Chief data-architect
+  responsibilities:
+  - De visie en roadmap voor data-architectuur van de organisatie vaststellen, in lijn met haar datastrategie.
+  - Eigenaar zijn van het ondernemingsbrede datamodel, de datastandaarden en de datawoordenlijst van de organisatie.
+  - Het directieteam en de organen voor datagovernance adviseren over data-architectuur, risico’s en investeringen.
+  - De organisatie vertegenwoordigen in werk over datastandaarden en interoperabiliteit over organisaties heen.
+  - De praktijk van data-architectuur leiden en haar mensen ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van data-architectuur over organisaties heen.

@@ -1,0 +1,63 @@
+summary: >
+  Desainer interaksi merancang bagaimana pasien, pendamping, tenaga klinis, dan tenaga perawatan memakai layanan kesehatan digital organisasi, dari aplikasi dan formulir untuk pasien hingga layar yang dipakai tenaga klinis di sisi tempat tidur. Mereka merancang interaksi yang sederhana, dapat diakses, dan aman, mengujinya dengan pengguna nyata, dan memakai sistem desain bersama agar layanan terasa konsisten dan akrab.
+health_context:
+  - Tenaga klinis sering memakai sistem di bawah tekanan waktu, dengan gangguan dan pada perangkat bersama, sehingga desain harus mendukung kerja yang cepat dan akurat serta membuat tindakan yang aman menjadi tindakan yang mudah.
+  - Desain yang buruk dapat menyebabkan kerugian klinis, seperti memilih pasien yang salah atau salah membaca dosis, sehingga desainer menerapkan prinsip faktor manusia dan bekerja dengan petugas keselamatan klinis.
+  - Banyak pengguna sedang sakit, cemas, lanjut usia, atau penyandang disabilitas, sehingga desain harus memenuhi standar aksesibilitas dan berfungsi bagi orang dengan keterampilan digital atau literasi kesehatan yang rendah.
+  - Peringatan hanya berguna jika orang memperhatikan dan memercayainya, sehingga desainer membantu mengurangi kelelahan akibat peringatan dan menjaga informasi kritis keselamatan tetap terlihat.
+levels:
+  - title: Desainer interaksi asosiat
+    responsibilities:
+      - Mempelajari metode desain interaksi dan sistem desain tim melalui pelatihan dan kerja berpasangan.
+      - Membuat sketsa, kerangka kawat, dan prototipe sederhana di bawah pengawasan.
+      - Membantu menguji desain dengan pengguna dan mencatat apa yang berhasil dan tidak.
+      - Mengikuti standar aksesibilitas dan pola sistem desain, termasuk untuk identitas pasien dan peringatan keselamatan.
+    qualifications:
+      - Sedang menempuh kualifikasi atau magang di bidang desain atau bidang terkait, atau pengalaman yang setara.
+  - title: Desainer interaksi junior
+    responsibilities:
+      - Merancang dan membuat prototipe bagian layanan, seperti formulir, alur, dan layar, dengan arahan desainer yang lebih senior.
+      - Menguji desain dengan pasien, pendamping, dan staf, dan mengubahnya berdasarkan apa yang dipelajari.
+      - Merancang interaksi yang dapat diakses dan berfungsi dengan teknologi bantu.
+      - Menjelaskan keputusan desain kepada tim, termasuk bagaimana keputusan itu mengurangi kemungkinan kesalahan.
+    qualifications:
+      - Gelar di bidang desain atau bidang terkait, atau pengalaman yang setara.
+  - title: Desainer interaksi
+    responsibilities:
+      - Merancang interaksi untuk produk kesehatan digital, dari konsep awal hingga desain rinci yang teruji.
+      - Merancang untuk alur kerja klinis, menguji dengan tenaga klinis dan tenaga perawatan dalam skenario realistis, termasuk gangguan.
+      - Menyampaikan bahaya terkait desain kepada petugas keselamatan klinis dan mencatat bagaimana desain mengendalikannya.
+      - Memakai dan menyumbang pada sistem desain, termasuk pola untuk informasi kritis keselamatan.
+      - Bekerja erat dengan pengembang agar desain dibangun sebagaimana dimaksud dan tetap dapat diakses.
+    qualifications:
+      - Gelar di bidang desain atau bidang terkait, atau pengalaman yang setara.
+      - Pengalaman merancang layanan digital bersama pengguna.
+    job_evaluation_notes: UK GDaD PCF menempatkan desainer interaksi di SEO atau G7, dengan Pita 7 yang disarankan, sama dengan desainer interaksi senior. Acuan ini menempatkannya di Pita 6, sama dengan tingkat desainer layanan dengan tingkat keterampilan PCF yang identik, sehingga kedua tingkat desainer interaksi tidak berada di pita yang sama.
+  - title: Desainer interaksi senior
+    responsibilities:
+      - Memimpin desain interaksi untuk layanan kompleks, seperti sistem klinis yang dipakai di banyak lingkungan perawatan.
+      - Menerapkan metode faktor manusia, seperti analisis tugas, pada alur kerja klinis yang kritis keselamatan.
+      - Menyediakan bukti desain untuk kasus keselamatan klinis dan, jika perangkat lunak diatur, untuk berkas kegunaan.
+      - Membantu menetapkan arah dan praktik baik desain di tim, dan membimbing desainer lain.
+      - Mengambil keputusan desain dari riset dan data, dan menjelaskannya kepada pimpinan klinis dan produk.
+    qualifications:
+      - Pengalaman yang substansial dalam desain interaksi, pada tingkat yang setara dengan gelar magister.
+  - title: Desainer interaksi pimpinan
+    responsibilities:
+      - Menetapkan arah desain dan menjamin mutu desain interaksi di beberapa tim atau layanan.
+      - Memimpin sistem desain, termasuk pola yang dapat diakses dan kritis keselamatan yang dipakai ulang tim di seluruh organisasi.
+      - Memimpin pekerjaan faktor manusia pada layanan klinis berisiko tertinggi, bersama petugas keselamatan klinis.
+      - Bekerja dengan pimpinan produk dan klinis senior untuk mengembangkan konsep desain untuk layanan besar.
+      - Mengelola secara langsung dan mengembangkan desainer interaksi.
+    qualifications:
+      - Pengalaman luas dalam memimpin desain interaksi lintas tim.
+    job_evaluation_notes: Tidak ada tingkat Pita 8a, karena UK GDaD PCF menempatkan desainer interaksi pimpinan di G7 atau G6 dan acuan ini mengikuti Pita 8b yang disarankan. Kebijakan berada di tingkat 5 karena desainer pimpinan menetapkan standar desain untuk berbagai layanan.
+  - title: Kepala desain interaksi
+    responsibilities:
+      - Memimpin profesi desain interaksi dan menetapkan strategi, standar, dan cara kerjanya.
+      - Memengaruhi desain dan strategi organisasi agar layanan mudah dipakai, dapat diakses, dan aman.
+      - Memiliki sistem desain organisasi dan memastikannya memenuhi kebutuhan aksesibilitas dan keselamatan klinis.
+      - Membangun kapabilitas desain, termasuk rekrutmen, jalur karier, dan pelatihan.
+      - Bekerja dengan sejawat di seluruh sistem kesehatan dan perawatan pada pola desain bersama.
+    qualifications:
+      - Pengalaman luas dalam memimpin desain dan praktik desain.

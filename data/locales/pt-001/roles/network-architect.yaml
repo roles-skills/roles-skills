@@ -1,0 +1,39 @@
+summary: Os profissionais de arquitetura de redes projetam as redes locais, de longa distância, sem fio e em nuvem que conectam os locais, as equipes, os sistemas clínicos e os dispositivos médicos da organização. Garantem que as redes sejam rápidas, resilientes e seguras o bastante para um cuidado que nunca para e planejam como as redes mudam à medida que os serviços migram para a nuvem e se conectam a organizações parceiras.
+health_context:
+- Os sistemas clínicos, a telefonia e os dispositivos médicos dependem da rede, por isso uma queda pode interromper o cuidado; os projetos precisam de resiliência e de failover testado.
+- As redes costumam transportar dispositivos médicos conectados que são difíceis de corrigir, por isso as pessoas arquitetas projetam segmentação e monitoramento para protegê-los.
+- As equipes trabalham em hospitais, clínicas, serviços na comunidade e nas casas dos pacientes, por isso os projetos devem apoiar o acesso móvel e remoto seguro.
+- As redes se conectam a redes compartilhadas de saúde e de cuidados e a organizações parceiras, que definem seus próprios requisitos de conexão e de segurança.
+- Mudanças em áreas clínicas exigem planejamento cuidadoso em torno do cuidado dos pacientes, por exemplo programando o trabalho fora de períodos movimentados.
+levels:
+- title: Profissional de arquitetura de redes associado
+  responsibilities:
+  - Redigir projetos de rede, diagramas e especificações com a orientação de profissionais de arquitetura de redes.
+  - Fazer o levantamento dos locais e reunir requisitos de áreas clínicas, incluindo cobertura sem fio e conexões de dispositivos.
+  - Manter atualizados os registros de topologia de rede, endereçamento e dispositivos conectados.
+  - Conferir se os projetos atendem aos níveis de serviço e aos padrões de segurança antes da revisão.
+  qualifications:
+  - Graduação em computação ou redes, uma qualificação reconhecida em redes ou experiência equivalente.
+  - Conhecimento especializado em projeto de redes, em nível de pós-graduação lato sensu ou experiência equivalente.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 5); anúncios do setor de saúde situam esta função na Faixa 6. Os conhecimentos são pontuados em nível de pós-graduação lato sensu, e os recursos de informação no nível 5, porque a função projeta partes da rede de que dependem grandes sistemas de informação."
+- title: Profissional de arquitetura de redes
+  responsibilities:
+  - Projetar soluções de rede locais, de longa distância, sem fio e em nuvem para locais e serviços.
+  - Projetar a segmentação de rede para dispositivos médicos, sistemas clínicos e acesso de visitantes.
+  - Planejar mudanças de rede em áreas clínicas com as lideranças dos serviços para que o cuidado não seja interrompido.
+  - Acordar níveis de serviço com fornecedores e requisitos de conexão com redes parceiras.
+  - Avaliar novas tecnologias de rede e sua adequação aos padrões de segurança da organização.
+  qualifications:
+  - Conhecimento especializado em arquitetura de redes, em nível de mestrado ou experiência equivalente.
+  - Experiência no projeto e no suporte de redes corporativas.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 6); anúncios do setor de saúde situam esta função na Faixa 7. Os conhecimentos são pontuados em nível de mestrado ou equivalente, por conhecimento especializado em redes locais, de longa distância, sem fio e em nuvem."
+- title: Profissional de arquitetura de redes líder
+  responsibilities:
+  - Ser responsável pela arquitetura de rede da organização, incluindo seus locais, data centers e conexões em nuvem.
+  - Definir padrões de projeto de rede e dar garantia aos projetos na instância de decisão de projeto.
+  - Projetar a resiliência e a recuperação da rede para serviços clínicos críticos e garantir que sejam testadas.
+  - Aconselhar sobre investimentos em rede, contratos com fornecedores e os riscos de rede de novos serviços.
+  - Atuar como ponto especializado de escalonamento e orientar outros profissionais de arquitetura e engenharia de redes.
+  qualifications:
+  - Experiência substancial em arquitetura de redes para organizações complexas, em nível equivalente ao de mestrado.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 7); anúncios do setor de saúde situam esta função na Faixa 8a. Os recursos de informação estão no nível 6, porque a função é responsável pela arquitetura de rede de que dependem todos os sistemas de informação da organização."

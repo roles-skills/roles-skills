@@ -1,0 +1,71 @@
+summary: >
+  Analis meja layanan adalah titik kontak pertama bagi staf yang membutuhkan bantuan dengan layanan digital organisasi, dari masalah masuk dan kartu pintar hingga gangguan pada sistem klinis dan perangkat. Mereka mencatat, memilah, menyelesaikan, atau mengeskalasikan insiden dan permintaan, menjaga pengguna tetap terinformasi, dan menemukan pola yang menunjuk pada masalah yang lebih luas. Di banyak organisasi layanan kesehatan, meja layanan beroperasi sepanjang waktu, karena layanan klinis juga demikian.
+health_context:
+  - Penelepon sering adalah tenaga klinis dan tenaga perawatan yang sedang merawat pasien, sehingga meja layanan memprioritaskan menurut dampaknya pada pasien, bukan hanya menurut urutan kedatangan.
+  - Banyak layanan klinis berjalan 24 jam sehari, setiap hari, sehingga meja layanan sering bekerja dengan giliran dan jadwal di luar jam kerja.
+  - Akses ke sistem klinis memakai akses berbasis peran dan autentikasi yang kuat, sehingga meja layanan menangani masalah akun, kartu pintar, dan autentikasi multifaktor sambil memeriksa identitas dengan cermat.
+  - Penelepon dapat membagikan informasi pasien yang rahasia saat menjelaskan gangguan, sehingga analis mengikuti aturan tata kelola informasi tentang apa yang dicatat dalam tiket.
+  - Meja layanan sering menjadi yang pertama melihat tanda insiden besar atau serangan siber, seperti banyak panggilan tentang sistem yang sama atau gelombang surel mencurigakan, dan harus segera mengeskalasikannya.
+levels:
+  - title: Analis meja layanan
+    summary: Analis meja layanan menjawab panggilan dan tiket dari staf, menyelesaikan masalah umum pada kontak pertama memakai skrip dan artikel pengetahuan, dan meneruskan masalah lain kepada tim yang tepat.
+    responsibilities:
+      - Menjawab panggilan, obrolan, dan tiket layanan mandiri dari staf, dan mencatat masing-masing secara akurat dalam perangkat manajemen layanan.
+      - Menyelesaikan masalah umum pada kontak pertama memakai skrip dan artikel pengetahuan, seperti pengaturan ulang kata sandi, pembukaan akun, dan gangguan pencetak.
+      - Memeriksa identitas penelepon sebelum mengubah akun atau akses, mengikuti prosedur organisasi.
+      - Menanyakan bagaimana masalah memengaruhi perawatan pasien, menetapkan prioritas, dan meneruskan insiden kepada tim penyelesai yang tepat.
+      - Menjaga pengguna tetap terinformasi tentang tiket mereka dan memastikan perbaikan berhasil sebelum menutupnya.
+      - Mencatat hanya informasi yang diperlukan dalam tiket, tanpa rincian pasien yang tidak perlu.
+    qualifications:
+      - Kualifikasi tingkat 3 di bidang TI, magang dukungan TI, atau pengalaman yang setara.
+      - Layanan pelanggan dan keterampilan papan ketik yang baik, yang diperoleh melalui pekerjaan atau studi.
+    job_evaluation_notes: UK GDaD PCF menyarankan Pita 4 untuk tingkat ini. Acuan ini memulai pekerjaan meja layanan lini pertama yang berskrip di Pita 3, dan menempatkan analis yang menyelesaikan gangguan lebih kompleks di Pita 4. Upaya mental mencerminkan konsentrasi yang sering pada panggilan yang tidak dapat diprediksi; upaya emosional mencerminkan seringnya panggilan dari staf yang berada di bawah tekanan di area klinis.
+  - title: Analis meja layanan teknis
+    summary: Analis meja layanan teknis menyelesaikan gangguan yang lebih kompleks pada kontak pertama, termasuk perbaikan jarak jauh pada perangkat dan akses ke sistem klinis, dan menangani panggilan mendesak dari area klinis.
+    responsibilities:
+      - Menyelesaikan insiden dan permintaan yang lebih kompleks dari jarak jauh, termasuk gangguan perangkat, perangkat lunak, dan akses sistem klinis.
+      - Menangani panggilan mendesak dari area klinis, seperti instalasi gawat darurat, bangsal, dan kamar operasi, dan memulai proses insiden besar bila perlu.
+      - Memproses permintaan akses ke sistem klinis, memeriksanya terhadap aturan akses berbasis peran.
+      - Menulis dan memperbaiki artikel pengetahuan agar lebih banyak masalah dapat diselesaikan pada kontak pertama.
+      - Menemukan panggilan berulang tentang gangguan yang sama dan menyampaikannya kepada manajemen insiden dan masalah.
+      - Melaporkan dugaan surel phishing dan kejadian keamanan lain kepada tim keamanan.
+      - Menunjukkan kepada analis baru cara memakai perangkat dan prosedur meja layanan.
+    qualifications:
+      - Pengalaman dukungan TI di meja layanan atau lingkungan serupa.
+      - Kualifikasi dasar manajemen layanan TI, atau pengalaman yang setara.
+    job_evaluation_notes: Memakai tingkat UK GDaD PCF yang sama dengan analis Pita 3, untuk analis yang menyelesaikan masalah lebih kompleks dan menangani panggilan klinis mendesak. Komunikasi lebih tinggi daripada profil pita karena analis sering harus menjelaskan masalah teknis kepada staf klinis yang sibuk.
+  - title: Analis meja layanan senior
+    responsibilities:
+      - Memimpin satu giliran di meja layanan, menyeimbangkan antrean panggilan dengan urgensi klinis insiden yang terbuka.
+      - Mengambil alih panggilan yang sulit atau dieskalasi, termasuk panggilan dari tenaga klinis senior selama perawatan darurat.
+      - Menjaga skrip dan artikel pengetahuan tetap akurat seiring sistem klinis dan perangkat berubah.
+      - Bertindak sebagai titik eskalasi di luar jam kerja untuk meja layanan, dan memulai proses insiden besar ketika banyak pengguna terdampak.
+      - Memeriksa mutu tiket, termasuk pemeriksaan identitas dan apa yang dicatat tentang pasien.
+      - Merencanakan cakupan jadwal agar meja layanan selalu dijaga.
+    qualifications:
+      - Pengalaman meja layanan yang substansial, termasuk menangani eskalasi.
+      - Kualifikasi manajemen layanan TI, atau pengalaman yang setara.
+    job_evaluation_notes: Perencanaan mencerminkan perencanaan giliran dan jadwal untuk meja layanan 24 jam. Upaya emosional mencerminkan seringnya panggilan sulit dari staf yang menangani perawatan pasien yang mendesak.
+  - title: Manajer meja layanan
+    responsibilities:
+      - Menjalankan meja layanan sehari-hari, memastikan dijaga dan responsif 24 jam sehari, setiap hari.
+      - Menetapkan prioritas dan target respons yang mencerminkan risiko klinis, disepakati dengan pimpinan klinis dan operasional.
+      - Menyiapkan meja layanan untuk sistem klinis baru dan yang berubah, termasuk pelatihan, skrip, dan tambahan cakupan saat peluncuran.
+      - Menganalisis tren tiket untuk menemukan masalah yang muncul, dan bekerja dengan manajemen masalah untuk menghilangkan penyebabnya.
+      - Memastikan meja layanan mengikuti prosedur pemeriksaan identitas, tata kelola informasi, dan keamanan, serta menindaklanjuti temuan audit.
+      - Mengelola secara langsung analis senior dan analis, termasuk rekrutmen, kinerja, dan kesejahteraan staf yang bekerja bergiliran.
+    qualifications:
+      - Pengalaman memimpin tim meja layanan, termasuk cakupan giliran atau di luar jam kerja.
+      - Kualifikasi menengah manajemen layanan TI, atau pengalaman yang setara.
+    job_evaluation_notes: Pengetahuan satu tingkat di bawah profil pita, seperti lazimnya untuk peran meja layanan; tanggung jawab atas orang lebih tinggi karena manajer menjalankan tim yang bekerja bergiliran.
+  - title: Kepala meja layanan
+    responsibilities:
+      - Menetapkan arah meja layanan, termasuk saluran kontak, layanan mandiri, dan dukungan bagi staf yang bekerja di berbagai lokasi dan di komunitas.
+      - Menyepakati tingkat layanan dengan layanan klinis dan korporat, dan melaporkan kinerja kepada pimpinan senior.
+      - Memastikan meja layanan dapat terus bekerja selama insiden besar, serangan siber, dan henti sistem, dengan prosedur kesinambungan bisnis yang jelas.
+      - Menasihati tim proyek tentang bagaimana sistem klinis dan korporat baru akan didukung sebelum diluncurkan.
+      - Mengelola anggaran meja layanan, perangkat, dan kontrak dukungan alih daya atau di luar jam kerja.
+      - Memimpin dan mengembangkan manajer meja layanan, dan membangun budaya yang suportif bagi staf yang bekerja bergiliran.
+    qualifications:
+      - Pengalaman luas dalam mengelola layanan dukungan TI, termasuk layanan 24 jam.
+      - Kualifikasi lanjutan manajemen layanan TI, atau pengalaman yang setara.

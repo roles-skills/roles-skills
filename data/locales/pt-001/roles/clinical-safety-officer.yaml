@@ -1,0 +1,46 @@
+summary: Os responsáveis pela segurança clínica são clínicos registrados que garantem que os sistemas de TI em saúde que a organização constrói, adquire e implanta sejam seguros para os pacientes. Conduzem o processo de gestão de riscos clínicos, lideram a identificação de perigos, são responsáveis pelos registros de perigos e escrevem e aprovam os relatórios dos dossiês de segurança clínica, usando normas de gestão de riscos clínicos como a ISO 14971 e a IEC 80001-1.
+health_context:
+- A função deve ser exercida por um clínico registrado, para que os julgamentos de segurança se apoiem em conhecimento clínico atual e em responsabilização profissional.
+- A TI em saúde pode prejudicar pacientes por informações erradas, ausentes, atrasadas ou enganosas, por isso a função avalia riscos que muitas vezes estão escondidos nos dados e nos fluxos de trabalho.
+- O trabalho de segurança clínica acompanha toda a vida de um sistema, do projeto e da contratação à implantação, à mudança e à desativação.
+- Alguns produtos também são regulamentados como dispositivos médicos, por isso a função trabalha com colegas regulatórios e de qualidade onde os dossiês de segurança e os arquivos do dispositivo se sobrepõem.
+- Incidentes de segurança envolvendo TI em saúde podem causar danos graves, por isso a função investiga os incidentes e garante que as lições sejam aprendidas.
+levels:
+- title: Responsável pela segurança clínica
+  summary: Conduz o processo de gestão de riscos clínicos de um conjunto de produtos ou mudanças, liderando oficinas de perigos, mantendo registros de perigos e escrevendo relatórios de dossiê de segurança clínica para aprovação.
+  responsibilities:
+  - Liderar oficinas de identificação de perigos com equipes de produto, clínicos e fornecedores.
+  - Avaliar riscos clínicos e acordar controles e depois verificar, por testes e evidências, se os controles funcionam.
+  - Escrever e manter registros de perigos e relatórios de dossiê de segurança clínica de produtos e mudanças.
+  - Revisar a documentação de segurança dos fornecedores dos sistemas que a organização adquire.
+  - Investigar incidentes de segurança envolvendo TI em saúde e recomendar melhorias.
+  - Aconselhar as equipes digitais sobre o processo de gestão de riscos clínicos e a segurança desde o projeto.
+  qualifications:
+  - Registro vigente em um órgão profissional clínico, com experiência clínica substancial.
+  - Formação em gestão de riscos clínicos para TI em saúde, ou experiência equivalente.
+  job_evaluation_notes: O cuidado de pacientes é pontuado no nível 5 porque a função dá pareceres especializados sobre a segurança de sistemas usados no cuidado dos pacientes. O esforço mental reflete a concentração prolongada em documentação e evidências de segurança.
+- title: Responsável sênior pela segurança clínica
+  summary: Lidera a segurança clínica de um grande programa ou de um portfólio de sistemas de alto risco, aprovando dossiês de segurança e orientando outros responsáveis pela segurança clínica.
+  responsibilities:
+  - Liderar a gestão de riscos clínicos de sistemas de alto risco, como prontuários eletrônicos, prescrição e apoio à decisão.
+  - Aprovar registros de perigos e relatórios de dossiê de segurança clínica dentro da autoridade delegada.
+  - Aconselhar os comitês de programa sobre o risco clínico e se um sistema é seguro para entrar em operação.
+  - Liderar investigações de incidentes de segurança graves envolvendo TI em saúde.
+  - Orientar e conferir a qualidade do trabalho de responsáveis pela segurança clínica e de clínicos treinados em segurança.
+  - Ajudar a melhorar o sistema de gestão de riscos clínicos e os modelos da organização.
+  qualifications:
+  - Registro vigente em um órgão profissional clínico, com ampla experiência clínica.
+  - Experiência substancial em gestão de riscos clínicos para TI em saúde.
+- title: Chefia de segurança clínica
+  summary: É responsável pelo sistema de gestão de riscos clínicos da organização para TI em saúde, lidera a equipe de segurança clínica e dá ao conselho de administração a garantia de que seus serviços digitais são clinicamente seguros.
+  responsibilities:
+  - Ser responsável pelo sistema, pela política e pelos processos de gestão de riscos clínicos de toda a TI em saúde.
+  - Liderar e desenvolver a equipe de segurança clínica e a rede mais ampla de clínicos treinados em segurança.
+  - Dar garantia aos dossiês de segurança dos grandes sistemas e fazer a recomendação final de segurança clínica sobre a implantação.
+  - Liderar a resposta a incidentes de segurança graves envolvendo TI em saúde, inclusive com parceiros e fornecedores.
+  - Reportar ao conselho de administração e a seus comitês os riscos e a garantia de segurança clínica.
+  - Construir uma cultura de segurança clínica entre as equipes digitais, clínicas e de fornecedores.
+  qualifications:
+  - Registro vigente em um órgão profissional clínico, com ampla experiência clínica e de liderança.
+  - Ampla experiência na liderança da gestão de riscos clínicos para TI em saúde em uma organização.
+  job_evaluation_notes: O cuidado de pacientes é pontuado no nível 6 porque a função responde pela segurança clínica da TI em saúde da organização. O esforço emocional reflete a revisão regular de incidentes com dano a pacientes.

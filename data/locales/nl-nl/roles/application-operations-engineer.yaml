@@ -1,0 +1,60 @@
+summary: Engineers applicatiebeheer houden de applicaties van de organisatie draaiend in live gebruik, waaronder klinische systemen zoals het elektronisch patiëntendossier en systemen voor voorschrijven, laboratorium en beeldvorming. Zij monitoren applicaties, draaien geplande taken, beheren gebruikers en toegang, implementeren releases en herstellingen en werken met leveranciers aan het oplossen van storingen. Dankzij hun werk kunnen klinisch en bedrijfspersoneel op elk uur van de dag op deze systemen vertrouwen.
+health_context:
+- Klinische applicaties draaien 24 uur per dag, dus engineers nemen deel aan bereikbaarheidsroosters en plannen onderhoud in de rustigste klinische periodes.
+- Mislukte geplande taken en interfaces kunnen testuitslagen, verwijzingen of ontslagbrieven vertragen, dus engineers houden ze nauwlettend in de gaten en escaleren snel.
+- Geplande en ongeplande uitval vraagt regelingen voor bedrijfscontinuïteit, zoals kopieën om te raadplegen en rapporten voor uitvalsituaties, zodat clinici patiënten kunnen blijven behandelen.
+- Veel klinische applicaties worden door derden geleverd en gehost, dus engineers beheren leveranciers en hun wijzigingen zorgvuldig.
+- Wijzigingen in klinische applicaties volgen het proces voor klinisch risicobeheer, en sommige applicaties kunnen als medisch hulpmiddel gereguleerd zijn.
+levels:
+- title: Associate engineer applicatiebeheer
+  responsibilities:
+  - Applicaties, interfaces en geplande taken monitoren en storingen melden aan ervaren engineers.
+  - Gebruikersaccounts en toegang in applicaties aanmaken en wijzigen volgens de regels voor rolgebaseerde toegang.
+  - Routinecontroles en onderhoudstaken uitvoeren aan de hand van runbooks.
+  - Incidenten en wijzigingen nauwkeurig vastleggen in het instrument voor servicemanagement.
+  - Werken aan een leerwerktraject in IT of een gelijkwaardige kwalificatie.
+  qualifications:
+  - Ingeschreven voor, of werkend aan, een leerwerktraject in IT of gelijkwaardig.
+  job_evaluation_notes: Kennis wordt gescoord op het niveau dat de functie vraagt zodra de training ver genoeg is gevorderd om het werk te doen.
+- title: Engineer applicatiebeheer
+  responsibilities:
+  - Klinische en bedrijfsapplicaties en hun interfaces monitoren en handelen op waarschuwingen en mislukte taken voordat ze de zorg voor patiënten raken.
+  - Geplande taken, zoals nachtelijke dataladingen en wachtrijen van interfaces, draaien en controleren en storingen oplossen of escaleren.
+  - Applicatiegebruikers, rollen en toegang beheren, inclusief toegang intrekken voor vertrekkers en beoordelingen van toegang ondersteunen.
+  - Rapporten voor uitvalsituaties en andere uitvoer voor bedrijfscontinuïteit voor klinische applicaties maken en testen.
+  - Storingen melden bij leveranciers en tot oplossing volgen.
+  - Met begeleiding deelnemen aan het bereikbaarheidsrooster voor storingen in applicaties buiten kantooruren.
+  qualifications:
+  - Een kwalificatie in IT, een voltooid leerwerktraject of gelijkwaardige ervaring.
+  - Ervaring met het ondersteunen van bedrijfs- of klinische applicaties.
+- title: Senior engineer applicatiebeheer
+  responsibilities:
+  - Releases, patches en wijzigingen van configuratie naar live applicaties uitrollen volgens de procedures voor wijzigingen en klinische veiligheid.
+  - Het technische werk coördineren om nieuwe applicaties en grote upgrades live te brengen, inclusief plannen voor overgang en terugdraaien.
+  - Complexe storingen in applicaties onderzoeken met leveranciers, infrastructuurteams en specialisten in klinische systemen.
+  - Onderhoudsvensters plannen met klinische diensten en zorgen dat procedures voor uitval gereed zijn.
+  - Bewijs leveren voor klinische veiligheidsdossiers, zoals test- en implementatieregistraties.
+  - Optreden als escalatiepunt in het bereikbaarheidsrooster voor storingen buiten kantooruren.
+  qualifications:
+  - Aanzienlijke ervaring met het ondersteunen van live applicaties, op een niveau gelijkwaardig aan een bachelor.
+  job_evaluation_notes: Geestelijke inspanning weerspiegelt regelmatig langdurige concentratie tijdens go-lives, implementaties en incidenten buiten kantooruren.
+- title: Lead engineer applicatiebeheer
+  responsibilities:
+  - De operationele aanpak vaststellen voor een groep applicaties, inclusief monitoring, veerkracht en ondersteuningsregelingen.
+  - Normen vaststellen voor gebruikers- en beveiligingsbeheer in klinische applicaties, samen met het beveiligingsteam.
+  - Rapporteren over prestaties en beschikbaarheid van applicaties aan leiders van IT-beheer en de noodzakelijke wijzigingen afspreken.
+  - De technische reactie op grote incidenten die klinische applicaties raken leiden.
+  - Zorgen dat regelingen voor bedrijfscontinuïteit en herstel na rampen voor klinische applicaties worden getest.
+  - Engineers applicatiebeheer leiden en ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met het draaien van live applicaties, waaronder klinische of andere kritieke systemen.
+- title: Principal engineer applicatiebeheer
+  responsibilities:
+  - Eigenaar zijn van de strategie voor applicatiebeheer voor de klinische applicaties en bedrijfsapplicaties van de organisatie.
+  - Strategische leveranciers van klinische applicaties beheren, inclusief serviceniveaus, prestaties onder het contract en wijzigingen van de leverancier.
+  - Senior leiders adviseren over risico’s van applicaties, zoals niet-ondersteunde software, enkelvoudige storingspunten en weerbaarheid tegen ransomware.
+  - Zorgen dat de organisatie patiënten veilig kan blijven verzorgen tijdens langdurige uitval van applicaties.
+  - Leiding geven aan bezetting, leren en ontwikkeling voor teams voor applicatiebeheer.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van applicatiebeheer voor een grote organisatie.
+  job_evaluation_notes: Het UK GDaD PCF stelt voor dit niveau Band 8c voor (G6). Deze referentie plaatst het op Band 8b, in lijn met principal-rollen in andere technische families, omdat de reikwijdte één technisch gebied is en geen directoraat.

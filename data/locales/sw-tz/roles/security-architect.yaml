@@ -1,0 +1,38 @@
+summary: Wasanifu wa usalama husanifu usalama wa huduma za afya za kidijitali za taasisi, ili taarifa za wagonjwa zibaki za siri, sahihi na zinapatikana matunzo yanapozihitaji. Huweka mifumo na udhibiti wa usalama, hutathmini hatari za usalama za miundo mipya na wasambazaji, na kuzisaidia timu kufanya maamuzi yanayotegemea hatari yanayoweka huduma salama na zinazoweza kutumika kwa madaktari na wagonjwa.
+health_context:
+- Taasisi za afya ni walengwa wa mara kwa mara wa programu za kutaka fidia na wizi wa data, na shambulio linaweza kusimamisha huduma za kitabibu, hivyo upatikanaji ni muhimu kama usiri.
+- Udhibiti wa usalama haupaswi kuzuia matunzo ya dharura, hivyo miundo husawazisha uthibitishaji imara na ufikiaji wa haraka katika mazingira ya kitabibu.
+- Vifaa tiba vilivyounganishwa na mifumo ya zamani ya kitabibu mara nyingi haviwezi kuwekewa marekebisho haraka, hivyo wasanifu husanifu udhibiti mbadala kama ugawaji.
+- Wafanyakazi wengi, taasisi washirika na wasambazaji wanahitaji ufikiaji wa kumbukumbu za wagonjwa, hivyo utambulisho, ufikiaji unaotegemea nafasi na ukaguzi ni kiini.
+- Miundo ya usalama lazima iunge mkono wajibu wa usimamizi wa taarifa na viwango vilivyochapishwa vya usalama, kama vile ISO/IEC 27001.
+levels:
+- title: Msanifu wa usalama
+  responsibilities:
+  - Kubuni udhibiti wa usalama kwa huduma na mifumo, ikiwemo utambulisho, usimbaji fiche, uandishi wa kumbukumbu na ulinzi wa mtandao.
+  - Kutathmini usalama wa miundo mipya na bidhaa za wasambazaji, na kurekodi hatari na udhibiti unaopendekezwa.
+  - Kuendeleza mifumo ya usalama ambayo timu za utoaji zinaweza kuitumia tena, kama vile kwa kuingia kwa wagonjwa na kuingia mara moja kwa wafanyakazi.
+  - Kushauri kuhusu udhibiti mbadala kwa vifaa tiba na mifumo ya zamani ya kitabibu isiyoweza kusasishwa kwa urahisi.
+  - Kufanya kazi na wenzake wa usimamizi wa taarifa na usalama wa kitabibu ili hatari za usalama, faragha na usalama wa mgonjwa zitathminiwe pamoja.
+  - Kuwaongoza wahandisi wa usalama na wasanifu wengine katika usanifu salama.
+  qualifications:
+  - Uzoefu mkubwa wa usanifu wa usalama au uhandisi wa usalama, katika kiwango kinacholingana na shahada ya uzamili.
+  - Sifa ya usalama inayotambuliwa au uzoefu unaolingana.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 6): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 8a. Uchambuzi na uhuru wa kutenda vimepewa alama za juu zaidi ya wasifu wa Daraja la 7 kwa sababu kazi inasanifu usalama wa mifumo muhimu ya kitabibu kwa usimamizi mdogo."
+- title: Msanifu kiongozi wa usalama
+  responsibilities:
+  - Kuongoza usanifu wa usalama kwa miradi kadhaa yenye hatari kubwa au eneo kuu, kama vile mifumo ya kitabibu au uhifadhi wa wingu.
+  - Kuweka kanuni na viwango vya usalama kwa miundo katika eneo lake na kuvihakikisha katika mamlaka za usanifu.
+  - Kuwashauri wamiliki wakuu wa hatari kuhusu hatari za usalama na chaguzi za kuzisimamia.
+  - Kubuni usalama kwa data zinazoshirikishwa na taasisi washirika na wasambazaji.
+  - Kuongoza na kuendeleza wasanifu wa usalama.
+  qualifications:
+  - Uzoefu mpana wa usanifu wa usalama kwa huduma tata.
+- title: Msanifu mkuu wa usalama
+  responsibilities:
+  - Kuweka maono, kanuni na mkakati wa usanifu wa usalama wa taasisi.
+  - Kuishauri timu ya watendaji na bodi kuhusu hatari ya usalama wa mtandao kwa matunzo ya wagonjwa na huduma.
+  - Kuhakikisha ustahimilivu wa mtandao, ikiwemo urejeshaji baada ya shambulio kubwa, umebuniwa ndani ya huduma muhimu za kitabibu.
+  - Kuiwakilisha taasisi katika jumuiya za usalama wa mtandao na viwango za taasisi mbalimbali.
+  - Kuongoza mazoezi ya usanifu wa usalama na kuendeleza watu wake.
+  qualifications:
+  - Uzoefu mpana wa kuongoza usanifu wa usalama katika taasisi mbalimbali.

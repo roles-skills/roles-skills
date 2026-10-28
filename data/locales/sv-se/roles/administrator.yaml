@@ -1,0 +1,41 @@
+summary: >
+  Administratörer håller team och tjänster igång genom att hantera organisationens dagliga administration: korrespondens, kalendrar, möten, journaler, datainmatning, beställningar och förfrågningar. I en digital hälso- och sjukvårdsorganisation stödjer de digitala, kliniska och verksamhetsteam och hanterar ofta konfidentiell information om patienter och personal.
+health_context:
+  - Administratörer ser ofta konfidentiell patientinformation och personalinformation, så de följer reglerna för informationsstyrning noga.
+  - Förfrågningar kan komma från patienter, vårdpersonal och allmänheten, och en del som ringer kan vara oroliga eller upprörda.
+  - Korrekta register och datainmatning är viktiga, eftersom fel kan flöda in i kliniska system, rapporter och betalningar.
+  - Många administrativa processer flyttar till digitala verktyg, så administratörer hjälper till att testa och ta i bruk nya arbetssätt.
+levels:
+  - title: Administrativ assistent
+    summary: Utför rutinmässiga administrativa uppgifter för ett team enligt fastställda rutiner, med handledning i närheten.
+    responsibilities:
+      - Besvara samtal och mejl, ta emot korrekta meddelanden och föra förfrågningar vidare till rätt person.
+      - Föra in och uppdatera data korrekt i teamets system.
+      - Arkivera och skanna dokument och hålla delade mappar i ordning.
+      - Boka möten och lokaler och skicka ut underlag.
+      - Beställa pappersvaror och förnödenheter enligt fastställda rutiner.
+    qualifications:
+      - God läs- och skrivförmåga, räknefärdighet och tangentbordskunskaper.
+    job_evaluation_notes: Fysiska färdigheter poängsätts på nivå 3 för avancerade tangentbordskunskaper, med snabbhet och noggrannhet vid skrivning och datainmatning.
+  - title: Administratör
+    summary: Ger ett team eller en tjänst en fullständig administrativ tjänst, hanterar en rad uppgifter, vissa icke-rutinmässiga, och organiserar sin egen arbetsbelastning.
+    responsibilities:
+      - Förvalta kalendrar och ordna möten, evenemang och resor för ett team.
+      - Föra protokoll och åtgärdsanteckningar vid teamets möten och följa upp åtgärder.
+      - Hantera rutinmässig korrespondens och förfrågningar och utkasta svar där det behövs.
+      - Underhålla register, uppföljningsverktyg och databaser och ta fram enkla rapporter.
+      - Hantera beställningar, fakturor och utlägg inom fastställda gränser.
+      - Visa ny personal teamets administrativa rutiner.
+    qualifications:
+      - En kvalifikation på nivå 3 inom administration, eller motsvarande erfarenhet.
+  - title: Senior administratör
+    summary: Leder administrationen för en tjänst eller direktörsenhet, leder andra administratörer och förbättrar administrativa processer.
+    responsibilities:
+      - Samordna den administrativa tjänsten för en direktörsenhet och fördela arbete till administratörer.
+      - Föra formella protokoll vid ledningsmöten och programmöten.
+      - Skriva och förbättra administrativa rutiner och mallar.
+      - Ta fram rapporter ur uppföljningsverktyg och system åt chefer.
+      - Följa upp utgifter i administrativa budgetar och lyfta avvikelser.
+      - Utbilda och leda administratörer och lärlingar.
+    qualifications:
+      - Betydande administrativ erfarenhet, på en nivå motsvarande en högskoleexamen på grundnivå.

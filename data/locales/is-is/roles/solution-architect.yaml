@@ -1,0 +1,60 @@
+summary: Lausnaarkitektar hanna hvernig ný eða breytt þjónusta mun virka frá upphafi til enda, frá þörfum notenda og klínísku vinnuflæði til hugbúnaðar, gagna, samþættinga, hýsingar og öryggis. Þeir tryggja að hver lausn falli að arkitektúr stofnunarinnar, uppfylli kröfur um öryggi, friðhelgi og samvirkni og megi smíða, reka og styðja á hagkvæman hátt.
+health_context:
+- Lausnir sameina oft keypt klínísk kerfi, innri þjónustu og sameiginlega vettvanga, svo arkitektar verða að hanna þvert á mörk birgja.
+- Hönnunarval getur skapað klínískar hættur, svo sem glataðar niðurstöður eða ranga sjúklingasamsvörun, svo lausnahönnun nærir klínísk öryggismál.
+- Hvert nýtt gagnaflæði upplýsinga um sjúklinga þarf lagalegan grundvöll og persónuverndarmat, svo arkitektar vinna náið með upplýsingastjórnun.
+- Samvirkni við aðrar heilbrigðis- og velferðarstofnanir, með stöðlum eins og HL7 FHIR, er yfirleitt kjarnakrafa.
+- Sumar lausnir innihalda hugbúnað sem er lækningatæki, sem breytir hönnun, fullvissu og kröfum til birgja.
+levels:
+- title: Aðstoðarlausnaarkitekt
+  responsibilities:
+  - Afla krafna frá vöruteymum, klínísku starfsfólki og birgjum til að upplýsa lausnahönnun.
+  - Teikna skýringarmyndir af núverandi og markmiðsstöðu, svo sem samhengis-, gagnaflæðis- og samþættingarsýn.
+  - Semja drög að köflum lausnahönnunar og ákvörðunarskrám undir eftirliti.
+  - Athuga hönnun gegn arkitektúrstöðlum og kröfum um öryggi og upplýsingastjórnun.
+  - Aðstoða við að undirbúa hönnun til yfirferðar hjá hönnunarnefndum.
+  qualifications:
+  - Sérhæfð þekking á lausnahönnun, á meistarastigi eða sambærileg reynsla.
+  - Reynsla af greiningu, hugbúnaðarsmíði eða tæknilegri hönnun.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 6): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 7. Þekking er metin á meistarastigi eða sambærilegu, því starfið hannar þvert á hugbúnað, gögn, samþættingu og öryggi.'
+- title: Lausnaarkitekt
+  responsibilities:
+  - Hanna lausnir frá upphafi til enda fyrir þjónustu með minni áhættu, svo sem verkfæri starfsfólks eða einfalda þjónustu sem snýr að sjúklingum.
+  - Bera saman valkosti, þar á meðal að kaupa, smíða og endurnýta sameiginlega vettvanga, og mæla með einum með skýrum rökum.
+  - Hanna samþættingar, gagnaflæði og auðkenni og aðgang fyrir lausnina, með opnum stöðlum þar sem þeir eru til.
+  - Leggja til greiningar hætta og persónuverndarmats fyrir lausnina.
+  - Kynna hönnun fyrir hönnunarnefndum og styðja afhendingarteymi gegnum smíði og gangsetningu.
+  - Leiðbeina og yfirfara vinnu aðstoðarlausnaarkitekta.
+  qualifications:
+  - Mikil reynsla af lausnahönnun eða hugbúnaðarverkfræði, á stigi sem jafngildir meistaragráðu.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 7): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8a. Áætlanagerð, stefnumótun og svigrúm til athafna eru metin ofar sniði launaflokks 7 því starfið ber ábyrgð á hönnun frá upphafi til enda og mælir með valkostum við hönnunarnefndir.'
+- title: Eldri lausnaarkitekt
+  responsibilities:
+  - Hanna flóknar lausnir með miðlungs áhættu, svo sem klínísk kerfi eða þjónustu sem notuð er þvert á nokkrar stofnanir.
+  - Stýra tæknilegu mati á vörum birgja í innkaupum, þar á meðal samvirkni, öryggi og öryggi sjúklinga.
+  - Hanna fyrir seiglu og samfellu í rekstri þar sem lausnin styður umönnun allan sólarhringinn.
+  - Vinna með klínískum öryggisfulltrúum svo að hönnunarákvarðanir og áhættustýringar séu skráðar í öryggismálið.
+  - Leiðbeina og yfirfara vinnu annarra lausnaarkitekta.
+  qualifications:
+  - Umfangsmikil reynsla af hönnun flókinna lausna þvert á nokkrar fagsvið, á stigi umfram meistaragráðu.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 8a): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8b. Þekking er metin á stigi 8 fyrir sérhæfða þekkingu þvert á nokkrar greinar, svo sem hugbúnað, gögn, samþættingu, öryggi og klínískt öryggi.'
+- title: Leiðandi lausnaarkitekt
+  responsibilities:
+  - Stýra lausnaarkitektúr fyrir áætlun eða flókið svið, svo sem endurnýjun rafrænnar sjúkraskrár.
+  - Tryggja að lausnir þvert á áætlunina séu samræmdar, samvirkar og í samræmi við markmiðsarkitektúr.
+  - Ráðleggja áætlunarstjórnum um hönnunaráhættu, háðir, val á birgjum og kostnað.
+  - Tryggja hönnun annarra lausnaarkitekta hjá hönnunarnefndum.
+  - Stýra og þróa teymi lausnaarkitekta.
+  qualifications:
+  - Umfangsmikil reynsla af forystu lausnaarkitektúrs fyrir flóknar áætlanir.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 8b): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8c. Áætlanagerð, stefnumótun og fólk eru metin ofar sniði launaflokks 8b því starfið skipuleggur arkitektúr heillar áætlunar og stýrir teymi lausnaarkitekta.'
+- title: Aðal lausnaarkitekt
+  responsibilities:
+  - Stýra lausnaarkitektúr stærstu eða mikilvægustu áætlana stofnunarinnar.
+  - Móta staðla, mynstur og aðferðir lausnaarkitektúrs fyrir stofnunina.
+  - Ráðleggja sviðsstjórum og samstarfsstofnunum um hönnun mikilvægrar, sameiginlegrar heilbrigðis- og velferðarþjónustu.
+  - Leysa erfiðustu hönnunarárekstra milli áætlana, birgja og samstarfsstofnana.
+  - Stýra lausnaarkitektúrstarfinu og þróa fólkið í því.
+  qualifications:
+  - Umfangsmikil reynsla af forystu lausnaarkitektúrs þvert á margar áætlanir eða stofnanir.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 8c): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8d. Svigrúm til athafna er á stigi 6 því starfið mótar staðla stofnunarinnar í lausnaarkitektúr; fjárhagslegar auðlindir og fólk eru á stigi 4 því það stýrir starfinu og fjárhagsáætlun þess.'

@@ -1,0 +1,62 @@
+summary: Projectmanagers plannen en leveren projecten die veranderen hoe de organisatie gezondheid en zorg ondersteunt, zoals het uitrollen van een klinisch systeem naar nieuwe locaties, het verhuizen van diensten naar nieuwe infrastructuur of het invoeren van nieuwe digitale instrumenten voor zorgpersoneel. Zij beheersen reikwijdte, tijd, kosten, kwaliteit en risico met erkende projectmethoden en zorgen dat projecten de baten opleveren die zij voor patiënten en personeel beloofden.
+health_context:
+- Projecten die klinische systemen of werkstromen veranderen hebben borging van klinische veiligheid nodig vóór go-live, dus projectmanagers plannen workshops over gevaren, goedkeuring van veiligheidsdossiers en inbreng van de klinischeveiligheidsfunctionaris in het schema.
+- Go-lives mogen de zorg voor patiënten niet verstoren, dus projectmanagers plannen overgangen, regelingen voor bedrijfscontinuïteit en ondersteuning met meelopen op de vloer met klinische en operationele teams.
+- Projecten vragen vaak beoordelingen van gevolgen voor gegevensbescherming en overeenkomsten voor het delen van informatie, dus projectmanagers plannen deze vroeg met collega’s van informatiebeheer.
+- Baten in de zorg, zoals vrijgekomen tijd van personeel of minder fouten, hebben tijd nodig om zichtbaar te worden, dus projectmanagers zetten nulmetingen op en dragen het volgen van baten over aan de dienst.
+levels:
+- title: Assistent-projectmanager
+  summary: Een assistent-projectmanager ondersteunt de levering van projecten, of beheert kleine, goed omschreven projecten met begeleiding van een meer senior projectmanager.
+  responsibilities:
+  - Projectplannen, logboeken van risico’s en kwesties, actielijsten en registraties van afhankelijkheden bijhouden.
+  - Projectvergaderingen en besturen organiseren en notuleren en acties opvolgen.
+  - Met begeleiding kleine, goed omschreven stukken werk beheren, zoals een uitrol naar een locatie of een trainingsschema.
+  - Taken voor paraatheid voor go-live volgen, zoals akkoord op klinische veiligheid, controles van gegevensbescherming en training van personeel.
+  - Highlightrapporten voorbereiden en uitgaven van het project tegen het budget volgen.
+  qualifications:
+  - Een basiskwalificatie in projectmanagement, of gelijkwaardige ervaring.
+- title: Projectmanager
+  summary: Een projectmanager voert projecten van gemiddelde omvang en complexiteit uit van begin tot sluiting, zoals het uitrollen van een digitale dienst naar meerdere zorgomgevingen.
+  responsibilities:
+  - Projecten van start tot sluiting plannen en beheren en reikwijdte, tijd, kosten, kwaliteit en risico beheersen.
+  - Go-lives plannen met klinische en operationele teams, inclusief overgang, bedrijfscontinuïteit en regelingen voor ondersteuning.
+  - Zorgen dat borging van klinische veiligheid, informatiebeheer en toegankelijkheid vóór go-live wordt gepland en voltooid.
+  - Het projectbudget en de op te leveren producten van leveranciers beheren.
+  - Aan het projectbestuur rapporteren en risico’s en kwesties buiten de tolerantie escaleren.
+  - Nulmetingen voor baten vaststellen en het volgen van baten overdragen aan de dienst.
+  qualifications:
+  - Een erkende kwalificatie in projectmanagement, zoals een certificaat op practitionerniveau, of gelijkwaardige ervaring.
+  - Ervaring met het beheren van projecten die diensten of systemen veranderen.
+- title: Senior projectmanager
+  summary: Een senior projectmanager leidt grote, complexe of riskante projecten, zoals het vervangen van een klinisch systeem in een organisatie, en kan ander projectpersoneel aansturen.
+  responsibilities:
+  - Grote projecten of projecten met hoog risico leiden, zoals vervanging van klinische systemen of uitrol naar meerdere locaties.
+  - Complexe afhankelijkheden met leveranciers, andere projecten en partnerorganisaties in gezondheid en zorg beheren.
+  - Beslissingen over go-live leiden met de klinischeveiligheidsfunctionaris, operationele leiders en de senior verantwoordelijke eigenaar.
+  - Het projectbudget en commerciële afspraken beheren, inclusief wijzigingsbeheer met leveranciers.
+  - Zorgen dat baten voor patiënten en personeel worden gedefinieerd, in eigendom genomen en gemeten.
+  - Projectmanagers en projectondersteunend personeel aansturen en ontwikkelen.
+  qualifications:
+  - Een erkende kwalificatie in projectmanagement, of gelijkwaardige ervaring.
+  - Aanzienlijke ervaring met het beheren van complexe projecten in een gereguleerde omgeving of omgeving waar veiligheid van levensbelang is.
+- title: Lead projectmanager
+  summary: Een lead projectmanager leidt de meest complexe projecten of een groep verwante projecten en stelt de praktijk van projectmanagement voor zijn gebied vast.
+  responsibilities:
+  - De meest complexe projecten, of een groep verwante projecten, over meerdere diensten of organisaties leiden.
+  - Normen, sjablonen en borging van projectmanagement voor het gebied vaststellen en projectmanagers coachen.
+  - Senior verantwoordelijke eigenaren en besturen adviseren over opties voor levering, risico’s en herstel van projecten die moeite hebben.
+  - Aanzienlijke budgetten en contracten beheren en zorgen dat projecten waar voor geld geven.
+  - Zorgen dat eisen aan klinische veiligheid en informatiebeheer over de groep projecten worden gehaald.
+  - Hiërarchisch leiding geven aan projectmanagers.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van complexe projecten, met een erkende kwalificatie in projectmanagement of gelijkwaardige ervaring.
+- title: Hoofd projectmanagement
+  summary: Een hoofd projectmanagement leidt de praktijk van projectmanagement van de organisatie en de projectmanagers die haar digitale verandering leveren.
+  responsibilities:
+  - De praktijk van projectmanagement leiden, inclusief haar methoden, normen, instrumenten en borging.
+  - Projectmanagers toewijzen aan de projecten van de organisatie en de capaciteit van de praktijk beheren.
+  - Capaciteit voor projectmanagement opbouwen, inclusief werving, training en loopbaanpaden.
+  - Directieleiders adviseren over de gezondheid van projecten, risico’s voor de levering en geleerde lessen.
+  - Het budget van de praktijk beheren.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van projecten en projectmanagers, met een erkende kwalificatie in projectmanagement of gelijkwaardige ervaring.

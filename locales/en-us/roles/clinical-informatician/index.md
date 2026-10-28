@@ -30,7 +30,7 @@ Clinical informaticians are registered clinicians, such as doctors, nurses, phar
 
 ## Band 6: Clinical informatics specialist
 
-Brings clinical expertise to the design, configuration, testing, and adoption of clinical systems, working within a product or programme team under the guidance of a senior clinical informatician.
+Brings clinical expertise to the design, configuration, testing, and adoption of clinical systems, working within a product or program team under the guidance of a senior clinical informatician.
 
 ### Responsibilities
 
@@ -74,8 +74,8 @@ Brings clinical expertise to the design, configuration, testing, and adoption of
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 4 | 22 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -94,7 +94,7 @@ Patient care is scored at level 4 because the job advises on the care of patient
 
 ## Band 7: Senior clinical informatician
 
-Leads the clinical input to a major clinical system, product, or programme, giving specialized advice on how digital services affect patient care and safety.
+Leads the clinical input to a major clinical system, product, or program, giving specialized advice on how digital services affect patient care and safety.
 
 ### Responsibilities
 
@@ -109,8 +109,8 @@ Leads the clinical input to a major clinical system, product, or programme, givi
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Registered clinical practice in digital](../../skills/#registered-clinical-practice-in-digital) | This reference | Practitioner | You can:<br>• make sound clinical judgements about the effect of digital services on care<br>• challenge unsafe practice, in digital or clinical settings, with confidence<br>• support other clinicians to apply their professional standards to digital work |
-| [Clinical leadership in digital](../../skills/#clinical-leadership-in-digital) | This reference | Practitioner | You can:<br>• lead clinical engagement for a product or programme<br>• turn clinical needs and evidence into requirements<br>• champion safe adoption among clinical peers |
+| [Registered clinical practice in digital](../../skills/#registered-clinical-practice-in-digital) | This reference | Practitioner | You can:<br>• make sound clinical judgments about the effect of digital services on care<br>• challenge unsafe practice, in digital or clinical settings, with confidence<br>• support other clinicians to apply their professional standards to digital work |
+| [Clinical leadership in digital](../../skills/#clinical-leadership-in-digital) | This reference | Practitioner | You can:<br>• lead clinical engagement for a product or program<br>• turn clinical needs and evidence into requirements<br>• champion safe adoption among clinical peers |
 | [Clinical system design and optimization](../../skills/#clinical-system-design-and-optimization) | This reference | Practitioner | You can:<br>• lead the clinical design of system configuration, forms, order sets, and decision support<br>• use data and user feedback to find and fix workflow problems<br>• balance clinical need, safety, usability, and system constraints |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Clinical terminology and classification](../../skills/#clinical-terminology-and-classification) | This reference | Practitioner | You can:<br>• design data models and reference sets using clinical terminologies<br>• map between terminologies and classifications, and explain the limits of a mapping<br>• advise teams on terminology use in products and analytics |
@@ -128,7 +128,7 @@ Leads the clinical input to a major clinical system, product, or programme, givi
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -139,8 +139,8 @@ Leads the clinical input to a major clinical system, product, or programme, givi
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 5 | 30 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -165,7 +165,7 @@ Leads clinical informatics for a portfolio of clinical systems or a care setting
 
 - Set clinical design standards and principles for clinical systems across a portfolio.
 - Lead a team of clinical informaticians, setting priorities and supporting their professional development.
-- Advise programme boards and senior leaders on clinical risk, benefit, and priorities for clinical systems.
+- Advise program boards and senior leaders on clinical risk, benefit, and priorities for clinical systems.
 - Lead clinical decisions on decision support, alerts, and structured data across services.
 - Build networks of clinical champions and lead clinical engagement for large-scale change.
 - Commission and lead evaluations and use the evidence to shape the roadmap.
@@ -174,8 +174,8 @@ Leads clinical informatics for a portfolio of clinical systems or a care setting
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Registered clinical practice in digital](../../skills/#registered-clinical-practice-in-digital) | This reference | Practitioner | You can:<br>• make sound clinical judgements about the effect of digital services on care<br>• challenge unsafe practice, in digital or clinical settings, with confidence<br>• support other clinicians to apply their professional standards to digital work |
-| [Clinical leadership in digital](../../skills/#clinical-leadership-in-digital) | This reference | Practitioner | You can:<br>• lead clinical engagement for a product or programme<br>• turn clinical needs and evidence into requirements<br>• champion safe adoption among clinical peers |
+| [Registered clinical practice in digital](../../skills/#registered-clinical-practice-in-digital) | This reference | Practitioner | You can:<br>• make sound clinical judgments about the effect of digital services on care<br>• challenge unsafe practice, in digital or clinical settings, with confidence<br>• support other clinicians to apply their professional standards to digital work |
+| [Clinical leadership in digital](../../skills/#clinical-leadership-in-digital) | This reference | Practitioner | You can:<br>• lead clinical engagement for a product or program<br>• turn clinical needs and evidence into requirements<br>• champion safe adoption among clinical peers |
 | [Clinical system design and optimization](../../skills/#clinical-system-design-and-optimization) | This reference | Expert | You can:<br>• set design principles and standards for clinical systems across the organization<br>• lead optimization programs that measurably improve care and staff experience<br>• advise senior leaders on clinical system choices and their effect on care |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Practitioner | You can:<br>• lead hazard identification and risk assessment for a product or change<br>• write and maintain hazard logs and clinical safety case reports<br>• agree risk controls with product teams and check that they work<br>• advise teams on applying clinical risk management standards |
 | [Clinical terminology and classification](../../skills/#clinical-terminology-and-classification) | This reference | Practitioner | You can:<br>• design data models and reference sets using clinical terminologies<br>• map between terminologies and classifications, and explain the limits of a mapping<br>• advise teams on terminology use in products and analytics |
@@ -183,7 +183,7 @@ Leads clinical informatics for a portfolio of clinical systems or a care setting
 | [Digital health evaluation and benefits](../../skills/#digital-health-evaluation-and-benefits) | This reference | Practitioner | You can:<br>• design evaluations and benefits plans for digital health products<br>• choose suitable measures for clinical outcomes, safety, and experience<br>• judge the strength of evidence and explain its limits |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Practitioner | You can:<br>• work with the team to develop and maintain an understanding of stakeholders<br>• work with the team to develop and implement stakeholder communications strategies<br>• identify and resolve issues, influence stakeholders and manage relationships effectively<br>• build long-term strategic relationships and communicate clearly and regularly with stakeholders |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterized by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
 
 ### Typical qualifications and experience
 
@@ -193,7 +193,7 @@ Leads clinical informatics for a portfolio of clinical systems or a care setting
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -204,8 +204,8 @@ Leads clinical informatics for a portfolio of clinical systems or a care setting
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 5 | 30 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -243,10 +243,10 @@ Leads the organization's clinical informatics function and its clinical design a
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Practitioner | You can:<br>• lead hazard identification and risk assessment for a product or change<br>• write and maintain hazard logs and clinical safety case reports<br>• agree risk controls with product teams and check that they work<br>• advise teams on applying clinical risk management standards |
 | [Clinical terminology and classification](../../skills/#clinical-terminology-and-classification) | This reference | Practitioner | You can:<br>• design data models and reference sets using clinical terminologies<br>• map between terminologies and classifications, and explain the limits of a mapping<br>• advise teams on terminology use in products and analytics |
 | [Digital health evaluation and benefits](../../skills/#digital-health-evaluation-and-benefits) | This reference | Expert | You can:<br>• set the organization's approach to digital health evaluation<br>• lead research and evaluation programs with academic and care partners<br>• use evidence to advise the board on digital investment |
-| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organisational change<br>• coach leaders and resolve complex people issues |
+| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organizational change<br>• coach leaders and resolve complex people issues |
 | [Budget management](../../skills/#budget-management) | This reference | Practitioner | You can:<br>• hold and manage a budget, forecasting and explaining variances<br>• build a business case with costs and benefits |
 | [Strategic thinking](../../skills/#strategic-thinking) | UK GDaD PCF | Practitioner | You can:<br>• define strategies and policies, providing guidance to others on working in the strategic context<br>• evaluate current strategies to ensure business requirements are being met and exceeded where possible |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organization, marrying business needs with innovative analysis<br>• make and justify decisions characterized by high levels of risk, impact and complexity<br>• build consensus between organizations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organization on team dynamics and conflict resolution |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organisation, marrying business needs with innovative analysis<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organisation on team dynamics and conflict resolution |
 
 ### Typical qualifications and experience
 
@@ -255,7 +255,7 @@ Leads the organization's clinical informatics function and its clinical design a
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Knowledge:** Expert knowledge, and wide organizational and sector understanding.
 - **Autonomy:** Sets strategy for a function; accountable to a director.
 - **Scope:** A function or department.
 - **Leadership:** Leads a function through several management layers.
@@ -267,8 +267,8 @@ Leads the organization's clinical informatics function and its clinical design a
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 6 | 39 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
@@ -288,5 +288,5 @@ Patient care is scored at level 6 for highly specialized advice on patient care 
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

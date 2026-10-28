@@ -1,0 +1,46 @@
+summary: Testengineers bouwen de geautomatiseerde tests, instrumenten en kaders waarmee teams de digitale diensten voor gezondheid van de organisatie snel en vaak kunnen testen. Zij schrijven code om functies, integraties, prestaties, beveiliging en veerkracht te testen en bouwen testen in leveringspijplijnen in, zodat wijzigingen aan klinische systemen en systemen voor patiënten veilig kunnen worden uitgebracht.
+health_context:
+- Klinische systemen zijn kritiek voor veiligheid, dus geautomatiseerde regressietests beschermen de beheersmaatregelen voor veiligheid die in gevarenlogboeken zijn vastgelegd en worden bewaard als bewijs voor veiligheidsdossiers.
+- Integraties met andere systemen voor gezondheid en zorg hebben geautomatiseerde tests nodig tegen standaarden zoals HL7 FHIR en HL7 versie 2, vaak met gesimuleerde systemen van partners.
+- Klinische diensten draaien de klok rond en pieken op voorspelbare momenten, dus testen van prestaties en veerkracht modelleert echte klinische vraag.
+- Testomgevingen mogen geen echte patiëntdata bevatten, dus engineers genereren realistische synthetische data, inclusief zeldzame klinische gevallen en randgevallen.
+- Software die als medisch hulpmiddel is gereguleerd, vraagt herleidbaar, herhaalbaar testen als onderdeel van haar levenscyclus onder normen zoals IEC 62304.
+levels:
+- title: Associate testengineer
+  responsibilities:
+  - Onder toezicht eenvoudige geautomatiseerde tests schrijven en bijhouden, volgens de engineeringnormen van het team.
+  - Geautomatiseerde en handmatige tests uitvoeren en uitkomsten nauwkeurig vastleggen.
+  - Helpen gebreken te onderzoeken en te melden, ook in integraties met klinische systemen.
+  - Synthetische testdata gebruiken en de regels voor informatiebeheer in testomgevingen volgen.
+  - De testinstrumenten, codepraktijken en het proces voor klinische veiligheid van het team leren.
+  qualifications:
+  - Enige ervaring met programmeren of testen, of inschrijving voor een relevant leerwerktraject, of gelijkwaardig.
+- title: Testengineer
+  responsibilities:
+  - Geautomatiseerde functionele tests, integratietests en API-tests voor klinische diensten en diensten voor patiënten ontwerpen en bouwen.
+  - Tests bouwen die berichten controleren tegen FHIR-profielen van HL7 en andere specificaties voor interoperabiliteit.
+  - Synthetische patiëntdata genereren die realistische klinische gevallen en randgevallen dekken.
+  - Tests toevoegen aan leveringspijplijnen zodat controles die met veiligheid samenhangen bij elke wijziging draaien.
+  - De testinspanning schatten, uitkomsten rapporteren en het oplossen van gebreken ondersteunen.
+  qualifications:
+  - Een bachelor in informatica of een verwant vak, of gelijkwaardige ervaring.
+  - Ervaring met het bouwen van geautomatiseerde tests.
+- title: Senior testengineer
+  responsibilities:
+  - Test-engineering voor een gebied leiden en instrumenten, kaders en soorten tests kiezen die de risico’s ervan vroeg aanpakken.
+  - Herbruikbare kaders voor testen en simulatoren bouwen voor klinische systemen en integraties met partners.
+  - Tests van prestaties, belasting en veerkracht plannen en uitvoeren op basis van echte klinische vraag.
+  - Zorgen dat geautomatiseerde tests te herleiden zijn tot gevaren en beheersmaatregelen voor veiligheid en bewijs voor veiligheidsdossiers opleveren.
+  - Andere testengineers coachen en begeleiden en engineeringnormen met ontwikkelaars afspreken.
+  qualifications:
+  - Aanzienlijke ervaring met test-engineering, op een niveau gelijkwaardig aan een master.
+- title: Lead testengineer
+  responsibilities:
+  - De strategie en normen voor test-engineering over een breed gebied vaststellen, inclusief continu testen in leveringspijplijnen.
+  - Testengineers en teams leiden en begeleiden in de praktijk van kwaliteits-engineering.
+  - Zorgen dat testen van gereguleerde software en software die kritiek is voor veiligheid voldoet aan de vereiste normen en herleidbaar is.
+  - Risico’s voor kwaliteit en veiligheid escaleren naar senior leiders van product, klinisch werk en leveranciers.
+  - Kansen vinden om eerder en vaker te testen en het effect op kwaliteit meten.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van test-engineering voor complexe diensten.
+  job_evaluation_notes: Het UK GDaD PCF stelt voor dit niveau SEO tot G6 voor, wat overeenkomt met Band 7, dezelfde band als de senior testengineer. Deze referentie plaatst het op Band 8a, omdat het de strategie en normen voor test-engineering over een breed gebied vaststelt.

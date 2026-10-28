@@ -1,0 +1,423 @@
+# Swedish translations of data/skills/shared.yaml. Keys are the English skill ids.
+health-care-context:
+  name: Förståelse för hälso- och sjukvårdstjänster
+  description: Förstå hur hälso- och sjukvårdstjänster är organiserade och levereras, hur kliniker och vårdpersonal arbetar och hur digitala tjänster stöder patientvården.
+  levels:
+    awareness: |
+      Du kan:
+      - beskriva hälso- och sjukvårdssystemets huvuddelar och de tjänster organisationen stöder
+      - förklara varför patientsäkerhet och sekretess är viktiga i ditt arbete
+    working: |
+      Du kan:
+      - förklara de kliniska arbetsflöden och vårdarbetsflöden som ditt arbete stöder
+      - använda vanliga hälso- och sjukvårdstermer korrekt med kliniska kollegor och kollegor inom vården
+      - känna igen när en förändring kan påverka patientvården och lyfta det
+    practitioner: |
+      Du kan:
+      - analysera hur en tjänst passar in i vårdkedjor över organisationer
+      - arbeta med kliniker, vårdpersonal och patienter för att forma digitala tjänster
+      - förklara hur digitala beslut påverkar vård, säkerhet och personalens arbetsbörda
+    expert: |
+      Du kan:
+      - forma organisationens strategi med en djup förståelse för hälso- och sjukvårdssystemet
+      - företräda organisationen hos partner och ledare inom hälso- och sjukvården
+      - förutse hur förändringar i politik och tjänster kommer att påverka digitala tjänster och vård
+clinical-safety:
+  name: Klinisk riskhantering
+  description: Identifiera, bedöma och kontrollera de risker som IT-system inom hälso- och sjukvården kan innebära för patienter, genom en process för klinisk riskhantering, faroregister och säkerhetsunderlag (till exempel enligt ISO 14971 och IEC 80001-1).
+  levels:
+    awareness: |
+      Du kan:
+      - förklara hur IT-system inom hälso- och sjukvården kan skada patienter, till exempel genom felaktig, saknad eller försenad information
+      - rapportera ett möjligt kliniskt säkerhetsproblem genom rätt kanal
+    working: |
+      Du kan:
+      - delta i riskworkshoppar och bidra till ett faroregister
+      - följa processen för klinisk riskhantering i ditt arbete
+      - ta fram underlag till ett kliniskt säkerhetsunderlag, till exempel testresultat
+    practitioner: |
+      Du kan:
+      - leda identifiering av faror och riskbedömning för en produkt eller en förändring
+      - skriva och underhålla faroregister och rapporter om kliniska säkerhetsunderlag
+      - komma överens med produktteam om riskkontroller och kontrollera att de fungerar
+      - ge team råd om att tillämpa standarder för klinisk riskhantering
+    expert: |
+      Du kan:
+      - äga organisationens system för klinisk riskhantering
+      - fastställa policy för klinisk säkerhet och kvalitetssäkra säkerhetsunderlag för större system
+      - leda arbetet vid allvarliga säkerhetsincidenter som rör IT inom hälso- och sjukvården
+      - bygga en kultur av klinisk säkerhet i digitala team
+health-data-interoperability:
+  name: Interoperabilitet för hälsodata
+  description: Utbyta hälso- och vårddata tryggt och konsekvent mellan system med öppna standarder såsom HL7 FHIR, HL7 version 2, IHE-profiler och standard-API:er.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför interoperabilitet är viktig för sammanhållen vård
+      - namnge de viktigaste standarderna för utbyte av hälsodata, såsom HL7 FHIR
+    working: |
+      Du kan:
+      - läsa och använda FHIR-resurser, profiler och API:er
+      - bygga eller testa enkla integrationer under handledning
+      - kontrollera meddelanden mot en specifikation
+    practitioner: |
+      Du kan:
+      - utforma och bygga integrationer med FHIR, HL7 version 2 och meddelandemönster
+      - skriva och profilera FHIR-resurser och implementeringsguider
+      - lösa komplexa mappnings- och datakvalitetsproblem mellan system
+    expert: |
+      Du kan:
+      - fastställa standarder och strategi för interoperabilitet i organisationen
+      - leda nationellt arbete med standarder eller arbete över organisationsgränser
+      - kvalitetssäkra utformningen av kritiska integrationer över många system
+clinical-terminology:
+  name: Klinisk terminologi och klassifikation
+  description: Använda kliniska terminologier och klassifikationer, såsom SNOMED CT, ICD och LOINC, för att registrera och utbyta klinisk betydelse konsekvent.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara skillnaden mellan en klinisk terminologi och en klassifikation
+      - känna igen vanliga terminologier såsom SNOMED CT och ICD
+    working: |
+      Du kan:
+      - hitta och använda rätt koder för ett dataelement eller ett formulär
+      - använda terminologiwebbläsare och referensmängder
+    practitioner: |
+      Du kan:
+      - utforma datamodeller och referensmängder med kliniska terminologier
+      - mappa mellan terminologier och klassifikationer, och förklara en mappnings begränsningar
+      - ge team råd om användning av terminologi i produkter och analys
+    expert: |
+      Du kan:
+      - fastställa policy för terminologi i organisationen
+      - leda terminologiversioner, styrning och kvalitetssäkring
+      - företräda organisationen i organ för terminologistandarder
+information-governance:
+  name: Informationsstyrning och dataskydd
+  description: Hantera personuppgifter och hälsoinformation lagligt, tryggt och etiskt, inklusive dataskyddslagstiftning, sekretess, samtycke, konsekvensbedömningar avseende dataskydd och informationsdelning.
+  levels:
+    awareness: |
+      Du kan:
+      - följa organisationens regler för hantering av personuppgifter och hälsoinformation
+      - känna igen och rapportera ett dataintrång eller ett nästan-tillbud
+    working: |
+      Du kan:
+      - tillämpa dataskyddsprinciperna i ditt arbete
+      - bidra till konsekvensbedömningar avseende dataskydd
+      - hantera informationsbegäranden och journaler korrekt
+    practitioner: |
+      Du kan:
+      - leda konsekvensbedömningar avseende dataskydd och avtal om informationsdelning
+      - ge team råd om rättslig grund, samtycke, sekretess och gallring
+      - utreda incidenter och rekommendera förbättringar
+    expert: |
+      Du kan:
+      - fastställa policy och strategi för informationsstyrning
+      - ge styrelsen råd om informationsrisk och efterlevnad
+      - företräda organisationen hos tillsynsmyndigheter och partner
+medical-device-regulation:
+  name: Reglering av programvara som medicinteknisk produkt
+  description: Förstå när programvara är en medicinteknisk produkt, och vilka standarder och processer som gäller för den, såsom IEC 62304 och ISO 13485.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara att viss programvara inom hälso- och sjukvården regleras som medicinteknisk produkt
+      - veta vem du ska fråga när en produkt kan vara en medicinteknisk produkt
+    working: |
+      Du kan:
+      - följa en process för programvarans livscykel som uppfyller standarder för medicintekniska produkter
+      - ta fram de underlag en sådan process kräver
+    practitioner: |
+      Du kan:
+      - bedöma om en produkt är en medicinteknisk produkt, och dess sannolika klass
+      - planera det regulatoriska arbetet för en produkt tillsammans med kollegor inom kvalitet och klinik
+    expert: |
+      Du kan:
+      - fastställa organisationens förhållningssätt till reglerad programvara
+      - leda kontakterna med tillsynsmyndigheter och anmälda organ
+people-management:
+  name: Personalledning
+  description: Leda, utveckla och stödja personal, inklusive rekrytering, mål, medarbetarsamtal, välbefinnande, närvaro och att hantera prestation och uppförande rättvist.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara de personalpolicyer i organisationen som påverkar dig
+      - stödja nya kollegor och dela kunskap
+    working: |
+      Du kan:
+      - handleda det dagliga arbetet och ge återkoppling
+      - delta i rekrytering och introduktion
+      - hålla regelbundna enskilda samtal
+    practitioner: |
+      Du kan:
+      - ha linjeansvar för ett team, sätta mål och hålla medarbetarsamtal
+      - stödja välbefinnande och hantera närvaro, prestation och uppförande
+      - planera teamets utveckling och successioner
+    expert: |
+      Du kan:
+      - leda chefer och forma kulturen i ett stort område
+      - utforma bemanningsplaner och organisationsförändringar
+      - coacha ledare och lösa komplexa personalfrågor
+equality-diversity-inclusion:
+  name: Likabehandling, mångfald och inkludering
+  description: Behandla människor rättvist, värdera olikhet och utforma tjänster och arbetsplatser som inkluderar alla.
+  levels:
+    awareness: |
+      Du kan:
+      - behandla kollegor, patienter och allmänheten med värdighet och respekt
+      - följa policyer för likabehandling och inkludering
+    working: |
+      Du kan:
+      - känna igen och ifrågasätta beteende som utesluter andra
+      - beakta olika behov när du planerar ditt arbete
+    practitioner: |
+      Du kan:
+      - genomföra jämlikhetskonsekvensbedömningar
+      - bygga inkluderande team och arbetssätt
+    expert: |
+      Du kan:
+      - fastställa strategin för inkludering och hålla organisationen ansvarig för den
+      - leda kulturförändring kring likabehandling, mångfald och inkludering
+health-safety-wellbeing:
+  name: Hälsa, säkerhet och välbefinnande
+  description: Hålla dig själv och andra trygga och friska på jobbet, inklusive riskbedömning, säkra arbetssätt och incidentrapportering.
+  levels:
+    awareness: |
+      Du kan:
+      - följa regler för hälsa och säkerhet och rapportera faror och incidenter
+    working: |
+      Du kan:
+      - genomföra enkla riskbedömningar, såsom bedömningar av arbetsplatsen
+      - hjälpa kollegor att arbeta tryggt
+    practitioner: |
+      Du kan:
+      - ansvara för hälsa och säkerhet för ett team eller en plats
+      - utreda incidenter och införa kontroller
+    expert: |
+      Du kan:
+      - fastställa policy för hälsa, säkerhet och välbefinnande i organisationen
+      - rapportera säkerhetsresultat till styrelsen
+budget-management:
+  name: Budgetstyrning
+  description: Planera, följa och styra en budget, inklusive prognoser, hantering av avvikelser och efterlevnad av ekonomiska regler.
+  levels:
+    awareness: |
+      Du kan:
+      - följa reglerna för utgifter och beställningar
+      - förklara hur ditt arbete finansieras
+    working: |
+      Du kan:
+      - följa utgifter mot en liten budget och lyfta avvikelser
+      - attestera utgifter inom din befogenhet
+    practitioner: |
+      Du kan:
+      - förfoga över och styra en budget, med prognoser och förklaringar av avvikelser
+      - bygga ett affärscase med kostnader och nyttor
+    expert: |
+      Du kan:
+      - styra stora eller flera budgetar och fastställa finansiella planer
+      - göra avvägningar i finansieringen mellan tjänster
+project-management:
+  name: Projektledning
+  description: Planera, leverera och avsluta projekt enligt överenskommen omfattning, tid, kostnad och kvalitet, med en erkänd metod såsom PRINCE2, PM² eller agila ansatser.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara ett projekts faser och de viktigaste rollerna i det
+      - föra projektdokumentation såsom åtgärdslistor
+    working: |
+      Du kan:
+      - underhålla planer, risk- och problemloggar och rapporter
+      - leda projektmöten och följa upp åtgärder
+      - leda ett litet, väl avgränsat projekt med stöd
+    practitioner: |
+      Du kan:
+      - leda projekt från start till avslut och styra omfattning, tid, kostnad och kvalitet
+      - hantera risker, problem, beroenden och ändringskontroll
+      - rapportera till projektstyrelser och förvalta leverantörer
+    expert: |
+      Du kan:
+      - leda stora, komplexa eller högriskprojekt
+      - fastställa standarder för projektledning och coacha projektledare
+      - rädda projekt som håller på att misslyckas
+risk-management:
+  name: Organisatorisk riskhantering
+  description: Identifiera, bedöma, registrera och hantera risker för organisationens mål, med ett riskregister och en definierad riskaptit.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara vad en risk är och hur man lyfter en
+    working: |
+      Du kan:
+      - registrera och uppdatera risker för ditt område
+      - föreslå kontroller och följa upp åtgärder
+    practitioner: |
+      Du kan:
+      - driva riskprocessen för en direktion eller ett program
+      - bedöma risker mot riskaptiten och eskalera dem
+      - rapportera om risker till kommittéer
+    expert: |
+      Du kan:
+      - utforma organisationens ramverk för riskhantering och riskaptit
+      - ge styrelsen råd om strategiska risker
+security-operations:
+  name: Säkerhetsdrift
+  description: Övervaka system efter säkerhetshot, triagera larm, utreda händelser och reagera på cyberincidenter, med verktyg såsom SIEM och detektering på slutpunkter.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara vanliga cyberhot såsom nätfiske och ransomware
+      - rapportera en misstänkt säkerhetshändelse
+    working: |
+      Du kan:
+      - övervaka larm och triagera dem med körhandböcker
+      - samla bevis och eskalera händelser
+      - justera enkla detekteringsregler under handledning
+    practitioner: |
+      Du kan:
+      - utreda och begränsa säkerhetsincidenter
+      - skriva detekteringsregler och genomföra hotjakt
+      - förbättra körhandböcker och verktyg efter incidenter
+    expert: |
+      Du kan:
+      - leda säkerhetsdriftstjänsten och dess strategi
+      - leda hanteringen av större cyberincidenter
+      - samarbeta med nationella säkerhetsmyndigheter och partner
+vulnerability-management:
+  name: Sårbarhetshantering
+  description: Hitta, bedöma, prioritera och åtgärda tekniska sårbarheter, inklusive skanning, penetrationstestning och patchning.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför snabb patchning och säker konfiguration är viktigt
+    working: |
+      Du kan:
+      - köra sårbarhetsskanningar och rapportera resultaten
+      - följa upp åtgärder med systemägare
+    practitioner: |
+      Du kan:
+      - prioritera sårbarheter efter risk, inklusive för patienttjänster
+      - avgränsa och leda penetrationstester och åtgärder
+    expert: |
+      Du kan:
+      - fastställa policy och mål för sårbarhetshantering
+      - rapportera teknisk säkerhetsrisk till högre ledare
+identity-and-access-management:
+  name: Identitets- och åtkomsthantering
+  description: Hantera digitala identiteter, autentisering och behörigheter för personal, patienter och system, inklusive rollbaserad åtkomst och autentisering med smartkort eller flera faktorer.
+  levels:
+    awareness: |
+      Du kan:
+      - följa åtkomstreglerna och skydda dina inloggningsuppgifter
+    working: |
+      Du kan:
+      - skapa, ändra och ta bort användarkonton och behörigheter
+      - kontrollera åtkomst mot regler för rollbaserad åtkomst
+    practitioner: |
+      Du kan:
+      - utforma och driva identitets- och åtkomsttjänster
+      - granska åtkomst regelbundet och åtgärda problem
+    expert: |
+      Du kan:
+      - fastställa strategin för identitet och åtkomst för personal, patienter och system
+      - leda införandet av nya identitetsstandarder
+data-quality:
+  name: Hantering av datakvalitet
+  description: Definiera, mäta och förbättra datakvalitet, inklusive fullständighet, korrekthet, aktualitet och giltighet.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför korrekta hälsodata är viktiga för vård och planering
+      - registrera data korrekt och rapportera fel
+    working: |
+      Du kan:
+      - köra datakvalitetskontroller och rätta fel
+      - förklara datakvalitetsrapporter för kollegor
+    practitioner: |
+      Du kan:
+      - definiera regler och mått för datakvalitet
+      - arbeta med datakällor för att åtgärda grundorsakerna till dålig kvalitet
+    expert: |
+      Du kan:
+      - fastställa datakvalitetsstandarder för organisationen och dess partner
+      - leda program för förbättring av datakvalitet
+health-records-management:
+  name: Hantering av hälsojournaler
+  description: Hantera hälso- och vårdjournaler genom deras livscykel, inklusive skapande, arkivering, spårning, åtkomst, gallring och förstöring.
+  levels:
+    awareness: |
+      Du kan:
+      - arkivera, hitta och spåra journaler korrekt
+      - skydda journaler mot förlust eller obehörig åtkomst
+    working: |
+      Du kan:
+      - hantera begäranden om åtkomst till journaler
+      - tillämpa gallringsscheman och standarder för journalföring
+    practitioner: |
+      Du kan:
+      - leda en journaltjänst och dess rutiner
+      - granska journalföring och utbilda personal
+    expert: |
+      Du kan:
+      - fastställa policy och strategi för journalhantering
+      - leda övergången från pappersjournaler till digitala journaler
+clinical-coding:
+  name: Klinisk kodning
+  description: Översätta klinisk information från hälsojournaler till standardiserade klassifikationskoder, enligt nationella och internationella kodningsregler, för vård, ersättning och statistik.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara vad klinisk kodning är och varför den är viktig
+      - använda grundläggande medicinska termer och anatomi
+    working: |
+      Du kan:
+      - koda okomplicerade vårdtillfällen korrekt, med klassifikationsregler
+      - ställa frågor om oklara journaler till kliniker
+    practitioner: |
+      Du kan:
+      - koda komplexa vårdtillfällen över specialiteter
+      - granska kodningskvalitet och utbilda kodare
+    expert: |
+      Du kan:
+      - leda en kodningstjänst och dess kvalitetsprogram
+      - ge råd om kodningsstandarder och deras effekt på data och finansiering
+clinical-leadership-in-digital:
+  name: Kliniskt ledarskap inom digitalt
+  description: Tillföra klinisk kunskap och trovärdighet till utformning, införande och säker användning av digitala tjänster, och leda kliniker genom digital förändring.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara hur digitala tjänster förändrar klinisk praxis
+    working: |
+      Du kan:
+      - ge produktteam kliniskt underlag om arbetsflöden och säkerhet
+      - hjälpa kliniska kollegor att ta nya system i bruk
+    practitioner: |
+      Du kan:
+      - leda det kliniska engagemanget för en produkt eller ett program
+      - omsätta kliniska behov och evidens till krav
+      - förespråka säkert införande bland kliniska kollegor
+    expert: |
+      Du kan:
+      - fastställa den kliniska riktningen för organisationens digitala tjänster
+      - leda kliniska ledare över organisationer genom digital förändring
+      - ge styrelsen råd om klinisk risk och nytta med digitala investeringar
+governance-and-compliance:
+  name: Organisationsstyrning och efterlevnad
+  description: Stödja organisationens styrning — styrelser, kommittéer, arbetsordningar, policyer, intresseanmälningar och efterlevnad av rättsliga och regulatoriska plikter.
+  levels:
+    awareness: |
+      Du kan:
+      - följa organisationens policyer och beslutsregler
+    working: |
+      Du kan:
+      - stödja kommittémöten, handlingar och protokoll
+      - hålla styrningsregister uppdaterade
+    practitioner: |
+      Du kan:
+      - driva styrningscykeln för styrelser och kommittéer
+      - se över policyer och ge råd om efterlevnad
+    expert: |
+      Du kan:
+      - utforma styrningsramverket och ge styrelsen råd
+      - leda den årliga styrningsrapporteringen och kvalitetssäkringen

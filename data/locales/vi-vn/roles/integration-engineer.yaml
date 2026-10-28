@@ -1,0 +1,51 @@
+summary: Kỹ sư tích hợp kết nối các hệ thống lâm sàng và nghiệp vụ của tổ chức để thông tin y tế và chăm sóc chảy an toàn đến nơi cần thiết. Họ thiết kế, xây dựng, kiểm thử và hỗ trợ các giao diện, API và luồng thông điệp dùng các tiêu chuẩn như HL7 FHIR và HL7 phiên bản 2, ánh xạ dữ liệu và mã lâm sàng giữa các hệ thống, và giữ cho các tích hợp hoạt động trong dịch vụ đang vận hành.
+health_context:
+- Một thông điệp bị mất, chậm, trùng lặp hoặc khớp nhầm, như kết quả xét nghiệm hoặc giấy giới thiệu, có thể trực tiếp dẫn đến tổn hại, nên công việc tích hợp tuân theo quy trình quản lý rủi ro lâm sàng.
+- Các tích hợp mang khối lượng lớn thông tin y tế bí mật giữa các tổ chức, nên mỗi luồng cần có cơ sở pháp lý, truyền tải an toàn và kiểm toán.
+- Các hệ thống y tế dùng nhiều tiêu chuẩn và phiên bản, từ thông điệp HL7 phiên bản 2 đến API HL7 FHIR và các hồ sơ IHE, thường có các biến thể địa phương.
+- Ý nghĩa lâm sàng phải được giữ nguyên trong suốt hành trình, nên các kỹ sư ánh xạ đúng các bộ thuật ngữ lâm sàng như SNOMED CT và khớp bệnh nhân một cách đáng tin cậy.
+- Nhiều tích hợp hỗ trợ chăm sóc suốt ngày đêm, nên chúng cần giám sát, cảnh báo và các đường xử lý rõ ràng cho thông điệp lỗi.
+levels:
+- title: Kỹ sư tích hợp sơ cấp
+  summary: Kỹ sư tích hợp sơ cấp xây dựng, kiểm thử và hỗ trợ các tích hợp giữa các hệ thống y tế và chăm sóc, làm việc theo đặc tả và với sự hướng dẫn của các kỹ sư có kinh nghiệm hơn.
+  responsibilities:
+  - Xây dựng và thay đổi các phép ánh xạ thông điệp, biến đổi và lệnh gọi API từ các đặc tả đã thống nhất.
+  - Kiểm thử các tích hợp theo đặc tả và thông điệp mẫu, kể cả các trường hợp lỗi và biên.
+  - Giám sát luồng thông điệp, điều tra các thông điệp lỗi hoặc bị từ chối, và khắc phục hoặc báo lên cấp trên.
+  - Xử lý dữ liệu y tế một cách an toàn, theo các quy tắc quản trị thông tin cho dữ liệu thật và dữ liệu kiểm thử.
+  - Ghi lại các thay đổi và kết quả kiểm thử để chúng có thể dùng làm bằng chứng an toàn lâm sàng.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc một ngành liên quan, đã hoàn thành chương trình học nghề, hoặc kinh nghiệm tương đương.
+- title: Kỹ sư tích hợp
+  summary: Kỹ sư tích hợp thiết kế, xây dựng và hỗ trợ độc lập các tích hợp giữa các hệ thống y tế và chăm sóc, và giúp xác định cách các hệ thống nên trao đổi dữ liệu.
+  responsibilities:
+  - Thiết kế và xây dựng các tích hợp, API và luồng thông điệp bằng HL7 FHIR, HL7 phiên bản 2 và các mẫu thông điệp.
+  - Phân tích các hệ thống nguồn và đích và viết đặc tả giao diện và ánh xạ dữ liệu, kể cả mã lâm sàng.
+  - Xây dựng việc khớp bệnh nhân, kiểm định và xử lý lỗi để thông tin đến đúng hồ sơ.
+  - Tham gia các buổi làm việc về mối nguy và tích hợp các biện pháp kiểm soát an toàn vào các tích hợp, như cảnh báo cho các thông điệp lỗi hoặc chậm.
+  - Làm việc với nhà cung cấp và các tổ chức đối tác để kiểm thử và đưa vào vận hành các kết nối mới.
+  - Điều tra và khắc phục sự cố trong các tích hợp đang vận hành, và kèm cặp các kỹ sư tích hợp sơ cấp.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc một ngành liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm xây dựng và hỗ trợ các tích hợp giữa các hệ thống đang vận hành.
+- title: Kỹ sư tích hợp cao cấp
+  summary: Kỹ sư tích hợp cao cấp dẫn dắt thiết kế và triển khai các tích hợp phức tạp trên nhiều hệ thống và tổ chức, và đề ra tiêu chuẩn tích hợp cho lĩnh vực của mình.
+  responsibilities:
+  - Dẫn dắt thiết kế kỹ thuật của các tích hợp phức tạp, như hồ sơ chăm sóc dùng chung, kết quả và giấy giới thiệu giữa các tổ chức.
+  - Viết và duy trì các hồ sơ cấu hình FHIR, hướng dẫn triển khai và tiêu chuẩn giao diện cho tổ chức.
+  - Thiết kế các tích hợp an toàn, có khả năng phục hồi và có thể quan sát, với các đường xử lý lỗi rõ ràng.
+  - Làm việc với cán bộ an toàn lâm sàng để nhận diện các mối nguy của tích hợp và bảo đảm các biện pháp kiểm soát được thiết kế sẵn và kiểm thử.
+  - Bảo đảm mỗi luồng dữ liệu có cơ sở pháp lý và thỏa thuận chia sẻ dữ liệu đã thống nhất, làm việc với các đồng nghiệp quản trị thông tin.
+  - Huấn luyện và phát triển các kỹ sư tích hợp trong nhóm.
+  qualifications:
+  - Có kinh nghiệm dày dặn về thiết kế và hỗ trợ các tích hợp y tế hoặc phức tạp khác, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng nhóm kỹ sư tích hợp
+  summary: Trưởng nhóm kỹ sư tích hợp dẫn dắt kỹ thuật tích hợp của tổ chức, đề ra định hướng kỹ thuật và tiêu chuẩn, và đảm bảo các tích hợp quan trọng trên nhiều hệ thống.
+  responsibilities:
+  - Dẫn dắt kỹ thuật tích hợp trong toàn tổ chức, đề ra định hướng, mẫu thiết kế và tiêu chuẩn.
+  - Đảm bảo thiết kế của các tích hợp quan trọng, như những tích hợp mang kết quả, thuốc hoặc cảnh báo.
+  - Định hình lộ trình nền tảng tích hợp cùng kiến trúc sư, quản lý sản phẩm và nhà cung cấp.
+  - Đại diện tổ chức trong công việc về khả năng tương tác và tiêu chuẩn giữa nhiều tổ chức.
+  - Quản lý trực tiếp hoặc dẫn dắt các kỹ sư tích hợp và mở rộng cộng đồng thực hành tích hợp.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật tích hợp cho các hệ thống y tế hoặc chăm sóc phức tạp.

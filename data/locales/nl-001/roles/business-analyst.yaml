@@ -1,0 +1,64 @@
+summary: Bedrijfsanalisten helpen de organisatie problemen in diensten voor gezondheid en zorg te begrijpen en de juiste wijzigingen te vinden om ze op te lossen. Zij analyseren hoe klinische, administratieve en op patiënten gerichte processen nu werken, definiëren behoeften en eisen van gebruikers en van de organisatie en helpen teams ervoor te zorgen dat nieuwe digitale diensten passen bij echte zorgpaden en meetbare baten opleveren.
+health_context:
+- Processen overschrijden organisatorische en professionele grenzen, dus analisten brengen hele zorgpaden in kaart, inclusief overdrachten tussen clinici, zorgpersoneel, patiënten en andere organisaties.
+- Eisen dragen vaak klinisch risico, dus analisten werken met klinischeveiligheidsfunctionarissen om te zorgen dat veiligheidsgerelateerde eisen worden vastgelegd, herleid en getest.
+- Veel eisen betreffen het delen van gezondheidsdata tussen systemen, dus analisten hebben praktische kennis nodig van standaarden voor interoperabiliteit zoals HL7 FHIR en klinische terminologieën zoals SNOMED CT.
+- Baten in de zorg gaan vaak over veiligheid, kwaliteit, tijd van personeel en ervaring van patiënten, niet alleen over kosten, dus analisten helpen maten te definiëren die clinici herkennen.
+levels:
+- title: Trainee bedrijfsanalist
+  responsibilities:
+  - Technieken van bedrijfsanalyse leren via gestructureerde training, meelopen en werk onder toezicht.
+  - Notities vastleggen en processchema’s opstellen uit workshops met klinisch en administratief personeel.
+  - Logboeken met eisen, user stories en herleidbaarheidsregistraties bijhouden onder leiding.
+  - Helpen testscenario’s voor te bereiden voor gebruikersacceptatietesten.
+  - De regels voor informatiebeheer volgen bij het omgaan met documenten die patiëntinformatie bevatten.
+  qualifications:
+  - Werkend aan een leerwerktraject of kwalificatie in bedrijfsanalyse, of gelijkwaardige ervaring.
+- title: Junior bedrijfsanalist
+  responsibilities:
+  - Huidige en toekomstige processen in kaart brengen voor klinische en administratieve werkstromen, zoals verwijzingen, afspraken of afhandeling van uitslagen.
+  - Eisen en user stories achterhalen en schrijven voor goed omschreven stukken werk.
+  - Data verzamelen over de prestaties van processen, zoals wachttijden of handmatige omwegen, om de analyse te ondersteunen.
+  - Testscenario’s voor gebruikersacceptatie voorbereiden en uitvoeren met klinische en operationele gebruikers.
+  - Eisen die de patiëntveiligheid kunnen raken signaleren aan het team en de klinischeveiligheidsfunctionaris.
+  qualifications:
+  - Een bachelor, een kwalificatie of leerwerktraject in bedrijfsanalyse, of gelijkwaardige ervaring.
+- title: Bedrijfsanalist
+  responsibilities:
+  - De analyse leiden voor kleine en middelgrote projecten, van probleemdefinitie tot het meten van baten.
+  - Workshops houden met clinici, zorgpersoneel en managers om knelpunten te begrijpen en opties af te spreken.
+  - Zorgpaden en informatiestromen modelleren, inclusief data die met andere systemen voor gezondheid en zorg worden uitgewisseld.
+  - Eisen voor veiligheid en data definiëren en herleiden door ontwerp, bouw en test.
+  - Businesscases voor baten opstellen met maten zoals vrijgekomen tijd van personeel, vermeden fouten of ervaring van patiënten.
+  - Junior en trainee bedrijfsanalisten begeleiden.
+  qualifications:
+  - Een bachelor of een erkende kwalificatie in bedrijfsanalyse, of gelijkwaardige ervaring.
+  - Ervaring met bedrijfsanalyse bij digitale veranderprojecten.
+- title: Senior bedrijfsanalist
+  responsibilities:
+  - Bedrijfsanalyse leiden bij grote of complexe programma’s, zoals het vervangen van een klinisch systeem of het herontwerpen van een zorgpad.
+  - Opties en hun effect op zorg, veiligheid, werkdruk van personeel en kosten analyseren en aanbevelingen presenteren aan besturen.
+  - Zorgen dat klinisch risico, informatiebeheer en effecten op gelijkheid in de eisen worden geanalyseerd en aangepakt.
+  - De baten van verandering definiëren en volgen en opzetten hoe ze na go-live worden gemeten.
+  - Hiërarchisch leiding geven aan of leiden van bedrijfsanalisten en activiteiten van de praktijkgemeenschap uitvoeren.
+  qualifications:
+  - Aanzienlijke ervaring met bedrijfsanalyse bij complexe verandering, op een niveau gelijkwaardig aan een master.
+- title: Lead bedrijfsanalist
+  responsibilities:
+  - Analyse leiden voor zeer complexe problemen die meerdere producten, diensten of organisaties in een zorgstelsel overspannen.
+  - De businesscase en het plan voor batenrealisatie voor grote investeringen vormgeven.
+  - Normen voor bedrijfsanalyse vaststellen, zoals herleidbaarheid van eisen voor software die gerelateerd is aan veiligheid of gereguleerd is.
+  - Met klinische leiders, architecten en productmanagers samenwerken om analyse af te stemmen op de strategie van de organisatie.
+  - Hiërarchisch leiding geven aan bedrijfsanalisten en hun professionele ontwikkeling leiden.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van bedrijfsanalyse bij complexe verandering met meerdere teams.
+- title: Hoofd bedrijfsanalyse
+  responsibilities:
+  - De functie bedrijfsanalyse leiden en haar strategie, normen en werkwijzen vaststellen.
+  - Capaciteit voor bedrijfsanalyse opbouwen, inclusief werving, loopbaanpaden en training.
+  - Directie en klinische leiders adviseren over de analyse die nodig is voor grote transformaties in gezondheid en zorg.
+  - Zorgen dat batenrealisatie wordt gepland, gemeten en gerapporteerd over het portfolio heen.
+  - Het budget en het personeelsplan van de functie beheren.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van een functie of praktijk voor bedrijfsanalyse.
+  job_evaluation_notes: Informatiebronnen wordt gescoord op niveau 6 omdat het hoofd bedrijfsanalyse eigenaar is van de normen voor de hele organisatie over hoe eisen, procesmodellen en registraties van baten worden bijgehouden voor al het veranderwerk.

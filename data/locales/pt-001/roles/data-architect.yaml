@@ -1,0 +1,37 @@
+summary: Os profissionais de arquitetura de dados projetam como a organização estrutura, armazena, movimenta e governa seus dados de saúde e de cuidados, para que possam ser usados com segurança no cuidado direto, no planejamento de serviços e na pesquisa. Projetam modelos de dados, plataformas de dados e fluxos de dados, definem padrões de dados e garantem que o significado clínico, a qualidade e a confidencialidade sejam preservados de ponta a ponta.
+health_context:
+- Os dados de saúde devem manter seu significado clínico, por isso os modelos de dados usam terminologias clínicas como a SNOMED CT e classificações como a CID.
+- Os dados usados no cuidado direto e os usados no planejamento ou na pesquisa têm bases legais diferentes, por isso as pessoas arquitetas projetam para a separação, a desidentificação e o acesso controlado.
+- Os dados vêm de muitos sistemas clínicos e de cuidados de qualidade variável, por isso projetam para verificações de qualidade de dados, associação de pacientes e rastreabilidade de origem.
+- Os prontuários compartilhados e a troca de dados dependem de modelos comuns, como os recursos HL7 FHIR, e de conjuntos de dados nacionais ou internacionais acordados.
+- Os registros devem ser guardados por longos períodos de retenção, por isso os projetos devem prever o arquivamento e o acesso aos dados históricos.
+levels:
+- title: Profissional de arquitetura de dados
+  responsibilities:
+  - Projetar modelos de dados lógicos e físicos para dados clínicos e operacionais, usando terminologias clínicas quando necessário.
+  - Projetar fluxos de dados e componentes da plataforma de dados, como data warehouse, lakehouse e camadas de integração.
+  - Definir metadados, entradas do dicionário de dados e rastreabilidade de origem para os conjuntos de dados da sua área.
+  - Projetar controles de desidentificação e de acesso para que os dados sejam usados somente para a sua finalidade legal.
+  - Trabalhar com colegas de qualidade de dados e de codificação clínica para corrigir as causas estruturais de dados ruins.
+  - Orientar pessoas engenheiras e analistas de dados sobre modelos e padrões de dados.
+  qualifications:
+  - Experiência substancial em modelagem de dados e projeto de plataformas de dados, em nível equivalente ao de mestrado.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 7); anúncios do setor de saúde situam esta função na Faixa 8a. Planejamento, política e liberdade de ação são pontuados acima do perfil da Faixa 7, porque a função projeta plataformas e controles de dados usados em muitos serviços."
+- title: Profissional de arquitetura de dados sênior
+  responsibilities:
+  - Projetar a arquitetura de dados de um grande domínio, como o prontuário compartilhado ou a plataforma de análise.
+  - Garantir que os projetos de dados das equipes sigam os padrões e modelos de dados da organização.
+  - Projetar como os dados são compartilhados com organizações parceiras, incluindo padrões, controles e acordos de compartilhamento de dados.
+  - Aconselhar colegas de governança da informação e de segurança clínica sobre os riscos de dados dos novos projetos.
+  - Revisar e orientar o trabalho de profissionais de arquitetura de dados.
+  qualifications:
+  - Ampla experiência em arquitetura de dados para organizações complexas.
+- title: Chefia de arquitetura de dados
+  responsibilities:
+  - Definir a visão e o roteiro de arquitetura de dados da organização, em linha com a sua estratégia de dados.
+  - Ser responsável pelo modelo de dados corporativo, pelos padrões de dados e pelo dicionário de dados da organização.
+  - Aconselhar a equipe executiva e os órgãos de governança de dados sobre arquitetura de dados, riscos e investimentos.
+  - Representar a organização em trabalhos de padrões de dados e de interoperabilidade entre organizações.
+  - Liderar a prática de arquitetura de dados e desenvolver suas pessoas.
+  qualifications:
+  - Ampla experiência na liderança da arquitetura de dados entre organizações.

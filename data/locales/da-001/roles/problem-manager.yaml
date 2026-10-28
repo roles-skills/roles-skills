@@ -1,0 +1,28 @@
+summary: Problemansvarlige finder og retter grundårsagerne til hændelser, så fejl ikke opstår igen. De analyserer hændelsesdata, gennemfører undersøgelser af grundårsager, registrerer kendte fejl og midlertidige løsninger og følger rettelser sammen med tekniske teams og leverandører. I sundhedsvæsenet spilder gentagne fejl i kliniske systemer klinisk tid, nedbryder tilliden og kan skabe risici for patientsikkerheden, så det er vigtigt at fjerne dem.
+health_context:
+- Gentagne små fejl, såsom langsomme logins eller mislykkede udskrifter på afdelinger, summerer sig til tabt klinisk tid, så problemansvarlige leder efter mønstre såvel som store svigt.
+- Nogle problemer skaber kliniske sikkerhedsfarer, såsom svar der ikke når den rette kliniker, og vurderes sammen med den kliniske sikkerhedsansvarlige.
+- Undersøgelser af grundårsager involverer ofte leverandører af kliniske systemer og styres gennem kontrakter og serviceniveauer.
+- Midlertidige løsninger for kliniske systemer skal være sikre og klart forklaret for kliniske medarbejdere.
+levels:
+- title: Problemanalytiker
+  responsibilities:
+  - Analysere hændelsesdata for at finde gentagne fejl og tendenser på tværs af kliniske services og administrative services.
+  - Registrere problemer, kendte fejl og midlertidige løsninger i servicestyringsværktøjet.
+  - Støtte undersøgelser af grundårsager ved at indsamle logs, tidslinjer og anden dokumentation.
+  - Følge handlinger med tekniske teams og leverandører, til rettelserne er på plads.
+  - Kontrollere, at midlertidige løsninger for kliniske systemer er sikre og klart forklaret for brugerne.
+  qualifications:
+  - Erfaring med it-support eller drift.
+  - En grunduddannelse i it-servicestyring eller tilsvarende erfaring.
+- title: Problemansvarlig
+  responsibilities:
+  - Drive problemstyringsprocessen på tværs af organisationens services.
+  - Lede analyse af grundårsager efter større hændelser og for tilbagevendende fejl ved hjælp af strukturerede teknikker.
+  - Prioritere problemer efter deres virkning på patientplejen, medarbejdertid og servicerisiko.
+  - Vurdere problemer, der kan skabe farer for patientsikkerheden, sammen med den kliniske sikkerhedsansvarlige.
+  - Holde tekniske teams og leverandører ansvarlige for varige rettelser og rapportere fremdrift til serviceledere.
+  - Arbejde sammen med ansvarlige for større hændelser om at sikre, at erfaringer fra hændelser fører til forandring.
+  qualifications:
+  - Betydelig erfaring med problemstyring eller hændelsesstyring på et niveau svarende til en bacheloruddannelse.
+  - En it-servicestyringsuddannelse på mellemniveau eller tilsvarende erfaring.

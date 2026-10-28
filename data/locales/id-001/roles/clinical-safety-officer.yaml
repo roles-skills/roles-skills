@@ -1,0 +1,47 @@
+summary: >
+  Petugas keselamatan klinis adalah tenaga klinis terdaftar yang memastikan sistem TI kesehatan yang dibangun, dibeli, dan diterapkan organisasi aman bagi pasien. Mereka menjalankan proses manajemen risiko klinis, memimpin identifikasi bahaya, memiliki log bahaya, dan menulis serta mengesahkan laporan kasus keselamatan klinis, memakai standar manajemen risiko klinis seperti ISO 14971 dan IEC 80001-1.
+health_context:
+  - Peran ini harus dijabat tenaga klinis terdaftar, agar pertimbangan keselamatan bertumpu pada pengetahuan klinis yang mutakhir dan akuntabilitas profesional.
+  - TI kesehatan dapat membahayakan pasien melalui informasi yang salah, hilang, terlambat, atau menyesatkan, sehingga peran ini menilai risiko yang sering tersembunyi dalam data dan alur kerja.
+  - Pekerjaan keselamatan klinis berjalan sepanjang masa hidup sistem, dari desain dan pengadaan hingga penerapan, perubahan, dan penonaktifan.
+  - Sebagian produk juga diatur sebagai alat kesehatan, sehingga peran ini bekerja dengan rekan regulasi dan mutu ketika kasus keselamatan dan berkas alat tumpang tindih.
+  - Insiden keselamatan yang melibatkan TI kesehatan dapat menyebabkan kerugian serius, sehingga peran ini menyelidiki insiden dan memastikan pelajaran dipetik.
+levels:
+  - title: Petugas keselamatan klinis
+    summary: Menjalankan proses manajemen risiko klinis untuk sekumpulan produk atau perubahan, memimpin lokakarya bahaya, memelihara log bahaya, dan menulis laporan kasus keselamatan klinis untuk disetujui.
+    responsibilities:
+      - Memimpin lokakarya identifikasi bahaya bersama tim produk, tenaga klinis, dan pemasok.
+      - Menilai risiko klinis dan menyepakati pengendalian, lalu memeriksa bahwa pengendalian berfungsi melalui pengujian dan bukti.
+      - Menulis dan memelihara log bahaya dan laporan kasus keselamatan klinis untuk produk dan perubahan.
+      - Meninjau dokumentasi keselamatan pemasok untuk sistem yang dibeli organisasi.
+      - Menyelidiki insiden keselamatan yang melibatkan TI kesehatan dan merekomendasikan perbaikan.
+      - Menasihati tim digital tentang proses manajemen risiko klinis dan keselamatan sejak desain.
+    qualifications:
+      - Registrasi terkini pada badan profesi klinis, dengan pengalaman klinis yang substansial.
+      - Pelatihan manajemen risiko klinis untuk TI kesehatan, atau pengalaman yang setara.
+    job_evaluation_notes: Perawatan pasien dinilai di tingkat 5 karena pekerjaan ini memberi nasihat khusus tentang keselamatan sistem yang dipakai dalam perawatan pasien. Upaya mental mencerminkan konsentrasi berkepanjangan pada dokumentasi dan bukti keselamatan.
+  - title: Petugas keselamatan klinis senior
+    summary: Memimpin keselamatan klinis untuk program besar atau portofolio sistem berisiko tinggi, mengesahkan kasus keselamatan dan memandu petugas keselamatan klinis lain.
+    responsibilities:
+      - Memimpin manajemen risiko klinis untuk sistem berisiko tinggi seperti rekam kesehatan elektronik, peresepan, dan dukungan keputusan.
+      - Menyetujui log bahaya dan laporan kasus keselamatan klinis dalam wewenang yang didelegasikan.
+      - Menasihati dewan program tentang risiko klinis dan apakah suatu sistem aman untuk diluncurkan.
+      - Memimpin penyelidikan insiden keselamatan serius yang melibatkan TI kesehatan.
+      - Membimbing dan memeriksa mutu pekerjaan petugas keselamatan klinis dan tenaga klinis terlatih keselamatan.
+      - Membantu memperbaiki sistem manajemen risiko klinis dan templat organisasi.
+    qualifications:
+      - Registrasi terkini pada badan profesi klinis, dengan pengalaman klinis yang luas.
+      - Pengalaman yang substansial dalam manajemen risiko klinis untuk TI kesehatan.
+  - title: Kepala keselamatan klinis
+    summary: Memiliki sistem manajemen risiko klinis organisasi untuk TI kesehatan, memimpin tim keselamatan klinis, dan memberi dewan jaminan bahwa layanan digitalnya aman secara klinis.
+    responsibilities:
+      - Memiliki sistem, kebijakan, dan proses manajemen risiko klinis untuk semua TI kesehatan.
+      - Memimpin dan mengembangkan tim keselamatan klinis dan jaringan tenaga klinis terlatih keselamatan yang lebih luas.
+      - Menjamin kasus keselamatan untuk sistem besar dan membuat rekomendasi keselamatan klinis akhir tentang penerapan.
+      - Memimpin tanggapan atas insiden keselamatan serius yang melibatkan TI kesehatan, termasuk bersama mitra dan pemasok.
+      - Melaporkan risiko dan jaminan keselamatan klinis kepada dewan dan komitenya.
+      - Membangun budaya keselamatan klinis di tim digital, klinis, dan pemasok.
+    qualifications:
+      - Registrasi terkini pada badan profesi klinis, dengan pengalaman klinis dan kepemimpinan yang luas.
+      - Pengalaman luas dalam memimpin manajemen risiko klinis untuk TI kesehatan di sebuah organisasi.
+    job_evaluation_notes: Perawatan pasien dinilai di tingkat 6 karena pekerjaan ini bertanggung jawab atas keselamatan klinis TI kesehatan organisasi. Upaya emosional mencerminkan peninjauan rutin atas insiden yang melibatkan kerugian pasien.

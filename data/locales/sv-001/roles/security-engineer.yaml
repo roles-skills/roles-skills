@@ -1,0 +1,45 @@
+summary: >
+  Säkerhetsingenjörer utformar, bygger och driver de tekniska säkerhetskontroller som skyddar organisationens system, data och användare. De arbetar med identitet och åtkomst, skydd av slutpunkter och nät, kryptering, loggning och molnsäkerhet, och hjälper produkt- och infrastrukturteam att bygga in säkerhet. Inom hälso- och sjukvården skyddar de kliniska system och patientdata samtidigt som åtkomsten hålls snabb för kliniker vid vårdtillfället.
+health_context:
+  - Säkerhetskontroller får inte stå i vägen för akut vård, så ingenjörer utformar stark autentisering som ändå fungerar snabbt på delade kliniska arbetsstationer.
+  - Medicintekniska produkter och äldre kliniska system kan ofta inte patchas eller köra säkerhetsprogramvara, så ingenjörer utformar nätverkssegmentering och kompenserande kontroller.
+  - Ransomware är ett stort hot mot hälso- och sjukvården, så ingenjörer härdar system, skyddar säkerhetskopior och begränsar hur långt en attack kan sprida sig.
+  - Kliniska system levereras och stöds ofta av tredje part, så ingenjörer bedömer leverantörers säkerhet och kontrollerar deras fjärråtkomst.
+  - Ändringar i säkerhetskontroller på kliniska system går genom ändringshantering och, där det behövs, granskning av klinisk säkerhet.
+levels:
+  - title: Säkerhetsingenjör
+    summary: En säkerhetsingenjör bygger, konfigurerar och underhåller säkerhetskontroller och verktyg och hjälper team att åtgärda säkerhetssvagheter.
+    responsibilities:
+      - Bygga och underhålla säkerhetskontroller, såsom skydd av slutpunkter, brandväggar, e-postsäkerhet och säkerhetsloggning.
+      - Konfigurera kontroller för identitet och åtkomst, inklusive flerfaktorsautentisering och privilegierad åtkomst.
+      - Hjälpa infrastruktur- och produktteam att åtgärda sårbarheter och härda system enligt överenskomna standarder.
+      - Segmentera nät för att skydda medicintekniska produkter och äldre system, tillsammans med team för infrastruktur och medicinsk teknik.
+      - Granska säkerheten i nya system och leverantörers fjärråtkomst innan de tas i drift.
+      - Delta i jourschemat för att stödja hanteringen av säkerhetsincidenter.
+    qualifications:
+      - En examen i datavetenskap eller cybersäkerhet, relevanta säkerhetscertifieringar eller motsvarande erfarenhet.
+      - Erfarenhet av att bygga eller driva infrastruktur eller säkerhetsverktyg.
+    job_evaluation_notes: Mental ansträngning speglar täta perioder av långvarig koncentration på komplext tekniskt arbete och incidentstöd, inklusive jour.
+  - title: Senior säkerhetsingenjör
+    summary: En senior säkerhetsingenjör utformar och leder leveransen av betydande säkerhetskontroller och ger team råd om säker design.
+    responsibilities:
+      - Utforma och leda leveransen av säkerhetskontroller, såsom hantering av privilegierad åtkomst, säkerhetsövervakning och skydd av säkerhetskopior.
+      - Ge produkt- och infrastrukturteam råd om säker design för kliniska och patientvända tjänster.
+      - Utforma kompenserande kontroller för medicintekniska produkter och andra system som inte kan patchas.
+      - Bedöma säkerheten hos leverantörer och deras produkter, inklusive molntjänster.
+      - Stödja hanteringen av allvarliga säkerhetsincidenter med teknisk expertis och återställningsplaner.
+      - Coacha säkerhetsingenjörer och dela goda arbetssätt över team.
+    qualifications:
+      - Betydande erfarenhet av säkerhetsutveckling, på en nivå motsvarande en påbyggnadsexamen.
+      - Relevanta avancerade säkerhetscertifieringar eller motsvarande erfarenhet.
+  - title: Ledande säkerhetsingenjör
+    summary: En ledande säkerhetsingenjör fastställer den tekniska riktningen för säkerhetsutveckling och ser till att kontroller fungerar tillsammans i hela organisationen.
+    responsibilities:
+      - Fastställa teknisk riktning och standarder för säkerhetskontroller i hela organisationen.
+      - Leda säkerhetsdesignen för större program, såsom flytt till molndrift eller en ny elektronisk patientjournal.
+      - Se till att kontroller skyddar mot ransomware och stöder snabb, trygg återställning av kliniska system.
+      - Balansera säkerhet mot klinisk användbarhet, tillsammans med kliniska ledare, i fråga om åtkomst och autentisering.
+      - Ge cybersäkerhetschefen råd om teknisk risk och investeringar.
+      - Leda och utveckla säkerhetsingenjörer.
+    qualifications:
+      - Omfattande erfarenhet av att leda säkerhetsutveckling för komplexa tjänster.

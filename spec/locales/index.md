@@ -6,7 +6,9 @@ How this reference is translated, published, and served in more than one languag
 
 | Locale | Name | Direction | Status | Notes |
 | --- | --- | --- | --- | --- |
-| en-001 | English | ltr | Done | Source language, at the unprefixed paths |
+| en-001 | English | ltr | Done | Source language, at the unprefixed paths and, as a copy, under `/en-001/` |
+| en-gb | English (United Kingdom) | ltr | Done | A copy of en-001, for readers in Great Britain, whose spelling the source uses; keep the two in step |
+| en-us | English (United States) | ltr | Done | The English source in American spelling (organization, program, analyze), converted by the rules in `scripts/locales.py`; quotations from the UK GDaD PCF and ESCO stay in British spelling |
 | cy-001 | Cymraeg (y byd) | ltr | Done | A copy of cy-gb, for Welsh readers anywhere; keep the two in step |
 | cy-gb | Cymraeg | ltr | Done | AI-translated, not yet reviewed by a native speaker; terminology follows TermCymru |
 | zh-001 | 中文 | ltr | Done | Simplified Chinese; AI-translated, not yet reviewed by a native speaker; slugs are made from the Chinese titles |
@@ -18,7 +20,22 @@ How this reference is translated, published, and served in more than one languag
 | ar-001 | العربية | rtl | Done | Arabic (Modern Standard Arabic), the first right-to-left locale; AI-translated, not yet reviewed by a native speaker; job titles use the conventional masculine form, which covers everyone; slugs are made from the Arabic titles |
 | bn-001 | বাংলা | ltr | Done | Bengali (standard written Bengali); AI-translated, not yet reviewed by a native speaker; Western digits; slugs are made from the Bengali titles |
 | ru-001 | Русский | ltr | Done | Russian; AI-translated, not yet reviewed by a native speaker; job titles use the conventional masculine form, which covers everyone; slugs are made from the Cyrillic titles |
-| pt-001 | Português | ltr | Next | Portuguese |
+| id-001 | Bahasa Indonesia | ltr | Done | Indonesian; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, which covers everyone; Western digits; slugs are made from the Indonesian titles |
+| ja-jp | 日本語 | ltr | Done | Japanese; AI-translated, not yet reviewed by a native speaker; job titles use the generic form, which covers everyone; Western digits; slugs are made from the Japanese titles |
+| ja-001 | 日本語 (世界) | ltr | Done | Japanese for readers anywhere; a copy of ja-jp; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Japanese titles |
+| ko-kr | 한국어 | ltr | Done | Korean; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Korean titles |
+| ko-001 | 한국어 (세계) | ltr | Done | Korean for readers anywhere; a copy of ko-kr; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Korean titles |
+| sv-se | Svenska | ltr | Done | Swedish; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Swedish titles |
+| sv-001 | Svenska (världen) | ltr | Done | Swedish for readers anywhere; a copy of sv-se; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Swedish titles |
+| nl-nl | Nederlands | ltr | Done | Dutch; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Dutch titles |
+| nl-001 | Nederlands (wereld) | ltr | Done | Dutch for readers anywhere; a copy of nl-nl; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Dutch titles |
+| sw-tz | Kiswahili | ltr | Done | Swahili; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Swahili titles |
+| sw-001 | Kiswahili (dunia) | ltr | Done | Swahili for readers anywhere; a copy of sw-tz; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Swahili titles |
+| vi-vn | Tiếng Việt | ltr | Done | Vietnamese; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Vietnamese titles |
+| vi-001 | Tiếng Việt (thế giới) | ltr | Done | Vietnamese for readers anywhere; a copy of vi-vn; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Vietnamese titles |
+| pt-001 | Português | ltr | Done | Portuguese for readers anywhere; AI-translated, not yet reviewed by a native speaker; job titles use the inclusive or neutral form; Western digits; slugs are made from the Portuguese titles |
+| ur-001 | اردو | rtl | Done | Urdu for readers anywhere, right to left; AI-translated, not yet reviewed by a native speaker; job titles use neutral Urdu forms; Western digits; slugs are made from the Urdu titles |
+| da-001 | Dansk | ltr | Done | Danish for readers anywhere; AI-translated, not yet reviewed by a native speaker; job titles use the generic form; Western digits; slugs are made from the Danish titles |
 
 Every translation is AI-generated and needs a native speaker review; `tasks.md` tracks each review.
 
@@ -31,7 +48,7 @@ A locale code is `<language>-<region>`, in lowercase: a two- or three-letter ISO
 - The region code must be a real ISO 3166 code for a place where the language is spoken: India is `in` (`hi-in`), not `id` (Indonesia); Pakistan is `pk` (`ur-pk`); Great Britain is `gb` (`cy-gb`).
 - The default locale is `en-001`.
 
-A locale code is not the same as a language tag. Each locale also has a BCP 47 tag, in `LOCALE_TAGS` in `roles-skills.github.io/src/lib/locales.ts`, for `<html lang>`, `hreflang`, and screen readers: `en`, `cy`, `cy-GB`, `zh-Hans`, `zh-Hans-CN`, `hi`, `hi-IN`, `es`, `fr`, `ar`, `bn`, `ru`. Use the tag, not the code, wherever a browser or search engine reads the language.
+A locale code is not the same as a language tag. Each locale also has a BCP 47 tag, in `LOCALE_TAGS` in `roles-skills.github.io/src/lib/locales.ts`, for `<html lang>`, `hreflang`, and screen readers: `en`, `en-GB`, `en-US`, `cy`, `cy-GB`, `zh-Hans`, `zh-Hans-CN`, `hi`, `hi-IN`, `es`, `fr`, `ar`, `bn`, `ru`, `id`, `ja`, `ko`. Use the tag, not the code, wherever a browser or search engine reads the language.
 
 ## Directory names
 

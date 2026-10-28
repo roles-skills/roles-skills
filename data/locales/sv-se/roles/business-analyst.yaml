@@ -1,0 +1,65 @@
+summary: >
+  Verksamhetsanalytiker hjälper organisationen att förstå problem i hälso- och sjukvårdstjänster och hitta rätt förändringar för att lösa dem. De analyserar hur kliniska, administrativa och patientvända processer fungerar i dag, definierar användarbehov, verksamhetsbehov och krav och hjälper team att se till att nya digitala tjänster passar verkliga vårdförlopp och ger mätbara nyttor.
+health_context:
+  - Processer korsar organisations- och professionsgränser, så analytiker kartlägger hela vårdförlopp, inklusive överlämningar mellan kliniker, vårdpersonal, patienter och andra organisationer.
+  - Krav bär ofta klinisk risk, så analytiker arbetar med kliniska säkerhetsansvariga för att se till att säkerhetsrelaterade krav fångas, spåras och testas.
+  - Många krav gäller delning av hälsodata mellan system, så analytiker behöver ha god förståelse för standarder för interoperabilitet såsom HL7 FHIR och kliniska terminologier såsom SNOMED CT.
+  - Nyttor i vården handlar ofta om säkerhet, kvalitet, personaltid och patientupplevelse, inte bara kostnad, så analytiker hjälper till att definiera mått som kliniker känner igen.
+levels:
+  - title: Verksamhetsanalytiker (trainee)
+    responsibilities:
+      - Lära sig tekniker för verksamhetsanalys genom strukturerad utbildning, skuggning och handlett arbete.
+      - Föra anteckningar och utkasta processkartor från workshoppar med klinisk och administrativ personal.
+      - Underhålla kravloggar, användarberättelser och spårbarhetsregister under ledning.
+      - Hjälpa till att förbereda testscenarier för användaracceptanstestning.
+      - Följa reglerna för informationsstyrning vid hantering av dokument som innehåller patientinformation.
+    qualifications:
+      - På väg mot en lärlingsutbildning eller kvalifikation inom verksamhetsanalys, eller motsvarande erfarenhet.
+  - title: Junior verksamhetsanalytiker
+    responsibilities:
+      - Kartlägga nuvarande och framtida processer för kliniska och administrativa arbetsflöden, såsom remisser, besök eller hantering av resultat.
+      - Ta fram och skriva krav och användarberättelser för väl avgränsade arbetsmoment.
+      - Samla in data om processers prestation, såsom väntetider eller manuella lösningar, som stöd för analys.
+      - Förbereda och genomföra scenarier för användaracceptanstestning med kliniska och operativa användare.
+      - Lyfta krav som kan påverka patientsäkerheten till teamet och den kliniska säkerhetsansvarige.
+    qualifications:
+      - En examen, en kvalifikation eller lärlingsutbildning inom verksamhetsanalys, eller motsvarande erfarenhet.
+  - title: Verksamhetsanalytiker
+    responsibilities:
+      - Leda analysen för små och medelstora projekt, från problemdefinition till mätning av nyttor.
+      - Genomföra workshoppar med kliniker, vårdpersonal och chefer för att förstå problemområden och komma överens om alternativ.
+      - Modellera vårdförlopp och informationsflöden, inklusive data som utbyts med andra hälso- och vårdsystem.
+      - Definiera säkerhetsrelaterade krav och datakrav och spåra dem genom design, bygge och test.
+      - Bygga nyttokalkyler med mått såsom frigjord personaltid, undvikna fel eller patientupplevelse.
+      - Handleda juniora verksamhetsanalytiker och trainees.
+    qualifications:
+      - En examen eller en erkänd kvalifikation inom verksamhetsanalys, eller motsvarande erfarenhet.
+      - Erfarenhet av verksamhetsanalys i digitala förändringsprojekt.
+  - title: Senior verksamhetsanalytiker
+    responsibilities:
+      - Leda verksamhetsanalys i stora eller komplexa program, såsom ersättning av ett kliniskt system eller omformning av ett vårdförlopp.
+      - Analysera alternativ och deras effekt på vård, säkerhet, personalens arbetsbelastning och kostnad, och presentera rekommendationer för styrelser.
+      - Se till att klinisk risk, informationsstyrning och konsekvenser för likabehandling analyseras och hanteras i kraven.
+      - Definiera och följa upp förändringens nyttor och fastställa hur de ska mätas efter driftsättning.
+      - Ha linjeansvar för eller leda verksamhetsanalytiker och driva aktiviteter i praktikgemenskapen.
+    qualifications:
+      - Betydande erfarenhet av verksamhetsanalys i komplex förändring, på en nivå motsvarande en masterexamen.
+  - title: Ledande verksamhetsanalytiker
+    responsibilities:
+      - Leda analys av mycket komplexa problem som spänner över flera produkter, tjänster eller organisationer i ett vårdsystem.
+      - Forma affärscaset och planen för nyttorealisering för större investeringar.
+      - Fastställa standarder för verksamhetsanalys, såsom spårbarhet av krav för säkerhetsrelaterad och reglerad programvara.
+      - Arbeta med kliniska ledare, arkitekter och produktansvariga för att samordna analysen med organisationens strategi.
+      - Ha linjeansvar för verksamhetsanalytiker och leda deras yrkesmässiga utveckling.
+    qualifications:
+      - Omfattande erfarenhet av att leda verksamhetsanalys i komplex förändring med flera team.
+  - title: Chef för verksamhetsanalys
+    responsibilities:
+      - Leda funktionen för verksamhetsanalys och fastställa dess strategi, standarder och arbetssätt.
+      - Bygga förmåga inom verksamhetsanalys, inklusive rekrytering, karriärvägar och utbildning.
+      - Ge ledningen och kliniska ledare råd om den analys som behövs för större omställning inom hälso- och sjukvården.
+      - Se till att nyttorealisering planeras, mäts och rapporteras över portföljen.
+      - Förvalta funktionens budget och bemanningsplan.
+    qualifications:
+      - Omfattande erfarenhet av att leda en funktion eller praktik för verksamhetsanalys.
+    job_evaluation_notes: Informationsresurser poängsätts på nivå 6 eftersom chefen för verksamhetsanalys äger de organisationsövergripande standarderna för hur krav, processmodeller och nyttoregister hålls i allt förändringsarbete.

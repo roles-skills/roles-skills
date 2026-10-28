@@ -9,12 +9,12 @@
 
 ## Summary
 
-Procurement officers help the organization buy the goods and services it needs, lawfully and at good value, from routine purchases to formal tenders. In a digital health care organization much of this spending is on software, cloud services, licences, devices, and technology services, so they work closely with digital, information governance, and clinical safety colleagues as well as with budget holders.
+Procurement officers help the organization buy the goods and services it needs, lawfully and at good value, from routine purchases to formal tenders. In a digital health care organization much of this spending is on software, cloud services, licenses, devices, and technology services, so they work closely with digital, information governance, and clinical safety colleagues as well as with budget holders.
 
 ## In a digital health care organization
 
 - Public procurement rules apply to the organization's spending, so every purchase must follow the right route, keep a clear audit trail, and treat suppliers fairly.
-- Many purchases are digital, such as software licences, cloud subscriptions, and devices, and need security, data protection, and clinical safety checks before contract.
+- Many purchases are digital, such as software licenses, cloud subscriptions, and devices, and need security, data protection, and clinical safety checks before contract.
 - Suppliers of clinical systems can hold patient data, so contracts need clear terms on data protection, data ownership, and data return.
 - Buying through frameworks and dynamic purchasing systems built for the public sector can save time, but call-offs must still follow each framework's rules.
 - Public spending must show value for money and social value, such as local jobs, skills, and lower carbon.
@@ -37,14 +37,14 @@ Provides purchasing and administrative support, following set procedures, with a
 - Raise and amend purchase orders in the purchasing system, checking them against contracts and approvals.
 - Resolve routine invoice and receipting queries with suppliers, budget holders, and finance.
 - Get quotes for low-value purchases following the organization's rules.
-- Keep supplier records, catalogues, and the contract register up to date.
+- Keep supplier records, catalogs, and the contract register up to date.
 - Answer routine questions from staff about how to buy.
 
 ### Skills
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Purchase to pay](../../skills/#purchase-to-pay) | This reference | Working | You can:<br>• create and amend purchase orders and check them against contracts<br>• resolve invoice, receipting, and payment queries with suppliers and finance<br>• maintain catalogues and supplier records in the purchasing system |
+| [Purchase to pay](../../skills/#purchase-to-pay) | This reference | Working | You can:<br>• create and amend purchase orders and check them against contracts<br>• resolve invoice, receipting, and payment queries with suppliers and finance<br>• maintain catalogs and supplier records in the purchasing system |
 | [Procurement process](../../skills/#procurement-process) | This reference | Awareness | You can:<br>• explain the stages of a procurement and the thresholds that apply<br>• get quotes for low-value purchases following the organization's rules |
 | [Public procurement rules and policy](../../skills/#public-procurement-rules-and-policy) | This reference | Awareness | You can:<br>• explain that public money must be spent fairly, openly, and lawfully<br>• follow the organization's thresholds and approval rules |
 | [Contract management](../../skills/#contract-management) | This reference | Awareness | You can:<br>• find a contract and explain its key dates, value, and owner<br>• record contract changes and documents in the contract register |
@@ -71,8 +71,8 @@ Provides purchasing and administrative support, following set procedures, with a
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 3 | 60 |
-| 3 | Analytical and judgemental skills | 2 | 15 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 2 | 15 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 1 | 5 |
@@ -91,12 +91,12 @@ Financial resources is level 2 because the job raises and amends orders that com
 
 ## Band 4: Buyer
 
-Buys goods and services through quotations and framework call-offs, including standard software, devices, and licences, within set procedures.
+Buys goods and services through quotations and framework call-offs, including standard software, devices, and licenses, within set procedures.
 
 ### Responsibilities
 
 - Run quotations and further competitions under frameworks, using standard templates and the e-tendering system.
-- Buy standard software, devices, and licences, tracking renewals and license numbers.
+- Buy standard software, devices, and licenses, tracking renewals and license numbers.
 - Check that standard security, data protection, and accessibility requirements are included before purchase.
 - Negotiate prices and terms for routine purchases.
 - Keep a clear audit trail and publish contract award notices where the rules need them.
@@ -109,7 +109,7 @@ Buys goods and services through quotations and framework call-offs, including st
 | [Procurement process](../../skills/#procurement-process) | This reference | Working | You can:<br>• run quotations and call-offs from frameworks using standard templates<br>• prepare tender documents and manage clarification questions on the e-tendering system<br>• keep a clear audit trail of each procurement |
 | [Purchase to pay](../../skills/#purchase-to-pay) | This reference | Practitioner | You can:<br>• run the purchase to pay process for a service, monitoring compliance and backlogs<br>• analyze spend data to find off-contract spend and savings<br>• improve the process and controls with finance colleagues |
 | [Public procurement rules and policy](../../skills/#public-procurement-rules-and-policy) | This reference | Working | You can:<br>• apply the procurement rules that fit a straightforward purchase<br>• publish notices and keep records that meet transparency rules<br>• spot when a request risks breaking the rules and raise it |
-| [Technology and cloud procurement](../../skills/#technology-and-cloud-procurement) | This reference | Working | You can:<br>• buy standard software, hardware, and licences through frameworks<br>• track license numbers, renewals, and true-up dates<br>• include standard security and data protection requirements in documents |
+| [Technology and cloud procurement](../../skills/#technology-and-cloud-procurement) | This reference | Working | You can:<br>• buy standard software, hardware, and licenses through frameworks<br>• track license numbers, renewals, and true-up dates<br>• include standard security and data protection requirements in documents |
 | [Commercial negotiation](../../skills/#commercial-negotiation) | This reference | Working | You can:<br>• negotiate prices and terms for low-value or routine purchases<br>• prepare data and options for a negotiation led by others |
 | [Market analysis and engagement](../../skills/#market-analysis-and-engagement) | This reference | Awareness | You can:<br>• find suppliers on frameworks and supplier databases<br>• explain why early market engagement must be fair to all suppliers |
 | [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Awareness | You can:<br>• clearly describe the value of your work<br>• determine or estimate the benefits your work is expected to deliver<br>• identify opportunities for reuse, saving time and money |
@@ -135,8 +135,8 @@ Buys goods and services through quotations and framework call-offs, including st
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -174,11 +174,11 @@ Runs procurements of moderate value and complexity, including formal tenders, fr
 | [Procurement process](../../skills/#procurement-process) | This reference | Practitioner | You can:<br>• plan and lead complex tenders, choosing the right route to market and procedure<br>• help users write outcome-based specifications for digital and clinical systems<br>• manage timetables, risks, and stakeholders through to contract award |
 | [Tender evaluation](../../skills/#tender-evaluation) | This reference | Working | You can:<br>• check bids for compliance and completeness<br>• support evaluators and record scores and moderation notes<br>• prepare price evaluation models under guidance |
 | [Public procurement rules and policy](../../skills/#public-procurement-rules-and-policy) | This reference | Working | You can:<br>• apply the procurement rules that fit a straightforward purchase<br>• publish notices and keep records that meet transparency rules<br>• spot when a request risks breaking the rules and raise it |
-| [Technology and cloud procurement](../../skills/#technology-and-cloud-procurement) | This reference | Working | You can:<br>• buy standard software, hardware, and licences through frameworks<br>• track license numbers, renewals, and true-up dates<br>• include standard security and data protection requirements in documents |
+| [Technology and cloud procurement](../../skills/#technology-and-cloud-procurement) | This reference | Working | You can:<br>• buy standard software, hardware, and licenses through frameworks<br>• track license numbers, renewals, and true-up dates<br>• include standard security and data protection requirements in documents |
 | [Market analysis and engagement](../../skills/#market-analysis-and-engagement) | This reference | Working | You can:<br>• gather market information, prices, and supplier details for a requirement<br>• run a request for information and summarize the responses |
 | [Commercial negotiation](../../skills/#commercial-negotiation) | This reference | Working | You can:<br>• negotiate prices and terms for low-value or routine purchases<br>• prepare data and options for a negotiation led by others |
 | [Social value and sustainable procurement](../../skills/#social-value-and-sustainable-procurement) | This reference | Working | You can:<br>• include standard social value and sustainability questions in tenders<br>• collect social value reports from suppliers |
-| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Working | You can:<br>• estimate the value of each item on your roadmap<br>• compare effort to value when deciding priorities<br>• decide when it's appropriate to reuse something, and when it's not<br>• decide how and when to escalate risk in achieving value<br>• discuss estimates with stakeholders to validate understanding<br>• analyze the benefit of investment against anticipated outcomes |
+| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Working | You can:<br>• estimate the value of each item on your roadmap<br>• compare effort to value when deciding priorities<br>• decide when it's appropriate to reuse something, and when it's not<br>• decide how and when to escalate risk in achieving value<br>• discuss estimates with stakeholders to validate understanding<br>• analyse the benefit of investment against anticipated outcomes |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Working | You can:<br>• identify important stakeholders and communicate with them clearly and regularly<br>• tailor communication to stakeholders' needs and work with them to build relationships while meeting user needs<br>• build and reach consensus with stakeholders<br>• work to improve stakeholder relationships using evidence to explain decisions |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
 
@@ -201,8 +201,8 @@ Runs procurements of moderate value and complexity, including formal tenders, fr
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -242,7 +242,7 @@ Leads complex procurements, such as clinical systems, cloud services, and techno
 | [Market analysis and engagement](../../skills/#market-analysis-and-engagement) | This reference | Practitioner | You can:<br>• analyze a supply market, its competition, risks, and trends<br>• lead early market engagement, such as supplier days, without distorting competition<br>• use market evidence to shape requirements and commercial models |
 | [Commercial negotiation](../../skills/#commercial-negotiation) | This reference | Practitioner | You can:<br>• plan and lead negotiations, setting objectives, limits, and fallback positions<br>• negotiate contract variations, renewals, and settlement of disputes<br>• keep negotiations lawful and well recorded |
 | [Social value and sustainable procurement](../../skills/#social-value-and-sustainable-procurement) | This reference | Practitioner | You can:<br>• set social value and sustainability criteria that fit the contract<br>• manage supplier commitments, such as local jobs, skills, and carbon reduction<br>• check supply chains for risks such as forced labor and other human rights abuses |
-| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Practitioner | You can:<br>• advocate for user needs, ensuring user value is balanced against cost and value for the organization<br>• determine the benefit of a product and persuade others it's the right product to use<br>• write or contribute to business cases<br>• communicate business-value propositions<br>• help others make value-based decisions, influencing the direction of development |
+| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Practitioner | You can:<br>• advocate for user needs, ensuring user value is balanced against cost and value for the organisation<br>• determine the benefit of a product and persuade others it's the right product to use<br>• write or contribute to business cases<br>• communicate business-value propositions<br>• help others make value-based decisions, influencing the direction of development |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Practitioner | You can:<br>• work with the team to develop and maintain an understanding of stakeholders<br>• work with the team to develop and implement stakeholder communications strategies<br>• identify and resolve issues, influence stakeholders and manage relationships effectively<br>• build long-term strategic relationships and communicate clearly and regularly with stakeholders |
 | [People management](../../skills/#people-management) | This reference | Working | You can:<br>• supervise day-to-day work and give feedback<br>• take part in recruitment and induction<br>• hold regular one-to-one conversations |
 
@@ -265,8 +265,8 @@ Leads complex procurements, such as clinical systems, cloud services, and techno
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -284,5 +284,5 @@ Leads complex procurements, such as clinical systems, cloud services, and techno
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

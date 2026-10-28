@@ -1,0 +1,423 @@
+# Swahili translations of data/skills/shared.yaml. Keys are the English skill ids.
+health-care-context:
+  name: Kuelewa huduma za afya na matunzo
+  description: Kuelewa jinsi huduma za afya na matunzo zinavyopangwa na kutolewa, jinsi madaktari na wafanyakazi wa matunzo wanavyofanya kazi, na jinsi huduma za kidijitali zinavyosaidia matunzo ya wagonjwa.
+  levels:
+    awareness: |
+      Unaweza:
+      - kuelezea sehemu kuu za mfumo wa afya na matunzo na huduma ambazo taasisi inaziunga mkono
+      - kueleza kwa nini usalama wa mgonjwa na usiri ni muhimu katika kazi yako
+    working: |
+      Unaweza:
+      - kueleza mtiririko wa kazi za kitabibu na matunzo ambazo kazi yako inaziunga mkono
+      - kutumia istilahi za kawaida za afya kwa usahihi na wenzako wa kitabibu na matunzo
+      - kutambua ni lini mabadiliko yanaweza kuathiri matunzo ya wagonjwa na kuyaibua
+    practitioner: |
+      Unaweza:
+      - kuchambua jinsi huduma inavyolingana na njia za matunzo katika taasisi mbalimbali
+      - kufanya kazi na madaktari, wafanyakazi wa matunzo na wagonjwa kuunda huduma za kidijitali
+      - kueleza athari za maamuzi ya kidijitali kwa matunzo, usalama na mzigo wa kazi wa wafanyakazi
+    expert: |
+      Unaweza:
+      - kuunda mkakati wa taasisi kwa kutumia uelewa wa kina wa mfumo wa afya na matunzo
+      - kuiwakilisha taasisi kwa washirika na viongozi wa afya na matunzo
+      - kutarajia jinsi sera na mabadiliko ya huduma yatakavyoathiri huduma za kidijitali na matunzo
+clinical-safety:
+  name: Usimamizi wa hatari za kitabibu
+  description: Kutambua, kutathmini na kudhibiti hatari ambazo mifumo ya TEHAMA ya afya inaweza kuwaletea wagonjwa, kupitia mchakato wa usimamizi wa hatari za kitabibu, kumbukumbu za hatari na hoja za usalama (kwa mfano kwa kufuata ISO 14971 na IEC 80001-1).
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza jinsi mifumo ya TEHAMA ya afya inavyoweza kuwadhuru wagonjwa, kwa mfano kupitia taarifa zisizo sahihi, zinazokosekana au zilizochelewa
+      - kuripoti tatizo linalowezekana la usalama wa kitabibu kupitia njia sahihi
+    working: |
+      Unaweza:
+      - kushiriki katika warsha za hatari na kuchangia kumbukumbu ya hatari
+      - kufuata mchakato wa usimamizi wa hatari za kitabibu kwa kazi yako
+      - kutoa ushahidi kwa hoja ya usalama wa kitabibu, kama vile matokeo ya majaribio
+    practitioner: |
+      Unaweza:
+      - kuongoza utambuzi wa hatari na tathmini ya hatari kwa bidhaa au mabadiliko
+      - kuandika na kutunza kumbukumbu za hatari na ripoti za hoja za usalama wa kitabibu
+      - kukubaliana udhibiti wa hatari na timu za bidhaa na kukagua kama unafanya kazi
+      - kushauri timu kuhusu kutumia viwango vya usimamizi wa hatari za kitabibu
+    expert: |
+      Unaweza:
+      - kumiliki mfumo wa usimamizi wa hatari za kitabibu wa taasisi
+      - kuweka sera ya usalama wa kitabibu na kuhakikisha hoja za usalama kwa mifumo mikubwa
+      - kuongoza majibu kwa matukio makubwa ya usalama yanayohusisha TEHAMA ya afya
+      - kujenga utamaduni wa usalama wa kitabibu katika timu za kidijitali
+health-data-interoperability:
+  name: Ushirikiano wa mifumo ya data za afya
+  description: Kubadilishana data za afya na matunzo kwa usalama na kwa uthabiti kati ya mifumo kwa kutumia viwango huria kama HL7 FHIR, HL7 toleo la 2, wasifu wa IHE na API za kawaida.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini ushirikiano wa mifumo ni muhimu kwa matunzo yaliyounganishwa
+      - kutaja viwango kuu vya kubadilishana data za afya, kama vile HL7 FHIR
+    working: |
+      Unaweza:
+      - kusoma na kutumia rasilimali, wasifu na API za FHIR
+      - kujenga au kujaribu miunganisho rahisi kwa mwongozo
+      - kukagua ujumbe dhidi ya vipimo
+    practitioner: |
+      Unaweza:
+      - kubuni na kujenga miunganisho kwa kutumia FHIR, HL7 toleo la 2 na mifumo ya ujumbe
+      - kuandika na kuunda wasifu wa rasilimali za FHIR na miongozo ya utekelezaji
+      - kutatua masuala tata ya uchoraji ramani na ubora wa data kati ya mifumo
+    expert: |
+      Unaweza:
+      - kuweka viwango na mkakati wa ushirikiano wa mifumo wa taasisi
+      - kuongoza kazi ya viwango vya kitaifa au vya taasisi mbalimbali
+      - kuhakikisha usanifu wa miunganisho muhimu katika mifumo mingi
+clinical-terminology:
+  name: Istilahi za kitabibu na uainishaji
+  description: Kutumia istilahi na uainishaji wa kitabibu, kama vile SNOMED CT, ICD na LOINC, kurekodi na kubadilishana maana ya kitabibu kwa uthabiti.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza tofauti kati ya istilahi za kitabibu na uainishaji
+      - kutambua istilahi za kawaida kama SNOMED CT na ICD
+    working: |
+      Unaweza:
+      - kupata na kutumia misimbo sahihi kwa kipengee cha data au fomu
+      - kutumia vivinjari vya istilahi na seti za marejeleo
+    practitioner: |
+      Unaweza:
+      - kubuni miundo ya data na seti za marejeleo kwa kutumia istilahi za kitabibu
+      - kuchora ramani kati ya istilahi na uainishaji, na kueleza mipaka ya ramani
+      - kushauri timu kuhusu matumizi ya istilahi katika bidhaa na uchanganuzi
+    expert: |
+      Unaweza:
+      - kuweka sera ya istilahi ya taasisi
+      - kuongoza matoleo ya istilahi, usimamizi na uhakikisho wa ubora
+      - kuiwakilisha taasisi katika vyombo vya viwango vya istilahi
+information-governance:
+  name: Usimamizi wa taarifa na ulinzi wa data
+  description: Kushughulikia taarifa binafsi na za afya kihalali, kwa usalama na kimaadili, ikiwemo sheria ya ulinzi wa data, usiri, ridhaa, tathmini za athari za ulinzi wa data na ushirikishaji wa taarifa.
+  levels:
+    awareness: |
+      Unaweza:
+      - kufuata kanuni za taasisi za kushughulikia taarifa binafsi na za afya
+      - kutambua na kuripoti ukiukaji wa data au tukio lililokaribia kutokea
+    working: |
+      Unaweza:
+      - kutumia kanuni za ulinzi wa data kwenye kazi yako
+      - kuchangia tathmini za athari za ulinzi wa data
+      - kushughulikia maombi ya taarifa na kumbukumbu kwa usahihi
+    practitioner: |
+      Unaweza:
+      - kuongoza tathmini za athari za ulinzi wa data na makubaliano ya ushirikishaji wa taarifa
+      - kushauri timu kuhusu msingi halali, ridhaa, usiri na uhifadhi
+      - kuchunguza matukio na kupendekeza maboresho
+    expert: |
+      Unaweza:
+      - kuweka sera na mkakati wa usimamizi wa taarifa
+      - kuishauri bodi kuhusu hatari za taarifa na utiifu
+      - kuiwakilisha taasisi kwa wadhibiti na washirika
+medical-device-regulation:
+  name: Udhibiti wa programu za vifaa tiba
+  description: Kuelewa ni lini programu ni kifaa tiba, na viwango na michakato inayotumika kwake, kama vile IEC 62304 na ISO 13485.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwamba baadhi ya programu za afya zinadhibitiwa kama vifaa tiba
+      - kujua wa kumuuliza pale bidhaa inapoweza kuwa kifaa tiba
+    working: |
+      Unaweza:
+      - kufuata mchakato wa mzunguko wa maisha wa programu unaotimiza viwango vya vifaa tiba
+      - kutengeneza kumbukumbu ambazo mchakato kama huo unahitaji
+    practitioner: |
+      Unaweza:
+      - kutathmini kama bidhaa ni kifaa tiba, na daraja lake linalowezekana
+      - kupanga kazi ya udhibiti kwa bidhaa pamoja na wenzako wa ubora na wa kitabibu
+    expert: |
+      Unaweza:
+      - kuweka mtazamo wa taasisi kuhusu programu zinazodhibitiwa
+      - kuongoza mawasiliano na wadhibiti na mashirika yaliyoteuliwa
+people-management:
+  name: Usimamizi wa watu
+  description: Kuongoza, kuendeleza na kuwasaidia wafanyakazi, ikiwemo uajiri, malengo, tathmini ya utendaji, ustawi, mahudhurio, na kusimamia utendaji na mwenendo kwa haki.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza sera za watu za taasisi zinazokuhusu
+      - kuwasaidia wenzako wapya na kushirikisha maarifa
+    working: |
+      Unaweza:
+      - kusimamia kazi za kila siku na kutoa maoni
+      - kushiriki katika uajiri na utambulisho wa wafanyakazi wapya
+      - kufanya mazungumzo ya mara kwa mara ya mmoja kwa mmoja
+    practitioner: |
+      Unaweza:
+      - kusimamia timu moja kwa moja, ukiweka malengo na kuendesha tathmini za utendaji
+      - kusaidia ustawi na kusimamia mahudhurio, utendaji na mwenendo
+      - kupanga maendeleo ya timu na urithi wa nafasi
+    expert: |
+      Unaweza:
+      - kuongoza mameneja na kuunda utamaduni wa eneo kubwa
+      - kubuni mipango ya nguvu kazi na mabadiliko ya taasisi
+      - kuwaongoza viongozi na kutatua masuala tata ya watu
+equality-diversity-inclusion:
+  name: Usawa, utofauti na ujumuishi
+  description: Kuwatendea watu kwa haki, kuthamini tofauti, na kubuni huduma na maeneo ya kazi yanayomjumuisha kila mtu.
+  levels:
+    awareness: |
+      Unaweza:
+      - kuwatendea wenzako, wagonjwa na umma kwa heshima na utu
+      - kufuata sera za usawa na ujumuishi
+    working: |
+      Unaweza:
+      - kutambua na kupinga tabia inayowatenga wengine
+      - kuzingatia mahitaji tofauti unapopanga kazi yako
+    practitioner: |
+      Unaweza:
+      - kufanya tathmini za athari za usawa
+      - kujenga timu na mazoezi jumuishi
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa ujumuishi na kuiwajibisha taasisi kuuhusu
+      - kuongoza mabadiliko ya utamaduni kuhusu usawa, utofauti na ujumuishi
+health-safety-wellbeing:
+  name: Afya, usalama na ustawi
+  description: Kujiweka wewe na wengine salama na wenye afya kazini, ikiwemo tathmini ya hatari, mazoezi salama ya kazi na kuripoti matukio.
+  levels:
+    awareness: |
+      Unaweza:
+      - kufuata kanuni za afya na usalama na kuripoti hatari na matukio
+    working: |
+      Unaweza:
+      - kufanya tathmini rahisi za hatari, kama vile tathmini za mahali pa kazi
+      - kuwasaidia wenzako kufanya kazi kwa usalama
+    practitioner: |
+      Unaweza:
+      - kusimamia afya na usalama kwa timu au eneo la kazi
+      - kuchunguza matukio na kuweka udhibiti
+    expert: |
+      Unaweza:
+      - kuweka sera ya afya, usalama na ustawi ya taasisi
+      - kuripoti utendaji wa usalama kwa bodi
+budget-management:
+  name: Usimamizi wa bajeti
+  description: Kupanga, kufuatilia na kudhibiti bajeti, ikiwemo utabiri, kusimamia tofauti na kufuata kanuni za fedha.
+  levels:
+    awareness: |
+      Unaweza:
+      - kufuata kanuni za matumizi na kuagiza
+      - kueleza jinsi kazi yako inavyofadhiliwa
+    working: |
+      Unaweza:
+      - kufuatilia matumizi dhidi ya bajeti ndogo na kuibua tofauti
+      - kuidhinisha matumizi ndani ya kikomo chako
+    practitioner: |
+      Unaweza:
+      - kumiliki na kusimamia bajeti, ukitabiri na kueleza tofauti
+      - kujenga hoja ya kibiashara yenye gharama na manufaa
+    expert: |
+      Unaweza:
+      - kusimamia bajeti kubwa au nyingi na kuweka mipango ya fedha
+      - kufanya maridhiano ya ufadhili katika huduma
+project-management:
+  name: Usimamizi wa miradi
+  description: Kupanga, kutoa na kufunga miradi kwa wigo, muda, gharama na ubora uliokubaliwa, kwa kutumia mbinu inayotambuliwa kama PRINCE2, PM² au mbinu za agile.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza hatua za mradi na nafasi kuu ndani yake
+      - kutunza kumbukumbu za mradi kama vile kumbukumbu za hatua
+    working: |
+      Unaweza:
+      - kutunza mipango, kumbukumbu za hatari na masuala, na ripoti
+      - kuendesha mikutano ya mradi na kufuatilia hatua
+      - kusimamia mradi mdogo uliobainishwa vizuri kwa msaada
+    practitioner: |
+      Unaweza:
+      - kusimamia miradi kuanzia mwanzo hadi kufunga, ukidhibiti wigo, muda, gharama na ubora
+      - kusimamia hatari, masuala, utegemezi na udhibiti wa mabadiliko
+      - kuripoti kwa bodi za mradi na kusimamia wasambazaji
+    expert: |
+      Unaweza:
+      - kusimamia miradi mikubwa, tata au yenye hatari kubwa
+      - kuweka viwango vya usimamizi wa miradi na kuwaongoza mameneja wa miradi
+      - kuokoa miradi inayoshindwa
+risk-management:
+  name: Usimamizi wa hatari za taasisi
+  description: Kutambua, kutathmini, kurekodi na kusimamia hatari kwa malengo ya taasisi, kwa kutumia sajili ya hatari na kiwango kilichobainishwa cha kukubali hatari.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza hatari ni nini na jinsi ya kuibua moja
+    working: |
+      Unaweza:
+      - kurekodi na kusasisha hatari za eneo lako
+      - kupendekeza udhibiti na kufuatilia hatua
+    practitioner: |
+      Unaweza:
+      - kuendesha mchakato wa hatari kwa kurugenzi au programu
+      - kutathmini hatari dhidi ya kiwango cha kukubali hatari na kuzipeleka juu
+      - kuripoti hatari kwa kamati
+    expert: |
+      Unaweza:
+      - kubuni mfumo wa usimamizi wa hatari na kiwango cha kukubali hatari cha taasisi
+      - kuishauri bodi kuhusu hatari za kimkakati
+security-operations:
+  name: Uendeshaji wa usalama
+  description: Kufuatilia mifumo kwa vitisho vya usalama, kuchambua tahadhari kwa kipaumbele, kuchunguza matukio na kujibu matukio ya usalama wa mtandao, kwa kutumia zana kama SIEM na ugunduzi wa vifaa vya mwisho.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza vitisho vya kawaida vya mtandao kama vile ulaghai wa barua pepe na programu za kutaka fidia
+      - kuripoti tukio linalodhaniwa la usalama
+    working: |
+      Unaweza:
+      - kufuatilia tahadhari na kuzichambua kwa kipaumbele ukitumia miongozo ya uendeshaji
+      - kukusanya ushahidi na kupeleka matukio juu
+      - kurekebisha kanuni rahisi za ugunduzi kwa mwongozo
+    practitioner: |
+      Unaweza:
+      - kuchunguza na kudhibiti matukio ya usalama
+      - kuandika kanuni za ugunduzi na uwindaji wa vitisho
+      - kuboresha miongozo ya uendeshaji na zana baada ya matukio
+    expert: |
+      Unaweza:
+      - kuongoza huduma ya uendeshaji wa usalama na mkakati wake
+      - kuongoza majibu kwa matukio makubwa ya usalama wa mtandao
+      - kufanya kazi na mashirika ya usalama ya kitaifa na washirika
+vulnerability-management:
+  name: Usimamizi wa udhaifu
+  description: Kutafuta, kutathmini, kuweka vipaumbele na kurekebisha udhaifu wa kiufundi, ikiwemo kuchanganua, majaribio ya kupenya na kuweka marekebisho ya usalama.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini kuweka marekebisho ya usalama haraka na usanidi salama ni muhimu
+    working: |
+      Unaweza:
+      - kuendesha uchanganuzi wa udhaifu na kuripoti matokeo
+      - kufuatilia marekebisho pamoja na wamiliki wa mifumo
+    practitioner: |
+      Unaweza:
+      - kuweka vipaumbele vya udhaifu kwa hatari, ikiwemo kwa huduma za wagonjwa
+      - kubainisha wigo na kusimamia majaribio ya kupenya na urekebishaji
+    expert: |
+      Unaweza:
+      - kuweka sera ya usimamizi wa udhaifu na malengo yake
+      - kuripoti hatari za kiufundi za usalama kwa viongozi wakuu
+identity-and-access-management:
+  name: Usimamizi wa utambulisho na ufikiaji
+  description: Kusimamia utambulisho wa kidijitali, uthibitishaji na haki za ufikiaji kwa wafanyakazi, wagonjwa na mifumo, ikiwemo ufikiaji unaotegemea nafasi na uthibitishaji kwa kadi mahiri au vipengele vingi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kufuata kanuni za ufikiaji na kulinda vitambulisho vyako
+    working: |
+      Unaweza:
+      - kuunda, kubadilisha na kuondoa akaunti za watumiaji na haki za ufikiaji
+      - kukagua ufikiaji dhidi ya kanuni za ufikiaji zinazotegemea nafasi
+    practitioner: |
+      Unaweza:
+      - kubuni na kuendesha huduma za utambulisho na ufikiaji
+      - kukagua ufikiaji mara kwa mara na kurekebisha matatizo
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa utambulisho na ufikiaji kwa wafanyakazi, wagonjwa na mifumo
+      - kuongoza kupitishwa kwa viwango vipya vya utambulisho
+data-quality:
+  name: Usimamizi wa ubora wa data
+  description: Kufafanua, kupima na kuboresha ubora wa data, ikiwemo ukamilifu, usahihi, wakati unaofaa na uhalali.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini data sahihi za afya ni muhimu kwa matunzo na mipango
+      - kurekodi data kwa usahihi na kuripoti makosa
+    working: |
+      Unaweza:
+      - kuendesha ukaguzi wa ubora wa data na kusahihisha makosa
+      - kueleza ripoti za ubora wa data kwa wenzako
+    practitioner: |
+      Unaweza:
+      - kufafanua kanuni na vipimo vya ubora wa data
+      - kufanya kazi na watoa data kurekebisha visababishi vya ubora duni
+    expert: |
+      Unaweza:
+      - kuweka viwango vya ubora wa data kwa taasisi na washirika wake
+      - kuongoza programu za kuboresha ubora wa data
+health-records-management:
+  name: Usimamizi wa kumbukumbu za afya
+  description: Kusimamia kumbukumbu za afya na matunzo katika mzunguko wake wa maisha, ikiwemo kuunda, kuhifadhi, kufuatilia, ufikiaji, uhifadhi wa muda na uondoaji.
+  levels:
+    awareness: |
+      Unaweza:
+      - kuhifadhi, kupata na kufuatilia kumbukumbu kwa usahihi
+      - kulinda kumbukumbu dhidi ya kupotea au ufikiaji usioidhinishwa
+    working: |
+      Unaweza:
+      - kuchakata maombi ya ufikiaji wa kumbukumbu
+      - kutumia ratiba za uhifadhi na viwango vya utunzaji wa kumbukumbu
+    practitioner: |
+      Unaweza:
+      - kusimamia huduma ya kumbukumbu na taratibu zake
+      - kukagua utunzaji wa kumbukumbu na kuwafunza wafanyakazi
+    expert: |
+      Unaweza:
+      - kuweka sera na mkakati wa usimamizi wa kumbukumbu
+      - kuongoza mpito kutoka kumbukumbu za karatasi hadi za kidijitali
+clinical-coding:
+  name: Uwekaji misimbo ya kitabibu
+  description: Kutafsiri taarifa za kitabibu kutoka kwenye kumbukumbu za afya kuwa misimbo ya kawaida ya uainishaji, kwa kufuata kanuni za kitaifa na za kimataifa za uwekaji misimbo, kwa matunzo, malipo na takwimu.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza uwekaji misimbo ya kitabibu ni nini na kwa nini ni muhimu
+      - kutumia istilahi za msingi za kitabibu na anatomia
+    working: |
+      Unaweza:
+      - kuweka misimbo kwa visa rahisi kwa usahihi, ukitumia kanuni za uainishaji
+      - kuuliza madaktari kuhusu kumbukumbu zisizo wazi
+    practitioner: |
+      Unaweza:
+      - kuweka misimbo kwa visa tata katika taaluma mbalimbali
+      - kukagua ubora wa uwekaji misimbo na kuwafunza waweka misimbo
+    expert: |
+      Unaweza:
+      - kuongoza huduma ya uwekaji misimbo na programu yake ya ubora
+      - kushauri kuhusu viwango vya uwekaji misimbo na athari zake kwa data na ufadhili
+clinical-leadership-in-digital:
+  name: Uongozi wa kitabibu katika kidijitali
+  description: Kuleta maarifa ya kitabibu na uaminifu katika usanifu, kupitishwa na matumizi salama ya huduma za kidijitali, na kuwaongoza madaktari kupitia mabadiliko ya kidijitali.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza jinsi huduma za kidijitali zinavyobadilisha mazoezi ya kitabibu
+    working: |
+      Unaweza:
+      - kutoa mchango wa kitabibu kwa timu za bidhaa kuhusu mtiririko wa kazi na usalama
+      - kuwasaidia wenzako wa kitabibu kupitisha mifumo mipya
+    practitioner: |
+      Unaweza:
+      - kuongoza ushirikishaji wa kitabibu kwa bidhaa au programu
+      - kugeuza mahitaji na ushahidi wa kitabibu kuwa mahitaji ya mfumo
+      - kuhimiza kupitishwa kwa usalama miongoni mwa wenzako wa kitabibu
+    expert: |
+      Unaweza:
+      - kuweka mwelekeo wa kitabibu wa huduma za kidijitali za taasisi
+      - kuongoza viongozi wa kitabibu katika taasisi mbalimbali kupitia mabadiliko ya kidijitali
+      - kuishauri bodi kuhusu hatari na manufaa ya kitabibu ya uwekezaji wa kidijitali
+governance-and-compliance:
+  name: Usimamizi wa kampuni na utiifu
+  description: Kusaidia usimamizi wa taasisi — bodi, kamati, kanuni za kudumu, sera, matamko ya maslahi, na utiifu wa wajibu wa kisheria na wa udhibiti.
+  levels:
+    awareness: |
+      Unaweza:
+      - kufuata sera za taasisi na kanuni za kufanya maamuzi
+    working: |
+      Unaweza:
+      - kusaidia mikutano ya kamati, nyaraka na muhtasari wa vikao
+      - kuweka madaftari ya usimamizi yakiwa ya kisasa
+    practitioner: |
+      Unaweza:
+      - kuendesha mzunguko wa usimamizi wa bodi na kamati
+      - kukagua sera na kushauri kuhusu utiifu
+    expert: |
+      Unaweza:
+      - kubuni mfumo wa usimamizi na kuishauri bodi
+      - kuongoza ripoti za usimamizi za kila mwaka na uhakikisho

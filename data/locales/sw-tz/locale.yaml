@@ -1,0 +1,73 @@
+# Swahili (Tanzania). Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Quotations from the UK GDaD PCF and ESCO stay
+# in English. Job titles use the generic form, which covers everyone. Slugs
+# are made from the Swahili titles.
+code: sw-tz
+name: Kiswahili
+english_name: Swahili
+dir: ltr
+complete: true
+paths:
+  roles: majukumu
+  families: familia-za-kazi
+  bands: madaraja
+  skills: ujuzi
+  job-evaluation: tathmini-ya-kazi
+  about: kuhusu-marejeleo-haya
+strings:
+  disclaimer: "Hii ni wasifu wa marejeleo wa kielelezo kwa taasisi ya kawaida ya huduma za afya na matunzo ya kidijitali. Si maelezo rasmi ya kazi kwa mwajiri yeyote, na alama za tathmini ya kazi si tathmini rasmi."
+  translation_note: "Tafsiri hii ilifanywa kutoka Kiingereza na msaidizi wa akili bandia na bado haijakaguliwa na mzungumzaji asilia. Nukuu kutoka UK GDaD PCF (Mfumo wa Uwezo wa Taaluma ya Kidijitali na Data wa Serikali ya Uingereza) na ESCO zinabaki kwa Kiingereza."
+  home_title: Faharasa ya majukumu
+  home_lede: "Anza kwa kutafuta familia ya kazi iliyo karibu zaidi na kazi yako, kisha jukumu, kisha daraja."
+  roles_title: Majukumu yote
+  bands_title: Majukumu kwa daraja
+  skills_title: Ujuzi
+  skills_lede: "Kila ujuzi una viwango vinne vya ustadi: Uelewa (1), Utendaji (2), Mtaalamu (3) na Bingwa (4). Ujuzi kutoka UK GDaD PCF unanukuliwa kwa Kiingereza kutoka chanzo asili. Ujuzi mwingine ni wa kipekee kwa marejeleo haya."
+  pcf_title: Majukumu kwa jukumu la UK GDaD PCF
+  esco_title: Majukumu kwa taaluma ya ESCO
+  role: Jukumu
+  roles: Majukumu
+  family: Familia
+  band: Daraja
+  bands: Madaraja
+  title: Cheo
+  role_level: Ngazi ya jukumu
+  skill: Ujuzi
+  source: Chanzo
+  expected_level: Kiwango kinachotarajiwa
+  level_meaning: Kiwango hiki kinamaanisha nini
+  factor: Kigezo
+  level: Kiwango
+  points: Alama
+  total: Jumla
+  summary: Muhtasari
+  health_context: Katika taasisi ya huduma za afya na matunzo ya kidijitali
+  pcf_role: Jukumu la UK GDaD PCF
+  pcf_role_none: "hakuna (marejeleo haya yanafafanua jukumu)"
+  pcf_role_description: Maelezo ya jukumu la UK GDaD PCF (asili ya Kiingereza)
+  pcf_level: Kiwango cha UK GDaD PCF
+  civil_service_grades: Madaraja ya Utumishi wa Umma
+  esco_occupations: Taaluma za ESCO
+  role_levels: Ngazi za jukumu
+  job_evaluation_points: Alama za tathmini ya kazi
+  responsibilities: Majukumu
+  skills: Ujuzi
+  qualifications: Sifa na uzoefu wa kawaida
+  band_outline: Muhtasari wa daraja
+  knowledge: Maarifa
+  autonomy: Uhuru wa kutenda
+  scope: Wigo
+  leadership: Uongozi
+  accountability: Uwajibikaji
+  job_evaluation: Tathmini ya kazi (ya kielelezo)
+  source_pcf: UK GDaD PCF
+  source_reference: Marejeleo haya
+  used_in: "Inatumika katika ngazi {n} za jukumu."
+  awareness: Uelewa
+  working: Utendaji
+  practitioner: Mtaalamu
+  expert: Bingwa
+  sfia_level: Kiwango cha SFIA
+  esco_occupation: Taaluma ya ESCO
+  pcf_family: Familia ya PCF
+  roles_in_reference: Majukumu katika marejeleo haya

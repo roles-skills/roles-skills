@@ -1,0 +1,52 @@
+summary: Unternehmensarchitektinnen und -architekten geben der Organisation ein zusammenhängendes Bild ihrer Dienste, Informationen, Anwendungen und Technologie und nutzen es, um die Gesundheits- und Pflegestrategie in einen kohärenten Plan für Veränderung zu übersetzen. Sie setzen Architekturprinzipien, Standards und Roadmaps, leiten Investitionsentscheidungen an und stellen sicher, dass digitaler Wandel eine sichere, vernetzte Versorgung der Patientinnen und Patienten über Organisationen hinweg unterstützt.
+health_context:
+- Versorgungspfade überschreiten viele Organisationen und Systeme; die Architektur muss daher den Austausch von Akten, Befunden und Überweisungen über Grenzen hinweg unterstützen.
+- Der Bestand umfasst oft langlebige klinische Systeme, Medizinprodukte und Anbieterverträge, die schwer zu ändern sind; Roadmaps müssen Übergänge daher sorgfältig planen.
+- Architekturentscheidungen beeinflussen Patientensicherheit, Privatsphäre und die Resilienz von Diensten, die rund um die Uhr laufen.
+- Offene Standards wie HL7 FHIR, SNOMED CT und IHE-Profile sind der Schlüssel, um Abhängigkeiten zu vermeiden und Interoperabilität zu ermöglichen.
+- Finanzierung ist begrenzt und wird genau geprüft; Architektinnen und Architekten müssen daher ein gutes Preis-Leistungs-Verhältnis und die Wiederverwendung gemeinsamer Plattformen zeigen, wo es sie gibt.
+levels:
+- title: Unternehmensarchitekt/in
+  responsibilities:
+  - Aktuelle und angestrebte Dienste, Informationen, Anwendungen und Technologie der Organisation für eine Domäne, etwa Diagnostik oder Gemeindeversorgung, modellieren.
+  - Das Architektur-Repository aktuell halten, einschließlich Katalogen von Anwendungen und Datenflüssen.
+  - Vorschläge anhand von Architekturprinzipien und -standards prüfen und Design-Gremien Empfehlungen geben.
+  - Erkennen, wo Systeme Fähigkeiten doppeln oder auf nicht mehr unterstützter Technologie beruhen, und die Risiken ansprechen.
+  - Mit Lösungsarchitektinnen, -architekten und klinischen Leitungen verstehen, wie Versorgungspfade Systeme nutzen.
+  - Lösungsarchitektinnen und -architekten dazu anleiten, wie Entwürfe in die Domänenarchitektur passen.
+  qualifications:
+  - Umfangreiche Erfahrung in Architektur, Analyse oder technischem Entwurf in einer komplexen Organisation, auf einem Niveau, das einem Masterabschluss entspricht.
+  - Kenntnis eines Rahmens der Unternehmensarchitektur, etwa TOGAF, oder gleichwertige Erfahrung.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 6): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 8a. Wissen, Analyse, Planung, Richtlinien und Handlungsfreiheit werden auf dem Profil der Entgeltgruppe 8a bewertet, weil die Stelle Zielarchitekturen gestaltet und Design-Gremien für eine ganze Domäne berät.'
+- title: Senior-Unternehmensarchitekt/in
+  responsibilities:
+  - Zielarchitekturen und Übergangs-Roadmaps für eine oder mehrere Domänen der Organisation entwickeln.
+  - Wirtschaftlichkeitsbetrachtungen so gestalten, dass Investitionen zur Zielarchitektur passen und gemeinsame Plattformen wiederverwenden.
+  - Architektur-Reviews in Design-Gremien leiten und zu bedeutenden Vorschlägen Empfehlungen geben.
+  - Den Ersatz oder die Stilllegung klinischer und betrieblicher Altsysteme planen, einschließlich Datenmigration und Sicherheitsrisiken.
+  - Sicherstellen, dass Anforderungen an Interoperabilität, Sicherheit und Informationsgovernance in Roadmaps eingebaut sind.
+  - Unternehmens- und Lösungsarchitektinnen und -architekten anleiten und leiten.
+  qualifications:
+  - Umfassende Erfahrung in Unternehmens- oder Lösungsarchitektur über mehrere Domänen.
+  - Kenntnis eines Rahmens der Unternehmensarchitektur, etwa TOGAF, oder gleichwertige Erfahrung.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 7): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 8b. Planung liegt auf Stufe 5 für langfristige Roadmaps mit Auswirkungen auf die gesamte Organisation; Wissen liegt auf Stufe 8 für Wissen über Geschäfts-, Informations-, Anwendungs- und Technologiearchitektur.'
+- title: Leitende/r Unternehmensarchitekt/in
+  responsibilities:
+  - Die Unternehmensarchitektur für einen wichtigen Teil der Organisation, etwa klinische Systeme oder gemeinsame Infrastruktur, verantworten.
+  - Das Architektur-Design-Gremium leiten oder ihm vorsitzen und die Standards festlegen, die Projekte erfüllen müssen.
+  - Direktorinnen und Direktoren zu Investitionsprioritäten, Anbieterstrategie und Technologierisiken beraten.
+  - Mit Partnerorganisationen Architekturen über Versorgungspfade und gemeinsame Akten hinweg abstimmen.
+  - Unternehmensarchitektinnen und -architekten führen und entwickeln und die Fachcommunity der Architektur ausbauen.
+  qualifications:
+  - Umfassende Erfahrung in Unternehmensarchitektur in einer komplexen Organisation.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 8b): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 8c. Die Informationsressourcen liegen auf Stufe 6, weil die Stelle die Architektur von Informationssystemen über einen wichtigen Teil der Organisation steuert; Richtlinien und Menschen liegen über dem Profil der Entgeltgruppe 8b, weil sie Standards für alle Projekte setzt und Unternehmensarchitektinnen und -architekten führt.'
+- title: Principal-Unternehmensarchitekt/in
+  responsibilities:
+  - Vision, Prinzipien und Strategie der Organisation für Unternehmensarchitektur im Einklang mit ihrer Gesundheits- und Pflegestrategie festlegen.
+  - Geschäftsleitung und Vorstand zu Architektur, Risiken und Wert großer digitaler Investitionen beraten.
+  - Die Architekturpraxis, die Governance und die Standards der Organisation leiten.
+  - Die Organisation in organisationsübergreifenden Foren für Architektur und Interoperabilität vertreten.
+  - Architekturfähigkeiten in der Organisation aufbauen, einschließlich Personalgewinnung und Karrierewegen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Unternehmensarchitektur über Organisationen hinweg.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 8c): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 8d. Richtlinien und Handlungsfreiheit liegen auf Stufe 6, weil die Stelle die unternehmensweite Verantwortung für Architekturvision, -prinzipien und -strategie der Organisation trägt.'

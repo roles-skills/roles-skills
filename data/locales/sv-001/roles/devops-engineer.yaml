@@ -1,0 +1,68 @@
+summary: >
+  DevOps-ingenjörer bygger och driver de verktyg, pipelines, miljöer och plattformar som gör det möjligt för organisationens team att leverera digitala hälso- och vårdtjänster tryggt och ofta. De automatiserar bygge, test, release och infrastruktur, gör tjänster observerbara och motståndskraftiga och hjälper team att hålla kliniska system tillgängliga när patienter och kliniker behöver dem.
+health_context:
+  - Många tjänster stöder vården dygnet runt, så driftsättningar, övervakning och återställning måste hålla driftavbrotten på ett minimum, även utanför kontorstid.
+  - Releasepipelines producerar underlag till kliniska säkerhetsunderlag, såsom testresultat, ändringsregister och den exakta version som driftsattes.
+  - Miljöer kan hålla konfidentiell hälsoinformation, så ingenjörer kontrollerar åtkomst, skyddar hemligheter och håller livedata utanför testmiljöer.
+  - Hälso- och sjukvårdstjänster är vanliga mål för cyberattacker, så pipelines och plattformar bygger in säkerhetsskanning, patchning och testade säkerhetskopior.
+  - Vissa tjänster måste uppfylla strikta standarder för tillgänglighet och katastrofåterställning, överenskomna med kliniska och operativa ledare.
+levels:
+  - title: DevOps-ingenjör (lärling)
+    responsibilities:
+      - Lära sig teamets pipelines, molnplattformar och verktyg genom strukturerad utbildning och skuggning.
+      - Göra små, väl avgränsade ändringar i skript, pipelines och konfiguration under nära handledning.
+      - Följa rutiner för ändringar, säkerhet och informationsstyrning för varje miljö.
+      - Hjälpa till att övervaka tjänster och rapportera larm till erfarna kollegor.
+      - Arbeta mot en lärlingsutbildning eller motsvarande kvalifikation.
+    qualifications:
+      - Antagen till, eller på väg mot, en lärlingsutbildning inom DevOps, mjukvara eller infrastruktur eller motsvarande.
+    job_evaluation_notes: Kunskap poängsätts på den nivå arbetet kräver när utbildningen har kommit tillräckligt långt för att kunna utföra arbetet.
+  - title: Junior DevOps-ingenjör
+    responsibilities:
+      - Bygga och underhålla delar av pipelines för bygge, test och driftsättning, med vägledning.
+      - Skriva infrastruktur som kod och automatiseringsskript och testa dem före användning.
+      - Hålla testmiljöer fria från verkliga patientdata och hantera hemligheter säkert.
+      - Reagera på övervakningslarm och stödja incidenthantering under handledning.
+      - Registrera driftsättningar och ändringar så att de kan stödja kliniskt säkerhetsunderlag och revisionsevidens.
+    qualifications:
+      - En examen i datavetenskap eller ett närliggande ämne, en genomförd lärlingsutbildning eller motsvarande erfarenhet.
+    job_evaluation_notes: UK GDaD PCF föreslår band 4 för både lärlings- och juniornivån; den här referensen placerar juniornivån i band 5 för att undvika två nivåer i ett band, eftersom arbetet bygger pipelinekomponenter med mindre handledning.
+  - title: DevOps-ingenjör
+    responsibilities:
+      - Utforma och bygga pipelines, miljöer och plattformskomponenter självständigt.
+      - Automatisera säkerhetskontroller, såsom skanning av beroenden och containrar, och agera på resultaten.
+      - Bygga övervakning, loggning och larm så att team kan se problem innan de påverkar patienter och personal.
+      - Planera och testa säkerhetskopior, redundans och återställning för tjänster som stöder vården.
+      - Utreda och åtgärda problem i tjänster i drift, inklusive jour utanför kontorstid där tjänsten kräver det.
+      - Handleda juniora DevOps-ingenjörer och lärlingar.
+    qualifications:
+      - En examen i datavetenskap eller ett närliggande ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av att bygga och driva automatiserade leveranspipelines och molninfrastruktur.
+  - title: Senior DevOps-ingenjör
+    responsibilities:
+      - Leda utformningen av leveransverktygskedjan och plattformen för en produkt eller grupp av tjänster.
+      - Fastställa standarder för releaser så att driftsättningar till kliniska tjänster är repeterbara, reversibla och väl belagda.
+      - Komma överens med tjänsteägare och kliniska ledare om mål för tillgänglighet, återställningstid och återställningspunkt, och utforma för att uppfylla dem.
+      - Leda teknisk incidenthantering och uppföljningar efter incidenter för de plattformar teamet driver.
+      - Se till att plattformar uppfyller krav på säkerhet och informationsstyrning, inklusive åtkomstkontroll och granskningsloggning.
+      - Coacha och utveckla DevOps-ingenjörer i teamet.
+    qualifications:
+      - Betydande erfarenhet av att utforma och driva leveransverktygskedjor och plattformar, på en nivå motsvarande en masterexamen.
+  - title: Ledande DevOps-ingenjör
+    responsibilities:
+      - Leda DevOps och plattformsutveckling för en grupp team och vara teknisk ägare av den gemensamma plattformen.
+      - Fastställa färdplanen på medellång sikt för organisationens leveransverktyg, drift och observerbarhet.
+      - Se till att gemensamma plattformar är motståndskraftiga, säkra och kan möta de kliniska tjänsternas behov av tillgänglighet.
+      - Förvalta plattformens kostnader och kapacitet tillsammans med ekonomi och tjänsteägare.
+      - Leda praktikgemenskapen för DevOps och ha linjeansvar för eller leda DevOps-ingenjörer.
+    qualifications:
+      - Omfattande erfarenhet av att leda DevOps eller plattformsutveckling för komplexa tjänster.
+  - title: Principal DevOps-ingenjör
+    responsibilities:
+      - Fastställa strategin för hur organisationen bygger, släpper, hostar och driver sina digitala hälso- och vårdtjänster.
+      - Ge seniora ledare råd om hosting, motståndskraft, cybersäkerhet och plattformsinvesteringar.
+      - Se till att planer för verksamhetskontinuitet och katastrofåterställning för kritiska kliniska tjänster är realistiska och testade.
+      - Utvärdera och förespråka ny teknik och nya arbetssätt och balansera innovation mot säkerhet och stabilitet.
+      - Bygga organisationens DevOps-förmåga, inklusive rekrytering, karriärvägar och kompetensplaner.
+    qualifications:
+      - Omfattande erfarenhet av att leda DevOps och plattformsutveckling över flera team eller organisationer.

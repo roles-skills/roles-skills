@@ -1,0 +1,46 @@
+summary: Cán bộ an toàn lâm sàng là các bác sĩ lâm sàng có đăng ký hành nghề, bảo đảm các hệ thống CNTT y tế mà tổ chức xây dựng, mua và triển khai là an toàn cho bệnh nhân. Họ vận hành quy trình quản lý rủi ro lâm sàng, dẫn dắt việc nhận diện mối nguy, làm chủ nhật ký mối nguy, và viết và ký duyệt các báo cáo hồ sơ an toàn lâm sàng, theo các tiêu chuẩn quản lý rủi ro lâm sàng như ISO 14971 và IEC 80001-1.
+health_context:
+- Vai trò này phải do một bác sĩ lâm sàng có đăng ký hành nghề đảm nhiệm, để các phán đoán về an toàn dựa trên kiến thức lâm sàng hiện hành và trách nhiệm nghề nghiệp.
+- CNTT y tế có thể gây hại cho bệnh nhân qua thông tin sai, thiếu, chậm hoặc gây hiểu lầm, nên vai trò đánh giá các rủi ro thường ẩn trong dữ liệu và quy trình làm việc.
+- Công việc an toàn lâm sàng chạy suốt vòng đời của một hệ thống, từ thiết kế và mua sắm đến triển khai, thay đổi và ngừng sử dụng.
+- Một số sản phẩm còn bị quản lý như thiết bị y tế, nên vai trò phối hợp với các đồng nghiệp về quy định và chất lượng khi hồ sơ an toàn và hồ sơ thiết bị chồng lên nhau.
+- Các sự cố an toàn liên quan đến CNTT y tế có thể gây tổn hại nghiêm trọng, nên vai trò điều tra sự cố và bảo đảm rút được bài học.
+levels:
+- title: Cán bộ an toàn lâm sàng
+  summary: Vận hành quy trình quản lý rủi ro lâm sàng cho một nhóm sản phẩm hoặc thay đổi, dẫn dắt các buổi làm việc về mối nguy, duy trì nhật ký mối nguy và viết các báo cáo hồ sơ an toàn lâm sàng để phê duyệt.
+  responsibilities:
+  - Dẫn dắt các buổi làm việc nhận diện mối nguy cùng các nhóm sản phẩm, bác sĩ lâm sàng và nhà cung cấp.
+  - Đánh giá rủi ro lâm sàng và thống nhất các biện pháp kiểm soát, rồi kiểm tra các biện pháp đó hiệu quả qua kiểm thử và bằng chứng.
+  - Viết và duy trì nhật ký mối nguy và báo cáo hồ sơ an toàn lâm sàng cho các sản phẩm và thay đổi.
+  - Rà soát tài liệu an toàn của nhà cung cấp đối với các hệ thống mà tổ chức mua.
+  - Điều tra các sự cố an toàn liên quan đến CNTT y tế và đề xuất cải tiến.
+  - Tư vấn cho các nhóm số về quy trình quản lý rủi ro lâm sàng và an toàn ngay từ thiết kế.
+  qualifications:
+  - Đang có đăng ký hành nghề với một cơ quan nghề nghiệp lâm sàng, có kinh nghiệm lâm sàng dày dặn.
+  - Được đào tạo về quản lý rủi ro lâm sàng cho CNTT y tế, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Chăm sóc bệnh nhân được chấm ở mức 5 vì công việc đưa ra tư vấn chuyên sâu về an toàn của các hệ thống dùng trong chăm sóc bệnh nhân. Nỗ lực trí tuệ phản ánh việc tập trung kéo dài vào tài liệu an toàn và bằng chứng.
+- title: Cán bộ an toàn lâm sàng cao cấp
+  summary: Dẫn dắt an toàn lâm sàng cho một chương trình lớn hoặc một danh mục các hệ thống rủi ro cao, ký duyệt các hồ sơ an toàn và hướng dẫn các cán bộ an toàn lâm sàng khác.
+  responsibilities:
+  - Dẫn dắt quản lý rủi ro lâm sàng cho các hệ thống rủi ro cao như hồ sơ sức khỏe điện tử, kê đơn và hỗ trợ ra quyết định.
+  - Phê duyệt nhật ký mối nguy và báo cáo hồ sơ an toàn lâm sàng trong thẩm quyền được ủy quyền.
+  - Tư vấn cho các ban chương trình về rủi ro lâm sàng và việc một hệ thống có an toàn để đưa vào vận hành hay không.
+  - Dẫn dắt việc điều tra các sự cố an toàn nghiêm trọng liên quan đến CNTT y tế.
+  - Huấn luyện và kiểm tra chất lượng công việc của các cán bộ an toàn lâm sàng và bác sĩ lâm sàng đã được đào tạo về an toàn.
+  - Giúp cải thiện hệ thống và các mẫu quản lý rủi ro lâm sàng của tổ chức.
+  qualifications:
+  - Đang có đăng ký hành nghề với một cơ quan nghề nghiệp lâm sàng, có kinh nghiệm lâm sàng sâu rộng.
+  - Có kinh nghiệm dày dặn về quản lý rủi ro lâm sàng cho CNTT y tế.
+- title: Trưởng bộ phận an toàn lâm sàng
+  summary: Làm chủ hệ thống quản lý rủi ro lâm sàng của tổ chức đối với CNTT y tế, dẫn dắt nhóm an toàn lâm sàng và đảm bảo với hội đồng rằng các dịch vụ số của tổ chức an toàn về mặt lâm sàng.
+  responsibilities:
+  - Làm chủ hệ thống, chính sách và quy trình quản lý rủi ro lâm sàng cho toàn bộ CNTT y tế.
+  - Dẫn dắt và phát triển nhóm an toàn lâm sàng và mạng lưới rộng hơn các bác sĩ lâm sàng đã được đào tạo về an toàn.
+  - Đảm bảo các hồ sơ an toàn cho các hệ thống lớn và đưa ra khuyến nghị an toàn lâm sàng cuối cùng về việc triển khai.
+  - Dẫn dắt việc ứng phó với các sự cố an toàn nghiêm trọng liên quan đến CNTT y tế, kể cả với các đối tác và nhà cung cấp.
+  - Báo cáo các rủi ro và sự đảm bảo về an toàn lâm sàng lên hội đồng và các ủy ban của hội đồng.
+  - Xây dựng văn hóa an toàn lâm sàng trong các nhóm số, lâm sàng và nhà cung cấp.
+  qualifications:
+  - Đang có đăng ký hành nghề với một cơ quan nghề nghiệp lâm sàng, có kinh nghiệm lâm sàng và lãnh đạo sâu rộng.
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt quản lý rủi ro lâm sàng cho CNTT y tế trên toàn tổ chức.
+  job_evaluation_notes: Chăm sóc bệnh nhân được chấm ở mức 6 vì công việc chịu trách nhiệm về an toàn lâm sàng của CNTT y tế của tổ chức. Nỗ lực cảm xúc phản ánh việc thường xuyên rà soát các sự cố gây tổn hại cho bệnh nhân.

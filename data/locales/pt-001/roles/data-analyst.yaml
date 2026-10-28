@@ -1,0 +1,46 @@
+summary: Os analistas de dados transformam dados de saúde e de cuidados em informações que ajudam profissionais clínicos, gestores e planejadores a tomar decisões. Preparam, vinculam e analisam dados de fontes clínicas, operacionais e relatadas pelos pacientes e os apresentam em relatórios, painéis e informes. Garantem que suas análises sejam exatas e reproduzíveis e que tratem com segurança os dados confidenciais dos pacientes.
+health_context:
+- Grande parte dos dados descreve pacientes individuais, por isso os analistas trabalham com dados pseudonimizados sempre que possível e verificam o risco de divulgação nos resultados antes de liberá-los.
+- Os dados de saúde são registrados com terminologias e classificações clínicas como a SNOMED CT e a CID, por isso os analistas precisam saber como os códigos são usados e onde podem induzir a erro.
+- A qualidade dos dados varia entre ambientes de cuidado e sistemas, e as lacunas muitas vezes afetam mais alguns grupos de pacientes do que outros, por isso os analistas verificam vieses antes de tirar conclusões.
+- A análise pode mudar como os serviços são planejados, financiados e prestados, por isso os achados precisam de ressalvas claras e não devem exagerar a certeza.
+levels:
+- title: Analista de dados associado
+  responsibilities:
+  - Produzir relatórios e painéis rotineiros sobre atividade, tempos de espera e uso dos serviços, seguindo métodos acordados.
+  - Limpar e preparar, sob supervisão, extrações de sistemas de administração de pacientes, clínicos e operacionais.
+  - Conferir os resultados em relação às regras de qualidade de dados e comunicar os problemas ao responsável pelos dados.
+  - Aplicar a supressão de números pequenos e outras regras de divulgação antes de compartilhar os resultados.
+  - Responder a pedidos simples de dados de equipes clínicas e operacionais.
+  qualifications:
+  - Graduação em área quantitativa, aprendizagem profissional em análise de dados ou experiência equivalente.
+- title: Analista de dados
+  responsibilities:
+  - Projetar e realizar análises que respondam a perguntas de equipes clínicas, operacionais e de planejamento.
+  - Vincular com segurança dados em nível de paciente de diferentes fontes, usando identificadores pseudonimizados e métodos de vinculação acordados.
+  - Escrever código de análise reproduzível e documentar métodos, premissas e fontes de dados.
+  - Explicar os achados e seus limites a profissionais clínicos e gestores em linguagem simples.
+  - Verificar vieses na análise entre grupos de pacientes, por exemplo por idade, sexo, etnia e privação socioeconômica.
+  - Apoiar analistas associados e revisar o trabalho deles.
+  qualifications:
+  - Graduação em área quantitativa ou experiência equivalente.
+  - Experiência na análise e na apresentação de dados complexos.
+- title: Analista de dados sênior
+  responsibilities:
+  - Liderar a análise de uma área de serviço, como atendimento de urgência, câncer ou saúde mental, acordando as prioridades com suas lideranças.
+  - Definir métodos e garantia da qualidade para as análises da equipe, incluindo revisão por pares do código e dos resultados.
+  - Liderar projetos complexos de vinculação entre ambientes de cuidado e acordar sua base de governança da informação.
+  - Apresentar os achados a grupos clínicos e gerenciais seniores e aconselhar sobre o que significam para os serviços.
+  - Trabalhar com pessoas engenheiras de dados e responsáveis pelos dados para corrigir as causas-raiz da baixa qualidade dos dados.
+  - Orientar e desenvolver os analistas da equipe.
+  qualifications:
+  - Experiência substancial na liderança de análise de dados, em nível equivalente ao de mestrado.
+- title: Analista de dados principal
+  responsibilities:
+  - Definir os padrões da organização para a análise de dados, a garantia da qualidade e a prática analítica reproduzível.
+  - Aconselhar lideranças executivas e clínicas sobre as evidências por trás de grandes decisões sobre serviços e investimentos.
+  - Liderar a comunidade analítica, incluindo seu treinamento, suas ferramentas e o desenvolvimento de carreira.
+  - Dar forma aos acordos de compartilhamento e de vinculação de dados com parceiros de saúde e de cuidados.
+  - Chefiar analistas sêniores e garantir que a equipe tenha a capacidade e as competências de que precisa.
+  qualifications:
+  - Ampla experiência na liderança da análise de dados em uma organização.

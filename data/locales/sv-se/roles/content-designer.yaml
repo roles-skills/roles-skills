@@ -1,0 +1,65 @@
+summary: >
+  Innehållsdesigners gör hälso- och vårdinformation och tjänster begripliga, så att patienter, närstående, kliniker och vårdpersonal kan förstå vad de behöver veta och göra. De utformar innehåll utifrån underlag om användarbehov, skriver på klarspråk, arbetar med kliniska experter för att hålla det korrekt och förvaltar innehåll genom hela dess liv, från skapande till granskning och avveckling.
+health_context:
+  - Människor läser ofta hälsoinnehåll när de är oroliga, sjuka eller har bråttom, så innehåll måste vara lätt att förstå och agera på för människor med låg hälsolitteracitet.
+  - Fel eller föråldrad hälsoinformation kan orsaka skada, så innehållsdesigners följer en klinisk kvalitetssäkringsprocess med granskningsdatum och namngivna kliniska granskare.
+  - Vissa ämnen är känsliga eller högriskfyllda, såsom akuta symtom, psykisk hälsa, läkemedel och vård i livets slut, så innehållsdesigners arbetar nära kliniker och användarforskare med ton och korrekthet.
+  - Kliniska system behöver också tydligt innehåll, såsom etiketter, instruktioner och larm, så innehållsdesigners hjälper till att minska fel i kliniska arbetsflöden.
+  - Hälsoinnehåll måste vara tillgängligt och inkluderande, även för människor som använder hjälpmedelsteknik, läser på ett annat språk eller behöver lättläst format.
+levels:
+  - title: Biträdande innehållsdesigner
+    responsibilities:
+      - Lära sig metoder för innehållsdesign, stilguiden och den kliniska granskningsprocessen genom utbildning och handlett arbete.
+      - Utföra standardkontroller, språkgranskning och uppdateringar av befintligt innehåll.
+      - Publicera innehåll i publiceringssystemet enligt stegen för kvalitetssäkring.
+      - Kontrollera innehåll för tillgänglighet, såsom rubriker, länktext och alternativ text.
+    qualifications:
+      - På väg mot en kvalifikation eller lärlingsutbildning inom ett relevant område, eller motsvarande erfarenhet.
+  - title: Junior innehållsdesigner
+    responsibilities:
+      - Skriva och uppdatera hälsoinnehåll och tjänsteinnehåll, under ledning av mer seniora innehållsdesigners.
+      - Använda forskning och data för att identifiera vad användare behöver veta och de ord de använder.
+      - Arbeta med kliniska granskare för att kontrollera korrekthet och förklara medicinska termer på klarspråk.
+      - Stödja publicering av innehåll, granskningsdatum och innehållsteamets administration.
+    qualifications:
+      - En examen eller relevant kvalifikation, eller motsvarande erfarenhet av att skriva för webben.
+  - title: Innehållsdesigner
+    responsibilities:
+      - Utforma innehåll över hela användarresor, såsom att hitta en tjänst, förbereda sig för ett besök och eftervård.
+      - Utforma innehåll för kliniska system, såsom etiketter, instruktioner och larm, för att minska risken för fel.
+      - Komma överens om korrekthet med kliniska experter samtidigt som innehållet hålls tydligt och användbart.
+      - Testa innehåll med användare, inklusive människor med låg hälsolitteracitet och människor som använder hjälpmedelsteknik.
+      - Bidra till stilguiden och innehållsmönster.
+    qualifications:
+      - En examen eller relevant kvalifikation, eller motsvarande erfarenhet.
+      - Erfarenhet av att utforma innehåll för digitala tjänster.
+  - title: Senior innehållsdesigner
+    responsibilities:
+      - Ta fram innehållsstrategi för stora eller högprofilerade områden, såsom ett större sjukdomsområde eller en folkhälsokampanj.
+      - Utforma innehåll för känsliga och högriskfyllda ämnen, såsom akuta symtom, psykisk hälsa och vård i livets slut.
+      - Etablera klinisk kvalitetssäkring, underlagskällor och granskningscykler för en mängd hälsoinnehåll.
+      - Granska andras arbete för att kvalitetssäkra det och leda eller handleda innehållsdesigners.
+      - Skriva och kartlägga användarberättelser tillsammans med teamet.
+    qualifications:
+      - Betydande erfarenhet av innehållsdesign, på en nivå motsvarande en masterexamen.
+    job_evaluation_notes: Känslomässig ansträngning är nivå 2 eftersom seniora innehållsdesigners regelbundet arbetar med plågsamma ämnen, såsom allvarlig sjukdom, självskada och sorg.
+  - title: Ledande innehållsdesigner
+    responsibilities:
+      - Leda ett team av innehållsdesigners och kvalitetssäkra innehåll över flera team.
+      - Se till att hälsoinnehåll uppfyller standarder för klinisk kvalitetssäkring, tillgänglighet och stil.
+      - Arbeta med seniora kliniska ledare, kommunikationsledare och produktledare för att resurssätta team och lösa innehållsproblem.
+      - Leda innehållet för organisationens mest känsliga eller högriskfyllda information.
+      - Ha linjeansvar för och utveckla innehållsdesigners.
+    qualifications:
+      - Omfattande erfarenhet av att leda innehållsdesign över team.
+    job_evaluation_notes: Det finns ingen nivå i band 8a, eftersom UK GDaD PCF placerar ledande innehållsdesigner vid G7 eller G6 och den här referensen följer det föreslagna bandet 8b. Policy är nivå 5 eftersom den ledande fastställer innehållsstandarder för en rad tjänster; känslomässig ansträngning är nivå 2, som för seniora innehållsdesigners.
+  - title: Chef för innehållsdesign
+    responsibilities:
+      - Ta fram en innehållsstrategi som uppfyller organisationens mål och patienters och personalens behov.
+      - Fastställa organisationens standarder för hälsoinformation och dess kliniska kvalitetssäkring.
+      - Leda ett team av innehållsdesigners som kan genomföra strategin, inklusive rekrytering och utveckling.
+      - Arbeta med seniora kliniska ledare och kommunikationsledare för att hantera risker med hälsoinformation.
+      - Prioritera innehållsarbete i hela organisationen.
+    qualifications:
+      - Omfattande erfarenhet av att leda innehållsdesign och en innehållspraktik.
+    job_evaluation_notes: UK GDaD PCF placerar både ledande innehållsdesigner och chef för innehållsdesign vid G7 eller G6, med föreslaget band 8b. Den här referensen placerar chefen i band 8c, i linje med cheferna för andra användarcentrerade designyrken, eftersom chefen fastställer innehållsstrategi och standarder för hela organisationen.

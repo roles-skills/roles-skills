@@ -1,0 +1,73 @@
+# Korean (world). Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Quotations from the UK GDaD PCF and ESCO stay
+# in English. Job titles use the generic form, which covers everyone. Slugs
+# are made from the Korean titles.
+code: ko-001
+name: 한국어
+english_name: Korean
+dir: ltr
+complete: true
+paths:
+  roles: 역할
+  families: 직군
+  bands: 밴드
+  skills: 스킬
+  job-evaluation: 직무평가
+  about: 이-레퍼런스-소개
+strings:
+  disclaimer: "이 문서는 일반적인 디지털 헬스케어 조직을 위한 예시용 참조 프로필입니다. 특정 고용주의 공식 직무기술서가 아니며, 직무평가 점수도 공식 평가가 아닙니다."
+  translation_note: "이 글은 AI 어시스턴트가 영어를 한국어로 번역한 것이며, 한국어 원어민의 검토는 아직 받지 않았습니다. 영국 정부 디지털·데이터 전문직 역량 프레임워크(UK GDaD PCF)와 ESCO의 인용문은 영어 그대로 두었습니다."
+  home_title: 역할 카탈로그
+  home_lede: "먼저 자신의 업무와 가장 가까운 직군을 고르고, 그다음 역할과 밴드를 고르세요."
+  roles_title: 모든 역할
+  bands_title: 밴드별 역할
+  skills_title: 스킬
+  skills_lede: "각 스킬에는 네 가지 숙련 수준이 있습니다. 인지(1), 실무(2), 실천가(3), 전문가(4)입니다. UK GDaD PCF의 스킬은 영어 원문을 그대로 인용합니다. 나머지 스킬은 이 레퍼런스가 독자적으로 만든 것입니다."
+  pcf_title: UK GDaD PCF 역할별 역할
+  esco_title: ESCO 직업별 역할
+  role: 역할
+  roles: 역할
+  family: 직군
+  band: 밴드
+  bands: 밴드
+  title: 직함
+  role_level: 역할 수준
+  skill: 스킬
+  source: 출처
+  expected_level: 기대 수준
+  level_meaning: 이 수준의 의미
+  factor: 요소
+  level: 수준
+  points: 점수
+  total: 합계
+  summary: 개요
+  health_context: 디지털 헬스케어 조직에서
+  pcf_role: UK GDaD PCF 역할
+  pcf_role_none: "없음(이 레퍼런스가 역할을 정의합니다)"
+  pcf_role_description: UK GDaD PCF 역할 설명(원문은 영어)
+  pcf_level: UK GDaD PCF 수준
+  civil_service_grades: 영국 공무원 등급
+  esco_occupations: ESCO 직업
+  role_levels: 역할 수준
+  job_evaluation_points: 직무평가 점수
+  responsibilities: 책임
+  skills: 스킬
+  qualifications: 일반적인 자격과 경력
+  band_outline: 밴드 개요
+  knowledge: 지식
+  autonomy: 자율성
+  scope: 범위
+  leadership: 리더십
+  accountability: 책무
+  job_evaluation: 직무평가(예시)
+  source_pcf: UK GDaD PCF
+  source_reference: 이 레퍼런스
+  used_in: "{n}개의 역할 수준에서 사용됩니다."
+  awareness: 인지
+  working: 실무
+  practitioner: 실천가
+  expert: 전문가
+  sfia_level: SFIA 수준
+  esco_occupation: ESCO 직업
+  pcf_family: PCF 직군
+  roles_in_reference: 이 레퍼런스의 역할

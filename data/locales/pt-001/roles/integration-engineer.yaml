@@ -1,0 +1,51 @@
+summary: Os profissionais de engenharia de integração conectam os sistemas clínicos e de negócios da organização para que as informações de saúde e de cuidados fluam com segurança até onde são necessárias. Projetam, constroem, testam e dão suporte a interfaces, APIs e fluxos de mensagens usando padrões como o HL7 FHIR e o HL7 versão 2, mapeiam dados e códigos clínicos entre sistemas e mantêm as integrações funcionando em serviço.
+health_context:
+- Uma mensagem perdida, atrasada, duplicada ou associada ao paciente errado, como o resultado de um exame ou um encaminhamento, pode causar dano direto, por isso o trabalho de integração segue o processo de gestão de riscos clínicos.
+- As integrações transportam grandes volumes de informações de saúde confidenciais entre organizações, por isso cada fluxo precisa de base legal, transporte seguro e auditoria.
+- Os sistemas de saúde usam muitos padrões e versões, de mensagens HL7 versão 2 a APIs HL7 FHIR e perfis IHE, muitas vezes com variações locais.
+- O significado clínico deve sobreviver à jornada, por isso as pessoas engenheiras mapeiam corretamente terminologias clínicas como a SNOMED CT e associam pacientes de forma confiável.
+- Muitas integrações apoiam o cuidado 24 horas por dia, por isso precisam de monitoramento, alertas e caminhos claros para resolver mensagens com falha.
+levels:
+- title: Profissional de engenharia de integração júnior
+  summary: Uma pessoa engenheira de integração júnior constrói, testa e dá suporte a integrações entre sistemas de saúde e de cuidados, trabalhando a partir de especificações e com a orientação de profissionais mais experientes.
+  responsibilities:
+  - Construir e alterar mapeamentos de mensagens, transformações e chamadas de API a partir de especificações acordadas.
+  - Testar as integrações em relação às especificações e a mensagens de exemplo, incluindo casos de erro e casos-limite.
+  - Monitorar os fluxos de mensagens, investigar mensagens com falha ou rejeitadas e resolvê-las ou escalá-las.
+  - Tratar os dados de saúde com segurança, seguindo as regras de governança da informação para dados reais e de teste.
+  - Registrar mudanças e resultados de testes para que possam servir de evidência de segurança clínica.
+  qualifications:
+  - Graduação em computação ou em área afim, programa de aprendizagem profissional concluído ou experiência equivalente.
+- title: Profissional de engenharia de integração
+  summary: Uma pessoa engenheira de integração projeta, constrói e dá suporte de forma independente a integrações entre sistemas de saúde e de cuidados e ajuda a definir como os sistemas devem trocar dados.
+  responsibilities:
+  - Projetar e construir integrações, APIs e fluxos de mensagens usando HL7 FHIR, HL7 versão 2 e padrões de mensageria.
+  - Analisar os sistemas de origem e de destino e escrever especificações de interface e mapeamentos de dados, incluindo códigos clínicos.
+  - Construir associação de pacientes, validação e tratamento de erros para que a informação chegue ao registro correto.
+  - Participar de oficinas de perigos e incorporar controles de segurança às integrações, como alertas para mensagens com falha ou atrasadas.
+  - Trabalhar com fornecedores e organizações parceiras para testar e colocar em operação novas conexões.
+  - Investigar e corrigir problemas em integrações em operação e orientar profissionais de engenharia de integração júnior.
+  qualifications:
+  - Graduação em computação ou em área afim, ou experiência equivalente.
+  - Experiência na construção e no suporte de integrações entre sistemas em produção.
+- title: Profissional de engenharia de integração sênior
+  summary: Uma pessoa engenheira de integração sênior lidera o projeto e a entrega de integrações complexas entre muitos sistemas e organizações e define os padrões de integração da sua área.
+  responsibilities:
+  - Liderar o projeto técnico de integrações complexas, como prontuários compartilhados, resultados e encaminhamentos entre organizações.
+  - Escrever e manter perfis FHIR, guias de implementação e padrões de interface da organização.
+  - Projetar integrações seguras, resilientes e observáveis, com caminhos claros para resolver falhas.
+  - Trabalhar com os responsáveis pela segurança clínica para identificar os perigos das integrações e garantir que os controles sejam projetados e testados.
+  - Garantir que cada fluxo de dados tenha uma base legal e acordos de compartilhamento de dados definidos, trabalhando com colegas de governança da informação.
+  - Orientar e desenvolver os profissionais de engenharia de integração da equipe.
+  qualifications:
+  - Experiência substancial no projeto e no suporte de integrações de saúde ou de outras integrações complexas, em nível equivalente ao de mestrado.
+- title: Profissional de engenharia de integração líder
+  summary: Uma pessoa engenheira de integração líder conduz a engenharia de integração da organização, define sua direção técnica e seus padrões e dá garantia a integrações críticas entre muitos sistemas.
+  responsibilities:
+  - Liderar a engenharia de integração em toda a organização, definindo direção, padrões e modelos.
+  - Dar garantia ao projeto de integrações críticas, como as que transportam resultados, medicamentos ou alertas.
+  - Dar forma ao roteiro da plataforma de integração com arquitetos, gerentes de produto e fornecedores.
+  - Representar a organização em trabalhos de interoperabilidade e de padronização entre organizações.
+  - Chefiar ou liderar profissionais de engenharia de integração e ampliar a comunidade de prática de integração.
+  qualifications:
+  - Ampla experiência na liderança da engenharia de integração de sistemas de saúde ou de cuidados complexos.

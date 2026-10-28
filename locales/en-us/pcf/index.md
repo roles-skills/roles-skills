@@ -110,8 +110,8 @@
 | Product and delivery | Product manager | Senior product manager | G7 | [Senior product manager](../roles/product-manager/#band-8a-senior-product-manager) | 8a |
 | Product and delivery | Product manager | Lead product manager | G7/G6 | [Lead product manager](../roles/product-manager/#band-8b-lead-product-manager) | 8b |
 | Product and delivery | Product manager | Head of product | G6 | [Head of product](../roles/product-manager/#band-8c-head-of-product) | 8c |
-| Product and delivery | Programme delivery manager | Programme delivery manager | G7/G6 | [Programme delivery manager](../roles/programme-delivery-manager/#band-8b-programme-delivery-manager) | 8b |
-| Product and delivery | Programme delivery manager | Programme delivery manager | G7/G6 | [Senior programme delivery manager](../roles/programme-delivery-manager/#band-8c-senior-programme-delivery-manager) | 8c |
+| Product and delivery | Programme delivery manager | Program delivery manager | G7/G6 | [Program delivery manager](../roles/programme-delivery-manager/#band-8b-program-delivery-manager) | 8b |
+| Product and delivery | Programme delivery manager | Program delivery manager | G7/G6 | [Senior program delivery manager](../roles/programme-delivery-manager/#band-8c-senior-program-delivery-manager) | 8c |
 | Product and delivery | Service owner | Service owner | G7/G6 | [Service owner](../roles/service-owner/#band-8b-service-owner) | 8b |
 | Product and delivery | Service owner | Service owner | G7/G6 | [Senior service owner](../roles/service-owner/#band-8c-senior-service-owner) | 8c |
 | Quality assurance testing (QAT) | Quality assurance test analyst | Associate quality assurance test analyst | EO | [Associate quality assurance test analyst](../roles/quality-assurance-test-analyst/#band-4-associate-quality-assurance-test-analyst) | 4 |
@@ -173,5 +173,5 @@
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

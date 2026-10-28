@@ -51,8 +51,8 @@ Change and release managers make sure changes to IT services are assessed, appro
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Working | You can:<br>• maintain secure configuration and accurate information<br>• control IT assets in one or more areas<br>• verify the location and state of IT assets |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Awareness | You can:<br>• explain availability and capacity management processes |
 | [Change management](../../skills/#change-management) | UK GDaD PCF | Awareness | You can:<br>• implement change requests<br>• apply change control procedures under supervision |
-| [Community collaboration](../../skills/#community-collaboration) | UK GDaD PCF | Working | You can:<br>• contribute to the work of others<br>• motivate and empower teams<br>• create the right environment for teams to work in, and can identify the best team makeup depending on the situation<br>• recognize and deal with issues |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of developing process efficiency and common ways in which processes are optimized<br>• support specific activities to improve development processes<br>• spot or identify obvious deficiencies |
+| [Community collaboration](../../skills/#community-collaboration) | UK GDaD PCF | Working | You can:<br>• contribute to the work of others<br>• motivate and empower teams<br>• create the right environment for teams to work in, and can identify the best team makeup depending on the situation<br>• recognise and deal with issues |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of developing process efficiency and common ways in which processes are optimised<br>• support specific activities to improve development processes<br>• spot or identify obvious deficiencies |
 | [Continuity management](../../skills/#continuity-management) | UK GDaD PCF | Awareness | You can:<br>• explain the basic principles of IT standard continuity management processes and procedures |
 | [Incident management](../../skills/#incident-management) | UK GDaD PCF | Awareness | You can:<br>• identify and register incidents, gathering the required information and allocating it to the appropriate channel |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of problem resolution processes<br>• pass problems on to your team |
@@ -83,8 +83,8 @@ Change and release managers make sure changes to IT services are assessed, appro
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -125,9 +125,9 @@ The UK GDaD PCF suggests Band 6 for this level (HEO/SEO). This reference places 
 | --- | --- | --- | --- |
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Working | You can:<br>• maintain secure configuration and accurate information<br>• control IT assets in one or more areas<br>• verify the location and state of IT assets |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Awareness | You can:<br>• explain availability and capacity management processes |
-| [Change management](../../skills/#change-management) | UK GDaD PCF | Working | You can:<br>• analyze and assess the impact of change<br>• document change requests<br>• action changes from change requests |
-| [Community collaboration](../../skills/#community-collaboration) | UK GDaD PCF | Working | You can:<br>• contribute to the work of others<br>• motivate and empower teams<br>• create the right environment for teams to work in, and can identify the best team makeup depending on the situation<br>• recognize and deal with issues |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of developing process efficiency and common ways in which processes are optimized<br>• support specific activities to improve development processes<br>• spot or identify obvious deficiencies |
+| [Change management](../../skills/#change-management) | UK GDaD PCF | Working | You can:<br>• analyse and assess the impact of change<br>• document change requests<br>• action changes from change requests |
+| [Community collaboration](../../skills/#community-collaboration) | UK GDaD PCF | Working | You can:<br>• contribute to the work of others<br>• motivate and empower teams<br>• create the right environment for teams to work in, and can identify the best team makeup depending on the situation<br>• recognise and deal with issues |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of developing process efficiency and common ways in which processes are optimised<br>• support specific activities to improve development processes<br>• spot or identify obvious deficiencies |
 | [Continuity management](../../skills/#continuity-management) | UK GDaD PCF | Awareness | You can:<br>• explain the basic principles of IT standard continuity management processes and procedures |
 | [Incident management](../../skills/#incident-management) | UK GDaD PCF | Awareness | You can:<br>• identify and register incidents, gathering the required information and allocating it to the appropriate channel |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of problem resolution processes<br>• pass problems on to your team |
@@ -159,8 +159,8 @@ The UK GDaD PCF suggests Band 6 for this level (HEO/SEO). This reference places 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -179,7 +179,7 @@ The UK GDaD PCF suggests Band 6 for this level (HEO/SEO). This reference places 
 
 **UK GDaD PCF level: Change and release manager**
 
-> A change and release manager ensures that technical changes to IT services are adequately assessed for impact, prioritized, scheduled, authorized and implemented. They ensure this is done in line with processes and using appropriate tools. They chair the Change Advisory Board (CAB).
+> A change and release manager ensures that technical changes to IT services are adequately assessed for impact, prioritised, scheduled, authorised and implemented. They ensure this is done in line with processes and using appropriate tools. They chair the Change Advisory Board (CAB).
 > 
 > At this role level, you will:
 > - provide an escalation point
@@ -199,13 +199,13 @@ The UK GDaD PCF suggests Band 6 for this level (HEO/SEO). This reference places 
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Expert | You can:<br>• manage configuration management for the organization, ensuring value for the business and adherence to company policies<br>• ensure that changes to assets are recorded and controlled appropriately<br>• advocate organisational commitment to asset control |
+| [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Expert | You can:<br>• manage configuration management for the organisation, ensuring value for the business and adherence to company policies<br>• ensure that changes to assets are recorded and controlled appropriately<br>• advocate organisational commitment to asset control |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Working | You can:<br>• manage service components to ensure they meet business needs and key performance indicators (KPIs) |
-| [Change management](../../skills/#change-management) | UK GDaD PCF | Expert | You can:<br>• implement new and current change management processes<br>• support change management, actively improving and optimizing processes |
+| [Change management](../../skills/#change-management) | UK GDaD PCF | Expert | You can:<br>• implement new and current change management processes<br>• support change management, actively improving and optimising processes |
 | [Community collaboration](../../skills/#community-collaboration) | UK GDaD PCF | Practitioner | You can:<br>• work collaboratively in a group, actively networking with others<br>• adapt feedback to ensure it’s effective and lasting<br>• use your initiative to identify problems or issues in the team dynamic and rectify them<br>• identify issues through Agile ‘health checks’ with the team, and help to stimulate the right responses |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Working | You can:<br>• identify process optimization opportunities with guidance, and contribute to the implementation of proposed solutions |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Working | You can:<br>• identify process optimisation opportunities with guidance, and contribute to the implementation of proposed solutions |
 | [Continuity management](../../skills/#continuity-management) | UK GDaD PCF | Awareness | You can:<br>• explain the basic principles of IT standard continuity management processes and procedures |
-| [Incident management](../../skills/#incident-management) | UK GDaD PCF | Working | You can:<br>• diagnose and prioritize incidents, investigate their causes and find resolutions |
+| [Incident management](../../skills/#incident-management) | UK GDaD PCF | Working | You can:<br>• diagnose and prioritise incidents, investigate their causes and find resolutions |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Working | You can:<br>• own an issue until a new owner has been found or the problem has been mitigated or resolved |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Working | You can:<br>• initiate and monitor actions to investigate patterns and trends to resolve problems<br>• effectively consult specialists where required<br>• determine the appropriate resolution and assist with its implementation<br>• determine preventative measures |
 | [Service focus](../../skills/#service-focus) | UK GDaD PCF | Working | You can:<br>• take inputs and establish coherent frameworks that work |
@@ -215,7 +215,7 @@ The UK GDaD PCF suggests Band 6 for this level (HEO/SEO). This reference places 
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 
 ### Typical qualifications and experience
 
@@ -236,8 +236,8 @@ The UK GDaD PCF suggests Band 6 for this level (HEO/SEO). This reference places 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -257,5 +257,5 @@ Planning is above the band profile because the role schedules releases and their
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

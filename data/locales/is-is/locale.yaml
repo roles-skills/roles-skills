@@ -1,0 +1,73 @@
+# Icelandic (Iceland). Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Quotations from the UK GDaD PCF and ESCO stay
+# in English. Job titles use the generic form, which covers everyone. Slugs
+# are made from the Icelandic titles.
+code: is-is
+name: Íslenska
+english_name: Icelandic
+dir: ltr
+complete: true
+paths:
+  roles: hlutverk
+  families: starfsfjölskyldur
+  bands: launaflokkar
+  skills: færni
+  job-evaluation: starfsmat
+  about: um-þessa-viðmiðun
+strings:
+  disclaimer: "Þetta er lýsandi viðmiðunarsnið fyrir almenna stofnun á sviði stafrænnar heilbrigðis- og velferðarþjónustu. Það er ekki opinber starfslýsing fyrir neinn vinnuveitanda, og stig starfsmatsins eru ekki formlegt mat."
+  translation_note: "Þessi texti var þýddur úr ensku af gervigreindaraðstoðarmanni og hefur ekki enn verið yfirfarinn af móðurmálshafa. Tilvitnanir í UK GDaD PCF (hæfniramma bresku ríkisstjórnarinnar fyrir stafræn störf og gagnastörf) og í ESCO haldast á ensku."
+  home_title: Yfirlit yfir hlutverk
+  home_lede: "Byrjaðu á því að finna starfsfjölskylduna sem er næst þínu starfi, síðan hlutverkið og svo launaflokkinn."
+  roles_title: Öll hlutverk
+  bands_title: Hlutverk eftir launaflokki
+  skills_title: Færni
+  skills_lede: "Hver færni hefur fjögur hæfnistig: Vitund (1), Starfshæf (2), Reynd (3) og Sérfræðingur (4). Færni úr UK GDaD PCF er vitnað til á ensku úr frumtextanum. Önnur færni er sérstök fyrir þessa viðmiðun."
+  pcf_title: Hlutverk eftir hlutverki í UK GDaD PCF
+  esco_title: Hlutverk eftir starfsgrein í ESCO
+  role: Hlutverk
+  roles: Hlutverk
+  family: Fjölskylda
+  band: Launaflokkur
+  bands: Launaflokkar
+  title: Titill
+  role_level: Hlutverkastig
+  skill: Færni
+  source: Uppruni
+  expected_level: Væntanlegt stig
+  level_meaning: Hvað stigið merkir
+  factor: Þáttur
+  level: Stig
+  points: Stig
+  total: Samtals
+  summary: Samantekt
+  health_context: Í stofnun á sviði stafrænnar heilbrigðis- og velferðarþjónustu
+  pcf_role: Hlutverk í UK GDaD PCF
+  pcf_role_none: "ekkert (þessi viðmiðun skilgreinir hlutverkið)"
+  pcf_role_description: Hlutverkslýsing í UK GDaD PCF (enskt frumrit)
+  pcf_level: Stig í UK GDaD PCF
+  civil_service_grades: Launaþrep bresku opinberu þjónustunnar
+  esco_occupations: Starfsgreinar í ESCO
+  role_levels: Hlutverkastig
+  job_evaluation_points: Stig starfsmats
+  responsibilities: Ábyrgð
+  skills: Færni
+  qualifications: Dæmigerð menntun og reynsla
+  band_outline: Yfirlit yfir launaflokkinn
+  knowledge: Þekking
+  autonomy: Sjálfstæði
+  scope: Umfang
+  leadership: Forysta
+  accountability: Ábyrgðarskylda
+  job_evaluation: Starfsmat (lýsandi)
+  source_pcf: UK GDaD PCF
+  source_reference: Þessi viðmiðun
+  used_in: "Notað á {n} hlutverkastigum."
+  awareness: Vitund
+  working: Starfshæf
+  practitioner: Reynd
+  expert: Sérfræðingur
+  sfia_level: Stig í SFIA
+  esco_occupation: Starfsgrein í ESCO
+  pcf_family: Fjölskylda í PCF
+  roles_in_reference: Hlutverk í þessari viðmiðun

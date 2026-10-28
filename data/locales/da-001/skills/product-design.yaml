@@ -1,0 +1,71 @@
+# Danish translation of data/skills/product-design.yaml. Keys are the English skill ids.
+pd-health-research-ethics:
+  name: Etisk forskning med patienter og plejepersonale
+  description: At planlægge og gennemføre forskning med patienter, pårørende, klinikere og plejepersonale sikkert og etisk, herunder informeret samtykke, beskyttelse af udsatte, forskning med mennesker i sårbare situationer og viden om, hvornår der kræves formel etisk godkendelse.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor forskning med patienter og plejepersonale kræver informeret samtykke, beskyttelse af udsatte og omhu med personoplysninger
+      - følge teamets procedurer for samtykke, beskyttelse af udsatte og datahåndtering under forskningssessioner
+    working: |
+      Du kan:
+      - planlægge forskningssessioner, der indhenter informeret samtykke og beskytter deltagernes trivsel og privatliv
+      - tilpasse sessioner til mennesker, der er syge, oprørte eller i sårbare situationer, og vide, hvornår man skal stoppe
+      - genkende og indberette bekymringer om beskyttelse af udsatte, som opstår under forskningen
+    practitioner: |
+      Du kan:
+      - vurdere, hvornår forskning kræver formel etisk godkendelse eller godkendelse efter forskningsstyring, og forberede det, der kræves
+      - planlægge sikker forskning med mennesker i sårbare situationer, såsom børn, mennesker med demens og mennesker i krise
+      - planlægge forskning i kliniske miljøer uden at forstyrre plejen i samarbejde med kliniske ledere og plejepersonale
+      - støtte forskere i at passe på deres egen trivsel efter belastende sessioner
+    expert: |
+      Du kan:
+      - fastlægge organisationens standarder for etisk forskning med patienter, pårørende og plejepersonale
+      - kvalitetssikre forskningspraksis på tværs af teams og rådgive om forskning med høj risiko
+      - repræsentere forskningspraksis over for etiske organer, organer for beskyttelse af udsatte og styringsorganer
+pd-safety-critical-design:
+  name: Design for klinisk sikkerhed og human factors
+  description: At designe services, grænseflader og arbejdsgange, der hjælper klinikere, plejepersonale og patienter med at handle sikkert, ved at anvende principper fra human factors og arbejde med processen for klinisk risikostyring.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvordan designvalg kan forårsage eller forhindre fejl i plejen, såsom forveksling af patienter eller forkert dosis
+      - bruge organisationens mønstre for sikkerhedskritisk information, såsom patientidentitetsbannere og allergiadvarsler
+    working: |
+      Du kan:
+      - designe grænseflader, der gør den sikre handling til den nemme handling, for eksempel ved at mindske tvetydige etiketter og unødvendige advarsler
+      - teste designs i realistiske kliniske scenarier, herunder afbrydelser og tidspres
+      - gøre den kliniske sikkerhedsansvarlige opmærksom på designrelaterede farer og registrere, hvordan designs styrer dem
+    practitioner: |
+      Du kan:
+      - anvende metoder fra human factors, såsom opgaveanalyse og analyse af brugsfejl, på komplekse kliniske arbejdsgange
+      - designe for at mindske advarselstræthed og kognitiv belastning i en hel service
+      - levere designevidens til kliniske sikkerhedsbegrundelser og brugbarhedsevidens til reguleret software
+    expert: |
+      Du kan:
+      - fastlægge organisationens standarder og mønstre for sikkerhedskritisk design
+      - lede arbejdet med human factors i de kliniske services med den højeste risiko
+      - rådgive ledere inden for klinisk sikkerhed og produkt om designrelaterede risici på tværs af porteføljen
+pd-health-content:
+  name: Sundhedsfagligt indhold
+  description: At skabe sundheds- og plejeindhold, der er korrekt, klinisk kvalitetssikret og let at forstå og handle på for mennesker med forskelligt niveau af sundhedskompetence.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor sundhedsinformation skal være korrekt, aktuel og let at forstå
+      - følge teamets stilguide og kliniske gennemgangsproces for sundhedsfagligt indhold
+    working: |
+      Du kan:
+      - skrive sundhedsfagligt indhold, som mennesker med lav sundhedskompetence kan forstå og handle på, såsom symptomer og hvornår man skal søge hjælp
+      - samarbejde med kliniske gennemgangspersoner om at kontrollere, at indholdet er korrekt, uden at miste klarhed
+      - forklare medicinske termer på almindeligt sprog og bruge ensartede navne for tilstande, undersøgelser og behandlinger
+    practitioner: |
+      Du kan:
+      - designe indhold til følsomme emner med høj risiko, såsom akutte symptomer, medicin og pleje i livets sidste fase
+      - opsætte klinisk kvalitetssikring, gennemgangsdatoer og evidenskilder for en samling sundhedsfagligt indhold
+      - afveje klinisk præcision, juridiske krav og brugernes forståelse i omstridt indhold
+    expert: |
+      Du kan:
+      - fastlægge organisationens standarder for sundhedsfagligt indhold og dets kliniske kvalitetssikring
+      - lede indholdsstrategien for sundhedsinformation på tværs af services og kanaler
+      - rådgive ledere inden for klinik og kommunikation om risici ved sundhedsinformation

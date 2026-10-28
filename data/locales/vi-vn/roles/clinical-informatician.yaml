@@ -1,0 +1,59 @@
+summary: Chuyên gia tin học lâm sàng là các bác sĩ lâm sàng có đăng ký hành nghề, như bác sĩ, điều dưỡng, dược sĩ và các chuyên gia y tế liên quan, dùng kiến thức lâm sàng của mình để định hình các dịch vụ y tế số của tổ chức. Họ bảo đảm các hệ thống lâm sàng, dữ liệu và hỗ trợ ra quyết định phù hợp với cách chăm sóc được cung cấp, an toàn khi sử dụng và cải thiện kết quả cho bệnh nhân cũng như trải nghiệm của bác sĩ lâm sàng và nhân viên chăm sóc.
+health_context:
+- Vai trò đòi hỏi kiến thức lâm sàng hiện hành, nên hầu hết các vị trí yêu cầu đăng ký với một cơ quan nghề nghiệp lâm sàng và một số hoạt động hành nghề lâm sàng liên tục.
+- Chuyên gia tin học lâm sàng đưa ra tư vấn chuyên sâu về việc các hệ thống ảnh hưởng đến việc chăm sóc bệnh nhân như thế nào, nên phán đoán của họ ảnh hưởng trực tiếp đến an toàn bệnh nhân.
+- Họ làm việc chặt chẽ với cán bộ an toàn lâm sàng, đóng góp chuyên môn lâm sàng vào việc nhận diện mối nguy và hồ sơ an toàn.
+- Dữ liệu lâm sàng tốt phụ thuộc vào việc dùng nhất quán các bộ thuật ngữ lâm sàng như SNOMED CT, nên họ giúp thiết kế hồ sơ có cấu trúc và hỗ trợ ra quyết định.
+- Họ đóng vai trò cầu nối giữa bác sĩ lâm sàng, nhân viên chăm sóc và các nhóm số, và thường dẫn dắt việc thu hút sự tham gia của lâm sàng cho các thay đổi hệ thống.
+levels:
+- title: Chuyên viên tin học lâm sàng
+  summary: Mang chuyên môn lâm sàng vào việc thiết kế, cấu hình, kiểm thử và áp dụng các hệ thống lâm sàng, làm việc trong một nhóm sản phẩm hoặc chương trình dưới sự hướng dẫn của một chuyên gia tin học lâm sàng cao cấp.
+  responsibilities:
+  - Vẽ sơ đồ quy trình lâm sàng cùng bác sĩ lâm sàng và nhân viên chăm sóc và chuyển chúng thành các yêu cầu rõ ràng.
+  - Thiết kế và kiểm thử nội dung hệ thống như biểu mẫu, bộ y lệnh và kế hoạch chăm sóc theo các tình huống lâm sàng.
+  - Tham gia các buổi làm việc về mối nguy và đưa ý kiến lâm sàng về rủi ro và biện pháp kiểm soát.
+  - Hỗ trợ bác sĩ lâm sàng và nhân viên chăm sóc áp dụng các hệ thống mới một cách an toàn, kể cả đào tạo và hỗ trợ khi đưa vào vận hành.
+  - Kiểm tra dữ liệu lâm sàng được ghi nhất quán bằng các bộ thuật ngữ lâm sàng đã thống nhất.
+  - Thu thập phản hồi và dữ liệu về việc sử dụng hệ thống và đề xuất cải tiến.
+  qualifications:
+  - Đang có đăng ký hành nghề với một cơ quan nghề nghiệp lâm sàng, có kinh nghiệm hành nghề lâm sàng.
+  - Có kinh nghiệm dùng các hệ thống lâm sàng trong thực tế, hoặc kinh nghiệm tương đương về thay đổi số.
+  job_evaluation_notes: Chăm sóc bệnh nhân được chấm ở mức 4 vì công việc tư vấn về việc chăm sóc bệnh nhân thông qua thiết kế các hệ thống lâm sàng. Nỗ lực cảm xúc phản ánh việc thường xuyên rà soát hồ sơ lâm sàng và sự cố.
+- title: Chuyên gia tin học lâm sàng cao cấp
+  summary: Dẫn dắt phần đóng góp lâm sàng cho một hệ thống, sản phẩm hoặc chương trình lâm sàng lớn, đưa ra tư vấn chuyên sâu về việc các dịch vụ số ảnh hưởng đến việc chăm sóc và an toàn của bệnh nhân.
+  responsibilities:
+  - Dẫn dắt thiết kế lâm sàng cho một hệ thống hoặc sản phẩm lâm sàng lớn, đặt ra tiêu chuẩn về nội dung và cấu hình.
+  - Đưa ra tư vấn chuyên sâu cho các nhóm sản phẩm về quy trình lâm sàng, hỗ trợ ra quyết định và an toàn.
+  - Phối hợp với cán bộ an toàn lâm sàng để nhận diện mối nguy, thống nhất biện pháp kiểm soát và cung cấp bằng chứng lâm sàng cho hồ sơ an toàn.
+  - Dẫn dắt việc thu hút sự tham gia và áp dụng của lâm sàng trên các dịch vụ, vận động việc sử dụng an toàn trong giới đồng nghiệp lâm sàng.
+  - Lập kế hoạch và thực hiện các đánh giá và kiểm toán lâm sàng về việc sử dụng hệ thống và lợi ích.
+  - Kèm cặp các chuyên viên tin học lâm sàng và bác sĩ lâm sàng mới làm quen với công việc số.
+  qualifications:
+  - Đang có đăng ký hành nghề với một cơ quan nghề nghiệp lâm sàng, có kinh nghiệm lâm sàng dày dặn.
+  - Có bằng cấp sau đại học về tin học lâm sàng hoặc y tế, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Chăm sóc bệnh nhân được chấm ở mức 5 cho tư vấn chuyên sâu về chăm sóc bệnh nhân. Nghiên cứu ở mức 3 vì đánh giá và kiểm toán lâm sàng các hệ thống là phần chính của công việc.
+- title: Trưởng nhóm chuyên gia tin học lâm sàng
+  summary: Dẫn dắt tin học lâm sàng cho một danh mục các hệ thống lâm sàng hoặc một môi trường chăm sóc, đặt ra tiêu chuẩn thiết kế lâm sàng và dẫn dắt một nhóm các chuyên gia tin học lâm sàng.
+  responsibilities:
+  - Đề ra tiêu chuẩn và nguyên tắc thiết kế lâm sàng cho các hệ thống lâm sàng trên một danh mục.
+  - Dẫn dắt một nhóm các chuyên gia tin học lâm sàng, đặt ra ưu tiên và hỗ trợ sự phát triển nghề nghiệp của họ.
+  - Tư vấn cho các ban chương trình và lãnh đạo cấp cao về rủi ro, lợi ích và ưu tiên lâm sàng của các hệ thống lâm sàng.
+  - Dẫn dắt các quyết định lâm sàng về hỗ trợ ra quyết định, cảnh báo và dữ liệu có cấu trúc trên các dịch vụ.
+  - Xây dựng mạng lưới các đại sứ lâm sàng và dẫn dắt việc thu hút sự tham gia của lâm sàng cho thay đổi quy mô lớn.
+  - Đặt hàng và dẫn dắt các đánh giá, và dùng bằng chứng để định hình lộ trình.
+  qualifications:
+  - Đang có đăng ký hành nghề với một cơ quan nghề nghiệp lâm sàng, có kinh nghiệm lâm sàng sâu rộng.
+  - Có bằng cấp sau đại học về tin học lâm sàng hoặc y tế, hoặc kinh nghiệm tương đương trong việc dẫn dắt công việc tin học lâm sàng.
+- title: Trưởng bộ phận tin học lâm sàng
+  summary: Dẫn dắt chức năng tin học lâm sàng của tổ chức và cơ quan thiết kế lâm sàng của nó, bảo đảm mọi hệ thống lâm sàng được thiết kế, áp dụng và cải thiện với sự lãnh đạo lâm sàng mạnh mẽ.
+  responsibilities:
+  - Đề ra chiến lược tin học lâm sàng và dẫn dắt cơ quan thiết kế lâm sàng của tổ chức.
+  - Dẫn dắt và phát triển chức năng tin học lâm sàng, kể cả kế hoạch nhân lực và ngân sách.
+  - Đưa ra tư vấn chuyên sâu cao cho ban điều hành về tác động của đầu tư số đối với việc chăm sóc bệnh nhân.
+  - Bảo đảm các hệ thống lâm sàng đáp ứng các tiêu chuẩn về an toàn lâm sàng, thuật ngữ và dữ liệu.
+  - Đại diện tổ chức với các đối tác y tế và chăm sóc, các cơ quan nghề nghiệp và mạng lưới học thuật.
+  - Dẫn dắt các quan hệ hợp tác nghiên cứu và đánh giá để xây dựng bằng chứng cho y tế số.
+  qualifications:
+  - Đang có đăng ký hành nghề với một cơ quan nghề nghiệp lâm sàng, có kinh nghiệm lâm sàng và lãnh đạo sâu rộng.
+  - Có bằng thạc sĩ về tin học lâm sàng hoặc y tế, hoặc kinh nghiệm tương đương trong việc dẫn dắt tin học lâm sàng ở cấp tổ chức.
+  job_evaluation_notes: Chăm sóc bệnh nhân được chấm ở mức 6 cho tư vấn chuyên sâu cao về chăm sóc bệnh nhân trên các hệ thống lâm sàng của tổ chức.

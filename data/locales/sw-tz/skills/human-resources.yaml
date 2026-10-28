@@ -1,0 +1,298 @@
+# Swahili translations of data/skills/human-resources.yaml. Keys are the English skill ids.
+hr-hr-administration:
+  name: Utawala wa rasilimali watu
+  description: Kuendesha michakato ya kiutawala ya mzunguko wa ajira kwa usahihi na usiri, kuanzia mikataba na wanaoanza hadi mabadiliko, kumbukumbu za kutohudhuria na wanaoondoka.
+  levels:
+    awareness: |
+      Unaweza:
+      - kufuata taratibu za taasisi kwa wanaoanza, mabadiliko na wanaoondoka
+      - kutunza kumbukumbu binafsi kwa siri na kuzisasisha
+    working: |
+      Unaweza:
+      - kuandaa mikataba, barua za marekebisho na ukaguzi wa ajira kwa usahihi
+      - kuchakata mabadiliko katika mfumo wa rasilimali watu na mishahara kabla ya tarehe za mwisho
+      - kujibu maswali ya kawaida kutoka kwa mameneja na wafanyakazi kuhusu michakato ya rasilimali watu
+    practitioner: |
+      Unaweza:
+      - kuendesha huduma ya utawala wa rasilimali watu, ukikagua ubora na kutimiza viwango vya huduma
+      - kuboresha michakato na violezo, na kuendesha kiotomatiki hatua za kawaida inapowezekana
+      - kutatua kesi tata au zisizo za kawaida, kama vile malipo ya ziada au makosa ya mikataba
+    expert: |
+      Unaweza:
+      - kubuni mfumo wa uendeshaji wa rasilimali watu na viwango vya huduma kwa taasisi
+      - kuongoza mpito kuelekea michakato ya kidijitali ya rasilimali watu ya huduma binafsi
+      - kuweka udhibiti unaoweka data za rasilimali watu na mishahara sahihi na halali
+hr-employment-policy:
+  name: Sheria ya ajira na sera za watu
+  description: Kutumia sheria ya ajira na kuandika, kufasiri na kukagua sera za watu za taasisi ili wafanyakazi watendewe kihalali, kwa haki na kwa uthabiti.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza sera kuu za watu na mahali pa kuzipata
+      - kutambua ni lini swali linahitaji ushauri wa mshauri wa rasilimali watu
+    working: |
+      Unaweza:
+      - kutumia sera za watu kwenye kesi za kawaida na kuzieleza kwa mameneja
+      - kubainisha kanuni za sheria ya ajira zilizo nyuma ya sera
+      - kutunza kumbukumbu za sera na kufuatilia tarehe za ukaguzi wa sera
+    practitioner: |
+      Unaweza:
+      - kufasiri sheria ya ajira na sera kwa kesi tata na kushauri kuhusu hatari
+      - kuandaa rasimu na kukagua sera za watu, pamoja na tathmini za athari za usawa
+      - kushauriana kuhusu mabadiliko ya sera na wawakilishi wa wafanyakazi
+    expert: |
+      Unaweza:
+      - kuweka mfumo wa sera za watu wa taasisi na mtazamo wake kuhusu hatari za kisheria
+      - kutarajia mabadiliko ya sheria ya ajira na kupanga majibu ya taasisi
+      - kuishauri bodi kuhusu hatari za ajira na dhima
+hr-employee-relations:
+  name: Kushughulikia kesi za mahusiano ya wafanyakazi
+  description: Kusimamia kesi rasmi na zisizo rasmi za mahusiano ya wafanyakazi, kama vile mwenendo, uwezo, malalamiko, mahudhurio na heshima kazini, kwa haki na kwa mujibu wa sera na sheria ya ajira.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza hatua kuu za taratibu za mwenendo, uwezo, malalamiko na mahudhurio
+      - kuchukua maelezo sahihi katika mikutano rasmi na kutunza kumbukumbu za kesi kwa siri
+    working: |
+      Unaweza:
+      - kuwashauri mameneja kuhusu kesi rahisi na hatua inayofuata katika utaratibu
+      - kusaidia uchunguzi, kuandaa nyaraka za kesi na kupanga vikao vya kusikiliza
+      - kufanya kazi kwa njia ya kujenga na wawakilishi wa wafanyakazi kwenye kesi za mtu binafsi
+    practitioner: |
+      Unaweza:
+      - kusimamia wingi wa kesi tata, ukishauri paneli za kusikiliza kuhusu matokeo ya haki
+      - kufanya au kuongoza uchunguzi, ikiwemo ule unaohusiana na matukio au ulinzi wa watu
+      - kutumia utatuzi wa mapema na usuluhishi kumaliza mizozo kabla haijakua
+      - kutambua mwelekeo katika kesi na kushughulikia visababishi vyake
+    expert: |
+      Unaweza:
+      - kuongoza mtazamo wa taasisi kuhusu mahusiano ya wafanyakazi na kufanya kazi kwa ushirikiano
+      - kushughulikia kesi nyeti zaidi au zenye hatari kubwa, ikiwemo madai ya ajira
+      - kujadili makubaliano ya pamoja na kutatua mizozo ya pamoja
+hr-recruitment-and-selection:
+  name: Uajiri na uteuzi
+  description: Kuvutia, kutathmini na kuteua watu kwa haki na kwa ufanisi, kuanzia usanifu wa kazi na matangazo hadi kuchagua orodha fupi, tathmini, ofa na ukaguzi wa kabla ya ajira.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza hatua za mchakato wa uajiri wa taasisi
+      - kufuata kanuni za uajiri wa haki na salama, ikiwemo ukaguzi wa kabla ya ajira
+    working: |
+      Unaweza:
+      - kuendesha kampeni za uajiri kupitia mfumo wa ufuatiliaji wa waombaji
+      - kuwasaidia mameneja na matangazo, orodha fupi na mipango ya usaili
+      - kukamilisha ukaguzi wa kabla ya ajira na kutoa ofa za masharti
+    practitioner: |
+      Unaweza:
+      - kuwashauri mameneja kuhusu usanifu wa kazi, mbinu za uteuzi na tathmini ya haki
+      - kubuni tathmini kwa nafasi maalumu, kama vile mazoezi ya kiufundi kwa nafasi za kidijitali
+      - kuchambua data za uajiri kuboresha muda wa kuajiri, ubora na utofauti
+      - kusimamia uzoefu wa mgombea na chapa ya mwajiri
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa uajiri wa taasisi na viwango vya huduma
+      - kuongoza uchaguzi na matumizi ya teknolojia na mawakala wa uajiri
+      - kuhakikisha uajiri unajumuisha wote na ni halali katika taasisi nzima
+hr-talent-attraction:
+  name: Kuvutia na kutafuta vipaji
+  description: Kutafuta na kuwashirikisha watu wenye ujuzi adimu, kama vile wataalamu wa kidijitali, data na teknolojia, kupitia chapa ya mwajiri, utafutaji wa moja kwa moja, mitandao na njia za mwanzo wa taaluma.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza ni ujuzi gani ni mgumu kuajiri na kwa nini
+      - kusambaza matangazo ya kazi kupitia njia na mitandao ya taasisi
+    working: |
+      Unaweza:
+      - kuandika matangazo yanayowavutia wagombea maalumu na kutumia lugha rahisi
+      - kutafuta wagombea kwenye mbao za kazi, mitandao ya kitaaluma na hifadhi za vipaji
+      - kusaidia matukio, kama vile maonyesho ya taaluma na siku za wazi
+    practitioner: |
+      Unaweza:
+      - kujenga mifereji ya vipaji na jumuiya kwa nafasi adimu za kidijitali na data
+      - kuunda pendekezo la thamani la mwajiri pamoja na timu za kuajiri
+      - kutumia data za soko kuhusu mishahara na upatikanaji kushauri kuhusu nafasi ngumu kujazwa
+      - kuendeleza njia za mwanzo wa taaluma, kama vile uanagenzi na mipango ya wahitimu
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa taasisi wa kuvutia vipaji na chapa ya mwajiri
+      - kufanya kazi na washirika, kama vile vyuo vikuu na waajiri wengine, kukuza upatikanaji wa vipaji
+      - kuongoza maamuzi kuhusu malipo ya ziada, matumizi ya mawakala na miundo mbadala ya kutafuta
+hr-workforce-planning:
+  name: Mipango ya nguvu kazi
+  description: Kutabiri nguvu kazi ambayo taasisi inahitaji, kuilinganisha na nguvu kazi iliyopo, na kupanga jinsi ya kuziba pengo kupitia uajiri, maendeleo, usanifu upya na kubakiza wafanyakazi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza kwa nini mipango ya nguvu kazi ni muhimu kwa huduma salama na endelevu
+      - kutoa taarifa sahihi za idadi ya nafasi na nafasi wazi
+    working: |
+      Unaweza:
+      - kukusanya na kukagua data za mpango wa nguvu kazi kutoka kwa mameneja
+      - kuunda miundo rahisi ya matukio, kama vile mwelekeo wa kuondoka kwa wafanyakazi na nafasi wazi
+    practitioner: |
+      Unaweza:
+      - kuongoza mipango ya nguvu kazi kwa kurugenzi, ukiiunganisha na mipango ya huduma na fedha
+      - kubainisha mapengo ya ujuzi na kupendekeza njia za kuyaziba
+      - kupanga nafasi mpya, njia za taaluma na mchanganyiko wa ujuzi
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa nguvu kazi wa taasisi na mpango wa muda mrefu
+      - kufanya maridhiano ya nguvu kazi katika huduma pamoja na viongozi wa fedha na huduma
+      - kuunda mipango ya nguvu kazi pamoja na washirika katika mfumo wa afya na matunzo
+hr-workforce-information:
+  name: Taarifa za nguvu kazi na mifumo ya rasilimali watu
+  description: Kusimamia mifumo na data za rasilimali watu na nguvu kazi, na kugeuza data za nguvu kazi kuwa ripoti na uelewa, kama vile uchambuzi wa kuondoka kwa wafanyakazi, kutohudhuria, nafasi wazi, utofauti na pengo la mishahara.
+  levels:
+    awareness: |
+      Unaweza:
+      - kuingiza data za nguvu kazi kwa usahihi katika mfumo wa rasilimali watu
+      - kueleza kwa nini data za nguvu kazi lazima ziwe sahihi na zitunzwe kwa siri
+    working: |
+      Unaweza:
+      - kuendesha ripoti za kawaida za nguvu kazi na kuzikagua kwa makosa
+      - kujibu maombi ya kawaida ya taarifa kuhusu nguvu kazi
+    practitioner: |
+      Unaweza:
+      - kuchambua data za nguvu kazi kupata mwelekeo na kuueleza kwa mameneja
+      - kubuni dashibodi na ripoti za viashiria vya nguvu kazi
+      - kutoa ripoti za kisheria na za usawa, kama vile uchambuzi wa pengo la mishahara
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa taarifa za nguvu kazi na viwango vya data vya taasisi
+      - kuongoza uchaguzi na uendelezaji wa mifumo ya rasilimali watu
+      - kutumia uelewa wa nguvu kazi kuongoza maamuzi ya bodi
+hr-reward-and-job-evaluation:
+  name: Malipo na tathmini ya kazi
+  description: Kutumia kanuni za mishahara na malipo, na kutathmini kazi kwa uthabiti dhidi ya mpango wa tathmini ya kazi ili kuziweka katika daraja sahihi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza jinsi madaraja ya mishahara, nyongeza za ngazi na posho zinavyofanya kazi
+      - kueleza kwamba kazi huwekwa katika madaraja kwa tathmini ya kazi, si kwa mtu aliye katika kazi hiyo
+    working: |
+      Unaweza:
+      - kutumia kanuni za mishahara, kama vile mshahara wa kuanzia, ulinzi na posho
+      - kukagua kama maelezo ya kazi yamekamilika kabla ya kwenda kwenye tathmini
+      - kushiriki katika paneli za tathmini ya kazi kama mjumbe aliyefunzwa
+    practitioner: |
+      Unaweza:
+      - kuongoza paneli za tathmini ya kazi na ukaguzi wa uthabiti
+      - kushauri kuhusu uwekaji katika madaraja kwa nafasi mpya na zilizobadilika, ikiwemo nafasi za kidijitali na data
+      - kushauri kuhusu malipo ya ziada ya uajiri na kubakiza wafanyakazi, kwa kutumia ushahidi wa soko
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa malipo wa taasisi ndani ya mfumo wa mishahara uliokubaliwa
+      - kuhakikisha uadilifu wa tathmini ya kazi katika taasisi nzima
+      - kuongoza mapitio ya malipo sawa na kuchukua hatua kulingana na matokeo yake
+hr-learning-design-and-delivery:
+  name: Usanifu na utoaji wa mafunzo
+  description: Kuchambua mahitaji ya kujifunza, kisha kubuni, kutoa na kutathmini mafunzo ana kwa ana, mtandaoni na ndani ya mtiririko wa kazi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza tofauti kati ya mafunzo, kujifunza na maendeleo
+      - kusaidia uendeshaji wa kozi na kutunza kumbukumbu za mafunzo
+    working: |
+      Unaweza:
+      - kutoa vikao vya mafunzo vilivyobainishwa vizuri ana kwa ana na mtandaoni
+      - kujenga mafunzo rahisi ya kielektroniki katika mfumo wa usimamizi wa kujifunza
+      - kukusanya na kufupisha maoni ya wanafunzi
+    practitioner: |
+      Unaweza:
+      - kuchambua mahitaji ya kujifunza na kubuni programu mseto za kuyatimiza
+      - kuweka malengo ya kujifunza na kutathmini athari, si kuridhika tu
+      - kufanya mafunzo yafikike na yajumuishe wafanyakazi wote
+    expert: |
+      Unaweza:
+      - kuweka mkakati na viwango vya kujifunza vya taasisi
+      - kuongoza huduma za kujifunza, teknolojia yake na ufadhili wake
+      - kuonyesha faida ya uwekezaji wa taasisi katika kujifunza
+hr-skills-frameworks-and-career-pathways:
+  name: Mifumo ya ujuzi na njia za taaluma
+  description: Kutumia mifumo ya ujuzi na nafasi, kama vile marejeleo haya, UK GDaD PCF na ESCO, kuelezea nafasi, kutathmini mapengo ya ujuzi na kujenga njia za taaluma.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza mfumo wa ujuzi ni nini na jinsi unavyoelezea nafasi na viwango
+      - kupata wasifu wa nafasi na ujuzi wa kazi katika mfumo
+    working: |
+      Unaweza:
+      - kulinganisha maelezo ya kazi na nafasi, viwango na ujuzi wa mfumo
+      - kusaidia wafanyakazi na mameneja kwa tathmini binafsi za ujuzi
+      - kuweka taarifa za njia za taaluma ziwe za kisasa
+    practitioner: |
+      Unaweza:
+      - kuendesha uchambuzi wa mapengo ya ujuzi kwa timu au taaluma na kuripoti matokeo
+      - kubuni njia za taaluma na njia za maendeleo kwa kutumia viwango vya mfumo
+      - kutumia ujuzi wa mfumo kuandika maelezo ya kazi na tathmini zenye uthabiti
+    expert: |
+      Unaweza:
+      - kuweka jinsi taasisi inavyotumia mifumo ya ujuzi katika taaluma zote
+      - kutumia data za ujuzi kuongoza mkakati wa nguvu kazi, kujifunza na malipo
+      - kuchangia uendelezaji wa mifumo ya pamoja na taasisi nyingine
+hr-organisational-development:
+  name: Maendeleo ya taasisi
+  description: Kuboresha jinsi taasisi inavyofanya kazi kupitia utamaduni, uongozi, ushiriki, ufanisi wa timu na hatua za ustawi zinazotegemea ushahidi.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza jinsi utamaduni, uongozi na ushiriki vinavyoathiri wafanyakazi na matunzo ya wagonjwa
+      - kusaidia kuendesha tafiti za wafanyakazi na matukio ya kusikiliza
+    working: |
+      Unaweza:
+      - kuwezesha vikao vya timu na warsha kwa kutumia zana za kawaida
+      - kuchambua matokeo ya utafiti wa wafanyakazi kwa timu na kupendekeza hatua
+    practitioner: |
+      Unaweza:
+      - kutambua matatizo ya taasisi na kubuni hatua za kuyashughulikia
+      - kuongoza maendeleo ya timu, maendeleo ya uongozi na programu za ushiriki
+      - kutathmini athari za hatua kwa kutumia ushahidi
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa maendeleo ya taasisi na programu ya utamaduni
+      - kuwaongoza watendaji wakuu na kuongoza mabadiliko makubwa ya utamaduni
+      - kuunganisha vipimo vya utamaduni na ushiriki na ubora wa matunzo na utendaji
+hr-organisational-change:
+  name: Mabadiliko ya taasisi na mashauriano
+  description: Kupanga na kusimamia mabadiliko ya miundo, nafasi na mifumo ya kazi, ikiwemo mashauriano rasmi, kuhamishwa kazi na kupunguzwa kazi, kwa mujibu wa sera na sheria ya ajira.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza hatua kuu za mchakato wa mabadiliko ya taasisi
+      - kusaidia utawala wa mabadiliko, kama vile barua za mashauriano na mikutano
+    working: |
+      Unaweza:
+      - kuwasaidia mameneja kuandaa nyaraka za mashauriano na maelezo ya awali kwa wafanyakazi
+      - kufuatilia majibu na hatua wakati wa mashauriano
+      - kuwasaidia wafanyakazi katika michakato ya kuhamishwa kazi na uteuzi
+    practitioner: |
+      Unaweza:
+      - kuongoza mabadiliko ya taasisi kwa kurugenzi, kuanzia hoja ya kibiashara hadi utekelezaji
+      - kushauriana na wafanyakazi na wawakilishi wao na kujibu maoni yao
+      - kusimamia hatari za kisheria na za usawa za mabadiliko
+    expert: |
+      Unaweza:
+      - kuongoza upangaji upya wa miundo na uhamishaji wa huduma katika taasisi nzima
+      - kubuni mtazamo wa taasisi kuhusu mabadiliko, ikiwemo kufanya kazi kwa ushirikiano
+      - kuishauri bodi kuhusu athari kwa watu na hatari za mabadiliko makubwa
+hr-people-strategy:
+  name: Mkakati wa watu na uongozi wa rasilimali watu
+  description: Kuweka mkakati wa watu wa taasisi, kuongoza kitengo cha rasilimali watu, na kuishauri bodi kuhusu utamaduni, nguvu kazi na hatari za ajira.
+  levels:
+    awareness: |
+      Unaweza:
+      - kueleza mkakati wa watu wa taasisi na jinsi kazi yako inavyouunga mkono
+    working: |
+      Unaweza:
+      - kuchangia mipango ya watu kwa huduma, yenye hatua na vipimo vilivyo wazi
+      - kuripoti maendeleo dhidi ya mpango wa watu
+    practitioner: |
+      Unaweza:
+      - kuandika na kuongoza mipango ya watu kwa kurugenzi kulingana na mkakati wa watu
+      - kuwashauri viongozi wakuu kuhusu hatari na vipaumbele vya watu
+      - kuongoza sehemu ya kitengo cha rasilimali watu, ukiweka viwango na vipaumbele vyake
+    expert: |
+      Unaweza:
+      - kuweka mkakati wa watu wa taasisi na kuongoza kitengo cha rasilimali watu
+      - kuishauri bodi kuhusu utamaduni, nguvu kazi na hatari za ajira
+      - kuiwakilisha taasisi kuhusu masuala ya watu kwa washirika na wadhibiti

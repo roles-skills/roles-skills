@@ -1,0 +1,60 @@
+summary: Os profissionais de arquitetura de soluções projetam como um serviço novo ou alterado funcionará de ponta a ponta, das necessidades dos usuários e dos fluxos de trabalho clínicos às aplicações, aos dados, às integrações, à hospedagem e à segurança. Garantem que cada solução se encaixe na arquitetura da organização, atenda às suas necessidades de segurança, privacidade e interoperabilidade e possa ser construída, operada e mantida a um custo acessível.
+health_context:
+- As soluções costumam combinar sistemas clínicos adquiridos, serviços próprios e plataformas compartilhadas, por isso as pessoas arquitetas devem projetar além das fronteiras entre fornecedores.
+- As escolhas de projeto podem introduzir perigos clínicos, como resultados perdidos ou associação ao paciente errado, por isso os projetos de solução alimentam o dossiê de segurança clínica.
+- Todo novo fluxo de dados de informações de pacientes precisa de base legal e de uma avaliação de impacto sobre a proteção de dados, por isso as pessoas arquitetas trabalham em estreita colaboração com a governança da informação.
+- A interoperabilidade com outras organizações de saúde e de cuidados, usando padrões como o HL7 FHIR, costuma ser um requisito central.
+- Algumas soluções incluem software que é dispositivo médico, o que altera o projeto, a garantia e os requisitos para fornecedores.
+levels:
+- title: Profissional de arquitetura de soluções associado
+  responsibilities:
+  - Levantar requisitos com equipes de produto, profissionais clínicos e fornecedores para subsidiar os projetos de solução.
+  - Desenhar diagramas do estado atual e do estado desejado, como visões de contexto, de fluxo de dados e de integração.
+  - Redigir, sob supervisão, partes dos projetos de solução e dos registros de decisão.
+  - Conferir os projetos em relação aos padrões de arquitetura e aos requisitos de segurança e de governança da informação.
+  - Ajudar a preparar os projetos para revisão nas instâncias de decisão de projeto.
+  qualifications:
+  - Conhecimento especializado em projeto de soluções, em nível de mestrado ou experiência equivalente.
+  - Experiência em análise, desenvolvimento ou projeto técnico.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 6); anúncios do setor de saúde situam esta função na Faixa 7. Os conhecimentos são pontuados em nível de mestrado ou equivalente, porque a função projeta abrangendo aplicações, dados, integração e segurança."
+- title: Profissional de arquitetura de soluções
+  responsibilities:
+  - Projetar soluções de ponta a ponta para serviços de menor risco, como ferramentas para as equipes ou serviços simples voltados a pacientes.
+  - Comparar opções, incluindo comprar, construir e reaproveitar plataformas compartilhadas, e recomendar uma delas com motivos claros.
+  - Projetar as integrações, os fluxos de dados e a identidade e o acesso da solução, usando padrões abertos quando existirem.
+  - Contribuir para a identificação de perigos e para as avaliações de impacto sobre a proteção de dados da solução.
+  - Apresentar os projetos às instâncias de decisão de projeto e apoiar as equipes de entrega na construção e na entrada em operação.
+  - Orientar e revisar o trabalho de profissionais de arquitetura de soluções associados.
+  qualifications:
+  - Experiência substancial em projeto de soluções ou engenharia de software, em nível equivalente ao de mestrado.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 7); anúncios do setor de saúde situam esta função na Faixa 8a. Planejamento, política e liberdade de ação são pontuados acima do perfil da Faixa 7, porque a função é responsável por projetos de ponta a ponta e recomenda opções às instâncias de decisão de projeto."
+- title: Profissional de arquitetura de soluções sênior
+  responsibilities:
+  - Projetar soluções complexas de risco moderado, como sistemas clínicos ou serviços usados por várias organizações.
+  - Liderar a avaliação técnica de produtos de fornecedores em contratações, incluindo interoperabilidade, segurança e segurança clínica.
+  - Projetar para resiliência e continuidade de negócios quando a solução apoia o cuidado 24 horas por dia.
+  - Trabalhar com os responsáveis pela segurança clínica para que as decisões de projeto e os controles de risco sejam registrados no dossiê de segurança.
+  - Orientar e revisar o trabalho de outros profissionais de arquitetura de soluções.
+  qualifications:
+  - Ampla experiência no projeto de soluções complexas em várias disciplinas, em nível acima do de mestrado.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 8a); anúncios do setor de saúde situam esta função na Faixa 8b. Os conhecimentos são pontuados no nível 8, por conhecimento especializado em várias disciplinas, como aplicações, dados, integração, segurança e segurança clínica."
+- title: Profissional de arquitetura de soluções líder
+  responsibilities:
+  - Liderar a arquitetura de soluções de um programa ou de uma área complexa, como a substituição de um prontuário eletrônico do paciente.
+  - Garantir que as soluções de todo o programa sejam consistentes, interoperáveis e alinhadas com a arquitetura-alvo.
+  - Aconselhar os comitês do programa sobre riscos de projeto, dependências, escolhas de fornecedores e custos.
+  - Dar garantia aos projetos de outros profissionais de arquitetura de soluções nas instâncias de decisão de projeto.
+  - Liderar e desenvolver uma equipe de profissionais de arquitetura de soluções.
+  qualifications:
+  - Ampla experiência na liderança da arquitetura de soluções de programas complexos.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 8b); anúncios do setor de saúde situam esta função na Faixa 8c. Planejamento, política e pessoas são pontuados acima do perfil da Faixa 8b, porque a função planeja a arquitetura de todo um programa e lidera uma equipe de profissionais de arquitetura de soluções."
+- title: Profissional de arquitetura de soluções principal
+  responsibilities:
+  - Liderar a arquitetura de soluções dos maiores ou mais críticos programas da organização.
+  - Definir os padrões, os modelos e os métodos de arquitetura de soluções da organização.
+  - Aconselhar diretorias e organizações parceiras sobre o projeto de serviços de saúde e de cuidados críticos e compartilhados.
+  - Resolver os conflitos de projeto mais difíceis entre programas, fornecedores e organizações parceiras.
+  - Liderar a prática de arquitetura de soluções e desenvolver suas pessoas.
+  qualifications:
+  - Ampla experiência na liderança da arquitetura de soluções em vários programas ou organizações.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 8c); anúncios do setor de saúde situam esta função na Faixa 8d. A liberdade de ação está no nível 6, porque a função define os padrões de arquitetura de soluções da organização; recursos financeiros e pessoas estão no nível 4, porque lidera a prática e seu orçamento."

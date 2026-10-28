@@ -1,0 +1,260 @@
+# Icelandic translations of data/skills/corporate-services.yaml. Keys are the English skill ids.
+corp-administration:
+  name: Skrifstofuumsýsla
+  description: Að stýra þeim umsýsluferlum sem halda teymi eða þjónustu gangandi, svo sem skjalavistun, pöntunum, gagnafærslu, skrám og því að fylgja skrifstofuverklagi.
+  levels:
+    awareness: |
+      Þú getur:
+      - fylgt skrifstofuverklagi um skjalavistun, pantanir og gagnafærslu
+      - haldið nákvæmar skrár um eigin vinnu
+    working: |
+      Þú getur:
+      - stýrt ýmsum umsýsluferlum fyrir teymi með lítið eftirlit
+      - komið auga á og lagað villur í skrám og gögnum
+      - lagt til einfaldari vinnubrögð
+    practitioner: |
+      Þú getur:
+      - skipulagt umsýslustuðning fyrir þjónustu eða svið
+      - skrifað og bætt umsýsluverklag
+      - þjálfað aðra skrifstofufulltrúa og athugað vinnu þeirra
+    expert: |
+      Þú getur:
+      - hannað umsýsluþjónustu þvert á stofnunina
+      - stýrt færslunni yfir í einfaldari, stafræn umsýsluferli
+corp-office-software:
+  name: Stafræn skrifstofuverkfæri
+  description: Að nota ritvinnslu, töflureikna, kynningar, tölvupóst, sameiginleg skjöl og samvinnuverkfæri hratt og nákvæmlega.
+  levels:
+    awareness: |
+      Þú getur:
+      - búið til og breytt skjölum, tölvupóstum og einföldum töflureiknum
+      - geymt og miðlað skrám á réttum stað
+    working: |
+      Þú getur:
+      - búið til vel sniðin skjöl og kynningar hratt og nákvæmlega
+      - notað töflureikna til að raða, sía og taka saman gögn
+      - notað samvinnuverkfæri til að stýra sameiginlegum skjölum og útgáfum
+    practitioner: |
+      Þú getur:
+      - smíðað sniðmát, rakningarlista og einföld sjálfvirk vinnuflæði
+      - gert skjöl aðgengileg öllum
+      - hjálpað samstarfsfólki að nýta skrifstofuverkfæri sem best
+    expert: |
+      Þú getur:
+      - sett staðla fyrir sniðmát, skjalastjórnun og samvinnuverkfæri
+      - stýrt upptöku nýrra skrifstofuverkfæra þvert á stofnunina
+corp-diary-and-meeting-management:
+  name: Dagbóka- og fundastjórnun
+  description: Að stýra dagbókum, fundum og ferðalögum svo að tími fólks nýtist vel og fundir hafi rétta þátttakendur, gögn og herbergi.
+  levels:
+    awareness: |
+      Þú getur:
+      - bókað fundi og herbergi með verkfærum stofnunarinnar
+      - sent boð og gögn á réttum tíma
+    working: |
+      Þú getur:
+      - stýrt dagbókum fyrir teymi og leyst árekstra
+      - skipulagt ferðalög, viðburði og fundi með utanaðkomandi samstarfsaðilum
+      - tryggt að gögn og aðgerðir séu tilbúin fyrir fundi
+    practitioner: |
+      Þú getur:
+      - stýrt dagbók æðsta stjórnanda og sett forgangsröðun með honum
+      - ákveðið hvað krefst tíma hans og hvað aðrir geta sinnt
+      - skipulagt árshring funda fyrir stjórn eða leiðtogateymi
+    expert: |
+      Þú getur:
+      - stýrt starfsárshring framkvæmdastjórnar
+      - tryggt að tími æðstu stjórnenda beinist að forgangsmálum stofnunarinnar
+corp-minute-taking:
+  name: Fundargerðaritun og fundarskrár
+  description: Að skrá umræður, ákvarðanir og aðgerðir nákvæmlega og hnitmiðað og halda formlegar fundarskrár.
+  levels:
+    awareness: |
+      Þú getur:
+      - skráð aðgerðir og ákvarðanir á teymisfundum
+    working: |
+      Þú getur:
+      - skrifað nákvæmar, hnitmiðaðar fundargerðir og aðgerðaskrár fyrir hversdagslega fundi
+      - fylgt aðgerðum eftir með eigendum þeirra
+    practitioner: |
+      Þú getur:
+      - ritað formlegar fundargerðir stjórnar- og nefndarfunda, þar á meðal flóknar eða umdeildar umræður
+      - haldið formlegar fundarskrár sem standast úttekt og rannsókn
+      - ráðlagt fundarstjórum um hvað skráin ætti að sýna
+    expert: |
+      Þú getur:
+      - sett staðla um formlegar fundarskrár þvert á stofnunina
+      - þjálfað og gæðaprófað fundarritara
+corp-correspondence-management:
+  name: Bréfaskipti og meðferð fyrirspurna
+  description: Að afgreiða bréf, tölvupósta, símtöl og fyrirspurnir tafarlaust og kurteislega og vísa þeim til réttrar manneskju.
+  levels:
+    awareness: |
+      Þú getur:
+      - svarað símtölum og tölvupósti kurteislega og tekið nákvæm skilaboð
+      - vísað fyrirspurnum til réttrar manneskju
+    working: |
+      Þú getur:
+      - afgreitt hversdagsleg bréfaskipti og fyrirspurnir sjálf(ur)
+      - samið drög að bréfum og svörum til undirritunar annarra
+      - haldið bréfaskrár og gengið eftir svörum
+    practitioner: |
+      Þú getur:
+      - stýrt bréfaskiptum fyrir æðsta stjórnanda, þar á meðal viðkvæmum bréfum og kvörtunarbréfum
+      - samið drög að svörum sem krefjast háttvísi, nákvæmni og dómgreindar
+      - tryggt að svör standist fresti
+    expert: |
+      Þú getur:
+      - sett ferli og staðla um bréfaskipti framkvæmdastjórnar
+      - annast viðkvæmustu bréfaskiptin, þar á meðal við eftirlitsaðila, samstarfsaðila og fjölmiðla
+corp-pmo-reporting:
+  name: Stuðningur verkefna- og verkefnasafnsskrifstofu
+  description: Að reka ferla verkefna- og verkefnasafnsskrifstofu, svo sem áætlanir, skrár, skýrslugjöf, skjalastýringu og fullvissuathuganir.
+  levels:
+    awareness: |
+      Þú getur:
+      - haldið verkefnaskjölum á réttum stað, með útgáfustýringu
+      - uppfært aðgerða-, áhættu- og vandamálaskrár þegar beðið er um það
+    working: |
+      Þú getur:
+      - viðhaldið áætlunum, skrám og rakningarlistum fyrir nokkur verkefni
+      - safnað uppfærslum og búið til reglulegar stöðuskýrslur
+      - athugað að verkefni fylgi samþykktri aðferð
+    practitioner: |
+      Þú getur:
+      - hannað skýrslugjöf verkefnasafns og greint framvindu, áhættu og ávinning þvert á verkefni
+      - framkvæmt fullvissuathuganir og hliðayfirferðir
+      - ráðlagt verkefnastjórum um aðferðir og stýringar
+    expert: |
+      Þú getur:
+      - sett upp og stýrt verkefnasafnsskrifstofu fyrir stofnunina
+      - gefið æðri leiðtogum skýra og áreiðanlega innsýn í verkefnasafnið
+      - sett staðla og verkfæri í verkefna- og verkefnasafnsstjórnun
+corp-assurance-and-audit:
+  name: Tengsl við fullvissu og úttektir
+  description: Að afla fullvissu um að stýringar virki, styðja innri og ytri úttektir og fylgjast með tillögum úttekta til loka.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvernig úttektir og fullvissa virka í stofnuninni
+      - lagt fram gögn þegar beðið er um það
+    working: |
+      Þú getur:
+      - samræmt gögn fyrir úttektir og skoðanir
+      - fylgst með tillögum úttekta og gengið eftir seinkuðum aðgerðum
+    practitioner: |
+      Þú getur:
+      - skipulagt fullvissukortlagningu þvert á helstu áhættu stofnunarinnar
+      - unnið með innri og ytri endurskoðendum að því að samþykkja umfang og niðurstöður
+      - skilað skýrslu um fullvissueyður til nefnda
+    expert: |
+      Þú getur:
+      - hannað fullvissuramma stofnunarinnar
+      - ráðlagt endurskoðunarnefnd og stjórn um styrk fullvissunnar
+corp-policy-management:
+  name: Stefnustjórnun
+  description: Að skrifa, yfirfara, samþykkja og birta stefnur og verklag stofnunarinnar og athuga að fólk fylgi þeim.
+  levels:
+    awareness: |
+      Þú getur:
+      - fundið og fylgt þeim stefnum sem gilda um vinnu þína
+    working: |
+      Þú getur:
+      - haldið stefnuskránni uppfærðri og minnt eigendur á yfirferðir
+      - athugað að stefnur noti rétt sniðmát og samþykktarleið
+    practitioner: |
+      Þú getur:
+      - samið og yfirfarið stefnur með sérfræðingum á viðkomandi sviði
+      - athugað stefnur gegn lögum, stöðlum og jafnræðisskyldum
+      - fylgst með fylgni og skilað skýrslu um eyður
+    expert: |
+      Þú getur:
+      - mótað stefnuramma stofnunarinnar
+      - ráðlagt stjórn um stefnuforgangsröðun og áhættu
+corp-internal-communications:
+  name: Innri samskipti
+  description: Að halda starfsfólki upplýstu og þátttakandi gegnum rásir eins og innranet, fréttabréf, kynningar og viðburði, einkum á breytingatímum.
+  levels:
+    awareness: |
+      Þú getur:
+      - birt efni á innri rásum eins og innranetinu
+      - fylgt stíl og tónn stofnunarinnar
+    working: |
+      Þú getur:
+      - skrifað og ritstýrt fréttum, kynningum og fréttabréfum fyrir starfsfólk
+      - skipulagt efni fyrir innri rásir og mælt þátttöku
+    practitioner: |
+      Þú getur:
+      - skipulagt innri samskipti vegna stórra breytinga, svo sem nýs klínísks kerfis
+      - ráðlagt leiðtogum um hvernig á að virkja starfsfólk og miðla erfiðum skilaboðum
+      - notað endurgjöf og gögn til að bæta rásir
+    expert: |
+      Þú getur:
+      - mótað stefnu um innri samskipti og þátttöku starfsfólks
+      - ráðlagt framkvæmdastjórn um menningu og þátttöku
+corp-media-relations:
+  name: Fjölmiðlatengsl
+  description: Að byggja upp tengsl við blaðamenn, sinna fyrirspurnum fjölmiðla, skrifa fréttatilkynningar og undirbúa talsmenn, þar á meðal í atvikum.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvernig stofnunin sinnir fyrirspurnum fjölmiðla
+      - vísað fyrirspurnum fjölmiðla strax til samskiptateymisins
+    working: |
+      Þú getur:
+      - skráð og svarað hversdagslegum fyrirspurnum fjölmiðla
+      - samið drög að fréttatilkynningum og yfirlýsingum til samþykktar
+      - fylgst með umfjöllun fjölmiðla
+    practitioner: |
+      Þú getur:
+      - sinnt viðkvæmum fyrirspurnum fjölmiðla og viðbragðsfyrirspurnum, þar á meðal um atvik eða gagnabrot
+      - upplýst og undirbúið talsmenn
+      - byggt upp tengsl við blaðamenn í heilbrigðis- og tæknimálum
+    expert: |
+      Þú getur:
+      - stýrt fjölmiðlameðferð í meiriháttar atvikum og kreppum
+      - verndað og byggt upp orðspor stofnunarinnar gagnvart æðri hagsmunaaðilum
+      - ráðlagt stjórn um orðsporsáhættu
+corp-communications-strategy:
+  name: Samskiptastefna og áætlanagerð
+  description: Að skipuleggja samskipti og herferðir sem mæta markmiðum stofnunarinnar, með innsýn í áheyrendur, og meta áhrif þeirra.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt markmið samskiptaáætlunar sem þú vinnur að
+    working: |
+      Þú getur:
+      - skrifað samskiptaáætlanir fyrir verkefni, með áheyrendum, skilaboðum og rásum
+      - mælt niðurstöður samskiptastarfsemi
+    practitioner: |
+      Þú getur:
+      - skipulagt herferðir sem breyta hegðun, svo sem að hvetja sjúklinga til að nota stafræna þjónustu
+      - notað innsýn í áheyrendur og mat til að bæta herferðir
+      - skipulagt samskipti vegna atvika og rekstrarstöðvana
+    expert: |
+      Þú getur:
+      - mótað samskiptastefnu stofnunarinnar
+      - stýrt krísusamskiptum
+      - ráðlagt stjórn um orðspor og þátttöku hagsmunaaðila
+corp-digital-and-social-media:
+  name: Stafrænir miðlar og samfélagsmiðlar
+  description: Að skipuleggja, birta og stýra efni á vefsvæðum og samfélagsmiðlum, eiga samskipti við áheyrendur og mæla niðurstöðurnar.
+  levels:
+    awareness: |
+      Þú getur:
+      - birt samþykkt efni á rásum stofnunarinnar
+      - fylgt stefnu um samfélagsmiðla
+    working: |
+      Þú getur:
+      - skipulagt og birt efni fyrir vefsvæði og samfélagsmiðla
+      - svarað athugasemdum og komið auga á mál sem þarf að vísa upp á við
+      - skilað skýrslu um frammistöðu rása
+    practitioner: |
+      Þú getur:
+      - stýrt stafrænum rásum stofnunarinnar og efnisáætlunum þeirra
+      - brugðist við neikvæðum eða villandi færslum, þar á meðal í atvikum
+      - notað greiningu til að bæta dreifingu og þátttöku
+    expert: |
+      Þú getur:
+      - mótað stefnu og stjórnarhætti stafrænna rása stofnunarinnar
+      - stýrt viðbrögðum við orðsporsáhættu á netinu

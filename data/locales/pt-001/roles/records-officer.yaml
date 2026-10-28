@@ -1,0 +1,55 @@
+summary: A equipe de registros de saúde garante que os registros de pacientes e corporativos sejam criados, armazenados, rastreados, recuperados e descartados corretamente, em papel ou em sistemas digitais. Mantém os registros disponíveis para o cuidado, protege-os contra perda e acesso não autorizado e apoia a transição dos registros em papel para os digitais.
+health_context:
+- Os prontuários dos pacientes devem estar disponíveis quando os clínicos precisam deles, por isso atrasos ou registros perdidos podem afetar diretamente o cuidado.
+- Os registros contêm informações altamente confidenciais, por isso a equipe segue regras rigorosas de confidencialidade e de acesso e pode ler com regularidade conteúdo aflitivo.
+- A maioria das organizações mantém registros em papel e digitais, por isso a função inclui digitalizar, indexar e gerir registros híbridos.
+- Os registros devem ser guardados por prazos definidos em tabelas de temporalidade e depois arquivados ou destruídos com segurança, com trilha de auditoria.
+- As equipes de registros costumam processar pedidos de acesso a prontuários, que têm prazos legais.
+levels:
+- title: Assistente de registros
+  summary: Arquiva, recupera, rastreia, digitaliza e prepara registros, seguindo procedimentos definidos, com supervisão próxima.
+  responsibilities:
+  - Arquivar, recuperar e rastrear registros em papel e prepará-los para clínicas e pedidos.
+  - Digitalizar e indexar registros no sistema de registros eletrônicos, verificando a qualidade.
+  - Lançar e atualizar com exatidão os detalhes dos registros nos sistemas de rastreamento.
+  - Manter os registros seguros e comunicar imediatamente qualquer registro perdido ou violação.
+  - Movimentar e guardar registros com segurança, incluindo caixas e carrinhos de prontuários.
+  qualifications:
+  - Boas habilidades de leitura e escrita, de cálculo e de digitação.
+  job_evaluation_notes: As habilidades físicas são pontuadas no nível 3 pela digitalização e digitação rápidas e exatas. O esforço físico reflete a movimentação frequente de registros.
+- title: Responsável por registros de saúde
+  summary: Trata uma série de processos de registros, alguns não rotineiros, como localizar registros desaparecidos, preparar registros para pedidos de acesso e aplicar tabelas de temporalidade.
+  responsibilities:
+  - Localizar registros desaparecidos e resolver problemas de rastreamento.
+  - Preparar registros para pedidos de acesso, conferindo se estão completos antes da revisão.
+  - Aplicar tabelas de temporalidade e preparar registros para arquivamento ou destruição segura.
+  - Conferir a qualidade dos registros digitalizados e corrigir erros de indexação.
+  - Responder a consultas de clínicos, equipes de cuidados e pacientes sobre registros.
+  - Mostrar a novos assistentes de registros como seguir os procedimentos.
+  qualifications:
+  - Experiência em trabalho com registros ou administrativo, ou qualificação de nível 3 em administração, ou experiência equivalente.
+  job_evaluation_notes: O esforço emocional reflete a exposição indireta frequente a conteúdo aflitivo nos prontuários de saúde.
+- title: Responsável sênior por registros de saúde
+  summary: Supervisiona uma equipe de registros no dia a dia e conduz processos de registros como pedidos de acesso, auditorias e revisões de retenção.
+  responsibilities:
+  - Supervisionar a equipe de registros no dia a dia, distribuindo o trabalho e conferindo a qualidade.
+  - Processar pedidos de acesso a prontuários dentro dos prazos legais, sob a orientação de colegas de governança da informação.
+  - Conduzir auditorias de guarda e de rastreamento de registros e reportar os resultados.
+  - Manter exatos e atualizados os sistemas de rastreamento de registros e de registros eletrônicos.
+  - Treinar a equipe em procedimentos de registros e confidencialidade.
+  - Investigar registros perdidos e outros incidentes e recomendar melhorias.
+  qualifications:
+  - Experiência substancial em trabalho com prontuários de saúde, ou qualificação pertinente em nível de curso tecnológico, ou experiência equivalente.
+- title: Gerente de registros de saúde
+  summary: Gere o serviço de registros de saúde, sua equipe, seus sistemas e seus procedimentos e lidera a melhoria, incluindo a transição dos registros em papel para os digitais.
+  responsibilities:
+  - Gerir o serviço de registros de saúde, sua equipe e seu desempenho.
+  - Escrever e manter procedimentos de registros, em linha com a política e os padrões de gestão de registros.
+  - Gerir os sistemas de rastreamento de registros e de registros eletrônicos de vários serviços.
+  - Liderar projetos de digitalização e a transição para registros digitais.
+  - Conduzir o programa de retenção e descarte e as auditorias de registros.
+  - Aconselhar clínicos, gestores e colegas de governança da informação sobre a gestão de registros.
+  qualifications:
+  - Graduação ou qualificação profissional em gestão de registros ou da informação, ou experiência equivalente.
+  - Experiência na supervisão de uma equipe de registros.
+  job_evaluation_notes: Os recursos de informação são pontuados no nível 5 porque conduzir sistemas de registros de vários serviços é a atribuição principal.

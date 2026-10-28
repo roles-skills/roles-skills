@@ -13,7 +13,7 @@ Financial accountants make sure the organization's accounts are complete, accura
 
 ## In a digital health care organization
 
-- Accounting for digital spending needs judgment, for example whether software development, configuration of cloud services, or licences can be treated as capital assets.
+- Accounting for digital spending needs judgment, for example whether software development, configuration of cloud services, or licenses can be treated as capital assets.
 - The organization must account for public money to funders and oversight bodies, often against strict capital and cash limits.
 - Multi-year license and support contracts create prepayments, commitments, and sometimes leases that must be accounted for correctly.
 - Intangible assets, such as software the organization builds, need valuing, depreciating, and reviewing for impairment as products change.
@@ -47,7 +47,7 @@ Trainee financial accountants prepare balance sheet reconciliations, journals, a
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Financial reporting and statutory accounts](../../skills/#financial-reporting-and-statutory-accounts) | This reference | Working | You can:<br>• prepare month-end and year-end entries, such as accruals, prepayments, and provisions<br>• prepare sections of the annual accounts and supporting notes<br>• apply accounting standards to routine transactions, such as capitalizing software and hardware |
-| [Financial transactions and ledgers](../../skills/#financial-transactions-and-ledgers) | This reference | Working | You can:<br>• process a range of transactions, including credit notes, refunds, and journals<br>• reconcile supplier statements, bank accounts, and control accounts<br>• resolve routine queries from suppliers, customers, and budget holders<br>• spot duplicate, unusual, or unauthorized transactions and raise them |
+| [Financial transactions and ledgers](../../skills/#financial-transactions-and-ledgers) | This reference | Working | You can:<br>• process a range of transactions, including credit notes, refunds, and journals<br>• reconcile supplier statements, bank accounts, and control accounts<br>• resolve routine queries from suppliers, customers, and budget holders<br>• spot duplicate, unusual, or unauthorised transactions and raise them |
 | [Treasury and cash management](../../skills/#treasury-and-cash-management) | This reference | Working | You can:<br>• prepare daily cash positions and short-term cash forecasts<br>• prepare payment runs and check they are properly authorized<br>• reconcile bank accounts and clear unmatched items |
 | [Financial controls and audit](../../skills/#financial-controls-and-audit) | This reference | Working | You can:<br>• operate key controls, such as separation of duties and supplier bank detail checks<br>• provide evidence to auditors and answer their questions<br>• check that spending is approved at the right level |
 | [Tax](../../skills/#tax) | This reference | Awareness | You can:<br>• recognize sales tax on invoices and code it correctly<br>• explain when to ask a tax specialist for advice |
@@ -73,8 +73,8 @@ Trainee financial accountants prepare balance sheet reconciliations, journals, a
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -108,7 +108,7 @@ Financial accountants are qualified accountants who manage the balance sheet and
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Financial reporting and statutory accounts](../../skills/#financial-reporting-and-statutory-accounts) | This reference | Practitioner | You can:<br>• prepare the annual accounts and statutory returns to a timetable<br>• apply accounting standards to complex areas, such as leases, cloud computing arrangements, and intangible assets<br>• write accounting papers that explain judgements and estimates<br>• manage the external audit of the accounts and respond to findings |
+| [Financial reporting and statutory accounts](../../skills/#financial-reporting-and-statutory-accounts) | This reference | Practitioner | You can:<br>• prepare the annual accounts and statutory returns to a timetable<br>• apply accounting standards to complex areas, such as leases, cloud computing arrangements, and intangible assets<br>• write accounting papers that explain judgments and estimates<br>• manage the external audit of the accounts and respond to findings |
 | [Treasury and cash management](../../skills/#treasury-and-cash-management) | This reference | Working | You can:<br>• prepare daily cash positions and short-term cash forecasts<br>• prepare payment runs and check they are properly authorized<br>• reconcile bank accounts and clear unmatched items |
 | [Financial controls and audit](../../skills/#financial-controls-and-audit) | This reference | Practitioner | You can:<br>• test and improve the controls for a financial process<br>• manage audit requests for an area and agree actions on findings<br>• write and update financial procedures<br>• work with counter-fraud specialists to reduce fraud risk |
 | [Tax](../../skills/#tax) | This reference | Working | You can:<br>• prepare tax returns and reconciliations under supervision<br>• apply the right tax treatment to common purchases and income<br>• check employment status for contractors under guidance |
@@ -135,8 +135,8 @@ Financial accountants are qualified accountants who manage the balance sheet and
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -158,7 +158,7 @@ Senior financial accountants lead the annual accounts process and the accounting
 ### Responsibilities
 
 - Plan and lead the annual accounts timetable and the external audit.
-- Write accounting papers on complex judgements, such as capitalizing software development or cloud configuration costs.
+- Write accounting papers on complex judgments, such as capitalizing software development or cloud configuration costs.
 - Manage capital accounting, including asset lives, depreciation, and impairment of software assets.
 - Manage cash forecasting and drawdown of funding within cash limits.
 - Prepare statutory and funder returns, such as consolidation and capital returns.
@@ -168,11 +168,11 @@ Senior financial accountants lead the annual accounts process and the accounting
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Financial reporting and statutory accounts](../../skills/#financial-reporting-and-statutory-accounts) | This reference | Practitioner | You can:<br>• prepare the annual accounts and statutory returns to a timetable<br>• apply accounting standards to complex areas, such as leases, cloud computing arrangements, and intangible assets<br>• write accounting papers that explain judgements and estimates<br>• manage the external audit of the accounts and respond to findings |
-| [Treasury and cash management](../../skills/#treasury-and-cash-management) | This reference | Practitioner | You can:<br>• manage the organization's cash flow forecast and drawdown of funding<br>• manage bank accounts, payment methods, and banking controls<br>• plan cash for large or irregular payments, such as multi-year software licences |
+| [Financial reporting and statutory accounts](../../skills/#financial-reporting-and-statutory-accounts) | This reference | Practitioner | You can:<br>• prepare the annual accounts and statutory returns to a timetable<br>• apply accounting standards to complex areas, such as leases, cloud computing arrangements, and intangible assets<br>• write accounting papers that explain judgments and estimates<br>• manage the external audit of the accounts and respond to findings |
+| [Treasury and cash management](../../skills/#treasury-and-cash-management) | This reference | Practitioner | You can:<br>• manage the organization's cash flow forecast and drawdown of funding<br>• manage bank accounts, payment methods, and banking controls<br>• plan cash for large or irregular payments, such as multi-year software licenses |
 | [Financial controls and audit](../../skills/#financial-controls-and-audit) | This reference | Practitioner | You can:<br>• test and improve the controls for a financial process<br>• manage audit requests for an area and agree actions on findings<br>• write and update financial procedures<br>• work with counter-fraud specialists to reduce fraud risk |
-| [Tax](../../skills/#tax) | This reference | Practitioner | You can:<br>• manage the organization's tax returns and tax reconciliations<br>• advise on the tax treatment of contracts, such as software licences, cloud services, and shared services<br>• maximize tax recovery within the rules |
-| [Public sector finance](../../skills/#public-sector-finance) | This reference | Practitioner | You can:<br>• advise managers on funding rules, including ring-fenced and time-limited funding<br>• manage capital and revenue limits for a programme or directorate<br>• prepare returns and evidence for funders and spending controls |
+| [Tax](../../skills/#tax) | This reference | Practitioner | You can:<br>• manage the organization's tax returns and tax reconciliations<br>• advise on the tax treatment of contracts, such as software licenses, cloud services, and shared services<br>• maximize tax recovery within the rules |
+| [Public sector finance](../../skills/#public-sector-finance) | This reference | Practitioner | You can:<br>• advise managers on funding rules, including ring-fenced and time-limited funding<br>• manage capital and revenue limits for a program or directorate<br>• prepare returns and evidence for funders and spending controls |
 | [Financial management](../../skills/#financial-management) | UK GDaD PCF | Practitioner | You can:<br>• negotiate, influence or set budgets in complex environments<br>• write or input into business cases and can communicate business-value propositions |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Working | You can:<br>• identify important stakeholders and communicate with them clearly and regularly<br>• tailor communication to stakeholders' needs and work with them to build relationships while meeting user needs<br>• build and reach consensus with stakeholders<br>• work to improve stakeholder relationships using evidence to explain decisions |
 | [People management](../../skills/#people-management) | This reference | Working | You can:<br>• supervise day-to-day work and give feedback<br>• take part in recruitment and induction<br>• hold regular one-to-one conversations |
@@ -185,7 +185,7 @@ Senior financial accountants lead the annual accounts process and the accounting
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -196,8 +196,8 @@ Senior financial accountants lead the annual accounts process and the accounting
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -231,11 +231,11 @@ Financial accounting managers run financial accounting, treasury, and tax for th
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Financial reporting and statutory accounts](../../skills/#financial-reporting-and-statutory-accounts) | This reference | Expert | You can:<br>• own the organization's annual report and accounts and the accounting policies behind them<br>• advise the board and audit committee on significant judgements and new standards<br>• lead the response to qualified audit opinions or material misstatements<br>• assure that reporting meets public accountability rules |
-| [Treasury and cash management](../../skills/#treasury-and-cash-management) | This reference | Practitioner | You can:<br>• manage the organization's cash flow forecast and drawdown of funding<br>• manage bank accounts, payment methods, and banking controls<br>• plan cash for large or irregular payments, such as multi-year software licences |
+| [Financial reporting and statutory accounts](../../skills/#financial-reporting-and-statutory-accounts) | This reference | Expert | You can:<br>• own the organization's annual report and accounts and the accounting policies behind them<br>• advise the board and audit committee on significant judgments and new standards<br>• lead the response to qualified audit opinions or material misstatements<br>• assure that reporting meets public accountability rules |
+| [Treasury and cash management](../../skills/#treasury-and-cash-management) | This reference | Practitioner | You can:<br>• manage the organization's cash flow forecast and drawdown of funding<br>• manage bank accounts, payment methods, and banking controls<br>• plan cash for large or irregular payments, such as multi-year software licenses |
 | [Financial controls and audit](../../skills/#financial-controls-and-audit) | This reference | Practitioner | You can:<br>• test and improve the controls for a financial process<br>• manage audit requests for an area and agree actions on findings<br>• write and update financial procedures<br>• work with counter-fraud specialists to reduce fraud risk |
-| [Tax](../../skills/#tax) | This reference | Practitioner | You can:<br>• manage the organization's tax returns and tax reconciliations<br>• advise on the tax treatment of contracts, such as software licences, cloud services, and shared services<br>• maximize tax recovery within the rules |
-| [Public sector finance](../../skills/#public-sector-finance) | This reference | Practitioner | You can:<br>• advise managers on funding rules, including ring-fenced and time-limited funding<br>• manage capital and revenue limits for a programme or directorate<br>• prepare returns and evidence for funders and spending controls |
+| [Tax](../../skills/#tax) | This reference | Practitioner | You can:<br>• manage the organization's tax returns and tax reconciliations<br>• advise on the tax treatment of contracts, such as software licenses, cloud services, and shared services<br>• maximize tax recovery within the rules |
+| [Public sector finance](../../skills/#public-sector-finance) | This reference | Practitioner | You can:<br>• advise managers on funding rules, including ring-fenced and time-limited funding<br>• manage capital and revenue limits for a program or directorate<br>• prepare returns and evidence for funders and spending controls |
 | [Finance systems](../../skills/#finance-systems) | This reference | Practitioner | You can:<br>• administer the finance or payroll system, including access, workflows, and reporting<br>• design reports and dashboards for budget holders<br>• test system changes and upgrades<br>• automate repetitive finance tasks |
 | [Financial management](../../skills/#financial-management) | UK GDaD PCF | Practitioner | You can:<br>• negotiate, influence or set budgets in complex environments<br>• write or input into business cases and can communicate business-value propositions |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
@@ -248,7 +248,7 @@ Financial accounting managers run financial accounting, treasury, and tax for th
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -259,8 +259,8 @@ Financial accounting managers run financial accounting, treasury, and tax for th
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -284,7 +284,7 @@ Heads of financial accounts lead the organization's statutory reporting, financi
 ### Responsibilities
 
 - Lead the preparation of the annual report and accounts, and present them to the audit committee.
-- Advise directors and the audit committee on significant accounting judgements and new standards.
+- Advise directors and the audit committee on significant accounting judgments and new standards.
 - Own the financial rules, financial procedures, and scheme of delegation.
 - Lead the relationship with external auditors and oversight bodies on financial reporting.
 - Set treasury and tax policy, and manage financial risks.
@@ -294,16 +294,16 @@ Heads of financial accounts lead the organization's statutory reporting, financi
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Financial reporting and statutory accounts](../../skills/#financial-reporting-and-statutory-accounts) | This reference | Expert | You can:<br>• own the organization's annual report and accounts and the accounting policies behind them<br>• advise the board and audit committee on significant judgements and new standards<br>• lead the response to qualified audit opinions or material misstatements<br>• assure that reporting meets public accountability rules |
+| [Financial reporting and statutory accounts](../../skills/#financial-reporting-and-statutory-accounts) | This reference | Expert | You can:<br>• own the organization's annual report and accounts and the accounting policies behind them<br>• advise the board and audit committee on significant judgments and new standards<br>• lead the response to qualified audit opinions or material misstatements<br>• assure that reporting meets public accountability rules |
 | [Treasury and cash management](../../skills/#treasury-and-cash-management) | This reference | Expert | You can:<br>• set the organization's treasury policy and banking arrangements<br>• advise the board on liquidity and cash risks<br>• manage cash within the limits set by funders and public sector rules |
 | [Financial controls and audit](../../skills/#financial-controls-and-audit) | This reference | Expert | You can:<br>• own the organization's financial rules and scheme of delegation<br>• report to the audit committee on financial control and audit actions<br>• lead the response to significant control failures or fraud<br>• build a culture where staff understand their duty to use public money properly |
-| [Tax](../../skills/#tax) | This reference | Practitioner | You can:<br>• manage the organization's tax returns and tax reconciliations<br>• advise on the tax treatment of contracts, such as software licences, cloud services, and shared services<br>• maximize tax recovery within the rules |
+| [Tax](../../skills/#tax) | This reference | Practitioner | You can:<br>• manage the organization's tax returns and tax reconciliations<br>• advise on the tax treatment of contracts, such as software licenses, cloud services, and shared services<br>• maximize tax recovery within the rules |
 | [Public sector finance](../../skills/#public-sector-finance) | This reference | Expert | You can:<br>• represent the organization with funders and oversight bodies<br>• advise the board on regularity, propriety, and value for money<br>• shape funding agreements and financial regimes for the organization's services |
-| [Financial management](../../skills/#financial-management) | UK GDaD PCF | Expert | You can:<br>• influence or create complex budgets across an organization, programme or product view<br>• manage the budget you are given and make it work |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterized by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
+| [Financial management](../../skills/#financial-management) | UK GDaD PCF | Expert | You can:<br>• influence or create complex budgets across an organisation, programme or product view<br>• manage the budget you are given and make it work |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 | [Corporate governance and compliance](../../skills/#corporate-governance-and-compliance) | This reference | Practitioner | You can:<br>• run the governance cycle for boards and committees<br>• review policies and advise on compliance |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 
 ### Typical qualifications and experience
 
@@ -323,8 +323,8 @@ Heads of financial accounts lead the organization's statutory reporting, financi
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -342,5 +342,5 @@ Heads of financial accounts lead the organization's statutory reporting, financi
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

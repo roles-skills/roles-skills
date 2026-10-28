@@ -41,7 +41,7 @@ Network architects design the local, wide area, wireless, and cloud networks tha
 > - be aware and knowledgeable of new technology solutions and produce network design policy
 > - draft recommendations for network support, creating and maintaining network plans and planning infrastructure runs
 > - ensure designs meet SLAs (service level agreements) and develop an understanding of common tools
-> - have an understanding of one or two of the following network technologies: LAN (local area network), WAN (wide area network), wifi, data center LAN, SD (software-defined) networks, telephony, mobile solutions infrastructure, unified comms, network management solutions, network specific security and remote access technologies and approaches
+> - have an understanding of one or two of the following network technologies: LAN (local area network), WAN (wide area network), wifi, data centre LAN, SD (software-defined) networks, telephony, mobile solutions infrastructure, unified comms, network management solutions, network specific security and remote access technologies and approaches
 > - collaborate with engineers to ensure systems are practically designed
 
 ### Responsibilities
@@ -57,7 +57,7 @@ Network architects design the local, wide area, wireless, and cloud networks tha
 | --- | --- | --- | --- |
 | [Governance and assurance](../../skills/#governance-and-assurance) | UK GDaD PCF | Awareness | You can:<br>• explain why governance and assurance is important<br>• follow governance and assurance processes, under supervision |
 | [IT infrastructure](../../skills/#it-infrastructure) | UK GDaD PCF | Working | You can:<br>• build, configure, administer and support infrastructure solutions and services, for example, networking and physical infrastructure, commercial-off-the-shelf (COTS) software, open source packages and solutions, or virtual and cloud computing |
-| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Working | You can:<br>• translate logical designs into physical designs<br>• produce detailed designs<br>• effectively document all work using required standards, methods and tools, including prototyping tools where appropriate<br>• design systems characterized by managed levels of risk, manageable business and technical complexity, and meaningful impact<br>• work with well understood technology and identify appropriate patterns |
+| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Working | You can:<br>• translate logical designs into physical designs<br>• produce detailed designs<br>• effectively document all work using required standards, methods and tools, including prototyping tools where appropriate<br>• design systems characterised by managed levels of risk, manageable business and technical complexity, and meaningful impact<br>• work with well understood technology and identify appropriate patterns |
 | [Systems integration](../../skills/#systems-integration) | UK GDaD PCF | Awareness | You can:<br>• explain the process and principles of integrating systems.<br>• describe challenges of designing, building and testing interfaces between systems |
 | [Technical understanding](../../skills/#technical-understanding) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of the relevant subject matter and a high level understanding of what it involves |
 | [Troubleshooting and problem resolution](../../skills/#troubleshooting-and-problem-resolution) | UK GDaD PCF | Working | You can:<br>• troubleshoot and identify problems across different technology capabilities |
@@ -84,8 +84,8 @@ Network architects design the local, wide area, wireless, and cloud networks tha
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -112,7 +112,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts pl
 > - research new technologies and solutions, and ensure appropriate levels of assurance
 > - plan, direct and co-ordinate activities, engaging with other stakeholders to manage and implement a programme
 > - agree SLAs (service level agreements) and engage with third party vendors
-> - have an understanding of most of the following network technologies: LAN (local area network), WAN (wide area network), wifi, data-center LAN, SD (software-defined) networks, telephony, mobile solutions infrastructure, unified comms, network management solutions, network-specific security and remote access technologies and approaches
+> - have an understanding of most of the following network technologies: LAN (local area network), WAN (wide area network), wifi, data-centre LAN, SD (software-defined) networks, telephony, mobile solutions infrastructure, unified comms, network management solutions, network-specific security and remote access technologies and approaches
 > - coach and mentor associate network architects where appropriate
 > - collaborate with engineers to ensure systems are practically designed
 
@@ -130,7 +130,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts pl
 | --- | --- | --- | --- |
 | [Governance and assurance](../../skills/#governance-and-assurance) | UK GDaD PCF | Practitioner | You can:<br>• develop appropriate governance and assurance processes<br>• identify and recommend improvements to governance and assurance processes<br>• support others in following or applying governance and assurance processes |
 | [IT infrastructure](../../skills/#it-infrastructure) | UK GDaD PCF | Practitioner | You can:<br>• design and implement infrastructure solutions and services, for example, networking and physical infrastructure, commercial-off-the-shelf (COTS) software, open source packages and solutions, or virtual and cloud computing |
-| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Practitioner | You can:<br>• design systems characterized by medium levels of risk, impact, and business or technical complexity<br>• select appropriate design standards, methods and tools, and ensure they are applied effectively<br>• review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology |
+| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Practitioner | You can:<br>• design systems characterised by medium levels of risk, impact, and business or technical complexity<br>• select appropriate design standards, methods and tools, and ensure they are applied effectively<br>• review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology |
 | [Systems integration](../../skills/#systems-integration) | UK GDaD PCF | Practitioner | You can:<br>• define the integration build<br>• co-ordinate build activities across systems<br>• understand how to undertake and support integration testing activities |
 | [Technical understanding](../../skills/#technical-understanding) | UK GDaD PCF | Practitioner | You can:<br>• show a thorough understanding of the technical concepts required for the role, and can explain how these fit into the wider technical landscape |
 | [Troubleshooting and problem resolution](../../skills/#troubleshooting-and-problem-resolution) | UK GDaD PCF | Practitioner | You can:<br>• break a problem down into its component parts to identify and diagnose root causes<br>• troubleshoot and identify problems across different technology capabilities |
@@ -148,7 +148,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts pl
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -159,8 +159,8 @@ Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts pl
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -189,7 +189,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 > - cascade messages, standards and best practice from other architecture teams and design authorities to the network architecture team
 > - act as a subject matter expert for network architects
 > - represent network architects internally and externally
-> - have an understanding of all network technology including LAN (local area network), WAN (wide area network), wifi, data center LAN, SD (software-defined) networks, telephony, mobile solutions infrastructure, unified comms, network management solutions, and network specific security and remote access technologies and approaches
+> - have an understanding of all network technology including LAN (local area network), WAN (wide area network), wifi, data centre LAN, SD (software-defined) networks, telephony, mobile solutions infrastructure, unified comms, network management solutions, and network specific security and remote access technologies and approaches
 > - champion new technologies and solutions
 > - coach and mentor network architects and associate network architects
 > - be a strategic thinker who can communicate network concepts to technical and non-technical stakeholders
@@ -208,7 +208,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 | --- | --- | --- | --- |
 | [Governance and assurance](../../skills/#governance-and-assurance) | UK GDaD PCF | Expert | You can:<br>• ensure appropriate and proportionate governance and assurance is in place and is continuously improved, aligned to organisational and government needs<br>• guide teams through governance and assurance processes, such as service assessments, to ensure standards are met<br>• share the team's governance and assurance processes so stakeholders trust them to deliver value in a sustainable way |
 | [IT infrastructure](../../skills/#it-infrastructure) | UK GDaD PCF | Expert | You can:<br>• lead teams and departments in the design, implementation, administration and support of infrastructure solutions and services |
-| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Expert | You can:<br>• design systems characterized by high levels of risk, impact, and business or technical complexity<br>• control system design practice within an enterprise or industry architecture<br>• influence industry-based models for the development of new technology applications<br>• develop effective implementation and procurement strategies, consistent with business needs<br>• ensure adherence to relevant technical strategies, policies, standards and practices |
+| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Expert | You can:<br>• design systems characterised by high levels of risk, impact, and business or technical complexity<br>• control system design practice within an enterprise or industry architecture<br>• influence industry-based models for the development of new technology applications<br>• develop effective implementation and procurement strategies, consistent with business needs<br>• ensure adherence to relevant technical strategies, policies, standards and practices |
 | [Systems integration](../../skills/#systems-integration) | UK GDaD PCF | Practitioner | You can:<br>• define the integration build<br>• co-ordinate build activities across systems<br>• understand how to undertake and support integration testing activities |
 | [Technical understanding](../../skills/#technical-understanding) | UK GDaD PCF | Expert | You can:<br>• anticipate and advise on future technology changes that present opportunities for the product or programme |
 | [Troubleshooting and problem resolution](../../skills/#troubleshooting-and-problem-resolution) | UK GDaD PCF | Practitioner | You can:<br>• break a problem down into its component parts to identify and diagnose root causes<br>• troubleshoot and identify problems across different technology capabilities |
@@ -218,7 +218,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Working | You can:<br>• create, change, and remove user accounts and access rights<br>• check access against role-based access rules |
 | [Vulnerability management](../../skills/#vulnerability-management) | This reference | Practitioner | You can:<br>• prioritize vulnerabilities by risk, including to patient services<br>• scope and manage penetration tests and remediation |
 | [Medical device software regulation](../../skills/#medical-device-software-regulation) | This reference | Awareness | You can:<br>• explain that some health software is regulated as a medical device<br>• know who to ask when a product might be a medical device |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 
 ### Typical qualifications and experience
 
@@ -227,7 +227,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -238,8 +238,8 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -259,5 +259,5 @@ Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts pl
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

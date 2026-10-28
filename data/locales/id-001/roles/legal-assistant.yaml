@@ -1,0 +1,43 @@
+summary: >
+  Asisten hukum dan paralegal mendukung pengacara organisasi agar pekerjaan hukum teratur, akurat, dan tepat waktu. Mereka mengelola perkara dan dokumen, menyiapkan kontrak dan berkas, meneliti pertanyaan hukum, dan menangani tugas hukum rutin. Dalam organisasi layanan kesehatan digital, sebagian besar pekerjaan melibatkan kontrak teknologi, perjanjian pembagian data dan pemrosesan data, permintaan informasi, dan klaim yang dapat melibatkan informasi pasien yang sensitif.
+health_context:
+  - Berkas hukum sering memuat informasi kesehatan yang rahasia, seperti rekam klinis dalam klaim, sehingga tata kelola informasi yang ketat berlaku.
+  - Banyak perjanjian adalah untuk perangkat lunak, layanan komputasi awan, dan pembagian data, sehingga staf perlu mengenali klausul yang penting bagi data pasien dan kesinambungan layanan.
+  - Tenggat dalam klaim, pemeriksaan kematian, dan sanggahan pengadaan singkat dan tetap, dan melewatkannya bisa mahal.
+  - Organisasi membelanjakan uang publik untuk pengacara luar, sehingga pengeluaran hukum harus dilacak dan dikendalikan.
+levels:
+  - title: Administrator hukum
+    summary: Administrator hukum menjalankan proses administrasi tim hukum, seperti pembukaan perkara, pengelolaan dokumen, register, dan faktur, mengikuti prosedur yang ditetapkan.
+    responsibilities:
+      - Membuka, memperbarui, dan menutup perkara dalam sistem pengelolaan perkara.
+      - Mengarsipkan, memformat, dan mengambil dokumen hukum, menjaganya tetap aman dan rahasia.
+      - Memelihara register kontrak, akta, dan penandatanganan.
+      - Mengelola agenda dan tanggal penting, dan mengingatkan pengacara tentang tenggat.
+      - Memeriksa dan memproses faktur dari pengacara luar.
+      - Menjawab pertanyaan rutin dan meneruskan permintaan nasihat hukum.
+    qualifications:
+      - Keterampilan administrasi dan papan ketik yang baik, diperoleh melalui pendidikan atau pengalaman kerja.
+      - Kualifikasi administrasi hukum berguna tetapi tidak wajib.
+  - title: Asisten hukum
+    summary: Asisten hukum mendukung pengacara pada berbagai perkara, menyiapkan dokumen dari templat, melakukan riset yang terdefinisi, dan mengelola langkah praktis kontrak dan kasus.
+    responsibilities:
+      - Menyiapkan perjanjian standar, seperti perjanjian kerahasiaan dan pembagian data, dari templat yang disetujui.
+      - Menyiapkan berkas, kronologi, dan paket penandatanganan untuk kontrak dan kasus.
+      - Melakukan riset hukum yang terdefinisi dan merangkum hasilnya untuk pengacara.
+      - Mengumpulkan dokumen dan bukti untuk klaim dan permintaan informasi.
+      - Melacak pengeluaran hukum eksternal terhadap anggaran dan melaporkannya.
+      - Melatih administrator hukum dalam tugas rutin.
+    qualifications:
+      - Kualifikasi asisten hukum atau paralegal tingkat menengah, atau pengalaman yang setara.
+  - title: Paralegal
+    summary: Paralegal menangani sejumlah perkara hukum rutin sendiri di bawah penyeliaan pengacara, seperti peninjauan kontrak standar, permintaan informasi, dan dukungan klaim.
+    responsibilities:
+      - Meninjau perjanjian rutin, seperti lisensi perangkat lunak, layanan, dan perjanjian pemrosesan data, terhadap standar organisasi.
+      - Mengelola sejumlah klaim atau sengketa rutin, menyiapkan dokumen dan berhubungan dengan pengacara luar dan skema ganti rugi.
+      - Meneliti pertanyaan hukum dan menyusun draf nasihat untuk ditinjau pengacara.
+      - Mendukung tanggapan atas permintaan informasi yang kompleks dan permintaan hak subjek data.
+      - Menjaga templat, preseden, dan pedoman hukum tetap mutakhir.
+      - Mengoordinasikan pekerjaan asisten dan administrator hukum.
+    qualifications:
+      - Gelar hukum atau kualifikasi paralegal lanjutan, atau pengalaman yang setara.
+    job_evaluation_notes: Upaya emosional di tingkat 2 karena pekerjaan ini secara teratur membaca rekam klinis dan kisah kerugian dalam klaim.

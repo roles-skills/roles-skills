@@ -1,0 +1,44 @@
+summary: Kỹ sư an ninh thiết kế, xây dựng và vận hành các biện pháp kiểm soát an ninh kỹ thuật bảo vệ hệ thống, dữ liệu và người dùng của tổ chức. Họ làm việc về danh tính và truy cập, bảo vệ thiết bị đầu cuối và mạng, mã hóa, ghi nhật ký và an ninh đám mây, và giúp các nhóm sản phẩm và hạ tầng tích hợp an ninh vào ngay từ đầu. Trong chăm sóc sức khỏe, họ bảo vệ các hệ thống lâm sàng và dữ liệu bệnh nhân trong khi giữ cho việc truy cập nhanh với bác sĩ lâm sàng tại nơi chăm sóc.
+health_context:
+- Các biện pháp kiểm soát an ninh không được cản trở việc chăm sóc khẩn cấp, nên các kỹ sư thiết kế xác thực mạnh vẫn hoạt động nhanh trên các máy trạm lâm sàng dùng chung.
+- Thiết bị y tế và hệ thống lâm sàng cũ thường không thể vá hoặc chạy phần mềm an ninh, nên các kỹ sư thiết kế phân đoạn mạng và các biện pháp kiểm soát bù đắp.
+- Mã độc tống tiền là mối đe dọa lớn đối với chăm sóc sức khỏe, nên các kỹ sư củng cố hệ thống, bảo vệ bản sao lưu và hạn chế mức độ lan rộng của một cuộc tấn công.
+- Các hệ thống lâm sàng thường do bên thứ ba cung cấp và hỗ trợ, nên các kỹ sư đánh giá an ninh của nhà cung cấp và kiểm soát việc truy cập từ xa của họ.
+- Những thay đổi đối với các biện pháp kiểm soát an ninh trên hệ thống lâm sàng đi qua quản lý thay đổi và, khi cần, rà soát an toàn lâm sàng.
+levels:
+- title: Kỹ sư an ninh
+  summary: Kỹ sư an ninh xây dựng, cấu hình và duy trì các biện pháp kiểm soát và công cụ an ninh, và giúp các nhóm khắc phục điểm yếu an ninh.
+  responsibilities:
+  - Xây dựng và duy trì các biện pháp kiểm soát an ninh, như bảo vệ thiết bị đầu cuối, tường lửa, an ninh email và ghi nhật ký an ninh.
+  - Cấu hình các biện pháp kiểm soát danh tính và truy cập, gồm xác thực đa yếu tố và truy cập đặc quyền.
+  - Giúp các nhóm hạ tầng và sản phẩm khắc phục lỗ hổng và củng cố hệ thống theo tiêu chuẩn đã thống nhất.
+  - Phân đoạn mạng để bảo vệ thiết bị y tế và hệ thống cũ, phối hợp với các nhóm hạ tầng và kỹ thuật lâm sàng.
+  - Rà soát an ninh của các hệ thống mới và truy cập từ xa của nhà cung cấp trước khi đưa vào vận hành.
+  - Tham gia ca trực để hỗ trợ ứng phó sự cố an ninh.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc an ninh mạng, các chứng chỉ an ninh liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm xây dựng hoặc vận hành hạ tầng hoặc công cụ an ninh.
+  job_evaluation_notes: Nỗ lực trí tuệ phản ánh việc thường xuyên phải tập trung kéo dài vào công việc kỹ thuật phức tạp và hỗ trợ sự cố, kể cả khi trực.
+- title: Kỹ sư an ninh cao cấp
+  summary: Kỹ sư an ninh cao cấp thiết kế và dẫn dắt việc triển khai các biện pháp kiểm soát an ninh quan trọng, và tư vấn cho các nhóm về thiết kế an toàn.
+  responsibilities:
+  - Thiết kế và dẫn dắt việc triển khai các biện pháp kiểm soát an ninh, như quản lý truy cập đặc quyền, giám sát an ninh và bảo vệ sao lưu.
+  - Tư vấn cho các nhóm sản phẩm và hạ tầng về thiết kế an toàn cho các dịch vụ lâm sàng và hướng tới bệnh nhân.
+  - Thiết kế các biện pháp kiểm soát bù đắp cho thiết bị y tế và các hệ thống khác không thể vá.
+  - Đánh giá an ninh của nhà cung cấp và sản phẩm của họ, kể cả dịch vụ đám mây.
+  - Hỗ trợ việc ứng phó với các sự cố an ninh nghiêm trọng bằng chuyên môn kỹ thuật và kế hoạch khôi phục.
+  - Huấn luyện các kỹ sư an ninh và chia sẻ thực hành tốt giữa các nhóm.
+  qualifications:
+  - Có kinh nghiệm dày dặn về kỹ thuật an ninh, ở mức tương đương văn bằng sau đại học.
+  - Có các chứng chỉ an ninh nâng cao liên quan, hoặc kinh nghiệm tương đương.
+- title: Trưởng nhóm kỹ sư an ninh
+  summary: Trưởng nhóm kỹ sư an ninh đề ra định hướng kỹ thuật cho kỹ thuật an ninh, và bảo đảm các biện pháp kiểm soát phối hợp với nhau trong toàn tổ chức.
+  responsibilities:
+  - Đề ra định hướng kỹ thuật và tiêu chuẩn cho các biện pháp kiểm soát an ninh trong toàn tổ chức.
+  - Dẫn dắt thiết kế an ninh cho các chương trình lớn, như chuyển lên lưu trữ đám mây hoặc hồ sơ bệnh nhân điện tử mới.
+  - Bảo đảm các biện pháp kiểm soát bảo vệ trước mã độc tống tiền và hỗ trợ khôi phục nhanh, an toàn các hệ thống lâm sàng.
+  - Cân bằng giữa an ninh và khả năng sử dụng lâm sàng, làm việc với các trưởng nhóm lâm sàng về truy cập và xác thực.
+  - Tư vấn cho quản lý an ninh mạng về rủi ro kỹ thuật và đầu tư.
+  - Dẫn dắt và phát triển các kỹ sư an ninh.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật an ninh cho các dịch vụ phức tạp.

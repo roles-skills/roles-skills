@@ -1,0 +1,40 @@
+summary: Os gerentes de governança de dados garantem que os dados de saúde e de cuidados da organização sejam bem geridos, confiáveis e usados de forma segura e legal. Estabelecem e conduzem as estruturas, as políticas e os padrões de titularidade, qualidade, metadados e compartilhamento de dados e trabalham com os responsáveis pelos dados, a governança da informação e as lideranças clínicas para que os dados possam ser usados com confiança no cuidado, no planejamento e na pesquisa.
+health_context:
+- Os dados de saúde são dados pessoais altamente sensíveis, por isso a governança de dados trabalha em estreita colaboração com a governança da informação, a proteção de dados e o dever de confidencialidade.
+- Os dados são compartilhados com muitos parceiros de saúde e de cuidados para cuidado direto, planejamento e pesquisa, e cada uso precisa de uma base legal clara, acordos e controles.
+- Os padrões de dados clínicos, como a SNOMED CT, a CID e o HL7 FHIR, e as definições de dados acordadas são centrais para tornar os dados consistentes entre sistemas e organizações.
+- A baixa qualidade dos dados pode levar diretamente a danos aos pacientes, como alergias não registradas ou associação ao paciente errado, além de decisões erradas sobre os serviços.
+- Pacientes e o público esperam transparência sobre como seus dados são usados, por isso a governança inclui transparência e respeito às escolhas dos pacientes sobre o uso secundário.
+levels:
+- title: Gerente de governança de dados
+  responsibilities:
+  - Conduzir a estrutura de governança de dados da organização, incluindo a titularidade dos dados, a custódia e os grupos de decisão.
+  - Manter o catálogo de dados, o glossário de negócios e os padrões de dados, incluindo as definições clínicas e operacionais acordadas.
+  - Monitorar a qualidade dos principais conjuntos de dados e trabalhar com os responsáveis pelos dados para corrigir as causas-raiz.
+  - Trabalhar com colegas de governança da informação em acordos de compartilhamento de dados e avaliações de impacto sobre a proteção de dados de novos usos de dados.
+  - Registrar e gerir riscos e problemas de dados e escalá-los ao responsável adequado.
+  - Melhorar o letramento em dados das pessoas que criam e usam dados de saúde.
+  qualifications:
+  - Graduação ou qualificação profissional em dados, gestão da informação ou área afim, ou experiência equivalente.
+  - Experiência em governança de dados ou gestão de dados em uma organização complexa.
+  job_evaluation_notes: O UK GDaD PCF sugere de HEO a G7 para este nível, o que corresponde à Faixa 6. Esta referência o coloca na Faixa 7 porque, em uma organização de saúde, a função costuma governar dados confidenciais de pacientes em toda a organização e elaborar política de dados que afeta vários serviços.
+- title: Gerente de governança de dados líder
+  responsibilities:
+  - Liderar o projeto e a condução das estruturas, políticas e padrões de governança de dados em toda a organização.
+  - Coordenar os responsáveis e os custodiantes dos dados para gerir os riscos de dados, aceitá-los ou resolvê-los e reportá-los a comitês sêniores.
+  - Liderar o trabalho mais amplo de gestão de dados, como dados mestres de pacientes, pessoas e locais, e dados de referência.
+  - Acordar os arranjos de governança dos dados compartilhados com parceiros de saúde e de cuidados e com pesquisadores.
+  - Orientar os programas sobre como novos sistemas e usos de dados cumprem os padrões de dados e as regras de governança.
+  - Chefiar a equipe de governança de dados.
+  qualifications:
+  - Ampla experiência na liderança de governança de dados ou de gestão de dados.
+- title: Chefia de governança de dados
+  responsibilities:
+  - Trabalhar com a direção de dados e o responsável executivo pelo risco da informação para definir a estratégia de governança e de uso dos dados.
+  - Definir as políticas e os padrões de governança de dados e monitorar o grau de cumprimento pela organização.
+  - Responder pela gestão dos riscos de dados da organização e reportá-los ao conselho de administração.
+  - Representar a organização em governança de dados perante parceiros de saúde e de cuidados, reguladores e grupos de pacientes.
+  - Promover a transparência com pacientes e o público sobre como seus dados são usados.
+  - Liderar e desenvolver a função de governança de dados.
+  qualifications:
+  - Ampla experiência na liderança da governança de dados em uma organização.

@@ -1,0 +1,70 @@
+summary: Servicedeskanalisten zijn het eerste contactpunt voor personeel dat hulp nodig heeft met de digitale diensten van de organisatie, van problemen met aanmelden en smartcards tot storingen in klinische systemen en apparaten. Zij registreren, triëren, lossen op of escaleren incidenten en verzoeken, houden gebruikers op de hoogte en signaleren patronen die wijzen op bredere problemen. In veel zorgorganisaties draait de servicedesk de klok rond, omdat klinische diensten dat ook doen.
+health_context:
+- Bellers zijn vaak clinici en zorgpersoneel midden in de zorg voor patiënten, dus de desk prioriteert naar het effect op patiënten en niet alleen naar volgorde van binnenkomst.
+- Veel klinische diensten draaien elke dag 24 uur per dag, dus de servicedesk werkt vaak in diensten en roosters buiten kantooruren.
+- Toegang tot klinische systemen gebruikt rolgebaseerde toegang en sterke authenticatie, dus de desk handelt problemen met accounts, smartcards en multifactorauthenticatie af terwijl hij de identiteit zorgvuldig controleert.
+- Bellers kunnen vertrouwelijke patiëntinformatie delen terwijl zij een storing beschrijven, dus analisten volgen de regels voor informatiebeheer voor wat zij in tickets vastleggen.
+- De desk ziet vaak als eerste tekenen van een groot incident of een cyberaanval, zoals veel telefoontjes over hetzelfde systeem of een golf verdachte e-mails, en moet ze snel escaleren.
+levels:
+- title: Servicedeskanalist
+  summary: Een servicedeskanalist beantwoordt telefoontjes en tickets van personeel, lost veelvoorkomende kwesties bij het eerste contact op met scripts en kennisartikelen en geeft andere kwesties door aan het juiste team.
+  responsibilities:
+  - Telefoontjes, chats en tickets via self-service van personeel beantwoorden en elk nauwkeurig registreren in het instrument voor servicemanagement.
+  - Veelvoorkomende kwesties bij het eerste contact oplossen met scripts en kennisartikelen, zoals het opnieuw instellen van wachtwoorden, het ontgrendelen van accounts en storingen van printers.
+  - De identiteit van de beller controleren voordat accounts of toegang worden gewijzigd, volgens de procedures van de organisatie.
+  - Vragen hoe de kwestie de zorg voor patiënten raakt, de prioriteit vaststellen en het incident doorgeven aan het juiste team voor oplossing.
+  - Gebruikers op de hoogte houden van hun tickets en bevestigen dat het herstel werkt voordat zij ze sluiten.
+  - In tickets alleen de benodigde informatie vastleggen, zonder onnodige gegevens van patiënten.
+  qualifications:
+  - Een kwalificatie op niveau 3 in IT, een leerwerktraject in IT-ondersteuning, of gelijkwaardige ervaring.
+  - Goede vaardigheden in klantenservice en toetsenbord, verworven door werk of studie.
+  job_evaluation_notes: Het UK GDaD PCF stelt voor dit niveau Band 4 voor. Deze referentie laat werk met scripts in de eerste lijn van de servicedesk op Band 3 beginnen en plaatst analisten die complexere storingen oplossen op Band 4. Geestelijke inspanning weerspiegelt regelmatige concentratie op onvoorspelbare telefoontjes; emotionele inspanning weerspiegelt regelmatige telefoontjes van personeel onder druk in klinische gebieden.
+- title: Technisch servicedeskanalist
+  summary: Een technisch servicedeskanalist lost complexere storingen bij het eerste contact op, inclusief herstel op afstand van apparaten en toegang tot klinische systemen, en handelt dringende telefoontjes uit klinische gebieden af.
+  responsibilities:
+  - Complexere incidenten en verzoeken op afstand oplossen, inclusief storingen in apparaten, software en toegang tot klinische systemen.
+  - Dringende telefoontjes uit klinische gebieden, zoals spoedeisende hulp, afdelingen en operatiekamers, afhandelen en waar nodig het proces voor grote incidenten starten.
+  - Verzoeken om toegang tot klinische systemen verwerken en ze controleren tegen regels voor rolgebaseerde toegang.
+  - Kennisartikelen schrijven en verbeteren zodat meer kwesties bij het eerste contact kunnen worden opgelost.
+  - Herhaalde telefoontjes over dezelfde storing signaleren en ze voorleggen aan incident- en probleemmanagement.
+  - Vermoedelijke phishing-e-mails en andere beveiligingsgebeurtenissen melden aan het beveiligingsteam.
+  - Nieuwe analisten laten zien hoe zij de instrumenten en procedures van de desk gebruiken.
+  qualifications:
+  - Ervaring met IT-ondersteuning bij een servicedesk of in een vergelijkbare omgeving.
+  - Een basiskwalificatie in IT-servicemanagement, of gelijkwaardige ervaring.
+  job_evaluation_notes: Gebruikt hetzelfde niveau in het UK GDaD PCF als de analist in Band 3, voor analisten die complexere kwesties oplossen en dringende klinische telefoontjes afhandelen. Communicatie ligt hoger dan het profiel van de band omdat analisten technische kwesties vaak moeten uitleggen aan drukke klinische medewerkers.
+- title: Senior servicedeskanalist
+  responsibilities:
+  - Een dienst op de servicedesk leiden en wachtrijen van telefoontjes afwegen tegen de klinische urgentie van openstaande incidenten.
+  - Moeilijke of geëscaleerde telefoontjes overnemen, inclusief telefoontjes van senior clinici tijdens spoedzorg.
+  - Scripts en kennisartikelen nauwkeurig houden naarmate klinische systemen en apparaten veranderen.
+  - Optreden als escalatiepunt van de desk buiten kantooruren en het proces voor grote incidenten starten wanneer veel gebruikers worden getroffen.
+  - De kwaliteit van tickets controleren, inclusief controles van identiteit en wat over patiënten wordt vastgelegd.
+  - Dekking in het rooster plannen zodat de desk altijd bezet is.
+  qualifications:
+  - Aanzienlijke ervaring met de servicedesk, inclusief het afhandelen van escalaties.
+  - Een kwalificatie in IT-servicemanagement, of gelijkwaardige ervaring.
+  job_evaluation_notes: Planning weerspiegelt het plannen van diensten en roosters voor een desk die 24 uur per dag draait. Emotionele inspanning weerspiegelt regelmatige moeilijke telefoontjes van personeel dat te maken heeft met dringende zorg voor patiënten.
+- title: Manager servicedesk
+  responsibilities:
+  - De servicedesk dagelijks runnen en zorgen dat zij 24 uur per dag, elke dag, bezet en responsief is.
+  - Prioriteiten en doelen voor reactietijden vaststellen die klinisch risico weerspiegelen, afgesproken met klinische en operationele leiders.
+  - De desk voorbereiden op nieuwe en gewijzigde klinische systemen, inclusief training, scripts en extra dekking bij go-live.
+  - Trends in tickets analyseren om opkomende kwesties te vinden en met probleemmanagement hun oorzaken wegnemen.
+  - Zorgen dat de desk de procedures voor controle van identiteit, informatiebeheer en beveiliging volgt en handelt op bevindingen van audits.
+  - Hiërarchisch leiding geven aan senior analisten en analisten, inclusief werving, prestaties en welzijn van personeel dat in diensten werkt.
+  qualifications:
+  - Ervaring met het leiden van een team van een servicedesk, inclusief dekking in diensten of buiten kantooruren.
+  - Een kwalificatie op tussenniveau in IT-servicemanagement, of gelijkwaardige ervaring.
+  job_evaluation_notes: Kennis ligt één niveau onder het profiel van de band, zoals gebruikelijk is voor rollen bij de servicedesk; verantwoordelijkheid voor mensen is hoger omdat de manager een team in diensten runt.
+- title: Hoofd servicedesk
+  responsibilities:
+  - De richting voor de servicedesk vaststellen, inclusief contactkanalen, self-service en ondersteuning voor personeel dat op meerdere locaties en in de gemeenschap werkt.
+  - Serviceniveaus met klinische en bedrijfsdiensten afspreken en over prestaties rapporteren aan senior leiders.
+  - Zorgen dat de desk tijdens grote incidenten, cyberaanvallen en uitval van systemen kan blijven werken, met duidelijke procedures voor bedrijfscontinuïteit.
+  - Projectteams adviseren over hoe nieuwe klinische systemen en bedrijfssystemen worden ondersteund voordat zij live gaan.
+  - Het budget, de instrumenten en eventuele contracten voor uitbestede ondersteuning of ondersteuning buiten kantooruren van de servicedesk beheren.
+  - Managers servicedesk leiden en ontwikkelen en een ondersteunende cultuur opbouwen voor personeel dat in diensten werkt.
+  qualifications:
+  - Uitgebreide ervaring met het beheren van IT-ondersteunende diensten, inclusief diensten die 24 uur per dag draaien.
+  - Een kwalificatie op gevorderd niveau in IT-servicemanagement, of gelijkwaardige ervaring.

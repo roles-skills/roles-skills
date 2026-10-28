@@ -1,0 +1,60 @@
+summary: Lösungsarchitektinnen und -architekten entwerfen, wie ein neuer oder geänderter Dienst von Anfang bis Ende funktioniert, von Nutzerbedürfnissen und klinischen Arbeitsabläufen bis zu Anwendungen, Daten, Integrationen, Hosting und Sicherheit. Sie stellen sicher, dass jede Lösung zur Architektur der Organisation passt, ihre Anforderungen an Sicherheit, Privatsphäre und Interoperabilität erfüllt und erschwinglich gebaut, betrieben und unterstützt werden kann.
+health_context:
+- Lösungen kombinieren oft zugekaufte klinische Systeme, interne Dienste und gemeinsame Plattformen; Architektinnen und Architekten müssen daher über Anbietergrenzen hinweg entwerfen.
+- Entwurfsentscheidungen können klinische Gefährdungen einführen, etwa verlorene Befunde oder falsche Patientenzuordnung; Lösungsentwürfe fließen daher in den klinischen Sicherheitsnachweis ein.
+- Jeder neue Datenfluss von Patienteninformationen braucht eine Rechtsgrundlage und eine Datenschutz-Folgenabschätzung; Architektinnen und Architekten arbeiten daher eng mit der Informationsgovernance zusammen.
+- Interoperabilität mit anderen Gesundheits- und Pflegeorganisationen, mit Standards wie HL7 FHIR, ist in der Regel eine Kernanforderung.
+- Manche Lösungen enthalten Software, die ein Medizinprodukt ist, was Entwurf, Absicherung und Anforderungen an Anbieter verändert.
+levels:
+- title: Associate Lösungsarchitekt/in
+  responsibilities:
+  - Anforderungen von Produktteams, klinischem Personal und Anbietern erheben, um Lösungsentwürfe zu untermauern.
+  - Diagramme des Ist- und Zielzustands zeichnen, etwa Kontext-, Datenfluss- und Integrationsansichten.
+  - Abschnitte von Lösungsentwürfen und Entscheidungsaufzeichnungen unter Aufsicht entwerfen.
+  - Entwürfe anhand von Architekturstandards und Anforderungen an Sicherheit und Informationsgovernance prüfen.
+  - Helfen, Entwürfe für die Prüfung in Design-Gremien vorzubereiten.
+  qualifications:
+  - Spezialwissen im Lösungsentwurf, auf Masterniveau oder gleichwertige Erfahrung.
+  - Erfahrung in Analyse, Entwicklung oder technischem Entwurf.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 6): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 7. Das Wissen wird auf Masterniveau oder gleichwertig bewertet, weil die Stelle über Anwendungen, Daten, Integration und Sicherheit hinweg entwirft.'
+- title: Lösungsarchitekt/in
+  responsibilities:
+  - Durchgängige Lösungen für Dienste mit geringerem Risiko entwerfen, etwa Werkzeuge für Mitarbeitende oder einfache Dienste für Patientinnen und Patienten.
+  - Optionen vergleichen, einschließlich Kaufen, Bauen und Wiederverwenden gemeinsamer Plattformen, und eine mit klaren Gründen empfehlen.
+  - Integrationen, Datenflüsse sowie Identität und Zugriff für die Lösung entwerfen, mit offenen Standards, wo es sie gibt.
+  - Zur Gefährdungsermittlung und zu Datenschutz-Folgenabschätzungen für die Lösung beitragen.
+  - Entwürfe in Design-Gremien präsentieren und Lieferteams durch Bau und Inbetriebnahme unterstützen.
+  - Die Arbeit von Associate-Lösungsarchitektinnen und -architekten anleiten und prüfen.
+  qualifications:
+  - Umfangreiche Erfahrung im Lösungsentwurf oder Software-Engineering, auf einem Niveau, das einem Masterabschluss entspricht.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 7): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 8a. Planung, Richtlinien und Handlungsfreiheit werden über dem Profil der Entgeltgruppe 7 bewertet, weil die Stelle durchgängige Entwürfe verantwortet und Design-Gremien Optionen empfiehlt.'
+- title: Senior-Lösungsarchitekt/in
+  responsibilities:
+  - Komplexe Lösungen mit mittlerem Risiko entwerfen, etwa klinische Systeme oder Dienste, die in mehreren Organisationen genutzt werden.
+  - Die technische Bewertung von Anbieterprodukten in Beschaffungen leiten, einschließlich Interoperabilität, Sicherheit und Patientensicherheit.
+  - Auf Resilienz und Betriebskontinuität hin entwerfen, wo die Lösung die Versorgung rund um die Uhr unterstützt.
+  - Mit Beauftragten für klinische Sicherheit zusammenarbeiten, damit Entwurfsentscheidungen und Risikokontrollen im Sicherheitsnachweis festgehalten werden.
+  - Die Arbeit anderer Lösungsarchitektinnen und -architekten anleiten und prüfen.
+  qualifications:
+  - Umfassende Erfahrung im Entwurf komplexer Lösungen über mehrere Disziplinen, auf einem Niveau über einem Masterabschluss.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 8a): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 8b. Das Wissen wird auf Stufe 8 für Spezialwissen über mehrere Disziplinen bewertet, etwa Anwendungen, Daten, Integration, Sicherheit und klinische Sicherheit.'
+- title: Leitende/r Lösungsarchitekt/in
+  responsibilities:
+  - Die Lösungsarchitektur für ein Programm oder einen komplexen Bereich leiten, etwa den Austausch einer elektronischen Patientenakte.
+  - Sicherstellen, dass Lösungen im Programm konsistent, interoperabel und an der Zielarchitektur ausgerichtet sind.
+  - Programmgremien zu Entwurfsrisiken, Abhängigkeiten, Anbieterwahl und Kosten beraten.
+  - Die Entwürfe anderer Lösungsarchitektinnen und -architekten in Design-Gremien absichern.
+  - Ein Team von Lösungsarchitektinnen und -architekten führen und entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung der Lösungsarchitektur für komplexe Programme.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 8b): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 8c. Planung, Richtlinien und Menschen werden über dem Profil der Entgeltgruppe 8b bewertet, weil die Stelle die Architektur eines ganzen Programms plant und ein Team von Lösungsarchitektinnen und -architekten führt.'
+- title: Principal-Lösungsarchitekt/in
+  responsibilities:
+  - Die Lösungsarchitektur für die größten oder kritischsten Programme der Organisation leiten.
+  - Standards, Muster und Methoden der Lösungsarchitektur für die Organisation festlegen.
+  - Direktorinnen, Direktoren und Partnerorganisationen zum Entwurf kritischer, gemeinsamer Gesundheits- und Pflegedienste beraten.
+  - Die schwierigsten Entwurfskonflikte zwischen Programmen, Anbietern und Partnerorganisationen lösen.
+  - Die Praxis der Lösungsarchitektur leiten und ihre Mitarbeitenden entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung der Lösungsarchitektur über mehrere Programme oder Organisationen hinweg.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 8c): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 8d. Die Handlungsfreiheit liegt auf Stufe 6, weil die Stelle die Standards der Lösungsarchitektur der Organisation festlegt; finanzielle Ressourcen und Menschen liegen auf Stufe 4, weil sie die Praxis und ihr Budget leitet.'

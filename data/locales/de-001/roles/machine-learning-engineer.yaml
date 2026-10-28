@@ -1,0 +1,27 @@
+summary: Machine-Learning-Ingenieurinnen und -Ingenieure übernehmen Modelle, die Data Scientists gebaut oder die von Anbietern gekauft wurden, und bringen sie in laufenden Gesundheits- und Pflegediensten zuverlässig zum Funktionieren. Sie bauen die Pipelines, die Modelle trainieren, testen, bereitstellen und überwachen, und integrieren sie in klinische und betriebliche Systeme. Sie stellen sicher, dass Modelle sicher, geschützt, fair und wirksam bleiben, sobald sich echte Patientinnen, Patienten und Mitarbeitende auf sie verlassen.
+health_context:
+- Modelle im Einsatz können abdriften, wenn sich Patientenpopulationen, klinische Praxis oder Erfassungsgewohnheiten ändern; die Leistung wird daher für jede Patientengruppe überwacht, und Modelle werden bei Bedarf neu trainiert oder zurückgezogen.
+- Ein Modell, das Diagnose, Triage oder Behandlung beeinflusst, kann als Medizinprodukt reguliert sein, was formale Anforderungen an seinen Software-Lebenszyklus, die Änderungskontrolle und die Überwachung nach dem Inverkehrbringen mit sich bringt.
+- Klinische Sicherheitsnachweise brauchen Belege dazu, wie ein Modell versagt, wie seine Ausgaben klinischem Personal gezeigt werden und was passiert, wenn es nicht verfügbar ist.
+- Mit Patientendaten trainierte Modelle können Informationen über Einzelpersonen preisgeben; Trainingsdaten, Modellartefakte und Protokolle werden daher wie die Daten selbst geschützt.
+- Generative KI und große Sprachmodelle bringen weitere Risiken mit sich, etwa erfundene Inhalte in klinischen Notizen, die gezielte Tests und menschliche Aufsicht brauchen.
+levels:
+- title: Senior-Machine-Learning-Ingenieur/in
+  responsibilities:
+  - Modelle in klinische und betriebliche Produktivdienste bringen, mit automatisierten Tests, Versionierung und Rückfall.
+  - Überwachung von Modellleistung, Drift und Fairness über Patientengruppen hinweg bauen, mit Warnungen und klaren Verantwortlichen.
+  - Modelle in klinische Systeme integrieren, wo möglich mit offenen Standards wie HL7 FHIR.
+  - Die Test-, Änderungs- und Überwachungsnachweise erstellen, die für klinische Sicherheitsnachweise und technische Akten von Medizinprodukten gebraucht werden.
+  - Modelle von Anbietern und Open-Source-Modelle für die lokale Nutzung bewerten und anpassen, einschließlich generativer KI-Modelle.
+  - Data Scientists und Ingenieurinnen und Ingenieure in der Praxis des Machine-Learning-Engineerings anleiten.
+  qualifications:
+  - Umfangreiche Erfahrung im Bau und Betrieb von Machine-Learning-Systemen in der Produktion, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Leitende/r Machine-Learning-Ingenieur/in
+  responsibilities:
+  - Die komplexeste Arbeit leiten, Modelle aus der Forschung in sicheren Echtbetrieb in der gesamten Organisation zu bringen.
+  - Den Machine-Learning-Lebenszyklus definieren, einschließlich der Kontrollen, die für regulierte und sicherheitskritische Modelle nötig sind.
+  - Standards für Modelltests, Überwachung, Sicherheit und Ethik setzen und Modelle im Einsatz absichern.
+  - Mit Beauftragten für klinische Sicherheit, Informationsgovernance und Regulierungsfachleuten vereinbaren, wie Modelle bewertet und freigegeben werden.
+  - Schulungsbedarf erkennen und Machine-Learning-Ingenieurinnen und -Ingenieure und verwandte Rollen entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Machine-Learning-Engineering für komplexe oder regulierte Dienste.

@@ -1,0 +1,66 @@
+summary: Lập trình viên giao diện người dùng xây dựng giao diện người dùng của các dịch vụ y tế số của tổ chức, như trang web và ứng dụng dành cho bệnh nhân, biểu mẫu trực tuyến, và các màn hình mà bác sĩ lâm sàng và nhân viên chăm sóc dùng trong lúc chăm sóc. Họ viết mã dễ tiếp cận, nhanh và an toàn, phù hợp với mọi người, kể cả những người đang ốm, lo lắng hoặc dùng thiết bị cũ, và làm việc trong các nhóm sản phẩm đa ngành cùng nhà thiết kế, nhà nghiên cứu và bác sĩ lâm sàng.
+health_context:
+- Nhiều người dùng đang ốm, đau, cao tuổi hoặc khuyết tật, nên khả năng tiếp cận và giao diện giản dị, nhẹ nhàng là thiết yếu chứ không phải tùy chọn.
+- Việc hiển thị gây nhầm lẫn hoặc sai thông tin lâm sàng, như liều thuốc, kết quả hoặc giờ hẹn, có thể gây hại cho bệnh nhân, nên công việc giao diện tuân theo quy trình quản lý rủi ro lâm sàng.
+- Giao diện thường hiển thị thông tin y tế bí mật, nên lập trình viên thiết kế để bảo vệ quyền riêng tư, ví dụ trên thiết bị dùng chung và trong khu vực lâm sàng đông đúc.
+- Bác sĩ lâm sàng dùng giao diện dưới áp lực thời gian và thường xuyên bị gián đoạn, nên màn hình phải nhanh, dễ đoán và khó đọc nhầm.
+- Bệnh nhân truy cập dịch vụ trên nhiều loại thiết bị và kết nối, nên các dịch vụ dùng cách cải tiến dần dần và hoạt động trên mạng chậm.
+levels:
+- title: Lập trình viên giao diện người dùng học nghề
+  responsibilities:
+  - Học hệ thống thiết kế, ngôn ngữ và công cụ của nhóm qua đào tạo có cấu trúc và làm việc theo cặp.
+  - Xây dựng các thành phần giao diện nhỏ dưới sự giám sát chặt chẽ, theo hệ thống thiết kế của tổ chức.
+  - Kiểm thử các thành phần bằng công nghệ hỗ trợ, như trình đọc màn hình, với sự hỗ trợ của đồng nghiệp.
+  - Tuân thủ các quy trình về quản trị thông tin và an toàn lâm sàng khi làm việc với dữ liệu kiểm thử và dữ liệu thật.
+  - Hướng tới chương trình học nghề hoặc bằng cấp tương đương.
+  qualifications:
+  - Đang theo học, hoặc đang hướng tới, chương trình học nghề phát triển phần mềm hoặc tương đương.
+  job_evaluation_notes: Kiến thức được chấm ở mức mà công việc đòi hỏi sau khi việc đào tạo đã đủ để làm được công việc.
+- title: Lập trình viên giao diện người dùng sơ cấp
+  responsibilities:
+  - Xây dựng và kiểm thử các tính năng giao diện cho các dịch vụ hướng tới bệnh nhân và nhân viên, làm từ các câu chuyện người dùng với sự hướng dẫn.
+  - Dùng hệ thống thiết kế và các mẫu của tổ chức để các dịch vụ có hình thức và cách hoạt động nhất quán.
+  - Sửa các lỗi về khả năng tiếp cận và kiểm tra các trang theo các tiêu chuẩn khả năng tiếp cận như WCAG.
+  - Bảo đảm thông tin lâm sàng, như ngày, liều thuốc và kết quả, được hiển thị đúng như đã chỉ định.
+  - Đóng góp bằng chứng cho các hồ sơ an toàn lâm sàng, như kết quả kiểm thử và ảnh chụp màn hình các thay đổi.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc một ngành liên quan, đã hoàn thành chương trình học nghề, hoặc kinh nghiệm tương đương.
+- title: Lập trình viên giao diện người dùng
+  responsibilities:
+  - Thiết kế và xây dựng độc lập các giao diện dễ tiếp cận, thích ứng cho các dịch vụ y tế, chọn các cách tiếp cận phù hợp.
+  - Làm việc với nhà thiết kế và nhà nghiên cứu người dùng để kiểm thử nguyên mẫu với bệnh nhân, bác sĩ lâm sàng và nhân viên chăm sóc.
+  - Xây dựng các giao diện gọi các API dữ liệu y tế, như dịch vụ HL7 FHIR, và xử lý lỗi và dữ liệu thiếu một cách an toàn.
+  - Tham gia các buổi làm việc về mối nguy và tích hợp các biện pháp kiểm soát an toàn vào giao diện, như bước xác nhận và cảnh báo rõ ràng.
+  - Bảo vệ thông tin bí mật trong trình duyệt, ví dụ bằng cách quản lý phiên và bộ nhớ đệm cẩn thận trên thiết bị dùng chung.
+  - Rà soát mã và kèm cặp các lập trình viên giao diện người dùng sơ cấp và học nghề.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc một ngành liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm xây dựng và hỗ trợ các dịch vụ web dễ tiếp cận trong môi trường vận hành.
+- title: Lập trình viên giao diện người dùng cao cấp
+  responsibilities:
+  - Dẫn dắt thiết kế và triển khai giao diện cho các tính năng quan trọng, như đặt lịch, kết quả hoặc màn hình quy trình lâm sàng.
+  - Đề ra và duy trì các tiêu chuẩn giao diện người dùng cho nhóm, gồm khả năng tiếp cận, hiệu năng, an ninh và kiểm thử.
+  - Đóng góp các thành phần và mẫu vào hệ thống thiết kế của tổ chức và bảo đảm chúng an toàn và dễ tiếp cận.
+  - Làm việc với cán bộ an toàn lâm sàng để bảo đảm các mối nguy của giao diện được nhận diện, kiểm soát và kiểm thử.
+  - Bảo đảm các dịch vụ hoạt động tốt trên kết nối chậm, thiết bị cũ và công nghệ hỗ trợ.
+  - Huấn luyện và phát triển các lập trình viên giao diện người dùng trong nhóm.
+  qualifications:
+  - Có kinh nghiệm dày dặn về thiết kế, xây dựng và hỗ trợ các dịch vụ web dễ tiếp cận trong môi trường vận hành, ở mức tương đương bằng thạc sĩ.
+- title: Trưởng nhóm lập trình viên giao diện người dùng
+  responsibilities:
+  - Dẫn dắt kỹ thuật giao diện người dùng trên một nhóm các nhóm hoặc một dịch vụ lớn hướng tới bệnh nhân.
+  - Làm chủ định hướng kỹ thuật của hệ thống thiết kế và các thư viện giao diện người dùng của tổ chức.
+  - Bảo đảm các giao diện trên các dịch vụ đáp ứng tiêu chuẩn khả năng tiếp cận và được đảm bảo về an toàn lâm sàng.
+  - Làm việc với kiến trúc sư, nhà thiết kế và trưởng nhóm lâm sàng để định hình lộ trình sản phẩm và các lựa chọn công nghệ giao diện người dùng.
+  - Dẫn dắt cộng đồng thực hành giao diện người dùng và quản lý trực tiếp hoặc dẫn dắt các lập trình viên giao diện người dùng.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt kỹ thuật giao diện người dùng cho các dịch vụ phức tạp, dễ tiếp cận.
+- title: Trưởng bộ phận phát triển giao diện người dùng
+  responsibilities:
+  - Đề ra chiến lược, tiêu chuẩn và thực hành giao diện người dùng cho mọi dịch vụ số của tổ chức.
+  - Chịu trách nhiệm về khả năng tiếp cận và khả năng sử dụng các giao diện của tổ chức đối với bệnh nhân và nhân viên.
+  - Tư vấn cho các lãnh đạo cấp cao về công nghệ giao diện người dùng, đầu tư vào hệ thống thiết kế và các rủi ro của giao diện kém đối với việc chăm sóc.
+  - Đại diện tổ chức trong các cộng đồng về hệ thống thiết kế và khả năng tiếp cận giữa nhiều tổ chức.
+  - Dẫn dắt và phát triển các lập trình viên giao diện người dùng trong toàn tổ chức, kể cả tuyển dụng và lộ trình nghề nghiệp.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt phát triển giao diện người dùng trên nhiều nhóm hoặc tổ chức.

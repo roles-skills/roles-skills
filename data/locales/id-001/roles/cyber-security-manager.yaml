@@ -1,0 +1,58 @@
+summary: >
+  Manajer keamanan siber memimpin pendekatan organisasi dalam melindungi sistem, data, dan layanannya dari ancaman siber. Mereka menetapkan kebijakan keamanan, mengelola risiko siber, mengawasi operasi dan rekayasa keamanan, memimpin tanggapan atas insiden siber besar, dan membangun budaya yang sadar keamanan. Dalam layanan kesehatan, mereka memastikan layanan klinis dapat terus berjalan dengan aman, dan pulih dengan cepat, ketika serangan terjadi.
+health_context:
+  - Serangan siber pada organisasi layanan kesehatan dapat menghentikan sistem klinis dan menempatkan pasien dalam risiko, sehingga keamanan siber adalah bagian dari keselamatan pasien dan kesinambungan bisnis.
+  - Organisasi layanan kesehatan sering harus memenuhi standar keamanan siber sektoral dan melaporkan insiden serius kepada otoritas yang relevan.
+  - Staf klinis membutuhkan akses cepat ke sistem, sehingga kebijakan keamanan dirancang bersama tenaga klinis dan diuji kegunaannya.
+  - Keamanan bergantung pada banyak pemasok, termasuk pemasok sistem klinis dan layanan bersama, sehingga penjaminan pemasok adalah bagian inti dari peran ini.
+  - Alat kesehatan dan sistem lama menciptakan risiko jangka panjang yang dikelola bersama tim rekayasa klinis dan keselamatan klinis.
+levels:
+  - title: Manajer keamanan siber
+    summary: Manajer keamanan siber menjalankan fungsi keamanan siber, atau bagian besar darinya, mengelola risiko siber, operasi keamanan, dan penjaminan.
+    responsibilities:
+      - Menjalankan operasi keamanan, manajemen kerentanan, dan pekerjaan penjaminan, serta melaporkan kinerjanya.
+      - Memelihara register risiko siber, dan memastikan risiko terhadap layanan klinis dinilai dan ada pemiliknya.
+      - Menulis dan memelihara kebijakan dan standar keamanan, serta memeriksa bahwa semuanya diikuti.
+      - Memimpin tanggapan atas insiden siber, bekerja dengan manajemen insiden dan dengan pimpinan klinis dan operasional.
+      - Menjalankan pelatihan kesadaran keamanan dan latihan phishing untuk semua staf, termasuk staf klinis.
+      - Mengelola secara langsung analis dan insinyur keamanan.
+    qualifications:
+      - Pengalaman luas dalam keamanan siber, termasuk respons insiden dan manajemen risiko, pada tingkat yang setara dengan gelar magister.
+      - Sertifikasi profesional keamanan yang diakui, atau pengalaman yang setara.
+    job_evaluation_notes: Upaya mental dan emosional mencerminkan memimpin tanggapan atas insiden siber di bawah tekanan, sering di luar jam kerja, ketika perawatan pasien mungkin berisiko.
+  - title: Manajer keamanan siber senior
+    summary: Manajer keamanan siber senior memimpin keamanan siber di beberapa tim, mengelola penjaminan terhadap standar sektoral, dan menjalankan program perbaikan keamanan organisasi.
+    responsibilities:
+      - Memimpin tim keamanan siber di bidang operasi, rekayasa, dan penjaminan.
+      - Menjalankan program perbaikan keamanan siber organisasi dan mengelola anggarannya.
+      - Mengelola penjaminan terhadap standar keamanan siber sektoral dan pengendalian ISO/IEC 27001, serta menyiapkan bukti untuk audit.
+      - Memimpin tanggapan atas insiden siber besar, serta merencanakan dan menguji pemulihan bersama pimpinan kesinambungan bisnis dan klinis.
+      - Menilai keamanan pemasok dan layanan bersama, dan menyepakati persyaratan keamanan dalam kontrak.
+      - Menasihati dewan program tentang risiko keamanan layanan klinis dan digital baru.
+    qualifications:
+      - Pengalaman luas dalam memimpin tim keamanan siber di organisasi yang kompleks.
+      - Sertifikasi profesional keamanan yang diakui, atau pengalaman yang setara.
+    job_evaluation_notes: Upaya mental dan emosional mencerminkan memimpin tanggapan atas insiden siber besar, yang dapat berlangsung berhari-hari atau berminggu-minggu dan mengancam perawatan pasien.
+  - title: Kepala keamanan siber
+    summary: Kepala keamanan siber menetapkan strategi keamanan siber organisasi dan bertanggung jawab atas manajemen risiko sibernya, operasi keamanan, dan tanggapan atas insiden besar.
+    responsibilities:
+      - Menetapkan strategi keamanan siber, selaras dengan strategi digital dan klinis organisasi.
+      - Menasihati dewan dan tim eksekutif tentang risiko siber, selera risiko, dan investasi.
+      - Memimpin tanggapan organisasi atas insiden siber besar, termasuk komunikasi dengan regulator, mitra, dan masyarakat.
+      - Membangun budaya keamanan tempat semua staf, termasuk tenaga klinis, memahami ancaman dan melaporkannya.
+      - Mewakili organisasi dalam jaringan keamanan siber layanan kesehatan dan di hadapan organisasi mitra.
+      - Memimpin dan mengembangkan fungsi keamanan siber, dan mengelola anggarannya.
+    qualifications:
+      - Pengalaman luas dalam memimpin keamanan siber untuk organisasi besar, termasuk respons insiden besar.
+  - title: Kepala keamanan informasi
+    summary: Kepala keamanan informasi memegang tanggung jawab korporat atas keamanan siber di seluruh organisasi, dan sering di seluruh organisasi mitra yang berbagi layanannya.
+    responsibilities:
+      - Memegang tanggung jawab korporat atas keamanan siber, dan melapor kepada dewan tentangnya.
+      - Menetapkan selera risiko keamanan bersama dewan, dan memastikannya membentuk keputusan di seluruh organisasi.
+      - Memimpin keamanan siber di layanan bersama dan organisasi mitra, jika organisasi menyediakannya.
+      - Mengarahkan tanggapan organisasi atas insiden siber paling serius, bekerja dengan tim eksekutif dan otoritas yang relevan.
+      - Membentuk praktik keamanan siber di sektor kesehatan dan perawatan dengan bekerja bersama mitra dan badan sektor.
+      - Memimpin fungsi keamanan dan memegang anggaran di beberapa layanan.
+    qualifications:
+      - Pengalaman luas dalam memimpin keamanan siber di tingkat dewan, atau untuk beberapa organisasi.
+    job_evaluation_notes: Tingkat ini cocok untuk organisasi yang lebih besar, atau yang menyediakan layanan digital bersama kepada mitra. Organisasi yang lebih kecil biasanya memiliki kepala keamanan siber di Pita 8c sebagai peran keamanan tertingginya.

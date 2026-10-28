@@ -1,0 +1,59 @@
+summary: Einkäuferinnen und Einkäufer helfen der Organisation, die Waren und Dienstleistungen, die sie braucht, rechtmäßig und zu gutem Wert zu kaufen, von routinemäßigen Käufen bis zu förmlichen Ausschreibungen. In einer Organisation für digitale Gesundheit und Pflege geht ein Großteil dieser Ausgaben an Software, Cloud-Dienste, Lizenzen, Geräte und Technologiedienste; sie arbeiten daher eng mit Kolleginnen und Kollegen aus Digitalem, Informationsgovernance und klinischer Sicherheit sowie mit Budgetverantwortlichen zusammen.
+health_context:
+- Das öffentliche Vergaberecht gilt für die Ausgaben der Organisation; jeder Kauf muss daher dem richtigen Weg folgen, eine klare Prüfspur halten und Anbieter fair behandeln.
+- Viele Käufe sind digital, etwa Softwarelizenzen, Cloud-Abonnements und Geräte, und brauchen vor Vertragsschluss Sicherheits-, Datenschutz- und klinische Sicherheitsprüfungen.
+- Anbieter klinischer Systeme können Patientendaten halten; Verträge brauchen daher klare Bedingungen zu Datenschutz, Dateneigentum und Datenrückgabe.
+- Der Einkauf über Rahmenvereinbarungen und dynamische Beschaffungssysteme, die für den öffentlichen Sektor gebaut sind, kann Zeit sparen, aber Abrufe müssen weiter den Regeln jeder Rahmenvereinbarung folgen.
+- Öffentliche Ausgaben müssen Preis-Leistungs-Verhältnis und gesellschaftlichen Mehrwert zeigen, etwa lokale Arbeitsplätze, Kompetenzen und geringeren Kohlenstoffausstoß.
+levels:
+- title: Einkaufsassistent/in
+  summary: Leistet Einkaufs- und Verwaltungsunterstützung nach festen Verfahren, mit einer Einkäuferin oder einem Einkäufer in der Nähe.
+  responsibilities:
+  - Bestellungen im Einkaufssystem anlegen und ändern und gegen Verträge und Genehmigungen prüfen.
+  - Routinefragen zu Rechnungen und Wareneingang mit Anbietern, Budgetverantwortlichen und Finanzen klären.
+  - Angebote für Käufe geringen Werts nach den Regeln der Organisation einholen.
+  - Lieferantenstammdaten, Kataloge und das Vertragsregister aktuell halten.
+  - Routinefragen von Mitarbeitenden dazu beantworten, wie man kauft.
+  qualifications:
+  - Eine Qualifikation auf Niveau 2 oder 3, eine Ausbildung im Einkauf oder gleichwertige Erfahrung.
+  - Erfahrung in genauer Verwaltungs- oder Finanzarbeit.
+  job_evaluation_notes: Die finanziellen Ressourcen liegen auf Stufe 2, weil die Stelle Bestellungen anlegt und ändert, die von anderen genehmigte Ausgaben binden.
+- title: Einkäufer/in
+  summary: Kauft Waren und Dienstleistungen über Angebote und Rahmenvereinbarungsabrufe, einschließlich Standardsoftware, Geräten und Lizenzen, innerhalb fester Verfahren.
+  responsibilities:
+  - Angebotseinholungen und weitere Wettbewerbe unter Rahmenvereinbarungen mit Standardvorlagen und dem E-Vergabe-System durchführen.
+  - Standardsoftware, Geräte und Lizenzen kaufen und Verlängerungen und Lizenzanzahlen verfolgen.
+  - Prüfen, dass vor dem Kauf Standardanforderungen an Sicherheit, Datenschutz und Barrierefreiheit enthalten sind.
+  - Preise und Bedingungen für Routinekäufe verhandeln.
+  - Eine klare Prüfspur halten und Zuschlagsbekanntmachungen veröffentlichen, wo die Regeln es verlangen.
+  - Ausgabendaten analysieren, um Ausgaben außerhalb von Verträgen zu finden, und bessere Wege vorschlagen.
+  qualifications:
+  - Eine Einkaufsqualifikation auf Zertifikatsniveau, eine Ausbildung im Einkauf oder gleichwertige Erfahrung.
+  - Erfahrung im Einkauf über Angebote oder Rahmenvereinbarungen.
+  job_evaluation_notes: Die finanziellen Ressourcen liegen auf Stufe 3, weil die Stelle Bedarfe und Dienste im Auftrag von Budgetverantwortlichen kauft.
+- title: Einkaufssachbearbeiter/in
+  summary: Führt Beschaffungen mittleren Werts und mittlerer Komplexität durch, einschließlich förmlicher Ausschreibungen, von der Planung bis zum Zuschlag, mit einer Senior-Einkaufssachbearbeiterin oder einem Senior-Einkaufssachbearbeiter zur Beratung.
+  responsibilities:
+  - Förmliche Ausschreibungen und Rahmenvereinbarungswettbewerbe von der Planung bis zum Zuschlag durchführen und Zeitpläne und Bieterfragen steuern.
+  - Budgetverantwortlichen helfen, klare, ergebnisorientierte Leistungsbeschreibungen zu schreiben, einschließlich technischer und Datenschutzanforderungen.
+  - Die Bewertung einrichten, Angebote auf Konformität prüfen, Bewertende unterstützen und die Abstimmung dokumentieren.
+  - Zuschlagsberichte und Rückmeldungen an Bietende schreiben und die Stillhaltefrist steuern.
+  - Fragen zu gesellschaftlichem Mehrwert und Nachhaltigkeit aufnehmen, die zum Vertrag passen.
+  - Verträge mit klaren Inbetriebnahme- und Ausstiegsplänen an Vertragsmanagerinnen und -manager übergeben.
+  - Budgetverantwortliche im Kaufen schulen und Einkaufsassistentinnen und -assistenten beaufsichtigen.
+  qualifications:
+  - Eine anerkannte berufliche Einkaufsqualifikation auf mittlerem Niveau oder gleichwertige Erfahrung.
+  - Erfahrung in der Durchführung förmlicher Ausschreibungen nach dem Vergaberecht.
+- title: Senior-Einkaufssachbearbeiter/in
+  summary: Leitet komplexe Beschaffungen wie klinische Systeme, Cloud-Dienste und Technologiedienste und berät zum richtigen Weg zum Markt, mit großem Spielraum innerhalb der Einkaufsrichtlinie.
+  responsibilities:
+  - Komplexe und hochwertige Beschaffungen leiten und den richtigen Weg zum Markt und das richtige Verfahren wählen.
+  - Frühe Marktansprache und Informationsanfragen leiten und den Wettbewerb fair halten.
+  - Bewertungskriterien und Gewichtungen mit technischen, klinischen und Informationsgovernance-Leitungen entwerfen und die Abstimmung leiten.
+  - Sicherstellen, dass Verträge für Technologie Bedingungen zu Interoperabilität, Sicherheit, Dateneigentum, Ausstieg und Datenrückgabe enthalten.
+  - Mit Bietenden verhandeln, wo das Verfahren es erlaubt, und endgültige Bedingungen vereinbaren.
+  - Zu Vertragsänderungen, Verlängerungen und Direktvergaben und dem Risiko einer Rüge beraten.
+  - Einkaufssachbearbeitende und Einkäuferinnen und Einkäufer anleiten und deren Arbeit prüfen.
+  qualifications:
+  - Eine anerkannte berufliche Einkaufsqualifikation auf fortgeschrittenem Niveau oder gleichwertige Erfahrung.
+  - Umfangreiche Erfahrung in der Leitung komplexer Ausschreibungen, idealerweise für Technologie oder klinische Systeme.

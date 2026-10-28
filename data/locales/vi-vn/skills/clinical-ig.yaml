@@ -1,0 +1,228 @@
+# Bản dịch tiếng Việt của data/skills/clinical-ig.yaml. Khóa là mã kỹ năng tiếng Anh.
+clin-clinical-systems-optimisation:
+  name: Thiết kế và tối ưu hóa hệ thống lâm sàng
+  description: Thiết kế, cấu hình và cải thiện các hệ thống lâm sàng, như hồ sơ sức khỏe điện tử, truyền đạt y lệnh và kê đơn điện tử, để chúng phù hợp với quy trình lâm sàng và hỗ trợ việc chăm sóc an toàn, hiệu quả.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các hệ thống lâm sàng như hồ sơ sức khỏe điện tử hỗ trợ việc chăm sóc như thế nào
+      - mô tả các quy trình lâm sàng mà một hệ thống hỗ trợ
+    working: |
+      Bạn có thể:
+      - vẽ sơ đồ các quy trình lâm sàng hiện tại và tương lai cùng bác sĩ lâm sàng và nhân viên chăm sóc
+      - kiểm thử cấu hình hệ thống theo các tình huống lâm sàng
+      - viết các yêu cầu lâm sàng rõ ràng cho các nhóm sản phẩm
+    practitioner: |
+      Bạn có thể:
+      - dẫn dắt thiết kế lâm sàng cho cấu hình hệ thống, biểu mẫu, bộ y lệnh và hỗ trợ ra quyết định
+      - dùng dữ liệu và phản hồi của người dùng để tìm và khắc phục các vấn đề trong quy trình làm việc
+      - cân bằng giữa nhu cầu lâm sàng, an toàn, khả năng sử dụng và các ràng buộc của hệ thống
+    expert: |
+      Bạn có thể:
+      - đề ra các nguyên tắc và tiêu chuẩn thiết kế cho các hệ thống lâm sàng trong toàn tổ chức
+      - dẫn dắt các chương trình tối ưu hóa cải thiện đo lường được việc chăm sóc và trải nghiệm của nhân viên
+      - tư vấn cho các lãnh đạo cấp cao về các lựa chọn hệ thống lâm sàng và tác động của chúng đối với việc chăm sóc
+clin-human-factors:
+  name: Yếu tố con người và khả năng sử dụng trong các hệ thống lâm sàng
+  description: Áp dụng các phương pháp về yếu tố con người và khả năng sử dụng vào các hệ thống lâm sàng, để bác sĩ lâm sàng, nhân viên chăm sóc và bệnh nhân có thể dùng chúng an toàn và ít sai sót nhất có thể.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích thiết kế kém có thể dẫn đến sai sót trong chăm sóc như thế nào
+      - báo cáo các vấn đề về khả năng sử dụng có thể ảnh hưởng đến an toàn của bệnh nhân
+    working: |
+      Bạn có thể:
+      - tham gia các buổi kiểm thử khả năng sử dụng và mô phỏng các nhiệm vụ lâm sàng
+      - phát hiện các mối nguy thiết kế phổ biến, như các lựa chọn trông giống nhau hoặc cảnh báo bị ẩn
+    practitioner: |
+      Bạn có thể:
+      - lập kế hoạch và thực hiện các đánh giá yếu tố con người đối với các hệ thống lâm sàng
+      - chuyển các phát hiện thành thay đổi thiết kế và biện pháp kiểm soát an toàn lâm sàng
+      - đánh giá gánh nặng cảnh báo và rủi ro của các cách làm tạm
+    expert: |
+      Bạn có thể:
+      - đề ra cách tiếp cận của tổ chức đối với yếu tố con người trong các dịch vụ số
+      - rà soát bằng chứng về yếu tố con người cho các hệ thống và thay đổi có rủi ro cao
+      - xây dựng kỹ năng về yếu tố con người trong các nhóm lâm sàng và số
+clin-digital-health-evaluation:
+  name: Đánh giá và lợi ích của y tế số
+  description: Lập kế hoạch và thực hiện đánh giá các công nghệ y tế số, và đo lường lợi ích lâm sàng, an toàn và dịch vụ của chúng bằng các phương pháp và bằng chứng vững chắc.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao các công nghệ y tế số cần có bằng chứng về lợi ích và an toàn
+      - tìm bằng chứng đã công bố về một công nghệ
+    working: |
+      Bạn có thể:
+      - thu thập dữ liệu nền và dữ liệu theo dõi cho một đợt đánh giá
+      - thực hiện kiểm toán lâm sàng về việc sử dụng hệ thống
+      - tóm tắt các phát hiện đánh giá cho đồng nghiệp
+    practitioner: |
+      Bạn có thể:
+      - thiết kế các đợt đánh giá và kế hoạch lợi ích cho các sản phẩm y tế số
+      - chọn các thước đo phù hợp cho kết quả lâm sàng, an toàn và trải nghiệm
+      - đánh giá độ mạnh của bằng chứng và giải thích các giới hạn của nó
+    expert: |
+      Bạn có thể:
+      - đề ra cách tiếp cận của tổ chức đối với việc đánh giá y tế số
+      - dẫn dắt các chương trình nghiên cứu và đánh giá cùng các đối tác học thuật và chăm sóc
+      - dùng bằng chứng để tư vấn cho hội đồng về đầu tư số
+clin-professional-practice:
+  name: Hành nghề lâm sàng có đăng ký trong lĩnh vực số
+  description: Mang kiến thức và phán đoán lâm sàng hiện hành, có đăng ký hành nghề, vào công việc số, đồng thời đáp ứng các tiêu chuẩn, đạo đức và nghĩa vụ tái xác nhận của một nghề lâm sàng.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các chuẩn mực nghề nghiệp áp dụng cho một bác sĩ lâm sàng có đăng ký hành nghề
+      - nhận biết khi một câu hỏi cần ý kiến lâm sàng
+    working: |
+      Bạn có thể:
+      - áp dụng kiến thức lâm sàng của bạn vào công việc số trong phạm vi hành nghề của bạn
+      - cập nhật đăng ký hành nghề và việc phát triển nghề nghiệp liên tục của bạn
+      - đưa ý kiến lâm sàng về quy trình làm việc, nội dung và an toàn
+    practitioner: |
+      Bạn có thể:
+      - đưa ra phán đoán lâm sàng vững chắc về tác động của các dịch vụ số đối với việc chăm sóc
+      - tự tin phản đối thực hành không an toàn, trong môi trường số hoặc lâm sàng
+      - hỗ trợ các bác sĩ lâm sàng khác áp dụng chuẩn mực nghề nghiệp của họ vào công việc số
+    expert: |
+      Bạn có thể:
+      - dẫn dắt các chuẩn mực nghề nghiệp lâm sàng cho công việc số của tổ chức
+      - đóng vai trò tiếng nói lâm sàng cấp cao trong các quyết định về an toàn và chăm sóc bệnh nhân
+      - hỗ trợ việc tái xác nhận và phát triển nghề nghiệp của các bác sĩ lâm sàng trong các vai trò số
+ig-information-rights-requests:
+  name: Yêu cầu về quyền thông tin
+  description: Xử lý các yêu cầu của cá nhân và công chúng về quyền tiếp cận thông tin, như yêu cầu tiếp cận hồ sơ sức khỏe cá nhân và yêu cầu về thông tin do tổ chức nắm giữ, trong thời hạn pháp luật quy định.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - nhận biết một yêu cầu về quyền thông tin và chuyển tiếp ngay
+      - giải thích rằng các yêu cầu có thời hạn theo luật định
+    working: |
+      Bạn có thể:
+      - ghi nhận, xác nhận đã nhận và theo dõi các yêu cầu để đáp ứng thời hạn
+      - thu thập và che các thông tin cần thiết, và soạn thảo phản hồi để rà soát
+      - kiểm tra danh tính và thẩm quyền của người yêu cầu
+    practitioner: |
+      Bạn có thể:
+      - xử lý các yêu cầu phức tạp hoặc nhạy cảm, kể cả những yêu cầu có liên quan đến bên thứ ba
+      - áp dụng các trường hợp miễn trừ và quyết định thông tin nào cần giữ lại, kèm lý do rõ ràng
+      - quản lý các đợt xem xét nội bộ và khiếu nại về các phản hồi
+    expert: |
+      Bạn có thể:
+      - đề ra chính sách và quy trình về quyền thông tin trong toàn tổ chức
+      - dẫn dắt việc ứng phó với các yêu cầu của cơ quan quản lý và các kháng nghị
+      - báo cáo kết quả hoạt động và xu hướng cho các lãnh đạo cấp cao
+ig-records-retention:
+  name: Lưu giữ và hủy hồ sơ
+  description: Áp dụng lịch trình lưu giữ cho hồ sơ giấy và hồ sơ số, và lưu trữ hoặc hủy chúng một cách an toàn vào đúng thời điểm, kèm dấu vết kiểm toán.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao hồ sơ được giữ trong những khoảng thời gian nhất định rồi bị hủy hoặc lưu trữ
+      - tuân theo các quy trình lưu trữ và di chuyển hồ sơ
+    working: |
+      Bạn có thể:
+      - áp dụng lịch trình lưu giữ cho hồ sơ và đánh dấu những hồ sơ đến hạn rà soát
+      - chuẩn bị hồ sơ để lưu trữ hoặc hủy an toàn, và giữ dấu vết kiểm toán
+    practitioner: |
+      Bạn có thể:
+      - vận hành chương trình lưu giữ và hủy cho một dịch vụ hồ sơ
+      - tư vấn cho các nhóm về thời hạn lưu giữ đối với các loại hồ sơ mới, kể cả hồ sơ số
+      - kiểm toán việc tuân thủ lịch trình lưu giữ
+    expert: |
+      Bạn có thể:
+      - đề ra chính sách và lịch trình lưu giữ cho tổ chức
+      - lập kế hoạch bảo quản lâu dài hồ sơ số
+      - giải quyết các vấn đề lưu giữ phức tạp, như lệnh giữ hồ sơ theo pháp luật và các cuộc điều tra
+ig-data-protection-impact-assessment:
+  name: Đánh giá tác động bảo vệ dữ liệu
+  description: Đánh giá các rủi ro về quyền riêng tư khi xử lý mới hoặc thay đổi đối với dữ liệu cá nhân và dữ liệu y tế, và thống nhất các biện pháp kiểm soát trước khi việc xử lý bắt đầu.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích khi nào cần đánh giá tác động bảo vệ dữ liệu
+      - hoàn thành bảng câu hỏi sàng lọc cho công việc của bạn
+    working: |
+      Bạn có thể:
+      - giúp các nhóm dự án hoàn thành đánh giá tác động bảo vệ dữ liệu
+      - mô tả luồng dữ liệu và xác định cơ sở pháp lý cho việc xử lý
+      - ghi nhận các rủi ro về quyền riêng tư và biện pháp kiểm soát đề xuất
+    practitioner: |
+      Bạn có thể:
+      - rà soát và tư vấn về các đánh giá tác động bảo vệ dữ liệu cho các hệ thống phức tạp
+      - đánh giá các rủi ro có chấp nhận được hay không và đề xuất các biện pháp kiểm soát
+      - quyết định khi nào cần báo cáo lên cấp trên các rủi ro cao để lãnh đạo cấp cao hoặc cơ quan quản lý xem xét
+    expert: |
+      Bạn có thể:
+      - đề ra quy trình và tiêu chuẩn đánh giá tác động bảo vệ dữ liệu của tổ chức
+      - đưa ra tư vấn cuối cùng về việc xử lý có rủi ro cao nhất, như chia sẻ dữ liệu quy mô lớn hoặc AI
+      - tham vấn các cơ quan quản lý khi pháp luật yêu cầu
+ig-incident-management:
+  name: Quản lý sự cố quản trị thông tin
+  description: Ghi nhận, điều tra và rút kinh nghiệm từ các vụ vi phạm dữ liệu và các vụ suýt xảy ra, và quyết định khi nào cần thông báo cho cơ quan quản lý và những người bị ảnh hưởng.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - nhận biết một vụ vi phạm dữ liệu hoặc suýt xảy ra và báo cáo ngay lập tức
+    working: |
+      Bạn có thể:
+      - ghi nhận sự cố và thu thập các sự việc
+      - đánh giá sự cố theo tiêu chí mức độ nghiêm trọng của tổ chức
+      - theo dõi các hành động cho đến khi đóng
+    practitioner: |
+      Bạn có thể:
+      - điều tra các sự cố nghiêm trọng và tìm nguyên nhân gốc
+      - cùng đồng nghiệp cấp cao quyết định có thông báo cho cơ quan quản lý và những người bị ảnh hưởng hay không
+      - chia sẻ bài học và theo dõi các cải tiến
+    expert: |
+      Bạn có thể:
+      - đề ra quy trình quản lý sự cố cho công tác quản trị thông tin
+      - dẫn dắt việc ứng phó với các vụ vi phạm lớn, kể cả với cơ quan quản lý và truyền thông
+      - báo cáo xu hướng và rủi ro của sự cố lên hội đồng
+ig-confidentiality-and-sharing:
+  name: Bảo mật và chia sẻ thông tin
+  description: Bảo vệ thông tin bí mật của bệnh nhân đồng thời bảo đảm thông tin được chia sẻ hợp pháp khi việc chăm sóc, an toàn hoặc pháp luật đòi hỏi, kể cả thông qua các thỏa thuận chia sẻ thông tin.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giữ an toàn thông tin bí mật và chỉ chia sẻ khi được phép
+      - xin tư vấn khi bạn không chắc chắn
+    working: |
+      Bạn có thể:
+      - kiểm tra yêu cầu chia sẻ thông tin có đáp ứng chính sách hay không
+      - lưu giữ hồ sơ về những gì đã được chia sẻ, với ai và vì sao
+      - soạn thảo các thỏa thuận chia sẻ thông tin đơn giản
+    practitioner: |
+      Bạn có thể:
+      - tư vấn về các vấn đề bảo mật phức tạp, như chia sẻ không cần sự đồng ý vì lợi ích công cộng
+      - rà soát các thỏa thuận chia sẻ thông tin với các tổ chức đối tác
+      - áp dụng các quy tắc về sự đồng ý và phản đối của bệnh nhân vào các luồng dữ liệu
+    expert: |
+      Bạn có thể:
+      - đóng vai trò cố vấn cấp cao về bảo mật cho tổ chức
+      - giải quyết các quyết định tiết lộ khó khăn nhất
+      - đề ra khung chia sẻ thông tin với các đối tác
+ig-compliance-assurance:
+  name: Đảm bảo và kiểm toán quản trị thông tin
+  description: Kiểm tra và chứng minh rằng tổ chức đáp ứng các tiêu chuẩn quản trị thông tin, thông qua tự đánh giá hằng năm, kiểm toán, bằng chứng và kế hoạch cải tiến.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao tổ chức phải chứng minh rằng mình xử lý thông tin tốt
+      - cung cấp bằng chứng cho một cuộc kiểm toán khi được yêu cầu
+    working: |
+      Bạn có thể:
+      - thu thập và sắp xếp bằng chứng cho cuộc tự đánh giá hằng năm
+      - thực hiện các cuộc kiểm toán đơn giản, như kiểm toán truy cập hoặc lưu trữ hồ sơ
+      - theo dõi các hành động cải tiến
+    practitioner: |
+      Bạn có thể:
+      - lập kế hoạch và vận hành chương trình đảm bảo quản trị thông tin
+      - đánh giá bằng chứng có đáp ứng tiêu chuẩn hay không và xác định các khoảng trống
+      - làm việc với các kiểm toán viên nội bộ và bên ngoài
+    expert: |
+      Bạn có thể:
+      - làm chủ khung đảm bảo quản trị thông tin của tổ chức
+      - báo cáo về đảm bảo và tuân thủ lên hội đồng và các ủy ban
+      - đặt ra các ưu tiên cải tiến dựa trên rủi ro

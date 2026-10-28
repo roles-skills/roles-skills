@@ -1,0 +1,67 @@
+summary: DevOps-engineers bouwen en beheren de instrumenten, pijplijnen, omgevingen en platforms waarmee de teams van de organisatie digitale diensten voor gezondheid veilig en vaak kunnen leveren. Zij automatiseren bouwen, testen, release en infrastructuur, maken diensten observeerbaar en veerkrachtig en helpen teams klinische systemen beschikbaar te houden wanneer patiënten en clinici ze nodig hebben.
+health_context:
+- Veel diensten ondersteunen de zorg de klok rond, dus implementaties, monitoring en herstel moeten uitval tot een minimum beperken, ook buiten kantooruren.
+- Releasepijplijnen leveren bewijs voor klinische veiligheidsdossiers, zoals testresultaten, wijzigingsregistraties en de exacte versie die is ingezet.
+- Omgevingen kunnen vertrouwelijke gezondheidsinformatie bevatten, dus engineers beheersen toegang, beschermen geheimen en houden live data uit testomgevingen.
+- Gezondheidsdiensten zijn veelvoorkomende doelwitten van cyberaanvallen, dus pijplijnen en platforms bouwen scans voor beveiliging, patching en geteste back-ups in.
+- Sommige diensten moeten voldoen aan strenge normen voor beschikbaarheid en herstel na rampen, afgesproken met klinische en operationele leiders.
+levels:
+- title: Leerling DevOps-engineer
+  responsibilities:
+  - De pijplijnen, cloudplatforms en instrumenten van het team leren via gestructureerde training en meelopen.
+  - Onder nauw toezicht kleine, goed omschreven wijzigingen aanbrengen in scripts, pijplijnen en configuratie.
+  - De procedures voor wijzigingen, beveiliging en informatiebeheer voor elke omgeving volgen.
+  - Helpen diensten te monitoren en waarschuwingen melden aan ervaren collega’s.
+  - Werken aan een leerwerktraject of een gelijkwaardige kwalificatie.
+  qualifications:
+  - Ingeschreven voor, of werkend aan, een leerwerktraject in DevOps, software of infrastructuur, of gelijkwaardig.
+  job_evaluation_notes: Kennis wordt gescoord op het niveau dat de functie vraagt zodra de training ver genoeg is gevorderd om het werk te doen.
+- title: Junior DevOps-engineer
+  responsibilities:
+  - Met begeleiding delen van pijplijnen voor bouwen, testen en implementeren bouwen en onderhouden.
+  - Infrastructuur als code en automatiseringsscripts schrijven en ze vóór gebruik testen.
+  - Testomgevingen vrij houden van live patiëntdata en geheimen veilig beheren.
+  - Reageren op waarschuwingen van monitoring en onder begeleiding de reactie op incidenten ondersteunen.
+  - Implementaties en wijzigingen vastleggen zodat ze klinische veiligheid en bewijs voor audit kunnen ondersteunen.
+  qualifications:
+  - Een bachelor in informatica of een verwant vak, een voltooid leerwerktraject, of gelijkwaardige ervaring.
+  job_evaluation_notes: Het UK GDaD PCF stelt voor zowel het niveau leerling als het niveau junior Band 4 voor; deze referentie plaatst het niveau junior op Band 5 om twee niveaus in één band te vermijden, omdat de functie onderdelen van pijplijnen bouwt met minder toezicht.
+- title: DevOps-engineer
+  responsibilities:
+  - Zelfstandig pijplijnen, omgevingen en onderdelen van platforms ontwerpen en bouwen.
+  - Beveiligingscontroles automatiseren, zoals scans van afhankelijkheden en containers, en op de resultaten handelen.
+  - Monitoring, logging en waarschuwingen bouwen zodat teams problemen zien voordat ze patiënten en personeel raken.
+  - Back-ups, failover en herstel plannen en testen voor diensten die de zorg ondersteunen.
+  - Problemen in live diensten onderzoeken en oplossen, inclusief ondersteuning buiten kantooruren waar de dienst dat nodig heeft.
+  - Junior DevOps-engineers en leerlingen begeleiden.
+  qualifications:
+  - Een bachelor in informatica of een verwant vak, of gelijkwaardige ervaring.
+  - Ervaring met het bouwen en beheren van geautomatiseerde leveringspijplijnen en cloudinfrastructuur.
+- title: Senior DevOps-engineer
+  responsibilities:
+  - Het ontwerp van de toolchain voor levering en het platform voor een product of groep diensten leiden.
+  - Normen voor releases vaststellen, zodat implementaties naar klinische diensten herhaalbaar, omkeerbaar en goed onderbouwd zijn.
+  - Doelen voor beschikbaarheid, hersteltijd en herstelpunt afspreken met service-eigenaren en klinische leiders en ontwerpen om ze te halen.
+  - De technische reactie op incidenten en evaluaties na incidenten leiden voor de platforms die het team beheert.
+  - Zorgen dat platforms voldoen aan eisen voor beveiliging en informatiebeheer, inclusief toegangsbeheer en auditlogging.
+  - DevOps-engineers in het team coachen en ontwikkelen.
+  qualifications:
+  - Aanzienlijke ervaring met het ontwerpen en beheren van toolchains en platforms voor levering, op een niveau gelijkwaardig aan een master.
+- title: Lead DevOps-engineer
+  responsibilities:
+  - DevOps en platform-engineering leiden voor een groep teams en optreden als technisch eigenaar van het gedeelde platform.
+  - De roadmap voor de middellange termijn voor de leveringsinstrumenten, hosting en observeerbaarheid van de organisatie vaststellen.
+  - Zorgen dat gedeelde platforms veerkrachtig en veilig zijn en kunnen voldoen aan de behoeften van klinische diensten aan beschikbaarheid.
+  - Kosten en capaciteit van platforms beheren met financiën en service-eigenaren.
+  - De praktijkgemeenschap voor DevOps leiden en hiërarchisch leiding geven aan of leiden van DevOps-engineers.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van DevOps of platform-engineering voor complexe diensten.
+- title: Principal DevOps-engineer
+  responsibilities:
+  - De strategie vaststellen voor hoe de organisatie haar digitale diensten voor gezondheid bouwt, uitbrengt, host en beheert.
+  - Senior leiders adviseren over hosting, veerkracht, cyberbeveiliging en investeringen in platforms.
+  - Zorgen dat plannen voor bedrijfscontinuïteit en herstel na rampen voor kritieke klinische diensten realistisch en getest zijn.
+  - Nieuwe technologieën en praktijken beoordelen en bepleiten, en innovatie afwegen tegen veiligheid en stabiliteit.
+  - De DevOps-capaciteit van de organisatie laten groeien, inclusief werving, loopbaanpaden en plannen voor vaardigheden.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van DevOps en platform-engineering over meerdere teams of organisaties.

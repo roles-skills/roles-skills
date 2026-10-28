@@ -1,0 +1,44 @@
+summary: Dateningenieurinnen und -ingenieure bauen und betreiben die Pipelines und Plattformen, die Gesundheits- und Pflegedaten aus klinischen und betrieblichen Systemen dorthin bringen, wo sie sicher analysiert und genutzt werden können. Sie entwerfen Datenflüsse, integrieren Quellen, die unterschiedliche Standards nutzen, und stellen sicher, dass Daten genau, aktuell und sicher sind und nur für die Personen verfügbar, die sie sehen dürfen.
+health_context:
+- Quellsysteme sind unter anderem elektronische Patientenakten, Labor-, Bildgebungs- und Apothekensysteme, die Standards wie HL7 Version 2, HL7 FHIR, SNOMED CT und ICD nutzen.
+- Pipelines transportieren oft identifizierbare Patientendaten; die Ingenieurinnen und Ingenieure bauen deshalb Pseudonymisierung, Zugriffskontrolle und Protokollierung von Anfang an ein.
+- Manche Datenströme unterstützen die direkte Versorgung, etwa Warnungen oder Patientenlisten; eine ausgefallene oder verspätete Pipeline kann daher Patientinnen und Patienten beeinträchtigen und braucht eine klinische Sicherheitsbewertung.
+- Daten müssen oft über Versorgungseinrichtungen hinweg verknüpft werden, was von zuverlässiger Patientenzuordnung und einheitlichen Kennungen abhängt.
+levels:
+- title: Dateningenieur/in
+  responsibilities:
+  - Datenpipelines von klinischen und betrieblichen Systemen zur Datenplattform nach vereinbarten Entwürfen bauen und pflegen.
+  - Quelldaten, einschließlich kodierter klinischer Daten, auf Zielmodelle abbilden und die Abbildungen dokumentieren.
+  - Pseudonymisierung, Validierung und Datenqualitätsprüfungen in Pipelines einbauen.
+  - Pipelines überwachen und Ausfälle beheben, wobei Datenströme für die direkte Versorgung Vorrang haben.
+  - Zugriffskontrollen und Protokollierung anwenden, die den Regeln der Informationsgovernance genügen.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder einem verwandten Fach oder gleichwertige Erfahrung.
+  - Erfahrung im Bau von Datenpipelines.
+- title: Senior-Dateningenieur/in
+  responsibilities:
+  - Datenflüsse und Streaming-Dienste entwerfen, die Daten aus vielen Gesundheits- und Pflegesystemen zusammenführen.
+  - Prozesse zur Patientenzuordnung und Verknüpfung entwerfen und messen, wie gut sie funktionieren.
+  - Arbeiten zur Leistung von Datenbanken und Plattformen leiten, damit Daten verfügbar sind, wenn Dienste sie brauchen.
+  - Die klinischen Sicherheits- und Informationsgovernance-Risiken von Datenflüssen mit den zuständigen Fachleuten bewerten.
+  - Die Arbeit anderer Ingenieurinnen und Ingenieure prüfen und sie anleiten.
+  qualifications:
+  - Umfangreiche Erfahrung im Entwurf und Bau von Datensystemen, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Leitende/r Dateningenieur/in
+  responsibilities:
+  - Entwurf und Betrieb der Datenplattform der Organisation und ihrer vielen Datenflüsse leiten.
+  - Engineering-Standards für Pipelines, Tests, Sicherheit und Dokumentation festlegen.
+  - Die Datenintegration mit Partnern in Gesundheit und Pflege planen, einschließlich gemeinsamer Versorgungsakten und regionaler Datendienste.
+  - Sicherstellen, dass Datenflüsse, die die direkte Versorgung unterstützen, resilient sind und klinische Sicherheitsnachweise haben.
+  - Dateningenieurteams koordinieren und Ingenieurinnen und Ingenieure in der Linie führen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Dateningenieurwesen für komplexe Systeme.
+- title: Leiter/in Dateningenieurwesen
+  responsibilities:
+  - Die Strategie für die Datenplattformen und Dateningenieurdienste der Organisation festlegen.
+  - Multidisziplinäre Teams leiten, die Datendienste für interne Teams und Partner in Gesundheit und Pflege erbringen.
+  - Die Führungsebene zu Risiken, Kosten und Investitionen der Datenplattformen beraten.
+  - Sicherstellen, dass Datendienste die Anforderungen an Informationsgovernance, Sicherheit und klinische Sicherheit erfüllen.
+  - Fähigkeiten im Dateningenieurwesen durch Personalgewinnung, Entwicklung und Karrierewege aufbauen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Dateningenieurwesen über mehrere Teams hinweg.

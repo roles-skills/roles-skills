@@ -34,10 +34,10 @@ Manages a category of digital and technology spend, such as software, cloud, dev
 ### Responsibilities
 
 - Write and deliver the category strategy for digital and technology spend, with budget holders and technical leads.
-- Analyze spend, contracts, licences, and renewals across the category, and plan the pipeline of procurements.
+- Analyze spend, contracts, licenses, and renewals across the category, and plan the pipeline of procurements.
 - Lead the most complex procurements in the category, such as cloud platforms and clinical systems.
 - Analyze supply markets and lead early market engagement.
-- Negotiate commercial models, such as enterprise licences and consumption-based pricing, and track savings and value.
+- Negotiate commercial models, such as enterprise licenses and consumption-based pricing, and track savings and value.
 - Make sure contracts include interoperability, data ownership, exit, and data return terms that avoid lock-in.
 - Report category performance, risks, and savings to the head of procurement and digital leaders.
 - Coach and supervise procurement officers and buyers working in the category.
@@ -53,7 +53,7 @@ Manages a category of digital and technology spend, such as software, cloud, dev
 | [Procurement process](../../skills/#procurement-process) | This reference | Practitioner | You can:<br>• plan and lead complex tenders, choosing the right route to market and procedure<br>• help users write outcome-based specifications for digital and clinical systems<br>• manage timetables, risks, and stakeholders through to contract award |
 | [Public procurement rules and policy](../../skills/#public-procurement-rules-and-policy) | This reference | Practitioner | You can:<br>• advise on the lawful route for complex procurements and contract changes<br>• manage the risk of challenge and handle standstill and debrief correctly<br>• write procurement policy and guidance for the organization |
 | [Commercial management](../../skills/#commercial-management) | UK GDaD PCF | Practitioner | You can:<br>• take responsibility for complex relationships with contracted suppliers<br>• identify appropriate contractual frameworks and identify appropriate suppliers<br>• negotiate with contracted suppliers<br>• get good value out of contracts and suppliers |
-| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Practitioner | You can:<br>• advocate for user needs, ensuring user value is balanced against cost and value for the organization<br>• determine the benefit of a product and persuade others it's the right product to use<br>• write or contribute to business cases<br>• communicate business-value propositions<br>• help others make value-based decisions, influencing the direction of development |
+| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Practitioner | You can:<br>• advocate for user needs, ensuring user value is balanced against cost and value for the organisation<br>• determine the benefit of a product and persuade others it's the right product to use<br>• write or contribute to business cases<br>• communicate business-value propositions<br>• help others make value-based decisions, influencing the direction of development |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Practitioner | You can:<br>• work with the team to develop and maintain an understanding of stakeholders<br>• work with the team to develop and implement stakeholder communications strategies<br>• identify and resolve issues, influence stakeholders and manage relationships effectively<br>• build long-term strategic relationships and communicate clearly and regularly with stakeholders |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
 | [People management](../../skills/#people-management) | This reference | Working | You can:<br>• supervise day-to-day work and give feedback<br>• take part in recruitment and induction<br>• hold regular one-to-one conversations |
@@ -66,7 +66,7 @@ Manages a category of digital and technology spend, such as software, cloud, dev
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -77,8 +77,8 @@ Manages a category of digital and technology spend, such as software, cloud, dev
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -112,14 +112,14 @@ Manages several categories, or the organization's largest and riskiest category,
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Category management](../../skills/#category-management) | This reference | Expert | You can:<br>• set the category management approach for the organization<br>• lead categories with the highest spend and risk, and align them with organisational strategy<br>• work with other organizations on collaborative buying |
+| [Category management](../../skills/#category-management) | This reference | Expert | You can:<br>• set the category management approach for the organization<br>• lead categories with the highest spend and risk, and align them with organizational strategy<br>• work with other organizations on collaborative buying |
 | [Technology and cloud procurement](../../skills/#technology-and-cloud-procurement) | This reference | Expert | You can:<br>• set the organization's commercial strategy for technology and cloud<br>• lead negotiations on enterprise agreements and strategic platforms<br>• advise digital leaders on the commercial risks of technology choices |
 | [Market analysis and engagement](../../skills/#market-analysis-and-engagement) | This reference | Practitioner | You can:<br>• analyze a supply market, its competition, risks, and trends<br>• lead early market engagement, such as supplier days, without distorting competition<br>• use market evidence to shape requirements and commercial models |
 | [Commercial negotiation](../../skills/#commercial-negotiation) | This reference | Expert | You can:<br>• lead high-value, high-risk negotiations with strategic suppliers<br>• coach others in negotiation and set the organization's negotiation approach |
 | [Social value and sustainable procurement](../../skills/#social-value-and-sustainable-procurement) | This reference | Practitioner | You can:<br>• set social value and sustainability criteria that fit the contract<br>• manage supplier commitments, such as local jobs, skills, and carbon reduction<br>• check supply chains for risks such as forced labor and other human rights abuses |
 | [Public procurement rules and policy](../../skills/#public-procurement-rules-and-policy) | This reference | Practitioner | You can:<br>• advise on the lawful route for complex procurements and contract changes<br>• manage the risk of challenge and handle standstill and debrief correctly<br>• write procurement policy and guidance for the organization |
 | [Commercial management](../../skills/#commercial-management) | UK GDaD PCF | Expert | You can:<br>• act as the escalation point and resolve large or high risk commercial management issues<br>• coach others in appropriate commercial management |
-| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits while balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
+| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits whilst balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Expert | You can:<br>• direct the stakeholder relationship strategy for your teams<br>• ensure stakeholder's objectives are set and support teams to meet them<br>• influence and negotiate with senior stakeholders to resolve issues and enable progress |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 
@@ -142,8 +142,8 @@ Manages several categories, or the organization's largest and riskiest category,
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -178,15 +178,15 @@ Leads category management across the organization's spending, setting the catego
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Category management](../../skills/#category-management) | This reference | Expert | You can:<br>• set the category management approach for the organization<br>• lead categories with the highest spend and risk, and align them with organisational strategy<br>• work with other organizations on collaborative buying |
+| [Category management](../../skills/#category-management) | This reference | Expert | You can:<br>• set the category management approach for the organization<br>• lead categories with the highest spend and risk, and align them with organizational strategy<br>• work with other organizations on collaborative buying |
 | [Technology and cloud procurement](../../skills/#technology-and-cloud-procurement) | This reference | Expert | You can:<br>• set the organization's commercial strategy for technology and cloud<br>• lead negotiations on enterprise agreements and strategic platforms<br>• advise digital leaders on the commercial risks of technology choices |
 | [Commercial negotiation](../../skills/#commercial-negotiation) | This reference | Expert | You can:<br>• lead high-value, high-risk negotiations with strategic suppliers<br>• coach others in negotiation and set the organization's negotiation approach |
 | [Public procurement rules and policy](../../skills/#public-procurement-rules-and-policy) | This reference | Expert | You can:<br>• interpret new procurement rules and lead the organization's response<br>• advise the board on procurement compliance and risk<br>• manage formal challenges with legal advisers |
 | [Social value and sustainable procurement](../../skills/#social-value-and-sustainable-procurement) | This reference | Practitioner | You can:<br>• set social value and sustainability criteria that fit the contract<br>• manage supplier commitments, such as local jobs, skills, and carbon reduction<br>• check supply chains for risks such as forced labor and other human rights abuses |
 | [Commercial management](../../skills/#commercial-management) | UK GDaD PCF | Expert | You can:<br>• act as the escalation point and resolve large or high risk commercial management issues<br>• coach others in appropriate commercial management |
-| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits while balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organization, marrying business needs with innovative analysis<br>• make and justify decisions characterized by high levels of risk, impact and complexity<br>• build consensus between organizations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organization on team dynamics and conflict resolution |
-| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organisational change<br>• coach leaders and resolve complex people issues |
+| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits whilst balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organisation, marrying business needs with innovative analysis<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organisation on team dynamics and conflict resolution |
+| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organizational change<br>• coach leaders and resolve complex people issues |
 | [Budget management](../../skills/#budget-management) | This reference | Practitioner | You can:<br>• hold and manage a budget, forecasting and explaining variances<br>• build a business case with costs and benefits |
 
 ### Typical qualifications and experience
@@ -196,7 +196,7 @@ Leads category management across the organization's spending, setting the catego
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Knowledge:** Expert knowledge, and wide organizational and sector understanding.
 - **Autonomy:** Sets strategy for a function; accountable to a director.
 - **Scope:** A function or department.
 - **Leadership:** Leads a function through several management layers.
@@ -208,8 +208,8 @@ Leads category management across the organization's spending, setting the catego
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
@@ -229,5 +229,5 @@ Health-sector adverts place this role at Band 8c. Communication is level 6 for h
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

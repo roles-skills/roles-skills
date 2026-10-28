@@ -1,0 +1,66 @@
+summary: Os profissionais de contabilidade gerencial dão aos gestores as informações financeiras e a assessoria de que precisam para planejar, controlar os gastos e tomar boas decisões. Definem e acompanham orçamentos, preveem gastos, apuram custos de serviços e constroem a justificativa financeira dos investimentos. Em uma organização de saúde digital, trabalham em estreita colaboração com programas e equipes de produto digitais, nos quais acertar capital e custeio, custos de todo o ciclo de vida e relação custo-benefício é central para boas decisões.
+health_context:
+- Os programas digitais costumam ser financiados por uma combinação de recursos de capital e de custeio, vinculados ou de prazo limitado, cada um com suas regras sobre no que podem ser gastos.
+- A passagem de sistemas próprios para serviços em nuvem e assinaturas desloca custos de capital para custeio, o que afeta orçamentos, business cases e pedidos de financiamento.
+- As decisões de investimento devem mostrar relação custo-benefício para os recursos públicos e benefícios para pacientes, clínicos e equipes de cuidados, e não apenas economias financeiras.
+- Os contratos de software, hospedagem e suporte costumam durar vários anos, por isso as previsões devem incluir os custos de operação muito depois da entrada em operação.
+- Os responsáveis por orçamentos em equipes digitais e clínicas podem não ser especialistas em finanças, por isso uma assessoria clara e prática é grande parte da função.
+levels:
+- title: Profissional de contabilidade gerencial trainee
+  summary: Os profissionais trainees de contabilidade gerencial, às vezes chamados de analistas financeiros, produzem relatórios e análises orçamentárias para um conjunto de responsáveis por orçamentos enquanto trabalham rumo a uma qualificação contábil reconhecida.
+  responsibilities:
+  - Preparar relatórios orçamentários mensais para um grupo de responsáveis por orçamentos e explicar os principais desvios.
+  - Lançar os lançamentos de fechamento do mês, as provisões de despesas e as correções para garantir relatórios exatos.
+  - Conferir se os gastos estão corretamente classificados entre centros de custo, projetos, e entre capital e custeio.
+  - Coletar informações de previsão e atualizar as previsões com os responsáveis por orçamentos.
+  - Construir informações de custos para business cases, com orientação.
+  - Trabalhar rumo a uma qualificação contábil reconhecida.
+  qualifications:
+  - Graduação ou qualificação contábil intermediária e trabalho rumo a uma qualificação contábil reconhecida, ou experiência equivalente.
+  job_evaluation_notes: Os conhecimentos são pontuados no nível que a função exige depois que o treinamento está adiantado o bastante para realizar o trabalho. Os recursos financeiros estão no nível 3 pelo acompanhamento de orçamentos delegados.
+- title: Profissional de contabilidade gerencial
+  summary: Os profissionais de contabilidade gerencial são contadores qualificados que conduzem a elaboração, o acompanhamento e a previsão do orçamento de uma diretoria ou grupo de serviços e aconselham os responsáveis por orçamentos sobre suas finanças.
+  responsibilities:
+  - Liderar o ciclo mensal de relatórios e previsões de uma diretoria ou grupo de serviços.
+  - Aconselhar os responsáveis por orçamentos sobre gastos, riscos e ações para ficar dentro do orçamento.
+  - Preparar orçamentos anuais, incluindo custos com pessoal, contratos e licenças.
+  - Aplicar as regras de capital e custeio aos gastos digitais, como desenvolvimento de software, licenças e hardware.
+  - Construir modelos financeiros para business cases e avaliações de opções.
+  - Supervisionar e desenvolver contadores trainees.
+  qualifications:
+  - Uma qualificação contábil reconhecida, ou experiência equivalente.
+- title: Profissional sênior de contabilidade gerencial
+  summary: Os profissionais sêniores de contabilidade gerencial lideram a gestão financeira de uma grande diretoria ou de um grande programa digital, incluindo previsões complexas, apuração de custos e business cases.
+  responsibilities:
+  - Liderar a elaboração do orçamento e as previsões de uma grande diretoria ou de um grande programa digital.
+  - Modelar cenários, como mudanças no financiamento, atrasos na entrega e a passagem de custos de capital para assinaturas em nuvem.
+  - Liderar a justificativa financeira de investimentos significativos, incluindo custos de todo o ciclo de vida, benefícios e relação custo-benefício.
+  - Construir a apuração de custos de serviços e produtos, como o custo total de operar um serviço digital.
+  - Apresentar o desempenho financeiro e os riscos à gerência sênior e aos comitês de programa.
+  - Gerir uma pequena equipe de contadores e trainees.
+  qualifications:
+  - Uma qualificação contábil reconhecida, com experiência substancial após a qualificação, ou equivalente.
+  job_evaluation_notes: Os recursos financeiros estão no nível 4 porque a função define o orçamento de uma diretoria ou programa com seus responsáveis por orçamentos.
+- title: Parceria de negócios de finanças
+  summary: As parcerias de negócios de finanças atuam como parte da liderança de uma diretoria, muitas vezes de digital, dados e tecnologia, transformando informações financeiras em decisões e garantindo que o investimento gere boa relação custo-benefício.
+  responsibilities:
+  - Atuar como assessoria sênior de finanças da equipe de liderança de uma diretoria, como a de digital, dados e tecnologia.
+  - Liderar o plano financeiro da diretoria, ligando os gastos às prioridades, à força de trabalho e aos investimentos.
+  - Questionar e apoiar as lideranças quanto à relação custo-benefício, incluindo gastos com fornecedores, uso de licenças e custos de nuvem.
+  - Liderar business cases de grandes investimentos digitais e representar as finanças em comitês de investimento.
+  - Garantir que os gastos digitais cumpram as regras de financiamento, os controles de gastos e os limites de capital e custeio.
+  - Chefiar os profissionais de contabilidade gerencial que apoiam a diretoria.
+  qualifications:
+  - Uma qualificação contábil reconhecida, com ampla experiência após a qualificação, incluindo parceria de negócios.
+  job_evaluation_notes: Os recursos financeiros estão no nível 5 porque a função define orçamentos de vários serviços de uma diretoria.
+- title: Chefia de contabilidade gerencial
+  summary: As chefias de contabilidade gerencial lideram o orçamento, a previsão e os relatórios gerenciais da organização e a equipe de parcerias de negócios e contadores que os entrega.
+  responsibilities:
+  - Liderar a elaboração do orçamento anual e as previsões ao longo do exercício da organização.
+  - Projetar os relatórios gerenciais, a apuração de custos e as informações de desempenho para o conselho de administração e a direção executiva.
+  - Definir padrões de business case e de avaliação de investimentos, inclusive para o investimento digital.
+  - Aconselhar diretorias sobre riscos financeiros, planos de economia e as escolhas necessárias para ficar dentro do financiamento.
+  - Liderar e desenvolver as equipes de parcerias de negócios e de contabilidade gerencial.
+  - Melhorar as ferramentas de orçamento e de relatórios, incluindo relatórios de autoatendimento para os responsáveis por orçamentos.
+  qualifications:
+  - Uma qualificação contábil reconhecida, com ampla experiência após a qualificação, incluindo a liderança de uma equipe de finanças.

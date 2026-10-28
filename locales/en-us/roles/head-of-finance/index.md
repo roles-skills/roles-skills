@@ -29,7 +29,7 @@ Senior finance leaders are accountable for the organization's financial health, 
 
 ## Band 8c: Financial controller
 
-Financial controllers, sometimes called assistant directors of finance, lead a major part of the finance function, such as financial accounting and control or financial planning, and deputize for senior finance leaders.
+Financial controllers, sometimes called assistant directors of finance, lead a major part of the finance function, such as financial accounting and control or financial planning, and deputise for senior finance leaders.
 
 ### Responsibilities
 
@@ -44,16 +44,16 @@ Financial controllers, sometimes called assistant directors of finance, lead a m
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Financial reporting and statutory accounts](../../skills/#financial-reporting-and-statutory-accounts) | This reference | Expert | You can:<br>• own the organization's annual report and accounts and the accounting policies behind them<br>• advise the board and audit committee on significant judgements and new standards<br>• lead the response to qualified audit opinions or material misstatements<br>• assure that reporting meets public accountability rules |
-| [Financial planning and forecasting](../../skills/#financial-planning-and-forecasting) | This reference | Practitioner | You can:<br>• lead budget setting and forecasting for a directorate or large programme<br>• model scenarios and sensitivities, such as inflation, delays, or changes in funding<br>• build multi-year forecasts for digital programs, including the running costs that follow investment<br>• present forecasts and risks to senior managers |
+| [Financial reporting and statutory accounts](../../skills/#financial-reporting-and-statutory-accounts) | This reference | Expert | You can:<br>• own the organization's annual report and accounts and the accounting policies behind them<br>• advise the board and audit committee on significant judgments and new standards<br>• lead the response to qualified audit opinions or material misstatements<br>• assure that reporting meets public accountability rules |
+| [Financial planning and forecasting](../../skills/#financial-planning-and-forecasting) | This reference | Practitioner | You can:<br>• lead budget setting and forecasting for a directorate or large program<br>• model scenarios and sensitivities, such as inflation, delays, or changes in funding<br>• build multi-year forecasts for digital programs, including the running costs that follow investment<br>• present forecasts and risks to senior managers |
 | [Financial controls and audit](../../skills/#financial-controls-and-audit) | This reference | Expert | You can:<br>• own the organization's financial rules and scheme of delegation<br>• report to the audit committee on financial control and audit actions<br>• lead the response to significant control failures or fraud<br>• build a culture where staff understand their duty to use public money properly |
 | [Public sector finance](../../skills/#public-sector-finance) | This reference | Expert | You can:<br>• represent the organization with funders and oversight bodies<br>• advise the board on regularity, propriety, and value for money<br>• shape funding agreements and financial regimes for the organization's services |
-| [Financial management](../../skills/#financial-management) | UK GDaD PCF | Expert | You can:<br>• influence or create complex budgets across an organization, programme or product view<br>• manage the budget you are given and make it work |
-| [Financial management for digital, data and technology](../../skills/#financial-management-for-digital-data-and-technology) | UK GDaD PCF | Practitioner | *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.* You can:<br>• own, manage and optimize budgets across digital, data and technology<br>• secure appropriate investment to deliver organisational strategy and priorities<br>• negotiate investments in shared technologies across the organization and across government Examples of leadership using this skill:<br>• prioritizing competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximize value<br>• identifying risk to critical services and influencing stakeholders to increase investment to ensure they are maintained<br>• balancing short-term tactical gains with longer-term strategies to ensure value now and in the future |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterized by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
+| [Financial management](../../skills/#financial-management) | UK GDaD PCF | Expert | You can:<br>• influence or create complex budgets across an organisation, programme or product view<br>• manage the budget you are given and make it work |
+| [Financial management for digital, data and technology](../../skills/#financial-management-for-digital-data-and-technology) | UK GDaD PCF | Practitioner | *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.* You can:<br>• own, manage and optimise budgets across digital, data and technology<br>• secure appropriate investment to deliver organisational strategy and priorities<br>• negotiate investments in shared technologies across the organisation and across government Examples of leadership using this skill:<br>• prioritising competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximise value<br>• identifying risk to critical services and influencing stakeholders to increase investment to ensure they are maintained<br>• balancing short-term tactical gains with longer-term strategies to ensure value now and in the future |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 | [Corporate governance and compliance](../../skills/#corporate-governance-and-compliance) | This reference | Practitioner | You can:<br>• run the governance cycle for boards and committees<br>• review policies and advise on compliance |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 
 ### Typical qualifications and experience
 
@@ -61,7 +61,7 @@ Financial controllers, sometimes called assistant directors of finance, lead a m
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Knowledge:** Expert knowledge, and wide organizational and sector understanding.
 - **Autonomy:** Sets strategy for a function; accountable to a director.
 - **Scope:** A function or department.
 - **Leadership:** Leads a function through several management layers.
@@ -73,8 +73,8 @@ Financial controllers, sometimes called assistant directors of finance, lead a m
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
@@ -93,7 +93,7 @@ Financial resources is level 5 because the job manages budgets and financial pro
 
 ## Band 8d: Deputy director of finance
 
-Deputy directors of finance lead the finance function day to day, deputize for the director of finance, and lead the organization's financial strategy and medium-term financial plan.
+Deputy directors of finance lead the finance function day to day, deputise for the director of finance, and lead the organization's financial strategy and medium-term financial plan.
 
 ### Responsibilities
 
@@ -101,7 +101,7 @@ Deputy directors of finance lead the finance function day to day, deputize for t
 - Lead the business case and investment approval process, including for major digital programs.
 - Advise the executive and board committees on financial performance, risk, and savings plans.
 - Represent the organization with funders and partners on financial matters.
-- Deputize for the director of finance, including at the board and audit committee.
+- Deputise for the director of finance, including at the board and audit committee.
 - Lead and develop the finance, payroll, and financial systems teams.
 
 ### Skills
@@ -112,12 +112,12 @@ Deputy directors of finance lead the finance function day to day, deputize for t
 | [Business cases and investment appraisal](../../skills/#business-cases-and-investment-appraisal) | This reference | Expert | You can:<br>• set the organization's business case and investment appraisal standards<br>• advise investment boards on affordability, value for money, and risk<br>• make the case to funders for major investment programs<br>• review the portfolio of investments and recommend where to stop, change, or continue |
 | [Financial controls and audit](../../skills/#financial-controls-and-audit) | This reference | Expert | You can:<br>• own the organization's financial rules and scheme of delegation<br>• report to the audit committee on financial control and audit actions<br>• lead the response to significant control failures or fraud<br>• build a culture where staff understand their duty to use public money properly |
 | [Public sector finance](../../skills/#public-sector-finance) | This reference | Expert | You can:<br>• represent the organization with funders and oversight bodies<br>• advise the board on regularity, propriety, and value for money<br>• shape funding agreements and financial regimes for the organization's services |
-| [Financial management](../../skills/#financial-management) | UK GDaD PCF | Expert | You can:<br>• influence or create complex budgets across an organization, programme or product view<br>• manage the budget you are given and make it work |
-| [Financial management for digital, data and technology](../../skills/#financial-management-for-digital-data-and-technology) | UK GDaD PCF | Practitioner | *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.* You can:<br>• own, manage and optimize budgets across digital, data and technology<br>• secure appropriate investment to deliver organisational strategy and priorities<br>• negotiate investments in shared technologies across the organization and across government Examples of leadership using this skill:<br>• prioritizing competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximize value<br>• identifying risk to critical services and influencing stakeholders to increase investment to ensure they are maintained<br>• balancing short-term tactical gains with longer-term strategies to ensure value now and in the future |
-| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits while balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
+| [Financial management](../../skills/#financial-management) | UK GDaD PCF | Expert | You can:<br>• influence or create complex budgets across an organisation, programme or product view<br>• manage the budget you are given and make it work |
+| [Financial management for digital, data and technology](../../skills/#financial-management-for-digital-data-and-technology) | UK GDaD PCF | Practitioner | *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.* You can:<br>• own, manage and optimise budgets across digital, data and technology<br>• secure appropriate investment to deliver organisational strategy and priorities<br>• negotiate investments in shared technologies across the organisation and across government Examples of leadership using this skill:<br>• prioritising competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximise value<br>• identifying risk to critical services and influencing stakeholders to increase investment to ensure they are maintained<br>• balancing short-term tactical gains with longer-term strategies to ensure value now and in the future |
+| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits whilst balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Expert | You can:<br>• direct the stakeholder relationship strategy for your teams<br>• ensure stakeholder's objectives are set and support teams to meet them<br>• influence and negotiate with senior stakeholders to resolve issues and enable progress |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organization, marrying business needs with innovative analysis<br>• make and justify decisions characterized by high levels of risk, impact and complexity<br>• build consensus between organizations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organization on team dynamics and conflict resolution |
-| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organisational change<br>• coach leaders and resolve complex people issues |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organisation, marrying business needs with innovative analysis<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organisation on team dynamics and conflict resolution |
+| [People management](../../skills/#people-management) | This reference | Expert | You can:<br>• lead managers and shape the culture of a large area<br>• design workforce plans and organizational change<br>• coach leaders and resolve complex people issues |
 
 ### Typical qualifications and experience
 
@@ -126,7 +126,7 @@ Deputy directors of finance lead the finance function day to day, deputize for t
 ### Band outline
 
 - **Knowledge:** Strategic knowledge across functions and the wider health and care system.
-- **Autonomy:** Shapes organization-wide strategy; deputizes for a director.
+- **Autonomy:** Shapes organization-wide strategy; deputises for a director.
 - **Scope:** A major function or several functions.
 - **Leadership:** Leads several functions or a large department.
 - **Accountability:** Major functions, large budgets, and organization-wide risks.
@@ -137,8 +137,8 @@ Deputy directors of finance lead the finance function day to day, deputize for t
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
@@ -173,12 +173,12 @@ Directors of finance are executive board members with corporate responsibility f
 | [Financial planning and forecasting](../../skills/#financial-planning-and-forecasting) | This reference | Expert | You can:<br>• lead the organization's medium-term financial plan<br>• align financial plans with strategy, workforce, and investment plans<br>• advise the board on financial sustainability and the choices needed to stay within funding<br>• set the planning assumptions and methods used across the organization |
 | [Business cases and investment appraisal](../../skills/#business-cases-and-investment-appraisal) | This reference | Expert | You can:<br>• set the organization's business case and investment appraisal standards<br>• advise investment boards on affordability, value for money, and risk<br>• make the case to funders for major investment programs<br>• review the portfolio of investments and recommend where to stop, change, or continue |
 | [Public sector finance](../../skills/#public-sector-finance) | This reference | Expert | You can:<br>• represent the organization with funders and oversight bodies<br>• advise the board on regularity, propriety, and value for money<br>• shape funding agreements and financial regimes for the organization's services |
-| [Financial management](../../skills/#financial-management) | UK GDaD PCF | Expert | You can:<br>• influence or create complex budgets across an organization, programme or product view<br>• manage the budget you are given and make it work |
-| [Financial management for digital, data and technology](../../skills/#financial-management-for-digital-data-and-technology) | UK GDaD PCF | Expert | *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.* You can:<br>• own, manage and optimize budgets across digital, data and technology<br>• secure appropriate investment to deliver organisational strategy and priorities<br>• negotiate investments in shared technologies across the organization and across government Examples of leadership using this skill:<br>• prioritizing competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximize value<br>• identifying risk to critical services and influencing stakeholders to increase investment to ensure they are maintained<br>• balancing short-term tactical gains with longer-term strategies to ensure value now and in the future |
-| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits while balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
+| [Financial management](../../skills/#financial-management) | UK GDaD PCF | Expert | You can:<br>• influence or create complex budgets across an organisation, programme or product view<br>• manage the budget you are given and make it work |
+| [Financial management for digital, data and technology](../../skills/#financial-management-for-digital-data-and-technology) | UK GDaD PCF | Expert | *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.* You can:<br>• own, manage and optimise budgets across digital, data and technology<br>• secure appropriate investment to deliver organisational strategy and priorities<br>• negotiate investments in shared technologies across the organisation and across government Examples of leadership using this skill:<br>• prioritising competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximise value<br>• identifying risk to critical services and influencing stakeholders to increase investment to ensure they are maintained<br>• balancing short-term tactical gains with longer-term strategies to ensure value now and in the future |
+| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Expert | You can:<br>• develop and own a business case and iterate it throughout the life cycle<br>• coach others on identifying benefits whilst balancing user and business needs<br>• communicate the delivery of incremental value<br>• build the case for an organisational approach to value through product strategy<br>• coach and empower teams to take a value for money approach |
 | [Commercial management](../../skills/#commercial-management) | UK GDaD PCF | Practitioner | You can:<br>• take responsibility for complex relationships with contracted suppliers<br>• identify appropriate contractual frameworks and identify appropriate suppliers<br>• negotiate with contracted suppliers<br>• get good value out of contracts and suppliers |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Expert | You can:<br>• direct the stakeholder relationship strategy for your teams<br>• ensure stakeholder's objectives are set and support teams to meet them<br>• influence and negotiate with senior stakeholders to resolve issues and enable progress |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organization, marrying business needs with innovative analysis<br>• make and justify decisions characterized by high levels of risk, impact and complexity<br>• build consensus between organizations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organization on team dynamics and conflict resolution |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Expert | You can:<br>• change organisational structures to fixable and sustainable designs<br>• lead on the strategy for the whole organisation, marrying business needs with innovative analysis<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• solve and unblock issues between teams or departments at the highest level<br>• understand the psychology of a team and have strong mediation skills<br>• coach the organisation on team dynamics and conflict resolution |
 | [Corporate governance and compliance](../../skills/#corporate-governance-and-compliance) | This reference | Expert | You can:<br>• design the governance framework and advise the board<br>• lead annual governance reporting and assurance |
 
 ### Typical qualifications and experience
@@ -199,8 +199,8 @@ Directors of finance are executive board members with corporate responsibility f
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 6 | 60 |
@@ -220,5 +220,5 @@ Financial resources is level 6 because the job holds corporate responsibility fo
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

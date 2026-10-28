@@ -1,0 +1,67 @@
+summary: >
+  Mjukvaruutvecklare bygger, testar och underhåller den programvara som ligger bakom organisationens digitala hälso- och vårdtjänster, såsom patientvända appar, kliniska system, integrationstjänster och dataplattformar. De arbetar i tvärprofessionella produktteam, skriver kod som är trygg, säker, tillgänglig och underhållbar, och stöder sina tjänster i löpande drift.
+health_context:
+  - Programvara kan påverka patientvården, så utvecklare följer processen för klinisk riskhantering och bidrar med underlag till säkerhetsunderlag.
+  - Kod hanterar ofta konfidentiell hälsoinformation, så utvecklare tillämpar informationsstyrning och säker kodning som standard.
+  - Många tjänster utbyter data med andra system inom hälso- och sjukvården med öppna standarder för interoperabilitet såsom HL7 FHIR.
+  - Viss programvara kan vara reglerad som medicinteknisk produkt, så utvecklare behöver veta när de ska be om regulatorisk rådgivning.
+levels:
+  - title: Mjukvaruutvecklare (lärling)
+    responsibilities:
+      - Lära sig teamets språk, verktyg och arbetssätt genom strukturerad utbildning och parprogrammering.
+      - Skriva och testa små, väl avgränsade kodavsnitt under nära handledning.
+      - Följa rutiner för säker kodning, informationsstyrning och klinisk säkerhet.
+      - Delta i teamets ceremonier såsom stand-ups, planering och retrospektiv.
+      - Arbeta mot en lärlingsutbildning eller motsvarande kvalifikation.
+    qualifications:
+      - Antagen till, eller på väg mot, en lärlingsutbildning inom mjukvaruutveckling eller motsvarande.
+    job_evaluation_notes: Kunskap poängsätts på den nivå arbetet kräver när utbildningen har kommit tillräckligt långt för att kunna utföra arbetet; informationsresurser speglar arbete med system som andra har utformat.
+  - title: Junior mjukvaruutvecklare
+    responsibilities:
+      - Bygga och testa funktioner för teamets produkter utifrån användarberättelser, med vägledning.
+      - Skriva automatiserade tester och åtgärda defekter, inklusive i tjänster som stöder patientvården.
+      - Bidra med underlag till kliniska säkerhetsunderlag, såsom testresultat och ändringsregister.
+      - Hantera hälsodata säkert enligt reglerna för informationsstyrning.
+      - Stödja tjänster i drift, under handledning, som en del av teamets supportarrangemang.
+    qualifications:
+      - En examen i datavetenskap eller ett närliggande ämne, en genomförd lärlingsutbildning eller motsvarande erfarenhet.
+  - title: Mjukvaruutvecklare
+    responsibilities:
+      - Utforma, bygga och testa funktioner och tjänster självständigt och välja lämpliga ansatser.
+      - Granska kod och hjälpa till att upprätthålla teamets tekniska standarder.
+      - Bygga integrationer med andra system inom hälso- och sjukvården med öppna standarder såsom HL7 FHIR.
+      - Delta i identifiering av faror och hjälpa till att lägga in kliniska säkerhetskontroller i kod och tester.
+      - Utreda och åtgärda problem i tjänster i drift, inklusive jour utanför kontorstid där tjänsten kräver det.
+      - Handleda juniora utvecklare och lärlingar.
+    qualifications:
+      - En examen i datavetenskap eller ett närliggande ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av att bygga och stödja produktionsprogramvara.
+  - title: Senior mjukvaruutvecklare
+    responsibilities:
+      - Leda den tekniska utformningen och leveransen av betydande funktioner och tjänster.
+      - Fastställa och upprätthålla tekniska standarder för teamet, inklusive testning, säkerhet och tillgänglighet.
+      - Fatta tekniska beslut som balanserar användarnas behov, klinisk säkerhet, säkerhet och kostnad.
+      - Leda incidentutredningar för teamets tjänster och driva på åtgärderna.
+      - Arbeta med kliniska säkerhetsansvariga för att säkerställa att säkerhetskontroller utformas in och testas.
+      - Coacha och utveckla utvecklare i teamet.
+    qualifications:
+      - Betydande erfarenhet av att utforma, bygga och stödja produktionsprogramvara, på en nivå motsvarande en masterexamen.
+  - title: Ledande mjukvaruutvecklare
+    responsibilities:
+      - Leda utvecklingen för en produkt eller grupp av team och sätta den tekniska riktningen.
+      - Se till att programvaran utformas för säkerhet, skydd, motståndskraft och interoperabilitet.
+      - Arbeta med arkitekter, produktchefer och kliniska ledare för att forma produktens färdplan.
+      - Leda praktikgemenskapen för utveckling och fastställa standarder över team.
+      - Ha linjeansvar för eller leda utvecklare och stödja deras utveckling och prestation.
+    qualifications:
+      - Omfattande erfarenhet av att leda mjukvaruutveckling för komplexa tjänster.
+    job_evaluation_notes: UK GDaD PCF anger att både ledande och principal utvecklare oftast ligger på G7 eller G6; den här referensen placerar den ledande utvecklaren i band 8a och principal i band 8b.
+  - title: Principal mjukvaruutvecklare
+    responsibilities:
+      - Fastställa strategi, standarder och praxis för organisationens mjukvaruutveckling.
+      - Ge seniora ledare råd om teknikval, risker och investeringar.
+      - Leda lösningen av de mest komplexa tekniska problemen över tjänster.
+      - Företräda organisationen i tekniska gemenskaper över organisationer och inom öppen källkod.
+      - Leda och utveckla ledande utvecklare och bygga organisationens tekniska förmåga.
+    qualifications:
+      - Omfattande erfarenhet av att leda utveckling över flera team eller organisationer.

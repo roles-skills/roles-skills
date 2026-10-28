@@ -1,0 +1,40 @@
+summary: "Nhân viên hành chính giữ cho các nhóm và dịch vụ vận hành bằng cách xử lý công tác hành chính hằng ngày của tổ chức: thư từ, lịch, cuộc họp, hồ sơ, nhập dữ liệu, đặt hàng và giải đáp thắc mắc. Trong một tổ chức chăm sóc sức khỏe số, họ hỗ trợ các nhóm kỹ thuật số, lâm sàng và doanh nghiệp, và thường xử lý thông tin bí mật về bệnh nhân và nhân viên."
+health_context:
+- Nhân viên hành chính thường thấy thông tin bí mật của bệnh nhân và nhân viên, nên họ tuân thủ chặt chẽ các quy tắc quản trị thông tin.
+- Các thắc mắc có thể đến từ bệnh nhân, nhân viên chăm sóc và công chúng, và một số người gọi có thể đang lo lắng hoặc đau buồn.
+- Hồ sơ và việc nhập dữ liệu chính xác rất quan trọng, vì sai sót có thể đi vào các hệ thống lâm sàng, báo cáo và thanh toán.
+- Nhiều quy trình hành chính đang chuyển sang công cụ số, nên nhân viên hành chính giúp kiểm thử và áp dụng các cách làm việc mới.
+levels:
+- title: Trợ lý hành chính
+  summary: Thực hiện các nhiệm vụ hành chính thường ngày cho một nhóm, theo các quy trình đã định với sự giám sát ở gần.
+  responsibilities:
+  - Trả lời cuộc gọi và email, ghi lại tin nhắn chính xác và chuyển các thắc mắc đến đúng người.
+  - Nhập và cập nhật dữ liệu chính xác trong các hệ thống của nhóm.
+  - Lưu trữ và quét tài liệu và giữ cho các thư mục dùng chung gọn gàng.
+  - Đặt lịch họp và phòng họp, và gửi tài liệu.
+  - Đặt văn phòng phẩm và vật tư theo các quy trình đã định.
+  qualifications:
+  - Có kỹ năng đọc viết, tính toán và gõ bàn phím tốt.
+  job_evaluation_notes: Kỹ năng thể chất được chấm ở mức 3 do yêu cầu kỹ năng bàn phím nâng cao, với tốc độ và độ chính xác trong đánh máy và nhập dữ liệu.
+- title: Nhân viên hành chính
+  summary: Cung cấp dịch vụ hành chính đầy đủ cho một nhóm hoặc dịch vụ, xử lý nhiều loại nhiệm vụ, một số không thường lệ, và tự sắp xếp khối lượng công việc của mình.
+  responsibilities:
+  - Quản lý lịch và sắp xếp các cuộc họp, sự kiện và việc đi lại cho một nhóm.
+  - Lập biên bản và ghi chú hành động cho các cuộc họp của nhóm và theo dõi các hành động.
+  - Xử lý thư từ và thắc mắc thường lệ, soạn thảo phản hồi khi cần.
+  - Duy trì hồ sơ, bảng theo dõi và cơ sở dữ liệu, và lập các báo cáo đơn giản.
+  - Xử lý đơn đặt hàng, hóa đơn và chi phí trong các giới hạn đã định.
+  - Hướng dẫn nhân viên mới các quy trình hành chính của nhóm.
+  qualifications:
+  - Có bằng cấp mức 3 về hành chính doanh nghiệp, hoặc kinh nghiệm tương đương.
+- title: Nhân viên hành chính cao cấp
+  summary: Dẫn dắt công tác hành chính cho một dịch vụ hoặc một ban, giám sát các nhân viên hành chính khác và cải thiện các quy trình hành chính.
+  responsibilities:
+  - Điều phối dịch vụ hành chính cho một ban, phân công công việc cho các nhân viên hành chính.
+  - Lập biên bản chính thức cho các cuộc họp quản lý và chương trình.
+  - Viết và cải thiện các quy trình và mẫu hành chính.
+  - Lập báo cáo từ các bảng theo dõi và hệ thống cho các quản lý.
+  - Theo dõi chi tiêu của các ngân sách hành chính và báo cáo chênh lệch.
+  - Đào tạo và giám sát nhân viên hành chính và học viên học nghề.
+  qualifications:
+  - Có kinh nghiệm hành chính dày dặn, ở mức tương đương bằng cao đẳng.

@@ -1,0 +1,228 @@
+# Danish translation of data/skills/clinical-ig.yaml. Keys are the English skill ids.
+clin-clinical-systems-optimisation:
+  name: Design og optimering af kliniske systemer
+  description: At designe, konfigurere og forbedre kliniske systemer, såsom elektroniske patientjournaler, ordrekommunikation og elektronisk ordination, så de passer til kliniske arbejdsgange og understøtter sikker og effektiv pleje.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvordan kliniske systemer, såsom elektroniske patientjournaler, understøtter plejen
+      - beskrive de kliniske arbejdsgange, som et system understøtter
+    working: |
+      Du kan:
+      - kortlægge nuværende og fremtidige kliniske arbejdsgange sammen med klinikere og plejepersonale
+      - teste systemkonfigurationen mod kliniske scenarier
+      - skrive klare kliniske krav til produktteams
+    practitioner: |
+      Du kan:
+      - lede det kliniske design af systemkonfiguration, formularer, ordresæt og beslutningsstøtte
+      - bruge data og brugerfeedback til at finde og rette problemer i arbejdsgange
+      - afveje klinisk behov, sikkerhed, brugbarhed og systembegrænsninger
+    expert: |
+      Du kan:
+      - fastsætte designprincipper og standarder for kliniske systemer på tværs af organisationen
+      - lede optimeringsprogrammer, der målbart forbedrer plejen og medarbejdernes oplevelse
+      - rådgive den øverste ledelse om valg af kliniske systemer og deres betydning for plejen
+clin-human-factors:
+  name: Human factors og brugbarhed i kliniske systemer
+  description: At anvende metoder fra human factors og brugbarhed på kliniske systemer, så klinikere, plejepersonale og patienter kan bruge dem sikkert og med færrest mulige fejl.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvordan dårligt design kan føre til fejl i plejen
+      - indberette brugbarhedsproblemer, der kan påvirke patientsikkerheden
+    working: |
+      Du kan:
+      - deltage i brugbarhedstest og simuleringer af kliniske opgaver
+      - spotte almindelige designfarer, såsom valgmuligheder, der ligner hinanden, eller skjulte advarsler
+    practitioner: |
+      Du kan:
+      - planlægge og gennemføre vurderinger af human factors i kliniske systemer
+      - omsætte resultater til designændringer og kliniske sikkerhedskontroller
+      - vurdere advarselsbyrden og risikoen for omgåelser
+    expert: |
+      Du kan:
+      - fastlægge organisationens tilgang til human factors i digitale services
+      - gennemgå evidensen for human factors for højrisikosystemer og -ændringer
+      - opbygge kompetencer i human factors på tværs af kliniske og digitale teams
+clin-digital-health-evaluation:
+  name: Evaluering af digital sundhed og gevinster
+  description: At planlægge og gennemføre evalueringer af digitale sundhedsteknologier og måle deres kliniske gevinster, sikkerhedsgevinster og servicegevinster med solide metoder og evidens.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor digitale sundhedsteknologier har brug for evidens for gavn og sikkerhed
+      - finde offentliggjort evidens om en teknologi
+    working: |
+      Du kan:
+      - indsamle baseline- og opfølgningsdata til en evaluering
+      - gennemføre kliniske audits af brugen af systemet
+      - sammenfatte evalueringsresultater for kolleger
+    practitioner: |
+      Du kan:
+      - designe evalueringer og gevinstplaner for digitale sundhedsprodukter
+      - vælge egnede mål for kliniske resultater, sikkerhed og oplevelse
+      - vurdere evidensens styrke og forklare dens begrænsninger
+    expert: |
+      Du kan:
+      - fastlægge organisationens tilgang til evaluering af digital sundhed
+      - lede forsknings- og evalueringsprogrammer sammen med akademiske partnere og plejepartnere
+      - bruge evidens til at rådgive bestyrelsen om digitale investeringer
+clin-professional-practice:
+  name: Autoriseret klinisk praksis i det digitale
+  description: At bringe aktuel, autoriseret klinisk viden og dømmekraft ind i digitalt arbejde og samtidig opfylde en klinisk professions standarder, etik og forpligtelser til revalidering.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare de faglige standarder, der gælder for en autoriseret kliniker
+      - genkende, hvornår et spørgsmål kræver en klinisk vurdering
+    working: |
+      Du kan:
+      - anvende din kliniske viden på digitalt arbejde inden for dit virkeområde
+      - holde din autorisation og løbende faglige udvikling ajour
+      - give kliniske vurderinger af arbejdsgange, indhold og sikkerhed
+    practitioner: |
+      Du kan:
+      - foretage velbegrundede kliniske vurderinger af digitale services' betydning for plejen
+      - udfordre usikker praksis, i digitale eller kliniske miljøer, med selvtillid
+      - støtte andre klinikere i at anvende deres faglige standarder på digitalt arbejde
+    expert: |
+      Du kan:
+      - lede de kliniske faglige standarder for organisationens digitale arbejde
+      - fungere som en senior klinisk stemme i beslutninger om patientsikkerhed og pleje
+      - støtte revalidering og faglig udvikling for klinikere i digitale roller
+ig-information-rights-requests:
+  name: Anmodninger om rettigheder til information
+  description: At håndtere anmodninger fra enkeltpersoner og offentligheden om adgang til oplysninger, såsom anmodninger om indsigt i egne patientjournaler og anmodninger om oplysninger, som organisationen er i besiddelse af, inden for de lovbestemte frister.
+  levels:
+    awareness: |
+      Du kan:
+      - genkende en anmodning om rettigheder til information og give den hurtigt videre
+      - forklare, at anmodninger har lovbestemte frister
+    working: |
+      Du kan:
+      - registrere, kvittere for og følge anmodninger, så fristerne overholdes
+      - indsamle og udelade oplysninger og udarbejde udkast til svar til gennemgang
+      - kontrollere identiteten og beføjelsen hos den, der anmoder
+    practitioner: |
+      Du kan:
+      - håndtere komplekse eller følsomme anmodninger, herunder dem, der involverer tredjeparter
+      - anvende undtagelser og afgøre, hvad der skal tilbageholdes, med klare begrundelser
+      - styre interne gennemgange og klager over svar
+    expert: |
+      Du kan:
+      - fastlægge politik og proces for rettigheder til information i hele organisationen
+      - lede besvarelsen af henvendelser og klager fra tilsynsmyndigheden
+      - rapportere om præstation og tendenser til den øverste ledelse
+ig-records-retention:
+  name: Opbevaring og kassation af journaler
+  description: At anvende opbevaringsplaner på journaler på papir og digitalt og arkivere eller destruere dem sikkert på det rette tidspunkt med et revisionsspor.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor journaler opbevares i bestemte perioder og derefter destrueres eller arkiveres
+      - følge procedurer for opbevaring og flytning af journaler
+    working: |
+      Du kan:
+      - anvende opbevaringsplanen på journaler og markere dem, der skal gennemgås
+      - forberede journaler til arkivering eller sikker destruktion og føre revisionssporet
+    practitioner: |
+      Du kan:
+      - drive programmet for opbevaring og kassation i en journalservice
+      - rådgive teams om opbevaring af nye typer journaler, herunder digitale
+      - auditere overholdelsen af opbevaringsplaner
+    expert: |
+      Du kan:
+      - fastlægge organisationens politik og plan for opbevaring
+      - planlægge langtidsbevaringen af digitale journaler
+      - løse komplekse spørgsmål om opbevaring, såsom retlige tilbageholdelser og undersøgelser
+ig-data-protection-impact-assessment:
+  name: Konsekvensanalyse vedrørende databeskyttelse
+  description: At vurdere privatlivsrisiciene ved ny eller ændret behandling af person- og sundhedsdata og aftale kontroller, før behandlingen starter.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvornår en konsekvensanalyse vedrørende databeskyttelse er nødvendig
+      - udfylde et screeningsspørgeskema for dit arbejde
+    working: |
+      Du kan:
+      - hjælpe projektteams med at gennemføre konsekvensanalyser vedrørende databeskyttelse
+      - beskrive datastrømme og identificere det retlige grundlag for behandlingen
+      - registrere privatlivsrisici og foreslåede kontroller
+    practitioner: |
+      Du kan:
+      - gennemgå og rådgive om konsekvensanalyser vedrørende databeskyttelse for komplekse systemer
+      - vurdere, om risici er acceptable, og anbefale kontroller
+      - afgøre, hvornår høje risici skal eskaleres til gennemgang hos den øverste ledelse eller tilsynsmyndigheden
+    expert: |
+      Du kan:
+      - fastlægge organisationens proces og standarder for konsekvensanalyser vedrørende databeskyttelse
+      - give den endelige rådgivning om behandling med den højeste risiko, såsom datadeling i stor skala eller kunstig intelligens
+      - rådføre dig med tilsynsmyndigheder, hvor loven kræver det
+ig-incident-management:
+  name: Håndtering af hændelser i informationsstyring
+  description: At registrere, undersøge og lære af brud på datasikkerheden og tæt-på-hændelser og afgøre, hvornår tilsynsmyndigheder og de berørte personer skal underrettes.
+  levels:
+    awareness: |
+      Du kan:
+      - genkende et brud på datasikkerheden eller en tæt-på-hændelse og indberette det med det samme
+    working: |
+      Du kan:
+      - registrere hændelser og indsamle fakta
+      - vurdere hændelser i forhold til organisationens alvorlighedskriterier
+      - følge handlinger, til de er afsluttet
+    practitioner: |
+      Du kan:
+      - undersøge alvorlige hændelser og finde deres grundårsager
+      - sammen med seniorkolleger afgøre, om tilsynsmyndigheder og berørte personer skal underrettes
+      - dele erfaringer og følge forbedringer
+    expert: |
+      Du kan:
+      - fastlægge hændelsesprocessen for informationsstyring
+      - lede indsatsen ved større brud, også over for tilsynsmyndigheder og medier
+      - rapportere om tendenser og risici i hændelser til bestyrelsen
+ig-confidentiality-and-sharing:
+  name: Fortrolighed og deling af oplysninger
+  description: At beskytte fortrolige patientoplysninger og samtidig sikre, at de deles lovligt, når pleje, sikkerhed eller loven kræver det, herunder gennem aftaler om deling af oplysninger.
+  levels:
+    awareness: |
+      Du kan:
+      - holde fortrolige oplysninger sikre og kun dele dem, når du har lov til det
+      - bede om råd, når du er i tvivl
+    working: |
+      Du kan:
+      - kontrollere, at en anmodning om at dele oplysninger er i overensstemmelse med politikken
+      - føre registre over, hvad der er delt, med hvem og hvorfor
+      - udarbejde enkle aftaler om deling af oplysninger
+    practitioner: |
+      Du kan:
+      - rådgive om komplekse spørgsmål om fortrolighed, såsom deling uden samtykke af hensyn til offentlighedens interesse
+      - gennemgå aftaler om deling af oplysninger med partnerorganisationer
+      - anvende regler om samtykke og patienters indsigelser på datastrømme
+    expert: |
+      Du kan:
+      - fungere som organisationens seniorrådgiver i spørgsmål om fortrolighed
+      - løse de vanskeligste beslutninger om videregivelse
+      - fastlægge rammerne for deling af oplysninger med partnere
+ig-compliance-assurance:
+  name: Forsikring og revision i informationsstyring
+  description: At kontrollere og påvise, at organisationen opfylder standarderne for informationsstyring, gennem årlige selvevalueringer, revisioner, dokumentation og forbedringsplaner.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor organisationen skal kunne vise, at den håndterer oplysninger godt
+      - fremlægge dokumentation til en revision, når du bliver bedt om det
+    working: |
+      Du kan:
+      - indsamle og ordne dokumentation til den årlige selvevaluering
+      - gennemføre enkle audits, såsom audits af adgang eller journalføring
+      - følge forbedringshandlinger
+    practitioner: |
+      Du kan:
+      - planlægge og køre programmet for forsikring i informationsstyring
+      - vurdere, om dokumentationen opfylder standarden, og identificere mangler
+      - samarbejde med interne og eksterne revisorer
+    expert: |
+      Du kan:
+      - eje organisationens ramme for forsikring i informationsstyring
+      - rapportere forsikring og overholdelse til bestyrelsen og dens udvalg
+      - fastsætte forbedringsprioriteter ud fra risiko

@@ -1,0 +1,28 @@
+summary: >
+  Maskininlärningsingenjörer tar modeller som dataforskare har byggt, eller som köpts från leverantörer, och får dem att fungera tillförlitligt i hälso- och vårdtjänster i drift. De bygger de pipelines som tränar, testar, driftsätter och övervakar modeller och integrerar dem med kliniska och operativa system. De ser till att modeller förblir trygga, säkra, rättvisa och effektiva när verkliga patienter och personal förlitar sig på dem.
+health_context:
+  - Modeller i drift kan driva iväg när patientpopulationer, klinisk praxis eller registreringsvanor förändras, så prestandan övervakas för varje patientgrupp och modeller tränas om eller dras tillbaka vid behov.
+  - En modell som informerar diagnos, triage eller behandling kan vara reglerad som medicinteknisk produkt, vilket medför formella krav på dess livscykel för programvara, ändringskontroll och övervakning efter försäljning.
+  - Kliniska säkerhetsunderlag behöver underlag om hur en modell fallerar, hur dess resultat visas för kliniker och vad som händer när den inte är tillgänglig.
+  - Modeller som tränats på patientdata kan läcka information om individer, så träningsdata, modellartefakter och loggar skyddas som själva datan.
+  - Generativ AI och stora språkmodeller medför ytterligare risker, såsom påhittat innehåll i kliniska anteckningar, som kräver särskild testning och mänsklig tillsyn.
+levels:
+  - title: Senior maskininlärningsingenjör
+    responsibilities:
+      - Driftsätta modeller i kliniska och operativa tjänster i produktion, med automatiserad testning, versionshantering och återgång.
+      - Bygga övervakning av modellers prestanda, drift och rättvisa över patientgrupper, med larm och tydliga ägare.
+      - Integrera modeller med kliniska system, med öppna standarder såsom HL7 FHIR där det är möjligt.
+      - Ta fram de test-, ändrings- och övervakningsunderlag som behövs för kliniska säkerhetsunderlag och tekniska filer för medicintekniska produkter.
+      - Bedöma och anpassa leverantörsmodeller och modeller med öppen källkod för lokal användning, inklusive generativa AI-modeller.
+      - Coacha dataforskare och ingenjörer i praxis för maskininlärningsutveckling.
+    qualifications:
+      - Betydande erfarenhet av att bygga och driva system för maskininlärning i produktion, på en nivå motsvarande en masterexamen.
+  - title: Ledande maskininlärningsingenjör
+    responsibilities:
+      - Leda det mest komplexa arbetet med att föra modeller från forskning till trygg användning i drift i hela organisationen.
+      - Definiera livscykeln för maskininlärning, inklusive de kontroller som behövs för reglerade och säkerhetskritiska modeller.
+      - Fastställa standarder för modelltestning, övervakning, säkerhet och etik och kvalitetssäkra modeller i drift.
+      - Arbeta med kliniska säkerhetsansvariga, informationsstyrning och regulatoriska specialister för att komma överens om hur modeller bedöms och godkänns.
+      - Identifiera utbildningsbehov och utveckla maskininlärningsingenjörer och närliggande roller.
+    qualifications:
+      - Omfattande erfarenhet av att leda maskininlärningsutveckling för komplexa eller reglerade tjänster.

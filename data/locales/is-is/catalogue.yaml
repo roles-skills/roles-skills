@@ -1,0 +1,92 @@
+# Family and role titles in Icelandic. Keys are the English ids. Slugs are made
+# from the titles.
+families:
+  software-development: {title: Hugbúnaðarþróun}
+  architecture: {title: Arkitektúr}
+  data: {title: Gögn}
+  product-and-delivery: {title: Vara og afhending}
+  user-centred-design: {title: Notendamiðuð hönnun}
+  it-operations: {title: Upplýsingatæknirekstur}
+  cyber-security: {title: Netöryggi}
+  quality-assurance-testing: {title: Gæðatrygging og prófanir}
+  clinical-informatics: {title: Klínísk upplýsingafræði og klínískt öryggi}
+  information-governance: {title: Upplýsingastjórnun}
+  finance: {title: Fjármál}
+  legal: {title: Lögfræði}
+  human-resources: {title: Mannauðsmál}
+  procurement: {title: Innkaup og viðskipti}
+  corporate-services: {title: Fyrirtækjaþjónusta}
+roles:
+  software-developer: {title: Hugbúnaðarsmiður}
+  frontend-developer: {title: Framendasmiður}
+  devops-engineer: {title: DevOps-verkfræðingur}
+  integration-engineer: {title: Samþættingarverkfræðingur (samvirkni í heilbrigðis- og velferðarþjónustu)}
+  enterprise-architect: {title: Fyrirtækjaarkitekt}
+  solution-architect: {title: Lausnaarkitekt}
+  technical-architect: {title: Tæknilegur arkitekt}
+  data-architect: {title: Gagnaarkitekt}
+  security-architect: {title: Öryggisarkitekt}
+  network-architect: {title: Netarkitekt}
+  business-architect: {title: Viðskiptaarkitekt}
+  data-analyst: {title: Gagnagreinandi}
+  performance-analyst: {title: Árangursgreinandi}
+  data-engineer: {title: Gagnaverkfræðingur}
+  analytics-engineer: {title: Greiningarverkfræðingur}
+  data-scientist: {title: Gagnafræðingur}
+  machine-learning-engineer: {title: Vélnámsverkfræðingur}
+  data-governance-manager: {title: Stjórnandi gagnastjórnarhátta}
+  clinical-coder: {title: Klínískur kóðari}
+  business-analyst: {title: Viðskiptagreinandi}
+  delivery-manager: {title: Afhendingarstjóri}
+  product-manager: {title: Vörustjóri}
+  project-manager: {title: Verkefnastjóri}
+  programme-delivery-manager: {title: Afhendingarstjóri áætlunar}
+  digital-portfolio-manager: {title: Stjórnandi stafræns verkefnasafns}
+  service-owner: {title: Þjónustueigandi}
+  user-researcher: {title: Notendarannsakandi}
+  service-designer: {title: Þjónustuhönnuður}
+  interaction-designer: {title: Samskiptahönnuður}
+  content-designer: {title: Efnishönnuður}
+  accessibility-specialist: {title: Sérfræðingur í aðgengi}
+  service-desk-analyst: {title: Þjónustuborðsgreinandi}
+  end-user-computing-engineer: {title: Verkfræðingur í notendatölvuumhverfi}
+  infrastructure-engineer: {title: Innviðaverkfræðingur}
+  application-operations-engineer: {title: Rekstrarverkfræðingur hugbúnaðar}
+  it-service-manager: {title: Upplýsingatækniþjónustustjóri}
+  incident-manager: {title: Atvikastjóri}
+  problem-manager: {title: Vandamálastjóri}
+  change-and-release-manager: {title: Breytinga- og útgáfustjóri}
+  security-analyst: {title: Greinandi öryggisrekstrar}
+  security-engineer: {title: Öryggisverkfræðingur}
+  cyber-security-manager: {title: Netöryggisstjóri}
+  quality-assurance-test-analyst: {title: Prófunargreinandi í gæðatryggingu}
+  test-engineer: {title: Prófunarverkfræðingur}
+  test-manager: {title: Prófunarstjóri}
+  clinical-informatician: {title: Klínískur upplýsingafræðingur}
+  clinical-safety-officer: {title: Klínískur öryggisfulltrúi}
+  chief-clinical-information-officer: {title: Yfirmaður klínískra upplýsinga (CCIO)}
+  records-officer: {title: Skjalafulltrúi sjúkraskráa}
+  information-governance-officer: {title: Fulltrúi upplýsingastjórnunar}
+  data-protection-officer: {title: Persónuverndarfulltrúi}
+  finance-officer: {title: Fjármálafulltrúi}
+  payroll-officer: {title: Launafulltrúi}
+  management-accountant: {title: Stjórnendabókari}
+  financial-accountant: {title: Fjárhagsbókari}
+  head-of-finance: {title: Fjármálastjóri}
+  legal-assistant: {title: Lögfræðiaðstoðarmaður}
+  legal-adviser: {title: Lögfræðiráðgjafi}
+  head-of-legal: {title: Yfirlögfræðingur}
+  hr-officer: {title: Mannauðsfulltrúi}
+  recruitment-officer: {title: Ráðningarfulltrúi}
+  hr-business-partner: {title: Mannauðsráðgjafi}
+  learning-and-development-specialist: {title: Sérfræðingur í fræðslu og starfsþróun}
+  head-of-people: {title: Mannauðsstjóri}
+  procurement-officer: {title: Innkaupafulltrúi}
+  category-manager: {title: Vöruflokkastjóri}
+  contract-manager: {title: Samningastjóri}
+  head-of-procurement: {title: Innkaupastjóri}
+  administrator: {title: Skrifstofufulltrúi}
+  executive-assistant: {title: Framkvæmdastjóraritari}
+  project-support-officer: {title: Verkefnaaðstoðarmaður}
+  governance-and-risk-manager: {title: Stjórnandi stjórnarhátta og áhættu}
+  communications-officer: {title: Samskiptafulltrúi}

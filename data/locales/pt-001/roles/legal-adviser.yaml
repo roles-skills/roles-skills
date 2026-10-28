@@ -1,0 +1,45 @@
+summary: "Os assessores jurídicos são advogados qualificados que dão à organização assessoria jurídica prática e exata e a ajudam a gerir o risco jurídico. Redigem e negociam contratos, aconselham sobre direito de dados, de contratações, do trabalho e da saúde e dos cuidados e gerem disputas e ações. Em uma organização de saúde digital, grande parte do trabalho gira em torno da tecnologia: licenças de software, acordos de nuvem e de tratamento de dados, compartilhamento de dados, propriedade intelectual em software e dados e regulação de produtos de saúde digital."
+health_context:
+- Os contratos de tecnologia devem proteger os dados dos pacientes, manter os serviços clínicos em funcionamento e garantir que a organização possa deixar um fornecedor com segurança.
+- O uso de dados de saúde no cuidado direto, no planejamento, na pesquisa e na IA levanta questões do direito de proteção de dados e do dever de confidencialidade que exigem assessoria cuidadosa.
+- A compra de tecnologia com dinheiro público deve seguir as regras de contratação pública, e os fornecedores podem impugnar as decisões de adjudicação.
+- A organização pode construir produtos de software ou de dados, o que levanta questões de propriedade intelectual, código aberto e uso comercial.
+- As ações podem envolver dano a pacientes, inclusive quando serviços digitais tiveram algum papel, por isso os assessores trabalham com colegas de segurança clínica, de riscos e de indenização.
+levels:
+- title: Assessoria jurídica
+  summary: Os assessores jurídicos são advogados qualificados que dão assessoria independente e tratam sua própria carteira de casos em uma ou mais áreas, como contratos de tecnologia, direito da informação, contratações ou direito do trabalho.
+  responsibilities:
+  - Redigir, revisar e negociar acordos, como licenças de software, serviços em nuvem e acordos de tratamento de dados.
+  - Dar assessoria jurídica clara e prática a gestores e equipes nas suas áreas de atuação.
+  - Orientar sobre acordos de compartilhamento de dados, avaliações de impacto sobre a proteção de dados e pedidos de informações.
+  - Orientar sobre processos de contratação e alterações de contratos de tecnologia e serviços.
+  - Gerir uma carteira de disputas ou ações, contratando advogados externos quando necessário.
+  - Supervisionar e desenvolver paralegais e assistentes jurídicos.
+  qualifications:
+  - Advogado qualificado e habilitado ao exercício da profissão, ou qualificação e experiência equivalentes.
+  - Experiência em direito comercial, de tecnologia, da informação ou público.
+  job_evaluation_notes: Os conhecimentos estão no nível 7 porque a função exige uma qualificação jurídica profissional e experiência de prática. Os recursos financeiros estão no nível 2 porque os assessores jurídicos raramente administram orçamentos. O esforço emocional está no nível 2 porque ações e casos trabalhistas muitas vezes envolvem material aflitivo.
+- title: Assessoria jurídica sênior
+  summary: Os assessores jurídicos sêniores são advogados experientes que lideram assuntos complexos, de alto valor ou de alto risco em uma área especializada, como tecnologia e dados, direito da informação, contratações, direito do trabalho ou ações.
+  responsibilities:
+  - Liderar acordos complexos, como grandes implantações de sistemas, plataformas de dados e parcerias.
+  - Aconselhar a gerência sênior sobre questões inéditas, como IA, uso de dados para pesquisa e software como dispositivo médico.
+  - Orientar sobre direito do trabalho em mudanças na força de trabalho, prestadores de serviços e disputas trabalhistas.
+  - Liderar disputas significativas, impugnações de contratações e a interlocução com fundos de indenização por erro clínico.
+  - Escrever modelos, manuais e orientações para a organização.
+  - Gerir e desenvolver assessores jurídicos e paralegais.
+  qualifications:
+  - Advogado qualificado e habilitado ao exercício da profissão, com experiência substancial após a qualificação em uma especialidade pertinente.
+  job_evaluation_notes: Os recursos financeiros estão no nível 2 porque a função não administra um orçamento, embora controle os gastos com advogados externos em seus casos.
+- title: Assessoria jurídica principal
+  summary: Os assessores jurídicos principais são os maiores especialistas da organização em uma ou mais áreas do direito, como tecnologia e dados ou direito da informação, e lideram seu trabalho jurídico nos assuntos mais significativos.
+  responsibilities:
+  - Liderar o trabalho jurídico dos maiores programas, contratos e disputas da organização.
+  - Dar pareceres definitivos sobre assuntos inéditos e de alto risco, como compartilhamento de dados em larga escala, IA e uso comercial do software e dos dados da organização.
+  - Definir as posições e os padrões jurídicos da organização nas suas áreas de especialidade.
+  - Aconselhar diretorias e comitês do conselho sobre o risco jurídico.
+  - Representar a organização perante reguladores, parceiros e fornecedores em assuntos jurídicos.
+  - Liderar uma equipe jurídica especializada e desenvolver sua capacidade.
+  qualifications:
+  - Advogado qualificado e habilitado ao exercício da profissão, com ampla experiência após a qualificação e perícia reconhecida em uma especialidade.
+  job_evaluation_notes: Os conhecimentos estão no nível 8 porque a função exige conhecimento jurídico especializado em direito e tecnologia, construído ao longo de muito tempo.

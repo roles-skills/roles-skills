@@ -1,0 +1,59 @@
+summary: Klínískir upplýsingafræðingar eru skráðir klínískir starfsmenn, svo sem læknar, hjúkrunarfræðingar, lyfjafræðingar og aðrar heilbrigðisstéttir, sem nota klíníska þekkingu sína til að móta stafræna heilbrigðisþjónustu stofnunarinnar. Þeir tryggja að klínísk kerfi, gögn og ákvörðunarstuðningur falli að því hvernig umönnun er veitt, séu örugg í notkun og bæti útkomu sjúklinga og upplifun klínísks starfsfólks og umönnunarstarfsfólks.
+health_context:
+- Hlutverkið krefst núgildandi klínískrar þekkingar, svo flest störf krefjast skráningar hjá klínískri fagstofnun og nokkurs áframhaldandi klínísks starfs.
+- Klínískir upplýsingafræðingar veita sérhæfða ráðgjöf um hvernig kerfi hafa áhrif á umönnun sjúklinga, svo dómgreind þeirra hefur bein áhrif á öryggi sjúklinga.
+- Þeir vinna náið með klínískum öryggisfulltrúum og leggja til klíníska sérþekkingu við greiningu hættna og öryggismál.
+- Góð klínísk gögn velta á samræmdri notkun klínískra hugtakakerfa eins og SNOMED CT, svo þeir hjálpa til við að hanna skipulagðar skrár og ákvörðunarstuðning.
+- Þeir eru brú milli klínísks starfsfólks, umönnunarstarfsfólks og stafrænna teyma, og stýra oft klínískri þátttöku við kerfisbreytingar.
+levels:
+- title: Sérfræðingur í klínískri upplýsingafræði
+  summary: Færir klíníska sérþekkingu í hönnun, stillingar, prófanir og upptöku klínískra kerfa, og vinnur innan vöru- eða áætlunarteymis undir leiðsögn eldri klínísks upplýsingafræðings.
+  responsibilities:
+  - Kortleggja klínískt vinnuflæði með klínísku starfsfólki og umönnunarstarfsfólki og breyta því í skýrar kröfur.
+  - Hanna og prófa kerfisefni, svo sem eyðublöð, pöntunarsett og umönnunaráætlanir, gegn klínískum sviðsmyndum.
+  - Taka þátt í hættuvinnustofum og veita klínískt álit á áhættu og stýringum.
+  - Styðja klínískt starfsfólk og umönnunarstarfsfólk við að taka upp ný kerfi á öruggan hátt, þar á meðal þjálfun og stuðning við gangsetningu.
+  - Athuga að klínísk gögn séu skráð með samþykktum klínískum hugtakakerfum.
+  - Safna endurgjöf og gögnum um notkun kerfa og leggja til úrbætur.
+  qualifications:
+  - Gild skráning hjá klínískri fagstofnun, með reynslu af klínísku starfi.
+  - Reynsla af notkun klínískra kerfa í starfi, eða sambærileg reynsla af stafrænum breytingum.
+  job_evaluation_notes: Umönnun sjúklinga er metin á stigi 4 því starfið ráðleggur um umönnun sjúklinga með hönnun klínískra kerfa. Tilfinningalegt erfiði endurspeglar reglulega yfirferð klínískra skráa og atvika.
+- title: Eldri klínískur upplýsingafræðingur
+  summary: Stýrir klínísku framlagi að stóru klínísku kerfi, vöru eða áætlun og veitir sérhæfða ráðgjöf um hvernig stafræn þjónusta hefur áhrif á umönnun og öryggi sjúklinga.
+  responsibilities:
+  - Stýra klínískri hönnun stórs klínísks kerfis eða vöru og setja staðla um efni og stillingar.
+  - Veita vöruteymum sérhæfða ráðgjöf um klínískt vinnuflæði, ákvörðunarstuðning og öryggi.
+  - Vinna með klíníska öryggisfulltrúanum að því að greina hættur, samþykkja stýringar og leggja fram klínísk gögn fyrir öryggismál.
+  - Stýra klínískri þátttöku og upptöku þvert á þjónustu og vera málsvari öruggrar notkunar meðal klínískra jafningja.
+  - Skipuleggja og framkvæma mat og klínískar úttektir á notkun og ávinningi kerfa.
+  - Leiðbeina sérfræðingum í klínískri upplýsingafræði og klínísku starfsfólki sem er nýtt í stafrænni vinnu.
+  qualifications:
+  - Gild skráning hjá klínískri fagstofnun, með mikla klíníska reynslu.
+  - Framhaldsmenntun í klínískri upplýsingafræði eða heilbrigðisupplýsingafræði, eða sambærileg reynsla.
+  job_evaluation_notes: Umönnun sjúklinga er metin á stigi 5 fyrir sérhæfða ráðgjöf um umönnun sjúklinga. Rannsóknir eru á stigi 3 því mat og klínískar úttektir á kerfum eru stór hluti starfsins.
+- title: Leiðandi klínískur upplýsingafræðingur
+  summary: Stýrir klínískri upplýsingafræði fyrir safn klínískra kerfa eða umönnunarumhverfi, setur klíníska hönnunarstaðla og stýrir teymi klínískra upplýsingafræðinga.
+  responsibilities:
+  - Setja klíníska hönnunarstaðla og meginreglur fyrir klínísk kerfi þvert á safn.
+  - Stýra teymi klínískra upplýsingafræðinga, setja forgangsröðun og styðja starfsþróun þeirra.
+  - Ráðleggja áætlunarstjórnum og æðstu stjórnendum um klíníska áhættu, ávinning og forgangsröðun klínískra kerfa.
+  - Stýra klínískum ákvörðunum um ákvörðunarstuðning, viðvaranir og skipulögð gögn þvert á þjónustu.
+  - Byggja upp net klínískra talsmanna og stýra klínískri þátttöku í umfangsmiklum breytingum.
+  - Panta og stýra mati og nota sönnunargögnin til að móta vegvísinn.
+  qualifications:
+  - Gild skráning hjá klínískri fagstofnun, með mikla klíníska reynslu.
+  - Framhaldsmenntun í klínískri upplýsingafræði eða heilbrigðisupplýsingafræði, eða sambærileg reynsla af forystu í klínískri upplýsingafræði.
+- title: Yfirmaður klínískrar upplýsingafræði
+  summary: Stýrir sviði klínískrar upplýsingafræði stofnunarinnar og klínískri hönnunarnefnd hennar og tryggir að öll klínísk kerfi séu hönnuð, tekin upp og bætt með sterkri klínískri forystu.
+  responsibilities:
+  - Móta stefnu í klínískri upplýsingafræði og stýra klínískri hönnunarnefnd stofnunarinnar.
+  - Stýra og þróa svið klínískrar upplýsingafræði, þar á meðal mannaflaáætlun þess og fjárhagsáætlun.
+  - Veita framkvæmdastjórn mjög sérhæfða ráðgjöf um áhrif stafrænnar fjárfestingar á umönnun sjúklinga.
+  - Tryggja að klínísk kerfi uppfylli staðla um klínískt öryggi, hugtök og gögn.
+  - Vera fulltrúi stofnunarinnar gagnvart samstarfsaðilum í heilbrigðis- og velferðarþjónustu, fagstofnunum og fræðilegum netum.
+  - Stýra rannsóknar- og matssamstarfi til að byggja upp sönnunargögn fyrir stafræna heilbrigðisþjónustu.
+  qualifications:
+  - Gild skráning hjá klínískri fagstofnun, með mikla klíníska reynslu og reynslu af forystu.
+  - Meistaragráða í klínískri upplýsingafræði eða heilbrigðisupplýsingafræði, eða sambærileg reynsla af forystu í klínískri upplýsingafræði á vettvangi stofnunar.
+  job_evaluation_notes: Umönnun sjúklinga er metin á stigi 6 fyrir mjög sérhæfða ráðgjöf um umönnun sjúklinga þvert á klínísk kerfi stofnunarinnar.

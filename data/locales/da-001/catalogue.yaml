@@ -1,0 +1,92 @@
+# Family and role titles in Danish. Keys are the English ids. Slugs are made
+# from the titles.
+families:
+  software-development: {title: Softwareudvikling}
+  architecture: {title: Arkitektur}
+  data: {title: Data}
+  product-and-delivery: {title: Produkt og leverance}
+  user-centred-design: {title: Brugercentreret design}
+  it-operations: {title: It-drift}
+  cyber-security: {title: Cybersikkerhed}
+  quality-assurance-testing: {title: Kvalitetssikring og test}
+  clinical-informatics: {title: Klinisk informatik og klinisk sikkerhed}
+  information-governance: {title: Informationsstyring}
+  finance: {title: Økonomi}
+  legal: {title: Jura}
+  human-resources: {title: Personale}
+  procurement: {title: Indkøb og udbud}
+  corporate-services: {title: Virksomhedsservice}
+roles:
+  software-developer: {title: Softwareudvikler}
+  frontend-developer: {title: Frontend-udvikler}
+  devops-engineer: {title: DevOps-ingeniør}
+  integration-engineer: {title: Integrationsingeniør (interoperabilitet inden for sundhed)}
+  enterprise-architect: {title: Enterprise-arkitekt}
+  solution-architect: {title: Løsningsarkitekt}
+  technical-architect: {title: Teknisk arkitekt}
+  data-architect: {title: Dataarkitekt}
+  security-architect: {title: Sikkerhedsarkitekt}
+  network-architect: {title: Netværksarkitekt}
+  business-architect: {title: Forretningsarkitekt}
+  data-analyst: {title: Dataanalytiker}
+  performance-analyst: {title: Præstationsanalytiker}
+  data-engineer: {title: Dataingeniør}
+  analytics-engineer: {title: Analyseingeniør}
+  data-scientist: {title: Dataforsker}
+  machine-learning-engineer: {title: Ingeniør i maskinlæring}
+  data-governance-manager: {title: Chef for datastyring}
+  clinical-coder: {title: Klinisk koder}
+  business-analyst: {title: Forretningsanalytiker}
+  delivery-manager: {title: Leverancechef}
+  product-manager: {title: Produktchef}
+  project-manager: {title: Projektleder}
+  programme-delivery-manager: {title: Programleverancechef}
+  digital-portfolio-manager: {title: Digital porteføljechef}
+  service-owner: {title: Serviceejer}
+  user-researcher: {title: Brugerforsker}
+  service-designer: {title: Servicedesigner}
+  interaction-designer: {title: Interaktionsdesigner}
+  content-designer: {title: Indholdsdesigner}
+  accessibility-specialist: {title: Tilgængelighedsspecialist}
+  service-desk-analyst: {title: Servicedeskanalytiker}
+  end-user-computing-engineer: {title: Ingeniør i slutbrugerudstyr}
+  infrastructure-engineer: {title: Infrastrukturingeniør}
+  application-operations-engineer: {title: Applikationsdriftsingeniør}
+  it-service-manager: {title: It-servicechef}
+  incident-manager: {title: Hændelsesansvarlig}
+  problem-manager: {title: Problemansvarlig}
+  change-and-release-manager: {title: Ændrings- og releaseansvarlig}
+  security-analyst: {title: Sikkerhedsanalytiker (sikkerhedsdrift)}
+  security-engineer: {title: Sikkerhedsingeniør}
+  cyber-security-manager: {title: Cybersikkerhedschef}
+  quality-assurance-test-analyst: {title: Testanalytiker i kvalitetssikring}
+  test-engineer: {title: Testingeniør}
+  test-manager: {title: Testleder}
+  clinical-informatician: {title: Klinisk informatiker}
+  clinical-safety-officer: {title: Klinisk sikkerhedsansvarlig}
+  chief-clinical-information-officer: {title: Klinisk informationschef}
+  records-officer: {title: Journalmedarbejder}
+  information-governance-officer: {title: Medarbejder i informationsstyring}
+  data-protection-officer: {title: Databeskyttelsesrådgiver}
+  finance-officer: {title: Økonomimedarbejder}
+  payroll-officer: {title: Lønmedarbejder}
+  management-accountant: {title: Økonomikonsulent (intern regnskab)}
+  financial-accountant: {title: Regnskabsmedarbejder}
+  head-of-finance: {title: Økonomichef}
+  legal-assistant: {title: Juridisk assistent}
+  legal-adviser: {title: Jurist}
+  head-of-legal: {title: Chef for juridisk afdeling}
+  hr-officer: {title: Personalemedarbejder}
+  recruitment-officer: {title: Rekrutteringsmedarbejder}
+  hr-business-partner: {title: HR-partner}
+  learning-and-development-specialist: {title: Specialist i læring og kompetenceudvikling}
+  head-of-people: {title: Personalechef}
+  procurement-officer: {title: Indkøber}
+  category-manager: {title: Kategoriansvarlig}
+  contract-manager: {title: Kontraktansvarlig}
+  head-of-procurement: {title: Indkøbschef}
+  administrator: {title: Administrator}
+  executive-assistant: {title: Direktionsassistent}
+  project-support-officer: {title: Projektmedarbejder}
+  governance-and-risk-manager: {title: Ansvarlig for styring og risiko}
+  communications-officer: {title: Kommunikationsmedarbejder}

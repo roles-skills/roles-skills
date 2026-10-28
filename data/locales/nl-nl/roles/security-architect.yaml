@@ -1,0 +1,38 @@
+summary: Beveiligingsarchitecten ontwerpen de beveiliging van de digitale diensten voor gezondheid van de organisatie, zodat patiëntinformatie vertrouwelijk, nauwkeurig en beschikbaar blijft wanneer de zorg haar nodig heeft. Zij stellen patronen en beheersmaatregelen voor beveiliging vast, beoordelen het beveiligingsrisico van nieuwe ontwerpen en leveranciers en helpen teams beslissingen op basis van risico te nemen die diensten zowel veilig als bruikbaar houden voor clinici en patiënten.
+health_context:
+- Zorgorganisaties zijn veelvoorkomende doelwitten van ransomware en diefstal van data, en een aanval kan klinische diensten stilleggen, dus beschikbaarheid is even belangrijk als vertrouwelijkheid.
+- Beheersmaatregelen voor beveiliging mogen dringende zorg niet in de weg zitten, dus ontwerpen wegen sterke authenticatie af tegen snelle toegang in klinische omgevingen.
+- Verbonden medische hulpmiddelen en legacy-systemen voor klinisch werk kunnen vaak niet snel worden gepatcht, dus architecten ontwerpen compenserende beheersmaatregelen zoals segmentatie.
+- Veel personeel, partnerorganisaties en leveranciers hebben toegang tot patiëntdossiers nodig, dus identiteit, rolgebaseerde toegang en audit staan centraal.
+- Beveiligingsontwerpen moeten plichten voor informatiebeheer en gepubliceerde normen voor beveiliging ondersteunen, zoals ISO/IEC 27001.
+levels:
+- title: Beveiligingsarchitect
+  responsibilities:
+  - Beheersmaatregelen voor beveiliging ontwerpen voor diensten en systemen, inclusief identiteit, versleuteling, logging en netwerkbescherming.
+  - De beveiliging van nieuwe ontwerpen en producten van leveranciers beoordelen en risico’s en aanbevolen beheersmaatregelen vastleggen.
+  - Patronen voor beveiliging ontwikkelen die leveringsteams kunnen hergebruiken, zoals voor aanmelden van patiënten en single sign-on voor personeel.
+  - Adviseren over compenserende beheersmaatregelen voor medische hulpmiddelen en legacy-systemen voor klinisch werk die niet gemakkelijk kunnen worden bijgewerkt.
+  - Met collega’s van informatiebeheer en klinische veiligheid zorgen dat risico’s voor beveiliging, privacy en veiligheid samen worden beoordeeld.
+  - Beveiligingsengineers en andere architecten coachen in veilig ontwerp.
+  qualifications:
+  - Aanzienlijke ervaring met beveiligingsarchitectuur of beveiligings-engineering, op een niveau gelijkwaardig aan een master.
+  - Een erkende kwalificatie voor beveiliging of gelijkwaardige ervaring.
+  job_evaluation_notes: 'Hoger ingeschaald dan het voorstel voor rang van het UK GDaD PCF (Band 6): vacatures in de gezondheidssector plaatsen deze rol op Band 8a. Analyse en handelingsvrijheid worden hoger gescoord dan het profiel van Band 7 omdat de functie met weinig toezicht beveiliging ontwerpt voor kritieke klinische systemen.'
+- title: Lead beveiligingsarchitect
+  responsibilities:
+  - Beveiligingsarchitectuur leiden voor meerdere projecten met hoog risico of een groot gebied, zoals klinische systemen of cloudhosting.
+  - Beveiligingsbeginselen en -normen voor ontwerpen in uw gebied vaststellen en ze borgen bij ontwerpautoriteiten.
+  - Senior risico-eigenaren adviseren over risico’s voor beveiliging en de opties om ze te beheren.
+  - Beveiliging ontwerpen voor data die met partnerorganisaties en leveranciers worden gedeeld.
+  - Beveiligingsarchitecten leiden en ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met beveiligingsarchitectuur voor complexe diensten.
+- title: Principal beveiligingsarchitect
+  responsibilities:
+  - De visie, beginselen en strategie voor beveiligingsarchitectuur van de organisatie vaststellen.
+  - Het directieteam en het bestuur adviseren over risico’s van cyberbeveiliging voor de zorg voor patiënten en diensten.
+  - Zorgen dat cyberveerkracht, inclusief herstel na een grote aanval, in kritieke klinische diensten wordt ingebouwd.
+  - De organisatie vertegenwoordigen in gemeenschappen voor cyberbeveiliging en standaarden over organisaties heen.
+  - De praktijk van beveiligingsarchitectuur leiden en haar mensen ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van beveiligingsarchitectuur over organisaties heen.

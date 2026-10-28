@@ -1,0 +1,66 @@
+summary: >
+  Användarforskare hjälper team att förstå de människor som använder och levererar hälso- och vårdtjänster, inklusive patienter, närstående, kliniker och vårdpersonal. De planerar och genomför forskning tryggt och etiskt, omsätter det de lär sig till tydlig insikt och ser till att beslut om digitala hälso- och vårdtjänster bygger på underlag om verkliga behov, inklusive behoven hos de människor som har svårast att använda tjänster.
+health_context:
+  - Forskningsdeltagare är ofta sjuka, oroliga eller i utsatta omständigheter, så forskare planerar noggrant för informerat samtycke, skydd av utsatta och deltagarnas välmående.
+  - Forskning kan innebära att höra om plågsamma upplevelser av sjukdom, förlust eller dålig vård, så forskare behöver stöd för att hantera den känslomässiga påverkan på sig själva och sitt team.
+  - Kliniker och vårdpersonal har lite tid borta från patienter, så forskare planerar forskning i kliniska miljöer utan att störa vården, ofta genom observation och korta sessioner.
+  - Viss forskning räknas som formell hälsoforskning eller använder patientdata, så forskare behöver veta när etikprövning eller godkännande enligt forskningsstyrning och dataskyddskontroller gäller.
+  - Ojämlikhet i hälsa är verklig, så forskare gör medvetna ansträngningar att inkludera människor med låg digital kompetens, funktionsnedsättningar eller begränsad engelska, och människor som använder tjänster minst.
+levels:
+  - title: Biträdande användarforskare
+    responsibilities:
+      - Lära sig metoder för användarforskning genom utbildning och genom att arbeta tillsammans med erfarna forskare.
+      - Föra anteckningar, hjälpa till att genomföra sessioner och hjälpa till att rekrytera deltagare, enligt rutiner för samtycke och skydd av utsatta.
+      - Lagra forskningsdata säkert och i enlighet med reglerna för informationsstyrning.
+      - Hjälpa till att analysera forskningsdata och dela resultat med teamet.
+    qualifications:
+      - På väg mot en kvalifikation eller lärlingsutbildning inom ett relevant område, eller motsvarande erfarenhet.
+    job_evaluation_notes: Känslomässig ansträngning är nivå 2 på varje nivå för användarforskare, eftersom forskning med patienter och närstående ofta innebär att höra om sjukdom, förlust eller dålig vård. Forskning poängsätts från nivå 2 här och stiger till nivå 3 när forskning är den huvudsakliga uppgiften.
+  - title: Junior användarforskare
+    responsibilities:
+      - Planera och genomföra forskningssessioner med patienter, närstående och personal, med vägledning från en mer senior forskare.
+      - Använda metoder såsom intervjuer, användbarhetstestning och kontextuell observation i vårdmiljöer.
+      - Inhämta informerat samtycke, anpassa sessioner efter deltagarnas behov och lyfta eventuella farhågor om skydd av utsatta.
+      - Analysera resultat och presentera dem för teamet som tydlig, användbar insikt.
+      - Rekrytera varierade deltagare, inklusive människor som har svårt att använda tjänster.
+    qualifications:
+      - En examen i ett relevant ämne, såsom samhällsvetenskap eller psykologi, eller motsvarande erfarenhet.
+  - title: Användarforskare
+    responsibilities:
+      - Planera och genomföra användarforskning för ett tvärprofessionellt team och välja metoder som passar frågorna och deltagarna.
+      - Forska med kliniker och vårdpersonal i deras arbetsmiljöer för att förstå kliniska arbetsflöden och säkerhetskritiska uppgifter.
+      - Planera forskning med människor i utsatta omständigheter tryggt och bedöma när etikprövning eller godkännande enligt forskningsstyrning behövs.
+      - Dela insikt som hjälper teamet att prioritera, inklusive underlag om säkerhet och tillgänglighet.
+      - Dra in teamet i forskningen så att de förstår användarna på första hand.
+    qualifications:
+      - En examen i ett relevant ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av att planera och genomföra användarforskning.
+  - title: Senior användarforskare
+    responsibilities:
+      - Planera och leda forskning för komplexa tjänster, såsom sådana som spänner över flera vårdmiljöer eller betjänar människor i kris.
+      - Samordna forskningen med tjänstens bredare planer och med andra teams forskning.
+      - Planera trygg forskning med människor i utsatta omständigheter och förbereda ansökningar om etikprövning och forskningsstyrning.
+      - Handleda och utveckla användarforskare och kvalitetssäkra deras arbete och etik.
+      - Bygga användarcentrerad praktik i nya team och hos kliniska intressenter.
+    qualifications:
+      - Betydande erfarenhet av användarforskning, på en nivå motsvarande en masterexamen.
+  - title: Ledande användarforskare
+    responsibilities:
+      - Leda och samordna användarforskning över flera team eller ett helt program.
+      - Se till att team använder ett användarcentrerat, underlagsbaserat förhållningssätt och att forskningen når de människor som påverkas mest av ojämlikhet i hälsa.
+      - Fastställa och kvalitetssäkra forskningspraxis, inklusive samtycke, skydd av utsatta, datahantering och deltagarnas välmående.
+      - Bygga gemensamma forskningstillgångar, såsom forskningsförråd och deltagarpaneler, som team kan återanvända tryggt.
+      - Ha linjeansvar för och utveckla användarforskare.
+    qualifications:
+      - Omfattande erfarenhet av att leda användarforskning över team.
+    job_evaluation_notes: Det finns ingen nivå i band 8a, eftersom UK GDaD PCF placerar ledande användarforskare vid G7 eller G6 och den här referensen följer det föreslagna bandet 8b. Ekonomiska resurser är nivå 3 för forskningsbudgeten, såsom rekrytering av deltagare och ersättningar.
+  - title: Chef för användarforskning
+    responsibilities:
+      - Leda yrket användarforskning och fastställa dess strategi, standarder och etik.
+      - Påverka organisationens strategi och prioriteringar med underlag om patienter, närstående och vårdpersonal.
+      - Attrahera, bygga och utveckla forskartalang, inklusive karriärvägar och rekrytering.
+      - Kvalitetssäkra forskningspraxis i hela organisationen och vara eskaleringspunkten för högriskfylld forskning.
+      - Företräda forskningspraxis hos organ för etik, skydd av utsatta och forskningsstyrning.
+    qualifications:
+      - Omfattande erfarenhet av att leda användarforskning och en forskningspraktik.
+    job_evaluation_notes: UK GDaD PCF placerar både ledande användarforskare och chef för användarforskning vid G7 eller G6, med föreslaget band 8b. Den här referensen placerar chefen i band 8c, i linje med cheferna för andra användarcentrerade designyrken, eftersom chefen leder yrket i hela organisationen och tar initiativ till dess forskningsprogram.

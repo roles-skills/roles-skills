@@ -1,0 +1,59 @@
+summary: Innkaupafulltrúar hjálpa stofnuninni að kaupa þær vörur og þjónustu sem hún þarf, á lögmætan hátt og á góðu verði, frá hversdagslegum innkaupum til formlegra útboða. Í stafrænni heilbrigðisstofnun er mikið af þessum útgjöldum til hugbúnaðar, skýjaþjónustu, leyfa, tækja og tækniþjónustu, svo þeir vinna náið með samstarfsfólki í stafrænum málum, upplýsingastjórnun og klínísku öryggi auk fjárhagsábyrgðaraðila.
+health_context:
+- Reglur um opinber innkaup gilda um útgjöld stofnunarinnar, svo hver kaup verða að fylgja réttri leið, halda skýrri úttektarslóð og koma sanngjarnt fram við birgja.
+- Mörg kaup eru stafræn, svo sem hugbúnaðarleyfi, skýjaáskriftir og tæki, og krefjast öryggis-, persónuverndar- og klínískra öryggisathugana fyrir samning.
+- Birgjar klínískra kerfa geta geymt gögn sjúklinga, svo samningar þurfa skýra skilmála um persónuvernd, eignarhald gagna og skil gagna.
+- Kaup gegnum rammasamninga og kvik innkaupakerfi sem smíðuð eru fyrir hið opinbera geta sparað tíma, en úttektir verða samt að fylgja reglum hvers rammasamnings.
+- Opinber útgjöld verða að sýna hagkvæma nýtingu fjármuna og samfélagslegt virði, svo sem störf á svæðinu, færni og minni kolefnislosun.
+levels:
+- title: Innkaupaaðstoðarmaður
+  summary: Veitir innkaupa- og umsýslustuðning, fylgir föstu verklagi, með innkaupafulltrúa nálægt.
+  responsibilities:
+  - Stofna og breyta innkaupapöntunum í innkaupakerfinu og athuga þær gegn samningum og samþykktum.
+  - Leysa hversdagslegar fyrirspurnir um reikninga og móttöku með birgjum, fjárhagsábyrgðaraðilum og fjármálum.
+  - Afla tilboða fyrir kaup af lágu verðmæti samkvæmt reglum stofnunarinnar.
+  - Halda birgjaskrám, vörulistum og samningaskránni uppfærðum.
+  - Svara hversdagslegum spurningum starfsfólks um hvernig á að kaupa.
+  qualifications:
+  - Menntun á þrepi 2 eða 3, iðnnám í innkaupum eða sambærileg reynsla.
+  - Reynsla af nákvæmri umsýslu- eða fjármálavinnu.
+  job_evaluation_notes: Fjárhagslegar auðlindir eru á stigi 2 því starfið stofnar og breytir pöntunum sem skuldbinda útgjöld samþykkt af öðrum.
+- title: Kaupandi
+  summary: Kaupir vörur og þjónustu með tilboðum og rammasamningsúttektum, þar á meðal hefðbundinn hugbúnað, tæki og leyfi, innan fasts verklags.
+  responsibilities:
+  - Framkvæma tilboð og frekari samkeppni samkvæmt rammasamningum, með stöðluðum sniðmátum og rafræna útboðskerfinu.
+  - Kaupa hefðbundinn hugbúnað, tæki og leyfi og fylgjast með endurnýjunum og fjölda leyfa.
+  - Athuga að staðlaðar kröfur um öryggi, persónuvernd og aðgengi séu innifaldar fyrir kaup.
+  - Semja um verð og skilmála fyrir hversdagsleg kaup.
+  - Halda skýrri úttektarslóð og birta tilkynningar um samningsval þar sem reglur krefjast þess.
+  - Greina útgjaldagögn til að finna útgjöld utan samninga og leggja til betri leiðir.
+  qualifications:
+  - Innkaupamenntun á vottorðsstigi, iðnnám í innkaupum eða sambærileg reynsla.
+  - Reynsla af kaupum með tilboðum eða rammasamningum.
+  job_evaluation_notes: Fjárhagslegar auðlindir eru á stigi 3 því starfið kaupir vistir og þjónustu fyrir hönd fjárhagsábyrgðaraðila.
+- title: Innkaupafulltrúi
+  summary: Stýrir innkaupum af miðlungs verðmæti og flækjustigi, þar á meðal formlegum útboðum, frá skipulagi til samningsvals, með eldri innkaupafulltrúa til ráðgjafar.
+  responsibilities:
+  - Stýra formlegum útboðum og rammasamningskeppnum frá skipulagi til vals, stýra tímaáætlunum og skýringarspurningum.
+  - Hjálpa fjárhagsábyrgðaraðilum að skrifa skýrar, niðurstöðumiðaðar kröfulýsingar, þar á meðal tæknilegar kröfur og kröfur um persónuvernd.
+  - Setja upp mat, athuga tilboð með tilliti til samræmis, styðja matsaðila og skrá samræmingu.
+  - Skrifa valskýrslur og endurgjöf til bjóðenda og stýra biðtímanum.
+  - Fella inn spurningar um samfélagslegt virði og sjálfbærni sem hæfa samningnum.
+  - Afhenda samningastjórum samninga með skýrum gangsetningar- og útgönguáætlunum.
+  - Þjálfa fjárhagsábyrgðaraðila í því hvernig á að kaupa og hafa umsjón með innkaupaaðstoðarmönnum.
+  qualifications:
+  - Viðurkennd fagmenntun í innkaupum á miðstigi, eða sambærileg reynsla.
+  - Reynsla af framkvæmd formlegra útboða samkvæmt reglum um opinber innkaup.
+- title: Eldri innkaupafulltrúi
+  summary: Stýrir flóknum innkaupum, svo sem klínískum kerfum, skýjaþjónustu og tækniþjónustu, og ráðleggur um rétta leið á markað, með mikið svigrúm innan innkaupastefnu.
+  responsibilities:
+  - Stýra flóknum innkaupum af miklu verðmæti og velja réttu leiðina á markað og verklag.
+  - Stýra snemmbúnu samráði við markaðinn og beiðnum um upplýsingar og halda samkeppni sanngjarnri.
+  - Hanna matsviðmið og vægi með tæknilegum leiðtogum, klínískum leiðtogum og leiðtogum í upplýsingastjórnun og stýra samræmingu.
+  - Tryggja að samningar um tækni innihaldi skilmála um samvirkni, öryggi, eignarhald gagna, útgöngu og skil gagna.
+  - Semja við bjóðendur þar sem verklagið leyfir það og samþykkja lokaskilmála.
+  - Ráðleggja um samningsbreytingar, framlengingar og beina veitingu og hættuna á kæru.
+  - Leiðbeina innkaupafulltrúum og kaupendum og athuga vinnu þeirra.
+  qualifications:
+  - Viðurkennd fagmenntun í innkaupum á framhaldsstigi, eða sambærileg reynsla.
+  - Mikil reynsla af forystu flókinna útboða, helst fyrir tækni eða klínísk kerfi.

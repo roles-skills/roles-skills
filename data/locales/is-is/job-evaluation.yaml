@@ -1,0 +1,159 @@
+# Job evaluation factors in Icelandic. Keys are the English factor ids. Points
+# stay as in the English file.
+communication:
+  name: Samskipta- og tengslafærni
+  description: Færni sem þarf til að eiga samskipti við samstarfsfólk, sjúklinga, almenning og samstarfsaðila og byggja upp tengsl við þau. Tekur mið af því hve flóknar, viðkvæmar eða umdeildar upplýsingarnar eru og af hindrunum í vegi skilnings eða samþykkis.
+  levels:
+    "1": Gefur og tekur við hversdagslegum upplýsingum munnlega, einkum við samstarfsfólk.
+    "2": Gefur og tekur við hversdagslegum upplýsingum munnlega, skriflega eða rafrænt, við samstarfsfólk og aðra.
+    "3": Gefur hversdagslegar upplýsingar sem krefjast háttvísi eða sannfæringar, eða flóknar eða viðkvæmar upplýsingar, eða einfalda þjálfun fyrir hópa.
+    "4": Gefur flóknar, viðkvæmar eða umdeildar upplýsingar sem krefjast sannfæringar-, samninga- eða þjálfunarfærni, eða mjög flóknar upplýsingar.
+    "5": Gefur mjög flóknar eða umdeildar upplýsingar sem krefjast þróaðrar sannfæringar- og samningafærni, kynnir fyrir stórum hópum, eða miðlar þar sem verulegar hindranir eru í vegi samþykkis.
+    "6": Gefur mjög flóknar, mjög umdeildar upplýsingar þar sem verulegar hindranir eru í vegi samþykkis, með samskiptafærni á hæsta stigi.
+knowledge:
+  name: Þekking, þjálfun og reynsla
+  description: Sú þekking og reynsla sem þarf til að vinna starfið, hvaðan sem hún kemur, þar með talið formlegt nám, réttindi og reynsla.
+  levels:
+    "1": Nokkurt hversdagslegt verklag, lært á vinnustað á stuttu aðlögunartímabili.
+    "2": Ýmislegt hversdagslegt verklag, lært með þjálfun á vinnustað og aðlögun.
+    "3": Ýmislegt verklag, þar á meðal sumt sem er ekki hversdagslegt, sem krefst fræða á grunnstigi (til dæmis menntunar á þrepi 3 eða sambærilegrar reynslu).
+    "4": Ýmislegt verklag, að mestu ekki hversdagslegt, sem krefst fræða á miðstigi (til dæmis diplómanáms eða sambærilegrar reynslu).
+    "5": Sérþekking á fagsviði, studd fræðum eða starfsreynslu (bakkalárstig eða sambærilegt).
+    "6": Sérhæfð þekking á öllu fagsviðinu (framhaldsnám á eftir bakkalárstigi eða sambærilegt).
+    "7": Mjög þróuð sérhæfð þekking á öllu fagsviðinu (meistarastig eða sambærilegt).
+    "8": Háþróuð þekking (doktorspróf auk frekara náms eða sambærilegt), eða sérhæfð þekking á fleiri en einu fagsviði, byggð upp yfir langan tíma.
+analytical:
+  name: Greiningar- og dómgreindarfærni
+  description: Sú greining og dómgreind sem þarf til að vinna úr upplýsingum, leysa vandamál og taka ákvarðanir.
+  levels:
+    "1": Leggur mat á einföld atriði eða aðstæður.
+    "2": Leggur mat á atriði eða aðstæður, sumar sem krefjast greiningar.
+    "3": Leggur mat á ýmis atriði eða aðstæður sem krefjast greiningar eða samanburðar valkosta.
+    "4": Leggur mat á flókin atriði eða aðstæður sem krefjast greiningar, túlkunar og samanburðar valkosta.
+    "5": Leggur mat á mjög flókin atriði eða aðstæður sem krefjast greiningar, túlkunar og samanburðar valkosta.
+planning:
+  name: Skipulags- og áætlanafærni
+  description: Sú áætlanagerð og skipulagning sem þarf til að reka starfsemi, áætlanir, þjónustu eða stefnur.
+  levels:
+    "1": Skipuleggur eigin daglega vinnu.
+    "2": Skipuleggur einföld verk eða athafnir, sumar áframhaldandi.
+    "3": Skipuleggur margar flóknar athafnir og aðlagar áætlanir eftir þörfum.
+    "4": Skipuleggur fjölbreytt úrval flókinna athafna eða stefna og aðlagar þær eftir þörfum.
+    "5": Mótar langtímastefnuáætlanir, með óvissu og áhrifum á alla stofnunina.
+physical-skills:
+  name: Líkamleg færni
+  description: Sú líkamlega færni sem þarf, svo sem handlagni, samhæfing, lyklaborðsfærni og akstur.
+  levels:
+    "1": Lítil þörf fyrir líkamlega færni.
+    "2": Færni sem fæst með æfingu, svo sem venjuleg lyklaborðsnotkun eða akstur.
+    "3": Þróuð færni sem krefst hraða eða nákvæmni, svo sem háþróuð lyklaborðsnotkun.
+    "4": Mjög þróuð færni sem krefst nákvæmni eða hraða og mikillar samhæfingar handa og augna.
+    "5": Hæsta stig nákvæmni, hraða og samhæfingar.
+patient-care:
+  name: Ábyrgð á umönnun sjúklinga og skjólstæðinga
+  description: Ábyrgð á mati, meðferð eða umönnun sjúklinga og skjólstæðinga eða ráðgjöf til þeirra. Í flestum stafrænum hlutverkum og hlutverkum í rekstri er um að ræða aðeins stöku samskipti.
+  levels:
+    "1": Aðstoðar sjúklinga, skjólstæðinga eða aðstandendur í stökum samskiptum.
+    "2": Veitir sjúklingum eða almenningi beint almenna ráðgjöf, upplýsingar eða þjónustu sem er ekki klínísk.
+    "3": Veitir persónulega umönnun, grunnþjónustu í klínískri tækni eða grunnráðgjöf á klínísku sviði.
+    "4": Annast klíníska umönnun, veitir þjónustu í klínískri tækni eða veitir ráðgjöf um umönnun sjúklinga.
+    "5": Þróar umönnunaráætlanir, veitir sérhæfða þjónustu í klínískri tækni eða sérhæfða ráðgjöf um umönnun sjúklinga.
+    "6": Þróar sérhæfða umönnun, veitir mjög sérhæfða ráðgjöf eða ber ábyrgð á hluta klínískrar þjónustu.
+    "7": Ber ábyrgð á að veita klíníska þjónustu eða umönnunarþjónustu.
+    "8": Ábyrgð á vettvangi stofnunarinnar á klínískri þjónustu eða umönnunarþjónustu.
+policy:
+  name: Ábyrgð á stefnumótun og þróun þjónustu
+  description: Ábyrgð á að þróa og framkvæma stefnu og þjónustu og hversu langt áhrifin ná.
+  levels:
+    "1": Fylgir stefnu sem aðrir hafa mótað; getur gert athugasemdir við breytingar.
+    "2": Framkvæmir stefnu á eigin sviði og leggur til breytingar á framkvæmd hennar.
+    "3": Framkvæmir stefnu á eigin sviði og leggur til breytingar sem hafa áhrif á önnur svið.
+    "4": Framkvæmir stefnu og þróar stefnu eða þjónustu fyrir eina þjónustu eða mörg svið.
+    "5": Framkvæmir og þróar ýmsa stefnu eða þjónustu fyrir heilt svið.
+    "6": Ábyrgð á vettvangi stofnunarinnar á umfangsmikilli stefnu- eða þjónustuþróun innan stofnunarinnar eða utan hennar.
+financial-resources:
+  name: Ábyrgð á fjárhagslegum og efnislegum auðlindum
+  description: Ábyrgð á fé, fjárhagsáætlunum, búnaði, birgðum, húsnæði og öðrum eignum.
+  levels:
+    "1": Ber persónulega ábyrgð á búnaði og auðlindum sem notuð eru í eigin vinnu.
+    "2": Meðhöndlar reiðufé eða verðmæti, hefur umsjón með búnaði sem aðrir nota, heldur utan um birgðir eða heimilar litlar greiðslur.
+    "3": Heimilar greiðslur, kaupir eignir eða vörur, vaktar eða stýrir framseldri fjárhagsáætlun, eða viðheldur eignum.
+    "4": Stýrir eða ákveður fjárhagsáætlun deildar eða þjónustu, eða kaupir eða viðheldur eignum hennar.
+    "5": Stýrir eða ákveður fjárhagsáætlanir, eða stýrir eignum, fyrir margar þjónustur.
+    "6": Ábyrgð á vettvangi stofnunarinnar á fjármálum eða eignum stofnunarinnar.
+people:
+  name: Ábyrgð á fólki
+  description: Ábyrgð á að stýra, hafa umsjón með, þjálfa eða þróa starfsfólk, eða á að veita mannauðsþjónustu.
+  levels:
+    "1": Sýnir nýju eða reynsluminna samstarfsfólki eigin vinnulag.
+    "2": Hefur daglegt eftirlit með starfsfólki eða samræmir störf þess, þjálfar aðra reglulega eða veitir grunnráðgjöf í mannauðsmálum.
+    "3": Stýrir hópi starfsfólks daglega, veitir kjarnaþjálfun eða sérhæfða þjálfun, eða veitir mannauðsráðgjöf á kjarnasviðum.
+    "4": Stýrir málaflokki eða deild sem línustjórnandi, hannar þjálfunaráætlanir sem megintilgang starfsins, eða veitir alla mannauðsþjónustu.
+    "5": Stýrir mörgum deildum sem línustjórnandi, eða stýrir þjálfun eða stórum hluta mannauðsmála fyrir alla stofnunina.
+    "6": Ábyrgð á vettvangi stofnunarinnar á fólki stofnunarinnar eða mannauðsstarfsemi hennar.
+information-resources:
+  name: Ábyrgð á upplýsingaauðlindum
+  description: Ábyrgð á upplýsingum og upplýsingakerfum, á pappír eða stafrænum, þar með talið skrám, gögnum og þeim kerfum sem geyma þau.
+  levels:
+    "1": Skráir upplýsingar sem starfsmaðurinn býr sjálfur til.
+    "2": Færir inn eða geymir gögn sem aðrir hafa safnað, eða skrifar stöku skýrslur eða fyrirspurnir.
+    "3": Ritar formlegar fundargerðir, skrifar reglulega skýrslur eða fyrirspurnir, eða viðheldur upplýsingakerfum sem megintilgang starfsins.
+    "4": Aðlagar eða hannar upplýsingakerfi samkvæmt lýsingu annarra, eða stýrir upplýsingakerfum deildar sem megintilgang starfsins.
+    "5": Hannar og þróar stór upplýsingakerfi, eða stýrir upplýsingakerfum fyrir margar þjónustur sem megintilgang starfsins.
+    "6": Stýrir og þróar upplýsingakerfi þvert á stofnunina sem megintilgang starfsins.
+    "7": Ábyrgð á vettvangi stofnunarinnar á upplýsingakerfum stofnunarinnar.
+research:
+  name: Ábyrgð á rannsóknum og þróun
+  description: Ábyrgð á formlegum rannsóknum, þróun, mati, úttektum, prófunum og tilraunum.
+  levels:
+    "1": Framkvæmir kannanir eða úttektir fyrir eigin vinnu; tekur stundum þátt í rannsóknum eða prófunum.
+    "2": Sinnir reglulega rannsóknum, þróun, tilraunum eða prófunum á búnaði og kerfum sem hluta af starfinu.
+    "3": Sinnir rannsóknum eða þróun innan formlegra áætlana sem megintilgang starfsins.
+    "4": Samræmir og framkvæmir rannsóknar- og þróunaráætlanir.
+    "5": Hefur frumkvæði að rannsóknar- og þróunaráætlunum sem styðja markmið stofnunarinnar og þróar þær.
+    "6": Hefur frumkvæði að rannsóknar- og þróunaráætlunum með áhrifum út fyrir stofnunina og þróar þær.
+freedom-to-act:
+  name: Svigrúm til athafna
+  description: Að hve miklu leyti starfsmaðurinn ákveður hvað á að gera og hvernig, og hve náið er fylgst með vinnunni.
+  levels:
+    "1": Vinnur innan fasts verklags, með náið eftirlit.
+    "2": Fylgir stöðluðu verklagi og fordæmi; yfirleitt er einhver til taks til samráðs; vinnan getur verið yfirfarin.
+    "3": Fylgir skilgreindri stefnu og verklagi; vinnunni er stýrt en hún er ekki unnin undir eftirliti.
+    "4": Niðurstöður eru skilgreindar en starfsmaðurinn ákveður hvernig þeim er náð, innan víðrar stefnu.
+    "5": Vinnur innan almennrar stefnu og ákveður í flestum tilvikum hvernig hún er túlkuð.
+    "6": Þýðir almenna stefnu og áherslur í markmið og viðmið.
+physical-effort:
+  name: Líkamlegt erfiði
+  description: Það líkamlega erfiði sem starfið krefst, eftir tíðni, lengd og álagi.
+  levels:
+    "1": Situr, stendur og gengur, með lítið líkamlegt erfiði.
+    "2": Situr eða stendur reglulega í þröngri stöðu, eða stöku sinnum létt til miðlungs erfiði.
+    "3": Reglulega létt erfiði í langan tíma, eða reglulega miðlungs erfiði í stuttan tíma.
+    "4": Stöðugt létt erfiði, reglulega miðlungs erfiði í langan tíma, eða stöku sinnum mikið erfiði.
+    "5": Stöðugt miðlungs erfiði, eða reglulega mikið erfiði.
+mental-effort:
+  name: Andlegt erfiði
+  description: Sú einbeiting sem krafist er, eftir tíðni, lengd og því hve fyrirsjáanleg vinnan er.
+  levels:
+    "1": Almenn athygli; stöku sinnum einbeiting að fyrirsjáanlegri vinnu.
+    "2": Reglulega einbeiting að fyrirsjáanlegri vinnu, eða stöku sinnum einbeiting að ófyrirsjáanlegri vinnu.
+    "3": Reglulega einbeiting að ófyrirsjáanlegri vinnu, eða stöku sinnum langvarandi einbeiting.
+    "4": Reglulega langvarandi einbeiting, eða stöku sinnum mjög mikil einbeiting.
+    "5": Reglulega mjög mikil einbeiting.
+emotional-effort:
+  name: Tilfinningalegt erfiði
+  description: Tilfinningalegar kröfur starfsins vegna beinnar eða óbeinnar útsetningar fyrir átakanlegum aðstæðum, svo sem við lestur átakanlegra skráa eða meðferð alvarlegra atvika.
+  levels:
+    "1": Sjaldgæf útsetning, eða stöku óbein útsetning, fyrir átakanlegum aðstæðum.
+    "2": Stöku útsetning, eða regluleg óbein útsetning, fyrir átakanlegum aðstæðum.
+    "3": Regluleg útsetning fyrir átakanlegum aðstæðum, eða stöku sinnum fyrir mjög átakanlegum aðstæðum.
+    "4": Stöku útsetning fyrir áfallavaldandi aðstæðum, eða reglulega fyrir mjög átakanlegum aðstæðum.
+working-conditions:
+  name: Vinnuaðstæður
+  description: Útsetning fyrir óþægilegum aðstæðum eða hættum. Nær stöðug skjánotkun flesta daga telst á stigi 2.
+  levels:
+    "1": Sjaldgæf útsetning fyrir óþægilegum aðstæðum.
+    "2": Stöku óþægilegar aðstæður, regluleg ferðalög eða útivinna, eða nær stöðug skjánotkun flesta daga.
+    "3": Reglulega óþægilegar aðstæður, eða stöku sinnum mjög óþægilegar aðstæður.
+    "4": Nokkur útsetning fyrir hættum, eða reglulega mjög óþægilegar aðstæður.
+    "5": Veruleg útsetning fyrir hættum.

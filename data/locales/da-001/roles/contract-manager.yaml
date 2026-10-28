@@ -1,0 +1,49 @@
+summary: Kontraktansvarlige sørger for, at organisationen får det, den betaler for, efter at en kontrakt er underskrevet. De styrer leverandørens præstation, betalinger, ændringer, tvister, fornyelser og exit og opbygger relationer til nøgleleverandører. I en digital sundheds- og plejeorganisation er mange af de vigtigste kontrakter for kliniske systemer, cloud-hosting og teknologiydelser, som patienter og medarbejdere er afhængige af hver dag.
+health_context:
+- Udfald eller svigt i kliniske systemer kan påvirke patientplejen, så de kontraktansvarlige overvåger tilgængelighed, hændelsesrespons og supportniveauer nøje og bruger kontraktuelle misligholdelsesbeføjelser, når det er nødvendigt.
+- Leverandører behandler ofte patientdata, så kontrakter styres sammen med kolleger inden for informationsstyring og sikkerhed, herunder vilkår om databeskyttelse, audits og håndtering af brud.
+- Exit og returnering af data skal planlægges fra starten, så patientjournaler kan flyttes til et nyt system i et brugbart format, og gamle kopier slettes sikkert.
+- Kontraktændringer skal følge udbudsreglerne, så de kontraktansvarlige kontrollerer, om en ændring kræver et nyt udbud.
+- Leverandørers releases kan ændre, hvordan et klinisk system opfører sig, så de kontraktansvarlige sikrer, at leverandørerne opfylder deres forpligtelser vedrørende klinisk sikkerhed.
+levels:
+- title: Kontraktansvarlig
+  summary: Styrer en portefølje af kontrakter, herunder kontrakter om teknologi og kliniske systemer, fra opstart til fornyelse inden for rammerne for kontraktstyring. Kaldes også kontraktmedarbejder.
+  responsibilities:
+  - Styre en portefølje af kontrakter og holde kontraktregistret, dokumenterne og vigtige datoer ajour.
+  - Gennemføre regelmæssige præstationsgennemgange med leverandører ud fra serviceniveauer og nøgleindikatorer.
+  - Kontrollere fakturaer mod kontraktvilkårene og løse tvister om fakturering.
+  - Forhandle og behandle kontraktændringer og tillæg inden for udbudsreglerne.
+  - Følge brugen af licenser, fornyelser og opsigelsesvarsler og planlægge fornyelser og genudbud på tværs af porteføljen.
+  - Holde exit-planer og dataregistre ajour for hver kontrakt.
+  - Samarbejde med kolleger inden for informationsstyring og sikkerhed om kontrol af leverandørers databeskyttelse og sikkerhed.
+  qualifications:
+  - En anerkendt uddannelse i indkøb eller kontraktstyring på avanceret niveau eller tilsvarende erfaring.
+  - Erfaring med at styre servicekontrakter, helst inden for teknologi.
+  job_evaluation_notes: Stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 7. Analyse er niveau 5 for vurderinger af komplekse kontraktvilkår og tvister, planlægning er niveau 4 for fornyelser på tværs af porteføljen, og økonomiske ressourcer er niveau 4, fordi jobbet styrer udgifterne i en portefølje af servicekontrakter.
+- title: Senior kontraktansvarlig
+  summary: Styrer organisationens strategiske kontrakter og kontrakter med høj risiko, såsom den elektroniske patientjournal og cloud-hosting, og leder relationerne til nøgleleverandører.
+  responsibilities:
+  - Styre strategiske kontrakter om kliniske systemer og teknologiydelser, herunder opstart af nye kontrakter.
+  - Lede strategiske gennemgange med nøgleleverandører, der omfatter præstation, køreplan, risici og forbedringsplaner.
+  - Bruge kontraktuelle misligholdelsesbeføjelser, såsom servicekreditter og afhjælpningsplaner, når ydelsen ikke er tilfredsstillende.
+  - Forhandle kontraktændringer, fornyelser og forlig i tvister.
+  - Skrive og teste exit- og overgangsplaner, herunder returnering af data i standardformater og sikker sletning.
+  - Vurdere leverandørrisici, såsom økonomisk sundhed, cybersikkerhed og forsyningskæde, og planlægge for leverandørsvigt.
+  - Coache og føre tilsyn med kontraktansvarlige.
+  qualifications:
+  - En anerkendt uddannelse i indkøb eller kontraktstyring på avanceret niveau eller en kandidatgrad i et beslægtet fag eller tilsvarende erfaring.
+  - Betydelig erfaring med at styre strategiske teknologikontrakter eller kontrakter om outsourcede services.
+  job_evaluation_notes: Stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8a. Viden, analyse og handlefrihed scores efter profilen for lønramme 8a, fordi jobbet styrer organisationens strategiske kontrakter med ringe supervision. Økonomiske ressourcer er niveau 4, fordi jobbet styrer udgifterne og aktiverne i servicekontrakter af høj værdi.
+- title: Ledende kontraktansvarlig
+  summary: Leder kontrakt- og leverandørstyringen i hele organisationen, fastlægger rammerne for kontraktstyring og styrer kontraktteamet.
+  responsibilities:
+  - Fastlægge organisationens rammer, standarder og værktøjer for kontraktstyring.
+  - Lede kontraktstyringsteamet og dets portefølje af kontrakter.
+  - Lede styringen af de mest kritiske leverandørrelationer og løse større tvister.
+  - Fastsætte standarder for exit-planlægning og returnering af data og lede exit fra strategiske kontrakter.
+  - Rapportere kontraktpræstation, leverandørrisiko og besparelser til direktionsudvalg.
+  - Rådgive om opsigelse, genudbud og leverandørsvigt.
+  qualifications:
+  - En anerkendt uddannelse i indkøb eller kontraktstyring på avanceret niveau eller en kandidatgrad i et beslægtet fag eller tilsvarende erfaring.
+  - Omfattende erfaring med at lede kontraktstyring af komplekse services.
+  job_evaluation_notes: Stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8b. Planlægning er niveau 5 for rammerne for kontraktstyring i hele organisationen, økonomiske ressourcer er niveau 5, fordi jobbet overvåger kontrakter på tværs af mange services, og personale er niveau 4, fordi jobbet har personaleansvar for kontraktteamet.

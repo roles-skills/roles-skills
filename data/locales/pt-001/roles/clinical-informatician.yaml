@@ -1,0 +1,59 @@
+summary: Os especialistas em informática clínica são clínicos registrados, como médicos, enfermeiros, farmacêuticos e profissionais de saúde aliados, que usam seu conhecimento clínico para dar forma aos serviços de saúde digital da organização. Garantem que os sistemas clínicos, os dados e o apoio à decisão se ajustem à forma como o cuidado é prestado, sejam seguros de usar e melhorem os resultados dos pacientes e a experiência de clínicos e equipes de cuidados.
+health_context:
+- A função exige conhecimento clínico atual, por isso a maioria das vagas exige registro em um órgão profissional clínico e alguma prática clínica contínua.
+- Os especialistas em informática clínica dão pareceres especializados sobre como os sistemas afetam o cuidado dos pacientes, por isso seu julgamento afeta diretamente a segurança dos pacientes.
+- Trabalham em estreita colaboração com os responsáveis pela segurança clínica, contribuindo com conhecimento clínico para a identificação de perigos e para os dossiês de segurança.
+- Bons dados clínicos dependem do uso consistente de terminologias clínicas como a SNOMED CT, por isso ajudam a projetar registros estruturados e o apoio à decisão.
+- Atuam como ponte entre clínicos, equipes de cuidados e equipes digitais e muitas vezes lideram o engajamento clínico nas mudanças de sistemas.
+levels:
+- title: Especialista em informática clínica
+  summary: Traz conhecimento clínico ao projeto, à configuração, aos testes e à adoção de sistemas clínicos, trabalhando em uma equipe de produto ou de programa sob a orientação de um especialista sênior em informática clínica.
+  responsibilities:
+  - Mapear fluxos de trabalho clínicos com clínicos e equipes de cuidados e transformá-los em requisitos claros.
+  - Projetar e testar o conteúdo do sistema, como formulários, conjuntos de solicitações e planos de cuidados, em relação a cenários clínicos.
+  - Participar de oficinas de perigos e dar pareceres clínicos sobre riscos e controles.
+  - Apoiar clínicos e equipes de cuidados a adotar novos sistemas com segurança, incluindo treinamento e apoio na entrada em operação.
+  - Verificar se os dados clínicos são registrados de forma consistente com as terminologias clínicas acordadas.
+  - Reunir feedback e dados sobre o uso do sistema e propor melhorias.
+  qualifications:
+  - Registro vigente em um órgão profissional clínico, com experiência de prática clínica.
+  - Experiência no uso de sistemas clínicos na prática, ou experiência equivalente em mudança digital.
+  job_evaluation_notes: O cuidado de pacientes é pontuado no nível 4 porque a função aconselha sobre o cuidado dos pacientes por meio do projeto de sistemas clínicos. O esforço emocional reflete a revisão regular de prontuários e incidentes clínicos.
+- title: Especialista sênior em informática clínica
+  summary: Lidera a contribuição clínica a um grande sistema clínico, produto ou programa, dando pareceres especializados sobre como os serviços digitais afetam o cuidado e a segurança dos pacientes.
+  responsibilities:
+  - Liderar o projeto clínico de um grande sistema ou produto clínico, definindo padrões de conteúdo e de configuração.
+  - Dar pareceres especializados às equipes de produto sobre fluxos de trabalho clínicos, apoio à decisão e segurança.
+  - Trabalhar com o responsável pela segurança clínica para identificar perigos, acordar controles e fornecer evidências clínicas para os dossiês de segurança.
+  - Liderar o engajamento clínico e a adoção entre serviços, defendendo o uso seguro junto a seus pares clínicos.
+  - Planejar e realizar avaliações e auditorias clínicas do uso e dos benefícios dos sistemas.
+  - Orientar especialistas em informática clínica e clínicos novos no trabalho digital.
+  qualifications:
+  - Registro vigente em um órgão profissional clínico, com experiência clínica substancial.
+  - Uma qualificação de pós-graduação em informática clínica ou em saúde, ou experiência equivalente.
+  job_evaluation_notes: O cuidado de pacientes é pontuado no nível 5 pelos pareceres especializados sobre o cuidado dos pacientes. A pesquisa está no nível 3 porque a avaliação e a auditoria clínica dos sistemas são parte principal da função.
+- title: Especialista líder em informática clínica
+  summary: Lidera a informática clínica de um portfólio de sistemas clínicos ou de um ambiente de cuidado, define padrões clínicos de projeto e lidera uma equipe de especialistas em informática clínica.
+  responsibilities:
+  - Definir padrões e princípios clínicos de projeto para os sistemas clínicos de um portfólio.
+  - Liderar uma equipe de especialistas em informática clínica, definindo prioridades e apoiando seu desenvolvimento profissional.
+  - Aconselhar os comitês de programa e a liderança sênior sobre o risco, o benefício e as prioridades clínicas dos sistemas clínicos.
+  - Liderar as decisões clínicas sobre apoio à decisão, alertas e dados estruturados entre serviços.
+  - Construir redes de defensores clínicos e liderar o engajamento clínico em mudanças de grande escala.
+  - Encomendar e liderar avaliações e usar as evidências para dar forma ao roteiro.
+  qualifications:
+  - Registro vigente em um órgão profissional clínico, com ampla experiência clínica.
+  - Uma qualificação de pós-graduação em informática clínica ou em saúde, ou experiência equivalente na liderança de trabalho de informática clínica.
+- title: Chefia de informática clínica
+  summary: Lidera a função de informática clínica da organização e sua instância de decisão de projeto clínico, garantindo que todos os sistemas clínicos sejam projetados, adotados e melhorados com forte liderança clínica.
+  responsibilities:
+  - Definir a estratégia de informática clínica e liderar a instância de decisão de projeto clínico da organização.
+  - Liderar e desenvolver a função de informática clínica, incluindo seu plano de força de trabalho e seu orçamento.
+  - Dar pareceres altamente especializados à equipe executiva sobre o efeito do investimento digital no cuidado dos pacientes.
+  - Garantir que os sistemas clínicos cumpram os padrões de segurança clínica, de terminologia e de dados.
+  - Representar a organização perante parceiros de saúde e de cuidados, órgãos profissionais e redes acadêmicas.
+  - Liderar parcerias de pesquisa e avaliação para construir as evidências da saúde digital.
+  qualifications:
+  - Registro vigente em um órgão profissional clínico, com ampla experiência clínica e de liderança.
+  - Mestrado em informática clínica ou em saúde, ou experiência equivalente na liderança da informática clínica em nível de organização.
+  job_evaluation_notes: O cuidado de pacientes é pontuado no nível 6 pelos pareceres altamente especializados sobre o cuidado dos pacientes nos sistemas clínicos da organização.

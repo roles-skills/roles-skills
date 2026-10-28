@@ -20,14 +20,14 @@ Business architects build a clear, joined-up view of how the organization delive
 
 ## UK GDaD PCF role description (English original)
 
-> A business architect develops an integrated view of an enterprise, such as a business area or organization. They use this view to help their organization put its strategy in place.
+> A business architect develops an integrated view of an enterprise, such as a business area or organisation. They use this view to help their organisation put its strategy in place.
 > 
 > In this role, you will:
 > - understand and apply business architectural principles, techniques, and tools to business challenges
-> - ensure design work from projects and programs aligns with strategy
+> - ensure design work from projects and programmes aligns with strategy
 > - ensure business change is implemented effectively to meet strategy
-> - aggregate and disaggregate complex information from across your organization
-> - communicate complex information about the organization to stakeholders
+> - aggregate and disaggregate complex information from across your organisation
+> - communicate complex information about the organisation to stakeholders
 
 ## Role levels
 
@@ -47,7 +47,7 @@ Business architects build a clear, joined-up view of how the organization delive
 > At this role level, you will:
 > - develop your knowledge of the frameworks, practice, and principles of business architecture
 > - work with other business architects to support the production of clear business architecture outputs
-> - support during workshops and meetings with stakeholders in the organization
+> - support during workshops and meetings with stakeholders in the organisation
 
 ### Responsibilities
 
@@ -60,7 +60,7 @@ Business architects build a clear, joined-up view of how the organization delive
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Business architecture](../../skills/#business-architecture) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of business architecture frameworks, principles and techniques<br>• support the application of frameworks to business change in an organization, under guidance |
+| [Business architecture](../../skills/#business-architecture) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of business architecture frameworks, principles and techniques<br>• support the application of frameworks to business change in an organisation, under guidance |
 | [Communicating information](../../skills/#communicating-information) | UK GDaD PCF | Awareness | You can:<br>• listen to the needs of design and business stakeholders and interpret information<br>• take part in discussions within a multidisciplinary team |
 | [Consultancy](../../skills/#consultancy) | UK GDaD PCF | Awareness | You can:<br>• show an understanding of the need for consulting in your role, and its purpose<br>• work under guidance to identify what advice, guidance and recommendations might be appropriate, usually by referring to previous work by others<br>• show an understanding of how to frame problems that need to be solved |
 | [Making and guiding decisions](../../skills/#making-and-guiding-decisions) | UK GDaD PCF | Awareness | You can:<br>• recommend decisions and describe the reasoning behind them<br>• identify and articulate technical disputes between direct peers and local stakeholders |
@@ -90,8 +90,8 @@ Business architects build a clear, joined-up view of how the organization delive
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -119,7 +119,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts pl
 > - break down complexity and produce clear outputs
 > - explain complex business problems using clear language and artefacts
 > - bring together disconnected information to inform decision making
-> - recognize issues that cut across different areas of the organization and present opportunities for improvement
+> - recognise issues that cut across different areas of the organisation and present opportunities for improvement
 
 ### Responsibilities
 
@@ -133,10 +133,10 @@ Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts pl
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Business architecture](../../skills/#business-architecture) | UK GDaD PCF | Working | You can:<br>• help support the adoption of business architecture<br>• clearly communicate business architecture frameworks, principles, and techniques<br>• support the production of a multidimensional view of your organization<br>• assess the impact of strategies on the organization, highlighting risks and issues |
+| [Business architecture](../../skills/#business-architecture) | UK GDaD PCF | Working | You can:<br>• help support the adoption of business architecture<br>• clearly communicate business architecture frameworks, principles, and techniques<br>• support the production of a multidimensional view of your organisation<br>• assess the impact of strategies on the organisation, highlighting risks and issues |
 | [Communicating information](../../skills/#communicating-information) | UK GDaD PCF | Practitioner | You can:<br>• work collaboratively in a group and build relationships with others<br>• identify issues through Agile 'health checks' and work with others to address them<br>• manage stakeholder expectations<br>• be flexible and capable of proactive and reactive communication<br>• host or moderate difficult discussions within the team or with senior stakeholders |
 | [Consultancy](../../skills/#consultancy) | UK GDaD PCF | Working | You can:<br>• provide advice, guidance and recommendations based on your specialist knowledge and experience<br>• propose methodologies to follow and approaches to implementation<br>• frame problems so they can easily be understood, and troubleshoot where required, to support the business in operating more effectively |
-| [Making and guiding decisions](../../skills/#making-and-guiding-decisions) | UK GDaD PCF | Working | You can:<br>• make decisions characterized by managed levels of risk and complexity, and recommend decisions as risk and complexity increase<br>• resolve technical disputes between wider peers and indirect stakeholders, considering all views and opinions |
+| [Making and guiding decisions](../../skills/#making-and-guiding-decisions) | UK GDaD PCF | Working | You can:<br>• make decisions characterised by managed levels of risk and complexity, and recommend decisions as risk and complexity increase<br>• resolve technical disputes between wider peers and indirect stakeholders, considering all views and opinions |
 | [Methods and tools](../../skills/#methods-and-tools) | UK GDaD PCF | Working | You can:<br>• select and use the most appropriate tools and techniques to support the planning, analysis, development, testing, implementation and improvement of systems and services within a project |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Working | You can:<br>• identify important stakeholders and communicate with them clearly and regularly<br>• tailor communication to stakeholders' needs and work with them to build relationships while meeting user needs<br>• build and reach consensus with stakeholders<br>• work to improve stakeholder relationships using evidence to explain decisions |
 | [Strategic thinking](../../skills/#strategic-thinking) | UK GDaD PCF | Working | You can:<br>• work within a strategic context and communicate how activities meet strategic goals<br>• contribute to the development of strategy and policies |
@@ -153,7 +153,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts pl
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -164,8 +164,8 @@ Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts pl
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -180,7 +180,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 5): health-sector adverts pl
 | 16 | Working conditions | 2 | 7 |
 | | **Total** | | **483** (Band 7: 466–539) |
 
-Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts place this role at Band 7. Knowledge is scored at master's level or equivalent, because the job models and analyzes services and care pathways across teams and organizations.
+Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts place this role at Band 7. Knowledge is scored at master's level or equivalent, because the job models and analyses services and care pathways across teams and organizations.
 
 ## Band 8a: Business architect
 
@@ -192,14 +192,14 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 > - support executive level work and management of the business architecture practice
 > - guide others in using appropriate business architectural tools and methods
 > - understand and apply business architectural principles, techniques, and tools to business scenarios
-> - create business architecture artefacts, including abstract representations of the organization, knowing when to apply them
+> - create business architecture artefacts, including abstract representations of the organisation, knowing when to apply them
 > - develop standard and scalable models to collect, aggregate, or disaggregate complex information
 
 ### Responsibilities
 
 - Develop current and target business architectures for a major service area, such as urgent care or community services.
 - Translate strategy and policy into capability changes and a roadmap of change.
-- Check that programme and project scope fits the target business architecture.
+- Check that program and project scope fits the target business architecture.
 - Work with clinical leads to assess how proposed changes affect care pathways, safety, and staff workload.
 - Guide other business architects in methods and tools.
 
@@ -207,10 +207,10 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Business architecture](../../skills/#business-architecture) | UK GDaD PCF | Practitioner | You can:<br>• apply and develop business architecture frameworks, principles and techniques in your organization<br>• advise and guide the organization to inform the implementation of its strategy<br>• share the value of business architecture with the organization<br>• produce clear multidimensional views of your organization to support decision making |
+| [Business architecture](../../skills/#business-architecture) | UK GDaD PCF | Practitioner | You can:<br>• apply and develop business architecture frameworks, principles and techniques in your organisation<br>• advise and guide the organisation to inform the implementation of its strategy<br>• share the value of business architecture with the organisation<br>• produce clear multidimensional views of your organisation to support decision making |
 | [Communicating information](../../skills/#communicating-information) | UK GDaD PCF | Expert | You can:<br>• mediate between people and mend relationships, communicating with stakeholders at all levels<br>• manage stakeholder expectations and host or moderate discussions about high risk and complexity, even within constrained timescales<br>• speak on behalf of and represent the community to large audiences inside and outside of government |
-| [Consultancy](../../skills/#consultancy) | UK GDaD PCF | Practitioner | You can:<br>• provide advice and recommendations to stakeholders based on your significant specialist knowledge and experience<br>• lead the definition of guidance and inform how the organization approaches delivery or uses digital and data skills more effectively |
-| [Making and guiding decisions](../../skills/#making-and-guiding-decisions) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterized by medium levels of risk and complexity, and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders |
+| [Consultancy](../../skills/#consultancy) | UK GDaD PCF | Practitioner | You can:<br>• provide advice and recommendations to stakeholders based on your significant specialist knowledge and experience<br>• lead the definition of guidance and inform how the organisation approaches delivery or uses digital and data skills more effectively |
+| [Making and guiding decisions](../../skills/#making-and-guiding-decisions) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterised by medium levels of risk and complexity, and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders |
 | [Methods and tools](../../skills/#methods-and-tools) | UK GDaD PCF | Practitioner | You can:<br>• build capability in methods and tools, ensuring they are adopted consistently and used effectively |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Practitioner | You can:<br>• work with the team to develop and maintain an understanding of stakeholders<br>• work with the team to develop and implement stakeholder communications strategies<br>• identify and resolve issues, influence stakeholders and manage relationships effectively<br>• build long-term strategic relationships and communicate clearly and regularly with stakeholders |
 | [Strategic design and business change](../../skills/#strategic-design-and-business-change) | UK GDaD PCF | Practitioner | You can:<br>• demonstrate a good understanding of business issues, events and activities, and their short to long term impact<br>• support defining principles, patterns, standards, policies, roadmaps and vision statements<br>• effectively focus on outcomes rather than solutions<br>• help to develop, maintain or update strategy in response to feedback and findings |
@@ -219,7 +219,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
 | [Equality, diversity, and inclusion](../../skills/#equality-diversity-and-inclusion) | This reference | Working | You can:<br>• recognize and challenge behavior that excludes others<br>• consider different needs when you plan your work |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 
 ### Typical qualifications and experience
 
@@ -228,7 +228,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -239,8 +239,8 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -283,19 +283,19 @@ Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts pl
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Business architecture](../../skills/#business-architecture) | UK GDaD PCF | Expert | You can:<br>• simplify complex business architecture frameworks into clear actions<br>• develop business architecture maturity in your organization, such as through a community of practice<br>• lead or guide others in using best practice for business architecture, such as industry standards<br>• identify strategic misalignment within the organization and make recommendations for improvement |
+| [Business architecture](../../skills/#business-architecture) | UK GDaD PCF | Expert | You can:<br>• simplify complex business architecture frameworks into clear actions<br>• develop business architecture maturity in your organisation, such as through a community of practice<br>• lead or guide others in using best practice for business architecture, such as industry standards<br>• identify strategic misalignment within the organisation and make recommendations for improvement |
 | [Communicating information](../../skills/#communicating-information) | UK GDaD PCF | Expert | You can:<br>• mediate between people and mend relationships, communicating with stakeholders at all levels<br>• manage stakeholder expectations and host or moderate discussions about high risk and complexity, even within constrained timescales<br>• speak on behalf of and represent the community to large audiences inside and outside of government |
-| [Consultancy](../../skills/#consultancy) | UK GDaD PCF | Practitioner | You can:<br>• provide advice and recommendations to stakeholders based on your significant specialist knowledge and experience<br>• lead the definition of guidance and inform how the organization approaches delivery or uses digital and data skills more effectively |
-| [Making and guiding decisions](../../skills/#making-and-guiding-decisions) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterized by medium levels of risk and complexity, and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders |
+| [Consultancy](../../skills/#consultancy) | UK GDaD PCF | Practitioner | You can:<br>• provide advice and recommendations to stakeholders based on your significant specialist knowledge and experience<br>• lead the definition of guidance and inform how the organisation approaches delivery or uses digital and data skills more effectively |
+| [Making and guiding decisions](../../skills/#making-and-guiding-decisions) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterised by medium levels of risk and complexity, and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders |
 | [Methods and tools](../../skills/#methods-and-tools) | UK GDaD PCF | Expert | You can:<br>• set direction and give others the means and authority to advise on the best methodologies and tools for the work, ensuring they are adopted consistently<br>• assess the effectiveness of different approaches (such as Agile or plan-driven) and recommend tools to support organisational collaboration and build capability |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Expert | You can:<br>• direct the stakeholder relationship strategy for your teams<br>• ensure stakeholder's objectives are set and support teams to meet them<br>• influence and negotiate with senior stakeholders to resolve issues and enable progress |
 | [Strategic design and business change](../../skills/#strategic-design-and-business-change) | UK GDaD PCF | Expert | You can:<br>• demonstrate a strong understanding of business issues, events and activities and their short to long term impact<br>• define principles, patterns, standards, policies, roadmaps and vision statements<br>• effectively focus on outcomes rather than solutions and activities<br>• develop, maintain or update strategy in response to feedback and findings |
 | [Strategic thinking](../../skills/#strategic-thinking) | UK GDaD PCF | Practitioner | You can:<br>• define strategies and policies, providing guidance to others on working in the strategic context<br>• evaluate current strategies to ensure business requirements are being met and exceeded where possible |
-| [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Expert | You can:<br>• shape organisational strategy using a deep understanding of the health and care system<br>• represent the organization with health and care partners and leaders<br>• anticipate how policy and service changes will affect digital services and care |
+| [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Expert | You can:<br>• shape organizational strategy using a deep understanding of the health and care system<br>• represent the organization with health and care partners and leaders<br>• anticipate how policy and service changes will affect digital services and care |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
 | [Equality, diversity, and inclusion](../../skills/#equality-diversity-and-inclusion) | This reference | Practitioner | You can:<br>• carry out equality impact assessments<br>• build inclusive teams and practices |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 
 ### Typical qualifications and experience
@@ -316,8 +316,8 @@ Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts pl
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -335,5 +335,5 @@ Banded above the UK GDaD PCF grade suggestion (Band 7): health-sector adverts pl
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

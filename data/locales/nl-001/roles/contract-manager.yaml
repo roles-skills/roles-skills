@@ -1,0 +1,49 @@
+summary: Contractmanagers zorgen dat de organisatie krijgt waarvoor zij betaalt nadat een contract is ondertekend. Zij beheren de prestaties van leveranciers, betalingen, wijzigingen, geschillen, verlengingen en uitstap en bouwen relaties op met sleutelleveranciers. In een organisatie voor digitale gezondheid en zorg betreffen veel van de belangrijkste contracten klinische systemen, cloudhosting en technologiediensten waarop patiënten en personeel elke dag vertrouwen.
+health_context:
+- Uitval of falen van klinische systemen kan de zorg voor patiënten raken, dus contractmanagers monitoren beschikbaarheid, reactie op incidenten en niveaus van ondersteuning nauwlettend en gebruiken waar nodig de rechtsmiddelen in het contract.
+- Leveranciers verwerken vaak patiëntdata, dus contracten worden samen met collega’s van informatiebeheer en beveiliging beheerd, inclusief voorwaarden voor gegevensbescherming, audits en afhandeling van datalekken.
+- Uitstap en teruggave van data moeten vanaf het begin worden gepland, zodat patiëntdossiers in een bruikbaar formaat naar een nieuw systeem kunnen verhuizen en oude kopieën veilig worden verwijderd.
+- Wijzigingen van contracten moeten de regels voor overheidsaanbesteding volgen, dus contractmanagers controleren of een wijziging een nieuwe aanbesteding vereist.
+- Releases van leveranciers kunnen veranderen hoe een klinisch systeem zich gedraagt, dus contractmanagers zorgen dat leveranciers voldoen aan hun verplichtingen voor klinische veiligheid.
+levels:
+- title: Contractmanager
+  summary: Beheert een portfolio van contracten, waaronder contracten voor technologie en klinische systemen, van mobilisatie tot verlenging, binnen het kader voor contractmanagement. Ook bekend als contractbeheerder.
+  responsibilities:
+  - Een portfolio van contracten beheren en het contractregister, de documenten en belangrijke data actueel houden.
+  - Regelmatig prestatiegesprekken met leveranciers voeren, aan de hand van serviceniveaus en kernprestatie-indicatoren.
+  - Facturen controleren tegen de voorwaarden van het contract en geschillen over facturering oplossen.
+  - Wijzigingen en aanpassingen van contracten onderhandelen en verwerken binnen de regels voor aanbesteding.
+  - Gebruik van licenties, verlengingen en opzegtermijnen volgen en verlengingen en heraanbestedingen over het portfolio plannen.
+  - Plannen voor uitstap en dataregisters voor elk contract actueel houden.
+  - Met collega’s van informatiebeheer en beveiliging samenwerken aan controles van gegevensbescherming en beveiliging bij leveranciers.
+  qualifications:
+  - Een erkende kwalificatie in inkoop of contractmanagement op gevorderd niveau, of gelijkwaardige ervaring.
+  - Ervaring met het beheren van dienstencontracten, bij voorkeur voor technologie.
+  job_evaluation_notes: Vacatures in de gezondheidssector plaatsen deze rol op Band 7. Analyse is niveau 5 voor oordelen over complexe contractvoorwaarden en geschillen, planning is niveau 4 voor verlengingen over het portfolio en financiële middelen is niveau 4 omdat de functie de uitgaven van een portfolio van dienstencontracten beheert.
+- title: Senior contractmanager
+  summary: Beheert de strategische contracten en contracten met hoog risico van de organisatie, zoals het elektronisch patiëntendossier en cloudhosting, en leidt de relaties met sleutelleveranciers.
+  responsibilities:
+  - Strategische contracten voor klinische systemen en technologiediensten beheren, inclusief mobilisatie van nieuwe contracten.
+  - Strategische gesprekken met sleutelleveranciers leiden over prestaties, roadmap, risico’s en verbeterplannen.
+  - Rechtsmiddelen uit het contract gebruiken, zoals servicekredieten en herstelplannen, wanneer prestaties tekortschieten.
+  - Wijzigingen van contracten, verlengingen en de schikking van geschillen onderhandelen.
+  - Plannen voor uitstap en overgang schrijven en testen, inclusief teruggave van data in standaardformaten en veilige verwijdering.
+  - Risico’s van leveranciers beoordelen, zoals financiële gezondheid, cyberbeveiliging en toeleveringsketen, en plannen voor het falen van een leverancier.
+  - Contractmanagers coachen en begeleiden.
+  qualifications:
+  - Een erkende kwalificatie in inkoop of contractmanagement op gevorderd niveau, of een master in een verwant vak, of gelijkwaardige ervaring.
+  - Aanzienlijke ervaring met het beheren van strategische contracten voor technologie of uitbestede diensten.
+  job_evaluation_notes: Vacatures in de gezondheidssector plaatsen deze rol op Band 8a. Kennis, analyse en handelingsvrijheid worden gescoord op het profiel van Band 8a omdat de functie de strategische contracten van de organisatie met weinig toezicht beheert. Financiële middelen is niveau 4 omdat de functie de uitgaven en bezittingen van dienstencontracten met hoge waarde beheert.
+- title: Lead contractmanager
+  summary: Leidt contract- en leveranciersmanagement voor de hele organisatie, stelt het kader voor contractmanagement vast en beheert het contractteam.
+  responsibilities:
+  - Het kader, de normen en de instrumenten van de organisatie voor contractmanagement vaststellen.
+  - Het team voor contractmanagement en zijn portfolio van contracten leiden.
+  - Het beheer van de meest kritieke relaties met leveranciers leiden en grote geschillen oplossen.
+  - Normen voor planning van uitstap en teruggave van data vaststellen en uitstap uit strategische contracten leiden.
+  - Over contractprestaties, risico’s van leveranciers en besparingen rapporteren aan commissies van de directie.
+  - Adviseren over beëindiging, heraanbesteding en het falen van leveranciers.
+  qualifications:
+  - Een erkende kwalificatie in inkoop of contractmanagement op gevorderd niveau, of een master in een verwant vak, of gelijkwaardige ervaring.
+  - Uitgebreide ervaring met het leiden van contractmanagement voor complexe diensten.
+  job_evaluation_notes: Vacatures in de gezondheidssector plaatsen deze rol op Band 8b. Planning is niveau 5 voor het kader voor contractmanagement in de hele organisatie, financiële middelen is niveau 5 omdat de functie toezicht houdt op contracten over veel diensten en mensen is niveau 4 omdat zij hiërarchisch leiding geeft aan het contractteam.

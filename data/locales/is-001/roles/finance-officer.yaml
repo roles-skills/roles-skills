@@ -1,0 +1,59 @@
+summary: Fjármálafulltrúar halda daglegum fjármálum stofnunarinnar nákvæmum og undir stjórn. Þeir afgreiða og skrá reikninga, greiðslur, tekjur og færslur, afstemma höfuðbækur og bankareikninga og aðstoða fjárhagsábyrgðaraðila og birgja með fyrirspurnir þeirra. Í stafrænni heilbrigðisstofnun snýst mikið af þessari vinnu um tæknibirgja, hugbúnaðarleyfi og skýjaþjónustu, oft greidda úr opinberu fé með ströngum reglum um ráðstöfun þess.
+health_context:
+- Stofnunin ver opinberu fé, svo hver greiðsla verður að vera rétt samþykkt, skráð og geta staðist úttekt.
+- Margir reikningar eru fyrir hugbúnaðarleyfi, skýjahýsingu og stuðningssamninga, sem þarf að athuga gegn samningsskilmálum, notkun og réttum fjárfestingar- eða rekstrarkóða.
+- Skjót og nákvæm greiðsla skiptir máli, því litlir birgjar og umönnunaraðilar kunna að reiða sig á hana.
+- Fjármálastarfsfólk sér persónuupplýsingar, svo sem útlagðan kostnað starfsfólks og greiðslur til sjúklinga eða umönnunaraðila, og verður að meðhöndla þær samkvæmt reglum um upplýsingastjórnun.
+- Svikaáhætta, svo sem fölsk beiðni um að breyta bankaupplýsingum birgja, beinist að opinberum stofnunum, svo fulltrúar fylgja ströngum athugunum.
+levels:
+- title: Fjármálaaðstoðarmaður
+  summary: Fjármálaaðstoðarmenn afgreiða hversdagslegar fjárhagsfærslur, svo sem birgjareikninga, kvittanir og útlagðan kostnað, samkvæmt föstu verklagi með náið eftirlit.
+  responsibilities:
+  - Færa birgjareikninga, kreditreikninga og kvittanir nákvæmlega inn í fjármálakerfið.
+  - Samræma reikninga við innkaupapantanir og vörumóttökur og ganga eftir vantandi samþykktum.
+  - Athuga útlagðan kostnað starfsfólks gegn stefnu og fylgigögnum.
+  - Svara hversdagslegum fyrirspurnum frá birgjum og starfsfólki í síma og tölvupósti.
+  - Skjalfesta og skanna fjárhagsskjöl svo hægt sé að finna þau við úttekt.
+  - Fylgja fjármálaverklagi og reglum um upplýsingastjórnun og tilkynna allt óvenjulegt.
+  qualifications:
+  - Góð færni í reikningi og lyklaborðsnotkun, fengin með námi eða starfsreynslu.
+  - Vilji til að stefna að grunnmenntun í bókhaldi, eða sambærileg reynsla.
+  job_evaluation_notes: Líkamleg færni er á stigi 3 fyrir hraða og nákvæmni umfangsmikillar gagnafærslu. Fjárhagslegar auðlindir eru á stigi 2 því starfið meðhöndlar greiðsluupplýsingar og athugar smáar kröfur.
+- title: Fjármálafulltrúi
+  summary: Fjármálafulltrúar stýra hluta færsluferilsins, svo sem skuldum, kröfum eða reiðufé, leysa mál sem eru ekki hversdagsleg og afstemma höfuðbók sína.
+  responsibilities:
+  - Afgreiða ýmsar færslur, þar á meðal greiðslukeyrslur, endurgreiðslur, sölureikninga og færslur.
+  - Afstemma birgjayfirlit, bankareikninga og stýrireikninga og hreinsa mismun.
+  - Athuga að tæknireikningar passi við samningsskilmála, svo sem fjölda leyfa og reikningstímabil.
+  - Framkvæma athuganir á breytingum á bankaupplýsingum birgja og aðrar svikavarnir.
+  - Ganga eftir gjaldföllnum skuldum og leysa umdeilda reikninga með birgjum og fjárhagsábyrgðaraðilum.
+  - Sýna nýjum fjármálaaðstoðarmönnum hversdagsleg verk.
+  qualifications:
+  - Grunnmenntun í bókhaldi, eða sambærileg reynsla af fjárhagsvinnslu.
+  job_evaluation_notes: Fjárhagslegar auðlindir eru á stigi 3 því starfið undirbýr og sendir út greiðslukeyrslur og heimilar greiðslur innan fastra marka.
+- title: Eldri fjármálafulltrúi
+  summary: Eldri fjármálafulltrúar sinna flóknari fjárhagsvinnslu og afstemmingum, styðja mánaðarlok og árslok og hjálpa fjárhagsábyrgðaraðilum að skilja útgjöld sín.
+  responsibilities:
+  - Undirbúa færslur í mánaðarlok, svo sem áfallinn kostnað og fyrirframgreiðslur fyrir árlega hugbúnaðar- og stuðningssamninga.
+  - Rannsaka og hreinsa flókin afstemmingaratriði og gamlar stöður.
+  - Undirbúa virðisaukaskattsskil og afstemmingar undir eftirliti.
+  - Búa til hefðbundnar fjárhagsáætlunarskýrslur og útskýra þær fyrir fjárhagsábyrgðaraðilum.
+  - Athuga að útgjöld séu rétt kóðuð milli fjárfestingar og rekstrar og bera upp spurningar við bókara.
+  - Hafa umsjón með og yfirfara daglega vinnu fjármálafulltrúa og aðstoðarmanna.
+  - Leggja til umbætur á fjármálaverklagi og vinnuflæði kerfa.
+  qualifications:
+  - Miðstigsmenntun í bókhaldi, eða sambærileg reynsla.
+  - Reynsla af fjárhagsvinnslu og afstemmingum.
+- title: Teymisstjóri í fjármálum
+  summary: Teymisstjórar í fjármálum stýra færsluteymi í fjármálum eða starfa sem fjármálagreinendur og tryggja að ferli séu nákvæm, undir stjórn og skilvirk og að skýrslugjöf sé tilbúin á réttum tíma.
+  responsibilities:
+  - Stýra færsluteymi í fjármálum og skipuleggja vinnu þess til að standast frest fyrir greiðslur, skuldir og mánaðarlok.
+  - Stýra höfuðbók eða fjármálaferli og skila skýrslu um frammistöðu þess, svo sem greiðslutíma og gamlar skuldir.
+  - Prófa og bæta fjárhagslegar stýringar og leggja fram gögn fyrir innri og ytri endurskoðendur.
+  - Undirbúa efnahagsafstemmingar og vinnuskjöl fyrir ársreikning.
+  - Bæta ferli, til dæmis með því að sjálfvirknivæða samræmingu reikninga eða taka upp sjálfsafgreiðslu fyrir fjárhagsábyrgðaraðila.
+  - Þjálfa, styðja og yfirfara vinnu starfsfólks í teyminu.
+  qualifications:
+  - Miðstigs- eða framhaldsmenntun í bókhaldi, eða sambærileg reynsla.
+  - Reynsla af forystu eða samræmingu fjármálaferla.
+  job_evaluation_notes: Fólk er á stigi 3 því starfið stýrir litlu fjármálateymi dag frá degi. Fjármálagreinandi í þessum launaflokki fengi fólk á stigi 2 og greiningu á stigi 4.

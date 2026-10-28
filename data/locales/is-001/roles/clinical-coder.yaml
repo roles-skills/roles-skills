@@ -1,0 +1,65 @@
+summary: Klínískir kóðarar lesa sjúkraskrár og þýða sjúkdómsgreiningar, aðgerðir og aðrar klínískar upplýsingar yfir í staðlaða flokkunarkóða, svo sem ICD fyrir sjúkdómsgreiningar og aðgerðaflokkun fyrir inngrip. Kóðuð gögn eru notuð til greiðslna, þjónustuskipulags, klínískrar úttektar, rannsókna og lýðheilsutölfræði, svo nákvæmni þeirra skiptir máli langt út fyrir kóðunarteymið. Kóðarar vinna náið með klínísku starfsfólki að því að skýra skrár og nota í auknum mæli klínísk hugtakakerfi eins og SNOMED CT og tölvuaðstoðuð kóðunartól.
+health_context:
+- Kóðarar lesa heilar sjúkraskrár, sem oft lýsa alvarlegum veikindum, meiðslum, misnotkun, sjálfsskaða og dauða, svo vinnan er tilfinningalega krefjandi og teymi þurfa góðan stuðning og eftirlit.
+- Kóðuð gögn knýja greiðslur fyrir starfsemi, vísa um dánartíðni og útkomu og þjónustuskipulag, svo villur geta haft áhrif á fjármögnun, birta frammistöðu og ákvarðanir um umönnun.
+- Kóðun veltur á gæðum klínískrar skjölunar, svo kóðarar leita skýringa hjá klínísku starfsfólki á óskýrum skrám og hjálpa til við að bæta hvernig umönnun er skráð.
+- Kóðarar meðhöndla fullar persónugreinanlegar sjúkraskrár daglega, svo trúnaður og réttur aðgangur eru nauðsynleg.
+- Sjálfvirk og tölvuaðstoðuð kóðun, og varpanir úr SNOMED CT yfir í flokkanir, breyta vinnunni, og kóðarar athuga að sjálfvirkir kóðar séu réttir.
+levels:
+- title: Klínískur kóðari í starfsnámi
+  summary: Klínískur kóðari í starfsnámi lærir að kóða einfaldar sjúkrahúsvistir undir nánu eftirliti og stefnir að menntun í klínískri kóðun.
+  responsibilities:
+  - Kóða einfaldar vistir, svo sem dagdeildarvistir, úr sjúkraskrám með flokkunarreglum, og allt verk er yfirfarið af eldri kóðara.
+  - Læra læknisfræðihugtök, líffærafræði og landsbundna og alþjóðlega kóðunarstaðla með skipulagðri þjálfun.
+  - Finna, rekja og skila sjúkraskrám rétt og halda þeim öruggum.
+  - Skrá kóðuð gögn í sjúklingaumsýslukerfið eða kóðunarkerfið nákvæmlega og á réttum tíma.
+  - Vekja máls á óskýrum eða vantandi upplýsingum við eldri kóðara.
+  qualifications:
+  - Góð færni í lestri, ritun og lyklaborðsnotkun, og skráning í þjálfunaráætlun í klínískri kóðun, eða sambærilegt.
+  job_evaluation_notes: Andlegt erfiði er á stigi 4 því kóðarar einbeita sér lengi að því að lesa og túlka ítarlegar sjúkraskrár. Tilfinningalegt erfiði er á stigi 2 því kóðarar lesa oft skrár sem lýsa átakanlegum atburðum.
+- title: Klínískur kóðari
+  summary: Klínískur kóðari kóðar fjölbreyttar hversdagslegar vistir sjálfstætt og nákvæmlega, og stendur við samþykkta fresti og gæðastaðla.
+  responsibilities:
+  - Kóða legu-, dagdeildar- og göngudeildarvistir nákvæmlega þvert á algengar sérgreinar, með flokkunarreglum og staðbundnum reglum.
+  - Leita skýringa hjá klínísku starfsfólki á óskýrum, vantandi eða ósamræmdum klínískum upplýsingum og skrá niðurstöðuna.
+  - Athuga kóða sem tölvuaðstoðuð kóðun eða hugtakavarpanir stinga upp á og leiðrétta þá þar sem þarf.
+  - Standa við fresti um heilleika kóðunar, svo gögn séu tilbúin til greiðslu og skýrslugjafar.
+  - Taka þátt í kóðunarúttektum og bregðast við niðurstöðum þeirra.
+  qualifications:
+  - Viðurkennd menntun í klínískri kóðun, eða stefnir á slíka með sambærilegri reynslu.
+  job_evaluation_notes: Andlegt og tilfinningalegt erfiði endurspegla langvarandi einbeitingu að sjúkraskrám sem oft lýsa alvarlegum veikindum, meiðslum og dauða.
+- title: Eldri klínískur kóðari
+  summary: Eldri klínískur kóðari kóðar flóknar vistir þvert á sérgreinar, er uppspretta sérfræðiráðgjafar fyrir aðra kóðara og yfirfer og þjálfar minna reynda kóðara.
+  responsibilities:
+  - Kóða flóknar vistir, svo sem gjörgæslu, krabbamein, margar aðgerðir og dauðsföll, þvert á sérgreinar.
+  - Leysa erfiðar kóðunarspurningar með yfirlæknum og öðru eldra klínísku starfsfólki og útskýra kóðunarreglur skýrt.
+  - Yfirfara vinnu kóðara í starfsnámi og veita þeim endurgjöf og þjálfun á vinnustað.
+  - Sannreyna kóðuð gögn áður en þau eru send inn og laga villur með réttu teymi.
+  - Vinna með klínískum teymum að því að bæta gæði klínískrar skjölunar.
+  qualifications:
+  - Viðurkennd menntun í klínískri kóðun, eða sambærileg reynsla.
+  - Reynsla af kóðun flókinna vista þvert á ýmsar sérgreinar.
+  job_evaluation_notes: Tilfinningalegt erfiði er áfram á stigi 2, þar sem flóknar vistir eins og dauðsföll og krabbameinsmeðferð eru reglulegur hluti vinnunnar.
+- title: Úttektaraðili og þjálfari í klínískri kóðun
+  summary: Úttektaraðili og þjálfari í klínískri kóðun gerir úttektir á nákvæmni kóðaðra gagna, hannar og heldur kóðunarþjálfun og ráðleggur stofnuninni um kóðunarstaðla. Í sumum stofnunum stýrir þetta stig einnig kóðunarteymi dag frá degi.
+  responsibilities:
+  - Skipuleggja og framkvæma kóðunarúttektir þvert á sérgreinar og mæla nákvæmni gegn landsbundnum og alþjóðlegum stöðlum.
+  - Skila niðurstöðum úttekta til kóðunar-, klínískra, fjármála- og upplýsingateyma og samþykkja umbótaaðgerðir.
+  - Hanna og halda kóðunarþjálfun, frá grunnnámskeiðum fyrir nýja kóðara til upprifjunarþjálfunar vegna staðlabreytinga.
+  - Ráðleggja klínísku starfsfólki og stjórnendum um hvernig kóðun hefur áhrif á greiðslur, dánartíðnivísa og frammistöðugögn.
+  - Stýra innleiðingu breytinga á útgáfum flokkana, kóðunarstöðlum og kóðunartólum.
+  - Stýra kóðunarteymi dag frá degi þar sem stofnunin sameinar það úttekt og þjálfun.
+  qualifications:
+  - Viðurkennd menntun í klínískri kóðun og viðurkennd menntun í úttektum eða þjálfun í klínískri kóðun, eða sambærileg reynsla.
+  job_evaluation_notes: Fólk er á stigi 3 því hönnun og kennsla sérhæfðrar kóðunarþjálfunar er aðalverk. Rannsóknir eru á stigi 2 því kóðunarúttekt er reglulegur hluti starfsins.
+- title: Kóðunarstjóri í klínískri kóðun
+  summary: Kóðunarstjóri í klínískri kóðun stýrir klínískri kóðunarþjónustu stofnunarinnar, þar á meðal kóðunarteymum hennar, gæðaáætlun og tengslum við klínísk, fjármála- og upplýsingateymi.
+  responsibilities:
+  - Stýra klínískri kóðunarþjónustu og teymisstjórum hennar og tryggja að kóðun sé fullkomin, nákvæm og á réttum tíma.
+  - Móta kóðunarstefnur og gæðaáætlun kóðunar í samræmi við landsbundna og alþjóðlega staðla.
+  - Hafa kóðunarfjárhagsáætlunina á sinni könnu og skipuleggja mannaflann, þar á meðal ráðningar, þjálfun og faggildingu.
+  - Ráðleggja æðstu stjórnendum um hvernig kóðun hefur áhrif á fjármögnun, dánartíðni- og útkomuvísa og birt gögn.
+  - Stýra upptöku nýrrar kóðunartækni, svo sem tölvuaðstoðaðrar kóðunar og hugtakavarpana, með samstarfsfólki í klínísku öryggi og upplýsingastjórnun.
+  - Styðja vellíðan kóðara sem lesa reglulega átakanlegar skrár.
+  qualifications:
+  - Viðurkennd menntun í klínískri kóðun og umfangsmikil reynsla af kóðun, úttektum og stjórnun kóðara, eða sambærileg reynsla.

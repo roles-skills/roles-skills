@@ -1,0 +1,51 @@
+summary: Integratie-engineers verbinden de klinische systemen en bedrijfssystemen van de organisatie zodat informatie over gezondheid en zorg veilig stroomt naar waar zij nodig is. Zij ontwerpen, bouwen, testen en ondersteunen interfaces, API’s en berichtenstromen met standaarden zoals HL7 FHIR en HL7 versie 2, koppelen data en klinische codes tussen systemen en houden integraties draaiend in live gebruik.
+health_context:
+- Een verloren, vertraagd, gedupliceerd of verkeerd gematcht bericht, zoals een testuitslag of verwijzing, kan rechtstreeks tot schade leiden, dus integratiewerk volgt het proces voor klinisch risicobeheer.
+- Integraties voeren grote hoeveelheden vertrouwelijke gezondheidsinformatie tussen organisaties, dus elke stroom heeft een rechtsgrond, veilig transport en audit nodig.
+- Systemen voor gezondheid gebruiken veel standaarden en versies, van berichten in HL7 versie 2 tot API’s in HL7 FHIR en IHE-profielen, vaak met lokale variaties.
+- Klinische betekenis moet de reis overleven, dus engineers koppelen klinische terminologieën zoals SNOMED CT correct en matchen patiënten betrouwbaar.
+- Veel integraties ondersteunen de zorg de klok rond, dus ze hebben monitoring, waarschuwingen en duidelijke routes nodig om mislukte berichten op te lossen.
+levels:
+- title: Junior integratie-engineer
+  summary: Een junior integratie-engineer bouwt, test en ondersteunt integraties tussen systemen voor gezondheid en zorg, werkend vanuit specificaties en met begeleiding van meer ervaren engineers.
+  responsibilities:
+  - Koppelingen van berichten, transformaties en API-aanroepen bouwen en wijzigen op basis van afgesproken specificaties.
+  - Integraties testen tegen specificaties en voorbeeldberichten, inclusief fouten en randgevallen.
+  - Berichtenstromen monitoren, mislukte of afgewezen berichten onderzoeken en ze oplossen of escaleren.
+  - Gezondheidsdata veilig verwerken en de regels voor informatiebeheer voor live en testdata volgen.
+  - Wijzigingen en testresultaten vastleggen zodat ze als bewijs voor klinische veiligheid kunnen dienen.
+  qualifications:
+  - Een bachelor in informatica of een verwant vak, een voltooid leerwerktraject, of gelijkwaardige ervaring.
+- title: Integratie-engineer
+  summary: Een integratie-engineer ontwerpt, bouwt en ondersteunt zelfstandig integraties tussen systemen voor gezondheid en zorg en helpt bepalen hoe systemen data moeten uitwisselen.
+  responsibilities:
+  - Integraties, API’s en berichtenstromen ontwerpen en bouwen met HL7 FHIR, HL7 versie 2 en patronen voor berichten.
+  - Bron- en doelsystemen analyseren en specificaties van interfaces en koppelingen van data schrijven, inclusief klinische codes.
+  - Matching van patiënten, validatie en foutafhandeling bouwen zodat informatie het juiste dossier bereikt.
+  - Deelnemen aan workshops over gevaren en veiligheidsmaatregelen in integraties inbouwen, zoals waarschuwingen voor mislukte of vertraagde berichten.
+  - Met leveranciers en partnerorganisaties nieuwe verbindingen testen en live brengen.
+  - Problemen in live integraties onderzoeken en oplossen en junior integratie-engineers begeleiden.
+  qualifications:
+  - Een bachelor in informatica of een verwant vak, of gelijkwaardige ervaring.
+  - Ervaring met het bouwen en ondersteunen van integraties tussen systemen in productie.
+- title: Senior integratie-engineer
+  summary: Een senior integratie-engineer leidt het ontwerp en de levering van complexe integraties over veel systemen en organisaties en stelt normen voor integratie vast voor zijn gebied.
+  responsibilities:
+  - Het technische ontwerp van complexe integraties leiden, zoals gedeelde zorgdossiers, uitslagen en verwijzingen over organisaties heen.
+  - FHIR-profielen, implementatiegidsen en normen voor interfaces van de organisatie schrijven en bijhouden.
+  - Integraties veilig, veerkrachtig en observeerbaar ontwerpen, met duidelijke routes om storingen op te lossen.
+  - Met klinischeveiligheidsfunctionarissen gevaren van integraties opsporen en zorgen dat beheersmaatregelen worden ontworpen en getest.
+  - Zorgen dat elke datastroom een afgesproken rechtsgrond en afspraken voor het delen van data heeft, samen met collega’s van informatiebeheer.
+  - Integratie-engineers in het team coachen en ontwikkelen.
+  qualifications:
+  - Aanzienlijke ervaring met het ontwerpen en ondersteunen van integraties in gezondheid of andere complexe integraties, op een niveau gelijkwaardig aan een master.
+- title: Lead integratie-engineer
+  summary: Een lead integratie-engineer leidt de integratie-engineering van de organisatie, stelt haar technische richting en normen vast en borgt kritieke integraties over veel systemen.
+  responsibilities:
+  - Integratie-engineering in de hele organisatie leiden en richting, patronen en normen vaststellen.
+  - Het ontwerp van kritieke integraties borgen, zoals die uitslagen, medicijnen of waarschuwingen voeren.
+  - Met architecten, productmanagers en leveranciers de roadmap van het integratieplatform vormgeven.
+  - De organisatie vertegenwoordigen in werk aan interoperabiliteit en standaarden over organisaties heen.
+  - Hiërarchisch leiding geven aan of leiden van integratie-engineers en de praktijkgemeenschap voor integratie laten groeien.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van integratie-engineering voor complexe systemen voor gezondheid of zorg.

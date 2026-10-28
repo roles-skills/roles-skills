@@ -1,0 +1,273 @@
+# Terjemahan bahasa Indonesia dari data/skills/finance.yaml. Kuncinya adalah id keterampilan bahasa Inggris.
+fin-financial-transactions:
+  name: Transaksi keuangan dan buku besar
+  description: Memproses dan mencatat faktur, pembayaran, penerimaan, jurnal, dan rekonsiliasi secara akurat dalam buku besar, dengan mengikuti pengendalian keuangan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan proses pembelian-ke-pembayaran dan pesanan-ke-kas serta peran Anda di dalamnya
+      - memasukkan faktur, penerimaan, dan pembayaran secara akurat, dengan mengikuti prosedur yang ditetapkan
+      - memeriksa bahwa sebuah transaksi memiliki persetujuan dan dokumen pendukung yang tepat
+    working: |
+      Anda dapat:
+      - memproses berbagai transaksi, termasuk nota kredit, pengembalian dana, dan jurnal
+      - merekonsiliasi laporan pemasok, rekening bank, dan akun kendali
+      - menyelesaikan pertanyaan rutin dari pemasok, pelanggan, dan pemegang anggaran
+      - mengenali transaksi ganda, tidak biasa, atau tidak sah dan melaporkannya
+    practitioner: |
+      Anda dapat:
+      - mengelola buku besar atau proses transaksi dan menjaganya tetap akurat dan mutakhir
+      - menyelidiki dan membersihkan butir rekonsiliasi dan saldo lama yang kompleks
+      - memperbaiki proses transaksi, misalnya dengan mengotomatiskan pencocokan atau persetujuan
+      - melatih dan memeriksa pekerjaan staf lain
+    expert: |
+      Anda dapat:
+      - merancang proses transaksi organisasi dan pengendalian di dalamnya
+      - menetapkan standar kinerja, seperti waktu pembayaran dan target penagihan utang
+      - memimpin peralihan ke cara pemrosesan baru, seperti otomatisasi dan layanan mandiri
+      - meyakinkan pimpinan senior dan auditor bahwa buku besar lengkap dan akurat
+fin-financial-reporting:
+  name: Pelaporan keuangan dan laporan keuangan statutori
+  description: Menyusun laporan keuangan dan pengembalian statutori yang akurat dan sesuai dengan standar akuntansi yang berlaku dan aturan pelaporan sektor publik.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan tujuan laporan keuangan utama
+      - menyiapkan kertas kerja dan rekonsiliasi yang mendukung tutup bulan dan tutup tahun
+    working: |
+      Anda dapat:
+      - menyiapkan jurnal tutup bulan dan tutup tahun, seperti akrual, biaya dibayar di muka, dan provisi
+      - menyiapkan bagian-bagian laporan keuangan tahunan dan catatan pendukungnya
+      - menerapkan standar akuntansi pada transaksi rutin, seperti mengkapitalisasi perangkat lunak dan perangkat keras
+    practitioner: |
+      Anda dapat:
+      - menyiapkan laporan keuangan tahunan dan pengembalian statutori sesuai jadwal
+      - menerapkan standar akuntansi pada bidang yang kompleks, seperti sewa, pengaturan komputasi awan, dan aset tak berwujud
+      - menulis makalah akuntansi yang menjelaskan pertimbangan dan estimasi
+      - mengelola audit eksternal atas laporan keuangan dan menanggapi temuannya
+    expert: |
+      Anda dapat:
+      - memiliki laporan dan akun tahunan organisasi serta kebijakan akuntansi di baliknya
+      - menasihati dewan dan komite audit tentang pertimbangan penting dan standar baru
+      - memimpin tanggapan atas opini audit dengan pengecualian atau salah saji material
+      - memastikan pelaporan memenuhi aturan akuntabilitas publik
+fin-management-accounting:
+  name: Akuntansi manajemen
+  description: Menghasilkan informasi anggaran dan biaya yang membantu manajer merencanakan, mengendalikan, dan mengambil keputusan, termasuk analisis varians, penghitungan biaya, dan pelaporan kinerja.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan anggaran, realisasi, komitmen, dan varians
+      - menghasilkan laporan anggaran standar dari sistem keuangan
+    working: |
+      Anda dapat:
+      - menyiapkan laporan anggaran bulanan dan menjelaskan varians utama
+      - mengkodekan biaya dengan benar antara pusat biaya, proyek, serta modal dan operasional
+      - mendukung pemegang anggaran untuk memahami dan mengelola anggaran mereka
+    practitioner: |
+      Anda dapat:
+      - mengelola siklus pelaporan bulanan untuk sebuah direktorat atau program
+      - membangun model biaya, seperti biaya penuh layanan digital atau biaya satuan sebuah transaksi
+      - menganalisis tren pengeluaran dan menasihati manajer tentang tindakan agar tetap dalam anggaran
+      - menantang pemegang anggaran secara konstruktif atas perkiraan mereka
+    expert: |
+      Anda dapat:
+      - merancang pendekatan pelaporan manajemen dan penghitungan biaya organisasi
+      - mempresentasikan kinerja keuangan kepada dewan dan pimpinan senior
+      - memimpin penggunaan informasi biaya dan kinerja untuk meningkatkan nilai uang
+      - menetapkan standar akuntansi manajemen di seluruh organisasi
+fin-financial-planning-and-forecasting:
+  name: Perencanaan dan peramalan keuangan
+  description: Menyusun anggaran, perkiraan, dan rencana keuangan jangka menengah yang menghubungkan uang dengan prioritas dan program organisasi.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan siklus penyusunan anggaran tahunan dan perbedaan antara anggaran dan perkiraan
+      - mengumpulkan informasi perkiraan dari pemegang anggaran
+    working: |
+      Anda dapat:
+      - menyusun anggaran dan perkiraan untuk sebuah pusat biaya atau proyek, termasuk biaya staf
+      - memperbarui perkiraan setiap bulan dengan perubahan dan risiko yang diketahui
+      - membagi anggaran per fase agar profil pengeluaran sesuai dengan rencana penyampaian
+    practitioner: |
+      Anda dapat:
+      - memimpin penyusunan anggaran dan peramalan untuk sebuah direktorat atau program besar
+      - memodelkan skenario dan sensitivitas, seperti inflasi, keterlambatan, atau perubahan pendanaan
+      - menyusun perkiraan multitahun untuk program digital, termasuk biaya operasional yang menyusul investasi
+      - mempresentasikan perkiraan dan risiko kepada manajer senior
+    expert: |
+      Anda dapat:
+      - memimpin rencana keuangan jangka menengah organisasi
+      - menyelaraskan rencana keuangan dengan strategi, tenaga kerja, dan rencana investasi
+      - menasihati dewan tentang keberlanjutan keuangan dan pilihan yang diperlukan agar tetap dalam pendanaan
+      - menetapkan asumsi dan metode perencanaan yang digunakan di seluruh organisasi
+fin-payroll:
+  name: Penggajian
+  description: Membayar staf secara akurat dan tepat waktu, termasuk staf baru, staf yang keluar, perubahan, potongan, pensiun, pembayaran statutori, dan pelaporan penggajian.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan siklus penggajian, dari perubahan dan batas waktu hingga pembayaran dan pelaporan
+      - memasukkan staf baru, staf yang keluar, dan perubahan secara akurat dari formulir yang diotorisasi
+      - menjawab pertanyaan gaji rutin, dengan menjaga kerahasiaan informasi gaji
+    working: |
+      Anda dapat:
+      - menghitung gaji, tunjangan, lembur, pembayaran cuti sakit, dan cuti keluarga
+      - menerapkan pajak, pensiun, dan potongan lain dengan benar
+      - memeriksa keluaran penggajian dan memperbaiki kesalahan sebelum pembayaran
+      - memulihkan kelebihan pembayaran dengan peka dan sesuai kebijakan
+    practitioner: |
+      Anda dapat:
+      - menjalankan penggajian penuh untuk sekelompok staf dan mengesahkan pemeriksaan penggajian
+      - mengelola pelaporan penggajian statutori dan pengembalian pensiun
+      - menyelesaikan kasus kompleks, seperti beberapa kontrak, gaji tertunggak, atau pengorbanan gaji
+      - menguji perubahan pada sistem penggajian, seperti kenaikan gaji tahunan dan perubahan aturan
+    expert: |
+      Anda dapat:
+      - mengelola layanan penggajian organisasi, baik yang dijalankan sendiri maupun oleh penyedia
+      - menetapkan pengendalian penggajian dan meyakinkan pimpinan senior bahwa pembayaran akurat dan sah
+      - merencanakan perubahan aturan gaji, kenaikan gaji, dan sistem penggajian
+      - memimpin tanggapan atas kegagalan penggajian yang besar
+fin-treasury-and-cash:
+  name: Perbendaharaan dan manajemen kas
+  description: Mengelola rekening bank, arus kas, dan likuiditas agar organisasi dapat memenuhi komitmennya, dalam aturan kas sektor publik.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa kas penting selain anggaran
+      - mencatat dan merekonsiliasi transaksi bank
+    working: |
+      Anda dapat:
+      - menyiapkan posisi kas harian dan perkiraan kas jangka pendek
+      - menyiapkan putaran pembayaran dan memeriksa bahwa pembayaran diotorisasi dengan semestinya
+      - merekonsiliasi rekening bank dan membersihkan butir yang tidak cocok
+    practitioner: |
+      Anda dapat:
+      - mengelola perkiraan arus kas organisasi dan pencairan pendanaan
+      - mengelola rekening bank, metode pembayaran, dan pengendalian perbankan
+      - merencanakan kas untuk pembayaran besar atau tidak teratur, seperti lisensi perangkat lunak multitahun
+    expert: |
+      Anda dapat:
+      - menetapkan kebijakan perbendaharaan dan pengaturan perbankan organisasi
+      - menasihati dewan tentang likuiditas dan risiko kas
+      - mengelola kas dalam batas yang ditetapkan oleh pemberi dana dan aturan sektor publik
+fin-audit-and-controls:
+  name: Pengendalian keuangan dan audit
+  description: Merancang, menjalankan, dan menguji pengendalian keuangan, mencegah dan mendeteksi penipuan, serta bekerja dengan auditor internal dan eksternal.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mengikuti prosedur keuangan dan skema pendelegasian wewenang organisasi
+      - mengenali tanda kemungkinan penipuan atau kesalahan dan melaporkannya
+    working: |
+      Anda dapat:
+      - menjalankan pengendalian utama, seperti pemisahan tugas dan pemeriksaan rincian bank pemasok
+      - memberikan bukti kepada auditor dan menjawab pertanyaan mereka
+      - memeriksa bahwa pengeluaran disetujui pada tingkat yang tepat
+    practitioner: |
+      Anda dapat:
+      - menguji dan memperbaiki pengendalian untuk sebuah proses keuangan
+      - mengelola permintaan audit untuk suatu bidang dan menyepakati tindakan atas temuan
+      - menulis dan memperbarui prosedur keuangan
+      - bekerja dengan spesialis antipenipuan untuk mengurangi risiko penipuan
+    expert: |
+      Anda dapat:
+      - memiliki aturan keuangan dan skema pendelegasian wewenang organisasi
+      - melapor kepada komite audit tentang pengendalian keuangan dan tindakan audit
+      - memimpin tanggapan atas kegagalan pengendalian atau penipuan yang signifikan
+      - membangun budaya tempat staf memahami kewajiban mereka menggunakan uang publik dengan benar
+fin-business-cases:
+  name: Kasus bisnis dan penilaian investasi
+  description: Menyusun kasus keuangan untuk investasi, termasuk penilaian opsi, biaya sepanjang masa pakai, perlakuan modal dan operasional, manfaat, dan nilai uang.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan tujuan sebuah kasus bisnis dan bagian keuangannya
+      - mengumpulkan informasi biaya untuk sebuah kasus bisnis
+    working: |
+      Anda dapat:
+      - menyusun model keuangan untuk kasus bisnis yang sederhana
+      - memisahkan biaya modal dan operasional, serta biaya satu kali dan berulang
+      - memasukkan biaya sepanjang masa pakai, seperti lisensi, dukungan, dan hosting setelah peluncuran
+    practitioner: |
+      Anda dapat:
+      - memimpin kasus keuangan untuk investasi digital yang kompleks, seperti sistem klinis baru atau perpindahan ke komputasi awan
+      - menilai opsi dengan nilai kini bersih, analisis sensitivitas, dan penyesuaian risiko
+      - memeriksa bahwa manfaat realistis, terukur, dan ada pemiliknya
+      - melacak pengeluaran dan manfaat setelah persetujuan
+    expert: |
+      Anda dapat:
+      - menetapkan standar kasus bisnis dan penilaian investasi organisasi
+      - menasihati dewan investasi tentang keterjangkauan, nilai uang, dan risiko
+      - menyampaikan kasus kepada pemberi dana untuk program investasi besar
+      - meninjau portofolio investasi dan merekomendasikan kapan berhenti, mengubah, atau melanjutkan
+fin-tax:
+  name: Pajak
+  description: Menerapkan pajak penjualan, pajak ketenagakerjaan, dan aturan pajak lain dengan benar pada transaksi organisasi, dan memulihkan pajak jika diizinkan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - mengenali pajak penjualan pada faktur dan mengkodekannya dengan benar
+      - menjelaskan kapan harus meminta saran spesialis pajak
+    working: |
+      Anda dapat:
+      - menyiapkan pengembalian pajak dan rekonsiliasi di bawah pengawasan
+      - menerapkan perlakuan pajak yang tepat pada pembelian dan pendapatan yang umum
+      - memeriksa status ketenagakerjaan kontraktor dengan panduan
+    practitioner: |
+      Anda dapat:
+      - mengelola pengembalian pajak dan rekonsiliasi pajak organisasi
+      - menasihati tentang perlakuan pajak kontrak, seperti lisensi perangkat lunak, layanan komputasi awan, dan layanan bersama
+      - memaksimalkan pemulihan pajak dalam aturan
+    expert: |
+      Anda dapat:
+      - memiliki strategi pajak dan risiko pajak organisasi
+      - memimpin diskusi dengan otoritas pajak tentang isu yang kompleks
+      - menilai dampak pajak dari perubahan besar, seperti kemitraan baru atau kegiatan perdagangan
+fin-financial-systems:
+  name: Sistem keuangan
+  description: Menggunakan, mengadministrasikan, dan memperbaiki sistem keuangan, pengadaan, penggajian, dan pelaporan agar data keuangan akurat dan proses efisien.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menggunakan sistem keuangan untuk tugas Anda sendiri, dengan mengikuti prosedur
+      - menjalankan laporan standar dan mengekspor data ke lembar kerja
+    working: |
+      Anda dapat:
+      - menggunakan lembar kerja dengan baik, termasuk rumus, pencarian, dan tabel pivot
+      - memelihara data sistem keuangan, seperti pusat biaya, pemasok, dan penyetuju
+      - melaporkan dan membantu memperbaiki masalah sistem
+    practitioner: |
+      Anda dapat:
+      - mengadministrasikan sistem keuangan atau penggajian, termasuk akses, alur kerja, dan pelaporan
+      - merancang laporan dan dasbor untuk pemegang anggaran
+      - menguji perubahan dan peningkatan sistem
+      - mengotomatiskan tugas keuangan yang berulang
+    expert: |
+      Anda dapat:
+      - memiliki strategi dan peta jalan sistem keuangan
+      - memimpin pengadaan dan penerapan sistem keuangan atau penggajian
+      - memastikan data keuangan terintegrasi dengan data tenaga kerja, pengadaan, dan kinerja
+fin-public-sector-finance:
+  name: Keuangan sektor publik
+  description: Memahami cara kerja pendanaan publik, termasuk alokasi pendanaan, batas modal dan operasional, pengendalian pengeluaran, akuntabilitas atas uang publik, dan nilai uang.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bahwa organisasi membelanjakan uang publik dan harus mempertanggungjawabkannya
+      - menjelaskan perbedaan antara pengeluaran modal dan operasional
+    working: |
+      Anda dapat:
+      - menerapkan aturan modal dan operasional organisasi pada pengeluaran sehari-hari
+      - menjelaskan bagaimana alokasi pendanaan dan batas pengeluaran memengaruhi bidang Anda
+      - mengenali pengeluaran yang memerlukan persetujuan pemberi dana atau pengendali pengeluaran
+    practitioner: |
+      Anda dapat:
+      - menasihati manajer tentang aturan pendanaan, termasuk pendanaan yang dialokasikan khusus dan terbatas waktu
+      - mengelola batas modal dan operasional untuk sebuah program atau direktorat
+      - menyiapkan pengembalian dan bukti untuk pemberi dana dan pengendali pengeluaran
+    expert: |
+      Anda dapat:
+      - mewakili organisasi di hadapan pemberi dana dan badan pengawas
+      - menasihati dewan tentang keteraturan, kepatutan, dan nilai uang
+      - membentuk perjanjian pendanaan dan rezim keuangan untuk layanan organisasi

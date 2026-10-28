@@ -1,0 +1,71 @@
+# Icelandic translations of data/skills/product-design.yaml. Keys are the English skill ids.
+pd-health-research-ethics:
+  name: Siðleg rannsókn með sjúklingum og umönnunarstarfsfólki
+  description: Að skipuleggja og framkvæma rannsóknir með sjúklingum, aðstandendum, klínísku starfsfólki og umönnunarstarfsfólki á öruggan og siðferðilegan hátt, þar á meðal upplýst samþykki, vernd, rannsóknir með fólki í viðkvæmum aðstæðum og að vita hvenær formlegt samþykki siðanefndar er nauðsynlegt.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna rannsóknir með sjúklingum og umönnunarstarfsfólki krefjast upplýsts samþykkis, verndar og varúðar með persónuupplýsingar
+      - fylgt verklagi teymisins um samþykki, vernd og meðferð gagna á rannsóknarfundum
+    working: |
+      Þú getur:
+      - skipulagt rannsóknarfundi sem afla upplýsts samþykkis og vernda vellíðan og friðhelgi þátttakenda
+      - aðlagað fundi fyrir fólk sem er veikt, í uppnámi eða í viðkvæmum aðstæðum og vitað hvenær á að stöðva
+      - greint og tilkynnt áhyggjur af vernd sem koma upp í rannsóknum
+    practitioner: |
+      Þú getur:
+      - metið hvenær rannsókn þarf formlegt samþykki siðanefndar eða rannsóknarstjórnarhátta og undirbúið það sem þarf
+      - skipulagt öruggar rannsóknir með fólki í viðkvæmum aðstæðum, svo sem börnum, fólki með heilabilun og fólki í kreppu
+      - skipulagt rannsóknir í klínísku umhverfi án þess að raska umönnun, í samstarfi við klíníska leiðtoga og umönnunarstarfsfólk
+      - stutt rannsakendur við að gæta eigin vellíðanar eftir átakanlega fundi
+    expert: |
+      Þú getur:
+      - mótað staðla stofnunarinnar um siðlega rannsókn með sjúklingum, aðstandendum og umönnunarstarfsfólki
+      - tryggt rannsóknarvenjur þvert á teymi og ráðlagt um rannsóknir með mikla áhættu
+      - verið fulltrúi rannsóknarvenja gagnvart siðanefndum, verndarstofnunum og stjórnarháttastofnunum
+pd-safety-critical-design:
+  name: Hönnun fyrir klínískt öryggi og mannlega þætti
+  description: Að hanna þjónustu, viðmót og vinnuflæði sem hjálpa klínísku starfsfólki, umönnunarstarfsfólki og sjúklingum að bregðast við á öruggan hátt, með því að beita meginreglum mannlegra þátta og vinna með ferli klínískrar áhættustýringar.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvernig hönnunarval getur valdið eða komið í veg fyrir villur í umönnun, svo sem mistök um rangan sjúkling eða rangan skammt
+      - notað mynstur stofnunarinnar fyrir öryggismikilvægar upplýsingar, svo sem auðkennisborða sjúklings og ofnæmisviðvaranir
+    working: |
+      Þú getur:
+      - hannað viðmót sem gera örugga aðgerð að þeirri auðveldu, til dæmis með því að fækka tvíræðum merkingum og óþarfa viðvörunum
+      - prófað hönnun í raunhæfum klínískum sviðsmyndum, þar á meðal með truflunum og tímapressu
+      - vakið máls á hönnunartengdum hættum við klíníska öryggisfulltrúann og skráð hvernig hönnun stýrir þeim
+    practitioner: |
+      Þú getur:
+      - beitt aðferðum mannlegra þátta, svo sem verkgreiningu og notkunarvillugreiningu, á flókið klínískt vinnuflæði
+      - hannað til að draga úr viðvörunarþreytu og vitsmunaálagi þvert á heila þjónustu
+      - lagt fram hönnunargögn fyrir klínísk öryggismál og nothæfisgögn fyrir lögbundinn hugbúnað
+    expert: |
+      Þú getur:
+      - mótað staðla og mynstur stofnunarinnar fyrir öryggismikla hönnun
+      - stýrt vinnu í mannlegum þáttum í klínískri þjónustu með mestu áhættuna
+      - ráðlagt leiðtogum klínísks öryggis og vara um hönnunartengda áhættu þvert á verkefnasafnið
+pd-health-content:
+  name: Heilbrigðisupplýsingaefni
+  description: Að búa til heilbrigðis- og velferðarefni sem er nákvæmt, klínískt tryggt og auðvelt fyrir fólk með mismunandi heilsulæsi að skilja og bregðast við.
+  levels:
+    awareness: |
+      Þú getur:
+      - útskýrt hvers vegna heilbrigðisupplýsingar verða að vera nákvæmar, núgildandi og auðskildar
+      - fylgt stílleiðbeiningum teymisins og ferli klínískrar yfirferðar fyrir heilbrigðisefni
+    working: |
+      Þú getur:
+      - skrifað heilbrigðisefni sem fólk með litla heilsulæsi getur skilið og brugðist við, svo sem einkenni og hvenær á að leita aðstoðar
+      - unnið með klínískum yfirlesurum að því að athuga nákvæmni án þess að tapa skýrleika
+      - útskýrt læknisfræðihugtök á látlausu máli og notað samræmd heiti á sjúkdómum, rannsóknum og meðferðum
+    practitioner: |
+      Þú getur:
+      - hannað efni um viðkvæm og áhættusöm efni, svo sem bráð einkenni, lyf og líknarmeðferð
+      - sett upp klíníska fullvissu, yfirferðardagsetningar og heimildir sannana fyrir safn heilbrigðisefnis
+      - vegið klíníska nákvæmni, lagalegar kröfur og skilning notenda í umdeildu efni
+    expert: |
+      Þú getur:
+      - mótað staðla stofnunarinnar fyrir heilbrigðisupplýsingaefni og klíníska fullvissu þess
+      - stýrt efnisstefnu fyrir heilbrigðisupplýsingar þvert á þjónustu og rásir
+      - ráðlagt æðstu klínískum leiðtogum og samskiptaleiðtogum um áhættu heilbrigðisupplýsinga

@@ -1,0 +1,265 @@
+# Swedish translations of data/skills/procurement.yaml. Keys are the English skill ids.
+proc-purchase-to-pay:
+  name: Från inköp till betalning
+  description: Skapa, godkänna och kvittera beställningar, och lösa frågor om fakturor och betalningar, genom organisationens inköpssystem och ekonomiska kontroller.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara regeln ”ingen inköpsorder, ingen betalning” och varför den är viktig
+      - skapa en rekvisition i inköpssystemet
+    working: |
+      Du kan:
+      - skapa och ändra inköpsorder och kontrollera dem mot avtal
+      - lösa frågor om fakturor, kvittering och betalning med leverantörer och ekonomi
+      - underhålla kataloger och leverantörsuppgifter i inköpssystemet
+    practitioner: |
+      Du kan:
+      - driva processen från inköp till betalning för en tjänst och följa efterlevnad och eftersläpning
+      - analysera utgiftsdata för att hitta inköp utanför avtal och besparingar
+      - förbättra processen och kontrollerna tillsammans med ekonomikollegor
+    expert: |
+      Du kan:
+      - fastställa organisationens policy, kontroller och system för processen från inköp till betalning
+      - leda övergången till helt elektroniska inköp och fakturering
+proc-procurement-process:
+  name: Upphandlingsprocess
+  description: Driva regelrätta upphandlingar, från planering och specifikation via vägar till marknaden, anbud, tilldelning och avtalstecknande, inklusive inköp via ramavtal och dynamiska inköpssystem.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara upphandlingens steg och de tröskelvärden som gäller
+      - inhämta offerter för inköp av lågt värde enligt organisationens regler
+    working: |
+      Du kan:
+      - genomföra offertförfrågningar och avrop från ramavtal med standardmallar
+      - förbereda anbudshandlingar och hantera förtydligande frågor i det elektroniska anbudssystemet
+      - föra ett tydligt granskningsspår för varje upphandling
+    practitioner: |
+      Du kan:
+      - planera och leda komplexa upphandlingar och välja rätt väg till marknaden och förfarande
+      - hjälpa användare att skriva utfallsbaserade kravspecifikationer för digitala och kliniska system
+      - styra tidsplaner, risker och intressenter fram till tilldelning av avtal
+    expert: |
+      Du kan:
+      - fastställa organisationens upphandlingsrutiner och mallar
+      - leda de mest komplexa, högvärdiga eller nya upphandlingarna
+      - kvalitetssäkra upphandlingsbeslut åt styrelsen
+proc-tender-evaluation:
+  name: Anbudsutvärdering
+  description: Utforma utvärderingskriterier och viktningar, och genomföra en rättvis och väldokumenterad utvärdering av kvalitet, pris och socialt värde.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför utvärderingen måste följa de publicerade kriterierna
+      - anmäla intressekonflikter innan du deltar i en utvärdering
+    working: |
+      Du kan:
+      - kontrollera anbud för överensstämmelse och fullständighet
+      - stödja utvärderare och föra poäng och anteckningar från kalibrering
+      - ta fram prisutvärderingsmodeller under handledning
+    practitioner: |
+      Du kan:
+      - utforma utvärderingskriterier, viktningar och poängvägledning
+      - leda kalibreringen och skriva tilldelningsrapporter och återkoppling till anbudsgivare
+      - planera demonstrationer och testning med kliniska scenarier eller användarscenarier vid systemupphandlingar
+    expert: |
+      Du kan:
+      - fastställa organisationens utvärderingsstandarder och förhållningssätt till pris och kvalitet
+      - försvara utvärderingsbeslut när de överprövas
+      - granska utvärderingar vid högriskupphandlingar
+proc-procurement-law-and-policy:
+  name: Regler och policy för offentlig upphandling
+  description: Tillämpa regler för offentlig upphandling, organisationens ekonomiska regler och upphandlingspolicy så att inköp är lagliga, transparenta och rättvisa.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara att offentliga medel måste användas rättvist, öppet och lagligt
+      - följa organisationens tröskelvärden och godkännanderegler
+    working: |
+      Du kan:
+      - tillämpa de upphandlingsregler som passar ett okomplicerat inköp
+      - publicera meddelanden och föra register som uppfyller transparensreglerna
+      - upptäcka när en begäran riskerar att bryta mot reglerna och lyfta det
+    practitioner: |
+      Du kan:
+      - ge råd om den lagliga vägen för komplexa upphandlingar och avtalsändringar
+      - hantera risken för överprövning och hantera avtalsspärr och återkoppling korrekt
+      - skriva upphandlingspolicy och vägledning för organisationen
+    expert: |
+      Du kan:
+      - tolka nya upphandlingsregler och leda organisationens svar
+      - ge styrelsen råd om efterlevnad av och risk i upphandling
+      - hantera formella överprövningar tillsammans med juridiska rådgivare
+proc-market-analysis:
+  name: Marknadsanalys och marknadsdialog
+  description: Förstå leverantörsmarknader, föra dialog med leverantörer före upphandling och använda marknadsevidens för att forma krav, vägar till marknaden och kommersiella modeller.
+  levels:
+    awareness: |
+      Du kan:
+      - hitta leverantörer i ramavtal och leverantörsdatabaser
+      - förklara varför tidig marknadsdialog måste vara rättvis mot alla leverantörer
+    working: |
+      Du kan:
+      - samla in marknadsinformation, priser och leverantörsuppgifter för ett krav
+      - genomföra en begäran om information och sammanfatta svaren
+    practitioner: |
+      Du kan:
+      - analysera en leveransmarknad, dess konkurrens, risker och trender
+      - leda tidig marknadsdialog, såsom leverantörsdagar, utan att snedvrida konkurrensen
+      - använda marknadsevidens för att forma krav och kommersiella modeller
+    expert: |
+      Du kan:
+      - forma marknader, till exempel genom att uppmuntra nya eller mindre leverantörer
+      - leda marknadsstrategi tillsammans med andra köpande organisationer
+proc-negotiation:
+  name: Kommersiella förhandlingar
+  description: Planera och genomföra förhandlingar med leverantörer för att komma överens om pris, villkor och prestation som ger valuta för pengarna och hanterar risk.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara vad som kan och inte kan förhandlas i en offentlig upphandling
+    working: |
+      Du kan:
+      - förhandla priser och villkor för inköp av lågt värde eller rutininköp
+      - förbereda data och alternativ för en förhandling som andra leder
+    practitioner: |
+      Du kan:
+      - planera och leda förhandlingar och sätta mål, gränser och reservpositioner
+      - förhandla avtalsändringar, förnyelser och förlikning av tvister
+      - hålla förhandlingar lagliga och väldokumenterade
+    expert: |
+      Du kan:
+      - leda högvärdiga och högriskfyllda förhandlingar med strategiska leverantörer
+      - coacha andra i förhandling och fastställa organisationens förhandlingsansats
+proc-category-management:
+  name: Kategoriförvaltning
+  description: Förvalta en utgiftskategori, såsom programvara, moln och tekniktjänster, genom en kategoristrategi som samlar efterfrågan, formar krav och planerar upphandlingar över flera år.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara vad en kategori är och varför kategoriplaner är viktiga
+    working: |
+      Du kan:
+      - analysera utgifter och avtal för en kategori och hålla avtalsregistret uppdaterat
+      - stödja kategoriplanen, såsom att följa upp förnyelser och besparingar
+    practitioner: |
+      Du kan:
+      - skriva och genomföra en kategoristrategi tillsammans med budgetansvariga och tekniska ledare
+      - planera flödet av upphandlingar och avtalsförnyelser för kategorin
+      - följa upp besparingar, värde och risker för kategorin
+    expert: |
+      Du kan:
+      - fastställa ansatsen för kategoriförvaltning i organisationen
+      - leda kategorierna med högst utgifter och risk, och samordna dem med organisationens strategi
+      - arbeta med andra organisationer på gemensamma inköp
+proc-technology-procurement:
+  name: Upphandling av teknik och molntjänster
+  description: Köpa programvara, molntjänster, licenser, hårdvara och digitala tjänster, inklusive programvara som tjänst, kommersiella modeller, licensiering och de villkor för säkerhet, dataskydd och interoperabilitet som hälsoteknik behöver.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara de huvudsakliga sätten att köpa teknik, såsom licenser, abonnemang och tjänster
+      - inse att kliniska system behöver kontroller av säkerhet, klinisk säkerhet och dataskydd
+    working: |
+      Du kan:
+      - köpa standardprogramvara, hårdvara och licenser genom ramavtal
+      - följa upp antal licenser, förnyelser och datum för efterjustering
+      - ta med standardkrav på säkerhet och dataskydd i handlingar
+    practitioner: |
+      Du kan:
+      - köpa moln, programvara som tjänst och kliniska system och välja rätt kommersiell modell
+      - bygga krav tillsammans med ledare för teknik, klinisk säkerhet och informationsstyrning
+      - ta med interoperabilitet, öppna standarder, dataägande och utträdesvillkor i avtal
+      - undvika inlåsning genom att planera för portabilitet och konkurrens vid förnyelse
+    expert: |
+      Du kan:
+      - fastställa organisationens kommersiella strategi för teknik och moln
+      - leda förhandlingar om företagsavtal och strategiska plattformar
+      - ge digitala ledare råd om de kommersiella riskerna med tekniska val
+proc-contract-management:
+  name: Avtalsförvaltning
+  description: Förvalta avtal efter tilldelning, inklusive igångsättning, prestation, betalningar, ändringar, tvister, förnyelse och utträde, så att organisationen får det den har betalat för.
+  levels:
+    awareness: |
+      Du kan:
+      - hitta ett avtal och förklara dess nyckeldatum, värde och ägare
+      - registrera avtalsändringar och dokument i avtalsregistret
+    working: |
+      Du kan:
+      - följa leverantörens prestation mot servicenivåer och nyckeltal
+      - förbereda avtalsgenomgångar och följa upp åtgärder
+      - bearbeta avtalsändringar och kontrollera fakturor mot avtalet
+    practitioner: |
+      Du kan:
+      - förvalta en portfölj av avtal, inklusive kliniska avtal och tekniska avtal
+      - använda avtalsmässiga åtgärder, såsom servicekrediter, när prestationen brister
+      - hantera ändringar, tvister och förnyelser inom upphandlingsreglerna
+      - planera utträde tidigt och testa utträdesplaner innan avtalen löper ut
+    expert: |
+      Du kan:
+      - fastställa organisationens ramverk och standarder för avtalsförvaltning
+      - leda förvaltningen av strategiska, högriskfyllda avtal
+      - lösa större tvister och besluta om uppsägning eller ny upphandling
+proc-supplier-relationship-management:
+  name: Förvaltning av leverantörsrelationer
+  description: Bygga strategiska relationer med nyckelleverantörer för att hantera risk, förbättra prestation och utveckla produkter och tjänster över tid.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför goda leverantörsrelationer är viktiga för tjänster som patienter förlitar sig på
+      - bemöta leverantörer professionellt och registrera kontakter
+    working: |
+      Du kan:
+      - hålla leverantörskontakter, eskaleringsvägar och register aktuella
+      - kontrollera leverantörers ekonomiska hälsa och försäkring mot kraven
+    practitioner: |
+      Du kan:
+      - segmentera leverantörer efter risk och värde och planera hur varje grupp ska förvaltas
+      - genomföra strategiska genomgångar med nyckelleverantörer, inklusive färdplan och förbättringsplaner
+      - hantera leverantörsrisker, såsom ekonomiskt haveri, cyberincidenter och problem i leverantörskedjan
+    expert: |
+      Du kan:
+      - fastställa organisationens strategi för leverantörsrelationer
+      - leda ledningsrelationerna med strategiska leverantörer
+      - leda svaret när en kritisk leverantör fallerar
+proc-exit-planning:
+  name: Utträdesplanering och återlämnande av data
+  description: Planera och förvalta slutet på ett avtal, inklusive övergång till en ny leverantör, återlämnande och radering av data och kontinuitet i tjänster för patienter och personal.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara varför varje avtal behöver en utträdesplan
+      - hitta ett avtals villkor för utträde och återlämnande av data
+    working: |
+      Du kan:
+      - hålla utträdesplaner samt tillgångs- och dataregister uppdaterade
+      - följa upp uppsägningstider och utträdesmilstolpar
+    practitioner: |
+      Du kan:
+      - skriva utträdes- och övergångsplaner tillsammans med ledare för teknik, data och klinik
+      - se till att data återlämnas i användbara standardformat och därefter raderas säkert
+      - hantera övergångsrisker så att vården inte störs
+    expert: |
+      Du kan:
+      - fastställa organisationens standarder för utträde, övergång och återlämnande av data
+      - leda utträden ur strategiska kliniska avtal och tekniska avtal
+proc-social-value:
+  name: Socialt värde och hållbar upphandling
+  description: Använda upphandling och avtal för att skapa socialt värde, miljömässig hållbarhet och rättvisa leverantörskedjor, och mäta vad leverantörer levererar.
+  levels:
+    awareness: |
+      Du kan:
+      - förklara vad socialt värde och hållbar upphandling innebär för organisationen
+    working: |
+      Du kan:
+      - ta med standardfrågor om socialt värde och hållbarhet i anbud
+      - samla in rapporter om socialt värde från leverantörer
+    practitioner: |
+      Du kan:
+      - sätta kriterier för socialt värde och hållbarhet som passar avtalet
+      - förvalta leverantörers åtaganden, såsom lokala jobb, kompetens och minskade koldioxidutsläpp
+      - kontrollera leverantörskedjor för risker såsom tvångsarbete och andra kränkningar av mänskliga rättigheter
+    expert: |
+      Du kan:
+      - fastställa organisationens policy för socialt värde och hållbar upphandling
+      - rapportera utfall för socialt värde och koldioxid till styrelsen

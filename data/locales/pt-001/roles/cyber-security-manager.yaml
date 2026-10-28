@@ -1,0 +1,57 @@
+summary: Os gerentes de cibersegurança lideram a abordagem da organização para proteger seus sistemas, dados e serviços contra ameaças cibernéticas. Definem a política de segurança, gerem o risco cibernético, supervisionam as operações e a engenharia de segurança, lideram a resposta a grandes incidentes cibernéticos e constroem uma cultura atenta à segurança. Na saúde, garantem que os serviços clínicos possam continuar funcionando com segurança, e se recuperar com rapidez, quando ocorre um ataque.
+health_context:
+- Um ataque cibernético a uma organização de saúde pode paralisar sistemas clínicos e colocar pacientes em risco, por isso a cibersegurança faz parte da segurança dos pacientes e da continuidade de negócios.
+- As organizações de saúde muitas vezes precisam cumprir normas setoriais de cibersegurança e comunicar incidentes graves às autoridades competentes.
+- As equipes clínicas precisam de acesso rápido aos sistemas, por isso as políticas de segurança são elaboradas com os clínicos e testadas quanto à usabilidade.
+- A segurança depende de muitos fornecedores, incluindo fornecedores de sistemas clínicos e serviços compartilhados, por isso a garantia de fornecedores é parte central da função.
+- Dispositivos médicos e sistemas legados criam riscos duradouros, geridos com a engenharia clínica e as equipes de segurança clínica.
+levels:
+- title: Gerente de cibersegurança
+  summary: Uma pessoa gerente de cibersegurança conduz a função de cibersegurança, ou uma parte importante dela, gerindo o risco cibernético, as operações de segurança e a garantia.
+  responsibilities:
+  - Conduzir as operações de segurança, a gestão de vulnerabilidades e o trabalho de garantia e reportar o seu desempenho.
+  - Manter o registro de riscos cibernéticos e garantir que os riscos aos serviços clínicos sejam avaliados e tenham responsável.
+  - Escrever e manter políticas e padrões de segurança e verificar se são cumpridos.
+  - Liderar a resposta a incidentes cibernéticos, trabalhando com a gestão de incidentes e com as lideranças clínicas e operacionais.
+  - Conduzir o treinamento de conscientização em segurança e exercícios de phishing para todas as equipes, inclusive as clínicas.
+  - Chefiar analistas e profissionais de engenharia de segurança.
+  qualifications:
+  - Ampla experiência em cibersegurança, incluindo resposta a incidentes e gestão de riscos, em nível equivalente ao de mestrado.
+  - Uma certificação profissional de segurança reconhecida, ou experiência equivalente.
+  job_evaluation_notes: O esforço mental e o emocional refletem a liderança da resposta a incidentes cibernéticos sob pressão, muitas vezes fora do horário comercial, quando o cuidado dos pacientes pode estar em risco.
+- title: Gerente de cibersegurança sênior
+  summary: Uma pessoa gerente de cibersegurança sênior lidera a cibersegurança em várias equipes, gere a garantia em relação às normas setoriais e conduz o programa de melhoria da segurança da organização.
+  responsibilities:
+  - Liderar as equipes de cibersegurança de operações, engenharia e garantia.
+  - Conduzir o programa de melhoria da cibersegurança da organização e gerir seu orçamento.
+  - Gerir a garantia em relação às normas setoriais de cibersegurança e aos controles da ISO/IEC 27001 e preparar evidências para auditorias.
+  - Liderar a resposta a grandes incidentes cibernéticos e planejar e testar a recuperação com as lideranças de continuidade de negócios e clínicas.
+  - Avaliar a segurança de fornecedores e de serviços compartilhados e acordar requisitos de segurança nos contratos.
+  - Aconselhar os comitês de programa sobre os riscos de segurança de novos serviços clínicos e digitais.
+  qualifications:
+  - Ampla experiência na liderança de equipes de cibersegurança em uma organização complexa.
+  - Uma certificação profissional de segurança reconhecida, ou experiência equivalente.
+  job_evaluation_notes: O esforço mental e o emocional refletem a liderança da resposta a grandes incidentes cibernéticos, que podem durar dias ou semanas e ameaçar o cuidado dos pacientes.
+- title: Chefia de cibersegurança
+  summary: Uma pessoa na chefia de cibersegurança define a estratégia de cibersegurança da organização e responde por sua gestão de riscos cibernéticos, suas operações de segurança e sua resposta a grandes incidentes.
+  responsibilities:
+  - Definir a estratégia de cibersegurança, em linha com as estratégias digital e clínica da organização.
+  - Aconselhar o conselho de administração e a equipe executiva sobre risco cibernético, apetite de risco e investimento.
+  - Liderar a resposta da organização a grandes incidentes cibernéticos, incluindo a comunicação com reguladores, parceiros e o público.
+  - Construir uma cultura de segurança em que todas as pessoas, inclusive os clínicos, compreendam as ameaças e as comuniquem.
+  - Representar a organização em redes de cibersegurança da saúde e perante organizações parceiras.
+  - Liderar e desenvolver a função de cibersegurança e gerir seu orçamento.
+  qualifications:
+  - Ampla experiência na liderança da cibersegurança de uma organização grande, incluindo a resposta a grandes incidentes.
+- title: Direção de segurança da informação
+  summary: Uma pessoa na direção de segurança da informação tem responsabilidade corporativa pela cibersegurança em toda a organização e, muitas vezes, em organizações parceiras que compartilham seus serviços.
+  responsibilities:
+  - Ter a responsabilidade corporativa pela cibersegurança e reportá-la ao conselho de administração.
+  - Definir com o conselho o apetite ao risco de segurança e garantir que ele oriente as decisões em toda a organização.
+  - Liderar a cibersegurança em serviços compartilhados e organizações parceiras, quando a organização os presta.
+  - Dirigir a resposta da organização aos incidentes cibernéticos mais graves, trabalhando com a equipe executiva e as autoridades competentes.
+  - Dar forma à prática de cibersegurança no setor de saúde e de cuidados, trabalhando com parceiros e órgãos setoriais.
+  - Liderar a função de segurança e administrar orçamentos em vários serviços.
+  qualifications:
+  - Ampla experiência na liderança da cibersegurança em nível de conselho ou para várias organizações.
+  job_evaluation_notes: Este nível se aplica a organizações maiores ou que prestam serviços digitais compartilhados a parceiros. Organizações menores costumam ter uma chefia de cibersegurança na Faixa 8c como sua função de segurança mais sênior.

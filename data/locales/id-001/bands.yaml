@@ -1,0 +1,97 @@
+# Gambaran pita dalam bahasa Indonesia. Kuncinya adalah id pita bahasa Inggris.
+"1":
+  title: Pita 1
+  stage: Awal
+  knowledge: Kemampuan baca-tulis dan berhitung dasar; mempelajari tugas rutin sederhana sambil bekerja.
+  autonomy: Mengikuti instruksi yang jelas; pekerjaannya sering diperiksa.
+  scope: Tugas rutinnya sendiri.
+  leadership: Tidak ada.
+  accountability: Menyelesaikan tugas rutin dengan teliti.
+"2":
+  title: Pita 2
+  stage: Pendukung
+  knowledge: Mengetahui rutinitas dan prosedur di bidang kerjanya; dapat memiliki kualifikasi tingkat awal.
+  autonomy: Bekerja menurut prosedur yang ditetapkan, dengan penyelia yang siap membantu.
+  scope: Tugasnya sendiri dalam sebuah tim.
+  leadership: Dapat menunjukkan tugas rutin kepada orang yang baru bergabung.
+  accountability: Mutu dan ketepatan waktu pekerjaan rutinnya sendiri.
+"3":
+  title: Pita 3
+  stage: Pendukung
+  knowledge: Pengetahuan tentang berbagai prosedur, sebagian tidak rutin; biasanya kualifikasi tingkat 3 atau pengalaman yang setara.
+  autonomy: Bekerja dalam prosedur; memutuskan cara mengatur pekerjaannya sendiri; meneruskan masalah ke atas.
+  scope: Pekerjaannya sendiri dan sebagian tugas untuk tim yang lebih luas.
+  leadership: Dapat membagi pekerjaan rutin atau melatih orang lain dalam prosedur.
+  accountability: Ketelitian pekerjaannya sendiri dan catatan yang dipegangnya.
+"4":
+  title: Pita 4
+  stage: Pendukung dan praktisi pemula
+  knowledge: Pengetahuan rinci tentang bidang kerja, biasanya dari diploma, magang, atau pengalaman yang setara.
+  autonomy: Bekerja dalam pedoman; menyelesaikan sebagian besar masalah sehari-hari; atasan siap memberi saran.
+  scope: Pekerjaannya sendiri dan sebuah layanan atau proses yang ditentukan.
+  leadership: Dapat menyelia tim kecil atau mengoordinasikan pekerjaan orang lain.
+  accountability: Penyampaian sebuah layanan atau proses yang ditentukan.
+"5":
+  title: Pita 5
+  stage: Praktisi
+  knowledge: Pengetahuan profesional atau teknis, biasanya dari gelar sarjana atau pengalaman yang setara.
+  autonomy: Bekerja menuju sasaran yang luas dalam standar profesional; merencanakan pekerjaannya sendiri.
+  scope: Pekerjaan profesionalnya sendiri dalam sebuah tim atau produk.
+  leadership: Dapat membimbing dan memeriksa pekerjaan staf pendukung dan peserta magang.
+  accountability: Mutu pekerjaan profesionalnya sendiri.
+"6":
+  title: Pita 6
+  stage: Praktisi berpengalaman
+  knowledge: Pengetahuan spesialis di berbagai prosedur, dibangun melalui pelatihan lanjutan atau pengalaman.
+  autonomy: Bekerja mandiri; menafsirkan kebijakan untuk bidangnya; meminta saran untuk masalah yang kompleks.
+  scope: Sebuah produk, layanan, atau alur kerja.
+  leadership: Dapat memimpin tim kecil atau membimbing rekan kerja.
+  accountability: Hasil alur kerjanya sendiri dan mutu saran yang diberikan.
+"7":
+  title: Pita 7
+  stage: Senior atau spesialis
+  knowledge: Pengetahuan spesialis yang sangat berkembang, biasanya setingkat magister atau pengalaman yang setara.
+  autonomy: Bekerja menurut kebijakan organisasi; memutuskan cara mencapai hasil; menjadi pakar tempat orang lain berkonsultasi.
+  scope: Beberapa produk atau layanan, atau sebuah fungsi spesialis.
+  leadership: Memimpin sebuah tim atau bidang praktik profesional.
+  accountability: Penyampaian sebuah layanan atau fungsi spesialis, dan anggarannya jika dipegang.
+8a:
+  title: Pita 8a
+  stage: Pemimpin
+  knowledge: Pengetahuan pakar tentang suatu disiplin dan pengelolaannya.
+  autonomy: Menafsirkan kebijakan organisasi untuk sebuah layanan; menetapkan arah tim.
+  scope: Sebuah bidang layanan atau suatu disiplin di seluruh organisasi.
+  leadership: Mengelola sebuah tim, atau memimpin suatu disiplin tanpa manajemen garis.
+  accountability: Sebuah bidang layanan, stafnya, dan anggarannya.
+8b:
+  title: Pita 8b
+  stage: Pemimpin
+  knowledge: Pengetahuan pakar di beberapa disiplin atau sebuah layanan besar.
+  autonomy: Membentuk kebijakan dan strategi untuk bidang yang luas.
+  scope: Beberapa layanan atau tim, atau suatu disiplin tingkat utama.
+  leadership: Mengelola para manajer, atau menjadi otoritas utama dalam suatu disiplin.
+  accountability: Beberapa layanan, staf, dan anggarannya.
+8c:
+  title: Pita 8c
+  stage: Pemimpin senior
+  knowledge: Pengetahuan pakar, serta pemahaman organisasi dan sektor yang luas.
+  autonomy: Menetapkan strategi untuk sebuah fungsi; bertanggung jawab kepada seorang direktur.
+  scope: Sebuah fungsi atau departemen.
+  leadership: Memimpin sebuah fungsi melalui beberapa lapisan manajemen.
+  accountability: Kinerja, tenaga kerja, dan anggaran sebuah fungsi.
+8d:
+  title: Pita 8d
+  stage: Pemimpin senior
+  knowledge: Pengetahuan strategis lintas fungsi dan di sistem kesehatan dan perawatan yang lebih luas.
+  autonomy: Membentuk strategi di seluruh organisasi; mewakili seorang direktur.
+  scope: Sebuah fungsi utama atau beberapa fungsi.
+  leadership: Memimpin beberapa fungsi atau sebuah departemen besar.
+  accountability: Fungsi-fungsi utama, anggaran besar, dan risiko di seluruh organisasi.
+"9":
+  title: Pita 9
+  stage: Kepala profesi atau direktur
+  knowledge: Keahlian strategis dan kepemimpinan di seluruh sistem.
+  autonomy: Menetapkan strategi organisasi bersama tim eksekutif.
+  scope: Organisasi, dan mitra-mitranya di seluruh sistem.
+  leadership: Memimpin sebuah profesi atau direktorat.
+  accountability: Hasil, anggaran, dan risiko di seluruh organisasi.

@@ -1,0 +1,54 @@
+summary: >
+  Personal inom styrning och risk ser till att organisationen är välskött och har kontroll över sina risker. De stödjer styrelsen och dess kommittéer, driver ramverket och registren för riskhantering, håller policyer och styrningsregister i ordning och samordnar kvalitetssäkring och revision, så att ledare kan fatta välgrundade beslut och visa att de uppfyller sina lagliga och regulatoriska plikter.
+health_context:
+  - Hälso- och sjukvårdsorganisationer bär kliniska risker, informationsrisker, cyberrisker, ekonomiska risker och anseenderisker, så riskramverket måste föra samman dessa för styrelsen.
+  - Styrelser måste kunna visa att de har försäkran om patientsäkerhet och kvalitet, så personal inom styrning kopplar rapportering om klinisk säkerhet och kvalitet till kommittéer.
+  - Tillsynsmyndigheter och revisorer förväntar sig tydliga register över beslut, risker, jävsdeklarationer och policyer.
+  - Allvarliga incidenter och tjänstehaverier kräver snabb, väldokumenterad eskalering genom styrningsstrukturen.
+levels:
+  - title: Styrningshandläggare
+    summary: Stödjer styrningscykeln för kommittéer och håller risk-, policy- och styrningsregister uppdaterade.
+    responsibilities:
+      - Samordna kommittémöten, framåtblickande planer, underlag och protokoll.
+      - Underhålla riskregistret och uppmana riskägare att granska sina risker.
+      - Hålla styrningsregister uppdaterade, såsom jävsdeklarationer, gåvor och representation.
+      - Underhålla policyregistret och följa upp granskningar av policyer.
+      - Samordna underlag till revisioner och följa upp revisionsrekommendationer.
+      - Besvara rutinfrågor om styrning från personal.
+    qualifications:
+      - En examen eller en kvalifikation inom styrning, eller motsvarande erfarenhet.
+  - title: Senior handläggare inom styrning och risk
+    summary: Driver delar av ramverket för styrning och risk, ger direktörsenheter råd om risk och stödjer seniora kommittéer.
+    responsibilities:
+      - Driva riskhanteringsprocessen för direktörsenheter och ifrågasätta riskpoäng och kontroller.
+      - Förbereda risk- och försäkransrapporter för seniora kommittéer.
+      - Stödja seniora kommittéer, inklusive revisions- och riskkommittén, med underlag och formella protokoll.
+      - Granska policyer med avseende på efterlevnad av policyramverket, lagstiftning och skyldigheter om likabehandling.
+      - Utbilda chefer i riskhantering och styrningsprocesser.
+      - Samordna organisationens svar på förfrågningar från tillsynsmyndigheter och revisorer.
+    qualifications:
+      - En examen eller yrkeskvalifikation inom styrning eller riskhantering, eller motsvarande erfarenhet.
+  - title: Styrnings- och riskansvarig
+    summary: Förvaltar tjänsten för styrning och risk, inklusive cykeln för styrelse och kommittéer, riskramverket och kartläggningen av försäkran.
+    responsibilities:
+      - Förvalta cykeln för styrelse och kommittéer och styrningsteamet.
+      - Driva organisationens ramverk för riskhantering och styrelsens ramverk för försäkran.
+      - Ge direktörer råd om risker, riskaptit och eskalering.
+      - Kartlägga försäkran över organisationens huvudsakliga risker och arbeta med interna och externa revisorer.
+      - Hålla arbetsordningar, delegationsordningar och policyramverket uppdaterade.
+      - Samordna styrningens svar på allvarliga incidenter och förfrågningar från tillsynsmyndigheter.
+    qualifications:
+      - En yrkeskvalifikation inom styrning eller riskhantering, eller motsvarande erfarenhet.
+      - Betydande erfarenhet av bolagsstyrning eller riskhantering.
+  - title: Chef för bolagsstyrning
+    summary: Leder bolagsstyrning och risk för organisationen, fungerar ofta som styrelsens sekreterare och ger ordföranden och styrelsen råd om styrning.
+    responsibilities:
+      - Utforma och leda organisationens styrningsramverk, inklusive styrelsen och dess kommittéer.
+      - Vara styrelsens sekreterare och ge ordföranden och styrelsen råd om styrning, uppförande och efterlevnad.
+      - Äga ramverket för riskhantering och riskaptiten och ge styrelsen råd om strategiska risker.
+      - Leda den årliga styrningsredogörelsen och rapporteringen om styrning.
+      - Leda teamet för styrning, risk och försäkran.
+      - Företräda organisationen hos tillsynsmyndigheter och revisorer i styrningsfrågor.
+    qualifications:
+      - En yrkeskvalifikation inom bolagsstyrning, eller motsvarande erfarenhet.
+      - Omfattande erfarenhet av att leda styrning och risk på styrelsenivå.

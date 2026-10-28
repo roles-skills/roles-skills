@@ -1,0 +1,50 @@
+summary: >
+  Avtalsansvariga ser till att organisationen får det den betalar för efter att ett avtal har tecknats. De förvaltar leverantörers prestation, betalningar, ändringar, tvister, förnyelser och utträde och bygger relationer med nyckelleverantörer. I en digital hälso- och sjukvårdsorganisation gäller många av de viktigaste avtalen kliniska system, molndrift och tekniktjänster som patienter och personal förlitar sig på varje dag.
+health_context:
+  - Avbrott eller fel i kliniska system kan påverka patientvården, så avtalsansvariga följer tillgänglighet, incidenthantering och supportnivåer noga och använder avtalsmässiga åtgärder vid behov.
+  - Leverantörer behandlar ofta patientdata, så avtal förvaltas tillsammans med kollegor inom informationsstyrning och säkerhet, inklusive villkor om dataskydd, revisioner och hantering av dataintrång.
+  - Utträde och återlämnande av data måste planeras från början, så att patientjournaler kan flyttas till ett nytt system i ett användbart format och gamla kopior raderas säkert.
+  - Avtalsändringar måste följa regler för offentlig upphandling, så avtalsansvariga kontrollerar om en ändring kräver en ny upphandling.
+  - Leverantörers releaser kan förändra hur ett kliniskt system beter sig, så avtalsansvariga ser till att leverantörer uppfyller sina åtaganden om klinisk säkerhet.
+levels:
+  - title: Avtalsansvarig
+    summary: Förvaltar en portfölj av avtal, inklusive avtal om teknik och kliniska system, från igångsättning till förnyelse, inom ramverket för avtalsförvaltning. Kallas även avtalshandläggare.
+    responsibilities:
+      - Förvalta en portfölj av avtal och hålla avtalsregistret, dokumenten och nyckeldatum aktuella.
+      - Genomföra regelbundna prestationsgenomgångar med leverantörer, med servicenivåer och nyckeltal.
+      - Kontrollera fakturor mot avtalsvillkor och lösa faktureringstvister.
+      - Förhandla och hantera avtalsändringar och tillägg inom upphandlingsreglerna.
+      - Följa upp licensanvändning, förnyelser och uppsägningstider och planera förnyelser och ny upphandling över portföljen.
+      - Hålla utträdesplaner och dataregister uppdaterade för varje avtal.
+      - Arbeta med kollegor inom informationsstyrning och säkerhet om leverantörers kontroller av dataskydd och säkerhet.
+    qualifications:
+      - En erkänd kvalifikation inom upphandling eller avtalsförvaltning på avancerad nivå, eller motsvarande erfarenhet.
+      - Erfarenhet av att förvalta tjänsteavtal, helst för teknik.
+    job_evaluation_notes: Annonser inom hälso- och sjukvården placerar rollen i band 7. Analys är nivå 5 för bedömningar av komplexa avtalsvillkor och tvister, planering är nivå 4 för förnyelser över portföljen och ekonomiska resurser är nivå 4 eftersom arbetet förvaltar utgifterna i en portfölj av tjänsteavtal.
+  - title: Senior avtalsansvarig
+    summary: Förvaltar organisationens strategiska och högriskfyllda avtal, såsom den elektroniska patientjournalen och molndrift, och leder relationerna med nyckelleverantörer.
+    responsibilities:
+      - Förvalta strategiska avtal för kliniska system och tekniktjänster, inklusive igångsättning av nya avtal.
+      - Leda strategiska genomgångar med nyckelleverantörer som omfattar prestation, färdplan, risker och förbättringsplaner.
+      - Använda avtalsmässiga åtgärder, såsom servicekrediter och åtgärdsplaner, när prestationen brister.
+      - Förhandla avtalsändringar, förnyelser och förlikning av tvister.
+      - Skriva och testa utträdes- och övergångsplaner, inklusive återlämnande av data i standardformat och säker radering.
+      - Bedöma leverantörsrisker, såsom ekonomisk hälsa, cybersäkerhet och leverantörskedja, och planera för leverantörshaveri.
+      - Coacha och leda avtalsansvariga.
+    qualifications:
+      - En erkänd kvalifikation inom upphandling eller avtalsförvaltning på avancerad nivå, eller en masterexamen i ett närliggande ämne, eller motsvarande erfarenhet.
+      - Betydande erfarenhet av att förvalta strategiska teknikavtal eller avtal om uthyrda tjänster.
+    job_evaluation_notes: Annonser inom hälso- och sjukvården placerar rollen i band 8a. Kunskap, analys och handlingsfrihet poängsätts enligt profilen för band 8a eftersom arbetet förvaltar organisationens strategiska avtal med liten tillsyn. Ekonomiska resurser är nivå 4 eftersom arbetet förvaltar utgifterna och tillgångarna i högvärdiga tjänsteavtal.
+  - title: Ledande avtalsansvarig
+    summary: Leder avtals- och leverantörsförvaltning i organisationen, fastställer ramverket för avtalsförvaltning och leder avtalsteamet.
+    responsibilities:
+      - Fastställa organisationens ramverk, standarder och verktyg för avtalsförvaltning.
+      - Leda teamet för avtalsförvaltning och dess portfölj av avtal.
+      - Leda förvaltningen av de mest kritiska leverantörsrelationerna och lösa större tvister.
+      - Fastställa standarder för utträdesplanering och återlämnande av data och leda utträden ur strategiska avtal.
+      - Rapportera avtalsprestation, leverantörsrisk och besparingar till ledningens kommittéer.
+      - Ge råd om uppsägning, ny upphandling och leverantörshaveri.
+    qualifications:
+      - En erkänd kvalifikation inom upphandling eller avtalsförvaltning på avancerad nivå, eller en masterexamen i ett närliggande ämne, eller motsvarande erfarenhet.
+      - Omfattande erfarenhet av att leda avtalsförvaltning för komplexa tjänster.
+    job_evaluation_notes: Annonser inom hälso- och sjukvården placerar rollen i band 8b. Planering är nivå 5 för det organisationsövergripande ramverket för avtalsförvaltning, ekonomiska resurser är nivå 5 eftersom arbetet överblickar avtal över många tjänster och människor är nivå 4 eftersom det har linjeansvar för avtalsteamet.

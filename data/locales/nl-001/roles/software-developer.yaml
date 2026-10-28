@@ -1,0 +1,66 @@
+summary: Softwareontwikkelaars bouwen, testen en onderhouden de software achter de digitale diensten voor gezondheid van de organisatie, zoals apps voor patiënten, klinische systemen, integratiediensten en dataplatforms. Zij werken in multidisciplinaire productteams, schrijven code die veilig, beveiligd, toegankelijk en onderhoudbaar is en ondersteunen hun diensten in live gebruik.
+health_context:
+- Software kan de zorg voor patiënten raken, dus ontwikkelaars volgen het proces voor klinisch risicobeheer en dragen bewijs bij aan veiligheidsdossiers.
+- Code verwerkt vaak vertrouwelijke gezondheidsinformatie, dus ontwikkelaars passen informatiebeheer en veilig programmeren standaard toe.
+- Veel diensten wisselen data uit met andere systemen voor gezondheid en zorg, met open standaarden voor interoperabiliteit zoals HL7 FHIR.
+- Sommige software kan als medisch hulpmiddel gereguleerd zijn, dus ontwikkelaars moeten weten wanneer zij advies over regelgeving moeten vragen.
+levels:
+- title: Leerling softwareontwikkelaar
+  responsibilities:
+  - De talen, instrumenten en werkwijzen van het team leren via gestructureerde training en samen werken.
+  - Onder nauw toezicht kleine, goed omschreven stukken code schrijven en testen.
+  - De procedures voor veilig programmeren, informatiebeheer en klinische veiligheid volgen.
+  - Deelnemen aan ceremonies van het team zoals stand-ups, planning en retrospectives.
+  - Werken aan een leerwerktraject of een gelijkwaardige kwalificatie.
+  qualifications:
+  - Ingeschreven voor, of werkend aan, een leerwerktraject in softwareontwikkeling of gelijkwaardig.
+  job_evaluation_notes: Kennis wordt gescoord op het niveau dat de functie vraagt zodra de training ver genoeg is gevorderd om het werk te doen; informatiebronnen weerspiegelt werk aan systemen die door anderen zijn ontworpen.
+- title: Junior softwareontwikkelaar
+  responsibilities:
+  - Met begeleiding functies voor de producten van het team bouwen en testen, op basis van user stories.
+  - Geautomatiseerde tests schrijven en gebreken herstellen, ook in diensten die de zorg voor patiënten ondersteunen.
+  - Bewijs bijdragen aan klinische veiligheidsdossiers, zoals testresultaten en wijzigingsregistraties.
+  - Gezondheidsdata veilig verwerken volgens de regels voor informatiebeheer.
+  - Onder begeleiding live diensten ondersteunen als onderdeel van de regelingen voor ondersteuning van het team.
+  qualifications:
+  - Een bachelor in informatica of een verwant vak, een voltooid leerwerktraject, of gelijkwaardige ervaring.
+- title: Softwareontwikkelaar
+  responsibilities:
+  - Zelfstandig functies en diensten ontwerpen, bouwen en testen en geschikte benaderingen kiezen.
+  - Code beoordelen en helpen de engineeringnormen van het team bij te houden.
+  - Integraties met andere systemen voor gezondheid en zorg bouwen met open standaarden zoals HL7 FHIR.
+  - Deelnemen aan het opsporen van gevaren en helpen beheersmaatregelen voor klinische veiligheid in code en tests te verwerken.
+  - Problemen in live diensten onderzoeken en oplossen, inclusief ondersteuning buiten kantooruren waar de dienst dat nodig heeft.
+  - Junior ontwikkelaars en leerlingen begeleiden.
+  qualifications:
+  - Een bachelor in informatica of een verwant vak, of gelijkwaardige ervaring.
+  - Ervaring met het bouwen en ondersteunen van software in productie.
+- title: Senior softwareontwikkelaar
+  responsibilities:
+  - Het technische ontwerp en de levering van belangrijke functies en diensten leiden.
+  - Engineeringnormen voor het team vaststellen en bijhouden, inclusief testen, beveiliging en toegankelijkheid.
+  - Technische beslissingen nemen die behoeften van gebruikers, klinische veiligheid, beveiliging en kosten afwegen.
+  - Het onderzoek naar incidenten voor de diensten van het team leiden en het herstel aansturen.
+  - Met klinischeveiligheidsfunctionarissen zorgen dat beheersmaatregelen voor veiligheid worden ingebouwd en getest.
+  - Ontwikkelaars in het team coachen en ontwikkelen.
+  qualifications:
+  - Aanzienlijke ervaring met het ontwerpen, bouwen en ondersteunen van software in productie, op een niveau gelijkwaardig aan een master.
+- title: Lead softwareontwikkelaar
+  responsibilities:
+  - De engineering voor een product of groep teams leiden en de technische richting vaststellen.
+  - Zorgen dat de software wordt ontworpen voor veiligheid, beveiliging, veerkracht en interoperabiliteit.
+  - Met architecten, productmanagers en klinische leiders de roadmap van het product vormgeven.
+  - De praktijkgemeenschap voor ontwikkeling leiden en normen over teams heen vaststellen.
+  - Hiërarchisch leiding geven aan of leiden van ontwikkelaars en hun ontwikkeling en prestaties ondersteunen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van software-engineering voor complexe diensten.
+  job_evaluation_notes: Het UK GDaD PCF noemt zowel lead als principal ontwikkelaar het vaakst op G7 of G6; deze referentie plaatst lead op Band 8a en principal op Band 8b.
+- title: Principal softwareontwikkelaar
+  responsibilities:
+  - De strategie, normen en praktijken voor software-ontwikkeling van de organisatie vaststellen.
+  - Senior leiders adviseren over keuzes in technologie, risico’s en investeringen.
+  - De oplossing van de meest complexe technische problemen over diensten heen leiden.
+  - De organisatie vertegenwoordigen in gemeenschappen voor engineering en open source over organisaties heen.
+  - Lead ontwikkelaars leiden en ontwikkelen en de engineeringcapaciteit van de organisatie laten groeien.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van engineering over meerdere teams of organisaties.

@@ -1,0 +1,54 @@
+summary: Vörustjórar tryggja að stafrænar heilbrigðisvörur stofnunarinnar mæti þörfum sjúklinga, klínísks starfsfólks og umönnunarstarfsfólks og skili virði fyrir heilbrigðis- og velferðarkerfið. Þeir móta framtíðarsýn og vegvísi vörunnar, forgangsraða vinnu þverfaglegra teyma út frá sönnunargögnum og bera ábyrgð á þeim niðurstöðum sem vörur þeirra ná, þar á meðal áhrifum þeirra á umönnun.
+health_context:
+- Vöruákvarðanir geta haft áhrif á öryggi sjúklinga, svo vörustjórar bera ábyrgð á klínískri áhættu vöru sinnar ásamt klíníska öryggisfulltrúanum og tryggja að hættum sé stýrt fyrir útgáfu.
+- Vörur þjóna mörgum notendahópum með ólíkar þarfir, svo sem sjúklingum, aðstandendum, klínísku starfsfólki og skrifstofustarfsfólki, og vörustjórar verða að vega þá sanngjarnt.
+- Sumar vörur kunna að vera lögbundnar sem lækningatæki, svo vörustjórar þurfa að vita hvenær regluverk á við og skipuleggja í samræmi við það.
+- Niðurstöður í umönnun fela í sér öryggi, gæði, aðgengi, jafnræði og tíma starfsfólks, svo vörustjórar skilgreina árangursmælikvarða sem klínískir leiðtogar og rekstrarleiðtogar kannast við.
+- Vörur velta oft á landsbundnum og svæðisbundnum heilbrigðisgagnastöðlum og sameiginlegum vettvöngum, svo vörustjórar vinna þvert á stofnanamörk.
+levels:
+- title: Aðstoðarvörustjóri
+  responsibilities:
+  - Bera ábyrgð á verkefnalista eiginleika eða hluta vöru, í samstarfi við vörustjóra.
+  - Breyta gögnum úr notendarannsóknum með sjúklingum, klínísku starfsfólki og umönnunarstarfsfólki í forgangsraðaðar notendasögur.
+  - Vinna með klínískum öryggisfulltrúum að því að skrá og yfirfara hættur fyrir þá eiginleika sem þú berð ábyrgð á.
+  - Fylgjast með vörumælikvörðum, svo sem upptöku, lokahlutföllum og stuðningssímtölum, og skila skýrslu um hvað þeir sýna.
+  - Vera fulltrúi vörunnar á kynningum á afurðum og gagnvart hagsmunaaðilum í rekstri.
+  qualifications:
+  - Reynsla í stafrænu, klínísku eða rekstrarhlutverki, eða sambærileg reynsla.
+- title: Vörustjóri
+  responsibilities:
+  - Móta framtíðarsýn, vegvísi og árangursmælikvarða stafrænnar heilbrigðisvöru.
+  - Forgangsraða vinnu teymisins og vega þarfir notenda, klínískt öryggi, stefnu, tæknilegar skorður og kostnað.
+  - Samþykkja klíníska áhættu vegna vörubreytinga ásamt klíníska öryggisfulltrúanum og stöðva útgáfur sem eru ekki öruggar.
+  - Vinna með klínískum leiðtogum og rekstrarleiðtogum að því að tryggja að varan falli að umönnunarleiðum og sé tekin upp.
+  - Tryggja að varan uppfylli aðgengisstaðla, upplýsingastjórnun og þjónustustaðla.
+  - Mæla niðurstöður vörunnar, þar á meðal ávinning hennar fyrir sjúklinga og starfsfólk.
+  qualifications:
+  - Mikil reynsla af vörustjórnun eða af skyldu stafrænu hlutverki.
+- title: Eldri vörustjóri
+  responsibilities:
+  - Stýra hópi skyldra vara, eða einni vöru sem er flókin, hefur mikla áhættu eða er viðkvæm, svo sem vöru sem notuð er í bráðaþjónustu.
+  - Byggja vörustefnu á gögnum um þarfir sjúklinga, klíníska framkvæmd og heilbrigðis- og velferðarstefnu.
+  - Tryggja að varan uppfylli reglur um lækningatæki þar sem þær eiga við.
+  - Stýra fjárhagsáætlun vörunnar og færa rök fyrir fjárfestingu með ávinningi fyrir umönnun.
+  - Leiðbeina og vera línustjóri vörustjóra.
+  qualifications:
+  - Umfangsmikil reynsla af stjórnun stafrænna vara yfir allan líftíma þeirra.
+- title: Leiðandi vörustjóri
+  responsibilities:
+  - Stýra vörusafni eða heildstæðri þjónustu, svo sem öllum vörum sem styðja eina umönnunarleið.
+  - Móta vörustefnu þvert á nokkur teymi og tryggja að vörur vinni saman fyrir sjúklinga og starfsfólk.
+  - Vinna með klínískum leiðtogum og klíníska öryggisfulltrúanum að því að stýra klínískri áhættu þvert á safnið.
+  - Hafa fjárhagsáætlun safnsins á sinni könnu og skila skýrslu um ávinning til æðri stjórnarhópa.
+  - Stýra og þróa vörustjóra á vörusviðinu.
+  qualifications:
+  - Umfangsmikil reynsla af forystu vara þvert á mörg teymi.
+- title: Yfirmaður vöruþróunar
+  responsibilities:
+  - Móta vörustefnu stofnunarinnar í samstarfi við framkvæmdaleiðtoga, klíníska leiðtoga og rekstrarleiðtoga.
+  - Setja og hækka staðla fyrir vörustjórnun, þar á meðal hvernig vörur stýra klínískri áhættu og mæla niðurstöður.
+  - Stýra vörufagstéttinni, þar á meðal ráðningum, starfsferlum og uppbyggingu getu.
+  - Ákveða fjárfestingarforgangsröðun þvert á vörur, út frá gögnum um þörf, virði og jafnræði.
+  - Vera fulltrúi vara stofnunarinnar gagnvart samstarfsaðilum þvert á heilbrigðis- og velferðarkerfið.
+  qualifications:
+  - Umfangsmikil reynsla af forystu vörustjórnunar þvert á stofnun.

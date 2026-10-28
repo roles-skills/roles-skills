@@ -1,0 +1,45 @@
+summary: De functionaris gegevensbescherming (DPO) houdt onafhankelijk toezicht op de naleving van de wetgeving voor gegevensbescherming door de organisatie, adviseert over haar plichten en is het contactpunt voor de toezichthouder en voor mensen van wie zij data bewaart. In een organisatie voor digitale gezondheid en zorg geeft de DPO deskundig advies over het rechtmatige, eerlijke en transparante gebruik van gezondheidsdata in producten, analyse, onderzoek en het delen van data.
+health_context:
+- De wetgeving voor gegevensbescherming geeft de DPO een beschermde, onafhankelijke positie die rapporteert aan het hoogste niveau van management, dus de rol moet vrij zijn van belangenconflicten.
+- De wetgeving voor gegevensbescherming geeft gezondheidsdata extra bescherming, en veel ervan valt ook onder een plicht tot vertrouwelijkheid, dus de DPO adviseert over beide.
+- Grootschalige verwerking van gezondheidsdata, koppeling van data en AI vragen vaak beoordelingen van gevolgen voor gegevensbescherming en soms voorafgaande raadpleging van de toezichthouder.
+- Patiënten en het publiek verwachten transparantie, dus de DPO helpt de organisatie duidelijk uit te leggen hoe zij hun data gebruikt.
+levels:
+- title: Plaatsvervangend functionaris gegevensbescherming
+  summary: Ondersteunt de DPO bij het toezicht op naleving en het geven van advies, leidt complexe dossiers en vervangt de DPO.
+  responsibilities:
+  - Teams adviseren over de wetgeving voor gegevensbescherming, inclusief rechtsgrond, transparantie en rechten van individuen.
+  - Beoordelingen van gevolgen voor gegevensbescherming met hoog risico beoordelen en het advies van de DPO opstellen.
+  - Toezicht houden op naleving via audits, steekproeven en toetsing van registers van verwerkingen.
+  - Het onderzoek van ernstige datalekken leiden en meldingen aan de toezichthouder voorbereiden.
+  - Complexe klachten en verzoeken van individuen over hun data afhandelen.
+  - De DPO vervangen bij senior leiders en de toezichthouder.
+  qualifications:
+  - Een erkende professionele kwalificatie in gegevensbescherming, of gelijkwaardige ervaring.
+  - Aanzienlijke ervaring met gegevensbescherming in gezondheid of zorg.
+- title: Functionaris gegevensbescherming
+  summary: De wettelijke functionaris gegevensbescherming van de organisatie, die onafhankelijk toezicht houdt op naleving, senior leiders en het bestuur adviseert en optreedt als contactpunt voor de toezichthouder en het publiek.
+  responsibilities:
+  - Onafhankelijk toezicht houden op de naleving door de organisatie van de wetgeving voor gegevensbescherming en haar eigen beleid.
+  - Het bestuur, senior leiders en teams adviseren over hun plichten voor gegevensbescherming.
+  - Formeel advies geven over beoordelingen van gevolgen voor gegevensbescherming met hoog risico en beslissen wanneer de toezichthouder wordt geraadpleegd.
+  - Optreden als contactpunt voor de toezichthouder en voor mensen van wie de organisatie data bewaart.
+  - Toezicht houden op beslissingen over melding van datalekken en op de reactie van de organisatie op vragen van de toezichthouder.
+  - Over naleving en risico van gegevensbescherming rapporteren aan het bestuur en zijn commissies.
+  qualifications:
+  - Een erkende professionele kwalificatie in gegevensbescherming, of gelijkwaardige ervaring.
+  - Uitgebreide ervaring met wetgeving en praktijk van gegevensbescherming, ook in gezondheid of zorg.
+  job_evaluation_notes: Handelingsvrijheid wordt gescoord op niveau 6 omdat de wetgeving voor gegevensbescherming vereist dat de DPO onafhankelijk handelt en wetgeving en beleid zonder instructie interpreteert.
+- title: Senior functionaris gegevensbescherming
+  summary: De functionaris gegevensbescherming voor een grote organisatie of een groep organisaties die een DPO delen, die de functie gegevensbescherming leidt en haar normen vaststelt.
+  responsibilities:
+  - Optreden als wettelijke DPO voor een grote organisatie of een groep zorgorganisaties.
+  - De functie gegevensbescherming, haar personeel en haar werkprogramma leiden.
+  - Het kader en de normen voor gegevensbescherming in de organisatie of groep vaststellen.
+  - Het definitieve advies geven over de verwerking met het hoogste risico, zoals grootschalige koppeling van data en AI.
+  - De betrokkenheid bij de toezichthouder, partners en groepen van patiënten en publiek over gebruik van data leiden.
+  - Aan het bestuur rapporteren over risico, naleving en publiek vertrouwen op het gebied van gegevensbescherming.
+  qualifications:
+  - Een erkende professionele kwalificatie in gegevensbescherming, of gelijkwaardige ervaring.
+  - Uitgebreide ervaring als functionaris gegevensbescherming in een grote of complexe organisatie.
+  job_evaluation_notes: Informatiebronnen wordt gescoord op niveau 6 omdat de functie toezicht houdt op hoe persoonsgegevens in de hele organisatie of groep worden verwerkt.

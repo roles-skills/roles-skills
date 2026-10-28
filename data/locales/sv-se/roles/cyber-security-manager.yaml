@@ -1,0 +1,58 @@
+summary: >
+  Cybersäkerhetsansvariga leder organisationens förhållningssätt till att skydda dess system, data och tjänster mot cyberhot. De fastställer säkerhetspolicy, hanterar cyberrisk, överblickar säkerhetsdrift och säkerhetsutveckling, leder svaret på större cyberincidenter och bygger en säkerhetsmedveten kultur. Inom hälso- och sjukvården ser de till att kliniska tjänster kan fortsätta fungera tryggt, och återhämta sig snabbt, när en attack inträffar.
+health_context:
+  - En cyberattack mot en hälso- och sjukvårdsorganisation kan stoppa kliniska system och utsätta patienter för risk, så cybersäkerhet är en del av patientsäkerhet och verksamhetskontinuitet.
+  - Hälso- och sjukvårdsorganisationer måste ofta uppfylla sektorns standarder för cybersäkerhet och rapportera allvarliga incidenter till berörda myndigheter.
+  - Klinisk personal behöver snabb åtkomst till system, så säkerhetspolicyer utformas tillsammans med kliniker och testas för användbarhet.
+  - Säkerheten beror på många leverantörer, inklusive leverantörer av kliniska system och gemensamma tjänster, så kvalitetssäkring av leverantörer är en central del av rollen.
+  - Medicintekniska produkter och äldre system skapar långvariga risker som hanteras tillsammans med team för medicinsk teknik och klinisk säkerhet.
+levels:
+  - title: Cybersäkerhetsansvarig
+    summary: En cybersäkerhetsansvarig driver funktionen för cybersäkerhet, eller en större del av den, och förvaltar cyberrisk, säkerhetsdrift och kvalitetssäkring.
+    responsibilities:
+      - Driva säkerhetsdrift, hantering av sårbarheter och kvalitetssäkringsarbete och rapportera om deras prestation.
+      - Underhålla cyberriskregistret och se till att risker för kliniska tjänster bedöms och har ägare.
+      - Skriva och underhålla säkerhetspolicyer och standarder och kontrollera att de följs.
+      - Leda svaret på cyberincidenter, tillsammans med incidenthantering och kliniska och operativa ledare.
+      - Hålla utbildning i säkerhetsmedvetenhet och nätfiskeövningar för all personal, inklusive klinisk personal.
+      - Ha linjeansvar för säkerhetsanalytiker och ingenjörer.
+    qualifications:
+      - Omfattande erfarenhet av cybersäkerhet, inklusive incidenthantering och riskhantering, på en nivå motsvarande en masterexamen.
+      - En erkänd professionell säkerhetscertifiering, eller motsvarande erfarenhet.
+    job_evaluation_notes: Mental och känslomässig ansträngning speglar att leda svaret på cyberincidenter under press, ofta utanför kontorstid, där patientvården kan vara i riskzonen.
+  - title: Senior cybersäkerhetsansvarig
+    summary: En senior cybersäkerhetsansvarig leder cybersäkerhet över flera team, förvaltar kvalitetssäkring mot sektorns standarder och driver organisationens förbättringsprogram för säkerhet.
+    responsibilities:
+      - Leda team för cybersäkerhet över drift, utveckling och kvalitetssäkring.
+      - Driva organisationens förbättringsprogram för cybersäkerhet och förvalta dess budget.
+      - Förvalta kvalitetssäkring mot sektorns standarder för cybersäkerhet och kontroller i ISO/IEC 27001 och förbereda underlag för revisioner.
+      - Leda svaret på större cyberincidenter och planera och testa återställning tillsammans med ledare för verksamhetskontinuitet och klinik.
+      - Bedöma säkerheten hos leverantörer och gemensamma tjänster och komma överens om säkerhetskrav i avtal.
+      - Ge programstyrgrupper råd om säkerhetsriskerna med nya kliniska och digitala tjänster.
+    qualifications:
+      - Omfattande erfarenhet av att leda team för cybersäkerhet i en komplex organisation.
+      - En erkänd professionell säkerhetscertifiering, eller motsvarande erfarenhet.
+    job_evaluation_notes: Mental och känslomässig ansträngning speglar att leda svaret på större cyberincidenter, som kan pågå i dagar eller veckor och hota patientvården.
+  - title: Chef för cybersäkerhet
+    summary: En chef för cybersäkerhet fastställer organisationens strategi för cybersäkerhet och är ansvarig för dess hantering av cyberrisk, säkerhetsdrift och svar på större incidenter.
+    responsibilities:
+      - Fastställa cybersäkerhetsstrategin, i linje med organisationens digitala och kliniska strategier.
+      - Ge styrelsen och ledningsgruppen råd om cyberrisk, riskaptit och investeringar.
+      - Leda organisationens svar på större cyberincidenter, inklusive kommunikation med tillsynsmyndigheter, partner och allmänheten.
+      - Bygga en säkerhetskultur där all personal, inklusive kliniker, förstår hot och rapporterar dem.
+      - Företräda organisationen i nätverk för cybersäkerhet inom hälso- och sjukvården och hos partnerorganisationer.
+      - Leda och utveckla funktionen för cybersäkerhet och förvalta dess budget.
+    qualifications:
+      - Omfattande erfarenhet av att leda cybersäkerhet för en stor organisation, inklusive hantering av större incidenter.
+  - title: Informationssäkerhetschef (CISO)
+    summary: En informationssäkerhetschef (CISO) har organisationsövergripande ansvar för cybersäkerhet i organisationen, och ofta i partnerorganisationer som delar dess tjänster.
+    responsibilities:
+      - Ha organisationsövergripande ansvar för cybersäkerhet och rapportera om den till styrelsen.
+      - Fastställa riskaptiten för säkerhet tillsammans med styrelsen och se till att den formar beslut i hela organisationen.
+      - Leda cybersäkerhet över gemensamma tjänster och partnerorganisationer, där organisationen tillhandahåller dem.
+      - Styra organisationens svar på de allvarligaste cyberincidenterna, tillsammans med ledningsgruppen och berörda myndigheter.
+      - Forma praxis för cybersäkerhet i hela hälso- och sjukvårdssektorn genom att arbeta med partner och sektororgan.
+      - Leda säkerhetsfunktionen och hålla budgetar över flera tjänster.
+    qualifications:
+      - Omfattande erfarenhet av att leda cybersäkerhet på styrelsenivå, eller för flera organisationer.
+    job_evaluation_notes: Den här nivån passar större organisationer, eller sådana som tillhandahåller gemensamma digitala tjänster till partner. Mindre organisationer har vanligen en chef för cybersäkerhet i band 8c som sin mest seniora säkerhetsroll.

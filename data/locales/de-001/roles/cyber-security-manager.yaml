@@ -1,0 +1,57 @@
+summary: Manager/innen Cybersicherheit leiten den Ansatz der Organisation zum Schutz ihrer Systeme, Daten und Dienste vor Cyberbedrohungen. Sie legen Sicherheitsrichtlinien fest, steuern Cyberrisiken, beaufsichtigen Sicherheitsbetrieb und -engineering, leiten die Reaktion auf größere Cybervorfälle und bauen eine sicherheitsbewusste Kultur auf. In der Gesundheitsversorgung stellen sie sicher, dass klinische Dienste bei einem Angriff sicher weiterlaufen und sich schnell erholen können.
+health_context:
+- Ein Cyberangriff auf eine Gesundheitsorganisation kann klinische Systeme stoppen und Patientinnen und Patienten gefährden; Cybersicherheit ist daher Teil von Patientensicherheit und Betriebskontinuität.
+- Gesundheitsorganisationen müssen oft Cybersicherheitsstandards des Sektors erfüllen und schwere Vorfälle den zuständigen Stellen melden.
+- Klinisches Personal braucht schnellen Zugang zu Systemen; Sicherheitsrichtlinien werden daher mit klinischem Personal gestaltet und auf Nutzbarkeit getestet.
+- Sicherheit hängt von vielen Anbietern ab, auch von Anbietern klinischer Systeme und gemeinsamen Diensten; die Absicherung von Anbietern ist daher ein Kernbestandteil der Rolle.
+- Medizinprodukte und Altsysteme schaffen langlebige Risiken, die mit klinischem Engineering und Teams für klinische Sicherheit gesteuert werden.
+levels:
+- title: Manager/in Cybersicherheit
+  summary: Eine Managerin oder ein Manager Cybersicherheit leitet die Funktion Cybersicherheit oder einen großen Teil davon und steuert Cyberrisiko, Sicherheitsbetrieb und Absicherung.
+  responsibilities:
+  - Sicherheitsbetrieb, Schwachstellenmanagement und Absicherungsarbeit leiten und über ihre Leistung berichten.
+  - Das Cyberrisikoregister pflegen und sicherstellen, dass Risiken für klinische Dienste bewertet werden und Verantwortliche haben.
+  - Sicherheitsrichtlinien und -standards schreiben und pflegen und prüfen, dass sie eingehalten werden.
+  - Die Reaktion auf Cybervorfälle leiten, gemeinsam mit dem Incident Management und mit klinischen und betrieblichen Leitungen.
+  - Schulungen zum Sicherheitsbewusstsein und Phishing-Übungen für alle Mitarbeitenden, auch für klinisches Personal, durchführen.
+  - Sicherheitsanalystinnen, -analysten und -ingenieure in der Linie führen.
+  qualifications:
+  - Umfangreiche Erfahrung in Cybersicherheit, einschließlich Störungsreaktion und Risikomanagement, auf einem Niveau, das einem Masterabschluss entspricht.
+  - Eine anerkannte berufliche Sicherheitszertifizierung oder gleichwertige Erfahrung.
+  job_evaluation_notes: Geistige und emotionale Anstrengung spiegeln die Leitung der Reaktion auf Cybervorfälle unter Druck wider, oft außerhalb der Arbeitszeit, wenn die Patientenversorgung gefährdet sein kann.
+- title: Senior-Manager/in Cybersicherheit
+  summary: Eine Senior-Managerin oder ein Senior-Manager Cybersicherheit leitet Cybersicherheit über mehrere Teams, steuert die Absicherung gegenüber Sektorstandards und führt das Sicherheitsverbesserungsprogramm der Organisation.
+  responsibilities:
+  - Cybersicherheitsteams in Betrieb, Engineering und Absicherung leiten.
+  - Das Cybersicherheits-Verbesserungsprogramm der Organisation führen und sein Budget verwalten.
+  - Die Absicherung gegenüber Cybersicherheitsstandards des Sektors und Kontrollen nach ISO/IEC 27001 steuern und Nachweise für Audits vorbereiten.
+  - Die Reaktion auf größere Cybervorfälle leiten und die Wiederherstellung mit Betriebskontinuität und klinischen Leitungen planen und testen.
+  - Die Sicherheit von Anbietern und gemeinsamen Diensten bewerten und Sicherheitsanforderungen in Verträgen vereinbaren.
+  - Programmgremien zu Sicherheitsrisiken neuer klinischer und digitaler Dienste beraten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Cybersicherheitsteams in einer komplexen Organisation.
+  - Eine anerkannte berufliche Sicherheitszertifizierung oder gleichwertige Erfahrung.
+  job_evaluation_notes: Geistige und emotionale Anstrengung spiegeln die Leitung der Reaktion auf größere Cybervorfälle wider, die Tage oder Wochen dauern und die Patientenversorgung bedrohen können.
+- title: Leiter/in Cybersicherheit
+  summary: Eine Leiterin oder ein Leiter Cybersicherheit legt die Cybersicherheitsstrategie der Organisation fest und verantwortet ihr Cyberrisikomanagement, den Sicherheitsbetrieb und die Reaktion auf größere Vorfälle.
+  responsibilities:
+  - Die Cybersicherheitsstrategie im Einklang mit den digitalen und klinischen Strategien der Organisation festlegen.
+  - Vorstand und Geschäftsleitung zu Cyberrisiko, Risikobereitschaft und Investitionen beraten.
+  - Die Reaktion der Organisation auf größere Cybervorfälle leiten, einschließlich der Kommunikation mit Aufsichtsbehörden, Partnern und Öffentlichkeit.
+  - Eine Sicherheitskultur aufbauen, in der alle Mitarbeitenden, auch klinisches Personal, Bedrohungen verstehen und melden.
+  - Die Organisation in Cybersicherheitsnetzwerken des Gesundheitswesens und gegenüber Partnerorganisationen vertreten.
+  - Die Funktion Cybersicherheit führen und entwickeln und ihr Budget verwalten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung der Cybersicherheit einer großen Organisation, einschließlich der Reaktion auf größere Vorfälle.
+- title: Chief Information Security Officer
+  summary: Ein Chief Information Security Officer trägt die unternehmensweite Verantwortung für Cybersicherheit in der Organisation und oft auch in Partnerorganisationen, die ihre Dienste mitnutzen.
+  responsibilities:
+  - Die unternehmensweite Verantwortung für Cybersicherheit tragen und dem Vorstand darüber berichten.
+  - Mit dem Vorstand die Risikobereitschaft für Sicherheit festlegen und sicherstellen, dass sie Entscheidungen in der gesamten Organisation prägt.
+  - Cybersicherheit über gemeinsame Dienste und Partnerorganisationen hinweg leiten, wo die Organisation diese bereitstellt.
+  - Die Reaktion der Organisation auf die schwersten Cybervorfälle lenken, gemeinsam mit Geschäftsleitung und zuständigen Stellen.
+  - Die Cybersicherheitspraxis im Gesundheits- und Pflegesektor durch Zusammenarbeit mit Partnern und Sektorgremien mitgestalten.
+  - Die Sicherheitsfunktion leiten und Budgets über mehrere Dienste hinweg verantworten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Cybersicherheit auf Vorstandsebene oder für mehrere Organisationen.
+  job_evaluation_notes: Diese Stufe passt zu größeren Organisationen oder zu solchen, die Partnern gemeinsame digitale Dienste bereitstellen. Kleinere Organisationen haben als ihre höchste Sicherheitsrolle in der Regel eine Leitung Cybersicherheit in Entgeltgruppe 8c.

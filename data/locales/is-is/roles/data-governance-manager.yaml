@@ -1,0 +1,40 @@
+summary: Stjórnendur gagnastjórnarhátta tryggja að heilbrigðis- og velferðargögn stofnunarinnar séu vel stýrð, áreiðanleg og notuð á öruggan og lögmætan hátt. Þeir setja upp og reka ramma, stefnur og staðla um eignarhald gagna, gæði, lýsigögn og gagnamiðlun, og vinna með gagnaeigendum, samstarfsfólki í upplýsingastjórnun og klínískum leiðtogum svo hægt sé að nota gögn af öryggi til umönnunar, skipulags og rannsókna.
+health_context:
+- Heilbrigðisgögn eru mjög viðkvæm persónuupplýsingar, svo gagnastjórnarhættir vinna náið með upplýsingastjórnun, persónuvernd og trúnaðarskyldu.
+- Gögn eru miðluð til margra samstarfsaðila í heilbrigðis- og velferðarþjónustu til beinnar umönnunar, skipulags og rannsókna, og hver notkun þarf skýran lagalegan grundvöll, samninga og stýringar.
+- Klínískir gagnastaðlar, svo sem SNOMED CT, ICD og HL7 FHIR, og samþykktar gagnaskilgreiningar eru lykilatriði til að gera gögn samræmd þvert á kerfi og stofnanir.
+- Léleg gagnagæði geta leitt beint til skaða fyrir sjúklinga, svo sem yfirsjónar á ofnæmi eða rangrar sjúklingasamsvörunar, sem og til rangra ákvarðana um þjónustu.
+- Sjúklingar og almenningur ætlast til opinskárrar umræðu um hvernig gögn þeirra eru notuð, svo stjórnarhættir fela í sér gagnsæi og virðingu fyrir vali sjúklinga um aukanotkun.
+levels:
+- title: Stjórnandi gagnastjórnarhátta
+  responsibilities:
+  - Stýra ramma stofnunarinnar um gagnastjórnarhætti, þar á meðal eignarhaldi gagna, forsjá og ákvarðanahópum.
+  - Viðhalda gagnaskránni, viðskiptaorðalistanum og gagnastöðlum, þar á meðal samþykktum klínískum skilgreiningum og skilgreiningum í rekstri.
+  - Fylgjast með gagnagæðum lykilgagnasafna og vinna með gagnaeigendum að því að laga rót vandans.
+  - Vinna með samstarfsfólki í upplýsingastjórnun að gagnamiðlunarsamningum og persónuverndarmati fyrir nýja notkun gagna.
+  - Skrá og stýra gagnaáhættu og gagnavandamálum og vísa þeim til réttra eigenda.
+  - Bæta gagnalæsi meðal starfsfólks sem býr til og notar heilbrigðisgögn.
+  qualifications:
+  - Háskólagráða eða fagmenntun í gögnum, upplýsingastjórnun eða skyldri grein, eða sambærileg reynsla.
+  - Reynsla af gagnastjórnarháttum eða gagnastjórnun í flókinni stofnun.
+  job_evaluation_notes: UK GDaD PCF leggur til HEO til G7 fyrir þetta stig, sem samsvarar launaflokki 6. Þessi viðmiðun setur það í launaflokk 7 því í heilbrigðisstofnun stýrir hlutverkið yfirleitt trúnaðargögnum sjúklinga þvert á alla stofnunina og þróar gagnastefnu sem hefur áhrif á nokkrar þjónustur.
+- title: Leiðandi stjórnandi gagnastjórnarhátta
+  responsibilities:
+  - Stýra hönnun og rekstri ramma, stefna og staðla um gagnastjórnarhætti þvert á stofnunina.
+  - Samræma gagnaeigendur og forráðamenn að því að stýra gagnaáhættu, samþykkja hana eða leysa og skila skýrslu um hana til æðri nefnda.
+  - Stýra víðtækari gagnastjórnunarvinnu, svo sem grunngögnum um sjúklinga, starfsfólk og starfsstöðvar, og viðmiðunargögnum.
+  - Samþykkja fyrirkomulag gagnastjórnarhátta fyrir gögn sem miðlað er til samstarfsaðila í heilbrigðis- og velferðarþjónustu og rannsakenda.
+  - Ráðleggja áætlunum um hvernig ný kerfi og ný notkun gagna uppfylla gagnastaðla og stjórnarháttareglur.
+  - Vera línustjóri starfsfólks gagnastjórnarhátta.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í gagnastjórnarháttum eða gagnastjórnun.
+- title: Yfirmaður gagnastjórnarhátta
+  responsibilities:
+  - Vinna með yfirmanni gagna og framkvæmdaábyrgðaraðila upplýsingaáhættu að því að móta stefnu um gagnastjórnarhætti og notkun gagna.
+  - Setja stefnur og staðla um gagnastjórnarhætti og fylgjast með því hversu vel stofnunin fylgir þeim.
+  - Bera ábyrgð á stýringu gagnaáhættu stofnunarinnar og skila skýrslu um hana til stjórnar.
+  - Vera fulltrúi stofnunarinnar í gagnastjórnarháttum gagnvart samstarfsaðilum í heilbrigðis- og velferðarþjónustu, eftirlitsaðilum og sjúklingahópum.
+  - Stuðla að gagnsæi gagnvart sjúklingum og almenningi um hvernig gögn þeirra eru notuð.
+  - Stýra og þróa gagnastjórnarháttasviðið.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í gagnastjórnarháttum þvert á stofnun.

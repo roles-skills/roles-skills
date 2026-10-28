@@ -1,8 +1,9 @@
-# English (World). English is the source language of this reference, so this locale needs no
-# translation files.
+# English (world). The source language, so there is nothing to translate: the
+# build copies the English data as it is. This locale is served at /en-001/;
+# the unprefixed paths show the same pages.
 code: en-001
 name: English
-english_name: English (World)
+english_name: English
 dir: ltr
-complete: true
 english: true
+complete: true

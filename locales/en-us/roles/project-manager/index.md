@@ -71,8 +71,8 @@ An assistant project manager supports the delivery of projects, or manages small
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -105,7 +105,7 @@ A project manager runs projects of moderate size and complexity from start to cl
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Project management](../../skills/#project-management) | This reference | Practitioner | You can:<br>• manage projects from start to close, controlling scope, time, cost, and quality<br>• manage risks, issues, dependencies, and change control<br>• report to project boards and manage suppliers |
-| [Planning](../../skills/#planning) | UK GDaD PCF | Practitioner | You can:<br>• understand the environment and prioritize the most important or high value tasks<br>• use data to inform planning<br>• manage complex internal and external dependencies<br>• provide delivery confidence<br>• remove blockers or impediments that affect plans and can develop a plan for difficult situations<br>• ensure that teams plan appropriately for their capacity |
+| [Planning](../../skills/#planning) | UK GDaD PCF | Practitioner | You can:<br>• understand the environment and prioritise the most important or high value tasks<br>• use data to inform planning<br>• manage complex internal and external dependencies<br>• provide delivery confidence<br>• remove blockers or impediments that affect plans and can develop a plan for difficult situations<br>• ensure that teams plan appropriately for their capacity |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Working | You can:<br>• identify important stakeholders and communicate with them clearly and regularly<br>• tailor communication to stakeholders' needs and work with them to build relationships while meeting user needs<br>• build and reach consensus with stakeholders<br>• work to improve stakeholder relationships using evidence to explain decisions |
 | [Communicating information](../../skills/#communicating-information) | UK GDaD PCF | Working | You can:<br>• listen to the needs of design and business stakeholders and interpret information<br>• take part in discussions within a multidisciplinary team<br>• be an advocate for the team externally, and can manage differing perspectives<br>• shape and share communications relevant to the audience |
 | [Managing decisions and risks](../../skills/#managing-decisions-and-risks) | UK GDaD PCF | Working | You can:<br>• identify technical disputes and describe them in ways that are relevant both to direct peers and to local stakeholders<br>• generate multiple solutions to a problem and test them<br>• work collaboratively while recommending decisions and the reasoning behind them |
@@ -133,8 +133,8 @@ A project manager runs projects of moderate size and complexity from start to cl
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -167,7 +167,7 @@ A senior project manager leads large, complex, or high-risk projects, such as re
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Project management](../../skills/#project-management) | This reference | Expert | You can:<br>• manage large, complex, or high-risk projects<br>• set project management standards and coach project managers<br>• recover failing projects |
-| [Planning](../../skills/#planning) | UK GDaD PCF | Practitioner | You can:<br>• understand the environment and prioritize the most important or high value tasks<br>• use data to inform planning<br>• manage complex internal and external dependencies<br>• provide delivery confidence<br>• remove blockers or impediments that affect plans and can develop a plan for difficult situations<br>• ensure that teams plan appropriately for their capacity |
+| [Planning](../../skills/#planning) | UK GDaD PCF | Practitioner | You can:<br>• understand the environment and prioritise the most important or high value tasks<br>• use data to inform planning<br>• manage complex internal and external dependencies<br>• provide delivery confidence<br>• remove blockers or impediments that affect plans and can develop a plan for difficult situations<br>• ensure that teams plan appropriately for their capacity |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Practitioner | You can:<br>• work with the team to develop and maintain an understanding of stakeholders<br>• work with the team to develop and implement stakeholder communications strategies<br>• identify and resolve issues, influence stakeholders and manage relationships effectively<br>• build long-term strategic relationships and communicate clearly and regularly with stakeholders |
 | [Managing decisions and risks](../../skills/#managing-decisions-and-risks) | UK GDaD PCF | Practitioner | You can:<br>• work with consequential or complex risks<br>• build consensus between services or independent stakeholders<br>• lead others to make good design decisions<br>• apply different risk methodologies in proportion to the risk |
 | [Financial management](../../skills/#financial-management) | UK GDaD PCF | Practitioner | You can:<br>• negotiate, influence or set budgets in complex environments<br>• write or input into business cases and can communicate business-value propositions |
@@ -185,7 +185,7 @@ A senior project manager leads large, complex, or high-risk projects, such as re
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -196,8 +196,8 @@ A senior project manager leads large, complex, or high-risk projects, such as re
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -235,7 +235,7 @@ A lead project manager leads the most complex projects or a group of related pro
 | [Managing decisions and risks](../../skills/#managing-decisions-and-risks) | UK GDaD PCF | Practitioner | You can:<br>• work with consequential or complex risks<br>• build consensus between services or independent stakeholders<br>• lead others to make good design decisions<br>• apply different risk methodologies in proportion to the risk |
 | [Financial management](../../skills/#financial-management) | UK GDaD PCF | Practitioner | You can:<br>• negotiate, influence or set budgets in complex environments<br>• write or input into business cases and can communicate business-value propositions |
 | [Commercial management](../../skills/#commercial-management) | UK GDaD PCF | Practitioner | You can:<br>• take responsibility for complex relationships with contracted suppliers<br>• identify appropriate contractual frameworks and identify appropriate suppliers<br>• negotiate with contracted suppliers<br>• get good value out of contracts and suppliers |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
@@ -247,7 +247,7 @@ A lead project manager leads the most complex projects or a group of related pro
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -258,8 +258,8 @@ A lead project manager leads the most complex projects or a group of related pro
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -293,10 +293,10 @@ A head of project management leads the organization's project management practic
 | [Project management](../../skills/#project-management) | This reference | Expert | You can:<br>• manage large, complex, or high-risk projects<br>• set project management standards and coach project managers<br>• recover failing projects |
 | [Planning](../../skills/#planning) | UK GDaD PCF | Expert | You can:<br>• lead a continual planning process in a very complex environment<br>• plan beyond product delivery<br>• identify dependencies in plans across services and co-ordinate delivery<br>• coach other teams as the central point of expertise |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Expert | You can:<br>• direct the stakeholder relationship strategy for your teams<br>• ensure stakeholder's objectives are set and support teams to meet them<br>• influence and negotiate with senior stakeholders to resolve issues and enable progress |
-| [Managing decisions and risks](../../skills/#managing-decisions-and-risks) | UK GDaD PCF | Expert | You can:<br>• make and justify decisions characterized by high levels of risk, impact and complexity<br>• build consensus between organizations (private or public) or highly independent and diverse stakeholders<br>• be trusted by senior risk owners as an expert in security<br>• apply risk methodologies at the most complex levels of risk<br>• guide others in applying risk methodologies in proportion to the risk |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterized by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
+| [Managing decisions and risks](../../skills/#managing-decisions-and-risks) | UK GDaD PCF | Expert | You can:<br>• make and justify decisions characterised by high levels of risk, impact and complexity<br>• build consensus between organisations (private or public) or highly independent and diverse stakeholders<br>• be trusted by senior risk owners as an expert in security<br>• apply risk methodologies at the most complex levels of risk<br>• guide others in applying risk methodologies in proportion to the risk |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
 | [Financial management](../../skills/#financial-management) | UK GDaD PCF | Practitioner | You can:<br>• negotiate, influence or set budgets in complex environments<br>• write or input into business cases and can communicate business-value propositions |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 | [Budget management](../../skills/#budget-management) | This reference | Practitioner | You can:<br>• hold and manage a budget, forecasting and explaining variances<br>• build a business case with costs and benefits |
@@ -319,8 +319,8 @@ A head of project management leads the organization's project management practic
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
@@ -338,5 +338,5 @@ A head of project management leads the organization's project management practic
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

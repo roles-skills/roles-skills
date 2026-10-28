@@ -1,0 +1,423 @@
+# Danish translation of data/skills/shared.yaml. Keys are the English skill ids.
+health-care-context:
+  name: Forståelse af sundheds- og plejeydelser
+  description: At forstå, hvordan sundheds- og plejeydelser er organiseret og leveres, hvordan klinikere og plejepersonale arbejder, og hvordan digitale services understøtter patientpleje.
+  levels:
+    awareness: |
+      Du kan:
+      - beskrive sundheds- og plejesystemets hoveddele og de services, organisationen understøtter
+      - forklare, hvorfor patientsikkerhed og fortrolighed er vigtige i dit arbejde
+    working: |
+      Du kan:
+      - forklare de kliniske arbejdsgange og plejearbejdsgange, dit arbejde understøtter
+      - bruge almindelige sundhedsfaglige begreber korrekt sammen med kliniske kolleger og plejekolleger
+      - genkende, når en ændring kan påvirke patientplejen, og gøre opmærksom på det
+    practitioner: |
+      Du kan:
+      - analysere, hvordan en service indgår i patientforløb på tværs af organisationer
+      - arbejde sammen med klinikere, plejepersonale og patienter om at forme digitale services
+      - forklare virkningen af digitale beslutninger på pleje, sikkerhed og medarbejdernes arbejdsbyrde
+    expert: |
+      Du kan:
+      - forme organisationens strategi ud fra en dyb forståelse af sundheds- og plejesystemet
+      - repræsentere organisationen over for partnere og ledere i sundhed og pleje
+      - forudse, hvordan ændringer i politik og services vil påvirke digitale services og pleje
+clinical-safety:
+  name: Klinisk risikostyring
+  description: At identificere, vurdere og kontrollere de risici, som it-systemer i sundhedsvæsenet kan udgøre for patienter, gennem en proces for klinisk risikostyring, fareregistre og sikkerhedsbegrundelser (for eksempel efter ISO 14971 og IEC 80001-1).
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvordan it-systemer i sundhedsvæsenet kan skade patienter, for eksempel gennem forkerte, manglende eller forsinkede oplysninger
+      - indberette et muligt klinisk sikkerhedsproblem ad den rette vej
+    working: |
+      Du kan:
+      - deltage i farerworkshops og bidrage til et fareregister
+      - følge processen for klinisk risikostyring i dit arbejde
+      - levere dokumentation til en klinisk sikkerhedsbegrundelse, såsom testresultater
+    practitioner: |
+      Du kan:
+      - lede identifikation af farer og risikovurdering for et produkt eller en ændring
+      - skrive og vedligeholde fareregistre og rapporter om kliniske sikkerhedsbegrundelser
+      - aftale risikokontroller med produktteams og kontrollere, at de virker
+      - rådgive teams om anvendelsen af standarder for klinisk risikostyring
+    expert: |
+      Du kan:
+      - eje organisationens system for klinisk risikostyring
+      - fastlægge politik for klinisk sikkerhed og kvalitetssikre sikkerhedsbegrundelser for større systemer
+      - lede indsatsen ved alvorlige sikkerhedshændelser, der involverer it i sundhedsvæsenet
+      - opbygge en kultur for klinisk sikkerhed på tværs af digitale teams
+health-data-interoperability:
+  name: Interoperabilitet for sundhedsdata
+  description: At udveksle sundheds- og plejedata sikkert og ensartet mellem systemer ved hjælp af åbne standarder som HL7 FHIR, HL7 version 2, IHE-profiler og standard-API'er.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor interoperabilitet er vigtig for sammenhængende pleje
+      - nævne de vigtigste standarder for udveksling af sundhedsdata, såsom HL7 FHIR
+    working: |
+      Du kan:
+      - læse og bruge FHIR-ressourcer, -profiler og -API'er
+      - bygge eller teste enkle integrationer under vejledning
+      - kontrollere meddelelser mod en specifikation
+    practitioner: |
+      Du kan:
+      - designe og bygge integrationer ved hjælp af FHIR, HL7 version 2 og meddelelsesmønstre
+      - skrive og profilere FHIR-ressourcer og implementeringsvejledninger
+      - løse komplekse problemer med kortlægning og datakvalitet mellem systemer
+    expert: |
+      Du kan:
+      - fastlægge standarder og strategi for interoperabilitet i organisationen
+      - lede standardiseringsarbejde på nationalt plan eller på tværs af organisationer
+      - kvalitetssikre designet af kritiske integrationer på tværs af mange systemer
+clinical-terminology:
+  name: Klinisk terminologi og klassifikation
+  description: At bruge kliniske terminologier og klassifikationer, såsom SNOMED CT, ICD og LOINC, til at registrere og udveksle klinisk betydning ensartet.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare forskellen på en klinisk terminologi og en klassifikation
+      - genkende almindelige terminologier som SNOMED CT og ICD
+    working: |
+      Du kan:
+      - finde og bruge de rette koder til et dataelement eller en formular
+      - bruge terminologibrowsere og referencesæt
+    practitioner: |
+      Du kan:
+      - designe datamodeller og referencesæt ved hjælp af kliniske terminologier
+      - kortlægge mellem terminologier og klassifikationer og forklare kortlægningens begrænsninger
+      - rådgive teams om brug af terminologi i produkter og analyser
+    expert: |
+      Du kan:
+      - fastlægge terminologipolitikken for organisationen
+      - lede terminologiudgivelser, styring og kvalitetssikring
+      - repræsentere organisationen i organer for terminologistandarder
+information-governance:
+  name: Informationsstyring og databeskyttelse
+  description: At håndtere person- og sundhedsoplysninger lovligt, sikkert og etisk, herunder databeskyttelsesret, fortrolighed, samtykke, konsekvensanalyser vedrørende databeskyttelse og deling af oplysninger.
+  levels:
+    awareness: |
+      Du kan:
+      - følge organisationens regler for håndtering af person- og sundhedsoplysninger
+      - genkende og indberette et brud på datasikkerheden eller en tæt-på-hændelse
+    working: |
+      Du kan:
+      - anvende principperne for databeskyttelse i dit arbejde
+      - bidrage til konsekvensanalyser vedrørende databeskyttelse
+      - håndtere anmodninger om oplysninger og journaler korrekt
+    practitioner: |
+      Du kan:
+      - lede konsekvensanalyser vedrørende databeskyttelse og aftaler om deling af oplysninger
+      - rådgive teams om retligt grundlag, samtykke, fortrolighed og opbevaring
+      - undersøge hændelser og anbefale forbedringer
+    expert: |
+      Du kan:
+      - fastlægge politik og strategi for informationsstyring
+      - rådgive bestyrelsen om informationsrisiko og overholdelse
+      - repræsentere organisationen over for tilsynsmyndigheder og partnere
+medical-device-regulation:
+  name: Regulering af software som medicinsk udstyr
+  description: At forstå, hvornår software er medicinsk udstyr, og hvilke standarder og processer der gælder for det, såsom IEC 62304 og ISO 13485.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, at nogle former for sundhedssoftware er reguleret som medicinsk udstyr
+      - vide, hvem du skal spørge, når et produkt kan være medicinsk udstyr
+    working: |
+      Du kan:
+      - følge en proces for softwarens livscyklus, der opfylder standarderne for medicinsk udstyr
+      - udarbejde de registre, som en sådan proces kræver
+    practitioner: |
+      Du kan:
+      - vurdere, om et produkt er medicinsk udstyr, og hvilken klasse det sandsynligvis tilhører
+      - planlægge det regulatoriske arbejde for et produkt sammen med kolleger inden for kvalitet og klinik
+    expert: |
+      Du kan:
+      - fastlægge organisationens tilgang til reguleret software
+      - lede dialogen med tilsynsmyndigheder og bemyndigede organer
+people-management:
+  name: Personaleledelse
+  description: At lede, udvikle og støtte medarbejdere, herunder rekruttering, mål, medarbejdersamtaler, trivsel, fravær og retfærdig håndtering af præstation og adfærd.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare de personalepolitikker i organisationen, der berører dig
+      - støtte nye kolleger og dele viden
+    working: |
+      Du kan:
+      - føre tilsyn med det daglige arbejde og give feedback
+      - deltage i rekruttering og introduktion
+      - holde regelmæssige samtaler på tomands hånd
+    practitioner: |
+      Du kan:
+      - have personaleansvar for et team, fastsætte mål og gennemføre medarbejdersamtaler
+      - støtte trivsel og håndtere fravær, præstation og adfærd
+      - planlægge teamets udvikling og efterfølgelse
+    expert: |
+      Du kan:
+      - lede ledere og forme kulturen i et stort område
+      - designe bemandingsplaner og organisatorisk forandring
+      - coache ledere og løse komplekse personalesager
+equality-diversity-inclusion:
+  name: Ligestilling, mangfoldighed og inklusion
+  description: At behandle mennesker retfærdigt, værdsætte forskellighed og designe services og arbejdspladser, der inkluderer alle.
+  levels:
+    awareness: |
+      Du kan:
+      - behandle kolleger, patienter og offentligheden med værdighed og respekt
+      - følge politikker for ligestilling og inklusion
+    working: |
+      Du kan:
+      - genkende og udfordre adfærd, der udelukker andre
+      - tage hensyn til forskellige behov, når du planlægger dit arbejde
+    practitioner: |
+      Du kan:
+      - gennemføre konsekvensanalyser af ligestilling
+      - opbygge inkluderende teams og praksis
+    expert: |
+      Du kan:
+      - fastlægge strategien for inklusion og holde organisationen ansvarlig for den
+      - lede kulturændringer inden for ligestilling, mangfoldighed og inklusion
+health-safety-wellbeing:
+  name: Sundhed, sikkerhed og trivsel
+  description: At holde sig selv og andre sikre og raske på arbejdet, herunder risikovurdering, sikker arbejdspraksis og indberetning af hændelser.
+  levels:
+    awareness: |
+      Du kan:
+      - følge reglerne for sundhed og sikkerhed og indberette farer og hændelser
+    working: |
+      Du kan:
+      - gennemføre enkle risikovurderinger, såsom vurderinger af arbejdspladsen
+      - hjælpe kolleger med at arbejde sikkert
+    practitioner: |
+      Du kan:
+      - styre sundhed og sikkerhed for et team eller en lokalitet
+      - undersøge hændelser og indføre kontroller
+    expert: |
+      Du kan:
+      - fastlægge politik for sundhed, sikkerhed og trivsel i organisationen
+      - rapportere om sikkerhedspræstationen til bestyrelsen
+budget-management:
+  name: Budgetstyring
+  description: At planlægge, følge og kontrollere et budget, herunder prognoser, håndtering af afvigelser og overholdelse af økonomiske regler.
+  levels:
+    awareness: |
+      Du kan:
+      - følge reglerne for udgifter og bestilling
+      - forklare, hvordan dit arbejde er finansieret
+    working: |
+      Du kan:
+      - følge udgifterne i forhold til et lille budget og gøre opmærksom på afvigelser
+      - anvise udgifter inden for din grænse
+    practitioner: |
+      Du kan:
+      - have og styre et budget, lave prognoser og forklare afvigelser
+      - opbygge en business case med omkostninger og gevinster
+    expert: |
+      Du kan:
+      - styre store eller flere budgetter og fastlægge økonomiske planer
+      - foretage afvejninger af finansieringen på tværs af services
+project-management:
+  name: Projektledelse
+  description: At planlægge, gennemføre og afslutte projekter inden for aftalt omfang, tid, omkostninger og kvalitet ved hjælp af en anerkendt metode som PRINCE2, PM² eller agile tilgange.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare et projekts faser og de vigtigste roller i det
+      - føre projektregistre, såsom handlingslister
+    working: |
+      Du kan:
+      - vedligeholde planer, risiko- og problemlister og rapporter
+      - lede projektmøder og følge op på handlinger
+      - styre et lille, veldefineret projekt med støtte
+    practitioner: |
+      Du kan:
+      - styre projekter fra start til afslutning og kontrollere omfang, tid, omkostninger og kvalitet
+      - styre risici, problemer, afhængigheder og ændringskontrol
+      - rapportere til projektbestyrelser og styre leverandører
+    expert: |
+      Du kan:
+      - styre store, komplekse eller risikable projekter
+      - fastsætte standarder for projektledelse og coache projektledere
+      - redde projekter, der er ved at fejle
+risk-management:
+  name: Organisatorisk risikostyring
+  description: At identificere, vurdere, registrere og styre risici for organisationens mål ved hjælp af et risikoregister og en defineret risikovillighed.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvad en risiko er, og hvordan man rejser en
+    working: |
+      Du kan:
+      - registrere og opdatere risici for dit område
+      - foreslå kontroller og følge op på handlinger
+    practitioner: |
+      Du kan:
+      - køre risikoprocessen for en direktion eller et program
+      - vurdere risici i forhold til risikovilligheden og eskalere dem
+      - rapportere om risici til udvalg
+    expert: |
+      Du kan:
+      - designe organisationens ramme for risikostyring og risikovillighed
+      - rådgive bestyrelsen om strategiske risici
+security-operations:
+  name: Sikkerhedsdrift
+  description: At overvåge systemer for sikkerhedstrusler, prioritere advarsler, undersøge hændelser og reagere på cyberhændelser ved hjælp af værktøjer som SIEM og endpoint-detektion.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare almindelige cybertrusler som phishing og ransomware
+      - indberette en mistænkt sikkerhedshændelse
+    working: |
+      Du kan:
+      - overvåge advarsler og prioritere dem ved hjælp af runbooks
+      - indsamle beviser og eskalere hændelser
+      - justere enkle detektionsregler under vejledning
+    practitioner: |
+      Du kan:
+      - undersøge og inddæmme sikkerhedshændelser
+      - skrive detektionsregler og trusselsjagter
+      - forbedre runbooks og værktøjer efter hændelser
+    expert: |
+      Du kan:
+      - lede sikkerhedsdriften og dens strategi
+      - lede indsatsen ved større cyberhændelser
+      - samarbejde med nationale sikkerhedsmyndigheder og partnere
+vulnerability-management:
+  name: Sårbarhedsstyring
+  description: At finde, vurdere, prioritere og rette tekniske sårbarheder, herunder scanning, penetrationstest og patching.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor hurtig patching og sikker konfiguration er vigtige
+    working: |
+      Du kan:
+      - køre sårbarhedsscanninger og rapportere resultaterne
+      - følge rettelser sammen med systemejere
+    practitioner: |
+      Du kan:
+      - prioritere sårbarheder efter risiko, herunder for patientservices
+      - afgrænse og styre penetrationstest og afhjælpning
+    expert: |
+      Du kan:
+      - fastlægge politikken for sårbarhedsstyring og dens mål
+      - rapportere teknisk sikkerhedsrisiko til den øverste ledelse
+identity-and-access-management:
+  name: Styring af identitet og adgang
+  description: At styre digitale identiteter, autentificering og adgangsrettigheder for medarbejdere, patienter og systemer, herunder rollebaseret adgang og smartcard eller multifaktorautentificering.
+  levels:
+    awareness: |
+      Du kan:
+      - følge adgangsreglerne og beskytte dine legitimationsoplysninger
+    working: |
+      Du kan:
+      - oprette, ændre og fjerne brugerkonti og adgangsrettigheder
+      - kontrollere adgang i forhold til reglerne for rollebaseret adgang
+    practitioner: |
+      Du kan:
+      - designe og drive services til identitet og adgang
+      - gennemgå adgang regelmæssigt og rette problemer
+    expert: |
+      Du kan:
+      - fastlægge strategien for identitet og adgang for medarbejdere, patienter og systemer
+      - lede indførelsen af nye identitetsstandarder
+data-quality:
+  name: Styring af datakvalitet
+  description: At definere, måle og forbedre datakvaliteten, herunder fuldstændighed, nøjagtighed, aktualitet og validitet.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvorfor korrekte sundhedsdata er vigtige for pleje og planlægning
+      - registrere data korrekt og indberette fejl
+    working: |
+      Du kan:
+      - køre kontroller af datakvaliteten og rette fejl
+      - forklare rapporter om datakvalitet for kolleger
+    practitioner: |
+      Du kan:
+      - definere regler og mål for datakvalitet
+      - arbejde sammen med dataleverandører om at rette årsagerne til dårlig kvalitet
+    expert: |
+      Du kan:
+      - fastsætte standarder for datakvalitet for organisationen og dens partnere
+      - lede programmer til forbedring af datakvaliteten
+health-records-management:
+  name: Styring af patientjournaler
+  description: At styre sundheds- og plejejournaler gennem deres livscyklus, herunder oprettelse, arkivering, sporing, adgang, opbevaring og kassation.
+  levels:
+    awareness: |
+      Du kan:
+      - arkivere, finde og spore journaler korrekt
+      - beskytte journaler mod tab eller uautoriseret adgang
+    working: |
+      Du kan:
+      - behandle anmodninger om adgang til journaler
+      - anvende opbevaringsplaner og standarder for journalføring
+    practitioner: |
+      Du kan:
+      - styre en journalservice og dens procedurer
+      - auditere journalføring og oplære medarbejdere
+    expert: |
+      Du kan:
+      - fastlægge politik og strategi for journalstyring
+      - lede overgangen fra papirjournaler til digitale journaler
+clinical-coding:
+  name: Klinisk kodning
+  description: At oversætte kliniske oplysninger fra patientjournaler til standardiserede klassifikationskoder efter nationale og internationale kodningsregler til brug for pleje, betaling og statistik.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvad klinisk kodning er, og hvorfor det er vigtigt
+      - bruge grundlæggende medicinske begreber og anatomi
+    working: |
+      Du kan:
+      - kode ligetil forløb korrekt ved hjælp af klassifikationsreglerne
+      - stille spørgsmål til uklare journaler hos klinikerne
+    practitioner: |
+      Du kan:
+      - kode komplekse forløb på tværs af specialer
+      - auditere kodningskvaliteten og oplære kodere
+    expert: |
+      Du kan:
+      - lede en kodningsservice og dens kvalitetsprogram
+      - rådgive om kodningsstandarder og deres betydning for data og finansiering
+clinical-leadership-in-digital:
+  name: Klinisk ledelse i det digitale
+  description: At bringe klinisk viden og troværdighed ind i design, indførelse og sikker brug af digitale services og lede klinikere gennem digital forandring.
+  levels:
+    awareness: |
+      Du kan:
+      - forklare, hvordan digitale services ændrer klinisk praksis
+    working: |
+      Du kan:
+      - give klinisk input til produktteams om arbejdsgange og sikkerhed
+      - hjælpe kliniske kolleger med at tage nye systemer i brug
+    practitioner: |
+      Du kan:
+      - lede den kliniske inddragelse for et produkt eller program
+      - omsætte kliniske behov og evidens til krav
+      - fremme sikker indførelse blandt kliniske kolleger
+    expert: |
+      Du kan:
+      - fastlægge den kliniske retning for organisationens digitale services
+      - lede kliniske ledere på tværs af organisationer gennem digital forandring
+      - rådgive bestyrelsen om klinisk risiko og gevinst ved digitale investeringer
+governance-and-compliance:
+  name: Virksomhedsledelse og compliance
+  description: At understøtte organisationens ledelse og styring — bestyrelser, udvalg, forretningsordener, politikker, erklæringer om interesser og overholdelse af juridiske og regulatoriske forpligtelser.
+  levels:
+    awareness: |
+      Du kan:
+      - følge organisationens politikker og regler for beslutningstagning
+    working: |
+      Du kan:
+      - understøtte udvalgsmøder, papirer og referater
+      - holde registre over styring ajour
+    practitioner: |
+      Du kan:
+      - køre styringscyklussen for bestyrelser og udvalg
+      - gennemgå politikker og rådgive om overholdelse
+    expert: |
+      Du kan:
+      - designe styringsrammen og rådgive bestyrelsen
+      - lede den årlige rapportering og forsikring om styring

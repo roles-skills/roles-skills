@@ -1,0 +1,57 @@
+summary: 'Tekniske arkitekter designer den tekniske struktur i organisationens digitale sundhedsservices: komponenter, platforme, hosting, integrationsmønstre og ikkefunktionelle kvaliteter som sikkerhed, ydeevne og robusthed. De arbejder tæt sammen med udviklere og DevOps-ingeniører, yder teknisk ledelse til leveranceteams og sikrer, at services bygges til at holde og er sikre at drive.'
+health_context:
+- Kliniske services har ofte brug for høj tilgængelighed og hurtig genopretning, så tekniske design skal planlægge for svigt og nedsat drift.
+- Design skal som standard beskytte fortrolige sundhedsoplysninger gennem kryptering, adgangskontrol og logning.
+- Services forbindes med mange kliniske systemer og fælles platforme, ofte gennem HL7 FHIR-API'er og meddelelser, så integrationsmønstre er centrale i designet.
+- Tekniske designvalg, såsom mellemlagring, genforsøg og håndtering af tid, kan forårsage kliniske farer, så arkitekterne bidrager til sikkerhedsbegrundelser.
+- Ældre kliniske systemer og medicinsk udstyr kan begrænse valget af teknologi, netværk og hosting.
+levels:
+- title: Associeret teknisk arkitekt
+  responsibilities:
+  - Tegne tekniske diagrammer og dokumentere komponenter, hosting og integrationer i eksisterende services.
+  - Undersøge teknologimuligheder og sammenfatte deres fordele og ulemper med vejledning.
+  - Arbejde sammen med udviklere om at kontrollere, at udviklingen følger aftalte design og mønstre.
+  - Registrere tekniske beslutninger og holde designdokumenter ajour.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller et beslægtet fag eller tilsvarende erfaring med softwareudvikling eller infrastruktur.
+  - Specialistviden om teknisk design på niveau med en diplomuddannelse eller tilsvarende erfaring.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 5): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 6. Viden scores på niveau med en diplomuddannelse, og informationsressourcer på niveau 5, fordi jobbet designer dele af større informationssystemer.'
+- title: Teknisk arkitekt
+  responsibilities:
+  - Designe den tekniske arkitektur for en service, herunder komponenter, hosting, integration og sikkerhed.
+  - Give leveranceteams designmønstre og gennemgå deres tekniske design og kodestruktur.
+  - Definere ikkefunktionelle krav, såsom mål for tilgængelighed, ydeevne og genopretning, sammen med serviceejere.
+  - Identificere teknisk gæld og teknologi uden support og planlægge, hvordan den rettes.
+  - Identificere tekniske farer og kontroller til den kliniske sikkerhedsbegrundelse.
+  qualifications:
+  - Specialistviden om teknisk arkitektur på kandidatniveau eller med tilsvarende erfaring.
+  - Erfaring med at designe eller bygge produktionssoftware eller infrastruktur.
+  job_evaluation_notes: Placeret efter den lønramme, som UK GDaD PCF-lønklassen foreslår, lønramme 7, i overensstemmelse med stillingsopslag i sundhedssektoren for denne rolle. Viden scores på kandidatniveau eller tilsvarende for specialistviden på tværs af teknisk arkitektur.
+- title: Senior teknisk arkitekt
+  responsibilities:
+  - Lede det tekniske design af store, komplekse eller risikable services, såsom kliniske systemer og fælles integrationsplatforme.
+  - Fastlægge teknisk retning for et eller flere leveranceteams og udfordre design, der tilføjer risiko.
+  - Designe for robusthed, katastrofegenopretning og sikker drift og kontrollere, at teams tester det.
+  - Forklare tekniske risici og afvejninger for serviceejere, kliniske ledere og seniorinteressenter på almindeligt sprog.
+  - Være mentor for og coache tekniske arkitekter og seniorudviklere.
+  qualifications:
+  - Betydelig erfaring med teknisk design af komplekse services på et niveau svarende til en kandidatgrad.
+  job_evaluation_notes: 'Placeret over den lønramme, som UK GDaD PCF-lønklassen foreslår (lønramme 7): stillingsopslag i sundhedssektoren placerer denne rolle i lønramme 8a. Planlægning, politik og handlefrihed scores over profilen for lønramme 7, fordi jobbet fastlægger teknisk retning for flere teams med ringe supervision.'
+- title: Ledende teknisk arkitekt
+  responsibilities:
+  - Lede den tekniske arkitektur på tværs af flere services eller teams og fastlægge fælles mønstre og standarder.
+  - Kvalitetssikre designs tekniske kvalitet hos designmyndigheder, herunder sikkerhed, robusthed og interoperabilitet.
+  - Forme organisationens teknologikøreplan sammen med enterprise-arkitekter og tekniske ledere.
+  - Rådgive den øverste ledelse om teknologivalg, investering i platforme og teknisk risiko.
+  - Lede og udvikle tekniske arkitekter.
+  qualifications:
+  - Omfattende erfaring med at lede teknisk arkitektur for komplekse services.
+- title: Principal teknisk arkitekt
+  responsibilities:
+  - Fastlægge organisationens strategi, principper og standarder for teknisk arkitektur.
+  - Styre teknisk design i hele organisationen, herunder den tekniske designmyndighed.
+  - Rådgive direktionen om større teknologibeslutninger, såsom hostingstrategi og konsolidering af platforme.
+  - Repræsentere organisationen i tekniske fællesskaber og fællesskaber for standarder på tværs af organisationer.
+  - Inspirere og udvikle arkitekter i hele organisationen.
+  qualifications:
+  - Omfattende erfaring med at lede teknisk arkitektur på tværs af flere teams eller organisationer.

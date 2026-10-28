@@ -21,7 +21,7 @@ Service desk analysts are the first point of contact for staff who need help wit
 
 ## UK GDaD PCF role description (English original)
 
-> A service desk manager is responsible for managing the first- and second-line technical support for all departmental IT applications and services across sites, including end-user computing. This includes multi-function devices and specialized IT equipment.
+> A service desk manager is responsible for managing the first- and second-line technical support for all departmental IT applications and services across sites, including end-user computing. This includes multi-function devices and specialised IT equipment.
 > 
 > In this role, you will also be responsible for ensuring support for existing and emerging information and communications technology (ICT) services, including providing technical advice to project teams.
 
@@ -61,8 +61,8 @@ A service desk analyst answers calls and tickets from staff, resolves common iss
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Awareness | You can:<br>• track, log and correct information to protect assets and components |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of developing process efficiency and common ways in which processes are optimized<br>• support specific activities to improve development processes<br>• spot or identify obvious deficiencies |
-| [Customer service management](../../skills/#customer-service-management) | UK GDaD PCF | Working | You can:<br>• resolve user requests to a minimum of the agreed service level agreement<br>• empathize with the end user<br>• use customer-focused metrics to achieve the desired outcome |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of developing process efficiency and common ways in which processes are optimised<br>• support specific activities to improve development processes<br>• spot or identify obvious deficiencies |
+| [Customer service management](../../skills/#customer-service-management) | UK GDaD PCF | Working | You can:<br>• resolve user requests to a minimum of the agreed service level agreement<br>• empathise with the end user<br>• use customer-focused metrics to achieve the desired outcome |
 | [IT service reporting](../../skills/#it-service-reporting) | UK GDaD PCF | Working | You can:<br>• produce relevant reports in an appropriate format and agreed timeframe<br>• work with stakeholders to discuss any changes in the reporting processes<br>• interpret a data set and communicate this to others |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Working | You can:<br>• own an issue until a new owner has been found or the problem has been mitigated or resolved |
 | [Service focus](../../skills/#service-focus) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of different products and services |
@@ -92,8 +92,8 @@ A service desk analyst answers calls and tickets from staff, resolves common iss
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 3 | 60 |
-| 3 | Analytical and judgemental skills | 2 | 15 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 2 | 15 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 1 | 5 |
@@ -125,7 +125,7 @@ A technical service desk analyst resolves more complex faults at first contact, 
 ### Responsibilities
 
 - Resolve more complex incidents and requests remotely, including device, software, and clinical system access faults.
-- Handle urgent calls from clinical areas, such as emergency departments, wards, and theatres, and start the major incident process when needed.
+- Handle urgent calls from clinical areas, such as emergency departments, wards, and theaters, and start the major incident process when needed.
 - Process access requests for clinical systems, checking them against role-based access rules.
 - Write and improve knowledge articles so that more issues can be resolved at first contact.
 - Spot repeated calls about the same fault and raise them with incident and problem management.
@@ -137,8 +137,8 @@ A technical service desk analyst resolves more complex faults at first contact, 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Awareness | You can:<br>• track, log and correct information to protect assets and components |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of developing process efficiency and common ways in which processes are optimized<br>• support specific activities to improve development processes<br>• spot or identify obvious deficiencies |
-| [Customer service management](../../skills/#customer-service-management) | UK GDaD PCF | Working | You can:<br>• resolve user requests to a minimum of the agreed service level agreement<br>• empathize with the end user<br>• use customer-focused metrics to achieve the desired outcome |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of developing process efficiency and common ways in which processes are optimised<br>• support specific activities to improve development processes<br>• spot or identify obvious deficiencies |
+| [Customer service management](../../skills/#customer-service-management) | UK GDaD PCF | Working | You can:<br>• resolve user requests to a minimum of the agreed service level agreement<br>• empathise with the end user<br>• use customer-focused metrics to achieve the desired outcome |
 | [IT service reporting](../../skills/#it-service-reporting) | UK GDaD PCF | Working | You can:<br>• produce relevant reports in an appropriate format and agreed timeframe<br>• work with stakeholders to discuss any changes in the reporting processes<br>• interpret a data set and communicate this to others |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Working | You can:<br>• own an issue until a new owner has been found or the problem has been mitigated or resolved |
 | [Service focus](../../skills/#service-focus) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of different products and services |
@@ -169,8 +169,8 @@ A technical service desk analyst resolves more complex faults at first contact, 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -211,7 +211,7 @@ Uses the same UK GDaD PCF level as the Band 3 analyst, for analysts who resolve 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Awareness | You can:<br>• track, log and correct information to protect assets and components |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Working | You can:<br>• identify process optimization opportunities with guidance, and contribute to the implementation of proposed solutions |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Working | You can:<br>• identify process optimisation opportunities with guidance, and contribute to the implementation of proposed solutions |
 | [Customer service management](../../skills/#customer-service-management) | UK GDaD PCF | Practitioner | You can:<br>• resolve user requests, maintaining a high level of customer service<br>• deal with complex complaints<br>• use empathy to understand and meet customer needs |
 | [IT service reporting](../../skills/#it-service-reporting) | UK GDaD PCF | Working | You can:<br>• produce relevant reports in an appropriate format and agreed timeframe<br>• work with stakeholders to discuss any changes in the reporting processes<br>• interpret a data set and communicate this to others |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Working | You can:<br>• own an issue until a new owner has been found or the problem has been mitigated or resolved |
@@ -245,8 +245,8 @@ Uses the same UK GDaD PCF level as the Band 3 analyst, for analysts who resolve 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -285,15 +285,15 @@ Planning reflects shift and rota planning for a 24-hour desk. Emotional effort r
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Awareness | You can:<br>• track, log and correct information to protect assets and components |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Working | You can:<br>• identify process optimization opportunities with guidance, and contribute to the implementation of proposed solutions |
-| [Customer service management](../../skills/#customer-service-management) | UK GDaD PCF | Expert | You can:<br>• translate lessons learned into continual service improvement<br>• oversee the full range of customer service functions, including reviewing customer service satisfaction<br>• investigate which processes can be automated and the ways to automate them |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Working | You can:<br>• identify process optimisation opportunities with guidance, and contribute to the implementation of proposed solutions |
+| [Customer service management](../../skills/#customer-service-management) | UK GDaD PCF | Expert | You can:<br>• translate lessons learnt into continual service improvement<br>• oversee the full range of customer service functions, including reviewing customer service satisfaction<br>• investigate which processes can be automated and the ways to automate them |
 | [IT service reporting](../../skills/#it-service-reporting) | UK GDaD PCF | Practitioner | You can:<br>• use data analytics skills to make decisions that enhance business performance |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Practitioner | You can:<br>• take accountability for issues that occur and be proactive in searching for potential problems<br>• achieve excellent user outcomes |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Working | You can:<br>• initiate and monitor actions to investigate patterns and trends to resolve problems<br>• effectively consult specialists where required<br>• determine the appropriate resolution and assist with its implementation<br>• determine preventative measures |
 | [Service focus](../../skills/#service-focus) | UK GDaD PCF | Working | You can:<br>• take inputs and establish coherent frameworks that work |
 | [Service management framework knowledge](../../skills/#service-management-framework-knowledge) | UK GDaD PCF | Working | You can:<br>• show you have a Level 3 service management framework qualification<br>• demonstrate knowledge of the life cycle or capability elements of ITIL (Information Technology Infrastructure Library) |
 | [Technical understanding](../../skills/#technical-understanding) | UK GDaD PCF | Working | You can:<br>• understand the core technical concepts related to the role, and apply them with guidance |
-| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritize and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
+| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritise and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Practitioner | You can:<br>• design and run identity and access services<br>• review access regularly and fix problems |
@@ -320,8 +320,8 @@ Planning reflects shift and rota planning for a 24-hour desk. Emotional effort r
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -363,8 +363,8 @@ Knowledge is one level below the band profile, as is usual for service desk role
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Awareness | You can:<br>• track, log and correct information to protect assets and components |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Practitioner | You can:<br>• analyze current processes, and identify and implement opportunities to optimize them<br>• lead and develop a team of experts to deliver service improvements<br>• help to evaluate and establish requirements for the implementation of changes by setting policy and standards |
-| [Customer service management](../../skills/#customer-service-management) | UK GDaD PCF | Expert | You can:<br>• translate lessons learned into continual service improvement<br>• oversee the full range of customer service functions, including reviewing customer service satisfaction<br>• investigate which processes can be automated and the ways to automate them |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Practitioner | You can:<br>• analyse current processes, and identify and implement opportunities to optimise them<br>• lead and develop a team of experts to deliver service improvements<br>• help to evaluate and establish requirements for the implementation of changes by setting policy and standards |
+| [Customer service management](../../skills/#customer-service-management) | UK GDaD PCF | Expert | You can:<br>• translate lessons learnt into continual service improvement<br>• oversee the full range of customer service functions, including reviewing customer service satisfaction<br>• investigate which processes can be automated and the ways to automate them |
 | [IT service reporting](../../skills/#it-service-reporting) | UK GDaD PCF | Expert | You can:<br>• use prediction methodologies to produce and maintain a holistic view of important trends across multiple processes. |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Practitioner | You can:<br>• take accountability for issues that occur and be proactive in searching for potential problems<br>• achieve excellent user outcomes |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Practitioner | You can:<br>• ensure that the right actions are taken to investigate, resolve and anticipate problems<br>• co-ordinate the team to investigate problems, implement solutions and take preventive measures |
@@ -388,7 +388,7 @@ Knowledge is one level below the band profile, as is usual for service desk role
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -399,8 +399,8 @@ Knowledge is one level below the band profile, as is usual for service desk role
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -418,5 +418,5 @@ Knowledge is one level below the band profile, as is usual for service desk role
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

@@ -1,0 +1,265 @@
+# Terjemahan bahasa Indonesia dari data/skills/procurement.yaml. Kuncinya adalah id keterampilan bahasa Inggris.
+proc-purchase-to-pay:
+  name: Pembelian hingga pembayaran
+  description: Membuat, menyetujui, dan menerima pesanan, serta menyelesaikan pertanyaan faktur dan pembayaran, melalui sistem pembelian dan pengendalian keuangan organisasi.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan aturan "tanpa pesanan pembelian, tanpa pembayaran" dan mengapa itu penting
+      - membuat permintaan pembelian dalam sistem pembelian
+    working: |
+      Anda dapat:
+      - membuat dan mengubah pesanan pembelian dan memeriksanya terhadap kontrak
+      - menyelesaikan pertanyaan faktur, penerimaan, dan pembayaran dengan pemasok dan bagian keuangan
+      - memelihara katalog dan catatan pemasok dalam sistem pembelian
+    practitioner: |
+      Anda dapat:
+      - menjalankan proses pembelian hingga pembayaran untuk sebuah layanan, memantau kepatuhan dan tunggakan
+      - menganalisis data pengeluaran untuk menemukan pengeluaran di luar kontrak dan penghematan
+      - memperbaiki proses dan pengendalian bersama rekan keuangan
+    expert: |
+      Anda dapat:
+      - menetapkan kebijakan, pengendalian, dan sistem pembelian hingga pembayaran organisasi
+      - memimpin peralihan ke pembelian dan penagihan yang sepenuhnya elektronik
+proc-procurement-process:
+  name: Proses pengadaan
+  description: Menjalankan pengadaan yang patuh, dari perencanaan dan spesifikasi melalui jalur ke pasar, tender, penetapan, dan penandatanganan kontrak, termasuk membeli melalui kerangka kerja dan sistem pembelian dinamis.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan tahapan pengadaan dan ambang batas yang berlaku
+      - memperoleh penawaran harga untuk pembelian bernilai rendah sesuai aturan organisasi
+    working: |
+      Anda dapat:
+      - menjalankan penawaran harga dan pemesanan dari kerangka kerja dengan templat standar
+      - menyiapkan dokumen tender dan mengelola pertanyaan klarifikasi pada sistem tender elektronik
+      - menyimpan jejak audit yang jelas untuk setiap pengadaan
+    practitioner: |
+      Anda dapat:
+      - merencanakan dan memimpin tender yang kompleks, memilih jalur ke pasar dan prosedur yang tepat
+      - membantu pengguna menulis spesifikasi berbasis hasil untuk sistem digital dan klinis
+      - mengelola jadwal, risiko, dan pemangku kepentingan hingga penetapan kontrak
+    expert: |
+      Anda dapat:
+      - menetapkan prosedur dan templat pengadaan organisasi
+      - memimpin pengadaan yang paling kompleks, bernilai tinggi, atau baru
+      - menjamin keputusan pengadaan untuk dewan
+proc-tender-evaluation:
+  name: Evaluasi tender
+  description: Merancang kriteria dan pembobotan evaluasi, serta menjalankan evaluasi mutu, harga, dan nilai sosial yang adil dan tercatat dengan baik.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa evaluasi harus mengikuti kriteria yang dipublikasikan
+      - menyatakan benturan kepentingan sebelum ikut serta dalam evaluasi
+    working: |
+      Anda dapat:
+      - memeriksa kepatuhan dan kelengkapan penawaran
+      - mendukung evaluator dan mencatat skor dan catatan moderasi
+      - menyiapkan model evaluasi harga dengan bimbingan
+    practitioner: |
+      Anda dapat:
+      - merancang kriteria evaluasi, pembobotan, dan panduan penilaian
+      - memimpin moderasi dan menulis laporan penetapan dan umpan balik kepada penawar
+      - merencanakan demonstrasi dan pengujian skenario klinis atau pengguna untuk tender sistem
+    expert: |
+      Anda dapat:
+      - menetapkan standar evaluasi organisasi dan pendekatannya terhadap harga dan mutu
+      - membela keputusan evaluasi ketika disanggah
+      - meninjau evaluasi pada pengadaan berisiko tinggi
+proc-procurement-law-and-policy:
+  name: Aturan dan kebijakan pengadaan publik
+  description: Menerapkan aturan pengadaan publik, aturan keuangan organisasi, dan kebijakan pengadaan agar pembelian sah, transparan, dan adil.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan bahwa uang publik harus dibelanjakan secara adil, terbuka, dan sah
+      - mengikuti ambang batas dan aturan persetujuan organisasi
+    working: |
+      Anda dapat:
+      - menerapkan aturan pengadaan yang sesuai untuk pembelian sederhana
+      - menerbitkan pengumuman dan menyimpan catatan yang memenuhi aturan transparansi
+      - mengenali ketika sebuah permintaan berisiko melanggar aturan dan menyampaikannya
+    practitioner: |
+      Anda dapat:
+      - menasihati tentang jalur yang sah untuk pengadaan dan perubahan kontrak yang kompleks
+      - mengelola risiko sanggahan dan menangani masa tunggu dan penjelasan dengan benar
+      - menulis kebijakan dan panduan pengadaan untuk organisasi
+    expert: |
+      Anda dapat:
+      - menafsirkan aturan pengadaan baru dan memimpin tanggapan organisasi
+      - menasihati dewan tentang kepatuhan dan risiko pengadaan
+      - mengelola sanggahan formal bersama penasihat hukum
+proc-market-analysis:
+  name: Analisis dan keterlibatan pasar
+  description: Memahami pasar pasokan, melibatkan pemasok sebelum pengadaan, dan menggunakan bukti pasar untuk membentuk persyaratan, jalur ke pasar, dan model komersial.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menemukan pemasok pada kerangka kerja dan basis data pemasok
+      - menjelaskan mengapa keterlibatan pasar sejak dini harus adil bagi semua pemasok
+    working: |
+      Anda dapat:
+      - mengumpulkan informasi pasar, harga, dan rincian pemasok untuk suatu kebutuhan
+      - menjalankan permintaan informasi dan merangkum tanggapannya
+    practitioner: |
+      Anda dapat:
+      - menganalisis pasar pasokan, persaingan, risiko, dan tren di dalamnya
+      - memimpin keterlibatan pasar sejak dini, seperti hari pemasok, tanpa mengganggu persaingan
+      - menggunakan bukti pasar untuk membentuk persyaratan dan model komersial
+    expert: |
+      Anda dapat:
+      - membentuk pasar, misalnya dengan mendorong pemasok baru atau yang lebih kecil
+      - memimpin strategi pasar bersama organisasi pembeli lain
+proc-negotiation:
+  name: Negosiasi komersial
+  description: Merencanakan dan melakukan negosiasi dengan pemasok untuk menyepakati harga, ketentuan, dan kinerja yang memberi nilai uang dan mengelola risiko.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan apa yang dapat dan tidak dapat dinegosiasikan dalam pengadaan publik
+    working: |
+      Anda dapat:
+      - menegosiasikan harga dan ketentuan untuk pembelian bernilai rendah atau rutin
+      - menyiapkan data dan opsi untuk negosiasi yang dipimpin orang lain
+    practitioner: |
+      Anda dapat:
+      - merencanakan dan memimpin negosiasi, menetapkan sasaran, batas, dan posisi cadangan
+      - menegosiasikan perubahan kontrak, perpanjangan, dan penyelesaian sengketa
+      - menjaga negosiasi tetap sah dan tercatat dengan baik
+    expert: |
+      Anda dapat:
+      - memimpin negosiasi bernilai tinggi dan berisiko tinggi dengan pemasok strategis
+      - membimbing orang lain dalam negosiasi dan menetapkan pendekatan negosiasi organisasi
+proc-category-management:
+  name: Manajemen kategori
+  description: Mengelola suatu kategori pengeluaran, seperti perangkat lunak, komputasi awan, dan layanan teknologi, melalui strategi kategori yang menyatukan permintaan, membentuk persyaratan, dan merencanakan pengadaan selama beberapa tahun.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan apa itu kategori dan mengapa rencana kategori penting
+    working: |
+      Anda dapat:
+      - menganalisis pengeluaran dan kontrak untuk suatu kategori dan menjaga register kontrak tetap mutakhir
+      - mendukung rencana kategori, seperti melacak perpanjangan dan penghematan
+    practitioner: |
+      Anda dapat:
+      - menulis dan melaksanakan strategi kategori bersama pemegang anggaran dan pimpinan teknis
+      - merencanakan alur pengadaan dan perpanjangan kontrak untuk kategori tersebut
+      - melacak penghematan, nilai, dan risiko untuk kategori tersebut
+    expert: |
+      Anda dapat:
+      - menetapkan pendekatan manajemen kategori untuk organisasi
+      - memimpin kategori dengan pengeluaran dan risiko tertinggi, dan menyelaraskannya dengan strategi organisasi
+      - bekerja dengan organisasi lain dalam pembelian kolaboratif
+proc-technology-procurement:
+  name: Pengadaan teknologi dan komputasi awan
+  description: Membeli perangkat lunak, layanan komputasi awan, lisensi, perangkat keras, dan layanan digital, termasuk perangkat lunak sebagai layanan, model komersial, perizinan, serta ketentuan keamanan, pelindungan data, dan interoperabilitas yang dibutuhkan teknologi kesehatan.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan cara utama teknologi dibeli, seperti lisensi, langganan, dan layanan
+      - mengenali bahwa sistem klinis memerlukan pemeriksaan keamanan, keselamatan klinis, dan pelindungan data
+    working: |
+      Anda dapat:
+      - membeli perangkat lunak, perangkat keras, dan lisensi standar melalui kerangka kerja
+      - melacak jumlah lisensi, perpanjangan, dan tanggal penyesuaian (true-up)
+      - memasukkan persyaratan keamanan dan pelindungan data standar dalam dokumen
+    practitioner: |
+      Anda dapat:
+      - membeli layanan komputasi awan, perangkat lunak sebagai layanan, dan sistem klinis, memilih model komersial yang tepat
+      - menyusun persyaratan bersama pimpinan teknis, keselamatan klinis, dan tata kelola informasi
+      - memasukkan interoperabilitas, standar terbuka, kepemilikan data, dan ketentuan keluar dalam kontrak
+      - menghindari keterkungkungan dengan merencanakan portabilitas dan persaingan saat perpanjangan
+    expert: |
+      Anda dapat:
+      - menetapkan strategi komersial organisasi untuk teknologi dan komputasi awan
+      - memimpin negosiasi perjanjian enterprise dan platform strategis
+      - menasihati pimpinan digital tentang risiko komersial pilihan teknologi
+proc-contract-management:
+  name: Manajemen kontrak
+  description: Mengelola kontrak setelah penetapan, termasuk mobilisasi, kinerja, pembayaran, perubahan, sengketa, perpanjangan, dan keluar, agar organisasi mendapatkan apa yang dibayarnya.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menemukan sebuah kontrak dan menjelaskan tanggal penting, nilai, dan pemiliknya
+      - mencatat perubahan dan dokumen kontrak dalam register kontrak
+    working: |
+      Anda dapat:
+      - memantau kinerja pemasok terhadap tingkat layanan dan indikator kinerja utama
+      - menyiapkan rapat tinjauan kontrak dan melacak tindakan
+      - memproses perubahan kontrak dan memeriksa faktur terhadap kontrak
+    practitioner: |
+      Anda dapat:
+      - mengelola portofolio kontrak, termasuk kontrak klinis dan teknologi
+      - menggunakan upaya pemulihan kontrak, seperti kredit layanan, ketika kinerja kurang
+      - mengelola perubahan, sengketa, dan perpanjangan dalam aturan pengadaan
+      - merencanakan keluar sejak dini dan menguji rencana keluar sebelum kontrak berakhir
+    expert: |
+      Anda dapat:
+      - menetapkan kerangka dan standar manajemen kontrak organisasi
+      - memimpin pengelolaan kontrak strategis yang berisiko tinggi
+      - menyelesaikan sengketa besar dan memutuskan pengakhiran atau pengadaan ulang
+proc-supplier-relationship-management:
+  name: Manajemen hubungan pemasok
+  description: Membangun hubungan strategis dengan pemasok utama untuk mengelola risiko, meningkatkan kinerja, dan mengembangkan produk dan layanan dari waktu ke waktu.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa hubungan pemasok yang baik penting bagi layanan yang diandalkan pasien
+      - berurusan dengan pemasok secara profesional dan mencatat kontak
+    working: |
+      Anda dapat:
+      - menjaga kontak pemasok, jalur eskalasi, dan catatan tetap mutakhir
+      - memeriksa kesehatan keuangan dan asuransi pemasok terhadap persyaratan
+    practitioner: |
+      Anda dapat:
+      - mengelompokkan pemasok menurut risiko dan nilai serta merencanakan cara mengelola tiap kelompok
+      - menjalankan tinjauan strategis dengan pemasok utama, termasuk peta jalan dan rencana perbaikan
+      - mengelola risiko pemasok, seperti kegagalan keuangan, insiden siber, dan masalah rantai pasokan
+    expert: |
+      Anda dapat:
+      - menetapkan strategi hubungan pemasok organisasi
+      - memimpin hubungan tingkat eksekutif dengan pemasok strategis
+      - memimpin tanggapan ketika pemasok yang kritis gagal
+proc-exit-planning:
+  name: Perencanaan keluar dan pengembalian data
+  description: Merencanakan dan mengelola berakhirnya kontrak, termasuk peralihan ke pemasok baru, pengembalian dan penghapusan data, dan kesinambungan layanan bagi pasien dan staf.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan mengapa setiap kontrak memerlukan rencana keluar
+      - menemukan ketentuan keluar dan pengembalian data suatu kontrak
+    working: |
+      Anda dapat:
+      - menjaga rencana keluar serta register aset dan data tetap mutakhir
+      - melacak masa pemberitahuan dan tonggak keluar
+    practitioner: |
+      Anda dapat:
+      - menulis rencana keluar dan peralihan bersama pimpinan teknis, data, dan klinis
+      - memastikan data dikembalikan dalam format standar yang dapat dipakai lalu dihapus dengan aman
+      - mengelola risiko peralihan agar perawatan tidak terganggu
+    expert: |
+      Anda dapat:
+      - menetapkan standar organisasi untuk keluar, peralihan, dan pengembalian data
+      - memimpin keluar dari kontrak klinis dan teknologi yang strategis
+proc-social-value:
+  name: Nilai sosial dan pengadaan berkelanjutan
+  description: Menggunakan pengadaan dan kontrak untuk menghasilkan nilai sosial, keberlanjutan lingkungan, dan rantai pasokan yang adil, serta mengukur apa yang disampaikan pemasok.
+  levels:
+    awareness: |
+      Anda dapat:
+      - menjelaskan apa arti nilai sosial dan pengadaan berkelanjutan bagi organisasi
+    working: |
+      Anda dapat:
+      - memasukkan pertanyaan nilai sosial dan keberlanjutan standar dalam tender
+      - mengumpulkan laporan nilai sosial dari pemasok
+    practitioner: |
+      Anda dapat:
+      - menetapkan kriteria nilai sosial dan keberlanjutan yang sesuai dengan kontrak
+      - mengelola komitmen pemasok, seperti lapangan kerja lokal, keterampilan, dan pengurangan karbon
+      - memeriksa rantai pasokan terhadap risiko seperti kerja paksa dan pelanggaran hak asasi manusia lainnya
+    expert: |
+      Anda dapat:
+      - menetapkan kebijakan nilai sosial dan pengadaan berkelanjutan organisasi
+      - melaporkan hasil nilai sosial dan karbon kepada dewan

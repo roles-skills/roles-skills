@@ -1,0 +1,27 @@
+summary: Vélnámsverkfræðingar taka líkön sem gagnafræðingar hafa smíðað, eða keypt eru af birgjum, og láta þau virka áreiðanlega í heilbrigðis- og velferðarþjónustu í rekstri. Þeir smíða þær leiðslur sem þjálfa, prófa, setja út og vakta líkön og samþætta þau við klínísk kerfi og rekstrarkerfi. Þeir tryggja að líkön haldist örugg, trygg, sanngjörn og skilvirk þegar raunverulegir sjúklingar og starfsfólk reiða sig á þau.
+health_context:
+- Líkön í notkun geta rekið af leið þegar sjúklingahópar, klínísk framkvæmd eða skráningarvenjur breytast, svo frammistaða er vöktuð fyrir hvern sjúklingahóp og líkön eru endurþjálfuð eða dregin til baka þegar þarf.
+- Líkan sem upplýsir sjúkdómsgreiningu, forgangsflokkun eða meðferð kann að vera lögbundið sem lækningatæki, sem hefur í för með sér formlegar kröfur um líftíma hugbúnaðarins, breytingastýringu og eftirlit eftir markaðssetningu.
+- Klínísk öryggismál þurfa gögn um hvernig líkan bregst, hvernig niðurstöður þess eru sýndar klínísku starfsfólki og hvað gerist þegar það er ekki tiltækt.
+- Líkön sem þjálfuð eru á gögnum sjúklinga geta lekið upplýsingum um einstaklinga, svo þjálfunargögn, líkanaafurðir og skrár eru vernduð eins og gögnin sjálf.
+- Skapandi gervigreind og stór mállíkön hafa í för með sér frekari áhættu, svo sem uppdiktað efni í klínískum skrám, sem krefst sértækra prófana og eftirlits manna.
+levels:
+- title: Eldri vélnámsverkfræðingur
+  responsibilities:
+  - Setja líkön í rekstur í klínískri þjónustu og rekstrarþjónustu, með sjálfvirkum prófunum, útgáfustýringu og afturköllun.
+  - Smíða vöktun á frammistöðu líkana, reki og sanngirni þvert á sjúklingahópa, með viðvörunum og skýrum eigendum.
+  - Samþætta líkön við klínísk kerfi, með opnum stöðlum eins og HL7 FHIR þar sem unnt er.
+  - Búa til þau próf-, breytinga- og vöktunargögn sem þarf fyrir klínísk öryggismál og tæknilegar skrár lækningatækja.
+  - Meta og aðlaga líkön birgja og opinn hugbúnað til staðbundinnar notkunar, þar á meðal líkön skapandi gervigreindar.
+  - Leiðbeina gagnafræðingum og verkfræðingum um vélnámsverkfræðivenjur.
+  qualifications:
+  - Mikil reynsla af smíði og rekstri vélnámskerfa í rekstri, á stigi sem jafngildir meistaragráðu.
+- title: Leiðandi vélnámsverkfræðingur
+  responsibilities:
+  - Stýra flóknustu vinnunni við að færa líkön frá rannsóknum í örugga notkun í rekstri þvert á stofnunina.
+  - Skilgreina líftíma vélnáms, þar á meðal þær stýringar sem þarf fyrir lögbundin og öryggismikilvæg líkön.
+  - Setja staðla um prófun líkana, vöktun, öryggi og siðfræði og tryggja líkön í rekstri.
+  - Vinna með klínískum öryggisfulltrúum, upplýsingastjórnun og regluverkssérfræðingum að því að samþykkja hvernig líkön eru metin og samþykkt.
+  - Greina þjálfunarþarfir og þróa vélnámsverkfræðinga og skyld hlutverk.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í vélnámsverkfræði fyrir flókna eða lögbundna þjónustu.

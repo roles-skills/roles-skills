@@ -1,0 +1,54 @@
+summary: Quản lý sản phẩm bảo đảm các sản phẩm y tế số của tổ chức đáp ứng nhu cầu của bệnh nhân, bác sĩ lâm sàng và nhân viên chăm sóc và mang lại giá trị cho hệ thống y tế và chăm sóc. Họ đề ra tầm nhìn và lộ trình sản phẩm, ưu tiên công việc của các nhóm đa ngành dựa trên bằng chứng, và chịu trách nhiệm về kết quả mà sản phẩm đạt được, kể cả tác động của chúng đối với việc chăm sóc.
+health_context:
+- Các quyết định về sản phẩm có thể ảnh hưởng đến an toàn bệnh nhân, nên quản lý sản phẩm làm chủ rủi ro lâm sàng của sản phẩm cùng cán bộ an toàn lâm sàng và bảo đảm các mối nguy được quản lý trước khi phát hành.
+- Sản phẩm phục vụ nhiều nhóm người dùng với nhu cầu khác nhau, như bệnh nhân, người chăm sóc, bác sĩ lâm sàng và nhân viên hành chính, và quản lý sản phẩm phải cân bằng giữa họ một cách công bằng.
+- Một số sản phẩm có thể bị quản lý như thiết bị y tế, nên quản lý sản phẩm cần biết khi nào quy định áp dụng và lập kế hoạch cho nó.
+- Kết quả trong chăm sóc gồm an toàn, chất lượng, khả năng tiếp cận, công bằng và thời gian của nhân viên, nên quản lý sản phẩm xác định các thước đo thành công mà các lãnh đạo lâm sàng và vận hành nhận ra.
+- Sản phẩm thường phụ thuộc vào các tiêu chuẩn dữ liệu y tế quốc gia và khu vực và các nền tảng dùng chung, nên quản lý sản phẩm làm việc vượt qua ranh giới tổ chức.
+levels:
+- title: Quản lý sản phẩm trợ lý
+  responsibilities:
+  - Làm chủ danh sách công việc cho một tính năng hoặc một phần của sản phẩm, làm việc với một quản lý sản phẩm.
+  - Chuyển bằng chứng từ nghiên cứu người dùng với bệnh nhân, bác sĩ lâm sàng và nhân viên chăm sóc thành các câu chuyện người dùng được ưu tiên.
+  - Làm việc với cán bộ an toàn lâm sàng để ghi nhận và rà soát các mối nguy cho các tính năng bạn phụ trách.
+  - Theo dõi các thước đo sản phẩm, như mức độ áp dụng, tỷ lệ hoàn thành và cuộc gọi hỗ trợ, và báo cáo những gì chúng cho thấy.
+  - Đại diện sản phẩm tại các buổi trình diễn và với các bên liên quan về vận hành.
+  qualifications:
+  - Có kinh nghiệm ở một vai trò số, lâm sàng hoặc vận hành, hoặc kinh nghiệm tương đương.
+- title: Quản lý sản phẩm
+  responsibilities:
+  - Đề ra tầm nhìn, lộ trình và thước đo thành công cho một sản phẩm y tế số.
+  - Ưu tiên công việc của nhóm, cân bằng giữa nhu cầu người dùng, an toàn lâm sàng, chính sách, ràng buộc kỹ thuật và chi phí.
+  - Chấp nhận rủi ro lâm sàng cho các thay đổi sản phẩm cùng cán bộ an toàn lâm sàng, và dừng các bản phát hành không an toàn.
+  - Làm việc với các lãnh đạo lâm sàng và vận hành để bảo đảm sản phẩm phù hợp với lộ trình chăm sóc và được áp dụng.
+  - Bảo đảm sản phẩm đáp ứng các tiêu chuẩn về khả năng tiếp cận, quản trị thông tin và dịch vụ.
+  - Đo lường kết quả của sản phẩm, gồm lợi ích của nó đối với bệnh nhân và nhân viên.
+  qualifications:
+  - Có kinh nghiệm dày dặn về quản lý sản phẩm hoặc một vai trò số liên quan.
+- title: Quản lý sản phẩm cao cấp
+  responsibilities:
+  - Dẫn dắt một nhóm các sản phẩm liên quan, hoặc một sản phẩm phức tạp, rủi ro cao hoặc nhạy cảm, như sản phẩm dùng trong chăm sóc cấp cứu.
+  - Xây dựng chiến lược sản phẩm từ bằng chứng về nhu cầu của bệnh nhân, thực hành lâm sàng và chính sách y tế và chăm sóc.
+  - Bảo đảm sản phẩm đáp ứng quy định về thiết bị y tế khi nó áp dụng.
+  - Quản lý ngân sách của sản phẩm và trình bày luận cứ đầu tư với lợi ích cho việc chăm sóc.
+  - Huấn luyện và quản lý trực tiếp các quản lý sản phẩm.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc quản lý các sản phẩm số qua toàn bộ vòng đời của chúng.
+- title: Trưởng nhóm quản lý sản phẩm
+  responsibilities:
+  - Dẫn dắt một danh mục sản phẩm hoặc một dịch vụ đầu cuối, như toàn bộ các sản phẩm hỗ trợ một lộ trình chăm sóc.
+  - Đề ra định hướng sản phẩm trên nhiều nhóm và bảo đảm các sản phẩm phối hợp với nhau vì bệnh nhân và nhân viên.
+  - Làm việc với các trưởng nhóm lâm sàng và cán bộ an toàn lâm sàng để quản lý rủi ro lâm sàng trên toàn danh mục.
+  - Nắm giữ ngân sách danh mục và báo cáo lợi ích cho các ban quản trị cấp cao.
+  - Dẫn dắt và phát triển các quản lý sản phẩm trong mảng sản phẩm.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt sản phẩm trên nhiều nhóm.
+- title: Trưởng bộ phận sản phẩm
+  responsibilities:
+  - Đề ra chiến lược sản phẩm của tổ chức, làm việc với các lãnh đạo điều hành, lâm sàng và vận hành.
+  - Đề ra và nâng cao tiêu chuẩn quản lý sản phẩm, gồm cách các sản phẩm quản lý rủi ro lâm sàng và đo lường kết quả.
+  - Dẫn dắt ngành quản lý sản phẩm, gồm tuyển dụng, lộ trình nghề nghiệp và xây dựng năng lực.
+  - Quyết định các ưu tiên đầu tư trên các sản phẩm, dựa trên bằng chứng về nhu cầu, giá trị và công bằng.
+  - Đại diện các sản phẩm của tổ chức với các đối tác trong hệ thống y tế và chăm sóc.
+  qualifications:
+  - Có kinh nghiệm sâu rộng trong việc dẫn dắt quản lý sản phẩm trên toàn tổ chức.

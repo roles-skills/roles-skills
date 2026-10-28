@@ -50,10 +50,10 @@ Problem managers find and fix the root causes of incidents, so that faults stop 
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Awareness | You can:<br>• track, log and correct information to protect assets and components |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Working | You can:<br>• manage service components to ensure they meet business needs and key performance indicators (KPIs) |
 | [Change management](../../skills/#change-management) | UK GDaD PCF | Awareness | You can:<br>• implement change requests<br>• apply change control procedures under supervision |
-| [Community collaboration](../../skills/#community-collaboration) | UK GDaD PCF | Working | You can:<br>• contribute to the work of others<br>• motivate and empower teams<br>• create the right environment for teams to work in, and can identify the best team makeup depending on the situation<br>• recognize and deal with issues |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Working | You can:<br>• identify process optimization opportunities with guidance, and contribute to the implementation of proposed solutions |
+| [Community collaboration](../../skills/#community-collaboration) | UK GDaD PCF | Working | You can:<br>• contribute to the work of others<br>• motivate and empower teams<br>• create the right environment for teams to work in, and can identify the best team makeup depending on the situation<br>• recognise and deal with issues |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Working | You can:<br>• identify process optimisation opportunities with guidance, and contribute to the implementation of proposed solutions |
 | [Continuity management](../../skills/#continuity-management) | UK GDaD PCF | Awareness | You can:<br>• explain the basic principles of IT standard continuity management processes and procedures |
-| [Incident management](../../skills/#incident-management) | UK GDaD PCF | Working | You can:<br>• diagnose and prioritize incidents, investigate their causes and find resolutions |
+| [Incident management](../../skills/#incident-management) | UK GDaD PCF | Working | You can:<br>• diagnose and prioritise incidents, investigate their causes and find resolutions |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Working | You can:<br>• own an issue until a new owner has been found or the problem has been mitigated or resolved |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Working | You can:<br>• initiate and monitor actions to investigate patterns and trends to resolve problems<br>• effectively consult specialists where required<br>• determine the appropriate resolution and assist with its implementation<br>• determine preventative measures |
 | [Service focus](../../skills/#service-focus) | UK GDaD PCF | Working | You can:<br>• take inputs and establish coherent frameworks that work |
@@ -83,8 +83,8 @@ Problem managers find and fix the root causes of incidents, so that faults stop 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -107,7 +107,7 @@ Problem managers find and fix the root causes of incidents, so that faults stop 
 > 
 > At this role level, you will:
 > - resolve emerging and recurring problems
-> - perform root cause analysis to minimize the adverse impact of incidents caused by errors within the IT infrastructure
+> - perform root cause analysis to minimise the adverse impact of incidents caused by errors within the IT infrastructure
 > - work closely with major incident managers
 > - deal with problems and root cause analysis
 
@@ -126,9 +126,9 @@ Problem managers find and fix the root causes of incidents, so that faults stop 
 | --- | --- | --- | --- |
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Awareness | You can:<br>• track, log and correct information to protect assets and components |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Working | You can:<br>• manage service components to ensure they meet business needs and key performance indicators (KPIs) |
-| [Change management](../../skills/#change-management) | UK GDaD PCF | Working | You can:<br>• analyze and assess the impact of change<br>• document change requests<br>• action changes from change requests |
+| [Change management](../../skills/#change-management) | UK GDaD PCF | Working | You can:<br>• analyse and assess the impact of change<br>• document change requests<br>• action changes from change requests |
 | [Community collaboration](../../skills/#community-collaboration) | UK GDaD PCF | Practitioner | You can:<br>• work collaboratively in a group, actively networking with others<br>• adapt feedback to ensure it’s effective and lasting<br>• use your initiative to identify problems or issues in the team dynamic and rectify them<br>• identify issues through Agile ‘health checks’ with the team, and help to stimulate the right responses |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Practitioner | You can:<br>• analyze current processes, and identify and implement opportunities to optimize them<br>• lead and develop a team of experts to deliver service improvements<br>• help to evaluate and establish requirements for the implementation of changes by setting policy and standards |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Practitioner | You can:<br>• analyse current processes, and identify and implement opportunities to optimise them<br>• lead and develop a team of experts to deliver service improvements<br>• help to evaluate and establish requirements for the implementation of changes by setting policy and standards |
 | [Continuity management](../../skills/#continuity-management) | UK GDaD PCF | Working | You can:<br>• manage the runbooks and the processes around service continuity<br>• test the runbooks to ensure that service availability is maintained |
 | [Incident management](../../skills/#incident-management) | UK GDaD PCF | Practitioner | You can:<br>• lead the investigation and resolution of incidents |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Practitioner | You can:<br>• take accountability for issues that occur and be proactive in searching for potential problems<br>• achieve excellent user outcomes |
@@ -140,7 +140,7 @@ Problem managers find and fix the root causes of incidents, so that faults stop 
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognize when a change could affect patient care and raise it |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 
 ### Typical qualifications and experience
 
@@ -161,8 +161,8 @@ Problem managers find and fix the root causes of incidents, so that faults stop 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -180,5 +180,5 @@ Problem managers find and fix the root causes of incidents, so that faults stop 
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

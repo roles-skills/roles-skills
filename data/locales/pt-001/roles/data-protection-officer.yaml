@@ -1,0 +1,45 @@
+summary: O responsável pela proteção de dados (DPO) monitora de forma independente o cumprimento da legislação de proteção de dados pela organização, aconselha sobre seus deveres e é o ponto de contato do regulador e das pessoas cujos dados a organização mantém. Em uma organização de saúde digital, o DPO dá pareceres especializados sobre o uso legal, justo e transparente de dados de saúde em produtos, análises, pesquisas e compartilhamento de dados.
+health_context:
+- A legislação de proteção de dados confere ao DPO uma posição protegida e independente, que se reporta ao mais alto nível da gestão, por isso a função deve estar livre de conflitos de interesses.
+- A legislação de proteção de dados dá proteção adicional aos dados de saúde, e boa parte deles também está sujeita a um dever de confidencialidade, por isso o DPO aconselha sobre ambos.
+- O tratamento de dados de saúde em larga escala, a vinculação de dados e a IA muitas vezes exigem avaliações de impacto sobre a proteção de dados e, às vezes, consulta prévia ao regulador.
+- Pacientes e o público esperam transparência, por isso o DPO ajuda a organização a explicar com clareza como usa seus dados.
+levels:
+- title: Responsável adjunto pela proteção de dados
+  summary: Apoia o DPO no monitoramento da conformidade e na assessoria, lidera casos complexos e substitui o DPO.
+  responsibilities:
+  - Orientar as equipes sobre a legislação de proteção de dados, incluindo base legal, transparência e direitos individuais.
+  - Revisar avaliações de impacto sobre a proteção de dados de alto risco e redigir o parecer do DPO.
+  - Monitorar a conformidade por meio de auditorias, verificações pontuais e revisões dos registros de tratamento.
+  - Liderar a investigação de violações graves de dados e preparar as notificações ao regulador.
+  - Tratar reclamações e pedidos complexos de pessoas sobre seus dados.
+  - Substituir o DPO perante a liderança sênior e o regulador.
+  qualifications:
+  - Uma qualificação profissional reconhecida em proteção de dados, ou experiência equivalente.
+  - Experiência substancial em proteção de dados na saúde ou nos cuidados.
+- title: Responsável pela proteção de dados
+  summary: O responsável legal pela proteção de dados da organização, que monitora a conformidade de forma independente, aconselha a liderança sênior e o conselho de administração e atua como ponto de contato do regulador e do público.
+  responsibilities:
+  - Monitorar de forma independente o cumprimento da legislação de proteção de dados e das políticas da própria organização.
+  - Aconselhar o conselho de administração, a liderança sênior e as equipes sobre seus deveres de proteção de dados.
+  - Dar pareceres formais sobre avaliações de impacto sobre a proteção de dados de alto risco e decidir quando consultar o regulador.
+  - Atuar como ponto de contato do regulador e das pessoas cujos dados a organização mantém.
+  - Supervisionar as decisões de notificação de violações e a resposta da organização a consultas do regulador.
+  - Reportar ao conselho de administração e a seus comitês a conformidade e o risco de proteção de dados.
+  qualifications:
+  - Uma qualificação profissional reconhecida em proteção de dados, ou experiência equivalente.
+  - Ampla experiência na legislação e na prática de proteção de dados, inclusive na saúde ou nos cuidados.
+  job_evaluation_notes: A liberdade de ação é pontuada no nível 6 porque a legislação de proteção de dados exige que o DPO atue de forma independente e interprete a lei e a política sem receber instruções.
+- title: Responsável sênior pela proteção de dados
+  summary: O responsável pela proteção de dados de uma organização grande ou de um grupo de organizações que compartilham um DPO, que lidera a função de proteção de dados e define seus padrões.
+  responsibilities:
+  - Atuar como DPO legal de uma organização grande ou de um grupo de organizações de cuidados.
+  - Liderar a função de proteção de dados, sua equipe e seu programa de trabalho.
+  - Definir a estrutura e os padrões de proteção de dados em toda a organização ou grupo.
+  - Dar o parecer final sobre os tratamentos de maior risco, como a vinculação de dados em larga escala e a IA.
+  - Liderar o relacionamento com o regulador, os parceiros e os grupos de pacientes e do público sobre o uso de dados.
+  - Reportar ao conselho de administração o risco, a conformidade e a confiança do público em matéria de proteção de dados.
+  qualifications:
+  - Uma qualificação profissional reconhecida em proteção de dados, ou experiência equivalente.
+  - Ampla experiência como responsável pela proteção de dados em uma organização grande ou complexa.
+  job_evaluation_notes: Os recursos de informação são pontuados no nível 6 porque a função supervisiona como os dados pessoais são tratados em toda a organização ou grupo.

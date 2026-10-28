@@ -28,7 +28,7 @@ The data protection officer (DPO) independently monitors the organization's comp
 
 ## Band 8a: Deputy data protection officer
 
-Supports the DPO in monitoring compliance and giving advice, leads complex casework, and deputizes for the DPO.
+Supports the DPO in monitoring compliance and giving advice, leads complex casework, and deputises for the DPO.
 
 ### Responsibilities
 
@@ -37,7 +37,7 @@ Supports the DPO in monitoring compliance and giving advice, leads complex casew
 - Monitor compliance through audits, spot checks, and reviews of records of processing.
 - Lead the investigation of serious data breaches and prepare notifications to the regulator.
 - Handle complex complaints and requests from individuals about their data.
-- Deputize for the DPO with senior leaders and the regulator.
+- Deputise for the DPO with senior leaders and the regulator.
 
 ### Skills
 
@@ -47,7 +47,7 @@ Supports the DPO in monitoring compliance and giving advice, leads complex casew
 | [Data protection impact assessment](../../skills/#data-protection-impact-assessment) | This reference | Practitioner | You can:<br>• review and advise on data protection impact assessments for complex systems<br>• judge whether risks are acceptable and recommend controls<br>• decide when to escalate high risks for senior or regulator review |
 | [Information governance incident management](../../skills/#information-governance-incident-management) | This reference | Practitioner | You can:<br>• investigate serious incidents and find their root causes<br>• decide, with senior colleagues, whether to notify regulators and people affected<br>• share lessons and track improvements |
 | [Information rights requests](../../skills/#information-rights-requests) | This reference | Practitioner | You can:<br>• handle complex or sensitive requests, including those involving third parties<br>• apply exemptions and decide what to withhold, with clear reasons<br>• manage internal reviews and complaints about responses |
-| [Information governance assurance and audit](../../skills/#information-governance-assurance-and-audit) | This reference | Practitioner | You can:<br>• plan and run the information governance assurance programme<br>• judge whether evidence meets the standard and identify gaps<br>• work with internal and external auditors |
+| [Information governance assurance and audit](../../skills/#information-governance-assurance-and-audit) | This reference | Practitioner | You can:<br>• plan and run the information governance assurance program<br>• judge whether evidence meets the standard and identify gaps<br>• work with internal and external auditors |
 | [Confidentiality and information sharing](../../skills/#confidentiality-and-information-sharing) | This reference | Practitioner | You can:<br>• advise on complex confidentiality questions, such as sharing without consent in the public interest<br>• review information sharing agreements with partner organizations<br>• apply consent and patient objection rules to data flows |
 | [Data ethics and privacy](../../skills/#data-ethics-and-privacy) | UK GDaD PCF | Practitioner | You can:<br>• work with stakeholders to identify and address ethical and privacy concerns<br>• demonstrate and communicate how data ethical issues fit into the wider organisational context<br>• research developments in data ethics and privacy to improve compliance and processes<br>• assess and constructively challenge proposed data ethics policies |
 | [Communicating information](../../skills/#communicating-information) | UK GDaD PCF | Practitioner | You can:<br>• work collaboratively in a group and build relationships with others<br>• identify issues through Agile 'health checks' and work with others to address them<br>• manage stakeholder expectations<br>• be flexible and capable of proactive and reactive communication<br>• host or moderate difficult discussions within the team or with senior stakeholders |
@@ -60,7 +60,7 @@ Supports the DPO in monitoring compliance and giving advice, leads complex casew
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -71,8 +71,8 @@ Supports the DPO in monitoring compliance and giving advice, leads complex casew
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -110,7 +110,7 @@ The organization's statutory data protection officer, independently monitoring c
 | [Information governance assurance and audit](../../skills/#information-governance-assurance-and-audit) | This reference | Expert | You can:<br>• own the organization's information governance assurance framework<br>• report assurance and compliance to the board and its committees<br>• set improvement priorities based on risk |
 | [Confidentiality and information sharing](../../skills/#confidentiality-and-information-sharing) | This reference | Practitioner | You can:<br>• advise on complex confidentiality questions, such as sharing without consent in the public interest<br>• review information sharing agreements with partner organizations<br>• apply consent and patient objection rules to data flows |
 | [Corporate governance and compliance](../../skills/#corporate-governance-and-compliance) | This reference | Practitioner | You can:<br>• run the governance cycle for boards and committees<br>• review policies and advise on compliance |
-| [Data ethics and privacy](../../skills/#data-ethics-and-privacy) | UK GDaD PCF | Expert | You can:<br>• oversee compliance with data ethics standards and legislation across the organization<br>• develop, manage and continuously improve an ethical framework within your area<br>• develop a data ethics culture, influencing others to act on it<br>• ensure data ethics is applied appropriately when formulating, implementing and evaluating organisational policies and programs |
+| [Data ethics and privacy](../../skills/#data-ethics-and-privacy) | UK GDaD PCF | Expert | You can:<br>• oversee compliance with data ethics standards and legislation across the organisation<br>• develop, manage and continuously improve an ethical framework within your area<br>• develop a data ethics culture, influencing others to act on it<br>• ensure data ethics is applied appropriately when formulating, implementing and evaluating organisational policies and programmes |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Practitioner | You can:<br>• work with the team to develop and maintain an understanding of stakeholders<br>• work with the team to develop and implement stakeholder communications strategies<br>• identify and resolve issues, influence stakeholders and manage relationships effectively<br>• build long-term strategic relationships and communicate clearly and regularly with stakeholders |
 
 ### Typical qualifications and experience
@@ -132,8 +132,8 @@ The organization's statutory data protection officer, independently monitoring c
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -157,7 +157,7 @@ The data protection officer for a large organization or a group of organizations
 ### Responsibilities
 
 - Act as the statutory DPO for a large organization or a group of care organizations.
-- Lead the data protection function, its staff, and its work programme.
+- Lead the data protection function, its staff, and its work program.
 - Set the data protection framework and standards across the organization or group.
 - Give the final advice on the highest-risk processing, such as large-scale data linkage and AI.
 - Lead engagement with the regulator, partners, and patient and public groups on data use.
@@ -172,10 +172,10 @@ The data protection officer for a large organization or a group of organizations
 | [Information governance assurance and audit](../../skills/#information-governance-assurance-and-audit) | This reference | Expert | You can:<br>• own the organization's information governance assurance framework<br>• report assurance and compliance to the board and its committees<br>• set improvement priorities based on risk |
 | [Confidentiality and information sharing](../../skills/#confidentiality-and-information-sharing) | This reference | Expert | You can:<br>• act as the senior adviser on confidentiality for the organization<br>• resolve the most difficult disclosure decisions<br>• set the framework for sharing information with partners |
 | [Corporate governance and compliance](../../skills/#corporate-governance-and-compliance) | This reference | Practitioner | You can:<br>• run the governance cycle for boards and committees<br>• review policies and advise on compliance |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
-| [Data ethics and privacy](../../skills/#data-ethics-and-privacy) | UK GDaD PCF | Expert | You can:<br>• oversee compliance with data ethics standards and legislation across the organization<br>• develop, manage and continuously improve an ethical framework within your area<br>• develop a data ethics culture, influencing others to act on it<br>• ensure data ethics is applied appropriately when formulating, implementing and evaluating organisational policies and programs |
-| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterized by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
+| [Data ethics and privacy](../../skills/#data-ethics-and-privacy) | UK GDaD PCF | Expert | You can:<br>• oversee compliance with data ethics standards and legislation across the organisation<br>• develop, manage and continuously improve an ethical framework within your area<br>• develop a data ethics culture, influencing others to act on it<br>• ensure data ethics is applied appropriately when formulating, implementing and evaluating organisational policies and programmes |
+| [Leadership and guidance](../../skills/#leadership-and-guidance) | UK GDaD PCF | Practitioner | You can:<br>• make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase<br>• build consensus between services or independent stakeholders<br>• identify problems or issues in the team dynamic and rectify them<br>• engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick<br>• bring people together to form a motivated team and help create the right environment for a team to work in<br>• facilitate the best team makeup depending on the situation |
 
 ### Typical qualifications and experience
 
@@ -184,7 +184,7 @@ The data protection officer for a large organization or a group of organizations
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Knowledge:** Expert knowledge, and wide organizational and sector understanding.
 - **Autonomy:** Sets strategy for a function; accountable to a director.
 - **Scope:** A function or department.
 - **Leadership:** Leads a function through several management layers.
@@ -196,8 +196,8 @@ The data protection officer for a large organization or a group of organizations
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
@@ -217,5 +217,5 @@ Information resources is scored at level 6 because the job oversees how personal
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

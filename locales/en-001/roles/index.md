@@ -37,16 +37,16 @@
 | [Frontend developer](frontend-developer/) | [Software development](../#software-development) | 4, 5, 6, 7, 8b, 8c |
 | [Governance and risk manager](governance-and-risk-manager/) | [Corporate services](../#corporate-services) | 5, 6, 7, 8b |
 | [Head of finance](head-of-finance/) | [Finance](../#finance) | 8c, 8d, 9 |
-| [Head of legal services](head-of-legal-services/) | [Legal](../#legal) | 8c, 8d, 9 |
+| [Head of legal services](head-of-legal/) | [Legal](../#legal) | 8c, 8d, 9 |
 | [Head of people](head-of-people/) | [Human resources](../#human-resources) | 8c, 8d, 9 |
 | [Head of procurement](head-of-procurement/) | [Procurement and commercial](../#procurement-and-commercial) | 8c, 8d, 9 |
-| [Health records officer](health-records-officer/) | [Information governance](../#information-governance) | 2, 3, 4, 5 |
-| [Human resources business partner](human-resources-business-partner/) | [Human resources](../#human-resources) | 7, 8a, 8b |
-| [Human resources officer](human-resources-officer/) | [Human resources](../#human-resources) | 3, 4, 5, 6 |
+| [Health records officer](records-officer/) | [Information governance](../#information-governance) | 2, 3, 4, 5 |
+| [Human resources business partner](hr-business-partner/) | [Human resources](../#human-resources) | 7, 8a, 8b |
+| [Human resources officer](hr-officer/) | [Human resources](../#human-resources) | 3, 4, 5, 6 |
 | [Incident manager](incident-manager/) | [IT operations](../#it-operations) | 5, 7 |
 | [Information governance officer](information-governance-officer/) | [Information governance](../#information-governance) | 4, 5, 6, 7, 8a |
 | [Infrastructure engineer](infrastructure-engineer/) | [IT operations](../#it-operations) | 4, 6, 7, 8a, 8b |
-| [Integration engineer (health interoperability)](integration-engineer-health-interoperability/) | [Software development](../#software-development) | 5, 6, 7, 8a |
+| [Integration engineer (health interoperability)](integration-engineer/) | [Software development](../#software-development) | 5, 6, 7, 8a |
 | [Interaction designer](interaction-designer/) | [User-centred design](../#user-centred-design) | 4, 5, 6, 7, 8b, 8c |
 | [IT service manager](it-service-manager/) | [IT operations](../#it-operations) | 4, 6, 7, 8b |
 | [Learning and development specialist](learning-and-development-specialist/) | [Human resources](../#human-resources) | 4, 5, 6, 7, 8a |
@@ -67,7 +67,7 @@
 | [Recruitment officer](recruitment-officer/) | [Human resources](../#human-resources) | 3, 4, 5, 6 |
 | [Security architect](security-architect/) | [Architecture](../#architecture) | 8a, 8b, 8c |
 | [Security engineer](security-engineer/) | [Cyber security](../#cyber-security) | 6, 7, 8a |
-| [Security operations analyst](security-operations-analyst/) | [Cyber security](../#cyber-security) | 5, 6, 7 |
+| [Security operations analyst](security-analyst/) | [Cyber security](../#cyber-security) | 5, 6, 7 |
 | [Service designer](service-designer/) | [User-centred design](../#user-centred-design) | 4, 5, 6, 7, 8b, 8c |
 | [Service desk analyst](service-desk-analyst/) | [IT operations](../#it-operations) | 3, 4, 5, 6, 7 |
 | [Service owner](service-owner/) | [Product and delivery](../#product-and-delivery) | 8b, 8c |

@@ -1,0 +1,57 @@
+summary: 'Technische Architektinnen und Architekten entwerfen die technische Struktur der digitalen Gesundheitsdienste der Organisation: die Komponenten, Plattformen, das Hosting, Integrationsmuster und nichtfunktionale Eigenschaften wie Sicherheit, Leistung und Resilienz. Sie arbeiten eng mit Entwicklerinnen, Entwicklern und DevOps-Ingenieurinnen und -Ingenieuren, geben Lieferteams technische Führung und stellen sicher, dass Dienste auf Dauer gebaut und sicher zu betreiben sind.'
+health_context:
+- Klinische Dienste brauchen oft hohe Verfügbarkeit und schnelle Wiederherstellung; technische Entwürfe müssen daher Ausfälle und eingeschränkten Betrieb einplanen.
+- Entwürfe müssen vertrauliche Gesundheitsinformationen standardmäßig durch Verschlüsselung, Zugriffskontrolle und Protokollierung schützen.
+- Dienste sind mit vielen klinischen Systemen und gemeinsamen Plattformen verbunden, oft über HL7-FHIR-APIs und Messaging; Integrationsmuster sind daher zentral für den Entwurf.
+- Technische Entwurfsentscheidungen, etwa zu Caching, Wiederholungen und Zeitbehandlung, können klinische Gefährdungen verursachen; Architektinnen und Architekten tragen daher zu Sicherheitsnachweisen bei.
+- Klinische Altsysteme und Medizinprodukte können die Wahl von Technologie, Netzwerk und Hosting einschränken.
+levels:
+- title: Associate Technische/r Architekt/in
+  responsibilities:
+  - Technische Diagramme zeichnen und die Komponenten, das Hosting und die Integrationen bestehender Dienste dokumentieren.
+  - Technologieoptionen recherchieren und ihre Vor- und Nachteile mit Anleitung zusammenfassen.
+  - Mit Entwicklerinnen und Entwicklern prüfen, dass Builds vereinbarten Entwürfen und Mustern folgen.
+  - Technische Entscheidungen festhalten und Entwurfsdokumente aktuell halten.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder einem verwandten Fach oder gleichwertige Erfahrung in Software- oder Infrastruktur-Engineering.
+  - Spezialwissen im technischen Entwurf, auf dem Niveau eines postgradualen Diploms oder gleichwertige Erfahrung.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 5): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 6. Das Wissen wird auf dem Niveau eines postgradualen Diploms bewertet, die Informationsressourcen auf Stufe 5, weil die Stelle Teile großer Informationssysteme entwirft.'
+- title: Technische/r Architekt/in
+  responsibilities:
+  - Die technische Architektur für einen Dienst entwerfen, einschließlich Komponenten, Hosting, Integration und Sicherheit.
+  - Lieferteams Entwurfsmuster bereitstellen und deren technische Entwürfe und Codestruktur prüfen.
+  - Mit Service Ownern nichtfunktionale Anforderungen wie Verfügbarkeit, Leistung und Wiederherstellungsziele definieren.
+  - Technische Schulden und nicht mehr unterstützte Technologie erkennen und planen, wie sie behoben werden.
+  - Technische Gefährdungen und Maßnahmen für den klinischen Sicherheitsnachweis erkennen.
+  qualifications:
+  - Spezialwissen in technischer Architektur, auf Masterniveau oder gleichwertige Erfahrung.
+  - Erfahrung im Entwurf oder Bau produktiver Software oder Infrastruktur.
+  job_evaluation_notes: Eingeordnet auf dem Gruppenvorschlag des UK GDaD PCF, Entgeltgruppe 7, in Übereinstimmung mit Anzeigen im Gesundheitssektor für diese Rolle. Das Wissen wird auf Masterniveau oder gleichwertig bewertet, für Spezialwissen über die Breite der technischen Architektur.
+- title: Senior-Technische/r Architekt/in
+  responsibilities:
+  - Den technischen Entwurf großer, komplexer oder risikoreicher Dienste leiten, etwa klinischer Systeme und gemeinsamer Integrationsplattformen.
+  - Die technische Richtung für ein oder mehrere Lieferteams festlegen und Entwürfe hinterfragen, die Risiko hinzufügen.
+  - Auf Resilienz, Notfallwiederherstellung und sicheren Betrieb hin entwerfen und prüfen, dass Teams es testen.
+  - Service Ownern, klinischen Leitungen und leitenden Interessengruppen technische Risiken und Zielkonflikte in einfacher Sprache erklären.
+  - Technische Architektinnen, Architekten und Senior-Entwicklerinnen und -Entwickler anleiten und coachen.
+  qualifications:
+  - Umfangreiche Erfahrung im technischen Entwurf komplexer Dienste, auf einem Niveau, das einem Masterabschluss entspricht.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 7): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 8a. Planung, Richtlinien und Handlungsfreiheit werden über dem Profil der Entgeltgruppe 7 bewertet, weil die Stelle die technische Richtung für mehrere Teams mit wenig Aufsicht festlegt.'
+- title: Leitende/r Technische/r Architekt/in
+  responsibilities:
+  - Die technische Architektur über mehrere Dienste oder Teams leiten und gemeinsame Muster und Standards festlegen.
+  - Die technische Qualität von Entwürfen in Design-Gremien absichern, einschließlich Sicherheit, Resilienz und Interoperabilität.
+  - Die Technologie-Roadmap der Organisation mit Unternehmensarchitektinnen, -architekten und Engineering-Leitungen mitgestalten.
+  - Die Führungsebene zu Technologieentscheidungen, Plattforminvestitionen und technischem Risiko beraten.
+  - Technische Architektinnen und Architekten führen und entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung der technischen Architektur für komplexe Dienste.
+- title: Principal-Technische/r Architekt/in
+  responsibilities:
+  - Strategie, Prinzipien und Standards der technischen Architektur der Organisation festlegen.
+  - Das technische Design in der Organisation steuern, einschließlich des technischen Design-Gremiums.
+  - Die Geschäftsleitung zu wichtigen Technologieentscheidungen wie Hosting-Strategie und Plattformkonsolidierung beraten.
+  - Die Organisation in organisationsübergreifenden technischen und Standardisierungs-Communities vertreten.
+  - Architektinnen und Architekten in der Organisation inspirieren und entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung der technischen Architektur über mehrere Teams oder Organisationen hinweg.

@@ -1,0 +1,55 @@
+summary: Medarbejdere i journalstyring sikrer, at patientjournaler og administrative journaler oprettes, opbevares, spores, genfindes og kasseres korrekt, uanset om de er på papir eller i digitale systemer. De holder journaler tilgængelige til pleje, beskytter dem mod tab og uautoriseret adgang og understøtter overgangen fra papirjournaler til digitale journaler.
+health_context:
+- Patientjournaler skal være tilgængelige, når klinikere har brug for dem, så forsinkelser eller tabte journaler direkte kan påvirke plejen.
+- Journaler indeholder yderst fortrolige oplysninger, så medarbejderne følger strenge regler for fortrolighed og adgang og kan regelmæssigt læse belastende indhold.
+- De fleste organisationer har både papirjournaler og digitale journaler, så rollen omfatter scanning, indeksering og styring af hybride journaler.
+- Journaler skal opbevares i bestemte perioder efter opbevaringsplaner og derefter arkiveres eller destrueres sikkert med et revisionsspor.
+- Journalteams behandler ofte anmodninger om indsigt i patientjournaler, som har lovbestemte frister.
+levels:
+- title: Journalassistent
+  summary: Arkiverer, genfinder, sporer, scanner og forbereder journaler efter fastlagte procedurer med supervision i nærheden.
+  responsibilities:
+  - Arkivere, genfinde og spore papirjournaler og forberede dem til klinikker og anmodninger.
+  - Scanne og indeksere journaler i det elektroniske journalsystem og kontrollere kvaliteten.
+  - Indtaste og opdatere journaloplysninger nøjagtigt i sporingssystemer.
+  - Holde journaler sikre og indberette tabte journaler eller brud med det samme.
+  - Flytte og opbevare journaler sikkert, herunder kasser og vogne med patientjournaler.
+  qualifications:
+  - Gode læse-, skrive-, regne- og tastaturfærdigheder.
+  job_evaluation_notes: Fysiske færdigheder scores på niveau 3 for hurtig, nøjagtig scanning og dataindtastning. Fysisk anstrengelse afspejler hyppig flytning af journaler.
+- title: Journalmedarbejder
+  summary: Håndterer en række journalprocesser, hvoraf nogle ligger uden for rutinen, såsom at opspore manglende journaler, forberede journaler til anmodninger om indsigt og anvende opbevaringsplaner.
+  responsibilities:
+  - Opspore manglende journaler og løse sporingsproblemer.
+  - Forberede journaler til anmodninger om indsigt og kontrollere, at de er fuldstændige før gennemgang.
+  - Anvende opbevaringsplaner og forberede journaler til arkivering eller sikker destruktion.
+  - Kontrollere scannede journaler for kvalitet og rette indekseringsfejl.
+  - Besvare henvendelser fra klinikere, plejepersonale og patienter om journaler.
+  - Vise nye journalassistenter, hvordan procedurer følges.
+  qualifications:
+  - Erfaring med journalarbejde eller administrativt arbejde eller en uddannelse på niveau 3 i erhvervsadministration eller tilsvarende erfaring.
+  job_evaluation_notes: Følelsesmæssig belastning afspejler hyppig indirekte udsættelse for belastende indhold i patientjournaler.
+- title: Senior journalmedarbejder
+  summary: Fører tilsyn med et journalteam til daglig og driver journalprocesser såsom anmodninger om indsigt, audits og gennemgange af opbevaring.
+  responsibilities:
+  - Føre dagligt tilsyn med journalmedarbejdere, fordele arbejdet og kontrollere kvaliteten.
+  - Behandle anmodninger om indsigt i patientjournaler inden for de lovbestemte frister under vejledning fra kolleger inden for informationsstyring.
+  - Gennemføre audits af journalføring og sporing og rapportere resultaterne.
+  - Holde journalsporing og elektroniske journalsystemer korrekte og ajour.
+  - Oplære medarbejdere i journalprocedurer og fortrolighed.
+  - Undersøge tabte journaler og andre hændelser og anbefale forbedringer.
+  qualifications:
+  - Betydelig erfaring med arbejde med patientjournaler eller en relevant uddannelse på niveau med en erhvervsakademiuddannelse eller tilsvarende erfaring.
+- title: Chef for journalstyring
+  summary: Styrer journalservicen, dens medarbejdere, systemer og procedurer og leder forbedringer, herunder overgangen fra papirjournaler til digitale journaler.
+  responsibilities:
+  - Styre journalservicen, dens medarbejdere og dens præstation.
+  - Skrive og vedligeholde journalprocedurer i overensstemmelse med politik og standarder for journalstyring.
+  - Styre journalsporing og elektroniske journalsystemer for flere services.
+  - Lede scannings- og digitaliseringsprojekter og overgangen til digitale journaler.
+  - Drive programmet for opbevaring og kassation og journalaudits.
+  - Rådgive klinikere, ledere og kolleger inden for informationsstyring om journalstyring.
+  qualifications:
+  - En bacheloruddannelse eller faglig uddannelse i journal- eller informationsstyring eller tilsvarende erfaring.
+  - Erfaring med at føre tilsyn med et journalteam.
+  job_evaluation_notes: Informationsressourcer scores på niveau 5, fordi det er hovedopgaven at drive journalsystemer for flere services.

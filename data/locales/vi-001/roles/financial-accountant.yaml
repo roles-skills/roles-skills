@@ -1,0 +1,66 @@
+summary: Kế toán tài chính bảo đảm các tài khoản của tổ chức đầy đủ, chính xác và tuân theo các chuẩn mực kế toán và quy tắc báo cáo của khu vực công. Họ quản lý bảng cân đối kế toán, lập báo cáo tài chính năm và các báo cáo theo luật định, quản lý tiền mặt và ngân quỹ, hạch toán tài sản và làm việc với kiểm toán viên. Trong một tổ chức chăm sóc sức khỏe số, phần lớn sự phức tạp đến từ việc hạch toán phần mềm, tài sản dữ liệu, các thỏa thuận đám mây và các hợp đồng công nghệ nhiều năm.
+health_context:
+- Hạch toán chi tiêu số cần có phán đoán, ví dụ liệu việc phát triển phần mềm, cấu hình dịch vụ đám mây hoặc giấy phép có thể được coi là tài sản vốn hay không.
+- Tổ chức phải giải trình về tiền công với các bên tài trợ và cơ quan giám sát, thường theo các giới hạn chặt chẽ về vốn và tiền mặt.
+- Các hợp đồng giấy phép và hỗ trợ nhiều năm tạo ra chi phí trả trước, các khoản cam kết và đôi khi cả hợp đồng thuê phải được hạch toán đúng.
+- Tài sản vô hình, như phần mềm do tổ chức xây dựng, cần được định giá, khấu hao và rà soát tổn thất khi sản phẩm thay đổi.
+- Kiểm toán độc lập đối với các cơ quan công rất kỹ lưỡng và công khai, nên bằng chứng và giấy tờ làm việc phải đạt tiêu chuẩn cao.
+levels:
+- title: Kế toán tài chính tập sự
+  summary: Kế toán tài chính tập sự lập bảng đối chiếu bảng cân đối kế toán, bút toán nhật ký và giấy tờ làm việc cho báo cáo tài chính trong khi hướng tới bằng cấp kế toán được công nhận.
+  responsibilities:
+  - Lập bảng đối chiếu bảng cân đối kế toán và xóa các khoản đối chiếu.
+  - Ghi các bút toán nhật ký cuối tháng và cuối năm, như chi phí trích trước, chi phí trả trước và khấu hao.
+  - Duy trì sổ đăng ký tài sản cố định, kể cả tài sản phần mềm và phần cứng.
+  - Lập giấy tờ làm việc và bằng chứng cho báo cáo tài chính năm và kiểm toán.
+  - Lập thông tin dòng tiền và bảng đối chiếu ngân hàng.
+  - Hướng tới bằng cấp kế toán được công nhận.
+  qualifications:
+  - Có bằng đại học hoặc bằng cấp kế toán trung cấp, và đang hướng tới bằng cấp kế toán được công nhận, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Kiến thức được chấm ở mức mà công việc đòi hỏi sau khi việc đào tạo đã đủ tiến triển để làm được công việc.
+- title: Kế toán tài chính
+  summary: Kế toán tài chính là các kế toán viên có bằng cấp, quản lý bảng cân đối kế toán và lập các phần của báo cáo tài chính năm, các báo cáo theo luật định và tờ khai thuế.
+  responsibilities:
+  - Quản lý việc khóa sổ cuối tháng và cuối năm đối với bảng cân đối kế toán.
+  - Lập các phần của báo cáo tài chính năm và thuyết minh kèm theo.
+  - Hạch toán chi tiêu vốn, kể cả quyết định những chi phí số nào có thể được vốn hóa.
+  - Lập tờ khai thuế bán hàng và tư vấn về cách xử lý thuế của các hợp đồng.
+  - Trả lời câu hỏi của kiểm toán viên và thống nhất các hành động đối với các phát hiện của họ.
+  - Giám sát và phát triển các kế toán tập sự.
+  qualifications:
+  - Có bằng cấp kế toán được công nhận, hoặc kinh nghiệm tương đương.
+- title: Kế toán tài chính cao cấp
+  summary: Kế toán tài chính cao cấp dẫn dắt quy trình báo cáo tài chính năm và việc hạch toán cho các lĩnh vực phức tạp, như tài sản vô hình, thuê tài sản và các thỏa thuận đám mây.
+  responsibilities:
+  - Lập kế hoạch và dẫn dắt tiến độ báo cáo tài chính năm và cuộc kiểm toán độc lập.
+  - Viết các bài báo cáo kế toán về các phán đoán phức tạp, như vốn hóa chi phí phát triển phần mềm hoặc cấu hình đám mây.
+  - Quản lý kế toán vốn, gồm thời gian sử dụng tài sản, khấu hao và tổn thất của tài sản phần mềm.
+  - Quản lý dự báo tiền mặt và việc rút nguồn tài trợ trong giới hạn tiền mặt.
+  - Lập các báo cáo theo luật định và cho bên tài trợ, như hợp nhất và báo cáo vốn.
+  - Quản lý và phát triển một nhóm nhỏ các kế toán tài chính.
+  qualifications:
+  - Có bằng cấp kế toán được công nhận, kèm kinh nghiệm dày dặn sau khi có bằng cấp, hoặc tương đương.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 4 vì công việc quản lý vị thế tiền mặt và kế toán vốn của tổ chức.
+- title: Quản lý kế toán tài chính
+  summary: Quản lý kế toán tài chính vận hành kế toán tài chính, ngân quỹ và thuế cho tổ chức, và bảo đảm các kiểm soát và hành động kiểm toán được thực hiện.
+  responsibilities:
+  - Quản lý các chức năng kế toán tài chính, ngân quỹ và thuế.
+  - Làm chủ các chính sách kế toán của tổ chức và việc áp dụng chúng cho các loại chi tiêu mới, như dịch vụ đám mây và dữ liệu.
+  - Quản lý tài khoản ngân hàng, các thỏa thuận ngân hàng và dự báo dòng tiền.
+  - Quản lý việc tuân thủ thuế và rủi ro thuế, kể cả đối với các hợp đồng công nghệ và dịch vụ dùng chung.
+  - Dẫn dắt việc ứng phó với các phát hiện kiểm toán nội bộ và độc lập về kế toán tài chính và kiểm soát.
+  - Quản lý trực tiếp các kế toán tài chính và nhân viên ngân quỹ.
+  qualifications:
+  - Có bằng cấp kế toán được công nhận, kèm kinh nghiệm sâu rộng sau khi có bằng cấp.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 5 vì công việc quản lý hoạt động ngân hàng, tiền mặt và tài sản của tổ chức trên mọi dịch vụ.
+- title: Trưởng bộ phận kế toán tài chính
+  summary: Trưởng bộ phận kế toán tài chính dẫn dắt báo cáo theo luật định, kiểm soát tài chính, ngân quỹ và thuế của tổ chức, và là đầu mối liên hệ chính với kiểm toán viên độc lập.
+  responsibilities:
+  - Dẫn dắt việc lập báo cáo thường niên và báo cáo tài chính, và trình bày với ủy ban kiểm toán.
+  - Tư vấn cho các giám đốc và ủy ban kiểm toán về các phán đoán kế toán quan trọng và các chuẩn mực mới.
+  - Làm chủ các quy tắc tài chính, quy trình tài chính và cơ chế ủy quyền.
+  - Dẫn dắt quan hệ với kiểm toán viên độc lập và cơ quan giám sát về báo cáo tài chính.
+  - Đề ra chính sách ngân quỹ và thuế, và quản lý các rủi ro tài chính.
+  - Dẫn dắt và phát triển các nhóm kế toán tài chính, ngân quỹ và giao dịch.
+  qualifications:
+  - Có bằng cấp kế toán được công nhận, kèm kinh nghiệm sâu rộng sau khi có bằng cấp, gồm dẫn dắt báo cáo theo luật định.

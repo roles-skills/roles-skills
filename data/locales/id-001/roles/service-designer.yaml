@@ -1,0 +1,62 @@
+summary: >
+  Desainer layanan merancang layanan kesehatan dan perawatan dari ujung ke ujung, dari saat seseorang pertama kali membutuhkan bantuan hingga akhir perawatannya, melintasi saluran digital, telepon, kertas, dan tatap muka. Mereka bekerja dengan pasien, pendamping, tenaga klinis, dan tenaga perawatan untuk memetakan bagaimana layanan benar-benar bekerja, menemukan di mana layanan gagal melayani orang, dan merancang layanan yang aman, sederhana, dan adil, serta berfungsi melintasi batas organisasi.
+health_context:
+  - Jalur perawatan melintasi banyak organisasi dan profesi, sehingga desainer layanan memetakan seluruh perjalanan, termasuk serah terima, penantian, dan pekerjaan yang dilakukan pasien dan pendamping untuk menjaga perawatan tetap menyatu.
+  - Perubahan cara layanan bekerja dapat menimbulkan risiko klinis baru, sehingga desainer layanan bekerja dengan petugas keselamatan klinis untuk mengidentifikasi bahaya pada model layanan baru sebelum diluncurkan.
+  - Layanan digital tidak boleh menutup pintu bagi orang yang tidak bisa atau tidak mau memakainya, sehingga desainer layanan merancang jalur berbantuan dan nondigital di samping jalur digital.
+  - Staf klinis dan operasional adalah bagian dari layanan, sehingga desain harus sesuai dengan alur kerja, beban kerja, dan tanggung jawab profesional mereka, bukan hanya perjalanan pasien.
+levels:
+  - title: Desainer layanan asosiat
+    responsibilities:
+      - Mempelajari metode desain layanan melalui pelatihan dan bekerja bersama desainer yang berpengalaman.
+      - Membantu memetakan perjalanan pengguna dan cetak biru layanan dari riset dengan pasien dan staf.
+      - Membantu menyiapkan dan menjalankan lokakarya desain bersama, mengikuti prosedur persetujuan dan tata kelola informasi.
+      - Mendokumentasikan keputusan desain dan menjaga artefak desain tetap mutakhir.
+    qualifications:
+      - Sedang menempuh kualifikasi atau magang di bidang desain atau bidang terkait, atau pengalaman yang setara.
+  - title: Desainer layanan junior
+    responsibilities:
+      - Memetakan perjalanan dan cetak biru layanan saat ini untuk bagian jalur perawatan, seperti pemesanan atau tindak lanjut.
+      - Merancang dan menguji perbaikan pada bagian layanan, dengan arahan desainer yang lebih senior.
+      - Menjalankan sesi desain bersama dengan pasien, pendamping, dan staf, menyesuaikannya agar semua orang dapat ikut serta.
+      - Mengidentifikasi di mana layanan menimbulkan pekerjaan atau risiko tambahan bagi pasien atau staf, dan menyampaikannya kepada tim.
+    qualifications:
+      - Gelar di bidang desain atau bidang terkait, atau pengalaman yang setara.
+  - title: Desainer layanan
+    responsibilities:
+      - Merancang layanan ujung ke ujung lintas saluran, termasuk jalur berbantuan dan nondigital bagi orang yang membutuhkannya.
+      - Memetakan jalur perawatan lintas organisasi dan merancang serah terima yang lebih baik antartim dan layanan.
+      - Merancang bagaimana layanan bekerja bagi staf, termasuk peran, beban kerja, dan alur kerja, bersama pimpinan operasional.
+      - Bekerja dengan petugas keselamatan klinis untuk mengidentifikasi bahaya pada model layanan baru dan merancang pengendalian.
+      - Membuat prototipe dan menguji perubahan layanan dengan pasien, pendamping, dan staf.
+    qualifications:
+      - Gelar di bidang desain atau bidang terkait, atau pengalaman yang setara.
+      - Pengalaman merancang layanan bersama pengguna.
+  - title: Desainer layanan senior
+    responsibilities:
+      - Memimpin desain layanan kompleks yang mencakup beberapa lingkungan perawatan atau organisasi.
+      - Membentuk visi layanan bersama pimpinan klinis, operasional, dan digital.
+      - Merancang model layanan baru yang meningkatkan keselamatan, akses, dan kesetaraan, dan mengujinya dengan pengguna nyata.
+      - Memastikan perubahan layanan dinilai dampak risiko klinis, kesetaraan, dan tata kelola informasinya.
+      - Membimbing desainer dan menanamkan praktik desain layanan di tim.
+    qualifications:
+      - Pengalaman yang substansial dalam desain layanan, pada tingkat yang setara dengan gelar magister.
+  - title: Desainer layanan pimpinan
+    responsibilities:
+      - Menetapkan arah desain untuk beberapa layanan atau seluruh jalur perawatan, dan menjamin mutu desain lintas tim.
+      - Bekerja dengan pimpinan klinis dan operasional senior untuk merancang ulang bagaimana perawatan diorganisasikan dan disampaikan.
+      - Memastikan desain berfungsi bagi orang yang paling terdampak ketimpangan kesehatan dan bagi staf yang berada di bawah tekanan.
+      - Menetapkan standar tentang bagaimana tim merancang untuk keselamatan klinis dan untuk jalur berbantuan.
+      - Mengelola secara langsung dan mengembangkan desainer layanan.
+    qualifications:
+      - Pengalaman luas dalam memimpin desain layanan lintas tim.
+    job_evaluation_notes: Tidak ada tingkat Pita 8a, karena UK GDaD PCF menempatkan desainer layanan pimpinan di G7 atau G6 dan acuan ini mengikuti Pita 8b yang disarankan. Kebijakan berada di tingkat 5 karena desainer pimpinan membentuk cara kerja berbagai layanan di sebuah direktorat.
+  - title: Kepala desain layanan
+    responsibilities:
+      - Memimpin profesi desain layanan dan menetapkan strategi, standar, dan cara kerjanya.
+      - Memengaruhi strategi organisasi agar layanan dirancang di sekitar kebutuhan pasien, pendamping, dan tenaga perawatan.
+      - Membangun kapabilitas desain layanan, termasuk rekrutmen, jalur karier, dan pelatihan.
+      - Menciptakan kondisi untuk desain yang baik, seperti akses ke pengguna, waktu untuk riset, dan desain dalam tata kelola.
+      - Bekerja dengan sejawat di seluruh sistem kesehatan dan perawatan untuk merancang layanan yang terpadu.
+    qualifications:
+      - Pengalaman luas dalam memimpin desain dan praktik desain.

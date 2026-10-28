@@ -1,0 +1,159 @@
+# Job evaluation factors in Dutch. Keys are the English factor ids. Points
+# stay as in the English file.
+communication:
+  name: Communicatie- en relatievaardigheden
+  description: Vaardigheden die nodig zijn om te communiceren met collega’s, patiënten, het publiek en partners en om relaties met hen op te bouwen. Houdt rekening met hoe complex, gevoelig of omstreden de informatie is en met eventuele belemmeringen voor begrip of aanvaarding.
+  levels:
+    "1": Geeft en ontvangt routine-informatie mondeling, vooral met collega’s.
+    "2": Geeft en ontvangt routine-informatie mondeling, schriftelijk of elektronisch, met collega’s en anderen.
+    "3": Geeft routine-informatie die tact of overtuigingskracht vraagt, of complexe of gevoelige informatie, of eenvoudige training aan groepen.
+    "4": Geeft complexe, gevoelige of omstreden informatie die overtuigings-, onderhandelings- of trainingsvaardigheden vraagt, of zeer complexe informatie.
+    "5": Geeft zeer complexe of omstreden informatie die ontwikkelde overtuigings- en onderhandelingsvaardigheden vraagt, presenteert voor grote groepen, of communiceert waar aanzienlijke belemmeringen voor aanvaarding bestaan.
+    "6": Geeft zeer complexe, zeer omstreden informatie waar aanzienlijke belemmeringen voor aanvaarding bestaan, met communicatievaardigheden van het hoogste niveau.
+knowledge:
+  name: Kennis, opleiding en ervaring
+  description: De kennis en ervaring die nodig zijn om het werk te doen, uit welke bron ook, inclusief formele opleiding, kwalificaties en ervaring.
+  levels:
+    "1": Enkele routineprocedures, geleerd op de werkplek in een korte inwerkperiode.
+    "2": Een reeks routineprocedures, geleerd door training op de werkplek en inwerken.
+    "3": Een reeks procedures, waarvan sommige geen routine zijn, die theorie op basisniveau vragen (bijvoorbeeld een kwalificatie op niveau 3 of gelijkwaardige ervaring).
+    "4": Een reeks procedures, meestal geen routine, die theorie op tussenniveau vragen (bijvoorbeeld een associate degree of gelijkwaardige ervaring).
+    "5": Deskundigheid in een specialisme, ondersteund door theorie of praktijkervaring (bachelorniveau of gelijkwaardig).
+    "6": Specialistische kennis over de volle breedte van het specialisme (postdoctoraal diploma of gelijkwaardig).
+    "7": Sterk ontwikkelde specialistische kennis over de volle breedte van het specialisme (masterniveau of gelijkwaardig).
+    "8": Gevorderde kennis (doctoraat plus verdere opleiding of gelijkwaardig), of specialistische kennis over meer dan één discipline, opgebouwd over een lange periode.
+analytical:
+  name: Analytische en oordeelsvaardigheden
+  description: De analyse en het oordeel die nodig zijn om informatie te verwerken, problemen op te lossen en beslissingen te nemen.
+  levels:
+    "1": Oordelen over eenvoudige feiten of situaties.
+    "2": Oordelen over feiten of situaties, waarvan sommige analyse vragen.
+    "3": Oordelen over een reeks feiten of situaties die analyse of vergelijking van opties vragen.
+    "4": Oordelen over complexe feiten of situaties die analyse, interpretatie en vergelijking van opties vragen.
+    "5": Oordelen over zeer complexe feiten of situaties die analyse, interpretatie en vergelijking van opties vragen.
+planning:
+  name: Plannings- en organisatievaardigheden
+  description: De planning en organisatie die nodig zijn om activiteiten, programma’s, diensten of strategieën te runnen.
+  levels:
+    "1": Organiseert het eigen dagelijkse werk.
+    "2": Plant eenvoudige taken of activiteiten, waarvan sommige doorlopend.
+    "3": Plant meerdere complexe activiteiten en past plannen waar nodig aan.
+    "4": Plant een brede reeks complexe activiteiten of strategieën en past ze waar nodig aan.
+    "5": Stelt strategische plannen op lange termijn op, met onzekerheid en effecten voor de hele organisatie.
+physical-skills:
+  name: Lichamelijke vaardigheden
+  description: De lichamelijke vaardigheden die nodig zijn, zoals handigheid, coördinatie, toetsenbordvaardigheid en autorijden.
+  levels:
+    "1": Weinig behoefte aan lichamelijke vaardigheden.
+    "2": Vaardigheden verworven door oefening, zoals standaard toetsenbordgebruik of autorijden.
+    "3": Ontwikkelde vaardigheden die snelheid of nauwkeurigheid vragen, zoals gevorderd toetsenbordgebruik.
+    "4": Sterk ontwikkelde vaardigheden die precisie of snelheid en een hoge hand-oogcoördinatie vragen.
+    "5": Het hoogste niveau van precisie, snelheid en coördinatie.
+patient-care:
+  name: Verantwoordelijkheid voor de zorg voor patiënten en cliënten
+  description: Verantwoordelijkheid voor het beoordelen, behandelen of verzorgen van patiënten en cliënten of het adviseren van hen. Voor de meeste digitale en bedrijfsrollen gaat het hier slechts om incidenteel contact.
+  levels:
+    "1": Helpt patiënten, cliënten of familieleden bij incidenteel contact.
+    "2": Geeft rechtstreeks aan patiënten of het publiek algemeen niet-klinisch advies, informatie of diensten.
+    "3": Geeft persoonlijke verzorging, basale klinisch-technische diensten of basaal klinisch advies.
+    "4": Voert klinische zorg uit, levert klinisch-technische diensten of adviseert over de zorg voor patiënten.
+    "5": Ontwikkelt zorgprogramma’s, levert gespecialiseerde klinisch-technische diensten of geeft gespecialiseerd advies over patiëntenzorg.
+    "6": Ontwikkelt gespecialiseerde zorg, geeft hooggespecialiseerd advies of is verantwoordelijk voor een deel van een klinische dienst.
+    "7": Verantwoordelijk voor het leveren van een klinische dienst of zorgdienst.
+    "8": Verantwoordelijkheid op het niveau van de organisatie voor klinische diensten of zorgdiensten.
+policy:
+  name: Verantwoordelijkheid voor beleid en dienstontwikkeling
+  description: Verantwoordelijkheid voor het ontwikkelen en uitvoeren van beleid en diensten en hoe ver de effecten reiken.
+  levels:
+    "1": Volgt beleid dat door anderen is vastgesteld; kan opmerkingen maken over wijzigingen.
+    "2": Voert beleid uit voor het eigen gebied en stelt wijzigingen in de werkwijze ervan voor.
+    "3": Voert beleid uit voor het eigen gebied en stelt wijzigingen voor die andere gebieden raken.
+    "4": Voert beleid uit en ontwikkelt beleid of diensten voor een dienst of meerdere gebieden.
+    "5": Voert een reeks beleidsterreinen of diensten uit en ontwikkelt ze voor een directoraat.
+    "6": Verantwoordelijkheid op het niveau van de organisatie voor grote beleids- of dienstontwikkeling binnen of buiten de organisatie.
+financial-resources:
+  name: Verantwoordelijkheid voor financiële en materiële middelen
+  description: Verantwoordelijkheid voor geld, budgetten, apparatuur, voorraden, gebouwen en andere bezittingen.
+  levels:
+    "1": Draagt persoonlijk zorg voor apparatuur en middelen die in het eigen werk worden gebruikt.
+    "2": Behandelt contant geld of kostbaarheden, beheert apparatuur die anderen gebruiken, beheert voorraad of autoriseert kleine betalingen.
+    "3": Autoriseert betalingen, koopt enkele bezittingen of benodigdheden, bewaakt of beheert een gedelegeerd budget, of onderhoudt bezittingen.
+    "4": Beheert of stelt het budget vast voor een afdeling of dienst, of koopt of onderhoudt de bezittingen ervan.
+    "5": Beheert of stelt budgetten vast, of beheert bezittingen, voor meerdere diensten.
+    "6": Verantwoordelijkheid op het niveau van de organisatie voor de financiën of bezittingen van de organisatie.
+people:
+  name: Verantwoordelijkheid voor mensen
+  description: Verantwoordelijkheid voor het leiden, begeleiden, trainen of ontwikkelen van personeel, of voor het leveren van HR-diensten.
+  levels:
+    "1": Laat nieuwe of minder ervaren collega’s de eigen werkroutines zien.
+    "2": Houdt dagelijks toezicht op personeel of coördineert het, traint anderen regelmatig of geeft basaal HR-advies.
+    "3": Leidt dagelijks een groep personeel, geeft kerntraining of gespecialiseerde training, of geeft HR-advies op kerngebieden.
+    "4": Geeft hiërarchisch leiding aan een functie of afdeling, ontwerpt als hoofdtaak trainingsprogramma’s, of levert het volledige scala aan HR-diensten.
+    "5": Geeft hiërarchisch leiding aan meerdere afdelingen, of leidt de training of een groot deel van HR voor de hele organisatie.
+    "6": Verantwoordelijkheid op het niveau van de organisatie voor de mensen of de HR-functie van de organisatie.
+information-resources:
+  name: Verantwoordelijkheid voor informatiebronnen
+  description: Verantwoordelijkheid voor informatie en informatiesystemen, op papier of digitaal, inclusief dossiers, data en de systemen die ze bevatten.
+  levels:
+    "1": Legt informatie vast die de functiehouder zelf voortbrengt.
+    "2": Voert data in of slaat data op die door anderen zijn samengesteld, of schrijft af en toe rapporten of query’s.
+    "3": Maakt formele notulen, schrijft regelmatig rapporten of query’s, of onderhoudt informatiesystemen als belangrijke taak.
+    "4": Past informatiesystemen aan of ontwerpt ze volgens specificaties van anderen, of beheert als hoofdtaak informatiesystemen voor een afdeling.
+    "5": Ontwerpt en ontwikkelt grote informatiesystemen, of beheert als hoofdtaak informatiesystemen voor meerdere diensten.
+    "6": Beheert en ontwikkelt als hoofdtaak informatiesystemen in de hele organisatie.
+    "7": Verantwoordelijkheid op het niveau van de organisatie voor de informatiesystemen van de organisatie.
+research:
+  name: Verantwoordelijkheid voor onderzoek en ontwikkeling
+  description: Verantwoordelijkheid voor formeel onderzoek, ontwikkeling, evaluatie, audits, testen en proeven.
+  levels:
+    "1": Voert enquêtes of audits uit voor het eigen werk; neemt af en toe deel aan onderzoek of testen.
+    "2": Doet als onderdeel van de functie regelmatig onderzoek, ontwikkeling, proeven of testen van apparatuur en systemen.
+    "3": Voert als hoofdtaak onderzoek of ontwikkeling uit binnen formele programma’s.
+    "4": Coördineert en voert onderzoeks- en ontwikkelingsprogramma’s uit.
+    "5": Initieert en ontwikkelt onderzoeks- en ontwikkelingsprogramma’s die de doelstellingen van de organisatie ondersteunen.
+    "6": Initieert en ontwikkelt onderzoeks- en ontwikkelingsprogramma’s met effecten buiten de organisatie.
+freedom-to-act:
+  name: Handelingsvrijheid
+  description: In hoeverre de functiehouder bepaalt wat te doen en hoe, en hoe nauw toezicht wordt gehouden op het werk.
+  levels:
+    "1": Werkt binnen vaste procedures, met toezicht dichtbij.
+    "2": Volgt standaardprocedures en precedent; meestal is iemand beschikbaar om te raadplegen; het werk kan worden gecontroleerd.
+    "3": Volgt omschreven beleid en procedures; het werk wordt aangestuurd en niet onder toezicht uitgevoerd.
+    "4": Resultaten zijn omschreven, maar de functiehouder bepaalt hoe ze worden bereikt, binnen breed beleid.
+    "5": Werkt binnen algemeen beleid en bepaalt in de meeste gevallen hoe het wordt geïnterpreteerd.
+    "6": Vertaalt het algemene beleid en de strategie in doelen en normen.
+physical-effort:
+  name: Lichamelijke inspanning
+  description: De lichamelijke inspanning die nodig is, naar frequentie, duur en intensiteit.
+  levels:
+    "1": Zitten, staan en lopen, met weinig lichamelijke inspanning.
+    "2": Regelmatig zitten of staan in een beperkte houding, of af en toe lichte tot matige inspanning.
+    "3": Regelmatig lichte inspanning gedurende lange perioden, of regelmatig matige inspanning gedurende korte perioden.
+    "4": Voortdurend lichte inspanning, regelmatig matige inspanning gedurende lange perioden, of af en toe intense inspanning.
+    "5": Voortdurend matige inspanning, of regelmatig intense inspanning.
+mental-effort:
+  name: Geestelijke inspanning
+  description: De concentratie die nodig is, naar frequentie, duur en hoe voorspelbaar het werk is.
+  levels:
+    "1": Algemene aandacht; af en toe concentratie op voorspelbaar werk.
+    "2": Regelmatig concentratie op voorspelbaar werk, of af en toe concentratie op onvoorspelbaar werk.
+    "3": Regelmatig concentratie op onvoorspelbaar werk, of af en toe langdurige concentratie.
+    "4": Regelmatig langdurige concentratie, of af en toe intense concentratie.
+    "5": Regelmatig intense concentratie.
+emotional-effort:
+  name: Emotionele inspanning
+  description: De emotionele eisen van het werk door directe of indirecte blootstelling aan schokkende omstandigheden, zoals het lezen van schokkende dossiers of het afhandelen van ernstige incidenten.
+  levels:
+    "1": Zeldzame blootstelling, of af en toe indirecte blootstelling, aan schokkende omstandigheden.
+    "2": Af en toe blootstelling, of regelmatig indirecte blootstelling, aan schokkende omstandigheden.
+    "3": Regelmatig blootstelling aan schokkende omstandigheden, of af en toe aan zeer schokkende omstandigheden.
+    "4": Af en toe blootstelling aan traumatische omstandigheden, of regelmatig aan zeer schokkende omstandigheden.
+working-conditions:
+  name: Werkomstandigheden
+  description: Blootstelling aan onaangename omstandigheden of gevaren. Bijna continu beeldschermgebruik op de meeste dagen telt op niveau 2.
+  levels:
+    "1": Zeldzame blootstelling aan onaangename omstandigheden.
+    "2": Af en toe onaangename omstandigheden, regelmatig reizen of buitenwerk, of bijna continu beeldschermgebruik op de meeste dagen.
+    "3": Regelmatig onaangename omstandigheden, of af en toe zeer onaangename omstandigheden.
+    "4": Enige blootstelling aan gevaren, of regelmatig zeer onaangename omstandigheden.
+    "5": Aanzienlijke blootstelling aan gevaren.

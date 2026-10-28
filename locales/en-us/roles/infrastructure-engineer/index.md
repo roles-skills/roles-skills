@@ -83,8 +83,8 @@ Infrastructure engineers design, build, run, and support the networks, servers, 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -131,7 +131,7 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Working | You can:<br>• own an issue until a new owner has been found or the problem has been mitigated or resolved |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Awareness | You can:<br>• investigate problems in systems, processes and services, with an understanding of the level of a problem, for example, strategic, tactical or operational<br>• contribute to the implementation of remedies and preventative measures |
 | [Service focus](../../skills/#service-focus) | UK GDaD PCF | Working | You can:<br>• take inputs and establish coherent frameworks that work |
-| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Working | You can:<br>• translate logical designs into physical designs<br>• produce detailed designs<br>• effectively document all work using required standards, methods and tools, including prototyping tools where appropriate<br>• design systems characterized by managed levels of risk, manageable business and technical complexity, and meaningful impact<br>• work with well understood technology and identify appropriate patterns |
+| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Working | You can:<br>• translate logical designs into physical designs<br>• produce detailed designs<br>• effectively document all work using required standards, methods and tools, including prototyping tools where appropriate<br>• design systems characterised by managed levels of risk, manageable business and technical complexity, and meaningful impact<br>• work with well understood technology and identify appropriate patterns |
 | [Systems integration](../../skills/#systems-integration) | UK GDaD PCF | Working | You can:<br>• build and test simple interfaces between systems<br>• work on more complex integration as part of a wider team |
 | [Technical understanding](../../skills/#technical-understanding) | UK GDaD PCF | Working | You can:<br>• understand the core technical concepts related to the role, and apply them with guidance |
 | [Testing](../../skills/#testing) | UK GDaD PCF | Awareness | You can:<br>• correctly execute test scripts under supervision<br>• understand the role of testing and how it works |
@@ -161,8 +161,8 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -212,17 +212,17 @@ Mental effort reflects frequent prolonged concentration on unpredictable faults,
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Working | You can:<br>• own an issue until a new owner has been found or the problem has been mitigated or resolved |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Working | You can:<br>• initiate and monitor actions to investigate patterns and trends to resolve problems<br>• effectively consult specialists where required<br>• determine the appropriate resolution and assist with its implementation<br>• determine preventative measures |
 | [Service focus](../../skills/#service-focus) | UK GDaD PCF | Working | You can:<br>• take inputs and establish coherent frameworks that work |
-| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Practitioner | You can:<br>• design systems characterized by medium levels of risk, impact, and business or technical complexity<br>• select appropriate design standards, methods and tools, and ensure they are applied effectively<br>• review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology |
+| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Practitioner | You can:<br>• design systems characterised by medium levels of risk, impact, and business or technical complexity<br>• select appropriate design standards, methods and tools, and ensure they are applied effectively<br>• review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology |
 | [Systems integration](../../skills/#systems-integration) | UK GDaD PCF | Practitioner | You can:<br>• define the integration build<br>• co-ordinate build activities across systems<br>• understand how to undertake and support integration testing activities |
 | [Technical understanding](../../skills/#technical-understanding) | UK GDaD PCF | Practitioner | You can:<br>• show a thorough understanding of the technical concepts required for the role, and can explain how these fit into the wider technical landscape |
-| [Testing](../../skills/#testing) | UK GDaD PCF | Working | You can:<br>• review requirements and specifications, and define test conditions<br>• identify issues and risks associated with work<br>• analyze and report test activities and results |
+| [Testing](../../skills/#testing) | UK GDaD PCF | Working | You can:<br>• review requirements and specifications, and define test conditions<br>• identify issues and risks associated with work<br>• analyse and report test activities and results |
 | [Troubleshooting and problem resolution](../../skills/#troubleshooting-and-problem-resolution) | UK GDaD PCF | Practitioner | You can:<br>• break a problem down into its component parts to identify and diagnose root causes<br>• troubleshoot and identify problems across different technology capabilities |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognize when a change could affect patient care and raise it |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
 | [Security operations](../../skills/#security-operations) | This reference | Working | You can:<br>• monitor alerts and triage them using runbooks<br>• gather evidence and escalate events<br>• tune simple detection rules under guidance |
 | [Vulnerability management](../../skills/#vulnerability-management) | This reference | Practitioner | You can:<br>• prioritize vulnerabilities by risk, including to patient services<br>• scope and manage penetration tests and remediation |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 
 ### Typical qualifications and experience
 
@@ -231,7 +231,7 @@ Mental effort reflects frequent prolonged concentration on unpredictable faults,
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -242,8 +242,8 @@ Mental effort reflects frequent prolonged concentration on unpredictable faults,
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -267,8 +267,8 @@ Mental effort reflects frequent prolonged concentration during incidents and com
 > A lead infrastructure engineer manages third party provision of infrastructure services and the provision of expertise to develop architectural solutions for infrastructure services, throughout the service product life cycle.
 > 
 > At this role level, you will:
-> - oversee programs and projects
-> - work with technical architects to translate the architectural designs into operations and support technical architects in operationalizing the designs
+> - oversee programmes and projects
+> - work with technical architects to translate the architectural designs into operations and support technical architects in operationalising the designs
 > - lead and direct infrastructure specialist teams in building, managing, supporting and maintaining solutions according to departmental policy (if taking a managerial path)
 
 ### Responsibilities
@@ -286,11 +286,11 @@ Mental effort reflects frequent prolonged concentration during incidents and com
 | [Coding and scripting](../../skills/#coding-and-scripting) | UK GDaD PCF | Working | You can:<br>• interact with, read and write code<br>• carry out baseline repair activities |
 | [Information security](../../skills/#information-security) | UK GDaD PCF | Practitioner | You can:<br>• design solutions and services with security controls included, specifically engineered to mitigate security threats |
 | [IT infrastructure](../../skills/#it-infrastructure) | UK GDaD PCF | Expert | You can:<br>• lead teams and departments in the design, implementation, administration and support of infrastructure solutions and services |
-| [Modern development standards](../../skills/#modern-development-standards) | UK GDaD PCF | Expert | You can:<br>• identify and apply modern development standards to support complex projects and programs<br>• lead others in applying modern development standards |
+| [Modern development standards](../../skills/#modern-development-standards) | UK GDaD PCF | Expert | You can:<br>• identify and apply modern development standards to support complex projects and programmes<br>• lead others in applying modern development standards |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Practitioner | You can:<br>• take accountability for issues that occur and be proactive in searching for potential problems<br>• achieve excellent user outcomes |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Working | You can:<br>• initiate and monitor actions to investigate patterns and trends to resolve problems<br>• effectively consult specialists where required<br>• determine the appropriate resolution and assist with its implementation<br>• determine preventative measures |
 | [Service focus](../../skills/#service-focus) | UK GDaD PCF | Working | You can:<br>• take inputs and establish coherent frameworks that work |
-| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Practitioner | You can:<br>• design systems characterized by medium levels of risk, impact, and business or technical complexity<br>• select appropriate design standards, methods and tools, and ensure they are applied effectively<br>• review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology |
+| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Practitioner | You can:<br>• design systems characterised by medium levels of risk, impact, and business or technical complexity<br>• select appropriate design standards, methods and tools, and ensure they are applied effectively<br>• review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology |
 | [Systems integration](../../skills/#systems-integration) | UK GDaD PCF | Expert | You can:<br>• establish standards and procedures across a service product life cycle, including the development product life cycle, and can ensure that practitioners adhere to these<br>• manage resources to ensure that the systems integration function works effectively |
 | [Technical understanding](../../skills/#technical-understanding) | UK GDaD PCF | Expert | You can:<br>• anticipate and advise on future technology changes that present opportunities for the product or programme |
 | [Testing](../../skills/#testing) | UK GDaD PCF | Practitioner | You can:<br>• manage the planning of system and acceptance tests, co-ordinating both functional and non-functional specifications<br>• provide authoritative advice and guidance on test planning<br>• identify process improvements and contribute to the definition of best practice |
@@ -300,7 +300,7 @@ Mental effort reflects frequent prolonged concentration during incidents and com
 | [Security operations](../../skills/#security-operations) | This reference | Working | You can:<br>• monitor alerts and triage them using runbooks<br>• gather evidence and escalate events<br>• tune simple detection rules under guidance |
 | [Vulnerability management](../../skills/#vulnerability-management) | This reference | Practitioner | You can:<br>• prioritize vulnerabilities by risk, including to patient services<br>• scope and manage penetration tests and remediation |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 
 ### Typical qualifications and experience
@@ -310,7 +310,7 @@ Mental effort reflects frequent prolonged concentration during incidents and com
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -321,8 +321,8 @@ Mental effort reflects frequent prolonged concentration during incidents and com
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -346,9 +346,9 @@ The UK GDaD PCF suggests Band 8b for both lead and principal infrastructure engi
 > A principal infrastructure engineer is an accomplished technical leader.
 > 
 > At this role level, you will:
-> - develop strategic and tactical engineering roadmaps for technologies and services in your area of responsibility, ensuring they're future-proofed and that the organization derives maximum value from investment in technologies
+> - develop strategic and tactical engineering roadmaps for technologies and services in your area of responsibility, ensuring they're future-proofed and that the organisation derives maximum value from investment in technologies
 > - potentially own the operational relationships with suppliers, ensuring services and products are delivered and aligned to industry best practice and regulatory and contractual requirements
-> - work with technical architects to translate the architectural designs into operations and support technical architects in operationalizing the designs
+> - work with technical architects to translate the architectural designs into operations and support technical architects in operationalising the designs
 > - lead and direct infrastructure specialist teams in building, managing, supporting and maintaining solutions according to departmental policy (if taking a managerial path)
 
 ### Responsibilities
@@ -366,11 +366,11 @@ The UK GDaD PCF suggests Band 8b for both lead and principal infrastructure engi
 | [Coding and scripting](../../skills/#coding-and-scripting) | UK GDaD PCF | Working | You can:<br>• interact with, read and write code<br>• carry out baseline repair activities |
 | [Information security](../../skills/#information-security) | UK GDaD PCF | Practitioner | You can:<br>• design solutions and services with security controls included, specifically engineered to mitigate security threats |
 | [IT infrastructure](../../skills/#it-infrastructure) | UK GDaD PCF | Practitioner | You can:<br>• design and implement infrastructure solutions and services, for example, networking and physical infrastructure, commercial-off-the-shelf (COTS) software, open source packages and solutions, or virtual and cloud computing |
-| [Modern development standards](../../skills/#modern-development-standards) | UK GDaD PCF | Expert | You can:<br>• identify and apply modern development standards to support complex projects and programs<br>• lead others in applying modern development standards |
+| [Modern development standards](../../skills/#modern-development-standards) | UK GDaD PCF | Expert | You can:<br>• identify and apply modern development standards to support complex projects and programmes<br>• lead others in applying modern development standards |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Practitioner | You can:<br>• take accountability for issues that occur and be proactive in searching for potential problems<br>• achieve excellent user outcomes |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Practitioner | You can:<br>• ensure that the right actions are taken to investigate, resolve and anticipate problems<br>• co-ordinate the team to investigate problems, implement solutions and take preventive measures |
 | [Service focus](../../skills/#service-focus) | UK GDaD PCF | Practitioner | You can:<br>• see the bigger picture by taking groups of services and investigating how to get the best of underlying services |
-| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Expert | You can:<br>• design systems characterized by high levels of risk, impact, and business or technical complexity<br>• control system design practice within an enterprise or industry architecture<br>• influence industry-based models for the development of new technology applications<br>• develop effective implementation and procurement strategies, consistent with business needs<br>• ensure adherence to relevant technical strategies, policies, standards and practices |
+| [Systems design](../../skills/#systems-design) | UK GDaD PCF | Expert | You can:<br>• design systems characterised by high levels of risk, impact, and business or technical complexity<br>• control system design practice within an enterprise or industry architecture<br>• influence industry-based models for the development of new technology applications<br>• develop effective implementation and procurement strategies, consistent with business needs<br>• ensure adherence to relevant technical strategies, policies, standards and practices |
 | [Systems integration](../../skills/#systems-integration) | UK GDaD PCF | Expert | You can:<br>• establish standards and procedures across a service product life cycle, including the development product life cycle, and can ensure that practitioners adhere to these<br>• manage resources to ensure that the systems integration function works effectively |
 | [Technical understanding](../../skills/#technical-understanding) | UK GDaD PCF | Practitioner | You can:<br>• show a thorough understanding of the technical concepts required for the role, and can explain how these fit into the wider technical landscape |
 | [Testing](../../skills/#testing) | UK GDaD PCF | Expert | You can:<br>• manage testing activities within development or integration activities<br>• manage risks and take preventative action when risks become unacceptable<br>• manage customer relations |
@@ -380,7 +380,7 @@ The UK GDaD PCF suggests Band 8b for both lead and principal infrastructure engi
 | [Security operations](../../skills/#security-operations) | This reference | Working | You can:<br>• monitor alerts and triage them using runbooks<br>• gather evidence and escalate events<br>• tune simple detection rules under guidance |
 | [Vulnerability management](../../skills/#vulnerability-management) | This reference | Expert | You can:<br>• set the vulnerability management policy and its targets<br>• report technical security risk to senior leaders |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 | [Budget management](../../skills/#budget-management) | This reference | Practitioner | You can:<br>• hold and manage a budget, forecasting and explaining variances<br>• build a business case with costs and benefits |
 
@@ -402,8 +402,8 @@ The UK GDaD PCF suggests Band 8b for both lead and principal infrastructure engi
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -421,5 +421,5 @@ The UK GDaD PCF suggests Band 8b for both lead and principal infrastructure engi
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

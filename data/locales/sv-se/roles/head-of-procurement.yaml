@@ -1,0 +1,49 @@
+summary: >
+  Upphandlingschefen och den kommersiella ledningsgruppen leder hur organisationen köper varor och tjänster och förvaltar sina leverantörer. De fastställer upphandlingspolicy och kommersiell strategi, ser till att utgifter är lagliga och ger valuta för pengarna och ger styrelsen råd om kommersiell risk. I en digital hälso- och sjukvårdsorganisation ägnar de särskild uppmärksamhet åt avtal om teknik och kliniska system, leverantörers motståndskraft och utträde.
+health_context:
+  - Stora avtal om teknik och kliniska system kan forma tjänster i ett decennium, så kommersiella ledare planerar för interoperabilitet, portabilitet och framtida konkurrens från början.
+  - Kritiska leverantörer stöder tjänster som går dygnet runt, så leverantörshaveri och cyberincidenter i leverantörskedjan är risker på styrelsenivå.
+  - Regler för offentlig upphandling gäller, och organisationen måste kunna försvara sina upphandlingsbeslut om de överprövas.
+  - Organisationen förväntas skapa socialt värde och minska koldioxidutsläppen genom sina utgifter.
+  - Kommersiella ledare arbetar ofta med andra hälso- och vårdorganisationer om gemensamma inköp och delade avtal.
+levels:
+  - title: Upphandlingschef
+    summary: Leder upphandlingsfunktionen, fastställer upphandlingsrutiner och standarder och leder upphandlings- och inköpsteamen.
+    responsibilities:
+      - Leda och förvalta upphandlings- och inköpsteamen.
+      - Fastställa organisationens upphandlingsrutiner, mallar och tröskelvärden, i linje med regler för offentlig upphandling och ekonomiska regler.
+      - Kvalitetssäkra de mest komplexa och högvärdiga upphandlingarna och deras tilldelningsbeslut.
+      - Förvalta flödet av upphandlingar och se till att upphandlingar startar i tid.
+      - Rapportera efterlevnad av upphandling, besparingar och socialt värde till revisionskommittén.
+      - Hålla upphandlingsteamets budget och utveckla teamets färdigheter.
+    qualifications:
+      - En erkänd yrkeskvalifikation inom upphandling på högsta nivå, eller en masterexamen i ett närliggande ämne, eller motsvarande erfarenhet.
+      - Omfattande erfarenhet av att leda upphandling enligt regler för offentlig upphandling.
+    job_evaluation_notes: Annonser inom hälso- och sjukvården placerar rollen i band 8c. Policy är nivå 5 eftersom arbetet fastställer upphandlingsrutiner för hela organisationen, och handlingsfrihet är nivå 6 eftersom det tolkar upphandlingsregler och strategi för att fastställa organisationens standarder. Ekonomiska resurser är nivå 5 eftersom det styr hur utgifter köps över många tjänster; kommunikation är nivå 6 för kontroversiella tilldelningsbeslut och överprövningar.
+  - title: Kommersiell chef
+    summary: Leder upphandling, kategoriförvaltning och avtalsförvaltning tillsammans som en kommersiell funktion och fastställer den kommersiella strategin.
+    responsibilities:
+      - Leda den kommersiella funktionen, inklusive upphandling, kategoriförvaltning och avtalsförvaltning.
+      - Fastställa den kommersiella strategin, inklusive ansatsen till teknik- och molnavtal och inlåsning.
+      - Leda förhandlingar med strategiska leverantörer, såsom leverantörer av kliniska system och moln.
+      - Leda svaret på leverantörshaveri och allvarliga avtalstvister.
+      - Ge verkställande direktörer råd om kommersiell risk, valuta för pengarna och det kommersiella underlaget för större investeringar.
+      - Leda gemensamt kommersiellt arbete med andra hälso- och vårdorganisationer.
+    qualifications:
+      - En erkänd yrkeskvalifikation inom upphandling på högsta nivå, eller en masterexamen i ett närliggande ämne, eller motsvarande erfarenhet.
+      - Omfattande erfarenhet av att leda kommersiella funktioner.
+    job_evaluation_notes: Annonser inom hälso- och sjukvården placerar rollen i band 8d. Kunskap är nivå 8 för kunskap över upphandling, kategoriförvaltning, avtalsförvaltning och kommersiell rätt, och handlingsfrihet är nivå 6 eftersom arbetet fastställer den kommersiella strategin. Kommunikation är nivå 6 för att förhandla om mycket kontroversiella kommersiella frågor med strategiska leverantörer.
+  - title: Direktör för upphandling och kommersiella frågor
+    summary: Är organisationens senior kommersiella ledare, ansvarig för policy för upphandling och kommersiella frågor, och ger styrelsen råd om kommersiell strategi och risk.
+    responsibilities:
+      - Fastställa organisationens policy och strategi för upphandling och kommersiella frågor, godkända av styrelsen.
+      - Ge styrelsen och ledningsgruppen råd om kommersiell strategi, risk och de största avtalen och investeringarna.
+      - Kvalitetssäkra organisationens efterlevnad av regler för offentlig upphandling och dess beredskap att försvara överprövningar.
+      - Leda ledningsrelationerna med strategiska leverantörer och köpande organisationer inom offentlig sektor.
+      - Fastställa mål för socialt värde och hållbar upphandling och rapportera utfall till styrelsen.
+      - Leda och utveckla den kommersiella ledningsgruppen och organisationens kommersiella kompetens.
+      - Vara ansvarig för organisationens kommersiella åtaganden och avtalsportfölj över alla tjänster.
+    qualifications:
+      - En erkänd yrkeskvalifikation inom upphandling på högsta nivå, eller en masterexamen i ett närliggande ämne, eller motsvarande erfarenhet.
+      - Omfattande erfarenhet av att leda kommersiella funktioner på ledningsnivå.
+    job_evaluation_notes: Annonser inom hälso- och sjukvården placerar rollen i band 9. Policy är nivå 6 för organisationsövergripande ansvar för policy för upphandling och kommersiella frågor, ekonomiska resurser är nivå 6 för organisationsövergripande ansvar för organisationens kommersiella åtaganden, och handlingsfrihet är nivå 6 eftersom arbetet fastställer kommersiella mål och standarder. Känslomässig ansträngning är nivå 2 för tillfällig exponering för påfrestande tvister, leverantörshaveri och överprövningar.

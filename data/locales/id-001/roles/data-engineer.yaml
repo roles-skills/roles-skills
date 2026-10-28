@@ -1,0 +1,45 @@
+summary: >
+  Insinyur data membangun dan menjalankan jalur dan platform yang memindahkan data kesehatan dan perawatan dari sistem klinis dan operasional ke tempat data itu dapat dianalisis dan dipakai dengan aman. Mereka merancang aliran data, mengintegrasikan sumber yang memakai standar berbeda, dan memastikan data akurat, tepat waktu, aman, dan hanya tersedia bagi orang yang seharusnya melihatnya.
+health_context:
+  - Sistem sumber mencakup rekam pasien elektronik, sistem laboratorium, pencitraan, dan farmasi, yang memakai standar seperti HL7 versi 2, HL7 FHIR, SNOMED CT, dan ICD.
+  - Jalur sering membawa data pasien yang dapat diidentifikasi, sehingga para insinyur membangun pseudonimisasi, kendali akses, dan audit sejak awal.
+  - Sebagian aliran data mendukung perawatan langsung, seperti peringatan atau daftar pasien, sehingga jalur yang gagal atau terlambat dapat memengaruhi pasien dan memerlukan penilaian keselamatan klinis.
+  - Data sering perlu ditautkan lintas lingkungan perawatan, yang bergantung pada pencocokan pasien yang andal dan pengenal yang konsisten.
+levels:
+  - title: Insinyur data
+    responsibilities:
+      - Membangun dan memelihara jalur data dari sistem klinis dan operasional ke platform data, mengikuti desain yang disepakati.
+      - Memetakan data sumber, termasuk data klinis berkode, ke model sasaran dan mendokumentasikan pemetaannya.
+      - Membangun pseudonimisasi, validasi, dan pemeriksaan mutu data ke dalam jalur.
+      - Memantau jalur dan memperbaiki kegagalan, memprioritaskan aliran yang mendukung perawatan langsung.
+      - Menerapkan kendali akses dan pencatatan audit yang memenuhi aturan tata kelola informasi.
+    qualifications:
+      - Gelar di bidang komputasi atau bidang terkait, atau pengalaman yang setara.
+      - Pengalaman membangun jalur data.
+  - title: Insinyur data senior
+    responsibilities:
+      - Merancang aliran data dan layanan streaming yang menyatukan data dari banyak sistem kesehatan dan perawatan.
+      - Merancang proses pencocokan dan penautan pasien, dan mengukur seberapa baik prosesnya bekerja.
+      - Memimpin pekerjaan kinerja basis data dan platform agar data tersedia ketika layanan membutuhkannya.
+      - Menilai risiko keselamatan klinis dan tata kelola informasi dari aliran data bersama para spesialis terkait.
+      - Meninjau pekerjaan insinyur lain dan membimbing mereka.
+    qualifications:
+      - Pengalaman yang substansial dalam merancang dan membangun sistem data, pada tingkat yang setara dengan gelar magister.
+  - title: Insinyur data pimpinan
+    responsibilities:
+      - Memimpin desain dan operasi platform data organisasi dan banyak aliran datanya.
+      - Menetapkan standar rekayasa untuk jalur, pengujian, keamanan, dan dokumentasi.
+      - Merencanakan integrasi data dengan mitra kesehatan dan perawatan, termasuk rekam perawatan bersama dan layanan data regional.
+      - Memastikan aliran data yang mendukung perawatan langsung tangguh dan memiliki kasus keselamatan klinis.
+      - Mengoordinasikan tim rekayasa data dan mengelola secara langsung para insinyur.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa data untuk sistem yang kompleks.
+  - title: Kepala rekayasa data
+    responsibilities:
+      - Menetapkan strategi untuk platform data dan layanan rekayasa data organisasi.
+      - Memimpin tim multidisiplin yang menyampaikan layanan data untuk tim internal dan mitra kesehatan dan perawatan.
+      - Menasihati pimpinan senior tentang risiko, biaya, dan investasi platform data.
+      - Memastikan layanan data memenuhi persyaratan tata kelola informasi, keamanan, dan keselamatan klinis.
+      - Membangun kapabilitas rekayasa data melalui rekrutmen, pengembangan, dan jalur karier.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa data di banyak tim.

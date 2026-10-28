@@ -1,0 +1,57 @@
+summary: Managers cyberbeveiliging leiden de aanpak van de organisatie om haar systemen, data en diensten tegen cyberdreigingen te beschermen. Zij stellen beveiligingsbeleid vast, beheren cyberrisico’s, houden toezicht op beveiligingsoperaties en engineering, leiden de reactie op grote cyberincidenten en bouwen een cultuur van beveiligingsbewustzijn op. In de gezondheidszorg zorgen zij dat klinische diensten veilig kunnen blijven draaien en snel herstellen wanneer een aanval plaatsvindt.
+health_context:
+- Een cyberaanval op een zorgorganisatie kan klinische systemen stilleggen en patiënten in gevaar brengen, dus cyberbeveiliging maakt deel uit van patiëntveiligheid en bedrijfscontinuïteit.
+- Zorgorganisaties moeten vaak voldoen aan sectorale normen voor cyberbeveiliging en ernstige incidenten melden aan de betrokken autoriteiten.
+- Klinisch personeel heeft snelle toegang tot systemen nodig, dus beveiligingsbeleid wordt samen met clinici ontworpen en getest op bruikbaarheid.
+- Beveiliging hangt af van veel leveranciers, waaronder leveranciers van klinische systemen en gedeelde diensten, dus borging van leveranciers is een kernonderdeel van de rol.
+- Medische hulpmiddelen en legacy-systemen scheppen langdurige risico’s die samen met klinische techniek en teams voor klinische veiligheid worden beheerd.
+levels:
+- title: Manager cyberbeveiliging
+  summary: Een manager cyberbeveiliging leidt de functie cyberbeveiliging, of een groot deel ervan, en beheert cyberrisico’s, beveiligingsoperaties en borging.
+  responsibilities:
+  - Beveiligingsoperaties, beheer van kwetsbaarheden en werk aan borging uitvoeren en over hun prestaties rapporteren.
+  - Het register van cyberrisico’s bijhouden en zorgen dat risico’s voor klinische diensten worden beoordeeld en een eigenaar hebben.
+  - Beveiligingsbeleid en -normen schrijven en bijhouden en controleren dat ze worden gevolgd.
+  - De reactie op cyberincidenten leiden, samen met incidentmanagement en met klinische en operationele leiders.
+  - Training in beveiligingsbewustzijn en phishingoefeningen voor al het personeel, inclusief klinisch personeel, uitvoeren.
+  - Hiërarchisch leiding geven aan beveiligingsanalisten en -engineers.
+  qualifications:
+  - Uitgebreide ervaring met cyberbeveiliging, inclusief reactie op incidenten en risicobeheer, op een niveau gelijkwaardig aan een master.
+  - Een erkende professionele certificering voor beveiliging, of gelijkwaardige ervaring.
+  job_evaluation_notes: Geestelijke en emotionele inspanning weerspiegelen het leiden van de reactie op cyberincidenten onder druk, vaak buiten kantooruren, waar de zorg voor patiënten in gevaar kan zijn.
+- title: Senior manager cyberbeveiliging
+  summary: Een senior manager cyberbeveiliging leidt cyberbeveiliging over meerdere teams, beheert borging tegen sectorale normen en voert het verbeterprogramma voor beveiliging van de organisatie uit.
+  responsibilities:
+  - Teams voor cyberbeveiliging leiden over operaties, engineering en borging.
+  - Het verbeterprogramma voor cyberbeveiliging van de organisatie uitvoeren en het budget beheren.
+  - Borging beheren tegen sectorale normen voor cyberbeveiliging en beheersmaatregelen uit ISO/IEC 27001 en bewijs voor audits voorbereiden.
+  - De reactie op grote cyberincidenten leiden en herstel plannen en testen met bedrijfscontinuïteit en klinische leiders.
+  - De beveiliging van leveranciers en gedeelde diensten beoordelen en beveiligingseisen in contracten afspreken.
+  - Programmabesturen adviseren over de beveiligingsrisico’s van nieuwe klinische en digitale diensten.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van teams voor cyberbeveiliging in een complexe organisatie.
+  - Een erkende professionele certificering voor beveiliging, of gelijkwaardige ervaring.
+  job_evaluation_notes: Geestelijke en emotionele inspanning weerspiegelen het leiden van de reactie op grote cyberincidenten, die dagen of weken kunnen duren en de zorg voor patiënten bedreigen.
+- title: Hoofd cyberbeveiliging
+  summary: Een hoofd cyberbeveiliging stelt de strategie voor cyberbeveiliging van de organisatie vast en is verantwoordelijk voor haar beheer van cyberrisico’s, beveiligingsoperaties en reactie op grote incidenten.
+  responsibilities:
+  - De strategie voor cyberbeveiliging vaststellen, in lijn met de digitale en klinische strategieën van de organisatie.
+  - Het bestuur en het directieteam adviseren over cyberrisico, risicobereidheid en investeringen.
+  - De reactie van de organisatie op grote cyberincidenten leiden, inclusief communicatie met toezichthouders, partners en het publiek.
+  - Een beveiligingscultuur opbouwen waarin al het personeel, inclusief clinici, dreigingen begrijpt en meldt.
+  - De organisatie vertegenwoordigen in netwerken voor cyberbeveiliging in de gezondheidszorg en bij partnerorganisaties.
+  - De functie cyberbeveiliging leiden en ontwikkelen en haar budget beheren.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van cyberbeveiliging voor een grote organisatie, inclusief reactie op grote incidenten.
+- title: Chief information security officer
+  summary: Een chief information security officer draagt op het niveau van de organisatie verantwoordelijkheid voor cyberbeveiliging in de hele organisatie, en vaak ook bij partnerorganisaties die haar diensten delen.
+  responsibilities:
+  - Verantwoordelijkheid voor cyberbeveiliging op het niveau van de organisatie dragen en erover rapporteren aan het bestuur.
+  - Samen met het bestuur de risicobereidheid voor beveiliging vaststellen en zorgen dat zij beslissingen in de hele organisatie vormgeeft.
+  - Cyberbeveiliging leiden over gedeelde diensten en partnerorganisaties heen waar de organisatie deze levert.
+  - De reactie van de organisatie op de ernstigste cyberincidenten aansturen, samen met het directieteam en de betrokken autoriteiten.
+  - De praktijk van cyberbeveiliging in de sector van gezondheid en zorg vormgeven door samen te werken met partners en sectorale organen.
+  - De functie beveiliging leiden en budgetten over meerdere diensten beheren.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van cyberbeveiliging op bestuursniveau, of voor meerdere organisaties.
+  job_evaluation_notes: Dit niveau past bij grotere organisaties, of bij organisaties die gedeelde digitale diensten aan partners leveren. Kleinere organisaties hebben meestal een hoofd cyberbeveiliging op Band 8c als hun hoogste rol voor beveiliging.

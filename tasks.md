@@ -145,6 +145,24 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Native speaker review of bn-001
 - [x] ru-001 (Русский, Russian): all roles, skills, bands, job evaluation, and interface strings
 - [ ] Native speaker review of ru-001
+- [x] ko-001 (한국어 (세계), Korean): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of ko-001
+- [x] ko-kr (한국어, Korean): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of ko-kr
+- [x] sv-se (Svenska, Swedish): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of sv-se
+- [x] sv-001 (Svenska (världen), Swedish): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of sv-001
+- [x] nl-nl (Nederlands, Dutch): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of nl-nl
+- [x] nl-001 (Nederlands (wereld), Dutch): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of nl-001
+- [x] ja-001 (日本語 (世界), Japanese): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of ja-001
+- [x] ja-jp (日本語, Japanese): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of ja-jp
+- [x] id-001 (Bahasa Indonesia, Indonesian): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of id-001
 - [ ] Native speaker review of cy-gb
 - [ ] Next locales, in the order in `spec/locales/locales-by-priority.md`
 
@@ -160,3 +178,17 @@ See [plan.md](plan.md) for the context and reasoning.
 - [ ] Usability check: can test users find a fitting role in under five minutes?
 - [x] Check the definition of done in plan.md (met: 73 roles in 15 families, Bands 2 to 9; 39 roles link to a PCF role, all 73 to ESCO)
 - [ ] Commit, publish the repository, and tag v1.0
+- [x] sw-tz (Kiswahili, Swahili): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of sw-tz
+- [x] sw-001 (Kiswahili (dunia), Swahili): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of sw-001
+- [x] vi-vn (Tiếng Việt, Vietnamese): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of vi-vn
+- [x] vi-001 (Tiếng Việt (thế giới), Vietnamese): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of vi-001
+- [x] pt-001 (Português, Portuguese): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of pt-001
+- [x] ur-001 (اردو, Urdu): all roles, skills, bands, job evaluation, and interface strings; right to left
+- [ ] Native speaker review of ur-001
+- [x] da-001 (Dansk, Danish): all roles, skills, bands, job evaluation, and interface strings
+- [ ] Native speaker review of da-001

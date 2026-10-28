@@ -1,0 +1,30 @@
+summary: >
+  Pemilik layanan adalah pemimpin yang bertanggung jawab atas layanan kesehatan digital dari ujung ke ujung, di seluruh bagian digital, operasional, dan kliniknya. Mereka menyatukan tim multidisiplin dan mitra layanan, menetapkan strategi dan prioritas layanan, memiliki anggaran dan kinerjanya, dan memastikan layanan menghasilkan hasil dan manfaat yang aman dan bermutu bagi pasien, tenaga klinis, dan tenaga perawatan.
+health_context:
+  - Layanan kesehatan digital adalah bagian dari layanan perawatan yang lebih luas, sehingga pemilik layanan bekerja setara dengan pimpinan klinis dan operasional dan berbagi tanggung jawab atas seluruh pengalaman pasien.
+  - Pemilik layanan bertanggung jawab agar risiko klinis layanan dikelola, bekerja dengan petugas keselamatan klinis dan menerima risiko sisa pada tingkat yang tepat.
+  - Layanan menangani informasi kesehatan yang rahasia, sehingga pemilik layanan memastikan tata kelola informasi, pelindungan data, dan keamanan siber tersedia dan ditinjau.
+  - Layanan langsung yang mendukung perawatan harus tangguh, sehingga pemilik layanan memastikan kesinambungan bisnis, respons insiden, dan dukungan pemasok memenuhi kebutuhan klinis.
+  - Manfaat dalam perawatan harus diukur dan dilaporkan, sehingga pemilik layanan memegang indikator kinerja yang mencakup keselamatan, mutu, akses, kesetaraan, dan biaya.
+levels:
+  - title: Pemilik layanan
+    responsibilities:
+      - Bertanggung jawab atas layanan kesehatan digital ujung ke ujung, seperti akses daring ke rekam atau rujukan digital, sepanjang seluruh siklus hidupnya.
+      - Menetapkan strategi dan prioritas layanan bersama pimpinan klinis dan operasional, menyeimbangkan kebutuhan pengguna, keselamatan, kebijakan, dan biaya.
+      - Memiliki anggaran layanan dan menyampaikan alasan investasi berdasarkan manfaat bagi pasien dan staf.
+      - Memastikan risiko klinis, tata kelola informasi, aksesibilitas, dan keamanan siber dikelola dan dijamin.
+      - Memantau kinerja dan manfaat layanan, dan memimpin perbaikan ketika layanan kurang memenuhi harapan.
+      - Mewakili layanan di dewan tata kelola dan di hadapan mitra di seluruh sistem kesehatan dan perawatan.
+    qualifications:
+      - Pengalaman luas dalam memimpin layanan digital, operasional, atau klinis.
+  - title: Pemilik layanan senior
+    responsibilities:
+      - Bertanggung jawab atas sekelompok layanan kesehatan digital terkait, atau layanan kritis yang dipakai di seluruh sistem perawatan, seperti rekam pasien elektronik.
+      - Menetapkan strategi multitahun untuk layanan bersama pimpinan eksekutif, klinis, dan operasional.
+      - Memiliki anggaran dan hubungan pemasok utama di seluruh layanan.
+      - Menerima dan mengeskalasikan risiko klinis, informasi, dan operasional pada tingkat senior, bekerja dengan petugas keselamatan klinis dan pemilik eksekutif risiko informasi.
+      - Memimpin pemilik layanan dan tim multidisiplin, dan membangun budaya keterbukaan dan perbaikan berkelanjutan.
+      - Memimpin tanggapan atas insiden layanan besar yang memengaruhi perawatan pasien, dan pembelajaran yang menyusul.
+    qualifications:
+      - Pengalaman luas dalam memimpin layanan besar atau kritis, termasuk anggaran dan pemasoknya.
+    job_evaluation_notes: UK GDaD PCF memiliki satu tingkat pemilik layanan, pada G7 atau G6. Acuan ini menambahkan tingkat senior di Pita 8c untuk layanan yang kritis bagi perawatan di seluruh organisasi, dengan anggaran lintas beberapa layanan (sumber daya keuangan tingkat 5) dan keterlibatan rutin dalam insiden serius yang memengaruhi pasien (upaya emosional tingkat 2).

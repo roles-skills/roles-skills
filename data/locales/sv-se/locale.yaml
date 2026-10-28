@@ -1,0 +1,73 @@
+# Swedish (Sweden). Translated from English by an AI assistant; not yet
+# reviewed by a native speaker. Quotations from the UK GDaD PCF and ESCO stay
+# in English. Job titles use the generic form, which covers everyone. Slugs
+# are made from the Swedish titles.
+code: sv-se
+name: Svenska
+english_name: Swedish
+dir: ltr
+complete: true
+paths:
+  roles: roller
+  families: familjer
+  bands: band
+  skills: färdigheter
+  job-evaluation: arbetsvärdering
+  about: om-den-här-referensen
+strings:
+  disclaimer: "Detta är en illustrativ referensprofil för en generisk organisation inom digital hälsa och vård. Det är inte en officiell befattningsbeskrivning för någon arbetsgivare, och poängen i arbetsvärderingen är inte en formell värdering."
+  translation_note: "Den här texten har översatts från engelska av en AI-assistent och har ännu inte granskats av en modersmålstalare. Citat från ramverket för digitala och datarelaterade yrkesroller i Storbritanniens regering (UK GDaD PCF) och från ESCO står kvar på engelska."
+  home_title: Rollkatalog
+  home_lede: "Välj först den yrkesfamilj som ligger närmast ditt arbete, sedan rollen och sedan bandet."
+  roles_title: Alla roller
+  bands_title: Roller efter band
+  skills_title: Färdigheter
+  skills_lede: "Varje färdighet har fyra kunskapsnivåer: Medvetenhet (1), Tillämpande (2), Erfaren (3) och Expert (4). Färdigheter från UK GDaD PCF citeras ur originalet på engelska. Övriga färdigheter är egna för den här referensen."
+  pcf_title: Roller efter roll i UK GDaD PCF
+  esco_title: Roller efter yrke i ESCO
+  role: Roll
+  roles: Roller
+  family: Familj
+  band: Band
+  bands: Band
+  title: Titel
+  role_level: Rollnivå
+  skill: Färdighet
+  source: Källa
+  expected_level: Förväntad nivå
+  level_meaning: Vad nivån innebär
+  factor: Faktor
+  level: Nivå
+  points: Poäng
+  total: Summa
+  summary: Sammanfattning
+  health_context: I en organisation inom digital hälsa och vård
+  pcf_role: Roll i UK GDaD PCF
+  pcf_role_none: "ingen (den här referensen definierar rollen)"
+  pcf_role_description: Rollbeskrivning i UK GDaD PCF (engelskt original)
+  pcf_level: Nivå i UK GDaD PCF
+  civil_service_grades: Tjänstegrader i Storbritanniens statliga förvaltning
+  esco_occupations: Yrken i ESCO
+  role_levels: Rollnivåer
+  job_evaluation_points: Poäng i arbetsvärderingen
+  responsibilities: Ansvarsområden
+  skills: Färdigheter
+  qualifications: Typiska kvalifikationer och erfarenhet
+  band_outline: Översikt av bandet
+  knowledge: Kunskap
+  autonomy: Självständighet
+  scope: Omfattning
+  leadership: Ledarskap
+  accountability: Ansvarsskyldighet
+  job_evaluation: Arbetsvärdering (illustrativ)
+  source_pcf: UK GDaD PCF
+  source_reference: Den här referensen
+  used_in: "Används i {n} rollnivåer."
+  awareness: Medvetenhet
+  working: Tillämpande
+  practitioner: Erfaren
+  expert: Expert
+  sfia_level: Nivå i SFIA
+  esco_occupation: Yrke i ESCO
+  pcf_family: Familj i PCF
+  roles_in_reference: Roller i den här referensen

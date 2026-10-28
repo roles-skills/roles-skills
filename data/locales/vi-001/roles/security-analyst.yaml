@@ -1,0 +1,45 @@
+summary: Chuyên viên phân tích vận hành an ninh theo dõi, điều tra và ứng phó với các mối đe dọa an ninh mạng đối với hệ thống và dữ liệu của tổ chức. Họ phân loại cảnh báo từ các công cụ giám sát an ninh, điều tra hoạt động đáng ngờ, ngăn chặn sự cố và giúp khắc phục điểm yếu. Trong chăm sóc sức khỏe, việc phát hiện và ứng phó nhanh bảo vệ các dịch vụ lâm sàng và thông tin bệnh nhân bí mật khỏi các cuộc tấn công như mã độc tống tiền.
+health_context:
+- Chăm sóc sức khỏe là mục tiêu thường xuyên của mã độc tống tiền và đánh cắp dữ liệu, và một cuộc tấn công có thể làm ngừng các hệ thống lâm sàng trên toàn tổ chức.
+- Các quyết định ngăn chặn, như cô lập một máy chủ hoặc một phần của mạng, phải cân nhắc rủi ro an ninh với tác động đối với việc chăm sóc bệnh nhân, nên các chuyên viên phân tích làm việc với các trưởng nhóm lâm sàng và vận hành.
+- Các mạng gồm thiết bị y tế và hệ thống cũ không thể chạy tác nhân an ninh hoặc được vá nhanh, nên các chuyên viên phân tích dựa vào giám sát mạng và các biện pháp kiểm soát bù đắp.
+- Giám sát bao gồm việc truy cập hồ sơ bệnh nhân, nên các chuyên viên phân tích giúp phát hiện truy cập không phù hợp từ bên trong cũng như các cuộc tấn công từ bên ngoài, phối hợp với quản trị thông tin.
+- Giám sát an ninh chạy suốt ngày đêm, nên các chuyên viên phân tích có thể làm việc theo ca hoặc theo lịch trực.
+levels:
+- title: Chuyên viên phân tích vận hành an ninh sơ cấp
+  summary: Chuyên viên phân tích vận hành an ninh sơ cấp giám sát các cảnh báo an ninh, phân loại chúng bằng sổ tay vận hành và báo cáo các sự kiện lên cấp trên, với sự hướng dẫn của các chuyên viên phân tích có kinh nghiệm.
+  responsibilities:
+  - Giám sát cảnh báo từ các công cụ giám sát an ninh và thiết bị đầu cuối, và phân loại chúng bằng sổ tay vận hành.
+  - Thu thập bằng chứng về hoạt động đáng ngờ, như email lừa đảo hoặc đăng nhập bất thường, và báo cáo lên cấp trên.
+  - Kiểm tra các email lừa đảo do nhân viên báo cáo, và giúp xóa các email độc hại khỏi hộp thư.
+  - Ghi chính xác các sự kiện và hành động vào công cụ quản lý vụ việc.
+  - Chạy quét lỗ hổng và nhắc chủ sở hữu hệ thống về các bản sửa lỗi đến hạn.
+  qualifications:
+  - Có bằng cấp về máy tính hoặc an ninh mạng, chương trình học nghề về an ninh mạng, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Nỗ lực trí tuệ phản ánh việc thường xuyên phải tập trung kéo dài vào việc giám sát và phân loại các cảnh báo khó đoán.
+- title: Chuyên viên phân tích vận hành an ninh
+  summary: Chuyên viên phân tích vận hành an ninh điều tra và ngăn chặn các sự cố an ninh, viết các quy tắc phát hiện và cải thiện việc giám sát an ninh của tổ chức.
+  responsibilities:
+  - Điều tra các sự cố an ninh, xác định phạm vi và ngăn chặn chúng, làm việc với chủ sở hữu hệ thống và các dịch vụ lâm sàng.
+  - Viết và tinh chỉnh các quy tắc phát hiện, và thực hiện săn tìm mối đe dọa dựa trên các mối đe dọa hiện tại đối với chăm sóc sức khỏe.
+  - Giám sát truy cập không phù hợp vào hồ sơ bệnh nhân, và chuyển các vụ việc cho quản trị thông tin.
+  - Đánh giá lỗ hổng theo rủi ro, gồm tác động của chúng đối với các dịch vụ lâm sàng và thiết bị y tế.
+  - Cải thiện sổ tay vận hành và công cụ sau các sự cố.
+  - Tham gia ca trực cho các sự cố an ninh ngoài giờ.
+  qualifications:
+  - Có bằng đại học về máy tính hoặc an ninh mạng, các chứng chỉ an ninh liên quan, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm giám sát an ninh hoặc ứng phó sự cố.
+  job_evaluation_notes: Nỗ lực trí tuệ phản ánh việc thường xuyên phải tập trung kéo dài trong các cuộc điều tra, kể cả khi trực. Nỗ lực cảm xúc phản ánh việc thường xuyên tiếp xúc gián tiếp với tài liệu gây đau buồn trong hồ sơ bệnh nhân và áp lực của các sự cố đang diễn ra.
+- title: Chuyên viên phân tích vận hành an ninh cao cấp
+  summary: Chuyên viên phân tích vận hành an ninh cao cấp dẫn dắt việc ứng phó với các sự cố an ninh quan trọng, dẫn dắt việc săn tìm mối đe dọa và hướng dẫn công việc của nhóm vận hành an ninh.
+  responsibilities:
+  - Dẫn dắt phản ứng kỹ thuật đối với các sự cố an ninh quan trọng, gồm mã độc tống tiền và đánh cắp dữ liệu, và phối hợp với quản lý sự cố.
+  - Tư vấn cho các lãnh đạo lâm sàng và vận hành về các quyết định ngăn chặn ảnh hưởng đến việc chăm sóc bệnh nhân.
+  - Dẫn dắt công việc săn tìm mối đe dọa và tình báo mối đe dọa, và chia sẻ thông tin với các đối tác an ninh chăm sóc sức khỏe.
+  - Đặt ưu tiên cho kỹ thuật phát hiện và phạm vi giám sát, kể cả cho các mạng thiết bị y tế.
+  - Dẫn dắt các bài diễn tập kiểm thử ứng phó sự cố cùng các nhóm kỹ thuật và lâm sàng.
+  - Huấn luyện và hướng dẫn các chuyên viên phân tích vận hành an ninh.
+  qualifications:
+  - Có kinh nghiệm dày dặn về vận hành an ninh và ứng phó sự cố, ở mức tương đương văn bằng sau đại học.
+  - Có các chứng chỉ an ninh nâng cao liên quan, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Nỗ lực trí tuệ và cảm xúc phản ánh việc dẫn dắt ứng phó với các sự cố nghiêm trọng dưới áp lực, thường ngoài giờ, khi các dịch vụ lâm sàng đang gặp rủi ro.

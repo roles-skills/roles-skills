@@ -1,0 +1,43 @@
+summary: Tilgængelighedsspecialister hjælper organisationen med at gøre sine digitale sundhedsservices brugbare for så mange mennesker som muligt, herunder mennesker med handicap og mennesker med langvarige sygdomme. De tester services mod standarder for tilgængelighed og med hjælpeteknologier, rådgiver og uddanner teams og hjælper med at forankre tilgængelighed i, hvordan services, kliniske systemer og sundhedsinformation designes, købes og bygges.
+health_context:
+- Mange af dem, der har mest brug for sundheds- og plejeydelser, er mennesker med handicap, ældre eller mennesker med langvarige sygdomme, så utilgængelige services kan forhindre mennesker i at få pleje.
+- Klinikere og plejepersonale har også behov for tilgængelighed, så interne kliniske systemer, herunder dem, der er købt hos leverandører, skal også være tilgængelige.
+- Sundhedsinformation er ofte kompleks og udgivet i mange formater, såsom dokumenter, breve og video, så specialisterne hjælper teams med at gøre det hele tilgængeligt, herunder letlæst og alternative formater.
+- Tilgængelighedsproblemer i kliniske arbejdsgange kan blive til sikkerhedsproblemer, for eksempel når en advarsel ikke oplæses af en skærmlæser, så specialisterne arbejder med kliniske sikkerhedsansvarlige om disse risici.
+levels:
+- title: Junior tilgængelighedsspecialist
+  responsibilities:
+  - Teste websider, apps og dokumenter mod standarder for tilgængelighed under supervision.
+  - Registrere og forklare tilgængelighedsproblemer klart, så teams kan rette dem.
+  - Hjælpe med test ved hjælp af hjælpeteknologier, såsom skærmlæsere og forstørrelsesprogrammer.
+  - Hjælpe med at holde tilgængelighedserklæringer og problemlister ajour.
+  qualifications:
+  - Noget erfaring med digital test, design eller udvikling, eller tilsvarende erfaring.
+- title: Tilgængelighedsspecialist
+  responsibilities:
+  - Gennemføre tilgængelighedsaudits af services til patienter, kliniske systemer og sundhedsinformation.
+  - Teste med en række hjælpeteknologier og støtte forskning med brugere med handicap.
+  - Rådgive teams om rettelser og om tilgængelige mønstre til formularer, advarsler og sikkerhedskritisk information.
+  - Gennemgå leverandørernes produkter for tilgængelighed under udbud og modtagelse.
+  - Udarbejde oplæring og vejledning og coache mere juniorkolleger.
+  qualifications:
+  - Erfaring med test af tilgængelighed og med gældende standarder for tilgængelighed, eller tilsvarende erfaring.
+- title: Senior tilgængelighedsspecialist
+  responsibilities:
+  - Forankre tilgængelighed i teamenes arbejdsmåder, fra afdækning til live service.
+  - Bidrage til strategien for tilgængelighed, herunder hvordan tilgængelighed sikres i udbud og servicevurderinger.
+  - Arbejde sammen med kliniske sikkerhedsansvarlige, hvor tilgængelighedsproblemer kan påvirke patientsikkerheden.
+  - Udarbejde og give oplæring i tilgængelighed til designere, udviklere, indholdsdesignere og leverandører.
+  - Lede eller styre andre tilgængelighedsspecialister.
+  qualifications:
+  - Betydelig erfaring med tilgængelighed på et niveau svarende til en kandidatgrad.
+- title: Chef for tilgængelighed
+  responsibilities:
+  - Fastlægge organisationens vision, strategi og standarder for tilgængelighed, for services til patienter og interne services.
+  - Sikre, at lovgivning og standarder for tilgængelighed overholdes på tværs af services, og rapportere om det til den øverste ledelse.
+  - Sikre, at krav til tilgængelighed er en del af udbud og leverandørkontrakter for kliniske systemer.
+  - Påvirke organisationens prioriteter, så patienter og medarbejdere med handicap ikke udelukkes.
+  - Lede og udvikle tilgængelighedsteamet og praksisfællesskabet.
+  qualifications:
+  - Omfattende erfaring med at lede tilgængelighed i en kompleks organisation.
+  job_evaluation_notes: Der er intet niveau i lønramme 8a, fordi UK GDaD PCF placerer chefen for tilgængelighed i G7 eller G6, og denne reference følger den foreslåede lønramme 8b.

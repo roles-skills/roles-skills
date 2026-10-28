@@ -1,0 +1,237 @@
+# Dutch translations of data/skills/legal.yaml. Keys are the English skill ids.
+legal-legal-research:
+  name: Juridisch onderzoek
+  description: Wetgeving, jurisprudentie, richtlijnen en precedenten vinden, lezen en samenvatten om een juridische vraag te beantwoorden.
+  levels:
+    awareness: |
+      U kunt:
+      - wetgeving, richtlijnen en documenten met precedenten vinden met juridische databases en de kennis van de organisatie
+      - juridische termen juist gebruiken
+    working: |
+      U kunt:
+      - een omschreven juridische vraag onderzoeken en de bronnen duidelijk samenvatten
+      - controleren of bronnen actueel en gezaghebbend zijn
+      - bibliotheken van precedenten en kennis actueel houden
+    practitioner: |
+      U kunt:
+      - complexe of nieuwe vragen onderzoeken, zoals hoe bestaand recht van toepassing is op nieuwe technologie
+      - tegenstrijdige bronnen analyseren en tot een beredeneerd oordeel komen
+      - wijzigingen in wetgeving en richtlijnen volgen en hun effect op de organisatie uitleggen
+    expert: |
+      U kunt:
+      - onderzoek naar de meest complexe vragen met hoog risico voor de organisatie leiden
+      - juridische ontwikkelingen voorzien en de organisatie erop voorbereiden
+      - bijdragen aan raadplegingen over wetgeving en richtlijnen die digitale gezondheid en zorg raken
+legal-contract-drafting-and-review:
+  name: Opstellen en toetsen van contracten
+  description: Contracten en overeenkomsten opstellen, toetsen en onderhandelen, zoals overeenkomsten voor technologie, softwarelicenties, cloud, diensten en gegevensverwerking.
+  levels:
+    awareness: |
+      U kunt:
+      - de belangrijkste onderdelen van een contract uitleggen, zoals partijen, looptijd, betaling, aansprakelijkheid en beëindiging
+      - standaarddocumenten voorbereiden uit goedgekeurde sjablonen
+    working: |
+      U kunt:
+      - routineovereenkomsten, zoals geheimhouding en eenvoudige dienstenovereenkomsten, toetsen aan de normen van de organisatie
+      - contracten van opmerkingen voorzien en de wijzigingen uitleggen
+      - bepalingen opmerken die toetsing door een jurist nodig hebben, zoals onbeperkte aansprakelijkheid of automatische verlenging
+    practitioner: |
+      U kunt:
+      - complexe overeenkomsten opstellen en onderhandelen, zoals softwarelicenties, cloudhosting, systeemintegratie en verwerkersovereenkomsten
+      - adviseren over toewijzing van risico, inclusief grenzen aan aansprakelijkheid, serviceniveaus, uitstap en escrow
+      - zorgen dat contracten patiëntdata, continuïteit van diensten en de rechten van de organisatie in haar software en data beschermen
+      - sjablonen en draaiboeken voor contracten schrijven en bijhouden
+    expert: |
+      U kunt:
+      - de normen voor contracteren en risicostandpunten van de organisatie vaststellen
+      - onderhandelingen over de meest waardevolle of riskante overeenkomsten leiden
+      - senior leiders adviseren over strategische commerciële afspraken, zoals partnerschappen en joint ventures
+legal-legal-advice:
+  name: Juridisch advies
+  description: Duidelijk, praktisch en nauwkeurig juridisch advies geven dat collega’s helpt rechtmatige beslissingen te nemen en juridisch risico te beheren.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen wanneer collega’s juridisch advies nodig hebben en hoe zij het krijgen
+      - duidelijke opdrachten opnemen en de feiten van een zaak vastleggen
+    working: |
+      U kunt:
+      - conceptadvies over routinezaken voorbereiden ter toetsing door een jurist
+      - eenvoudige vragen beantwoorden met goedgekeurde richtlijnen
+      - de juridische kwesties in een reeks feiten vaststellen
+    practitioner: |
+      U kunt:
+      - onafhankelijk juridisch advies geven op uw werkgebieden
+      - juridisch risico in begrijpelijke taal uitleggen en praktische opties aanbevelen
+      - adviseren over beslissingen met rechtsgevolg, zoals gunning van contracten, delen van data en wijzigingen van diensten
+      - beslissen wanneer externe juristen of advocaten worden ingeschakeld
+    expert: |
+      U kunt:
+      - het bestuur en de directie adviseren over de belangrijkste juridische risico’s van de organisatie
+      - definitief advies geven over nieuwe, omstreden of waardevolle zaken
+      - de bereidheid van de organisatie tot juridisch risico vaststellen
+      - de kwaliteit van juridisch advies in de hele organisatie borgen, ook extern advies
+legal-litigation-and-disputes:
+  name: Procederen en beslechten van geschillen
+  description: Geschillen en claims voorkomen, beheren en oplossen, inclusief contractgeschillen, claims uit het dienstverband en contact over claims wegens klinische nalatigheid.
+  levels:
+    awareness: |
+      U kunt:
+      - de belangrijkste fasen van een claim of geschil uitleggen
+      - claims registreren en deadlines nauwkeurig volgen
+    working: |
+      U kunt:
+      - documenten en bewijs voor een zaak verzamelen en ordenen
+      - chronologieën, dossiers en concepten van getuigenverklaringen voorbereiden
+      - bij routinezaken contact houden met externe juristen, verzekeraars of regelingen voor schadeloosstelling
+    practitioner: |
+      U kunt:
+      - een portefeuille van geschillen en claims beheren van eerste melding tot schikking of zitting
+      - de gegrondheid en waarde van claims beoordelen en een strategie aanbevelen
+      - schikkingen onderhandelen en alternatieve geschillenbeslechting gebruiken
+      - zorgen dat lessen uit claims doorstromen naar verbeteringen in veiligheid, contracten en diensten
+    expert: |
+      U kunt:
+      - de belangrijkste of meest prominente geschillen van de organisatie leiden
+      - de aanpak van de organisatie voor procederen, schikken en rapporteren van claims vaststellen
+      - het bestuur adviseren over voorwaardelijke verplichtingen en reputatierisico
+legal-information-and-data-law:
+  name: Informatie- en gegevensrecht
+  description: Wetgeving voor gegevensbescherming, vertrouwelijkheid, openbaarheid van informatie en cyberbeveiliging toepassen op data over gezondheid en zorg en digitale diensten.
+  levels:
+    awareness: |
+      U kunt:
+      - de basisbeginselen van gegevensbescherming en vertrouwelijkheid uitleggen
+      - verzoeken om informatie en datalekken herkennen en ze juist doorsturen
+    working: |
+      U kunt:
+      - overeenkomsten voor het delen en verwerken van data toetsen tegen sjablonen
+      - reacties op verzoeken om informatie en verzoeken om rechten van betrokkenen ondersteunen
+      - de rechtsgronden voor het gebruik van gezondheidsdata in veelvoorkomende situaties uitleggen
+    practitioner: |
+      U kunt:
+      - adviseren over gegevensbescherming, de plicht tot vertrouwelijkheid en wetgeving over toegang tot informatie voor digitale diensten
+      - overeenkomsten voor het delen van data en voorwaarden voor gegevensverwerking opstellen en onderhandelen, inclusief internationale doorgifte
+      - adviseren over beoordelingen van gevolgen voor gegevensbescherming voor nieuwe technologie, zoals AI en analyseplatforms
+      - adviseren over datalekken, vragen van toezichthouders en klachten
+    expert: |
+      U kunt:
+      - het juridische standpunt van de organisatie over het gebruik van data over gezondheid en zorg vaststellen
+      - het voortouw nemen bij nieuw gebruik van data of gebruik met hoog risico, zoals onderzoek, dataplatforms en AI
+      - de organisatie vertegenwoordigen bij toezichthouders over informatierecht
+legal-legal-administration:
+  name: Juridische administratie
+  description: De administratieve processen van een juridisch team uitvoeren, inclusief zaakbeheer, documentbeheer, dossiers, deadlines en facturering.
+  levels:
+    awareness: |
+      U kunt:
+      - zaken openen, bijwerken en sluiten in het systeem voor zaakbeheer
+      - juridische documenten veilig archiveren en opvragen
+      - juridische en persoonlijke informatie vertrouwelijk houden
+    working: |
+      U kunt:
+      - agenda’s, deadlines en belangrijke data voor een team beheren
+      - juridische documenten, dossiers en ondertekeningspakketten voorbereiden en opmaken
+      - facturen van externe juristen controleren en verwerken
+      - registers van contracten en akten beheren
+    practitioner: |
+      U kunt:
+      - de administratie van het juridische team uitvoeren en haar processen verbeteren
+      - rapporteren over werkbelasting, uitgaven aan externe juristen en doorlooptijden
+      - juridische technologie beheren, zoals zaakbeheer en instrumenten voor e-handtekeningen
+    expert: |
+      U kunt:
+      - het operationele model voor juridische operaties van de organisatie ontwerpen
+      - de keuze en het gebruik van juridische technologie leiden
+      - normen van dienstverlening en prestatiematen voor juridische diensten vaststellen
+legal-employment-law:
+  name: Arbeidsrecht
+  description: Arbeidsrecht toepassen op het beleid rond mensen, de contracten, veranderprogramma’s en arbeidsgeschillen van de organisatie.
+  levels:
+    awareness: |
+      U kunt:
+      - de belangrijkste rechten van personeel in het dienstverband uitleggen
+      - kwesties in het dienstverband herkennen die juridisch advies nodig hebben
+    working: |
+      U kunt:
+      - helpen documenten voor claims uit het dienstverband en hoorzittingen voor te bereiden
+      - arbeidscontracten en beleid toetsen tegen sjablonen
+    practitioner: |
+      U kunt:
+      - adviseren over zaken in het dienstverband, zoals ontslag, discriminatie, overdrachten van personeel en herstructurering
+      - claims uit het dienstverband beheren en schikkingsovereenkomsten onderhandelen
+      - adviseren over het gebruik van ingehuurde krachten en de arbeidsstatus van digitale specialisten
+    expert: |
+      U kunt:
+      - het bestuur adviseren over grote veranderingen in personeel en hun juridische risico’s
+      - prominente of complexe arbeidsgeschillen leiden
+      - beleid rond mensen vormgeven om te voldoen aan wettelijke plichten en goede praktijk
+legal-intellectual-property:
+  name: Intellectueel eigendom
+  description: Intellectueel eigendom in software, data, content en uitvindingen beschermen en gebruiken, inclusief auteursrecht, licenties, open source en merken.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen dat software, data en content worden beschermd door rechten van intellectueel eigendom
+      - herkennen wanneer een contract of project vragen over eigendom oproept
+    working: |
+      U kunt:
+      - bepalingen over intellectueel eigendom in routineovereenkomsten controleren
+      - registraties van licenties en geregistreerde rechten bijhouden
+      - de belangrijkste soorten open-sourcelicenties en hun voorwaarden uitleggen
+    practitioner: |
+      U kunt:
+      - adviseren over wie eigenaar is van software, data en content die door personeel, leveranciers en partners is gemaakt
+      - licenties en voorwaarden voor intellectueel eigendom opstellen, inclusief het vrijgeven van de code van de organisatie als open source
+      - adviseren over commercieel gebruik van de data en software van de organisatie en over het delen van baten
+    expert: |
+      U kunt:
+      - het beleid voor intellectueel eigendom en open source van de organisatie vaststellen
+      - het voortouw nemen bij commercialisering en partnerschappen met de data en software van de organisatie
+      - belangrijke geschillen over intellectueel eigendom oplossen
+legal-procurement-law:
+  name: Aanbestedingsrecht voor de overheid
+  description: Regels voor overheidsaanbesteding toepassen op het inkopen van goederen, diensten en technologie, van het kiezen van een route naar de markt tot gunning van het contract en bezwaar.
+  levels:
+    awareness: |
+      U kunt:
+      - uitleggen waarom publieke organen aanbestedingsregels moeten volgen
+      - herkennen wanneer inkoopactiviteit aanbesteding of juridisch advies nodig heeft
+    working: |
+      U kunt:
+      - aanbestedingsdocumenten controleren op consistentie en volledigheid
+      - het bijhouden van registraties ondersteunen dat nodig is om een eerlijk en transparant proces aan te tonen
+    practitioner: |
+      U kunt:
+      - adviseren over routes naar de markt, inclusief raamovereenkomsten, onderhandse gunningen en concurrerende procedures
+      - adviseren over beoordeling, gunningsbeslissingen en wijzigingen van contracten na gunning
+      - reageren op bezwaren en klachten van leveranciers
+      - adviseren over risico’s van staatssteun en mededinging in partnerschappen
+    expert: |
+      U kunt:
+      - de aanpak van de organisatie voor juridisch risico bij aanbesteding vaststellen
+      - het voortouw nemen bij aanbestedingen met hoge waarde of nieuwe aanbestedingen, zoals innovatiepartnerschappen
+      - belangrijke bezwaren tegen aanbestedingen verdedigen
+legal-health-and-care-law:
+  name: Gezondheids- en zorgrecht
+  description: Het recht toepassen dat diensten voor gezondheid en zorg bestuurt, inclusief toestemming, wilsbekwaamheid, klinische nalatigheid, regulering van diensten en producten en de wettelijke plichten van de organisatie.
+  levels:
+    awareness: |
+      U kunt:
+      - de belangrijkste wettelijke plichten en bevoegdheden van de organisatie uitleggen
+      - zaken herkennen die patiëntveiligheid, toestemming of klinische nalatigheid betreffen
+    working: |
+      U kunt:
+      - juridisch werk aan incidenten, doodsoorzaakonderzoeken of klinische claims ondersteunen
+      - het regelgevende kader uitleggen dat op de diensten van de organisatie van toepassing is
+    practitioner: |
+      U kunt:
+      - adviseren over de bevoegdheden en plichten van de organisatie, inclusief wanneer zij een dienst mag leveren of in opdracht geven
+      - adviseren over de regulering van digitale producten voor gezondheid, zoals software als medisch hulpmiddel
+      - contact houden met regelingen voor klinische nalatigheid en externe juristen over claims waarbij digitale diensten betrokken zijn
+      - adviseren over toestemming, wilsbekwaamheid en rechten van patiënten in digitale diensten
+    expert: |
+      U kunt:
+      - het bestuur adviseren over de wettelijke plichten en governance van de organisatie
+      - juridisch werk aan openbare onderzoeken, rechterlijke toetsingen en grote incidenten leiden
+      - de reactie van de organisatie op nieuw gezondheids- en zorgrecht vormgeven

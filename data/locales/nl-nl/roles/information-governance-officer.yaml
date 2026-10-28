@@ -1,0 +1,67 @@
+summary: Medewerkers informatiebeheer helpen de organisatie persoonsgegevens en gezondheidsinformatie rechtmatig, veilig en ethisch te verwerken. Zij adviseren teams over gegevensbescherming en vertrouwelijkheid, handelen verzoeken om informatierechten af, ondersteunen beoordelingen van gevolgen voor gegevensbescherming, beheren datalekken en verzamelen het bewijs dat toont dat de organisatie voldoet aan normen voor informatiebeheer.
+health_context:
+- De wetgeving voor gegevensbescherming geeft gezondheidsinformatie extra bescherming, dus de lat voor rechtmatig gebruik, beveiliging en transparantie ligt hoog.
+- Digitale diensten voor gezondheid delen vaak data over veel zorgorganisaties, dus overeenkomsten voor het delen van informatie en datastromen vragen zorgvuldige toetsing.
+- Patiënten en het publiek hebben wettelijke rechten op toegang tot hun dossiers en de informatie van de organisatie, met strikte termijnen.
+- Datalekken met gezondheidsinformatie kunnen echte schade en leed veroorzaken, dus incidenten vragen snelle, zorgvuldige afhandeling.
+- Nieuw gebruik van data, zoals analyse, onderzoek en AI, roept vragen op over toestemming, vertrouwelijkheid en publiek vertrouwen.
+levels:
+- title: Medewerker informatiebeheer
+  summary: Ondersteunt het team informatiebeheer bij verzoeken om informatierechten, registratie van incidenten, registraties van training en het verzamelen van bewijs, volgens vaste procedures.
+  responsibilities:
+  - Verzoeken om informatierechten registreren, bevestigen en volgen en informatie voor antwoorden verzamelen.
+  - Datalekken en bijna-incidenten registreren en de feiten voor toetsing verzamelen.
+  - Registers van informatiebeheer actueel houden, zoals het register van informatiebronnen en de kaart van datastromen.
+  - Bewijs verzamelen voor de jaarlijkse zelfbeoordeling informatiebeheer.
+  - Volgen of personeel de training in informatiebeheer heeft voltooid.
+  - Routinevragen van personeel over informatiebeheer beantwoorden.
+  qualifications:
+  - Ervaring met administratief werk of werk met dossiers, of een basiskwalificatie in gegevensbescherming, of gelijkwaardige ervaring.
+  job_evaluation_notes: Emotionele inspanning weerspiegelt regelmatige indirecte blootstelling aan schokkende inhoud in verzoeken, dossiers en meldingen van lekken.
+- title: Senior medewerker informatiebeheer
+  summary: Behandelt een portefeuille van verzoeken om informatierechten en incidenten en ondersteunt teams bij beoordelingen van gevolgen voor gegevensbescherming en het delen van informatie.
+  responsibilities:
+  - Verzoeken om informatierechten afhandelen, inclusief onleesbaar maken en toepassen van uitzonderingen, binnen wettelijke termijnen.
+  - Datalekken en bijna-incidenten beoordelen en onderzoeken en acties volgen tot afsluiting.
+  - Projectteams helpen beoordelingen van gevolgen voor gegevensbescherming te voltooien en datastromen te beschrijven.
+  - Overeenkomsten voor het delen van informatie en privacyverklaringen opstellen ter toetsing.
+  - Training en briefings over informatiebeheer geven aan personeel.
+  - Audits van toegang en het bijhouden van dossiers uitvoeren.
+  qualifications:
+  - Een erkende kwalificatie in gegevensbescherming of informatiebeheer, of gelijkwaardige ervaring.
+- title: Lead informatiebeheer
+  summary: Geeft deskundig advies over informatiebeheer aan een directoraat of programma en leidt beoordelingen van gevolgen voor gegevensbescherming en complexe zaken.
+  responsibilities:
+  - Productteams en diensten adviseren over rechtsgrond, toestemming, vertrouwelijkheid en bewaring.
+  - Beoordelingen van gevolgen voor gegevensbescherming voor complexe systemen toetsen en beheersmaatregelen aanbevelen.
+  - Complexe of omstreden verzoeken om informatierechten en interne toetsingen afhandelen.
+  - Ernstige datalekken onderzoeken en aanbevelen of toezichthouders moeten worden geïnformeerd.
+  - Overeenkomsten voor het delen van informatie met partnerorganisaties toetsen.
+  - Medewerkers informatiebeheer begeleiden en coachen.
+  qualifications:
+  - Een erkende professionele kwalificatie in gegevensbescherming of informatiebeheer, of gelijkwaardige ervaring.
+  - Ervaring met het adviseren over gegevensbescherming in een omgeving van gezondheid of zorg.
+- title: Manager informatiebeheer
+  summary: Beheert dagelijks de dienst informatiebeheer, inclusief haar team, zaken, programma voor borging en training.
+  responsibilities:
+  - Het team informatiebeheer en zijn zaken beheren en zorgen dat wettelijke termijnen worden gehaald.
+  - Het programma voor borging van informatiebeheer en de jaarlijkse zelfbeoordeling plannen en uitvoeren.
+  - Beleid en procedures voor informatiebeheer schrijven en toetsen.
+  - Senior managers adviseren over informatierisico’s en het register van informatierisico’s bijhouden.
+  - De reactie op ernstige incidenten leiden, samen met collega’s van beveiliging, klinische veiligheid en communicatie.
+  - Training in informatiebeheer voor al het personeel ontwerpen en begeleiden.
+  qualifications:
+  - Een erkende professionele kwalificatie in gegevensbescherming of informatiebeheer, of gelijkwaardige ervaring.
+  - Aanzienlijke ervaring met informatiebeheer in gezondheid of zorg.
+- title: Hoofd informatiebeheer
+  summary: Leidt informatiebeheer voor de organisatie, stelt haar beleid en strategie vast en adviseert senior leiders over informatierisico en naleving.
+  responsibilities:
+  - De strategie, het beleid en het kader voor informatiebeheer van de organisatie vaststellen.
+  - De diensten voor informatiebeheer en dossiers leiden en hun personeel ontwikkelen.
+  - De directeur die verantwoordelijk is voor informatierisico, het bestuur en zijn commissies adviseren over informatierisico en naleving.
+  - De definitieve beslissingen nemen over complexe vragen over openbaarmaking, delen en melding van datalekken.
+  - De organisatie vertegenwoordigen bij toezichthouders, auditors en partnerorganisaties.
+  - Zorgen dat nieuwe digitale diensten, gebruik van data en AI vanaf het begin met privacy en transparantie worden ontworpen.
+  qualifications:
+  - Een erkende professionele kwalificatie in gegevensbescherming of informatiebeheer, of gelijkwaardige ervaring.
+  - Uitgebreide ervaring met het leiden van informatiebeheer in gezondheid of zorg.

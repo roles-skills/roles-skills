@@ -19,7 +19,7 @@
 | [ICT project manager](http://data.europa.eu/esco/occupation/8b6388a4-4904-471b-9331-d3b1211f5525) | 1330 | [Delivery manager](../roles/delivery-manager/), [Project manager](../roles/project-manager/) |
 | [ICT quality assurance manager](http://data.europa.eu/esco/occupation/a28dff76-74df-46ee-929f-d1fffbb63cd7) | 2519 | [Test manager](../roles/test-manager/) |
 | [ICT security administrator](http://data.europa.eu/esco/occupation/0464b062-cea6-4164-b10d-956c61956ae7) | 2529 | [Security engineer](../roles/security-engineer/) |
-| [ICT security technician](http://data.europa.eu/esco/occupation/a44a1dc5-be08-4840-8bd5-770c4ac1ca6d) | 3512 | [Security operations analyst](../roles/security-operations-analyst/) |
+| [ICT security technician](http://data.europa.eu/esco/occupation/a44a1dc5-be08-4840-8bd5-770c4ac1ca6d) | 3512 | [Security operations analyst](../roles/security-analyst/) |
 | [ICT system administrator](http://data.europa.eu/esco/occupation/9e2e6e1e-363b-4e1b-a673-7bc0f7343300) | 2522 | [Infrastructure engineer](../roles/infrastructure-engineer/), [Application operations engineer](../roles/application-operations-engineer/) |
 | [ICT system architect](http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae) | 2511 | [Solution architect](../roles/solution-architect/), [Security architect](../roles/security-architect/) |
 | [ICT technician](http://data.europa.eu/esco/occupation/3e7bf729-4442-4b9f-ad5e-83111963795c) | 3512 | [End user computing engineer](../roles/end-user-computing-engineer/) |
@@ -44,7 +44,7 @@
 | [corporate risk manager](http://data.europa.eu/esco/occupation/b09acdda-6680-49d1-a411-129610ee3bc0) | 2412 | [Governance and risk manager](../roles/governance-and-risk-manager/) |
 | [corporate trainer](http://data.europa.eu/esco/occupation/0ba06640-e0ac-4911-9e43-289a8e41651e) | 2424 | [Learning and development specialist](../roles/learning-and-development-specialist/) |
 | [corporate training manager](http://data.europa.eu/esco/occupation/a14e96a7-6c4d-4d69-8c6f-7ccadf77bac5) | 1212 | [Learning and development specialist](../roles/learning-and-development-specialist/) |
-| [cyber incident responder](http://data.europa.eu/esco/occupation/0ce5a9f4-e00a-4bbe-b255-3c63407167a4) | 2529 | [Security operations analyst](../roles/security-operations-analyst/) |
+| [cyber incident responder](http://data.europa.eu/esco/occupation/0ce5a9f4-e00a-4bbe-b255-3c63407167a4) | 2529 | [Security operations analyst](../roles/security-analyst/) |
 | [cybersecurity risk manager](http://data.europa.eu/esco/occupation/7754d570-9519-48c2-b1c9-8e165f8bca0f) | 2529 | [Security architect](../roles/security-architect/), [Cyber security manager](../roles/cyber-security-manager/) |
 | [data analyst](http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2) | 2511 | [Data analyst](../roles/data-analyst/), [Performance analyst](../roles/performance-analyst/) |
 | [data engineer](http://data.europa.eu/esco/occupation/2079755f-d809-49e6-8037-4de6180e54c0) | 2511 | [Data engineer](../roles/data-engineer/), [Analytics engineer](../roles/analytics-engineer/) |
@@ -54,29 +54,29 @@
 | [data warehouse designer](http://data.europa.eu/esco/occupation/1562c7a3-c7d9-419d-b9b6-db26610bcf84) | 2521 | [Data architect](../roles/data-architect/) |
 | [database administrator](http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc) | 2521 | [Application operations engineer](../roles/application-operations-engineer/) |
 | [database designer](http://data.europa.eu/esco/occupation/8d9ec84d-cf2d-4179-87bc-335cda54a427) | 2521 | [Data architect](../roles/data-architect/) |
-| [database developer](http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d) | 2521 | [Integration engineer (health interoperability)](../roles/integration-engineer-health-interoperability/) |
+| [database developer](http://data.europa.eu/esco/occupation/b11e1742-5e28-4270-b081-b0193d85ee7d) | 2521 | [Integration engineer (health interoperability)](../roles/integration-engineer/) |
 | [document management officer](http://data.europa.eu/esco/occupation/ef5b17a5-3ca8-4965-bd3d-61c4aca490d1) | 1349 | [Information governance officer](../roles/information-governance-officer/) |
 | [enterprise architect](http://data.europa.eu/esco/occupation/2bef94db-0088-4507-982a-2ca717529adb) | 2511 | [Enterprise architect](../roles/enterprise-architect/), [Business architect](../roles/business-architect/) |
 | [executive assistant](http://data.europa.eu/esco/occupation/2a04a1df-a3b9-403e-a245-e7f93fdddd44) | 3343 | [Executive assistant](../roles/executive-assistant/) |
 | [financial controller](http://data.europa.eu/esco/occupation/5e5b1b61-1351-4d3b-a293-deb3661715dd) | 2411 | [Head of finance](../roles/head-of-finance/) |
 | [financial manager](http://data.europa.eu/esco/occupation/30f3ea93-882a-4525-841c-1d5b4b64076f) | 1211 | [Head of finance](../roles/head-of-finance/) |
-| [human resources assistant](http://data.europa.eu/esco/occupation/d8ed1703-9c03-4ea0-83cc-b6169bc54ffd) | 4416 | [Human resources officer](../roles/human-resources-officer/) |
-| [human resources manager](http://data.europa.eu/esco/occupation/f605bcd2-90b6-45a0-a558-d05016d68a77) | 1212 | [Human resources business partner](../roles/human-resources-business-partner/), [Head of people](../roles/head-of-people/) |
-| [human resources officer](http://data.europa.eu/esco/occupation/d3e32e5e-7f24-48e3-b939-e4f800eb62fb) | 2423 | [Human resources officer](../roles/human-resources-officer/), [Human resources business partner](../roles/human-resources-business-partner/) |
-| [integration engineer](http://data.europa.eu/esco/occupation/07e60525-1aad-4099-aaf3-2c7014c92212) | 2511 | [Integration engineer (health interoperability)](../roles/integration-engineer-health-interoperability/) |
-| [lawyer](http://data.europa.eu/esco/occupation/974d4eab-fbee-4c52-b16e-73bdd8c25b53) | 2611 | [Legal adviser](../roles/legal-adviser/), [Head of legal services](../roles/head-of-legal-services/) |
+| [human resources assistant](http://data.europa.eu/esco/occupation/d8ed1703-9c03-4ea0-83cc-b6169bc54ffd) | 4416 | [Human resources officer](../roles/hr-officer/) |
+| [human resources manager](http://data.europa.eu/esco/occupation/f605bcd2-90b6-45a0-a558-d05016d68a77) | 1212 | [Human resources business partner](../roles/hr-business-partner/), [Head of people](../roles/head-of-people/) |
+| [human resources officer](http://data.europa.eu/esco/occupation/d3e32e5e-7f24-48e3-b939-e4f800eb62fb) | 2423 | [Human resources officer](../roles/hr-officer/), [Human resources business partner](../roles/hr-business-partner/) |
+| [integration engineer](http://data.europa.eu/esco/occupation/07e60525-1aad-4099-aaf3-2c7014c92212) | 2511 | [Integration engineer (health interoperability)](../roles/integration-engineer/) |
+| [lawyer](http://data.europa.eu/esco/occupation/974d4eab-fbee-4c52-b16e-73bdd8c25b53) | 2611 | [Legal adviser](../roles/legal-adviser/), [Head of legal services](../roles/head-of-legal/) |
 | [legal administrative assistant](http://data.europa.eu/esco/occupation/0264b794-3771-47aa-a675-78bf13b62ee7) | 3342 | [Legal assistant](../roles/legal-assistant/) |
 | [legal assistant](http://data.europa.eu/esco/occupation/929ef41d-afd0-4d5a-b85b-69eab68fa368) | 3411 | [Legal assistant](../roles/legal-assistant/) |
-| [legal consultant](http://data.europa.eu/esco/occupation/31854d78-3615-43a4-aa3a-c597ecb20ceb) | 2619 | [Head of legal services](../roles/head-of-legal-services/) |
-| [medical records clerk](http://data.europa.eu/esco/occupation/14eb2c85-fce5-40b6-bcd0-46ac99994b0d) | 3252 | [Health records officer](../roles/health-records-officer/) |
-| [medical records manager](http://data.europa.eu/esco/occupation/983c2816-a339-4817-97f4-151a9ff3e64d) | 3252 | [Health records officer](../roles/health-records-officer/) |
+| [legal consultant](http://data.europa.eu/esco/occupation/31854d78-3615-43a4-aa3a-c597ecb20ceb) | 2619 | [Head of legal services](../roles/head-of-legal/) |
+| [medical records clerk](http://data.europa.eu/esco/occupation/14eb2c85-fce5-40b6-bcd0-46ac99994b0d) | 3252 | [Health records officer](../roles/records-officer/) |
+| [medical records manager](http://data.europa.eu/esco/occupation/983c2816-a339-4817-97f4-151a9ff3e64d) | 3252 | [Health records officer](../roles/records-officer/) |
 | [office clerk](http://data.europa.eu/esco/occupation/6c999fc7-c6b7-4ef3-a4b9-af124a1783a2) | 4110 | [Administrator](../roles/administrator/) |
 | [payroll clerk](http://data.europa.eu/esco/occupation/ade351da-7bda-424e-8682-bbdcab2a25be) | 4313 | [Payroll officer](../roles/payroll-officer/) |
 | [procurement category specialist](http://data.europa.eu/esco/occupation/0561328b-875b-4ae2-9ba1-9af9049aef01) | 2422 | [Category manager](../roles/category-manager/) |
 | [procurement department manager](http://data.europa.eu/esco/occupation/91f93dc4-1b71-4053-b6fb-c579ec19303a) | 1213 | [Head of procurement](../roles/head-of-procurement/) |
 | [procurement support officer](http://data.europa.eu/esco/occupation/c9b2b0a7-0adc-4ca7-bf7c-dc95e18aeac7) | 3343 | [Procurement officer](../roles/procurement-officer/) |
 | [product manager](http://data.europa.eu/esco/occupation/9f508305-80ce-4111-8722-f2c9b4a44890) | 1223 | [Product manager](../roles/product-manager/) |
-| [programme manager](http://data.europa.eu/esco/occupation/c94f3565-d987-431f-a46b-6f4e018e0bd7) | 1213 | [Programme delivery manager](../roles/programme-delivery-manager/), [Digital portfolio manager](../roles/digital-portfolio-manager/) |
+| [programme manager](http://data.europa.eu/esco/occupation/c94f3565-d987-431f-a46b-6f4e018e0bd7) | 1213 | [Program delivery manager](../roles/programme-delivery-manager/), [Digital portfolio manager](../roles/digital-portfolio-manager/) |
 | [project manager](http://data.europa.eu/esco/occupation/bea99fea-0383-4c63-b944-70d4799de2c5) | 1219 | [Project manager](../roles/project-manager/) |
 | [project support officer](http://data.europa.eu/esco/occupation/5ccb2c34-e860-43a5-9869-342487518115) | 3343 | [Project support officer](../roles/project-support-officer/) |
 | [public finance accountant](http://data.europa.eu/esco/occupation/78db356f-a96a-4456-ab29-2de62e52f830) | 2411 | [Financial accountant](../roles/financial-accountant/) |
@@ -99,5 +99,5 @@
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

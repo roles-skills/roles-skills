@@ -1,0 +1,67 @@
+summary: Starfsfólk upplýsingastjórnunar hjálpar stofnuninni að meðhöndla persónuupplýsingar og heilbrigðisupplýsingar á lögmætan, öruggan og siðferðilegan hátt. Það ráðleggur teymum um persónuvernd og trúnað, afgreiðir beiðnir um upplýsingarétt, styður persónuverndarmat, stýrir gagnabrotum og safnar gögnum sem sýna að stofnunin uppfylli staðla um upplýsingastjórnun.
+health_context:
+- Persónuverndarlög veita heilbrigðisupplýsingum aukna vernd, svo kröfur um lögmæta notkun, öryggi og gagnsæi eru háar.
+- Stafræn heilbrigðisþjónusta miðlar oft gögnum þvert á margar umönnunarstofnanir, svo upplýsingamiðlunarsamningar og gagnaflæði þurfa vandaða yfirferð.
+- Sjúklingar og almenningur eiga lagalegan rétt til aðgangs að skrám sínum og upplýsingum stofnunarinnar, með ströngum tímamörkum.
+- Gagnabrot sem varða heilbrigðisupplýsingar geta valdið raunverulegum skaða og vanlíðan, svo atvik krefjast skjótrar og vandaðrar meðhöndlunar.
+- Ný notkun gagna, svo sem greining, rannsóknir og gervigreind, vekur spurningar um samþykki, trúnað og traust almennings.
+levels:
+- title: Fulltrúi upplýsingastjórnunar
+  summary: Styður upplýsingastjórnunarteymið við beiðnir um upplýsingarétt, skráningu atvika, þjálfunarskrár og gagnaöflun, samkvæmt föstu verklagi.
+  responsibilities:
+  - Skrá, staðfesta móttöku og fylgjast með beiðnum um upplýsingarétt og afla upplýsinga fyrir svör.
+  - Skrá gagnabrot og næstum því atvik og afla staðreynda til yfirferðar.
+  - Halda skrám upplýsingastjórnunar uppfærðum, svo sem upplýsingaeignaskrá og gagnaflæðiskorti.
+  - Safna gögnum fyrir árlegt sjálfsmat í upplýsingastjórnun.
+  - Fylgjast með því hvort starfsfólk hafi lokið þjálfun í upplýsingastjórnun.
+  - Svara hversdagslegum spurningum starfsfólks um upplýsingastjórnun.
+  qualifications:
+  - Reynsla af umsýslu- eða skjalavinnu, eða grunnmenntun í persónuvernd eða sambærileg reynsla.
+  job_evaluation_notes: Tilfinningalegt erfiði endurspeglar tíða óbeina útsetningu fyrir átakanlegu efni í beiðnum, skrám og brotaskýrslum.
+- title: Eldri fulltrúi upplýsingastjórnunar
+  summary: Annast málaskrá beiðna um upplýsingarétt og atvik og styður teymi með persónuverndarmat og upplýsingamiðlun.
+  responsibilities:
+  - Afgreiða beiðnir um upplýsingarétt, þar á meðal yfirstrikun og beitingu undanþága, innan lögbundinna tímamarka.
+  - Meta og rannsaka gagnabrot og næstum því atvik og fylgjast með aðgerðum til lokunar.
+  - Hjálpa verkefnateymum að ljúka persónuverndarmati og lýsa gagnaflæði.
+  - Semja drög að upplýsingamiðlunarsamningum og persónuverndartilkynningum til yfirferðar.
+  - Halda þjálfun og kynningar í upplýsingastjórnun fyrir starfsfólk.
+  - Framkvæma úttektir á aðgangi og skjalahaldi.
+  qualifications:
+  - Viðurkennd menntun í persónuvernd eða upplýsingastjórnun, eða sambærileg reynsla.
+- title: Leiðtogi upplýsingastjórnunar
+  summary: Veitir sviði eða áætlun sérfræðiráðgjöf í upplýsingastjórnun og stýrir persónuverndarmati og flóknum málum.
+  responsibilities:
+  - Ráðleggja vöruteymum og þjónustu um lagalegan grundvöll, samþykki, trúnað og varðveislu.
+  - Fara yfir persónuverndarmat fyrir flókin kerfi og leggja til stýringar.
+  - Afgreiða flóknar eða umdeildar beiðnir um upplýsingarétt og innri yfirferðir.
+  - Rannsaka alvarleg gagnabrot og leggja til hvort tilkynna eigi eftirlitsaðilum.
+  - Fara yfir upplýsingamiðlunarsamninga við samstarfsstofnanir.
+  - Hafa umsjón með og leiðbeina fulltrúum upplýsingastjórnunar.
+  qualifications:
+  - Viðurkennd fagmenntun í persónuvernd eða upplýsingastjórnun, eða sambærileg reynsla.
+  - Reynsla af ráðgjöf um persónuvernd í heilbrigðis- eða velferðarumhverfi.
+- title: Stjórnandi upplýsingastjórnunar
+  summary: Stýrir upplýsingastjórnunarþjónustunni dag frá degi, þar á meðal teymi hennar, málavinnu, fullvissuáætlun og þjálfun.
+  responsibilities:
+  - Stýra upplýsingastjórnunarteyminu og málavinnu þess og tryggja að lögbundin tímamörk séu virt.
+  - Skipuleggja og stýra fullvissuáætlun upplýsingastjórnunar og árlegu sjálfsmati.
+  - Skrifa og yfirfara stefnur og verklag í upplýsingastjórnun.
+  - Ráðleggja æðri stjórnendum um upplýsingaáhættu og halda upplýsingaáhættuskránni.
+  - Stýra viðbrögðum við alvarlegum atvikum, í samstarfi við samstarfsfólk í öryggi, klínísku öryggi og samskiptum.
+  - Hanna og hafa umsjón með þjálfun í upplýsingastjórnun fyrir allt starfsfólk.
+  qualifications:
+  - Viðurkennd fagmenntun í persónuvernd eða upplýsingastjórnun, eða sambærileg reynsla.
+  - Mikil reynsla af upplýsingastjórnun í heilbrigðis- eða velferðarþjónustu.
+- title: Yfirmaður upplýsingastjórnunar
+  summary: Stýrir upplýsingastjórnun stofnunarinnar, mótar stefnu hennar og áætlun og ráðleggur æðri leiðtogum um upplýsingaáhættu og fylgni.
+  responsibilities:
+  - Móta stefnu, reglur og ramma upplýsingastjórnunar fyrir stofnunina.
+  - Stýra upplýsingastjórnunar- og skjalaþjónustu og þróa starfsfólk hennar.
+  - Ráðleggja framkvæmdaábyrgðaraðila upplýsingaáhættu, stjórn og nefndum hennar um upplýsingaáhættu og fylgni.
+  - Taka lokaákvarðanir í flóknum spurningum um miðlun, afhjúpun og tilkynningar um brot.
+  - Vera fulltrúi stofnunarinnar gagnvart eftirlitsaðilum, endurskoðendum og samstarfsstofnunum.
+  - Tryggja að ný stafræn þjónusta, ný notkun gagna og gervigreind séu hönnuð með friðhelgi og gagnsæi frá byrjun.
+  qualifications:
+  - Viðurkennd fagmenntun í persónuvernd eða upplýsingastjórnun, eða sambærileg reynsla.
+  - Umfangsmikil reynsla af forystu í upplýsingastjórnun í heilbrigðis- eða velferðarþjónustu.

@@ -1,0 +1,55 @@
+summary: Nhân viên hồ sơ y tế bảo đảm hồ sơ bệnh nhân và hồ sơ doanh nghiệp được tạo, lưu trữ, theo dõi, truy xuất và hủy đúng cách, dù ở dạng giấy hay trong hệ thống số. Họ giữ cho hồ sơ sẵn sàng phục vụ chăm sóc, bảo vệ chúng khỏi bị mất và truy cập trái phép, và hỗ trợ việc chuyển từ hồ sơ giấy sang hồ sơ số.
+health_context:
+- Hồ sơ bệnh nhân phải sẵn sàng khi bác sĩ lâm sàng cần, nên sự chậm trễ hoặc mất hồ sơ có thể ảnh hưởng trực tiếp đến việc chăm sóc.
+- Hồ sơ chứa thông tin rất bí mật, nên nhân viên tuân theo các quy tắc bảo mật và truy cập nghiêm ngặt và có thể thường xuyên đọc nội dung gây đau buồn.
+- Hầu hết các tổ chức nắm giữ cả hồ sơ giấy và hồ sơ số, nên vai trò bao gồm quét, lập chỉ mục và quản lý hồ sơ kết hợp.
+- Hồ sơ phải được giữ trong những khoảng thời gian nhất định theo lịch trình lưu giữ rồi lưu trữ hoặc hủy an toàn, kèm dấu vết kiểm toán.
+- Các nhóm hồ sơ thường xử lý các yêu cầu tiếp cận hồ sơ y tế, vốn có thời hạn theo luật định.
+levels:
+- title: Trợ lý hồ sơ
+  summary: Lưu trữ, truy xuất, theo dõi, quét và chuẩn bị hồ sơ, theo các quy trình đã định với sự giám sát ở gần.
+  responsibilities:
+  - Lưu trữ, truy xuất và theo dõi hồ sơ giấy, và chuẩn bị chúng cho các phòng khám và yêu cầu.
+  - Quét và lập chỉ mục hồ sơ vào hệ thống hồ sơ điện tử, kiểm tra chất lượng.
+  - Nhập và cập nhật chính xác chi tiết hồ sơ trong các hệ thống theo dõi.
+  - Giữ an toàn cho hồ sơ và báo cáo ngay mọi hồ sơ bị mất hoặc vi phạm.
+  - Di chuyển và lưu trữ hồ sơ an toàn, kể cả các thùng và xe đẩy hồ sơ bệnh án.
+  qualifications:
+  - Có kỹ năng đọc viết, tính toán và gõ bàn phím tốt.
+  job_evaluation_notes: Kỹ năng thể chất được chấm ở mức 3 cho việc quét và nhập dữ liệu nhanh, chính xác. Nỗ lực thể chất phản ánh việc thường xuyên di chuyển hồ sơ.
+- title: Cán bộ hồ sơ y tế
+  summary: Xử lý nhiều quy trình hồ sơ, một số không thường lệ, như truy tìm hồ sơ thất lạc, chuẩn bị hồ sơ cho các yêu cầu tiếp cận và áp dụng lịch trình lưu giữ.
+  responsibilities:
+  - Truy tìm hồ sơ thất lạc và giải quyết các vấn đề theo dõi.
+  - Chuẩn bị hồ sơ cho các yêu cầu tiếp cận, kiểm tra chúng đầy đủ trước khi rà soát.
+  - Áp dụng lịch trình lưu giữ và chuẩn bị hồ sơ để lưu trữ hoặc hủy an toàn.
+  - Kiểm tra chất lượng hồ sơ đã quét và sửa lỗi lập chỉ mục.
+  - Trả lời các thắc mắc của bác sĩ lâm sàng, nhân viên chăm sóc và bệnh nhân về hồ sơ.
+  - Hướng dẫn các trợ lý hồ sơ mới cách tuân theo quy trình.
+  qualifications:
+  - Có kinh nghiệm làm công việc hồ sơ hoặc hành chính, hoặc bằng cấp mức 3 về hành chính doanh nghiệp hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Nỗ lực cảm xúc phản ánh việc thường xuyên tiếp xúc gián tiếp với nội dung gây đau buồn trong hồ sơ y tế.
+- title: Cán bộ hồ sơ y tế cao cấp
+  summary: Giám sát hằng ngày một nhóm hồ sơ và vận hành các quy trình hồ sơ như yêu cầu tiếp cận, kiểm toán và rà soát lưu giữ.
+  responsibilities:
+  - Giám sát hằng ngày nhân viên hồ sơ, phân công công việc và kiểm tra chất lượng.
+  - Xử lý các yêu cầu tiếp cận hồ sơ y tế trong thời hạn luật định, dưới sự hướng dẫn của các đồng nghiệp quản trị thông tin.
+  - Thực hiện kiểm toán lưu trữ hồ sơ và theo dõi, và báo cáo kết quả.
+  - Giữ cho việc theo dõi hồ sơ và các hệ thống hồ sơ điện tử chính xác và cập nhật.
+  - Đào tạo nhân viên về quy trình hồ sơ và bảo mật.
+  - Điều tra hồ sơ thất lạc và các sự cố khác, và đề xuất cải tiến.
+  qualifications:
+  - Có kinh nghiệm dày dặn về công việc hồ sơ y tế, hoặc bằng cấp liên quan ở mức cao đẳng hoặc kinh nghiệm tương đương.
+- title: Quản lý hồ sơ y tế
+  summary: Quản lý dịch vụ hồ sơ y tế, nhân viên, hệ thống và quy trình của dịch vụ, và dẫn dắt cải tiến, gồm việc chuyển từ hồ sơ giấy sang hồ sơ số.
+  responsibilities:
+  - Quản lý dịch vụ hồ sơ y tế, nhân viên và hiệu quả của dịch vụ.
+  - Viết và duy trì các quy trình hồ sơ, theo chính sách và tiêu chuẩn quản lý hồ sơ.
+  - Quản lý việc theo dõi hồ sơ và các hệ thống hồ sơ điện tử cho nhiều dịch vụ.
+  - Dẫn dắt các dự án quét và số hóa và việc chuyển sang hồ sơ số.
+  - Vận hành chương trình lưu giữ và hủy hồ sơ cùng các cuộc kiểm toán hồ sơ.
+  - Tư vấn cho bác sĩ lâm sàng, quản lý và các đồng nghiệp quản trị thông tin về quản lý hồ sơ.
+  qualifications:
+  - Có bằng đại học hoặc bằng cấp nghề nghiệp về quản lý hồ sơ hoặc thông tin, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm giám sát một nhóm hồ sơ.
+  job_evaluation_notes: Nguồn lực thông tin được chấm ở mức 5 vì vận hành các hệ thống hồ sơ cho nhiều dịch vụ là nhiệm vụ chính.

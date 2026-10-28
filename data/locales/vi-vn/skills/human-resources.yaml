@@ -1,0 +1,298 @@
+# Bản dịch tiếng Việt của data/skills/human-resources.yaml. Khóa là mã kỹ năng tiếng Anh.
+hr-hr-administration:
+  name: Hành chính nhân sự
+  description: Vận hành chính xác và bảo mật các quy trình hành chính của vòng đời lao động, từ hợp đồng và nhân viên mới đến thay đổi, hồ sơ nghỉ phép và nhân viên nghỉ việc.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - tuân theo các quy trình của tổ chức đối với nhân viên mới, thay đổi và nhân viên nghỉ việc
+      - giữ bí mật và cập nhật hồ sơ cá nhân
+    working: |
+      Bạn có thể:
+      - lập chính xác hợp đồng, thư điều chỉnh và các kiểm tra việc làm
+      - xử lý các thay đổi trong hệ thống nhân sự và tiền lương đúng thời hạn
+      - trả lời các câu hỏi thường lệ của quản lý và nhân viên về các quy trình nhân sự
+    practitioner: |
+      Bạn có thể:
+      - vận hành một dịch vụ hành chính nhân sự, kiểm tra chất lượng và đáp ứng các tiêu chuẩn dịch vụ
+      - cải thiện quy trình và mẫu, và tự động hóa các bước thường lệ khi có thể
+      - giải quyết các trường hợp phức tạp hoặc bất thường, như trả thừa lương hoặc sai sót hợp đồng
+    expert: |
+      Bạn có thể:
+      - thiết kế mô hình vận hành nhân sự và các tiêu chuẩn dịch vụ cho tổ chức
+      - dẫn dắt việc chuyển sang các quy trình nhân sự số, tự phục vụ
+      - đề ra các kiểm soát giữ cho dữ liệu nhân sự và tiền lương chính xác và hợp pháp
+hr-employment-policy:
+  name: Luật lao động và chính sách nhân sự
+  description: Áp dụng luật lao động, đồng thời viết, diễn giải và rà soát các chính sách nhân sự của tổ chức để nhân viên được đối xử hợp pháp, công bằng và nhất quán.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các chính sách nhân sự chính và nơi tìm chúng
+      - nhận biết khi một câu hỏi cần tư vấn từ một chuyên viên tư vấn nhân sự
+    working: |
+      Bạn có thể:
+      - áp dụng các chính sách nhân sự cho các trường hợp thường lệ và giải thích chúng cho các quản lý
+      - xác định các nguyên tắc luật lao động đằng sau một chính sách
+      - lưu giữ hồ sơ chính sách và theo dõi ngày rà soát chính sách
+    practitioner: |
+      Bạn có thể:
+      - diễn giải luật lao động và chính sách cho các trường hợp phức tạp và tư vấn về rủi ro
+      - soạn thảo và rà soát các chính sách nhân sự, kèm đánh giá tác động về bình đẳng
+      - tham vấn đại diện nhân viên về các thay đổi chính sách
+    expert: |
+      Bạn có thể:
+      - đề ra khung chính sách nhân sự và cách tiếp cận rủi ro pháp lý của tổ chức
+      - dự đoán các thay đổi của luật lao động và lập kế hoạch ứng phó cho tổ chức
+      - tư vấn cho hội đồng về rủi ro và trách nhiệm pháp lý trong lao động
+hr-employee-relations:
+  name: Xử lý vụ việc quan hệ lao động
+  description: Quản lý các vụ việc quan hệ lao động chính thức và không chính thức, như hành vi, năng lực, khiếu nại, chuyên cần và phẩm giá nơi làm việc, một cách công bằng, theo chính sách và luật lao động.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các giai đoạn chính của thủ tục về hành vi, năng lực, khiếu nại và chuyên cần
+      - ghi chép chính xác tại các cuộc họp chính thức và giữ bí mật hồ sơ vụ việc
+    working: |
+      Bạn có thể:
+      - tư vấn cho các quản lý về các vụ việc đơn giản và bước tiếp theo trong một thủ tục
+      - hỗ trợ các cuộc điều tra, lập hồ sơ vụ việc và sắp xếp các phiên xem xét
+      - làm việc mang tính xây dựng với đại diện nhân viên về các vụ việc cá nhân
+    practitioner: |
+      Bạn có thể:
+      - quản lý một khối lượng các vụ việc phức tạp, tư vấn cho hội đồng xem xét về các kết quả công bằng
+      - thực hiện hoặc dẫn dắt các cuộc điều tra, kể cả những cuộc liên quan đến sự cố hoặc bảo vệ an toàn
+      - dùng giải quyết sớm và hòa giải để dàn xếp tranh chấp trước khi chúng leo thang
+      - phát hiện các xu hướng trong các vụ việc và xử lý nguyên nhân của chúng
+    expert: |
+      Bạn có thể:
+      - dẫn dắt cách tiếp cận của tổ chức đối với quan hệ lao động và làm việc theo quan hệ đối tác
+      - xử lý các vụ việc nhạy cảm nhất hoặc rủi ro cao nhất, kể cả khiếu kiện lao động
+      - đàm phán các thỏa ước tập thể và giải quyết các tranh chấp tập thể
+hr-recruitment-and-selection:
+  name: Tuyển dụng và tuyển chọn
+  description: Thu hút, đánh giá và bổ nhiệm con người một cách công bằng và hiệu quả, từ thiết kế công việc và đăng tuyển đến lập danh sách rút gọn, đánh giá, đề nghị nhận việc và các kiểm tra trước khi tuyển dụng.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các giai đoạn của quy trình tuyển dụng của tổ chức
+      - tuân theo các quy tắc tuyển dụng công bằng và an toàn, kể cả các kiểm tra trước khi tuyển dụng
+    working: |
+      Bạn có thể:
+      - vận hành các đợt tuyển dụng qua hệ thống theo dõi ứng viên
+      - hỗ trợ các quản lý về tin tuyển dụng, lập danh sách rút gọn và sắp xếp phỏng vấn
+      - hoàn thành các kiểm tra trước khi tuyển dụng và đưa ra đề nghị có điều kiện
+    practitioner: |
+      Bạn có thể:
+      - tư vấn cho các quản lý về thiết kế công việc, phương pháp tuyển chọn và đánh giá công bằng
+      - thiết kế các bài đánh giá cho các vai trò chuyên môn, như bài tập kỹ thuật cho các vai trò số
+      - phân tích dữ liệu tuyển dụng để cải thiện thời gian tuyển, chất lượng và sự đa dạng
+      - quản lý trải nghiệm của ứng viên và thương hiệu nhà tuyển dụng
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược tuyển dụng và tiêu chuẩn dịch vụ của tổ chức
+      - dẫn dắt việc lựa chọn và sử dụng công nghệ tuyển dụng và các công ty trung gian
+      - bảo đảm việc tuyển dụng mang tính hòa nhập và hợp pháp trong toàn tổ chức
+hr-talent-attraction:
+  name: Thu hút và tìm kiếm nhân tài
+  description: Tìm kiếm và thu hút những người có kỹ năng khan hiếm, như chuyên gia kỹ thuật số, dữ liệu và công nghệ, thông qua thương hiệu nhà tuyển dụng, tìm kiếm trực tiếp, mạng lưới và các con đường dành cho người mới vào nghề.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích những kỹ năng nào khó tuyển và vì sao
+      - chia sẻ tin tuyển dụng qua các kênh và mạng lưới của tổ chức
+    working: |
+      Bạn có thể:
+      - viết tin tuyển dụng hấp dẫn các ứng viên chuyên môn và dùng ngôn ngữ giản dị
+      - tìm kiếm ứng viên trên các trang việc làm, mạng lưới nghề nghiệp và nguồn nhân tài
+      - hỗ trợ các sự kiện, như hội chợ việc làm và ngày hội mở cửa
+    practitioner: |
+      Bạn có thể:
+      - xây dựng các nguồn và cộng đồng nhân tài cho các vai trò số và dữ liệu khan hiếm
+      - cùng các nhóm tuyển dụng định hình đề xuất giá trị của nhà tuyển dụng
+      - dùng dữ liệu thị trường về mức lương và nguồn cung để tư vấn cho các vai trò khó tuyển
+      - phát triển các con đường dành cho người mới vào nghề, như học nghề và chương trình cho sinh viên mới tốt nghiệp
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược thu hút nhân tài và thương hiệu nhà tuyển dụng của tổ chức
+      - làm việc với các đối tác, như trường đại học và các nhà tuyển dụng khác, để mở rộng nguồn nhân tài
+      - dẫn dắt các quyết định về mức lương cao hơn, việc dùng công ty trung gian và các mô hình tìm kiếm thay thế
+hr-workforce-planning:
+  name: Lập kế hoạch lực lượng lao động
+  description: Dự báo lực lượng lao động mà tổ chức cần, so sánh với lực lượng hiện có, và lập kế hoạch thu hẹp khoảng cách thông qua tuyển dụng, phát triển, thiết kế lại và giữ chân nhân viên.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích vì sao lập kế hoạch lực lượng lao động quan trọng đối với các dịch vụ an toàn và bền vững
+      - cung cấp thông tin chính xác về biên chế và vị trí còn trống
+    working: |
+      Bạn có thể:
+      - thu thập và kiểm tra dữ liệu kế hoạch lực lượng lao động từ các quản lý
+      - mô hình hóa các kịch bản đơn giản, như xu hướng thôi việc và vị trí còn trống
+    practitioner: |
+      Bạn có thể:
+      - dẫn dắt việc lập kế hoạch lực lượng lao động cho một ban, gắn với kế hoạch dịch vụ và tài chính
+      - xác định các khoảng trống về kỹ năng và đề xuất cách thu hẹp chúng
+      - lập kế hoạch cho các vai trò mới, lộ trình nghề nghiệp và cơ cấu kỹ năng
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược lực lượng lao động và kế hoạch dài hạn của tổ chức
+      - cân nhắc đánh đổi về lực lượng lao động giữa các dịch vụ cùng các lãnh đạo tài chính và dịch vụ
+      - định hình kế hoạch lực lượng lao động cùng các đối tác trong hệ thống y tế và chăm sóc
+hr-workforce-information:
+  name: Thông tin lực lượng lao động và hệ thống nhân sự
+  description: Quản lý các hệ thống và dữ liệu nhân sự và lực lượng lao động, và biến dữ liệu lực lượng lao động thành báo cáo và hiểu biết sâu, như thôi việc, vắng mặt, vị trí trống, đa dạng và phân tích chênh lệch lương.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - nhập chính xác dữ liệu lực lượng lao động vào hệ thống nhân sự
+      - giải thích vì sao dữ liệu lực lượng lao động phải chính xác và được giữ bí mật
+    working: |
+      Bạn có thể:
+      - chạy các báo cáo lực lượng lao động chuẩn và kiểm tra lỗi
+      - trả lời các yêu cầu thông tin thường lệ về lực lượng lao động
+    practitioner: |
+      Bạn có thể:
+      - phân tích dữ liệu lực lượng lao động để tìm xu hướng và giải thích cho các quản lý
+      - thiết kế bảng điều khiển và báo cáo cho các chỉ số lực lượng lao động
+      - lập các báo cáo theo luật định và về bình đẳng, như phân tích chênh lệch lương
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược thông tin lực lượng lao động và tiêu chuẩn dữ liệu của tổ chức
+      - dẫn dắt việc lựa chọn và phát triển các hệ thống nhân sự
+      - dùng hiểu biết về lực lượng lao động để làm căn cứ cho các quyết định của hội đồng
+hr-reward-and-job-evaluation:
+  name: Đãi ngộ và đánh giá công việc
+  description: Áp dụng các quy tắc về lương và đãi ngộ, và đánh giá công việc một cách nhất quán theo một khung đánh giá công việc để xếp chúng vào đúng bậc.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích bậc lương, mức tăng lương và phụ cấp hoạt động như thế nào
+      - giải thích rằng công việc được xếp bậc bằng đánh giá công việc, không phải theo người đảm nhiệm
+    working: |
+      Bạn có thể:
+      - áp dụng các quy tắc về lương, như mức lương khởi điểm, bảo lưu và phụ cấp
+      - kiểm tra bản mô tả công việc đã đầy đủ trước khi chuyển sang đánh giá
+      - tham gia các hội đồng đánh giá công việc với tư cách thành viên đã được đào tạo
+    practitioner: |
+      Bạn có thể:
+      - dẫn dắt các hội đồng đánh giá công việc và các kiểm tra tính nhất quán
+      - tư vấn về việc xếp bậc cho các vai trò mới và đã thay đổi, kể cả các vai trò số và dữ liệu
+      - tư vấn về các khoản bổ sung cho tuyển dụng và giữ chân nhân viên, dựa trên bằng chứng thị trường
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược đãi ngộ của tổ chức trong khung lương đã thống nhất
+      - bảo đảm tính toàn vẹn của đánh giá công việc trong toàn tổ chức
+      - dẫn dắt các đợt rà soát trả lương bình đẳng và hành động theo các phát hiện
+hr-learning-design-and-delivery:
+  name: Thiết kế và tổ chức học tập
+  description: Phân tích nhu cầu học tập, rồi thiết kế, tổ chức và đánh giá việc học trực tiếp, trực tuyến và ngay trong quá trình làm việc.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích sự khác nhau giữa đào tạo, học tập và phát triển
+      - hỗ trợ việc tổ chức các khóa học và lưu giữ hồ sơ đào tạo
+    working: |
+      Bạn có thể:
+      - tổ chức các buổi đào tạo được xác định rõ, trực tiếp và trực tuyến
+      - xây dựng bài học điện tử đơn giản trong hệ thống quản lý học tập
+      - thu thập và tóm tắt phản hồi của người học
+    practitioner: |
+      Bạn có thể:
+      - phân tích nhu cầu học tập và thiết kế các chương trình kết hợp để đáp ứng chúng
+      - đặt ra các kết quả học tập và đánh giá tác động, không chỉ mức độ hài lòng
+      - làm cho việc học dễ tiếp cận và hòa nhập với mọi nhân viên
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược và tiêu chuẩn học tập của tổ chức
+      - dẫn dắt chương trình học tập, công nghệ và nguồn kinh phí của nó
+      - chứng minh lợi tức từ khoản đầu tư của tổ chức vào học tập
+hr-skills-frameworks-and-career-pathways:
+  name: Khung kỹ năng và lộ trình nghề nghiệp
+  description: Sử dụng các khung kỹ năng và vai trò, như tài liệu tham khảo này, UK GDaD PCF và ESCO, để mô tả vai trò, đánh giá khoảng trống kỹ năng và xây dựng lộ trình nghề nghiệp.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích khung kỹ năng là gì và nó mô tả vai trò và các mức như thế nào
+      - tìm hồ sơ vai trò và kỹ năng của một công việc trong khung
+    working: |
+      Bạn có thể:
+      - ánh xạ bản mô tả công việc với các vai trò, mức và kỹ năng của khung
+      - hỗ trợ nhân viên và quản lý tự đánh giá kỹ năng
+      - cập nhật thông tin lộ trình nghề nghiệp
+    practitioner: |
+      Bạn có thể:
+      - phân tích khoảng trống kỹ năng cho một nhóm hoặc một ngành nghề và báo cáo kết quả
+      - thiết kế lộ trình nghề nghiệp và các con đường phát triển dựa trên các mức của khung
+      - dùng các kỹ năng của khung để viết bản mô tả công việc và bài đánh giá nhất quán
+    expert: |
+      Bạn có thể:
+      - đề ra cách tổ chức sử dụng các khung kỹ năng trong các ngành nghề
+      - dùng dữ liệu kỹ năng làm căn cứ cho chiến lược lực lượng lao động, học tập và đãi ngộ
+      - đóng góp vào việc phát triển các khung dùng chung với các tổ chức khác
+hr-organisational-development:
+  name: Phát triển tổ chức
+  description: Cải thiện cách tổ chức vận hành thông qua văn hóa, lãnh đạo, sự gắn kết, hiệu quả của nhóm và các can thiệp về an sinh dựa trên bằng chứng.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích văn hóa, lãnh đạo và sự gắn kết ảnh hưởng đến nhân viên và việc chăm sóc bệnh nhân như thế nào
+      - giúp tổ chức các cuộc khảo sát nhân viên và các buổi lắng nghe
+    working: |
+      Bạn có thể:
+      - điều phối các buổi làm việc nhóm và hội thảo bằng các công cụ chuẩn
+      - phân tích kết quả khảo sát nhân viên cho một nhóm và đề xuất hành động
+    practitioner: |
+      Bạn có thể:
+      - chẩn đoán các vấn đề của tổ chức và thiết kế các can thiệp để giải quyết chúng
+      - dẫn dắt các chương trình phát triển nhóm, phát triển lãnh đạo và gắn kết
+      - đánh giá tác động của các can thiệp bằng bằng chứng
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược phát triển tổ chức và chương trình văn hóa
+      - huấn luyện các lãnh đạo điều hành và dẫn dắt thay đổi văn hóa quy mô lớn
+      - gắn các thước đo văn hóa và gắn kết với chất lượng chăm sóc và hiệu quả hoạt động
+hr-organisational-change:
+  name: Thay đổi tổ chức và tham vấn
+  description: Lập kế hoạch và quản lý các thay đổi về cơ cấu, vai trò và cách thức làm việc, gồm tham vấn chính thức, bố trí lại và cắt giảm nhân sự, theo chính sách và luật lao động.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích các giai đoạn chính của một quy trình thay đổi tổ chức
+      - hỗ trợ công tác hành chính của một thay đổi, như thư tham vấn và các cuộc họp
+    working: |
+      Bạn có thể:
+      - hỗ trợ các quản lý chuẩn bị tài liệu tham vấn và thông báo cho nhân viên
+      - theo dõi các phản hồi và hành động trong quá trình tham vấn
+      - hỗ trợ nhân viên trong các quy trình bố trí lại và tuyển chọn
+    practitioner: |
+      Bạn có thể:
+      - dẫn dắt thay đổi tổ chức cho một ban, từ luận chứng kinh doanh đến triển khai
+      - tham vấn nhân viên và đại diện của họ và phản hồi ý kiến của họ
+      - quản lý các rủi ro pháp lý và bình đẳng của một thay đổi
+    expert: |
+      Bạn có thể:
+      - dẫn dắt việc tái cấu trúc toàn tổ chức và chuyển giao dịch vụ
+      - thiết kế cách tiếp cận của tổ chức đối với thay đổi, kể cả làm việc theo quan hệ đối tác
+      - tư vấn cho hội đồng về tác động đến con người và rủi ro của thay đổi lớn
+hr-people-strategy:
+  name: Chiến lược nhân sự và lãnh đạo nhân sự
+  description: Đề ra chiến lược nhân sự của tổ chức, lãnh đạo chức năng nhân sự và tư vấn cho hội đồng về văn hóa, lực lượng lao động và rủi ro lao động.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích chiến lược nhân sự của tổ chức và công việc của bạn hỗ trợ nó như thế nào
+    working: |
+      Bạn có thể:
+      - đóng góp vào các kế hoạch nhân sự cho một dịch vụ, với các hành động và thước đo rõ ràng
+      - báo cáo tiến độ so với kế hoạch nhân sự
+    practitioner: |
+      Bạn có thể:
+      - viết và dẫn dắt các kế hoạch nhân sự cho một ban theo chiến lược nhân sự
+      - tư vấn cho các lãnh đạo cấp cao về rủi ro và ưu tiên về nhân sự
+      - dẫn dắt một phần của chức năng nhân sự, đặt ra tiêu chuẩn và ưu tiên của phần đó
+    expert: |
+      Bạn có thể:
+      - đề ra chiến lược nhân sự của tổ chức và dẫn dắt chức năng nhân sự
+      - tư vấn cho hội đồng về văn hóa, lực lượng lao động và rủi ro lao động
+      - đại diện tổ chức về các vấn đề nhân sự với các đối tác và cơ quan quản lý

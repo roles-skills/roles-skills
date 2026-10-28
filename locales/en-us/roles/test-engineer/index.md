@@ -25,8 +25,8 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 > 
 > In this role you will:
 > - maintain automated tests in continuous integration, continuous delivery (CI/CD) pipelines
-> - use, develop and standardize reusable frameworks and tools following engineering practices and standards
-> - analyze and test artefacts such as products, services and business processes
+> - use, develop and standardise reusable frameworks and tools following engineering practices and standards
+> - analyse and test artefacts such as products, services and business processes
 > - promote quality considerations throughout the development life cycle
 > - support the resolution of technical issues
 
@@ -48,7 +48,7 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 > At this role level, you will:
 > - contribute to and maintain technical test suites under supervision
 > - follow engineering practices and standards to apply test approaches, plans and strategies under supervision
-> - analyze artefacts such as user stories, prototypes, processes and designs with support
+> - analyse artefacts such as user stories, prototypes, processes and designs with support
 > - support the development of reports, recording of outcomes and resolution of defects
 > - understand the technical tooling and engineering approach to design and execute tests
 
@@ -67,7 +67,7 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 | [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Awareness | You can:<br>• explain why it's important to communicate technical concepts in non-technical language<br>• explain the types of communication that can be used with internal and external stakeholders, and their impact |
 | [Designing and executing tests](../../skills/#designing-and-executing-tests) | UK GDaD PCF | Awareness | You can:<br>• contribute to deciding the most appropriate test types and techniques to use<br>• follow guidance to design, build and maintain simple tests that align to user needs and requirements<br>• execute simple tests with support<br>• explain the value of automation within testing |
 | [Managing, reporting and resolving defects](../../skills/#managing-reporting-and-resolving-defects) | UK GDaD PCF | Awareness | You can:<br>• explain how to report and track defects<br>• follow a defect management process to report, communicate and maintain defects with appropriate information<br>• retest and escalate defects when needed |
-| [Test analysis](../../skills/#test-analysis) | UK GDaD PCF | Awareness | You can:<br>• describe quality characteristics and explain why they are important<br>• analyze information, such as user stories, prototypes, processes and designs, with support<br>• explain what might be a risk in achieving quality goals |
+| [Test analysis](../../skills/#test-analysis) | UK GDaD PCF | Awareness | You can:<br>• describe quality characteristics and explain why they are important<br>• analyse information, such as user stories, prototypes, processes and designs, with support<br>• explain what might be a risk in achieving quality goals |
 | [Test and quality planning](../../skills/#test-and-quality-planning) | UK GDaD PCF | Awareness | You can:<br>• explain the value of quality testing approaches, plans and strategies<br>• explain how different delivery methodologies affect quality testing approaches, plans and strategies<br>• follow quality testing approaches, plans and strategies, with support<br>• explain how to measure the effectiveness of quality testing approaches, plans and strategies, and why it’s important |
 | [Test engineering](../../skills/#test-engineering) | UK GDaD PCF | Awareness | You can:<br>• explain why testing processes, environments and tools are important<br>• follow test engineering practices and standards, with support<br>• support the maintenance of automated tests and tools required for testing |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Awareness | You can:<br>• describe the main parts of the health and care system and the services the organization supports<br>• explain why patient safety and confidentiality matter in your work |
@@ -92,8 +92,8 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -137,7 +137,7 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 | [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Working | You can:<br>• communicate effectively with technical and non-technical stakeholders<br>• support and host discussions within a multidisciplinary team, with potentially difficult dynamics<br>• be an advocate for the team externally<br>• manage differing stakeholder perspectives |
 | [Designing and executing tests](../../skills/#designing-and-executing-tests) | UK GDaD PCF | Working | You can:<br>• set up suitable environments with some support<br>• select appropriate test types and techniques with some support<br>• design, build, maintain and execute tests that align to user needs and requirements<br>• conduct exploratory testing<br>• research and try new test types and techniques |
 | [Managing, reporting and resolving defects](../../skills/#managing-reporting-and-resolving-defects) | UK GDaD PCF | Working | You can:<br>• collaborate with others to create a defect management process to report, communicate and resolve defects, with support<br>• critically assess dependencies, defects and risks, with support<br>• contribute to mitigation and contingency plans<br>• clearly communicate risks and the impact of defects to stakeholders |
-| [Test analysis](../../skills/#test-analysis) | UK GDaD PCF | Working | You can:<br>• work with stakeholders to determine which functional and non-functional quality characteristics add value<br>• determine what to test following an agreed approach<br>• identify and advocate for test needs, such as data, access and environments, with support<br>• analyze information to identify risks |
+| [Test analysis](../../skills/#test-analysis) | UK GDaD PCF | Working | You can:<br>• work with stakeholders to determine which functional and non-functional quality characteristics add value<br>• determine what to test following an agreed approach<br>• identify and advocate for test needs, such as data, access and environments, with support<br>• analyse information to identify risks |
 | [Test and quality planning](../../skills/#test-and-quality-planning) | UK GDaD PCF | Working | You can:<br>• create or adapt quality testing approaches based on risk, with some support<br>• follow a quality testing strategy and contribute to its development<br>• contribute to continuous improvement of quality testing approaches, plans and strategies |
 | [Test engineering](../../skills/#test-engineering) | UK GDaD PCF | Working | You can:<br>• use test engineering frameworks and tools to support testing activities<br>• follow test engineering practices and standards, such as source control and continuous integration, continuous delivery (CI/CD) pipelines<br>• integrate and execute tests to ensure early testing and continuous feedback<br>• create and maintain automated tests, with some support<br>• write and review coded solutions, with some support |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognize when a change could affect patient care and raise it |
@@ -164,8 +164,8 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -188,7 +188,7 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 > 
 > At this role level, you will:
 > - select, use and guide others in using the most appropriate technical tooling, engineering approaches, test types and techniques to identify and address risks early
-> - extend, standardize and build reusable frameworks and tools that support testing
+> - extend, standardise and build reusable frameworks and tools that support testing
 > - communicate and document chosen approaches, tools, techniques and outcomes to the team and appropriate stakeholders
 > - contribute to and agree engineering standards
 
@@ -207,9 +207,9 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 | [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Practitioner | You can:<br>• listen to and interpret the needs of technical and non-technical stakeholders, and manage their expectations<br>• manage active and reactive communication<br>• support or host difficult discussions within the team or with diverse senior stakeholders |
 | [Designing and executing tests](../../skills/#designing-and-executing-tests) | UK GDaD PCF | Practitioner | You can:<br>• set up suitable environments<br>• influence and guide the use of appropriate test types and techniques to mitigate risk early<br>• lead others in designing, building, maintaining and executing tests that align to user needs and requirements<br>• contribute to developing and implementing standards for designing and executing tests<br>• improve test types and techniques through a structured process. |
 | [Managing, reporting and resolving defects](../../skills/#managing-reporting-and-resolving-defects) | UK GDaD PCF | Practitioner | You can:<br>• contribute to developing standards for defect management processes<br>• manage and escalate dependencies, defects and risks across teams<br>• contribute to mitigation and contingency plans across teams<br>• use defect patterns and trends to make recommendations on testing and quality approaches, with support<br>• manage stakeholder expectations and communications during defect resolution |
-| [Test analysis](../../skills/#test-analysis) | UK GDaD PCF | Practitioner | You can:<br>• lead work with stakeholders across teams to determine which functional and non-functional quality characteristics add value<br>• determine if an approach needs to change based on effort and risk<br>• ensure test needs are implemented early<br>• use multiple techniques to analyze complex information to identify risks<br>• coach others in test analysis |
+| [Test analysis](../../skills/#test-analysis) | UK GDaD PCF | Practitioner | You can:<br>• lead work with stakeholders across teams to determine which functional and non-functional quality characteristics add value<br>• determine if an approach needs to change based on effort and risk<br>• ensure test needs are implemented early<br>• use multiple techniques to analyse complex information to identify risks<br>• coach others in test analysis |
 | [Test and quality planning](../../skills/#test-and-quality-planning) | UK GDaD PCF | Practitioner | You can:<br>• work with teams to develop and implement appropriate quality testing approaches, plans and strategies<br>• contribute to organisational quality testing strategies<br>• implement ways to capture data to drive continuous improvement of quality testing approaches, plans and strategies<br>• advocate for full team ownership of quality testing activities, encouraging early engagement |
-| [Test engineering](../../skills/#test-engineering) | UK GDaD PCF | Practitioner | You can:<br>• develop, standardize and extend reusable frameworks and tools to support a range of testing activities<br>• guide and coach others in creating and maintaining comprehensive and reliable tests that meet standards<br>• research and prepare for future testing needs, including tools, methodologies and techniques<br>• maintain and adapt continuous integration, continuous delivery (CI/CD) pipelines |
+| [Test engineering](../../skills/#test-engineering) | UK GDaD PCF | Practitioner | You can:<br>• develop, standardise and extend reusable frameworks and tools to support a range of testing activities<br>• guide and coach others in creating and maintaining comprehensive and reliable tests that meet standards<br>• research and prepare for future testing needs, including tools, methodologies and techniques<br>• maintain and adapt continuous integration, continuous delivery (CI/CD) pipelines |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognize when a change could affect patient care and raise it |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
@@ -223,7 +223,7 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -234,8 +234,8 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -254,7 +254,7 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 
 **UK GDaD PCF level: Lead test engineer**
 
-> A lead test engineer sets the strategy for test engineering and influences test engineering practices across a broad area. They develop, monitor and evaluate quality engineering standards, and make strategic improvements to quality engineering in the organization.
+> A lead test engineer sets the strategy for test engineering and influences test engineering practices across a broad area. They develop, monitor and evaluate quality engineering standards, and make strategic improvements to quality engineering in the organisation.
 > 
 > At this role level, you will:
 > - lead a broad area in technical tooling, engineering approaches and test types and techniques to address risks early
@@ -276,12 +276,12 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Expert | You can:<br>• mediate between people and strengthen relationships, adopting the appropriate communication method with stakeholders at all levels<br>• manage stakeholder expectations and moderate difficult discussions about high risk and complex topics, even within constrained timescales<br>• speak on behalf of, and represent the community to, large audiences inside and outside the organization |
+| [Communicating between the technical and non-technical](../../skills/#communicating-between-the-technical-and-non-technical) | UK GDaD PCF | Expert | You can:<br>• mediate between people and strengthen relationships, adopting the appropriate communication method with stakeholders at all levels<br>• manage stakeholder expectations and moderate difficult discussions about high risk and complex topics, even within constrained timescales<br>• speak on behalf of, and represent the community to, large audiences inside and outside the organisation |
 | [Designing and executing tests](../../skills/#designing-and-executing-tests) | UK GDaD PCF | Expert | You can:<br>• set standards and influence organisational decisions for test types, techniques, design and execution<br>• coach others in test types, techniques, design and execution<br>• advocate for continuous improvement and refinement of test types and techniques<br>• make strategic decisions on new or improved test types and techniques used in your area |
-| [Managing, reporting and resolving defects](../../skills/#managing-reporting-and-resolving-defects) | UK GDaD PCF | Expert | You can:<br>• lead and coach others in improving test and defect management processes<br>• support others in assessing complex and challenging defects across the organization<br>• lead and coach others in using defect patterns and trends to make tactical and strategic recommendations<br>• influence improvements to quality processes, informed by defect patterns and trends |
-| [Test analysis](../../skills/#test-analysis) | UK GDaD PCF | Expert | You can:<br>• lead and guide multiple teams in test analysis, ensuring it is implemented early in the life cycle<br>• advocate for risk-based analysis to drive improvements across many teams<br>• set standards and principles for test analysis across the organization |
-| [Test and quality planning](../../skills/#test-and-quality-planning) | UK GDaD PCF | Expert | You can:<br>• create and manage multiple quality testing plans, approaches and strategies<br>• lead and guide multiple teams in adopting quality testing strategy<br>• advocate for early quality testing involvement in organisational delivery processes<br>• guide teams across an organization in optimizing quality testing approaches, plans and strategies by using appropriate data |
-| [Test engineering](../../skills/#test-engineering) | UK GDaD PCF | Expert | You can:<br>• establish and lead test engineering practices, standards and behaviors<br>• influence and guide test engineering technology and tool choices across the organization<br>• advocate for the adoption and use of appropriate testing solutions, ensuring alignment with organisational goals and quality objectives |
+| [Managing, reporting and resolving defects](../../skills/#managing-reporting-and-resolving-defects) | UK GDaD PCF | Expert | You can:<br>• lead and coach others in improving test and defect management processes<br>• support others in assessing complex and challenging defects across the organisation<br>• lead and coach others in using defect patterns and trends to make tactical and strategic recommendations<br>• influence improvements to quality processes, informed by defect patterns and trends |
+| [Test analysis](../../skills/#test-analysis) | UK GDaD PCF | Expert | You can:<br>• lead and guide multiple teams in test analysis, ensuring it is implemented early in the life cycle<br>• advocate for risk-based analysis to drive improvements across many teams<br>• set standards and principles for test analysis across the organisation |
+| [Test and quality planning](../../skills/#test-and-quality-planning) | UK GDaD PCF | Expert | You can:<br>• create and manage multiple quality testing plans, approaches and strategies<br>• lead and guide multiple teams in adopting quality testing strategy<br>• advocate for early quality testing involvement in organisational delivery processes<br>• guide teams across an organisation in optimising quality testing approaches, plans and strategies by using appropriate data |
+| [Test engineering](../../skills/#test-engineering) | UK GDaD PCF | Expert | You can:<br>• establish and lead test engineering practices, standards and behaviours<br>• influence and guide test engineering technology and tool choices across the organisation<br>• advocate for the adoption and use of appropriate testing solutions, ensuring alignment with organisational goals and quality objectives |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Practitioner | You can:<br>• lead hazard identification and risk assessment for a product or change<br>• write and maintain hazard logs and clinical safety case reports<br>• agree risk controls with product teams and check that they work<br>• advise teams on applying clinical risk management standards |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
@@ -296,7 +296,7 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -307,8 +307,8 @@ Test engineers build the automated tests, tools, and frameworks that let teams t
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -328,5 +328,5 @@ The UK GDaD PCF suggests SEO to G6 for this level, which maps to Band 7, the sam
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

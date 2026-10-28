@@ -1,0 +1,97 @@
+# Band outlines in Dutch. Keys are the English band ids.
+"1":
+  title: Band 1
+  stage: Instap
+  knowledge: Basisvaardigheden in lezen, schrijven en rekenen; leert eenvoudige routinetaken op de werkplek.
+  autonomy: Volgt duidelijke instructies; het werk wordt vaak gecontroleerd.
+  scope: Eigen routinetaken.
+  leadership: Geen.
+  accountability: Nauwkeurige uitvoering van routinetaken.
+"2":
+  title: Band 2
+  stage: Ondersteuning
+  knowledge: Kent de routines en procedures van het werkgebied; heeft mogelijk een instapkwalificatie.
+  autonomy: Werkt volgens vaste procedures, met toezicht beschikbaar.
+  scope: Eigen taken binnen een team.
+  leadership: Kan nieuwe medewerkers routinetaken laten zien.
+  accountability: Kwaliteit en tijdigheid van het eigen routinewerk.
+"3":
+  title: Band 3
+  stage: Ondersteuning
+  knowledge: Kennis van een reeks procedures, waaronder enkele die geen routine zijn; doorgaans een kwalificatie op niveau 3 of gelijkwaardige ervaring.
+  autonomy: Werkt binnen procedures; bepaalt hoe het eigen werk wordt georganiseerd; legt problemen naar boven voor.
+  scope: Eigen werk en enkele taken voor het bredere team.
+  leadership: Kan routinewerk verdelen of anderen procedures leren.
+  accountability: Nauwkeurigheid van het eigen werk en van de bijgehouden registraties.
+"4":
+  title: Band 4
+  stage: Ondersteuning en beginnend professional
+  knowledge: Gedetailleerde kennis van het werkgebied, doorgaans uit een associate degree, leerwerktraject of gelijkwaardige ervaring.
+  autonomy: Werkt binnen richtlijnen; lost de meeste dagelijkse problemen op; leidinggevende beschikbaar voor advies.
+  scope: Eigen werk en een omschreven dienst of proces.
+  leadership: Kan toezicht houden op een klein team of het werk van anderen coördineren.
+  accountability: Levering van een omschreven dienst of proces.
+"5":
+  title: Band 5
+  stage: Professional
+  knowledge: Professionele of technische kennis, doorgaans uit een bachelor of gelijkwaardige ervaring.
+  autonomy: Werkt naar brede doelen binnen professionele normen; plant het eigen werk.
+  scope: Eigen professioneel werk binnen een team of product.
+  leadership: Kan het werk van ondersteunend personeel en leerlingen begeleiden en controleren.
+  accountability: Kwaliteit van het eigen professionele werk.
+"6":
+  title: Band 6
+  stage: Ervaren professional
+  knowledge: Specialistische kennis over een reeks procedures, opgebouwd door verdere opleiding of ervaring.
+  autonomy: Werkt zelfstandig; vertaalt beleid voor het eigen gebied; vraagt advies bij complexe kwesties.
+  scope: Een product, dienst of werkstroom.
+  leadership: Kan een klein team leiden of collega’s begeleiden.
+  accountability: Uitkomsten van de eigen werkstroom en kwaliteit van het gegeven advies.
+"7":
+  title: Band 7
+  stage: Senior of specialist
+  knowledge: Sterk ontwikkelde specialistische kennis, doorgaans op masterniveau of gelijkwaardige ervaring.
+  autonomy: Werkt volgens het beleid van de organisatie; bepaalt hoe resultaten worden bereikt; is de deskundige die anderen raadplegen.
+  scope: Meerdere producten of diensten, of een specialistische functie.
+  leadership: Leidt een team of een professioneel vakgebied.
+  accountability: Levering van een dienst of specialistische functie, en het budget daarvan indien in beheer.
+8a:
+  title: Band 8a
+  stage: Leidinggevend
+  knowledge: Deskundige kennis van een discipline en het beheer ervan.
+  autonomy: Vertaalt het beleid van de organisatie voor een dienst; bepaalt de richting van het team.
+  scope: Een servicegebied of een discipline binnen de hele organisatie.
+  leadership: Leidt een team, of leidt een discipline zonder hiërarchische leiding.
+  accountability: Een servicegebied, het personeel ervan en het budget.
+8b:
+  title: Band 8b
+  stage: Leidinggevend
+  knowledge: Deskundige kennis over meerdere disciplines of een grote dienst.
+  autonomy: Geeft vorm aan beleid en strategie voor een groot gebied.
+  scope: Meerdere diensten of teams, of een discipline op hoofdniveau.
+  leadership: Leidt managers, of is het hoogste gezag in een discipline.
+  accountability: Meerdere diensten, hun personeel en hun budgetten.
+8c:
+  title: Band 8c
+  stage: Senior leidinggevend
+  knowledge: Deskundige kennis, en brede inzichten in de organisatie en de sector.
+  autonomy: Stelt de strategie vast voor een functie; legt verantwoording af aan een directeur.
+  scope: Een functie of afdeling.
+  leadership: Leidt een functie via meerdere managementlagen.
+  accountability: De prestaties, het personeel en het budget van een functie.
+8d:
+  title: Band 8d
+  stage: Senior leidinggevend
+  knowledge: Strategische kennis over functies heen en over het bredere stelsel van gezondheid en zorg.
+  autonomy: Geeft vorm aan de strategie voor de hele organisatie; vervangt een directeur.
+  scope: Een grote functie of meerdere functies.
+  leadership: Leidt meerdere functies of een grote afdeling.
+  accountability: Grote functies, grote budgetten en risico’s voor de hele organisatie.
+"9":
+  title: Band 9
+  stage: Hoofd van het vakgebied of directeur
+  knowledge: Strategische deskundigheid en leiderschap voor het hele stelsel.
+  autonomy: Stelt samen met het directieteam de strategie van de organisatie vast.
+  scope: De organisatie en haar partners in het hele stelsel.
+  leadership: Leidt een beroepsgroep of directoraat.
+  accountability: Uitkomsten, budgetten en risico’s voor de hele organisatie.

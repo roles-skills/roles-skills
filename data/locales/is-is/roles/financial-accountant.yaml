@@ -1,0 +1,66 @@
+summary: Fjárhagsbókarar tryggja að reikningar stofnunarinnar séu fullkomnir, nákvæmir og fylgi reikningsskilastöðlum og skýrslureglum hins opinbera. Þeir stýra efnahagsreikningi, undirbúa ársreikning og lögbundin skil, stýra reiðufé og fjárstýringu, færa eignir til bókar og vinna með endurskoðendum. Í stafrænni heilbrigðisstofnun stafar mikið af flækjustiginu af bókhaldi hugbúnaðar, gagnaeigna, skýjafyrirkomulags og fjölára tæknisamninga.
+health_context:
+- Bókhald stafrænna útgjalda krefst dómgreindar, til dæmis hvort hugbúnaðarþróun, stilling skýjaþjónustu eða leyfi megi færa sem fjárfestingareignir.
+- Stofnunin verður að gera grein fyrir opinberu fé gagnvart fjármögnunaraðilum og eftirlitsaðilum, oft gegn ströngum fjárfestingar- og reiðufjármörkum.
+- Fjölára leyfis- og stuðningssamningar skapa fyrirframgreiðslur, skuldbindingar og stundum leigusamninga sem þarf að færa rétt til bókar.
+- Óefnislegar eignir, svo sem hugbúnaður sem stofnunin smíðar, þarf að verðmeta, afskrifa og athuga með tilliti til virðisrýrnunar þegar vörur breytast.
+- Ytri endurskoðun opinberra stofnana er ítarleg og opinber, svo gögn og vinnuskjöl verða að vera í háum gæðaflokki.
+levels:
+- title: Fjárhagsbókari í starfsnámi
+  summary: Fjárhagsbókarar í starfsnámi undirbúa efnahagsafstemmingar, færslur og vinnuskjöl fyrir ársreikning og stefna á viðurkennda bókhaldsmenntun.
+  responsibilities:
+  - Undirbúa efnahagsafstemmingar og hreinsa afstemmingaratriði.
+  - Bóka mánaðar- og árslokafærslur, svo sem áfallinn kostnað, fyrirframgreiðslur og afskriftir.
+  - Viðhalda fastafjármunaskránni, þar á meðal hugbúnaðar- og vélbúnaðareignum.
+  - Undirbúa vinnuskjöl og gögn fyrir ársreikning og endurskoðun.
+  - Undirbúa upplýsingar um sjóðstreymi og bankaafstemmingar.
+  - Stefna að viðurkenndri bókhaldsmenntun.
+  qualifications:
+  - Háskólagráða eða miðstigsmenntun í bókhaldi, og stefnir á viðurkennda bókhaldsmenntun, eða sambærileg reynsla.
+  job_evaluation_notes: Þekking er metin á því stigi sem starfið krefst þegar þjálfun er komin nógu langt til að vinna verkið.
+- title: Fjárhagsbókari
+  summary: Fjárhagsbókarar eru löggiltir bókarar sem stýra efnahagsreikningi og undirbúa hluta ársreiknings, lögbundin skil og skattskil.
+  responsibilities:
+  - Stýra mánaðar- og árslokum efnahagsreiknings.
+  - Undirbúa hluta ársreiknings og skýringar með honum.
+  - Færa fjárfestingarútgjöld til bókar, þar á meðal að ákveða hvaða stafræn útgjöld má eignfæra.
+  - Undirbúa virðisaukaskattsskil og ráðleggja um skattameðferð samninga.
+  - Svara spurningum endurskoðenda og samþykkja aðgerðir vegna niðurstaðna þeirra.
+  - Hafa umsjón með og þróa bókara í starfsnámi.
+  qualifications:
+  - Viðurkennd bókhaldsmenntun, eða sambærileg reynsla.
+- title: Eldri fjárhagsbókari
+  summary: Eldri fjárhagsbókarar stýra ársreikningsferlinu og bókhaldi á flóknum sviðum, svo sem óefnislegum eignum, leigusamningum og skýjafyrirkomulagi.
+  responsibilities:
+  - Skipuleggja og stýra tímaáætlun ársreiknings og ytri endurskoðun.
+  - Skrifa bókhaldsskjöl um flókið mat, svo sem eignfærslu hugbúnaðarþróunar eða stillingakostnaðar skýjaþjónustu.
+  - Stýra fjárfestingarbókhaldi, þar á meðal líftíma eigna, afskriftum og virðisrýrnun hugbúnaðareigna.
+  - Stýra reiðufjárspám og úttektum fjármögnunar innan reiðufjármarka.
+  - Undirbúa lögbundin skil og skil til fjármögnunaraðila, svo sem samstæðu- og fjárfestingarskil.
+  - Stýra og þróa lítið teymi fjárhagsbókara.
+  qualifications:
+  - Viðurkennd bókhaldsmenntun, með mikla reynslu eftir menntun, eða sambærilegt.
+  job_evaluation_notes: Fjárhagslegar auðlindir eru á stigi 4 því starfið stýrir reiðufjárstöðu stofnunarinnar og fjárfestingarbókhaldi.
+- title: Stjórnandi fjárhagsbókhalds
+  summary: Stjórnendur fjárhagsbókhalds stýra fjárhagsbókhaldi, fjárstýringu og skattamálum stofnunarinnar og tryggja að stýringar og úttektaraðgerðir séu til staðar.
+  responsibilities:
+  - Stýra fjárhagsbókhaldi, fjárstýringu og skattamálum.
+  - Bera ábyrgð á bókhaldsstefnum stofnunarinnar og beitingu þeirra á nýjar tegundir útgjalda, svo sem ský- og gagnaþjónustu.
+  - Stýra bankareikningum, bankafyrirkomulagi og sjóðstreymisspá.
+  - Stýra skattafylgni og skattaáhættu, þar á meðal í tæknisamningum og sameiginlegri þjónustu.
+  - Stýra viðbrögðum við niðurstöðum innri og ytri endurskoðunar um fjárhagsbókhald og stýringar.
+  - Vera línustjóri fjárhagsbókara og starfsfólks fjárstýringar.
+  qualifications:
+  - Viðurkennd bókhaldsmenntun, með mikla reynslu eftir menntun.
+  job_evaluation_notes: Fjárhagslegar auðlindir eru á stigi 5 því starfið stýrir bankamálum, reiðufé og eignum stofnunarinnar þvert á allar þjónustur.
+- title: Yfirmaður fjárhagsbókhalds
+  summary: Yfirmenn fjárhagsbókhalds stýra lögbundinni skýrslugjöf, fjárhagsstýringu, fjárstýringu og skattamálum stofnunarinnar og eru helsti tengiliður ytri endurskoðenda.
+  responsibilities:
+  - Stýra gerð ársskýrslu og ársreiknings og kynna hann fyrir endurskoðunarnefnd.
+  - Ráðleggja sviðsstjórum og endurskoðunarnefnd um mikilvægt bókhaldsmat og nýja staðla.
+  - Bera ábyrgð á fjármálareglum, fjármálaverklagi og framsalsskipan.
+  - Stýra samskiptum við ytri endurskoðendur og eftirlitsaðila um fjárhagslega skýrslugjöf.
+  - Móta stefnu í fjárstýringu og skattamálum og stýra fjárhagsáhættu.
+  - Stýra og þróa teymi fjárhagsbókhalds, fjárstýringar og færslna.
+  qualifications:
+  - Viðurkennd bókhaldsmenntun, með mikla reynslu eftir menntun, þar á meðal af forystu í lögbundinni skýrslugjöf.

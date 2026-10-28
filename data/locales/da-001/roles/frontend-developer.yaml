@@ -1,0 +1,66 @@
+summary: Frontend-udviklere bygger brugergrænsefladerne til organisationens digitale sundhedsservices, såsom websteder og apps til patienter, onlineformularer og skærmbilleder, som klinikere og plejepersonale bruger under plejen. De skriver tilgængelig, hurtig og sikker kode, der fungerer for alle, også for mennesker der er syge, bekymrede eller bruger ældre enheder, og de arbejder i tværfaglige produktteams med designere, forskere og klinikere.
+health_context:
+- Mange brugere er syge, har smerter, er ældre eller har et handicap, så tilgængelighed og enkle, rolige grænseflader er afgørende og ikke valgfrie.
+- En forvirrende eller forkert visning af kliniske oplysninger, såsom en medicindosis, et svar eller et aftaletidspunkt, kan skade patienter, så frontend-arbejde følger processen for klinisk risikostyring.
+- Grænseflader viser ofte fortrolige sundhedsoplysninger, så udviklerne designer for privatliv, for eksempel på fælles enheder og i travle kliniske områder.
+- Klinikere bruger grænseflader under tidspres og med hyppige afbrydelser, så skærmbilleder skal være hurtige, forudsigelige og svære at misforstå.
+- Patienter får adgang til services på en bred vifte af enheder og forbindelser, så services bruger progressiv forbedring og virker på langsomme netværk.
+levels:
+- title: Lærling som frontend-udvikler
+  responsibilities:
+  - Lære teamets designsystem, sprog og værktøjer gennem struktureret oplæring og parprogrammering.
+  - Bygge små grænsefladekomponenter under tæt supervision efter organisationens designsystem.
+  - Teste komponenter med hjælpeteknologier, såsom skærmlæsere, med støtte fra kolleger.
+  - Følge procedurer for informationsstyring og klinisk sikkerhed, når der arbejdes med test- og live data.
+  - Arbejde hen imod en lærlingeuddannelse eller tilsvarende uddannelse.
+  qualifications:
+  - Indskrevet på eller i gang med en lærlingeuddannelse i softwareudvikling eller tilsvarende.
+  job_evaluation_notes: Viden scores på det niveau, jobbet kræver, når oplæringen er så vidt fremskreden, at arbejdet kan udføres.
+- title: Junior frontend-udvikler
+  responsibilities:
+  - Bygge og teste grænsefladefunktioner til services for patienter og for medarbejdere ud fra brugerhistorier med vejledning.
+  - Bruge organisationens designsystem og mønstre, så services ser ens ud og opfører sig ens.
+  - Rette tilgængelighedsfejl og kontrollere sider mod standarder for tilgængelighed som WCAG.
+  - Sikre, at kliniske oplysninger, såsom datoer, doser og svar, vises præcis som specificeret.
+  - Bidrage med dokumentation til kliniske sikkerhedsbegrundelser, såsom testresultater og skærmbilleder af ændringer.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller et beslægtet fag, en gennemført lærlingeuddannelse eller tilsvarende erfaring.
+- title: Frontend-udvikler
+  responsibilities:
+  - Designe og bygge tilgængelige, responsive grænseflader til sundhedsservices selvstændigt og vælge egnede tilgange.
+  - Arbejde sammen med designere og brugerforskere om at teste prototyper med patienter, klinikere og plejepersonale.
+  - Bygge grænseflader, der kalder API'er for sundhedsdata, såsom HL7 FHIR-services, og håndtere fejl og manglende data sikkert.
+  - Deltage i farerworkshops og bygge sikkerhedskontroller ind i grænsefladen, såsom bekræftelsestrin og klare advarsler.
+  - Beskytte fortrolige oplysninger i browseren, for eksempel ved at styre sessioner og mellemlagring omhyggeligt på fælles enheder.
+  - Gennemgå kode og være mentor for junior- og lærlinge-frontend-udviklere.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller et beslægtet fag eller tilsvarende erfaring.
+  - Erfaring med at bygge og supportere tilgængelige webservices i produktion.
+- title: Senior frontend-udvikler
+  responsibilities:
+  - Lede frontend-design og levering af væsentlige funktioner, såsom booking, svar eller skærmbilleder til kliniske arbejdsgange.
+  - Fastsætte og vedligeholde frontend-standarder for teamet, herunder tilgængelighed, ydeevne, sikkerhed og test.
+  - Bidrage med komponenter og mønstre til organisationens designsystem og sikre, at de er sikre og tilgængelige.
+  - Arbejde sammen med kliniske sikkerhedsansvarlige om at sikre, at farer i grænsefladen identificeres, kontrolleres og testes.
+  - Sikre, at services fungerer godt på langsomme forbindelser, ældre enheder og hjælpeteknologier.
+  - Coache og udvikle frontend-udviklere i teamet.
+  qualifications:
+  - Betydelig erfaring med at designe, bygge og supportere tilgængelige webservices i produktion på et niveau svarende til en kandidatgrad.
+- title: Ledende frontend-udvikler
+  responsibilities:
+  - Lede frontend-udvikling på tværs af en gruppe teams eller en større service til patienter.
+  - Eje den tekniske retning for organisationens designsystem og frontend-biblioteker.
+  - Sikre, at grænseflader på tværs af services opfylder standarder for tilgængelighed og er kvalitetssikret for klinisk sikkerhed.
+  - Arbejde sammen med arkitekter, designere og kliniske ledere om at forme produktkøreplaner og valg af frontend-teknologi.
+  - Lede praksisfællesskabet for frontend og have personaleansvar for eller lede frontend-udviklere.
+  qualifications:
+  - Omfattende erfaring med at lede frontend-udvikling for komplekse, tilgængelige services.
+- title: Chef for frontend-udvikling
+  responsibilities:
+  - Fastlægge frontend-strategi, -standarder og -praksis for alle organisationens digitale services.
+  - Være ansvarlig for tilgængeligheden og brugbarheden af organisationens grænseflader for patienter og medarbejdere.
+  - Rådgive den øverste ledelse om frontend-teknologi, investering i designsystemet og risiciene ved dårlige grænseflader for plejen.
+  - Repræsentere organisationen i fællesskaber for designsystemer og tilgængelighed på tværs af organisationer.
+  - Lede og udvikle frontend-udviklere i hele organisationen, herunder rekruttering og karriereveje.
+  qualifications:
+  - Omfattende erfaring med at lede frontend-udvikling på tværs af flere teams eller organisationer.

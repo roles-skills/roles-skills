@@ -1,0 +1,46 @@
+summary: Klínískir öryggisfulltrúar eru skráðir klínískir starfsmenn sem tryggja að heilbrigðisupplýsingakerfin sem stofnunin smíðar, kaupir og setur upp séu örugg fyrir sjúklinga. Þeir stýra ferli klínískrar áhættustýringar, leiða greiningu hættna, bera ábyrgð á hættuskrám og skrifa og samþykkja skýrslur um klínísk öryggismál, með stöðlum um klíníska áhættustýringu eins og ISO 14971 og IEC 80001-1.
+health_context:
+- Hlutverkið verður að vera í höndum skráðs klínísks starfsmanns, svo öryggismat byggi á núgildandi klínískri þekkingu og faglegri ábyrgðarskyldu.
+- Heilbrigðisupplýsingatækni getur skaðað sjúklinga með röngum, vantandi, seinkuðum eða villandi upplýsingum, svo hlutverkið metur áhættu sem er oft falin í gögnum og vinnuflæði.
+- Vinna við klínískt öryggi nær yfir allan líftíma kerfis, frá hönnun og innkaupum til útsetningar, breytinga og úreldingar.
+- Sumar vörur eru einnig lögbundnar sem lækningatæki, svo hlutverkið vinnur með regluverks- og gæðasamstarfsfólki þar sem öryggismál og tækjaskrár skarast.
+- Öryggisatvik tengd heilbrigðisupplýsingatækni geta valdið alvarlegum skaða, svo hlutverkið rannsakar atvik og tryggir að lærdómur sé dreginn.
+levels:
+- title: Klínískur öryggisfulltrúi
+  summary: Stýrir ferli klínískrar áhættustýringar fyrir safn vara eða breytinga, leiðir hættuvinnustofur, heldur hættuskrám og skrifar skýrslur um klínísk öryggismál til samþykktar.
+  responsibilities:
+  - Leiða vinnustofur til að greina hættur með vöruteymum, klínísku starfsfólki og birgjum.
+  - Meta klíníska áhættu og samþykkja stýringar, og athuga síðan að stýringarnar virki með prófunum og gögnum.
+  - Skrifa og viðhalda hættuskrám og skýrslum um klínísk öryggismál fyrir vörur og breytingar.
+  - Fara yfir öryggisskjölun birgja fyrir kerfi sem stofnunin kaupir.
+  - Rannsaka öryggisatvik tengd heilbrigðisupplýsingatækni og leggja til úrbætur.
+  - Ráðleggja stafrænum teymum um ferli klínískrar áhættustýringar og öryggi frá hönnun.
+  qualifications:
+  - Gild skráning hjá klínískri fagstofnun, með mikla klíníska reynslu.
+  - Þjálfun í klínískri áhættustýringu fyrir heilbrigðisupplýsingatækni, eða sambærileg reynsla.
+  job_evaluation_notes: Umönnun sjúklinga er metin á stigi 5 því starfið veitir sérhæfða ráðgjöf um öryggi kerfa sem notuð eru í umönnun sjúklinga. Andlegt erfiði endurspeglar langvarandi einbeitingu að öryggisskjölun og gögnum.
+- title: Eldri klínískur öryggisfulltrúi
+  summary: Stýrir klínísku öryggi fyrir stóra áætlun eða safn kerfa með mikla áhættu, samþykkir öryggismál og leiðbeinir öðrum klínískum öryggisfulltrúum.
+  responsibilities:
+  - Stýra klínískri áhættustýringu fyrir kerfi með mikla áhættu, svo sem rafrænar sjúkraskrár, lyfjaávísanir og ákvörðunarstuðning.
+  - Samþykkja hættuskrár og skýrslur um klínísk öryggismál innan framseldrar heimildar.
+  - Ráðleggja áætlunarstjórnum um klíníska áhættu og hvort kerfi sé öruggt til gangsetningar.
+  - Stýra rannsóknum alvarlegra öryggisatvika tengdra heilbrigðisupplýsingatækni.
+  - Leiðbeina og gæðaprófa vinnu klínískra öryggisfulltrúa og klínísks starfsfólks með öryggisþjálfun.
+  - Hjálpa til við að bæta kerfi klínískrar áhættustýringar stofnunarinnar og sniðmát hennar.
+  qualifications:
+  - Gild skráning hjá klínískri fagstofnun, með mikla klíníska reynslu.
+  - Mikil reynsla af klínískri áhættustýringu fyrir heilbrigðisupplýsingatækni.
+- title: Yfirmaður klínísks öryggis
+  summary: Ber ábyrgð á kerfi klínískrar áhættustýringar stofnunarinnar fyrir heilbrigðisupplýsingatækni, stýrir klíníska öryggisteyminu og veitir stjórn fullvissu um að stafræn þjónusta hennar sé klínískt örugg.
+  responsibilities:
+  - Bera ábyrgð á kerfi klínískrar áhættustýringar, stefnu og ferlum fyrir alla heilbrigðisupplýsingatækni.
+  - Stýra og þróa klíníska öryggisteymið og víðara net klínísks starfsfólks með öryggisþjálfun.
+  - Tryggja öryggismál fyrir stór kerfi og gefa lokatillögu um klínískt öryggi varðandi útsetningu.
+  - Stýra viðbrögðum við alvarlegum öryggisatvikum tengdum heilbrigðisupplýsingatækni, þar á meðal með samstarfsaðilum og birgjum.
+  - Skila skýrslu um klíníska öryggisáhættu og fullvissu til stjórnar og nefnda hennar.
+  - Byggja upp menningu klínísks öryggis þvert á stafræn, klínísk og birgjateymi.
+  qualifications:
+  - Gild skráning hjá klínískri fagstofnun, með mikla klíníska reynslu og reynslu af forystu.
+  - Umfangsmikil reynsla af forystu í klínískri áhættustýringu fyrir heilbrigðisupplýsingatækni þvert á stofnun.
+  job_evaluation_notes: Umönnun sjúklinga er metin á stigi 6 því starfið ber ábyrgð á klínísku öryggi heilbrigðisupplýsingatækni stofnunarinnar. Tilfinningalegt erfiði endurspeglar reglulega yfirferð atvika þar sem sjúklingar hafa orðið fyrir skaða.

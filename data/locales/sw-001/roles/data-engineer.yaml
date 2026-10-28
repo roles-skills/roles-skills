@@ -1,0 +1,44 @@
+summary: Wahandisi wa data hujenga na kuendesha mifereji na majukwaa yanayohamisha data za afya na matunzo kutoka kwenye mifumo ya kitabibu na ya kiutendaji hadi mahali ambapo zinaweza kuchambuliwa na kutumika kwa usalama. Husanifu mtiririko wa data, huunganisha vyanzo vinavyotumia viwango tofauti, na kuhakikisha data ni sahihi, za wakati, salama, na zinapatikana tu kwa watu wanaostahili kuziona.
+health_context:
+- Mifumo chanzo hujumuisha rekodi za wagonjwa za kielektroniki, na mifumo ya maabara, picha za kitabibu na famasia, inayotumia viwango kama HL7 toleo la 2, HL7 FHIR, SNOMED CT na ICD.
+- Mifereji mara nyingi hubeba data zinazotambulisha wagonjwa, hivyo wahandisi hujenga ndani ufichaji wa utambulisho kwa majina bandia, udhibiti wa ufikiaji na ukaguzi tangu mwanzo.
+- Baadhi ya mitiririko ya data inaunga mkono matunzo ya moja kwa moja, kama vile tahadhari au orodha za wagonjwa, hivyo mfereji uliofeli au uliochelewa unaweza kuathiri wagonjwa na unahitaji tathmini ya usalama wa kitabibu.
+- Data mara nyingi zinahitaji kuunganishwa katika mazingira ya matunzo, jambo linalotegemea ulinganishaji wa wagonjwa unaoaminika na vitambulisho thabiti.
+levels:
+- title: Mhandisi wa data
+  responsibilities:
+  - Kujenga na kutunza mifereji ya data kutoka mifumo ya kitabibu na ya kiutendaji hadi jukwaa la data, akifuata miundo iliyokubaliwa.
+  - Kuchora ramani ya data chanzo, ikiwemo data za kitabibu zenye misimbo, kwenda miundo lengwa na kuandika ramani hizo.
+  - Kujenga ufichaji wa utambulisho kwa majina bandia, uthibitishaji na ukaguzi wa ubora wa data ndani ya mifereji.
+  - Kufuatilia mifereji na kurekebisha hitilafu, akipa kipaumbele mitiririko inayounga mkono matunzo ya moja kwa moja.
+  - Kutumia udhibiti wa ufikiaji na uandishi wa kumbukumbu za ukaguzi unaotimiza kanuni za usimamizi wa taarifa.
+  qualifications:
+  - Shahada katika kompyuta au somo linalohusiana, au uzoefu unaolingana.
+  - Uzoefu wa kujenga mifereji ya data.
+- title: Mhandisi mwandamizi wa data
+  responsibilities:
+  - Kubuni mtiririko wa data na huduma za mtiririko wa moja kwa moja zinazoleta pamoja data kutoka mifumo mingi ya afya na matunzo.
+  - Kubuni michakato ya ulinganishaji na uunganishaji wa wagonjwa, na kupima jinsi inavyofanya kazi vizuri.
+  - Kuongoza kazi ya utendaji wa hifadhidata na jukwaa ili data zipatikane huduma zinapozihitaji.
+  - Kutathmini hatari za usalama wa kitabibu na usimamizi wa taarifa za mtiririko wa data pamoja na wataalamu husika.
+  - Kukagua kazi ya wahandisi wengine na kuwaongoza.
+  qualifications:
+  - Uzoefu mkubwa wa kubuni na kujenga mifumo ya data, katika kiwango kinacholingana na shahada ya uzamili.
+- title: Mhandisi kiongozi wa data
+  responsibilities:
+  - Kuongoza usanifu na uendeshaji wa jukwaa la data la taasisi na mtiririko wake mwingi wa data.
+  - Kuweka viwango vya uhandisi kwa mifereji, majaribio, usalama na uandishi wa nyaraka.
+  - Kupanga uunganishaji wa data na washirika wa afya na matunzo, ikiwemo kumbukumbu za matunzo zinazoshirikiwa na huduma za data za kikanda.
+  - Kuhakikisha mtiririko wa data unaounga mkono matunzo ya moja kwa moja ni thabiti na una hoja za usalama wa kitabibu.
+  - Kuratibu timu za uhandisi wa data na kusimamia moja kwa moja wahandisi.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uhandisi wa data kwa mifumo tata.
+- title: Mkuu wa uhandisi wa data
+  responsibilities:
+  - Kuweka mkakati wa majukwaa ya data na huduma za uhandisi wa data za taasisi.
+  - Kuongoza timu za fani mbalimbali zinazotoa huduma za data kwa timu za ndani na washirika wa afya na matunzo.
+  - Kuwashauri viongozi wakuu kuhusu hatari, gharama na uwekezaji wa jukwaa la data.
+  - Kuhakikisha huduma za data zinatimiza mahitaji ya usimamizi wa taarifa, usalama na usalama wa kitabibu.
+  - Kujenga uwezo wa uhandisi wa data kupitia uajiri, maendeleo na njia za taaluma.
+  qualifications:
+  - Uzoefu mpana wa kuongoza uhandisi wa data katika timu nyingi.

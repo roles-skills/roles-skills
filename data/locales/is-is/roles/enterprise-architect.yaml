@@ -1,0 +1,52 @@
+summary: Fyrirtækjaarkitektar gefa stofnuninni samtengda sýn á þjónustu hennar, upplýsingar, hugbúnað og tækni, og nota hana til að breyta stefnu í heilbrigðis- og velferðarmálum í samfellda áætlun um breytingar. Þeir setja arkitektúrmeginreglur, staðla og vegvísa, leiðbeina um fjárfestingarákvarðanir og tryggja að stafræn breyting styðji örugga, samfellda umönnun sjúklinga þvert á stofnanir.
+health_context:
+- Umönnunarleiðir ná yfir margar stofnanir og kerfi, svo arkitektúrinn verður að styðja miðlun skráa, niðurstaðna og tilvísana yfir mörk.
+- Umhverfið inniheldur oft langlíf klínísk kerfi, lækningatæki og birgjasamninga sem erfitt er að breyta, svo vegvísar verða að skipuleggja yfirfærslur vandlega.
+- Arkitektúrákvarðanir hafa áhrif á öryggi sjúklinga, friðhelgi og seiglu þjónustu sem er rekin allan sólarhringinn.
+- Opnir staðlar eins og HL7 FHIR, SNOMED CT og IHE-snið eru lykillinn að því að forðast innilokun og gera samvirkni mögulega.
+- Fjármagn er takmarkað og vandlega rýnt, svo arkitektar verða að sýna hagkvæma nýtingu fjármuna og endurnotkun sameiginlegra vettvanga þar sem þeir eru til.
+levels:
+- title: Fyrirtækjaarkitekt
+  responsibilities:
+  - Líkana núverandi og framtíðarþjónustu, upplýsingar, hugbúnað og tækni stofnunarinnar fyrir svið, svo sem greiningarþjónustu eða samfélagsþjónustu.
+  - Halda arkitektúrgeymslunni uppfærðri, þar á meðal skrám yfir hugbúnað og gagnaflæði.
+  - Fara yfir tillögur gegn arkitektúrmeginreglum og stöðlum og gera tillögur til hönnunarnefnda.
+  - Greina hvar kerfi tvítaka getu eða byggja á óstuddri tækni og vekja athygli á áhættunni.
+  - Vinna með lausnaarkitektum og klínískum leiðtogum að því að skilja hvernig umönnunarleiðir nota kerfi.
+  - Leiðbeina lausnaarkitektum um hvernig hönnun fellur að arkitektúr sviðsins.
+  qualifications:
+  - Mikil reynsla af arkitektúr, greiningu eða tæknilegri hönnun í flókinni stofnun, á stigi sem jafngildir meistaragráðu.
+  - Þekking á ramma fyrirtækjaarkitektúrs, svo sem TOGAF, eða sambærileg reynsla.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 6): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8a. Þekking, greining, áætlanagerð, stefnumótun og svigrúm til athafna eru metin á sniði launaflokks 8a því starfið mótar markmiðsarkitektúr og ráðleggur hönnunarnefndum fyrir heilt svið.'
+- title: Eldri fyrirtækjaarkitekt
+  responsibilities:
+  - Þróa markmiðsarkitektúr og yfirfærsluvegvísa fyrir eitt eða fleiri svið stofnunarinnar.
+  - Móta viðskiptarök svo að fjárfestingar falli að markmiðsarkitektúr og endurnýti sameiginlega vettvanga.
+  - Stýra arkitektúryfirferðum hjá hönnunarnefndum og gera tillögur um mikilvægar tillögur.
+  - Skipuleggja endurnýjun eða afnám eldri klínískra kerfa og rekstrarkerfa, þar á meðal gagnaflutning og öryggisáhættu.
+  - Tryggja að kröfur um samvirkni, öryggi og upplýsingastjórnun séu byggðar inn í vegvísa.
+  - Leiðbeina fyrirtækjaarkitektum og lausnaarkitektum.
+  qualifications:
+  - Umfangsmikil reynsla af fyrirtækja- eða lausnaarkitektúr þvert á nokkur svið.
+  - Þekking á ramma fyrirtækjaarkitektúrs, svo sem TOGAF, eða sambærileg reynsla.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 7): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8b. Áætlanagerð er á stigi 5 fyrir langtímavegvísa með áhrifum þvert á stofnunina; þekking er á stigi 8 fyrir þekkingu þvert á viðskipta-, upplýsinga-, hugbúnaðar- og tæknilegan arkitektúr.'
+- title: Leiðandi fyrirtækjaarkitekt
+  responsibilities:
+  - Bera ábyrgð á fyrirtækjaarkitektúr fyrir stóran hluta stofnunarinnar, svo sem klínísk kerfi eða sameiginlega innviði.
+  - Stýra eða leiða arkitektúrhönnunarnefndina og setja þá staðla sem verkefni verða að uppfylla.
+  - Ráðleggja sviðsstjórum um forgangsröðun fjárfestinga, birgjastefnu og tækniáhættu.
+  - Vinna með samstarfsstofnunum að því að samræma arkitektúr þvert á umönnunarleiðir og sameiginlegar skrár.
+  - Stýra og þróa fyrirtækjaarkitekta og efla arkitektúrfagsamfélagið.
+  qualifications:
+  - Umfangsmikil reynsla af fyrirtækjaarkitektúr í flókinni stofnun.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 8b): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8c. Upplýsingaauðlindir eru á stigi 6 því starfið stýrir arkitektúr upplýsingakerfa þvert á stóran hluta stofnunarinnar; stefna og fólk eru ofar sniði launaflokks 8b því það setur staðla fyrir öll verkefni og stýrir fyrirtækjaarkitektum.'
+- title: Aðal fyrirtækjaarkitekt
+  responsibilities:
+  - Móta framtíðarsýn, meginreglur og stefnu stofnunarinnar í fyrirtækjaarkitektúr, samræmda heilbrigðis- og velferðarstefnu hennar.
+  - Ráðleggja framkvæmdastjórn og stjórn um arkitektúr, áhættu og virði stórra stafrænna fjárfestinga.
+  - Stýra arkitektúrstarfi stofnunarinnar, stjórnarháttum og stöðlum.
+  - Vera fulltrúi stofnunarinnar í arkitektúr- og samvirknivettvangi þvert á stofnanir.
+  - Byggja upp arkitektúrgetu þvert á stofnunina, þar á meðal ráðningar og starfsferla.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í fyrirtækjaarkitektúr þvert á stofnanir.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 8c): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8d. Stefna og svigrúm til athafna eru á stigi 6 því starfið ber ábyrgð á vettvangi stofnunarinnar á framtíðarsýn, meginreglum og stefnu hennar í arkitektúr.'

@@ -1,0 +1,57 @@
+summary: "Wasanifu wa kiufundi husanifu muundo wa kiufundi wa huduma za afya za kidijitali za taasisi: vijenzi, majukwaa, uhifadhi, mifumo ya uunganishaji, na sifa zisizo za kiutendaji kama usalama, utendaji na ustahimilivu. Hufanya kazi kwa karibu na wasanidi na wahandisi wa DevOps, hutoa uongozi wa kiufundi kwa timu za utoaji, na kuhakikisha huduma zinajengwa kudumu na ni salama kuendesha."
+health_context:
+- Huduma za kitabibu mara nyingi zinahitaji upatikanaji wa juu na urejeshaji wa haraka, hivyo miundo ya kiufundi lazima ipange kwa ajili ya kushindwa na kuendesha kwa kiwango kilichopungua.
+- Miundo lazima ilinde taarifa za siri za afya kwa usimbaji fiche, udhibiti wa ufikiaji na ukaguzi kama kawaida.
+- Huduma huunganishwa na mifumo mingi ya kitabibu na majukwaa yanayoshirikiwa, mara nyingi kupitia API za HL7 FHIR na ujumbe, hivyo mifumo ya uunganishaji ni kiini cha usanifu.
+- Uchaguzi wa usanifu wa kiufundi, kama vile uhifadhi wa muda, kujaribu tena na ushughulikiaji wa muda, unaweza kusababisha hatari za kitabibu, hivyo wasanifu huchangia hoja za usalama.
+- Mifumo ya zamani ya kitabibu na vifaa tiba vinaweza kuzuia uchaguzi wa teknolojia, mitandao na uhifadhi.
+levels:
+- title: Msanifu msaidizi wa kiufundi
+  responsibilities:
+  - Kuchora michoro ya kiufundi na kuandika vijenzi, uhifadhi na miunganisho ya huduma zilizopo.
+  - Kutafiti chaguzi za teknolojia na kufupisha faida na hasara zake, kwa mwongozo.
+  - Kufanya kazi na wasanidi kukagua kama ujenzi unafuata miundo na mifumo iliyokubaliwa.
+  - Kurekodi maamuzi ya kiufundi na kuweka nyaraka za usanifu zikiwa za kisasa.
+  qualifications:
+  - Shahada katika kompyuta au somo linalohusiana, au uzoefu unaolingana katika uhandisi wa programu au miundombinu.
+  - Maarifa maalumu ya usanifu wa kiufundi, katika kiwango cha stashahada ya uzamili au uzoefu unaolingana.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 5): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 6. Maarifa yamepewa alama ya kiwango cha stashahada ya uzamili, na rasilimali za taarifa kiwango cha 5 kwa sababu kazi inasanifu sehemu za mifumo mikubwa ya taarifa."
+- title: Msanifu wa kiufundi
+  responsibilities:
+  - Kubuni usanifu wa kiufundi wa huduma, ikiwemo vijenzi, uhifadhi, uunganishaji na usalama.
+  - Kutoa mifumo ya usanifu kwa timu za utoaji na kukagua miundo yao ya kiufundi na muundo wa msimbo.
+  - Kufafanua mahitaji yasiyo ya kiutendaji, kama vile upatikanaji, utendaji na malengo ya urejeshaji, pamoja na wamiliki wa huduma.
+  - Kutambua deni la kiufundi na teknolojia isiyoungwa mkono, na kupanga jinsi ya kuirekebisha.
+  - Kutambua hatari za kiufundi na udhibiti kwa hoja ya usalama wa kitabibu.
+  qualifications:
+  - Maarifa maalumu ya usanifu wa kiufundi, katika kiwango cha shahada ya uzamili au uzoefu unaolingana.
+  - Uzoefu wa kubuni au kujenga programu au miundombinu ya uzalishaji.
+  job_evaluation_notes: Imewekwa katika pendekezo la daraja la UK GDaD PCF la Daraja la 7, sambamba na matangazo ya sekta ya afya kwa nafasi hii. Maarifa yamepewa alama ya kiwango cha shahada ya uzamili au kinacholingana kwa maarifa maalumu katika wigo wa usanifu wa kiufundi.
+- title: Msanifu mwandamizi wa kiufundi
+  responsibilities:
+  - Kuongoza usanifu wa kiufundi wa huduma kubwa, tata au zenye hatari kubwa, kama vile mifumo ya kitabibu na majukwaa ya uunganishaji yanayoshirikiwa.
+  - Kuweka mwelekeo wa kiufundi kwa timu moja au zaidi za utoaji na kupinga miundo inayoongeza hatari.
+  - Kubuni kwa ustahimilivu, urejeshaji baada ya maafa na uendeshaji salama, na kukagua kama timu zinajaribu.
+  - Kueleza hatari za kiufundi na maridhiano kwa wamiliki wa huduma, viongozi wa kitabibu na wadau wakuu kwa lugha rahisi.
+  - Kuwa mshauri na kuwaongoza wasanifu wa kiufundi na wasanidi waandamizi.
+  qualifications:
+  - Uzoefu mkubwa wa usanifu wa kiufundi kwa huduma tata, katika kiwango kinacholingana na shahada ya uzamili.
+  job_evaluation_notes: "Imewekwa katika daraja la juu zaidi ya pendekezo la daraja la UK GDaD PCF (Daraja la 7): matangazo ya sekta ya afya yanaweka nafasi hii katika Daraja la 8a. Mipango, sera na uhuru wa kutenda vimepewa alama za juu zaidi ya wasifu wa Daraja la 7 kwa sababu kazi inaweka mwelekeo wa kiufundi kwa timu kadhaa kwa usimamizi mdogo."
+- title: Msanifu kiongozi wa kiufundi
+  responsibilities:
+  - Kuongoza usanifu wa kiufundi katika huduma au timu kadhaa, akiweka mifumo na viwango vinavyoshirikiwa.
+  - Kuhakikisha ubora wa kiufundi wa miundo katika mamlaka za usanifu, ikiwemo usalama, ustahimilivu na ushirikiano wa mifumo.
+  - Kuunda ramani ya njia ya teknolojia ya taasisi pamoja na wasanifu wa taasisi na viongozi wa uhandisi.
+  - Kuwashauri viongozi wakuu kuhusu uchaguzi wa teknolojia, uwekezaji wa jukwaa na hatari za kiufundi.
+  - Kuongoza na kuendeleza wasanifu wa kiufundi.
+  qualifications:
+  - Uzoefu mpana wa kuongoza usanifu wa kiufundi kwa huduma tata.
+- title: Msanifu mkuu wa kiufundi
+  responsibilities:
+  - Kuweka mkakati, kanuni na viwango vya usanifu wa kiufundi wa taasisi.
+  - Kusimamia usanifu wa kiufundi katika taasisi, ikiwemo mamlaka ya usanifu wa kiufundi.
+  - Kuishauri timu ya watendaji kuhusu maamuzi makubwa ya teknolojia, kama vile mkakati wa uhifadhi na kuunganisha majukwaa.
+  - Kuiwakilisha taasisi katika jumuiya za kiufundi na za viwango za taasisi mbalimbali.
+  - Kuwatia moyo na kuwaendeleza wasanifu katika taasisi.
+  qualifications:
+  - Uzoefu mpana wa kuongoza usanifu wa kiufundi katika timu au taasisi nyingi.

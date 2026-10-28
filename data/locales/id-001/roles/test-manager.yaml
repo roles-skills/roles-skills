@@ -1,0 +1,27 @@
+summary: >
+  Manajer pengujian merencanakan, memimpin, dan menjamin pengujian untuk layanan dan program kesehatan digital organisasi. Mereka memutuskan seberapa banyak pengujian yang diperlukan dan dari jenis apa, mengelola tim uji, lingkungan, dan pemasok, dan memberi tahu pengambil keputusan dengan jelas risiko apa yang tersisa sebelum layanan diluncurkan. Dalam layanan kesehatan ini mencakup memastikan pengujian mendukung kasus keselamatan klinis dan persyaratan regulasi apa pun.
+health_context:
+  - Keputusan peluncuran sistem klinis bergantung pada bukti uji dan risiko sisa, yang dilaporkan manajer pengujian kepada pemilik produk, petugas keselamatan klinis, dan dewan program.
+  - Perubahan besar, seperti peningkatan rekam pasien elektronik, memerlukan pengujian di banyak departemen, sistem, dan pemasok, dan sering memerlukan waktu staf klinis untuk pengujian penerimaan.
+  - Pengujian harus menyesuaikan dengan layanan klinis, seperti merencanakan uji pengalihan dan gladi bersih agar gangguan pada perawatan pasien tetap rendah.
+  - Perangkat lunak yang diatur dan perubahan kritis keselamatan memerlukan pengujian yang memenuhi standar seperti IEC 62304 dan proses manajemen risiko klinis organisasi.
+levels:
+  - title: Manajer pengujian
+    responsibilities:
+      - Memimpin perencanaan uji untuk sebuah produk atau program, mencakup lingkungan, data, perangkat, sumber daya, jadwal, dan risiko klinis.
+      - Merencanakan pengujian penerimaan pengguna bersama pimpinan klinis dan operasional, dan mengamankan waktu tenaga klinis untuk ikut serta.
+      - Mengelola tim analis dan insinyur uji, termasuk penguji pemasok.
+      - Memastikan pengujian memenuhi persyaratan keselamatan klinis, tata kelola informasi, dan regulasi.
+      - Melaporkan kemajuan uji, cacat, dan risiko sisa kepada pemilik produk, petugas keselamatan klinis, dan dewan program.
+      - Memperbaiki proses uji dan menyepakati standar pengujian dengan tim penyampaian.
+    qualifications:
+      - Pengalaman yang substansial dalam manajemen pengujian untuk layanan digital yang kompleks, pada tingkat yang setara dengan gelar magister.
+  - title: Kepala pengujian
+    responsibilities:
+      - Menetapkan strategi, standar, dan kerangka pengujian organisasi untuk layanan kesehatan digital.
+      - Memastikan pengujian organisasi memenuhi persyaratan keselamatan klinis, alat kesehatan, dan regulasi lainnya.
+      - Memilih perangkat dan teknologi pengujian, serta mengelola anggaran pengujian dan kontrak pemasok.
+      - Menasihati pimpinan senior tentang risiko mutu dan keselamatan sebelum rilis besar dan keputusan peluncuran.
+      - Memimpin dan mengembangkan manajer, analis, dan insinyur pengujian, serta membangun kapabilitas pengujian organisasi.
+    qualifications:
+      - Pengalaman luas dalam memimpin pengujian di sebuah organisasi.

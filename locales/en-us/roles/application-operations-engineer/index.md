@@ -78,8 +78,8 @@ Application operations engineers keep the organization's applications running in
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -104,7 +104,7 @@ Knowledge is scored at the level the job needs once training is complete enough 
 > 
 > At this role level, you will:
 > - monitor applications and be accountable for batch processes
-> - in some organizations, carry out the duties of an end user computing engineer, such as fixing technical problems, maintaining hardware and liaising with the problem or incident manager
+> - in some organisations, carry out the duties of an end user computing engineer, such as fixing technical problems, maintaining hardware and liaising with the problem or incident manager
 
 ### Responsibilities
 
@@ -122,7 +122,7 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Working | You can:<br>• maintain secure configuration and accurate information<br>• control IT assets in one or more areas<br>• verify the location and state of IT assets |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Working | You can:<br>• manage service components to ensure they meet business needs and key performance indicators (KPIs) |
 | [Change management](../../skills/#change-management) | UK GDaD PCF | Awareness | You can:<br>• implement change requests<br>• apply change control procedures under supervision |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of developing process efficiency and common ways in which processes are optimized<br>• support specific activities to improve development processes<br>• spot or identify obvious deficiencies |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Awareness | You can:<br>• show an awareness of developing process efficiency and common ways in which processes are optimised<br>• support specific activities to improve development processes<br>• spot or identify obvious deficiencies |
 | [Incident management](../../skills/#incident-management) | UK GDaD PCF | Awareness | You can:<br>• identify and register incidents, gathering the required information and allocating it to the appropriate channel |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Working | You can:<br>• own an issue until a new owner has been found or the problem has been mitigated or resolved |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Awareness | You can:<br>• investigate problems in systems, processes and services, with an understanding of the level of a problem, for example, strategic, tactical or operational<br>• contribute to the implementation of remedies and preventative measures |
@@ -156,8 +156,8 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -193,16 +193,16 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | --- | --- | --- | --- |
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Working | You can:<br>• maintain secure configuration and accurate information<br>• control IT assets in one or more areas<br>• verify the location and state of IT assets |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Working | You can:<br>• manage service components to ensure they meet business needs and key performance indicators (KPIs) |
-| [Change management](../../skills/#change-management) | UK GDaD PCF | Working | You can:<br>• analyze and assess the impact of change<br>• document change requests<br>• action changes from change requests |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Working | You can:<br>• identify process optimization opportunities with guidance, and contribute to the implementation of proposed solutions |
-| [Incident management](../../skills/#incident-management) | UK GDaD PCF | Working | You can:<br>• diagnose and prioritize incidents, investigate their causes and find resolutions |
+| [Change management](../../skills/#change-management) | UK GDaD PCF | Working | You can:<br>• analyse and assess the impact of change<br>• document change requests<br>• action changes from change requests |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Working | You can:<br>• identify process optimisation opportunities with guidance, and contribute to the implementation of proposed solutions |
+| [Incident management](../../skills/#incident-management) | UK GDaD PCF | Working | You can:<br>• diagnose and prioritise incidents, investigate their causes and find resolutions |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Working | You can:<br>• own an issue until a new owner has been found or the problem has been mitigated or resolved |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Working | You can:<br>• initiate and monitor actions to investigate patterns and trends to resolve problems<br>• effectively consult specialists where required<br>• determine the appropriate resolution and assist with its implementation<br>• determine preventative measures |
 | [Service focus](../../skills/#service-focus) | UK GDaD PCF | Working | You can:<br>• take inputs and establish coherent frameworks that work |
 | [Service management framework knowledge](../../skills/#service-management-framework-knowledge) | UK GDaD PCF | Awareness | You can:<br>• show you have a Level 3 service management framework qualification |
-| [Technical specialism](../../skills/#technical-specialism) | UK GDaD PCF | Working | You can:<br>• use management system software and tools<br>• use logical schemata to investigate problems, collect performance statistics and create reports<br>• carry out the routine configuration, installation and reconfiguration of database and related products<br>• optimize performance and forecast resource needs |
+| [Technical specialism](../../skills/#technical-specialism) | UK GDaD PCF | Working | You can:<br>• use management system software and tools<br>• use logical schemata to investigate problems, collect performance statistics and create reports<br>• carry out the routine configuration, installation and reconfiguration of database and related products<br>• optimise performance and forecast resource needs |
 | [Technical understanding](../../skills/#technical-understanding) | UK GDaD PCF | Working | You can:<br>• understand the core technical concepts related to the role, and apply them with guidance |
-| [Testing](../../skills/#testing) | UK GDaD PCF | Working | You can:<br>• review requirements and specifications, and define test conditions<br>• identify issues and risks associated with work<br>• analyze and report test activities and results |
+| [Testing](../../skills/#testing) | UK GDaD PCF | Working | You can:<br>• review requirements and specifications, and define test conditions<br>• identify issues and risks associated with work<br>• analyse and report test activities and results |
 | [User focus](../../skills/#user-focus) | UK GDaD PCF | Working | You can:<br>• identify and engage with users or stakeholders to collate user needs evidence<br>• understand and define research that fits user needs<br>• use quantitative and qualitative data about users to turn user focus into outcomes |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognize when a change could affect patient care and raise it |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
@@ -228,8 +228,8 @@ Knowledge is scored at the level the job needs once training is complete enough 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -272,7 +272,7 @@ Mental effort reflects frequent prolonged concentration during go-lives, deploym
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Working | You can:<br>• maintain secure configuration and accurate information<br>• control IT assets in one or more areas<br>• verify the location and state of IT assets |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Working | You can:<br>• manage service components to ensure they meet business needs and key performance indicators (KPIs) |
 | [Change management](../../skills/#change-management) | UK GDaD PCF | Practitioner | You can:<br>• manage high impact, complex change requests<br>• ensure that release policies, procedures and processes are applied |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Working | You can:<br>• identify process optimization opportunities with guidance, and contribute to the implementation of proposed solutions |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Working | You can:<br>• identify process optimisation opportunities with guidance, and contribute to the implementation of proposed solutions |
 | [Incident management](../../skills/#incident-management) | UK GDaD PCF | Practitioner | You can:<br>• lead the investigation and resolution of incidents |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Practitioner | You can:<br>• take accountability for issues that occur and be proactive in searching for potential problems<br>• achieve excellent user outcomes |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Working | You can:<br>• initiate and monitor actions to investigate patterns and trends to resolve problems<br>• effectively consult specialists where required<br>• determine the appropriate resolution and assist with its implementation<br>• determine preventative measures |
@@ -281,14 +281,14 @@ Mental effort reflects frequent prolonged concentration during go-lives, deploym
 | [Technical specialism](../../skills/#technical-specialism) | UK GDaD PCF | Practitioner | You can:<br>• draft and maintain procedures and documentation<br>• set standards for the definition, security and integrity of objects, and ensure conformity to these standards |
 | [Technical understanding](../../skills/#technical-understanding) | UK GDaD PCF | Working | You can:<br>• understand the core technical concepts related to the role, and apply them with guidance |
 | [Testing](../../skills/#testing) | UK GDaD PCF | Practitioner | You can:<br>• manage the planning of system and acceptance tests, co-ordinating both functional and non-functional specifications<br>• provide authoritative advice and guidance on test planning<br>• identify process improvements and contribute to the definition of best practice |
-| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritize and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
+| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritise and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Practitioner | You can:<br>• design and run identity and access services<br>• review access regularly and fix problems |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
 | [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Working | You can:<br>• read and use FHIR resources, profiles, and APIs<br>• build or test simple integrations under guidance<br>• check messages against a specification |
 | [Medical device software regulation](../../skills/#medical-device-software-regulation) | This reference | Awareness | You can:<br>• explain that some health software is regulated as a medical device<br>• know who to ask when a product might be a medical device |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 | [People management](../../skills/#people-management) | This reference | Working | You can:<br>• supervise day-to-day work and give feedback<br>• take part in recruitment and induction<br>• hold regular one-to-one conversations |
 
 ### Typical qualifications and experience
@@ -298,7 +298,7 @@ Mental effort reflects frequent prolonged concentration during go-lives, deploym
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -309,8 +309,8 @@ Mental effort reflects frequent prolonged concentration during go-lives, deploym
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -351,7 +351,7 @@ Mental effort reflects frequent prolonged concentration during go-lives, deploym
 | [Asset and configuration management](../../skills/#asset-and-configuration-management) | UK GDaD PCF | Practitioner | You can:<br>• manage configuration items and related information<br>• manage service compliance and risk |
 | [Availability and capacity management](../../skills/#availability-and-capacity-management) | UK GDaD PCF | Practitioner | You can:<br>• ensure the correct implementation of availability and capacity management standards and procedures<br>• identify capacity issues and implement the required changes<br>• initiate remedial action |
 | [Change management](../../skills/#change-management) | UK GDaD PCF | Practitioner | You can:<br>• manage high impact, complex change requests<br>• ensure that release policies, procedures and processes are applied |
-| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Practitioner | You can:<br>• analyze current processes, and identify and implement opportunities to optimize them<br>• lead and develop a team of experts to deliver service improvements<br>• help to evaluate and establish requirements for the implementation of changes by setting policy and standards |
+| [Continual service improvement](../../skills/#continual-service-improvement) | UK GDaD PCF | Practitioner | You can:<br>• analyse current processes, and identify and implement opportunities to optimise them<br>• lead and develop a team of experts to deliver service improvements<br>• help to evaluate and establish requirements for the implementation of changes by setting policy and standards |
 | [Incident management](../../skills/#incident-management) | UK GDaD PCF | Practitioner | You can:<br>• lead the investigation and resolution of incidents |
 | [Ownership and initiative](../../skills/#ownership-and-initiative) | UK GDaD PCF | Practitioner | You can:<br>• take accountability for issues that occur and be proactive in searching for potential problems<br>• achieve excellent user outcomes |
 | [Problem management](../../skills/#problem-management) | UK GDaD PCF | Practitioner | You can:<br>• ensure that the right actions are taken to investigate, resolve and anticipate problems<br>• co-ordinate the team to investigate problems, implement solutions and take preventive measures |
@@ -360,14 +360,14 @@ Mental effort reflects frequent prolonged concentration during go-lives, deploym
 | [Technical specialism](../../skills/#technical-specialism) | UK GDaD PCF | Expert | You can:<br>• understand the direction of future technologies<br>• deliver a model to support and maintain those future technologies and any databases that coexist in the current environment |
 | [Technical understanding](../../skills/#technical-understanding) | UK GDaD PCF | Practitioner | You can:<br>• show a thorough understanding of the technical concepts required for the role, and can explain how these fit into the wider technical landscape |
 | [Testing](../../skills/#testing) | UK GDaD PCF | Expert | You can:<br>• manage testing activities within development or integration activities<br>• manage risks and take preventative action when risks become unacceptable<br>• manage customer relations |
-| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritize and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
+| [User focus](../../skills/#user-focus) | UK GDaD PCF | Practitioner | You can:<br>• collaborate with user researchers and can represent users internally<br>• explain the difference between user needs and the desires of the user<br>• champion user research to focus on all users<br>• prioritise and define approaches to understand the user story, guiding others in doing so<br>• offer recommendations on the best tools and methods to use |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
 | [Identity and access management](../../skills/#identity-and-access-management) | This reference | Practitioner | You can:<br>• design and run identity and access services<br>• review access regularly and fix problems |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Practitioner | You can:<br>• lead hazard identification and risk assessment for a product or change<br>• write and maintain hazard logs and clinical safety case reports<br>• agree risk controls with product teams and check that they work<br>• advise teams on applying clinical risk management standards |
 | [Health data interoperability](../../skills/#health-data-interoperability) | This reference | Working | You can:<br>• read and use FHIR resources, profiles, and APIs<br>• build or test simple integrations under guidance<br>• check messages against a specification |
 | [Medical device software regulation](../../skills/#medical-device-software-regulation) | This reference | Working | You can:<br>• follow a software life cycle process that meets medical device standards<br>• produce the records that such a process requires |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 | [Budget management](../../skills/#budget-management) | This reference | Working | You can:<br>• track spending against a small budget and raise variances<br>• authorize spending within your limit |
 
@@ -389,8 +389,8 @@ Mental effort reflects frequent prolonged concentration during go-lives, deploym
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -410,5 +410,5 @@ The UK GDaD PCF suggests Band 8c for this level (G6). This reference places it a
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

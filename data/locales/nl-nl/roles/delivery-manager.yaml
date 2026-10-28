@@ -1,0 +1,45 @@
+summary: Leveringsmanagers helpen multidisciplinaire teams digitale diensten voor gezondheid te leveren die werken voor patiënten, clinici en zorgpersoneel. Zij scheppen de voorwaarden waaronder teams goed werken, ruimen blokkades op, beheren risico’s en afhankelijkheden en houden de levering in beweging in een houdbaar tempo, met agile en lean werkwijzen.
+health_context:
+- Releases van diensten die de zorg voor patiënten ondersteunen moeten controles van klinische veiligheid en informatiebeheer doorstaan, dus leveringsmanagers verwerken deze in de plannen en de definition of done van het team.
+- Levering hangt vaak af van clinici en zorgpersoneel die beperkt tijd hebben buiten de patiënten, dus leveringsmanagers plannen onderzoek, testen en training rond klinische roosters.
+- Wijzigingen in live klinische diensten vragen zorgvuldige timing, dus leveringsmanagers plannen go-lives met operationele teams om drukke klinische periodes te mijden en ondersteuning gereed te hebben.
+- Teams zijn vaak afhankelijk van leveranciers van klinische systemen en van andere organisaties voor gezondheid en zorg, dus leveringsmanagers beheren externe afhankelijkheden en contracten.
+levels:
+- title: Associate leveringsmanager
+  responsibilities:
+  - Ceremonies van het team faciliteren, zoals stand-ups, planning, show-and-tells en retrospectives.
+  - Het bord van het team, het logboek van risico’s en kwesties en de registraties van afhankelijkheden actueel houden.
+  - De taken voor klinische veiligheid, informatiebeheer en toegankelijkheid volgen die vóór elke release nodig zijn.
+  - Sessies met clinici, zorgpersoneel en patiënten regelen voor onderzoek en testen, rekening houdend met klinische roosters.
+  - Een leveringsmanager in een groter team volgen en ondersteunen en onder begeleiding delen van het werk leveren.
+  qualifications:
+  - Enige ervaring met werken in of met een leveringsteam, of gelijkwaardige ervaring.
+- title: Leveringsmanager
+  responsibilities:
+  - De levering van een digitaal product of dienst voor gezondheid leiden door discovery, alpha, bèta en live.
+  - Releases plannen met operationele en klinische teams, inclusief ondersteuning bij go-live, training en plannen om terug te draaien.
+  - Zorgen dat borging van klinische veiligheid, informatiebeheer en toegankelijkheid gelijk oploopt met de levering en niet aan het eind komt.
+  - Het budget, de contracten met leveranciers en de bezetting van het team beheren.
+  - In gewone taal over voortgang, risico’s en baten rapporteren aan bestuursorganen.
+  - Een gezonde teamcultuur opbouwen en teamleden coachen in agile werkwijzen.
+  qualifications:
+  - Aanzienlijke ervaring met het leveren van digitale producten of diensten met agile methoden.
+  job_evaluation_notes: Er is geen niveau in Band 6 omdat het UK GDaD PCF geen niveau voor leveringsmanager heeft tussen associate (EO/HEO) en leveringsmanager (SEO/G7).
+- title: Senior leveringsmanager
+  responsibilities:
+  - De levering leiden van complexe diensten of diensten met hoog risico, zoals die worden gebruikt in spoedzorg of die een kernsysteem voor klinisch werk vervangen.
+  - Optreden als belangrijkste escalatiepunt voor risico’s, kwesties en afhankelijkheden in de levering over meerdere teams heen.
+  - Grootschalige uitrol over locaties en organisaties plannen, met klinischeveiligheidsfunctionarissen en operationele leiders.
+  - Budgetten, commerciële afspraken en prestaties van leveranciers voor de dienst beheren.
+  - Hiërarchisch leiding geven aan en ontwikkelen van leveringsmanagers.
+  qualifications:
+  - Uitgebreide ervaring met het leveren van complexe digitale diensten gedurende hun hele levenscyclus.
+- title: Hoofd leveringsmanagement
+  responsibilities:
+  - Het vakgebied leveringsmanagement leiden en de normen van de organisatie voor agile levering vaststellen.
+  - Leveringsmanagers over het portfolio heen werven, ontwikkelen en inzetten.
+  - Zorgen dat leveringsaanpakken voldoen aan eisen voor klinische veiligheid, informatiebeheer en borging zonder teams onnodig te vertragen.
+  - Directie en klinische leiders adviseren over risico’s, capaciteit en prioriteiten van de levering.
+  - Het budget en het personeelsplan van het vakgebied beheren.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van levering over meerdere teams en met het leiden van een leveringspraktijk.

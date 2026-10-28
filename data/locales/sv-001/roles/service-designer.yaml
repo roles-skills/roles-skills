@@ -1,0 +1,62 @@
+summary: >
+  Tjänstedesigners utformar hälso- och vårdtjänster från början till slut, från det ögonblick någon först behöver hjälp till slutet av deras vård, över digitala kanaler, telefon, papper och fysiska möten. De arbetar med patienter, närstående, kliniker och vårdpersonal för att kartlägga hur tjänster verkligen fungerar, hitta var de sviker människor och utforma tjänster som är trygga, enkla och rättvisa och som fungerar över organisationsgränser.
+health_context:
+  - Vårdförlopp korsar många organisationer och professioner, så tjänstedesigners kartlägger hela resor, inklusive överlämningar, väntetider och det arbete patienter och närstående gör för att hålla ihop vården.
+  - Ändringar i hur en tjänst fungerar kan skapa nya kliniska risker, så tjänstedesigners arbetar med kliniska säkerhetsansvariga för att identifiera faror i nya tjänstemodeller innan de tas i drift.
+  - Digitala tjänster får inte stänga ute människor som inte kan eller vill använda dem, så tjänstedesigners utformar assisterade och icke-digitala vägar vid sidan av digitala.
+  - Klinisk personal och verksamhetspersonal är en del av tjänsten, så designer måste passa deras arbetsflöden, arbetsbelastning och professionella ansvar, och inte bara patientens resa.
+levels:
+  - title: Biträdande tjänstedesigner
+    responsibilities:
+      - Lära sig metoder för tjänstedesign genom utbildning och genom att arbeta tillsammans med erfarna designers.
+      - Hjälpa till att kartlägga användarresor och tjänsteritningar utifrån forskning med patienter och personal.
+      - Hjälpa till att förbereda och genomföra samdesignworkshoppar, enligt rutiner för samtycke och informationsstyrning.
+      - Dokumentera designbeslut och hålla designartefakter uppdaterade.
+    qualifications:
+      - På väg mot en kvalifikation eller lärlingsutbildning inom design eller ett närliggande område, eller motsvarande erfarenhet.
+  - title: Junior tjänstedesigner
+    responsibilities:
+      - Kartlägga nuvarande resor och tjänsteritningar för delar av ett vårdförlopp, såsom bokning eller uppföljning.
+      - Utforma och testa förbättringar av delar av en tjänst, under ledning av en mer senior designer.
+      - Genomföra samdesignsessioner med patienter, närstående och personal och anpassa dem så att alla kan delta.
+      - Identifiera var en tjänst skapar extra arbete eller risk för patienter eller personal och lyfta det i teamet.
+    qualifications:
+      - En examen i design eller ett närliggande ämne, eller motsvarande erfarenhet.
+  - title: Tjänstedesigner
+    responsibilities:
+      - Utforma tjänster från början till slut över kanaler, inklusive assisterade och icke-digitala vägar för människor som behöver dem.
+      - Kartlägga vårdförlopp över organisationer och utforma bättre överlämningar mellan team och tjänster.
+      - Utforma hur tjänsten fungerar för personal, inklusive roller, arbetsbelastning och arbetsflöden, tillsammans med operativa ledare.
+      - Arbeta med kliniska säkerhetsansvariga för att identifiera faror i nya tjänstemodeller och utforma kontroller.
+      - Prototypa och testa tjänständringar med patienter, närstående och personal.
+    qualifications:
+      - En examen i design eller ett närliggande ämne, eller motsvarande erfarenhet.
+      - Erfarenhet av att utforma tjänster tillsammans med användare.
+  - title: Senior tjänstedesigner
+    responsibilities:
+      - Leda utformningen av komplexa tjänster som spänner över flera vårdmiljöer eller organisationer.
+      - Forma tjänstens vision tillsammans med kliniska, operativa och digitala ledare.
+      - Utforma nya tjänstemodeller som förbättrar säkerhet, tillgång och jämlikhet och testa dem med verkliga användare.
+      - Se till att tjänständringar bedöms med avseende på klinisk risk, likabehandling och effekter på informationsstyrning.
+      - Handleda designers och förankra tjänstedesign i team.
+    qualifications:
+      - Betydande erfarenhet av tjänstedesign, på en nivå motsvarande en masterexamen.
+  - title: Ledande tjänstedesigner
+    responsibilities:
+      - Fastställa designriktningen för flera tjänster eller ett helt vårdförlopp och kvalitetssäkra design över team.
+      - Arbeta med seniora kliniska och operativa ledare för att utforma om hur vård organiseras och levereras.
+      - Se till att designer fungerar för de människor som påverkas mest av ojämlikhet i hälsa och för personal under press.
+      - Fastställa standarder för hur team utformar för klinisk säkerhet och för assisterade vägar.
+      - Ha linjeansvar för och utveckla tjänstedesigners.
+    qualifications:
+      - Omfattande erfarenhet av att leda tjänstedesign över team.
+    job_evaluation_notes: Det finns ingen nivå i band 8a, eftersom UK GDaD PCF placerar ledande tjänstedesigner vid G7 eller G6 och den här referensen följer det föreslagna bandet 8b. Policy är nivå 5 eftersom den ledande designern formar hur en rad tjänster inom en direktörsenhet fungerar.
+  - title: Chef för tjänstedesign
+    responsibilities:
+      - Leda yrket tjänstedesign och fastställa dess strategi, standarder och arbetssätt.
+      - Påverka organisationens strategi så att tjänster utformas kring behoven hos patienter, närstående och personal.
+      - Bygga förmåga inom tjänstedesign, inklusive rekrytering, karriärvägar och utbildning.
+      - Skapa förutsättningar för god design, såsom tillgång till användare, tid för forskning och design i styrningen.
+      - Arbeta med kollegor i hela hälso- och sjukvårdssystemet för att utforma sammanhållna tjänster.
+    qualifications:
+      - Omfattande erfarenhet av att leda design och en designpraktik.

@@ -1,0 +1,65 @@
+summary: Chuyên viên mã hóa lâm sàng đọc hồ sơ sức khỏe của bệnh nhân và chuyển chẩn đoán, thủ thuật và các thông tin lâm sàng khác thành các mã phân loại chuẩn, như ICD cho chẩn đoán và một bảng phân loại thủ thuật cho các can thiệp. Dữ liệu đã mã hóa được dùng cho thanh toán, lập kế hoạch dịch vụ, kiểm toán lâm sàng, nghiên cứu và thống kê y tế công cộng, nên độ chính xác của nó quan trọng vượt ra ngoài nhóm mã hóa. Các chuyên viên mã hóa làm việc chặt chẽ với bác sĩ lâm sàng để làm rõ hồ sơ, và ngày càng dùng các bộ thuật ngữ lâm sàng như SNOMED CT và công cụ mã hóa có máy hỗ trợ.
+health_context:
+- Chuyên viên mã hóa đọc toàn bộ hồ sơ bệnh án, thường mô tả bệnh nặng, chấn thương, lạm dụng, tự hại và tử vong, nên công việc đòi hỏi nhiều về mặt cảm xúc và các nhóm cần được hỗ trợ và giám sát tốt.
+- Dữ liệu đã mã hóa quyết định việc thanh toán theo hoạt động, các chỉ số tử vong và kết quả, và lập kế hoạch dịch vụ, nên sai sót có thể ảnh hưởng đến nguồn tài trợ, hiệu quả hoạt động được công bố và các quyết định về chăm sóc.
+- Việc mã hóa phụ thuộc vào chất lượng tài liệu lâm sàng, nên chuyên viên mã hóa hỏi lại bác sĩ lâm sàng về các hồ sơ chưa rõ và giúp cải thiện cách ghi chép việc chăm sóc.
+- Chuyên viên mã hóa xử lý đầy đủ hồ sơ sức khỏe có thể nhận dạng mỗi ngày, nên bảo mật và quyền truy cập đúng là thiết yếu.
+- Mã hóa tự động và có máy hỗ trợ, cùng việc ánh xạ từ SNOMED CT sang các bảng phân loại, đang thay đổi công việc, và chuyên viên mã hóa kiểm tra các mã tự động có đúng hay không.
+levels:
+- title: Chuyên viên mã hóa lâm sàng tập sự
+  summary: Chuyên viên mã hóa lâm sàng tập sự học cách mã hóa các đợt nhập viện đơn giản dưới sự giám sát chặt chẽ, hướng tới bằng cấp mã hóa lâm sàng.
+  responsibilities:
+  - Mã hóa các đợt điều trị đơn giản, như ca trong ngày, từ hồ sơ sức khỏe theo các quy tắc phân loại, với toàn bộ công việc được một chuyên viên mã hóa cao cấp kiểm tra.
+  - Học các thuật ngữ y khoa, giải phẫu và các tiêu chuẩn mã hóa quốc gia và quốc tế qua đào tạo có cấu trúc.
+  - Tìm, theo dõi và trả hồ sơ sức khỏe đúng cách, và giữ chúng an toàn.
+  - Ghi dữ liệu đã mã hóa vào hệ thống quản lý bệnh nhân hoặc mã hóa một cách chính xác và đúng hạn.
+  - Nêu với chuyên viên mã hóa cao cấp những thông tin chưa rõ hoặc còn thiếu.
+  qualifications:
+  - Có kỹ năng đọc viết và gõ bàn phím tốt, và đã đăng ký chương trình đào tạo mã hóa lâm sàng, hoặc tương đương.
+  job_evaluation_notes: Nỗ lực trí tuệ ở mức 4 vì chuyên viên mã hóa tập trung trong thời gian dài để đọc và diễn giải hồ sơ bệnh án chi tiết. Nỗ lực cảm xúc ở mức 2 vì chuyên viên mã hóa thường xuyên đọc các hồ sơ mô tả sự kiện gây đau buồn.
+- title: Chuyên viên mã hóa lâm sàng
+  summary: Chuyên viên mã hóa lâm sàng tự mã hóa độc lập và chính xác đầy đủ các đợt điều trị thường lệ, đáp ứng thời hạn và tiêu chuẩn chất lượng đã thống nhất.
+  responsibilities:
+  - Mã hóa chính xác các đợt nội trú, ca trong ngày và ngoại trú trên các chuyên khoa phổ biến, theo các quy tắc phân loại và chính sách địa phương.
+  - Hỏi lại bác sĩ lâm sàng về thông tin lâm sàng chưa rõ, còn thiếu hoặc mâu thuẫn và ghi lại kết quả.
+  - Kiểm tra các mã do mã hóa có máy hỗ trợ hoặc bản đồ thuật ngữ gợi ý, và sửa khi cần.
+  - Đáp ứng thời hạn về độ đầy đủ của mã hóa, để dữ liệu sẵn sàng cho thanh toán và báo cáo.
+  - Tham gia các cuộc kiểm toán mã hóa và hành động theo các phát hiện.
+  qualifications:
+  - Có bằng cấp mã hóa lâm sàng được công nhận, hoặc đang hướng tới bằng cấp đó cùng kinh nghiệm tương đương.
+  job_evaluation_notes: Nỗ lực trí tuệ và cảm xúc phản ánh những khoảng thời gian dài tập trung vào hồ sơ bệnh án thường mô tả bệnh nặng, chấn thương và tử vong.
+- title: Chuyên viên mã hóa lâm sàng cao cấp
+  summary: Chuyên viên mã hóa lâm sàng cao cấp mã hóa các đợt điều trị phức tạp trên nhiều chuyên khoa, là nguồn tư vấn chuyên môn cho các chuyên viên mã hóa khác, và kiểm tra và đào tạo các chuyên viên mã hóa ít kinh nghiệm hơn.
+  responsibilities:
+  - Mã hóa các đợt điều trị phức tạp, như hồi sức tích cực, ung thư, nhiều thủ thuật và tử vong, trên các chuyên khoa.
+  - Giải quyết các câu hỏi mã hóa khó cùng các bác sĩ hội chẩn và bác sĩ lâm sàng cấp cao khác, giải thích rõ ràng các quy tắc mã hóa.
+  - Kiểm tra công việc của các chuyên viên mã hóa tập sự và đưa phản hồi và đào tạo tại chỗ cho họ.
+  - Xác nhận dữ liệu đã mã hóa trước khi nộp và sửa lỗi cùng đúng nhóm.
+  - Làm việc với các nhóm lâm sàng để cải thiện chất lượng tài liệu lâm sàng.
+  qualifications:
+  - Có bằng cấp mã hóa lâm sàng được công nhận, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm mã hóa các đợt điều trị phức tạp trên nhiều chuyên khoa.
+  job_evaluation_notes: Nỗ lực cảm xúc vẫn ở mức 2, vì các đợt điều trị phức tạp như tử vong và chăm sóc ung thư là một phần thường xuyên của công việc.
+- title: Kiểm toán viên và giảng viên mã hóa lâm sàng
+  summary: Kiểm toán viên và giảng viên mã hóa lâm sàng kiểm toán độ chính xác của dữ liệu đã mã hóa, thiết kế và tổ chức đào tạo mã hóa, và tư vấn cho tổ chức về các tiêu chuẩn mã hóa. Ở một số tổ chức, cấp này còn dẫn dắt hằng ngày một nhóm mã hóa.
+  responsibilities:
+  - Lập kế hoạch và thực hiện các cuộc kiểm toán mã hóa trên các chuyên khoa, đo độ chính xác so với tiêu chuẩn quốc gia và quốc tế.
+  - Báo cáo các phát hiện kiểm toán cho các nhóm mã hóa, lâm sàng, tài chính và thông tin, và thống nhất các hành động cải tiến.
+  - Thiết kế và tổ chức đào tạo mã hóa, từ các khóa nền tảng cho chuyên viên mã hóa mới đến đào tạo bồi dưỡng về những thay đổi tiêu chuẩn.
+  - Tư vấn cho bác sĩ lâm sàng và quản lý về việc mã hóa ảnh hưởng đến thanh toán, các chỉ số tử vong và dữ liệu hiệu quả hoạt động như thế nào.
+  - Dẫn dắt việc áp dụng các thay đổi về phiên bản phân loại, tiêu chuẩn mã hóa và công cụ mã hóa.
+  - Dẫn dắt hằng ngày một nhóm mã hóa khi tổ chức kết hợp việc này với kiểm toán và đào tạo.
+  qualifications:
+  - Có bằng cấp mã hóa lâm sàng được công nhận và bằng cấp kiểm toán hoặc đào tạo mã hóa lâm sàng được công nhận, hoặc kinh nghiệm tương đương.
+  job_evaluation_notes: Con người ở mức 3 vì thiết kế và giảng dạy đào tạo mã hóa chuyên sâu là nhiệm vụ chính. Nghiên cứu ở mức 2 vì kiểm toán mã hóa là một phần thường xuyên của công việc.
+- title: Quản lý mã hóa lâm sàng
+  summary: Quản lý mã hóa lâm sàng dẫn dắt dịch vụ mã hóa lâm sàng của tổ chức, gồm các nhóm mã hóa, chương trình chất lượng và mối liên hệ với các nhóm lâm sàng, tài chính và thông tin.
+  responsibilities:
+  - Dẫn dắt dịch vụ mã hóa lâm sàng và các trưởng nhóm của dịch vụ, bảo đảm việc mã hóa đầy đủ, chính xác và đúng hạn.
+  - Đề ra các chính sách mã hóa và chương trình chất lượng mã hóa, theo tiêu chuẩn quốc gia và quốc tế.
+  - Nắm giữ ngân sách mã hóa và lập kế hoạch nhân lực, gồm tuyển dụng, đào tạo và công nhận.
+  - Tư vấn cho các lãnh đạo cấp cao về việc mã hóa ảnh hưởng đến nguồn tài trợ, các chỉ số tử vong và kết quả, và dữ liệu được công bố như thế nào.
+  - Dẫn dắt việc áp dụng công nghệ mã hóa mới, như mã hóa có máy hỗ trợ và ánh xạ thuật ngữ, cùng các đồng nghiệp về an toàn lâm sàng và quản trị thông tin.
+  - Hỗ trợ sức khỏe tinh thần của các chuyên viên mã hóa thường xuyên đọc các hồ sơ gây đau buồn.
+  qualifications:
+  - Có bằng cấp mã hóa lâm sàng được công nhận và kinh nghiệm sâu rộng về mã hóa, kiểm toán và dẫn dắt các chuyên viên mã hóa, hoặc kinh nghiệm tương đương.

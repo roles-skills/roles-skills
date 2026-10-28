@@ -1,0 +1,44 @@
+summary: Dataingeniører bygger og driver de pipelines og platforme, der flytter sundheds- og plejedata fra kliniske systemer og driftssystemer til steder, hvor de kan analyseres og bruges sikkert. De designer datastrømme, integrerer kilder, der bruger forskellige standarder, og sikrer, at data er korrekte, rettidige og sikre og kun tilgængelige for dem, der skal se dem.
+health_context:
+- Kildesystemer omfatter elektroniske patientjournaler samt laboratorie-, billeddiagnostik- og apoteksystemer, som bruger standarder som HL7 version 2, HL7 FHIR, SNOMED CT og ICD.
+- Pipelines bærer ofte identificerbare patientdata, så ingeniørerne bygger pseudonymisering, adgangskontrol og logning ind fra starten.
+- Nogle datastrømme understøtter direkte pleje, såsom advarsler eller patientlister, så en pipeline, der svigter eller er forsinket, kan påvirke patienter og kræver vurdering af klinisk sikkerhed.
+- Data skal ofte sammenkædes på tværs af plejemiljøer, hvilket afhænger af pålidelig patientmatchning og ensartede identifikatorer.
+levels:
+- title: Dataingeniør
+  responsibilities:
+  - Bygge og vedligeholde datapipelines fra kliniske systemer og driftssystemer til dataplatformen efter aftalte design.
+  - Kortlægge kildedata, herunder kodede kliniske data, til målmodeller og dokumentere kortlægningerne.
+  - Bygge pseudonymisering, validering og kontroller af datakvalitet ind i pipelines.
+  - Overvåge pipelines og rette fejl og prioritere datastrømme, der understøtter direkte pleje.
+  - Anvende adgangskontroller og logning, der opfylder reglerne for informationsstyring.
+  qualifications:
+  - En bacheloruddannelse i datalogi eller et beslægtet fag eller tilsvarende erfaring.
+  - Erfaring med at bygge datapipelines.
+- title: Senior dataingeniør
+  responsibilities:
+  - Designe datastrømme og streamingservices, der samler data fra mange sundheds- og plejesystemer.
+  - Designe processer til patientmatchning og sammenkædning og måle, hvor godt de virker.
+  - Lede arbejdet med database- og platformspræstation, så data er tilgængelige, når services har brug for dem.
+  - Vurdere datastrømmes risici for klinisk sikkerhed og informationsstyring sammen med de relevante specialister.
+  - Gennemgå andre ingeniørers arbejde og coache dem.
+  qualifications:
+  - Betydelig erfaring med at designe og bygge datasystemer på et niveau svarende til en kandidatgrad.
+- title: Ledende dataingeniør
+  responsibilities:
+  - Lede design og drift af organisationens dataplatform og dens mange datastrømme.
+  - Fastsætte tekniske standarder for pipelines, test, sikkerhed og dokumentation.
+  - Planlægge dataintegration med partnere i sundhed og pleje, herunder fælles plejejournaler og regionale dataservices.
+  - Sikre, at datastrømme, der understøtter direkte pleje, er robuste og har kliniske sikkerhedsbegrundelser.
+  - Koordinere dataingeniørteams og have personaleansvar for ingeniører.
+  qualifications:
+  - Omfattende erfaring med at lede dataingeniørarbejde for komplekse systemer.
+- title: Chef for dataingeniørarbejde
+  responsibilities:
+  - Fastlægge strategien for organisationens dataplatforme og dataingeniørservices.
+  - Lede tværfaglige teams, der leverer dataservices til interne teams og partnere i sundhed og pleje.
+  - Rådgive den øverste ledelse om risici, omkostninger og investering i dataplatforme.
+  - Sikre, at dataservices opfylder krav til informationsstyring, sikkerhed og klinisk sikkerhed.
+  - Opbygge kompetencer inden for dataingeniørarbejde gennem rekruttering, udvikling og karriereveje.
+  qualifications:
+  - Omfattende erfaring med at lede dataingeniørarbejde på tværs af flere teams.

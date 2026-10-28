@@ -124,6 +124,73 @@ def _load(code, *parts, default=None):
         return yaml.safe_load(f) or default
 
 
+# British to American spelling, for locales with `spelling: us`. Whole-word
+# stems with their endings; words such as advise, exercise, and enterprise are
+# the same in both spellings, so there is no blanket -ise rule.
+_US_STEMS = ("organis", "recognis", "specialis", "prioritis", "optimis", "summaris", "anonymis", "pseudonymis",
+             "authoris", "capitalis", "commercialis", "digitis", "mobilis", "minimis", "maximis", "realis",
+             "standardis", "categoris", "centralis", "utilis", "personalis", "finalis", "normalis", "harmonis",
+             "localis", "visualis", "operationalis", "rationalis", "formalis", "synchronis", "customis",
+             "institutionalis", "modernis", "monetis", "sensitis", "stabilis", "generalis", "familiaris",
+             "emphasis", "characteris", "criticis", "memoris", "materialis", "legitimis", "democratis")
+_US_ENDINGS = ("e", "ed", "es", "ing", "ation", "ations", "er", "ers", "ational", "ationally")
+_US_WORDS = {
+    "analyse": "analyze", "analysed": "analyze" + "d", "analyses": "analyses", "analysing": "analyzing",
+    "programme": "program", "programmes": "programs", "licence": "license", "licences": "licenses",
+    "judgement": "judgment", "judgements": "judgments", "judgemental": "judgmental",
+    "centre": "center", "centres": "centers", "centred": "centered", "catalogue": "catalog", "catalogues": "catalogs",
+    "behaviour": "behavior", "behaviours": "behaviors", "behavioural": "behavioral",
+    "artefact": "artifact", "artefacts": "artifacts", "modelling": "modeling", "modelled": "modeled",
+    "enrolment": "enrollment", "enrolments": "enrollments", "enrol": "enroll", "enrols": "enrolls",
+    "labour": "labor", "practise": "practice", "practised": "practiced", "practising": "practicing", "practises": "practices",
+    "defence": "defense", "offence": "offense", "favour": "favor", "colour": "color", "theatre": "theater", "theatres": "theaters",
+    "fulfil": "fulfill", "grey": "gray", "whilst": "while", "cheque": "check", "learnt": "learned", "ageing": "aging",
+    "sceptical": "skeptical", "skilful": "skillful", "tonne": "ton", "tonnes": "tons", "cancelled": "canceled",
+    "cancelling": "canceling", "labelled": "labeled", "labelling": "labeling", "travelled": "traveled",
+    "travelling": "traveling", "counselling": "counseling", "signalling": "signaling", "fuelled": "fueled",
+}
+_US_WORDS = {k: v for k, v in _US_WORDS.items() if k != v}
+_US_RE = re.compile(r"\b(?:" + "|".join(sorted(
+    [re.escape(w) for w in _US_WORDS]
+    + [re.escape(st) + "(?:" + "|".join(_US_ENDINGS) + ")" for st in _US_STEMS], key=len, reverse=True)) + r")\b", re.I)
+
+
+def _us_word(m):
+    w = m.group(0)
+    low = w.lower()
+    if low in _US_WORDS:
+        out = _US_WORDS[low]
+    else:
+        out = re.sub(r"(?<=[a-z])is(?=e|ed|es|ing|ation|er|ational)", "iz", low, count=1)
+        if out == low:
+            out = low.replace("is", "iz", 1)
+    if w.isupper() and len(w) > 1:
+        return out.upper()
+    if w[0].isupper():
+        return out[0].upper() + out[1:]
+    return out
+
+
+def us_spelling(text):
+    """British spelling to American, keeping case; URLs and identifiers are the caller's to skip."""
+    return _US_RE.sub(_us_word, text)
+
+
+# Fields that are quotations or identifiers, and stay as they are in every locale.
+_US_SKIP = {"id", "url", "uri", "pcf", "pcfRole", "pcfLevelDescription", "esco", "occupations", "label", "credit",
+            "slug", "roles", "selfAssessmentFile", "locale", "paths", "family", "band", "stage_id"}
+
+
+def _us_walk(node):
+    if isinstance(node, str):
+        return us_spelling(node)
+    if isinstance(node, list):
+        return [_us_walk(x) for x in node]
+    if isinstance(node, dict):
+        return {k: (v if k in _US_SKIP else _us_walk(v)) for k, v in node.items()}
+    return node
+
+
 class Locale:
     def __init__(self, code):
         self.code = code
@@ -132,13 +199,13 @@ class Locale:
         self.english_name = meta.get("english_name", code)
         self.dir = meta.get("dir", "ltr")
         self.complete = bool(meta.get("complete", False))
-        # An English locale needs no translation files: the English reference is its content.
-        # `spelling` maps British to the locale's spelling, such as organisation: organization.
+        # An English locale (en-001, en-gb, en-us) has no translation files: it
+        # reads the English source as it is, or, with spelling: us, in US spelling.
         self.english = bool(meta.get("english", False))
-        self.spelling = meta.get("spelling") or {}
+        self.spelling = meta.get("spelling", "")
         self.strings = dict(STRINGS, **(meta.get("strings") or {}))
-        if self.spelling:
-            self.strings = {k: _respell(v, self.spelling) for k, v in self.strings.items()}
+        if self.spelling == "us":
+            self.strings = {k: us_spelling(v) for k, v in self.strings.items()}
         self.paths = {k: k for k in SECTIONS}
         self.paths.update({k: v for k, v in (meta.get("paths") or {}).items() if v})
         self.catalogue = _load(code, "catalogue.yaml", default={}) or {}
@@ -188,6 +255,20 @@ def localize(reference, loc):
     ref = copy.deepcopy(reference)
     errors = []
     loc.missing = []
+
+    if loc.english:
+        if loc.spelling == "us":
+            for key in ("meta", "families", "bands", "factors", "skills", "roles"):
+                if key == "skills":
+                    ref[key] = [s if s["source"] == "pcf" else _us_walk(s) for s in ref[key]]
+                else:
+                    ref[key] = _us_walk(ref[key])
+        ref["meta"]["locale"] = loc.code
+        ref["meta"]["paths"] = {k: k for k in SECTIONS}
+        ref["meta"]["localeName"] = loc.name
+        ref["meta"]["disclaimer"] = loc.s("disclaimer")
+        ref["meta"]["translationNote"] = loc.s("translation_note")
+        return ref, errors
 
     def pick(table, key, field, english, where):
         value = (table.get(key) or {}).get(field) if isinstance(table.get(key), dict) else None
@@ -453,3 +534,21 @@ def write_docs(ref, loc, write_doc):
         rs = [r for r in ref["roles"] if o["id"] in r["esco"]]
         out.append(f"| [{o['label']}]({o['uri']}) | {o['isco08']} | " + ", ".join(f"[{r['title']}](../{P['roles']}/{r['slug']}/)" for r in rs) + " |")
     write_doc(os.path.join(root, P["esco"]), "\n".join(out + footer), peer="esco")
+
+
+def write_sitemap(code, site="https://roles-skills.github.io"):
+    """locales/<code>/sitemap.xml: the locale's routes, one per folder that holds a document."""
+    root = os.path.join(DOC_LOCALES, code)
+    routes = []
+    for folder, dirs, files in os.walk(root):
+        dirs.sort()
+        if "index.md" in files:
+            rel = os.path.relpath(folder, root).replace(os.sep, "/")
+            routes.append(f"/{code}/" if rel == "." else f"/{code}/{rel}/")
+    routes.sort()
+    from urllib.parse import quote
+    lines = ["<?xml version=\"1.0\" encoding=\"UTF-8\"?>", "<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\">"]
+    lines += [f"  <url><loc>{site}{quote(r)}</loc></url>" for r in routes]
+    lines += ["</urlset>", ""]
+    with open(os.path.join(root, "sitemap.xml"), "w", encoding="utf-8", newline="\n") as f:
+        f.write("\n".join(lines))

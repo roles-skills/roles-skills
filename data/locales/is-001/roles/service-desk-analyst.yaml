@@ -1,0 +1,70 @@
+summary: Þjónustuborðsgreinendur eru fyrsti tengiliður starfsfólks sem þarf aðstoð við stafræna þjónustu stofnunarinnar, frá vandamálum með innskráningu og snjallkort til bilana í klínískum kerfum og tækjum. Þeir skrá, forgangsflokka, leysa eða vísa upp á við atvikum og beiðnum, halda notendum upplýstum og koma auga á mynstur sem benda til víðtækari vandamála. Í mörgum heilbrigðisstofnunum er þjónustuborðið rekið allan sólarhringinn, því klínísk þjónusta er það.
+health_context:
+- Þeir sem hringja eru oft klínískt starfsfólk og umönnunarstarfsfólk í miðri umönnun sjúklinga, svo borðið forgangsraðar eftir áhrifum á sjúklinga, ekki aðeins eftir röð.
+- Mikil klínísk þjónusta er rekin allan sólarhringinn, alla daga, svo þjónustuborðið vinnur oft vaktir og bakvaktir utan vinnutíma.
+- Aðgangur að klínískum kerfum notar hlutverkamiðaðan aðgang og sterka auðkenningu, svo borðið annast vandamál með reikninga, snjallkort og fjölþátta auðkenningu og athugar auðkenni vandlega.
+- Þeir sem hringja kunna að deila trúnaðarupplýsingum um sjúklinga þegar þeir lýsa bilun, svo greinendur fylgja reglum um upplýsingastjórnun um hvað þeir skrá í mál.
+- Borðið sér oft fyrst merki um meiriháttar atvik eða netárás, svo sem mörg símtöl um sama kerfi eða bylgju grunsamlegra tölvupósta, og verður að vísa þeim fljótt upp á við.
+levels:
+- title: Þjónustuborðsgreinandi
+  summary: Þjónustuborðsgreinandi svarar símtölum og málum frá starfsfólki, leysir algeng vandamál við fyrstu snertingu með forskriftum og þekkingargreinum og vísar öðrum vandamálum til réttra teyma.
+  responsibilities:
+  - Svara símtölum, spjalli og sjálfsafgreiðslumálum frá starfsfólki og skrá hvert og eitt nákvæmlega í þjónustustjórnunartólinu.
+  - Leysa algeng vandamál við fyrstu snertingu með forskriftum og þekkingargreinum, svo sem endurstillingu lykilorða, opnun reikninga og prentarabilanir.
+  - Athuga auðkenni þess sem hringir áður en reikningum eða aðgangi er breytt, samkvæmt verklagi stofnunarinnar.
+  - Spyrja hvernig vandamálið hefur áhrif á umönnun sjúklinga, ákveða forgang og vísa atvikinu til réttra úrlausnarteyma.
+  - Halda notendum upplýstum um mál þeirra og staðfesta að lagfæringin virki áður en þeim er lokað.
+  - Skrá aðeins þær upplýsingar sem þarf í mál, án óþarfa upplýsinga um sjúklinga.
+  qualifications:
+  - Menntun á þrepi 3 í upplýsingatækni, iðnnám í upplýsingatæknistuðningi eða sambærileg reynsla.
+  - Góð þjónustufærni og lyklaborðsfærni, fengin með vinnu eða námi.
+  job_evaluation_notes: UK GDaD PCF leggur til launaflokk 4 fyrir þetta stig. Þessi viðmiðun lætur forskriftarmiðaða fyrstu línu þjónustuborðsvinnu hefjast í launaflokki 3 og setur greinendur sem leysa flóknari bilanir í launaflokk 4. Andlegt erfiði endurspeglar tíða einbeitingu að ófyrirsjáanlegum símtölum; tilfinningalegt erfiði endurspeglar tíð símtöl frá starfsfólki undir álagi á klínískum svæðum.
+- title: Tæknilegur þjónustuborðsgreinandi
+  summary: Tæknilegur þjónustuborðsgreinandi leysir flóknari bilanir við fyrstu snertingu, þar á meðal fjarlagfæringar á tækjum og aðgangi að klínískum kerfum, og sinnir brýnum símtölum frá klínískum svæðum.
+  responsibilities:
+  - Leysa flóknari atvik og beiðnir með fjaraðgangi, þar á meðal bilanir í tækjum, hugbúnaði og aðgangi að klínískum kerfum.
+  - Sinna brýnum símtölum frá klínískum svæðum, svo sem bráðamóttökum, deildum og skurðstofum, og hefja meiriháttar atvikaferli þegar þarf.
+  - Afgreiða aðgangsbeiðnir fyrir klínísk kerfi og athuga þær gegn reglum um hlutverkamiðaðan aðgang.
+  - Skrifa og bæta þekkingargreinar svo fleiri vandamál megi leysa við fyrstu snertingu.
+  - Koma auga á endurtekin símtöl um sömu bilun og vekja máls á þeim við atvika- og vandamálastjórnun.
+  - Tilkynna grun um vefveiðipósta og aðra öryggisatburði til öryggisteymisins.
+  - Sýna nýjum greinendum hvernig á að nota verkfæri og verklag borðsins.
+  qualifications:
+  - Reynsla af upplýsingatæknistuðningi á þjónustuborði eða í sambærilegu umhverfi.
+  - Grunnmenntun í upplýsingatækniþjónustustjórnun, eða sambærileg reynsla.
+  job_evaluation_notes: Notar sama UK GDaD PCF stig og greinandi í launaflokki 3, fyrir greinendur sem leysa flóknari vandamál og sinna brýnum klínískum símtölum. Samskipti eru ofar sniði launaflokksins því greinendur þurfa oft að útskýra tæknileg vandamál fyrir önnum köfnu klínísku starfsfólki.
+- title: Eldri þjónustuborðsgreinandi
+  responsibilities:
+  - Stýra vakt á þjónustuborðinu og vega símtalaraðir á móti klínískum bráðleika opinna atvika.
+  - Taka yfir erfið símtöl eða símtöl sem vísað er upp á við, þar á meðal símtöl frá æðri klínískum starfsmönnum í bráðaþjónustu.
+  - Halda forskriftum og þekkingargreinum nákvæmum eftir því sem klínísk kerfi og tæki breytast.
+  - Vera yfirflutningsstaður borðsins utan vinnutíma og hefja meiriháttar atvikaferli þegar margir notendur verða fyrir áhrifum.
+  - Athuga gæði mála, þar á meðal auðkennisathuganir og það sem skráð er um sjúklinga.
+  - Skipuleggja vaktaafleysingar svo borðið sé mannað á öllum tímum.
+  qualifications:
+  - Mikil reynsla af þjónustuborði, þar á meðal meðferð mála sem vísað er upp á við.
+  - Menntun í upplýsingatækniþjónustustjórnun, eða sambærileg reynsla.
+  job_evaluation_notes: Áætlanagerð endurspeglar vakta- og vaktaskrárskipulag fyrir sólarhringsborð. Tilfinningalegt erfiði endurspeglar tíð erfið símtöl frá starfsfólki sem fæst við brýna umönnun sjúklinga.
+- title: Þjónustuborðsstjóri
+  responsibilities:
+  - Stýra þjónustuborðinu dag frá degi og tryggja að það sé mannað og bregðist við allan sólarhringinn, alla daga.
+  - Setja forgangsröðun og viðbragðsmarkmið sem endurspegla klíníska áhættu, samþykkt með klínískum leiðtogum og rekstrarleiðtogum.
+  - Undirbúa borðið fyrir ný og breytt klínísk kerfi, þar á meðal þjálfun, forskriftir og aukamönnun við gangsetningu.
+  - Greina þróun mála til að finna ný vandamál og vinna með vandamálastjórnun að því að fjarlægja orsakir þeirra.
+  - Tryggja að borðið fylgi verklagi um auðkennisathuganir, upplýsingastjórnun og öryggi og bregðist við niðurstöðum úttekta.
+  - Vera línustjóri eldri greinenda og greinenda, þar á meðal ráðningar, frammistaða og vellíðan starfsfólks sem vinnur vaktir.
+  qualifications:
+  - Reynsla af forystu þjónustuborðsteymis, þar á meðal vakta- eða afleysingarþjónustu utan vinnutíma.
+  - Miðstigsmenntun í upplýsingatækniþjónustustjórnun, eða sambærileg reynsla.
+  job_evaluation_notes: Þekking er einu stigi undir sniði launaflokksins, eins og venja er um þjónustuborðshlutverk; ábyrgð á fólki er hærri því stjórnandinn stýrir vaktamiðuðu teymi.
+- title: Yfirmaður þjónustuborðs
+  responsibilities:
+  - Móta stefnu þjónustuborðsins, þar á meðal samskiptarásir, sjálfsafgreiðslu og stuðning við starfsfólk sem vinnur þvert á starfsstöðvar og í samfélaginu.
+  - Semja um þjónustustig við klíníska þjónustu og rekstrarþjónustu og skila skýrslu um frammistöðu til æðri leiðtoga.
+  - Tryggja að borðið geti haldið áfram að starfa í meiriháttar atvikum, netárásum og kerfisniðurstreymi, með skýru verklagi um samfellu í rekstri.
+  - Ráðleggja verkefnateymum um hvernig ný klínísk kerfi og rekstrarkerfi verða studd fyrir gangsetningu.
+  - Stýra fjárhagsáætlun þjónustuborðsins, verkfærum og öllum útvistuðum samningum um stuðning eða stuðning utan vinnutíma.
+  - Stýra og þróa þjónustuborðsstjóra og byggja upp styðjandi menningu fyrir starfsfólk sem vinnur vaktir.
+  qualifications:
+  - Umfangsmikil reynsla af stjórnun upplýsingatæknistuðningsþjónustu, þar á meðal sólarhringsþjónustu.
+  - Framhaldsmenntun í upplýsingatækniþjónustustjórnun, eða sambærileg reynsla.

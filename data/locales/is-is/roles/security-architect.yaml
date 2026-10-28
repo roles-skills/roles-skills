@@ -1,0 +1,38 @@
+summary: Öryggisarkitektar hanna öryggi stafrænnar heilbrigðisþjónustu stofnunarinnar, svo að upplýsingar um sjúklinga haldist trúnaðarmál, nákvæmar og aðgengilegar þegar umönnun þarfnast þeirra. Þeir móta öryggismynstur og stýringar, meta öryggisáhættu nýrrar hönnunar og birgja og hjálpa teymum að taka áhættumiðaðar ákvarðanir sem halda þjónustu bæði öruggri og nothæfri fyrir klínískt starfsfólk og sjúklinga.
+health_context:
+- Heilbrigðisstofnanir eru algengt skotmark gíslatökuhugbúnaðar og gagnastulda og árás getur stöðvað klíníska þjónustu, svo aðgengi er jafn mikilvægt og trúnaður.
+- Öryggisstýringar mega ekki standa í vegi fyrir bráðri umönnun, svo hönnun vegur sterka auðkenningu á móti skjótum aðgangi í klínísku umhverfi.
+- Tengd lækningatæki og eldri klínísk kerfi er oft ekki hægt að uppfæra hratt, svo arkitektar hanna bótastýringar eins og skiptingu.
+- Margt starfsfólk, samstarfsstofnanir og birgjar þurfa aðgang að sjúkraskrám, svo auðkenni, hlutverkamiðaður aðgangur og skráning eru kjarni málsins.
+- Öryggishönnun verður að styðja skyldur um upplýsingastjórnun og útgefna öryggisstaðla, svo sem ISO/IEC 27001.
+levels:
+- title: Öryggisarkitekt
+  responsibilities:
+  - Hanna öryggisstýringar fyrir þjónustu og kerfi, þar á meðal auðkenni, dulkóðun, skráningu og netvernd.
+  - Meta öryggi nýrrar hönnunar og vara birgja og skrá áhættu og ráðlagðar stýringar.
+  - Þróa öryggismynstur sem afhendingarteymi geta endurnýtt, til dæmis fyrir innskráningu sjúklinga og einskiptisinnskráningu starfsfólks.
+  - Ráðleggja um bótastýringar fyrir lækningatæki og eldri klínísk kerfi sem ekki er auðvelt að uppfæra.
+  - Vinna með samstarfsfólki í upplýsingastjórnun og klínísku öryggi svo að öryggis-, friðhelgis- og öryggisáhætta sjúklinga sé metin saman.
+  - Leiðbeina öryggisverkfræðingum og öðrum arkitektum í öruggri hönnun.
+  qualifications:
+  - Mikil reynsla af öryggisarkitektúr eða öryggisverkfræði, á stigi sem jafngildir meistaragráðu.
+  - Viðurkennd öryggismenntun eða sambærileg reynsla.
+  job_evaluation_notes: 'Flokkað ofar tillögu UK GDaD PCF um launaþrep (launaflokkur 6): auglýsingar í heilbrigðisgeiranum setja þetta hlutverk í launaflokk 8a. Greining og svigrúm til athafna eru metin ofar sniði launaflokks 7 því starfið hannar öryggi fyrir mikilvæg klínísk kerfi með lítið eftirlit.'
+- title: Leiðandi öryggisarkitekt
+  responsibilities:
+  - Stýra öryggisarkitektúr fyrir nokkur verkefni með mikla áhættu eða stórt svið, svo sem klínísk kerfi eða skýjahýsingu.
+  - Setja öryggismeginreglur og staðla fyrir hönnun á þínu sviði og tryggja hana hjá hönnunarnefndum.
+  - Ráðleggja æðri áhættueigendum um öryggisáhættu og valkosti til að stýra henni.
+  - Hanna öryggi fyrir gögn sem miðlað er til samstarfsstofnana og birgja.
+  - Stýra og þróa öryggisarkitekta.
+  qualifications:
+  - Umfangsmikil reynsla af öryggisarkitektúr fyrir flókna þjónustu.
+- title: Aðal öryggisarkitekt
+  responsibilities:
+  - Móta framtíðarsýn, meginreglur og stefnu stofnunarinnar í öryggisarkitektúr.
+  - Ráðleggja framkvæmdastjórn og stjórn um netöryggisáhættu fyrir umönnun sjúklinga og þjónustu.
+  - Tryggja að netseigla, þar á meðal endurheimt eftir meiriháttar árás, sé hönnuð inn í mikilvæga klíníska þjónustu.
+  - Vera fulltrúi stofnunarinnar í netöryggis- og staðlasamfélögum þvert á stofnanir.
+  - Stýra öryggisarkitektúrstarfinu og þróa fólkið í því.
+  qualifications:
+  - Umfangsmikil reynsla af forystu í öryggisarkitektúr þvert á stofnanir.

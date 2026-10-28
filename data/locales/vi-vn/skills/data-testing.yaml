@@ -1,0 +1,46 @@
+# Bản dịch tiếng Việt của data/skills/data-testing.yaml. Khóa là mã kỹ năng tiếng Anh.
+data-ai-assurance:
+  name: AI an toàn và công bằng trong chăm sóc sức khỏe
+  description: Bảo đảm các mô hình thống kê, học máy và AI dùng trong y tế và chăm sóc là an toàn, công bằng, có thể giải thích và được giám sát, gồm kiểm tra thiên lệch giữa các nhóm bệnh nhân và đáp ứng quy định về thiết bị y tế và AI.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích một mô hình có thể gây hại cho bệnh nhân như thế nào, ví dụ do thiên lệch, trôi dạt hoặc quá phụ thuộc vào kết quả của nó
+      - giải thích vì sao các mô hình cần được kiểm định trên nhóm dân số mà chúng sẽ được dùng
+    working: |
+      Bạn có thể:
+      - đo hiệu năng của mô hình cho các nhóm bệnh nhân khác nhau và báo cáo mọi khác biệt
+      - ghi lại mục đích sử dụng, dữ liệu huấn luyện và các giới hạn đã biết của một mô hình, ví dụ trong một thẻ mô hình
+      - đóng góp bằng chứng về một mô hình vào hồ sơ an toàn lâm sàng
+    practitioner: |
+      Bạn có thể:
+      - lập kế hoạch kiểm định, đánh giá thiên lệch và giám sát trực tiếp một mô hình cùng đồng nghiệp lâm sàng
+      - quyết định khi nào một mô hình cần được huấn luyện lại, hạn chế hoặc ngừng sử dụng
+      - tư vấn cho các nhóm về việc khi nào một mô hình có thể bị quản lý như thiết bị y tế và cần những bằng chứng nào
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn của tổ chức về đảm bảo và giám sát AI trong chăm sóc
+      - dẫn dắt việc đảm bảo các mô hình rủi ro cao trước và sau khi triển khai
+      - đại diện tổ chức làm việc với các cơ quan quản lý và đối tác về AI an toàn và công bằng
+data-deidentification:
+  name: Bút danh hóa và kiểm soát tiết lộ
+  description: Bảo vệ bí mật của bệnh nhân khi dữ liệu được liên kết, phân tích, chia sẻ hoặc công bố, bằng bút danh hóa, ẩn danh hóa, loại bỏ các số nhỏ và các phương pháp kiểm soát tiết lộ thống kê khác.
+  levels:
+    awareness: |
+      Bạn có thể:
+      - giải thích sự khác nhau giữa dữ liệu có thể nhận dạng, dữ liệu đã bút danh hóa và dữ liệu đã ẩn danh
+      - tuân theo các quy tắc của tổ chức về loại bỏ các số nhỏ trong kết quả đầu ra
+    working: |
+      Bạn có thể:
+      - làm việc với dữ liệu đã bút danh hóa và áp dụng các kiểm tra tiết lộ trước khi công bố kết quả
+      - nhận biết khi dữ liệu được liên kết hoặc chi tiết có thể nhận dạng được một bệnh nhân
+    practitioner: |
+      Bạn có thể:
+      - thiết kế các phương pháp bút danh hóa và liên kết giữ các mã định danh tách biệt khỏi dữ liệu phân tích
+      - đánh giá rủi ro nhận dạng lại của một tập dữ liệu hoặc ấn phẩm và chọn các biện pháp kiểm soát phù hợp
+      - tư vấn cho các nhóm về các môi trường an toàn, như môi trường nghiên cứu đáng tin cậy
+    expert: |
+      Bạn có thể:
+      - đề ra tiêu chuẩn của tổ chức về loại bỏ định danh và kiểm soát tiết lộ
+      - đảm bảo các đợt công bố dữ liệu và dự án liên kết có rủi ro cao
+      - dẫn dắt công việc với đối tác về truy cập dữ liệu an toàn cho nghiên cứu và lập kế hoạch

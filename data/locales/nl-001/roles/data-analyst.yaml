@@ -1,0 +1,46 @@
+summary: Data-analisten zetten data over gezondheid en zorg om in informatie die clinici, managers en planners helpt beslissingen te nemen. Zij bereiden data uit klinische, operationele en door patiënten gerapporteerde bronnen voor, koppelen ze en analyseren ze, en presenteren ze in rapporten, dashboards en briefings. Zij zorgen dat hun analyse nauwkeurig en reproduceerbaar is en veilig omgaat met vertrouwelijke patiëntdata.
+health_context:
+- Veel data beschrijven individuele patiënten, dus analisten werken waar mogelijk met gepseudonimiseerde data en controleren uitvoer op risico van onthulling voordat zij wordt vrijgegeven.
+- Gezondheidsdata worden vastgelegd met klinische terminologieën en classificaties zoals SNOMED CT en ICD, dus analisten moeten weten hoe codes worden gebruikt en waar ze kunnen misleiden.
+- De kwaliteit van data verschilt tussen zorgomgevingen en systemen, en hiaten raken sommige groepen patiënten vaak meer dan andere, dus analisten controleren op vertekening voordat zij conclusies trekken.
+- Analyse kan veranderen hoe diensten worden gepland, gefinancierd en geleverd, dus bevindingen hebben duidelijke kanttekeningen nodig en mogen zekerheid niet overdrijven.
+levels:
+- title: Associate data-analist
+  responsibilities:
+  - Routinerapporten en dashboards maken over activiteit, wachttijden en gebruik van diensten, volgens afgesproken methoden.
+  - Onder toezicht extracties uit systemen voor patiëntenadministratie, klinische en operationele systemen opschonen en voorbereiden.
+  - Uitvoer controleren tegen regels voor datakwaliteit en problemen melden aan de juiste data-eigenaar.
+  - Onderdrukking van kleine aantallen en andere regels tegen onthulling toepassen voordat resultaten worden gedeeld.
+  - Eenvoudige dataverzoeken van klinische en operationele teams beantwoorden.
+  qualifications:
+  - Een bachelor in een cijfermatig vak, een leerwerktraject in analytics, of gelijkwaardige ervaring.
+- title: Data-analist
+  responsibilities:
+  - Analyses ontwerpen en uitvoeren die vragen van klinische, operationele en planningsteams beantwoorden.
+  - Data op patiëntniveau uit verschillende bronnen veilig koppelen, met gepseudonimiseerde identificatoren en afgesproken methoden voor koppeling.
+  - Reproduceerbare analysecode schrijven en methoden, aannames en databronnen documenteren.
+  - Bevindingen en hun grenzen in begrijpelijke taal uitleggen aan clinici en managers.
+  - Analyse controleren op vertekening over groepen patiënten, bijvoorbeeld naar leeftijd, geslacht, etniciteit en achterstand.
+  - Associate analisten ondersteunen en hun werk beoordelen.
+  qualifications:
+  - Een bachelor in een cijfermatig vak, of gelijkwaardige ervaring.
+  - Ervaring met het analyseren en presenteren van complexe data.
+- title: Senior data-analist
+  responsibilities:
+  - Analyse leiden voor een servicegebied, zoals spoedzorg, kanker of geestelijke gezondheid, en prioriteiten afspreken met de leiders ervan.
+  - Methoden en kwaliteitsborging voor de analyse van het team vaststellen, inclusief collegiale toetsing van code en uitvoer.
+  - Complexe koppelingsprojecten over zorgomgevingen heen leiden en hun grondslag in informatiebeheer afspreken.
+  - Bevindingen presenteren aan senior klinische en managementgroepen en adviseren over wat zij voor diensten betekenen.
+  - Met data-engineers en data-eigenaren de grondoorzaken van slechte datakwaliteit oplossen.
+  - Analisten in het team coachen en ontwikkelen.
+  qualifications:
+  - Aanzienlijke ervaring met het leiden van data-analyse, op een niveau gelijkwaardig aan een master.
+- title: Principal data-analist
+  responsibilities:
+  - De normen van de organisatie voor data-analyse, kwaliteitsborging en reproduceerbare analytische praktijk vaststellen.
+  - Directie en klinische leiders adviseren over het bewijs achter grote beslissingen over diensten en investeringen.
+  - De analytische gemeenschap leiden, inclusief haar training, instrumenten en loopbaanontwikkeling.
+  - Regelingen voor het delen en koppelen van data met partners in gezondheid en zorg vormgeven.
+  - Hiërarchisch leiding geven aan senior analisten en zorgen dat het team de capaciteit en vaardigheden heeft die het nodig heeft.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van data-analyse in een organisatie.

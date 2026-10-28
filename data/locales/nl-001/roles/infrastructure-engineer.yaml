@@ -1,0 +1,60 @@
+summary: Infrastructuurengineers ontwerpen, bouwen, beheren en ondersteunen de netwerken, servers, opslag, cloudplatforms en hosting waarvan de digitale diensten van de organisatie afhangen. Zij houden deze infrastructuur beschikbaar, veilig en herstelbaar en werken met leveranciers en architecten aan het veilig wijzigen ervan. In de gezondheidszorg kan één storing in de infrastructuur klinische systemen in ziekenhuizen en gemeenschapsdiensten tegelijk stilleggen.
+health_context:
+- Klinische systemen hebben een zeer hoge beschikbaarheid nodig, dus infrastructuur wordt ontworpen voor veerkracht en wijzigingen worden rond klinische activiteit gepland.
+- Engineers nemen deel aan bereikbaarheidsroosters, omdat storingen in de infrastructuur ’s nachts of in het weekend de zorg voor patiënten kunnen stilleggen.
+- Netwerken verbinden medische hulpmiddelen, zoals infuuspompen, patiëntmonitors en beeldvormingsapparatuur, die netwerksegmentatie en zorgvuldige wijziging volgens IEC 80001-1 vragen.
+- De gezondheidszorg is een veelvoorkomend doelwit van ransomware, dus back-ups moeten worden beschermd, getest en binnen afgesproken hersteltijden kunnen worden hersteld.
+- Infrastructuur combineert vaak oude en nieuwe technologie, inclusief legacy-systemen voor klinisch werk die niet gemakkelijk kunnen worden gepatcht, dus engineers voeren compenserende beheersmaatregelen in.
+levels:
+- title: Associate infrastructuurengineer
+  responsibilities:
+  - Infrastructuurengineers ondersteunen bij routinetaken, zoals het bouwen van servers, controles van back-ups en wijzigingen in netwerken.
+  - Infrastructuur monitoren en waarschuwingen en storingen melden aan het juiste team.
+  - Bij al het werk de procedures voor wijzigingen, beveiliging en informatiebeheer volgen.
+  - Configuratie en gegevens van bezittingen nauwkeurig vastleggen.
+  - Werken aan een leerwerktraject in infrastructuur of een gelijkwaardige kwalificatie.
+  qualifications:
+  - Ingeschreven voor, of werkend aan, een leerwerktraject in infrastructuur of netwerken, of gelijkwaardig.
+  job_evaluation_notes: Kennis wordt gescoord op het niveau dat de functie vraagt zodra de training ver genoeg is gevorderd om het werk te doen.
+- title: Infrastructuurengineer
+  responsibilities:
+  - De servers, opslag, netwerken en clouddiensten bouwen, configureren en onderhouden die klinische systemen en bedrijfssystemen hosten.
+  - Infrastructuur snel patchen en het risico voor de beveiliging afwegen tegen de behoefte klinische systemen beschikbaar te houden.
+  - Back-ups en herstel draaien en testen, ook voor kritieke klinische systemen.
+  - Gesegmenteerde netwerken voor medische hulpmiddelen en andere klinische apparatuur ondersteunen, samen met teams voor klinische techniek.
+  - Storingen in de infrastructuur onderzoeken en herstellen, ook als onderdeel van het bereikbaarheidsrooster.
+  - Routinetaken automatiseren met scripts en infrastructuur als code.
+  qualifications:
+  - Een bachelor in informatica of een verwant vak, relevante technische certificeringen, of gelijkwaardige ervaring.
+  - Ervaring met het ondersteunen van infrastructuur in productie.
+  job_evaluation_notes: Geestelijke inspanning weerspiegelt regelmatig langdurige concentratie op onvoorspelbare storingen, inclusief bereikbaarheidsdienst buiten kantooruren.
+- title: Senior infrastructuurengineer
+  responsibilities:
+  - Oplossingen voor infrastructuur ontwerpen en bouwen op basis van ontwerpen van architecten, met de veerkracht die klinische diensten nodig hebben.
+  - Grote wijzigingen in infrastructuur plannen en leiden, zoals verhuizingen van datacenters, vernieuwing van netwerken en migraties naar de cloud, rond klinische activiteit.
+  - Herstel na rampen en herstel na ransomware voor kritieke klinische systemen ontwerpen en testen.
+  - De technische reactie op incidenten in de infrastructuur leiden en herstel van de oorzaken aansturen.
+  - Compenserende beheersmaatregelen beheren voor legacy-systemen en medische hulpmiddelen die niet kunnen worden gepatcht.
+  - Infrastructuurengineers leiden en coachen.
+  qualifications:
+  - Aanzienlijke ervaring met het ontwerpen en beheren van infrastructuur in productie, op een niveau gelijkwaardig aan een postdoctoraal diploma.
+  job_evaluation_notes: Geestelijke inspanning weerspiegelt regelmatig langdurige concentratie tijdens incidenten en complexe wijzigingen, ook buiten kantooruren.
+- title: Lead infrastructuurengineer
+  responsibilities:
+  - De infrastructuur voor een groot platform of een groep diensten leiden en de technische richting vaststellen.
+  - Externe leveranciers van infrastructuur beheren en hen houden aan serviceniveaus voor beschikbaarheid en herstel.
+  - Toezicht houden op programma’s voor infrastructuur, zoals vernieuwing van het netwerk of verhuizing naar cloudhosting.
+  - Zorgen dat infrastructuur voldoet aan normen voor beveiliging, informatiebeheer en netwerken voor medische hulpmiddelen.
+  - Teams voor infrastructuur leiden en hun vaardigheden ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van infrastructuur-engineering voor complexe diensten met hoge beschikbaarheid.
+  job_evaluation_notes: Het UK GDaD PCF stelt voor zowel de lead als de principal infrastructuurengineer Band 8b voor. Deze referentie plaatst de lead op Band 8a, zodat de twee niveaus in verschillende banden zitten, in lijn met lead- en principal-rollen in andere technische families.
+- title: Principal infrastructuurengineer
+  responsibilities:
+  - De strategie en roadmaps voor infrastructuur ontwikkelen, zodat investeringen veerkrachtige, veilige en duurzame hosting voor klinische diensten opleveren.
+  - Eigenaar zijn van operationele relaties met strategische leveranciers van infrastructuur en netwerken.
+  - Senior leiders adviseren over risico’s voor infrastructuur, inclusief technologie aan het einde van haar levensduur, enkelvoudige storingspunten en weerbaarheid tegen cyberaanvallen.
+  - Met service-eigenaren doelen voor hersteltijd en herstelpunt voor klinische systemen vaststellen en zorgen dat infrastructuur ze kan halen.
+  - Het beroep van infrastructuur-engineering in de organisatie leiden en haar capaciteit ontwikkelen.
+  qualifications:
+  - Uitgebreide ervaring met het leiden van infrastructuur-engineering over meerdere teams of organisaties.

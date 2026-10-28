@@ -1,0 +1,45 @@
+summary: >
+  Insinyur keamanan merancang, membangun, dan menjalankan pengendalian keamanan teknis yang melindungi sistem, data, dan pengguna organisasi. Mereka mengerjakan identitas dan akses, pelindungan titik akhir dan jaringan, enkripsi, pencatatan log, dan keamanan komputasi awan, dan membantu tim produk dan infrastruktur membangun keamanan sejak awal. Dalam layanan kesehatan, mereka melindungi sistem klinis dan data pasien sambil menjaga akses tetap cepat bagi tenaga klinis di titik perawatan.
+health_context:
+  - Pengendalian keamanan tidak boleh menghalangi perawatan mendesak, sehingga para insinyur merancang autentikasi yang kuat yang tetap berfungsi cepat pada stasiun kerja klinis bersama.
+  - Alat kesehatan dan sistem klinis lama sering tidak dapat ditambal atau menjalankan perangkat lunak keamanan, sehingga para insinyur merancang segmentasi jaringan dan pengendalian kompensasi.
+  - Ransomware adalah ancaman besar bagi layanan kesehatan, sehingga para insinyur mengeraskan sistem, melindungi cadangan, dan membatasi sejauh mana serangan dapat menyebar.
+  - Sistem klinis sering dipasok dan didukung pihak ketiga, sehingga para insinyur menilai keamanan pemasok dan mengendalikan akses jarak jauh mereka.
+  - Perubahan pada pengendalian keamanan di sistem klinis melalui manajemen perubahan dan, bila perlu, tinjauan keselamatan klinis.
+levels:
+  - title: Insinyur keamanan
+    summary: Insinyur keamanan membangun, mengonfigurasi, dan memelihara pengendalian dan perangkat keamanan, serta membantu tim memperbaiki kelemahan keamanan.
+    responsibilities:
+      - Membangun dan memelihara pengendalian keamanan, seperti pelindungan titik akhir, firewall, keamanan surel, dan pencatatan log keamanan.
+      - Mengonfigurasi pengendalian identitas dan akses, termasuk autentikasi multifaktor dan akses istimewa.
+      - Membantu tim infrastruktur dan produk memperbaiki kerentanan dan mengeraskan sistem sesuai standar yang disepakati.
+      - Menyegmentasi jaringan untuk melindungi alat kesehatan dan sistem lama, bekerja dengan tim infrastruktur dan rekayasa klinis.
+      - Meninjau keamanan sistem baru dan akses jarak jauh pemasok sebelum diluncurkan.
+      - Ikut dalam jadwal siaga untuk mendukung respons insiden keamanan.
+    qualifications:
+      - Gelar di bidang komputasi atau keamanan siber, sertifikasi keamanan yang relevan, atau pengalaman yang setara.
+      - Pengalaman membangun atau menjalankan infrastruktur atau perangkat keamanan.
+    job_evaluation_notes: Upaya mental mencerminkan konsentrasi berkepanjangan yang sering pada pekerjaan teknis yang kompleks dan dukungan insiden, termasuk saat siaga.
+  - title: Insinyur keamanan senior
+    summary: Insinyur keamanan senior merancang dan memimpin penyampaian pengendalian keamanan yang signifikan, dan menasihati tim tentang desain yang aman.
+    responsibilities:
+      - Merancang dan memimpin penyampaian pengendalian keamanan, seperti manajemen akses istimewa, pemantauan keamanan, dan pelindungan cadangan.
+      - Menasihati tim produk dan infrastruktur tentang desain aman untuk layanan klinis dan yang menghadap pasien.
+      - Merancang pengendalian kompensasi untuk alat kesehatan dan sistem lain yang tidak dapat ditambal.
+      - Menilai keamanan pemasok dan produk mereka, termasuk layanan komputasi awan.
+      - Mendukung tanggapan atas insiden keamanan serius dengan keahlian teknis dan rencana pemulihan.
+      - Membimbing insinyur keamanan dan membagikan praktik baik lintas tim.
+    qualifications:
+      - Pengalaman yang substansial dalam rekayasa keamanan, pada tingkat yang setara dengan diploma pascasarjana.
+      - Sertifikasi keamanan lanjutan yang relevan, atau pengalaman yang setara.
+  - title: Insinyur keamanan pimpinan
+    summary: Insinyur keamanan pimpinan menetapkan arah teknis rekayasa keamanan, dan memastikan pengendalian bekerja bersama di seluruh organisasi.
+    responsibilities:
+      - Menetapkan arah teknis dan standar pengendalian keamanan di seluruh organisasi.
+      - Memimpin desain keamanan untuk program besar, seperti perpindahan ke hosting komputasi awan atau rekam pasien elektronik baru.
+      - Memastikan pengendalian melindungi dari ransomware dan mendukung pemulihan sistem klinis yang cepat dan aman.
+      - Menyeimbangkan keamanan dengan kegunaan klinis, bekerja dengan pimpinan klinis pada akses dan autentikasi.
+      - Menasihati manajer keamanan siber tentang risiko dan investasi teknis.
+      - Memimpin dan mengembangkan insinyur keamanan.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa keamanan untuk layanan yang kompleks.

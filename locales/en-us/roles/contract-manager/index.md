@@ -48,13 +48,13 @@ Manages a portfolio of contracts, including technology and clinical system contr
 | [Contract management](../../skills/#contract-management) | This reference | Practitioner | You can:<br>• manage a portfolio of contracts, including clinical and technology contracts<br>• use contract remedies, such as service credits, when performance falls short<br>• manage changes, disputes, and renewals within the procurement rules<br>• plan exit early and test exit plans before contracts end |
 | [Supplier relationship management](../../skills/#supplier-relationship-management) | This reference | Practitioner | You can:<br>• segment suppliers by risk and value and plan how to manage each group<br>• run strategic reviews with key suppliers, including roadmap and improvement plans<br>• manage supplier risks, such as financial failure, cyber incidents, and supply chain issues |
 | [Exit planning and data return](../../skills/#exit-planning-and-data-return) | This reference | Working | You can:<br>• keep exit plans and asset and data registers up to date<br>• track notice periods and exit milestones |
-| [Technology and cloud procurement](../../skills/#technology-and-cloud-procurement) | This reference | Working | You can:<br>• buy standard software, hardware, and licences through frameworks<br>• track license numbers, renewals, and true-up dates<br>• include standard security and data protection requirements in documents |
+| [Technology and cloud procurement](../../skills/#technology-and-cloud-procurement) | This reference | Working | You can:<br>• buy standard software, hardware, and licenses through frameworks<br>• track license numbers, renewals, and true-up dates<br>• include standard security and data protection requirements in documents |
 | [Public procurement rules and policy](../../skills/#public-procurement-rules-and-policy) | This reference | Working | You can:<br>• apply the procurement rules that fit a straightforward purchase<br>• publish notices and keep records that meet transparency rules<br>• spot when a request risks breaking the rules and raise it |
 | [Commercial negotiation](../../skills/#commercial-negotiation) | This reference | Working | You can:<br>• negotiate prices and terms for low-value or routine purchases<br>• prepare data and options for a negotiation led by others |
 | [Commercial management](../../skills/#commercial-management) | UK GDaD PCF | Working | You can:<br>• act as the point of contact for contracted suppliers<br>• understand appropriate internal contacts and processes within a government department<br>• understand how and when third parties should be brought into digital, data and technology projects |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Working | You can:<br>• identify important stakeholders and communicate with them clearly and regularly<br>• tailor communication to stakeholders' needs and work with them to build relationships while meeting user needs<br>• build and reach consensus with stakeholders<br>• work to improve stakeholder relationships using evidence to explain decisions |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Working | You can:<br>• apply data protection principles to your work<br>• contribute to data protection impact assessments<br>• handle information requests and records correctly |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 
 ### Typical qualifications and experience
 
@@ -64,7 +64,7 @@ Manages a portfolio of contracts, including technology and clinical system contr
 ### Band outline
 
 - **Knowledge:** Highly developed specialist knowledge, typically to master's level or equivalent experience.
-- **Autonomy:** Works to organisational policy; decides how results are achieved; is the expert others consult.
+- **Autonomy:** Works to organizational policy; decides how results are achieved; is the expert others consult.
 - **Scope:** Several products or services, or a specialist function.
 - **Leadership:** Leads a team or a professional practice area.
 - **Accountability:** Delivery of a service or specialist function, and its budget if held.
@@ -75,8 +75,8 @@ Manages a portfolio of contracts, including technology and clinical system contr
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -91,7 +91,7 @@ Manages a portfolio of contracts, including technology and clinical system contr
 | 16 | Working conditions | 2 | 7 |
 | | **Total** | | **485** (Band 7: 466–539) |
 
-Health-sector adverts place this role at Band 7. Analysis is level 5 for judgements on complex contract terms and disputes, planning is level 4 for renewals across the portfolio, and financial resources is level 4 because the job manages the spend of a portfolio of service contracts.
+Health-sector adverts place this role at Band 7. Analysis is level 5 for judgments on complex contract terms and disputes, planning is level 4 for renewals across the portfolio, and financial resources is level 4 because the job manages the spend of a portfolio of service contracts.
 
 ## Band 8a: Senior contract manager
 
@@ -119,7 +119,7 @@ Manages the organization's strategic and high-risk contracts, such as the electr
 | [Public procurement rules and policy](../../skills/#public-procurement-rules-and-policy) | This reference | Practitioner | You can:<br>• advise on the lawful route for complex procurements and contract changes<br>• manage the risk of challenge and handle standstill and debrief correctly<br>• write procurement policy and guidance for the organization |
 | [Commercial management](../../skills/#commercial-management) | UK GDaD PCF | Practitioner | You can:<br>• take responsibility for complex relationships with contracted suppliers<br>• identify appropriate contractual frameworks and identify appropriate suppliers<br>• negotiate with contracted suppliers<br>• get good value out of contracts and suppliers |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Practitioner | You can:<br>• work with the team to develop and maintain an understanding of stakeholders<br>• work with the team to develop and implement stakeholder communications strategies<br>• identify and resolve issues, influence stakeholders and manage relationships effectively<br>• build long-term strategic relationships and communicate clearly and regularly with stakeholders |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognize when a change could affect patient care and raise it |
 
 ### Typical qualifications and experience
@@ -130,7 +130,7 @@ Manages the organization's strategic and high-risk contracts, such as the electr
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -141,8 +141,8 @@ Manages the organization's strategic and high-risk contracts, such as the electr
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -182,9 +182,9 @@ Leads contract and supplier management across the organization, setting the cont
 | [Commercial negotiation](../../skills/#commercial-negotiation) | This reference | Expert | You can:<br>• lead high-value, high-risk negotiations with strategic suppliers<br>• coach others in negotiation and set the organization's negotiation approach |
 | [Public procurement rules and policy](../../skills/#public-procurement-rules-and-policy) | This reference | Practitioner | You can:<br>• advise on the lawful route for complex procurements and contract changes<br>• manage the risk of challenge and handle standstill and debrief correctly<br>• write procurement policy and guidance for the organization |
 | [Commercial management](../../skills/#commercial-management) | UK GDaD PCF | Expert | You can:<br>• act as the escalation point and resolve large or high risk commercial management issues<br>• coach others in appropriate commercial management |
-| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Practitioner | You can:<br>• advocate for user needs, ensuring user value is balanced against cost and value for the organization<br>• determine the benefit of a product and persuade others it's the right product to use<br>• write or contribute to business cases<br>• communicate business-value propositions<br>• help others make value-based decisions, influencing the direction of development |
+| [Creating value for money](../../skills/#creating-value-for-money) | UK GDaD PCF | Practitioner | You can:<br>• advocate for user needs, ensuring user value is balanced against cost and value for the organisation<br>• determine the benefit of a product and persuade others it's the right product to use<br>• write or contribute to business cases<br>• communicate business-value propositions<br>• help others make value-based decisions, influencing the direction of development |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognize when a change could affect patient care and raise it |
 
 ### Typical qualifications and experience
@@ -206,8 +206,8 @@ Leads contract and supplier management across the organization, setting the cont
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -227,5 +227,5 @@ Health-sector adverts place this role at Band 8b. Planning is level 5 for the or
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

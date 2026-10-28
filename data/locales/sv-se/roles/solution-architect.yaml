@@ -1,0 +1,61 @@
+summary: >
+  Lösningsarkitekter utformar hur en ny eller ändrad tjänst ska fungera från början till slut, från användarbehov och kliniska arbetsflöden till applikationer, data, integrationer, drift och säkerhet. De ser till att varje lösning passar organisationens arkitektur, uppfyller dess behov av säkerhet, integritet och interoperabilitet och kan byggas, drivas och stödjas till en rimlig kostnad.
+health_context:
+  - Lösningar kombinerar ofta köpta kliniska system, interna tjänster och gemensamma plattformar, så arkitekter måste utforma över leverantörsgränser.
+  - Designval kan införa kliniska faror, såsom förlorade resultat eller felaktig patientmatchning, så lösningsdesigner matar in i det kliniska säkerhetsunderlaget.
+  - Varje nytt dataflöde av patientinformation behöver en rättslig grund och en konsekvensbedömning avseende dataskydd, så arkitekter arbetar nära informationsstyrning.
+  - Interoperabilitet med andra hälso- och vårdorganisationer, med standarder såsom HL7 FHIR, är vanligen ett kärnkrav.
+  - Vissa lösningar innehåller programvara som är en medicinteknisk produkt, vilket ändrar utformning, kvalitetssäkring och leverantörskrav.
+levels:
+  - title: Biträdande lösningsarkitekt
+    responsibilities:
+      - Samla in krav från produktteam, kliniker och leverantörer som underlag till lösningsdesigner.
+      - Rita diagram över nuläge och önskat läge, såsom kontext-, dataflödes- och integrationsvyer.
+      - Utkasta delar av lösningsdesigner och beslutsunderlag under handledning.
+      - Kontrollera designer mot arkitekturstandarder samt krav på säkerhet och informationsstyrning.
+      - Hjälpa till att förbereda designer för granskning i designråd.
+    qualifications:
+      - Specialistkunskap om lösningsdesign, på masternivå eller motsvarande erfarenhet.
+      - Erfarenhet av analys, utveckling eller teknisk design.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 6) eftersom annonser inom hälso- och sjukvården placerar rollen i band 7. Kunskap poängsätts på masternivå eller motsvarande, eftersom arbetet utformar över applikationer, data, integration och säkerhet.
+  - title: Lösningsarkitekt
+    responsibilities:
+      - Utforma lösningar från början till slut för tjänster med lägre risk, såsom personalverktyg eller enkla patientvända tjänster.
+      - Jämföra alternativ, inklusive att köpa, bygga och återanvända gemensamma plattformar, och rekommendera ett med tydliga skäl.
+      - Utforma integrationer, dataflöden samt identitet och åtkomst för lösningen, med öppna standarder där de finns.
+      - Bidra till identifiering av faror och konsekvensbedömningar avseende dataskydd för lösningen.
+      - Presentera designer för designråd och stödja leveransteam genom bygge och driftsättning.
+      - Coacha och granska arbetet hos biträdande lösningsarkitekter.
+    qualifications:
+      - Betydande erfarenhet av lösningsdesign eller mjukvaruutveckling, på en nivå motsvarande en masterexamen.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 7) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8a. Planering, policy och handlingsfrihet poängsätts över profilen för band 7 eftersom arbetet äger designer från början till slut och rekommenderar alternativ till designråd.
+  - title: Senior lösningsarkitekt
+    responsibilities:
+      - Utforma komplexa lösningar med måttlig risk, såsom kliniska system eller tjänster som används över flera organisationer.
+      - Leda den tekniska utvärderingen av leverantörsprodukter i upphandlingar, inklusive interoperabilitet, säkerhet och klinisk säkerhet.
+      - Utforma för motståndskraft och verksamhetskontinuitet där lösningen stöder vården dygnet runt.
+      - Arbeta med kliniska säkerhetsansvariga så att designbeslut och riskkontroller registreras i säkerhetsunderlaget.
+      - Coacha och granska arbetet hos andra lösningsarkitekter.
+    qualifications:
+      - Omfattande erfarenhet av att utforma komplexa lösningar över flera discipliner, på en nivå bortom en masterexamen.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 8a) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8b. Kunskap poängsätts på nivå 8 för specialistkunskap över flera discipliner, såsom applikationer, data, integration, säkerhet och klinisk säkerhet.
+  - title: Ledande lösningsarkitekt
+    responsibilities:
+      - Leda lösningsarkitekturen för ett program eller ett komplext område, såsom ersättning av en elektronisk patientjournal.
+      - Se till att lösningar i hela programmet är konsekventa, interoperabla och samordnade med målarkitekturen.
+      - Ge programstyrelser råd om designrisker, beroenden, leverantörsval och kostnader.
+      - Kvalitetssäkra andra lösningsarkitekters designer i designråd.
+      - Leda och utveckla ett team av lösningsarkitekter.
+    qualifications:
+      - Omfattande erfarenhet av att leda lösningsarkitektur för komplexa program.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 8b) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8c. Planering, policy och människor poängsätts över profilen för band 8b eftersom arbetet planerar arkitekturen för ett helt program och leder ett team av lösningsarkitekter.
+  - title: Principal lösningsarkitekt
+    responsibilities:
+      - Leda lösningsarkitekturen för organisationens största eller mest kritiska program.
+      - Fastställa standarder, mönster och metoder för lösningsarkitektur i organisationen.
+      - Ge direktörer och partnerorganisationer råd om utformningen av kritiska, delade hälso- och vårdtjänster.
+      - Lösa de svåraste designkonflikterna mellan program, leverantörer och partnerorganisationer.
+      - Leda praktiken för lösningsarkitektur och utveckla dess medarbetare.
+    qualifications:
+      - Omfattande erfarenhet av att leda lösningsarkitektur över flera program eller organisationer.
+    job_evaluation_notes: Placerad högre än UK GDaD PCF:s förslag på grad (band 8c) eftersom annonser inom hälso- och sjukvården placerar rollen i band 8d. Handlingsfrihet är nivå 6 eftersom arbetet fastställer organisationens standarder för lösningsarkitektur; ekonomiska resurser och människor är nivå 4 eftersom det leder praktiken och dess budget.

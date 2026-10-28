@@ -1,0 +1,57 @@
+summary: Cán bộ tiền lương bảo đảm mọi nhân viên được trả lương chính xác và đúng hạn. Họ xử lý nhân viên mới, nhân viên nghỉ việc và các thay đổi, tính lương và các khoản khấu trừ, thực hiện kiểm tra bảng lương và trả lời các thắc mắc về lương. Trong một tổ chức chăm sóc sức khỏe số, bảng lương có thể gồm nhân viên lâm sàng, số và doanh nghiệp với các hợp đồng và quy tắc trả lương khác nhau, và thường được vận hành trên một hệ thống tiền lương dùng chung hoặc thuê ngoài mà nhóm phải kiểm tra và đảm bảo.
+health_context:
+- Nhân viên lâm sàng có thể có cách trả lương phức tạp, như giờ làm việc bất tiện, trực và nhiều hợp đồng, mà bộ phận tiền lương phải tính đúng.
+- Các quy tắc trả lương và đợt tăng lương hằng năm thường do cấp quốc gia hoặc bên tài trợ đặt ra, và phải được áp dụng kịp thời, chính xác.
+- Tiền lương thường là khoản chi lớn nhất của tổ chức, nên sai sót và gian lận ảnh hưởng lớn đến tiền công và niềm tin của nhân viên.
+- Dữ liệu tiền lương là thông tin cá nhân rất nhạy cảm, gồm thông tin sức khỏe, gia đình và ngân hàng, nên quản trị thông tin là trọng tâm của công việc.
+- Tiền lương phụ thuộc vào dữ liệu chính xác từ các hệ thống lực lượng lao động và xếp lịch, nên các cán bộ làm việc chặt chẽ với nhân sự và các nhóm hệ thống.
+levels:
+- title: Cán bộ tiền lương
+  summary: Cán bộ tiền lương xử lý các thay đổi về lương và tính lương cho một nhóm nhân viên, theo quy trình và kiểm tra công việc của mình trước mỗi kỳ chốt bảng lương.
+  responsibilities:
+  - Nhập nhân viên mới, nhân viên nghỉ việc và thay đổi hợp đồng vào hệ thống tiền lương từ các biểu mẫu đã được phê duyệt.
+  - Tính lương, gồm làm thêm giờ, phụ cấp, ốm đau và các khoản chi trả nghỉ phép gia đình.
+  - Áp dụng đúng thuế, lương hưu và các khoản khấu trừ khác.
+  - Trả lời các thắc mắc về lương từ nhân viên và quản lý một cách khéo léo và bảo mật.
+  - Kiểm tra kết quả bảng lương để tìm lỗi và sửa chúng trước khi chốt bảng lương.
+  - Tuân theo các kiểm soát tiền lương và quy tắc quản trị thông tin.
+  qualifications:
+  - Có bằng cấp tiền lương sơ cấp, hoặc kinh nghiệm tương đương về xử lý tiền lương.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 3 vì công việc xử lý khoản lương mà tổ chức chi trả cho nhân viên. Kỹ năng thể chất ở mức 3 cho việc nhập dữ liệu nhanh và chính xác.
+- title: Cán bộ tiền lương cao cấp
+  summary: Cán bộ tiền lương cao cấp xử lý các trường hợp tiền lương phức tạp, kiểm tra công việc của các cán bộ tiền lương, và giúp thực hiện các đối chiếu và báo cáo tiền lương.
+  responsibilities:
+  - Giải quyết các trường hợp lương phức tạp, như truy lĩnh lương, nhiều hợp đồng và hy sinh lương.
+  - Thu hồi các khoản trả thừa một cách tế nhị và đúng chính sách.
+  - Đối chiếu bảng lương với sổ cái, và lập bảng đối chiếu thuế và lương hưu.
+  - Kiểm tra công việc của các cán bộ tiền lương và ký duyệt các phần của bảng lương.
+  - Kiểm thử các thay đổi về tăng lương và quy tắc trong hệ thống tiền lương trước khi đưa vào vận hành.
+  - Đào tạo các cán bộ tiền lương và đưa ra tư vấn cơ bản về lương cho các quản lý.
+  qualifications:
+  - Có bằng cấp tiền lương trung cấp, hoặc kinh nghiệm tương đương.
+- title: Trưởng nhóm tiền lương
+  summary: Trưởng nhóm tiền lương quản lý hằng ngày nhóm tiền lương, vận hành toàn bộ chu trình tiền lương, và bảo đảm báo cáo tiền lương theo luật định và báo cáo lương hưu chính xác, đúng hạn.
+  responsibilities:
+  - Lập kế hoạch và vận hành chu trình tiền lương, bảo đảm đáp ứng thời điểm chốt, kiểm tra và thời hạn thanh toán.
+  - Ký duyệt các kiểm tra bảng lương và điều tra các chênh lệch đáng kể.
+  - Quản lý báo cáo tiền lương theo luật định và các báo cáo lương hưu.
+  - Quản lý hằng ngày nhóm tiền lương, gồm khối lượng công việc, đào tạo và kiểm tra chất lượng.
+  - Làm việc với các nhóm nhân sự và xếp lịch để cải thiện chất lượng và tính kịp thời của dữ liệu lương.
+  - Trả lời các thắc mắc và khiếu nại về lương được báo cáo lên cấp trên.
+  qualifications:
+  - Có bằng cấp tiền lương nâng cao, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm vận hành một bảng lương đầy đủ.
+- title: Quản lý tiền lương
+  summary: Quản lý tiền lương chịu trách nhiệm về dịch vụ tiền lương của tổ chức, dù do nội bộ hay nhà cung cấp vận hành, và đảm bảo với các lãnh đạo rằng việc trả lương chính xác, hợp pháp và được kiểm soát tốt.
+  responsibilities:
+  - Quản lý dịch vụ tiền lương và nhóm của dịch vụ, và báo cáo hiệu quả và độ chính xác.
+  - Quản lý hợp đồng và quan hệ với bất kỳ nhà cung cấp tiền lương hoặc dịch vụ dùng chung nào.
+  - Đề ra các kiểm soát tiền lương, như hạn mức phê duyệt, báo cáo ngoại lệ và phân tách nhiệm vụ.
+  - Lập kế hoạch cho các thay đổi về quy tắc trả lương, tăng lương, lương hưu và thuế, và bảo đảm chúng được áp dụng đúng.
+  - Dẫn dắt các thay đổi và nâng cấp hệ thống tiền lương, làm việc với các nhóm hệ thống và nhân sự.
+  - Cung cấp thông tin tiền lương cho ngân sách, dự báo và báo cáo tài chính năm.
+  - Dẫn dắt việc ứng phó với các sự cố tiền lương và sai sót nghiêm trọng.
+  qualifications:
+  - Có bằng cấp tiền lương nâng cao hoặc bằng cấp kế toán được công nhận, hoặc kinh nghiệm tương đương.
+  - Có kinh nghiệm quản lý một dịch vụ tiền lương.
+  job_evaluation_notes: Nguồn lực tài chính ở mức 4 vì công việc chịu trách nhiệm về toàn bộ bảng lương của tổ chức, khoản chi lớn nhất. Con người ở mức 3 vì nhóm tiền lương nhỏ.

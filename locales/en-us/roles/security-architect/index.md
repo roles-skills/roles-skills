@@ -63,7 +63,7 @@ Security architects design the security of the organization's digital health ser
 | [Designing secure systems](../../skills/#designing-secure-systems) | UK GDaD PCF | Working | You can:<br>• design and review system architectures through the application of patterns and principles |
 | [Enabling and informing risk-based decisions](../../skills/#enabling-and-informing-risk-based-decisions) | UK GDaD PCF | Working | You can:<br>• work with risk owners to advise and give feedback<br>• advise on risk impact and whether it's within risk tolerance<br>• describe different risk methodologies and how these are applied, as well as the proportionality of risk |
 | [Research and innovation](../../skills/#research-and-innovation) | UK GDaD PCF | Working | You can:<br>• advise on developments to security properties in technology<br>• identify new technologies and design their use in a business context |
-| [Security technology](../../skills/#security-technology) | UK GDaD PCF | Working | You can:<br>• explain the effect of vulnerabilities on current and future designs<br>• share information on a range of systems, but may specialize in one |
+| [Security technology](../../skills/#security-technology) | UK GDaD PCF | Working | You can:<br>• explain the effect of vulnerabilities on current and future designs<br>• share information on a range of systems, but may specialise in one |
 | [Understanding security implications of transformation](../../skills/#understanding-security-implications-of-transformation) | UK GDaD PCF | Working | You can:<br>• interpret and apply an understanding of policy and process, business architecture, and legal and political implications to assist the development of technical solutions or controls |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Working | You can:<br>• explain the clinical and care workflows your work supports<br>• use common health care terms correctly with clinical and care colleagues<br>• recognize when a change could affect patient care and raise it |
 | [Information governance and data protection](../../skills/#information-governance-and-data-protection) | This reference | Practitioner | You can:<br>• lead data protection impact assessments and information sharing agreements<br>• advise teams on lawful basis, consent, confidentiality, and retention<br>• investigate incidents and recommend improvements |
@@ -80,7 +80,7 @@ Security architects design the security of the organization's digital health ser
 ### Band outline
 
 - **Knowledge:** Expert knowledge of a discipline and its management.
-- **Autonomy:** Interprets organisational policy for a service; sets the team's direction.
+- **Autonomy:** Interprets organizational policy for a service; sets the team's direction.
 - **Scope:** A service area or a discipline across the organization.
 - **Leadership:** Manages a team, or leads a discipline without line management.
 - **Accountability:** A service area, its staff, and its budget.
@@ -91,8 +91,8 @@ Security architects design the security of the organization's digital health ser
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 7 | 196 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -138,11 +138,11 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 
 | Skill | Source | Expected level | What this level means |
 | --- | --- | --- | --- |
-| [Analysis](../../skills/#analysis) | UK GDaD PCF | Practitioner | You can:<br>• monitor the analysis of a technical solution and ensure analysis is reused for similar problem sets<br>• review solutions and identify areas for change<br>• drive the collection of information that is used and analyzed<br>• feed back on policy and requirements |
+| [Analysis](../../skills/#analysis) | UK GDaD PCF | Practitioner | You can:<br>• monitor the analysis of a technical solution and ensure analysis is reused for similar problem sets<br>• review solutions and identify areas for change<br>• drive the collection of information that is used and analysed<br>• feed back on policy and requirements |
 | [Communication (security architect)](../../skills/#communication-security-architect) | UK GDaD PCF | Practitioner | You can:<br>• demonstrate a deep understanding of security concepts and can apply them to a technical level<br>• effectively translate and accurately communicate security and risk implications to technical and non-technical stakeholders<br>• successfully respond to challenges<br>• manage stakeholder expectations and be flexible, adapting to stakeholder reactions to reach consensus |
 | [Designing secure systems](../../skills/#designing-secure-systems) | UK GDaD PCF | Practitioner | You can:<br>• design and review system architectures through the development of patterns and principles |
 | [Enabling and informing risk-based decisions](../../skills/#enabling-and-informing-risk-based-decisions) | UK GDaD PCF | Practitioner | You can:<br>• work with higher impact or more complex risks, advising on the impact and whether it's within risk tolerance<br>• apply different risk methodologies in proportion to the risk |
-| [Research and innovation](../../skills/#research-and-innovation) | UK GDaD PCF | Practitioner | You can:<br>• contribute to and inform developments on security properties in technology<br>• identify new technologies and design the use of these in the business context across the organization<br>• engage with the broader security community |
+| [Research and innovation](../../skills/#research-and-innovation) | UK GDaD PCF | Practitioner | You can:<br>• contribute to and inform developments on security properties in technology<br>• identify new technologies and design the use of these in the business context across the organisation<br>• engage with the broader security community |
 | [Security technology](../../skills/#security-technology) | UK GDaD PCF | Expert | You can:<br>• explain complex system architectures<br>• identify and explain how easy or difficult it will be to exploit vulnerabilities<br>• lead and influence security technology in the security industry |
 | [Understanding security implications of transformation](../../skills/#understanding-security-implications-of-transformation) | UK GDaD PCF | Practitioner | You can:<br>• interpret and apply understanding across a complex area<br>• start influencing policy and process, business architecture, and legal and political implications |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
@@ -151,7 +151,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 | [Vulnerability management](../../skills/#vulnerability-management) | This reference | Practitioner | You can:<br>• prioritize vulnerabilities by risk, including to patient services<br>• scope and manage penetration tests and remediation |
 | [Security operations](../../skills/#security-operations) | This reference | Working | You can:<br>• monitor alerts and triage them using runbooks<br>• gather evidence and escalate events<br>• tune simple detection rules under guidance |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Working | You can:<br>• take part in hazard workshops and contribute to a hazard log<br>• follow the clinical risk management process for your work<br>• provide evidence for a clinical safety case, such as test results |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 
 ### Typical qualifications and experience
@@ -172,8 +172,8 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 5 | 45 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 4 | 42 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 4 | 42 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 4 | 32 |
@@ -195,14 +195,14 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 > A principal security architect works on services of high complexity and risk, making decisions to enable the business to achieve its needs.
 > 
 > At this role level, you will:
-> - work on projects with high strategic impact, setting a strategy that can be used in the long term and across the breadth of the organization
+> - work on projects with high strategic impact, setting a strategy that can be used in the long term and across the breadth of the organisation
 > - communicate with a broad range of senior stakeholders and be responsible for defining the vision, principles and strategy for security architects
 > - recommend security design across several projects or technologies, up to an organisational or inter-organisational level
 > - have a deep and evolving level of technical expertise, so you can act as an exemplar
 > - make and influence important business and architectural decisions
 > - research, identify, validate and adopt new technologies and methodologies
-> - be a recognized expert and demonstrate this expertise by solving unprecedented issues and problems
-> - further the profession, demonstrating and sharing best practice within and outside the organization
+> - be a recognised expert and demonstrate this expertise by solving unprecedented issues and problems
+> - further the profession, demonstrating and sharing best practice within and outside the organisation
 
 ### Responsibilities
 
@@ -220,7 +220,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 | [Communication (security architect)](../../skills/#communication-security-architect) | UK GDaD PCF | Expert | You can:<br>• demonstrate expert understanding of security concepts and can apply them to a technical level, at the highest levels of risk complexity<br>• effectively translate and accurately communicate security and risk implications at the most senior levels across technical and non-technical stakeholders<br>• successfully respond to challenges<br>• manage stakeholder expectations across high risk and complexity or under constrained timescales |
 | [Designing secure systems](../../skills/#designing-secure-systems) | UK GDaD PCF | Expert | You can:<br>• lead design and review solutions to complex problems with system architectures by defining and challenging patterns and principles<br>• create precedents and set direction |
 | [Enabling and informing risk-based decisions](../../skills/#enabling-and-informing-risk-based-decisions) | UK GDaD PCF | Expert | You can:<br>• act as a point of escalation<br>• be trusted by senior risk owners as an expert in security<br>• apply risk methodologies at the most complex levels of risk |
-| [Research and innovation](../../skills/#research-and-innovation) | UK GDaD PCF | Practitioner | You can:<br>• contribute to and inform developments on security properties in technology<br>• identify new technologies and design the use of these in the business context across the organization<br>• engage with the broader security community |
+| [Research and innovation](../../skills/#research-and-innovation) | UK GDaD PCF | Practitioner | You can:<br>• contribute to and inform developments on security properties in technology<br>• identify new technologies and design the use of these in the business context across the organisation<br>• engage with the broader security community |
 | [Security technology](../../skills/#security-technology) | UK GDaD PCF | Expert | You can:<br>• explain complex system architectures<br>• identify and explain how easy or difficult it will be to exploit vulnerabilities<br>• lead and influence security technology in the security industry |
 | [Understanding security implications of transformation](../../skills/#understanding-security-implications-of-transformation) | UK GDaD PCF | Expert | You can:<br>• challenge and lead changes to policy and processes to support business outcomes, business architecture, and legal and political implications |
 | [Understanding health and care services](../../skills/#understanding-health-and-care-services) | This reference | Practitioner | You can:<br>• analyze how a service fits into care pathways across organizations<br>• work with clinicians, care staff, and patients to shape digital services<br>• explain the effect of digital decisions on care, safety, and staff workload |
@@ -230,7 +230,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 | [Security operations](../../skills/#security-operations) | This reference | Practitioner | You can:<br>• investigate and contain security incidents<br>• write detection rules and threat hunts<br>• improve runbooks and tooling after incidents |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Practitioner | You can:<br>• lead hazard identification and risk assessment for a product or change<br>• write and maintain hazard logs and clinical safety case reports<br>• agree risk controls with product teams and check that they work<br>• advise teams on applying clinical risk management standards |
 | [Medical device software regulation](../../skills/#medical-device-software-regulation) | This reference | Working | You can:<br>• follow a software life cycle process that meets medical device standards<br>• produce the records that such a process requires |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Expert | You can:<br>• design the organization's risk management framework and appetite<br>• advise the board on strategic risks |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Expert | You can:<br>• design the organization's risk management framework and appetite<br>• advise the board on strategic risks |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 
 ### Typical qualifications and experience
@@ -239,7 +239,7 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 
 ### Band outline
 
-- **Knowledge:** Expert knowledge, and wide organisational and sector understanding.
+- **Knowledge:** Expert knowledge, and wide organizational and sector understanding.
 - **Autonomy:** Sets strategy for a function; accountable to a director.
 - **Scope:** A function or department.
 - **Leadership:** Leads a function through several management layers.
@@ -251,8 +251,8 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 6 | 60 |
 | 2 | Knowledge, training, and experience | 8 | 240 |
-| 3 | Analytical and judgemental skills | 5 | 60 |
-| 4 | Planning and organisational skills | 5 | 60 |
+| 3 | Analytical and judgmental skills | 5 | 60 |
+| 4 | Planning and organizational skills | 5 | 60 |
 | 5 | Physical skills | 2 | 15 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 5 | 45 |
@@ -270,5 +270,5 @@ Banded above the UK GDaD PCF grade suggestion (Band 6): health-sector adverts pl
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

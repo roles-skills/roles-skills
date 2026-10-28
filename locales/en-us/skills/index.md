@@ -67,7 +67,7 @@ You can:
 - determine the approach for your role within the team's delivery methodology
 - define and agree the scope of delivery for your role within a multidisciplinary team
 - negotiate and agree delivery priorities with the team and relevant stakeholders
-- clearly communicate the value of iterative delivery and realizing benefits early
+- clearly communicate the value of iterative delivery and realising benefits early
 
 **Expert:**
 
@@ -96,15 +96,15 @@ You can:
 - demonstrate experience in applying Agile principles in practice
 - provide a clear, open and transparent framework in which teams can deliver
 - show an awareness of Agile tools and are starting to use them intelligently
-- visualize and make visible the work of the team
+- visualise and make visible the work of the team
 
 **Practitioner:**
 
 You can:
 - compare and select the most appropriate delivery methods and processes
-- recognize, reflect and adapt when something does not work, encouraging experimentation
+- recognise, reflect and adapt when something does not work, encouraging experimentation
 - use a blended approach depending on the context
-- help teams to measure, evaluate and visualize outcomes
+- help teams to measure, evaluate and visualise outcomes
 - encourage reflective practice to improve ways of working
 
 **Expert:**
@@ -112,8 +112,8 @@ You can:
 You can:
 - coach and lead teams in Agile and Lean good practices
 - create and tailor the right approach for a team, challenging, evaluating and iterating the approach through the life cycle
-- experiment with new and innovative ways of working to improve delivery across the organization
-- act as a recognized expert and advocate for Agile and Lean approaches
+- experiment with new and innovative ways of working to improve delivery across the organisation
+- act as a recognised expert and advocate for Agile and Lean approaches
 
 ## Agile research practices
 
@@ -145,7 +145,7 @@ You can:
 
 You can:
 - advocate for agile working at the organisational level and with senior stakeholders
-- help organizations adopt agile research practices
+- help organisations adopt agile research practices
 - set standards and expectations of how research insights should be delivered to support delivery by agile teams
 - coach and guide other user researchers to adopt agile ways of working
 
@@ -176,20 +176,20 @@ You can:
 You can:
 - identify and compare the best processes or delivery methods to use, including measuring and evaluating outcomes
 - help the team to decide the best approach
-- help teams to manage and visualize outcomes, prioritize work and adhere to agreed minimum viable product (MVP), priorities and scope
+- help teams to manage and visualise outcomes, prioritise work and adhere to agreed minimum viable product (MVP), priorities and scope
 
 **Expert:**
 
 You can:
 - coach and lead teams in Agile and Lean practices, determining the right approach for the team to take and evaluating this through the life of a project
 - think of new and innovative ways of working to achieve the right outcomes
-- act as a recognized expert and advocate for the approaches, continuously reflecting and challenging the team
+- act as a recognised expert and advocate for the approaches, continuously reflecting and challenging the team
 
 ## Analysis
 
 *UK GDaD PCF. Used in 3 role levels.*
 
-Analysis involves examining, interpreting and analyzing data to help make informed decisions.
+Analysis involves examining, interpreting and analysing data to help make informed decisions.
 
 **Awareness:**
 
@@ -206,7 +206,7 @@ You can:
 You can:
 - monitor the analysis of a technical solution and ensure analysis is reused for similar problem sets
 - review solutions and identify areas for change
-- drive the collection of information that is used and analyzed
+- drive the collection of information that is used and analysed
 - feed back on policy and requirements
 
 **Expert:**
@@ -220,7 +220,7 @@ You can:
 
 *UK GDaD PCF. Used in 5 role levels.*
 
-Analysis and insight involves examining, interpreting and analyzing data to help make informed decisions.
+Analysis and insight involves examining, interpreting and analysing data to help make informed decisions.
 
 **Awareness:**
 
@@ -235,7 +235,7 @@ You can:
 **Practitioner:**
 
 You can:
-- understand and help teams to apply a range of techniques to analyze data and provide insight
+- understand and help teams to apply a range of techniques to analyse data and provide insight
 - be proactive and present compelling findings that inform wider decisions
 - apply innovative approaches to resolve problems
 
@@ -243,7 +243,7 @@ You can:
 
 You can:
 - understand, teach and supervise a wide range of analysis techniques
-- help organizations create and learn from strategic insights
+- help organisations create and learn from strategic insights
 - apply innovative approaches to resolve problems
 
 ## Analysis and synthesis
@@ -267,26 +267,26 @@ You can:
 **Practitioner:**
 
 You can:
-- understand and help teams to apply a range of methods to analyze research data and synthesize findings
+- understand and help teams to apply a range of methods to analyse research data and synthesise findings
 - effectively engage sceptical colleagues in analysis and synthesis
 - advise on the choice and application of techniques, and can critique colleagues’ findings to assure best practice
 
 **Expert:**
 
 You can:
-- help an organization to adopt a wide range of analysis and synthesis techniques, and to continually assure, improve and innovate their practices to generate clear and valuable findings
+- help an organisation to adopt a wide range of analysis and synthesis techniques, and to continually assure, improve and innovate their practices to generate clear and valuable findings
 
 ## Applied maths, statistics and scientific practices
 
 *UK GDaD PCF. Used in 8 role levels.*
 
-Applied mathematics and statistics involves applying analytical methods including exploratory data analysis, visualization and statistical testing to help make accurate recommendations.
+Applied mathematics and statistics involves applying analytical methods including exploratory data analysis, visualisation and statistical testing to help make accurate recommendations.
 
 **Awareness:**
 
 You can:
 - show an understanding of the benefits of applied mathematics and statistics, and can use this knowledge to carry out data science tasks
-- carry out general analysis techniques for data inspection, exploration and visualization
+- carry out general analysis techniques for data inspection, exploration and visualisation
 - interpret statistical output effectively and accurately
 - show an awareness of different performance and accuracy metrics for statistical assessment and validation
 
@@ -296,24 +296,24 @@ You can:
 - apply analytical methods including exploratory data analysis and statistical testing to a specific data set, to reach accurate and reliable conclusions
 - understand and use different performance and accuracy metrics for model validation in data science projects, hypothesis testing and information retrieval
 - compare selected applied mathematics and statistical methods and identify their differences
-- access and use the statistical and scientific tools available within the organization
+- access and use the statistical and scientific tools available within the organisation
 
 **Practitioner:**
 
 You can:
-- apply designated quantitative techniques such as time series analysis, optimization and simulation to create and embed appropriate models for analysis and prediction
+- apply designated quantitative techniques such as time series analysis, optimisation and simulation to create and embed appropriate models for analysis and prediction
 - provide guidance on matching data sources with relevant applied mathematics and statistical techniques to meet analysis goals
 - apply appropriate statistical techniques to available data to discover new relations and offer insight into research problems, helping to improve organisational processes and support decision making
-- access and use the statistical tools available within the organization
+- access and use the statistical tools available within the organisation
 
 **Expert:**
 
 You can:
-- identify opportunities to develop statistical insight, reports and models to support organisational objectives, while collaborating across the organization effectively
-- critique statistical analyzes
+- identify opportunities to develop statistical insight, reports and models to support organisational objectives, while collaborating across the organisation effectively
+- critique statistical analyses
 - use a variety of data analytics techniques (such as data mining and prescriptive and predictive analytics) for complex data analysis through the whole data life cycle
 - use model outputs to produce evidence and help design services and policies
-- understand a broad range of statistical tools, particularly those deployed within the organization, and can use these appropriately and help others to use them
+- understand a broad range of statistical tools, particularly those deployed within the organisation, and can use these appropriately and help others to use them
 
 ## Applying statistical and analytical tools and techniques
 
@@ -350,7 +350,7 @@ You can:
 - identify opportunities to develop statistical insights and reports that support organisational objectives
 - develop and guide others in a range of statistical and analytical techniques and tools
 - oversee the quality assurance of statistical techniques and analytical outputs, continually improving and innovating practices
-- use statistical and analytical outputs to influence stakeholders across the organization and beyond
+- use statistical and analytical outputs to influence stakeholders across the organisation and beyond
 
 ## Applying user-centred insights
 
@@ -385,7 +385,7 @@ You can:
 **Expert:**
 
 You can:
-- advocate for a range of effective research approaches across the organization
+- advocate for a range of effective research approaches across the organisation
 - coach others in making decisions that meet user needs across a range of channels
 - advocate for continuous use of user insights in teams
 - use user insights to make strategic decisions to provide the best user experience
@@ -413,14 +413,14 @@ You can:
 
 You can:
 - work to support wider organisational objectives beyond your immediate goals​
-- track emerging internal and external issues over time that could affect the work of teams across the organization
-- take action to solve or mitigate problems by influencing colleagues across the organization
+- track emerging internal and external issues over time that could affect the work of teams across the organisation
+- take action to solve or mitigate problems by influencing colleagues across the organisation
 
 **Expert:**
 
 You can:
-- assess how trends in society and industry practices might impact the organization
-- work with people outside of your organization to inform policies, strategies and standards
+- assess how trends in society and industry practices might impact the organisation
+- work with people outside of your organisation to inform policies, strategies and standards
 - anticipate changes to policy and build resilience through your architectural work
 - coach others in identifying important trends
 
@@ -447,7 +447,7 @@ You can:
 
 You can:
 - lead the communication of complicated, complex or risky architecture topics with technical and non-technical stakeholders
-- communicate with senior stakeholders across your organization
+- communicate with senior stakeholders across your organisation
 - adapt your message and communication techniques to your audience
 - advocate on behalf of a team to other stakeholders
 - manage stakeholder expectations effectively
@@ -455,7 +455,7 @@ You can:
 **Expert:**
 
 You can:
-- communicate with technical and non-technical stakeholders at all levels, and across organizations, using architecture communication techniques​
+- communicate with technical and non-technical stakeholders at all levels, and across organisations, using architecture communication techniques​
 - mediate between people in difficult architectural discussions
 - gain support from business and technical stakeholders for architectural initiatives with high levels of risk, impact and complexity
 - coach and support others in architecture communication
@@ -464,7 +464,7 @@ You can:
 
 *UK GDaD PCF. Used in 24 role levels.*
 
-Asset and configuration management involves managing the life cycle of IT assets, such as hardware, software, intellectual property, licences and warranties, the configuration of components, and the relationships between them. Consideration is given to the usage, disposal, compliance, inventory, sustainability, cost optimization and protection of the IT asset portfolio.
+Asset and configuration management involves managing the life cycle of IT assets, such as hardware, software, intellectual property, licences and warranties, the configuration of components, and the relationships between them. Consideration is given to the usage, disposal, compliance, inventory, sustainability, cost optimisation and protection of the IT asset portfolio.
 
 **Awareness:**
 
@@ -487,7 +487,7 @@ You can:
 **Expert:**
 
 You can:
-- manage configuration management for the organization, ensuring value for the business and adherence to company policies
+- manage configuration management for the organisation, ensuring value for the business and adherence to company policies
 - ensure that changes to assets are recorded and controlled appropriately
 - advocate organisational commitment to asset control
 
@@ -636,7 +636,7 @@ You can:
 
 You can:
 - advise others how to ensure appropriate test coverage, data and scenarios, in line with acceptance criteria
-- analyze business risk and impacts of defects so that appropriate action can be taken to enable business acceptance
+- analyse business risk and impacts of defects so that appropriate action can be taken to enable business acceptance
 - provide assurance on the suitability, business readiness and viability of delivered solutions
 
 **Expert:**
@@ -649,37 +649,37 @@ You can:
 
 *UK GDaD PCF. Used in 4 role levels.*
 
-Business architecture involves using industry standards to develop integrated views of an organization that help implement organisational strategy and solve complex problems.
+Business architecture involves using industry standards to develop integrated views of an organisation that help implement organisational strategy and solve complex problems.
 
 **Awareness:**
 
 You can:
 - show an awareness of business architecture frameworks, principles and techniques
-- support the application of frameworks to business change in an organization, under guidance
+- support the application of frameworks to business change in an organisation, under guidance
 
 **Working:**
 
 You can:
 - help support the adoption of business architecture
 - clearly communicate business architecture frameworks, principles, and techniques
-- support the production of a multidimensional view of your organization
-- assess the impact of strategies on the organization, highlighting risks and issues
+- support the production of a multidimensional view of your organisation
+- assess the impact of strategies on the organisation, highlighting risks and issues
 
 **Practitioner:**
 
 You can:
-- apply and develop business architecture frameworks, principles and techniques in your organization
-- advise and guide the organization to inform the implementation of its strategy
-- share the value of business architecture with the organization
-- produce clear multidimensional views of your organization to support decision making
+- apply and develop business architecture frameworks, principles and techniques in your organisation
+- advise and guide the organisation to inform the implementation of its strategy
+- share the value of business architecture with the organisation
+- produce clear multidimensional views of your organisation to support decision making
 
 **Expert:**
 
 You can:
 - simplify complex business architecture frameworks into clear actions
-- develop business architecture maturity in your organization, such as through a community of practice
+- develop business architecture maturity in your organisation, such as through a community of practice
 - lead or guide others in using best practice for business architecture, such as industry standards
-- identify strategic misalignment within the organization and make recommendations for improvement
+- identify strategic misalignment within the organisation and make recommendations for improvement
 
 ## Business cases and investment appraisal
 
@@ -698,7 +698,7 @@ You can:
 You can:
 - build the financial model for a straightforward business case
 - separate capital and revenue costs, and one-off and recurring costs
-- include whole-life costs, such as licences, support, and hosting after go-live
+- include whole-life costs, such as licenses, support, and hosting after go-live
 
 **Practitioner:**
 
@@ -716,48 +716,48 @@ You can:
 - make the case to funders for major investment programs
 - review the portfolio of investments and recommend where to stop, change, or continue
 
-## Business modeling
+## Business modelling
 
 *UK GDaD PCF. Used in 6 role levels.*
 
-Business modeling involves visualizing, analyzing and communicating current and future business situations and how business components influence each other.
+Business modelling involves visualising, analysing and communicating current and future business situations and how business components influence each other.
 
 **Awareness:**
 
 You can:
-- explain how models and diagrams can be used to represent the organization, processes, relationships, information and interactions, and how they add value
+- explain how models and diagrams can be used to represent the organisation, processes, relationships, information and interactions, and how they add value
 - support the creation of visual representations of business workflows, processes and structures
 - explain how other roles use the models you create to support their work
 
 **Working:**
 
 You can:
-- select appropriate business modeling techniques to support analysis, decision making and stakeholder understanding
+- select appropriate business modelling techniques to support analysis, decision making and stakeholder understanding
 - elicit appropriate information to create effective business models
-- create models and diagrams that represent the organization, processes, relationships, information and interactions
-- use existing and new models to ensure alignment to the organization’s goals
+- create models and diagrams that represent the organisation, processes, relationships, information and interactions
+- use existing and new models to ensure alignment to the organisation’s goals
 
 **Practitioner:**
 
 You can:
-- guide the selection and use of business modeling techniques to ensure consistency
+- guide the selection and use of business modelling techniques to ensure consistency
 - define and share good practices for eliciting appropriate information to create effective models
 - create models and diagrams that represent complex and large-scale situations, aligning with and informing architecture artefacts
-- use business modeling outcomes to support strategic decision making
+- use business modelling outcomes to support strategic decision making
 
 **Expert:**
 
 You can:
-- set standards for business modeling, including for the elicitation of appropriate information
-- assess the effectiveness of modeling techniques to enable continuous improvement
-- coach others in business modeling, leading the creation of models when appropriate
-- use business modeling outcomes to anticipate and influence decision making and strategy development
+- set standards for business modelling, including for the elicitation of appropriate information
+- assess the effectiveness of modelling techniques to enable continuous improvement
+- coach others in business modelling, leading the creation of models when appropriate
+- use business modelling outcomes to anticipate and influence decision making and strategy development
 
 ## Business process improvement
 
 *UK GDaD PCF. Used in 6 role levels.*
 
-Business process improvement involves creating appropriate artefacts and analyzing, modifying and testing existing and new processes to make them more efficient.
+Business process improvement involves creating appropriate artefacts and analysing, modifying and testing existing and new processes to make them more efficient.
 
 **Awareness:**
 
@@ -769,8 +769,8 @@ You can:
 **Working:**
 
 You can:
-- analyze and evaluate business processes to identify problems and opportunities
-- design, prioritize and facilitate the implementation of business process improvements, with some support
+- analyse and evaluate business processes to identify problems and opportunities
+- design, prioritise and facilitate the implementation of business process improvements, with some support
 - validate improvements to business processes through testing
 
 **Practitioner:**
@@ -793,11 +793,11 @@ You can:
 *UK GDaD PCF. Used in 5 role levels.*
 
 A senior leadership skill. You can:
-- guide the organization to ensure it has the specialist digital, data and technology skills it needs
+- guide the organisation to ensure it has the specialist digital, data and technology skills it needs
 - develop organisational processes and ways of working so that digital and data roles you support can thrive
-- continuously improve and optimize the organisational environment
+- continuously improve and optimise the organisational environment
 Examples of leadership using this skill:
-- prioritizing capability needs that will have the most impact
+- prioritising capability needs that will have the most impact
 - negotiating for longer-term investment in people by articulating the risks and benefits of different staffing strategies
 - advocating for good practice in ways of working and supporting people to adopt this practice
 - growing digital and data communities
@@ -806,11 +806,11 @@ Examples of leadership using this skill:
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- guide the organization to ensure it has the specialist digital, data and technology skills it needs
+- guide the organisation to ensure it has the specialist digital, data and technology skills it needs
 - develop organisational processes and ways of working so that digital and data roles you support can thrive
-- continuously improve and optimize the organisational environment
+- continuously improve and optimise the organisational environment
 Examples of leadership using this skill:
-- prioritizing capability needs that will have the most impact
+- prioritising capability needs that will have the most impact
 - negotiating for longer-term investment in people by articulating the risks and benefits of different staffing strategies
 - advocating for good practice in ways of working and supporting people to adopt this practice
 - growing digital and data communities
@@ -819,11 +819,11 @@ Examples of leadership using this skill:
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- guide the organization to ensure it has the specialist digital, data and technology skills it needs
+- guide the organisation to ensure it has the specialist digital, data and technology skills it needs
 - develop organisational processes and ways of working so that digital and data roles you support can thrive
-- continuously improve and optimize the organisational environment
+- continuously improve and optimise the organisational environment
 Examples of leadership using this skill:
-- prioritizing capability needs that will have the most impact
+- prioritising capability needs that will have the most impact
 - negotiating for longer-term investment in people by articulating the risks and benefits of different staffing strategies
 - advocating for good practice in ways of working and supporting people to adopt this practice
 - growing digital and data communities
@@ -832,11 +832,11 @@ Examples of leadership using this skill:
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- guide the organization to ensure it has the specialist digital, data and technology skills it needs
+- guide the organisation to ensure it has the specialist digital, data and technology skills it needs
 - develop organisational processes and ways of working so that digital and data roles you support can thrive
-- continuously improve and optimize the organisational environment
+- continuously improve and optimise the organisational environment
 Examples of leadership using this skill:
-- prioritizing capability needs that will have the most impact
+- prioritising capability needs that will have the most impact
 - negotiating for longer-term investment in people by articulating the risks and benefits of different staffing strategies
 - advocating for good practice in ways of working and supporting people to adopt this practice
 - growing digital and data communities
@@ -845,11 +845,11 @@ Examples of leadership using this skill:
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- guide the organization to ensure it has the specialist digital, data and technology skills it needs
+- guide the organisation to ensure it has the specialist digital, data and technology skills it needs
 - develop organisational processes and ways of working so that digital and data roles you support can thrive
-- continuously improve and optimize the organisational environment
+- continuously improve and optimise the organisational environment
 Examples of leadership using this skill:
-- prioritizing capability needs that will have the most impact
+- prioritising capability needs that will have the most impact
 - negotiating for longer-term investment in people by articulating the risks and benefits of different staffing strategies
 - advocating for good practice in ways of working and supporting people to adopt this practice
 - growing digital and data communities
@@ -882,14 +882,14 @@ You can:
 
 You can:
 - set the category management approach for the organization
-- lead categories with the highest spend and risk, and align them with organisational strategy
+- lead categories with the highest spend and risk, and align them with organizational strategy
 - work with other organizations on collaborative buying
 
 ## Change management
 
 *UK GDaD PCF. Used in 15 role levels.*
 
-Change management involves managing changes to services, organizations, suppliers or configuration items, and the associated documentation.
+Change management involves managing changes to services, organisations, suppliers or configuration items, and the associated documentation.
 
 **Awareness:**
 
@@ -900,7 +900,7 @@ You can:
 **Working:**
 
 You can:
-- analyze and assess the impact of change
+- analyse and assess the impact of change
 - document change requests
 - action changes from change requests
 
@@ -914,13 +914,13 @@ You can:
 
 You can:
 - implement new and current change management processes
-- support change management, actively improving and optimizing processes
+- support change management, actively improving and optimising processes
 
 ## Change, benefits and adoption analysis
 
 *UK GDaD PCF. Used in 6 role levels.*
 
-Change, benefits and adoption analysis involves assessing how change can be enabled within the organization, determining expected benefits and creating the conditions required for adoption.
+Change, benefits and adoption analysis involves assessing how change can be enabled within the organisation, determining expected benefits and creating the conditions required for adoption.
 
 **Awareness:**
 
@@ -957,10 +957,10 @@ You can:
 
 A senior leadership skill. You can:
 - put in place continuous cyber and information security awareness and education programs, for example, training for specific groups
-- use a range of methods to assess whether people’s security behavior is improving
-- compare the maturity of security awareness and culture in your organization against others across government to determine effective improvements
+- use a range of methods to assess whether people’s security behaviour is improving
+- compare the maturity of security awareness and culture in your organisation against others across government to determine effective improvements
 Examples of leadership using this skill:
-- incentivizing the right behaviors across the whole organization so that everyone knows how they contribute to security
+- incentivising the right behaviours across the whole organisation so that everyone knows how they contribute to security
 - persuading senior leadership to represent a campaign personally
 - communicating insights from previous incidents to ensure they are learned from
 
@@ -969,10 +969,10 @@ Examples of leadership using this skill:
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
 - put in place continuous cyber and information security awareness and education programs, for example, training for specific groups
-- use a range of methods to assess whether people’s security behavior is improving
-- compare the maturity of security awareness and culture in your organization against others across government to determine effective improvements
+- use a range of methods to assess whether people’s security behaviour is improving
+- compare the maturity of security awareness and culture in your organisation against others across government to determine effective improvements
 Examples of leadership using this skill:
-- incentivizing the right behaviors across the whole organization so that everyone knows how they contribute to security
+- incentivising the right behaviours across the whole organisation so that everyone knows how they contribute to security
 - persuading senior leadership to represent a campaign personally
 - communicating insights from previous incidents to ensure they are learned from
 
@@ -981,10 +981,10 @@ Examples of leadership using this skill:
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
 - put in place continuous cyber and information security awareness and education programs, for example, training for specific groups
-- use a range of methods to assess whether people’s security behavior is improving
-- compare the maturity of security awareness and culture in your organization against others across government to determine effective improvements
+- use a range of methods to assess whether people’s security behaviour is improving
+- compare the maturity of security awareness and culture in your organisation against others across government to determine effective improvements
 Examples of leadership using this skill:
-- incentivizing the right behaviors across the whole organization so that everyone knows how they contribute to security
+- incentivising the right behaviours across the whole organisation so that everyone knows how they contribute to security
 - persuading senior leadership to represent a campaign personally
 - communicating insights from previous incidents to ensure they are learned from
 
@@ -993,10 +993,10 @@ Examples of leadership using this skill:
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
 - put in place continuous cyber and information security awareness and education programs, for example, training for specific groups
-- use a range of methods to assess whether people’s security behavior is improving
-- compare the maturity of security awareness and culture in your organization against others across government to determine effective improvements
+- use a range of methods to assess whether people’s security behaviour is improving
+- compare the maturity of security awareness and culture in your organisation against others across government to determine effective improvements
 Examples of leadership using this skill:
-- incentivizing the right behaviors across the whole organization so that everyone knows how they contribute to security
+- incentivising the right behaviours across the whole organisation so that everyone knows how they contribute to security
 - persuading senior leadership to represent a campaign personally
 - communicating insights from previous incidents to ensure they are learned from
 
@@ -1005,10 +1005,10 @@ Examples of leadership using this skill:
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
 - put in place continuous cyber and information security awareness and education programs, for example, training for specific groups
-- use a range of methods to assess whether people’s security behavior is improving
-- compare the maturity of security awareness and culture in your organization against others across government to determine effective improvements
+- use a range of methods to assess whether people’s security behaviour is improving
+- compare the maturity of security awareness and culture in your organisation against others across government to determine effective improvements
 Examples of leadership using this skill:
-- incentivizing the right behaviors across the whole organization so that everyone knows how they contribute to security
+- incentivising the right behaviours across the whole organisation so that everyone knows how they contribute to security
 - persuading senior leadership to represent a campaign personally
 - communicating insights from previous incidents to ensure they are learned from
 
@@ -1039,7 +1039,7 @@ You can:
 **Expert:**
 
 You can:
-- lead a coding service and its quality programme
+- lead a coding service and its quality program
 - advise on coding standards and their effect on data and funding
 
 ## Clinical leadership in digital
@@ -1062,7 +1062,7 @@ You can:
 **Practitioner:**
 
 You can:
-- lead clinical engagement for a product or programme
+- lead clinical engagement for a product or program
 - turn clinical needs and evidence into requirements
 - champion safe adoption among clinical peers
 
@@ -1202,7 +1202,7 @@ This skill level is currently not defined.
 
 *UK GDaD PCF. Used in 21 role levels.*
 
-Commercial management involves exploring commercial opportunities while complying with the regulations on how we conduct and manage both internal and third party relationships.
+Commercial management involves exploring commercial opportunities whilst complying with the regulations on how we conduct and manage both internal and third party relationships.
 
 **Awareness:**
 
@@ -1263,7 +1263,7 @@ You can:
 
 *UK GDaD PCF. Used in 9 role levels.*
 
-Commercial management involves exploring commercial opportunities while complying with the regulations on how we conduct and manage both internal and third party relationships.
+Commercial management involves exploring commercial opportunities whilst complying with the regulations on how we conduct and manage both internal and third party relationships.
 
 **Awareness:**
 
@@ -1305,7 +1305,7 @@ You can:
 You can:
 - choose the appropriate medium to communicate findings
 - shape and share communications relevant to the audience
-- present analysis and visualizations in clear ways to both specialist and non-specialist audiences, with support
+- present analysis and visualisations in clear ways to both specialist and non-specialist audiences, with support
 - give tactical recommendations based on your analysis and insight to inform decision making
 
 **Practitioner:**
@@ -1313,7 +1313,7 @@ You can:
 You can:
 - turn complex data into compelling, clear and actionable stories
 - share data communication skills with the team and across government
-- present analysis and visualizations in clear ways to communicate complex messages
+- present analysis and visualisations in clear ways to communicate complex messages
 - communicate negative and positive information to stakeholders
 - give tactical and strategic recommendations
 
@@ -1355,7 +1355,7 @@ You can:
 You can:
 - mediate between people and strengthen relationships, adopting the appropriate communication method with stakeholders at all levels
 - manage stakeholder expectations and moderate difficult discussions about high risk and complex topics, even within constrained timescales
-- speak on behalf of, and represent the community to, large audiences inside and outside the organization
+- speak on behalf of, and represent the community to, large audiences inside and outside the organisation
 
 ## Communicating data
 
@@ -1379,7 +1379,7 @@ You can:
 
 You can:
 - turn complex data into clear and well understood solutions, which can be acted upon
-- share data communication skills with the team and organization
+- share data communication skills with the team and organisation
 - understand and communicate different options, taking into account risks and uncertainties
 
 **Expert:**
@@ -1456,7 +1456,7 @@ You can:
 
 *This reference. Used in 4 role levels.*
 
-Planning communications and campaigns that meet organisational goals, using insight about audiences, and evaluating their effect.
+Planning communications and campaigns that meet organizational goals, using insight about audiences, and evaluating their effect.
 
 **Awareness:**
 
@@ -1500,7 +1500,7 @@ You can:
 - contribute to the work of others
 - motivate and empower teams
 - create the right environment for teams to work in, and can identify the best team makeup depending on the situation
-- recognize and deal with issues
+- recognise and deal with issues
 
 **Practitioner:**
 
@@ -1514,7 +1514,7 @@ You can:
 
 You can:
 - solve and unblock issues between teams or departments at the highest level
-- coach the organization on team dynamics and conflict resolution, while also building and growing the community
+- coach the organisation on team dynamics and conflict resolution, while also building and growing the community
 
 ## Confidentiality and information sharing
 
@@ -1573,7 +1573,7 @@ You can:
 
 You can:
 - provide advice and recommendations to stakeholders based on your significant specialist knowledge and experience
-- lead the definition of guidance and inform how the organization approaches delivery or uses digital and data skills more effectively
+- lead the definition of guidance and inform how the organisation approaches delivery or uses digital and data skills more effectively
 
 **Expert:**
 
@@ -1589,21 +1589,21 @@ Content management and architecture involves using and developing processes, sys
 
 You can:
 - explain a typical content life cycle
-- explain the value of organizing and categorizing information in content design and some ways to do this
+- explain the value of organising and categorising information in content design and some ways to do this
 - describe the importance of metadata (such as content type, publication date or ownership information) for managing content
 
 **Working:**
 
 You can:
 - document information that enables effective content life cycle management, for example metadata
-- organize complex information to support understanding and navigation using existing standards and systems for structure and hierarchy
+- organise complex information to support understanding and navigation using existing standards and systems for structure and hierarchy
 - use tools to manage and publish content, for example content management systems
 
 **Practitioner:**
 
 You can:
 - establish workflows for designing and publishing content as part of an end-to-end content life cycle
-- develop ways to organize and categorize information
+- develop ways to organise and categorise information
 - help design ways for content to be effectively reused in different channels and contexts
 
 **Expert:**
@@ -1623,7 +1623,7 @@ Context, problem and option analysis involves holistically investigating the con
 
 You can:
 - describe the analysis techniques you could use to help understand the context, problem and options to meet business and user needs
-- explain the importance of understanding that internal and external factors influence the organization
+- explain the importance of understanding that internal and external factors influence the organisation
 - contribute to identifying and assessing multiple options and formulating recommendations, under supervision
 
 **Working:**
@@ -1638,15 +1638,15 @@ You can:
 
 You can:
 - lead the approach to understanding the context, the problem and root causes
-- set goals for a piece of work that aligns to the organization's strategic context
+- set goals for a piece of work that aligns to the organisation's strategic context
 - lead the approach to developing and evaluating multiple options, sharing and advocating for recommendations to gain support
 
 **Expert:**
 
 You can:
 - advise on approaches to options analysis, feasibility and impact assessments to ensure best practice is followed
-- ensure all streams of work align to the organization's strategic context and goals
-- advise on how the organization can use business analysis skills to add value
+- ensure all streams of work align to the organisation's strategic context and goals
+- advise on how the organisation can use business analysis skills to add value
 - guide tactical decision making and influence strategic plans in a changing environment
 
 ## Continual service improvement
@@ -1658,19 +1658,19 @@ You can:
 **Awareness:**
 
 You can:
-- show an awareness of developing process efficiency and common ways in which processes are optimized
+- show an awareness of developing process efficiency and common ways in which processes are optimised
 - support specific activities to improve development processes
 - spot or identify obvious deficiencies
 
 **Working:**
 
 You can:
-- identify process optimization opportunities with guidance, and contribute to the implementation of proposed solutions
+- identify process optimisation opportunities with guidance, and contribute to the implementation of proposed solutions
 
 **Practitioner:**
 
 You can:
-- analyze current processes, and identify and implement opportunities to optimize them
+- analyse current processes, and identify and implement opportunities to optimise them
 - lead and develop a team of experts to deliver service improvements
 - help to evaluate and establish requirements for the implementation of changes by setting policy and standards
 
@@ -1725,7 +1725,7 @@ You can:
 **Practitioner:**
 
 You can:
-- draft and negotiate complex agreements, such as software licences, cloud hosting, system integration, and data processing agreements
+- draft and negotiate complex agreements, such as software licenses, cloud hosting, system integration, and data processing agreements
 - advise on risk allocation, including liability caps, service levels, exit, and escrow
 - make sure contracts protect patient data, service continuity, and the organization's rights in its software and data
 - write and maintain contract templates and playbooks
@@ -1836,7 +1836,7 @@ You can:
 
 *UK GDaD PCF. Used in 20 role levels.*
 
-Creating value for money involves making the right choices for the right reasons, balancing return on investment and value for the user and the organization.
+Creating value for money involves making the right choices for the right reasons, balancing return on investment and value for the user and the organisation.
 
 **Awareness:**
 
@@ -1853,12 +1853,12 @@ You can:
 - decide when it's appropriate to reuse something, and when it's not
 - decide how and when to escalate risk in achieving value
 - discuss estimates with stakeholders to validate understanding
-- analyze the benefit of investment against anticipated outcomes
+- analyse the benefit of investment against anticipated outcomes
 
 **Practitioner:**
 
 You can:
-- advocate for user needs, ensuring user value is balanced against cost and value for the organization
+- advocate for user needs, ensuring user value is balanced against cost and value for the organisation
 - determine the benefit of a product and persuade others it's the right product to use
 - write or contribute to business cases
 - communicate business-value propositions
@@ -1868,7 +1868,7 @@ You can:
 
 You can:
 - develop and own a business case and iterate it throughout the life cycle
-- coach others on identifying benefits while balancing user and business needs
+- coach others on identifying benefits whilst balancing user and business needs
 - communicate the delivery of incremental value
 - build the case for an organisational approach to value through product strategy
 - coach and empower teams to take a value for money approach
@@ -1889,7 +1889,7 @@ You can:
 
 You can:
 - resolve user requests to a minimum of the agreed service level agreement
-- empathize with the end user
+- empathise with the end user
 - use customer-focused metrics to achieve the desired outcome
 
 **Practitioner:**
@@ -1902,7 +1902,7 @@ You can:
 **Expert:**
 
 You can:
-- translate lessons learned into continual service improvement
+- translate lessons learnt into continual service improvement
 - oversee the full range of customer service functions, including reviewing customer service satisfaction
 - investigate which processes can be automated and the ways to automate them
 
@@ -1911,75 +1911,75 @@ You can:
 *UK GDaD PCF. Used in 8 role levels.*
 
 A senior leadership skill. You can:
-- implement cyber incident management processes that reflect the level of risk accepted by the organization
-- ensure the organization is prepared for and can effectively respond to incidents
-- determine the impact of critical incidents on the organization’s technology
-- lead the response to critical incidents that affect the whole organization
+- implement cyber incident management processes that reflect the level of risk accepted by the organisation
+- ensure the organisation is prepared for and can effectively respond to incidents
+- determine the impact of critical incidents on the organisation’s technology
+- lead the response to critical incidents that affect the whole organisation
 Examples of leadership using this skill:
 - helping the incident management team build relationships with senior leaders
 - leading simulation exercises with the board so they understand their role in incident response processes and the implications of potential incidents
-- assessing what to communicate to the board, ministers or the whole organization, and when to do it
+- assessing what to communicate to the board, ministers or the whole organisation, and when to do it
 
 **Awareness:**
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- implement cyber incident management processes that reflect the level of risk accepted by the organization
-- ensure the organization is prepared for and can effectively respond to incidents
-- determine the impact of critical incidents on the organization’s technology
-- lead the response to critical incidents that affect the whole organization
+- implement cyber incident management processes that reflect the level of risk accepted by the organisation
+- ensure the organisation is prepared for and can effectively respond to incidents
+- determine the impact of critical incidents on the organisation’s technology
+- lead the response to critical incidents that affect the whole organisation
 Examples of leadership using this skill:
 - helping the incident management team build relationships with senior leaders
 - leading simulation exercises with the board so they understand their role in incident response processes and the implications of potential incidents
-- assessing what to communicate to the board, ministers or the whole organization, and when to do it
+- assessing what to communicate to the board, ministers or the whole organisation, and when to do it
 
 **Working:**
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- implement cyber incident management processes that reflect the level of risk accepted by the organization
-- ensure the organization is prepared for and can effectively respond to incidents
-- determine the impact of critical incidents on the organization’s technology
-- lead the response to critical incidents that affect the whole organization
+- implement cyber incident management processes that reflect the level of risk accepted by the organisation
+- ensure the organisation is prepared for and can effectively respond to incidents
+- determine the impact of critical incidents on the organisation’s technology
+- lead the response to critical incidents that affect the whole organisation
 Examples of leadership using this skill:
 - helping the incident management team build relationships with senior leaders
 - leading simulation exercises with the board so they understand their role in incident response processes and the implications of potential incidents
-- assessing what to communicate to the board, ministers or the whole organization, and when to do it
+- assessing what to communicate to the board, ministers or the whole organisation, and when to do it
 
 **Practitioner:**
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- implement cyber incident management processes that reflect the level of risk accepted by the organization
-- ensure the organization is prepared for and can effectively respond to incidents
-- determine the impact of critical incidents on the organization’s technology
-- lead the response to critical incidents that affect the whole organization
+- implement cyber incident management processes that reflect the level of risk accepted by the organisation
+- ensure the organisation is prepared for and can effectively respond to incidents
+- determine the impact of critical incidents on the organisation’s technology
+- lead the response to critical incidents that affect the whole organisation
 Examples of leadership using this skill:
 - helping the incident management team build relationships with senior leaders
 - leading simulation exercises with the board so they understand their role in incident response processes and the implications of potential incidents
-- assessing what to communicate to the board, ministers or the whole organization, and when to do it
+- assessing what to communicate to the board, ministers or the whole organisation, and when to do it
 
 **Expert:**
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- implement cyber incident management processes that reflect the level of risk accepted by the organization
-- ensure the organization is prepared for and can effectively respond to incidents
-- determine the impact of critical incidents on the organization’s technology
-- lead the response to critical incidents that affect the whole organization
+- implement cyber incident management processes that reflect the level of risk accepted by the organisation
+- ensure the organisation is prepared for and can effectively respond to incidents
+- determine the impact of critical incidents on the organisation’s technology
+- lead the response to critical incidents that affect the whole organisation
 Examples of leadership using this skill:
 - helping the incident management team build relationships with senior leaders
 - leading simulation exercises with the board so they understand their role in incident response processes and the implications of potential incidents
-- assessing what to communicate to the board, ministers or the whole organization, and when to do it
+- assessing what to communicate to the board, ministers or the whole organisation, and when to do it
 
 ## Cyber risk management
 
 *UK GDaD PCF. Used in 7 role levels.*
 
 A senior leadership skill. You can:
-- maintain a clear understanding of the cyber and information security risks across the whole organization
+- maintain a clear understanding of the cyber and information security risks across the whole organisation
 - develop and implement risk assessment processes
-- oversee the assessment of the organization's partners and supply chain for potential threats or vulnerabilities
+- oversee the assessment of the organisation's partners and supply chain for potential threats or vulnerabilities
 Examples of leadership using this skill:
 - building a culture where teams have awareness of, and take responsibility for, risks and mitigating them
 - advising programme owners and people running IT services about risks in a way that enables them to act on that advice
@@ -1989,9 +1989,9 @@ Examples of leadership using this skill:
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- maintain a clear understanding of the cyber and information security risks across the whole organization
+- maintain a clear understanding of the cyber and information security risks across the whole organisation
 - develop and implement risk assessment processes
-- oversee the assessment of the organization's partners and supply chain for potential threats or vulnerabilities
+- oversee the assessment of the organisation's partners and supply chain for potential threats or vulnerabilities
 Examples of leadership using this skill:
 - building a culture where teams have awareness of, and take responsibility for, risks and mitigating them
 - advising programme owners and people running IT services about risks in a way that enables them to act on that advice
@@ -2001,9 +2001,9 @@ Examples of leadership using this skill:
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- maintain a clear understanding of the cyber and information security risks across the whole organization
+- maintain a clear understanding of the cyber and information security risks across the whole organisation
 - develop and implement risk assessment processes
-- oversee the assessment of the organization's partners and supply chain for potential threats or vulnerabilities
+- oversee the assessment of the organisation's partners and supply chain for potential threats or vulnerabilities
 Examples of leadership using this skill:
 - building a culture where teams have awareness of, and take responsibility for, risks and mitigating them
 - advising programme owners and people running IT services about risks in a way that enables them to act on that advice
@@ -2013,9 +2013,9 @@ Examples of leadership using this skill:
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- maintain a clear understanding of the cyber and information security risks across the whole organization
+- maintain a clear understanding of the cyber and information security risks across the whole organisation
 - develop and implement risk assessment processes
-- oversee the assessment of the organization's partners and supply chain for potential threats or vulnerabilities
+- oversee the assessment of the organisation's partners and supply chain for potential threats or vulnerabilities
 Examples of leadership using this skill:
 - building a culture where teams have awareness of, and take responsibility for, risks and mitigating them
 - advising programme owners and people running IT services about risks in a way that enables them to act on that advice
@@ -2025,9 +2025,9 @@ Examples of leadership using this skill:
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- maintain a clear understanding of the cyber and information security risks across the whole organization
+- maintain a clear understanding of the cyber and information security risks across the whole organisation
 - develop and implement risk assessment processes
-- oversee the assessment of the organization's partners and supply chain for potential threats or vulnerabilities
+- oversee the assessment of the organisation's partners and supply chain for potential threats or vulnerabilities
 Examples of leadership using this skill:
 - building a culture where teams have awareness of, and take responsibility for, risks and mitigating them
 - advising programme owners and people running IT services about risks in a way that enables them to act on that advice
@@ -2039,11 +2039,11 @@ Examples of leadership using this skill:
 
 A senior leadership skill. You can:
 - develop an effective cyber and information security governance framework that is integrated with overall organisational governance
-- prioritize issues affecting the organization’s ability to meet security policies and follow standards
+- prioritise issues affecting the organisation’s ability to meet security policies and follow standards
 - lead a continuous review process to ensure governance meets changing regulations, legislation and best practices
 - mitigate risks caused by unavoidable exceptions to the governance framework
 Examples of leadership using this skill:
-- escalating risks to the highest level in the organization when governance issues do not have defined owners
+- escalating risks to the highest level in the organisation when governance issues do not have defined owners
 - persuading others to use their financial resources for changes needed to comply with the framework
 - helping stakeholders be aware of the risks that are caused when an exception is agreed
 
@@ -2052,11 +2052,11 @@ Examples of leadership using this skill:
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
 - develop an effective cyber and information security governance framework that is integrated with overall organisational governance
-- prioritize issues affecting the organization’s ability to meet security policies and follow standards
+- prioritise issues affecting the organisation’s ability to meet security policies and follow standards
 - lead a continuous review process to ensure governance meets changing regulations, legislation and best practices
 - mitigate risks caused by unavoidable exceptions to the governance framework
 Examples of leadership using this skill:
-- escalating risks to the highest level in the organization when governance issues do not have defined owners
+- escalating risks to the highest level in the organisation when governance issues do not have defined owners
 - persuading others to use their financial resources for changes needed to comply with the framework
 - helping stakeholders be aware of the risks that are caused when an exception is agreed
 
@@ -2065,11 +2065,11 @@ Examples of leadership using this skill:
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
 - develop an effective cyber and information security governance framework that is integrated with overall organisational governance
-- prioritize issues affecting the organization’s ability to meet security policies and follow standards
+- prioritise issues affecting the organisation’s ability to meet security policies and follow standards
 - lead a continuous review process to ensure governance meets changing regulations, legislation and best practices
 - mitigate risks caused by unavoidable exceptions to the governance framework
 Examples of leadership using this skill:
-- escalating risks to the highest level in the organization when governance issues do not have defined owners
+- escalating risks to the highest level in the organisation when governance issues do not have defined owners
 - persuading others to use their financial resources for changes needed to comply with the framework
 - helping stakeholders be aware of the risks that are caused when an exception is agreed
 
@@ -2078,11 +2078,11 @@ Examples of leadership using this skill:
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
 - develop an effective cyber and information security governance framework that is integrated with overall organisational governance
-- prioritize issues affecting the organization’s ability to meet security policies and follow standards
+- prioritise issues affecting the organisation’s ability to meet security policies and follow standards
 - lead a continuous review process to ensure governance meets changing regulations, legislation and best practices
 - mitigate risks caused by unavoidable exceptions to the governance framework
 Examples of leadership using this skill:
-- escalating risks to the highest level in the organization when governance issues do not have defined owners
+- escalating risks to the highest level in the organisation when governance issues do not have defined owners
 - persuading others to use their financial resources for changes needed to comply with the framework
 - helping stakeholders be aware of the risks that are caused when an exception is agreed
 
@@ -2091,11 +2091,11 @@ Examples of leadership using this skill:
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
 - develop an effective cyber and information security governance framework that is integrated with overall organisational governance
-- prioritize issues affecting the organization’s ability to meet security policies and follow standards
+- prioritise issues affecting the organisation’s ability to meet security policies and follow standards
 - lead a continuous review process to ensure governance meets changing regulations, legislation and best practices
 - mitigate risks caused by unavoidable exceptions to the governance framework
 Examples of leadership using this skill:
-- escalating risks to the highest level in the organization when governance issues do not have defined owners
+- escalating risks to the highest level in the organisation when governance issues do not have defined owners
 - persuading others to use their financial resources for changes needed to comply with the framework
 - helping stakeholders be aware of the risks that are caused when an exception is agreed
 
@@ -2103,7 +2103,7 @@ Examples of leadership using this skill:
 
 *UK GDaD PCF. Used in 12 role levels.*
 
-Analysis and insight involves examining, interpreting and analyzing data to help make informed decisions.
+Analysis and insight involves examining, interpreting and analysing data to help make informed decisions.
 
 **Awareness:**
 
@@ -2131,7 +2131,7 @@ This skill level is currently not defined.
 
 *UK GDaD PCF. Used in 4 role levels.*
 
-Data compliance and security involves ensuring data handling practices at all stages of the data life cycle meet legal, regulatory, technical, ethical and organization requirements to protect the data, data subjects and organization.
+Data compliance and security involves ensuring data handling practices at all stages of the data life cycle meet legal, regulatory, technical, ethical and organisation requirements to protect the data, data subjects and organisation.
 
 **Awareness:**
 
@@ -2203,29 +2203,29 @@ Data engineering involves ensuring the correct systems are available to enable t
 **Awareness:**
 
 You can:
-- explain why you need engineering support to design and provide products for the organization
+- explain why you need engineering support to design and provide products for the organisation
 - explain why you need to cleanse and prepare data for use in data science products
 - explain different architectures, including cloud and on-premise, and data manipulation and transformation tools
 
 **Working:**
 
 You can:
-- identify the appropriate engineering support to design and provide products for the organization
-- recognize the processes and tools for cleansing and preparing data, and put reusable processes and checks in place
+- identify the appropriate engineering support to design and provide products for the organisation
+- recognise the processes and tools for cleansing and preparing data, and put reusable processes and checks in place
 - use different architectures, including cloud and on-premise
 - use data manipulation and transformation tools
 
 **Practitioner:**
 
 You can:
-- work with data engineers and data scientists to design and provide products for the organization
+- work with data engineers and data scientists to design and provide products for the organisation
 
 **Expert:**
 
 You can:
-- help to identify the data engineering requirements for any data science product, while working with data engineers and data scientists to design and deliver those products into the organization effectively
+- help to identify the data engineering requirements for any data science product, while working with data engineers and data scientists to design and deliver those products into the organisation effectively
 - understand the need to cleanse and prepare data before including it in data science products and can put reusable processes and checks in place
-- understand a broad range of architectures, including cloud and on-premise, and data manipulation and transformation tools deployed within the organization, and can use these tools appropriately and help others use them
+- understand a broad range of architectures, including cloud and on-premise, and data manipulation and transformation tools deployed within the organisation, and can use these tools appropriately and help others use them
 
 ## Data ethics and privacy
 
@@ -2256,10 +2256,10 @@ You can:
 **Expert:**
 
 You can:
-- oversee compliance with data ethics standards and legislation across the organization
+- oversee compliance with data ethics standards and legislation across the organisation
 - develop, manage and continuously improve an ethical framework within your area
 - develop a data ethics culture, influencing others to act on it
-- ensure data ethics is applied appropriately when formulating, implementing and evaluating organisational policies and programs
+- ensure data ethics is applied appropriately when formulating, implementing and evaluating organisational policies and programmes
 
 ## Data governance
 
@@ -2281,15 +2281,15 @@ You can:
 **Practitioner:**
 
 You can:
-- implement and monitor data governance using standard methodology throughout the data life cycle, within a large organization
+- implement and monitor data governance using standard methodology throughout the data life cycle, within a large organisation
 - meet the requirement for relevant data governance accreditation
-- take responsibility for specific parts of a data governance framework within the organization
+- take responsibility for specific parts of a data governance framework within the organisation
 
 **Expert:**
 
 You can:
-- define the data governance strategy for the organization, and connect it with the wider organisational strategy
-- design, implement and monitor data governance within a large organization, throughout the data life cycle
+- define the data governance strategy for the organisation, and connect it with the wider organisational strategy
+- design, implement and monitor data governance within a large organisation, throughout the data life cycle
 - set the strategy for applying end-to-end data governance frameworks, processes, operational policies, standards, compliance and assurance
 - engage and work effectively with technical leaders and senior stakeholders to implement data governance and ensure compliance
 
@@ -2315,7 +2315,7 @@ You can:
 - evolve and define data governance
 - take responsibility for supporting and collaborating around wider governance
 - assure and integrate data services to meet the needs of multiple business services
-- work proactively to ensure the organization designs architecture that considers data
+- work proactively to ensure the organisation designs architecture that considers data
 
 **Expert:**
 
@@ -2341,21 +2341,21 @@ You can:
 You can:
 - experiment with unfamiliar and emerging technologies, or familiar technologies in new data contexts, with guidance
 - share what you learn with the team, explaining potential benefits, risks, and practical considerations
-- identify opportunities to apply technology to improve data processes or outcomes in an operational setting or the wider organization
+- identify opportunities to apply technology to improve data processes or outcomes in an operational setting or the wider organisation
 
 **Practitioner:**
 
 You can:
 - test and evaluate the feasibility of unfamiliar and emerging technologies, or familiar technologies in new data contexts
-- share what you learn with the organization, explaining potential benefits, risks, and practical considerations
-- recommend, design and implement innovative data solutions based on organization objectives, user needs, and operational constraints
+- share what you learn with the organisation, explaining potential benefits, risks, and practical considerations
+- recommend, design and implement innovative data solutions based on organisation objectives, user needs, and operational constraints
 
 **Expert:**
 
 You can:
-- advocate for adoption of unfamiliar and emerging technologies, or familiar technologies in new data contexts, ensuring organization objectives, user needs, and operational constraints inform decisions
+- advocate for adoption of unfamiliar and emerging technologies, or familiar technologies in new data contexts, ensuring organisation objectives, user needs, and operational constraints inform decisions
 - develop organisational capability in data innovation through leadership
-- anticipate future technology changes and advise how to take advantage of them to realize value from data
+- anticipate future technology changes and advise how to take advantage of them to realise value from data
 
 ## Data integration design
 
@@ -2372,7 +2372,7 @@ You can:
 **Working:**
 
 You can:
-- design simple data exchange or integration solutions using established patterns or modeling techniques
+- design simple data exchange or integration solutions using established patterns or modelling techniques
 - include security features in your data integration designs
 
 **Practitioner:**
@@ -2407,14 +2407,14 @@ You can:
 You can:
 - understand and apply data governance structures and principles over a data life cycle, ensuring best practice at each phase
 - demonstrate knowledge of data governance industry standards
-- design and implement continuous improvements to optimize data governance over a data life cycle
+- design and implement continuous improvements to optimise data governance over a data life cycle
 - work with internal and external stakeholders to build organisational capacity and capability in data governance
 
 **Expert:**
 
 You can:
 - take responsibility for data governance structures and principles, and ensure that they’re defined and applied with best practice throughout a data life cycle
-- direct continuous improvements to optimize data governance over a data life cycle
+- direct continuous improvements to optimise data governance over a data life cycle
 
 ## Data literacy improvement
 
@@ -2429,20 +2429,20 @@ This skill level is currently not defined.
 **Working:**
 
 You can:
-- raise awareness of the need for data literacy within the organization
+- raise awareness of the need for data literacy within the organisation
 - support data literacy training and development by enabling data consumers to understand what they can and cannot do with data
 
 **Practitioner:**
 
 You can:
-- recommend data literacy as a valuable skill across all levels of the organization
-- identify employee training courses and other opportunities to improve the organization’s data literacy skills and data-driven culture
+- recommend data literacy as a valuable skill across all levels of the organisation
+- identify employee training courses and other opportunities to improve the organisation’s data literacy skills and data-driven culture
 
 **Expert:**
 
 You can:
-- take responsibility for improving the organization’s data literacy
-- encourage a data-driven culture within the organization by strengthening data literacy skills among all employees
+- take responsibility for improving the organisation’s data literacy
+- encourage a data-driven culture within the organisation by strengthening data literacy skills among all employees
 - persuade senior decision-makers that data literacy is a vital part of a data-driven culture, enabling effective decision-making at all levels
 
 ## Data management
@@ -2467,14 +2467,14 @@ You can:
 **Practitioner:**
 
 You can:
-- advocate for effective data governance and data management policies and guidelines within your team and across your organization
+- advocate for effective data governance and data management policies and guidelines within your team and across your organisation
 - monitor and improve data management practices in your team
 - help define, develop and support the use of data management tools, procedures and methods in compliance with data governance policies
 
 **Expert:**
 
 You can:
-- champion and lead data management and governance processes within your team and across your organization
+- champion and lead data management and governance processes within your team and across your organisation
 - define and lead on the implementation of data management responsibilities
 - define data management tools and develop training requirements to implement data governance processes effectively
 - enable continuous improvement of data management practices and compliance with data governance policies
@@ -2483,7 +2483,7 @@ You can:
 
 *UK GDaD PCF. Used in 3 role levels.*
 
-Data maturity involves measuring how set up your organization is to make the best use of its data.
+Data maturity involves measuring how set up your organisation is to make the best use of its data.
 
 **Awareness:**
 
@@ -2507,16 +2507,16 @@ You can:
 **Expert:**
 
 You can:
-- oversee the implementation of the organization’s data maturity model
+- oversee the implementation of the organisation’s data maturity model
 - work with senior stakeholders to provide data assurance
 - report assessment findings to boards or committees
 - communicate data maturity improvement plans
 
-## Data modeling
+## Data modelling
 
 *UK GDaD PCF. Used in 7 role levels.*
 
-Data modeling involves producing visual representations of information systems to communicate the relationship between different data types.
+Data modelling involves producing visual representations of information systems to communicate the relationship between different data types.
 
 **Awareness:**
 
@@ -2525,8 +2525,8 @@ This skill level is currently not defined.
 **Working:**
 
 You can:
-- explain the concepts and principles of data modeling
-- produce, maintain and update relevant data models for an organization’s specific needs
+- explain the concepts and principles of data modelling
+- produce, maintain and update relevant data models for an organisation’s specific needs
 - reverse-engineer data models from a live system
 
 **Practitioner:**
@@ -2534,27 +2534,27 @@ You can:
 You can:
 - produce relevant data models across multiple subject areas
 - explain which models to use for which purpose
-- understand industry-recognized data modeling patterns and standards, and when to apply them
+- understand industry-recognised data modelling patterns and standards, and when to apply them
 - compare and align different data models
 
 **Expert:**
 
 You can:
-- understand the concepts and principles of data modeling and can produce relevant data models
-- work across government and industry, recognizing opportunities for the reuse and alignment of data models in different organizations
-- design the method to categorize data models within an organization
+- understand the concepts and principles of data modelling and can produce relevant data models
+- work across government and industry, recognising opportunities for the reuse and alignment of data models in different organisations
+- design the method to categorise data models within an organisation
 
-## Data modeling, cleansing and enrichment
+## Data modelling, cleansing and enrichment
 
 *UK GDaD PCF. Used in 5 role levels.*
 
-Data modeling involves producing visual representations of information systems to communicate the relationship between different data types.
+Data modelling involves producing visual representations of information systems to communicate the relationship between different data types.
 
 **Awareness:**
 
 You can:
 - show an awareness of different data models and tools, and understand when they could be used
-- show an awareness of industry-recognized data modeling patterns and standards
+- show an awareness of industry-recognised data modelling patterns and standards
 
 **Working:**
 
@@ -2562,7 +2562,7 @@ You can:
 - produce data models and understand where to use different types of data models
 - understand different tools and can compare different data models
 - reverse-engineer a data model from a live system
-- understand industry-recognized data modeling patterns and standards
+- understand industry-recognised data modelling patterns and standards
 
 **Practitioner:**
 
@@ -2570,27 +2570,27 @@ You can:
 - build and review complex data models, ensuring adherence to standards
 - use data integration tools and languages to integrate and store data, and advise teams on best practice
 - ensure data for analysis meets data quality standards and is interoperable with other data sets, enabling reuse
-- work with other data professionals to improve modeling and integration patterns and standards
+- work with other data professionals to improve modelling and integration patterns and standards
 
 **Expert:**
 
 You can:
-- understand different ways to model data to maximize its use and value
-- ensure data is modelled appropriately, and modeling standards exist and are complied with
+- understand different ways to model data to maximise its use and value
+- ensure data is modelled appropriately, and modelling standards exist and are complied with
 - understand a number of data integration tools and patterns, and ensure your teams have the support and training needed to use the most appropriate methods
-- build relationships with other senior data professionals (in fields such as data architecture, data engineering and data science) to share best practice and continually improve data modeling and integration processes and standards
+- build relationships with other senior data professionals (in fields such as data architecture, data engineering and data science) to share best practice and continually improve data modelling and integration processes and standards
 
 ## Data preparation and linkage
 
 *UK GDaD PCF. Used in 4 role levels.*
 
-Data preparation and linkage involves cleansing, modeling, transforming and assuring the quality of data so that it is usable and reproducible.
+Data preparation and linkage involves cleansing, modelling, transforming and assuring the quality of data so that it is usable and reproducible.
 
 **Awareness:**
 
 You can:
 - explain the importance of data models and their uses
-- identify appropriate channels in your organization to learn about data modeling and quality standards
+- identify appropriate channels in your organisation to learn about data modelling and quality standards
 - identify data quality issues and provide possible solutions to resolve them
 - prepare and cleanse data under supervision, contributing to making it fit for purpose
 
@@ -2607,15 +2607,15 @@ You can:
 You can:
 - plan the framework of an analytical data model based on appropriate data sources
 - support the implementation of data models using appropriate tools and systems
-- ensure your team understands the importance of data quality and modeling
+- ensure your team understands the importance of data quality and modelling
 
 **Expert:**
 
 You can:
 - develop analytical data models using a deep understanding of data sources
-- ensure data models are implemented using tools and systems that align with modeling standards
-- set data quality standards in the organization or beyond, and ensure stakeholders understand their importance
-- mentor others in data quality and modeling
+- ensure data models are implemented using tools and systems that align with modelling standards
+- set data quality standards in the organisation or beyond, and ensure stakeholders understand their importance
+- mentor others in data quality and modelling
 
 ## Data protection impact assessment
 
@@ -2705,7 +2705,7 @@ You can:
 
 You can:
 - demonstrate practical knowledge of data science tools and techniques
-- develop data science solutions that maximize insight
+- develop data science solutions that maximise insight
 - identify opportunities for how data science can improve data practices
 
 **Expert:**
@@ -2733,79 +2733,79 @@ You can:
 - use data policies, processes and standards effectively
 - work with subject matter experts to develop standards, policies and guidance to protect data
 - monitor compliance with policies and standards in a team and take action if needed
-- analyze the impact if a standard is breached
+- analyse the impact if a standard is breached
 
 **Practitioner:**
 
 You can:
 - create data standards for different subjects and ensure senior leaders understand them
-- work with subject matter experts across the organization to introduce data standards best practice
-- monitor compliance with policies and standards in the organization
-- make recommendations about how the organization should resolve breaches of standards
+- work with subject matter experts across the organisation to introduce data standards best practice
+- monitor compliance with policies and standards in the organisation
+- make recommendations about how the organisation should resolve breaches of standards
 
 **Expert:**
 
 You can:
-- create data standards for the organization
+- create data standards for the organisation
 - advocate for, and oversee compliance with, data policies and standards
-- decide where standards need to be set across the organization, and how to set them in the wider context of government
+- decide where standards need to be set across the organisation, and how to set them in the wider context of government
 
-## Data visualization
+## Data visualisation
 
 *UK GDaD PCF. Used in 4 role levels.*
 
-Data visualization involves translating business requirements into accessible data visualizations that communicate data, such as tables, charts and graphs.
+Data visualisation involves translating business requirements into accessible data visualisations that communicate data, such as tables, charts and graphs.
 
 **Awareness:**
 
 You can:
-- develop and use an appropriate data visualization under supervision to tell a meaningful story that is relevant to set goals
+- develop and use an appropriate data visualisation under supervision to tell a meaningful story that is relevant to set goals
 - explain the value of sharing a story effectively
-- explain why it's important to develop inclusive, accessible data visualizations that recognize different user needs
+- explain why it's important to develop inclusive, accessible data visualisations that recognise different user needs
 
 **Working:**
 
 You can:
-- use the most appropriate data visualization to tell a focussed story that is relevant to the team's goals
-- develop inclusive, accessible data visualizations that recognize different user needs
-- work with others in a multidisciplinary team to ensure a visualization provides the information they need
+- use the most appropriate data visualisation to tell a focussed story that is relevant to the team's goals
+- develop inclusive, accessible data visualisations that recognise different user needs
+- work with others in a multidisciplinary team to ensure a visualisation provides the information they need
 
 **Practitioner:**
 
 You can:
-- use a range of data visualizations to simplify a complex story
+- use a range of data visualisations to simplify a complex story
 - adapt a story to the needs of multidisciplinary stakeholders
-- advise and support others in developing inclusive, accessible data visualizations that recognize different user needs
-- suggest improvements to data visualization processes and standards to increase efficiency and quality
+- advise and support others in developing inclusive, accessible data visualisations that recognise different user needs
+- suggest improvements to data visualisation processes and standards to increase efficiency and quality
 
 **Expert:**
 
 You can:
-- translate business requirements into goals for data visualizations
-- set and advocate for new standards and practices in inclusive, accessible data visualization
-- identify data visualization capability gaps and implement appropriate training
-- promote the value and adoption of data visualizations across the organization
+- translate business requirements into goals for data visualisations
+- set and advocate for new standards and practices in inclusive, accessible data visualisation
+- identify data visualisation capability gaps and implement appropriate training
+- promote the value and adoption of data visualisations across the organisation
 - strategically support stakeholders in understanding and using a story
 
 ## Defining and managing business needs, user needs and requirements
 
 *UK GDaD PCF. Used in 6 role levels.*
 
-Defining and managing business needs, user needs and requirements involves eliciting, analyzing and validating and communicating needs effectively through appropriate actionable artefacts.
+Defining and managing business needs, user needs and requirements involves eliciting, analysing and validating and communicating needs effectively through appropriate actionable artefacts.
 
 **Awareness:**
 
 You can:
-- support the elicitation, analysis, validation and prioritization of business and user needs
+- support the elicitation, analysis, validation and prioritisation of business and user needs
 - support the definition of functional and non-functional requirements artefacts, such as problem statements, epics, features, user stories and acceptance criteria, to communicate business and user needs
 
 **Working:**
 
 You can:
-- elicit, analyze, challenge and validate business and user needs, addressing conflicts
+- elicit, analyse, challenge and validate business and user needs, addressing conflicts
 - define artefacts, such as problem statements, epics, features, user stories, acceptance criteria and non-functional requirements, to communicate business and user needs
 - manage artefacts and ensure traceability in line with a defined approach
-- facilitate the prioritization of needs with minimal supervision
+- facilitate the prioritisation of needs with minimal supervision
 
 **Practitioner:**
 
@@ -2813,7 +2813,7 @@ You can:
 - lead the elicitation, analysis and validation of complex or large-scale business and user needs, negotiating and addressing conflicts
 - define and assure artefacts, such as problem statements, epics, features, user stories, acceptance criteria and non-functional requirements, to communicate business and user needs
 - lead and define the approach to manage artefacts and ensure traceability
-- facilitate the prioritization of needs, aligning to strategic goals
+- facilitate the prioritisation of needs, aligning to strategic goals
 
 **Expert:**
 
@@ -2821,7 +2821,7 @@ You can:
 - set standards for defining and managing complex or large-scale business and user needs
 - use business and user needs to ensure proposed solutions align with organisational strategy
 - provide guidance and recommendations to ensure needs are traceable and managed
-- influence the prioritization of needs, enabling tactical solutions and long-term strategic decision making
+- influence the prioritisation of needs, enabling tactical solutions and long-term strategic decision making
 
 ## Delivering business impact
 
@@ -2832,7 +2832,7 @@ You can:
 **Awareness:**
 
 You can:
-- show an understanding of the organization and the benefits of data science
+- show an understanding of the organisation and the benefits of data science
 - develop data science products as part of a team
 - create basic visuals and presentations to communicate data science effectively
 - show knowledge of data and analysis and can discuss how to align them to meet user needs
@@ -2840,44 +2840,44 @@ You can:
 **Working:**
 
 You can:
-- show an understanding of the organization and the benefits of data science
+- show an understanding of the organisation and the benefits of data science
 - collaborate to help identify user needs and develop and deliver data science products
-- communicate effectively and present analysis and visualizations tailored to your audience
+- communicate effectively and present analysis and visualisations tailored to your audience
 
 **Practitioner:**
 
 You can:
-- lead and support your organization area by using data science to create change
-- identify opportunities to develop data science products to support organisational objectives, while collaborating across the organization to fulfill goals
+- lead and support your organisation area by using data science to create change
+- identify opportunities to develop data science products to support organisational objectives, while collaborating across the organisation to fulfil goals
 - show an understanding of the role of user research, and can design and manage processes to gather and establish user needs
-- communicate relevant and compelling stories effectively and present analysis and data visualizations clearly to get across complex messages
+- communicate relevant and compelling stories effectively and present analysis and data visualisations clearly to get across complex messages
 - work with colleagues to implement scalable data science products, and to understand maintenance requirements
 
 **Expert:**
 
 You can:
-- champion the role of data science within the organization
+- champion the role of data science within the organisation
 - understand and champion user research, and can design and manage processes to gather and establish user needs
-- identify and create opportunities to develop and deliver data science products to support organisational objectives, while collaborating across the organization to fulfill meaningful goals
-- take responsibility for delivering scalable data science products into the organization, and establishing maintenance support
+- identify and create opportunities to develop and deliver data science products to support organisational objectives, while collaborating across the organisation to fulfil meaningful goals
+- take responsibility for delivering scalable data science products into the organisation, and establishing maintenance support
 
 ## Delivering business impact through data
 
 *UK GDaD PCF. Used in 4 role levels.*
 
-Delivering business impact through data involves identifying the priorities of the organization, recognizing the contribution of data and making decisions with data to ensure you deliver business impact.
+Delivering business impact through data involves identifying the priorities of the organisation, recognising the contribution of data and making decisions with data to ensure you deliver business impact.
 
 **Awareness:**
 
 You can:
-- explain why it's important to understand the organization's priorities
+- explain why it's important to understand the organisation's priorities
 - contribute to the development of data products to deliver business impact
 - explain how to align data and analysis to meet business requirements
 
 **Working:**
 
 You can:
-- explain how your work aligns to the organization's priorities and delivers business impact
+- explain how your work aligns to the organisation's priorities and delivers business impact
 - work with others to help identify business requirements
 - identify the data needed to address business requirements
 - develop and deliver data products that align to organisational priorities and enable decision making, with some support when required
@@ -2893,8 +2893,8 @@ You can:
 **Expert:**
 
 You can:
-- champion the role of data across the organization
-- strategically communicate the business impact of data across the organization
+- champion the role of data across the organisation
+- strategically communicate the business impact of data across the organisation
 - lead others in delivering, and identifying opportunities to deliver, scalable data products that align to organisational objectives
 - partner with others, including other professions, to decide when to pivot to deliver business impact
 
@@ -3031,7 +3031,7 @@ You can:
 **Expert:**
 
 You can:
-- improve the practice of inclusive, accessible and environmentally sustainable design in multiple teams or across your organization against measurable criteria
+- improve the practice of inclusive, accessible and environmentally sustainable design in multiple teams or across your organisation against measurable criteria
 - help others understand and mitigate potential barriers, biases and assumptions that may exclude or harm users
 
 ## Designing secure systems
@@ -3064,19 +3064,19 @@ You can:
 
 *UK GDaD PCF. Used in 18 role levels.*
 
-Designing strategically involves influencing and aligning design work to your organization’s strategic objectives, and contributing to or embedding design patterns and practices across your organization.
+Designing strategically involves influencing and aligning design work to your organisation’s strategic objectives, and contributing to or embedding design patterns and practices across your organisation.
 
 **Awareness:**
 
 You can:
-- explain the importance of aligning to the strategy of an organization
+- explain the importance of aligning to the strategy of an organisation
 - describe how your design work aligns to the wider goals and vision of your team
 - explain the value of using patterns and components when designing content and services
 
 **Working:**
 
 You can:
-- align your design work to both the goals and vision of your team and the strategic objectives of your organization
+- align your design work to both the goals and vision of your team and the strategic objectives of your organisation
 - identify potential risks and use design to mitigate them
 - identify opportunities and use design to take advantage of them
 - contribute to the development of design patterns and components
@@ -3092,8 +3092,8 @@ You can:
 
 You can:
 - work with leaders to ensure that design is part of developing organisational strategy, and involved early enough in policy, technology and delivery processes to inform effective decision making
-- enable use of patterns and components across the organization
-- help teams align their work to the goals and vision of their organization
+- enable use of patterns and components across the organisation
+- help teams align their work to the goals and vision of their organisation
 
 ## Designing together
 
@@ -3162,14 +3162,14 @@ You can:
 
 You can:
 - oversee and promote the implementation of coding standards and practices on existing and new analytical outcomes, products and services
-- contribute to coding standards across the organization
-- ensure reproducibility of code and code documentation across the organization
+- contribute to coding standards across the organisation
+- ensure reproducibility of code and code documentation across the organisation
 
 ## Developing data science capability
 
 *UK GDaD PCF. Used in 6 role levels.*
 
-Training and capability improvement involves identifying and advocating ways to develop the skills, knowledge and performance of individuals or organizations.
+Training and capability improvement involves identifying and advocating ways to develop the skills, knowledge and performance of individuals or organisations.
 
 **Awareness:**
 
@@ -3189,52 +3189,52 @@ You can:
 
 You can:
 - manage your CPD (continuous professional development) and can link your learning to objectives and organisational goals
-- support data science capability building across the team and wider organization
+- support data science capability building across the team and wider organisation
 - confidently talk about the benefits of data science approaches to existing and potential customers
 - demonstrate a good understanding of a range of data science techniques, such as machine learning and natural language processing, and you can use them to build data science solutions, including reports, models and dashboards
 
 **Expert:**
 
 You can:
-- act as a leader or technical specialist, providing detailed support and guidance within the organization and helping colleagues to develop skills
+- act as a leader or technical specialist, providing detailed support and guidance within the organisation and helping colleagues to develop skills
 - set the direction of CPD (continuous professional development) within your team
-- keep up to date with new developments in data science and can match those to opportunities in your organization
+- keep up to date with new developments in data science and can match those to opportunities in your organisation
 - talk confidently about the benefits of data science approaches to existing and potential customers
 - demonstrate an in-depth understanding of a wide range of data science techniques, such as machine learning and natural language processing, and detailed knowledge of at least one specialism
 - use these techniques to build data science solutions, including reports, models and dashboards
 
-## Development process optimization
+## Development process optimisation
 
 *UK GDaD PCF. Used in 8 role levels.*
 
-Process optimization involves ensuring your processes are accurately defined and capture the most efficient way to complete a task by monitoring modified procedures.
+Process optimisation involves ensuring your processes are accurately defined and capture the most efficient way to complete a task by monitoring modified procedures.
 
 **Awareness:**
 
 You can:
-- explain the importance of developing process efficiency and the common ways in which processes are optimized
+- explain the importance of developing process efficiency and the common ways in which processes are optimised
 - support specific activities to improve development processes
 - identify obvious deficiencies
 
 **Working:**
 
 You can:
-- work under guidance to identify process optimization opportunities
+- work under guidance to identify process optimisation opportunities
 - contribute to the implementation of proposed solutions
 
 **Practitioner:**
 
 You can:
-- analyze current processes
-- identify and implement opportunities to optimize processes
+- analyse current processes
+- identify and implement opportunities to optimise processes
 - lead and develop a team of experts to deliver service improvements
 - help to evaluate and establish requirements for the implementation of changes by setting policy and standards
 
 **Expert:**
 
 You can:
-- set the strategy and manage resource allocation for solution development programs
-- work with client functions to establish business requirements and identify, propose, initiate and lead these programs
+- set the strategy and manage resource allocation for solution development programmes
+- work with client functions to establish business requirements and identify, propose, initiate and lead these programmes
 
 ## Diary and meeting management
 
@@ -3284,7 +3284,7 @@ You can:
 **Working:**
 
 You can:
-- identify and analyze the functionality that systems deliver or need to deliver
+- identify and analyse the functionality that systems deliver or need to deliver
 - create system and data models and documentation with minimal supervision
 - work with others in a multidisciplinary team to identify gaps in functionality and user experience, and their impact
 
@@ -3300,8 +3300,8 @@ You can:
 
 You can:
 - set the direction for the analysis of systems to align to business capabilities and strategy
-- set the direction for analyzing and communicating system changes and the effect of change on stakeholders
-- work with other technical specialists to set and iterate standards for system and data modeling and documentation
+- set the direction for analysing and communicating system changes and the effect of change on stakeholders
+- work with other technical specialists to set and iterate standards for system and data modelling and documentation
 
 ## Digital and social media
 
@@ -3533,32 +3533,32 @@ You can:
 
 *UK GDaD PCF. Used in 4 role levels.*
 
-Enterprise architecture involves analyzing how to achieve an organization's objectives by designing and aligning its IT applications and technologies.
+Enterprise architecture involves analysing how to achieve an organisation's objectives by designing and aligning its IT applications and technologies.
 
 **Awareness:**
 
 You can:
-- explain how to turn an organization's goals into clear objectives
-- explain how an architecture that defines technology, people, process and other elements can be used to achieve the organization’s objectives
+- explain how to turn an organisation's goals into clear objectives
+- explain how an architecture that defines technology, people, process and other elements can be used to achieve the organisation’s objectives
 
 **Working:**
 
 You can:
-- turn an organization's goals into clear objectives, with limited direction
-- design an architecture that defines the technology, people, process and other elements needed to achieve organization objectives, with support
+- turn an organisation's goals into clear objectives, with limited direction
+- design an architecture that defines the technology, people, process and other elements needed to achieve organisation objectives, with support
 
 **Practitioner:**
 
 You can:
-- design an architecture that defines the technology, people, process and other elements needed to achieve organization objectives
-- work with others across the organization to ensure your design is used to achieve the organization’s objectives
+- design an architecture that defines the technology, people, process and other elements needed to achieve organisation objectives
+- work with others across the organisation to ensure your design is used to achieve the organisation’s objectives
 
 **Expert:**
 
 You can:
-- lead others designing architectures defining the technology, people, process and other elements needed to achieve organization objectives
-- work with others beyond the organization to influence organisational structures, technology, people and processes to achieve objectives
-- ensure organization-wide changes align with the architectural strategy
+- lead others designing architectures defining the technology, people, process and other elements needed to achieve organisation objectives
+- work with others beyond the organisation to influence organisational structures, technology, people and processes to achieve objectives
+- ensure organisation-wide changes align with the architectural strategy
 
 ## Equality, diversity, and inclusion
 
@@ -3640,14 +3640,14 @@ You can:
 **Working:**
 
 You can:
-- work with researchers and analysts to draw together, analyze and clearly explain commonly available evidence relevant to users or a service, for example, web analytics data
+- work with researchers and analysts to draw together, analyse and clearly explain commonly available evidence relevant to users or a service, for example, web analytics data
 - use evidence to inform, develop and test a design idea, with support
 
 **Practitioner:**
 
 You can:
-- independently find, analyze and synthesize evidence from trusted sources
-- work collaboratively with researchers, analysts and other specialists to design appropriate research and analyze the results
+- independently find, analyse and synthesise evidence from trusted sources
+- work collaboratively with researchers, analysts and other specialists to design appropriate research and analyse the results
 - help your team use design hypotheses effectively
 - use complex research and data to develop and test design ideas
 
@@ -3655,9 +3655,9 @@ You can:
 
 You can:
 - embed a practice of hypothesis-driven design in a team
-- guide the organization in how to use evidence to improve content or services
-- analyze, synthesize and use evidence to improve the way the organization works
-- ensure user insights are shared with and used by the wider organization and across government
+- guide the organisation in how to use evidence to improve content or services
+- analyse, synthesise and use evidence to improve the way the organisation works
+- ensure user insights are shared with and used by the wider organisation and across government
 
 ## Exit planning and data return
 
@@ -3763,7 +3763,7 @@ You can:
 
 *UK GDaD PCF. Used in 21 role levels.*
 
-Financial management involves planning, organizing and monitoring financial resources.
+Financial management involves planning, organising and monitoring financial resources.
 
 **Awareness:**
 
@@ -3788,7 +3788,7 @@ You can:
 **Expert:**
 
 You can:
-- influence or create complex budgets across an organization, programme or product view
+- influence or create complex budgets across an organisation, programme or product view
 - manage the budget you are given and make it work
 
 ## Financial management for digital, data and technology
@@ -3796,11 +3796,11 @@ You can:
 *UK GDaD PCF. Used in 6 role levels.*
 
 A senior leadership skill. You can:
-- own, manage and optimize budgets across digital, data and technology
+- own, manage and optimise budgets across digital, data and technology
 - secure appropriate investment to deliver organisational strategy and priorities
-- negotiate investments in shared technologies across the organization and across government
+- negotiate investments in shared technologies across the organisation and across government
 Examples of leadership using this skill:
-- prioritizing competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximize value
+- prioritising competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximise value
 - identifying risk to critical services and influencing stakeholders to increase investment to ensure they are maintained
 - balancing short-term tactical gains with longer-term strategies to ensure value now and in the future
 
@@ -3808,11 +3808,11 @@ Examples of leadership using this skill:
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- own, manage and optimize budgets across digital, data and technology
+- own, manage and optimise budgets across digital, data and technology
 - secure appropriate investment to deliver organisational strategy and priorities
-- negotiate investments in shared technologies across the organization and across government
+- negotiate investments in shared technologies across the organisation and across government
 Examples of leadership using this skill:
-- prioritizing competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximize value
+- prioritising competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximise value
 - identifying risk to critical services and influencing stakeholders to increase investment to ensure they are maintained
 - balancing short-term tactical gains with longer-term strategies to ensure value now and in the future
 
@@ -3820,11 +3820,11 @@ Examples of leadership using this skill:
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- own, manage and optimize budgets across digital, data and technology
+- own, manage and optimise budgets across digital, data and technology
 - secure appropriate investment to deliver organisational strategy and priorities
-- negotiate investments in shared technologies across the organization and across government
+- negotiate investments in shared technologies across the organisation and across government
 Examples of leadership using this skill:
-- prioritizing competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximize value
+- prioritising competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximise value
 - identifying risk to critical services and influencing stakeholders to increase investment to ensure they are maintained
 - balancing short-term tactical gains with longer-term strategies to ensure value now and in the future
 
@@ -3832,11 +3832,11 @@ Examples of leadership using this skill:
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- own, manage and optimize budgets across digital, data and technology
+- own, manage and optimise budgets across digital, data and technology
 - secure appropriate investment to deliver organisational strategy and priorities
-- negotiate investments in shared technologies across the organization and across government
+- negotiate investments in shared technologies across the organisation and across government
 Examples of leadership using this skill:
-- prioritizing competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximize value
+- prioritising competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximise value
 - identifying risk to critical services and influencing stakeholders to increase investment to ensure they are maintained
 - balancing short-term tactical gains with longer-term strategies to ensure value now and in the future
 
@@ -3844,11 +3844,11 @@ Examples of leadership using this skill:
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- own, manage and optimize budgets across digital, data and technology
+- own, manage and optimise budgets across digital, data and technology
 - secure appropriate investment to deliver organisational strategy and priorities
-- negotiate investments in shared technologies across the organization and across government
+- negotiate investments in shared technologies across the organisation and across government
 Examples of leadership using this skill:
-- prioritizing competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximize value
+- prioritising competing demands for investment in people, infrastructure and innovation across digital, data and technology to maximise value
 - identifying risk to critical services and influencing stakeholders to increase investment to ensure they are maintained
 - balancing short-term tactical gains with longer-term strategies to ensure value now and in the future
 
@@ -3856,7 +3856,7 @@ Examples of leadership using this skill:
 
 *UK GDaD PCF. Used in 2 role levels.*
 
-Financial ownership involves securing funding and prioritizing how it is spent to ensure quality and value for money.
+Financial ownership involves securing funding and prioritising how it is spent to ensure quality and value for money.
 
 **Awareness:**
 
@@ -3914,7 +3914,7 @@ You can:
 **Practitioner:**
 
 You can:
-- lead budget setting and forecasting for a directorate or large programme
+- lead budget setting and forecasting for a directorate or large program
 - model scenarios and sensitivities, such as inflation, delays, or changes in funding
 - build multi-year forecasts for digital programs, including the running costs that follow investment
 - present forecasts and risks to senior managers
@@ -3951,14 +3951,14 @@ You can:
 You can:
 - prepare the annual accounts and statutory returns to a timetable
 - apply accounting standards to complex areas, such as leases, cloud computing arrangements, and intangible assets
-- write accounting papers that explain judgements and estimates
+- write accounting papers that explain judgments and estimates
 - manage the external audit of the accounts and respond to findings
 
 **Expert:**
 
 You can:
 - own the organization's annual report and accounts and the accounting policies behind them
-- advise the board and audit committee on significant judgements and new standards
+- advise the board and audit committee on significant judgments and new standards
 - lead the response to qualified audit opinions or material misstatements
 - assure that reporting meets public accountability rules
 
@@ -3981,7 +3981,7 @@ You can:
 - process a range of transactions, including credit notes, refunds, and journals
 - reconcile supplier statements, bank accounts, and control accounts
 - resolve routine queries from suppliers, customers, and budget holders
-- spot duplicate, unusual, or unauthorized transactions and raise them
+- spot duplicate, unusual, or unauthorised transactions and raise them
 
 **Practitioner:**
 
@@ -4036,7 +4036,7 @@ You can:
 
 *UK GDaD PCF. Used in 3 role levels.*
 
-Governance and assurance involves defining and ensuring adherence to an organization's quality control and compliance processes.
+Governance and assurance involves defining and ensuring adherence to an organisation's quality control and compliance processes.
 
 **Awareness:**
 
@@ -4045,7 +4045,7 @@ This skill level is currently not defined.
 **Working:**
 
 You can:
-- analyze and provide feedback on governance and project documents, and on governance boards, according to a predefined framework, assessing them against accessibility standards
+- analyse and provide feedback on governance and project documents, and on governance boards, according to a predefined framework, assessing them against accessibility standards
 
 **Practitioner:**
 
@@ -4055,7 +4055,7 @@ You can:
 **Expert:**
 
 You can:
-- analyze governance and assurance systems and add appropriate measures to ensure accessibility is built into all project, programme and change activity
+- analyse governance and assurance systems and add appropriate measures to ensure accessibility is built into all project, programme and change activity
 
 ## Health and care law
 
@@ -4166,7 +4166,7 @@ Managing health and care records through their life cycle, including creation, f
 
 You can:
 - file, find, and track records correctly
-- protect records from loss or unauthorized access
+- protect records from loss or unauthorised access
 
 **Working:**
 
@@ -4313,7 +4313,7 @@ You can:
 
 *UK GDaD PCF. Used in 17 role levels.*
 
-Incident management involves coordinating the response to incident reports, ensuring effective prioritization, investigation and resolution.
+Incident management involves coordinating the response to incident reports, ensuring effective prioritisation, investigation and resolution.
 
 **Awareness:**
 
@@ -4323,7 +4323,7 @@ You can:
 **Working:**
 
 You can:
-- diagnose and prioritize incidents, investigate their causes and find resolutions
+- diagnose and prioritise incidents, investigate their causes and find resolutions
 
 **Practitioner:**
 
@@ -4361,8 +4361,8 @@ You can:
 **Expert:**
 
 You can:
-- help organizations understand the diversity of users of government services
-- guide organizations to adopt inclusive practices and apply what they learn to design and deliver accessible services that work for all users
+- help organisations understand the diversity of users of government services
+- guide organisations to adopt inclusive practices and apply what they learn to design and deliver accessible services that work for all users
 
 ## Information and data law
 
@@ -4453,7 +4453,7 @@ You can:
 **Practitioner:**
 
 You can:
-- plan and run the information governance assurance programme
+- plan and run the information governance assurance program
 - judge whether evidence meets the standard and identify gaps
 - work with internal and external auditors
 
@@ -4560,7 +4560,7 @@ You can:
 
 *This reference. Used in 3 role levels.*
 
-Protecting and using intellectual property in software, data, content, and inventions, including copyright, licences, open source, and trade marks.
+Protecting and using intellectual property in software, data, content, and inventions, including copyright, licenses, open source, and trade marks.
 
 **Awareness:**
 
@@ -4572,14 +4572,14 @@ You can:
 
 You can:
 - check intellectual property clauses in routine agreements
-- keep records of licences and registered rights
+- keep records of licenses and registered rights
 - explain the main open source license types and their conditions
 
 **Practitioner:**
 
 You can:
 - advise on who owns software, data, and content made by staff, suppliers, and partners
-- draft licences and intellectual property terms, including open source release of the organization's code
+- draft licenses and intellectual property terms, including open source release of the organization's code
 - advise on commercial use of the organization's data and software, and on sharing benefits
 
 **Expert:**
@@ -4651,7 +4651,7 @@ You can:
 
 *UK GDaD PCF. Used in 14 role levels.*
 
-IT service reporting involves analyzing data to understand how an IT product or service has performed against the Key Performance Indicators (KPIs).
+IT service reporting involves analysing data to understand how an IT product or service has performed against the Key Performance Indicators (KPIs).
 
 **Awareness:**
 
@@ -4702,12 +4702,12 @@ You can:
 You can:
 - help other designers apply iterative design principles and agile methodologies to their work and create materials to test their ideas
 - adapt designs effectively to changes in requirements, priorities or user needs
-- help your team to define a minimum viable product (MVP) and determine what to prioritize for iteration
+- help your team to define a minimum viable product (MVP) and determine what to prioritise for iteration
 
 **Expert:**
 
 You can:
-- embed the practice of iterative design and agile working in teams or wider organization
+- embed the practice of iterative design and agile working in teams or wider organisation
 - guide designers in creating materials to test complex ideas at any fidelity
 - help teams adapt quickly to changes in requirements, priorities or user needs
 - iterate delivery processes or team structures to help teams work effectively
@@ -4730,13 +4730,13 @@ You can:
 
 You can:
 - contribute to best practice guidelines
-- understand the sustainability and consequences of your decisions and can make decisions characterized by managed levels of risk and complexity
+- understand the sustainability and consequences of your decisions and can make decisions characterised by managed levels of risk and complexity
 - resolve technical disputes between wider peers and indirect stakeholders, taking into account all views and opinions
 
 **Practitioner:**
 
 You can:
-- make decisions characterized by medium levels of risk and complexity and recommend decisions as risk and complexity increase
+- make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase
 - build consensus between services or independent stakeholders
 - identify problems or issues in the team dynamic and rectify them
 - engage in varying types of feedback, choosing the right type at the appropriate time and ensuring the discussion and decision stick
@@ -4747,12 +4747,12 @@ You can:
 
 You can:
 - change organisational structures to fixable and sustainable designs
-- lead on the strategy for the whole organization, marrying business needs with innovative analysis
-- make and justify decisions characterized by high levels of risk, impact and complexity
-- build consensus between organizations (private or public) or highly independent and diverse stakeholders
+- lead on the strategy for the whole organisation, marrying business needs with innovative analysis
+- make and justify decisions characterised by high levels of risk, impact and complexity
+- build consensus between organisations (private or public) or highly independent and diverse stakeholders
 - solve and unblock issues between teams or departments at the highest level
 - understand the psychology of a team and have strong mediation skills
-- coach the organization on team dynamics and conflict resolution
+- coach the organisation on team dynamics and conflict resolution
 
 ## Leadership and guidance (frontend developer)
 
@@ -4771,46 +4771,46 @@ You can:
 
 You can:
 - understand the impact of decisions
-- make decisions characterized by different levels of risk and complexity
+- make decisions characterised by different levels of risk and complexity
 - resolve technical disputes between wider peers and indirect stakeholders, taking into account all views and opinions
 
 **Practitioner:**
 
 You can:
-- make decisions characterized by medium levels of risk and complexity, and can recommend decisions as risk and complexity increase
+- make decisions characterised by medium levels of risk and complexity, and can recommend decisions as risk and complexity increase
 - contribute to best practice guidelines
 
 **Expert:**
 
 You can:
 - change organisational structures to fixable and sustainable designs
-- lead on the strategy for the whole organization, marrying business needs with innovative analysis
-- make and justify decisions characterized by high levels of risk, impact and complexity
-- build consensus between organizations (private or public) or highly independent stakeholders
+- lead on the strategy for the whole organisation, marrying business needs with innovative analysis
+- make and justify decisions characterised by high levels of risk, impact and complexity
+- build consensus between organisations (private or public) or highly independent stakeholders
 - solve and unblock issues between teams or departments at the highest level
 - understand the psychology of a team and have strong mediation skills
-- coach the organization on team dynamics and conflict resolution
+- coach the organisation on team dynamics and conflict resolution
 
 ## Leading design
 
 *UK GDaD PCF. Used in 18 role levels.*
 
-Leading design involves supporting designers, coordinating design work and improving design maturity in your organization.
+Leading design involves supporting designers, coordinating design work and improving design maturity in your organisation.
 
 **Awareness:**
 
 You can:
-- explain the role of user-centred design in an organization
+- explain the role of user-centred design in an organisation
 - describe typical leadership responsibilities in design
-- identify leaders in your organization that designers need to work with
+- identify leaders in your organisation that designers need to work with
 
 **Working:**
 
 You can:
 - lead and coordinate design work in your team, with support
-- communicate the value of user-centred design to your team or others in your organization
+- communicate the value of user-centred design to your team or others in your organisation
 - support other designers
-- work with digital and data leaders in your organization, when needed
+- work with digital and data leaders in your organisation, when needed
 
 **Practitioner:**
 
@@ -4824,10 +4824,10 @@ You can:
 **Expert:**
 
 You can:
-- set a vision for and lead design across multiple teams or a whole organization
-- work effectively with senior leaders across your organization or wider public sector
-- support a culture of learning and experimentation in your organization
-- iterate and measurably improve design maturity within your organization and its partners
+- set a vision for and lead design across multiple teams or a whole organisation
+- work effectively with senior leaders across your organisation or wider public sector
+- support a culture of learning and experimentation in your organisation
+- iterate and measurably improve design maturity within your organisation and its partners
 
 ## Leading performance and benefits
 
@@ -4851,14 +4851,14 @@ You can:
 
 You can:
 - put measures in place to ensure the delivery of valuable outcomes to users and traceable business benefits
-- use data and metrics to actively monitor, manage and prioritize service delivery and inform decision making
+- use data and metrics to actively monitor, manage and prioritise service delivery and inform decision making
 - identify and share appropriate data and insights with specific stakeholders
 
 **Expert:**
 
 You can:
 - ensure appropriate measures are in place to deliver valuable outcomes to users and agreed business benefits
-- ensure metrics are used to monitor, manage and prioritize delivery and inform decision making
+- ensure metrics are used to monitor, manage and prioritise delivery and inform decision making
 - demonstrate the value of the service and build understanding with stakeholders by ensuring effective data and insights are shared
 
 ## Learning design and delivery
@@ -5083,7 +5083,7 @@ You can:
 - actively address internal risks and issues and know when to escalate them
 - set the team cadence and tempo, ensuring it is sustainable
 - track, manage, escalate and communicate dependencies
-- actively remove or minimize risks, issues or dependencies where possible
+- actively remove or minimise risks, issues or dependencies where possible
 - understand how the risks, issues or dependencies impact the work of a team
 
 **Practitioner:**
@@ -5095,7 +5095,7 @@ You can:
 **Expert:**
 
 You can:
-- optimize the delivery flow of teams
+- optimise the delivery flow of teams
 - actively address the most complicated risks, issues and dependencies including where ownership exists outside the team or no clear ownership exists
 - identify innovative ways to unblock issues
 
@@ -5103,7 +5103,7 @@ You can:
 
 *UK GDaD PCF. Used in 6 role levels.*
 
-Process optimization involves ensuring your processes are accurately defined and capture the most efficient way to complete a task by monitoring modified procedures.
+Process optimisation involves ensuring your processes are accurately defined and capture the most efficient way to complete a task by monitoring modified procedures.
 
 **Awareness:**
 
@@ -5124,7 +5124,7 @@ This skill level is currently not defined.
 
 You can:
 - identify and challenge organisational processes of increasing complexity and those processes that are unnecessarily complicated
-- add value and can coach the organization to inspect and adapt processes
+- add value and can coach the organisation to inspect and adapt processes
 - guide teams through the implementation of a new process
 
 ## Making and guiding decisions
@@ -5142,20 +5142,20 @@ You can:
 **Working:**
 
 You can:
-- make decisions characterized by managed levels of risk and complexity, and recommend decisions as risk and complexity increase
+- make decisions characterised by managed levels of risk and complexity, and recommend decisions as risk and complexity increase
 - resolve technical disputes between wider peers and indirect stakeholders, considering all views and opinions
 
 **Practitioner:**
 
 You can:
-- make decisions characterized by medium levels of risk and complexity, and recommend decisions as risk and complexity increase
+- make decisions characterised by medium levels of risk and complexity, and recommend decisions as risk and complexity increase
 - build consensus between services or independent stakeholders
 
 **Expert:**
 
 You can:
-- make and justify decisions characterized by high levels of risk, impact and complexity
-- build consensus between organizations (private or public) or highly independent and diverse stakeholders
+- make and justify decisions characterised by high levels of risk, impact and complexity
+- build consensus between organisations (private or public) or highly independent and diverse stakeholders
 
 ## Making architectural decisions
 
@@ -5173,14 +5173,14 @@ You can:
 **Working:**
 
 You can:
-- work with others to make architectural design decisions characterized by managed levels of risk and complexity
+- work with others to make architectural design decisions characterised by managed levels of risk and complexity
 - identify and address architectural risks relevant to your team or domain, for example, business, data, or security
 - engage with architectural governance and assurance to effectively manage decisions and risks, with support
 
 **Practitioner:**
 
 You can:
-- make and guide architectural design decisions characterized by medium risk and complexity
+- make and guide architectural design decisions characterised by medium risk and complexity
 - identify and address architectural risks that affect multiple teams or domains
 - use architectural governance and assurance to make design decisions and manage technical risks at the appropriate level
 - contribute to the development of architectural governance and assurance
@@ -5188,8 +5188,8 @@ You can:
 **Expert:**
 
 You can:
-- make and guide architectural design decisions characterized by high levels of risk and complexity
-- identify and address architectural risks across the organization or wider government
+- make and guide architectural design decisions characterised by high levels of risk and complexity
+- identify and address architectural risks across the organisation or wider government
 - lead and evolve architectural governance and assurance
 - represent architectural governance as part of wider governance, for example, legal or commercial
 
@@ -5215,7 +5215,7 @@ You can:
 **Practitioner:**
 
 You can:
-- manage the monthly reporting cycle for a directorate or programme
+- manage the monthly reporting cycle for a directorate or program
 - build cost models, such as the full cost of a digital service or the unit cost of a transaction
 - analyze spending trends and advise managers on actions to stay within budget
 - challenge budget holders constructively on their forecasts
@@ -5293,8 +5293,8 @@ You can:
 **Expert:**
 
 You can:
-- make and justify decisions characterized by high levels of risk, impact and complexity
-- build consensus between organizations (private or public) or highly independent and diverse stakeholders
+- make and justify decisions characterised by high levels of risk, impact and complexity
+- build consensus between organisations (private or public) or highly independent and diverse stakeholders
 - be trusted by senior risk owners as an expert in security
 - apply risk methodologies at the most complex levels of risk
 - guide others in applying risk methodologies in proportion to the risk
@@ -5316,7 +5316,7 @@ You can:
 
 You can:
 - work with others to define key performance indicators that assess performance, value and outcomes
-- analyze and use trusted data to make decisions and enable continuous improvement
+- analyse and use trusted data to make decisions and enable continuous improvement
 - be open about your decision making
 - identify and explain success metrics to your stakeholders and how the product can contribute to outcomes
 
@@ -5325,14 +5325,14 @@ You can:
 You can:
 - lead product teams to create effective methods for measuring product outcomes
 - advocate for data-driven decision making
-- help others prioritize to make better choices
+- help others prioritise to make better choices
 - use data to drive continuous improvement, increasing quality and user experience
 - identify opportunities to share and connect product data
 
 **Expert:**
 
 You can:
-- use data to make prioritization decisions for multiple or complex projects, products or services
+- use data to make prioritisation decisions for multiple or complex projects, products or services
 - use data to influence priorities of senior stakeholders
 - guide and challenge teams to make better use of data
 - guide and challenge teams to demonstrate achievement of outcomes
@@ -5342,7 +5342,7 @@ You can:
 
 *UK GDaD PCF. Used in 10 role levels.*
 
-Managing, reporting and resolving defects involves reporting progress, outcomes and issues, while contributing to improving defect management processes.
+Managing, reporting and resolving defects involves reporting progress, outcomes and issues, whilst contributing to improving defect management processes.
 
 **Awareness:**
 
@@ -5372,7 +5372,7 @@ You can:
 
 You can:
 - lead and coach others in improving test and defect management processes
-- support others in assessing complex and challenging defects across the organization
+- support others in assessing complex and challenging defects across the organisation
 - lead and coach others in using defect patterns and trends to make tactical and strategic recommendations
 - influence improvements to quality processes, informed by defect patterns and trends
 
@@ -5474,7 +5474,7 @@ You can:
 
 *UK GDaD PCF. Used in 12 role levels.*
 
-Metadata management involves establishing policies and processes that ensure data can be accessed across an organization.
+Metadata management involves establishing policies and processes that ensure data can be accessed across an organisation.
 
 **Awareness:**
 
@@ -5499,7 +5499,7 @@ You can:
 **Expert:**
 
 You can:
-- identify how metadata repositories can support different areas of the organization
+- identify how metadata repositories can support different areas of the organisation
 - communicate the value of metadata repositories
 - set up robust governance processes to keep repositories up to date
 
@@ -5585,7 +5585,7 @@ You can:
 **Expert:**
 
 You can:
-- identify and apply modern development standards to support complex projects and programs
+- identify and apply modern development standards to support complex projects and programmes
 - lead others in applying modern development standards
 
 ## Office administration
@@ -5657,7 +5657,7 @@ You can:
 - identify and overcome operational constraints
 - act as the escalation point for major operational issues
 
-## Organisational change and consultation
+## Organizational change and consultation
 
 *This reference. Used in 6 role levels.*
 
@@ -5666,7 +5666,7 @@ Planning and managing changes to structures, roles, and working patterns, includ
 **Awareness:**
 
 You can:
-- explain the main stages of an organisational change process
+- explain the main stages of an organizational change process
 - support the administration of a change, such as consultation letters and meetings
 
 **Working:**
@@ -5679,7 +5679,7 @@ You can:
 **Practitioner:**
 
 You can:
-- lead organisational change for a directorate, from business case to implementation
+- lead organizational change for a directorate, from business case to implementation
 - consult with staff and their representatives and respond to their feedback
 - manage the legal and equality risks of a change
 
@@ -5690,7 +5690,7 @@ You can:
 - design the organization's approach to change, including partnership working
 - advise the board on the people impact and risk of major change
 
-## Organisational development
+## Organizational development
 
 *This reference. Used in 6 role levels.*
 
@@ -5711,18 +5711,18 @@ You can:
 **Practitioner:**
 
 You can:
-- diagnose organisational issues and design interventions to address them
+- diagnose organizational issues and design interventions to address them
 - lead team development, leadership development, and engagement programs
 - evaluate the effect of interventions using evidence
 
 **Expert:**
 
 You can:
-- set the organisational development strategy and culture programme
+- set the organizational development strategy and culture program
 - coach executives and lead large-scale cultural change
 - link culture and engagement measures to quality of care and performance
 
-## Organisational risk management
+## Organizational risk management
 
 *This reference. Used in 69 role levels.*
 
@@ -5742,7 +5742,7 @@ You can:
 **Practitioner:**
 
 You can:
-- run the risk process for a directorate or programme
+- run the risk process for a directorate or program
 - assess risks against the risk appetite and escalate them
 - report on risks to committees
 
@@ -5848,7 +5848,7 @@ You can:
 
 You can:
 - lead managers and shape the culture of a large area
-- design workforce plans and organisational change
+- design workforce plans and organizational change
 - coach leaders and resolve complex people issues
 
 ## People strategy and HR leadership
@@ -5930,7 +5930,7 @@ This skill level is currently not defined.
 **Practitioner:**
 
 You can:
-- understand the environment and prioritize the most important or high value tasks
+- understand the environment and prioritise the most important or high value tasks
 - use data to inform planning
 - manage complex internal and external dependencies
 - provide delivery confidence
@@ -5991,20 +5991,20 @@ You can:
 **Working:**
 
 You can:
-- help to frame a problem characterized by managed levels of complexity, complication, or risk so that a solution can be created
+- help to frame a problem characterised by managed levels of complexity, complication, or risk so that a solution can be created
 - help to create options for solving problems at an appropriate level of detail
 
 **Practitioner:**
 
 You can:
-- frame a problem characterized by medium complexity, complication, or risk so that a solution can be created
+- frame a problem characterised by medium complexity, complication, or risk so that a solution can be created
 - produce architectural representations that enable different teams to have a shared understanding of problems throughout the life cycle
 - describe options for solving problems so that appropriate delivery methods can be decided
 
 **Expert:**
 
 You can:
-- lead the framing of a problem characterized by high complexity, complication, or risk so that a solution can be created
+- lead the framing of a problem characterised by high complexity, complication, or risk so that a solution can be created
 - coach others in defining problems and describing appropriate options for solutions
 - help others challenge requirements and assumptions, and identify opportunities when defining problems and solution options
 
@@ -6100,7 +6100,7 @@ You can:
 **Practitioner:**
 
 You can:
-- seek opportunities for reuse and learning across your organization
+- seek opportunities for reuse and learning across your organisation
 - represent product management in your area in conversations with senior stakeholders
 - protect teams, for example, from unnecessary distractions and requests to change direction
 - coach and manage others in product management
@@ -6111,15 +6111,15 @@ You can:
 You can:
 - seek opportunities for reuse and learning across government
 - co-ordinate the product management community
-- lead on coaching and mentoring for product management in your organization
+- lead on coaching and mentoring for product management in your organisation
 - lead some activities in cross-government communities, establishing and maintaining wider relationships across the profession
-- represent product management in your organization in conversations with senior stakeholders
+- represent product management in your organisation in conversations with senior stakeholders
 
 ## Product management
 
 *UK GDaD PCF. Used in 5 role levels.*
 
-Product management involves making sure that products provide value and drive the right outcomes, while balancing user and business needs. This is achieved by working with other professions in your team to frame the problem and make decisions on priorities for your delivery teams.
+Product management involves making sure that products provide value and drive the right outcomes, whilst balancing user and business needs. This is achieved by working with other professions in your team to frame the problem and make decisions on priorities for your delivery teams.
 
 **Awareness:**
 
@@ -6129,16 +6129,16 @@ You can:
 **Working:**
 
 You can:
-- create and prioritize actionable goals for your teams, balancing user needs and business perspectives
+- create and prioritise actionable goals for your teams, balancing user needs and business perspectives
 - make or recommend an evidence-based decision using insight and data
-- use a range of product management methods, for example, prioritization and roadmapping
+- use a range of product management methods, for example, prioritisation and roadmapping
 - work with others in multidisciplinary teams to plan and deliver high-quality product increments
 
 **Practitioner:**
 
 You can:
 - work with your team to investigate and validate what adds value now and what could add value in future
-- create a prioritized roadmap and use it to discuss your product strategy with stakeholders
+- create a prioritised roadmap and use it to discuss your product strategy with stakeholders
 - address uncertainty while managing scope, ensuring critical deadlines are met and value delivered
 - recommend a range of product management methods
 - work in the open and share your work
@@ -6147,8 +6147,8 @@ You can:
 
 You can:
 - set the strategy and vision for your products, collaborating with others
-- create a prioritized roadmap for your products and use it to discuss product strategy at all levels
-- plan prioritized work across multiple teams, minimizing dependencies and risks
+- create a prioritised roadmap for your products and use it to discuss product strategy at all levels
+- plan prioritised work across multiple teams, minimising dependencies and risks
 - support multiple teams in delivering quality outcomes in the right way
 - coach and mentor others in product management
 
@@ -6217,7 +6217,7 @@ You can:
 - write complex programs and scripts
 - seek to make code open source where appropriate
 - supervise junior analysts and set coding standards for your team
-- understand software architecture and how to write efficient, optimized code
+- understand software architecture and how to write efficient, optimised code
 - perform user testing on products prior to launch
 
 ## Programming and build (frontend developer)
@@ -6499,7 +6499,7 @@ You can:
 
 You can:
 - advise managers on funding rules, including ring-fenced and time-limited funding
-- manage capital and revenue limits for a programme or directorate
+- manage capital and revenue limits for a program or directorate
 - prepare returns and evidence for funders and spending controls
 
 **Expert:**
@@ -6526,7 +6526,7 @@ You can:
 You can:
 - create and amend purchase orders and check them against contracts
 - resolve invoice, receipting, and payment queries with suppliers and finance
-- maintain catalogues and supplier records in the purchasing system
+- maintain catalogs and supplier records in the purchasing system
 
 **Practitioner:**
 
@@ -6601,7 +6601,7 @@ You can:
 **Practitioner:**
 
 You can:
-- run the retention and disposal programme for a records service
+- run the retention and disposal program for a records service
 - advise teams on retention for new types of record, including digital ones
 - audit compliance with retention schedules
 
@@ -6668,7 +6668,7 @@ You can:
 **Practitioner:**
 
 You can:
-- make sound clinical judgements about the effect of digital services on care
+- make sound clinical judgments about the effect of digital services on care
 - challenge unsafe practice, in digital or clinical settings, with confidence
 - support other clinicians to apply their professional standards to digital work
 
@@ -6699,7 +6699,7 @@ You can:
 
 You can:
 - contribute to and inform developments on security properties in technology
-- identify new technologies and design the use of these in the business context across the organization
+- identify new technologies and design the use of these in the business context across the organisation
 - engage with the broader security community
 
 **Expert:**
@@ -6735,10 +6735,10 @@ You can:
 **Expert:**
 
 You can:
-- establish and align user research programs and teams to meet organisational goals
-- synthesize findings from research programs, producing strategic insights to inform the organization’s roadmap
-- set and assure good practice user research standards for the organization, including ethics and safeguarding
-- assure user research quality across the organization
+- establish and align user research programmes and teams to meet organisational goals
+- synthesise findings from research programmes, producing strategic insights to inform the organisation’s roadmap
+- set and assure good practice user research standards for the organisation, including ethics and safeguarding
+- assure user research quality across the organisation
 
 ## Reward and job evaluation
 
@@ -6855,7 +6855,7 @@ You can:
 
 You can:
 - explain the effect of vulnerabilities on current and future designs
-- share information on a range of systems, but may specialize in one
+- share information on a range of systems, but may specialise in one
 
 **Practitioner:**
 
@@ -6900,7 +6900,7 @@ You can:
 
 *UK GDaD PCF. Used in 21 role levels.*
 
-IT service management involves identifying, prioritizing and implementing IT services, ensuring the organization gets maximum value for money.
+IT service management involves identifying, prioritising and implementing IT services, ensuring the organisation gets maximum value for money.
 
 **Awareness:**
 
@@ -7090,72 +7090,72 @@ You can:
 *UK GDaD PCF. Used in 3 role levels.*
 
 A senior leadership skill. You can:
-- determine the right balance between the organization's cyber and information security capabilities, acceptable level of risk and speed of technology progress
+- determine the right balance between the organisation's cyber and information security capabilities, acceptable level of risk and speed of technology progress
 - decide areas that need security investment
-- create a security roadmap that enables the organization to achieve its objectives
+- create a security roadmap that enables the organisation to achieve its objectives
 Examples of leadership using this skill:
 - explaining the mutual benefits of the security strategy to a range of stakeholders and teams to bring them onboard
 - advising other leaders on how to integrate security requirements in their strategies
-- ensuring security is part of all the organization's initiatives, despite competing priorities
+- ensuring security is part of all the organisation's initiatives, despite competing priorities
 - gaining support for investment in security from other leaders
 
 **Awareness:**
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- determine the right balance between the organization's cyber and information security capabilities, acceptable level of risk and speed of technology progress
+- determine the right balance between the organisation's cyber and information security capabilities, acceptable level of risk and speed of technology progress
 - decide areas that need security investment
-- create a security roadmap that enables the organization to achieve its objectives
+- create a security roadmap that enables the organisation to achieve its objectives
 Examples of leadership using this skill:
 - explaining the mutual benefits of the security strategy to a range of stakeholders and teams to bring them onboard
 - advising other leaders on how to integrate security requirements in their strategies
-- ensuring security is part of all the organization's initiatives, despite competing priorities
+- ensuring security is part of all the organisation's initiatives, despite competing priorities
 - gaining support for investment in security from other leaders
 
 **Working:**
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- determine the right balance between the organization's cyber and information security capabilities, acceptable level of risk and speed of technology progress
+- determine the right balance between the organisation's cyber and information security capabilities, acceptable level of risk and speed of technology progress
 - decide areas that need security investment
-- create a security roadmap that enables the organization to achieve its objectives
+- create a security roadmap that enables the organisation to achieve its objectives
 Examples of leadership using this skill:
 - explaining the mutual benefits of the security strategy to a range of stakeholders and teams to bring them onboard
 - advising other leaders on how to integrate security requirements in their strategies
-- ensuring security is part of all the organization's initiatives, despite competing priorities
+- ensuring security is part of all the organisation's initiatives, despite competing priorities
 - gaining support for investment in security from other leaders
 
 **Practitioner:**
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- determine the right balance between the organization's cyber and information security capabilities, acceptable level of risk and speed of technology progress
+- determine the right balance between the organisation's cyber and information security capabilities, acceptable level of risk and speed of technology progress
 - decide areas that need security investment
-- create a security roadmap that enables the organization to achieve its objectives
+- create a security roadmap that enables the organisation to achieve its objectives
 Examples of leadership using this skill:
 - explaining the mutual benefits of the security strategy to a range of stakeholders and teams to bring them onboard
 - advising other leaders on how to integrate security requirements in their strategies
-- ensuring security is part of all the organization's initiatives, despite competing priorities
+- ensuring security is part of all the organisation's initiatives, despite competing priorities
 - gaining support for investment in security from other leaders
 
 **Expert:**
 
 *Senior leadership skill: the UK GDaD PCF defines it with one statement, not by level.*
 You can:
-- determine the right balance between the organization's cyber and information security capabilities, acceptable level of risk and speed of technology progress
+- determine the right balance between the organisation's cyber and information security capabilities, acceptable level of risk and speed of technology progress
 - decide areas that need security investment
-- create a security roadmap that enables the organization to achieve its objectives
+- create a security roadmap that enables the organisation to achieve its objectives
 Examples of leadership using this skill:
 - explaining the mutual benefits of the security strategy to a range of stakeholders and teams to bring them onboard
 - advising other leaders on how to integrate security requirements in their strategies
-- ensuring security is part of all the organization's initiatives, despite competing priorities
+- ensuring security is part of all the organisation's initiatives, despite competing priorities
 - gaining support for investment in security from other leaders
 
 ## Strategic design and business change
 
 *UK GDaD PCF. Used in 2 role levels.*
 
-Strategy involves creating a plan to achieve a team or organization's objectives.
+Strategy involves creating a plan to achieve a team or organisation's objectives.
 
 **Awareness:**
 
@@ -7190,7 +7190,7 @@ Strategic ownership involves thinking holistically, and creating and owning an e
 **Awareness:**
 
 You can:
-- explain how you make decisions that are aligned to the strategy of your organization
+- explain how you make decisions that are aligned to the strategy of your organisation
 - explain the importance of having a strategy
 
 **Working:**
@@ -7205,7 +7205,7 @@ You can:
 You can:
 - ensure that the vision and strategy deliver the intended benefits and policy intent, and use evidence to challenge this when needed
 - work with stakeholders to get agreement on the strategic approach, build trust and adapt based on feedback
-- proactively review and iterate the strategy based on user and organization insights
+- proactively review and iterate the strategy based on user and organisation insights
 
 **Expert:**
 
@@ -7213,13 +7213,13 @@ You can:
 - support and coach others in creating and implementing a successful long-term strategy and tactical approach that others agree with
 - influence and persuade stakeholders to support delivery of the strategy
 - support with strategic decision making
-- ensure strategic alignment across the organization
+- ensure strategic alignment across the organisation
 
 ## Strategic thinking
 
 *UK GDaD PCF. Used in 26 role levels.*
 
-Strategic thinking involves creating a plan to achieve a team or organization's objectives.
+Strategic thinking involves creating a plan to achieve a team or organisation's objectives.
 
 **Awareness:**
 
@@ -7248,7 +7248,7 @@ You can:
 
 *UK GDaD PCF. Used in 14 role levels.*
 
-Strategy involves creating a plan to achieve a team or organization's objectives.
+Strategy involves creating a plan to achieve a team or organisation's objectives.
 
 **Awareness:**
 
@@ -7275,8 +7275,8 @@ You can:
 **Expert:**
 
 You can:
-- define and connect strategies or visions across the organization or wider government
-- enable the implementation of strategies or visions across the organization or wider government, for example, by advocating for resources and removing blockers
+- define and connect strategies or visions across the organisation or wider government
+- enable the implementation of strategies or visions across the organisation or wider government, for example, by advocating for resources and removing blockers
 
 ## Supplier relationship management
 
@@ -7327,20 +7327,20 @@ You can:
 - translate logical designs into physical designs
 - produce detailed designs
 - effectively document all work using required standards, methods and tools, including prototyping tools where appropriate
-- design systems characterized by managed levels of risk, manageable business and technical complexity, and meaningful impact
+- design systems characterised by managed levels of risk, manageable business and technical complexity, and meaningful impact
 - work with well understood technology and identify appropriate patterns
 
 **Practitioner:**
 
 You can:
-- design systems characterized by medium levels of risk, impact, and business or technical complexity
+- design systems characterised by medium levels of risk, impact, and business or technical complexity
 - select appropriate design standards, methods and tools, and ensure they are applied effectively
 - review the systems designs of others to ensure the selection of appropriate technology, efficient use of resources and integration of multiple systems and technology
 
 **Expert:**
 
 You can:
-- design systems characterized by high levels of risk, impact, and business or technical complexity
+- design systems characterised by high levels of risk, impact, and business or technical complexity
 - control system design practice within an enterprise or industry architecture
 - influence industry-based models for the development of new technology applications
 - develop effective implementation and procurement strategies, consistent with business needs
@@ -7373,7 +7373,7 @@ You can:
 **Expert:**
 
 You can:
-- design systems characterized by high levels of risk and technical complexity
+- design systems characterised by high levels of risk and technical complexity
 - manage and document technical complexity to make sure work is easily maintained and reusable
 - select the appropriate standards, methods and tools, and make sure they are applied effectively
 - ensure others follow relevant technical strategies, policies, standards and practices
@@ -7496,7 +7496,7 @@ You can:
 
 You can:
 - manage the organization's tax returns and tax reconciliations
-- advise on the tax treatment of contracts, such as software licences, cloud services, and shared services
+- advise on the tax treatment of contracts, such as software licenses, cloud services, and shared services
 - maximize tax recovery within the rules
 
 **Expert:**
@@ -7523,7 +7523,7 @@ You can:
 You can:
 - effectively bring people together to form a motivated team
 - help to create the right environment for a team to work in and can empower them to deliver
-- recognize and deal with issues
+- recognise and deal with issues
 - help create the best team makeup depending on the situation
 
 **Practitioner:**
@@ -7538,12 +7538,12 @@ You can:
 
 You can:
 - change organisational structures to fixable and sustainable designs
-- lead on strategy for an entire organization, joining up business needs with innovative analysis
-- make and justify decisions characterized by high levels of risk, impact and complexity
-- effectively build consensus between organizations (private or public) or highly independent and diverse stakeholders
+- lead on strategy for an entire organisation, joining up business needs with innovative analysis
+- make and justify decisions characterised by high levels of risk, impact and complexity
+- effectively build consensus between organisations (private or public) or highly independent and diverse stakeholders
 - solve and unblock issues within teams or departments at the highest level
 - understand the psychology of a team and have strong mediation skills
-- coach an organization on team dynamics and conflict resolution
+- coach an organisation on team dynamics and conflict resolution
 
 ## Technical design throughout the life cycle
 
@@ -7560,7 +7560,7 @@ You can:
 **Working:**
 
 You can:
-- create technical designs characterized by managed levels of risk, impact, and complexity
+- create technical designs characterised by managed levels of risk, impact, and complexity
 - provide guidance and support to teams using technical designs throughout the life cycle
 - adapt a technical design if needed during delivery
 - work with well-understood technology and identify appropriate patterns
@@ -7568,16 +7568,16 @@ You can:
 **Practitioner:**
 
 You can:
-- create technical designs characterized by medium risk, impact, and complexity
+- create technical designs characterised by medium risk, impact, and complexity
 - maintain appropriate quality and architectural coherence of a technical design in response to change
-- use feedback to optimize and refine technical designs throughout the life cycle
+- use feedback to optimise and refine technical designs throughout the life cycle
 
 **Expert:**
 
 You can:
-- create technical designs characterized by high risk, impact, and complexity
+- create technical designs characterised by high risk, impact, and complexity
 - lead and guide others in creating technical designs that achieve organisational objectives
-- use feedback to optimize and refine standards for technical designs throughout the life cycle
+- use feedback to optimise and refine standards for technical designs throughout the life cycle
 
 ## Technical specialism
 
@@ -7596,7 +7596,7 @@ You can:
 - use management system software and tools
 - use logical schemata to investigate problems, collect performance statistics and create reports
 - carry out the routine configuration, installation and reconfiguration of database and related products
-- optimize performance and forecast resource needs
+- optimise performance and forecast resource needs
 
 **Practitioner:**
 
@@ -7709,18 +7709,18 @@ You can:
 
 *This reference. Used in 9 role levels.*
 
-Buying software, cloud services, licences, hardware, and digital services, including software as a service, commercial models, licensing, and the security, data protection, and interoperability terms that health technology needs.
+Buying software, cloud services, licenses, hardware, and digital services, including software as a service, commercial models, licensing, and the security, data protection, and interoperability terms that health technology needs.
 
 **Awareness:**
 
 You can:
-- explain the main ways technology is bought, such as licences, subscriptions, and services
+- explain the main ways technology is bought, such as licenses, subscriptions, and services
 - recognize that clinical systems need security, clinical safety, and data protection checks
 
 **Working:**
 
 You can:
-- buy standard software, hardware, and licences through frameworks
+- buy standard software, hardware, and licenses through frameworks
 - track license numbers, renewals, and true-up dates
 - include standard security and data protection requirements in documents
 
@@ -7776,13 +7776,13 @@ You can:
 
 *UK GDaD PCF. Used in 10 role levels.*
 
-Test analysis involves analyzing information, such as requirements, user stories, designs and specifications, to identify and understand how to act on quality risks.
+Test analysis involves analysing information, such as requirements, user stories, designs and specifications, to identify and understand how to act on quality risks.
 
 **Awareness:**
 
 You can:
 - describe quality characteristics and explain why they are important
-- analyze information, such as user stories, prototypes, processes and designs, with support
+- analyse information, such as user stories, prototypes, processes and designs, with support
 - explain what might be a risk in achieving quality goals
 
 **Working:**
@@ -7791,7 +7791,7 @@ You can:
 - work with stakeholders to determine which functional and non-functional quality characteristics add value
 - determine what to test following an agreed approach
 - identify and advocate for test needs, such as data, access and environments, with support
-- analyze information to identify risks
+- analyse information to identify risks
 
 **Practitioner:**
 
@@ -7799,7 +7799,7 @@ You can:
 - lead work with stakeholders across teams to determine which functional and non-functional quality characteristics add value
 - determine if an approach needs to change based on effort and risk
 - ensure test needs are implemented early
-- use multiple techniques to analyze complex information to identify risks
+- use multiple techniques to analyse complex information to identify risks
 - coach others in test analysis
 
 **Expert:**
@@ -7807,13 +7807,13 @@ You can:
 You can:
 - lead and guide multiple teams in test analysis, ensuring it is implemented early in the life cycle
 - advocate for risk-based analysis to drive improvements across many teams
-- set standards and principles for test analysis across the organization
+- set standards and principles for test analysis across the organisation
 
 ## Test and quality planning
 
 *UK GDaD PCF. Used in 10 role levels.*
 
-Test and quality planning involves creating, following and adapting quality testing activities to ensure the quality of products, services and programs.
+Test and quality planning involves creating, following and adapting quality testing activities to ensure the quality of products, services and programmes.
 
 **Awareness:**
 
@@ -7844,7 +7844,7 @@ You can:
 - create and manage multiple quality testing plans, approaches and strategies
 - lead and guide multiple teams in adopting quality testing strategy
 - advocate for early quality testing involvement in organisational delivery processes
-- guide teams across an organization in optimizing quality testing approaches, plans and strategies by using appropriate data
+- guide teams across an organisation in optimising quality testing approaches, plans and strategies by using appropriate data
 
 ## Test engineering
 
@@ -7871,7 +7871,7 @@ You can:
 **Practitioner:**
 
 You can:
-- develop, standardize and extend reusable frameworks and tools to support a range of testing activities
+- develop, standardise and extend reusable frameworks and tools to support a range of testing activities
 - guide and coach others in creating and maintaining comprehensive and reliable tests that meet standards
 - research and prepare for future testing needs, including tools, methodologies and techniques
 - maintain and adapt continuous integration, continuous delivery (CI/CD) pipelines
@@ -7879,8 +7879,8 @@ You can:
 **Expert:**
 
 You can:
-- establish and lead test engineering practices, standards and behaviors
-- influence and guide test engineering technology and tool choices across the organization
+- establish and lead test engineering practices, standards and behaviours
+- influence and guide test engineering technology and tool choices across the organisation
 - advocate for the adoption and use of appropriate testing solutions, ensuring alignment with organisational goals and quality objectives
 
 ## Testing
@@ -7900,7 +7900,7 @@ You can:
 You can:
 - review requirements and specifications, and define test conditions
 - identify issues and risks associated with work
-- analyze and report test activities and results
+- analyse and report test activities and results
 
 **Practitioner:**
 
@@ -7940,7 +7940,7 @@ You can:
 You can:
 - manage the organization's cash flow forecast and drawdown of funding
 - manage bank accounts, payment methods, and banking controls
-- plan cash for large or irregular payments, such as multi-year software licences
+- plan cash for large or irregular payments, such as multi-year software licenses
 
 **Expert:**
 
@@ -8007,7 +8007,7 @@ You can:
 
 You can:
 - design data architecture that deals with problems across the enterprise
-- work across all organisational subject areas and internal and external programs
+- work across all organisational subject areas and internal and external programmes
 
 ## Understanding analysis across the product life cycle
 
@@ -8032,8 +8032,8 @@ You can:
 
 You can:
 - apply experience in multiple parts of the product life cycle
-- recognize when to move forward and when to stop
-- recognize the appropriate deliverables and engage the right people to meet them
+- recognise when to move forward and when to stop
+- recognise the appropriate deliverables and engage the right people to meet them
 - work with other Agile delivery disciplines throughout the product life cycle
 - plan and proactively engage with stakeholders at the appropriate stage of the project
 - identify which tools and techniques should be used at each stage
@@ -8076,7 +8076,7 @@ You can:
 **Expert:**
 
 You can:
-- shape organisational strategy using a deep understanding of the health and care system
+- shape organizational strategy using a deep understanding of the health and care system
 - represent the organization with health and care partners and leaders
 - anticipate how policy and service changes will affect digital services and care
 
@@ -8102,7 +8102,7 @@ You can:
 You can:
 - understand the differences between delivery methods, such as Agile and waterfall, and can choose the most appropriate method to deliver each product
 - define the minimum viable product (MVP) and support decisions about priorities
-- work with specialists in multidisciplinary teams to smoothly deliver data science products into the organization
+- work with specialists in multidisciplinary teams to smoothly deliver data science products into the organisation
 
 **Expert:**
 
@@ -8110,7 +8110,7 @@ You can:
 - understand the differences between delivery methods, such as Agile and waterfall, and can set out how your team should use and adapt these methods
 - lead a team through the different phases of the product delivery life cycle
 - collaborate with the product manager to influence the direction of work
-- identify and involve relevant teams to smoothly deliver data science products into the organization, ensuring these products inform decision making
+- identify and involve relevant teams to smoothly deliver data science products into the organisation, ensuring these products inform decision making
 - ensure products are monitored, maintained and continually improved, engaging and working with others where necessary
 - have oversight of any data science features implemented within products or services
 
@@ -8118,7 +8118,7 @@ You can:
 
 *UK GDaD PCF. Used in 3 role levels.*
 
-Security management involves identifying and protecting an organization's assets (systems, people and buildings).
+Security management involves identifying and protecting an organisation's assets (systems, people and buildings).
 
 **Awareness:**
 
@@ -8144,12 +8144,12 @@ You can:
 
 *UK GDaD PCF. Used in 5 role levels.*
 
-User experience insight analysis involves identifying, analyzing and interpreting insights into the quality of the user's experience to ensure outcomes meet business and user needs.
+User experience insight analysis involves identifying, analysing and interpreting insights into the quality of the user's experience to ensure outcomes meet business and user needs.
 
 **Awareness:**
 
 You can:
-- explain some ways to analyze user journeys, touchpoints, accessibility and common usability issues
+- explain some ways to analyse user journeys, touchpoints, accessibility and common usability issues
 - describe user insight artefacts generated by other professions and how they add value
 - explain the importance of making data-informed decisions based on user experience findings
 
@@ -8164,7 +8164,7 @@ You can:
 **Practitioner:**
 
 You can:
-- synthesize insights from multiple appropriate sources of evidence to provide a holistic understanding of user experience
+- synthesise insights from multiple appropriate sources of evidence to provide a holistic understanding of user experience
 - identify patterns, root causes, and opportunities for improvement across journeys
 - ensure user experience insights are clearly linked to requirements, priorities, and design decisions
 - identify priorities for improving user experience, taking into consideration business and technical constraints
@@ -8172,8 +8172,8 @@ You can:
 **Expert:**
 
 You can:
-- define and promote standards for analyzing and improving user experience across service
-- advocate for user experience insights to be included in appropriate decisions about strategy, prioritization, and investment
+- define and promote standards for analysing and improving user experience across service
+- advocate for user experience insights to be included in appropriate decisions about strategy, prioritisation, and investment
 - identify systemic issues and opportunities across multiple end-to-end user journeys
 
 ## User focus
@@ -8201,7 +8201,7 @@ You can:
 - collaborate with user researchers and can represent users internally
 - explain the difference between user needs and the desires of the user
 - champion user research to focus on all users
-- prioritize and define approaches to understand the user story, guiding others in doing so
+- prioritise and define approaches to understand the user story, guiding others in doing so
 - offer recommendations on the best tools and methods to use
 
 **Expert:**
@@ -8229,7 +8229,7 @@ You can:
 You can:
 - collaborate effectively with user researchers and interaction designers to represent user needs internally
 - champion user research to focus on all users
-- prioritize and define approaches to understand the user story, guiding others in doing so
+- prioritise and define approaches to understand the user story, guiding others in doing so
 
 **Practitioner:**
 
@@ -8237,7 +8237,7 @@ You can:
 - collaborate with user researchers and interaction designers to represent user needs internally
 - explain the difference between user needs and the desires of the user
 - champion user research to focus on all users
-- effectively prioritize and define approaches to understand the user story, guiding others to do so
+- effectively prioritise and define approaches to understand the user story, guiding others to do so
 - offer recommendations on the best tools and methods to use
 
 **Expert:**
@@ -8272,8 +8272,8 @@ You can:
 **Expert:**
 
 You can:
-- help an organization adopt a wide range of user research methods
-- lead a community of practice to help an organization continually assure, improve and innovate their user research
+- help an organisation adopt a wide range of user research methods
+- lead a community of practice to help an organisation continually assure, improve and innovate their user research
 
 ## User-centred analysis
 
@@ -8308,7 +8308,7 @@ You can:
 - give direction on which tools or methods to use
 - bring insight and expertise to how user needs have changed over time and ensure that they're met
 - apply strategic thinking to the problem of how to provide the best service for the end user
-- consider the political strategy and implications of any analyzes and insights
+- consider the political strategy and implications of any analyses and insights
 
 ## User-centred content design
 
@@ -8366,13 +8366,13 @@ User focus involves understanding the user needs to develop a detailed understan
 
 You can:
 - describe how government services and technology affect how people behave
-- explain how user-centred practices are used to build services that adapt to changing user behavior and needs
+- explain how user-centred practices are used to build services that adapt to changing user behaviour and needs
 
 **Working:**
 
 You can:
 - describe and use a range of user-centred practices
-- advocate for the user by sharing research insights on user needs and changing user behavior with your team
+- advocate for the user by sharing research insights on user needs and changing user behaviour with your team
 
 **Practitioner:**
 
@@ -8386,9 +8386,9 @@ You can:
 **Expert:**
 
 You can:
-- find ways to help an organization adopt user-centred practices and appreciate the value of understanding users
-- ensure discussions at senior levels or between organizations consider user needs and evolving user behavior
-- help an organization understand the complete journey of the user and use this knowledge to improve their services
+- find ways to help an organisation adopt user-centred practices and appreciate the value of understanding users
+- ensure discussions at senior levels or between organisations consider user needs and evolving user behaviour
+- help an organisation understand the complete journey of the user and use this knowledge to improve their services
 
 ## Vulnerability management
 
@@ -8419,11 +8419,11 @@ You can:
 - set the vulnerability management policy and its targets
 - report technical security risk to senior leaders
 
-## Web performance optimization
+## Web performance optimisation
 
 *UK GDaD PCF. Used in 6 role levels.*
 
-Web performance optimization involves improving the efficiency and speed with which web pages load in a browser.
+Web performance optimisation involves improving the efficiency and speed with which web pages load in a browser.
 
 **Awareness:**
 
@@ -8445,12 +8445,12 @@ You can:
 You can:
 - identify and resolve web performance issues
 - collect data to monitor and resolve web performance issues
-- guide on the best web performance optimization software and methods to use
+- guide on the best web performance optimisation software and methods to use
 
 **Expert:**
 
 You can:
-- advocate for web performance optimization best practices
+- advocate for web performance optimisation best practices
 - coach and guide others
 - actively collect data from multiple tools to monitor and resolve web performance issues
 
@@ -8541,7 +8541,7 @@ You can:
 
 You can:
 - work with and challenge senior stakeholders
-- prioritize and mitigate constraints and can turn them into an advantage
+- prioritise and mitigate constraints and can turn them into an advantage
 - adapt the approach according to constraints
 - demonstrate a good knowledge of security and data privacy
 
@@ -8556,5 +8556,5 @@ You can:
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

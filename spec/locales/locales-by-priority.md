@@ -5,6 +5,8 @@ Translate into these locales. Translate serially NOT subagents. After each local
 Every code is `<language>-<region>`; see [index.md](index.md#locale-codes). Done locales are marked; [index.md](index.md#status) has the details.
 
 - en-001 (done)
+- en-us (done)
+- en-gb (done)
 - cy-001 (done; also cy-gb)
 - zh-001 (done; also zh-cn)
 - hi-001 (done; also hi-in)
@@ -15,12 +17,12 @@ Every code is `<language>-<region>`; see [index.md](index.md#locale-codes). Done
 - ru-001 (done)
 - pt-001 (next)
 - ur-001
-- id-001
-- ja-001
+- id-001 (done)
+- ja-001 (done)
 - vi-001
 - de-001
 - sv-001
-- ko-001
+- ko-001 (done)
 - nl-001
 - da-001
 - et-001

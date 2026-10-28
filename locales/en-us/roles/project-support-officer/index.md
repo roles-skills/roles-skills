@@ -68,8 +68,8 @@ Gives administrative support to one or more projects, maintaining records and or
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 3 | 60 |
-| 3 | Analytical and judgemental skills | 2 | 15 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 2 | 15 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 1 | 5 |
@@ -86,7 +86,7 @@ Gives administrative support to one or more projects, maintaining records and or
 
 ## Band 4: Project coordinator
 
-Coordinates project controls for several projects or a programme, maintaining plans and registers and producing regular reports.
+Coordinates project controls for several projects or a program, maintaining plans and registers and producing regular reports.
 
 ### Responsibilities
 
@@ -105,7 +105,7 @@ Coordinates project controls for several projects or a programme, maintaining pl
 | [Project management](../../skills/#project-management) | This reference | Working | You can:<br>• maintain plans, risk and issue logs, and reports<br>• run project meetings and track actions<br>• manage a small, well-defined project with support |
 | [Digital office tools](../../skills/#digital-office-tools) | This reference | Practitioner | You can:<br>• build templates, trackers, and simple automated workflows<br>• make documents accessible to everyone<br>• help colleagues get the most from office tools |
 | [Minute-taking and meeting records](../../skills/#minute-taking-and-meeting-records) | This reference | Working | You can:<br>• write accurate, concise minutes and action logs for routine meetings<br>• follow up actions with their owners |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Awareness | You can:<br>• explain what a risk is and how to raise one |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Awareness | You can:<br>• explain what a risk is and how to raise one |
 | [Budget management](../../skills/#budget-management) | This reference | Awareness | You can:<br>• follow the rules for spending and ordering<br>• explain how your work is funded |
 | [Clinical risk management](../../skills/#clinical-risk-management) | This reference | Awareness | You can:<br>• explain how health IT systems can harm patients, for example through wrong, missing, or delayed information<br>• report a possible clinical safety issue through the right route |
 | [Communicating information](../../skills/#communicating-information) | UK GDaD PCF | Working | You can:<br>• listen to the needs of design and business stakeholders and interpret information<br>• take part in discussions within a multidisciplinary team<br>• be an advocate for the team externally, and can manage differing perspectives<br>• shape and share communications relevant to the audience |
@@ -128,8 +128,8 @@ Coordinates project controls for several projects or a programme, maintaining pl
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 3 | 21 |
 | 2 | Knowledge, training, and experience | 4 | 88 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 2 | 12 |
@@ -146,12 +146,12 @@ Coordinates project controls for several projects or a programme, maintaining pl
 
 ## Band 5: PMO analyst
 
-Analyzes progress, risk, and benefits across a programme or portfolio, and runs project management office processes.
+Analyses progress, risk, and benefits across a program or portfolio, and runs project management office processes.
 
 ### Responsibilities
 
 - Analyze progress, risks, issues, dependencies, and benefits across projects.
-- Produce portfolio dashboards and reports for programme and portfolio boards.
+- Produce portfolio dashboards and reports for program and portfolio boards.
 - Run planning, change control, and assurance processes.
 - Help project managers set up projects with the right controls and documents.
 - Maintain the PMO's tools, templates, and guidance.
@@ -163,7 +163,7 @@ Analyzes progress, risk, and benefits across a programme or portfolio, and runs 
 | --- | --- | --- | --- |
 | [Project and portfolio office support](../../skills/#project-and-portfolio-office-support) | This reference | Practitioner | You can:<br>• design portfolio reporting and analyze progress, risks, and benefits across projects<br>• run assurance checks and gateway reviews<br>• advise project managers on method and controls |
 | [Project management](../../skills/#project-management) | This reference | Working | You can:<br>• maintain plans, risk and issue logs, and reports<br>• run project meetings and track actions<br>• manage a small, well-defined project with support |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Working | You can:<br>• record and update risks for your area<br>• suggest controls and track actions |
 | [Budget management](../../skills/#budget-management) | This reference | Working | You can:<br>• track spending against a small budget and raise variances<br>• authorize spending within your limit |
 | [Digital office tools](../../skills/#digital-office-tools) | This reference | Practitioner | You can:<br>• build templates, trackers, and simple automated workflows<br>• make documents accessible to everyone<br>• help colleagues get the most from office tools |
 | [Communicating information](../../skills/#communicating-information) | UK GDaD PCF | Working | You can:<br>• listen to the needs of design and business stakeholders and interpret information<br>• take part in discussions within a multidisciplinary team<br>• be an advocate for the team externally, and can manage differing perspectives<br>• shape and share communications relevant to the audience |
@@ -171,7 +171,7 @@ Analyzes progress, risk, and benefits across a programme or portfolio, and runs 
 
 ### Typical qualifications and experience
 
-- A project, programme, or portfolio management qualification, or equivalent experience.
+- A project, program, or portfolio management qualification, or equivalent experience.
 
 ### Band outline
 
@@ -187,8 +187,8 @@ Analyzes progress, risk, and benefits across a programme or portfolio, and runs 
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 5 | 120 |
-| 3 | Analytical and judgemental skills | 3 | 27 |
-| 4 | Planning and organisational skills | 2 | 15 |
+| 3 | Analytical and judgmental skills | 3 | 27 |
+| 4 | Planning and organizational skills | 2 | 15 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -205,7 +205,7 @@ Analyzes progress, risk, and benefits across a programme or portfolio, and runs 
 
 ## Band 6: PMO manager
 
-Manages the project management office for a programme or portfolio, setting standards and giving leaders reliable insight into delivery.
+Manages the project management office for a program or portfolio, setting standards and giving leaders reliable insight into delivery.
 
 ### Responsibilities
 
@@ -213,7 +213,7 @@ Manages the project management office for a programme or portfolio, setting stan
 - Set project and portfolio standards, methods, and tools.
 - Give senior leaders clear insight into portfolio progress, risks, and benefits.
 - Run portfolio governance, including prioritization, gateway reviews, and change control.
-- Monitor programme budgets and resources, and report on them.
+- Monitor program budgets and resources, and report on them.
 - Coach project managers on method and controls.
 
 ### Skills
@@ -222,16 +222,16 @@ Manages the project management office for a programme or portfolio, setting stan
 | --- | --- | --- | --- |
 | [Project and portfolio office support](../../skills/#project-and-portfolio-office-support) | This reference | Expert | You can:<br>• set up and lead a portfolio office for the organization<br>• give senior leaders clear, reliable insight into the portfolio<br>• set project and portfolio management standards and tools |
 | [Project management](../../skills/#project-management) | This reference | Practitioner | You can:<br>• manage projects from start to close, controlling scope, time, cost, and quality<br>• manage risks, issues, dependencies, and change control<br>• report to project boards and manage suppliers |
-| [Organisational risk management](../../skills/#organisational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or programme<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
+| [Organizational risk management](../../skills/#organizational-risk-management) | This reference | Practitioner | You can:<br>• run the risk process for a directorate or program<br>• assess risks against the risk appetite and escalate them<br>• report on risks to committees |
 | [Budget management](../../skills/#budget-management) | This reference | Working | You can:<br>• track spending against a small budget and raise variances<br>• authorize spending within your limit |
 | [People management](../../skills/#people-management) | This reference | Practitioner | You can:<br>• line manage a team, setting objectives and running appraisals<br>• support wellbeing and manage attendance, performance, and conduct<br>• plan the team's development and succession |
 | [Corporate governance and compliance](../../skills/#corporate-governance-and-compliance) | This reference | Working | You can:<br>• support committee meetings, papers, and minutes<br>• keep governance registers up to date |
-| [Planning](../../skills/#planning) | UK GDaD PCF | Practitioner | You can:<br>• understand the environment and prioritize the most important or high value tasks<br>• use data to inform planning<br>• manage complex internal and external dependencies<br>• provide delivery confidence<br>• remove blockers or impediments that affect plans and can develop a plan for difficult situations<br>• ensure that teams plan appropriately for their capacity |
+| [Planning](../../skills/#planning) | UK GDaD PCF | Practitioner | You can:<br>• understand the environment and prioritise the most important or high value tasks<br>• use data to inform planning<br>• manage complex internal and external dependencies<br>• provide delivery confidence<br>• remove blockers or impediments that affect plans and can develop a plan for difficult situations<br>• ensure that teams plan appropriately for their capacity |
 | [Stakeholder relationship management](../../skills/#stakeholder-relationship-management) | UK GDaD PCF | Working | You can:<br>• identify important stakeholders and communicate with them clearly and regularly<br>• tailor communication to stakeholders' needs and work with them to build relationships while meeting user needs<br>• build and reach consensus with stakeholders<br>• work to improve stakeholder relationships using evidence to explain decisions |
 
 ### Typical qualifications and experience
 
-- A recognized project, programme, or portfolio management qualification, or equivalent experience.
+- A recognized project, program, or portfolio management qualification, or equivalent experience.
 - Experience of running a project management office.
 
 ### Band outline
@@ -248,8 +248,8 @@ Manages the project management office for a programme or portfolio, setting stan
 | --- | --- | --- | --- |
 | 1 | Communication and relationship skills | 4 | 32 |
 | 2 | Knowledge, training, and experience | 6 | 156 |
-| 3 | Analytical and judgemental skills | 4 | 42 |
-| 4 | Planning and organisational skills | 3 | 27 |
+| 3 | Analytical and judgmental skills | 4 | 42 |
+| 4 | Planning and organizational skills | 3 | 27 |
 | 5 | Physical skills | 3 | 27 |
 | 6 | Responsibility for patient and client care | 1 | 4 |
 | 7 | Responsibility for policy and service development | 3 | 21 |
@@ -267,5 +267,5 @@ Manages the project management office for a programme or portfolio, setting stan
 
 ---
 
-*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government License v3.0. © Crown copyright.*  
-*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorized under Commission Decision 2011/833/EU.*
+*Contains public sector information from the UK Government Digital and Data Profession Capability Framework (https://understand-digital-data-roles-skills.service.gov.uk/), licensed under the Open Government Licence v3.0. © Crown copyright.*  
+*Contains ESCO v1.2.1 data (https://esco.ec.europa.eu/). © European Union. Reuse authorised under Commission Decision 2011/833/EU.*

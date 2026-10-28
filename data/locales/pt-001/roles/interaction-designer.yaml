@@ -1,0 +1,62 @@
+summary: Os designers de interação projetam como pacientes, cuidadores, profissionais clínicos e equipes de cuidados usam os serviços de saúde digital da organização, de aplicativos e formulários voltados a pacientes às telas que os clínicos usam à beira do leito. Projetam interações simples, acessíveis e seguras, testam-nas com usuários reais e usam sistemas de design compartilhados para que os serviços pareçam consistentes e familiares.
+health_context:
+- Os clínicos costumam usar os sistemas sob pressão de tempo, com interrupções e em dispositivos compartilhados, por isso os projetos devem apoiar um trabalho rápido e exato e fazer da ação segura a ação fácil.
+- Um projeto ruim pode causar dano clínico, como selecionar o paciente errado ou ler mal uma dose, por isso os designers aplicam princípios de fatores humanos e trabalham com os responsáveis pela segurança clínica.
+- Muitos usuários estão doentes, ansiosos, são idosos ou têm deficiência, por isso os projetos devem cumprir as normas de acessibilidade e funcionar para pessoas com poucas habilidades digitais ou baixo letramento em saúde.
+- Alertas e avisos só são úteis se as pessoas os notam e confiam neles, por isso os designers ajudam a reduzir a fadiga de alertas e a manter visíveis as informações críticas à segurança.
+levels:
+- title: Designer de interação associado
+  responsibilities:
+  - Aprender métodos de design de interação e o sistema de design da equipe por meio de treinamento e trabalho em dupla.
+  - Criar esboços, wireframes e protótipos simples, sob supervisão.
+  - Ajudar a testar projetos com usuários e registrar o que funciona e o que não funciona.
+  - Seguir as normas de acessibilidade e os padrões do sistema de design, incluindo os de identificação do paciente e de avisos de segurança.
+  qualifications:
+  - Trabalhando rumo a uma qualificação ou aprendizagem profissional em design ou área afim, ou experiência equivalente.
+- title: Designer de interação júnior
+  responsibilities:
+  - Projetar e prototipar partes de um serviço, como formulários, fluxos e telas, com a orientação de um designer mais sênior.
+  - Testar projetos com pacientes, cuidadores e equipes e alterá-los com base no que aprender.
+  - Projetar interações acessíveis que funcionem com tecnologias assistivas.
+  - Explicar as decisões de design à equipe, incluindo como reduzem a chance de erro.
+  qualifications:
+  - Graduação em design ou área afim, ou experiência equivalente.
+- title: Designer de interação
+  responsibilities:
+  - Projetar interações para um produto de saúde digital, dos conceitos iniciais a projetos detalhados e testados.
+  - Projetar para os fluxos de trabalho clínicos, testando com clínicos e equipes de cuidados em cenários realistas, incluindo interrupções.
+  - Levar ao responsável pela segurança clínica os perigos relacionados ao projeto e registrar como os projetos os controlam.
+  - Usar o sistema de design e contribuir para ele, incluindo os padrões para informações críticas à segurança.
+  - Trabalhar em estreita colaboração com pessoas desenvolvedoras para garantir que os projetos sejam construídos como pretendido e permaneçam acessíveis.
+  qualifications:
+  - Graduação em design ou área afim, ou experiência equivalente.
+  - Experiência no projeto de serviços digitais com usuários.
+  job_evaluation_notes: O UK GDaD PCF coloca o designer de interação em SEO ou G7, com a Faixa 7 sugerida, a mesma do designer de interação sênior. Esta referência o coloca na Faixa 6, a mesma do nível de designer de serviços com níveis de competência do PCF idênticos, para que os dois níveis de designer de interação não fiquem na mesma faixa.
+- title: Designer de interação sênior
+  responsibilities:
+  - Liderar o design de interação de serviços complexos, como sistemas clínicos usados em muitos ambientes de cuidado.
+  - Aplicar métodos de fatores humanos, como a análise de tarefas, a fluxos de trabalho clínicos críticos à segurança.
+  - Fornecer evidências de projeto para os dossiês de segurança clínica e, quando o software é regulamentado, para os arquivos de usabilidade.
+  - Ajudar a definir a direção e as boas práticas de design nas equipes e orientar outros designers.
+  - Tomar decisões de design a partir de pesquisas e dados e explicá-las às lideranças clínicas e de produto.
+  qualifications:
+  - Experiência substancial em design de interação, em nível equivalente ao de mestrado.
+- title: Designer de interação líder
+  responsibilities:
+  - Definir a direção de design e dar garantia à qualidade do design de interação em várias equipes ou serviços.
+  - Liderar o sistema de design, incluindo os padrões acessíveis e críticos à segurança que as equipes de toda a organização reutilizam.
+  - Liderar, com os responsáveis pela segurança clínica, o trabalho de fatores humanos nos serviços clínicos de maior risco.
+  - Trabalhar com lideranças seniores de produto e clínicas para desenvolver conceitos de design de grandes serviços.
+  - Chefiar e desenvolver designers de interação.
+  qualifications:
+  - Ampla experiência na liderança do design de interação em várias equipes.
+  job_evaluation_notes: Não há um nível na Faixa 8a porque o UK GDaD PCF coloca o designer de interação líder em G7 ou G6 e esta referência segue a Faixa 8b sugerida. A política está no nível 5 porque o designer líder define padrões de design para uma série de serviços.
+- title: Chefia de design de interação
+  responsibilities:
+  - Liderar a profissão de design de interação e definir sua estratégia, seus padrões e suas formas de trabalho.
+  - Influenciar o design e a estratégia da organização para que os serviços sejam utilizáveis, acessíveis e seguros.
+  - Ser responsável pelo sistema de design da organização e garantir que atenda às necessidades de acessibilidade e de segurança clínica.
+  - Desenvolver a capacidade de design, incluindo recrutamento, trilhas de carreira e treinamento.
+  - Trabalhar com pares de todo o sistema de saúde e de cuidados em padrões de design compartilhados.
+  qualifications:
+  - Ampla experiência na liderança de design e de uma prática de design.

@@ -1,0 +1,28 @@
+summary: >
+  Insinyur pembelajaran mesin mengambil model yang dibangun ilmuwan data, atau yang dibeli dari pemasok, dan membuatnya bekerja dengan andal dalam layanan kesehatan dan perawatan langsung. Mereka membangun jalur yang melatih, menguji, menerapkan, dan memantau model, serta mengintegrasikannya dengan sistem klinis dan operasional. Mereka memastikan model tetap aman, terjamin keamanannya, adil, dan efektif setelah pasien dan staf nyata mengandalkannya.
+health_context:
+  - Model yang dipakai langsung dapat bergeser ketika populasi pasien, praktik klinis, atau kebiasaan pencatatan berubah, sehingga kinerja dipantau untuk setiap kelompok pasien dan model dilatih ulang atau ditarik bila perlu.
+  - Model yang menginformasikan diagnosis, triase, atau pengobatan dapat diatur sebagai alat kesehatan, yang membawa persyaratan formal untuk siklus hidup perangkat lunaknya, pengendalian perubahan, dan pengawasan pascapasar.
+  - Kasus keselamatan klinis memerlukan bukti tentang bagaimana model gagal, bagaimana keluarannya ditampilkan kepada tenaga klinis, dan apa yang terjadi ketika model tidak tersedia.
+  - Model yang dilatih pada data pasien dapat membocorkan informasi tentang individu, sehingga data pelatihan, artefak model, dan log dilindungi seperti datanya sendiri.
+  - AI generatif dan model bahasa besar membawa risiko tambahan, seperti isi karangan dalam catatan klinis, yang memerlukan pengujian khusus dan pengawasan manusia.
+levels:
+  - title: Insinyur pembelajaran mesin senior
+    responsibilities:
+      - Menerapkan model ke layanan klinis dan operasional produksi, dengan pengujian otomatis, penomoran versi, dan pembatalan.
+      - Membangun pemantauan kinerja model, pergeseran, dan keadilan di antara kelompok pasien, dengan peringatan dan pemilik yang jelas.
+      - Mengintegrasikan model dengan sistem klinis, memakai standar terbuka seperti HL7 FHIR jika memungkinkan.
+      - Menghasilkan bukti pengujian, perubahan, dan pemantauan yang diperlukan untuk kasus keselamatan klinis dan berkas teknis alat kesehatan.
+      - Menilai dan menyesuaikan model pemasok dan sumber terbuka untuk penggunaan setempat, termasuk model AI generatif.
+      - Membimbing ilmuwan data dan insinyur tentang praktik rekayasa pembelajaran mesin.
+    qualifications:
+      - Pengalaman yang substansial dalam membangun dan menjalankan sistem pembelajaran mesin dalam produksi, pada tingkat yang setara dengan gelar magister.
+  - title: Insinyur pembelajaran mesin pimpinan
+    responsibilities:
+      - Memimpin pekerjaan paling kompleks untuk membawa model dari riset ke penggunaan langsung yang aman di seluruh organisasi.
+      - Mendefinisikan siklus hidup pembelajaran mesin, termasuk pengendalian yang diperlukan untuk model yang diatur dan kritis keselamatan.
+      - Menetapkan standar pengujian, pemantauan, keamanan, dan etika model, serta menjamin model yang dipakai langsung.
+      - Bekerja dengan petugas keselamatan klinis, tata kelola informasi, dan spesialis regulasi untuk menyepakati bagaimana model dinilai dan disetujui.
+      - Mengidentifikasi kebutuhan pelatihan dan mengembangkan insinyur pembelajaran mesin serta peran terkait.
+    qualifications:
+      - Pengalaman luas dalam memimpin rekayasa pembelajaran mesin untuk layanan yang kompleks atau diatur.
