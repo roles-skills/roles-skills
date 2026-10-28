@@ -132,7 +132,13 @@ class Locale:
         self.english_name = meta.get("english_name", code)
         self.dir = meta.get("dir", "ltr")
         self.complete = bool(meta.get("complete", False))
+        # An English locale needs no translation files: the English reference is its content.
+        # `spelling` maps British to the locale's spelling, such as organisation: organization.
+        self.english = bool(meta.get("english", False))
+        self.spelling = meta.get("spelling") or {}
         self.strings = dict(STRINGS, **(meta.get("strings") or {}))
+        if self.spelling:
+            self.strings = {k: _respell(v, self.spelling) for k, v in self.strings.items()}
         self.paths = {k: k for k in SECTIONS}
         self.paths.update({k: v for k, v in (meta.get("paths") or {}).items() if v})
         self.catalogue = _load(code, "catalogue.yaml", default={}) or {}
@@ -155,6 +161,26 @@ class Locale:
 
     def s(self, key, **kw):
         return self.strings[key].format(**kw) if kw else self.strings[key]
+
+
+def _respell(node, spelling):
+    """Apply a spelling map to every string in the reference, keeping the capital of a word's first letter."""
+    pattern = re.compile(r"\b(" + "|".join(re.escape(k) for k in sorted(spelling, key=len, reverse=True)) + r")\b", re.I)
+
+    def swap(m):
+        word = m.group(0)
+        new = spelling.get(word.lower(), word)
+        return new.capitalize() if word[:1].isupper() else new
+
+    def walk(x, key=None):
+        if isinstance(x, str):
+            return x if key in ("id", "url", "uri", "slug") else pattern.sub(swap, x)
+        if isinstance(x, list):
+            return [walk(i) for i in x]
+        if isinstance(x, dict):
+            return {k: walk(v, k) for k, v in x.items()}
+        return x
+    return walk(node)
 
 
 def localize(reference, loc):
@@ -267,6 +293,10 @@ def localize(reference, loc):
     for r in ref["roles"]:
         check(f"level of {r['id']}", r["levels"])
 
+    if loc.english:
+        loc.missing = []
+        if loc.spelling:
+            ref = _respell(ref, loc.spelling)
     if loc.complete and loc.missing:
         errors.append(f"{loc.code}: marked complete, but {len(loc.missing)} translations are missing, "
                       f"for example {loc.missing[0]}")

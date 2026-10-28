@@ -1,0 +1,101 @@
+# English (United States). English is the source language of this reference, so this locale needs no
+# translation files: spelling is the only difference, applied by `spelling`.
+code: en-us
+name: English (United States)
+english_name: English (United States)
+dir: ltr
+complete: true
+english: true
+spelling:
+  algorithmisation: algorithmization
+  analyse: analyze
+  analysed: analyzed
+  analyses: analyzes
+  analysing: analyzing
+  anonymisation: anonymization
+  anonymised: anonymized
+  authorise: authorize
+  authorised: authorized
+  authorises: authorizes
+  behaviour: behavior
+  behaviours: behaviors
+  capitalised: capitalized
+  capitalising: capitalizing
+  catalogue: catalog
+  categorisation: categorization
+  categorise: categorize
+  categorising: categorizing
+  centre: center
+  centres: centers
+  characterised: characterized
+  commercialisation: commercialization
+  customise: customize
+  defence: defense
+  deputise: deputize
+  deputises: deputizes
+  digitisation: digitization
+  digitise: digitize
+  empathise: empathize
+  enrolment: enrollment
+  fulfil: fulfill
+  fulfilment: fulfillment
+  incentivising: incentivizing
+  judgement: judgment
+  labour: labor
+  learnt: learned
+  licence: license
+  localisation: localization
+  maximise: maximize
+  minimisation: minimization
+  minimise: minimize
+  minimising: minimizing
+  mobilisation: mobilization
+  modelling: modeling
+  normalise: normalize
+  operationalising: operationalizing
+  optimisation: optimization
+  optimise: optimize
+  optimised: optimized
+  optimising: optimizing
+  organisation: organization
+  organisations: organizations
+  organise: organize
+  organised: organized
+  organises: organizes
+  organising: organizing
+  practise: practice
+  practising: practicing
+  prioritisation: prioritization
+  prioritise: prioritize
+  prioritised: prioritized
+  prioritises: prioritizes
+  prioritising: prioritizing
+  programmes: programs
+  pseudonymisation: pseudonymization
+  pseudonymised: pseudonymized
+  realisation: realization
+  realise: realize
+  realised: realized
+  realises: realizes
+  realising: realizing
+  recognise: recognize
+  recognised: recognized
+  recognising: recognizing
+  scrutinised: scrutinized
+  specialise: specialize
+  specialised: specialized
+  standardisation: standardization
+  standardise: standardize
+  standardised: standardized
+  summarise: summarize
+  summariser: summarizer
+  summarising: summarizing
+  synthesise: synthesize
+  unauthorised: unauthorized
+  utilise: utilize
+  virtualisation: virtualization
+  visualisation: visualization
+  visualisations: visualizations
+  visualise: visualize
+  visualising: visualizing
+  whilst: while

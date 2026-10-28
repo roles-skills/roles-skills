@@ -1,0 +1,8 @@
+# English (World). English is the source language of this reference, so this locale needs no
+# translation files.
+code: en-001
+name: English
+english_name: English (World)
+dir: ltr
+complete: true
+english: true
