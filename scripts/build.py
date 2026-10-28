@@ -23,7 +23,6 @@ import json
 import os
 import re
 import shutil
-import subprocess
 import sys
 
 import yaml
@@ -651,7 +650,6 @@ def main():
     if "--check" in sys.argv:
         print("ok")
         return 0
-    subprocess.run([sys.executable, os.path.join(os.path.dirname(os.path.abspath(__file__)), "build-locale-sitemaps.py")], check=True)
     print(f"ok: {roles} roles, {levels} role levels generated; locales: {', '.join(['en-001'] + locales.codes())}")
     return 0
 

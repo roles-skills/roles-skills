@@ -230,26 +230,6 @@ class Locale:
         return self.strings[key].format(**kw) if kw else self.strings[key]
 
 
-def _respell(node, spelling):
-    """Apply a spelling map to every string in the reference, keeping the capital of a word's first letter."""
-    pattern = re.compile(r"\b(" + "|".join(re.escape(k) for k in sorted(spelling, key=len, reverse=True)) + r")\b", re.I)
-
-    def swap(m):
-        word = m.group(0)
-        new = spelling.get(word.lower(), word)
-        return new.capitalize() if word[:1].isupper() else new
-
-    def walk(x, key=None):
-        if isinstance(x, str):
-            return x if key in ("id", "url", "uri", "slug") else pattern.sub(swap, x)
-        if isinstance(x, list):
-            return [walk(i) for i in x]
-        if isinstance(x, dict):
-            return {k: walk(v, k) for k, v in x.items()}
-        return x
-    return walk(node)
-
-
 def localize(reference, loc):
     """Overlay a locale's translations on the English reference. Returns (localized, errors)."""
     ref = copy.deepcopy(reference)
@@ -374,10 +354,6 @@ def localize(reference, loc):
     for r in ref["roles"]:
         check(f"level of {r['id']}", r["levels"])
 
-    if loc.english:
-        loc.missing = []
-        if loc.spelling:
-            ref = _respell(ref, loc.spelling)
     if loc.complete and loc.missing:
         errors.append(f"{loc.code}: marked complete, but {len(loc.missing)} translations are missing, "
                       f"for example {loc.missing[0]}")
