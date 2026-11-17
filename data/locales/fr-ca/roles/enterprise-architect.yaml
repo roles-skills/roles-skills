@@ -1,0 +1,53 @@
+summary: >
+  Les architectes d'entreprise donnent à l'organisation une vision cohérente de ses services, de ses informations, de ses applications et de ses technologies, et l'utilisent pour traduire la stratégie de santé et de soins en un plan de transformation cohérent. Ils fixent les principes, les normes et les feuilles de route d'architecture, orientent les décisions d'investissement et veillent à ce que la transformation numérique soutienne des soins sûrs et coordonnés pour les patients entre organisations.
+health_context:
+  - Les parcours de soins traversent de nombreuses organisations et de nombreux systèmes, c'est pourquoi l'architecture doit permettre le partage des dossiers, des résultats et des demandes d'avis au-delà des frontières.
+  - Le parc comprend souvent des systèmes cliniques de longue durée, des dispositifs médicaux et des contrats fournisseurs difficiles à changer, c'est pourquoi les feuilles de route doivent planifier soigneusement les transitions.
+  - Les décisions d'architecture influent sur la sécurité des patients, la confidentialité et la résilience de services qui fonctionnent jour et nuit.
+  - Les normes ouvertes comme HL7 FHIR, SNOMED CT et les profils IHE sont essentielles pour éviter la dépendance envers un fournisseur et permettre l'interopérabilité.
+  - Les financements sont contraints et étroitement examinés, c'est pourquoi les architectes doivent démontrer l'efficience et la réutilisation des plateformes partagées lorsqu'elles existent.
+levels:
+  - title: Architecte d'entreprise
+    responsibilities:
+      - Modéliser les services, les informations, les applications et les technologies actuels et cibles de l'organisation pour un domaine, comme le diagnostic ou les soins de proximité.
+      - Tenir à jour le référentiel d'architecture, y compris les catalogues d'applications et de flux de données.
+      - Examiner les propositions au regard des principes et des normes d'architecture, et faire des recommandations aux autorités de conception.
+      - Repérer les systèmes qui dupliquent des capacités ou dépendent de technologies non maintenues, et signaler les risques.
+      - Travailler avec les architectes de solutions et les responsables cliniques pour comprendre comment les parcours de soins utilisent les systèmes.
+      - Orienter les architectes de solutions sur la manière dont les conceptions s'inscrivent dans l'architecture du domaine.
+    qualifications:
+      - Une expérience significative de l'architecture, de l'analyse ou de la conception technique dans une organisation complexe, d'un niveau équivalent à un master.
+      - Une connaissance d'un cadre d'architecture d'entreprise, comme TOGAF, ou une expérience équivalente.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 6), car les annonces du secteur de la santé situent ce rôle en bande 8a. Les connaissances, l'analyse, la planification, les politiques et la liberté d'action sont cotées selon le profil de la bande 8a, car l'emploi façonne les architectures cibles et conseille les autorités de conception de tout un domaine.
+  - title: Architecte d'entreprise senior
+    responsibilities:
+      - Élaborer les architectures cibles et les feuilles de route de transition d'un ou de plusieurs domaines de l'organisation.
+      - Façonner les études d'opportunité pour que les investissements s'inscrivent dans l'architecture cible et réutilisent les plateformes partagées.
+      - Diriger les revues d'architecture en autorité de conception et faire des recommandations sur les propositions importantes.
+      - Planifier le remplacement ou le retrait des systèmes cliniques et de gestion anciens, y compris la migration des données et les risques de sécurité.
+      - Veiller à ce que les besoins d'interopérabilité, de sécurité et de gouvernance de l'information soient intégrés aux feuilles de route.
+      - Accompagner et orienter les architectes d'entreprise et de solutions.
+    qualifications:
+      - Une solide expérience de l'architecture d'entreprise ou de solutions dans plusieurs domaines.
+      - Une connaissance d'un cadre d'architecture d'entreprise, comme TOGAF, ou une expérience équivalente.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 7), car les annonces du secteur de la santé situent ce rôle en bande 8b. La planification est au niveau 5 pour les feuilles de route à long terme qui touchent toute l'organisation ; les connaissances sont au niveau 8 pour la connaissance des architectures métier, de l'information, des applications et des technologies.
+  - title: Architecte d'entreprise référent
+    responsibilities:
+      - Être responsable de l'architecture d'entreprise d'une partie importante de l'organisation, comme les systèmes cliniques ou l'infrastructure partagée.
+      - Présider ou diriger l'autorité de conception d'architecture et fixer les normes que les projets doivent respecter.
+      - Conseiller les directeurs sur les priorités d'investissement, la stratégie fournisseurs et les risques technologiques.
+      - Travailler avec les organisations partenaires pour aligner les architectures le long des parcours de soins et des dossiers partagés.
+      - Diriger et faire progresser les architectes d'entreprise et faire grandir la communauté de pratique de l'architecture.
+    qualifications:
+      - Une solide expérience de l'architecture d'entreprise dans une organisation complexe.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 8b), car les annonces du secteur de la santé situent ce rôle en bande 8c. Les ressources d'information sont au niveau 6, car l'emploi gère l'architecture des systèmes d'information d'une partie importante de l'organisation ; les politiques et les personnes dépassent le profil de la bande 8b, car il fixe des normes pour tous les projets et dirige les architectes d'entreprise.
+  - title: Architecte d'entreprise principal
+    responsibilities:
+      - Fixer la vision, les principes et la stratégie d'architecture d'entreprise de l'organisation, alignés sur sa stratégie de santé et de soins.
+      - Conseiller l'équipe de direction et le conseil d'administration sur l'architecture, les risques et la valeur des grands investissements numériques.
+      - Diriger la pratique, la gouvernance et les normes d'architecture de l'organisation.
+      - Représenter l'organisation dans les instances interorganisations d'architecture et d'interopérabilité.
+      - Développer la capacité d'architecture de toute l'organisation, y compris le recrutement et les parcours de carrière.
+    qualifications:
+      - Une solide expérience de la direction de l'architecture d'entreprise entre organisations.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 8c), car les annonces du secteur de la santé situent ce rôle en bande 8d. Les politiques et la liberté d'action sont au niveau 6, car l'emploi porte la responsabilité institutionnelle de la vision, des principes et de la stratégie d'architecture de l'organisation.

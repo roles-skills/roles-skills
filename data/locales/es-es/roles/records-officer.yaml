@@ -1,0 +1,56 @@
+summary: >
+  El personal de historias clínicas se asegura de que los registros de pacientes y corporativos se creen, almacenen, sigan, recuperen y eliminen correctamente, tanto en papel como en sistemas digitales. Mantiene los registros disponibles para la atención, los protege frente a la pérdida y el acceso no autorizado, y apoya el paso de los registros en papel a los digitales.
+health_context:
+  - Las historias de los pacientes deben estar disponibles cuando los profesionales clínicos las necesitan, por lo que los retrasos o las historias perdidas pueden afectar directamente a la atención.
+  - Los registros contienen información muy confidencial, por lo que el personal sigue normas estrictas de confidencialidad y de acceso, y puede tener que leer con regularidad contenidos angustiosos.
+  - La mayoría de las organizaciones tienen registros en papel y digitales, por lo que el rol incluye la digitalización, la indexación y la gestión de registros híbridos.
+  - Los registros deben conservarse durante los periodos fijados en los calendarios de conservación y después archivarse o destruirse de forma segura, con una pista de auditoría.
+  - Los equipos de historias clínicas suelen tramitar las solicitudes de acceso a la historia clínica, que tienen plazos legales.
+levels:
+  - title: Auxiliar de historias clínicas
+    summary: Archiva, recupera, sigue, digitaliza y prepara los registros, siguiendo procedimientos establecidos con supervisión cercana.
+    responsibilities:
+      - Archivar, recuperar y seguir los registros en papel, y prepararlos para las consultas y las solicitudes.
+      - Digitalizar e indexar los registros en el sistema de historias electrónicas, comprobando la calidad.
+      - Introducir y actualizar con exactitud los datos de los registros en los sistemas de seguimiento.
+      - Mantener seguros los registros y notificar de inmediato cualquier registro perdido o brecha.
+      - Trasladar y almacenar con seguridad los registros, incluidas las cajas y los carros de historias clínicas.
+    qualifications:
+      - Buenas habilidades de lectura, escritura, cálculo y teclado.
+    job_evaluation_notes: Las habilidades físicas se puntúan en el nivel 3 por la digitalización y la introducción de datos rápidas y exactas. El esfuerzo físico refleja el traslado frecuente de registros.
+  - title: Técnico de historias clínicas
+    summary: Gestiona diversos procesos de registros, algunos no rutinarios, como localizar registros perdidos, preparar registros para las solicitudes de acceso y aplicar los calendarios de conservación.
+    responsibilities:
+      - Localizar los registros perdidos y resolver los problemas de seguimiento.
+      - Preparar los registros para las solicitudes de acceso, comprobando que están completos antes de su revisión.
+      - Aplicar los calendarios de conservación y preparar los registros para su archivo o destrucción segura.
+      - Comprobar la calidad de los registros digitalizados y corregir los errores de indexación.
+      - Responder a las consultas de los profesionales clínicos, el personal asistencial y los pacientes sobre los registros.
+      - Enseñar a los nuevos auxiliares de historias clínicas a seguir los procedimientos.
+    qualifications:
+      - Experiencia en trabajo de registros o administrativo, o una cualificación de nivel 3 en administración de empresas o experiencia equivalente.
+    job_evaluation_notes: El esfuerzo emocional refleja la exposición indirecta frecuente a contenidos angustiosos de las historias clínicas.
+  - title: Técnico de historias clínicas sénior
+    summary: Supervisa en el día a día un equipo de historias clínicas y gestiona procesos de registros como las solicitudes de acceso, las auditorías y las revisiones de conservación.
+    responsibilities:
+      - Supervisar en el día a día al personal de historias clínicas, asignando el trabajo y comprobando la calidad.
+      - Tramitar las solicitudes de acceso a la historia clínica dentro de los plazos legales, con la orientación de los colegas de gobernanza de la información.
+      - Realizar auditorías de mantenimiento y seguimiento de registros e informar de los resultados.
+      - Mantener exactos y al día los sistemas de seguimiento de registros y de historias electrónicas.
+      - Formar al personal en los procedimientos de registros y en la confidencialidad.
+      - Investigar los registros perdidos y otros incidentes, y recomendar mejoras.
+    qualifications:
+      - Experiencia sustancial en trabajo de historias clínicas, o una cualificación pertinente de nivel de grado básico o experiencia equivalente.
+  - title: Gestor de historias clínicas
+    summary: Gestiona el servicio de historias clínicas, su personal, sus sistemas y sus procedimientos, y dirige su mejora, incluido el paso de los registros en papel a los digitales.
+    responsibilities:
+      - Gestionar el servicio de historias clínicas, su personal y su rendimiento.
+      - Redactar y mantener los procedimientos de registros, de acuerdo con la política y las normas de gestión de registros.
+      - Gestionar los sistemas de seguimiento de registros y de historias electrónicas de varios servicios.
+      - Dirigir los proyectos de digitalización y el paso a los registros digitales.
+      - Dirigir el programa de conservación y eliminación y las auditorías de registros.
+      - Asesorar a los profesionales clínicos, a los gestores y a los colegas de gobernanza de la información sobre la gestión de registros.
+    qualifications:
+      - Un grado o una cualificación profesional en gestión de registros o de la información, o experiencia equivalente.
+      - Experiencia en la supervisión de un equipo de registros.
+    job_evaluation_notes: Los recursos de información se puntúan en el nivel 5 porque gestionar los sistemas de registros de varios servicios es la tarea principal.

@@ -1,0 +1,41 @@
+summary: >
+  Les agents administratifs font fonctionner les équipes et les services en assurant l'administration quotidienne de l'organisation, comme le courrier, les agendas, les réunions, les dossiers, la saisie de données, les commandes et les demandes. Dans une organisation de santé numérique, ils soutiennent les équipes numériques, cliniques et support, et traitent souvent des informations confidentielles sur les patients et le personnel.
+health_context:
+  - Les agents administratifs voient souvent des informations confidentielles sur les patients et le personnel, c'est pourquoi ils suivent de près les règles de gouvernance de l'information.
+  - Les demandes peuvent venir de patients, de personnel soignant et du public, et certains appelants peuvent être inquiets ou en détresse.
+  - Des dossiers et une saisie exacts comptent, car les erreurs peuvent se propager aux systèmes cliniques, aux rapports et aux paiements.
+  - De nombreux processus administratifs passent à des outils numériques, c'est pourquoi les agents administratifs aident à tester et à adopter de nouvelles façons de travailler.
+levels:
+  - title: Adjoint administratif
+    summary: Réalise des tâches administratives courantes pour une équipe, selon des procédures établies et avec une supervision proche.
+    responsibilities:
+      - Répondre aux appels et aux courriels, prendre des messages exacts et orienter les demandes vers la bonne personne.
+      - Saisir et mettre à jour avec exactitude les données dans les systèmes de l'équipe.
+      - Classer et numériser les documents et tenir en ordre les dossiers partagés.
+      - Réserver les réunions et les salles, et envoyer les documents.
+      - Commander les fournitures de bureau et le matériel selon les procédures établies.
+    qualifications:
+      - De bonnes compétences en lecture, en écriture, en calcul et au clavier.
+    job_evaluation_notes: Les compétences physiques sont cotées au niveau 3 pour une maîtrise avancée du clavier, avec rapidité et exactitude dans la frappe et la saisie de données.
+  - title: Agent administratif
+    summary: Fournit un service administratif complet à une équipe ou à un service, en assurant diverses tâches, dont certaines non courantes, et en organisant sa propre charge de travail.
+    responsibilities:
+      - Gérer les agendas et organiser les réunions, les événements et les déplacements d'une équipe.
+      - Rédiger les comptes rendus et les relevés d'actions des réunions d'équipe et suivre les actions.
+      - Traiter le courrier et les demandes courants, en rédigeant les réponses si nécessaire.
+      - Tenir les registres, les tableaux de suivi et les bases de données, et produire des rapports simples.
+      - Traiter les commandes, les factures et les notes de frais dans les limites fixées.
+      - Montrer au nouveau personnel les procédures administratives de l'équipe.
+    qualifications:
+      - Une qualification de niveau 3 en gestion administrative, ou une expérience équivalente.
+  - title: Agent administratif senior
+    summary: Dirige l'administration d'un service ou d'une direction, en encadrant d'autres agents administratifs et en améliorant les processus administratifs.
+    responsibilities:
+      - Coordonner le service administratif d'une direction, en répartissant le travail entre les agents administratifs.
+      - Rédiger les procès-verbaux formels des réunions de direction et de programme.
+      - Rédiger et améliorer les procédures et les modèles administratifs.
+      - Produire pour les responsables des rapports à partir des tableaux de suivi et des systèmes.
+      - Suivre les dépenses des budgets administratifs et signaler les écarts.
+      - Former et encadrer les agents administratifs et les apprentis.
+    qualifications:
+      - Une expérience administrative significative, d'un niveau équivalent à un diplôme de premier cycle court.

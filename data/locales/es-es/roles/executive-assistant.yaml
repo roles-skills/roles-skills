@@ -1,0 +1,41 @@
+summary: >
+  Los asistentes de dirección prestan apoyo administrativo y de gestión de alto nivel a la alta dirección. Gestionan las agendas, la correspondencia, las reuniones y la documentación, actúan como punto de contacto del despacho de la persona directiva y usan su criterio para tratar asuntos en su nombre. A menudo tratan información muy confidencial y delicada.
+health_context:
+  - En la atención sanitaria, la alta dirección se ocupa de incidentes de seguridad de los pacientes, reclamaciones y casos de personal, por lo que los asistentes de dirección tratan con regularidad material delicado y confidencial.
+  - Los despachos de dirección trabajan estrechamente con los consejos y los comités, por lo que importan la exactitud de la documentación, las actas y los registros de gobierno.
+  - Las agendas deben hacer sitio con poco margen a los asuntos urgentes, como los incidentes graves y las interrupciones del servicio.
+levels:
+  - title: Asistente de dirección
+    summary: Presta apoyo de dirección a un director o a un alto directivo, gestionando su agenda, su correspondencia y sus reuniones.
+    responsibilities:
+      - Gestionar la agenda de un alto directivo, fijando prioridades y resolviendo coincidencias.
+      - Atender la correspondencia, redactando respuestas y tratando los asuntos habituales en nombre de la persona directiva.
+      - Preparar documentación, presentaciones y notas informativas para las reuniones.
+      - Levantar actas y hacer seguimiento de las acciones de las reuniones de la persona directiva.
+      - Actuar como primer punto de contacto del despacho de la persona directiva, con tacto y discreción.
+      - Organizar viajes, eventos y visitas.
+    qualifications:
+      - Experiencia sustancial en apoyo administrativo a personal de alto nivel, a un nivel equivalente a un título de grado básico.
+    job_evaluation_notes: La comunicación se puntúa en el nivel 4 porque el puesto trata con regularidad asuntos delicados que requieren tacto y persuasión con contactos internos y externos de alto nivel.
+  - title: Asistente de dirección sénior
+    summary: Presta apoyo de dirección al director general, a la presidencia o a un director ejecutivo, y coordina el trabajo de su despacho.
+    responsibilities:
+      - Gestionar la agenda y las prioridades del director general o de un director ejecutivo.
+      - Atender la correspondencia delicada, incluidas las reclamaciones y las consultas de socios y reguladores.
+      - Coordinar las reuniones, la documentación y los registros de acciones del equipo directivo.
+      - Levantar las actas formales de las reuniones de dirección y de los comités.
+      - Hacer seguimiento de los compromisos y los plazos de todo el despacho de dirección y reclamar los avances.
+      - Supervisar a otros asistentes y cubrir las ausencias en el despacho de dirección.
+    qualifications:
+      - Amplia experiencia en apoyo a la dirección, a un nivel equivalente a un grado.
+  - title: Gestor del despacho de dirección
+    summary: Gestiona el despacho de dirección, su personal y su ciclo de trabajo, y se asegura de que el equipo directivo y el consejo reciban un buen apoyo.
+    responsibilities:
+      - Gestionar el equipo del despacho de dirección, fijando prioridades y apoyando su desarrollo.
+      - Planificar el ciclo de trabajo del equipo directivo, incluidos los programas de trabajo anticipados y la documentación.
+      - Asegurarse de que las notas informativas, la documentación y la correspondencia son exactas, puntuales y acertadas.
+      - Coordinar la respuesta de la dirección a los asuntos urgentes, como los incidentes graves y las investigaciones.
+      - Gestionar el presupuesto y los sistemas del despacho de dirección.
+      - Mejorar los procesos y las herramientas del despacho de dirección.
+    qualifications:
+      - Amplia experiencia en apoyo a la dirección y en gestión de oficinas, a un nivel equivalente a un grado.

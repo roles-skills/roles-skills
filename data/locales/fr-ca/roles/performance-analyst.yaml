@@ -1,0 +1,53 @@
+summary: >
+  Les analystes de la performance mesurent la qualité du fonctionnement des services de santé numérique de l'organisation pour les patients, les usagers, les cliniciens et le personnel soignant. Ils mettent en place des cadres de mesure, recueillent et analysent les données d'usage et de résultats, et aident les équipes produit et les responsables de service à comprendre si les changements améliorent l'accès, l'expérience, la sécurité et l'efficacité.
+health_context:
+  - Les mesures du succès vont au-delà de l'adoption numérique et incluent les effets sur les soins, comme les rendez-vous manqués, les délais d'attente, un triage sûr et le temps libéré pour le personnel.
+  - L'analyse d'audience et le suivi des services de santé peuvent révéler des informations sensibles, comme la maladie qu'une personne a recherchée, c'est pourquoi la mesure doit respecter le consentement, les règles sur les cookies et la confidentialité.
+  - Les services numériques ne doivent pas creuser les inégalités de santé, c'est pourquoi les analystes étudient l'adoption et les résultats des groupes les moins susceptibles d'utiliser les services numériques.
+  - Les données de performance peuvent être communiquées aux conseils, aux financeurs et aux régulateurs, c'est pourquoi les définitions doivent être cohérentes et bien documentées.
+levels:
+  - title: Analyste de la performance adjoint
+    responsibilities:
+      - Produire des rapports réguliers sur l'usage des services numériques par les patients et le personnel, comme les inscriptions, les démarches terminées et les points d'abandon.
+      - Vérifier les lacunes et les erreurs des données d'analyse d'audience et de suivi, et les signaler à l'équipe.
+      - Suivre les règles de l'organisation sur le consentement et la confidentialité lors de la collecte et du partage des données d'usage.
+      - Aider les équipes produit à répondre à des questions simples sur l'usage des services.
+    qualifications:
+      - Une bonne aisance avec les chiffres et une certaine expérience du traitement ou de l'analyse de données, ou équivalent.
+  - title: Analyste de la performance
+    responsibilities:
+      - Convenir avec les équipes produit et les responsables cliniques de ce qu'est le succès d'un service, y compris ses effets sur les soins et le personnel.
+      - Mettre en place et valider l'analyse d'audience, pour que le suivi soit exact, proportionné et respecte le consentement.
+      - Croiser l'analyse d'audience numérique avec des données opérationnelles, comme les rendez-vous et les demandes d'avis, pour montrer l'effet des changements.
+      - Analyser l'adoption et les résultats de différents groupes de patients et signaler les risques d'exclusion numérique.
+      - Présenter les résultats aux équipes produit et aux responsables de service et recommander des améliorations.
+    qualifications:
+      - Une licence dans une discipline quantitative, ou une expérience équivalente.
+      - Une expérience de la mesure de la performance de services numériques.
+  - title: Analyste de la performance senior
+    responsibilities:
+      - Diriger la mesure de la performance d'un groupe de services ou d'un programme majeur, comme les consultations externes numériques ou le triage en ligne.
+      - Concevoir des indicateurs de bénéfices avec les responsables cliniques, financiers et opérationnels, et les suivre tout au long de la livraison.
+      - Choisir et paramétrer des outils d'analyse d'audience qui respectent les exigences de gouvernance de l'information et de sécurité.
+      - Présenter les preuves de performance aux comités de programme et à la direction.
+      - Accompagner les analystes et, le cas échéant, encadrer un ou plusieurs analystes de la performance.
+    qualifications:
+      - Une expérience significative de l'analyse de la performance des services numériques, d'un niveau équivalent à un master.
+  - title: Analyste de la performance référent
+    responsibilities:
+      - Diriger une équipe d'analystes de la performance pour un portefeuille de services de santé numérique.
+      - Convenir de définitions cohérentes des indicateurs clés de performance, pour que les rapports aux conseils et aux partenaires soient comparables dans le temps.
+      - Veiller à ce que les données d'analyse d'audience soient exactes, utilisées à bon escient et traitées selon les règles de gouvernance de l'information.
+      - Utiliser les preuves de performance pour influer sur les priorités du portefeuille et les investissements.
+      - Accompagner et encadrer les analystes de tous niveaux.
+    qualifications:
+      - Une solide expérience de l'analyse de la performance et de l'encadrement d'analystes.
+  - title: Responsable de l'analyse de la performance
+    responsibilities:
+      - Fixer la stratégie de mesure de la performance et des bénéfices des services numériques de l'organisation.
+      - Définir le cadre d'assurance qualité de l'analyse et des rapports de performance.
+      - Conseiller les dirigeants sur ce que montrent les preuves de performance au sujet des services numériques et des résultats pour les patients.
+      - Travailler avec les autres professions analytiques, comme l'analyse de données et la science des données, pour partager méthodes et données.
+      - Planifier la capacité de la communauté d'analyse de la performance, y compris le recrutement et le développement.
+    qualifications:
+      - Une solide expérience de la direction de l'analyse de la performance dans toute une organisation.

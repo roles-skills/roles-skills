@@ -1,0 +1,61 @@
+summary: >
+  Les ingénieurs infrastructure conçoivent, construisent, exploitent et maintiennent les réseaux, les serveurs, le stockage, les plateformes en nuage et l'hébergement dont dépendent les services numériques de l'organisation. Ils maintiennent cette infrastructure disponible, sécurisée et récupérable, et travaillent avec les fournisseurs et les architectes pour la faire évoluer en sécurité. En santé, une seule défaillance d'infrastructure peut arrêter en même temps les systèmes cliniques des hôpitaux et des services de proximité.
+health_context:
+  - Les systèmes cliniques ont besoin d'une très haute disponibilité, c'est pourquoi l'infrastructure est conçue pour la résilience et les changements sont planifiés en fonction de l'activité clinique.
+  - Les ingénieurs participent aux astreintes, car des pannes d'infrastructure la nuit ou le week-end peuvent arrêter la prise en charge des patients.
+  - Les réseaux relient des dispositifs médicaux, comme les pompes à perfusion, les moniteurs de patients et les équipements d'imagerie, qui demandent une segmentation du réseau et des changements prudents selon l'IEC 80001-1.
+  - La santé est une cible fréquente des rançongiciels, c'est pourquoi les sauvegardes doivent être protégées, testées et restaurables dans les délais de reprise convenus.
+  - L'infrastructure mêle souvent technologies anciennes et récentes, y compris des systèmes cliniques anciens difficiles à corriger, c'est pourquoi les ingénieurs mettent en place des mesures compensatoires.
+levels:
+  - title: Ingénieur infrastructure adjoint
+    responsibilities:
+      - Aider les ingénieurs infrastructure dans les tâches courantes, comme la préparation de serveurs, le contrôle des sauvegardes et les changements réseau.
+      - Superviser l'infrastructure et signaler les alertes et les pannes à la bonne équipe.
+      - Suivre dans tout le travail les procédures de changement, de sécurité et de gouvernance de l'information.
+      - Consigner avec exactitude les informations de configuration et d'inventaire.
+      - Préparer un apprentissage en infrastructure ou une qualification équivalente.
+    qualifications:
+      - Inscrit à un apprentissage en infrastructure ou en réseaux ou équivalent, ou en préparation.
+    job_evaluation_notes: Les connaissances sont cotées au niveau requis par l'emploi une fois la formation suffisamment avancée pour faire le travail.
+  - title: Ingénieur infrastructure
+    responsibilities:
+      - Construire, paramétrer et maintenir les serveurs, le stockage, les réseaux et les services en nuage qui hébergent les systèmes cliniques et de gestion.
+      - Appliquer rapidement les correctifs à l'infrastructure, en mettant en balance le risque de sécurité et le besoin de garder les systèmes cliniques disponibles.
+      - Exécuter et tester les sauvegardes et les restaurations, y compris pour les systèmes cliniques critiques.
+      - Assurer le support des réseaux segmentés des dispositifs médicaux et des autres équipements cliniques, avec les équipes biomédicales.
+      - Analyser et réparer les pannes d'infrastructure, y compris dans le cadre des astreintes.
+      - Automatiser les tâches courantes avec des scripts et l'infrastructure en tant que code.
+    qualifications:
+      - Une licence en informatique ou dans une discipline voisine, des certifications techniques pertinentes ou une expérience équivalente.
+      - Une expérience du support d'infrastructures en production.
+    job_evaluation_notes: L'effort mental reflète une concentration prolongée fréquente sur des pannes imprévisibles, y compris lors des astreintes hors heures ouvrées.
+  - title: Ingénieur infrastructure senior
+    responsibilities:
+      - Concevoir et construire des solutions d'infrastructure à partir des conceptions des architectes, avec la résilience dont ont besoin les services cliniques.
+      - Planifier et diriger les grands changements d'infrastructure, comme les déménagements de centres de données, les renouvellements réseau et les migrations vers le nuage, en fonction de l'activité clinique.
+      - Concevoir et tester la reprise après sinistre et la reprise après rançongiciel des systèmes cliniques critiques.
+      - Diriger la réponse technique aux incidents d'infrastructure et piloter la correction de leurs causes.
+      - Gérer les mesures compensatoires des systèmes anciens et des dispositifs médicaux qui ne peuvent pas être corrigés.
+      - Diriger et accompagner les ingénieurs infrastructure.
+    qualifications:
+      - Une expérience significative de la conception et de l'exploitation d'infrastructures en production, d'un niveau équivalent à un diplôme de troisième cycle.
+    job_evaluation_notes: L'effort mental reflète une concentration prolongée fréquente pendant les incidents et les changements complexes, y compris hors heures ouvrées.
+  - title: Ingénieur infrastructure référent
+    responsibilities:
+      - Diriger l'infrastructure d'une plateforme majeure ou d'un groupe de services, et fixer son orientation technique.
+      - Gérer les fournisseurs d'infrastructure tiers, et leur faire respecter les niveaux de service de disponibilité et de reprise.
+      - Superviser les programmes d'infrastructure, comme le renouvellement du réseau ou le passage à l'hébergement en nuage.
+      - Veiller à ce que l'infrastructure respecte les normes de sécurité, de gouvernance de l'information et de réseau des dispositifs médicaux.
+      - Diriger les équipes infrastructure et développer leurs compétences.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie d'infrastructure pour des services complexes à haute disponibilité.
+    job_evaluation_notes: Le UK GDaD PCF propose la bande 8b pour les ingénieurs infrastructure référents et principaux. Cette référence place le référent en bande 8a, pour que les deux niveaux soient dans des bandes différentes, comme les rôles référents et principaux des autres familles techniques.
+  - title: Ingénieur infrastructure principal
+    responsibilities:
+      - Élaborer la stratégie et les feuilles de route d'infrastructure, pour que l'investissement apporte un hébergement résilient, sécurisé et durable aux services cliniques.
+      - Être responsable des relations opérationnelles avec les fournisseurs stratégiques d'infrastructure et de réseau.
+      - Conseiller la direction sur le risque d'infrastructure, y compris les technologies en fin de vie, les points uniques de défaillance et la cyberrésilience.
+      - Fixer avec les propriétaires de service les objectifs de délai et de point de reprise des systèmes cliniques, et veiller à ce que l'infrastructure puisse les atteindre.
+      - Diriger la profession d'ingénierie d'infrastructure dans toute l'organisation et développer sa capacité.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie d'infrastructure dans plusieurs équipes ou organisations.

@@ -1,0 +1,61 @@
+summary: >
+  Les ingénieurs d'exploitation des applications maintiennent en fonctionnement les applications de l'organisation, y compris les systèmes cliniques comme le dossier patient informatisé et les systèmes de prescription, de laboratoire et d'imagerie. Ils supervisent les applications, exécutent les traitements planifiés, gèrent les utilisateurs et les accès, déploient les versions et les correctifs, et travaillent avec les fournisseurs pour résoudre les pannes. Leur travail permet au personnel clinique et administratif de compter sur ces systèmes à toute heure.
+health_context:
+  - Les applications cliniques fonctionnent 24 heures sur 24, c'est pourquoi les ingénieurs participent aux astreintes et planifient la maintenance aux périodes cliniques les plus calmes.
+  - Les traitements planifiés et les interfaces en échec peuvent retarder des résultats d'examens, des demandes d'avis ou des lettres de sortie, c'est pourquoi les ingénieurs les surveillent de près et les font remonter rapidement.
+  - Les indisponibilités planifiées et non planifiées demandent des dispositions de continuité d'activité, comme des copies en lecture seule et des rapports de mode dégradé, pour que les cliniciens puissent continuer à soigner les patients.
+  - De nombreuses applications cliniques sont fournies et hébergées par des tiers, c'est pourquoi les ingénieurs gèrent avec soin les fournisseurs et leurs changements.
+  - Les changements des applications cliniques suivent le processus de gestion des risques cliniques, et certaines applications peuvent être réglementées comme dispositifs médicaux.
+levels:
+  - title: Ingénieur d'exploitation des applications adjoint
+    responsibilities:
+      - Superviser les applications, les interfaces et les traitements planifiés, et signaler les échecs à des ingénieurs expérimentés.
+      - Créer et modifier les comptes utilisateurs et les accès dans les applications, selon les règles d'accès fondées sur les rôles.
+      - Effectuer les contrôles et les tâches de maintenance courants à l'aide de procédures d'exploitation.
+      - Consigner avec exactitude les incidents et les changements dans l'outil de gestion des services.
+      - Préparer un apprentissage en informatique ou une qualification équivalente.
+    qualifications:
+      - Inscrit à un apprentissage en informatique ou équivalent, ou en préparation.
+    job_evaluation_notes: Les connaissances sont cotées au niveau requis par l'emploi une fois la formation suffisamment avancée pour faire le travail.
+  - title: Ingénieur d'exploitation des applications
+    responsibilities:
+      - Superviser les applications cliniques et de gestion et leurs interfaces, et agir sur les alertes et les traitements en échec avant qu'ils ne touchent la prise en charge des patients.
+      - Exécuter et vérifier les traitements planifiés, comme les chargements de données nocturnes et les files d'interface, et résoudre ou faire remonter les échecs.
+      - Gérer les utilisateurs, les rôles et les accès des applications, y compris la suppression des accès des partants et le soutien aux revues d'accès.
+      - Produire et tester les rapports de mode dégradé et les autres sorties de continuité d'activité des applications cliniques.
+      - Déclarer les pannes aux fournisseurs et les suivre jusqu'à leur résolution.
+      - Participer, avec un accompagnement, aux astreintes pour les pannes d'applications hors heures ouvrées.
+    qualifications:
+      - Une qualification en informatique, un apprentissage achevé ou une expérience équivalente.
+      - Une expérience du support d'applications de gestion ou cliniques.
+  - title: Ingénieur d'exploitation des applications senior
+    responsibilities:
+      - Déployer les versions, les correctifs et les changements de paramétrage des applications en production, selon les procédures de changement et de sécurité clinique.
+      - Coordonner le travail technique de mise en service des nouvelles applications et des grandes montées de version, y compris les plans de bascule et de retour arrière.
+      - Analyser les pannes complexes des applications avec les fournisseurs, les équipes infrastructure et les spécialistes des systèmes cliniques.
+      - Planifier les fenêtres de maintenance avec les services cliniques, et veiller à ce que les procédures de mode dégradé soient prêtes.
+      - Fournir des preuves aux dossiers de sécurité clinique, comme les enregistrements de tests et de déploiement.
+      - Être un point d'escalade des astreintes pour les pannes hors heures ouvrées.
+    qualifications:
+      - Une expérience significative du support d'applications en production, d'un niveau équivalent à une licence.
+    job_evaluation_notes: L'effort mental reflète une concentration prolongée fréquente pendant les mises en service, les déploiements et les incidents hors heures ouvrées.
+  - title: Ingénieur d'exploitation des applications référent
+    responsibilities:
+      - Fixer l'approche d'exploitation d'un groupe d'applications, y compris la supervision, la résilience et les dispositions de support.
+      - Fixer des normes d'administration des utilisateurs et de la sécurité dans les applications cliniques, avec l'équipe sécurité.
+      - Rendre compte aux responsables de l'exploitation informatique de la performance et de la disponibilité des applications, et convenir des changements nécessaires.
+      - Diriger la réponse technique aux incidents majeurs qui touchent les applications cliniques.
+      - Veiller à ce que les dispositions de continuité d'activité et de reprise après sinistre des applications cliniques soient testées.
+      - Diriger et faire progresser les ingénieurs d'exploitation des applications.
+    qualifications:
+      - Une solide expérience de l'exploitation d'applications en production, y compris des systèmes cliniques ou d'autres systèmes critiques.
+  - title: Ingénieur d'exploitation des applications principal
+    responsibilities:
+      - Être responsable de la stratégie d'exploitation des applications cliniques et de gestion de l'organisation.
+      - Gérer les fournisseurs stratégiques d'applications cliniques, y compris les niveaux de service, la performance contractuelle et les changements des fournisseurs.
+      - Conseiller la direction sur les risques des applications, comme les logiciels non maintenus, les points uniques de défaillance et la résilience face aux rançongiciels.
+      - Veiller à ce que l'organisation puisse continuer à soigner les patients en sécurité pendant une indisponibilité prolongée des applications.
+      - Diriger les ressources, la formation et le développement des équipes d'exploitation des applications.
+    qualifications:
+      - Une solide expérience de la direction de l'exploitation des applications d'une grande organisation.
+    job_evaluation_notes: Le UK GDaD PCF propose la bande 8c pour ce niveau (G6). Cette référence le place en bande 8b, comme les rôles principaux des autres familles techniques, car son périmètre est un domaine technique et non une direction.

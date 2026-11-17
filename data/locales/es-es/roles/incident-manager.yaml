@@ -1,0 +1,33 @@
+summary: >
+  Los gestores de incidentes restablecen el servicio normal lo antes posible cuando algo falla, y reducen al mínimo el efecto en los usuarios. Coordinan a los equipos técnicos y a los proveedores, mantienen informados a los usuarios y a la dirección, y se aseguran de que los incidentes se registren y se trasladen a la gestión de problemas. En la atención sanitaria, los incidentes pueden afectar directamente a la atención a los pacientes, por lo que los gestores de incidentes trabajan estrechamente con los responsables clínicos y operativos.
+health_context:
+  - La caída de un sistema clínico puede retrasar el tratamiento, por lo que los incidentes se priorizan según su impacto clínico, y los responsables clínicos pueden tener que activar los procedimientos de contingencia.
+  - Los incidentes graves pueden ocurrir en cualquier momento, por lo que los gestores de incidentes participan en guardias y pueden ser llamados de noche o en fin de semana.
+  - Un ciberataque, como el ransomware, puede convertirse en un incidente grave que afecte a toda la organización y dure días o semanas.
+  - Los incidentes graves de TI pueden necesitar vincularse con las medidas de preparación ante emergencias y de continuidad de negocio de la organización.
+  - Los incidentes que pueden haber causado daño a pacientes también se notifican mediante el proceso de incidentes clínicos y se revisan con seguridad clínica.
+levels:
+  - title: Gestor de incidentes
+    responsibilities:
+      - Coordinar la respuesta a los incidentes que afectan a los servicios clínicos y corporativos, desde la primera notificación hasta el restablecimiento del servicio.
+      - Evaluar el impacto clínico y operativo de cada incidente y fijar su prioridad.
+      - Mantener informados a los usuarios afectados, al centro de servicio y a los responsables clínicos con actualizaciones claras y puntuales.
+      - Escalar los incidentes al gestor de incidentes graves cuando cumplan los criterios acordados.
+      - Asegurarse de que los incidentes se registran con exactitud y se trasladan a la gestión de problemas.
+      - Participar en las guardias para los incidentes fuera de horario.
+    qualifications:
+      - Experiencia en soporte u operaciones de TI, incluida la gestión de incidentes.
+      - Una cualificación básica en gestión de servicios de TI, o experiencia equivalente.
+    job_evaluation_notes: El esfuerzo mental refleja la concentración prolongada frecuente con presión de tiempo, también durante las guardias. El esfuerzo emocional refleja la exposición indirecta frecuente al efecto de las caídas del servicio en pacientes y personal.
+  - title: Gestor de incidentes graves
+    responsibilities:
+      - Dirigir la respuesta a los incidentes graves, como las caídas de la historia clínica electrónica, los fallos de red y los ciberataques.
+      - Dirigir las reuniones de incidente que reúnen a los equipos técnicos, los proveedores, los responsables clínicos y el personal de comunicación.
+      - Asesorar a los responsables clínicos y operativos sobre cuándo activar y desactivar los procedimientos de contingencia y de continuidad de negocio.
+      - Informar a la alta dirección y, cuando sea necesario, vincularse con las medidas de respuesta a emergencias de la organización.
+      - Dirigir las revisiones posteriores a los incidentes y asegurarse de que se aprenden las lecciones y se actúa sobre ellas.
+      - Desarrollar y probar los planes de incidentes graves con los responsables de continuidad de negocio y de planificación de emergencias.
+    qualifications:
+      - Experiencia sustancial en la gestión de incidentes en servicios complejos y de alta disponibilidad.
+      - Una cualificación avanzada en gestión de servicios de TI, o experiencia equivalente.
+    job_evaluation_notes: El esfuerzo mental refleja la concentración prolongada frecuente durante los incidentes graves, a menudo fuera de horario. El esfuerzo emocional refleja la exposición indirecta frecuente al efecto de las grandes caídas del servicio en la atención a los pacientes.

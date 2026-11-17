@@ -1,0 +1,47 @@
+summary: >
+  Los ingenieros de pruebas crean las pruebas automatizadas, las herramientas y los marcos que permiten a los equipos probar los servicios de salud digital de la organización con rapidez y frecuencia. Escriben código para probar las funciones, las integraciones, el rendimiento, la seguridad y la resiliencia, e incorporan las pruebas a los flujos de entrega, para que los cambios en los sistemas clínicos y dirigidos a pacientes puedan publicarse con seguridad.
+health_context:
+  - Los sistemas clínicos son críticos para la seguridad, por lo que las pruebas de regresión automatizadas protegen los controles de seguridad registrados en los registros de peligros y se conservan como evidencia para los casos de seguridad.
+  - Las integraciones con otros sistemas de salud y asistencia necesitan pruebas automatizadas frente a estándares como HL7 FHIR y HL7 versión 2, a menudo con sistemas socios simulados.
+  - Los servicios clínicos funcionan a todas horas y tienen picos en momentos previsibles, por lo que las pruebas de rendimiento y de resiliencia modelizan la demanda clínica real.
+  - Los entornos de prueba no deben contener datos reales de pacientes, por lo que los ingenieros generan datos sintéticos realistas, incluidos casos clínicos poco frecuentes y límite.
+  - El software regulado como producto sanitario necesita pruebas trazables y repetibles como parte de su ciclo de vida según normas como la IEC 62304.
+levels:
+  - title: Ingeniero de pruebas asociado
+    responsibilities:
+      - Escribir y mantener pruebas automatizadas sencillas bajo supervisión, siguiendo las normas de ingeniería del equipo.
+      - Ejecutar pruebas automatizadas y manuales y registrar los resultados con exactitud.
+      - Ayudar a investigar y notificar defectos, también en las integraciones con los sistemas clínicos.
+      - Usar datos de prueba sintéticos y seguir las normas de gobernanza de la información en los entornos de prueba.
+      - Aprender las herramientas de prueba, las prácticas de código y el proceso de seguridad clínica del equipo.
+    qualifications:
+      - Algo de experiencia en programación o pruebas, o matrícula en un programa de aprendizaje pertinente, o equivalente.
+  - title: Ingeniero de pruebas
+    responsibilities:
+      - Diseñar y crear pruebas automatizadas funcionales, de integración y de API para servicios clínicos y dirigidos a pacientes.
+      - Crear pruebas que comprueben los mensajes frente a los perfiles HL7 FHIR y otras especificaciones de interoperabilidad.
+      - Generar datos sintéticos de pacientes que cubran casos clínicos realistas y límite.
+      - Añadir pruebas a los flujos de entrega para que las comprobaciones relacionadas con la seguridad se ejecuten en cada cambio.
+      - Estimar el esfuerzo de prueba, informar de los resultados y apoyar la resolución de los defectos.
+    qualifications:
+      - Un grado en informática o una materia afín, o experiencia equivalente.
+      - Experiencia en la creación de pruebas automatizadas.
+  - title: Ingeniero de pruebas sénior
+    responsibilities:
+      - Dirigir la ingeniería de pruebas de un área, eligiendo herramientas, marcos y tipos de prueba que aborden pronto sus riesgos.
+      - Crear marcos de prueba y simuladores reutilizables para los sistemas clínicos y las integraciones con socios.
+      - Planificar y ejecutar pruebas de rendimiento, carga y resiliencia basadas en la demanda clínica real.
+      - Asegurarse de que las pruebas automatizadas se trazan con los peligros y los controles de seguridad y aportan evidencias a los casos de seguridad.
+      - Orientar y guiar a otros ingenieros de pruebas, y acordar normas de ingeniería con los desarrolladores.
+    qualifications:
+      - Experiencia sustancial en ingeniería de pruebas, a un nivel equivalente a un máster.
+  - title: Ingeniero de pruebas líder
+    responsibilities:
+      - Fijar la estrategia y las normas de ingeniería de pruebas de un área amplia, incluidas las pruebas continuas en los flujos de entrega.
+      - Dirigir y orientar a los ingenieros de pruebas y a los equipos en la práctica de ingeniería de la calidad.
+      - Asegurarse de que las pruebas del software regulado y crítico para la seguridad cumplen las normas exigidas y son trazables.
+      - Escalar los riesgos de calidad y de seguridad a los responsables de producto, clínicos y de los proveedores de alto nivel.
+      - Encontrar oportunidades para probar antes y más a menudo, y medir el efecto en la calidad.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería de pruebas de servicios complejos.
+    job_evaluation_notes: El UK GDaD PCF propone de SEO a G6 para este nivel, lo que corresponde a la banda 7, la misma que la del ingeniero de pruebas sénior. Esta referencia lo sitúa en la banda 8a, porque fija la estrategia y las normas de ingeniería de pruebas de un área amplia.

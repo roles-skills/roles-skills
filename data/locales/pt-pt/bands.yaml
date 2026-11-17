@@ -1,0 +1,97 @@
+# Descrições das faixas em português. As chaves são os códigos das faixas em inglês.
+"1":
+  title: Faixa 1
+  stage: Início
+  knowledge: Alfabetização e noções básicas de cálculo; aprende tarefas rotineiras simples no próprio trabalho.
+  autonomy: Segue instruções claras; o trabalho é verificado com frequência.
+  scope: As próprias tarefas rotineiras.
+  leadership: Nenhuma.
+  accountability: Conclusão correta das tarefas rotineiras.
+"2":
+  title: Faixa 2
+  stage: Apoio
+  knowledge: Conhece as rotinas e os procedimentos da área de trabalho; pode ter uma qualificação de entrada.
+  autonomy: Trabalha segundo procedimentos definidos, com supervisão disponível.
+  scope: As próprias tarefas dentro de uma equipe.
+  leadership: Pode mostrar tarefas rotineiras a quem acaba de chegar.
+  accountability: Qualidade e pontualidade do próprio trabalho rotineiro.
+"3":
+  title: Faixa 3
+  stage: Apoio
+  knowledge: Conhecimento de vários procedimentos, alguns não rotineiros; em geral, qualificação de nível 3 ou experiência equivalente.
+  autonomy: Trabalha dentro dos procedimentos; decide como organizar o próprio trabalho; leva os problemas ao nível superior.
+  scope: O próprio trabalho e algumas tarefas para a equipe em geral.
+  leadership: Pode distribuir trabalho rotineiro ou treinar outras pessoas nos procedimentos.
+  accountability: Precisão do próprio trabalho e dos registros mantidos.
+"4":
+  title: Faixa 4
+  stage: Apoio e início da prática profissional
+  knowledge: Conhecimento detalhado da área de trabalho, em geral adquirido em curso tecnológico, aprendizagem profissional ou experiência equivalente.
+  autonomy: Trabalha dentro de diretrizes; resolve a maioria dos problemas do dia a dia; a chefia está disponível para aconselhar.
+  scope: O próprio trabalho e um serviço ou processo definido.
+  leadership: Pode supervisionar uma equipe pequena ou coordenar o trabalho de outras pessoas.
+  accountability: Entrega de um serviço ou processo definido.
+"5":
+  title: Faixa 5
+  stage: Profissional
+  knowledge: Conhecimento profissional ou técnico, em geral adquirido em curso de graduação ou experiência equivalente.
+  autonomy: Trabalha para objetivos amplos, dentro das normas profissionais; planeja o próprio trabalho.
+  scope: O próprio trabalho profissional dentro de uma equipe ou produto.
+  leadership: Pode orientar e conferir o trabalho de pessoal de apoio e de aprendizes.
+  accountability: Qualidade do próprio trabalho profissional.
+"6":
+  title: Faixa 6
+  stage: Profissional experiente
+  knowledge: Conhecimento especializado em vários procedimentos, construído por meio de formação complementar ou da experiência.
+  autonomy: Trabalha com independência; interpreta a política para a própria área; busca orientação em questões complexas.
+  scope: Um produto, serviço ou frente de trabalho.
+  leadership: Pode liderar uma equipe pequena ou orientar colegas.
+  accountability: Resultados da própria frente de trabalho e qualidade das orientações dadas.
+"7":
+  title: Faixa 7
+  stage: Sênior ou especialista
+  knowledge: Conhecimento especializado muito desenvolvido, em geral em nível de mestrado ou experiência equivalente.
+  autonomy: Trabalha segundo a política da organização; decide como alcançar os resultados; é a pessoa especialista que os outros consultam.
+  scope: Vários produtos ou serviços, ou uma função especializada.
+  leadership: Lidera uma equipe ou uma área de prática profissional.
+  accountability: Entrega de um serviço ou função especializada e, se houver, do respectivo orçamento.
+8a:
+  title: Faixa 8a
+  stage: Liderança
+  knowledge: Conhecimento de especialista em uma disciplina e na sua gestão.
+  autonomy: Interpreta a política da organização para um serviço; define a direção da equipe.
+  scope: Uma área de serviço ou uma disciplina em toda a organização.
+  leadership: Gerencia uma equipe ou lidera uma disciplina sem chefia direta.
+  accountability: Uma área de serviço, sua equipe e seu orçamento.
+8b:
+  title: Faixa 8b
+  stage: Liderança
+  knowledge: Conhecimento de especialista em várias disciplinas ou em um serviço de grande porte.
+  autonomy: Molda a política e a estratégia de uma área ampla.
+  scope: Vários serviços ou equipes, ou uma disciplina em nível principal.
+  leadership: Gerencia gestores ou é a principal autoridade em uma disciplina.
+  accountability: Vários serviços, suas equipes e seus orçamentos.
+8c:
+  title: Faixa 8c
+  stage: Liderança sênior
+  knowledge: Conhecimento de especialista e ampla compreensão da organização e do setor.
+  autonomy: Define a estratégia de uma função; responde a um diretor.
+  scope: Uma função ou um departamento.
+  leadership: Lidera uma função por meio de várias camadas de gestão.
+  accountability: Desempenho, força de trabalho e orçamento de uma função.
+8d:
+  title: Faixa 8d
+  stage: Liderança sênior
+  knowledge: Conhecimento estratégico de várias funções e do sistema de saúde e cuidados como um todo.
+  autonomy: Molda a estratégia de toda a organização; substitui um diretor.
+  scope: Uma grande função ou várias funções.
+  leadership: Lidera várias funções ou um grande departamento.
+  accountability: Grandes funções, grandes orçamentos e riscos de toda a organização.
+"9":
+  title: Faixa 9
+  stage: Chefia de profissão ou diretoria
+  knowledge: Perícia estratégica e liderança em todo o sistema.
+  autonomy: Define a estratégia da organização junto com a equipe executiva.
+  scope: A organização e seus parceiros em todo o sistema.
+  leadership: Lidera uma profissão ou uma diretoria.
+  accountability: Resultados, orçamentos e riscos de toda a organização.

@@ -1,0 +1,71 @@
+# Spanish translations of data/skills/product-design.yaml. Keys are the English skill ids.
+pd-health-research-ethics:
+  name: Investigación ética con pacientes y personal asistencial
+  description: Planificar y llevar a cabo investigación con pacientes, cuidadores, profesionales clínicos y personal asistencial de forma segura y ética, incluidos el consentimiento informado, la protección de personas vulnerables, la investigación con personas en circunstancias de vulnerabilidad y saber cuándo hace falta una aprobación ética formal.
+  levels:
+    awareness: |
+      Puede:
+      - explicar por qué la investigación con pacientes y personal asistencial requiere consentimiento informado, protección y cuidado con los datos personales
+      - seguir los procedimientos del equipo de consentimiento, protección y tratamiento de datos en las sesiones de investigación
+    working: |
+      Puede:
+      - planificar sesiones de investigación que obtengan el consentimiento informado y protejan el bienestar y la privacidad de los participantes
+      - adaptar las sesiones a personas enfermas, angustiadas o en circunstancias de vulnerabilidad, y saber cuándo parar
+      - reconocer y notificar las preocupaciones de protección que surjan en la investigación
+    practitioner: |
+      Puede:
+      - valorar cuándo una investigación necesita aprobación ética formal o de gobernanza de la investigación, y preparar lo necesario
+      - planificar una investigación segura con personas en circunstancias de vulnerabilidad, como menores, personas con demencia y personas en crisis
+      - planificar investigación en entornos clínicos sin perturbar la atención, trabajando con responsables clínicos y personal asistencial
+      - ayudar a los investigadores a cuidar de su propio bienestar tras sesiones angustiosas
+    expert: |
+      Puede:
+      - fijar las normas de la organización para la investigación ética con pacientes, cuidadores y personal asistencial
+      - garantizar la práctica de investigación en todos los equipos y asesorar sobre la investigación de alto riesgo
+      - representar la práctica de investigación ante los organismos de ética, protección y gobernanza
+pd-safety-critical-design:
+  name: Diseño para la seguridad clínica y los factores humanos
+  description: Diseñar servicios, interfaces y flujos de trabajo que ayuden a los profesionales clínicos, al personal asistencial y a los pacientes a actuar con seguridad, aplicando los principios de factores humanos y trabajando con el proceso de gestión del riesgo clínico.
+  levels:
+    awareness: |
+      Puede:
+      - explicar cómo las decisiones de diseño pueden causar o evitar errores en la atención, como confundir al paciente o la dosis
+      - usar los patrones de la organización para la información crítica para la seguridad, como los encabezados de identificación del paciente y los avisos de alergia
+    working: |
+      Puede:
+      - diseñar interfaces que hagan que la acción segura sea la acción fácil, por ejemplo reduciendo las etiquetas ambiguas y las alertas innecesarias
+      - probar los diseños en escenarios clínicos realistas, con interrupciones y presión de tiempo
+      - comunicar al responsable de seguridad clínica los peligros relacionados con el diseño y registrar cómo los controlan los diseños
+    practitioner: |
+      Puede:
+      - aplicar métodos de factores humanos, como el análisis de tareas y el análisis de errores de uso, a flujos de trabajo clínicos complejos
+      - diseñar para reducir la fatiga de alertas y la carga cognitiva en todo un servicio
+      - aportar pruebas de diseño a los casos de seguridad clínica y pruebas de usabilidad para el software regulado
+    expert: |
+      Puede:
+      - fijar las normas y los patrones de la organización para el diseño crítico para la seguridad
+      - dirigir el trabajo de factores humanos en los servicios clínicos de mayor riesgo
+      - asesorar a los responsables de seguridad clínica y de producto sobre los riesgos relacionados con el diseño en toda la cartera
+pd-health-content:
+  name: Contenidos de información sanitaria
+  description: Crear contenidos de salud y asistencia que sean exactos, estén garantizados clínicamente y resulten fáciles de entender y de aplicar para personas con distintos niveles de alfabetización en salud.
+  levels:
+    awareness: |
+      Puede:
+      - explicar por qué la información sanitaria debe ser exacta, actual y fácil de entender
+      - seguir la guía de estilo del equipo y su proceso de revisión clínica de los contenidos sanitarios
+    working: |
+      Puede:
+      - redactar contenidos sanitarios que las personas con baja alfabetización en salud puedan entender y aplicar, como los síntomas y cuándo pedir ayuda
+      - trabajar con revisores clínicos para comprobar que el contenido es exacto sin perder claridad
+      - explicar los términos médicos en lenguaje claro y usar nombres coherentes para enfermedades, pruebas y tratamientos
+    practitioner: |
+      Puede:
+      - diseñar contenidos sobre temas delicados y de alto riesgo, como los síntomas urgentes, los medicamentos y los cuidados al final de la vida
+      - establecer el aseguramiento clínico, las fechas de revisión y las fuentes de evidencia de un conjunto de contenidos sanitarios
+      - equilibrar la precisión clínica, los requisitos legales y la comprensión de los usuarios en contenidos discutidos
+    expert: |
+      Puede:
+      - fijar las normas de la organización para los contenidos de información sanitaria y su aseguramiento clínico
+      - dirigir la estrategia de contenidos de información sanitaria en todos los servicios y canales
+      - asesorar a los responsables clínicos y de comunicación sobre los riesgos de la información sanitaria

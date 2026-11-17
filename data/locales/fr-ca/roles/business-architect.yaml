@@ -1,0 +1,48 @@
+summary: >
+  Les architectes métier construisent une vision claire et cohérente de la manière dont l'organisation assure la santé et les soins, c'est-à-dire ses capacités, ses services, ses parcours de soins, ses processus et ses informations. Ils utilisent cette vision pour montrer où un changement est nécessaire, relier la stratégie aux programmes et veiller à ce que la transformation numérique améliore les soins aux patients et la vie professionnelle des cliniciens et du personnel soignant.
+health_context:
+  - Les parcours de soins traversent équipes, structures et organisations, c'est pourquoi les architectes métier modélisent les services du point de vue du patient, et pas seulement par service.
+  - Les changements de processus cliniques peuvent toucher la sécurité des patients et la charge de travail du personnel, c'est pourquoi les modèles sont construits avec les cliniciens et le personnel soignant et confrontés à la pratique réelle.
+  - La stratégie de santé et de soins est façonnée par les politiques publiques, la réglementation et les règles de financement, que les architectes doivent traduire en changements concrets de capacités.
+  - De nombreuses capacités sont partagées avec des organisations partenaires, c'est pourquoi les architectes aident à convenir de qui fait quoi et des flux d'information nécessaires.
+levels:
+  - title: Architecte métier en formation
+    responsibilities:
+      - Apprendre les méthodes d'architecture métier, comme la modélisation des capacités, des chaînes de valeur et des processus, par la formation et la pratique.
+      - Recueillir des informations sur les services et les parcours de soins par des entretiens, des documents et l'observation.
+      - Rédiger des cartes de capacités et des modèles de processus avec l'accompagnement des architectes métier.
+      - Aider à animer des ateliers avec les cliniciens, le personnel soignant et les responsables, et en rédiger les résultats.
+    qualifications:
+      - Une licence ou une expérience équivalente en gestion, en analyse ou dans une discipline voisine.
+      - Une formation spécialisée aux méthodes d'architecture métier, de niveau diplôme de troisième cycle ou une expérience équivalente.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 5), car les annonces du secteur de la santé situent ce rôle en bande 6. Les connaissances sont cotées au niveau requis par l'emploi une fois la formation suffisamment avancée pour faire le travail.
+  - title: Architecte métier adjoint
+    responsibilities:
+      - Modéliser les capacités, les services et les parcours de soins d'une partie de l'organisation.
+      - Analyser les modèles pour repérer les lacunes, les doublons et les points de friction pour les patients et le personnel.
+      - Rassembler les informations de différentes équipes et organisations pour éclairer les décisions de changement.
+      - Expliquer des problèmes de service complexes aux parties prenantes avec des modèles clairs et un langage simple.
+      - Tenir le référentiel d'architecture métier exact et relié aux modèles d'applications et de données.
+    qualifications:
+      - Des connaissances spécialisées en architecture métier ou en analyse métier, de niveau master ou une expérience équivalente.
+      - Une expérience de l'analyse métier ou du design de services.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 6), car les annonces du secteur de la santé situent ce rôle en bande 7. Les connaissances sont cotées au niveau master ou équivalent, car l'emploi modélise et analyse des services et des parcours de soins entre équipes et organisations.
+  - title: Architecte métier
+    responsibilities:
+      - Élaborer les architectures métier actuelles et cibles d'un domaine de service important, comme les soins urgents ou les services de proximité.
+      - Traduire la stratégie et les politiques en changements de capacités et en feuille de route de transformation.
+      - Vérifier que le périmètre des programmes et des projets s'inscrit dans l'architecture métier cible.
+      - Travailler avec les responsables cliniques pour évaluer l'effet des changements proposés sur les parcours de soins, la sécurité et la charge de travail du personnel.
+      - Orienter les autres architectes métier sur les méthodes et les outils.
+    qualifications:
+      - Une expérience significative de l'architecture métier, de l'analyse métier ou du design de services, d'un niveau équivalent à un master.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 7), car les annonces du secteur de la santé situent ce rôle en bande 8a. La planification, les politiques et la liberté d'action sont cotées au-dessus du profil de la bande 7, car l'emploi traduit la stratégie en feuille de route de transformation pour un domaine de service important.
+  - title: Architecte métier référent
+    responsibilities:
+      - Diriger la pratique d'architecture métier et rendre compte de ses résultats.
+      - Tenir la vision d'ensemble des capacités, des services et des parcours de soins de l'organisation, et la rendre facile à comprendre.
+      - Conseiller les directeurs sur les priorités de changement et l'adéquation des portefeuilles d'investissement à la stratégie.
+      - Travailler avec les organisations partenaires pour convenir des capacités et des responsabilités partagées le long des parcours de soins.
+      - Diriger et faire progresser les architectes métier.
+    qualifications:
+      - Une solide expérience de la direction de l'architecture métier dans une organisation complexe.

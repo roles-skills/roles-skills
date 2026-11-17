@@ -1,0 +1,62 @@
+summary: Os profissionais de engenharia de computação para o usuário final fornecem, apoiam e mantêm os dispositivos e os softwares que as equipes usam todos os dias, como notebooks, computadores de mesa, tablets, celulares, impressoras e as estações de trabalho compartilhadas nas enfermarias e nas clínicas. Corrigem falhas no local e remotamente, implantam e atualizam dispositivos e os mantêm seguros e em conformidade. Seu trabalho permite que clínicos e equipes de cuidados vejam e registrem informações dos pacientes no ponto de cuidado.
+health_context:
+- Muitos dispositivos são compartilhados por equipes clínicas em enfermarias, clínicas e pronto-socorros, muitas vezes com troca rápida de usuário e login por cartão inteligente ou aproximação.
+- Um dispositivo quebrado em uma área clínica pode atrasar o cuidado, por isso as pessoas engenheiras priorizam essas falhas e mantêm dispositivos reserva prontos para troca.
+- Trabalham em áreas clínicas, por isso seguem as regras de prevenção e controle de infecções, respeitam a privacidade e a dignidade dos pacientes e adaptam seu trabalho à atividade clínica.
+- Os dispositivos guardam ou exibem informações confidenciais de pacientes, por isso devem ser criptografados, atualizados, gerenciados e apagados ou destruídos com segurança no fim da vida útil.
+- Alguns periféricos apoiam processos clínicos ou se conectam a equipamentos clínicos, como impressoras de pulseiras e de etiquetas, leitores de código de barras e dispositivos de ditado, por isso alterações neles exigem cuidado e testes.
+levels:
+- title: Profissional de engenharia de computação para o usuário final associado
+  responsibilities:
+  - Configurar, substituir e reparar dispositivos e periféricos sob a orientação de profissionais de engenharia experientes.
+  - Corrigir falhas comuns em áreas clínicas e de escritório, como problemas de impressoras, leitores e login.
+  - Seguir as regras de prevenção e controle de infecções e respeitar a privacidade dos pacientes ao trabalhar em enfermarias e clínicas.
+  - Registrar com exatidão o trabalho, os ativos e as peças na ferramenta de gestão de serviços.
+  - Trabalhar rumo a uma aprendizagem profissional em suporte de TI ou a uma qualificação equivalente.
+  qualifications:
+  - Matriculado em uma aprendizagem profissional em suporte de TI ou equivalente, ou trabalhando para isso.
+  job_evaluation_notes: O esforço físico reflete o esforço leve frequente, como carregar dispositivos e trabalhar sob mesas e em espaços confinados. Os conhecimentos são pontuados no nível que a função exige depois que o treinamento é suficiente para realizar o trabalho.
+- title: Profissional de engenharia de computação para o usuário final
+  responsibilities:
+  - Diagnosticar e corrigir falhas de hardware e de software no local e remotamente, buscando resolvê-las na primeira visita.
+  - Responder rapidamente a falhas em áreas clínicas e fornecer um dispositivo de substituição quando um reparo atrasaria o cuidado.
+  - Montar, implantar e atualizar dispositivos usando as imagens padrão e as ferramentas de gestão de dispositivos da organização.
+  - Manter os dispositivos atualizados, criptografados e em conformidade e apagá-los ou descartá-los com segurança no fim da vida útil.
+  - Configurar e testar periféricos clínicos, como impressoras de pulseiras, impressoras de etiquetas e leitores de código de barras.
+  - Orientar profissionais de engenharia associados e compartilhar correções por meio de artigos de conhecimento.
+  qualifications:
+  - Qualificação de nível 3 ou superior em TI, aprendizagem profissional concluída ou experiência equivalente.
+  - Experiência no suporte a dispositivos de usuário final.
+  job_evaluation_notes: O esforço físico reflete o esforço leve frequente ao movimentar e instalar dispositivos em vários locais.
+- title: Profissional de engenharia de computação para o usuário final sênior
+  responsibilities:
+  - Liderar uma equipe de profissionais de engenharia no dia a dia, priorizando o trabalho pelo seu efeito no cuidado dos pacientes e nas equipes.
+  - Planejar e conduzir implantações e renovações de dispositivos para enfermarias, clínicas e equipes na comunidade, com o mínimo de perturbação ao cuidado.
+  - Testar as imagens e as atualizações dos dispositivos com aplicações e periféricos clínicos antes da implantação.
+  - Garantir que os dispositivos cumpram os padrões de segurança, incluindo níveis de atualização, criptografia e proteção de endpoints.
+  - Apoiar as entradas em operação de sistemas clínicos com presença nas áreas e correções rápidas de dispositivos.
+  - Trabalhar com as equipes de infraestrutura, de aplicações e de segurança para corrigir falhas complexas e recorrentes.
+  qualifications:
+  - Experiência substancial no suporte e na gestão de dispositivos de usuário final, em nível equivalente ao de graduação.
+  job_evaluation_notes: A responsabilidade por pessoas reflete a gestão diária de uma equipe de profissionais de engenharia; o esforço físico reflete algum trabalho presencial contínuo.
+- title: Profissional de engenharia de computação para o usuário final líder
+  responsibilities:
+  - Definir os padrões dos dispositivos, das imagens e dos softwares de usuário final da organização, incluindo as estações de trabalho clínicas compartilhadas.
+  - Gerir os fornecedores de dispositivos, reparos e serviços de usuário final e exigir deles os níveis de serviço acordados.
+  - Trabalhar com profissionais de arquitetura técnica para escolher e testar novos tipos de dispositivo, como dispositivos móveis para equipes de enfermaria e da comunidade.
+  - Liderar a resposta técnica a incidentes de computação para o usuário final, como uma atualização com falha que afete as estações de trabalho clínicas.
+  - Planejar o ciclo de vida e a capacidade dos dispositivos e aconselhar sobre os custos de renovação.
+  - Liderar e desenvolver profissionais de engenharia sêniores.
+  qualifications:
+  - Ampla experiência em computação para o usuário final, incluindo a gestão de fornecedores.
+- title: Profissional de engenharia de computação para o usuário final principal
+  responsibilities:
+  - Ser responsável pela estratégia e pelo roteiro de computação para o usuário final, incluindo como as equipes acessarão os sistemas clínicos em hospitais, clínicas, casas dos pacientes e na comunidade.
+  - Garantir que o parque de dispositivos apoie o acesso seguro e rápido às informações dos pacientes no ponto de cuidado.
+  - Aconselhar a liderança sênior sobre investimento em dispositivos, riscos e custos de renovações e de novas tecnologias.
+  - Liderar a resposta a riscos de dispositivos em todo o parque, como sistemas operacionais que chegam ao fim do suporte e a resiliência contra ransomware.
+  - Liderar o dimensionamento, o aprendizado e o desenvolvimento das equipes de computação para o usuário final.
+  - Trabalhar com parceiros de saúde e de cuidados em padrões compartilhados de dispositivos e de acesso.
+  qualifications:
+  - Ampla experiência na liderança da computação para o usuário final em uma organização grande e com vários locais.
+  job_evaluation_notes: O UK GDaD PCF sugere a Faixa 8c para este nível (G6). Esta referência o coloca na Faixa 8b, em linha com as funções principais de outras famílias técnicas, porque seu escopo é uma área técnica, e não uma diretoria.

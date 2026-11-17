@@ -1,0 +1,71 @@
+# Tradução para o português de data/skills/product-design.yaml. As chaves são os códigos das competências em inglês.
+pd-health-research-ethics:
+  name: Pesquisa ética com pacientes e equipes de cuidados
+  description: Planejar e conduzir pesquisas com pacientes, cuidadores, profissionais clínicos e equipes de cuidados de forma segura e ética, incluindo consentimento informado, proteção de pessoas vulneráveis, pesquisa com pessoas em situação de vulnerabilidade e saber quando é necessária uma aprovação ética formal.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar por que a pesquisa com pacientes e equipes de cuidados exige consentimento informado, proteção de pessoas vulneráveis e cuidado com os dados pessoais
+      - seguir os procedimentos da equipe de consentimento, proteção e tratamento de dados nas sessões de pesquisa
+    working: |
+      Você pode:
+      - planejar sessões de pesquisa que obtenham consentimento informado e protejam o bem-estar e a privacidade dos participantes
+      - adaptar as sessões para pessoas doentes, aflitas ou em situação de vulnerabilidade e saber quando interromper
+      - reconhecer e comunicar preocupações de proteção que surjam durante a pesquisa
+    practitioner: |
+      Você pode:
+      - julgar quando a pesquisa exige aprovação ética formal ou de governança de pesquisa e preparar o que ela pede
+      - planejar pesquisas seguras com pessoas em situação de vulnerabilidade, como crianças, pessoas com demência e pessoas em crise
+      - planejar pesquisas em ambientes clínicos sem perturbar o cuidado, trabalhando com lideranças clínicas e equipes de cuidados
+      - apoiar os pesquisadores a cuidar do próprio bem-estar após sessões aflitivas
+    expert: |
+      Você pode:
+      - definir os padrões da organização para a pesquisa ética com pacientes, cuidadores e equipes de cuidados
+      - dar garantia às práticas de pesquisa entre as equipes e aconselhar sobre pesquisas de alto risco
+      - representar as práticas de pesquisa perante órgãos de ética, de proteção e de governança
+pd-safety-critical-design:
+  name: Projeto para a segurança clínica e os fatores humanos
+  description: Projetar serviços, interfaces e fluxos de trabalho que ajudem profissionais clínicos, equipes de cuidados e pacientes a agir com segurança, aplicando princípios de fatores humanos e trabalhando com o processo de gestão de riscos clínicos.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar como escolhas de projeto podem causar ou evitar erros no cuidado, como erros de paciente ou de dose
+      - usar os padrões da organização para informações críticas à segurança, como faixas de identificação do paciente e alertas de alergia
+    working: |
+      Você pode:
+      - projetar interfaces em que a ação segura seja a ação fácil, por exemplo reduzindo rótulos ambíguos e alertas desnecessários
+      - testar projetos em cenários clínicos realistas, incluindo interrupções e pressão de tempo
+      - levar ao responsável pela segurança clínica os perigos relacionados ao projeto e registrar como os projetos os controlam
+    practitioner: |
+      Você pode:
+      - aplicar métodos de fatores humanos, como a análise de tarefas e a análise de erros de uso, a fluxos de trabalho clínicos complexos
+      - projetar para reduzir a fadiga de alertas e a carga cognitiva em todo um serviço
+      - fornecer evidências de projeto para dossiês de segurança clínica e evidências de usabilidade para software regulamentado
+    expert: |
+      Você pode:
+      - definir os padrões e os modelos da organização para o projeto crítico à segurança
+      - liderar o trabalho de fatores humanos nos serviços clínicos de maior risco
+      - aconselhar lideranças de segurança clínica e de produto sobre os riscos de projeto em todo o portfólio
+pd-health-content:
+  name: Conteúdo de informação em saúde
+  description: Criar conteúdo de saúde e de cuidados que seja exato, clinicamente validado e fácil de entender e de aplicar por pessoas com diferentes níveis de letramento em saúde.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar por que a informação em saúde deve ser exata, atual e fácil de entender
+      - seguir o guia de estilo da equipe e o processo de revisão clínica do conteúdo de saúde
+    working: |
+      Você pode:
+      - escrever conteúdo de saúde que pessoas com baixo letramento em saúde consigam entender e aplicar, como sintomas e quando buscar ajuda
+      - trabalhar com revisores clínicos para verificar a exatidão do conteúdo sem perder a clareza
+      - explicar termos médicos em linguagem simples e usar nomes consistentes para doenças, exames e tratamentos
+    practitioner: |
+      Você pode:
+      - projetar conteúdo para temas sensíveis e de alto risco, como sintomas urgentes, medicamentos e cuidados no fim da vida
+      - estabelecer a validação clínica, as datas de revisão e as fontes de evidência de um conjunto de conteúdo de saúde
+      - equilibrar precisão clínica, exigências legais e compreensão do usuário em conteúdos controversos
+    expert: |
+      Você pode:
+      - definir os padrões da organização para o conteúdo de informação em saúde e sua validação clínica
+      - liderar a estratégia de conteúdo de informação em saúde em serviços e canais
+      - aconselhar lideranças clínicas e de comunicação sêniores sobre os riscos da informação em saúde

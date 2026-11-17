@@ -1,0 +1,58 @@
+summary: >
+  Les architectes techniques conçoivent la structure technique des services de santé numérique de l'organisation, c'est-à-dire les composants, les plateformes, l'hébergement, les modèles d'intégration et les qualités non fonctionnelles comme la sécurité, la performance et la résilience. Ils travaillent étroitement avec les développeurs et les ingénieurs DevOps, assurent le leadership technique des équipes de livraison et veillent à ce que les services soient construits pour durer et sûrs à exploiter.
+health_context:
+  - Les services cliniques ont souvent besoin d'une haute disponibilité et d'une reprise rapide, c'est pourquoi les conceptions techniques doivent prévoir les défaillances et le fonctionnement en mode dégradé.
+  - Les conceptions doivent protéger par défaut les informations de santé confidentielles par le chiffrement, le contrôle d'accès et la traçabilité.
+  - Les services se connectent à de nombreux systèmes cliniques et plateformes partagées, souvent par des API HL7 FHIR et la messagerie, c'est pourquoi les modèles d'intégration sont au cœur de la conception.
+  - Les choix de conception technique, comme le cache, les nouvelles tentatives et la gestion des heures, peuvent créer des dangers cliniques, c'est pourquoi les architectes contribuent aux dossiers de sécurité.
+  - Les systèmes cliniques anciens et les dispositifs médicaux peuvent contraindre les choix de technologie, de réseau et d'hébergement.
+levels:
+  - title: Architecte technique adjoint
+    responsibilities:
+      - Dessiner des schémas techniques et documenter les composants, l'hébergement et les intégrations des services existants.
+      - Étudier des options technologiques et en résumer les avantages et les inconvénients, avec un accompagnement.
+      - Travailler avec les développeurs pour vérifier que les réalisations suivent les conceptions et les modèles convenus.
+      - Consigner les décisions techniques et tenir à jour les documents de conception.
+    qualifications:
+      - Une licence en informatique ou dans une discipline voisine, ou une expérience équivalente en ingénierie logicielle ou d'infrastructure.
+      - Des connaissances spécialisées en conception technique, de niveau diplôme de troisième cycle ou une expérience équivalente.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 5), car les annonces du secteur de la santé situent ce rôle en bande 6. Les connaissances sont cotées au niveau diplôme de troisième cycle, et les ressources d'information au niveau 5, car l'emploi conçoit des parties de systèmes d'information importants.
+  - title: Architecte technique
+    responsibilities:
+      - Concevoir l'architecture technique d'un service, y compris les composants, l'hébergement, l'intégration et la sécurité.
+      - Fournir des modèles de conception aux équipes de livraison et relire leurs conceptions techniques et la structure de leur code.
+      - Définir avec les propriétaires de service les exigences non fonctionnelles, comme les objectifs de disponibilité, de performance et de reprise.
+      - Repérer la dette technique et les technologies non maintenues, et planifier leur correction.
+      - Identifier les dangers techniques et leurs mesures de maîtrise pour le dossier de sécurité clinique.
+    qualifications:
+      - Des connaissances spécialisées en architecture technique, de niveau master ou une expérience équivalente.
+      - Une expérience de la conception ou du développement de logiciels ou d'infrastructures en production.
+    job_evaluation_notes: Placé en bande 7, comme le propose le grade du UK GDaD PCF, en accord avec les annonces du secteur de la santé pour ce rôle. Les connaissances sont cotées au niveau master ou équivalent pour la connaissance spécialisée de toute l'architecture technique.
+  - title: Architecte technique senior
+    responsibilities:
+      - Diriger la conception technique de services importants, complexes ou à haut risque, comme les systèmes cliniques et les plateformes d'intégration partagées.
+      - Fixer l'orientation technique d'une ou de plusieurs équipes de livraison et remettre en cause les conceptions qui ajoutent du risque.
+      - Concevoir pour la résilience, la reprise après sinistre et une exploitation sûre, et vérifier que les équipes les testent.
+      - Expliquer en langage clair les risques et les compromis techniques aux propriétaires de service, aux responsables cliniques et aux parties prenantes de haut niveau.
+      - Accompagner les architectes techniques et les développeurs seniors.
+    qualifications:
+      - Une expérience significative de la conception technique de services complexes, d'un niveau équivalent à un master.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 7), car les annonces du secteur de la santé situent ce rôle en bande 8a. La planification, les politiques et la liberté d'action sont cotées au-dessus du profil de la bande 7, car l'emploi fixe l'orientation technique de plusieurs équipes avec peu de supervision.
+  - title: Architecte technique référent
+    responsibilities:
+      - Diriger l'architecture technique de plusieurs services ou équipes, en fixant des modèles et des normes communs.
+      - Garantir en autorité de conception la qualité technique des conceptions, y compris la sécurité, la résilience et l'interopérabilité.
+      - Façonner la feuille de route technologique de l'organisation avec les architectes d'entreprise et les responsables de l'ingénierie.
+      - Conseiller la direction sur les choix technologiques, l'investissement dans les plateformes et le risque technique.
+      - Diriger et faire progresser les architectes techniques.
+    qualifications:
+      - Une solide expérience de la direction de l'architecture technique de services complexes.
+  - title: Architecte technique principal
+    responsibilities:
+      - Fixer la stratégie, les principes et les normes d'architecture technique de l'organisation.
+      - Gouverner la conception technique dans toute l'organisation, y compris l'autorité de conception technique.
+      - Conseiller l'équipe de direction sur les grandes décisions technologiques, comme la stratégie d'hébergement et la consolidation des plateformes.
+      - Représenter l'organisation dans les communautés techniques et de normalisation interorganisations.
+      - Inspirer et faire progresser les architectes de toute l'organisation.
+    qualifications:
+      - Une solide expérience de la direction de l'architecture technique dans plusieurs équipes ou organisations.

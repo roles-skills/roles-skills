@@ -1,0 +1,52 @@
+summary: Os analistas de desempenho medem como os serviços de saúde digital da organização funcionam para pacientes, usuários dos serviços, profissionais clínicos e equipes de cuidados. Estabelecem estruturas de mensuração, coletam e analisam dados de uso e de resultados e ajudam as equipes de produto e as lideranças dos serviços a entender se as mudanças melhoram o acesso, a experiência, a segurança e a eficiência.
+health_context:
+- As medidas de sucesso vão além da adesão ao digital e incluem os efeitos no cuidado, como consultas perdidas, tempos de espera, triagem segura e tempo das equipes liberado.
+- A análise e o rastreamento em serviços de saúde podem revelar informações sensíveis, como a doença que uma pessoa pesquisou, por isso a mensuração deve respeitar o consentimento, as regras de cookies e a confidencialidade.
+- Os serviços digitais não devem ampliar as desigualdades em saúde, por isso os analistas examinam a adesão e os resultados de grupos com menor probabilidade de usar serviços digitais.
+- Os dados de desempenho podem ser reportados a conselhos, contratantes e reguladores, por isso as definições devem ser consistentes e bem documentadas.
+levels:
+- title: Analista de desempenho associado
+  responsibilities:
+  - Produzir relatórios periódicos sobre como pacientes e equipes usam os serviços digitais, como cadastros, conclusões e pontos de abandono.
+  - Verificar lacunas e erros nos dados de análise e rastreamento e comunicá-los à equipe.
+  - Seguir as regras da organização sobre consentimento e confidencialidade ao coletar e compartilhar dados de uso.
+  - Ajudar as equipes de produto a responder a perguntas simples sobre o uso dos serviços.
+  qualifications:
+  - Boa habilidade com números e alguma experiência no tratamento ou na análise de dados, ou equivalente.
+- title: Analista de desempenho
+  responsibilities:
+  - Acordar com as equipes de produto e as lideranças clínicas como é o sucesso de um serviço, incluindo os efeitos no cuidado e nas equipes.
+  - Configurar e validar a análise de dados, para que o rastreamento seja exato, proporcional e respeite o consentimento.
+  - Combinar a análise digital com dados operacionais, como consultas e encaminhamentos, para mostrar o efeito das mudanças.
+  - Analisar a adesão e os resultados de diferentes grupos de pacientes e destacar os riscos de exclusão digital.
+  - Apresentar os achados às equipes de produto e às lideranças dos serviços e recomendar melhorias.
+  qualifications:
+  - Graduação em área quantitativa ou experiência equivalente.
+  - Experiência na mensuração do desempenho de serviços digitais.
+- title: Analista de desempenho sênior
+  responsibilities:
+  - Liderar a mensuração de desempenho de um grupo de serviços ou de um grande programa, como ambulatórios digitais ou triagem online.
+  - Projetar medidas de benefícios com lideranças clínicas, financeiras e operacionais e acompanhá-las ao longo da entrega.
+  - Escolher e configurar ferramentas de análise que atendam aos requisitos de governança da informação e de segurança.
+  - Apresentar evidências de desempenho a comitês de programa e à liderança sênior.
+  - Orientar analistas e, se for o caso, chefiar um ou mais analistas de desempenho.
+  qualifications:
+  - Experiência substancial em análise de desempenho de serviços digitais, em nível equivalente ao de mestrado.
+- title: Analista de desempenho líder
+  responsibilities:
+  - Liderar uma equipe de analistas de desempenho em um portfólio de serviços de saúde digital.
+  - Acordar definições consistentes para as principais medidas de desempenho, para que os relatórios a conselhos e parceiros possam ser comparados ao longo do tempo.
+  - Garantir que os dados de análise sejam exatos, usados de forma adequada e tratados conforme as regras de governança da informação.
+  - Usar evidências de desempenho para influenciar as prioridades e os investimentos do portfólio.
+  - Orientar e acompanhar analistas de todos os níveis.
+  qualifications:
+  - Ampla experiência em análise de desempenho e na liderança de analistas.
+- title: Chefia de análise de desempenho
+  responsibilities:
+  - Definir a estratégia de mensuração do desempenho e dos benefícios dos serviços digitais da organização.
+  - Definir a estrutura de garantia da qualidade da análise e dos relatórios de desempenho.
+  - Aconselhar lideranças executivas sobre o que as evidências de desempenho mostram sobre os serviços digitais e os resultados para os pacientes.
+  - Trabalhar com outras profissões analíticas, como análise de dados e ciência de dados, para compartilhar métodos e dados.
+  - Planejar a capacidade da comunidade de análise de desempenho, incluindo recrutamento e desenvolvimento.
+  qualifications:
+  - Ampla experiência na liderança da análise de desempenho em uma organização.

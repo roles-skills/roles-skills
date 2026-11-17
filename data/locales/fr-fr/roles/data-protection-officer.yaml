@@ -1,0 +1,46 @@
+summary: >
+  Le délégué à la protection des données (DPO) contrôle de façon indépendante le respect par l'organisation du droit de la protection des données, la conseille sur ses obligations et est le point de contact du régulateur et des personnes dont elle détient les données. Dans une organisation de santé numérique, le DPO donne des conseils experts sur l'usage licite, loyal et transparent des données de santé dans les produits, l'analyse, la recherche et le partage de données.
+health_context:
+  - Le droit de la protection des données donne au DPO une position protégée et indépendante, rattachée au plus haut niveau de la direction, c'est pourquoi le rôle doit être exempt de conflits d'intérêts.
+  - Le droit de la protection des données accorde une protection renforcée aux données de santé, dont une grande partie relève aussi d'un devoir de confidentialité, c'est pourquoi le DPO conseille sur les deux.
+  - Le traitement à grande échelle de données de santé, le chaînage de données et l'IA demandent souvent des analyses d'impact relatives à la protection des données et, parfois, une consultation préalable du régulateur.
+  - Les patients et le public attendent de la transparence, c'est pourquoi le DPO aide l'organisation à expliquer clairement comment elle utilise leurs données.
+levels:
+  - title: Délégué adjoint à la protection des données
+    summary: Soutient le DPO dans le contrôle de la conformité et le conseil, dirige les dossiers complexes et remplace le DPO.
+    responsibilities:
+      - Conseiller les équipes sur le droit de la protection des données, y compris la base légale, la transparence et les droits des personnes.
+      - Examiner les analyses d'impact relatives à la protection des données à haut risque et préparer l'avis du DPO.
+      - Contrôler la conformité par des audits, des contrôles ponctuels et l'examen des registres des activités de traitement.
+      - Diriger l'enquête sur les violations de données graves et préparer les notifications au régulateur.
+      - Traiter les plaintes et les demandes complexes des personnes au sujet de leurs données.
+      - Remplacer le DPO auprès de la direction et du régulateur.
+    qualifications:
+      - Une qualification professionnelle reconnue en protection des données, ou une expérience équivalente.
+      - Une expérience significative de la protection des données en santé ou en soins.
+  - title: Délégué à la protection des données
+    summary: Le délégué à la protection des données désigné par l'organisation, qui contrôle de façon indépendante la conformité, conseille la direction et le conseil d'administration et sert de point de contact au régulateur et au public.
+    responsibilities:
+      - Contrôler de façon indépendante le respect par l'organisation du droit de la protection des données et de ses propres politiques.
+      - Conseiller le conseil d'administration, la direction et les équipes sur leurs obligations en matière de protection des données.
+      - Donner un avis formel sur les analyses d'impact relatives à la protection des données à haut risque, et décider quand consulter le régulateur.
+      - Être le point de contact du régulateur et des personnes dont l'organisation détient les données.
+      - Superviser les décisions de notification des violations et la réponse de l'organisation aux demandes du régulateur.
+      - Rendre compte au conseil d'administration et à ses comités de la conformité et des risques en matière de protection des données.
+    qualifications:
+      - Une qualification professionnelle reconnue en protection des données, ou une expérience équivalente.
+      - Une solide expérience du droit et de la pratique de la protection des données, y compris en santé ou en soins.
+    job_evaluation_notes: La liberté d'action est cotée au niveau 6, car le droit de la protection des données exige que le DPO agisse de façon indépendante et interprète la loi et la politique sans instructions.
+  - title: Délégué principal à la protection des données
+    summary: Le délégué à la protection des données d'une grande organisation ou d'un groupe d'organisations qui partagent un DPO, qui dirige la fonction de protection des données et fixe ses normes.
+    responsibilities:
+      - Exercer la fonction de DPO désigné d'une grande organisation ou d'un groupe d'organisations de soins.
+      - Diriger la fonction de protection des données, son personnel et son programme de travail.
+      - Fixer le cadre et les normes de protection des données de toute l'organisation ou de tout le groupe.
+      - Donner l'avis final sur les traitements les plus risqués, comme le chaînage de données à grande échelle et l'IA.
+      - Diriger les échanges avec le régulateur, les partenaires et les associations de patients et d'usagers sur l'usage des données.
+      - Rendre compte au conseil d'administration des risques, de la conformité et de la confiance du public en matière de protection des données.
+    qualifications:
+      - Une qualification professionnelle reconnue en protection des données, ou une expérience équivalente.
+      - Une solide expérience de délégué à la protection des données dans une organisation importante ou complexe.
+    job_evaluation_notes: Les ressources d'information sont cotées au niveau 6, car l'emploi supervise le traitement des données personnelles dans toute l'organisation ou tout le groupe.

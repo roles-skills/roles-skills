@@ -1,0 +1,40 @@
+summary: >
+  Arsitek jaringan merancang jaringan lokal, area luas, nirkabel, dan komputasi awan yang menghubungkan lokasi, staf, sistem klinis, dan alat kesihatan organisasi. Mereka memastikan jaringan cukup cepat, tangguh, dan aman untuk perawatan yang tidak pernah berhenti, dan merencanakan bagaimana jaringan berubah ketika layanan berpindah ke komputasi awan dan terhubung dengan organisasi mitra.
+health_context:
+  - Sistem klinis, telepon, dan alat kesihatan bergantung pada jaringan, sehingga gangguan dapat menghentikan perawatan; desain memerlukan ketahanan dan pengalihan yang teruji.
+  - Jaringan sering membawa alat kesihatan terhubung yang sulit ditambal, sehingga arsitek merancang segmentasi dan pemantauan untuk melindunginya.
+  - Staf bekerja di hospital, klinik, lingkungan komunitas, dan rumah pesakit, sehingga desain harus mendukung akses seluler dan jarak jauh yang aman.
+  - Jaringan terhubung ke jaringan kesihatan dan perawatan bersama serta organisasi mitra, yang menetapkan persyaratan sambungan dan keamanannya sendiri.
+  - Perubahan pada area klinis memerlukan perencanaan yang cermat di sekitar perawatan pesakit, misalnya menjadwalkan pekerjaan di luar periode sibuk.
+levels:
+  - title: Arsitek jaringan asosiat
+    responsibilities:
+      - Menyusun draf desain jaringan, diagram, dan spesifikasi dengan bimbingan arsitek jaringan.
+      - Mensurvei lokasi dan mengumpulkan persyaratan untuk area klinis, termasuk cakupan nirkabel dan sambungan perangkat.
+      - Menjaga catatan topologi jaringan, pengalamatan, dan perangkat terhubung tetap mutakhir.
+      - Memeriksa bahwa desain memenuhi kadar layanan dan standar keamanan sebelum ditinjau.
+    qualifications:
+      - Gelar di bidang komputasi atau jaringan, kualifikasi jaringan yang diakui, atau pengalaman yang setara.
+      - Pengetahuan spesialis tentang desain jaringan, pada kadar diploma pascasarjana atau pengalaman yang setara.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 5); iklan sektor kesihatan menempatkan peran ini di Pita 6. Pengetahuan dinilai pada kadar diploma pascasarjana, dan sumber daya informasi pada kadar 5 kerana pekerjaan ini merancang bagian jaringan yang menjadi tumpuan sistem informasi besar.
+  - title: Arsitek jaringan
+    responsibilities:
+      - Merancang solusi jaringan lokal, area luas, nirkabel, dan komputasi awan untuk lokasi dan layanan.
+      - Merancang segmentasi jaringan untuk alat kesihatan, sistem klinis, dan akses tamu.
+      - Merencanakan perubahan jaringan di area klinis bersama pimpinan layanan agar perawatan tidak terganggu.
+      - Menyepakati kadar layanan dengan pemasok dan persyaratan sambungan dengan jaringan mitra.
+      - Menilai teknologi jaringan baru dan kesesuaiannya dengan standar keamanan organisasi.
+    qualifications:
+      - Pengetahuan spesialis tentang arsitektur jaringan, pada kadar magister atau pengalaman yang setara.
+      - Pengalaman merancang dan mendukung jaringan enterprise.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 6); iklan sektor kesihatan menempatkan peran ini di Pita 7. Pengetahuan dinilai pada kadar magister atau yang setara untuk pengetahuan spesialis di jaringan lokal, area luas, nirkabel, dan komputasi awan.
+  - title: Arsitek jaringan pimpinan
+    responsibilities:
+      - Memiliki arsitektur jaringan organisasi, termasuk lokasi, pusat data, dan sambungan komputasi awannya.
+      - Menetapkan standar desain jaringan dan menjamin desain di otoritas desain.
+      - Merancang ketahanan dan pemulihan jaringan untuk layanan klinis yang kritis, dan memastikannya diuji.
+      - Menasihati tentang investasi jaringan, kontrak pemasok, dan risiko jaringan dari layanan baru.
+      - Bertindak sebagai titik eskalasi pakar dan memandu arsitek serta insinyur jaringan lain.
+    qualifications:
+      - Pengalaman yang substansial dalam arsitektur jaringan untuk organisasi yang kompleks, pada kadar yang setara dengan gelar magister.
+    job_evaluation_notes: Ditempatkan di atas saran golongan UK GDaD PCF (Pita 7); iklan sektor kesihatan menempatkan peran ini di Pita 8a. Sumber daya informasi berada di kadar 6 kerana pekerjaan ini memiliki arsitektur jaringan yang menjadi tumpuan semua sistem informasi organisasi.

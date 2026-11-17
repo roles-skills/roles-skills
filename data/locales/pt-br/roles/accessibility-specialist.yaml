@@ -1,0 +1,43 @@
+summary: Os especialistas em acessibilidade ajudam a organização a tornar seus serviços de saúde digital utilizáveis pelo maior número possível de pessoas, incluindo pessoas com deficiência e com condições de longa duração. Testam os serviços em relação às normas de acessibilidade e com tecnologias assistivas, orientam e treinam as equipes e ajudam a incorporar a acessibilidade ao modo como serviços, sistemas clínicos e informações de saúde são projetados, adquiridos e construídos.
+health_context:
+- Muitas das pessoas que mais precisam de serviços de saúde e de cuidados têm deficiência, são idosas ou convivem com condições de longa duração, por isso serviços inacessíveis podem impedir que as pessoas recebam cuidado.
+- Clínicos e equipes de cuidados também têm necessidades de acesso, por isso os sistemas clínicos internos, inclusive os adquiridos de fornecedores, também devem ser acessíveis.
+- As informações de saúde costumam ser complexas e publicadas em muitos formatos, como documentos, cartas e vídeo, por isso os especialistas ajudam as equipes a tornar tudo acessível, incluindo leitura fácil e formatos alternativos.
+- Problemas de acessibilidade em fluxos de trabalho clínicos podem se tornar problemas de segurança, por exemplo quando um aviso não é anunciado por um leitor de tela, por isso os especialistas trabalham com os responsáveis pela segurança clínica nesses riscos.
+levels:
+- title: Especialista em acessibilidade júnior
+  responsibilities:
+  - Testar páginas web, aplicativos e documentos em relação às normas de acessibilidade, sob supervisão.
+  - Registrar e explicar com clareza os problemas de acessibilidade para que as equipes possam corrigi-los.
+  - Ajudar nos testes com tecnologias assistivas, como leitores de tela e ampliadores.
+  - Ajudar a manter atualizadas as declarações de acessibilidade e os registros de problemas.
+  qualifications:
+  - Alguma experiência em testes, design ou desenvolvimento digital, ou experiência equivalente.
+- title: Especialista em acessibilidade
+  responsibilities:
+  - Realizar auditorias de acessibilidade de serviços voltados a pacientes, sistemas clínicos e informações de saúde.
+  - Testar com uma variedade de tecnologias assistivas e apoiar a pesquisa com usuários com deficiência.
+  - Orientar as equipes sobre correções e sobre padrões acessíveis para formulários, alertas e informações críticas à segurança.
+  - Revisar a acessibilidade de produtos de fornecedores durante a contratação e a aceitação.
+  - Criar treinamentos e orientações e acompanhar colegas mais juniores.
+  qualifications:
+  - Experiência em testes de acessibilidade e nas normas de acessibilidade vigentes, ou experiência equivalente.
+- title: Especialista em acessibilidade sênior
+  responsibilities:
+  - Incorporar a acessibilidade às formas de trabalho das equipes, da descoberta ao serviço em operação.
+  - Contribuir para a estratégia de acessibilidade, incluindo como a acessibilidade é garantida nas contratações e nas avaliações de serviço.
+  - Trabalhar com os responsáveis pela segurança clínica quando problemas de acessibilidade puderem afetar a segurança dos pacientes.
+  - Criar e ministrar treinamentos de acessibilidade para designers, pessoas desenvolvedoras, designers de conteúdo e fornecedores.
+  - Liderar ou gerir outros especialistas em acessibilidade.
+  qualifications:
+  - Experiência substancial em acessibilidade, em nível equivalente ao de mestrado.
+- title: Chefia de acessibilidade
+  responsibilities:
+  - Definir a visão, a estratégia e os padrões de acessibilidade da organização, para serviços voltados a pacientes e internos.
+  - Dar garantia ao cumprimento da legislação e das normas de acessibilidade em todos os serviços e reportá-lo à liderança sênior.
+  - Garantir que os requisitos de acessibilidade façam parte das contratações e dos contratos com fornecedores de sistemas clínicos.
+  - Influenciar as prioridades da organização para que pacientes e equipes com deficiência não sejam excluídos.
+  - Liderar e desenvolver a equipe de acessibilidade e a comunidade de prática.
+  qualifications:
+  - Ampla experiência na liderança da acessibilidade em uma organização complexa.
+  job_evaluation_notes: Não há um nível na Faixa 8a porque o UK GDaD PCF coloca a chefia de acessibilidade em G7 ou G6 e esta referência segue a Faixa 8b sugerida.

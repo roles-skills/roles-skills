@@ -1,0 +1,28 @@
+summary: >
+  Los ingenieros de aprendizaje automático toman los modelos creados por los científicos de datos, o comprados a proveedores, y hacen que funcionen de forma fiable en los servicios de salud y asistencia en producción. Crean los flujos que entrenan, prueban, despliegan y vigilan los modelos, y los integran con los sistemas clínicos y operativos. Se aseguran de que los modelos sigan siendo seguros, protegidos, justos y eficaces cuando pacientes y personal reales dependen de ellos.
+health_context:
+  - Los modelos en uso pueden derivar a medida que cambian las poblaciones de pacientes, la práctica clínica o los hábitos de registro, por lo que su rendimiento se vigila en cada grupo de pacientes y se reentrenan o retiran cuando es necesario.
+  - Un modelo que fundamenta el diagnóstico, el triaje o el tratamiento puede estar regulado como producto sanitario, lo que conlleva requisitos formales sobre su ciclo de vida del software, el control de cambios y la vigilancia poscomercialización.
+  - Los casos de seguridad clínica necesitan evidencias sobre cómo falla un modelo, cómo se muestran sus resultados a los profesionales clínicos y qué ocurre cuando no está disponible.
+  - Los modelos entrenados con datos de pacientes pueden filtrar información sobre personas concretas, por lo que los datos de entrenamiento, los artefactos del modelo y los registros se protegen igual que los propios datos.
+  - La IA generativa y los grandes modelos de lenguaje conllevan riesgos adicionales, como contenidos inventados en las notas clínicas, que requieren pruebas específicas y supervisión humana.
+levels:
+  - title: Ingeniero de aprendizaje automático sénior
+    responsibilities:
+      - Desplegar modelos en servicios clínicos y operativos en producción, con pruebas automatizadas, versionado y reversión.
+      - Crear la vigilancia del rendimiento, la deriva y la equidad de los modelos en los distintos grupos de pacientes, con alertas y responsables claros.
+      - Integrar los modelos con los sistemas clínicos, con estándares abiertos como HL7 FHIR siempre que sea posible.
+      - Elaborar las evidencias de pruebas, cambios y vigilancia necesarias para los casos de seguridad clínica y los expedientes técnicos de productos sanitarios.
+      - Evaluar y adaptar al uso local los modelos de proveedores y de código abierto, incluidos los modelos de IA generativa.
+      - Orientar a los científicos de datos y a los ingenieros en la práctica de la ingeniería de aprendizaje automático.
+    qualifications:
+      - Experiencia sustancial en la creación y gestión de sistemas de aprendizaje automático en producción, a un nivel equivalente a un máster.
+  - title: Ingeniero de aprendizaje automático líder
+    responsibilities:
+      - Dirigir el trabajo más complejo para llevar los modelos de la investigación a un uso seguro en producción en toda la organización.
+      - Definir el ciclo de vida del aprendizaje automático, incluidos los controles necesarios para los modelos regulados y críticos para la seguridad.
+      - Fijar normas de pruebas, vigilancia, seguridad y ética de los modelos, y garantizar los modelos en uso.
+      - Trabajar con los responsables de seguridad clínica, gobernanza de la información y especialistas regulatorios para acordar cómo se evalúan y aprueban los modelos.
+      - Identificar las necesidades de formación y desarrollar a los ingenieros de aprendizaje automático y a los roles relacionados.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería de aprendizaje automático de servicios complejos o regulados.

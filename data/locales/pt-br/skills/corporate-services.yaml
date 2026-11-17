@@ -1,0 +1,260 @@
+# Tradução para o português de data/skills/corporate-services.yaml. As chaves são os códigos das competências em inglês.
+corp-administration:
+  name: Administração de escritório
+  description: Conduzir os processos administrativos que mantêm uma equipe ou um serviço funcionando, como arquivamento, pedidos, digitação de dados, registros e o cumprimento dos procedimentos de escritório.
+  levels:
+    awareness: |
+      Você pode:
+      - seguir os procedimentos de escritório para arquivamento, pedidos e digitação de dados
+      - manter registros exatos do seu próprio trabalho
+    working: |
+      Você pode:
+      - conduzir diversos processos administrativos de uma equipe com pouca supervisão
+      - identificar e corrigir erros em registros e dados
+      - sugerir formas mais simples de trabalhar
+    practitioner: |
+      Você pode:
+      - organizar o apoio administrativo de um serviço ou de uma diretoria
+      - escrever e melhorar procedimentos administrativos
+      - treinar outras pessoas da área administrativa e conferir o trabalho delas
+    expert: |
+      Você pode:
+      - projetar serviços administrativos para toda a organização
+      - liderar a transição para processos administrativos mais simples e digitais
+corp-office-software:
+  name: Ferramentas digitais de escritório
+  description: Usar com rapidez e exatidão processadores de texto, planilhas, apresentações, e-mail, documentos compartilhados e ferramentas de colaboração.
+  levels:
+    awareness: |
+      Você pode:
+      - criar e editar documentos, e-mails e planilhas simples
+      - armazenar e compartilhar arquivos no local certo
+    working: |
+      Você pode:
+      - produzir documentos e apresentações bem formatados com rapidez e exatidão
+      - usar planilhas para ordenar, filtrar e resumir dados
+      - usar ferramentas de colaboração para gerir documentos compartilhados e versões
+    practitioner: |
+      Você pode:
+      - construir modelos, painéis de acompanhamento e fluxos de trabalho automatizados simples
+      - tornar os documentos acessíveis a todas as pessoas
+      - ajudar colegas a aproveitar ao máximo as ferramentas de escritório
+    expert: |
+      Você pode:
+      - definir padrões para modelos, gestão de documentos e ferramentas de colaboração
+      - liderar a adoção de novas ferramentas de escritório em toda a organização
+corp-diary-and-meeting-management:
+  name: Gestão de agenda e de reuniões
+  description: Gerir agendas, reuniões e viagens para que o tempo das pessoas seja bem aproveitado e as reuniões contem com as pessoas, os documentos e as salas adequados.
+  levels:
+    awareness: |
+      Você pode:
+      - reservar reuniões e salas usando as ferramentas da organização
+      - enviar convites e documentos no prazo
+    working: |
+      Você pode:
+      - gerir as agendas de uma equipe, resolvendo conflitos
+      - organizar viagens, eventos e reuniões com parceiros externos
+      - garantir que os documentos e as ações estejam prontos antes das reuniões
+    practitioner: |
+      Você pode:
+      - gerir a agenda de uma liderança sênior, definindo prioridades com ela
+      - decidir o que exige o tempo dessa liderança e o que outras pessoas podem resolver
+      - planejar o ciclo anual de reuniões de um conselho ou de uma equipe de liderança
+    expert: |
+      Você pode:
+      - conduzir o ciclo de trabalho de uma equipe executiva
+      - garantir que o tempo da liderança sênior se concentre nas prioridades da organização
+corp-minute-taking:
+  name: Elaboração de atas e registros de reuniões
+  description: Registrar com exatidão e concisão discussões, decisões e ações, e manter os registros formais das reuniões.
+  levels:
+    awareness: |
+      Você pode:
+      - anotar ações e decisões nas reuniões da equipe
+    working: |
+      Você pode:
+      - redigir atas e registros de ações exatos e concisos para reuniões rotineiras
+      - acompanhar as ações com seus responsáveis
+    practitioner: |
+      Você pode:
+      - redigir atas formais de reuniões de conselhos e comitês, inclusive de discussões complexas ou controversas
+      - manter registros formais de reuniões que resistam a auditorias e inquéritos
+      - orientar presidentes de reunião sobre o que o registro deve mostrar
+    expert: |
+      Você pode:
+      - definir padrões para os registros formais de reuniões em toda a organização
+      - treinar secretários de ata e verificar a qualidade do trabalho deles
+corp-correspondence-management:
+  name: Tratamento de correspondência e de consultas
+  description: Tratar cartas, e-mails, telefonemas e consultas com presteza e cortesia e encaminhá-los à pessoa certa.
+  levels:
+    awareness: |
+      Você pode:
+      - atender telefonemas e e-mails com cortesia e anotar recados com exatidão
+      - encaminhar consultas à pessoa certa
+    working: |
+      Você pode:
+      - tratar por conta própria a correspondência e as consultas rotineiras
+      - redigir cartas e respostas para outras pessoas assinarem
+      - manter registros de correspondência e cobrar respostas
+    practitioner: |
+      Você pode:
+      - gerir a correspondência de uma liderança sênior, inclusive cartas sensíveis e de reclamação
+      - redigir respostas que exigem tato, exatidão e discernimento
+      - garantir que as respostas cumpram os prazos
+    expert: |
+      Você pode:
+      - definir o processo e os padrões da correspondência executiva
+      - tratar a correspondência mais sensível, inclusive com reguladores, parceiros e a imprensa
+corp-pmo-reporting:
+  name: Apoio ao escritório de projetos e portfólio
+  description: Conduzir os processos de um escritório de projetos e portfólio, como planos, registros, relatórios, controle de documentos e verificações de garantia.
+  levels:
+    awareness: |
+      Você pode:
+      - manter os documentos do projeto no local certo, com controle de versões
+      - atualizar os registros de ações, riscos e problemas quando solicitado
+    working: |
+      Você pode:
+      - manter planos, registros e painéis de acompanhamento de vários projetos
+      - coletar atualizações e produzir relatórios de situação periódicos
+      - verificar se os projetos seguem o método acordado
+    practitioner: |
+      Você pode:
+      - projetar relatórios de portfólio e analisar o progresso, os riscos e os benefícios dos projetos
+      - conduzir verificações de garantia e revisões de portões de decisão
+      - aconselhar gerentes de projeto sobre método e controles
+    expert: |
+      Você pode:
+      - criar e liderar um escritório de portfólio para a organização
+      - dar à liderança sênior uma visão clara e confiável do portfólio
+      - definir padrões e ferramentas de gestão de projetos e de portfólio
+corp-assurance-and-audit:
+  name: Interlocução com garantia e auditoria
+  description: Obter garantia de que os controles funcionam, apoiar auditorias internas e externas e acompanhar as recomendações de auditoria até a conclusão.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar como funcionam as auditorias e a garantia na organização
+      - fornecer evidências quando solicitado
+    working: |
+      Você pode:
+      - coordenar evidências para auditorias e inspeções
+      - acompanhar as recomendações de auditoria e cobrar ações em atraso
+    practitioner: |
+      Você pode:
+      - planejar o mapeamento de garantia dos principais riscos da organização
+      - trabalhar com auditores internos e externos para acordar o escopo e os achados
+      - reportar lacunas de garantia a comitês
+    expert: |
+      Você pode:
+      - projetar a estrutura de garantia da organização
+      - aconselhar o comitê de auditoria e o conselho de administração sobre a solidez da garantia
+corp-policy-management:
+  name: Gestão de políticas
+  description: Redigir, revisar, aprovar e publicar as políticas e os procedimentos da organização e verificar se as pessoas os seguem.
+  levels:
+    awareness: |
+      Você pode:
+      - encontrar e seguir as políticas que se aplicam ao seu trabalho
+    working: |
+      Você pode:
+      - manter atualizado o registro de políticas e lembrar os responsáveis das revisões
+      - verificar se as políticas usam o modelo e o caminho de aprovação corretos
+    practitioner: |
+      Você pode:
+      - redigir e revisar políticas com especialistas na matéria
+      - conferir as políticas com a lei, as normas e os deveres de igualdade
+      - monitorar a conformidade e reportar lacunas
+    expert: |
+      Você pode:
+      - definir a estrutura de políticas da organização
+      - aconselhar o conselho de administração sobre prioridades e riscos de políticas
+corp-internal-communications:
+  name: Comunicação interna
+  description: Manter as pessoas da equipe informadas e engajadas por meio de canais como a intranet, boletins, comunicados e eventos, especialmente em períodos de mudança.
+  levels:
+    awareness: |
+      Você pode:
+      - publicar conteúdo em canais internos, como a intranet
+      - seguir o estilo e o tom de voz da organização
+    working: |
+      Você pode:
+      - escrever e editar notícias, comunicados e boletins para as equipes
+      - planejar o conteúdo dos canais internos e medir o engajamento
+    practitioner: |
+      Você pode:
+      - planejar a comunicação interna de grandes mudanças, como um novo sistema clínico
+      - aconselhar líderes sobre como engajar as equipes e tratar mensagens difíceis
+      - usar feedback e dados para melhorar os canais
+    expert: |
+      Você pode:
+      - definir a estratégia de comunicação interna e de engajamento das equipes
+      - aconselhar a equipe executiva sobre cultura e engajamento
+corp-media-relations:
+  name: Relações com a imprensa
+  description: Construir relacionamentos com jornalistas, tratar consultas da imprensa, redigir comunicados à imprensa e preparar porta-vozes, inclusive durante incidentes.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar como a organização trata as consultas da imprensa
+      - encaminhar imediatamente as consultas da imprensa à equipe de comunicação
+    working: |
+      Você pode:
+      - registrar e responder a consultas rotineiras da imprensa
+      - redigir comunicados e declarações para aprovação
+      - monitorar a cobertura da imprensa
+    practitioner: |
+      Você pode:
+      - tratar consultas sensíveis e reativas da imprensa, inclusive sobre incidentes ou violações de dados
+      - orientar e preparar porta-vozes
+      - construir relacionamentos com jornalistas de saúde e de tecnologia
+    expert: |
+      Você pode:
+      - liderar o tratamento da imprensa durante grandes incidentes e crises
+      - proteger e fortalecer a reputação da organização junto às partes interessadas sêniores
+      - aconselhar o conselho de administração sobre o risco à reputação
+corp-communications-strategy:
+  name: Estratégia e planejamento da comunicação
+  description: Planejar comunicações e campanhas que atendam aos objetivos da organização, com base em conhecimento dos públicos, e avaliar seu efeito.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar os objetivos de um plano de comunicação em que você trabalha
+    working: |
+      Você pode:
+      - escrever planos de comunicação para projetos, com públicos, mensagens e canais
+      - medir os resultados das ações de comunicação
+    practitioner: |
+      Você pode:
+      - planejar campanhas que mudam comportamentos, como incentivar pacientes a usar um serviço digital
+      - usar conhecimento dos públicos e avaliação para melhorar as campanhas
+      - planejar a comunicação em incidentes e interrupções de serviço
+    expert: |
+      Você pode:
+      - definir a estratégia de comunicação da organização
+      - liderar a comunicação em crises
+      - aconselhar o conselho de administração sobre reputação e relacionamento com as partes interessadas
+corp-digital-and-social-media:
+  name: Mídia digital e redes sociais
+  description: Planejar, publicar e gerir conteúdo em sites e redes sociais, interagir com os públicos e medir os resultados.
+  levels:
+    awareness: |
+      Você pode:
+      - publicar conteúdo aprovado nos canais da organização
+      - seguir a política de redes sociais
+    working: |
+      Você pode:
+      - planejar e publicar conteúdo para sites e redes sociais
+      - responder a comentários e identificar questões que precisam ser escaladas
+      - reportar o desempenho dos canais
+    practitioner: |
+      Você pode:
+      - gerir os canais digitais da organização e seus planos de conteúdo
+      - tratar publicações negativas ou enganosas, inclusive durante incidentes
+      - usar análises para ampliar o alcance e o engajamento
+    expert: |
+      Você pode:
+      - definir a estratégia e a governança dos canais digitais da organização
+      - liderar a resposta a riscos de reputação online

@@ -1,0 +1,71 @@
+# French translations of data/skills/product-design.yaml. Keys are the English skill ids.
+pd-health-research-ethics:
+  name: Recherche éthique avec les patients et le personnel soignant
+  description: Planifier et mener des recherches avec les patients, les aidants, les cliniciens et le personnel soignant de façon sûre et éthique, y compris le consentement éclairé, la protection des personnes vulnérables, la recherche avec des personnes en situation de vulnérabilité et savoir quand une approbation éthique formelle est nécessaire.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer pourquoi la recherche avec les patients et le personnel soignant exige le consentement éclairé, la protection des personnes et le soin des données personnelles
+      - suivre les procédures de l'équipe en matière de consentement, de protection et de traitement des données lors des séances de recherche
+    working: |
+      Vous pouvez :
+      - planifier des séances de recherche qui recueillent le consentement éclairé et protègent le bien-être et la vie privée des participants
+      - adapter les séances aux personnes malades, en détresse ou en situation de vulnérabilité, et savoir quand arrêter
+      - reconnaître et signaler les préoccupations de protection qui apparaissent dans la recherche
+    practitioner: |
+      Vous pouvez :
+      - juger quand une recherche nécessite une approbation éthique ou de gouvernance de la recherche formelle, et préparer ce qu'il faut
+      - planifier une recherche sûre avec des personnes en situation de vulnérabilité, comme des enfants, des personnes atteintes de démence et des personnes en crise
+      - planifier des recherches en milieu clinique sans perturber les soins, avec les responsables cliniques et le personnel soignant
+      - aider les chercheurs à prendre soin de leur propre bien-être après des séances éprouvantes
+    expert: |
+      Vous pouvez :
+      - fixer les normes de l'organisation pour une recherche éthique avec les patients, les aidants et le personnel soignant
+      - garantir la pratique de recherche dans toutes les équipes et conseiller sur les recherches à haut risque
+      - représenter la pratique de recherche auprès des instances d'éthique, de protection et de gouvernance
+pd-safety-critical-design:
+  name: Conception pour la sécurité clinique et les facteurs humains
+  description: Concevoir des services, des interfaces et des parcours de travail qui aident les cliniciens, le personnel soignant et les patients à agir en sécurité, en appliquant les principes des facteurs humains et en travaillant avec le processus de gestion des risques cliniques.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer comment les choix de conception peuvent provoquer ou éviter des erreurs de soins, comme une erreur de patient ou de dose
+      - utiliser les modèles de l'organisation pour les informations critiques pour la sécurité, comme les bandeaux d'identité du patient et les alertes d'allergie
+    working: |
+      Vous pouvez :
+      - concevoir des interfaces qui font de l'action sûre l'action la plus facile, par exemple en réduisant les libellés ambigus et les alertes inutiles
+      - tester les conceptions dans des scénarios cliniques réalistes, avec interruptions et pression du temps
+      - signaler au responsable de la sécurité clinique les dangers liés à la conception et consigner comment les conceptions les maîtrisent
+    practitioner: |
+      Vous pouvez :
+      - appliquer des méthodes de facteurs humains, comme l'analyse des tâches et l'analyse des erreurs d'utilisation, à des parcours cliniques complexes
+      - concevoir pour réduire la fatigue d'alerte et la charge cognitive dans tout un service
+      - fournir des preuves de conception pour les dossiers de sécurité clinique et des preuves d'utilisabilité pour les logiciels réglementés
+    expert: |
+      Vous pouvez :
+      - fixer les normes et les modèles de l'organisation pour la conception critique pour la sécurité
+      - diriger le travail sur les facteurs humains pour les services cliniques les plus à risque
+      - conseiller les responsables de la sécurité clinique et des produits sur les risques liés à la conception dans tout le portefeuille
+pd-health-content:
+  name: Contenus d'information en santé
+  description: Créer des contenus de santé et de soins exacts, validés cliniquement et faciles à comprendre et à appliquer pour des personnes ayant différents niveaux de littératie en santé.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer pourquoi l'information en santé doit être exacte, à jour et facile à comprendre
+      - suivre le guide de style de l'équipe et son processus de relecture clinique des contenus de santé
+    working: |
+      Vous pouvez :
+      - rédiger des contenus de santé que les personnes ayant une faible littératie en santé peuvent comprendre et appliquer, comme les symptômes et quand demander de l'aide
+      - travailler avec les relecteurs cliniques pour vérifier l'exactitude des contenus sans perdre en clarté
+      - expliquer les termes médicaux en langage clair et utiliser des noms cohérents pour les maladies, les examens et les traitements
+    practitioner: |
+      Vous pouvez :
+      - concevoir des contenus sur des sujets sensibles et à haut risque, comme les symptômes urgents, les médicaments et la fin de vie
+      - mettre en place la validation clinique, les dates de révision et les sources de données probantes d'un ensemble de contenus de santé
+      - concilier précision clinique, exigences juridiques et compréhension des utilisateurs dans les contenus discutés
+    expert: |
+      Vous pouvez :
+      - fixer les normes de l'organisation pour les contenus d'information en santé et leur validation clinique
+      - diriger la stratégie de contenu de l'information en santé pour tous les services et canaux
+      - conseiller les responsables cliniques et de la communication sur les risques liés à l'information en santé

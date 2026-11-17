@@ -1,0 +1,53 @@
+summary: >
+  Los arquitectos empresariales ofrecen a la organización una visión integrada de sus servicios, su información, sus aplicaciones y su tecnología, y la usan para convertir la estrategia de salud y asistencia en un plan de cambio coherente. Fijan principios, normas y hojas de ruta de arquitectura, orientan las decisiones de inversión y se aseguran de que el cambio digital apoye una atención segura y coordinada a los pacientes entre organizaciones.
+health_context:
+  - Las vías asistenciales atraviesan muchas organizaciones y sistemas, por lo que la arquitectura debe permitir compartir historias, resultados y derivaciones más allá de cada organización.
+  - El parque tecnológico suele incluir sistemas clínicos de larga vida, productos sanitarios y contratos con proveedores difíciles de cambiar, por lo que las hojas de ruta deben planificar las transiciones con cuidado.
+  - Las decisiones de arquitectura afectan a la seguridad de los pacientes, a la privacidad y a la resiliencia de servicios que funcionan a todas horas.
+  - Los estándares abiertos como HL7 FHIR, SNOMED CT y los perfiles IHE son clave para evitar la dependencia de proveedores y hacer posible la interoperabilidad.
+  - La financiación es limitada y se examina con detalle, por lo que los arquitectos deben demostrar la relación calidad-precio y la reutilización de las plataformas compartidas cuando existan.
+levels:
+  - title: Arquitecto empresarial
+    responsibilities:
+      - Modelizar los servicios, la información, las aplicaciones y la tecnología actuales y objetivo de la organización en un dominio, como el diagnóstico o la atención comunitaria.
+      - Mantener al día el repositorio de arquitectura, incluidos los catálogos de aplicaciones y de flujos de datos.
+      - Revisar las propuestas frente a los principios y las normas de arquitectura, y hacer recomendaciones a las autoridades de diseño.
+      - Identificar dónde los sistemas duplican capacidades o dependen de tecnología sin soporte, y comunicar los riesgos.
+      - Trabajar con arquitectos de soluciones y responsables clínicos para entender cómo usan los sistemas las vías asistenciales.
+      - Orientar a los arquitectos de soluciones sobre cómo encajan los diseños en la arquitectura del dominio.
+    qualifications:
+      - Experiencia sustancial en arquitectura, análisis o diseño técnico en una organización compleja, a un nivel equivalente a un máster.
+      - Conocimiento de un marco de arquitectura empresarial, como TOGAF, o experiencia equivalente.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 6), porque los anuncios del sector sanitario sitúan este rol en la banda 8a. Los conocimientos, el análisis, la planificación, las políticas y la libertad de actuación se puntúan según el perfil de la banda 8a porque el puesto da forma a las arquitecturas objetivo y asesora a las autoridades de diseño de todo un dominio.
+  - title: Arquitecto empresarial sénior
+    responsibilities:
+      - Desarrollar arquitecturas objetivo y hojas de ruta de transición para uno o varios dominios de la organización.
+      - Dar forma a los casos de negocio para que las inversiones encajen en la arquitectura objetivo y reutilicen las plataformas compartidas.
+      - Dirigir las revisiones de arquitectura en las autoridades de diseño y hacer recomendaciones sobre las propuestas importantes.
+      - Planificar la sustitución o retirada de los sistemas clínicos y corporativos heredados, incluidos la migración de datos y los riesgos de seguridad.
+      - Asegurarse de que las necesidades de interoperabilidad, seguridad y gobernanza de la información se incorporan a las hojas de ruta.
+      - Orientar y guiar a los arquitectos empresariales y de soluciones.
+    qualifications:
+      - Amplia experiencia en arquitectura empresarial o de soluciones en varios dominios.
+      - Conocimiento de un marco de arquitectura empresarial, como TOGAF, o experiencia equivalente.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 7), porque los anuncios del sector sanitario sitúan este rol en la banda 8b. La planificación está en el nivel 5 por las hojas de ruta a largo plazo con efectos en toda la organización; los conocimientos están en el nivel 8 por el conocimiento de la arquitectura de negocio, de información, de aplicaciones y de tecnología.
+  - title: Arquitecto empresarial líder
+    responsibilities:
+      - Ser responsable de la arquitectura empresarial de una parte importante de la organización, como los sistemas clínicos o la infraestructura compartida.
+      - Presidir o dirigir la autoridad de diseño de arquitectura y fijar las normas que deben cumplir los proyectos.
+      - Asesorar a los directores sobre las prioridades de inversión, la estrategia de proveedores y los riesgos tecnológicos.
+      - Trabajar con organizaciones socias para alinear las arquitecturas en las vías asistenciales y las historias compartidas.
+      - Dirigir y desarrollar a los arquitectos empresariales y hacer crecer la comunidad de práctica de arquitectura.
+    qualifications:
+      - Amplia experiencia en arquitectura empresarial en una organización compleja.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 8b), porque los anuncios del sector sanitario sitúan este rol en la banda 8c. Los recursos de información están en el nivel 6 porque el puesto gestiona la arquitectura de los sistemas de información de una parte importante de la organización; las políticas y las personas están por encima del perfil de la banda 8b porque fija normas para todos los proyectos y dirige a los arquitectos empresariales.
+  - title: Arquitecto empresarial principal
+    responsibilities:
+      - Fijar la visión, los principios y la estrategia de arquitectura empresarial de la organización, alineados con su estrategia de salud y asistencia.
+      - Asesorar al equipo directivo y al consejo sobre la arquitectura, los riesgos y el valor de las grandes inversiones digitales.
+      - Dirigir la práctica, el gobierno y las normas de arquitectura de la organización.
+      - Representar a la organización en los foros interorganizativos de arquitectura e interoperabilidad.
+      - Desarrollar la capacidad de arquitectura de toda la organización, incluidos la selección y los itinerarios profesionales.
+    qualifications:
+      - Amplia experiencia en la dirección de la arquitectura empresarial en varias organizaciones.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 8c), porque los anuncios del sector sanitario sitúan este rol en la banda 8d. Las políticas y la libertad de actuación están en el nivel 6 porque el puesto tiene la responsabilidad institucional sobre la visión, los principios y la estrategia de arquitectura de la organización.

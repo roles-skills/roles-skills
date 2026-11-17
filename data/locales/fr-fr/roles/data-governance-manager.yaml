@@ -1,0 +1,41 @@
+summary: >
+  Les responsables de la gouvernance des données veillent à ce que les données de santé et de soins de l'organisation soient bien gérées, fiables et utilisées de façon sûre et licite. Ils mettent en place et pilotent les cadres, les politiques et les normes de propriété, de qualité, de métadonnées et de partage des données, et travaillent avec les propriétaires des données, les collègues de la gouvernance de l'information et les responsables cliniques pour que les données puissent être utilisées en confiance pour les soins, la planification et la recherche.
+health_context:
+  - Les données de santé sont des données personnelles très sensibles, c'est pourquoi la gouvernance des données travaille étroitement avec la gouvernance de l'information, la protection des données et le devoir de confidentialité.
+  - Les données sont partagées avec de nombreux partenaires de santé et de soins pour les soins directs, la planification et la recherche, et chaque usage a besoin d'une base légale claire, d'accords et de contrôles.
+  - Les normes de données cliniques, comme SNOMED CT, la CIM et HL7 FHIR, et les définitions de données convenues sont essentielles pour rendre les données cohérentes entre systèmes et organisations.
+  - Une mauvaise qualité des données peut directement nuire aux patients, par exemple par des allergies manquées ou un mauvais rapprochement des patients, et conduire à de mauvaises décisions sur les services.
+  - Les patients et le public attendent de la transparence sur l'usage de leurs données, c'est pourquoi la gouvernance inclut la transparence et le respect des choix des patients sur l'usage secondaire.
+levels:
+  - title: Responsable de la gouvernance des données
+    responsibilities:
+      - Piloter le cadre de gouvernance des données de l'organisation, y compris la propriété et l'intendance des données et les instances de décision.
+      - Tenir à jour le catalogue de données, le glossaire métier et les normes de données, y compris les définitions cliniques et opérationnelles convenues.
+      - Suivre la qualité des jeux de données clés et travailler avec leurs propriétaires pour corriger les causes profondes.
+      - Travailler avec les collègues de la gouvernance de l'information sur les accords de partage de données et les analyses d'impact relatives à la protection des données des nouveaux usages.
+      - Consigner et gérer les risques et les problèmes liés aux données, et les faire remonter au bon responsable.
+      - Améliorer la culture des données du personnel qui crée et utilise des données de santé.
+    qualifications:
+      - Une licence ou une qualification professionnelle en données, en gestion de l'information ou dans une discipline voisine, ou une expérience équivalente.
+      - Une expérience de la gouvernance ou de la gestion des données dans une organisation complexe.
+    job_evaluation_notes: Le UK GDaD PCF propose de HEO à G7 pour ce niveau, ce qui correspond à la bande 6. Cette référence le place en bande 7, car dans une organisation de santé ce rôle gouverne généralement des données confidentielles de patients dans toute l'organisation et élabore une politique de données qui touche plusieurs services.
+  - title: Responsable référent de la gouvernance des données
+    responsibilities:
+      - Diriger la conception et le pilotage des cadres, des politiques et des normes de gouvernance des données dans toute l'organisation.
+      - Coordonner les propriétaires et les intendants des données pour gérer les risques liés aux données, les accepter ou les résoudre, et en rendre compte aux instances de haut niveau.
+      - Diriger les travaux plus larges de gestion des données, comme les données de référence des patients, du personnel et des sites.
+      - Convenir des dispositions de gouvernance des données partagées avec les partenaires de santé et de soins et les chercheurs.
+      - Conseiller les programmes sur la conformité des nouveaux systèmes et usages de données aux normes de données et aux règles de gouvernance.
+      - Encadrer le personnel de la gouvernance des données.
+    qualifications:
+      - Une solide expérience de la direction de la gouvernance ou de la gestion des données.
+  - title: Directeur de la gouvernance des données
+    responsibilities:
+      - Travailler avec le directeur des données et le responsable exécutif du risque lié à l'information pour fixer la stratégie de gouvernance et d'usage des données.
+      - Fixer les politiques et les normes de gouvernance des données et suivre leur respect par l'organisation.
+      - Rendre compte de la gestion des risques liés aux données de l'organisation, et en rendre compte au conseil d'administration.
+      - Représenter l'organisation en matière de gouvernance des données auprès des partenaires de santé et de soins, des régulateurs et des associations de patients.
+      - Promouvoir la transparence envers les patients et le public sur l'usage de leurs données.
+      - Diriger et faire progresser la fonction de gouvernance des données.
+    qualifications:
+      - Une solide expérience de la direction de la gouvernance des données dans toute une organisation.

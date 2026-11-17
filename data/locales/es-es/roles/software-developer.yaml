@@ -1,0 +1,67 @@
+summary: >
+  Los desarrolladores de software crean, prueban y mantienen el software que hay detrás de los servicios de salud digital de la organización, como las aplicaciones para pacientes, los sistemas clínicos, los servicios de integración y las plataformas de datos. Trabajan en equipos de producto multidisciplinares, escriben código seguro, protegido, accesible y mantenible, y dan soporte a sus servicios en producción.
+health_context:
+  - El software puede afectar a la atención a los pacientes, por lo que los desarrolladores siguen el proceso de gestión del riesgo clínico y aportan evidencias a los casos de seguridad.
+  - El código suele tratar información sanitaria confidencial, por lo que los desarrolladores aplican por defecto la gobernanza de la información y las prácticas de codificación segura.
+  - Muchos servicios intercambian datos con otros sistemas de salud y asistencia mediante estándares abiertos de interoperabilidad como HL7 FHIR.
+  - Parte del software puede estar regulado como producto sanitario, por lo que los desarrolladores necesitan saber cuándo pedir asesoramiento regulatorio.
+levels:
+  - title: Aprendiz de desarrollador de software
+    responsibilities:
+      - Aprender los lenguajes, las herramientas y las formas de trabajar del equipo mediante formación estructurada y programación en pareja.
+      - Escribir y probar fragmentos de código pequeños y bien definidos con supervisión cercana.
+      - Seguir los procedimientos de codificación segura, gobernanza de la información y seguridad clínica.
+      - Participar en las ceremonias del equipo, como las reuniones diarias, la planificación y las retrospectivas.
+      - Trabajar para obtener una cualificación de aprendizaje o equivalente.
+    qualifications:
+      - Matriculado en un programa de aprendizaje de desarrollo de software o equivalente, o trabajando para obtenerlo.
+    job_evaluation_notes: Los conocimientos se puntúan en el nivel que exige el puesto una vez que la formación está lo bastante avanzada para hacer el trabajo; los recursos de información reflejan el trabajo con sistemas diseñados por otras personas.
+  - title: Desarrollador de software júnior
+    responsibilities:
+      - Crear y probar funcionalidades para los productos del equipo, a partir de historias de usuario y con orientación.
+      - Escribir pruebas automatizadas y corregir defectos, incluso en servicios que apoyan la atención a los pacientes.
+      - Aportar evidencias a los casos de seguridad clínica, como resultados de pruebas y registros de cambios.
+      - Tratar los datos sanitarios de forma segura, siguiendo las normas de gobernanza de la información.
+      - Dar soporte a los servicios en producción, con orientación, dentro de las guardias del equipo.
+    qualifications:
+      - Un grado en informática o una materia afín, un programa de aprendizaje completado o experiencia equivalente.
+  - title: Desarrollador de software
+    responsibilities:
+      - Diseñar, crear y probar funcionalidades y servicios de forma independiente, eligiendo los enfoques adecuados.
+      - Revisar código y ayudar a mantener las normas de ingeniería del equipo.
+      - Crear integraciones con otros sistemas de salud y asistencia mediante estándares abiertos como HL7 FHIR.
+      - Participar en la identificación de peligros y ayudar a incorporar los controles de seguridad clínica al código y a las pruebas.
+      - Investigar y corregir problemas en los servicios en producción, incluido el soporte fuera de horario cuando el servicio lo necesite.
+      - Ser mentor de los desarrolladores júnior y aprendices.
+    qualifications:
+      - Un grado en informática o una materia afín, o experiencia equivalente.
+      - Experiencia en la creación y el soporte de software en producción.
+  - title: Desarrollador de software sénior
+    responsibilities:
+      - Dirigir el diseño técnico y la entrega de funcionalidades y servicios importantes.
+      - Fijar y mantener las normas de ingeniería del equipo, incluidas las de pruebas, seguridad y accesibilidad.
+      - Tomar decisiones técnicas que equilibren las necesidades de los usuarios, la seguridad clínica, la seguridad de la información y el coste.
+      - Dirigir la investigación de incidentes de los servicios del equipo e impulsar las correcciones.
+      - Trabajar con los responsables de seguridad clínica para asegurarse de que los controles de seguridad se diseñan desde el principio y se prueban.
+      - Orientar y desarrollar a los desarrolladores del equipo.
+    qualifications:
+      - Experiencia sustancial en el diseño, la creación y el soporte de software en producción, a un nivel equivalente a un máster.
+  - title: Desarrollador de software líder
+    responsibilities:
+      - Dirigir la ingeniería de un producto o de un grupo de equipos, marcando la dirección técnica.
+      - Asegurarse de que el software se diseña para la seguridad, la protección, la resiliencia y la interoperabilidad.
+      - Trabajar con arquitectos, gestores de producto y responsables clínicos para dar forma a la hoja de ruta del producto.
+      - Dirigir la comunidad de práctica de desarrollo y fijar normas comunes a todos los equipos.
+      - Gestionar o dirigir a desarrolladores, apoyando su desarrollo y su rendimiento.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería de software de servicios complejos.
+    job_evaluation_notes: El UK GDaD PCF sitúa a los desarrolladores líder y principal con más frecuencia en G7 o G6; esta referencia sitúa al líder en la banda 8a y al principal en la banda 8b.
+  - title: Desarrollador de software principal
+    responsibilities:
+      - Fijar la estrategia, las normas y las prácticas de ingeniería del desarrollo de software de la organización.
+      - Asesorar a la alta dirección sobre las decisiones tecnológicas, los riesgos y la inversión.
+      - Dirigir la resolución de los problemas técnicos más complejos de todos los servicios.
+      - Representar a la organización en las comunidades de ingeniería interorganizativas y de código abierto.
+      - Dirigir y desarrollar a los desarrolladores líderes y ampliar la capacidad de ingeniería de la organización.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería en varios equipos u organizaciones.

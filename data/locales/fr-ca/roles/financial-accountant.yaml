@@ -1,0 +1,67 @@
+summary: >
+  Les comptables veillent à ce que les comptes de l'organisation soient complets, exacts et conformes aux normes comptables et aux règles d'information du secteur public. Ils gèrent le bilan, établissent les comptes annuels et les déclarations réglementaires, gèrent la trésorerie, comptabilisent les actifs et travaillent avec les auditeurs. Dans une organisation de santé numérique, une grande partie de la complexité vient de la comptabilisation des logiciels, des actifs de données, des contrats d'informatique en nuage et des contrats technologiques pluriannuels.
+health_context:
+  - La comptabilisation des dépenses numériques demande du jugement, par exemple pour savoir si le développement de logiciels, le paramétrage de services en nuage ou des licences peuvent être traités comme des immobilisations.
+  - L'organisation doit rendre compte de l'argent public aux financeurs et aux organismes de contrôle, souvent dans des limites strictes d'investissement et de trésorerie.
+  - Les contrats pluriannuels de licences et de support créent des charges constatées d'avance, des engagements et parfois des contrats de location qui doivent être correctement comptabilisés.
+  - Les immobilisations incorporelles, comme les logiciels développés par l'organisation, doivent être évaluées, amorties et testées pour dépréciation à mesure que les produits évoluent.
+  - L'audit externe des organismes publics est approfondi et public, c'est pourquoi les preuves et les dossiers de travail doivent être de grande qualité.
+levels:
+  - title: Comptable en formation
+    summary: Les comptables en formation préparent les justifications du bilan, les écritures et les dossiers de travail des comptes tout en préparant une qualification comptable reconnue.
+    responsibilities:
+      - Préparer les justifications des comptes de bilan et apurer les éléments de rapprochement.
+      - Passer les écritures de clôture mensuelle et annuelle, comme les charges à payer, les charges constatées d'avance et les amortissements.
+      - Tenir le registre des immobilisations, y compris les actifs logiciels et matériels.
+      - Préparer les dossiers de travail et les preuves des comptes annuels et de l'audit.
+      - Préparer les informations de flux de trésorerie et les rapprochements bancaires.
+      - Préparer une qualification comptable reconnue.
+    qualifications:
+      - Une licence ou une qualification comptable intermédiaire, et la préparation d'une qualification comptable reconnue, ou une expérience équivalente.
+    job_evaluation_notes: Les connaissances sont cotées au niveau requis par l'emploi une fois la formation suffisamment avancée pour faire le travail.
+  - title: Comptable
+    summary: Les comptables sont des professionnels qualifiés qui gèrent le bilan et préparent des parties des comptes annuels, des déclarations réglementaires et des déclarations fiscales.
+    responsibilities:
+      - Gérer les clôtures mensuelles et annuelles du bilan.
+      - Préparer des parties des comptes annuels et de leurs annexes.
+      - Comptabiliser les dépenses d'investissement, y compris décider quels coûts numériques peuvent être immobilisés.
+      - Préparer les déclarations de taxe sur les ventes et conseiller sur le traitement fiscal des contrats.
+      - Répondre aux questions des auditeurs et convenir des actions sur leurs constats.
+      - Encadrer et faire progresser les comptables en formation.
+    qualifications:
+      - Une qualification comptable reconnue, ou une expérience équivalente.
+  - title: Comptable senior
+    summary: Les comptables seniors dirigent le processus des comptes annuels et la comptabilisation des domaines complexes, comme les immobilisations incorporelles, les contrats de location et les contrats d'informatique en nuage.
+    responsibilities:
+      - Planifier et diriger le calendrier des comptes annuels et l'audit externe.
+      - Rédiger des notes comptables sur les jugements complexes, comme l'immobilisation du développement de logiciels ou des coûts de paramétrage en nuage.
+      - Gérer la comptabilité des immobilisations, y compris les durées d'utilité, l'amortissement et la dépréciation des actifs logiciels.
+      - Gérer la prévision de trésorerie et le tirage des financements dans les limites de trésorerie.
+      - Préparer les déclarations réglementaires et destinées aux financeurs, comme les déclarations de consolidation et d'investissement.
+      - Gérer et faire progresser une petite équipe de comptables.
+    qualifications:
+      - Une qualification comptable reconnue, avec une expérience significative après son obtention, ou équivalent.
+    job_evaluation_notes: Les ressources financières sont au niveau 4, car l'emploi gère la position de trésorerie et la comptabilité des immobilisations de l'organisation.
+  - title: Responsable de la comptabilité
+    summary: Les responsables de la comptabilité pilotent la comptabilité générale, la trésorerie et la fiscalité de l'organisation, et veillent à la mise en place des contrôles et des actions d'audit.
+    responsibilities:
+      - Gérer les fonctions de comptabilité générale, de trésorerie et de fiscalité.
+      - Être responsable des méthodes comptables de l'organisation et de leur application aux nouveaux types de dépenses, comme les services en nuage et de données.
+      - Gérer les comptes bancaires, les relations bancaires et la prévision des flux de trésorerie.
+      - Gérer la conformité fiscale et le risque fiscal, y compris sur les contrats technologiques et les services partagés.
+      - Diriger la réponse aux constats des audits internes et externes sur la comptabilité et les contrôles.
+      - Encadrer les comptables et le personnel de trésorerie.
+    qualifications:
+      - Une qualification comptable reconnue, avec une solide expérience après son obtention.
+    job_evaluation_notes: Les ressources financières sont au niveau 5, car l'emploi gère les relations bancaires, la trésorerie et les actifs de l'organisation pour tous les services.
+  - title: Directeur de la comptabilité
+    summary: Les directeurs de la comptabilité dirigent l'information financière réglementaire, le contrôle financier, la trésorerie et la fiscalité de l'organisation, et sont le principal interlocuteur des auditeurs externes.
+    responsibilities:
+      - Diriger la préparation du rapport annuel et des comptes, et les présenter au comité d'audit.
+      - Conseiller les directeurs et le comité d'audit sur les jugements comptables importants et les nouvelles normes.
+      - Être responsable des règles financières, des procédures financières et du régime de délégation.
+      - Diriger la relation avec les auditeurs externes et les organismes de contrôle sur l'information financière.
+      - Fixer la politique de trésorerie et fiscale, et gérer les risques financiers.
+      - Diriger et faire progresser les équipes de comptabilité, de trésorerie et des opérations.
+    qualifications:
+      - Une qualification comptable reconnue, avec une solide expérience après son obtention, y compris la direction de l'information financière réglementaire.

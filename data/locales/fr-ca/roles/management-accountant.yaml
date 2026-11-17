@@ -1,0 +1,67 @@
+summary: >
+  Les contrôleurs de gestion fournissent aux responsables les informations et les conseils financiers dont ils ont besoin pour planifier, maîtriser les dépenses et bien décider. Ils fixent et suivent les budgets, prévoient les dépenses, calculent le coût des services et construisent la justification financière des investissements. Dans une organisation de santé numérique, ils travaillent étroitement avec les programmes numériques et les équipes produit, où la bonne distinction entre investissement et fonctionnement, les coûts sur tout le cycle de vie et l'efficience sont au cœur des bonnes décisions.
+health_context:
+  - Les programmes numériques sont souvent financés par un mélange de crédits d'investissement et de fonctionnement, de fonds fléchés ou à durée limitée, chacun avec ses propres règles d'emploi.
+  - Le passage de systèmes détenus en propre à des services et des abonnements en nuage fait glisser les coûts de l'investissement vers le fonctionnement, ce qui touche les budgets, les études d'opportunité et les demandes de financement.
+  - Les décisions d'investissement doivent démontrer l'efficience de l'usage des fonds publics et des bénéfices pour les patients, les cliniciens et le personnel soignant, et pas seulement des économies financières.
+  - Les contrats de logiciels, d'hébergement et de support durent souvent plusieurs années, c'est pourquoi les prévisions doivent inclure les coûts de fonctionnement bien après la mise en service.
+  - Les responsables budgétaires des équipes numériques et cliniques ne sont pas forcément spécialistes des finances, c'est pourquoi des conseils clairs et pratiques sont une grande part de l'emploi.
+levels:
+  - title: Contrôleur de gestion en formation
+    summary: Les contrôleurs de gestion en formation, parfois appelés analystes financiers, produisent des rapports budgétaires et des analyses pour un ensemble de responsables budgétaires tout en préparant une qualification comptable reconnue.
+    responsibilities:
+      - Préparer les rapports budgétaires mensuels d'un groupe de responsables budgétaires et expliquer les principaux écarts.
+      - Passer les écritures de clôture mensuelle, les charges à payer et les corrections pour que les rapports soient exacts.
+      - Vérifier que les dépenses sont correctement imputées entre centres de coûts, projets, investissement et fonctionnement.
+      - Recueillir les informations prévisionnelles et mettre à jour les prévisions avec les responsables budgétaires.
+      - Construire avec un accompagnement les informations de coûts des études d'opportunité.
+      - Préparer une qualification comptable reconnue.
+    qualifications:
+      - Une licence ou une qualification comptable intermédiaire, et la préparation d'une qualification comptable reconnue, ou une expérience équivalente.
+    job_evaluation_notes: Les connaissances sont cotées au niveau requis par l'emploi une fois la formation suffisamment avancée pour faire le travail. Les ressources financières sont au niveau 3 pour le suivi de budgets délégués.
+  - title: Contrôleur de gestion
+    summary: Les contrôleurs de gestion sont des comptables qualifiés qui pilotent l'élaboration, le suivi et la prévision budgétaires d'une direction ou d'un groupe de services, et conseillent les responsables budgétaires sur leurs finances.
+    responsibilities:
+      - Diriger le cycle mensuel de reporting et de prévision d'une direction ou d'un groupe de services.
+      - Conseiller les responsables budgétaires sur les dépenses, les risques et les actions pour tenir le budget.
+      - Préparer les budgets annuels, y compris les coûts de personnel, les contrats et les licences.
+      - Appliquer les règles d'investissement et de fonctionnement aux dépenses numériques, comme le développement de logiciels, les licences et le matériel.
+      - Construire des modèles financiers pour les études d'opportunité et les évaluations d'options.
+      - Encadrer et faire progresser les contrôleurs en formation.
+    qualifications:
+      - Une qualification comptable reconnue, ou une expérience équivalente.
+  - title: Contrôleur de gestion senior
+    summary: Les contrôleurs de gestion seniors dirigent la gestion financière d'une grande direction ou d'un programme numérique majeur, y compris les prévisions complexes, le calcul des coûts et les études d'opportunité.
+    responsibilities:
+      - Diriger l'élaboration du budget et les prévisions d'une grande direction ou d'un programme numérique majeur.
+      - Modéliser des scénarios, comme les changements de financement, les retards de livraison et le passage de l'investissement aux coûts d'abonnement en nuage.
+      - Diriger la justification financière des investissements importants, y compris les coûts sur tout le cycle de vie, les bénéfices et l'efficience.
+      - Construire le calcul des coûts des services et des produits, comme le coût complet d'exploitation d'un service numérique.
+      - Présenter la performance et les risques financiers à la direction et aux comités de programme.
+      - Gérer une petite équipe de contrôleurs et de personnes en formation.
+    qualifications:
+      - Une qualification comptable reconnue, avec une expérience significative après son obtention, ou équivalent.
+    job_evaluation_notes: Les ressources financières sont au niveau 4, car l'emploi fixe le budget d'une direction ou d'un programme avec ses responsables budgétaires.
+  - title: Partenaire financier
+    summary: Les partenaires financiers font partie de la direction d'une direction, souvent celle du numérique, des données et de la technologie, transforment l'information financière en décisions et veillent à l'efficience des investissements.
+    responsibilities:
+      - Être le conseiller financier principal de l'équipe de direction d'une direction, comme celle du numérique, des données et de la technologie.
+      - Diriger le plan financier de la direction, en reliant les dépenses aux priorités, aux effectifs et aux investissements.
+      - Challenger et soutenir les dirigeants sur l'efficience, y compris les dépenses fournisseurs, l'usage des licences et les coûts du nuage.
+      - Diriger les études d'opportunité des grands investissements numériques et représenter les finances dans les comités d'investissement.
+      - Veiller à ce que les dépenses numériques respectent les règles de financement, les contrôles des dépenses et les limites d'investissement et de fonctionnement.
+      - Encadrer les contrôleurs de gestion qui soutiennent la direction.
+    qualifications:
+      - Une qualification comptable reconnue, avec une solide expérience après son obtention, y compris comme partenaire financier.
+    job_evaluation_notes: Les ressources financières sont au niveau 5, car l'emploi fixe les budgets de plusieurs services d'une direction.
+  - title: Responsable du contrôle de gestion
+    summary: Les responsables du contrôle de gestion dirigent l'élaboration budgétaire, les prévisions et le reporting de gestion de l'organisation, ainsi que l'équipe de partenaires financiers et de contrôleurs qui les produit.
+    responsibilities:
+      - Diriger l'élaboration du budget annuel et les prévisions infra-annuelles de l'organisation.
+      - Concevoir le reporting de gestion, le calcul des coûts et les informations de performance pour le conseil d'administration et la direction.
+      - Fixer les normes des études d'opportunité et de l'évaluation des investissements, y compris pour l'investissement numérique.
+      - Conseiller les directeurs sur les risques financiers, les plans d'économies et les choix nécessaires pour rester dans le financement.
+      - Diriger et faire progresser les équipes de partenaires financiers et de contrôle de gestion.
+      - Améliorer les outils budgétaires et de reporting, y compris le reporting en libre-service pour les responsables budgétaires.
+    qualifications:
+      - Une qualification comptable reconnue, avec une solide expérience après son obtention, y compris la direction d'une équipe financière.

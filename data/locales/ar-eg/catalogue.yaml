@@ -1,0 +1,92 @@
+# Family and role titles in Arabic. Keys are the English ids. Slugs are made
+# from the titles.
+families:
+  software-development: {title: تطوير البرمجيات}
+  architecture: {title: الهندسة المعمارية للأنظمة}
+  data: {title: البيانات}
+  product-and-delivery: {title: المنتجات والتنفيذ}
+  user-centred-design: {title: التصميم المتمحور حول المستخدم}
+  it-operations: {title: عمليات تقنية المعلومات}
+  cyber-security: {title: الأمن السيبراني}
+  quality-assurance-testing: {title: ضمان الجودة والاختبار}
+  clinical-informatics: {title: المعلوماتية السريرية والسلامة السريرية}
+  information-governance: {title: حوكمة المعلومات}
+  finance: {title: المالية}
+  legal: {title: الشؤون القانونية}
+  human-resources: {title: الموارد البشرية}
+  procurement: {title: المشتريات والشؤون التجارية}
+  corporate-services: {title: الخدمات المؤسسية}
+roles:
+  software-developer: {title: مطور برمجيات}
+  frontend-developer: {title: مطور واجهات أمامية}
+  devops-engineer: {title: مهندس DevOps}
+  integration-engineer: {title: مهندس تكامل (التشغيل البيني الصحي)}
+  enterprise-architect: {title: مهندس معماري للمؤسسة}
+  solution-architect: {title: مهندس معماري للحلول}
+  technical-architect: {title: مهندس معماري تقني}
+  data-architect: {title: مهندس معماري للبيانات}
+  security-architect: {title: مهندس معماري للأمن}
+  network-architect: {title: مهندس معماري للشبكات}
+  business-architect: {title: مهندس معماري للأعمال}
+  data-analyst: {title: محلل بيانات}
+  performance-analyst: {title: محلل أداء}
+  data-engineer: {title: مهندس بيانات}
+  analytics-engineer: {title: مهندس تحليلات}
+  data-scientist: {title: عالم بيانات}
+  machine-learning-engineer: {title: مهندس تعلم آلي}
+  data-governance-manager: {title: مدير حوكمة البيانات}
+  clinical-coder: {title: مرمّز سريري}
+  business-analyst: {title: محلل أعمال}
+  delivery-manager: {title: مدير تنفيذ}
+  product-manager: {title: مدير منتج}
+  project-manager: {title: مدير مشروع}
+  programme-delivery-manager: {title: مدير تنفيذ برنامج}
+  digital-portfolio-manager: {title: مدير المحفظة الرقمية}
+  service-owner: {title: مالك الخدمة}
+  user-researcher: {title: باحث مستخدمين}
+  service-designer: {title: مصمم خدمات}
+  interaction-designer: {title: مصمم تفاعل}
+  content-designer: {title: مصمم محتوى}
+  accessibility-specialist: {title: أخصائي إمكانية الوصول}
+  service-desk-analyst: {title: محلل مكتب الخدمة}
+  end-user-computing-engineer: {title: مهندس حوسبة المستخدم النهائي}
+  infrastructure-engineer: {title: مهندس بنية تحتية}
+  application-operations-engineer: {title: مهندس تشغيل التطبيقات}
+  it-service-manager: {title: مدير خدمات تقنية المعلومات}
+  incident-manager: {title: مدير الحوادث}
+  problem-manager: {title: مدير المشكلات}
+  change-and-release-manager: {title: مدير التغيير والإصدارات}
+  security-analyst: {title: محلل عمليات الأمن}
+  security-engineer: {title: مهندس أمن}
+  cyber-security-manager: {title: مدير الأمن السيبراني}
+  quality-assurance-test-analyst: {title: محلل اختبار ضمان الجودة}
+  test-engineer: {title: مهندس اختبار}
+  test-manager: {title: مدير الاختبار}
+  clinical-informatician: {title: أخصائي معلوماتية سريرية}
+  clinical-safety-officer: {title: مسؤول السلامة السريرية}
+  chief-clinical-information-officer: {title: كبير مسؤولي المعلومات السريرية}
+  records-officer: {title: مسؤول السجلات الصحية}
+  information-governance-officer: {title: مسؤول حوكمة المعلومات}
+  data-protection-officer: {title: مسؤول حماية البيانات}
+  finance-officer: {title: موظف مالي}
+  payroll-officer: {title: موظف رواتب}
+  management-accountant: {title: محاسب إداري}
+  financial-accountant: {title: محاسب مالي}
+  head-of-finance: {title: رئيس الشؤون المالية}
+  legal-assistant: {title: مساعد قانوني}
+  legal-adviser: {title: مستشار قانوني}
+  head-of-legal: {title: رئيس الخدمات القانونية}
+  hr-officer: {title: موظف موارد بشرية}
+  recruitment-officer: {title: موظف توظيف}
+  hr-business-partner: {title: شريك أعمال الموارد البشرية}
+  learning-and-development-specialist: {title: أخصائي التعلم والتطوير}
+  head-of-people: {title: رئيس شؤون الموظفين}
+  procurement-officer: {title: موظف مشتريات}
+  category-manager: {title: مدير فئة مشتريات}
+  contract-manager: {title: مدير عقود}
+  head-of-procurement: {title: رئيس المشتريات}
+  administrator: {title: موظف إداري}
+  executive-assistant: {title: مساعد تنفيذي}
+  project-support-officer: {title: موظف دعم المشاريع}
+  governance-and-risk-manager: {title: مدير الحوكمة والمخاطر}
+  communications-officer: {title: موظف اتصالات}

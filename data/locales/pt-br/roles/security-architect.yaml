@@ -1,0 +1,38 @@
+summary: Os profissionais de arquitetura de segurança projetam a segurança dos serviços de saúde digital da organização, para que as informações dos pacientes permaneçam confidenciais, exatas e disponíveis quando o cuidado precisar. Definem padrões e controles de segurança, avaliam o risco de segurança de novos projetos e fornecedores e ajudam as equipes a tomar decisões baseadas em risco que mantenham os serviços ao mesmo tempo seguros e utilizáveis por profissionais clínicos e pacientes.
+health_context:
+- As organizações de saúde são alvos frequentes de ransomware e de roubo de dados, e um ataque pode paralisar serviços clínicos, por isso a disponibilidade é tão importante quanto a confidencialidade.
+- Os controles de segurança não devem atrapalhar o atendimento urgente, por isso os projetos equilibram autenticação forte com acesso rápido em ambientes clínicos.
+- Dispositivos médicos conectados e sistemas clínicos legados muitas vezes não podem receber correções rapidamente, por isso as pessoas arquitetas projetam controles compensatórios, como a segmentação.
+- Muitas pessoas das equipes, organizações parceiras e fornecedores precisam de acesso aos prontuários, por isso a identidade, o acesso baseado em papéis e a auditoria são centrais.
+- Os projetos de segurança devem apoiar os deveres de governança da informação e as normas de segurança publicadas, como a ISO/IEC 27001.
+levels:
+- title: Profissional de arquitetura de segurança
+  responsibilities:
+  - Projetar controles de segurança para serviços e sistemas, incluindo identidade, criptografia, registro de logs e proteção de rede.
+  - Avaliar a segurança de novos projetos e de produtos de fornecedores e registrar riscos e controles recomendados.
+  - Desenvolver padrões de segurança reutilizáveis pelas equipes de entrega, como o login de pacientes e o acesso único das equipes.
+  - Orientar sobre controles compensatórios para dispositivos médicos e sistemas clínicos legados que não podem ser atualizados com facilidade.
+  - Trabalhar com colegas de governança da informação e de segurança clínica para que os riscos de segurança, de privacidade e clínicos sejam avaliados em conjunto.
+  - Orientar profissionais de engenharia de segurança e outras pessoas arquitetas em projeto seguro.
+  qualifications:
+  - Experiência substancial em arquitetura de segurança ou engenharia de segurança, em nível equivalente ao de mestrado.
+  - Uma qualificação reconhecida em segurança ou experiência equivalente.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 6); anúncios do setor de saúde situam esta função na Faixa 8a. Análise e liberdade de ação são pontuadas acima do perfil da Faixa 7, porque a função projeta a segurança de sistemas clínicos críticos com pouca supervisão."
+- title: Profissional de arquitetura de segurança líder
+  responsibilities:
+  - Liderar a arquitetura de segurança de vários projetos de alto risco ou de uma área importante, como sistemas clínicos ou hospedagem em nuvem.
+  - Definir princípios e padrões de segurança para os projetos da sua área e dar garantia a eles nas instâncias de decisão de projeto.
+  - Aconselhar os responsáveis sêniores pelos riscos sobre os riscos de segurança e as opções para geri-los.
+  - Projetar a segurança dos dados compartilhados com organizações parceiras e fornecedores.
+  - Liderar e desenvolver profissionais de arquitetura de segurança.
+  qualifications:
+  - Ampla experiência em arquitetura de segurança de serviços complexos.
+- title: Profissional de arquitetura de segurança principal
+  responsibilities:
+  - Definir a visão, os princípios e a estratégia de arquitetura de segurança da organização.
+  - Aconselhar a equipe executiva e o conselho de administração sobre o risco de cibersegurança para o cuidado dos pacientes e para os serviços.
+  - Garantir que a resiliência cibernética, incluindo a recuperação de um grande ataque, esteja incorporada aos serviços clínicos críticos.
+  - Representar a organização em comunidades de cibersegurança e de padronização entre organizações.
+  - Liderar a prática de arquitetura de segurança e desenvolver suas pessoas.
+  qualifications:
+  - Ampla experiência na liderança da arquitetura de segurança entre organizações.

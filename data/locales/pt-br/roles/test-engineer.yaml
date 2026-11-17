@@ -1,0 +1,46 @@
+summary: Os profissionais de engenharia de testes constroem os testes automatizados, as ferramentas e as estruturas que permitem às equipes testar os serviços de saúde digital da organização com rapidez e frequência. Escrevem código para testar funções, integrações, desempenho, segurança e resiliência e incorporam os testes aos pipelines de entrega, para que as mudanças em sistemas clínicos e voltados a pacientes possam ser liberadas com segurança.
+health_context:
+- Os sistemas clínicos são críticos à segurança, por isso os testes automatizados de regressão protegem os controles de segurança registrados nos registros de perigos e são guardados como evidência para os dossiês de segurança.
+- As integrações com outros sistemas de saúde e de cuidados precisam de testes automatizados em relação a padrões como o HL7 FHIR e o HL7 versão 2, muitas vezes com sistemas parceiros simulados.
+- Os serviços clínicos funcionam o dia todo e têm picos em horários previsíveis, por isso os testes de desempenho e de resiliência modelam a demanda clínica real.
+- Os ambientes de teste não devem conter dados reais de pacientes, por isso as pessoas engenheiras geram dados sintéticos realistas, incluindo casos clínicos raros e extremos.
+- O software regulamentado como dispositivo médico exige testes rastreáveis e repetíveis como parte de seu ciclo de vida, conforme normas como a IEC 62304.
+levels:
+- title: Profissional de engenharia de testes associado
+  responsibilities:
+  - Escrever e manter testes automatizados simples, sob supervisão, seguindo os padrões de engenharia da equipe.
+  - Executar testes automatizados e manuais e registrar os resultados com exatidão.
+  - Ajudar a investigar e comunicar defeitos, inclusive em integrações com sistemas clínicos.
+  - Usar dados de teste sintéticos e seguir as regras de governança da informação nos ambientes de teste.
+  - Aprender as ferramentas de teste, as práticas de código e o processo de segurança clínica da equipe.
+  qualifications:
+  - Alguma experiência em programação ou testes, ou matrícula em uma aprendizagem profissional pertinente, ou equivalente.
+- title: Profissional de engenharia de testes
+  responsibilities:
+  - Projetar e construir testes automatizados funcionais, de integração e de API para serviços clínicos e voltados a pacientes.
+  - Construir testes que verifiquem mensagens em relação a perfis HL7 FHIR e outras especificações de interoperabilidade.
+  - Gerar dados sintéticos de pacientes que cubram casos clínicos realistas e extremos.
+  - Incluir testes nos pipelines de entrega para que as verificações relacionadas à segurança sejam executadas em cada mudança.
+  - Estimar o esforço de teste, reportar os resultados e apoiar a resolução de defeitos.
+  qualifications:
+  - Graduação em computação ou em área afim, ou experiência equivalente.
+  - Experiência na construção de testes automatizados.
+- title: Profissional de engenharia de testes sênior
+  responsibilities:
+  - Liderar a engenharia de testes de uma área, escolhendo ferramentas, estruturas e tipos de teste que tratem cedo seus riscos.
+  - Construir estruturas de teste e simuladores reutilizáveis para sistemas clínicos e integrações de parceiros.
+  - Planejar e executar testes de desempenho, de carga e de resiliência com base na demanda clínica real.
+  - Garantir que os testes automatizados sejam rastreados até os perigos e os controles de segurança e produzam evidências para os dossiês de segurança.
+  - Orientar e acompanhar outros profissionais de engenharia de testes e acordar padrões de engenharia com pessoas desenvolvedoras.
+  qualifications:
+  - Experiência substancial em engenharia de testes, em nível equivalente ao de mestrado.
+- title: Profissional de engenharia de testes líder
+  responsibilities:
+  - Definir a estratégia e os padrões de engenharia de testes em uma ampla área, incluindo testes contínuos nos pipelines de entrega.
+  - Liderar e orientar profissionais e equipes de engenharia de testes na prática de engenharia da qualidade.
+  - Garantir que os testes de software regulamentado e crítico à segurança cumpram as normas exigidas e sejam rastreáveis.
+  - Escalar riscos de qualidade e de segurança a lideranças seniores de produto, clínicas e de fornecedores.
+  - Encontrar oportunidades de testar mais cedo e com mais frequência e medir o efeito sobre a qualidade.
+  qualifications:
+  - Ampla experiência na liderança da engenharia de testes de serviços complexos.
+  job_evaluation_notes: O UK GDaD PCF sugere de SEO a G6 para este nível, o que corresponde à Faixa 7, a mesma do profissional de engenharia de testes sênior. Esta referência o coloca na Faixa 8a, porque define a estratégia e os padrões de engenharia de testes em uma ampla área.

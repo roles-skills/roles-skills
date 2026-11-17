@@ -1,0 +1,61 @@
+summary: >
+  Los ingenieros de operaciones de aplicaciones mantienen en funcionamiento las aplicaciones de la organización, incluidos los sistemas clínicos como la historia clínica electrónica y los sistemas de prescripción, laboratorio e imagen. Monitorizan las aplicaciones, ejecutan los procesos programados, gestionan los usuarios y los accesos, despliegan versiones y correcciones, y trabajan con los proveedores para resolver los fallos. Su trabajo permite que el personal clínico y corporativo confíe en estos sistemas a cualquier hora del día.
+health_context:
+  - Las aplicaciones clínicas funcionan las 24 horas, por lo que los ingenieros participan en guardias y planifican el mantenimiento en los periodos clínicos más tranquilos.
+  - Los procesos programados y las interfaces que fallan pueden retrasar resultados de pruebas, derivaciones o informes de alta, por lo que los ingenieros los vigilan de cerca y los escalan con rapidez.
+  - Las paradas planificadas y no planificadas requieren medidas de continuidad de negocio, como copias de solo lectura e informes de contingencia, para que los profesionales clínicos puedan seguir tratando a los pacientes.
+  - Muchas aplicaciones clínicas las suministran y alojan terceros, por lo que los ingenieros gestionan con cuidado a los proveedores y sus cambios.
+  - Los cambios en las aplicaciones clínicas siguen el proceso de gestión del riesgo clínico, y algunas aplicaciones pueden estar reguladas como productos sanitarios.
+levels:
+  - title: Ingeniero de operaciones de aplicaciones asociado
+    responsibilities:
+      - Monitorizar las aplicaciones, las interfaces y los procesos programados, y comunicar los fallos a los ingenieros con experiencia.
+      - Crear y modificar cuentas de usuario y accesos en las aplicaciones, siguiendo las normas de acceso basado en roles.
+      - Realizar comprobaciones y tareas de mantenimiento habituales con procedimientos operativos.
+      - Registrar con exactitud los incidentes y los cambios en la herramienta de gestión de servicios.
+      - Trabajar para obtener un programa de aprendizaje de informática o una cualificación equivalente.
+    qualifications:
+      - Matriculado en un programa de aprendizaje de informática o equivalente, o trabajando para obtenerlo.
+    job_evaluation_notes: Los conocimientos se puntúan en el nivel que exige el puesto una vez que la formación está lo bastante avanzada para hacer el trabajo.
+  - title: Ingeniero de operaciones de aplicaciones
+    responsibilities:
+      - Monitorizar las aplicaciones clínicas y corporativas y sus interfaces, y actuar sobre las alertas y los procesos fallidos antes de que afecten a la atención a los pacientes.
+      - Ejecutar y comprobar los procesos programados, como las cargas de datos nocturnas y las colas de interfaces, y resolver o escalar los fallos.
+      - Gestionar los usuarios, los roles y los accesos de las aplicaciones, incluida la retirada de accesos a quienes se van y el apoyo a las revisiones de accesos.
+      - Elaborar y probar los informes de contingencia y otros resultados de continuidad de negocio de las aplicaciones clínicas.
+      - Registrar los fallos con los proveedores y hacer su seguimiento hasta su resolución.
+      - Participar, con orientación, en las guardias para los fallos de aplicaciones fuera de horario.
+    qualifications:
+      - Una cualificación en informática, un programa de aprendizaje completado o experiencia equivalente.
+      - Experiencia en el soporte de aplicaciones de gestión o clínicas.
+  - title: Ingeniero de operaciones de aplicaciones sénior
+    responsibilities:
+      - Desplegar versiones, parches y cambios de configuración en las aplicaciones en producción, siguiendo los procedimientos de cambios y de seguridad clínica.
+      - Coordinar el trabajo técnico de puesta en marcha de nuevas aplicaciones y grandes actualizaciones, incluidos los planes de cambio de sistema y de reversión.
+      - Investigar los fallos complejos de las aplicaciones con los proveedores, los equipos de infraestructura y los especialistas en sistemas clínicos.
+      - Planificar con los servicios clínicos las ventanas de mantenimiento, y asegurarse de que los procedimientos de contingencia estén listos.
+      - Aportar evidencias a los casos de seguridad clínica, como los registros de pruebas y de despliegue.
+      - Actuar como punto de escalado en las guardias para los fallos fuera de horario.
+    qualifications:
+      - Experiencia sustancial en el soporte de aplicaciones en producción, a un nivel equivalente a un grado.
+    job_evaluation_notes: El esfuerzo mental refleja la concentración prolongada frecuente durante las puestas en marcha, los despliegues y los incidentes fuera de horario.
+  - title: Ingeniero de operaciones de aplicaciones líder
+    responsibilities:
+      - Fijar el enfoque operativo de un grupo de aplicaciones, incluidos la monitorización, la resiliencia y las medidas de soporte.
+      - Fijar normas de administración de usuarios y de seguridad en las aplicaciones clínicas, trabajando con el equipo de seguridad.
+      - Informar a los responsables de operaciones de TI sobre el rendimiento y la disponibilidad de las aplicaciones, y acordar los cambios necesarios.
+      - Dirigir la respuesta técnica a los incidentes graves que afectan a las aplicaciones clínicas.
+      - Asegurarse de que se prueban las medidas de continuidad de negocio y de recuperación ante desastres de las aplicaciones clínicas.
+      - Dirigir y desarrollar a los ingenieros de operaciones de aplicaciones.
+    qualifications:
+      - Amplia experiencia en la gestión de aplicaciones en producción, incluidos sistemas clínicos u otros sistemas críticos.
+  - title: Ingeniero de operaciones de aplicaciones principal
+    responsibilities:
+      - Ser responsable de la estrategia de operaciones de aplicaciones en todas las aplicaciones clínicas y corporativas de la organización.
+      - Gestionar a los proveedores estratégicos de aplicaciones clínicas, incluidos los niveles de servicio, el cumplimiento de los contratos y los cambios de los proveedores.
+      - Asesorar a la alta dirección sobre los riesgos de las aplicaciones, como el software sin soporte, los puntos únicos de fallo y la resiliencia frente al ransomware.
+      - Asegurarse de que la organización puede seguir atendiendo a los pacientes con seguridad durante las paradas prolongadas de las aplicaciones.
+      - Dirigir los recursos, el aprendizaje y el desarrollo de los equipos de operaciones de aplicaciones.
+    qualifications:
+      - Amplia experiencia en la dirección de las operaciones de aplicaciones de una organización grande.
+    job_evaluation_notes: El UK GDaD PCF propone la banda 8c para este nivel (G6). Esta referencia lo sitúa en la banda 8b, de acuerdo con los puestos principales de otras familias técnicas, porque su ámbito es un área técnica y no una dirección.

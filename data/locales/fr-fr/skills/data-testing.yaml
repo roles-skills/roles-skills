@@ -1,0 +1,46 @@
+# French translations of data/skills/data-testing.yaml. Keys are the English skill ids.
+data-ai-assurance:
+  name: Une IA sûre et équitable en santé
+  description: Veiller à ce que les modèles statistiques, d'apprentissage automatique et d'IA utilisés en santé et en soins soient sûrs, équitables, explicables et surveillés, notamment en vérifiant les biais entre groupes de patients et en respectant la réglementation des dispositifs médicaux et de l'IA.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer comment un modèle peut nuire aux patients, par exemple par des biais, une dérive ou une confiance excessive dans ses résultats
+      - expliquer pourquoi les modèles doivent être validés sur la population avec laquelle ils seront utilisés
+    working: |
+      Vous pouvez :
+      - mesurer la performance d'un modèle pour différents groupes de patients et signaler les écarts
+      - documenter l'usage prévu d'un modèle, ses données d'entraînement et ses limites connues, par exemple dans une fiche de modèle
+      - apporter des preuves sur un modèle à un dossier de sécurité clinique
+    practitioner: |
+      Vous pouvez :
+      - planifier avec les collègues cliniques la validation, l'évaluation des biais et la surveillance en production d'un modèle
+      - décider quand un modèle doit être réentraîné, restreint ou retiré
+      - conseiller les équipes sur les cas où un modèle peut être réglementé comme dispositif médical et sur les preuves nécessaires
+    expert: |
+      Vous pouvez :
+      - fixer les normes de l'organisation pour garantir et surveiller l'IA dans les soins
+      - diriger l'assurance des modèles à haut risque avant et après leur déploiement
+      - représenter l'organisation auprès des régulateurs et des partenaires sur une IA sûre et équitable
+data-deidentification:
+  name: Pseudonymisation et contrôle de la divulgation
+  description: Protéger la confidentialité des patients quand les données sont reliées, analysées, partagées ou publiées, par la pseudonymisation, l'anonymisation, la suppression des petits effectifs et d'autres méthodes de contrôle statistique de la divulgation.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer la différence entre données identifiantes, pseudonymisées et anonymisées
+      - suivre les règles de l'organisation pour masquer les petits effectifs dans les résultats
+    working: |
+      Vous pouvez :
+      - travailler avec des données pseudonymisées et appliquer des contrôles de divulgation avant de publier des résultats
+      - reconnaître quand des données reliées ou détaillées pourraient identifier un patient
+    practitioner: |
+      Vous pouvez :
+      - concevoir des méthodes de pseudonymisation et de chaînage qui séparent les identifiants des données d'analyse
+      - évaluer le risque de réidentification d'un jeu de données ou d'une publication et choisir des mesures adaptées
+      - conseiller les équipes sur les environnements sécurisés, comme les environnements de recherche de confiance
+    expert: |
+      Vous pouvez :
+      - fixer les normes de l'organisation en matière de désidentification et de contrôle de la divulgation
+      - garantir les mises à disposition de données et les projets de chaînage à haut risque
+      - diriger le travail avec les partenaires sur l'accès sécurisé aux données pour la recherche et la planification

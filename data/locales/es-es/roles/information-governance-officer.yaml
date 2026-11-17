@@ -1,0 +1,68 @@
+summary: >
+  El personal de gobernanza de la información ayuda a la organización a tratar la información personal y sanitaria de forma lícita, segura y ética. Asesora a los equipos sobre la protección de datos y la confidencialidad, tramita las solicitudes de derechos de información, apoya las evaluaciones de impacto relativas a la protección de datos, gestiona las brechas de datos y reúne las evidencias que demuestran que la organización cumple las normas de gobernanza de la información.
+health_context:
+  - La legislación de protección de datos otorga una protección adicional a la información sanitaria, por lo que el listón del uso lícito, la seguridad y la transparencia es alto.
+  - Los servicios de salud digital suelen compartir datos entre muchas organizaciones asistenciales, por lo que los acuerdos de intercambio de información y los flujos de datos necesitan una revisión cuidadosa.
+  - Los pacientes y el público tienen derechos legales de acceso a sus historias y a la información de la organización, con plazos estrictos.
+  - Las brechas de datos que afectan a información sanitaria pueden causar daños y angustia reales, por lo que los incidentes necesitan una gestión rápida y cuidadosa.
+  - Los nuevos usos de los datos, como la analítica, la investigación y la IA, plantean cuestiones de consentimiento, confidencialidad y confianza pública.
+levels:
+  - title: Técnico de gobernanza de la información
+    summary: Apoya al equipo de gobernanza de la información con las solicitudes de derechos de información, el registro de incidentes, los registros de formación y la recogida de evidencias, siguiendo procedimientos establecidos.
+    responsibilities:
+      - Registrar, acusar recibo y hacer seguimiento de las solicitudes de derechos de información, y reunir información para las respuestas.
+      - Registrar las brechas de datos y los cuasi incidentes, y reunir los hechos para su revisión.
+      - Mantener al día los registros de gobernanza de la información, como el inventario de activos de información y el mapa de flujos de datos.
+      - Reunir evidencias para la autoevaluación anual de gobernanza de la información.
+      - Hacer seguimiento de que el personal completa la formación en gobernanza de la información.
+      - Responder a las preguntas habituales del personal sobre gobernanza de la información.
+    qualifications:
+      - Experiencia en trabajo administrativo o de registros, o una cualificación básica en protección de datos o experiencia equivalente.
+    job_evaluation_notes: El esfuerzo emocional refleja la exposición indirecta frecuente a contenidos angustiosos de las solicitudes, los registros y los informes de brechas.
+  - title: Técnico de gobernanza de la información sénior
+    summary: Gestiona una cartera de solicitudes de derechos de información e incidentes, y apoya a los equipos en las evaluaciones de impacto relativas a la protección de datos y el intercambio de información.
+    responsibilities:
+      - Tramitar las solicitudes de derechos de información, incluidas la anonimización parcial y la aplicación de excepciones, dentro de los plazos legales.
+      - Evaluar e investigar las brechas de datos y los cuasi incidentes, y hacer seguimiento de las acciones hasta su cierre.
+      - Ayudar a los equipos de proyecto a completar las evaluaciones de impacto relativas a la protección de datos y a describir los flujos de datos.
+      - Redactar acuerdos de intercambio de información y avisos de privacidad para su revisión.
+      - Impartir formación y sesiones informativas sobre gobernanza de la información al personal.
+      - Realizar auditorías de accesos y de mantenimiento de registros.
+    qualifications:
+      - Una cualificación reconocida en protección de datos o gobernanza de la información, o experiencia equivalente.
+  - title: Líder de gobernanza de la información
+    summary: Da asesoramiento experto en gobernanza de la información a una dirección o programa, dirigiendo las evaluaciones de impacto relativas a la protección de datos y los casos complejos.
+    responsibilities:
+      - Asesorar a los equipos de producto y a los servicios sobre la base jurídica, el consentimiento, la confidencialidad y la conservación.
+      - Revisar las evaluaciones de impacto relativas a la protección de datos de los sistemas complejos y recomendar controles.
+      - Tramitar las solicitudes de derechos de información complejas o controvertidas y las revisiones internas.
+      - Investigar las brechas de datos graves y recomendar si notificarlas a los reguladores.
+      - Revisar los acuerdos de intercambio de información con las organizaciones socias.
+      - Supervisar y orientar a los técnicos de gobernanza de la información.
+    qualifications:
+      - Una cualificación profesional reconocida en protección de datos o gobernanza de la información, o experiencia equivalente.
+      - Experiencia en asesoramiento sobre protección de datos en un entorno de salud o asistencia.
+  - title: Gestor de gobernanza de la información
+    summary: Gestiona en el día a día el servicio de gobernanza de la información, incluidos su equipo, sus casos, su programa de aseguramiento y su formación.
+    responsibilities:
+      - Gestionar el equipo de gobernanza de la información y sus casos, asegurándose de que se cumplen los plazos legales.
+      - Planificar y dirigir el programa de aseguramiento de la gobernanza de la información y la autoevaluación anual.
+      - Redactar y revisar las políticas y los procedimientos de gobernanza de la información.
+      - Asesorar a la alta dirección sobre los riesgos de la información y mantener el registro de riesgos de la información.
+      - Dirigir la respuesta a los incidentes graves, trabajando con los colegas de seguridad, seguridad clínica y comunicación.
+      - Diseñar y supervisar la formación en gobernanza de la información de todo el personal.
+    qualifications:
+      - Una cualificación profesional reconocida en protección de datos o gobernanza de la información, o experiencia equivalente.
+      - Experiencia sustancial en gobernanza de la información en salud o asistencia.
+  - title: Responsable de gobernanza de la información
+    summary: Dirige la gobernanza de la información de la organización, fijando su política y su estrategia y asesorando a la alta dirección sobre el riesgo de la información y el cumplimiento.
+    responsibilities:
+      - Fijar la estrategia, las políticas y el marco de gobernanza de la información de la organización.
+      - Dirigir los servicios de gobernanza de la información y de historias clínicas y desarrollar a su personal.
+      - Asesorar al responsable directivo del riesgo de la información, al consejo y a sus comités sobre el riesgo de la información y el cumplimiento.
+      - Tomar las decisiones finales sobre las cuestiones complejas de divulgación, intercambio y notificación de brechas.
+      - Representar a la organización ante los reguladores, los auditores y las organizaciones socias.
+      - Asegurarse de que los nuevos servicios digitales, usos de datos e IA se diseñan desde el principio con privacidad y transparencia.
+    qualifications:
+      - Una cualificación profesional reconocida en protección de datos o gobernanza de la información, o experiencia equivalente.
+      - Amplia experiencia en la dirección de la gobernanza de la información en salud o asistencia.

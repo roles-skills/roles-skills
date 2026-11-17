@@ -1,0 +1,48 @@
+summary: >
+  Los analistas de pruebas de aseguramiento de la calidad comprueban que los servicios de salud digital de la organización hacen lo que necesitan los pacientes, los profesionales clínicos y el personal asistencial, de forma segura y fiable. Analizan los requisitos y los diseños para detectar pronto los riesgos, diseñan y ejecutan pruebas funcionales y no funcionales, y notifican los defectos con claridad. En la atención sanitaria esto incluye probar los flujos de trabajo clínicos, la exactitud de los datos y los controles que protegen a los pacientes frente al daño.
+health_context:
+  - Los defectos de los sistemas clínicos pueden causar daño a los pacientes, por ejemplo una dosis de medicamento errónea, un resultado no visto o una historia mostrada del paciente equivocado, por lo que las pruebas se priorizan según el riesgo clínico.
+  - Las pruebas aportan evidencias a los casos de seguridad clínica y a los registros de peligros, por lo que los planes de pruebas se trazan con los peligros identificados y sus controles.
+  - Los datos de prueba nunca deben exponer a pacientes reales, por lo que los analistas usan datos de prueba sintéticos o debidamente desidentificados.
+  - Muchos servicios intercambian datos con otros sistemas de salud y asistencia, por lo que las pruebas comprueban los mensajes frente a estándares como HL7 FHIR y el significado de los códigos clínicos.
+  - Entre los usuarios hay profesionales clínicos con presión de tiempo, pacientes con necesidades muy diversas y usuarios de tecnologías de apoyo, por lo que importan las pruebas de usabilidad y de accesibilidad.
+levels:
+  - title: Analista de pruebas de aseguramiento de la calidad asociado
+    responsibilities:
+      - Ejecutar guiones de prueba de flujos de trabajo clínicos y administrativos bajo supervisión, registrando los resultados con exactitud.
+      - Redactar informes de defectos claros, con los pasos, los datos y las pantallas implicados.
+      - Usar datos de prueba sintéticos y no usar nunca datos reales de pacientes en los entornos de prueba.
+      - Aprender los enfoques y las herramientas de prueba del equipo y el proceso de seguridad clínica.
+      - Participar en las ceremonias del equipo, como las reuniones diarias, la planificación y las retrospectivas.
+    qualifications:
+      - Buenas habilidades analíticas y de redacción, y algo de experiencia en pruebas o en el trabajo con sistemas digitales, o equivalente.
+  - title: Analista de pruebas de aseguramiento de la calidad
+    responsibilities:
+      - Analizar las historias de usuario, los diseños y los flujos de trabajo clínicos para decidir qué probar, según el riesgo para los pacientes y los servicios.
+      - Diseñar y ejecutar pruebas funcionales, de accesibilidad y de usabilidad, incluidos escenarios clínicos de principio a fin.
+      - Trazar las pruebas con los peligros y los controles de seguridad, y aportar evidencias de pruebas a los casos de seguridad clínica.
+      - Comprobar los datos que se muestran a los usuarios frente a los sistemas de origen y los códigos clínicos acordados.
+      - Crear y mantener datos de prueba sintéticos realistas.
+      - Hacer seguimiento de los defectos hasta su resolución y volver a probar las correcciones.
+    qualifications:
+      - Experiencia en el diseño y la ejecución de pruebas de servicios digitales, o equivalente.
+    job_evaluation_notes: El UK GDaD PCF propone HEO o SEO tanto para este nivel como para el sénior, lo que sitúa a ambos en la banda 6. Esta referencia sitúa este nivel en la banda 5 y el sénior en la banda 6, para que los dos niveles estén en bandas distintas.
+  - title: Analista de pruebas de aseguramiento de la calidad sénior
+    responsibilities:
+      - Coordinar el aseguramiento de la calidad de un producto o un área, acordando los enfoques de prueba, los entornos, los datos y las herramientas.
+      - Detectar pronto los riesgos clínicos y operativos revisando los requisitos, los diseños y los cambios con los profesionales clínicos y los equipos de producto.
+      - Planificar y dirigir las pruebas de aceptación de usuario con profesionales clínicos y personal asistencial.
+      - Comunicar los resultados de las pruebas y los riesgos residuales a los propietarios de producto y a los responsables de seguridad clínica, para que puedan decidir sobre las publicaciones.
+      - Orientar a otros analistas de pruebas y ayudarles a seguir las normas de pruebas y de seguridad clínica.
+    qualifications:
+      - Experiencia sustancial en análisis de pruebas, también en entornos complejos o regulados, o equivalente.
+  - title: Analista de pruebas de aseguramiento de la calidad líder
+    responsibilities:
+      - Fijar las normas y las buenas prácticas de análisis de pruebas en toda la organización, incluidas las pruebas basadas en el riesgo de los sistemas clínicos.
+      - Definir las estrategias de pruebas de los grandes programas, como los cambios de la historia clínica electrónica o los nuevos servicios para pacientes.
+      - Asegurarse de que las pruebas aportan las evidencias necesarias para los casos de seguridad clínica y, cuando corresponda, para los expedientes técnicos de productos sanitarios.
+      - Negociar y escalar los grandes riesgos, problemas y defectos con los responsables de producto, clínicos y de los proveedores de alto nivel.
+      - Ser mentor y orientar a los analistas de pruebas y dirigir la comunidad de análisis de pruebas.
+    qualifications:
+      - Amplia experiencia en la dirección del análisis de pruebas de servicios complejos.
+    job_evaluation_notes: El UK GDaD PCF propone G7 o G6 para este nivel, lo que corresponde a la banda 8b. Esta referencia lo sitúa en la banda 8a, al mismo nivel que el ingeniero de pruebas líder, porque dirige una disciplina de pruebas y no todas las pruebas; el responsable de pruebas está en la banda 8c.

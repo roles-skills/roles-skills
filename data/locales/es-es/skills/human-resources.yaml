@@ -1,0 +1,298 @@
+# Spanish translations of data/skills/human-resources.yaml. Keys are the English skill ids.
+hr-hr-administration:
+  name: Administración de recursos humanos
+  description: Llevar a cabo con exactitud y confidencialidad los procesos administrativos del ciclo de vida laboral, desde los contratos y las altas hasta los cambios, los registros de ausencias y las bajas.
+  levels:
+    awareness: |
+      Puede:
+      - seguir los procedimientos de la organización para altas, cambios y bajas
+      - mantener los expedientes personales confidenciales y al día
+    working: |
+      Puede:
+      - preparar con exactitud contratos, cartas de modificación y comprobaciones previas a la contratación
+      - tramitar los cambios en el sistema de recursos humanos y nóminas dentro de los plazos
+      - responder a las preguntas habituales de gestores y personal sobre los procesos de recursos humanos
+    practitioner: |
+      Puede:
+      - gestionar un servicio de administración de recursos humanos, comprobando la calidad y cumpliendo las normas de servicio
+      - mejorar los procesos y las plantillas, y automatizar los pasos rutinarios cuando sea posible
+      - resolver casos complejos o inusuales, como pagos indebidos o errores en los contratos
+    expert: |
+      Puede:
+      - diseñar el modelo operativo de recursos humanos y las normas de servicio de la organización
+      - dirigir el paso a procesos de recursos humanos digitales y de autoservicio
+      - fijar controles que mantengan los datos de recursos humanos y nóminas exactos y lícitos
+hr-employment-policy:
+  name: Derecho laboral y políticas de personas
+  description: Aplicar el derecho laboral y redactar, interpretar y revisar las políticas de personas de la organización para que el personal reciba un trato lícito, justo y coherente.
+  levels:
+    awareness: |
+      Puede:
+      - explicar las principales políticas de personas y dónde encontrarlas
+      - reconocer cuándo una pregunta requiere el consejo de un asesor de recursos humanos
+    working: |
+      Puede:
+      - aplicar las políticas de personas a casos habituales y explicarlas a los gestores
+      - identificar los principios de derecho laboral en que se basa una política
+      - llevar los registros de las políticas y hacer seguimiento de sus fechas de revisión
+    practitioner: |
+      Puede:
+      - interpretar el derecho laboral y las políticas en casos complejos y asesorar sobre el riesgo
+      - redactar y revisar políticas de personas, con evaluaciones de impacto en la igualdad
+      - consultar los cambios de política con la representación del personal
+    expert: |
+      Puede:
+      - fijar el marco de políticas de personas de la organización y su enfoque del riesgo legal
+      - anticipar los cambios del derecho laboral y planificar la respuesta de la organización
+      - asesorar al consejo sobre el riesgo y la responsabilidad laborales
+hr-employee-relations:
+  name: Gestión de casos de relaciones laborales
+  description: Gestionar casos formales e informales de relaciones laborales, como los de conducta, capacidad, quejas, asistencia y dignidad en el trabajo, de forma justa y de acuerdo con la política y el derecho laboral.
+  levels:
+    awareness: |
+      Puede:
+      - explicar las principales fases de los procedimientos de conducta, capacidad, quejas y asistencia
+      - tomar notas exactas en las reuniones formales y mantener confidenciales los expedientes
+    working: |
+      Puede:
+      - asesorar a los gestores sobre casos sencillos y el siguiente paso de un procedimiento
+      - apoyar las investigaciones, preparar la documentación de los casos y organizar las audiencias
+      - trabajar de forma constructiva con la representación del personal en casos individuales
+    practitioner: |
+      Puede:
+      - gestionar una cartera de casos complejos, asesorando a los tribunales de audiencia sobre resultados justos
+      - realizar o dirigir investigaciones, incluidas las relacionadas con incidentes o con la protección de personas vulnerables
+      - usar la resolución temprana y la mediación para resolver los conflictos antes de que escalen
+      - detectar tendencias en los casos y actuar sobre sus causas
+    expert: |
+      Puede:
+      - dirigir el enfoque de la organización sobre las relaciones laborales y el trabajo con la representación del personal
+      - gestionar los casos más delicados o de mayor riesgo, incluidas las demandas laborales
+      - negociar convenios colectivos y resolver conflictos colectivos
+hr-recruitment-and-selection:
+  name: Reclutamiento y selección
+  description: Atraer, evaluar y nombrar a personas de forma justa y eficiente, desde el diseño del puesto y la publicación de la oferta, pasando por la preselección y la evaluación, hasta la oferta y las comprobaciones previas a la contratación.
+  levels:
+    awareness: |
+      Puede:
+      - explicar las fases del proceso de selección de la organización
+      - seguir las normas de una selección justa y segura, incluidas las comprobaciones previas a la contratación
+    working: |
+      Puede:
+      - gestionar campañas de selección con el sistema de seguimiento de candidaturas
+      - apoyar a los gestores con las ofertas, la preselección y la organización de entrevistas
+      - completar las comprobaciones previas a la contratación y hacer ofertas condicionadas
+    practitioner: |
+      Puede:
+      - asesorar a los gestores sobre el diseño de puestos, los métodos de selección y una evaluación justa
+      - diseñar evaluaciones para puestos especializados, como ejercicios técnicos para puestos digitales
+      - analizar los datos de selección para mejorar el tiempo de contratación, la calidad y la diversidad
+      - gestionar la experiencia de las personas candidatas y la marca empleadora
+    expert: |
+      Puede:
+      - fijar la estrategia de selección y las normas de servicio de la organización
+      - dirigir la elección y el uso de la tecnología de selección y de las agencias
+      - asegurarse de que la selección es inclusiva y lícita en toda la organización
+hr-talent-attraction:
+  name: Atracción y búsqueda de talento
+  description: Encontrar e implicar a personas con habilidades escasas, como especialistas digitales, de datos y de tecnología, mediante la marca empleadora, la búsqueda directa, las redes y las vías de inicio profesional.
+  levels:
+    awareness: |
+      Puede:
+      - explicar qué habilidades son difíciles de contratar y por qué
+      - compartir las ofertas de empleo por los canales y las redes de la organización
+    working: |
+      Puede:
+      - redactar ofertas que atraigan a candidaturas especializadas y usen un lenguaje claro
+      - buscar candidaturas en portales de empleo, redes profesionales y bolsas de talento
+      - apoyar eventos, como ferias de empleo y jornadas de puertas abiertas
+    practitioner: |
+      Puede:
+      - crear canteras y comunidades de talento para los puestos digitales y de datos escasos
+      - dar forma a la propuesta de valor al empleado con los equipos que contratan
+      - usar datos de mercado sobre retribución y disponibilidad para asesorar sobre puestos difíciles de cubrir
+      - desarrollar vías de inicio profesional, como los programas de aprendizaje y para recién titulados
+    expert: |
+      Puede:
+      - fijar la estrategia de atracción de talento y la marca empleadora de la organización
+      - trabajar con socios, como universidades y otros empleadores, para aumentar la oferta de talento
+      - dirigir las decisiones sobre complementos retributivos, el uso de agencias y modelos alternativos de búsqueda
+hr-workforce-planning:
+  name: Planificación de la plantilla
+  description: Prever la plantilla que necesita la organización, compararla con la que tiene y planificar cómo cubrir la diferencia mediante la selección, el desarrollo, el rediseño y la retención.
+  levels:
+    awareness: |
+      Puede:
+      - explicar por qué la planificación de la plantilla importa para unos servicios seguros y sostenibles
+      - facilitar información exacta sobre la plantilla y las vacantes
+    working: |
+      Puede:
+      - reunir y comprobar los datos del plan de plantilla de los gestores
+      - modelizar escenarios sencillos, como las tendencias de rotación y de vacantes
+    practitioner: |
+      Puede:
+      - dirigir la planificación de la plantilla de una dirección, vinculándola a los planes de servicio y financieros
+      - identificar carencias de habilidades y recomendar formas de cubrirlas
+      - planificar nuevos puestos, itinerarios profesionales y combinaciones de perfiles
+    expert: |
+      Puede:
+      - fijar la estrategia de plantilla y el plan a largo plazo de la organización
+      - decidir compensaciones de plantilla entre servicios con los responsables financieros y de servicio
+      - dar forma a los planes de plantilla con socios de todo el sistema de salud y asistencia
+hr-workforce-information:
+  name: Información de plantilla y sistemas de recursos humanos
+  description: Gestionar los sistemas y los datos de recursos humanos y de plantilla, y convertir los datos de plantilla en informes y conocimiento, como los análisis de rotación, ausencias, vacantes, diversidad y brecha salarial.
+  levels:
+    awareness: |
+      Puede:
+      - introducir con exactitud los datos de plantilla en el sistema de recursos humanos
+      - explicar por qué los datos de plantilla deben ser exactos y confidenciales
+    working: |
+      Puede:
+      - ejecutar los informes de plantilla estándar y comprobar que no tienen errores
+      - responder a las solicitudes de información habituales sobre la plantilla
+    practitioner: |
+      Puede:
+      - analizar los datos de plantilla para encontrar tendencias y explicárselas a los gestores
+      - diseñar cuadros de mando e informes de indicadores de plantilla
+      - elaborar los informes obligatorios y de igualdad, como el análisis de la brecha salarial
+    expert: |
+      Puede:
+      - fijar la estrategia de información de plantilla y las normas de datos de la organización
+      - dirigir la elección y el desarrollo de los sistemas de recursos humanos
+      - usar el conocimiento sobre la plantilla para fundamentar las decisiones del consejo
+hr-reward-and-job-evaluation:
+  name: Retribución y valoración de puestos
+  description: Aplicar las normas de retribución y compensación, y valorar los puestos de forma coherente con un sistema de valoración de puestos para situarlos en la banda adecuada.
+  levels:
+    awareness: |
+      Puede:
+      - explicar cómo funcionan las bandas salariales, los incrementos y los complementos
+      - explicar que los puestos se asignan a una banda por la valoración del puesto, no por la persona que lo ocupa
+    working: |
+      Puede:
+      - aplicar las normas retributivas, como el salario inicial, la garantía salarial y los complementos
+      - comprobar que las descripciones de puestos están completas antes de su valoración
+      - participar como miembro formado en los tribunales de valoración de puestos
+    practitioner: |
+      Puede:
+      - dirigir los tribunales de valoración de puestos y las comprobaciones de coherencia
+      - asesorar sobre la banda de los puestos nuevos y modificados, incluidos los digitales y de datos
+      - asesorar sobre los complementos de captación y retención, con datos de mercado
+    expert: |
+      Puede:
+      - fijar la estrategia de compensación de la organización dentro del marco retributivo acordado
+      - garantizar la integridad de la valoración de puestos en toda la organización
+      - dirigir las revisiones de igualdad retributiva y actuar sobre sus conclusiones
+hr-learning-design-and-delivery:
+  name: Diseño e impartición del aprendizaje
+  description: Analizar las necesidades de aprendizaje y, después, diseñar, impartir y evaluar el aprendizaje presencial, en línea y en el propio trabajo.
+  levels:
+    awareness: |
+      Puede:
+      - explicar la diferencia entre formación, aprendizaje y desarrollo
+      - apoyar la realización de los cursos y llevar los registros de formación
+    working: |
+      Puede:
+      - impartir sesiones de formación bien definidas, presenciales y en línea
+      - crear cursos en línea sencillos en el sistema de gestión del aprendizaje
+      - reunir y resumir la opinión del alumnado
+    practitioner: |
+      Puede:
+      - analizar las necesidades de aprendizaje y diseñar programas combinados para cubrirlas
+      - fijar resultados de aprendizaje y evaluar el impacto, no solo la satisfacción
+      - hacer que el aprendizaje sea accesible e inclusivo para todo el personal
+    expert: |
+      Puede:
+      - fijar la estrategia y las normas de aprendizaje de la organización
+      - dirigir la oferta de aprendizaje, su tecnología y su financiación
+      - demostrar el retorno de la inversión de la organización en aprendizaje
+hr-skills-frameworks-and-career-pathways:
+  name: Marcos de habilidades e itinerarios profesionales
+  description: Usar marcos de habilidades y de puestos, como esta referencia, el UK GDaD PCF y ESCO, para describir puestos, evaluar las carencias de habilidades y crear itinerarios profesionales.
+  levels:
+    awareness: |
+      Puede:
+      - explicar qué es un marco de habilidades y cómo describe los puestos y los niveles
+      - encontrar en el marco el perfil y las habilidades de un puesto
+    working: |
+      Puede:
+      - relacionar las descripciones de puestos con los roles, los niveles y las habilidades del marco
+      - apoyar al personal y a los gestores en las autoevaluaciones de habilidades
+      - mantener al día la información sobre los itinerarios profesionales
+    practitioner: |
+      Puede:
+      - realizar el análisis de carencias de habilidades de un equipo o una profesión e informar de los resultados
+      - diseñar itinerarios profesionales y vías de desarrollo con los niveles del marco
+      - usar las habilidades del marco para redactar descripciones de puestos y evaluaciones coherentes
+    expert: |
+      Puede:
+      - fijar cómo usa la organización los marcos de habilidades en todas las profesiones
+      - usar los datos de habilidades para fundamentar la estrategia de plantilla, aprendizaje y compensación
+      - contribuir al desarrollo de marcos compartidos con otras organizaciones
+hr-organisational-development:
+  name: Desarrollo organizativo
+  description: Mejorar el funcionamiento de la organización mediante intervenciones basadas en la evidencia sobre la cultura, el liderazgo, la implicación, la eficacia de los equipos y el bienestar.
+  levels:
+    awareness: |
+      Puede:
+      - explicar cómo afectan la cultura, el liderazgo y la implicación al personal y a la atención a los pacientes
+      - ayudar a realizar encuestas al personal y actividades de escucha
+    working: |
+      Puede:
+      - facilitar sesiones y talleres de equipo con herramientas estándar
+      - analizar los resultados de la encuesta al personal de un equipo y proponer acciones
+    practitioner: |
+      Puede:
+      - diagnosticar problemas organizativos y diseñar intervenciones para abordarlos
+      - dirigir programas de desarrollo de equipos, de desarrollo del liderazgo y de implicación
+      - evaluar el efecto de las intervenciones a partir de la evidencia
+    expert: |
+      Puede:
+      - fijar la estrategia de desarrollo organizativo y el programa de cultura
+      - orientar a la alta dirección y dirigir cambios culturales a gran escala
+      - vincular las medidas de cultura e implicación con la calidad de la atención y el rendimiento
+hr-organisational-change:
+  name: Cambio organizativo y consulta
+  description: Planificar y gestionar los cambios en las estructuras, los puestos y los patrones de trabajo, incluidos la consulta formal, la recolocación y los despidos, de acuerdo con la política y el derecho laboral.
+  levels:
+    awareness: |
+      Puede:
+      - explicar las principales fases de un proceso de cambio organizativo
+      - apoyar la administración de un cambio, como las cartas y reuniones de consulta
+    working: |
+      Puede:
+      - ayudar a los gestores a preparar los documentos de consulta y las sesiones informativas para el personal
+      - hacer seguimiento de las respuestas y las acciones durante la consulta
+      - apoyar al personal en los procesos de recolocación y selección
+    practitioner: |
+      Puede:
+      - dirigir el cambio organizativo de una dirección, desde el caso de negocio hasta la implantación
+      - consultar con el personal y su representación y responder a sus aportaciones
+      - gestionar los riesgos legales y de igualdad de un cambio
+    expert: |
+      Puede:
+      - dirigir reestructuraciones de toda la organización y traspasos de servicios
+      - diseñar el enfoque de la organización respecto al cambio, incluido el trabajo con la representación del personal
+      - asesorar al consejo sobre el impacto en las personas y el riesgo de los cambios importantes
+hr-people-strategy:
+  name: Estrategia de personas y liderazgo de recursos humanos
+  description: Fijar la estrategia de personas de la organización, dirigir la función de recursos humanos y asesorar al consejo sobre la cultura, la plantilla y el riesgo laboral.
+  levels:
+    awareness: |
+      Puede:
+      - explicar la estrategia de personas de la organización y cómo la apoya su trabajo
+    working: |
+      Puede:
+      - contribuir a los planes de personas de un servicio, con acciones y medidas claras
+      - informar del avance respecto al plan de personas
+    practitioner: |
+      Puede:
+      - redactar y dirigir los planes de personas de una dirección de acuerdo con la estrategia de personas
+      - asesorar a la alta dirección sobre los riesgos y las prioridades de personas
+      - dirigir una parte de la función de recursos humanos, fijando sus normas y prioridades
+    expert: |
+      Puede:
+      - fijar la estrategia de personas de la organización y dirigir la función de recursos humanos
+      - asesorar al consejo sobre la cultura, la plantilla y el riesgo laboral
+      - representar a la organización en materia de personas ante socios y reguladores

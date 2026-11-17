@@ -1,0 +1,50 @@
+summary: >
+  Los gestores de contratos se aseguran de que la organización obtenga aquello por lo que paga una vez firmado el contrato. Gestionan el rendimiento de los proveedores, los pagos, las modificaciones, los conflictos, las renovaciones y la salida, y establecen relaciones con los proveedores clave. En una organización de atención sanitaria digital, muchos de los contratos más importantes son de sistemas clínicos, alojamiento en la nube y servicios tecnológicos de los que dependen cada día pacientes y personal.
+health_context:
+  - Las caídas o los fallos de los sistemas clínicos pueden afectar a la atención a los pacientes, por lo que los gestores de contratos vigilan de cerca la disponibilidad, la respuesta a incidentes y los niveles de soporte, y aplican las medidas contractuales cuando es necesario.
+  - Los proveedores suelen tratar datos de pacientes, por lo que los contratos se gestionan con los colegas de gobernanza de la información y de seguridad, incluidas las cláusulas de protección de datos, las auditorías y la gestión de brechas.
+  - La salida y la devolución de los datos deben planificarse desde el principio, para que las historias de los pacientes puedan pasar a un nuevo sistema en un formato utilizable y las copias antiguas se supriman de forma segura.
+  - Las modificaciones de los contratos deben seguir las normas de contratación pública, por lo que los gestores de contratos comprueban si un cambio necesita una nueva licitación.
+  - Las versiones de los proveedores pueden cambiar el comportamiento de un sistema clínico, por lo que los gestores de contratos se aseguran de que los proveedores cumplen sus obligaciones de seguridad clínica.
+levels:
+  - title: Gestor de contratos
+    summary: Gestiona una cartera de contratos, incluidos los contratos tecnológicos y de sistemas clínicos, desde su puesta en marcha hasta su renovación, dentro del marco de gestión de contratos. También se denomina técnico de contratos.
+    responsibilities:
+      - Gestionar una cartera de contratos, manteniendo al día el registro de contratos, los documentos y las fechas clave.
+      - Realizar revisiones periódicas del rendimiento con los proveedores, con los niveles de servicio y los indicadores clave de rendimiento.
+      - Contrastar las facturas con las condiciones del contrato y resolver las disputas de facturación.
+      - Negociar y tramitar las modificaciones de los contratos dentro de las normas de contratación.
+      - Hacer seguimiento del uso de las licencias, las renovaciones y los plazos de preaviso, y planificar las renovaciones y las nuevas licitaciones de la cartera.
+      - Mantener al día los planes de salida y los registros de datos de cada contrato.
+      - Trabajar con los colegas de gobernanza de la información y de seguridad en las comprobaciones de protección de datos y de seguridad de los proveedores.
+    qualifications:
+      - Una cualificación reconocida de compras o de gestión de contratos de nivel avanzado, o experiencia equivalente.
+      - Experiencia en la gestión de contratos de servicios, a ser posible tecnológicos.
+    job_evaluation_notes: Los anuncios del sector sanitario sitúan este rol en la banda 7. El análisis está en el nivel 5 por los juicios sobre condiciones contractuales complejas y conflictos, la planificación en el nivel 4 por las renovaciones de toda la cartera, y los recursos financieros en el nivel 4 porque el puesto gestiona el gasto de una cartera de contratos de servicios.
+  - title: Gestor de contratos sénior
+    summary: Gestiona los contratos estratégicos y de alto riesgo de la organización, como la historia clínica electrónica y el alojamiento en la nube, y dirige las relaciones con los proveedores clave.
+    responsibilities:
+      - Gestionar los contratos estratégicos de sistemas clínicos y servicios tecnológicos, incluida la puesta en marcha de los nuevos contratos.
+      - Dirigir las revisiones estratégicas con los proveedores clave, que abarcan el rendimiento, la hoja de ruta, los riesgos y los planes de mejora.
+      - Aplicar las medidas contractuales, como las penalizaciones por nivel de servicio y los planes de corrección, cuando el rendimiento no sea suficiente.
+      - Negociar las modificaciones y renovaciones de los contratos y la resolución de los conflictos.
+      - Redactar y probar los planes de salida y transición, incluidas la devolución de los datos en formatos estándar y su supresión segura.
+      - Evaluar los riesgos de los proveedores, como la salud financiera, la ciberseguridad y la cadena de suministro, y planificar la respuesta a su fallo.
+      - Orientar y supervisar a los gestores de contratos.
+    qualifications:
+      - Una cualificación reconocida de compras o de gestión de contratos de nivel avanzado, o un máster en una materia afín, o experiencia equivalente.
+      - Experiencia sustancial en la gestión de contratos estratégicos de tecnología o de servicios externalizados.
+    job_evaluation_notes: Los anuncios del sector sanitario sitúan este rol en la banda 8a. Los conocimientos, el análisis y la libertad de actuación se puntúan según el perfil de la banda 8a porque el puesto gestiona los contratos estratégicos de la organización con poca supervisión. Los recursos financieros están en el nivel 4 porque el puesto gestiona el gasto y los activos de contratos de servicios de gran valor.
+  - title: Gestor de contratos líder
+    summary: Dirige la gestión de contratos y de proveedores en toda la organización, fijando el marco de gestión de contratos y gestionando el equipo de contratos.
+    responsibilities:
+      - Fijar el marco, las normas y las herramientas de gestión de contratos de la organización.
+      - Dirigir el equipo de gestión de contratos y su cartera de contratos.
+      - Dirigir la gestión de las relaciones con los proveedores más críticos y resolver los grandes conflictos.
+      - Fijar las normas de planificación de la salida y de devolución de los datos, y dirigir la salida de los contratos estratégicos.
+      - Informar a los comités de dirección sobre el rendimiento de los contratos, el riesgo de los proveedores y los ahorros.
+      - Asesorar sobre la resolución de los contratos, las nuevas licitaciones y el fallo de los proveedores.
+    qualifications:
+      - Una cualificación reconocida de compras o de gestión de contratos de nivel avanzado, o un máster en una materia afín, o experiencia equivalente.
+      - Amplia experiencia en la dirección de la gestión de contratos de servicios complejos.
+    job_evaluation_notes: Los anuncios del sector sanitario sitúan este rol en la banda 8b. La planificación está en el nivel 5 por el marco de gestión de contratos de toda la organización, los recursos financieros en el nivel 5 porque el puesto supervisa contratos de muchos servicios, y las personas en el nivel 4 porque gestiona directamente el equipo de contratos.

@@ -1,0 +1,39 @@
+summary: >
+  Les architectes de sécurité conçoivent la sécurité des services de santé numérique de l'organisation, pour que les informations des patients restent confidentielles, exactes et disponibles quand les soins en ont besoin. Ils fixent les modèles et les mesures de sécurité, évaluent le risque de sécurité des nouvelles conceptions et des fournisseurs, et aident les équipes à prendre des décisions fondées sur le risque qui gardent les services à la fois sûrs et utilisables par les cliniciens et les patients.
+health_context:
+  - Les organisations de santé sont des cibles fréquentes des rançongiciels et du vol de données, et une attaque peut arrêter les services cliniques, c'est pourquoi la disponibilité compte autant que la confidentialité.
+  - Les mesures de sécurité ne doivent pas entraver les soins urgents, c'est pourquoi les conceptions concilient une authentification forte et un accès rapide en milieu clinique.
+  - Les dispositifs médicaux connectés et les systèmes cliniques anciens ne peuvent souvent pas être corrigés rapidement, c'est pourquoi les architectes conçoivent des mesures compensatoires comme la segmentation.
+  - De nombreux membres du personnel, organisations partenaires et fournisseurs ont besoin d'accéder aux dossiers des patients, c'est pourquoi l'identité, le contrôle d'accès fondé sur les rôles et la traçabilité sont essentiels.
+  - Les conceptions de sécurité doivent soutenir les obligations de gouvernance de l'information et les normes de sécurité publiées, comme ISO/IEC 27001.
+levels:
+  - title: Architecte de sécurité
+    responsibilities:
+      - Concevoir des mesures de sécurité pour les services et les systèmes, y compris l'identité, le chiffrement, la journalisation et la protection du réseau.
+      - Évaluer la sécurité des nouvelles conceptions et des produits des fournisseurs, et consigner les risques et les mesures recommandées.
+      - Élaborer des modèles de sécurité que les équipes de livraison peuvent réutiliser, comme pour la connexion des patients et l'authentification unique du personnel.
+      - Conseiller sur les mesures compensatoires pour les dispositifs médicaux et les systèmes cliniques anciens difficiles à mettre à jour.
+      - Travailler avec les collègues de la gouvernance de l'information et de la sécurité clinique pour évaluer ensemble les risques de sécurité, de confidentialité et de sécurité clinique.
+      - Accompagner les ingénieurs sécurité et les autres architectes en conception sécurisée.
+    qualifications:
+      - Une expérience significative de l'architecture ou de l'ingénierie de sécurité, d'un niveau équivalent à un master.
+      - Une certification de sécurité reconnue ou une expérience équivalente.
+    job_evaluation_notes: Placé au-dessus de la proposition de grade du UK GDaD PCF (bande 6), car les annonces du secteur de la santé situent ce rôle en bande 8a. L'analyse et la liberté d'action sont cotées au-dessus du profil de la bande 7, car l'emploi conçoit la sécurité de systèmes cliniques critiques avec peu de supervision.
+  - title: Architecte de sécurité référent
+    responsibilities:
+      - Diriger l'architecture de sécurité de plusieurs projets à haut risque ou d'un domaine important, comme les systèmes cliniques ou l'hébergement en nuage.
+      - Fixer les principes et les normes de sécurité des conceptions de votre domaine et les garantir en autorité de conception.
+      - Conseiller les propriétaires de risques de haut niveau sur les risques de sécurité et les options pour les gérer.
+      - Concevoir la sécurité des données partagées avec les organisations partenaires et les fournisseurs.
+      - Diriger et faire progresser les architectes de sécurité.
+    qualifications:
+      - Une solide expérience de l'architecture de sécurité de services complexes.
+  - title: Architecte de sécurité principal
+    responsibilities:
+      - Fixer la vision, les principes et la stratégie d'architecture de sécurité de l'organisation.
+      - Conseiller l'équipe de direction et le conseil d'administration sur le risque de cybersécurité pour la prise en charge des patients et les services.
+      - Veiller à ce que la cyberrésilience, y compris la reprise après une attaque majeure, soit conçue dès le départ dans les services cliniques critiques.
+      - Représenter l'organisation dans les communautés interorganisations de cybersécurité et de normalisation.
+      - Diriger la pratique d'architecture de sécurité et faire progresser ses membres.
+    qualifications:
+      - Une solide expérience de la direction de l'architecture de sécurité entre organisations.

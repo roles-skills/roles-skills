@@ -1,0 +1,39 @@
+summary: >
+  Los arquitectos de seguridad diseñan la seguridad de los servicios de salud digital de la organización, para que la información de los pacientes siga siendo confidencial, exacta y esté disponible cuando la atención la necesite. Fijan patrones y controles de seguridad, evalúan el riesgo de seguridad de los nuevos diseños y proveedores, y ayudan a los equipos a tomar decisiones basadas en el riesgo que mantengan los servicios seguros y usables para profesionales clínicos y pacientes.
+health_context:
+  - Las organizaciones sanitarias son objetivos frecuentes del ransomware y del robo de datos, y un ataque puede detener los servicios clínicos, por lo que la disponibilidad es tan importante como la confidencialidad.
+  - Los controles de seguridad no deben obstaculizar la atención urgente, por lo que los diseños equilibran una autenticación robusta con un acceso rápido en los entornos clínicos.
+  - Los productos sanitarios conectados y los sistemas clínicos heredados a menudo no pueden parchearse con rapidez, por lo que los arquitectos diseñan controles compensatorios como la segmentación.
+  - Mucho personal, organizaciones socias y proveedores necesitan acceder a las historias de los pacientes, por lo que la identidad, el acceso basado en roles y la auditoría son centrales.
+  - Los diseños de seguridad deben apoyar las obligaciones de gobernanza de la información y las normas de seguridad publicadas, como ISO/IEC 27001.
+levels:
+  - title: Arquitecto de seguridad
+    responsibilities:
+      - Diseñar controles de seguridad para servicios y sistemas, incluidos la identidad, el cifrado, los registros y la protección de la red.
+      - Evaluar la seguridad de los nuevos diseños y de los productos de los proveedores, y registrar los riesgos y los controles recomendados.
+      - Desarrollar patrones de seguridad que los equipos de entrega puedan reutilizar, como para el acceso de los pacientes y el inicio de sesión único del personal.
+      - Asesorar sobre controles compensatorios para los productos sanitarios y los sistemas clínicos heredados que no pueden actualizarse fácilmente.
+      - Trabajar con los colegas de gobernanza de la información y de seguridad clínica para que los riesgos de seguridad, privacidad y seguridad clínica se evalúen conjuntamente.
+      - Orientar a los ingenieros de seguridad y a otros arquitectos en el diseño seguro.
+    qualifications:
+      - Experiencia sustancial en arquitectura de seguridad o ingeniería de seguridad, a un nivel equivalente a un máster.
+      - Una cualificación de seguridad reconocida o experiencia equivalente.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 6), porque los anuncios del sector sanitario sitúan este rol en la banda 8a. El análisis y la libertad de actuación se puntúan por encima del perfil de la banda 7 porque el puesto diseña la seguridad de sistemas clínicos críticos con poca supervisión.
+  - title: Arquitecto de seguridad líder
+    responsibilities:
+      - Dirigir la arquitectura de seguridad de varios proyectos de alto riesgo o de un área importante, como los sistemas clínicos o el alojamiento en la nube.
+      - Fijar los principios y las normas de seguridad de los diseños de su área y garantizarlos en las autoridades de diseño.
+      - Asesorar a los propietarios de riesgos de alto nivel sobre los riesgos de seguridad y las opciones para gestionarlos.
+      - Diseñar la seguridad de los datos que se comparten con organizaciones socias y proveedores.
+      - Dirigir y desarrollar a los arquitectos de seguridad.
+    qualifications:
+      - Amplia experiencia en arquitectura de seguridad de servicios complejos.
+  - title: Arquitecto de seguridad principal
+    responsibilities:
+      - Fijar la visión, los principios y la estrategia de arquitectura de seguridad de la organización.
+      - Asesorar al equipo directivo y al consejo sobre el riesgo de ciberseguridad para la atención a los pacientes y los servicios.
+      - Asegurarse de que la ciberresiliencia, incluida la recuperación tras un ataque grave, se diseña desde el principio en los servicios clínicos críticos.
+      - Representar a la organización en las comunidades interorganizativas de ciberseguridad y de estándares.
+      - Dirigir la práctica de arquitectura de seguridad y desarrollar a sus personas.
+    qualifications:
+      - Amplia experiencia en la dirección de la arquitectura de seguridad en varias organizaciones.

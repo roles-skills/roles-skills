@@ -1,0 +1,33 @@
+summary: >
+  Les gestionnaires des incidents rétablissent le service normal le plus vite possible quand un problème survient, et réduisent au minimum l'effet sur les utilisateurs. Ils coordonnent les équipes techniques et les fournisseurs, tiennent informés les utilisateurs et les dirigeants, et veillent à ce que les incidents soient consignés et transmis à la gestion des problèmes. En santé, les incidents peuvent toucher directement la prise en charge des patients, c'est pourquoi les gestionnaires des incidents travaillent étroitement avec les responsables cliniques et opérationnels.
+health_context:
+  - L'indisponibilité d'un système clinique peut retarder un traitement, c'est pourquoi les incidents sont hiérarchisés selon leur impact clinique, et les responsables cliniques peuvent devoir déclencher les procédures de mode dégradé.
+  - Les incidents majeurs peuvent survenir à tout moment, c'est pourquoi les gestionnaires des incidents participent aux astreintes et peuvent être appelés la nuit ou le week-end.
+  - Une cyberattaque, comme un rançongiciel, peut devenir un incident majeur qui touche toute l'organisation et dure des jours ou des semaines.
+  - Les incidents informatiques majeurs peuvent devoir être articulés avec les dispositifs de préparation aux situations d'urgence et de continuité d'activité de l'organisation.
+  - Les incidents qui ont pu nuire à des patients sont aussi déclarés par le processus de signalement des événements indésirables cliniques et examinés avec la sécurité clinique.
+levels:
+  - title: Gestionnaire des incidents
+    responsibilities:
+      - Coordonner la réponse aux incidents qui touchent les services cliniques et de gestion, du premier signalement au rétablissement du service.
+      - Évaluer l'impact clinique et opérationnel de chaque incident et fixer sa priorité.
+      - Tenir informés les utilisateurs concernés, le centre de services et les responsables cliniques par des mises à jour claires et régulières.
+      - Faire remonter les incidents au gestionnaire des incidents majeurs lorsqu'ils remplissent les critères convenus.
+      - Veiller à ce que les incidents soient consignés avec exactitude et transmis à la gestion des problèmes.
+      - Participer aux astreintes pour les incidents hors heures ouvrées.
+    qualifications:
+      - Une expérience du support ou de l'exploitation informatique, y compris le traitement d'incidents.
+      - Une certification de base en gestion des services informatiques, ou une expérience équivalente.
+    job_evaluation_notes: L'effort mental reflète une concentration prolongée fréquente sous la pression du temps, y compris en astreinte. L'effort émotionnel reflète une exposition indirecte fréquente à l'effet des pannes sur les patients et le personnel.
+  - title: Gestionnaire des incidents majeurs
+    responsibilities:
+      - Diriger la réponse aux incidents majeurs, comme les indisponibilités du dossier patient informatisé, les pannes réseau et les cyberattaques.
+      - Animer les cellules d'incident qui réunissent équipes techniques, fournisseurs, responsables cliniques et personnel de communication.
+      - Conseiller les responsables cliniques et opérationnels sur le moment de déclencher et de lever les procédures de mode dégradé et de continuité d'activité.
+      - Informer la direction et, si nécessaire, s'articuler avec les dispositifs de réponse aux situations d'urgence de l'organisation.
+      - Diriger les revues post-incident et veiller à ce que les enseignements soient tirés et suivis d'effet.
+      - Élaborer et tester les plans d'incident majeur avec les responsables de la continuité d'activité et de la préparation aux situations d'urgence.
+    qualifications:
+      - Une expérience significative de la gestion d'incidents dans des services complexes à haute disponibilité.
+      - Une certification avancée en gestion des services informatiques, ou une expérience équivalente.
+    job_evaluation_notes: L'effort mental reflète une concentration prolongée fréquente pendant les incidents majeurs, souvent hors heures ouvrées. L'effort émotionnel reflète une exposition indirecte fréquente à l'effet des grandes pannes sur la prise en charge des patients.

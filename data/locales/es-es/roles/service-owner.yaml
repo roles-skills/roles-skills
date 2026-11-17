@@ -1,0 +1,30 @@
+summary: >
+  Los propietarios de servicio son los responsables que rinden cuentas de un servicio de salud digital de principio a fin, en sus partes digitales, operativas y clínicas. Reúnen a equipos multidisciplinares y socios del servicio, fijan su estrategia y sus prioridades, son responsables de su presupuesto y su rendimiento, y se aseguran de que aporte resultados y beneficios seguros y de calidad a los pacientes, los profesionales clínicos y el personal asistencial.
+health_context:
+  - Un servicio de salud digital forma parte de un servicio asistencial más amplio, por lo que los propietarios de servicio trabajan de igual a igual con los responsables clínicos y operativos y comparten la responsabilidad de toda la experiencia del paciente.
+  - El propietario del servicio rinde cuentas de que se gestione el riesgo clínico del servicio, trabajando con el responsable de seguridad clínica y aceptando el riesgo residual en el nivel adecuado.
+  - Los servicios tratan información sanitaria confidencial, por lo que los propietarios de servicio se aseguran de que la gobernanza de la información, la protección de datos y la ciberseguridad estén implantadas y se revisen.
+  - Los servicios en producción que apoyan la atención deben ser resilientes, por lo que los propietarios de servicio se aseguran de que la continuidad de negocio, la respuesta a incidentes y el soporte de los proveedores cubran las necesidades clínicas.
+  - Los beneficios en la atención deben medirse y comunicarse, por lo que los propietarios de servicio mantienen indicadores de rendimiento que abarcan la seguridad, la calidad, el acceso, la equidad y el coste.
+levels:
+  - title: Propietario del servicio
+    responsibilities:
+      - Rendir cuentas de un servicio de salud digital de principio a fin, como el acceso en línea a la historia clínica o las derivaciones digitales, a lo largo de todo su ciclo de vida.
+      - Fijar la estrategia y las prioridades del servicio con los responsables clínicos y operativos, equilibrando las necesidades de los usuarios, la seguridad, las políticas y el coste.
+      - Ser responsable del presupuesto del servicio y defender la inversión con sus beneficios para pacientes y personal.
+      - Asegurarse de que el riesgo clínico, la gobernanza de la información, la accesibilidad y la ciberseguridad se gestionan y se garantizan.
+      - Vigilar el rendimiento y los beneficios del servicio, y dirigir la mejora cuando el servicio no esté a la altura.
+      - Representar al servicio en los comités de gobierno y ante los socios de todo el sistema de salud y asistencia.
+    qualifications:
+      - Amplia experiencia en la dirección de servicios digitales, operativos o clínicos.
+  - title: Propietario del servicio sénior
+    responsibilities:
+      - Rendir cuentas de un grupo de servicios de salud digital relacionados, o de un servicio crítico que se usa en todo el sistema asistencial, como la historia clínica electrónica.
+      - Fijar una estrategia plurianual de los servicios con los responsables directivos, clínicos y operativos.
+      - Ser responsable de los presupuestos y de las relaciones con los grandes proveedores de los servicios.
+      - Aceptar y escalar al más alto nivel los riesgos clínicos, de información y operativos, trabajando con el responsable de seguridad clínica y con el responsable directivo del riesgo de la información.
+      - Dirigir a los propietarios de servicio y a los equipos multidisciplinares, y crear una cultura de transparencia y mejora continua.
+      - Dirigir la respuesta a los incidentes graves del servicio que afectan a la atención a los pacientes, y el aprendizaje posterior.
+    qualifications:
+      - Amplia experiencia en la dirección de servicios grandes o críticos, incluidos sus presupuestos y sus proveedores.
+    job_evaluation_notes: El UK GDaD PCF tiene un único nivel de propietario de servicio, en G7 o G6. Esta referencia añade un nivel sénior en la banda 8c para los servicios críticos para la atención en toda la organización, con presupuestos de varios servicios (recursos financieros de nivel 5) y una participación habitual en incidentes graves que afectan a los pacientes (esfuerzo emocional de nivel 2).

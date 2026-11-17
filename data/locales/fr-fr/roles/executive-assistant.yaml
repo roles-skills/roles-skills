@@ -1,0 +1,41 @@
+summary: >
+  Les assistants de direction apportent un soutien administratif et organisationnel de haut niveau aux dirigeants. Ils gèrent les agendas, le courrier, les réunions et les documents, sont le point de contact du bureau du dirigeant et font preuve de discernement pour traiter des sujets en son nom. Ils traitent souvent des informations très confidentielles et sensibles.
+health_context:
+  - En santé, les dirigeants traitent des incidents de sécurité des patients, des réclamations et des dossiers concernant le personnel, c'est pourquoi les assistants de direction manipulent régulièrement des documents sensibles et confidentiels.
+  - Les bureaux de direction travaillent étroitement avec les conseils et les comités, c'est pourquoi des documents, des procès-verbaux et des registres de gouvernance exacts comptent.
+  - Les agendas doivent faire place dans des délais courts à des sujets urgents, comme les incidents graves et les interruptions de service.
+levels:
+  - title: Assistant de direction
+    summary: Apporte un soutien de direction à un directeur ou à un dirigeant, en gérant son agenda, son courrier et ses réunions.
+    responsibilities:
+      - Gérer l'agenda d'un dirigeant, en fixant les priorités et en résolvant les conflits.
+      - Traiter le courrier, en rédigeant les réponses et en traitant les sujets courants au nom du dirigeant.
+      - Préparer les documents, les présentations et les notes pour les réunions.
+      - Rédiger les comptes rendus et suivre les actions des réunions du dirigeant.
+      - Être le premier point de contact du bureau du dirigeant, avec tact et discrétion.
+      - Organiser les déplacements, les événements et les visites.
+    qualifications:
+      - Une expérience significative du soutien administratif à des cadres dirigeants, d'un niveau équivalent à un diplôme de premier cycle court.
+    job_evaluation_notes: La communication est cotée au niveau 4, car l'emploi traite régulièrement des sujets sensibles qui demandent tact et persuasion avec des interlocuteurs internes et externes de haut niveau.
+  - title: Assistant de direction senior
+    summary: Apporte un soutien de direction au directeur général, à la présidence ou à un directeur exécutif, et coordonne l'activité de son bureau.
+    responsibilities:
+      - Gérer l'agenda et les priorités du directeur général ou d'un directeur exécutif.
+      - Traiter le courrier sensible, y compris les réclamations et les demandes des partenaires et des régulateurs.
+      - Coordonner les réunions, les documents et les relevés d'actions de l'équipe de direction.
+      - Rédiger les procès-verbaux formels des réunions de direction et des comités.
+      - Suivre les engagements et les échéances de tout le bureau de direction et relancer l'avancement.
+      - Encadrer d'autres assistants et assurer les remplacements au sein du bureau de direction.
+    qualifications:
+      - Une solide expérience du soutien de direction, d'un niveau équivalent à une licence.
+  - title: Responsable du secrétariat de direction
+    summary: Gère le bureau de direction, son personnel et son cycle de travail, et veille à ce que l'équipe de direction et le conseil d'administration soient bien soutenus.
+    responsibilities:
+      - Gérer l'équipe du bureau de direction, en fixant les priorités et en soutenant son développement.
+      - Planifier le cycle de travail de l'équipe de direction, y compris les programmes de travail prévisionnels et les documents.
+      - Veiller à ce que les notes, les documents et le courrier soient exacts, ponctuels et pertinents.
+      - Coordonner la réponse de la direction aux sujets urgents, comme les incidents graves et les enquêtes.
+      - Gérer le budget et les systèmes du bureau de direction.
+      - Améliorer les processus et les outils du bureau de direction.
+    qualifications:
+      - Une solide expérience du soutien de direction et de la gestion de bureau, d'un niveau équivalent à une licence.

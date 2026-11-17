@@ -1,0 +1,72 @@
+summary: >
+  Les spécialistes de la formation et du développement aident le personnel à acquérir les compétences nécessaires pour dispenser des soins sûrs, modernes et soutenus par le numérique. Ils analysent les besoins de formation, conçoivent et animent des formations en présentiel et en ligne, gèrent le système de gestion de la formation et construisent des parcours de carrière. Dans une organisation de santé numérique, une grande part de leur travail consiste à développer les compétences en numérique, en données et en technologie, à la fois des spécialistes et de l'ensemble du personnel.
+health_context:
+  - Le personnel clinique et soignant a besoin d'être formé aux nouveaux systèmes cliniques avant leur mise en service, souvent sur plusieurs équipes et sites, c'est pourquoi la formation est planifiée en fonction de services ouverts jour et nuit.
+  - Certaines formations sont obligatoires, comme la gouvernance de l'information, la sensibilisation à la cybersécurité et la protection des personnes vulnérables, et leur suivi est présenté au conseil d'administration.
+  - Développer en interne les compétences numériques rares, par l'apprentissage, la reconversion et les parcours de carrière, est souvent plus rapide et moins coûteux que les recruter.
+  - Les référentiels de compétences comme cette référence, le UK GDaD PCF et ESCO offrent un langage commun pour l'analyse des écarts de compétences et les plans de développement.
+  - La formation doit être accessible au personnel quels que soient ses besoins, ses horaires et son aisance avec le numérique.
+levels:
+  - title: Coordinateur de la formation et du développement
+    summary: Coordonne l'offre de formation de l'organisation, en gérant les inscriptions, le système de gestion de la formation et les registres de formation, et soutient l'animation des formations.
+    responsibilities:
+      - Programmer les formations, réserver les salles et les formateurs, et gérer les inscriptions et les listes d'attente.
+      - Tenir à jour les formations, les inscriptions et les attestations dans le système de gestion de la formation.
+      - Produire pour les responsables des rapports sur le suivi des formations obligatoires.
+      - Répondre aux questions du personnel et des responsables sur l'offre de formation.
+      - Soutenir les formateurs pendant les sessions, y compris la préparation des classes virtuelles et le recueil des retours.
+      - Gérer administrativement les inscriptions et les bilans des apprentis avec les organismes de formation.
+    qualifications:
+      - Une qualification de niveau 3, un apprentissage en formation et développement ou une expérience équivalente.
+      - Une expérience administrative et de l'usage d'un système de gestion de la formation ou équivalent.
+  - title: Chargé de formation et de développement
+    summary: Conçoit et anime des formations pour divers groupes de personnel, y compris les compétences numériques et la formation aux systèmes, et en évalue l'effet.
+    responsibilities:
+      - Animer des formations en présentiel et en ligne, comme l'intégration, les compétences numériques et les bases du management.
+      - Créer des modules d'e-learning et des guides courts dans le système de gestion de la formation, en les rendant accessibles.
+      - Travailler avec les équipes numériques pour planifier et dispenser la formation aux nouveaux systèmes cliniques et de gestion avant leur mise en service.
+      - Aider les responsables à identifier les besoins de formation de leur équipe et à planifier son développement.
+      - Évaluer les formations et les améliorer à partir des retours et des résultats.
+      - Coordonner l'apprentissage, avec les organismes de formation, les apprentis et les responsables.
+    qualifications:
+      - Une qualification reconnue en formation et développement ou de formateur, ou une expérience équivalente.
+      - Une expérience de la conception et de l'animation de formations pour adultes, en présentiel et en ligne.
+    job_evaluation_notes: Les personnes sont au niveau 3, car l'emploi dispense des formations de base comme tâche principale ; la recherche est au niveau 2, car il évalue régulièrement les formations.
+  - title: Spécialiste de la formation et du développement
+    summary: Dirige l'analyse, la conception et l'évaluation des programmes de formation d'un domaine important, comme le leadership, les compétences numériques ou la formation aux systèmes, avec une large liberté dans le cadre de la stratégie de formation.
+    responsibilities:
+      - Analyser les besoins de formation d'un groupe de personnel ou d'une profession, à l'aide d'une analyse des écarts de compétences au regard de cette référence.
+      - Concevoir des programmes de formation mixtes aux objectifs clairs, de l'e-learning à l'accompagnement et à la pratique en situation de travail.
+      - Concevoir les stratégies de formation des grands changements de systèmes cliniques, y compris les réseaux de super-utilisateurs.
+      - Évaluer l'effet de la formation sur les compétences, la performance et les services, et en rendre compte.
+      - Commander les prestations des organismes de formation externes et en garantir la qualité.
+      - Accompagner et faire progresser les chargés de formation et de développement.
+    qualifications:
+      - Une qualification reconnue en formation et développement de niveau intermédiaire ou avancé, ou une expérience équivalente.
+      - Une expérience significative de la conception et de l'évaluation de programmes de formation.
+    job_evaluation_notes: Les personnes sont au niveau 4, car la conception de programmes de formation est la tâche principale.
+  - title: Responsable des compétences numériques
+    summary: Dirige le programme de l'organisation pour développer les compétences en numérique, en données et en technologie, des professions spécialisées et de l'ensemble du personnel, en utilisant des référentiels de compétences pour planifier les carrières et combler les écarts.
+    responsibilities:
+      - Diriger le programme de compétences numériques, y compris la culture numérique de tout le personnel et le développement des professions du numérique, des données et de la technologie.
+      - Mener l'analyse des écarts de compétences des équipes numériques à partir des profils de rôle et des compétences de cette référence, et en rendre compte.
+      - Concevoir des parcours de carrière de l'apprentissage aux postes de haut niveau, reliés aux bandes et à l'évaluation des emplois.
+      - Nouer des partenariats avec les universités, les écoles et les organismes de formation, et utiliser pleinement le financement de l'apprentissage.
+      - Gérer le budget des compétences numériques et évaluer le retour sur investissement.
+      - Diriger une petite équipe de formation et de développement.
+    qualifications:
+      - Une qualification reconnue en formation et développement de niveau avancé, ou une expérience équivalente.
+      - Une expérience significative de la construction de programmes de compétences, idéalement dans le numérique, les données ou la technologie.
+  - title: Responsable de la formation
+    summary: Dirige la formation et le développement dans toute l'organisation, en fixant la stratégie de formation et en gérant l'équipe, le budget et les systèmes de formation.
+    responsibilities:
+      - Fixer la stratégie de formation de l'organisation, reliée à la stratégie RH et au plan d'effectifs.
+      - Diriger et gérer l'équipe de formation et de développement et ses services, y compris les formations obligatoires et le système de gestion de la formation.
+      - Détenir le budget de la formation, y compris les fonds de l'apprentissage et les dépenses de formation externe.
+      - Rendre compte aux comités de direction de l'activité, du suivi et de l'impact de la formation.
+      - Diriger les programmes de développement du leadership et du management avec les collègues du développement organisationnel.
+      - Veiller à ce que la formation soit accessible, inclusive et disponible pour le personnel de toutes les équipes.
+    qualifications:
+      - Une qualification professionnelle reconnue en formation et développement ou en RH de niveau avancé, ou un master dans une discipline voisine, ou une expérience équivalente.
+      - Une solide expérience de la direction de services de formation.
+    job_evaluation_notes: Les personnes sont au niveau 5, car l'emploi gère la formation de toute l'organisation.

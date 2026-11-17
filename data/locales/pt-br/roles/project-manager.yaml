@@ -1,0 +1,62 @@
+summary: Os gerentes de projetos planejam e entregam projetos que mudam a forma como a organização apoia a saúde e os cuidados, como implantar um sistema clínico em novos locais, migrar serviços para uma nova infraestrutura ou introduzir novas ferramentas digitais para as equipes de cuidados. Controlam escopo, prazo, custo, qualidade e risco com métodos reconhecidos de gestão de projetos e garantem que os projetos entreguem os benefícios prometidos a pacientes e equipes.
+health_context:
+- Os projetos que mudam sistemas ou fluxos de trabalho clínicos precisam de garantia de segurança clínica antes da entrada em operação, por isso os gerentes de projetos incluem no cronograma oficinas de perigos, a aprovação do dossiê de segurança e a contribuição do responsável pela segurança clínica.
+- As entradas em operação não devem perturbar o cuidado dos pacientes, por isso os gerentes de projetos planejam migrações, arranjos de continuidade de negócios e apoio presencial com as equipes clínicas e operacionais.
+- Os projetos muitas vezes exigem avaliações de impacto sobre a proteção de dados e acordos de compartilhamento de informações, por isso os gerentes de projetos os planejam cedo com colegas de governança da informação.
+- Os benefícios no cuidado, como tempo das equipes liberado ou menos erros, levam tempo para aparecer, por isso os gerentes de projetos estabelecem linhas de base e entregam ao serviço o acompanhamento dos benefícios.
+levels:
+- title: Gerente de projetos assistente
+  summary: Uma pessoa gerente de projetos assistente apoia a entrega de projetos ou gere projetos pequenos e bem definidos com a orientação de um gerente de projetos mais sênior.
+  responsibilities:
+  - Manter planos de projeto, registros de riscos e de problemas, registros de ações e registros de dependências.
+  - Organizar e redigir as atas das reuniões e dos comitês do projeto e acompanhar as ações.
+  - Gerir trabalhos pequenos e bem definidos, como a implantação em um local ou um cronograma de treinamento, com orientação.
+  - Acompanhar as tarefas de prontidão para a entrada em operação, como a aprovação de segurança clínica, as verificações de proteção de dados e o treinamento das equipes.
+  - Preparar relatórios de destaques e acompanhar os gastos do projeto em relação ao orçamento.
+  qualifications:
+  - Uma qualificação básica em gestão de projetos, ou experiência equivalente.
+- title: Gerente de projetos
+  summary: Uma pessoa gerente de projetos conduz do início ao encerramento projetos de porte e complexidade moderados, como a implantação de um serviço digital em vários ambientes de cuidado.
+  responsibilities:
+  - Planejar e gerir projetos da abertura ao encerramento, controlando escopo, prazo, custo, qualidade e risco.
+  - Planejar as entradas em operação com as equipes clínicas e operacionais, incluindo migração, continuidade de negócios e arranjos de suporte.
+  - Garantir que a garantia de segurança clínica, de governança da informação e de acessibilidade seja planejada e concluída antes da entrada em operação.
+  - Gerir o orçamento do projeto e as entregas dos fornecedores.
+  - Reportar ao comitê do projeto e escalar riscos e problemas fora da tolerância.
+  - Estabelecer linhas de base para os benefícios e entregar ao serviço o acompanhamento dos benefícios.
+  qualifications:
+  - Uma qualificação reconhecida em gestão de projetos, como um certificado de nível profissional, ou experiência equivalente.
+  - Experiência na gestão de projetos que mudam serviços ou sistemas.
+- title: Gerente de projetos sênior
+  summary: Uma pessoa gerente de projetos sênior lidera projetos grandes, complexos ou de alto risco, como a substituição de um sistema clínico em toda uma organização, e pode gerir outras pessoas do projeto.
+  responsibilities:
+  - Liderar projetos grandes ou de alto risco, como substituições de sistemas clínicos ou implantações em vários locais.
+  - Gerir dependências complexas com fornecedores, outros projetos e organizações parceiras de saúde e de cuidados.
+  - Liderar as decisões de entrada em operação com o responsável pela segurança clínica, as lideranças operacionais e o responsável sênior pelo projeto.
+  - Gerir o orçamento do projeto e os arranjos comerciais, incluindo o controle de mudanças com fornecedores.
+  - Garantir que os benefícios para pacientes e equipes sejam definidos, tenham responsável e sejam medidos.
+  - Gerir e desenvolver gerentes de projetos e o pessoal de apoio a projetos.
+  qualifications:
+  - Uma qualificação reconhecida em gestão de projetos, ou experiência equivalente.
+  - Experiência substancial na gestão de projetos complexos em um ambiente regulamentado ou crítico à segurança.
+- title: Gerente de projetos líder
+  summary: Uma pessoa gerente de projetos líder lidera os projetos mais complexos ou um grupo de projetos relacionados e define a prática de gestão de projetos da sua área.
+  responsibilities:
+  - Liderar os projetos mais complexos, ou um grupo de projetos relacionados, em vários serviços ou organizações.
+  - Definir padrões, modelos e garantia de gestão de projetos para a área e orientar gerentes de projetos.
+  - Aconselhar os responsáveis sêniores pelos projetos e os conselhos sobre opções de entrega, riscos e a recuperação de projetos em dificuldade.
+  - Gerir orçamentos e contratos significativos e garantir que os projetos tenham boa relação custo-benefício.
+  - Garantir que os requisitos de segurança clínica e de governança da informação sejam cumpridos em todo o grupo de projetos.
+  - Chefiar gerentes de projetos.
+  qualifications:
+  - Ampla experiência na liderança de projetos complexos, com uma qualificação reconhecida em gestão de projetos ou experiência equivalente.
+- title: Chefia de gestão de projetos
+  summary: Uma pessoa na chefia de gestão de projetos lidera a prática de gestão de projetos da organização e os gerentes de projetos que entregam sua mudança digital.
+  responsibilities:
+  - Liderar a prática de gestão de projetos, incluindo seus métodos, padrões, ferramentas e garantia.
+  - Alocar gerentes de projetos aos projetos da organização e gerir a capacidade da prática.
+  - Desenvolver a capacidade de gestão de projetos, incluindo recrutamento, treinamento e trilhas de carreira.
+  - Aconselhar lideranças executivas sobre a saúde dos projetos, os riscos de entrega e as lições aprendidas.
+  - Gerir o orçamento da prática.
+  qualifications:
+  - Ampla experiência na liderança de projetos e de gerentes de projetos, com uma qualificação reconhecida em gestão de projetos ou experiência equivalente.

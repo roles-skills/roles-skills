@@ -1,0 +1,67 @@
+summary: >
+  Los desarrolladores frontend crean las interfaces de usuario de los servicios de salud digital de la organización, como los sitios web y las aplicaciones para pacientes, los formularios en línea y las pantallas que usan los profesionales clínicos y el personal asistencial durante la atención. Escriben código accesible, rápido y seguro que funcione para todo el mundo, incluidas las personas enfermas, angustiadas o que usan dispositivos antiguos, y trabajan en equipos de producto multidisciplinares con diseñadores, investigadores y profesionales clínicos.
+health_context:
+  - Muchos usuarios están enfermos, tienen dolor, son mayores o tienen discapacidad, por lo que la accesibilidad y las interfaces sencillas y tranquilas son imprescindibles, no opcionales.
+  - Una presentación confusa o errónea de la información clínica, como la dosis de un medicamento, un resultado o la hora de una cita, puede causar daño a los pacientes, por lo que el trabajo de frontend sigue el proceso de gestión del riesgo clínico.
+  - Las interfaces suelen mostrar información sanitaria confidencial, por lo que los desarrolladores diseñan pensando en la privacidad, por ejemplo en dispositivos compartidos y en zonas clínicas concurridas.
+  - Los profesionales clínicos usan las interfaces con presión de tiempo e interrupciones frecuentes, por lo que las pantallas deben ser rápidas, previsibles y difíciles de malinterpretar.
+  - Los pacientes acceden a los servicios desde una gran variedad de dispositivos y conexiones, por lo que los servicios usan la mejora progresiva y funcionan en redes lentas.
+levels:
+  - title: Aprendiz de desarrollador frontend
+    responsibilities:
+      - Aprender el sistema de diseño, los lenguajes y las herramientas del equipo mediante formación estructurada y programación en pareja.
+      - Crear componentes de interfaz pequeños con supervisión cercana, siguiendo el sistema de diseño de la organización.
+      - Probar los componentes con tecnologías de apoyo, como los lectores de pantalla, con ayuda de sus colegas.
+      - Seguir los procedimientos de gobernanza de la información y seguridad clínica al trabajar con datos de prueba y reales.
+      - Trabajar para obtener una cualificación de aprendizaje o equivalente.
+    qualifications:
+      - Matriculado en un programa de aprendizaje de desarrollo de software o equivalente, o trabajando para obtenerlo.
+    job_evaluation_notes: Los conocimientos se puntúan en el nivel que exige el puesto una vez que la formación está lo bastante avanzada para hacer el trabajo.
+  - title: Desarrollador frontend júnior
+    responsibilities:
+      - Crear y probar funcionalidades de interfaz para servicios dirigidos a pacientes y al personal, a partir de historias de usuario y con orientación.
+      - Usar el sistema de diseño y los patrones de la organización para que los servicios tengan un aspecto y un comportamiento coherentes.
+      - Corregir defectos de accesibilidad y comprobar las páginas frente a normas de accesibilidad como las WCAG.
+      - Asegurarse de que la información clínica, como las fechas, las dosis y los resultados, se muestra exactamente como se especifica.
+      - Aportar evidencias a los casos de seguridad clínica, como resultados de pruebas y capturas de pantalla de los cambios.
+    qualifications:
+      - Un grado en informática o una materia afín, un programa de aprendizaje completado o experiencia equivalente.
+  - title: Desarrollador frontend
+    responsibilities:
+      - Diseñar y crear de forma independiente interfaces accesibles y adaptables para servicios sanitarios, eligiendo los enfoques adecuados.
+      - Trabajar con diseñadores e investigadores de usuarios para probar prototipos con pacientes, profesionales clínicos y personal asistencial.
+      - Crear interfaces que llamen a API de datos sanitarios, como servicios HL7 FHIR, y gestionen con seguridad los errores y los datos que falten.
+      - Participar en talleres de peligros e incorporar controles de seguridad a la interfaz, como pasos de confirmación y avisos claros.
+      - Proteger la información confidencial en el navegador, por ejemplo gestionando con cuidado las sesiones y la caché en dispositivos compartidos.
+      - Revisar código y ser mentor de los desarrolladores frontend júnior y aprendices.
+    qualifications:
+      - Un grado en informática o una materia afín, o experiencia equivalente.
+      - Experiencia en la creación y el soporte de servicios web accesibles en producción.
+  - title: Desarrollador frontend sénior
+    responsibilities:
+      - Dirigir el diseño frontend y la entrega de funcionalidades importantes, como las pantallas de citas, de resultados o de flujos de trabajo clínicos.
+      - Fijar y mantener las normas de frontend del equipo, incluidas las de accesibilidad, rendimiento, seguridad y pruebas.
+      - Aportar componentes y patrones al sistema de diseño de la organización y asegurarse de que son seguros y accesibles.
+      - Trabajar con los responsables de seguridad clínica para asegurarse de que los peligros de la interfaz se identifican, controlan y prueban.
+      - Asegurarse de que los servicios funcionan bien con conexiones lentas, dispositivos antiguos y tecnologías de apoyo.
+      - Orientar y desarrollar a los desarrolladores frontend del equipo.
+    qualifications:
+      - Experiencia sustancial en el diseño, la creación y el soporte de servicios web accesibles en producción, a un nivel equivalente a un máster.
+  - title: Desarrollador frontend líder
+    responsibilities:
+      - Dirigir la ingeniería frontend de un grupo de equipos o de un servicio importante dirigido a pacientes.
+      - Ser responsable de la dirección técnica del sistema de diseño y de las bibliotecas frontend de la organización.
+      - Asegurarse de que las interfaces de todos los servicios cumplen las normas de accesibilidad y tienen garantizada la seguridad clínica.
+      - Trabajar con arquitectos, diseñadores y responsables clínicos para dar forma a las hojas de ruta de los productos y a las decisiones de tecnología frontend.
+      - Dirigir la comunidad de práctica de frontend y gestionar o dirigir a los desarrolladores frontend.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería frontend de servicios complejos y accesibles.
+  - title: Responsable de desarrollo frontend
+    responsibilities:
+      - Fijar la estrategia, las normas y las prácticas de frontend de todos los servicios digitales de la organización.
+      - Rendir cuentas de la accesibilidad y la usabilidad de las interfaces de la organización para pacientes y personal.
+      - Asesorar a la alta dirección sobre la tecnología frontend, la inversión en el sistema de diseño y los riesgos que suponen para la atención las interfaces deficientes.
+      - Representar a la organización en las comunidades interorganizativas de sistemas de diseño y de accesibilidad.
+      - Dirigir y desarrollar a los desarrolladores frontend de toda la organización, incluidos la selección y los itinerarios profesionales.
+    qualifications:
+      - Amplia experiencia en la dirección del desarrollo frontend en varios equipos u organizaciones.

@@ -1,0 +1,47 @@
+summary: >
+  Les ingénieurs de test construisent les tests automatisés, les outils et les cadres qui permettent aux équipes de tester rapidement et souvent les services de santé numérique de l'organisation. Ils écrivent du code pour tester les fonctions, les intégrations, la performance, la sécurité et la résilience, et intègrent les tests aux chaînes de livraison, pour que les changements des systèmes cliniques et destinés aux patients puissent être mis en production en sécurité.
+health_context:
+  - Les systèmes cliniques sont critiques pour la sécurité, c'est pourquoi les tests de non-régression automatisés protègent les mesures de sécurité inscrites dans les registres des dangers et sont conservés comme preuves pour les dossiers de sécurité.
+  - Les intégrations avec d'autres systèmes de santé et de soins ont besoin de tests automatisés au regard de normes comme HL7 FHIR et HL7 version 2, souvent avec des systèmes partenaires simulés.
+  - Les services cliniques fonctionnent jour et nuit et connaissent des pics prévisibles, c'est pourquoi les tests de performance et de résilience modélisent la demande clinique réelle.
+  - Les environnements de test ne doivent pas contenir de vraies données de patients, c'est pourquoi les ingénieurs génèrent des données synthétiques réalistes, y compris des cas cliniques rares et limites.
+  - Les logiciels réglementés comme dispositifs médicaux ont besoin de tests traçables et reproductibles dans leur cycle de vie, selon des normes comme l'IEC 62304.
+levels:
+  - title: Ingénieur de test adjoint
+    responsibilities:
+      - Écrire et maintenir sous supervision des tests automatisés simples, selon les normes d'ingénierie de l'équipe.
+      - Exécuter des tests automatisés et manuels et consigner les résultats avec exactitude.
+      - Aider à analyser et à signaler les défauts, y compris dans les intégrations avec les systèmes cliniques.
+      - Utiliser des données de test synthétiques et suivre les règles de gouvernance de l'information dans les environnements de test.
+      - Apprendre les outils de test, les pratiques de code et le processus de sécurité clinique de l'équipe.
+    qualifications:
+      - Une certaine expérience du code ou des tests, ou une inscription à un apprentissage pertinent, ou équivalent.
+  - title: Ingénieur de test
+    responsibilities:
+      - Concevoir et construire des tests automatisés fonctionnels, d'intégration et d'API pour les services cliniques et destinés aux patients.
+      - Construire des tests qui vérifient les messages au regard des profils HL7 FHIR et d'autres spécifications d'interopérabilité.
+      - Générer des données synthétiques de patients couvrant des cas cliniques réalistes et limites.
+      - Ajouter des tests aux chaînes de livraison pour que les contrôles liés à la sécurité s'exécutent à chaque changement.
+      - Estimer l'effort de test, rendre compte des résultats et soutenir la résolution des défauts.
+    qualifications:
+      - Une licence en informatique ou dans une discipline voisine, ou une expérience équivalente.
+      - Une expérience de la construction de tests automatisés.
+  - title: Ingénieur de test senior
+    responsibilities:
+      - Diriger l'ingénierie de test d'un domaine, en choisissant les outils, les cadres et les types de tests qui traitent tôt ses risques.
+      - Construire des cadres de test et des simulateurs réutilisables pour les systèmes cliniques et les intégrations partenaires.
+      - Planifier et exécuter des tests de performance, de charge et de résilience fondés sur la demande clinique réelle.
+      - Veiller à ce que les tests automatisés soient tracés jusqu'aux dangers et aux mesures de sécurité et fournissent des preuves aux dossiers de sécurité.
+      - Accompagner et orienter les autres ingénieurs de test, et convenir de normes d'ingénierie avec les développeurs.
+    qualifications:
+      - Une expérience significative de l'ingénierie de test, d'un niveau équivalent à un master.
+  - title: Ingénieur de test référent
+    responsibilities:
+      - Fixer la stratégie et les normes d'ingénierie de test d'un large domaine, y compris les tests continus dans les chaînes de livraison.
+      - Diriger et orienter les ingénieurs de test et les équipes dans la pratique de l'ingénierie de la qualité.
+      - Veiller à ce que les tests des logiciels réglementés et critiques pour la sécurité respectent les normes exigées et soient traçables.
+      - Faire remonter les risques de qualité et de sécurité aux responsables produit, cliniques et fournisseurs de haut niveau.
+      - Trouver des occasions de tester plus tôt et plus souvent, et mesurer l'effet sur la qualité.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie de test de services complexes.
+    job_evaluation_notes: Le UK GDaD PCF propose de SEO à G6 pour ce niveau, ce qui correspond à la bande 7, comme l'ingénieur de test senior. Cette référence le place en bande 8a, car il fixe la stratégie et les normes d'ingénierie de test d'un large domaine.

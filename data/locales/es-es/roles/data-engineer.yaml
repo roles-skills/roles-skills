@@ -1,0 +1,45 @@
+summary: >
+  Los ingenieros de datos crean y gestionan los flujos y las plataformas que llevan los datos de salud y asistencia desde los sistemas clínicos y operativos hasta lugares donde pueden analizarse y usarse con seguridad. Diseñan flujos de datos, integran fuentes que usan distintos estándares y se aseguran de que los datos sean exactos, puntuales y seguros, y de que solo estén disponibles para quienes deben verlos.
+health_context:
+  - Los sistemas de origen incluyen historias clínicas electrónicas y sistemas de laboratorio, de imagen y de farmacia, que usan estándares como HL7 versión 2, HL7 FHIR, SNOMED CT y la CIE.
+  - Los flujos suelen transportar datos identificables de pacientes, por lo que los ingenieros incorporan desde el principio la seudonimización, el control de accesos y la auditoría.
+  - Algunos flujos de datos apoyan la atención directa, como las alertas o las listas de pacientes, por lo que un flujo fallido o retrasado puede afectar a los pacientes y requiere una evaluación de seguridad clínica.
+  - Los datos suelen necesitar enlazarse entre entornos asistenciales, lo que depende de una asociación fiable de pacientes y de identificadores coherentes.
+levels:
+  - title: Ingeniero de datos
+    responsibilities:
+      - Crear y mantener flujos de datos desde los sistemas clínicos y operativos hasta la plataforma de datos, siguiendo diseños acordados.
+      - Mapear los datos de origen, incluidos los datos clínicos codificados, a los modelos de destino y documentar los mapeos.
+      - Incorporar a los flujos la seudonimización, la validación y las comprobaciones de calidad de los datos.
+      - Monitorizar los flujos y corregir los fallos, dando prioridad a los que apoyan la atención directa.
+      - Aplicar controles de acceso y registros de auditoría que cumplan las normas de gobernanza de la información.
+    qualifications:
+      - Un grado en informática o una materia afín, o experiencia equivalente.
+      - Experiencia en la creación de flujos de datos.
+  - title: Ingeniero de datos sénior
+    responsibilities:
+      - Diseñar flujos de datos y servicios de streaming que reúnan datos de muchos sistemas de salud y asistencia.
+      - Diseñar los procesos de asociación y enlace de pacientes, y medir lo bien que funcionan.
+      - Dirigir el trabajo de rendimiento de las bases de datos y de la plataforma para que los datos estén disponibles cuando los servicios los necesiten.
+      - Evaluar con los especialistas correspondientes los riesgos de seguridad clínica y de gobernanza de la información de los flujos de datos.
+      - Revisar el trabajo de otros ingenieros y orientarlos.
+    qualifications:
+      - Experiencia sustancial en el diseño y la creación de sistemas de datos, a un nivel equivalente a un máster.
+  - title: Ingeniero de datos líder
+    responsibilities:
+      - Dirigir el diseño y la gestión de la plataforma de datos de la organización y de sus numerosos flujos de datos.
+      - Fijar normas de ingeniería para los flujos, las pruebas, la seguridad y la documentación.
+      - Planificar la integración de datos con los socios de salud y asistencia, incluidas las historias clínicas compartidas y los servicios regionales de datos.
+      - Asegurarse de que los flujos de datos que apoyan la atención directa son resilientes y tienen casos de seguridad clínica.
+      - Coordinar los equipos de ingeniería de datos y gestionar directamente a los ingenieros.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería de datos de sistemas complejos.
+  - title: Responsable de ingeniería de datos
+    responsibilities:
+      - Fijar la estrategia de las plataformas de datos y de los servicios de ingeniería de datos de la organización.
+      - Dirigir equipos multidisciplinares que prestan servicios de datos a los equipos internos y a los socios de salud y asistencia.
+      - Asesorar a la alta dirección sobre los riesgos, los costes y la inversión de la plataforma de datos.
+      - Asegurarse de que los servicios de datos cumplen los requisitos de gobernanza de la información, seguridad y seguridad clínica.
+      - Desarrollar la capacidad de ingeniería de datos mediante la selección, el desarrollo y los itinerarios profesionales.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería de datos en varios equipos.

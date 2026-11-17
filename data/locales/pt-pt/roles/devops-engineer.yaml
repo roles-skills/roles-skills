@@ -1,0 +1,67 @@
+summary: Os profissionais de engenharia DevOps constroem e operam as ferramentas, os pipelines, os ambientes e as plataformas que permitem às equipes da organização entregar serviços de saúde digital com segurança e com frequência. Automatizam a construção, os testes, a liberação e a infraestrutura, tornam os serviços observáveis e resilientes e ajudam as equipes a manter os sistemas clínicos disponíveis quando pacientes e profissionais clínicos precisam deles.
+health_context:
+- Muitos serviços apoiam o cuidado 24 horas por dia, por isso as implantações, o monitoramento e a recuperação devem manter a indisponibilidade no mínimo, inclusive fora do horário comercial.
+- Os pipelines de liberação geram evidências para os dossiês de segurança clínica, como resultados de testes, registros de mudanças e a versão exata implantada.
+- Os ambientes podem conter informações de saúde confidenciais, por isso as pessoas engenheiras controlam o acesso, protegem os segredos e mantêm os dados reais fora dos ambientes de teste.
+- Os serviços de saúde são alvos comuns de ataques cibernéticos, por isso os pipelines e as plataformas incorporam varredura de segurança, aplicação de correções e backups testados.
+- Alguns serviços devem cumprir padrões rigorosos de disponibilidade e de recuperação de desastres, acordados com as lideranças clínicas e operacionais.
+levels:
+- title: Profissional de engenharia DevOps aprendiz
+  responsibilities:
+  - Aprender os pipelines, as plataformas de nuvem e as ferramentas da equipe por meio de treinamento estruturado e acompanhamento.
+  - Fazer pequenas alterações bem definidas em scripts, pipelines e configurações, sob supervisão próxima.
+  - Seguir os procedimentos de mudança, de segurança e de governança da informação em todos os ambientes.
+  - Ajudar a monitorar os serviços e levar os alertas às pessoas mais experientes.
+  - Trabalhar rumo a um programa de aprendizagem profissional ou a uma qualificação equivalente.
+  qualifications:
+  - Matriculado em um programa de aprendizagem profissional em DevOps, software ou infraestrutura, ou equivalente, ou trabalhando para isso.
+  job_evaluation_notes: Os conhecimentos são pontuados no nível que a função exige depois que o treinamento é suficiente para realizar o trabalho.
+- title: Profissional de engenharia DevOps júnior
+  responsibilities:
+  - Construir e manter partes dos pipelines de construção, teste e implantação, com orientação.
+  - Escrever infraestrutura como código e scripts de automação e testá-los antes do uso.
+  - Manter os ambientes de teste livres de dados reais de pacientes e gerenciar os segredos com segurança.
+  - Responder a alertas de monitoramento e apoiar a resposta a incidentes, sob orientação.
+  - Registrar implantações e mudanças para que possam sustentar a segurança clínica e as evidências de auditoria.
+  qualifications:
+  - Graduação em computação ou em área afim, programa de aprendizagem profissional concluído ou experiência equivalente.
+  job_evaluation_notes: O UK GDaD PCF sugere a Faixa 4 para os níveis de aprendiz e de júnior; esta referência coloca o nível júnior na Faixa 5 para evitar dois níveis na mesma faixa, porque a função constrói componentes de pipeline com menos supervisão.
+- title: Profissional de engenharia DevOps
+  responsibilities:
+  - Projetar e construir de forma independente pipelines, ambientes e componentes de plataforma.
+  - Automatizar verificações de segurança, como a varredura de dependências e de contêineres, e agir sobre os resultados.
+  - Construir monitoramento, registro de logs e alertas para que as equipes vejam os problemas antes que afetem pacientes e equipes.
+  - Planejar e testar backups, failover e recuperação dos serviços que apoiam o cuidado.
+  - Investigar e corrigir problemas em serviços em operação, inclusive com suporte fora do horário comercial quando o serviço exigir.
+  - Orientar profissionais de engenharia DevOps júnior e aprendizes.
+  qualifications:
+  - Graduação em computação ou em área afim, ou experiência equivalente.
+  - Experiência na construção e na operação de pipelines de entrega automatizados e de infraestrutura em nuvem.
+- title: Profissional de engenharia DevOps sênior
+  responsibilities:
+  - Liderar o projeto da cadeia de ferramentas de entrega e da plataforma de um produto ou de um grupo de serviços.
+  - Definir padrões para liberações, de modo que as implantações em serviços clínicos sejam repetíveis, reversíveis e bem documentadas.
+  - Acordar com os responsáveis pelos serviços e as lideranças clínicas as metas de disponibilidade, de tempo de recuperação e de ponto de recuperação, e projetar para cumpri-las.
+  - Liderar a resposta técnica a incidentes e as revisões pós-incidente das plataformas operadas pela equipe.
+  - Garantir que as plataformas cumpram os requisitos de segurança e de governança da informação, incluindo controle de acesso e registro de auditoria.
+  - Orientar e desenvolver os profissionais de engenharia DevOps da equipe.
+  qualifications:
+  - Experiência substancial no projeto e na operação de cadeias de ferramentas de entrega e de plataformas, em nível equivalente ao de mestrado.
+- title: Profissional de engenharia DevOps líder
+  responsibilities:
+  - Liderar a engenharia DevOps e de plataforma de um grupo de equipes, atuando como responsável técnico pela plataforma compartilhada.
+  - Definir o roteiro de médio prazo das ferramentas de entrega, da hospedagem e da observabilidade da organização.
+  - Garantir que as plataformas compartilhadas sejam resilientes, seguras e capazes de atender às necessidades de disponibilidade dos serviços clínicos.
+  - Gerir os custos e a capacidade das plataformas com as finanças e os responsáveis pelos serviços.
+  - Liderar a comunidade de prática de DevOps e chefiar ou liderar profissionais de engenharia DevOps.
+  qualifications:
+  - Ampla experiência na liderança da engenharia DevOps ou de plataforma de serviços complexos.
+- title: Profissional de engenharia DevOps principal
+  responsibilities:
+  - Definir a estratégia de como a organização constrói, libera, hospeda e opera seus serviços de saúde digital.
+  - Aconselhar a liderança sênior sobre hospedagem, resiliência, cibersegurança e investimento em plataformas.
+  - Garantir que os planos de continuidade de negócios e de recuperação de desastres dos serviços clínicos críticos sejam realistas e testados.
+  - Avaliar e defender novas tecnologias e práticas, equilibrando inovação com segurança e estabilidade.
+  - Ampliar a capacidade DevOps da organização, incluindo recrutamento, trilhas de carreira e planos de competências.
+  qualifications:
+  - Ampla experiência na liderança da engenharia DevOps e de plataforma em várias equipes ou organizações.

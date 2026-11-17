@@ -1,0 +1,55 @@
+summary: >
+  Los ingenieros de analítica convierten los datos brutos de salud y asistencia en modelos de datos limpios, probados y documentados en los que pueden confiar los analistas, los científicos de datos y las herramientas de informes. Se sitúan entre la ingeniería de datos y el análisis, y aplican prácticas de ingeniería de software, como el control de versiones, las pruebas y la revisión de código, a las transformaciones que hay detrás de los informes y los cuadros de mando de la organización.
+health_context:
+  - Los modelos de datos codifican definiciones clínicas y operativas, como qué cuenta como un ingreso, un reingreso o un incumplimiento de un estándar de tiempo de espera, por lo que las definiciones se acuerdan con los responsables clínicos y operativos.
+  - Los códigos clínicos de terminologías y clasificaciones como SNOMED CT y la CIE se agrupan en conjuntos de referencia para el análisis, que necesitan un control de versiones cuidadoso.
+  - Los modelos que se usan en los informes de rendimiento y de financiación deben ser coherentes y auditables, porque los errores pueden afectar a decisiones sobre los servicios a los pacientes.
+  - Los modelos suelen contener datos seudonimizados a nivel de paciente, por lo que incorporan el control de accesos, la documentación y la minimización de datos.
+levels:
+  - title: Ingeniero de analítica en formación
+    responsibilities:
+      - Aprender las herramientas y prácticas de modelado de datos del equipo mediante formación y trabajo en pareja.
+      - Hacer cambios pequeños y bien definidos en los modelos de datos bajo supervisión.
+      - Documentar los elementos de datos y sus definiciones en el catálogo de datos.
+      - Responder a preguntas sencillas de los usuarios de datos y registrar sus requisitos.
+      - Seguir las normas de gobernanza de la información al trabajar con datos de pacientes.
+    qualifications:
+      - Matriculado en un programa de aprendizaje de datos o equivalente, o trabajando para obtenerlo.
+    job_evaluation_notes: Los conocimientos se puntúan en el nivel que exige el puesto una vez que la formación está lo bastante avanzada para hacer el trabajo.
+  - title: Ingeniero de analítica
+    responsibilities:
+      - Crear y probar modelos de datos de un área de servicio, como la actividad de hospitalización o la atención comunitaria, a partir de diseños acordados.
+      - Escribir pruebas automatizadas que comprueben los modelos de datos frente a las definiciones clínicas y operativas acordadas.
+      - Mantener los conjuntos de referencia de códigos clínicos que se usan en el análisis, con versiones claras.
+      - Documentar los modelos para que los analistas entiendan su significado, sus fuentes y sus límites.
+      - Formar y apoyar a los usuarios de los conjuntos de datos del equipo.
+    qualifications:
+      - Un grado en una materia cuantitativa o de informática, o experiencia equivalente.
+      - Experiencia en la creación de modelos de datos o código analítico.
+  - title: Ingeniero de analítica sénior
+    responsibilities:
+      - Supervisar el diseño y las pruebas de los modelos de datos de varias áreas de servicio.
+      - Acordar con los responsables clínicos, operativos y financieros las definiciones de las medidas clave, y asegurarse de que los modelos las aplican de forma coherente.
+      - Asegurarse de que los modelos que alimentan los informes de rendimiento y de financiación son auditables y están bien probados.
+      - Resolver los problemas y riesgos de datos con los ingenieros y los propietarios de los datos.
+      - Orientar y dirigir el trabajo de otros ingenieros de analítica.
+    qualifications:
+      - Experiencia sustancial en modelado de datos e ingeniería de analítica, a un nivel equivalente a un máster.
+  - title: Ingeniero de analítica líder
+    responsibilities:
+      - Dirigir un equipo que diseña, crea y mantiene los modelos de datos analíticos de la organización.
+      - Fijar normas para los modelos de datos, las pruebas, la documentación y las definiciones de las medidas.
+      - Trabajar con equipos de toda la organización para entender cómo generan datos los procesos clínicos y operativos.
+      - Revisar el trabajo de otros ingenieros de analítica y mejorar las formas de trabajar del equipo.
+      - Gestionar directamente a los ingenieros de analítica.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería de analítica o del modelado de datos.
+  - title: Responsable de ingeniería de analítica
+    responsibilities:
+      - Marcar la dirección de los modelos de datos analíticos de la organización, para que todo el análisis use un único conjunto de definiciones de confianza.
+      - Asegurarse de que las prioridades de ingeniería de analítica apoyan la estrategia de la organización y sus obligaciones de información.
+      - Asesorar a la alta dirección sobre la fiabilidad de los datos en que se basan los grandes informes y decisiones.
+      - Asegurarse de que la comunidad tiene las herramientas y plataformas que necesita, y gestionar el presupuesto correspondiente.
+      - Desarrollar la capacidad de ingeniería de analítica mediante el liderazgo técnico y el desarrollo profesional.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería de analítica en toda una organización.

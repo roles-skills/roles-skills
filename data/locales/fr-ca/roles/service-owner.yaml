@@ -1,0 +1,30 @@
+summary: >
+  Les propriétaires de service sont les responsables qui rendent compte d'un service de santé numérique de bout en bout, dans ses dimensions numérique, opérationnelle et clinique. Ils réunissent des équipes pluridisciplinaires et des partenaires du service, fixent sa stratégie et ses priorités, détiennent son budget et sa performance, et veillent à ce qu'il apporte des résultats et des bénéfices sûrs et de qualité aux patients, aux cliniciens et au personnel soignant.
+health_context:
+  - Un service de santé numérique fait partie d'un service de soins plus large, c'est pourquoi les propriétaires de service travaillent d'égal à égal avec les responsables cliniques et opérationnels et partagent la responsabilité de toute l'expérience du patient.
+  - Le propriétaire de service rend compte de la gestion du risque clinique du service, en travaillant avec le responsable de la sécurité clinique et en acceptant le risque résiduel au bon niveau.
+  - Les services traitent des informations de santé confidentielles, c'est pourquoi les propriétaires de service veillent à ce que la gouvernance de l'information, la protection des données et la cybersécurité soient en place et revues.
+  - Les services en production qui soutiennent les soins doivent être résilients, c'est pourquoi les propriétaires de service veillent à ce que la continuité d'activité, la réponse aux incidents et le support des fournisseurs répondent aux besoins cliniques.
+  - Les bénéfices en matière de soins doivent être mesurés et rapportés, c'est pourquoi les propriétaires de service tiennent des indicateurs de performance couvrant la sécurité, la qualité, l'accès, l'équité et le coût.
+levels:
+  - title: Propriétaire de service
+    responsibilities:
+      - Rendre compte d'un service de santé numérique de bout en bout, comme l'accès en ligne au dossier ou les demandes d'avis numériques, tout au long de son cycle de vie.
+      - Fixer la stratégie et les priorités du service avec les responsables cliniques et opérationnels, en conciliant besoins des utilisateurs, sécurité, politiques et coût.
+      - Détenir le budget du service et défendre l'investissement par ses bénéfices pour les patients et le personnel.
+      - Veiller à ce que le risque clinique, la gouvernance de l'information, l'accessibilité et la cybersécurité soient gérés et garantis.
+      - Suivre la performance et les bénéfices du service, et diriger son amélioration lorsqu'il n'est pas à la hauteur.
+      - Représenter le service dans les instances de gouvernance et auprès des partenaires de tout le système de santé et de soins.
+    qualifications:
+      - Une solide expérience de la direction de services numériques, opérationnels ou cliniques.
+  - title: Propriétaire de service senior
+    responsibilities:
+      - Rendre compte d'un groupe de services de santé numérique liés, ou d'un service critique utilisé dans tout le système de soins, comme le dossier patient informatisé.
+      - Fixer une stratégie pluriannuelle des services avec les dirigeants et les responsables cliniques et opérationnels.
+      - Détenir les budgets et les relations avec les grands fournisseurs de ces services.
+      - Accepter et faire remonter au plus haut niveau les risques cliniques, informationnels et opérationnels, avec le responsable de la sécurité clinique et le responsable exécutif du risque lié à l'information.
+      - Diriger les propriétaires de service et les équipes pluridisciplinaires, et construire une culture de transparence et d'amélioration continue.
+      - Diriger la réponse aux incidents majeurs de service qui touchent la prise en charge des patients, et les enseignements qui en découlent.
+    qualifications:
+      - Une solide expérience de la direction de services importants ou critiques, y compris leurs budgets et leurs fournisseurs.
+    job_evaluation_notes: Le UK GDaD PCF n'a qu'un niveau de propriétaire de service, en G7 ou G6. Cette référence ajoute un niveau senior en bande 8c pour les services critiques pour les soins dans toute l'organisation, avec des budgets couvrant plusieurs services (ressources financières de niveau 5) et une implication régulière dans des incidents graves touchant les patients (effort émotionnel de niveau 2).

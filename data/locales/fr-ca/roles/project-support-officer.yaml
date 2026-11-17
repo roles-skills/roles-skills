@@ -1,0 +1,51 @@
+summary: >
+  Les chargés d'appui aux projets aident les projets et les programmes à bien fonctionner en tenant à jour les plans, les registres et les documents, en organisant les réunions et en produisant des rapports. Aux niveaux supérieurs, ils dirigent le bureau de gestion de projets (PMO), en donnant aux dirigeants une image claire de l'avancement, des risques et des bénéfices de tout le portefeuille de transformation numérique de l'organisation.
+health_context:
+  - Les projets de santé numérique ont besoin d'approbations de sécurité clinique, de gouvernance de l'information et de sécurité à des moments précis, c'est pourquoi l'appui aux projets les suit comme jalons clés.
+  - Les projets dépendent souvent de cliniciens et de personnel soignant au temps limité, c'est pourquoi il importe de planifier en fonction des plannings cliniques et de la pression sur les services.
+  - Le reporting du portefeuille aide les dirigeants à décider quels changements avancent quand les services cliniques sont sous pression.
+levels:
+  - title: Chargé d'appui aux projets
+    summary: Apporte un soutien administratif à un ou plusieurs projets, en tenant les registres et en organisant les réunions sous la direction d'un chef de projet.
+    responsibilities:
+      - Tenir les documents de projet, avec gestion des versions, dans le référentiel du projet.
+      - Mettre à jour les registres d'actions, de risques, de problèmes et de décisions.
+      - Organiser les réunions de projet, envoyer les documents et noter les actions.
+      - Recueillir les mises à jour de l'équipe pour les rapports d'avancement.
+      - Traiter le courrier et les demandes courants du projet.
+    qualifications:
+      - Une qualification de niveau 3 en gestion administrative ou en appui aux projets, ou une expérience équivalente.
+  - title: Coordinateur de projets
+    summary: Coordonne les contrôles de plusieurs projets ou programmes, en tenant les plans et les registres et en produisant des rapports réguliers.
+    responsibilities:
+      - Tenir les plans, les registres et les tableaux de suivi de plusieurs projets.
+      - Produire des rapports d'avancement et de synthèse réguliers.
+      - Suivre les budgets et les dépenses des projets, et signaler les écarts.
+      - Vérifier que les projets suivent l'approche convenue, y compris les étapes de sécurité clinique et de gouvernance de l'information.
+      - Coordonner les comités de projet, les documents et les actions.
+      - Soutenir les chefs de projet dans la communication avec les parties prenantes.
+    qualifications:
+      - Une qualification de base en gestion de projet, ou une expérience équivalente.
+  - title: Analyste PMO
+    summary: Analyse l'avancement, les risques et les bénéfices d'un programme ou d'un portefeuille, et pilote les processus du bureau de gestion de projets.
+    responsibilities:
+      - Analyser l'avancement, les risques, les problèmes, les dépendances et les bénéfices des projets.
+      - Produire des tableaux de bord et des rapports de portefeuille pour les comités de programme et de portefeuille.
+      - Piloter les processus de planification, de maîtrise des changements et d'assurance.
+      - Aider les chefs de projet à lancer des projets avec les bons contrôles et les bons documents.
+      - Tenir à jour les outils, les modèles et les guides du PMO.
+      - Accompagner les chargés d'appui aux projets.
+    qualifications:
+      - Une qualification en gestion de projet, de programme ou de portefeuille, ou une expérience équivalente.
+  - title: Responsable du PMO
+    summary: Gère le bureau de gestion de projets d'un programme ou d'un portefeuille, en fixant les normes et en donnant aux dirigeants une vision fiable de la livraison.
+    responsibilities:
+      - Diriger le bureau de gestion de projets et son personnel.
+      - Fixer les normes, les méthodes et les outils de projet et de portefeuille.
+      - Donner à la direction une vision claire de l'avancement, des risques et des bénéfices du portefeuille.
+      - Piloter la gouvernance du portefeuille, y compris la hiérarchisation, les revues de jalons et la maîtrise des changements.
+      - Suivre les budgets et les ressources des programmes, et en rendre compte.
+      - Accompagner les chefs de projet sur l'approche et les contrôles.
+    qualifications:
+      - Une qualification reconnue en gestion de projet, de programme ou de portefeuille, ou une expérience équivalente.
+      - Une expérience de la conduite d'un bureau de gestion de projets.

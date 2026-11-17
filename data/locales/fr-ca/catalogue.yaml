@@ -1,0 +1,92 @@
+# Family and role titles in French. Keys are the English ids. Slugs are made
+# from the titles.
+families:
+  software-development: {title: Développement logiciel}
+  architecture: {title: Architecture}
+  data: {title: Données}
+  product-and-delivery: {title: Produit et livraison}
+  user-centred-design: {title: Conception centrée sur l'utilisateur}
+  it-operations: {title: Exploitation informatique}
+  cyber-security: {title: Cybersécurité}
+  quality-assurance-testing: {title: Assurance qualité et tests}
+  clinical-informatics: {title: Informatique clinique et sécurité clinique}
+  information-governance: {title: Gouvernance de l'information}
+  finance: {title: Finances}
+  legal: {title: Affaires juridiques}
+  human-resources: {title: Ressources humaines}
+  procurement: {title: Achats et affaires commerciales}
+  corporate-services: {title: Services généraux}
+roles:
+  software-developer: {title: Développeur logiciel}
+  frontend-developer: {title: Développeur front-end}
+  devops-engineer: {title: Ingénieur DevOps}
+  integration-engineer: {title: Ingénieur d'intégration (interopérabilité en santé)}
+  enterprise-architect: {title: Architecte d'entreprise}
+  solution-architect: {title: Architecte de solutions}
+  technical-architect: {title: Architecte technique}
+  data-architect: {title: Architecte de données}
+  security-architect: {title: Architecte de sécurité}
+  network-architect: {title: Architecte réseau}
+  business-architect: {title: Architecte métier}
+  data-analyst: {title: Analyste de données}
+  performance-analyst: {title: Analyste de la performance}
+  data-engineer: {title: Ingénieur de données}
+  analytics-engineer: {title: Ingénieur analytique}
+  data-scientist: {title: Data scientist}
+  machine-learning-engineer: {title: Ingénieur en apprentissage automatique}
+  data-governance-manager: {title: Responsable de la gouvernance des données}
+  clinical-coder: {title: Codeur clinique}
+  business-analyst: {title: Analyste métier}
+  delivery-manager: {title: Responsable de livraison}
+  product-manager: {title: Chef de produit}
+  project-manager: {title: Chef de projet}
+  programme-delivery-manager: {title: Responsable de livraison de programme}
+  digital-portfolio-manager: {title: Gestionnaire de portefeuille numérique}
+  service-owner: {title: Propriétaire de service}
+  user-researcher: {title: Chercheur utilisateur}
+  service-designer: {title: Designer de services}
+  interaction-designer: {title: Designer d'interaction}
+  content-designer: {title: Designer de contenu}
+  accessibility-specialist: {title: Spécialiste de l'accessibilité}
+  service-desk-analyst: {title: Analyste du centre de services}
+  end-user-computing-engineer: {title: Ingénieur poste de travail}
+  infrastructure-engineer: {title: Ingénieur infrastructure}
+  application-operations-engineer: {title: Ingénieur d'exploitation des applications}
+  it-service-manager: {title: Gestionnaire des services informatiques}
+  incident-manager: {title: Gestionnaire des incidents}
+  problem-manager: {title: Gestionnaire des problèmes}
+  change-and-release-manager: {title: Gestionnaire des changements et des mises en production}
+  security-analyst: {title: Analyste des opérations de sécurité}
+  security-engineer: {title: Ingénieur sécurité}
+  cyber-security-manager: {title: Responsable de la cybersécurité}
+  quality-assurance-test-analyst: {title: Analyste de tests en assurance qualité}
+  test-engineer: {title: Ingénieur de test}
+  test-manager: {title: Responsable des tests}
+  clinical-informatician: {title: Informaticien clinique}
+  clinical-safety-officer: {title: Responsable de la sécurité clinique}
+  chief-clinical-information-officer: {title: Directeur médical de l'information}
+  records-officer: {title: Agent des dossiers médicaux}
+  information-governance-officer: {title: Chargé de gouvernance de l'information}
+  data-protection-officer: {title: Délégué à la protection des données}
+  finance-officer: {title: Agent financier}
+  payroll-officer: {title: Gestionnaire de paie}
+  management-accountant: {title: Contrôleur de gestion}
+  financial-accountant: {title: Comptable}
+  head-of-finance: {title: Responsable des finances}
+  legal-assistant: {title: Assistant juridique}
+  legal-adviser: {title: Juriste}
+  head-of-legal: {title: Responsable des affaires juridiques}
+  hr-officer: {title: Chargé des ressources humaines}
+  recruitment-officer: {title: Chargé de recrutement}
+  hr-business-partner: {title: Partenaire RH}
+  learning-and-development-specialist: {title: Spécialiste de la formation et du développement}
+  head-of-people: {title: Responsable du personnel}
+  procurement-officer: {title: Chargé d'achats}
+  category-manager: {title: Responsable de catégorie d'achats}
+  contract-manager: {title: Gestionnaire de contrats}
+  head-of-procurement: {title: Responsable des achats}
+  administrator: {title: Agent administratif}
+  executive-assistant: {title: Assistant de direction}
+  project-support-officer: {title: Chargé d'appui aux projets}
+  governance-and-risk-manager: {title: Responsable de la gouvernance et des risques}
+  communications-officer: {title: Chargé de communication}

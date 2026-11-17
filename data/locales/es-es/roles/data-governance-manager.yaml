@@ -1,0 +1,41 @@
+summary: >
+  Los gestores de gobernanza de datos se aseguran de que los datos de salud y asistencia de la organización estén bien gestionados, sean fiables y se usen con seguridad y de forma lícita. Crean y gestionan los marcos, las políticas y las normas de titularidad, calidad, metadatos e intercambio de datos, y trabajan con los propietarios de los datos, los colegas de gobernanza de la información y los responsables clínicos para que los datos puedan usarse con confianza en la atención, la planificación y la investigación.
+health_context:
+  - Los datos sanitarios son datos personales muy sensibles, por lo que la gobernanza de datos trabaja estrechamente con la gobernanza de la información, la protección de datos y el deber de confidencialidad.
+  - Los datos se comparten con muchos socios de salud y asistencia para la atención directa, la planificación y la investigación, y cada uso necesita una base jurídica clara, acuerdos y controles.
+  - Los estándares de datos clínicos, como SNOMED CT, la CIE y HL7 FHIR, y las definiciones de datos acordadas son centrales para que los datos sean coherentes entre sistemas y organizaciones.
+  - La mala calidad de los datos puede causar daño directo a los pacientes, como alergias no registradas o asociaciones erróneas de pacientes, además de decisiones equivocadas sobre los servicios.
+  - Los pacientes y el público esperan transparencia sobre cómo se usan sus datos, por lo que la gobernanza incluye la transparencia y el respeto de las decisiones de los pacientes sobre el uso secundario.
+levels:
+  - title: Gestor de gobernanza de datos
+    responsibilities:
+      - Gestionar el marco de gobernanza de datos de la organización, incluidos la titularidad y la custodia de los datos y los grupos de decisión.
+      - Mantener el catálogo de datos, el glosario de negocio y las normas de datos, incluidas las definiciones clínicas y operativas acordadas.
+      - Vigilar la calidad de los datos de los conjuntos de datos clave y trabajar con sus propietarios para corregir las causas de fondo.
+      - Trabajar con los colegas de gobernanza de la información en los acuerdos de intercambio de datos y en las evaluaciones de impacto relativas a la protección de datos de los nuevos usos.
+      - Registrar y gestionar los riesgos y problemas de datos, y escalarlos al responsable adecuado.
+      - Mejorar la alfabetización en datos del personal que crea y usa datos sanitarios.
+    qualifications:
+      - Un grado o una cualificación profesional en datos, gestión de la información o una materia afín, o experiencia equivalente.
+      - Experiencia en gobernanza o gestión de datos en una organización compleja.
+    job_evaluation_notes: El UK GDaD PCF propone de HEO a G7 para este nivel, lo que corresponde a la banda 6. Esta referencia lo sitúa en la banda 7 porque, en una organización sanitaria, el rol suele gobernar datos confidenciales de pacientes en toda la organización y desarrolla políticas de datos que afectan a varios servicios.
+  - title: Gestor de gobernanza de datos líder
+    responsibilities:
+      - Dirigir el diseño y la gestión de los marcos, las políticas y las normas de gobernanza de datos en toda la organización.
+      - Coordinar a los propietarios y custodios de los datos para gestionar los riesgos de datos, aceptarlos o resolverlos, e informar de ellos a los comités de alto nivel.
+      - Dirigir el trabajo de gestión de datos más amplio, como los datos maestros de pacientes, personal y centros, y los datos de referencia.
+      - Acordar las disposiciones de gobernanza de los datos que se comparten con socios de salud y asistencia e investigadores.
+      - Asesorar a los programas sobre cómo cumplen los nuevos sistemas y usos de datos las normas de datos y de gobernanza.
+      - Gestionar directamente al personal de gobernanza de datos.
+    qualifications:
+      - Amplia experiencia en la dirección de la gobernanza o la gestión de datos.
+  - title: Responsable de gobernanza de datos
+    responsibilities:
+      - Trabajar con el director de datos y con el responsable directivo del riesgo de la información para fijar la estrategia de gobernanza y uso de los datos.
+      - Fijar las políticas y normas de gobernanza de datos y vigilar su cumplimiento en la organización.
+      - Rendir cuentas de la gestión de los riesgos de datos de la organización e informar de ellos al consejo.
+      - Representar a la organización en materia de gobernanza de datos ante socios de salud y asistencia, reguladores y asociaciones de pacientes.
+      - Promover la transparencia con los pacientes y el público sobre cómo se usan sus datos.
+      - Dirigir y desarrollar la función de gobernanza de datos.
+    qualifications:
+      - Amplia experiencia en la dirección de la gobernanza de datos en toda una organización.

@@ -1,0 +1,60 @@
+summary: >
+  Los técnicos de compras ayudan a la organización a comprar los bienes y servicios que necesita, de forma lícita y con una buena relación calidad-precio, desde las compras habituales hasta las licitaciones formales. En una organización de atención sanitaria digital, gran parte de este gasto se destina a software, servicios en la nube, licencias, dispositivos y servicios tecnológicos, por lo que trabajan estrechamente con los colegas digitales, de gobernanza de la información y de seguridad clínica, además de con los responsables de presupuesto.
+health_context:
+  - Al gasto de la organización se le aplican las normas de contratación pública, por lo que cada compra debe seguir la vía adecuada, dejar una pista de auditoría clara y tratar a los proveedores con justicia.
+  - Muchas compras son digitales, como las licencias de software, las suscripciones en la nube y los dispositivos, y necesitan comprobaciones de seguridad, protección de datos y seguridad clínica antes del contrato.
+  - Los proveedores de sistemas clínicos pueden custodiar datos de pacientes, por lo que los contratos necesitan condiciones claras sobre la protección, la titularidad y la devolución de los datos.
+  - Comprar mediante acuerdos marco y sistemas dinámicos de adquisición creados para el sector público puede ahorrar tiempo, pero los contratos basados deben seguir igualmente las normas de cada acuerdo marco.
+  - El gasto público debe demostrar una buena relación calidad-precio y valor social, como el empleo local, las competencias y la reducción de carbono.
+levels:
+  - title: Auxiliar de compras
+    summary: Presta apoyo administrativo y de compras, siguiendo procedimientos establecidos, con un técnico de compras cerca.
+    responsibilities:
+      - Emitir y modificar pedidos de compra en el sistema de compras, contrastándolos con los contratos y las aprobaciones.
+      - Resolver con los proveedores, los responsables de presupuesto y finanzas las consultas habituales sobre facturas y recepciones.
+      - Pedir presupuestos para las compras de bajo valor siguiendo las normas de la organización.
+      - Mantener al día los registros de proveedores, los catálogos y el registro de contratos.
+      - Responder a las preguntas habituales del personal sobre cómo comprar.
+    qualifications:
+      - Una cualificación de nivel 2 o 3, un programa de aprendizaje en compras o experiencia equivalente.
+      - Experiencia en trabajo administrativo o financiero exacto.
+    job_evaluation_notes: Los recursos financieros están en el nivel 2 porque el puesto emite y modifica pedidos que comprometen gasto aprobado por otras personas.
+  - title: Comprador
+    summary: Compra bienes y servicios mediante solicitudes de presupuesto y contratos basados en acuerdos marco, incluidos software, dispositivos y licencias estándar, dentro de procedimientos establecidos.
+    responsibilities:
+      - Gestionar solicitudes de presupuesto y nuevas licitaciones en el marco de acuerdos marco, con plantillas estándar y la plataforma de licitación electrónica.
+      - Comprar software, dispositivos y licencias estándar, haciendo seguimiento de las renovaciones y del número de licencias.
+      - Comprobar antes de la compra que se incluyen los requisitos estándar de seguridad, protección de datos y accesibilidad.
+      - Negociar los precios y las condiciones de las compras habituales.
+      - Mantener una pista de auditoría clara y publicar los anuncios de adjudicación cuando las normas lo exijan.
+      - Analizar los datos de gasto para encontrar gasto fuera de contrato y proponer mejores vías.
+    qualifications:
+      - Una cualificación de compras de nivel certificado, un programa de aprendizaje en compras o experiencia equivalente.
+      - Experiencia en compras mediante solicitudes de presupuesto o acuerdos marco.
+    job_evaluation_notes: Los recursos financieros están en el nivel 3 porque el puesto compra suministros y servicios en nombre de los responsables de presupuesto.
+  - title: Técnico de compras
+    summary: Gestiona contrataciones de valor y complejidad moderados, incluidas las licitaciones formales, desde la planificación hasta la adjudicación del contrato, con un técnico de compras sénior disponible para asesorar.
+    responsibilities:
+      - Gestionar licitaciones formales y nuevas licitaciones en acuerdos marco desde la planificación hasta la adjudicación, gestionando los calendarios y las preguntas aclaratorias.
+      - Ayudar a los responsables de presupuesto a redactar especificaciones claras y basadas en resultados, incluidos los requisitos técnicos y de protección de datos.
+      - Organizar la evaluación, comprobar la conformidad de las ofertas, apoyar a los evaluadores y registrar la moderación.
+      - Redactar los informes de adjudicación y las respuestas a los licitadores, y gestionar el periodo de espera.
+      - Incluir preguntas de valor social y sostenibilidad adecuadas al contrato.
+      - Traspasar los contratos a los gestores de contratos con planes claros de puesta en marcha y de salida.
+      - Formar a los responsables de presupuesto en cómo comprar y supervisar a los auxiliares de compras.
+    qualifications:
+      - Una cualificación profesional reconocida de compras de nivel intermedio, o experiencia equivalente.
+      - Experiencia en la gestión de licitaciones formales según las normas de contratación pública.
+  - title: Técnico de compras sénior
+    summary: Dirige contrataciones complejas, como las de sistemas clínicos, servicios en la nube y servicios tecnológicos, y asesora sobre la vía de contratación adecuada, con amplia libertad dentro de la política de compras.
+    responsibilities:
+      - Dirigir contrataciones complejas y de gran valor, eligiendo la vía y el procedimiento adecuados.
+      - Dirigir las consultas preliminares al mercado y las solicitudes de información, manteniendo una competencia justa.
+      - Diseñar los criterios de evaluación y sus ponderaciones con los responsables técnicos, clínicos y de gobernanza de la información, y dirigir la moderación.
+      - Asegurarse de que los contratos tecnológicos incluyen condiciones de interoperabilidad, seguridad, titularidad de los datos, salida y devolución de los datos.
+      - Negociar con los licitadores cuando el procedimiento lo permita, y acordar las condiciones finales.
+      - Asesorar sobre las modificaciones, las prórrogas y las adjudicaciones directas de los contratos, y sobre el riesgo de impugnación.
+      - Orientar a los técnicos de compras y a los compradores y revisar su trabajo.
+    qualifications:
+      - Una cualificación profesional reconocida de compras de nivel avanzado, o experiencia equivalente.
+      - Experiencia sustancial en la dirección de licitaciones complejas, a ser posible de tecnología o de sistemas clínicos.

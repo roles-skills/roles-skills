@@ -1,0 +1,44 @@
+summary: >
+  Les dirigeants juridiques veillent à ce que l'organisation agisse de façon licite et gère bien son risque juridique. Ils dirigent l'équipe juridique interne, gèrent les conseils juridiques extérieurs et conseillent le conseil d'administration et la direction sur les questions juridiques les plus importantes de l'organisation. Dans une organisation de santé numérique, cela comprend la base légale de l'usage des données de santé, les grands contrats de technologie et de données, la propriété intellectuelle des logiciels et les obligations légales de l'organisation.
+health_context:
+  - L'organisation est un organisme public ou travaille avec eux, c'est pourquoi ses décisions peuvent être contestées et elle doit agir dans les limites de ses compétences.
+  - L'usage à grande échelle des données de santé et de soins, y compris pour l'IA et la recherche, comporte un risque juridique et de réputation élevé.
+  - Les grands contrats technologiques sont longs, coûteux et difficiles à quitter, c'est pourquoi leurs clauses façonnent l'organisation pendant des années.
+  - Les dirigeants juridiques travaillent étroitement avec le conseil d'administration, le délégué à la protection des données et les collègues de la sécurité clinique et de la gouvernance de l'information.
+levels:
+  - title: Responsable adjoint des affaires juridiques
+    summary: Les responsables adjoints des affaires juridiques dirigent un grand domaine de la fonction juridique, comme le droit des affaires, des technologies et des données, et remplacent le responsable des affaires juridiques.
+    responsibilities:
+      - Diriger un grand domaine du travail juridique, comme le droit des affaires, des technologies et des données, ou les litiges et le droit du travail.
+      - Conseiller les directeurs sur les dossiers à haut risque, y compris les grands achats et les programmes de données.
+      - Gérer le panel d'avocats extérieurs et le budget du conseil juridique externe.
+      - Fixer les normes, les modèles et la formation juridiques de l'organisation.
+      - Diriger et faire progresser plusieurs équipes juridiques ou spécialistes.
+      - Remplacer le responsable des affaires juridiques.
+    qualifications:
+      - Un professionnel du droit qualifié et habilité à exercer, avec une solide expérience après sa qualification, y compris la direction d'une équipe juridique.
+    job_evaluation_notes: Les connaissances sont au niveau 8 pour une connaissance experte de plusieurs domaines du droit. Les ressources d'information sont au niveau 5 et non 6, car l'emploi ne gère pas de systèmes d'information à l'échelle de l'organisation.
+  - title: Responsable des affaires juridiques
+    summary: Les responsables des affaires juridiques dirigent la fonction juridique de l'organisation, fixent son approche du risque juridique et conseillent la direction et le conseil d'administration.
+    responsibilities:
+      - Diriger la fonction juridique interne et le recours aux avocats extérieurs.
+      - Conseiller la direction et le conseil d'administration sur le risque juridique, les obligations légales et les grandes décisions.
+      - Fixer l'appétit pour le risque juridique de l'organisation et ses positions sur les questions clés, comme l'usage des données et la contractualisation.
+      - Diriger le travail juridique sur les dossiers les plus importants, comme les grands litiges, les enquêtes publiques et les partenariats.
+      - Détenir le budget des services juridiques et démontrer leur efficience.
+      - Diriger et faire progresser l'équipe juridique et les opérations juridiques.
+    qualifications:
+      - Un professionnel du droit qualifié et habilité à exercer, avec une solide expérience de haut niveau de la direction de services juridiques.
+    job_evaluation_notes: Les ressources financières sont au niveau 4, car l'emploi détient le budget des services juridiques et non les budgets de plusieurs services.
+  - title: Directeur juridique
+    summary: Les directeurs juridiques sont les juristes de plus haut niveau de l'organisation, avec la responsabilité institutionnelle des services juridiques et du risque juridique, et dirigent souvent aussi la gouvernance d'entreprise en tant que secrétaires du conseil d'administration.
+    responsibilities:
+      - Porter la responsabilité institutionnelle des affaires juridiques et du risque juridique de l'organisation.
+      - Conseiller le conseil d'administration et sa présidence sur les compétences, les obligations et la gouvernance de l'organisation.
+      - Veiller à ce que les grandes stratégies, les partenariats et les programmes de données soient licites.
+      - Diriger la réponse aux menaces juridiques les plus graves, comme les recours juridictionnels et les actions des régulateurs.
+      - Diriger les services juridiques, et souvent la gouvernance d'entreprise et le secrétariat du conseil d'administration.
+      - Représenter l'organisation auprès des régulateurs, des partenaires et des organismes publics.
+    qualifications:
+      - Un professionnel du droit qualifié et habilité à exercer, avec une solide expérience au niveau de la direction générale ou du conseil d'administration.
+    job_evaluation_notes: Les ressources financières sont au niveau 4, car l'emploi détient le budget des services juridiques et de gouvernance, et non les finances de l'organisation.

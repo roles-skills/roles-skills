@@ -1,0 +1,58 @@
+summary: >
+  Les gestionnaires de paie veillent à ce que chaque membre du personnel soit payé avec exactitude et à temps. Ils traitent les entrées, les sorties et les changements, calculent la rémunération et les retenues, effectuent les contrôles de paie et répondent aux questions sur la paie. Dans une organisation de santé numérique, la paie peut couvrir du personnel clinique, numérique et administratif aux contrats et règles de rémunération différents, et elle est souvent produite sur un système de paie partagé ou externalisé que l'équipe doit contrôler et garantir.
+health_context:
+  - Le personnel clinique peut avoir une rémunération complexe, comme les horaires atypiques, les astreintes et les contrats multiples, que la paie doit calculer correctement.
+  - Les règles de rémunération et les revalorisations annuelles sont souvent fixées au niveau national ou par les financeurs, et doivent être appliquées rapidement et avec exactitude.
+  - La paie est généralement le premier poste de coût de l'organisation, c'est pourquoi les erreurs et la fraude ont un effet important sur l'argent public et la confiance du personnel.
+  - Les données de paie sont des informations personnelles très sensibles, y compris des données de santé, familiales et bancaires, c'est pourquoi la gouvernance de l'information est au cœur de l'emploi.
+  - La paie dépend de données exactes issues des systèmes d'effectifs et de planification, c'est pourquoi les gestionnaires travaillent étroitement avec les équipes RH et des systèmes.
+levels:
+  - title: Gestionnaire de paie
+    summary: Les gestionnaires de paie traitent les changements de rémunération et calculent la paie d'un groupe de personnes, selon les procédures et en vérifiant leur travail avant chaque clôture de paie.
+    responsibilities:
+      - Saisir dans le système de paie les entrées, les sorties et les changements de contrat à partir de formulaires autorisés.
+      - Calculer la rémunération, y compris les heures supplémentaires, les majorations, et les paiements de maladie et de congés familiaux.
+      - Appliquer correctement les impôts, les cotisations de retraite et les autres retenues.
+      - Répondre avec tact et confidentialité aux questions du personnel et des responsables sur la paie.
+      - Contrôler les résultats de la paie et corriger les erreurs avant sa clôture.
+      - Suivre les contrôles de paie et les règles de gouvernance de l'information.
+    qualifications:
+      - Une qualification de paie de premier niveau, ou une expérience équivalente du traitement de la paie.
+    job_evaluation_notes: Les ressources financières sont au niveau 3, car l'emploi traite la rémunération que l'organisation verse au personnel. Les compétences physiques sont au niveau 3 pour une saisie rapide et exacte.
+  - title: Gestionnaire de paie senior
+    summary: Les gestionnaires de paie seniors traitent les dossiers de paie complexes, vérifient le travail des gestionnaires de paie et aident à réaliser les rapprochements et les déclarations de paie.
+    responsibilities:
+      - Résoudre des dossiers de rémunération complexes, comme les rappels de salaire, les contrats multiples et les avantages par renonciation à salaire.
+      - Récupérer les trop-perçus avec tact et conformément à la politique.
+      - Rapprocher la paie de la comptabilité, et préparer les rapprochements fiscaux et de retraite.
+      - Vérifier le travail des gestionnaires de paie et valider des parties de la paie.
+      - Tester les revalorisations et les changements de règles dans le système de paie avant leur mise en œuvre.
+      - Former les gestionnaires de paie et donner des conseils de base sur la rémunération aux responsables.
+    qualifications:
+      - Une qualification de paie intermédiaire, ou une expérience équivalente.
+  - title: Chef d'équipe paie
+    summary: Les chefs d'équipe paie gèrent l'équipe paie au quotidien, pilotent le cycle complet de paie et veillent à ce que les déclarations légales et les déclarations de retraite soient exactes et à temps.
+    responsibilities:
+      - Planifier et piloter le cycle de paie, en veillant au respect des dates limites, des contrôles et des échéances de paiement.
+      - Valider les contrôles de paie et analyser les écarts importants.
+      - Gérer les déclarations légales de paie et les déclarations de retraite.
+      - Gérer l'équipe paie au quotidien, y compris la charge de travail, la formation et les contrôles qualité.
+      - Travailler avec les équipes RH et de planification pour améliorer la qualité et la ponctualité des données de rémunération.
+      - Répondre aux questions et aux réclamations de paie remontées.
+    qualifications:
+      - Une qualification de paie avancée, ou une expérience équivalente.
+      - Une expérience de la production d'une paie complète.
+  - title: Responsable de la paie
+    summary: Les responsables de la paie sont responsables du service de paie de l'organisation, qu'il soit interne ou assuré par un prestataire, et garantissent aux dirigeants que la paie est exacte, licite et bien maîtrisée.
+    responsibilities:
+      - Gérer le service de paie et son équipe, et rendre compte de sa performance et de son exactitude.
+      - Gérer le contrat et la relation avec tout prestataire de paie ou service partagé.
+      - Fixer les contrôles de paie, comme les plafonds d'approbation, les rapports d'anomalies et la séparation des tâches.
+      - Anticiper les changements de règles de rémunération, de revalorisations, de retraites et d'impôts, et veiller à leur bonne application.
+      - Diriger les changements et les montées de version du système de paie, avec les équipes des systèmes et RH.
+      - Fournir les informations de paie pour les budgets, les prévisions et les comptes annuels.
+      - Diriger la réponse aux défaillances de la paie et aux erreurs graves.
+    qualifications:
+      - Une qualification de paie avancée ou une qualification comptable reconnue, ou une expérience équivalente.
+      - Une expérience de la gestion d'un service de paie.
+    job_evaluation_notes: Les ressources financières sont au niveau 4, car l'emploi est responsable de toute la paie de l'organisation, son premier poste de coût. Les personnes sont au niveau 3, car l'équipe paie est petite.

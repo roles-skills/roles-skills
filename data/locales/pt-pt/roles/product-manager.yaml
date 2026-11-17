@@ -1,0 +1,54 @@
+summary: Os gerentes de produto garantem que os produtos de saúde digital da organização atendam às necessidades de pacientes, profissionais clínicos e equipes de cuidados e gerem valor para o sistema de saúde e de cuidados. Definem a visão e o roteiro do produto, priorizam o trabalho das equipes multidisciplinares com base em evidências e respondem pelos resultados que seus produtos alcançam, incluindo o efeito no cuidado.
+health_context:
+- As decisões de produto podem afetar a segurança dos pacientes, por isso os gerentes de produto são responsáveis, com o responsável pela segurança clínica, pelo risco clínico do seu produto e garantem que os perigos sejam geridos antes da liberação.
+- Os produtos atendem a muitos grupos de usuários com necessidades diferentes, como pacientes, cuidadores, clínicos e equipes administrativas, e os gerentes de produto devem equilibrá-los com justiça.
+- Alguns produtos podem ser regulamentados como dispositivos médicos, por isso os gerentes de produto precisam saber quando a regulamentação se aplica e planejar para ela.
+- Os resultados no cuidado incluem segurança, qualidade, acesso, equidade e tempo das equipes, por isso os gerentes de produto definem medidas de sucesso que as lideranças clínicas e operacionais reconheçam.
+- Os produtos muitas vezes dependem de padrões nacionais e regionais de dados de saúde e de plataformas compartilhadas, por isso os gerentes de produto trabalham além das fronteiras entre organizações.
+levels:
+- title: Gerente de produto associado
+  responsibilities:
+  - Ser responsável pelo backlog de uma funcionalidade ou de parte de um produto, trabalhando com um gerente de produto.
+  - Transformar as evidências da pesquisa com pacientes, clínicos e equipes de cuidados em histórias de usuário priorizadas.
+  - Trabalhar com os responsáveis pela segurança clínica para registrar e revisar os perigos das funcionalidades pelas quais responde.
+  - Acompanhar medidas do produto, como adesão, taxas de conclusão e chamados de suporte, e reportar o que mostram.
+  - Representar o produto em demonstrações e junto às partes interessadas operacionais.
+  qualifications:
+  - Experiência em uma função digital, clínica ou operacional, ou experiência equivalente.
+- title: Gerente de produto
+  responsibilities:
+  - Definir a visão, o roteiro e as medidas de sucesso de um produto de saúde digital.
+  - Priorizar o trabalho da equipe, equilibrando as necessidades dos usuários, a segurança clínica, a política, as restrições técnicas e o custo.
+  - Aceitar, com o responsável pela segurança clínica, o risco clínico das mudanças do produto e barrar liberações que não sejam seguras.
+  - Trabalhar com lideranças clínicas e operacionais para garantir que o produto se ajuste aos percursos de cuidado e seja adotado.
+  - Garantir que o produto cumpra as normas de acessibilidade, de governança da informação e de serviço.
+  - Medir os resultados do produto, incluindo seus benefícios para pacientes e equipes.
+  qualifications:
+  - Experiência substancial em gestão de produto ou em uma função digital afim.
+- title: Gerente de produto sênior
+  responsibilities:
+  - Liderar um grupo de produtos relacionados ou um único produto complexo, de alto risco ou sensível, como um usado no atendimento de emergência.
+  - Construir a estratégia de produto a partir de evidências sobre as necessidades dos pacientes, a prática clínica e a política de saúde e de cuidados.
+  - Garantir que o produto cumpra a regulamentação de dispositivos médicos quando ela se aplicar.
+  - Gerir o orçamento do produto e defender o investimento com os benefícios para o cuidado.
+  - Orientar e chefiar gerentes de produto.
+  qualifications:
+  - Ampla experiência na gestão de produtos digitais ao longo de todo o seu ciclo de vida.
+- title: Gerente de produto líder
+  responsibilities:
+  - Liderar um portfólio de produtos ou um serviço de ponta a ponta, como todos os produtos que apoiam um percurso de cuidado.
+  - Definir a direção dos produtos em várias equipes e garantir que os produtos funcionem em conjunto para pacientes e equipes.
+  - Trabalhar com lideranças clínicas e com o responsável pela segurança clínica para gerir o risco clínico em todo o portfólio.
+  - Administrar o orçamento do portfólio e reportar os benefícios a comitês de governança sêniores.
+  - Liderar e desenvolver os gerentes de produto da área de produto.
+  qualifications:
+  - Ampla experiência na liderança de produtos em várias equipes.
+- title: Chefia de produto
+  responsibilities:
+  - Definir a estratégia de produto da organização, trabalhando com lideranças executivas, clínicas e operacionais.
+  - Definir e elevar os padrões de gestão de produto, incluindo como os produtos gerem o risco clínico e medem os resultados.
+  - Liderar a profissão de produto, incluindo recrutamento, trilhas de carreira e desenvolvimento de capacidade.
+  - Decidir as prioridades de investimento entre os produtos, com base em evidências de necessidade, valor e equidade.
+  - Representar os produtos da organização perante parceiros de todo o sistema de saúde e de cuidados.
+  qualifications:
+  - Ampla experiência na liderança da gestão de produto em uma organização.

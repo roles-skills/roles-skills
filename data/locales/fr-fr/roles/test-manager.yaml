@@ -1,0 +1,27 @@
+summary: >
+  Les responsables des tests planifient, dirigent et garantissent les tests des services et des programmes de santé numérique de l'organisation. Ils décident de la quantité et du type de tests nécessaires, gèrent les équipes, les environnements et les fournisseurs de test, et indiquent clairement aux décideurs les risques qui subsistent avant la mise en service d'un service. En santé, cela comprend la garantie que les tests soutiennent le dossier de sécurité clinique et les éventuelles exigences réglementaires.
+health_context:
+  - Les décisions de mise en service des systèmes cliniques dépendent des preuves de test et des risques résiduels, dont les responsables des tests rendent compte aux propriétaires de produit, aux responsables de la sécurité clinique et aux comités de programme.
+  - Les grands changements, comme les montées de version du dossier patient informatisé, demandent des tests dans de nombreux services, systèmes et fournisseurs, et souvent du temps du personnel clinique pour la recette.
+  - Les tests doivent s'adapter aux services cliniques, par exemple en planifiant les tests de bascule et les répétitions générales pour limiter la perturbation des soins.
+  - Les logiciels réglementés et les changements critiques pour la sécurité ont besoin de tests conformes à des normes comme l'IEC 62304 et au processus de gestion des risques cliniques de l'organisation.
+levels:
+  - title: Responsable des tests
+    responsibilities:
+      - Diriger la planification des tests d'un produit ou d'un programme, couvrant les environnements, les données, les outils, les ressources, les délais et le risque clinique.
+      - Planifier la recette utilisateur avec les responsables cliniques et opérationnels, et obtenir le temps des cliniciens pour y participer.
+      - Gérer une équipe d'analystes et d'ingénieurs de test, y compris des testeurs de fournisseurs.
+      - Veiller à ce que les tests respectent les exigences de sécurité clinique, de gouvernance de l'information et réglementaires.
+      - Rendre compte de l'avancement des tests, des défauts et des risques résiduels aux propriétaires de produit, aux responsables de la sécurité clinique et aux comités de programme.
+      - Améliorer les processus de test et convenir des normes de test avec les équipes de livraison.
+    qualifications:
+      - Une expérience significative de la gestion des tests de services numériques complexes, d'un niveau équivalent à un master.
+  - title: Directeur des tests
+    responsibilities:
+      - Fixer la stratégie, les normes et les cadres de test de l'organisation pour les services de santé numérique.
+      - Veiller à ce que les tests de l'organisation respectent les exigences de sécurité clinique, de dispositifs médicaux et les autres exigences réglementaires.
+      - Choisir les outils et les technologies de test, et gérer le budget de test et les contrats fournisseurs.
+      - Conseiller la direction sur les risques de qualité et de sécurité avant les grandes mises en production et les décisions de mise en service.
+      - Diriger et faire progresser les responsables, les analystes et les ingénieurs de test, et développer la capacité de test de l'organisation.
+    qualifications:
+      - Une solide expérience de la direction des tests dans toute une organisation.

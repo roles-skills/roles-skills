@@ -1,0 +1,63 @@
+summary: >
+  Les chefs de projet planifient et mènent des projets qui changent la manière dont l'organisation soutient la santé et les soins, comme le déploiement d'un système clinique sur de nouveaux sites, le transfert de services vers une nouvelle infrastructure ou l'introduction de nouveaux outils numériques pour le personnel soignant. Ils maîtrisent le périmètre, les délais, les coûts, la qualité et les risques avec des méthodes de projet reconnues, et veillent à ce que les projets apportent aux patients et au personnel les bénéfices promis.
+health_context:
+  - Les projets qui changent des systèmes ou des parcours cliniques ont besoin d'une assurance de sécurité clinique avant la mise en service, c'est pourquoi les chefs de projet intègrent au calendrier les ateliers d'identification des dangers, la validation du dossier de sécurité et la contribution du responsable de la sécurité clinique.
+  - Les mises en service ne doivent pas perturber la prise en charge des patients, c'est pourquoi les chefs de projet planifient avec les équipes cliniques et opérationnelles les bascules, les dispositions de continuité d'activité et l'accompagnement sur le terrain.
+  - Les projets ont souvent besoin d'analyses d'impact relatives à la protection des données et d'accords de partage d'informations, c'est pourquoi les chefs de projet les planifient tôt avec les collègues de la gouvernance de l'information.
+  - Les bénéfices en matière de soins, comme le temps du personnel libéré ou la réduction des erreurs, mettent du temps à apparaître, c'est pourquoi les chefs de projet établissent des situations de référence et confient au service le suivi des bénéfices.
+levels:
+  - title: Chef de projet adjoint
+    summary: Le chef de projet adjoint soutient la conduite de projets, ou gère de petits projets bien définis avec l'accompagnement d'un chef de projet plus expérimenté.
+    responsibilities:
+      - Tenir à jour les plans de projet, les registres des risques et des problèmes, les journaux d'actions et les registres des dépendances.
+      - Organiser les réunions et les comités de projet, en rédiger les comptes rendus et suivre les actions.
+      - Gérer de petits travaux bien définis, comme le déploiement sur un site ou un calendrier de formation, avec un accompagnement.
+      - Suivre les tâches de préparation à la mise en service, comme la validation de sécurité clinique, les vérifications de protection des données et la formation du personnel.
+      - Préparer les rapports de synthèse et suivre les dépenses du projet par rapport au budget.
+    qualifications:
+      - Une qualification de base en gestion de projet, ou une expérience équivalente.
+  - title: Chef de projet
+    summary: Le chef de projet conduit du lancement à la clôture des projets de taille et de complexité modérées, comme le déploiement d'un service numérique dans plusieurs structures de soins.
+    responsibilities:
+      - Planifier et gérer les projets du lancement à la clôture, en maîtrisant le périmètre, les délais, les coûts, la qualité et les risques.
+      - Planifier les mises en service avec les équipes cliniques et opérationnelles, y compris la bascule, la continuité d'activité et l'accompagnement.
+      - Veiller à ce que l'assurance de sécurité clinique, de gouvernance de l'information et d'accessibilité soit planifiée et achevée avant la mise en service.
+      - Gérer le budget du projet et les livrables des fournisseurs.
+      - Rendre compte au comité de projet et faire remonter les risques et les problèmes qui dépassent les tolérances.
+      - Établir les situations de référence des bénéfices et confier leur suivi au service.
+    qualifications:
+      - Une qualification reconnue en gestion de projet, comme une certification de niveau praticien, ou une expérience équivalente.
+      - Une expérience de la gestion de projets qui changent des services ou des systèmes.
+  - title: Chef de projet senior
+    summary: Le chef de projet senior dirige des projets importants, complexes ou à haut risque, comme le remplacement d'un système clinique dans toute une organisation, et peut encadrer d'autres membres du personnel de projet.
+    responsibilities:
+      - Diriger des projets importants ou à haut risque, comme le remplacement de systèmes cliniques ou des déploiements multisites.
+      - Gérer des dépendances complexes avec les fournisseurs, d'autres projets et les organisations partenaires de santé et de soins.
+      - Diriger les décisions de mise en service avec le responsable de la sécurité clinique, les responsables opérationnels et le responsable exécutif du projet.
+      - Gérer le budget et les dispositions commerciales du projet, y compris la maîtrise des changements avec les fournisseurs.
+      - Veiller à ce que les bénéfices pour les patients et le personnel soient définis, portés par un responsable et mesurés.
+      - Encadrer et faire progresser les chefs de projet et le personnel d'appui aux projets.
+    qualifications:
+      - Une qualification reconnue en gestion de projet, ou une expérience équivalente.
+      - Une expérience significative de la gestion de projets complexes dans un environnement réglementé ou critique pour la sécurité.
+  - title: Chef de projet référent
+    summary: Le chef de projet référent dirige les projets les plus complexes ou un groupe de projets liés, et fixe la pratique de gestion de projet de son domaine.
+    responsibilities:
+      - Diriger les projets les plus complexes, ou un groupe de projets liés, dans plusieurs services ou organisations.
+      - Fixer les normes, les modèles et l'assurance de la gestion de projet du domaine, et accompagner les chefs de projet.
+      - Conseiller les responsables exécutifs et les comités sur les options de conduite, les risques et le redressement des projets en difficulté.
+      - Gérer des budgets et des contrats importants, et veiller à l'efficience des projets.
+      - Veiller au respect des exigences de sécurité clinique et de gouvernance de l'information dans tout le groupe de projets.
+      - Encadrer les chefs de projet.
+    qualifications:
+      - Une solide expérience de la direction de projets complexes, avec une qualification reconnue en gestion de projet ou une expérience équivalente.
+  - title: Responsable de la gestion de projet
+    summary: Le responsable de la gestion de projet dirige la pratique de gestion de projet de l'organisation et les chefs de projet qui conduisent sa transformation numérique.
+    responsibilities:
+      - Diriger la pratique de gestion de projet, y compris ses méthodes, ses normes, ses outils et son assurance.
+      - Affecter les chefs de projet aux projets de l'organisation et gérer la capacité de la pratique.
+      - Développer la capacité de gestion de projet, y compris le recrutement, la formation et les parcours de carrière.
+      - Conseiller les dirigeants sur la santé des projets, les risques de conduite et les enseignements tirés.
+      - Gérer le budget de la pratique.
+    qualifications:
+      - Une solide expérience de la direction de projets et de chefs de projet, avec une qualification reconnue en gestion de projet ou une expérience équivalente.

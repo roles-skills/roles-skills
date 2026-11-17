@@ -1,0 +1,38 @@
+summary: >
+  Los arquitectos de datos diseñan cómo la organización estructura, almacena, mueve y gobierna sus datos de salud y asistencia, para que puedan usarse con seguridad en la atención directa, la planificación de servicios y la investigación. Diseñan modelos de datos, plataformas de datos y flujos de datos, fijan normas de datos y se aseguran de que el significado clínico, la calidad y la confidencialidad se mantengan de principio a fin.
+health_context:
+  - Los datos sanitarios deben conservar su significado clínico, por lo que los modelos de datos usan terminologías clínicas como SNOMED CT y clasificaciones como la CIE.
+  - Los datos que se usan para la atención directa y los que se usan para la planificación o la investigación tienen bases jurídicas distintas, por lo que los arquitectos diseñan para la separación, la desidentificación y el acceso controlado.
+  - Los datos proceden de muchos sistemas clínicos y asistenciales de calidad variable, por lo que los arquitectos diseñan para las comprobaciones de calidad de los datos, la asociación de pacientes y el linaje.
+  - Las historias clínicas compartidas y el intercambio de datos dependen de modelos comunes, como los recursos HL7 FHIR y los conjuntos de datos nacionales o internacionales acordados.
+  - Los registros deben conservarse durante periodos largos, por lo que los diseños deben planificar el archivo y el acceso a los datos históricos.
+levels:
+  - title: Arquitecto de datos
+    responsibilities:
+      - Diseñar modelos de datos lógicos y físicos para datos clínicos y operativos, con terminologías clínicas cuando sea necesario.
+      - Diseñar flujos de datos y componentes de la plataforma de datos, como las capas de almacén de datos, lakehouse e integración.
+      - Definir los metadatos, las entradas del diccionario de datos y el linaje de los conjuntos de datos de su área.
+      - Diseñar la desidentificación y los controles de acceso para que los datos se usen solo para su finalidad lícita.
+      - Trabajar con los colegas de calidad de los datos y de codificación clínica para corregir las causas estructurales de los datos deficientes.
+      - Orientar a los ingenieros y analistas de datos sobre los modelos y las normas de datos.
+    qualifications:
+      - Experiencia sustancial en modelado de datos y diseño de plataformas de datos, a un nivel equivalente a un máster.
+    job_evaluation_notes: Situado por encima de la propuesta de grado del UK GDaD PCF (banda 7), porque los anuncios del sector sanitario sitúan este rol en la banda 8a. La planificación, las políticas y la libertad de actuación se puntúan por encima del perfil de la banda 7 porque el puesto diseña plataformas y controles de datos que usan muchos servicios.
+  - title: Arquitecto de datos sénior
+    responsibilities:
+      - Diseñar la arquitectura de datos de un dominio importante, como la historia clínica compartida o la plataforma analítica.
+      - Asegurarse de que los diseños de datos de todos los equipos siguen las normas y los modelos de datos de la organización.
+      - Diseñar cómo se comparten los datos con las organizaciones socias, incluidos los estándares, los controles y los acuerdos de intercambio de datos.
+      - Asesorar a los colegas de gobernanza de la información y de seguridad clínica sobre los riesgos de datos de los nuevos diseños.
+      - Revisar y orientar el trabajo de los arquitectos de datos.
+    qualifications:
+      - Amplia experiencia en arquitectura de datos para organizaciones complejas.
+  - title: Arquitecto jefe de datos
+    responsibilities:
+      - Fijar la visión y la hoja de ruta de arquitectura de datos de la organización, de acuerdo con su estrategia de datos.
+      - Ser responsable del modelo de datos corporativo, las normas de datos y el diccionario de datos de la organización.
+      - Asesorar al equipo directivo y a los órganos de gobernanza de datos sobre la arquitectura de datos, sus riesgos y la inversión.
+      - Representar a la organización en el trabajo interorganizativo de estándares de datos e interoperabilidad.
+      - Dirigir la práctica de arquitectura de datos y desarrollar a sus personas.
+    qualifications:
+      - Amplia experiencia en la dirección de la arquitectura de datos en varias organizaciones.

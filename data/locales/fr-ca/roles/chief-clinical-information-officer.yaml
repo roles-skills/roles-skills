@@ -1,0 +1,34 @@
+summary: >
+  Le directeur médical de l'information (CCIO) est le principal responsable clinique du numérique. Il fixe l'orientation clinique des services numériques de l'organisation, dirige l'informatique clinique et la sécurité clinique, et veille à ce que l'investissement numérique améliore la prise en charge des patients, la sécurité et la vie professionnelle des cliniciens et du personnel soignant. Il s'agit généralement d'un clinicien en exercice qui siège à l'équipe de direction ou la conseille.
+health_context:
+  - Le CCIO apporte une crédibilité clinique aux décisions numériques, c'est pourquoi la plupart des postes exigent un clinicien inscrit auprès d'un organisme professionnel qui exerce encore une activité clinique.
+  - Il est la voix de premier plan de la sécurité des patients dans les services numériques, en travaillant avec le directeur de la sécurité clinique et les responsables médicaux et infirmiers.
+  - Il conduit les cliniciens dans les changements à grande échelle, comme le remplacement d'un dossier de santé informatisé, où l'adoption et la sécurité dépendent du leadership clinique.
+  - Il aide à concilier l'ambition numérique avec les réalités de la charge de travail clinique, des effectifs et des risques.
+levels:
+  - title: Directeur médical adjoint de l'information
+    summary: Dirige au nom du CCIO des volets importants du programme numérique clinique, comme une structure de soins, un groupe professionnel ou un grand programme de systèmes cliniques, et remplace le CCIO.
+    responsibilities:
+      - Diriger l'orientation clinique d'un grand programme, d'une structure de soins ou d'un groupe professionnel.
+      - Diriger une équipe d'informaticiens cliniques et de responsables cliniques, en fixant les priorités et les normes.
+      - Conseiller les comités de programme et les dirigeants sur le risque et les bénéfices cliniques de l'investissement numérique.
+      - Présider les instances de conception clinique et de sécurité et prendre des décisions cliniques dans la limite de la délégation reçue.
+      - Constituer des réseaux de référents cliniques et diriger la mobilisation clinique lors des changements à grande échelle.
+      - Remplacer le CCIO aux réunions de direction et auprès des organisations partenaires.
+    qualifications:
+      - Une inscription en cours auprès d'un organisme professionnel clinique, avec une solide expérience clinique et de leadership clinique.
+      - Un master en informatique clinique ou de santé ou en leadership, ou une expérience équivalente de la conduite de la transformation numérique clinique.
+    job_evaluation_notes: La prise en charge des patients est cotée au niveau 6 pour les conseils très spécialisés sur la prise en charge des patients dans tous les services numériques de l'organisation.
+  - title: Directeur médical de l'information
+    summary: Le principal responsable clinique du numérique de l'organisation, qui rend compte de l'orientation clinique de ses services numériques et de la direction de l'informatique clinique, avec une influence institutionnelle sur la sécurité clinique.
+    responsibilities:
+      - Fixer la stratégie numérique clinique et veiller à ce qu'elle soutienne la stratégie clinique et de soins de l'organisation.
+      - Conseiller le conseil d'administration et l'équipe de direction sur le risque, les bénéfices et la priorité cliniques de l'investissement numérique.
+      - Diriger la fonction d'informatique clinique et l'autorité de conception clinique, et superviser la sécurité clinique de l'informatique de santé.
+      - Conduire les dirigeants cliniques de l'organisation et de ses partenaires dans la transformation numérique à grande échelle.
+      - Veiller à ce que la sécurité des patients, les données probantes cliniques et l'expérience du personnel orientent chaque grande décision numérique.
+      - Représenter l'organisation dans les réseaux numériques cliniques professionnels, universitaires et interorganisations.
+    qualifications:
+      - Une inscription en cours auprès d'un organisme professionnel clinique, avec une solide expérience clinique et de haute direction.
+      - Une solide expérience de la conduite de la stratégie et de la transformation numériques cliniques à l'échelle d'une organisation.
+    job_evaluation_notes: La prise en charge des patients est cotée au niveau 6 et non 7, car le CCIO conseille sur les services cliniques sans en assurer en général la prestation. Les responsabilités financières et humaines sont inférieures à celles des autres postes de direction, car les grands budgets et les grandes équipes numériques relèvent généralement du directeur du numérique ou des systèmes d'information.

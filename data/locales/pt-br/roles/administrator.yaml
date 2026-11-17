@@ -1,0 +1,40 @@
+summary: "Os profissionais de administração mantêm equipes e serviços em funcionamento cuidando da administração do dia a dia da organização: correspondência, agendas, reuniões, registros, digitação de dados, pedidos e consultas. Em uma organização de saúde digital, apoiam equipes digitais, clínicas e corporativas e muitas vezes tratam informações confidenciais sobre pacientes e equipes."
+health_context:
+- Os profissionais de administração costumam ver informações confidenciais de pacientes e de equipes, por isso seguem de perto as regras de governança da informação.
+- As consultas podem vir de pacientes, equipes de cuidados e do público, e algumas pessoas que ligam podem estar ansiosas ou aflitas.
+- Registros e digitação exatos importam, porque os erros podem passar para sistemas clínicos, relatórios e pagamentos.
+- Muitos processos administrativos estão migrando para ferramentas digitais, por isso os profissionais de administração ajudam a testar e adotar novas formas de trabalho.
+levels:
+- title: Auxiliar de administração
+  summary: Realiza tarefas administrativas rotineiras para uma equipe, seguindo procedimentos definidos, com supervisão próxima.
+  responsibilities:
+  - Atender ligações e e-mails, anotar recados com exatidão e encaminhar consultas à pessoa certa.
+  - Lançar e atualizar dados com exatidão nos sistemas da equipe.
+  - Arquivar e digitalizar documentos e manter organizadas as pastas compartilhadas.
+  - Reservar reuniões e salas e enviar os documentos.
+  - Pedir material de escritório e suprimentos dentro dos procedimentos definidos.
+  qualifications:
+  - Boas habilidades de leitura e escrita, de cálculo e de digitação.
+  job_evaluation_notes: As habilidades físicas são pontuadas no nível 3 por habilidades avançadas de digitação, com rapidez e exatidão na escrita e na digitação de dados.
+- title: Assistente de administração
+  summary: Presta um serviço administrativo completo a uma equipe ou serviço, tratando diversas tarefas, algumas não rotineiras, e organizando a própria carga de trabalho.
+  responsibilities:
+  - Gerir agendas e organizar reuniões, eventos e viagens de uma equipe.
+  - Redigir atas e registros de ações das reuniões da equipe e acompanhar as ações.
+  - Tratar a correspondência e as consultas rotineiras, redigindo respostas quando necessário.
+  - Manter registros, painéis de acompanhamento e bancos de dados e produzir relatórios simples.
+  - Processar pedidos, faturas e despesas dentro de limites definidos.
+  - Mostrar aos novos membros da equipe os procedimentos administrativos.
+  qualifications:
+  - Qualificação de nível 3 em administração, ou experiência equivalente.
+- title: Assistente sênior de administração
+  summary: Lidera a administração de um serviço ou diretoria, supervisionando outros profissionais de administração e melhorando os processos administrativos.
+  responsibilities:
+  - Coordenar o serviço administrativo de uma diretoria, distribuindo o trabalho entre os profissionais de administração.
+  - Redigir atas formais de reuniões de gestão e de programa.
+  - Escrever e melhorar procedimentos e modelos administrativos.
+  - Produzir relatórios a partir de painéis de acompanhamento e sistemas para os gestores.
+  - Acompanhar os gastos dos orçamentos administrativos e comunicar desvios.
+  - Treinar e supervisionar profissionais de administração e aprendizes.
+  qualifications:
+  - Experiência administrativa substancial, em nível equivalente ao de curso tecnológico.

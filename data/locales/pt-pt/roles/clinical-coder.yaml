@@ -1,0 +1,65 @@
+summary: Os profissionais de codificação clínica leem os prontuários de saúde dos pacientes e traduzem diagnósticos, procedimentos e outras informações clínicas em códigos de classificação padronizados, como a CID para diagnósticos e uma classificação de procedimentos para intervenções. Os dados codificados são usados para pagamento, planejamento de serviços, auditoria clínica, pesquisa e estatísticas de saúde pública, por isso a sua exatidão importa muito além da equipe de codificação. Trabalham em estreita colaboração com profissionais clínicos para esclarecer os registros e usam cada vez mais terminologias clínicas como a SNOMED CT e ferramentas de codificação assistida por computador.
+health_context:
+- Os profissionais de codificação leem prontuários completos, que muitas vezes descrevem doenças graves, lesões, abuso, autolesão e morte, por isso o trabalho é emocionalmente exigente e as equipes precisam de bom apoio e supervisão.
+- Os dados codificados determinam o pagamento da atividade, os indicadores de mortalidade e de resultados e o planejamento dos serviços, por isso os erros podem afetar o financiamento, o desempenho divulgado e as decisões sobre o cuidado.
+- A codificação depende da qualidade da documentação clínica, por isso esses profissionais esclarecem com os clínicos os registros pouco claros e ajudam a melhorar a forma como o cuidado é registrado.
+- Lidam todos os dias com prontuários de saúde completos e identificáveis, por isso a confidencialidade e o acesso correto são essenciais.
+- A codificação automatizada e assistida por computador e o mapeamento da SNOMED CT para classificações estão mudando o trabalho, e os profissionais verificam se os códigos automáticos estão corretos.
+levels:
+- title: Profissional de codificação clínica trainee
+  summary: Uma pessoa trainee de codificação clínica aprende a codificar episódios hospitalares simples sob supervisão próxima, trabalhando rumo a uma qualificação em codificação clínica.
+  responsibilities:
+  - Codificar episódios simples, como atendimentos de um dia, a partir dos prontuários, usando as regras de classificação, com todo o trabalho conferido por um profissional sênior de codificação.
+  - Aprender termos médicos, anatomia e as normas nacionais e internacionais de codificação por meio de treinamento estruturado.
+  - Localizar, acompanhar e devolver corretamente os prontuários e mantê-los em segurança.
+  - Registrar com exatidão e no prazo os dados codificados no sistema de administração de pacientes ou de codificação.
+  - Levar as informações pouco claras ou ausentes a um profissional sênior de codificação.
+  qualifications:
+  - Boa habilidade de leitura e escrita e de digitação, e matrícula em um programa de treinamento em codificação clínica, ou equivalente.
+  job_evaluation_notes: O esforço mental está no nível 4 porque os profissionais de codificação se concentram por longos períodos lendo e interpretando prontuários detalhados. O esforço emocional está no nível 2 porque com frequência leem registros que descrevem eventos aflitivos.
+- title: Profissional de codificação clínica
+  summary: Uma pessoa profissional de codificação clínica codifica de forma independente e exata uma ampla gama de episódios rotineiros, cumprindo os prazos e os padrões de qualidade acordados.
+  responsibilities:
+  - Codificar com exatidão episódios de internação, de atendimento de um dia e ambulatoriais nas especialidades mais comuns, usando as regras de classificação e as políticas locais.
+  - Esclarecer com os clínicos as informações clínicas pouco claras, ausentes ou conflitantes e registrar o resultado.
+  - Conferir os códigos sugeridos pela codificação assistida por computador ou por mapas de terminologia e corrigi-los quando necessário.
+  - Cumprir os prazos de completude da codificação, para que os dados estejam prontos para pagamento e relatórios.
+  - Participar de auditorias de codificação e agir sobre seus achados.
+  qualifications:
+  - Uma qualificação reconhecida em codificação clínica, ou estar trabalhando para obtê-la com experiência equivalente.
+  job_evaluation_notes: O esforço mental e o emocional refletem longos períodos de concentração em prontuários que muitas vezes descrevem doenças graves, lesões e morte.
+- title: Profissional de codificação clínica sênior
+  summary: Uma pessoa profissional de codificação clínica sênior codifica episódios complexos em várias especialidades, atua como fonte de aconselhamento especializado para outros profissionais de codificação e confere e treina quem tem menos experiência.
+  responsibilities:
+  - Codificar episódios complexos, como cuidados intensivos, câncer, procedimentos múltiplos e óbitos, em várias especialidades.
+  - Resolver questões difíceis de codificação com médicos consultores e outros clínicos sêniores, explicando com clareza as regras de codificação.
+  - Conferir o trabalho de profissionais de codificação trainees e dar-lhes feedback e treinamento no trabalho.
+  - Validar os dados codificados antes do envio e corrigir os erros com a equipe adequada.
+  - Trabalhar com as equipes clínicas para melhorar a qualidade da documentação clínica.
+  qualifications:
+  - Uma qualificação reconhecida em codificação clínica, ou experiência equivalente.
+  - Experiência na codificação de episódios complexos em diversas especialidades.
+  job_evaluation_notes: O esforço emocional permanece no nível 2, pois episódios complexos, como óbitos e cuidados oncológicos, fazem parte regular do trabalho.
+- title: Auditoria e treinamento em codificação clínica
+  summary: Uma pessoa de auditoria e treinamento em codificação clínica audita a exatidão dos dados codificados, projeta e oferece treinamentos de codificação e aconselha a organização sobre padrões de codificação. Em algumas organizações, este nível também lidera uma equipe de codificação no dia a dia.
+  responsibilities:
+  - Planejar e realizar auditorias de codificação em várias especialidades, medindo a exatidão em relação às normas nacionais e internacionais.
+  - Reportar os achados das auditorias às equipes de codificação, clínicas, financeiras e de informação e acordar ações de melhoria.
+  - Projetar e oferecer treinamentos de codificação, de cursos básicos para novos profissionais a treinamentos de atualização sobre mudanças nas normas.
+  - Aconselhar clínicos e gestores sobre como a codificação afeta o pagamento, os indicadores de mortalidade e os dados de desempenho.
+  - Liderar a introdução de mudanças nas versões das classificações, nas normas e nas ferramentas de codificação.
+  - Liderar uma equipe de codificação no dia a dia quando a organização combina essa atribuição com a auditoria e o treinamento.
+  qualifications:
+  - Uma qualificação reconhecida em codificação clínica e uma qualificação reconhecida em auditoria ou treinamento em codificação clínica, ou experiência equivalente.
+  job_evaluation_notes: Pessoas está no nível 3 porque projetar e ministrar treinamento especializado em codificação é uma atribuição principal. Pesquisa está no nível 2 porque a auditoria de codificação faz parte regular do trabalho.
+- title: Gerente de codificação clínica
+  summary: Uma pessoa gerente de codificação clínica lidera o serviço de codificação clínica da organização, incluindo suas equipes de codificação, seu programa de qualidade e a relação com as equipes clínicas, financeiras e de informação.
+  responsibilities:
+  - Liderar o serviço de codificação clínica e suas lideranças de equipe, garantindo que a codificação seja completa, exata e pontual.
+  - Definir as políticas de codificação e o programa de qualidade da codificação, em linha com as normas nacionais e internacionais.
+  - Administrar o orçamento de codificação e planejar a força de trabalho, incluindo recrutamento, treinamento e credenciamento.
+  - Aconselhar a liderança sênior sobre como a codificação afeta o financiamento, os indicadores de mortalidade e de resultados e os dados publicados.
+  - Liderar a adoção de novas tecnologias de codificação, como a codificação assistida por computador e o mapeamento de terminologias, com colegas de segurança clínica e de governança da informação.
+  - Apoiar o bem-estar dos profissionais de codificação que leem regularmente registros aflitivos.
+  qualifications:
+  - Uma qualificação reconhecida em codificação clínica e ampla experiência em codificação, auditoria e liderança de profissionais de codificação, ou experiência equivalente.

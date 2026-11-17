@@ -1,0 +1,29 @@
+summary: >
+  Los gestores de problemas encuentran y corrigen las causas de fondo de los incidentes, para que los fallos no vuelvan a producirse. Analizan los datos de incidentes, dirigen investigaciones de causa raíz, registran los errores conocidos y las soluciones provisionales, y hacen seguimiento de las correcciones con los equipos técnicos y los proveedores. En la atención sanitaria, los fallos repetidos de los sistemas clínicos hacen perder tiempo clínico, erosionan la confianza y pueden crear riesgos para la seguridad de los pacientes, por lo que eliminarlos es importante.
+health_context:
+  - Los pequeños fallos repetidos, como los inicios de sesión lentos o las impresiones fallidas en las plantas, suman mucho tiempo clínico perdido, por lo que los gestores de problemas buscan patrones además de los grandes fallos.
+  - Algunos problemas crean peligros para la seguridad clínica, como resultados que no llegan al profesional clínico adecuado, y se evalúan con el responsable de seguridad clínica.
+  - Las investigaciones de causa raíz suelen implicar a los proveedores de sistemas clínicos, y se gestionan mediante los contratos y los niveles de servicio.
+  - Las soluciones provisionales de los sistemas clínicos deben ser seguras y explicarse con claridad al personal clínico.
+levels:
+  - title: Analista de problemas
+    responsibilities:
+      - Analizar los datos de incidentes para encontrar fallos repetidos y tendencias en los servicios clínicos y corporativos.
+      - Registrar los problemas, los errores conocidos y las soluciones provisionales en la herramienta de gestión de servicios.
+      - Apoyar las investigaciones de causa raíz reuniendo registros, cronologías y otras evidencias.
+      - Hacer seguimiento de las acciones con los equipos técnicos y los proveedores hasta que las correcciones estén implantadas.
+      - Comprobar que las soluciones provisionales de los sistemas clínicos son seguras y se explican con claridad a los usuarios.
+    qualifications:
+      - Experiencia en soporte u operaciones de TI.
+      - Una cualificación básica en gestión de servicios de TI, o experiencia equivalente.
+  - title: Gestor de problemas
+    responsibilities:
+      - Gestionar el proceso de gestión de problemas en todos los servicios de la organización.
+      - Dirigir el análisis de causa raíz tras los incidentes graves y de los fallos recurrentes, con técnicas estructuradas.
+      - Priorizar los problemas según su efecto en la atención a los pacientes, el tiempo del personal y el riesgo del servicio.
+      - Evaluar con el responsable de seguridad clínica los problemas que pueden crear peligros para la seguridad de los pacientes.
+      - Exigir a los equipos técnicos y a los proveedores correcciones permanentes, e informar del avance a los responsables de servicio.
+      - Trabajar con los gestores de incidentes graves para asegurarse de que las lecciones de los incidentes se traducen en cambios.
+    qualifications:
+      - Experiencia sustancial en gestión de problemas o de incidentes, a un nivel equivalente a un grado.
+      - Una cualificación intermedia en gestión de servicios de TI, o experiencia equivalente.

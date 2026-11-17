@@ -1,0 +1,59 @@
+summary: Os profissionais de finanças mantêm as finanças do dia a dia da organização exatas e sob controle. Processam e registram faturas, pagamentos, receitas e lançamentos contábeis, conciliam livros contábeis e contas bancárias e ajudam os responsáveis por orçamentos e os fornecedores com suas dúvidas. Em uma organização de saúde digital, grande parte desse trabalho envolve fornecedores de tecnologia, licenças de software e serviços em nuvem, muitas vezes pagos com recursos públicos e com regras rígidas sobre como são gastos.
+health_context:
+- A organização gasta dinheiro público, por isso todo pagamento deve ser devidamente aprovado, registrado e capaz de resistir a uma auditoria.
+- Muitas faturas são de licenças de software, hospedagem em nuvem e contratos de suporte, que precisam ser conferidas com as condições do contrato, o uso e o código correto de capital ou custeio.
+- O pagamento rápido e exato importa, porque pequenos fornecedores e prestadores de cuidados podem depender dele.
+- A equipe de finanças vê informações pessoais, como despesas de pessoal e pagamentos a pacientes ou prestadores de cuidados, e deve tratá-las conforme as regras de governança da informação.
+- Riscos de fraude, como pedidos falsos de alteração dos dados bancários de fornecedores, visam órgãos públicos, por isso os profissionais seguem verificações rigorosas.
+levels:
+- title: Assistente de finanças
+  summary: Os assistentes de finanças processam transações financeiras rotineiras, como faturas de fornecedores, recibos e pedidos de reembolso de despesas, seguindo procedimentos definidos, com supervisão próxima.
+  responsibilities:
+  - Lançar com exatidão no sistema financeiro faturas de fornecedores, notas de crédito e recibos.
+  - Conferir as faturas com os pedidos de compra e os recebimentos de mercadorias e cobrar aprovações pendentes.
+  - Conferir os pedidos de reembolso de despesas das equipes com a política e os comprovantes.
+  - Responder por telefone e e-mail a dúvidas rotineiras de fornecedores e equipes.
+  - Arquivar e digitalizar documentos financeiros para que possam ser encontrados em auditorias.
+  - Seguir os procedimentos financeiros e as regras de governança da informação e comunicar qualquer irregularidade.
+  qualifications:
+  - Boas habilidades de cálculo e de digitação, adquiridas na formação ou no trabalho.
+  - Disposição para trabalhar rumo a uma qualificação contábil de nível inicial, ou experiência equivalente.
+  job_evaluation_notes: As habilidades físicas estão no nível 3 pela rapidez e exatidão da digitação em grande volume. Os recursos financeiros estão no nível 2 porque a função trata informações de pagamento e confere pequenos pedidos.
+- title: Profissional de finanças
+  summary: Os profissionais de finanças conduzem uma parte do ciclo de transações, como contas a pagar, contas a receber ou caixa, resolvendo questões não rotineiras e conciliando seu livro contábil.
+  responsibilities:
+  - Processar diversas transações, incluindo lotes de pagamento, reembolsos, faturas de venda e lançamentos contábeis.
+  - Conciliar extratos de fornecedores, contas bancárias e contas de controle e baixar as diferenças.
+  - Conferir se as faturas de tecnologia correspondem às condições do contrato, como o número de licenças e os períodos de cobrança.
+  - Realizar as verificações de alteração dos dados bancários de fornecedores e outros controles antifraude.
+  - Cobrar dívidas vencidas e resolver faturas contestadas com fornecedores e responsáveis por orçamentos.
+  - Mostrar a novos assistentes de finanças como fazer as tarefas rotineiras.
+  qualifications:
+  - Uma qualificação contábil de nível inicial, ou experiência equivalente em processamento financeiro.
+  job_evaluation_notes: Os recursos financeiros estão no nível 3 porque a função prepara e libera lotes de pagamento e autoriza pagamentos dentro de limites definidos.
+- title: Profissional sênior de finanças
+  summary: Os profissionais sêniores de finanças tratam o processamento financeiro e as conciliações mais complexos, apoiam o fechamento do mês e do ano e ajudam os responsáveis por orçamentos a entender seus gastos.
+  responsibilities:
+  - Preparar lançamentos de fechamento do mês, como provisões de despesas e despesas antecipadas de contratos anuais de software e suporte.
+  - Investigar e baixar itens de conciliação complexos e saldos antigos.
+  - Preparar, sob supervisão, declarações e conciliações do tributo sobre vendas.
+  - Produzir relatórios orçamentários padrão e explicá-los aos responsáveis por orçamentos.
+  - Conferir se os gastos estão corretamente classificados entre capital e custeio e levar dúvidas aos contadores.
+  - Supervisionar e conferir no dia a dia o trabalho de profissionais e assistentes de finanças.
+  - Sugerir melhorias nos procedimentos financeiros e nos fluxos de trabalho do sistema.
+  qualifications:
+  - Uma qualificação contábil intermediária, ou experiência equivalente.
+  - Experiência em processamento financeiro e conciliações.
+- title: Liderança de equipe de finanças
+  summary: As lideranças de equipe de finanças gerem uma equipe de finanças transacionais ou atuam como analistas financeiros, garantindo que os processos sejam exatos, controlados e eficientes e que os relatórios fiquem prontos no prazo.
+  responsibilities:
+  - Liderar uma equipe de finanças transacionais, planejando seu trabalho para cumprir os prazos de pagamento, de cobrança e de fechamento do mês.
+  - Gerir um livro contábil ou um processo financeiro e reportar o seu desempenho, como prazos de pagamento e dívidas antigas.
+  - Testar e melhorar os controles financeiros e fornecer evidências a auditores internos e externos.
+  - Preparar conciliações do balanço patrimonial e papéis de trabalho para as demonstrações anuais.
+  - Melhorar processos, por exemplo automatizando a conferência de faturas ou criando autoatendimento para os responsáveis por orçamentos.
+  - Treinar, apoiar e revisar o trabalho das pessoas da equipe.
+  qualifications:
+  - Uma qualificação contábil intermediária ou avançada, ou experiência equivalente.
+  - Experiência na liderança ou na coordenação de processos financeiros.
+  job_evaluation_notes: Pessoas está no nível 3 porque a função gere no dia a dia uma pequena equipe de finanças. Um analista financeiro nesta faixa pontuaria pessoas no nível 2 e análise no nível 4.

@@ -1,0 +1,237 @@
+# Tradução para o português de data/skills/legal.yaml. As chaves são os códigos das competências em inglês.
+legal-legal-research:
+  name: Pesquisa jurídica
+  description: Encontrar, ler e resumir legislação, jurisprudência, orientações e precedentes para responder a uma questão jurídica.
+  levels:
+    awareness: |
+      Você pode:
+      - encontrar legislação, orientações e documentos de precedentes usando bases de dados jurídicas e o acervo de conhecimento da organização
+      - usar corretamente os termos jurídicos
+    working: |
+      Você pode:
+      - pesquisar uma questão jurídica definida e resumir as fontes com clareza
+      - verificar se as fontes são atuais e confiáveis
+      - manter atualizados os acervos de precedentes e de conhecimento
+    practitioner: |
+      Você pode:
+      - pesquisar questões complexas ou inéditas, como a aplicação do direito vigente a uma nova tecnologia
+      - analisar fontes conflitantes e chegar a um entendimento fundamentado
+      - acompanhar mudanças na lei e nas orientações e explicar seu efeito sobre a organização
+    expert: |
+      Você pode:
+      - liderar a pesquisa das questões mais complexas e de maior risco para a organização
+      - antecipar desdobramentos jurídicos e preparar a organização para eles
+      - contribuir para consultas públicas sobre leis e orientações que afetam a saúde e os cuidados digitais
+legal-contract-drafting-and-review:
+  name: Redação e revisão de contratos
+  description: Redigir, revisar e negociar contratos e acordos, como contratos de tecnologia, licença de software, nuvem, serviços e tratamento de dados.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar as principais partes de um contrato, como partes, prazo, pagamento, responsabilidade e rescisão
+      - preparar documentos padrão a partir de modelos aprovados
+    working: |
+      Você pode:
+      - revisar acordos rotineiros, como termos de confidencialidade e contratos simples de serviços, conforme os padrões da organização
+      - marcar alterações nos contratos e explicá-las
+      - identificar cláusulas que precisam da revisão de um advogado, como responsabilidade ilimitada ou renovação automática
+    practitioner: |
+      Você pode:
+      - redigir e negociar acordos complexos, como licenças de software, hospedagem em nuvem, integração de sistemas e tratamento de dados
+      - orientar sobre a alocação de riscos, incluindo limites de responsabilidade, níveis de serviço, saída e custódia de código-fonte
+      - garantir que os contratos protejam os dados dos pacientes, a continuidade do serviço e os direitos da organização sobre seu software e seus dados
+      - escrever e manter modelos e manuais de contratos
+    expert: |
+      Você pode:
+      - definir os padrões de contratação e as posições de risco da organização
+      - liderar as negociações dos acordos de maior valor ou risco
+      - aconselhar a liderança sênior sobre arranjos comerciais estratégicos, como parcerias e joint ventures
+legal-legal-advice:
+  name: Assessoria jurídica
+  description: Dar assessoria jurídica clara, prática e exata, que ajude os colegas a tomar decisões legais e a gerir o risco jurídico.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar quando os colegas precisam de assessoria jurídica e como obtê-la
+      - receber instruções claras e registrar os fatos de um assunto
+    working: |
+      Você pode:
+      - preparar minutas de pareceres sobre assuntos rotineiros para revisão de um advogado
+      - responder a perguntas simples com base em orientações aprovadas
+      - identificar as questões jurídicas em um conjunto de fatos
+    practitioner: |
+      Você pode:
+      - dar assessoria jurídica independente nas suas áreas de atuação
+      - explicar o risco jurídico em linguagem simples e recomendar opções práticas
+      - aconselhar sobre decisões com efeito jurídico, como adjudicações de contratos, compartilhamento de dados e mudanças em serviços
+      - decidir quando contratar advogados ou consultores externos
+    expert: |
+      Você pode:
+      - aconselhar o conselho de administração e a direção executiva sobre os riscos jurídicos mais significativos da organização
+      - dar pareceres definitivos sobre assuntos inéditos, controversos ou de alto valor
+      - definir o apetite da organização ao risco jurídico
+      - garantir a qualidade da assessoria jurídica em toda a organização, inclusive a externa
+legal-litigation-and-disputes:
+  name: Contencioso e resolução de disputas
+  description: Prevenir, gerir e resolver disputas e reclamações, incluindo disputas contratuais, ações trabalhistas e a interlocução em ações por erro clínico.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar as principais etapas de uma ação ou disputa
+      - registrar ações e acompanhar os prazos com exatidão
+    working: |
+      Você pode:
+      - reunir e organizar documentos e provas de um caso
+      - preparar cronologias, dossiês e minutas de declarações de testemunhas
+      - fazer a interlocução com advogados externos, seguradoras ou fundos de indenização em assuntos rotineiros
+    practitioner: |
+      Você pode:
+      - gerir uma carteira de disputas e ações, da primeira notificação ao acordo ou à audiência
+      - avaliar o mérito e o valor das ações e recomendar a estratégia
+      - negociar acordos e recorrer a métodos alternativos de resolução de disputas
+      - garantir que as lições das ações alimentem melhorias de segurança, de contratos e de serviços
+    expert: |
+      Você pode:
+      - liderar as disputas mais significativas ou de maior visibilidade da organização
+      - definir a abordagem da organização para contencioso, acordos e comunicação de ações
+      - aconselhar o conselho de administração sobre passivos contingentes e risco à reputação
+legal-information-and-data-law:
+  name: Direito da informação e de dados
+  description: Aplicar o direito da proteção de dados, da confidencialidade, do acesso à informação e da cibersegurança aos dados de saúde e de cuidados e aos serviços digitais.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar os princípios básicos da proteção de dados e da confidencialidade
+      - reconhecer pedidos de informações e violações de dados e encaminhá-los corretamente
+    working: |
+      Você pode:
+      - revisar acordos de compartilhamento e de tratamento de dados em relação aos modelos
+      - apoiar respostas a pedidos de informações e a pedidos de exercício de direitos dos titulares de dados
+      - explicar as bases legais para o uso de dados de saúde em situações comuns
+    practitioner: |
+      Você pode:
+      - orientar sobre proteção de dados, dever de confidencialidade e direito de acesso à informação em serviços digitais
+      - redigir e negociar acordos de compartilhamento de dados e termos de tratamento de dados, incluindo transferências internacionais
+      - orientar sobre avaliações de impacto sobre a proteção de dados de novas tecnologias, como IA e plataformas de análise
+      - orientar sobre violações de dados, consultas de reguladores e reclamações
+    expert: |
+      Você pode:
+      - definir a posição jurídica da organização sobre o uso de dados de saúde e de cuidados
+      - liderar os usos de dados de alto risco ou inéditos, como pesquisa, plataformas de dados e IA
+      - representar a organização perante os reguladores em matéria de direito da informação
+legal-legal-administration:
+  name: Administração jurídica
+  description: Conduzir os processos administrativos de uma equipe jurídica, incluindo gestão de casos, controle de documentos, registros, prazos e faturamento.
+  levels:
+    awareness: |
+      Você pode:
+      - abrir, atualizar e encerrar casos no sistema de gestão de casos
+      - arquivar e recuperar documentos jurídicos com segurança
+      - manter confidenciais as informações jurídicas e pessoais
+    working: |
+      Você pode:
+      - gerir agendas, prazos e datas-chave de uma equipe
+      - preparar e formatar documentos jurídicos, dossiês e pacotes de assinatura
+      - conferir e processar as faturas de advogados externos
+      - gerir os registros de contratos e escrituras
+    practitioner: |
+      Você pode:
+      - conduzir a administração da equipe jurídica e melhorar seus processos
+      - reportar a carga de trabalho, os gastos com advogados externos e os tempos de resposta
+      - administrar tecnologias jurídicas, como sistemas de gestão de casos e ferramentas de assinatura eletrônica
+    expert: |
+      Você pode:
+      - projetar o modelo de operações jurídicas da organização
+      - liderar a escolha e o uso de tecnologias jurídicas
+      - definir padrões de serviço e medidas de desempenho para os serviços jurídicos
+legal-employment-law:
+  name: Direito do trabalho
+  description: Aplicar o direito do trabalho às políticas de pessoas, aos contratos, aos programas de mudança e às disputas trabalhistas da organização.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar os principais direitos trabalhistas das equipes
+      - reconhecer questões trabalhistas que exigem assessoria jurídica
+    working: |
+      Você pode:
+      - ajudar a preparar documentos para ações e audiências trabalhistas
+      - revisar contratos de trabalho e políticas em relação aos modelos
+    practitioner: |
+      Você pode:
+      - orientar sobre assuntos trabalhistas, como demissão, discriminação, transferência de pessoal e reestruturação
+      - gerir ações trabalhistas e negociar acordos de rescisão
+      - orientar sobre o uso de prestadores de serviços e o vínculo de trabalho de especialistas digitais
+    expert: |
+      Você pode:
+      - aconselhar o conselho de administração sobre grandes mudanças na força de trabalho e seus riscos jurídicos
+      - liderar disputas trabalhistas complexas ou de grande visibilidade
+      - dar forma às políticas de pessoas para cumprir os deveres legais e as boas práticas
+legal-intellectual-property:
+  name: Propriedade intelectual
+  description: Proteger e usar a propriedade intelectual em software, dados, conteúdo e invenções, incluindo direitos autorais, licenças, código aberto e marcas.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar que software, dados e conteúdo são protegidos por direitos de propriedade intelectual
+      - reconhecer quando um contrato ou projeto levanta questões de titularidade
+    working: |
+      Você pode:
+      - verificar cláusulas de propriedade intelectual em acordos rotineiros
+      - manter registros de licenças e de direitos registrados
+      - explicar os principais tipos de licenças de código aberto e suas condições
+    practitioner: |
+      Você pode:
+      - orientar sobre quem é titular de software, dados e conteúdo produzidos por equipes, fornecedores e parceiros
+      - redigir licenças e termos de propriedade intelectual, incluindo a liberação em código aberto do código da organização
+      - orientar sobre o uso comercial dos dados e do software da organização e sobre a partilha de benefícios
+    expert: |
+      Você pode:
+      - definir a política de propriedade intelectual e de código aberto da organização
+      - liderar a comercialização e as parcerias que envolvam os dados e o software da organização
+      - resolver disputas significativas de propriedade intelectual
+legal-procurement-law:
+  name: Direito das contratações públicas
+  description: Aplicar as regras de contratação pública à compra de bens, serviços e tecnologia, da escolha da via de contratação à adjudicação do contrato e à sua impugnação.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar por que os órgãos públicos devem seguir regras de contratação
+      - reconhecer quando uma atividade de compra exige assessoria de contratações ou jurídica
+    working: |
+      Você pode:
+      - verificar a consistência e a completude dos documentos de licitação
+      - apoiar a guarda de registros necessária para demonstrar um processo justo e transparente
+    practitioner: |
+      Você pode:
+      - orientar sobre as vias de contratação, incluindo acordos-quadro, contratações diretas e procedimentos competitivos
+      - orientar sobre avaliação, decisões de adjudicação e alterações de contratos após a adjudicação
+      - responder a impugnações e reclamações de fornecedores
+      - orientar sobre controle de subsídios e riscos concorrenciais em parcerias
+    expert: |
+      Você pode:
+      - definir a abordagem da organização para o risco jurídico das contratações
+      - liderar contratações de alto valor ou inéditas, como as parcerias de inovação
+      - defender a organização em impugnações significativas de contratações
+legal-health-and-care-law:
+  name: Direito da saúde e dos cuidados
+  description: Aplicar o direito que rege os serviços de saúde e de cuidados, incluindo consentimento, capacidade, erro clínico, regulação de serviços e produtos e os deveres legais da organização.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar os principais deveres e poderes legais da organização
+      - reconhecer assuntos que envolvam segurança do paciente, consentimento ou erro clínico
+    working: |
+      Você pode:
+      - apoiar o trabalho jurídico em incidentes, inquéritos de óbito ou ações clínicas
+      - explicar o quadro regulatório que se aplica aos serviços da organização
+    practitioner: |
+      Você pode:
+      - orientar sobre os poderes e deveres da organização, inclusive quando ela pode prestar ou contratar um serviço
+      - orientar sobre a regulação de produtos de saúde digital, como software como dispositivo médico
+      - fazer a interlocução com fundos de indenização por erro clínico e advogados externos em ações que envolvam serviços digitais
+      - orientar sobre consentimento, capacidade e direitos dos pacientes nos serviços digitais
+    expert: |
+      Você pode:
+      - aconselhar o conselho de administração sobre os deveres legais e a governança da organização
+      - liderar o trabalho jurídico em inquéritos públicos, revisões judiciais e grandes incidentes
+      - dar forma à resposta da organização a novas leis de saúde e de cuidados

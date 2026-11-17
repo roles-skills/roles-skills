@@ -1,0 +1,48 @@
+summary: >
+  Les gestionnaires des services informatiques veillent à ce que les services numériques de l'organisation soient fournis aux niveaux convenus et s'améliorent continuellement. Ils définissent les niveaux de service, gèrent le catalogue de services, rendent compte de la performance et coordonnent les équipes et les fournisseurs qui exploitent chaque service. En santé, ils traduisent les besoins des services cliniques, comme une disponibilité permanente, en objectifs de service et en dispositions de support.
+health_context:
+  - Les niveaux de service des systèmes cliniques reflètent le risque clinique, c'est pourquoi les objectifs du dossier patient informatisé ou de la prescription diffèrent de ceux d'un système de gestion.
+  - Les services sont souvent fournis par une combinaison d'équipes internes, de fournisseurs et de services partagés avec des organisations partenaires, c'est pourquoi les gestionnaires de services coordonnent au-delà des frontières des organisations.
+  - La continuité de l'activité clinique dépend de l'informatique, c'est pourquoi les gestionnaires de services travaillent avec les responsables cliniques et de la préparation aux situations d'urgence sur les plans de mode dégradé et de continuité.
+  - Le personnel clinique a peu de temps pour signaler les problèmes, c'est pourquoi les gestionnaires de services utilisent la supervision, les données du centre de services et les retours cliniques pour détecter tôt les problèmes.
+levels:
+  - title: Analyste des services informatiques
+    responsibilities:
+      - Répondre aux incidents et aux demandes, les documenter et les résoudre dans le respect des niveaux de service convenus.
+      - Produire des rapports de service réguliers, comme les volumes de tickets, les délais de réponse et la disponibilité des systèmes cliniques.
+      - Vérifier que les entrées du catalogue de services et les articles de connaissance sont exacts et à jour.
+      - Rechercher des tendances dans les incidents et proposer des améliorations.
+      - Suivre les règles de gouvernance de l'information pour les données des tickets et des services.
+    qualifications:
+      - Une certification de base en gestion des services informatiques, une qualification de niveau 3 en informatique ou une expérience équivalente.
+  - title: Gestionnaire des services informatiques
+    responsibilities:
+      - Définir et convenir des niveaux de service des services cliniques et de gestion, selon le risque clinique et les besoins de l'organisation.
+      - Gérer les dispositions de support d'un portefeuille de services, y compris les fournisseurs et les services partagés.
+      - Rendre compte de la performance des services aux propriétaires de service et aux responsables cliniques, et convenir d'actions d'amélioration.
+      - Veiller à ce que chaque service dispose de dispositions testées de continuité d'activité et de mode dégradé.
+      - Tenir à jour le catalogue de services, et veiller à ce que le personnel soit informé des changements de ses services.
+      - Mener un programme d'amélioration continue des services dont vous êtes responsable.
+    qualifications:
+      - Une expérience de la gestion de services informatiques selon des niveaux de service convenus.
+      - Une certification intermédiaire en gestion des services informatiques, ou une expérience équivalente.
+  - title: Gestionnaire des services informatiques senior
+    responsibilities:
+      - Diriger la gestion des services sur plusieurs plateformes et canaux, et améliorer la maturité des processus de gestion des services.
+      - Convenir des niveaux de service et des clauses contractuelles avec les grands fournisseurs de systèmes cliniques, et leur faire rendre des comptes.
+      - Présenter la performance et les risques des services aux responsables cliniques et opérationnels de haut niveau.
+      - Diriger les revues de service après les incidents majeurs, et suivre les actions d'amélioration jusqu'à leur achèvement.
+      - Aligner les plans de continuité informatique sur les plans de continuité de l'activité clinique, avec les responsables de la préparation aux situations d'urgence et cliniques.
+      - Diriger et faire progresser les gestionnaires des services informatiques.
+    qualifications:
+      - Une expérience significative de la gestion des services informatiques sur plusieurs services.
+      - Une certification avancée en gestion des services informatiques, ou une expérience équivalente.
+  - title: Responsable de la gestion des services informatiques
+    responsibilities:
+      - Fixer la vision, la stratégie et le modèle opérationnel de la gestion des services informatiques dans toute l'organisation.
+      - Veiller à ce que chaque processus de gestion des services ait un responsable et continue de gagner en maturité.
+      - Représenter la gestion des services informatiques au plus haut niveau, y compris dans les instances de gouvernance clinique et opérationnelle.
+      - Être le point d'escalade de haut niveau des responsables des services cliniques et de gestion.
+      - Veiller à ce que la fonction de gestion des services dispose des personnes, des outils et du budget nécessaires.
+    qualifications:
+      - Une solide expérience de la direction de la gestion des services informatiques dans une organisation importante ou complexe.

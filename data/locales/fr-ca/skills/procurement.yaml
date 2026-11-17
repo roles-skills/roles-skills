@@ -1,0 +1,265 @@
+# French translations of data/skills/procurement.yaml. Keys are the English skill ids.
+proc-purchase-to-pay:
+  name: De l'achat au paiement
+  description: Émettre, approuver et réceptionner les commandes, et résoudre les questions de factures et de paiements, au moyen du système d'achat et des contrôles financiers de l'organisation.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer la règle « pas de bon de commande, pas de paiement » et pourquoi elle compte
+      - émettre une demande d'achat dans le système d'achat
+    working: |
+      Vous pouvez :
+      - créer et modifier des bons de commande et les vérifier au regard des contrats
+      - résoudre avec les fournisseurs et les finances les questions de factures, de réception et de paiement
+      - tenir à jour les catalogues et les fiches fournisseurs dans le système d'achat
+    practitioner: |
+      Vous pouvez :
+      - piloter le processus de l'achat au paiement d'un service, en suivant la conformité et les retards
+      - analyser les données de dépenses pour repérer les achats hors contrat et les économies
+      - améliorer le processus et les contrôles avec les collègues des finances
+    expert: |
+      Vous pouvez :
+      - fixer la politique, les contrôles et les systèmes de l'achat au paiement de l'organisation
+      - diriger le passage à des achats et à une facturation entièrement électroniques
+proc-procurement-process:
+  name: Procédure d'achat
+  description: Mener des achats conformes, de la planification et des spécifications à la procédure, à la consultation, à l'attribution et à la signature du contrat, y compris les achats par accords-cadres et systèmes d'acquisition dynamiques.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les étapes d'un achat et les seuils applicables
+      - demander des devis pour les achats de faible montant selon les règles de l'organisation
+    working: |
+      Vous pouvez :
+      - mener des demandes de devis et des marchés subséquents d'accords-cadres avec des modèles standard
+      - préparer les documents de consultation et gérer les questions des candidats sur la plateforme de dématérialisation
+      - tenir une piste d'audit claire de chaque achat
+    practitioner: |
+      Vous pouvez :
+      - planifier et diriger des consultations complexes, en choisissant la bonne procédure
+      - aider les utilisateurs à rédiger des spécifications fondées sur les résultats pour les systèmes numériques et cliniques
+      - gérer les calendriers, les risques et les parties prenantes jusqu'à l'attribution du marché
+    expert: |
+      Vous pouvez :
+      - fixer les procédures et les modèles d'achat de l'organisation
+      - diriger les achats les plus complexes, les plus importants ou les plus nouveaux
+      - garantir les décisions d'achat auprès du conseil d'administration
+proc-tender-evaluation:
+  name: Analyse des offres
+  description: Concevoir les critères d'évaluation et leur pondération, et mener une analyse équitable et bien documentée de la qualité, du prix et de la valeur sociale.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer pourquoi l'analyse doit suivre les critères publiés
+      - déclarer les conflits d'intérêts avant de participer à une analyse
+    working: |
+      Vous pouvez :
+      - vérifier la conformité et la complétude des offres
+      - soutenir les évaluateurs et consigner les notes et les échanges d'harmonisation
+      - préparer des modèles d'évaluation du prix avec un accompagnement
+    practitioner: |
+      Vous pouvez :
+      - concevoir les critères d'évaluation, leur pondération et les grilles de notation
+      - diriger l'harmonisation et rédiger les rapports d'analyse et les réponses aux candidats
+      - planifier des démonstrations et des tests sur scénarios cliniques ou utilisateurs pour les marchés de systèmes
+    expert: |
+      Vous pouvez :
+      - fixer les normes d'analyse de l'organisation et son approche du prix et de la qualité
+      - défendre les décisions d'analyse lorsqu'elles sont contestées
+      - examiner les analyses des achats à haut risque
+proc-procurement-law-and-policy:
+  name: Règles et politique de la commande publique
+  description: Appliquer les règles de la commande publique, les règles financières de l'organisation et la politique d'achat pour que les achats soient licites, transparents et équitables.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer que l'argent public doit être dépensé de façon équitable, ouverte et licite
+      - suivre les seuils et les règles d'approbation de l'organisation
+    working: |
+      Vous pouvez :
+      - appliquer les règles de la commande publique qui conviennent à un achat simple
+      - publier les avis et tenir des registres conformes aux règles de transparence
+      - repérer quand une demande risque d'enfreindre les règles et le signaler
+    practitioner: |
+      Vous pouvez :
+      - conseiller sur la voie licite pour les achats complexes et les modifications de marchés
+      - gérer le risque de contestation et appliquer correctement le délai de suspension et l'information des candidats
+      - rédiger la politique et les guides d'achat de l'organisation
+    expert: |
+      Vous pouvez :
+      - interpréter les nouvelles règles de la commande publique et diriger la réponse de l'organisation
+      - conseiller le conseil d'administration sur la conformité et le risque en matière d'achats
+      - gérer les recours formels avec les conseillers juridiques
+proc-market-analysis:
+  name: Analyse et sourcing du marché
+  description: Comprendre les marchés fournisseurs, échanger avec les fournisseurs avant l'achat et utiliser les données du marché pour façonner les besoins, les procédures et les modèles commerciaux.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - trouver des fournisseurs dans les accords-cadres et les bases de données fournisseurs
+      - expliquer pourquoi le sourcing préalable doit être équitable envers tous les fournisseurs
+    working: |
+      Vous pouvez :
+      - recueillir des informations de marché, des prix et des données fournisseurs pour un besoin
+      - mener une demande d'information et en synthétiser les réponses
+    practitioner: |
+      Vous pouvez :
+      - analyser un marché fournisseur, sa concurrence, ses risques et ses tendances
+      - diriger le sourcing préalable, comme les journées fournisseurs, sans fausser la concurrence
+      - utiliser les données du marché pour façonner les besoins et les modèles commerciaux
+    expert: |
+      Vous pouvez :
+      - façonner les marchés, par exemple en encourageant des fournisseurs nouveaux ou plus petits
+      - diriger la stratégie de marché avec d'autres acheteurs publics
+proc-negotiation:
+  name: Négociation commerciale
+  description: Préparer et mener des négociations avec les fournisseurs pour convenir de prix, de conditions et de performances qui offrent l'efficience et maîtrisent le risque.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer ce qui peut être négocié et ce qui ne peut pas l'être dans un achat public
+    working: |
+      Vous pouvez :
+      - négocier les prix et les conditions des achats de faible montant ou courants
+      - préparer des données et des options pour une négociation menée par d'autres
+    practitioner: |
+      Vous pouvez :
+      - préparer et mener des négociations, en fixant objectifs, limites et positions de repli
+      - négocier les avenants, les renouvellements et le règlement des litiges
+      - garder les négociations licites et bien documentées
+    expert: |
+      Vous pouvez :
+      - diriger des négociations à fort enjeu et à haut risque avec les fournisseurs stratégiques
+      - accompagner d'autres personnes en négociation et fixer l'approche de négociation de l'organisation
+proc-category-management:
+  name: Gestion par catégorie d'achats
+  description: Gérer une catégorie de dépenses, comme les logiciels, le nuage et les services technologiques, au moyen d'une stratégie de catégorie qui mutualise les besoins, façonne les exigences et planifie les achats sur plusieurs années.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer ce qu'est une catégorie d'achats et pourquoi les plans de catégorie comptent
+    working: |
+      Vous pouvez :
+      - analyser les dépenses et les contrats d'une catégorie et tenir à jour le registre des contrats
+      - soutenir le plan de catégorie, par exemple en suivant les renouvellements et les économies
+    practitioner: |
+      Vous pouvez :
+      - rédiger et mettre en œuvre une stratégie de catégorie avec les responsables budgétaires et techniques
+      - planifier le calendrier des achats et des renouvellements de contrats de la catégorie
+      - suivre les économies, la valeur et les risques de la catégorie
+    expert: |
+      Vous pouvez :
+      - fixer l'approche de gestion par catégorie de l'organisation
+      - diriger les catégories aux dépenses et aux risques les plus élevés, et les aligner sur la stratégie de l'organisation
+      - travailler avec d'autres organisations sur des achats groupés
+proc-technology-procurement:
+  name: Achats technologiques et d'informatique en nuage
+  description: Acheter des logiciels, des services en nuage, des licences, du matériel et des services numériques, y compris le logiciel en tant que service, les modèles commerciaux, les licences et les conditions de sécurité, de protection des données et d'interopérabilité dont a besoin la technologie de santé.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer les principales façons d'acheter de la technologie, comme les licences, les abonnements et les services
+      - reconnaître que les systèmes cliniques nécessitent des vérifications de sécurité, de sécurité clinique et de protection des données
+    working: |
+      Vous pouvez :
+      - acheter des logiciels, du matériel et des licences standard par des accords-cadres
+      - suivre le nombre de licences, les renouvellements et les dates de régularisation
+      - inclure dans les documents les exigences standard de sécurité et de protection des données
+    practitioner: |
+      Vous pouvez :
+      - acheter des services en nuage, du logiciel en tant que service et des systèmes cliniques, en choisissant le bon modèle commercial
+      - construire les exigences avec les responsables techniques, de sécurité clinique et de gouvernance de l'information
+      - inclure dans les contrats des clauses d'interopérabilité, de normes ouvertes, de propriété des données et de réversibilité
+      - éviter la dépendance envers un fournisseur en prévoyant la portabilité et la mise en concurrence au renouvellement
+    expert: |
+      Vous pouvez :
+      - fixer la stratégie commerciale de l'organisation pour la technologie et le nuage
+      - diriger les négociations des contrats d'entreprise et des plateformes stratégiques
+      - conseiller les responsables du numérique sur les risques commerciaux des choix technologiques
+proc-contract-management:
+  name: Gestion des contrats
+  description: Gérer les contrats après l'attribution, y compris le démarrage, la performance, les paiements, les modifications, les litiges, le renouvellement et la sortie, pour que l'organisation obtienne ce pour quoi elle paie.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - trouver un contrat et expliquer ses dates clés, son montant et son responsable
+      - consigner les modifications et les documents du contrat dans le registre des contrats
+    working: |
+      Vous pouvez :
+      - suivre la performance des fournisseurs au regard des niveaux de service et des indicateurs clés de performance
+      - préparer les revues de contrat et suivre les actions
+      - traiter les avenants et vérifier les factures au regard du contrat
+    practitioner: |
+      Vous pouvez :
+      - gérer un portefeuille de contrats, y compris des contrats cliniques et technologiques
+      - appliquer les remèdes contractuels, comme les pénalités de niveau de service, lorsque la performance est insuffisante
+      - gérer les modifications, les litiges et les renouvellements dans le respect des règles d'achat
+      - préparer tôt la sortie et tester les plans de réversibilité avant la fin des contrats
+    expert: |
+      Vous pouvez :
+      - fixer le cadre et les normes de gestion des contrats de l'organisation
+      - diriger la gestion des contrats stratégiques et à haut risque
+      - régler les litiges majeurs et décider de la résiliation ou d'une nouvelle mise en concurrence
+proc-supplier-relationship-management:
+  name: Gestion de la relation fournisseurs
+  description: Construire des relations stratégiques avec les fournisseurs clés pour maîtriser les risques, améliorer la performance et faire évoluer les produits et les services dans le temps.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer pourquoi de bonnes relations fournisseurs comptent pour des services dont dépendent les patients
+      - traiter avec les fournisseurs de façon professionnelle et consigner les échanges
+    working: |
+      Vous pouvez :
+      - tenir à jour les contacts, les circuits d'escalade et les fiches des fournisseurs
+      - vérifier la santé financière et les assurances des fournisseurs au regard des exigences
+    practitioner: |
+      Vous pouvez :
+      - segmenter les fournisseurs selon le risque et la valeur et planifier la gestion de chaque groupe
+      - mener des revues stratégiques avec les fournisseurs clés, y compris la feuille de route et les plans d'amélioration
+      - gérer les risques fournisseurs, comme la défaillance financière, les cyberincidents et les problèmes de chaîne d'approvisionnement
+    expert: |
+      Vous pouvez :
+      - fixer la stratégie de relation fournisseurs de l'organisation
+      - diriger les relations au plus haut niveau avec les fournisseurs stratégiques
+      - diriger la réponse en cas de défaillance d'un fournisseur critique
+proc-exit-planning:
+  name: Réversibilité et restitution des données
+  description: Planifier et gérer la fin d'un contrat, y compris la transition vers un nouveau fournisseur, la restitution et la suppression des données, et la continuité des services pour les patients et le personnel.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer pourquoi chaque contrat a besoin d'un plan de réversibilité
+      - trouver les clauses de sortie et de restitution des données d'un contrat
+    working: |
+      Vous pouvez :
+      - tenir à jour les plans de réversibilité et les registres des actifs et des données
+      - suivre les préavis et les jalons de sortie
+    practitioner: |
+      Vous pouvez :
+      - rédiger des plans de réversibilité et de transition avec les responsables techniques, des données et cliniques
+      - veiller à ce que les données soient restituées dans des formats standard et exploitables, puis supprimées en toute sécurité
+      - gérer les risques de transition pour que les soins ne soient pas interrompus
+    expert: |
+      Vous pouvez :
+      - fixer les normes de l'organisation en matière de sortie, de transition et de restitution des données
+      - diriger la sortie des contrats cliniques et technologiques stratégiques
+proc-social-value:
+  name: Valeur sociale et achats durables
+  description: Utiliser les achats et les contrats pour créer de la valeur sociale, de la durabilité environnementale et des chaînes d'approvisionnement équitables, et mesurer ce qu'apportent les fournisseurs.
+  levels:
+    awareness: |
+      Vous pouvez :
+      - expliquer ce que signifient la valeur sociale et les achats durables pour l'organisation
+    working: |
+      Vous pouvez :
+      - inclure des questions standard de valeur sociale et de durabilité dans les consultations
+      - recueillir les rapports de valeur sociale des fournisseurs
+    practitioner: |
+      Vous pouvez :
+      - fixer des critères de valeur sociale et de durabilité adaptés au contrat
+      - gérer les engagements des fournisseurs, comme l'emploi local, les compétences et la réduction du carbone
+      - vérifier les chaînes d'approvisionnement face à des risques comme le travail forcé et les autres atteintes aux droits humains
+    expert: |
+      Vous pouvez :
+      - fixer la politique de valeur sociale et d'achats durables de l'organisation
+      - rendre compte au conseil d'administration des résultats en matière de valeur sociale et de carbone

@@ -1,0 +1,59 @@
+summary: Os profissionais de compras ajudam a organização a adquirir os bens e serviços de que precisa, de forma legal e com boa relação custo-benefício, de compras rotineiras a licitações formais. Em uma organização de saúde digital, grande parte desse gasto é com software, serviços em nuvem, licenças, dispositivos e serviços de tecnologia, por isso trabalham em estreita colaboração com colegas de digital, de governança da informação e de segurança clínica, além dos responsáveis por orçamentos.
+health_context:
+- As regras de contratação pública se aplicam aos gastos da organização, por isso toda compra deve seguir a via correta, manter uma trilha de auditoria clara e tratar os fornecedores com justiça.
+- Muitas compras são digitais, como licenças de software, assinaturas em nuvem e dispositivos, e exigem verificações de segurança, de segurança clínica e de proteção de dados antes do contrato.
+- Fornecedores de sistemas clínicos podem manter dados de pacientes, por isso os contratos precisam de termos claros sobre proteção de dados, titularidade dos dados e devolução de dados.
+- Comprar por meio de acordos-quadro e de sistemas dinâmicos de aquisição criados para o setor público pode economizar tempo, mas os pedidos ainda devem seguir as regras de cada acordo-quadro.
+- Os gastos públicos devem mostrar relação custo-benefício e valor social, como empregos locais, qualificação e menos carbono.
+levels:
+- title: Assistente de compras
+  summary: Presta apoio de compras e administrativo, seguindo procedimentos definidos, com um profissional de compras por perto.
+  responsibilities:
+  - Emitir e alterar pedidos de compra no sistema de compras, conferindo-os com os contratos e as aprovações.
+  - Resolver com fornecedores, responsáveis por orçamentos e finanças dúvidas rotineiras sobre faturas e recebimentos.
+  - Obter cotações para compras de baixo valor seguindo as regras da organização.
+  - Manter atualizados os cadastros de fornecedores, os catálogos e o registro de contratos.
+  - Responder a perguntas rotineiras das equipes sobre como comprar.
+  qualifications:
+  - Qualificação de nível 2 ou 3, aprendizagem profissional em compras ou experiência equivalente.
+  - Experiência em trabalho administrativo ou financeiro exato.
+  job_evaluation_notes: Os recursos financeiros estão no nível 2 porque a função emite e altera pedidos que comprometem gastos aprovados por outras pessoas.
+- title: Profissional de aquisições
+  summary: Compra bens e serviços por meio de cotações e pedidos de acordos-quadro, incluindo software padrão, dispositivos e licenças, dentro de procedimentos definidos.
+  responsibilities:
+  - Conduzir cotações e novas competições em acordos-quadro, usando modelos padrão e o sistema de licitação eletrônica.
+  - Comprar software, dispositivos e licenças padrão, acompanhando renovações e números de licenças.
+  - Conferir se os requisitos padrão de segurança, de proteção de dados e de acessibilidade estão incluídos antes da compra.
+  - Negociar preços e condições de compras rotineiras.
+  - Manter uma trilha de auditoria clara e publicar avisos de adjudicação de contratos quando as regras exigirem.
+  - Analisar dados de gastos para encontrar compras fora de contrato e sugerir vias melhores.
+  qualifications:
+  - Uma qualificação em compras em nível de certificado, aprendizagem profissional em compras ou experiência equivalente.
+  - Experiência em compras por cotações ou acordos-quadro.
+  job_evaluation_notes: Os recursos financeiros estão no nível 3 porque a função compra suprimentos e serviços em nome dos responsáveis por orçamentos.
+- title: Profissional de compras
+  summary: Conduz contratações de valor e complexidade moderados, incluindo licitações formais, do planejamento à adjudicação do contrato, com um profissional sênior de compras disponível para orientação.
+  responsibilities:
+  - Conduzir licitações formais e competições de acordos-quadro do planejamento à adjudicação, gerindo cronogramas e pedidos de esclarecimento.
+  - Ajudar os responsáveis por orçamentos a escrever especificações claras baseadas em resultados, incluindo requisitos técnicos e de proteção de dados.
+  - Estruturar a avaliação, conferir a conformidade das propostas, apoiar os avaliadores e registrar a moderação.
+  - Redigir relatórios de adjudicação e retornos aos proponentes e gerir o período de suspensão.
+  - Incluir perguntas de valor social e de sustentabilidade adequadas ao contrato.
+  - Entregar os contratos aos gerentes de contratos com planos claros de mobilização e de saída.
+  - Treinar os responsáveis por orçamentos sobre como comprar e supervisionar assistentes de compras.
+  qualifications:
+  - Uma qualificação profissional reconhecida em compras em nível intermediário, ou experiência equivalente.
+  - Experiência na condução de licitações formais segundo as regras de contratação pública.
+- title: Profissional sênior de compras
+  summary: Lidera contratações complexas, como sistemas clínicos, serviços em nuvem e serviços de tecnologia, e orienta sobre a via de contratação adequada, trabalhando com ampla liberdade dentro da política de compras.
+  responsibilities:
+  - Liderar contratações complexas e de alto valor, escolhendo a via de contratação e o procedimento adequados.
+  - Liderar o engajamento antecipado do mercado e as solicitações de informações, mantendo a concorrência justa.
+  - Desenhar critérios de avaliação e pesos com lideranças técnicas, clínicas e de governança da informação e liderar a moderação.
+  - Garantir que os contratos de tecnologia incluam interoperabilidade, segurança, titularidade dos dados, saída e devolução de dados.
+  - Negociar com os proponentes quando o procedimento permitir e acordar as condições finais.
+  - Orientar sobre alterações, prorrogações e contratações diretas de contratos e sobre o risco de impugnação.
+  - Orientar e conferir o trabalho de profissionais de compras e de aquisições.
+  qualifications:
+  - Uma qualificação profissional reconhecida em compras em nível avançado, ou experiência equivalente.
+  - Experiência substancial na liderança de licitações complexas, de preferência de tecnologia ou sistemas clínicos.

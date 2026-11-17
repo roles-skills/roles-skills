@@ -1,0 +1,42 @@
+summary: Os assistentes jurídicos e paralegais apoiam os advogados da organização para que o trabalho jurídico seja organizado, exato e pontual. Gerem casos e documentos, preparam contratos e dossiês, pesquisam questões jurídicas e tratam tarefas jurídicas rotineiras. Em uma organização de saúde digital, grande parte do trabalho envolve contratos de tecnologia, acordos de compartilhamento e de tratamento de dados, pedidos de informações e ações que podem envolver informações sensíveis de pacientes.
+health_context:
+- Os arquivos jurídicos costumam conter informações de saúde confidenciais, como prontuários em ações, por isso se aplica uma governança da informação rigorosa.
+- Muitos acordos são de software, serviços em nuvem e compartilhamento de dados, por isso a equipe precisa reconhecer as cláusulas que importam para os dados dos pacientes e a continuidade do serviço.
+- Os prazos em ações, inquéritos de óbito e impugnações de contratações são curtos e fixos, e perdê-los pode sair caro.
+- A organização gasta dinheiro público com advogados externos, por isso os gastos jurídicos devem ser acompanhados e controlados.
+levels:
+- title: Assistente de administração jurídica
+  summary: Os assistentes de administração jurídica conduzem os processos administrativos da equipe jurídica, como abertura de casos, gestão de documentos, registros e faturas, seguindo procedimentos definidos.
+  responsibilities:
+  - Abrir, atualizar e encerrar casos no sistema de gestão de casos.
+  - Arquivar, formatar e recuperar documentos jurídicos, mantendo-os seguros e confidenciais.
+  - Manter os registros de contratos, escrituras e assinaturas.
+  - Gerir agendas e datas-chave e lembrar os advogados dos prazos.
+  - Conferir e processar as faturas de advogados externos.
+  - Responder a consultas rotineiras e encaminhar pedidos de assessoria jurídica.
+  qualifications:
+  - Boas habilidades administrativas e de digitação, adquiridas na formação ou no trabalho.
+  - Uma qualificação em administração jurídica é útil, mas não essencial.
+- title: Assistente de assuntos jurídicos
+  summary: Os assistentes de assuntos jurídicos apoiam os advogados em diversos casos, preparando documentos a partir de modelos, realizando pesquisas definidas e gerindo as etapas práticas de contratos e ações.
+  responsibilities:
+  - Preparar acordos padrão, como termos de confidencialidade e acordos de compartilhamento de dados, a partir de modelos aprovados.
+  - Preparar dossiês, cronologias e pacotes de assinatura para contratos e ações.
+  - Realizar pesquisas jurídicas definidas e resumir os resultados para os advogados.
+  - Reunir documentos e provas para ações e pedidos de informações.
+  - Acompanhar os gastos jurídicos externos em relação aos orçamentos e reportá-los.
+  - Treinar assistentes de administração jurídica em tarefas rotineiras.
+  qualifications:
+  - Uma qualificação de assistente jurídico ou paralegal em nível intermediário, ou experiência equivalente.
+- title: Paralegal
+  summary: Os paralegais tratam sua própria carteira de casos jurídicos rotineiros sob a supervisão de um advogado, como revisões padrão de contratos, pedidos de informações e apoio a ações.
+  responsibilities:
+  - Revisar acordos rotineiros, como licenças de software, serviços e acordos de tratamento de dados, em relação aos padrões da organização.
+  - Gerir uma carteira de ações ou disputas rotineiras, preparando documentos e fazendo a interlocução com advogados externos e fundos de indenização.
+  - Pesquisar questões jurídicas e redigir pareceres para revisão de um advogado.
+  - Apoiar respostas a pedidos de informações complexos e a pedidos de exercício de direitos dos titulares de dados.
+  - Manter atualizados modelos, precedentes e orientações jurídicas.
+  - Coordenar o trabalho de assistentes e de assistentes de administração jurídica.
+  qualifications:
+  - Graduação em direito ou uma qualificação paralegal avançada, ou experiência equivalente.
+  job_evaluation_notes: O esforço emocional está no nível 2 porque a função lê regularmente prontuários e relatos de dano em ações.

@@ -1,0 +1,60 @@
+summary: >
+  Les informaticiens cliniques sont des cliniciens inscrits à un ordre ou à un registre professionnel, comme des médecins, des infirmiers, des pharmaciens et des professionnels paramédicaux, qui utilisent leurs connaissances cliniques pour façonner les services de santé numérique de l'organisation. Ils veillent à ce que les systèmes cliniques, les données et l'aide à la décision s'adaptent à la manière dont les soins sont dispensés, soient sûrs à utiliser et améliorent les résultats pour les patients et l'expérience des cliniciens et du personnel soignant.
+health_context:
+  - Le rôle demande des connaissances cliniques à jour, c'est pourquoi la plupart des postes exigent l'inscription auprès d'un organisme professionnel clinique et une certaine pratique clinique continue.
+  - Les informaticiens cliniques donnent des conseils spécialisés sur l'effet des systèmes sur la prise en charge des patients, c'est pourquoi leur jugement influe directement sur la sécurité des patients.
+  - Ils travaillent étroitement avec les responsables de la sécurité clinique, en apportant leur expertise clinique à l'identification des dangers et aux dossiers de sécurité.
+  - De bonnes données cliniques reposent sur l'usage cohérent de terminologies cliniques comme SNOMED CT, c'est pourquoi ils aident à concevoir des dossiers structurés et l'aide à la décision.
+  - Ils font le lien entre les cliniciens, le personnel soignant et les équipes numériques, et dirigent souvent la mobilisation clinique lors des changements de systèmes.
+levels:
+  - title: Spécialiste en informatique clinique
+    summary: Apporte son expertise clinique à la conception, au paramétrage, aux tests et à l'adoption des systèmes cliniques, au sein d'une équipe produit ou de programme et avec l'accompagnement d'un informaticien clinique senior.
+    responsibilities:
+      - Cartographier les parcours cliniques avec les cliniciens et le personnel soignant et les traduire en exigences claires.
+      - Concevoir et tester les contenus des systèmes, comme les formulaires, les protocoles de prescription et les plans de soins, au regard de scénarios cliniques.
+      - Participer aux ateliers d'identification des dangers et donner des avis cliniques sur les risques et les mesures de maîtrise.
+      - Aider les cliniciens et le personnel soignant à adopter les nouveaux systèmes en sécurité, y compris la formation et l'accompagnement à la mise en service.
+      - Vérifier que les données cliniques sont saisies de façon cohérente avec les terminologies cliniques convenues.
+      - Recueillir des retours et des données sur l'usage des systèmes et proposer des améliorations.
+    qualifications:
+      - Une inscription en cours auprès d'un organisme professionnel clinique, avec une expérience de la pratique clinique.
+      - Une expérience de l'usage des systèmes cliniques dans la pratique, ou une expérience équivalente de la transformation numérique.
+    job_evaluation_notes: La prise en charge des patients est cotée au niveau 4, car l'emploi conseille sur la prise en charge des patients par la conception des systèmes cliniques. L'effort émotionnel reflète l'examen régulier de dossiers cliniques et d'incidents.
+  - title: Informaticien clinique senior
+    summary: Dirige l'apport clinique à un système clinique, un produit ou un programme majeur, en donnant des conseils spécialisés sur l'effet des services numériques sur la prise en charge et la sécurité des patients.
+    responsibilities:
+      - Diriger la conception clinique d'un système clinique ou d'un produit majeur, en fixant les normes de contenu et de paramétrage.
+      - Donner aux équipes produit des conseils spécialisés sur les parcours cliniques, l'aide à la décision et la sécurité.
+      - Travailler avec le responsable de la sécurité clinique pour identifier les dangers, convenir des mesures de maîtrise et apporter des preuves cliniques aux dossiers de sécurité.
+      - Diriger la mobilisation et l'adoption cliniques dans les services, en promouvant un usage sûr auprès des pairs cliniciens.
+      - Planifier et réaliser des évaluations et des audits cliniques de l'usage et des bénéfices des systèmes.
+      - Accompagner les spécialistes en informatique clinique et les cliniciens nouveaux dans le travail numérique.
+    qualifications:
+      - Une inscription en cours auprès d'un organisme professionnel clinique, avec une expérience clinique significative.
+      - Une qualification de troisième cycle en informatique clinique ou de santé, ou une expérience équivalente.
+    job_evaluation_notes: La prise en charge des patients est cotée au niveau 5 pour les conseils spécialisés sur la prise en charge des patients. La recherche est au niveau 3, car l'évaluation et l'audit clinique des systèmes sont une part principale de l'emploi.
+  - title: Informaticien clinique référent
+    summary: Dirige l'informatique clinique d'un portefeuille de systèmes cliniques ou d'une structure de soins, en fixant les normes de conception clinique et en dirigeant une équipe d'informaticiens cliniques.
+    responsibilities:
+      - Fixer les normes et les principes de conception clinique des systèmes cliniques d'un portefeuille.
+      - Diriger une équipe d'informaticiens cliniques, en fixant les priorités et en soutenant leur développement professionnel.
+      - Conseiller les comités de programme et la direction sur le risque clinique, les bénéfices et les priorités des systèmes cliniques.
+      - Diriger les décisions cliniques sur l'aide à la décision, les alertes et les données structurées dans les services.
+      - Constituer des réseaux de référents cliniques et diriger la mobilisation clinique lors des changements à grande échelle.
+      - Commander et diriger des évaluations et utiliser les données probantes pour façonner la feuille de route.
+    qualifications:
+      - Une inscription en cours auprès d'un organisme professionnel clinique, avec une solide expérience clinique.
+      - Une qualification de troisième cycle en informatique clinique ou de santé, ou une expérience équivalente de la direction de travaux d'informatique clinique.
+  - title: Responsable de l'informatique clinique
+    summary: Dirige la fonction d'informatique clinique de l'organisation et son autorité de conception clinique, en veillant à ce que tous les systèmes cliniques soient conçus, adoptés et améliorés avec un leadership clinique fort.
+    responsibilities:
+      - Fixer la stratégie d'informatique clinique et diriger l'autorité de conception clinique de l'organisation.
+      - Diriger et faire progresser la fonction d'informatique clinique, y compris son plan d'effectifs et son budget.
+      - Donner à l'équipe de direction des conseils très spécialisés sur l'effet de l'investissement numérique sur la prise en charge des patients.
+      - Veiller à ce que les systèmes cliniques respectent les normes de sécurité clinique, de terminologie et de données.
+      - Représenter l'organisation auprès des partenaires de santé et de soins, des organismes professionnels et des réseaux universitaires.
+      - Diriger des partenariats de recherche et d'évaluation pour constituer les preuves en santé numérique.
+    qualifications:
+      - Une inscription en cours auprès d'un organisme professionnel clinique, avec une solide expérience clinique et de direction.
+      - Un master en informatique clinique ou de santé, ou une expérience équivalente de la direction de l'informatique clinique à l'échelle d'une organisation.
+    job_evaluation_notes: La prise en charge des patients est cotée au niveau 6 pour les conseils très spécialisés sur la prise en charge des patients dans tous les systèmes cliniques de l'organisation.

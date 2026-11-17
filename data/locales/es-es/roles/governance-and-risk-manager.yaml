@@ -1,0 +1,54 @@
+summary: >
+  El personal de gobierno y riesgos se asegura de que la organización esté bien gobernada y gestione sus riesgos. Apoya al consejo y a sus comités, gestiona el marco y los registros de gestión de riesgos, mantiene en orden las políticas y los registros de gobierno, y coordina el aseguramiento y la auditoría, para que la dirección pueda tomar decisiones sólidas y demostrar que cumple sus obligaciones legales y regulatorias.
+health_context:
+  - Las organizaciones sanitarias soportan riesgos clínicos, de información, cibernéticos, financieros y reputacionales, por lo que el marco de riesgos debe reunirlos para el consejo.
+  - Los consejos deben demostrar que tienen garantías sobre la seguridad y la calidad para los pacientes, por lo que el personal de gobierno vincula los informes de seguridad clínica y de calidad con los comités.
+  - Los reguladores y los auditores esperan registros claros de las decisiones, los riesgos, las declaraciones de intereses y las políticas.
+  - Los incidentes graves y los fallos de los servicios deben escalarse con rapidez y bien documentados a través de la estructura de gobierno.
+levels:
+  - title: Técnico de gobierno
+    summary: Apoya el ciclo de gobierno de los comités y mantiene al día los registros de riesgos, políticas y gobierno.
+    responsibilities:
+      - Coordinar las reuniones de los comités, los programas de trabajo anticipados, la documentación y las actas.
+      - Mantener el registro de riesgos, recordando a los responsables de los riesgos que los revisen.
+      - Mantener al día los registros de gobierno, como las declaraciones de intereses, los regalos y las invitaciones.
+      - Mantener el registro de políticas y hacer seguimiento de sus revisiones.
+      - Coordinar las evidencias para las auditorías y hacer seguimiento de sus recomendaciones.
+      - Responder a las preguntas habituales del personal sobre el gobierno.
+    qualifications:
+      - Un grado o una cualificación en gobierno corporativo, o experiencia equivalente.
+  - title: Técnico de gobierno y riesgos sénior
+    summary: Gestiona partes del marco de gobierno y riesgos, asesorando a las direcciones sobre el riesgo y apoyando a los comités de alto nivel.
+    responsibilities:
+      - Gestionar el proceso de gestión de riesgos de las direcciones, cuestionando las puntuaciones de los riesgos y los controles.
+      - Preparar informes de riesgos y de aseguramiento para los comités de alto nivel.
+      - Apoyar a los comités de alto nivel, incluido el comité de auditoría y riesgos, con documentación y actas formales.
+      - Revisar el cumplimiento de las políticas respecto al marco de políticas, la ley y las obligaciones de igualdad.
+      - Formar a los gestores en los procesos de gestión de riesgos y de gobierno.
+      - Coordinar la respuesta de la organización a las solicitudes de los reguladores y los auditores.
+    qualifications:
+      - Un grado o una cualificación profesional en gobierno o gestión de riesgos, o experiencia equivalente.
+  - title: Gestor de gobierno y riesgos
+    summary: Gestiona el servicio de gobierno y riesgos, incluidos el ciclo del consejo y de los comités, el marco de riesgos y el mapa de aseguramiento.
+    responsibilities:
+      - Gestionar el ciclo del consejo y de los comités y el equipo de gobierno.
+      - Gestionar el marco de gestión de riesgos de la organización y el marco de aseguramiento del consejo.
+      - Asesorar a los directores sobre los riesgos, el apetito de riesgo y el escalado.
+      - Elaborar el mapa de aseguramiento de los principales riesgos de la organización y trabajar con los auditores internos y externos.
+      - Mantener al día el reglamento interno, los regímenes de delegación y el marco de políticas.
+      - Coordinar la respuesta de gobierno a los incidentes graves y a las consultas de los reguladores.
+    qualifications:
+      - Una cualificación profesional en gobierno o gestión de riesgos, o experiencia equivalente.
+      - Experiencia sustancial en gobierno corporativo o gestión de riesgos.
+  - title: Responsable de gobierno corporativo
+    summary: Dirige el gobierno corporativo y los riesgos de la organización, a menudo como secretario del consejo, y asesora a la presidencia y al consejo sobre el gobierno.
+    responsibilities:
+      - Diseñar y dirigir el marco de gobierno de la organización, incluidos el consejo y sus comités.
+      - Actuar como secretario del consejo, asesorando a la presidencia y al consejo sobre el gobierno, la conducta y el cumplimiento.
+      - Ser responsable del marco de gestión de riesgos y del apetito de riesgo, y asesorar al consejo sobre los riesgos estratégicos.
+      - Dirigir la declaración anual de gobierno y los informes de gobierno.
+      - Dirigir el equipo de gobierno, riesgos y aseguramiento.
+      - Representar a la organización ante los reguladores y los auditores en asuntos de gobierno.
+    qualifications:
+      - Una cualificación profesional en gobierno corporativo, o experiencia equivalente.
+      - Amplia experiencia en la dirección del gobierno y los riesgos a nivel de consejo.

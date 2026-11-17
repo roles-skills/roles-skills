@@ -1,0 +1,68 @@
+summary: >
+  Les ingénieurs DevOps conçoivent et exploitent les outils, les chaînes de déploiement, les environnements et les plateformes qui permettent aux équipes de l'organisation de livrer des services de santé numérique en sécurité et fréquemment. Ils automatisent la compilation, les tests, les mises en production et l'infrastructure, rendent les services observables et résilients, et aident les équipes à maintenir les systèmes cliniques disponibles quand les patients et les cliniciens en ont besoin.
+health_context:
+  - De nombreux services soutiennent les soins jour et nuit, c'est pourquoi les déploiements, la supervision et la reprise doivent réduire au minimum les interruptions, y compris en dehors des heures ouvrées.
+  - Les chaînes de mise en production produisent des preuves pour les dossiers de sécurité clinique, comme les résultats de tests, les registres de changements et la version exacte déployée.
+  - Les environnements peuvent contenir des informations de santé confidentielles, c'est pourquoi les ingénieurs contrôlent les accès, protègent les secrets et tiennent les données réelles à l'écart des environnements de test.
+  - Les services de santé sont des cibles fréquentes de cyberattaques, c'est pourquoi les chaînes et les plateformes intègrent l'analyse de sécurité, l'application des correctifs et des sauvegardes testées.
+  - Certains services doivent respecter des exigences strictes de disponibilité et de reprise après sinistre, convenues avec les responsables cliniques et opérationnels.
+levels:
+  - title: Apprenti ingénieur DevOps
+    responsibilities:
+      - Apprendre les chaînes de déploiement, les plateformes en nuage et les outils de l'équipe par une formation structurée et l'observation.
+      - Apporter de petites modifications bien définies aux scripts, aux chaînes et à la configuration sous une supervision rapprochée.
+      - Suivre les procédures de changement, de sécurité et de gouvernance de l'information dans chaque environnement.
+      - Aider à superviser les services et signaler les alertes à des collègues expérimentés.
+      - Préparer un diplôme en apprentissage ou une qualification équivalente.
+    qualifications:
+      - Inscrit à un apprentissage en DevOps, en logiciel ou en infrastructure ou équivalent, ou en préparation.
+    job_evaluation_notes: Les connaissances sont cotées au niveau requis par l'emploi une fois la formation suffisamment avancée pour faire le travail.
+  - title: Ingénieur DevOps junior
+    responsibilities:
+      - Développer et maintenir des éléments des chaînes de compilation, de test et de déploiement avec un accompagnement.
+      - Écrire de l'infrastructure en tant que code et des scripts d'automatisation, et les tester avant usage.
+      - Tenir les environnements de test à l'écart des données réelles des patients et gérer les secrets en sécurité.
+      - Répondre aux alertes de supervision et soutenir la réponse aux incidents avec un accompagnement.
+      - Consigner les déploiements et les changements pour qu'ils servent de preuves de sécurité clinique et d'audit.
+    qualifications:
+      - Une licence en informatique ou dans une discipline voisine, un apprentissage achevé ou une expérience équivalente.
+    job_evaluation_notes: Le UK GDaD PCF propose la bande 4 pour les niveaux apprenti et junior ; cette référence place le niveau junior en bande 5 pour éviter deux niveaux dans une même bande, car l'emploi développe des éléments des chaînes avec moins de supervision.
+  - title: Ingénieur DevOps
+    responsibilities:
+      - Concevoir et développer en autonomie des chaînes de déploiement, des environnements et des composants de plateforme.
+      - Automatiser les contrôles de sécurité, comme l'analyse des dépendances et des conteneurs, et agir sur les résultats.
+      - Mettre en place la supervision, la journalisation et les alertes pour que les équipes voient les problèmes avant qu'ils ne touchent les patients et le personnel.
+      - Planifier et tester les sauvegardes, la bascule et la reprise des services qui soutiennent les soins.
+      - Analyser et corriger les problèmes des services en production, y compris en dehors des heures ouvrées lorsque le service l'exige.
+      - Accompagner les ingénieurs DevOps juniors et apprentis.
+    qualifications:
+      - Une licence en informatique ou dans une discipline voisine, ou une expérience équivalente.
+      - Une expérience de la mise en place et de l'exploitation de chaînes de livraison automatisées et d'infrastructures en nuage.
+  - title: Ingénieur DevOps senior
+    responsibilities:
+      - Diriger la conception de la chaîne d'outils de livraison et de la plateforme d'un produit ou d'un groupe de services.
+      - Fixer des normes de mise en production pour que les déploiements dans les services cliniques soient reproductibles, réversibles et bien documentés.
+      - Convenir avec les propriétaires de service et les responsables cliniques des objectifs de disponibilité, de délai et de point de reprise, et concevoir pour les atteindre.
+      - Diriger la réponse technique aux incidents et les revues post-incident des plateformes exploitées par l'équipe.
+      - Veiller à ce que les plateformes respectent les exigences de sécurité et de gouvernance de l'information, y compris le contrôle d'accès et la journalisation d'audit.
+      - Accompagner et faire progresser les ingénieurs DevOps de l'équipe.
+    qualifications:
+      - Une expérience significative de la conception et de l'exploitation de chaînes d'outils de livraison et de plateformes, d'un niveau équivalent à un master.
+  - title: Ingénieur DevOps référent
+    responsibilities:
+      - Diriger l'ingénierie DevOps et de plateforme d'un groupe d'équipes, en tant que propriétaire technique de la plateforme partagée.
+      - Fixer la feuille de route à moyen terme des outils de livraison, de l'hébergement et de l'observabilité de l'organisation.
+      - Veiller à ce que les plateformes partagées soient résilientes, sécurisées et capables de répondre aux besoins de disponibilité des services cliniques.
+      - Gérer les coûts et la capacité de la plateforme avec les finances et les propriétaires de service.
+      - Animer la communauté de pratique DevOps et encadrer ou diriger les ingénieurs DevOps.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie DevOps ou de plateforme de services complexes.
+  - title: Ingénieur DevOps principal
+    responsibilities:
+      - Fixer la stratégie de développement, de mise en production, d'hébergement et d'exploitation des services de santé numérique de l'organisation.
+      - Conseiller la direction sur l'hébergement, la résilience, la cybersécurité et l'investissement dans les plateformes.
+      - Veiller à ce que les plans de continuité d'activité et de reprise après sinistre des services cliniques critiques soient réalistes et testés.
+      - Évaluer et promouvoir de nouvelles technologies et pratiques, en conciliant innovation, sécurité et stabilité.
+      - Développer la capacité DevOps de l'organisation, y compris le recrutement, les parcours de carrière et les plans de compétences.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie DevOps et de plateforme dans plusieurs équipes ou organisations.

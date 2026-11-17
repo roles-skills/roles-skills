@@ -1,0 +1,44 @@
+summary: >
+  Les dirigeants financiers rendent compte de la santé financière de l'organisation, de son contrôle financier et de l'usage de l'argent public. Ils dirigent la stratégie et la planification financières, conseillent le conseil d'administration sur le caractère abordable et l'efficience, et dirigent les fonctions finances, paie et souvent achats. Dans une organisation de santé numérique, ils façonnent la manière dont l'investissement dans la technologie et les données est financé, approuvé et démontre ses bénéfices pour les patients et le système de santé et de soins.
+health_context:
+  - L'organisation est financée par de l'argent public, c'est pourquoi les dirigeants financiers rendent compte aux financeurs et aux organismes de contrôle de la régularité, de la probité et de l'efficience.
+  - L'investissement technologique représente une part importante des dépenses, et l'équilibre entre coûts d'investissement, de fonctionnement et d'abonnement en nuage détermine ce que l'organisation peut se permettre.
+  - Les dirigeants financiers doivent concilier les objectifs financiers avec la sécurité des patients et la qualité des services dont dépendent les cliniciens et le personnel soignant.
+  - Les grands contrats de technologie et de données comportent des engagements de long terme et des risques fournisseurs que le conseil d'administration doit comprendre.
+  - L'organisation peut travailler en partenariat dans la santé et les soins, avec des budgets mutualisés, des services partagés ou des programmes hébergés.
+levels:
+  - title: Contrôleur financier
+    summary: Les contrôleurs financiers, parfois appelés directeurs financiers adjoints, dirigent une grande partie de la fonction finances, comme la comptabilité et le contrôle financier ou la planification financière, et remplacent les dirigeants financiers.
+    responsibilities:
+      - Diriger la comptabilité, le contrôle financier, la trésorerie et les opérations, ou la planification financière et le partenariat financier.
+      - Veiller à ce que les comptes annuels soient produits à temps avec une opinion d'audit sans réserve.
+      - Maintenir un système efficace de contrôle financier, et en rendre compte au comité d'audit.
+      - Diriger le cycle de planification financière et le reporting financier infra-annuel à la direction.
+      - Conseiller les directeurs sur les grandes décisions financières, y compris les grands contrats technologiques.
+      - Diriger et faire progresser plusieurs équipes financières.
+    qualifications:
+      - Une qualification comptable reconnue, avec une solide expérience de haut niveau dans le secteur public ou des organisations complexes.
+    job_evaluation_notes: Les ressources financières sont au niveau 5, car l'emploi gère les budgets et les processus financiers de plusieurs services. Les ressources d'information sont au niveau 6, car l'emploi est responsable des systèmes et des données financiers utilisés dans toute l'organisation.
+  - title: Directeur financier adjoint
+    summary: Les directeurs financiers adjoints dirigent la fonction finances au quotidien, remplacent le directeur financier et dirigent la stratégie financière et le plan financier à moyen terme de l'organisation.
+    responsibilities:
+      - Diriger le plan financier à moyen terme et le plan financier annuel, en les reliant à la stratégie et aux plans d'effectifs.
+      - Diriger le processus des études d'opportunité et d'approbation des investissements, y compris pour les grands programmes numériques.
+      - Conseiller l'équipe de direction et les comités du conseil d'administration sur la performance financière, les risques et les plans d'économies.
+      - Représenter l'organisation auprès des financeurs et des partenaires sur les questions financières.
+      - Remplacer le directeur financier, y compris au conseil d'administration et au comité d'audit.
+      - Diriger et faire progresser les équipes finances, paie et systèmes financiers.
+    qualifications:
+      - Une qualification comptable reconnue, avec une solide expérience de haut niveau de la direction de fonctions financières.
+  - title: Directeur financier
+    summary: Les directeurs financiers sont membres exécutifs du conseil d'administration et portent la responsabilité institutionnelle des finances de l'organisation, de son contrôle financier et de l'usage de l'argent public.
+    responsibilities:
+      - Porter la responsabilité institutionnelle des finances, du contrôle financier et de la soutenabilité financière de l'organisation.
+      - Fixer la stratégie financière et diriger les décisions du conseil d'administration sur le caractère abordable, l'investissement et l'efficience.
+      - Veiller à ce que l'organisation dépense l'argent public de façon licite, dans la limite de son financement et conformément aux contrôles des dépenses.
+      - Conseiller le conseil d'administration sur l'effet financier de la stratégie, y compris le passage à des services numériques et en nuage.
+      - Diriger les relations avec les financeurs, les organismes de contrôle et les auditeurs externes.
+      - Diriger les fonctions finances, paie et achats, et souvent d'autres services support.
+    qualifications:
+      - Une qualification comptable reconnue, avec une solide expérience au niveau de la direction générale ou du conseil d'administration.
+    job_evaluation_notes: Les ressources financières sont au niveau 6, car l'emploi porte la responsabilité institutionnelle des finances de l'organisation.

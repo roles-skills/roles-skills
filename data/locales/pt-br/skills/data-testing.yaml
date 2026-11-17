@@ -1,0 +1,46 @@
+# Tradução para o português de data/skills/data-testing.yaml. As chaves são os códigos das competências em inglês.
+data-ai-assurance:
+  name: IA segura e justa na saúde
+  description: Garantir que os modelos estatísticos, de aprendizado de máquina e de IA usados na saúde e nos cuidados sejam seguros, justos, explicáveis e monitorados, incluindo a verificação de vieses entre grupos de pacientes e o cumprimento da regulamentação de dispositivos médicos e de IA.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar como um modelo pode prejudicar pacientes, por exemplo por viés, deriva ou excesso de confiança no seu resultado
+      - explicar por que os modelos precisam ser validados na população com a qual serão usados
+    working: |
+      Você pode:
+      - medir o desempenho do modelo em diferentes grupos de pacientes e comunicar eventuais diferenças
+      - documentar o uso pretendido de um modelo, seus dados de treinamento e seus limites conhecidos, por exemplo em um cartão do modelo
+      - contribuir com evidências sobre um modelo para um dossiê de segurança clínica
+    practitioner: |
+      Você pode:
+      - planejar com colegas clínicos a validação, a avaliação de vieses e o monitoramento em produção de um modelo
+      - decidir quando um modelo precisa ser retreinado, restringido ou retirado
+      - orientar as equipes sobre quando um modelo pode ser regulamentado como dispositivo médico e quais evidências ele exige
+    expert: |
+      Você pode:
+      - definir os padrões da organização para a garantia e o monitoramento da IA no cuidado
+      - liderar a garantia de modelos de alto risco antes e depois da implantação
+      - representar a organização perante reguladores e parceiros em matéria de IA segura e justa
+data-deidentification:
+  name: Pseudonimização e controle de divulgação
+  description: Proteger a confidencialidade dos pacientes quando os dados são vinculados, analisados, compartilhados ou publicados, usando pseudonimização, anonimização, supressão de números pequenos e outros métodos estatísticos de controle de divulgação.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar a diferença entre dados identificáveis, pseudonimizados e anonimizados
+      - seguir as regras da organização para suprimir números pequenos nos resultados
+    working: |
+      Você pode:
+      - trabalhar com dados pseudonimizados e aplicar verificações de divulgação antes de liberar resultados
+      - reconhecer quando dados vinculados ou detalhados podem identificar um paciente
+    practitioner: |
+      Você pode:
+      - projetar métodos de pseudonimização e de vinculação que mantenham os identificadores separados dos dados de análise
+      - avaliar o risco de reidentificação de um conjunto de dados ou de uma publicação e escolher controles adequados
+      - orientar as equipes sobre ambientes seguros, como os ambientes de pesquisa confiáveis
+    expert: |
+      Você pode:
+      - definir os padrões da organização para a desidentificação e o controle de divulgação
+      - dar garantia a liberações de dados e projetos de vinculação de alto risco
+      - liderar o trabalho com parceiros sobre o acesso seguro a dados para pesquisa e planejamento

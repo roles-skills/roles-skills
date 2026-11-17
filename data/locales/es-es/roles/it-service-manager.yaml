@@ -1,0 +1,48 @@
+summary: >
+  Los gestores de servicios de TI se aseguran de que los servicios digitales de la organización se presten con los niveles acordados y mejoren continuamente. Definen los niveles de servicio, gestionan el catálogo de servicios, informan del rendimiento y coordinan los equipos y los proveedores que gestionan cada servicio. En la atención sanitaria, convierten lo que necesitan los servicios clínicos, como la disponibilidad a todas horas, en objetivos de servicio y medidas de soporte.
+health_context:
+  - Los niveles de servicio de los sistemas clínicos reflejan el riesgo clínico, por lo que los objetivos de la historia clínica electrónica o de la prescripción difieren de los de un sistema corporativo.
+  - Los servicios suelen prestarse mediante una combinación de equipos propios, proveedores y servicios compartidos con organizaciones socias, por lo que los gestores de servicio coordinan más allá de los límites de cada organización.
+  - La continuidad de la actividad clínica depende de la TI, por lo que los gestores de servicio trabajan con los responsables clínicos y de planificación de emergencias en los planes de contingencia y continuidad.
+  - El personal clínico tiene poco tiempo para comunicar problemas, por lo que los gestores de servicio usan la monitorización, los datos del centro de servicio y la opinión clínica para detectar pronto los problemas.
+levels:
+  - title: Analista de servicios de TI
+    responsibilities:
+      - Responder a los incidentes y solicitudes, documentarlos y resolverlos dentro de los niveles de servicio acordados.
+      - Elaborar informes de servicio periódicos, como el volumen de incidencias, los tiempos de respuesta y la disponibilidad de los sistemas clínicos.
+      - Comprobar que las entradas del catálogo de servicios y los artículos de conocimiento son exactos y están al día.
+      - Buscar patrones en los incidentes y proponer mejoras.
+      - Seguir las normas de gobernanza de la información al tratar los datos de las incidencias y de los servicios.
+    qualifications:
+      - Una cualificación básica en gestión de servicios de TI, una cualificación de nivel 3 en informática o experiencia equivalente.
+  - title: Gestor de servicios de TI
+    responsibilities:
+      - Definir y acordar los niveles de servicio de los servicios clínicos y corporativos, a partir del riesgo clínico y de las necesidades del negocio.
+      - Gestionar las medidas de soporte de una cartera de servicios, incluidos los proveedores y los servicios compartidos.
+      - Informar del rendimiento del servicio a los propietarios de servicio y a los responsables clínicos, y acordar acciones de mejora.
+      - Asegurarse de que cada servicio tiene medidas de continuidad de negocio y de contingencia probadas.
+      - Mantener al día el catálogo de servicios, y asegurarse de que el personal conoce los cambios en sus servicios.
+      - Llevar a cabo un programa de mejora continua de sus servicios.
+    qualifications:
+      - Experiencia en la gestión de servicios de TI según niveles de servicio acordados.
+      - Una cualificación intermedia en gestión de servicios de TI, o experiencia equivalente.
+  - title: Gestor de servicios de TI sénior
+    responsibilities:
+      - Dirigir la gestión de servicios en varias plataformas y canales, y mejorar la madurez de los procesos de gestión de servicios.
+      - Acordar los niveles de servicio y las condiciones contractuales con los grandes proveedores de sistemas clínicos, y exigirles su cumplimiento.
+      - Presentar el rendimiento y los riesgos del servicio a los responsables clínicos y operativos de alto nivel.
+      - Dirigir las revisiones del servicio tras los incidentes graves, y hacer seguimiento de las acciones de mejora hasta su cumplimiento.
+      - Alinear los planes de continuidad de la TI con los planes de continuidad de la actividad clínica, trabajando con los responsables de planificación de emergencias y clínicos.
+      - Dirigir y desarrollar a los gestores de servicios de TI.
+    qualifications:
+      - Experiencia sustancial en gestión de servicios de TI en varios servicios.
+      - Una cualificación avanzada en gestión de servicios de TI, o experiencia equivalente.
+  - title: Responsable de gestión de servicios de TI
+    responsibilities:
+      - Fijar la visión, la estrategia y el modelo operativo de la gestión de servicios de TI en toda la organización.
+      - Asegurarse de que cada proceso de gestión de servicios tiene un responsable y sigue madurando.
+      - Representar a la gestión de servicios de TI al más alto nivel, incluidas las reuniones de gobierno clínico y operativo.
+      - Actuar como punto de escalado de alto nivel para los responsables de los servicios clínicos y corporativos.
+      - Asegurarse de que la función de gestión de servicios tiene las personas, las herramientas y el presupuesto que necesita.
+    qualifications:
+      - Amplia experiencia en la dirección de la gestión de servicios de TI en una organización grande o compleja.

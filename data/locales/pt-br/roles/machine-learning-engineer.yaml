@@ -1,0 +1,27 @@
+summary: Os profissionais de engenharia de aprendizado de máquina pegam os modelos construídos por cientistas de dados, ou adquiridos de fornecedores, e os fazem funcionar com confiabilidade em serviços reais de saúde e de cuidados. Constroem os pipelines que treinam, testam, implantam e monitoram os modelos e os integram aos sistemas clínicos e operacionais. Garantem que os modelos permaneçam seguros, protegidos, justos e eficazes depois que pacientes e equipes reais passam a depender deles.
+health_context:
+- Os modelos em uso podem se desviar à medida que mudam as populações de pacientes, a prática clínica ou os hábitos de registro, por isso o desempenho é monitorado em cada grupo de pacientes e os modelos são retreinados ou retirados quando necessário.
+- Um modelo que subsidia diagnóstico, triagem ou tratamento pode ser regulamentado como dispositivo médico, o que traz requisitos formais para o ciclo de vida do software, o controle de mudanças e a vigilância pós-comercialização.
+- Os dossiês de segurança clínica precisam de evidências sobre como um modelo falha, como seus resultados são mostrados aos profissionais clínicos e o que acontece quando ele está indisponível.
+- Modelos treinados com dados de pacientes podem vazar informações sobre indivíduos, por isso os dados de treinamento, os artefatos do modelo e os logs são protegidos como os próprios dados.
+- A IA generativa e os grandes modelos de linguagem trazem riscos adicionais, como conteúdo inventado em anotações clínicas, que exigem testes específicos e supervisão humana.
+levels:
+- title: Profissional de engenharia de aprendizado de máquina sênior
+  responsibilities:
+  - Implantar modelos em serviços clínicos e operacionais em produção, com testes automatizados, versionamento e reversão.
+  - Construir monitoramento do desempenho, do desvio e da equidade dos modelos entre grupos de pacientes, com alertas e responsáveis definidos.
+  - Integrar os modelos aos sistemas clínicos, usando padrões abertos como o HL7 FHIR sempre que possível.
+  - Produzir as evidências de testes, de mudanças e de monitoramento necessárias para os dossiês de segurança clínica e os arquivos técnicos de dispositivos médicos.
+  - Avaliar e adaptar modelos de fornecedores e de código aberto para uso local, incluindo modelos de IA generativa.
+  - Orientar cientistas de dados e pessoas engenheiras sobre a prática de engenharia de aprendizado de máquina.
+  qualifications:
+  - Experiência substancial na construção e na operação de sistemas de aprendizado de máquina em produção, em nível equivalente ao de mestrado.
+- title: Profissional de engenharia de aprendizado de máquina líder
+  responsibilities:
+  - Liderar o trabalho mais complexo de levar modelos da pesquisa ao uso seguro em toda a organização.
+  - Definir o ciclo de vida do aprendizado de máquina, incluindo os controles necessários para modelos regulamentados e críticos à segurança.
+  - Definir padrões de teste, monitoramento, segurança e ética dos modelos e dar garantia aos modelos em uso.
+  - Trabalhar com os responsáveis pela segurança clínica, a governança da informação e especialistas regulatórios para acordar como os modelos são avaliados e aprovados.
+  - Identificar necessidades de treinamento e desenvolver profissionais de engenharia de aprendizado de máquina e funções afins.
+  qualifications:
+  - Ampla experiência na liderança da engenharia de aprendizado de máquina de serviços complexos ou regulamentados.

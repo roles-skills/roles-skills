@@ -1,0 +1,45 @@
+summary: Os gerentes de entrega ajudam equipes multidisciplinares a entregar serviços de saúde digital que funcionam para pacientes, profissionais clínicos e equipes de cuidados. Criam as condições para que as equipes trabalhem bem, removem bloqueios, gerem riscos e dependências e mantêm a entrega em movimento em um ritmo sustentável, usando formas de trabalho ágeis e enxutas.
+health_context:
+- As liberações de serviços que apoiam o cuidado dos pacientes devem passar por verificações de segurança clínica e de governança da informação, por isso os gerentes de entrega as incorporam aos planos e à definição de pronto da equipe.
+- A entrega muitas vezes depende de clínicos e equipes de cuidados com pouco tempo longe dos pacientes, por isso os gerentes de entrega planejam pesquisas, testes e treinamentos em torno das escalas clínicas.
+- Mudanças em serviços clínicos em operação exigem cuidado com o momento, por isso os gerentes de entrega planejam as entradas em operação com as equipes operacionais para evitar os períodos clínicos de pico e garantir que haja suporte.
+- As equipes muitas vezes dependem de fornecedores de sistemas clínicos e de outras organizações de saúde e de cuidados, por isso os gerentes de entrega gerem as dependências e os contratos externos.
+levels:
+- title: Gerente de entrega associado
+  responsibilities:
+  - Facilitar as cerimônias da equipe, como reuniões diárias, planejamento, demonstrações e retrospectivas.
+  - Manter atualizados o quadro da equipe, o registro de riscos e problemas e os registros de dependências.
+  - Acompanhar as tarefas de segurança clínica, governança da informação e acessibilidade necessárias antes de cada liberação.
+  - Organizar sessões com clínicos, equipes de cuidados e pacientes para pesquisa e testes, respeitando as escalas clínicas.
+  - Acompanhar e apoiar um gerente de entrega em uma equipe maior, entregando partes do trabalho sob orientação.
+  qualifications:
+  - Alguma experiência de trabalho em uma equipe de entrega ou com ela, ou experiência equivalente.
+- title: Gerente de entrega
+  responsibilities:
+  - Liderar a entrega de um produto ou serviço de saúde digital pelas etapas de descoberta, alfa, beta e operação.
+  - Planejar as liberações com as equipes operacionais e clínicas, incluindo o suporte à entrada em operação, o treinamento e os planos de reversão.
+  - Garantir que a garantia de segurança clínica, de governança da informação e de acessibilidade ocorra no ritmo da entrega, e não no fim.
+  - Gerir o orçamento da equipe, os contratos com fornecedores e a alocação de pessoas.
+  - Reportar o progresso, os riscos e os benefícios aos comitês de governança em termos simples.
+  - Construir uma cultura de equipe saudável e orientar os membros da equipe nas formas de trabalho ágeis.
+  qualifications:
+  - Experiência substancial na entrega de produtos ou serviços digitais com métodos ágeis.
+  job_evaluation_notes: Não há um nível na Faixa 6 porque o UK GDaD PCF não tem um nível de gerente de entrega entre o associado (EO/HEO) e o gerente de entrega (SEO/G7).
+- title: Gerente de entrega sênior
+  responsibilities:
+  - Liderar a entrega de serviços complexos ou de alto risco, como os usados no atendimento de urgência ou os que substituem um sistema clínico central.
+  - Atuar como principal ponto de escalonamento de riscos, problemas e dependências de entrega entre várias equipes.
+  - Planejar implantações em larga escala entre locais e organizações, com os responsáveis pela segurança clínica e as lideranças operacionais.
+  - Gerir orçamentos, arranjos comerciais e desempenho de fornecedores do serviço.
+  - Chefiar e desenvolver gerentes de entrega.
+  qualifications:
+  - Ampla experiência na entrega de serviços digitais complexos ao longo de todo o seu ciclo de vida.
+- title: Chefia de gestão de entrega
+  responsibilities:
+  - Liderar a profissão de gestão de entrega e definir os padrões da organização para a entrega ágil.
+  - Recrutar, desenvolver e alocar gerentes de entrega em todo o portfólio.
+  - Garantir que as abordagens de entrega atendam aos requisitos de segurança clínica, governança da informação e garantia sem atrasar as equipes sem necessidade.
+  - Aconselhar lideranças executivas e clínicas sobre riscos, capacidade e prioridades de entrega.
+  - Gerir o orçamento e o plano de força de trabalho da profissão.
+  qualifications:
+  - Ampla experiência na liderança da entrega em várias equipes e de uma prática de entrega.

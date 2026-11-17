@@ -1,0 +1,63 @@
+summary: >
+  Los ingenieros de puesto de usuario suministran, dan soporte y mantienen los dispositivos y el software que el personal usa cada día, como portátiles, ordenadores de sobremesa, tabletas, teléfonos móviles, impresoras y los puestos de trabajo compartidos de las plantas y las consultas. Corrigen fallos en el sitio y en remoto, despliegan y actualizan dispositivos, y los mantienen seguros y conformes. Su trabajo permite que los profesionales clínicos y el personal asistencial puedan ver y registrar la información de los pacientes en el punto de atención.
+health_context:
+  - Muchos dispositivos los comparte el personal clínico en plantas, consultas y urgencias, a menudo con cambio rápido de usuario e inicio de sesión con tarjeta inteligente o por proximidad.
+  - Un dispositivo averiado en una zona clínica puede retrasar la atención, por lo que los ingenieros dan prioridad a esos fallos y tienen dispositivos de repuesto listos para el cambio.
+  - Los ingenieros trabajan en zonas clínicas, por lo que siguen las normas de prevención y control de infecciones, respetan la privacidad y la dignidad de los pacientes y adaptan su trabajo a la actividad clínica.
+  - Los dispositivos guardan o muestran información confidencial de los pacientes, por lo que deben estar cifrados, parcheados y gestionados, y borrarse o destruirse de forma segura al final de su vida útil.
+  - Algunos periféricos apoyan procesos clínicos o se conectan a equipos clínicos, como las impresoras de pulseras y etiquetas, los lectores de códigos de barras y los dispositivos de dictado, por lo que sus cambios requieren cuidado y pruebas.
+levels:
+  - title: Ingeniero de puesto de usuario asociado
+    responsibilities:
+      - Instalar, sustituir y reparar dispositivos y periféricos bajo la dirección de ingenieros con experiencia.
+      - Corregir fallos habituales en zonas clínicas y de oficina, como problemas de impresoras, escáneres y acceso.
+      - Seguir las normas de prevención y control de infecciones, y respetar la privacidad de los pacientes, al trabajar en plantas y consultas.
+      - Registrar con exactitud el trabajo, los activos y las piezas en la herramienta de gestión de servicios.
+      - Trabajar para obtener un programa de aprendizaje de soporte informático o una cualificación equivalente.
+    qualifications:
+      - Matriculado en un programa de aprendizaje de soporte informático o equivalente, o trabajando para obtenerlo.
+    job_evaluation_notes: El esfuerzo físico refleja un esfuerzo ligero frecuente, como cargar dispositivos y trabajar bajo las mesas y en espacios reducidos. Los conocimientos se puntúan en el nivel que exige el puesto una vez que la formación está lo bastante avanzada para hacer el trabajo.
+  - title: Ingeniero de puesto de usuario
+    responsibilities:
+      - Diagnosticar y corregir fallos de hardware y software en el sitio y en remoto, con el objetivo de resolverlos en la primera visita.
+      - Responder con rapidez a los fallos en las zonas clínicas, y proporcionar un dispositivo de sustitución cuando una reparación retrasaría la atención.
+      - Preparar, desplegar y actualizar dispositivos con las imágenes estándar y las herramientas de gestión de dispositivos de la organización.
+      - Mantener los dispositivos parcheados, cifrados y conformes, y borrarlos o desecharlos de forma segura al final de su vida útil.
+      - Configurar y probar periféricos clínicos, como impresoras de pulseras, impresoras de etiquetas y lectores de códigos de barras.
+      - Orientar a los ingenieros asociados y compartir soluciones mediante artículos de conocimiento.
+    qualifications:
+      - Una cualificación de nivel 3 o superior en informática, un programa de aprendizaje completado o experiencia equivalente.
+      - Experiencia en el soporte de dispositivos de usuario final.
+    job_evaluation_notes: El esfuerzo físico refleja un esfuerzo ligero frecuente al trasladar e instalar dispositivos en distintos centros.
+  - title: Ingeniero de puesto de usuario sénior
+    responsibilities:
+      - Dirigir un equipo de ingenieros en el día a día, priorizando el trabajo según su efecto en la atención a los pacientes y en el personal.
+      - Planificar y llevar a cabo despliegues y renovaciones de dispositivos en plantas, consultas y equipos comunitarios, con la menor interrupción posible de la atención.
+      - Probar las imágenes y las actualizaciones de los dispositivos con las aplicaciones clínicas y los periféricos antes de desplegarlas.
+      - Asegurarse de que los dispositivos cumplen las normas de seguridad, incluidos el nivel de parches, el cifrado y la protección de los puestos.
+      - Apoyar las puestas en marcha de sistemas clínicos con apoyo presencial a los usuarios y reparaciones rápidas de dispositivos.
+      - Trabajar con los equipos de infraestructura, aplicaciones y seguridad para corregir fallos complejos y repetidos.
+    qualifications:
+      - Experiencia sustancial en el soporte y la gestión de dispositivos de usuario final, a un nivel equivalente a un grado.
+    job_evaluation_notes: La responsabilidad sobre las personas refleja la gestión diaria de un equipo de ingenieros; el esfuerzo físico refleja cierto trabajo presencial continuado.
+  - title: Ingeniero de puesto de usuario líder
+    responsibilities:
+      - Fijar las normas de los dispositivos, las imágenes y el software de usuario final de la organización, incluidos los puestos clínicos compartidos.
+      - Gestionar a los proveedores de dispositivos, reparaciones y servicios de usuario final, y exigirles los niveles de servicio acordados.
+      - Trabajar con los arquitectos técnicos para elegir y probar nuevos tipos de dispositivos, como los dispositivos móviles para el personal de planta y comunitario.
+      - Dirigir la respuesta técnica a los incidentes de puesto de usuario, como una actualización fallida que afecta a los puestos clínicos.
+      - Planificar el ciclo de vida y la capacidad de los dispositivos, y asesorar sobre los costes de renovación.
+      - Dirigir y desarrollar a los ingenieros sénior.
+    qualifications:
+      - Amplia experiencia en puesto de usuario, incluida la gestión de proveedores.
+  - title: Ingeniero de puesto de usuario principal
+    responsibilities:
+      - Ser responsable de la estrategia y la hoja de ruta de puesto de usuario, incluido cómo accederá el personal a los sistemas clínicos en hospitales, consultas, domicilios de pacientes y la comunidad.
+      - Asegurarse de que el parque de dispositivos permite un acceso seguro y rápido a la información de los pacientes en el punto de atención.
+      - Asesorar a la alta dirección sobre la inversión en dispositivos, los riesgos y los costes de las renovaciones y de las nuevas tecnologías.
+      - Dirigir la respuesta a los riesgos de dispositivos que afectan a todo el parque, como el fin del soporte de los sistemas operativos y la resiliencia frente al ransomware.
+      - Dirigir los recursos, el aprendizaje y el desarrollo de los equipos de puesto de usuario.
+      - Trabajar con los socios de salud y asistencia en normas compartidas de dispositivos y acceso.
+    qualifications:
+      - Amplia experiencia en la dirección del puesto de usuario de una organización grande con varios centros.
+    job_evaluation_notes: El UK GDaD PCF propone la banda 8c para este nivel (G6). Esta referencia lo sitúa en la banda 8b, de acuerdo con los puestos principales de otras familias técnicas, porque su ámbito es un área técnica y no una dirección.

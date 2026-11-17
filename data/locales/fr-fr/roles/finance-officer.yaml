@@ -1,0 +1,60 @@
+summary: >
+  Les agents financiers maintiennent exactes et maîtrisées les finances quotidiennes de l'organisation. Ils traitent et enregistrent les factures, les paiements, les encaissements et les écritures, rapprochent les comptes et les comptes bancaires, et aident les responsables budgétaires et les fournisseurs dans leurs demandes. Dans une organisation de santé numérique, une grande partie de ce travail concerne des fournisseurs de technologie, des licences logicielles et des services en nuage, souvent payés sur des fonds publics soumis à des règles strictes de dépense.
+health_context:
+  - L'organisation dépense de l'argent public, c'est pourquoi chaque paiement doit être dûment approuvé, enregistré et résister à un audit.
+  - De nombreuses factures concernent des licences logicielles, de l'hébergement en nuage et des contrats de support, qui doivent être vérifiés au regard des clauses du contrat, de l'usage et de la bonne imputation en investissement ou en fonctionnement.
+  - Un paiement rapide et exact compte, car les petits fournisseurs et les prestataires de soins peuvent en dépendre.
+  - Le personnel des finances voit des informations personnelles, comme les notes de frais du personnel et les paiements aux patients ou aux prestataires de soins, et doit les traiter selon les règles de gouvernance de l'information.
+  - Les risques de fraude, comme les fausses demandes de changement des coordonnées bancaires d'un fournisseur, visent les organismes publics, c'est pourquoi les agents appliquent des contrôles stricts.
+levels:
+  - title: Assistant financier
+    summary: Les assistants financiers traitent des opérations financières courantes, comme les factures fournisseurs, les encaissements et les notes de frais, selon des procédures établies et avec une supervision proche.
+    responsibilities:
+      - Saisir avec exactitude dans le système financier les factures fournisseurs, les avoirs et les encaissements.
+      - Rapprocher les factures des bons de commande et des réceptions, et relancer les approbations manquantes.
+      - Vérifier les notes de frais du personnel au regard de la politique et des justificatifs.
+      - Répondre par téléphone et par courriel aux questions courantes des fournisseurs et du personnel.
+      - Classer et numériser les pièces financières pour qu'elles puissent être retrouvées lors d'un audit.
+      - Suivre les procédures financières et les règles de gouvernance de l'information, et signaler toute anomalie.
+    qualifications:
+      - De bonnes compétences en calcul et au clavier, acquises par les études ou l'expérience professionnelle.
+      - La volonté de préparer une qualification comptable de premier niveau, ou une expérience équivalente.
+    job_evaluation_notes: Les compétences physiques sont au niveau 3 pour la rapidité et l'exactitude d'une saisie de données en grand volume. Les ressources financières sont au niveau 2, car l'emploi traite des informations de paiement et vérifie de petites demandes.
+  - title: Agent financier
+    summary: Les agents financiers gèrent une partie du cycle des opérations, comme les fournisseurs, les clients ou la trésorerie, en résolvant les questions non courantes et en rapprochant leur grand livre.
+    responsibilities:
+      - Traiter diverses opérations, dont les campagnes de paiement, les remboursements, les factures de vente et les écritures.
+      - Rapprocher les relevés fournisseurs, les comptes bancaires et les comptes de contrôle, et apurer les écarts.
+      - Vérifier que les factures technologiques correspondent aux clauses du contrat, comme le nombre de licences et les périodes de facturation.
+      - Effectuer les contrôles de changement de coordonnées bancaires des fournisseurs et les autres contrôles antifraude.
+      - Relancer les créances échues et résoudre les factures contestées avec les fournisseurs et les responsables budgétaires.
+      - Montrer aux nouveaux assistants financiers comment effectuer les tâches courantes.
+    qualifications:
+      - Une qualification comptable de premier niveau, ou une expérience équivalente du traitement financier.
+    job_evaluation_notes: Les ressources financières sont au niveau 3, car l'emploi prépare et émet les campagnes de paiement et autorise des paiements dans des limites fixées.
+  - title: Agent financier senior
+    summary: Les agents financiers seniors traitent les opérations et les rapprochements financiers les plus complexes, soutiennent les clôtures mensuelles et annuelles, et aident les responsables budgétaires à comprendre leurs dépenses.
+    responsibilities:
+      - Préparer les écritures de clôture mensuelle, comme les charges à payer et les charges constatées d'avance des contrats annuels de logiciels et de support.
+      - Analyser et apurer les éléments de rapprochement complexes et les soldes anciens.
+      - Préparer sous supervision les déclarations et les rapprochements de taxe sur les ventes.
+      - Produire des rapports budgétaires standard et les expliquer aux responsables budgétaires.
+      - Vérifier que les dépenses sont correctement imputées entre investissement et fonctionnement, et poser les questions aux comptables.
+      - Encadrer et vérifier au quotidien le travail des agents et des assistants financiers.
+      - Proposer des améliorations des procédures financières et des circuits du système.
+    qualifications:
+      - Une qualification comptable intermédiaire, ou une expérience équivalente.
+      - Une expérience du traitement et des rapprochements financiers.
+  - title: Chef d'équipe financière
+    summary: Les chefs d'équipe financière gèrent une équipe de comptabilité opérationnelle ou travaillent comme analystes financiers, en veillant à ce que les processus soient exacts, maîtrisés et efficaces, et que le reporting soit prêt à temps.
+    responsibilities:
+      - Diriger une équipe de comptabilité opérationnelle, en planifiant son travail pour respecter les échéances de paiement, de recouvrement et de clôture mensuelle.
+      - Gérer un grand livre ou un processus financier, et rendre compte de sa performance, comme les délais de paiement et l'ancienneté des créances.
+      - Tester et améliorer les contrôles financiers, et fournir des preuves aux auditeurs internes et externes.
+      - Préparer les justifications des comptes de bilan et les dossiers de travail des comptes annuels.
+      - Améliorer les processus, par exemple en automatisant le rapprochement des factures ou en ouvrant le libre-service aux responsables budgétaires.
+      - Former, soutenir et relire le travail du personnel de l'équipe.
+    qualifications:
+      - Une qualification comptable intermédiaire ou avancée, ou une expérience équivalente.
+      - Une expérience de la direction ou de la coordination de processus financiers.
+    job_evaluation_notes: Les personnes sont au niveau 3, car l'emploi gère au quotidien une petite équipe financière. Un analyste financier dans cette bande serait coté au niveau 2 pour les personnes et au niveau 4 pour l'analyse.

@@ -1,0 +1,43 @@
+summary: >
+  Los asistentes jurídicos y paralegales apoyan a los abogados de la organización para que el trabajo jurídico esté organizado, sea exacto y se haga a tiempo. Gestionan asuntos y documentos, preparan contratos y legajos, investigan cuestiones jurídicas y realizan tareas jurídicas habituales. En una organización de atención sanitaria digital, gran parte del trabajo tiene que ver con contratos tecnológicos, acuerdos de intercambio y de encargo del tratamiento de datos, solicitudes de información y reclamaciones que pueden incluir información delicada de pacientes.
+health_context:
+  - Los expedientes jurídicos suelen contener información sanitaria confidencial, como las historias clínicas de las reclamaciones, por lo que se aplica una gobernanza de la información estricta.
+  - Muchos acuerdos se refieren a software, servicios en la nube e intercambio de datos, por lo que el personal debe reconocer las cláusulas que importan para los datos de los pacientes y la continuidad del servicio.
+  - Los plazos de las reclamaciones, las investigaciones forenses y las impugnaciones de la contratación son cortos y fijos, y no cumplirlos puede salir caro.
+  - La organización gasta dinero público en abogados externos, por lo que el gasto jurídico debe seguirse y controlarse.
+levels:
+  - title: Administrativo jurídico
+    summary: Los administrativos jurídicos gestionan los procesos administrativos del equipo jurídico, como la apertura de asuntos, la gestión documental, los registros y las facturas, siguiendo procedimientos establecidos.
+    responsibilities:
+      - Abrir, actualizar y cerrar asuntos en el sistema de gestión de asuntos.
+      - Archivar, dar formato y recuperar documentos jurídicos, manteniéndolos seguros y confidenciales.
+      - Mantener los registros de contratos, escrituras y firmas.
+      - Gestionar las agendas y las fechas clave, y recordar los plazos a los abogados.
+      - Comprobar y tramitar las facturas de los abogados externos.
+      - Responder a las consultas habituales y dirigir las solicitudes de asesoramiento jurídico.
+    qualifications:
+      - Buenas habilidades administrativas y de teclado, adquiridas en los estudios o en el trabajo.
+      - Una cualificación en administración jurídica es útil pero no imprescindible.
+  - title: Asistente jurídico
+    summary: Los asistentes jurídicos apoyan a los abogados en diversos asuntos, preparando documentos a partir de plantillas, realizando investigaciones definidas y gestionando los pasos prácticos de los contratos y los casos.
+    responsibilities:
+      - Preparar acuerdos estándar, como los de confidencialidad y de intercambio de datos, a partir de plantillas aprobadas.
+      - Preparar legajos, cronologías y paquetes de firma para contratos y casos.
+      - Realizar investigaciones jurídicas definidas y resumir los resultados para los abogados.
+      - Reunir documentos y pruebas para las reclamaciones y las solicitudes de información.
+      - Hacer seguimiento del gasto jurídico externo frente a los presupuestos e informar sobre él.
+      - Formar a los administrativos jurídicos en las tareas habituales.
+    qualifications:
+      - Una cualificación intermedia de asistente jurídico o paralegal, o experiencia equivalente.
+  - title: Paralegal
+    summary: Los paralegales gestionan su propia cartera de asuntos jurídicos habituales bajo la supervisión de un abogado, como revisiones de contratos estándar, solicitudes de información y apoyo en reclamaciones.
+    responsibilities:
+      - Revisar acuerdos habituales, como licencias de software, servicios y encargos del tratamiento de datos, frente a las normas de la organización.
+      - Gestionar una cartera de reclamaciones o conflictos habituales, preparando documentos y relacionándose con abogados externos y sistemas de indemnización.
+      - Investigar cuestiones jurídicas y redactar borradores de asesoramiento para que los revise un abogado.
+      - Apoyar las respuestas a las solicitudes de información complejas y a las solicitudes de ejercicio de derechos de los interesados.
+      - Mantener al día las plantillas, los precedentes y las guías jurídicas.
+      - Coordinar el trabajo de los asistentes jurídicos y de los administrativos jurídicos.
+    qualifications:
+      - Un grado en derecho o una cualificación avanzada de paralegal, o experiencia equivalente.
+    job_evaluation_notes: El esfuerzo emocional está en el nivel 2 porque el puesto lee con regularidad historias clínicas y relatos de daños en las reclamaciones.

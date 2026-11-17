@@ -1,0 +1,64 @@
+summary: Os analistas de negócios ajudam a organização a entender os problemas dos serviços de saúde e de cuidados e a encontrar as mudanças certas para resolvê-los. Analisam como os processos clínicos, administrativos e voltados a pacientes funcionam hoje, definem as necessidades e os requisitos de usuários e do negócio e ajudam as equipes a garantir que os novos serviços digitais se ajustem aos percursos de cuidado reais e gerem benefícios mensuráveis.
+health_context:
+- Os processos atravessam fronteiras organizacionais e profissionais, por isso os analistas mapeiam percursos de cuidado completos, incluindo as passagens entre clínicos, equipes de cuidados, pacientes e outras organizações.
+- Os requisitos muitas vezes carregam risco clínico, por isso os analistas trabalham com os responsáveis pela segurança clínica para garantir que os requisitos relacionados à segurança sejam levantados, rastreados e testados.
+- Muitos requisitos dizem respeito ao compartilhamento de dados de saúde entre sistemas, por isso os analistas precisam de domínio prático de padrões de interoperabilidade como o HL7 FHIR e de terminologias clínicas como a SNOMED CT.
+- Os benefícios no cuidado costumam ser de segurança, qualidade, tempo das equipes e experiência do paciente, e não só de custo, por isso os analistas ajudam a definir medidas que os clínicos reconheçam.
+levels:
+- title: Analista de negócios trainee
+  responsibilities:
+  - Aprender técnicas de análise de negócios por meio de treinamento estruturado, acompanhamento e trabalho supervisionado.
+  - Registrar anotações e redigir mapas de processos a partir de oficinas com equipes clínicas e administrativas.
+  - Manter, sob orientação, registros de requisitos, histórias de usuário e registros de rastreabilidade.
+  - Ajudar a preparar cenários de teste para os testes de aceitação pelo usuário.
+  - Seguir as regras de governança da informação ao tratar documentos que incluem informações de pacientes.
+  qualifications:
+  - Trabalhando rumo a uma aprendizagem profissional ou qualificação em análise de negócios, ou experiência equivalente.
+- title: Analista de negócios júnior
+  responsibilities:
+  - Mapear processos atuais e futuros de fluxos de trabalho clínicos e administrativos, como encaminhamentos, consultas ou tratamento de resultados.
+  - Levantar e escrever requisitos e histórias de usuário para trabalhos bem definidos.
+  - Reunir dados sobre o desempenho dos processos, como tempos de espera ou soluções manuais improvisadas, para subsidiar a análise.
+  - Preparar e conduzir cenários de teste de aceitação pelo usuário com usuários clínicos e operacionais.
+  - Sinalizar à equipe e ao responsável pela segurança clínica os requisitos que possam afetar a segurança dos pacientes.
+  qualifications:
+  - Graduação, qualificação ou aprendizagem profissional em análise de negócios, ou experiência equivalente.
+- title: Analista de negócios
+  responsibilities:
+  - Liderar a análise de projetos pequenos e médios, da definição do problema à mensuração dos benefícios.
+  - Conduzir oficinas com clínicos, equipes de cuidados e gestores para entender os pontos de dor e acordar opções.
+  - Modelar percursos de cuidado e fluxos de informação, incluindo os dados trocados com outros sistemas de saúde e de cuidados.
+  - Definir requisitos de segurança e de dados e rastreá-los pelo projeto, pela construção e pelos testes.
+  - Elaborar casos de benefícios com medidas como tempo das equipes liberado, erros evitados ou experiência do paciente.
+  - Orientar analistas de negócios júnior e trainees.
+  qualifications:
+  - Graduação ou qualificação reconhecida em análise de negócios, ou experiência equivalente.
+  - Experiência em análise de negócios em projetos de mudança digital.
+- title: Analista de negócios sênior
+  responsibilities:
+  - Liderar a análise de negócios em programas grandes ou complexos, como a substituição de um sistema clínico ou o redesenho de um percurso de cuidado.
+  - Analisar as opções e seu efeito sobre o cuidado, a segurança, a carga de trabalho das equipes e o custo e apresentar recomendações aos conselhos.
+  - Garantir que o risco clínico, a governança da informação e os impactos sobre a igualdade sejam analisados e tratados nos requisitos.
+  - Definir e acompanhar os benefícios da mudança e estabelecer como serão medidos após a entrada em operação.
+  - Chefiar ou liderar analistas de negócios e conduzir atividades da comunidade de prática.
+  qualifications:
+  - Experiência substancial em análise de negócios de mudanças complexas, em nível equivalente ao de mestrado.
+- title: Analista de negócios líder
+  responsibilities:
+  - Liderar a análise de problemas altamente complexos que abrangem vários produtos, serviços ou organizações de um sistema de cuidados.
+  - Dar forma ao business case e ao plano de realização de benefícios de grandes investimentos.
+  - Definir padrões de análise de negócios, como a rastreabilidade de requisitos para software regulamentado e relacionado à segurança.
+  - Trabalhar com lideranças clínicas, arquitetos e gerentes de produto para alinhar a análise com a estratégia da organização.
+  - Chefiar analistas de negócios e conduzir seu desenvolvimento profissional.
+  qualifications:
+  - Ampla experiência na liderança da análise de negócios em mudanças complexas e com várias equipes.
+- title: Chefia de análise de negócios
+  responsibilities:
+  - Liderar a função de análise de negócios e definir sua estratégia, seus padrões e suas formas de trabalho.
+  - Desenvolver a capacidade de análise de negócios, incluindo recrutamento, trilhas de carreira e treinamento.
+  - Aconselhar lideranças executivas e clínicas sobre a análise necessária para grandes transformações em saúde e cuidados.
+  - Garantir que a realização de benefícios seja planejada, medida e reportada em todo o portfólio.
+  - Gerir o orçamento e o plano de força de trabalho da função.
+  qualifications:
+  - Ampla experiência na liderança de uma função ou prática de análise de negócios.
+  job_evaluation_notes: Os recursos de informação são pontuados no nível 6 porque a chefia de análise de negócios é responsável pelos padrões de toda a organização sobre como requisitos, modelos de processos e registros de benefícios são mantidos em todo o trabalho de mudança.

@@ -1,0 +1,57 @@
+summary: "Os profissionais de arquitetura técnica projetam a estrutura técnica dos serviços de saúde digital da organização — os componentes, as plataformas, a hospedagem, os padrões de integração e as qualidades não funcionais, como segurança, desempenho e resiliência. Trabalham em estreita colaboração com pessoas desenvolvedoras e de engenharia DevOps, exercem a liderança técnica das equipes de entrega e garantem que os serviços sejam construídos para durar e seguros de operar."
+health_context:
+- Os serviços clínicos costumam exigir alta disponibilidade e recuperação rápida, por isso os projetos técnicos devem prever falhas e funcionamento degradado.
+- Os projetos devem proteger as informações de saúde confidenciais por padrão, com criptografia, controle de acesso e auditoria.
+- Os serviços se conectam a muitos sistemas clínicos e plataformas compartilhadas, muitas vezes por APIs HL7 FHIR e mensageria, por isso os padrões de integração são centrais no projeto.
+- Escolhas técnicas de projeto, como cache, novas tentativas e tratamento de horários, podem causar perigos clínicos, por isso as pessoas arquitetas contribuem para os dossiês de segurança.
+- Sistemas clínicos legados e dispositivos médicos podem limitar as escolhas de tecnologia, de rede e de hospedagem.
+levels:
+- title: Profissional de arquitetura técnica associado
+  responsibilities:
+  - Desenhar diagramas técnicos e documentar os componentes, a hospedagem e as integrações dos serviços existentes.
+  - Pesquisar opções de tecnologia e resumir suas vantagens e desvantagens, com orientação.
+  - Trabalhar com pessoas desenvolvedoras para verificar se as construções seguem os projetos e padrões acordados.
+  - Registrar decisões técnicas e manter atualizados os documentos de projeto.
+  qualifications:
+  - Graduação em computação ou em área afim, ou experiência equivalente em engenharia de software ou de infraestrutura.
+  - Conhecimento especializado em projeto técnico, em nível de pós-graduação lato sensu ou experiência equivalente.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 5); anúncios do setor de saúde situam esta função na Faixa 6. Os conhecimentos são pontuados em nível de pós-graduação lato sensu, e os recursos de informação no nível 5, porque a função projeta partes de grandes sistemas de informação."
+- title: Profissional de arquitetura técnica
+  responsibilities:
+  - Projetar a arquitetura técnica de um serviço, incluindo componentes, hospedagem, integração e segurança.
+  - Fornecer modelos de projeto às equipes de entrega e revisar seus projetos técnicos e a estrutura do código.
+  - Definir com os responsáveis pelos serviços os requisitos não funcionais, como metas de disponibilidade, desempenho e recuperação.
+  - Identificar dívida técnica e tecnologia sem suporte e planejar como corrigi-las.
+  - Identificar perigos técnicos e controles para o dossiê de segurança clínica.
+  qualifications:
+  - Conhecimento especializado em arquitetura técnica, em nível de mestrado ou experiência equivalente.
+  - Experiência no projeto ou na construção de software ou infraestrutura em produção.
+  job_evaluation_notes: Enquadrada na sugestão de categoria do UK GDaD PCF, a Faixa 7, em linha com os anúncios do setor de saúde para esta função. Os conhecimentos são pontuados em nível de mestrado ou equivalente, por conhecimento especializado em toda a extensão da arquitetura técnica.
+- title: Profissional de arquitetura técnica sênior
+  responsibilities:
+  - Liderar o projeto técnico de serviços grandes, complexos ou de alto risco, como sistemas clínicos e plataformas de integração compartilhadas.
+  - Definir a direção técnica de uma ou mais equipes de entrega e questionar projetos que acrescentem risco.
+  - Projetar para resiliência, recuperação de desastres e operação segura, e verificar se as equipes testam esses aspectos.
+  - Explicar em linguagem simples os riscos e as concessões técnicas aos responsáveis pelos serviços, às lideranças clínicas e às partes interessadas sêniores.
+  - Orientar e acompanhar profissionais de arquitetura técnica e pessoas desenvolvedoras sêniores.
+  qualifications:
+  - Experiência substancial em projeto técnico de serviços complexos, em nível equivalente ao de mestrado.
+  job_evaluation_notes: "Enquadrada acima da sugestão de categoria do UK GDaD PCF (Faixa 7); anúncios do setor de saúde situam esta função na Faixa 8a. Planejamento, política e liberdade de ação são pontuados acima do perfil da Faixa 7, porque a função define a direção técnica de várias equipes com pouca supervisão."
+- title: Profissional de arquitetura técnica líder
+  responsibilities:
+  - Liderar a arquitetura técnica de vários serviços ou equipes, definindo modelos e padrões compartilhados.
+  - Dar garantia à qualidade técnica dos projetos nas instâncias de decisão de projeto, incluindo segurança, resiliência e interoperabilidade.
+  - Dar forma ao roteiro de tecnologia da organização com profissionais de arquitetura corporativa e lideranças de engenharia.
+  - Aconselhar a liderança sênior sobre escolhas de tecnologia, investimento em plataformas e risco técnico.
+  - Liderar e desenvolver profissionais de arquitetura técnica.
+  qualifications:
+  - Ampla experiência na liderança da arquitetura técnica de serviços complexos.
+- title: Profissional de arquitetura técnica principal
+  responsibilities:
+  - Definir a estratégia, os princípios e os padrões de arquitetura técnica da organização.
+  - Exercer a governança do projeto técnico em toda a organização, incluindo a instância de decisão de projeto técnico.
+  - Aconselhar a equipe executiva sobre grandes decisões de tecnologia, como a estratégia de hospedagem e a consolidação de plataformas.
+  - Representar a organização em comunidades técnicas e de padronização entre organizações.
+  - Inspirar e desenvolver as pessoas arquitetas de toda a organização.
+  qualifications:
+  - Ampla experiência na liderança da arquitetura técnica em várias equipes ou organizações.

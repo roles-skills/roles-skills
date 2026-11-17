@@ -1,0 +1,28 @@
+summary: >
+  Les ingénieurs en apprentissage automatique prennent les modèles construits par les data scientists, ou achetés à des fournisseurs, et les font fonctionner de façon fiable dans les services de santé et de soins en production. Ils construisent les chaînes qui entraînent, testent, déploient et surveillent les modèles, et les intègrent aux systèmes cliniques et opérationnels. Ils veillent à ce que les modèles restent sûrs, sécurisés, équitables et efficaces lorsque de vrais patients et membres du personnel s'appuient sur eux.
+health_context:
+  - Les modèles en production peuvent dériver à mesure que les populations de patients, la pratique clinique ou les habitudes de saisie évoluent, c'est pourquoi leur performance est surveillée pour chaque groupe de patients et ils sont réentraînés ou retirés si nécessaire.
+  - Un modèle qui éclaire le diagnostic, le triage ou le traitement peut être réglementé comme dispositif médical, ce qui entraîne des exigences formelles sur le cycle de vie du logiciel, la maîtrise des changements et la surveillance après commercialisation.
+  - Les dossiers de sécurité clinique ont besoin de preuves sur la manière dont un modèle échoue, dont ses résultats sont présentés aux cliniciens et sur ce qui se passe quand il est indisponible.
+  - Les modèles entraînés sur des données de patients peuvent divulguer des informations sur des personnes, c'est pourquoi les données d'entraînement, les artefacts des modèles et les journaux sont protégés comme les données elles-mêmes.
+  - L'IA générative et les grands modèles de langage apportent d'autres risques, comme des contenus inventés dans les notes cliniques, qui exigent des tests spécifiques et une supervision humaine.
+levels:
+  - title: Ingénieur en apprentissage automatique senior
+    responsibilities:
+      - Déployer des modèles dans des services cliniques et opérationnels en production, avec des tests automatisés, la gestion des versions et le retour arrière.
+      - Mettre en place la surveillance de la performance, de la dérive et de l'équité des modèles entre groupes de patients, avec des alertes et des responsables clairs.
+      - Intégrer les modèles aux systèmes cliniques, avec des normes ouvertes comme HL7 FHIR lorsque c'est possible.
+      - Produire les preuves de tests, de changements et de surveillance nécessaires aux dossiers de sécurité clinique et aux dossiers techniques de dispositifs médicaux.
+      - Évaluer et adapter à l'usage local les modèles de fournisseurs et libres, y compris les modèles d'IA générative.
+      - Accompagner les data scientists et les ingénieurs dans la pratique de l'ingénierie en apprentissage automatique.
+    qualifications:
+      - Une expérience significative de la construction et de l'exploitation de systèmes d'apprentissage automatique en production, d'un niveau équivalent à un master.
+  - title: Ingénieur en apprentissage automatique référent
+    responsibilities:
+      - Diriger le travail le plus complexe pour faire passer les modèles de la recherche à un usage sûr en production dans toute l'organisation.
+      - Définir le cycle de vie de l'apprentissage automatique, y compris les contrôles nécessaires pour les modèles réglementés et critiques pour la sécurité.
+      - Fixer les normes de test, de surveillance, de sécurité et d'éthique des modèles, et garantir les modèles en usage.
+      - Travailler avec les responsables de la sécurité clinique, la gouvernance de l'information et les spécialistes réglementaires pour convenir de l'évaluation et de l'approbation des modèles.
+      - Identifier les besoins de formation et faire progresser les ingénieurs en apprentissage automatique et les rôles voisins.
+    qualifications:
+      - Une solide expérience de la direction de l'ingénierie en apprentissage automatique pour des services complexes ou réglementés.

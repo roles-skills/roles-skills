@@ -1,0 +1,51 @@
+summary: >
+  Los técnicos de apoyo a proyectos ayudan a que los proyectos y programas funcionen sin problemas manteniendo los planes, los registros y los documentos, organizando reuniones y elaborando informes. En los niveles superiores dirigen la oficina de gestión de proyectos (PMO), ofreciendo a la dirección una imagen clara del avance, los riesgos y los beneficios de toda la cartera de cambio digital de la organización.
+health_context:
+  - Los proyectos de salud digital necesitan aprobaciones de seguridad clínica, gobernanza de la información y seguridad en momentos concretos, por lo que el apoyo a proyectos hace su seguimiento como hitos clave.
+  - Los proyectos suelen depender de profesionales clínicos y personal asistencial con poco tiempo, por lo que importa planificar en función de los turnos clínicos y de la presión sobre los servicios.
+  - Los informes de la cartera ayudan a la dirección a decidir qué cambios siguen adelante cuando los servicios clínicos están bajo presión.
+levels:
+  - title: Técnico de apoyo a proyectos
+    summary: Presta apoyo administrativo a uno o varios proyectos, manteniendo los registros y organizando las reuniones bajo la dirección de un gestor de proyectos.
+    responsibilities:
+      - Mantener los documentos del proyecto, con control de versiones, en el repositorio del proyecto.
+      - Actualizar los registros de acciones, riesgos, problemas y decisiones.
+      - Organizar las reuniones del proyecto, enviar la documentación y tomar notas de las acciones.
+      - Reunir las actualizaciones del equipo para los informes de situación.
+      - Atender la correspondencia y las consultas habituales del proyecto.
+    qualifications:
+      - Una cualificación de nivel 3 en administración de empresas o apoyo a proyectos, o experiencia equivalente.
+  - title: Coordinador de proyectos
+    summary: Coordina los controles de varios proyectos o programas, manteniendo los planes y los registros y elaborando informes periódicos.
+    responsibilities:
+      - Mantener los planes, los registros y las hojas de seguimiento de varios proyectos.
+      - Elaborar informes de situación y de aspectos destacados periódicos.
+      - Hacer seguimiento de los presupuestos y del gasto de los proyectos, y comunicar las desviaciones.
+      - Comprobar que los proyectos siguen el enfoque acordado, incluidos los pasos de seguridad clínica y de gobernanza de la información.
+      - Coordinar los comités, la documentación y las acciones de los proyectos.
+      - Apoyar a los gestores de proyectos en la comunicación con las partes interesadas.
+    qualifications:
+      - Una cualificación básica en gestión de proyectos, o experiencia equivalente.
+  - title: Analista de PMO
+    summary: Analiza el avance, el riesgo y los beneficios de un programa o una cartera, y gestiona los procesos de la oficina de gestión de proyectos.
+    responsibilities:
+      - Analizar el avance, los riesgos, los problemas, las dependencias y los beneficios de los proyectos.
+      - Elaborar cuadros de mando e informes de cartera para los comités de programa y de cartera.
+      - Gestionar los procesos de planificación, control de cambios y aseguramiento.
+      - Ayudar a los gestores de proyectos a iniciar los proyectos con los controles y los documentos adecuados.
+      - Mantener las herramientas, las plantillas y las guías de la PMO.
+      - Orientar a los técnicos de apoyo a proyectos.
+    qualifications:
+      - Una cualificación en gestión de proyectos, programas o carteras, o experiencia equivalente.
+  - title: Gestor de PMO
+    summary: Gestiona la oficina de gestión de proyectos de un programa o una cartera, fijando normas y ofreciendo a la dirección una visión fiable de la entrega.
+    responsibilities:
+      - Dirigir la oficina de gestión de proyectos y a su personal.
+      - Fijar las normas, los métodos y las herramientas de proyectos y de cartera.
+      - Ofrecer a la alta dirección una visión clara del avance, los riesgos y los beneficios de la cartera.
+      - Gestionar el gobierno de la cartera, incluidas la priorización, las revisiones de hitos y el control de cambios.
+      - Vigilar los presupuestos y los recursos de los programas, e informar sobre ellos.
+      - Orientar a los gestores de proyectos sobre el enfoque y los controles.
+    qualifications:
+      - Una cualificación reconocida en gestión de proyectos, programas o carteras, o experiencia equivalente.
+      - Experiencia en la gestión de una oficina de gestión de proyectos.

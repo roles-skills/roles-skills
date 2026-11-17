@@ -1,0 +1,40 @@
+summary: >
+  Les gestionnaires des changements et des mises en production veillent à ce que les changements des services informatiques soient évalués, approuvés, planifiés et réalisés en sécurité, et à ce que les mises en production soient planifiées et coordonnées. Ils animent le comité consultatif des changements, sont responsables de la base de données de gestion des configurations et coordonnent les mises en production entre équipes et fournisseurs. En santé, ils veillent à ce que les changements des systèmes cliniques soient programmés et testés de manière à protéger la prise en charge des patients.
+health_context:
+  - Les changements des systèmes cliniques peuvent nuire aux patients, c'est pourquoi l'évaluation des changements comprend une revue de sécurité clinique et des preuves issues du processus de gestion des risques cliniques.
+  - Les services cliniques fonctionnent tous les jours, c'est pourquoi les fenêtres de changement sont convenues avec eux et évitent leurs périodes les plus chargées.
+  - De nombreux changements viennent des fournisseurs de systèmes cliniques, et doivent quand même être évalués lorsque le fournisseur maîtrise la mise en production.
+  - Les changements urgents, comme les correctifs de sécurité urgents, doivent mettre en balance le risque cyber et le risque de perturber les soins.
+  - Une base de données de gestion des configurations exacte montre quels services cliniques un changement pourrait toucher.
+levels:
+  - title: Analyste des configurations
+    responsibilities:
+      - Tenir à jour les enregistrements de la base de données de gestion des configurations, y compris les services cliniques que soutient chaque composant.
+      - Vérifier les enregistrements de configuration au regard des outils de découverte, et corriger les lacunes et les erreurs.
+      - Préparer les demandes de changement et les ordres du jour du comité consultatif des changements.
+      - Répondre aux questions courantes sur les éléments de configuration et leurs relations.
+    qualifications:
+      - Une certification de base en gestion des services informatiques, une qualification de niveau 3 en informatique ou une expérience équivalente.
+    job_evaluation_notes: Le UK GDaD PCF propose la bande 6 pour ce niveau (HEO/SEO). Cette référence le place en bande 4, car ce niveau apporte un soutien administratif au gestionnaire des changements et des mises en production, avec des compétences surtout de niveau sensibilisation, et se situe en dessous de l'analyste des changements et des mises en production. Les ressources d'information dépassent le profil de la bande, car la tenue de la base de données de gestion des configurations est la tâche principale.
+  - title: Analyste des changements et des mises en production
+    responsibilities:
+      - Évaluer le risque et l'impact des demandes de changement, y compris leur effet sur les services cliniques et la sécurité des patients.
+      - Planifier et programmer les mises en production, en convenant des fenêtres de changement avec les services cliniques et opérationnels.
+      - Vérifier que chaque changement dispose de tests, d'un plan de retour arrière et, si nécessaire, d'une validation de sécurité clinique.
+      - Coordonner les mises en production avec les équipes DevOps, les fournisseurs et le centre de services.
+      - Faire le bilan des mises en production et planifier les changements à venir.
+    qualifications:
+      - Une expérience de l'exploitation informatique, des mises en production ou de la gestion des changements.
+      - Une certification de base en gestion des services informatiques, ou une expérience équivalente.
+  - title: Gestionnaire des changements et des mises en production
+    responsibilities:
+      - Présider le comité consultatif des changements, avec des représentants cliniques et opérationnels lorsque les changements touchent la prise en charge des patients.
+      - Décider des changements techniques, et autoriser les changements urgents comme les correctifs de sécurité urgents.
+      - Coordonner les mises en production et leurs dépendances entre équipes internes et fournisseurs.
+      - Être responsable des processus de gestion des changements, des mises en production et des configurations et de la base de données de gestion des configurations.
+      - Être le point d'escalade des conflits de changements et des changements en échec.
+      - Rendre compte de la réussite des changements, des changements en échec et des incidents causés par des changements, et piloter les améliorations.
+    qualifications:
+      - Une expérience significative de la gestion des changements et des mises en production, d'un niveau équivalent à une licence.
+      - Une certification intermédiaire en gestion des services informatiques, ou une expérience équivalente.
+    job_evaluation_notes: La planification dépasse le profil de la bande, car l'emploi programme les mises en production et leurs dépendances entre de nombreuses équipes et de nombreux fournisseurs.

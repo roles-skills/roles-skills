@@ -1,0 +1,52 @@
+summary: >
+  Los ingenieros de integración conectan los sistemas clínicos y de gestión de la organización para que la información de salud y asistencia llegue con seguridad a donde se necesita. Diseñan, crean, prueban y dan soporte a interfaces, API y flujos de mensajes con estándares como HL7 FHIR y HL7 versión 2, mapean datos y códigos clínicos entre sistemas, y mantienen las integraciones en funcionamiento en producción.
+health_context:
+  - Un mensaje perdido, retrasado, duplicado o asociado al paciente equivocado, como un resultado de una prueba o una derivación, puede causar daño directamente, por lo que el trabajo de integración sigue el proceso de gestión del riesgo clínico.
+  - Las integraciones transportan grandes volúmenes de información sanitaria confidencial entre organizaciones, por lo que cada flujo necesita una base jurídica, un transporte seguro y auditoría.
+  - Los sistemas sanitarios usan muchos estándares y versiones, desde los mensajes HL7 versión 2 hasta las API HL7 FHIR y los perfiles IHE, a menudo con variantes locales.
+  - El significado clínico debe llegar intacto, por lo que los ingenieros mapean correctamente terminologías clínicas como SNOMED CT y asocian a los pacientes de forma fiable.
+  - Muchas integraciones apoyan la atención a todas horas, por lo que necesitan monitorización, alertas y vías claras para resolver los mensajes fallidos.
+levels:
+  - title: Ingeniero de integración júnior
+    summary: El ingeniero de integración júnior crea, prueba y da soporte a integraciones entre sistemas de salud y asistencia, a partir de especificaciones y con la orientación de ingenieros con más experiencia.
+    responsibilities:
+      - Crear y modificar mapeos de mensajes, transformaciones y llamadas a API a partir de especificaciones acordadas.
+      - Probar las integraciones frente a las especificaciones y mensajes de ejemplo, incluidos los casos de error y los casos límite.
+      - Monitorizar los flujos de mensajes, investigar los mensajes fallidos o rechazados, y resolverlos o escalarlos.
+      - Tratar los datos sanitarios de forma segura, siguiendo las normas de gobernanza de la información para los datos reales y de prueba.
+      - Registrar los cambios y los resultados de las pruebas para que puedan usarse como evidencia de seguridad clínica.
+    qualifications:
+      - Un grado en informática o una materia afín, un programa de aprendizaje completado o experiencia equivalente.
+  - title: Ingeniero de integración
+    summary: El ingeniero de integración diseña, crea y da soporte de forma independiente a integraciones entre sistemas de salud y asistencia, y ayuda a definir cómo deben intercambiar datos los sistemas.
+    responsibilities:
+      - Diseñar y crear integraciones, API y flujos de mensajes con HL7 FHIR, HL7 versión 2 y patrones de mensajería.
+      - Analizar los sistemas de origen y de destino y redactar especificaciones de interfaz y mapeos de datos, incluidos los códigos clínicos.
+      - Crear la asociación de pacientes, la validación y la gestión de errores para que la información llegue a la historia correcta.
+      - Participar en talleres de peligros e incorporar controles de seguridad a las integraciones, como alertas de mensajes fallidos o retrasados.
+      - Trabajar con proveedores y organizaciones socias para probar y poner en marcha nuevas conexiones.
+      - Investigar y corregir problemas en las integraciones en producción, y ser mentor de los ingenieros de integración júnior.
+    qualifications:
+      - Un grado en informática o una materia afín, o experiencia equivalente.
+      - Experiencia en la creación y el soporte de integraciones entre sistemas en producción.
+  - title: Ingeniero de integración sénior
+    summary: El ingeniero de integración sénior dirige el diseño y la entrega de integraciones complejas entre muchos sistemas y organizaciones, y fija las normas de integración de su área.
+    responsibilities:
+      - Dirigir el diseño técnico de integraciones complejas, como las historias clínicas compartidas, los resultados y las derivaciones entre organizaciones.
+      - Redactar y mantener perfiles FHIR, guías de implementación y normas de interfaz para la organización.
+      - Diseñar las integraciones para que sean seguras, resilientes y observables, con vías claras para resolver los fallos.
+      - Trabajar con los responsables de seguridad clínica para identificar los peligros de integración y asegurarse de que los controles se diseñan desde el principio y se prueban.
+      - Asegurarse de que cada flujo de datos tiene una base jurídica y unos acuerdos de intercambio de datos acordados, trabajando con los colegas de gobernanza de la información.
+      - Orientar y desarrollar a los ingenieros de integración del equipo.
+    qualifications:
+      - Experiencia sustancial en el diseño y el soporte de integraciones sanitarias u otras integraciones complejas, a un nivel equivalente a un máster.
+  - title: Ingeniero de integración líder
+    summary: El ingeniero de integración líder dirige la ingeniería de integración de la organización, fija su dirección técnica y sus normas, y garantiza las integraciones críticas entre muchos sistemas.
+    responsibilities:
+      - Dirigir la ingeniería de integración en toda la organización, fijando la dirección, los patrones y las normas.
+      - Garantizar el diseño de las integraciones críticas, como las que transportan resultados, medicamentos o alertas.
+      - Dar forma a la hoja de ruta de la plataforma de integración con arquitectos, gestores de producto y proveedores.
+      - Representar a la organización en el trabajo interorganizativo de interoperabilidad y de estándares.
+      - Gestionar o dirigir a los ingenieros de integración y hacer crecer la comunidad de práctica de integración.
+    qualifications:
+      - Amplia experiencia en la dirección de la ingeniería de integración de sistemas complejos de salud o asistencia.

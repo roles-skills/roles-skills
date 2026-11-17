@@ -1,0 +1,46 @@
+summary: >
+  Los analistas de operaciones de seguridad vigilan, investigan y responden a las amenazas de ciberseguridad contra los sistemas y los datos de la organización. Clasifican las alertas de las herramientas de monitorización de seguridad, investigan la actividad sospechosa, contienen los incidentes y ayudan a corregir las debilidades. En la atención sanitaria, una detección y una respuesta rápidas protegen los servicios clínicos y la información confidencial de los pacientes frente a ataques como el ransomware.
+health_context:
+  - La atención sanitaria es un objetivo frecuente del ransomware y del robo de datos, y un solo ataque puede detener los sistemas clínicos de toda la organización.
+  - Las decisiones de contención, como aislar un servidor o una parte de la red, deben sopesar el riesgo de seguridad con el efecto en la atención a los pacientes, por lo que los analistas trabajan con los responsables clínicos y operativos.
+  - Las redes incluyen productos sanitarios y sistemas heredados que no pueden ejecutar agentes de seguridad ni parchearse con rapidez, por lo que los analistas se apoyan en la monitorización de la red y en controles compensatorios.
+  - La monitorización abarca el acceso a las historias de los pacientes, por lo que los analistas ayudan a detectar accesos indebidos de personal interno además de ataques externos, trabajando con gobernanza de la información.
+  - La monitorización de seguridad funciona a todas horas, por lo que los analistas pueden trabajar a turnos o con guardias.
+levels:
+  - title: Analista de operaciones de seguridad júnior
+    summary: El analista de operaciones de seguridad júnior vigila las alertas de seguridad, las clasifica con procedimientos operativos y escala los eventos, con la orientación de analistas con experiencia.
+    responsibilities:
+      - Vigilar las alertas de las herramientas de monitorización de seguridad y de los puestos, y clasificarlas con procedimientos operativos.
+      - Reunir evidencias sobre la actividad sospechosa, como correos de phishing o inicios de sesión inusuales, y escalarla.
+      - Revisar los correos de phishing que notifica el personal, y ayudar a eliminar los correos maliciosos de los buzones.
+      - Registrar con exactitud los eventos y las acciones en la herramienta de gestión de casos.
+      - Realizar escaneos de vulnerabilidades y recordar a los propietarios de los sistemas las correcciones pendientes.
+    qualifications:
+      - Una cualificación en informática o ciberseguridad, un programa de aprendizaje en ciberseguridad o experiencia equivalente.
+    job_evaluation_notes: El esfuerzo mental refleja la concentración prolongada frecuente en la vigilancia y la clasificación de alertas imprevisibles.
+  - title: Analista de operaciones de seguridad
+    summary: El analista de operaciones de seguridad investiga y contiene los incidentes de seguridad, redacta reglas de detección y mejora la monitorización de seguridad de la organización.
+    responsibilities:
+      - Investigar los incidentes de seguridad, determinar su alcance y contenerlos, trabajando con los propietarios de los sistemas y con los servicios clínicos.
+      - Redactar y ajustar reglas de detección, y realizar búsquedas proactivas de amenazas basadas en las amenazas actuales contra la atención sanitaria.
+      - Vigilar los accesos indebidos a las historias de los pacientes, y trasladar los casos a gobernanza de la información.
+      - Evaluar las vulnerabilidades según su riesgo, incluido su efecto en los servicios clínicos y en los productos sanitarios.
+      - Mejorar los procedimientos operativos y las herramientas tras los incidentes.
+      - Participar en las guardias para los incidentes de seguridad fuera de horario.
+    qualifications:
+      - Un grado en informática o ciberseguridad, certificaciones de seguridad pertinentes o experiencia equivalente.
+      - Experiencia en monitorización de seguridad o respuesta a incidentes.
+    job_evaluation_notes: El esfuerzo mental refleja la concentración prolongada frecuente durante las investigaciones, también durante las guardias. El esfuerzo emocional refleja la exposición indirecta frecuente a material angustioso de las historias de los pacientes y a la presión de los incidentes en curso.
+  - title: Analista de operaciones de seguridad sénior
+    summary: El analista de operaciones de seguridad sénior dirige la respuesta a los incidentes de seguridad importantes, dirige la búsqueda proactiva de amenazas y orienta el trabajo del equipo de operaciones de seguridad.
+    responsibilities:
+      - Dirigir la respuesta técnica a los incidentes de seguridad importantes, como el ransomware y el robo de datos, y coordinarse con la gestión de incidentes.
+      - Asesorar a los responsables clínicos y operativos sobre las decisiones de contención que afectan a la atención a los pacientes.
+      - Dirigir la búsqueda proactiva de amenazas y la inteligencia de amenazas, y compartir información con los socios de seguridad del sector sanitario.
+      - Fijar las prioridades de la ingeniería de detección y de la cobertura de monitorización, incluidas las redes de productos sanitarios.
+      - Dirigir ejercicios que pongan a prueba la respuesta a incidentes con los equipos técnicos y clínicos.
+      - Orientar y guiar a los analistas de operaciones de seguridad.
+    qualifications:
+      - Experiencia sustancial en operaciones de seguridad y respuesta a incidentes, a un nivel equivalente a un diploma de posgrado.
+      - Certificaciones de seguridad avanzadas pertinentes, o experiencia equivalente.
+    job_evaluation_notes: El esfuerzo mental y el emocional reflejan la dirección de la respuesta a incidentes graves bajo presión, a menudo fuera de horario, cuando los servicios clínicos están en riesgo.

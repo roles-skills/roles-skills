@@ -1,0 +1,44 @@
+summary: >
+  Los responsables jurídicos de alto nivel se aseguran de que la organización actúe de forma lícita y gestione bien su riesgo legal. Dirigen el equipo jurídico interno, gestionan a los asesores jurídicos externos y asesoran al consejo y a la dirección sobre los asuntos jurídicos más importantes de la organización. En una organización de atención sanitaria digital esto incluye la base jurídica del uso de los datos de salud, los grandes contratos de tecnología y datos, la propiedad intelectual del software y las obligaciones legales de la organización.
+health_context:
+  - La organización es un organismo público o trabaja con ellos, por lo que sus decisiones pueden impugnarse, y debe actuar dentro de sus competencias.
+  - El uso a gran escala de los datos de salud y asistencia, incluidos la IA y la investigación, conlleva un alto riesgo legal y reputacional.
+  - Los grandes contratos tecnológicos son largos, valiosos y difíciles de abandonar, por lo que sus condiciones jurídicas determinan a la organización durante años.
+  - Los responsables jurídicos trabajan estrechamente con el consejo, el delegado de protección de datos y los colegas de seguridad clínica y de gobernanza de la información.
+levels:
+  - title: Responsable adjunto de servicios jurídicos
+    summary: Los responsables adjuntos de servicios jurídicos dirigen un área importante de la función jurídica, como el derecho mercantil, tecnológico y de datos, y sustituyen al responsable de servicios jurídicos.
+    responsibilities:
+      - Dirigir un área importante del trabajo jurídico, como el derecho mercantil, tecnológico y de datos, o los conflictos y el derecho laboral.
+      - Asesorar a los directores sobre los asuntos de alto riesgo, incluidas las grandes contrataciones y los programas de datos.
+      - Gestionar el panel de abogados externos y el presupuesto del asesoramiento jurídico externo.
+      - Fijar las normas, las plantillas y la formación jurídicas de la organización.
+      - Dirigir y desarrollar varios equipos jurídicos o especialistas.
+      - Sustituir al responsable de servicios jurídicos.
+    qualifications:
+      - Abogado cualificado habilitado para ejercer, con una amplia experiencia tras obtener la cualificación, incluida la dirección de un equipo jurídico.
+    job_evaluation_notes: Los conocimientos están en el nivel 8 por el conocimiento experto de varias áreas del derecho. Los recursos de información están en el nivel 5 y no en el 6, porque el puesto no gestiona sistemas de información de toda la organización.
+  - title: Responsable de servicios jurídicos
+    summary: Los responsables de servicios jurídicos dirigen la función jurídica de la organización, fijan su enfoque del riesgo legal y asesoran a la dirección y al consejo.
+    responsibilities:
+      - Dirigir la función jurídica interna y el uso de abogados externos.
+      - Asesorar a la dirección y al consejo sobre el riesgo legal, las obligaciones legales y las grandes decisiones.
+      - Fijar el apetito de riesgo legal de la organización y sus posiciones sobre cuestiones clave, como el uso de datos y la contratación.
+      - Dirigir el trabajo jurídico de los asuntos más importantes, como los grandes conflictos, las investigaciones públicas y las alianzas.
+      - Gestionar el presupuesto de los servicios jurídicos y demostrar su relación calidad-precio.
+      - Dirigir y desarrollar el equipo jurídico y las operaciones jurídicas.
+    qualifications:
+      - Abogado cualificado habilitado para ejercer, con una amplia experiencia de alto nivel en la dirección de servicios jurídicos.
+    job_evaluation_notes: Los recursos financieros están en el nivel 4 porque el puesto gestiona el presupuesto de los servicios jurídicos, no los presupuestos de varios servicios.
+  - title: Director jurídico
+    summary: Los directores jurídicos son los abogados de mayor nivel de la organización, con responsabilidad institucional sobre los servicios jurídicos y el riesgo legal, y a menudo dirigen también el gobierno corporativo como secretarios del consejo.
+    responsibilities:
+      - Asumir la responsabilidad institucional sobre los asuntos jurídicos y el riesgo legal de la organización.
+      - Asesorar al consejo y a su presidencia sobre las competencias, las obligaciones y el gobierno de la organización.
+      - Asegurarse de que las grandes estrategias, alianzas y programas de datos son lícitos.
+      - Dirigir la respuesta a las amenazas jurídicas más graves, como los recursos judiciales y las actuaciones de los reguladores.
+      - Dirigir los servicios jurídicos y, a menudo, el gobierno corporativo y la secretaría del consejo.
+      - Representar a la organización ante los reguladores, los socios y los organismos gubernamentales.
+    qualifications:
+      - Abogado cualificado habilitado para ejercer, con una amplia experiencia a nivel directivo o de consejo.
+    job_evaluation_notes: Los recursos financieros están en el nivel 4 porque el puesto gestiona el presupuesto de los servicios jurídicos y de gobierno, no las finanzas de la organización.

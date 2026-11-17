@@ -1,0 +1,228 @@
+# Tradução para o português de data/skills/clinical-ig.yaml. As chaves são os códigos das competências em inglês.
+clin-clinical-systems-optimisation:
+  name: Projeto e otimização de sistemas clínicos
+  description: Projetar, configurar e melhorar sistemas clínicos, como prontuários eletrônicos, solicitações de exames e prescrição eletrônica, para que se ajustem aos fluxos de trabalho clínicos e apoiem um cuidado seguro e eficiente.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar como sistemas clínicos, como os prontuários eletrônicos, apoiam o cuidado
+      - descrever os fluxos de trabalho clínicos que um sistema apoia
+    working: |
+      Você pode:
+      - mapear os fluxos de trabalho clínicos atuais e futuros com profissionais clínicos e de cuidados
+      - testar a configuração do sistema em cenários clínicos
+      - escrever requisitos clínicos claros para as equipes de produto
+    practitioner: |
+      Você pode:
+      - liderar o projeto clínico da configuração do sistema, de formulários, de conjuntos de solicitações e do apoio à decisão
+      - usar dados e o feedback dos usuários para encontrar e corrigir problemas de fluxo de trabalho
+      - equilibrar a necessidade clínica, a segurança, a usabilidade e as restrições do sistema
+    expert: |
+      Você pode:
+      - definir princípios e padrões de projeto para os sistemas clínicos de toda a organização
+      - liderar programas de otimização que melhorem de forma mensurável o cuidado e a experiência das equipes
+      - aconselhar a liderança sênior sobre escolhas de sistemas clínicos e seu efeito no cuidado
+clin-human-factors:
+  name: Fatores humanos e usabilidade em sistemas clínicos
+  description: Aplicar métodos de fatores humanos e de usabilidade a sistemas clínicos, para que profissionais clínicos, equipes de cuidados e pacientes possam usá-los com segurança e com o menor número possível de erros.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar como um projeto ruim pode levar a erros no cuidado
+      - comunicar problemas de usabilidade que possam afetar a segurança dos pacientes
+    working: |
+      Você pode:
+      - participar de testes de usabilidade e de simulações de tarefas clínicas
+      - identificar perigos comuns de projeto, como opções de aparência semelhante ou alertas ocultos
+    practitioner: |
+      Você pode:
+      - planejar e conduzir avaliações de fatores humanos de sistemas clínicos
+      - transformar os achados em mudanças de projeto e em controles de segurança clínica
+      - avaliar a carga de alertas e o risco de soluções alternativas improvisadas
+    expert: |
+      Você pode:
+      - definir a abordagem da organização para fatores humanos nos serviços digitais
+      - revisar as evidências de fatores humanos de sistemas e mudanças de alto risco
+      - desenvolver competências de fatores humanos nas equipes clínicas e digitais
+clin-digital-health-evaluation:
+  name: Avaliação e benefícios da saúde digital
+  description: Planejar e realizar avaliações de tecnologias de saúde digital e medir seus benefícios clínicos, de segurança e de serviço, com métodos e evidências sólidos.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar por que as tecnologias de saúde digital precisam de evidências de benefício e de segurança
+      - encontrar evidências publicadas sobre uma tecnologia
+    working: |
+      Você pode:
+      - coletar dados de base e de acompanhamento para uma avaliação
+      - realizar auditorias clínicas do uso do sistema
+      - resumir os resultados da avaliação para colegas
+    practitioner: |
+      Você pode:
+      - projetar avaliações e planos de benefícios para produtos de saúde digital
+      - escolher medidas adequadas para os desfechos clínicos, a segurança e a experiência
+      - julgar a solidez das evidências e explicar seus limites
+    expert: |
+      Você pode:
+      - definir a abordagem da organização para a avaliação da saúde digital
+      - liderar programas de pesquisa e avaliação com parceiros acadêmicos e de cuidados
+      - usar evidências para aconselhar o conselho de administração sobre o investimento digital
+clin-professional-practice:
+  name: Prática clínica registrada no digital
+  description: Trazer conhecimento e julgamento clínicos atuais e registrados para o trabalho digital, cumprindo as normas, a ética e os deveres de revalidação de uma profissão clínica.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar as normas profissionais que se aplicam a um profissional clínico registrado
+      - reconhecer quando uma questão exige um parecer clínico
+    working: |
+      Você pode:
+      - aplicar o seu conhecimento clínico ao trabalho digital dentro do seu âmbito de prática
+      - manter atualizados o seu registro e o seu desenvolvimento profissional contínuo
+      - dar pareceres clínicos sobre fluxos de trabalho, conteúdo e segurança
+    practitioner: |
+      Você pode:
+      - fazer julgamentos clínicos sólidos sobre o efeito dos serviços digitais no cuidado
+      - questionar com segurança práticas inseguras, em contextos digitais ou clínicos
+      - apoiar outros profissionais clínicos a aplicar suas normas profissionais ao trabalho digital
+    expert: |
+      Você pode:
+      - liderar as normas profissionais clínicas do trabalho digital da organização
+      - atuar como voz clínica sênior nas decisões sobre segurança e cuidado dos pacientes
+      - apoiar a revalidação e o desenvolvimento profissional de clínicos em funções digitais
+ig-information-rights-requests:
+  name: Pedidos de direitos de informação
+  description: Tratar, dentro dos prazos legais, os pedidos de pessoas e do público para acesso a informações, como pedidos de acesso a prontuários pessoais de saúde e pedidos de informações em poder da organização.
+  levels:
+    awareness: |
+      Você pode:
+      - reconhecer um pedido de direitos de informação e encaminhá-lo sem demora
+      - explicar que os pedidos têm prazos legais
+    working: |
+      Você pode:
+      - registrar, confirmar o recebimento e acompanhar os pedidos para cumprir os prazos
+      - reunir e tarjar informações e redigir respostas para revisão
+      - verificar a identidade e a legitimidade de quem faz o pedido
+    practitioner: |
+      Você pode:
+      - tratar pedidos complexos ou sensíveis, inclusive os que envolvem terceiros
+      - aplicar exceções e decidir o que reter, com motivos claros
+      - gerir revisões internas e reclamações sobre as respostas
+    expert: |
+      Você pode:
+      - definir a política e o processo de direitos de informação da organização
+      - liderar a resposta a consultas e recursos de reguladores
+      - reportar o desempenho e as tendências à liderança sênior
+ig-records-retention:
+  name: Retenção e descarte de registros
+  description: Aplicar tabelas de temporalidade a registros em papel e digitais e arquivá-los ou destruí-los com segurança no momento certo, com trilha de auditoria.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar por que os registros são guardados por prazos definidos e depois destruídos ou arquivados
+      - seguir os procedimentos de armazenamento e de movimentação de registros
+    working: |
+      Você pode:
+      - aplicar a tabela de temporalidade aos registros e sinalizar os que estão para revisão
+      - preparar registros para arquivamento ou destruição segura e manter a trilha de auditoria
+    practitioner: |
+      Você pode:
+      - conduzir o programa de retenção e descarte de um serviço de registros
+      - orientar as equipes sobre a retenção de novos tipos de registro, inclusive digitais
+      - auditar o cumprimento das tabelas de temporalidade
+    expert: |
+      Você pode:
+      - definir a política e a tabela de temporalidade da organização
+      - planejar a preservação de longo prazo dos registros digitais
+      - resolver questões complexas de retenção, como bloqueios legais e inquéritos
+ig-data-protection-impact-assessment:
+  name: Avaliação de impacto sobre a proteção de dados
+  description: Avaliar os riscos à privacidade de tratamentos novos ou alterados de dados pessoais e de saúde e acordar controles antes de o tratamento começar.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar quando é necessária uma avaliação de impacto sobre a proteção de dados
+      - preencher um questionário de triagem para o seu trabalho
+    working: |
+      Você pode:
+      - ajudar as equipes de projeto a concluir avaliações de impacto sobre a proteção de dados
+      - descrever os fluxos de dados e identificar a base legal do tratamento
+      - registrar os riscos à privacidade e os controles propostos
+    practitioner: |
+      Você pode:
+      - revisar e aconselhar sobre avaliações de impacto sobre a proteção de dados de sistemas complexos
+      - julgar se os riscos são aceitáveis e recomendar controles
+      - decidir quando escalar riscos altos para revisão da liderança sênior ou do regulador
+    expert: |
+      Você pode:
+      - definir o processo e os padrões de avaliação de impacto sobre a proteção de dados da organização
+      - dar o parecer final sobre os tratamentos de maior risco, como o compartilhamento de dados em larga escala ou a IA
+      - consultar os reguladores quando a lei o exigir
+ig-incident-management:
+  name: Gestão de incidentes de governança da informação
+  description: Registrar e investigar violações de dados e quase incidentes, aprender com eles e decidir quando informar os reguladores e as pessoas afetadas.
+  levels:
+    awareness: |
+      Você pode:
+      - reconhecer uma violação de dados ou um quase incidente e comunicá-lo imediatamente
+    working: |
+      Você pode:
+      - registrar incidentes e reunir os fatos
+      - avaliar incidentes segundo os critérios de gravidade da organização
+      - acompanhar as ações até o encerramento
+    practitioner: |
+      Você pode:
+      - investigar incidentes graves e encontrar suas causas-raiz
+      - decidir, com a liderança sênior, se os reguladores e as pessoas afetadas devem ser notificados
+      - compartilhar as lições aprendidas e acompanhar as melhorias
+    expert: |
+      Você pode:
+      - definir o processo de gestão de incidentes de governança da informação
+      - liderar a resposta a grandes violações, inclusive perante reguladores e a imprensa
+      - reportar tendências e riscos de incidentes ao conselho de administração
+ig-confidentiality-and-sharing:
+  name: Confidencialidade e compartilhamento de informações
+  description: Proteger as informações confidenciais dos pacientes e, ao mesmo tempo, garantir que sejam compartilhadas legalmente quando o cuidado, a segurança ou a lei o exigirem, inclusive por meio de acordos de compartilhamento de informações.
+  levels:
+    awareness: |
+      Você pode:
+      - manter seguras as informações confidenciais e compartilhá-las só quando for permitido
+      - pedir orientação quando não tiver certeza
+    working: |
+      Você pode:
+      - verificar se um pedido de compartilhamento de informações atende à política
+      - manter registros do que foi compartilhado, com quem e por quê
+      - redigir acordos simples de compartilhamento de informações
+    practitioner: |
+      Você pode:
+      - orientar sobre questões complexas de confidencialidade, como o compartilhamento sem consentimento no interesse público
+      - revisar acordos de compartilhamento de informações com organizações parceiras
+      - aplicar as regras de consentimento e de oposição do paciente aos fluxos de dados
+    expert: |
+      Você pode:
+      - atuar como assessoria sênior em confidencialidade para a organização
+      - resolver as decisões de divulgação mais difíceis
+      - definir a estrutura para o compartilhamento de informações com parceiros
+ig-compliance-assurance:
+  name: Garantia e auditoria de governança da informação
+  description: Verificar e demonstrar que a organização cumpre os padrões de governança da informação, por meio de autoavaliações anuais, auditorias, evidências e planos de melhoria.
+  levels:
+    awareness: |
+      Você pode:
+      - explicar por que a organização deve demonstrar que trata bem as informações
+      - fornecer evidências para uma auditoria quando solicitado
+    working: |
+      Você pode:
+      - reunir e organizar evidências para a autoavaliação anual
+      - realizar auditorias simples, como auditorias de acesso ou de guarda de registros
+      - acompanhar as ações de melhoria
+    practitioner: |
+      Você pode:
+      - planejar e conduzir o programa de garantia da governança da informação
+      - julgar se as evidências atendem ao padrão e identificar lacunas
+      - trabalhar com auditores internos e externos
+    expert: |
+      Você pode:
+      - ser responsável pela estrutura de garantia da governança da informação da organização
+      - reportar a garantia e a conformidade ao conselho de administração e a seus comitês
+      - definir prioridades de melhoria com base no risco

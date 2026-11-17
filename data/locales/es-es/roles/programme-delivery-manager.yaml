@@ -1,0 +1,29 @@
+summary: >
+  Los gestores de entrega de programas rinden cuentas de la entrega de servicios de salud digital complejos que necesitan que varios equipos, proveedores u organizaciones trabajen juntos, o que conllevan un alto riesgo técnico, clínico o público. Gestionan las dependencias, los presupuestos, los acuerdos comerciales y las personas de todo el programa, y se aseguran de que este aporte los beneficios previstos a los pacientes, los profesionales clínicos y el personal asistencial.
+health_context:
+  - Los programas suelen cambiar cómo se presta la atención en varias organizaciones, por lo que los gestores de entrega de programas coordinan a responsables clínicos, operativos y digitales con prioridades y gobiernos distintos.
+  - El riesgo clínico debe gestionarse en todo el programa, no solo dentro de cada equipo, por lo que trabajan con los responsables de seguridad clínica para mantener una visión de conjunto de los peligros y los casos de seguridad.
+  - Los programas suelen incluir grandes contratos con proveedores de sistemas clínicos, por lo que la gestión comercial y de contratos es una parte importante del rol.
+  - Los beneficios en la atención, como esperas más cortas, una prescripción más segura o el tiempo del personal liberado, deben definirse, tener un responsable en el servicio y seguirse mucho después del cierre del programa.
+levels:
+  - title: Gestor de entrega de programas
+    responsibilities:
+      - Dirigir la entrega de un programa de varios equipos, como la introducción de un nuevo servicio digital en una vía asistencial.
+      - Planificar y gestionar las dependencias entre equipos, proveedores y organizaciones socias de salud y asistencia.
+      - Mantener con el responsable de seguridad clínica una visión de conjunto del riesgo clínico del programa, y asegurarse de que cada publicación tiene el aseguramiento que necesita.
+      - Gestionar el presupuesto, los contratos y el rendimiento de los proveedores del programa.
+      - Informar al comité del programa y al responsable sénior sobre el avance, los riesgos y los beneficios.
+      - Gestionar directamente a los gestores de entrega y crear una cultura de entrega sana en todo el programa.
+    qualifications:
+      - Amplia experiencia en la entrega de servicios o programas digitales complejos con varios equipos.
+  - title: Gestor de entrega de programas sénior
+    responsibilities:
+      - Dirigir la entrega de los programas más grandes o de mayor riesgo de la organización, como la sustitución de la historia clínica electrónica central o una historia clínica compartida en todo el sistema.
+      - Coordinar la entrega en varias organizaciones de un sistema asistencial, alineando sus planes, su gobierno y sus decisiones de puesta en marcha.
+      - Dirigir la estrategia comercial y la negociación con los grandes proveedores, y gestionar presupuestos de programa plurianuales.
+      - Asegurarse de que la seguridad clínica, la gobernanza de la información y la continuidad de negocio están garantizadas a nivel de programa antes de las grandes puestas en marcha.
+      - Dirigir y desarrollar a los gestores de programas y de entrega, y fijar normas de entrega en toda la cartera.
+      - Asesorar a la alta dirección sobre el riesgo, las opciones y la reconducción de los programas.
+    qualifications:
+      - Amplia experiencia en la dirección de programas grandes y de alto riesgo en varias organizaciones.
+    job_evaluation_notes: El UK GDaD PCF tiene un único nivel de gestor de entrega de programas, en G7 o G6. Esta referencia añade un nivel sénior en la banda 8c para los programas más grandes y con varias organizaciones, con presupuestos mayores (recursos financieros de nivel 5) y una comunicación más polémica (nivel 6).

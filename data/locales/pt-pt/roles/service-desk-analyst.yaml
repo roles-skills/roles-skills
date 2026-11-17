@@ -1,0 +1,70 @@
+summary: Os analistas da central de serviços são o primeiro ponto de contato das equipes que precisam de ajuda com os serviços digitais da organização, de problemas de login e de cartão inteligente a falhas em sistemas e dispositivos clínicos. Registram, triam, resolvem ou escalam incidentes e solicitações, mantêm os usuários informados e identificam padrões que apontam para problemas mais amplos. Em muitas organizações de saúde a central de serviços funciona 24 horas por dia, porque os serviços clínicos funcionam.
+health_context:
+- Quem liga costuma ser de clínicos e equipes de cuidados no meio do atendimento a pacientes, por isso a central prioriza pelo efeito nos pacientes, e não só pela ordem de chegada.
+- Muitos serviços clínicos funcionam 24 horas por dia, todos os dias, por isso a central de serviços costuma trabalhar em turnos e em escalas fora do horário comercial.
+- O acesso aos sistemas clínicos usa acesso baseado em papéis e autenticação forte, por isso a central trata problemas de conta, de cartão inteligente e de autenticação multifator verificando a identidade com cuidado.
+- Quem liga pode compartilhar informações confidenciais de pacientes ao descrever uma falha, por isso os analistas seguem as regras de governança da informação sobre o que registram nos chamados.
+- A central costuma ser a primeira a ver sinais de um incidente grave ou de um ataque cibernético, como muitas ligações sobre o mesmo sistema ou uma onda de e-mails suspeitos, e deve escalá-los rapidamente.
+levels:
+- title: Analista de central de serviços
+  summary: Uma pessoa analista de central de serviços atende ligações e chamados das equipes, resolve problemas comuns no primeiro contato usando roteiros e artigos de conhecimento e encaminha os demais problemas à equipe certa.
+  responsibilities:
+  - Atender ligações, chats e chamados de autoatendimento das equipes e registrar cada um com exatidão na ferramenta de gestão de serviços.
+  - Resolver problemas comuns no primeiro contato usando roteiros e artigos de conhecimento, como redefinição de senhas, desbloqueio de contas e falhas de impressoras.
+  - Verificar a identidade de quem liga antes de alterar contas ou acessos, seguindo os procedimentos da organização.
+  - Perguntar como o problema afeta o cuidado dos pacientes, definir a prioridade e encaminhar o incidente à equipe resolvedora certa.
+  - Manter os usuários atualizados sobre seus chamados e confirmar que a correção funciona antes de encerrá-los.
+  - Registrar nos chamados somente as informações necessárias, sem detalhes desnecessários de pacientes.
+  qualifications:
+  - Qualificação de nível 3 em TI, aprendizagem profissional em suporte de TI ou experiência equivalente.
+  - Boas habilidades de atendimento ao cliente e de digitação, adquiridas no trabalho ou nos estudos.
+  job_evaluation_notes: O UK GDaD PCF sugere a Faixa 4 para este nível. Esta referência coloca o trabalho de primeiro nível da central, com roteiros, na Faixa 3 e os analistas que resolvem falhas mais complexas na Faixa 4. O esforço mental reflete a concentração frequente em ligações imprevisíveis; o esforço emocional reflete as ligações frequentes de equipes sob pressão em áreas clínicas.
+- title: Analista técnico de central de serviços
+  summary: Uma pessoa analista técnica de central de serviços resolve falhas mais complexas no primeiro contato, incluindo correções remotas em dispositivos e no acesso a sistemas clínicos, e atende ligações urgentes de áreas clínicas.
+  responsibilities:
+  - Resolver remotamente incidentes e solicitações mais complexos, incluindo falhas de dispositivos, de software e de acesso a sistemas clínicos.
+  - Atender ligações urgentes de áreas clínicas, como pronto-socorros, enfermarias e centros cirúrgicos, e iniciar o processo de incidente grave quando necessário.
+  - Processar solicitações de acesso a sistemas clínicos, conferindo-as com as regras de acesso baseado em papéis.
+  - Escrever e melhorar artigos de conhecimento para que mais problemas possam ser resolvidos no primeiro contato.
+  - Identificar ligações repetidas sobre a mesma falha e levá-las à gestão de incidentes e de problemas.
+  - Comunicar à equipe de segurança suspeitas de e-mails de phishing e outros eventos de segurança.
+  - Mostrar a novos analistas como usar as ferramentas e os procedimentos da central.
+  qualifications:
+  - Experiência em suporte de TI em uma central de serviços ou em ambiente semelhante.
+  - Uma qualificação básica em gestão de serviços de TI, ou experiência equivalente.
+  job_evaluation_notes: Usa o mesmo nível do UK GDaD PCF que o analista da Faixa 3, para analistas que resolvem problemas mais complexos e atendem ligações clínicas urgentes. A comunicação está acima do perfil da faixa porque os analistas muitas vezes precisam explicar questões técnicas a equipes clínicas ocupadas.
+- title: Analista de central de serviços sênior
+  responsibilities:
+  - Liderar um turno na central de serviços, equilibrando as filas de ligações com a urgência clínica dos incidentes abertos.
+  - Assumir ligações difíceis ou escaladas, incluindo ligações de clínicos sêniores durante atendimentos de urgência.
+  - Manter exatos os roteiros e os artigos de conhecimento à medida que os sistemas e os dispositivos clínicos mudam.
+  - Atuar como ponto de escalonamento fora do horário comercial da central e iniciar o processo de incidente grave quando muitos usuários forem afetados.
+  - Conferir a qualidade dos chamados, incluindo as verificações de identidade e o que é registrado sobre pacientes.
+  - Planejar a escala para que a central tenha pessoal em todos os momentos.
+  qualifications:
+  - Experiência substancial em central de serviços, incluindo o tratamento de escalonamentos.
+  - Uma qualificação em gestão de serviços de TI, ou experiência equivalente.
+  job_evaluation_notes: O planejamento reflete o planejamento de turnos e escalas de uma central de 24 horas. O esforço emocional reflete as ligações difíceis e frequentes de equipes que lidam com o cuidado urgente de pacientes.
+- title: Gerente da central de serviços
+  responsibilities:
+  - Conduzir a central de serviços no dia a dia, garantindo que tenha pessoal e responda 24 horas por dia, todos os dias.
+  - Definir prioridades e metas de resposta que reflitam o risco clínico, acordadas com as lideranças clínicas e operacionais.
+  - Preparar a central para sistemas clínicos novos e alterados, incluindo treinamento, roteiros e reforço de cobertura na entrada em operação.
+  - Analisar as tendências dos chamados para encontrar problemas emergentes e trabalhar com a gestão de problemas para eliminar suas causas.
+  - Garantir que a central siga os procedimentos de verificação de identidade, de governança da informação e de segurança e aja sobre os achados de auditorias.
+  - Chefiar analistas sêniores e analistas, incluindo recrutamento, desempenho e bem-estar das pessoas que trabalham em turnos.
+  qualifications:
+  - Experiência na liderança de uma equipe de central de serviços, incluindo cobertura por turnos ou fora do horário comercial.
+  - Uma qualificação intermediária em gestão de serviços de TI, ou experiência equivalente.
+  job_evaluation_notes: Os conhecimentos estão um nível abaixo do perfil da faixa, como é habitual nas funções de central de serviços; a responsabilidade por pessoas é maior porque o gerente conduz uma equipe em turnos.
+- title: Chefia da central de serviços
+  responsibilities:
+  - Definir a direção da central de serviços, incluindo canais de contato, autoatendimento e apoio a equipes que trabalham em vários locais e na comunidade.
+  - Acordar níveis de serviço com os serviços clínicos e corporativos e reportar o desempenho à liderança sênior.
+  - Garantir que a central possa continuar funcionando durante incidentes graves, ataques cibernéticos e indisponibilidade de sistemas, com procedimentos claros de continuidade de negócios.
+  - Aconselhar as equipes de projeto sobre como os novos sistemas clínicos e corporativos serão apoiados antes da entrada em operação.
+  - Gerir o orçamento da central de serviços, as ferramentas e eventuais contratos de suporte terceirizado ou fora do horário comercial.
+  - Liderar e desenvolver gerentes da central de serviços e construir uma cultura de apoio para quem trabalha em turnos.
+  qualifications:
+  - Ampla experiência na gestão de serviços de suporte de TI, incluindo serviços 24 horas.
+  - Uma qualificação avançada em gestão de serviços de TI, ou experiência equivalente.

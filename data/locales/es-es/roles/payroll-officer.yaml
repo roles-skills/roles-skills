@@ -1,0 +1,58 @@
+summary: >
+  Los técnicos de nóminas se aseguran de que todo el personal cobre con exactitud y puntualidad. Tramitan las altas, las bajas y los cambios, calculan la retribución y las deducciones, realizan las comprobaciones de la nómina y responden a las consultas sobre la retribución. En una organización de atención sanitaria digital, la nómina puede incluir personal clínico, digital y corporativo con distintos contratos y normas retributivas, y a menudo se gestiona en un sistema de nóminas compartido o externalizado que el equipo debe comprobar y garantizar.
+health_context:
+  - El personal clínico puede tener una retribución compleja, como los horarios atípicos, las guardias y los contratos múltiples, que la nómina debe calcular correctamente.
+  - Las normas retributivas y las subidas salariales anuales suelen fijarse a nivel nacional o por los financiadores, y deben aplicarse con rapidez y exactitud.
+  - La nómina suele ser el mayor coste individual de la organización, por lo que los errores y el fraude tienen un gran efecto en el dinero público y en la confianza del personal.
+  - Los datos de nómina son información personal muy sensible, incluidos datos de salud, familiares y bancarios, por lo que la gobernanza de la información es central en el puesto.
+  - La nómina depende de datos exactos de los sistemas de plantilla y de turnos, por lo que los técnicos trabajan estrechamente con los equipos de recursos humanos y de sistemas.
+levels:
+  - title: Técnico de nóminas
+    summary: Los técnicos de nóminas tramitan los cambios retributivos y calculan la retribución de un grupo de personas, siguiendo los procedimientos y revisando su trabajo antes de cada cierre de nómina.
+    responsibilities:
+      - Registrar en el sistema de nóminas las altas, las bajas y los cambios de contrato a partir de formularios autorizados.
+      - Calcular la retribución, incluidas las horas extraordinarias, los complementos, y los pagos por enfermedad y por permisos familiares.
+      - Aplicar correctamente los impuestos, las pensiones y otras deducciones.
+      - Responder con tacto y confidencialidad a las consultas sobre la retribución del personal y de los gestores.
+      - Revisar los resultados de la nómina en busca de errores y corregirlos antes del cierre.
+      - Seguir los controles de nóminas y las normas de gobernanza de la información.
+    qualifications:
+      - Una cualificación de nóminas de nivel inicial, o experiencia equivalente en tramitación de nóminas.
+    job_evaluation_notes: Los recursos financieros están en el nivel 3 porque el puesto tramita la retribución que la organización paga al personal. Las habilidades físicas están en el nivel 3 por la introducción de datos rápida y exacta.
+  - title: Técnico de nóminas sénior
+    summary: Los técnicos de nóminas sénior gestionan casos de nómina complejos, revisan el trabajo de los técnicos de nóminas y ayudan a realizar las conciliaciones y declaraciones de la nómina.
+    responsibilities:
+      - Resolver casos retributivos complejos, como los atrasos, los contratos múltiples y la retribución flexible.
+      - Recuperar los pagos indebidos con tacto y de acuerdo con la política.
+      - Conciliar la nómina con el libro contable, y preparar las conciliaciones de impuestos y de pensiones.
+      - Revisar el trabajo de los técnicos de nóminas y dar el visto bueno a partes de la nómina.
+      - Probar en el sistema de nóminas las subidas salariales y los cambios de normas antes de su aplicación.
+      - Formar a los técnicos de nóminas y dar asesoramiento retributivo básico a los gestores.
+    qualifications:
+      - Una cualificación de nóminas intermedia, o experiencia equivalente.
+  - title: Jefe de equipo de nóminas
+    summary: Los jefes de equipo de nóminas gestionan el equipo de nóminas en el día a día, ejecutan el ciclo completo de nómina y se aseguran de que los informes obligatorios y las declaraciones de pensiones sean exactos y puntuales.
+    responsibilities:
+      - Planificar y ejecutar el ciclo de nómina, asegurándose de que se cumplen los cierres, las comprobaciones y los plazos de pago.
+      - Dar el visto bueno a las comprobaciones de la nómina e investigar las desviaciones importantes.
+      - Gestionar los informes obligatorios de nóminas y las declaraciones de pensiones.
+      - Gestionar el equipo de nóminas en el día a día, incluidos la carga de trabajo, la formación y las comprobaciones de calidad.
+      - Trabajar con los equipos de recursos humanos y de turnos para mejorar la calidad y la puntualidad de los datos retributivos.
+      - Responder a las consultas y reclamaciones retributivas escaladas.
+    qualifications:
+      - Una cualificación de nóminas avanzada, o experiencia equivalente.
+      - Experiencia en la gestión de una nómina completa.
+  - title: Gestor de nóminas
+    summary: Los gestores de nóminas son responsables del servicio de nóminas de la organización, tanto si es interno como si lo presta un proveedor, y garantizan a la dirección que la retribución es exacta, lícita y está bien controlada.
+    responsibilities:
+      - Gestionar el servicio de nóminas y su equipo, e informar de su rendimiento y exactitud.
+      - Gestionar el contrato y la relación con cualquier proveedor de nóminas o servicio compartido.
+      - Fijar los controles de nóminas, como los límites de aprobación, los informes de excepciones y la segregación de funciones.
+      - Planificar los cambios en las normas retributivas, las subidas salariales, las pensiones y los impuestos, y asegurarse de que se aplican correctamente.
+      - Dirigir los cambios y las actualizaciones del sistema de nóminas, trabajando con los equipos de sistemas y de recursos humanos.
+      - Facilitar información de nóminas para los presupuestos, las previsiones y las cuentas anuales.
+      - Dirigir la respuesta a los fallos de la nómina y a los errores graves.
+    qualifications:
+      - Una cualificación de nóminas avanzada o una cualificación contable reconocida, o experiencia equivalente.
+      - Experiencia en la gestión de un servicio de nóminas.
+    job_evaluation_notes: Los recursos financieros están en el nivel 4 porque el puesto es responsable de toda la nómina de la organización, su mayor coste. Las personas están en el nivel 3 porque el equipo de nóminas es pequeño.

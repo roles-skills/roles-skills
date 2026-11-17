@@ -1,0 +1,92 @@
+# Family and role titles in Russian. Keys are the English ids. Slugs are made
+# from the titles.
+families:
+  software-development: {title: Разработка программного обеспечения}
+  architecture: {title: Архитектура}
+  data: {title: Данные}
+  product-and-delivery: {title: Продукт и реализация}
+  user-centred-design: {title: Дизайн, ориентированный на пользователя}
+  it-operations: {title: ИТ-эксплуатация}
+  cyber-security: {title: Кибербезопасность}
+  quality-assurance-testing: {title: Обеспечение качества и тестирование}
+  clinical-informatics: {title: Клиническая информатика и клиническая безопасность}
+  information-governance: {title: Управление информацией}
+  finance: {title: Финансы}
+  legal: {title: Юридическая служба}
+  human-resources: {title: Управление персоналом}
+  procurement: {title: Закупки и коммерческая деятельность}
+  corporate-services: {title: Корпоративные службы}
+roles:
+  software-developer: {title: Разработчик программного обеспечения}
+  frontend-developer: {title: Фронтенд-разработчик}
+  devops-engineer: {title: DevOps-инженер}
+  integration-engineer: {title: Инженер по интеграции (совместимость в здравоохранении)}
+  enterprise-architect: {title: Корпоративный архитектор}
+  solution-architect: {title: Архитектор решений}
+  technical-architect: {title: Технический архитектор}
+  data-architect: {title: Архитектор данных}
+  security-architect: {title: Архитектор безопасности}
+  network-architect: {title: Сетевой архитектор}
+  business-architect: {title: Бизнес-архитектор}
+  data-analyst: {title: Аналитик данных}
+  performance-analyst: {title: Аналитик показателей эффективности}
+  data-engineer: {title: Инженер данных}
+  analytics-engineer: {title: Инженер аналитики}
+  data-scientist: {title: Специалист по data science}
+  machine-learning-engineer: {title: Инженер машинного обучения}
+  data-governance-manager: {title: Менеджер по управлению данными}
+  clinical-coder: {title: Клинический кодировщик}
+  business-analyst: {title: Бизнес-аналитик}
+  delivery-manager: {title: Менеджер по реализации}
+  product-manager: {title: Менеджер продукта}
+  project-manager: {title: Руководитель проекта}
+  programme-delivery-manager: {title: Менеджер по реализации программ}
+  digital-portfolio-manager: {title: Менеджер цифрового портфеля}
+  service-owner: {title: Владелец сервиса}
+  user-researcher: {title: Исследователь пользователей}
+  service-designer: {title: Сервис-дизайнер}
+  interaction-designer: {title: Дизайнер взаимодействия}
+  content-designer: {title: Контент-дизайнер}
+  accessibility-specialist: {title: Специалист по доступности}
+  service-desk-analyst: {title: Аналитик службы поддержки}
+  end-user-computing-engineer: {title: Инженер по рабочим местам пользователей}
+  infrastructure-engineer: {title: Инженер инфраструктуры}
+  application-operations-engineer: {title: Инженер по эксплуатации приложений}
+  it-service-manager: {title: Менеджер ИТ-услуг}
+  incident-manager: {title: Менеджер по инцидентам}
+  problem-manager: {title: Менеджер по проблемам}
+  change-and-release-manager: {title: Менеджер по изменениям и релизам}
+  security-analyst: {title: Аналитик центра мониторинга безопасности}
+  security-engineer: {title: Инженер по безопасности}
+  cyber-security-manager: {title: Менеджер по кибербезопасности}
+  quality-assurance-test-analyst: {title: Аналитик по тестированию и обеспечению качества}
+  test-engineer: {title: Инженер по тестированию}
+  test-manager: {title: Менеджер по тестированию}
+  clinical-informatician: {title: Клинический информатик}
+  clinical-safety-officer: {title: Специалист по клинической безопасности}
+  chief-clinical-information-officer: {title: Главный клинический директор по информатизации}
+  records-officer: {title: Специалист по медицинской документации}
+  information-governance-officer: {title: Специалист по управлению информацией}
+  data-protection-officer: {title: Ответственный за защиту данных}
+  finance-officer: {title: Финансовый специалист}
+  payroll-officer: {title: Специалист по расчёту заработной платы}
+  management-accountant: {title: Управленческий бухгалтер}
+  financial-accountant: {title: Бухгалтер по финансовой отчётности}
+  head-of-finance: {title: Руководитель финансовой службы}
+  legal-assistant: {title: Помощник юриста}
+  legal-adviser: {title: Юрисконсульт}
+  head-of-legal: {title: Руководитель юридической службы}
+  hr-officer: {title: Специалист по персоналу}
+  recruitment-officer: {title: Специалист по подбору персонала}
+  hr-business-partner: {title: HR бизнес-партнёр}
+  learning-and-development-specialist: {title: Специалист по обучению и развитию}
+  head-of-people: {title: Руководитель по персоналу}
+  procurement-officer: {title: Специалист по закупкам}
+  category-manager: {title: Категорийный менеджер}
+  contract-manager: {title: Менеджер по договорам}
+  head-of-procurement: {title: Руководитель закупок}
+  administrator: {title: Администратор}
+  executive-assistant: {title: Помощник руководителя}
+  project-support-officer: {title: Специалист по поддержке проектов}
+  governance-and-risk-manager: {title: Менеджер по корпоративному управлению и рискам}
+  communications-officer: {title: Специалист по коммуникациям}

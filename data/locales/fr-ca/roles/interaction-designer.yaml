@@ -1,0 +1,63 @@
+summary: >
+  Les designers d'interaction conçoivent la manière dont les patients, les aidants, les cliniciens et le personnel soignant utilisent les services de santé numérique de l'organisation, des applications et formulaires pour les patients aux écrans que les cliniciens utilisent au chevet du patient. Ils conçoivent des interactions simples, accessibles et sûres, les testent avec de vrais utilisateurs et utilisent des systèmes de design partagés pour que les services soient cohérents et familiers.
+health_context:
+  - Les cliniciens utilisent souvent les systèmes sous la pression du temps, avec des interruptions et sur des appareils partagés, c'est pourquoi les conceptions doivent favoriser un travail rapide et exact et faire de l'action sûre l'action la plus facile.
+  - Une mauvaise conception peut causer un préjudice clinique, comme la sélection du mauvais patient ou une mauvaise lecture d'une dose, c'est pourquoi les designers appliquent les principes des facteurs humains et travaillent avec les responsables de la sécurité clinique.
+  - De nombreux utilisateurs sont malades, anxieux, âgés ou en situation de handicap, c'est pourquoi les conceptions doivent respecter les normes d'accessibilité et fonctionner pour les personnes peu à l'aise avec le numérique ou ayant une faible littératie en santé.
+  - Les alertes et les avertissements ne sont utiles que si les personnes les remarquent et leur font confiance, c'est pourquoi les designers aident à réduire la fatigue d'alerte et à garder visibles les informations critiques pour la sécurité.
+levels:
+  - title: Designer d'interaction adjoint
+    responsibilities:
+      - Apprendre les méthodes de design d'interaction et le système de design de l'équipe par la formation et le travail en binôme.
+      - Créer des croquis, des maquettes fonctionnelles et des prototypes simples sous supervision.
+      - Aider à tester les conceptions avec les utilisateurs et consigner ce qui fonctionne et ce qui ne fonctionne pas.
+      - Suivre les normes d'accessibilité et les modèles du système de design, y compris ceux de l'identité du patient et des avertissements de sécurité.
+    qualifications:
+      - En préparation d'une qualification ou d'un apprentissage en design ou dans un domaine voisin, ou une expérience équivalente.
+  - title: Designer d'interaction junior
+    responsibilities:
+      - Concevoir et prototyper des parties d'un service, comme des formulaires, des parcours et des écrans, sous la direction d'un designer plus expérimenté.
+      - Tester les conceptions avec des patients, des aidants et du personnel, et les modifier selon ce que vous apprenez.
+      - Concevoir des interactions accessibles qui fonctionnent avec les technologies d'assistance.
+      - Expliquer à l'équipe les décisions de conception, y compris la manière dont elles réduisent le risque d'erreur.
+    qualifications:
+      - Une licence en design ou dans une discipline voisine, ou une expérience équivalente.
+  - title: Designer d'interaction
+    responsibilities:
+      - Concevoir les interactions d'un produit de santé numérique, des premiers concepts aux conceptions détaillées et testées.
+      - Concevoir pour les parcours cliniques, en testant avec les cliniciens et le personnel soignant dans des scénarios réalistes, y compris les interruptions.
+      - Signaler au responsable de la sécurité clinique les dangers liés à la conception et consigner comment les conceptions les maîtrisent.
+      - Utiliser le système de design et y contribuer, y compris les modèles des informations critiques pour la sécurité.
+      - Travailler étroitement avec les développeurs pour que les conceptions soient réalisées comme prévu et restent accessibles.
+    qualifications:
+      - Une licence en design ou dans une discipline voisine, ou une expérience équivalente.
+      - Une expérience de la conception de services numériques avec les utilisateurs.
+    job_evaluation_notes: Le UK GDaD PCF place le designer d'interaction en SEO ou G7, avec une bande 7 proposée, comme le designer d'interaction senior. Cette référence le place en bande 6, comme le niveau de designer de services aux niveaux de compétences PCF identiques, pour que les deux niveaux de designer d'interaction ne soient pas dans la même bande.
+  - title: Designer d'interaction senior
+    responsibilities:
+      - Diriger le design d'interaction de services complexes, comme les systèmes cliniques utilisés dans de nombreuses structures de soins.
+      - Appliquer des méthodes de facteurs humains, comme l'analyse des tâches, aux parcours cliniques critiques pour la sécurité.
+      - Fournir des preuves de conception aux dossiers de sécurité clinique et, pour les logiciels réglementés, aux dossiers d'utilisabilité.
+      - Aider à fixer l'orientation et les bonnes pratiques de conception dans les équipes, et accompagner les autres designers.
+      - Prendre des décisions de conception à partir de la recherche et des données, et les expliquer aux responsables cliniques et produit.
+    qualifications:
+      - Une expérience significative du design d'interaction, d'un niveau équivalent à un master.
+  - title: Designer d'interaction référent
+    responsibilities:
+      - Fixer l'orientation de conception et garantir la qualité du design d'interaction de plusieurs équipes ou services.
+      - Diriger le système de design, y compris les modèles accessibles et critiques pour la sécurité que réutilisent les équipes de toute l'organisation.
+      - Diriger le travail sur les facteurs humains des services cliniques les plus à risque, avec les responsables de la sécurité clinique.
+      - Travailler avec les responsables produit et cliniques de haut niveau pour élaborer des concepts de conception pour les grands services.
+      - Encadrer et faire progresser les designers d'interaction.
+    qualifications:
+      - Une solide expérience de la direction du design d'interaction dans plusieurs équipes.
+    job_evaluation_notes: Il n'y a pas de niveau en bande 8a, car le UK GDaD PCF place le designer d'interaction référent en G7 ou G6 et cette référence suit la bande 8b proposée. Les politiques sont au niveau 5, car le designer référent fixe des normes de conception pour divers services.
+  - title: Responsable du design d'interaction
+    responsibilities:
+      - Diriger la profession de design d'interaction et fixer sa stratégie, ses normes et ses méthodes de travail.
+      - Influencer la stratégie de design et de l'organisation pour que les services soient utilisables, accessibles et sûrs.
+      - Être responsable du système de design de l'organisation et veiller à ce qu'il réponde aux besoins d'accessibilité et de sécurité clinique.
+      - Développer la capacité de design, y compris le recrutement, les parcours de carrière et la formation.
+      - Travailler avec les homologues de tout le système de santé et de soins sur des modèles de conception partagés.
+    qualifications:
+      - Une solide expérience de la direction du design et d'une pratique de design.

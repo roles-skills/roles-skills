@@ -1,0 +1,60 @@
+summary: Os profissionais de engenharia de operações de aplicações mantêm as aplicações da organização funcionando em uso real, incluindo sistemas clínicos como o prontuário eletrônico do paciente e os sistemas de prescrição, de laboratório e de imagem. Monitoram aplicações, executam tarefas agendadas, gerem usuários e acessos, implantam liberações e correções e trabalham com fornecedores para resolver falhas. Seu trabalho permite que as equipes clínicas e corporativas confiem nesses sistemas a qualquer hora do dia.
+health_context:
+- As aplicações clínicas funcionam 24 horas por dia, por isso as pessoas engenheiras participam de escalas de plantão e planejam a manutenção para os períodos clínicos mais tranquilos.
+- Tarefas agendadas e interfaces com falha podem atrasar resultados de exames, encaminhamentos ou cartas de alta, por isso as pessoas engenheiras os observam de perto e escalam rapidamente.
+- A indisponibilidade planejada e não planejada exige arranjos de continuidade de negócios, como cópias somente leitura e relatórios de indisponibilidade, para que os clínicos continuem tratando os pacientes.
+- Muitas aplicações clínicas são fornecidas e hospedadas por terceiros, por isso as pessoas engenheiras gerem com cuidado os fornecedores e suas mudanças.
+- As mudanças em aplicações clínicas seguem o processo de gestão de riscos clínicos, e algumas aplicações podem ser regulamentadas como dispositivos médicos.
+levels:
+- title: Profissional de engenharia de operações de aplicações associado
+  responsibilities:
+  - Monitorar aplicações, interfaces e tarefas agendadas e comunicar falhas a profissionais de engenharia experientes.
+  - Criar e alterar contas de usuário e acessos nas aplicações, seguindo as regras de acesso baseado em papéis.
+  - Realizar verificações rotineiras e tarefas de manutenção usando roteiros operacionais.
+  - Registrar com exatidão incidentes e mudanças na ferramenta de gestão de serviços.
+  - Trabalhar rumo a uma aprendizagem profissional em TI ou a uma qualificação equivalente.
+  qualifications:
+  - Matriculado em uma aprendizagem profissional em TI ou equivalente, ou trabalhando para isso.
+  job_evaluation_notes: Os conhecimentos são pontuados no nível que a função exige depois que o treinamento é suficiente para realizar o trabalho.
+- title: Profissional de engenharia de operações de aplicações
+  responsibilities:
+  - Monitorar aplicações clínicas e corporativas e suas interfaces e agir sobre alertas e tarefas com falha antes que afetem o cuidado dos pacientes.
+  - Executar e conferir tarefas agendadas, como cargas noturnas de dados e filas de interfaces, e resolver ou escalar as falhas.
+  - Gerir usuários, papéis e acessos das aplicações, incluindo a remoção de acessos de quem se desliga e o apoio a revisões de acesso.
+  - Produzir e testar relatórios de indisponibilidade e outros produtos de continuidade de negócios das aplicações clínicas.
+  - Registrar falhas junto aos fornecedores e acompanhá-las até a resolução.
+  - Participar da escala de plantão, com orientação, para falhas de aplicações fora do horário comercial.
+  qualifications:
+  - Qualificação em TI, aprendizagem profissional concluída ou experiência equivalente.
+  - Experiência no suporte a aplicações de negócios ou clínicas.
+- title: Profissional de engenharia de operações de aplicações sênior
+  responsibilities:
+  - Implantar liberações, correções e mudanças de configuração em aplicações em operação, seguindo os procedimentos de mudança e de segurança clínica.
+  - Coordenar o trabalho técnico para colocar em operação novas aplicações e grandes atualizações, incluindo planos de migração e de reversão.
+  - Investigar falhas complexas de aplicações com fornecedores, equipes de infraestrutura e especialistas em sistemas clínicos.
+  - Planejar janelas de manutenção com os serviços clínicos e garantir que os procedimentos de indisponibilidade estejam prontos.
+  - Fornecer evidências para os dossiês de segurança clínica, como registros de testes e de implantação.
+  - Atuar como ponto de escalonamento na escala de plantão para falhas fora do horário comercial.
+  qualifications:
+  - Experiência substancial no suporte a aplicações em operação, em nível equivalente ao de graduação.
+  job_evaluation_notes: O esforço mental reflete a concentração prolongada e frequente durante entradas em operação, implantações e incidentes fora do horário comercial.
+- title: Profissional de engenharia de operações de aplicações líder
+  responsibilities:
+  - Definir a abordagem operacional de um grupo de aplicações, incluindo monitoramento, resiliência e arranjos de suporte.
+  - Definir padrões de administração de usuários e de segurança das aplicações clínicas, trabalhando com a equipe de segurança.
+  - Reportar o desempenho e a disponibilidade das aplicações às lideranças de operações de TI e acordar as mudanças necessárias.
+  - Liderar a resposta técnica a incidentes graves que afetem aplicações clínicas.
+  - Garantir que os arranjos de continuidade de negócios e de recuperação de desastres das aplicações clínicas sejam testados.
+  - Liderar e desenvolver profissionais de engenharia de operações de aplicações.
+  qualifications:
+  - Ampla experiência na operação de aplicações em produção, incluindo sistemas clínicos ou outros sistemas críticos.
+- title: Profissional de engenharia de operações de aplicações principal
+  responsibilities:
+  - Ser responsável pela estratégia de operações de aplicações em todas as aplicações clínicas e corporativas da organização.
+  - Gerir os fornecedores estratégicos de aplicações clínicas, incluindo níveis de serviço, desempenho contratual e mudanças do fornecedor.
+  - Aconselhar a liderança sênior sobre riscos das aplicações, como software sem suporte, pontos únicos de falha e resiliência contra ransomware.
+  - Garantir que a organização possa continuar cuidando dos pacientes com segurança durante uma indisponibilidade prolongada das aplicações.
+  - Liderar o dimensionamento, o aprendizado e o desenvolvimento das equipes de operações de aplicações.
+  qualifications:
+  - Ampla experiência na liderança das operações de aplicações de uma organização grande.
+  job_evaluation_notes: O UK GDaD PCF sugere a Faixa 8c para este nível (G6). Esta referência o coloca na Faixa 8b, em linha com as funções principais de outras famílias técnicas, porque seu escopo é uma área técnica, e não uma diretoria.

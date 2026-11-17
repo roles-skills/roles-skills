@@ -1,0 +1,47 @@
+summary: >
+  Les analystes de données transforment les données de santé et de soins en informations qui aident les cliniciens, les responsables et les planificateurs à décider. Ils préparent, relient et analysent des données issues de sources cliniques, opérationnelles et déclarées par les patients, et les présentent dans des rapports, des tableaux de bord et des notes. Ils veillent à ce que leurs analyses soient exactes, reproductibles et traitent en sécurité les données confidentielles des patients.
+health_context:
+  - Une grande partie des données décrit des patients individuels, c'est pourquoi les analystes travaillent autant que possible sur des données pseudonymisées et vérifient le risque de divulgation des résultats avant leur diffusion.
+  - Les données de santé sont enregistrées avec des terminologies et des classifications cliniques comme SNOMED CT et la CIM, c'est pourquoi les analystes doivent savoir comment les codes sont utilisés et où ils peuvent induire en erreur.
+  - La qualité des données varie selon les structures de soins et les systèmes, et les lacunes touchent souvent certains groupes de patients plus que d'autres, c'est pourquoi les analystes vérifient les biais avant de conclure.
+  - L'analyse peut changer la manière dont les services sont planifiés, financés et fournis, c'est pourquoi les résultats ont besoin de mises en garde claires et ne doivent pas surestimer la certitude.
+levels:
+  - title: Analyste de données adjoint
+    responsibilities:
+      - Produire des rapports et des tableaux de bord courants sur l'activité, les délais d'attente et l'usage des services, selon des méthodes convenues.
+      - Nettoyer et préparer sous supervision des extractions des systèmes de gestion administrative des patients, cliniques et opérationnels.
+      - Vérifier les résultats au regard des règles de qualité des données et signaler les problèmes au bon propriétaire des données.
+      - Appliquer le masquage des petits effectifs et les autres règles de divulgation avant de partager les résultats.
+      - Répondre aux demandes de données simples des équipes cliniques et opérationnelles.
+    qualifications:
+      - Une licence dans une discipline quantitative, un apprentissage en analyse de données ou une expérience équivalente.
+  - title: Analyste de données
+    responsibilities:
+      - Concevoir et réaliser des analyses qui répondent aux questions des équipes cliniques, opérationnelles et de planification.
+      - Relier en sécurité des données individuelles de différentes sources, avec des identifiants pseudonymisés et des méthodes de chaînage convenues.
+      - Écrire un code d'analyse reproductible et documenter les méthodes, les hypothèses et les sources de données.
+      - Expliquer les résultats et leurs limites aux cliniciens et aux responsables en langage clair.
+      - Vérifier les biais de l'analyse entre groupes de patients, par exemple selon l'âge, le sexe, l'origine ethnique et la défavorisation.
+      - Soutenir les analystes adjoints et relire leur travail.
+    qualifications:
+      - Une licence dans une discipline quantitative, ou une expérience équivalente.
+      - Une expérience de l'analyse et de la présentation de données complexes.
+  - title: Analyste de données senior
+    responsibilities:
+      - Diriger l'analyse d'un domaine de service, comme les soins urgents, le cancer ou la santé mentale, en convenant des priorités avec ses responsables.
+      - Fixer les méthodes et l'assurance qualité des analyses de l'équipe, y compris la relecture par les pairs du code et des résultats.
+      - Diriger des projets de chaînage complexes entre structures de soins et convenir de leur base de gouvernance de l'information.
+      - Présenter les résultats aux instances cliniques et de direction et conseiller sur ce qu'ils signifient pour les services.
+      - Travailler avec les ingénieurs de données et les propriétaires des données pour corriger les causes profondes de la mauvaise qualité des données.
+      - Accompagner et faire progresser les analystes de l'équipe.
+    qualifications:
+      - Une expérience significative de la direction d'analyses de données, d'un niveau équivalent à un master.
+  - title: Analyste de données principal
+    responsibilities:
+      - Fixer les normes de l'organisation pour l'analyse de données, l'assurance qualité et la pratique analytique reproductible.
+      - Conseiller les dirigeants et les responsables cliniques sur les données probantes qui sous-tendent les grandes décisions sur les services et les investissements.
+      - Animer la communauté analytique, y compris sa formation, ses outils et le développement des carrières.
+      - Façonner les accords de partage et de chaînage des données avec les partenaires de santé et de soins.
+      - Encadrer les analystes seniors et veiller à ce que l'équipe dispose de la capacité et des compétences nécessaires.
+    qualifications:
+      - Une solide expérience de la direction de l'analyse de données dans toute une organisation.
