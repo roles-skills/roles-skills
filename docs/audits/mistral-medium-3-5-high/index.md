@@ -64,7 +64,7 @@ Tasks are unordered inside each category; use the labels (⚡ quick win, 🎯 hi
 |---|---|---|---|
 | **Unit tests for `scripts/build.py`** | `pytest` with 90 %+ coverage; mock `data/` when needed. | 3 d | 📊 |
 | **Snapshot tests for docs** | Store golden Markdown outputs; fail if generation drifts. | 1 d | 📊 |
-| **Link-check website build** | Add `lychee` or `linkchecker` to CI to validate every `[link](url)` in generated Markdown and website. | 1 d | ⚡ |
+| **Link-check website build** | Add `lychee` or `linkchecker` to CI to validate every Markdown link in generated Markdown and website. | 1 d | ⚡ |
 | **TSV schema validation** | JSON-schema (or `csv-validate`) for every export TSV; CI step that fails on schema drift. | 1 d | ⚡ |
 | **Property-based tests** | `hypothesis` on data integrity: every role references valid band, every skill exists, points sum within band range. | 1 d | 📊 |
 | **Website accessibility audit** | Run `axe-core` or Pa11y in CI on the static site; fix WCAG 2.2 AA failures. | 2 d | 🎯 |
