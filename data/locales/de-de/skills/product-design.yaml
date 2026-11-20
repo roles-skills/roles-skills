@@ -1,0 +1,71 @@
+# German translations of data/skills/product-design.yaml. Keys are the English skill ids.
+pd-health-research-ethics:
+  name: Ethische Forschung mit Patientinnen, Patienten und Pflegepersonal
+  description: Forschung mit Patientinnen, Patienten, Angehörigen, klinischem Personal und Pflegepersonal sicher und ethisch planen und durchführen, einschließlich informierter Einwilligung, Schutz, Forschung mit Menschen in verletzlichen Lebenslagen und dem Wissen, wann eine förmliche Ethikgenehmigung nötig ist.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, warum Forschung mit Patientinnen, Patienten und Pflegepersonal informierte Einwilligung, Schutz und Sorgfalt mit personenbezogenen Daten braucht
+      - die Verfahren des Teams zu Einwilligung, Schutz und Datenhandhabung in Forschungssitzungen befolgen
+    working: |
+      Sie können:
+      - Forschungssitzungen planen, die informierte Einwilligung einholen und Wohlbefinden und Privatsphäre der Teilnehmenden schützen
+      - Sitzungen für Menschen anpassen, die krank, aufgewühlt oder in verletzlichen Lebenslagen sind, und wissen, wann abzubrechen ist
+      - Schutzbedenken erkennen und melden, die in der Forschung aufkommen
+    practitioner: |
+      Sie können:
+      - beurteilen, wann Forschung eine förmliche Ethik- oder Forschungsgovernance-Genehmigung braucht, und vorbereiten, was sie verlangt
+      - sichere Forschung mit Menschen in verletzlichen Lebenslagen planen, etwa Kindern, Menschen mit Demenz und Menschen in Krisen
+      - Forschung in klinischen Umfeldern ohne Störung der Versorgung planen, gemeinsam mit klinischen Leitungen und Pflegepersonal
+      - Forschende dabei unterstützen, nach belastenden Sitzungen auf ihr eigenes Wohlbefinden zu achten
+    expert: |
+      Sie können:
+      - die Standards der Organisation für ethische Forschung mit Patientinnen, Patienten, Angehörigen und Pflegepersonal festlegen
+      - die Forschungspraxis über Teams hinweg absichern und zu Forschung mit hohem Risiko beraten
+      - die Forschungspraxis gegenüber Ethik-, Schutz- und Governance-Gremien vertreten
+pd-safety-critical-design:
+  name: Gestaltung für klinische Sicherheit und Human Factors
+  description: Dienste, Oberflächen und Arbeitsabläufe gestalten, die klinischem Personal, Pflegepersonal und Patientinnen und Patienten helfen, sicher zu handeln, durch Anwendung von Human-Factors-Prinzipien und die Zusammenarbeit mit dem Prozess des klinischen Risikomanagements.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, wie Entwurfsentscheidungen Fehler in der Versorgung verursachen oder verhindern können, etwa Verwechslungen von Patientin oder Patient oder Dosis
+      - die Muster der Organisation für sicherheitskritische Informationen nutzen, etwa Banner zur Patientenidentität und Allergiewarnungen
+    working: |
+      Sie können:
+      - Oberflächen so gestalten, dass die sichere Handlung die einfache ist, zum Beispiel durch weniger mehrdeutige Beschriftungen und unnötige Warnungen
+      - Entwürfe in realistischen klinischen Szenarien testen, auch mit Unterbrechungen und Zeitdruck
+      - entwurfsbedingte Gefährdungen bei der oder dem Beauftragten für klinische Sicherheit ansprechen und festhalten, wie Entwürfe sie kontrollieren
+    practitioner: |
+      Sie können:
+      - Methoden der Human Factors wie Aufgabenanalyse und Fehlgebrauchsanalyse auf komplexe klinische Arbeitsabläufe anwenden
+      - so gestalten, dass Warnmüdigkeit und kognitive Belastung in einem ganzen Dienst sinken
+      - Entwurfsbelege für klinische Sicherheitsnachweise und Gebrauchstauglichkeitsbelege für regulierte Software liefern
+    expert: |
+      Sie können:
+      - die Standards und Muster der Organisation für sicherheitskritisches Design festlegen
+      - Human-Factors-Arbeit an den klinischen Diensten mit dem höchsten Risiko leiten
+      - die Leitungen von klinischer Sicherheit und Produkt zu entwurfsbedingten Risiken im Portfolio beraten
+pd-health-content:
+  name: Gesundheitsinformationsinhalte
+  description: Gesundheits- und Pflegeinhalte erstellen, die genau, klinisch abgesichert und für Menschen mit unterschiedlicher Gesundheitskompetenz leicht zu verstehen und umzusetzen sind.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, warum Gesundheitsinformationen genau, aktuell und leicht verständlich sein müssen
+      - den Styleguide des Teams und den Prozess der klinischen Prüfung für Gesundheitsinhalte befolgen
+    working: |
+      Sie können:
+      - Gesundheitsinhalte schreiben, die Menschen mit geringer Gesundheitskompetenz verstehen und umsetzen können, etwa zu Symptomen und wann Hilfe zu holen ist
+      - mit klinischen Prüfenden die Richtigkeit abstimmen, ohne Klarheit zu verlieren
+      - medizinische Begriffe in einfacher Sprache erklären und einheitliche Bezeichnungen für Erkrankungen, Untersuchungen und Behandlungen nutzen
+    practitioner: |
+      Sie können:
+      - Inhalte für sensible und risikoreiche Themen gestalten, etwa dringende Symptome, Arzneimittel und Versorgung am Lebensende
+      - klinische Absicherung, Überprüfungsdaten und Evidenzquellen für einen Bestand an Gesundheitsinhalten aufbauen
+      - klinische Präzision, rechtliche Anforderungen und Nutzerverständnis in umstrittenen Inhalten abwägen
+    expert: |
+      Sie können:
+      - die Standards der Organisation für Gesundheitsinformationsinhalte und deren klinische Absicherung festlegen
+      - die Content-Strategie für Gesundheitsinformationen über Dienste und Kanäle hinweg leiten
+      - leitende klinische und Kommunikationsleitungen zu Risiken von Gesundheitsinformationen beraten

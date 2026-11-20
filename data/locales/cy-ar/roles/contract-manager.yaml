@@ -1,0 +1,57 @@
+summary: >
+  Mae rheolwyr contractau'n sicrhau bod y sefydliad yn cael yr hyn y mae'n talu amdano ar ôl i gontract gael ei
+  lofnodi. Maen nhw'n rheoli perfformiad cyflenwyr, taliadau, newidiadau, anghydfodau, adnewyddiadau, ac ymadael, ac
+  yn meithrin perthnasoedd â chyflenwyr allweddol. Mewn sefydliad gofal iechyd digidol mae llawer o'r contractau
+  pwysicaf ar gyfer systemau clinigol, lletya cwmwl, a gwasanaethau technoleg y mae cleifion a staff yn dibynnu
+  arnynt bob dydd.
+health_context:
+  - Gall toriadau neu fethiannau mewn systemau clinigol effeithio ar ofal cleifion, felly mae rheolwyr contractau'n monitro argaeledd, ymateb i ddigwyddiadau, a lefelau cymorth yn ofalus ac yn defnyddio rhwymedïau contract pan fo angen.
+  - Mae cyflenwyr yn aml yn prosesu data cleifion, felly caiff contractau eu rheoli gyda chydweithwyr llywodraethiant gwybodaeth a diogelwch, gan gynnwys telerau diogelu data, archwiliadau, ac ymdrin ag achosion o dor diogelwch.
+  - Mae'n rhaid cynllunio ymadael a dychwelyd data o'r dechrau, fel y gall cofnodion cleifion symud i system newydd mewn fformat defnyddiadwy a bod hen gopïau'n cael eu dileu'n ddiogel.
+  - Mae'n rhaid i newidiadau i gontractau ddilyn rheolau caffael cyhoeddus, felly mae rheolwyr contractau'n gwirio a oes angen caffaeliad newydd ar gyfer newid.
+  - Gall rhyddhadau cyflenwyr newid sut mae system glinigol yn ymddwyn, felly mae rheolwyr contractau'n sicrhau bod cyflenwyr yn bodloni rhwymedigaethau diogelwch clinigol.
+levels:
+  - title: Rheolwr contractau
+    slug: rheolwr-contractau
+    summary: Yn rheoli portffolio o gontractau, gan gynnwys contractau technoleg a systemau clinigol, o'u cychwyn i'w hadnewyddu, gan weithio o fewn y fframwaith rheoli contractau. Gelwir hefyd yn swyddog contractau.
+    responsibilities:
+      - Rheoli portffolio o gontractau, gan gadw'r gofrestr contractau, dogfennau, a dyddiadau allweddol yn gyfredol.
+      - Rhedeg adolygiadau perfformiad rheolaidd gyda chyflenwyr, gan ddefnyddio lefelau gwasanaeth a dangosyddion perfformiad allweddol.
+      - Gwirio anfonebau yn erbyn telerau contract a datrys anghydfodau bilio.
+      - Negodi a phrosesu newidiadau ac amrywiadau i gontractau o fewn y rheolau caffael.
+      - Olrhain defnydd trwyddedau, adnewyddiadau, a chyfnodau rhybudd, a chynllunio adnewyddiadau ac ail-gaffaeliadau ar draws y portffolio.
+      - Cadw cynlluniau ymadael a chofrestrau data'n gyfredol ar gyfer pob contract.
+      - Gweithio gyda chydweithwyr llywodraethiant gwybodaeth a diogelwch ar wiriadau diogelu data a diogelwch cyflenwyr.
+    qualifications:
+      - Cymhwyster caffael neu reoli contractau cydnabyddedig ar lefel uwch, neu brofiad cyfatebol.
+      - Profiad o reoli contractau gwasanaeth, yn ddelfrydol ar gyfer technoleg.
+    job_evaluation_notes: Mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 7. Mae dadansoddi ar lefel 5 am farnau ar delerau contract cymhleth ac anghydfodau, mae cynllunio ar lefel 4 am adnewyddiadau ar draws y portffolio, ac mae adnoddau ariannol ar lefel 4 gan fod y swydd yn rheoli gwariant portffolio o gontractau gwasanaeth.
+  - title: Uwch reolwr contractau
+    slug: uwch-reolwr-contractau
+    summary: Yn rheoli contractau strategol a risg uchel y sefydliad, fel y cofnod electronig am gleifion a lletya cwmwl, ac yn arwain perthnasoedd â chyflenwyr allweddol.
+    responsibilities:
+      - Rheoli contractau strategol ar gyfer systemau clinigol a gwasanaethau technoleg, gan gynnwys cychwyn contractau newydd.
+      - Arwain adolygiadau strategol gyda chyflenwyr allweddol, sy'n cwmpasu perfformiad, map ffordd, risgiau, a chynlluniau gwella.
+      - Defnyddio rhwymedïau contract, fel credydau gwasanaeth a chynlluniau adfer, pan fo perfformiad yn brin.
+      - Negodi amrywiadau i gontractau, adnewyddiadau, a setlo anghydfodau.
+      - Ysgrifennu a phrofi cynlluniau ymadael a phontio, gan gynnwys dychwelyd data mewn fformatau safonol a dileu diogel.
+      - Asesu risgiau cyflenwyr, fel iechyd ariannol, seiberddiogelwch, a'r gadwyn gyflenwi, a chynllunio ar gyfer methiant cyflenwyr.
+      - Hyfforddi a goruchwylio rheolwyr contractau.
+    qualifications:
+      - Cymhwyster caffael neu reoli contractau cydnabyddedig ar lefel uwch, neu radd meistr mewn pwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad sylweddol o reoli contractau technoleg strategol neu wasanaethau a ddarperir gan gyflenwyr allanol.
+    job_evaluation_notes: Mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8a. Caiff gwybodaeth, dadansoddi, a rhyddid i weithredu eu sgorio ar broffil Band 8a gan fod y swydd yn rheoli contractau strategol y sefydliad heb fawr o oruchwyliaeth. Mae adnoddau ariannol ar lefel 4 gan fod y swydd yn rheoli gwariant ac asedau contractau gwasanaeth gwerth uchel.
+  - title: Rheolwr contractau arweiniol
+    slug: rheolwr-contractau-arweiniol
+    summary: Yn arwain rheoli contractau a chyflenwyr ar draws y sefydliad, gan osod y fframwaith rheoli contractau a rheoli'r tîm contractau.
+    responsibilities:
+      - Gosod fframwaith, safonau, ac offer rheoli contractau'r sefydliad.
+      - Arwain y tîm rheoli contractau a'i bortffolio o gontractau.
+      - Arwain y gwaith o reoli'r perthnasoedd mwyaf hanfodol â chyflenwyr a datrys anghydfodau mawr.
+      - Gosod safonau ar gyfer cynllunio ymadael a dychwelyd data, ac arwain ymadael o gontractau strategol.
+      - Adrodd ar berfformiad contractau, risg cyflenwyr, ac arbedion i bwyllgorau gweithredol.
+      - Cynghori ar derfynu, ail-gaffael, a methiant cyflenwyr.
+    qualifications:
+      - Cymhwyster caffael neu reoli contractau cydnabyddedig ar lefel uwch, neu radd meistr mewn pwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad helaeth o arwain rheoli contractau ar gyfer gwasanaethau cymhleth.
+    job_evaluation_notes: Mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8b. Mae cynllunio ar lefel 5 am y fframwaith rheoli contractau ar draws y sefydliad, mae adnoddau ariannol ar lefel 5 gan fod y swydd yn goruchwylio contractau ar draws llawer o wasanaethau, ac mae pobl ar lefel 4 gan ei bod yn rheoli'r tîm contractau'n llinell.

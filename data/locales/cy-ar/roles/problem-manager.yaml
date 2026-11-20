@@ -1,0 +1,35 @@
+summary: >
+  Mae rheolwyr problemau'n dod o hyd i achosion sylfaenol digwyddiadau ac yn eu trwsio, fel bod diffygion yn
+  peidio â digwydd eto. Maen nhw'n dadansoddi data digwyddiadau, yn cynnal ymchwiliadau i achosion sylfaenol, yn
+  cofnodi gwallau hysbys a ffyrdd o weithio o'u hamgylch, ac yn olrhain atgyweiriadau gyda thimau technegol a
+  chyflenwyr. Mewn gofal iechyd, mae diffygion ailadroddus mewn systemau clinigol yn gwastraffu amser clinigol, yn
+  erydu ymddiriedaeth, a gallant greu risgiau i ddiogelwch cleifion, felly mae'n bwysig cael gwared arnynt.
+health_context:
+  - Mae diffygion bach ailadroddus, fel mewngofnodi araf neu fethiannau argraffu ar wardiau, yn adio i amser clinigol a gollwyd, felly mae rheolwyr problemau'n chwilio am batrymau yn ogystal â methiannau mawr.
+  - Mae rhai problemau'n creu peryglon diogelwch clinigol, fel canlyniadau nad ydynt yn cyrraedd y clinigydd cywir, ac maen nhw'n cael eu hasesu gyda'r swyddog diogelwch clinigol.
+  - Mae ymchwiliadau i achosion sylfaenol yn aml yn cynnwys cyflenwyr systemau clinigol, ac maen nhw'n cael eu rheoli drwy gontractau a lefelau gwasanaeth.
+  - Mae'n rhaid i ffyrdd o weithio o amgylch problemau mewn systemau clinigol fod yn ddiogel ac wedi'u hegluro'n glir i staff clinigol.
+levels:
+  - title: Dadansoddwr problemau
+    slug: dadansoddwr-problemau
+    responsibilities:
+      - Dadansoddi data digwyddiadau i ddod o hyd i ddiffygion a thueddiadau ailadroddus ar draws gwasanaethau clinigol a chorfforaethol.
+      - Cofnodi problemau, gwallau hysbys, a ffyrdd o weithio o'u hamgylch yn yr offeryn rheoli gwasanaethau.
+      - Cefnogi ymchwiliadau i achosion sylfaenol drwy gasglu logiau, llinellau amser, a thystiolaeth arall.
+      - Olrhain camau gweithredu gyda thimau technegol a chyflenwyr hyd nes bod atgyweiriadau yn eu lle.
+      - Gwirio bod ffyrdd o weithio o amgylch problemau mewn systemau clinigol yn ddiogel ac wedi'u hegluro'n glir i ddefnyddwyr.
+    qualifications:
+      - Profiad o gymorth neu weithrediadau TG.
+      - Cymhwyster sylfaen rheoli gwasanaethau TG, neu brofiad cyfatebol.
+  - title: Rheolwr problemau
+    slug: rheolwr-problemau
+    responsibilities:
+      - Rhedeg y broses rheoli problemau ar draws gwasanaethau'r sefydliad.
+      - Arwain dadansoddiad o achosion sylfaenol ar ôl digwyddiadau mawr ac ar gyfer diffygion ailadroddus, gan ddefnyddio technegau strwythuredig.
+      - Blaenoriaethu problemau yn ôl eu heffaith ar ofal cleifion, amser staff, a risg gwasanaeth.
+      - Asesu problemau a allai greu peryglon i ddiogelwch cleifion gyda'r swyddog diogelwch clinigol.
+      - Dal timau technegol a chyflenwyr i gyfrif am atgyweiriadau parhaol, ac adrodd ar gynnydd i arweinwyr gwasanaethau.
+      - Gweithio gyda rheolwyr digwyddiadau mawr i sicrhau bod gwersi o ddigwyddiadau'n arwain at newid.
+    qualifications:
+      - Profiad sylweddol o reoli problemau neu ddigwyddiadau, ar lefel sy'n cyfateb i radd.
+      - Cymhwyster rheoli gwasanaethau TG canolradd, neu brofiad cyfatebol.

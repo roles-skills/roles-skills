@@ -1,0 +1,63 @@
+summary: >
+  Mae rheolwyr cynnyrch yn sicrhau bod cynhyrchion iechyd digidol y sefydliad yn diwallu anghenion cleifion,
+  clinigwyr, a staff gofal ac yn sicrhau gwerth i'r system iechyd a gofal. Maen nhw'n gosod gweledigaeth a map
+  ffordd y cynnyrch, yn blaenoriaethu gwaith timau amlddisgyblaethol gan ddefnyddio tystiolaeth, ac yn atebol am
+  y canlyniadau y mae eu cynhyrchion yn eu cyflawni, gan gynnwys eu heffaith ar ofal.
+health_context:
+  - Gall penderfyniadau cynnyrch effeithio ar ddiogelwch cleifion, felly mae rheolwyr cynnyrch yn berchen ar risg glinigol eu cynnyrch gyda'r swyddog diogelwch clinigol ac yn sicrhau bod peryglon yn cael eu rheoli cyn rhyddhau.
+  - Mae cynhyrchion yn gwasanaethu llawer o grwpiau defnyddwyr ag anghenion gwahanol, fel cleifion, gofalwyr, clinigwyr, a staff gweinyddol, ac mae'n rhaid i reolwyr cynnyrch eu cydbwyso'n deg.
+  - Gall rhai cynhyrchion gael eu rheoleiddio fel dyfeisiau meddygol, felly mae angen i reolwyr cynnyrch wybod pryd mae rheoleiddio'n berthnasol a chynllunio ar ei gyfer.
+  - Mae canlyniadau mewn gofal yn cynnwys diogelwch, ansawdd, mynediad, tegwch, ac amser staff, felly mae rheolwyr cynnyrch yn diffinio mesurau llwyddiant y mae arweinwyr clinigol a gweithredol yn eu hadnabod.
+  - Mae cynhyrchion yn aml yn dibynnu ar safonau data iechyd cenedlaethol a rhanbarthol a llwyfannau a rennir, felly mae rheolwyr cynnyrch yn gweithio ar draws ffiniau sefydliadol.
+levels:
+  - title: Rheolwr cynnyrch cyswllt
+    slug: rheolwr-cynnyrch-cyswllt
+    responsibilities:
+      - Bod yn berchen ar y ôl-groniad ar gyfer nodwedd neu ran o gynnyrch, gan weithio gyda rheolwr cynnyrch.
+      - Troi tystiolaeth o ymchwil defnyddwyr gyda chleifion, clinigwyr, a staff gofal yn straeon defnyddwyr wedi'u blaenoriaethu.
+      - Gweithio gyda swyddogion diogelwch clinigol i gofnodi ac adolygu peryglon ar gyfer y nodweddion rydych chi'n berchen arnynt.
+      - Olrhain mesurau cynnyrch, fel defnydd, cyfraddau cwblhau, a galwadau cymorth, ac adrodd ar yr hyn y maent yn ei ddangos.
+      - Cynrychioli'r cynnyrch mewn sioeau a dweud a gyda rhanddeiliaid gweithredol.
+    qualifications:
+      - Profiad mewn rôl ddigidol, glinigol, neu weithredol, neu brofiad cyfatebol.
+  - title: Rheolwr cynnyrch
+    slug: rheolwr-cynnyrch
+    responsibilities:
+      - Gosod gweledigaeth, map ffordd, a mesurau llwyddiant cynnyrch iechyd digidol.
+      - Blaenoriaethu gwaith y tîm, gan gydbwyso anghenion defnyddwyr, diogelwch clinigol, polisi, cyfyngiadau technegol, a chost.
+      - Derbyn risg glinigol ar gyfer newidiadau i'r cynnyrch gyda'r swyddog diogelwch clinigol, ac atal rhyddhau nad yw'n ddiogel.
+      - Gweithio gydag arweinwyr clinigol a gweithredol i sicrhau bod y cynnyrch yn ffitio llwybrau gofal ac yn cael ei fabwysiadu.
+      - Sicrhau bod y cynnyrch yn bodloni safonau hygyrchedd, llywodraethiant gwybodaeth, a gwasanaeth.
+      - Mesur canlyniadau'r cynnyrch, gan gynnwys ei fuddion i gleifion a staff.
+    qualifications:
+      - Profiad sylweddol o reoli cynnyrch neu o rôl ddigidol gysylltiedig.
+  - title: Uwch reolwr cynnyrch
+    slug: uwch-reolwr-cynnyrch
+    responsibilities:
+      - Arwain grŵp o gynhyrchion cysylltiedig, neu un cynnyrch sy'n gymhleth, yn risg uchel, neu'n sensitif, fel un a ddefnyddir mewn gofal brys.
+      - Llunio strategaeth cynnyrch o dystiolaeth am anghenion cleifion, ymarfer clinigol, a pholisi iechyd a gofal.
+      - Sicrhau bod y cynnyrch yn bodloni rheoliadau dyfeisiau meddygol lle maent yn berthnasol.
+      - Rheoli cyllideb y cynnyrch a gwneud yr achos dros fuddsoddi gyda buddion i ofal.
+      - Hyfforddi a rheoli rheolwyr cynnyrch yn llinell.
+    qualifications:
+      - Profiad helaeth o reoli cynhyrchion digidol drwy eu cylch bywyd cyfan.
+  - title: Rheolwr cynnyrch arweiniol
+    slug: rheolwr-cynnyrch-arweiniol
+    responsibilities:
+      - Arwain portffolio cynnyrch neu wasanaeth o'r dechrau i'r diwedd, fel yr holl gynhyrchion sy'n cefnogi un llwybr gofal.
+      - Gosod cyfeiriad cynnyrch ar draws sawl tîm a sicrhau bod cynhyrchion yn gweithio gyda'i gilydd i gleifion a staff.
+      - Gweithio gydag arweinwyr clinigol a'r swyddog diogelwch clinigol i reoli risg glinigol ar draws y portffolio.
+      - Dal cyllideb y portffolio ac adrodd ar fuddion i uwch fyrddau llywodraethiant.
+      - Arwain a datblygu rheolwyr cynnyrch yn y maes cynnyrch.
+    qualifications:
+      - Profiad helaeth o arwain cynhyrchion ar draws sawl tîm.
+  - title: Pennaeth cynnyrch
+    slug: pennaeth-cynnyrch
+    responsibilities:
+      - Gosod strategaeth cynnyrch y sefydliad, gan weithio gydag arweinwyr gweithredol, clinigol, a gweithrediadol.
+      - Gosod a chodi safonau ar gyfer rheoli cynnyrch, gan gynnwys sut mae cynhyrchion yn rheoli risg glinigol ac yn mesur canlyniadau.
+      - Arwain y proffesiwn cynnyrch, gan gynnwys recriwtio, llwybrau gyrfa, a meithrin gallu.
+      - Penderfynu ar flaenoriaethau buddsoddi ar draws cynhyrchion, gan ddefnyddio tystiolaeth o angen, gwerth, a thegwch.
+      - Cynrychioli cynhyrchion y sefydliad gyda phartneriaid ar draws y system iechyd a gofal.
+    qualifications:
+      - Profiad helaeth o arwain rheoli cynnyrch ar draws sefydliad.

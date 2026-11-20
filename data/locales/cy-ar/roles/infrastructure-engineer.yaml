@@ -1,0 +1,70 @@
+summary: >
+  Mae peirianwyr seilwaith yn dylunio, yn adeiladu, yn rhedeg, ac yn cefnogi'r rhwydweithiau, y gweinyddion, y
+  storfeydd, y llwyfannau cwmwl, a'r lletya y mae gwasanaethau digidol y sefydliad yn dibynnu arnynt. Maen nhw'n
+  cadw'r seilwaith hwn ar gael, yn ddiogel, ac yn adferadwy, ac yn gweithio gyda chyflenwyr a phenseiri i'w newid
+  yn ddiogel. Mewn gofal iechyd, gall un methiant seilwaith atal systemau clinigol ar draws ysbytai a
+  gwasanaethau cymunedol ar unwaith.
+health_context:
+  - Mae angen argaeledd uchel iawn ar systemau clinigol, felly mae seilwaith wedi'i ddylunio ar gyfer gwydnwch ac mae newidiadau'n cael eu cynllunio o amgylch gweithgarwch clinigol.
+  - Mae peirianwyr yn cymryd rhan mewn rotâu ar alwad, gan y gall diffygion seilwaith yn y nos neu ar benwythnosau atal gofal cleifion.
+  - Mae rhwydweithiau'n cysylltu dyfeisiau meddygol, fel pympiau trwytho, monitorau cleifion, ac offer delweddu, sydd angen segmentu rhwydwaith a newid gofalus yn dilyn IEC 80001-1.
+  - Mae gofal iechyd yn darged aml ar gyfer meddalwedd wystlo, felly mae'n rhaid diogelu copïau wrth gefn, eu profi, a gallu eu hadfer o fewn amseroedd adfer y cytunwyd arnynt.
+  - Mae seilwaith yn aml yn cymysgu technoleg hen a newydd, gan gynnwys systemau clinigol etifeddol na ellir eu patsio'n hawdd, felly mae peirianwyr yn rhoi mesurau rheoli cydadferol ar waith.
+levels:
+  - title: Peiriannydd seilwaith cyswllt
+    slug: peiriannydd-seilwaith-cyswllt
+    responsibilities:
+      - Cefnogi peirianwyr seilwaith gyda thasgau arferol, fel adeiladu gweinyddion, gwirio copïau wrth gefn, a newidiadau rhwydwaith.
+      - Monitro seilwaith a rhoi gwybod am rybuddion a diffygion i'r tîm cywir.
+      - Dilyn gweithdrefnau newid, diogelwch, a llywodraethiant gwybodaeth ym mhob gwaith.
+      - Cofnodi manylion ffurfweddiad ac asedau'n gywir.
+      - Gweithio tuag at brentisiaeth seilwaith neu gymhwyster cyfatebol.
+    qualifications:
+      - Wedi cofrestru ar brentisiaeth seilwaith neu rwydweithio neu gyfatebol, neu'n gweithio tuag ati.
+    job_evaluation_notes: Caiff gwybodaeth ei sgorio ar y lefel sydd ei hangen ar y swydd unwaith y bydd yr hyfforddiant yn ddigon cyflawn i wneud y gwaith.
+  - title: Peiriannydd seilwaith
+    slug: peiriannydd-seilwaith
+    responsibilities:
+      - Adeiladu, ffurfweddu, a chynnal y gweinyddion, y storfeydd, y rhwydweithiau, a'r gwasanaethau cwmwl sy'n lletya systemau clinigol a chorfforaethol.
+      - Patsio seilwaith yn brydlon, gan gydbwyso risg diogelwch yn erbyn yr angen i gadw systemau clinigol ar gael.
+      - Rhedeg a phrofi copïau wrth gefn ac adferiadau, gan gynnwys ar gyfer systemau clinigol hanfodol.
+      - Cefnogi rhwydweithiau wedi'u segmentu ar gyfer dyfeisiau meddygol ac offer clinigol arall, gan weithio gyda thimau peirianneg glinigol.
+      - Ymchwilio i ddiffygion seilwaith a'u trwsio, gan gynnwys fel rhan o'r rota ar alwad.
+      - Awtomeiddio tasgau arferol gan ddefnyddio sgriptiau a seilwaith fel cod.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu bwnc cysylltiedig, ardystiadau technegol perthnasol, neu brofiad cyfatebol.
+      - Profiad o gefnogi seilwaith cynhyrchu.
+    job_evaluation_notes: Mae ymdrech feddyliol yn adlewyrchu canolbwyntio hir aml ar ddiffygion anrhagweladwy, gan gynnwys gwaith ar alwad y tu allan i oriau.
+  - title: Uwch beiriannydd seilwaith
+    slug: uwch-beiriannydd-seilwaith
+    responsibilities:
+      - Dylunio ac adeiladu datrysiadau seilwaith o ddyluniadau penseiri, gyda'r gwydnwch sydd ei angen ar wasanaethau clinigol.
+      - Cynllunio ac arwain newidiadau seilwaith mawr, fel symud canolfannau data, adnewyddu rhwydweithiau, a mudo i'r cwmwl, o amgylch gweithgarwch clinigol.
+      - Dylunio a phrofi adfer ar ôl trychineb ac adfer ar ôl meddalwedd wystlo ar gyfer systemau clinigol hanfodol.
+      - Arwain yr ymateb technegol i ddigwyddiadau seilwaith a sbarduno atgyweiriadau ar gyfer eu hachosion.
+      - Rheoli mesurau rheoli cydadferol ar gyfer systemau etifeddol a dyfeisiau meddygol na ellir eu patsio.
+      - Arwain a hyfforddi peirianwyr seilwaith.
+    qualifications:
+      - Profiad sylweddol o ddylunio a rhedeg seilwaith cynhyrchu, ar lefel sy'n cyfateb i ddiploma ôl-raddedig.
+    job_evaluation_notes: Mae ymdrech feddyliol yn adlewyrchu canolbwyntio hir aml yn ystod digwyddiadau a newidiadau cymhleth, gan gynnwys y tu allan i oriau.
+  - title: Peiriannydd seilwaith arweiniol
+    slug: peiriannydd-seilwaith-arweiniol
+    responsibilities:
+      - Arwain y seilwaith ar gyfer llwyfan mawr neu grŵp o wasanaethau, a gosod ei gyfeiriad technegol.
+      - Rheoli cyflenwyr seilwaith trydydd parti, a'u dal i lefelau gwasanaeth ar gyfer argaeledd ac adfer.
+      - Goruchwylio rhaglenni seilwaith, fel adnewyddu rhwydweithiau neu symud i letya cwmwl.
+      - Sicrhau bod seilwaith yn bodloni safonau diogelwch, llywodraethiant gwybodaeth, a rhwydweithiau dyfeisiau meddygol.
+      - Arwain timau seilwaith a datblygu eu sgiliau.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg seilwaith ar gyfer gwasanaethau cymhleth ag argaeledd uchel.
+    job_evaluation_notes: Mae UK GDaD PCF yn awgrymu Band 8b ar gyfer peirianwyr seilwaith arweiniol a phennaf. Mae'r cyfeirlyfr hwn yn rhoi'r arweinydd ar Fand 8a, fel bod y ddwy lefel mewn bandiau gwahanol, yn unol â rolau arweiniol a phennaf mewn teuluoedd technegol eraill.
+  - title: Prif beiriannydd seilwaith
+    slug: prif-beiriannydd-seilwaith
+    responsibilities:
+      - Datblygu strategaeth a mapiau ffordd y seilwaith, fel bod buddsoddiad yn darparu lletya gwydn, diogel, a chynaliadwy ar gyfer gwasanaethau clinigol.
+      - Bod yn berchen ar berthnasoedd gweithredol â chyflenwyr seilwaith a rhwydweithiau strategol.
+      - Cynghori uwch arweinwyr ar risg seilwaith, gan gynnwys technoleg ar ddiwedd ei hoes, pwyntiau methiant unigol, a seibergadernid.
+      - Gosod amcanion amser adfer a phwynt adfer ar gyfer systemau clinigol gyda pherchnogion gwasanaethau, a sicrhau y gall seilwaith eu bodloni.
+      - Arwain y proffesiwn peirianneg seilwaith ar draws y sefydliad a datblygu ei allu.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg seilwaith ar draws sawl tîm neu sefydliad.

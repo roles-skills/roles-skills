@@ -1,0 +1,81 @@
+summary: >
+  Dadansoddwyr desg gwasanaeth yw'r pwynt cyswllt cyntaf i staff sydd angen help gyda gwasanaethau digidol y
+  sefydliad, o broblemau mewngofnodi a chardiau clyfar i ddiffygion mewn systemau a dyfeisiau clinigol. Maen
+  nhw'n cofnodi, yn brysbennu, yn datrys, neu'n uwchgyfeirio digwyddiadau a cheisiadau, yn rhoi'r wybodaeth
+  ddiweddaraf i ddefnyddwyr, ac yn sylwi ar batrymau sy'n awgrymu problemau ehangach. Mewn llawer o sefydliadau
+  gofal iechyd mae'r ddesg gwasanaeth yn rhedeg drwy'r dydd a'r nos, gan fod gwasanaethau clinigol yn gwneud
+  hynny.
+health_context:
+  - Mae galwyr yn aml yn glinigwyr a staff gofal yng nghanol gofal cleifion, felly mae'r ddesg yn blaenoriaethu yn ôl yr effaith ar gleifion, nid yn ôl trefn cyrraedd yn unig.
+  - Mae llawer o wasanaethau clinigol yn rhedeg 24 awr y dydd, bob dydd, felly mae'r ddesg gwasanaeth yn aml yn gweithio sifftiau a rotâu y tu allan i oriau.
+  - Mae mynediad at systemau clinigol yn defnyddio mynediad yn seiliedig ar rôl a dilysu cryf, felly mae'r ddesg yn ymdrin â phroblemau cyfrifon, cardiau clyfar, a dilysu aml-ffactor gan wirio hunaniaeth yn ofalus.
+  - Gall galwyr rannu gwybodaeth gyfrinachol am gleifion wrth ddisgrifio diffyg, felly mae dadansoddwyr yn dilyn rheolau llywodraethiant gwybodaeth ar gyfer yr hyn maen nhw'n ei gofnodi mewn tocynnau.
+  - Y ddesg yn aml yw'r cyntaf i weld arwyddion o ddigwyddiad mawr neu ymosodiad seiber, fel llawer o alwadau am yr un system neu don o e-byst amheus, ac mae'n rhaid iddi eu huwchgyfeirio'n gyflym.
+levels:
+  - title: Dadansoddwr desg gwasanaeth
+    slug: dadansoddwr-desg-gwasanaeth
+    summary: Mae dadansoddwr desg gwasanaeth yn ateb galwadau a thocynnau gan staff, yn datrys problemau cyffredin ar y cyswllt cyntaf gan ddefnyddio sgriptiau ac erthyglau gwybodaeth, ac yn trosglwyddo problemau eraill i'r tîm cywir.
+    responsibilities:
+      - Ateb galwadau, sgyrsiau, a thocynnau hunanwasanaeth gan staff, a chofnodi pob un yn gywir yn yr offeryn rheoli gwasanaethau.
+      - Datrys problemau cyffredin ar y cyswllt cyntaf gan ddefnyddio sgriptiau ac erthyglau gwybodaeth, fel ailosod cyfrineiriau, datgloi cyfrifon, a diffygion argraffwyr.
+      - Gwirio hunaniaeth y galwr cyn newid cyfrifon neu fynediad, gan ddilyn gweithdrefnau'r sefydliad.
+      - Gofyn sut mae'r broblem yn effeithio ar ofal cleifion, gosod y flaenoriaeth, a throsglwyddo'r digwyddiad i'r tîm datrys cywir.
+      - Rhoi'r wybodaeth ddiweddaraf i ddefnyddwyr am eu tocynnau a chadarnhau bod yr ateb yn gweithio cyn eu cau.
+      - Cofnodi'r wybodaeth sydd ei hangen yn unig mewn tocynnau, heb fanylion cleifion diangen.
+    qualifications:
+      - Cymhwyster lefel 3 mewn TG, prentisiaeth cymorth TG, neu brofiad cyfatebol.
+      - Sgiliau gwasanaeth cwsmeriaid a bysellfwrdd da, a enillwyd drwy waith neu astudio.
+    job_evaluation_notes: Mae UK GDaD PCF yn awgrymu Band 4 ar gyfer y lefel hon. Mae'r cyfeirlyfr hwn yn dechrau gwaith desg gwasanaeth llinell gyntaf wedi'i sgriptio ar Fand 3, ac yn rhoi dadansoddwyr sy'n datrys diffygion mwy cymhleth ar Fand 4. Mae ymdrech feddyliol yn adlewyrchu canolbwyntio aml ar alwadau anrhagweladwy; mae ymdrech emosiynol yn adlewyrchu galwadau aml gan staff dan bwysau mewn ardaloedd clinigol.
+  - title: Dadansoddwr desg gwasanaeth technegol
+    slug: dadansoddwr-desg-gwasanaeth-technegol
+    summary: Mae dadansoddwr desg gwasanaeth technegol yn datrys diffygion mwy cymhleth ar y cyswllt cyntaf, gan gynnwys atgyweiriadau o bell i ddyfeisiau a mynediad at systemau clinigol, ac yn ymdrin â galwadau brys o ardaloedd clinigol.
+    responsibilities:
+      - Datrys digwyddiadau a cheisiadau mwy cymhleth o bell, gan gynnwys diffygion dyfeisiau, meddalwedd, a mynediad at systemau clinigol.
+      - Ymdrin â galwadau brys o ardaloedd clinigol, fel adrannau brys, wardiau, a theatrau, a dechrau'r broses digwyddiad mawr pan fo angen.
+      - Prosesu ceisiadau am fynediad at systemau clinigol, gan eu gwirio yn erbyn rheolau mynediad yn seiliedig ar rôl.
+      - Ysgrifennu a gwella erthyglau gwybodaeth fel y gellir datrys mwy o broblemau ar y cyswllt cyntaf.
+      - Sylwi ar alwadau dro ar ôl tro am yr un diffyg a'u codi gyda rheoli digwyddiadau a phroblemau.
+      - Rhoi gwybod i'r tîm diogelwch am e-byst gwe-rwydo a amheuir a digwyddiadau diogelwch eraill.
+      - Dangos i ddadansoddwyr newydd sut i ddefnyddio offer a gweithdrefnau'r ddesg.
+    qualifications:
+      - Profiad o gymorth TG ar ddesg gwasanaeth neu mewn lleoliad tebyg.
+      - Cymhwyster sylfaen rheoli gwasanaethau TG, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae'n defnyddio'r un lefel UK GDaD PCF â'r dadansoddwr Band 3, ar gyfer dadansoddwyr sy'n datrys problemau mwy cymhleth ac yn ymdrin â galwadau clinigol brys. Mae cyfathrebu'n uwch na phroffil y band gan fod dadansoddwyr yn aml yn gorfod egluro materion technegol i staff clinigol prysur.
+  - title: Uwch ddadansoddwr desg gwasanaeth
+    slug: uwch-ddadansoddwr-desg-gwasanaeth
+    responsibilities:
+      - Arwain sifft ar y ddesg gwasanaeth, gan gydbwyso ciwiau galwadau yn erbyn brys clinigol digwyddiadau agored.
+      - Cymryd drosodd galwadau anodd neu wedi'u huwchgyfeirio, gan gynnwys galwadau gan uwch glinigwyr yn ystod gofal brys.
+      - Cadw sgriptiau ac erthyglau gwybodaeth yn gywir wrth i systemau a dyfeisiau clinigol newid.
+      - Gweithredu fel pwynt uwchgyfeirio'r ddesg y tu allan i oriau, a dechrau'r broses digwyddiad mawr pan fo llawer o ddefnyddwyr yn cael eu heffeithio.
+      - Gwirio ansawdd tocynnau, gan gynnwys gwiriadau hunaniaeth a'r hyn a gofnodir am gleifion.
+      - Cynllunio cyflenwad rota fel bod staff ar y ddesg bob amser.
+    qualifications:
+      - Profiad sylweddol o ddesg gwasanaeth, gan gynnwys ymdrin ag uwchgyfeiriadau.
+      - Cymhwyster rheoli gwasanaethau TG, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae cynllunio'n adlewyrchu cynllunio sifftiau a rotâu ar gyfer desg 24 awr. Mae ymdrech emosiynol yn adlewyrchu galwadau anodd aml gan staff sy'n ymdrin â gofal cleifion brys.
+  - title: Rheolwr desg gwasanaeth
+    slug: rheolwr-desg-gwasanaeth
+    responsibilities:
+      - Rhedeg y ddesg gwasanaeth o ddydd i ddydd, gan sicrhau bod staff arni a'i bod yn ymatebol 24 awr y dydd, bob dydd.
+      - Gosod blaenoriaethau a thargedau ymateb sy'n adlewyrchu risg glinigol, y cytunwyd arnynt gydag arweinwyr clinigol a gweithredol.
+      - Paratoi'r ddesg ar gyfer systemau clinigol newydd a rhai sydd wedi newid, gan gynnwys hyfforddiant, sgriptiau, a chyflenwad ychwanegol wrth fynd yn fyw.
+      - Dadansoddi tueddiadau tocynnau i ddod o hyd i broblemau sy'n dod i'r amlwg, a gweithio gyda rheoli problemau i gael gwared ar eu hachosion.
+      - Sicrhau bod y ddesg yn dilyn gweithdrefnau gwirio hunaniaeth, llywodraethiant gwybodaeth, a diogelwch, ac yn gweithredu ar ganfyddiadau archwiliadau.
+      - Rheoli uwch ddadansoddwyr a dadansoddwyr yn llinell, gan gynnwys recriwtio, perfformiad, a llesiant staff sy'n gweithio sifftiau.
+    qualifications:
+      - Profiad o arwain tîm desg gwasanaeth, gan gynnwys cyflenwad sifftiau neu y tu allan i oriau.
+      - Cymhwyster rheoli gwasanaethau TG canolradd, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae gwybodaeth un lefel islaw proffil y band, fel sy'n arferol ar gyfer rolau desg gwasanaeth; mae cyfrifoldeb am bobl yn uwch gan fod y rheolwr yn rhedeg tîm sy'n gweithio sifftiau.
+  - title: Pennaeth desg gwasanaeth
+    slug: pennaeth-desg-gwasanaeth
+    responsibilities:
+      - Gosod y cyfeiriad ar gyfer y ddesg gwasanaeth, gan gynnwys sianeli cyswllt, hunanwasanaeth, a chymorth i staff sy'n gweithio ar draws safleoedd ac yn y gymuned.
+      - Cytuno ar lefelau gwasanaeth gyda gwasanaethau clinigol a chorfforaethol, ac adrodd ar berfformiad i uwch arweinwyr.
+      - Sicrhau y gall y ddesg barhau i weithio yn ystod digwyddiadau mawr, ymosodiadau seiber, ac amser segur systemau, gyda gweithdrefnau parhad busnes clir.
+      - Cynghori timau prosiect ar sut bydd systemau clinigol a chorfforaethol newydd yn cael eu cefnogi cyn iddynt fynd yn fyw.
+      - Rheoli cyllideb, offer, ac unrhyw gontractau cymorth allanol neu y tu allan i oriau'r ddesg gwasanaeth.
+      - Arwain a datblygu rheolwyr desg gwasanaeth, a meithrin diwylliant cefnogol i staff sy'n gweithio sifftiau.
+    qualifications:
+      - Profiad helaeth o reoli gwasanaethau cymorth TG, gan gynnwys gwasanaethau 24 awr.
+      - Cymhwyster rheoli gwasanaethau TG uwch, neu brofiad cyfatebol.

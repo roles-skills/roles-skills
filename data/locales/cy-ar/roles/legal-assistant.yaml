@@ -1,0 +1,50 @@
+summary: >
+  Mae cynorthwywyr cyfreithiol a pharagyfreithwyr yn cefnogi cyfreithwyr y sefydliad fel bod gwaith cyfreithiol yn
+  drefnus, yn gywir, ac mewn pryd. Maen nhw'n rheoli materion a dogfennau, yn paratoi contractau a bwndeli, yn
+  ymchwilio i gwestiynau cyfreithiol, ac yn ymdrin â thasgau cyfreithiol arferol. Mewn sefydliad gofal iechyd
+  digidol mae llawer o'r gwaith yn ymwneud â chontractau technoleg, cytundebau rhannu data a phrosesu data,
+  ceisiadau am wybodaeth, a hawliadau a allai gynnwys gwybodaeth sensitif am gleifion.
+health_context:
+  - Mae ffeiliau cyfreithiol yn aml yn cynnwys gwybodaeth iechyd gyfrinachol, fel cofnodion clinigol mewn hawliadau, felly mae llywodraethiant gwybodaeth llym yn berthnasol.
+  - Mae llawer o gytundebau ar gyfer meddalwedd, gwasanaethau cwmwl, a rhannu data, felly mae angen i staff adnabod y cymalau sy'n bwysig ar gyfer data cleifion a pharhad gwasanaeth.
+  - Mae terfynau amser mewn hawliadau, cwestau, a heriau caffael yn fyr ac yn sefydlog, a gall eu methu fod yn gostus.
+  - Mae'r sefydliad yn gwario arian cyhoeddus ar gyfreithwyr allanol, felly mae'n rhaid olrhain a rheoli gwariant cyfreithiol.
+levels:
+  - title: Gweinyddwr cyfreithiol
+    slug: gweinyddwr-cyfreithiol
+    summary: Mae gweinyddwyr cyfreithiol yn rhedeg prosesau gweinyddol y tîm cyfreithiol, fel agor materion, rheoli dogfennau, cofrestrau, ac anfonebau, gan ddilyn gweithdrefnau penodol.
+    responsibilities:
+      - Agor, diweddaru, a chau materion yn y system rheoli materion.
+      - Ffeilio, fformatio, ac adfer dogfennau cyfreithiol, gan eu cadw'n ddiogel ac yn gyfrinachol.
+      - Cynnal cofrestrau contractau, gweithredoedd, a llofnodi.
+      - Rheoli dyddiaduron a dyddiadau allweddol, ac atgoffa cyfreithwyr o derfynau amser.
+      - Gwirio a phrosesu anfonebau gan gyfreithwyr allanol.
+      - Ateb ymholiadau arferol a chyfeirio ceisiadau am gyngor cyfreithiol.
+    qualifications:
+      - Sgiliau gweinyddol a bysellfwrdd da, a enillwyd drwy addysg neu brofiad gwaith.
+      - Mae cymhwyster gweinyddu cyfreithiol yn ddefnyddiol ond nid yn hanfodol.
+  - title: Cynorthwyydd cyfreithiol
+    slug: cynorthwyydd-cyfreithiol
+    summary: Mae cynorthwywyr cyfreithiol yn cefnogi cyfreithwyr ar ystod o faterion, gan baratoi dogfennau o dempledi, cynnal ymchwil ddiffiniedig, a rheoli camau ymarferol contractau ac achosion.
+    responsibilities:
+      - Paratoi cytundebau safonol, fel cytundebau peidio â datgelu a chytundebau rhannu data, o dempledi cymeradwy.
+      - Paratoi bwndeli, cronolegau, a phecynnau llofnodi ar gyfer contractau ac achosion.
+      - Cynnal ymchwil gyfreithiol ddiffiniedig a chrynhoi'r canlyniadau i gyfreithwyr.
+      - Casglu dogfennau a thystiolaeth ar gyfer hawliadau a cheisiadau am wybodaeth.
+      - Olrhain gwariant cyfreithiol allanol yn erbyn cyllidebau ac adrodd arno.
+      - Hyfforddi gweinyddwyr cyfreithiol mewn tasgau arferol.
+    qualifications:
+      - Cymhwyster cynorthwyydd cyfreithiol neu baragyfreithiol ar lefel ganolradd, neu brofiad cyfatebol.
+  - title: Paragyfreithiwr
+    slug: paragyfreithiwr
+    summary: Mae paragyfreithwyr yn ymdrin â'u llwyth achosion eu hunain o faterion cyfreithiol arferol dan oruchwyliaeth cyfreithiwr, fel adolygu contractau safonol, ceisiadau am wybodaeth, a chefnogi hawliadau.
+    responsibilities:
+      - Adolygu cytundebau arferol, fel trwyddedau meddalwedd, gwasanaethau, a chytundebau prosesu data, yn erbyn safonau'r sefydliad.
+      - Rheoli llwyth achosion o hawliadau neu anghydfodau arferol, gan baratoi dogfennau a chysylltu â chyfreithwyr allanol a chynlluniau indemniad.
+      - Ymchwilio i gwestiynau cyfreithiol a drafftio cyngor i gyfreithiwr ei adolygu.
+      - Cefnogi ymatebion i geisiadau cymhleth am wybodaeth a cheisiadau am hawliau'r testun data.
+      - Cadw templedi, cynseiliau, a chanllawiau cyfreithiol yn gyfredol.
+      - Cydlynu gwaith cynorthwywyr a gweinyddwyr cyfreithiol.
+    qualifications:
+      - Gradd yn y gyfraith neu gymhwyster paragyfreithiol uwch, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae ymdrech emosiynol ar lefel 2 gan fod y swydd yn darllen cofnodion clinigol a disgrifiadau o niwed mewn hawliadau'n rheolaidd.

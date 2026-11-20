@@ -1,0 +1,72 @@
+summary: >
+  Mae dylunwyr gwasanaethau'n dylunio gwasanaethau iechyd a gofal o'r dechrau i'r diwedd, o'r eiliad y mae
+  rhywun angen help gyntaf i ddiwedd eu gofal, ar draws sianeli digidol, ffôn, papur, ac wyneb yn wyneb. Maen
+  nhw'n gweithio gyda chleifion, gofalwyr, clinigwyr, a staff gofal i fapio sut mae gwasanaethau'n gweithio go
+  iawn, dod o hyd i ble maen nhw'n methu pobl, a dylunio gwasanaethau sy'n ddiogel, yn syml, ac yn deg, ac sy'n
+  gweithio ar draws ffiniau sefydliadol.
+health_context:
+  - Mae llwybrau gofal yn croesi llawer o sefydliadau a phroffesiynau, felly mae dylunwyr gwasanaethau'n mapio teithiau cyfan, gan gynnwys trosglwyddiadau, cyfnodau aros, a'r gwaith y mae cleifion a gofalwyr yn ei wneud i ddal gofal at ei gilydd.
+  - Gall newidiadau i sut mae gwasanaeth yn gweithio greu risgiau clinigol newydd, felly mae dylunwyr gwasanaethau'n gweithio gyda swyddogion diogelwch clinigol i adnabod peryglon mewn modelau gwasanaeth newydd cyn iddynt fynd yn fyw.
+  - Rhaid i wasanaethau digidol beidio â chau allan bobl na allant neu na fyddant yn eu defnyddio, felly mae dylunwyr gwasanaethau'n dylunio llwybrau â chymorth ac annigidol ochr yn ochr â rhai digidol.
+  - Mae staff clinigol a gweithredol yn rhan o'r gwasanaeth, felly mae'n rhaid i ddyluniadau ffitio eu llifoedd gwaith, eu llwyth gwaith, a'u cyfrifoldebau proffesiynol, nid taith y claf yn unig.
+levels:
+  - title: Dylunydd gwasanaethau cyswllt
+    slug: dylunydd-gwasanaethau-cyswllt
+    responsibilities:
+      - Dysgu dulliau dylunio gwasanaethau drwy hyfforddiant a thrwy weithio ochr yn ochr â dylunwyr profiadol.
+      - Helpu i fapio teithiau defnyddwyr a glasbrintiau gwasanaeth o ymchwil gyda chleifion a staff.
+      - Helpu i baratoi a rhedeg gweithdai cyd-ddylunio, gan ddilyn gweithdrefnau cydsyniad a llywodraethiant gwybodaeth.
+      - Dogfennu penderfyniadau dylunio a chadw arteffactau dylunio'n gyfredol.
+    qualifications:
+      - Yn gweithio tuag at gymhwyster neu brentisiaeth mewn dylunio neu faes cysylltiedig, neu brofiad cyfatebol.
+  - title: Dylunydd gwasanaethau iau
+    slug: dylunydd-gwasanaethau-iau
+    responsibilities:
+      - Mapio teithiau presennol a glasbrintiau gwasanaeth ar gyfer rhannau o lwybr gofal, fel trefnu apwyntiadau neu ddilyniant.
+      - Dylunio a phrofi gwelliannau i rannau o wasanaeth, dan gyfarwyddyd dylunydd mwy profiadol.
+      - Rhedeg sesiynau cyd-ddylunio gyda chleifion, gofalwyr, a staff, gan eu haddasu fel y gall pawb gymryd rhan.
+      - Nodi lle mae gwasanaeth yn creu gwaith neu risg ychwanegol i gleifion neu staff, a'i godi gyda'r tîm.
+    qualifications:
+      - Gradd mewn dylunio neu bwnc cysylltiedig, neu brofiad cyfatebol.
+  - title: Dylunydd gwasanaethau
+    slug: dylunydd-gwasanaethau
+    responsibilities:
+      - Dylunio gwasanaethau o'r dechrau i'r diwedd ar draws sianeli, gan gynnwys llwybrau â chymorth ac annigidol i bobl sydd eu hangen.
+      - Mapio llwybrau gofal ar draws sefydliadau a dylunio trosglwyddiadau gwell rhwng timau a gwasanaethau.
+      - Dylunio sut mae'r gwasanaeth yn gweithio i staff, gan gynnwys rolau, llwyth gwaith, a llifoedd gwaith, gydag arweinwyr gweithredol.
+      - Gweithio gyda swyddogion diogelwch clinigol i adnabod peryglon mewn modelau gwasanaeth newydd a dylunio mesurau rheoli.
+      - Creu prototeipiau o newidiadau i wasanaethau a'u profi gyda chleifion, gofalwyr, a staff.
+    qualifications:
+      - Gradd mewn dylunio neu bwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad o ddylunio gwasanaethau gyda defnyddwyr.
+  - title: Uwch ddylunydd gwasanaethau
+    slug: uwch-ddylunydd-gwasanaethau
+    responsibilities:
+      - Arwain dyluniad gwasanaethau cymhleth sy'n rhychwantu sawl lleoliad gofal neu sefydliad.
+      - Llunio gweledigaeth y gwasanaeth gydag arweinwyr clinigol, gweithredol, a digidol.
+      - Dylunio modelau gwasanaeth newydd sy'n gwella diogelwch, mynediad, a thegwch, a'u profi gyda defnyddwyr go iawn.
+      - Sicrhau bod newidiadau i wasanaethau'n cael eu hasesu am effeithiau risg glinigol, cydraddoldeb, a llywodraethiant gwybodaeth.
+      - Mentora dylunwyr a gwreiddio ymarfer dylunio gwasanaethau mewn timau.
+    qualifications:
+      - Profiad sylweddol o ddylunio gwasanaethau, ar lefel sy'n cyfateb i radd meistr.
+  - title: Dylunydd gwasanaethau arweiniol
+    slug: dylunydd-gwasanaethau-arweiniol
+    responsibilities:
+      - Gosod y cyfeiriad dylunio ar gyfer sawl gwasanaeth neu lwybr gofal cyfan, a sicrhau ansawdd dylunio ar draws timau.
+      - Gweithio gydag uwch arweinwyr clinigol a gweithredol i ailddylunio sut mae gofal yn cael ei drefnu a'i ddarparu.
+      - Sicrhau bod dyluniadau'n gweithio i'r bobl yr effeithir arnynt fwyaf gan anghydraddoldebau iechyd ac i staff dan bwysau.
+      - Gosod safonau ar gyfer sut mae timau'n dylunio ar gyfer diogelwch clinigol ac ar gyfer llwybrau â chymorth.
+      - Rheoli a datblygu dylunwyr gwasanaethau yn llinell.
+    qualifications:
+      - Profiad helaeth o arwain dylunio gwasanaethau ar draws timau.
+    job_evaluation_notes: Does dim lefel Band 8a, gan fod UK GDaD PCF yn rhoi'r dylunydd gwasanaethau arweiniol ar G7 neu G6 ac mae'r cyfeirlyfr hwn yn dilyn y Band 8b a awgrymir. Mae polisi ar lefel 5 gan fod y dylunydd arweiniol yn llunio sut mae ystod o wasanaethau ar draws cyfarwyddiaeth yn gweithio.
+  - title: Pennaeth dylunio gwasanaethau
+    slug: pennaeth-dylunio-gwasanaethau
+    responsibilities:
+      - Arwain y proffesiwn dylunio gwasanaethau a gosod ei strategaeth, ei safonau, a'i ffyrdd o weithio.
+      - Dylanwadu ar strategaeth y sefydliad fel bod gwasanaethau'n cael eu dylunio o amgylch anghenion cleifion, gofalwyr, a staff.
+      - Meithrin gallu dylunio gwasanaethau, gan gynnwys recriwtio, llwybrau gyrfa, a hyfforddiant.
+      - Creu'r amodau ar gyfer dylunio da, fel mynediad at ddefnyddwyr, amser i ymchwilio, a dylunio mewn llywodraethiant.
+      - Gweithio gyda chymheiriaid ar draws y system iechyd a gofal i ddylunio gwasanaethau cydgysylltiedig.
+    qualifications:
+      - Profiad helaeth o arwain dylunio ac ymarfer dylunio.

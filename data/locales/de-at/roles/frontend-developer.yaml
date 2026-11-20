@@ -1,0 +1,66 @@
+summary: Frontend-Entwicklerinnen und -Entwickler bauen die Benutzeroberflächen der digitalen Gesundheitsdienste der Organisation, etwa Websites und Apps für Patientinnen und Patienten, Online-Formulare und Bildschirme, die klinisches Personal und Pflegepersonal während der Versorgung nutzen. Sie schreiben barrierefreien, schnellen und sicheren Code, der für alle funktioniert, auch für Menschen, die krank oder besorgt sind oder ältere Geräte nutzen, und arbeiten in multidisziplinären Produktteams mit Designerinnen, Designern, Forschenden und klinischem Personal.
+health_context:
+- Viele Nutzende sind krank, haben Schmerzen, sind älter oder behindert; Barrierefreiheit und schlichte, ruhige Oberflächen sind daher unverzichtbar und keine Option.
+- Eine verwirrende oder falsche Anzeige klinischer Informationen, etwa einer Medikamentendosis, eines Befunds oder einer Terminzeit, kann Patientinnen und Patienten schaden; die Frontend-Arbeit folgt daher dem Prozess des klinischen Risikomanagements.
+- Oberflächen zeigen oft vertrauliche Gesundheitsinformationen; Entwicklerinnen und Entwickler gestalten daher auf Privatsphäre hin, etwa auf gemeinsam genutzten Geräten und in belebten klinischen Bereichen.
+- Klinisches Personal nutzt Oberflächen unter Zeitdruck und mit häufigen Unterbrechungen; Bildschirme müssen daher schnell, vorhersehbar und schwer misszuverstehen sein.
+- Patientinnen und Patienten erreichen Dienste mit einer großen Bandbreite von Geräten und Verbindungen; Dienste nutzen daher Progressive Enhancement und funktionieren in langsamen Netzen.
+levels:
+- title: Frontend-Entwickler/in in Ausbildung
+  responsibilities:
+  - Das Designsystem, die Sprachen und die Werkzeuge des Teams durch strukturierte Schulung und Pairing lernen.
+  - Kleine Oberflächenkomponenten unter enger Aufsicht nach dem Designsystem der Organisation bauen.
+  - Komponenten mit Unterstützung von Kolleginnen und Kollegen mit assistiven Technologien wie Screenreadern testen.
+  - Verfahren der Informationsgovernance und klinischen Sicherheit beachten, wenn mit Testdaten und Echtdaten gearbeitet wird.
+  - Auf eine Ausbildung oder einen gleichwertigen Abschluss hinarbeiten.
+  qualifications:
+  - In einer Ausbildung in Softwareentwicklung oder einem gleichwertigen Programm eingeschrieben oder auf dem Weg dorthin.
+  job_evaluation_notes: Das Wissen wird auf der Stufe bewertet, die die Stelle verlangt, sobald die Ausbildung weit genug fortgeschritten ist, um die Arbeit zu leisten.
+- title: Junior-Frontend-Entwickler/in
+  responsibilities:
+  - Funktionen für Dienste, die sich an Patientinnen, Patienten und Mitarbeitende richten, mit Anleitung anhand von User Stories bauen und testen.
+  - Das Designsystem und die Muster der Organisation nutzen, damit Dienste einheitlich aussehen und sich einheitlich verhalten.
+  - Barrierefreiheitsmängel beheben und Seiten anhand von Barrierefreiheitsstandards wie WCAG prüfen.
+  - Sicherstellen, dass klinische Informationen wie Daten, Dosen und Befunde genau wie spezifiziert angezeigt werden.
+  - Belege für klinische Sicherheitsnachweise beitragen, etwa Testergebnisse und Screenshots von Änderungen.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder einem verwandten Fach, eine abgeschlossene Ausbildung oder gleichwertige Erfahrung.
+- title: Frontend-Entwickler/in
+  responsibilities:
+  - Barrierefreie, responsive Oberflächen für Gesundheitsdienste selbstständig entwerfen und bauen und geeignete Ansätze wählen.
+  - Mit Designerinnen, Designern und Nutzerforschenden Prototypen mit Patientinnen, Patienten, klinischem Personal und Pflegepersonal testen.
+  - Oberflächen bauen, die APIs für Gesundheitsdaten aufrufen, etwa HL7-FHIR-Dienste, und Fehler und fehlende Daten sicher behandeln.
+  - An Gefährdungsworkshops teilnehmen und Sicherheitsmaßnahmen in die Oberfläche einbauen, etwa Bestätigungsschritte und klare Warnungen.
+  - Vertrauliche Informationen im Browser schützen, etwa durch sorgfältige Verwaltung von Sitzungen und Caching auf gemeinsam genutzten Geräten.
+  - Code prüfen und Junior- und Auszubildende Frontend-Entwicklerinnen und -Entwickler anleiten.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder einem verwandten Fach oder gleichwertige Erfahrung.
+  - Erfahrung im Bau und Support barrierefreier Webdienste im Produktivbetrieb.
+- title: Senior-Frontend-Entwickler/in
+  responsibilities:
+  - Frontend-Entwurf und Lieferung bedeutender Funktionen leiten, etwa Buchung, Befunde oder Bildschirme klinischer Arbeitsabläufe.
+  - Frontend-Standards für das Team festlegen und pflegen, einschließlich Barrierefreiheit, Leistung, Sicherheit und Tests.
+  - Komponenten und Muster zum Designsystem der Organisation beitragen und sicherstellen, dass sie sicher und barrierefrei sind.
+  - Mit Beauftragten für klinische Sicherheit sicherstellen, dass Oberflächengefährdungen erkannt, kontrolliert und getestet werden.
+  - Sicherstellen, dass Dienste in langsamen Verbindungen, auf älteren Geräten und mit assistiven Technologien gut funktionieren.
+  - Frontend-Entwicklerinnen und -Entwickler im Team anleiten und entwickeln.
+  qualifications:
+  - Umfangreiche Erfahrung im Entwurf, Bau und Support barrierefreier Webdienste im Produktivbetrieb, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Leitende/r Frontend-Entwickler/in
+  responsibilities:
+  - Frontend-Engineering über eine Gruppe von Teams oder einen wichtigen Dienst für Patientinnen und Patienten leiten.
+  - Die technische Ausrichtung des Designsystems und der Frontend-Bibliotheken der Organisation verantworten.
+  - Sicherstellen, dass Oberflächen über Dienste hinweg Barrierefreiheitsstandards erfüllen und klinisch sicherheitsgeprüft sind.
+  - Mit Architektinnen, Architekten, Designerinnen, Designern und klinischen Leitungen Produkt-Roadmaps und Frontend-Technologieentscheidungen mitgestalten.
+  - Die Fachcommunity Frontend leiten und Frontend-Entwicklerinnen und -Entwickler in der Linie führen oder anleiten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Frontend-Engineering für komplexe, barrierefreie Dienste.
+- title: Leiter/in Frontend-Entwicklung
+  responsibilities:
+  - Die Frontend-Strategie, Standards und Praktiken für alle digitalen Dienste der Organisation festlegen.
+  - Für Barrierefreiheit und Nutzbarkeit der Oberflächen der Organisation für Patientinnen, Patienten und Mitarbeitende verantwortlich sein.
+  - Die Führungsebene zu Frontend-Technologie, Investitionen in das Designsystem und den Risiken schlechter Oberflächen für die Versorgung beraten.
+  - Die Organisation in organisationsübergreifenden Communities zu Designsystem und Barrierefreiheit vertreten.
+  - Frontend-Entwicklerinnen und -Entwickler in der Organisation führen und entwickeln, einschließlich Personalgewinnung und Karrierewegen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung der Frontend-Entwicklung über mehrere Teams oder Organisationen hinweg.

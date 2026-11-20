@@ -1,0 +1,61 @@
+summary: >
+  Mae staff llywodraethiant a risg yn sicrhau bod y sefydliad yn cael ei redeg yn dda ac yn rheoli ei risgiau. Maen
+  nhw'n cefnogi'r bwrdd a'i bwyllgorau, yn rhedeg y fframwaith a'r cofrestrau rheoli risg, yn cadw polisïau a
+  chofrestrau llywodraethiant mewn trefn, ac yn cydlynu sicrwydd ac archwilio, fel y gall arweinwyr wneud
+  penderfyniadau cadarn a dangos eu bod yn bodloni eu dyletswyddau cyfreithiol a rheoleiddiol.
+health_context:
+  - Mae sefydliadau gofal iechyd yn cario risgiau clinigol, gwybodaeth, seiber, ariannol, ac i enw da, felly mae'n rhaid i'r fframwaith risg ddod â'r rhain at ei gilydd ar gyfer y bwrdd.
+  - Mae'n rhaid i fyrddau ddangos bod ganddynt sicrwydd am ddiogelwch ac ansawdd i gleifion, felly mae staff llywodraethiant yn cysylltu adrodd ar ddiogelwch clinigol ac ansawdd â phwyllgorau.
+  - Mae rheoleiddwyr ac archwilwyr yn disgwyl cofnodion clir o benderfyniadau, risgiau, datganiadau o fuddiant, a pholisïau.
+  - Mae angen uwchgyfeirio digwyddiadau difrifol a methiannau gwasanaeth yn gyflym, wedi'u dogfennu'n dda, drwy'r strwythur llywodraethiant.
+levels:
+  - title: Swyddog llywodraethiant
+    slug: swyddog-llywodraethiant
+    summary: Yn cefnogi'r cylch llywodraethiant ar gyfer pwyllgorau ac yn cadw cofrestrau risg, polisi, a llywodraethiant yn gyfredol.
+    responsibilities:
+      - Cydlynu cyfarfodydd pwyllgorau, blaenraglenni gwaith, papurau, a chofnodion.
+      - Cynnal y gofrestr risgiau, gan atgoffa perchnogion risgiau i adolygu eu risgiau.
+      - Cadw cofrestrau llywodraethiant yn gyfredol, fel datganiadau o fuddiant, rhoddion, a lletygarwch.
+      - Cynnal y gofrestr polisïau ac olrhain adolygiadau polisi.
+      - Cydlynu tystiolaeth ar gyfer archwiliadau ac olrhain argymhellion archwilio.
+      - Ateb cwestiynau llywodraethiant arferol gan staff.
+    qualifications:
+      - Gradd neu gymhwyster llywodraethiant, neu brofiad cyfatebol.
+  - title: Uwch swyddog llywodraethiant a risg
+    slug: uwch-swyddog-llywodraethiant-a-risg
+    summary: Yn rhedeg rhannau o'r fframwaith llywodraethiant a risg, gan gynghori cyfarwyddiaethau ar risg a chefnogi uwch bwyllgorau.
+    responsibilities:
+      - Rhedeg y broses rheoli risg ar gyfer cyfarwyddiaethau, gan herio sgoriau risg a mesurau rheoli.
+      - Paratoi adroddiadau risg a sicrwydd ar gyfer uwch bwyllgorau.
+      - Cefnogi uwch bwyllgorau, gan gynnwys y pwyllgor archwilio a risg, gyda phapurau a chofnodion ffurfiol.
+      - Adolygu polisïau am gydymffurfio â'r fframwaith polisi, y gyfraith, a dyletswyddau cydraddoldeb.
+      - Hyfforddi rheolwyr mewn prosesau rheoli risg a llywodraethiant.
+      - Cydlynu ymateb y sefydliad i geisiadau gan reoleiddwyr ac archwilwyr.
+    qualifications:
+      - Gradd neu gymhwyster proffesiynol mewn llywodraethiant neu reoli risg, neu brofiad cyfatebol.
+  - title: Rheolwr llywodraethiant a risg
+    slug: rheolwr-llywodraethiant-a-risg
+    summary: Yn rheoli'r gwasanaeth llywodraethiant a risg, gan gynnwys cylch y bwrdd a'r pwyllgorau, y fframwaith risg, a mapio sicrwydd.
+    responsibilities:
+      - Rheoli cylch y bwrdd a'r pwyllgorau a'r tîm llywodraethiant.
+      - Rhedeg fframwaith rheoli risg y sefydliad a fframwaith sicrwydd y bwrdd.
+      - Cynghori cyfarwyddwyr ar risgiau, parodrwydd i dderbyn risg, ac uwchgyfeirio.
+      - Mapio sicrwydd ar draws prif risgiau'r sefydliad a gweithio gydag archwilwyr mewnol ac allanol.
+      - Cadw rheolau sefydlog, cynlluniau dirprwyo, a'r fframwaith polisi'n gyfredol.
+      - Cydlynu ymateb llywodraethiant i ddigwyddiadau difrifol ac ymholiadau rheoleiddwyr.
+    qualifications:
+      - Cymhwyster proffesiynol mewn llywodraethiant neu reoli risg, neu brofiad cyfatebol.
+      - Profiad sylweddol o lywodraethiant corfforaethol neu reoli risg.
+  - title: Pennaeth llywodraethiant corfforaethol
+    slug: pennaeth-llywodraethiant-corfforaethol
+    summary: Yn arwain llywodraethiant corfforaethol a risg ar gyfer y sefydliad, yn aml fel ysgrifennydd y bwrdd, ac yn cynghori'r cadeirydd a'r bwrdd ar lywodraethiant.
+    responsibilities:
+      - Dylunio ac arwain fframwaith llywodraethiant y sefydliad, gan gynnwys y bwrdd a'i bwyllgorau.
+      - Gweithredu fel ysgrifennydd y bwrdd, gan gynghori'r cadeirydd a'r bwrdd ar lywodraethiant, ymddygiad, a chydymffurfio.
+      - Bod yn berchen ar y fframwaith rheoli risg a'r parodrwydd i dderbyn risg, a chynghori'r bwrdd ar risgiau strategol.
+      - Arwain y datganiad llywodraethiant blynyddol ac adrodd ar lywodraethiant.
+      - Arwain y tîm llywodraethiant, risg, a sicrwydd.
+      - Cynrychioli'r sefydliad gyda rheoleiddwyr ac archwilwyr ar faterion llywodraethiant.
+    qualifications:
+      - Cymhwyster proffesiynol mewn llywodraethiant corfforaethol, neu brofiad cyfatebol.
+      - Profiad helaeth o arwain llywodraethiant a risg ar lefel bwrdd.

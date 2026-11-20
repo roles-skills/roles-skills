@@ -1,0 +1,59 @@
+summary: Finanzsachbearbeiterinnen und -sachbearbeiter halten die laufenden Finanzen der Organisation genau und unter Kontrolle. Sie bearbeiten und erfassen Rechnungen, Zahlungen, Einnahmen und Buchungen, stimmen Hauptbücher und Bankkonten ab und helfen Budgetverantwortlichen und Anbietern bei Rückfragen. In einer Organisation für digitale Gesundheit und Pflege betrifft ein großer Teil dieser Arbeit Technologieanbieter, Softwarelizenzen und Cloud-Dienste, die oft aus öffentlichen Mitteln mit strengen Verwendungsregeln bezahlt werden.
+health_context:
+- Die Organisation gibt öffentliche Gelder aus; jede Zahlung muss daher ordnungsgemäß genehmigt, erfasst und prüfungsfest sein.
+- Viele Rechnungen betreffen Softwarelizenzen, Cloud-Hosting und Supportverträge, die mit Vertragsbedingungen, Nutzung und dem richtigen Investitions- oder Betriebsaufwandscode abgeglichen werden müssen.
+- Schnelle und genaue Zahlung ist wichtig, weil kleine Anbieter und Pflegeanbieter darauf angewiesen sein können.
+- Finanzpersonal sieht personenbezogene Informationen, etwa Spesen von Mitarbeitenden und Zahlungen an Patientinnen, Patienten oder Pflegeanbieter, und muss sie nach den Regeln der Informationsgovernance behandeln.
+- Betrugsrisiken, etwa falsche Anträge auf Änderung von Bankdaten eines Anbieters, zielen auf öffentliche Stellen; Sachbearbeitende folgen daher strengen Prüfungen.
+levels:
+- title: Finanzassistent/in
+  summary: Finanzassistentinnen und -assistenten bearbeiten routinemäßige Finanzvorgänge wie Lieferantenrechnungen, Eingänge und Spesenabrechnungen nach festen Verfahren unter enger Aufsicht.
+  responsibilities:
+  - Lieferantenrechnungen, Gutschriften und Eingänge genau in das Finanzsystem eingeben.
+  - Rechnungen mit Bestellungen und Wareneingängen abgleichen und fehlende Genehmigungen nachverfolgen.
+  - Spesenabrechnungen von Mitarbeitenden anhand der Richtlinie und der Belege prüfen.
+  - Routineanfragen von Anbietern und Mitarbeitenden per Telefon und E-Mail beantworten.
+  - Finanzdokumente ablegen und einscannen, damit sie für Audits auffindbar sind.
+  - Finanzverfahren und Regeln der Informationsgovernance einhalten und Auffälliges melden.
+  qualifications:
+  - Gute Kenntnisse im Rechnen und Tastaturschreiben, durch Ausbildung oder Berufserfahrung erworben.
+  - Bereitschaft, auf eine Einstiegsqualifikation in der Buchhaltung hinzuarbeiten, oder gleichwertige Erfahrung.
+  job_evaluation_notes: Die körperlichen Fertigkeiten liegen auf Stufe 3 für Schnelligkeit und Genauigkeit bei umfangreicher Dateneingabe. Die finanziellen Ressourcen liegen auf Stufe 2, weil die Stelle Zahlungsinformationen bearbeitet und kleine Forderungen prüft.
+- title: Finanzsachbearbeiter/in
+  summary: Finanzsachbearbeiterinnen und -sachbearbeiter führen einen Teil des Transaktionszyklus, etwa Kreditoren, Debitoren oder Kasse, lösen Fälle, die keine Routine sind, und stimmen ihr Hauptbuch ab.
+  responsibilities:
+  - Eine Reihe von Vorgängen bearbeiten, darunter Zahlläufe, Erstattungen, Verkaufsrechnungen und Buchungen.
+  - Lieferantenauszüge, Bankkonten und Kontrollkonten abstimmen und Differenzen klären.
+  - Prüfen, dass Technologierechnungen zu den Vertragsbedingungen passen, etwa Lizenzanzahl und Abrechnungszeiträume.
+  - Prüfungen von Änderungen der Bankdaten von Anbietern und andere Betrugsschutzmaßnahmen durchführen.
+  - Überfällige Forderungen nachverfolgen und strittige Rechnungen mit Anbietern und Budgetverantwortlichen klären.
+  - Neuen Finanzassistentinnen und -assistenten Routineaufgaben zeigen.
+  qualifications:
+  - Eine Einstiegsqualifikation in der Buchhaltung oder gleichwertige Erfahrung in der Finanzverarbeitung.
+  job_evaluation_notes: Die finanziellen Ressourcen liegen auf Stufe 3, weil die Stelle Zahlläufe vorbereitet und freigibt und Zahlungen innerhalb fester Grenzen genehmigt.
+- title: Senior-Finanzsachbearbeiter/in
+  summary: Senior-Finanzsachbearbeiterinnen und -sachbearbeiter bearbeiten die komplexeren Finanzvorgänge und Abstimmungen, unterstützen Monats- und Jahresabschluss und helfen Budgetverantwortlichen, ihre Ausgaben zu verstehen.
+  responsibilities:
+  - Buchungen für den Monatsabschluss vorbereiten, etwa Abgrenzungen und Vorauszahlungen für jährliche Software- und Supportverträge.
+  - Komplexe Abstimmungsposten und alte Salden untersuchen und klären.
+  - Umsatzsteuererklärungen und Abstimmungen unter Aufsicht vorbereiten.
+  - Standardberichte zum Budget erstellen und Budgetverantwortlichen erklären.
+  - Prüfen, dass Ausgaben zwischen Investition und Betrieb richtig kodiert sind, und Fragen an die Buchhalterinnen und Buchhalter richten.
+  - Die Arbeit von Finanzsachbearbeiterinnen, -sachbearbeitern und -assistenten täglich beaufsichtigen und prüfen.
+  - Verbesserungen der Finanzverfahren und Systemabläufe vorschlagen.
+  qualifications:
+  - Eine Buchhaltungsqualifikation auf mittlerem Niveau oder gleichwertige Erfahrung.
+  - Erfahrung in Finanzverarbeitung und Abstimmungen.
+- title: Teamleitung Finanzen
+  summary: Teamleitungen Finanzen führen ein Finanz-Transaktionsteam oder arbeiten als Finanzanalystinnen und -analysten und stellen sicher, dass Prozesse genau, kontrolliert und effizient sind und die Berichterstattung rechtzeitig bereitsteht.
+  responsibilities:
+  - Ein Finanz-Transaktionsteam leiten und seine Arbeit planen, um Fristen für Zahlung, Forderungen und Monatsabschluss einzuhalten.
+  - Ein Hauptbuch oder einen Finanzprozess steuern und über seine Leistung berichten, etwa Zahlungszeiten und überfällige Forderungen.
+  - Finanzkontrollen testen und verbessern und internen und externen Prüfenden Belege liefern.
+  - Bilanzabstimmungen und Arbeitspapiere für den Jahresabschluss vorbereiten.
+  - Prozesse verbessern, etwa durch Automatisierung des Rechnungsabgleichs oder Selbstbedienung für Budgetverantwortliche.
+  - Das Personal im Team schulen, unterstützen und seine Arbeit prüfen.
+  qualifications:
+  - Eine Buchhaltungsqualifikation auf mittlerem oder fortgeschrittenem Niveau oder gleichwertige Erfahrung.
+  - Erfahrung in der Leitung oder Koordination von Finanzprozessen.
+  job_evaluation_notes: Menschen liegt auf Stufe 3, weil die Stelle ein kleines Finanzteam im Tagesgeschäft führt. Eine Finanzanalystin oder ein Finanzanalyst in dieser Entgeltgruppe würde Menschen auf Stufe 2 und Analyse auf Stufe 4 bewerten.

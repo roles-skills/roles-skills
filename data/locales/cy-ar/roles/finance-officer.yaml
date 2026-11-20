@@ -1,0 +1,68 @@
+summary: >
+  Mae swyddogion cyllid yn cadw cyllid y sefydliad o ddydd i ddydd yn gywir ac o dan reolaeth. Maen nhw'n prosesu
+  ac yn cofnodi anfonebau, taliadau, incwm, a chyfnodolion, yn cysoni cyfriflyfrau a chyfrifon banc, ac yn helpu
+  deiliaid cyllidebau a chyflenwyr gyda'u hymholiadau. Mewn sefydliad gofal iechyd digidol mae llawer o'r gwaith
+  hwn yn ymwneud â chyflenwyr technoleg, trwyddedau meddalwedd, a gwasanaethau cwmwl, yn aml wedi'u talu o arian
+  cyhoeddus gyda rheolau llym ar sut y caiff ei wario.
+health_context:
+  - Mae'r sefydliad yn gwario arian cyhoeddus, felly mae'n rhaid i bob taliad gael ei gymeradwyo, ei gofnodi'n briodol, a gallu gwrthsefyll archwiliad.
+  - Mae llawer o anfonebau ar gyfer trwyddedau meddalwedd, lletya cwmwl, a chontractau cymorth, y mae angen eu gwirio yn erbyn telerau contract, defnydd, a'r cod cyfalaf neu refeniw cywir.
+  - Mae talu'n brydlon ac yn gywir yn bwysig, gan y gall cyflenwyr bach a darparwyr gofal ddibynnu arno.
+  - Mae staff cyllid yn gweld gwybodaeth bersonol, fel treuliau staff a thaliadau i gleifion neu ddarparwyr gofal, ac mae'n rhaid iddynt ei thrin o dan reolau llywodraethiant gwybodaeth.
+  - Mae risgiau twyll, fel ceisiadau ffug i newid manylion banc cyflenwyr, yn targedu cyrff cyhoeddus, felly mae swyddogion yn dilyn gwiriadau llym.
+levels:
+  - title: Cynorthwyydd cyllid
+    slug: cynorthwyydd-cyllid
+    summary: Mae cynorthwywyr cyllid yn prosesu trafodion ariannol arferol, fel anfonebau cyflenwyr, derbynebau, a hawliadau treuliau, gan ddilyn gweithdrefnau penodol gyda goruchwyliaeth gerllaw.
+    responsibilities:
+      - Mewnbynnu anfonebau cyflenwyr, nodiadau credyd, a derbynebau'n gywir i'r system gyllid.
+      - Paru anfonebau ag archebion prynu a derbynebau nwyddau, a mynd ar ôl cymeradwyaethau coll.
+      - Gwirio hawliadau treuliau staff yn erbyn polisi a derbynebau ategol.
+      - Ateb ymholiadau arferol gan gyflenwyr a staff dros y ffôn a thrwy e-bost.
+      - Ffeilio a sganio dogfennau ariannol fel y gellir dod o hyd iddynt ar gyfer archwiliad.
+      - Dilyn gweithdrefnau ariannol a rheolau llywodraethiant gwybodaeth, a rhoi gwybod am unrhyw beth anarferol.
+    qualifications:
+      - Sgiliau rhifedd a bysellfwrdd da, a enillwyd drwy addysg neu brofiad gwaith.
+      - Parodrwydd i weithio tuag at gymhwyster cyfrifyddu lefel mynediad, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae sgiliau corfforol ar lefel 3 am gyflymder a chywirdeb mewnbynnu data mewn niferoedd mawr. Mae adnoddau ariannol ar lefel 2 gan fod y swydd yn trin gwybodaeth am daliadau ac yn gwirio hawliadau bach.
+  - title: Swyddog cyllid
+    slug: swyddog-cyllid
+    summary: Mae swyddogion cyllid yn rhedeg rhan o'r cylch trafodion, fel cyfrifon taladwy, cyfrifon derbyniadwy, neu arian parod, gan ddatrys problemau anarferol a chysoni eu cyfriflyfr.
+    responsibilities:
+      - Prosesu ystod o drafodion, gan gynnwys rhediadau talu, ad-daliadau, anfonebau gwerthu, a chyfnodolion.
+      - Cysoni datganiadau cyflenwyr, cyfrifon banc, a chyfrifon rheoli, a chlirio gwahaniaethau.
+      - Gwirio bod anfonebau technoleg yn cyfateb i delerau contract, fel niferoedd trwyddedau a chyfnodau bilio.
+      - Cynnal gwiriadau newid manylion banc cyflenwyr a mesurau rheoli gwrth-dwyll eraill.
+      - Mynd ar ôl dyledion hwyr a datrys anfonebau a ddadleuir gyda chyflenwyr a deiliaid cyllidebau.
+      - Dangos i gynorthwywyr cyllid newydd sut i wneud tasgau arferol.
+    qualifications:
+      - Cymhwyster cyfrifyddu lefel mynediad, neu brofiad cyfatebol o brosesu ariannol.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 3 gan fod y swydd yn paratoi ac yn rhyddhau rhediadau talu ac yn awdurdodi taliadau o fewn terfynau penodol.
+  - title: Uwch swyddog cyllid
+    slug: uwch-swyddog-cyllid
+    summary: Mae uwch swyddogion cyllid yn ymdrin â'r prosesu ariannol a'r cysoniadau mwy cymhleth, yn cefnogi diwedd mis a diwedd blwyddyn, ac yn helpu deiliaid cyllidebau i ddeall eu gwariant.
+    responsibilities:
+      - Paratoi cofnodion diwedd mis, fel croniadau a rhagdaliadau ar gyfer contractau meddalwedd a chymorth blynyddol.
+      - Ymchwilio i eitemau cysoni cymhleth a hen falansau a'u clirio.
+      - Paratoi ffurflenni treth gwerthiant a chysoniadau dan oruchwyliaeth.
+      - Cynhyrchu adroddiadau cyllideb safonol a'u hegluro i ddeiliaid cyllidebau.
+      - Gwirio bod gwariant wedi'i godio'n gywir rhwng cyfalaf a refeniw, a chodi cwestiynau gyda'r cyfrifwyr.
+      - Goruchwylio a gwirio gwaith swyddogion a chynorthwywyr cyllid o ddydd i ddydd.
+      - Awgrymu gwelliannau i weithdrefnau ariannol a llifoedd gwaith systemau.
+    qualifications:
+      - Cymhwyster cyfrifyddu canolradd, neu brofiad cyfatebol.
+      - Profiad o brosesu ariannol a chysoniadau.
+  - title: Arweinydd tîm cyllid
+    slug: arweinydd-tim-cyllid
+    summary: Mae arweinwyr tîm cyllid yn rheoli tîm cyllid trafodiadol neu'n gweithio fel dadansoddwyr cyllid, gan sicrhau bod prosesau'n gywir, wedi'u rheoli, ac yn effeithlon, a bod adroddiadau'n barod mewn pryd.
+    responsibilities:
+      - Arwain tîm cyllid trafodiadol, gan gynllunio ei waith i fodloni terfynau amser taliadau, dyledion, a diwedd mis.
+      - Rheoli cyfriflyfr neu broses ariannol, ac adrodd ar ei pherfformiad, fel amseroedd talu a hen ddyledion.
+      - Profi a gwella mesurau rheoli ariannol, a darparu tystiolaeth i archwilwyr mewnol ac allanol.
+      - Paratoi cysoniadau'r fantolen a phapurau gwaith ar gyfer y cyfrifon blynyddol.
+      - Gwella prosesau, er enghraifft drwy awtomeiddio paru anfonebau neu gyflwyno hunanwasanaeth i ddeiliaid cyllidebau.
+      - Hyfforddi, cefnogi, ac adolygu gwaith staff yn y tîm.
+    qualifications:
+      - Cymhwyster cyfrifyddu canolradd neu uwch, neu brofiad cyfatebol.
+      - Profiad o arwain neu gydlynu prosesau ariannol.
+    job_evaluation_notes: Mae pobl ar lefel 3 gan fod y swydd yn rheoli tîm cyllid bach o ddydd i ddydd. Byddai dadansoddwr cyllid yn y band hwn yn sgorio pobl ar lefel 2 a dadansoddol ar lefel 4.

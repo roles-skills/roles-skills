@@ -1,0 +1,66 @@
+summary: >
+  Mae penseiri technegol yn dylunio strwythur technegol gwasanaethau iechyd digidol y sefydliad: y cydrannau, y
+  llwyfannau, y lletya, y patrymau integreiddio, a nodweddion anweithredol fel diogelwch, perfformiad, a
+  gwydnwch. Maen nhw'n gweithio'n agos gyda datblygwyr a pheirianwyr DevOps, yn rhoi arweinyddiaeth dechnegol i
+  dimau cyflawni, ac yn sicrhau bod gwasanaethau'n cael eu hadeiladu i bara ac yn ddiogel i'w rhedeg.
+health_context:
+  - Mae gwasanaethau clinigol yn aml angen argaeledd uchel ac adfer cyflym, felly mae'n rhaid i ddyluniadau technegol gynllunio ar gyfer methiant a rhedeg mewn cyflwr diraddiedig.
+  - Mae'n rhaid i ddyluniadau ddiogelu gwybodaeth iechyd gyfrinachol drwy amgryptio, rheoli mynediad, ac archwilio fel arfer.
+  - Mae gwasanaethau'n cysylltu â llawer o systemau clinigol a llwyfannau a rennir, yn aml drwy APIs HL7 FHIR a negeseua, felly mae patrymau integreiddio'n ganolog i'r dyluniad.
+  - Gall dewisiadau dylunio technegol, fel storio dros dro, ailgynigion, a thrin amser, achosi peryglon clinigol, felly mae penseiri'n cyfrannu at achosion diogelwch.
+  - Gall systemau clinigol etifeddol a dyfeisiau meddygol gyfyngu ar ddewisiadau technoleg, rhwydweithio, a lletya.
+levels:
+  - title: Pensaer technegol cyswllt
+    slug: pensaer-technegol-cyswllt
+    responsibilities:
+      - Llunio diagramau technegol a dogfennu cydrannau, lletya, ac integreiddiadau gwasanaethau presennol.
+      - Ymchwilio i opsiynau technoleg a chrynhoi eu manteision a'u hanfanteision, gydag arweiniad.
+      - Gweithio gyda datblygwyr i wirio bod adeiladau'n dilyn dyluniadau a phatrymau y cytunwyd arnynt.
+      - Cofnodi penderfyniadau technegol a chadw dogfennau dylunio'n gyfredol.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu bwnc cysylltiedig, neu brofiad cyfatebol mewn peirianneg meddalwedd neu seilwaith.
+      - Gwybodaeth arbenigol am ddylunio technegol, ar lefel diploma ôl-raddedig neu brofiad cyfatebol.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 5): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 6. Caiff gwybodaeth ei sgorio ar lefel diploma ôl-raddedig, ac adnoddau gwybodaeth ar lefel 5 gan fod y swydd yn dylunio rhannau o systemau gwybodaeth mawr."
+  - title: Pensaer technegol
+    slug: pensaer-technegol
+    responsibilities:
+      - Dylunio'r bensaernïaeth dechnegol ar gyfer gwasanaeth, gan gynnwys cydrannau, lletya, integreiddio, a diogelwch.
+      - Darparu patrymau dylunio i dimau cyflawni ac adolygu eu dyluniadau technegol a strwythur eu cod.
+      - Diffinio gofynion anweithredol, fel targedau argaeledd, perfformiad, ac adfer, gyda pherchnogion gwasanaethau.
+      - Nodi dyled dechnegol a thechnoleg heb gymorth, a chynllunio sut i'w trwsio.
+      - Nodi peryglon technegol a mesurau rheoli ar gyfer yr achos diogelwch clinigol.
+    qualifications:
+      - Gwybodaeth arbenigol am bensaernïaeth dechnegol, ar lefel gradd meistr neu brofiad cyfatebol.
+      - Profiad o ddylunio neu adeiladu meddalwedd neu seilwaith cynhyrchu.
+    job_evaluation_notes: Wedi'i fandio yn unol ag awgrym gradd UK GDaD PCF o Fand 7, yn unol â hysbysebion yn y sector iechyd ar gyfer y rôl hon. Caiff gwybodaeth ei sgorio ar lefel gradd meistr neu gyfatebol ar gyfer gwybodaeth arbenigol ar draws ystod pensaernïaeth dechnegol.
+  - title: Uwch bensaer technegol
+    slug: uwch-bensaer-technegol
+    responsibilities:
+      - Arwain dyluniad technegol gwasanaethau mawr, cymhleth, neu risg uchel, fel systemau clinigol a llwyfannau integreiddio a rennir.
+      - Gosod cyfeiriad technegol ar gyfer un neu fwy o dimau cyflawni a herio dyluniadau sy'n ychwanegu risg.
+      - Dylunio ar gyfer gwydnwch, adfer ar ôl trychineb, a rhedeg diogel, a gwirio bod timau'n ei brofi.
+      - Egluro risgiau a chyfaddawdau technegol i berchnogion gwasanaethau, arweinwyr clinigol, ac uwch randdeiliaid mewn iaith glir.
+      - Mentora a hyfforddi penseiri technegol ac uwch ddatblygwyr.
+    qualifications:
+      - Profiad sylweddol o ddylunio technegol ar gyfer gwasanaethau cymhleth, ar lefel sy'n cyfateb i radd meistr.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 7): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8a. Caiff cynllunio, polisi, a rhyddid i weithredu eu sgorio uwchlaw proffil Band 7 gan fod y swydd yn gosod cyfeiriad technegol ar gyfer sawl tîm heb fawr o oruchwyliaeth."
+  - title: Pensaer technegol arweiniol
+    slug: pensaer-technegol-arweiniol
+    responsibilities:
+      - Arwain y bensaernïaeth dechnegol ar draws sawl gwasanaeth neu dîm, gan osod patrymau a safonau a rennir.
+      - Sicrhau ansawdd technegol dyluniadau mewn awdurdodau dylunio, gan gynnwys diogelwch, gwydnwch, a rhyngweithredu.
+      - Llunio map ffordd technoleg y sefydliad gyda phenseiri menter ac arweinwyr peirianneg.
+      - Cynghori uwch arweinwyr ar ddewisiadau technoleg, buddsoddi mewn llwyfannau, a risg dechnegol.
+      - Arwain a datblygu penseiri technegol.
+    qualifications:
+      - Profiad helaeth o arwain pensaernïaeth dechnegol ar gyfer gwasanaethau cymhleth.
+  - title: Prif bensaer technegol
+    slug: prif-bensaer-technegol
+    responsibilities:
+      - Gosod strategaeth, egwyddorion, a safonau pensaernïaeth dechnegol y sefydliad.
+      - Llywodraethu dylunio technegol ar draws y sefydliad, gan gynnwys yr awdurdod dylunio technegol.
+      - Cynghori'r tîm gweithredol ar benderfyniadau technoleg mawr, fel strategaeth letya a chyfuno llwyfannau.
+      - Cynrychioli'r sefydliad mewn cymunedau technegol a safonau ar draws sefydliadau.
+      - Ysbrydoli a datblygu penseiri ar draws y sefydliad.
+    qualifications:
+      - Profiad helaeth o arwain pensaernïaeth dechnegol ar draws sawl tîm neu sefydliad.

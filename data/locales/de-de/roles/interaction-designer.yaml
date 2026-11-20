@@ -1,0 +1,62 @@
+summary: Interaktionsdesignerinnen und -designer gestalten, wie Patientinnen, Patienten, Angehörige, klinisches Personal und Pflegepersonal die digitalen Gesundheitsdienste der Organisation nutzen, von Apps und Formularen für Patientinnen und Patienten bis zu den Bildschirmen, die klinisches Personal am Krankenbett nutzt. Sie gestalten einfache, barrierefreie und sichere Interaktionen, testen sie mit echten Nutzenden und nutzen gemeinsame Designsysteme, damit Dienste einheitlich und vertraut wirken.
+health_context:
+- Klinisches Personal nutzt Systeme oft unter Zeitdruck, mit Unterbrechungen und auf gemeinsam genutzten Geräten; Entwürfe müssen daher schnelles, genaues Arbeiten unterstützen und die sichere Handlung zur einfachen machen.
+- Schlechtes Design kann klinischen Schaden verursachen, etwa die Wahl der falschen Patientin oder des falschen Patienten oder das Fehllesen einer Dosis; Designerinnen und Designer wenden daher Grundsätze der Human Factors an und arbeiten mit Beauftragten für klinische Sicherheit.
+- Viele Nutzende sind krank, besorgt, älter oder behindert; Entwürfe müssen daher Barrierefreiheitsstandards erfüllen und für Menschen mit geringen digitalen Fähigkeiten oder geringer Gesundheitskompetenz funktionieren.
+- Warnungen sind nur nützlich, wenn Menschen sie bemerken und ihnen vertrauen; Designerinnen und Designer helfen daher, Warnmüdigkeit zu verringern und sicherheitskritische Informationen sichtbar zu halten.
+levels:
+- title: Associate Interaktionsdesigner/in
+  responsibilities:
+  - Methoden des Interaktionsdesigns und das Designsystem des Teams durch Schulung und Pairing lernen.
+  - Skizzen, Wireframes und einfache Prototypen unter Aufsicht erstellen.
+  - Beim Testen von Entwürfen mit Nutzenden helfen und festhalten, was funktioniert und was nicht.
+  - Barrierefreiheitsstandards und die Muster des Designsystems befolgen, auch die für Patientenidentität und Sicherheitswarnungen.
+  qualifications:
+  - Auf eine Qualifikation oder Ausbildung in Design oder einem verwandten Bereich hinarbeitend oder gleichwertige Erfahrung.
+- title: Junior-Interaktionsdesigner/in
+  responsibilities:
+  - Teile eines Dienstes, etwa Formulare, Abläufe und Bildschirme, mit Anleitung einer erfahreneren Designerin oder eines erfahreneren Designers entwerfen und prototypisch umsetzen.
+  - Entwürfe mit Patientinnen, Patienten, Angehörigen und Mitarbeitenden testen und anhand der Erkenntnisse ändern.
+  - Barrierefreie Interaktionen gestalten, die mit assistiven Technologien funktionieren.
+  - Entwurfsentscheidungen dem Team erklären, auch dazu, wie sie die Fehlerwahrscheinlichkeit senken.
+  qualifications:
+  - Ein Studienabschluss in Design oder einem verwandten Fach oder gleichwertige Erfahrung.
+- title: Interaktionsdesigner/in
+  responsibilities:
+  - Interaktionen für ein digitales Gesundheitsprodukt gestalten, von frühen Konzepten bis zu detaillierten, getesteten Entwürfen.
+  - Für klinische Arbeitsabläufe gestalten und mit klinischem Personal und Pflegepersonal in realistischen Szenarien testen, auch mit Unterbrechungen.
+  - Entwurfsbedingte Gefährdungen bei der oder dem Beauftragten für klinische Sicherheit ansprechen und festhalten, wie Entwürfe sie kontrollieren.
+  - Das Designsystem nutzen und zu ihm beitragen, auch mit Mustern für sicherheitskritische Informationen.
+  - Eng mit Entwicklerinnen und Entwicklern zusammenarbeiten, damit Entwürfe wie vorgesehen gebaut werden und barrierefrei bleiben.
+  qualifications:
+  - Ein Studienabschluss in Design oder einem verwandten Fach oder gleichwertige Erfahrung.
+  - Erfahrung im Gestalten digitaler Dienste mit Nutzenden.
+  job_evaluation_notes: Das UK GDaD PCF ordnet Interaktionsdesign bei SEO oder G7 ein, mit vorgeschlagener Entgeltgruppe 7, genau wie die Senior-Stufe. Diese Referenz ordnet es in Entgeltgruppe 6 ein, wie die Stufe Service-Designer/in mit identischen PCF-Kompetenzstufen, sodass die beiden Stufen des Interaktionsdesigns nicht in derselben Entgeltgruppe liegen.
+- title: Senior-Interaktionsdesigner/in
+  responsibilities:
+  - Interaktionsdesign für komplexe Dienste leiten, etwa für klinische Systeme, die in vielen Versorgungseinrichtungen genutzt werden.
+  - Methoden der Human Factors, etwa Aufgabenanalyse, auf sicherheitskritische klinische Arbeitsabläufe anwenden.
+  - Entwurfsbelege für klinische Sicherheitsnachweise und, wo Software reguliert ist, für Gebrauchstauglichkeitsakten liefern.
+  - Richtung und gute Praxis für Design in Teams mitgestalten und andere Designerinnen und Designer anleiten.
+  - Entwurfsentscheidungen anhand von Forschung und Daten treffen und klinischen und Produktleitungen erklären.
+  qualifications:
+  - Umfangreiche Erfahrung im Interaktionsdesign, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Leitende/r Interaktionsdesigner/in
+  responsibilities:
+  - Die Entwurfsrichtung festlegen und die Qualität des Interaktionsdesigns über mehrere Teams oder Dienste absichern.
+  - Das Designsystem leiten, einschließlich barrierefreier und sicherheitskritischer Muster, die Teams in der Organisation wiederverwenden.
+  - Human-Factors-Arbeit an den klinischen Diensten mit dem höchsten Risiko gemeinsam mit Beauftragten für klinische Sicherheit leiten.
+  - Mit leitenden Produkt- und klinischen Leitungen Entwurfskonzepte für wichtige Dienste entwickeln.
+  - Interaktionsdesignerinnen und -designer in der Linie führen und entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Interaktionsdesign über Teams hinweg.
+  job_evaluation_notes: Es gibt keine Stufe in Entgeltgruppe 8a, weil das UK GDaD PCF die leitende Interaktionsdesignerin oder den leitenden Interaktionsdesigner bei G7 oder G6 einordnet und diese Referenz der vorgeschlagenen Entgeltgruppe 8b folgt. Richtlinien liegen auf Stufe 5, weil die leitende Designerin oder der leitende Designer Designstandards für eine Reihe von Diensten setzt.
+- title: Leiter/in Interaktionsdesign
+  responsibilities:
+  - Den Beruf Interaktionsdesign leiten und seine Strategie, Standards und Arbeitsweisen festlegen.
+  - Design- und Organisationsstrategie so beeinflussen, dass Dienste nutzbar, barrierefrei und sicher sind.
+  - Das Designsystem der Organisation verantworten und sicherstellen, dass es Anforderungen an Barrierefreiheit und klinische Sicherheit erfüllt.
+  - Designfähigkeiten aufbauen, einschließlich Personalgewinnung, Karrierewegen und Schulung.
+  - Mit Gleichgestellten im Gesundheits- und Pflegesystem an gemeinsamen Designmustern arbeiten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Design und einer Designpraxis.

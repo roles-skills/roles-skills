@@ -1,0 +1,64 @@
+summary: Business-Analystinnen und -Analysten helfen der Organisation, Probleme in Gesundheits- und Pflegediensten zu verstehen und die richtigen Änderungen zu ihrer Lösung zu finden. Sie analysieren, wie klinische, administrative und patientennahe Prozesse heute funktionieren, definieren Bedürfnisse und Anforderungen von Nutzenden und Geschäft und helfen Teams sicherzustellen, dass neue digitale Dienste zu realen Versorgungspfaden passen und messbaren Nutzen bringen.
+health_context:
+- Prozesse überschreiten Organisations- und Berufsgrenzen; deshalb bilden Analystinnen und Analysten ganze Versorgungspfade ab, einschließlich der Übergaben zwischen klinischem Personal, Pflegepersonal, Patientinnen, Patienten und anderen Organisationen.
+- Anforderungen tragen oft klinisches Risiko; deshalb arbeiten Analystinnen und Analysten mit den Beauftragten für klinische Sicherheit zusammen, damit sicherheitsrelevante Anforderungen erfasst, nachverfolgt und getestet werden.
+- Viele Anforderungen betreffen den Austausch von Gesundheitsdaten zwischen Systemen; Analystinnen und Analysten brauchen daher ein praktisches Verständnis von Interoperabilitätsstandards wie HL7 FHIR und klinischen Terminologien wie SNOMED CT.
+- Nutzen in der Versorgung betrifft oft Sicherheit, Qualität, Personalzeit und Patientenerfahrung, nicht nur Kosten; Analystinnen und Analysten helfen daher, Kennzahlen zu definieren, die klinisches Personal wiedererkennt.
+levels:
+- title: Business-Analyst/in in Ausbildung
+  responsibilities:
+  - Methoden der Business-Analyse durch strukturierte Schulung, Hospitation und beaufsichtigte Arbeit lernen.
+  - Notizen festhalten und Prozesskarten aus Workshops mit klinischem und administrativem Personal entwerfen.
+  - Anforderungslisten, User Stories und Nachverfolgbarkeitsnachweise nach Anweisung pflegen.
+  - Bei der Vorbereitung von Testszenarien für Abnahmetests durch Nutzende helfen.
+  - Die Regeln der Informationsgovernance einhalten, wenn mit Dokumenten umgegangen wird, die Patienteninformationen enthalten.
+  qualifications:
+  - Auf eine Ausbildung oder Qualifikation in Business-Analyse hinarbeitend oder gleichwertige Erfahrung.
+- title: Junior-Business-Analyst/in
+  responsibilities:
+  - Aktuelle und künftige Prozesse für klinische und administrative Arbeitsabläufe abbilden, etwa Überweisungen, Termine oder die Befundbearbeitung.
+  - Anforderungen und User Stories für klar umrissene Arbeitspakete erheben und schreiben.
+  - Daten zur Prozessleistung sammeln, etwa Wartezeiten oder manuelle Notlösungen, um die Analyse zu stützen.
+  - Abnahmetestszenarien mit klinischen und betrieblichen Nutzenden vorbereiten und durchführen.
+  - Anforderungen, die die Patientensicherheit beeinträchtigen könnten, dem Team und der oder dem Beauftragten für klinische Sicherheit melden.
+  qualifications:
+  - Ein Studienabschluss, eine Qualifikation oder Ausbildung in Business-Analyse oder gleichwertige Erfahrung.
+- title: Business-Analyst/in
+  responsibilities:
+  - Die Analyse für kleine und mittlere Projekte leiten, von der Problemdefinition bis zur Nutzenmessung.
+  - Workshops mit klinischem Personal, Pflegepersonal und Führungskräften durchführen, um Schmerzpunkte zu verstehen und Optionen zu vereinbaren.
+  - Versorgungspfade und Informationsflüsse modellieren, einschließlich Daten, die mit anderen Gesundheits- und Pflegesystemen ausgetauscht werden.
+  - Sicherheitsrelevante Anforderungen und Datenanforderungen definieren und durch Entwurf, Bau und Test nachverfolgen.
+  - Nutzenbegründungen mit Kennzahlen wie gewonnener Personalzeit, vermiedenen Fehlern oder Patientenerfahrung aufbauen.
+  - Business-Analystinnen und -Analysten in Ausbildung und Junior-Analystinnen und -Analysten anleiten.
+  qualifications:
+  - Ein Studienabschluss oder eine anerkannte Qualifikation in Business-Analyse oder gleichwertige Erfahrung.
+  - Erfahrung mit Business-Analyse in digitalen Veränderungsprojekten.
+- title: Senior-Business-Analyst/in
+  responsibilities:
+  - Business-Analyse in großen oder komplexen Programmen leiten, etwa beim Austausch eines klinischen Systems oder der Neugestaltung eines Versorgungspfads.
+  - Optionen und ihre Wirkung auf Versorgung, Sicherheit, Arbeitsbelastung des Personals und Kosten analysieren und Gremien Empfehlungen vorlegen.
+  - Sicherstellen, dass klinisches Risiko, Informationsgovernance und Auswirkungen auf Gleichstellung analysiert und in den Anforderungen berücksichtigt werden.
+  - Den Nutzen von Veränderungen definieren und verfolgen und festlegen, wie er nach der Inbetriebnahme gemessen wird.
+  - Business-Analystinnen und -Analysten in der Linie führen oder anleiten und Aktivitäten der Fachcommunity durchführen.
+  qualifications:
+  - Umfangreiche Erfahrung mit Business-Analyse bei komplexen Veränderungen, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Leitende/r Business-Analyst/in
+  responsibilities:
+  - Analysen für hochkomplexe Probleme leiten, die mehrere Produkte, Dienste oder Organisationen in einem Versorgungssystem umfassen.
+  - Die Wirtschaftlichkeitsbetrachtung und den Plan zur Nutzenrealisierung für große Investitionen mitgestalten.
+  - Standards der Business-Analyse festlegen, etwa die Nachverfolgbarkeit von Anforderungen für sicherheitsrelevante und regulierte Software.
+  - Mit klinischen Leitungen, Architektinnen, Architekten und Produktmanagern die Analyse an der Strategie der Organisation ausrichten.
+  - Business-Analystinnen und -Analysten in der Linie führen und ihre fachliche Entwicklung leiten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Business-Analyse bei komplexen Veränderungen mit mehreren Teams.
+- title: Leiter/in Business-Analyse
+  responsibilities:
+  - Die Funktion Business-Analyse leiten und ihre Strategie, Standards und Arbeitsweisen festlegen.
+  - Fähigkeiten in der Business-Analyse aufbauen, einschließlich Personalgewinnung, Karrierewegen und Schulung.
+  - Die Geschäftsleitung und klinische Leitungen zu der Analyse beraten, die große Transformationen in Gesundheit und Pflege brauchen.
+  - Sicherstellen, dass die Nutzenrealisierung im gesamten Portfolio geplant, gemessen und berichtet wird.
+  - Das Budget und den Personalplan der Funktion verwalten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung einer Funktion oder Praxis der Business-Analyse.
+  job_evaluation_notes: Die Informationsressourcen werden auf Stufe 6 bewertet, weil die Leitung Business-Analyse die organisationsweiten Standards dafür verantwortet, wie Anforderungen, Prozessmodelle und Nutzennachweise über alle Veränderungsvorhaben hinweg geführt werden.

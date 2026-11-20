@@ -1,0 +1,47 @@
+summary: >
+  Mae cynorthwywyr gweithredol yn rhoi cymorth gweinyddol a busnes lefel uchel i uwch arweinwyr. Maen nhw'n rheoli
+  dyddiaduron, gohebiaeth, cyfarfodydd, a phapurau, yn gweithredu fel pwynt cyswllt ar gyfer swyddfa'r arweinydd,
+  ac yn defnyddio crebwyll i ymdrin â materion ar ran yr arweinydd. Maen nhw'n aml yn ymdrin â gwybodaeth gyfrinachol
+  a sensitif iawn.
+health_context:
+  - Mae uwch arweinwyr mewn gofal iechyd yn ymdrin â digwyddiadau diogelwch cleifion, cwynion, ac achosion staff, felly mae cynorthwywyr gweithredol yn ymdrin â deunydd sensitif a chyfrinachol yn rheolaidd.
+  - Mae swyddfeydd gweithredol yn gweithio'n agos gyda byrddau a phwyllgorau, felly mae papurau, cofnodion, a chofnodion llywodraethiant cywir yn bwysig.
+  - Mae'n rhaid i ddyddiaduron wneud lle i faterion brys, fel digwyddiadau difrifol a thoriadau gwasanaeth, ar fyr rybudd.
+levels:
+  - title: Cynorthwyydd gweithredol
+    slug: cynorthwyydd-gweithredol
+    summary: Yn darparu cymorth gweithredol i gyfarwyddwr neu uwch arweinydd, gan reoli ei ddyddiadur, ei ohebiaeth, a'i gyfarfodydd.
+    responsibilities:
+      - Rheoli dyddiadur uwch arweinydd, gan osod blaenoriaethau a datrys gwrthdaro.
+      - Ymdrin â gohebiaeth, gan ddrafftio atebion ac ymdrin â materion arferol ar ran yr arweinydd.
+      - Paratoi papurau, cyflwyniadau, a sesiynau briffio ar gyfer cyfarfodydd.
+      - Cymryd cofnodion ac olrhain camau gweithredu ar gyfer cyfarfodydd yr arweinydd.
+      - Gweithredu fel y pwynt cyswllt cyntaf ar gyfer swyddfa'r arweinydd, gan ddefnyddio tact a doethineb.
+      - Trefnu teithio, digwyddiadau, ac ymweliadau.
+    qualifications:
+      - Profiad sylweddol o gymorth gweinyddol i uwch staff, ar lefel sy'n cyfateb i radd sylfaen.
+    job_evaluation_notes: Caiff cyfathrebu ei sgorio ar lefel 4 gan fod y swydd yn ymdrin yn rheolaidd â materion sensitif sydd angen tact a pherswâd gydag uwch gysylltiadau mewnol ac allanol.
+  - title: Uwch gynorthwyydd gweithredol
+    slug: uwch-gynorthwyydd-gweithredol
+    summary: Yn darparu cymorth gweithredol i'r prif weithredwr, y cadeirydd, neu gyfarwyddwr gweithredol, ac yn cydlynu busnes eu swyddfa.
+    responsibilities:
+      - Rheoli dyddiadur a blaenoriaethau'r prif weithredwr neu gyfarwyddwr gweithredol.
+      - Ymdrin â gohebiaeth sensitif, gan gynnwys cwynion ac ymholiadau gan bartneriaid a rheoleiddwyr.
+      - Cydlynu cyfarfodydd, papurau, a logiau camau gweithredu'r tîm gweithredol.
+      - Cymryd cofnodion ffurfiol ar gyfer cyfarfodydd gweithredol a phwyllgorau.
+      - Olrhain ymrwymiadau a therfynau amser ar draws y swyddfa weithredol a mynd ar ôl cynnydd.
+      - Goruchwylio cynorthwywyr eraill a chyflenwi ar draws y swyddfa weithredol.
+    qualifications:
+      - Profiad helaeth o gymorth gweithredol, ar lefel sy'n cyfateb i radd.
+  - title: Rheolwr swyddfa weithredol
+    slug: rheolwr-swyddfa-weithredol
+    summary: Yn rheoli'r swyddfa weithredol, ei staff, a'i chylch busnes, ac yn sicrhau bod y tîm gweithredol a'r bwrdd yn cael eu cefnogi'n dda.
+    responsibilities:
+      - Rheoli tîm y swyddfa weithredol, gan osod blaenoriaethau a chefnogi eu datblygiad.
+      - Cynllunio'r cylch busnes ar gyfer y tîm gweithredol, gan gynnwys blaenraglenni gwaith a phapurau.
+      - Sicrhau bod sesiynau briffio, papurau, a gohebiaeth yn gywir, yn amserol, ac wedi'u barnu'n dda.
+      - Cydlynu'r ymateb gweithredol i faterion brys, fel digwyddiadau difrifol ac ymholiadau.
+      - Rheoli cyllideb a systemau'r swyddfa weithredol.
+      - Gwella prosesau ac offer y swyddfa weithredol.
+    qualifications:
+      - Profiad helaeth o gymorth gweithredol a rheoli swyddfa, ar lefel sy'n cyfateb i radd.

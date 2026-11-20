@@ -1,0 +1,76 @@
+summary: >
+  Mae cyfrifwyr rheoli'n rhoi'r wybodaeth a'r cyngor ariannol sydd eu hangen ar reolwyr i gynllunio, rheoli
+  gwariant, a gwneud penderfyniadau da. Maen nhw'n gosod ac yn monitro cyllidebau, yn rhagweld gwariant, yn costio
+  gwasanaethau, ac yn adeiladu'r achos ariannol dros fuddsoddi. Mewn sefydliad gofal iechyd digidol maen nhw'n
+  gweithio'n agos gyda rhaglenni digidol a thimau cynnyrch, lle mae cael cyfalaf a refeniw, costau oes gyfan, a
+  gwerth am arian yn gywir yn ganolog i benderfyniadau da.
+health_context:
+  - Caiff rhaglenni digidol yn aml eu hariannu o gymysgedd o gyfalaf a refeniw, cyllid wedi'i glustnodi, neu gyllid am gyfnod cyfyngedig, pob un â'i reolau ei hun ar beth y gellir ei wario arno.
+  - Mae symud o systemau sy'n eiddo i'r sefydliad i wasanaethau cwmwl a thanysgrifiadau'n symud costau o gyfalaf i refeniw, sy'n effeithio ar gyllidebau, achosion busnes, a cheisiadau am gyllid.
+  - Mae'n rhaid i benderfyniadau buddsoddi ddangos gwerth am arian ar gyfer arian cyhoeddus a buddion i gleifion, clinigwyr, a staff gofal, nid arbedion ariannol yn unig.
+  - Mae contractau ar gyfer meddalwedd, lletya, a chymorth yn aml yn para sawl blwyddyn, felly mae'n rhaid i ragolygon gynnwys costau rhedeg ymhell ar ôl mynd yn fyw.
+  - Efallai nad yw deiliaid cyllidebau mewn timau digidol a chlinigol yn arbenigwyr cyllid, felly mae cyngor clir ac ymarferol yn rhan fawr o'r swydd.
+levels:
+  - title: Cyfrifydd rheoli dan hyfforddiant
+    slug: cyfrifydd-rheoli-dan-hyfforddiant
+    summary: Mae cyfrifwyr rheoli dan hyfforddiant, a elwir weithiau'n ddadansoddwyr cyllid, yn cynhyrchu adroddiadau a dadansoddiad cyllideb ar gyfer set o ddeiliaid cyllidebau wrth weithio tuag at gymhwyster cyfrifyddiaeth cydnabyddedig.
+    responsibilities:
+      - Paratoi adroddiadau cyllideb misol ar gyfer grŵp o ddeiliaid cyllidebau ac egluro'r prif amrywiannau.
+      - Postio cyfnodolion diwedd mis, croniadau, a chywiriadau i sicrhau bod adroddiadau'n gywir.
+      - Gwirio bod gwariant wedi'i godio'n gywir rhwng canolfannau costau, prosiectau, a chyfalaf a refeniw.
+      - Casglu gwybodaeth ragolygu a diweddaru rhagolygon gyda deiliaid cyllidebau.
+      - Adeiladu gwybodaeth gostau ar gyfer achosion busnes dan arweiniad.
+      - Gweithio tuag at gymhwyster cyfrifyddiaeth cydnabyddedig.
+    qualifications:
+      - Gradd neu gymhwyster cyfrifyddu canolradd, ac yn gweithio tuag at gymhwyster cyfrifyddiaeth cydnabyddedig, neu brofiad cyfatebol.
+    job_evaluation_notes: Caiff gwybodaeth ei sgorio ar y lefel sydd ei hangen ar y swydd unwaith y bydd yr hyfforddiant yn ddigon pell ymlaen i wneud y gwaith. Mae adnoddau ariannol ar lefel 3 am fonitro cyllidebau dirprwyedig.
+  - title: Cyfrifydd rheoli
+    slug: cyfrifydd-rheoli
+    summary: Mae cyfrifwyr rheoli'n gyfrifwyr cymwysedig sy'n rhedeg gosod, monitro, a rhagweld cyllidebau ar gyfer cyfarwyddiaeth neu grŵp o wasanaethau, ac yn cynghori deiliaid cyllidebau ar eu cyllid.
+    responsibilities:
+      - Arwain y cylch adrodd a rhagweld misol ar gyfer cyfarwyddiaeth neu grŵp o wasanaethau.
+      - Cynghori deiliaid cyllidebau ar wariant, risgiau, a chamau i aros o fewn y gyllideb.
+      - Paratoi cyllidebau blynyddol, gan gynnwys costau staff, contractau, a thrwyddedau.
+      - Cymhwyso rheolau cyfalaf a refeniw i wariant digidol, fel datblygu meddalwedd, trwyddedau, a chaledwedd.
+      - Adeiladu modelau ariannol ar gyfer achosion busnes ac arfarniadau opsiynau.
+      - Goruchwylio a datblygu cyfrifwyr dan hyfforddiant.
+    qualifications:
+      - Cymhwyster cyfrifyddiaeth cydnabyddedig, neu brofiad cyfatebol.
+  - title: Uwch gyfrifydd rheoli
+    slug: uwch-gyfrifydd-rheoli
+    summary: Mae uwch gyfrifwyr rheoli'n arwain rheolaeth ariannol cyfarwyddiaeth fawr neu raglen ddigidol fawr, gan gynnwys rhagweld, costio, ac achosion busnes cymhleth.
+    responsibilities:
+      - Arwain gosod a rhagweld cyllidebau ar gyfer cyfarwyddiaeth fawr neu raglen ddigidol fawr.
+      - Modelu senarios, fel newidiadau cyllid, oedi cyflawni, a'r symud o gyfalaf i gostau tanysgrifiadau cwmwl.
+      - Arwain yr achos ariannol dros fuddsoddiadau sylweddol, gan gynnwys costau oes gyfan, buddion, a gwerth am arian.
+      - Adeiladu costio gwasanaethau a chynhyrchion, fel cost lawn rhedeg gwasanaeth digidol.
+      - Cyflwyno perfformiad a risgiau ariannol i uwch reolwyr a byrddau rhaglen.
+      - Rheoli tîm bach o gyfrifwyr a hyfforddeion.
+    qualifications:
+      - Cymhwyster cyfrifyddiaeth cydnabyddedig, gyda phrofiad sylweddol ar ôl cymhwyso, neu gyfatebol.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 4 gan fod y swydd yn gosod y gyllideb ar gyfer cyfarwyddiaeth neu raglen gyda'i deiliaid cyllidebau.
+  - title: Partner busnes cyllid
+    slug: partner-busnes-cyllid
+    summary: Mae partneriaid busnes cyllid yn gweithio fel rhan o arweinyddiaeth cyfarwyddiaeth, yn aml digidol, data, a thechnoleg, gan droi gwybodaeth ariannol yn benderfyniadau a sicrhau bod buddsoddiad yn rhoi gwerth am arian.
+    responsibilities:
+      - Gweithredu fel yr uwch gynghorydd cyllid i dîm arwain cyfarwyddiaeth, fel digidol, data, a thechnoleg.
+      - Arwain cynllun ariannol y gyfarwyddiaeth, gan gysylltu gwariant â blaenoriaethau, y gweithlu, a buddsoddiad.
+      - Herio a chefnogi arweinwyr ar werth am arian, gan gynnwys gwariant cyflenwyr, defnydd trwyddedau, a chostau cwmwl.
+      - Arwain achosion busnes ar gyfer buddsoddiadau digidol mawr a chynrychioli cyllid mewn byrddau buddsoddi.
+      - Sicrhau bod gwariant digidol yn bodloni rheolau cyllid, mesurau rheoli gwariant, a therfynau cyfalaf a refeniw.
+      - Rheoli cyfrifwyr rheoli sy'n cefnogi'r gyfarwyddiaeth yn llinell.
+    qualifications:
+      - Cymhwyster cyfrifyddiaeth cydnabyddedig, gyda phrofiad helaeth ar ôl cymhwyso, gan gynnwys partneriaeth busnes.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 5 gan fod y swydd yn gosod cyllidebau ar draws sawl gwasanaeth mewn cyfarwyddiaeth.
+  - title: Pennaeth cyfrifon rheoli
+    slug: pennaeth-cyfrifon-rheoli
+    summary: Mae penaethiaid cyfrifon rheoli'n arwain cyllidebu, rhagweld, ac adrodd rheoli'r sefydliad, a'r tîm o bartneriaid busnes a chyfrifwyr sy'n ei gyflawni.
+    responsibilities:
+      - Arwain gosod cyllideb flynyddol a rhagweld yn ystod y flwyddyn ar gyfer y sefydliad.
+      - Dylunio adrodd rheoli, costio, a gwybodaeth perfformiad ar gyfer y bwrdd a'r tîm gweithredol.
+      - Gosod safonau achosion busnes ac arfarnu buddsoddiadau, gan gynnwys ar gyfer buddsoddiad digidol.
+      - Cynghori cyfarwyddwyr ar risgiau ariannol, cynlluniau arbedion, a'r dewisiadau sydd eu hangen i aros o fewn y cyllid.
+      - Arwain a datblygu'r timau partneriaeth busnes a chyfrifon rheoli.
+      - Gwella offer cyllidebu ac adrodd, gan gynnwys adrodd hunanwasanaeth ar gyfer deiliaid cyllidebau.
+    qualifications:
+      - Cymhwyster cyfrifyddiaeth cydnabyddedig, gyda phrofiad helaeth ar ôl cymhwyso, gan gynnwys arwain tîm cyllid.

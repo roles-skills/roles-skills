@@ -1,0 +1,77 @@
+summary: >
+  Mae staff llywodraethiant gwybodaeth yn helpu'r sefydliad i drin gwybodaeth bersonol a gwybodaeth iechyd yn
+  gyfreithlon, yn ddiogel, ac yn foesegol. Maen nhw'n cynghori timau ar ddiogelu data a chyfrinachedd, yn ymdrin â
+  cheisiadau hawliau gwybodaeth, yn cefnogi asesiadau o'r effaith ar ddiogelu data, yn rheoli achosion o dor
+  diogelwch data, ac yn casglu'r dystiolaeth sy'n dangos bod y sefydliad yn bodloni safonau llywodraethiant
+  gwybodaeth.
+health_context:
+  - Mae cyfraith diogelu data'n rhoi diogelwch ychwanegol i wybodaeth iechyd, felly mae'r safon ar gyfer defnydd cyfreithlon, diogelwch, a thryloywder yn uchel.
+  - Mae gwasanaethau iechyd digidol yn aml yn rhannu data ar draws llawer o sefydliadau gofal, felly mae angen adolygu cytundebau rhannu gwybodaeth a llifoedd data'n ofalus.
+  - Mae gan gleifion a'r cyhoedd hawliau cyfreithiol i gael mynediad at eu cofnodion ac at wybodaeth y sefydliad, gyda therfynau amser llym.
+  - Gall achosion o dor diogelwch data sy'n ymwneud â gwybodaeth iechyd achosi niwed a gofid gwirioneddol, felly mae angen ymdrin â digwyddiadau'n gyflym ac yn ofalus.
+  - Mae defnyddiau newydd o ddata, fel dadansoddeg, ymchwil, a deallusrwydd artiffisial, yn codi cwestiynau am gydsyniad, cyfrinachedd, ac ymddiriedaeth y cyhoedd.
+levels:
+  - title: Swyddog llywodraethiant gwybodaeth
+    slug: swyddog-llywodraethiant-gwybodaeth
+    summary: Yn cefnogi'r tîm llywodraethiant gwybodaeth gyda cheisiadau hawliau gwybodaeth, cofnodi digwyddiadau, cofnodion hyfforddi, a chasglu tystiolaeth, gan ddilyn gweithdrefnau penodol.
+    responsibilities:
+      - Cofnodi, cydnabod, ac olrhain ceisiadau hawliau gwybodaeth, a chasglu gwybodaeth ar gyfer ymatebion.
+      - Cofnodi achosion o dor diogelwch data a digwyddiadau a fu bron â digwydd, a chasglu'r ffeithiau i'w hadolygu.
+      - Cadw cofrestrau llywodraethiant gwybodaeth yn gyfredol, fel y gofrestr asedau gwybodaeth a'r map llif data.
+      - Casglu tystiolaeth ar gyfer yr hunanasesiad llywodraethiant gwybodaeth blynyddol.
+      - Olrhain cwblhau hyfforddiant llywodraethiant gwybodaeth gan staff.
+      - Ateb cwestiynau llywodraethiant gwybodaeth arferol gan staff.
+    qualifications:
+      - Profiad o waith gweinyddol neu gofnodion, neu gymhwyster lefel sylfaen mewn diogelu data neu brofiad cyfatebol.
+    job_evaluation_notes: Mae ymdrech emosiynol yn adlewyrchu cysylltiad anuniongyrchol aml â chynnwys trallodus mewn ceisiadau, cofnodion, ac adroddiadau am achosion o dor diogelwch.
+  - title: Uwch swyddog llywodraethiant gwybodaeth
+    slug: uwch-swyddog-llywodraethiant-gwybodaeth
+    summary: Yn ymdrin â llwyth achosion o geisiadau hawliau gwybodaeth a digwyddiadau, ac yn cefnogi timau gydag asesiadau o'r effaith ar ddiogelu data a rhannu gwybodaeth.
+    responsibilities:
+      - Ymdrin â cheisiadau hawliau gwybodaeth, gan gynnwys golygu a chymhwyso esemptiadau, o fewn terfynau amser cyfreithiol.
+      - Asesu ac ymchwilio i achosion o dor diogelwch data a digwyddiadau a fu bron â digwydd, ac olrhain camau gweithredu hyd nes eu cau.
+      - Helpu timau prosiect i gwblhau asesiadau o'r effaith ar ddiogelu data a disgrifio llifoedd data.
+      - Drafftio cytundebau rhannu gwybodaeth a hysbysiadau preifatrwydd i'w hadolygu.
+      - Cyflwyno hyfforddiant a sesiynau briffio llywodraethiant gwybodaeth i staff.
+      - Cynnal archwiliadau mynediad a chadw cofnodion.
+    qualifications:
+      - Cymhwyster cydnabyddedig mewn diogelu data neu lywodraethiant gwybodaeth, neu brofiad cyfatebol.
+  - title: Arweinydd llywodraethiant gwybodaeth
+    slug: arweinydd-llywodraethiant-gwybodaeth
+    summary: Yn rhoi cyngor arbenigol ar lywodraethiant gwybodaeth i gyfarwyddiaeth neu raglen, gan arwain asesiadau o'r effaith ar ddiogelu data ac achosion cymhleth.
+    responsibilities:
+      - Cynghori timau cynnyrch a gwasanaethau ar sail gyfreithlon, cydsyniad, cyfrinachedd, a chadw.
+      - Adolygu asesiadau o'r effaith ar ddiogelu data ar gyfer systemau cymhleth ac argymell mesurau rheoli.
+      - Ymdrin â cheisiadau hawliau gwybodaeth cymhleth neu ddadleuol ac adolygiadau mewnol.
+      - Ymchwilio i achosion difrifol o dor diogelwch data ac argymell a ddylid hysbysu rheoleiddwyr.
+      - Adolygu cytundebau rhannu gwybodaeth gyda sefydliadau partner.
+      - Goruchwylio a hyfforddi swyddogion llywodraethiant gwybodaeth.
+    qualifications:
+      - Cymhwyster proffesiynol cydnabyddedig mewn diogelu data neu lywodraethiant gwybodaeth, neu brofiad cyfatebol.
+      - Profiad o gynghori ar ddiogelu data mewn lleoliad iechyd neu ofal.
+  - title: Rheolwr llywodraethiant gwybodaeth
+    slug: rheolwr-llywodraethiant-gwybodaeth
+    summary: Yn rheoli'r gwasanaeth llywodraethiant gwybodaeth o ddydd i ddydd, gan gynnwys ei dîm, ei waith achos, ei raglen sicrwydd, a'i hyfforddiant.
+    responsibilities:
+      - Rheoli'r tîm llywodraethiant gwybodaeth a'i waith achos, gan sicrhau bod terfynau amser cyfreithiol yn cael eu bodloni.
+      - Cynllunio a rhedeg y rhaglen sicrwydd llywodraethiant gwybodaeth a'r hunanasesiad blynyddol.
+      - Ysgrifennu ac adolygu polisïau a gweithdrefnau llywodraethiant gwybodaeth.
+      - Cynghori uwch reolwyr ar risgiau gwybodaeth a chadw'r gofrestr risgiau gwybodaeth.
+      - Arwain yr ymateb i ddigwyddiadau difrifol, gan weithio gyda chydweithwyr diogelwch, diogelwch clinigol, a chyfathrebu.
+      - Dylunio a goruchwylio hyfforddiant llywodraethiant gwybodaeth ar gyfer yr holl staff.
+    qualifications:
+      - Cymhwyster proffesiynol cydnabyddedig mewn diogelu data neu lywodraethiant gwybodaeth, neu brofiad cyfatebol.
+      - Profiad sylweddol o lywodraethiant gwybodaeth ym maes iechyd neu ofal.
+  - title: Pennaeth llywodraethiant gwybodaeth
+    slug: pennaeth-llywodraethiant-gwybodaeth
+    summary: Yn arwain llywodraethiant gwybodaeth ar gyfer y sefydliad, gan osod ei bolisi a'i strategaeth a chynghori uwch arweinwyr ar risg gwybodaeth a chydymffurfio.
+    responsibilities:
+      - Gosod strategaeth, polisïau, a fframwaith llywodraethiant gwybodaeth y sefydliad.
+      - Arwain y gwasanaethau llywodraethiant gwybodaeth a chofnodion a datblygu eu staff.
+      - Cynghori'r arweinydd gweithredol ar gyfer risg gwybodaeth, y bwrdd, a'i bwyllgorau ar risg gwybodaeth a chydymffurfio.
+      - Gwneud y penderfyniadau terfynol ar gwestiynau cymhleth am ddatgelu, rhannu, a hysbysu am achosion o dor diogelwch.
+      - Cynrychioli'r sefydliad gyda rheoleiddwyr, archwilwyr, a sefydliadau partner.
+      - Sicrhau bod gwasanaethau digidol newydd, defnyddiau data, a deallusrwydd artiffisial yn cael eu dylunio gyda phreifatrwydd a thryloywder o'r dechrau.
+    qualifications:
+      - Cymhwyster proffesiynol cydnabyddedig mewn diogelu data neu lywodraethiant gwybodaeth, neu brofiad cyfatebol.
+      - Profiad helaeth o arwain llywodraethiant gwybodaeth ym maes iechyd neu ofal.

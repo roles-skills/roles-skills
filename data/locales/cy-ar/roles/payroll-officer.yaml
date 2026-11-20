@@ -1,0 +1,66 @@
+summary: >
+  Mae swyddogion cyflogres yn sicrhau bod pob aelod o staff yn cael ei dalu'n gywir ac mewn pryd. Maen nhw'n
+  prosesu dechreuwyr, ymadawyr, a newidiadau, yn cyfrifo tâl a didyniadau, yn rhedeg gwiriadau cyflogres, ac yn
+  ateb ymholiadau am dâl. Mewn sefydliad gofal iechyd digidol gall y gyflogres gynnwys staff clinigol, digidol, a
+  chorfforaethol ar gontractau a rheolau tâl gwahanol, ac yn aml caiff ei rhedeg ar system gyflogres a rennir neu
+  a ddarperir gan gyflenwyr allanol y mae'n rhaid i'r tîm ei gwirio a'i sicrhau.
+health_context:
+  - Gall fod gan staff clinigol dâl cymhleth, fel oriau anghymdeithasol, ar alwad, a sawl contract, y mae'n rhaid i'r gyflogres eu cyfrifo'n gywir.
+  - Caiff rheolau tâl a dyfarniadau cyflog blynyddol yn aml eu gosod yn genedlaethol neu gan gyllidwyr, ac mae'n rhaid eu cymhwyso'n brydlon ac yn gywir.
+  - Y gyflogres fel arfer yw cost unigol fwyaf y sefydliad, felly mae gwallau a thwyll yn cael effaith fawr ar arian cyhoeddus ac ar ymddiriedaeth staff.
+  - Mae data cyflogres yn wybodaeth bersonol sensitif iawn, gan gynnwys manylion iechyd, teulu, a banc, felly mae llywodraethiant gwybodaeth yn ganolog i'r swydd.
+  - Mae'r gyflogres yn dibynnu ar ddata cywir o systemau'r gweithlu a rhestrau dyletswyddau, felly mae swyddogion yn gweithio'n agos gydag adnoddau dynol a thimau systemau.
+levels:
+  - title: Swyddog cyflogres
+    slug: swyddog-cyflogres
+    summary: Mae swyddogion cyflogres yn prosesu newidiadau tâl ac yn cyfrifo tâl ar gyfer grŵp o staff, gan ddilyn gweithdrefnau a gwirio eu gwaith cyn i bob cyflogres gau.
+    responsibilities:
+      - Mewnbynnu dechreuwyr, ymadawyr, a newidiadau contract i'r system gyflogres o ffurflenni awdurdodedig.
+      - Cyfrifo tâl, gan gynnwys goramser, taliadau ychwanegol, tâl salwch, a thaliadau absenoldeb am resymau teuluol.
+      - Cymhwyso treth, pensiwn, a didyniadau eraill yn gywir.
+      - Ateb ymholiadau am dâl gan staff a rheolwyr yn ddoeth ac yn gyfrinachol.
+      - Gwirio allbynnau'r gyflogres am wallau a'u cywiro cyn i'r gyflogres gau.
+      - Dilyn mesurau rheoli'r gyflogres a rheolau llywodraethiant gwybodaeth.
+    qualifications:
+      - Cymhwyster cyflogres lefel mynediad, neu brofiad cyfatebol o brosesu cyflogres.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 3 gan fod y swydd yn prosesu'r tâl y mae'r sefydliad yn ei ryddhau i staff. Mae sgiliau corfforol ar lefel 3 am fewnbynnu data'n gyflym ac yn gywir.
+  - title: Uwch swyddog cyflogres
+    slug: uwch-swyddog-cyflogres
+    summary: Mae uwch swyddogion cyflogres yn ymdrin ag achosion cyflogres cymhleth, yn gwirio gwaith swyddogion cyflogres, ac yn helpu i redeg cysoniadau a ffurflenni'r gyflogres.
+    responsibilities:
+      - Datrys achosion tâl cymhleth, fel ôl-daliadau, sawl contract, ac aberthu cyflog.
+      - Adennill gordaliadau'n sensitif ac yn unol â pholisi.
+      - Cysoni'r gyflogres â'r cyfriflyfr, a pharatoi cysoniadau treth a phensiwn.
+      - Gwirio gwaith swyddogion cyflogres a llofnodi adrannau o'r gyflogres.
+      - Profi dyfarniadau cyflog a newidiadau i reolau yn y system gyflogres cyn iddynt fynd yn fyw.
+      - Hyfforddi swyddogion cyflogres a rhoi cyngor sylfaenol ar dâl i reolwyr.
+    qualifications:
+      - Cymhwyster cyflogres canolradd, neu brofiad cyfatebol.
+  - title: Arweinydd tîm cyflogres
+    slug: arweinydd-tim-cyflogres
+    summary: Mae arweinwyr tîm cyflogres yn rheoli'r tîm cyflogres o ddydd i ddydd, yn rhedeg y cylch cyflogres llawn, ac yn sicrhau bod adroddiadau statudol a ffurflenni pensiwn yn gywir ac mewn pryd.
+    responsibilities:
+      - Cynllunio a rhedeg y cylch cyflogres, gan sicrhau bod dyddiadau cau, gwiriadau, a therfynau amser talu'n cael eu bodloni.
+      - Llofnodi gwiriadau'r gyflogres ac ymchwilio i amrywiannau sylweddol.
+      - Rheoli adroddiadau statudol y gyflogres a ffurflenni pensiwn.
+      - Rheoli'r tîm cyflogres o ddydd i ddydd, gan gynnwys llwyth gwaith, hyfforddiant, a gwiriadau ansawdd.
+      - Gweithio gyda thimau adnoddau dynol a rhestrau dyletswyddau i wella ansawdd ac amseroldeb data tâl.
+      - Ateb ymholiadau a chwynion am dâl sydd wedi'u huwchgyfeirio.
+    qualifications:
+      - Cymhwyster cyflogres uwch, neu brofiad cyfatebol.
+      - Profiad o redeg cyflogres lawn.
+  - title: Rheolwr cyflogres
+    slug: rheolwr-cyflogres
+    summary: Mae rheolwyr cyflogres yn gyfrifol am wasanaeth cyflogres y sefydliad, boed yn cael ei redeg yn fewnol neu gan ddarparwr, ac yn rhoi sicrwydd i arweinwyr bod tâl yn gywir, yn gyfreithlon, ac wedi'i reoli'n dda.
+    responsibilities:
+      - Rheoli'r gwasanaeth cyflogres a'i dîm, ac adrodd ar berfformiad a chywirdeb.
+      - Rheoli'r contract a'r berthynas ag unrhyw ddarparwr cyflogres neu wasanaeth a rennir.
+      - Gosod mesurau rheoli'r gyflogres, fel terfynau cymeradwyo, adroddiadau eithriadau, a gwahanu dyletswyddau.
+      - Cynllunio ar gyfer newidiadau i reolau tâl, dyfarniadau cyflog, pensiynau, a threth, a sicrhau eu bod yn cael eu cymhwyso'n gywir.
+      - Arwain newidiadau ac uwchraddiadau i'r system gyflogres, gan weithio gyda thimau systemau ac adnoddau dynol.
+      - Darparu gwybodaeth gyflogres ar gyfer cyllidebau, rhagolygon, a'r cyfrifon blynyddol.
+      - Arwain yr ymateb i fethiannau a gwallau difrifol yn y gyflogres.
+    qualifications:
+      - Cymhwyster cyflogres uwch neu gymhwyster cyfrifyddiaeth cydnabyddedig, neu brofiad cyfatebol.
+      - Profiad o reoli gwasanaeth cyflogres.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 4 gan fod y swydd yn gyfrifol am gyflogres gyfan y sefydliad, ei gost fwyaf. Mae pobl ar lefel 3 gan fod y tîm cyflogres yn fach.

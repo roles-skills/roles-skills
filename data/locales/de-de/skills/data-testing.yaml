@@ -1,0 +1,46 @@
+# German translations of data/skills/data-testing.yaml. Keys are the English skill ids.
+data-ai-assurance:
+  name: Sichere und faire KI in der Gesundheitsversorgung
+  description: Sicherstellen, dass statistische, maschinelle Lern- und KI-Modelle in Gesundheit und Pflege sicher, fair, erklärbar und überwacht sind, einschließlich der Prüfung auf Verzerrung über Patientengruppen hinweg und der Erfüllung der Regulierung für Medizinprodukte und KI.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, wie ein Modell Patientinnen und Patienten schaden kann, etwa durch Verzerrung, Drift oder übermäßiges Vertrauen in seine Ausgabe
+      - erklären, warum Modelle an der Population validiert werden müssen, mit der sie genutzt werden
+    working: |
+      Sie können:
+      - die Modellleistung für verschiedene Patientengruppen messen und Unterschiede berichten
+      - vorgesehene Verwendung, Trainingsdaten und bekannte Grenzen eines Modells dokumentieren, etwa in einer Modellkarte
+      - Belege zu einem Modell für einen klinischen Sicherheitsnachweis beisteuern
+    practitioner: |
+      Sie können:
+      - die Validierung, Verzerrungsbewertung und Live-Überwachung eines Modells mit klinischen Kolleginnen und Kollegen planen
+      - entscheiden, wann ein Modell neu trainiert, eingeschränkt oder zurückgezogen werden muss
+      - Teams dazu beraten, wann ein Modell als Medizinprodukt reguliert sein kann und welche Belege es braucht
+    expert: |
+      Sie können:
+      - die Standards der Organisation für Absicherung und Überwachung von KI in der Versorgung festlegen
+      - die Absicherung von Hochrisikomodellen vor und nach der Bereitstellung leiten
+      - die Organisation zu sicherer und fairer KI gegenüber Aufsichtsbehörden und Partnern vertreten
+data-deidentification:
+  name: Pseudonymisierung und Offenlegungskontrolle
+  description: Die Vertraulichkeit von Patientinnen und Patienten schützen, wenn Daten verknüpft, analysiert, geteilt oder veröffentlicht werden, durch Pseudonymisierung, Anonymisierung, Unterdrückung kleiner Zahlen und andere Methoden der statistischen Offenlegungskontrolle.
+  levels:
+    awareness: |
+      Sie können:
+      - den Unterschied zwischen identifizierbaren, pseudonymisierten und anonymisierten Daten erklären
+      - die Regeln der Organisation zur Unterdrückung kleiner Zahlen in Ergebnissen befolgen
+    working: |
+      Sie können:
+      - mit pseudonymisierten Daten arbeiten und Offenlegungsprüfungen anwenden, bevor Ergebnisse freigegeben werden
+      - erkennen, wann verknüpfte oder detaillierte Daten eine Patientin oder einen Patienten identifizieren könnten
+    practitioner: |
+      Sie können:
+      - Pseudonymisierungs- und Verknüpfungsmethoden entwerfen, die Kennungen von Analysedaten getrennt halten
+      - das Re-Identifizierungsrisiko eines Datensatzes oder einer Veröffentlichung bewerten und geeignete Kontrollen wählen
+      - Teams zu sicheren Umgebungen beraten, etwa vertrauenswürdigen Forschungsumgebungen
+    expert: |
+      Sie können:
+      - die Standards der Organisation für Deidentifizierung und Offenlegungskontrolle festlegen
+      - Datenfreigaben und Verknüpfungsprojekte mit hohem Risiko absichern
+      - die Arbeit mit Partnern an sicherem Datenzugang für Forschung und Planung leiten

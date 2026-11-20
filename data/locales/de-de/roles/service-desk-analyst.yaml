@@ -1,0 +1,70 @@
+summary: Service-Desk-Analystinnen und -Analysten sind die erste Anlaufstelle für Mitarbeitende, die Hilfe bei den digitalen Diensten der Organisation brauchen, von Problemen mit Anmeldung und Smartcard bis zu Störungen in klinischen Systemen und Geräten. Sie erfassen, priorisieren, lösen oder eskalieren Störungen und Anfragen, halten Nutzende informiert und erkennen Muster, die auf größere Probleme hinweisen. In vielen Gesundheitsorganisationen läuft der Service Desk rund um die Uhr, weil die klinischen Dienste es tun.
+health_context:
+- Anrufende sind oft klinisches Personal und Pflegepersonal mitten in der Patientenversorgung; der Desk priorisiert daher nach der Wirkung auf Patientinnen und Patienten, nicht nur nach der Reihenfolge des Eingangs.
+- Viele klinische Dienste laufen täglich 24 Stunden; der Service Desk arbeitet daher oft in Schichten und Bereitschaftsplänen außerhalb der Arbeitszeit.
+- Der Zugriff auf klinische Systeme nutzt rollenbasierten Zugriff und starke Authentifizierung; der Desk bearbeitet daher Probleme mit Konten, Smartcards und Multi-Faktor-Authentifizierung und prüft dabei die Identität sorgfältig.
+- Anrufende teilen möglicherweise vertrauliche Patienteninformationen mit, wenn sie eine Störung beschreiben; Analystinnen und Analysten befolgen daher die Regeln der Informationsgovernance dazu, was sie in Tickets erfassen.
+- Der Desk sieht oft als Erster Zeichen einer größeren Störung oder eines Cyberangriffs, etwa viele Anrufe zum selben System oder eine Welle verdächtiger E-Mails, und muss sie schnell eskalieren.
+levels:
+- title: Service-Desk-Analyst/in
+  summary: Eine Service-Desk-Analystin oder ein Service-Desk-Analyst beantwortet Anrufe und Tickets von Mitarbeitenden, löst häufige Probleme beim ersten Kontakt mit Skripten und Wissensartikeln und leitet andere Probleme an die richtigen Teams weiter.
+  responsibilities:
+  - Anrufe, Chats und Selbstbedienungstickets von Mitarbeitenden annehmen und jedes genau im Service-Management-Werkzeug erfassen.
+  - Häufige Probleme beim ersten Kontakt mit Skripten und Wissensartikeln lösen, etwa Passwortrücksetzungen, Konto-Entsperrungen und Druckerstörungen.
+  - Die Identität der Anrufenden prüfen, bevor Konten oder Zugriffe geändert werden, nach den Verfahren der Organisation.
+  - Fragen, wie sich das Problem auf die Patientenversorgung auswirkt, die Priorität festlegen und die Störung an das richtige Lösungsteam weitergeben.
+  - Nutzende über ihre Tickets auf dem Laufenden halten und bestätigen, dass die Lösung funktioniert, bevor sie geschlossen werden.
+  - Nur die nötigen Informationen in Tickets erfassen, ohne unnötige Patientendetails.
+  qualifications:
+  - Eine Qualifikation auf Niveau 3 in der IT, eine Ausbildung im IT-Support oder gleichwertige Erfahrung.
+  - Gute Kundenservice- und Tastaturkenntnisse, durch Arbeit oder Studium erworben.
+  job_evaluation_notes: Das UK GDaD PCF schlägt für diese Stufe Entgeltgruppe 4 vor. Diese Referenz beginnt skriptgestützte Service-Desk-Arbeit der ersten Linie in Entgeltgruppe 3 und ordnet Analystinnen und Analysten, die komplexere Störungen lösen, in Entgeltgruppe 4 ein. Die geistige Anstrengung spiegelt häufige Konzentration auf unvorhersehbare Anrufe wider; die emotionale Anstrengung spiegelt häufige Anrufe von Mitarbeitenden unter Druck in klinischen Bereichen wider.
+- title: Technische/r Service-Desk-Analyst/in
+  summary: Eine technische Service-Desk-Analystin oder ein technischer Service-Desk-Analyst löst komplexere Störungen beim ersten Kontakt, einschließlich Fernkorrekturen an Geräten und am Zugriff auf klinische Systeme, und bearbeitet dringende Anrufe aus klinischen Bereichen.
+  responsibilities:
+  - Komplexere Störungen und Anfragen aus der Ferne lösen, einschließlich Störungen bei Geräten, Software und Zugriff auf klinische Systeme.
+  - Dringende Anrufe aus klinischen Bereichen wie Notaufnahmen, Stationen und Operationssälen bearbeiten und bei Bedarf den Prozess für größere Störungen starten.
+  - Zugriffsanfragen für klinische Systeme bearbeiten und gegen die Regeln des rollenbasierten Zugriffs prüfen.
+  - Wissensartikel schreiben und verbessern, damit mehr Probleme beim ersten Kontakt gelöst werden können.
+  - Wiederholte Anrufe zur selben Störung erkennen und beim Störungs- und Problem Management einbringen.
+  - Vermutete Phishing-Mails und andere Sicherheitsereignisse dem Sicherheitsteam melden.
+  - Neuen Analystinnen und Analysten zeigen, wie die Werkzeuge und Verfahren des Desks genutzt werden.
+  qualifications:
+  - Erfahrung im IT-Support an einem Service Desk oder in einem ähnlichen Umfeld.
+  - Eine Grundlagenqualifikation im IT-Service-Management oder gleichwertige Erfahrung.
+  job_evaluation_notes: Nutzt dieselbe Stufe des UK GDaD PCF wie die Analystin oder der Analyst in Entgeltgruppe 3, für Analystinnen und Analysten, die komplexere Probleme lösen und dringende klinische Anrufe bearbeiten. Die Kommunikation liegt über dem Profil der Entgeltgruppe, weil Analystinnen und Analysten technische Probleme oft beschäftigtem klinischem Personal erklären müssen.
+- title: Senior-Service-Desk-Analyst/in
+  responsibilities:
+  - Eine Schicht am Service Desk leiten und Anrufwarteschlangen gegen die klinische Dringlichkeit offener Störungen abwägen.
+  - Schwierige oder eskalierte Anrufe übernehmen, auch Anrufe leitender Klinikerinnen und Kliniker während dringender Versorgung.
+  - Skripte und Wissensartikel genau halten, wenn sich klinische Systeme und Geräte ändern.
+  - Als Eskalationsstelle des Desks außerhalb der Arbeitszeit fungieren und den Prozess für größere Störungen starten, wenn viele Nutzende betroffen sind.
+  - Die Qualität von Tickets prüfen, einschließlich Identitätsprüfungen und dessen, was zu Patientinnen und Patienten erfasst wird.
+  - Die Dienstplanabdeckung planen, damit der Desk jederzeit besetzt ist.
+  qualifications:
+  - Umfangreiche Service-Desk-Erfahrung, einschließlich der Bearbeitung von Eskalationen.
+  - Eine Qualifikation im IT-Service-Management oder gleichwertige Erfahrung.
+  job_evaluation_notes: Die Planung spiegelt Schicht- und Dienstplanplanung für einen 24-Stunden-Desk wider. Die emotionale Anstrengung spiegelt häufige schwierige Anrufe von Mitarbeitenden wider, die mit dringender Patientenversorgung befasst sind.
+- title: Service-Desk-Manager/in
+  responsibilities:
+  - Den Service Desk im Tagesgeschäft leiten und sicherstellen, dass er 24 Stunden am Tag, jeden Tag, besetzt ist und reagiert.
+  - Prioritäten und Reaktionsziele festlegen, die das klinische Risiko widerspiegeln, vereinbart mit klinischen und betrieblichen Leitungen.
+  - Den Desk auf neue und geänderte klinische Systeme vorbereiten, einschließlich Schulung, Skripten und zusätzlicher Abdeckung bei der Inbetriebnahme.
+  - Ticket-Trends analysieren, um aufkommende Probleme zu finden, und mit dem Problem Management deren Ursachen beseitigen.
+  - Sicherstellen, dass der Desk Verfahren zu Identitätsprüfung, Informationsgovernance und Sicherheit befolgt und auf Feststellungen aus Audits reagiert.
+  - Senior-Analystinnen, -Analysten und Analystinnen und Analysten in der Linie führen, einschließlich Personalgewinnung, Leistung und Wohlbefinden für Mitarbeitende im Schichtdienst.
+  qualifications:
+  - Erfahrung in der Leitung eines Service-Desk-Teams, einschließlich Schicht- oder Bereitschaftsabdeckung außerhalb der Arbeitszeit.
+  - Eine Qualifikation im IT-Service-Management auf mittlerem Niveau oder gleichwertige Erfahrung.
+  job_evaluation_notes: Das Wissen liegt eine Stufe unter dem Profil der Entgeltgruppe, wie bei Service-Desk-Rollen üblich; die Verantwortung für Menschen ist höher, weil die Managerin oder der Manager ein schichtbasiertes Team führt.
+- title: Leiter/in Service Desk
+  responsibilities:
+  - Die Richtung des Service Desks festlegen, einschließlich Kontaktkanälen, Selbstbedienung und Unterstützung für Mitarbeitende, die über Standorte hinweg und in der Gemeinde arbeiten.
+  - Servicelevels mit klinischen und betrieblichen Diensten vereinbaren und Leitungen über die Leistung berichten.
+  - Sicherstellen, dass der Desk bei größeren Störungen, Cyberangriffen und Systemausfällen weiterarbeiten kann, mit klaren Verfahren zur Betriebskontinuität.
+  - Projektteams dazu beraten, wie neue klinische und betriebliche Systeme vor ihrer Inbetriebnahme unterstützt werden.
+  - Das Budget des Service Desks, die Werkzeuge und alle ausgelagerten Verträge für Support oder Support außerhalb der Arbeitszeit verwalten.
+  - Service-Desk-Managerinnen und -Manager führen und entwickeln und eine unterstützende Kultur für Mitarbeitende im Schichtdienst aufbauen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von IT-Supportdiensten, einschließlich 24-Stunden-Diensten.
+  - Eine fortgeschrittene Qualifikation im IT-Service-Management oder gleichwertige Erfahrung.

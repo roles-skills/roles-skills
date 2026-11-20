@@ -1,0 +1,39 @@
+summary: Netzwerkarchitektinnen und -architekten entwerfen die lokalen Netze, Weitverkehrsnetze, drahtlosen Netze und Cloud-Netzwerke, die die Standorte, Mitarbeitenden, klinischen Systeme und Medizinprodukte der Organisation verbinden. Sie stellen sicher, dass Netzwerke schnell, resilient und sicher genug sind für Versorgung, die nie stoppt, und planen, wie sich Netzwerke verändern, wenn Dienste in die Cloud wechseln und sich mit Partnerorganisationen verbinden.
+health_context:
+- Klinische Systeme, Telefonie und Medizinprodukte hängen vom Netzwerk ab; ein Ausfall kann die Versorgung stoppen. Entwürfe brauchen daher Resilienz und getestetes Failover.
+- Netzwerke tragen oft vernetzte Medizinprodukte, die schwer zu patchen sind; Architektinnen und Architekten entwerfen daher Segmentierung und Überwachung zu ihrem Schutz.
+- Mitarbeitende arbeiten in Krankenhäusern, Ambulanzen, Gemeindeeinrichtungen und in der Wohnung der Patientinnen und Patienten; Entwürfe müssen daher sicheren mobilen und Fernzugriff unterstützen.
+- Netzwerke verbinden sich mit gemeinsamen Gesundheits- und Pflegenetzen und Partnerorganisationen, die eigene Anforderungen an Verbindung und Sicherheit stellen.
+- Änderungen in klinischen Bereichen brauchen sorgfältige Planung um die Patientenversorgung herum, etwa indem Arbeiten außerhalb der Stoßzeiten terminiert werden.
+levels:
+- title: Associate Netzwerkarchitekt/in
+  responsibilities:
+  - Netzwerkentwürfe, Diagramme und Spezifikationen mit Anleitung von Netzwerkarchitektinnen und -architekten entwerfen.
+  - Standorte begehen und Anforderungen für klinische Bereiche erheben, einschließlich WLAN-Abdeckung und Geräteanschlüssen.
+  - Aufzeichnungen zu Netzwerktopologie, Adressierung und angeschlossenen Geräten aktuell halten.
+  - Vor der Prüfung kontrollieren, dass Entwürfe Servicelevels und Sicherheitsstandards erfüllen.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder Netzwerktechnik, eine anerkannte Qualifikation in Netzwerktechnik oder gleichwertige Erfahrung.
+  - Spezialwissen im Netzwerkentwurf, auf dem Niveau eines postgradualen Diploms oder gleichwertige Erfahrung.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 5): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 6. Das Wissen wird auf dem Niveau eines postgradualen Diploms bewertet, die Informationsressourcen auf Stufe 5, weil die Stelle Teile des Netzwerks entwirft, von denen große Informationssysteme abhängen.'
+- title: Netzwerkarchitekt/in
+  responsibilities:
+  - Lösungen für lokale Netze, Weitverkehrsnetze, drahtlose Netze und Cloud-Netzwerke für Standorte und Dienste entwerfen.
+  - Netzwerksegmentierung für Medizinprodukte, klinische Systeme und Gastzugang entwerfen.
+  - Netzwerkänderungen in klinischen Bereichen mit Dienstleitungen so planen, dass die Versorgung nicht gestört wird.
+  - Servicelevels mit Anbietern und Verbindungsanforderungen mit Partnernetzen vereinbaren.
+  - Neue Netzwerktechnologien und ihre Eignung für die Sicherheitsstandards der Organisation bewerten.
+  qualifications:
+  - Spezialwissen in Netzwerkarchitektur, auf Masterniveau oder gleichwertige Erfahrung.
+  - Erfahrung im Entwurf und Support von Unternehmensnetzwerken.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 6): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 7. Das Wissen wird auf Masterniveau oder gleichwertig bewertet, für Spezialwissen über lokale Netze, Weitverkehrsnetze, drahtlose Netze und Cloud-Netzwerke.'
+- title: Leitende/r Netzwerkarchitekt/in
+  responsibilities:
+  - Die Netzwerkarchitektur der Organisation verantworten, einschließlich ihrer Standorte, Rechenzentren und Cloud-Verbindungen.
+  - Standards für den Netzwerkentwurf setzen und Entwürfe im Design-Gremium absichern.
+  - Netzwerkresilienz und Wiederherstellung für kritische klinische Dienste entwerfen und sicherstellen, dass sie getestet werden.
+  - Zu Netzwerkinvestitionen, Anbieterverträgen und den Netzwerkrisiken neuer Dienste beraten.
+  - Als fachliche Eskalationsstelle dienen und andere Netzwerkarchitektinnen, -architekten und Ingenieurinnen und Ingenieure anleiten.
+  qualifications:
+  - Umfangreiche Erfahrung in Netzwerkarchitektur für komplexe Organisationen, auf einem Niveau, das einem Masterabschluss entspricht.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 7): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 8a. Die Informationsressourcen liegen auf Stufe 6, weil die Stelle die Netzwerkarchitektur verantwortet, von der alle Informationssysteme der Organisation abhängen.'

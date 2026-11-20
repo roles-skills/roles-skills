@@ -1,0 +1,26 @@
+summary: Testmanagerinnen und -manager planen, leiten und sichern das Testen für die digitalen Gesundheitsdienste und Programme der Organisation. Sie entscheiden, wie viel und welche Art von Tests nötig ist, steuern Testteams, Umgebungen und Anbieter und sagen Entscheidungsträgern klar, welche Risiken vor der Inbetriebnahme eines Dienstes bleiben. In der Gesundheitsversorgung gehört dazu, sicherzustellen, dass Tests den klinischen Sicherheitsnachweis und alle regulatorischen Anforderungen unterstützen.
+health_context:
+- Entscheidungen über die Inbetriebnahme klinischer Systeme hängen von Testbelegen und Restrisiken ab, die Testmanagerinnen und -manager an Produktverantwortliche, Beauftragte für klinische Sicherheit und Programmgremien berichten.
+- Große Änderungen, etwa Upgrades der elektronischen Patientenakte, brauchen Tests über viele Abteilungen, Systeme und Anbieter und oft Zeit klinischen Personals für Abnahmetests.
+- Tests müssen sich in klinische Dienste einfügen, etwa durch die Planung von Umstellungstests und Generalproben, um Störungen der Patientenversorgung gering zu halten.
+- Regulierte Software und sicherheitskritische Änderungen brauchen Tests, die Normen wie IEC 62304 und dem Prozess der Organisation für klinisches Risikomanagement genügen.
+levels:
+- title: Testmanager/in
+  responsibilities:
+  - Die Testplanung für ein Produkt oder Programm leiten, mit Umgebungen, Daten, Werkzeugen, Ressourcen, Zeitplänen und klinischem Risiko.
+  - Abnahmetests durch Nutzende mit klinischen und betrieblichen Leitungen planen und die Zeit von klinischem Personal für die Teilnahme sichern.
+  - Ein Team von Testanalystinnen, -analysten und -ingenieuren führen, einschließlich Testenden von Anbietern.
+  - Sicherstellen, dass Tests Anforderungen an klinische Sicherheit, Informationsgovernance und Regulierung erfüllen.
+  - Testfortschritt, Fehler und Restrisiken an Produktverantwortliche, Beauftragte für klinische Sicherheit und Programmgremien berichten.
+  - Testprozesse verbessern und Teststandards mit Lieferteams vereinbaren.
+  qualifications:
+  - Umfangreiche Erfahrung im Testmanagement für komplexe digitale Dienste, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Leiter/in Test
+  responsibilities:
+  - Die Teststrategie, Standards und Frameworks der Organisation für digitale Gesundheitsdienste festlegen.
+  - Sicherstellen, dass die Tests der Organisation Anforderungen an klinische Sicherheit, Medizinprodukte und andere Regulierung erfüllen.
+  - Testwerkzeuge und Technologien wählen und das Testbudget und Anbieterverträge steuern.
+  - Die Führungsebene vor großen Releases und Entscheidungen zur Inbetriebnahme zu Qualitäts- und Sicherheitsrisiken beraten.
+  - Testmanagerinnen, -manager, -analystinnen, -analysten und -ingenieure führen und entwickeln und die Testfähigkeit der Organisation aufbauen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung des Testens in einer Organisation.

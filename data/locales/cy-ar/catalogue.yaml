@@ -1,0 +1,91 @@
+# Family and role titles and slugs in Welsh. Keys are the English ids.
+families:
+  software-development: {title: Datblygu meddalwedd, slug: datblygu-meddalwedd}
+  architecture: {title: Pensaernïaeth, slug: pensaernïaeth}
+  data: {title: Data, slug: data}
+  product-and-delivery: {title: Cynnyrch a chyflawni, slug: cynnyrch-a-chyflawni}
+  user-centred-design: {title: Dylunio sy'n canolbwyntio ar y defnyddiwr, slug: dylunio-syn-canolbwyntio-ar-y-defnyddiwr}
+  it-operations: {title: Gweithrediadau TG, slug: gweithrediadau-tg}
+  cyber-security: {title: Seiberddiogelwch, slug: seiberddiogelwch}
+  quality-assurance-testing: {title: Profi sicrwydd ansawdd, slug: profi-sicrwydd-ansawdd}
+  clinical-informatics: {title: Gwybodeg glinigol a diogelwch clinigol, slug: gwybodeg-glinigol-a-diogelwch-clinigol}
+  information-governance: {title: Llywodraethiant gwybodaeth, slug: llywodraethiant-gwybodaeth}
+  finance: {title: Cyllid, slug: cyllid}
+  legal: {title: Cyfreithiol, slug: cyfreithiol}
+  human-resources: {title: Adnoddau dynol, slug: adnoddau-dynol}
+  procurement: {title: Caffael a masnachol, slug: caffael-a-masnachol}
+  corporate-services: {title: Gwasanaethau corfforaethol, slug: gwasanaethau-corfforaethol}
+roles:
+  software-developer: {title: Datblygwr meddalwedd, slug: datblygwr-meddalwedd}
+  frontend-developer: {title: Datblygwr pen blaen, slug: datblygwr-pen-blaen}
+  devops-engineer: {title: Peiriannydd DevOps, slug: peiriannydd-devops}
+  integration-engineer: {title: Peiriannydd integreiddio (rhyngweithredu iechyd), slug: peiriannydd-integreiddio}
+  enterprise-architect: {title: Pensaer menter, slug: pensaer-menter}
+  solution-architect: {title: Pensaer datrysiadau, slug: pensaer-datrysiadau}
+  technical-architect: {title: Pensaer technegol, slug: pensaer-technegol}
+  data-architect: {title: Pensaer data, slug: pensaer-data}
+  security-architect: {title: Pensaer diogelwch, slug: pensaer-diogelwch}
+  network-architect: {title: Pensaer rhwydwaith, slug: pensaer-rhwydwaith}
+  business-architect: {title: Pensaer busnes, slug: pensaer-busnes}
+  data-analyst: {title: Dadansoddwr data, slug: dadansoddwr-data}
+  performance-analyst: {title: Dadansoddwr perfformiad, slug: dadansoddwr-perfformiad}
+  data-engineer: {title: Peiriannydd data, slug: peiriannydd-data}
+  analytics-engineer: {title: Peiriannydd dadansoddeg, slug: peiriannydd-dadansoddeg}
+  data-scientist: {title: Gwyddonydd data, slug: gwyddonydd-data}
+  machine-learning-engineer: {title: Peiriannydd dysgu peirianyddol, slug: peiriannydd-dysgu-peirianyddol}
+  data-governance-manager: {title: Rheolwr llywodraethiant data, slug: rheolwr-llywodraethiant-data}
+  clinical-coder: {title: Codiwr clinigol, slug: codiwr-clinigol}
+  business-analyst: {title: Dadansoddwr busnes, slug: dadansoddwr-busnes}
+  delivery-manager: {title: Rheolwr cyflawni, slug: rheolwr-cyflawni}
+  product-manager: {title: Rheolwr cynnyrch, slug: rheolwr-cynnyrch}
+  project-manager: {title: Rheolwr prosiect, slug: rheolwr-prosiect}
+  programme-delivery-manager: {title: Rheolwr cyflawni rhaglenni, slug: rheolwr-cyflawni-rhaglenni}
+  digital-portfolio-manager: {title: Rheolwr portffolio digidol, slug: rheolwr-portffolio-digidol}
+  service-owner: {title: Perchennog gwasanaeth, slug: perchennog-gwasanaeth}
+  user-researcher: {title: Ymchwilydd defnyddwyr, slug: ymchwilydd-defnyddwyr}
+  service-designer: {title: Dylunydd gwasanaethau, slug: dylunydd-gwasanaethau}
+  interaction-designer: {title: Dylunydd rhyngweithio, slug: dylunydd-rhyngweithio}
+  content-designer: {title: Dylunydd cynnwys, slug: dylunydd-cynnwys}
+  accessibility-specialist: {title: Arbenigwr hygyrchedd, slug: arbenigwr-hygyrchedd}
+  service-desk-analyst: {title: Dadansoddwr desg gwasanaeth, slug: dadansoddwr-desg-gwasanaeth}
+  end-user-computing-engineer: {title: Peiriannydd cyfrifiadura defnyddwyr terfynol, slug: peiriannydd-cyfrifiadura-defnyddwyr-terfynol}
+  infrastructure-engineer: {title: Peiriannydd seilwaith, slug: peiriannydd-seilwaith}
+  application-operations-engineer: {title: Peiriannydd gweithrediadau cymwysiadau, slug: peiriannydd-gweithrediadau-cymwysiadau}
+  it-service-manager: {title: Rheolwr gwasanaethau TG, slug: rheolwr-gwasanaethau-tg}
+  incident-manager: {title: Rheolwr digwyddiadau, slug: rheolwr-digwyddiadau}
+  problem-manager: {title: Rheolwr problemau, slug: rheolwr-problemau}
+  change-and-release-manager: {title: Rheolwr newid a rhyddhau, slug: rheolwr-newid-a-rhyddhau}
+  security-analyst: {title: Dadansoddwr gweithrediadau diogelwch, slug: dadansoddwr-gweithrediadau-diogelwch}
+  security-engineer: {title: Peiriannydd diogelwch, slug: peiriannydd-diogelwch}
+  cyber-security-manager: {title: Rheolwr seiberddiogelwch, slug: rheolwr-seiberddiogelwch}
+  quality-assurance-test-analyst: {title: Dadansoddwr profion sicrwydd ansawdd, slug: dadansoddwr-profion-sicrwydd-ansawdd}
+  test-engineer: {title: Peiriannydd profi, slug: peiriannydd-profi}
+  test-manager: {title: Rheolwr profi, slug: rheolwr-profi}
+  clinical-informatician: {title: Gwybodegydd clinigol, slug: gwybodegydd-clinigol}
+  clinical-safety-officer: {title: Swyddog diogelwch clinigol, slug: swyddog-diogelwch-clinigol}
+  chief-clinical-information-officer: {title: Prif swyddog gwybodaeth glinigol, slug: prif-swyddog-gwybodaeth-glinigol}
+  records-officer: {title: Swyddog cofnodion iechyd, slug: swyddog-cofnodion-iechyd}
+  information-governance-officer: {title: Swyddog llywodraethiant gwybodaeth, slug: swyddog-llywodraethiant-gwybodaeth}
+  data-protection-officer: {title: Swyddog diogelu data, slug: swyddog-diogelu-data}
+  finance-officer: {title: Swyddog cyllid, slug: swyddog-cyllid}
+  payroll-officer: {title: Swyddog cyflogres, slug: swyddog-cyflogres}
+  management-accountant: {title: Cyfrifydd rheoli, slug: cyfrifydd-rheoli}
+  financial-accountant: {title: Cyfrifydd ariannol, slug: cyfrifydd-ariannol}
+  head-of-finance: {title: Pennaeth cyllid, slug: pennaeth-cyllid}
+  legal-assistant: {title: Cynorthwyydd cyfreithiol, slug: cynorthwyydd-cyfreithiol}
+  legal-adviser: {title: Cynghorwr cyfreithiol, slug: cynghorwr-cyfreithiol}
+  head-of-legal: {title: Pennaeth gwasanaethau cyfreithiol, slug: pennaeth-gwasanaethau-cyfreithiol}
+  hr-officer: {title: Swyddog adnoddau dynol, slug: swyddog-adnoddau-dynol}
+  recruitment-officer: {title: Swyddog recriwtio, slug: swyddog-recriwtio}
+  hr-business-partner: {title: Partner busnes adnoddau dynol, slug: partner-busnes-adnoddau-dynol}
+  learning-and-development-specialist: {title: Arbenigwr dysgu a datblygu, slug: arbenigwr-dysgu-a-datblygu}
+  head-of-people: {title: Pennaeth pobl, slug: pennaeth-pobl}
+  procurement-officer: {title: Swyddog caffael, slug: swyddog-caffael}
+  category-manager: {title: Rheolwr categori, slug: rheolwr-categori}
+  contract-manager: {title: Rheolwr contractau, slug: rheolwr-contractau}
+  head-of-procurement: {title: Pennaeth caffael, slug: pennaeth-caffael}
+  administrator: {title: Gweinyddwr, slug: gweinyddwr}
+  executive-assistant: {title: Cynorthwyydd gweithredol, slug: cynorthwyydd-gweithredol}
+  project-support-officer: {title: Swyddog cymorth prosiect, slug: swyddog-cymorth-prosiect}
+  governance-and-risk-manager: {title: Rheolwr llywodraethiant a risg, slug: rheolwr-llywodraethiant-a-risg}
+  communications-officer: {title: Swyddog cyfathrebu, slug: swyddog-cyfathrebu}

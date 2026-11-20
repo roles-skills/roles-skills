@@ -1,0 +1,56 @@
+summary: >
+  Mae rheolwyr gwasanaethau TG yn sicrhau bod gwasanaethau digidol y sefydliad yn cael eu darparu i lefelau y
+  cytunwyd arnynt ac yn parhau i wella. Maen nhw'n diffinio lefelau gwasanaeth, yn rheoli'r catalog
+  gwasanaethau, yn adrodd ar berfformiad, ac yn cydlynu'r timau a'r cyflenwyr sy'n rhedeg pob gwasanaeth. Mewn
+  gofal iechyd, maen nhw'n troi'r hyn y mae gwasanaethau clinigol ei angen, fel argaeledd drwy'r dydd a'r nos, yn
+  dargedau gwasanaeth a threfniadau cymorth.
+health_context:
+  - Mae lefelau gwasanaeth ar gyfer systemau clinigol yn adlewyrchu risg glinigol, felly mae targedau ar gyfer y cofnod electronig am gleifion neu bresgripsiynu'n wahanol i'r rhai ar gyfer system gorfforaethol.
+  - Caiff gwasanaethau'n aml eu darparu gan gymysgedd o dimau mewnol, cyflenwyr, a gwasanaethau a rennir â sefydliadau partner, felly mae rheolwyr gwasanaethau'n cydlynu ar draws ffiniau sefydliadol.
+  - Mae parhad busnes clinigol yn dibynnu ar TG, felly mae rheolwyr gwasanaethau'n gweithio gydag arweinwyr cynllunio clinigol a brys ar gynlluniau amser segur a pharhad.
+  - Ychydig o amser sydd gan staff clinigol i roi gwybod am broblemau, felly mae rheolwyr gwasanaethau'n defnyddio monitro, data'r ddesg gwasanaeth, ac adborth clinigol i ddod o hyd i broblemau'n gynnar.
+levels:
+  - title: Dadansoddwr gwasanaethau TG
+    slug: dadansoddwr-gwasanaethau-tg
+    responsibilities:
+      - Ymateb i ddigwyddiadau a cheisiadau, eu dogfennu, a'u datrys o fewn lefelau gwasanaeth y cytunwyd arnynt.
+      - Cynhyrchu adroddiadau gwasanaeth rheolaidd, fel niferoedd tocynnau, amseroedd ymateb, ac argaeledd systemau clinigol.
+      - Gwirio bod cofnodion y catalog gwasanaethau ac erthyglau gwybodaeth yn gywir ac yn gyfredol.
+      - Chwilio am batrymau mewn digwyddiadau ac awgrymu gwelliannau.
+      - Dilyn rheolau llywodraethiant gwybodaeth wrth drin data tocynnau a gwasanaethau.
+    qualifications:
+      - Cymhwyster sylfaen rheoli gwasanaethau TG, cymhwyster lefel 3 mewn TG, neu brofiad cyfatebol.
+  - title: Rheolwr gwasanaethau TG
+    slug: rheolwr-gwasanaethau-tg
+    responsibilities:
+      - Diffinio a chytuno ar lefelau gwasanaeth ar gyfer gwasanaethau clinigol a chorfforaethol, yn seiliedig ar risg glinigol ac angen busnes.
+      - Rheoli'r trefniadau cymorth ar gyfer portffolio o wasanaethau, gan gynnwys cyflenwyr a gwasanaethau a rennir.
+      - Adrodd ar berfformiad gwasanaethau i berchnogion gwasanaethau ac arweinwyr clinigol, a chytuno ar gamau gwella.
+      - Sicrhau bod gan bob gwasanaeth drefniadau parhad busnes ac amser segur wedi'u profi.
+      - Cadw'r catalog gwasanaethau'n gyfredol, a sicrhau bod staff yn cael gwybod am newidiadau i'w gwasanaethau.
+      - Rhedeg rhaglen o welliant gwasanaeth parhaus ar gyfer eich gwasanaethau.
+    qualifications:
+      - Profiad o reoli gwasanaethau TG i lefelau gwasanaeth y cytunwyd arnynt.
+      - Cymhwyster rheoli gwasanaethau TG canolradd, neu brofiad cyfatebol.
+  - title: Uwch reolwr gwasanaethau TG
+    slug: uwch-reolwr-gwasanaethau-tg
+    responsibilities:
+      - Arwain rheoli gwasanaethau ar draws sawl llwyfan a sianel, a gwella aeddfedrwydd prosesau rheoli gwasanaethau.
+      - Cytuno ar lefelau gwasanaeth a thelerau contract gyda chyflenwyr mawr systemau clinigol, a'u dal i gyfrif.
+      - Cyflwyno perfformiad a risgiau gwasanaethau i uwch arweinwyr clinigol a gweithredol.
+      - Arwain adolygiadau gwasanaeth ar ôl digwyddiadau mawr, ac olrhain camau gwella hyd nes eu cwblhau.
+      - Alinio cynlluniau parhad TG â chynlluniau parhad busnes clinigol, gan weithio gydag arweinwyr cynllunio at argyfyngau a chlinigol.
+      - Arwain a datblygu rheolwyr gwasanaethau TG.
+    qualifications:
+      - Profiad sylweddol o reoli gwasanaethau TG ar draws sawl gwasanaeth.
+      - Cymhwyster rheoli gwasanaethau TG uwch, neu brofiad cyfatebol.
+  - title: Pennaeth rheoli gwasanaethau TG
+    slug: pennaeth-rheoli-gwasanaethau-tg
+    responsibilities:
+      - Gosod gweledigaeth, strategaeth, a model gweithredu rheoli gwasanaethau TG ar draws y sefydliad.
+      - Sicrhau bod perchennog ar bob proses rheoli gwasanaethau a'i bod yn parhau i aeddfedu.
+      - Cynrychioli rheoli gwasanaethau TG ar lefel uwch, gan gynnwys mewn cyfarfodydd llywodraethiant clinigol a gweithredol.
+      - Gweithredu fel uwch bwynt uwchgyfeirio i arweinwyr gwasanaethau clinigol a chorfforaethol.
+      - Sicrhau bod gan y swyddogaeth rheoli gwasanaethau y bobl, yr offer, a'r gyllideb sydd eu hangen arni.
+    qualifications:
+      - Profiad helaeth o arwain rheoli gwasanaethau TG mewn sefydliad mawr neu gymhleth.

@@ -1,0 +1,265 @@
+# German translations of data/skills/procurement.yaml. Keys are the English skill ids.
+proc-purchase-to-pay:
+  name: Von der Beschaffung bis zur Zahlung
+  description: Bestellungen anlegen, genehmigen und Wareneingänge buchen und Fragen zu Rechnungen und Zahlungen über das Einkaufssystem und die Finanzkontrollen der Organisation klären.
+  levels:
+    awareness: |
+      Sie können:
+      - die Regel „keine Bestellung, keine Zahlung“ erklären und warum sie wichtig ist
+      - im Einkaufssystem eine Bestellanforderung anlegen
+    working: |
+      Sie können:
+      - Bestellungen anlegen und ändern und gegen Verträge prüfen
+      - Fragen zu Rechnungen, Wareneingang und Zahlung mit Anbietern und Finanzen klären
+      - Kataloge und Lieferantenstammdaten im Einkaufssystem pflegen
+    practitioner: |
+      Sie können:
+      - den Prozess von der Beschaffung bis zur Zahlung für einen Dienst betreiben und Einhaltung und Rückstände überwachen
+      - Ausgabendaten analysieren, um Ausgaben außerhalb von Verträgen und Einsparungen zu finden
+      - Prozess und Kontrollen mit Kolleginnen und Kollegen aus den Finanzen verbessern
+    expert: |
+      Sie können:
+      - Richtlinie, Kontrollen und Systeme der Organisation für den Prozess von der Beschaffung bis zur Zahlung festlegen
+      - den Wechsel zu vollständig elektronischem Einkauf und elektronischer Rechnungsstellung leiten
+proc-procurement-process:
+  name: Beschaffungsprozess
+  description: Regelkonforme Beschaffungen durchführen, von Planung und Leistungsbeschreibung über Wege zum Markt, Ausschreibung, Zuschlag und Vertragsunterzeichnung, einschließlich des Einkaufs über Rahmenvereinbarungen und dynamische Beschaffungssysteme.
+  levels:
+    awareness: |
+      Sie können:
+      - die Phasen einer Beschaffung und die geltenden Schwellenwerte erklären
+      - Angebote für Käufe geringen Werts nach den Regeln der Organisation einholen
+    working: |
+      Sie können:
+      - Angebotseinholungen und Abrufe aus Rahmenvereinbarungen mit Standardvorlagen durchführen
+      - Ausschreibungsunterlagen vorbereiten und Bieterfragen im E-Vergabe-System steuern
+      - eine klare Prüfspur für jede Beschaffung führen
+    practitioner: |
+      Sie können:
+      - komplexe Ausschreibungen planen und leiten und den richtigen Weg zum Markt und das richtige Verfahren wählen
+      - Nutzenden helfen, ergebnisorientierte Leistungsbeschreibungen für digitale und klinische Systeme zu schreiben
+      - Zeitpläne, Risiken und Interessengruppen bis zum Zuschlag steuern
+    expert: |
+      Sie können:
+      - die Beschaffungsverfahren und Vorlagen der Organisation festlegen
+      - die komplexesten, hochwertigsten oder neuartigsten Beschaffungen leiten
+      - Beschaffungsentscheidungen für den Vorstand absichern
+proc-tender-evaluation:
+  name: Bewertung von Angeboten
+  description: Bewertungskriterien und Gewichtungen entwerfen und eine faire und gut dokumentierte Bewertung von Qualität, Preis und gesellschaftlichem Mehrwert durchführen.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, warum die Bewertung den veröffentlichten Kriterien folgen muss
+      - Interessenkonflikte erklären, bevor Sie an einer Bewertung teilnehmen
+    working: |
+      Sie können:
+      - Angebote auf Konformität und Vollständigkeit prüfen
+      - Bewertende unterstützen und Punkte und Abstimmungsnotizen festhalten
+      - Preisbewertungsmodelle unter Anleitung vorbereiten
+    practitioner: |
+      Sie können:
+      - Bewertungskriterien, Gewichtungen und Bewertungsanleitung entwerfen
+      - die Abstimmung leiten und Zuschlagsberichte und Rückmeldungen an Bietende schreiben
+      - Vorführungen und Tests klinischer oder nutzerbezogener Szenarien für Systemausschreibungen planen
+    expert: |
+      Sie können:
+      - die Bewertungsstandards und den Ansatz der Organisation zu Preis und Qualität festlegen
+      - Bewertungsentscheidungen verteidigen, wenn sie angefochten werden
+      - Bewertungen bei Beschaffungen mit hohem Risiko prüfen
+proc-procurement-law-and-policy:
+  name: Öffentliche Vergaberegeln und Einkaufsrichtlinie
+  description: Vergaberecht, Finanzregeln der Organisation und Einkaufsrichtlinie anwenden, damit der Einkauf rechtmäßig, transparent und fair ist.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, dass öffentliches Geld fair, offen und rechtmäßig ausgegeben werden muss
+      - die Schwellenwerte und Genehmigungsregeln der Organisation befolgen
+    working: |
+      Sie können:
+      - die Vergaberegeln anwenden, die zu einem einfachen Kauf passen
+      - Bekanntmachungen veröffentlichen und Aufzeichnungen führen, die Transparenzregeln erfüllen
+      - erkennen, wann eine Anfrage Regeln zu verletzen droht, und es ansprechen
+    practitioner: |
+      Sie können:
+      - zum rechtmäßigen Weg für komplexe Beschaffungen und Vertragsänderungen beraten
+      - das Risiko einer Rüge steuern und Stillhaltefrist und Nachbesprechung richtig behandeln
+      - Einkaufsrichtlinie und Leitfäden für die Organisation schreiben
+    expert: |
+      Sie können:
+      - neue Vergaberegeln auslegen und die Reaktion der Organisation leiten
+      - den Vorstand zu Einkaufs-Compliance und Risiko beraten
+      - förmliche Rügen mit Rechtsberatenden steuern
+proc-market-analysis:
+  name: Marktanalyse und Marktansprache
+  description: Angebotsmärkte verstehen, Anbieter vor der Beschaffung ansprechen und Marktbelege nutzen, um Anforderungen, Wege zum Markt und kommerzielle Modelle zu gestalten.
+  levels:
+    awareness: |
+      Sie können:
+      - Anbieter in Rahmenvereinbarungen und Anbieterdatenbanken finden
+      - erklären, warum frühe Marktansprache gegenüber allen Anbietern fair sein muss
+    working: |
+      Sie können:
+      - Marktinformationen, Preise und Anbieterdetails für eine Anforderung sammeln
+      - eine Informationsanfrage durchführen und die Antworten zusammenfassen
+    practitioner: |
+      Sie können:
+      - einen Angebotsmarkt, seinen Wettbewerb, seine Risiken und Trends analysieren
+      - frühe Marktansprache, etwa Anbietertage, leiten, ohne den Wettbewerb zu verzerren
+      - Marktbelege nutzen, um Anforderungen und kommerzielle Modelle zu gestalten
+    expert: |
+      Sie können:
+      - Märkte gestalten, zum Beispiel indem neue oder kleinere Anbieter ermutigt werden
+      - die Marktstrategie mit anderen einkaufenden Organisationen leiten
+proc-negotiation:
+  name: Kommerzielle Verhandlung
+  description: Verhandlungen mit Anbietern über Preis, Bedingungen und Leistung planen und führen, die ein gutes Preis-Leistungs-Verhältnis liefern und Risiko steuern.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, was in einer öffentlichen Beschaffung verhandelt werden kann und was nicht
+    working: |
+      Sie können:
+      - Preise und Bedingungen für Käufe geringen Werts oder Routinekäufe verhandeln
+      - Daten und Optionen für eine von anderen geleitete Verhandlung vorbereiten
+    practitioner: |
+      Sie können:
+      - Verhandlungen planen und leiten und dabei Ziele, Grenzen und Rückfallpositionen festlegen
+      - Vertragsänderungen, Verlängerungen und die Beilegung von Streitigkeiten verhandeln
+      - Verhandlungen rechtmäßig und gut dokumentiert halten
+    expert: |
+      Sie können:
+      - hochwertige Verhandlungen mit hohem Risiko mit strategischen Anbietern leiten
+      - andere in Verhandlung coachen und den Verhandlungsansatz der Organisation festlegen
+proc-category-management:
+  name: Kategoriemanagement
+  description: Eine Ausgabenkategorie wie Software, Cloud und Technologiedienste durch eine Kategoriestrategie steuern, die Bedarf bündelt, Anforderungen gestaltet und Beschaffungen über mehrere Jahre plant.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, was eine Kategorie ist und warum Kategoriepläne wichtig sind
+    working: |
+      Sie können:
+      - Ausgaben und Verträge für eine Kategorie analysieren und das Vertragsregister aktuell halten
+      - den Kategorieplan unterstützen, etwa durch Verfolgung von Verlängerungen und Einsparungen
+    practitioner: |
+      Sie können:
+      - eine Kategoriestrategie mit Budgetverantwortlichen und technischen Leitungen schreiben und umsetzen
+      - die Pipeline der Beschaffungen und Vertragsverlängerungen der Kategorie planen
+      - Einsparungen, Wert und Risiken der Kategorie verfolgen
+    expert: |
+      Sie können:
+      - den Ansatz der Organisation zum Kategoriemanagement festlegen
+      - Kategorien mit den höchsten Ausgaben und Risiken leiten und auf die Strategie der Organisation abstimmen
+      - mit anderen Organisationen an gemeinsamem Einkauf arbeiten
+proc-technology-procurement:
+  name: Technologie- und Cloud-Beschaffung
+  description: Software, Cloud-Dienste, Lizenzen, Hardware und digitale Dienste kaufen, einschließlich Software as a Service, kommerzieller Modelle, Lizenzierung und der Sicherheits-, Datenschutz- und Interoperabilitätsbedingungen, die Gesundheitstechnologie braucht.
+  levels:
+    awareness: |
+      Sie können:
+      - die wichtigsten Wege erklären, auf denen Technologie gekauft wird, etwa Lizenzen, Abonnements und Dienstleistungen
+      - erkennen, dass klinische Systeme Sicherheits-, klinische Sicherheits- und Datenschutzprüfungen brauchen
+    working: |
+      Sie können:
+      - Standardsoftware, Hardware und Lizenzen über Rahmenvereinbarungen kaufen
+      - Lizenzanzahlen, Verlängerungen und True-up-Termine verfolgen
+      - Standardanforderungen an Sicherheit und Datenschutz in Unterlagen aufnehmen
+    practitioner: |
+      Sie können:
+      - Cloud, Software as a Service und klinische Systeme kaufen und das richtige kommerzielle Modell wählen
+      - Anforderungen mit technischen, klinischen Sicherheits- und Informationsgovernance-Leitungen aufbauen
+      - Interoperabilität, offene Standards, Dateneigentum und Ausstiegsbedingungen in Verträge aufnehmen
+      - Abhängigkeit vermeiden, indem Portabilität und Wettbewerb bei der Verlängerung eingeplant werden
+    expert: |
+      Sie können:
+      - die kommerzielle Strategie der Organisation für Technologie und Cloud festlegen
+      - Verhandlungen über Rahmenverträge und strategische Plattformen leiten
+      - digitale Leitungen zu den kommerziellen Risiken von Technologieentscheidungen beraten
+proc-contract-management:
+  name: Vertragsmanagement
+  description: Verträge nach dem Zuschlag steuern, einschließlich Inbetriebnahme, Leistung, Zahlungen, Änderungen, Streitigkeiten, Verlängerung und Ausstieg, damit die Organisation das bekommt, wofür sie bezahlt hat.
+  levels:
+    awareness: |
+      Sie können:
+      - einen Vertrag finden und seine Schlüsseltermine, seinen Wert und seine Verantwortliche oder seinen Verantwortlichen erklären
+      - Vertragsänderungen und Dokumente im Vertragsregister erfassen
+    working: |
+      Sie können:
+      - die Leistung von Anbietern anhand von Servicelevels und Leistungskennzahlen überwachen
+      - Vertragsbesprechungen vorbereiten und Maßnahmen verfolgen
+      - Vertragsänderungen bearbeiten und Rechnungen gegen den Vertrag prüfen
+    practitioner: |
+      Sie können:
+      - ein Portfolio von Verträgen steuern, einschließlich klinischer und Technologieverträge
+      - Vertragsmittel wie Service-Gutschriften nutzen, wenn die Leistung hinter dem Zugesagten zurückbleibt
+      - Änderungen, Streitigkeiten und Verlängerungen im Rahmen der Vergaberegeln steuern
+      - den Ausstieg früh planen und Ausstiegspläne testen, bevor Verträge enden
+    expert: |
+      Sie können:
+      - den Rahmen und die Standards der Organisation für das Vertragsmanagement festlegen
+      - die Steuerung strategischer Verträge mit hohem Risiko leiten
+      - größere Streitigkeiten lösen und über Kündigung oder Neubeschaffung entscheiden
+proc-supplier-relationship-management:
+  name: Lieferantenbeziehungsmanagement
+  description: Strategische Beziehungen zu wichtigen Anbietern aufbauen, um Risiko zu steuern, Leistung zu verbessern und Produkte und Dienste im Zeitverlauf zu entwickeln.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, warum gute Anbieterbeziehungen für Dienste wichtig sind, auf die sich Patientinnen und Patienten verlassen
+      - professionell mit Anbietern umgehen und Kontakte festhalten
+    working: |
+      Sie können:
+      - Anbieterkontakte, Eskalationswege und Aufzeichnungen aktuell halten
+      - die finanzielle Gesundheit und Versicherung von Anbietern gegen die Anforderungen prüfen
+    practitioner: |
+      Sie können:
+      - Anbieter nach Risiko und Wert segmentieren und planen, wie jede Gruppe zu steuern ist
+      - strategische Besprechungen mit wichtigen Anbietern führen, einschließlich Roadmap und Verbesserungsplänen
+      - Anbieterrisiken wie finanzielles Scheitern, Cybervorfälle und Probleme in der Lieferkette steuern
+    expert: |
+      Sie können:
+      - die Strategie der Organisation für Lieferantenbeziehungen festlegen
+      - die Beziehungen der Geschäftsleitung zu strategischen Anbietern leiten
+      - die Reaktion leiten, wenn ein kritischer Anbieter ausfällt
+proc-exit-planning:
+  name: Ausstiegsplanung und Datenrückgabe
+  description: Das Ende eines Vertrags planen und steuern, einschließlich Übergang zu einem neuen Anbieter, Rückgabe und Löschung von Daten und Kontinuität von Diensten für Patientinnen, Patienten und Mitarbeitende.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, warum jeder Vertrag einen Ausstiegsplan braucht
+      - die Ausstiegs- und Datenrückgabebedingungen eines Vertrags finden
+    working: |
+      Sie können:
+      - Ausstiegspläne und Register der Vermögenswerte und Daten aktuell halten
+      - Kündigungsfristen und Ausstiegsmeilensteine verfolgen
+    practitioner: |
+      Sie können:
+      - Ausstiegs- und Übergangspläne mit technischen, Daten- und klinischen Leitungen schreiben
+      - sicherstellen, dass Daten in nutzbaren Standardformaten zurückgegeben und dann sicher gelöscht werden
+      - Übergangsrisiken so steuern, dass die Versorgung nicht gestört wird
+    expert: |
+      Sie können:
+      - die Standards der Organisation für Ausstieg, Übergang und Datenrückgabe festlegen
+      - Ausstiege aus strategischen klinischen und Technologieverträgen leiten
+proc-social-value:
+  name: Gesellschaftlicher Mehrwert und nachhaltige Beschaffung
+  description: Beschaffung und Verträge nutzen, um gesellschaftlichen Mehrwert, ökologische Nachhaltigkeit und faire Lieferketten zu erreichen, und messen, was Anbieter liefern.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, was gesellschaftlicher Mehrwert und nachhaltige Beschaffung für die Organisation bedeuten
+    working: |
+      Sie können:
+      - Standardfragen zu gesellschaftlichem Mehrwert und Nachhaltigkeit in Ausschreibungen aufnehmen
+      - Berichte zum gesellschaftlichen Mehrwert von Anbietern einholen
+    practitioner: |
+      Sie können:
+      - Kriterien für gesellschaftlichen Mehrwert und Nachhaltigkeit setzen, die zum Vertrag passen
+      - Zusagen von Anbietern steuern, etwa zu lokalen Arbeitsplätzen, Kompetenzen und Kohlenstoffminderung
+      - Lieferketten auf Risiken wie Zwangsarbeit und andere Menschenrechtsverletzungen prüfen
+    expert: |
+      Sie können:
+      - die Richtlinie der Organisation zu gesellschaftlichem Mehrwert und nachhaltiger Beschaffung festlegen
+      - dem Vorstand über Ergebnisse zu gesellschaftlichem Mehrwert und Kohlenstoff berichten

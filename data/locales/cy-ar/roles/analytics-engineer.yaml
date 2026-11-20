@@ -1,0 +1,63 @@
+summary: >
+  Mae peirianwyr dadansoddeg yn troi data iechyd a gofal crai yn fodelau data glân, wedi'u profi, ac wedi'u
+  dogfennu y gall dadansoddwyr, gwyddonwyr data, ac offer adrodd ddibynnu arnynt. Maen nhw'n eistedd rhwng
+  peirianneg data a dadansoddi, gan gymhwyso arferion peirianneg meddalwedd fel rheoli fersiynau, profi, ac
+  adolygu cod i'r trawsnewidiadau y tu ôl i adroddiadau a dangosfyrddau'r sefydliad.
+health_context:
+  - Mae modelau data'n amgodio diffiniadau clinigol a gweithredol, fel beth sy'n cyfrif fel derbyniad, aildderbyniad, neu dorri safon amser aros, felly cytunir ar ddiffiniadau gydag arweinwyr clinigol a gweithredol.
+  - Caiff codau clinigol o derminolegau a dosbarthiadau fel SNOMED CT ac ICD eu grwpio'n setiau cyfeirio ar gyfer dadansoddi, sydd angen rheoli fersiynau'n ofalus.
+  - Mae'n rhaid i fodelau a ddefnyddir ar gyfer adroddiadau perfformiad a chyllid fod yn gyson ac yn archwiliadwy, gan y gall gwallau effeithio ar benderfyniadau am wasanaethau cleifion.
+  - Mae modelau'n aml yn dal data wedi'i ffugenwi ar lefel cleifion, felly mae mynediad, dogfennu, a lleihau data wedi'u cynnwys.
+levels:
+  - title: Peiriannydd dadansoddeg dan hyfforddiant
+    slug: peiriannydd-dadansoddeg-dan-hyfforddiant
+    responsibilities:
+      - Dysgu offer ac arferion modelu data'r tîm drwy hyfforddiant a gweithio mewn parau.
+      - Gwneud newidiadau bach, wedi'u diffinio'n dda, i fodelau data dan oruchwyliaeth.
+      - Dogfennu eitemau data a'u diffiniadau yn y catalog data.
+      - Ateb cwestiynau syml gan ddefnyddwyr data a chofnodi eu gofynion.
+      - Dilyn rheolau llywodraethiant gwybodaeth wrth weithio gyda data cleifion.
+    qualifications:
+      - Wedi cofrestru ar brentisiaeth data neu gyfatebol, neu'n gweithio tuag ati.
+    job_evaluation_notes: Caiff gwybodaeth ei sgorio ar y lefel sydd ei hangen ar y swydd unwaith y bydd yr hyfforddiant yn ddigon cyflawn i wneud y gwaith.
+  - title: Peiriannydd dadansoddeg
+    slug: peiriannydd-dadansoddeg
+    responsibilities:
+      - Adeiladu a phrofi modelau data ar gyfer maes gwasanaeth, fel gweithgarwch cleifion mewnol neu ofal cymunedol, o ddyluniadau y cytunwyd arnynt.
+      - Ysgrifennu profion awtomataidd sy'n gwirio modelau data yn erbyn diffiniadau clinigol a gweithredol y cytunwyd arnynt.
+      - Cynnal setiau cyfeirio o godau clinigol a ddefnyddir mewn dadansoddi, gyda fersiynau clir.
+      - Dogfennu modelau fel bod dadansoddwyr yn deall eu hystyr, eu ffynonellau, a'u cyfyngiadau.
+      - Hyfforddi a chefnogi defnyddwyr setiau data'r tîm.
+    qualifications:
+      - Gradd mewn pwnc rhifiadol neu gyfrifiadura, neu brofiad cyfatebol.
+      - Profiad o adeiladu modelau data neu god dadansoddol.
+  - title: Uwch beiriannydd dadansoddeg
+    slug: uwch-beiriannydd-dadansoddeg
+    responsibilities:
+      - Goruchwylio dyluniad a phrofi modelau data ar draws sawl maes gwasanaeth.
+      - Cytuno ar ddiffiniadau mesurau allweddol gydag arweinwyr clinigol, gweithredol, a chyllid, a sicrhau bod modelau'n eu cymhwyso'n gyson.
+      - Sicrhau bod modelau sy'n bwydo adroddiadau perfformiad a chyllid yn archwiliadwy ac wedi'u profi'n dda.
+      - Datrys materion a risgiau data gyda pheirianwyr data a pherchnogion data.
+      - Hyfforddi a chyfarwyddo gwaith peirianwyr dadansoddeg eraill.
+    qualifications:
+      - Profiad sylweddol o fodelu data a pheirianneg dadansoddeg, ar lefel sy'n cyfateb i radd meistr.
+  - title: Peiriannydd dadansoddeg arweiniol
+    slug: peiriannydd-dadansoddeg-arweiniol
+    responsibilities:
+      - Arwain tîm sy'n dylunio, yn adeiladu, ac yn cynnal modelau data dadansoddol y sefydliad.
+      - Gosod safonau ar gyfer modelau data, profion, dogfennu, a diffiniadau mesurau.
+      - Gweithio gyda thimau ar draws y sefydliad i ddeall sut mae prosesau clinigol a gweithredol yn creu data.
+      - Adolygu gwaith peirianwyr dadansoddeg eraill a gwella ffyrdd o weithio'r tîm.
+      - Rheoli peirianwyr dadansoddeg yn llinell.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg dadansoddeg neu fodelu data.
+  - title: Pennaeth peirianneg dadansoddeg
+    slug: pennaeth-peirianneg-dadansoddeg
+    responsibilities:
+      - Gosod y cyfeiriad ar gyfer modelau data dadansoddol y sefydliad, fel bod dadansoddi ar draws y sefydliad yn defnyddio un set ddibynadwy o ddiffiniadau.
+      - Sicrhau bod blaenoriaethau peirianneg dadansoddeg yn cefnogi strategaeth a dyletswyddau adrodd y sefydliad.
+      - Cynghori uwch arweinwyr ar ddibynadwyedd y data y tu ôl i adroddiadau a phenderfyniadau mawr.
+      - Sicrhau bod gan y gymuned yr offer a'r llwyfannau sydd eu hangen arni, a rheoli'r gyllideb gysylltiedig.
+      - Meithrin gallu peirianneg dadansoddeg drwy arweinyddiaeth dechnegol a datblygu gyrfa.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg dadansoddeg ar draws sefydliad.

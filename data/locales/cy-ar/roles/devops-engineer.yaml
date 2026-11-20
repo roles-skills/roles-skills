@@ -1,0 +1,77 @@
+summary: >
+  Mae peirianwyr DevOps yn adeiladu ac yn rhedeg yr offer, y piblinellau, yr amgylcheddau, a'r llwyfannau sy'n
+  galluogi timau'r sefydliad i ddarparu gwasanaethau iechyd digidol yn ddiogel ac yn aml. Maen nhw'n awtomeiddio
+  adeiladu, profi, rhyddhau, a seilwaith, yn gwneud gwasanaethau'n arsylladwy ac yn wydn, ac yn helpu timau i gadw
+  systemau clinigol ar gael pan fo cleifion a chlinigwyr eu hangen.
+health_context:
+  - Mae llawer o wasanaethau'n cefnogi gofal drwy'r dydd a'r nos, felly mae'n rhaid i ddefnyddio, monitro, ac adfer gadw amser segur i'r lleiaf posibl, gan gynnwys y tu allan i oriau.
+  - Mae piblinellau rhyddhau'n cynhyrchu tystiolaeth ar gyfer achosion diogelwch clinigol, fel canlyniadau profion, cofnodion newid, a'r union fersiwn a ddefnyddiwyd.
+  - Gall amgylcheddau ddal gwybodaeth iechyd gyfrinachol, felly mae peirianwyr yn rheoli mynediad, yn diogelu cyfrinachau, ac yn cadw data byw allan o amgylcheddau prawf.
+  - Mae gwasanaethau iechyd yn dargedau cyffredin ar gyfer ymosodiadau seiber, felly mae piblinellau a llwyfannau'n cynnwys sganio diogelwch, patsio, a chopïau wrth gefn wedi'u profi.
+  - Mae'n rhaid i rai gwasanaethau fodloni safonau llym ar gyfer argaeledd ac adfer ar ôl trychineb, y cytunwyd arnynt gydag arweinwyr clinigol a gweithredol.
+levels:
+  - title: Peiriannydd DevOps prentis
+    slug: peiriannydd-devops-prentis
+    responsibilities:
+      - Dysgu piblinellau, llwyfannau cwmwl, ac offer y tîm drwy hyfforddiant strwythuredig a chysgodi.
+      - Gwneud newidiadau bach, wedi'u diffinio'n dda, i sgriptiau, piblinellau, a ffurfweddiad dan oruchwyliaeth agos.
+      - Dilyn gweithdrefnau newid, diogelwch, a llywodraethiant gwybodaeth ar gyfer pob amgylchedd.
+      - Helpu i fonitro gwasanaethau a rhoi gwybod am rybuddion i gydweithwyr profiadol.
+      - Gweithio tuag at brentisiaeth neu gymhwyster cyfatebol.
+    qualifications:
+      - Wedi cofrestru ar brentisiaeth DevOps, meddalwedd, neu seilwaith neu gyfatebol, neu'n gweithio tuag ati.
+    job_evaluation_notes: Caiff gwybodaeth ei sgorio ar y lefel sydd ei hangen ar y swydd unwaith y bydd yr hyfforddiant yn ddigon cyflawn i wneud y gwaith.
+  - title: Peiriannydd DevOps iau
+    slug: peiriannydd-devops-iau
+    responsibilities:
+      - Adeiladu a chynnal rhannau o biblinellau adeiladu, profi, a defnyddio gydag arweiniad.
+      - Ysgrifennu seilwaith fel cod a sgriptiau awtomeiddio, a'u profi cyn eu defnyddio.
+      - Cadw amgylcheddau prawf yn rhydd o ddata cleifion byw a rheoli cyfrinachau'n ddiogel.
+      - Ymateb i rybuddion monitro a chefnogi ymateb i ddigwyddiadau dan arweiniad.
+      - Cofnodi defnyddiadau a newidiadau fel y gallant gefnogi tystiolaeth diogelwch clinigol ac archwilio.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu bwnc cysylltiedig, prentisiaeth wedi'i chwblhau, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae UK GDaD PCF yn awgrymu Band 4 ar gyfer y lefelau prentis ac iau; mae'r cyfeirlyfr hwn yn rhoi'r lefel iau ar Fand 5 i osgoi dwy lefel yn yr un band, gan fod y swydd yn adeiladu cydrannau piblinell gyda llai o oruchwyliaeth.
+  - title: Peiriannydd DevOps
+    slug: peiriannydd-devops
+    responsibilities:
+      - Dylunio ac adeiladu piblinellau, amgylcheddau, a chydrannau llwyfan yn annibynnol.
+      - Awtomeiddio gwiriadau diogelwch, fel sganio dibyniaethau a chynwysyddion, a gweithredu ar y canlyniadau.
+      - Adeiladu monitro, logio, a rhybuddio fel y gall timau weld problemau cyn iddynt effeithio ar gleifion a staff.
+      - Cynllunio a phrofi copïau wrth gefn, methu drosodd, ac adfer ar gyfer gwasanaethau sy'n cefnogi gofal.
+      - Ymchwilio i broblemau mewn gwasanaethau byw a'u trwsio, gan gynnwys cymorth y tu allan i oriau lle mae'r gwasanaeth ei angen.
+      - Mentora peirianwyr DevOps iau a phrentis.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu bwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad o adeiladu a rhedeg piblinellau cyflawni awtomataidd a seilwaith cwmwl.
+  - title: Uwch beiriannydd DevOps
+    slug: uwch-beiriannydd-devops
+    responsibilities:
+      - Arwain dyluniad y gadwyn offer cyflawni a'r llwyfan ar gyfer cynnyrch neu grŵp o wasanaethau.
+      - Gosod safonau ar gyfer rhyddhau, fel bod defnyddiadau i wasanaethau clinigol yn ailadroddadwy, yn wrthdroadwy, ac wedi'u tystiolaethu'n dda.
+      - Cytuno ar dargedau argaeledd, amser adfer, a phwynt adfer gyda pherchnogion gwasanaethau ac arweinwyr clinigol, a dylunio i'w bodloni.
+      - Arwain yr ymateb technegol i ddigwyddiadau ac adolygiadau ar ôl digwyddiadau ar gyfer y llwyfannau y mae'r tîm yn eu rhedeg.
+      - Sicrhau bod llwyfannau'n bodloni gofynion diogelwch a llywodraethiant gwybodaeth, gan gynnwys rheoli mynediad a logio archwilio.
+      - Hyfforddi a datblygu peirianwyr DevOps yn y tîm.
+    qualifications:
+      - Profiad sylweddol o ddylunio a rhedeg cadwyni offer cyflawni a llwyfannau, ar lefel sy'n cyfateb i radd meistr.
+  - title: Peiriannydd DevOps arweiniol
+    slug: peiriannydd-devops-arweiniol
+    responsibilities:
+      - Arwain peirianneg DevOps a llwyfannau ar gyfer grŵp o dimau, gan weithredu fel perchennog technegol y llwyfan a rennir.
+      - Gosod map ffordd tymor canolig ar gyfer offer cyflawni, lletya, ac arsylladwyedd y sefydliad.
+      - Sicrhau bod llwyfannau a rennir yn wydn, yn ddiogel, ac yn gallu bodloni anghenion argaeledd gwasanaethau clinigol.
+      - Rheoli costau a chapasiti llwyfannau gyda chyllid a pherchnogion gwasanaethau.
+      - Arwain cymuned ymarfer DevOps a rheoli neu arwain peirianwyr DevOps yn llinell.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg DevOps neu lwyfannau ar gyfer gwasanaethau cymhleth.
+  - title: Prif beiriannydd DevOps
+    slug: prif-beiriannydd-devops
+    responsibilities:
+      - Gosod y strategaeth ar gyfer sut mae'r sefydliad yn adeiladu, yn rhyddhau, yn lletya, ac yn rhedeg ei wasanaethau iechyd digidol.
+      - Cynghori uwch arweinwyr ar letya, gwydnwch, seiberddiogelwch, a buddsoddi mewn llwyfannau.
+      - Sicrhau bod cynlluniau parhad busnes ac adfer ar ôl trychineb ar gyfer gwasanaethau clinigol hanfodol yn realistig ac wedi'u profi.
+      - Gwerthuso a hyrwyddo technolegau ac arferion newydd, gan gydbwyso arloesi yn erbyn diogelwch a sefydlogrwydd.
+      - Cynyddu gallu DevOps y sefydliad, gan gynnwys recriwtio, llwybrau gyrfa, a chynlluniau sgiliau.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg DevOps a llwyfannau ar draws sawl tîm neu sefydliad.

@@ -1,0 +1,59 @@
+summary: Klinische Informatikerinnen und Informatiker sind registrierte Klinikerinnen und Kliniker, etwa Ärztinnen, Pflegefachpersonen, Apothekerinnen und Angehörige der Gesundheitsfachberufe, die ihr klinisches Wissen nutzen, um die digitalen Gesundheitsdienste der Organisation zu gestalten. Sie stellen sicher, dass klinische Systeme, Daten und Entscheidungsunterstützung zur Art der Versorgung passen, sicher zu nutzen sind und die Ergebnisse für Patientinnen und Patienten sowie die Erfahrung von klinischem Personal und Pflegepersonal verbessern.
+health_context:
+- Die Rolle erfordert aktuelles klinisches Wissen; deshalb verlangen die meisten Stellen die Registrierung bei einer klinischen Berufsorganisation und etwas fortlaufende klinische Praxis.
+- Klinische Informatikerinnen und Informatiker beraten fachlich dazu, wie Systeme die Patientenversorgung beeinflussen; ihr Urteil wirkt daher unmittelbar auf die Patientensicherheit.
+- Sie arbeiten eng mit den Beauftragten für klinische Sicherheit zusammen und bringen klinische Fachkenntnis in die Gefährdungsermittlung und in Sicherheitsnachweise ein.
+- Gute klinische Daten hängen von der einheitlichen Nutzung klinischer Terminologien wie SNOMED CT ab; sie helfen daher, strukturierte Akten und Entscheidungsunterstützung zu gestalten.
+- Sie wirken als Brücke zwischen klinischem Personal, Pflegepersonal und digitalen Teams und leiten oft die klinische Einbindung bei Systemänderungen.
+levels:
+- title: Spezialist/in für klinische Informatik
+  summary: Bringt klinische Fachkenntnis in Gestaltung, Konfiguration, Test und Einführung klinischer Systeme ein und arbeitet in einem Produkt- oder Programmteam unter Anleitung einer erfahrenen klinischen Informatikerin oder eines erfahrenen klinischen Informatikers.
+  responsibilities:
+  - Klinische Arbeitsabläufe mit klinischem Personal und Pflegepersonal abbilden und in klare Anforderungen überführen.
+  - Systeminhalte wie Formulare, Auftragssets und Versorgungspläne gestalten und anhand klinischer Szenarien testen.
+  - An Gefährdungsworkshops teilnehmen und klinische Einschätzungen zu Risiken und Maßnahmen abgeben.
+  - Klinisches Personal und Pflegepersonal bei der sicheren Einführung neuer Systeme unterstützen, einschließlich Schulung und Unterstützung bei der Inbetriebnahme.
+  - Prüfen, dass klinische Daten einheitlich mit vereinbarten klinischen Terminologien erfasst werden.
+  - Rückmeldungen und Daten zur Systemnutzung sammeln und Verbesserungen vorschlagen.
+  qualifications:
+  - Aktuelle Registrierung bei einer klinischen Berufsorganisation, mit Erfahrung in klinischer Praxis.
+  - Erfahrung mit der Nutzung klinischer Systeme in der Praxis oder gleichwertige Erfahrung mit digitalem Wandel.
+  job_evaluation_notes: Die Patientenversorgung wird auf Stufe 4 bewertet, weil die Stelle durch die Gestaltung klinischer Systeme zur Versorgung von Patientinnen und Patienten berät. Die emotionale Anstrengung spiegelt die regelmäßige Durchsicht klinischer Akten und Vorfälle wider.
+- title: Senior-Informatiker/in (klinisch)
+  summary: Leitet den klinischen Beitrag zu einem großen klinischen System, Produkt oder Programm und berät fachlich dazu, wie digitale Dienste Versorgung und Sicherheit der Patientinnen und Patienten beeinflussen.
+  responsibilities:
+  - Das klinische Design eines großen klinischen Systems oder Produkts leiten und Standards für Inhalte und Konfiguration setzen.
+  - Produktteams fachlich zu klinischen Arbeitsabläufen, Entscheidungsunterstützung und Sicherheit beraten.
+  - Mit der oder dem Beauftragten für klinische Sicherheit Gefährdungen ermitteln, Maßnahmen vereinbaren und klinische Nachweise für Sicherheitsnachweise liefern.
+  - Klinische Einbindung und Einführung in den Diensten leiten und unter klinischen Kolleginnen und Kollegen für sichere Nutzung eintreten.
+  - Evaluationen und klinische Audits zu Systemnutzung und Nutzen planen und durchführen.
+  - Spezialistinnen und Spezialisten für klinische Informatik und neu in digitaler Arbeit tätiges klinisches Personal anleiten.
+  qualifications:
+  - Aktuelle Registrierung bei einer klinischen Berufsorganisation, mit umfangreicher klinischer Erfahrung.
+  - Eine postgraduale Qualifikation in klinischer oder Gesundheitsinformatik oder gleichwertige Erfahrung.
+  job_evaluation_notes: Die Patientenversorgung wird auf Stufe 5 bewertet, für fachliche Beratung zur Patientenversorgung. Forschung liegt auf Stufe 3, weil Evaluation und klinisches Audit von Systemen ein Hauptteil der Stelle sind.
+- title: Leitende/r Informatiker/in (klinisch)
+  summary: Leitet die klinische Informatik für ein Portfolio klinischer Systeme oder eine Versorgungseinrichtung, legt klinische Gestaltungsstandards fest und führt ein Team klinischer Informatikerinnen und Informatiker.
+  responsibilities:
+  - Klinische Gestaltungsstandards und -prinzipien für klinische Systeme über ein Portfolio festlegen.
+  - Ein Team klinischer Informatikerinnen und Informatiker führen, Prioritäten setzen und ihre berufliche Entwicklung unterstützen.
+  - Programmgremien und die Führungsebene zu klinischem Risiko, Nutzen und Prioritäten für klinische Systeme beraten.
+  - Klinische Entscheidungen zu Entscheidungsunterstützung, Warnungen und strukturierten Daten über Dienste hinweg leiten.
+  - Netzwerke klinischer Botschafterinnen und Botschafter aufbauen und die klinische Einbindung bei umfassenden Veränderungen leiten.
+  - Evaluationen beauftragen und leiten und die Evidenz zur Gestaltung der Roadmap nutzen.
+  qualifications:
+  - Aktuelle Registrierung bei einer klinischen Berufsorganisation, mit umfangreicher klinischer Erfahrung.
+  - Eine postgraduale Qualifikation in klinischer oder Gesundheitsinformatik oder gleichwertige Erfahrung in der Leitung klinisch-informatischer Arbeit.
+- title: Leiter/in klinische Informatik
+  summary: Leitet die Funktion klinische Informatik der Organisation und ihr klinisches Design-Gremium und stellt sicher, dass alle klinischen Systeme mit starker klinischer Führung gestaltet, eingeführt und verbessert werden.
+  responsibilities:
+  - Die Strategie der klinischen Informatik festlegen und das klinische Design-Gremium der Organisation leiten.
+  - Die Funktion klinische Informatik führen und entwickeln, einschließlich ihres Personalplans und Budgets.
+  - Die Geschäftsleitung hoch spezialisiert dazu beraten, wie digitale Investitionen die Patientenversorgung beeinflussen.
+  - Sicherstellen, dass klinische Systeme klinische Sicherheits-, Terminologie- und Datenstandards erfüllen.
+  - Die Organisation gegenüber Partnern in Gesundheit und Pflege, Berufsorganisationen und akademischen Netzwerken vertreten.
+  - Forschungs- und Evaluationspartnerschaften leiten, um die Evidenz für digitale Gesundheit aufzubauen.
+  qualifications:
+  - Aktuelle Registrierung bei einer klinischen Berufsorganisation, mit umfangreicher klinischer Erfahrung und Führungserfahrung.
+  - Ein Masterabschluss in klinischer oder Gesundheitsinformatik oder gleichwertige Erfahrung in der Leitung klinischer Informatik auf Organisationsebene.
+  job_evaluation_notes: Die Patientenversorgung wird auf Stufe 6 bewertet, für hoch spezialisierte Beratung zur Patientenversorgung über die klinischen Systeme der Organisation hinweg.

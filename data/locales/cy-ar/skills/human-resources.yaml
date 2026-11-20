@@ -1,0 +1,323 @@
+# Welsh translations of data/skills/human-resources.yaml. Keys are the English skill ids.
+hr-hr-administration:
+  name: Gweinyddu adnoddau dynol
+  slug: gweinyddu-adnoddau-dynol
+  description: Rhedeg prosesau gweinyddol cylch bywyd cyflogaeth yn gywir ac yn gyfrinachol, o gontractau a dechreuwyr i newidiadau, cofnodion absenoldeb, ac ymadawyr.
+  levels:
+    awareness: |
+      Gallwch:
+      - dilyn gweithdrefnau'r sefydliad ar gyfer dechreuwyr, newidiadau, ac ymadawyr
+      - cadw cofnodion personol yn gyfrinachol ac yn gyfredol
+    working: |
+      Gallwch:
+      - paratoi contractau, llythyrau amrywio, a gwiriadau cyflogaeth yn gywir
+      - prosesu newidiadau yn y system adnoddau dynol a chyflogres yn erbyn terfynau amser
+      - ateb cwestiynau arferol gan reolwyr a staff am brosesau adnoddau dynol
+    practitioner: |
+      Gallwch:
+      - rhedeg gwasanaeth gweinyddu adnoddau dynol, gan wirio ansawdd a bodloni safonau gwasanaeth
+      - gwella prosesau a thempledi, ac awtomeiddio camau arferol lle gallwch
+      - datrys achosion cymhleth neu anarferol, fel gordaliadau neu wallau contract
+    expert: |
+      Gallwch:
+      - dylunio model gweithredu a safonau gwasanaeth adnoddau dynol ar gyfer y sefydliad
+      - arwain y symud i brosesau adnoddau dynol digidol a hunanwasanaeth
+      - gosod mesurau rheoli sy'n cadw data adnoddau dynol a chyflogres yn gywir ac yn gyfreithlon
+
+hr-employment-policy:
+  name: Cyfraith cyflogaeth a pholisi pobl
+  slug: cyfraith-cyflogaeth-a-pholisi-pobl
+  description: Cymhwyso cyfraith cyflogaeth ac ysgrifennu, dehongli, ac adolygu polisïau pobl y sefydliad fel bod staff yn cael eu trin yn gyfreithlon, yn deg, ac yn gyson.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro'r prif bolisïau pobl a ble i ddod o hyd iddynt
+      - adnabod pan fo angen cyngor gan gynghorydd adnoddau dynol ar gwestiwn
+    working: |
+      Gallwch:
+      - cymhwyso polisïau pobl i achosion arferol a'u hegluro i reolwyr
+      - nodi'r egwyddorion cyfraith cyflogaeth y tu ôl i bolisi
+      - cadw cofnodion polisi ac olrhain dyddiadau adolygu polisïau
+    practitioner: |
+      Gallwch:
+      - dehongli cyfraith cyflogaeth a pholisi ar gyfer achosion cymhleth a chynghori ar risg
+      - drafftio ac adolygu polisïau pobl, gydag asesiadau effaith cydraddoldeb
+      - ymgynghori ar newidiadau polisi gyda chynrychiolwyr staff
+    expert: |
+      Gallwch:
+      - gosod fframwaith polisïau pobl y sefydliad a'i ddull o ymdrin â risg gyfreithiol
+      - rhagweld newidiadau yn y gyfraith cyflogaeth a chynllunio ymateb y sefydliad
+      - cynghori'r bwrdd ar risg ac atebolrwydd cyflogaeth
+
+hr-employee-relations:
+  name: Gwaith achos cysylltiadau gweithwyr
+  slug: gwaith-achos-cysylltiadau-gweithwyr
+  description: Rheoli achosion cysylltiadau gweithwyr ffurfiol ac anffurfiol, fel ymddygiad, gallu, cwynion, presenoldeb, ac urddas yn y gwaith, yn deg ac yn unol â pholisi a chyfraith cyflogaeth.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro prif gamau gweithdrefnau ymddygiad, gallu, cwynion, a phresenoldeb
+      - cymryd nodiadau cywir mewn cyfarfodydd ffurfiol a chadw cofnodion achos yn gyfrinachol
+    working: |
+      Gallwch:
+      - cynghori rheolwyr ar achosion syml a'r cam nesaf mewn gweithdrefn
+      - cefnogi ymchwiliadau, paratoi papurau achos, a threfnu gwrandawiadau
+      - gweithio'n adeiladol gyda chynrychiolwyr staff ar achosion unigol
+    practitioner: |
+      Gallwch:
+      - rheoli llwyth achosion o achosion cymhleth, gan gynghori paneli gwrandawiad ar ganlyniadau teg
+      - cynnal neu arwain ymchwiliadau, gan gynnwys rhai sy'n gysylltiedig â digwyddiadau neu ddiogelu
+      - defnyddio datrys yn gynnar a chyfryngu i setlo anghydfodau cyn iddynt waethygu
+      - sylwi ar dueddiadau mewn achosion a gweithredu ar eu hachosion
+    expert: |
+      Gallwch:
+      - arwain dull y sefydliad o ymdrin â chysylltiadau gweithwyr a gweithio mewn partneriaeth
+      - ymdrin â'r achosion mwyaf sensitif neu risg uchel, gan gynnwys hawliadau cyflogaeth
+      - negodi cytundebau cyfunol a datrys anghydfodau cyfunol
+
+hr-recruitment-and-selection:
+  name: Recriwtio a dethol
+  slug: recriwtio-a-dethol
+  description: Denu, asesu, a phenodi pobl yn deg ac yn effeithlon, o ddylunio swyddi a hysbysebu drwy lunio rhestr fer, asesu, cynnig, a gwiriadau cyn cyflogi.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro camau proses recriwtio'r sefydliad
+      - dilyn rheolau recriwtio teg a diogel, gan gynnwys gwiriadau cyn cyflogi
+    working: |
+      Gallwch:
+      - rhedeg ymgyrchoedd recriwtio drwy'r system olrhain ymgeiswyr
+      - cefnogi rheolwyr gyda hysbysebion, llunio rhestr fer, a threfniadau cyfweliadau
+      - cwblhau gwiriadau cyn cyflogi a gwneud cynigion amodol
+    practitioner: |
+      Gallwch:
+      - cynghori rheolwyr ar ddylunio swyddi, dulliau dethol, ac asesu teg
+      - dylunio asesiadau ar gyfer rolau arbenigol, fel ymarferion technegol ar gyfer rolau digidol
+      - dadansoddi data recriwtio i wella'r amser i benodi, ansawdd, ac amrywiaeth
+      - rheoli profiad ymgeiswyr a brand y cyflogwr
+    expert: |
+      Gallwch:
+      - gosod strategaeth recriwtio a safonau gwasanaeth y sefydliad
+      - arwain y dewis a'r defnydd o dechnoleg recriwtio ac asiantaethau
+      - sicrhau bod recriwtio'n gynhwysol ac yn gyfreithlon ar draws y sefydliad
+
+hr-talent-attraction:
+  name: Denu a chanfod talent
+  slug: denu-a-chanfod-talent
+  description: Dod o hyd i bobl â sgiliau prin, fel arbenigwyr digidol, data, a thechnoleg, ac ymgysylltu â nhw drwy frand cyflogwr, chwilio uniongyrchol, rhwydweithiau, a llwybrau gyrfa cynnar.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pa sgiliau sy'n anodd eu recriwtio a pham
+      - rhannu hysbysebion swyddi drwy sianeli a rhwydweithiau'r sefydliad
+    working: |
+      Gallwch:
+      - ysgrifennu hysbysebion sy'n apelio at ymgeiswyr arbenigol ac sy'n defnyddio iaith glir
+      - chwilio byrddau swyddi, rhwydweithiau proffesiynol, a chronfeydd talent am ymgeiswyr
+      - cefnogi digwyddiadau, fel ffeiriau gyrfaoedd a diwrnodau agored
+    practitioner: |
+      Gallwch:
+      - meithrin piblinellau a chymunedau talent ar gyfer rolau digidol a data prin
+      - llunio cynnig gwerth y cyflogwr gyda thimau penodi
+      - defnyddio data'r farchnad ar gyflog a chyflenwad i gynghori ar rolau anodd eu llenwi
+      - datblygu llwybrau gyrfa cynnar, fel prentisiaethau a chynlluniau graddedigion
+    expert: |
+      Gallwch:
+      - gosod strategaeth denu talent a brand cyflogwr y sefydliad
+      - gweithio gyda phartneriaid, fel prifysgolion a chyflogwyr eraill, i gynyddu'r cyflenwad talent
+      - arwain penderfyniadau ar dâl premiwm, defnyddio asiantaethau, a modelau canfod amgen
+
+hr-workforce-planning:
+  name: Cynllunio'r gweithlu
+  slug: cynllunior-gweithlu
+  description: Rhagweld y gweithlu sydd ei angen ar y sefydliad, ei gymharu â'r gweithlu sydd ganddo, a chynllunio sut i gau'r bwlch drwy recriwtio, datblygu, ailddylunio, a chadw staff.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae cynllunio'r gweithlu'n bwysig ar gyfer gwasanaethau diogel a chynaliadwy
+      - darparu gwybodaeth gywir am sefydliad staff a swyddi gwag
+    working: |
+      Gallwch:
+      - casglu a gwirio data cynllun gweithlu gan reolwyr
+      - modelu senarios syml, fel tueddiadau trosiant a swyddi gwag
+    practitioner: |
+      Gallwch:
+      - arwain cynllunio'r gweithlu ar gyfer cyfarwyddiaeth, gan ei gysylltu â chynlluniau gwasanaeth ac ariannol
+      - nodi bylchau sgiliau ac argymell ffyrdd o'u cau
+      - cynllunio rolau newydd, llwybrau gyrfa, a chymysgedd sgiliau
+    expert: |
+      Gallwch:
+      - gosod strategaeth gweithlu a chynllun hirdymor y sefydliad
+      - gwneud penderfyniadau cytbwys am y gweithlu ar draws gwasanaethau gydag arweinwyr cyllid a gwasanaethau
+      - llunio cynlluniau gweithlu gyda phartneriaid ar draws y system iechyd a gofal
+
+hr-workforce-information:
+  name: Gwybodaeth am y gweithlu a systemau adnoddau dynol
+  slug: gwybodaeth-am-y-gweithlu-a-systemau-adnoddau-dynol
+  description: Rheoli systemau a data adnoddau dynol a'r gweithlu, a throi data'r gweithlu'n adroddiadau a dealltwriaeth, fel dadansoddiad trosiant, absenoldeb, swyddi gwag, amrywiaeth, a bylchau cyflog.
+  levels:
+    awareness: |
+      Gallwch:
+      - mewnbynnu data'r gweithlu'n gywir yn y system adnoddau dynol
+      - egluro pam mae'n rhaid i ddata'r gweithlu fod yn gywir a'i gadw'n gyfrinachol
+    working: |
+      Gallwch:
+      - rhedeg adroddiadau gweithlu safonol a'u gwirio am wallau
+      - ateb ceisiadau arferol am wybodaeth am y gweithlu
+    practitioner: |
+      Gallwch:
+      - dadansoddi data'r gweithlu i ddod o hyd i dueddiadau a'u hegluro i reolwyr
+      - dylunio dangosfyrddau ac adroddiadau ar gyfer dangosyddion y gweithlu
+      - cynhyrchu adroddiadau statudol a chydraddoldeb, fel dadansoddiad bylchau cyflog
+    expert: |
+      Gallwch:
+      - gosod strategaeth gwybodaeth gweithlu a safonau data'r sefydliad
+      - arwain y dewis a'r datblygiad o systemau adnoddau dynol
+      - defnyddio dealltwriaeth o'r gweithlu i lywio penderfyniadau'r bwrdd
+
+hr-reward-and-job-evaluation:
+  name: Gwobrwyo a gwerthuso swyddi
+  slug: gwobrwyo-a-gwerthuso-swyddi
+  description: Cymhwyso rheolau cyflog a gwobrwyo, a gwerthuso swyddi'n gyson yn erbyn cynllun gwerthuso swyddi i'w gosod yn y band cywir.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro sut mae bandiau cyflog, cynyddrannau, a lwfansau'n gweithio
+      - egluro bod swyddi'n cael eu bandio drwy werthuso swyddi, nid yn ôl y person yn y swydd
+    working: |
+      Gallwch:
+      - cymhwyso rheolau cyflog, fel cyflog cychwynnol, diogelu, a lwfansau
+      - gwirio bod swydd-ddisgrifiadau'n gyflawn cyn iddynt fynd i'w gwerthuso
+      - cymryd rhan mewn paneli gwerthuso swyddi fel aelod hyfforddedig
+    practitioner: |
+      Gallwch:
+      - arwain paneli gwerthuso swyddi a gwiriadau cysondeb
+      - cynghori ar fandio rolau newydd a rolau sydd wedi newid, gan gynnwys rolau digidol a data
+      - cynghori ar bremiymau recriwtio a chadw, gan ddefnyddio tystiolaeth o'r farchnad
+    expert: |
+      Gallwch:
+      - gosod strategaeth wobrwyo'r sefydliad o fewn y fframwaith cyflog y cytunwyd arno
+      - sicrhau uniondeb gwerthuso swyddi ar draws y sefydliad
+      - arwain adolygiadau cyflog cyfartal a gweithredu ar eu canfyddiadau
+
+hr-learning-design-and-delivery:
+  name: Dylunio a darparu dysgu
+  slug: dylunio-a-darparu-dysgu
+  description: Dadansoddi anghenion dysgu, yna dylunio, darparu, a gwerthuso dysgu wyneb yn wyneb, ar-lein, ac yn llif y gwaith.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro'r gwahaniaeth rhwng hyfforddiant, dysgu, a datblygu
+      - cefnogi'r gwaith o redeg cyrsiau a chadw cofnodion hyfforddiant
+    working: |
+      Gallwch:
+      - cyflwyno sesiynau hyfforddi wedi'u diffinio'n dda wyneb yn wyneb ac ar-lein
+      - adeiladu e-ddysgu syml yn y system rheoli dysgu
+      - casglu a chrynhoi adborth dysgwyr
+    practitioner: |
+      Gallwch:
+      - dadansoddi anghenion dysgu a dylunio rhaglenni cyfunol i'w diwallu
+      - gosod deilliannau dysgu a gwerthuso effaith, nid boddhad yn unig
+      - gwneud dysgu'n hygyrch ac yn gynhwysol i'r holl staff
+    expert: |
+      Gallwch:
+      - gosod strategaeth a safonau dysgu'r sefydliad
+      - arwain y cynnig dysgu, ei dechnoleg, a'i gyllid
+      - dangos yr adenillion ar fuddsoddiad y sefydliad mewn dysgu
+
+hr-skills-frameworks-and-career-pathways:
+  name: Fframweithiau sgiliau a llwybrau gyrfa
+  slug: fframweithiau-sgiliau-a-llwybrau-gyrfa
+  description: Defnyddio fframweithiau sgiliau a rolau, fel y cyfeirlyfr hwn, UK GDaD PCF, ac ESCO, i ddisgrifio rolau, asesu bylchau sgiliau, a llunio llwybrau gyrfa.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro beth yw fframwaith sgiliau a sut mae'n disgrifio rolau a lefelau
+      - dod o hyd i'r proffil rôl a'r sgiliau ar gyfer swydd yn y fframwaith
+    working: |
+      Gallwch:
+      - mapio swydd-ddisgrifiadau i rolau, lefelau, a sgiliau'r fframwaith
+      - cefnogi staff a rheolwyr gyda hunanasesiadau sgiliau
+      - cadw gwybodaeth am lwybrau gyrfa'n gyfredol
+    practitioner: |
+      Gallwch:
+      - cynnal dadansoddiad bylchau sgiliau ar gyfer tîm neu broffesiwn ac adrodd ar y canlyniadau
+      - dylunio llwybrau gyrfa a llwybrau datblygu gan ddefnyddio lefelau'r fframwaith
+      - defnyddio sgiliau'r fframwaith i ysgrifennu swydd-ddisgrifiadau ac asesiadau cyson
+    expert: |
+      Gallwch:
+      - gosod sut mae'r sefydliad yn defnyddio fframweithiau sgiliau ar draws proffesiynau
+      - defnyddio data sgiliau i lywio strategaeth gweithlu, dysgu, a gwobrwyo
+      - cyfrannu at ddatblygu fframweithiau a rennir gyda sefydliadau eraill
+
+hr-organisational-development:
+  name: Datblygu sefydliadol
+  slug: datblygu-sefydliadol
+  description: Gwella sut mae'r sefydliad yn gweithio drwy ymyriadau diwylliant, arweinyddiaeth, ymgysylltu, effeithiolrwydd tîm, a llesiant sy'n seiliedig ar dystiolaeth.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro sut mae diwylliant, arweinyddiaeth, ac ymgysylltu'n effeithio ar staff a gofal cleifion
+      - helpu i redeg arolygon staff a digwyddiadau gwrando
+    working: |
+      Gallwch:
+      - hwyluso sesiynau tîm a gweithdai gan ddefnyddio offer safonol
+      - dadansoddi canlyniadau arolwg staff ar gyfer tîm ac awgrymu camau gweithredu
+    practitioner: |
+      Gallwch:
+      - canfod materion sefydliadol a dylunio ymyriadau i fynd i'r afael â nhw
+      - arwain rhaglenni datblygu tîm, datblygu arweinyddiaeth, ac ymgysylltu
+      - gwerthuso effaith ymyriadau gan ddefnyddio tystiolaeth
+    expert: |
+      Gallwch:
+      - gosod y strategaeth datblygu sefydliadol a'r rhaglen ddiwylliant
+      - hyfforddi swyddogion gweithredol ac arwain newid diwylliannol ar raddfa fawr
+      - cysylltu mesurau diwylliant ac ymgysylltu ag ansawdd gofal a pherfformiad
+
+hr-organisational-change:
+  name: Newid sefydliadol ac ymgynghori
+  slug: newid-sefydliadol-ac-ymgynghori
+  description: Cynllunio a rheoli newidiadau i strwythurau, rolau, a phatrymau gwaith, gan gynnwys ymgynghori ffurfiol, adleoli, a diswyddo, yn unol â pholisi a chyfraith cyflogaeth.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro prif gamau proses newid sefydliadol
+      - cefnogi gweinyddu newid, fel llythyrau a chyfarfodydd ymgynghori
+    working: |
+      Gallwch:
+      - cefnogi rheolwyr i baratoi dogfennau ymgynghori a sesiynau briffio staff
+      - olrhain ymatebion a chamau gweithredu yn ystod ymgynghoriad
+      - cefnogi staff drwy brosesau adleoli a dethol
+    practitioner: |
+      Gallwch:
+      - arwain newid sefydliadol ar gyfer cyfarwyddiaeth, o achos busnes i weithredu
+      - ymgynghori â staff a'u cynrychiolwyr ac ymateb i'w hadborth
+      - rheoli risgiau cyfreithiol a chydraddoldeb newid
+    expert: |
+      Gallwch:
+      - arwain ailstrwythuro ar draws y sefydliad a throsglwyddo gwasanaethau
+      - dylunio dull y sefydliad o ymdrin â newid, gan gynnwys gweithio mewn partneriaeth
+      - cynghori'r bwrdd ar effaith a risg newid mawr i bobl
+
+hr-people-strategy:
+  name: Strategaeth pobl ac arweinyddiaeth adnoddau dynol
+  slug: strategaeth-pobl-ac-arweinyddiaeth-adnoddau-dynol
+  description: Gosod strategaeth pobl y sefydliad, arwain y swyddogaeth adnoddau dynol, a chynghori'r bwrdd ar ddiwylliant, y gweithlu, a risg cyflogaeth.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro strategaeth pobl y sefydliad a sut mae eich gwaith yn ei chefnogi
+    working: |
+      Gallwch:
+      - cyfrannu at gynlluniau pobl ar gyfer gwasanaeth, gyda chamau gweithredu a mesurau clir
+      - adrodd ar gynnydd yn erbyn y cynllun pobl
+    practitioner: |
+      Gallwch:
+      - ysgrifennu ac arwain cynlluniau pobl ar gyfer cyfarwyddiaeth yn unol â'r strategaeth pobl
+      - cynghori uwch arweinwyr ar risgiau a blaenoriaethau pobl
+      - arwain rhan o'r swyddogaeth adnoddau dynol, gan osod ei safonau a'i blaenoriaethau
+    expert: |
+      Gallwch:
+      - gosod strategaeth pobl y sefydliad ac arwain y swyddogaeth adnoddau dynol
+      - cynghori'r bwrdd ar ddiwylliant, y gweithlu, a risg cyflogaeth
+      - cynrychioli'r sefydliad ar faterion pobl gyda phartneriaid a rheoleiddwyr

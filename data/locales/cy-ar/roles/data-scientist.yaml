@@ -1,0 +1,77 @@
+summary: >
+  Mae gwyddonwyr data'n defnyddio ystadegau, dysgu peirianyddol, a dulliau uwch eraill i ddod o hyd i batrymau
+  mewn data iechyd a gofal ac i adeiladu modelau sy'n helpu gwasanaethau i gynllunio, rhagweld, a gwella gofal.
+  Mae gwaith nodweddiadol yn cynnwys rhagweld galw, nodi cleifion a allai elwa o gymorth cynnar, a gwerthuso
+  effaith newidiadau i wasanaethau. Maen nhw'n gweithio'n agos gyda chlinigwyr a dadansoddwyr, ac yn sicrhau bod
+  modelau'n ddilys, yn deg, ac yn cael eu defnyddio'n ddiogel.
+health_context:
+  - Gall model sy'n cefnogi penderfyniadau am gleifion achosi niwed os yw'n anghywir neu'n dueddol, felly caiff modelau eu dilysu ar y boblogaeth y byddant yn cael eu defnyddio gyda hi a'u hasesu ar gyfer diogelwch clinigol.
+  - Mae data iechyd yn adlewyrchu mynediad anghyfartal at ofal, felly gall modelau ailadrodd neu waethygu anghydraddoldebau iechyd oni bai bod tuedd yn cael ei mesur a mynd i'r afael â hi ar gyfer pob grŵp o gleifion.
+  - Gall rhai modelau, fel y rhai sy'n llywio diagnosis neu driniaeth, gael eu rheoleiddio fel dyfeisiau meddygol, a gall rheoliadau deallusrwydd artiffisial fod yn berthnasol hefyd.
+  - Mae gwyddor data'n aml angen data manwl a chysylltiedig am gleifion, felly mae'r gwaith yn digwydd mewn lleoliadau diogel, gyda data wedi'i ffugenwi, o dan sail llywodraethiant gwybodaeth y cytunwyd arni.
+  - Mae angen i glinigwyr a chleifion ddeall ac ymddiried yn allbynnau model, felly mae egluro a chyfleu ansicrwydd mewn iaith glir yn bwysig.
+levels:
+  - title: Gwyddonydd data dan hyfforddiant
+    slug: gwyddonydd-data-dan-hyfforddiant
+    responsibilities:
+      - Dysgu dulliau ystadegol a dysgu peirianyddol, offer, a ffyrdd diogel o weithio'r tîm drwy hyfforddiant strwythuredig.
+      - Paratoi ac archwilio setiau data iechyd wedi'u ffugenwi dan oruchwyliaeth.
+      - Rhedeg a dehongli dadansoddiadau ystadegol syml, gan wirio canlyniadau gyda gwyddonydd data mwy profiadol.
+      - Dilyn gweithdrefnau llywodraethiant gwybodaeth, rheoli datgelu, a moeseg.
+      - Gweithio tuag at brentisiaeth gwyddor data neu gymhwyster cyfatebol.
+    qualifications:
+      - Wedi cofrestru ar brentisiaeth gwyddor data neu gyfatebol, neu'n gweithio tuag ati.
+    job_evaluation_notes: Caiff gwybodaeth ei sgorio ar y lefel sydd ei hangen ar y swydd unwaith y bydd yr hyfforddiant yn ddigon cyflawn i wneud y gwaith.
+  - title: Gwyddonydd data cyswllt
+    slug: gwyddonydd-data-cyswllt
+    responsibilities:
+      - Adeiladu a phrofi modelau ystadegol a dysgu peirianyddol sylfaenol, fel rhagolygon galw, gydag arweiniad.
+      - Paratoi a chysylltu setiau data iechyd ar gyfer modelu mewn amgylcheddau diogel.
+      - Mesur pa mor dda mae modelau'n perfformio ar gyfer gwahanol grwpiau o gleifion ac adrodd ar wahaniaethau.
+      - Cyflwyno canlyniadau a'u hansicrwydd i ddadansoddwyr a thimau gwasanaeth.
+      - Dogfennu ffynonellau data, dulliau, a rhagdybiaethau fel y gellir atgynhyrchu gwaith.
+    qualifications:
+      - Gradd mewn pwnc rhifiadol, prentisiaeth gwyddor data, neu brofiad cyfatebol.
+  - title: Gwyddonydd data
+    slug: gwyddonydd-data
+    responsibilities:
+      - Datblygu modelau cymhleth yn annibynnol, fel haenu risg neu ragweld hyd arhosiad, gan ddewis dulliau addas.
+      - Dilysu modelau gyda chlinigwyr, gan wirio eu bod yn gywir, yn deg, ac yn ddefnyddiol ar ddata cleifion lleol.
+      - Dogfennu defnydd bwriadedig, data, perfformiad, a chyfyngiadau pob model, a chyfrannu tystiolaeth at achosion diogelwch clinigol.
+      - Gwerthuso effaith newidiadau i wasanaethau gan ddefnyddio dulliau ystadegol addas.
+      - Egluro modelau a'u hansicrwydd i gynulleidfaoedd clinigol ac annhechnegol.
+      - Cefnogi gwyddonwyr data cyswllt a dan hyfforddiant.
+    qualifications:
+      - Gradd mewn pwnc rhifiadol, neu brofiad cyfatebol.
+      - Profiad o adeiladu a dilysu modelau ystadegol neu ddysgu peirianyddol.
+  - title: Prif wyddonydd data
+    slug: prif-wyddonydd-data
+    responsibilities:
+      - Cwmpasu, dylunio, ac arwain prosiectau gwyddor data sy'n cefnogi cynllunio gwasanaethau a gofal cleifion.
+      - Penderfynu pa ddulliau, offer, a data sy'n addas, a herio cynlluniau nad ydynt yn ymarferol neu'n ddiogel.
+      - Cynllunio dilysu, asesu tuedd, a monitro modelau gyda chydweithwyr diogelwch clinigol a llywodraethiant gwybodaeth.
+      - Cytuno gyda thimau cynnyrch sut bydd modelau'n cael eu defnyddio a'u cefnogi ar raddfa.
+      - Rheoli a datblygu tîm bach o wyddonwyr data.
+    qualifications:
+      - Profiad sylweddol o gyflawni gwyddor data, ar lefel sy'n cyfateb i radd meistr neu ddoethuriaeth mewn pwnc meintiol.
+  - title: Gwyddonydd data arweiniol
+    slug: gwyddonydd-data-arweiniol
+    responsibilities:
+      - Arwain timau gwyddor data a gosod eu cyfeiriad, eu blaenoriaethau, a'u safonau.
+      - Dod o hyd i gyfleoedd lle gall gwyddor data wella gofal, a gwneud yr achos drostynt gydag arweinwyr clinigol a gwasanaethau.
+      - Sicrhau bod modelau'n cael eu dylunio, eu dilysu, a'u monitro fel eu bod yn aros yn ddiogel ac yn deg wrth eu defnyddio.
+      - Datrys heriau moesegol a data cymhleth, fel cydsyniad, tuedd, a defnyddio data sensitif.
+      - Meithrin gallu gwyddor data drwy hyfforddi, recriwtio, a hyfforddiant.
+    qualifications:
+      - Profiad helaeth o arwain timau gwyddor data.
+    job_evaluation_notes: Mae UK GDaD PCF yn awgrymu G7 neu G6 ar gyfer gwyddonydd data arweiniol a phennaeth gwyddor data. Mae'r cyfeirlyfr hwn yn rhoi'r arweinydd ar Fand 8a a'r pennaeth ar Fand 8b, fel bod y ddwy lefel mewn bandiau gwahanol.
+  - title: Pennaeth gwyddor data
+    slug: pennaeth-gwyddor-data
+    responsibilities:
+      - Gosod y cyfeiriad ar gyfer gwyddor data a deallusrwydd artiffisial ar draws y sefydliad, yn unol â'i strategaeth a'i flaenoriaethau.
+      - Arwain ar foeseg, diogelwch, a sicrwydd modelau a deallusrwydd artiffisial y sefydliad, a chynghori'r bwrdd arnynt.
+      - Goruchwylio adnoddau, cyllideb, ac ansawdd cynhyrchion gwyddor data.
+      - Cynrychioli'r sefydliad ar wyddor data a deallusrwydd artiffisial gyda phartneriaid iechyd a gofal, ymchwilwyr, a rheoleiddwyr.
+      - Meithrin gallu a gyrfaoedd gwyddor data ar draws proffesiynau.
+    qualifications:
+      - Profiad helaeth o arwain gwyddor data ar draws sefydliad.

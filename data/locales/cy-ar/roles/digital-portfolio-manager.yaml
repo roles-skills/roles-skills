@@ -1,0 +1,56 @@
+summary: >
+  Mae rheolwyr portffolio digidol yn helpu'r sefydliad i ddewis, olrhain, a llywodraethu ei bortffolio o
+  brosiectau, rhaglenni, a chynhyrchion digidol fel ei fod yn buddsoddi yn y gwaith sy'n gwneud fwyaf i gleifion,
+  clinigwyr, a staff gofal. Maen nhw'n rhedeg llywodraethiant ac adrodd ar y portffolio, yn helpu arweinwyr i
+  flaenoriaethu gyda thystiolaeth dda, ac yn sicrhau bod y portffolio'n cyflawni'r buddion a addawodd.
+health_context:
+  - Mae gwaith digidol yn cystadlu am gyllid â gofal rheng flaen, felly mae rheolwyr portffolio'n helpu arweinwyr i ddangos buddion buddsoddiad digidol i gleifion a staff.
+  - Mae'n rhaid i lywodraethu portffolio gynnwys sicrwydd diogelwch clinigol, llywodraethiant gwybodaeth, a seiberddiogelwch, felly mae rheolwyr portffolio'n olrhain y rhain ochr yn ochr ag amser, cost, a chwmpas.
+  - Mae llawer o brosiectau digidol yn dibynnu ar gapasiti mewn timau clinigol a gweithredol, fel clinigwyr i brofi neu staff i hyfforddi, felly mae rheolwyr portffolio'n gwylio am wrthdaro yn y galw ar wasanaethau.
+  - Daw cyllid yn aml o sawl ffynhonnell gyda'u rheolau a'u terfynau amser adrodd eu hunain, felly mae rheolwyr portffolio'n cadw adroddiadau'n gywir ac yn brydlon.
+levels:
+  - title: Dadansoddwr portffolio digidol
+    slug: dadansoddwr-portffolio-digidol
+    responsibilities:
+      - Casglu a gwirio data statws, risg, cyllid, a buddion gan brosiectau ar draws y portffolio.
+      - Cynnal cofrestr a dangosfyrddau'r portffolio, a sylwi ar fylchau neu anghysondebau mewn adroddiadau.
+      - Paratoi papurau ac adroddiadau ar gyfer byrddau llywodraethiant'r portffolio.
+      - Olrhain cerrig milltir sicrwydd, fel llofnodi diogelwch clinigol ac asesiadau o'r effaith ar ddiogelu data, ar draws prosiectau.
+      - Cefnogi rheolwyr portffolio gyda dadansoddi blaenoriaethu a chynllunio.
+    qualifications:
+      - Gradd neu gymhwyster perthnasol, neu brofiad cyfatebol o ddadansoddi neu adrodd.
+    job_evaluation_notes: Mae UK GDaD PCF yn rhoi'r lefelau dadansoddwr a rheolwr ar HEO neu SEO. Mae'r cyfeirlyfr hwn yn rhoi'r dadansoddwr ar Fand 5, gan ei bod yn lefel ddysgu sy'n adrodd i reolwr portffolio, a'r rheolwr ar Fand 6, fel nad yw'r ddwy lefel yn yr un band.
+  - title: Rheolwr portffolio digidol
+    slug: rheolwr-portffolio-digidol
+    responsibilities:
+      - Cydlynu portffolio o brosiectau a rhaglenni digidol, fel yr holl waith digidol ar gyfer un gyfarwyddiaeth.
+      - Helpu timau i ddilyn prosesau llywodraethiant, sicrwydd, a chyflawni, a'u gwneud yn gymesur.
+      - Cefnogi arweinwyr i flaenoriaethu gwaith gan ddefnyddio tystiolaeth o angen, budd, risg, a chapasiti.
+      - Adrodd ar berfformiad, risgiau, a buddion y portffolio'n glir i fyrddau a rhanddeiliaid.
+      - Sylwi ar wrthdaro yn y galw ar dimau clinigol a gweithredol ar draws prosiectau a helpu i'w ddatrys.
+    qualifications:
+      - Profiad o reoli portffolio, rhaglenni, neu brosiectau, neu brofiad cyfatebol.
+  - title: Uwch reolwr portffolio digidol
+    slug: uwch-reolwr-portffolio-digidol
+    responsibilities:
+      - Rheoli portffolio digidol y sefydliad, neu ran fawr ohono, a'i brosesau llywodraethiant a sicrwydd.
+      - Olrhain a dadansoddi canlyniadau a buddion ar draws y portffolio, a gweithredu ar broblemau i helpu timau i gyflawni.
+      - Sicrhau bod y portffolio'n bodloni safonau, gan gynnwys sicrwydd diogelwch clinigol, llywodraethiant gwybodaeth, a seiberddiogelwch.
+      - Cynghori uwch arweinwyr ar flaenoriaethu, buddsoddi, a chyfaddawdau, gan ddefnyddio tystiolaeth glir.
+      - Rheoli adroddiadau'r portffolio i gyllidwyr a chyrff allanol.
+      - Rheoli dadansoddwyr a rheolwyr portffolio yn llinell.
+    qualifications:
+      - Profiad helaeth o reoli portffolio neu raglenni, ar lefel sy'n cyfateb i radd meistr.
+    job_evaluation_notes: Does dim lefel Band 7 gan fod UK GDaD PCF yn symud o reolwr portffolio digidol (HEO/SEO) i uwch reolwr portffolio digidol (G7).
+  - title: Pennaeth portffolio digidol
+    slug: pennaeth-portffolio-digidol
+    responsibilities:
+      - Arwain y swyddogaeth portffolio digidol a'r tîm o reolwyr portffolio.
+      - Gosod strategaeth, mesurau rheoli, a llywodraethiant y portffolio, a sicrhau eu bod yn cael eu defnyddio.
+      - Rhoi dealltwriaeth i arweinwyr gweithredol o ddyfodol y portffolio, fel y gallant wneud penderfyniadau buddsoddi.
+      - Sicrhau bod buddion y portffolio i gleifion, staff, a'r sefydliad yn cael eu gwireddu a'u hadrodd.
+      - Mynd i'r afael â risgiau ar lefel y portffolio ac uwchgyfeirio problemau i'r tîm gweithredol.
+      - Rheoli cyllideb a gallu'r swyddogaeth.
+    qualifications:
+      - Profiad helaeth o arwain rheoli portffolio mewn sefydliad cymhleth.
+    job_evaluation_notes: Caiff adnoddau ariannol eu sgorio ar lefel 5 gan fod pennaeth y portffolio digidol yn goruchwylio buddsoddiad ar draws y portffolio digidol cyfan, sy'n cwmpasu sawl gwasanaeth; mae adnoddau gwybodaeth ar lefel 6 gan fod cofrestr ac adroddiadau'r portffolio'n cwmpasu'r sefydliad cyfan.

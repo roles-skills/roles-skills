@@ -1,0 +1,39 @@
+summary: Change- und Release-Managerinnen und -Manager stellen sicher, dass Änderungen an IT-Diensten bewertet, genehmigt, terminiert und sicher durchgeführt werden und dass Releases geplant und koordiniert sind. Sie leiten das Change Advisory Board, verantworten die Konfigurationsmanagement-Datenbank und koordinieren Releases über Teams und Anbieter hinweg. In der Gesundheitsversorgung stellen sie sicher, dass Änderungen an klinischen Systemen so terminiert und getestet werden, dass die Patientenversorgung geschützt bleibt.
+health_context:
+- Änderungen an klinischen Systemen können Patientinnen und Patienten schaden; die Änderungsbewertung umfasst deshalb eine klinische Sicherheitsprüfung und Nachweise aus dem Prozess des klinischen Risikomanagements.
+- Klinische Dienste laufen täglich; Änderungsfenster werden deshalb mit klinischen Diensten vereinbart und meiden deren geschäftigste Zeiten.
+- Viele Änderungen kommen von Anbietern klinischer Systeme und müssen auch dann bewertet werden, wenn der Anbieter das Release steuert.
+- Notfalländerungen, etwa dringende Sicherheits-Patches, müssen Cyberrisiko gegen das Risiko einer Störung der Versorgung abwägen.
+- Eine korrekte Konfigurationsmanagement-Datenbank zeigt, welche klinischen Dienste eine Änderung betreffen könnte.
+levels:
+- title: Konfigurationsanalyst/in
+  responsibilities:
+  - Einträge in der Konfigurationsmanagement-Datenbank pflegen, einschließlich der klinischen Dienste, die jede Komponente unterstützt.
+  - Konfigurationseinträge mit Erkennungswerkzeugen abgleichen und Lücken und Fehler beheben.
+  - Änderungsdatensätze und Tagesordnungen für das Change Advisory Board vorbereiten.
+  - Routineanfragen zu Konfigurationselementen und ihren Beziehungen beantworten.
+  qualifications:
+  - Eine Grundlagenqualifikation im IT-Service-Management, eine Qualifikation auf Niveau 3 in der IT oder gleichwertige Erfahrung.
+  job_evaluation_notes: Das UK GDaD PCF schlägt für diese Stufe Entgeltgruppe 6 vor (HEO/SEO). Diese Referenz ordnet sie in Entgeltgruppe 4 ein, weil die Stufe die Change- und Release-Managerin oder den -Manager administrativ unterstützt, überwiegend mit Kompetenzen auf Bewusstseinsstufe, und unter der Change- und Release-Analyse liegt. Die Informationsressourcen liegen über dem Profil der Entgeltgruppe, weil die Pflege der Konfigurationsmanagement-Datenbank die Hauptaufgabe ist.
+- title: Change- und Release-Analyst/in
+  responsibilities:
+  - Änderungsanträge auf Risiko und Auswirkung bewerten, einschließlich der Wirkung auf klinische Dienste und Patientensicherheit.
+  - Releases planen und terminieren und Änderungsfenster mit klinischen und betrieblichen Diensten vereinbaren.
+  - Prüfen, dass jede Änderung Tests, einen Rückfallplan und, wo nötig, die klinische Sicherheitsfreigabe hat.
+  - Releases mit DevOps-Teams, Anbietern und dem Service Desk koordinieren.
+  - Releases im Nachgang prüfen und anstehende Änderungen planen.
+  qualifications:
+  - Erfahrung mit IT-Betrieb, Release oder Änderungsarbeit.
+  - Eine Grundlagenqualifikation im IT-Service-Management oder gleichwertige Erfahrung.
+- title: Change- und Release-Manager/in
+  responsibilities:
+  - Das Change Advisory Board leiten, einschließlich klinischer und betrieblicher Vertretungen, wenn Änderungen die Patientenversorgung betreffen.
+  - Über technische Änderungen entscheiden und Notfalländerungen wie dringende Sicherheits-Patches genehmigen.
+  - Releases und ihre Abhängigkeiten über interne Teams und Anbieter hinweg koordinieren.
+  - Die Prozesse für Change-, Release- und Konfigurationsmanagement und die Konfigurationsmanagement-Datenbank verantworten.
+  - Als Eskalationsstelle bei Änderungskonflikten und fehlgeschlagenen Änderungen dienen.
+  - Über Änderungserfolg, fehlgeschlagene Änderungen und durch Änderungen verursachte Störungen berichten und Verbesserungen vorantreiben.
+  qualifications:
+  - Umfangreiche Erfahrung mit Change- und Release-Management, auf einem Niveau, das einem Studienabschluss entspricht.
+  - Eine Qualifikation im IT-Service-Management auf mittlerem Niveau oder gleichwertige Erfahrung.
+  job_evaluation_notes: Die Planung liegt über dem Profil der Entgeltgruppe, weil die Rolle Releases und ihre Abhängigkeiten über viele Teams und Anbieter hinweg terminiert.

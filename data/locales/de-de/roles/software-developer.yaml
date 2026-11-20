@@ -1,0 +1,66 @@
+summary: Softwareentwicklerinnen und -entwickler bauen, testen und pflegen die Software hinter den digitalen Gesundheitsdiensten der Organisation, etwa Apps für Patientinnen und Patienten, klinische Systeme, Integrationsdienste und Datenplattformen. Sie arbeiten in multidisziplinären Produktteams, schreiben Code, der sicher, geschützt, barrierefrei und wartbar ist, und unterstützen ihre Dienste im laufenden Betrieb.
+health_context:
+- Software kann die Patientenversorgung beeinflussen; Entwicklerinnen und Entwickler folgen daher dem Prozess des klinischen Risikomanagements und tragen Belege zu Sicherheitsnachweisen bei.
+- Code verarbeitet oft vertrauliche Gesundheitsinformationen; Entwicklerinnen und Entwickler wenden daher standardmäßig Informationsgovernance und sichere Programmierpraktiken an.
+- Viele Dienste tauschen Daten mit anderen Gesundheits- und Pflegesystemen aus, mit offenen Interoperabilitätsstandards wie HL7 FHIR.
+- Manche Software kann als Medizinprodukt reguliert sein; Entwicklerinnen und Entwickler müssen daher wissen, wann sie regulatorischen Rat einholen.
+levels:
+- title: Softwareentwickler/in in Ausbildung
+  responsibilities:
+  - Die Sprachen, Werkzeuge und Arbeitsweisen des Teams durch strukturierte Schulung und Pairing lernen.
+  - Kleine, klar umrissene Codeteile unter enger Aufsicht schreiben und testen.
+  - Verfahren zu sicherer Programmierung, Informationsgovernance und klinischer Sicherheit befolgen.
+  - An Teamritualen wie Stand-ups, Planung und Retrospektiven teilnehmen.
+  - Auf eine Ausbildung oder einen gleichwertigen Abschluss hinarbeiten.
+  qualifications:
+  - In einer Ausbildung in Softwareentwicklung oder einem gleichwertigen Programm eingeschrieben oder auf dem Weg dorthin.
+  job_evaluation_notes: Das Wissen wird auf der Stufe bewertet, die die Stelle verlangt, sobald die Ausbildung weit genug fortgeschritten ist, um die Arbeit zu leisten; die Informationsressourcen spiegeln Arbeit an von anderen entworfenen Systemen wider.
+- title: Junior-Softwareentwickler/in
+  responsibilities:
+  - Funktionen für die Produkte des Teams mit Anleitung anhand von User Stories bauen und testen.
+  - Automatisierte Tests schreiben und Fehler beheben, auch in Diensten, die die Patientenversorgung unterstützen.
+  - Belege für klinische Sicherheitsnachweise beitragen, etwa Testergebnisse und Änderungsprotokolle.
+  - Gesundheitsdaten sicher behandeln und dabei die Regeln der Informationsgovernance befolgen.
+  - Mit Anleitung laufende Dienste als Teil der Supportvereinbarungen des Teams unterstützen.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder einem verwandten Fach, eine abgeschlossene Ausbildung oder gleichwertige Erfahrung.
+- title: Softwareentwickler/in
+  responsibilities:
+  - Funktionen und Dienste selbstständig entwerfen, bauen und testen und geeignete Ansätze wählen.
+  - Code prüfen und helfen, die Engineering-Standards des Teams zu pflegen.
+  - Integrationen mit anderen Gesundheits- und Pflegesystemen mit offenen Standards wie HL7 FHIR bauen.
+  - An der Gefährdungsermittlung teilnehmen und helfen, klinische Sicherheitsmaßnahmen in Code und Tests zu bringen.
+  - Probleme in laufenden Diensten untersuchen und beheben, einschließlich Support außerhalb der Arbeitszeit, wo der Dienst es braucht.
+  - Junior- und Auszubildende Entwicklerinnen und Entwickler anleiten.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder einem verwandten Fach oder gleichwertige Erfahrung.
+  - Erfahrung im Bau und Support produktiver Software.
+- title: Senior-Softwareentwickler/in
+  responsibilities:
+  - Den technischen Entwurf und die Lieferung bedeutender Funktionen und Dienste leiten.
+  - Engineering-Standards für das Team festlegen und pflegen, einschließlich Tests, Sicherheit und Barrierefreiheit.
+  - Technische Entscheidungen treffen, die Nutzerbedürfnisse, klinische Sicherheit, Sicherheit und Kosten abwägen.
+  - Störungsuntersuchungen für die Dienste des Teams leiten und die Lösungen vorantreiben.
+  - Mit Beauftragten für klinische Sicherheit sicherstellen, dass Sicherheitsmaßnahmen eingeplant und getestet werden.
+  - Entwicklerinnen und Entwickler im Team anleiten und entwickeln.
+  qualifications:
+  - Umfangreiche Erfahrung im Entwurf, Bau und Support produktiver Software, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Leitende/r Softwareentwickler/in
+  responsibilities:
+  - Das Engineering für ein Produkt oder eine Gruppe von Teams leiten und die technische Richtung festlegen.
+  - Sicherstellen, dass die Software für Sicherheit, Schutz, Resilienz und Interoperabilität entworfen ist.
+  - Mit Architektinnen, Architekten, Produktmanagern und klinischen Leitungen die Produkt-Roadmap mitgestalten.
+  - Die Fachcommunity der Entwicklung leiten und Standards über Teams hinweg setzen.
+  - Entwicklerinnen und Entwickler in der Linie führen oder leiten und ihre Entwicklung und Leistung unterstützen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung des Software-Engineerings für komplexe Dienste.
+  job_evaluation_notes: Das UK GDaD PCF führt leitende und Principal-Entwicklerinnen und -Entwickler beide meist bei G7 oder G6; diese Referenz ordnet die leitende Stufe in Entgeltgruppe 8a und die Principal-Stufe in Entgeltgruppe 8b ein.
+- title: Principal-Softwareentwickler/in
+  responsibilities:
+  - Die Engineering-Strategie, Standards und Praktiken für die Softwareentwicklung der Organisation festlegen.
+  - Die Führungsebene zu Technologieentscheidungen, Risiken und Investitionen beraten.
+  - Die Lösung der komplexesten technischen Probleme über Dienste hinweg leiten.
+  - Die Organisation in organisationsübergreifenden Engineering-Communities und Open-Source-Communities vertreten.
+  - Leitende Entwicklerinnen und Entwickler führen und entwickeln und die Engineering-Fähigkeiten der Organisation ausbauen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Engineering über mehrere Teams oder Organisationen hinweg.

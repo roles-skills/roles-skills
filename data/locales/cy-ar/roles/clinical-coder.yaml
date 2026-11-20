@@ -1,0 +1,76 @@
+summary: >
+  Mae codwyr clinigol yn darllen cofnodion iechyd cleifion ac yn trosi diagnosisau, triniaethau, a gwybodaeth
+  glinigol arall yn godau dosbarthu safonol, fel ICD ar gyfer diagnosisau a dosbarthiad triniaethau ar gyfer
+  ymyriadau. Caiff data wedi'i godio ei ddefnyddio ar gyfer taliadau, cynllunio gwasanaethau, archwilio
+  clinigol, ymchwil, ac ystadegau iechyd y cyhoedd, felly mae ei gywirdeb yn bwysig ymhell y tu hwnt i'r tîm
+  codio. Mae codwyr yn gweithio'n agos gyda chlinigwyr i egluro cofnodion, ac yn defnyddio terminolegau clinigol
+  fel SNOMED CT ac offer codio gyda chymorth cyfrifiadur fwyfwy.
+health_context:
+  - Mae codwyr yn darllen nodiadau achos cyflawn, sy'n aml yn disgrifio salwch difrifol, anafiadau, cam-drin, hunan-niweidio, a marwolaeth, felly mae'r gwaith yn heriol yn emosiynol ac mae angen cymorth a goruchwyliaeth dda ar dimau.
+  - Mae data wedi'i godio'n sbarduno taliadau am weithgarwch, dangosyddion marwolaethau a chanlyniadau, a chynllunio gwasanaethau, felly gall gwallau effeithio ar gyllid, perfformiad cyhoeddedig, a phenderfyniadau am ofal.
+  - Mae codio'n dibynnu ar ansawdd dogfennaeth glinigol, felly mae codwyr yn holi clinigwyr am gofnodion aneglur ac yn helpu i wella sut mae gofal yn cael ei gofnodi.
+  - Mae codwyr yn trin cofnodion iechyd adnabyddadwy llawn bob dydd, felly mae cyfrinachedd a mynediad cywir yn hanfodol.
+  - Mae codio awtomataidd a chodio gyda chymorth cyfrifiadur, a mapio o SNOMED CT i ddosbarthiadau, yn newid y gwaith, ac mae codwyr yn gwirio bod codau awtomataidd yn gywir.
+levels:
+  - title: Codiwr clinigol dan hyfforddiant
+    slug: codiwr-clinigol-dan-hyfforddiant
+    summary: Mae codiwr clinigol dan hyfforddiant yn dysgu codio episodau ysbyty syml dan oruchwyliaeth agos, gan weithio tuag at gymhwyster codio clinigol.
+    responsibilities:
+      - Codio episodau syml, fel achosion dydd, o gofnodion iechyd gan ddefnyddio rheolau dosbarthu, gydag uwch godiwr yn gwirio'r holl waith.
+      - Dysgu termau meddygol, anatomeg, a'r safonau codio cenedlaethol a rhyngwladol drwy hyfforddiant strwythuredig.
+      - Dod o hyd i gofnodion iechyd, eu holrhain, a'u dychwelyd yn gywir, a'u cadw'n ddiogel.
+      - Cofnodi data wedi'i godio yn y system gweinyddu cleifion neu'r system godio'n gywir ac yn brydlon.
+      - Codi gwybodaeth aneglur neu goll gydag uwch godiwr.
+    qualifications:
+      - Llythrennedd a sgiliau bysellfwrdd da, a chofrestriad ar raglen hyfforddi codio clinigol, neu gyfatebol.
+    job_evaluation_notes: Mae ymdrech feddyliol ar lefel 4 gan fod codwyr yn canolbwyntio am gyfnodau hir yn darllen ac yn dehongli nodiadau achos manwl. Mae ymdrech emosiynol ar lefel 2 gan fod codwyr yn aml yn darllen cofnodion sy'n disgrifio digwyddiadau trallodus.
+  - title: Codiwr clinigol
+    slug: codiwr-clinigol
+    summary: Mae codiwr clinigol yn codio ystod lawn o episodau arferol yn annibynnol ac yn gywir, gan gwrdd â therfynau amser a safonau ansawdd y cytunwyd arnynt.
+    responsibilities:
+      - Codio episodau cleifion mewnol, achosion dydd, a chleifion allanol yn gywir ar draws arbenigeddau cyffredin, gan ddefnyddio rheolau dosbarthu a pholisïau lleol.
+      - Holi clinigwyr am wybodaeth glinigol aneglur, goll, neu wrthgyferbyniol a chofnodi'r canlyniad.
+      - Gwirio codau a awgrymir gan godio gyda chymorth cyfrifiadur neu fapiau terminoleg, a'u cywiro lle bo angen.
+      - Cwrdd â therfynau amser ar gyfer cyflawnder codio, fel bod data'n barod ar gyfer taliadau ac adrodd.
+      - Cymryd rhan mewn archwiliadau codio a gweithredu ar eu canfyddiadau.
+    qualifications:
+      - Cymhwyster codio clinigol cydnabyddedig, neu'n gweithio tuag at un gyda phrofiad cyfatebol.
+    job_evaluation_notes: Mae ymdrech feddyliol ac emosiynol yn adlewyrchu cyfnodau hir o ganolbwyntio ar nodiadau achos sy'n aml yn disgrifio salwch difrifol, anafiadau, a marwolaeth.
+  - title: Uwch godiwr clinigol
+    slug: uwch-godiwr-clinigol
+    summary: Mae uwch godiwr clinigol yn codio episodau cymhleth ar draws arbenigeddau, yn ffynhonnell cyngor arbenigol i godwyr eraill, ac yn gwirio ac yn hyfforddi codwyr llai profiadol.
+    responsibilities:
+      - Codio episodau cymhleth, fel gofal critigol, canser, triniaethau lluosog, a marwolaethau, ar draws arbenigeddau.
+      - Datrys cwestiynau codio anodd gydag ymgynghorwyr ac uwch glinigwyr eraill, gan egluro rheolau codio'n glir.
+      - Gwirio gwaith codwyr dan hyfforddiant a rhoi adborth a hyfforddiant yn y gwaith iddynt.
+      - Dilysu data wedi'i godio cyn ei gyflwyno a thrwsio gwallau gyda'r tîm cywir.
+      - Gweithio gyda thimau clinigol i wella ansawdd dogfennaeth glinigol.
+    qualifications:
+      - Cymhwyster codio clinigol cydnabyddedig, neu brofiad cyfatebol.
+      - Profiad o godio episodau cymhleth ar draws ystod o arbenigeddau.
+    job_evaluation_notes: Mae ymdrech emosiynol yn aros ar lefel 2, gan fod episodau cymhleth fel marwolaethau a gofal canser yn rhan reolaidd o'r gwaith.
+  - title: Archwilydd a hyfforddwr codio clinigol
+    slug: archwilydd-a-hyfforddwr-codio-clinigol
+    summary: Mae archwilydd a hyfforddwr codio clinigol yn archwilio cywirdeb data wedi'i godio, yn dylunio ac yn cyflwyno hyfforddiant codio, ac yn cynghori'r sefydliad ar safonau codio. Mewn rhai sefydliadau mae'r lefel hon hefyd yn arwain tîm codio o ddydd i ddydd.
+    responsibilities:
+      - Cynllunio a chynnal archwiliadau codio ar draws arbenigeddau, gan fesur cywirdeb yn erbyn safonau cenedlaethol a rhyngwladol.
+      - Adrodd ar ganfyddiadau archwiliadau i dimau codio, clinigol, cyllid, a gwybodaeth, a chytuno ar gamau gwella.
+      - Dylunio a chyflwyno hyfforddiant codio, o gyrsiau sylfaen i godwyr newydd i hyfforddiant gloywi ar newidiadau i safonau.
+      - Cynghori clinigwyr a rheolwyr ar sut mae codio'n effeithio ar daliadau, dangosyddion marwolaethau, a data perfformiad.
+      - Arwain cyflwyno newidiadau i fersiynau dosbarthu, safonau codio, ac offer codio.
+      - Arwain tîm codio o ddydd i ddydd lle mae'r sefydliad yn cyfuno hyn ag archwilio a hyfforddi.
+    qualifications:
+      - Cymhwyster codio clinigol cydnabyddedig a chymhwyster archwilio neu hyfforddi codio clinigol cydnabyddedig, neu brofiad cyfatebol.
+    job_evaluation_notes: Mae pobl ar lefel 3 gan fod dylunio ac addysgu hyfforddiant codio arbenigol yn brif ddyletswydd. Mae ymchwil ar lefel 2 gan fod archwilio codio'n rhan reolaidd o'r swydd.
+  - title: Rheolwr codio clinigol
+    slug: rheolwr-codio-clinigol
+    summary: Mae rheolwr codio clinigol yn arwain gwasanaeth codio clinigol y sefydliad, gan gynnwys ei dimau codio, ei raglen ansawdd, a'i gysylltiadau â thimau clinigol, cyllid, a gwybodaeth.
+    responsibilities:
+      - Arwain y gwasanaeth codio clinigol a'i arweinwyr tîm, gan sicrhau bod codio'n gyflawn, yn gywir, ac yn brydlon.
+      - Gosod polisïau codio a'r rhaglen ansawdd codio, yn unol â safonau cenedlaethol a rhyngwladol.
+      - Dal y gyllideb codio a chynllunio'r gweithlu, gan gynnwys recriwtio, hyfforddi, ac achredu.
+      - Cynghori uwch arweinwyr ar sut mae codio'n effeithio ar gyllid, dangosyddion marwolaethau a chanlyniadau, a data cyhoeddedig.
+      - Arwain y gwaith o fabwysiadu technoleg codio newydd, fel codio gyda chymorth cyfrifiadur a mapio terminoleg, gyda chydweithwyr diogelwch clinigol a llywodraethiant gwybodaeth.
+      - Cefnogi llesiant codwyr sy'n darllen cofnodion trallodus yn rheolaidd.
+    qualifications:
+      - Cymhwyster codio clinigol cydnabyddedig a phrofiad helaeth o godio, archwilio, ac arwain codwyr, neu brofiad cyfatebol.

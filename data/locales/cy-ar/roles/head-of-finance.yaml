@@ -1,0 +1,51 @@
+summary: >
+  Mae uwch arweinwyr cyllid yn atebol am iechyd ariannol y sefydliad, ei reolaeth ariannol, a'i ddefnydd o arian
+  cyhoeddus. Maen nhw'n arwain strategaeth a chynllunio ariannol, yn cynghori'r bwrdd ar fforddiadwyedd a gwerth am
+  arian, ac yn arwain y swyddogaethau cyllid, cyflogres, ac yn aml caffael. Mewn sefydliad gofal iechyd digidol
+  maen nhw'n llunio sut mae buddsoddiad mewn technoleg a data'n cael ei ariannu, ei gymeradwyo, a'i ddangos i
+  sicrhau buddion i gleifion ac i'r system iechyd a gofal.
+health_context:
+  - Caiff y sefydliad ei ariannu ag arian cyhoeddus, felly mae arweinwyr cyllid yn atebol i gyllidwyr a chyrff goruchwylio am reoleidd-dra, priodoldeb, a gwerth am arian.
+  - Mae buddsoddiad mewn technoleg yn gyfran fawr o wariant, ac mae'r cydbwysedd rhwng cyfalaf, refeniw, a chostau tanysgrifiadau cwmwl yn llunio'r hyn y gall y sefydliad ei fforddio.
+  - Mae'n rhaid i arweinwyr cyllid gydbwyso targedau ariannol â diogelwch cleifion ac ansawdd y gwasanaethau y mae clinigwyr a staff gofal yn dibynnu arnynt.
+  - Mae contractau technoleg a data mawr yn cario ymrwymiadau hirdymor a risgiau cyflenwyr y mae'n rhaid i'r bwrdd eu deall.
+  - Gall y sefydliad weithio mewn partneriaethau ar draws iechyd a gofal, gyda chyllidebau cyfun, gwasanaethau a rennir, neu raglenni a letyir.
+levels:
+  - title: Rheolwr cyllid
+    slug: rheolwr-cyllid
+    summary: Mae rheolwyr cyllid, a elwir weithiau'n gyfarwyddwyr cyllid cynorthwyol, yn arwain rhan fawr o'r swyddogaeth gyllid, fel cyfrifyddu a rheolaeth ariannol neu gynllunio ariannol, ac yn dirprwyo ar ran uwch arweinwyr cyllid.
+    responsibilities:
+      - Arwain cyfrifyddu ariannol, rheolaeth ariannol, y trysorlys, a gwasanaethau trafodiadol, neu gynllunio ariannol a phartneriaeth busnes.
+      - Sicrhau bod y cyfrifon blynyddol yn cael eu cyflwyno mewn pryd gyda barn archwilio ddiamod.
+      - Cynnal system effeithiol o reolaeth ariannol, ac adrodd arni i'r pwyllgor archwilio.
+      - Arwain y cylch cynllunio ariannol ac adrodd ariannol yn ystod y flwyddyn i'r tîm gweithredol.
+      - Cynghori cyfarwyddwyr ar benderfyniadau ariannol mawr, gan gynnwys contractau technoleg mawr.
+      - Arwain a datblygu sawl tîm cyllid.
+    qualifications:
+      - Cymhwyster cyfrifyddiaeth cydnabyddedig, gyda phrofiad uwch helaeth yn y sector cyhoeddus neu mewn sefydliadau cymhleth.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 5 gan fod y swydd yn rheoli cyllidebau a phrosesau ariannol ar draws sawl gwasanaeth. Mae adnoddau gwybodaeth ar lefel 6 gan fod y swydd yn berchen ar y systemau a'r data cyllid a ddefnyddir ar draws y sefydliad.
+  - title: Dirprwy gyfarwyddwr cyllid
+    slug: dirprwy-gyfarwyddwr-cyllid
+    summary: Mae dirprwy gyfarwyddwyr cyllid yn arwain y swyddogaeth gyllid o ddydd i ddydd, yn dirprwyo ar ran y cyfarwyddwr cyllid, ac yn arwain strategaeth ariannol a chynllun ariannol tymor canolig y sefydliad.
+    responsibilities:
+      - Arwain y cynllun ariannol tymor canolig a'r cynllun ariannol blynyddol, gan eu cysylltu â strategaeth a chynlluniau'r gweithlu.
+      - Arwain y broses achosion busnes a chymeradwyo buddsoddiadau, gan gynnwys ar gyfer rhaglenni digidol mawr.
+      - Cynghori'r tîm gweithredol a phwyllgorau'r bwrdd ar berfformiad ariannol, risg, a chynlluniau arbedion.
+      - Cynrychioli'r sefydliad gyda chyllidwyr a phartneriaid ar faterion ariannol.
+      - Dirprwyo ar ran y cyfarwyddwr cyllid, gan gynnwys yn y bwrdd a'r pwyllgor archwilio.
+      - Arwain a datblygu'r timau cyllid, cyflogres, a systemau ariannol.
+    qualifications:
+      - Cymhwyster cyfrifyddiaeth cydnabyddedig, gyda phrofiad uwch helaeth o arwain swyddogaethau cyllid.
+  - title: Cyfarwyddwr cyllid
+    slug: cyfarwyddwr-cyllid
+    summary: Mae cyfarwyddwyr cyllid yn aelodau gweithredol o'r bwrdd sydd â chyfrifoldeb corfforaethol am gyllid y sefydliad, ei reolaeth ariannol, a'i ddefnydd o arian cyhoeddus.
+    responsibilities:
+      - Dal cyfrifoldeb corfforaethol am gyllid, rheolaeth ariannol, a chynaliadwyedd ariannol y sefydliad.
+      - Gosod y strategaeth ariannol ac arwain penderfyniadau'r bwrdd ar fforddiadwyedd, buddsoddi, a gwerth am arian.
+      - Sicrhau bod y sefydliad yn gwario arian cyhoeddus yn gyfreithlon, o fewn ei gyllid, ac yn unol â mesurau rheoli gwariant.
+      - Cynghori'r bwrdd ar effaith ariannol strategaeth, gan gynnwys y symud i wasanaethau digidol a gwasanaethau yn y cwmwl.
+      - Arwain perthnasoedd â chyllidwyr, cyrff goruchwylio, ac archwilwyr allanol.
+      - Arwain y swyddogaethau cyllid, cyflogres, a chaffael, ac yn aml wasanaethau corfforaethol eraill.
+    qualifications:
+      - Cymhwyster cyfrifyddiaeth cydnabyddedig, gyda phrofiad helaeth ar lefel weithredol neu fwrdd.
+    job_evaluation_notes: Mae adnoddau ariannol ar lefel 6 gan fod y swydd yn dal cyfrifoldeb corfforaethol am gyllid y sefydliad.

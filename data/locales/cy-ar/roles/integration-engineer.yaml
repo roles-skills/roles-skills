@@ -1,0 +1,59 @@
+summary: >
+  Mae peirianwyr integreiddio yn cysylltu systemau clinigol a busnes y sefydliad fel bod gwybodaeth iechyd a
+  gofal yn llifo'n ddiogel i'r man lle mae ei hangen. Maen nhw'n dylunio, yn adeiladu, yn profi, ac yn cefnogi
+  rhyngwynebau, APIs, a llifoedd negeseuon gan ddefnyddio safonau fel HL7 FHIR a HL7 fersiwn 2, yn mapio data a
+  chodau clinigol rhwng systemau, ac yn cadw integreiddiadau i redeg mewn gwasanaeth byw.
+health_context:
+  - Gall neges sy'n cael ei cholli, ei hoedi, ei dyblygu, neu ei pharu'n anghywir, fel canlyniad prawf neu atgyfeiriad, arwain yn uniongyrchol at niwed, felly mae gwaith integreiddio'n dilyn y broses rheoli risg glinigol.
+  - Mae integreiddiadau'n cludo llawer iawn o wybodaeth iechyd gyfrinachol rhwng sefydliadau, felly mae angen sail gyfreithlon, cludiant diogel, ac archwilio ar bob llif.
+  - Mae systemau iechyd yn defnyddio llawer o safonau a fersiynau, o negeseuon HL7 fersiwn 2 i APIs HL7 FHIR a phroffiliau IHE, yn aml gydag amrywiadau lleol.
+  - Mae'n rhaid i ystyr clinigol oroesi'r daith, felly mae peirianwyr yn mapio terminolegau clinigol fel SNOMED CT yn gywir ac yn paru cleifion yn ddibynadwy.
+  - Mae llawer o integreiddiadau'n cefnogi gofal drwy'r dydd a'r nos, felly mae angen monitro, rhybuddio, a llwybrau clir ar gyfer datrys negeseuon sydd wedi methu.
+levels:
+  - title: Peiriannydd integreiddio iau
+    slug: peiriannydd-integreiddio-iau
+    summary: Mae peiriannydd integreiddio iau yn adeiladu, yn profi, ac yn cefnogi integreiddiadau rhwng systemau iechyd a gofal, gan weithio o fanylebau a chydag arweiniad gan beirianwyr mwy profiadol.
+    responsibilities:
+      - Adeiladu a newid mapiadau negeseuon, trawsnewidiadau, a galwadau API o fanylebau y cytunwyd arnynt.
+      - Profi integreiddiadau yn erbyn manylebau a negeseuon sampl, gan gynnwys achosion gwall ac achosion ymylol.
+      - Monitro llifoedd negeseuon, ymchwilio i negeseuon sydd wedi methu neu gael eu gwrthod, a'u datrys neu eu huwchgyfeirio.
+      - Trin data iechyd yn ddiogel, gan ddilyn rheolau llywodraethiant gwybodaeth ar gyfer data byw a data prawf.
+      - Cofnodi newidiadau a chanlyniadau profion fel y gellir eu defnyddio fel tystiolaeth diogelwch clinigol.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu bwnc cysylltiedig, prentisiaeth wedi'i chwblhau, neu brofiad cyfatebol.
+  - title: Peiriannydd integreiddio
+    slug: peiriannydd-integreiddio
+    summary: Mae peiriannydd integreiddio yn dylunio, yn adeiladu, ac yn cefnogi integreiddiadau rhwng systemau iechyd a gofal yn annibynnol, ac yn helpu i ddiffinio sut dylai systemau gyfnewid data.
+    responsibilities:
+      - Dylunio ac adeiladu integreiddiadau, APIs, a llifoedd negeseuon gan ddefnyddio HL7 FHIR, HL7 fersiwn 2, a phatrymau negeseua.
+      - Dadansoddi systemau ffynhonnell a tharged ac ysgrifennu manylebau rhyngwyneb a mapiadau data, gan gynnwys codau clinigol.
+      - Adeiladu paru cleifion, dilysu, a thrin gwallau fel bod gwybodaeth yn cyrraedd y cofnod cywir.
+      - Cymryd rhan mewn gweithdai peryglon a chynnwys mesurau rheoli diogelwch mewn integreiddiadau, fel rhybuddion ar gyfer negeseuon sydd wedi methu neu wedi'u hoedi.
+      - Gweithio gyda chyflenwyr a sefydliadau partner i brofi cysylltiadau newydd a mynd yn fyw.
+      - Ymchwilio i broblemau mewn integreiddiadau byw a'u trwsio, a mentora peirianwyr integreiddio iau.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu bwnc cysylltiedig, neu brofiad cyfatebol.
+      - Profiad o adeiladu a chefnogi integreiddiadau rhwng systemau cynhyrchu.
+  - title: Uwch beiriannydd integreiddio
+    slug: uwch-beiriannydd-integreiddio
+    summary: Mae uwch beiriannydd integreiddio yn arwain dyluniad a chyflawniad integreiddiadau cymhleth ar draws llawer o systemau a sefydliadau, ac yn gosod safonau integreiddio ar gyfer ei faes.
+    responsibilities:
+      - Arwain dyluniad technegol integreiddiadau cymhleth, fel cofnodion gofal a rennir, canlyniadau, ac atgyfeiriadau ar draws sefydliadau.
+      - Ysgrifennu a chynnal proffiliau FHIR, canllawiau gweithredu, a safonau rhyngwyneb ar gyfer y sefydliad.
+      - Dylunio integreiddiadau i fod yn ddiogel, yn wydn, ac yn arsylladwy, gyda llwybrau clir ar gyfer datrys methiannau.
+      - Gweithio gyda swyddogion diogelwch clinigol i adnabod peryglon integreiddio a sicrhau bod mesurau rheoli wedi'u dylunio i mewn a'u profi.
+      - Sicrhau bod gan bob llif data sail gyfreithlon a threfniadau rhannu data y cytunwyd arnynt, gan weithio gyda chydweithwyr llywodraethiant gwybodaeth.
+      - Hyfforddi a datblygu peirianwyr integreiddio yn y tîm.
+    qualifications:
+      - Profiad sylweddol o ddylunio a chefnogi integreiddiadau iechyd neu integreiddiadau cymhleth eraill, ar lefel sy'n cyfateb i radd meistr.
+  - title: Peiriannydd integreiddio arweiniol
+    slug: peiriannydd-integreiddio-arweiniol
+    summary: Mae peiriannydd integreiddio arweiniol yn arwain peirianneg integreiddio'r sefydliad, yn gosod ei gyfeiriad a'i safonau technegol, ac yn sicrhau integreiddiadau hanfodol ar draws llawer o systemau.
+    responsibilities:
+      - Arwain peirianneg integreiddio ar draws y sefydliad, gan osod cyfeiriad, patrymau, a safonau.
+      - Sicrhau dyluniad integreiddiadau hanfodol, fel y rhai sy'n cludo canlyniadau, meddyginiaethau, neu rybuddion.
+      - Llunio map ffordd y llwyfan integreiddio gyda phenseiri, rheolwyr cynnyrch, a chyflenwyr.
+      - Cynrychioli'r sefydliad mewn gwaith rhyngweithredu a safonau ar draws sefydliadau.
+      - Rheoli neu arwain peirianwyr integreiddio yn llinell a datblygu'r gymuned ymarfer integreiddio.
+    qualifications:
+      - Profiad helaeth o arwain peirianneg integreiddio ar gyfer systemau iechyd neu ofal cymhleth.

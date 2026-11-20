@@ -1,0 +1,260 @@
+# German translations of data/skills/corporate-services.yaml. Keys are the English skill ids.
+corp-administration:
+  name: Büroverwaltung
+  description: Die Verwaltungsprozesse betreiben, die ein Team oder einen Dienst am Laufen halten, etwa Ablage, Bestellungen, Dateneingabe, Akten und das Befolgen von Bürovorgaben.
+  levels:
+    awareness: |
+      Sie können:
+      - Bürovorgaben für Ablage, Bestellungen und Dateneingabe befolgen
+      - genaue Aufzeichnungen über die eigene Arbeit führen
+    working: |
+      Sie können:
+      - eine Reihe von Verwaltungsprozessen für ein Team mit wenig Aufsicht betreiben
+      - Fehler in Akten und Daten erkennen und beheben
+      - einfachere Arbeitsweisen vorschlagen
+    practitioner: |
+      Sie können:
+      - die administrative Unterstützung für einen Dienst oder eine Direktion organisieren
+      - Verwaltungsverfahren schreiben und verbessern
+      - andere Verwaltungskräfte schulen und ihre Arbeit prüfen
+    expert: |
+      Sie können:
+      - Verwaltungsdienste in der gesamten Organisation entwerfen
+      - den Wechsel zu einfacheren, digitalen Verwaltungsprozessen leiten
+corp-office-software:
+  name: Digitale Bürowerkzeuge
+  description: Textverarbeitung, Tabellenkalkulation, Präsentationen, E-Mail, gemeinsame Dokumente und Werkzeuge für die Zusammenarbeit schnell und genau nutzen.
+  levels:
+    awareness: |
+      Sie können:
+      - Dokumente, E-Mails und einfache Tabellen erstellen und bearbeiten
+      - Dateien am richtigen Ort ablegen und teilen
+    working: |
+      Sie können:
+      - gut formatierte Dokumente und Präsentationen schnell und genau erstellen
+      - Tabellenkalkulationen nutzen, um Daten zu sortieren, zu filtern und zusammenzufassen
+      - Werkzeuge für Zusammenarbeit nutzen, um gemeinsame Dokumente und Versionen zu verwalten
+    practitioner: |
+      Sie können:
+      - Vorlagen, Verfolgungslisten und einfache automatisierte Arbeitsabläufe bauen
+      - Dokumente für alle zugänglich machen
+      - Kolleginnen und Kollegen helfen, Bürowerkzeuge besser zu nutzen
+    expert: |
+      Sie können:
+      - Standards für Vorlagen, Dokumentenmanagement und Werkzeuge der Zusammenarbeit festlegen
+      - die Einführung neuer Bürowerkzeuge in der Organisation leiten
+corp-diary-and-meeting-management:
+  name: Terminkalender- und Besprechungsmanagement
+  description: Terminkalender, Besprechungen und Reisen so verwalten, dass die Zeit der Menschen gut genutzt wird und Besprechungen die richtigen Personen, Unterlagen und Räume haben.
+  levels:
+    awareness: |
+      Sie können:
+      - Besprechungen und Räume mit den Werkzeugen der Organisation buchen
+      - Einladungen und Unterlagen rechtzeitig versenden
+    working: |
+      Sie können:
+      - Terminkalender für ein Team verwalten und Überschneidungen auflösen
+      - Reisen, Veranstaltungen und Besprechungen mit externen Partnern organisieren
+      - sicherstellen, dass Unterlagen und Aufgaben vor Besprechungen bereit sind
+    practitioner: |
+      Sie können:
+      - den Terminkalender einer leitenden Führungskraft verwalten und Prioritäten mit ihr setzen
+      - entscheiden, was ihre Zeit braucht und was andere erledigen können
+      - den Jahreszyklus der Besprechungen für einen Vorstand oder ein Leitungsteam planen
+    expert: |
+      Sie können:
+      - den Geschäftszyklus einer Geschäftsleitung führen
+      - sicherstellen, dass die Zeit leitender Führungskräfte auf die Prioritäten der Organisation ausgerichtet ist
+corp-minute-taking:
+  name: Protokollführung und Besprechungsaufzeichnungen
+  description: Diskussionen, Entscheidungen und Aufgaben genau und knapp erfassen und förmliche Besprechungsaufzeichnungen führen.
+  levels:
+    awareness: |
+      Sie können:
+      - Aufgaben und Entscheidungen in Teambesprechungen notieren
+    working: |
+      Sie können:
+      - genaue, knappe Protokolle und Aktionslisten für Routinebesprechungen schreiben
+      - Aufgaben bei den Verantwortlichen nachverfolgen
+    practitioner: |
+      Sie können:
+      - förmliche Protokolle von Vorstands- und Ausschusssitzungen schreiben, auch bei komplexen oder umstrittenen Diskussionen
+      - förmliche Besprechungsaufzeichnungen führen, die Audits und Untersuchungen standhalten
+      - Vorsitzende dazu beraten, was die Aufzeichnung zeigen sollte
+    expert: |
+      Sie können:
+      - Standards für förmliche Besprechungsaufzeichnungen in der Organisation festlegen
+      - Protokollführende schulen und auf Qualität prüfen
+corp-correspondence-management:
+  name: Bearbeitung von Korrespondenz und Anfragen
+  description: Briefe, E-Mails, Anrufe und Anfragen zügig und höflich bearbeiten und an die richtige Person weiterleiten.
+  levels:
+    awareness: |
+      Sie können:
+      - Anrufe und E-Mails höflich beantworten und genaue Nachrichten notieren
+      - Anfragen an die richtige Person weiterleiten
+    working: |
+      Sie können:
+      - Routinekorrespondenz und Anfragen selbst bearbeiten
+      - Briefe und Antworten zur Unterschrift durch andere entwerfen
+      - Korrespondenzprotokolle führen und Antworten nachverfolgen
+    practitioner: |
+      Sie können:
+      - die Korrespondenz für eine leitende Führungskraft führen, auch sensible und Beschwerdebriefe
+      - Antworten entwerfen, die Taktgefühl, Genauigkeit und Urteilsvermögen verlangen
+      - sicherstellen, dass Antworten Fristen einhalten
+    expert: |
+      Sie können:
+      - den Prozess und die Standards für die Korrespondenz der Geschäftsleitung festlegen
+      - die sensibelste Korrespondenz bearbeiten, auch mit Aufsichtsbehörden, Partnern und Medien
+corp-pmo-reporting:
+  name: Unterstützung von Projekt- und Portfoliobüro
+  description: Prozesse eines Projekt- und Portfoliobüros betreiben, etwa Pläne, Register, Berichterstattung, Dokumentenkontrolle und Absicherungsprüfungen.
+  levels:
+    awareness: |
+      Sie können:
+      - Projektdokumente mit Versionskontrolle am richtigen Ort ablegen
+      - Aktions-, Risiko- und Problemlogs auf Anforderung aktualisieren
+    working: |
+      Sie können:
+      - Pläne, Register und Verfolgungslisten für mehrere Projekte pflegen
+      - Aktualisierungen sammeln und regelmäßige Statusberichte erstellen
+      - prüfen, dass Projekte der vereinbarten Methode folgen
+    practitioner: |
+      Sie können:
+      - Portfolioberichterstattung entwerfen und Fortschritt, Risiken und Nutzen über Projekte hinweg analysieren
+      - Absicherungsprüfungen und Gateway-Reviews durchführen
+      - Projektmanagerinnen und -manager zu Methode und Kontrollen beraten
+    expert: |
+      Sie können:
+      - ein Portfoliobüro für die Organisation aufbauen und leiten
+      - leitenden Führungskräften klaren, verlässlichen Einblick in das Portfolio geben
+      - Standards und Werkzeuge für Projekt- und Portfoliomanagement festlegen
+corp-assurance-and-audit:
+  name: Abstimmung mit Absicherung und Audit
+  description: Absicherung einholen, dass Kontrollen wirken, interne und externe Audits unterstützen und Empfehlungen aus Audits bis zum Abschluss verfolgen.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, wie Audits und Absicherung in der Organisation funktionieren
+      - auf Anforderung Belege liefern
+    working: |
+      Sie können:
+      - Belege für Audits und Inspektionen koordinieren
+      - Empfehlungen aus Audits verfolgen und überfällige Maßnahmen nachfassen
+    practitioner: |
+      Sie können:
+      - die Absicherungskartierung über die Hauptrisiken der Organisation planen
+      - mit internen und externen Prüfenden Umfang und Feststellungen vereinbaren
+      - Ausschüssen über Absicherungslücken berichten
+    expert: |
+      Sie können:
+      - den Absicherungsrahmen der Organisation entwerfen
+      - den Prüfungsausschuss und den Vorstand zur Stärke der Absicherung beraten
+corp-policy-management:
+  name: Richtlinienmanagement
+  description: Richtlinien und Verfahren der Organisation schreiben, prüfen, genehmigen und veröffentlichen und kontrollieren, dass Menschen sie befolgen.
+  levels:
+    awareness: |
+      Sie können:
+      - die für Ihre Arbeit geltenden Richtlinien finden und befolgen
+    working: |
+      Sie können:
+      - das Richtlinienregister aktuell halten und Verantwortliche an Überprüfungen erinnern
+      - prüfen, dass Richtlinien die richtige Vorlage und den richtigen Genehmigungsweg nutzen
+    practitioner: |
+      Sie können:
+      - Richtlinien mit Fachleuten entwerfen und prüfen
+      - Richtlinien an Recht, Standards und Gleichstellungspflichten messen
+      - die Einhaltung überwachen und Lücken berichten
+    expert: |
+      Sie können:
+      - den Richtlinienrahmen der Organisation festlegen
+      - den Vorstand zu Richtlinienprioritäten und Risiken beraten
+corp-internal-communications:
+  name: Interne Kommunikation
+  description: Mitarbeitende über Kanäle wie das Intranet, Newsletter, Briefings und Veranstaltungen informiert und eingebunden halten, besonders bei Veränderungen.
+  levels:
+    awareness: |
+      Sie können:
+      - Inhalte auf internen Kanälen wie dem Intranet veröffentlichen
+      - Stil und Tonfall der Organisation befolgen
+    working: |
+      Sie können:
+      - Nachrichten, Briefings und Newsletter für Mitarbeitende schreiben und redigieren
+      - Inhalte für interne Kanäle planen und Engagement messen
+    practitioner: |
+      Sie können:
+      - interne Kommunikation für große Veränderungen planen, etwa ein neues klinisches System
+      - Führungskräfte beraten, wie sie Mitarbeitende einbinden und schwierige Botschaften vermitteln
+      - Rückmeldungen und Daten nutzen, um Kanäle zu verbessern
+    expert: |
+      Sie können:
+      - die Strategie für interne Kommunikation und Mitarbeiterengagement festlegen
+      - die Geschäftsleitung zu Kultur und Engagement beraten
+corp-media-relations:
+  name: Medienarbeit
+  description: Beziehungen zu Journalistinnen und Journalisten aufbauen, Medienanfragen bearbeiten, Pressemitteilungen schreiben und Sprecherinnen und Sprecher vorbereiten, auch bei Störungen.
+  levels:
+    awareness: |
+      Sie können:
+      - erklären, wie die Organisation Medienanfragen bearbeitet
+      - Medienanfragen sofort an das Kommunikationsteam weiterleiten
+    working: |
+      Sie können:
+      - routinemäßige Medienanfragen erfassen und beantworten
+      - Pressemitteilungen und Stellungnahmen zur Genehmigung entwerfen
+      - die Medienberichterstattung beobachten
+    practitioner: |
+      Sie können:
+      - sensible und reaktive Medienanfragen bearbeiten, auch zu Störungen oder Datenpannen
+      - Sprecherinnen und Sprecher briefen und vorbereiten
+      - Beziehungen zu Journalistinnen und Journalisten für Gesundheit und Technologie aufbauen
+    expert: |
+      Sie können:
+      - den Umgang mit Medien bei größeren Störungen und Krisen leiten
+      - den Ruf der Organisation bei leitenden Interessengruppen schützen und aufbauen
+      - den Vorstand zu Reputationsrisiken beraten
+corp-communications-strategy:
+  name: Kommunikationsstrategie und -planung
+  description: Kommunikation und Kampagnen planen, die Organisationsziele erfüllen, mit Erkenntnissen über Zielgruppen, und ihre Wirkung bewerten.
+  levels:
+    awareness: |
+      Sie können:
+      - die Ziele eines Kommunikationsplans, an dem Sie arbeiten, erklären
+    working: |
+      Sie können:
+      - Kommunikationspläne für Projekte mit Zielgruppen, Botschaften und Kanälen schreiben
+      - die Ergebnisse von Kommunikationsaktivität messen
+    practitioner: |
+      Sie können:
+      - Kampagnen planen, die Verhalten ändern, etwa Patientinnen und Patienten zur Nutzung eines digitalen Dienstes ermutigen
+      - Erkenntnisse über Zielgruppen und Evaluation nutzen, um Kampagnen zu verbessern
+      - Kommunikation für Störungen und Dienstausfälle planen
+    expert: |
+      Sie können:
+      - die Kommunikationsstrategie der Organisation festlegen
+      - Krisenkommunikation leiten
+      - den Vorstand zu Reputation und Einbindung von Interessengruppen beraten
+corp-digital-and-social-media:
+  name: Digitale und soziale Medien
+  description: Inhalte auf Websites und in sozialen Medien planen, veröffentlichen und verwalten, mit Zielgruppen in Austausch treten und die Ergebnisse messen.
+  levels:
+    awareness: |
+      Sie können:
+      - freigegebene Inhalte auf den Kanälen der Organisation veröffentlichen
+      - die Richtlinie zu sozialen Medien befolgen
+    working: |
+      Sie können:
+      - Inhalte für Websites und soziale Medien planen und veröffentlichen
+      - auf Kommentare antworten und Probleme erkennen, die eskaliert werden müssen
+      - über die Leistung von Kanälen berichten
+    practitioner: |
+      Sie können:
+      - die digitalen Kanäle der Organisation und ihre Inhaltspläne steuern
+      - mit negativen oder irreführenden Beiträgen umgehen, auch bei Störungen
+      - Analytik nutzen, um Reichweite und Engagement zu verbessern
+    expert: |
+      Sie können:
+      - Strategie und Governance für die digitalen Kanäle der Organisation festlegen
+      - die Reaktion auf Reputationsrisiken im Netz leiten

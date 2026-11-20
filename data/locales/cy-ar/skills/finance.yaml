@@ -1,0 +1,294 @@
+# Welsh translations of data/skills/finance.yaml. Keys are the English skill ids.
+fin-financial-transactions:
+  name: Trafodion ariannol a chyfriflyfrau
+  slug: trafodion-ariannol-a-chyfriflyfrau
+  description: Prosesu a chofnodi anfonebau, taliadau, derbynebau, cyfnodolion, a chysoniadau'n gywir yn y cyfriflyfrau, gan ddilyn mesurau rheoli ariannol.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro'r prosesau prynu-i-dalu ac archebu-i-arian a'ch rhan chi ynddynt
+      - mewnbynnu anfonebau, derbynebau, a thaliadau'n gywir, gan ddilyn gweithdrefnau penodol
+      - gwirio bod gan drafodyn y gymeradwyaeth a'r dogfennau ategol cywir
+    working: |
+      Gallwch:
+      - prosesu ystod o drafodion, gan gynnwys nodiadau credyd, ad-daliadau, a chyfnodolion
+      - cysoni datganiadau cyflenwyr, cyfrifon banc, a chyfrifon rheoli
+      - datrys ymholiadau arferol gan gyflenwyr, cwsmeriaid, a deiliaid cyllidebau
+      - sylwi ar drafodion dyblyg, anarferol, neu heb awdurdod a'u codi
+    practitioner: |
+      Gallwch:
+      - rheoli cyfriflyfr neu broses drafodion a'i chadw'n gywir ac yn gyfredol
+      - ymchwilio i eitemau cysoni cymhleth a hen falansau a'u clirio
+      - gwella prosesau trafodion, er enghraifft drwy awtomeiddio paru neu gymeradwyo
+      - hyfforddi staff eraill a gwirio eu gwaith
+    expert: |
+      Gallwch:
+      - dylunio prosesau trafodion y sefydliad a'r mesurau rheoli o'u mewn
+      - gosod safonau perfformiad, fel amseroedd talu a thargedau adennill dyledion
+      - arwain y symud i ffyrdd newydd o brosesu, fel awtomeiddio a hunanwasanaeth
+      - rhoi sicrwydd i uwch arweinwyr ac archwilwyr bod y cyfriflyfrau'n gyflawn ac yn gywir
+
+fin-financial-reporting:
+  name: Adroddiadau ariannol a chyfrifon statudol
+  slug: adroddiadau-ariannol-a-chyfrifon-statudol
+  description: Paratoi datganiadau ariannol a ffurflenni statudol cywir sy'n dilyn y safonau cyfrifyddu perthnasol a rheolau adrodd y sector cyhoeddus.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro diben y prif ddatganiadau ariannol
+      - paratoi papurau gwaith a chysoniadau sy'n cefnogi diwedd mis a diwedd blwyddyn
+    working: |
+      Gallwch:
+      - paratoi cofnodion diwedd mis a diwedd blwyddyn, fel croniadau, rhagdaliadau, a darpariaethau
+      - paratoi adrannau o'r cyfrifon blynyddol a'r nodiadau ategol
+      - cymhwyso safonau cyfrifyddu i drafodion arferol, fel cyfalafu meddalwedd a chaledwedd
+    practitioner: |
+      Gallwch:
+      - paratoi'r cyfrifon blynyddol a'r ffurflenni statudol yn unol ag amserlen
+      - cymhwyso safonau cyfrifyddu i feysydd cymhleth, fel lesoedd, trefniadau cyfrifiadura cwmwl, ac asedau anniriaethol
+      - ysgrifennu papurau cyfrifyddu sy'n egluro barnau ac amcangyfrifon
+      - rheoli archwiliad allanol y cyfrifon ac ymateb i ganfyddiadau
+    expert: |
+      Gallwch:
+      - bod yn berchen ar adroddiad a chyfrifon blynyddol y sefydliad a'r polisïau cyfrifyddu y tu ôl iddynt
+      - cynghori'r bwrdd a'r pwyllgor archwilio ar farnau arwyddocaol a safonau newydd
+      - arwain yr ymateb i farn archwilio amodol neu gamddatganiadau perthnasol
+      - sicrhau bod adroddiadau'n bodloni rheolau atebolrwydd cyhoeddus
+
+fin-management-accounting:
+  name: Cyfrifyddu rheoli
+  slug: cyfrifyddu-rheoli
+  description: Cynhyrchu gwybodaeth am gyllidebau a chostau sy'n helpu rheolwyr i gynllunio, rheoli, a gwneud penderfyniadau, gan gynnwys dadansoddi amrywiannau, costio, ac adrodd ar berfformiad.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro cyllidebau, gwariant gwirioneddol, ymrwymiadau, ac amrywiannau
+      - cynhyrchu adroddiadau cyllideb safonol o'r system gyllid
+    working: |
+      Gallwch:
+      - paratoi adroddiadau cyllideb misol ac egluro'r prif amrywiannau
+      - codio costau'n gywir rhwng canolfannau cost, prosiectau, a chyfalaf a refeniw
+      - cefnogi deiliaid cyllidebau i ddeall a rheoli eu cyllidebau
+    practitioner: |
+      Gallwch:
+      - rheoli'r cylch adrodd misol ar gyfer cyfarwyddiaeth neu raglen
+      - adeiladu modelau costau, fel cost lawn gwasanaeth digidol neu gost uned trafodyn
+      - dadansoddi tueddiadau gwariant a chynghori rheolwyr ar gamau i aros o fewn y gyllideb
+      - herio deiliaid cyllidebau'n adeiladol ar eu rhagolygon
+    expert: |
+      Gallwch:
+      - dylunio dull y sefydliad o adrodd i reolwyr a chostio
+      - cyflwyno perfformiad ariannol i'r bwrdd ac uwch arweinwyr
+      - arwain y defnydd o wybodaeth am gostau a pherfformiad i wella gwerth am arian
+      - gosod safonau ar gyfer cyfrifyddu rheoli ar draws y sefydliad
+
+fin-financial-planning-and-forecasting:
+  name: Cynllunio a rhagweld ariannol
+  slug: cynllunio-a-rhagweld-ariannol
+  description: Llunio cyllidebau, rhagolygon, a chynlluniau ariannol tymor canolig sy'n cysylltu arian â blaenoriaethau a rhaglenni'r sefydliad.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro'r cylch gosod cyllideb blynyddol a'r gwahaniaeth rhwng cyllideb a rhagolwg
+      - casglu gwybodaeth ragolygu gan ddeiliaid cyllidebau
+    working: |
+      Gallwch:
+      - llunio cyllidebau a rhagolygon ar gyfer canolfan gost neu brosiect, gan gynnwys costau staff
+      - diweddaru rhagolygon bob mis gyda newidiadau a risgiau hysbys
+      - cyfnodoli cyllidebau fel bod proffiliau gwariant yn cyfateb i gynlluniau cyflawni
+    practitioner: |
+      Gallwch:
+      - arwain y gwaith o osod cyllidebau a rhagweld ar gyfer cyfarwyddiaeth neu raglen fawr
+      - modelu senarios a sensitifrwydd, fel chwyddiant, oedi, neu newidiadau mewn cyllid
+      - llunio rhagolygon aml-flwyddyn ar gyfer rhaglenni digidol, gan gynnwys y costau rhedeg sy'n dilyn buddsoddiad
+      - cyflwyno rhagolygon a risgiau i uwch reolwyr
+    expert: |
+      Gallwch:
+      - arwain cynllun ariannol tymor canolig y sefydliad
+      - alinio cynlluniau ariannol â chynlluniau strategaeth, gweithlu, a buddsoddi
+      - cynghori'r bwrdd ar gynaliadwyedd ariannol a'r dewisiadau sydd eu hangen i aros o fewn y cyllid
+      - gosod y rhagdybiaethau a'r dulliau cynllunio a ddefnyddir ar draws y sefydliad
+
+fin-payroll:
+  name: Cyflogres
+  slug: cyflogres
+  description: Talu staff yn gywir ac yn brydlon, gan gynnwys dechreuwyr, ymadawyr, newidiadau, didyniadau, pensiynau, taliadau statudol, ac adroddiadau cyflogres.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro'r cylch cyflogres, o newidiadau a'r dyddiad cau i dalu ac adrodd
+      - mewnbynnu dechreuwyr, ymadawyr, a newidiadau'n gywir o ffurflenni awdurdodedig
+      - ateb ymholiadau cyflog arferol, gan gadw gwybodaeth am gyflog yn gyfrinachol
+    working: |
+      Gallwch:
+      - cyfrifo cyflog, taliadau ychwanegol, goramser, salwch, a thaliadau absenoldeb teulu
+      - cymhwyso treth, pensiwn, a didyniadau eraill yn gywir
+      - gwirio allbynnau'r gyflogres a chywiro gwallau cyn talu
+      - adennill gordaliadau'n sensitif ac yn unol â pholisi
+    practitioner: |
+      Gallwch:
+      - rhedeg y gyflogres lawn ar gyfer grŵp o staff a llofnodi gwiriadau'r gyflogres
+      - rheoli adroddiadau cyflogres statudol a ffurflenni pensiwn
+      - datrys achosion cymhleth, fel contractau lluosog, ôl-daliadau, neu aberthu cyflog
+      - profi newidiadau i'r system gyflogres, fel dyfarniadau cyflog blynyddol a newidiadau i reolau
+    expert: |
+      Gallwch:
+      - rheoli gwasanaeth cyflogres y sefydliad, boed yn cael ei redeg yn fewnol neu gan ddarparwr
+      - gosod mesurau rheoli'r gyflogres a rhoi sicrwydd i uwch arweinwyr bod taliadau'n gywir ac yn gyfreithlon
+      - cynllunio ar gyfer newidiadau i reolau cyflog, dyfarniadau cyflog, a systemau cyflogres
+      - arwain yr ymateb i fethiannau mawr yn y gyflogres
+
+fin-treasury-and-cash:
+  name: Trysorlys a rheoli arian parod
+  slug: trysorlys-a-rheoli-arian-parod
+  description: Rheoli cyfrifon banc, llif arian, a hylifedd fel y gall y sefydliad gwrdd â'i ymrwymiadau, o fewn rheolau arian parod y sector cyhoeddus.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae arian parod yn bwysig yn ogystal â chyllidebau
+      - cofnodi a chysoni trafodion banc
+    working: |
+      Gallwch:
+      - paratoi sefyllfaoedd arian parod dyddiol a rhagolygon arian parod tymor byr
+      - paratoi rhediadau talu a gwirio eu bod wedi'u hawdurdodi'n briodol
+      - cysoni cyfrifon banc a chlirio eitemau heb eu paru
+    practitioner: |
+      Gallwch:
+      - rheoli rhagolwg llif arian y sefydliad a thynnu cyllid i lawr
+      - rheoli cyfrifon banc, dulliau talu, a mesurau rheoli bancio
+      - cynllunio arian parod ar gyfer taliadau mawr neu afreolaidd, fel trwyddedau meddalwedd aml-flwyddyn
+    expert: |
+      Gallwch:
+      - gosod polisi trysorlys a threfniadau bancio'r sefydliad
+      - cynghori'r bwrdd ar risgiau hylifedd ac arian parod
+      - rheoli arian parod o fewn y terfynau a osodwyd gan gyllidwyr a rheolau'r sector cyhoeddus
+
+fin-audit-and-controls:
+  name: Mesurau rheoli ariannol ac archwilio
+  slug: mesurau-rheoli-ariannol-ac-archwilio
+  description: Dylunio, gweithredu, a phrofi mesurau rheoli ariannol, atal a chanfod twyll, a gweithio gydag archwilwyr mewnol ac allanol.
+  levels:
+    awareness: |
+      Gallwch:
+      - dilyn gweithdrefnau ariannol a chynlluniau dirprwyo'r sefydliad
+      - adnabod arwyddion o dwyll neu wall posibl a rhoi gwybod amdanynt
+    working: |
+      Gallwch:
+      - gweithredu mesurau rheoli allweddol, fel gwahanu dyletswyddau a gwirio manylion banc cyflenwyr
+      - darparu tystiolaeth i archwilwyr ac ateb eu cwestiynau
+      - gwirio bod gwariant wedi'i gymeradwyo ar y lefel gywir
+    practitioner: |
+      Gallwch:
+      - profi a gwella'r mesurau rheoli ar gyfer proses ariannol
+      - rheoli ceisiadau archwilio ar gyfer maes a chytuno ar gamau gweithredu ar ganfyddiadau
+      - ysgrifennu a diweddaru gweithdrefnau ariannol
+      - gweithio gydag arbenigwyr gwrth-dwyll i leihau risg twyll
+    expert: |
+      Gallwch:
+      - bod yn berchen ar reolau ariannol a chynllun dirprwyo'r sefydliad
+      - adrodd i'r pwyllgor archwilio ar fesurau rheoli ariannol a chamau archwilio
+      - arwain yr ymateb i fethiannau sylweddol mewn mesurau rheoli neu dwyll
+      - meithrin diwylliant lle mae staff yn deall eu dyletswydd i ddefnyddio arian cyhoeddus yn briodol
+
+fin-business-cases:
+  name: Achosion busnes ac arfarnu buddsoddiadau
+  slug: achosion-busnes-ac-arfarnu-buddsoddiadau
+  description: Llunio'r achos ariannol dros fuddsoddi, gan gynnwys arfarnu opsiynau, costau oes gyfan, trin cyfalaf a refeniw, buddion, a gwerth am arian.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro diben achos busnes a'i adran ariannol
+      - casglu gwybodaeth am gostau ar gyfer achos busnes
+    working: |
+      Gallwch:
+      - llunio'r model ariannol ar gyfer achos busnes syml
+      - gwahanu costau cyfalaf a refeniw, a chostau untro a chylchol
+      - cynnwys costau oes gyfan, fel trwyddedau, cymorth, a lletya ar ôl mynd yn fyw
+    practitioner: |
+      Gallwch:
+      - arwain yr achos ariannol dros fuddsoddiadau digidol cymhleth, fel system glinigol newydd neu symud i'r cwmwl
+      - arfarnu opsiynau gan ddefnyddio gwerth presennol net, dadansoddi sensitifrwydd, ac addasu ar gyfer risg
+      - gwirio bod buddion yn realistig, yn fesuradwy, ac mae perchennog arnynt
+      - olrhain gwariant a buddion ar ôl cymeradwyo
+    expert: |
+      Gallwch:
+      - gosod safonau achosion busnes ac arfarnu buddsoddiadau'r sefydliad
+      - cynghori byrddau buddsoddi ar fforddiadwyedd, gwerth am arian, a risg
+      - gwneud yr achos i gyllidwyr dros raglenni buddsoddi mawr
+      - adolygu'r portffolio buddsoddiadau ac argymell ble i stopio, newid, neu barhau
+
+fin-tax:
+  name: Treth
+  slug: treth
+  description: Cymhwyso rheolau treth gwerthiant, treth cyflogaeth, a threthi eraill yn gywir i drafodion y sefydliad, ac adennill treth lle caniateir.
+  levels:
+    awareness: |
+      Gallwch:
+      - adnabod treth gwerthiant ar anfonebau a'i chodio'n gywir
+      - egluro pryd i ofyn am gyngor gan arbenigwr treth
+    working: |
+      Gallwch:
+      - paratoi ffurflenni treth a chysoniadau dan oruchwyliaeth
+      - cymhwyso'r driniaeth dreth gywir i bryniannau ac incwm cyffredin
+      - gwirio statws cyflogaeth contractwyr dan arweiniad
+    practitioner: |
+      Gallwch:
+      - rheoli ffurflenni treth a chysoniadau treth y sefydliad
+      - cynghori ar driniaeth dreth contractau, fel trwyddedau meddalwedd, gwasanaethau cwmwl, a gwasanaethau a rennir
+      - sicrhau'r adenillion treth mwyaf posibl o fewn y rheolau
+    expert: |
+      Gallwch:
+      - bod yn berchen ar strategaeth dreth a risg treth y sefydliad
+      - arwain trafodaethau gyda'r awdurdod treth ar faterion cymhleth
+      - asesu effaith dreth newidiadau mawr, fel partneriaethau newydd neu weithgareddau masnachu
+
+fin-financial-systems:
+  name: Systemau cyllid
+  slug: systemau-cyllid
+  description: Defnyddio, gweinyddu, a gwella systemau cyllid, caffael, cyflogres, ac adrodd fel bod data ariannol yn gywir a phrosesau'n effeithlon.
+  levels:
+    awareness: |
+      Gallwch:
+      - defnyddio'r system gyllid ar gyfer eich tasgau eich hun, gan ddilyn gweithdrefnau
+      - rhedeg adroddiadau safonol ac allforio data i daenlen
+    working: |
+      Gallwch:
+      - defnyddio taenlenni'n dda, gan gynnwys fformiwlâu, chwilio, a thablau colyn
+      - cynnal data'r system gyllid, fel canolfannau cost, cyflenwyr, a chymeradwywyr
+      - rhoi gwybod am broblemau system a helpu i'w trwsio
+    practitioner: |
+      Gallwch:
+      - gweinyddu'r system gyllid neu gyflogres, gan gynnwys mynediad, llifoedd gwaith, ac adrodd
+      - dylunio adroddiadau a dangosfyrddau ar gyfer deiliaid cyllidebau
+      - profi newidiadau ac uwchraddiadau i systemau
+      - awtomeiddio tasgau cyllid ailadroddus
+    expert: |
+      Gallwch:
+      - bod yn berchen ar strategaeth a map ffordd y systemau cyllid
+      - arwain y gwaith o gaffael a gweithredu systemau cyllid neu gyflogres
+      - sicrhau bod data ariannol wedi'i integreiddio â data gweithlu, caffael, a pherfformiad
+
+fin-public-sector-finance:
+  name: Cyllid y sector cyhoeddus
+  slug: cyllid-y-sector-cyhoeddus
+  description: Deall sut mae cyllid cyhoeddus yn gweithio, gan gynnwys dyraniadau cyllid, terfynau cyfalaf a refeniw, rheolaethau gwariant, atebolrwydd am arian cyhoeddus, a gwerth am arian.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro bod y sefydliad yn gwario arian cyhoeddus ac yn gorfod rhoi cyfrif amdano
+      - egluro'r gwahaniaeth rhwng gwariant cyfalaf a gwariant refeniw
+    working: |
+      Gallwch:
+      - cymhwyso rheolau cyfalaf a refeniw'r sefydliad i wariant bob dydd
+      - egluro sut mae dyraniadau cyllid a therfynau gwariant yn effeithio ar eich maes
+      - adnabod gwariant sydd angen cymeradwyaeth gan gyllidwr neu reolaeth wariant
+    practitioner: |
+      Gallwch:
+      - cynghori rheolwyr ar reolau cyllido, gan gynnwys cyllid wedi'i neilltuo a chyllid am gyfnod cyfyngedig
+      - rheoli terfynau cyfalaf a refeniw ar gyfer rhaglen neu gyfarwyddiaeth
+      - paratoi ffurflenni a thystiolaeth ar gyfer cyllidwyr a rheolaethau gwariant
+    expert: |
+      Gallwch:
+      - cynrychioli'r sefydliad gyda chyllidwyr a chyrff goruchwylio
+      - cynghori'r bwrdd ar reoleidd-dra, priodoldeb, a gwerth am arian
+      - llunio cytundebau cyllido a threfniadau ariannol ar gyfer gwasanaethau'r sefydliad

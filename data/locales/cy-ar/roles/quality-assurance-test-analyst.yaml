@@ -1,0 +1,56 @@
+summary: >
+  Mae dadansoddwyr profion sicrwydd ansawdd yn gwirio bod gwasanaethau iechyd digidol y sefydliad yn gwneud yr hyn
+  sydd ei angen ar gleifion, clinigwyr, a staff gofal, yn ddiogel ac yn ddibynadwy. Maen nhw'n dadansoddi gofynion
+  a dyluniadau i ddod o hyd i risgiau'n gynnar, yn dylunio ac yn rhedeg profion swyddogaethol ac anweithredol, ac
+  yn adrodd ar ddiffygion yn glir. Mewn gofal iechyd mae hyn yn cynnwys profi llifoedd gwaith clinigol, cywirdeb
+  data, a'r mesurau rheoli sy'n diogelu cleifion rhag niwed.
+health_context:
+  - Gall diffygion mewn systemau clinigol niweidio cleifion, er enghraifft drwy ddos anghywir o feddyginiaeth, canlyniad a gollwyd, neu gofnod a ddangosir ar gyfer y claf anghywir, felly caiff profi ei flaenoriaethu yn ôl risg glinigol.
+  - Mae profi'n darparu tystiolaeth ar gyfer achosion diogelwch clinigol a logiau peryglon, felly mae cynlluniau profi'n olrhain i beryglon a nodwyd a'u mesurau rheoli.
+  - Rhaid i ddata profi byth ddatgelu cleifion go iawn, felly mae dadansoddwyr yn defnyddio data profi synthetig neu ddata wedi'i ddad-adnabod yn briodol.
+  - Mae llawer o wasanaethau'n cyfnewid data â systemau iechyd a gofal eraill, felly mae profion yn gwirio negeseuon yn erbyn safonau fel HL7 FHIR ac ystyr codau clinigol.
+  - Mae defnyddwyr yn cynnwys clinigwyr dan bwysau amser, cleifion ag ystod eang o anghenion, a defnyddwyr technoleg gynorthwyol, felly mae profi defnyddioldeb a hygyrchedd yn bwysig.
+levels:
+  - title: Dadansoddwr profion sicrwydd ansawdd cyswllt
+    slug: dadansoddwr-profion-sicrwydd-ansawdd-cyswllt
+    responsibilities:
+      - Rhedeg sgriptiau profi ar gyfer llifoedd gwaith clinigol a gweinyddol dan oruchwyliaeth, gan gofnodi canlyniadau'n gywir.
+      - Codi adroddiadau diffygion clir, gan gynnwys y camau, y data, a'r sgriniau dan sylw.
+      - Defnyddio data profi synthetig a pheidio byth â defnyddio data cleifion go iawn mewn amgylcheddau profi.
+      - Dysgu dulliau profi, offer, a phroses diogelwch clinigol y tîm.
+      - Cymryd rhan yn seremonïau'r tîm fel cyfarfodydd sefyll, cynllunio, ac ôl-sylliadau.
+    qualifications:
+      - Sgiliau dadansoddi ac ysgrifennu da, a rhywfaint o brofiad o brofi neu o weithio gyda systemau digidol, neu gyfatebol.
+  - title: Dadansoddwr profion sicrwydd ansawdd
+    slug: dadansoddwr-profion-sicrwydd-ansawdd
+    responsibilities:
+      - Dadansoddi straeon defnyddwyr, dyluniadau, a llifoedd gwaith clinigol i benderfynu beth i'w brofi, yn seiliedig ar risg i gleifion a gwasanaethau.
+      - Dylunio a rhedeg profion swyddogaethol, hygyrchedd, a defnyddioldeb, gan gynnwys senarios clinigol o'r dechrau i'r diwedd.
+      - Olrhain profion i beryglon a mesurau rheoli diogelwch, a darparu tystiolaeth profi ar gyfer achosion diogelwch clinigol.
+      - Gwirio data a ddangosir i ddefnyddwyr yn erbyn systemau ffynhonnell a chodau clinigol y cytunwyd arnynt.
+      - Creu a chynnal data profi synthetig realistig.
+      - Olrhain diffygion hyd nes eu datrys ac ail-brofi atgyweiriadau.
+    qualifications:
+      - Profiad o ddylunio a rhedeg profion ar gyfer gwasanaethau digidol, neu gyfatebol.
+    job_evaluation_notes: Mae UK GDaD PCF yn awgrymu HEO neu SEO ar gyfer y lefel hon a'r lefel uwch, sy'n mapio'r ddwy i Fand 6. Mae'r cyfeirlyfr hwn yn rhoi'r lefel hon ar Fand 5 a'r lefel uwch ar Fand 6, fel bod y ddwy lefel mewn bandiau gwahanol.
+  - title: Uwch ddadansoddwr profion sicrwydd ansawdd
+    slug: uwch-ddadansoddwr-profion-sicrwydd-ansawdd
+    responsibilities:
+      - Cydlynu sicrhau ansawdd ar gyfer cynnyrch neu faes, gan gytuno ar ddulliau profi, amgylcheddau, data, ac offer.
+      - Nodi risgiau clinigol a gweithredol yn gynnar drwy adolygu gofynion, dyluniadau, a newidiadau gyda chlinigwyr a thimau cynnyrch.
+      - Cynllunio ac arwain profi derbynioldeb i'r cwsmer (UAT) gyda chlinigwyr a staff gofal.
+      - Adrodd ar ganlyniadau profion a risgiau gweddilliol i berchnogion cynnyrch a swyddogion diogelwch clinigol, fel y gallant wneud penderfyniadau rhyddhau.
+      - Arwain dadansoddwyr profi eraill a'u helpu i ddilyn safonau profi a diogelwch clinigol.
+    qualifications:
+      - Profiad sylweddol o ddadansoddi profion, gan gynnwys mewn lleoliadau cymhleth neu reoleiddiedig, neu gyfatebol.
+  - title: Dadansoddwr profion sicrwydd ansawdd arweiniol
+    slug: dadansoddwr-profion-sicrwydd-ansawdd-arweiniol
+    responsibilities:
+      - Gosod safonau dadansoddi profion ac arfer da ar draws y sefydliad, gan gynnwys profi systemau clinigol yn seiliedig ar risg.
+      - Diffinio strategaethau profi ar gyfer rhaglenni mawr, fel newidiadau i'r cofnod electronig am gleifion neu wasanaethau newydd i gleifion.
+      - Sicrhau bod profi'n cynhyrchu'r dystiolaeth sydd ei hangen ar gyfer achosion diogelwch clinigol a, lle bo'n berthnasol, ffeiliau technegol dyfeisiau meddygol.
+      - Negodi ac uwchgyfeirio risgiau, problemau, a diffygion mawr gydag uwch arweinwyr cynnyrch, clinigol, a chyflenwyr.
+      - Mentora a hyfforddi dadansoddwyr profi ac arwain y gymuned dadansoddi profion.
+    qualifications:
+      - Profiad helaeth o arwain dadansoddi profion ar gyfer gwasanaethau cymhleth.
+    job_evaluation_notes: Mae UK GDaD PCF yn awgrymu G7 neu G6 ar gyfer y lefel hon, sy'n mapio i Fand 8b. Mae'r cyfeirlyfr hwn yn ei rhoi ar Fand 8a, yr un lefel â'r peiriannydd profi arweiniol, gan ei bod yn arwain un ddisgyblaeth brofi yn hytrach na'r holl brofi; mae pennaeth profi ar Fand 8c.

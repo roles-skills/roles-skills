@@ -1,0 +1,33 @@
+summary: >
+  Mae rheolwyr profi'n cynllunio, yn arwain, ac yn sicrhau profi ar gyfer gwasanaethau a rhaglenni iechyd digidol
+  y sefydliad. Maen nhw'n penderfynu faint o brofi sydd ei angen ac o ba fath, yn rheoli timau, amgylcheddau, a
+  chyflenwyr profi, ac yn dweud yn glir wrth wneuthurwyr penderfyniadau pa risgiau sy'n weddill cyn i wasanaeth
+  fynd yn fyw. Mewn gofal iechyd mae hyn yn cynnwys sicrhau bod profi'n cefnogi'r achos diogelwch clinigol ac
+  unrhyw ofynion rheoleiddiol.
+health_context:
+  - Mae penderfyniadau mynd yn fyw ar gyfer systemau clinigol yn dibynnu ar dystiolaeth profi a risgiau gweddilliol, y mae rheolwyr profi'n adrodd arnynt i berchnogion cynnyrch, swyddogion diogelwch clinigol, a byrddau rhaglen.
+  - Mae angen profi ar draws llawer o adrannau, systemau, a chyflenwyr ar newidiadau mawr, fel uwchraddio'r cofnod electronig am gleifion, ac yn aml amser staff clinigol ar gyfer profi derbynioldeb i'r cwsmer (UAT).
+  - Rhaid i brofi ffitio o amgylch gwasanaethau clinigol, fel cynllunio profion newid drosodd ac ymarferion llawn i gadw tarfu ar ofal cleifion yn isel.
+  - Mae angen profi sy'n bodloni safonau fel IEC 62304 a phroses rheoli risg glinigol y sefydliad ar feddalwedd reoleiddiedig a newidiadau sy'n hanfodol i ddiogelwch.
+levels:
+  - title: Rheolwr profi
+    slug: rheolwr-profi
+    responsibilities:
+      - Arwain cynllunio profi ar gyfer cynnyrch neu raglen, gan gwmpasu amgylcheddau, data, offer, adnoddau, amserlenni, a risg glinigol.
+      - Cynllunio profi derbynioldeb i'r cwsmer (UAT) gydag arweinwyr clinigol a gweithredol, a sicrhau amser clinigwyr i gymryd rhan.
+      - Rheoli tîm o ddadansoddwyr a pheirianwyr profi, gan gynnwys profwyr cyflenwyr.
+      - Sicrhau bod profi'n bodloni gofynion diogelwch clinigol, llywodraethiant gwybodaeth, a rheoleiddiol.
+      - Adrodd ar gynnydd profi, diffygion, a risgiau gweddilliol i berchnogion cynnyrch, swyddogion diogelwch clinigol, a byrddau rhaglen.
+      - Gwella prosesau profi a chytuno ar safonau profi gyda thimau cyflawni.
+    qualifications:
+      - Profiad sylweddol o reoli profi ar gyfer gwasanaethau digidol cymhleth, ar lefel sy'n cyfateb i radd meistr.
+  - title: Pennaeth profi
+    slug: pennaeth-profi
+    responsibilities:
+      - Gosod strategaeth, safonau, a fframweithiau profi'r sefydliad ar gyfer gwasanaethau iechyd digidol.
+      - Sicrhau bod profi'r sefydliad yn bodloni gofynion diogelwch clinigol, dyfeisiau meddygol, a gofynion rheoleiddiol eraill.
+      - Dewis offer a thechnolegau profi, a rheoli'r gyllideb brofi a chontractau cyflenwyr.
+      - Cynghori uwch arweinwyr ar risgiau ansawdd a diogelwch cyn rhyddhadau mawr a phenderfyniadau mynd yn fyw.
+      - Arwain a datblygu rheolwyr, dadansoddwyr, a pheirianwyr profi, a meithrin gallu profi'r sefydliad.
+    qualifications:
+      - Profiad helaeth o arwain profi ar draws sefydliad.

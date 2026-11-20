@@ -1,0 +1,45 @@
+summary: Analystinnen und Analysten für Sicherheitsbetrieb beobachten, untersuchen und beantworten Cybersicherheitsbedrohungen für Systeme und Daten der Organisation. Sie priorisieren Warnungen aus Sicherheitsüberwachungswerkzeugen, untersuchen verdächtige Aktivität, begrenzen Vorfälle und helfen, Schwachstellen zu beheben. In der Gesundheitsversorgung schützen schnelle Erkennung und Reaktion klinische Dienste und vertrauliche Patienteninformationen vor Angriffen wie Ransomware.
+health_context:
+- Das Gesundheitswesen ist ein häufiges Ziel von Ransomware und Datendiebstahl, und ein einzelner Angriff kann klinische Systeme der ganzen Organisation stoppen.
+- Entscheidungen zur Eindämmung, etwa einen Server oder einen Teil des Netzwerks zu isolieren, müssen Sicherheitsrisiko gegen die Wirkung auf die Patientenversorgung abwägen; Analystinnen und Analysten arbeiten daher mit klinischen und betrieblichen Leitungen.
+- Netzwerke enthalten Medizinprodukte und Altsysteme, die keine Sicherheitsagenten ausführen oder nicht schnell gepatcht werden können; Analystinnen und Analysten verlassen sich daher auf Netzwerküberwachung und kompensierende Kontrollen.
+- Die Überwachung umfasst den Zugriff auf Patientenakten; Analystinnen und Analysten helfen daher, unangemessenen Zugriff durch Insider ebenso wie externe Angriffe zu erkennen, gemeinsam mit der Informationsgovernance.
+- Sicherheitsüberwachung läuft rund um die Uhr; Analystinnen und Analysten arbeiten daher möglicherweise in Schichten oder Rufbereitschaftsplänen.
+levels:
+- title: Junior-Analyst/in Sicherheitsbetrieb
+  summary: Eine Junior-Analystin oder ein Junior-Analyst Sicherheitsbetrieb überwacht Sicherheitswarnungen, priorisiert sie anhand von Betriebshandbüchern und eskaliert Ereignisse, mit Anleitung erfahrener Analystinnen und Analysten.
+  responsibilities:
+  - Warnungen aus Sicherheitsüberwachungs- und Endpunktwerkzeugen überwachen und anhand von Betriebshandbüchern priorisieren.
+  - Belege zu verdächtiger Aktivität, etwa Phishing-Mails oder ungewöhnlichen Anmeldungen, sammeln und eskalieren.
+  - Von Mitarbeitenden gemeldete Phishing-Mails prüfen und helfen, schädliche Mails aus Postfächern zu entfernen.
+  - Ereignisse und Maßnahmen im Fallmanagement-Werkzeug genau erfassen.
+  - Schwachstellenscans ausführen und Systemverantwortliche an fällige Korrekturen erinnern.
+  qualifications:
+  - Eine Qualifikation in Informatik oder Cybersicherheit, eine Ausbildung in Cybersicherheit oder gleichwertige Erfahrung.
+  job_evaluation_notes: Die geistige Anstrengung spiegelt häufige langanhaltende Konzentration auf die Überwachung und Priorisierung unvorhersehbarer Warnungen wider.
+- title: Analyst/in Sicherheitsbetrieb
+  summary: Eine Analystin oder ein Analyst Sicherheitsbetrieb untersucht und begrenzt Sicherheitsvorfälle, schreibt Erkennungsregeln und verbessert die Sicherheitsüberwachung der Organisation.
+  responsibilities:
+  - Sicherheitsvorfälle untersuchen, ihren Umfang ermitteln und sie begrenzen, gemeinsam mit Systemverantwortlichen und klinischen Diensten.
+  - Erkennungsregeln schreiben und abstimmen und Threat Hunts anhand aktueller Bedrohungen für das Gesundheitswesen durchführen.
+  - Auf unangemessenen Zugriff auf Patientenakten achten und Fälle an die Informationsgovernance weitergeben.
+  - Schwachstellen nach Risiko bewerten, einschließlich ihrer Wirkung auf klinische Dienste und Medizinprodukte.
+  - Betriebshandbücher und Werkzeuge nach Vorfällen verbessern.
+  - An der Rufbereitschaft für Sicherheitsvorfälle außerhalb der Arbeitszeit teilnehmen.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder Cybersicherheit, einschlägige Sicherheitszertifizierungen oder gleichwertige Erfahrung.
+  - Erfahrung in Sicherheitsüberwachung oder Störungsreaktion.
+  job_evaluation_notes: Die geistige Anstrengung spiegelt häufige langanhaltende Konzentration bei Untersuchungen wider, auch in der Rufbereitschaft. Die emotionale Anstrengung spiegelt die häufige indirekte Konfrontation mit belastendem Material in Patientenakten und den Druck laufender Vorfälle wider.
+- title: Senior-Analyst/in Sicherheitsbetrieb
+  summary: Eine Senior-Analystin oder ein Senior-Analyst Sicherheitsbetrieb leitet die Reaktion auf bedeutende Sicherheitsvorfälle, leitet Threat Hunting und steuert die Arbeit des Teams für Sicherheitsbetrieb.
+  responsibilities:
+  - Die technische Reaktion auf bedeutende Sicherheitsvorfälle, einschließlich Ransomware und Datendiebstahl, leiten und mit dem Incident Management koordinieren.
+  - Klinische und betriebliche Leitungen zu Entscheidungen zur Eindämmung beraten, die die Patientenversorgung betreffen.
+  - Threat Hunting und Arbeit zu Bedrohungsinformationen leiten und Informationen mit Sicherheitspartnern im Gesundheitswesen teilen.
+  - Prioritäten für Detection Engineering und Überwachungsabdeckung setzen, auch für Netzwerke von Medizinprodukten.
+  - Übungen leiten, die die Störungsreaktion mit technischen und klinischen Teams testen.
+  - Analystinnen und Analysten des Sicherheitsbetriebs anleiten und begleiten.
+  qualifications:
+  - Umfangreiche Erfahrung in Sicherheitsbetrieb und Störungsreaktion, auf einem Niveau, das einem postgradualen Diplom entspricht.
+  - Einschlägige fortgeschrittene Sicherheitszertifizierungen oder gleichwertige Erfahrung.
+  job_evaluation_notes: Geistige und emotionale Anstrengung spiegeln die Leitung der Reaktion auf schwere Vorfälle unter Druck wider, oft außerhalb der Arbeitszeit, wenn klinische Dienste gefährdet sind.

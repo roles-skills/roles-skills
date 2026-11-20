@@ -1,0 +1,71 @@
+summary: >
+  Mae rheolwyr prosiect yn cynllunio ac yn cyflawni prosiectau sy'n newid sut mae'r sefydliad yn cefnogi iechyd a
+  gofal, fel cyflwyno system glinigol i safleoedd newydd, symud gwasanaethau i seilwaith newydd, neu gyflwyno
+  offer digidol newydd i staff gofal. Maen nhw'n rheoli cwmpas, amser, cost, ansawdd, a risg, gan ddefnyddio
+  dulliau prosiect cydnabyddedig, ac yn sicrhau bod prosiectau'n cyflawni'r buddion a addawyd i gleifion a staff.
+health_context:
+  - Mae angen sicrwydd diogelwch clinigol ar brosiectau sy'n newid systemau neu lifoedd gwaith clinigol cyn mynd yn fyw, felly mae rheolwyr prosiect yn cynllunio gweithdai peryglon, llofnodi achosion diogelwch, a mewnbwn y swyddog diogelwch clinigol yn yr amserlen.
+  - Rhaid i fynd yn fyw beidio ag amharu ar ofal cleifion, felly mae rheolwyr prosiect yn cynllunio newid drosodd, trefniadau parhad busnes, a chymorth ar y llawr gyda thimau clinigol a gweithredol.
+  - Mae prosiectau'n aml angen asesiadau o'r effaith ar ddiogelu data a chytundebau rhannu gwybodaeth, felly mae rheolwyr prosiect yn cynllunio'r rhain yn gynnar gyda chydweithwyr llywodraethiant gwybodaeth.
+  - Mae buddion mewn gofal, fel amser staff a ryddhawyd neu lai o wallau, yn cymryd amser i ymddangos, felly mae rheolwyr prosiect yn sefydlu llinellau sylfaen ac yn trosglwyddo'r gwaith o olrhain buddion i'r gwasanaeth.
+levels:
+  - title: Rheolwr prosiect cynorthwyol
+    slug: rheolwr-prosiect-cynorthwyol
+    summary: Mae rheolwr prosiect cynorthwyol yn cefnogi cyflawni prosiectau, neu'n rheoli prosiectau bach wedi'u diffinio'n dda gydag arweiniad gan reolwr prosiect mwy profiadol.
+    responsibilities:
+      - Cynnal cynlluniau prosiect, logiau risgiau a phroblemau, logiau camau gweithredu, a chofnodion dibyniaethau.
+      - Trefnu a chofnodi cyfarfodydd a byrddau prosiect, a dilyn camau gweithredu.
+      - Rheoli darnau bach o waith wedi'u diffinio'n dda, fel cyflwyno i safle neu amserlen hyfforddi, gydag arweiniad.
+      - Olrhain tasgau parodrwydd ar gyfer mynd yn fyw, fel llofnodi diogelwch clinigol, gwiriadau diogelu data, a hyfforddi staff.
+      - Paratoi adroddiadau ar y prif bwyntiau ac olrhain gwariant prosiect yn erbyn y gyllideb.
+    qualifications:
+      - Cymhwyster rheoli prosiectau sylfaen, neu brofiad cyfatebol.
+  - title: Rheolwr prosiect
+    slug: rheolwr-prosiect
+    summary: Mae rheolwr prosiect yn rhedeg prosiectau o faint a chymhlethdod cymedrol o'r dechrau i'r diwedd, fel cyflwyno gwasanaeth digidol i sawl lleoliad gofal.
+    responsibilities:
+      - Cynllunio a rheoli prosiectau o'u cychwyn i'w cau, gan reoli cwmpas, amser, cost, ansawdd, a risg.
+      - Cynllunio mynd yn fyw gyda thimau clinigol a gweithredol, gan gynnwys newid drosodd, parhad busnes, a threfniadau cymorth.
+      - Sicrhau bod sicrwydd diogelwch clinigol, llywodraethiant gwybodaeth, a hygyrchedd yn cael ei gynllunio a'i gwblhau cyn mynd yn fyw.
+      - Rheoli cyllideb y prosiect a chyflawniadau cyflenwyr.
+      - Adrodd i fwrdd y prosiect ac uwchgyfeirio risgiau a phroblemau y tu allan i oddefiant.
+      - Gosod llinellau sylfaen ar gyfer buddion a throsglwyddo'r gwaith o olrhain buddion i'r gwasanaeth.
+    qualifications:
+      - Cymhwyster rheoli prosiectau cydnabyddedig, fel tystysgrif lefel ymarferydd, neu brofiad cyfatebol.
+      - Profiad o reoli prosiectau sy'n newid gwasanaethau neu systemau.
+  - title: Uwch reolwr prosiect
+    slug: uwch-reolwr-prosiect
+    summary: Mae uwch reolwr prosiect yn arwain prosiectau mawr, cymhleth, neu risg uchel, fel disodli system glinigol ar draws sefydliad, a gall reoli staff prosiect eraill.
+    responsibilities:
+      - Arwain prosiectau mawr neu risg uchel, fel disodli systemau clinigol neu gyflwyno ar draws sawl safle.
+      - Rheoli dibyniaethau cymhleth gyda chyflenwyr, prosiectau eraill, a sefydliadau iechyd a gofal partner.
+      - Arwain penderfyniadau mynd yn fyw gyda'r swyddog diogelwch clinigol, arweinwyr gweithredol, a'r uwch berchennog cyfrifol.
+      - Rheoli cyllideb y prosiect a threfniadau masnachol, gan gynnwys rheoli newid gyda chyflenwyr.
+      - Sicrhau bod buddion i gleifion a staff yn cael eu diffinio, bod perchennog arnynt, a'u bod yn cael eu mesur.
+      - Rheoli a datblygu rheolwyr prosiect a staff cymorth prosiect.
+    qualifications:
+      - Cymhwyster rheoli prosiectau cydnabyddedig, neu brofiad cyfatebol.
+      - Profiad sylweddol o reoli prosiectau cymhleth mewn lleoliad a reoleiddir neu sy'n hanfodol i ddiogelwch.
+  - title: Rheolwr prosiect arweiniol
+    slug: rheolwr-prosiect-arweiniol
+    summary: Mae rheolwr prosiect arweiniol yn arwain y prosiectau mwyaf cymhleth neu grŵp o brosiectau cysylltiedig, ac yn gosod arfer rheoli prosiectau ar gyfer ei faes.
+    responsibilities:
+      - Arwain y prosiectau mwyaf cymhleth, neu grŵp o brosiectau cysylltiedig, ar draws sawl gwasanaeth neu sefydliad.
+      - Gosod safonau, templedi, a sicrwydd rheoli prosiectau ar gyfer y maes, a hyfforddi rheolwyr prosiect.
+      - Cynghori uwch berchnogion cyfrifol a byrddau ar opsiynau cyflawni, risgiau, ac adfer prosiectau sy'n cael trafferth.
+      - Rheoli cyllidebau a chontractau sylweddol, a sicrhau bod prosiectau'n rhoi gwerth am arian.
+      - Sicrhau bod gofynion diogelwch clinigol a llywodraethiant gwybodaeth yn cael eu bodloni ar draws y grŵp o brosiectau.
+      - Rheoli rheolwyr prosiect yn llinell.
+    qualifications:
+      - Profiad helaeth o arwain prosiectau cymhleth, gyda chymhwyster rheoli prosiectau cydnabyddedig neu brofiad cyfatebol.
+  - title: Pennaeth rheoli prosiectau
+    slug: pennaeth-rheoli-prosiectau
+    summary: Mae pennaeth rheoli prosiectau yn arwain arfer rheoli prosiectau'r sefydliad a'r rheolwyr prosiect sy'n cyflawni ei newid digidol.
+    responsibilities:
+      - Arwain yr arfer rheoli prosiectau, gan gynnwys ei ddulliau, ei safonau, ei offer, a'i sicrwydd.
+      - Dyrannu rheolwyr prosiect i brosiectau'r sefydliad a rheoli capasiti'r arfer.
+      - Meithrin gallu rheoli prosiectau, gan gynnwys recriwtio, hyfforddiant, a llwybrau gyrfa.
+      - Cynghori arweinwyr gweithredol ar iechyd prosiectau, risgiau cyflawni, a gwersi a ddysgwyd.
+      - Rheoli cyllideb yr arfer.
+    qualifications:
+      - Profiad helaeth o arwain prosiectau a rheolwyr prosiect, gyda chymhwyster rheoli prosiectau cydnabyddedig neu brofiad cyfatebol.

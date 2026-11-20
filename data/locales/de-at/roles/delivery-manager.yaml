@@ -1,0 +1,45 @@
+summary: Delivery-Managerinnen und -Manager helfen multidisziplinären Teams, digitale Gesundheitsdienste zu liefern, die für Patientinnen, Patienten, klinisches Personal und Pflegepersonal funktionieren. Sie schaffen die Voraussetzungen, damit Teams gut arbeiten, räumen Hindernisse aus dem Weg, steuern Risiken und Abhängigkeiten und halten die Lieferung in nachhaltigem Tempo in Bewegung, mit agilen und schlanken Arbeitsweisen.
+health_context:
+- Releases für Dienste, die die Patientenversorgung unterstützen, müssen Prüfungen zu klinischer Sicherheit und Informationsgovernance bestehen; Delivery-Managerinnen und -Manager bauen dies in die Pläne und die Definition of Done des Teams ein.
+- Die Lieferung hängt oft von klinischem Personal und Pflegepersonal ab, das wenig Zeit abseits der Patientinnen und Patienten hat; Delivery-Managerinnen und -Manager planen Forschung, Tests und Schulung deshalb um klinische Dienstpläne herum.
+- Änderungen an laufenden klinischen Diensten brauchen sorgfältiges Timing; Delivery-Managerinnen und -Manager planen Inbetriebnahmen daher mit den Betriebsteams, um klinische Spitzenzeiten zu meiden und Unterstützung bereitzuhalten.
+- Teams hängen oft von Anbietern klinischer Systeme und von anderen Gesundheits- und Pflegeorganisationen ab; Delivery-Managerinnen und -Manager steuern deshalb externe Abhängigkeiten und Verträge.
+levels:
+- title: Associate Delivery-Manager/in
+  responsibilities:
+  - Rituale des Teams wie Stand-ups, Planung, Show-and-Tells und Retrospektiven moderieren.
+  - Board, Risiko- und Problemlog und Abhängigkeitsaufzeichnungen des Teams aktuell halten.
+  - Aufgaben zu klinischer Sicherheit, Informationsgovernance und Barrierefreiheit verfolgen, die vor jedem Release anfallen.
+  - Sitzungen mit klinischem Personal, Pflegepersonal und Patientinnen und Patienten für Forschung und Tests organisieren, unter Beachtung klinischer Dienstpläne.
+  - Eine Delivery-Managerin oder einen Delivery-Manager in einem größeren Team begleiten und unterstützen und Teile der Arbeit mit Anleitung liefern.
+  qualifications:
+  - Etwas Erfahrung in der Arbeit in oder mit einem Delivery-Team oder gleichwertige Erfahrung.
+- title: Delivery-Manager/in
+  responsibilities:
+  - Die Lieferung eines digitalen Gesundheitsprodukts oder -dienstes durch Discovery, Alpha, Beta und Live leiten.
+  - Releases mit betrieblichen und klinischen Teams planen, einschließlich Unterstützung bei der Inbetriebnahme, Schulung und Rückfallplänen.
+  - Sicherstellen, dass Absicherung in klinischer Sicherheit, Informationsgovernance und Barrierefreiheit parallel zur Lieferung geschieht und nicht erst am Ende.
+  - Budget, Anbieterverträge und Personalausstattung des Teams verwalten.
+  - Fortschritt, Risiken und Nutzen den Governance-Gremien in verständlichen Begriffen berichten.
+  - Eine gesunde Teamkultur aufbauen und Teammitglieder in agilen Arbeitsweisen anleiten.
+  qualifications:
+  - Umfangreiche Erfahrung in der Lieferung digitaler Produkte oder Dienste mit agilen Methoden.
+  job_evaluation_notes: Es gibt keine Stufe in Entgeltgruppe 6, weil das UK GDaD PCF keine Delivery-Manager-Stufe zwischen Associate (EO/HEO) und Delivery-Manager (SEO/G7) hat.
+- title: Senior-Delivery-Manager/in
+  responsibilities:
+  - Die Lieferung komplexer oder risikoreicher Dienste leiten, etwa von Diensten in der Akutversorgung oder solchen, die ein zentrales klinisches System ersetzen.
+  - Die wichtigste Eskalationsstelle für Lieferrisiken, Probleme und Abhängigkeiten über mehrere Teams sein.
+  - Großflächige Rollouts über Standorte und Organisationen hinweg mit Beauftragten für klinische Sicherheit und betrieblichen Leitungen planen.
+  - Budgets, kommerzielle Vereinbarungen und Anbieterleistung für den Dienst verwalten.
+  - Delivery-Managerinnen und -Manager in der Linie führen und entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Lieferung komplexer digitaler Dienste über ihren gesamten Lebenszyklus.
+- title: Leiter/in Delivery Management
+  responsibilities:
+  - Den Beruf Delivery Management leiten und die Standards der Organisation für agile Lieferung festlegen.
+  - Delivery-Managerinnen und -Manager im Portfolio gewinnen, entwickeln und einsetzen.
+  - Sicherstellen, dass Lieferansätze Anforderungen an klinische Sicherheit, Informationsgovernance und Absicherung erfüllen, ohne Teams unnötig zu bremsen.
+  - Geschäftsleitung und klinische Leitungen zu Lieferrisiken, Kapazität und Prioritäten beraten.
+  - Das Budget und den Personalplan des Berufs verwalten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung der Lieferung über mehrere Teams und in der Leitung einer Delivery-Praxis.

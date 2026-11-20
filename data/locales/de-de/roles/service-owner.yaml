@@ -1,0 +1,29 @@
+summary: Service Owner sind verantwortliche Leitungen eines digitalen Gesundheitsdienstes von Anfang bis Ende, über dessen digitale, betriebliche und klinische Teile hinweg. Sie führen multidisziplinäre Teams und Servicepartner zusammen, legen Strategie und Prioritäten des Dienstes fest, verantworten sein Budget und seine Leistung und stellen sicher, dass er sichere, hochwertige Ergebnisse und Nutzen für Patientinnen, Patienten, klinisches Personal und Pflegepersonal liefert.
+health_context:
+- Ein digitaler Gesundheitsdienst ist Teil eines umfassenderen Pflegedienstes; Service Owner arbeiten daher auf Augenhöhe mit klinischen und betrieblichen Leitungen und teilen die Verantwortung für die gesamte Erfahrung der Patientin oder des Patienten.
+- Der Service Owner ist dafür verantwortlich, dass das klinische Risiko des Dienstes gesteuert wird, arbeitet mit der oder dem Beauftragten für klinische Sicherheit zusammen und akzeptiert das Restrisiko auf der richtigen Ebene.
+- Dienste verarbeiten vertrauliche Gesundheitsinformationen; Service Owner stellen daher sicher, dass Informationsgovernance, Datenschutz und Cybersicherheit vorhanden und überprüft sind.
+- Laufende Dienste, die die Versorgung unterstützen, müssen resilient sein; Service Owner stellen daher sicher, dass Betriebskontinuität, Störungsreaktion und Anbieterunterstützung den klinischen Bedürfnissen genügen.
+- Nutzen in der Versorgung muss gemessen und berichtet werden; Service Owner führen daher Leistungsindikatoren, die Sicherheit, Qualität, Zugang, Gerechtigkeit und Kosten abdecken.
+levels:
+- title: Service Owner
+  responsibilities:
+  - Für einen digitalen Gesundheitsdienst von Anfang bis Ende verantwortlich sein, etwa Online-Zugang zu Akten oder digitale Überweisungen, über seinen gesamten Lebenszyklus.
+  - Mit klinischen und betrieblichen Leitungen Strategie und Prioritäten des Dienstes festlegen und dabei Nutzerbedürfnisse, Sicherheit, Politik und Kosten abwägen.
+  - Das Dienstbudget verantworten und Investitionen mit dem Nutzen für Patientinnen, Patienten und Mitarbeitende begründen.
+  - Sicherstellen, dass klinisches Risiko, Informationsgovernance, Barrierefreiheit und Cybersicherheit gesteuert und abgesichert sind.
+  - Leistung und Nutzen des Dienstes überwachen und Verbesserungen leiten, wenn der Dienst hinter dem Zugesagten zurückbleibt.
+  - Den Dienst in Governance-Gremien und gegenüber Partnern im Gesundheits- und Pflegesystem vertreten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung digitaler, betrieblicher oder klinischer Dienste.
+- title: Senior Service Owner
+  responsibilities:
+  - Für eine Gruppe verwandter digitaler Gesundheitsdienste oder für einen kritischen Dienst verantwortlich sein, der im gesamten Versorgungssystem genutzt wird, etwa die elektronische Patientenakte.
+  - Mit Geschäftsleitung, klinischen und betrieblichen Leitungen eine mehrjährige Strategie für die Dienste festlegen.
+  - Budgets und wichtige Anbieterbeziehungen über die Dienste hinweg verantworten.
+  - Klinisches, Informations- und betriebliches Risiko auf höherer Ebene annehmen und eskalieren, gemeinsam mit der oder dem Beauftragten für klinische Sicherheit und der oder dem Verantwortlichen der Geschäftsleitung für Informationsrisiko.
+  - Service Owner und multidisziplinäre Teams führen und eine Kultur der Offenheit und kontinuierlichen Verbesserung aufbauen.
+  - Die Reaktion auf größere Dienststörungen, die die Patientenversorgung betreffen, und das anschließende Lernen leiten.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung großer oder kritischer Dienste, einschließlich ihrer Budgets und Anbieter.
+  job_evaluation_notes: Das UK GDaD PCF hat eine Stufe Service Owner, bei G7 oder G6. Diese Referenz fügt eine Senior-Stufe in Entgeltgruppe 8c für Dienste hinzu, die für die Versorgung in der gesamten Organisation kritisch sind, mit Budgets über mehrere Dienste hinweg (finanzielle Ressourcen Stufe 5) und regelmäßiger Beteiligung an schweren Vorfällen, die Patientinnen und Patienten betreffen (emotionale Anstrengung Stufe 2).

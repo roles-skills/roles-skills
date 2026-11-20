@@ -1,0 +1,46 @@
+summary: >
+  Mae penseiri rhwydwaith yn dylunio'r rhwydweithiau lleol, ardal eang, diwifr, a chwmwl sy'n cysylltu safleoedd,
+  staff, systemau clinigol, a dyfeisiau meddygol y sefydliad. Maen nhw'n sicrhau bod rhwydweithiau'n ddigon
+  cyflym, gwydn, a diogel ar gyfer gofal nad yw byth yn dod i ben, ac yn cynllunio sut mae rhwydweithiau'n newid
+  wrth i wasanaethau symud i'r cwmwl a chysylltu â sefydliadau partner.
+health_context:
+  - Mae systemau clinigol, teleffoni, a dyfeisiau meddygol yn dibynnu ar y rhwydwaith, felly gall toriad atal gofal; mae angen gwydnwch a methu drosodd wedi'i brofi ar ddyluniadau.
+  - Mae rhwydweithiau'n aml yn cludo dyfeisiau meddygol cysylltiedig sy'n anodd eu patsio, felly mae penseiri'n dylunio segmentu a monitro i'w diogelu.
+  - Mae staff yn gweithio ar draws ysbytai, clinigau, lleoliadau cymunedol, a chartrefi cleifion, felly mae'n rhaid i ddyluniadau gefnogi mynediad symudol ac o bell diogel.
+  - Mae rhwydweithiau'n cysylltu â rhwydweithiau iechyd a gofal a rennir a sefydliadau partner, sy'n gosod eu gofynion cysylltu a diogelwch eu hunain.
+  - Mae angen cynllunio newidiadau i ardaloedd clinigol yn ofalus o amgylch gofal cleifion, er enghraifft drwy drefnu gwaith y tu allan i gyfnodau prysur.
+levels:
+  - title: Pensaer rhwydwaith cyswllt
+    slug: pensaer-rhwydwaith-cyswllt
+    responsibilities:
+      - Drafftio dyluniadau, diagramau, a manylebau rhwydwaith gydag arweiniad gan benseiri rhwydwaith.
+      - Arolygu safleoedd a chasglu gofynion ar gyfer ardaloedd clinigol, gan gynnwys darpariaeth ddiwifr a chysylltiadau dyfeisiau.
+      - Cadw cofnodion o dopoleg rhwydwaith, cyfeiriadau, a dyfeisiau cysylltiedig yn gyfredol.
+      - Gwirio bod dyluniadau'n bodloni lefelau gwasanaeth a safonau diogelwch cyn eu hadolygu.
+    qualifications:
+      - Gradd mewn cyfrifiadura neu rwydweithio, cymhwyster rhwydweithio cydnabyddedig, neu brofiad cyfatebol.
+      - Gwybodaeth arbenigol am ddylunio rhwydweithiau, ar lefel diploma ôl-raddedig neu brofiad cyfatebol.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 5): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 6. Caiff gwybodaeth ei sgorio ar lefel diploma ôl-raddedig, ac adnoddau gwybodaeth ar lefel 5 gan fod y swydd yn dylunio rhannau o'r rhwydwaith y mae systemau gwybodaeth mawr yn dibynnu arnynt."
+  - title: Pensaer rhwydwaith
+    slug: pensaer-rhwydwaith
+    responsibilities:
+      - Dylunio datrysiadau rhwydwaith lleol, ardal eang, diwifr, a chwmwl ar gyfer safleoedd a gwasanaethau.
+      - Dylunio segmentu rhwydwaith ar gyfer dyfeisiau meddygol, systemau clinigol, a mynediad i westeion.
+      - Cynllunio newidiadau rhwydwaith mewn ardaloedd clinigol gydag arweinwyr gwasanaethau fel nad yw gofal yn cael ei amharu.
+      - Cytuno ar lefelau gwasanaeth gyda chyflenwyr a gofynion cysylltu gyda rhwydweithiau partner.
+      - Asesu technolegau rhwydwaith newydd a'u haddasrwydd ar gyfer safonau diogelwch y sefydliad.
+    qualifications:
+      - Gwybodaeth arbenigol am bensaernïaeth rhwydweithiau, ar lefel gradd meistr neu brofiad cyfatebol.
+      - Profiad o ddylunio a chefnogi rhwydweithiau menter.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 6): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 7. Caiff gwybodaeth ei sgorio ar lefel gradd meistr neu gyfatebol ar gyfer gwybodaeth arbenigol ar draws rhwydweithiau lleol, ardal eang, diwifr, a chwmwl."
+  - title: Pensaer rhwydwaith arweiniol
+    slug: pensaer-rhwydwaith-arweiniol
+    responsibilities:
+      - Bod yn berchen ar bensaernïaeth rhwydwaith y sefydliad, gan gynnwys ei safleoedd, ei ganolfannau data, a'i gysylltiadau cwmwl.
+      - Gosod safonau dylunio rhwydweithiau a sicrhau dyluniadau yn yr awdurdod dylunio.
+      - Dylunio gwydnwch ac adfer rhwydweithiau ar gyfer gwasanaethau clinigol hanfodol, a sicrhau ei fod yn cael ei brofi.
+      - Cynghori ar fuddsoddi mewn rhwydweithiau, contractau cyflenwyr, a risgiau rhwydwaith gwasanaethau newydd.
+      - Gweithredu fel y pwynt uwchgyfeirio arbenigol ac arwain penseiri a pheirianwyr rhwydwaith eraill.
+    qualifications:
+      - Profiad sylweddol o bensaernïaeth rhwydweithiau ar gyfer sefydliadau cymhleth, ar lefel sy'n cyfateb i radd meistr.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 7): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8a. Mae adnoddau gwybodaeth ar lefel 6 gan fod y swydd yn berchen ar y bensaernïaeth rhwydwaith y mae holl systemau gwybodaeth y sefydliad yn dibynnu arni."

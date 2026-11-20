@@ -1,0 +1,97 @@
+# Band outlines in German. Keys are the English band ids.
+"1":
+  title: Entgeltgruppe 1
+  stage: Einstieg
+  knowledge: Grundkenntnisse im Lesen, Schreiben und Rechnen; lernt einfache Routineaufgaben am Arbeitsplatz.
+  autonomy: Folgt klaren Anweisungen; die Arbeit wird häufig kontrolliert.
+  scope: Eigene Routineaufgaben.
+  leadership: Keine.
+  accountability: Genaue Ausführung von Routineaufgaben.
+"2":
+  title: Entgeltgruppe 2
+  stage: Unterstützung
+  knowledge: Kennt die Abläufe und Verfahren des Arbeitsbereichs; verfügt möglicherweise über eine Einstiegsqualifikation.
+  autonomy: Arbeitet nach festen Verfahren, Aufsicht ist verfügbar.
+  scope: Eigene Aufgaben innerhalb eines Teams.
+  leadership: Kann neuen Mitarbeitenden Routineaufgaben zeigen.
+  accountability: Qualität und Termintreue der eigenen Routinearbeit.
+"3":
+  title: Entgeltgruppe 3
+  stage: Unterstützung
+  knowledge: Kenntnis einer Reihe von Verfahren, darunter einige, die keine Routine sind; in der Regel eine Qualifikation auf Niveau 3 oder gleichwertige Erfahrung.
+  autonomy: Arbeitet innerhalb von Verfahren; entscheidet, wie die eigene Arbeit organisiert wird; gibt Probleme nach oben weiter.
+  scope: Eigene Arbeit und einige Aufgaben für das erweiterte Team.
+  leadership: Kann Routinearbeit verteilen oder anderen Verfahren beibringen.
+  accountability: Genauigkeit der eigenen Arbeit und der geführten Unterlagen.
+"4":
+  title: Entgeltgruppe 4
+  stage: Unterstützung und Berufseinstieg
+  knowledge: Detaillierte Kenntnis des Arbeitsbereichs, in der Regel aus einer Ausbildung, einem Diplom oder gleichwertiger Erfahrung.
+  autonomy: Arbeitet innerhalb von Richtlinien; löst die meisten alltäglichen Probleme; eine Führungskraft steht beratend zur Verfügung.
+  scope: Eigene Arbeit und ein umrissener Dienst oder Prozess.
+  leadership: Kann ein kleines Team beaufsichtigen oder die Arbeit anderer koordinieren.
+  accountability: Erbringung eines umrissenen Dienstes oder Prozesses.
+"5":
+  title: Entgeltgruppe 5
+  stage: Fachkraft
+  knowledge: Fachliches oder technisches Wissen, in der Regel aus einem Bachelorstudium oder gleichwertiger Erfahrung.
+  autonomy: Arbeitet auf breite Ziele hin innerhalb fachlicher Standards; plant die eigene Arbeit.
+  scope: Eigene fachliche Arbeit in einem Team oder Produkt.
+  leadership: Kann die Arbeit von Unterstützungskräften und Auszubildenden anleiten und prüfen.
+  accountability: Qualität der eigenen fachlichen Arbeit.
+"6":
+  title: Entgeltgruppe 6
+  stage: Erfahrene Fachkraft
+  knowledge: Spezialwissen über eine Reihe von Verfahren, erworben durch weitere Ausbildung oder Erfahrung.
+  autonomy: Arbeitet selbstständig; übersetzt Vorgaben für den eigenen Bereich; holt bei komplexen Fragen Rat ein.
+  scope: Ein Produkt, ein Dienst oder ein Arbeitsstrom.
+  leadership: Kann ein kleines Team leiten oder Kolleginnen und Kollegen anleiten.
+  accountability: Ergebnisse des eigenen Arbeitsstroms und Qualität der gegebenen Beratung.
+"7":
+  title: Entgeltgruppe 7
+  stage: Senior oder Spezialist/in
+  knowledge: Hoch entwickeltes Spezialwissen, in der Regel auf Masterniveau oder aus gleichwertiger Erfahrung.
+  autonomy: Arbeitet nach den Vorgaben der Organisation; entscheidet, wie Ergebnisse erreicht werden; ist die Fachperson, die andere befragen.
+  scope: Mehrere Produkte oder Dienste oder eine Spezialfunktion.
+  leadership: Leitet ein Team oder ein Fachgebiet.
+  accountability: Erbringung eines Dienstes oder einer Spezialfunktion und gegebenenfalls deren Budget.
+8a:
+  title: Entgeltgruppe 8a
+  stage: Leitung
+  knowledge: Fachliche Expertise in einer Disziplin und ihrer Steuerung.
+  autonomy: Übersetzt die Vorgaben der Organisation für einen Dienst; bestimmt die Richtung des Teams.
+  scope: Ein Servicebereich oder eine Disziplin in der gesamten Organisation.
+  leadership: Leitet ein Team oder führt eine Disziplin ohne Linienführung.
+  accountability: Ein Servicebereich, sein Personal und sein Budget.
+8b:
+  title: Entgeltgruppe 8b
+  stage: Leitung
+  knowledge: Fachliche Expertise über mehrere Disziplinen oder einen großen Dienst.
+  autonomy: Gestaltet Vorgaben und Strategie für einen großen Bereich.
+  scope: Mehrere Dienste oder Teams oder eine Disziplin auf oberster Ebene.
+  leadership: Führt Führungskräfte oder ist die höchste Autorität in einer Disziplin.
+  accountability: Mehrere Dienste, ihr Personal und ihre Budgets.
+8c:
+  title: Entgeltgruppe 8c
+  stage: Obere Leitung
+  knowledge: Fachliche Expertise und breiter Einblick in die Organisation und den Sektor.
+  autonomy: Legt die Strategie für eine Funktion fest; berichtet an eine Direktorin oder einen Direktor.
+  scope: Eine Funktion oder Abteilung.
+  leadership: Leitet eine Funktion über mehrere Führungsebenen.
+  accountability: Leistung, Personal und Budget einer Funktion.
+8d:
+  title: Entgeltgruppe 8d
+  stage: Obere Leitung
+  knowledge: Strategisches Wissen über Funktionen hinweg und über das weitere Gesundheits- und Pflegesystem.
+  autonomy: Gestaltet die Strategie für die gesamte Organisation; vertritt eine Direktorin oder einen Direktor.
+  scope: Eine große Funktion oder mehrere Funktionen.
+  leadership: Leitet mehrere Funktionen oder eine große Abteilung.
+  accountability: Große Funktionen, große Budgets und Risiken für die gesamte Organisation.
+"9":
+  title: Entgeltgruppe 9
+  stage: Leitung des Fachgebiets oder Direktion
+  knowledge: Strategische Expertise und Führung für das gesamte System.
+  autonomy: Legt gemeinsam mit der Geschäftsleitung die Strategie der Organisation fest.
+  scope: Die Organisation und ihre Partner im gesamten System.
+  leadership: Leitet eine Berufsgruppe oder eine Direktion.
+  accountability: Ergebnisse, Budgets und Risiken für die gesamte Organisation.

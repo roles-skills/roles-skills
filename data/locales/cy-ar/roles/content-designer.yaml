@@ -1,0 +1,74 @@
+summary: >
+  Mae dylunwyr cynnwys yn gwneud gwybodaeth a gwasanaethau iechyd a gofal yn glir, fel y gall cleifion,
+  gofalwyr, clinigwyr, a staff gofal ddeall yr hyn sydd angen iddynt ei wybod a'i wneud. Maen nhw'n dylunio
+  cynnwys o dystiolaeth o anghenion defnyddwyr, yn ysgrifennu mewn iaith glir, yn gweithio gydag arbenigwyr
+  clinigol i'w gadw'n gywir, ac yn gofalu am gynnwys drwy ei oes gyfan, o'i greu i'w adolygu a'i ymddeol.
+health_context:
+  - Mae pobl yn aml yn darllen cynnwys iechyd pan fyddant yn poeni, yn sâl, neu ar frys, felly mae'n rhaid i gynnwys fod yn hawdd ei ddeall a gweithredu arno i bobl â llythrennedd iechyd isel.
+  - Gall gwybodaeth iechyd anghywir neu hen achosi niwed, felly mae dylunwyr cynnwys yn dilyn proses sicrwydd clinigol gyda dyddiadau adolygu ac adolygwyr clinigol wedi'u henwi.
+  - Mae rhai pynciau'n sensitif neu'n risg uchel, fel symptomau brys, iechyd meddwl, meddyginiaethau, a gofal diwedd oes, felly mae dylunwyr cynnwys yn gweithio'n agos gyda chlinigwyr ac ymchwilwyr defnyddwyr ar dôn a chywirdeb.
+  - Mae angen cynnwys clir ar systemau clinigol hefyd, fel labeli, cyfarwyddiadau, a rhybuddion, felly mae dylunwyr cynnwys yn helpu i leihau gwallau mewn llifoedd gwaith clinigol.
+  - Mae'n rhaid i gynnwys iechyd fod yn hygyrch ac yn gynhwysol, gan gynnwys i bobl sy'n defnyddio technoleg gynorthwyol, yn darllen mewn iaith arall, neu angen fformatau hawdd eu deall.
+levels:
+  - title: Dylunydd cynnwys cyswllt
+    slug: dylunydd-cynnwys-cyswllt
+    responsibilities:
+      - Dysgu dulliau dylunio cynnwys, y canllaw arddull, a'r broses adolygu clinigol drwy hyfforddiant a gwaith dan oruchwyliaeth.
+      - Cynnal gwiriadau safonol, golygu copi, a diweddariadau i gynnwys presennol.
+      - Cyhoeddi cynnwys gan ddefnyddio'r system rheoli cynnwys, gan ddilyn camau sicrwydd.
+      - Gwirio cynnwys am hygyrchedd, fel penawdau, testun dolenni, a thestun amgen.
+    qualifications:
+      - Yn gweithio tuag at gymhwyster neu brentisiaeth mewn maes perthnasol, neu brofiad cyfatebol.
+  - title: Dylunydd cynnwys iau
+    slug: dylunydd-cynnwys-iau
+    responsibilities:
+      - Ysgrifennu a diweddaru cynnwys iechyd a chynnwys gwasanaethau, dan gyfarwyddyd dylunwyr cynnwys mwy profiadol.
+      - Defnyddio ymchwil a data i nodi beth sydd angen i ddefnyddwyr ei wybod a'r geiriau maen nhw'n eu defnyddio.
+      - Gweithio gydag adolygwyr clinigol i wirio cywirdeb, ac egluro termau meddygol mewn iaith glir.
+      - Cefnogi cyhoeddi cynnwys, dyddiadau adolygu, a gweinyddu'r tîm cynnwys.
+    qualifications:
+      - Gradd neu gymhwyster perthnasol, neu brofiad cyfatebol o ysgrifennu ar gyfer y we.
+  - title: Dylunydd cynnwys
+    slug: dylunydd-cynnwys
+    responsibilities:
+      - Dylunio cynnwys ar draws teithiau defnyddwyr cyfan, fel dod o hyd i wasanaeth, paratoi ar gyfer apwyntiad, ac ôl-ofal.
+      - Dylunio cynnwys ar gyfer systemau clinigol, fel labeli, cyfarwyddiadau, a rhybuddion, i leihau'r siawns o wall.
+      - Cytuno ar gywirdeb gydag arbenigwyr clinigol gan gadw cynnwys yn glir ac yn ddefnyddiadwy.
+      - Profi cynnwys gyda defnyddwyr, gan gynnwys pobl â llythrennedd iechyd isel a phobl sy'n defnyddio technoleg gynorthwyol.
+      - Cyfrannu at y canllaw arddull a phatrymau cynnwys.
+    qualifications:
+      - Gradd neu gymhwyster perthnasol, neu brofiad cyfatebol.
+      - Profiad o ddylunio cynnwys ar gyfer gwasanaethau digidol.
+  - title: Uwch ddylunydd cynnwys
+    slug: uwch-ddylunydd-cynnwys
+    responsibilities:
+      - Datblygu strategaeth gynnwys ar gyfer meysydd mawr neu amlwg, fel maes cyflwr mawr neu ymgyrch iechyd y cyhoedd.
+      - Dylunio cynnwys ar gyfer pynciau sensitif a risg uchel, fel symptomau brys, iechyd meddwl, a gofal diwedd oes.
+      - Sefydlu sicrwydd clinigol, ffynonellau tystiolaeth, a chylchoedd adolygu ar gyfer corff o gynnwys iechyd.
+      - Adolygu gwaith eraill i sicrhau ansawdd, a rheoli neu fentora dylunwyr cynnwys.
+      - Ysgrifennu a mapio straeon defnyddwyr gyda'r tîm.
+    qualifications:
+      - Profiad sylweddol o ddylunio cynnwys, ar lefel sy'n cyfateb i radd meistr.
+    job_evaluation_notes: Mae ymdrech emosiynol ar lefel 2 gan fod uwch ddylunwyr cynnwys yn gweithio'n rheolaidd ar bynciau trallodus, fel salwch difrifol, hunan-niweidio, a phrofedigaeth.
+  - title: Dylunydd cynnwys arweiniol
+    slug: dylunydd-cynnwys-arweiniol
+    responsibilities:
+      - Cyfarwyddo tîm o ddylunwyr cynnwys a sicrhau ansawdd cynnwys ar draws sawl tîm.
+      - Sicrhau bod cynnwys iechyd yn bodloni safonau sicrwydd clinigol, hygyrchedd, ac arddull.
+      - Gweithio gydag uwch arweinwyr clinigol, cyfathrebu, a chynnyrch i roi adnoddau i dimau a datrys problemau cynnwys.
+      - Arwain cynnwys ar gyfer gwybodaeth fwyaf sensitif neu risg uchaf y sefydliad.
+      - Rheoli a datblygu dylunwyr cynnwys yn llinell.
+    qualifications:
+      - Profiad helaeth o arwain dylunio cynnwys ar draws timau.
+    job_evaluation_notes: Does dim lefel Band 8a, gan fod UK GDaD PCF yn rhoi'r dylunydd cynnwys arweiniol ar G7 neu G6 ac mae'r cyfeirlyfr hwn yn dilyn y Band 8b a awgrymir. Mae polisi ar lefel 5 gan fod yr arweinydd yn gosod safonau cynnwys ar gyfer ystod o wasanaethau; mae ymdrech emosiynol ar lefel 2, fel ar gyfer uwch ddylunwyr cynnwys.
+  - title: Pennaeth dylunio cynnwys
+    slug: pennaeth-dylunio-cynnwys
+    responsibilities:
+      - Datblygu strategaeth gynnwys sy'n bodloni amcanion y sefydliad ac anghenion cleifion a staff.
+      - Gosod safonau'r sefydliad ar gyfer cynnwys gwybodaeth iechyd a'i sicrwydd clinigol.
+      - Arwain tîm dylunio cynnwys sy'n gallu cyflawni'r strategaeth, gan gynnwys recriwtio a datblygu.
+      - Gweithio gydag uwch arweinwyr clinigol a chyfathrebu i reoli risgiau gwybodaeth iechyd.
+      - Blaenoriaethu gwaith cynnwys ar draws y sefydliad.
+    qualifications:
+      - Profiad helaeth o arwain dylunio cynnwys ac ymarfer cynnwys.
+    job_evaluation_notes: Mae UK GDaD PCF yn rhoi'r dylunydd cynnwys arweiniol a phennaeth dylunio cynnwys ar G7 neu G6, gyda Band 8b wedi'i awgrymu. Mae'r cyfeirlyfr hwn yn rhoi'r pennaeth ar Fand 8c, yn unol â phenaethiaid proffesiynau dylunio eraill sy'n canolbwyntio ar y defnyddiwr, gan fod y pennaeth yn gosod strategaeth a safonau cynnwys ar gyfer y sefydliad cyfan.

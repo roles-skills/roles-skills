@@ -1,0 +1,45 @@
+summary: Die oder der Datenschutzbeauftragte (DSB) überwacht unabhängig die Einhaltung des Datenschutzrechts durch die Organisation, berät zu deren Pflichten und ist Anlaufstelle für die Aufsichtsbehörde und für Menschen, deren Daten die Organisation hält. In einer Organisation für digitale Gesundheit und Pflege gibt die oder der DSB fachliche Beratung zur rechtmäßigen, fairen und transparenten Nutzung von Gesundheitsdaten in Produkten, Analysen, Forschung und Datenaustausch.
+health_context:
+- Das Datenschutzrecht gibt der oder dem DSB eine geschützte, unabhängige Stellung, die an die oberste Leitungsebene berichtet; die Rolle muss daher frei von Interessenkonflikten sein.
+- Das Datenschutzrecht schützt Gesundheitsdaten besonders, und vieles davon unterliegt auch der Schweigepflicht; die oder der DSB berät daher zu beidem.
+- Umfangreiche Verarbeitung von Gesundheitsdaten, Datenverknüpfung und KI brauchen oft Datenschutz-Folgenabschätzungen und manchmal eine vorherige Konsultation der Aufsichtsbehörde.
+- Patientinnen, Patienten und die Öffentlichkeit erwarten Transparenz; die oder der DSB hilft deshalb der Organisation, klar zu erklären, wie sie ihre Daten nutzt.
+levels:
+- title: Stellvertretende/r Datenschutzbeauftragte/r
+  summary: Unterstützt die oder den DSB bei der Überwachung der Einhaltung und der Beratung, leitet komplexe Einzelfälle und vertritt die oder den DSB.
+  responsibilities:
+  - Teams zum Datenschutzrecht beraten, einschließlich Rechtsgrundlage, Transparenz und Betroffenenrechten.
+  - Datenschutz-Folgenabschätzungen mit hohem Risiko prüfen und die Beratung der oder des DSB entwerfen.
+  - Die Einhaltung durch Audits, Stichproben und Prüfungen der Verarbeitungsverzeichnisse überwachen.
+  - Die Untersuchung schwerer Datenpannen leiten und Meldungen an die Aufsichtsbehörde vorbereiten.
+  - Komplexe Beschwerden und Anfragen von Einzelpersonen zu ihren Daten bearbeiten.
+  - Die oder den DSB gegenüber der Führungsebene und der Aufsichtsbehörde vertreten.
+  qualifications:
+  - Eine anerkannte berufliche Qualifikation im Datenschutz oder gleichwertige Erfahrung.
+  - Umfangreiche Erfahrung mit Datenschutz in Gesundheit oder Pflege.
+- title: Datenschutzbeauftragte/r
+  summary: Die gesetzliche Datenschutzbeauftragte oder der gesetzliche Datenschutzbeauftragte der Organisation, die oder der unabhängig die Einhaltung überwacht, Führungsebene und Vorstand berät und Anlaufstelle für die Aufsichtsbehörde und die Öffentlichkeit ist.
+  responsibilities:
+  - Die Einhaltung des Datenschutzrechts und der eigenen Richtlinien der Organisation unabhängig überwachen.
+  - Vorstand, Führungsebene und Teams zu ihren Datenschutzpflichten beraten.
+  - Förmliche Beratung zu Datenschutz-Folgenabschätzungen mit hohem Risiko geben und entscheiden, wann die Aufsichtsbehörde zu konsultieren ist.
+  - Anlaufstelle für die Aufsichtsbehörde und für Menschen sein, deren Daten die Organisation hält.
+  - Entscheidungen zur Meldung von Pannen und die Reaktion der Organisation auf Anfragen der Aufsichtsbehörde beaufsichtigen.
+  - An den Vorstand und seine Ausschüsse über Einhaltung und Risiko des Datenschutzes berichten.
+  qualifications:
+  - Eine anerkannte berufliche Qualifikation im Datenschutz oder gleichwertige Erfahrung.
+  - Umfassende Erfahrung mit Datenschutzrecht und -praxis, auch in Gesundheit oder Pflege.
+  job_evaluation_notes: Die Handlungsfreiheit wird auf Stufe 6 bewertet, weil das Datenschutzrecht verlangt, dass die oder der DSB unabhängig handelt und Recht und Richtlinien ohne Weisung auslegt.
+- title: Senior-Datenschutzbeauftragte/r
+  summary: Die oder der Datenschutzbeauftragte für eine große Organisation oder eine Gruppe von Organisationen mit gemeinsamer oder gemeinsamem DSB, die oder der die Datenschutzfunktion leitet und ihre Standards setzt.
+  responsibilities:
+  - Als gesetzliche/r DSB für eine große Organisation oder eine Gruppe von Pflegeorganisationen handeln.
+  - Die Datenschutzfunktion, ihr Personal und ihr Arbeitsprogramm leiten.
+  - Den Datenschutzrahmen und die Standards in der Organisation oder Gruppe festlegen.
+  - Die abschließende Beratung zu Verarbeitungen mit dem höchsten Risiko geben, etwa umfangreicher Datenverknüpfung und KI.
+  - Die Zusammenarbeit mit der Aufsichtsbehörde, Partnern und Patienten- und Bürgerorganisationen zur Datennutzung leiten.
+  - An den Vorstand über Datenschutzrisiko, Einhaltung und öffentliches Vertrauen berichten.
+  qualifications:
+  - Eine anerkannte berufliche Qualifikation im Datenschutz oder gleichwertige Erfahrung.
+  - Umfassende Erfahrung als Datenschutzbeauftragte/r in einer großen oder komplexen Organisation.
+  job_evaluation_notes: Die Informationsressourcen werden auf Stufe 6 bewertet, weil die Stelle beaufsichtigt, wie personenbezogene Daten in der gesamten Organisation oder Gruppe verarbeitet werden.

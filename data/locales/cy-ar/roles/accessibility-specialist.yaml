@@ -1,0 +1,52 @@
+summary: >
+  Mae arbenigwyr hygyrchedd yn helpu'r sefydliad i wneud ei wasanaethau iechyd digidol yn ddefnyddiadwy i gynifer
+  o bobl â phosibl, gan gynnwys pobl anabl a phobl â chyflyrau hirdymor. Maen nhw'n profi gwasanaethau yn erbyn
+  safonau hygyrchedd a gyda thechnolegau cynorthwyol, yn cynghori ac yn hyfforddi timau, ac yn helpu i wreiddio
+  hygyrchedd yn y ffordd y mae gwasanaethau, systemau clinigol, a gwybodaeth iechyd yn cael eu dylunio, eu prynu,
+  a'u hadeiladu.
+health_context:
+  - Mae llawer o'r bobl sydd fwyaf angen gwasanaethau iechyd a gofal yn anabl, yn hŷn, neu'n byw gyda chyflyrau hirdymor, felly gall gwasanaethau anhygyrch atal pobl rhag cael gofal.
+  - Mae gan glinigwyr a staff gofal anghenion mynediad hefyd, felly mae'n rhaid i systemau clinigol mewnol, gan gynnwys y rhai a brynwyd gan gyflenwyr, fod yn hygyrch hefyd.
+  - Mae gwybodaeth iechyd yn aml yn gymhleth ac yn cael ei chyhoeddi mewn llawer o fformatau, fel dogfennau, llythyrau, a fideo, felly mae arbenigwyr yn helpu timau i wneud y cyfan yn hygyrch, gan gynnwys fformatau hawdd eu deall a fformatau amgen.
+  - Gall problemau hygyrchedd mewn llifoedd gwaith clinigol droi'n broblemau diogelwch, er enghraifft pan nad yw darllenydd sgrin yn cyhoeddi rhybudd, felly mae arbenigwyr yn gweithio gyda swyddogion diogelwch clinigol ar y risgiau hyn.
+levels:
+  - title: Arbenigwr hygyrchedd iau
+    slug: arbenigwr-hygyrchedd-iau
+    responsibilities:
+      - Profi tudalennau gwe, apiau, a dogfennau yn erbyn safonau hygyrchedd, dan oruchwyliaeth.
+      - Cofnodi ac egluro problemau hygyrchedd yn glir fel y gall timau eu trwsio.
+      - Helpu gyda phrofi gan ddefnyddio technolegau cynorthwyol, fel darllenwyr sgrin a chwyddwyr.
+      - Helpu i gadw datganiadau hygyrchedd a logiau problemau'n gyfredol.
+    qualifications:
+      - Rhywfaint o brofiad o brofi, dylunio, neu ddatblygu digidol, neu brofiad cyfatebol.
+  - title: Arbenigwr hygyrchedd
+    slug: arbenigwr-hygyrchedd
+    responsibilities:
+      - Cynnal archwiliadau hygyrchedd o wasanaethau i gleifion, systemau clinigol, a gwybodaeth iechyd.
+      - Profi gydag ystod o dechnolegau cynorthwyol a chefnogi ymchwil gyda defnyddwyr anabl.
+      - Cynghori timau ar atgyweiriadau ac ar batrymau hygyrch ar gyfer ffurflenni, rhybuddion, a gwybodaeth sy'n hanfodol i ddiogelwch.
+      - Adolygu cynhyrchion cyflenwyr am hygyrchedd yn ystod caffael a derbyn.
+      - Creu hyfforddiant a chanllawiau, a hyfforddi cydweithwyr iau.
+    qualifications:
+      - Profiad o brofi hygyrchedd ac o safonau hygyrchedd cyfredol, neu brofiad cyfatebol.
+  - title: Uwch arbenigwr hygyrchedd
+    slug: uwch-arbenigwr-hygyrchedd
+    responsibilities:
+      - Gwreiddio hygyrchedd yn ffyrdd o weithio timau, o'r cam darganfod i wasanaeth byw.
+      - Cyfrannu at strategaeth hygyrchedd, gan gynnwys sut mae hygyrchedd yn cael ei sicrhau mewn caffael ac asesiadau gwasanaeth.
+      - Gweithio gyda swyddogion diogelwch clinigol lle gallai problemau hygyrchedd effeithio ar ddiogelwch cleifion.
+      - Creu a chyflwyno hyfforddiant hygyrchedd ar gyfer dylunwyr, datblygwyr, dylunwyr cynnwys, a chyflenwyr.
+      - Arwain neu reoli arbenigwyr hygyrchedd eraill.
+    qualifications:
+      - Profiad sylweddol o hygyrchedd, ar lefel sy'n cyfateb i radd meistr.
+  - title: Pennaeth hygyrchedd
+    slug: pennaeth-hygyrchedd
+    responsibilities:
+      - Gosod gweledigaeth, strategaeth, a safonau hygyrchedd y sefydliad, ar gyfer gwasanaethau i gleifion a gwasanaethau mewnol.
+      - Sicrhau cydymffurfio â chyfraith a safonau hygyrchedd ar draws gwasanaethau, ac adrodd arni i uwch arweinwyr.
+      - Sicrhau bod gofynion hygyrchedd yn rhan o gaffael a chontractau cyflenwyr ar gyfer systemau clinigol.
+      - Dylanwadu ar flaenoriaethau'r sefydliad fel nad yw cleifion a staff anabl yn cael eu heithrio.
+      - Arwain a datblygu'r tîm hygyrchedd a'r gymuned ymarfer.
+    qualifications:
+      - Profiad helaeth o arwain hygyrchedd mewn sefydliad cymhleth.
+    job_evaluation_notes: Does dim lefel Band 8a, gan fod UK GDaD PCF yn rhoi pennaeth hygyrchedd ar G7 neu G6 ac mae'r cyfeirlyfr hwn yn dilyn y Band 8b a awgrymir.

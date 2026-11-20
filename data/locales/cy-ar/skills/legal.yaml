@@ -1,0 +1,256 @@
+# Welsh translations of data/skills/legal.yaml. Keys are the English skill ids.
+legal-legal-research:
+  name: Ymchwil gyfreithiol
+  slug: ymchwil-gyfreithiol
+  description: Dod o hyd i ddeddfwriaeth, cyfraith achosion, canllawiau, a chynseiliau, eu darllen, a'u crynhoi i ateb cwestiwn cyfreithiol.
+  levels:
+    awareness: |
+      Gallwch:
+      - dod o hyd i ddeddfwriaeth, canllawiau, a dogfennau cynsail gan ddefnyddio cronfeydd data cyfreithiol a gwybodaeth y sefydliad
+      - defnyddio termau cyfreithiol yn gywir
+    working: |
+      Gallwch:
+      - ymchwilio i gwestiwn cyfreithiol diffiniedig a chrynhoi'r ffynonellau'n glir
+      - gwirio bod ffynonellau'n gyfredol ac yn awdurdodol
+      - cadw llyfrgelloedd cynseiliau a gwybodaeth yn gyfredol
+    practitioner: |
+      Gallwch:
+      - ymchwilio i gwestiynau cymhleth neu newydd, fel sut mae'r gyfraith bresennol yn berthnasol i dechnoleg newydd
+      - dadansoddi ffynonellau sy'n gwrthdaro a dod i farn resymegol
+      - olrhain newidiadau yn y gyfraith a chanllawiau ac egluro eu heffaith ar y sefydliad
+    expert: |
+      Gallwch:
+      - arwain ymchwil ar gwestiynau mwyaf cymhleth a risg uchaf y sefydliad
+      - rhagweld datblygiadau cyfreithiol a pharatoi'r sefydliad ar eu cyfer
+      - cyfrannu at ymgynghoriadau ar gyfraith a chanllawiau sy'n effeithio ar iechyd a gofal digidol
+
+legal-contract-drafting-and-review:
+  name: Drafftio ac adolygu contractau
+  slug: drafftio-ac-adolygu-contractau
+  description: Drafftio, adolygu, a negodi contractau a chytundebau, fel cytundebau technoleg, trwyddedau meddalwedd, cwmwl, gwasanaethau, a phrosesu data.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro prif rannau contract, fel partïon, cyfnod, taliad, atebolrwydd, a therfynu
+      - paratoi dogfennau safonol o dempledi cymeradwy
+    working: |
+      Gallwch:
+      - adolygu cytundebau arferol, fel cytundebau peidio â datgelu a chytundebau gwasanaethau syml, yn erbyn safonau'r sefydliad
+      - marcio contractau ac egluro'r newidiadau
+      - sylwi ar gymalau sydd angen eu hadolygu gan gyfreithiwr, fel atebolrwydd diderfyn neu adnewyddu awtomatig
+    practitioner: |
+      Gallwch:
+      - drafftio a negodi cytundebau cymhleth, fel trwyddedau meddalwedd, lletya cwmwl, integreiddio systemau, a chytundebau prosesu data
+      - cynghori ar ddyrannu risg, gan gynnwys capiau atebolrwydd, lefelau gwasanaeth, ymadael, ac escrow
+      - sicrhau bod contractau'n diogelu data cleifion, parhad gwasanaeth, a hawliau'r sefydliad yn ei feddalwedd a'i ddata
+      - ysgrifennu a chynnal templedi contract a llyfrau chwarae
+    expert: |
+      Gallwch:
+      - gosod safonau contractio a safbwyntiau risg y sefydliad
+      - arwain negodiadau ar y cytundebau mwyaf gwerthfawr neu risg uchel
+      - cynghori uwch arweinwyr ar drefniadau masnachol strategol, fel partneriaethau a mentrau ar y cyd
+
+legal-legal-advice:
+  name: Cyngor cyfreithiol
+  slug: cyngor-cyfreithiol
+  description: Rhoi cyngor cyfreithiol clir, ymarferol, a chywir sy'n helpu cydweithwyr i wneud penderfyniadau cyfreithlon a rheoli risg gyfreithiol.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pryd mae angen cyngor cyfreithiol ar gydweithwyr a sut i'w gael
+      - cymryd cyfarwyddiadau clir a chofnodi ffeithiau mater
+    working: |
+      Gallwch:
+      - paratoi cyngor drafft ar faterion arferol i gyfreithiwr ei adolygu
+      - ateb cwestiynau syml gan ddefnyddio canllawiau cymeradwy
+      - nodi'r materion cyfreithiol mewn set o ffeithiau
+    practitioner: |
+      Gallwch:
+      - rhoi cyngor cyfreithiol annibynnol yn eich meysydd ymarfer
+      - egluro risg gyfreithiol mewn iaith glir ac argymell opsiynau ymarferol
+      - cynghori ar benderfyniadau ag effaith gyfreithiol, fel dyfarnu contractau, rhannu data, a newidiadau i wasanaethau
+      - penderfynu pryd i gyfarwyddo cyfreithwyr allanol neu fargyfreithwyr
+    expert: |
+      Gallwch:
+      - cynghori'r bwrdd a'r tîm gweithredol ar risgiau cyfreithiol mwyaf arwyddocaol y sefydliad
+      - rhoi cyngor terfynol ar faterion newydd, dadleuol, neu werth uchel
+      - gosod archwaeth y sefydliad ar gyfer risg gyfreithiol
+      - sicrhau ansawdd cyngor cyfreithiol ar draws y sefydliad, gan gynnwys cyngor allanol
+
+legal-litigation-and-disputes:
+  name: Ymgyfreitha a datrys anghydfodau
+  slug: ymgyfreitha-a-datrys-anghydfodau
+  description: Atal, rheoli, a datrys anghydfodau a hawliadau, gan gynnwys anghydfodau contract, hawliadau cyflogaeth, a chysylltu ar hawliadau esgeuluster clinigol.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro prif gamau hawliad neu anghydfod
+      - cofnodi hawliadau ac olrhain terfynau amser yn gywir
+    working: |
+      Gallwch:
+      - casglu a threfnu dogfennau a thystiolaeth ar gyfer achos
+      - paratoi cronolegau, bwndeli, a drafftiau o ddatganiadau tystion
+      - cysylltu â chyfreithwyr allanol, yswirwyr, neu gynlluniau indemniad ar faterion arferol
+    practitioner: |
+      Gallwch:
+      - rheoli llwyth achosion o anghydfodau a hawliadau o'r hysbysiad cyntaf i setliad neu wrandawiad
+      - asesu rhinweddau a gwerth hawliadau ac argymell strategaeth
+      - negodi setliadau a defnyddio dulliau amgen o ddatrys anghydfodau
+      - sicrhau bod gwersi o hawliadau'n bwydo i welliannau diogelwch, contractau, a gwasanaethau
+    expert: |
+      Gallwch:
+      - arwain anghydfodau mwyaf arwyddocaol neu amlwg y sefydliad
+      - gosod dull y sefydliad o ymgyfreitha, setlo, ac adrodd ar hawliadau
+      - cynghori'r bwrdd ar rwymedigaethau amodol a risg i enw da
+
+legal-information-and-data-law:
+  name: Cyfraith gwybodaeth a data
+  slug: cyfraith-gwybodaeth-a-data
+  description: Cymhwyso cyfraith diogelu data, cyfrinachedd, rhyddid gwybodaeth, a seiberddiogelwch i ddata iechyd a gofal a gwasanaethau digidol.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro egwyddorion sylfaenol diogelu data a chyfrinachedd
+      - adnabod ceisiadau am wybodaeth a thor-data a'u cyfeirio'n gywir
+    working: |
+      Gallwch:
+      - adolygu cytundebau rhannu data a phrosesu data yn erbyn templedi
+      - cefnogi ymatebion i geisiadau am wybodaeth a cheisiadau am hawliau gwrthrych data
+      - egluro'r seiliau cyfreithlon dros ddefnyddio data iechyd mewn sefyllfaoedd cyffredin
+    practitioner: |
+      Gallwch:
+      - cynghori ar ddiogelu data, y ddyletswydd cyfrinachedd, a chyfraith mynediad at wybodaeth ar gyfer gwasanaethau digidol
+      - drafftio a negodi cytundebau rhannu data a thelerau prosesu data, gan gynnwys trosglwyddiadau rhyngwladol
+      - cynghori ar asesiadau o'r effaith ar ddiogelu data ar gyfer technoleg newydd, fel deallusrwydd artiffisial a llwyfannau dadansoddeg
+      - cynghori ar dor-data, ymholiadau gan reoleiddwyr, a chwynion
+    expert: |
+      Gallwch:
+      - gosod safbwynt cyfreithiol y sefydliad ar ddefnyddio data iechyd a gofal
+      - arwain ar ddefnydd risg uchel neu newydd o ddata, fel ymchwil, llwyfannau data, a deallusrwydd artiffisial
+      - cynrychioli'r sefydliad gyda rheoleiddwyr ar gyfraith gwybodaeth
+
+legal-legal-administration:
+  name: Gweinyddu cyfreithiol
+  slug: gweinyddu-cyfreithiol
+  description: Rhedeg prosesau gweinyddol tîm cyfreithiol, gan gynnwys rheoli materion, rheoli dogfennau, cofnodion, terfynau amser, ac anfonebu.
+  levels:
+    awareness: |
+      Gallwch:
+      - agor, diweddaru, a chau materion yn y system rheoli materion
+      - ffeilio ac adalw dogfennau cyfreithiol yn ddiogel
+      - cadw gwybodaeth gyfreithiol a phersonol yn gyfrinachol
+    working: |
+      Gallwch:
+      - rheoli dyddiaduron, terfynau amser, a dyddiadau allweddol ar gyfer tîm
+      - paratoi a fformatio dogfennau cyfreithiol, bwndeli, a phecynnau llofnodi
+      - gwirio a phrosesu anfonebau cyfreithwyr allanol
+      - rheoli cofrestrau contractau a gweithredoedd
+    practitioner: |
+      Gallwch:
+      - rhedeg gweinyddiaeth y tîm cyfreithiol a gwella ei brosesau
+      - adrodd ar lwyth gwaith, gwariant ar gyfreithwyr allanol, ac amseroedd ymateb
+      - gweinyddu technoleg gyfreithiol, fel offer rheoli materion a llofnodi electronig
+    expert: |
+      Gallwch:
+      - dylunio'r model gweithrediadau cyfreithiol ar gyfer y sefydliad
+      - arwain y dewis a'r defnydd o dechnoleg gyfreithiol
+      - gosod safonau gwasanaeth a mesurau perfformiad ar gyfer gwasanaethau cyfreithiol
+
+legal-employment-law:
+  name: Cyfraith cyflogaeth
+  slug: cyfraith-cyflogaeth
+  description: Cymhwyso cyfraith cyflogaeth i bolisïau pobl, contractau, rhaglenni newid, ac anghydfodau cyflogaeth y sefydliad.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro prif hawliau cyflogaeth staff
+      - adnabod materion cyflogaeth sydd angen cyngor cyfreithiol
+    working: |
+      Gallwch:
+      - helpu i baratoi dogfennau ar gyfer hawliadau a gwrandawiadau cyflogaeth
+      - adolygu contractau a pholisïau cyflogaeth yn erbyn templedi
+    practitioner: |
+      Gallwch:
+      - cynghori ar faterion cyflogaeth, fel diswyddo, gwahaniaethu, trosglwyddo staff, ac ailstrwythuro
+      - rheoli hawliadau cyflogaeth a negodi cytundebau setlo
+      - cynghori ar ddefnyddio contractwyr a statws cyflogaeth arbenigwyr digidol
+    expert: |
+      Gallwch:
+      - cynghori'r bwrdd ar newid mawr i'r gweithlu a'i risgiau cyfreithiol
+      - arwain anghydfodau cyflogaeth amlwg neu gymhleth
+      - llunio polisïau pobl i fodloni dyletswyddau cyfreithiol ac arfer da
+
+legal-intellectual-property:
+  name: Eiddo deallusol
+  slug: eiddo-deallusol
+  description: Diogelu a defnyddio eiddo deallusol mewn meddalwedd, data, cynnwys, a dyfeisiadau, gan gynnwys hawlfraint, trwyddedau, cod agored, a nodau masnach.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro bod meddalwedd, data, a chynnwys wedi'u diogelu gan hawliau eiddo deallusol
+      - adnabod pan fo contract neu brosiect yn codi cwestiynau perchnogaeth
+    working: |
+      Gallwch:
+      - gwirio cymalau eiddo deallusol mewn cytundebau arferol
+      - cadw cofnodion o drwyddedau a hawliau cofrestredig
+      - egluro'r prif fathau o drwyddedau cod agored a'u hamodau
+    practitioner: |
+      Gallwch:
+      - cynghori ar bwy sy'n berchen ar feddalwedd, data, a chynnwys a wnaed gan staff, cyflenwyr, a phartneriaid
+      - drafftio trwyddedau a thelerau eiddo deallusol, gan gynnwys rhyddhau cod y sefydliad fel cod agored
+      - cynghori ar ddefnydd masnachol o ddata a meddalwedd y sefydliad, ac ar rannu buddion
+    expert: |
+      Gallwch:
+      - gosod polisi eiddo deallusol a chod agored y sefydliad
+      - arwain ar fasnacheiddio a phartneriaethau sy'n ymwneud â data a meddalwedd y sefydliad
+      - datrys anghydfodau eiddo deallusol arwyddocaol
+
+legal-procurement-law:
+  name: Cyfraith caffael cyhoeddus
+  slug: cyfraith-caffael-cyhoeddus
+  description: Cymhwyso rheolau caffael cyhoeddus i brynu nwyddau, gwasanaethau, a thechnoleg, o ddewis llwybr i'r farchnad i ddyfarnu contract a her.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro pam mae'n rhaid i gyrff cyhoeddus ddilyn rheolau caffael
+      - adnabod pan fo gweithgarwch prynu angen cyngor caffael neu gyfreithiol
+    working: |
+      Gallwch:
+      - gwirio dogfennau tendr am gysondeb a chyflawnder
+      - cefnogi'r cadw cofnodion sydd ei angen i ddangos proses deg a thryloyw
+    practitioner: |
+      Gallwch:
+      - cynghori ar lwybrau i'r farchnad, gan gynnwys fframweithiau, dyfarniadau uniongyrchol, a gweithdrefnau cystadleuol
+      - cynghori ar werthuso, penderfyniadau dyfarnu, a newidiadau i gontractau ar ôl dyfarnu
+      - ymateb i heriau a chwynion gan gyflenwyr
+      - cynghori ar risgiau rheoli cymorthdaliadau a chystadleuaeth mewn partneriaethau
+    expert: |
+      Gallwch:
+      - gosod dull y sefydliad o ymdrin â risg gyfreithiol caffael
+      - arwain ar gaffaeliadau gwerth uchel neu newydd, fel partneriaethau arloesi
+      - amddiffyn heriau caffael arwyddocaol
+
+legal-health-and-care-law:
+  name: Cyfraith iechyd a gofal
+  slug: cyfraith-iechyd-a-gofal
+  description: Cymhwyso'r gyfraith sy'n llywodraethu gwasanaethau iechyd a gofal, gan gynnwys cydsyniad, galluedd, esgeuluster clinigol, rheoleiddio gwasanaethau a chynhyrchion, a dyletswyddau statudol y sefydliad.
+  levels:
+    awareness: |
+      Gallwch:
+      - egluro prif ddyletswyddau a phwerau statudol y sefydliad
+      - adnabod materion sy'n ymwneud â diogelwch cleifion, cydsyniad, neu esgeuluster clinigol
+    working: |
+      Gallwch:
+      - cefnogi gwaith cyfreithiol ar ddigwyddiadau, cwestau, neu hawliadau clinigol
+      - egluro'r fframwaith rheoleiddio sy'n berthnasol i wasanaethau'r sefydliad
+    practitioner: |
+      Gallwch:
+      - cynghori ar bwerau a dyletswyddau'r sefydliad, gan gynnwys pryd y gall ddarparu neu gomisiynu gwasanaeth
+      - cynghori ar reoleiddio cynhyrchion iechyd digidol, fel meddalwedd fel dyfais feddygol
+      - cysylltu â chynlluniau esgeuluster clinigol a chyfreithwyr allanol ar hawliadau sy'n ymwneud â gwasanaethau digidol
+      - cynghori ar gydsyniad, galluedd, a hawliau cleifion mewn gwasanaethau digidol
+    expert: |
+      Gallwch:
+      - cynghori'r bwrdd ar ddyletswyddau statudol a llywodraethiant y sefydliad
+      - arwain gwaith cyfreithiol ar ymchwiliadau cyhoeddus, adolygiadau barnwrol, a digwyddiadau mawr
+      - llunio ymateb y sefydliad i gyfraith iechyd a gofal newydd

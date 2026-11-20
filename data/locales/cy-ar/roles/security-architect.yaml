@@ -1,0 +1,45 @@
+summary: >
+  Mae penseiri diogelwch yn dylunio diogelwch gwasanaethau iechyd digidol y sefydliad, fel bod gwybodaeth
+  cleifion yn aros yn gyfrinachol, yn gywir, ac ar gael pan fo gofal ei hangen. Maen nhw'n gosod patrymau a
+  mesurau rheoli diogelwch, yn asesu risg diogelwch dyluniadau a chyflenwyr newydd, ac yn helpu timau i wneud
+  penderfyniadau ar sail risg sy'n cadw gwasanaethau'n ddiogel ac yn hawdd eu defnyddio i glinigwyr a chleifion.
+health_context:
+  - Mae sefydliadau iechyd yn dargedau aml ar gyfer meddalwedd wystlo a dwyn data, a gall ymosodiad atal gwasanaethau clinigol, felly mae argaeledd yr un mor bwysig â chyfrinachedd.
+  - Rhaid i fesurau rheoli diogelwch beidio ag amharu ar ofal brys, felly mae dyluniadau'n cydbwyso dilysu cryf â mynediad cyflym mewn lleoliadau clinigol.
+  - Yn aml ni ellir patsio dyfeisiau meddygol cysylltiedig a systemau clinigol etifeddol yn gyflym, felly mae penseiri'n dylunio mesurau rheoli cydadferol fel segmentu.
+  - Mae angen mynediad at gofnodion cleifion ar lawer o staff, sefydliadau partner, a chyflenwyr, felly mae hunaniaeth, mynediad yn seiliedig ar rôl, ac archwilio'n ganolog.
+  - Mae'n rhaid i ddyluniadau diogelwch gefnogi dyletswyddau llywodraethiant gwybodaeth a safonau diogelwch cyhoeddedig, fel ISO/IEC 27001.
+levels:
+  - title: Pensaer diogelwch
+    slug: pensaer-diogelwch
+    responsibilities:
+      - Dylunio mesurau rheoli diogelwch ar gyfer gwasanaethau a systemau, gan gynnwys hunaniaeth, amgryptio, logio, a diogelu rhwydweithiau.
+      - Asesu diogelwch dyluniadau newydd a chynhyrchion cyflenwyr, a chofnodi risgiau a'r mesurau rheoli a argymhellir.
+      - Datblygu patrymau diogelwch y gall timau cyflawni eu hailddefnyddio, fel ar gyfer mewngofnodi cleifion ac un mewngofnodi i staff.
+      - Cynghori ar fesurau rheoli cydadferol ar gyfer dyfeisiau meddygol a systemau clinigol etifeddol na ellir eu diweddaru'n hawdd.
+      - Gweithio gyda chydweithwyr llywodraethiant gwybodaeth a diogelwch clinigol fel bod risgiau diogelwch, preifatrwydd, a diogelwch clinigol yn cael eu hasesu gyda'i gilydd.
+      - Hyfforddi peirianwyr diogelwch a phenseiri eraill mewn dylunio diogel.
+    qualifications:
+      - Profiad sylweddol o bensaernïaeth diogelwch neu beirianneg diogelwch, ar lefel sy'n cyfateb i radd meistr.
+      - Cymhwyster diogelwch cydnabyddedig neu brofiad cyfatebol.
+    job_evaluation_notes: "Wedi'i fandio uwchlaw awgrym gradd UK GDaD PCF (Band 6): mae hysbysebion yn y sector iechyd yn rhoi'r rôl hon ar Fand 8a. Caiff dadansoddi a rhyddid i weithredu eu sgorio uwchlaw proffil Band 7 gan fod y swydd yn dylunio diogelwch ar gyfer systemau clinigol hanfodol heb fawr o oruchwyliaeth."
+  - title: Pensaer diogelwch arweiniol
+    slug: pensaer-diogelwch-arweiniol
+    responsibilities:
+      - Arwain pensaernïaeth diogelwch ar gyfer sawl prosiect risg uchel neu faes mawr, fel systemau clinigol neu letya cwmwl.
+      - Gosod egwyddorion a safonau diogelwch ar gyfer dyluniadau yn eich maes a'u sicrhau mewn awdurdodau dylunio.
+      - Cynghori uwch berchnogion risg ar risgiau diogelwch a'r opsiynau i'w rheoli.
+      - Dylunio diogelwch ar gyfer data a rennir â sefydliadau partner a chyflenwyr.
+      - Arwain a datblygu penseiri diogelwch.
+    qualifications:
+      - Profiad helaeth o bensaernïaeth diogelwch ar gyfer gwasanaethau cymhleth.
+  - title: Prif bensaer diogelwch
+    slug: prif-bensaer-diogelwch
+    responsibilities:
+      - Gosod gweledigaeth, egwyddorion, a strategaeth pensaernïaeth diogelwch y sefydliad.
+      - Cynghori'r tîm gweithredol a'r bwrdd ar risg seiberddiogelwch i ofal cleifion a gwasanaethau.
+      - Sicrhau bod seibergadernid, gan gynnwys adfer ar ôl ymosodiad mawr, wedi'i ddylunio i mewn i wasanaethau clinigol hanfodol.
+      - Cynrychioli'r sefydliad mewn cymunedau seiberddiogelwch a safonau ar draws sefydliadau.
+      - Arwain ymarfer pensaernïaeth diogelwch a datblygu ei bobl.
+    qualifications:
+      - Profiad helaeth o arwain pensaernïaeth diogelwch ar draws sefydliadau.

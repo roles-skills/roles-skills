@@ -1,0 +1,53 @@
+summary: >
+  Mae rheolwyr cyflawni'n helpu timau amlddisgyblaethol i ddarparu gwasanaethau iechyd digidol sy'n gweithio i
+  gleifion, clinigwyr, a staff gofal. Maen nhw'n creu'r amodau i dimau weithio'n dda, yn cael gwared ar
+  rwystrau, yn rheoli risgiau a dibyniaethau, ac yn cadw'r cyflawni i symud ar gyflymder cynaliadwy, gan
+  ddefnyddio ffyrdd ystwyth a darbodus o weithio.
+health_context:
+  - Mae'n rhaid i ryddhau i wasanaethau sy'n cefnogi gofal cleifion basio gwiriadau diogelwch clinigol a llywodraethiant gwybodaeth, felly mae rheolwyr cyflawni'n cynnwys y rhain yng nghynlluniau'r tîm a'i ddiffiniad o "wedi'i wneud".
+  - Mae cyflawni'n aml yn dibynnu ar glinigwyr a staff gofal sydd ag amser cyfyngedig i ffwrdd o gleifion, felly mae rheolwyr cyflawni'n cynllunio ymchwil, profi, a hyfforddi o amgylch rotâu clinigol.
+  - Mae angen amseru newidiadau i wasanaethau clinigol byw yn ofalus, felly mae rheolwyr cyflawni'n cynllunio mynd yn fyw gyda thimau gweithredol i osgoi cyfnodau clinigol prysur ac i gael cymorth yn ei le.
+  - Mae timau'n aml yn dibynnu ar gyflenwyr systemau clinigol ac ar sefydliadau iechyd a gofal eraill, felly mae rheolwyr cyflawni'n rheoli dibyniaethau allanol a chontractau.
+levels:
+  - title: Rheolwr cyflawni cyswllt
+    slug: rheolwr-cyflawni-cyswllt
+    responsibilities:
+      - Hwyluso seremonïau'r tîm fel cyfarfodydd sefyll, cynllunio, sioeau a dweud, ac adolygiadau.
+      - Cadw bwrdd y tîm, log risgiau a phroblemau, a chofnodion dibyniaethau'n gyfredol.
+      - Olrhain y tasgau diogelwch clinigol, llywodraethiant gwybodaeth, a hygyrchedd sydd eu hangen cyn pob rhyddhau.
+      - Trefnu sesiynau gyda chlinigwyr, staff gofal, a chleifion ar gyfer ymchwil a phrofi, gan weithio o amgylch rotâu clinigol.
+      - Cysgodi a chefnogi rheolwr cyflawni ar dîm mwy, gan gyflawni rhannau o'r gwaith dan arweiniad.
+    qualifications:
+      - Rhywfaint o brofiad o weithio mewn tîm cyflawni neu gydag ef, neu brofiad cyfatebol.
+  - title: Rheolwr cyflawni
+    slug: rheolwr-cyflawni
+    responsibilities:
+      - Arwain y gwaith o ddarparu cynnyrch neu wasanaeth iechyd digidol drwy'r camau darganfod, alffa, beta, a byw.
+      - Cynllunio rhyddhau gyda thimau gweithredol a chlinigol, gan gynnwys cymorth mynd yn fyw, hyfforddiant, a chynlluniau dychwelyd.
+      - Sicrhau bod sicrwydd diogelwch clinigol, llywodraethiant gwybodaeth, a hygyrchedd yn digwydd ochr yn ochr â'r cyflawni, nid ar y diwedd.
+      - Rheoli cyllideb, contractau cyflenwyr, ac adnoddau'r tîm.
+      - Adrodd ar gynnydd, risgiau, a buddion i fyrddau llywodraethiant mewn termau clir.
+      - Meithrin diwylliant tîm iach a hyfforddi aelodau'r tîm mewn ffyrdd ystwyth o weithio.
+    qualifications:
+      - Profiad sylweddol o ddarparu cynhyrchion neu wasanaethau digidol gan ddefnyddio dulliau ystwyth.
+    job_evaluation_notes: Does dim lefel Band 6 gan nad oes gan UK GDaD PCF lefel rheolwr cyflawni rhwng cyswllt (EO/HEO) a rheolwr cyflawni (SEO/G7).
+  - title: Uwch reolwr cyflawni
+    slug: uwch-reolwr-cyflawni
+    responsibilities:
+      - Arwain y gwaith o ddarparu gwasanaethau cymhleth neu risg uchel, fel y rhai a ddefnyddir mewn gofal brys neu sy'n disodli system glinigol graidd.
+      - Gweithredu fel y prif bwynt uwchgyfeirio ar gyfer risgiau, problemau, a dibyniaethau cyflawni ar draws sawl tîm.
+      - Cynllunio cyflwyno ar raddfa fawr ar draws safleoedd a sefydliadau, gyda swyddogion diogelwch clinigol ac arweinwyr gweithredol.
+      - Rheoli cyllidebau, trefniadau masnachol, a pherfformiad cyflenwyr ar gyfer y gwasanaeth.
+      - Rheoli a datblygu rheolwyr cyflawni yn llinell.
+    qualifications:
+      - Profiad helaeth o ddarparu gwasanaethau digidol cymhleth drwy eu cylch bywyd cyfan.
+  - title: Pennaeth rheoli cyflawni
+    slug: pennaeth-rheoli-cyflawni
+    responsibilities:
+      - Arwain y proffesiwn rheoli cyflawni a gosod safonau'r sefydliad ar gyfer cyflawni ystwyth.
+      - Recriwtio, datblygu, a lleoli rheolwyr cyflawni ar draws y portffolio.
+      - Sicrhau bod dulliau cyflawni'n bodloni gofynion diogelwch clinigol, llywodraethiant gwybodaeth, a sicrwydd heb arafu timau'n ddiangen.
+      - Cynghori arweinwyr gweithredol a chlinigol ar risgiau, capasiti, a blaenoriaethau cyflawni.
+      - Rheoli cyllideb a chynllun gweithlu'r proffesiwn.
+    qualifications:
+      - Profiad helaeth o arwain cyflawni ar draws sawl tîm ac o arwain ymarfer cyflawni.

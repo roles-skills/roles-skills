@@ -1,0 +1,46 @@
+summary: Testingenieurinnen und -ingenieure bauen die automatisierten Tests, Werkzeuge und Frameworks, mit denen Teams die digitalen Gesundheitsdienste der Organisation schnell und häufig testen können. Sie schreiben Code, um Funktionen, Integrationen, Leistung, Sicherheit und Resilienz zu testen, und bauen Tests in Liefer-Pipelines ein, damit Änderungen an klinischen Systemen und Systemen für Patientinnen und Patienten sicher freigegeben werden können.
+health_context:
+- Klinische Systeme sind sicherheitskritisch; automatisierte Regressionstests schützen daher die in Gefährdungsprotokollen festgehaltenen Sicherheitsmaßnahmen und werden als Belege für Sicherheitsnachweise aufbewahrt.
+- Integrationen mit anderen Gesundheits- und Pflegesystemen brauchen automatisierte Tests gegen Standards wie HL7 FHIR und HL7 Version 2, oft mit simulierten Partnersystemen.
+- Klinische Dienste laufen rund um die Uhr und haben vorhersehbare Spitzen; Leistungs- und Resilienztests bilden daher reale klinische Nachfrage nach.
+- Testumgebungen dürfen keine echten Patientendaten enthalten; Ingenieurinnen und Ingenieure erzeugen daher realistische synthetische Daten, auch für seltene und Grenzfälle der Klinik.
+- Als Medizinprodukt regulierte Software braucht als Teil ihres Lebenszyklus nach Normen wie IEC 62304 nachvollziehbare, wiederholbare Tests.
+levels:
+- title: Associate Testingenieur/in
+  responsibilities:
+  - Einfache automatisierte Tests unter Aufsicht schreiben und pflegen und dabei die Engineering-Standards des Teams befolgen.
+  - Automatisierte und manuelle Tests ausführen und Ergebnisse genau festhalten.
+  - Helfen, Fehler zu untersuchen und zu melden, auch in Integrationen mit klinischen Systemen.
+  - Synthetische Testdaten nutzen und in Testumgebungen die Regeln der Informationsgovernance befolgen.
+  - Die Testwerkzeuge, Code-Praktiken und den Prozess der klinischen Sicherheit des Teams lernen.
+  qualifications:
+  - Etwas Erfahrung mit Programmierung oder Tests oder Einschreibung in eine einschlägige Ausbildung oder gleichwertig.
+- title: Testingenieur/in
+  responsibilities:
+  - Automatisierte Funktions-, Integrations- und API-Tests für klinische Dienste und Dienste für Patientinnen und Patienten entwerfen und bauen.
+  - Tests bauen, die Nachrichten gegen HL7-FHIR-Profile und andere Interoperabilitätsspezifikationen prüfen.
+  - Synthetische Patientendaten erzeugen, die realistische und Grenzfälle der Klinik abdecken.
+  - Tests in Liefer-Pipelines einbauen, damit sicherheitsrelevante Prüfungen bei jeder Änderung laufen.
+  - Testaufwand schätzen, Ergebnisse berichten und die Lösung von Fehlern unterstützen.
+  qualifications:
+  - Ein Studienabschluss in Informatik oder einem verwandten Fach oder gleichwertige Erfahrung.
+  - Erfahrung im Bau automatisierter Tests.
+- title: Senior-Testingenieur/in
+  responsibilities:
+  - Test-Engineering für einen Bereich leiten und Werkzeuge, Frameworks und Testarten wählen, die dessen Risiken früh angehen.
+  - Wiederverwendbare Test-Frameworks und Simulatoren für klinische Systeme und Partnerintegrationen bauen.
+  - Leistungs-, Last- und Resilienztests auf Grundlage realer klinischer Nachfrage planen und durchführen.
+  - Sicherstellen, dass automatisierte Tests auf Gefährdungen und Sicherheitsmaßnahmen zurückführbar sind und Belege für Sicherheitsnachweise liefern.
+  - Andere Testingenieurinnen und -ingenieure anleiten und begleiten und Engineering-Standards mit Entwicklerinnen und Entwicklern vereinbaren.
+  qualifications:
+  - Umfangreiche Erfahrung im Test-Engineering, auf einem Niveau, das einem Masterabschluss entspricht.
+- title: Leitende/r Testingenieur/in
+  responsibilities:
+  - Die Strategie und Standards des Test-Engineerings über einen breiten Bereich festlegen, einschließlich kontinuierlichen Testens in Liefer-Pipelines.
+  - Testingenieurinnen, -ingenieure und Teams in der Praxis des Quality Engineerings leiten und begleiten.
+  - Sicherstellen, dass Tests regulierter und sicherheitskritischer Software die erforderlichen Standards erfüllen und nachvollziehbar sind.
+  - Qualitäts- und Sicherheitsrisiken an leitende Produkt-, klinische und Anbieterleitungen eskalieren.
+  - Chancen finden, früher und häufiger zu testen, und die Wirkung auf die Qualität messen.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung des Test-Engineerings für komplexe Dienste.
+  job_evaluation_notes: Das UK GDaD PCF schlägt für diese Stufe SEO bis G6 vor, was Entgeltgruppe 7 entspricht, derselben Entgeltgruppe wie die Senior-Testingenieurin oder der Senior-Testingenieur. Diese Referenz ordnet sie in Entgeltgruppe 8a ein, weil sie Strategie und Standards des Test-Engineerings über einen breiten Bereich festlegt.

@@ -1,0 +1,47 @@
+summary: >
+  Mae gweinyddwyr yn cadw timau a gwasanaethau i redeg drwy ymdrin â gweinyddiaeth y sefydliad o ddydd i ddydd:
+  gohebiaeth, dyddiaduron, cyfarfodydd, cofnodion, mewnbynnu data, archebu, ac ymholiadau. Mewn sefydliad gofal
+  iechyd digidol maen nhw'n cefnogi timau digidol, clinigol, a chorfforaethol, ac yn aml yn ymdrin â gwybodaeth
+  gyfrinachol am gleifion a staff.
+health_context:
+  - Mae gweinyddwyr yn aml yn gweld gwybodaeth gyfrinachol am gleifion a staff, felly maen nhw'n dilyn rheolau llywodraethiant gwybodaeth yn ofalus.
+  - Gall ymholiadau ddod gan gleifion, staff gofal, a'r cyhoedd, a gall rhai galwyr fod yn bryderus neu'n ofidus.
+  - Mae cofnodion a mewnbynnu data cywir yn bwysig, gan y gall gwallau lifo i systemau clinigol, adroddiadau, a thaliadau.
+  - Mae llawer o brosesau gweinyddol yn symud i offer digidol, felly mae gweinyddwyr yn helpu i brofi a mabwysiadu ffyrdd newydd o weithio.
+levels:
+  - title: Cynorthwyydd gweinyddol
+    slug: cynorthwyydd-gweinyddol
+    summary: Yn cyflawni tasgau gweinyddol arferol ar gyfer tîm, gan ddilyn gweithdrefnau penodol gyda goruchwyliaeth gerllaw.
+    responsibilities:
+      - Ateb galwadau ac e-byst, cymryd negeseuon cywir, a throsglwyddo ymholiadau i'r person cywir.
+      - Mewnbynnu a diweddaru data'n gywir yn systemau'r tîm.
+      - Ffeilio a sganio dogfennau a chadw ffolderi a rennir mewn trefn.
+      - Archebu cyfarfodydd ac ystafelloedd, ac anfon papurau.
+      - Archebu deunydd ysgrifennu a chyflenwadau o fewn gweithdrefnau penodol.
+    qualifications:
+      - Sgiliau llythrennedd, rhifedd, a bysellfwrdd da.
+    job_evaluation_notes: Caiff sgiliau corfforol eu sgorio ar lefel 3 am sgiliau bysellfwrdd uwch, gyda chyflymder a chywirdeb wrth deipio a mewnbynnu data.
+  - title: Gweinyddwr
+    slug: gweinyddwr
+    summary: Yn darparu gwasanaeth gweinyddol llawn i dîm neu wasanaeth, gan ymdrin ag ystod o dasgau, rhai ohonynt yn anarferol, a threfnu ei lwyth gwaith ei hun.
+    responsibilities:
+      - Rheoli dyddiaduron a threfnu cyfarfodydd, digwyddiadau, a theithio ar gyfer tîm.
+      - Cymryd cofnodion a nodiadau gweithredu ar gyfer cyfarfodydd tîm a dilyn camau gweithredu.
+      - Ymdrin â gohebiaeth ac ymholiadau arferol, gan ddrafftio atebion lle bo angen.
+      - Cynnal cofnodion, tracwyr, a chronfeydd data, a chynhyrchu adroddiadau syml.
+      - Prosesu archebion, anfonebau, a threuliau o fewn terfynau penodol.
+      - Dangos gweithdrefnau gweinyddol y tîm i staff newydd.
+    qualifications:
+      - Cymhwyster lefel 3 mewn gweinyddu busnes, neu brofiad cyfatebol.
+  - title: Uwch weinyddwr
+    slug: uwch-weinyddwr
+    summary: Yn arwain y weinyddiaeth ar gyfer gwasanaeth neu gyfarwyddiaeth, gan oruchwylio gweinyddwyr eraill a gwella prosesau gweinyddol.
+    responsibilities:
+      - Cydlynu'r gwasanaeth gweinyddol ar gyfer cyfarwyddiaeth, gan ddyrannu gwaith i weinyddwyr.
+      - Cymryd cofnodion ffurfiol ar gyfer cyfarfodydd rheoli a rhaglenni.
+      - Ysgrifennu a gwella gweithdrefnau a thempledi gweinyddol.
+      - Cynhyrchu adroddiadau o dracwyr a systemau ar gyfer rheolwyr.
+      - Monitro gwariant ar gyllidebau gweinyddol a chodi amrywiannau.
+      - Hyfforddi a goruchwylio gweinyddwyr a phrentisiaid.
+    qualifications:
+      - Profiad gweinyddol sylweddol, ar lefel sy'n cyfateb i radd sylfaen.

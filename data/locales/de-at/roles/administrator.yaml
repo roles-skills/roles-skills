@@ -1,0 +1,40 @@
+summary: 'Verwaltungsangestellte halten Teams und Dienste am Laufen, indem sie die tägliche Verwaltung der Organisation erledigen: Korrespondenz, Terminkalender, Besprechungen, Akten, Dateneingabe, Bestellungen und Anfragen. In einer Organisation für digitale Gesundheit und Pflege unterstützen sie digitale, klinische und zentrale Teams und gehen oft mit vertraulichen Informationen über Patientinnen, Patienten und Mitarbeitende um.'
+health_context:
+- Verwaltungsangestellte sehen oft vertrauliche Informationen über Patientinnen, Patienten und Mitarbeitende und halten deshalb die Regeln der Informationsgovernance genau ein.
+- Anfragen können von Patientinnen und Patienten, Pflegepersonal und der Öffentlichkeit kommen, und manche Anrufende sind möglicherweise besorgt oder aufgewühlt.
+- Genaue Akten und Dateneingabe sind wichtig, denn Fehler können in klinische Systeme, Berichte und Zahlungen einfließen.
+- Viele Verwaltungsprozesse wechseln auf digitale Werkzeuge; Verwaltungsangestellte helfen, neue Arbeitsweisen zu testen und einzuführen.
+levels:
+- title: Verwaltungsassistent/in
+  summary: Erledigt routinemäßige Verwaltungsaufgaben für ein Team, nach festen Verfahren und unter enger Aufsicht.
+  responsibilities:
+  - Anrufe und E-Mails annehmen, genaue Nachrichten notieren und Anfragen an die richtige Person weiterleiten.
+  - Daten in den Systemen des Teams genau eingeben und aktualisieren.
+  - Dokumente ablegen und einscannen und gemeinsame Ordner in Ordnung halten.
+  - Besprechungen und Räume buchen und Unterlagen versenden.
+  - Büromaterial und Bedarfsartikel im Rahmen fester Verfahren bestellen.
+  qualifications:
+  - Gute Kenntnisse in Lesen, Schreiben, Rechnen und Tastaturschreiben.
+  job_evaluation_notes: Die körperlichen Fertigkeiten werden auf Stufe 3 bewertet, für fortgeschrittene Tastaturfertigkeit mit Schnelligkeit und Genauigkeit beim Tippen und bei der Dateneingabe.
+- title: Verwaltungsangestellte/r
+  summary: Erbringt einen vollständigen Verwaltungsdienst für ein Team oder einen Dienst, erledigt eine Reihe von Aufgaben, einige davon keine Routine, und organisiert das eigene Arbeitspensum.
+  responsibilities:
+  - Terminkalender verwalten und Besprechungen, Veranstaltungen und Reisen für ein Team organisieren.
+  - Protokolle und Aktionslisten für Teambesprechungen schreiben und Aufgaben nachverfolgen.
+  - Routinekorrespondenz und Anfragen bearbeiten und bei Bedarf Antworten entwerfen.
+  - Akten, Verfolgungslisten und Datenbanken pflegen und einfache Berichte erstellen.
+  - Bestellungen, Rechnungen und Spesen im Rahmen fester Grenzen bearbeiten.
+  - Neuen Mitarbeitenden die Verwaltungsverfahren des Teams zeigen.
+  qualifications:
+  - Eine Qualifikation auf Niveau 3 in Büromanagement oder gleichwertige Erfahrung.
+- title: Leitende/r Verwaltungsangestellte/r
+  summary: Leitet die Verwaltung für einen Dienst oder eine Direktion, beaufsichtigt andere Verwaltungsangestellte und verbessert Verwaltungsprozesse.
+  responsibilities:
+  - Den Verwaltungsdienst für eine Direktion koordinieren und Arbeit an Verwaltungsangestellte verteilen.
+  - Förmliche Protokolle für Leitungs- und Programmsitzungen schreiben.
+  - Verwaltungsverfahren und Vorlagen schreiben und verbessern.
+  - Aus Verfolgungslisten und Systemen Berichte für Führungskräfte erstellen.
+  - Ausgaben aus Verwaltungsbudgets überwachen und Abweichungen melden.
+  - Verwaltungsangestellte und Auszubildende schulen und beaufsichtigen.
+  qualifications:
+  - Umfangreiche Verwaltungserfahrung, auf einem Niveau, das einem Diplom entspricht.

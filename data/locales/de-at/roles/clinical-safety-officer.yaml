@@ -1,0 +1,46 @@
+summary: Beauftragte für klinische Sicherheit sind registrierte Klinikerinnen und Kliniker, die sicherstellen, dass die Gesundheits-IT-Systeme, die die Organisation baut, kauft und einsetzt, für Patientinnen und Patienten sicher sind. Sie führen den Prozess des klinischen Risikomanagements, leiten die Gefährdungsermittlung, verantworten Gefährdungsprotokolle und schreiben und zeichnen Berichte zu klinischen Sicherheitsnachweisen ab, anhand von Normen zum klinischen Risikomanagement wie ISO 14971 und IEC 80001-1.
+health_context:
+- Die Rolle muss von einer registrierten Klinikerin oder einem registrierten Kliniker ausgeübt werden, damit Sicherheitsurteile auf aktuellem klinischem Wissen und beruflicher Verantwortlichkeit beruhen.
+- Gesundheits-IT kann Patientinnen und Patienten durch falsche, fehlende, verspätete oder irreführende Informationen schaden; die Rolle bewertet deshalb Risiken, die oft in Daten und Arbeitsabläufen verborgen sind.
+- Klinische Sicherheitsarbeit begleitet ein System durch seinen gesamten Lebenszyklus, von Entwurf und Beschaffung über Einsatz und Änderung bis zur Außerbetriebnahme.
+- Manche Produkte sind zugleich als Medizinprodukte reguliert; die Rolle arbeitet daher mit Kolleginnen und Kollegen aus Regulierung und Qualität zusammen, wo sich Sicherheitsnachweise und Produktakten überschneiden.
+- Sicherheitsvorfälle mit Gesundheits-IT können schweren Schaden verursachen; die Rolle untersucht daher Vorfälle und stellt sicher, dass Lehren gezogen werden.
+levels:
+- title: Beauftragte/r für klinische Sicherheit
+  summary: Führt den Prozess des klinischen Risikomanagements für eine Reihe von Produkten oder Änderungen, leitet Gefährdungsworkshops, pflegt Gefährdungsprotokolle und schreibt Berichte zu klinischen Sicherheitsnachweisen zur Freigabe.
+  responsibilities:
+  - Workshops zur Gefährdungsermittlung mit Produktteams, klinischem Personal und Anbietern leiten.
+  - Klinische Risiken bewerten und Maßnahmen vereinbaren und dann durch Tests und Nachweise prüfen, dass die Maßnahmen wirken.
+  - Gefährdungsprotokolle und Berichte zu klinischen Sicherheitsnachweisen für Produkte und Änderungen schreiben und pflegen.
+  - Sicherheitsdokumentation von Anbietern für zugekaufte Systeme prüfen.
+  - Sicherheitsvorfälle mit Gesundheits-IT untersuchen und Verbesserungen empfehlen.
+  - Digitale Teams zum Prozess des klinischen Risikomanagements und zu Sicherheit durch Gestaltung beraten.
+  qualifications:
+  - Aktuelle Registrierung bei einer klinischen Berufsorganisation, mit umfangreicher klinischer Erfahrung.
+  - Schulung im klinischen Risikomanagement für Gesundheits-IT oder gleichwertige Erfahrung.
+  job_evaluation_notes: Die Patientenversorgung wird auf Stufe 5 bewertet, weil die Stelle fachlich zur Sicherheit von Systemen berät, die in der Patientenversorgung eingesetzt werden. Die geistige Anstrengung spiegelt langanhaltende Konzentration auf Sicherheitsdokumentation und Nachweise wider.
+- title: Senior-Beauftragte/r für klinische Sicherheit
+  summary: Leitet die klinische Sicherheit für ein großes Programm oder ein Portfolio von Hochrisikosystemen, zeichnet Sicherheitsnachweise ab und leitet andere Beauftragte für klinische Sicherheit an.
+  responsibilities:
+  - Das klinische Risikomanagement für Hochrisikosysteme wie elektronische Gesundheitsakten, Verordnung und Entscheidungsunterstützung leiten.
+  - Gefährdungsprotokolle und Berichte zu klinischen Sicherheitsnachweisen im Rahmen delegierter Befugnisse freigeben.
+  - Programmgremien zu klinischem Risiko und dazu beraten, ob ein System für die Inbetriebnahme sicher ist.
+  - Untersuchungen schwerer Sicherheitsvorfälle mit Gesundheits-IT leiten.
+  - Die Arbeit der Beauftragten für klinische Sicherheit und sicherheitsgeschulten Klinikerinnen und Kliniker anleiten und auf Qualität prüfen.
+  - Dabei helfen, das System des klinischen Risikomanagements der Organisation und seine Vorlagen zu verbessern.
+  qualifications:
+  - Aktuelle Registrierung bei einer klinischen Berufsorganisation, mit umfangreicher klinischer Erfahrung.
+  - Umfangreiche Erfahrung im klinischen Risikomanagement für Gesundheits-IT.
+- title: Leiter/in klinische Sicherheit
+  summary: Verantwortet das System des klinischen Risikomanagements der Organisation für Gesundheits-IT, leitet das Team für klinische Sicherheit und versichert dem Vorstand, dass die digitalen Dienste klinisch sicher sind.
+  responsibilities:
+  - Das System, die Richtlinie und die Prozesse des klinischen Risikomanagements für die gesamte Gesundheits-IT verantworten.
+  - Das Team für klinische Sicherheit und das weitere Netzwerk sicherheitsgeschulter Klinikerinnen und Kliniker führen und entwickeln.
+  - Sicherheitsnachweise für große Systeme absichern und die abschließende klinische Sicherheitsempfehlung zum Einsatz abgeben.
+  - Die Reaktion auf schwere Sicherheitsvorfälle mit Gesundheits-IT leiten, auch mit Partnern und Anbietern.
+  - An den Vorstand und seine Ausschüsse über Risiken und Absicherung der klinischen Sicherheit berichten.
+  - Eine Kultur der klinischen Sicherheit in digitalen, klinischen und Anbieterteams aufbauen.
+  qualifications:
+  - Aktuelle Registrierung bei einer klinischen Berufsorganisation, mit umfangreicher klinischer Erfahrung und Führungserfahrung.
+  - Umfassende Erfahrung in der Leitung des klinischen Risikomanagements für Gesundheits-IT in einer Organisation.
+  job_evaluation_notes: Die Patientenversorgung wird auf Stufe 6 bewertet, weil die Stelle für die klinische Sicherheit der Gesundheits-IT der Organisation verantwortlich ist. Die emotionale Anstrengung spiegelt die regelmäßige Durchsicht von Vorfällen mit Patientenschäden wider.

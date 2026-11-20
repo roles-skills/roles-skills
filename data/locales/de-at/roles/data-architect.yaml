@@ -1,0 +1,37 @@
+summary: Datenarchitektinnen und -architekten entwerfen, wie die Organisation ihre Gesundheits- und Pflegedaten strukturiert, speichert, bewegt und steuert, damit sie sicher für die direkte Versorgung, die Leistungsplanung und die Forschung genutzt werden können. Sie entwerfen Datenmodelle, Datenplattformen und Datenflüsse, setzen Datenstandards und stellen sicher, dass klinische Bedeutung, Qualität und Vertraulichkeit durchgängig erhalten bleiben.
+health_context:
+- Gesundheitsdaten müssen ihre klinische Bedeutung behalten; Datenmodelle nutzen daher klinische Terminologien wie SNOMED CT und Klassifikationen wie ICD.
+- Daten für die direkte Versorgung und Daten für Planung oder Forschung haben unterschiedliche Rechtsgrundlagen; Architektinnen und Architekten entwerfen daher auf Trennung, Deidentifizierung und kontrollierten Zugriff hin.
+- Daten stammen aus vielen klinischen und Pflegesystemen unterschiedlicher Qualität; Architektinnen und Architekten entwerfen daher auf Datenqualitätsprüfungen, Patientenzuordnung und Herkunftsnachweis hin.
+- Gemeinsame Versorgungsakten und Datenaustausch hängen von gemeinsamen Modellen wie HL7-FHIR-Ressourcen und vereinbarten nationalen oder internationalen Datensätzen ab.
+- Akten müssen lange Aufbewahrungsfristen erfüllen; Entwürfe müssen daher Archivierung und Zugriff auf historische Daten einplanen.
+levels:
+- title: Datenarchitekt/in
+  responsibilities:
+  - Logische und physische Datenmodelle für klinische und betriebliche Daten entwerfen, wo nötig mit klinischen Terminologien.
+  - Datenflüsse und Komponenten der Datenplattform entwerfen, etwa Data Warehouse, Lakehouse und Integrationsschichten.
+  - Metadaten, Einträge im Datenwörterbuch und Herkunftsnachweise für die Datensätze des eigenen Bereichs definieren.
+  - Deidentifizierung und Zugriffskontrollen entwerfen, damit Daten nur zu ihrem rechtmäßigen Zweck genutzt werden.
+  - Mit Kolleginnen und Kollegen aus Datenqualität und klinischer Kodierung strukturelle Ursachen schlechter Daten beheben.
+  - Dateningenieurinnen, -ingenieure und Analystinnen, Analysten zu Datenmodellen und Standards anleiten.
+  qualifications:
+  - Umfangreiche Erfahrung in Datenmodellierung und Entwurf von Datenplattformen, auf einem Niveau, das einem Masterabschluss entspricht.
+  job_evaluation_notes: 'Höher eingeordnet als der Gruppenvorschlag des UK GDaD PCF (Entgeltgruppe 7): Anzeigen im Gesundheitssektor verorten diese Rolle in Entgeltgruppe 8a. Planung, Richtlinien und Handlungsfreiheit werden über dem Profil der Entgeltgruppe 7 bewertet, weil die Stelle Datenplattformen und Kontrollen entwirft, die in vielen Diensten genutzt werden.'
+- title: Senior-Datenarchitekt/in
+  responsibilities:
+  - Die Datenarchitektur für eine wichtige Domäne entwerfen, etwa die gemeinsame Versorgungsakte oder die Analyseplattform.
+  - Sicherstellen, dass Datenentwürfe über Teams hinweg den Datenstandards und -modellen der Organisation folgen.
+  - Entwerfen, wie Daten mit Partnerorganisationen geteilt werden, einschließlich Standards, Kontrollen und Datenaustauschvereinbarungen.
+  - Kolleginnen und Kollegen aus Informationsgovernance und klinischer Sicherheit zu den Datenrisiken neuer Entwürfe beraten.
+  - Die Arbeit von Datenarchitektinnen und -architekten prüfen und anleiten.
+  qualifications:
+  - Umfassende Erfahrung in Datenarchitektur für komplexe Organisationen.
+- title: Chief-Datenarchitekt/in
+  responsibilities:
+  - Vision und Roadmap der Organisation für Datenarchitektur im Einklang mit ihrer Datenstrategie festlegen.
+  - Das Unternehmensdatenmodell, die Datenstandards und das Datenwörterbuch der Organisation verantworten.
+  - Geschäftsleitung und Gremien der Data Governance zu Datenarchitektur, Risiken und Investitionen beraten.
+  - Die Organisation in organisationsübergreifender Arbeit an Datenstandards und Interoperabilität vertreten.
+  - Die Praxis der Datenarchitektur leiten und ihre Mitarbeitenden entwickeln.
+  qualifications:
+  - Umfassende Erfahrung in der Leitung von Datenarchitektur über Organisationen hinweg.
