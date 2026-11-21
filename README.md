@@ -117,7 +117,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) to add or change roles and skills.
 
 ## Licence and credits
 
-Original content is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and code under the MIT licence. See [LICENSE](LICENSE).
+Licensed, at your option, under any of MIT, Apache-2.0, BSD-3-Clause, GPL-2.0-only, GPL-3.0-only, [OGL-UK-3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) (UK Open Government Licence v3.0), or [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). The earlier terms remain available: original content under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and code under the MIT licence. See [LICENSE.md](LICENSE.md) and [LICENSE](LICENSE).
 
 This reference quotes and builds on:
 
